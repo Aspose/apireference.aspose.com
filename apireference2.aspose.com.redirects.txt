@@ -1,2 +1,2 @@
 #SEO - Remove trailing slash 
-rewrite (.*)/$ https://apireference2.aspose.com$1 permanent;
+rewrite java/(.*?/)(.*?/)(.*?/)([a-zA-Z0-9_]+) https://apireference2.aspose.com/$1java/$2/$4 permanent;
