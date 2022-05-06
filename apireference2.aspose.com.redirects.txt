@@ -1,0 +1,2 @@
+#SEO - Remove trailing slash 
+rewrite (.*)/$ https://apireference2.aspose.com$1 permanent;
