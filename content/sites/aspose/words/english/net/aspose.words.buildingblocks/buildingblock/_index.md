@@ -1,0 +1,156 @@
+---
+title: BuildingBlock
+second_title: Aspose.Words for .NET API Reference
+description: 
+type: docs
+weight: 120
+url: /net/aspose.words.buildingblocks/buildingblock/
+---
+## BuildingBlock class
+
+Represents a glossary document entry such as a Building Block, AutoText or an AutoCorrect entry.
+
+```csharp
+public class BuildingBlock : CompositeNode
+```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [BuildingBlock](buildingblock)(GlossaryDocument) | Initializes a new instance of this class. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Behavior](behavior) { get; set; } | Specifies the behavior that shall be applied when the contents of the building block is inserted into the main document. |
+| [Category](category) { get; set; } | Specifies the second-level categorization for the building block. |
+| [Description](description) { get; set; } | Gets or sets the description associated with this building block. |
+| [FirstSection](firstsection) { get; } | Gets the first section in the building block. |
+| [Gallery](gallery) { get; set; } | Specifies the first-level categorization for the building block for the purposes of classification or user interface sorting. |
+| [Guid](guid) { get; set; } | Gets or sets an identifier (a 128-bit GUID) that uniquely identifies this building block. |
+| [LastSection](lastsection) { get; } | Gets the last section in the building block. |
+| [Name](name) { get; set; } | Gets or sets the name of this building block. |
+| override [NodeType](nodetype) { get; } | Returns the BuildingBlock value. |
+| [Sections](sections) { get; } | Returns a collection that represents all sections in the building block. |
+| [Type](type) { get; set; } | Specifies the building block type. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Accept](accept)(DocumentVisitor) | Accepts a visitor. |
+
+### Remarks
+
+[`BuildingBlock`](../buildingblock) can contain only [`Section`](../../aspose.words/section) nodes.
+
+[`BuildingBlock`](../buildingblock) can only be a child of [`GlossaryDocument`](../glossarydocument).
+
+You can create new building blocks and insert them into a glossary document. You can modify or delete existing building blocks. You can copy or move building blocks between documents. You can insert content of a building block into a document.
+
+Corresponds to the **docPart**, **docPartPr** and **docPartBody** elements in OOXML.
+
+### Examples
+
+Shows how to add a custom building block to a document.
+
+```csharp
+public void CreateAndInsert()
+{
+    // A document's glossary document stores building blocks.
+    Document doc = new Document();
+    GlossaryDocument glossaryDoc = new GlossaryDocument();
+    doc.GlossaryDocument = glossaryDoc;
+
+    // Create a building block, name it, and then add it to the glossary document.
+    BuildingBlock block = new BuildingBlock(glossaryDoc)
+    {
+        Name = "Custom Block"
+    };
+
+    glossaryDoc.AppendChild(block);
+
+    // All new building block GUIDs have the same zero value by default, and we can give them a new unique value.
+    Assert.AreEqual("00000000-0000-0000-0000-000000000000", block.Guid.ToString());
+
+    block.Guid = Guid.NewGuid();
+
+    // The following properties categorize building blocks
+    // in the menu we can access in Microsoft Word via "Insert" -> "Quick Parts" -> "Building Blocks Organizer".
+    Assert.AreEqual("(Empty Category)", block.Category);
+    Assert.AreEqual(BuildingBlockType.None, block.Type);
+    Assert.AreEqual(BuildingBlockGallery.All, block.Gallery);
+    Assert.AreEqual(BuildingBlockBehavior.Content, block.Behavior);
+
+    // Before we can add this building block to our document, we will need to give it some contents,
+    // which we will do using a document visitor. This visitor will also set a category, gallery, and behavior.
+    BuildingBlockVisitor visitor = new BuildingBlockVisitor(glossaryDoc);
+    block.Accept(visitor);
+
+    // We can access the block that we just made from the glossary document.
+    BuildingBlock customBlock = glossaryDoc.GetBuildingBlock(BuildingBlockGallery.QuickParts,
+        "My custom building blocks", "Custom Block");
+
+    // The block itself is a section that contains the text.
+    Assert.AreEqual($"Text inside {customBlock.Name}\f", customBlock.FirstSection.Body.FirstParagraph.GetText());
+    Assert.AreEqual(customBlock.FirstSection, customBlock.LastSection);
+
+    // Now, we can insert it into the document as a new section.
+    doc.AppendChild(doc.ImportNode(customBlock.FirstSection, true));
+
+    // We can also find it in Microsoft Word's Building Blocks Organizer and place it manually.
+    doc.Save(ArtifactsDir + "BuildingBlocks.CreateAndInsert.dotx");
+}
+
+/// <summary>
+/// Sets up a visited building block to be inserted into the document as a quick part and adds text to its contents.
+/// </summary>
+public class BuildingBlockVisitor : DocumentVisitor
+{
+    public BuildingBlockVisitor(GlossaryDocument ownerGlossaryDoc)
+    {
+        mBuilder = new StringBuilder();
+        mGlossaryDoc = ownerGlossaryDoc;
+    }
+
+    public override VisitorAction VisitBuildingBlockStart(BuildingBlock block)
+    {
+        // Configure the building block as a quick part, and add properties used by Building Blocks Organizer.
+        block.Behavior = BuildingBlockBehavior.Paragraph;
+        block.Category = "My custom building blocks";
+        block.Description =
+            "Using this block in the Quick Parts section of word will place its contents at the cursor.";
+        block.Gallery = BuildingBlockGallery.QuickParts;
+
+        // Add a section with text.
+        // Inserting the block into the document will append this section with its child nodes at the location.
+        Section section = new Section(mGlossaryDoc);
+        block.AppendChild(section);
+        block.FirstSection.EnsureMinimum();
+
+        Run run = new Run(mGlossaryDoc, "Text inside " + block.Name);
+        block.FirstSection.Body.FirstParagraph.AppendChild(run);
+
+        return VisitorAction.Continue;
+    }
+
+    public override VisitorAction VisitBuildingBlockEnd(BuildingBlock block)
+    {
+        mBuilder.Append("Visited " + block.Name + "\r\n");
+        return VisitorAction.Continue;
+    }
+
+    private readonly StringBuilder mBuilder;
+    private readonly GlossaryDocument mGlossaryDoc;
+}
+```
+
+### See Also
+
+* class [CompositeNode](../../aspose.words/compositenode)
+* namespace [Aspose.Words.BuildingBlocks](../../aspose.words.buildingblocks)
+* assembly [Aspose.Words](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Words.dll -->
