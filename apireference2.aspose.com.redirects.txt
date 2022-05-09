@@ -115,5 +115,4 @@ rewrite watermark/java/com.groupdocs.watermark/TextFormattingSearchCriteria http
 rewrite ^(net|java|cpp|php|nodejs|androidjava|python)/(words|pdf|cells|email|slides|imaging|barcode|diagram|tasks|ocr|note|cad|3d|html|gis|zip|psd|omr|page|pub|svg)(.*) https://apireference2.aspose.com/$2/$1$3 permanent;
 rewrite ^(net|java)/(viewer|annotation|conversion|comparison|signature|assembly|metadata|search|parser|watermark|editor|merger|redaction|classification)(.*) https://apireference2.aspose.com/$2/$1$3 permanent;
 rewrite diagram/nodejs/aspose.diagram/(.*) https://apireference2.aspose.com/diagram/nodejs/$1 permanent;
-rewrite  https://apireference2.aspose.com/ permanent;
 
