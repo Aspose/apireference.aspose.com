@@ -30,7 +30,7 @@ jobs:
         with:
             submodules: true  # Fetch Hugo themes
             fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-            - name: Checkout theme repo
+      - name: Checkout theme repo
         uses: actions/checkout@main
         with:
           repository: Aspose/api-theme
