@@ -28,9 +28,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-            submodules: true  # Fetch Hugo themes
+            submodules: recursive  # Fetch Hugo themes
             token: ${{ secrets.REPO_TOKEN }}
-
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
