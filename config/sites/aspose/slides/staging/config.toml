@@ -1,0 +1,6 @@
+[[deployment.targets]]
+name = "Stage"
+URL = "s3://apireference2.aspose.com/?prefix=slides/&region=us-west-2"
+
+
+
