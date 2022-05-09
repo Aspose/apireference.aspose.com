@@ -30,7 +30,13 @@ jobs:
         with:
             submodules: true  # Fetch Hugo themes
             fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
+            - name: Checkout theme repo
+        uses: actions/checkout@main
+        with:
+          repository: Aspose/api-theme
+          token: ${{ secrets.REPO_TOKEN }}
+          fetch-depth: 0
+          path: themes/api-theme      
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
