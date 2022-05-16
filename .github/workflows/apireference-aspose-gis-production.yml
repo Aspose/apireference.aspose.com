@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: apireference.aspose.com(3d)(Production)
+name: apireference.aspose.com(gis)(Production)
 
 # Controls when the action will run. 
 on:
@@ -8,7 +8,7 @@ on:
   push:
     branches: [ production ]
     paths:
-      - 'content/sites/aspose/3d/**'
+      - 'content/sites/aspose/gis/**'
   pull_request:
     branches: [ production ]
 
@@ -50,10 +50,10 @@ jobs:
 
       # Also specifies the theme we want to use
       - name: Build
-        run: hugo --configDir config/sites/aspose/3d --environment production --minify
+        run: hugo --configDir config/sites/aspose/gis --environment production --minify
         
-      - name: Deploy apireference2.aspose.com(3d)(production) to S3
-        run: hugo --configDir config/sites/aspose/3d --environment production deploy --target "Production" --maxDeletes 0
+      - name: Deploy apireference2.aspose.com(gis)(production) to S3
+        run: hugo --configDir config/sites/aspose/gis --environment production deploy --target "Production" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
@@ -62,7 +62,7 @@ jobs:
         uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
-          PATHS: /3d/*
+          PATHS: /gis/*
           AWS_REGION: 'us-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}

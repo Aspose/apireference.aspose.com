@@ -2,4 +2,8 @@
 [params.gmt]
 gmt_id = "GTM-NJMHSH"
 
+[[deployment.targets]]
+name = "Production"
+URL = "s3://apireference.aspose.com/?prefix=gis/&region=us-west-2"
+
 
