@@ -3,7 +3,7 @@ title: ICadBoundaryPath
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3390
+weight: 3380
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/icadboundarypath/
 ---
 ## ICadBoundaryPath interface

@@ -3,7 +3,7 @@ title: IfcSIPrefix
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15560
+weight: 15550
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsiprefix/
 ---
 ## IfcSIPrefix enumeration

@@ -3,7 +3,7 @@ title: IfcElectricCapacitanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14070
+weight: 14060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccapacitancemeasure/
 ---
 ## IfcElectricCapacitanceMeasure class

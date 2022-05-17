@@ -3,7 +3,7 @@ title: IfcTextStyleTextModel
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12700
+weight: 12690
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyletextmodel/
 ---
 ## IfcTextStyleTextModel class

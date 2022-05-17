@@ -3,7 +3,7 @@ title: DwfWhipPNGGroup4ImageFormat
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6160
+weight: 6150
 url: /net/aspose.cad.fileformats.dwf.whip/dwfwhippnggroup4imageformat/
 ---
 ## DwfWhipPNGGroup4ImageFormat enumeration

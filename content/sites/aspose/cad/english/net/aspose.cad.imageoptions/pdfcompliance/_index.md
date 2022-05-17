@@ -3,7 +3,7 @@ title: PdfCompliance
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29790
+weight: 29600
 url: /net/aspose.cad.imageoptions/pdfcompliance/
 ---
 ## PdfCompliance enumeration

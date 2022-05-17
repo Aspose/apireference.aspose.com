@@ -3,7 +3,7 @@ title: CF2DimensionLineTypes
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 830
+weight: 820
 url: /net/aspose.cad.fileformats.cf2/cf2dimensionlinetypes/
 ---
 ## CF2DimensionLineTypes enumeration

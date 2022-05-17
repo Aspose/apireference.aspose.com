@@ -3,7 +3,7 @@ title: IfcRelAssociatesAppliedValue
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11120
+weight: 11110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesappliedvalue/
 ---
 ## IfcRelAssociatesAppliedValue class

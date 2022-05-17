@@ -3,7 +3,7 @@ title: ObjRoot
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28470
+weight: 28460
 url: /net/aspose.cad.fileformats.obj.elements/objroot/
 ---
 ## ObjRoot class

@@ -3,7 +3,7 @@ title: PixelFormat
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30230
+weight: 30040
 url: /net/aspose.cad/pixelformat/
 ---
 ## PixelFormat enumeration

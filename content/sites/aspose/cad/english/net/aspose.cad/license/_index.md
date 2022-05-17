@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30110
+weight: 29920
 url: /net/aspose.cad/license/
 ---
 ## License class

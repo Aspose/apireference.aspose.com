@@ -3,7 +3,7 @@ title: DgnTagValueElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5900
+weight: 5890
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/
 ---
 ## DgnTagValueElement class

@@ -3,7 +3,7 @@ title: IfcText
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15980
+weight: 15970
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctext/
 ---
 ## IfcText class

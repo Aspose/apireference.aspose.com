@@ -3,7 +3,7 @@ title: IfcAnnotationCurveOccurrence
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6770
+weight: 6760
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/
 ---
 ## IfcAnnotationCurveOccurrence class

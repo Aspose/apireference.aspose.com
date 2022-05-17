@@ -3,7 +3,7 @@ title: IfcResourceTime
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22180
+weight: 22170
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/
 ---
 ## IfcResourceTime class

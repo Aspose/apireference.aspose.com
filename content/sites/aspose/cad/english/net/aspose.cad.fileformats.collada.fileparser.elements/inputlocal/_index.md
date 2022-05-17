@@ -3,7 +3,7 @@ title: InputLocal
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4770
+weight: 4760
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/inputlocal/
 ---
 ## InputLocal class

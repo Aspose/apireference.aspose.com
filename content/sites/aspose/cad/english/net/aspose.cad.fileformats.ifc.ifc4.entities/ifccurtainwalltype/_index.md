@@ -3,7 +3,7 @@ title: IfcCurtainWallType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18040
+weight: 18030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurtainwalltype/
 ---
 ## IfcCurtainWallType class

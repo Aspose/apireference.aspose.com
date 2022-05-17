@@ -3,7 +3,7 @@ title: DgnMultiTextElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5780
+weight: 5770
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/
 ---
 ## DgnMultiTextElement class

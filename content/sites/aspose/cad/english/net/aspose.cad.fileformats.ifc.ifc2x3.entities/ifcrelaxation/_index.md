@@ -3,7 +3,7 @@ title: IfcRelaxation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11510
+weight: 11500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/
 ---
 ## IfcRelaxation class

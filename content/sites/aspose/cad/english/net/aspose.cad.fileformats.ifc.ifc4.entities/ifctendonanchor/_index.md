@@ -3,7 +3,7 @@ title: IfcTendonAnchor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23500
+weight: 23490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchor/
 ---
 ## IfcTendonAnchor class

@@ -3,7 +3,7 @@ title: Asset
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4240
+weight: 4230
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/asset/
 ---
 ## Asset class

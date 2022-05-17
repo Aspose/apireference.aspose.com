@@ -3,7 +3,7 @@ title: IfcSectionTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27140
+weight: 27130
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsectiontypeenum/
 ---
 ## IfcSectionTypeEnum enumeration

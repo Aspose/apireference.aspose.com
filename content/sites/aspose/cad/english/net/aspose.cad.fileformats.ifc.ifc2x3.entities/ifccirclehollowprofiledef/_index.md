@@ -3,7 +3,7 @@ title: IfcCircleHollowProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7410
+weight: 7400
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccirclehollowprofiledef/
 ---
 ## IfcCircleHollowProfileDef class

@@ -3,7 +3,7 @@ title: IPolyLine
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28350
+weight: 28340
 url: /net/aspose.cad.fileformats.iges.drawables/ipolyline/
 ---
 ## IPolyLine interface

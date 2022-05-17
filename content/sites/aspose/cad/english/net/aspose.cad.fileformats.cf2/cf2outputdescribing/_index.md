@@ -3,7 +3,7 @@ title: CF2OutputDescribing
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 960
+weight: 950
 url: /net/aspose.cad.fileformats.cf2/cf2outputdescribing/
 ---
 ## CF2OutputDescribing class

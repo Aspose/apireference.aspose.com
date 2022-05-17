@@ -3,7 +3,7 @@ title: ExifSensingMethod
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 670
+weight: 660
 url: /net/aspose.cad.exif.enums/exifsensingmethod/
 ---
 ## ExifSensingMethod enumeration

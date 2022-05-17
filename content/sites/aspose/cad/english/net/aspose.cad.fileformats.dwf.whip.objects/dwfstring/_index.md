@@ -3,7 +3,7 @@ title: DwfString
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6380
+weight: 6370
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfstring/
 ---
 ## DwfString class

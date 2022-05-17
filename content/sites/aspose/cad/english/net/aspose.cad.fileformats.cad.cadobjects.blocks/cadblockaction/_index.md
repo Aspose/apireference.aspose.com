@@ -3,7 +3,7 @@ title: CadBlockAction
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1690
+weight: 1680
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaction/
 ---
 ## CadBlockAction class

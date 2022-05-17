@@ -3,7 +3,7 @@ title: FxCommonTransparent
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4720
+weight: 4710
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommontransparent/
 ---
 ## FxCommonTransparent class

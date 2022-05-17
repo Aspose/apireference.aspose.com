@@ -3,7 +3,7 @@ title: IfcPresentationItem
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20900
+weight: 20890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationitem/
 ---
 ## IfcPresentationItem class

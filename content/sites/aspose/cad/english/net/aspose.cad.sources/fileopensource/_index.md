@@ -3,7 +3,7 @@ title: FileOpenSource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30400
+weight: 30210
 url: /net/aspose.cad.sources/fileopensource/
 ---
 ## FileOpenSource class

@@ -3,7 +3,7 @@ title: IfcDimensionPair
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8160
+weight: 8150
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionpair/
 ---
 ## IfcDimensionPair class

@@ -3,7 +3,7 @@ title: IfcMaterialLayer
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9730
+weight: 9720
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/
 ---
 ## IfcMaterialLayer class

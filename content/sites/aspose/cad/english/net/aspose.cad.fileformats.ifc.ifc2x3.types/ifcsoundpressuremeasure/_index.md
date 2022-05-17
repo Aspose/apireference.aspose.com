@@ -3,7 +3,7 @@ title: IfcSoundPressureMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15740
+weight: 15730
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsoundpressuremeasure/
 ---
 ## IfcSoundPressureMeasure class

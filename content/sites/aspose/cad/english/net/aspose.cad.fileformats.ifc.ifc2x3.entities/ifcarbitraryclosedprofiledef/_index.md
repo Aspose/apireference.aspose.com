@@ -3,7 +3,7 @@ title: IfcArbitraryClosedProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6920
+weight: 6910
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryclosedprofiledef/
 ---
 ## IfcArbitraryClosedProfileDef class

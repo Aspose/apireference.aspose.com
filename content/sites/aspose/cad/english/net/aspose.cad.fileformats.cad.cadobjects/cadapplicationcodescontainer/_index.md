@@ -3,7 +3,7 @@ title: CadApplicationCodesContainer
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2120
+weight: 2110
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodescontainer/
 ---
 ## CadApplicationCodesContainer class

@@ -3,7 +3,7 @@ title: LinePatternPredef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28370
+weight: 28360
 url: /net/aspose.cad.fileformats.iges.drawables/linepatternpredef/
 ---
 ## LinePatternPredef enumeration

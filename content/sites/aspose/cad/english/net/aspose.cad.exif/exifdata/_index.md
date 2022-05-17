@@ -3,7 +3,7 @@ title: ExifData
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 720
+weight: 710
 url: /net/aspose.cad.exif/exifdata/
 ---
 ## ExifData class

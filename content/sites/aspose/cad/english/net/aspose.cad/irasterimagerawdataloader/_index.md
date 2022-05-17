@@ -3,7 +3,7 @@ title: IRasterImageRawDataLoader
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29520
+weight: 29330
 url: /net/aspose.cad/irasterimagerawdataloader/
 ---
 ## IRasterImageRawDataLoader interface

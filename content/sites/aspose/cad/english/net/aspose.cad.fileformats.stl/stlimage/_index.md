@@ -3,7 +3,7 @@ title: StlImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28880
+weight: 28720
 url: /net/aspose.cad.fileformats.stl/stlimage/
 ---
 ## StlImage class

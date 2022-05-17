@@ -3,7 +3,7 @@ title: CadShadePlotMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1490
+weight: 1480
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotmode/
 ---
 ## CadShadePlotMode enumeration

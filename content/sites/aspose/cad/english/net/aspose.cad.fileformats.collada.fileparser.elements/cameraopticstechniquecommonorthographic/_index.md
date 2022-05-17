@@ -3,7 +3,7 @@ title: CameraOpticsTechniqueCommonOrthographic
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4340
+weight: 4330
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonorthographic/
 ---
 ## CameraOpticsTechniqueCommonOrthographic class

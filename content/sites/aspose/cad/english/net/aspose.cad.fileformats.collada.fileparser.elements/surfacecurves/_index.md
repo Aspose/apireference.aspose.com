@@ -3,7 +3,7 @@ title: SurfaceCurves
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5330
+weight: 5320
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/
 ---
 ## SurfaceCurves class

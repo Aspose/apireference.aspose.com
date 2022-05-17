@@ -3,7 +3,7 @@ title: Parabola
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5100
+weight: 5090
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/parabola/
 ---
 ## Parabola class

@@ -3,7 +3,7 @@ title: IfcReal
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15450
+weight: 15440
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcreal/
 ---
 ## IfcReal class

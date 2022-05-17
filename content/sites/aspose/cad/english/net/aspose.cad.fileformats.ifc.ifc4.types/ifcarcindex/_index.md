@@ -3,7 +3,7 @@ title: IfcArcIndex
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24380
+weight: 24370
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcarcindex/
 ---
 ## IfcArcIndex class

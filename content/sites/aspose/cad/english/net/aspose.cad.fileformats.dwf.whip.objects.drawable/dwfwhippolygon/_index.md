@@ -3,7 +3,7 @@ title: DwfWhipPolygon
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6300
+weight: 6290
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolygon/
 ---
 ## DwfWhipPolygon class

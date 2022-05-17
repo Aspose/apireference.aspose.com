@@ -3,7 +3,7 @@ title: IfcReinforcingElementType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21580
+weight: 21570
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingelementtype/
 ---
 ## IfcReinforcingElementType class

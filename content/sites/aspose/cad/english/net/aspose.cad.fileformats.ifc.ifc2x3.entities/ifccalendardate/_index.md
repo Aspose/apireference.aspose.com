@@ -3,7 +3,7 @@ title: IfcCalendarDate
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7300
+weight: 7290
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/
 ---
 ## IfcCalendarDate class

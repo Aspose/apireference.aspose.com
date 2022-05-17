@@ -3,7 +3,7 @@ title: DgnArcBasedElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5630
+weight: 5620
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/
 ---
 ## DgnArcBasedElement class

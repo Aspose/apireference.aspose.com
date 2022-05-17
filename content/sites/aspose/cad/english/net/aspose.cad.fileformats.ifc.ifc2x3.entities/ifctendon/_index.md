@@ -3,7 +3,7 @@ title: IfcTendon
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12620
+weight: 12610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/
 ---
 ## IfcTendon class

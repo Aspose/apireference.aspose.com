@@ -3,7 +3,7 @@ title: IfcCompoundPlaneAngleMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24770
+weight: 24760
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccompoundplaneanglemeasure/
 ---
 ## IfcCompoundPlaneAngleMeasure class

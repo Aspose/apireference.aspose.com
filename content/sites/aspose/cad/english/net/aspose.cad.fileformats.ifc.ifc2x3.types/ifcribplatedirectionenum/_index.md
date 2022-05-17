@@ -3,7 +3,7 @@ title: IfcRibPlateDirectionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15500
+weight: 15490
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcribplatedirectionenum/
 ---
 ## IfcRibPlateDirectionEnum enumeration

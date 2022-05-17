@@ -3,7 +3,7 @@ title: IfcDamperTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13800
+weight: 13790
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdampertypeenum/
 ---
 ## IfcDamperTypeEnum enumeration

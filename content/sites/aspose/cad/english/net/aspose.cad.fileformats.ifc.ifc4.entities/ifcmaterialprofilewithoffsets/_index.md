@@ -3,7 +3,7 @@ title: IfcMaterialProfileWithOffsets
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20150
+weight: 20140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilewithoffsets/
 ---
 ## IfcMaterialProfileWithOffsets class

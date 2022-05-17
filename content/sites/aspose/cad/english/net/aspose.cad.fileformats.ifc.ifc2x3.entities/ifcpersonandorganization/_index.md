@@ -3,7 +3,7 @@ title: IfcPersonAndOrganization
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10140
+weight: 10130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpersonandorganization/
 ---
 ## IfcPersonAndOrganization class

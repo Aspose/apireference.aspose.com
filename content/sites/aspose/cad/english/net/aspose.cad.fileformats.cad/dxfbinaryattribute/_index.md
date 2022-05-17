@@ -3,7 +3,7 @@ title: DxfBinaryAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4090
+weight: 4080
 url: /net/aspose.cad.fileformats.cad/dxfbinaryattribute/
 ---
 ## DxfBinaryAttribute class

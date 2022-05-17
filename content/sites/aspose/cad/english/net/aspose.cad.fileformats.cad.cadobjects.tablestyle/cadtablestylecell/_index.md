@@ -3,7 +3,7 @@ title: CadTableStyleCell
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3620
+weight: 3610
 url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/
 ---
 ## CadTableStyleCell class

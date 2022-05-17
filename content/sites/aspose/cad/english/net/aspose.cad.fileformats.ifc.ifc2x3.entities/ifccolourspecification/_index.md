@@ -3,7 +3,7 @@ title: IfcColourSpecification
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7520
+weight: 7510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourspecification/
 ---
 ## IfcColourSpecification class

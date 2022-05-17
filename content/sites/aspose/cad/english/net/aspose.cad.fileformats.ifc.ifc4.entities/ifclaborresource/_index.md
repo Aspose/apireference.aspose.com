@@ -3,7 +3,7 @@ title: IfcLaborResource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19770
+weight: 19760
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclaborresource/
 ---
 ## IfcLaborResource class

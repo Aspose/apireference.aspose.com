@@ -3,7 +3,7 @@ title: IfcRoofTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15520
+weight: 15510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcrooftypeenum/
 ---
 ## IfcRoofTypeEnum enumeration

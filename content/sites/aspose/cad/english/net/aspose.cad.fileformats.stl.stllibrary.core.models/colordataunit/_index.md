@@ -3,7 +3,7 @@ title: ColorDataUnit
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28890
+weight: 28730
 url: /net/aspose.cad.fileformats.stl.stllibrary.core.models/colordataunit/
 ---
 ## ColorDataUnit class

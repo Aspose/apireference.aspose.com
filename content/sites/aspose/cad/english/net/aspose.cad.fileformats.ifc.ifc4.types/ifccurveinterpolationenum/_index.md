@@ -3,7 +3,7 @@ title: IfcCurveInterpolationEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24990
+weight: 24980
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccurveinterpolationenum/
 ---
 ## IfcCurveInterpolationEnum enumeration

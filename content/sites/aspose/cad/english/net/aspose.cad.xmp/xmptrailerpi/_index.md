@@ -3,7 +3,7 @@ title: XmpTrailerPi
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 31060
+weight: 30830
 url: /net/aspose.cad.xmp/xmptrailerpi/
 ---
 ## XmpTrailerPi class

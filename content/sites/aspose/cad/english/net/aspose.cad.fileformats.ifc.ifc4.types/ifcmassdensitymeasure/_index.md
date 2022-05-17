@@ -3,7 +3,7 @@ title: IfcMassDensityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26200
+weight: 26190
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmassdensitymeasure/
 ---
 ## IfcMassDensityMeasure class

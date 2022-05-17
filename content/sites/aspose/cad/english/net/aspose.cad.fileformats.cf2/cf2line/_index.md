@@ -3,7 +3,7 @@ title: CF2Line
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 880
+weight: 870
 url: /net/aspose.cad.fileformats.cf2/cf2line/
 ---
 ## CF2Line class

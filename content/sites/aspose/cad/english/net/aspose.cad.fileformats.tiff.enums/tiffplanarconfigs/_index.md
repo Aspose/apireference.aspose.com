@@ -3,7 +3,7 @@ title: TiffPlanarConfigs
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29050
+weight: 28890
 url: /net/aspose.cad.fileformats.tiff.enums/tiffplanarconfigs/
 ---
 ## TiffPlanarConfigs enumeration

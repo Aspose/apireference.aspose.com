@@ -3,7 +3,7 @@ title: IfcSlabStandardCase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22480
+weight: 22470
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcslabstandardcase/
 ---
 ## IfcSlabStandardCase class

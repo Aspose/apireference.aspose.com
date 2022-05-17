@@ -3,7 +3,7 @@ title: ResizeType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30310
+weight: 30120
 url: /net/aspose.cad/resizetype/
 ---
 ## ResizeType enumeration

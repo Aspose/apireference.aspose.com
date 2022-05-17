@@ -3,7 +3,7 @@ title: CF2Order
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 940
+weight: 930
 url: /net/aspose.cad.fileformats.cf2/cf2order/
 ---
 ## CF2Order class

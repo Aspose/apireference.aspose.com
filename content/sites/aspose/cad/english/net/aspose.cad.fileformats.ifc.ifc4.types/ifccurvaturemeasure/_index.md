@@ -3,7 +3,7 @@ title: IfcCurvatureMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24970
+weight: 24960
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccurvaturemeasure/
 ---
 ## IfcCurvatureMeasure class

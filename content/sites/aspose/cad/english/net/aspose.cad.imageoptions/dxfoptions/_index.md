@@ -3,7 +3,7 @@ title: DxfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29680
+weight: 29490
 url: /net/aspose.cad.imageoptions/dxfoptions/
 ---
 ## DxfOptions class

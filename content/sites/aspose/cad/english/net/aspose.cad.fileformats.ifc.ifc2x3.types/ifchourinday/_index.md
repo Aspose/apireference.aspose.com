@@ -3,7 +3,7 @@ title: IfcHourInDay
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14500
+weight: 14490
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifchourinday/
 ---
 ## IfcHourInDay class

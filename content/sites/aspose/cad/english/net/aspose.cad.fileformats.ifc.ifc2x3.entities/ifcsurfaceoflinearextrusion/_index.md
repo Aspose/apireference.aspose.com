@@ -3,7 +3,7 @@ title: IfcSurfaceOfLinearExtrusion
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12400
+weight: 12390
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfaceoflinearextrusion/
 ---
 ## IfcSurfaceOfLinearExtrusion class

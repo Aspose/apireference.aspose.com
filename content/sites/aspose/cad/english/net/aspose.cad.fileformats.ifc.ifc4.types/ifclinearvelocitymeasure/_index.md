@@ -3,7 +3,7 @@ title: IfcLinearVelocityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26110
+weight: 26100
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclinearvelocitymeasure/
 ---
 ## IfcLinearVelocityMeasure class

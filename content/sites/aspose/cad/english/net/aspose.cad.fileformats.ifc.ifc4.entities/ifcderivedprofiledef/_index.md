@@ -3,7 +3,7 @@ title: IfcDerivedProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18150
+weight: 18140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedprofiledef/
 ---
 ## IfcDerivedProfileDef class

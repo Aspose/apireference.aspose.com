@@ -3,7 +3,7 @@ title: IfcSectionedSpine
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22340
+weight: 22330
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/
 ---
 ## IfcSectionedSpine class

@@ -3,7 +3,7 @@ title: IfcLightSource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9570
+weight: 9560
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/
 ---
 ## IfcLightSource class

@@ -3,7 +3,7 @@ title: IfcImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28260
+weight: 28250
 url: /net/aspose.cad.fileformats.ifc/ifcimage/
 ---
 ## IfcImage class

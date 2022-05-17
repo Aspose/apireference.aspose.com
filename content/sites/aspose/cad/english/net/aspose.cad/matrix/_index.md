@@ -3,7 +3,7 @@ title: Matrix
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30130
+weight: 29940
 url: /net/aspose.cad/matrix/
 ---
 ## Matrix class

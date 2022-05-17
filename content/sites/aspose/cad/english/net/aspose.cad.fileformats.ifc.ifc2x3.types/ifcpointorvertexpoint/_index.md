@@ -3,7 +3,7 @@ title: IfcPointOrVertexPoint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15240
+weight: 15230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpointorvertexpoint/
 ---
 ## IfcPointOrVertexPoint class

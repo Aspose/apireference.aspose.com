@@ -3,7 +3,7 @@ title: IfcSpaceProgram
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11880
+weight: 11870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/
 ---
 ## IfcSpaceProgram class

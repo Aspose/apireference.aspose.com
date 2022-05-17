@@ -3,7 +3,7 @@ title: CadApplicationCodes
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2110
+weight: 2100
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/
 ---
 ## CadApplicationCodes class

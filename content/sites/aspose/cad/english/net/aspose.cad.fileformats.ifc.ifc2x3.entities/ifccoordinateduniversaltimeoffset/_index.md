@@ -3,7 +3,7 @@ title: IfcCoordinatedUniversalTimeOffset
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7850
+weight: 7840
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/
 ---
 ## IfcCoordinatedUniversalTimeOffset class

@@ -3,7 +3,7 @@ title: IfcCartesianTransformationOperator2DnonUniform
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17270
+weight: 17260
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2dnonuniform/
 ---
 ## IfcCartesianTransformationOperator2DnonUniform class

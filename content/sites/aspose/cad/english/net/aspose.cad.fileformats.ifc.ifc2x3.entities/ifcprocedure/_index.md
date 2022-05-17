@@ -3,7 +3,7 @@ title: IfcProcedure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10480
+weight: 10470
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprocedure/
 ---
 ## IfcProcedure class

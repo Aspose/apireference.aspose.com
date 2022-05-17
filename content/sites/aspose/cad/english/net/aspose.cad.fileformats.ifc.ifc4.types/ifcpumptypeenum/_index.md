@@ -3,7 +3,7 @@ title: IfcPumpTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26890
+weight: 26880
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpumptypeenum/
 ---
 ## IfcPumpTypeEnum enumeration

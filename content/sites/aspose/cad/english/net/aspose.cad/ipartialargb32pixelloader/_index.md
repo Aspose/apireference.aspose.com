@@ -3,7 +3,7 @@ title: IPartialArgb32PixelLoader
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29460
+weight: 29270
 url: /net/aspose.cad/ipartialargb32pixelloader/
 ---
 ## IPartialArgb32PixelLoader interface

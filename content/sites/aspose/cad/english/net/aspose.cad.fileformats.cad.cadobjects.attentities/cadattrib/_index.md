@@ -3,7 +3,7 @@ title: CadAttrib
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1650
+weight: 1640
 url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/
 ---
 ## CadAttrib class

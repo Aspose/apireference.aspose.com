@@ -3,7 +3,7 @@ title: IfcCondition
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7610
+weight: 7600
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccondition/
 ---
 ## IfcCondition class

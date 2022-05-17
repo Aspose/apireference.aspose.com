@@ -3,7 +3,7 @@ title: TiffNewSubFileTypes
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29020
+weight: 28860
 url: /net/aspose.cad.fileformats.tiff.enums/tiffnewsubfiletypes/
 ---
 ## TiffNewSubFileTypes enumeration

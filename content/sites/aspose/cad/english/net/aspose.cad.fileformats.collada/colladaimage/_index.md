@@ -3,7 +3,7 @@ title: ColladaImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4210
+weight: 4200
 url: /net/aspose.cad.fileformats.collada/colladaimage/
 ---
 ## ColladaImage class

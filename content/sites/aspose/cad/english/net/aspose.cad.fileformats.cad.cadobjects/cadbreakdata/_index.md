@@ -3,7 +3,7 @@ title: CadBreakData
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2230
+weight: 2220
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbreakdata/
 ---
 ## CadBreakData class

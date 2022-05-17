@@ -3,7 +3,7 @@ title: CF2TypeDElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1050
+weight: 1040
 url: /net/aspose.cad.fileformats.cf2/cf2typedelement/
 ---
 ## CF2TypeDElement enumeration

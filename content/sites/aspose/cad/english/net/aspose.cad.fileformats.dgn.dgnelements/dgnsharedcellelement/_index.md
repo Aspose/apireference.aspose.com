@@ -3,7 +3,7 @@ title: DgnSharedCellElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5830
+weight: 5820
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/
 ---
 ## DgnSharedCellElement class

@@ -3,7 +3,7 @@ title: IfcNonNegativeLengthMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26430
+weight: 26420
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcnonnegativelengthmeasure/
 ---
 ## IfcNonNegativeLengthMeasure class

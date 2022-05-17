@@ -3,7 +3,7 @@ title: IfcIlluminanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25830
+weight: 25820
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcilluminancemeasure/
 ---
 ## IfcIlluminanceMeasure class

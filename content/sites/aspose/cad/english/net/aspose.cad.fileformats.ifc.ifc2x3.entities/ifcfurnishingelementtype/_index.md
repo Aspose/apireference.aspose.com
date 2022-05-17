@@ -3,7 +3,7 @@ title: IfcFurnishingElementType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9240
+weight: 9230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfurnishingelementtype/
 ---
 ## IfcFurnishingElementType class

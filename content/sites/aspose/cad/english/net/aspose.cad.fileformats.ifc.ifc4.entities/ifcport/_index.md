@@ -3,7 +3,7 @@ title: IfcPort
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20820
+weight: 20810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcport/
 ---
 ## IfcPort class

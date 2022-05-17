@@ -3,7 +3,7 @@ title: CadPolyline
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3530
+weight: 3520
 url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline/
 ---
 ## CadPolyline class

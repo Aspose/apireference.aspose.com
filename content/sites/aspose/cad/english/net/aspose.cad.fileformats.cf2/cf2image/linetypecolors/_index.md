@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cf2/cf2image/linetypecolors/
 Colors of the line types.
 
 ```csharp
-public Dictionary<CF2LineTypes, > LineTypeColors { get; }
+public Dictionary<CF2LineTypes,    > LineTypeColors { get; }
 ```
 
 ## Property Value

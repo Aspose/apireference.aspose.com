@@ -3,7 +3,7 @@ title: IfcGrid
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19510
+weight: 19500
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgrid/
 ---
 ## IfcGrid class

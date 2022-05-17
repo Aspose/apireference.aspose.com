@@ -3,7 +3,7 @@ title: InputLocalOffset
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4780
+weight: 4770
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/
 ---
 ## InputLocalOffset class

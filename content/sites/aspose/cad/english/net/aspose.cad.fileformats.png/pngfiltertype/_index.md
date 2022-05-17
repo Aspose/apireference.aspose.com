@@ -3,7 +3,7 @@ title: PngFilterType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28770
+weight: 28610
 url: /net/aspose.cad.fileformats.png/pngfiltertype/
 ---
 ## PngFilterType enumeration

@@ -3,7 +3,7 @@ title: IfcSphere
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22640
+weight: 22630
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsphere/
 ---
 ## IfcSphere class

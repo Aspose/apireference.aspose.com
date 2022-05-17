@@ -3,7 +3,7 @@ title: IfcSurfaceTextureEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15920
+weight: 15910
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsurfacetextureenum/
 ---
 ## IfcSurfaceTextureEnum enumeration

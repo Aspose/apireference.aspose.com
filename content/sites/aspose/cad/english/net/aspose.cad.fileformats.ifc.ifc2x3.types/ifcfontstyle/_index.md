@@ -3,7 +3,7 @@ title: IfcFontStyle
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14350
+weight: 14340
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfontstyle/
 ---
 ## IfcFontStyle class

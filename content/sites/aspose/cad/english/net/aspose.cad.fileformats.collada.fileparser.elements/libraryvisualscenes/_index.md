@@ -3,7 +3,7 @@ title: LibraryVisualScenes
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4960
+weight: 4950
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/libraryvisualscenes/
 ---
 ## LibraryVisualScenes class

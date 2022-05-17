@@ -3,7 +3,7 @@ title: IfcRectangularPyramid
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10920
+weight: 10910
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangularpyramid/
 ---
 ## IfcRectangularPyramid class

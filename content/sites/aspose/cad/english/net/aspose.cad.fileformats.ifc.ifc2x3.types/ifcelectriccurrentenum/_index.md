@@ -3,7 +3,7 @@ title: IfcElectricCurrentEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14100
+weight: 14090
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentenum/
 ---
 ## IfcElectricCurrentEnum enumeration

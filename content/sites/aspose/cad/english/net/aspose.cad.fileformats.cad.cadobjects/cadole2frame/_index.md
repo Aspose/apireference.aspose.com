@@ -3,7 +3,7 @@ title: CadOle2Frame
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2760
+weight: 2750
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/
 ---
 ## CadOle2Frame class

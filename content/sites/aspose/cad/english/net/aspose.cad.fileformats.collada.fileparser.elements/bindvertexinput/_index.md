@@ -3,7 +3,7 @@ title: BindVertexInput
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4280
+weight: 4270
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/
 ---
 ## BindVertexInput class

@@ -3,7 +3,7 @@ title: IfcMechanicalConcreteMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9790
+weight: 9780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/
 ---
 ## IfcMechanicalConcreteMaterialProperties class

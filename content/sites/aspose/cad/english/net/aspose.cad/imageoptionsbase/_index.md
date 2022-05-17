@@ -3,7 +3,7 @@ title: ImageOptionsBase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30040
+weight: 29850
 url: /net/aspose.cad/imageoptionsbase/
 ---
 ## ImageOptionsBase class

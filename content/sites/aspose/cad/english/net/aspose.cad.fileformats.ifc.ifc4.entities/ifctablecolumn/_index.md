@@ -3,7 +3,7 @@ title: IfcTableColumn
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23400
+weight: 23390
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/
 ---
 ## IfcTableColumn class

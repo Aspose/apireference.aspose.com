@@ -3,7 +3,7 @@ title: DgnLineStyle
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5990
+weight: 5980
 url: /net/aspose.cad.fileformats.dgn/dgnlinestyle/
 ---
 ## DgnLineStyle enumeration

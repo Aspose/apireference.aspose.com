@@ -3,7 +3,7 @@ title: DataStreamSupporter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 440
+weight: 430
 url: /net/aspose.cad/datastreamsupporter/
 ---
 ## DataStreamSupporter class

@@ -3,7 +3,7 @@ title: IfcAsset
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16710
+weight: 16700
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasset/
 ---
 ## IfcAsset class

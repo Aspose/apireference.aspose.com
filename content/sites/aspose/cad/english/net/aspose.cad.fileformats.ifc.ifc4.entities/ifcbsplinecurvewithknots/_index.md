@@ -3,7 +3,7 @@ title: IfcBSplineCurveWithKnots
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16790
+weight: 16780
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/
 ---
 ## IfcBSplineCurveWithKnots class

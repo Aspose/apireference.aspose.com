@@ -3,7 +3,7 @@ title: IfcRelDecomposes
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21900
+weight: 21890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreldecomposes/
 ---
 ## IfcRelDecomposes class

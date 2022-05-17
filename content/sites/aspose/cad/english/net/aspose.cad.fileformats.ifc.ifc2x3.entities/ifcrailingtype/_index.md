@@ -3,7 +3,7 @@ title: IfcRailingType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10850
+weight: 10840
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrailingtype/
 ---
 ## IfcRailingType class

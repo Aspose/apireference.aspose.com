@@ -3,7 +3,7 @@ title: IfcCooledBeamType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17880
+weight: 17870
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccooledbeamtype/
 ---
 ## IfcCooledBeamType class

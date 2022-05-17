@@ -3,7 +3,7 @@ title: DgnSurfaceCreationMethod
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6020
+weight: 6010
 url: /net/aspose.cad.fileformats.dgn/dgnsurfacecreationmethod/
 ---
 ## DgnSurfaceCreationMethod enumeration

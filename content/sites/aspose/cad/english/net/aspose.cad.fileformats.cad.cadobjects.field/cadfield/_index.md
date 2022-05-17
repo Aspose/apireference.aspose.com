@@ -3,7 +3,7 @@ title: CadField
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3270
+weight: 3260
 url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/
 ---
 ## CadField class

@@ -3,7 +3,7 @@ title: PrimitivesWithHoles
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5170
+weight: 5160
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/primitiveswithholes/
 ---
 ## PrimitivesWithHoles class

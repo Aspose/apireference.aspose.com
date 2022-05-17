@@ -3,7 +3,7 @@ title: IfcShell
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15680
+weight: 15670
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcshell/
 ---
 ## IfcShell class

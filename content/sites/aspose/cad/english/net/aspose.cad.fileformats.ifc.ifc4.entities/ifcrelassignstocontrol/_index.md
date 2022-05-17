@@ -3,7 +3,7 @@ title: IfcRelAssignsToControl
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21640
+weight: 21630
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstocontrol/
 ---
 ## IfcRelAssignsToControl class

@@ -3,7 +3,7 @@ title: IfcBSplineCurveForm
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13390
+weight: 13380
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcbsplinecurveform/
 ---
 ## IfcBSplineCurveForm enumeration

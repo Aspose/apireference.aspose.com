@@ -3,7 +3,7 @@ title: IfcWindowPanelPositionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28100
+weight: 28090
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwindowpanelpositionenum/
 ---
 ## IfcWindowPanelPositionEnum enumeration

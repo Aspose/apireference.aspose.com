@@ -3,7 +3,7 @@ title: MifCodePageDecoder
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30160
+weight: 29970
 url: /net/aspose.cad/mifcodepagedecoder/
 ---
 ## MifCodePageDecoder class

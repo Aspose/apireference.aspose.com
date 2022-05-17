@@ -3,7 +3,7 @@ title: IfcTaskType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23470
+weight: 23460
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktype/
 ---
 ## IfcTaskType class

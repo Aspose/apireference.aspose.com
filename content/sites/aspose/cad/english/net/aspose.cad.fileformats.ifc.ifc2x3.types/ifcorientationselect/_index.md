@@ -3,7 +3,7 @@ title: IfcOrientationSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15110
+weight: 15100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcorientationselect/
 ---
 ## IfcOrientationSelect class

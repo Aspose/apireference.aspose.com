@@ -3,7 +3,7 @@ title: Jpeg2000Options
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29730
+weight: 29540
 url: /net/aspose.cad.imageoptions/jpeg2000options/
 ---
 ## Jpeg2000Options class

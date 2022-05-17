@@ -3,7 +3,7 @@ title: NurbsSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5070
+weight: 5060
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/
 ---
 ## NurbsSurface class

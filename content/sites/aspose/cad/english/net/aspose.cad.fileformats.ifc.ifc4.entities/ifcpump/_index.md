@@ -3,7 +3,7 @@ title: IfcPump
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21290
+weight: 21280
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpump/
 ---
 ## IfcPump class

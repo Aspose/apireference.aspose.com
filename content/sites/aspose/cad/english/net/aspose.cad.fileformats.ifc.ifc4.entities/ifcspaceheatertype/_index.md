@@ -3,7 +3,7 @@ title: IfcSpaceHeaterType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22560
+weight: 22550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspaceheatertype/
 ---
 ## IfcSpaceHeaterType class

@@ -3,7 +3,7 @@ title: IfcSectionModulusMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27130
+weight: 27120
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsectionmodulusmeasure/
 ---
 ## IfcSectionModulusMeasure class

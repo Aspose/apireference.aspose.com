@@ -3,7 +3,7 @@ title: XmpMimeType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30930
+weight: 30700
 url: /net/aspose.cad.xmp.types.derived/xmpmimetype/
 ---
 ## XmpMimeType class

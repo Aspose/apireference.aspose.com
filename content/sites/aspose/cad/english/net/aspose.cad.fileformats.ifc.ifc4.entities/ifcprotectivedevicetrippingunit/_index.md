@@ -3,7 +3,7 @@ title: IfcProtectiveDeviceTrippingUnit
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21250
+weight: 21240
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprotectivedevicetrippingunit/
 ---
 ## IfcProtectiveDeviceTrippingUnit class

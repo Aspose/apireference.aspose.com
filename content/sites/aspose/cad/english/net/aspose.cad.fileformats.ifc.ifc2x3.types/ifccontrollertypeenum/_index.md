@@ -3,7 +3,7 @@ title: IfcControllerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13670
+weight: 13660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccontrollertypeenum/
 ---
 ## IfcControllerTypeEnum enumeration

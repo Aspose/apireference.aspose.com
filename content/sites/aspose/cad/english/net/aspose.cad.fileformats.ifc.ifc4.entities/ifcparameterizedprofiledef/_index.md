@@ -3,7 +3,7 @@ title: IfcParameterizedProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20500
+weight: 20490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef/
 ---
 ## IfcParameterizedProfileDef class

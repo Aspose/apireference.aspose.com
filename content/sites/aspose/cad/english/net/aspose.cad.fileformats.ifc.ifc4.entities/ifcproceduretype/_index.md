@@ -3,7 +3,7 @@ title: IfcProcedureType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20960
+weight: 20950
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproceduretype/
 ---
 ## IfcProcedureType class

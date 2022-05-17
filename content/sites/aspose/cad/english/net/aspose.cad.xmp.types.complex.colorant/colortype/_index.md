@@ -3,7 +3,7 @@ title: ColorType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30750
+weight: 30520
 url: /net/aspose.cad.xmp.types.complex.colorant/colortype/
 ---
 ## ColorType enumeration

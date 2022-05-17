@@ -3,7 +3,7 @@ title: DwfPage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6120
+weight: 6110
 url: /net/aspose.cad.fileformats.dwf/dwfpage/
 ---
 ## DwfPage class

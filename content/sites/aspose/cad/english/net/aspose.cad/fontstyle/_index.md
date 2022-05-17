@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29350
+weight: 29190
 url: /net/aspose.cad/fontstyle/
 ---
 ## FontStyle enumeration

@@ -3,7 +3,7 @@ title: Thumbnail4Resource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28830
+weight: 28670
 url: /net/aspose.cad.fileformats.psd.resources/thumbnail4resource/
 ---
 ## Thumbnail4Resource class

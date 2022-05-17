@@ -3,7 +3,7 @@ title: IfcSolarDeviceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27260
+weight: 27250
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsolardevicetypeenum/
 ---
 ## IfcSolarDeviceTypeEnum enumeration

@@ -3,7 +3,7 @@ title: IfcMonetaryMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15010
+weight: 15000
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmonetarymeasure/
 ---
 ## IfcMonetaryMeasure class

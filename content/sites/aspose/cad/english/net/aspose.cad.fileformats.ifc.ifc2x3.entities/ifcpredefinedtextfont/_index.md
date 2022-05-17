@@ -3,7 +3,7 @@ title: IfcPreDefinedTextFont
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10430
+weight: 10420
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefinedtextfont/
 ---
 ## IfcPreDefinedTextFont class

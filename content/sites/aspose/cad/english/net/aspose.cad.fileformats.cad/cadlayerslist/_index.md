@@ -3,7 +3,7 @@ title: CadLayersList
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1590
+weight: 1580
 url: /net/aspose.cad.fileformats.cad/cadlayerslist/
 ---
 ## CadLayersList class

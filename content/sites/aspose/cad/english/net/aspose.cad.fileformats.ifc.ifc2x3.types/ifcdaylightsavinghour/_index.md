@@ -3,7 +3,7 @@ title: IfcDaylightSavingHour
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13840
+weight: 13830
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdaylightsavinghour/
 ---
 ## IfcDaylightSavingHour class

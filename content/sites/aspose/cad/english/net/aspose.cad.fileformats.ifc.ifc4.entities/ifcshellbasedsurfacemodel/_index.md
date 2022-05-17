@@ -3,7 +3,7 @@ title: IfcShellBasedSurfaceModel
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22420
+weight: 22410
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcshellbasedsurfacemodel/
 ---
 ## IfcShellBasedSurfaceModel class

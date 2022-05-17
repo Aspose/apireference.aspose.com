@@ -3,7 +3,7 @@ title: DgnTagType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6040
+weight: 6030
 url: /net/aspose.cad.fileformats.dgn/dgntagtype/
 ---
 ## DgnTagType enumeration

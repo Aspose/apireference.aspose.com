@@ -3,7 +3,7 @@ title: ObjImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28520
+weight: 28510
 url: /net/aspose.cad.fileformats.obj/objimage/
 ---
 ## ObjImage class

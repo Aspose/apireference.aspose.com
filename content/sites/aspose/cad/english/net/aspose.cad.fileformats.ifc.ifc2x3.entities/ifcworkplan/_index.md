@@ -3,7 +3,7 @@ title: IfcWorkPlan
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13140
+weight: 13130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/
 ---
 ## IfcWorkPlan class

@@ -3,7 +3,7 @@ title: Wires
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5550
+weight: 5540
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/wires/
 ---
 ## Wires class

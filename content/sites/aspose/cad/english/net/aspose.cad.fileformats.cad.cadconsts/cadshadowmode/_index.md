@@ -3,7 +3,7 @@ title: CadShadowMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1510
+weight: 1500
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadshadowmode/
 ---
 ## CadShadowMode enumeration

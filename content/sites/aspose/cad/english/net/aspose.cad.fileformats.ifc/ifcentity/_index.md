@@ -3,7 +3,7 @@ title: IfcEntity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28250
+weight: 28240
 url: /net/aspose.cad.fileformats.ifc/ifcentity/
 ---
 ## IfcEntity class

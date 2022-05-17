@@ -3,7 +3,7 @@ title: IfcElectricDistributionBoardType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18560
+weight: 18550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelectricdistributionboardtype/
 ---
 ## IfcElectricDistributionBoardType class

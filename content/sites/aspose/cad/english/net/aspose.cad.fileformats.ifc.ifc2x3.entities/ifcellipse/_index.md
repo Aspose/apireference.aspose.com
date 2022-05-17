@@ -3,7 +3,7 @@ title: IfcEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8670
+weight: 8660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcellipse/
 ---
 ## IfcEllipse class

@@ -3,7 +3,7 @@ title: IfcStructuralLoadOrResult
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22890
+weight: 22880
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadorresult/
 ---
 ## IfcStructuralLoadOrResult class

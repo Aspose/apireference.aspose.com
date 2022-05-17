@@ -3,7 +3,7 @@ title: IfcClosedShell
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7490
+weight: 7480
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclosedshell/
 ---
 ## IfcClosedShell class

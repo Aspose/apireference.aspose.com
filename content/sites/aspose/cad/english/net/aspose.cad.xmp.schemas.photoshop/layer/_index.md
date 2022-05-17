@@ -3,7 +3,7 @@ title: Layer
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30560
+weight: 30330
 url: /net/aspose.cad.xmp.schemas.photoshop/layer/
 ---
 ## Layer class

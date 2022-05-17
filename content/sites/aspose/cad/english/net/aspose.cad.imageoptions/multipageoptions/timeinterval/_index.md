@@ -9,7 +9,7 @@ url: /net/aspose.cad.imageoptions/multipageoptions/timeinterval/
 ## MultiPageOptions.TimeInterval property
 
 ```csharp
-public  TimeInterval { get; set; }
+public ​   TimeInterval { get; set; }
 ```
 
 ### See Also

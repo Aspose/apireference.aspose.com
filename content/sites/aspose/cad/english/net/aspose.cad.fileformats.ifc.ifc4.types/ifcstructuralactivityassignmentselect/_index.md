@@ -3,7 +3,7 @@ title: IfcStructuralActivityAssignmentSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27450
+weight: 27440
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralactivityassignmentselect/
 ---
 ## IfcStructuralActivityAssignmentSelect class

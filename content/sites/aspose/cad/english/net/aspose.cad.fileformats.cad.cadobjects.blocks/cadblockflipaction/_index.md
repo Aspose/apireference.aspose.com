@@ -3,7 +3,7 @@ title: CadBlockFlipAction
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1750
+weight: 1740
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipaction/
 ---
 ## CadBlockFlipAction class

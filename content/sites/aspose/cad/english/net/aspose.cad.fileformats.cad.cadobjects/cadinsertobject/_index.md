@@ -3,7 +3,7 @@ title: CadInsertObject
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2520
+weight: 2510
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadinsertobject/
 ---
 ## CadInsertObject class

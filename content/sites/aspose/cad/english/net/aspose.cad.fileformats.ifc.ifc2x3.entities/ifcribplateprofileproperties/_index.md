@@ -3,7 +3,7 @@ title: IfcRibPlateProfileProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11580
+weight: 11570
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcribplateprofileproperties/
 ---
 ## IfcRibPlateProfileProperties class

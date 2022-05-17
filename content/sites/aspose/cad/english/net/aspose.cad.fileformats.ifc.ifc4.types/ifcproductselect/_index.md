@@ -3,7 +3,7 @@ title: IfcProductSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26790
+weight: 26780
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcproductselect/
 ---
 ## IfcProductSelect class

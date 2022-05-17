@@ -3,7 +3,7 @@ title: DwfWhipCapStyleID
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6460
+weight: 6450
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipcapstyleid/
 ---
 ## DwfWhipCapStyleID enumeration

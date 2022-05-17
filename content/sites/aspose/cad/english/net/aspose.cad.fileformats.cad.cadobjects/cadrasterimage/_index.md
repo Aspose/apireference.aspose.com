@@ -3,7 +3,7 @@ title: CadRasterImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2830
+weight: 2820
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/
 ---
 ## CadRasterImage class

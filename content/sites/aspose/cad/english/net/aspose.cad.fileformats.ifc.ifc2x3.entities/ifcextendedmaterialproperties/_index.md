@@ -3,7 +3,7 @@ title: IfcExtendedMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8770
+weight: 8760
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/
 ---
 ## IfcExtendedMaterialProperties class

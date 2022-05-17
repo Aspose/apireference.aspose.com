@@ -3,7 +3,7 @@ title: CadText
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3070
+weight: 3060
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtext/
 ---
 ## CadText class

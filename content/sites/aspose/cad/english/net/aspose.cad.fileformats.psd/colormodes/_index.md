@@ -3,7 +3,7 @@ title: ColorModes
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28780
+weight: 28620
 url: /net/aspose.cad.fileformats.psd/colormodes/
 ---
 ## ColorModes enumeration

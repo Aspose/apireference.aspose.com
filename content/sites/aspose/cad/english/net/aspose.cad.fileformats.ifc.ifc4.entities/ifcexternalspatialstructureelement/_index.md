@@ -3,7 +3,7 @@ title: IfcExternalSpatialStructureElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18910
+weight: 18900
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalspatialstructureelement/
 ---
 ## IfcExternalSpatialStructureElement class

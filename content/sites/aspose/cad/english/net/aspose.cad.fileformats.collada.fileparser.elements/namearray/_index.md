@@ -3,7 +3,7 @@ title: NameArray
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5040
+weight: 5030
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/namearray/
 ---
 ## NameArray class

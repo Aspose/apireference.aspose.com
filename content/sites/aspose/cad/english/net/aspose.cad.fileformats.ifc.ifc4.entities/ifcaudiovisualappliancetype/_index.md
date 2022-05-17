@@ -3,7 +3,7 @@ title: IfcAudioVisualApplianceType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16740
+weight: 16730
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaudiovisualappliancetype/
 ---
 ## IfcAudioVisualApplianceType class

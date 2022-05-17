@@ -3,7 +3,7 @@ title: IfcRelConnectsPortToElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21800
+weight: 21790
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsporttoelement/
 ---
 ## IfcRelConnectsPortToElement class

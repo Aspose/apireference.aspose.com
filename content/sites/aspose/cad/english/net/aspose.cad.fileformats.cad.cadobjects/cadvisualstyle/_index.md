@@ -3,7 +3,7 @@ title: CadVisualStyle
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3150
+weight: 3140
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/
 ---
 ## CadVisualStyle class

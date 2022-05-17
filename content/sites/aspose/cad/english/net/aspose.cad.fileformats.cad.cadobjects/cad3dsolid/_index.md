@@ -3,7 +3,7 @@ title: Cad3DSolid
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1970
+weight: 1960
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dsolid/
 ---
 ## Cad3DSolid class

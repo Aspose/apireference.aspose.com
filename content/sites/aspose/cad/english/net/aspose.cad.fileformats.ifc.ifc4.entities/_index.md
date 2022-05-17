@@ -12,781 +12,781 @@ url: /net/aspose.cad.fileformats.ifc.ifc4.entities/
 
 | Class | Description |
 | --- | --- |
-| class [IfcActionRequest](./ifcactionrequest) | IfcActionRequest |
-| class [IfcActor](./ifcactor) | IfcActor |
-| class [IfcActorRole](./ifcactorrole) | IfcActorRole |
-| class [IfcActuator](./ifcactuator) | IfcActuator |
-| class [IfcActuatorType](./ifcactuatortype) | IfcActuatorType |
-| abstract class [IfcAddress](./ifcaddress) | IfcAddress |
-| class [IfcAdvancedBrep](./ifcadvancedbrep) | IfcAdvancedBrep |
-| class [IfcAdvancedBrepWithVoids](./ifcadvancedbrepwithvoids) | IfcAdvancedBrepWithVoids |
-| class [IfcAdvancedFace](./ifcadvancedface) | IfcAdvancedFace |
-| class [IfcAirTerminal](./ifcairterminal) | IfcAirTerminal |
-| class [IfcAirTerminalBox](./ifcairterminalbox) | IfcAirTerminalBox |
-| class [IfcAirTerminalBoxType](./ifcairterminalboxtype) | IfcAirTerminalBoxType |
-| class [IfcAirTerminalType](./ifcairterminaltype) | IfcAirTerminalType |
-| class [IfcAirToAirHeatRecovery](./ifcairtoairheatrecovery) | IfcAirToAirHeatRecovery |
-| class [IfcAirToAirHeatRecoveryType](./ifcairtoairheatrecoverytype) | IfcAirToAirHeatRecoveryType |
-| class [IfcAlarm](./ifcalarm) | IfcAlarm |
-| class [IfcAlarmType](./ifcalarmtype) | IfcAlarmType |
-| class [IfcAnnotation](./ifcannotation) | IfcAnnotation |
-| class [IfcAnnotationFillArea](./ifcannotationfillarea) | IfcAnnotationFillArea |
-| class [IfcApplication](./ifcapplication) | IfcApplication |
-| class [IfcAppliedValue](./ifcappliedvalue) | IfcAppliedValue |
-| class [IfcApproval](./ifcapproval) | IfcApproval |
-| class [IfcApprovalRelationship](./ifcapprovalrelationship) | IfcApprovalRelationship |
-| class [IfcArbitraryClosedProfileDef](./ifcarbitraryclosedprofiledef) | IfcArbitraryClosedProfileDef |
-| class [IfcArbitraryOpenProfileDef](./ifcarbitraryopenprofiledef) | IfcArbitraryOpenProfileDef |
-| class [IfcArbitraryProfileDefWithVoids](./ifcarbitraryprofiledefwithvoids) | IfcArbitraryProfileDefWithVoids |
-| class [IfcAsset](./ifcasset) | IfcAsset |
-| class [IfcAsymmetricIShapeProfileDef](./ifcasymmetricishapeprofiledef) | IfcAsymmetricIShapeProfileDef |
-| class [IfcAudioVisualAppliance](./ifcaudiovisualappliance) | IfcAudioVisualAppliance |
-| class [IfcAudioVisualApplianceType](./ifcaudiovisualappliancetype) | IfcAudioVisualApplianceType |
-| class [IfcAxis1Placement](./ifcaxis1placement) | IfcAxis1Placement |
-| class [IfcAxis2Placement2D](./ifcaxis2placement2d) | IfcAxis2Placement2D |
-| class [IfcAxis2Placement3D](./ifcaxis2placement3d) | IfcAxis2Placement3D |
-| class [IfcBeam](./ifcbeam) | IfcBeam |
-| class [IfcBeamStandardCase](./ifcbeamstandardcase) | IfcBeamStandardCase |
-| class [IfcBeamType](./ifcbeamtype) | IfcBeamType |
-| class [IfcBlobTexture](./ifcblobtexture) | IfcBlobTexture |
-| class [IfcBlock](./ifcblock) | IfcBlock |
-| class [IfcBoiler](./ifcboiler) | IfcBoiler |
-| class [IfcBoilerType](./ifcboilertype) | IfcBoilerType |
-| class [IfcBooleanClippingResult](./ifcbooleanclippingresult) | IfcBooleanClippingResult |
-| class [IfcBooleanResult](./ifcbooleanresult) | IfcBooleanResult |
-| abstract class [IfcBoundaryCondition](./ifcboundarycondition) | IfcBoundaryCondition |
-| class [IfcBoundaryCurve](./ifcboundarycurve) | IfcBoundaryCurve |
-| class [IfcBoundaryEdgeCondition](./ifcboundaryedgecondition) | IfcBoundaryEdgeCondition |
-| class [IfcBoundaryFaceCondition](./ifcboundaryfacecondition) | IfcBoundaryFaceCondition |
-| class [IfcBoundaryNodeCondition](./ifcboundarynodecondition) | IfcBoundaryNodeCondition |
-| class [IfcBoundaryNodeConditionWarping](./ifcboundarynodeconditionwarping) | IfcBoundaryNodeConditionWarping |
-| abstract class [IfcBoundedCurve](./ifcboundedcurve) | IfcBoundedCurve |
-| abstract class [IfcBoundedSurface](./ifcboundedsurface) | IfcBoundedSurface |
-| class [IfcBoundingBox](./ifcboundingbox) | IfcBoundingBox |
-| class [IfcBoxedHalfSpace](./ifcboxedhalfspace) | IfcBoxedHalfSpace |
-| abstract class [IfcBSplineCurve](./ifcbsplinecurve) | IfcBSplineCurve |
-| class [IfcBSplineCurveWithKnots](./ifcbsplinecurvewithknots) | IfcBSplineCurveWithKnots |
-| abstract class [IfcBSplineSurface](./ifcbsplinesurface) | IfcBSplineSurface |
-| class [IfcBSplineSurfaceWithKnots](./ifcbsplinesurfacewithknots) | IfcBSplineSurfaceWithKnots |
-| class [IfcBuilding](./ifcbuilding) | IfcBuilding |
-| abstract class [IfcBuildingElement](./ifcbuildingelement) | IfcBuildingElement |
-| class [IfcBuildingElementPart](./ifcbuildingelementpart) | IfcBuildingElementPart |
-| class [IfcBuildingElementPartType](./ifcbuildingelementparttype) | IfcBuildingElementPartType |
-| class [IfcBuildingElementProxy](./ifcbuildingelementproxy) | IfcBuildingElementProxy |
-| class [IfcBuildingElementProxyType](./ifcbuildingelementproxytype) | IfcBuildingElementProxyType |
-| abstract class [IfcBuildingElementType](./ifcbuildingelementtype) | IfcBuildingElementType |
-| class [IfcBuildingStorey](./ifcbuildingstorey) | IfcBuildingStorey |
-| class [IfcBuildingSystem](./ifcbuildingsystem) | IfcBuildingSystem |
-| class [IfcBurner](./ifcburner) | IfcBurner |
-| class [IfcBurnerType](./ifcburnertype) | IfcBurnerType |
-| class [IfcCableCarrierFitting](./ifccablecarrierfitting) | IfcCableCarrierFitting |
-| class [IfcCableCarrierFittingType](./ifccablecarrierfittingtype) | IfcCableCarrierFittingType |
-| class [IfcCableCarrierSegment](./ifccablecarriersegment) | IfcCableCarrierSegment |
-| class [IfcCableCarrierSegmentType](./ifccablecarriersegmenttype) | IfcCableCarrierSegmentType |
-| class [IfcCableFitting](./ifccablefitting) | IfcCableFitting |
-| class [IfcCableFittingType](./ifccablefittingtype) | IfcCableFittingType |
-| class [IfcCableSegment](./ifccablesegment) | IfcCableSegment |
-| class [IfcCableSegmentType](./ifccablesegmenttype) | IfcCableSegmentType |
-| class [IfcCartesianPoint](./ifccartesianpoint) | IfcCartesianPoint |
-| abstract class [IfcCartesianPointList](./ifccartesianpointlist) | IfcCartesianPointList |
-| class [IfcCartesianPointList2D](./ifccartesianpointlist2d) | IfcCartesianPointList2D |
-| class [IfcCartesianPointList3D](./ifccartesianpointlist3d) | IfcCartesianPointList3D |
-| abstract class [IfcCartesianTransformationOperator](./ifccartesiantransformationoperator) | IfcCartesianTransformationOperator |
-| class [IfcCartesianTransformationOperator2D](./ifccartesiantransformationoperator2d) | IfcCartesianTransformationOperator2D |
-| class [IfcCartesianTransformationOperator2DnonUniform](./ifccartesiantransformationoperator2dnonuniform) | IfcCartesianTransformationOperator2DnonUniform |
-| class [IfcCartesianTransformationOperator3D](./ifccartesiantransformationoperator3d) | IfcCartesianTransformationOperator3D |
-| class [IfcCartesianTransformationOperator3DnonUniform](./ifccartesiantransformationoperator3dnonuniform) | IfcCartesianTransformationOperator3DnonUniform |
-| class [IfcCenterLineProfileDef](./ifccenterlineprofiledef) | IfcCenterLineProfileDef |
-| class [IfcChiller](./ifcchiller) | IfcChiller |
-| class [IfcChillerType](./ifcchillertype) | IfcChillerType |
-| class [IfcChimney](./ifcchimney) | IfcChimney |
-| class [IfcChimneyType](./ifcchimneytype) | IfcChimneyType |
-| class [IfcCircle](./ifccircle) | IfcCircle |
-| class [IfcCircleHollowProfileDef](./ifccirclehollowprofiledef) | IfcCircleHollowProfileDef |
-| class [IfcCircleProfileDef](./ifccircleprofiledef) | IfcCircleProfileDef |
-| class [IfcCivilElement](./ifccivilelement) | IfcCivilElement |
-| class [IfcCivilElementType](./ifccivilelementtype) | IfcCivilElementType |
-| class [IfcClassification](./ifcclassification) | IfcClassification |
-| class [IfcClassificationReference](./ifcclassificationreference) | IfcClassificationReference |
-| class [IfcClosedShell](./ifcclosedshell) | IfcClosedShell |
-| class [IfcCoil](./ifccoil) | IfcCoil |
-| class [IfcCoilType](./ifccoiltype) | IfcCoilType |
-| class [IfcColourRgb](./ifccolourrgb) | Partial IIfc entity class |
-| class [IfcColourRgbList](./ifccolourrgblist) | IfcColourRgbList |
-| abstract class [IfcColourSpecification](./ifccolourspecification) | Partial IIfc entity class |
-| class [IfcColumn](./ifccolumn) | IfcColumn |
-| class [IfcColumnStandardCase](./ifccolumnstandardcase) | IfcColumnStandardCase |
-| class [IfcColumnType](./ifccolumntype) | IfcColumnType |
-| class [IfcCommunicationsAppliance](./ifccommunicationsappliance) | IfcCommunicationsAppliance |
-| class [IfcCommunicationsApplianceType](./ifccommunicationsappliancetype) | IfcCommunicationsApplianceType |
-| class [IfcComplexProperty](./ifccomplexproperty) | IfcComplexProperty |
-| class [IfcComplexPropertyTemplate](./ifccomplexpropertytemplate) | IfcComplexPropertyTemplate |
-| class [IfcCompositeCurve](./ifccompositecurve) | IfcCompositeCurve |
-| class [IfcCompositeCurveOnSurface](./ifccompositecurveonsurface) | IfcCompositeCurveOnSurface |
-| class [IfcCompositeCurveSegment](./ifccompositecurvesegment) | IfcCompositeCurveSegment |
-| class [IfcCompositeProfileDef](./ifccompositeprofiledef) | IfcCompositeProfileDef |
-| class [IfcCompressor](./ifccompressor) | IfcCompressor |
-| class [IfcCompressorType](./ifccompressortype) | IfcCompressorType |
-| class [IfcCondenser](./ifccondenser) | IfcCondenser |
-| class [IfcCondenserType](./ifccondensertype) | IfcCondenserType |
-| abstract class [IfcConic](./ifcconic) | IfcConic |
-| class [IfcConnectedFaceSet](./ifcconnectedfaceset) | IfcConnectedFaceSet |
-| class [IfcConnectionCurveGeometry](./ifcconnectioncurvegeometry) | IfcConnectionCurveGeometry |
-| abstract class [IfcConnectionGeometry](./ifcconnectiongeometry) | IfcConnectionGeometry |
-| class [IfcConnectionPointEccentricity](./ifcconnectionpointeccentricity) | IfcConnectionPointEccentricity |
-| class [IfcConnectionPointGeometry](./ifcconnectionpointgeometry) | IfcConnectionPointGeometry |
-| class [IfcConnectionSurfaceGeometry](./ifcconnectionsurfacegeometry) | IfcConnectionSurfaceGeometry |
-| class [IfcConnectionVolumeGeometry](./ifcconnectionvolumegeometry) | IfcConnectionVolumeGeometry |
-| abstract class [IfcConstraint](./ifcconstraint) | IfcConstraint |
-| class [IfcConstructionEquipmentResource](./ifcconstructionequipmentresource) | IfcConstructionEquipmentResource |
-| class [IfcConstructionEquipmentResourceType](./ifcconstructionequipmentresourcetype) | IfcConstructionEquipmentResourceType |
-| class [IfcConstructionMaterialResource](./ifcconstructionmaterialresource) | IfcConstructionMaterialResource |
-| class [IfcConstructionMaterialResourceType](./ifcconstructionmaterialresourcetype) | IfcConstructionMaterialResourceType |
-| class [IfcConstructionProductResource](./ifcconstructionproductresource) | IfcConstructionProductResource |
-| class [IfcConstructionProductResourceType](./ifcconstructionproductresourcetype) | IfcConstructionProductResourceType |
-| abstract class [IfcConstructionResource](./ifcconstructionresource) | IfcConstructionResource |
-| abstract class [IfcConstructionResourceType](./ifcconstructionresourcetype) | IfcConstructionResourceType |
-| abstract class [IfcContext](./ifccontext) | IfcContext |
-| class [IfcContextDependentUnit](./ifccontextdependentunit) | IfcContextDependentUnit |
-| abstract class [IfcControl](./ifccontrol) | IfcControl |
-| class [IfcController](./ifccontroller) | IfcController |
-| class [IfcControllerType](./ifccontrollertype) | IfcControllerType |
-| class [IfcConversionBasedUnit](./ifcconversionbasedunit) | IfcConversionBasedUnit |
-| class [IfcConversionBasedUnitWithOffset](./ifcconversionbasedunitwithoffset) | IfcConversionBasedUnitWithOffset |
-| class [IfcCooledBeam](./ifccooledbeam) | IfcCooledBeam |
-| class [IfcCooledBeamType](./ifccooledbeamtype) | IfcCooledBeamType |
-| class [IfcCoolingTower](./ifccoolingtower) | IfcCoolingTower |
-| class [IfcCoolingTowerType](./ifccoolingtowertype) | IfcCoolingTowerType |
-| abstract class [IfcCoordinateOperation](./ifccoordinateoperation) | IfcCoordinateOperation |
-| abstract class [IfcCoordinateReferenceSystem](./ifccoordinatereferencesystem) | IfcCoordinateReferenceSystem |
-| class [IfcCostItem](./ifccostitem) | IfcCostItem |
-| class [IfcCostSchedule](./ifccostschedule) | IfcCostSchedule |
-| class [IfcCostValue](./ifccostvalue) | IfcCostValue |
-| class [IfcCovering](./ifccovering) | IfcCovering |
-| class [IfcCoveringType](./ifccoveringtype) | IfcCoveringType |
-| class [IfcCrewResource](./ifccrewresource) | IfcCrewResource |
-| class [IfcCrewResourceType](./ifccrewresourcetype) | IfcCrewResourceType |
-| abstract class [IfcCsgPrimitive3D](./ifccsgprimitive3d) | IfcCsgPrimitive3D |
-| class [IfcCsgSolid](./ifccsgsolid) | IfcCsgSolid |
-| class [IfcCShapeProfileDef](./ifccshapeprofiledef) | IfcCShapeProfileDef |
-| class [IfcCurrencyRelationship](./ifccurrencyrelationship) | IfcCurrencyRelationship |
-| class [IfcCurtainWall](./ifccurtainwall) | IfcCurtainWall |
-| class [IfcCurtainWallType](./ifccurtainwalltype) | IfcCurtainWallType |
-| abstract class [IfcCurve](./ifccurve) | IfcCurve |
-| class [IfcCurveBoundedPlane](./ifccurveboundedplane) | IfcCurveBoundedPlane |
-| class [IfcCurveBoundedSurface](./ifccurveboundedsurface) | IfcCurveBoundedSurface |
-| class [IfcCurveStyle](./ifccurvestyle) | IfcCurveStyle |
-| class [IfcCurveStyleFont](./ifccurvestylefont) | IfcCurveStyleFont |
-| class [IfcCurveStyleFontAndScaling](./ifccurvestylefontandscaling) | IfcCurveStyleFontAndScaling |
-| class [IfcCurveStyleFontPattern](./ifccurvestylefontpattern) | IfcCurveStyleFontPattern |
-| class [IfcCylindricalSurface](./ifccylindricalsurface) | IfcCylindricalSurface |
-| class [IfcDamper](./ifcdamper) | IfcDamper |
-| class [IfcDamperType](./ifcdampertype) | IfcDamperType |
-| class [IfcDerivedProfileDef](./ifcderivedprofiledef) | IfcDerivedProfileDef |
-| class [IfcDerivedUnit](./ifcderivedunit) | IfcDerivedUnit |
-| class [IfcDerivedUnitElement](./ifcderivedunitelement) | IfcDerivedUnitElement |
-| class [IfcDimensionalExponents](./ifcdimensionalexponents) | IfcDimensionalExponents |
-| class [IfcDirection](./ifcdirection) | IfcDirection |
-| class [IfcDiscreteAccessory](./ifcdiscreteaccessory) | IfcDiscreteAccessory |
-| class [IfcDiscreteAccessoryType](./ifcdiscreteaccessorytype) | IfcDiscreteAccessoryType |
-| class [IfcDistributionChamberElement](./ifcdistributionchamberelement) | IfcDistributionChamberElement |
-| class [IfcDistributionChamberElementType](./ifcdistributionchamberelementtype) | IfcDistributionChamberElementType |
-| class [IfcDistributionCircuit](./ifcdistributioncircuit) | IfcDistributionCircuit |
-| class [IfcDistributionControlElement](./ifcdistributioncontrolelement) | IfcDistributionControlElement |
-| abstract class [IfcDistributionControlElementType](./ifcdistributioncontrolelementtype) | IfcDistributionControlElementType |
-| class [IfcDistributionElement](./ifcdistributionelement) | IfcDistributionElement |
-| class [IfcDistributionElementType](./ifcdistributionelementtype) | IfcDistributionElementType |
-| class [IfcDistributionFlowElement](./ifcdistributionflowelement) | IfcDistributionFlowElement |
-| abstract class [IfcDistributionFlowElementType](./ifcdistributionflowelementtype) | IfcDistributionFlowElementType |
-| class [IfcDistributionPort](./ifcdistributionport) | IfcDistributionPort |
-| class [IfcDistributionSystem](./ifcdistributionsystem) | IfcDistributionSystem |
-| class [IfcDocumentInformation](./ifcdocumentinformation) | IfcDocumentInformation |
-| class [IfcDocumentInformationRelationship](./ifcdocumentinformationrelationship) | IfcDocumentInformationRelationship |
-| class [IfcDocumentReference](./ifcdocumentreference) | IfcDocumentReference |
-| class [IfcDoor](./ifcdoor) | IfcDoor |
-| class [IfcDoorLiningProperties](./ifcdoorliningproperties) | IfcDoorLiningProperties |
-| class [IfcDoorPanelProperties](./ifcdoorpanelproperties) | IfcDoorPanelProperties |
-| class [IfcDoorStandardCase](./ifcdoorstandardcase) | IfcDoorStandardCase |
-| class [IfcDoorStyle](./ifcdoorstyle) | IfcDoorStyle |
-| class [IfcDoorType](./ifcdoortype) | IfcDoorType |
-| class [IfcDraughtingPreDefinedColour](./ifcdraughtingpredefinedcolour) | IfcDraughtingPreDefinedColour |
-| class [IfcDraughtingPreDefinedCurveFont](./ifcdraughtingpredefinedcurvefont) | IfcDraughtingPreDefinedCurveFont |
-| class [IfcDuctFitting](./ifcductfitting) | IfcDuctFitting |
-| class [IfcDuctFittingType](./ifcductfittingtype) | IfcDuctFittingType |
-| class [IfcDuctSegment](./ifcductsegment) | IfcDuctSegment |
-| class [IfcDuctSegmentType](./ifcductsegmenttype) | IfcDuctSegmentType |
-| class [IfcDuctSilencer](./ifcductsilencer) | IfcDuctSilencer |
-| class [IfcDuctSilencerType](./ifcductsilencertype) | IfcDuctSilencerType |
-| class [IfcEdge](./ifcedge) | IfcEdge |
-| class [IfcEdgeCurve](./ifcedgecurve) | IfcEdgeCurve |
-| class [IfcEdgeLoop](./ifcedgeloop) | IfcEdgeLoop |
-| class [IfcElectricAppliance](./ifcelectricappliance) | IfcElectricAppliance |
-| class [IfcElectricApplianceType](./ifcelectricappliancetype) | IfcElectricApplianceType |
-| class [IfcElectricDistributionBoard](./ifcelectricdistributionboard) | IfcElectricDistributionBoard |
-| class [IfcElectricDistributionBoardType](./ifcelectricdistributionboardtype) | IfcElectricDistributionBoardType |
-| class [IfcElectricFlowStorageDevice](./ifcelectricflowstoragedevice) | IfcElectricFlowStorageDevice |
-| class [IfcElectricFlowStorageDeviceType](./ifcelectricflowstoragedevicetype) | IfcElectricFlowStorageDeviceType |
-| class [IfcElectricGenerator](./ifcelectricgenerator) | IfcElectricGenerator |
-| class [IfcElectricGeneratorType](./ifcelectricgeneratortype) | IfcElectricGeneratorType |
-| class [IfcElectricMotor](./ifcelectricmotor) | IfcElectricMotor |
-| class [IfcElectricMotorType](./ifcelectricmotortype) | IfcElectricMotorType |
-| class [IfcElectricTimeControl](./ifcelectrictimecontrol) | IfcElectricTimeControl |
-| class [IfcElectricTimeControlType](./ifcelectrictimecontroltype) | IfcElectricTimeControlType |
-| abstract class [IfcElement](./ifcelement) | IfcElement |
-| abstract class [IfcElementarySurface](./ifcelementarysurface) | IfcElementarySurface |
-| class [IfcElementAssembly](./ifcelementassembly) | IfcElementAssembly |
-| class [IfcElementAssemblyType](./ifcelementassemblytype) | IfcElementAssemblyType |
-| abstract class [IfcElementComponent](./ifcelementcomponent) | IfcElementComponent |
-| abstract class [IfcElementComponentType](./ifcelementcomponenttype) | IfcElementComponentType |
-| class [IfcElementQuantity](./ifcelementquantity) | IfcElementQuantity |
-| abstract class [IfcElementType](./ifcelementtype) | IfcElementType |
-| class [IfcEllipse](./ifcellipse) | IfcEllipse |
-| class [IfcEllipseProfileDef](./ifcellipseprofiledef) | IfcEllipseProfileDef |
-| class [IfcEnergyConversionDevice](./ifcenergyconversiondevice) | IfcEnergyConversionDevice |
-| abstract class [IfcEnergyConversionDeviceType](./ifcenergyconversiondevicetype) | IfcEnergyConversionDeviceType |
-| class [IfcEngine](./ifcengine) | IfcEngine |
-| class [IfcEngineType](./ifcenginetype) | IfcEngineType |
-| class [IfcEvaporativeCooler](./ifcevaporativecooler) | IfcEvaporativeCooler |
-| class [IfcEvaporativeCoolerType](./ifcevaporativecoolertype) | IfcEvaporativeCoolerType |
-| class [IfcEvaporator](./ifcevaporator) | IfcEvaporator |
-| class [IfcEvaporatorType](./ifcevaporatortype) | IfcEvaporatorType |
-| class [IfcEvent](./ifcevent) | IfcEvent |
-| class [IfcEventTime](./ifceventtime) | IfcEventTime |
-| class [IfcEventType](./ifceventtype) | IfcEventType |
-| abstract class [IfcExtendedProperties](./ifcextendedproperties) | IfcExtendedProperties |
-| abstract class [IfcExternalInformation](./ifcexternalinformation) | IfcExternalInformation |
-| class [IfcExternallyDefinedHatchStyle](./ifcexternallydefinedhatchstyle) | IfcExternallyDefinedHatchStyle |
-| class [IfcExternallyDefinedSurfaceStyle](./ifcexternallydefinedsurfacestyle) | IfcExternallyDefinedSurfaceStyle |
-| class [IfcExternallyDefinedTextFont](./ifcexternallydefinedtextfont) | IfcExternallyDefinedTextFont |
-| abstract class [IfcExternalReference](./ifcexternalreference) | IfcExternalReference |
-| class [IfcExternalReferenceRelationship](./ifcexternalreferencerelationship) | IfcExternalReferenceRelationship |
-| class [IfcExternalSpatialElement](./ifcexternalspatialelement) | IfcExternalSpatialElement |
-| abstract class [IfcExternalSpatialStructureElement](./ifcexternalspatialstructureelement) | IfcExternalSpatialStructureElement |
-| class [IfcExtrudedAreaSolid](./ifcextrudedareasolid) | IfcExtrudedAreaSolid |
-| class [IfcExtrudedAreaSolidTapered](./ifcextrudedareasolidtapered) | IfcExtrudedAreaSolidTapered |
-| class [IfcFace](./ifcface) | IfcFace |
-| class [IfcFaceBasedSurfaceModel](./ifcfacebasedsurfacemodel) | IfcFaceBasedSurfaceModel |
-| class [IfcFaceBound](./ifcfacebound) | IfcFaceBound |
-| class [IfcFaceOuterBound](./ifcfaceouterbound) | IfcFaceOuterBound |
-| class [IfcFaceSurface](./ifcfacesurface) | IfcFaceSurface |
-| class [IfcFacetedBrep](./ifcfacetedbrep) | IfcFacetedBrep |
-| class [IfcFacetedBrepWithVoids](./ifcfacetedbrepwithvoids) | IfcFacetedBrepWithVoids |
-| class [IfcFailureConnectionCondition](./ifcfailureconnectioncondition) | IfcFailureConnectionCondition |
-| class [IfcFan](./ifcfan) | IfcFan |
-| class [IfcFanType](./ifcfantype) | IfcFanType |
-| class [IfcFastener](./ifcfastener) | IfcFastener |
-| class [IfcFastenerType](./ifcfastenertype) | IfcFastenerType |
-| abstract class [IfcFeatureElement](./ifcfeatureelement) | IfcFeatureElement |
-| abstract class [IfcFeatureElementAddition](./ifcfeatureelementaddition) | IfcFeatureElementAddition |
-| abstract class [IfcFeatureElementSubtraction](./ifcfeatureelementsubtraction) | IfcFeatureElementSubtraction |
-| class [IfcFillAreaStyle](./ifcfillareastyle) | IfcFillAreaStyle |
-| class [IfcFillAreaStyleHatching](./ifcfillareastylehatching) | IfcFillAreaStyleHatching |
-| class [IfcFillAreaStyleTiles](./ifcfillareastyletiles) | IfcFillAreaStyleTiles |
-| class [IfcFilter](./ifcfilter) | IfcFilter |
-| class [IfcFilterType](./ifcfiltertype) | IfcFilterType |
-| class [IfcFireSuppressionTerminal](./ifcfiresuppressionterminal) | IfcFireSuppressionTerminal |
-| class [IfcFireSuppressionTerminalType](./ifcfiresuppressionterminaltype) | IfcFireSuppressionTerminalType |
-| class [IfcFixedReferenceSweptAreaSolid](./ifcfixedreferencesweptareasolid) | IfcFixedReferenceSweptAreaSolid |
-| class [IfcFlowController](./ifcflowcontroller) | IfcFlowController |
-| abstract class [IfcFlowControllerType](./ifcflowcontrollertype) | IfcFlowControllerType |
-| class [IfcFlowFitting](./ifcflowfitting) | IfcFlowFitting |
-| abstract class [IfcFlowFittingType](./ifcflowfittingtype) | IfcFlowFittingType |
-| class [IfcFlowInstrument](./ifcflowinstrument) | IfcFlowInstrument |
-| class [IfcFlowInstrumentType](./ifcflowinstrumenttype) | IfcFlowInstrumentType |
-| class [IfcFlowMeter](./ifcflowmeter) | IfcFlowMeter |
-| class [IfcFlowMeterType](./ifcflowmetertype) | IfcFlowMeterType |
-| class [IfcFlowMovingDevice](./ifcflowmovingdevice) | IfcFlowMovingDevice |
-| abstract class [IfcFlowMovingDeviceType](./ifcflowmovingdevicetype) | IfcFlowMovingDeviceType |
-| class [IfcFlowSegment](./ifcflowsegment) | IfcFlowSegment |
-| abstract class [IfcFlowSegmentType](./ifcflowsegmenttype) | IfcFlowSegmentType |
-| class [IfcFlowStorageDevice](./ifcflowstoragedevice) | IfcFlowStorageDevice |
-| abstract class [IfcFlowStorageDeviceType](./ifcflowstoragedevicetype) | IfcFlowStorageDeviceType |
-| class [IfcFlowTerminal](./ifcflowterminal) | IfcFlowTerminal |
-| abstract class [IfcFlowTerminalType](./ifcflowterminaltype) | IfcFlowTerminalType |
-| class [IfcFlowTreatmentDevice](./ifcflowtreatmentdevice) | IfcFlowTreatmentDevice |
-| abstract class [IfcFlowTreatmentDeviceType](./ifcflowtreatmentdevicetype) | IfcFlowTreatmentDeviceType |
-| class [IfcFooting](./ifcfooting) | IfcFooting |
-| class [IfcFootingType](./ifcfootingtype) | IfcFootingType |
-| class [IfcFurnishingElement](./ifcfurnishingelement) | IfcFurnishingElement |
-| class [IfcFurnishingElementType](./ifcfurnishingelementtype) | IfcFurnishingElementType |
-| class [IfcFurniture](./ifcfurniture) | IfcFurniture |
-| class [IfcFurnitureType](./ifcfurnituretype) | IfcFurnitureType |
-| class [IfcGeographicElement](./ifcgeographicelement) | IfcGeographicElement |
-| class [IfcGeographicElementType](./ifcgeographicelementtype) | IfcGeographicElementType |
-| class [IfcGeometricCurveSet](./ifcgeometriccurveset) | IfcGeometricCurveSet |
-| class [IfcGeometricRepresentationContext](./ifcgeometricrepresentationcontext) | IfcGeometricRepresentationContext |
-| abstract class [IfcGeometricRepresentationItem](./ifcgeometricrepresentationitem) | IfcGeometricRepresentationItem |
-| class [IfcGeometricRepresentationSubContext](./ifcgeometricrepresentationsubcontext) | IfcGeometricRepresentationSubContext |
-| class [IfcGeometricSet](./ifcgeometricset) | IfcGeometricSet |
-| class [IfcGrid](./ifcgrid) | IfcGrid |
-| class [IfcGridAxis](./ifcgridaxis) | IfcGridAxis |
-| class [IfcGridPlacement](./ifcgridplacement) | IfcGridPlacement |
-| class [IfcGroup](./ifcgroup) | IfcGroup |
-| class [IfcHalfSpaceSolid](./ifchalfspacesolid) | IfcHalfSpaceSolid |
-| class [IfcHeatExchanger](./ifcheatexchanger) | IfcHeatExchanger |
-| class [IfcHeatExchangerType](./ifcheatexchangertype) | IfcHeatExchangerType |
-| class [IfcHumidifier](./ifchumidifier) | IfcHumidifier |
-| class [IfcHumidifierType](./ifchumidifiertype) | IfcHumidifierType |
-| class [IfcImageTexture](./ifcimagetexture) | IfcImageTexture |
-| class [IfcIndexedColourMap](./ifcindexedcolourmap) | IfcIndexedColourMap |
-| class [IfcIndexedPolyCurve](./ifcindexedpolycurve) | IfcIndexedPolyCurve |
-| class [IfcIndexedPolygonalFace](./ifcindexedpolygonalface) | IfcIndexedPolygonalFace |
-| class [IfcIndexedPolygonalFaceWithVoids](./ifcindexedpolygonalfacewithvoids) | IfcIndexedPolygonalFaceWithVoids |
-| abstract class [IfcIndexedTextureMap](./ifcindexedtexturemap) | IfcIndexedTextureMap |
-| class [IfcIndexedTriangleTextureMap](./ifcindexedtriangletexturemap) | IfcIndexedTriangleTextureMap |
-| class [IfcInterceptor](./ifcinterceptor) | IfcInterceptor |
-| class [IfcInterceptorType](./ifcinterceptortype) | IfcInterceptorType |
-| class [IfcIntersectionCurve](./ifcintersectioncurve) | IfcIntersectionCurve |
-| class [IfcInventory](./ifcinventory) | IfcInventory |
-| class [IfcIrregularTimeSeries](./ifcirregulartimeseries) | IfcIrregularTimeSeries |
-| class [IfcIrregularTimeSeriesValue](./ifcirregulartimeseriesvalue) | IfcIrregularTimeSeriesValue |
-| class [IfcIShapeProfileDef](./ifcishapeprofiledef) | IfcIShapeProfileDef |
-| class [IfcJunctionBox](./ifcjunctionbox) | IfcJunctionBox |
-| class [IfcJunctionBoxType](./ifcjunctionboxtype) | IfcJunctionBoxType |
-| class [IfcLaborResource](./ifclaborresource) | IfcLaborResource |
-| class [IfcLaborResourceType](./ifclaborresourcetype) | IfcLaborResourceType |
-| class [IfcLagTime](./ifclagtime) | IfcLagTime |
-| class [IfcLamp](./ifclamp) | IfcLamp |
-| class [IfcLampType](./ifclamptype) | IfcLampType |
-| class [IfcLibraryInformation](./ifclibraryinformation) | IfcLibraryInformation |
-| class [IfcLibraryReference](./ifclibraryreference) | IfcLibraryReference |
-| class [IfcLightDistributionData](./ifclightdistributiondata) | IfcLightDistributionData |
-| class [IfcLightFixture](./ifclightfixture) | IfcLightFixture |
-| class [IfcLightFixtureType](./ifclightfixturetype) | IfcLightFixtureType |
-| class [IfcLightIntensityDistribution](./ifclightintensitydistribution) | IfcLightIntensityDistribution |
-| abstract class [IfcLightSource](./ifclightsource) | IfcLightSource |
-| class [IfcLightSourceAmbient](./ifclightsourceambient) | IfcLightSourceAmbient |
-| class [IfcLightSourceDirectional](./ifclightsourcedirectional) | IfcLightSourceDirectional |
-| class [IfcLightSourceGoniometric](./ifclightsourcegoniometric) | IfcLightSourceGoniometric |
-| class [IfcLightSourcePositional](./ifclightsourcepositional) | IfcLightSourcePositional |
-| class [IfcLightSourceSpot](./ifclightsourcespot) | IfcLightSourceSpot |
-| class [IfcLine](./ifcline) | IfcLine |
-| class [IfcLocalPlacement](./ifclocalplacement) | IfcLocalPlacement |
-| class [IfcLoop](./ifcloop) | IfcLoop |
-| class [IfcLShapeProfileDef](./ifclshapeprofiledef) | IfcLShapeProfileDef |
-| abstract class [IfcManifoldSolidBrep](./ifcmanifoldsolidbrep) | IfcManifoldSolidBrep |
-| class [IfcMapConversion](./ifcmapconversion) | IfcMapConversion |
-| class [IfcMappedItem](./ifcmappeditem) | IfcMappedItem |
-| class [IfcMaterial](./ifcmaterial) | IfcMaterial |
-| class [IfcMaterialClassificationRelationship](./ifcmaterialclassificationrelationship) | IfcMaterialClassificationRelationship |
-| class [IfcMaterialConstituent](./ifcmaterialconstituent) | IfcMaterialConstituent |
-| class [IfcMaterialConstituentSet](./ifcmaterialconstituentset) | IfcMaterialConstituentSet |
-| abstract class [IfcMaterialDefinition](./ifcmaterialdefinition) | IfcMaterialDefinition |
-| class [IfcMaterialDefinitionRepresentation](./ifcmaterialdefinitionrepresentation) | IfcMaterialDefinitionRepresentation |
-| class [IfcMaterialLayer](./ifcmateriallayer) | IfcMaterialLayer |
-| class [IfcMaterialLayerSet](./ifcmateriallayerset) | IfcMaterialLayerSet |
-| class [IfcMaterialLayerSetUsage](./ifcmateriallayersetusage) | IfcMaterialLayerSetUsage |
-| class [IfcMaterialLayerWithOffsets](./ifcmateriallayerwithoffsets) | IfcMaterialLayerWithOffsets |
-| class [IfcMaterialList](./ifcmateriallist) | IfcMaterialList |
-| class [IfcMaterialProfile](./ifcmaterialprofile) | IfcMaterialProfile |
-| class [IfcMaterialProfileSet](./ifcmaterialprofileset) | IfcMaterialProfileSet |
-| class [IfcMaterialProfileSetUsage](./ifcmaterialprofilesetusage) | IfcMaterialProfileSetUsage |
-| class [IfcMaterialProfileSetUsageTapering](./ifcmaterialprofilesetusagetapering) | IfcMaterialProfileSetUsageTapering |
-| class [IfcMaterialProfileWithOffsets](./ifcmaterialprofilewithoffsets) | IfcMaterialProfileWithOffsets |
-| class [IfcMaterialProperties](./ifcmaterialproperties) | IfcMaterialProperties |
-| class [IfcMaterialRelationship](./ifcmaterialrelationship) | IfcMaterialRelationship |
-| abstract class [IfcMaterialUsageDefinition](./ifcmaterialusagedefinition) | IfcMaterialUsageDefinition |
-| class [IfcMeasureWithUnit](./ifcmeasurewithunit) | IfcMeasureWithUnit |
-| class [IfcMechanicalFastener](./ifcmechanicalfastener) | IfcMechanicalFastener |
-| class [IfcMechanicalFastenerType](./ifcmechanicalfastenertype) | IfcMechanicalFastenerType |
-| class [IfcMedicalDevice](./ifcmedicaldevice) | IfcMedicalDevice |
-| class [IfcMedicalDeviceType](./ifcmedicaldevicetype) | IfcMedicalDeviceType |
-| class [IfcMember](./ifcmember) | IfcMember |
-| class [IfcMemberStandardCase](./ifcmemberstandardcase) | IfcMemberStandardCase |
-| class [IfcMemberType](./ifcmembertype) | IfcMemberType |
-| class [IfcMetric](./ifcmetric) | IfcMetric |
-| class [IfcMirroredProfileDef](./ifcmirroredprofiledef) | IfcMirroredProfileDef |
-| class [IfcMonetaryUnit](./ifcmonetaryunit) | IfcMonetaryUnit |
-| class [IfcMotorConnection](./ifcmotorconnection) | IfcMotorConnection |
-| class [IfcMotorConnectionType](./ifcmotorconnectiontype) | IfcMotorConnectionType |
-| abstract class [IfcNamedUnit](./ifcnamedunit) | IfcNamedUnit |
-| abstract class [IfcObject](./ifcobject) | IfcObject |
-| abstract class [IfcObjectDefinition](./ifcobjectdefinition) | IfcObjectDefinition |
-| class [IfcObjective](./ifcobjective) | IfcObjective |
-| abstract class [IfcObjectPlacement](./ifcobjectplacement) | IfcObjectPlacement |
-| class [IfcOccupant](./ifcoccupant) | IfcOccupant |
-| class [IfcOffsetCurve2D](./ifcoffsetcurve2d) | IfcOffsetCurve2D |
-| class [IfcOffsetCurve3D](./ifcoffsetcurve3d) | IfcOffsetCurve3D |
-| class [IfcOpeningElement](./ifcopeningelement) | IfcOpeningElement |
-| class [IfcOpeningStandardCase](./ifcopeningstandardcase) | IfcOpeningStandardCase |
-| class [IfcOpenShell](./ifcopenshell) | IfcOpenShell |
-| class [IfcOrganization](./ifcorganization) | IfcOrganization |
-| class [IfcOrganizationRelationship](./ifcorganizationrelationship) | IfcOrganizationRelationship |
-| class [IfcOrientedEdge](./ifcorientededge) | IfcOrientedEdge |
-| class [IfcOuterBoundaryCurve](./ifcouterboundarycurve) | IfcOuterBoundaryCurve |
-| class [IfcOutlet](./ifcoutlet) | IfcOutlet |
-| class [IfcOutletType](./ifcoutlettype) | IfcOutletType |
-| class [IfcOwnerHistory](./ifcownerhistory) | IfcOwnerHistory |
-| abstract class [IfcParameterizedProfileDef](./ifcparameterizedprofiledef) | IfcParameterizedProfileDef |
-| class [IfcPath](./ifcpath) | IfcPath |
-| class [IfcPcurve](./ifcpcurve) | IfcPcurve |
-| class [IfcPerformanceHistory](./ifcperformancehistory) | IfcPerformanceHistory |
-| class [IfcPermeableCoveringProperties](./ifcpermeablecoveringproperties) | IfcPermeableCoveringProperties |
-| class [IfcPermit](./ifcpermit) | IfcPermit |
-| class [IfcPerson](./ifcperson) | IfcPerson |
-| class [IfcPersonAndOrganization](./ifcpersonandorganization) | IfcPersonAndOrganization |
-| class [IfcPhysicalComplexQuantity](./ifcphysicalcomplexquantity) | IfcPhysicalComplexQuantity |
-| abstract class [IfcPhysicalQuantity](./ifcphysicalquantity) | IfcPhysicalQuantity |
-| abstract class [IfcPhysicalSimpleQuantity](./ifcphysicalsimplequantity) | IfcPhysicalSimpleQuantity |
-| class [IfcPile](./ifcpile) | IfcPile |
-| class [IfcPileType](./ifcpiletype) | IfcPileType |
-| class [IfcPipeFitting](./ifcpipefitting) | IfcPipeFitting |
-| class [IfcPipeFittingType](./ifcpipefittingtype) | IfcPipeFittingType |
-| class [IfcPipeSegment](./ifcpipesegment) | IfcPipeSegment |
-| class [IfcPipeSegmentType](./ifcpipesegmenttype) | IfcPipeSegmentType |
-| class [IfcPixelTexture](./ifcpixeltexture) | IfcPixelTexture |
-| abstract class [IfcPlacement](./ifcplacement) | IfcPlacement |
-| class [IfcPlanarBox](./ifcplanarbox) | IfcPlanarBox |
-| class [IfcPlanarExtent](./ifcplanarextent) | Partial IIfc entity class |
-| class [IfcPlane](./ifcplane) | IfcPlane |
-| class [IfcPlate](./ifcplate) | IfcPlate |
-| class [IfcPlateStandardCase](./ifcplatestandardcase) | IfcPlateStandardCase |
-| class [IfcPlateType](./ifcplatetype) | IfcPlateType |
-| abstract class [IfcPoint](./ifcpoint) | IfcPoint |
-| class [IfcPointOnCurve](./ifcpointoncurve) | IfcPointOnCurve |
-| class [IfcPointOnSurface](./ifcpointonsurface) | IfcPointOnSurface |
-| class [IfcPolygonalBoundedHalfSpace](./ifcpolygonalboundedhalfspace) | IfcPolygonalBoundedHalfSpace |
-| class [IfcPolygonalFaceSet](./ifcpolygonalfaceset) | Partial IIfc entity class |
-| class [IfcPolyline](./ifcpolyline) | IfcPolyline |
-| class [IfcPolyLoop](./ifcpolyloop) | IfcPolyLoop |
-| abstract class [IfcPort](./ifcport) | IfcPort |
-| class [IfcPostalAddress](./ifcpostaladdress) | IfcPostalAddress |
-| abstract class [IfcPreDefinedColour](./ifcpredefinedcolour) | IfcPreDefinedColour |
-| abstract class [IfcPreDefinedCurveFont](./ifcpredefinedcurvefont) | IfcPreDefinedCurveFont |
-| abstract class [IfcPreDefinedItem](./ifcpredefineditem) | Partial IIfc entity class |
-| abstract class [IfcPreDefinedProperties](./ifcpredefinedproperties) | IfcPreDefinedProperties |
-| abstract class [IfcPreDefinedPropertySet](./ifcpredefinedpropertyset) | IfcPreDefinedPropertySet |
-| abstract class [IfcPreDefinedTextFont](./ifcpredefinedtextfont) | Partial IIfc entity class |
-| abstract class [IfcPresentationItem](./ifcpresentationitem) | Partial IIfc entity class |
-| class [IfcPresentationLayerAssignment](./ifcpresentationlayerassignment) | IfcPresentationLayerAssignment |
-| class [IfcPresentationLayerWithStyle](./ifcpresentationlayerwithstyle) | IfcPresentationLayerWithStyle |
-| abstract class [IfcPresentationStyle](./ifcpresentationstyle) | Partial IIfc entity class |
-| class [IfcPresentationStyleAssignment](./ifcpresentationstyleassignment) | Partial IIfc entity class |
-| class [IfcProcedure](./ifcprocedure) | IfcProcedure |
-| class [IfcProcedureType](./ifcproceduretype) | IfcProcedureType |
-| abstract class [IfcProcess](./ifcprocess) | IfcProcess |
-| abstract class [IfcProduct](./ifcproduct) | IfcProduct |
-| class [IfcProductDefinitionShape](./ifcproductdefinitionshape) | IfcProductDefinitionShape |
-| abstract class [IfcProductRepresentation](./ifcproductrepresentation) | IfcProductRepresentation |
-| class [IfcProfileDef](./ifcprofiledef) | IfcProfileDef |
-| class [IfcProfileProperties](./ifcprofileproperties) | IfcProfileProperties |
-| class [IfcProject](./ifcproject) | IfcProject |
-| class [IfcProjectedCRS](./ifcprojectedcrs) | IfcProjectedCRS |
-| class [IfcProjectionElement](./ifcprojectionelement) | IfcProjectionElement |
-| class [IfcProjectLibrary](./ifcprojectlibrary) | IfcProjectLibrary |
-| class [IfcProjectOrder](./ifcprojectorder) | IfcProjectOrder |
-| abstract class [IfcProperty](./ifcproperty) | IfcProperty |
-| abstract class [IfcPropertyAbstraction](./ifcpropertyabstraction) | IfcPropertyAbstraction |
-| class [IfcPropertyBoundedValue](./ifcpropertyboundedvalue) | IfcPropertyBoundedValue |
-| abstract class [IfcPropertyDefinition](./ifcpropertydefinition) | IfcPropertyDefinition |
-| class [IfcPropertyDependencyRelationship](./ifcpropertydependencyrelationship) | IfcPropertyDependencyRelationship |
-| class [IfcPropertyEnumeratedValue](./ifcpropertyenumeratedvalue) | IfcPropertyEnumeratedValue |
-| class [IfcPropertyEnumeration](./ifcpropertyenumeration) | IfcPropertyEnumeration |
-| class [IfcPropertyListValue](./ifcpropertylistvalue) | IfcPropertyListValue |
-| class [IfcPropertyReferenceValue](./ifcpropertyreferencevalue) | IfcPropertyReferenceValue |
-| class [IfcPropertySet](./ifcpropertyset) | IfcPropertySet |
-| abstract class [IfcPropertySetDefinition](./ifcpropertysetdefinition) | IfcPropertySetDefinition |
-| class [IfcPropertySetTemplate](./ifcpropertysettemplate) | IfcPropertySetTemplate |
-| class [IfcPropertySingleValue](./ifcpropertysinglevalue) | IfcPropertySingleValue |
-| class [IfcPropertyTableValue](./ifcpropertytablevalue) | IfcPropertyTableValue |
-| abstract class [IfcPropertyTemplate](./ifcpropertytemplate) | IfcPropertyTemplate |
-| abstract class [IfcPropertyTemplateDefinition](./ifcpropertytemplatedefinition) | IfcPropertyTemplateDefinition |
-| class [IfcProtectiveDevice](./ifcprotectivedevice) | IfcProtectiveDevice |
-| class [IfcProtectiveDeviceTrippingUnit](./ifcprotectivedevicetrippingunit) | IfcProtectiveDeviceTrippingUnit |
-| class [IfcProtectiveDeviceTrippingUnitType](./ifcprotectivedevicetrippingunittype) | IfcProtectiveDeviceTrippingUnitType |
-| class [IfcProtectiveDeviceType](./ifcprotectivedevicetype) | IfcProtectiveDeviceType |
-| class [IfcProxy](./ifcproxy) | IfcProxy |
-| class [IfcPump](./ifcpump) | IfcPump |
-| class [IfcPumpType](./ifcpumptype) | IfcPumpType |
-| class [IfcQuantityArea](./ifcquantityarea) | IfcQuantityArea |
-| class [IfcQuantityCount](./ifcquantitycount) | IfcQuantityCount |
-| class [IfcQuantityLength](./ifcquantitylength) | IfcQuantityLength |
-| abstract class [IfcQuantitySet](./ifcquantityset) | IfcQuantitySet |
-| class [IfcQuantityTime](./ifcquantitytime) | IfcQuantityTime |
-| class [IfcQuantityVolume](./ifcquantityvolume) | IfcQuantityVolume |
-| class [IfcQuantityWeight](./ifcquantityweight) | IfcQuantityWeight |
-| class [IfcRailing](./ifcrailing) | IfcRailing |
-| class [IfcRailingType](./ifcrailingtype) | IfcRailingType |
-| class [IfcRamp](./ifcramp) | IfcRamp |
-| class [IfcRampFlight](./ifcrampflight) | IfcRampFlight |
-| class [IfcRampFlightType](./ifcrampflighttype) | IfcRampFlightType |
-| class [IfcRampType](./ifcramptype) | IfcRampType |
-| class [IfcRationalBSplineCurveWithKnots](./ifcrationalbsplinecurvewithknots) | IfcRationalBSplineCurveWithKnots |
-| class [IfcRationalBSplineSurfaceWithKnots](./ifcrationalbsplinesurfacewithknots) | IfcRationalBSplineSurfaceWithKnots |
-| class [IfcRectangleHollowProfileDef](./ifcrectanglehollowprofiledef) | IfcRectangleHollowProfileDef |
-| class [IfcRectangleProfileDef](./ifcrectangleprofiledef) | IfcRectangleProfileDef |
-| class [IfcRectangularPyramid](./ifcrectangularpyramid) | IfcRectangularPyramid |
-| class [IfcRectangularTrimmedSurface](./ifcrectangulartrimmedsurface) | IfcRectangularTrimmedSurface |
-| class [IfcRecurrencePattern](./ifcrecurrencepattern) | IfcRecurrencePattern |
-| class [IfcReference](./ifcreference) | IfcReference |
-| class [IfcRegularTimeSeries](./ifcregulartimeseries) | IfcRegularTimeSeries |
-| class [IfcReinforcementBarProperties](./ifcreinforcementbarproperties) | IfcReinforcementBarProperties |
-| class [IfcReinforcementDefinitionProperties](./ifcreinforcementdefinitionproperties) | IfcReinforcementDefinitionProperties |
-| class [IfcReinforcingBar](./ifcreinforcingbar) | IfcReinforcingBar |
-| class [IfcReinforcingBarType](./ifcreinforcingbartype) | IfcReinforcingBarType |
-| abstract class [IfcReinforcingElement](./ifcreinforcingelement) | IfcReinforcingElement |
-| abstract class [IfcReinforcingElementType](./ifcreinforcingelementtype) | IfcReinforcingElementType |
-| class [IfcReinforcingMesh](./ifcreinforcingmesh) | IfcReinforcingMesh |
-| class [IfcReinforcingMeshType](./ifcreinforcingmeshtype) | IfcReinforcingMeshType |
-| class [IfcRelAggregates](./ifcrelaggregates) | IfcRelAggregates |
-| abstract class [IfcRelAssigns](./ifcrelassigns) | IfcRelAssigns |
-| class [IfcRelAssignsToActor](./ifcrelassignstoactor) | IfcRelAssignsToActor |
-| class [IfcRelAssignsToControl](./ifcrelassignstocontrol) | IfcRelAssignsToControl |
-| class [IfcRelAssignsToGroup](./ifcrelassignstogroup) | IfcRelAssignsToGroup |
-| class [IfcRelAssignsToGroupByFactor](./ifcrelassignstogroupbyfactor) | IfcRelAssignsToGroupByFactor |
-| class [IfcRelAssignsToProcess](./ifcrelassignstoprocess) | IfcRelAssignsToProcess |
-| class [IfcRelAssignsToProduct](./ifcrelassignstoproduct) | IfcRelAssignsToProduct |
-| class [IfcRelAssignsToResource](./ifcrelassignstoresource) | IfcRelAssignsToResource |
-| abstract class [IfcRelAssociates](./ifcrelassociates) | IfcRelAssociates |
-| class [IfcRelAssociatesApproval](./ifcrelassociatesapproval) | IfcRelAssociatesApproval |
-| class [IfcRelAssociatesClassification](./ifcrelassociatesclassification) | IfcRelAssociatesClassification |
-| class [IfcRelAssociatesConstraint](./ifcrelassociatesconstraint) | IfcRelAssociatesConstraint |
-| class [IfcRelAssociatesDocument](./ifcrelassociatesdocument) | IfcRelAssociatesDocument |
-| class [IfcRelAssociatesLibrary](./ifcrelassociateslibrary) | IfcRelAssociatesLibrary |
-| class [IfcRelAssociatesMaterial](./ifcrelassociatesmaterial) | IfcRelAssociatesMaterial |
-| abstract class [IfcRelationship](./ifcrelationship) | IfcRelationship |
-| abstract class [IfcRelConnects](./ifcrelconnects) | IfcRelConnects |
-| class [IfcRelConnectsElements](./ifcrelconnectselements) | IfcRelConnectsElements |
-| class [IfcRelConnectsPathElements](./ifcrelconnectspathelements) | IfcRelConnectsPathElements |
-| class [IfcRelConnectsPorts](./ifcrelconnectsports) | IfcRelConnectsPorts |
-| class [IfcRelConnectsPortToElement](./ifcrelconnectsporttoelement) | IfcRelConnectsPortToElement |
-| class [IfcRelConnectsStructuralActivity](./ifcrelconnectsstructuralactivity) | IfcRelConnectsStructuralActivity |
-| class [IfcRelConnectsStructuralMember](./ifcrelconnectsstructuralmember) | IfcRelConnectsStructuralMember |
-| class [IfcRelConnectsWithEccentricity](./ifcrelconnectswitheccentricity) | IfcRelConnectsWithEccentricity |
-| class [IfcRelConnectsWithRealizingElements](./ifcrelconnectswithrealizingelements) | IfcRelConnectsWithRealizingElements |
-| class [IfcRelContainedInSpatialStructure](./ifcrelcontainedinspatialstructure) | IfcRelContainedInSpatialStructure |
-| class [IfcRelCoversBldgElements](./ifcrelcoversbldgelements) | IfcRelCoversBldgElements |
-| class [IfcRelCoversSpaces](./ifcrelcoversspaces) | IfcRelCoversSpaces |
-| class [IfcRelDeclares](./ifcreldeclares) | IfcRelDeclares |
-| abstract class [IfcRelDecomposes](./ifcreldecomposes) | IfcRelDecomposes |
-| abstract class [IfcRelDefines](./ifcreldefines) | IfcRelDefines |
-| class [IfcRelDefinesByObject](./ifcreldefinesbyobject) | IfcRelDefinesByObject |
-| class [IfcRelDefinesByProperties](./ifcreldefinesbyproperties) | IfcRelDefinesByProperties |
-| class [IfcRelDefinesByTemplate](./ifcreldefinesbytemplate) | IfcRelDefinesByTemplate |
-| class [IfcRelDefinesByType](./ifcreldefinesbytype) | IfcRelDefinesByType |
-| class [IfcRelFillsElement](./ifcrelfillselement) | IfcRelFillsElement |
-| class [IfcRelFlowControlElements](./ifcrelflowcontrolelements) | IfcRelFlowControlElements |
-| class [IfcRelInterferesElements](./ifcrelinterfereselements) | IfcRelInterferesElements |
-| class [IfcRelNests](./ifcrelnests) | IfcRelNests |
-| class [IfcRelProjectsElement](./ifcrelprojectselement) | IfcRelProjectsElement |
-| class [IfcRelReferencedInSpatialStructure](./ifcrelreferencedinspatialstructure) | IfcRelReferencedInSpatialStructure |
-| class [IfcRelSequence](./ifcrelsequence) | IfcRelSequence |
-| class [IfcRelServicesBuildings](./ifcrelservicesbuildings) | IfcRelServicesBuildings |
-| class [IfcRelSpaceBoundary](./ifcrelspaceboundary) | IfcRelSpaceBoundary |
-| class [IfcRelSpaceBoundary1stLevel](./ifcrelspaceboundary1stlevel) | IfcRelSpaceBoundary1stLevel |
-| class [IfcRelSpaceBoundary2ndLevel](./ifcrelspaceboundary2ndlevel) | IfcRelSpaceBoundary2ndLevel |
-| class [IfcRelVoidsElement](./ifcrelvoidselement) | IfcRelVoidsElement |
-| class [IfcReparametrisedCompositeCurveSegment](./ifcreparametrisedcompositecurvesegment) | IfcReparametrisedCompositeCurveSegment |
-| abstract class [IfcRepresentation](./ifcrepresentation) | IfcRepresentation |
-| abstract class [IfcRepresentationContext](./ifcrepresentationcontext) | IfcRepresentationContext |
-| abstract class [IfcRepresentationItem](./ifcrepresentationitem) | IfcRepresentationItem |
-| class [IfcRepresentationMap](./ifcrepresentationmap) | IfcRepresentationMap |
-| abstract class [IfcResource](./ifcresource) | IfcResource |
-| class [IfcResourceApprovalRelationship](./ifcresourceapprovalrelationship) | IfcResourceApprovalRelationship |
-| class [IfcResourceConstraintRelationship](./ifcresourceconstraintrelationship) | IfcResourceConstraintRelationship |
-| abstract class [IfcResourceLevelRelationship](./ifcresourcelevelrelationship) | IfcResourceLevelRelationship |
-| class [IfcResourceTime](./ifcresourcetime) | IfcResourceTime |
-| class [IfcRevolvedAreaSolid](./ifcrevolvedareasolid) | IfcRevolvedAreaSolid |
-| class [IfcRevolvedAreaSolidTapered](./ifcrevolvedareasolidtapered) | IfcRevolvedAreaSolidTapered |
-| class [IfcRightCircularCone](./ifcrightcircularcone) | IfcRightCircularCone |
-| class [IfcRightCircularCylinder](./ifcrightcircularcylinder) | IfcRightCircularCylinder |
-| class [IfcRoof](./ifcroof) | IfcRoof |
-| class [IfcRoofType](./ifcrooftype) | IfcRoofType |
-| abstract class [IfcRoot](./ifcroot) | IfcRoot |
-| class [IfcRoundedRectangleProfileDef](./ifcroundedrectangleprofiledef) | IfcRoundedRectangleProfileDef |
-| class [IfcSanitaryTerminal](./ifcsanitaryterminal) | IfcSanitaryTerminal |
-| class [IfcSanitaryTerminalType](./ifcsanitaryterminaltype) | IfcSanitaryTerminalType |
-| abstract class [IfcSchedulingTime](./ifcschedulingtime) | IfcSchedulingTime |
-| class [IfcSeamCurve](./ifcseamcurve) | IfcSeamCurve |
-| class [IfcSectionedSpine](./ifcsectionedspine) | IfcSectionedSpine |
-| class [IfcSectionProperties](./ifcsectionproperties) | IfcSectionProperties |
-| class [IfcSectionReinforcementProperties](./ifcsectionreinforcementproperties) | IfcSectionReinforcementProperties |
-| class [IfcSensor](./ifcsensor) | IfcSensor |
-| class [IfcSensorType](./ifcsensortype) | IfcSensorType |
-| class [IfcShadingDevice](./ifcshadingdevice) | IfcShadingDevice |
-| class [IfcShadingDeviceType](./ifcshadingdevicetype) | IfcShadingDeviceType |
-| class [IfcShapeAspect](./ifcshapeaspect) | IfcShapeAspect |
-| abstract class [IfcShapeModel](./ifcshapemodel) | IfcShapeModel |
-| class [IfcShapeRepresentation](./ifcshaperepresentation) | IfcShapeRepresentation |
-| class [IfcShellBasedSurfaceModel](./ifcshellbasedsurfacemodel) | IfcShellBasedSurfaceModel |
-| abstract class [IfcSimpleProperty](./ifcsimpleproperty) | IfcSimpleProperty |
-| class [IfcSimplePropertyTemplate](./ifcsimplepropertytemplate) | IfcSimplePropertyTemplate |
-| class [IfcSite](./ifcsite) | IfcSite |
-| class [IfcSIUnit](./ifcsiunit) | IfcSIUnit |
-| class [IfcSlab](./ifcslab) | IfcSlab |
-| class [IfcSlabElementedCase](./ifcslabelementedcase) | IfcSlabElementedCase |
-| class [IfcSlabStandardCase](./ifcslabstandardcase) | IfcSlabStandardCase |
-| class [IfcSlabType](./ifcslabtype) | IfcSlabType |
-| class [IfcSlippageConnectionCondition](./ifcslippageconnectioncondition) | IfcSlippageConnectionCondition |
-| class [IfcSolarDevice](./ifcsolardevice) | IfcSolarDevice |
-| class [IfcSolarDeviceType](./ifcsolardevicetype) | IfcSolarDeviceType |
-| abstract class [IfcSolidModel](./ifcsolidmodel) | IfcSolidModel |
-| class [IfcSpace](./ifcspace) | IfcSpace |
-| class [IfcSpaceHeater](./ifcspaceheater) | IfcSpaceHeater |
-| class [IfcSpaceHeaterType](./ifcspaceheatertype) | IfcSpaceHeaterType |
-| class [IfcSpaceType](./ifcspacetype) | IfcSpaceType |
-| abstract class [IfcSpatialElement](./ifcspatialelement) | IfcSpatialElement |
-| abstract class [IfcSpatialElementType](./ifcspatialelementtype) | IfcSpatialElementType |
-| abstract class [IfcSpatialStructureElement](./ifcspatialstructureelement) | IfcSpatialStructureElement |
-| abstract class [IfcSpatialStructureElementType](./ifcspatialstructureelementtype) | IfcSpatialStructureElementType |
-| class [IfcSpatialZone](./ifcspatialzone) | IfcSpatialZone |
-| class [IfcSpatialZoneType](./ifcspatialzonetype) | IfcSpatialZoneType |
-| class [IfcSphere](./ifcsphere) | IfcSphere |
-| class [IfcSphericalSurface](./ifcsphericalsurface) | IfcSphericalSurface |
-| class [IfcStackTerminal](./ifcstackterminal) | IfcStackTerminal |
-| class [IfcStackTerminalType](./ifcstackterminaltype) | IfcStackTerminalType |
-| class [IfcStair](./ifcstair) | IfcStair |
-| class [IfcStairFlight](./ifcstairflight) | IfcStairFlight |
-| class [IfcStairFlightType](./ifcstairflighttype) | IfcStairFlightType |
-| class [IfcStairType](./ifcstairtype) | IfcStairType |
-| abstract class [IfcStructuralAction](./ifcstructuralaction) | IfcStructuralAction |
-| abstract class [IfcStructuralActivity](./ifcstructuralactivity) | IfcStructuralActivity |
-| class [IfcStructuralAnalysisModel](./ifcstructuralanalysismodel) | IfcStructuralAnalysisModel |
-| abstract class [IfcStructuralConnection](./ifcstructuralconnection) | IfcStructuralConnection |
-| abstract class [IfcStructuralConnectionCondition](./ifcstructuralconnectioncondition) | IfcStructuralConnectionCondition |
-| class [IfcStructuralCurveAction](./ifcstructuralcurveaction) | IfcStructuralCurveAction |
-| class [IfcStructuralCurveConnection](./ifcstructuralcurveconnection) | IfcStructuralCurveConnection |
-| class [IfcStructuralCurveMember](./ifcstructuralcurvemember) | IfcStructuralCurveMember |
-| class [IfcStructuralCurveMemberVarying](./ifcstructuralcurvemembervarying) | IfcStructuralCurveMemberVarying |
-| class [IfcStructuralCurveReaction](./ifcstructuralcurvereaction) | IfcStructuralCurveReaction |
-| abstract class [IfcStructuralItem](./ifcstructuralitem) | IfcStructuralItem |
-| class [IfcStructuralLinearAction](./ifcstructurallinearaction) | IfcStructuralLinearAction |
-| abstract class [IfcStructuralLoad](./ifcstructuralload) | IfcStructuralLoad |
-| class [IfcStructuralLoadCase](./ifcstructuralloadcase) | IfcStructuralLoadCase |
-| class [IfcStructuralLoadConfiguration](./ifcstructuralloadconfiguration) | IfcStructuralLoadConfiguration |
-| class [IfcStructuralLoadGroup](./ifcstructuralloadgroup) | IfcStructuralLoadGroup |
-| class [IfcStructuralLoadLinearForce](./ifcstructuralloadlinearforce) | IfcStructuralLoadLinearForce |
-| abstract class [IfcStructuralLoadOrResult](./ifcstructuralloadorresult) | IfcStructuralLoadOrResult |
-| class [IfcStructuralLoadPlanarForce](./ifcstructuralloadplanarforce) | IfcStructuralLoadPlanarForce |
-| class [IfcStructuralLoadSingleDisplacement](./ifcstructuralloadsingledisplacement) | IfcStructuralLoadSingleDisplacement |
-| class [IfcStructuralLoadSingleDisplacementDistortion](./ifcstructuralloadsingledisplacementdistortion) | IfcStructuralLoadSingleDisplacementDistortion |
-| class [IfcStructuralLoadSingleForce](./ifcstructuralloadsingleforce) | IfcStructuralLoadSingleForce |
-| class [IfcStructuralLoadSingleForceWarping](./ifcstructuralloadsingleforcewarping) | IfcStructuralLoadSingleForceWarping |
-| abstract class [IfcStructuralLoadStatic](./ifcstructuralloadstatic) | IfcStructuralLoadStatic |
-| class [IfcStructuralLoadTemperature](./ifcstructuralloadtemperature) | IfcStructuralLoadTemperature |
-| abstract class [IfcStructuralMember](./ifcstructuralmember) | IfcStructuralMember |
-| class [IfcStructuralPlanarAction](./ifcstructuralplanaraction) | IfcStructuralPlanarAction |
-| class [IfcStructuralPointAction](./ifcstructuralpointaction) | IfcStructuralPointAction |
-| class [IfcStructuralPointConnection](./ifcstructuralpointconnection) | IfcStructuralPointConnection |
-| class [IfcStructuralPointReaction](./ifcstructuralpointreaction) | IfcStructuralPointReaction |
-| abstract class [IfcStructuralReaction](./ifcstructuralreaction) | IfcStructuralReaction |
-| class [IfcStructuralResultGroup](./ifcstructuralresultgroup) | IfcStructuralResultGroup |
-| class [IfcStructuralSurfaceAction](./ifcstructuralsurfaceaction) | IfcStructuralSurfaceAction |
-| class [IfcStructuralSurfaceConnection](./ifcstructuralsurfaceconnection) | IfcStructuralSurfaceConnection |
-| class [IfcStructuralSurfaceMember](./ifcstructuralsurfacemember) | IfcStructuralSurfaceMember |
-| class [IfcStructuralSurfaceMemberVarying](./ifcstructuralsurfacemembervarying) | IfcStructuralSurfaceMemberVarying |
-| class [IfcStructuralSurfaceReaction](./ifcstructuralsurfacereaction) | IfcStructuralSurfaceReaction |
-| class [IfcStyledItem](./ifcstyleditem) | Partial IIfc entity class |
-| class [IfcStyledRepresentation](./ifcstyledrepresentation) | IfcStyledRepresentation |
-| abstract class [IfcStyleModel](./ifcstylemodel) | IfcStyleModel |
-| class [IfcSubContractResource](./ifcsubcontractresource) | IfcSubContractResource |
-| class [IfcSubContractResourceType](./ifcsubcontractresourcetype) | IfcSubContractResourceType |
-| class [IfcSubedge](./ifcsubedge) | IfcSubedge |
-| abstract class [IfcSurface](./ifcsurface) | IfcSurface |
-| class [IfcSurfaceCurve](./ifcsurfacecurve) | IfcSurfaceCurve |
-| class [IfcSurfaceCurveSweptAreaSolid](./ifcsurfacecurvesweptareasolid) | IfcSurfaceCurveSweptAreaSolid |
-| class [IfcSurfaceFeature](./ifcsurfacefeature) | IfcSurfaceFeature |
-| class [IfcSurfaceOfLinearExtrusion](./ifcsurfaceoflinearextrusion) | IfcSurfaceOfLinearExtrusion |
-| class [IfcSurfaceOfRevolution](./ifcsurfaceofrevolution) | IfcSurfaceOfRevolution |
-| class [IfcSurfaceReinforcementArea](./ifcsurfacereinforcementarea) | IfcSurfaceReinforcementArea |
-| class [IfcSurfaceStyle](./ifcsurfacestyle) | IfcSurfaceStyle |
-| class [IfcSurfaceStyleLighting](./ifcsurfacestylelighting) | IfcSurfaceStyleLighting |
-| class [IfcSurfaceStyleRefraction](./ifcsurfacestylerefraction) | IfcSurfaceStyleRefraction |
-| class [IfcSurfaceStyleRendering](./ifcsurfacestylerendering) | IfcSurfaceStyleRendering |
-| class [IfcSurfaceStyleShading](./ifcsurfacestyleshading) | IfcSurfaceStyleShading |
-| class [IfcSurfaceStyleWithTextures](./ifcsurfacestylewithtextures) | IfcSurfaceStyleWithTextures |
-| abstract class [IfcSurfaceTexture](./ifcsurfacetexture) | IfcSurfaceTexture |
-| abstract class [IfcSweptAreaSolid](./ifcsweptareasolid) | IfcSweptAreaSolid |
-| class [IfcSweptDiskSolid](./ifcsweptdisksolid) | IfcSweptDiskSolid |
-| class [IfcSweptDiskSolidPolygonal](./ifcsweptdisksolidpolygonal) | IfcSweptDiskSolidPolygonal |
-| abstract class [IfcSweptSurface](./ifcsweptsurface) | IfcSweptSurface |
-| class [IfcSwitchingDevice](./ifcswitchingdevice) | IfcSwitchingDevice |
-| class [IfcSwitchingDeviceType](./ifcswitchingdevicetype) | IfcSwitchingDeviceType |
-| class [IfcSystem](./ifcsystem) | IfcSystem |
-| class [IfcSystemFurnitureElement](./ifcsystemfurnitureelement) | IfcSystemFurnitureElement |
-| class [IfcSystemFurnitureElementType](./ifcsystemfurnitureelementtype) | IfcSystemFurnitureElementType |
-| class [IfcTable](./ifctable) | IfcTable |
-| class [IfcTableColumn](./ifctablecolumn) | IfcTableColumn |
-| class [IfcTableRow](./ifctablerow) | IfcTableRow |
-| class [IfcTank](./ifctank) | IfcTank |
-| class [IfcTankType](./ifctanktype) | IfcTankType |
-| class [IfcTask](./ifctask) | IfcTask |
-| class [IfcTaskTime](./ifctasktime) | IfcTaskTime |
-| class [IfcTaskTimeRecurring](./ifctasktimerecurring) | IfcTaskTimeRecurring |
-| class [IfcTaskType](./ifctasktype) | IfcTaskType |
-| class [IfcTelecomAddress](./ifctelecomaddress) | IfcTelecomAddress |
-| class [IfcTendon](./ifctendon) | IfcTendon |
-| class [IfcTendonAnchor](./ifctendonanchor) | IfcTendonAnchor |
-| class [IfcTendonAnchorType](./ifctendonanchortype) | IfcTendonAnchorType |
-| class [IfcTendonType](./ifctendontype) | IfcTendonType |
-| abstract class [IfcTessellatedFaceSet](./ifctessellatedfaceset) | IfcTessellatedFaceSet |
-| abstract class [IfcTessellatedItem](./ifctessellateditem) | IfcTessellatedItem |
-| class [IfcTextLiteral](./ifctextliteral) | Partial IIfc entity class |
-| class [IfcTextLiteralWithExtent](./ifctextliteralwithextent) | Partial IIfc entity class |
-| class [IfcTextStyle](./ifctextstyle) | Partial IIfc entity class |
-| class [IfcTextStyleFontModel](./ifctextstylefontmodel) | Partial IIfc entity class |
-| class [IfcTextStyleForDefinedFont](./ifctextstylefordefinedfont) | Partial IIfc entity class |
-| class [IfcTextStyleTextModel](./ifctextstyletextmodel) | IfcTextStyleTextModel |
-| abstract class [IfcTextureCoordinate](./ifctexturecoordinate) | IfcTextureCoordinate |
-| class [IfcTextureCoordinateGenerator](./ifctexturecoordinategenerator) | IfcTextureCoordinateGenerator |
-| class [IfcTextureMap](./ifctexturemap) | IfcTextureMap |
-| class [IfcTextureVertex](./ifctexturevertex) | IfcTextureVertex |
-| class [IfcTextureVertexList](./ifctexturevertexlist) | IfcTextureVertexList |
-| class [IfcTimePeriod](./ifctimeperiod) | IfcTimePeriod |
-| abstract class [IfcTimeSeries](./ifctimeseries) | IfcTimeSeries |
-| class [IfcTimeSeriesValue](./ifctimeseriesvalue) | IfcTimeSeriesValue |
-| abstract class [IfcTopologicalRepresentationItem](./ifctopologicalrepresentationitem) | IfcTopologicalRepresentationItem |
-| class [IfcTopologyRepresentation](./ifctopologyrepresentation) | IfcTopologyRepresentation |
-| class [IfcToroidalSurface](./ifctoroidalsurface) | IfcToroidalSurface |
-| class [IfcTransformer](./ifctransformer) | IfcTransformer |
-| class [IfcTransformerType](./ifctransformertype) | IfcTransformerType |
-| class [IfcTransportElement](./ifctransportelement) | IfcTransportElement |
-| class [IfcTransportElementType](./ifctransportelementtype) | IfcTransportElementType |
-| class [IfcTrapeziumProfileDef](./ifctrapeziumprofiledef) | IfcTrapeziumProfileDef |
-| class [IfcTriangulatedFaceSet](./ifctriangulatedfaceset) | IfcTriangulatedFaceSet |
-| class [IfcTrimmedCurve](./ifctrimmedcurve) | IfcTrimmedCurve |
-| class [IfcTShapeProfileDef](./ifctshapeprofiledef) | IfcTShapeProfileDef |
-| class [IfcTubeBundle](./ifctubebundle) | IfcTubeBundle |
-| class [IfcTubeBundleType](./ifctubebundletype) | IfcTubeBundleType |
-| class [IfcTypeObject](./ifctypeobject) | IfcTypeObject |
-| abstract class [IfcTypeProcess](./ifctypeprocess) | IfcTypeProcess |
-| class [IfcTypeProduct](./ifctypeproduct) | IfcTypeProduct |
-| abstract class [IfcTypeResource](./ifctyperesource) | IfcTypeResource |
-| class [IfcUnitaryControlElement](./ifcunitarycontrolelement) | IfcUnitaryControlElement |
-| class [IfcUnitaryControlElementType](./ifcunitarycontrolelementtype) | IfcUnitaryControlElementType |
-| class [IfcUnitaryEquipment](./ifcunitaryequipment) | IfcUnitaryEquipment |
-| class [IfcUnitaryEquipmentType](./ifcunitaryequipmenttype) | IfcUnitaryEquipmentType |
-| class [IfcUnitAssignment](./ifcunitassignment) | IfcUnitAssignment |
-| class [IfcUShapeProfileDef](./ifcushapeprofiledef) | IfcUShapeProfileDef |
-| class [IfcValve](./ifcvalve) | IfcValve |
-| class [IfcValveType](./ifcvalvetype) | IfcValveType |
-| class [IfcVector](./ifcvector) | IfcVector |
-| class [IfcVertex](./ifcvertex) | IfcVertex |
-| class [IfcVertexLoop](./ifcvertexloop) | IfcVertexLoop |
-| class [IfcVertexPoint](./ifcvertexpoint) | IfcVertexPoint |
-| class [IfcVibrationIsolator](./ifcvibrationisolator) | IfcVibrationIsolator |
-| class [IfcVibrationIsolatorType](./ifcvibrationisolatortype) | IfcVibrationIsolatorType |
-| class [IfcVirtualElement](./ifcvirtualelement) | IfcVirtualElement |
-| class [IfcVirtualGridIntersection](./ifcvirtualgridintersection) | IfcVirtualGridIntersection |
-| class [IfcVoidingFeature](./ifcvoidingfeature) | IfcVoidingFeature |
-| class [IfcWall](./ifcwall) | IfcWall |
-| class [IfcWallElementedCase](./ifcwallelementedcase) | IfcWallElementedCase |
-| class [IfcWallStandardCase](./ifcwallstandardcase) | IfcWallStandardCase |
-| class [IfcWallType](./ifcwalltype) | IfcWallType |
-| class [IfcWasteTerminal](./ifcwasteterminal) | IfcWasteTerminal |
-| class [IfcWasteTerminalType](./ifcwasteterminaltype) | IfcWasteTerminalType |
-| class [IfcWindow](./ifcwindow) | IfcWindow |
-| class [IfcWindowLiningProperties](./ifcwindowliningproperties) | IfcWindowLiningProperties |
-| class [IfcWindowPanelProperties](./ifcwindowpanelproperties) | IfcWindowPanelProperties |
-| class [IfcWindowStandardCase](./ifcwindowstandardcase) | IfcWindowStandardCase |
-| class [IfcWindowStyle](./ifcwindowstyle) | IfcWindowStyle |
-| class [IfcWindowType](./ifcwindowtype) | IfcWindowType |
-| class [IfcWorkCalendar](./ifcworkcalendar) | IfcWorkCalendar |
-| abstract class [IfcWorkControl](./ifcworkcontrol) | IfcWorkControl |
-| class [IfcWorkPlan](./ifcworkplan) | IfcWorkPlan |
-| class [IfcWorkSchedule](./ifcworkschedule) | IfcWorkSchedule |
-| class [IfcWorkTime](./ifcworktime) | IfcWorkTime |
-| class [IfcZone](./ifczone) | IfcZone |
-| class [IfcZShapeProfileDef](./ifczshapeprofiledef) | IfcZShapeProfileDef |
+| [IfcActionRequest](./ifcactionrequest) | IfcActionRequest |
+| [IfcActor](./ifcactor) | IfcActor |
+| [IfcActorRole](./ifcactorrole) | IfcActorRole |
+| [IfcActuator](./ifcactuator) | IfcActuator |
+| [IfcActuatorType](./ifcactuatortype) | IfcActuatorType |
+| [IfcAddress](./ifcaddress) | IfcAddress |
+| [IfcAdvancedBrep](./ifcadvancedbrep) | IfcAdvancedBrep |
+| [IfcAdvancedBrepWithVoids](./ifcadvancedbrepwithvoids) | IfcAdvancedBrepWithVoids |
+| [IfcAdvancedFace](./ifcadvancedface) | IfcAdvancedFace |
+| [IfcAirTerminal](./ifcairterminal) | IfcAirTerminal |
+| [IfcAirTerminalBox](./ifcairterminalbox) | IfcAirTerminalBox |
+| [IfcAirTerminalBoxType](./ifcairterminalboxtype) | IfcAirTerminalBoxType |
+| [IfcAirTerminalType](./ifcairterminaltype) | IfcAirTerminalType |
+| [IfcAirToAirHeatRecovery](./ifcairtoairheatrecovery) | IfcAirToAirHeatRecovery |
+| [IfcAirToAirHeatRecoveryType](./ifcairtoairheatrecoverytype) | IfcAirToAirHeatRecoveryType |
+| [IfcAlarm](./ifcalarm) | IfcAlarm |
+| [IfcAlarmType](./ifcalarmtype) | IfcAlarmType |
+| [IfcAnnotation](./ifcannotation) | IfcAnnotation |
+| [IfcAnnotationFillArea](./ifcannotationfillarea) | IfcAnnotationFillArea |
+| [IfcApplication](./ifcapplication) | IfcApplication |
+| [IfcAppliedValue](./ifcappliedvalue) | IfcAppliedValue |
+| [IfcApproval](./ifcapproval) | IfcApproval |
+| [IfcApprovalRelationship](./ifcapprovalrelationship) | IfcApprovalRelationship |
+| [IfcArbitraryClosedProfileDef](./ifcarbitraryclosedprofiledef) | IfcArbitraryClosedProfileDef |
+| [IfcArbitraryOpenProfileDef](./ifcarbitraryopenprofiledef) | IfcArbitraryOpenProfileDef |
+| [IfcArbitraryProfileDefWithVoids](./ifcarbitraryprofiledefwithvoids) | IfcArbitraryProfileDefWithVoids |
+| [IfcAsset](./ifcasset) | IfcAsset |
+| [IfcAsymmetricIShapeProfileDef](./ifcasymmetricishapeprofiledef) | IfcAsymmetricIShapeProfileDef |
+| [IfcAudioVisualAppliance](./ifcaudiovisualappliance) | IfcAudioVisualAppliance |
+| [IfcAudioVisualApplianceType](./ifcaudiovisualappliancetype) | IfcAudioVisualApplianceType |
+| [IfcAxis1Placement](./ifcaxis1placement) | IfcAxis1Placement |
+| [IfcAxis2Placement2D](./ifcaxis2placement2d) | IfcAxis2Placement2D |
+| [IfcAxis2Placement3D](./ifcaxis2placement3d) | IfcAxis2Placement3D |
+| [IfcBeam](./ifcbeam) | IfcBeam |
+| [IfcBeamStandardCase](./ifcbeamstandardcase) | IfcBeamStandardCase |
+| [IfcBeamType](./ifcbeamtype) | IfcBeamType |
+| [IfcBlobTexture](./ifcblobtexture) | IfcBlobTexture |
+| [IfcBlock](./ifcblock) | IfcBlock |
+| [IfcBoiler](./ifcboiler) | IfcBoiler |
+| [IfcBoilerType](./ifcboilertype) | IfcBoilerType |
+| [IfcBooleanClippingResult](./ifcbooleanclippingresult) | IfcBooleanClippingResult |
+| [IfcBooleanResult](./ifcbooleanresult) | IfcBooleanResult |
+| [IfcBoundaryCondition](./ifcboundarycondition) | IfcBoundaryCondition |
+| [IfcBoundaryCurve](./ifcboundarycurve) | IfcBoundaryCurve |
+| [IfcBoundaryEdgeCondition](./ifcboundaryedgecondition) | IfcBoundaryEdgeCondition |
+| [IfcBoundaryFaceCondition](./ifcboundaryfacecondition) | IfcBoundaryFaceCondition |
+| [IfcBoundaryNodeCondition](./ifcboundarynodecondition) | IfcBoundaryNodeCondition |
+| [IfcBoundaryNodeConditionWarping](./ifcboundarynodeconditionwarping) | IfcBoundaryNodeConditionWarping |
+| [IfcBoundedCurve](./ifcboundedcurve) | IfcBoundedCurve |
+| [IfcBoundedSurface](./ifcboundedsurface) | IfcBoundedSurface |
+| [IfcBoundingBox](./ifcboundingbox) | IfcBoundingBox |
+| [IfcBoxedHalfSpace](./ifcboxedhalfspace) | IfcBoxedHalfSpace |
+| [IfcBSplineCurve](./ifcbsplinecurve) | IfcBSplineCurve |
+| [IfcBSplineCurveWithKnots](./ifcbsplinecurvewithknots) | IfcBSplineCurveWithKnots |
+| [IfcBSplineSurface](./ifcbsplinesurface) | IfcBSplineSurface |
+| [IfcBSplineSurfaceWithKnots](./ifcbsplinesurfacewithknots) | IfcBSplineSurfaceWithKnots |
+| [IfcBuilding](./ifcbuilding) | IfcBuilding |
+| [IfcBuildingElement](./ifcbuildingelement) | IfcBuildingElement |
+| [IfcBuildingElementPart](./ifcbuildingelementpart) | IfcBuildingElementPart |
+| [IfcBuildingElementPartType](./ifcbuildingelementparttype) | IfcBuildingElementPartType |
+| [IfcBuildingElementProxy](./ifcbuildingelementproxy) | IfcBuildingElementProxy |
+| [IfcBuildingElementProxyType](./ifcbuildingelementproxytype) | IfcBuildingElementProxyType |
+| [IfcBuildingElementType](./ifcbuildingelementtype) | IfcBuildingElementType |
+| [IfcBuildingStorey](./ifcbuildingstorey) | IfcBuildingStorey |
+| [IfcBuildingSystem](./ifcbuildingsystem) | IfcBuildingSystem |
+| [IfcBurner](./ifcburner) | IfcBurner |
+| [IfcBurnerType](./ifcburnertype) | IfcBurnerType |
+| [IfcCableCarrierFitting](./ifccablecarrierfitting) | IfcCableCarrierFitting |
+| [IfcCableCarrierFittingType](./ifccablecarrierfittingtype) | IfcCableCarrierFittingType |
+| [IfcCableCarrierSegment](./ifccablecarriersegment) | IfcCableCarrierSegment |
+| [IfcCableCarrierSegmentType](./ifccablecarriersegmenttype) | IfcCableCarrierSegmentType |
+| [IfcCableFitting](./ifccablefitting) | IfcCableFitting |
+| [IfcCableFittingType](./ifccablefittingtype) | IfcCableFittingType |
+| [IfcCableSegment](./ifccablesegment) | IfcCableSegment |
+| [IfcCableSegmentType](./ifccablesegmenttype) | IfcCableSegmentType |
+| [IfcCartesianPoint](./ifccartesianpoint) | IfcCartesianPoint |
+| [IfcCartesianPointList](./ifccartesianpointlist) | IfcCartesianPointList |
+| [IfcCartesianPointList2D](./ifccartesianpointlist2d) | IfcCartesianPointList2D |
+| [IfcCartesianPointList3D](./ifccartesianpointlist3d) | IfcCartesianPointList3D |
+| [IfcCartesianTransformationOperator](./ifccartesiantransformationoperator) | IfcCartesianTransformationOperator |
+| [IfcCartesianTransformationOperator2D](./ifccartesiantransformationoperator2d) | IfcCartesianTransformationOperator2D |
+| [IfcCartesianTransformationOperator2DnonUniform](./ifccartesiantransformationoperator2dnonuniform) | IfcCartesianTransformationOperator2DnonUniform |
+| [IfcCartesianTransformationOperator3D](./ifccartesiantransformationoperator3d) | IfcCartesianTransformationOperator3D |
+| [IfcCartesianTransformationOperator3DnonUniform](./ifccartesiantransformationoperator3dnonuniform) | IfcCartesianTransformationOperator3DnonUniform |
+| [IfcCenterLineProfileDef](./ifccenterlineprofiledef) | IfcCenterLineProfileDef |
+| [IfcChiller](./ifcchiller) | IfcChiller |
+| [IfcChillerType](./ifcchillertype) | IfcChillerType |
+| [IfcChimney](./ifcchimney) | IfcChimney |
+| [IfcChimneyType](./ifcchimneytype) | IfcChimneyType |
+| [IfcCircle](./ifccircle) | IfcCircle |
+| [IfcCircleHollowProfileDef](./ifccirclehollowprofiledef) | IfcCircleHollowProfileDef |
+| [IfcCircleProfileDef](./ifccircleprofiledef) | IfcCircleProfileDef |
+| [IfcCivilElement](./ifccivilelement) | IfcCivilElement |
+| [IfcCivilElementType](./ifccivilelementtype) | IfcCivilElementType |
+| [IfcClassification](./ifcclassification) | IfcClassification |
+| [IfcClassificationReference](./ifcclassificationreference) | IfcClassificationReference |
+| [IfcClosedShell](./ifcclosedshell) | IfcClosedShell |
+| [IfcCoil](./ifccoil) | IfcCoil |
+| [IfcCoilType](./ifccoiltype) | IfcCoilType |
+| [IfcColourRgb](./ifccolourrgb) | Partial IIfc entity class |
+| [IfcColourRgbList](./ifccolourrgblist) | IfcColourRgbList |
+| [IfcColourSpecification](./ifccolourspecification) | Partial IIfc entity class |
+| [IfcColumn](./ifccolumn) | IfcColumn |
+| [IfcColumnStandardCase](./ifccolumnstandardcase) | IfcColumnStandardCase |
+| [IfcColumnType](./ifccolumntype) | IfcColumnType |
+| [IfcCommunicationsAppliance](./ifccommunicationsappliance) | IfcCommunicationsAppliance |
+| [IfcCommunicationsApplianceType](./ifccommunicationsappliancetype) | IfcCommunicationsApplianceType |
+| [IfcComplexProperty](./ifccomplexproperty) | IfcComplexProperty |
+| [IfcComplexPropertyTemplate](./ifccomplexpropertytemplate) | IfcComplexPropertyTemplate |
+| [IfcCompositeCurve](./ifccompositecurve) | IfcCompositeCurve |
+| [IfcCompositeCurveOnSurface](./ifccompositecurveonsurface) | IfcCompositeCurveOnSurface |
+| [IfcCompositeCurveSegment](./ifccompositecurvesegment) | IfcCompositeCurveSegment |
+| [IfcCompositeProfileDef](./ifccompositeprofiledef) | IfcCompositeProfileDef |
+| [IfcCompressor](./ifccompressor) | IfcCompressor |
+| [IfcCompressorType](./ifccompressortype) | IfcCompressorType |
+| [IfcCondenser](./ifccondenser) | IfcCondenser |
+| [IfcCondenserType](./ifccondensertype) | IfcCondenserType |
+| [IfcConic](./ifcconic) | IfcConic |
+| [IfcConnectedFaceSet](./ifcconnectedfaceset) | IfcConnectedFaceSet |
+| [IfcConnectionCurveGeometry](./ifcconnectioncurvegeometry) | IfcConnectionCurveGeometry |
+| [IfcConnectionGeometry](./ifcconnectiongeometry) | IfcConnectionGeometry |
+| [IfcConnectionPointEccentricity](./ifcconnectionpointeccentricity) | IfcConnectionPointEccentricity |
+| [IfcConnectionPointGeometry](./ifcconnectionpointgeometry) | IfcConnectionPointGeometry |
+| [IfcConnectionSurfaceGeometry](./ifcconnectionsurfacegeometry) | IfcConnectionSurfaceGeometry |
+| [IfcConnectionVolumeGeometry](./ifcconnectionvolumegeometry) | IfcConnectionVolumeGeometry |
+| [IfcConstraint](./ifcconstraint) | IfcConstraint |
+| [IfcConstructionEquipmentResource](./ifcconstructionequipmentresource) | IfcConstructionEquipmentResource |
+| [IfcConstructionEquipmentResourceType](./ifcconstructionequipmentresourcetype) | IfcConstructionEquipmentResourceType |
+| [IfcConstructionMaterialResource](./ifcconstructionmaterialresource) | IfcConstructionMaterialResource |
+| [IfcConstructionMaterialResourceType](./ifcconstructionmaterialresourcetype) | IfcConstructionMaterialResourceType |
+| [IfcConstructionProductResource](./ifcconstructionproductresource) | IfcConstructionProductResource |
+| [IfcConstructionProductResourceType](./ifcconstructionproductresourcetype) | IfcConstructionProductResourceType |
+| [IfcConstructionResource](./ifcconstructionresource) | IfcConstructionResource |
+| [IfcConstructionResourceType](./ifcconstructionresourcetype) | IfcConstructionResourceType |
+| [IfcContext](./ifccontext) | IfcContext |
+| [IfcContextDependentUnit](./ifccontextdependentunit) | IfcContextDependentUnit |
+| [IfcControl](./ifccontrol) | IfcControl |
+| [IfcController](./ifccontroller) | IfcController |
+| [IfcControllerType](./ifccontrollertype) | IfcControllerType |
+| [IfcConversionBasedUnit](./ifcconversionbasedunit) | IfcConversionBasedUnit |
+| [IfcConversionBasedUnitWithOffset](./ifcconversionbasedunitwithoffset) | IfcConversionBasedUnitWithOffset |
+| [IfcCooledBeam](./ifccooledbeam) | IfcCooledBeam |
+| [IfcCooledBeamType](./ifccooledbeamtype) | IfcCooledBeamType |
+| [IfcCoolingTower](./ifccoolingtower) | IfcCoolingTower |
+| [IfcCoolingTowerType](./ifccoolingtowertype) | IfcCoolingTowerType |
+| [IfcCoordinateOperation](./ifccoordinateoperation) | IfcCoordinateOperation |
+| [IfcCoordinateReferenceSystem](./ifccoordinatereferencesystem) | IfcCoordinateReferenceSystem |
+| [IfcCostItem](./ifccostitem) | IfcCostItem |
+| [IfcCostSchedule](./ifccostschedule) | IfcCostSchedule |
+| [IfcCostValue](./ifccostvalue) | IfcCostValue |
+| [IfcCovering](./ifccovering) | IfcCovering |
+| [IfcCoveringType](./ifccoveringtype) | IfcCoveringType |
+| [IfcCrewResource](./ifccrewresource) | IfcCrewResource |
+| [IfcCrewResourceType](./ifccrewresourcetype) | IfcCrewResourceType |
+| [IfcCsgPrimitive3D](./ifccsgprimitive3d) | IfcCsgPrimitive3D |
+| [IfcCsgSolid](./ifccsgsolid) | IfcCsgSolid |
+| [IfcCShapeProfileDef](./ifccshapeprofiledef) | IfcCShapeProfileDef |
+| [IfcCurrencyRelationship](./ifccurrencyrelationship) | IfcCurrencyRelationship |
+| [IfcCurtainWall](./ifccurtainwall) | IfcCurtainWall |
+| [IfcCurtainWallType](./ifccurtainwalltype) | IfcCurtainWallType |
+| [IfcCurve](./ifccurve) | IfcCurve |
+| [IfcCurveBoundedPlane](./ifccurveboundedplane) | IfcCurveBoundedPlane |
+| [IfcCurveBoundedSurface](./ifccurveboundedsurface) | IfcCurveBoundedSurface |
+| [IfcCurveStyle](./ifccurvestyle) | IfcCurveStyle |
+| [IfcCurveStyleFont](./ifccurvestylefont) | IfcCurveStyleFont |
+| [IfcCurveStyleFontAndScaling](./ifccurvestylefontandscaling) | IfcCurveStyleFontAndScaling |
+| [IfcCurveStyleFontPattern](./ifccurvestylefontpattern) | IfcCurveStyleFontPattern |
+| [IfcCylindricalSurface](./ifccylindricalsurface) | IfcCylindricalSurface |
+| [IfcDamper](./ifcdamper) | IfcDamper |
+| [IfcDamperType](./ifcdampertype) | IfcDamperType |
+| [IfcDerivedProfileDef](./ifcderivedprofiledef) | IfcDerivedProfileDef |
+| [IfcDerivedUnit](./ifcderivedunit) | IfcDerivedUnit |
+| [IfcDerivedUnitElement](./ifcderivedunitelement) | IfcDerivedUnitElement |
+| [IfcDimensionalExponents](./ifcdimensionalexponents) | IfcDimensionalExponents |
+| [IfcDirection](./ifcdirection) | IfcDirection |
+| [IfcDiscreteAccessory](./ifcdiscreteaccessory) | IfcDiscreteAccessory |
+| [IfcDiscreteAccessoryType](./ifcdiscreteaccessorytype) | IfcDiscreteAccessoryType |
+| [IfcDistributionChamberElement](./ifcdistributionchamberelement) | IfcDistributionChamberElement |
+| [IfcDistributionChamberElementType](./ifcdistributionchamberelementtype) | IfcDistributionChamberElementType |
+| [IfcDistributionCircuit](./ifcdistributioncircuit) | IfcDistributionCircuit |
+| [IfcDistributionControlElement](./ifcdistributioncontrolelement) | IfcDistributionControlElement |
+| [IfcDistributionControlElementType](./ifcdistributioncontrolelementtype) | IfcDistributionControlElementType |
+| [IfcDistributionElement](./ifcdistributionelement) | IfcDistributionElement |
+| [IfcDistributionElementType](./ifcdistributionelementtype) | IfcDistributionElementType |
+| [IfcDistributionFlowElement](./ifcdistributionflowelement) | IfcDistributionFlowElement |
+| [IfcDistributionFlowElementType](./ifcdistributionflowelementtype) | IfcDistributionFlowElementType |
+| [IfcDistributionPort](./ifcdistributionport) | IfcDistributionPort |
+| [IfcDistributionSystem](./ifcdistributionsystem) | IfcDistributionSystem |
+| [IfcDocumentInformation](./ifcdocumentinformation) | IfcDocumentInformation |
+| [IfcDocumentInformationRelationship](./ifcdocumentinformationrelationship) | IfcDocumentInformationRelationship |
+| [IfcDocumentReference](./ifcdocumentreference) | IfcDocumentReference |
+| [IfcDoor](./ifcdoor) | IfcDoor |
+| [IfcDoorLiningProperties](./ifcdoorliningproperties) | IfcDoorLiningProperties |
+| [IfcDoorPanelProperties](./ifcdoorpanelproperties) | IfcDoorPanelProperties |
+| [IfcDoorStandardCase](./ifcdoorstandardcase) | IfcDoorStandardCase |
+| [IfcDoorStyle](./ifcdoorstyle) | IfcDoorStyle |
+| [IfcDoorType](./ifcdoortype) | IfcDoorType |
+| [IfcDraughtingPreDefinedColour](./ifcdraughtingpredefinedcolour) | IfcDraughtingPreDefinedColour |
+| [IfcDraughtingPreDefinedCurveFont](./ifcdraughtingpredefinedcurvefont) | IfcDraughtingPreDefinedCurveFont |
+| [IfcDuctFitting](./ifcductfitting) | IfcDuctFitting |
+| [IfcDuctFittingType](./ifcductfittingtype) | IfcDuctFittingType |
+| [IfcDuctSegment](./ifcductsegment) | IfcDuctSegment |
+| [IfcDuctSegmentType](./ifcductsegmenttype) | IfcDuctSegmentType |
+| [IfcDuctSilencer](./ifcductsilencer) | IfcDuctSilencer |
+| [IfcDuctSilencerType](./ifcductsilencertype) | IfcDuctSilencerType |
+| [IfcEdge](./ifcedge) | IfcEdge |
+| [IfcEdgeCurve](./ifcedgecurve) | IfcEdgeCurve |
+| [IfcEdgeLoop](./ifcedgeloop) | IfcEdgeLoop |
+| [IfcElectricAppliance](./ifcelectricappliance) | IfcElectricAppliance |
+| [IfcElectricApplianceType](./ifcelectricappliancetype) | IfcElectricApplianceType |
+| [IfcElectricDistributionBoard](./ifcelectricdistributionboard) | IfcElectricDistributionBoard |
+| [IfcElectricDistributionBoardType](./ifcelectricdistributionboardtype) | IfcElectricDistributionBoardType |
+| [IfcElectricFlowStorageDevice](./ifcelectricflowstoragedevice) | IfcElectricFlowStorageDevice |
+| [IfcElectricFlowStorageDeviceType](./ifcelectricflowstoragedevicetype) | IfcElectricFlowStorageDeviceType |
+| [IfcElectricGenerator](./ifcelectricgenerator) | IfcElectricGenerator |
+| [IfcElectricGeneratorType](./ifcelectricgeneratortype) | IfcElectricGeneratorType |
+| [IfcElectricMotor](./ifcelectricmotor) | IfcElectricMotor |
+| [IfcElectricMotorType](./ifcelectricmotortype) | IfcElectricMotorType |
+| [IfcElectricTimeControl](./ifcelectrictimecontrol) | IfcElectricTimeControl |
+| [IfcElectricTimeControlType](./ifcelectrictimecontroltype) | IfcElectricTimeControlType |
+| [IfcElement](./ifcelement) | IfcElement |
+| [IfcElementarySurface](./ifcelementarysurface) | IfcElementarySurface |
+| [IfcElementAssembly](./ifcelementassembly) | IfcElementAssembly |
+| [IfcElementAssemblyType](./ifcelementassemblytype) | IfcElementAssemblyType |
+| [IfcElementComponent](./ifcelementcomponent) | IfcElementComponent |
+| [IfcElementComponentType](./ifcelementcomponenttype) | IfcElementComponentType |
+| [IfcElementQuantity](./ifcelementquantity) | IfcElementQuantity |
+| [IfcElementType](./ifcelementtype) | IfcElementType |
+| [IfcEllipse](./ifcellipse) | IfcEllipse |
+| [IfcEllipseProfileDef](./ifcellipseprofiledef) | IfcEllipseProfileDef |
+| [IfcEnergyConversionDevice](./ifcenergyconversiondevice) | IfcEnergyConversionDevice |
+| [IfcEnergyConversionDeviceType](./ifcenergyconversiondevicetype) | IfcEnergyConversionDeviceType |
+| [IfcEngine](./ifcengine) | IfcEngine |
+| [IfcEngineType](./ifcenginetype) | IfcEngineType |
+| [IfcEvaporativeCooler](./ifcevaporativecooler) | IfcEvaporativeCooler |
+| [IfcEvaporativeCoolerType](./ifcevaporativecoolertype) | IfcEvaporativeCoolerType |
+| [IfcEvaporator](./ifcevaporator) | IfcEvaporator |
+| [IfcEvaporatorType](./ifcevaporatortype) | IfcEvaporatorType |
+| [IfcEvent](./ifcevent) | IfcEvent |
+| [IfcEventTime](./ifceventtime) | IfcEventTime |
+| [IfcEventType](./ifceventtype) | IfcEventType |
+| [IfcExtendedProperties](./ifcextendedproperties) | IfcExtendedProperties |
+| [IfcExternalInformation](./ifcexternalinformation) | IfcExternalInformation |
+| [IfcExternallyDefinedHatchStyle](./ifcexternallydefinedhatchstyle) | IfcExternallyDefinedHatchStyle |
+| [IfcExternallyDefinedSurfaceStyle](./ifcexternallydefinedsurfacestyle) | IfcExternallyDefinedSurfaceStyle |
+| [IfcExternallyDefinedTextFont](./ifcexternallydefinedtextfont) | IfcExternallyDefinedTextFont |
+| [IfcExternalReference](./ifcexternalreference) | IfcExternalReference |
+| [IfcExternalReferenceRelationship](./ifcexternalreferencerelationship) | IfcExternalReferenceRelationship |
+| [IfcExternalSpatialElement](./ifcexternalspatialelement) | IfcExternalSpatialElement |
+| [IfcExternalSpatialStructureElement](./ifcexternalspatialstructureelement) | IfcExternalSpatialStructureElement |
+| [IfcExtrudedAreaSolid](./ifcextrudedareasolid) | IfcExtrudedAreaSolid |
+| [IfcExtrudedAreaSolidTapered](./ifcextrudedareasolidtapered) | IfcExtrudedAreaSolidTapered |
+| [IfcFace](./ifcface) | IfcFace |
+| [IfcFaceBasedSurfaceModel](./ifcfacebasedsurfacemodel) | IfcFaceBasedSurfaceModel |
+| [IfcFaceBound](./ifcfacebound) | IfcFaceBound |
+| [IfcFaceOuterBound](./ifcfaceouterbound) | IfcFaceOuterBound |
+| [IfcFaceSurface](./ifcfacesurface) | IfcFaceSurface |
+| [IfcFacetedBrep](./ifcfacetedbrep) | IfcFacetedBrep |
+| [IfcFacetedBrepWithVoids](./ifcfacetedbrepwithvoids) | IfcFacetedBrepWithVoids |
+| [IfcFailureConnectionCondition](./ifcfailureconnectioncondition) | IfcFailureConnectionCondition |
+| [IfcFan](./ifcfan) | IfcFan |
+| [IfcFanType](./ifcfantype) | IfcFanType |
+| [IfcFastener](./ifcfastener) | IfcFastener |
+| [IfcFastenerType](./ifcfastenertype) | IfcFastenerType |
+| [IfcFeatureElement](./ifcfeatureelement) | IfcFeatureElement |
+| [IfcFeatureElementAddition](./ifcfeatureelementaddition) | IfcFeatureElementAddition |
+| [IfcFeatureElementSubtraction](./ifcfeatureelementsubtraction) | IfcFeatureElementSubtraction |
+| [IfcFillAreaStyle](./ifcfillareastyle) | IfcFillAreaStyle |
+| [IfcFillAreaStyleHatching](./ifcfillareastylehatching) | IfcFillAreaStyleHatching |
+| [IfcFillAreaStyleTiles](./ifcfillareastyletiles) | IfcFillAreaStyleTiles |
+| [IfcFilter](./ifcfilter) | IfcFilter |
+| [IfcFilterType](./ifcfiltertype) | IfcFilterType |
+| [IfcFireSuppressionTerminal](./ifcfiresuppressionterminal) | IfcFireSuppressionTerminal |
+| [IfcFireSuppressionTerminalType](./ifcfiresuppressionterminaltype) | IfcFireSuppressionTerminalType |
+| [IfcFixedReferenceSweptAreaSolid](./ifcfixedreferencesweptareasolid) | IfcFixedReferenceSweptAreaSolid |
+| [IfcFlowController](./ifcflowcontroller) | IfcFlowController |
+| [IfcFlowControllerType](./ifcflowcontrollertype) | IfcFlowControllerType |
+| [IfcFlowFitting](./ifcflowfitting) | IfcFlowFitting |
+| [IfcFlowFittingType](./ifcflowfittingtype) | IfcFlowFittingType |
+| [IfcFlowInstrument](./ifcflowinstrument) | IfcFlowInstrument |
+| [IfcFlowInstrumentType](./ifcflowinstrumenttype) | IfcFlowInstrumentType |
+| [IfcFlowMeter](./ifcflowmeter) | IfcFlowMeter |
+| [IfcFlowMeterType](./ifcflowmetertype) | IfcFlowMeterType |
+| [IfcFlowMovingDevice](./ifcflowmovingdevice) | IfcFlowMovingDevice |
+| [IfcFlowMovingDeviceType](./ifcflowmovingdevicetype) | IfcFlowMovingDeviceType |
+| [IfcFlowSegment](./ifcflowsegment) | IfcFlowSegment |
+| [IfcFlowSegmentType](./ifcflowsegmenttype) | IfcFlowSegmentType |
+| [IfcFlowStorageDevice](./ifcflowstoragedevice) | IfcFlowStorageDevice |
+| [IfcFlowStorageDeviceType](./ifcflowstoragedevicetype) | IfcFlowStorageDeviceType |
+| [IfcFlowTerminal](./ifcflowterminal) | IfcFlowTerminal |
+| [IfcFlowTerminalType](./ifcflowterminaltype) | IfcFlowTerminalType |
+| [IfcFlowTreatmentDevice](./ifcflowtreatmentdevice) | IfcFlowTreatmentDevice |
+| [IfcFlowTreatmentDeviceType](./ifcflowtreatmentdevicetype) | IfcFlowTreatmentDeviceType |
+| [IfcFooting](./ifcfooting) | IfcFooting |
+| [IfcFootingType](./ifcfootingtype) | IfcFootingType |
+| [IfcFurnishingElement](./ifcfurnishingelement) | IfcFurnishingElement |
+| [IfcFurnishingElementType](./ifcfurnishingelementtype) | IfcFurnishingElementType |
+| [IfcFurniture](./ifcfurniture) | IfcFurniture |
+| [IfcFurnitureType](./ifcfurnituretype) | IfcFurnitureType |
+| [IfcGeographicElement](./ifcgeographicelement) | IfcGeographicElement |
+| [IfcGeographicElementType](./ifcgeographicelementtype) | IfcGeographicElementType |
+| [IfcGeometricCurveSet](./ifcgeometriccurveset) | IfcGeometricCurveSet |
+| [IfcGeometricRepresentationContext](./ifcgeometricrepresentationcontext) | IfcGeometricRepresentationContext |
+| [IfcGeometricRepresentationItem](./ifcgeometricrepresentationitem) | IfcGeometricRepresentationItem |
+| [IfcGeometricRepresentationSubContext](./ifcgeometricrepresentationsubcontext) | IfcGeometricRepresentationSubContext |
+| [IfcGeometricSet](./ifcgeometricset) | IfcGeometricSet |
+| [IfcGrid](./ifcgrid) | IfcGrid |
+| [IfcGridAxis](./ifcgridaxis) | IfcGridAxis |
+| [IfcGridPlacement](./ifcgridplacement) | IfcGridPlacement |
+| [IfcGroup](./ifcgroup) | IfcGroup |
+| [IfcHalfSpaceSolid](./ifchalfspacesolid) | IfcHalfSpaceSolid |
+| [IfcHeatExchanger](./ifcheatexchanger) | IfcHeatExchanger |
+| [IfcHeatExchangerType](./ifcheatexchangertype) | IfcHeatExchangerType |
+| [IfcHumidifier](./ifchumidifier) | IfcHumidifier |
+| [IfcHumidifierType](./ifchumidifiertype) | IfcHumidifierType |
+| [IfcImageTexture](./ifcimagetexture) | IfcImageTexture |
+| [IfcIndexedColourMap](./ifcindexedcolourmap) | IfcIndexedColourMap |
+| [IfcIndexedPolyCurve](./ifcindexedpolycurve) | IfcIndexedPolyCurve |
+| [IfcIndexedPolygonalFace](./ifcindexedpolygonalface) | IfcIndexedPolygonalFace |
+| [IfcIndexedPolygonalFaceWithVoids](./ifcindexedpolygonalfacewithvoids) | IfcIndexedPolygonalFaceWithVoids |
+| [IfcIndexedTextureMap](./ifcindexedtexturemap) | IfcIndexedTextureMap |
+| [IfcIndexedTriangleTextureMap](./ifcindexedtriangletexturemap) | IfcIndexedTriangleTextureMap |
+| [IfcInterceptor](./ifcinterceptor) | IfcInterceptor |
+| [IfcInterceptorType](./ifcinterceptortype) | IfcInterceptorType |
+| [IfcIntersectionCurve](./ifcintersectioncurve) | IfcIntersectionCurve |
+| [IfcInventory](./ifcinventory) | IfcInventory |
+| [IfcIrregularTimeSeries](./ifcirregulartimeseries) | IfcIrregularTimeSeries |
+| [IfcIrregularTimeSeriesValue](./ifcirregulartimeseriesvalue) | IfcIrregularTimeSeriesValue |
+| [IfcIShapeProfileDef](./ifcishapeprofiledef) | IfcIShapeProfileDef |
+| [IfcJunctionBox](./ifcjunctionbox) | IfcJunctionBox |
+| [IfcJunctionBoxType](./ifcjunctionboxtype) | IfcJunctionBoxType |
+| [IfcLaborResource](./ifclaborresource) | IfcLaborResource |
+| [IfcLaborResourceType](./ifclaborresourcetype) | IfcLaborResourceType |
+| [IfcLagTime](./ifclagtime) | IfcLagTime |
+| [IfcLamp](./ifclamp) | IfcLamp |
+| [IfcLampType](./ifclamptype) | IfcLampType |
+| [IfcLibraryInformation](./ifclibraryinformation) | IfcLibraryInformation |
+| [IfcLibraryReference](./ifclibraryreference) | IfcLibraryReference |
+| [IfcLightDistributionData](./ifclightdistributiondata) | IfcLightDistributionData |
+| [IfcLightFixture](./ifclightfixture) | IfcLightFixture |
+| [IfcLightFixtureType](./ifclightfixturetype) | IfcLightFixtureType |
+| [IfcLightIntensityDistribution](./ifclightintensitydistribution) | IfcLightIntensityDistribution |
+| [IfcLightSource](./ifclightsource) | IfcLightSource |
+| [IfcLightSourceAmbient](./ifclightsourceambient) | IfcLightSourceAmbient |
+| [IfcLightSourceDirectional](./ifclightsourcedirectional) | IfcLightSourceDirectional |
+| [IfcLightSourceGoniometric](./ifclightsourcegoniometric) | IfcLightSourceGoniometric |
+| [IfcLightSourcePositional](./ifclightsourcepositional) | IfcLightSourcePositional |
+| [IfcLightSourceSpot](./ifclightsourcespot) | IfcLightSourceSpot |
+| [IfcLine](./ifcline) | IfcLine |
+| [IfcLocalPlacement](./ifclocalplacement) | IfcLocalPlacement |
+| [IfcLoop](./ifcloop) | IfcLoop |
+| [IfcLShapeProfileDef](./ifclshapeprofiledef) | IfcLShapeProfileDef |
+| [IfcManifoldSolidBrep](./ifcmanifoldsolidbrep) | IfcManifoldSolidBrep |
+| [IfcMapConversion](./ifcmapconversion) | IfcMapConversion |
+| [IfcMappedItem](./ifcmappeditem) | IfcMappedItem |
+| [IfcMaterial](./ifcmaterial) | IfcMaterial |
+| [IfcMaterialClassificationRelationship](./ifcmaterialclassificationrelationship) | IfcMaterialClassificationRelationship |
+| [IfcMaterialConstituent](./ifcmaterialconstituent) | IfcMaterialConstituent |
+| [IfcMaterialConstituentSet](./ifcmaterialconstituentset) | IfcMaterialConstituentSet |
+| [IfcMaterialDefinition](./ifcmaterialdefinition) | IfcMaterialDefinition |
+| [IfcMaterialDefinitionRepresentation](./ifcmaterialdefinitionrepresentation) | IfcMaterialDefinitionRepresentation |
+| [IfcMaterialLayer](./ifcmateriallayer) | IfcMaterialLayer |
+| [IfcMaterialLayerSet](./ifcmateriallayerset) | IfcMaterialLayerSet |
+| [IfcMaterialLayerSetUsage](./ifcmateriallayersetusage) | IfcMaterialLayerSetUsage |
+| [IfcMaterialLayerWithOffsets](./ifcmateriallayerwithoffsets) | IfcMaterialLayerWithOffsets |
+| [IfcMaterialList](./ifcmateriallist) | IfcMaterialList |
+| [IfcMaterialProfile](./ifcmaterialprofile) | IfcMaterialProfile |
+| [IfcMaterialProfileSet](./ifcmaterialprofileset) | IfcMaterialProfileSet |
+| [IfcMaterialProfileSetUsage](./ifcmaterialprofilesetusage) | IfcMaterialProfileSetUsage |
+| [IfcMaterialProfileSetUsageTapering](./ifcmaterialprofilesetusagetapering) | IfcMaterialProfileSetUsageTapering |
+| [IfcMaterialProfileWithOffsets](./ifcmaterialprofilewithoffsets) | IfcMaterialProfileWithOffsets |
+| [IfcMaterialProperties](./ifcmaterialproperties) | IfcMaterialProperties |
+| [IfcMaterialRelationship](./ifcmaterialrelationship) | IfcMaterialRelationship |
+| [IfcMaterialUsageDefinition](./ifcmaterialusagedefinition) | IfcMaterialUsageDefinition |
+| [IfcMeasureWithUnit](./ifcmeasurewithunit) | IfcMeasureWithUnit |
+| [IfcMechanicalFastener](./ifcmechanicalfastener) | IfcMechanicalFastener |
+| [IfcMechanicalFastenerType](./ifcmechanicalfastenertype) | IfcMechanicalFastenerType |
+| [IfcMedicalDevice](./ifcmedicaldevice) | IfcMedicalDevice |
+| [IfcMedicalDeviceType](./ifcmedicaldevicetype) | IfcMedicalDeviceType |
+| [IfcMember](./ifcmember) | IfcMember |
+| [IfcMemberStandardCase](./ifcmemberstandardcase) | IfcMemberStandardCase |
+| [IfcMemberType](./ifcmembertype) | IfcMemberType |
+| [IfcMetric](./ifcmetric) | IfcMetric |
+| [IfcMirroredProfileDef](./ifcmirroredprofiledef) | IfcMirroredProfileDef |
+| [IfcMonetaryUnit](./ifcmonetaryunit) | IfcMonetaryUnit |
+| [IfcMotorConnection](./ifcmotorconnection) | IfcMotorConnection |
+| [IfcMotorConnectionType](./ifcmotorconnectiontype) | IfcMotorConnectionType |
+| [IfcNamedUnit](./ifcnamedunit) | IfcNamedUnit |
+| [IfcObject](./ifcobject) | IfcObject |
+| [IfcObjectDefinition](./ifcobjectdefinition) | IfcObjectDefinition |
+| [IfcObjective](./ifcobjective) | IfcObjective |
+| [IfcObjectPlacement](./ifcobjectplacement) | IfcObjectPlacement |
+| [IfcOccupant](./ifcoccupant) | IfcOccupant |
+| [IfcOffsetCurve2D](./ifcoffsetcurve2d) | IfcOffsetCurve2D |
+| [IfcOffsetCurve3D](./ifcoffsetcurve3d) | IfcOffsetCurve3D |
+| [IfcOpeningElement](./ifcopeningelement) | IfcOpeningElement |
+| [IfcOpeningStandardCase](./ifcopeningstandardcase) | IfcOpeningStandardCase |
+| [IfcOpenShell](./ifcopenshell) | IfcOpenShell |
+| [IfcOrganization](./ifcorganization) | IfcOrganization |
+| [IfcOrganizationRelationship](./ifcorganizationrelationship) | IfcOrganizationRelationship |
+| [IfcOrientedEdge](./ifcorientededge) | IfcOrientedEdge |
+| [IfcOuterBoundaryCurve](./ifcouterboundarycurve) | IfcOuterBoundaryCurve |
+| [IfcOutlet](./ifcoutlet) | IfcOutlet |
+| [IfcOutletType](./ifcoutlettype) | IfcOutletType |
+| [IfcOwnerHistory](./ifcownerhistory) | IfcOwnerHistory |
+| [IfcParameterizedProfileDef](./ifcparameterizedprofiledef) | IfcParameterizedProfileDef |
+| [IfcPath](./ifcpath) | IfcPath |
+| [IfcPcurve](./ifcpcurve) | IfcPcurve |
+| [IfcPerformanceHistory](./ifcperformancehistory) | IfcPerformanceHistory |
+| [IfcPermeableCoveringProperties](./ifcpermeablecoveringproperties) | IfcPermeableCoveringProperties |
+| [IfcPermit](./ifcpermit) | IfcPermit |
+| [IfcPerson](./ifcperson) | IfcPerson |
+| [IfcPersonAndOrganization](./ifcpersonandorganization) | IfcPersonAndOrganization |
+| [IfcPhysicalComplexQuantity](./ifcphysicalcomplexquantity) | IfcPhysicalComplexQuantity |
+| [IfcPhysicalQuantity](./ifcphysicalquantity) | IfcPhysicalQuantity |
+| [IfcPhysicalSimpleQuantity](./ifcphysicalsimplequantity) | IfcPhysicalSimpleQuantity |
+| [IfcPile](./ifcpile) | IfcPile |
+| [IfcPileType](./ifcpiletype) | IfcPileType |
+| [IfcPipeFitting](./ifcpipefitting) | IfcPipeFitting |
+| [IfcPipeFittingType](./ifcpipefittingtype) | IfcPipeFittingType |
+| [IfcPipeSegment](./ifcpipesegment) | IfcPipeSegment |
+| [IfcPipeSegmentType](./ifcpipesegmenttype) | IfcPipeSegmentType |
+| [IfcPixelTexture](./ifcpixeltexture) | IfcPixelTexture |
+| [IfcPlacement](./ifcplacement) | IfcPlacement |
+| [IfcPlanarBox](./ifcplanarbox) | IfcPlanarBox |
+| [IfcPlanarExtent](./ifcplanarextent) | Partial IIfc entity class |
+| [IfcPlane](./ifcplane) | IfcPlane |
+| [IfcPlate](./ifcplate) | IfcPlate |
+| [IfcPlateStandardCase](./ifcplatestandardcase) | IfcPlateStandardCase |
+| [IfcPlateType](./ifcplatetype) | IfcPlateType |
+| [IfcPoint](./ifcpoint) | IfcPoint |
+| [IfcPointOnCurve](./ifcpointoncurve) | IfcPointOnCurve |
+| [IfcPointOnSurface](./ifcpointonsurface) | IfcPointOnSurface |
+| [IfcPolygonalBoundedHalfSpace](./ifcpolygonalboundedhalfspace) | IfcPolygonalBoundedHalfSpace |
+| [IfcPolygonalFaceSet](./ifcpolygonalfaceset) | Partial IIfc entity class |
+| [IfcPolyline](./ifcpolyline) | IfcPolyline |
+| [IfcPolyLoop](./ifcpolyloop) | IfcPolyLoop |
+| [IfcPort](./ifcport) | IfcPort |
+| [IfcPostalAddress](./ifcpostaladdress) | IfcPostalAddress |
+| [IfcPreDefinedColour](./ifcpredefinedcolour) | IfcPreDefinedColour |
+| [IfcPreDefinedCurveFont](./ifcpredefinedcurvefont) | IfcPreDefinedCurveFont |
+| [IfcPreDefinedItem](./ifcpredefineditem) | Partial IIfc entity class |
+| [IfcPreDefinedProperties](./ifcpredefinedproperties) | IfcPreDefinedProperties |
+| [IfcPreDefinedPropertySet](./ifcpredefinedpropertyset) | IfcPreDefinedPropertySet |
+| [IfcPreDefinedTextFont](./ifcpredefinedtextfont) | Partial IIfc entity class |
+| [IfcPresentationItem](./ifcpresentationitem) | Partial IIfc entity class |
+| [IfcPresentationLayerAssignment](./ifcpresentationlayerassignment) | IfcPresentationLayerAssignment |
+| [IfcPresentationLayerWithStyle](./ifcpresentationlayerwithstyle) | IfcPresentationLayerWithStyle |
+| [IfcPresentationStyle](./ifcpresentationstyle) | Partial IIfc entity class |
+| [IfcPresentationStyleAssignment](./ifcpresentationstyleassignment) | Partial IIfc entity class |
+| [IfcProcedure](./ifcprocedure) | IfcProcedure |
+| [IfcProcedureType](./ifcproceduretype) | IfcProcedureType |
+| [IfcProcess](./ifcprocess) | IfcProcess |
+| [IfcProduct](./ifcproduct) | IfcProduct |
+| [IfcProductDefinitionShape](./ifcproductdefinitionshape) | IfcProductDefinitionShape |
+| [IfcProductRepresentation](./ifcproductrepresentation) | IfcProductRepresentation |
+| [IfcProfileDef](./ifcprofiledef) | IfcProfileDef |
+| [IfcProfileProperties](./ifcprofileproperties) | IfcProfileProperties |
+| [IfcProject](./ifcproject) | IfcProject |
+| [IfcProjectedCRS](./ifcprojectedcrs) | IfcProjectedCRS |
+| [IfcProjectionElement](./ifcprojectionelement) | IfcProjectionElement |
+| [IfcProjectLibrary](./ifcprojectlibrary) | IfcProjectLibrary |
+| [IfcProjectOrder](./ifcprojectorder) | IfcProjectOrder |
+| [IfcProperty](./ifcproperty) | IfcProperty |
+| [IfcPropertyAbstraction](./ifcpropertyabstraction) | IfcPropertyAbstraction |
+| [IfcPropertyBoundedValue](./ifcpropertyboundedvalue) | IfcPropertyBoundedValue |
+| [IfcPropertyDefinition](./ifcpropertydefinition) | IfcPropertyDefinition |
+| [IfcPropertyDependencyRelationship](./ifcpropertydependencyrelationship) | IfcPropertyDependencyRelationship |
+| [IfcPropertyEnumeratedValue](./ifcpropertyenumeratedvalue) | IfcPropertyEnumeratedValue |
+| [IfcPropertyEnumeration](./ifcpropertyenumeration) | IfcPropertyEnumeration |
+| [IfcPropertyListValue](./ifcpropertylistvalue) | IfcPropertyListValue |
+| [IfcPropertyReferenceValue](./ifcpropertyreferencevalue) | IfcPropertyReferenceValue |
+| [IfcPropertySet](./ifcpropertyset) | IfcPropertySet |
+| [IfcPropertySetDefinition](./ifcpropertysetdefinition) | IfcPropertySetDefinition |
+| [IfcPropertySetTemplate](./ifcpropertysettemplate) | IfcPropertySetTemplate |
+| [IfcPropertySingleValue](./ifcpropertysinglevalue) | IfcPropertySingleValue |
+| [IfcPropertyTableValue](./ifcpropertytablevalue) | IfcPropertyTableValue |
+| [IfcPropertyTemplate](./ifcpropertytemplate) | IfcPropertyTemplate |
+| [IfcPropertyTemplateDefinition](./ifcpropertytemplatedefinition) | IfcPropertyTemplateDefinition |
+| [IfcProtectiveDevice](./ifcprotectivedevice) | IfcProtectiveDevice |
+| [IfcProtectiveDeviceTrippingUnit](./ifcprotectivedevicetrippingunit) | IfcProtectiveDeviceTrippingUnit |
+| [IfcProtectiveDeviceTrippingUnitType](./ifcprotectivedevicetrippingunittype) | IfcProtectiveDeviceTrippingUnitType |
+| [IfcProtectiveDeviceType](./ifcprotectivedevicetype) | IfcProtectiveDeviceType |
+| [IfcProxy](./ifcproxy) | IfcProxy |
+| [IfcPump](./ifcpump) | IfcPump |
+| [IfcPumpType](./ifcpumptype) | IfcPumpType |
+| [IfcQuantityArea](./ifcquantityarea) | IfcQuantityArea |
+| [IfcQuantityCount](./ifcquantitycount) | IfcQuantityCount |
+| [IfcQuantityLength](./ifcquantitylength) | IfcQuantityLength |
+| [IfcQuantitySet](./ifcquantityset) | IfcQuantitySet |
+| [IfcQuantityTime](./ifcquantitytime) | IfcQuantityTime |
+| [IfcQuantityVolume](./ifcquantityvolume) | IfcQuantityVolume |
+| [IfcQuantityWeight](./ifcquantityweight) | IfcQuantityWeight |
+| [IfcRailing](./ifcrailing) | IfcRailing |
+| [IfcRailingType](./ifcrailingtype) | IfcRailingType |
+| [IfcRamp](./ifcramp) | IfcRamp |
+| [IfcRampFlight](./ifcrampflight) | IfcRampFlight |
+| [IfcRampFlightType](./ifcrampflighttype) | IfcRampFlightType |
+| [IfcRampType](./ifcramptype) | IfcRampType |
+| [IfcRationalBSplineCurveWithKnots](./ifcrationalbsplinecurvewithknots) | IfcRationalBSplineCurveWithKnots |
+| [IfcRationalBSplineSurfaceWithKnots](./ifcrationalbsplinesurfacewithknots) | IfcRationalBSplineSurfaceWithKnots |
+| [IfcRectangleHollowProfileDef](./ifcrectanglehollowprofiledef) | IfcRectangleHollowProfileDef |
+| [IfcRectangleProfileDef](./ifcrectangleprofiledef) | IfcRectangleProfileDef |
+| [IfcRectangularPyramid](./ifcrectangularpyramid) | IfcRectangularPyramid |
+| [IfcRectangularTrimmedSurface](./ifcrectangulartrimmedsurface) | IfcRectangularTrimmedSurface |
+| [IfcRecurrencePattern](./ifcrecurrencepattern) | IfcRecurrencePattern |
+| [IfcReference](./ifcreference) | IfcReference |
+| [IfcRegularTimeSeries](./ifcregulartimeseries) | IfcRegularTimeSeries |
+| [IfcReinforcementBarProperties](./ifcreinforcementbarproperties) | IfcReinforcementBarProperties |
+| [IfcReinforcementDefinitionProperties](./ifcreinforcementdefinitionproperties) | IfcReinforcementDefinitionProperties |
+| [IfcReinforcingBar](./ifcreinforcingbar) | IfcReinforcingBar |
+| [IfcReinforcingBarType](./ifcreinforcingbartype) | IfcReinforcingBarType |
+| [IfcReinforcingElement](./ifcreinforcingelement) | IfcReinforcingElement |
+| [IfcReinforcingElementType](./ifcreinforcingelementtype) | IfcReinforcingElementType |
+| [IfcReinforcingMesh](./ifcreinforcingmesh) | IfcReinforcingMesh |
+| [IfcReinforcingMeshType](./ifcreinforcingmeshtype) | IfcReinforcingMeshType |
+| [IfcRelAggregates](./ifcrelaggregates) | IfcRelAggregates |
+| [IfcRelAssigns](./ifcrelassigns) | IfcRelAssigns |
+| [IfcRelAssignsToActor](./ifcrelassignstoactor) | IfcRelAssignsToActor |
+| [IfcRelAssignsToControl](./ifcrelassignstocontrol) | IfcRelAssignsToControl |
+| [IfcRelAssignsToGroup](./ifcrelassignstogroup) | IfcRelAssignsToGroup |
+| [IfcRelAssignsToGroupByFactor](./ifcrelassignstogroupbyfactor) | IfcRelAssignsToGroupByFactor |
+| [IfcRelAssignsToProcess](./ifcrelassignstoprocess) | IfcRelAssignsToProcess |
+| [IfcRelAssignsToProduct](./ifcrelassignstoproduct) | IfcRelAssignsToProduct |
+| [IfcRelAssignsToResource](./ifcrelassignstoresource) | IfcRelAssignsToResource |
+| [IfcRelAssociates](./ifcrelassociates) | IfcRelAssociates |
+| [IfcRelAssociatesApproval](./ifcrelassociatesapproval) | IfcRelAssociatesApproval |
+| [IfcRelAssociatesClassification](./ifcrelassociatesclassification) | IfcRelAssociatesClassification |
+| [IfcRelAssociatesConstraint](./ifcrelassociatesconstraint) | IfcRelAssociatesConstraint |
+| [IfcRelAssociatesDocument](./ifcrelassociatesdocument) | IfcRelAssociatesDocument |
+| [IfcRelAssociatesLibrary](./ifcrelassociateslibrary) | IfcRelAssociatesLibrary |
+| [IfcRelAssociatesMaterial](./ifcrelassociatesmaterial) | IfcRelAssociatesMaterial |
+| [IfcRelationship](./ifcrelationship) | IfcRelationship |
+| [IfcRelConnects](./ifcrelconnects) | IfcRelConnects |
+| [IfcRelConnectsElements](./ifcrelconnectselements) | IfcRelConnectsElements |
+| [IfcRelConnectsPathElements](./ifcrelconnectspathelements) | IfcRelConnectsPathElements |
+| [IfcRelConnectsPorts](./ifcrelconnectsports) | IfcRelConnectsPorts |
+| [IfcRelConnectsPortToElement](./ifcrelconnectsporttoelement) | IfcRelConnectsPortToElement |
+| [IfcRelConnectsStructuralActivity](./ifcrelconnectsstructuralactivity) | IfcRelConnectsStructuralActivity |
+| [IfcRelConnectsStructuralMember](./ifcrelconnectsstructuralmember) | IfcRelConnectsStructuralMember |
+| [IfcRelConnectsWithEccentricity](./ifcrelconnectswitheccentricity) | IfcRelConnectsWithEccentricity |
+| [IfcRelConnectsWithRealizingElements](./ifcrelconnectswithrealizingelements) | IfcRelConnectsWithRealizingElements |
+| [IfcRelContainedInSpatialStructure](./ifcrelcontainedinspatialstructure) | IfcRelContainedInSpatialStructure |
+| [IfcRelCoversBldgElements](./ifcrelcoversbldgelements) | IfcRelCoversBldgElements |
+| [IfcRelCoversSpaces](./ifcrelcoversspaces) | IfcRelCoversSpaces |
+| [IfcRelDeclares](./ifcreldeclares) | IfcRelDeclares |
+| [IfcRelDecomposes](./ifcreldecomposes) | IfcRelDecomposes |
+| [IfcRelDefines](./ifcreldefines) | IfcRelDefines |
+| [IfcRelDefinesByObject](./ifcreldefinesbyobject) | IfcRelDefinesByObject |
+| [IfcRelDefinesByProperties](./ifcreldefinesbyproperties) | IfcRelDefinesByProperties |
+| [IfcRelDefinesByTemplate](./ifcreldefinesbytemplate) | IfcRelDefinesByTemplate |
+| [IfcRelDefinesByType](./ifcreldefinesbytype) | IfcRelDefinesByType |
+| [IfcRelFillsElement](./ifcrelfillselement) | IfcRelFillsElement |
+| [IfcRelFlowControlElements](./ifcrelflowcontrolelements) | IfcRelFlowControlElements |
+| [IfcRelInterferesElements](./ifcrelinterfereselements) | IfcRelInterferesElements |
+| [IfcRelNests](./ifcrelnests) | IfcRelNests |
+| [IfcRelProjectsElement](./ifcrelprojectselement) | IfcRelProjectsElement |
+| [IfcRelReferencedInSpatialStructure](./ifcrelreferencedinspatialstructure) | IfcRelReferencedInSpatialStructure |
+| [IfcRelSequence](./ifcrelsequence) | IfcRelSequence |
+| [IfcRelServicesBuildings](./ifcrelservicesbuildings) | IfcRelServicesBuildings |
+| [IfcRelSpaceBoundary](./ifcrelspaceboundary) | IfcRelSpaceBoundary |
+| [IfcRelSpaceBoundary1stLevel](./ifcrelspaceboundary1stlevel) | IfcRelSpaceBoundary1stLevel |
+| [IfcRelSpaceBoundary2ndLevel](./ifcrelspaceboundary2ndlevel) | IfcRelSpaceBoundary2ndLevel |
+| [IfcRelVoidsElement](./ifcrelvoidselement) | IfcRelVoidsElement |
+| [IfcReparametrisedCompositeCurveSegment](./ifcreparametrisedcompositecurvesegment) | IfcReparametrisedCompositeCurveSegment |
+| [IfcRepresentation](./ifcrepresentation) | IfcRepresentation |
+| [IfcRepresentationContext](./ifcrepresentationcontext) | IfcRepresentationContext |
+| [IfcRepresentationItem](./ifcrepresentationitem) | IfcRepresentationItem |
+| [IfcRepresentationMap](./ifcrepresentationmap) | IfcRepresentationMap |
+| [IfcResource](./ifcresource) | IfcResource |
+| [IfcResourceApprovalRelationship](./ifcresourceapprovalrelationship) | IfcResourceApprovalRelationship |
+| [IfcResourceConstraintRelationship](./ifcresourceconstraintrelationship) | IfcResourceConstraintRelationship |
+| [IfcResourceLevelRelationship](./ifcresourcelevelrelationship) | IfcResourceLevelRelationship |
+| [IfcResourceTime](./ifcresourcetime) | IfcResourceTime |
+| [IfcRevolvedAreaSolid](./ifcrevolvedareasolid) | IfcRevolvedAreaSolid |
+| [IfcRevolvedAreaSolidTapered](./ifcrevolvedareasolidtapered) | IfcRevolvedAreaSolidTapered |
+| [IfcRightCircularCone](./ifcrightcircularcone) | IfcRightCircularCone |
+| [IfcRightCircularCylinder](./ifcrightcircularcylinder) | IfcRightCircularCylinder |
+| [IfcRoof](./ifcroof) | IfcRoof |
+| [IfcRoofType](./ifcrooftype) | IfcRoofType |
+| [IfcRoot](./ifcroot) | IfcRoot |
+| [IfcRoundedRectangleProfileDef](./ifcroundedrectangleprofiledef) | IfcRoundedRectangleProfileDef |
+| [IfcSanitaryTerminal](./ifcsanitaryterminal) | IfcSanitaryTerminal |
+| [IfcSanitaryTerminalType](./ifcsanitaryterminaltype) | IfcSanitaryTerminalType |
+| [IfcSchedulingTime](./ifcschedulingtime) | IfcSchedulingTime |
+| [IfcSeamCurve](./ifcseamcurve) | IfcSeamCurve |
+| [IfcSectionedSpine](./ifcsectionedspine) | IfcSectionedSpine |
+| [IfcSectionProperties](./ifcsectionproperties) | IfcSectionProperties |
+| [IfcSectionReinforcementProperties](./ifcsectionreinforcementproperties) | IfcSectionReinforcementProperties |
+| [IfcSensor](./ifcsensor) | IfcSensor |
+| [IfcSensorType](./ifcsensortype) | IfcSensorType |
+| [IfcShadingDevice](./ifcshadingdevice) | IfcShadingDevice |
+| [IfcShadingDeviceType](./ifcshadingdevicetype) | IfcShadingDeviceType |
+| [IfcShapeAspect](./ifcshapeaspect) | IfcShapeAspect |
+| [IfcShapeModel](./ifcshapemodel) | IfcShapeModel |
+| [IfcShapeRepresentation](./ifcshaperepresentation) | IfcShapeRepresentation |
+| [IfcShellBasedSurfaceModel](./ifcshellbasedsurfacemodel) | IfcShellBasedSurfaceModel |
+| [IfcSimpleProperty](./ifcsimpleproperty) | IfcSimpleProperty |
+| [IfcSimplePropertyTemplate](./ifcsimplepropertytemplate) | IfcSimplePropertyTemplate |
+| [IfcSite](./ifcsite) | IfcSite |
+| [IfcSIUnit](./ifcsiunit) | IfcSIUnit |
+| [IfcSlab](./ifcslab) | IfcSlab |
+| [IfcSlabElementedCase](./ifcslabelementedcase) | IfcSlabElementedCase |
+| [IfcSlabStandardCase](./ifcslabstandardcase) | IfcSlabStandardCase |
+| [IfcSlabType](./ifcslabtype) | IfcSlabType |
+| [IfcSlippageConnectionCondition](./ifcslippageconnectioncondition) | IfcSlippageConnectionCondition |
+| [IfcSolarDevice](./ifcsolardevice) | IfcSolarDevice |
+| [IfcSolarDeviceType](./ifcsolardevicetype) | IfcSolarDeviceType |
+| [IfcSolidModel](./ifcsolidmodel) | IfcSolidModel |
+| [IfcSpace](./ifcspace) | IfcSpace |
+| [IfcSpaceHeater](./ifcspaceheater) | IfcSpaceHeater |
+| [IfcSpaceHeaterType](./ifcspaceheatertype) | IfcSpaceHeaterType |
+| [IfcSpaceType](./ifcspacetype) | IfcSpaceType |
+| [IfcSpatialElement](./ifcspatialelement) | IfcSpatialElement |
+| [IfcSpatialElementType](./ifcspatialelementtype) | IfcSpatialElementType |
+| [IfcSpatialStructureElement](./ifcspatialstructureelement) | IfcSpatialStructureElement |
+| [IfcSpatialStructureElementType](./ifcspatialstructureelementtype) | IfcSpatialStructureElementType |
+| [IfcSpatialZone](./ifcspatialzone) | IfcSpatialZone |
+| [IfcSpatialZoneType](./ifcspatialzonetype) | IfcSpatialZoneType |
+| [IfcSphere](./ifcsphere) | IfcSphere |
+| [IfcSphericalSurface](./ifcsphericalsurface) | IfcSphericalSurface |
+| [IfcStackTerminal](./ifcstackterminal) | IfcStackTerminal |
+| [IfcStackTerminalType](./ifcstackterminaltype) | IfcStackTerminalType |
+| [IfcStair](./ifcstair) | IfcStair |
+| [IfcStairFlight](./ifcstairflight) | IfcStairFlight |
+| [IfcStairFlightType](./ifcstairflighttype) | IfcStairFlightType |
+| [IfcStairType](./ifcstairtype) | IfcStairType |
+| [IfcStructuralAction](./ifcstructuralaction) | IfcStructuralAction |
+| [IfcStructuralActivity](./ifcstructuralactivity) | IfcStructuralActivity |
+| [IfcStructuralAnalysisModel](./ifcstructuralanalysismodel) | IfcStructuralAnalysisModel |
+| [IfcStructuralConnection](./ifcstructuralconnection) | IfcStructuralConnection |
+| [IfcStructuralConnectionCondition](./ifcstructuralconnectioncondition) | IfcStructuralConnectionCondition |
+| [IfcStructuralCurveAction](./ifcstructuralcurveaction) | IfcStructuralCurveAction |
+| [IfcStructuralCurveConnection](./ifcstructuralcurveconnection) | IfcStructuralCurveConnection |
+| [IfcStructuralCurveMember](./ifcstructuralcurvemember) | IfcStructuralCurveMember |
+| [IfcStructuralCurveMemberVarying](./ifcstructuralcurvemembervarying) | IfcStructuralCurveMemberVarying |
+| [IfcStructuralCurveReaction](./ifcstructuralcurvereaction) | IfcStructuralCurveReaction |
+| [IfcStructuralItem](./ifcstructuralitem) | IfcStructuralItem |
+| [IfcStructuralLinearAction](./ifcstructurallinearaction) | IfcStructuralLinearAction |
+| [IfcStructuralLoad](./ifcstructuralload) | IfcStructuralLoad |
+| [IfcStructuralLoadCase](./ifcstructuralloadcase) | IfcStructuralLoadCase |
+| [IfcStructuralLoadConfiguration](./ifcstructuralloadconfiguration) | IfcStructuralLoadConfiguration |
+| [IfcStructuralLoadGroup](./ifcstructuralloadgroup) | IfcStructuralLoadGroup |
+| [IfcStructuralLoadLinearForce](./ifcstructuralloadlinearforce) | IfcStructuralLoadLinearForce |
+| [IfcStructuralLoadOrResult](./ifcstructuralloadorresult) | IfcStructuralLoadOrResult |
+| [IfcStructuralLoadPlanarForce](./ifcstructuralloadplanarforce) | IfcStructuralLoadPlanarForce |
+| [IfcStructuralLoadSingleDisplacement](./ifcstructuralloadsingledisplacement) | IfcStructuralLoadSingleDisplacement |
+| [IfcStructuralLoadSingleDisplacementDistortion](./ifcstructuralloadsingledisplacementdistortion) | IfcStructuralLoadSingleDisplacementDistortion |
+| [IfcStructuralLoadSingleForce](./ifcstructuralloadsingleforce) | IfcStructuralLoadSingleForce |
+| [IfcStructuralLoadSingleForceWarping](./ifcstructuralloadsingleforcewarping) | IfcStructuralLoadSingleForceWarping |
+| [IfcStructuralLoadStatic](./ifcstructuralloadstatic) | IfcStructuralLoadStatic |
+| [IfcStructuralLoadTemperature](./ifcstructuralloadtemperature) | IfcStructuralLoadTemperature |
+| [IfcStructuralMember](./ifcstructuralmember) | IfcStructuralMember |
+| [IfcStructuralPlanarAction](./ifcstructuralplanaraction) | IfcStructuralPlanarAction |
+| [IfcStructuralPointAction](./ifcstructuralpointaction) | IfcStructuralPointAction |
+| [IfcStructuralPointConnection](./ifcstructuralpointconnection) | IfcStructuralPointConnection |
+| [IfcStructuralPointReaction](./ifcstructuralpointreaction) | IfcStructuralPointReaction |
+| [IfcStructuralReaction](./ifcstructuralreaction) | IfcStructuralReaction |
+| [IfcStructuralResultGroup](./ifcstructuralresultgroup) | IfcStructuralResultGroup |
+| [IfcStructuralSurfaceAction](./ifcstructuralsurfaceaction) | IfcStructuralSurfaceAction |
+| [IfcStructuralSurfaceConnection](./ifcstructuralsurfaceconnection) | IfcStructuralSurfaceConnection |
+| [IfcStructuralSurfaceMember](./ifcstructuralsurfacemember) | IfcStructuralSurfaceMember |
+| [IfcStructuralSurfaceMemberVarying](./ifcstructuralsurfacemembervarying) | IfcStructuralSurfaceMemberVarying |
+| [IfcStructuralSurfaceReaction](./ifcstructuralsurfacereaction) | IfcStructuralSurfaceReaction |
+| [IfcStyledItem](./ifcstyleditem) | Partial IIfc entity class |
+| [IfcStyledRepresentation](./ifcstyledrepresentation) | IfcStyledRepresentation |
+| [IfcStyleModel](./ifcstylemodel) | IfcStyleModel |
+| [IfcSubContractResource](./ifcsubcontractresource) | IfcSubContractResource |
+| [IfcSubContractResourceType](./ifcsubcontractresourcetype) | IfcSubContractResourceType |
+| [IfcSubedge](./ifcsubedge) | IfcSubedge |
+| [IfcSurface](./ifcsurface) | IfcSurface |
+| [IfcSurfaceCurve](./ifcsurfacecurve) | IfcSurfaceCurve |
+| [IfcSurfaceCurveSweptAreaSolid](./ifcsurfacecurvesweptareasolid) | IfcSurfaceCurveSweptAreaSolid |
+| [IfcSurfaceFeature](./ifcsurfacefeature) | IfcSurfaceFeature |
+| [IfcSurfaceOfLinearExtrusion](./ifcsurfaceoflinearextrusion) | IfcSurfaceOfLinearExtrusion |
+| [IfcSurfaceOfRevolution](./ifcsurfaceofrevolution) | IfcSurfaceOfRevolution |
+| [IfcSurfaceReinforcementArea](./ifcsurfacereinforcementarea) | IfcSurfaceReinforcementArea |
+| [IfcSurfaceStyle](./ifcsurfacestyle) | IfcSurfaceStyle |
+| [IfcSurfaceStyleLighting](./ifcsurfacestylelighting) | IfcSurfaceStyleLighting |
+| [IfcSurfaceStyleRefraction](./ifcsurfacestylerefraction) | IfcSurfaceStyleRefraction |
+| [IfcSurfaceStyleRendering](./ifcsurfacestylerendering) | IfcSurfaceStyleRendering |
+| [IfcSurfaceStyleShading](./ifcsurfacestyleshading) | IfcSurfaceStyleShading |
+| [IfcSurfaceStyleWithTextures](./ifcsurfacestylewithtextures) | IfcSurfaceStyleWithTextures |
+| [IfcSurfaceTexture](./ifcsurfacetexture) | IfcSurfaceTexture |
+| [IfcSweptAreaSolid](./ifcsweptareasolid) | IfcSweptAreaSolid |
+| [IfcSweptDiskSolid](./ifcsweptdisksolid) | IfcSweptDiskSolid |
+| [IfcSweptDiskSolidPolygonal](./ifcsweptdisksolidpolygonal) | IfcSweptDiskSolidPolygonal |
+| [IfcSweptSurface](./ifcsweptsurface) | IfcSweptSurface |
+| [IfcSwitchingDevice](./ifcswitchingdevice) | IfcSwitchingDevice |
+| [IfcSwitchingDeviceType](./ifcswitchingdevicetype) | IfcSwitchingDeviceType |
+| [IfcSystem](./ifcsystem) | IfcSystem |
+| [IfcSystemFurnitureElement](./ifcsystemfurnitureelement) | IfcSystemFurnitureElement |
+| [IfcSystemFurnitureElementType](./ifcsystemfurnitureelementtype) | IfcSystemFurnitureElementType |
+| [IfcTable](./ifctable) | IfcTable |
+| [IfcTableColumn](./ifctablecolumn) | IfcTableColumn |
+| [IfcTableRow](./ifctablerow) | IfcTableRow |
+| [IfcTank](./ifctank) | IfcTank |
+| [IfcTankType](./ifctanktype) | IfcTankType |
+| [IfcTask](./ifctask) | IfcTask |
+| [IfcTaskTime](./ifctasktime) | IfcTaskTime |
+| [IfcTaskTimeRecurring](./ifctasktimerecurring) | IfcTaskTimeRecurring |
+| [IfcTaskType](./ifctasktype) | IfcTaskType |
+| [IfcTelecomAddress](./ifctelecomaddress) | IfcTelecomAddress |
+| [IfcTendon](./ifctendon) | IfcTendon |
+| [IfcTendonAnchor](./ifctendonanchor) | IfcTendonAnchor |
+| [IfcTendonAnchorType](./ifctendonanchortype) | IfcTendonAnchorType |
+| [IfcTendonType](./ifctendontype) | IfcTendonType |
+| [IfcTessellatedFaceSet](./ifctessellatedfaceset) | IfcTessellatedFaceSet |
+| [IfcTessellatedItem](./ifctessellateditem) | IfcTessellatedItem |
+| [IfcTextLiteral](./ifctextliteral) | Partial IIfc entity class |
+| [IfcTextLiteralWithExtent](./ifctextliteralwithextent) | Partial IIfc entity class |
+| [IfcTextStyle](./ifctextstyle) | Partial IIfc entity class |
+| [IfcTextStyleFontModel](./ifctextstylefontmodel) | Partial IIfc entity class |
+| [IfcTextStyleForDefinedFont](./ifctextstylefordefinedfont) | Partial IIfc entity class |
+| [IfcTextStyleTextModel](./ifctextstyletextmodel) | IfcTextStyleTextModel |
+| [IfcTextureCoordinate](./ifctexturecoordinate) | IfcTextureCoordinate |
+| [IfcTextureCoordinateGenerator](./ifctexturecoordinategenerator) | IfcTextureCoordinateGenerator |
+| [IfcTextureMap](./ifctexturemap) | IfcTextureMap |
+| [IfcTextureVertex](./ifctexturevertex) | IfcTextureVertex |
+| [IfcTextureVertexList](./ifctexturevertexlist) | IfcTextureVertexList |
+| [IfcTimePeriod](./ifctimeperiod) | IfcTimePeriod |
+| [IfcTimeSeries](./ifctimeseries) | IfcTimeSeries |
+| [IfcTimeSeriesValue](./ifctimeseriesvalue) | IfcTimeSeriesValue |
+| [IfcTopologicalRepresentationItem](./ifctopologicalrepresentationitem) | IfcTopologicalRepresentationItem |
+| [IfcTopologyRepresentation](./ifctopologyrepresentation) | IfcTopologyRepresentation |
+| [IfcToroidalSurface](./ifctoroidalsurface) | IfcToroidalSurface |
+| [IfcTransformer](./ifctransformer) | IfcTransformer |
+| [IfcTransformerType](./ifctransformertype) | IfcTransformerType |
+| [IfcTransportElement](./ifctransportelement) | IfcTransportElement |
+| [IfcTransportElementType](./ifctransportelementtype) | IfcTransportElementType |
+| [IfcTrapeziumProfileDef](./ifctrapeziumprofiledef) | IfcTrapeziumProfileDef |
+| [IfcTriangulatedFaceSet](./ifctriangulatedfaceset) | IfcTriangulatedFaceSet |
+| [IfcTrimmedCurve](./ifctrimmedcurve) | IfcTrimmedCurve |
+| [IfcTShapeProfileDef](./ifctshapeprofiledef) | IfcTShapeProfileDef |
+| [IfcTubeBundle](./ifctubebundle) | IfcTubeBundle |
+| [IfcTubeBundleType](./ifctubebundletype) | IfcTubeBundleType |
+| [IfcTypeObject](./ifctypeobject) | IfcTypeObject |
+| [IfcTypeProcess](./ifctypeprocess) | IfcTypeProcess |
+| [IfcTypeProduct](./ifctypeproduct) | IfcTypeProduct |
+| [IfcTypeResource](./ifctyperesource) | IfcTypeResource |
+| [IfcUnitaryControlElement](./ifcunitarycontrolelement) | IfcUnitaryControlElement |
+| [IfcUnitaryControlElementType](./ifcunitarycontrolelementtype) | IfcUnitaryControlElementType |
+| [IfcUnitaryEquipment](./ifcunitaryequipment) | IfcUnitaryEquipment |
+| [IfcUnitaryEquipmentType](./ifcunitaryequipmenttype) | IfcUnitaryEquipmentType |
+| [IfcUnitAssignment](./ifcunitassignment) | IfcUnitAssignment |
+| [IfcUShapeProfileDef](./ifcushapeprofiledef) | IfcUShapeProfileDef |
+| [IfcValve](./ifcvalve) | IfcValve |
+| [IfcValveType](./ifcvalvetype) | IfcValveType |
+| [IfcVector](./ifcvector) | IfcVector |
+| [IfcVertex](./ifcvertex) | IfcVertex |
+| [IfcVertexLoop](./ifcvertexloop) | IfcVertexLoop |
+| [IfcVertexPoint](./ifcvertexpoint) | IfcVertexPoint |
+| [IfcVibrationIsolator](./ifcvibrationisolator) | IfcVibrationIsolator |
+| [IfcVibrationIsolatorType](./ifcvibrationisolatortype) | IfcVibrationIsolatorType |
+| [IfcVirtualElement](./ifcvirtualelement) | IfcVirtualElement |
+| [IfcVirtualGridIntersection](./ifcvirtualgridintersection) | IfcVirtualGridIntersection |
+| [IfcVoidingFeature](./ifcvoidingfeature) | IfcVoidingFeature |
+| [IfcWall](./ifcwall) | IfcWall |
+| [IfcWallElementedCase](./ifcwallelementedcase) | IfcWallElementedCase |
+| [IfcWallStandardCase](./ifcwallstandardcase) | IfcWallStandardCase |
+| [IfcWallType](./ifcwalltype) | IfcWallType |
+| [IfcWasteTerminal](./ifcwasteterminal) | IfcWasteTerminal |
+| [IfcWasteTerminalType](./ifcwasteterminaltype) | IfcWasteTerminalType |
+| [IfcWindow](./ifcwindow) | IfcWindow |
+| [IfcWindowLiningProperties](./ifcwindowliningproperties) | IfcWindowLiningProperties |
+| [IfcWindowPanelProperties](./ifcwindowpanelproperties) | IfcWindowPanelProperties |
+| [IfcWindowStandardCase](./ifcwindowstandardcase) | IfcWindowStandardCase |
+| [IfcWindowStyle](./ifcwindowstyle) | IfcWindowStyle |
+| [IfcWindowType](./ifcwindowtype) | IfcWindowType |
+| [IfcWorkCalendar](./ifcworkcalendar) | IfcWorkCalendar |
+| [IfcWorkControl](./ifcworkcontrol) | IfcWorkControl |
+| [IfcWorkPlan](./ifcworkplan) | IfcWorkPlan |
+| [IfcWorkSchedule](./ifcworkschedule) | IfcWorkSchedule |
+| [IfcWorkTime](./ifcworktime) | IfcWorkTime |
+| [IfcZone](./ifczone) | IfcZone |
+| [IfcZShapeProfileDef](./ifczshapeprofiledef) | IfcZShapeProfileDef |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

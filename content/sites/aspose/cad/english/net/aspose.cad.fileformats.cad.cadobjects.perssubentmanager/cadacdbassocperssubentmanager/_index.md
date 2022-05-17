@@ -3,7 +3,7 @@ title: CadAcDbAssocPersSubentManager
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3490
+weight: 3480
 url: /net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbassocperssubentmanager/
 ---
 ## CadAcDbAssocPersSubentManager class

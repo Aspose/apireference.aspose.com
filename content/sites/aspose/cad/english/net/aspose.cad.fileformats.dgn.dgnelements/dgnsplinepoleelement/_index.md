@@ -3,7 +3,7 @@ title: DgnSplinePoleElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5850
+weight: 5840
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/
 ---
 ## DgnSplinePoleElement class

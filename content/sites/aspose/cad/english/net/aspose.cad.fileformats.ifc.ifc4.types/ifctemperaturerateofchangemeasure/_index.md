@@ -3,7 +3,7 @@ title: IfcTemperatureRateOfChangeMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27620
+weight: 27610
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctemperaturerateofchangemeasure/
 ---
 ## IfcTemperatureRateOfChangeMeasure class

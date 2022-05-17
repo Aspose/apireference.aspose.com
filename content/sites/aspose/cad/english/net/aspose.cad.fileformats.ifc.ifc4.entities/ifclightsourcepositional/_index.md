@@ -3,7 +3,7 @@ title: IfcLightSourcePositional
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19920
+weight: 19910
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/
 ---
 ## IfcLightSourcePositional class

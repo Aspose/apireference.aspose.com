@@ -3,7 +3,7 @@ title: IfcFireSuppressionTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25590
+weight: 25580
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfiresuppressionterminaltypeenum/
 ---
 ## IfcFireSuppressionTerminalTypeEnum enumeration

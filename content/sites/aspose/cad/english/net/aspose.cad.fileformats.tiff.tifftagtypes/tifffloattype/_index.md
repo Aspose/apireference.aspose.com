@@ -3,7 +3,7 @@ title: TiffFloatType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29230
+weight: 29070
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tifffloattype/
 ---
 ## TiffFloatType class

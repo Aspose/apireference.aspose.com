@@ -3,7 +3,7 @@ title: TriangularFacet
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28910
+weight: 28750
 url: /net/aspose.cad.fileformats.stl.stllibrary.core.models/triangularfacet/
 ---
 ## TriangularFacet class

@@ -3,7 +3,7 @@ title: CadLeader
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2550
+weight: 2540
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadleader/
 ---
 ## CadLeader class

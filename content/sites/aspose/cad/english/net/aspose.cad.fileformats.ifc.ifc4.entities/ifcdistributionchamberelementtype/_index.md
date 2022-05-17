@@ -3,7 +3,7 @@ title: IfcDistributionChamberElementType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18230
+weight: 18220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionchamberelementtype/
 ---
 ## IfcDistributionChamberElementType class

@@ -3,7 +3,7 @@ title: IfcBSplineSurfaceForm
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24460
+weight: 24450
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbsplinesurfaceform/
 ---
 ## IfcBSplineSurfaceForm enumeration

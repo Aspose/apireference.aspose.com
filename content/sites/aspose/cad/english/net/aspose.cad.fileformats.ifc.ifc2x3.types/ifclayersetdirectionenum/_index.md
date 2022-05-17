@@ -3,7 +3,7 @@ title: IfcLayerSetDirectionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14650
+weight: 14640
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclayersetdirectionenum/
 ---
 ## IfcLayerSetDirectionEnum enumeration

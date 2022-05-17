@@ -3,7 +3,7 @@ title: IfcPreferredSurfaceCurveRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26720
+weight: 26710
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpreferredsurfacecurverepresentation/
 ---
 ## IfcPreferredSurfaceCurveRepresentation enumeration

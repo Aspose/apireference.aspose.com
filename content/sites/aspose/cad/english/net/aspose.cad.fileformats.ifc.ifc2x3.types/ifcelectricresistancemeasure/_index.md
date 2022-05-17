@@ -3,7 +3,7 @@ title: IfcElectricResistanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14170
+weight: 14160
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricresistancemeasure/
 ---
 ## IfcElectricResistanceMeasure class

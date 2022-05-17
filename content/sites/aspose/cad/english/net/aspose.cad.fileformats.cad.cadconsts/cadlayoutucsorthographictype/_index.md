@@ -3,7 +3,7 @@ title: CadLayoutUcsOrthographicType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1340
+weight: 1330
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadlayoutucsorthographictype/
 ---
 ## CadLayoutUcsOrthographicType enumeration

@@ -3,7 +3,7 @@ title: IfcTimeSeriesValue
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23680
+weight: 23670
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseriesvalue/
 ---
 ## IfcTimeSeriesValue class

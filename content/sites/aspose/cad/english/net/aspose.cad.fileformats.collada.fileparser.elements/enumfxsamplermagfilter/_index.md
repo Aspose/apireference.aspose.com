@@ -3,7 +3,7 @@ title: EnumFxSamplerMagFilter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4530
+weight: 4520
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplermagfilter/
 ---
 ## EnumFxSamplerMagFilter enumeration

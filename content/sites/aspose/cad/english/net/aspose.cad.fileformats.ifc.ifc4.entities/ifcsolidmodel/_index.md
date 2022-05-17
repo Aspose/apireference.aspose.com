@@ -3,7 +3,7 @@ title: IfcSolidModel
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22530
+weight: 22520
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsolidmodel/
 ---
 ## IfcSolidModel class

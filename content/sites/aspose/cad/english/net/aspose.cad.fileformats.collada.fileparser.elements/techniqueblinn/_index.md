@@ -3,7 +3,7 @@ title: TechniqueBlinn
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5400
+weight: 5390
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueblinn/
 ---
 ## TechniqueBlinn class

@@ -3,7 +3,7 @@ title: IfcIonConcentrationMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25900
+weight: 25890
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcionconcentrationmeasure/
 ---
 ## IfcIonConcentrationMeasure class

@@ -3,7 +3,7 @@ title: ProfileBridge
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5180
+weight: 5170
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilebridge/
 ---
 ## ProfileBridge class

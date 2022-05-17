@@ -91,7 +91,7 @@ public Point3D(double x, double y, double z)
 ## Point3D constructor (5 of 5)
 
 ```csharp
-public Point3D( apsPoint)
+public Point3D(    apsPoint)
 ```
 
 ### See Also

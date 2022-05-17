@@ -3,7 +3,7 @@ title: TechniqueHint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5430
+weight: 5420
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniquehint/
 ---
 ## TechniqueHint class

@@ -3,7 +3,7 @@ title: IfcRoot
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22250
+weight: 22240
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/
 ---
 ## IfcRoot class

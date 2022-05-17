@@ -3,7 +3,7 @@ title: CadAcdsTypeName
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1140
+weight: 1130
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadacdstypename/
 ---
 ## CadAcdsTypeName enumeration

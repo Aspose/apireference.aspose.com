@@ -3,7 +3,7 @@ title: CadBase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2140
+weight: 2130
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbase/
 ---
 ## CadBase class

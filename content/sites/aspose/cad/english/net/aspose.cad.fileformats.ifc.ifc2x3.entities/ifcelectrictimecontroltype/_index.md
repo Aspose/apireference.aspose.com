@@ -3,7 +3,7 @@ title: IfcElectricTimeControlType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8560
+weight: 8550
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectrictimecontroltype/
 ---
 ## IfcElectricTimeControlType class

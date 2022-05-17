@@ -3,7 +3,7 @@ title: ColorMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30550
+weight: 30320
 url: /net/aspose.cad.xmp.schemas.photoshop/colormode/
 ---
 ## ColorMode enumeration

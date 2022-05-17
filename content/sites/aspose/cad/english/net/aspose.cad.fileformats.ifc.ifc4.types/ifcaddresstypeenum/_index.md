@@ -3,7 +3,7 @@ title: IfcAddressTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24280
+weight: 24270
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcaddresstypeenum/
 ---
 ## IfcAddressTypeEnum enumeration

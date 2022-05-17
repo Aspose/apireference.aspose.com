@@ -3,7 +3,7 @@ title: IfcDiameterDimension
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8110
+weight: 8100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdiameterdimension/
 ---
 ## IfcDiameterDimension class

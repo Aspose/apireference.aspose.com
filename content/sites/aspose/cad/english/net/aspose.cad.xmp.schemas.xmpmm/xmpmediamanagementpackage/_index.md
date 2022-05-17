@@ -3,7 +3,7 @@ title: XmpMediaManagementPackage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30670
+weight: 30440
 url: /net/aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/
 ---
 ## XmpMediaManagementPackage class

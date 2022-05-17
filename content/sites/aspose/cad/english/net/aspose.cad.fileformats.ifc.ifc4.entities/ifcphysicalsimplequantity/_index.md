@@ -3,7 +3,7 @@ title: IfcPhysicalSimpleQuantity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20600
+weight: 20590
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalsimplequantity/
 ---
 ## IfcPhysicalSimpleQuantity class

@@ -3,7 +3,7 @@ title: CadPlotRotation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1440
+weight: 1430
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotrotation/
 ---
 ## CadPlotRotation enumeration

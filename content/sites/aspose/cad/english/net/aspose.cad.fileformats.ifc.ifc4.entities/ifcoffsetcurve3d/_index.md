@@ -3,7 +3,7 @@ title: IfcOffsetCurve3D
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20390
+weight: 20380
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/
 ---
 ## IfcOffsetCurve3D class

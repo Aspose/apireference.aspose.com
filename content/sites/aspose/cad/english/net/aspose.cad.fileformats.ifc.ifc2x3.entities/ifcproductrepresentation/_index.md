@@ -3,7 +3,7 @@ title: IfcProductRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10520
+weight: 10510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductrepresentation/
 ---
 ## IfcProductRepresentation class

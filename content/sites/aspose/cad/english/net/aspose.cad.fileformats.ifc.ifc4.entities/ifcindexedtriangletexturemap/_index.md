@@ -3,7 +3,7 @@ title: IfcIndexedTriangleTextureMap
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19670
+weight: 19660
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtriangletexturemap/
 ---
 ## IfcIndexedTriangleTextureMap class

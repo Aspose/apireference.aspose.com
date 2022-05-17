@@ -3,7 +3,7 @@ title: IfcPropertyEnumeratedValue
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10660
+weight: 10650
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyenumeratedvalue/
 ---
 ## IfcPropertyEnumeratedValue class

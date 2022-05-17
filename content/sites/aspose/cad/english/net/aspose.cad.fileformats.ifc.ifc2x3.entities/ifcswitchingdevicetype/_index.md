@@ -3,7 +3,7 @@ title: IfcSwitchingDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12520
+weight: 12510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcswitchingdevicetype/
 ---
 ## IfcSwitchingDeviceType class

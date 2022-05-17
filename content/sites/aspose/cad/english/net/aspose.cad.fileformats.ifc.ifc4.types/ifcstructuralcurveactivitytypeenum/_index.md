@@ -3,7 +3,7 @@ title: IfcStructuralCurveActivityTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27460
+weight: 27450
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralcurveactivitytypeenum/
 ---
 ## IfcStructuralCurveActivityTypeEnum enumeration

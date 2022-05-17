@@ -3,7 +3,7 @@ title: DicomOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29660
+weight: 29470
 url: /net/aspose.cad.imageoptions/dicomoptions/
 ---
 ## DicomOptions class

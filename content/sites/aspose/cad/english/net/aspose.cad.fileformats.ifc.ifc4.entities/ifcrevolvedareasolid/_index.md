@@ -3,7 +3,7 @@ title: IfcRevolvedAreaSolid
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22190
+weight: 22180
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrevolvedareasolid/
 ---
 ## IfcRevolvedAreaSolid class

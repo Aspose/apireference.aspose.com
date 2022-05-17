@@ -3,7 +3,7 @@ title: SizeF
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30360
+weight: 30170
 url: /net/aspose.cad/sizef/
 ---
 ## SizeF structure

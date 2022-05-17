@@ -3,7 +3,7 @@ title: LibraryCameras
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4920
+weight: 4910
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/librarycameras/
 ---
 ## LibraryCameras class

@@ -3,7 +3,7 @@ title: JfifDensityUnits
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28420
+weight: 28410
 url: /net/aspose.cad.fileformats.jpeg/jfifdensityunits/
 ---
 ## JfifDensityUnits enumeration

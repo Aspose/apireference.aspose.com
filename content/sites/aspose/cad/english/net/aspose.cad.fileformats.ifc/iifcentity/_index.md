@@ -3,7 +3,7 @@ title: IIfcEntity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28190
+weight: 28180
 url: /net/aspose.cad.fileformats.ifc/iifcentity/
 ---
 ## IIfcEntity interface

@@ -3,7 +3,7 @@ title: CadPolygonMesh
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3520
+weight: 3510
 url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/
 ---
 ## CadPolygonMesh class

@@ -3,7 +3,7 @@ title: FilterOptionsBase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29570
+weight: 29380
 url: /net/aspose.cad.imagefilters.filteroptions/filteroptionsbase/
 ---
 ## FilterOptionsBase class

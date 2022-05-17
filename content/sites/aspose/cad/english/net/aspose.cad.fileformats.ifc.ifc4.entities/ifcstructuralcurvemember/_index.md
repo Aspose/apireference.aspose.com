@@ -3,7 +3,7 @@ title: IfcStructuralCurveMember
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22790
+weight: 22780
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurvemember/
 ---
 ## IfcStructuralCurveMember class

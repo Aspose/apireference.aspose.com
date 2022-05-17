@@ -3,7 +3,7 @@ title: IfcRadioActivityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15400
+weight: 15390
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcradioactivitymeasure/
 ---
 ## IfcRadioActivityMeasure class

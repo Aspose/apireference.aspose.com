@@ -3,7 +3,7 @@ title: IfcTextLiteral
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12650
+weight: 12640
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextliteral/
 ---
 ## IfcTextLiteral class

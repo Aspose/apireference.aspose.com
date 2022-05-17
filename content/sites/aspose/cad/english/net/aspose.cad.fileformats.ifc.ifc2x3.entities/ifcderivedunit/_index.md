@@ -3,7 +3,7 @@ title: IfcDerivedUnit
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8090
+weight: 8080
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcderivedunit/
 ---
 ## IfcDerivedUnit class

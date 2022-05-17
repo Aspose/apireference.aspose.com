@@ -3,7 +3,7 @@ title: XmpText
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30730
+weight: 30500
 url: /net/aspose.cad.xmp.types.basic/xmptext/
 ---
 ## XmpText class

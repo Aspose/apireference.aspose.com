@@ -3,7 +3,7 @@ title: IfcTextLiteralWithExtent
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23560
+weight: 23550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextliteralwithextent/
 ---
 ## IfcTextLiteralWithExtent class

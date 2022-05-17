@@ -3,7 +3,7 @@ title: CadTableGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3050
+weight: 3040
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/
 ---
 ## CadTableGeometry class

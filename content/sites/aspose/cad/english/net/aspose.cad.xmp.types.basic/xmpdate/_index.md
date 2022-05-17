@@ -3,7 +3,7 @@ title: XmpDate
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30700
+weight: 30470
 url: /net/aspose.cad.xmp.types.basic/xmpdate/
 ---
 ## XmpDate class

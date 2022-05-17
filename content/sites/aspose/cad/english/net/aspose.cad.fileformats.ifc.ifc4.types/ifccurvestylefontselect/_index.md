@@ -3,7 +3,7 @@ title: IfcCurveStyleFontSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25020
+weight: 25010
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccurvestylefontselect/
 ---
 ## IfcCurveStyleFontSelect class

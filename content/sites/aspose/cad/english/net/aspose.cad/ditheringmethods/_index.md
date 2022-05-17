@@ -3,7 +3,7 @@ title: DitheringMethods
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 470
+weight: 460
 url: /net/aspose.cad/ditheringmethods/
 ---
 ## DitheringMethods enumeration

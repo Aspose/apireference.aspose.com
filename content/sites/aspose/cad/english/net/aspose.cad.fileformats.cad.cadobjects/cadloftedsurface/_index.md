@@ -3,7 +3,7 @@ title: CadLoftedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2590
+weight: 2580
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/
 ---
 ## CadLoftedSurface class

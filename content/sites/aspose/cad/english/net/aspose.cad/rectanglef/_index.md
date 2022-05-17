@@ -3,7 +3,7 @@ title: RectangleF
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30300
+weight: 30110
 url: /net/aspose.cad/rectanglef/
 ---
 ## RectangleF structure

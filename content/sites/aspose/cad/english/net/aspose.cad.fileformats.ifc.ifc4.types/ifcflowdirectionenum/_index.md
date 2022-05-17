@@ -3,7 +3,7 @@ title: IfcFlowDirectionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25600
+weight: 25590
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcflowdirectionenum/
 ---
 ## IfcFlowDirectionEnum enumeration

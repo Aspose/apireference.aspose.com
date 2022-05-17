@@ -3,7 +3,7 @@ title: IfcReinforcingMesh
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11000
+weight: 10990
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/
 ---
 ## IfcReinforcingMesh class

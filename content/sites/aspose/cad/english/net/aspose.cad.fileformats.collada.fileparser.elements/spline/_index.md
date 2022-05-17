@@ -3,7 +3,7 @@ title: Spline
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5310
+weight: 5300
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/spline/
 ---
 ## Spline class

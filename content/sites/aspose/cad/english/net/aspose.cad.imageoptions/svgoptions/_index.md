@@ -3,7 +3,7 @@ title: SvgOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29920
+weight: 29730
 url: /net/aspose.cad.imageoptions/svgoptions/
 ---
 ## SvgOptions class

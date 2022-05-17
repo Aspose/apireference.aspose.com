@@ -3,7 +3,7 @@ title: InstanceVisualScene
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4890
+weight: 4880
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancevisualscene/
 ---
 ## InstanceVisualScene class

@@ -3,7 +3,7 @@ title: IfcFaceBound
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8860
+weight: 8850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacebound/
 ---
 ## IfcFaceBound class

@@ -3,7 +3,7 @@ title: AudioSampleType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30600
+weight: 30370
 url: /net/aspose.cad.xmp.schemas.xmpdm/audiosampletype/
 ---
 ## AudioSampleType class

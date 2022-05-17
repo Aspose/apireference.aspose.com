@@ -3,7 +3,7 @@ title: IfcElementCompositionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14210
+weight: 14200
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelementcompositionenum/
 ---
 ## IfcElementCompositionEnum enumeration

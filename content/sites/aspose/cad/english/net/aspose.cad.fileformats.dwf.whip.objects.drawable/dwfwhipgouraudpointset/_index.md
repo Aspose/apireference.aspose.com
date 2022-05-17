@@ -3,7 +3,7 @@ title: DwfWhipGouraudPointSet
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6220
+weight: 6210
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipgouraudpointset/
 ---
 ## DwfWhipGouraudPointSet class

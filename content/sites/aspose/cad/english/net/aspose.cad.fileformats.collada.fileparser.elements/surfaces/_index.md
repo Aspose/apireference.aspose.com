@@ -3,7 +3,7 @@ title: Surfaces
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5340
+weight: 5330
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/surfaces/
 ---
 ## Surfaces class

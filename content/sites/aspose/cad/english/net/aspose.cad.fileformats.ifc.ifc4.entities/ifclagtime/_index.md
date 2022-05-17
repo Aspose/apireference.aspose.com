@@ -3,7 +3,7 @@ title: IfcLagTime
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19790
+weight: 19780
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/
 ---
 ## IfcLagTime class

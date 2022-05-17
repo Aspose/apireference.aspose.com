@@ -3,7 +3,7 @@ title: InterpolationMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30070
+weight: 29880
 url: /net/aspose.cad/interpolationmode/
 ---
 ## InterpolationMode enumeration

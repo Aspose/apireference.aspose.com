@@ -3,7 +3,7 @@ title: IfcPipeSegmentType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10200
+weight: 10190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpipesegmenttype/
 ---
 ## IfcPipeSegmentType class

@@ -3,7 +3,7 @@ title: FbxVersion
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6640
+weight: 6630
 url: /net/aspose.cad.fileformats.fbx/fbxversion/
 ---
 ## FbxVersion enumeration

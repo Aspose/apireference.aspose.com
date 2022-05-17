@@ -3,7 +3,7 @@ title: IfcMassFlowRateMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14860
+weight: 14850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmassflowratemeasure/
 ---
 ## IfcMassFlowRateMeasure class

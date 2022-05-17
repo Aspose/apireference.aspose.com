@@ -3,7 +3,7 @@ title: DwfWhipLayer
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6400
+weight: 6390
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/
 ---
 ## DwfWhipLayer class

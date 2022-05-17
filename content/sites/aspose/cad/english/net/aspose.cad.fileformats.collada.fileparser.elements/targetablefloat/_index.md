@@ -3,7 +3,7 @@ title: TargetableFloat
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5360
+weight: 5350
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/targetablefloat/
 ---
 ## TargetableFloat class

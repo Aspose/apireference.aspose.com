@@ -3,7 +3,7 @@ title: Edges
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4470
+weight: 4460
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/edges/
 ---
 ## Edges class

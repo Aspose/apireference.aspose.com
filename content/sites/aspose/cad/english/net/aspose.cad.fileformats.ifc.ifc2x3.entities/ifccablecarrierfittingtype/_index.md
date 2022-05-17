@@ -3,7 +3,7 @@ title: IfcCableCarrierFittingType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7270
+weight: 7260
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccablecarrierfittingtype/
 ---
 ## IfcCableCarrierFittingType class

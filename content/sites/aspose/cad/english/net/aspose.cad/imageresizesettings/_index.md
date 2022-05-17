@@ -3,7 +3,7 @@ title: ImageResizeSettings
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30050
+weight: 29860
 url: /net/aspose.cad/imageresizesettings/
 ---
 ## ImageResizeSettings class

@@ -3,7 +3,7 @@ title: IfcObjective
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20360
+weight: 20350
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjective/
 ---
 ## IfcObjective class

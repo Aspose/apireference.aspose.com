@@ -3,7 +3,7 @@ title: TiffOptionsError
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29990
+weight: 29800
 url: /net/aspose.cad.imageoptions/tiffoptionserror/
 ---
 ## TiffOptionsError enumeration

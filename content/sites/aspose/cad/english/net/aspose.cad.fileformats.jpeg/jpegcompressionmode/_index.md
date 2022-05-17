@@ -3,7 +3,7 @@ title: JpegCompressionMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28440
+weight: 28430
 url: /net/aspose.cad.fileformats.jpeg/jpegcompressionmode/
 ---
 ## JpegCompressionMode enumeration

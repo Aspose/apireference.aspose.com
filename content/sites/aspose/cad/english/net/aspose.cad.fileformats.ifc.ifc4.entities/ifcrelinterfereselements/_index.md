@@ -3,7 +3,7 @@ title: IfcRelInterferesElements
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21980
+weight: 21970
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/
 ---
 ## IfcRelInterferesElements class

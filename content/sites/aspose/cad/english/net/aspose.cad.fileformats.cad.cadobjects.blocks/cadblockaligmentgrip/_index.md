@@ -3,7 +3,7 @@ title: CadBlockAligmentGrip
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1710
+weight: 1700
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaligmentgrip/
 ---
 ## CadBlockAligmentGrip class

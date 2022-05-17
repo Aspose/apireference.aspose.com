@@ -3,7 +3,7 @@ title: IfcLayeredItem
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14660
+weight: 14650
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclayereditem/
 ---
 ## IfcLayeredItem class

@@ -3,7 +3,7 @@ title: ColorMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30740
+weight: 30510
 url: /net/aspose.cad.xmp.types.complex.colorant/colormode/
 ---
 ## ColorMode enumeration

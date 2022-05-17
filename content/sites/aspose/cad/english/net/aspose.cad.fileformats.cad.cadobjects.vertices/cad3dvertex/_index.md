@@ -3,7 +3,7 @@ title: Cad3DVertex
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3690
+weight: 3680
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/
 ---
 ## Cad3DVertex class

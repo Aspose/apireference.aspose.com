@@ -3,7 +3,7 @@ title: TextOrientation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28390
+weight: 28380
 url: /net/aspose.cad.fileformats.iges.drawables/textorientation/
 ---
 ## TextOrientation enumeration

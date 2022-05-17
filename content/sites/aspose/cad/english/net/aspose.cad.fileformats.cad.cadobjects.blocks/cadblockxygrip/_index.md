@@ -3,7 +3,7 @@ title: CadBlockXYGrip
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1920
+weight: 1910
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockxygrip/
 ---
 ## CadBlockXYGrip class

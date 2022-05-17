@@ -3,7 +3,7 @@ title: DwfResult
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6140
+weight: 6130
 url: /net/aspose.cad.fileformats.dwf.whip/dwfresult/
 ---
 ## DwfResult enumeration

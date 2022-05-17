@@ -3,7 +3,7 @@ title: IfcPreDefinedItem
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20860
+weight: 20850
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefineditem/
 ---
 ## IfcPreDefinedItem class

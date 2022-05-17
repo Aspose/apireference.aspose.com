@@ -3,7 +3,7 @@ title: DwfWhipOptionFontName
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6570
+weight: 6560
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontname/
 ---
 ## DwfWhipOptionFontName class

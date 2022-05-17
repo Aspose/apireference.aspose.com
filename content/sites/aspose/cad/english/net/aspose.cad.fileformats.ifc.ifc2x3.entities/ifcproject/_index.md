@@ -3,7 +3,7 @@ title: IfcProject
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10560
+weight: 10550
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/
 ---
 ## IfcProject class

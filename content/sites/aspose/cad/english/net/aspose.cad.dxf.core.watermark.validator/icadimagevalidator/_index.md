@@ -3,7 +3,7 @@ title: ICadImageValidator
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 510
+weight: 500
 url: /net/aspose.cad.dxf.core.watermark.validator/icadimagevalidator/
 ---
 ## ICadImageValidator interface

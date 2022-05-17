@@ -3,7 +3,7 @@ title: CadDataTable
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3210
+weight: 3200
 url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/
 ---
 ## CadDataTable class

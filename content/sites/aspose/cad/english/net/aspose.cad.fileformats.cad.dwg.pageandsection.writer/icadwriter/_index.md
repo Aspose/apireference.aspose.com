@@ -3,7 +3,7 @@ title: ICadWriter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4040
+weight: 4030
 url: /net/aspose.cad.fileformats.cad.dwg.pageandsection.writer/icadwriter/
 ---
 ## ICadWriter interface

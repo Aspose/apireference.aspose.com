@@ -3,7 +3,7 @@ title: EmfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29690
+weight: 29500
 url: /net/aspose.cad.imageoptions/emfoptions/
 ---
 ## EmfOptions class

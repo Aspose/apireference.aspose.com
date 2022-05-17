@@ -3,7 +3,7 @@ title: CadIntParameter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3800
+weight: 3790
 url: /net/aspose.cad.fileformats.cad.cadparameters/cadintparameter/
 ---
 ## CadIntParameter class

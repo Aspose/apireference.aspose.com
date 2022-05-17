@@ -3,7 +3,7 @@ title: IDrawable
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28330
+weight: 28320
 url: /net/aspose.cad.fileformats.iges.drawables/idrawable/
 ---
 ## IDrawable interface

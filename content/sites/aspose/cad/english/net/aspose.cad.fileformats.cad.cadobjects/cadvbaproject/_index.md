@@ -3,7 +3,7 @@ title: CadVbaProject
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3130
+weight: 3120
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadvbaproject/
 ---
 ## CadVbaProject class

@@ -3,7 +3,7 @@ title: CameraOptics
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4320
+weight: 4310
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraoptics/
 ---
 ## CameraOptics class

@@ -3,7 +3,7 @@ title: XmpRdfRoot
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 31050
+weight: 30820
 url: /net/aspose.cad.xmp/xmprdfroot/
 ---
 ## XmpRdfRoot class

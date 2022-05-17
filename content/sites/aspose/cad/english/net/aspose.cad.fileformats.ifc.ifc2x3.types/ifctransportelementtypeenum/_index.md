@@ -3,7 +3,7 @@ title: IfcTransportElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16210
+weight: 16200
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctransportelementtypeenum/
 ---
 ## IfcTransportElementTypeEnum enumeration

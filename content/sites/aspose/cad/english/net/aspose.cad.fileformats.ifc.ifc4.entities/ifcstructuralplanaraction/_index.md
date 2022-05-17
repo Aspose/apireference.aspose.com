@@ -3,7 +3,7 @@ title: IfcStructuralPlanarAction
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22980
+weight: 22970
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralplanaraction/
 ---
 ## IfcStructuralPlanarAction class

@@ -3,7 +3,7 @@ title: IfcRelAssignsToProcess
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11070
+weight: 11060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprocess/
 ---
 ## IfcRelAssignsToProcess class

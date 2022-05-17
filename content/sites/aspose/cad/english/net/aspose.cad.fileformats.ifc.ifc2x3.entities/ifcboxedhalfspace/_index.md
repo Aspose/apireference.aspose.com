@@ -3,7 +3,7 @@ title: IfcBoxedHalfSpace
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7170
+weight: 7160
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboxedhalfspace/
 ---
 ## IfcBoxedHalfSpace class

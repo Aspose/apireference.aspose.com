@@ -3,7 +3,7 @@ title: CmykColor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 330
+weight: 320
 url: /net/aspose.cad/cmykcolor/
 ---
 ## CmykColor structure

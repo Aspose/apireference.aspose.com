@@ -3,7 +3,7 @@ title: IfcSizeSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27240
+weight: 27230
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsizeselect/
 ---
 ## IfcSizeSelect class

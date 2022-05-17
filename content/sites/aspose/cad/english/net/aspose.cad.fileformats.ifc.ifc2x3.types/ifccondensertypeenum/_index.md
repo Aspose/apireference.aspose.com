@@ -3,7 +3,7 @@ title: IfcCondenserTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13620
+weight: 13610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccondensertypeenum/
 ---
 ## IfcCondenserTypeEnum enumeration

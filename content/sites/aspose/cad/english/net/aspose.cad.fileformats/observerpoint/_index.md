@@ -3,7 +3,7 @@ title: ObserverPoint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28580
+weight: 28570
 url: /net/aspose.cad.fileformats/observerpoint/
 ---
 ## ObserverPoint class

@@ -3,7 +3,7 @@ title: IfcBuildingStorey
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7250
+weight: 7240
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingstorey/
 ---
 ## IfcBuildingStorey class

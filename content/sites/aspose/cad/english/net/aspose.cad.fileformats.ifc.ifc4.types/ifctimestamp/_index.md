@@ -3,7 +3,7 @@ title: IfcTimeStamp
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27820
+weight: 27810
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctimestamp/
 ---
 ## IfcTimeStamp class

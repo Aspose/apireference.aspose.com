@@ -3,7 +3,7 @@ title: IfcPipeFittingType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20640
+weight: 20630
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpipefittingtype/
 ---
 ## IfcPipeFittingType class

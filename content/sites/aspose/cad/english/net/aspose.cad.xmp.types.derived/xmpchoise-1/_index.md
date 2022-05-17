@@ -3,7 +3,7 @@ title: XmpChoiseT
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30900
+weight: 30670
 url: /net/aspose.cad.xmp.types.derived/xmpchoise-1/
 ---
 ## XmpChoise&lt;T&gt; class

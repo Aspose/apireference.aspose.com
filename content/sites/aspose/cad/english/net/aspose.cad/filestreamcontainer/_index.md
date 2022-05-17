@@ -3,7 +3,7 @@ title: FileStreamContainer
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29340
+weight: 29180
 url: /net/aspose.cad/filestreamcontainer/
 ---
 ## FileStreamContainer class

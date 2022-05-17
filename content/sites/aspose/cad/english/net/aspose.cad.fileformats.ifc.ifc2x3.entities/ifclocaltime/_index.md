@@ -3,7 +3,7 @@ title: IfcLocalTime
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9660
+weight: 9650
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/
 ---
 ## IfcLocalTime class

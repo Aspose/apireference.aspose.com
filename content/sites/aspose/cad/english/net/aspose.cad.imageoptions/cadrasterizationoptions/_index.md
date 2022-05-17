@@ -3,7 +3,7 @@ title: CadRasterizationOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29630
+weight: 29440
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/
 ---
 ## CadRasterizationOptions class

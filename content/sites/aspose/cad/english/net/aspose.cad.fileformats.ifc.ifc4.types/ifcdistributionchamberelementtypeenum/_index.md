@@ -3,7 +3,7 @@ title: IfcDistributionChamberElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25160
+weight: 25150
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdistributionchamberelementtypeenum/
 ---
 ## IfcDistributionChamberElementTypeEnum enumeration

@@ -3,7 +3,7 @@ title: CadAttDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1640
+weight: 1630
 url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/
 ---
 ## CadAttDef class

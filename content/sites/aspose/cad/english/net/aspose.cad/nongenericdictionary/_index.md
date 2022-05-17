@@ -3,7 +3,7 @@ title: NonGenericDictionary
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30180
+weight: 29990
 url: /net/aspose.cad/nongenericdictionary/
 ---
 ## NonGenericDictionary class

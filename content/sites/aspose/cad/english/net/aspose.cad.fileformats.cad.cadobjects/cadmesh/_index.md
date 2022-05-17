@@ -3,7 +3,7 @@ title: CadMesh
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2700
+weight: 2690
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmesh/
 ---
 ## CadMesh class

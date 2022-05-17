@@ -3,7 +3,7 @@ title: IfcTorqueMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27830
+weight: 27820
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctorquemeasure/
 ---
 ## IfcTorqueMeasure class

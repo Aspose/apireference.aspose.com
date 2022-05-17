@@ -3,7 +3,7 @@ title: BmpOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29620
+weight: 29430
 url: /net/aspose.cad.imageoptions/bmpoptions/
 ---
 ## BmpOptions class

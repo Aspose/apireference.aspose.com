@@ -3,7 +3,7 @@ title: IfcMaterialList
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9760
+weight: 9750
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallist/
 ---
 ## IfcMaterialList class

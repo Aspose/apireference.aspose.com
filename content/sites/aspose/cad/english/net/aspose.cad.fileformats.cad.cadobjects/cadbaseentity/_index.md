@@ -3,7 +3,7 @@ title: CadBaseEntity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2160
+weight: 2150
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbaseentity/
 ---
 ## CadBaseEntity class

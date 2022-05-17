@@ -3,7 +3,7 @@ title: IColorConverter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29400
+weight: 29220
 url: /net/aspose.cad/icolorconverter/
 ---
 ## IColorConverter interface

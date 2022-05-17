@@ -3,7 +3,7 @@ title: FbxImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6620
+weight: 6610
 url: /net/aspose.cad.fileformats.fbx/fbximage/
 ---
 ## FbxImage class

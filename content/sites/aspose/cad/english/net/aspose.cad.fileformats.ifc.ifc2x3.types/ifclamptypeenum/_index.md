@@ -3,7 +3,7 @@ title: IfcLampTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14640
+weight: 14630
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclamptypeenum/
 ---
 ## IfcLampTypeEnum enumeration

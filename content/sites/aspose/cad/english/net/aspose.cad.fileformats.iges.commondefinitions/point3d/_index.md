@@ -3,7 +3,7 @@ title: Point3D
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28310
+weight: 28300
 url: /net/aspose.cad.fileformats.iges.commondefinitions/point3d/
 ---
 ## Point3D structure

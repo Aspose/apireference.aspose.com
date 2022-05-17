@@ -3,7 +3,7 @@ title: IfcRelContainedInSpatialStructure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11300
+weight: 11290
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelcontainedinspatialstructure/
 ---
 ## IfcRelContainedInSpatialStructure class

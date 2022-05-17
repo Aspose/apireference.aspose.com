@@ -3,7 +3,7 @@ title: IfcPlateType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20740
+weight: 20730
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplatetype/
 ---
 ## IfcPlateType class

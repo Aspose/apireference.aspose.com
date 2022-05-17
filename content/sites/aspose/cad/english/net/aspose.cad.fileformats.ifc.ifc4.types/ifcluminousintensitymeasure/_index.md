@@ -3,7 +3,7 @@ title: IfcLuminousIntensityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26170
+weight: 26160
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcluminousintensitymeasure/
 ---
 ## IfcLuminousIntensityMeasure class

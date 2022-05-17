@@ -3,7 +3,7 @@ title: CadFillSetting
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1250
+weight: 1240
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadfillsetting/
 ---
 ## CadFillSetting enumeration

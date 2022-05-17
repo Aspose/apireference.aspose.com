@@ -3,7 +3,7 @@ title: TechniqueCommon
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5410
+weight: 5400
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniquecommon/
 ---
 ## TechniqueCommon class

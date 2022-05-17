@@ -3,7 +3,7 @@ title: InstanceJoint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4830
+weight: 4820
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancejoint/
 ---
 ## InstanceJoint class

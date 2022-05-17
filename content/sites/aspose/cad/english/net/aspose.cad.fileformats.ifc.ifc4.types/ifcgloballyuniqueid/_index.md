@@ -3,7 +3,7 @@ title: IfcGloballyUniqueId
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25740
+weight: 25730
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcgloballyuniqueid/
 ---
 ## IfcGloballyUniqueId class

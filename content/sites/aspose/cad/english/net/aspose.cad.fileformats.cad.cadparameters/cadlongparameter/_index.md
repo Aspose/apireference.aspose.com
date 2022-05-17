@@ -3,7 +3,7 @@ title: CadLongParameter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3810
+weight: 3800
 url: /net/aspose.cad.fileformats.cad.cadparameters/cadlongparameter/
 ---
 ## CadLongParameter class

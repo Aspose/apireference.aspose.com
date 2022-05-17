@@ -3,7 +3,7 @@ title: Cad3DPoint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1960
+weight: 1950
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dpoint/
 ---
 ## Cad3DPoint class

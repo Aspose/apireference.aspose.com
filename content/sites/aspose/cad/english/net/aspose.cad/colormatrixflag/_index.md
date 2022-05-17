@@ -3,7 +3,7 @@ title: ColorMatrixFlag
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 380
+weight: 370
 url: /net/aspose.cad/colormatrixflag/
 ---
 ## ColorMatrixFlag enumeration

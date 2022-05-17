@@ -3,7 +3,7 @@ title: CadAngularDimension
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2100
+weight: 2090
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadangulardimension/
 ---
 ## CadAngularDimension class

@@ -3,7 +3,7 @@ title: IfcLightDistributionDataSourceSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14700
+weight: 14690
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclightdistributiondatasourceselect/
 ---
 ## IfcLightDistributionDataSourceSelect class

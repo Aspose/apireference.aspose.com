@@ -3,7 +3,7 @@ title: CadMultiLineFlag
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1380
+weight: 1370
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadmultilineflag/
 ---
 ## CadMultiLineFlag enumeration

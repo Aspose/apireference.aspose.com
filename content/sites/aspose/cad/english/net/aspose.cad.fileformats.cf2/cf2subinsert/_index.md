@@ -3,7 +3,7 @@ title: CF2SubInsert
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1020
+weight: 1010
 url: /net/aspose.cad.fileformats.cf2/cf2subinsert/
 ---
 ## CF2SubInsert class

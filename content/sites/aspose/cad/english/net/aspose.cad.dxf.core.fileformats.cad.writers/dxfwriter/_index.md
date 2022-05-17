@@ -3,7 +3,7 @@ title: DxfWriter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 490
+weight: 480
 url: /net/aspose.cad.dxf.core.fileformats.cad.writers/dxfwriter/
 ---
 ## DxfWriter class

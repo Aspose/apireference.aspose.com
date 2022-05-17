@@ -3,7 +3,7 @@ title: IfcTransformerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16190
+weight: 16180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctransformertypeenum/
 ---
 ## IfcTransformerTypeEnum enumeration

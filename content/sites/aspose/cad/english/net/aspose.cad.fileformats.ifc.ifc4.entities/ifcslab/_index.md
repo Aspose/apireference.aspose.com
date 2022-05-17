@@ -3,7 +3,7 @@ title: IfcSlab
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22460
+weight: 22450
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcslab/
 ---
 ## IfcSlab class

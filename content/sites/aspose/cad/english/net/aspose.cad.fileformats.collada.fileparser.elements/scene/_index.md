@@ -3,7 +3,7 @@ title: Scene
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5240
+weight: 5230
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/scene/
 ---
 ## Scene class

@@ -3,7 +3,7 @@ title: IfcVertexBasedTextureMap
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12980
+weight: 12970
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexbasedtexturemap/
 ---
 ## IfcVertexBasedTextureMap class

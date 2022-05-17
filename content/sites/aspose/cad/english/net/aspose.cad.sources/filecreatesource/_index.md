@@ -3,7 +3,7 @@ title: FileCreateSource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30390
+weight: 30200
 url: /net/aspose.cad.sources/filecreatesource/
 ---
 ## FileCreateSource class

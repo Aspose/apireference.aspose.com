@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30120
+weight: 29930
 url: /net/aspose.cad/loadoptions/
 ---
 ## LoadOptions class

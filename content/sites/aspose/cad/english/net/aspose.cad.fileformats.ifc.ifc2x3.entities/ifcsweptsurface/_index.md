@@ -3,7 +3,7 @@ title: IfcSweptSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12510
+weight: 12500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptsurface/
 ---
 ## IfcSweptSurface class

@@ -3,7 +3,7 @@ title: IfcCoilType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7500
+weight: 7490
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoiltype/
 ---
 ## IfcCoilType class

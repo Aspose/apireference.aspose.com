@@ -3,7 +3,7 @@ title: XmpArrayHelper
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30970
+weight: 30740
 url: /net/aspose.cad.xmp/xmparrayhelper/
 ---
 ## XmpArrayHelper class

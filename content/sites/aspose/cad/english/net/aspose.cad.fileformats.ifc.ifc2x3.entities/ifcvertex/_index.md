@@ -3,7 +3,7 @@ title: IfcVertex
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12970
+weight: 12960
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertex/
 ---
 ## IfcVertex class

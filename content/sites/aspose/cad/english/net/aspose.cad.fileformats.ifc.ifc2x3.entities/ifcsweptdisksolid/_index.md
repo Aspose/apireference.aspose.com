@@ -3,7 +3,7 @@ title: IfcSweptDiskSolid
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12500
+weight: 12490
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptdisksolid/
 ---
 ## IfcSweptDiskSolid class

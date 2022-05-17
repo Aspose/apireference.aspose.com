@@ -3,7 +3,7 @@ title: IfcMedicalDeviceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26270
+weight: 26260
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmedicaldevicetypeenum/
 ---
 ## IfcMedicalDeviceTypeEnum enumeration

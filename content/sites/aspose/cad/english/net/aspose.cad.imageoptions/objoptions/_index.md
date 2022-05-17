@@ -3,7 +3,7 @@ title: ObjOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29780
+weight: 29590
 url: /net/aspose.cad.imageoptions/objoptions/
 ---
 ## ObjOptions class

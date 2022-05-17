@@ -3,7 +3,7 @@ title: CadAcdsRecord
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2040
+weight: 2030
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdsrecord/
 ---
 ## CadAcdsRecord class

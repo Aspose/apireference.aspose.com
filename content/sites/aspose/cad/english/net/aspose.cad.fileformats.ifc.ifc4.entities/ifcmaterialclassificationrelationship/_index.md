@@ -3,7 +3,7 @@ title: IfcMaterialClassificationRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20010
+weight: 20000
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialclassificationrelationship/
 ---
 ## IfcMaterialClassificationRelationship class

@@ -3,7 +3,7 @@ title: CadDimensionOrdinate
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2390
+weight: 2380
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionordinate/
 ---
 ## CadDimensionOrdinate class

@@ -3,7 +3,7 @@ title: FileFormat
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 800
+weight: 790
 url: /net/aspose.cad/fileformat/
 ---
 ## FileFormat enumeration

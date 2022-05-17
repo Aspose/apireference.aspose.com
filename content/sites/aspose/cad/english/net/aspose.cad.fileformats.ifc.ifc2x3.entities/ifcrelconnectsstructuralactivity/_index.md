@@ -3,7 +3,7 @@ title: IfcRelConnectsStructuralActivity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11250
+weight: 11240
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsstructuralactivity/
 ---
 ## IfcRelConnectsStructuralActivity class

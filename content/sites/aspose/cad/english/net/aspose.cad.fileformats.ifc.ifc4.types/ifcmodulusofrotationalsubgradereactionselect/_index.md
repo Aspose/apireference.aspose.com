@@ -3,7 +3,7 @@ title: IfcModulusOfRotationalSubgradeReactionSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26330
+weight: 26320
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofrotationalsubgradereactionselect/
 ---
 ## IfcModulusOfRotationalSubgradeReactionSelect class

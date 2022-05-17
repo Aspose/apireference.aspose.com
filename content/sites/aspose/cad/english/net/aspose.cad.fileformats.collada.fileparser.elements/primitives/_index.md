@@ -3,7 +3,7 @@ title: Primitives
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5160
+weight: 5150
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/primitives/
 ---
 ## Primitives class

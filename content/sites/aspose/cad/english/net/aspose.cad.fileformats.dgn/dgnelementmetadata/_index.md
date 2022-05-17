@@ -3,7 +3,7 @@ title: DgnElementMetadata
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5580
+weight: 5570
 url: /net/aspose.cad.fileformats.dgn/dgnelementmetadata/
 ---
 ## DgnElementMetadata class

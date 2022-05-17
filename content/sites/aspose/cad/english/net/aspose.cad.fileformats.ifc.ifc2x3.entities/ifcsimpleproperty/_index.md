@@ -3,7 +3,7 @@ title: IfcSimpleProperty
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11780
+weight: 11770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsimpleproperty/
 ---
 ## IfcSimpleProperty class

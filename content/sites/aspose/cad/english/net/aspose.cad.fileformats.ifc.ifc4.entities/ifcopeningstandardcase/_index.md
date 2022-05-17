@@ -3,7 +3,7 @@ title: IfcOpeningStandardCase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20420
+weight: 20410
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcopeningstandardcase/
 ---
 ## IfcOpeningStandardCase class

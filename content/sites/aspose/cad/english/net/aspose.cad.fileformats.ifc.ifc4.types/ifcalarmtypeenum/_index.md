@@ -3,7 +3,7 @@ title: IfcAlarmTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24320
+weight: 24310
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcalarmtypeenum/
 ---
 ## IfcAlarmTypeEnum enumeration

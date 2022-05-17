@@ -3,7 +3,7 @@ title: IfcVirtualGridIntersection
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13030
+weight: 13020
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvirtualgridintersection/
 ---
 ## IfcVirtualGridIntersection class

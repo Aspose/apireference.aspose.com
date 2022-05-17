@@ -3,7 +3,7 @@ title: IfcHatchLineDistanceSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14460
+weight: 14450
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifchatchlinedistanceselect/
 ---
 ## IfcHatchLineDistanceSelect class

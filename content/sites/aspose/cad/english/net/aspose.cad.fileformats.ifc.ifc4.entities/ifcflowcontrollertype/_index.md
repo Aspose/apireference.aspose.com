@@ -3,7 +3,7 @@ title: IfcFlowControllerType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19210
+weight: 19200
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowcontrollertype/
 ---
 ## IfcFlowControllerType class

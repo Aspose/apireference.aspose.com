@@ -3,7 +3,7 @@ title: TiffOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29980
+weight: 29790
 url: /net/aspose.cad.imageoptions/tiffoptions/
 ---
 ## TiffOptions class

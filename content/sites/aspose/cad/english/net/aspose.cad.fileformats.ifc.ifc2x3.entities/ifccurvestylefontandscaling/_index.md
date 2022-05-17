@@ -3,7 +3,7 @@ title: IfcCurveStyleFontAndScaling
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8030
+weight: 8020
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefontandscaling/
 ---
 ## IfcCurveStyleFontAndScaling class

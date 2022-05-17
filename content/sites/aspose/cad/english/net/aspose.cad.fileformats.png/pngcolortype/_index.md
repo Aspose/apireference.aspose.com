@@ -3,7 +3,7 @@ title: PngColorType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28760
+weight: 28600
 url: /net/aspose.cad.fileformats.png/pngcolortype/
 ---
 ## PngColorType enumeration

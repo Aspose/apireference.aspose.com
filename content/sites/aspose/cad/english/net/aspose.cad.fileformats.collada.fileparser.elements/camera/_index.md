@@ -3,7 +3,7 @@ title: Camera
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4310
+weight: 4300
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/camera/
 ---
 ## Camera class

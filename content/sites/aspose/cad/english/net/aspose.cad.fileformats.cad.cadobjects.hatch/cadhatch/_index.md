@@ -3,7 +3,7 @@ title: CadHatch
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3340
+weight: 3330
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/
 ---
 ## CadHatch class

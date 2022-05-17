@@ -3,7 +3,7 @@ title: IfcColourRgbList
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17460
+weight: 17450
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist/
 ---
 ## IfcColourRgbList class

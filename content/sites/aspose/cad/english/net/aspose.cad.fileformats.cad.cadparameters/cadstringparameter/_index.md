@@ -3,7 +3,7 @@ title: CadStringParameter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3850
+weight: 3840
 url: /net/aspose.cad.fileformats.cad.cadparameters/cadstringparameter/
 ---
 ## CadStringParameter class

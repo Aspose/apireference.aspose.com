@@ -3,7 +3,7 @@ title: GaussWienerFilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29580
+weight: 29390
 url: /net/aspose.cad.imagefilters.filteroptions/gausswienerfilteroptions/
 ---
 ## GaussWienerFilterOptions class

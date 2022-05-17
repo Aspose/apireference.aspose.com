@@ -3,7 +3,7 @@ title: ResourceEvent
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30830
+weight: 30600
 url: /net/aspose.cad.xmp.types.complex.resourceevent/resourceevent/
 ---
 ## ResourceEvent class

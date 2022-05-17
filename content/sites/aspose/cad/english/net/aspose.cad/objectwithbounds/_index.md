@@ -3,7 +3,7 @@ title: ObjectWithBounds
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30200
+weight: 30010
 url: /net/aspose.cad/objectwithbounds/
 ---
 ## ObjectWithBounds class

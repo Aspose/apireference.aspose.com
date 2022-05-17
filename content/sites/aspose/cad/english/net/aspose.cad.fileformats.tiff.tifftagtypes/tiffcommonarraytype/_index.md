@@ -3,7 +3,7 @@ title: TiffCommonArrayType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29210
+weight: 29050
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffcommonarraytype/
 ---
 ## TiffCommonArrayType class

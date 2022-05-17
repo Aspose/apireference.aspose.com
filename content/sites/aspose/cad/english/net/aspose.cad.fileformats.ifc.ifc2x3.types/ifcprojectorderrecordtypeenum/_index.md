@@ -3,7 +3,7 @@ title: IfcProjectOrderRecordTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15340
+weight: 15330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcprojectorderrecordtypeenum/
 ---
 ## IfcProjectOrderRecordTypeEnum enumeration

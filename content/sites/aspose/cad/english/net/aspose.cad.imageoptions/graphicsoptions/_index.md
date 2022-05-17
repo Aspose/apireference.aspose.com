@@ -3,7 +3,7 @@ title: GraphicsOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29720
+weight: 29530
 url: /net/aspose.cad.imageoptions/graphicsoptions/
 ---
 ## GraphicsOptions class

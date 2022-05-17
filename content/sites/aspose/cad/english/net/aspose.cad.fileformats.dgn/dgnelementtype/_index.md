@@ -3,7 +3,7 @@ title: DgnElementType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5610
+weight: 5600
 url: /net/aspose.cad.fileformats.dgn/dgnelementtype/
 ---
 ## DgnElementType enumeration

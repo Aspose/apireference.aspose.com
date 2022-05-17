@@ -3,7 +3,7 @@ title: CadDimensionBaseR12
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2380
+weight: 2370
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbaser12/
 ---
 ## CadDimensionBaseR12 class

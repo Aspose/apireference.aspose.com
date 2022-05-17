@@ -3,7 +3,7 @@ title: IfcCsgPrimitive3D
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18000
+weight: 17990
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccsgprimitive3d/
 ---
 ## IfcCsgPrimitive3D class

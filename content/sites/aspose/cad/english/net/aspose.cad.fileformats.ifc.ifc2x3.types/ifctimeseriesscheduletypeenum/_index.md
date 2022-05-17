@@ -3,7 +3,7 @@ title: IfcTimeSeriesScheduleTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16160
+weight: 16150
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctimeseriesscheduletypeenum/
 ---
 ## IfcTimeSeriesScheduleTypeEnum enumeration

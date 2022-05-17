@@ -3,7 +3,7 @@ title: Brep
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4300
+weight: 4290
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/brep/
 ---
 ## Brep class

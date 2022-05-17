@@ -3,7 +3,7 @@ title: IfcRotationalStiffnessMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15550
+weight: 15540
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcrotationalstiffnessmeasure/
 ---
 ## IfcRotationalStiffnessMeasure class

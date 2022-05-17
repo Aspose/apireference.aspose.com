@@ -3,7 +3,7 @@ title: DgnSymbologyLevelElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5880
+weight: 5870
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsymbologylevelelement/
 ---
 ## DgnSymbologyLevelElement class

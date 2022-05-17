@@ -3,7 +3,7 @@ title: ResourceBlock.ResourceBlockState
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28810
+weight: 28650
 url: /net/aspose.cad.fileformats.psd/resourceblock.resourceblockstate/
 ---
 ## ResourceBlock.ResourceBlockState enumeration

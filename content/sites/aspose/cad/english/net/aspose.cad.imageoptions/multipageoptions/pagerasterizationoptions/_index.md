@@ -9,7 +9,7 @@ url: /net/aspose.cad.imageoptions/multipageoptions/pagerasterizationoptions/
 ## MultiPageOptions.PageRasterizationOptions property
 
 ```csharp
-public [] PageRasterizationOptions { get; set; }
+public   [] PageRasterizationOptions { get; set; }
 ```
 
 ### See Also

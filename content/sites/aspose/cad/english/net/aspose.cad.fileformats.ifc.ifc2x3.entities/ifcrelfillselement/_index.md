@@ -3,7 +3,7 @@ title: IfcRelFillsElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11370
+weight: 11360
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelfillselement/
 ---
 ## IfcRelFillsElement class

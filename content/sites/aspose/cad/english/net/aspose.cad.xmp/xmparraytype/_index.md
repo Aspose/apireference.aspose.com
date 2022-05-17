@@ -3,7 +3,7 @@ title: XmpArrayType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30980
+weight: 30750
 url: /net/aspose.cad.xmp/xmparraytype/
 ---
 ## XmpArrayType enumeration

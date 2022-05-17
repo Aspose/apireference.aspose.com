@@ -3,7 +3,7 @@ title: CadShape
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2930
+weight: 2920
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadshape/
 ---
 ## CadShape class

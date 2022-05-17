@@ -3,7 +3,7 @@ title: IfcBooleanOperator
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24540
+weight: 24530
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbooleanoperator/
 ---
 ## IfcBooleanOperator enumeration

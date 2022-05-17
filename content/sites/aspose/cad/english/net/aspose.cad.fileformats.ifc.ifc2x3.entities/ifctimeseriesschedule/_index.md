@@ -3,7 +3,7 @@ title: IfcTimeSeriesSchedule
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12790
+weight: 12780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseriesschedule/
 ---
 ## IfcTimeSeriesSchedule class

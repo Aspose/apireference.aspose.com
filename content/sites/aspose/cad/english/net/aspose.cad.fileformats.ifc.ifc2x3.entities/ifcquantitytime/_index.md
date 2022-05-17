@@ -3,7 +3,7 @@ title: IfcQuantityTime
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10800
+weight: 10790
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcquantitytime/
 ---
 ## IfcQuantityTime class

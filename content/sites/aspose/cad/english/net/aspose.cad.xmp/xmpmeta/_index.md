@@ -3,7 +3,7 @@ title: XmpMeta
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 31010
+weight: 30780
 url: /net/aspose.cad.xmp/xmpmeta/
 ---
 ## XmpMeta class

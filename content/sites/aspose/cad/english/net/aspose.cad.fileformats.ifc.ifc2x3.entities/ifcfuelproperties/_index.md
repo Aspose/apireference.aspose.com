@@ -3,7 +3,7 @@ title: IfcFuelProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9220
+weight: 9210
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/
 ---
 ## IfcFuelProperties class

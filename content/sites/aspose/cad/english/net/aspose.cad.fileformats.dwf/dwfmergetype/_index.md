@@ -3,7 +3,7 @@ title: DwfMergeType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6110
+weight: 6100
 url: /net/aspose.cad.fileformats.dwf/dwfmergetype/
 ---
 ## DwfMergeType enumeration

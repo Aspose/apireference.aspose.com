@@ -3,7 +3,7 @@ title: WmfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30030
+weight: 29840
 url: /net/aspose.cad.imageoptions/wmfoptions/
 ---
 ## WmfOptions class

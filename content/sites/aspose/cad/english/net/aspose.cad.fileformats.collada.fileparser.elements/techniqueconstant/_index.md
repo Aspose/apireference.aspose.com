@@ -3,7 +3,7 @@ title: TechniqueConstant
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5420
+weight: 5410
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/
 ---
 ## TechniqueConstant class

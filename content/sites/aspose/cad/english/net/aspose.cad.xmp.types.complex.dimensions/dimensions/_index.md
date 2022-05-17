@@ -3,7 +3,7 @@ title: Dimensions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30810
+weight: 30580
 url: /net/aspose.cad.xmp.types.complex.dimensions/dimensions/
 ---
 ## Dimensions class

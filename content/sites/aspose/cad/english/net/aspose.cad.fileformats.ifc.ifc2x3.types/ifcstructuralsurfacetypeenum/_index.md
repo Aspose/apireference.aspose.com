@@ -3,7 +3,7 @@ title: IfcStructuralSurfaceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15880
+weight: 15870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcstructuralsurfacetypeenum/
 ---
 ## IfcStructuralSurfaceTypeEnum enumeration

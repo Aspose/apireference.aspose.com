@@ -3,7 +3,7 @@ title: SvgColorMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29960
+weight: 29770
 url: /net/aspose.cad.imageoptions.svgoptionsparameters/svgcolormode/
 ---
 ## SvgColorMode enumeration

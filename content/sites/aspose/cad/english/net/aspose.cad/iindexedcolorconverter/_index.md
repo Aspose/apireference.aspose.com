@@ -3,7 +3,7 @@ title: IIndexedColorConverter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29430
+weight: 29250
 url: /net/aspose.cad/iindexedcolorconverter/
 ---
 ## IIndexedColorConverter interface

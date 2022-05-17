@@ -3,7 +3,7 @@ title: CifReplacingEncoderFallbackBuffer
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 320
+weight: 310
 url: /net/aspose.cad/cifreplacingencoderfallbackbuffer/
 ---
 ## CifReplacingEncoderFallbackBuffer class

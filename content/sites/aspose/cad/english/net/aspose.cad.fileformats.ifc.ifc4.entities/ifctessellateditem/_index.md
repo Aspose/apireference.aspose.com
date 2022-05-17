@@ -3,7 +3,7 @@ title: IfcTessellatedItem
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23540
+weight: 23530
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctessellateditem/
 ---
 ## IfcTessellatedItem class

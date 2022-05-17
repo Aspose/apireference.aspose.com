@@ -3,7 +3,7 @@ title: IfcLoop
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9670
+weight: 9660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcloop/
 ---
 ## IfcLoop class

@@ -3,7 +3,7 @@ title: NonGenericList
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30190
+weight: 30000
 url: /net/aspose.cad/nongenericlist/
 ---
 ## NonGenericList class

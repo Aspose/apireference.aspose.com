@@ -3,7 +3,7 @@ title: DgnCoreElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5690
+weight: 5680
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncoreelement/
 ---
 ## DgnCoreElement class

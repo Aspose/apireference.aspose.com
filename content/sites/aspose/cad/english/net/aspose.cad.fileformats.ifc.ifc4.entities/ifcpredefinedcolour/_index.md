@@ -3,7 +3,7 @@ title: IfcPreDefinedColour
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20840
+weight: 20830
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefinedcolour/
 ---
 ## IfcPreDefinedColour class

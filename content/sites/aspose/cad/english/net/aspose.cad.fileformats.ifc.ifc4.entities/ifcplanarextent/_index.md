@@ -3,7 +3,7 @@ title: IfcPlanarExtent
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20700
+weight: 20690
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplanarextent/
 ---
 ## IfcPlanarExtent class

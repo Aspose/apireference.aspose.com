@@ -3,7 +3,7 @@ title: DxfBoolAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4100
+weight: 4090
 url: /net/aspose.cad.fileformats.cad/dxfboolattribute/
 ---
 ## DxfBoolAttribute class

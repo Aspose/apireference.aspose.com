@@ -3,7 +3,7 @@ title: IfcCompositeCurveOnSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17560
+weight: 17550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/
 ---
 ## IfcCompositeCurveOnSurface class

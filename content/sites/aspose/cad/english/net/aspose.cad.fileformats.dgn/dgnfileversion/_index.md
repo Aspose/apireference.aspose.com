@@ -3,7 +3,7 @@ title: DgnFileVersion
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5960
+weight: 5950
 url: /net/aspose.cad.fileformats.dgn/dgnfileversion/
 ---
 ## DgnFileVersion enumeration

@@ -3,7 +3,7 @@ title: CadCircle
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2270
+weight: 2260
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcircle/
 ---
 ## CadCircle class

@@ -3,7 +3,7 @@ title: IfcNamedUnit
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20320
+weight: 20310
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/
 ---
 ## IfcNamedUnit class

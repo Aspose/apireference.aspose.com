@@ -3,7 +3,7 @@ title: IfcSectionalAreaIntegralMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15620
+weight: 15610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsectionalareaintegralmeasure/
 ---
 ## IfcSectionalAreaIntegralMeasure class

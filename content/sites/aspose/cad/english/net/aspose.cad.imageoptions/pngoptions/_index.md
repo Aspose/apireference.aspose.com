@@ -3,7 +3,7 @@ title: PngOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29850
+weight: 29660
 url: /net/aspose.cad.imageoptions/pngoptions/
 ---
 ## PngOptions class

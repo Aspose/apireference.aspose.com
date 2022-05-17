@@ -3,7 +3,7 @@ title: Triangles
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5500
+weight: 5490
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/triangles/
 ---
 ## Triangles class

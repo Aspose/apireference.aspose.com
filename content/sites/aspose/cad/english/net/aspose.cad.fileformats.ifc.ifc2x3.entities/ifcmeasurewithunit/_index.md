@@ -3,7 +3,7 @@ title: IfcMeasureWithUnit
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9780
+weight: 9770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmeasurewithunit/
 ---
 ## IfcMeasureWithUnit class

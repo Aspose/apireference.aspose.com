@@ -3,7 +3,7 @@ title: IfcPresentationLayerAssignment
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20910
+weight: 20900
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/
 ---
 ## IfcPresentationLayerAssignment class

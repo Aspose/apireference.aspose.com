@@ -3,7 +3,7 @@ title: SweptSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5350
+weight: 5340
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/
 ---
 ## SweptSurface class

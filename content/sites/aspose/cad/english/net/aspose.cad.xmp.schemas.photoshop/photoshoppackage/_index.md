@@ -3,7 +3,7 @@ title: PhotoshopPackage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30570
+weight: 30340
 url: /net/aspose.cad.xmp.schemas.photoshop/photoshoppackage/
 ---
 ## PhotoshopPackage class

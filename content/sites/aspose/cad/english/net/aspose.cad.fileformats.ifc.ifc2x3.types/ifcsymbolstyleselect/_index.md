@@ -3,7 +3,7 @@ title: IfcSymbolStyleSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15940
+weight: 15930
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsymbolstyleselect/
 ---
 ## IfcSymbolStyleSelect class

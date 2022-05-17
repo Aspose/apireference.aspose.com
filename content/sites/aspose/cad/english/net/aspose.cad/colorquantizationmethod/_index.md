@@ -3,7 +3,7 @@ title: ColorQuantizationMethod
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 410
+weight: 400
 url: /net/aspose.cad/colorquantizationmethod/
 ---
 ## ColorQuantizationMethod enumeration

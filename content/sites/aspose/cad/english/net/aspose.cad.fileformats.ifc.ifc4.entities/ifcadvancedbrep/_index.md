@@ -3,7 +3,7 @@ title: IfcAdvancedBrep
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16510
+weight: 16500
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrep/
 ---
 ## IfcAdvancedBrep class

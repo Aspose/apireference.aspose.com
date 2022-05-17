@@ -3,7 +3,7 @@ title: IfcAppliedValue
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6860
+weight: 6850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/
 ---
 ## IfcAppliedValue class

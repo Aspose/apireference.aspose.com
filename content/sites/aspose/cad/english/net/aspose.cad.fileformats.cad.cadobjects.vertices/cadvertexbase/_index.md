@@ -3,7 +3,7 @@ title: CadVertexBase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3720
+weight: 3710
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/
 ---
 ## CadVertexBase class

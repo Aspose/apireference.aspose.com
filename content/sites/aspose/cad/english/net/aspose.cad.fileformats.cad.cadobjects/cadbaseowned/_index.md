@@ -3,7 +3,7 @@ title: CadBaseOwned
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2200
+weight: 2190
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned/
 ---
 ## CadBaseOwned class

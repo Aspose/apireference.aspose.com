@@ -3,7 +3,7 @@ title: IfcActionSourceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13200
+weight: 13190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcactionsourcetypeenum/
 ---
 ## IfcActionSourceTypeEnum enumeration

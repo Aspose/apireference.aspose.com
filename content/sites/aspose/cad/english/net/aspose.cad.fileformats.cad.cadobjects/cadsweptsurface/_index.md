@@ -3,7 +3,7 @@ title: CadSweptSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3020
+weight: 3010
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/
 ---
 ## CadSweptSurface class

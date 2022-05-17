@@ -3,7 +3,7 @@ title: DwfWhipObject
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6430
+weight: 6420
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/
 ---
 ## DwfWhipObject class

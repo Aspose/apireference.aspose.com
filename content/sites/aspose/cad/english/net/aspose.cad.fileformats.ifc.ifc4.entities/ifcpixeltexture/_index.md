@@ -3,7 +3,7 @@ title: IfcPixelTexture
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20670
+weight: 20660
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpixeltexture/
 ---
 ## IfcPixelTexture class

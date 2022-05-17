@@ -3,7 +3,7 @@ title: IfcApplication
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6850
+weight: 6840
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapplication/
 ---
 ## IfcApplication class

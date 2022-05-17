@@ -3,7 +3,7 @@ title: EvaluateScene
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4610
+weight: 4600
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/evaluatescene/
 ---
 ## EvaluateScene class

@@ -3,7 +3,7 @@ title: CadDgnDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3630
+weight: 3620
 url: /net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/caddgndefinition/
 ---
 ## CadDgnDefinition class

@@ -3,7 +3,7 @@ title: ColladaElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4380
+weight: 4370
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/colladaelement/
 ---
 ## ColladaElement class

@@ -3,7 +3,7 @@ title: Bind
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4260
+weight: 4250
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/bind/
 ---
 ## Bind class

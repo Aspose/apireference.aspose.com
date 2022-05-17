@@ -3,7 +3,7 @@ title: IfcBlock
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16860
+weight: 16850
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcblock/
 ---
 ## IfcBlock class

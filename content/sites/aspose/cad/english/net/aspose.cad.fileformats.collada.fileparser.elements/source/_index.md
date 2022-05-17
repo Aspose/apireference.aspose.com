@@ -3,7 +3,7 @@ title: Source
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5290
+weight: 5280
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/source/
 ---
 ## Source class

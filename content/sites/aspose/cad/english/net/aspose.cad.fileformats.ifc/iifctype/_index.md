@@ -3,7 +3,7 @@ title: IIfcType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28210
+weight: 28200
 url: /net/aspose.cad.fileformats.ifc/iifctype/
 ---
 ## IIfcType interface

@@ -3,7 +3,7 @@ title: IfcWall
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13040
+weight: 13030
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwall/
 ---
 ## IfcWall class

@@ -3,7 +3,7 @@ title: IfcVolumetricFlowRateMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28030
+weight: 28020
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcvolumetricflowratemeasure/
 ---
 ## IfcVolumetricFlowRateMeasure class

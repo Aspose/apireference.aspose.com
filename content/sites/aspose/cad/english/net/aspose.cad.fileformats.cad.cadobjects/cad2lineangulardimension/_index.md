@@ -3,7 +3,7 @@ title: Cad2LineAngularDimension
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1940
+weight: 1930
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/
 ---
 ## Cad2LineAngularDimension class

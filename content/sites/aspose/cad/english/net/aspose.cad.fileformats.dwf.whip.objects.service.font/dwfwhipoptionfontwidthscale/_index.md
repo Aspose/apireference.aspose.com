@@ -3,7 +3,7 @@ title: DwfWhipOptionFontWidthScale
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6600
+weight: 6590
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontwidthscale/
 ---
 ## DwfWhipOptionFontWidthScale class

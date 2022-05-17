@@ -3,7 +3,7 @@ title: CadBoundaryPathSpline
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3320
+weight: 3310
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/
 ---
 ## CadBoundaryPathSpline class

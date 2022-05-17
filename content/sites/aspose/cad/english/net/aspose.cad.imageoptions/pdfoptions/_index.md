@@ -3,7 +3,7 @@ title: PdfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29830
+weight: 29640
 url: /net/aspose.cad.imageoptions/pdfoptions/
 ---
 ## PdfOptions class

@@ -3,7 +3,7 @@ title: ColorPalette
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 390
+weight: 380
 url: /net/aspose.cad/colorpalette/
 ---
 ## ColorPalette class

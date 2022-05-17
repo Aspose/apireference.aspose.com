@@ -3,7 +3,7 @@ title: IfcQuantitySet
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21340
+weight: 21330
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityset/
 ---
 ## IfcQuantitySet class

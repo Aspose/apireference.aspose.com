@@ -3,7 +3,7 @@ title: IfcDraughtingCallout
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8380
+weight: 8370
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcallout/
 ---
 ## IfcDraughtingCallout class

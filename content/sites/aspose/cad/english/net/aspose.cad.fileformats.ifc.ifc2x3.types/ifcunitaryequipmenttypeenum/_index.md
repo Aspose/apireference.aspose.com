@@ -3,7 +3,7 @@ title: IfcUnitaryEquipmentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16270
+weight: 16260
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcunitaryequipmenttypeenum/
 ---
 ## IfcUnitaryEquipmentTypeEnum enumeration

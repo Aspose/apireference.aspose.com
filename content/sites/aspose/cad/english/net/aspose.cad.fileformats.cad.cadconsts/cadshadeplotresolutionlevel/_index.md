@@ -3,7 +3,7 @@ title: CadShadePlotResolutionLevel
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1500
+weight: 1490
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotresolutionlevel/
 ---
 ## CadShadePlotResolutionLevel enumeration

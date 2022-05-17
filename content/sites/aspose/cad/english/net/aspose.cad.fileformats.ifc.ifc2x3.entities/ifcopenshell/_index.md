@@ -3,7 +3,7 @@ title: IfcOpenShell
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9990
+weight: 9980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopenshell/
 ---
 ## IfcOpenShell class

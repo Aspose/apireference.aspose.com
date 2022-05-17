@@ -3,7 +3,7 @@ title: IfcRelAssociatesApproval
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21710
+weight: 21700
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesapproval/
 ---
 ## IfcRelAssociatesApproval class

@@ -3,7 +3,7 @@ title: IfcRelAssignsToGroup
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21650
+weight: 21640
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstogroup/
 ---
 ## IfcRelAssignsToGroup class

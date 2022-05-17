@@ -3,7 +3,7 @@ title: IfcUnitaryControlElementType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23880
+weight: 23870
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcunitarycontrolelementtype/
 ---
 ## IfcUnitaryControlElementType class

@@ -3,7 +3,7 @@ title: IfcLinearDimension
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9640
+weight: 9630
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclineardimension/
 ---
 ## IfcLinearDimension class

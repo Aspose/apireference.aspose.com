@@ -3,7 +3,7 @@ title: IfcChimneyTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24670
+weight: 24660
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcchimneytypeenum/
 ---
 ## IfcChimneyTypeEnum enumeration

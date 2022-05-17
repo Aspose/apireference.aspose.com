@@ -3,7 +3,7 @@ title: Size
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30350
+weight: 30160
 url: /net/aspose.cad/size/
 ---
 ## Size structure

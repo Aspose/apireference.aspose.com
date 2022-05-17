@@ -3,7 +3,7 @@ title: IfcSolidOrShell
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27280
+weight: 27270
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsolidorshell/
 ---
 ## IfcSolidOrShell class

@@ -3,7 +3,7 @@ title: CadPlaneSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2790
+weight: 2780
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadplanesurface/
 ---
 ## CadPlaneSurface class

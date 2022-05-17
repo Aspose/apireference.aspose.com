@@ -3,7 +3,7 @@ title: DwfWhipContourSet
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6180
+weight: 6170
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipcontourset/
 ---
 ## DwfWhipContourSet class

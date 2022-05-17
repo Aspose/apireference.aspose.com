@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30150
+weight: 29960
 url: /net/aspose.cad/metered/
 ---
 ## Metered class

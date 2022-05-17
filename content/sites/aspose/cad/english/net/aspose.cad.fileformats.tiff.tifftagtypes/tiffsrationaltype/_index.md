@@ -3,7 +3,7 @@ title: TiffSRationalType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29290
+weight: 29130
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffsrationaltype/
 ---
 ## TiffSRationalType class

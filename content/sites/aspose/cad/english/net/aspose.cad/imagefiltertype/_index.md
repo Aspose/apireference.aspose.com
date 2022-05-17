@@ -3,7 +3,7 @@ title: ImageFilterType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29540
+weight: 29350
 url: /net/aspose.cad/imagefiltertype/
 ---
 ## ImageFilterType enumeration

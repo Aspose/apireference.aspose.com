@@ -3,7 +3,7 @@ title: IdRefArray
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4760
+weight: 4750
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/idrefarray/
 ---
 ## IdRefArray class

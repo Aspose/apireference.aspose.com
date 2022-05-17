@@ -3,7 +3,7 @@ title: IfcStructuralActivity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11990
+weight: 11980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralactivity/
 ---
 ## IfcStructuralActivity class

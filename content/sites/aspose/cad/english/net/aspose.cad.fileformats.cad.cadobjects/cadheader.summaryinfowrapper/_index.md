@@ -3,7 +3,7 @@ title: CadHeader.SummaryInfoWrapper
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2500
+weight: 2490
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader.summaryinfowrapper/
 ---
 ## CadHeader.SummaryInfoWrapper class

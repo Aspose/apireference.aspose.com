@@ -3,7 +3,7 @@ title: IfcAlarmType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6740
+weight: 6730
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcalarmtype/
 ---
 ## IfcAlarmType class

@@ -3,7 +3,7 @@ title: IfcQuantityArea
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10770
+weight: 10760
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcquantityarea/
 ---
 ## IfcQuantityArea class

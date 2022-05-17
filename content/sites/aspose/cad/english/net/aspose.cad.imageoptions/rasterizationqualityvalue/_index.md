@@ -3,7 +3,7 @@ title: RasterizationQualityValue
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29880
+weight: 29690
 url: /net/aspose.cad.imageoptions/rasterizationqualityvalue/
 ---
 ## RasterizationQualityValue enumeration

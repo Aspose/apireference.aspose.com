@@ -3,7 +3,7 @@ title: IfcMaterialDefinitionRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9720
+weight: 9710
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialdefinitionrepresentation/
 ---
 ## IfcMaterialDefinitionRepresentation class

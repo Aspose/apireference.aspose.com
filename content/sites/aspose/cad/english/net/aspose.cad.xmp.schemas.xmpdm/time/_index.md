@@ -3,7 +3,7 @@ title: Time
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30630
+weight: 30400
 url: /net/aspose.cad.xmp.schemas.xmpdm/time/
 ---
 ## Time class

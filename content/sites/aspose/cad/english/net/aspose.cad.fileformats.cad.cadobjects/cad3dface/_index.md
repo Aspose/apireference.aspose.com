@@ -3,7 +3,7 @@ title: Cad3DFace
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1950
+weight: 1940
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dface/
 ---
 ## Cad3DFace class

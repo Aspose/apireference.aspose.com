@@ -3,7 +3,7 @@ title: IfcLine
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19940
+weight: 19930
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcline/
 ---
 ## IfcLine class

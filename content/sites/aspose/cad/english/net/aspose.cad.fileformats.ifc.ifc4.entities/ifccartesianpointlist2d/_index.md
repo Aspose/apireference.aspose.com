@@ -3,7 +3,7 @@ title: IfcCartesianPointList2D
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17230
+weight: 17220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesianpointlist2d/
 ---
 ## IfcCartesianPointList2D class

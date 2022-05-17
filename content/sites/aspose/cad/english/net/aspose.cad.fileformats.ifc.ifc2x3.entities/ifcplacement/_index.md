@@ -3,7 +3,7 @@ title: IfcPlacement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10220
+weight: 10210
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcplacement/
 ---
 ## IfcPlacement class

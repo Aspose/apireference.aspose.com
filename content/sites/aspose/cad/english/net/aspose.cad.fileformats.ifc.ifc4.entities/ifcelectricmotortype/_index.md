@@ -3,7 +3,7 @@ title: IfcElectricMotorType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18620
+weight: 18610
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelectricmotortype/
 ---
 ## IfcElectricMotorType class

@@ -3,7 +3,7 @@ title: InstanceCamera
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4790
+weight: 4780
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancecamera/
 ---
 ## InstanceCamera class

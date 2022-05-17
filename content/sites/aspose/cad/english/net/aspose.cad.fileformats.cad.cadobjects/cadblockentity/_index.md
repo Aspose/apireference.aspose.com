@@ -3,7 +3,7 @@ title: CadBlockEntity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2210
+weight: 2200
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/
 ---
 ## CadBlockEntity class

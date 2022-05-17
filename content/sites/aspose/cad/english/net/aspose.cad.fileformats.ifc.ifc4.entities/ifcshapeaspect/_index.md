@@ -3,7 +3,7 @@ title: IfcShapeAspect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22390
+weight: 22380
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcshapeaspect/
 ---
 ## IfcShapeAspect class

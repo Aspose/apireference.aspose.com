@@ -3,7 +3,7 @@ title: IfcRelDefinesByType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21950
+weight: 21940
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreldefinesbytype/
 ---
 ## IfcRelDefinesByType class

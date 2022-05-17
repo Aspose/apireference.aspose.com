@@ -3,7 +3,7 @@ title: CadBody
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2220
+weight: 2210
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbody/
 ---
 ## CadBody class

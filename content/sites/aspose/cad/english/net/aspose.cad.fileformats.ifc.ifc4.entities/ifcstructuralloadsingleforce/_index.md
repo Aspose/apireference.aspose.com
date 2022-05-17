@@ -3,7 +3,7 @@ title: IfcStructuralLoadSingleForce
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22930
+weight: 22920
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/
 ---
 ## IfcStructuralLoadSingleForce class

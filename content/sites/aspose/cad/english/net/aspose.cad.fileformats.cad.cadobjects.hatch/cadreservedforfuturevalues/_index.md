@@ -3,7 +3,7 @@ title: CadReservedForFutureValues
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3380
+weight: 3370
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/
 ---
 ## CadReservedForFutureValues class

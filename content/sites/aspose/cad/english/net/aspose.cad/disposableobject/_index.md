@@ -3,7 +3,7 @@ title: DisposableObject
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 450
+weight: 440
 url: /net/aspose.cad/disposableobject/
 ---
 ## DisposableObject class

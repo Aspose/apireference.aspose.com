@@ -3,7 +3,7 @@ title: IfcReinforcingBar
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21550
+weight: 21540
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbar/
 ---
 ## IfcReinforcingBar class

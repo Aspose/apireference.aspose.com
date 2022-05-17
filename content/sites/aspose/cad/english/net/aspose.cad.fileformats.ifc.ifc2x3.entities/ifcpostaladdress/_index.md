@@ -3,7 +3,7 @@ title: IfcPostalAddress
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10350
+weight: 10340
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/
 ---
 ## IfcPostalAddress class

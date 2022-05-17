@@ -3,7 +3,7 @@ title: IfcTextureVertexList
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23650
+weight: 23640
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertexlist/
 ---
 ## IfcTextureVertexList class

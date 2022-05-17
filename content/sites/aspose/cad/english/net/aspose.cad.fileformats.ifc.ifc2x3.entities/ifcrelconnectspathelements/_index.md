@@ -3,7 +3,7 @@ title: IfcRelConnectsPathElements
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11220
+weight: 11210
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/
 ---
 ## IfcRelConnectsPathElements class

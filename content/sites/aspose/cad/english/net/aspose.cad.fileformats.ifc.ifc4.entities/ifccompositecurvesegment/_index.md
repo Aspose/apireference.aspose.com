@@ -3,7 +3,7 @@ title: IfcCompositeCurveSegment
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17570
+weight: 17560
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurvesegment/
 ---
 ## IfcCompositeCurveSegment class

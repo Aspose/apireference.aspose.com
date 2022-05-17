@@ -3,7 +3,7 @@ title: IfcFurnitureTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25690
+weight: 25680
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfurnituretypeenum/
 ---
 ## IfcFurnitureTypeEnum enumeration

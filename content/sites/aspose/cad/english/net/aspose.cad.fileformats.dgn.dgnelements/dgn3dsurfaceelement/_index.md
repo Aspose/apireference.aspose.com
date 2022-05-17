@@ -3,7 +3,7 @@ title: Dgn3DSurfaceElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5620
+weight: 5610
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/
 ---
 ## Dgn3DSurfaceElement class

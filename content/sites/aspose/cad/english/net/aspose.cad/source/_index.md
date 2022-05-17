@@ -3,7 +3,7 @@ title: Source
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30380
+weight: 30190
 url: /net/aspose.cad/source/
 ---
 ## Source class

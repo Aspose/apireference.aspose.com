@@ -3,7 +3,7 @@ title: IfcCommunicationsApplianceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24740
+weight: 24730
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccommunicationsappliancetypeenum/
 ---
 ## IfcCommunicationsApplianceTypeEnum enumeration

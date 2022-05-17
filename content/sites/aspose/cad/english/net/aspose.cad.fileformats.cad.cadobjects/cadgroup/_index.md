@@ -3,7 +3,7 @@ title: CadGroup
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2480
+weight: 2470
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadgroup/
 ---
 ## CadGroup class

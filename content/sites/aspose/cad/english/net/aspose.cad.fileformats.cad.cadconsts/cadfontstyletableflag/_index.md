@@ -3,7 +3,7 @@ title: CadFontStyleTableFlag
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1260
+weight: 1250
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadfontstyletableflag/
 ---
 ## CadFontStyleTableFlag enumeration

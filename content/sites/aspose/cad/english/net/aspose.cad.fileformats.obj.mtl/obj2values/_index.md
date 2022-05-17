@@ -3,7 +3,7 @@ title: Obj2Values
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28490
+weight: 28480
 url: /net/aspose.cad.fileformats.obj.mtl/obj2values/
 ---
 ## Obj2Values class

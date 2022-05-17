@@ -3,7 +3,7 @@ title: IfcSpecificHeatCapacityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15780
+weight: 15770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcspecificheatcapacitymeasure/
 ---
 ## IfcSpecificHeatCapacityMeasure class

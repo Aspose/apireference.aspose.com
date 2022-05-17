@@ -3,7 +3,7 @@ title: IfcSurfaceStyleRefraction
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12440
+weight: 12430
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerefraction/
 ---
 ## IfcSurfaceStyleRefraction class

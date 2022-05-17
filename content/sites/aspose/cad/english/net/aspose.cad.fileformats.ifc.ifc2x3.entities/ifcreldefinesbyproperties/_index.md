@@ -3,7 +3,7 @@ title: IfcRelDefinesByProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11350
+weight: 11340
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreldefinesbyproperties/
 ---
 ## IfcRelDefinesByProperties class

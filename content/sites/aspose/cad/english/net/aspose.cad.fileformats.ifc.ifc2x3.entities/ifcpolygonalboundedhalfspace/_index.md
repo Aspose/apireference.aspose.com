@@ -3,7 +3,7 @@ title: IfcPolygonalBoundedHalfSpace
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10320
+weight: 10310
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpolygonalboundedhalfspace/
 ---
 ## IfcPolygonalBoundedHalfSpace class

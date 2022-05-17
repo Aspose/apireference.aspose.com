@@ -3,7 +3,7 @@ title: IfcActuatorType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16490
+weight: 16480
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactuatortype/
 ---
 ## IfcActuatorType class

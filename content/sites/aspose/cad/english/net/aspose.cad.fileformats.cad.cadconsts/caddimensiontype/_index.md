@@ -3,7 +3,7 @@ title: CadDimensionType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1200
+weight: 1190
 url: /net/aspose.cad.fileformats.cad.cadconsts/caddimensiontype/
 ---
 ## CadDimensionType enumeration

@@ -3,7 +3,7 @@ title: IfcSystem
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12540
+weight: 12530
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsystem/
 ---
 ## IfcSystem class

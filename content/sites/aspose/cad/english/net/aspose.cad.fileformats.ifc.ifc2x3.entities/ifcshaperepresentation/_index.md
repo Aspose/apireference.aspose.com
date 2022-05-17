@@ -3,7 +3,7 @@ title: IfcShapeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11760
+weight: 11750
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshaperepresentation/
 ---
 ## IfcShapeRepresentation class

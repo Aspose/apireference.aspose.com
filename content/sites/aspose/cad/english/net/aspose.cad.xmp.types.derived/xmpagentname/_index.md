@@ -3,7 +3,7 @@ title: XmpAgentName
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30890
+weight: 30660
 url: /net/aspose.cad.xmp.types.derived/xmpagentname/
 ---
 ## XmpAgentName class

@@ -3,7 +3,7 @@ title: ITiffTagCreator
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29130
+weight: 28970
 url: /net/aspose.cad.fileformats.tiff.instancefactory/itifftagcreator/
 ---
 ## ITiffTagCreator interface

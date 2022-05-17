@@ -3,7 +3,7 @@ title: Trifans
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5510
+weight: 5500
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/trifans/
 ---
 ## Trifans class

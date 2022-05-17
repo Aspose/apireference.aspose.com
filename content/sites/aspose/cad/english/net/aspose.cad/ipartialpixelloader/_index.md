@@ -3,7 +3,7 @@ title: IPartialPixelLoader
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29470
+weight: 29280
 url: /net/aspose.cad/ipartialpixelloader/
 ---
 ## IPartialPixelLoader interface

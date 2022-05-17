@@ -3,7 +3,7 @@ title: IfcCoolingTowerType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17900
+weight: 17890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoolingtowertype/
 ---
 ## IfcCoolingTowerType class

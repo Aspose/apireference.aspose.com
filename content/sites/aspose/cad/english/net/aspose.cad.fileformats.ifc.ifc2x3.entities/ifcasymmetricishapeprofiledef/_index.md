@@ -3,7 +3,7 @@ title: IfcAsymmetricIShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6960
+weight: 6950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasymmetricishapeprofiledef/
 ---
 ## IfcAsymmetricIShapeProfileDef class

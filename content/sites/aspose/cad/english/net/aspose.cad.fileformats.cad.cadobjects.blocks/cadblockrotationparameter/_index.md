@@ -3,7 +3,7 @@ title: CadBlockRotationParameter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1860
+weight: 1850
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotationparameter/
 ---
 ## CadBlockRotationParameter class

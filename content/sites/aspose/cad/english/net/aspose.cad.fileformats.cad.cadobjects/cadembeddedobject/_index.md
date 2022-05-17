@@ -3,7 +3,7 @@ title: CadEmbeddedObject
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2420
+weight: 2410
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/
 ---
 ## CadEmbeddedObject class

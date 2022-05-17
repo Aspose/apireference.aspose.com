@@ -3,7 +3,7 @@ title: IfcFlowMeter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19260
+weight: 19250
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/
 ---
 ## IfcFlowMeter class

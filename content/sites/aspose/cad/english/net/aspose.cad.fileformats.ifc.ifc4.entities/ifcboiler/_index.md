@@ -3,7 +3,7 @@ title: IfcBoiler
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16870
+weight: 16860
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboiler/
 ---
 ## IfcBoiler class

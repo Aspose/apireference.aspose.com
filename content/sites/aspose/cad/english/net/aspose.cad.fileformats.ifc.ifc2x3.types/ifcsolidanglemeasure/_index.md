@@ -3,7 +3,7 @@ title: IfcSolidAngleMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15720
+weight: 15710
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsolidanglemeasure/
 ---
 ## IfcSolidAngleMeasure class

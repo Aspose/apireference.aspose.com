@@ -3,7 +3,7 @@ title: TechniqueLambert
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5440
+weight: 5430
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/
 ---
 ## TechniqueLambert class

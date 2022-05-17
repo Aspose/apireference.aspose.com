@@ -3,7 +3,7 @@ title: DwgVersionWriter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4020
+weight: 4010
 url: /net/aspose.cad.fileformats.cad.dwg/dwgversionwriter/
 ---
 ## DwgVersionWriter class

@@ -3,7 +3,7 @@ title: MifCodePages
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30170
+weight: 29980
 url: /net/aspose.cad/mifcodepages/
 ---
 ## MifCodePages enumeration

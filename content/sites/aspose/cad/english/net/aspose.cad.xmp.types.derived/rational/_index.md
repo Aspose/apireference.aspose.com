@@ -3,7 +3,7 @@ title: Rational
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30870
+weight: 30640
 url: /net/aspose.cad.xmp.types.derived/rational/
 ---
 ## Rational class

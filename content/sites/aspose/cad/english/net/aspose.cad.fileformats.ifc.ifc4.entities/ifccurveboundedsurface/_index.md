@@ -3,7 +3,7 @@ title: IfcCurveBoundedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18070
+weight: 18060
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/
 ---
 ## IfcCurveBoundedSurface class

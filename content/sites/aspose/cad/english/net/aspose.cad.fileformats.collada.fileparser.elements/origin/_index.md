@@ -3,7 +3,7 @@ title: Origin
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5090
+weight: 5080
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/origin/
 ---
 ## Origin class

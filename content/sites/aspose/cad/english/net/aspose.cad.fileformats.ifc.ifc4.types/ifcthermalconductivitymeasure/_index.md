@@ -3,7 +3,7 @@ title: IfcThermalConductivityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27730
+weight: 27720
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermalconductivitymeasure/
 ---
 ## IfcThermalConductivityMeasure class

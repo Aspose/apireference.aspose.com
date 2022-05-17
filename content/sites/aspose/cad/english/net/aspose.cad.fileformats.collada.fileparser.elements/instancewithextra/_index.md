@@ -3,7 +3,7 @@ title: InstanceWithExtra
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4900
+weight: 4890
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancewithextra/
 ---
 ## InstanceWithExtra class

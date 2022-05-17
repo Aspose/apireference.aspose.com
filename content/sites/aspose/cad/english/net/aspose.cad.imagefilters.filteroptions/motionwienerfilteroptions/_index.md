@@ -3,7 +3,7 @@ title: MotionWienerFilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29600
+weight: 29410
 url: /net/aspose.cad.imagefilters.filteroptions/motionwienerfilteroptions/
 ---
 ## MotionWienerFilterOptions class

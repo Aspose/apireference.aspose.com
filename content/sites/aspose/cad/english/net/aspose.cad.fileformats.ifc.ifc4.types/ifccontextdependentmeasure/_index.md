@@ -3,7 +3,7 @@ title: IfcContextDependentMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24850
+weight: 24840
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccontextdependentmeasure/
 ---
 ## IfcContextDependentMeasure class

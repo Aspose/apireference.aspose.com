@@ -3,7 +3,7 @@ title: CadBlockBasePointParameter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1730
+weight: 1720
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockbasepointparameter/
 ---
 ## CadBlockBasePointParameter class

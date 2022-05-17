@@ -3,7 +3,7 @@ title: IfcPlane
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10250
+weight: 10240
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcplane/
 ---
 ## IfcPlane class

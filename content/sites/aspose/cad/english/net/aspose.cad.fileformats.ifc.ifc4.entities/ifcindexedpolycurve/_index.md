@@ -3,7 +3,7 @@ title: IfcIndexedPolyCurve
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19630
+weight: 19620
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/
 ---
 ## IfcIndexedPolyCurve class

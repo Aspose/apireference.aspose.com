@@ -3,7 +3,7 @@ title: IfcRotationalFrequencyMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27060
+weight: 27050
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcrotationalfrequencymeasure/
 ---
 ## IfcRotationalFrequencyMeasure class

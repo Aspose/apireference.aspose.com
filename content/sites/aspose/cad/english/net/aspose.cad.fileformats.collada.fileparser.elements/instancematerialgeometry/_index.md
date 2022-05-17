@@ -3,7 +3,7 @@ title: InstanceMaterialGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4850
+weight: 4840
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/
 ---
 ## InstanceMaterialGeometry class

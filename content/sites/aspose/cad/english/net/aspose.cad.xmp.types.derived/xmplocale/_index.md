@@ -3,7 +3,7 @@ title: XmpLocale
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30920
+weight: 30690
 url: /net/aspose.cad.xmp.types.derived/xmplocale/
 ---
 ## XmpLocale class

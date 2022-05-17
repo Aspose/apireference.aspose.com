@@ -3,7 +3,7 @@ title: IfcStructuralPointConnection
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12230
+weight: 12220
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralpointconnection/
 ---
 ## IfcStructuralPointConnection class

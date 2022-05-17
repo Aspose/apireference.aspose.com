@@ -3,7 +3,7 @@ title: IfcSite
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11790
+weight: 11780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsite/
 ---
 ## IfcSite class

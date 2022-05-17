@@ -3,7 +3,7 @@ title: CadSeqend
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2920
+weight: 2910
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadseqend/
 ---
 ## CadSeqend class

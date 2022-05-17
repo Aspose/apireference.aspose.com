@@ -3,7 +3,7 @@ title: CadSectionTypeSettings
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3590
+weight: 3580
 url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/
 ---
 ## CadSectionTypeSettings class

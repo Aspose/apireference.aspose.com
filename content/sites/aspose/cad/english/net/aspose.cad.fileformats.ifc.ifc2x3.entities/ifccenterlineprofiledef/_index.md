@@ -3,7 +3,7 @@ title: IfcCenterLineProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7370
+weight: 7360
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccenterlineprofiledef/
 ---
 ## IfcCenterLineProfileDef class

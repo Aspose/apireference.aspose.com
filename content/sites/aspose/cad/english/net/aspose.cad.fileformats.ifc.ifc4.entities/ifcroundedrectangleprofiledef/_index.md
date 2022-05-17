@@ -3,7 +3,7 @@ title: IfcRoundedRectangleProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22260
+weight: 22250
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroundedrectangleprofiledef/
 ---
 ## IfcRoundedRectangleProfileDef class

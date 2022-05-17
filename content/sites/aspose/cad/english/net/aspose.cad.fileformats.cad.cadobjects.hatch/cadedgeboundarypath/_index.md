@@ -3,7 +3,7 @@ title: CadEdgeBoundaryPath
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3330
+weight: 3320
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/
 ---
 ## CadEdgeBoundaryPath class

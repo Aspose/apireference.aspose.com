@@ -3,7 +3,7 @@ title: CadLightList
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2570
+weight: 2560
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlightlist/
 ---
 ## CadLightList class

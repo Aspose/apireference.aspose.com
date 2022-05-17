@@ -3,7 +3,7 @@ title: IIfcSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28200
+weight: 28190
 url: /net/aspose.cad.fileformats.ifc/iifcselect/
 ---
 ## IIfcSelect interface

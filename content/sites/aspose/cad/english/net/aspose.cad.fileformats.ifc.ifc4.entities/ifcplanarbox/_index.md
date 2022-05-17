@@ -3,7 +3,7 @@ title: IfcPlanarBox
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20690
+weight: 20680
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplanarbox/
 ---
 ## IfcPlanarBox class

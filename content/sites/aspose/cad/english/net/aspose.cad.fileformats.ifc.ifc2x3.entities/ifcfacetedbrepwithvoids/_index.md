@@ -3,7 +3,7 @@ title: IfcFacetedBrepWithVoids
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8900
+weight: 8890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacetedbrepwithvoids/
 ---
 ## IfcFacetedBrepWithVoids class

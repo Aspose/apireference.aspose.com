@@ -3,7 +3,7 @@ title: TiffExpectedFormat
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28990
+weight: 28830
 url: /net/aspose.cad.fileformats.tiff.enums/tiffexpectedformat/
 ---
 ## TiffExpectedFormat enumeration

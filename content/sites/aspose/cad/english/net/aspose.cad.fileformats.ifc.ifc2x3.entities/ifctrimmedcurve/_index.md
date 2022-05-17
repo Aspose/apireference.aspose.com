@@ -3,7 +3,7 @@ title: IfcTrimmedCurve
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12870
+weight: 12860
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/
 ---
 ## IfcTrimmedCurve class

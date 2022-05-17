@@ -3,7 +3,7 @@ title: CadTableSymbols
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1530
+weight: 1520
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablesymbols/
 ---
 ## CadTableSymbols enumeration

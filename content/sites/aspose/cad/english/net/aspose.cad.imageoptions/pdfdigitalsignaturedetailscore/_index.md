@@ -3,7 +3,7 @@ title: PdfDigitalSignatureDetailsCore
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29800
+weight: 29610
 url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/
 ---
 ## PdfDigitalSignatureDetailsCore class

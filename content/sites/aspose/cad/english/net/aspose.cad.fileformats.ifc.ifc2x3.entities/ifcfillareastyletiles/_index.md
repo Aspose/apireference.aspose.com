@@ -3,7 +3,7 @@ title: IfcFillAreaStyleTiles
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9010
+weight: 9000
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyletiles/
 ---
 ## IfcFillAreaStyleTiles class

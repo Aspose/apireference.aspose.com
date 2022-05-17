@@ -3,7 +3,7 @@ title: PdfPackage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30540
+weight: 30310
 url: /net/aspose.cad.xmp.schemas.pdf/pdfpackage/
 ---
 ## PdfPackage class

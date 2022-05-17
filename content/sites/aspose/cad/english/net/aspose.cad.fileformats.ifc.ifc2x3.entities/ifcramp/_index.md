@@ -3,7 +3,7 @@ title: IfcRamp
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10860
+weight: 10850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/
 ---
 ## IfcRamp class

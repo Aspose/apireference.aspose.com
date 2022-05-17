@@ -3,7 +3,7 @@ title: ExifLightSource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 620
+weight: 610
 url: /net/aspose.cad.exif.enums/exiflightsource/
 ---
 ## ExifLightSource enumeration

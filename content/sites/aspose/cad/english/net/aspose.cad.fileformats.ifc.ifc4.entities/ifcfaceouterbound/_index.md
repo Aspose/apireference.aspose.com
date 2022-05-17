@@ -3,7 +3,7 @@ title: IfcFaceOuterBound
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19000
+weight: 18990
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfaceouterbound/
 ---
 ## IfcFaceOuterBound class

@@ -3,7 +3,7 @@ title: CadBlockGripLocationComponent
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1790
+weight: 1780
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockgriplocationcomponent/
 ---
 ## CadBlockGripLocationComponent class

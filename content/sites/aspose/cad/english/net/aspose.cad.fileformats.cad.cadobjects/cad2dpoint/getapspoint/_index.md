@@ -9,7 +9,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/getapspoint/
 ## Cad2DPoint.GetApsPoint method
 
 ```csharp
-public  GetApsPoint()
+public     GetApsPoint()
 ```
 
 ### See Also

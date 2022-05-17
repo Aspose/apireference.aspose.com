@@ -3,7 +3,7 @@ title: IfcMappedItem
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19990
+weight: 19980
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmappeditem/
 ---
 ## IfcMappedItem class

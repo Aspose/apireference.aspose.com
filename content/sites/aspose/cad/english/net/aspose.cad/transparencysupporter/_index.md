@@ -3,7 +3,7 @@ title: TransparencySupporter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30490
+weight: 30260
 url: /net/aspose.cad/transparencysupporter/
 ---
 ## TransparencySupporter class

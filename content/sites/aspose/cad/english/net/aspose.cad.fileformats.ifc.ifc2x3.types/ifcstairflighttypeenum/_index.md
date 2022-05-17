@@ -3,7 +3,7 @@ title: IfcStairFlightTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15830
+weight: 15820
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcstairflighttypeenum/
 ---
 ## IfcStairFlightTypeEnum enumeration

@@ -3,7 +3,7 @@ title: IfcPropertyBoundedValue
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21100
+weight: 21090
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyboundedvalue/
 ---
 ## IfcPropertyBoundedValue class

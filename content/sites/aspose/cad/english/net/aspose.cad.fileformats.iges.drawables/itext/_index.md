@@ -3,7 +3,7 @@ title: IText
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28360
+weight: 28350
 url: /net/aspose.cad.fileformats.iges.drawables/itext/
 ---
 ## IText interface

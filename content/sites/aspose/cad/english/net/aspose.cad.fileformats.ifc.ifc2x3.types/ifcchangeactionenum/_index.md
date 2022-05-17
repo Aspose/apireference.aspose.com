@@ -3,7 +3,7 @@ title: IfcChangeActionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13510
+weight: 13500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcchangeactionenum/
 ---
 ## IfcChangeActionEnum enumeration

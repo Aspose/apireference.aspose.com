@@ -3,7 +3,7 @@ title: IfcLightDistributionData
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19840
+weight: 19830
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightdistributiondata/
 ---
 ## IfcLightDistributionData class

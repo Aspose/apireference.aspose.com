@@ -3,7 +3,7 @@ title: InstanceLight
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4840
+weight: 4830
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancelight/
 ---
 ## InstanceLight class

@@ -3,7 +3,7 @@ title: IfcVertexLoop
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23950
+weight: 23940
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvertexloop/
 ---
 ## IfcVertexLoop class

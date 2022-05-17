@@ -3,7 +3,7 @@ title: IfcWorkTime
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24180
+weight: 24170
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/
 ---
 ## IfcWorkTime class

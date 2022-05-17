@@ -3,7 +3,7 @@ title: KnownColor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30100
+weight: 29910
 url: /net/aspose.cad/knowncolor/
 ---
 ## KnownColor enumeration

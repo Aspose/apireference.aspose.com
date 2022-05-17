@@ -3,7 +3,7 @@ title: FontStoringArgs
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29940
+weight: 29750
 url: /net/aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/
 ---
 ## FontStoringArgs class

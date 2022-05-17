@@ -3,7 +3,7 @@ title: IfcProductDefinitionShape
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10510
+weight: 10500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductdefinitionshape/
 ---
 ## IfcProductDefinitionShape class

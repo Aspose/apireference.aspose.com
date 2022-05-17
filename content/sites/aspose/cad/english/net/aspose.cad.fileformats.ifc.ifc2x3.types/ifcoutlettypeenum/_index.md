@@ -3,7 +3,7 @@ title: IfcOutletTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15120
+weight: 15110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcoutlettypeenum/
 ---
 ## IfcOutletTypeEnum enumeration

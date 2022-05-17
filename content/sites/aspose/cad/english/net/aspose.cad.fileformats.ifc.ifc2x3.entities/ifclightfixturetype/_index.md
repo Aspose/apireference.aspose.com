@@ -3,7 +3,7 @@ title: IfcLightFixtureType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9550
+weight: 9540
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightfixturetype/
 ---
 ## IfcLightFixtureType class

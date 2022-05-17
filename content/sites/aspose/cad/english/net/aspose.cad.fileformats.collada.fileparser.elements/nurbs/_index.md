@@ -3,7 +3,7 @@ title: Nurbs
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5060
+weight: 5050
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/nurbs/
 ---
 ## Nurbs class

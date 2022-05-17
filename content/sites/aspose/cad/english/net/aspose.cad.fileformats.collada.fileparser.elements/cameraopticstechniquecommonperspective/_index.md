@@ -3,7 +3,7 @@ title: CameraOpticsTechniqueCommonPerspective
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4350
+weight: 4340
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonperspective/
 ---
 ## CameraOpticsTechniqueCommonPerspective class

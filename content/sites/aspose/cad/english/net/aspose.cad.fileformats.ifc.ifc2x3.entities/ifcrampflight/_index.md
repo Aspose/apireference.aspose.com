@@ -3,7 +3,7 @@ title: IfcRampFlight
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10870
+weight: 10860
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrampflight/
 ---
 ## IfcRampFlight class

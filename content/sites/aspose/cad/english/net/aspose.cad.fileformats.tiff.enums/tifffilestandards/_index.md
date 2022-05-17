@@ -3,7 +3,7 @@ title: TiffFileStandards
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29000
+weight: 28840
 url: /net/aspose.cad.fileformats.tiff.enums/tifffilestandards/
 ---
 ## TiffFileStandards enumeration

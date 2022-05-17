@@ -3,7 +3,7 @@ title: IfcRelAssociatesProfileProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11190
+weight: 11180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/
 ---
 ## IfcRelAssociatesProfileProperties class

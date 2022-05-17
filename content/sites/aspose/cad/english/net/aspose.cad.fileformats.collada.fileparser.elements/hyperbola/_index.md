@@ -3,7 +3,7 @@ title: Hyperbola
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4750
+weight: 4740
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/hyperbola/
 ---
 ## Hyperbola class

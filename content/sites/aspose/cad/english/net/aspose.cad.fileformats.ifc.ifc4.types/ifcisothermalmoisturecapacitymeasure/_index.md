@@ -3,7 +3,7 @@ title: IfcIsothermalMoistureCapacityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25910
+weight: 25900
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcisothermalmoisturecapacitymeasure/
 ---
 ## IfcIsothermalMoistureCapacityMeasure class

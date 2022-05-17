@@ -3,7 +3,7 @@ title: CadBlockRecordList
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1100
+weight: 1090
 url: /net/aspose.cad.fileformats.cad/cadblockrecordlist/
 ---
 ## CadBlockRecordList class

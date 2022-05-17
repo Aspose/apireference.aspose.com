@@ -3,7 +3,7 @@ title: IfcDirectionSenseEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25140
+weight: 25130
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdirectionsenseenum/
 ---
 ## IfcDirectionSenseEnum enumeration

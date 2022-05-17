@@ -3,7 +3,7 @@ title: DgnJustificationType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5980
+weight: 5970
 url: /net/aspose.cad.fileformats.dgn/dgnjustificationtype/
 ---
 ## DgnJustificationType enumeration

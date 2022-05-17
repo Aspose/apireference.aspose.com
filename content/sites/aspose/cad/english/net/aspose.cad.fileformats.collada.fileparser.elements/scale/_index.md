@@ -3,7 +3,7 @@ title: Scale
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5230
+weight: 5220
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/scale/
 ---
 ## Scale class

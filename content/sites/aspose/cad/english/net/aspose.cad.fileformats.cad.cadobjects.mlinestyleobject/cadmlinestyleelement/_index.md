@@ -3,7 +3,7 @@ title: CadMLineStyleElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3430
+weight: 3420
 url: /net/aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/
 ---
 ## CadMLineStyleElement class

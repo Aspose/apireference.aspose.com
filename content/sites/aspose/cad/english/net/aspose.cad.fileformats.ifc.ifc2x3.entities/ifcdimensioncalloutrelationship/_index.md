@@ -3,7 +3,7 @@ title: IfcDimensionCalloutRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8120
+weight: 8110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncalloutrelationship/
 ---
 ## IfcDimensionCalloutRelationship class

@@ -3,7 +3,7 @@ title: DxfFileFormat
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1540
+weight: 1530
 url: /net/aspose.cad.fileformats.cad.cadconsts/dxffileformat/
 ---
 ## DxfFileFormat enumeration

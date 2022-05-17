@@ -3,7 +3,7 @@ title: CadLineTypesDictionary
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1610
+weight: 1600
 url: /net/aspose.cad.fileformats.cad/cadlinetypesdictionary/
 ---
 ## CadLineTypesDictionary class

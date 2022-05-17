@@ -3,7 +3,7 @@ title: Namespaces
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30520
+weight: 30290
 url: /net/aspose.cad.xmp/namespaces/
 ---
 ## Namespaces class

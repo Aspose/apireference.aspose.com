@@ -3,7 +3,7 @@ title: Orient
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5080
+weight: 5070
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/orient/
 ---
 ## Orient class

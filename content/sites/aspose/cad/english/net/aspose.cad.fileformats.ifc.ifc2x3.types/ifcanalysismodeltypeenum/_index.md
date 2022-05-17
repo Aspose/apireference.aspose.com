@@ -3,7 +3,7 @@ title: IfcAnalysisModelTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13310
+weight: 13300
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcanalysismodeltypeenum/
 ---
 ## IfcAnalysisModelTypeEnum enumeration

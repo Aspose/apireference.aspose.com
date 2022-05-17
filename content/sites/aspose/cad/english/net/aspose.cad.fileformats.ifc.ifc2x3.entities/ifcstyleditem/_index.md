@@ -3,7 +3,7 @@ title: IfcStyledItem
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12340
+weight: 12330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/
 ---
 ## IfcStyledItem class

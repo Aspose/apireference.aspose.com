@@ -3,7 +3,7 @@ title: DwfWhipPointSet
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6290
+weight: 6280
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippointset/
 ---
 ## DwfWhipPointSet class

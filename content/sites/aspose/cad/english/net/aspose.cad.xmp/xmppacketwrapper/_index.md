@@ -3,7 +3,7 @@ title: XmpPacketWrapper
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 31040
+weight: 30810
 url: /net/aspose.cad.xmp/xmppacketwrapper/
 ---
 ## XmpPacketWrapper class

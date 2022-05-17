@@ -3,7 +3,7 @@ title: CadAttachmentPoint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1160
+weight: 1150
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadattachmentpoint/
 ---
 ## CadAttachmentPoint enumeration

@@ -3,7 +3,7 @@ title: Torus
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5480
+weight: 5470
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/torus/
 ---
 ## Torus class

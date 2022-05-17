@@ -3,7 +3,7 @@ title: IfcTelecomAddress
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23480
+weight: 23470
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/
 ---
 ## IfcTelecomAddress class

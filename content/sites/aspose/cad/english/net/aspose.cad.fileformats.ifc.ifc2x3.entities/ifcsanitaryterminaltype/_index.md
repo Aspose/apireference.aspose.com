@@ -3,7 +3,7 @@ title: IfcSanitaryTerminalType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11660
+weight: 11650
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsanitaryterminaltype/
 ---
 ## IfcSanitaryTerminalType class

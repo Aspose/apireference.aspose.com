@@ -3,7 +3,7 @@ title: IfcSoundProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11840
+weight: 11830
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/
 ---
 ## IfcSoundProperties class

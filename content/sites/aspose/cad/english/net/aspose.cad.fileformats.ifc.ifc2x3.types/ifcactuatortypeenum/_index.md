@@ -3,7 +3,7 @@ title: IfcActuatorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13230
+weight: 13220
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcactuatortypeenum/
 ---
 ## IfcActuatorTypeEnum enumeration

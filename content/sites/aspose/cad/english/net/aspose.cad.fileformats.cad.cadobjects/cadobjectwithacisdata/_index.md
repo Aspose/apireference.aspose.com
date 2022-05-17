@@ -3,7 +3,7 @@ title: CadObjectWithAcisData
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2750
+weight: 2740
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/
 ---
 ## CadObjectWithAcisData class

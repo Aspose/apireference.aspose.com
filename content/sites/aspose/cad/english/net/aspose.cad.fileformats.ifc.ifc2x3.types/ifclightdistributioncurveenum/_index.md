@@ -3,7 +3,7 @@ title: IfcLightDistributionCurveEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14690
+weight: 14680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclightdistributioncurveenum/
 ---
 ## IfcLightDistributionCurveEnum enumeration

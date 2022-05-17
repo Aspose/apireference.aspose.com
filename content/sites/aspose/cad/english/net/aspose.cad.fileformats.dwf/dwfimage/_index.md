@@ -3,7 +3,7 @@ title: DwfImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6080
+weight: 6070
 url: /net/aspose.cad.fileformats.dwf/dwfimage/
 ---
 ## DwfImage class

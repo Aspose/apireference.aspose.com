@@ -3,7 +3,7 @@ title: IfcGeometricSet
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9340
+weight: 9330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricset/
 ---
 ## IfcGeometricSet class

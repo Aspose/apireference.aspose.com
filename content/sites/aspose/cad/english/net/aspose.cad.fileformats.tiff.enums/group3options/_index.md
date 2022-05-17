@@ -3,7 +3,7 @@ title: Group3Options
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28940
+weight: 28780
 url: /net/aspose.cad.fileformats.tiff.enums/group3options/
 ---
 ## Group3Options enumeration

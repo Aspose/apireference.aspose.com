@@ -3,7 +3,7 @@ title: CadHelixLimitation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1300
+weight: 1290
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/
 ---
 ## CadHelixLimitation enumeration

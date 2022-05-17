@@ -3,7 +3,7 @@ title: MultiPageOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29770
+weight: 29580
 url: /net/aspose.cad.imageoptions/multipageoptions/
 ---
 ## MultiPageOptions class

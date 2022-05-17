@@ -3,7 +3,7 @@ title: InstanceNode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4870
+weight: 4860
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancenode/
 ---
 ## InstanceNode class

@@ -3,7 +3,7 @@ title: IfcAirToAirHeatRecovery
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16580
+weight: 16570
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcairtoairheatrecovery/
 ---
 ## IfcAirToAirHeatRecovery class

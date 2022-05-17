@@ -3,7 +3,7 @@ title: Dxf3DPointAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4080
+weight: 4070
 url: /net/aspose.cad.fileformats.cad/dxf3dpointattribute/
 ---
 ## Dxf3DPointAttribute class

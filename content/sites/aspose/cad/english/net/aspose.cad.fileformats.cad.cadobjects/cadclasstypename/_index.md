@@ -3,7 +3,7 @@ title: CadClassTypeName
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2290
+weight: 2280
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadclasstypename/
 ---
 ## CadClassTypeName enumeration

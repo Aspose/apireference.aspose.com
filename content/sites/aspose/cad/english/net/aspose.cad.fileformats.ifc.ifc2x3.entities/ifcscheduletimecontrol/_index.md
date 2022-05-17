@@ -3,7 +3,7 @@ title: IfcScheduleTimeControl
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11670
+weight: 11660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/
 ---
 ## IfcScheduleTimeControl class

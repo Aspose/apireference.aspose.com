@@ -3,7 +3,7 @@ title: CadDiametricDimension
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2350
+weight: 2340
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddiametricdimension/
 ---
 ## CadDiametricDimension class

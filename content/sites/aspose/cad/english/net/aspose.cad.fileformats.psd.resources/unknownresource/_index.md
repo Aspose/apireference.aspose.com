@@ -3,7 +3,7 @@ title: UnknownResource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28860
+weight: 28700
 url: /net/aspose.cad.fileformats.psd.resources/unknownresource/
 ---
 ## UnknownResource class

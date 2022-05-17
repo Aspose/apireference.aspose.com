@@ -3,7 +3,7 @@ title: IfcStructuralSteelProfileProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12280
+weight: 12270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/
 ---
 ## IfcStructuralSteelProfileProperties class

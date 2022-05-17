@@ -3,7 +3,7 @@ title: IfcSurfaceSide
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27540
+weight: 27530
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsurfaceside/
 ---
 ## IfcSurfaceSide enumeration

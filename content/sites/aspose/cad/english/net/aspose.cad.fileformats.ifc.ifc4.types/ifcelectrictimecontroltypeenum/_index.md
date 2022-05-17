@@ -3,7 +3,7 @@ title: IfcElectricTimeControlTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25440
+weight: 25430
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectrictimecontroltypeenum/
 ---
 ## IfcElectricTimeControlTypeEnum enumeration

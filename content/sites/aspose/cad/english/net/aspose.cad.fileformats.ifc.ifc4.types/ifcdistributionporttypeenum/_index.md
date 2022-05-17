@@ -3,7 +3,7 @@ title: IfcDistributionPortTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25170
+weight: 25160
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdistributionporttypeenum/
 ---
 ## IfcDistributionPortTypeEnum enumeration

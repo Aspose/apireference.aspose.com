@@ -3,7 +3,7 @@ title: IfcFeatureElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8950
+weight: 8940
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfeatureelement/
 ---
 ## IfcFeatureElement class

@@ -3,7 +3,7 @@ title: IfcRelNests
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11400
+weight: 11390
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelnests/
 ---
 ## IfcRelNests class

@@ -3,7 +3,7 @@ title: FloatArray
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4640
+weight: 4630
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/floatarray/
 ---
 ## FloatArray class

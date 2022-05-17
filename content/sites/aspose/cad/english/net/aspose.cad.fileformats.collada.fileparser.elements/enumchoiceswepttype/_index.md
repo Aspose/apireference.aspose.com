@@ -3,7 +3,7 @@ title: EnumChoiceSweptType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4510
+weight: 4500
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumchoiceswepttype/
 ---
 ## EnumChoiceSweptType enumeration

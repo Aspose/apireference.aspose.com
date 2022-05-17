@@ -3,7 +3,7 @@ title: IfcCsgSolid
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18010
+weight: 18000
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccsgsolid/
 ---
 ## IfcCsgSolid class

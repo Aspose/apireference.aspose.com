@@ -3,7 +3,7 @@ title: IfcSlabTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27250
+weight: 27240
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcslabtypeenum/
 ---
 ## IfcSlabTypeEnum enumeration

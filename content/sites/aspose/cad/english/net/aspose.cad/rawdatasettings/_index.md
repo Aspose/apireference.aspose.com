@@ -3,7 +3,7 @@ title: RawDataSettings
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30280
+weight: 30090
 url: /net/aspose.cad/rawdatasettings/
 ---
 ## RawDataSettings class

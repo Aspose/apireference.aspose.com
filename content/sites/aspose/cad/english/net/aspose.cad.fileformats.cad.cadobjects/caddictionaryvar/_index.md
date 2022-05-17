@@ -3,7 +3,7 @@ title: CadDictionaryVar
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2360
+weight: 2350
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddictionaryvar/
 ---
 ## CadDictionaryVar class

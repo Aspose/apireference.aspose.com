@@ -3,7 +3,7 @@ title: IfcTrapeziumProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12860
+weight: 12850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/
 ---
 ## IfcTrapeziumProfileDef class

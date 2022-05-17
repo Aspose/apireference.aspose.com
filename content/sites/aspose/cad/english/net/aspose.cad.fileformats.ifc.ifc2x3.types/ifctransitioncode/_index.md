@@ -3,7 +3,7 @@ title: IfcTransitionCode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16200
+weight: 16190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctransitioncode/
 ---
 ## IfcTransitionCode enumeration

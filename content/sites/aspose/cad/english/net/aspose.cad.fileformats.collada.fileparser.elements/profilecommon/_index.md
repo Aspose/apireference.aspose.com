@@ -3,7 +3,7 @@ title: ProfileCommon
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5190
+weight: 5180
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilecommon/
 ---
 ## ProfileCommon class

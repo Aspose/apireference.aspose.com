@@ -3,7 +3,7 @@ title: IfcElectricDistributionPoint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8510
+weight: 8500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricdistributionpoint/
 ---
 ## IfcElectricDistributionPoint class

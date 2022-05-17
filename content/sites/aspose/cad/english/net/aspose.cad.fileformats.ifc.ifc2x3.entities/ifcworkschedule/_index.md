@@ -3,7 +3,7 @@ title: IfcWorkSchedule
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13150
+weight: 13140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkschedule/
 ---
 ## IfcWorkSchedule class

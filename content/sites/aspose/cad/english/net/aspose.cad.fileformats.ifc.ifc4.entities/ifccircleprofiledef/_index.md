@@ -3,7 +3,7 @@ title: IfcCircleProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17370
+weight: 17360
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccircleprofiledef/
 ---
 ## IfcCircleProfileDef class

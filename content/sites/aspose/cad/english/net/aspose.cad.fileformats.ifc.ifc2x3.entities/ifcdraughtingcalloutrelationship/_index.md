@@ -3,7 +3,7 @@ title: IfcDraughtingCalloutRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8390
+weight: 8380
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcalloutrelationship/
 ---
 ## IfcDraughtingCalloutRelationship class

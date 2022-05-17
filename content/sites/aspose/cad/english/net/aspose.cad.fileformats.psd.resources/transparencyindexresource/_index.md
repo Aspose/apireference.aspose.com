@@ -3,7 +3,7 @@ title: TransparencyIndexResource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28850
+weight: 28690
 url: /net/aspose.cad.fileformats.psd.resources/transparencyindexresource/
 ---
 ## TransparencyIndexResource class

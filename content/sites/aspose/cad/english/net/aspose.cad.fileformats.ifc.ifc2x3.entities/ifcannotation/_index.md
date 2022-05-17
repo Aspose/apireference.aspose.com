@@ -3,7 +3,7 @@ title: IfcAnnotation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6760
+weight: 6750
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotation/
 ---
 ## IfcAnnotation class

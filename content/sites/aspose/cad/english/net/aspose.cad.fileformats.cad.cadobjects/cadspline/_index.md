@@ -3,7 +3,7 @@ title: CadSpline
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2990
+weight: 2980
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/
 ---
 ## CadSpline class

@@ -3,7 +3,7 @@ title: InterruptionTokenSource
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30090
+weight: 29900
 url: /net/aspose.cad/interruptiontokensource/
 ---
 ## InterruptionTokenSource class

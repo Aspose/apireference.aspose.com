@@ -3,7 +3,7 @@ title: IfcCartesianTransformationOperator2D
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7330
+weight: 7320
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator2d/
 ---
 ## IfcCartesianTransformationOperator2D class

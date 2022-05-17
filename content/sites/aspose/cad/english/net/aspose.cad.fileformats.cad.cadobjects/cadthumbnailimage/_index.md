@@ -3,7 +3,7 @@ title: CadThumbnailImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3080
+weight: 3070
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage/
 ---
 ## CadThumbnailImage class

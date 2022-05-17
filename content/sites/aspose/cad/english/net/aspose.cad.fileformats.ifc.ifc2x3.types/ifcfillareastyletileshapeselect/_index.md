@@ -3,7 +3,7 @@ title: IfcFillAreaStyleTileShapeSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14280
+weight: 14270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfillareastyletileshapeselect/
 ---
 ## IfcFillAreaStyleTileShapeSelect class

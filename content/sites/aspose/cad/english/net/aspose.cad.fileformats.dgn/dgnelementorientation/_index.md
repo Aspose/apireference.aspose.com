@@ -3,7 +3,7 @@ title: DgnElementOrientation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5590
+weight: 5580
 url: /net/aspose.cad.fileformats.dgn/dgnelementorientation/
 ---
 ## DgnElementOrientation enumeration

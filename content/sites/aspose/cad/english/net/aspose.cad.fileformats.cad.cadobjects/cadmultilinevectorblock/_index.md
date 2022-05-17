@@ -3,7 +3,7 @@ title: CadMultiLineVectorBlock
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2720
+weight: 2710
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/
 ---
 ## CadMultiLineVectorBlock class

@@ -3,7 +3,7 @@ title: Vertices
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5530
+weight: 5520
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/vertices/
 ---
 ## Vertices class

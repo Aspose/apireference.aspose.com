@@ -3,7 +3,7 @@ title: IfcElectricDistributionBoardTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25390
+weight: 25380
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricdistributionboardtypeenum/
 ---
 ## IfcElectricDistributionBoardTypeEnum enumeration

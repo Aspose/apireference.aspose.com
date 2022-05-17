@@ -3,7 +3,7 @@ title: IfcBoxAlignment
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13460
+weight: 13450
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcboxalignment/
 ---
 ## IfcBoxAlignment class

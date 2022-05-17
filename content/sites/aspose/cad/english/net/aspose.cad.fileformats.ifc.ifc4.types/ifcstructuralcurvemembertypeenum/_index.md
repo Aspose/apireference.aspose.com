@@ -3,7 +3,7 @@ title: IfcStructuralCurveMemberTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27470
+weight: 27460
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralcurvemembertypeenum/
 ---
 ## IfcStructuralCurveMemberTypeEnum enumeration

@@ -3,7 +3,7 @@ title: IfcOrganization
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10030
+weight: 10020
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/
 ---
 ## IfcOrganization class

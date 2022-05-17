@@ -3,7 +3,7 @@ title: IfcThermalExpansionCoefficientMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16080
+weight: 16070
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermalexpansioncoefficientmeasure/
 ---
 ## IfcThermalExpansionCoefficientMeasure class

@@ -3,7 +3,7 @@ title: CadBaseExtrudedEntity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2170
+weight: 2160
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbaseextrudedentity/
 ---
 ## CadBaseExtrudedEntity class

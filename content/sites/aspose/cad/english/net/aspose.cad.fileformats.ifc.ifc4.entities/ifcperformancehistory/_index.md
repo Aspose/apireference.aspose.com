@@ -3,7 +3,7 @@ title: IfcPerformanceHistory
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20530
+weight: 20520
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcperformancehistory/
 ---
 ## IfcPerformanceHistory class

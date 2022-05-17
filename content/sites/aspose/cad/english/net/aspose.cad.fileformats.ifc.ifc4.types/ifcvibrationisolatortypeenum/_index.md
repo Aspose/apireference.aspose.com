@@ -3,7 +3,7 @@ title: IfcVibrationIsolatorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28000
+weight: 27990
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcvibrationisolatortypeenum/
 ---
 ## IfcVibrationIsolatorTypeEnum enumeration

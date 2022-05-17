@@ -3,7 +3,7 @@ title: IfcCurve
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18050
+weight: 18040
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurve/
 ---
 ## IfcCurve class

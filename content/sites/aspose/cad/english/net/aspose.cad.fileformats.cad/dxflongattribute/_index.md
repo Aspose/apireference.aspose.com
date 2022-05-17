@@ -3,7 +3,7 @@ title: DxfLongAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4140
+weight: 4130
 url: /net/aspose.cad.fileformats.cad/dxflongattribute/
 ---
 ## DxfLongAttribute class

@@ -3,7 +3,7 @@ title: IfcFaceBasedSurfaceModel
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18980
+weight: 18970
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacebasedsurfacemodel/
 ---
 ## IfcFaceBasedSurfaceModel class

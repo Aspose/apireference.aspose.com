@@ -3,7 +3,7 @@ title: CadWipeoutRasterImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3760
+weight: 3750
 url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/
 ---
 ## CadWipeoutRasterImage class

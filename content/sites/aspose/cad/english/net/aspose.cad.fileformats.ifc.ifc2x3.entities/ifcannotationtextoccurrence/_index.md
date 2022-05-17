@@ -3,7 +3,7 @@ title: IfcAnnotationTextOccurrence
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6840
+weight: 6830
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationtextoccurrence/
 ---
 ## IfcAnnotationTextOccurrence class

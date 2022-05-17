@@ -3,7 +3,7 @@ title: IfcDimensionalExponents
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8170
+weight: 8160
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionalexponents/
 ---
 ## IfcDimensionalExponents class

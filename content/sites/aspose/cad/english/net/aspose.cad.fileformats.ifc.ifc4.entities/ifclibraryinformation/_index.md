@@ -3,7 +3,7 @@ title: IfcLibraryInformation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19820
+weight: 19810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryinformation/
 ---
 ## IfcLibraryInformation class

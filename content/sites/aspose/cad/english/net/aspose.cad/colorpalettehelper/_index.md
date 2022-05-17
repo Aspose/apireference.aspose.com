@@ -3,7 +3,7 @@ title: ColorPaletteHelper
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 400
+weight: 390
 url: /net/aspose.cad/colorpalettehelper/
 ---
 ## ColorPaletteHelper class

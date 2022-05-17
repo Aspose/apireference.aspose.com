@@ -3,7 +3,7 @@ title: IfcBooleanResult
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16900
+weight: 16890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanresult/
 ---
 ## IfcBooleanResult class

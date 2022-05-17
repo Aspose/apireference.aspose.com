@@ -3,7 +3,7 @@ title: CadBlockDictionary
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1090
+weight: 1080
 url: /net/aspose.cad.fileformats.cad/cadblockdictionary/
 ---
 ## CadBlockDictionary class

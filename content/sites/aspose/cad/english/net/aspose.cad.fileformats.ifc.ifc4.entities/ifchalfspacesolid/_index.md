@@ -3,7 +3,7 @@ title: IfcHalfSpaceSolid
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19550
+weight: 19540
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifchalfspacesolid/
 ---
 ## IfcHalfSpaceSolid class

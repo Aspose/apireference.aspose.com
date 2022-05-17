@@ -3,7 +3,7 @@ title: IfcDoorStyleOperationEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13990
+weight: 13980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdoorstyleoperationenum/
 ---
 ## IfcDoorStyleOperationEnum enumeration

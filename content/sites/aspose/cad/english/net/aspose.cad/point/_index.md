@@ -3,7 +3,7 @@ title: Point
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30240
+weight: 30050
 url: /net/aspose.cad/point/
 ---
 ## Point structure

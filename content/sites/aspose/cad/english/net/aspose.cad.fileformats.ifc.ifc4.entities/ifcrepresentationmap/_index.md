@@ -3,7 +3,7 @@ title: IfcRepresentationMap
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22130
+weight: 22120
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationmap/
 ---
 ## IfcRepresentationMap class

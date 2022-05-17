@@ -3,7 +3,7 @@ title: CadBlockStretchAction
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1880
+weight: 1870
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchaction/
 ---
 ## CadBlockStretchAction class

@@ -3,7 +3,7 @@ title: IfcRectangularTrimmedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10930
+weight: 10920
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/
 ---
 ## IfcRectangularTrimmedSurface class

@@ -3,7 +3,7 @@ title: DwfWhipEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6200
+weight: 6190
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipellipse/
 ---
 ## DwfWhipEllipse class

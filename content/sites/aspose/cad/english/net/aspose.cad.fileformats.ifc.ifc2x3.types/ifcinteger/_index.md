@@ -3,7 +3,7 @@ title: IfcInteger
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14550
+weight: 14540
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcinteger/
 ---
 ## IfcInteger class

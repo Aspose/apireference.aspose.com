@@ -3,7 +3,7 @@ title: TiffDataTypes
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28980
+weight: 28820
 url: /net/aspose.cad.fileformats.tiff.enums/tiffdatatypes/
 ---
 ## TiffDataTypes enumeration

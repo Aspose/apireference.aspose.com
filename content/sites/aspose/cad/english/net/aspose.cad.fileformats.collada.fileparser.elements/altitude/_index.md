@@ -3,7 +3,7 @@ title: Altitude
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4230
+weight: 4220
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/altitude/
 ---
 ## Altitude class

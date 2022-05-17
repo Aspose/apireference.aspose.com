@@ -3,7 +3,7 @@ title: IfcCivilElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17380
+weight: 17370
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccivilelement/
 ---
 ## IfcCivilElement class

@@ -3,7 +3,7 @@ title: IfcRelConnectsWithEccentricity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11280
+weight: 11270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectswitheccentricity/
 ---
 ## IfcRelConnectsWithEccentricity class

@@ -3,7 +3,7 @@ title: IfcFlowTerminalType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9170
+weight: 9160
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcflowterminaltype/
 ---
 ## IfcFlowTerminalType class

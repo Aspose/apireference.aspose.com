@@ -3,7 +3,7 @@ title: IfcCostScheduleTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24910
+weight: 24900
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccostscheduletypeenum/
 ---
 ## IfcCostScheduleTypeEnum enumeration

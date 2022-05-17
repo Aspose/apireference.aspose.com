@@ -3,7 +3,7 @@ title: IfcReinforcingBarRoleEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26980
+weight: 26970
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingbarroleenum/
 ---
 ## IfcReinforcingBarRoleEnum enumeration

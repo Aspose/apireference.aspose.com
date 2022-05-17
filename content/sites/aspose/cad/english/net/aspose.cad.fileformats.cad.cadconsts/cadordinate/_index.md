@@ -3,7 +3,7 @@ title: CadOrdinate
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1400
+weight: 1390
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadordinate/
 ---
 ## CadOrdinate enumeration

@@ -3,7 +3,7 @@ title: MaterializeStage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6170
+weight: 6160
 url: /net/aspose.cad.fileformats.dwf.whip/materializestage/
 ---
 ## MaterializeStage enumeration

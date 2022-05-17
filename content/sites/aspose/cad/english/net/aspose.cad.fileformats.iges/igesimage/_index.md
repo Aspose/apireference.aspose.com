@@ -3,7 +3,7 @@ title: IgesImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28400
+weight: 28390
 url: /net/aspose.cad.fileformats.iges/igesimage/
 ---
 ## IgesImage class

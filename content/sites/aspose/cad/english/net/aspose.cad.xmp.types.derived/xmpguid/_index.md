@@ -3,7 +3,7 @@ title: XmpGuid
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30910
+weight: 30680
 url: /net/aspose.cad.xmp.types.derived/xmpguid/
 ---
 ## XmpGuid class

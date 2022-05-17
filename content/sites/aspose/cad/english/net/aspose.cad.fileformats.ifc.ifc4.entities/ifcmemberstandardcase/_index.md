@@ -3,7 +3,7 @@ title: IfcMemberStandardCase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20250
+weight: 20240
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmemberstandardcase/
 ---
 ## IfcMemberStandardCase class

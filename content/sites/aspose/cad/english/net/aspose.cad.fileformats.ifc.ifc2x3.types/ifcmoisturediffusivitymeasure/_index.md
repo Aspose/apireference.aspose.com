@@ -3,7 +3,7 @@ title: IfcMoistureDiffusivityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14980
+weight: 14970
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmoisturediffusivitymeasure/
 ---
 ## IfcMoistureDiffusivityMeasure class

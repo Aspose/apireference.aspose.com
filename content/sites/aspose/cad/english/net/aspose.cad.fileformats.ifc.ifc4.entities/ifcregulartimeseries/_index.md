@@ -3,7 +3,7 @@ title: IfcRegularTimeSeries
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21520
+weight: 21510
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcregulartimeseries/
 ---
 ## IfcRegularTimeSeries class

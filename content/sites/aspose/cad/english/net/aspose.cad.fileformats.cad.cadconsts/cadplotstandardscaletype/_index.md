@@ -3,7 +3,7 @@ title: CadPlotStandardScaleType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1450
+weight: 1440
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotstandardscaletype/
 ---
 ## CadPlotStandardScaleType enumeration

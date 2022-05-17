@@ -3,7 +3,7 @@ title: BitmapCompression
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 810
+weight: 800
 url: /net/aspose.cad.fileformats.bmp/bitmapcompression/
 ---
 ## BitmapCompression enumeration

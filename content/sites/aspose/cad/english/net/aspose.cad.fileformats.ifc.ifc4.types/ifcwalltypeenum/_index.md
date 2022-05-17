@@ -3,7 +3,7 @@ title: IfcWallTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28040
+weight: 28030
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwalltypeenum/
 ---
 ## IfcWallTypeEnum enumeration

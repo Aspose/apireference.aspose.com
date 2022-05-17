@@ -3,7 +3,7 @@ title: ProjectType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30620
+weight: 30390
 url: /net/aspose.cad.xmp.schemas.xmpdm/projecttype/
 ---
 ## ProjectType enumeration

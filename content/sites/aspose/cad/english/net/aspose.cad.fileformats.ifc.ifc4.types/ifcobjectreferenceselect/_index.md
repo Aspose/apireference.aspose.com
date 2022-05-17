@@ -3,7 +3,7 @@ title: IfcObjectReferenceSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26470
+weight: 26460
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcobjectreferenceselect/
 ---
 ## IfcObjectReferenceSelect class

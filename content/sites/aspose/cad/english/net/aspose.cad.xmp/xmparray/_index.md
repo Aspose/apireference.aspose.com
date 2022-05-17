@@ -3,7 +3,7 @@ title: XmpArray
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30960
+weight: 30730
 url: /net/aspose.cad.xmp/xmparray/
 ---
 ## XmpArray class

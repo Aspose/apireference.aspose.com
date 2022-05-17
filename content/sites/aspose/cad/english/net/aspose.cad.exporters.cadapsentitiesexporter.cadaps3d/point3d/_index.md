@@ -3,7 +3,7 @@ title: Point3D
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 770
+weight: 760
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/
 ---
 ## Point3D class
@@ -19,7 +19,7 @@ public class Point3D
 | Name | Description |
 | --- | --- |
 | [Point3D](point3d)() | Initializes a new instance of the Point3D class |
-| [Point3D](point3d)() |  |
+| [Point3D](point3d)(   ) |  |
 | [Point3D](point3d)(double, double) | Initializes a new instance of the Point3D class |
 | [Point3D](point3d)(double, double, double) | Initializes a new instance of the Point3D class |
 | [Point3D](point3d)(double, double, double, double) | Initializes a new instance of the Point3D class |

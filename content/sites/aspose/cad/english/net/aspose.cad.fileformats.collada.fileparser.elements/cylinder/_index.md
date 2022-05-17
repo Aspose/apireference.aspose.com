@@ -3,7 +3,7 @@ title: Cylinder
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4460
+weight: 4450
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cylinder/
 ---
 ## Cylinder class

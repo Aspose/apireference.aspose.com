@@ -3,7 +3,7 @@ title: IfcElectricDistributionPointFunctionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14120
+weight: 14110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricdistributionpointfunctionenum/
 ---
 ## IfcElectricDistributionPointFunctionEnum enumeration

@@ -3,7 +3,7 @@ title: FxCommonColorOrTextureColor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4660
+weight: 4650
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturecolor/
 ---
 ## FxCommonColorOrTextureColor class

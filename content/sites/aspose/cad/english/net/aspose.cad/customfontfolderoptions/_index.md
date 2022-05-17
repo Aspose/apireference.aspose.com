@@ -3,7 +3,7 @@ title: CustomFontFolderOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 430
+weight: 420
 url: /net/aspose.cad/customfontfolderoptions/
 ---
 ## CustomFontFolderOptions enumeration

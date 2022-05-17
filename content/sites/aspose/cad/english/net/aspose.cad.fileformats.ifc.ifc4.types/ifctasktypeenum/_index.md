@@ -3,7 +3,7 @@ title: IfcTaskTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27600
+weight: 27590
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctasktypeenum/
 ---
 ## IfcTaskTypeEnum enumeration

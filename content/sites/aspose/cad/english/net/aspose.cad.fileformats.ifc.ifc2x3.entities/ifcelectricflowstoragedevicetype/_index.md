@@ -3,7 +3,7 @@ title: IfcElectricFlowStorageDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8520
+weight: 8510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/
 ---
 ## IfcElectricFlowStorageDeviceType class

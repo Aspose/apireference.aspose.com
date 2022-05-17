@@ -3,7 +3,7 @@ title: IfcFan
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19050
+weight: 19040
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfan/
 ---
 ## IfcFan class

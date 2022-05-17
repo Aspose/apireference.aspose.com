@@ -3,7 +3,7 @@ title: IfcRelAssigns
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11020
+weight: 11010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassigns/
 ---
 ## IfcRelAssigns class

@@ -3,7 +3,7 @@ title: CadTableEntity
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1630
+weight: 1620
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/
 ---
 ## CadTableEntity class

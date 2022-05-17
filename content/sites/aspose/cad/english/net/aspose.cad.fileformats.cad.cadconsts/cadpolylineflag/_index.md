@@ -3,7 +3,7 @@ title: CadPolylineFlag
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1470
+weight: 1460
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadpolylineflag/
 ---
 ## CadPolylineFlag enumeration

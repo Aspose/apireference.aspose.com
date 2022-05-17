@@ -3,7 +3,7 @@ title: IfcWorkControl
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24150
+weight: 24140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcontrol/
 ---
 ## IfcWorkControl class

@@ -3,7 +3,7 @@ title: IfcWindow
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24080
+weight: 24070
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindow/
 ---
 ## IfcWindow class

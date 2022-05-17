@@ -3,7 +3,7 @@ title: ColorTranslator
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 420
+weight: 410
 url: /net/aspose.cad/colortranslator/
 ---
 ## ColorTranslator class

@@ -3,7 +3,7 @@ title: CadImage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1580
+weight: 1570
 url: /net/aspose.cad.fileformats.cad/cadimage/
 ---
 ## CadImage class

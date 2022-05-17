@@ -3,7 +3,7 @@ title: IfcFacetedBrep
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8890
+weight: 8880
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacetedbrep/
 ---
 ## IfcFacetedBrep class

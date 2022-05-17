@@ -3,7 +3,7 @@ title: ConvexMesh
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4420
+weight: 4410
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/convexmesh/
 ---
 ## ConvexMesh class

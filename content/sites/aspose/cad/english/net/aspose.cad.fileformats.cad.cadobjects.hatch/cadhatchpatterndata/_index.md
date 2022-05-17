@@ -3,7 +3,7 @@ title: CadHatchPatternData
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3360
+weight: 3350
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/
 ---
 ## CadHatchPatternData class

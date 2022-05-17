@@ -3,7 +3,7 @@ title: CadBoundaryPathTypeFlag
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1180
+weight: 1170
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadboundarypathtypeflag/
 ---
 ## CadBoundaryPathTypeFlag enumeration

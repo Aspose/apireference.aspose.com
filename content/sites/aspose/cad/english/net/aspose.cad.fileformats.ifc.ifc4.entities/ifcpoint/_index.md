@@ -3,7 +3,7 @@ title: IfcPoint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20750
+weight: 20740
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpoint/
 ---
 ## IfcPoint class

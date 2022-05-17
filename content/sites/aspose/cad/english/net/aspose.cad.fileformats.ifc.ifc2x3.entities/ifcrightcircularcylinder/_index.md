@@ -3,7 +3,7 @@ title: IfcRightCircularCylinder
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11600
+weight: 11590
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrightcircularcylinder/
 ---
 ## IfcRightCircularCylinder class

@@ -3,7 +3,7 @@ title: IfcCoolingTowerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24880
+weight: 24870
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccoolingtowertypeenum/
 ---
 ## IfcCoolingTowerTypeEnum enumeration

@@ -3,7 +3,7 @@ title: CadBlock1PtParameters
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1670
+weight: 1660
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblock1ptparameters/
 ---
 ## CadBlock1PtParameters class

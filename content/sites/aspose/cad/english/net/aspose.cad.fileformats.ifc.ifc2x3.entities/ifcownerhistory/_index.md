@@ -3,7 +3,7 @@ title: IfcOwnerHistory
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10070
+weight: 10060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/
 ---
 ## IfcOwnerHistory class

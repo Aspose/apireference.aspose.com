@@ -3,7 +3,7 @@ title: IfcVector
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12960
+weight: 12950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvector/
 ---
 ## IfcVector class

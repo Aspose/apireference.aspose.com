@@ -3,7 +3,7 @@ title: DwfMergeOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6100
+weight: 6090
 url: /net/aspose.cad.fileformats.dwf/dwfmergeoptions/
 ---
 ## DwfMergeOptions class

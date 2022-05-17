@@ -3,7 +3,7 @@ title: DwfWhipLogicalBox
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6410
+weight: 6400
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalbox/
 ---
 ## DwfWhipLogicalBox class

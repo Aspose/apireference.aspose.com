@@ -3,7 +3,7 @@ title: CF2Image
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 860
+weight: 850
 url: /net/aspose.cad.fileformats.cf2/cf2image/
 ---
 ## CF2Image class

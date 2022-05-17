@@ -3,7 +3,7 @@ title: IfcMaterialConstituentSet
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 20030
+weight: 20020
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituentset/
 ---
 ## IfcMaterialConstituentSet class

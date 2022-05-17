@@ -3,7 +3,7 @@ title: IfcConstraint
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17710
+weight: 17700
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/
 ---
 ## IfcConstraint class

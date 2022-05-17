@@ -3,7 +3,7 @@ title: PdfDigitalSignatureHashAlgorithmCore
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29810
+weight: 29620
 url: /net/aspose.cad.imageoptions/pdfdigitalsignaturehashalgorithmcore/
 ---
 ## PdfDigitalSignatureHashAlgorithmCore enumeration

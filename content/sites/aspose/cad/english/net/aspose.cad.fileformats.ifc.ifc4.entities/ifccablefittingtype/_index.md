@@ -3,7 +3,7 @@ title: IfcCableFittingType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17180
+weight: 17170
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccablefittingtype/
 ---
 ## IfcCableFittingType class

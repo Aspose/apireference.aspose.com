@@ -3,7 +3,7 @@ title: PenOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29840
+weight: 29650
 url: /net/aspose.cad.imageoptions/penoptions/
 ---
 ## PenOptions class

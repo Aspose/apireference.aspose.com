@@ -3,7 +3,7 @@ title: IfcCShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 7260
+weight: 7250
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/
 ---
 ## IfcCShapeProfileDef class

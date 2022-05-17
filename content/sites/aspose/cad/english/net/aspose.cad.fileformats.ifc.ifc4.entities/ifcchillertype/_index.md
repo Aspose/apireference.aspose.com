@@ -3,7 +3,7 @@ title: IfcChillerType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17320
+weight: 17310
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcchillertype/
 ---
 ## IfcChillerType class

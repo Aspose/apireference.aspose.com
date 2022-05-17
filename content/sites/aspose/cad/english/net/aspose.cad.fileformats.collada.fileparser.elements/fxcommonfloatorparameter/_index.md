@@ -3,7 +3,7 @@ title: FxCommonFloatOrParameter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4690
+weight: 4680
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameter/
 ---
 ## FxCommonFloatOrParameter class

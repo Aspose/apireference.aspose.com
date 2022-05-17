@@ -3,7 +3,7 @@ title: IfcSectionReinforcementProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11690
+weight: 11680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/
 ---
 ## IfcSectionReinforcementProperties class

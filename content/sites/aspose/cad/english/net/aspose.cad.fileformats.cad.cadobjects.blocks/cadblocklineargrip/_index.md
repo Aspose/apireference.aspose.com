@@ -3,7 +3,7 @@ title: CadBlockLinearGrip
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1800
+weight: 1790
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblocklineargrip/
 ---
 ## CadBlockLinearGrip class

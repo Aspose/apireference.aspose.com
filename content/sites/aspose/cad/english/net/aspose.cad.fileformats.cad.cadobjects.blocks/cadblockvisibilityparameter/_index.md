@@ -3,7 +3,7 @@ title: CadBlockVisibilityParameter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1910
+weight: 1900
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockvisibilityparameter/
 ---
 ## CadBlockVisibilityParameter class

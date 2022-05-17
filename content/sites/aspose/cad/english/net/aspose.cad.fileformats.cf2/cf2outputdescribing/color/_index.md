@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cf2/cf2outputdescribing/color/
 The text color
 
 ```csharp
-public  Color { get; set; }
+public     Color { get; set; }
 ```
 
 ### See Also

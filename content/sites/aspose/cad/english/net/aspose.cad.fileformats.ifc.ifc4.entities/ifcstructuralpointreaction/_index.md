@@ -3,7 +3,7 @@ title: IfcStructuralPointReaction
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23010
+weight: 23000
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralpointreaction/
 ---
 ## IfcStructuralPointReaction class

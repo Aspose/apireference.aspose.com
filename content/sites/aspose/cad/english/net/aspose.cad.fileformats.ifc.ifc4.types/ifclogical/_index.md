@@ -3,7 +3,7 @@ title: IfcLogical
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26130
+weight: 26120
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclogical/
 ---
 ## IfcLogical class

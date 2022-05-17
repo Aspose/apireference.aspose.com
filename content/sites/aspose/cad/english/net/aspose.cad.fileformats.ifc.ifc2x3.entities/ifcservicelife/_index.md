@@ -3,7 +3,7 @@ title: IfcServiceLife
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11720
+weight: 11710
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcservicelife/
 ---
 ## IfcServiceLife class

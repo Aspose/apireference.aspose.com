@@ -3,7 +3,7 @@ title: IfcTankType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23430
+weight: 23420
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctanktype/
 ---
 ## IfcTankType class

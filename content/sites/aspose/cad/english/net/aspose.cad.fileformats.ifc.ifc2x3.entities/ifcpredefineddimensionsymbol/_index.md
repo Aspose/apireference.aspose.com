@@ -3,7 +3,7 @@ title: IfcPreDefinedDimensionSymbol
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10380
+weight: 10370
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefineddimensionsymbol/
 ---
 ## IfcPreDefinedDimensionSymbol class

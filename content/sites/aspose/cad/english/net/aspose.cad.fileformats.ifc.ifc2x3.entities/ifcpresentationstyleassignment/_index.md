@@ -3,7 +3,7 @@ title: IfcPresentationStyleAssignment
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10470
+weight: 10460
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyleassignment/
 ---
 ## IfcPresentationStyleAssignment class

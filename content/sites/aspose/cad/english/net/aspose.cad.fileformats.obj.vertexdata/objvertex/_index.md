@@ -3,7 +3,7 @@ title: ObjVertex
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28560
+weight: 28550
 url: /net/aspose.cad.fileformats.obj.vertexdata/objvertex/
 ---
 ## ObjVertex class

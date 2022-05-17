@@ -3,7 +3,7 @@ title: CadDrawTypeMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1560
+weight: 1550
 url: /net/aspose.cad.fileformats.cad/caddrawtypemode/
 ---
 ## CadDrawTypeMode enumeration

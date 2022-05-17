@@ -3,7 +3,7 @@ title: IfcActor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16460
+weight: 16450
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactor/
 ---
 ## IfcActor class

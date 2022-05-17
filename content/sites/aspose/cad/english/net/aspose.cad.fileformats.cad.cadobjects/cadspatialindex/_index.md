@@ -3,7 +3,7 @@ title: CadSpatialIndex
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2980
+weight: 2970
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialindex/
 ---
 ## CadSpatialIndex class

@@ -3,7 +3,7 @@ title: IfcGroup
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19540
+weight: 19530
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgroup/
 ---
 ## IfcGroup class

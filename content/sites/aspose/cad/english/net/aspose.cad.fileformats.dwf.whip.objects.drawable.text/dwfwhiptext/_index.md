@@ -3,7 +3,7 @@ title: DwfWhipText
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6340
+weight: 6330
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/
 ---
 ## DwfWhipText class

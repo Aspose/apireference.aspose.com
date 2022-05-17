@@ -3,7 +3,7 @@ title: ExifYCbCrPositioning
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 710
+weight: 700
 url: /net/aspose.cad.exif.enums/exifycbcrpositioning/
 ---
 ## ExifYCbCrPositioning enumeration

@@ -12,406 +12,406 @@ url: /net/aspose.cad.fileformats.ifc.ifc4.types/
 
 | Class | Description |
 | --- | --- |
-| class [IfcAbsorbedDoseMeasure](./ifcabsorbeddosemeasure) | IfcAbsorbedDoseMeasure |
-| class [IfcAccelerationMeasure](./ifcaccelerationmeasure) | IfcAccelerationMeasure |
-| class [IfcActorSelect](./ifcactorselect) | IfcActorSelect |
-| class [IfcAmountOfSubstanceMeasure](./ifcamountofsubstancemeasure) | IfcAmountOfSubstanceMeasure |
-| class [IfcAngularVelocityMeasure](./ifcangularvelocitymeasure) | IfcAngularVelocityMeasure |
-| class [IfcAppliedValueSelect](./ifcappliedvalueselect) | IfcAppliedValueSelect |
-| class [IfcArcIndex](./ifcarcindex) | IfcArcIndex |
-| class [IfcAreaDensityMeasure](./ifcareadensitymeasure) | IfcAreaDensityMeasure |
-| class [IfcAreaMeasure](./ifcareameasure) | IfcAreaMeasure |
-| class [IfcAxis2Placement](./ifcaxis2placement) | IfcAxis2Placement |
-| class [IfcBendingParameterSelect](./ifcbendingparameterselect) | IfcBendingParameterSelect |
-| class [IfcBinary](./ifcbinary) | IfcBinary |
-| class [IfcBoolean](./ifcboolean) | IfcBoolean |
-| class [IfcBooleanOperand](./ifcbooleanoperand) | IfcBooleanOperand |
-| class [IfcBoxAlignment](./ifcboxalignment) | IfcBoxAlignment |
-| class [IfcCardinalPointReference](./ifccardinalpointreference) | IfcCardinalPointReference |
-| class [IfcClassificationReferenceSelect](./ifcclassificationreferenceselect) | IfcClassificationReferenceSelect |
-| class [IfcClassificationSelect](./ifcclassificationselect) | IfcClassificationSelect |
-| class [IfcColour](./ifccolour) | IfcColour |
-| class [IfcColourOrFactor](./ifccolourorfactor) | IfcColourOrFactor |
-| class [IfcComplexNumber](./ifccomplexnumber) | IfcComplexNumber |
-| class [IfcCompoundPlaneAngleMeasure](./ifccompoundplaneanglemeasure) | IfcCompoundPlaneAngleMeasure |
-| class [IfcContextDependentMeasure](./ifccontextdependentmeasure) | IfcContextDependentMeasure |
-| class [IfcCoordinateReferenceSystemSelect](./ifccoordinatereferencesystemselect) | IfcCoordinateReferenceSystemSelect |
-| class [IfcCountMeasure](./ifccountmeasure) | IfcCountMeasure |
-| class [IfcCsgSelect](./ifccsgselect) | IfcCsgSelect |
-| class [IfcCurvatureMeasure](./ifccurvaturemeasure) | IfcCurvatureMeasure |
-| class [IfcCurveFontOrScaledCurveFontSelect](./ifccurvefontorscaledcurvefontselect) | IfcCurveFontOrScaledCurveFontSelect |
-| class [IfcCurveOnSurface](./ifccurveonsurface) | IfcCurveOnSurface |
-| class [IfcCurveOrEdgeCurve](./ifccurveoredgecurve) | IfcCurveOrEdgeCurve |
-| class [IfcCurveStyleFontSelect](./ifccurvestylefontselect) | IfcCurveStyleFontSelect |
-| class [IfcDate](./ifcdate) | IfcDate |
-| class [IfcDateTime](./ifcdatetime) | IfcDateTime |
-| class [IfcDayInMonthNumber](./ifcdayinmonthnumber) | IfcDayInMonthNumber |
-| class [IfcDayInWeekNumber](./ifcdayinweeknumber) | IfcDayInWeekNumber |
-| class [IfcDefinitionSelect](./ifcdefinitionselect) | IfcDefinitionSelect |
-| class [IfcDerivedMeasureValue](./ifcderivedmeasurevalue) | IfcDerivedMeasureValue |
-| class [IfcDescriptiveMeasure](./ifcdescriptivemeasure) | IfcDescriptiveMeasure |
-| class [IfcDimensionCount](./ifcdimensioncount) | IfcDimensionCount |
-| class [IfcDocumentSelect](./ifcdocumentselect) | IfcDocumentSelect |
-| class [IfcDoseEquivalentMeasure](./ifcdoseequivalentmeasure) | IfcDoseEquivalentMeasure |
-| class [IfcDuration](./ifcduration) | IfcDuration |
-| class [IfcDynamicViscosityMeasure](./ifcdynamicviscositymeasure) | IfcDynamicViscosityMeasure |
-| class [IfcElectricCapacitanceMeasure](./ifcelectriccapacitancemeasure) | IfcElectricCapacitanceMeasure |
-| class [IfcElectricChargeMeasure](./ifcelectricchargemeasure) | IfcElectricChargeMeasure |
-| class [IfcElectricConductanceMeasure](./ifcelectricconductancemeasure) | IfcElectricConductanceMeasure |
-| class [IfcElectricCurrentMeasure](./ifcelectriccurrentmeasure) | IfcElectricCurrentMeasure |
-| class [IfcElectricResistanceMeasure](./ifcelectricresistancemeasure) | IfcElectricResistanceMeasure |
-| class [IfcElectricVoltageMeasure](./ifcelectricvoltagemeasure) | IfcElectricVoltageMeasure |
-| class [IfcEnergyMeasure](./ifcenergymeasure) | IfcEnergyMeasure |
-| class [IfcFillStyleSelect](./ifcfillstyleselect) | IfcFillStyleSelect |
-| class [IfcFontStyle](./ifcfontstyle) | IfcFontStyle |
-| class [IfcFontVariant](./ifcfontvariant) | IfcFontVariant |
-| class [IfcFontWeight](./ifcfontweight) | IfcFontWeight |
-| class [IfcForceMeasure](./ifcforcemeasure) | IfcForceMeasure |
-| class [IfcFrequencyMeasure](./ifcfrequencymeasure) | IfcFrequencyMeasure |
-| class [IfcGeometricSetSelect](./ifcgeometricsetselect) | IfcGeometricSetSelect |
-| class [IfcGloballyUniqueId](./ifcgloballyuniqueid) | IfcGloballyUniqueId |
-| class [IfcGridPlacementDirectionSelect](./ifcgridplacementdirectionselect) | IfcGridPlacementDirectionSelect |
-| class [IfcHatchLineDistanceSelect](./ifchatchlinedistanceselect) | IfcHatchLineDistanceSelect |
-| class [IfcHeatFluxDensityMeasure](./ifcheatfluxdensitymeasure) | IfcHeatFluxDensityMeasure |
-| class [IfcHeatingValueMeasure](./ifcheatingvaluemeasure) | IfcHeatingValueMeasure |
-| class [IfcIdentifier](./ifcidentifier) | IfcIdentifier |
-| class [IfcIlluminanceMeasure](./ifcilluminancemeasure) | IfcIlluminanceMeasure |
-| class [IfcInductanceMeasure](./ifcinductancemeasure) | IfcInductanceMeasure |
-| class [IfcInteger](./ifcinteger) | IfcInteger |
-| class [IfcIntegerCountRateMeasure](./ifcintegercountratemeasure) | IfcIntegerCountRateMeasure |
-| class [IfcIonConcentrationMeasure](./ifcionconcentrationmeasure) | IfcIonConcentrationMeasure |
-| class [IfcIsothermalMoistureCapacityMeasure](./ifcisothermalmoisturecapacitymeasure) | IfcIsothermalMoistureCapacityMeasure |
-| class [IfcKinematicViscosityMeasure](./ifckinematicviscositymeasure) | IfcKinematicViscosityMeasure |
-| class [IfcLabel](./ifclabel) | IfcLabel |
-| class [IfcLanguageId](./ifclanguageid) | IfcLanguageId |
-| class [IfcLayeredItem](./ifclayereditem) | IfcLayeredItem |
-| class [IfcLengthMeasure](./ifclengthmeasure) | IfcLengthMeasure |
-| class [IfcLibrarySelect](./ifclibraryselect) | IfcLibrarySelect |
-| class [IfcLightDistributionDataSourceSelect](./ifclightdistributiondatasourceselect) | IfcLightDistributionDataSourceSelect |
-| class [IfcLinearForceMeasure](./ifclinearforcemeasure) | IfcLinearForceMeasure |
-| class [IfcLinearMomentMeasure](./ifclinearmomentmeasure) | IfcLinearMomentMeasure |
-| class [IfcLinearStiffnessMeasure](./ifclinearstiffnessmeasure) | IfcLinearStiffnessMeasure |
-| class [IfcLinearVelocityMeasure](./ifclinearvelocitymeasure) | IfcLinearVelocityMeasure |
-| class [IfcLineIndex](./ifclineindex) | IfcLineIndex |
-| class [IfcLogical](./ifclogical) | IfcLogical |
-| class [IfcLuminousFluxMeasure](./ifcluminousfluxmeasure) | IfcLuminousFluxMeasure |
-| class [IfcLuminousIntensityDistributionMeasure](./ifcluminousintensitydistributionmeasure) | IfcLuminousIntensityDistributionMeasure |
-| class [IfcLuminousIntensityMeasure](./ifcluminousintensitymeasure) | IfcLuminousIntensityMeasure |
-| class [IfcMagneticFluxDensityMeasure](./ifcmagneticfluxdensitymeasure) | IfcMagneticFluxDensityMeasure |
-| class [IfcMagneticFluxMeasure](./ifcmagneticfluxmeasure) | IfcMagneticFluxMeasure |
-| class [IfcMassDensityMeasure](./ifcmassdensitymeasure) | IfcMassDensityMeasure |
-| class [IfcMassFlowRateMeasure](./ifcmassflowratemeasure) | IfcMassFlowRateMeasure |
-| class [IfcMassMeasure](./ifcmassmeasure) | IfcMassMeasure |
-| class [IfcMassPerLengthMeasure](./ifcmassperlengthmeasure) | IfcMassPerLengthMeasure |
-| class [IfcMaterialSelect](./ifcmaterialselect) | IfcMaterialSelect |
-| class [IfcMeasureValue](./ifcmeasurevalue) | IfcMeasureValue |
-| class [IfcMetricValueSelect](./ifcmetricvalueselect) | IfcMetricValueSelect |
-| class [IfcModulusOfElasticityMeasure](./ifcmodulusofelasticitymeasure) | IfcModulusOfElasticityMeasure |
-| class [IfcModulusOfLinearSubgradeReactionMeasure](./ifcmodulusoflinearsubgradereactionmeasure) | IfcModulusOfLinearSubgradeReactionMeasure |
-| class [IfcModulusOfRotationalSubgradeReactionMeasure](./ifcmodulusofrotationalsubgradereactionmeasure) | IfcModulusOfRotationalSubgradeReactionMeasure |
-| class [IfcModulusOfRotationalSubgradeReactionSelect](./ifcmodulusofrotationalsubgradereactionselect) | IfcModulusOfRotationalSubgradeReactionSelect |
-| class [IfcModulusOfSubgradeReactionMeasure](./ifcmodulusofsubgradereactionmeasure) | IfcModulusOfSubgradeReactionMeasure |
-| class [IfcModulusOfSubgradeReactionSelect](./ifcmodulusofsubgradereactionselect) | IfcModulusOfSubgradeReactionSelect |
-| class [IfcModulusOfTranslationalSubgradeReactionSelect](./ifcmodulusoftranslationalsubgradereactionselect) | IfcModulusOfTranslationalSubgradeReactionSelect |
-| class [IfcMoistureDiffusivityMeasure](./ifcmoisturediffusivitymeasure) | IfcMoistureDiffusivityMeasure |
-| class [IfcMolecularWeightMeasure](./ifcmolecularweightmeasure) | IfcMolecularWeightMeasure |
-| class [IfcMomentOfInertiaMeasure](./ifcmomentofinertiameasure) | IfcMomentOfInertiaMeasure |
-| class [IfcMonetaryMeasure](./ifcmonetarymeasure) | IfcMonetaryMeasure |
-| class [IfcMonthInYearNumber](./ifcmonthinyearnumber) | IfcMonthInYearNumber |
-| class [IfcNonNegativeLengthMeasure](./ifcnonnegativelengthmeasure) | IfcNonNegativeLengthMeasure |
-| class [IfcNormalisedRatioMeasure](./ifcnormalisedratiomeasure) | IfcNormalisedRatioMeasure |
-| class [IfcNumericMeasure](./ifcnumericmeasure) | IfcNumericMeasure |
-| class [IfcObjectReferenceSelect](./ifcobjectreferenceselect) | IfcObjectReferenceSelect |
-| class [IfcParameterValue](./ifcparametervalue) | Partial IIfc entity class |
-| class [IfcPHMeasure](./ifcphmeasure) | IfcPHMeasure |
-| class [IfcPlanarForceMeasure](./ifcplanarforcemeasure) | IfcPlanarForceMeasure |
-| class [IfcPlaneAngleMeasure](./ifcplaneanglemeasure) | IfcPlaneAngleMeasure |
-| class [IfcPointOrVertexPoint](./ifcpointorvertexpoint) | IfcPointOrVertexPoint |
-| class [IfcPositiveInteger](./ifcpositiveinteger) | IfcPositiveInteger |
-| class [IfcPositiveLengthMeasure](./ifcpositivelengthmeasure) | IfcPositiveLengthMeasure |
-| class [IfcPositivePlaneAngleMeasure](./ifcpositiveplaneanglemeasure) | IfcPositivePlaneAngleMeasure |
-| class [IfcPositiveRatioMeasure](./ifcpositiveratiomeasure) | IfcPositiveRatioMeasure |
-| class [IfcPowerMeasure](./ifcpowermeasure) | IfcPowerMeasure |
-| class [IfcPresentableText](./ifcpresentabletext) | IfcPresentableText |
-| class [IfcPresentationStyleSelect](./ifcpresentationstyleselect) | IfcPresentationStyleSelect |
-| class [IfcPressureMeasure](./ifcpressuremeasure) | IfcPressureMeasure |
-| class [IfcProcessSelect](./ifcprocessselect) | IfcProcessSelect |
-| class [IfcProductRepresentationSelect](./ifcproductrepresentationselect) | IfcProductRepresentationSelect |
-| class [IfcProductSelect](./ifcproductselect) | IfcProductSelect |
-| class [IfcPropertySetDefinitionSelect](./ifcpropertysetdefinitionselect) | IfcPropertySetDefinitionSelect |
-| class [IfcPropertySetDefinitionSet](./ifcpropertysetdefinitionset) | IfcPropertySetDefinitionSet |
-| class [IfcRadioActivityMeasure](./ifcradioactivitymeasure) | IfcRadioActivityMeasure |
-| class [IfcRatioMeasure](./ifcratiomeasure) | IfcRatioMeasure |
-| class [IfcReal](./ifcreal) | IfcReal |
-| class [IfcResourceObjectSelect](./ifcresourceobjectselect) | IfcResourceObjectSelect |
-| class [IfcResourceSelect](./ifcresourceselect) | IfcResourceSelect |
-| class [IfcRotationalFrequencyMeasure](./ifcrotationalfrequencymeasure) | IfcRotationalFrequencyMeasure |
-| class [IfcRotationalMassMeasure](./ifcrotationalmassmeasure) | IfcRotationalMassMeasure |
-| class [IfcRotationalStiffnessMeasure](./ifcrotationalstiffnessmeasure) | IfcRotationalStiffnessMeasure |
-| class [IfcRotationalStiffnessSelect](./ifcrotationalstiffnessselect) | IfcRotationalStiffnessSelect |
-| class [IfcSectionalAreaIntegralMeasure](./ifcsectionalareaintegralmeasure) | IfcSectionalAreaIntegralMeasure |
-| class [IfcSectionModulusMeasure](./ifcsectionmodulusmeasure) | IfcSectionModulusMeasure |
-| class [IfcSegmentIndexSelect](./ifcsegmentindexselect) | IfcSegmentIndexSelect |
-| class [IfcShearModulusMeasure](./ifcshearmodulusmeasure) | IfcShearModulusMeasure |
-| class [IfcShell](./ifcshell) | IfcShell |
-| class [IfcSimpleValue](./ifcsimplevalue) | IfcSimpleValue |
-| class [IfcSizeSelect](./ifcsizeselect) | IfcSizeSelect |
-| class [IfcSolidAngleMeasure](./ifcsolidanglemeasure) | IfcSolidAngleMeasure |
-| class [IfcSolidOrShell](./ifcsolidorshell) | IfcSolidOrShell |
-| class [IfcSoundPowerLevelMeasure](./ifcsoundpowerlevelmeasure) | IfcSoundPowerLevelMeasure |
-| class [IfcSoundPowerMeasure](./ifcsoundpowermeasure) | IfcSoundPowerMeasure |
-| class [IfcSoundPressureLevelMeasure](./ifcsoundpressurelevelmeasure) | IfcSoundPressureLevelMeasure |
-| class [IfcSoundPressureMeasure](./ifcsoundpressuremeasure) | IfcSoundPressureMeasure |
-| class [IfcSpaceBoundarySelect](./ifcspaceboundaryselect) | IfcSpaceBoundarySelect |
-| class [IfcSpecificHeatCapacityMeasure](./ifcspecificheatcapacitymeasure) | IfcSpecificHeatCapacityMeasure |
-| class [IfcSpecularExponent](./ifcspecularexponent) | IfcSpecularExponent |
-| class [IfcSpecularHighlightSelect](./ifcspecularhighlightselect) | IfcSpecularHighlightSelect |
-| class [IfcSpecularRoughness](./ifcspecularroughness) | IfcSpecularRoughness |
-| class [IfcStructuralActivityAssignmentSelect](./ifcstructuralactivityassignmentselect) | IfcStructuralActivityAssignmentSelect |
-| class [IfcStyleAssignmentSelect](./ifcstyleassignmentselect) | IfcStyleAssignmentSelect |
-| class [IfcSurfaceOrFaceSurface](./ifcsurfaceorfacesurface) | IfcSurfaceOrFaceSurface |
-| class [IfcSurfaceStyleElementSelect](./ifcsurfacestyleelementselect) | IfcSurfaceStyleElementSelect |
-| class [IfcTemperatureGradientMeasure](./ifctemperaturegradientmeasure) | IfcTemperatureGradientMeasure |
-| class [IfcTemperatureRateOfChangeMeasure](./ifctemperaturerateofchangemeasure) | IfcTemperatureRateOfChangeMeasure |
-| class [IfcText](./ifctext) | IfcText |
-| class [IfcTextAlignment](./ifctextalignment) | IfcTextAlignment |
-| class [IfcTextDecoration](./ifctextdecoration) | IfcTextDecoration |
-| class [IfcTextFontName](./ifctextfontname) | IfcTextFontName |
-| class [IfcTextFontSelect](./ifctextfontselect) | IfcTextFontSelect |
-| class [IfcTextTransformation](./ifctexttransformation) | IfcTextTransformation |
-| class [IfcThermalAdmittanceMeasure](./ifcthermaladmittancemeasure) | IfcThermalAdmittanceMeasure |
-| class [IfcThermalConductivityMeasure](./ifcthermalconductivitymeasure) | IfcThermalConductivityMeasure |
-| class [IfcThermalExpansionCoefficientMeasure](./ifcthermalexpansioncoefficientmeasure) | IfcThermalExpansionCoefficientMeasure |
-| class [IfcThermalResistanceMeasure](./ifcthermalresistancemeasure) | IfcThermalResistanceMeasure |
-| class [IfcThermalTransmittanceMeasure](./ifcthermaltransmittancemeasure) | IfcThermalTransmittanceMeasure |
-| class [IfcThermodynamicTemperatureMeasure](./ifcthermodynamictemperaturemeasure) | IfcThermodynamicTemperatureMeasure |
-| class [IfcTime](./ifctime) | IfcTime |
-| class [IfcTimeMeasure](./ifctimemeasure) | IfcTimeMeasure |
-| class [IfcTimeOrRatioSelect](./ifctimeorratioselect) | IfcTimeOrRatioSelect |
-| class [IfcTimeStamp](./ifctimestamp) | IfcTimeStamp |
-| class [IfcTorqueMeasure](./ifctorquemeasure) | IfcTorqueMeasure |
-| class [IfcTranslationalStiffnessSelect](./ifctranslationalstiffnessselect) | IfcTranslationalStiffnessSelect |
-| class [IfcTrimmingSelect](./ifctrimmingselect) | IfcTrimmingSelect |
-| class [IfcUnit](./ifcunit) | IfcUnit |
-| class [IfcURIReference](./ifcurireference) | IfcURIReference |
-| class [IfcValue](./ifcvalue) | IfcValue |
-| class [IfcVaporPermeabilityMeasure](./ifcvaporpermeabilitymeasure) | IfcVaporPermeabilityMeasure |
-| class [IfcVectorOrDirection](./ifcvectorordirection) | IfcVectorOrDirection |
-| class [IfcVolumeMeasure](./ifcvolumemeasure) | IfcVolumeMeasure |
-| class [IfcVolumetricFlowRateMeasure](./ifcvolumetricflowratemeasure) | IfcVolumetricFlowRateMeasure |
-| class [IfcWarpingConstantMeasure](./ifcwarpingconstantmeasure) | IfcWarpingConstantMeasure |
-| class [IfcWarpingMomentMeasure](./ifcwarpingmomentmeasure) | IfcWarpingMomentMeasure |
-| class [IfcWarpingStiffnessSelect](./ifcwarpingstiffnessselect) | IfcWarpingStiffnessSelect |
+| [IfcAbsorbedDoseMeasure](./ifcabsorbeddosemeasure) | IfcAbsorbedDoseMeasure |
+| [IfcAccelerationMeasure](./ifcaccelerationmeasure) | IfcAccelerationMeasure |
+| [IfcActorSelect](./ifcactorselect) | IfcActorSelect |
+| [IfcAmountOfSubstanceMeasure](./ifcamountofsubstancemeasure) | IfcAmountOfSubstanceMeasure |
+| [IfcAngularVelocityMeasure](./ifcangularvelocitymeasure) | IfcAngularVelocityMeasure |
+| [IfcAppliedValueSelect](./ifcappliedvalueselect) | IfcAppliedValueSelect |
+| [IfcArcIndex](./ifcarcindex) | IfcArcIndex |
+| [IfcAreaDensityMeasure](./ifcareadensitymeasure) | IfcAreaDensityMeasure |
+| [IfcAreaMeasure](./ifcareameasure) | IfcAreaMeasure |
+| [IfcAxis2Placement](./ifcaxis2placement) | IfcAxis2Placement |
+| [IfcBendingParameterSelect](./ifcbendingparameterselect) | IfcBendingParameterSelect |
+| [IfcBinary](./ifcbinary) | IfcBinary |
+| [IfcBoolean](./ifcboolean) | IfcBoolean |
+| [IfcBooleanOperand](./ifcbooleanoperand) | IfcBooleanOperand |
+| [IfcBoxAlignment](./ifcboxalignment) | IfcBoxAlignment |
+| [IfcCardinalPointReference](./ifccardinalpointreference) | IfcCardinalPointReference |
+| [IfcClassificationReferenceSelect](./ifcclassificationreferenceselect) | IfcClassificationReferenceSelect |
+| [IfcClassificationSelect](./ifcclassificationselect) | IfcClassificationSelect |
+| [IfcColour](./ifccolour) | IfcColour |
+| [IfcColourOrFactor](./ifccolourorfactor) | IfcColourOrFactor |
+| [IfcComplexNumber](./ifccomplexnumber) | IfcComplexNumber |
+| [IfcCompoundPlaneAngleMeasure](./ifccompoundplaneanglemeasure) | IfcCompoundPlaneAngleMeasure |
+| [IfcContextDependentMeasure](./ifccontextdependentmeasure) | IfcContextDependentMeasure |
+| [IfcCoordinateReferenceSystemSelect](./ifccoordinatereferencesystemselect) | IfcCoordinateReferenceSystemSelect |
+| [IfcCountMeasure](./ifccountmeasure) | IfcCountMeasure |
+| [IfcCsgSelect](./ifccsgselect) | IfcCsgSelect |
+| [IfcCurvatureMeasure](./ifccurvaturemeasure) | IfcCurvatureMeasure |
+| [IfcCurveFontOrScaledCurveFontSelect](./ifccurvefontorscaledcurvefontselect) | IfcCurveFontOrScaledCurveFontSelect |
+| [IfcCurveOnSurface](./ifccurveonsurface) | IfcCurveOnSurface |
+| [IfcCurveOrEdgeCurve](./ifccurveoredgecurve) | IfcCurveOrEdgeCurve |
+| [IfcCurveStyleFontSelect](./ifccurvestylefontselect) | IfcCurveStyleFontSelect |
+| [IfcDate](./ifcdate) | IfcDate |
+| [IfcDateTime](./ifcdatetime) | IfcDateTime |
+| [IfcDayInMonthNumber](./ifcdayinmonthnumber) | IfcDayInMonthNumber |
+| [IfcDayInWeekNumber](./ifcdayinweeknumber) | IfcDayInWeekNumber |
+| [IfcDefinitionSelect](./ifcdefinitionselect) | IfcDefinitionSelect |
+| [IfcDerivedMeasureValue](./ifcderivedmeasurevalue) | IfcDerivedMeasureValue |
+| [IfcDescriptiveMeasure](./ifcdescriptivemeasure) | IfcDescriptiveMeasure |
+| [IfcDimensionCount](./ifcdimensioncount) | IfcDimensionCount |
+| [IfcDocumentSelect](./ifcdocumentselect) | IfcDocumentSelect |
+| [IfcDoseEquivalentMeasure](./ifcdoseequivalentmeasure) | IfcDoseEquivalentMeasure |
+| [IfcDuration](./ifcduration) | IfcDuration |
+| [IfcDynamicViscosityMeasure](./ifcdynamicviscositymeasure) | IfcDynamicViscosityMeasure |
+| [IfcElectricCapacitanceMeasure](./ifcelectriccapacitancemeasure) | IfcElectricCapacitanceMeasure |
+| [IfcElectricChargeMeasure](./ifcelectricchargemeasure) | IfcElectricChargeMeasure |
+| [IfcElectricConductanceMeasure](./ifcelectricconductancemeasure) | IfcElectricConductanceMeasure |
+| [IfcElectricCurrentMeasure](./ifcelectriccurrentmeasure) | IfcElectricCurrentMeasure |
+| [IfcElectricResistanceMeasure](./ifcelectricresistancemeasure) | IfcElectricResistanceMeasure |
+| [IfcElectricVoltageMeasure](./ifcelectricvoltagemeasure) | IfcElectricVoltageMeasure |
+| [IfcEnergyMeasure](./ifcenergymeasure) | IfcEnergyMeasure |
+| [IfcFillStyleSelect](./ifcfillstyleselect) | IfcFillStyleSelect |
+| [IfcFontStyle](./ifcfontstyle) | IfcFontStyle |
+| [IfcFontVariant](./ifcfontvariant) | IfcFontVariant |
+| [IfcFontWeight](./ifcfontweight) | IfcFontWeight |
+| [IfcForceMeasure](./ifcforcemeasure) | IfcForceMeasure |
+| [IfcFrequencyMeasure](./ifcfrequencymeasure) | IfcFrequencyMeasure |
+| [IfcGeometricSetSelect](./ifcgeometricsetselect) | IfcGeometricSetSelect |
+| [IfcGloballyUniqueId](./ifcgloballyuniqueid) | IfcGloballyUniqueId |
+| [IfcGridPlacementDirectionSelect](./ifcgridplacementdirectionselect) | IfcGridPlacementDirectionSelect |
+| [IfcHatchLineDistanceSelect](./ifchatchlinedistanceselect) | IfcHatchLineDistanceSelect |
+| [IfcHeatFluxDensityMeasure](./ifcheatfluxdensitymeasure) | IfcHeatFluxDensityMeasure |
+| [IfcHeatingValueMeasure](./ifcheatingvaluemeasure) | IfcHeatingValueMeasure |
+| [IfcIdentifier](./ifcidentifier) | IfcIdentifier |
+| [IfcIlluminanceMeasure](./ifcilluminancemeasure) | IfcIlluminanceMeasure |
+| [IfcInductanceMeasure](./ifcinductancemeasure) | IfcInductanceMeasure |
+| [IfcInteger](./ifcinteger) | IfcInteger |
+| [IfcIntegerCountRateMeasure](./ifcintegercountratemeasure) | IfcIntegerCountRateMeasure |
+| [IfcIonConcentrationMeasure](./ifcionconcentrationmeasure) | IfcIonConcentrationMeasure |
+| [IfcIsothermalMoistureCapacityMeasure](./ifcisothermalmoisturecapacitymeasure) | IfcIsothermalMoistureCapacityMeasure |
+| [IfcKinematicViscosityMeasure](./ifckinematicviscositymeasure) | IfcKinematicViscosityMeasure |
+| [IfcLabel](./ifclabel) | IfcLabel |
+| [IfcLanguageId](./ifclanguageid) | IfcLanguageId |
+| [IfcLayeredItem](./ifclayereditem) | IfcLayeredItem |
+| [IfcLengthMeasure](./ifclengthmeasure) | IfcLengthMeasure |
+| [IfcLibrarySelect](./ifclibraryselect) | IfcLibrarySelect |
+| [IfcLightDistributionDataSourceSelect](./ifclightdistributiondatasourceselect) | IfcLightDistributionDataSourceSelect |
+| [IfcLinearForceMeasure](./ifclinearforcemeasure) | IfcLinearForceMeasure |
+| [IfcLinearMomentMeasure](./ifclinearmomentmeasure) | IfcLinearMomentMeasure |
+| [IfcLinearStiffnessMeasure](./ifclinearstiffnessmeasure) | IfcLinearStiffnessMeasure |
+| [IfcLinearVelocityMeasure](./ifclinearvelocitymeasure) | IfcLinearVelocityMeasure |
+| [IfcLineIndex](./ifclineindex) | IfcLineIndex |
+| [IfcLogical](./ifclogical) | IfcLogical |
+| [IfcLuminousFluxMeasure](./ifcluminousfluxmeasure) | IfcLuminousFluxMeasure |
+| [IfcLuminousIntensityDistributionMeasure](./ifcluminousintensitydistributionmeasure) | IfcLuminousIntensityDistributionMeasure |
+| [IfcLuminousIntensityMeasure](./ifcluminousintensitymeasure) | IfcLuminousIntensityMeasure |
+| [IfcMagneticFluxDensityMeasure](./ifcmagneticfluxdensitymeasure) | IfcMagneticFluxDensityMeasure |
+| [IfcMagneticFluxMeasure](./ifcmagneticfluxmeasure) | IfcMagneticFluxMeasure |
+| [IfcMassDensityMeasure](./ifcmassdensitymeasure) | IfcMassDensityMeasure |
+| [IfcMassFlowRateMeasure](./ifcmassflowratemeasure) | IfcMassFlowRateMeasure |
+| [IfcMassMeasure](./ifcmassmeasure) | IfcMassMeasure |
+| [IfcMassPerLengthMeasure](./ifcmassperlengthmeasure) | IfcMassPerLengthMeasure |
+| [IfcMaterialSelect](./ifcmaterialselect) | IfcMaterialSelect |
+| [IfcMeasureValue](./ifcmeasurevalue) | IfcMeasureValue |
+| [IfcMetricValueSelect](./ifcmetricvalueselect) | IfcMetricValueSelect |
+| [IfcModulusOfElasticityMeasure](./ifcmodulusofelasticitymeasure) | IfcModulusOfElasticityMeasure |
+| [IfcModulusOfLinearSubgradeReactionMeasure](./ifcmodulusoflinearsubgradereactionmeasure) | IfcModulusOfLinearSubgradeReactionMeasure |
+| [IfcModulusOfRotationalSubgradeReactionMeasure](./ifcmodulusofrotationalsubgradereactionmeasure) | IfcModulusOfRotationalSubgradeReactionMeasure |
+| [IfcModulusOfRotationalSubgradeReactionSelect](./ifcmodulusofrotationalsubgradereactionselect) | IfcModulusOfRotationalSubgradeReactionSelect |
+| [IfcModulusOfSubgradeReactionMeasure](./ifcmodulusofsubgradereactionmeasure) | IfcModulusOfSubgradeReactionMeasure |
+| [IfcModulusOfSubgradeReactionSelect](./ifcmodulusofsubgradereactionselect) | IfcModulusOfSubgradeReactionSelect |
+| [IfcModulusOfTranslationalSubgradeReactionSelect](./ifcmodulusoftranslationalsubgradereactionselect) | IfcModulusOfTranslationalSubgradeReactionSelect |
+| [IfcMoistureDiffusivityMeasure](./ifcmoisturediffusivitymeasure) | IfcMoistureDiffusivityMeasure |
+| [IfcMolecularWeightMeasure](./ifcmolecularweightmeasure) | IfcMolecularWeightMeasure |
+| [IfcMomentOfInertiaMeasure](./ifcmomentofinertiameasure) | IfcMomentOfInertiaMeasure |
+| [IfcMonetaryMeasure](./ifcmonetarymeasure) | IfcMonetaryMeasure |
+| [IfcMonthInYearNumber](./ifcmonthinyearnumber) | IfcMonthInYearNumber |
+| [IfcNonNegativeLengthMeasure](./ifcnonnegativelengthmeasure) | IfcNonNegativeLengthMeasure |
+| [IfcNormalisedRatioMeasure](./ifcnormalisedratiomeasure) | IfcNormalisedRatioMeasure |
+| [IfcNumericMeasure](./ifcnumericmeasure) | IfcNumericMeasure |
+| [IfcObjectReferenceSelect](./ifcobjectreferenceselect) | IfcObjectReferenceSelect |
+| [IfcParameterValue](./ifcparametervalue) | Partial IIfc entity class |
+| [IfcPHMeasure](./ifcphmeasure) | IfcPHMeasure |
+| [IfcPlanarForceMeasure](./ifcplanarforcemeasure) | IfcPlanarForceMeasure |
+| [IfcPlaneAngleMeasure](./ifcplaneanglemeasure) | IfcPlaneAngleMeasure |
+| [IfcPointOrVertexPoint](./ifcpointorvertexpoint) | IfcPointOrVertexPoint |
+| [IfcPositiveInteger](./ifcpositiveinteger) | IfcPositiveInteger |
+| [IfcPositiveLengthMeasure](./ifcpositivelengthmeasure) | IfcPositiveLengthMeasure |
+| [IfcPositivePlaneAngleMeasure](./ifcpositiveplaneanglemeasure) | IfcPositivePlaneAngleMeasure |
+| [IfcPositiveRatioMeasure](./ifcpositiveratiomeasure) | IfcPositiveRatioMeasure |
+| [IfcPowerMeasure](./ifcpowermeasure) | IfcPowerMeasure |
+| [IfcPresentableText](./ifcpresentabletext) | IfcPresentableText |
+| [IfcPresentationStyleSelect](./ifcpresentationstyleselect) | IfcPresentationStyleSelect |
+| [IfcPressureMeasure](./ifcpressuremeasure) | IfcPressureMeasure |
+| [IfcProcessSelect](./ifcprocessselect) | IfcProcessSelect |
+| [IfcProductRepresentationSelect](./ifcproductrepresentationselect) | IfcProductRepresentationSelect |
+| [IfcProductSelect](./ifcproductselect) | IfcProductSelect |
+| [IfcPropertySetDefinitionSelect](./ifcpropertysetdefinitionselect) | IfcPropertySetDefinitionSelect |
+| [IfcPropertySetDefinitionSet](./ifcpropertysetdefinitionset) | IfcPropertySetDefinitionSet |
+| [IfcRadioActivityMeasure](./ifcradioactivitymeasure) | IfcRadioActivityMeasure |
+| [IfcRatioMeasure](./ifcratiomeasure) | IfcRatioMeasure |
+| [IfcReal](./ifcreal) | IfcReal |
+| [IfcResourceObjectSelect](./ifcresourceobjectselect) | IfcResourceObjectSelect |
+| [IfcResourceSelect](./ifcresourceselect) | IfcResourceSelect |
+| [IfcRotationalFrequencyMeasure](./ifcrotationalfrequencymeasure) | IfcRotationalFrequencyMeasure |
+| [IfcRotationalMassMeasure](./ifcrotationalmassmeasure) | IfcRotationalMassMeasure |
+| [IfcRotationalStiffnessMeasure](./ifcrotationalstiffnessmeasure) | IfcRotationalStiffnessMeasure |
+| [IfcRotationalStiffnessSelect](./ifcrotationalstiffnessselect) | IfcRotationalStiffnessSelect |
+| [IfcSectionalAreaIntegralMeasure](./ifcsectionalareaintegralmeasure) | IfcSectionalAreaIntegralMeasure |
+| [IfcSectionModulusMeasure](./ifcsectionmodulusmeasure) | IfcSectionModulusMeasure |
+| [IfcSegmentIndexSelect](./ifcsegmentindexselect) | IfcSegmentIndexSelect |
+| [IfcShearModulusMeasure](./ifcshearmodulusmeasure) | IfcShearModulusMeasure |
+| [IfcShell](./ifcshell) | IfcShell |
+| [IfcSimpleValue](./ifcsimplevalue) | IfcSimpleValue |
+| [IfcSizeSelect](./ifcsizeselect) | IfcSizeSelect |
+| [IfcSolidAngleMeasure](./ifcsolidanglemeasure) | IfcSolidAngleMeasure |
+| [IfcSolidOrShell](./ifcsolidorshell) | IfcSolidOrShell |
+| [IfcSoundPowerLevelMeasure](./ifcsoundpowerlevelmeasure) | IfcSoundPowerLevelMeasure |
+| [IfcSoundPowerMeasure](./ifcsoundpowermeasure) | IfcSoundPowerMeasure |
+| [IfcSoundPressureLevelMeasure](./ifcsoundpressurelevelmeasure) | IfcSoundPressureLevelMeasure |
+| [IfcSoundPressureMeasure](./ifcsoundpressuremeasure) | IfcSoundPressureMeasure |
+| [IfcSpaceBoundarySelect](./ifcspaceboundaryselect) | IfcSpaceBoundarySelect |
+| [IfcSpecificHeatCapacityMeasure](./ifcspecificheatcapacitymeasure) | IfcSpecificHeatCapacityMeasure |
+| [IfcSpecularExponent](./ifcspecularexponent) | IfcSpecularExponent |
+| [IfcSpecularHighlightSelect](./ifcspecularhighlightselect) | IfcSpecularHighlightSelect |
+| [IfcSpecularRoughness](./ifcspecularroughness) | IfcSpecularRoughness |
+| [IfcStructuralActivityAssignmentSelect](./ifcstructuralactivityassignmentselect) | IfcStructuralActivityAssignmentSelect |
+| [IfcStyleAssignmentSelect](./ifcstyleassignmentselect) | IfcStyleAssignmentSelect |
+| [IfcSurfaceOrFaceSurface](./ifcsurfaceorfacesurface) | IfcSurfaceOrFaceSurface |
+| [IfcSurfaceStyleElementSelect](./ifcsurfacestyleelementselect) | IfcSurfaceStyleElementSelect |
+| [IfcTemperatureGradientMeasure](./ifctemperaturegradientmeasure) | IfcTemperatureGradientMeasure |
+| [IfcTemperatureRateOfChangeMeasure](./ifctemperaturerateofchangemeasure) | IfcTemperatureRateOfChangeMeasure |
+| [IfcText](./ifctext) | IfcText |
+| [IfcTextAlignment](./ifctextalignment) | IfcTextAlignment |
+| [IfcTextDecoration](./ifctextdecoration) | IfcTextDecoration |
+| [IfcTextFontName](./ifctextfontname) | IfcTextFontName |
+| [IfcTextFontSelect](./ifctextfontselect) | IfcTextFontSelect |
+| [IfcTextTransformation](./ifctexttransformation) | IfcTextTransformation |
+| [IfcThermalAdmittanceMeasure](./ifcthermaladmittancemeasure) | IfcThermalAdmittanceMeasure |
+| [IfcThermalConductivityMeasure](./ifcthermalconductivitymeasure) | IfcThermalConductivityMeasure |
+| [IfcThermalExpansionCoefficientMeasure](./ifcthermalexpansioncoefficientmeasure) | IfcThermalExpansionCoefficientMeasure |
+| [IfcThermalResistanceMeasure](./ifcthermalresistancemeasure) | IfcThermalResistanceMeasure |
+| [IfcThermalTransmittanceMeasure](./ifcthermaltransmittancemeasure) | IfcThermalTransmittanceMeasure |
+| [IfcThermodynamicTemperatureMeasure](./ifcthermodynamictemperaturemeasure) | IfcThermodynamicTemperatureMeasure |
+| [IfcTime](./ifctime) | IfcTime |
+| [IfcTimeMeasure](./ifctimemeasure) | IfcTimeMeasure |
+| [IfcTimeOrRatioSelect](./ifctimeorratioselect) | IfcTimeOrRatioSelect |
+| [IfcTimeStamp](./ifctimestamp) | IfcTimeStamp |
+| [IfcTorqueMeasure](./ifctorquemeasure) | IfcTorqueMeasure |
+| [IfcTranslationalStiffnessSelect](./ifctranslationalstiffnessselect) | IfcTranslationalStiffnessSelect |
+| [IfcTrimmingSelect](./ifctrimmingselect) | IfcTrimmingSelect |
+| [IfcUnit](./ifcunit) | IfcUnit |
+| [IfcURIReference](./ifcurireference) | IfcURIReference |
+| [IfcValue](./ifcvalue) | IfcValue |
+| [IfcVaporPermeabilityMeasure](./ifcvaporpermeabilitymeasure) | IfcVaporPermeabilityMeasure |
+| [IfcVectorOrDirection](./ifcvectorordirection) | IfcVectorOrDirection |
+| [IfcVolumeMeasure](./ifcvolumemeasure) | IfcVolumeMeasure |
+| [IfcVolumetricFlowRateMeasure](./ifcvolumetricflowratemeasure) | IfcVolumetricFlowRateMeasure |
+| [IfcWarpingConstantMeasure](./ifcwarpingconstantmeasure) | IfcWarpingConstantMeasure |
+| [IfcWarpingMomentMeasure](./ifcwarpingmomentmeasure) | IfcWarpingMomentMeasure |
+| [IfcWarpingStiffnessSelect](./ifcwarpingstiffnessselect) | IfcWarpingStiffnessSelect |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
-| enum [IfcActionRequestTypeEnum](./ifcactionrequesttypeenum) | IfcActionRequestTypeEnum |
-| enum [IfcActionSourceTypeEnum](./ifcactionsourcetypeenum) | IfcActionSourceTypeEnum |
-| enum [IfcActionTypeEnum](./ifcactiontypeenum) | IfcActionTypeEnum |
-| enum [IfcActuatorTypeEnum](./ifcactuatortypeenum) | IfcActuatorTypeEnum |
-| enum [IfcAddressTypeEnum](./ifcaddresstypeenum) | IfcAddressTypeEnum |
-| enum [IfcAirTerminalBoxTypeEnum](./ifcairterminalboxtypeenum) | IfcAirTerminalBoxTypeEnum |
-| enum [IfcAirTerminalTypeEnum](./ifcairterminaltypeenum) | IfcAirTerminalTypeEnum |
-| enum [IfcAirToAirHeatRecoveryTypeEnum](./ifcairtoairheatrecoverytypeenum) | IfcAirToAirHeatRecoveryTypeEnum |
-| enum [IfcAlarmTypeEnum](./ifcalarmtypeenum) | IfcAlarmTypeEnum |
-| enum [IfcAnalysisModelTypeEnum](./ifcanalysismodeltypeenum) | IfcAnalysisModelTypeEnum |
-| enum [IfcAnalysisTheoryTypeEnum](./ifcanalysistheorytypeenum) | IfcAnalysisTheoryTypeEnum |
-| enum [IfcArithmeticOperatorEnum](./ifcarithmeticoperatorenum) | IfcArithmeticOperatorEnum |
-| enum [IfcAssemblyPlaceEnum](./ifcassemblyplaceenum) | IfcAssemblyPlaceEnum |
-| enum [IfcAudioVisualApplianceTypeEnum](./ifcaudiovisualappliancetypeenum) | IfcAudioVisualApplianceTypeEnum |
-| enum [IfcBeamTypeEnum](./ifcbeamtypeenum) | IfcBeamTypeEnum |
-| enum [IfcBenchmarkEnum](./ifcbenchmarkenum) | IfcBenchmarkEnum |
-| enum [IfcBoilerTypeEnum](./ifcboilertypeenum) | IfcBoilerTypeEnum |
-| enum [IfcBooleanOperator](./ifcbooleanoperator) | IfcBooleanOperator |
-| enum [IfcBSplineCurveForm](./ifcbsplinecurveform) | IfcBSplineCurveForm |
-| enum [IfcBSplineSurfaceForm](./ifcbsplinesurfaceform) | IfcBSplineSurfaceForm |
-| enum [IfcBuildingElementPartTypeEnum](./ifcbuildingelementparttypeenum) | IfcBuildingElementPartTypeEnum |
-| enum [IfcBuildingElementProxyTypeEnum](./ifcbuildingelementproxytypeenum) | IfcBuildingElementProxyTypeEnum |
-| enum [IfcBuildingSystemTypeEnum](./ifcbuildingsystemtypeenum) | IfcBuildingSystemTypeEnum |
-| enum [IfcBurnerTypeEnum](./ifcburnertypeenum) | IfcBurnerTypeEnum |
-| enum [IfcCableCarrierFittingTypeEnum](./ifccablecarrierfittingtypeenum) | IfcCableCarrierFittingTypeEnum |
-| enum [IfcCableCarrierSegmentTypeEnum](./ifccablecarriersegmenttypeenum) | IfcCableCarrierSegmentTypeEnum |
-| enum [IfcCableFittingTypeEnum](./ifccablefittingtypeenum) | IfcCableFittingTypeEnum |
-| enum [IfcCableSegmentTypeEnum](./ifccablesegmenttypeenum) | IfcCableSegmentTypeEnum |
-| enum [IfcChangeActionEnum](./ifcchangeactionenum) | IfcChangeActionEnum |
-| enum [IfcChillerTypeEnum](./ifcchillertypeenum) | IfcChillerTypeEnum |
-| enum [IfcChimneyTypeEnum](./ifcchimneytypeenum) | IfcChimneyTypeEnum |
-| enum [IfcCoilTypeEnum](./ifccoiltypeenum) | IfcCoilTypeEnum |
-| enum [IfcColumnTypeEnum](./ifccolumntypeenum) | IfcColumnTypeEnum |
-| enum [IfcCommunicationsApplianceTypeEnum](./ifccommunicationsappliancetypeenum) | IfcCommunicationsApplianceTypeEnum |
-| enum [IfcComplexPropertyTemplateTypeEnum](./ifccomplexpropertytemplatetypeenum) | IfcComplexPropertyTemplateTypeEnum |
-| enum [IfcCompressorTypeEnum](./ifccompressortypeenum) | IfcCompressorTypeEnum |
-| enum [IfcCondenserTypeEnum](./ifccondensertypeenum) | IfcCondenserTypeEnum |
-| enum [IfcConnectionTypeEnum](./ifcconnectiontypeenum) | IfcConnectionTypeEnum |
-| enum [IfcConstraintEnum](./ifcconstraintenum) | IfcConstraintEnum |
-| enum [IfcConstructionEquipmentResourceTypeEnum](./ifcconstructionequipmentresourcetypeenum) | IfcConstructionEquipmentResourceTypeEnum |
-| enum [IfcConstructionMaterialResourceTypeEnum](./ifcconstructionmaterialresourcetypeenum) | IfcConstructionMaterialResourceTypeEnum |
-| enum [IfcConstructionProductResourceTypeEnum](./ifcconstructionproductresourcetypeenum) | IfcConstructionProductResourceTypeEnum |
-| enum [IfcControllerTypeEnum](./ifccontrollertypeenum) | IfcControllerTypeEnum |
-| enum [IfcCooledBeamTypeEnum](./ifccooledbeamtypeenum) | IfcCooledBeamTypeEnum |
-| enum [IfcCoolingTowerTypeEnum](./ifccoolingtowertypeenum) | IfcCoolingTowerTypeEnum |
-| enum [IfcCostItemTypeEnum](./ifccostitemtypeenum) | IfcCostItemTypeEnum |
-| enum [IfcCostScheduleTypeEnum](./ifccostscheduletypeenum) | IfcCostScheduleTypeEnum |
-| enum [IfcCoveringTypeEnum](./ifccoveringtypeenum) | IfcCoveringTypeEnum |
-| enum [IfcCrewResourceTypeEnum](./ifccrewresourcetypeenum) | IfcCrewResourceTypeEnum |
-| enum [IfcCurtainWallTypeEnum](./ifccurtainwalltypeenum) | IfcCurtainWallTypeEnum |
-| enum [IfcCurveInterpolationEnum](./ifccurveinterpolationenum) | IfcCurveInterpolationEnum |
-| enum [IfcDamperTypeEnum](./ifcdampertypeenum) | IfcDamperTypeEnum |
-| enum [IfcDataOriginEnum](./ifcdataoriginenum) | IfcDataOriginEnum |
-| enum [IfcDerivedUnitEnum](./ifcderivedunitenum) | IfcDerivedUnitEnum |
-| enum [IfcDirectionSenseEnum](./ifcdirectionsenseenum) | IfcDirectionSenseEnum |
-| enum [IfcDiscreteAccessoryTypeEnum](./ifcdiscreteaccessorytypeenum) | IfcDiscreteAccessoryTypeEnum |
-| enum [IfcDistributionChamberElementTypeEnum](./ifcdistributionchamberelementtypeenum) | IfcDistributionChamberElementTypeEnum |
-| enum [IfcDistributionPortTypeEnum](./ifcdistributionporttypeenum) | IfcDistributionPortTypeEnum |
-| enum [IfcDistributionSystemEnum](./ifcdistributionsystemenum) | IfcDistributionSystemEnum |
-| enum [IfcDocumentConfidentialityEnum](./ifcdocumentconfidentialityenum) | IfcDocumentConfidentialityEnum |
-| enum [IfcDocumentStatusEnum](./ifcdocumentstatusenum) | IfcDocumentStatusEnum |
-| enum [IfcDoorPanelOperationEnum](./ifcdoorpaneloperationenum) | IfcDoorPanelOperationEnum |
-| enum [IfcDoorPanelPositionEnum](./ifcdoorpanelpositionenum) | IfcDoorPanelPositionEnum |
-| enum [IfcDoorStyleConstructionEnum](./ifcdoorstyleconstructionenum) | IfcDoorStyleConstructionEnum |
-| enum [IfcDoorStyleOperationEnum](./ifcdoorstyleoperationenum) | IfcDoorStyleOperationEnum |
-| enum [IfcDoorTypeEnum](./ifcdoortypeenum) | IfcDoorTypeEnum |
-| enum [IfcDoorTypeOperationEnum](./ifcdoortypeoperationenum) | IfcDoorTypeOperationEnum |
-| enum [IfcDuctFittingTypeEnum](./ifcductfittingtypeenum) | IfcDuctFittingTypeEnum |
-| enum [IfcDuctSegmentTypeEnum](./ifcductsegmenttypeenum) | IfcDuctSegmentTypeEnum |
-| enum [IfcDuctSilencerTypeEnum](./ifcductsilencertypeenum) | IfcDuctSilencerTypeEnum |
-| enum [IfcElectricApplianceTypeEnum](./ifcelectricappliancetypeenum) | IfcElectricApplianceTypeEnum |
-| enum [IfcElectricDistributionBoardTypeEnum](./ifcelectricdistributionboardtypeenum) | IfcElectricDistributionBoardTypeEnum |
-| enum [IfcElectricFlowStorageDeviceTypeEnum](./ifcelectricflowstoragedevicetypeenum) | IfcElectricFlowStorageDeviceTypeEnum |
-| enum [IfcElectricGeneratorTypeEnum](./ifcelectricgeneratortypeenum) | IfcElectricGeneratorTypeEnum |
-| enum [IfcElectricMotorTypeEnum](./ifcelectricmotortypeenum) | IfcElectricMotorTypeEnum |
-| enum [IfcElectricTimeControlTypeEnum](./ifcelectrictimecontroltypeenum) | IfcElectricTimeControlTypeEnum |
-| enum [IfcElementAssemblyTypeEnum](./ifcelementassemblytypeenum) | IfcElementAssemblyTypeEnum |
-| enum [IfcElementCompositionEnum](./ifcelementcompositionenum) | IfcElementCompositionEnum |
-| enum [IfcEngineTypeEnum](./ifcenginetypeenum) | IfcEngineTypeEnum |
-| enum [IfcEvaporativeCoolerTypeEnum](./ifcevaporativecoolertypeenum) | IfcEvaporativeCoolerTypeEnum |
-| enum [IfcEvaporatorTypeEnum](./ifcevaporatortypeenum) | IfcEvaporatorTypeEnum |
-| enum [IfcEventTriggerTypeEnum](./ifceventtriggertypeenum) | IfcEventTriggerTypeEnum |
-| enum [IfcEventTypeEnum](./ifceventtypeenum) | IfcEventTypeEnum |
-| enum [IfcExternalSpatialElementTypeEnum](./ifcexternalspatialelementtypeenum) | IfcExternalSpatialElementTypeEnum |
-| enum [IfcFanTypeEnum](./ifcfantypeenum) | IfcFanTypeEnum |
-| enum [IfcFastenerTypeEnum](./ifcfastenertypeenum) | IfcFastenerTypeEnum |
-| enum [IfcFilterTypeEnum](./ifcfiltertypeenum) | IfcFilterTypeEnum |
-| enum [IfcFireSuppressionTerminalTypeEnum](./ifcfiresuppressionterminaltypeenum) | IfcFireSuppressionTerminalTypeEnum |
-| enum [IfcFlowDirectionEnum](./ifcflowdirectionenum) | IfcFlowDirectionEnum |
-| enum [IfcFlowInstrumentTypeEnum](./ifcflowinstrumenttypeenum) | IfcFlowInstrumentTypeEnum |
-| enum [IfcFlowMeterTypeEnum](./ifcflowmetertypeenum) | IfcFlowMeterTypeEnum |
-| enum [IfcFootingTypeEnum](./ifcfootingtypeenum) | IfcFootingTypeEnum |
-| enum [IfcFurnitureTypeEnum](./ifcfurnituretypeenum) | IfcFurnitureTypeEnum |
-| enum [IfcGeographicElementTypeEnum](./ifcgeographicelementtypeenum) | IfcGeographicElementTypeEnum |
-| enum [IfcGeometricProjectionEnum](./ifcgeometricprojectionenum) | IfcGeometricProjectionEnum |
-| enum [IfcGlobalOrLocalEnum](./ifcglobalorlocalenum) | IfcGlobalOrLocalEnum |
-| enum [IfcGridTypeEnum](./ifcgridtypeenum) | IfcGridTypeEnum |
-| enum [IfcHeatExchangerTypeEnum](./ifcheatexchangertypeenum) | IfcHeatExchangerTypeEnum |
-| enum [IfcHumidifierTypeEnum](./ifchumidifiertypeenum) | IfcHumidifierTypeEnum |
-| enum [IfcInterceptorTypeEnum](./ifcinterceptortypeenum) | IfcInterceptorTypeEnum |
-| enum [IfcInternalOrExternalEnum](./ifcinternalorexternalenum) | IfcInternalOrExternalEnum |
-| enum [IfcInventoryTypeEnum](./ifcinventorytypeenum) | IfcInventoryTypeEnum |
-| enum [IfcJunctionBoxTypeEnum](./ifcjunctionboxtypeenum) | IfcJunctionBoxTypeEnum |
-| enum [IfcKnotType](./ifcknottype) | IfcKnotType |
-| enum [IfcLaborResourceTypeEnum](./ifclaborresourcetypeenum) | IfcLaborResourceTypeEnum |
-| enum [IfcLampTypeEnum](./ifclamptypeenum) | IfcLampTypeEnum |
-| enum [IfcLayerSetDirectionEnum](./ifclayersetdirectionenum) | IfcLayerSetDirectionEnum |
-| enum [IfcLightDistributionCurveEnum](./ifclightdistributioncurveenum) | IfcLightDistributionCurveEnum |
-| enum [IfcLightEmissionSourceEnum](./ifclightemissionsourceenum) | IfcLightEmissionSourceEnum |
-| enum [IfcLightFixtureTypeEnum](./ifclightfixturetypeenum) | IfcLightFixtureTypeEnum |
-| enum [IfcLoadGroupTypeEnum](./ifcloadgrouptypeenum) | IfcLoadGroupTypeEnum |
-| enum [IfcLogicalOperatorEnum](./ifclogicaloperatorenum) | IfcLogicalOperatorEnum |
-| enum [IfcMechanicalFastenerTypeEnum](./ifcmechanicalfastenertypeenum) | IfcMechanicalFastenerTypeEnum |
-| enum [IfcMedicalDeviceTypeEnum](./ifcmedicaldevicetypeenum) | IfcMedicalDeviceTypeEnum |
-| enum [IfcMemberTypeEnum](./ifcmembertypeenum) | IfcMemberTypeEnum |
-| enum [IfcMotorConnectionTypeEnum](./ifcmotorconnectiontypeenum) | IfcMotorConnectionTypeEnum |
-| enum [IfcNullStyle](./ifcnullstyle) | IfcNullStyle |
-| enum [IfcObjectiveEnum](./ifcobjectiveenum) | IfcObjectiveEnum |
-| enum [IfcObjectTypeEnum](./ifcobjecttypeenum) | IfcObjectTypeEnum |
-| enum [IfcOccupantTypeEnum](./ifcoccupanttypeenum) | IfcOccupantTypeEnum |
-| enum [IfcOpeningElementTypeEnum](./ifcopeningelementtypeenum) | IfcOpeningElementTypeEnum |
-| enum [IfcOutletTypeEnum](./ifcoutlettypeenum) | IfcOutletTypeEnum |
-| enum [IfcPerformanceHistoryTypeEnum](./ifcperformancehistorytypeenum) | IfcPerformanceHistoryTypeEnum |
-| enum [IfcPermeableCoveringOperationEnum](./ifcpermeablecoveringoperationenum) | IfcPermeableCoveringOperationEnum |
-| enum [IfcPermitTypeEnum](./ifcpermittypeenum) | IfcPermitTypeEnum |
-| enum [IfcPhysicalOrVirtualEnum](./ifcphysicalorvirtualenum) | IfcPhysicalOrVirtualEnum |
-| enum [IfcPileConstructionEnum](./ifcpileconstructionenum) | IfcPileConstructionEnum |
-| enum [IfcPileTypeEnum](./ifcpiletypeenum) | IfcPileTypeEnum |
-| enum [IfcPipeFittingTypeEnum](./ifcpipefittingtypeenum) | IfcPipeFittingTypeEnum |
-| enum [IfcPipeSegmentTypeEnum](./ifcpipesegmenttypeenum) | IfcPipeSegmentTypeEnum |
-| enum [IfcPlateTypeEnum](./ifcplatetypeenum) | IfcPlateTypeEnum |
-| enum [IfcPreferredSurfaceCurveRepresentation](./ifcpreferredsurfacecurverepresentation) | IfcPreferredSurfaceCurveRepresentation |
-| enum [IfcProcedureTypeEnum](./ifcproceduretypeenum) | IfcProcedureTypeEnum |
-| enum [IfcProfileTypeEnum](./ifcprofiletypeenum) | IfcProfileTypeEnum |
-| enum [IfcProjectedOrTrueLengthEnum](./ifcprojectedortruelengthenum) | IfcProjectedOrTrueLengthEnum |
-| enum [IfcProjectionElementTypeEnum](./ifcprojectionelementtypeenum) | IfcProjectionElementTypeEnum |
-| enum [IfcProjectOrderTypeEnum](./ifcprojectordertypeenum) | IfcProjectOrderTypeEnum |
-| enum [IfcPropertySetTemplateTypeEnum](./ifcpropertysettemplatetypeenum) | IfcPropertySetTemplateTypeEnum |
-| enum [IfcProtectiveDeviceTrippingUnitTypeEnum](./ifcprotectivedevicetrippingunittypeenum) | IfcProtectiveDeviceTrippingUnitTypeEnum |
-| enum [IfcProtectiveDeviceTypeEnum](./ifcprotectivedevicetypeenum) | IfcProtectiveDeviceTypeEnum |
-| enum [IfcPumpTypeEnum](./ifcpumptypeenum) | IfcPumpTypeEnum |
-| enum [IfcRailingTypeEnum](./ifcrailingtypeenum) | IfcRailingTypeEnum |
-| enum [IfcRampFlightTypeEnum](./ifcrampflighttypeenum) | IfcRampFlightTypeEnum |
-| enum [IfcRampTypeEnum](./ifcramptypeenum) | IfcRampTypeEnum |
-| enum [IfcRecurrenceTypeEnum](./ifcrecurrencetypeenum) | IfcRecurrenceTypeEnum |
-| enum [IfcReflectanceMethodEnum](./ifcreflectancemethodenum) | IfcReflectanceMethodEnum |
-| enum [IfcReinforcingBarRoleEnum](./ifcreinforcingbarroleenum) | IfcReinforcingBarRoleEnum |
-| enum [IfcReinforcingBarSurfaceEnum](./ifcreinforcingbarsurfaceenum) | IfcReinforcingBarSurfaceEnum |
-| enum [IfcReinforcingBarTypeEnum](./ifcreinforcingbartypeenum) | IfcReinforcingBarTypeEnum |
-| enum [IfcReinforcingMeshTypeEnum](./ifcreinforcingmeshtypeenum) | IfcReinforcingMeshTypeEnum |
-| enum [IfcRoleEnum](./ifcroleenum) | IfcRoleEnum |
-| enum [IfcRoofTypeEnum](./ifcrooftypeenum) | IfcRoofTypeEnum |
-| enum [IfcSanitaryTerminalTypeEnum](./ifcsanitaryterminaltypeenum) | IfcSanitaryTerminalTypeEnum |
-| enum [IfcSectionTypeEnum](./ifcsectiontypeenum) | IfcSectionTypeEnum |
-| enum [IfcSensorTypeEnum](./ifcsensortypeenum) | IfcSensorTypeEnum |
-| enum [IfcSequenceEnum](./ifcsequenceenum) | IfcSequenceEnum |
-| enum [IfcShadingDeviceTypeEnum](./ifcshadingdevicetypeenum) | IfcShadingDeviceTypeEnum |
-| enum [IfcSimplePropertyTemplateTypeEnum](./ifcsimplepropertytemplatetypeenum) | IfcSimplePropertyTemplateTypeEnum |
-| enum [IfcSIPrefix](./ifcsiprefix) | IfcSIPrefix |
-| enum [IfcSIUnitName](./ifcsiunitname) | IfcSIUnitName |
-| enum [IfcSlabTypeEnum](./ifcslabtypeenum) | IfcSlabTypeEnum |
-| enum [IfcSolarDeviceTypeEnum](./ifcsolardevicetypeenum) | IfcSolarDeviceTypeEnum |
-| enum [IfcSpaceHeaterTypeEnum](./ifcspaceheatertypeenum) | IfcSpaceHeaterTypeEnum |
-| enum [IfcSpaceTypeEnum](./ifcspacetypeenum) | IfcSpaceTypeEnum |
-| enum [IfcSpatialZoneTypeEnum](./ifcspatialzonetypeenum) | IfcSpatialZoneTypeEnum |
-| enum [IfcStackTerminalTypeEnum](./ifcstackterminaltypeenum) | IfcStackTerminalTypeEnum |
-| enum [IfcStairFlightTypeEnum](./ifcstairflighttypeenum) | IfcStairFlightTypeEnum |
-| enum [IfcStairTypeEnum](./ifcstairtypeenum) | IfcStairTypeEnum |
-| enum [IfcStateEnum](./ifcstateenum) | IfcStateEnum |
-| enum [IfcStructuralCurveActivityTypeEnum](./ifcstructuralcurveactivitytypeenum) | IfcStructuralCurveActivityTypeEnum |
-| enum [IfcStructuralCurveMemberTypeEnum](./ifcstructuralcurvemembertypeenum) | IfcStructuralCurveMemberTypeEnum |
-| enum [IfcStructuralSurfaceActivityTypeEnum](./ifcstructuralsurfaceactivitytypeenum) | IfcStructuralSurfaceActivityTypeEnum |
-| enum [IfcStructuralSurfaceMemberTypeEnum](./ifcstructuralsurfacemembertypeenum) | IfcStructuralSurfaceMemberTypeEnum |
-| enum [IfcSubContractResourceTypeEnum](./ifcsubcontractresourcetypeenum) | IfcSubContractResourceTypeEnum |
-| enum [IfcSurfaceFeatureTypeEnum](./ifcsurfacefeaturetypeenum) | IfcSurfaceFeatureTypeEnum |
-| enum [IfcSurfaceSide](./ifcsurfaceside) | IfcSurfaceSide |
-| enum [IfcSwitchingDeviceTypeEnum](./ifcswitchingdevicetypeenum) | IfcSwitchingDeviceTypeEnum |
-| enum [IfcSystemFurnitureElementTypeEnum](./ifcsystemfurnitureelementtypeenum) | IfcSystemFurnitureElementTypeEnum |
-| enum [IfcTankTypeEnum](./ifctanktypeenum) | IfcTankTypeEnum |
-| enum [IfcTaskDurationEnum](./ifctaskdurationenum) | IfcTaskDurationEnum |
-| enum [IfcTaskTypeEnum](./ifctasktypeenum) | IfcTaskTypeEnum |
-| enum [IfcTendonAnchorTypeEnum](./ifctendonanchortypeenum) | IfcTendonAnchorTypeEnum |
-| enum [IfcTendonTypeEnum](./ifctendontypeenum) | IfcTendonTypeEnum |
-| enum [IfcTextPath](./ifctextpath) | IfcTextPath |
-| enum [IfcTimeSeriesDataTypeEnum](./ifctimeseriesdatatypeenum) | IfcTimeSeriesDataTypeEnum |
-| enum [IfcTransformerTypeEnum](./ifctransformertypeenum) | IfcTransformerTypeEnum |
-| enum [IfcTransitionCode](./ifctransitioncode) | IfcTransitionCode |
-| enum [IfcTransportElementTypeEnum](./ifctransportelementtypeenum) | IfcTransportElementTypeEnum |
-| enum [IfcTrimmingPreference](./ifctrimmingpreference) | IfcTrimmingPreference |
-| enum [IfcTubeBundleTypeEnum](./ifctubebundletypeenum) | IfcTubeBundleTypeEnum |
-| enum [IfcUnitaryControlElementTypeEnum](./ifcunitarycontrolelementtypeenum) | IfcUnitaryControlElementTypeEnum |
-| enum [IfcUnitaryEquipmentTypeEnum](./ifcunitaryequipmenttypeenum) | IfcUnitaryEquipmentTypeEnum |
-| enum [IfcUnitEnum](./ifcunitenum) | IfcUnitEnum |
-| enum [IfcValveTypeEnum](./ifcvalvetypeenum) | IfcValveTypeEnum |
-| enum [IfcVibrationIsolatorTypeEnum](./ifcvibrationisolatortypeenum) | IfcVibrationIsolatorTypeEnum |
-| enum [IfcVoidingFeatureTypeEnum](./ifcvoidingfeaturetypeenum) | IfcVoidingFeatureTypeEnum |
-| enum [IfcWallTypeEnum](./ifcwalltypeenum) | IfcWallTypeEnum |
-| enum [IfcWasteTerminalTypeEnum](./ifcwasteterminaltypeenum) | IfcWasteTerminalTypeEnum |
-| enum [IfcWindowPanelOperationEnum](./ifcwindowpaneloperationenum) | IfcWindowPanelOperationEnum |
-| enum [IfcWindowPanelPositionEnum](./ifcwindowpanelpositionenum) | IfcWindowPanelPositionEnum |
-| enum [IfcWindowStyleConstructionEnum](./ifcwindowstyleconstructionenum) | IfcWindowStyleConstructionEnum |
-| enum [IfcWindowStyleOperationEnum](./ifcwindowstyleoperationenum) | IfcWindowStyleOperationEnum |
-| enum [IfcWindowTypeEnum](./ifcwindowtypeenum) | IfcWindowTypeEnum |
-| enum [IfcWindowTypePartitioningEnum](./ifcwindowtypepartitioningenum) | IfcWindowTypePartitioningEnum |
-| enum [IfcWorkCalendarTypeEnum](./ifcworkcalendartypeenum) | IfcWorkCalendarTypeEnum |
-| enum [IfcWorkPlanTypeEnum](./ifcworkplantypeenum) | IfcWorkPlanTypeEnum |
-| enum [IfcWorkScheduleTypeEnum](./ifcworkscheduletypeenum) | IfcWorkScheduleTypeEnum |
+| [IfcActionRequestTypeEnum](./ifcactionrequesttypeenum) | IfcActionRequestTypeEnum |
+| [IfcActionSourceTypeEnum](./ifcactionsourcetypeenum) | IfcActionSourceTypeEnum |
+| [IfcActionTypeEnum](./ifcactiontypeenum) | IfcActionTypeEnum |
+| [IfcActuatorTypeEnum](./ifcactuatortypeenum) | IfcActuatorTypeEnum |
+| [IfcAddressTypeEnum](./ifcaddresstypeenum) | IfcAddressTypeEnum |
+| [IfcAirTerminalBoxTypeEnum](./ifcairterminalboxtypeenum) | IfcAirTerminalBoxTypeEnum |
+| [IfcAirTerminalTypeEnum](./ifcairterminaltypeenum) | IfcAirTerminalTypeEnum |
+| [IfcAirToAirHeatRecoveryTypeEnum](./ifcairtoairheatrecoverytypeenum) | IfcAirToAirHeatRecoveryTypeEnum |
+| [IfcAlarmTypeEnum](./ifcalarmtypeenum) | IfcAlarmTypeEnum |
+| [IfcAnalysisModelTypeEnum](./ifcanalysismodeltypeenum) | IfcAnalysisModelTypeEnum |
+| [IfcAnalysisTheoryTypeEnum](./ifcanalysistheorytypeenum) | IfcAnalysisTheoryTypeEnum |
+| [IfcArithmeticOperatorEnum](./ifcarithmeticoperatorenum) | IfcArithmeticOperatorEnum |
+| [IfcAssemblyPlaceEnum](./ifcassemblyplaceenum) | IfcAssemblyPlaceEnum |
+| [IfcAudioVisualApplianceTypeEnum](./ifcaudiovisualappliancetypeenum) | IfcAudioVisualApplianceTypeEnum |
+| [IfcBeamTypeEnum](./ifcbeamtypeenum) | IfcBeamTypeEnum |
+| [IfcBenchmarkEnum](./ifcbenchmarkenum) | IfcBenchmarkEnum |
+| [IfcBoilerTypeEnum](./ifcboilertypeenum) | IfcBoilerTypeEnum |
+| [IfcBooleanOperator](./ifcbooleanoperator) | IfcBooleanOperator |
+| [IfcBSplineCurveForm](./ifcbsplinecurveform) | IfcBSplineCurveForm |
+| [IfcBSplineSurfaceForm](./ifcbsplinesurfaceform) | IfcBSplineSurfaceForm |
+| [IfcBuildingElementPartTypeEnum](./ifcbuildingelementparttypeenum) | IfcBuildingElementPartTypeEnum |
+| [IfcBuildingElementProxyTypeEnum](./ifcbuildingelementproxytypeenum) | IfcBuildingElementProxyTypeEnum |
+| [IfcBuildingSystemTypeEnum](./ifcbuildingsystemtypeenum) | IfcBuildingSystemTypeEnum |
+| [IfcBurnerTypeEnum](./ifcburnertypeenum) | IfcBurnerTypeEnum |
+| [IfcCableCarrierFittingTypeEnum](./ifccablecarrierfittingtypeenum) | IfcCableCarrierFittingTypeEnum |
+| [IfcCableCarrierSegmentTypeEnum](./ifccablecarriersegmenttypeenum) | IfcCableCarrierSegmentTypeEnum |
+| [IfcCableFittingTypeEnum](./ifccablefittingtypeenum) | IfcCableFittingTypeEnum |
+| [IfcCableSegmentTypeEnum](./ifccablesegmenttypeenum) | IfcCableSegmentTypeEnum |
+| [IfcChangeActionEnum](./ifcchangeactionenum) | IfcChangeActionEnum |
+| [IfcChillerTypeEnum](./ifcchillertypeenum) | IfcChillerTypeEnum |
+| [IfcChimneyTypeEnum](./ifcchimneytypeenum) | IfcChimneyTypeEnum |
+| [IfcCoilTypeEnum](./ifccoiltypeenum) | IfcCoilTypeEnum |
+| [IfcColumnTypeEnum](./ifccolumntypeenum) | IfcColumnTypeEnum |
+| [IfcCommunicationsApplianceTypeEnum](./ifccommunicationsappliancetypeenum) | IfcCommunicationsApplianceTypeEnum |
+| [IfcComplexPropertyTemplateTypeEnum](./ifccomplexpropertytemplatetypeenum) | IfcComplexPropertyTemplateTypeEnum |
+| [IfcCompressorTypeEnum](./ifccompressortypeenum) | IfcCompressorTypeEnum |
+| [IfcCondenserTypeEnum](./ifccondensertypeenum) | IfcCondenserTypeEnum |
+| [IfcConnectionTypeEnum](./ifcconnectiontypeenum) | IfcConnectionTypeEnum |
+| [IfcConstraintEnum](./ifcconstraintenum) | IfcConstraintEnum |
+| [IfcConstructionEquipmentResourceTypeEnum](./ifcconstructionequipmentresourcetypeenum) | IfcConstructionEquipmentResourceTypeEnum |
+| [IfcConstructionMaterialResourceTypeEnum](./ifcconstructionmaterialresourcetypeenum) | IfcConstructionMaterialResourceTypeEnum |
+| [IfcConstructionProductResourceTypeEnum](./ifcconstructionproductresourcetypeenum) | IfcConstructionProductResourceTypeEnum |
+| [IfcControllerTypeEnum](./ifccontrollertypeenum) | IfcControllerTypeEnum |
+| [IfcCooledBeamTypeEnum](./ifccooledbeamtypeenum) | IfcCooledBeamTypeEnum |
+| [IfcCoolingTowerTypeEnum](./ifccoolingtowertypeenum) | IfcCoolingTowerTypeEnum |
+| [IfcCostItemTypeEnum](./ifccostitemtypeenum) | IfcCostItemTypeEnum |
+| [IfcCostScheduleTypeEnum](./ifccostscheduletypeenum) | IfcCostScheduleTypeEnum |
+| [IfcCoveringTypeEnum](./ifccoveringtypeenum) | IfcCoveringTypeEnum |
+| [IfcCrewResourceTypeEnum](./ifccrewresourcetypeenum) | IfcCrewResourceTypeEnum |
+| [IfcCurtainWallTypeEnum](./ifccurtainwalltypeenum) | IfcCurtainWallTypeEnum |
+| [IfcCurveInterpolationEnum](./ifccurveinterpolationenum) | IfcCurveInterpolationEnum |
+| [IfcDamperTypeEnum](./ifcdampertypeenum) | IfcDamperTypeEnum |
+| [IfcDataOriginEnum](./ifcdataoriginenum) | IfcDataOriginEnum |
+| [IfcDerivedUnitEnum](./ifcderivedunitenum) | IfcDerivedUnitEnum |
+| [IfcDirectionSenseEnum](./ifcdirectionsenseenum) | IfcDirectionSenseEnum |
+| [IfcDiscreteAccessoryTypeEnum](./ifcdiscreteaccessorytypeenum) | IfcDiscreteAccessoryTypeEnum |
+| [IfcDistributionChamberElementTypeEnum](./ifcdistributionchamberelementtypeenum) | IfcDistributionChamberElementTypeEnum |
+| [IfcDistributionPortTypeEnum](./ifcdistributionporttypeenum) | IfcDistributionPortTypeEnum |
+| [IfcDistributionSystemEnum](./ifcdistributionsystemenum) | IfcDistributionSystemEnum |
+| [IfcDocumentConfidentialityEnum](./ifcdocumentconfidentialityenum) | IfcDocumentConfidentialityEnum |
+| [IfcDocumentStatusEnum](./ifcdocumentstatusenum) | IfcDocumentStatusEnum |
+| [IfcDoorPanelOperationEnum](./ifcdoorpaneloperationenum) | IfcDoorPanelOperationEnum |
+| [IfcDoorPanelPositionEnum](./ifcdoorpanelpositionenum) | IfcDoorPanelPositionEnum |
+| [IfcDoorStyleConstructionEnum](./ifcdoorstyleconstructionenum) | IfcDoorStyleConstructionEnum |
+| [IfcDoorStyleOperationEnum](./ifcdoorstyleoperationenum) | IfcDoorStyleOperationEnum |
+| [IfcDoorTypeEnum](./ifcdoortypeenum) | IfcDoorTypeEnum |
+| [IfcDoorTypeOperationEnum](./ifcdoortypeoperationenum) | IfcDoorTypeOperationEnum |
+| [IfcDuctFittingTypeEnum](./ifcductfittingtypeenum) | IfcDuctFittingTypeEnum |
+| [IfcDuctSegmentTypeEnum](./ifcductsegmenttypeenum) | IfcDuctSegmentTypeEnum |
+| [IfcDuctSilencerTypeEnum](./ifcductsilencertypeenum) | IfcDuctSilencerTypeEnum |
+| [IfcElectricApplianceTypeEnum](./ifcelectricappliancetypeenum) | IfcElectricApplianceTypeEnum |
+| [IfcElectricDistributionBoardTypeEnum](./ifcelectricdistributionboardtypeenum) | IfcElectricDistributionBoardTypeEnum |
+| [IfcElectricFlowStorageDeviceTypeEnum](./ifcelectricflowstoragedevicetypeenum) | IfcElectricFlowStorageDeviceTypeEnum |
+| [IfcElectricGeneratorTypeEnum](./ifcelectricgeneratortypeenum) | IfcElectricGeneratorTypeEnum |
+| [IfcElectricMotorTypeEnum](./ifcelectricmotortypeenum) | IfcElectricMotorTypeEnum |
+| [IfcElectricTimeControlTypeEnum](./ifcelectrictimecontroltypeenum) | IfcElectricTimeControlTypeEnum |
+| [IfcElementAssemblyTypeEnum](./ifcelementassemblytypeenum) | IfcElementAssemblyTypeEnum |
+| [IfcElementCompositionEnum](./ifcelementcompositionenum) | IfcElementCompositionEnum |
+| [IfcEngineTypeEnum](./ifcenginetypeenum) | IfcEngineTypeEnum |
+| [IfcEvaporativeCoolerTypeEnum](./ifcevaporativecoolertypeenum) | IfcEvaporativeCoolerTypeEnum |
+| [IfcEvaporatorTypeEnum](./ifcevaporatortypeenum) | IfcEvaporatorTypeEnum |
+| [IfcEventTriggerTypeEnum](./ifceventtriggertypeenum) | IfcEventTriggerTypeEnum |
+| [IfcEventTypeEnum](./ifceventtypeenum) | IfcEventTypeEnum |
+| [IfcExternalSpatialElementTypeEnum](./ifcexternalspatialelementtypeenum) | IfcExternalSpatialElementTypeEnum |
+| [IfcFanTypeEnum](./ifcfantypeenum) | IfcFanTypeEnum |
+| [IfcFastenerTypeEnum](./ifcfastenertypeenum) | IfcFastenerTypeEnum |
+| [IfcFilterTypeEnum](./ifcfiltertypeenum) | IfcFilterTypeEnum |
+| [IfcFireSuppressionTerminalTypeEnum](./ifcfiresuppressionterminaltypeenum) | IfcFireSuppressionTerminalTypeEnum |
+| [IfcFlowDirectionEnum](./ifcflowdirectionenum) | IfcFlowDirectionEnum |
+| [IfcFlowInstrumentTypeEnum](./ifcflowinstrumenttypeenum) | IfcFlowInstrumentTypeEnum |
+| [IfcFlowMeterTypeEnum](./ifcflowmetertypeenum) | IfcFlowMeterTypeEnum |
+| [IfcFootingTypeEnum](./ifcfootingtypeenum) | IfcFootingTypeEnum |
+| [IfcFurnitureTypeEnum](./ifcfurnituretypeenum) | IfcFurnitureTypeEnum |
+| [IfcGeographicElementTypeEnum](./ifcgeographicelementtypeenum) | IfcGeographicElementTypeEnum |
+| [IfcGeometricProjectionEnum](./ifcgeometricprojectionenum) | IfcGeometricProjectionEnum |
+| [IfcGlobalOrLocalEnum](./ifcglobalorlocalenum) | IfcGlobalOrLocalEnum |
+| [IfcGridTypeEnum](./ifcgridtypeenum) | IfcGridTypeEnum |
+| [IfcHeatExchangerTypeEnum](./ifcheatexchangertypeenum) | IfcHeatExchangerTypeEnum |
+| [IfcHumidifierTypeEnum](./ifchumidifiertypeenum) | IfcHumidifierTypeEnum |
+| [IfcInterceptorTypeEnum](./ifcinterceptortypeenum) | IfcInterceptorTypeEnum |
+| [IfcInternalOrExternalEnum](./ifcinternalorexternalenum) | IfcInternalOrExternalEnum |
+| [IfcInventoryTypeEnum](./ifcinventorytypeenum) | IfcInventoryTypeEnum |
+| [IfcJunctionBoxTypeEnum](./ifcjunctionboxtypeenum) | IfcJunctionBoxTypeEnum |
+| [IfcKnotType](./ifcknottype) | IfcKnotType |
+| [IfcLaborResourceTypeEnum](./ifclaborresourcetypeenum) | IfcLaborResourceTypeEnum |
+| [IfcLampTypeEnum](./ifclamptypeenum) | IfcLampTypeEnum |
+| [IfcLayerSetDirectionEnum](./ifclayersetdirectionenum) | IfcLayerSetDirectionEnum |
+| [IfcLightDistributionCurveEnum](./ifclightdistributioncurveenum) | IfcLightDistributionCurveEnum |
+| [IfcLightEmissionSourceEnum](./ifclightemissionsourceenum) | IfcLightEmissionSourceEnum |
+| [IfcLightFixtureTypeEnum](./ifclightfixturetypeenum) | IfcLightFixtureTypeEnum |
+| [IfcLoadGroupTypeEnum](./ifcloadgrouptypeenum) | IfcLoadGroupTypeEnum |
+| [IfcLogicalOperatorEnum](./ifclogicaloperatorenum) | IfcLogicalOperatorEnum |
+| [IfcMechanicalFastenerTypeEnum](./ifcmechanicalfastenertypeenum) | IfcMechanicalFastenerTypeEnum |
+| [IfcMedicalDeviceTypeEnum](./ifcmedicaldevicetypeenum) | IfcMedicalDeviceTypeEnum |
+| [IfcMemberTypeEnum](./ifcmembertypeenum) | IfcMemberTypeEnum |
+| [IfcMotorConnectionTypeEnum](./ifcmotorconnectiontypeenum) | IfcMotorConnectionTypeEnum |
+| [IfcNullStyle](./ifcnullstyle) | IfcNullStyle |
+| [IfcObjectiveEnum](./ifcobjectiveenum) | IfcObjectiveEnum |
+| [IfcObjectTypeEnum](./ifcobjecttypeenum) | IfcObjectTypeEnum |
+| [IfcOccupantTypeEnum](./ifcoccupanttypeenum) | IfcOccupantTypeEnum |
+| [IfcOpeningElementTypeEnum](./ifcopeningelementtypeenum) | IfcOpeningElementTypeEnum |
+| [IfcOutletTypeEnum](./ifcoutlettypeenum) | IfcOutletTypeEnum |
+| [IfcPerformanceHistoryTypeEnum](./ifcperformancehistorytypeenum) | IfcPerformanceHistoryTypeEnum |
+| [IfcPermeableCoveringOperationEnum](./ifcpermeablecoveringoperationenum) | IfcPermeableCoveringOperationEnum |
+| [IfcPermitTypeEnum](./ifcpermittypeenum) | IfcPermitTypeEnum |
+| [IfcPhysicalOrVirtualEnum](./ifcphysicalorvirtualenum) | IfcPhysicalOrVirtualEnum |
+| [IfcPileConstructionEnum](./ifcpileconstructionenum) | IfcPileConstructionEnum |
+| [IfcPileTypeEnum](./ifcpiletypeenum) | IfcPileTypeEnum |
+| [IfcPipeFittingTypeEnum](./ifcpipefittingtypeenum) | IfcPipeFittingTypeEnum |
+| [IfcPipeSegmentTypeEnum](./ifcpipesegmenttypeenum) | IfcPipeSegmentTypeEnum |
+| [IfcPlateTypeEnum](./ifcplatetypeenum) | IfcPlateTypeEnum |
+| [IfcPreferredSurfaceCurveRepresentation](./ifcpreferredsurfacecurverepresentation) | IfcPreferredSurfaceCurveRepresentation |
+| [IfcProcedureTypeEnum](./ifcproceduretypeenum) | IfcProcedureTypeEnum |
+| [IfcProfileTypeEnum](./ifcprofiletypeenum) | IfcProfileTypeEnum |
+| [IfcProjectedOrTrueLengthEnum](./ifcprojectedortruelengthenum) | IfcProjectedOrTrueLengthEnum |
+| [IfcProjectionElementTypeEnum](./ifcprojectionelementtypeenum) | IfcProjectionElementTypeEnum |
+| [IfcProjectOrderTypeEnum](./ifcprojectordertypeenum) | IfcProjectOrderTypeEnum |
+| [IfcPropertySetTemplateTypeEnum](./ifcpropertysettemplatetypeenum) | IfcPropertySetTemplateTypeEnum |
+| [IfcProtectiveDeviceTrippingUnitTypeEnum](./ifcprotectivedevicetrippingunittypeenum) | IfcProtectiveDeviceTrippingUnitTypeEnum |
+| [IfcProtectiveDeviceTypeEnum](./ifcprotectivedevicetypeenum) | IfcProtectiveDeviceTypeEnum |
+| [IfcPumpTypeEnum](./ifcpumptypeenum) | IfcPumpTypeEnum |
+| [IfcRailingTypeEnum](./ifcrailingtypeenum) | IfcRailingTypeEnum |
+| [IfcRampFlightTypeEnum](./ifcrampflighttypeenum) | IfcRampFlightTypeEnum |
+| [IfcRampTypeEnum](./ifcramptypeenum) | IfcRampTypeEnum |
+| [IfcRecurrenceTypeEnum](./ifcrecurrencetypeenum) | IfcRecurrenceTypeEnum |
+| [IfcReflectanceMethodEnum](./ifcreflectancemethodenum) | IfcReflectanceMethodEnum |
+| [IfcReinforcingBarRoleEnum](./ifcreinforcingbarroleenum) | IfcReinforcingBarRoleEnum |
+| [IfcReinforcingBarSurfaceEnum](./ifcreinforcingbarsurfaceenum) | IfcReinforcingBarSurfaceEnum |
+| [IfcReinforcingBarTypeEnum](./ifcreinforcingbartypeenum) | IfcReinforcingBarTypeEnum |
+| [IfcReinforcingMeshTypeEnum](./ifcreinforcingmeshtypeenum) | IfcReinforcingMeshTypeEnum |
+| [IfcRoleEnum](./ifcroleenum) | IfcRoleEnum |
+| [IfcRoofTypeEnum](./ifcrooftypeenum) | IfcRoofTypeEnum |
+| [IfcSanitaryTerminalTypeEnum](./ifcsanitaryterminaltypeenum) | IfcSanitaryTerminalTypeEnum |
+| [IfcSectionTypeEnum](./ifcsectiontypeenum) | IfcSectionTypeEnum |
+| [IfcSensorTypeEnum](./ifcsensortypeenum) | IfcSensorTypeEnum |
+| [IfcSequenceEnum](./ifcsequenceenum) | IfcSequenceEnum |
+| [IfcShadingDeviceTypeEnum](./ifcshadingdevicetypeenum) | IfcShadingDeviceTypeEnum |
+| [IfcSimplePropertyTemplateTypeEnum](./ifcsimplepropertytemplatetypeenum) | IfcSimplePropertyTemplateTypeEnum |
+| [IfcSIPrefix](./ifcsiprefix) | IfcSIPrefix |
+| [IfcSIUnitName](./ifcsiunitname) | IfcSIUnitName |
+| [IfcSlabTypeEnum](./ifcslabtypeenum) | IfcSlabTypeEnum |
+| [IfcSolarDeviceTypeEnum](./ifcsolardevicetypeenum) | IfcSolarDeviceTypeEnum |
+| [IfcSpaceHeaterTypeEnum](./ifcspaceheatertypeenum) | IfcSpaceHeaterTypeEnum |
+| [IfcSpaceTypeEnum](./ifcspacetypeenum) | IfcSpaceTypeEnum |
+| [IfcSpatialZoneTypeEnum](./ifcspatialzonetypeenum) | IfcSpatialZoneTypeEnum |
+| [IfcStackTerminalTypeEnum](./ifcstackterminaltypeenum) | IfcStackTerminalTypeEnum |
+| [IfcStairFlightTypeEnum](./ifcstairflighttypeenum) | IfcStairFlightTypeEnum |
+| [IfcStairTypeEnum](./ifcstairtypeenum) | IfcStairTypeEnum |
+| [IfcStateEnum](./ifcstateenum) | IfcStateEnum |
+| [IfcStructuralCurveActivityTypeEnum](./ifcstructuralcurveactivitytypeenum) | IfcStructuralCurveActivityTypeEnum |
+| [IfcStructuralCurveMemberTypeEnum](./ifcstructuralcurvemembertypeenum) | IfcStructuralCurveMemberTypeEnum |
+| [IfcStructuralSurfaceActivityTypeEnum](./ifcstructuralsurfaceactivitytypeenum) | IfcStructuralSurfaceActivityTypeEnum |
+| [IfcStructuralSurfaceMemberTypeEnum](./ifcstructuralsurfacemembertypeenum) | IfcStructuralSurfaceMemberTypeEnum |
+| [IfcSubContractResourceTypeEnum](./ifcsubcontractresourcetypeenum) | IfcSubContractResourceTypeEnum |
+| [IfcSurfaceFeatureTypeEnum](./ifcsurfacefeaturetypeenum) | IfcSurfaceFeatureTypeEnum |
+| [IfcSurfaceSide](./ifcsurfaceside) | IfcSurfaceSide |
+| [IfcSwitchingDeviceTypeEnum](./ifcswitchingdevicetypeenum) | IfcSwitchingDeviceTypeEnum |
+| [IfcSystemFurnitureElementTypeEnum](./ifcsystemfurnitureelementtypeenum) | IfcSystemFurnitureElementTypeEnum |
+| [IfcTankTypeEnum](./ifctanktypeenum) | IfcTankTypeEnum |
+| [IfcTaskDurationEnum](./ifctaskdurationenum) | IfcTaskDurationEnum |
+| [IfcTaskTypeEnum](./ifctasktypeenum) | IfcTaskTypeEnum |
+| [IfcTendonAnchorTypeEnum](./ifctendonanchortypeenum) | IfcTendonAnchorTypeEnum |
+| [IfcTendonTypeEnum](./ifctendontypeenum) | IfcTendonTypeEnum |
+| [IfcTextPath](./ifctextpath) | IfcTextPath |
+| [IfcTimeSeriesDataTypeEnum](./ifctimeseriesdatatypeenum) | IfcTimeSeriesDataTypeEnum |
+| [IfcTransformerTypeEnum](./ifctransformertypeenum) | IfcTransformerTypeEnum |
+| [IfcTransitionCode](./ifctransitioncode) | IfcTransitionCode |
+| [IfcTransportElementTypeEnum](./ifctransportelementtypeenum) | IfcTransportElementTypeEnum |
+| [IfcTrimmingPreference](./ifctrimmingpreference) | IfcTrimmingPreference |
+| [IfcTubeBundleTypeEnum](./ifctubebundletypeenum) | IfcTubeBundleTypeEnum |
+| [IfcUnitaryControlElementTypeEnum](./ifcunitarycontrolelementtypeenum) | IfcUnitaryControlElementTypeEnum |
+| [IfcUnitaryEquipmentTypeEnum](./ifcunitaryequipmenttypeenum) | IfcUnitaryEquipmentTypeEnum |
+| [IfcUnitEnum](./ifcunitenum) | IfcUnitEnum |
+| [IfcValveTypeEnum](./ifcvalvetypeenum) | IfcValveTypeEnum |
+| [IfcVibrationIsolatorTypeEnum](./ifcvibrationisolatortypeenum) | IfcVibrationIsolatorTypeEnum |
+| [IfcVoidingFeatureTypeEnum](./ifcvoidingfeaturetypeenum) | IfcVoidingFeatureTypeEnum |
+| [IfcWallTypeEnum](./ifcwalltypeenum) | IfcWallTypeEnum |
+| [IfcWasteTerminalTypeEnum](./ifcwasteterminaltypeenum) | IfcWasteTerminalTypeEnum |
+| [IfcWindowPanelOperationEnum](./ifcwindowpaneloperationenum) | IfcWindowPanelOperationEnum |
+| [IfcWindowPanelPositionEnum](./ifcwindowpanelpositionenum) | IfcWindowPanelPositionEnum |
+| [IfcWindowStyleConstructionEnum](./ifcwindowstyleconstructionenum) | IfcWindowStyleConstructionEnum |
+| [IfcWindowStyleOperationEnum](./ifcwindowstyleoperationenum) | IfcWindowStyleOperationEnum |
+| [IfcWindowTypeEnum](./ifcwindowtypeenum) | IfcWindowTypeEnum |
+| [IfcWindowTypePartitioningEnum](./ifcwindowtypepartitioningenum) | IfcWindowTypePartitioningEnum |
+| [IfcWorkCalendarTypeEnum](./ifcworkcalendartypeenum) | IfcWorkCalendarTypeEnum |
+| [IfcWorkPlanTypeEnum](./ifcworkplantypeenum) | IfcWorkPlanTypeEnum |
+| [IfcWorkScheduleTypeEnum](./ifcworkscheduletypeenum) | IfcWorkScheduleTypeEnum |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

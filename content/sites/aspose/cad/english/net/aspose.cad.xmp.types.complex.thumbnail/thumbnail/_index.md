@@ -3,7 +3,7 @@ title: Thumbnail
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30850
+weight: 30620
 url: /net/aspose.cad.xmp.types.complex.thumbnail/thumbnail/
 ---
 ## Thumbnail class

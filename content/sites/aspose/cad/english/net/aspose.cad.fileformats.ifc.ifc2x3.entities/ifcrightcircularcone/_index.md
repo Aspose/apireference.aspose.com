@@ -3,7 +3,7 @@ title: IfcRightCircularCone
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11590
+weight: 11580
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrightcircularcone/
 ---
 ## IfcRightCircularCone class

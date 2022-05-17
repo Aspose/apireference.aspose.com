@@ -3,7 +3,7 @@ title: BoolArray
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4290
+weight: 4280
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/boolarray/
 ---
 ## BoolArray class

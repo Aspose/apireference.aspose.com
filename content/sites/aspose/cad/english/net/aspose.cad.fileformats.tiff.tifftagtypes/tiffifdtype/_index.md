@@ -3,7 +3,7 @@ title: TiffIfdType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29240
+weight: 29080
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffifdtype/
 ---
 ## TiffIfdType class

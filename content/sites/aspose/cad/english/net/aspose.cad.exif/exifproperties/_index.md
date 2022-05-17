@@ -3,7 +3,7 @@ title: ExifProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 730
+weight: 720
 url: /net/aspose.cad.exif/exifproperties/
 ---
 ## ExifProperties enumeration

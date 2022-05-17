@@ -3,7 +3,7 @@ title: PixelDataFormat
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30220
+weight: 30030
 url: /net/aspose.cad/pixeldataformat/
 ---
 ## PixelDataFormat class

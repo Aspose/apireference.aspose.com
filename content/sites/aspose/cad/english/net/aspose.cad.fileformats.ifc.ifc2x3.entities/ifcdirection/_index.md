@@ -3,7 +3,7 @@ title: IfcDirection
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 8180
+weight: 8170
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdirection/
 ---
 ## IfcDirection class

@@ -3,7 +3,7 @@ title: XmpElementBase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30990
+weight: 30760
 url: /net/aspose.cad.xmp/xmpelementbase/
 ---
 ## XmpElementBase class

@@ -3,7 +3,7 @@ title: ColorantLab
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30780
+weight: 30550
 url: /net/aspose.cad.xmp.types.complex.colorant/colorantlab/
 ---
 ## ColorantLab class

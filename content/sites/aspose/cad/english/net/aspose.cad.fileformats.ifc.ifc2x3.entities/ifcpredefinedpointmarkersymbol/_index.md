@@ -3,7 +3,7 @@ title: IfcPreDefinedPointMarkerSymbol
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10400
+weight: 10390
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefinedpointmarkersymbol/
 ---
 ## IfcPreDefinedPointMarkerSymbol class

@@ -3,7 +3,7 @@ title: IfcResourceApprovalRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22150
+weight: 22140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourceapprovalrelationship/
 ---
 ## IfcResourceApprovalRelationship class

@@ -9,7 +9,7 @@ url: /net/aspose.cad/pointf/topointapsarray/
 ## PointF.ToPointApsArray method
 
 ```csharp
-public static [] ToPointApsArray(PointF[] fPnts)
+public static    [] ToPointApsArray(PointF[] fPnts)
 ```
 
 ### See Also

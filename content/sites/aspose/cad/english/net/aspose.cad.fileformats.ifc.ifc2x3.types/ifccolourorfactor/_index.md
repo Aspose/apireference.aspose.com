@@ -3,7 +3,7 @@ title: IfcColourOrFactor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13570
+weight: 13560
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccolourorfactor/
 ---
 ## IfcColourOrFactor class

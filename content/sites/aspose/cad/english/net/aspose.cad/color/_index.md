@@ -3,7 +3,7 @@ title: Color
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 360
+weight: 350
 url: /net/aspose.cad/color/
 ---
 ## Color structure

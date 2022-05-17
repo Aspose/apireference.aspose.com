@@ -3,7 +3,7 @@ title: IfcEdge
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18500
+weight: 18490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcedge/
 ---
 ## IfcEdge class

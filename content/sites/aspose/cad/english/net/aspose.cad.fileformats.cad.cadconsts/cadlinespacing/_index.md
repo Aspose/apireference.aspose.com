@@ -3,7 +3,7 @@ title: CadLineSpacing
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1350
+weight: 1340
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadlinespacing/
 ---
 ## CadLineSpacing enumeration

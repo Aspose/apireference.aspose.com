@@ -3,7 +3,7 @@ title: IfcSpaceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27350
+weight: 27340
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcspacetypeenum/
 ---
 ## IfcSpaceTypeEnum enumeration

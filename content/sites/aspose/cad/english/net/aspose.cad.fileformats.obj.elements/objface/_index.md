@@ -3,7 +3,7 @@ title: ObjFace
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28460
+weight: 28450
 url: /net/aspose.cad.fileformats.obj.elements/objface/
 ---
 ## ObjFace class

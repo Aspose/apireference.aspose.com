@@ -3,7 +3,7 @@ title: VisualScene
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5540
+weight: 5530
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/visualscene/
 ---
 ## VisualScene class

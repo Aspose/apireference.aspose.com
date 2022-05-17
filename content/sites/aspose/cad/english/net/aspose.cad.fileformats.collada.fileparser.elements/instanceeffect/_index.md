@@ -3,7 +3,7 @@ title: InstanceEffect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4800
+weight: 4790
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instanceeffect/
 ---
 ## InstanceEffect class

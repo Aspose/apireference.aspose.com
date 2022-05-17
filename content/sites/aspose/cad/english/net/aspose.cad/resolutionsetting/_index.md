@@ -3,7 +3,7 @@ title: ResolutionSetting
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30320
+weight: 30130
 url: /net/aspose.cad/resolutionsetting/
 ---
 ## ResolutionSetting class

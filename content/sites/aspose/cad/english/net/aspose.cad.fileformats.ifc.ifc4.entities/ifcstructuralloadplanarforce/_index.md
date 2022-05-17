@@ -3,7 +3,7 @@ title: IfcStructuralLoadPlanarForce
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22900
+weight: 22890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadplanarforce/
 ---
 ## IfcStructuralLoadPlanarForce class

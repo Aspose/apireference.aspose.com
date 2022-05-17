@@ -3,7 +3,7 @@ title: Plane
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5130
+weight: 5120
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/plane/
 ---
 ## Plane class

@@ -3,7 +3,7 @@ title: TiffTagFactory
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29140
+weight: 28980
 url: /net/aspose.cad.fileformats.tiff.instancefactory/tifftagfactory/
 ---
 ## TiffTagFactory class

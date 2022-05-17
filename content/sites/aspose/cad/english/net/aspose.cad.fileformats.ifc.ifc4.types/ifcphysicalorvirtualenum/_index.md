@@ -3,7 +3,7 @@ title: IfcPhysicalOrVirtualEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26580
+weight: 26570
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcphysicalorvirtualenum/
 ---
 ## IfcPhysicalOrVirtualEnum enumeration

@@ -3,7 +3,7 @@ title: Extra
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4620
+weight: 4610
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/extra/
 ---
 ## Extra class

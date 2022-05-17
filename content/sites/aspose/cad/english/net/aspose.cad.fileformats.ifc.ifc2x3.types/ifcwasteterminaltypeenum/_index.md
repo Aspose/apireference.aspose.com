@@ -3,7 +3,7 @@ title: IfcWasteTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16380
+weight: 16370
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcwasteterminaltypeenum/
 ---
 ## IfcWasteTerminalTypeEnum enumeration

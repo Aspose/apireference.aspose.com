@@ -3,7 +3,7 @@ title: DgnCurveLineElement
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5700
+weight: 5690
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncurvelineelement/
 ---
 ## DgnCurveLineElement class

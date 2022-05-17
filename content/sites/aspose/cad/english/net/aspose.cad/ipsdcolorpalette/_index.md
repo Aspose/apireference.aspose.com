@@ -3,7 +3,7 @@ title: IPsdColorPalette
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29490
+weight: 29300
 url: /net/aspose.cad/ipsdcolorpalette/
 ---
 ## IPsdColorPalette interface

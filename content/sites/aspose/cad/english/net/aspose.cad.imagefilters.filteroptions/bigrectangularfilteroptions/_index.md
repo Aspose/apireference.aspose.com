@@ -3,7 +3,7 @@ title: BigRectangularFilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29550
+weight: 29360
 url: /net/aspose.cad.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
 ## BigRectangularFilterOptions class

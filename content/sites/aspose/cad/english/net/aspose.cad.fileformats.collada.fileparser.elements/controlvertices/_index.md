@@ -3,7 +3,7 @@ title: ControlVertices
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4410
+weight: 4400
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/controlvertices/
 ---
 ## ControlVertices class

@@ -3,7 +3,7 @@ title: IfcQuantityCount
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 21320
+weight: 21310
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitycount/
 ---
 ## IfcQuantityCount class

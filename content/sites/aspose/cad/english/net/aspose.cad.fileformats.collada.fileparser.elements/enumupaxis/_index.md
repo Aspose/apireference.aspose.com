@@ -3,7 +3,7 @@ title: EnumUpAxis
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4600
+weight: 4590
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumupaxis/
 ---
 ## EnumUpAxis enumeration

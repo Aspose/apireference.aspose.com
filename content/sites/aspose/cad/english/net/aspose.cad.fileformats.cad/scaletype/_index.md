@@ -3,7 +3,7 @@ title: ScaleType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4200
+weight: 4190
 url: /net/aspose.cad.fileformats.cad/scaletype/
 ---
 ## ScaleType enumeration

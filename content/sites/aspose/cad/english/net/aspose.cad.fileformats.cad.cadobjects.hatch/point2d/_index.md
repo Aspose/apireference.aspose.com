@@ -3,7 +3,7 @@ title: Point2D
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3410
+weight: 3400
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/point2d/
 ---
 ## Point2D structure

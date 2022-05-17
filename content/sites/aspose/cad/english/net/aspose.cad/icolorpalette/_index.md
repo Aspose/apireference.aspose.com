@@ -3,7 +3,7 @@ title: IColorPalette
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29410
+weight: 29230
 url: /net/aspose.cad/icolorpalette/
 ---
 ## IColorPalette interface

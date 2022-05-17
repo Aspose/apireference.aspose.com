@@ -3,7 +3,7 @@ title: IfcAnnotationSurface
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6810
+weight: 6800
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/
 ---
 ## IfcAnnotationSurface class

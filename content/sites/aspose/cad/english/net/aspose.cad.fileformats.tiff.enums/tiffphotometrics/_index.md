@@ -3,7 +3,7 @@ title: TiffPhotometrics
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29040
+weight: 28880
 url: /net/aspose.cad.fileformats.tiff.enums/tiffphotometrics/
 ---
 ## TiffPhotometrics enumeration

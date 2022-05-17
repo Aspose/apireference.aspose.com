@@ -3,7 +3,7 @@ title: XmpPackageBaseCollection
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 31030
+weight: 30800
 url: /net/aspose.cad.xmp/xmppackagebasecollection/
 ---
 ## XmpPackageBaseCollection class

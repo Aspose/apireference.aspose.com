@@ -3,7 +3,7 @@ title: CodePagesConvertHelper
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 350
+weight: 340
 url: /net/aspose.cad/codepagesconverthelper/
 ---
 ## CodePagesConvertHelper class

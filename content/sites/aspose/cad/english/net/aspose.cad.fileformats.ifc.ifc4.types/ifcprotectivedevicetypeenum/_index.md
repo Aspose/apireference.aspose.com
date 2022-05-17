@@ -3,7 +3,7 @@ title: IfcProtectiveDeviceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26880
+weight: 26870
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcprotectivedevicetypeenum/
 ---
 ## IfcProtectiveDeviceTypeEnum enumeration

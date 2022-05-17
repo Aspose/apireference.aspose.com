@@ -3,7 +3,7 @@ title: IfcPositivePlaneAngleMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15260
+weight: 15250
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositiveplaneanglemeasure/
 ---
 ## IfcPositivePlaneAngleMeasure class

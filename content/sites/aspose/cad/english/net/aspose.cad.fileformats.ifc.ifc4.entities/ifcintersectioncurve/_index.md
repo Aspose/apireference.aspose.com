@@ -3,7 +3,7 @@ title: IfcIntersectionCurve
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19700
+weight: 19690
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcintersectioncurve/
 ---
 ## IfcIntersectionCurve class

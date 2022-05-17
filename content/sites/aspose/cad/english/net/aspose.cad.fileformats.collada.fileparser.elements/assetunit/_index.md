@@ -3,7 +3,7 @@ title: AssetUnit
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4250
+weight: 4240
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/assetunit/
 ---
 ## AssetUnit class

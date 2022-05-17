@@ -3,7 +3,7 @@ title: EnumOrthograthicItems
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4580
+weight: 4570
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumorthograthicitems/
 ---
 ## EnumOrthograthicItems enumeration

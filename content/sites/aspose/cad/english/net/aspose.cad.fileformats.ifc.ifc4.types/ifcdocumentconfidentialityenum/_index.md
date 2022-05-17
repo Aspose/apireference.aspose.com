@@ -3,7 +3,7 @@ title: IfcDocumentConfidentialityEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25190
+weight: 25180
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdocumentconfidentialityenum/
 ---
 ## IfcDocumentConfidentialityEnum enumeration

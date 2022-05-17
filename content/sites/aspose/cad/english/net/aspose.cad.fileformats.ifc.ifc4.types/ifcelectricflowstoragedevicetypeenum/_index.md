@@ -3,7 +3,7 @@ title: IfcElectricFlowStorageDeviceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25400
+weight: 25390
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricflowstoragedevicetypeenum/
 ---
 ## IfcElectricFlowStorageDeviceTypeEnum enumeration

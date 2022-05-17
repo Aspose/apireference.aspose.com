@@ -3,7 +3,7 @@ title: IfcTimeMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27790
+weight: 27780
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctimemeasure/
 ---
 ## IfcTimeMeasure class

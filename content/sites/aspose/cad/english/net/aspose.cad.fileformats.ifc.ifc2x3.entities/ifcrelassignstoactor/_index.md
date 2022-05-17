@@ -3,7 +3,7 @@ title: IfcRelAssignsToActor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11040
+weight: 11030
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoactor/
 ---
 ## IfcRelAssignsToActor class

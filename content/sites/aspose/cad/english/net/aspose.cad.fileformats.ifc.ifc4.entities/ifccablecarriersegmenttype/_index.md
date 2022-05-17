@@ -3,7 +3,7 @@ title: IfcCableCarrierSegmentType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17160
+weight: 17150
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccablecarriersegmenttype/
 ---
 ## IfcCableCarrierSegmentType class

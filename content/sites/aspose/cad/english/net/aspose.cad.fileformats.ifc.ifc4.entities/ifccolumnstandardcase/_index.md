@@ -3,7 +3,7 @@ title: IfcColumnStandardCase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17490
+weight: 17480
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolumnstandardcase/
 ---
 ## IfcColumnStandardCase class

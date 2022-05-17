@@ -3,7 +3,7 @@ title: IfcPolyLoop
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10310
+weight: 10300
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpolyloop/
 ---
 ## IfcPolyLoop class

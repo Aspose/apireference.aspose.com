@@ -3,7 +3,7 @@ title: JpegCompressionColorMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28430
+weight: 28420
 url: /net/aspose.cad.fileformats.jpeg/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration

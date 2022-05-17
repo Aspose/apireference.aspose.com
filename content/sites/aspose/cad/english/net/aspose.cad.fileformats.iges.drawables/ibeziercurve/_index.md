@@ -3,7 +3,7 @@ title: IBezierCurve
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28320
+weight: 28310
 url: /net/aspose.cad.fileformats.iges.drawables/ibeziercurve/
 ---
 ## IBezierCurve interface

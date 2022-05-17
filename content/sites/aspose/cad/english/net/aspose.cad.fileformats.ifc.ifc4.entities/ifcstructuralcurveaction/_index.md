@@ -3,7 +3,7 @@ title: IfcStructuralCurveAction
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 22770
+weight: 22760
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurveaction/
 ---
 ## IfcStructuralCurveAction class

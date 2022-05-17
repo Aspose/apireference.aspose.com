@@ -3,7 +3,7 @@ title: IfcClassificationNotationSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13540
+weight: 13530
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcclassificationnotationselect/
 ---
 ## IfcClassificationNotationSelect class

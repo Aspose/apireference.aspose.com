@@ -3,7 +3,7 @@ title: IfcLinearStiffnessMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14750
+weight: 14740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclinearstiffnessmeasure/
 ---
 ## IfcLinearStiffnessMeasure class

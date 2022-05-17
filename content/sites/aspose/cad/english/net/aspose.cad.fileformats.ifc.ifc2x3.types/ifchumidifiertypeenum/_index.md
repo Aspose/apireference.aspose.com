@@ -3,7 +3,7 @@ title: IfcHumidifierTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14510
+weight: 14500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifchumidifiertypeenum/
 ---
 ## IfcHumidifierTypeEnum enumeration

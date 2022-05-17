@@ -3,7 +3,7 @@ title: IfcCommunicationsApplianceType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 17520
+weight: 17510
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccommunicationsappliancetype/
 ---
 ## IfcCommunicationsApplianceType class

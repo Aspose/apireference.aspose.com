@@ -86,9 +86,6 @@ is_root: true
 | [Aspose.CAD.FileFormats.Obj.VertexData.Index](./aspose.cad.fileformats.obj.vertexdata.index) |  |
 | [Aspose.CAD.FileFormats.Pdf](./aspose.cad.fileformats.pdf) | The namespace contains classes for PDF file format integration. |
 | [Aspose.CAD.FileFormats.Plt](./aspose.cad.fileformats.plt) |  |
-| [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](./aspose.cad.fileformats.plt.pltparsers.pltparser) |  |
-| [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltCommands](./aspose.cad.fileformats.plt.pltparsers.pltparser.pltcommands) |  |
-| [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](./aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems) |  |
 | [Aspose.CAD.FileFormats.Png](./aspose.cad.fileformats.png) |  |
 | [Aspose.CAD.FileFormats.Psd](./aspose.cad.fileformats.psd) |  |
 | [Aspose.CAD.FileFormats.Psd.Resources](./aspose.cad.fileformats.psd.resources) | The namespace contains Psd related resource elements. |

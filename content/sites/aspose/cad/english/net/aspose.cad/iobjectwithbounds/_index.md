@@ -3,7 +3,7 @@ title: IObjectWithBounds
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29450
+weight: 29260
 url: /net/aspose.cad/iobjectwithbounds/
 ---
 ## IObjectWithBounds interface

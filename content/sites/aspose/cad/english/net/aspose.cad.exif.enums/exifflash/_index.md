@@ -3,7 +3,7 @@ title: ExifFlash
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 590
+weight: 580
 url: /net/aspose.cad.exif.enums/exifflash/
 ---
 ## ExifFlash enumeration

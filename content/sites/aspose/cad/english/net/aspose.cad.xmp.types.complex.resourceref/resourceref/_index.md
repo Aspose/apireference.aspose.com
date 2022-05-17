@@ -3,7 +3,7 @@ title: ResourceRef
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30840
+weight: 30610
 url: /net/aspose.cad.xmp.types.complex.resourceref/resourceref/
 ---
 ## ResourceRef class

@@ -3,7 +3,7 @@ title: IfcMetric
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9860
+weight: 9850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmetric/
 ---
 ## IfcMetric class

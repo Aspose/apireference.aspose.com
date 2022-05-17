@@ -3,7 +3,7 @@ title: IDrawableProperties
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28340
+weight: 28330
 url: /net/aspose.cad.fileformats.iges.drawables/idrawableproperties/
 ---
 ## IDrawableProperties interface

@@ -3,7 +3,7 @@ title: CadDbEvalExpr
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2330
+weight: 2320
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/
 ---
 ## CadDbEvalExpr class

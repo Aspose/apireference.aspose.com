@@ -3,7 +3,7 @@ title: CF2SystemCoordinate
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1030
+weight: 1020
 url: /net/aspose.cad.fileformats.cf2/cf2systemcoordinate/
 ---
 ## CF2SystemCoordinate enumeration

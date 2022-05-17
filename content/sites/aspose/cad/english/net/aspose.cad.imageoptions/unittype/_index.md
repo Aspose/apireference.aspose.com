@@ -3,7 +3,7 @@ title: UnitType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30000
+weight: 29810
 url: /net/aspose.cad.imageoptions/unittype/
 ---
 ## UnitType enumeration

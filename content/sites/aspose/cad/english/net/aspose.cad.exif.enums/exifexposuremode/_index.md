@@ -3,7 +3,7 @@ title: ExifExposureMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 560
+weight: 550
 url: /net/aspose.cad.exif.enums/exifexposuremode/
 ---
 ## ExifExposureMode enumeration

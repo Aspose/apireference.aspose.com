@@ -3,7 +3,7 @@ title: SeekOrigin
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30340
+weight: 30150
 url: /net/aspose.cad/seekorigin/
 ---
 ## SeekOrigin enumeration

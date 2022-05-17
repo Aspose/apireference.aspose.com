@@ -3,7 +3,7 @@ title: EnumFxSamplerMipFilter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4550
+weight: 4540
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplermipfilter/
 ---
 ## EnumFxSamplerMipFilter enumeration

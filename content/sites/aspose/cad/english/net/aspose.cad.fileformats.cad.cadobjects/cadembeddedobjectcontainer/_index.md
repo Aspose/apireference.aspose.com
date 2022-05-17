@@ -3,7 +3,7 @@ title: CadEmbeddedObjectContainer
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 2430
+weight: 2420
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadembeddedobjectcontainer/
 ---
 ## CadEmbeddedObjectContainer class

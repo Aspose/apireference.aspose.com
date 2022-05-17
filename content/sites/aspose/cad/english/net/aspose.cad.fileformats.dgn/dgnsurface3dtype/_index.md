@@ -3,7 +3,7 @@ title: DgnSurface3DType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6010
+weight: 6000
 url: /net/aspose.cad.fileformats.dgn/dgnsurface3dtype/
 ---
 ## DgnSurface3DType enumeration

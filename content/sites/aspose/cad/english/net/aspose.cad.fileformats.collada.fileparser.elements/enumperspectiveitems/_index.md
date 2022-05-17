@@ -3,7 +3,7 @@ title: EnumPerspectiveItems
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4590
+weight: 4580
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumperspectiveitems/
 ---
 ## EnumPerspectiveItems enumeration

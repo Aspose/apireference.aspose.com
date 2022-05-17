@@ -3,7 +3,7 @@ title: IfcEngineType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18780
+weight: 18770
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcenginetype/
 ---
 ## IfcEngineType class

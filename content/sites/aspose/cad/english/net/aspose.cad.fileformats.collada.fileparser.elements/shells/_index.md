@@ -3,7 +3,7 @@ title: Shells
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5250
+weight: 5240
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/shells/
 ---
 ## Shells class

@@ -3,7 +3,7 @@ title: IfcDoorStandardCase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18390
+weight: 18380
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorstandardcase/
 ---
 ## IfcDoorStandardCase class

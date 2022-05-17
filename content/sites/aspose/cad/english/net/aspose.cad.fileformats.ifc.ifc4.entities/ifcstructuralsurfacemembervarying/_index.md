@@ -3,7 +3,7 @@ title: IfcStructuralSurfaceMemberVarying
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23070
+weight: 23060
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralsurfacemembervarying/
 ---
 ## IfcStructuralSurfaceMemberVarying class

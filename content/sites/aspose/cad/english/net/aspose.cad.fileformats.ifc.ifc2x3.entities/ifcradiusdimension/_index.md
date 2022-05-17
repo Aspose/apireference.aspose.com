@@ -3,7 +3,7 @@ title: IfcRadiusDimension
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10830
+weight: 10820
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcradiusdimension/
 ---
 ## IfcRadiusDimension class

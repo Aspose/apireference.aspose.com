@@ -3,7 +3,7 @@ title: XmpHeaderPi
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 31000
+weight: 30770
 url: /net/aspose.cad.xmp/xmpheaderpi/
 ---
 ## XmpHeaderPi class

@@ -3,7 +3,7 @@ title: FontStoreType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29930
+weight: 29740
 url: /net/aspose.cad.imageoptions.svgoptionsparameters/fontstoretype/
 ---
 ## FontStoreType enumeration

@@ -3,7 +3,7 @@ title: IfcProfileTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26800
+weight: 26790
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcprofiletypeenum/
 ---
 ## IfcProfileTypeEnum enumeration

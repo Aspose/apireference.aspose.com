@@ -3,7 +3,7 @@ title: MedianFilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29590
+weight: 29400
 url: /net/aspose.cad.imagefilters.filteroptions/medianfilteroptions/
 ---
 ## MedianFilterOptions class

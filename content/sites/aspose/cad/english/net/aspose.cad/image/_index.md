@@ -3,7 +3,7 @@ title: Image
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29530
+weight: 29340
 url: /net/aspose.cad/image/
 ---
 ## Image class

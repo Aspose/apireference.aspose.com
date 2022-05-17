@@ -3,7 +3,7 @@ title: PdfDocumentInfo
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28590
+weight: 28580
 url: /net/aspose.cad.fileformats.pdf/pdfdocumentinfo/
 ---
 ## PdfDocumentInfo class

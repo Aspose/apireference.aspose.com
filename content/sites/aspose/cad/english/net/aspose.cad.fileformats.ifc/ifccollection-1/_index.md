@@ -3,7 +3,7 @@ title: IfcCollectionT
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28240
+weight: 28230
 url: /net/aspose.cad.fileformats.ifc/ifccollection-1/
 ---
 ## IfcCollection&lt;T&gt; class

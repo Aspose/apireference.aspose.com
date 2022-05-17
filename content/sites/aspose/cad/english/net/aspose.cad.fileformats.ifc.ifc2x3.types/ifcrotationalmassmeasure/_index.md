@@ -3,7 +3,7 @@ title: IfcRotationalMassMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 15540
+weight: 15530
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcrotationalmassmeasure/
 ---
 ## IfcRotationalMassMeasure class

@@ -3,7 +3,7 @@ title: ColorRGB
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 28300
+weight: 28290
 url: /net/aspose.cad.fileformats.iges.commondefinitions/colorrgb/
 ---
 ## ColorRGB structure

@@ -3,7 +3,7 @@ title: IfcVectorOrDirection
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 16310
+weight: 16300
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcvectorordirection/
 ---
 ## IfcVectorOrDirection class

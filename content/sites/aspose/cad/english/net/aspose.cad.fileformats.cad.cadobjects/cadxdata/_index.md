@@ -3,7 +3,7 @@ title: CadXdata
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3190
+weight: 3180
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadxdata/
 ---
 ## CadXdata class

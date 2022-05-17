@@ -3,7 +3,7 @@ title: IfcElementType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18710
+weight: 18700
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype/
 ---
 ## IfcElementType class

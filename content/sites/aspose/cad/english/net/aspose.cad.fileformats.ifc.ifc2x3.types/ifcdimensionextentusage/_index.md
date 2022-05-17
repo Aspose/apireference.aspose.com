@@ -3,7 +3,7 @@ title: IfcDimensionExtentUsage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 13900
+weight: 13890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdimensionextentusage/
 ---
 ## IfcDimensionExtentUsage enumeration

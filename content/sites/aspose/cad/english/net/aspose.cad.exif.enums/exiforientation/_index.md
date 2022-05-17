@@ -3,7 +3,7 @@ title: ExifOrientation
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 640
+weight: 630
 url: /net/aspose.cad.exif.enums/exiforientation/
 ---
 ## ExifOrientation enumeration

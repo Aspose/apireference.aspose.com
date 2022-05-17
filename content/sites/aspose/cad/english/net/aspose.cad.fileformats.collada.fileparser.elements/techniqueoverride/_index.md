@@ -3,7 +3,7 @@ title: TechniqueOverride
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5450
+weight: 5440
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueoverride/
 ---
 ## TechniqueOverride class

@@ -3,7 +3,7 @@ title: IfcFootingTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25660
+weight: 25650
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfootingtypeenum/
 ---
 ## IfcFootingTypeEnum enumeration

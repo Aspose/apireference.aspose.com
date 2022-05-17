@@ -3,7 +3,7 @@ title: IfcTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 23720
+weight: 23710
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctransformer/
 ---
 ## IfcTransformer class

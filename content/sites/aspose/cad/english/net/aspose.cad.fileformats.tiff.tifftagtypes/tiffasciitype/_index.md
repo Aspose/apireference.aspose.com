@@ -3,7 +3,7 @@ title: TiffASCIIType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29190
+weight: 29030
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/
 ---
 ## TiffASCIIType class

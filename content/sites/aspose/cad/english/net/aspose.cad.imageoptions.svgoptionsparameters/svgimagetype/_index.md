@@ -3,7 +3,7 @@ title: SvgImageType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29970
+weight: 29780
 url: /net/aspose.cad.imageoptions.svgoptionsparameters/svgimagetype/
 ---
 ## SvgImageType enumeration

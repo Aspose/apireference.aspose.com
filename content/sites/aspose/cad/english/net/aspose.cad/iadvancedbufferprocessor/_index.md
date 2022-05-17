@@ -3,7 +3,7 @@ title: IAdvancedBufferProcessor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29380
+weight: 29200
 url: /net/aspose.cad/iadvancedbufferprocessor/
 ---
 ## IAdvancedBufferProcessor interface

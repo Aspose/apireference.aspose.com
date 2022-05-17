@@ -3,7 +3,7 @@ title: IfcGlobalOrLocalEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 25730
+weight: 25720
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcglobalorlocalenum/
 ---
 ## IfcGlobalOrLocalEnum enumeration

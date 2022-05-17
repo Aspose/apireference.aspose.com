@@ -3,7 +3,7 @@ title: CadGroupCodeTypes
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1270
+weight: 1260
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadgroupcodetypes/
 ---
 ## CadGroupCodeTypes enumeration

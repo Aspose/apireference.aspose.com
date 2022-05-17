@@ -3,7 +3,7 @@ title: IfcFlowInstrumentType
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 19250
+weight: 19240
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowinstrumenttype/
 ---
 ## IfcFlowInstrumentType class

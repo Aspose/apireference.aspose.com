@@ -3,7 +3,7 @@ title: IfcModulusOfElasticityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 26300
+weight: 26290
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofelasticitymeasure/
 ---
 ## IfcModulusOfElasticityMeasure class

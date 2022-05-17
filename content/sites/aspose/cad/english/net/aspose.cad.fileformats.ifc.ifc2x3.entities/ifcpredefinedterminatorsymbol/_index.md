@@ -3,7 +3,7 @@ title: IfcPreDefinedTerminatorSymbol
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10420
+weight: 10410
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefinedterminatorsymbol/
 ---
 ## IfcPreDefinedTerminatorSymbol class

@@ -3,7 +3,7 @@ title: DwfWhipTransform
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6440
+weight: 6430
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/
 ---
 ## DwfWhipTransform class

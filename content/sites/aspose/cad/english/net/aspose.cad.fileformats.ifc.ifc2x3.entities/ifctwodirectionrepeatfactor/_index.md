@@ -3,7 +3,7 @@ title: IfcTwoDirectionRepeatFactor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 12890
+weight: 12880
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctwodirectionrepeatfactor/
 ---
 ## IfcTwoDirectionRepeatFactor class

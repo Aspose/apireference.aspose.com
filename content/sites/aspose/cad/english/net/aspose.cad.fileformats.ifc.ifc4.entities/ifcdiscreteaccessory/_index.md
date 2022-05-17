@@ -3,7 +3,7 @@ title: IfcDiscreteAccessory
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18200
+weight: 18190
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdiscreteaccessory/
 ---
 ## IfcDiscreteAccessory class

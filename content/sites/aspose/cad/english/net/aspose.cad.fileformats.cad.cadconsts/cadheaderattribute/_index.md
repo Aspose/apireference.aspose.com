@@ -3,7 +3,7 @@ title: CadHeaderAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1290
+weight: 1280
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/
 ---
 ## CadHeaderAttribute enumeration

@@ -3,7 +3,7 @@ title: DwfWhipImageBase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6260
+weight: 6250
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipimagebase/
 ---
 ## DwfWhipImageBase class

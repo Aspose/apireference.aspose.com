@@ -3,7 +3,7 @@ title: IfcEventTime
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 18840
+weight: 18830
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/
 ---
 ## IfcEventTime class

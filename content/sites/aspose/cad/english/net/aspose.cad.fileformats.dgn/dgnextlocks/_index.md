@@ -3,7 +3,7 @@ title: DgnExtLocks
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 5930
+weight: 5920
 url: /net/aspose.cad.fileformats.dgn/dgnextlocks/
 ---
 ## DgnExtLocks class

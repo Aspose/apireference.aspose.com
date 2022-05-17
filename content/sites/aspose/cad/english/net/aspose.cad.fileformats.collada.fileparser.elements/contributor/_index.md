@@ -3,7 +3,7 @@ title: Contributor
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4400
+weight: 4390
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/contributor/
 ---
 ## Contributor class

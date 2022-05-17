@@ -3,7 +3,7 @@ title: IfcWallStandardCase
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 24040
+weight: 24030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwallstandardcase/
 ---
 ## IfcWallStandardCase class

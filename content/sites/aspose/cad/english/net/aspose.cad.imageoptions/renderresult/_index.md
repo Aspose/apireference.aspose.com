@@ -3,7 +3,7 @@ title: RenderResult
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 29910
+weight: 29720
 url: /net/aspose.cad.imageoptions/renderresult/
 ---
 ## RenderResult class

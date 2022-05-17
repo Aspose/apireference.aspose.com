@@ -3,7 +3,7 @@ title: IfcTankTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27580
+weight: 27570
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctanktypeenum/
 ---
 ## IfcTankTypeEnum enumeration

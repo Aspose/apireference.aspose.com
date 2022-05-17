@@ -3,7 +3,7 @@ title: CadBlockLinearParameter
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1810
+weight: 1800
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblocklinearparameter/
 ---
 ## CadBlockLinearParameter class

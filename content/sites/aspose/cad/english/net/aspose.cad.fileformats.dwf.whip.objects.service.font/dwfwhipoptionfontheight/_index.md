@@ -3,7 +3,7 @@ title: DwfWhipOptionFontHeight
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6560
+weight: 6550
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontheight/
 ---
 ## DwfWhipOptionFontHeight class

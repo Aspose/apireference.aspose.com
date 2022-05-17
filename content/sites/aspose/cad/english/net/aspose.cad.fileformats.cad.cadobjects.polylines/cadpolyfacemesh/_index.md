@@ -3,7 +3,7 @@ title: CadPolyFaceMesh
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 3510
+weight: 3500
 url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyfacemesh/
 ---
 ## CadPolyFaceMesh class

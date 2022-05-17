@@ -3,7 +3,7 @@ title: LangAlt
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 30510
+weight: 30280
 url: /net/aspose.cad.xmp/langalt/
 ---
 ## LangAlt class

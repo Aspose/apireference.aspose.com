@@ -3,7 +3,7 @@ title: IfcLightSourceDirectional
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 9590
+weight: 9580
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcedirectional/
 ---
 ## IfcLightSourceDirectional class

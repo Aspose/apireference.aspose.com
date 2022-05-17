@@ -3,7 +3,7 @@ title: IfcTextFontSelect
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 27690
+weight: 27680
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctextfontselect/
 ---
 ## IfcTextFontSelect class

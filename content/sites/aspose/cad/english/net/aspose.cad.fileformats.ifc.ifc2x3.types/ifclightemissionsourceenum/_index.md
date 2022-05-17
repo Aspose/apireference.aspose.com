@@ -3,7 +3,7 @@ title: IfcLightEmissionSourceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 14710
+weight: 14700
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclightemissionsourceenum/
 ---
 ## IfcLightEmissionSourceEnum enumeration

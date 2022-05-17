@@ -3,7 +3,7 @@ title: IfcAngularDimension
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6750
+weight: 6740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcangulardimension/
 ---
 ## IfcAngularDimension class

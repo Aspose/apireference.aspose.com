@@ -3,7 +3,7 @@ title: CadEntitySpaceMode
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 1230
+weight: 1220
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadentityspacemode/
 ---
 ## CadEntitySpaceMode enumeration

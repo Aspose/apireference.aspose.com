@@ -3,7 +3,7 @@ title: DwfWhipPolymarker
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 6320
+weight: 6310
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolymarker/
 ---
 ## DwfWhipPolymarker class
