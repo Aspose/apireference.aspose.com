@@ -33,6 +33,7 @@ public class RecognitionResult
 | [GetJson](getjson)() | Form JSON string with recognition results. |
 | [GetSpellCheckCorrectedText](getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
 | [GetSpellCheckErrorList](getspellcheckerrorlist)(SpellCheckLanguage, string) | Find the misspelled words with suggested spellings for a given input text. |
+| [Save](save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
 | [Save](save)(string, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
 | [operator +](op_addition) | To complete the full result from recognized fragments (lines). |
 

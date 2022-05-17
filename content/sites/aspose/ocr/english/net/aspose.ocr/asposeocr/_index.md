@@ -50,8 +50,10 @@ public class AsposeOcr
 | [RecognizeMultipleImages](recognizemultipleimages)(string) | Recognizes multiple images packed in ZIP archive or from folder with default settings.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF. |
 | [RecognizeMultipleImages](recognizemultipleimages)(List&lt;string&gt;, RecognitionSettings) | Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF. |
 | [RecognizeMultipleImages](recognizemultipleimages)(string, RecognitionSettings) | Recognizes multiple images packed in ZIP archive or from folder.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF. |
+| [RecognizePdf](recognizepdf)(MemoryStream, DocumentRecognitionSettings) | Recognize text from scanned pdf (extract images).  Recognizes pdf file with the ability to specify [`RecognitionSettings`](../recognitionsettings). Supports Scanned PDF only. Doesn't supports Searchable PDF. |
 | [RecognizePdf](recognizepdf)(string, DocumentRecognitionSettings) | Recognize text from scanned pdf (extract images).  Recognizes pdf file with the ability to specify [`RecognitionSettings`](../recognitionsettings). Supports Scanned PDF only. Doesn't supports Searchable PDF. |
 | [RecognizeTiff](recognizetiff)(string, DocumentRecognitionSettings) | Recognize text from multi-page TIFF image.  Recognizes TIFF file with the ability to specify [`DocumentRecognitionSettings`](../documentrecognitionsettings). Supports TIFF (TIF) only. Doesn't supports other image types. |
+| static [SaveMultipageDocument](savemultipagedocument)(MemoryStream, SaveFormat, List&lt;RecognitionResult&gt;) | Allows to get multipage document from list of RecognitionResult objects |
 | static [SaveMultipageDocument](savemultipagedocument)(string, SaveFormat, List&lt;RecognitionResult&gt;) | Allows to get multipage document from list of RecognitionResult objects |
 
 ### See Also

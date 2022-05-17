@@ -20,6 +20,7 @@ public enum AreasType
 | --- | --- | --- |
 | PARAGRAPHS | `1` | Sets regions as paragraphs |
 | LINES | `2` | Sets regions as lines |
+| WORDS | `3` | Sets regions as words |
 
 ### Remarks
 

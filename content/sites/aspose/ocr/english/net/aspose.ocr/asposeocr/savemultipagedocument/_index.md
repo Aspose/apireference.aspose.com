@@ -6,7 +6,7 @@ type: docs
 weight: 140
 url: /net/aspose.ocr/asposeocr/savemultipagedocument/
 ---
-## AsposeOcr.SaveMultipageDocument method
+## AsposeOcr.SaveMultipageDocument method (1 of 2)
 
 Allows to get multipage document from list of RecognitionResult objects
 
@@ -18,6 +18,31 @@ public static void SaveMultipageDocument(string fullFileName, SaveFormat saveFor
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | String | Filename with a path for saving recognition result in the selected format. |
+| saveFormat | SaveFormat | Document format (Docx, Txt, Pdf). |
+| results | List`1 | List of [`RecognitionResult`](../../recognitionresult) objects. |
+
+### See Also
+
+* enum [SaveFormat](../../saveformat)
+* class [RecognitionResult](../../recognitionresult)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## AsposeOcr.SaveMultipageDocument method (2 of 2)
+
+Allows to get multipage document from list of RecognitionResult objects
+
+```csharp
+public static void SaveMultipageDocument(MemoryStream stream, SaveFormat saveFormat, 
+    List<RecognitionResult> results)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | MemoryStream | MemoryStream for saving recognition result in the selected format. |
 | saveFormat | SaveFormat | Document format (Docx, Txt, Pdf). |
 | results | List`1 | List of [`RecognitionResult`](../../recognitionresult) objects. |
 

@@ -6,7 +6,7 @@ type: docs
 weight: 110
 url: /net/aspose.ocr/recognitionresult/save/
 ---
-## RecognitionResult.Save method
+## RecognitionResult.Save method (1 of 2)
 
 Saves the document as the plain text, PDF or Microsoft Word Document.
 
@@ -18,6 +18,33 @@ public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingC
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | String | Filename with a path for saving recognition result in the selected format. |
+| saveFormat | SaveFormat | Document format (Docx, Txt, Pdf). |
+| applySpellingCorrection | Boolean | Set true to correct misspelled words in case you have such in your recognition result. |
+| language | SpellCheckLanguage | Dictionary for spell check (optional). |
+| dictionaryPath | String | Optionally. Full path to the user dictionary in .txt format. Format is [word - space - frequence(number)]. Example: the 23135851162\nthat 3400031103\n |
+
+### See Also
+
+* enum [SaveFormat](../../saveformat)
+* enum [SpellCheckLanguage](../../../aspose.ocr.spellchecker/spellchecklanguage)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## RecognitionResult.Save method (2 of 2)
+
+Saves the document as the plain text, PDF or Microsoft Word Document.
+
+```csharp
+public void Save(MemoryStream stream, SaveFormat saveFormat, bool applySpellingCorrection = false, 
+    SpellCheckLanguage language = SpellCheckLanguage.Eng, string dictionaryPath = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | MemoryStream | MemoryStream for saving recognition result in the selected format. |
 | saveFormat | SaveFormat | Document format (Docx, Txt, Pdf). |
 | applySpellingCorrection | Boolean | Set true to correct misspelled words in case you have such in your recognition result. |
 | language | SpellCheckLanguage | Dictionary for spell check (optional). |

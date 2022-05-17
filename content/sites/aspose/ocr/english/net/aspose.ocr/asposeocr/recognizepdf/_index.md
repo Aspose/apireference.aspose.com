@@ -6,7 +6,35 @@ type: docs
 weight: 120
 url: /net/aspose.ocr/asposeocr/recognizepdf/
 ---
-## AsposeOcr.RecognizePdf method
+## AsposeOcr.RecognizePdf method (1 of 2)
+
+Recognize text from scanned pdf (extract images).  Recognizes pdf file with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports Scanned PDF only. Doesn't supports Searchable PDF.
+
+```csharp
+public List<RecognitionResult> RecognizePdf(MemoryStream stream, 
+    DocumentRecognitionSettings settings)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | MemoryStream | Memory stream with the pdf file. |
+| settings | DocumentRecognitionSettings | Recognition settings. |
+
+## Return Value
+
+The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* class [DocumentRecognitionSettings](../../documentrecognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## AsposeOcr.RecognizePdf method (2 of 2)
 
 Recognize text from scanned pdf (extract images).  Recognizes pdf file with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports Scanned PDF only. Doesn't supports Searchable PDF.
 
