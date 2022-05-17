@@ -25,24 +25,40 @@ public class AssetInfo : A3DObject
 
 | Name | Description |
 | --- | --- |
-| [Ambient](ambient) { get; set; } | Gets or Sets the default ambient color of this asset |
-| [ApplicationName](applicationname) { get; set; } | Gets or sets the application that created this asset |
-| [ApplicationVendor](applicationvendor) { get; set; } | Gets or sets the application vendor's name |
-| [ApplicationVersion](applicationversion) { get; set; } | Gets or sets the version of the application that created this asset. |
-| [Author](author) { get; set; } | Gets or sets the author of this asset |
-| [Comment](comment) { get; set; } | Gets or sets the comment of this asset. |
-| [CoordinatedSystem](coordinatedsystem) { get; set; } | Gets or sets the coordinate system used in this asset. |
-| [Copyright](copyright) { get; set; } | Gets or sets the document's copyright |
-| [CreationTime](creationtime) { get; set; } | Gets or Sets the creation time of this asset |
-| [Keywords](keywords) { get; set; } | Gets or sets the keywords of this asset |
-| [ModificationTime](modificationtime) { get; set; } | Gets or Sets the modification time of this asset |
-| [Revision](revision) { get; set; } | Gets or sets the revision number of this asset, usually used in version control system. |
-| [Subject](subject) { get; set; } | Gets or sets the subject of this asset |
-| [Title](title) { get; set; } | Gets or sets the title of this asset |
-| [UnitName](unitname) { get; set; } | Gets or sets the unit of length used in this asset. e.g. cm/m/km/inch/feet |
-| [UnitScaleFactor](unitscalefactor) { get; set; } | Gets or sets the scale factor to real-world meter. |
-| [UpVector](upvector) { get; set; } | Gets or sets the up-vector used in this asset. |
-| [Url](url) { get; set; } | Gets or Sets the URL of this asset. |
+| [Ambient](../../aspose.threed/assetinfo/ambient) { get; set; } | Gets or Sets the default ambient color of this asset |
+| [ApplicationName](../../aspose.threed/assetinfo/applicationname) { get; set; } | Gets or sets the application that created this asset |
+| [ApplicationVendor](../../aspose.threed/assetinfo/applicationvendor) { get; set; } | Gets or sets the application vendor's name |
+| [ApplicationVersion](../../aspose.threed/assetinfo/applicationversion) { get; set; } | Gets or sets the version of the application that created this asset. |
+| [Author](../../aspose.threed/assetinfo/author) { get; set; } | Gets or sets the author of this asset |
+| [Comment](../../aspose.threed/assetinfo/comment) { get; set; } | Gets or sets the comment of this asset. |
+| [CoordinatedSystem](../../aspose.threed/assetinfo/coordinatedsystem) { get; set; } | Gets or sets the coordinate system used in this asset. |
+| [Copyright](../../aspose.threed/assetinfo/copyright) { get; set; } | Gets or sets the document's copyright |
+| [CreationTime](../../aspose.threed/assetinfo/creationtime) { get; set; } | Gets or Sets the creation time of this asset |
+| [Keywords](../../aspose.threed/assetinfo/keywords) { get; set; } | Gets or sets the keywords of this asset |
+| [ModificationTime](../../aspose.threed/assetinfo/modificationtime) { get; set; } | Gets or Sets the modification time of this asset |
+| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
+| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
+| [Revision](../../aspose.threed/assetinfo/revision) { get; set; } | Gets or sets the revision number of this asset, usually used in version control system. |
+| [Subject](../../aspose.threed/assetinfo/subject) { get; set; } | Gets or sets the subject of this asset |
+| [Title](../../aspose.threed/assetinfo/title) { get; set; } | Gets or sets the title of this asset |
+| [UnitName](../../aspose.threed/assetinfo/unitname) { get; set; } | Gets or sets the unit of length used in this asset. e.g. cm/m/km/inch/feet |
+| [UnitScaleFactor](../../aspose.threed/assetinfo/unitscalefactor) { get; set; } | Gets or sets the scale factor to real-world meter. |
+| [UpVector](../../aspose.threed/assetinfo/upvector) { get; set; } | Gets or sets the up-vector used in this asset. |
+| [Url](../../aspose.threed/assetinfo/url) { get; set; } | Gets or Sets the URL of this asset. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [Equals](equals)(object) |  |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| virtual [GetHashCode](gethashcode)() |  |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
+| [GetType](gettype)() |  |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
+| virtual [ToString](tostring)() |  |
 
 ### See Also
 
@@ -50,4 +66,4 @@ public class AssetInfo : A3DObject
 * namespace [Aspose.ThreeD](../../aspose.threed)
 * assembly [Aspose.3D](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3D.dll -->
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3d.dll -->

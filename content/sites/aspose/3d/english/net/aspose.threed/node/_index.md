@@ -26,40 +26,51 @@ public class Node : SceneObject
 
 | Name | Description |
 | --- | --- |
-| [AssetInfo](assetinfo) { get; set; } | Per-node asset info |
-| [ChildNodes](childnodes) { get; } | Gets the children nodes. |
-| [Entities](entities) { get; } | Gets all node entities. |
-| [Entity](entity) { get; set; } | Gets or sets the first entity attached to this node, if sets, will clear other entities. |
-| [Excluded](excluded) { get; set; } | Gets or sets whether to exclude this node and all child nodes/entities during exporting. |
-| [GlobalTransform](globaltransform) { get; } | Gets the global transform. |
-| [Material](material) { get; set; } | Gets or sets the first material associated with this node, if sets, will clear other materials |
-| [Materials](materials) { get; } | Gets the materials associated with this node. |
-| [MetaDatas](metadatas) { get; } | Gets the meta data defined in this node. |
-| [ParentNode](parentnode) { get; set; } | Gets or sets the parent node. |
-| [Transform](transform) { get; } | Gets the local transform. |
-| [Visible](visible) { get; set; } | Gets or sets to show the node |
+| [AssetInfo](../../aspose.threed/node/assetinfo) { get; set; } | Per-node asset info |
+| [ChildNodes](../../aspose.threed/node/childnodes) { get; } | Gets the children nodes. |
+| [Entities](../../aspose.threed/node/entities) { get; } | Gets all node entities. |
+| [Entity](../../aspose.threed/node/entity) { get; set; } | Gets or sets the first entity attached to this node, if sets, will clear other entities. |
+| [Excluded](../../aspose.threed/node/excluded) { get; set; } | Gets or sets whether to exclude this node and all child nodes/entities during exporting. |
+| [GlobalTransform](../../aspose.threed/node/globaltransform) { get; } | Gets the global transform. |
+| [Material](../../aspose.threed/node/material) { get; set; } | Gets or sets the first material associated with this node, if sets, will clear other materials |
+| [Materials](../../aspose.threed/node/materials) { get; } | Gets the materials associated with this node. |
+| [MetaDatas](../../aspose.threed/node/metadatas) { get; } | Gets the meta data defined in this node. |
+| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
+| [ParentNode](../../aspose.threed/node/parentnode) { get; set; } | Gets or sets the parent node. |
+| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
+| [Scene](../../aspose.threed/sceneobject/scene) { get; } | Gets the scene that this object belongs to |
+| [Transform](../../aspose.threed/node/transform) { get; } | Gets the local transform. |
+| [Visible](../../aspose.threed/node/visible) { get; set; } | Gets or sets to show the node |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](accept)(NodeVisitor) | Walks through all descendant nodes(including the current node) and call the visitor with the node. Visitor can break the walk-through by returning false |
-| [AddChildNode](addchildnode)(Node) | Add a child node to this node |
-| [AddEntity](addentity)(Entity) | Add an entity to the node. |
-| [CreateChildNode](createchildnode)() | Creates a child node |
-| [CreateChildNode](createchildnode)(Entity) | Create a new child node with given entity attached |
-| [CreateChildNode](createchildnode)(string) | Create a new child node with given node name |
-| [CreateChildNode](createchildnode)(string, Entity) | Create a new child node with given node name |
-| [CreateChildNode](createchildnode)(string, Entity, Material) | Create a new child node with given node name, and attach specified entity and a material |
-| [EvaluateGlobalTransform](evaluateglobaltransform)(bool) | Evaluate the global transform, include the geometric transform or not. |
-| [GetBoundingBox](getboundingbox)() | Calculate the bounding box of the node |
-| [GetChild](getchild)(int) | Gets the child node at specified index. |
-| [GetChild](getchild)(string) | Gets the child node with the specified name |
-| [GetEntity&lt;T&gt;](getentity)() |  |
-| [Merge](merge)(Node) | Detach everything under the node and attach them to current node. |
-| [SelectObjects](selectobjects)(string) | Select multiple objects under current node using XPath-like query syntax. |
-| [SelectSingleObject](selectsingleobject)(string) | Select single object under current node using XPath-like query syntax. |
-| override [ToString](tostring)() | Gets the string representation of this node. |
+| [Accept](../../aspose.threed/node/accept)(NodeVisitor) | Walks through all descendant nodes(including the current node) and call the visitor with the node. Visitor can break the walk-through by returning false |
+| [AddChildNode](../../aspose.threed/node/addchildnode)(Node) | Add a child node to this node |
+| [AddEntity](../../aspose.threed/node/addentity)(Entity) | Add an entity to the node. |
+| [CreateChildNode](../../aspose.threed/node/createchildnode)() | Creates a child node |
+| [CreateChildNode](../../aspose.threed/node/createchildnode)(Entity) | Create a new child node with given entity attached |
+| [CreateChildNode](../../aspose.threed/node/createchildnode)(string) | Create a new child node with given node name |
+| [CreateChildNode](../../aspose.threed/node/createchildnode)(string, Entity) | Create a new child node with given node name |
+| [CreateChildNode](../../aspose.threed/node/createchildnode)(string, Entity, Material) | Create a new child node with given node name, and attach specified entity and a material |
+| virtual [Equals](equals)(object) |  |
+| [EvaluateGlobalTransform](../../aspose.threed/node/evaluateglobaltransform)(bool) | Evaluate the global transform, include the geometric transform or not. |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetBoundingBox](../../aspose.threed/node/getboundingbox)() | Calculate the bounding box of the node |
+| [GetChild](../../aspose.threed/node/getchild)(int) | Gets the child node at specified index. |
+| [GetChild](../../aspose.threed/node/getchild)(string) | Gets the child node with the specified name |
+| [GetEntity&lt;T&gt;](../../aspose.threed/node/getentity)() |  |
+| virtual [GetHashCode](gethashcode)() |  |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
+| [GetType](gettype)() |  |
+| [Merge](../../aspose.threed/node/merge)(Node) | Detach everything under the node and attach them to current node. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
+| [SelectObjects](../../aspose.threed/node/selectobjects)(string) | Select multiple objects under current node using XPath-like query syntax. |
+| [SelectSingleObject](../../aspose.threed/node/selectsingleobject)(string) | Select single object under current node using XPath-like query syntax. |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
+| override [ToString](../../aspose.threed/node/tostring)() | Gets the string representation of this node. |
 
 ### See Also
 
@@ -67,4 +78,4 @@ public class Node : SceneObject
 * namespace [Aspose.ThreeD](../../aspose.threed)
 * assembly [Aspose.3D](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3D.dll -->
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3d.dll -->

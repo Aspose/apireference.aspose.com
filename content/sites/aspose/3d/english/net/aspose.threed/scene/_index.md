@@ -26,42 +26,54 @@ public class Scene : SceneObject
 
 | Name | Description |
 | --- | --- |
-| [AnimationClips](animationclips) { get; } | Gets all [`AnimationClip`](../../aspose.threed.animation/animationclip) defined in the scene. |
-| [AssetInfo](assetinfo) { get; set; } | Gets or sets the top-level asset information |
-| [CurrentAnimationClip](currentanimationclip) { get; set; } | Gets or sets the active [`AnimationClip`](../../aspose.threed.animation/animationclip) |
-| [Library](library) { get; } | Objects that not directly used in scene hierarchy can be defined in Library. This is useful when you're using sub-scenes and put reusable components under sub-scenes. |
-| [Poses](poses) { get; } | Gets all [`Pose`](../pose) used in this scene. |
-| [RootNode](rootnode) { get; } | Gets the root node of the scene. |
-| [SubScenes](subscenes) { get; } | Gets all sub-scenes |
+| [AnimationClips](../../aspose.threed/scene/animationclips) { get; } | Gets all [`AnimationClip`](../../aspose.threed.animation/animationclip) defined in the scene. |
+| [AssetInfo](../../aspose.threed/scene/assetinfo) { get; set; } | Gets or sets the top-level asset information |
+| [CurrentAnimationClip](../../aspose.threed/scene/currentanimationclip) { get; set; } | Gets or sets the active [`AnimationClip`](../../aspose.threed.animation/animationclip) |
+| [Library](../../aspose.threed/scene/library) { get; } | Objects that not directly used in scene hierarchy can be defined in Library. This is useful when you're using sub-scenes and put reusable components under sub-scenes. |
+| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
+| [Poses](../../aspose.threed/scene/poses) { get; } | Gets all [`Pose`](../pose) used in this scene. |
+| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
+| [RootNode](../../aspose.threed/scene/rootnode) { get; } | Gets the root node of the scene. |
+| [Scene](../../aspose.threed/sceneobject/scene) { get; } | Gets the scene that this object belongs to |
+| [SubScenes](../../aspose.threed/scene/subscenes) { get; } | Gets all sub-scenes |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromFile](fromfile)(string, CancellationToken) | Opens the scene from given path |
-| static [FromFile](fromfile)(string, FileFormat, CancellationToken) | Opens the scene from given path using specified file format. |
-| static [FromFile](fromfile)(string, LoadOptions, CancellationToken) | Opens the scene from given path using specified file format. |
-| static [FromStream](fromstream)(Stream, CancellationToken) | Opens the scene from given stream |
-| static [FromStream](fromstream)(Stream, FileFormat, CancellationToken) | Opens the scene from given stream using specified file format. |
-| static [FromStream](fromstream)(Stream, LoadOptions, CancellationToken) | Opens the scene from given stream using specified IO config. |
-| [Clear](clear)() | Clears the scene content and restores the default settings. |
-| [CreateAnimationClip](createanimationclip)(string) | A shorthand function to create and register the [`AnimationClip`](../../aspose.threed.animation/animationclip) The first [`AnimationClip`](../../aspose.threed.animation/animationclip) will be assigned to the [`CurrentAnimationClip`](./currentanimationclip) |
-| [GetAnimationClip](getanimationclip)(string) | Gets a named [`AnimationClip`](../../aspose.threed.animation/animationclip) |
-| [Open](open)(Stream, CancellationToken) | Opens the scene from given stream |
-| [Open](open)(string, CancellationToken) | Opens the scene from given path |
-| [Open](open)(Stream, FileFormat, CancellationToken) | Opens the scene from given stream using specified file format. |
-| [Open](open)(Stream, LoadOptions, CancellationToken) | Opens the scene from given stream using specified IO config. |
-| [Open](open)(string, FileFormat, CancellationToken) | Opens the scene from given path using specified file format. |
-| [Open](open)(string, LoadOptions, CancellationToken) | Opens the scene from given path using specified file format. |
-| [Render](render)(Camera, Bitmap) | Render the scene into bitmap from given camera's perspective. |
-| [Render](render)(Camera, string) | Render the scene into external file from given camera's perspective. The default output size is 1024x768 and output format is png |
-| [Render](render)(Camera, Bitmap, ImageRenderOptions) | Render the scene into bitmap from given camera's perspective. |
-| [Render](render)(Camera, string, Size, ImageFormat) | Render the scene into external file from given camera's perspective. |
-| [Render](render)(Camera, string, Size, ImageFormat, ImageRenderOptions) | Render the scene into external file from given camera's perspective. |
-| [Save](save)(Stream, FileFormat, CancellationToken) | Saves the scene to stream using specified file format. |
-| [Save](save)(Stream, SaveOptions, CancellationToken) | Saves the scene to stream using specified file format. |
-| [Save](save)(string, FileFormat, CancellationToken) | Saves the scene to specified path using specified file format. |
-| [Save](save)(string, SaveOptions, CancellationToken) | Saves the scene to specified path using specified file format. |
+| static [FromFile](../../aspose.threed/scene/fromfile)(string, CancellationToken) | Opens the scene from given path |
+| static [FromFile](../../aspose.threed/scene/fromfile)(string, FileFormat, CancellationToken) | Opens the scene from given path using specified file format. |
+| static [FromFile](../../aspose.threed/scene/fromfile)(string, LoadOptions, CancellationToken) | Opens the scene from given path using specified file format. |
+| static [FromStream](../../aspose.threed/scene/fromstream)(Stream, CancellationToken) | Opens the scene from given stream |
+| static [FromStream](../../aspose.threed/scene/fromstream)(Stream, FileFormat, CancellationToken) | Opens the scene from given stream using specified file format. |
+| static [FromStream](../../aspose.threed/scene/fromstream)(Stream, LoadOptions, CancellationToken) | Opens the scene from given stream using specified IO config. |
+| [Clear](../../aspose.threed/scene/clear)() | Clears the scene content and restores the default settings. |
+| [CreateAnimationClip](../../aspose.threed/scene/createanimationclip)(string) | A shorthand function to create and register the [`AnimationClip`](../../aspose.threed.animation/animationclip) The first [`AnimationClip`](../../aspose.threed.animation/animationclip) will be assigned to the [`CurrentAnimationClip`](./currentanimationclip) |
+| virtual [Equals](equals)(object) |  |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetAnimationClip](../../aspose.threed/scene/getanimationclip)(string) | Gets a named [`AnimationClip`](../../aspose.threed.animation/animationclip) |
+| virtual [GetHashCode](gethashcode)() |  |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
+| [GetType](gettype)() |  |
+| [Open](../../aspose.threed/scene/open)(Stream, CancellationToken) | Opens the scene from given stream |
+| [Open](../../aspose.threed/scene/open)(string, CancellationToken) | Opens the scene from given path |
+| [Open](../../aspose.threed/scene/open)(Stream, FileFormat, CancellationToken) | Opens the scene from given stream using specified file format. |
+| [Open](../../aspose.threed/scene/open)(Stream, LoadOptions, CancellationToken) | Opens the scene from given stream using specified IO config. |
+| [Open](../../aspose.threed/scene/open)(string, FileFormat, CancellationToken) | Opens the scene from given path using specified file format. |
+| [Open](../../aspose.threed/scene/open)(string, LoadOptions, CancellationToken) | Opens the scene from given path using specified file format. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
+| [Render](../../aspose.threed/scene/render)(Camera, Bitmap) | Render the scene into bitmap from given camera's perspective. |
+| [Render](../../aspose.threed/scene/render)(Camera, string) | Render the scene into external file from given camera's perspective. The default output size is 1024x768 and output format is png |
+| [Render](../../aspose.threed/scene/render)(Camera, Bitmap, ImageRenderOptions) | Render the scene into bitmap from given camera's perspective. |
+| [Render](../../aspose.threed/scene/render)(Camera, string, Size, ImageFormat) | Render the scene into external file from given camera's perspective. |
+| [Render](../../aspose.threed/scene/render)(Camera, string, Size, ImageFormat, ImageRenderOptions) | Render the scene into external file from given camera's perspective. |
+| [Save](../../aspose.threed/scene/save)(Stream, FileFormat, CancellationToken) | Saves the scene to stream using specified file format. |
+| [Save](../../aspose.threed/scene/save)(Stream, SaveOptions, CancellationToken) | Saves the scene to stream using specified file format. |
+| [Save](../../aspose.threed/scene/save)(string, FileFormat, CancellationToken) | Saves the scene to specified path using specified file format. |
+| [Save](../../aspose.threed/scene/save)(string, SaveOptions, CancellationToken) | Saves the scene to specified path using specified file format. |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
+| virtual [ToString](tostring)() |  |
 
 ### See Also
 
@@ -69,4 +81,4 @@ public class Scene : SceneObject
 * namespace [Aspose.ThreeD](../../aspose.threed)
 * assembly [Aspose.3D](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3D.dll -->
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3d.dll -->
