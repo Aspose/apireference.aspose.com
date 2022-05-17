@@ -1,6 +1,6 @@
 rewrite java/(.*?/)(.*?/)(.*?/)([a-zA-Z0-9_]+) https://apireference2.aspose.com/$1java/$2/$4 permanent;
 rewrite productfamily/([_0-9a-z-]+) https://apireference2.aspose.com/$1 permanent;
-rewrite ^javascript/cells(.*) https://apireference2.aspose.com/cells/nodejs$1 permanent;
+rewrite javascript/cells(.*) https://apireference2.aspose.com/cells/nodejs$1 permanent;
 rewrite ^java/eps/com.aspose.eps.class-use/ps2pdfconverteroptions https://apireference2.aspose.com/page/java/com.aspose.xps.rendering/PdfSaveOptions permanent;
 rewrite ^java/xps/com.aspose.xps.class-use/PdfTextCompression https://apireference2.aspose.com/page/java/com.aspose.xps.rendering/PdfTextCompression permanent;
 rewrite ^java/xps/com.aspose.xps/Size2D_Float https://apireference2.aspose.com/page/java/com.aspose.xps/Size2D_Float permanent;
