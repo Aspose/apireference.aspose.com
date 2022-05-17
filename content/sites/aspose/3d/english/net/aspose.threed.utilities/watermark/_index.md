@@ -18,12 +18,8 @@ public class Watermark
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
-| static [DecodeWatermark](../../aspose.threed.utilities/watermark/decodewatermark)(Mesh, string) | Decode the watermark from a mesh |
-| static [EncodeWatermark](../../aspose.threed.utilities/watermark/encodewatermark)(Mesh, string, string) | Encode a text into mesh' blind watermark. |
+| static [DecodeWatermark](decodewatermark)(Mesh, string) | Decode the watermark from a mesh |
+| static [EncodeWatermark](encodewatermark)(Mesh, string, string) | Encode a text into mesh' blind watermark. |
 
 ### See Also
 

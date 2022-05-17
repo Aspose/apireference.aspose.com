@@ -24,19 +24,10 @@ public class PatchDirection
 
 | Name | Description |
 | --- | --- |
-| [Closed](../../aspose.threed.entities/patchdirection/closed) { get; set; } | Gets or sets a value indicating whether this [`PatchDirection`](../patchdirection) is a closed curve. |
-| [ControlPoints](../../aspose.threed.entities/patchdirection/controlpoints) { get; set; } | Gets or sets the count of control points in current direction. |
-| [Divisions](../../aspose.threed.entities/patchdirection/divisions) { get; set; } | Gets or sets the number of divisions between adjacent control points. |
-| [Type](../../aspose.threed.entities/patchdirection/type) { get; set; } | Gets or sets the patch's type. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Closed](closed) { get; set; } | Gets or sets a value indicating whether this [`PatchDirection`](../patchdirection) is a closed curve. |
+| [ControlPoints](controlpoints) { get; set; } | Gets or sets the count of control points in current direction. |
+| [Divisions](divisions) { get; set; } | Gets or sets the number of divisions between adjacent control points. |
+| [Type](type) { get; set; } | Gets or sets the patch's type. |
 
 ### See Also
 

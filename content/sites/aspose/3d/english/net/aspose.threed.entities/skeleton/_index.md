@@ -25,30 +25,26 @@ public class Skeleton : Entity
 
 | Name | Description |
 | --- | --- |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
-| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
-| [Scene](../../aspose.threed/sceneobject/scene) { get; } | Gets the scene that this object belongs to |
-| [Size](../../aspose.threed.entities/skeleton/size) { get; set; } | Gets or sets the limb node size that used in CAD software to represent the size of the bone. |
-| [Type](../../aspose.threed.entities/skeleton/type) { get; set; } | Gets or sets the type of the skeleton. |
+| [Excluded](excluded) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
+| virtual [Name](name) { get; set; } | Gets or sets the name. |
+| [ParentNode](parentnode) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
+| [ParentNodes](parentnodes) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
+| [Scene](scene) { get; } | Gets the scene that this object belongs to |
+| [Size](size) { get; set; } | Gets or sets the limb node size that used in CAD software to represent the size of the bone. |
+| [Type](type) { get; set; } | Gets or sets the type of the skeleton. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Gets the bounding box of current entity in its object space coordinate system. |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Gets the key of the entity renderer registered in the renderer |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| virtual [ToString](tostring)() |  |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetBoundingBox](getboundingbox)() | Gets the bounding box of current entity in its object space coordinate system. |
+| virtual [GetEntityRendererKey](getentityrendererkey)() | Gets the key of the entity renderer registered in the renderer |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
 
 ### See Also
 

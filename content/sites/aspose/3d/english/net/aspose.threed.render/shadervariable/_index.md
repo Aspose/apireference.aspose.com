@@ -25,16 +25,7 @@ public class ShaderVariable
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.threed.render/shadervariable/name) { get; } | Gets the name of this variable |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Name](name) { get; } | Gets the name of this variable |
 
 ### See Also
 

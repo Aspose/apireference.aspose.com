@@ -21,30 +21,6 @@ public class InitializationException : Exception
 | [InitializationException](initializationexception)() | Initialize an [`InitializationException`](../initializationexception) instance |
 | [InitializationException](initializationexception)(string) | Initialize an [`InitializationException`](../initializationexception) instance with specified exception message. |
 
-## Properties
-
-| Name | Description |
-| --- | --- |
-| virtual [Data](data) { get; } |  |
-| virtual [HelpLink](helplink) { get; set; } |  |
-| [HResult](hresult) { get; } |  |
-| [InnerException](innerexception) { get; } |  |
-| virtual [Message](message) { get; } |  |
-| virtual [Source](source) { get; set; } |  |
-| virtual [StackTrace](stacktrace) { get; } |  |
-| [TargetSite](targetsite) { get; } |  |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetBaseException](getbaseexception)() |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| virtual [GetObjectData](getobjectdata)(SerializationInfo, StreamingContext) |  |
-| [GetType](gettype)() |  (2 methods) |
-| override [ToString](tostring)() |  |
-
 ### See Also
 
 * namespace [Aspose.ThreeD.Render](../../aspose.threed.render)

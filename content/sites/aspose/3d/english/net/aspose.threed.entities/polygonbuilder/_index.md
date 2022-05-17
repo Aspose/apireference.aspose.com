@@ -24,13 +24,9 @@ public sealed class PolygonBuilder
 
 | Name | Description |
 | --- | --- |
-| [AddVertex](../../aspose.threed.entities/polygonbuilder/addvertex)(int) | Adds a vertex index to the polygon |
-| [Begin](../../aspose.threed.entities/polygonbuilder/begin)() | Begins to add a new polygon |
-| [End](../../aspose.threed.entities/polygonbuilder/end)() | Finishes the polygon creation |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [AddVertex](addvertex)(int) | Adds a vertex index to the polygon |
+| [Begin](begin)() | Begins to add a new polygon |
+| [End](end)() | Finishes the polygon creation |
 
 ### Examples
 

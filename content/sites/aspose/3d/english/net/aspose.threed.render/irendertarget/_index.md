@@ -18,16 +18,16 @@ public interface IRenderTarget : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Size](../../aspose.threed.render/irendertarget/size) { get; set; } | Gets or sets the size of the render target. |
-| [Viewports](../../aspose.threed.render/irendertarget/viewports) { get; } | Gets all viewports that associated with this render target. |
+| [Size](size) { get; set; } | Gets or sets the size of the render target. |
+| [Viewports](viewports) { get; } | Gets all viewports that associated with this render target. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateViewport](../../aspose.threed.render/irendertarget/createviewport)(Camera) | Create a viewport in specified camera perspective. |
-| [CreateViewport](../../aspose.threed.render/irendertarget/createviewport)(Camera, RelativeRectangle) | Create a viewport with position/size in specified camera perspective. |
-| [CreateViewport](../../aspose.threed.render/irendertarget/createviewport)(Camera, Color, RelativeRectangle) | Create a viewport with specified background color and position/size in specified camera perspective. |
+| [CreateViewport](createviewport)(Camera) | Create a viewport in specified camera perspective. |
+| [CreateViewport](createviewport)(Camera, RelativeRectangle) | Create a viewport with position/size in specified camera perspective. |
+| [CreateViewport](createviewport)(Camera, Color, RelativeRectangle) | Create a viewport with specified background color and position/size in specified camera perspective. |
 
 ### See Also
 

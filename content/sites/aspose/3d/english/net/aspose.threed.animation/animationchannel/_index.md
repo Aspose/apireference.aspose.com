@@ -18,21 +18,17 @@ public class AnimationChannel : IEnumerable<KeyframeSequence>
 
 | Name | Description |
 | --- | --- |
-| [ComponentType](../../aspose.threed.animation/animationchannel/componenttype) { get; } | Gets the component field's type |
-| [DefaultValue](../../aspose.threed.animation/animationchannel/defaultvalue) { get; set; } | Gets or sets the Default value of the channel. If a channel has no keyframe sequences connected, the default value will be used during the animation evaluation. A real scenario: Animation only animates a node's x coordinate, the y and z are not changed, then the default value will be used during full translation evaluation. |
-| [KeyframeSequences](../../aspose.threed.animation/animationchannel/keyframesequences) { get; } | Gets all keyframe sequences inside this channel |
-| [Name](../../aspose.threed.animation/animationchannel/name) { get; } | Gets the name of the channel |
+| [ComponentType](componenttype) { get; } | Gets the component field's type |
+| [DefaultValue](defaultvalue) { get; set; } | Gets or sets the Default value of the channel. If a channel has no keyframe sequences connected, the default value will be used during the animation evaluation. A real scenario: Animation only animates a node's x coordinate, the y and z are not changed, then the default value will be used during full translation evaluation. |
+| [KeyframeSequences](keyframesequences) { get; } | Gets all keyframe sequences inside this channel |
+| [Name](name) { get; } | Gets the name of the channel |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddKeyframeSequence](../../aspose.threed.animation/animationchannel/addkeyframesequence)(KeyframeSequence) | Adds keyframe sequence to this channel |
-| virtual [Equals](equals)(object) |  |
-| [GetEnumerator](../../aspose.threed.animation/animationchannel/getenumerator)() | Gets an enumerator to walk through all keyframe sequences inside this channel |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [AddKeyframeSequence](addkeyframesequence)(KeyframeSequence) | Adds keyframe sequence to this channel |
+| [GetEnumerator](getenumerator)() | Gets an enumerator to walk through all keyframe sequences inside this channel |
 
 ### See Also
 

@@ -22,9 +22,9 @@ public interface IArrayList<T> : IList<T>
 
 | Name | Description |
 | --- | --- |
-| [AddRange](../../aspose.threed.utilities/iarraylist`1/addrange)(IEnumerable&lt;T&gt;) |  |
-| [AddRange](../../aspose.threed.utilities/iarraylist`1/addrange)(IList&lt;T&gt;) |  |
-| [ToArray](../../aspose.threed.utilities/iarraylist`1/toarray)() | Converts all items in the list to an array |
+| [AddRange](addrange)(IEnumerable&lt;T&gt;) |  |
+| [AddRange](addrange)(IList&lt;T&gt;) |  |
+| [ToArray](toarray)() | Converts all items in the list to an array |
 
 ### See Also
 

@@ -25,30 +25,26 @@ public class KeyframeSequence : A3DObject, IEnumerable<KeyFrame>
 
 | Name | Description |
 | --- | --- |
-| [BindPoint](../../aspose.threed.animation/keyframesequence/bindpoint) { get; } | Gets the property bind point which owns this curve |
-| [KeyFrames](../../aspose.threed.animation/keyframesequence/keyframes) { get; } | Gets the key frames of this curve. |
-| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
-| [PostBehavior](../../aspose.threed.animation/keyframesequence/postbehavior) { get; } | Gets the post behavior indicates what the sampled value should be after the last key frame. |
-| [PreBehavior](../../aspose.threed.animation/keyframesequence/prebehavior) { get; } | Gets the pre behavior indicates what the sampled value should be before the first key. |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
+| [BindPoint](bindpoint) { get; } | Gets the property bind point which owns this curve |
+| [KeyFrames](keyframes) { get; } | Gets the key frames of this curve. |
+| virtual [Name](name) { get; set; } | Gets or sets the name. |
+| [PostBehavior](postbehavior) { get; } | Gets the post behavior indicates what the sampled value should be after the last key frame. |
+| [PreBehavior](prebehavior) { get; } | Gets the pre behavior indicates what the sampled value should be before the first key. |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.threed.animation/keyframesequence/add)(double, float) | Create a new key frame with specified value |
-| [Add](../../aspose.threed.animation/keyframesequence/add)(double, float, Interpolation) | Create a new key frame with specified value |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| [GetEnumerator](../../aspose.threed.animation/keyframesequence/getenumerator)() | Gets the enumerator to traverse all key frames. |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [Reset](../../aspose.threed.animation/keyframesequence/reset)() | Removes all key frames and reset the post/pre behaviors. |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| virtual [ToString](tostring)() |  |
+| [Add](add)(double, float) | Create a new key frame with specified value |
+| [Add](add)(double, float, Interpolation) | Create a new key frame with specified value |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetEnumerator](getenumerator)() | Gets the enumerator to traverse all key frames. |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [Reset](reset)() | Removes all key frames and reset the post/pre behaviors. |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
 
 ### See Also
 

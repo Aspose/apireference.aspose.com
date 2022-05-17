@@ -18,17 +18,13 @@ public sealed class DescriptorSetUpdater : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind)(IBuffer) | Bind the entire buffer to current descriptor |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind)(ITextureUnit) | Bind the texture unit to current descriptor set |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind)(int, IBuffer) | Bind the buffer to current descriptor set at specified binding location. |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind)(int, ITextureUnit) | Bind the texture unit to current descriptor set |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind)(IBuffer, int, int) | Bind the buffer to current descriptor set |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind)(int, IBuffer, int, int) | Bind the buffer to current descriptor set at specified binding location. |
-| [Dispose](../../aspose.threed.render/descriptorsetupdater/dispose)() | Dispose the updater and commit the changes to hardware device. |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Bind](bind)(IBuffer) | Bind the entire buffer to current descriptor |
+| [Bind](bind)(ITextureUnit) | Bind the texture unit to current descriptor set |
+| [Bind](bind)(int, IBuffer) | Bind the buffer to current descriptor set at specified binding location. |
+| [Bind](bind)(int, ITextureUnit) | Bind the texture unit to current descriptor set |
+| [Bind](bind)(IBuffer, int, int) | Bind the buffer to current descriptor set |
+| [Bind](bind)(int, IBuffer, int, int) | Bind the buffer to current descriptor set at specified binding location. |
+| [Dispose](dispose)() | Dispose the updater and commit the changes to hardware device. |
 
 ### See Also
 

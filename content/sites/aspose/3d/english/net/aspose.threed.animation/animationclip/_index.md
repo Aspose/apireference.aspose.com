@@ -25,28 +25,24 @@ public class AnimationClip : SceneObject
 
 | Name | Description |
 | --- | --- |
-| [Animations](../../aspose.threed.animation/animationclip/animations) { get; } | Gets the animations contained inside the clip. |
-| [Description](../../aspose.threed.animation/animationclip/description) { get; set; } | Gets or sets the description of this animation clip |
-| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
-| [Scene](../../aspose.threed/sceneobject/scene) { get; } | Gets the scene that this object belongs to |
-| [Start](../../aspose.threed.animation/animationclip/start) { get; set; } | Gets or sets the time in seconds of the beginning of the clip. |
-| [Stop](../../aspose.threed.animation/animationclip/stop) { get; set; } | Gets or sets the time in seconds of the end of the clip. |
+| [Animations](animations) { get; } | Gets the animations contained inside the clip. |
+| [Description](description) { get; set; } | Gets or sets the description of this animation clip |
+| virtual [Name](name) { get; set; } | Gets or sets the name. |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
+| [Scene](scene) { get; } | Gets the scene that this object belongs to |
+| [Start](start) { get; set; } | Gets or sets the time in seconds of the beginning of the clip. |
+| [Stop](stop) { get; set; } | Gets or sets the time in seconds of the end of the clip. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateAnimationNode](../../aspose.threed.animation/animationclip/createanimationnode)(string) | A shorthand function to create and register the animation node on current clip. |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| virtual [ToString](tostring)() |  |
+| [CreateAnimationNode](createanimationnode)(string) | A shorthand function to create and register the animation node on current clip. |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
 
 ### See Also
 

@@ -18,10 +18,7 @@ public sealed class FileFormatType
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| override [ToString](../../aspose.threed/fileformattype/tostring)() | Get the name of this file format type |
+| override [ToString](tostring)() | Get the name of this file format type |
 
 ## Other Members
 

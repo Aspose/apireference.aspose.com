@@ -18,13 +18,13 @@ public interface IBuffer : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Size](../../aspose.threed.render/ibuffer/size) { get; } | Size of this buffer in bytes |
+| [Size](size) { get; } | Size of this buffer in bytes |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [LoadData](../../aspose.threed.render/ibuffer/loaddata)(byte[]) | Load the data into current buffer |
+| [LoadData](loaddata)(byte[]) | Load the data into current buffer |
 
 ### See Also
 

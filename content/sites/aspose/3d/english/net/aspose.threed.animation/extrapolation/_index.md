@@ -18,17 +18,8 @@ public class Extrapolation
 
 | Name | Description |
 | --- | --- |
-| [RepeatCount](../../aspose.threed.animation/extrapolation/repeatcount) { get; set; } | Gets and sets the repeat times of the extrapolation pattern. |
-| [Type](../../aspose.threed.animation/extrapolation/type) { get; set; } | Gets and sets the sampling pattern of extrapolation |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [RepeatCount](repeatcount) { get; set; } | Gets and sets the repeat times of the extrapolation pattern. |
+| [Type](type) { get; set; } | Gets and sets the sampling pattern of extrapolation |
 
 ### See Also
 

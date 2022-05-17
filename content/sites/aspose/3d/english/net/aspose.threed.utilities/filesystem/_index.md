@@ -18,13 +18,9 @@ public abstract class FileSystem : IDisposable
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | Dispose the File system and release its resources. |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| abstract [ReadFile](../../aspose.threed.utilities/filesystem/readfile)(string, IOConfig) | Create a stream for reading dependencies. |
-| virtual [ToString](tostring)() |  |
-| abstract [WriteFile](../../aspose.threed.utilities/filesystem/writefile)(string, IOConfig) | Create a stream for writing dependencies. |
+| virtual [Dispose](dispose)() | Dispose the File system and release its resources. |
+| abstract [ReadFile](readfile)(string, IOConfig) | Create a stream for reading dependencies. |
+| abstract [WriteFile](writefile)(string, IOConfig) | Create a stream for writing dependencies. |
 
 ### See Also
 

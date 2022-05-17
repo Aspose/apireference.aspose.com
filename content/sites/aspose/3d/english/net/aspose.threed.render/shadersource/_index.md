@@ -14,15 +14,6 @@ The source code of shader
 public abstract class ShaderSource
 ```
 
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
-
 ### See Also
 
 * namespace [Aspose.ThreeD.Render](../../aspose.threed.render)

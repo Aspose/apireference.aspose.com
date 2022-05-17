@@ -25,25 +25,21 @@ public class TextureData
 
 | Name | Description |
 | --- | --- |
-| [BytesPerPixel](../../aspose.threed.render/texturedata/bytesperpixel) { get; } | Number of bytes of a pixel |
-| [Data](../../aspose.threed.render/texturedata/data) { get; } | Raw bytes of pixel data |
-| [Height](../../aspose.threed.render/texturedata/height) { get; } | Number of vertical pixels |
-| [PixelFormat](../../aspose.threed.render/texturedata/pixelformat) { get; } | The pixel's format |
-| [Stride](../../aspose.threed.render/texturedata/stride) { get; } | Number of bytes of a scanline. |
-| [Width](../../aspose.threed.render/texturedata/width) { get; } | Number of horizontal pixels |
+| [BytesPerPixel](bytesperpixel) { get; } | Number of bytes of a pixel |
+| [Data](data) { get; } | Raw bytes of pixel data |
+| [Height](height) { get; } | Number of vertical pixels |
+| [PixelFormat](pixelformat) { get; } | The pixel's format |
+| [Stride](stride) { get; } | Number of bytes of a scanline. |
+| [Width](width) { get; } | Number of horizontal pixels |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromBitmap](../../aspose.threed.render/texturedata/frombitmap)(Bitmap) | Convert a Bitmap to [`TextureData`](../texturedata) |
-| static [FromFile](../../aspose.threed.render/texturedata/fromfile)(string) | Load a texture from file |
-| static [FromStream](../../aspose.threed.render/texturedata/fromstream)(Stream) | Load a texture from stream |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [ToBitmap](../../aspose.threed.render/texturedata/tobitmap)() | Convert the TextureData to a Bitmap instance. |
-| virtual [ToString](tostring)() |  |
+| static [FromBitmap](frombitmap)(Bitmap) | Convert a Bitmap to [`TextureData`](../texturedata) |
+| static [FromFile](fromfile)(string) | Load a texture from file |
+| static [FromStream](fromstream)(Stream) | Load a texture from stream |
+| [ToBitmap](tobitmap)() | Convert the TextureData to a Bitmap instance. |
 
 ### See Also
 

@@ -18,19 +18,17 @@ public class StencilState
 
 | Name | Description |
 | --- | --- |
-| [Compare](../../aspose.threed.render/stencilstate/compare) { get; set; } | Gets or sets the compare function used in stencil test |
-| [DepthFailAction](../../aspose.threed.render/stencilstate/depthfailaction) { get; set; } | Gets or sets the stencil action when stencil test pass but depth test fails. |
-| [FailAction](../../aspose.threed.render/stencilstate/failaction) { get; set; } | Gets or sets the stencil action when stencil test fails. |
-| [PassAction](../../aspose.threed.render/stencilstate/passaction) { get; set; } | Gets or sets the stencil action when both stencil test and depth test passes. |
+| [Compare](compare) { get; set; } | Gets or sets the compare function used in stencil test |
+| [DepthFailAction](depthfailaction) { get; set; } | Gets or sets the stencil action when stencil test pass but depth test fails. |
+| [FailAction](failaction) { get; set; } | Gets or sets the stencil action when stencil test fails. |
+| [PassAction](passaction) { get; set; } | Gets or sets the stencil action when both stencil test and depth test passes. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.threed.render/stencilstate/equals)(object) | Returns a value indicating whether this instance is equal to a specified object. |
-| override [GetHashCode](../../aspose.threed.render/stencilstate/gethashcode)() | Returns the hash code for this instance. |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| override [Equals](equals)(object) | Returns a value indicating whether this instance is equal to a specified object. |
+| override [GetHashCode](gethashcode)() | Returns the hash code for this instance. |
 
 ### See Also
 

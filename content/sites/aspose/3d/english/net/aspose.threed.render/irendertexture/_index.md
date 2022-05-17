@@ -18,8 +18,8 @@ public interface IRenderTexture : IRenderTarget
 
 | Name | Description |
 | --- | --- |
-| [DepthTexture](../../aspose.threed.render/irendertexture/depthtexture) { get; } | Depth buffer texture |
-| [Targets](../../aspose.threed.render/irendertexture/targets) { get; } | Color output targets. |
+| [DepthTexture](depthtexture) { get; } | Depth buffer texture |
+| [Targets](targets) { get; } | Color output targets. |
 
 ### See Also
 

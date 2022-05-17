@@ -24,25 +24,22 @@ public class VertexElementHole : VertexElementTemplate<bool>
 
 | Name | Description |
 | --- | --- |
-| [Data](../../aspose.threed.entities/vertexelementtemplate`1/data) { get; } |  |
-| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Gets the indices data |
-| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Gets or sets how the element is mapped. |
-| [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | Gets or sets the name. |
-| [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | Gets or sets how the element is referenced. |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | Gets the type of the [`VertexElement`](../vertexelement) |
+| [Data](data) { get; } |  |
+| [Indices](indices) { get; } | Gets the indices data |
+| [MappingMode](mappingmode) { get; set; } | Gets or sets how the element is mapped. |
+| [Name](name) { get; set; } | Gets or sets the name. |
+| [ReferenceMode](referencemode) { get; set; } | Gets or sets how the element is referenced. |
+| [VertexElementType](vertexelementtype) { get; } | Gets the type of the [`VertexElement`](../vertexelement) |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clear](../../aspose.threed.entities/vertexelementtemplate`1/clear)() |  |
-| [CopyTo](../../aspose.threed.entities/vertexelementtemplate`1/copyto)(VertexElementTemplate&lt;bool&gt;) |  |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [SetData](../../aspose.threed.entities/vertexelementtemplate`1/setdata)(bool[]) |  |
-| [SetIndices](../../aspose.threed.entities/vertexelement/setindices)(int[]) | Load indices |
-| override [ToString](../../aspose.threed.entities/vertexelement/tostring)() | String representation of vertex element. |
+| override [Clear](clear)() |  |
+| [CopyTo](copyto)(VertexElementTemplate&lt;bool&gt;) |  |
+| [SetData](setdata)(bool[]) |  |
+| [SetIndices](setindices)(int[]) | Load indices |
+| override [ToString](tostring)() | String representation of vertex element. |
 
 ### See Also
 

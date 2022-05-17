@@ -18,8 +18,8 @@ public interface IOrientable
 
 | Name | Description |
 | --- | --- |
-| [Direction](../../aspose.threed.entities/iorientable/direction) { get; set; } | Gets or sets the direction that the entity is looking at. |
-| [Target](../../aspose.threed.entities/iorientable/target) { get; set; } | Gets or sets the target that the entity is looking at. |
+| [Direction](direction) { get; set; } | Gets or sets the direction that the entity is looking at. |
+| [Target](target) { get; set; } | Gets or sets the target that the entity is looking at. |
 
 ### See Also
 

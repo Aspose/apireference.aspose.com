@@ -22,17 +22,8 @@ public class Segment
 
 | Name | Description |
 | --- | --- |
-| [Curve](../../aspose.threed.entities/segment/curve) { get; set; } |  |
-| [SameDirection](../../aspose.threed.entities/segment/samedirection) { get; set; } |  |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Curve](curve) { get; set; } |  |
+| [SameDirection](samedirection) { get; set; } |  |
 
 ### See Also
 

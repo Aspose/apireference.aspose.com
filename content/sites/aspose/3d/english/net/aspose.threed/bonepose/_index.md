@@ -24,18 +24,9 @@ public class BonePose
 
 | Name | Description |
 | --- | --- |
-| [IsLocal](../../aspose.threed/bonepose/islocal) { get; set; } | Gets or sets if the matrix is defined in local coordinate. |
-| [Matrix](../../aspose.threed/bonepose/matrix) { get; set; } | Gets or sets the transform matrix of the node in current pose. |
-| [Node](../../aspose.threed/bonepose/node) { get; set; } | Gets or sets the scene node, points to a skinned skeleton node |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [IsLocal](islocal) { get; set; } | Gets or sets if the matrix is defined in local coordinate. |
+| [Matrix](matrix) { get; set; } | Gets or sets the transform matrix of the node in current pose. |
+| [Node](node) { get; set; } | Gets or sets the scene node, points to a skinned skeleton node |
 
 ### See Also
 

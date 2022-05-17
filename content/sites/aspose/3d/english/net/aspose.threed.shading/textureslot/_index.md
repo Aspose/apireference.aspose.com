@@ -18,17 +18,8 @@ public class TextureSlot
 
 | Name | Description |
 | --- | --- |
-| [SlotName](../../aspose.threed.shading/textureslot/slotname) { get; } | The slot name that indicates where this texture will be bounded to. |
-| [Texture](../../aspose.threed.shading/textureslot/texture) { get; } | The texture that will be bounded to the material. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [SlotName](slotname) { get; } | The slot name that indicates where this texture will be bounded to. |
+| [Texture](texture) { get; } | The texture that will be bounded to the material. |
 
 ### See Also
 

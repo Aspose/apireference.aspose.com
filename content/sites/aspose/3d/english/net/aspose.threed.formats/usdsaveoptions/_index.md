@@ -25,22 +25,13 @@ public class UsdSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
-| [ExportMetaData](../../aspose.threed.formats/usdsaveoptions/exportmetadata) { get; set; } | Export node's properties through USD's customData field. |
-| [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
-| [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |
-| [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
-| [PrimitiveToMesh](../../aspose.threed.formats/usdsaveoptions/primitivetomesh) { get; set; } | Convert the primitive entities to mesh during the export. Or directly encode the primitives to the output file(will use Aspose's extension definition for unofficial primitives like Dish, Torus) Default value is true. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Encoding](encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
+| [ExportMetaData](exportmetadata) { get; set; } | Export node's properties through USD's customData field. |
+| [FileFormat](fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
+| [FileName](filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
+| [FileSystem](filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |
+| [LookupPaths](lookuppaths) { get; set; } | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
+| [PrimitiveToMesh](primitivetomesh) { get; set; } | Convert the primitive entities to mesh during the export. Or directly encode the primitives to the output file(will use Aspose's extension definition for unofficial primitives like Dish, Torus) Default value is true. |
 
 ### See Also
 

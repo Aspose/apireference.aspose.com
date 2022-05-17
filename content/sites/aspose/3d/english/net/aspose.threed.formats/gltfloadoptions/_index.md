@@ -24,21 +24,12 @@ public class GltfLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
-| [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
-| [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |
-| [FlipTexCoordV](../../aspose.threed.formats/gltfloadoptions/fliptexcoordv) { get; set; } | Flip the v(t) coordinate in mesh's texture coordinate, default value is true. |
-| [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Encoding](encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
+| [FileFormat](fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
+| [FileName](filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
+| [FileSystem](filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |
+| [FlipTexCoordV](fliptexcoordv) { get; set; } | Flip the v(t) coordinate in mesh's texture coordinate, default value is true. |
+| [LookupPaths](lookuppaths) { get; set; } | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 
 ### See Also
 

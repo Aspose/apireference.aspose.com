@@ -25,26 +25,23 @@ public class ShaderMaterial : Material
 
 | Name | Description |
 | --- | --- |
-| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
-| [Techniques](../../aspose.threed.shading/shadermaterial/techniques) { get; } | Gets all available techniques defined in this material. |
+| virtual [Name](name) { get; set; } | Gets or sets the name. |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
+| [Techniques](techniques) { get; } | Gets all available techniques defined in this material. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Gets the enumerator to enumerate internal texture slots. |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | Sets the texture to specified slot |
-| override [ToString](../../aspose.threed.shading/material/tostring)() | Formats object to string |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetEnumerator](getenumerator)() | Gets the enumerator to enumerate internal texture slots. |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [GetTexture](gettexture)(string) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
+| [SetTexture](settexture)(string, TextureBase) | Sets the texture to specified slot |
+| override [ToString](tostring)() | Formats object to string |
 
 ### See Also
 

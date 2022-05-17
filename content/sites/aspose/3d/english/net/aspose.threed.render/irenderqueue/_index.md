@@ -18,7 +18,7 @@ public interface IRenderQueue
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.threed.render/irenderqueue/add)(RenderQueueGroupId, IPipeline, object, int) | Add render task to the render queue. |
+| [Add](add)(RenderQueueGroupId, IPipeline, object, int) | Add render task to the render queue. |
 
 ### See Also
 

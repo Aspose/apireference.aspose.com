@@ -18,20 +18,11 @@ public class GlobalTransform
 
 | Name | Description |
 | --- | --- |
-| [EulerAngles](../../aspose.threed/globaltransform/eulerangles) { get; } | Gets the rotation represented in Euler angles, measured in degree |
-| [Rotation](../../aspose.threed/globaltransform/rotation) { get; } | Gets the rotation represented in quaternion. |
-| [Scale](../../aspose.threed/globaltransform/scale) { get; } | Gets the scale |
-| [TransformMatrix](../../aspose.threed/globaltransform/transformmatrix) { get; } | Gets the transform matrix. |
-| [Translation](../../aspose.threed/globaltransform/translation) { get; } | Gets the translation |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [EulerAngles](eulerangles) { get; } | Gets the rotation represented in Euler angles, measured in degree |
+| [Rotation](rotation) { get; } | Gets the rotation represented in quaternion. |
+| [Scale](scale) { get; } | Gets the scale |
+| [TransformMatrix](transformmatrix) { get; } | Gets the transform matrix. |
+| [Translation](translation) { get; } | Gets the translation |
 
 ### See Also
 

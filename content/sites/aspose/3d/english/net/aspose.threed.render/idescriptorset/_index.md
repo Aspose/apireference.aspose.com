@@ -18,7 +18,7 @@ public interface IDescriptorSet : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [BeginUpdate](../../aspose.threed.render/idescriptorset/beginupdate)() | Begin to update the descriptor set |
+| [BeginUpdate](beginupdate)() | Begin to update the descriptor set |
 
 ### See Also
 

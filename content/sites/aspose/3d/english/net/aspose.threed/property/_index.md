@@ -18,26 +18,23 @@ public abstract class Property : A3DObject
 
 | Name | Description |
 | --- | --- |
-| override [Name](../../aspose.threed/property/name) { set; } |  |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
-| abstract [Value](../../aspose.threed/property/value) { get; set; } | Gets or sets the value. |
-| abstract [ValueType](../../aspose.threed/property/valuetype) { get; } | Gets the type of the property value. |
+| override [Name](name) { set; } |  |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
+| abstract [Value](value) { get; set; } | Gets or sets the value. |
+| abstract [ValueType](valuetype) { get; } | Gets the type of the property value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| [GetBindPoint](../../aspose.threed/property/getbindpoint)(AnimationNode, bool) | Gets the property bind point on specified animation instance. |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetKeyframeSequence](../../aspose.threed/property/getkeyframesequence)(AnimationNode, bool) | Gets the keyframe sequence on specified animation instance. |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| override [ToString](../../aspose.threed/property/tostring)() | Returns a string that represents the current [`Property`](../property). |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetBindPoint](getbindpoint)(AnimationNode, bool) | Gets the property bind point on specified animation instance. |
+| [GetKeyframeSequence](getkeyframesequence)(AnimationNode, bool) | Gets the keyframe sequence on specified animation instance. |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
+| override [ToString](tostring)() | Returns a string that represents the current [`Property`](../property). |
 
 ### See Also
 

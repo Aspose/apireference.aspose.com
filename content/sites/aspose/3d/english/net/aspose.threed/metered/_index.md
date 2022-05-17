@@ -24,13 +24,9 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [SetMeteredKey](../../aspose.threed/metered/setmeteredkey)(string, string) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
-| virtual [ToString](tostring)() |  |
-| static [GetConsumptionCredit](../../aspose.threed/metered/getconsumptioncredit)() | Gets consumption credit |
-| static [GetConsumptionQuantity](../../aspose.threed/metered/getconsumptionquantity)() | Gets consumption file size |
+| [SetMeteredKey](setmeteredkey)(string, string) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
+| static [GetConsumptionCredit](getconsumptioncredit)() | Gets consumption credit |
+| static [GetConsumptionQuantity](getconsumptionquantity)() | Gets consumption file size |
 
 ### Examples
 

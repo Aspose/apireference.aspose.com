@@ -24,19 +24,10 @@ public class RenderParameters
 
 | Name | Description |
 | --- | --- |
-| [ColorBits](../../aspose.threed.render/renderparameters/colorbits) { get; set; } | Gets or sets how many bits will be used by color buffer. |
-| [DepthBits](../../aspose.threed.render/renderparameters/depthbits) { get; set; } | Gets or sets how many bits will be used by depth buffer. |
-| [DoubleBuffering](../../aspose.threed.render/renderparameters/doublebuffering) { get; set; } | Gets or sets whether double buffer is used. |
-| [StencilBits](../../aspose.threed.render/renderparameters/stencilbits) { get; set; } | Gets or sets how many bits will be used in stencil buffer. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [ColorBits](colorbits) { get; set; } | Gets or sets how many bits will be used by color buffer. |
+| [DepthBits](depthbits) { get; set; } | Gets or sets how many bits will be used by depth buffer. |
+| [DoubleBuffering](doublebuffering) { get; set; } | Gets or sets whether double buffer is used. |
+| [StencilBits](stencilbits) { get; set; } | Gets or sets how many bits will be used in stencil buffer. |
 
 ### See Also
 

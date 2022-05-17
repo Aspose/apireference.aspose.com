@@ -25,17 +25,13 @@ public class EntityRenderer
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](../../aspose.threed.render/entityrenderer/dispose)() | The entity renderer is being disposed, release shared resources. |
-| virtual [Equals](equals)(object) |  |
-| virtual [FrameBegin](../../aspose.threed.render/entityrenderer/framebegin)(Renderer, IRenderQueue) | Begin rendering a frame |
-| virtual [FrameEnd](../../aspose.threed.render/entityrenderer/frameend)(Renderer, IRenderQueue) | Ends rendering a frame |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [Initialize](../../aspose.threed.render/entityrenderer/initialize)(Renderer) | Initialize the entity renderer |
-| virtual [PrepareRenderQueue](../../aspose.threed.render/entityrenderer/preparerenderqueue)(Renderer, IRenderQueue, Node, Entity) | Prepare rendering commands for specified node/entity pair. |
-| virtual [RenderEntity](../../aspose.threed.render/entityrenderer/renderentity)(Renderer, ICommandList, Node, object, int) | Each render task pushed to the [`IRenderQueue`](../irenderqueue) will have a corresponding RenderEntity call to perform the concrete rendering job. |
-| virtual [ResetSceneCache](../../aspose.threed.render/entityrenderer/resetscenecache)() | The scene has changed or removed, need to dispose scene-level render resources in this |
-| virtual [ToString](tostring)() |  |
+| virtual [Dispose](dispose)() | The entity renderer is being disposed, release shared resources. |
+| virtual [FrameBegin](framebegin)(Renderer, IRenderQueue) | Begin rendering a frame |
+| virtual [FrameEnd](frameend)(Renderer, IRenderQueue) | Ends rendering a frame |
+| virtual [Initialize](initialize)(Renderer) | Initialize the entity renderer |
+| virtual [PrepareRenderQueue](preparerenderqueue)(Renderer, IRenderQueue, Node, Entity) | Prepare rendering commands for specified node/entity pair. |
+| virtual [RenderEntity](renderentity)(Renderer, ICommandList, Node, object, int) | Each render task pushed to the [`IRenderQueue`](../irenderqueue) will have a corresponding RenderEntity call to perform the concrete rendering job. |
+| virtual [ResetSceneCache](resetscenecache)() | The scene has changed or removed, need to dispose scene-level render resources in this |
 
 ### See Also
 

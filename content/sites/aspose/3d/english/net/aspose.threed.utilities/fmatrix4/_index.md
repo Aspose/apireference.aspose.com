@@ -26,15 +26,11 @@ public struct FMatrix4
 
 | Name | Description |
 | --- | --- |
-| [Concatenate](../../aspose.threed.utilities/fmatrix4/concatenate)(FMatrix4) | Concatenates the two matrices |
-| [Concatenate](../../aspose.threed.utilities/fmatrix4/concatenate)(Matrix4) | Concatenates the two matrices |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [Inverse](../../aspose.threed.utilities/fmatrix4/inverse)() | Calculate the inverse matrix of current instance. |
-| override [ToString](tostring)() |  |
-| [Transpose](../../aspose.threed.utilities/fmatrix4/transpose)() | Transposes this instance. |
-| [operator *](../../aspose.threed.utilities/fmatrix4/op_multiply) | Concatenate the two matrices (2 operators) |
+| [Concatenate](concatenate)(FMatrix4) | Concatenates the two matrices |
+| [Concatenate](concatenate)(Matrix4) | Concatenates the two matrices |
+| [Inverse](inverse)() | Calculate the inverse matrix of current instance. |
+| [Transpose](transpose)() | Transposes this instance. |
+| [operator *](op_multiply) | Concatenate the two matrices (2 operators) |
 
 ## Other Members
 

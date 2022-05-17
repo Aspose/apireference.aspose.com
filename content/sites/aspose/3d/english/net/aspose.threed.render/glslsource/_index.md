@@ -24,20 +24,16 @@ public sealed class GLSLSource : ShaderSource
 
 | Name | Description |
 | --- | --- |
-| [ComputeShader](../../aspose.threed.render/glslsource/computeshader) { get; set; } | Gets or sets the source code of the compute shader. |
-| [FragmentShader](../../aspose.threed.render/glslsource/fragmentshader) { get; set; } | Gets or sets the source code of the fragment shader. |
-| [GeometryShader](../../aspose.threed.render/glslsource/geometryshader) { get; set; } | Gets or sets the source code of the geometry shader. |
-| [VertexShader](../../aspose.threed.render/glslsource/vertexshader) { get; set; } | Gets or sets the source code of the vertex shader |
+| [ComputeShader](computeshader) { get; set; } | Gets or sets the source code of the compute shader. |
+| [FragmentShader](fragmentshader) { get; set; } | Gets or sets the source code of the fragment shader. |
+| [GeometryShader](geometryshader) { get; set; } | Gets or sets the source code of the geometry shader. |
+| [VertexShader](vertexshader) { get; set; } | Gets or sets the source code of the vertex shader |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DefineInclude](../../aspose.threed.render/glslsource/defineinclude)(string, string) | Define virtual file for #include in GLSL source code |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [DefineInclude](defineinclude)(string, string) | Define virtual file for #include in GLSL source code |
 
 ### See Also
 

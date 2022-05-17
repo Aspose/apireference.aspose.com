@@ -25,15 +25,14 @@ public struct FVector2
 
 | Name | Description |
 | --- | --- |
-| [Equals](../../aspose.threed.utilities/fvector2/equals)(FVector2) | Check if two vectors are equal |
-| override [Equals](../../aspose.threed.utilities/fvector2/equals)(object) | Check if two vectors are equal |
-| override [GetHashCode](../../aspose.threed.utilities/fvector2/gethashcode)() | Gets the hash code of this instance |
-| [GetType](gettype)() |  |
-| override [ToString](../../aspose.threed.utilities/fvector2/tostring)() | Returns a string that represents the [`FVector2`](../fvector2) |
-| [operator ==](../../aspose.threed.utilities/fvector2/op_equality) | == Operator overloading |
-| [explicit operator](../../aspose.threed.utilities/fvector2/op_explicit) |  |
-| [operator !=](../../aspose.threed.utilities/fvector2/op_inequality) | != Operator overloading |
-| [operator -](../../aspose.threed.utilities/fvector2/op_subtraction) | - Operator overloading |
+| [Equals](equals)(FVector2) | Check if two vectors are equal |
+| override [Equals](equals)(object) | Check if two vectors are equal |
+| override [GetHashCode](gethashcode)() | Gets the hash code of this instance |
+| override [ToString](tostring)() | Returns a string that represents the [`FVector2`](../fvector2) |
+| [operator ==](op_equality) | == Operator overloading |
+| [explicit operator](op_explicit) |  |
+| [operator !=](op_inequality) | != Operator overloading |
+| [operator -](op_subtraction) | - Operator overloading |
 
 ## Other Members
 

@@ -24,34 +24,30 @@ public class HollowRectangleShape : RectangleShape
 
 | Name | Description |
 | --- | --- |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
-| [InnerFilletRadius](../../aspose.threed.profiles/hollowrectangleshape/innerfilletradius) { get; set; } | The inner fillet radius of the inner rectangle. |
-| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
-| [RoundingRadius](../../aspose.threed.profiles/rectangleshape/roundingradius) { get; set; } | Gets or sets the radius of the circular arcs of all four corners, measured in degrees. Default value is 0.0 |
-| [Scene](../../aspose.threed/sceneobject/scene) { get; } | Gets the scene that this object belongs to |
-| [WallThickness](../../aspose.threed.profiles/hollowrectangleshape/wallthickness) { get; set; } | The thickness between the boundary of the rectangle and the inner hole |
-| [XDim](../../aspose.threed.profiles/rectangleshape/xdim) { get; set; } | Gets or sets the extent of the rectangle in the direction of x-axis Default value is 2.0 |
-| [YDim](../../aspose.threed.profiles/rectangleshape/ydim) { get; set; } | Gets or sets the extent of the rectangle in the direction of y-axis Default value is 2.0 |
+| [Excluded](excluded) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
+| [InnerFilletRadius](innerfilletradius) { get; set; } | The inner fillet radius of the inner rectangle. |
+| virtual [Name](name) { get; set; } | Gets or sets the name. |
+| [ParentNode](parentnode) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
+| [ParentNodes](parentnodes) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
+| [RoundingRadius](roundingradius) { get; set; } | Gets or sets the radius of the circular arcs of all four corners, measured in degrees. Default value is 0.0 |
+| [Scene](scene) { get; } | Gets the scene that this object belongs to |
+| [WallThickness](wallthickness) { get; set; } | The thickness between the boundary of the rectangle and the inner hole |
+| [XDim](xdim) { get; set; } | Gets or sets the extent of the rectangle in the direction of x-axis Default value is 2.0 |
+| [YDim](ydim) { get; set; } | Gets or sets the extent of the rectangle in the direction of y-axis Default value is 2.0 |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Gets the bounding box of current entity in its object space coordinate system. |
-| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | Gets the key of the entity renderer registered in the renderer |
-| override [GetExtent](../../aspose.threed.profiles/rectangleshape/getextent)() | Gets the extent in x and y dimension. |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| virtual [ToString](tostring)() |  |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetBoundingBox](getboundingbox)() | Gets the bounding box of current entity in its object space coordinate system. |
+| override [GetEntityRendererKey](getentityrendererkey)() | Gets the key of the entity renderer registered in the renderer |
+| override [GetExtent](getextent)() | Gets the extent in x and y dimension. |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
 
 ### See Also
 

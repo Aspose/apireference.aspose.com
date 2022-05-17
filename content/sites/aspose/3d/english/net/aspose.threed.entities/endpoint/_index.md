@@ -25,20 +25,17 @@ public struct EndPoint
 
 | Name | Description |
 | --- | --- |
-| [AsPoint](../../aspose.threed.entities/endpoint/aspoint) { get; } | Gets the end point as Cartesian point, or thrown an exception. |
-| [AsValue](../../aspose.threed.entities/endpoint/asvalue) { get; } | Gets the end point as a real parameter, or throw an exception. |
-| [IsCartesianPoint](../../aspose.threed.entities/endpoint/iscartesianpoint) { get; } | Is the end point a Cartesian point? |
+| [AsPoint](aspoint) { get; } | Gets the end point as Cartesian point, or thrown an exception. |
+| [AsValue](asvalue) { get; } | Gets the end point as a real parameter, or throw an exception. |
+| [IsCartesianPoint](iscartesianpoint) { get; } | Is the end point a Cartesian point? |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromDegree](../../aspose.threed.entities/endpoint/fromdegree)(double) | Create an end point measured in degree. |
-| static [FromRadian](../../aspose.threed.entities/endpoint/fromradian)(double) | Create an end point measured in radian. |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| override [ToString](../../aspose.threed.entities/endpoint/tostring)() | Returns a string representation of the current end point. |
+| static [FromDegree](fromdegree)(double) | Create an end point measured in degree. |
+| static [FromRadian](fromradian)(double) | Create an end point measured in radian. |
+| override [ToString](tostring)() | Returns a string representation of the current end point. |
 
 ### See Also
 

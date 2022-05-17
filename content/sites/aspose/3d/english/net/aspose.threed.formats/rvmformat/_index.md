@@ -18,26 +18,23 @@ public class RvmFormat : FileFormat
 
 | Name | Description |
 | --- | --- |
-| [CanExport](../../aspose.threed/fileformat/canexport) { get; } | Gets whether Aspose.3D supports export scene to current file format. |
-| [CanImport](../../aspose.threed/fileformat/canimport) { get; } | Gets whether Aspose.3D supports import scene from current file format. |
-| [ContentType](../../aspose.threed/fileformat/contenttype) { get; } | Gets file format content type |
-| [Extension](../../aspose.threed/fileformat/extension) { get; } | Gets the extension name of this type. |
-| [Extensions](../../aspose.threed/fileformat/extensions) { get; } | Gets the extension names of this type. |
-| [FileFormatType](../../aspose.threed/fileformat/fileformattype) { get; } | Gets file format type |
-| [Version](../../aspose.threed/fileformat/version) { get; } | Gets file format version |
+| [CanExport](canexport) { get; } | Gets whether Aspose.3D supports export scene to current file format. |
+| [CanImport](canimport) { get; } | Gets whether Aspose.3D supports import scene from current file format. |
+| [ContentType](contenttype) { get; } | Gets file format content type |
+| [Extension](extension) { get; } | Gets the extension name of this type. |
+| [Extensions](extensions) { get; } | Gets the extension names of this type. |
+| [FileFormatType](fileformattype) { get; } | Gets file format type |
+| [Version](version) { get; } | Gets file format version |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Create a default load options for this file format |
-| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Create a default save options for this file format |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [LoadAttributes](../../aspose.threed.formats/rvmformat/loadattributes)(Scene, Stream, string) | Load the attributes from specified stream |
-| [LoadAttributes](../../aspose.threed.formats/rvmformat/loadattributes)(Scene, string, string) | Load the attributes from specified file name |
-| override [ToString](../../aspose.threed/fileformat/tostring)() | Formats to string |
+| [CreateLoadOptions](createloadoptions)() | Create a default load options for this file format |
+| [CreateSaveOptions](createsaveoptions)() | Create a default save options for this file format |
+| [LoadAttributes](loadattributes)(Scene, Stream, string) | Load the attributes from specified stream |
+| [LoadAttributes](loadattributes)(Scene, string, string) | Load the attributes from specified file name |
+| override [ToString](tostring)() | Formats to string |
 
 ### See Also
 

@@ -24,26 +24,7 @@ public class DriverException : Exception
 
 | Name | Description |
 | --- | --- |
-| virtual [Data](data) { get; } |  |
-| [ErrorCode](../../aspose.threed.render/driverexception/errorcode) { get; } | Gets the native error code. |
-| virtual [HelpLink](helplink) { get; set; } |  |
-| [HResult](hresult) { get; } |  |
-| [InnerException](innerexception) { get; } |  |
-| virtual [Message](message) { get; } |  |
-| virtual [Source](source) { get; set; } |  |
-| virtual [StackTrace](stacktrace) { get; } |  |
-| [TargetSite](targetsite) { get; } |  |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetBaseException](getbaseexception)() |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| virtual [GetObjectData](getobjectdata)(SerializationInfo, StreamingContext) |  |
-| [GetType](gettype)() |  (2 methods) |
-| override [ToString](tostring)() |  |
+| [ErrorCode](errorcode) { get; } | Gets the native error code. |
 
 ### See Also
 

@@ -26,13 +26,9 @@ public class ZipArchiveFileSystem : FileSystem
 
 | Name | Description |
 | --- | --- |
-| override [Dispose](../../aspose.threed.utilities/ziparchivefilesystem/dispose)() | Dispose the ZipArchiveFileSystem and release its internal resources. |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| override [ReadFile](../../aspose.threed.utilities/ziparchivefilesystem/readfile)(string, IOConfig) | Open file for reading |
-| virtual [ToString](tostring)() |  |
-| override [WriteFile](../../aspose.threed.utilities/ziparchivefilesystem/writefile)(string, IOConfig) | Open file for writing, not implemented in this class. |
+| override [Dispose](dispose)() | Dispose the ZipArchiveFileSystem and release its internal resources. |
+| override [ReadFile](readfile)(string, IOConfig) | Open file for reading |
+| override [WriteFile](writefile)(string, IOConfig) | Open file for writing, not implemented in this class. |
 
 ### See Also
 

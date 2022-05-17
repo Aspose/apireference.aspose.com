@@ -18,11 +18,7 @@ public abstract class ShaderProgram : IDisposable
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](../../aspose.threed.render/shaderprogram/dispose)() | Dispose the shader and release all internal resources. |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| virtual [Dispose](dispose)() | Dispose the shader and release all internal resources. |
 
 ### See Also
 

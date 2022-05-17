@@ -25,26 +25,22 @@ public class Pose : A3DObject
 
 | Name | Description |
 | --- | --- |
-| [BonePoses](../../aspose.threed/pose/boneposes) { get; } | Gets all [`BonePose`](../bonepose). |
-| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
-| [PoseType](../../aspose.threed/pose/posetype) { get; set; } | Gets or sets the type of the pose. |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
+| [BonePoses](boneposes) { get; } | Gets all [`BonePose`](../bonepose). |
+| virtual [Name](name) { get; set; } | Gets or sets the name. |
+| [PoseType](posetype) { get; set; } | Gets or sets the type of the pose. |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddBonePose](../../aspose.threed/pose/addbonepose)(Node, Matrix4) | Saves pose transformation matrix for the given bone node. Global transformation matrix is implied. |
-| [AddBonePose](../../aspose.threed/pose/addbonepose)(Node, Matrix4, bool) | Saves pose transformation matrix for the given bone node. |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| virtual [ToString](tostring)() |  |
+| [AddBonePose](addbonepose)(Node, Matrix4) | Saves pose transformation matrix for the given bone node. Global transformation matrix is implied. |
+| [AddBonePose](addbonepose)(Node, Matrix4, bool) | Saves pose transformation matrix for the given bone node. |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
 
 ### See Also
 

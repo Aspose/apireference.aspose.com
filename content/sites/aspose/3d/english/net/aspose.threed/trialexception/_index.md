@@ -24,26 +24,7 @@ public class TrialException : Exception
 
 | Name | Description |
 | --- | --- |
-| virtual [Data](data) { get; } |  |
-| virtual [HelpLink](helplink) { get; set; } |  |
-| [HResult](hresult) { get; } |  |
-| [InnerException](innerexception) { get; } |  |
-| virtual [Message](message) { get; } |  |
-| virtual [Source](source) { get; set; } |  |
-| virtual [StackTrace](stacktrace) { get; } |  |
-| [TargetSite](targetsite) { get; } |  |
-| static [SuppressTrialException](../../aspose.threed/trialexception/suppresstrialexception) { get; set; } | Sets this to true to suppress trial exception for unlicensed usage, but the restrictions will not be lifted. In order to lift the restrictions, please use a proper license. And sets this to true also means you're aware of the unlicensed restrictions. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetBaseException](getbaseexception)() |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| virtual [GetObjectData](getobjectdata)(SerializationInfo, StreamingContext) |  |
-| [GetType](gettype)() |  (2 methods) |
-| override [ToString](tostring)() |  |
+| static [SuppressTrialException](suppresstrialexception) { get; set; } | Sets this to true to suppress trial exception for unlicensed usage, but the restrictions will not be lifted. In order to lift the restrictions, please use a proper license. And sets this to true also means you're aware of the unlicensed restrictions. |
 
 ### See Also
 

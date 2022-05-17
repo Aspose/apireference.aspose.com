@@ -18,17 +18,17 @@ public interface IIndexBuffer : IBuffer
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.threed.render/iindexbuffer/count) { get; } | Gets the number of index in this buffer. |
-| [IndexDataType](../../aspose.threed.render/iindexbuffer/indexdatatype) { get; } | Gets the data type of each element. |
+| [Count](count) { get; } | Gets the number of index in this buffer. |
+| [IndexDataType](indexdatatype) { get; } | Gets the data type of each element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [LoadData](../../aspose.threed.render/iindexbuffer/loaddata)(int[]) | Load indice data |
-| [LoadData](../../aspose.threed.render/iindexbuffer/loaddata)(short[]) | Load indice data |
-| [LoadData](../../aspose.threed.render/iindexbuffer/loaddata)(TriMesh) | Load indice data from [`TriMesh`](../../aspose.threed.entities/trimesh) |
-| [LoadData](../../aspose.threed.render/iindexbuffer/loaddata)(uint[]) | Load indice data |
+| [LoadData](loaddata)(int[]) | Load indice data |
+| [LoadData](loaddata)(short[]) | Load indice data |
+| [LoadData](loaddata)(TriMesh) | Load indice data from [`TriMesh`](../../aspose.threed.entities/trimesh) |
+| [LoadData](loaddata)(uint[]) | Load indice data |
 
 ### See Also
 

@@ -18,15 +18,15 @@ public interface IVertexBuffer : IBuffer
 
 | Name | Description |
 | --- | --- |
-| [VertexDeclaration](../../aspose.threed.render/ivertexbuffer/vertexdeclaration) { get; } | Gets the vertex declaration |
+| [VertexDeclaration](vertexdeclaration) { get; } | Gets the vertex declaration |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [LoadData](../../aspose.threed.render/ivertexbuffer/loaddata)(Array) | Load data from array |
-| [LoadData](../../aspose.threed.render/ivertexbuffer/loaddata)(TriMesh) | Load vertex data from [`TriMesh`](../../aspose.threed.entities/trimesh) |
-| [LoadData](../../aspose.threed.render/ivertexbuffer/loaddata)(IntPtr, int) | Load data from given position |
+| [LoadData](loaddata)(Array) | Load data from array |
+| [LoadData](loaddata)(TriMesh) | Load vertex data from [`TriMesh`](../../aspose.threed.entities/trimesh) |
+| [LoadData](loaddata)(IntPtr, int) | Load data from given position |
 
 ### See Also
 

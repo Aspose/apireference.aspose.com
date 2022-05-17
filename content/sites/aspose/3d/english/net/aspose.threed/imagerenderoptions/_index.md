@@ -24,25 +24,21 @@ public class ImageRenderOptions : A3DObject
 
 | Name | Description |
 | --- | --- |
-| [AssetDirectories](../../aspose.threed/imagerenderoptions/assetdirectories) { get; set; } | Directories that stored external assets(like textures) |
-| [BackgroundColor](../../aspose.threed/imagerenderoptions/backgroundcolor) { get; set; } | The background color of the render result. |
-| [EnableShadows](../../aspose.threed/imagerenderoptions/enableshadows) { get; set; } | Gets or sets whether to render shadows. |
-| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
+| [AssetDirectories](assetdirectories) { get; set; } | Directories that stored external assets(like textures) |
+| [BackgroundColor](backgroundcolor) { get; set; } | The background color of the render result. |
+| [EnableShadows](enableshadows) { get; set; } | Gets or sets whether to render shadows. |
+| virtual [Name](name) { get; set; } | Gets or sets the name. |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| virtual [ToString](tostring)() |  |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
 
 ### See Also
 

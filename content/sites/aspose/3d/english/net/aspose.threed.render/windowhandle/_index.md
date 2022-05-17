@@ -18,15 +18,11 @@ public class WindowHandle
 
 | Name | Description |
 | --- | --- |
-| static [FromGdk](../../aspose.threed.render/windowhandle/fromgdk)(IntPtr) | The GdkWindow* instance |
-| static [FromWayland](../../aspose.threed.render/windowhandle/fromwayland)(IntPtr, IntPtr) | Create [`WindowHandle`](../windowhandle) from a Wayland surface |
-| static [FromWin32](../../aspose.threed.render/windowhandle/fromwin32)(IntPtr) | The native HWND instance in Windows environment. |
-| static [FromXcb](../../aspose.threed.render/windowhandle/fromxcb)(IntPtr, IntPtr) | Create [`WindowHandle`](../windowhandle) from an XCB surface. |
-| static [FromXlib](../../aspose.threed.render/windowhandle/fromxlib)(IntPtr, IntPtr) | Create [`WindowHandle`](../windowhandle) from an Xlib window |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| static [FromGdk](fromgdk)(IntPtr) | The GdkWindow* instance |
+| static [FromWayland](fromwayland)(IntPtr, IntPtr) | Create [`WindowHandle`](../windowhandle) from a Wayland surface |
+| static [FromWin32](fromwin32)(IntPtr) | The native HWND instance in Windows environment. |
+| static [FromXcb](fromxcb)(IntPtr, IntPtr) | Create [`WindowHandle`](../windowhandle) from an XCB surface. |
+| static [FromXlib](fromxlib)(IntPtr, IntPtr) | Create [`WindowHandle`](../windowhandle) from an Xlib window |
 
 ### See Also
 

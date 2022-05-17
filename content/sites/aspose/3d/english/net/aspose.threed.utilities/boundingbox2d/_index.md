@@ -24,20 +24,17 @@ public struct BoundingBox2D
 
 | Name | Description |
 | --- | --- |
-| [Extent](../../aspose.threed.utilities/boundingbox2d/extent) { get; } | Gets the extent of the bounding box. |
-| [Maximum](../../aspose.threed.utilities/boundingbox2d/maximum) { get; } | The maximum corner of the bounding box |
-| [Minimum](../../aspose.threed.utilities/boundingbox2d/minimum) { get; } | The minimum corner of the bounding box |
+| [Extent](extent) { get; } | Gets the extent of the bounding box. |
+| [Maximum](maximum) { get; } | The maximum corner of the bounding box |
+| [Minimum](minimum) { get; } | The minimum corner of the bounding box |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [Merge](../../aspose.threed.utilities/boundingbox2d/merge)(BoundingBox2D) | Merges the new box into the current bounding box. |
-| [Merge](../../aspose.threed.utilities/boundingbox2d/merge)(Vector2) | Merges the new box into the current bounding box. |
-| override [ToString](../../aspose.threed.utilities/boundingbox2d/tostring)() | Gets the string representation of the bounding box. |
+| [Merge](merge)(BoundingBox2D) | Merges the new box into the current bounding box. |
+| [Merge](merge)(Vector2) | Merges the new box into the current bounding box. |
+| override [ToString](tostring)() | Gets the string representation of the bounding box. |
 
 ## Other Members
 

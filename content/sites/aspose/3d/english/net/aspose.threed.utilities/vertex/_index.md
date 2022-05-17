@@ -18,19 +18,15 @@ public abstract class Vertex : IComparable<Vertex>
 
 | Name | Description |
 | --- | --- |
-| abstract [CompareTo](../../aspose.threed.utilities/vertex/compareto)(Vertex) | Compare the vertex with another vertex instance |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [ReadDouble](../../aspose.threed.utilities/vertex/readdouble)(VertexField) | Read the double field |
-| [ReadFloat](../../aspose.threed.utilities/vertex/readfloat)(VertexField) | Read the float field |
-| [ReadFVector2](../../aspose.threed.utilities/vertex/readfvector2)(VertexField) | Read the vector2 field |
-| [ReadFVector3](../../aspose.threed.utilities/vertex/readfvector3)(VertexField) | Read the vector3 field |
-| [ReadFVector4](../../aspose.threed.utilities/vertex/readfvector4)(VertexField) | Read the vector4 field |
-| [ReadVector2](../../aspose.threed.utilities/vertex/readvector2)(VertexField) | Read the vector2 field |
-| [ReadVector3](../../aspose.threed.utilities/vertex/readvector3)(VertexField) | Read the vector3 field |
-| [ReadVector4](../../aspose.threed.utilities/vertex/readvector4)(VertexField) | Read the vector4 field |
-| virtual [ToString](tostring)() |  |
+| abstract [CompareTo](compareto)(Vertex) | Compare the vertex with another vertex instance |
+| [ReadDouble](readdouble)(VertexField) | Read the double field |
+| [ReadFloat](readfloat)(VertexField) | Read the float field |
+| [ReadFVector2](readfvector2)(VertexField) | Read the vector2 field |
+| [ReadFVector3](readfvector3)(VertexField) | Read the vector3 field |
+| [ReadFVector4](readfvector4)(VertexField) | Read the vector4 field |
+| [ReadVector2](readvector2)(VertexField) | Read the vector2 field |
+| [ReadVector3](readvector3)(VertexField) | Read the vector3 field |
+| [ReadVector4](readvector4)(VertexField) | Read the vector4 field |
 
 ### See Also
 

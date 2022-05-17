@@ -24,20 +24,16 @@ public class ShaderSet : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Fallback](../../aspose.threed.render/shaderset/fallback) { get; set; } | Gets or sets the fallback shader when required shader is unavailable |
-| [Lambert](../../aspose.threed.render/shaderset/lambert) { get; set; } | Gets or sets the shader that used to render the lambert material |
-| [Pbr](../../aspose.threed.render/shaderset/pbr) { get; set; } | Gets or sets the shader that used to render the PBR material |
-| [Phong](../../aspose.threed.render/shaderset/phong) { get; set; } | Gets or sets the shader that used to render the phong material |
+| [Fallback](fallback) { get; set; } | Gets or sets the fallback shader when required shader is unavailable |
+| [Lambert](lambert) { get; set; } | Gets or sets the shader that used to render the lambert material |
+| [Pbr](pbr) { get; set; } | Gets or sets the shader that used to render the PBR material |
+| [Phong](phong) { get; set; } | Gets or sets the shader that used to render the phong material |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.threed.render/shaderset/dispose)() | Dispose this instance and release all shader programs. |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Dispose](dispose)() | Dispose this instance and release all shader programs. |
 
 ### See Also
 

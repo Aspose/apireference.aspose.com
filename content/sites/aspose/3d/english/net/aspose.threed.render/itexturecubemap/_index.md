@@ -18,13 +18,13 @@ public interface ITextureCubemap : ITextureUnit
 
 | Name | Description |
 | --- | --- |
-| [Load](../../aspose.threed.render/itexturecubemap/load)(CubeFaceData&lt;TextureData&gt;) |  |
-| [Load](../../aspose.threed.render/itexturecubemap/load)(CubeFace, TextureData) | Load the data into specified face |
-| [LoadFromFiles](../../aspose.threed.render/itexturecubemap/loadfromfiles)(CubeFaceData&lt;string&gt;) |  |
-| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFaceData&lt;Bitmap&gt;) |  |
-| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFace, Bitmap) | Save the specified side to memory |
-| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFaceData&lt;string&gt;, ImageFormat) |  |
-| [ToBitmap](../../aspose.threed.render/itexturecubemap/tobitmap)(CubeFace) | Convert the texture unit to Bitmap instance |
+| [Load](load)(CubeFaceData&lt;TextureData&gt;) |  |
+| [Load](load)(CubeFace, TextureData) | Load the data into specified face |
+| [LoadFromFiles](loadfromfiles)(CubeFaceData&lt;string&gt;) |  |
+| [Save](save)(CubeFaceData&lt;Bitmap&gt;) |  |
+| [Save](save)(CubeFace, Bitmap) | Save the specified side to memory |
+| [Save](save)(CubeFaceData&lt;string&gt;, ImageFormat) |  |
+| [ToBitmap](tobitmap)(CubeFace) | Convert the texture unit to Bitmap instance |
 
 ### See Also
 

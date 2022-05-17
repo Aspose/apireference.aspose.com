@@ -18,19 +18,15 @@ public class MathUtils
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
-| static [Clamp](../../aspose.threed.utilities/mathutils/clamp)(double, double, double) | Clamp value to range [min, max] |
-| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree)(double) | Convert a number from radian to degree |
-| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree)(float) | Convert a number from radian to degree |
-| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree)(Vector3) | Convert a [`Vector3`](../vector3) from radian to degree. |
-| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree)(double, double, double) | Convert a number from radian to degree |
-| static [ToRadian](../../aspose.threed.utilities/mathutils/toradian)(double) | Convert a number from degree to radian |
-| static [ToRadian](../../aspose.threed.utilities/mathutils/toradian)(float) | Convert a number from degree to radian |
-| static [ToRadian](../../aspose.threed.utilities/mathutils/toradian)(Vector3) | Convert a [`Vector3`](../vector3) from degree to radian |
-| static [ToRadian](../../aspose.threed.utilities/mathutils/toradian)(double, double, double) | Convert a vector from degree to radian |
+| static [Clamp](clamp)(double, double, double) | Clamp value to range [min, max] |
+| static [ToDegree](todegree)(double) | Convert a number from radian to degree |
+| static [ToDegree](todegree)(float) | Convert a number from radian to degree |
+| static [ToDegree](todegree)(Vector3) | Convert a [`Vector3`](../vector3) from radian to degree. |
+| static [ToDegree](todegree)(double, double, double) | Convert a number from radian to degree |
+| static [ToRadian](toradian)(double) | Convert a number from degree to radian |
+| static [ToRadian](toradian)(float) | Convert a number from degree to radian |
+| static [ToRadian](toradian)(Vector3) | Convert a [`Vector3`](../vector3) from degree to radian |
+| static [ToRadian](toradian)(double, double, double) | Convert a vector from degree to radian |
 
 ### See Also
 

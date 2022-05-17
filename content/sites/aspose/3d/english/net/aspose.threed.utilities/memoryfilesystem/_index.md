@@ -24,20 +24,16 @@ public class MemoryFileSystem : FileSystem
 
 | Name | Description |
 | --- | --- |
-| [FileNames](../../aspose.threed.utilities/memoryfilesystem/filenames) { get; } | File names that in this memory file system. |
+| [FileNames](filenames) { get; } | File names that in this memory file system. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | Dispose the File system and release its resources. |
-| virtual [Equals](equals)(object) |  |
-| [GetFileContent](../../aspose.threed.utilities/memoryfilesystem/getfilecontent)(string) | Returns the raw content of the specified file. Throw FileNotFoundException if the specified file is not existing. |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| override [ReadFile](../../aspose.threed.utilities/memoryfilesystem/readfile)(string, IOConfig) | Create a stream for reading dependencies. |
-| virtual [ToString](tostring)() |  |
-| override [WriteFile](../../aspose.threed.utilities/memoryfilesystem/writefile)(string, IOConfig) | Create a stream for writing dependencies. |
+| virtual [Dispose](dispose)() | Dispose the File system and release its resources. |
+| [GetFileContent](getfilecontent)(string) | Returns the raw content of the specified file. Throw FileNotFoundException if the specified file is not existing. |
+| override [ReadFile](readfile)(string, IOConfig) | Create a stream for reading dependencies. |
+| override [WriteFile](writefile)(string, IOConfig) | Create a stream for writing dependencies. |
 
 ### See Also
 

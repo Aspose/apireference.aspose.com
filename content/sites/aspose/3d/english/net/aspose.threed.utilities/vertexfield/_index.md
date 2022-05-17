@@ -18,22 +18,21 @@ public class VertexField : IComparable<VertexField>
 
 | Name | Description |
 | --- | --- |
-| [Alias](../../aspose.threed.utilities/vertexfield/alias) { get; } | Alias annotated by attribute [`SemanticAttribute`](../semanticattribute) |
-| [DataType](../../aspose.threed.utilities/vertexfield/datatype) { get; } | Data type of this field. |
-| [Index](../../aspose.threed.utilities/vertexfield/index) { get; } | Index of this field in the vertex's layout with same semantic. |
-| [Offset](../../aspose.threed.utilities/vertexfield/offset) { get; } | The offset in bytes of this field. |
-| [Semantic](../../aspose.threed.utilities/vertexfield/semantic) { get; } | The usage semantic of this field. |
-| [Size](../../aspose.threed.utilities/vertexfield/size) { get; } | The size in bytes of this field |
+| [Alias](alias) { get; } | Alias annotated by attribute [`SemanticAttribute`](../semanticattribute) |
+| [DataType](datatype) { get; } | Data type of this field. |
+| [Index](index) { get; } | Index of this field in the vertex's layout with same semantic. |
+| [Offset](offset) { get; } | The offset in bytes of this field. |
+| [Semantic](semantic) { get; } | The usage semantic of this field. |
+| [Size](size) { get; } | The size in bytes of this field |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](../../aspose.threed.utilities/vertexfield/compareto)(VertexField) | Compares this instance to a specified object and returns an indication of their relative values. |
-| override [Equals](../../aspose.threed.utilities/vertexfield/equals)(object) | Determines whether this instance and a specified object, which must also be a [`VertexField`](../vertexfield) object, have the same value. |
-| override [GetHashCode](../../aspose.threed.utilities/vertexfield/gethashcode)() | Returns the hash code for this string. |
-| [GetType](gettype)() |  |
-| override [ToString](../../aspose.threed.utilities/vertexfield/tostring)() | Gets the string representation of [`VertexField`](../vertexfield) |
+| [CompareTo](compareto)(VertexField) | Compares this instance to a specified object and returns an indication of their relative values. |
+| override [Equals](equals)(object) | Determines whether this instance and a specified object, which must also be a [`VertexField`](../vertexfield) object, have the same value. |
+| override [GetHashCode](gethashcode)() | Returns the hash code for this string. |
+| override [ToString](tostring)() | Gets the string representation of [`VertexField`](../vertexfield) |
 
 ### See Also
 

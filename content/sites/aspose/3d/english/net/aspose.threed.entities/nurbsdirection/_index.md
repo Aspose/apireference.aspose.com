@@ -24,21 +24,12 @@ public class NurbsDirection
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.threed.entities/nurbsdirection/count) { get; set; } | Gets or sets the count of control points in current direction. |
-| [Divisions](../../aspose.threed.entities/nurbsdirection/divisions) { get; set; } | Gets or sets the number of divisions between adjacent control points in current direction. |
-| [KnotVectors](../../aspose.threed.entities/nurbsdirection/knotvectors) { get; } | Gets the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve. |
-| [Multiplicity](../../aspose.threed.entities/nurbsdirection/multiplicity) { get; } | Gets the multiplicity. |
-| [Order](../../aspose.threed.entities/nurbsdirection/order) { get; set; } | Gets or sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve. |
-| [Type](../../aspose.threed.entities/nurbsdirection/type) { get; set; } | Gets or sets the type of the current direction. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Count](count) { get; set; } | Gets or sets the count of control points in current direction. |
+| [Divisions](divisions) { get; set; } | Gets or sets the number of divisions between adjacent control points in current direction. |
+| [KnotVectors](knotvectors) { get; } | Gets the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve. |
+| [Multiplicity](multiplicity) { get; } | Gets the multiplicity. |
+| [Order](order) { get; set; } | Gets or sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve. |
+| [Type](type) { get; set; } | Gets or sets the type of the current direction. |
 
 ### See Also
 

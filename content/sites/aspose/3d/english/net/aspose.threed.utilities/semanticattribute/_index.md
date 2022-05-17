@@ -26,20 +26,8 @@ public sealed class SemanticAttribute : Attribute
 
 | Name | Description |
 | --- | --- |
-| [Alias](../../aspose.threed.utilities/semanticattribute/alias) { get; } | Alias of the vertex field |
-| [Semantic](../../aspose.threed.utilities/semanticattribute/semantic) { get; } | Semantic of the vertex field |
-| virtual [TypeId](typeid) { get; } |  |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [IsDefaultAttribute](isdefaultattribute)() |  |
-| virtual [Match](match)(object) |  |
-| virtual [ToString](tostring)() |  |
+| [Alias](alias) { get; } | Alias of the vertex field |
+| [Semantic](semantic) { get; } | Semantic of the vertex field |
 
 ### See Also
 

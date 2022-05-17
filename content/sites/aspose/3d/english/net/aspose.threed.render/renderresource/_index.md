@@ -18,11 +18,7 @@ public abstract class RenderResource : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.threed.render/renderresource/dispose)() | Dispose internal resources used by [`RenderResource`](../renderresource) |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Dispose](dispose)() | Dispose internal resources used by [`RenderResource`](../renderresource) |
 
 ### See Also
 

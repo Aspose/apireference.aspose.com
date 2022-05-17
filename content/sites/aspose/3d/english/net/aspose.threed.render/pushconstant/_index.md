@@ -24,17 +24,13 @@ public class PushConstant
 
 | Name | Description |
 | --- | --- |
-| [Commit](../../aspose.threed.render/pushconstant/commit)(ShaderStage, ICommandList) | Commit prepared data to graphics pipeline. |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
-| [Write](../../aspose.threed.render/pushconstant/write)(float) | Write a float value to the constant |
-| [Write](../../aspose.threed.render/pushconstant/write)(FMatrix4) | Write the matrix to the constant |
-| [Write](../../aspose.threed.render/pushconstant/write)(FVector3) | Write a 3-component vector to the constant |
-| [Write](../../aspose.threed.render/pushconstant/write)(FVector4) | Write a 4-component vector to the constant |
-| [Write](../../aspose.threed.render/pushconstant/write)(int) | Write a int value to the constant |
-| [Write](../../aspose.threed.render/pushconstant/write)(float, float, float, float) | Write a 4-component vector to the constant |
+| [Commit](commit)(ShaderStage, ICommandList) | Commit prepared data to graphics pipeline. |
+| [Write](write)(float) | Write a float value to the constant |
+| [Write](write)(FMatrix4) | Write the matrix to the constant |
+| [Write](write)(FVector3) | Write a 3-component vector to the constant |
+| [Write](write)(FVector4) | Write a 4-component vector to the constant |
+| [Write](write)(int) | Write a int value to the constant |
+| [Write](write)(float, float, float, float) | Write a 4-component vector to the constant |
 
 ### See Also
 

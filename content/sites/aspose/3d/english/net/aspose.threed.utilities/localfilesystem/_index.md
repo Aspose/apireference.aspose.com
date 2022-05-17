@@ -24,13 +24,9 @@ public class LocalFileSystem : FileSystem
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | Dispose the File system and release its resources. |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| override [ReadFile](../../aspose.threed.utilities/localfilesystem/readfile)(string, IOConfig) | Create a stream for reading dependencies. |
-| virtual [ToString](tostring)() |  |
-| override [WriteFile](../../aspose.threed.utilities/localfilesystem/writefile)(string, IOConfig) | Create a stream for writing dependencies. |
+| virtual [Dispose](dispose)() | Dispose the File system and release its resources. |
+| override [ReadFile](readfile)(string, IOConfig) | Create a stream for reading dependencies. |
+| override [WriteFile](writefile)(string, IOConfig) | Create a stream for writing dependencies. |
 
 ### See Also
 

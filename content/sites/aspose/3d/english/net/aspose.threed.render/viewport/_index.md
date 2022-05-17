@@ -18,22 +18,13 @@ public class Viewport
 
 | Name | Description |
 | --- | --- |
-| [Area](../../aspose.threed.render/viewport/area) { get; set; } | Gets or sets the area of the viewport in render target. |
-| [BackgroundColor](../../aspose.threed.render/viewport/backgroundcolor) { get; set; } | Gets or sets the background color of the viewport. |
-| [DepthClear](../../aspose.threed.render/viewport/depthclear) { get; set; } | Gets or sets the depth value used when clear the viewport with depth buffer bit set. |
-| [Enabled](../../aspose.threed.render/viewport/enabled) { get; set; } | Enable or disable this viewport. |
-| [Frustum](../../aspose.threed.render/viewport/frustum) { get; set; } | Gets or sets the camera of this [`Viewport`](../viewport) |
-| [RenderTarget](../../aspose.threed.render/viewport/rendertarget) { get; } | Gets the render target that created this viewport. |
-| [ZOrder](../../aspose.threed.render/viewport/zorder) { get; set; } | Gets or sets the Z-order of the viewport. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| virtual [ToString](tostring)() |  |
+| [Area](area) { get; set; } | Gets or sets the area of the viewport in render target. |
+| [BackgroundColor](backgroundcolor) { get; set; } | Gets or sets the background color of the viewport. |
+| [DepthClear](depthclear) { get; set; } | Gets or sets the depth value used when clear the viewport with depth buffer bit set. |
+| [Enabled](enabled) { get; set; } | Enable or disable this viewport. |
+| [Frustum](frustum) { get; set; } | Gets or sets the camera of this [`Viewport`](../viewport) |
+| [RenderTarget](rendertarget) { get; } | Gets the render target that created this viewport. |
+| [ZOrder](zorder) { get; set; } | Gets or sets the Z-order of the viewport. |
 
 ### See Also
 

@@ -26,16 +26,13 @@ public struct FVector3
 
 | Name | Description |
 | --- | --- |
-| [Cross](../../aspose.threed.utilities/fvector3/cross)(FVector3) | Cross product of two vectors |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [Normalize](../../aspose.threed.utilities/fvector3/normalize)() | Normalizes this instance. |
-| override [ToString](../../aspose.threed.utilities/fvector3/tostring)() | Returns a string that represents the [`FVector3`](../fvector3) |
-| [operator +](../../aspose.threed.utilities/fvector3/op_addition) | + Operator overloading |
-| [explicit operator](../../aspose.threed.utilities/fvector3/op_explicit) |  |
-| [operator *](../../aspose.threed.utilities/fvector3/op_multiply) | * Operator overloading |
-| [operator -](../../aspose.threed.utilities/fvector3/op_subtraction) | - Operator overloading (2 operators) |
+| [Cross](cross)(FVector3) | Cross product of two vectors |
+| [Normalize](normalize)() | Normalizes this instance. |
+| override [ToString](tostring)() | Returns a string that represents the [`FVector3`](../fvector3) |
+| [operator +](op_addition) | + Operator overloading |
+| [explicit operator](op_explicit) |  |
+| [operator *](op_multiply) | * Operator overloading |
+| [operator -](op_subtraction) | - Operator overloading (2 operators) |
 
 ## Other Members
 

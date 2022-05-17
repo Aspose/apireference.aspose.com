@@ -18,7 +18,7 @@ public interface IMeshConvertible
 
 | Name | Description |
 | --- | --- |
-| [ToMesh](../../aspose.threed.entities/imeshconvertible/tomesh)() | Convert current object to mesh |
+| [ToMesh](tomesh)() | Convert current object to mesh |
 
 ### See Also
 

@@ -25,37 +25,34 @@ public class PbrMaterial : Material
 
 | Name | Description |
 | --- | --- |
-| [Albedo](../../aspose.threed.shading/pbrmaterial/albedo) { get; set; } | Gets or sets the base color of the material |
-| [AlbedoTexture](../../aspose.threed.shading/pbrmaterial/albedotexture) { get; set; } | Gets or sets the texture for albedo |
-| [EmissiveColor](../../aspose.threed.shading/pbrmaterial/emissivecolor) { get; set; } | Gets or sets the emissive color |
-| [EmissiveTexture](../../aspose.threed.shading/pbrmaterial/emissivetexture) { get; set; } | Gets or sets the texture for emissive |
-| [MetallicFactor](../../aspose.threed.shading/pbrmaterial/metallicfactor) { get; set; } | Gets or sets the metalness of the material, value of 1 means the material is a metal and value of 0 means the material is a dielectric. |
-| [MetallicRoughness](../../aspose.threed.shading/pbrmaterial/metallicroughness) { get; set; } | Gets or sets the texture for metallic(in R channel) and roughness(in G channel) |
-| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
-| [NormalTexture](../../aspose.threed.shading/pbrmaterial/normaltexture) { get; set; } | Gets or sets the texture of normal mapping |
-| [OcclusionFactor](../../aspose.threed.shading/pbrmaterial/occlusionfactor) { get; set; } | Gets or sets the factor of ambient occlusion |
-| [OcclusionTexture](../../aspose.threed.shading/pbrmaterial/occlusiontexture) { get; set; } | Gets or sets the texture for ambient occlusion |
-| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
-| [RoughnessFactor](../../aspose.threed.shading/pbrmaterial/roughnessfactor) { get; set; } | Gets or sets the roughness of the material, value of 1 means the material is completely rough and value of 0 means the material is completely smooth |
-| [SpecularTexture](../../aspose.threed.shading/pbrmaterial/speculartexture) { get; set; } | Gets or sets the texture for specular color |
-| [Transparency](../../aspose.threed.shading/pbrmaterial/transparency) { get; set; } | Gets or sets the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped. |
+| [Albedo](albedo) { get; set; } | Gets or sets the base color of the material |
+| [AlbedoTexture](albedotexture) { get; set; } | Gets or sets the texture for albedo |
+| [EmissiveColor](emissivecolor) { get; set; } | Gets or sets the emissive color |
+| [EmissiveTexture](emissivetexture) { get; set; } | Gets or sets the texture for emissive |
+| [MetallicFactor](metallicfactor) { get; set; } | Gets or sets the metalness of the material, value of 1 means the material is a metal and value of 0 means the material is a dielectric. |
+| [MetallicRoughness](metallicroughness) { get; set; } | Gets or sets the texture for metallic(in R channel) and roughness(in G channel) |
+| virtual [Name](name) { get; set; } | Gets or sets the name. |
+| [NormalTexture](normaltexture) { get; set; } | Gets or sets the texture of normal mapping |
+| [OcclusionFactor](occlusionfactor) { get; set; } | Gets or sets the factor of ambient occlusion |
+| [OcclusionTexture](occlusiontexture) { get; set; } | Gets or sets the texture for ambient occlusion |
+| [Properties](properties) { get; } | Gets the collection of all properties. |
+| [RoughnessFactor](roughnessfactor) { get; set; } | Gets or sets the roughness of the material, value of 1 means the material is completely rough and value of 0 means the material is completely smooth |
+| [SpecularTexture](speculartexture) { get; set; } | Gets or sets the texture for specular color |
+| [Transparency](transparency) { get; set; } | Gets or sets the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Gets the enumerator to enumerate internal texture slots. |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
-| [GetType](gettype)() |  |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
-| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | Sets the texture to specified slot |
-| override [ToString](../../aspose.threed.shading/material/tostring)() | Formats object to string |
+| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetEnumerator](getenumerator)() | Gets the enumerator to enumerate internal texture slots. |
+| [GetProperty](getproperty)(string) | Get the value of specified property |
+| [GetTexture](gettexture)(string) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
+| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
+| [SetTexture](settexture)(string, TextureBase) | Sets the texture to specified slot |
+| override [ToString](tostring)() | Formats object to string |
 
 ### See Also
 

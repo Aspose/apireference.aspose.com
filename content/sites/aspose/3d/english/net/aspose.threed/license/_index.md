@@ -24,12 +24,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(object) |  |
-| virtual [GetHashCode](gethashcode)() |  |
-| [GetType](gettype)() |  |
-| [SetLicense](../../aspose.threed/license/setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.threed/license/setlicense)(string) | Licenses the component. |
-| virtual [ToString](tostring)() |  |
+| [SetLicense](setlicense)(Stream) | Licenses the component. |
+| [SetLicense](setlicense)(string) | Licenses the component. |
 
 ### Examples
 
