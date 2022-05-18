@@ -24,8 +24,8 @@ public class KmlAbstractColorStyle
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; set; } | Specifies the color of the graphic element. Default value White. |
-| [ColorMode](colormode) { get; set; } | Specifies the color mode of the graphic element. Default Value: normal. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Specifies the color of the graphic element. Default value White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Specifies the color mode of the graphic element. Default Value: normal. |
 
 ### See Also
 

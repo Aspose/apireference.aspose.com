@@ -24,11 +24,11 @@ public class JoinOptions
 
 | Name | Description |
 | --- | --- |
-| [ConditionComparer](conditioncomparer) { get; set; } | Defines the way the features of two layers are related in a query by specifying a logic to be used in comparing values from the features. |
-| [JoinAttributeName](joinattributename) { get; set; } | Specifies an attribute name of the joined layer which value will be used into [`ConditionComparer`](./conditioncomparer). |
-| [JoinAttributeNames](joinattributenames) { get; set; } | Specifies a list of attribute names to be joined. If it is `null` or empty, all attributes of the joined layer will be joined. |
-| [JoinedAttributesPrefix](joinedattributesprefix) { get; set; } | Specifies a prefix string for the joined attribute's names. Default is "joined_". |
-| [TargetAttributeName](targetattributename) { get; set; } | Specifies an attribute name of the main layer which value will be used into [`ConditionComparer`](./conditioncomparer). |
+| [ConditionComparer](../../aspose.gis.relationship.joins/joinoptions/conditioncomparer) { get; set; } | Defines the way the features of two layers are related in a query by specifying a logic to be used in comparing values from the features. |
+| [JoinAttributeName](../../aspose.gis.relationship.joins/joinoptions/joinattributename) { get; set; } | Specifies an attribute name of the joined layer which value will be used into [`ConditionComparer`](./conditioncomparer). |
+| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames) { get; set; } | Specifies a list of attribute names to be joined. If it is `null` or empty, all attributes of the joined layer will be joined. |
+| [JoinedAttributesPrefix](../../aspose.gis.relationship.joins/joinoptions/joinedattributesprefix) { get; set; } | Specifies a prefix string for the joined attribute's names. Default is "joined_". |
+| [TargetAttributeName](../../aspose.gis.relationship.joins/joinoptions/targetattributename) { get; set; } | Specifies an attribute name of the main layer which value will be used into [`ConditionComparer`](./conditioncomparer). |
 
 ### See Also
 

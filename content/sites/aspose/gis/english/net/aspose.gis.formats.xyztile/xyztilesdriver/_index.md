@@ -24,7 +24,7 @@ public class XyzTilesDriver : Driver
 
 | Name | Description |
 | --- | --- |
-| [OpenLayer](openlayer)(XyzConnection) | Opens the tiles set. |
+| [OpenLayer](../../aspose.gis.formats.xyztile/xyztilesdriver/openlayer)(XyzConnection) | Opens the tiles set. |
 
 ### See Also
 

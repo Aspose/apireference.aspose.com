@@ -18,7 +18,7 @@ public interface IMultiPolygon : IMultiSurface
 
 | Name | Description |
 | --- | --- |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [ToEditable](../../aspose.gis.geometries/imultipolygon/toeditable)() | Gets an editable copy of this geometry. |
 
 ### See Also
 

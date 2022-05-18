@@ -24,8 +24,13 @@ public class MapInfoTabOptions : DriverOptions
 
 | Name | Description |
 | --- | --- |
-| [BlockSize](blocksize) { get; set; } | Block size for '*.map' files (multiples of 512). Defaults to 16384. Valid values: 512 to 32256. |
-| [TextStringAttribute](textstringattribute) { get; set; } | Specifies name of the attribute that represents text of 'Text' graphical object. |
+| [BlockSize](../../aspose.gis.formats.mapinfotab/mapinfotaboptions/blocksize) { get; set; } | Block size for '*.map' files (multiples of 512). Defaults to 16384. Valid values: 512 to 32256. |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | A tolerance to use to linearize curve geometries. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to M coordinate when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [TextStringAttribute](../../aspose.gis.formats.mapinfotab/mapinfotaboptions/textstringattribute) { get; set; } | Specifies name of the attribute that represents text of 'Text' graphical object. |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Determines if geometries should be validated when they are added to the layer. If set to `true`, [`IsValid`](../../aspose.gis.geometries/geometry/isvalid) is called for each geometry when it's added to the layer, and if validation fails ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) is `false`), [`GisException`](../../aspose.gis/gisexception) is thrown. |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to X and Y coordinates when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to Z coordinate when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
 
 ### See Also
 

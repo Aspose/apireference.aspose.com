@@ -24,10 +24,10 @@ public class KmlListStyle
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](backgroundcolor) { get; set; } | Specifies the background color of the graphic element. Default value is White. |
-| [ItemIcons](itemicons) { get; set; } | Icon used in the List view that reflects the state of a Folder or Link fetch. Default value is `null` means the icons are none. |
-| [ItemType](itemtype) { get; set; } | Specifies how a kml:Folder and its contents shall be displayed as items in the list view. Default value is Check. |
-| [MaxSnippetLines](maxsnippetlines) { get; set; } | Specifies the maximum number of lines to display in the list view. Default value is '2'. |
+| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlliststyle/backgroundcolor) { get; set; } | Specifies the background color of the graphic element. Default value is White. |
+| [ItemIcons](../../aspose.gis.formats.kml.styles/kmlliststyle/itemicons) { get; set; } | Icon used in the List view that reflects the state of a Folder or Link fetch. Default value is `null` means the icons are none. |
+| [ItemType](../../aspose.gis.formats.kml.styles/kmlliststyle/itemtype) { get; set; } | Specifies how a kml:Folder and its contents shall be displayed as items in the list view. Default value is Check. |
+| [MaxSnippetLines](../../aspose.gis.formats.kml.styles/kmlliststyle/maxsnippetlines) { get; set; } | Specifies the maximum number of lines to display in the list view. Default value is '2'. |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public abstract class Labeling
 
 | Name | Description |
 | --- | --- |
-| static [Null](null) { get; } | Gets an instance of [`NullLabeling`](../nulllabeling). |
+| static [Null](../../aspose.gis.rendering.labelings/labeling/null) { get; } | Gets an instance of [`NullLabeling`](../nulllabeling). |
 
 ### See Also
 

@@ -25,12 +25,12 @@ public class MarkerLine : VectorSymbolizer
 
 | Name | Description |
 | --- | --- |
-| [FeatureBasedConfiguration](featurebasedconfiguration) { get; set; } | A callback that is used to configure this symbolizer before rendering a feature. |
-| [Interval](interval) { get; set; } | Specifies the interval between markers along the line. |
-| [Marker](marker) { get; set; } | Specifies the marker symbolizer along the line. |
-| [Offset](offset) { get; set; } | Specifies offset from the original line. For positive distance the offset will be at the left side of the input line (relative to the line direction). For a negative distance it will be at the right side. |
-| [OffsetAlongLine](offsetalongline) { get; set; } | Specifies the offset along the line for the first marker. |
-| [RotateMarkers](rotatemarkers) { get; set; } | Specifies whether markers should be rotated along the line. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerline/featurebasedconfiguration) { get; set; } | A callback that is used to configure this symbolizer before rendering a feature. |
+| [Interval](../../aspose.gis.rendering.symbolizers/markerline/interval) { get; set; } | Specifies the interval between markers along the line. |
+| [Marker](../../aspose.gis.rendering.symbolizers/markerline/marker) { get; set; } | Specifies the marker symbolizer along the line. |
+| [Offset](../../aspose.gis.rendering.symbolizers/markerline/offset) { get; set; } | Specifies offset from the original line. For positive distance the offset will be at the left side of the input line (relative to the line direction). For a negative distance it will be at the right side. |
+| [OffsetAlongLine](../../aspose.gis.rendering.symbolizers/markerline/offsetalongline) { get; set; } | Specifies the offset along the line for the first marker. |
+| [RotateMarkers](../../aspose.gis.rendering.symbolizers/markerline/rotatemarkers) { get; set; } | Specifies whether markers should be rotated along the line. |
 
 ### See Also
 

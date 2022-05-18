@@ -18,16 +18,16 @@ public class MultiBandColor : RasterColorizer
 
 | Name | Description |
 | --- | --- |
-| [MultiBandColor](multibandcolor)() | Initializes a new instance of the [`MultiBandColor`](../multibandcolor) class. |
+| [MultiBandColor](multibandcolor)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AlphaBand](alphaband) { get; set; } | Specifies the alpha component for our raster. |
-| [BlueBand](blueband) { get; set; } | Specifies the blue component for our raster. |
-| [GreenBand](greenband) { get; set; } | Specifies the green component for our raster. |
-| [RedBand](redband) { get; set; } | Specifies the red component for our raster. |
+| [AlphaBand](../../aspose.gis.rendering.colorizers/multibandcolor/alphaband) { get; set; } | Specifies the alpha component for our raster. |
+| [BlueBand](../../aspose.gis.rendering.colorizers/multibandcolor/blueband) { get; set; } | Specifies the blue component for our raster. |
+| [GreenBand](../../aspose.gis.rendering.colorizers/multibandcolor/greenband) { get; set; } | Specifies the green component for our raster. |
+| [RedBand](../../aspose.gis.rendering.colorizers/multibandcolor/redband) { get; set; } | Specifies the red component for our raster. |
 
 ### See Also
 

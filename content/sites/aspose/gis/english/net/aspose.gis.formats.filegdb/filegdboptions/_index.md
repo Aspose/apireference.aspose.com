@@ -24,13 +24,18 @@ public sealed class FileGdbOptions : DriverOptions
 
 | Name | Description |
 | --- | --- |
-| [CoordinatePrecisionGrid](coordinateprecisiongrid) { get; set; } | A coordinate precision grid to use in new layer. |
-| [EnsureValidCoordinatesRange](ensurevalidcoordinatesrange) { get; set; } | Whether coordinates should be in valid range. |
-| [GeometryFieldName](geometryfieldname) { get; set; } | Name of the geometry field. |
-| [MTolerance](mtolerance) { get; set; } | M snapping tolerance. |
-| [ObjectIdFieldName](objectidfieldname) { get; set; } | Name of the object ID field. |
-| [XYTolerance](xytolerance) { get; set; } | X and Y snapping tolerance. |
-| [ZTolerance](ztolerance) { get; set; } | Z snapping tolerance. |
+| [CoordinatePrecisionGrid](../../aspose.gis.formats.filegdb/filegdboptions/coordinateprecisiongrid) { get; set; } | A coordinate precision grid to use in new layer. |
+| [EnsureValidCoordinatesRange](../../aspose.gis.formats.filegdb/filegdboptions/ensurevalidcoordinatesrange) { get; set; } | Whether coordinates should be in valid range. |
+| [GeometryFieldName](../../aspose.gis.formats.filegdb/filegdboptions/geometryfieldname) { get; set; } | Name of the geometry field. |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | A tolerance to use to linearize curve geometries. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to M coordinate when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [MTolerance](../../aspose.gis.formats.filegdb/filegdboptions/mtolerance) { get; set; } | M snapping tolerance. |
+| [ObjectIdFieldName](../../aspose.gis.formats.filegdb/filegdboptions/objectidfieldname) { get; set; } | Name of the object ID field. |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Determines if geometries should be validated when they are added to the layer. If set to `true`, [`IsValid`](../../aspose.gis.geometries/geometry/isvalid) is called for each geometry when it's added to the layer, and if validation fails ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) is `false`), [`GisException`](../../aspose.gis/gisexception) is thrown. |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to X and Y coordinates when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [XYTolerance](../../aspose.gis.formats.filegdb/filegdboptions/xytolerance) { get; set; } | X and Y snapping tolerance. |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to Z coordinate when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [ZTolerance](../../aspose.gis.formats.filegdb/filegdboptions/ztolerance) { get; set; } | Z snapping tolerance. |
 
 ### See Also
 

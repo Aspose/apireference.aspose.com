@@ -18,17 +18,21 @@ public class Projection : IdentifiableObject
 
 | Name | Description |
 | --- | --- |
-| [AngularParametersUnit](angularparametersunit) { get; } | Unit that is used for angular parameters. |
-| [LinearParametersUnit](linearparametersunit) { get; } | Unit that is used for linear parameters. |
-| [ParametersNames](parametersnames) { get; } | Gets an enumerable collection of names of parameters given to this projection |
+| [AngularParametersUnit](../../aspose.gis.spatialreferencing/projection/angularparametersunit) { get; } | Unit that is used for angular parameters. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | If this objects identifier is EPSG identifier - return its code. Otherwise - return -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Identifier of this identifiable object. |
+| [LinearParametersUnit](../../aspose.gis.spatialreferencing/projection/linearparametersunit) { get; } | Unit that is used for linear parameters. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Name of this object. |
+| [ParametersNames](../../aspose.gis.spatialreferencing/projection/parametersnames) { get; } | Gets an enumerable collection of names of parameters given to this projection |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetParameterValue](getparametervalue)(string, ParameterType) | Gets parameter with specified name of this projection. |
-| [IsEquivalent](isequivalent)(Projection) | Determines is two projections are equivalent. Equivalent projections map (longitude, latitude) to (x, y) in the same way. |
-| [TryGetParameterValue](trygetparametervalue)(string, ParameterType) | Gets parameter with specified name of this projection. If there are no such parameter - returns `null`. |
+| [GetParameterValue](../../aspose.gis.spatialreferencing/projection/getparametervalue)(string, ParameterType) | Gets parameter with specified name of this projection. |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/projection/isequivalent)(Projection) | Determines is two projections are equivalent. Equivalent projections map (longitude, latitude) to (x, y) in the same way. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Returns a string that represents the current object. |
+| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue)(string, ParameterType) | Gets parameter with specified name of this projection. If there are no such parameter - returns `null`. |
 
 ### See Also
 

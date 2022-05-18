@@ -18,7 +18,7 @@ public interface ILineString : ICurve, IEquatable<ILineString>, IReadOnlyList<IP
 
 | Name | Description |
 | --- | --- |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [ToEditable](../../aspose.gis.geometries/ilinestring/toeditable)() | Gets an editable copy of this geometry. |
 
 ### See Also
 

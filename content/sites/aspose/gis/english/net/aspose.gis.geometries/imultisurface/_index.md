@@ -18,9 +18,9 @@ public interface IMultiSurface : IGeometryCollection
 
 | Name | Description |
 | --- | --- |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
-| [ToLinearGeometry](tolineargeometry)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. |
-| [ToLinearGeometry](tolineargeometry)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. |
+| [ToEditable](../../aspose.gis.geometries/imultisurface/toeditable)() | Gets an editable copy of this geometry. |
+| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. |
+| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. |
 
 ### See Also
 

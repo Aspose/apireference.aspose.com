@@ -8,7 +8,7 @@ url: /net/aspose.gis.rendering.colorizers/multibandcolor/multibandcolor/
 ---
 ## MultiBandColor constructor
 
-Initializes a new instance of the [`MultiBandColor`](../../multibandcolor) class.
+The default constructor.
 
 ```csharp
 public MultiBandColor()

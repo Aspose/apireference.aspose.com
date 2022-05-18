@@ -18,7 +18,7 @@ public interface ICircularString : ICurve, IEquatable<ICircularString>, IReadOnl
 
 | Name | Description |
 | --- | --- |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [ToEditable](../../aspose.gis.geometries/icircularstring/toeditable)() | Gets an editable copy of this geometry. |
 
 ### Remarks
 

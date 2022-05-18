@@ -18,18 +18,18 @@ public class KmlFeatureStyle : FeatureStyle
 
 | Name | Description |
 | --- | --- |
-| [KmlFeatureStyle](kmlfeaturestyle)() | Create new instance. |
+| [KmlFeatureStyle](kmlfeaturestyle)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Balloon](balloon) { get; set; } | Specifies how the description balloon for placemarks is drawn. Use `null` to indicate a missing style. Default Value is `null`. |
-| [Icon](icon) { get; set; } | Specifies how icons for point Placemarks are drawn. Use `null` to indicate a missing style. Default Value is `null`. |
-| [Label](label) { get; set; } | Specifies how labels of a Feature are drawn. Use `null` to indicate a missing style. Default Value is `null`. |
-| [Line](line) { get; set; } | Specifies the drawing style (color, color mode, and line width) for all line geometry. Use `null` to indicate a missing style. Default Value is `null`. |
-| [List](list) { get; set; } | Specifies how a Feature is displayed in the list view. Use `null` to indicate a missing style. Default Value is `null`. |
-| [Polygon](polygon) { get; set; } | Specifies the drawing style for all polygons, including polygon extrusions and line extrusions. Use `null` to indicate a missing style. Default Value is `null`. |
+| [Balloon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/balloon) { get; set; } | Specifies how the description balloon for placemarks is drawn. Use `null` to indicate a missing style. Default Value is `null`. |
+| [Icon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/icon) { get; set; } | Specifies how icons for point Placemarks are drawn. Use `null` to indicate a missing style. Default Value is `null`. |
+| [Label](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/label) { get; set; } | Specifies how labels of a Feature are drawn. Use `null` to indicate a missing style. Default Value is `null`. |
+| [Line](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/line) { get; set; } | Specifies the drawing style (color, color mode, and line width) for all line geometry. Use `null` to indicate a missing style. Default Value is `null`. |
+| [List](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/list) { get; set; } | Specifies how a Feature is displayed in the list view. Use `null` to indicate a missing style. Default Value is `null`. |
+| [Polygon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/polygon) { get; set; } | Specifies the drawing style for all polygons, including polygon extrusions and line extrusions. Use `null` to indicate a missing style. Default Value is `null`. |
 
 ### See Also
 

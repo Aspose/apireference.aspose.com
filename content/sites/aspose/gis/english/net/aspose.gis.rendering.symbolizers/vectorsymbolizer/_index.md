@@ -18,7 +18,7 @@ public abstract class VectorSymbolizer
 
 | Name | Description |
 | --- | --- |
-| static [Null](null) { get; } | The [`NullVectorSymbolizer`](../nullvectorsymbolizer) draws nothing and effectively skips rendering of a geometry it is applied to. |
+| static [Null](../../aspose.gis.rendering.symbolizers/vectorsymbolizer/null) { get; } | The [`NullVectorSymbolizer`](../nullvectorsymbolizer) draws nothing and effectively skips rendering of a geometry it is applied to. |
 
 ### See Also
 

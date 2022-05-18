@@ -18,8 +18,8 @@ public abstract class Renderer
 
 | Name | Description |
 | --- | --- |
-| [Render](render)(Map, AbstractPath) | Renders map. |
-| [Render](render)(Map, string) | Renders map. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, AbstractPath) | Renders map. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, string) | Renders map. |
 
 ### See Also
 

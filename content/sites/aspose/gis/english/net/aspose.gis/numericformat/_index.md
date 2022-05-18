@@ -18,14 +18,14 @@ public abstract class NumericFormat
 
 | Name | Description |
 | --- | --- |
-| static [RoundTrip](roundtrip) { get; } | Converts and attempts to ensure that a numeric value that is converted to a string is parsed back into the same numeric value. |
+| static [RoundTrip](../../aspose.gis/numericformat/roundtrip) { get; } | Converts and attempts to ensure that a numeric value that is converted to a string is parsed back into the same numeric value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Flat](flat)(int) | Converts a number to a fixed-point text without a scientific notation. |
-| static [General](general)(int) | Converts a number to the more compact of either fixed-point or scientific notation, depending on the type of the number and whether a precision specifier is present. Recommended to use. |
+| static [Flat](../../aspose.gis/numericformat/flat)(int) | Converts a number to a fixed-point text without a scientific notation. |
+| static [General](../../aspose.gis/numericformat/general)(int) | Converts a number to the more compact of either fixed-point or scientific notation, depending on the type of the number and whether a precision specifier is present. Recommended to use. |
 
 ### Remarks
 

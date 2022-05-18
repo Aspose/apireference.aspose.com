@@ -24,14 +24,14 @@ public class SpatialReferenceSystemTransformation
 
 | Name | Description |
 | --- | --- |
-| [Source](source) { get; } | Source spatial reference system. |
-| [Target](target) { get; } | Target spatial reference system. |
+| [Source](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/source) { get; } | Source spatial reference system. |
+| [Target](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/target) { get; } | Target spatial reference system. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Transform](transform)(IGeometry) | Transforms geometry from source spatial reference system to target spatial reference system. |
+| [Transform](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform)(IGeometry) | Transforms geometry from source spatial reference system to target spatial reference system. |
 
 ### See Also
 

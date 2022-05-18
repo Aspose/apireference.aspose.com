@@ -18,16 +18,16 @@ public interface IPoint : IEquatable<IPoint>, IGeometry
 
 | Name | Description |
 | --- | --- |
-| [M](m) { get; } | Gets the m-coordinate. |
-| [X](x) { get; } | Gets the x-coordinate. |
-| [Y](y) { get; } | Gets the y-coordinate. |
-| [Z](z) { get; } | Gets the z-coordinate. |
+| [M](../../aspose.gis.geometries/ipoint/m) { get; } | Gets the m-coordinate. |
+| [X](../../aspose.gis.geometries/ipoint/x) { get; } | Gets the x-coordinate. |
+| [Y](../../aspose.gis.geometries/ipoint/y) { get; } | Gets the y-coordinate. |
+| [Z](../../aspose.gis.geometries/ipoint/z) { get; } | Gets the z-coordinate. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [ToEditable](../../aspose.gis.geometries/ipoint/toeditable)() | Gets an editable copy of this geometry. |
 
 ### See Also
 

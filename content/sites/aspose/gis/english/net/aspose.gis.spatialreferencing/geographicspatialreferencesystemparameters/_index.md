@@ -24,13 +24,13 @@ public class GeographicSpatialReferenceSystemParameters
 
 | Name | Description |
 | --- | --- |
-| [AngularUnit](angularunit) { get; set; } | Units to be used in this SRS. Default is [`Degree`](../unit/degree). |
-| [AxisesOrder](axisesorder) { get; set; } | Order of axises. Defaults to LongitudeLatitude. |
-| [Datum](datum) { get; set; } | Datum of geographic SRS. Default is [`Wgs84`](../geographicdatum/wgs84). |
-| [LatitudeAxis](latitudeaxis) { get; set; } | Axis that describes latitude. Defaults is axis with north direction. |
-| [LongitudeAxis](longitudeaxis) { get; set; } | Axis that describes longitude. Default is axis with east direction. |
-| [Name](name) { get; set; } | Name of geographic SRS. Default is "Unnamed". |
-| [PrimeMeridian](primemeridian) { get; set; } | Prime meridian of this SRS. Default is [`Greenwich`](../primemeridian/greenwich). |
+| [AngularUnit](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/angularunit) { get; set; } | Units to be used in this SRS. Default is [`Degree`](../unit/degree). |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder) { get; set; } | Order of axises. Defaults to LongitudeLatitude. |
+| [Datum](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum) { get; set; } | Datum of geographic SRS. Default is [`Wgs84`](../geographicdatum/wgs84). |
+| [LatitudeAxis](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/latitudeaxis) { get; set; } | Axis that describes latitude. Defaults is axis with north direction. |
+| [LongitudeAxis](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/longitudeaxis) { get; set; } | Axis that describes longitude. Default is axis with east direction. |
+| [Name](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/name) { get; set; } | Name of geographic SRS. Default is "Unnamed". |
+| [PrimeMeridian](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/primemeridian) { get; set; } | Prime meridian of this SRS. Default is [`Greenwich`](../primemeridian/greenwich). |
 
 ### See Also
 

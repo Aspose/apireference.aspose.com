@@ -18,7 +18,7 @@ public class NullVectorSymbolizer : VectorSymbolizer
 
 | Name | Description |
 | --- | --- |
-| static [Instance](instance) { get; } | Gets an instance of `NullSymbolizer`. |
+| static [Instance](../../aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance) { get; } | Gets an instance of `NullSymbolizer`. |
 
 ### See Also
 

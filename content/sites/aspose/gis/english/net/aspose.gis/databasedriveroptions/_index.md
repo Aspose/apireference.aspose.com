@@ -18,7 +18,12 @@ public abstract class DatabaseDriverOptions : DriverOptions
 
 | Name | Description |
 | --- | --- |
-| [SpatialReferenceSystemMode](spatialreferencesystemmode) { get; set; } | Determines how the unknown geometries' SRS for the database should be handle when they are added to the layer. The default value is ThrowException. |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | A tolerance to use to linearize curve geometries. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A [`PrecisionModel`](../precisionmodel) that will be applied to M coordinate when geometries are added to the [`VectorLayer`](../vectorlayer) or when they are read from the [`VectorLayer`](../vectorlayer). The default value is [`Exact`](../precisionmodel/exact). |
+| [SpatialReferenceSystemMode](../../aspose.gis/databasedriveroptions/spatialreferencesystemmode) { get; set; } | Determines how the unknown geometries' SRS for the database should be handle when they are added to the layer. The default value is ThrowException. |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Determines if geometries should be validated when they are added to the layer. If set to `true`, [`IsValid`](../../aspose.gis.geometries/geometry/isvalid) is called for each geometry when it's added to the layer, and if validation fails ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) is `false`), [`GisException`](../gisexception) is thrown. |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A [`PrecisionModel`](../precisionmodel) that will be applied to X and Y coordinates when geometries are added to the [`VectorLayer`](../vectorlayer) or when they are read from the [`VectorLayer`](../vectorlayer). The default value is [`Exact`](../precisionmodel/exact). |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A [`PrecisionModel`](../precisionmodel) that will be applied to Z coordinate when geometries are added to the [`VectorLayer`](../vectorlayer) or when they are read from the [`VectorLayer`](../vectorlayer). The default value is [`Exact`](../precisionmodel/exact). |
 
 ### See Also
 

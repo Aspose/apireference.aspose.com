@@ -25,17 +25,17 @@ public class PointLabelPlacement : LabelPlacement
 
 | Name | Description |
 | --- | --- |
-| [HorizontalAnchorPoint](horizontalanchorpoint) { get; set; } | Specifies which side of a label will be aligned horizontally with the point location. |
-| [HorizontalOffset](horizontaloffset) { get; set; } | Specifies horizontal offset from a point location to the labels anchor point. |
-| [Rotation](rotation) { get; set; } | Specifies rotation of label in degrees. |
-| [VerticalAnchorPoint](verticalanchorpoint) { get; set; } | Specifies which side of a label will be aligned vertically with the point location. |
-| [VerticalOffset](verticaloffset) { get; set; } | Specifies vertical offset from a point location to the labels anchor point. |
+| [HorizontalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontalanchorpoint) { get; set; } | Specifies which side of a label will be aligned horizontally with the point location. |
+| [HorizontalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset) { get; set; } | Specifies horizontal offset from a point location to the labels anchor point. |
+| [Rotation](../../aspose.gis.rendering.labelings/pointlabelplacement/rotation) { get; set; } | Specifies rotation of label in degrees. |
+| [VerticalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/verticalanchorpoint) { get; set; } | Specifies which side of a label will be aligned vertically with the point location. |
+| [VerticalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/verticaloffset) { get; set; } | Specifies vertical offset from a point location to the labels anchor point. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](clone)() | Clones this instance. |
+| override [Clone](../../aspose.gis.rendering.labelings/pointlabelplacement/clone)() | Clones this instance. |
 
 ### See Also
 

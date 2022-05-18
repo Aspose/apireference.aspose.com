@@ -24,7 +24,7 @@ public class AttributesConverterActions
 
 | Name | Description |
 | --- | --- |
-| [Exclude](exclude) { get; set; } | Sets `true` to exclude the attribute from the destination layer. The initial value is `false`. |
+| [Exclude](../../aspose.gis/attributesconverteractions/exclude) { get; set; } | Sets `true` to exclude the attribute from the destination layer. The initial value is `false`. |
 
 ### See Also
 

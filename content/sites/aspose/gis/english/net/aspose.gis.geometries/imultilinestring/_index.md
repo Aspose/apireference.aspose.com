@@ -18,7 +18,7 @@ public interface IMultiLineString : IMultiCurve
 
 | Name | Description |
 | --- | --- |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [ToEditable](../../aspose.gis.geometries/imultilinestring/toeditable)() | Gets an editable copy of this geometry. |
 
 ### See Also
 

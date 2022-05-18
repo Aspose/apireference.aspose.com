@@ -18,15 +18,15 @@ public class MixedGeometrySymbolizer : VectorSymbolizer
 
 | Name | Description |
 | --- | --- |
-| [MixedGeometrySymbolizer](mixedgeometrysymbolizer)() | Creates new instance. |
+| [MixedGeometrySymbolizer](mixedgeometrysymbolizer)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [LineSymbolizer](linesymbolizer) { get; set; } | Specifies a symbolizer to use for line geometries in the layer. |
-| [PointSymbolizer](pointsymbolizer) { get; set; } | Specifies a symbolizer to use for point geometries in the layer. |
-| [PolygonSymbolizer](polygonsymbolizer) { get; set; } | Specifies a symbolizer to use for polygon geometries in the layer. |
+| [LineSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbolizer) { get; set; } | Specifies a symbolizer to use for line geometries in the layer. |
+| [PointSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer) { get; set; } | Specifies a symbolizer to use for point geometries in the layer. |
+| [PolygonSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer) { get; set; } | Specifies a symbolizer to use for polygon geometries in the layer. |
 
 ### Remarks
 

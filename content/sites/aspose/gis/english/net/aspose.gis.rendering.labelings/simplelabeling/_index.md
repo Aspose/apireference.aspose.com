@@ -26,25 +26,25 @@ public class SimpleLabeling : Labeling
 
 | Name | Description |
 | --- | --- |
-| [FeatureBasedConfiguration](featurebasedconfiguration) { get; set; } | A callback that is used to configure this labeling before handling a feature. |
-| [FontColor](fontcolor) { get; set; } | Determines color of text. |
-| [FontFamily](fontfamily) { get; set; } | Font family to use to render text. The default is system dependent value. |
-| [FontSize](fontsize) { get; set; } | Size of the text. |
-| [FontStyle](fontstyle) { get; set; } | Style to apply to text. |
-| [GeometryExpression](geometryexpression) { get; set; } | Provides a way to substitute the feature geometry with a one modified for labeling. This callback is invoked the first after [`FeatureBasedConfiguration`](./featurebasedconfiguration) . Default is `null` (use feature geometry as-is). |
-| [HaloColor](halocolor) { get; set; } | Color of the halo (stroke) around text. |
-| [HaloSize](halosize) { get; set; } | Size of the halo (stroke) around text. |
-| [LabelAttribute](labelattribute) { get; set; } | Attribute name to use as a source of labels. Ignored if [`LabelExpression`](./labelexpression) is set. Either [`LabelAttribute`](./labelattribute) or [`LabelExpression`](./labelexpression) must be set before rendering; InvalidOperationException is thrown otherwise. |
-| [LabelExpression](labelexpression) { get; set; } | Provides a way to customize and format label text. If set, overrides [`LabelAttribute`](./labelattribute). Either [`LabelAttribute`](./labelattribute) or [`LabelExpression`](./labelexpression) must be set before rendering; InvalidOperationException is thrown otherwise. |
-| [MultipartMode](multipartmode) { get; set; } | Specifies rendering behavior for multipart geometries. Default is All. |
-| [Placement](placement) { get; set; } | Label placement specifies how labels are placed relatively to feature's geometries. |
-| [Priority](priority) { get; set; } | Indicates priority of this label in case if it overlaps with another label. The label with lower priority is not rendered. Default is 1000. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.labelings/simplelabeling/featurebasedconfiguration) { get; set; } | A callback that is used to configure this labeling before handling a feature. |
+| [FontColor](../../aspose.gis.rendering.labelings/simplelabeling/fontcolor) { get; set; } | Determines color of text. |
+| [FontFamily](../../aspose.gis.rendering.labelings/simplelabeling/fontfamily) { get; set; } | Font family to use to render text. The default is system dependent value. |
+| [FontSize](../../aspose.gis.rendering.labelings/simplelabeling/fontsize) { get; set; } | Size of the text. |
+| [FontStyle](../../aspose.gis.rendering.labelings/simplelabeling/fontstyle) { get; set; } | Style to apply to text. |
+| [GeometryExpression](../../aspose.gis.rendering.labelings/simplelabeling/geometryexpression) { get; set; } | Provides a way to substitute the feature geometry with a one modified for labeling. This callback is invoked the first after [`FeatureBasedConfiguration`](./featurebasedconfiguration) . Default is `null` (use feature geometry as-is). |
+| [HaloColor](../../aspose.gis.rendering.labelings/simplelabeling/halocolor) { get; set; } | Color of the halo (stroke) around text. |
+| [HaloSize](../../aspose.gis.rendering.labelings/simplelabeling/halosize) { get; set; } | Size of the halo (stroke) around text. |
+| [LabelAttribute](../../aspose.gis.rendering.labelings/simplelabeling/labelattribute) { get; set; } | Attribute name to use as a source of labels. Ignored if [`LabelExpression`](./labelexpression) is set. Either [`LabelAttribute`](./labelattribute) or [`LabelExpression`](./labelexpression) must be set before rendering; InvalidOperationException is thrown otherwise. |
+| [LabelExpression](../../aspose.gis.rendering.labelings/simplelabeling/labelexpression) { get; set; } | Provides a way to customize and format label text. If set, overrides [`LabelAttribute`](./labelattribute). Either [`LabelAttribute`](./labelattribute) or [`LabelExpression`](./labelexpression) must be set before rendering; InvalidOperationException is thrown otherwise. |
+| [MultipartMode](../../aspose.gis.rendering.labelings/simplelabeling/multipartmode) { get; set; } | Specifies rendering behavior for multipart geometries. Default is All. |
+| [Placement](../../aspose.gis.rendering.labelings/simplelabeling/placement) { get; set; } | Label placement specifies how labels are placed relatively to feature's geometries. |
+| [Priority](../../aspose.gis.rendering.labelings/simplelabeling/priority) { get; set; } | Indicates priority of this label in case if it overlaps with another label. The label with lower priority is not rendered. Default is 1000. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this instance. |
+| [Clone](../../aspose.gis.rendering.labelings/simplelabeling/clone)() | Clones this instance. |
 
 ### See Also
 

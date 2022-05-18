@@ -18,7 +18,7 @@ public interface IMultiPoint : IGeometryCollection
 
 | Name | Description |
 | --- | --- |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [ToEditable](../../aspose.gis.geometries/imultipoint/toeditable)() | Gets an editable copy of this geometry. |
 
 ### See Also
 

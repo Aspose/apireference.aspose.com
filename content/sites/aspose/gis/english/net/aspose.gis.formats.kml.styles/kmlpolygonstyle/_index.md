@@ -24,8 +24,10 @@ public class KmlPolygonStyle : KmlAbstractColorStyle
 
 | Name | Description |
 | --- | --- |
-| [Fill](fill) { get; set; } | Specifies whether to fill the polygon. Default value is `true`. |
-| [Outline](outline) { get; set; } | Specifies whether to outline the polygon. Default value is `true`. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Specifies the color of the graphic element. Default value White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Specifies the color mode of the graphic element. Default Value: normal. |
+| [Fill](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/fill) { get; set; } | Specifies whether to fill the polygon. Default value is `true`. |
+| [Outline](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/outline) { get; set; } | Specifies whether to outline the polygon. Default value is `true`. |
 
 ### See Also
 

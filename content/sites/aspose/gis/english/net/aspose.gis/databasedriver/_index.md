@@ -18,7 +18,7 @@ public abstract class DatabaseDriver : Driver
 
 | Name | Description |
 | --- | --- |
-| abstract [OpenDataset](opendataset)(IDbConnection) | Opens the dataset. |
+| abstract [OpenDataset](../../aspose.gis/databasedriver/opendataset)(IDbConnection) | Opens the dataset. |
 
 ### See Also
 

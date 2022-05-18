@@ -25,15 +25,15 @@ public class LineLabelPlacement : LabelPlacement
 
 | Name | Description |
 | --- | --- |
-| [Alignment](alignment) { get; set; } | Specifies how the label is aligned with the linear path. Default is Parallel. |
-| [MaxAngleDelta](maxangledelta) { get; set; } | When used with Curved sets the maximum angle in degrees between two subsequent characters in a curved label. Default is 25. |
-| [Offset](offset) { get; set; } | The offset from the linear path. Positive values offset to the left of the line, negative to the right. Default is 0. |
+| [Alignment](../../aspose.gis.rendering.labelings/linelabelplacement/alignment) { get; set; } | Specifies how the label is aligned with the linear path. Default is Parallel. |
+| [MaxAngleDelta](../../aspose.gis.rendering.labelings/linelabelplacement/maxangledelta) { get; set; } | When used with Curved sets the maximum angle in degrees between two subsequent characters in a curved label. Default is 25. |
+| [Offset](../../aspose.gis.rendering.labelings/linelabelplacement/offset) { get; set; } | The offset from the linear path. Positive values offset to the left of the line, negative to the right. Default is 0. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](clone)() | Clones this instance. |
+| override [Clone](../../aspose.gis.rendering.labelings/linelabelplacement/clone)() | Clones this instance. |
 
 ### See Also
 

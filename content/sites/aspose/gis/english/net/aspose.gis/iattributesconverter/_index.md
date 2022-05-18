@@ -18,7 +18,7 @@ public interface IAttributesConverter
 
 | Name | Description |
 | --- | --- |
-| [ModifyAttribute](modifyattribute)(FeatureAttribute, AttributesConverterActions) | Adjusts a [`FeatureAttribute`](../featureattribute) as necessary for the target layer. |
+| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute)(FeatureAttribute, AttributesConverterActions) | Adjusts a [`FeatureAttribute`](../featureattribute) as necessary for the target layer. |
 
 ### See Also
 

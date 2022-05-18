@@ -24,7 +24,7 @@ public class SldImportOptions
 
 | Name | Description |
 | --- | --- |
-| [LoadInternetResources](loadinternetresources) { get; set; } | Determines whether Aspose.GIS is allowed to load sources from Internet. If set to `false`, schemas with absolute URIs that does not start with 'file://' would not be loaded. Default is `false`. |
+| [LoadInternetResources](../../aspose.gis.rendering.sld/sldimportoptions/loadinternetresources) { get; set; } | Determines whether Aspose.GIS is allowed to load sources from Internet. If set to `false`, schemas with absolute URIs that does not start with 'file://' would not be loaded. Default is `false`. |
 
 ### See Also
 

@@ -18,16 +18,16 @@ public abstract class WebTile
 
 | Name | Description |
 | --- | --- |
-| abstract [CellX](cellx) { get; } | The X-Column of a tile. |
-| abstract [CellY](celly) { get; } | The Y-Row of a tile. |
+| abstract [CellX](../../aspose.gis.raster.web/webtile/cellx) { get; } | The X-Column of a tile. |
+| abstract [CellY](../../aspose.gis.raster.web/webtile/celly) { get; } | The Y-Row of a tile. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [AsPath](aspath)() | Presents the tile content as a Url or Path to a file. |
-| abstract [AsRaster](asraster)() | Presents the tile content as a Raster layer. |
-| abstract [GetExtent](getextent)() | Presents a spatial extent of this layer. |
+| abstract [AsPath](../../aspose.gis.raster.web/webtile/aspath)() | Presents the tile content as a Url or Path to a file. |
+| abstract [AsRaster](../../aspose.gis.raster.web/webtile/asraster)() | Presents the tile content as a Raster layer. |
+| abstract [GetExtent](../../aspose.gis.raster.web/webtile/getextent)() | Presents a spatial extent of this layer. |
 
 ### See Also
 

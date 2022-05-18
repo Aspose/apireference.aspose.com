@@ -18,17 +18,17 @@ public class Rule
 
 | Name | Description |
 | --- | --- |
-| [Filter](filter) { get; } | Determines if "filter-rule" should apply symbolizer to the feature. If returns `true` symbolizer is used; otherwise, feature is skipped. |
-| [IsElseRule](iselserule) { get; } | Gets a value indicating whether this rule is "else-rule". |
-| [IsFilterRule](isfilterrule) { get; } | Gets a value indicating whether this rule is "filter-rule". |
-| [Symbolizer](symbolizer) { get; } | Symbolizer to apply to the feature. |
+| [Filter](../../aspose.gis.rendering.symbolizers/rule/filter) { get; } | Determines if "filter-rule" should apply symbolizer to the feature. If returns `true` symbolizer is used; otherwise, feature is skipped. |
+| [IsElseRule](../../aspose.gis.rendering.symbolizers/rule/iselserule) { get; } | Gets a value indicating whether this rule is "else-rule". |
+| [IsFilterRule](../../aspose.gis.rendering.symbolizers/rule/isfilterrule) { get; } | Gets a value indicating whether this rule is "filter-rule". |
+| [Symbolizer](../../aspose.gis.rendering.symbolizers/rule/symbolizer) { get; } | Symbolizer to apply to the feature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateElseRule](createelserule)(VectorSymbolizer) | Creates new rule that applies a symbolizer to feature whenever it doesn't match any filter rule. |
-| static [CreateFilterRule](createfilterrule)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | Creates new rule that applies a symbolizer to feature whenever it passes filter. |
+| static [CreateElseRule](../../aspose.gis.rendering.symbolizers/rule/createelserule)(VectorSymbolizer) | Creates new rule that applies a symbolizer to feature whenever it doesn't match any filter rule. |
+| static [CreateFilterRule](../../aspose.gis.rendering.symbolizers/rule/createfilterrule)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | Creates new rule that applies a symbolizer to feature whenever it passes filter. |
 
 ### See Also
 

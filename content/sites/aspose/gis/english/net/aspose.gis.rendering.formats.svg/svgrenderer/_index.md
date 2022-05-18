@@ -14,6 +14,13 @@ A [`Renderer`](../../aspose.gis.rendering/renderer) that renders [`Map`](../../a
 public class SvgRenderer : Renderer
 ```
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, AbstractPath) | Renders map. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, string) | Renders map. |
+
 ### See Also
 
 * class [Renderer](../../aspose.gis.rendering/renderer)

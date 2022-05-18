@@ -18,22 +18,22 @@ public sealed class FeatureAttributeCollection : IEnumerable<FeatureAttribute>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of attributes in a [`Feature`](../feature). |
-| [IsLocked](islocked) { get; } | Gets a value indicating whether this attribute collection is locked. |
-| [Item](item) { get; set; } | Gets or sets the [`FeatureAttribute`](../featureattribute) at the specified index. |
-| [Item](item) { get; } | Gets or sets the [`FeatureAttribute`](../featureattribute) with a specified name. |
+| [Count](../../aspose.gis/featureattributecollection/count) { get; } | Gets the number of attributes in a [`Feature`](../feature). |
+| [IsLocked](../../aspose.gis/featureattributecollection/islocked) { get; } | Gets a value indicating whether this attribute collection is locked. |
+| [Item](../../aspose.gis/featureattributecollection/item) { get; set; } | Gets or sets the [`FeatureAttribute`](../featureattribute) at the specified index. |
+| [Item](../../aspose.gis/featureattributecollection/item) { get; } | Gets or sets the [`FeatureAttribute`](../featureattribute) with a specified name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(FeatureAttribute) | Adds an attribute to the collection. |
-| [Contains](contains)(string) | Determines whether the attribute collection contains an attribute with the specified name. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the collection. |
-| [IndexOf](indexof)(string) | Searches for the attribute and returns the its zero-based index. |
-| [Lock](lock)() | Locks this attribute collection to prevent further modifications. |
-| [Remove](remove)(int) | Removes the attribute from the collection. |
-| [Remove](remove)(string) | Removes the attribute from the collection. |
+| [Add](../../aspose.gis/featureattributecollection/add)(FeatureAttribute) | Adds an attribute to the collection. |
+| [Contains](../../aspose.gis/featureattributecollection/contains)(string) | Determines whether the attribute collection contains an attribute with the specified name. |
+| [GetEnumerator](../../aspose.gis/featureattributecollection/getenumerator)() | Returns an enumerator that iterates through the collection. |
+| [IndexOf](../../aspose.gis/featureattributecollection/indexof)(string) | Searches for the attribute and returns the its zero-based index. |
+| [Lock](../../aspose.gis/featureattributecollection/lock)() | Locks this attribute collection to prevent further modifications. |
+| [Remove](../../aspose.gis/featureattributecollection/remove)(int) | Removes the attribute from the collection. |
+| [Remove](../../aspose.gis/featureattributecollection/remove)(string) | Removes the attribute from the collection. |
 
 ### See Also
 

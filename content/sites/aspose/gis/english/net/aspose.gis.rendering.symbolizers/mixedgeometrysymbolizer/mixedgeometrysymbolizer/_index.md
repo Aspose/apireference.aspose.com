@@ -8,7 +8,7 @@ url: /net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/mixedgeometry
 ---
 ## MixedGeometrySymbolizer constructor
 
-Creates new instance.
+The default constructor.
 
 ```csharp
 public MixedGeometrySymbolizer()

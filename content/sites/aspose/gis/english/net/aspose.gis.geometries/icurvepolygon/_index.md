@@ -18,14 +18,14 @@ public interface ICurvePolygon : IEquatable<ICurvePolygon>, ISurface
 
 | Name | Description |
 | --- | --- |
-| [ExteriorRing](exteriorring) { get; } | Gets the exterior ring. |
-| [InteriorRingsCount](interiorringscount) { get; } | Gets the number of interior rings. |
+| [ExteriorRing](../../aspose.gis.geometries/icurvepolygon/exteriorring) { get; } | Gets the exterior ring. |
+| [InteriorRingsCount](../../aspose.gis.geometries/icurvepolygon/interiorringscount) { get; } | Gets the number of interior rings. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetInteriorRing](getinteriorring)(int) | Gets the interior ring by its index. |
+| [GetInteriorRing](../../aspose.gis.geometries/icurvepolygon/getinteriorring)(int) | Gets the interior ring by its index. |
 
 ### See Also
 

@@ -24,7 +24,9 @@ public class KmlLineStyle : KmlAbstractColorStyle
 
 | Name | Description |
 | --- | --- |
-| [Width](width) { get; set; } | Width of the line, in pixels. Default Value is '1'. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Specifies the color of the graphic element. Default value White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Specifies the color mode of the graphic element. Default Value: normal. |
+| [Width](../../aspose.gis.formats.kml.styles/kmllinestyle/width) { get; set; } | Width of the line, in pixels. Default Value is '1'. |
 
 ### See Also
 

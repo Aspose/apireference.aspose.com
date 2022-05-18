@@ -19,18 +19,18 @@ public interface IGeometryCollection : IEnumerable<IGeometry>, IEquatable<IGeome
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of geometries in this collection. |
-| [Item](item) { get; } | Gets a [`IGeometry`](../igeometry) at the specified index. |
+| [Count](../../aspose.gis.geometries/igeometrycollection/count) { get; } | Gets the number of geometries in this collection. |
+| [Item](../../aspose.gis.geometries/igeometrycollection/item) { get; } | Gets a [`IGeometry`](../igeometry) at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetPointOnSurface](getpointonsurface)() | Finds a point that is guaranteed to be on one of the surfaces in this collection. |
-| [ReplacePolygonsByLines](replacepolygonsbylines)() | Gets polygons represented as lines of this geometry. |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
-| [ToLinearGeometry](tolineargeometry)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. |
-| [ToLinearGeometry](tolineargeometry)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. |
+| [GetPointOnSurface](../../aspose.gis.geometries/igeometrycollection/getpointonsurface)() | Finds a point that is guaranteed to be on one of the surfaces in this collection. |
+| [ReplacePolygonsByLines](../../aspose.gis.geometries/igeometrycollection/replacepolygonsbylines)() | Gets polygons represented as lines of this geometry. |
+| [ToEditable](../../aspose.gis.geometries/igeometrycollection/toeditable)() | Gets an editable copy of this geometry. |
+| [ToLinearGeometry](../../aspose.gis.geometries/igeometrycollection/tolineargeometry)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. |
+| [ToLinearGeometry](../../aspose.gis.geometries/igeometrycollection/tolineargeometry)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. |
 
 ### See Also
 

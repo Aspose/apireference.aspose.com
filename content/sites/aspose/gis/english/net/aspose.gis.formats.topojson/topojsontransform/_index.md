@@ -24,10 +24,10 @@ public class TopoJsonTransform
 
 | Name | Description |
 | --- | --- |
-| [XScale](xscale) { get; set; } | Scale to apply to X coordinate. |
-| [XTranslate](xtranslate) { get; set; } | Translate to apply to X coordinate. |
-| [YScale](yscale) { get; set; } | Scale to apply to Y coordinate. |
-| [YTranslate](ytranslate) { get; set; } | Translate to apply to Y coordinate. |
+| [XScale](../../aspose.gis.formats.topojson/topojsontransform/xscale) { get; set; } | Scale to apply to X coordinate. |
+| [XTranslate](../../aspose.gis.formats.topojson/topojsontransform/xtranslate) { get; set; } | Translate to apply to X coordinate. |
+| [YScale](../../aspose.gis.formats.topojson/topojsontransform/yscale) { get; set; } | Scale to apply to Y coordinate. |
+| [YTranslate](../../aspose.gis.formats.topojson/topojsontransform/ytranslate) { get; set; } | Translate to apply to Y coordinate. |
 
 ### Remarks
 

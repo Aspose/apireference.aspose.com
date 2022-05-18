@@ -8,7 +8,7 @@ url: /net/aspose.gis.rendering.colorizers/singlebandcolor/singlebandcolor/
 ---
 ## SingleBandColor constructor
 
-Initializes a new instance of the [`SingleBandColor`](../../singlebandcolor) class.
+The default constructor.
 
 ```csharp
 public SingleBandColor()

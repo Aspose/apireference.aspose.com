@@ -18,17 +18,17 @@ public class LabelingRule
 
 | Name | Description |
 | --- | --- |
-| [Filter](filter) { get; } | Determines if "filter-rule" should apply labeling to the feature. If returns `true` labeling is used; otherwise, feature is skipped. |
-| [IsElseRule](iselserule) { get; } | Gets a value indicating whether this rule is "else-rule". |
-| [IsFilterRule](isfilterrule) { get; } | Gets a value indicating whether this rule is "filter-rule". |
-| [Labeling](labeling) { get; } | Labeling to apply to the feature. |
+| [Filter](../../aspose.gis.rendering.labelings/labelingrule/filter) { get; } | Determines if "filter-rule" should apply labeling to the feature. If returns `true` labeling is used; otherwise, feature is skipped. |
+| [IsElseRule](../../aspose.gis.rendering.labelings/labelingrule/iselserule) { get; } | Gets a value indicating whether this rule is "else-rule". |
+| [IsFilterRule](../../aspose.gis.rendering.labelings/labelingrule/isfilterrule) { get; } | Gets a value indicating whether this rule is "filter-rule". |
+| [Labeling](../../aspose.gis.rendering.labelings/labelingrule/labeling) { get; } | Labeling to apply to the feature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateElseRule](createelserule)(Labeling) | Creates new rule that applies a labeling to feature whenever it doesn't match any filter rule. |
-| static [CreateFilterRule](createfilterrule)(Func&lt;Feature, bool&gt;, Labeling) | Creates new rule that applies a labeling to feature whenever it passes filter. |
+| static [CreateElseRule](../../aspose.gis.rendering.labelings/labelingrule/createelserule)(Labeling) | Creates new rule that applies a labeling to feature whenever it doesn't match any filter rule. |
+| static [CreateFilterRule](../../aspose.gis.rendering.labelings/labelingrule/createfilterrule)(Func&lt;Feature, bool&gt;, Labeling) | Creates new rule that applies a labeling to feature whenever it passes filter. |
 
 ### See Also
 

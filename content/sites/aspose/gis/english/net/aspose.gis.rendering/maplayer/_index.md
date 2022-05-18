@@ -18,13 +18,13 @@ public abstract class MapLayer : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Opacity](opacity) { get; set; } | Opacity of the layer. |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | Opacity of the layer. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Dispose](dispose)() | Disposes resources. |
+| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose)() | Disposes resources. |
 
 ### See Also
 

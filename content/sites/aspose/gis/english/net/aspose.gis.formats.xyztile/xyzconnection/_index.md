@@ -24,7 +24,7 @@ public class XyzConnection
 
 | Name | Description |
 | --- | --- |
-| [Url](url) { get; } | Url template. |
+| [Url](../../aspose.gis.formats.xyztile/xyzconnection/url) { get; } | Url template. |
 
 ### See Also
 

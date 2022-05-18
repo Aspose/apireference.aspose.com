@@ -24,15 +24,20 @@ public class CsvOptions : DriverOptions
 
 | Name | Description |
 | --- | --- |
-| [ColumnM](columnm) { get; set; } | Gets or sets a name of column contains M coordinate value. Default is `null`. |
-| [ColumnWkt](columnwkt) { get; set; } | Gets or sets a name of column contains Well-Known Text for representing geometry. Default is `null`. |
-| [ColumnX](columnx) { get; set; } | Gets or sets a name of column contains X coordinate value. Default is `null`. |
-| [ColumnY](columny) { get; set; } | Gets or sets a name of column contains Y coordinate value. Default is `null`. |
-| [ColumnZ](columnz) { get; set; } | Gets or sets a name of column contains Z coordinate value. Default is `null`. |
-| [Delimiter](delimiter) { get; set; } | Gets or sets a character that is used as delimiter to separate values. Default is ','. |
-| [DoubleQuoteEscape](doublequoteescape) { get; set; } | Gets or sets a character that is used as escape letter for double-quotes. Default is '"'. |
-| [HasAttributeNames](hasattributenames) { get; set; } | Determines if a header row with attribute names exists. Default is `true`. |
-| [StartLineNumber](startlinenumber) { get; set; } | Gets or sets a zero-based number of line that will be first when read the data. Default is 0. |
+| [ColumnM](../../aspose.gis.formats.csv/csvoptions/columnm) { get; set; } | Gets or sets a name of column contains M coordinate value. Default is `null`. |
+| [ColumnWkt](../../aspose.gis.formats.csv/csvoptions/columnwkt) { get; set; } | Gets or sets a name of column contains Well-Known Text for representing geometry. Default is `null`. |
+| [ColumnX](../../aspose.gis.formats.csv/csvoptions/columnx) { get; set; } | Gets or sets a name of column contains X coordinate value. Default is `null`. |
+| [ColumnY](../../aspose.gis.formats.csv/csvoptions/columny) { get; set; } | Gets or sets a name of column contains Y coordinate value. Default is `null`. |
+| [ColumnZ](../../aspose.gis.formats.csv/csvoptions/columnz) { get; set; } | Gets or sets a name of column contains Z coordinate value. Default is `null`. |
+| [Delimiter](../../aspose.gis.formats.csv/csvoptions/delimiter) { get; set; } | Gets or sets a character that is used as delimiter to separate values. Default is ','. |
+| [DoubleQuoteEscape](../../aspose.gis.formats.csv/csvoptions/doublequoteescape) { get; set; } | Gets or sets a character that is used as escape letter for double-quotes. Default is '"'. |
+| [HasAttributeNames](../../aspose.gis.formats.csv/csvoptions/hasattributenames) { get; set; } | Determines if a header row with attribute names exists. Default is `true`. |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | A tolerance to use to linearize curve geometries. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to M coordinate when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [StartLineNumber](../../aspose.gis.formats.csv/csvoptions/startlinenumber) { get; set; } | Gets or sets a zero-based number of line that will be first when read the data. Default is 0. |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Determines if geometries should be validated when they are added to the layer. If set to `true`, [`IsValid`](../../aspose.gis.geometries/geometry/isvalid) is called for each geometry when it's added to the layer, and if validation fails ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) is `false`), [`GisException`](../../aspose.gis/gisexception) is thrown. |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to X and Y coordinates when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel) that will be applied to Z coordinate when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact). |
 
 ### See Also
 

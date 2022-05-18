@@ -8,7 +8,7 @@ url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameter
 ---
 ## ProjectedSpatialReferenceSystemParameters constructor
 
-Creates new instance.
+The default constructor.
 
 ```csharp
 public ProjectedSpatialReferenceSystemParameters()

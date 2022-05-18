@@ -8,7 +8,7 @@ url: /net/aspose.gis.raster/rastercellsize/rastercellsize/
 ---
 ## RasterCellSize constructor
 
-Create an instance of [`RasterCellSize`](../../rastercellsize).
+The default constructor.
 
 ```csharp
 public RasterCellSize()

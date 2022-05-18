@@ -24,17 +24,17 @@ public struct RasterExpressionContext : IEquatable<RasterExpressionContext>
 
 | Name | Description |
 | --- | --- |
-| [CellX](cellx) { get; } | Gets or sets column value (x-coordinate). Numbering starts at 0. |
-| [CellY](celly) { get; } | Gets or sets row value (y-coordinate). Numbering starts at 0. |
+| [CellX](../../aspose.gis.raster/rasterexpressioncontext/cellx) { get; } | Gets or sets column value (x-coordinate). Numbering starts at 0. |
+| [CellY](../../aspose.gis.raster/rasterexpressioncontext/celly) { get; } | Gets or sets row value (y-coordinate). Numbering starts at 0. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Indicates whether this instance and a specified object are equal. |
-| [Equals](equals)(RasterExpressionContext) | Indicates whether the current object is equal to another object of the same type. |
-| override [GetHashCode](gethashcode)() | Returns the hash code for this instance. |
-| override [ToString](tostring)() | Returns the fully qualified type name of this instance. |
+| override [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals)(object) | Indicates whether this instance and a specified object are equal. |
+| [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals)(RasterExpressionContext) | Indicates whether the current object is equal to another object of the same type. |
+| override [GetHashCode](../../aspose.gis.raster/rasterexpressioncontext/gethashcode)() | Returns the hash code for this instance. |
+| override [ToString](../../aspose.gis.raster/rasterexpressioncontext/tostring)() | Returns the fully qualified type name of this instance. |
 
 ### See Also
 

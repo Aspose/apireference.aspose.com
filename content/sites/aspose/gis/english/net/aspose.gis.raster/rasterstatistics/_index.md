@@ -18,17 +18,17 @@ public class RasterStatistics
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Number of cells or pixels counted for the summary statistics. |
-| [Max](max) { get; } | Maximum value of counted cells or pixel values. |
-| [Mean](mean) { get; } | Arithmetic mean of all counted cells or pixel values. |
-| [Min](min) { get; } | Minimum value of counted cells or pixel values. |
-| [Sum](sum) { get; } | Sum of all counted cells or pixel values. |
+| [Count](../../aspose.gis.raster/rasterstatistics/count) { get; } | Number of cells or pixels counted for the summary statistics. |
+| [Max](../../aspose.gis.raster/rasterstatistics/max) { get; } | Maximum value of counted cells or pixel values. |
+| [Mean](../../aspose.gis.raster/rasterstatistics/mean) { get; } | Arithmetic mean of all counted cells or pixel values. |
+| [Min](../../aspose.gis.raster/rasterstatistics/min) { get; } | Minimum value of counted cells or pixel values. |
+| [Sum](../../aspose.gis.raster/rasterstatistics/sum) { get; } | Sum of all counted cells or pixel values. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a string that represents the current object. |
+| override [ToString](../../aspose.gis.raster/rasterstatistics/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

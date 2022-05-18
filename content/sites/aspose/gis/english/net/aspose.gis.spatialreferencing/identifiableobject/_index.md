@@ -18,15 +18,15 @@ public class IdentifiableObject
 
 | Name | Description |
 | --- | --- |
-| [EpsgCode](epsgcode) { get; } | If this objects identifier is EPSG identifier - return its code. Otherwise - return -1. |
-| [Identifier](identifier) { get; } | Identifier of this identifiable object. |
-| [Name](name) { get; } | Name of this object. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | If this objects identifier is EPSG identifier - return its code. Otherwise - return -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Identifier of this identifiable object. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Name of this object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a string that represents the current object. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

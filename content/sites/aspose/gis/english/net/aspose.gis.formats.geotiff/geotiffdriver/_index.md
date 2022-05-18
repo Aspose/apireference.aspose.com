@@ -18,15 +18,18 @@ public class GeoTiffDriver : RasterDriver
 
 | Name | Description |
 | --- | --- |
-| override [CanOpenLayers](canopenlayers) { get; } | Gets a value indicating whether this driver can open raster layers. |
+| override [CanOpenLayers](../../aspose.gis.formats.geotiff/geotiffdriver/canopenlayers) { get; } | Gets a value indicating whether this driver can open raster layers. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [OpenLayer](openlayer)(AbstractPath, GeoTiffOptions) | Opens a layer for reading. |
-| override [OpenLayer](openlayer)(AbstractPath, RasterDriverOptions) | Opens the layer for reading. |
-| [OpenLayer](openlayer)(string, GeoTiffOptions) | Opens a layer for reading. |
+| [OpenLayer](../../aspose.gis/rasterdriver/openlayer)(AbstractPath) | Opens the layer for reading. |
+| [OpenLayer](../../aspose.gis/rasterdriver/openlayer)(string) | Opens the layer for reading. |
+| [OpenLayer](../../aspose.gis.formats.geotiff/geotiffdriver/openlayer)(AbstractPath, GeoTiffOptions) | Opens a layer for reading. |
+| override [OpenLayer](../../aspose.gis.formats.geotiff/geotiffdriver/openlayer)(AbstractPath, RasterDriverOptions) | Opens the layer for reading. |
+| [OpenLayer](../../aspose.gis.formats.geotiff/geotiffdriver/openlayer)(string, GeoTiffOptions) | Opens a layer for reading. |
+| [OpenLayer](../../aspose.gis/rasterdriver/openlayer)(string, RasterDriverOptions) | Opens the layer for reading. |
 
 ### See Also
 

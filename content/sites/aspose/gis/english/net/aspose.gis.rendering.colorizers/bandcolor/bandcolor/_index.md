@@ -8,7 +8,7 @@ url: /net/aspose.gis.rendering.colorizers/bandcolor/bandcolor/
 ---
 ## BandColor constructor
 
-Initializes a new instance of the [`BandColor`](../../bandcolor) class.
+The default constructor.
 
 ```csharp
 public BandColor()

@@ -18,27 +18,27 @@ public class ProjectedSpatialReferenceSystemParameters
 
 | Name | Description |
 | --- | --- |
-| [ProjectedSpatialReferenceSystemParameters](projectedspatialreferencesystemparameters)() | Creates new instance. |
+| [ProjectedSpatialReferenceSystemParameters](projectedspatialreferencesystemparameters)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AxisesOrder](axisesorder) { get; set; } | Order of axises. Defaults to XY. |
-| [Base](base) { get; set; } | Base geographic SRS (SRS to which projection is applied). You MUST set this property to not `null` value in order to create valid SRS, this property does not have any default. |
-| [LinearUnit](linearunit) { get; set; } | Units to be used in this SRS. Default is [`Meter`](../unit/meter). |
-| [Name](name) { get; set; } | Name of projected SRS. Default is "Unnamed". |
-| [ProjectionMethodIdentifier](projectionmethodidentifier) { get; set; } | Identifier of projection method. There is no default value, you might set this parameter to not `null` value, if you want attach identifier to projection. If you do so - its up to you to ensure that identifier in consistent projection method name (projection method name will not change when you set this property). |
-| [ProjectionMethodName](projectionmethodname) { get; set; } | Name of projection method. There is no default and you MUST set this parameter to not `null` value, since projected SRS with no projection name is useless. |
-| [XAxis](xaxis) { get; set; } | Axis that describes X (horizontal) dimension. Defaults to axis with east direction. |
-| [YAxis](yaxis) { get; set; } | Axis that describes Y (vertical) dimension. Defaults to axis with north direction. |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder) { get; set; } | Order of axises. Defaults to XY. |
+| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base) { get; set; } | Base geographic SRS (SRS to which projection is applied). You MUST set this property to not `null` value in order to create valid SRS, this property does not have any default. |
+| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit) { get; set; } | Units to be used in this SRS. Default is [`Meter`](../unit/meter). |
+| [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name) { get; set; } | Name of projected SRS. Default is "Unnamed". |
+| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier) { get; set; } | Identifier of projection method. There is no default value, you might set this parameter to not `null` value, if you want attach identifier to projection. If you do so - its up to you to ensure that identifier in consistent projection method name (projection method name will not change when you set this property). |
+| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname) { get; set; } | Name of projection method. There is no default and you MUST set this parameter to not `null` value, since projected SRS with no projection name is useless. |
+| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis) { get; set; } | Axis that describes X (horizontal) dimension. Defaults to axis with east direction. |
+| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis) { get; set; } | Axis that describes Y (vertical) dimension. Defaults to axis with north direction. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddProjectionParameter](addprojectionparameter)(string, double) | Adds projection parameter to this SRS. If parameter with such name already was added - update it. |
-| [GetProjectionParameter](getprojectionparameter)(string) | Gets projection parameter with specified name. |
+| [AddProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter)(string, double) | Adds projection parameter to this SRS. If parameter with such name already was added - update it. |
+| [GetProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter)(string) | Gets projection parameter with specified name. |
 
 ### See Also
 

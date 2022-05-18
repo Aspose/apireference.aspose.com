@@ -18,18 +18,18 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [License](license)() | Initializes a new instance of this class. |
+| [License](license)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](setlicense)(Stream) | Licenses the component. |
-| [SetLicense](setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.gis/license/setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.gis/license/setlicense)(string) | Licenses the component. |
 
 ### Examples
 
-In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains  the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
+In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
 
 ```csharp
 [C#]
@@ -42,13 +42,6 @@ license.SetLicense("MyLicense.lic");
 
 Dim license As license = New license
 License.SetLicense("MyLicense.lic")
-```
-
-the component jar file:
-
-```csharp
-License license = new License();
-license.setLicense("MyLicense.lic");
 ```
 
 ### See Also

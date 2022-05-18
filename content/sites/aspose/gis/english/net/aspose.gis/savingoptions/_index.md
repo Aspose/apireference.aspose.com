@@ -24,9 +24,9 @@ public class SavingOptions
 
 | Name | Description |
 | --- | --- |
-| [AttributesConverter](attributesconverter) { get; set; } | A custom converter for attributes. If not `null`, it is called for each attribute of the source layer and is expected to change it if necessary. |
-| [DriverOptions](driveroptions) { get; set; } | Driver-specific options for the output layer. |
-| [SpatialReferenceSystem](spatialreferencesystem) { get; set; } | Driver-specific options for the output layer. |
+| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter) { get; set; } | A custom converter for attributes. If not `null`, it is called for each attribute of the source layer and is expected to change it if necessary. |
+| [DriverOptions](../../aspose.gis/savingoptions/driveroptions) { get; set; } | Driver-specific options for the output layer. |
+| [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem) { get; set; } | Driver-specific options for the output layer. |
 
 ### See Also
 

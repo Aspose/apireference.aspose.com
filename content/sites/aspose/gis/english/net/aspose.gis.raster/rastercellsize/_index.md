@@ -18,24 +18,24 @@ public class RasterCellSize : IRasterCellSize
 
 | Name | Description |
 | --- | --- |
-| [RasterCellSize](rastercellsize)() | Create an instance of [`RasterCellSize`](../rastercellsize). |
+| [RasterCellSize](rastercellsize)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; } | Compute the pixel height. |
-| [ScaleX](scalex) { get; set; } | Gets or sets x-component of the pixel width (x-scale). |
-| [ScaleY](scaley) { get; set; } | Gets or sets y-component of the pixel height (y-scale), typically negative. |
-| [SkewX](skewx) { get; set; } | Gets or sets x-component of the pixel height (x-skew). |
-| [SkewY](skewy) { get; set; } | Gets or sets y-component of the pixel width (y-skew). |
-| [Width](width) { get; } | Compute the pixel width. |
+| [Height](../../aspose.gis.raster/rastercellsize/height) { get; } | Compute the pixel height. |
+| [ScaleX](../../aspose.gis.raster/rastercellsize/scalex) { get; set; } | Gets or sets x-component of the pixel width (x-scale). |
+| [ScaleY](../../aspose.gis.raster/rastercellsize/scaley) { get; set; } | Gets or sets y-component of the pixel height (y-scale), typically negative. |
+| [SkewX](../../aspose.gis.raster/rastercellsize/skewx) { get; set; } | Gets or sets x-component of the pixel height (x-skew). |
+| [SkewY](../../aspose.gis.raster/rastercellsize/skewy) { get; set; } | Gets or sets y-component of the pixel width (y-skew). |
+| [Width](../../aspose.gis.raster/rastercellsize/width) { get; } | Compute the pixel width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a string that represents the current object. |
+| override [ToString](../../aspose.gis.raster/rastercellsize/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

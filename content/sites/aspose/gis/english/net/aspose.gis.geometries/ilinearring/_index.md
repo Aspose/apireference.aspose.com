@@ -18,8 +18,8 @@ public interface ILinearRing : ILineString
 
 | Name | Description |
 | --- | --- |
-| [IsClockwise](isclockwise)() | Determines if the ring has clockwise winding |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [IsClockwise](../../aspose.gis.geometries/ilinearring/isclockwise)() | Determines if the ring has clockwise winding |
+| [ToEditable](../../aspose.gis.geometries/ilinearring/toeditable)() | Gets an editable copy of this geometry. |
 
 ### See Also
 

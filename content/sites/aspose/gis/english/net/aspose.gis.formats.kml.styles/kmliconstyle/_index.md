@@ -24,10 +24,12 @@ public class KmlIconStyle : KmlAbstractColorStyle
 
 | Name | Description |
 | --- | --- |
-| [Heading](heading) { get; set; } | Direction (North, South, East, West), in decimal degrees. Values range from 0 (North) to 360 degrees. Default Value is '0'. |
-| [HotSpot](hotspot) { get; set; } | Specifies the position of the reference point on the icon that is anchored to the Point specified in the Placemark. Default value is `null` means the HotSpot is missed. |
-| [Resource](resource) { get; set; } | Specifies the resource location. Default value is `null` means the Icon is missed. |
-| [Scale](scale) { get; set; } | Specifies a scale factor that shall be applied to the graphic element. Default Value is '1'. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Specifies the color of the graphic element. Default value White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Specifies the color mode of the graphic element. Default Value: normal. |
+| [Heading](../../aspose.gis.formats.kml.styles/kmliconstyle/heading) { get; set; } | Direction (North, South, East, West), in decimal degrees. Values range from 0 (North) to 360 degrees. Default Value is '0'. |
+| [HotSpot](../../aspose.gis.formats.kml.styles/kmliconstyle/hotspot) { get; set; } | Specifies the position of the reference point on the icon that is anchored to the Point specified in the Placemark. Default value is `null` means the HotSpot is missed. |
+| [Resource](../../aspose.gis.formats.kml.styles/kmliconstyle/resource) { get; set; } | Specifies the resource location. Default value is `null` means the Icon is missed. |
+| [Scale](../../aspose.gis.formats.kml.styles/kmliconstyle/scale) { get; set; } | Specifies a scale factor that shall be applied to the graphic element. Default Value is '1'. |
 
 ### See Also
 

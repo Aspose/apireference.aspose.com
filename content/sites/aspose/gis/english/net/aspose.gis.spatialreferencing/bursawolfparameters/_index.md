@@ -25,25 +25,25 @@ public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 
 | Name | Description |
 | --- | --- |
-| static [Null](null) { get; } | Special value, indicating that parameters are unknown. |
-| [Dx](dx) { get; } | Dx in meters. |
-| [Dy](dy) { get; } | Dy in meters. |
-| [Dz](dz) { get; } | Dz in meters. |
-| [IsNull](isnull) { get; } | Determine whether this instance is [`Null`](./null). |
-| [Rx](rx) { get; } | Rx in seconds. |
-| [Ry](ry) { get; } | Ry in seconds. |
-| [Rz](rz) { get; } | Rz in seconds. |
-| [Scale](scale) { get; } | Scale in parts per million. |
+| static [Null](../../aspose.gis.spatialreferencing/bursawolfparameters/null) { get; } | Special value, indicating that parameters are unknown. |
+| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx) { get; } | Dx in meters. |
+| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy) { get; } | Dy in meters. |
+| [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz) { get; } | Dz in meters. |
+| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull) { get; } | Determine whether this instance is [`Null`](./null). |
+| [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx) { get; } | Rx in seconds. |
+| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry) { get; } | Ry in seconds. |
+| [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz) { get; } | Rz in seconds. |
+| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale) { get; } | Scale in parts per million. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](equals)(BursaWolfParameters) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](equals)(object) | Determines whether the specified object is equal to the current object. |
-| override [GetHashCode](gethashcode)() | Serves as the default hash function. |
-| [operator ==](op_equality) | Implements the operator ==. |
-| [operator !=](op_inequality) | Implements the operator !=. |
+| [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals)(BursaWolfParameters) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals)(object) | Determines whether the specified object is equal to the current object. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode)() | Serves as the default hash function. |
+| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality) | Implements the operator ==. |
+| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality) | Implements the operator !=. |
 
 ### See Also
 

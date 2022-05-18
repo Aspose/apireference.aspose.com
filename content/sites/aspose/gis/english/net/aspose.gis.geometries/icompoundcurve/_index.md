@@ -18,14 +18,14 @@ public interface ICompoundCurve : ICurve, IEnumerable<ICurve>, IEquatable<ICompo
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of curves in the [`ICompoundCurve`](../icompoundcurve). |
-| [Item](item) { get; } | Gets the [`ICurve`](../icurve) at the specified index. |
+| [Count](../../aspose.gis.geometries/icompoundcurve/count) { get; } | Gets the number of curves in the [`ICompoundCurve`](../icompoundcurve). |
+| [Item](../../aspose.gis.geometries/icompoundcurve/item) { get; } | Gets the [`ICurve`](../icurve) at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [ToEditable](../../aspose.gis.geometries/icompoundcurve/toeditable)() | Gets an editable copy of this geometry. |
 
 ### See Also
 

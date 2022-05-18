@@ -26,39 +26,39 @@ public class Extent : IEquatable<Extent>
 
 | Name | Description |
 | --- | --- |
-| [Center](center) { get; } | Center of the extent. |
-| [Height](height) { get; } | Height of the extent. |
-| [IsValid](isvalid) { get; } | Determines whether this [`Extent`](../extent) is valid. |
-| [SpatialReferenceSystem](spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) associated with this extent. Can be `null` if [`SpatialReferenceSystem`](./spatialreferencesystem) is unknown. Use [`GetTransformed`](./gettransformed) in order to transform extent between difference spatial reference systems. |
-| [Width](width) { get; } | Width of the extent. |
-| [XMax](xmax) { get; set; } | Maximum value of the X coordinate. |
-| [XMin](xmin) { get; set; } | Minimum value of the X coordinate. |
-| [YMax](ymax) { get; set; } | Maximum value of the Y coordinate. |
-| [YMin](ymin) { get; set; } | Minimum value of the Y coordinate. |
+| [Center](../../aspose.gis/extent/center) { get; } | Center of the extent. |
+| [Height](../../aspose.gis/extent/height) { get; } | Height of the extent. |
+| [IsValid](../../aspose.gis/extent/isvalid) { get; } | Determines whether this [`Extent`](../extent) is valid. |
+| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) associated with this extent. Can be `null` if [`SpatialReferenceSystem`](./spatialreferencesystem) is unknown. Use [`GetTransformed`](./gettransformed) in order to transform extent between difference spatial reference systems. |
+| [Width](../../aspose.gis/extent/width) { get; } | Width of the extent. |
+| [XMax](../../aspose.gis/extent/xmax) { get; set; } | Maximum value of the X coordinate. |
+| [XMin](../../aspose.gis/extent/xmin) { get; set; } | Minimum value of the X coordinate. |
+| [YMax](../../aspose.gis/extent/ymax) { get; set; } | Maximum value of the Y coordinate. |
+| [YMin](../../aspose.gis/extent/ymin) { get; set; } | Minimum value of the Y coordinate. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this instance. |
-| [Contains](contains)(Extent) | Determines whether this extent contains the argument. |
-| [Contains](contains)(IGeometry) | Determines whether this extent contains the argument. |
-| [Contains](contains)(double, double) | Determines whether this extent contains a coordinate defined by the arguments. |
-| [Equals](equals)(Extent) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](equals)(object) | Determines whether the specified object is equal to the current object. |
-| override [GetHashCode](gethashcode)() | Serves as the default hash function. |
-| [GetTransformed](gettransformed)(SpatialReferenceSystem) | Returns new extent in specified [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) that contains this extent. |
-| [Grow](grow)(Extent) | Grows this extent so it includes the argument. |
-| [Grow](grow)(double, double) | Grows this extent so it includes the specified point. |
-| [GrowX](growx)(double) | Grows this extent along the X axis so it includes the specified value. |
-| [GrowY](growy)(double) | Grows this extent along the Y axis so it includes the specified value. |
-| [Intersects](intersects)(Extent) | Determines whether this extent intersects with the argument. |
-| [Intersects](intersects)(IGeometry) | Determines whether this extent intersects with the argument. |
-| [Normalize](normalize)() | Swaps [`XMin`](./xmin) with [`XMax`](./xmax) if [`Width`](./width) is negative and [`YMin`](./ymin) with [`YMax`](./ymax) if [`Height`](./height) is negative. |
-| [ToPolygon](topolygon)() | Converts this extent to a rectangular polygon that represents it. |
-| override [ToString](tostring)() | Returns a string that represents the current object. |
-| [operator ==](op_equality) | Implements the '==' operator. |
-| [operator !=](op_inequality) | Implements the '!=' operator. |
+| [Clone](../../aspose.gis/extent/clone)() | Clones this instance. |
+| [Contains](../../aspose.gis/extent/contains)(Extent) | Determines whether this extent contains the argument. |
+| [Contains](../../aspose.gis/extent/contains)(IGeometry) | Determines whether this extent contains the argument. |
+| [Contains](../../aspose.gis/extent/contains)(double, double) | Determines whether this extent contains a coordinate defined by the arguments. |
+| [Equals](../../aspose.gis/extent/equals)(Extent) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.gis/extent/equals)(object) | Determines whether the specified object is equal to the current object. |
+| override [GetHashCode](../../aspose.gis/extent/gethashcode)() | Serves as the default hash function. |
+| [GetTransformed](../../aspose.gis/extent/gettransformed)(SpatialReferenceSystem) | Returns new extent in specified [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) that contains this extent. |
+| [Grow](../../aspose.gis/extent/grow)(Extent) | Grows this extent so it includes the argument. |
+| [Grow](../../aspose.gis/extent/grow)(double, double) | Grows this extent so it includes the specified point. |
+| [GrowX](../../aspose.gis/extent/growx)(double) | Grows this extent along the X axis so it includes the specified value. |
+| [GrowY](../../aspose.gis/extent/growy)(double) | Grows this extent along the Y axis so it includes the specified value. |
+| [Intersects](../../aspose.gis/extent/intersects)(Extent) | Determines whether this extent intersects with the argument. |
+| [Intersects](../../aspose.gis/extent/intersects)(IGeometry) | Determines whether this extent intersects with the argument. |
+| [Normalize](../../aspose.gis/extent/normalize)() | Swaps [`XMin`](./xmin) with [`XMax`](./xmax) if [`Width`](./width) is negative and [`YMin`](./ymin) with [`YMax`](./ymax) if [`Height`](./height) is negative. |
+| [ToPolygon](../../aspose.gis/extent/topolygon)() | Converts this extent to a rectangular polygon that represents it. |
+| override [ToString](../../aspose.gis/extent/tostring)() | Returns a string that represents the current object. |
+| [operator ==](../../aspose.gis/extent/op_equality) | Implements the '==' operator. |
+| [operator !=](../../aspose.gis/extent/op_inequality) | Implements the '!=' operator. |
 
 ### See Also
 

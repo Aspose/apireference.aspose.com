@@ -18,7 +18,7 @@ public abstract class FeatureStyle : IFeatureStyle
 
 | Name | Description |
 | --- | --- |
-| static [Null](null) { get; } | Gets an instance of null style. |
+| static [Null](../../aspose.gis/featurestyle/null) { get; } | Gets an instance of null style. |
 
 ### See Also
 

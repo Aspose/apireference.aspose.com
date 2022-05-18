@@ -18,36 +18,36 @@ public abstract class Dataset : IDisposable
 
 | Name | Description |
 | --- | --- |
-| virtual [CanCreateLayers](cancreatelayers) { get; } | Gets a value indicating whether this dataset can create vector layers. |
-| virtual [CanRemoveLayers](canremovelayers) { get; } | Gets a value indicating whether this dataset can remove vector layers. |
-| abstract [Driver](driver) { get; } | Gets the [`Driver`](./driver) that instantiated this dataset. |
-| abstract [LayersCount](layerscount) { get; } | Gets the number of layers in this dataset. |
+| virtual [CanCreateLayers](../../aspose.gis/dataset/cancreatelayers) { get; } | Gets a value indicating whether this dataset can create vector layers. |
+| virtual [CanRemoveLayers](../../aspose.gis/dataset/canremovelayers) { get; } | Gets a value indicating whether this dataset can remove vector layers. |
+| abstract [Driver](../../aspose.gis/dataset/driver) { get; } | Gets the [`Driver`](./driver) that instantiated this dataset. |
+| abstract [LayersCount](../../aspose.gis/dataset/layerscount) { get; } | Gets the number of layers in this dataset. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Create](create)(AbstractPath, FileDriver) | Creates a dataset. |
-| static [Create](create)(string, FileDriver) | Creates a dataset. |
-| static [Create](create)(AbstractPath, FileDriver, DriverOptions) | Creates a dataset. |
-| static [Create](create)(string, FileDriver, DriverOptions) | Creates a dataset. |
-| static [Open](open)(AbstractPath, FileDriver) | Opens the dataset. |
-| static [Open](open)(IDbConnection, DatabaseDriver) | Opens the dataset. |
-| static [Open](open)(string, FileDriver) | Opens the dataset. |
-| static [Open](open)(AbstractPath, FileDriver, DriverOptions) | Opens the dataset. |
-| static [Open](open)(string, FileDriver, DriverOptions) | Opens the dataset. |
-| virtual [CreateLayer](createlayer)() | Creates a new vector layer and opens it for appending. |
-| virtual [CreateLayer](createlayer)(SpatialReferenceSystem) | Creates a new vector layer and opens it for appending. |
-| virtual [CreateLayer](createlayer)(DriverOptions, SpatialReferenceSystem) | Creates a new vector layer and opens it for appending. |
-| virtual [CreateLayer](createlayer)(string, SpatialReferenceSystem) | Creates a new vector layer with specified name and opens it for appending. |
-| virtual [CreateLayer](createlayer)(string, DriverOptions, SpatialReferenceSystem) | Creates a new vector layer with specified name and opens it for appending. |
-| [Dispose](dispose)() | Releases the resources used by the [`Dataset`](../dataset). |
-| abstract [EditLayer](editlayer)(string, DriverOptions, SpatialReferenceSystem) | Opens the layer with specified name for editing. |
-| abstract [GetLayerName](getlayername)(int) | Gets the name of the layer at specified index. |
-| abstract [OpenLayer](openlayer)(string, DriverOptions) | Opens the layer with specified name for reading. |
-| abstract [OpenLayerAt](openlayerat)(int, DriverOptions) | Opens the layer at specified index for reading. |
-| virtual [RemoveLayer](removelayer)(string) | Removes the vector layer with specified name. |
-| virtual [RemoveLayerAt](removelayerat)(int) | Removes the vector layer at specified index. |
+| static [Create](../../aspose.gis/dataset/create)(AbstractPath, FileDriver) | Creates a dataset. |
+| static [Create](../../aspose.gis/dataset/create)(string, FileDriver) | Creates a dataset. |
+| static [Create](../../aspose.gis/dataset/create)(AbstractPath, FileDriver, DriverOptions) | Creates a dataset. |
+| static [Create](../../aspose.gis/dataset/create)(string, FileDriver, DriverOptions) | Creates a dataset. |
+| static [Open](../../aspose.gis/dataset/open)(AbstractPath, FileDriver) | Opens the dataset. |
+| static [Open](../../aspose.gis/dataset/open)(IDbConnection, DatabaseDriver) | Opens the dataset. |
+| static [Open](../../aspose.gis/dataset/open)(string, FileDriver) | Opens the dataset. |
+| static [Open](../../aspose.gis/dataset/open)(AbstractPath, FileDriver, DriverOptions) | Opens the dataset. |
+| static [Open](../../aspose.gis/dataset/open)(string, FileDriver, DriverOptions) | Opens the dataset. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer)() | Creates a new vector layer and opens it for appending. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer)(SpatialReferenceSystem) | Creates a new vector layer and opens it for appending. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer)(DriverOptions, SpatialReferenceSystem) | Creates a new vector layer and opens it for appending. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer)(string, SpatialReferenceSystem) | Creates a new vector layer with specified name and opens it for appending. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer)(string, DriverOptions, SpatialReferenceSystem) | Creates a new vector layer with specified name and opens it for appending. |
+| [Dispose](../../aspose.gis/dataset/dispose)() | Releases the resources used by the [`Dataset`](../dataset). |
+| abstract [EditLayer](../../aspose.gis/dataset/editlayer)(string, DriverOptions, SpatialReferenceSystem) | Opens the layer with specified name for editing. |
+| abstract [GetLayerName](../../aspose.gis/dataset/getlayername)(int) | Gets the name of the layer at specified index. |
+| abstract [OpenLayer](../../aspose.gis/dataset/openlayer)(string, DriverOptions) | Opens the layer with specified name for reading. |
+| abstract [OpenLayerAt](../../aspose.gis/dataset/openlayerat)(int, DriverOptions) | Opens the layer at specified index for reading. |
+| virtual [RemoveLayer](../../aspose.gis/dataset/removelayer)(string) | Removes the vector layer with specified name. |
+| virtual [RemoveLayerAt](../../aspose.gis/dataset/removelayerat)(int) | Removes the vector layer at specified index. |
 
 ### See Also
 

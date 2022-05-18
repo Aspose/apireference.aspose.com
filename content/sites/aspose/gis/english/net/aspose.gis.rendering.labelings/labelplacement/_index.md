@@ -18,7 +18,7 @@ public abstract class LabelPlacement
 
 | Name | Description |
 | --- | --- |
-| abstract [Clone](clone)() | Clones this instance. |
+| abstract [Clone](../../aspose.gis.rendering.labelings/labelplacement/clone)() | Clones this instance. |
 
 ### See Also
 

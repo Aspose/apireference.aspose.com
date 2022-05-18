@@ -24,8 +24,8 @@ public class RasterMapResampling
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Specifies raster height on a map in pixels and columns. If the value is set to 0, the height is automatically computed. The default value is "0". |
-| [Width](width) { get; set; } | Specifies raster width on a map in pixels and columns. If the value is set to 0, the width is automatically computed. The default value is "0". |
+| [Height](../../aspose.gis.rendering/rastermapresampling/height) { get; set; } | Specifies raster height on a map in pixels and columns. If the value is set to 0, the height is automatically computed. The default value is "0". |
+| [Width](../../aspose.gis.rendering/rastermapresampling/width) { get; set; } | Specifies raster width on a map in pixels and columns. If the value is set to 0, the width is automatically computed. The default value is "0". |
 
 ### See Also
 

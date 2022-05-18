@@ -24,20 +24,20 @@ public class Identifier : IEquatable<Identifier>
 
 | Name | Description |
 | --- | --- |
-| [AuthorityName](authorityname) { get; } | A name of authority, which gave an [`AuthorityUniqueIdentifier`](./authorityuniqueidentifier). |
-| [AuthorityUniqueIdentifier](authorityuniqueidentifier) { get; } | A unique way to represent an object within a [`AuthorityName`](./authorityname). |
+| [AuthorityName](../../aspose.gis.spatialreferencing/identifier/authorityname) { get; } | A name of authority, which gave an [`AuthorityUniqueIdentifier`](./authorityuniqueidentifier). |
+| [AuthorityUniqueIdentifier](../../aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier) { get; } | A unique way to represent an object within a [`AuthorityName`](./authorityname). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Epsg](epsg)(int) | Creates new Identifier that represents EPSG identifier with code *epsgCode*. |
-| [Equals](equals)(Identifier) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](equals)(object) | Determines whether the specified object is equal to the current object. |
-| [GetEpsgCode](getepsgcode)() | If this object represents a valid EPSG identifier (e.g. - authority name is "EPSG" and authority unique identifier is integer) - return it. Otherwise - return -1. |
-| override [GetHashCode](gethashcode)() | Serves as the default hash function. |
-| [operator ==](op_equality) | Implements the operator ==. |
-| [operator !=](op_inequality) | Implements the operator !=. |
+| static [Epsg](../../aspose.gis.spatialreferencing/identifier/epsg)(int) | Creates new Identifier that represents EPSG identifier with code *epsgCode*. |
+| [Equals](../../aspose.gis.spatialreferencing/identifier/equals)(Identifier) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.gis.spatialreferencing/identifier/equals)(object) | Determines whether the specified object is equal to the current object. |
+| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode)() | If this object represents a valid EPSG identifier (e.g. - authority name is "EPSG" and authority unique identifier is integer) - return it. Otherwise - return -1. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode)() | Serves as the default hash function. |
+| [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality) | Implements the operator ==. |
+| [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality) | Implements the operator !=. |
 
 ### Examples
 

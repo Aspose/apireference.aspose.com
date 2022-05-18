@@ -18,7 +18,7 @@ public class PostGisDriver : DatabaseDriver
 
 | Name | Description |
 | --- | --- |
-| override [OpenDataset](opendataset)(IDbConnection) | Opens the dataset. |
+| override [OpenDataset](../../aspose.gis.formats.postgis/postgisdriver/opendataset)(IDbConnection) | Opens the dataset. |
 
 ### See Also
 

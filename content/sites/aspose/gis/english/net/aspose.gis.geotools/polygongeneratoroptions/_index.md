@@ -25,17 +25,17 @@ public class PolygonGeneratorOptions
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; set; } | Number of polygons to create. |
-| [MaximumPolygonPoints](maximumpolygonpoints) { get; set; } | The maximum length of the generated polygon. |
-| [MinimumPolygonPoints](minimumpolygonpoints) { get; set; } | The minimum length of the generated polygon. |
-| [Seed](seed) { get; set; } | A number used to calculate the seed value for a sequence of pseudo-random numbers. |
+| [Count](../../aspose.gis.geotools/polygongeneratoroptions/count) { get; set; } | Number of polygons to create. |
+| [MaximumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints) { get; set; } | The maximum length of the generated polygon. |
+| [MinimumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints) { get; set; } | The minimum length of the generated polygon. |
+| [Seed](../../aspose.gis.geotools/polygongeneratoroptions/seed) { get; set; } | A number used to calculate the seed value for a sequence of pseudo-random numbers. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clone object to one another. |
-| override [ToString](tostring)() | Returns a string that represents the current object. |
+| [Clone](../../aspose.gis.geotools/polygongeneratoroptions/clone)() | Clone object to one another. |
+| override [ToString](../../aspose.gis.geotools/polygongeneratoroptions/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

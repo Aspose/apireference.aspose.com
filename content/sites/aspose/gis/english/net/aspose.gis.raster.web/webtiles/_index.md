@@ -18,7 +18,7 @@ public abstract class WebTiles : IDisposable
 
 | Name | Description |
 | --- | --- |
-| abstract [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| abstract [Dispose](../../aspose.gis.raster.web/webtiles/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 
 ### See Also
 

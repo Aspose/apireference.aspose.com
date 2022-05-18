@@ -24,8 +24,8 @@ public class GeometryGenerator : VectorSymbolizer
 
 | Name | Description |
 | --- | --- |
-| [Expression](expression) { get; set; } | Provides a way to substitute the feature geometry with a one modified for a symbolizer. Default is `null` (use feature geometry as-is). |
-| [Symbolizer](symbolizer) { get; set; } | Specifies a symbolizer to apply to the modified geometry. Default is `NullVectorSymbolizer`. |
+| [Expression](../../aspose.gis.rendering.symbolizers/geometrygenerator/expression) { get; set; } | Provides a way to substitute the feature geometry with a one modified for a symbolizer. Default is `null` (use feature geometry as-is). |
+| [Symbolizer](../../aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer) { get; set; } | Specifies a symbolizer to apply to the modified geometry. Default is `NullVectorSymbolizer`. |
 
 ### See Also
 

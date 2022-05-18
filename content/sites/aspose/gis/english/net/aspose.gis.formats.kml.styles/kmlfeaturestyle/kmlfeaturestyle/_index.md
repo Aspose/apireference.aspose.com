@@ -8,7 +8,7 @@ url: /net/aspose.gis.formats.kml.styles/kmlfeaturestyle/kmlfeaturestyle/
 ---
 ## KmlFeatureStyle constructor
 
-Create new instance.
+The default constructor.
 
 ```csharp
 public KmlFeatureStyle()

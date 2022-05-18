@@ -18,10 +18,10 @@ public static class GeoConvert
 
 | Name | Description |
 | --- | --- |
-| static [AsPointText](aspointtext)(IPoint, PointFormats) | Returns the calculated position as a string in the specified format. |
-| static [AsPointText](aspointtext)(double, double, PointFormats) | Returns the calculated position as a string in the specified format. |
-| static [ParsePointText](parsepointtext)(string) | Converts the string that contains сoordinates to IPoint object. |
-| static [TryParsePointText](tryparsepointtext)(string, out IPoint) | Converts the string that contains сoordinates to IPoint object. A return value indicates whether the conversion succeeded or failed. |
+| static [AsPointText](../../aspose.gis/geoconvert/aspointtext)(IPoint, PointFormats) | Returns the calculated position as a string in the specified format. |
+| static [AsPointText](../../aspose.gis/geoconvert/aspointtext)(double, double, PointFormats) | Returns the calculated position as a string in the specified format. |
+| static [ParsePointText](../../aspose.gis/geoconvert/parsepointtext)(string) | Converts the string that contains сoordinates to IPoint object. |
+| static [TryParsePointText](../../aspose.gis/geoconvert/tryparsepointtext)(string, out IPoint) | Converts the string that contains сoordinates to IPoint object. A return value indicates whether the conversion succeeded or failed. |
 
 ### See Also
 

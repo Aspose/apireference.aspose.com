@@ -24,17 +24,21 @@ public class Unit : IdentifiableObject
 
 | Name | Description |
 | --- | --- |
-| static [Degree](degree) { get; } | Get Unit that represents degrees. |
-| static [Meter](meter) { get; } | Get Unit that represents meters. |
-| static [Radian](radian) { get; } | Get Unit that represents radians. |
-| [Factor](factor) { get; } | Factor to meter, if this is length unit, factor to radian, if this is angle unit. |
+| static [Degree](../../aspose.gis.spatialreferencing/unit/degree) { get; } | Get Unit that represents degrees. |
+| static [Meter](../../aspose.gis.spatialreferencing/unit/meter) { get; } | Get Unit that represents meters. |
+| static [Radian](../../aspose.gis.spatialreferencing/unit/radian) { get; } | Get Unit that represents radians. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | If this objects identifier is EPSG identifier - return its code. Otherwise - return -1. |
+| [Factor](../../aspose.gis.spatialreferencing/unit/factor) { get; } | Factor to meter, if this is length unit, factor to radian, if this is angle unit. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Identifier of this identifiable object. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Name of this object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Apply](apply)(double) | Converts argument to unit, described by this instance. |
-| [Deapply](deapply)(double) | Converts argument from unit, described by this instance, to radians or meters. |
+| [Apply](../../aspose.gis.spatialreferencing/unit/apply)(double) | Converts argument to unit, described by this instance. |
+| [Deapply](../../aspose.gis.spatialreferencing/unit/deapply)(double) | Converts argument from unit, described by this instance, to radians or meters. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

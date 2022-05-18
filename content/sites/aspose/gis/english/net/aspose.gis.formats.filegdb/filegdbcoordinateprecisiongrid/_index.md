@@ -24,19 +24,19 @@ public sealed class FileGdbCoordinatePrecisionGrid
 
 | Name | Description |
 | --- | --- |
-| [MOrigin](morigin) { get; set; } | Gets or sets the origin of M coordinate. If set to `null` the default is used. |
-| [MScale](mscale) { get; set; } | Gets or sets the scale of M coordinate. If set to `null` the default is used. |
-| [XOrigin](xorigin) { get; set; } | Gets or sets the origin of X coordinate. If set to `null` the default is used. |
-| [XYScale](xyscale) { get; set; } | Gets or sets the scale of X and Y coordinates. If set to `null` the default is used. |
-| [YOrigin](yorigin) { get; set; } | Gets or sets the origin of Y coordinate. If set to `null` the default is used. |
-| [ZOrigin](zorigin) { get; set; } | Gets or sets the origin of Z coordinate. If set to `null` the default is used. |
-| [ZScale](zscale) { get; set; } | Gets or sets the scale of Z coordinate. If set to `null` the default is used. |
+| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin) { get; set; } | Gets or sets the origin of M coordinate. If set to `null` the default is used. |
+| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale) { get; set; } | Gets or sets the scale of M coordinate. If set to `null` the default is used. |
+| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin) { get; set; } | Gets or sets the origin of X coordinate. If set to `null` the default is used. |
+| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale) { get; set; } | Gets or sets the scale of X and Y coordinates. If set to `null` the default is used. |
+| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin) { get; set; } | Gets or sets the origin of Y coordinate. If set to `null` the default is used. |
+| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin) { get; set; } | Gets or sets the origin of Z coordinate. If set to `null` the default is used. |
+| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale) { get; set; } | Gets or sets the scale of Z coordinate. If set to `null` the default is used. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateFromRectangle](createfromrectangle)(IPoint, IPoint) | Creates new `FileGdbCoordinatePrecisionGrid` such that all values within a rectangle are representable. |
+| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle)(IPoint, IPoint) | Creates new `FileGdbCoordinatePrecisionGrid` such that all values within a rectangle are representable. |
 
 ### Remarks
 

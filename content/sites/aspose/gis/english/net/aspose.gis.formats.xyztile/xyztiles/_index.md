@@ -24,9 +24,9 @@ public sealed class XyzTiles : WebTiles
 
 | Name | Description |
 | --- | --- |
-| override [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetTile](gettile)(int, int, int) | Loads the specified tile. |
-| [GetTiles](gettiles)(int, Extent) | Loads tiles by the spatial bounding box and zoom level. |
+| override [Dispose](../../aspose.gis.formats.xyztile/xyztiles/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetTile](../../aspose.gis.formats.xyztile/xyztiles/gettile)(int, int, int) | Loads the specified tile. |
+| [GetTiles](../../aspose.gis.formats.xyztile/xyztiles/gettiles)(int, Extent) | Loads tiles by the spatial bounding box and zoom level. |
 
 ### See Also
 

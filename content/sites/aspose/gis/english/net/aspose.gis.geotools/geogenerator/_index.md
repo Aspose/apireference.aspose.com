@@ -18,9 +18,9 @@ public static class GeoGenerator
 
 | Name | Description |
 | --- | --- |
-| static [ProduceLines](producelines)(Extent, LineGeneratorOptions) | Creates a new ILineString Enumerator with a given number of random items, all of them within a given extent. |
-| static [ProducePoints](producepoints)(Extent, PointGeneratorOptions) | Creates an array of points belonging to the specified area. |
-| static [ProducePolygons](producepolygons)(Extent, PolygonGeneratorOptions) | Creates a new IPolygon Enumerator with a given number of random items, all of them within a given extent. |
+| static [ProduceLines](../../aspose.gis.geotools/geogenerator/producelines)(Extent, LineGeneratorOptions) | Creates a new ILineString Enumerator with a given number of random items, all of them within a given extent. |
+| static [ProducePoints](../../aspose.gis.geotools/geogenerator/producepoints)(Extent, PointGeneratorOptions) | Creates an array of points belonging to the specified area. |
+| static [ProducePolygons](../../aspose.gis.geotools/geogenerator/producepolygons)(Extent, PolygonGeneratorOptions) | Creates a new IPolygon Enumerator with a given number of random items, all of them within a given extent. |
 
 ### See Also
 

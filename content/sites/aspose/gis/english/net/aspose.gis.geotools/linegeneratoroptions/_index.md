@@ -25,15 +25,15 @@ public class LineGeneratorOptions
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; set; } | Number of lines to create. |
-| [Seed](seed) { get; set; } | A number used to calculate the seed value for a sequence of pseudo-random numbers. |
+| [Count](../../aspose.gis.geotools/linegeneratoroptions/count) { get; set; } | Number of lines to create. |
+| [Seed](../../aspose.gis.geotools/linegeneratoroptions/seed) { get; set; } | A number used to calculate the seed value for a sequence of pseudo-random numbers. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clone object to one another. |
-| override [ToString](tostring)() | Returns a string that represents the current object. |
+| [Clone](../../aspose.gis.geotools/linegeneratoroptions/clone)() | Clone object to one another. |
+| override [ToString](../../aspose.gis.geotools/linegeneratoroptions/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

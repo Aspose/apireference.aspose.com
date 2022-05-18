@@ -25,9 +25,9 @@ public class MarkerCluster : VectorSymbolizer
 
 | Name | Description |
 | --- | --- |
-| [FeaturesBasedConfiguration](featuresbasedconfiguration) { get; set; } | A callback that is used to configure this symbolizer before rendering a cluster center. |
-| [Marker](marker) { get; set; } | Specifies the marker symbolizer in the cluster center. |
-| [NestedMarker](nestedmarker) { get; set; } | Specifies the marker symbolizer for nested cluster points. The default is [`Null`](../vectorsymbolizer/null). |
+| [FeaturesBasedConfiguration](../../aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration) { get; set; } | A callback that is used to configure this symbolizer before rendering a cluster center. |
+| [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker) { get; set; } | Specifies the marker symbolizer in the cluster center. |
+| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker) { get; set; } | Specifies the marker symbolizer for nested cluster points. The default is [`Null`](../vectorsymbolizer/null). |
 
 ### See Also
 

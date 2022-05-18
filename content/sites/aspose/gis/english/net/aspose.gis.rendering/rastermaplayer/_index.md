@@ -24,14 +24,15 @@ public class RasterMapLayer : MapLayer
 
 | Name | Description |
 | --- | --- |
-| [Colorizer](colorizer) { get; set; } | Colorizer to use to render cells of the raster. |
-| [Resampling](resampling) { get; set; } | Specifies warp options of the layer on a map. |
+| [Colorizer](../../aspose.gis.rendering/rastermaplayer/colorizer) { get; set; } | Colorizer to use to render cells of the raster. |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | Opacity of the layer. |
+| [Resampling](../../aspose.gis.rendering/rastermaplayer/resampling) { get; set; } | Specifies warp options of the layer on a map. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Dispose](dispose)() | Disposes resources. |
+| override [Dispose](../../aspose.gis.rendering/rastermaplayer/dispose)() | Disposes resources. |
 
 ### See Also
 

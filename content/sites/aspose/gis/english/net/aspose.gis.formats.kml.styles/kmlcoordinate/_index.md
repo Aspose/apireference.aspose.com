@@ -24,10 +24,10 @@ public class KmlCoordinate
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } | The X component of a point. Default value is 0.5. |
-| [XUnits](xunits) { get; set; } | Units in which the X value is specified. Default value is Fraction. |
-| [Y](y) { get; set; } | The Y component of a point. Default value is 0.5. |
-| [YUnits](yunits) { get; set; } | Units in which the Y value is specified. Default value is Fraction. |
+| [X](../../aspose.gis.formats.kml.styles/kmlcoordinate/x) { get; set; } | The X component of a point. Default value is 0.5. |
+| [XUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/xunits) { get; set; } | Units in which the X value is specified. Default value is Fraction. |
+| [Y](../../aspose.gis.formats.kml.styles/kmlcoordinate/y) { get; set; } | The Y component of a point. Default value is 0.5. |
+| [YUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/yunits) { get; set; } | Units in which the Y value is specified. Default value is Fraction. |
 
 ### See Also
 

@@ -24,16 +24,16 @@ public class RasterRect
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; } | Gets height (row count). |
-| [Width](width) { get; } | Gets width (columns count). |
-| [X](x) { get; } | Gets start column (x-coordinate). |
-| [Y](y) { get; } | Gets start row (y-coordinate). |
+| [Height](../../aspose.gis.raster/rasterrect/height) { get; } | Gets height (row count). |
+| [Width](../../aspose.gis.raster/rasterrect/width) { get; } | Gets width (columns count). |
+| [X](../../aspose.gis.raster/rasterrect/x) { get; } | Gets start column (x-coordinate). |
+| [Y](../../aspose.gis.raster/rasterrect/y) { get; } | Gets start row (y-coordinate). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a string that represents the current object. |
+| override [ToString](../../aspose.gis.raster/rasterrect/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

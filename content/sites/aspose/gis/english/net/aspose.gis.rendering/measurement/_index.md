@@ -24,24 +24,24 @@ public struct Measurement
 
 | Name | Description |
 | --- | --- |
-| static [Zero](zero) { get; } | A measurement of zero length. |
-| [Unit](unit) { get; } | A unit of measurement. |
-| [Value](value) { get; } | A number that indicates the length of the measurement. |
+| static [Zero](../../aspose.gis.rendering/measurement/zero) { get; } | A measurement of zero length. |
+| [Unit](../../aspose.gis.rendering/measurement/unit) { get; } | A unit of measurement. |
+| [Value](../../aspose.gis.rendering/measurement/value) { get; } | A number that indicates the length of the measurement. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Inches](inches)(double) | Returns a new instance of `Measurement` that represents length in inches. |
-| static [MapUnits](mapunits)(double) | Returns a new instance of `Measurement` that represents length in maps Spatial Reference units. |
-| static [MetersOnEarth](metersonearth)(double) | Returns a new instance of `Measurement` that represents length in meters on the Earth. |
-| static [Millimeters](millimeters)(double) | Returns a new instance of `Measurement` that represents length in millimeters. |
-| static [Pixels](pixels)(double) | Returns a new instance of `Measurement` that represents length in pixels. |
-| static [Points](points)(double) | Returns a new instance of `Measurement` that represents length in points. |
-| override [ToString](tostring)() | Returns this instance converted to string. |
-| [operator /](op_division) | Divide measurement by factor. |
-| [implicit operator](op_implicit) | Returns a new instance of `Measurement` that represents length in pixels. |
-| [operator *](op_multiply) | Multiplies measurement by factor. |
+| static [Inches](../../aspose.gis.rendering/measurement/inches)(double) | Returns a new instance of `Measurement` that represents length in inches. |
+| static [MapUnits](../../aspose.gis.rendering/measurement/mapunits)(double) | Returns a new instance of `Measurement` that represents length in maps Spatial Reference units. |
+| static [MetersOnEarth](../../aspose.gis.rendering/measurement/metersonearth)(double) | Returns a new instance of `Measurement` that represents length in meters on the Earth. |
+| static [Millimeters](../../aspose.gis.rendering/measurement/millimeters)(double) | Returns a new instance of `Measurement` that represents length in millimeters. |
+| static [Pixels](../../aspose.gis.rendering/measurement/pixels)(double) | Returns a new instance of `Measurement` that represents length in pixels. |
+| static [Points](../../aspose.gis.rendering/measurement/points)(double) | Returns a new instance of `Measurement` that represents length in points. |
+| override [ToString](../../aspose.gis.rendering/measurement/tostring)() | Returns this instance converted to string. |
+| [operator /](../../aspose.gis.rendering/measurement/op_division) | Divide measurement by factor. |
+| [implicit operator](../../aspose.gis.rendering/measurement/op_implicit) | Returns a new instance of `Measurement` that represents length in pixels. |
+| [operator *](../../aspose.gis.rendering/measurement/op_multiply) | Multiplies measurement by factor. |
 
 ### See Also
 

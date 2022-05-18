@@ -18,7 +18,7 @@ public abstract class RasterColorizer
 
 | Name | Description |
 | --- | --- |
-| static [Null](null) { get; } | The [`NullColorizer`](../nullcolorizer) draws nothing and effectively skips the rendering of cells it is applied to. |
+| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null) { get; } | The [`NullColorizer`](../nullcolorizer) draws nothing and effectively skips the rendering of cells it is applied to. |
 
 ### See Also
 

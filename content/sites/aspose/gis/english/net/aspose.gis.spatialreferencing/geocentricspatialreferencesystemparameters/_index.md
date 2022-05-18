@@ -24,14 +24,14 @@ public class GeocentricSpatialReferenceSystemParameters
 
 | Name | Description |
 | --- | --- |
-| [AxisesOrder](axisesorder) { get; set; } | Order of axises. Defaults to XYZ. |
-| [Datum](datum) { get; set; } | Datum of geocentric SRS. Default is [`Wgs84`](../geographicdatum/wgs84). |
-| [LinearUnit](linearunit) { get; set; } | Units to be used in this SRS. Defaults to [`Meter`](../unit/meter). |
-| [Name](name) { get; set; } | Name of geocentric SRS. Default is "Unnamed". |
-| [PrimeMeridian](primemeridian) { get; set; } | Prime meridian of this SRS. Default is [`Greenwich`](../primemeridian/greenwich). |
-| [XAxis](xaxis) { get; set; } | Axis of geocentric SRS that describes 'X' dimension (axis that points at prime meridian). |
-| [YAxis](yaxis) { get; set; } | Axis of geocentric SRS that describes 'Y' dimension (axis that points to the left or to the right of X axis on equatorial plane). Defaults to axis with East direction. |
-| [ZAxis](zaxis) { get; set; } | Axis of geocentric SRS that describes 'Z' dimension (axis that points to the north or south pole). Defaults to axis with North direction. |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder) { get; set; } | Order of axises. Defaults to XYZ. |
+| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum) { get; set; } | Datum of geocentric SRS. Default is [`Wgs84`](../geographicdatum/wgs84). |
+| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit) { get; set; } | Units to be used in this SRS. Defaults to [`Meter`](../unit/meter). |
+| [Name](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name) { get; set; } | Name of geocentric SRS. Default is "Unnamed". |
+| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian) { get; set; } | Prime meridian of this SRS. Default is [`Greenwich`](../primemeridian/greenwich). |
+| [XAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis) { get; set; } | Axis of geocentric SRS that describes 'X' dimension (axis that points at prime meridian). |
+| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis) { get; set; } | Axis of geocentric SRS that describes 'Y' dimension (axis that points to the left or to the right of X axis on equatorial plane). Defaults to axis with East direction. |
+| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis) { get; set; } | Axis of geocentric SRS that describes 'Z' dimension (axis that points to the north or south pole). Defaults to axis with North direction. |
 
 ### See Also
 

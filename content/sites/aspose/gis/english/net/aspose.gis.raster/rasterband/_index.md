@@ -24,13 +24,13 @@ public class RasterBand : IRasterBand
 
 | Name | Description |
 | --- | --- |
-| [DataType](datatype) { get; } | Gets type of values stored in each cell. |
+| [DataType](../../aspose.gis.raster/rasterband/datatype) { get; } | Gets type of values stored in each cell. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a string that represents the current object. |
+| override [ToString](../../aspose.gis.raster/rasterband/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

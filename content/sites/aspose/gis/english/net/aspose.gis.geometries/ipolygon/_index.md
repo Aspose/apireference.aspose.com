@@ -18,14 +18,14 @@ public interface IPolygon : ICurvePolygon, IEquatable<IPolygon>
 
 | Name | Description |
 | --- | --- |
-| [ExteriorRing](exteriorring) { get; } | Gets the exterior ring. |
+| [ExteriorRing](../../aspose.gis.geometries/ipolygon/exteriorring) { get; } | Gets the exterior ring. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetInteriorRing](getinteriorring)(int) | Gets the interior ring by its index. |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
+| [GetInteriorRing](../../aspose.gis.geometries/ipolygon/getinteriorring)(int) | Gets the interior ring by its index. |
+| [ToEditable](../../aspose.gis.geometries/ipolygon/toeditable)() | Gets an editable copy of this geometry. |
 
 ### See Also
 

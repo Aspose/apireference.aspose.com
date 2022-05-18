@@ -18,10 +18,10 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| static [GetConsumptionCredit](getconsumptioncredit)() | Gets consumption credit |
-| static [GetConsumptionQuantity](getconsumptionquantity)() | Gets consumption file size |
-| static [ResetMeteredKey](resetmeteredkey)() | Removes previously setup license |
-| static [SetMeteredKey](setmeteredkey)(string, string) | Sets metered public and private key |
+| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit)() | Gets consumption credit |
+| static [GetConsumptionQuantity](../../aspose.gis/metered/getconsumptionquantity)() | Gets consumption file size |
+| static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey)() | Removes previously setup license |
+| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey)(string, string) | Sets metered public and private key |
 
 ### Examples
 
@@ -36,12 +36,6 @@ Metered.SetMeteredKey("PublicKey", "PrivateKey");
 [Visual Basic]
 
 Metered.SetMeteredKey("PublicKey", "PrivateKey")
-```
-
-the component jar file:
-
-```csharp
-Metered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
 ### See Also

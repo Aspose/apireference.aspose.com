@@ -24,9 +24,9 @@ public class KmlItemIcon
 
 | Name | Description |
 | --- | --- |
-| [Href](href) { get; set; } | Specifies the resource location as a URL. Default value is `null` means the href is none. |
-| [State](state) { get; set; } | Specifies the current state of the NetworkLink or Folder. Default value is None. |
-| [SubState](substate) { get; set; } | Specifies the additional state of the NetworkLink or Folder. Default value is None. |
+| [Href](../../aspose.gis.formats.kml.styles/kmlitemicon/href) { get; set; } | Specifies the resource location as a URL. Default value is `null` means the href is none. |
+| [State](../../aspose.gis.formats.kml.styles/kmlitemicon/state) { get; set; } | Specifies the current state of the NetworkLink or Folder. Default value is None. |
+| [SubState](../../aspose.gis.formats.kml.styles/kmlitemicon/substate) { get; set; } | Specifies the additional state of the NetworkLink or Folder. Default value is None. |
 
 ### See Also
 

@@ -18,12 +18,12 @@ public interface IRasterCellSize
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; } | Gets the cell or pixel height, always positive. |
-| [ScaleX](scalex) { get; } | Gets x-component of the cell or pixel width (x-scale). |
-| [ScaleY](scaley) { get; } | Gets y-component of the cell or pixel height (y-scale), typically negative. |
-| [SkewX](skewx) { get; } | Gets x-component of the cell or pixel height (x-skew). |
-| [SkewY](skewy) { get; } | Gets y-component of the cell or pixel width (y-skew). |
-| [Width](width) { get; } | Gets the cell or pixel width, always positive. |
+| [Height](../../aspose.gis.raster/irastercellsize/height) { get; } | Gets the cell or pixel height, always positive. |
+| [ScaleX](../../aspose.gis.raster/irastercellsize/scalex) { get; } | Gets x-component of the cell or pixel width (x-scale). |
+| [ScaleY](../../aspose.gis.raster/irastercellsize/scaley) { get; } | Gets y-component of the cell or pixel height (y-scale), typically negative. |
+| [SkewX](../../aspose.gis.raster/irastercellsize/skewx) { get; } | Gets x-component of the cell or pixel height (x-skew). |
+| [SkewY](../../aspose.gis.raster/irastercellsize/skewy) { get; } | Gets y-component of the cell or pixel width (y-skew). |
+| [Width](../../aspose.gis.raster/irastercellsize/width) { get; } | Gets the cell or pixel width, always positive. |
 
 ### See Also
 

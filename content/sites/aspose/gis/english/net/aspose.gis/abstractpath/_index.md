@@ -18,24 +18,24 @@ public abstract class AbstractPath
 
 | Name | Description |
 | --- | --- |
-| abstract [Location](location) { get; } | Gets a string representation of the location of this `AbstractPath`. |
-| abstract [Separator](separator) { get; } | Gets a separator character used to separate directory levels of the [`Location`](./location) string. |
+| abstract [Location](../../aspose.gis/abstractpath/location) { get; } | Gets a string representation of the location of this `AbstractPath`. |
+| abstract [Separator](../../aspose.gis/abstractpath/separator) { get; } | Gets a separator character used to separate directory levels of the [`Location`](./location) string. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromLocalPath](fromlocalpath)(string) | Creates an [`AbstractPath`](../abstractpath) that represents a location on the local filesystem. |
-| static [FromStream](fromstream)(Stream) | Creates an [`AbstractPath`](../abstractpath) from a Stream. |
-| virtual [Combine](combine)(string) | Combines this [`AbstractPath`](../abstractpath) with specified path components. |
-| abstract [Delete](delete)() | Deletes a file pointed to by this path. |
-| [GetExtension](getextension)() | Returns the extension of this [`AbstractPath`](../abstractpath). |
-| [GetFileName](getfilename)() | Returns the file name and extension of this [`AbstractPath`](../abstractpath). |
-| [GetFileNameWithoutExtension](getfilenamewithoutextension)() | Returns the file name of this [`AbstractPath`](../abstractpath) without the extension. |
-| abstract [IsFile](isfile)() | Gets a value indicating whether this path points to an existing file that can be opened for reading. |
-| abstract [ListDirectory](listdirectory)() | Returns paths located inside this `AbstractPath`, if it's a directory. |
-| abstract [Open](open)(FileAccess) | Opens this `AbstractPath` as a file. |
-| virtual [WithExtension](withextension)(string) | Returns a new [`AbstractPath`](../abstractpath) with the file extension changed to the specified value. |
+| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath)(string) | Creates an [`AbstractPath`](../abstractpath) that represents a location on the local filesystem. |
+| static [FromStream](../../aspose.gis/abstractpath/fromstream)(Stream) | Creates an [`AbstractPath`](../abstractpath) from a Stream. |
+| virtual [Combine](../../aspose.gis/abstractpath/combine)(string) | Combines this [`AbstractPath`](../abstractpath) with specified path components. |
+| abstract [Delete](../../aspose.gis/abstractpath/delete)() | Deletes a file pointed to by this path. |
+| [GetExtension](../../aspose.gis/abstractpath/getextension)() | Returns the extension of this [`AbstractPath`](../abstractpath). |
+| [GetFileName](../../aspose.gis/abstractpath/getfilename)() | Returns the file name and extension of this [`AbstractPath`](../abstractpath). |
+| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension)() | Returns the file name of this [`AbstractPath`](../abstractpath) without the extension. |
+| abstract [IsFile](../../aspose.gis/abstractpath/isfile)() | Gets a value indicating whether this path points to an existing file that can be opened for reading. |
+| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory)() | Returns paths located inside this `AbstractPath`, if it's a directory. |
+| abstract [Open](../../aspose.gis/abstractpath/open)(FileAccess) | Opens this `AbstractPath` as a file. |
+| virtual [WithExtension](../../aspose.gis/abstractpath/withextension)(string) | Returns a new [`AbstractPath`](../abstractpath) with the file extension changed to the specified value. |
 
 ### Remarks
 

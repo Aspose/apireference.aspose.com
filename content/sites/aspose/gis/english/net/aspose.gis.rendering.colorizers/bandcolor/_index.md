@@ -18,15 +18,15 @@ public class BandColor
 
 | Name | Description |
 | --- | --- |
-| [BandColor](bandcolor)() | Initializes a new instance of the [`BandColor`](../bandcolor) class. |
+| [BandColor](bandcolor)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BandIndex](bandindex) { get; set; } | Specifies the index of the band. Numbering starts from 0. |
-| [Max](max) { get; set; } | Specifies the max value. |
-| [Min](min) { get; set; } | Specifies the min value. |
+| [BandIndex](../../aspose.gis.rendering.colorizers/bandcolor/bandindex) { get; set; } | Specifies the index of the band. Numbering starts from 0. |
+| [Max](../../aspose.gis.rendering.colorizers/bandcolor/max) { get; set; } | Specifies the max value. |
+| [Min](../../aspose.gis.rendering.colorizers/bandcolor/min) { get; set; } | Specifies the min value. |
 
 ### See Also
 

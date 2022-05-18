@@ -18,10 +18,10 @@ public interface ISurface : IGeometry
 
 | Name | Description |
 | --- | --- |
-| [GetPointOnSurface](getpointonsurface)() | Finds a point that is guaranteed to be on this surface. |
-| [ToEditable](toeditable)() | Gets an editable copy of this geometry. |
-| [ToLinearGeometry](tolineargeometry)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. |
-| [ToLinearGeometry](tolineargeometry)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. |
+| [GetPointOnSurface](../../aspose.gis.geometries/isurface/getpointonsurface)() | Finds a point that is guaranteed to be on this surface. |
+| [ToEditable](../../aspose.gis.geometries/isurface/toeditable)() | Gets an editable copy of this geometry. |
+| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. |
+| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. |
 
 ### See Also
 

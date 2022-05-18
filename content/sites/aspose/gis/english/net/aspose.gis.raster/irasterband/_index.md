@@ -18,7 +18,7 @@ public interface IRasterBand
 
 | Name | Description |
 | --- | --- |
-| [DataType](datatype) { get; } | Gets type of values stored in each cell. |
+| [DataType](../../aspose.gis.raster/irasterband/datatype) { get; } | Gets type of values stored in each cell. |
 
 ### See Also
 

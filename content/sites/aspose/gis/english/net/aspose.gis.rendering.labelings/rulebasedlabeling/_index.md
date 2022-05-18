@@ -24,17 +24,17 @@ public class RuleBasedLabeling : Labeling, IReadOnlyList<LabelingRule>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of rules. |
-| [Item](item) { get; } | Gets the rule at the specified index . |
+| [Count](../../aspose.gis.rendering.labelings/rulebasedlabeling/count) { get; } | Gets the number of rules. |
+| [Item](../../aspose.gis.rendering.labelings/rulebasedlabeling/item) { get; } | Gets the rule at the specified index . |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(LabelingRule) | Adds a rule. |
-| [Add](add)(Func&lt;Feature, bool&gt;, Labeling) | Adds new [`LabelingRule`](../labelingrule). |
-| [AddElseRule](addelserule)(Labeling) | Adds a labeling that will be applied to features that don't match any filtering rule. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through rules. |
+| [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add)(LabelingRule) | Adds a rule. |
+| [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add)(Func&lt;Feature, bool&gt;, Labeling) | Adds new [`LabelingRule`](../labelingrule). |
+| [AddElseRule](../../aspose.gis.rendering.labelings/rulebasedlabeling/addelserule)(Labeling) | Adds a labeling that will be applied to features that don't match any filtering rule. |
+| [GetEnumerator](../../aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator)() | Returns an enumerator that iterates through rules. |
 
 ### See Also
 

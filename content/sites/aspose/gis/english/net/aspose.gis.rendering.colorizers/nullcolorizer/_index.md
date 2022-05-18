@@ -18,7 +18,7 @@ public class NullColorizer : RasterColorizer
 
 | Name | Description |
 | --- | --- |
-| static [Instance](instance) { get; } | Gets an instance of `NullColorizer`. |
+| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance) { get; } | Gets an instance of `NullColorizer`. |
 
 ### See Also
 

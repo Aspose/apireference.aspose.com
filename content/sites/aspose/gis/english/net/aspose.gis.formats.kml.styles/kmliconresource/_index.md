@@ -24,7 +24,7 @@ public class KmlIconResource
 
 | Name | Description |
 | --- | --- |
-| [Href](href) { get; set; } | Specifies the the resource location as a URL. Default value is `null` means the href is none. |
+| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href) { get; set; } | Specifies the the resource location as a URL. Default value is `null` means the href is none. |
 
 ### See Also
 

@@ -18,13 +18,13 @@ public class SingleBandColor : RasterColorizer
 
 | Name | Description |
 | --- | --- |
-| [SingleBandColor](singlebandcolor)() | Initializes a new instance of the [`SingleBandColor`](../singlebandcolor) class. |
+| [SingleBandColor](singlebandcolor)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GrayBand](grayband) { get; set; } | Specifies the gray component for our raster. |
+| [GrayBand](../../aspose.gis.rendering.colorizers/singlebandcolor/grayband) { get; set; } | Specifies the gray component for our raster. |
 
 ### See Also
 

@@ -29,18 +29,19 @@ public class VectorMapLayer : MapLayer
 
 | Name | Description |
 | --- | --- |
-| [FeaturesSequence](featuressequence) { get; } | The features sequence represented by this `VectorMapLayer`. |
-| [Labeling](labeling) { get; set; } | Specifies warp options of the map layer. |
-| [Symbolizer](symbolizer) { get; set; } | Symbolizer to use to render features of the layer. |
+| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence) { get; } | The features sequence represented by this `VectorMapLayer`. |
+| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling) { get; set; } | Specifies warp options of the map layer. |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | Opacity of the layer. |
+| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer) { get; set; } | Symbolizer to use to render features of the layer. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Dispose](dispose)() | Disposes resources. |
-| [ImportSld](importsld)(AbstractPath, SldImportOptions) | Imports style from Styled Layer Descriptor file located at the specified path. |
-| [ImportSld](importsld)(string, SldImportOptions) | Imports style from Styled Layer Descriptor file located at the specified path. |
-| [ImportSldFromString](importsldfromstring)(string, SldImportOptions) | Imports style from the specified Styled Layer Descriptor string. |
+| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose)() | Disposes resources. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld)(AbstractPath, SldImportOptions) | Imports style from Styled Layer Descriptor file located at the specified path. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld)(string, SldImportOptions) | Imports style from Styled Layer Descriptor file located at the specified path. |
+| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring)(string, SldImportOptions) | Imports style from the specified Styled Layer Descriptor string. |
 
 ### See Also
 

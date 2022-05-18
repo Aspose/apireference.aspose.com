@@ -24,10 +24,10 @@ public class KmlBalloonStyle
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](backgroundcolor) { get; set; } | Specifies the background color of the graphic element. Default value is White. |
-| [DisplayMode](displaymode) { get; set; } | Controls whether the balloon is displayed or hidden. Default value is Show |
-| [Text](text) { get; set; } | Specifies the text displayed in the balloon. Default value is `null`. |
-| [TextColor](textcolor) { get; set; } | Specifies the foreground color of the text. Default value is Black. |
+| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/backgroundcolor) { get; set; } | Specifies the background color of the graphic element. Default value is White. |
+| [DisplayMode](../../aspose.gis.formats.kml.styles/kmlballoonstyle/displaymode) { get; set; } | Controls whether the balloon is displayed or hidden. Default value is Show |
+| [Text](../../aspose.gis.formats.kml.styles/kmlballoonstyle/text) { get; set; } | Specifies the text displayed in the balloon. Default value is `null`. |
+| [TextColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor) { get; set; } | Specifies the foreground color of the text. Default value is Black. |
 
 ### See Also
 

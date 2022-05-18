@@ -25,16 +25,16 @@ public class LayeredSymbolizer : VectorSymbolizer, IReadOnlyList<VectorSymbolize
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of symbolizers. |
-| [Item](item) { get; } | Gets the symbolizer at the specified index . |
-| [RenderingOrder](renderingorder) { get; set; } | Determines the rendering order. ByFeatures - render all symbolizers for the feature, then proceed to the next feature. ByLayers - render all features with the symbolizer, then proceed to the next symbolizer. |
+| [Count](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/count) { get; } | Gets the number of symbolizers. |
+| [Item](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/item) { get; } | Gets the symbolizer at the specified index . |
+| [RenderingOrder](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/renderingorder) { get; set; } | Determines the rendering order. ByFeatures - render all symbolizers for the feature, then proceed to the next feature. ByLayers - render all features with the symbolizer, then proceed to the next symbolizer. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(VectorSymbolizer) | Adds the specified symbolizer. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the collection. |
+| [Add](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/add)(VectorSymbolizer) | Adds the specified symbolizer. |
+| [GetEnumerator](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/getenumerator)() | Returns an enumerator that iterates through the collection. |
 
 ### See Also
 

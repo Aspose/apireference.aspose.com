@@ -25,21 +25,21 @@ public class SimpleLine : VectorSymbolizer
 
 | Name | Description |
 | --- | --- |
-| [CapStyle](capstyle) { get; set; } | Specifies how lines are rendered at their ends. |
-| [Color](color) { get; set; } | Specifies the color and transparency given to the line. |
-| [DashOffset](dashoffset) { get; set; } | Specifies the distance from the start of a line to the beginning of a dash pattern. |
-| [DashPattern](dashpattern) { get; set; } | Specifies an array of distances that specifies the lengths of alternating dashes and spaces in dashed lines. |
-| [FeatureBasedConfiguration](featurebasedconfiguration) { get; set; } | A callback that is used to configure this symbolizer before rendering a feature. |
-| [LineJoin](linejoin) { get; set; } | Determines how lines are rendered at intersection of line segments. |
-| [Offset](offset) { get; set; } | Specifies offset from the original line. For positive distance the offset will be at the left side of the input line (relative to the line direction). For a negative distance it will be at the right side. |
-| [Style](style) { get; set; } | Specifies how the symbol lines should be drawn. |
-| [Width](width) { get; set; } | Specifies the width of the line. |
+| [CapStyle](../../aspose.gis.rendering.symbolizers/simpleline/capstyle) { get; set; } | Specifies how lines are rendered at their ends. |
+| [Color](../../aspose.gis.rendering.symbolizers/simpleline/color) { get; set; } | Specifies the color and transparency given to the line. |
+| [DashOffset](../../aspose.gis.rendering.symbolizers/simpleline/dashoffset) { get; set; } | Specifies the distance from the start of a line to the beginning of a dash pattern. |
+| [DashPattern](../../aspose.gis.rendering.symbolizers/simpleline/dashpattern) { get; set; } | Specifies an array of distances that specifies the lengths of alternating dashes and spaces in dashed lines. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simpleline/featurebasedconfiguration) { get; set; } | A callback that is used to configure this symbolizer before rendering a feature. |
+| [LineJoin](../../aspose.gis.rendering.symbolizers/simpleline/linejoin) { get; set; } | Determines how lines are rendered at intersection of line segments. |
+| [Offset](../../aspose.gis.rendering.symbolizers/simpleline/offset) { get; set; } | Specifies offset from the original line. For positive distance the offset will be at the left side of the input line (relative to the line direction). For a negative distance it will be at the right side. |
+| [Style](../../aspose.gis.rendering.symbolizers/simpleline/style) { get; set; } | Specifies how the symbol lines should be drawn. |
+| [Width](../../aspose.gis.rendering.symbolizers/simpleline/width) { get; set; } | Specifies the width of the line. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this instance. |
+| [Clone](../../aspose.gis.rendering.symbolizers/simpleline/clone)() | Clones this instance. |
 
 ### See Also
 

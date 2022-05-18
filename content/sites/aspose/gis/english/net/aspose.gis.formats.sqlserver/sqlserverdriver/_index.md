@@ -18,7 +18,7 @@ public class SqlServerDriver : DatabaseDriver
 
 | Name | Description |
 | --- | --- |
-| override [OpenDataset](opendataset)(IDbConnection) | Opens the dataset. |
+| override [OpenDataset](../../aspose.gis.formats.sqlserver/sqlserverdriver/opendataset)(IDbConnection) | Opens the dataset. |
 
 ### See Also
 

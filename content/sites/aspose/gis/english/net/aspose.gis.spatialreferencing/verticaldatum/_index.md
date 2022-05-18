@@ -24,7 +24,16 @@ public class VerticalDatum : IdentifiableObject
 
 | Name | Description |
 | --- | --- |
-| [DatumType](datumtype) { get; } | An integer number, indicating method that had been used. |
+| [DatumType](../../aspose.gis.spatialreferencing/verticaldatum/datumtype) { get; } | An integer number, indicating method that had been used. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | If this objects identifier is EPSG identifier - return its code. Otherwise - return -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Identifier of this identifiable object. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Name of this object. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

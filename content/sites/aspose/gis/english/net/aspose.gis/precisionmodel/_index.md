@@ -18,21 +18,21 @@ public abstract class PrecisionModel : IEquatable<PrecisionModel>
 
 | Name | Description |
 | --- | --- |
-| static [Exact](exact) { get; } | Returns an exact precision model. According to exact precision model all digits in a double value are significant. |
-| [IsExact](isexact) { get; } | Gets a value indicating whether this precision model is exact. |
-| [IsRounding](isrounding) { get; } | Gets a value indicating whether this precision model is rounding. |
-| abstract [SignificantDigits](significantdigits) { get; } | Gets a number of significant digits in a precision model if it is rounding. |
+| static [Exact](../../aspose.gis/precisionmodel/exact) { get; } | Returns an exact precision model. According to exact precision model all digits in a double value are significant. |
+| [IsExact](../../aspose.gis/precisionmodel/isexact) { get; } | Gets a value indicating whether this precision model is exact. |
+| [IsRounding](../../aspose.gis/precisionmodel/isrounding) { get; } | Gets a value indicating whether this precision model is rounding. |
+| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits) { get; } | Gets a number of significant digits in a precision model if it is rounding. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Rounding](rounding)(int) | Returns a rounding precision model. According to rounding precision model only a limited number of digits are significant. |
-| override [Equals](equals)(object) | Indicates whether the current object is equal to another object of the same type. |
-| [Equals](equals)(PrecisionModel) | Indicates whether the current object is equal to another object of the same type. |
-| override [GetHashCode](gethashcode)() | Serves as the default hash function. |
-| [operator ==](op_equality) | Implements the operator ==. |
-| [operator !=](op_inequality) | Implements the operator !=. |
+| static [Rounding](../../aspose.gis/precisionmodel/rounding)(int) | Returns a rounding precision model. According to rounding precision model only a limited number of digits are significant. |
+| override [Equals](../../aspose.gis/precisionmodel/equals)(object) | Indicates whether the current object is equal to another object of the same type. |
+| [Equals](../../aspose.gis/precisionmodel/equals)(PrecisionModel) | Indicates whether the current object is equal to another object of the same type. |
+| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode)() | Serves as the default hash function. |
+| [operator ==](../../aspose.gis/precisionmodel/op_equality) | Implements the operator ==. |
+| [operator !=](../../aspose.gis/precisionmodel/op_inequality) | Implements the operator !=. |
 
 ### Remarks
 
