@@ -21,7 +21,7 @@ url: /net/aspose.threed.formats/
 | [DracoSaveOptions](./dracosaveoptions) | Save options for Google draco files |
 | [FbxLoadOptions](./fbxloadoptions) | Load options for Fbx format. |
 | [FbxSaveOptions](./fbxsaveoptions) | Save options for Fbx file. |
-| [FileSystemFactory](./filesystemfactory) | [`SaveOptions`](../aspose.threed.formats/saveoptions) and [`LoadOptions`](../aspose.threed.formats/loadoptions) will create a [`LocalFileSystem`](../aspose.threed.utilities/localfilesystem) for default. This can be a security issue in server environment. Use your own [`FileSystemFactory`](../aspose.threed.formats/filesystemfactory) to [`FileSystemFactory`](../aspose.threed.formats/ioconfig/filesystemfactory) to improve server side security. |
+| [FileSystemFactory](./filesystemfactory) | [`SaveOptions`](aspose.threed.formats/saveoptions) and [`LoadOptions`](aspose.threed.formats/loadoptions) will create a [`LocalFileSystem`](aspose.threed.utilities/localfilesystem) for default. This can be a security issue in server environment. Use your own [`FileSystemFactory`](aspose.threed.formats/filesystemfactory) to [`FileSystemFactory`](../aspose.threed.formats/ioconfig/filesystemfactory) to improve server side security. |
 | [GltfLoadOptions](./gltfloadoptions) | Load options for glTF format |
 | [GltfSaveOptions](./gltfsaveoptions) | Save options for glTF format. |
 | [Html5SaveOptions](./html5saveoptions) | Save options for HTML5 |
