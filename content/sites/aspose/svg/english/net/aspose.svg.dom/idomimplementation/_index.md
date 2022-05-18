@@ -18,10 +18,10 @@ public interface IDOMImplementation
 
 | Name | Description |
 | --- | --- |
-| [CreateDocument](createdocument)(string, string, DocumentType) | Creates a DOM Document object of the specified type with its document element. |
-| [CreateDocumentType](createdocumenttype)(string, string, string) | Creates an empty DocumentType node. Entity declarations and notations are not made available. Entity reference expansions and default attribute additions do not occur. |
-| [CreateHTMLDocument](createhtmldocument)(string) | Returns a document, with a basic tree already constructed including a title element, unless the title argument is omitted. |
-| [HasFeature](hasfeature)() | Test if the DOM implementation implements a specific feature and version, as specified in DOM Features. |
+| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument)(string, string, DocumentType) | Creates a DOM Document object of the specified type with its document element. |
+| [CreateDocumentType](../../aspose.svg.dom/idomimplementation/createdocumenttype)(string, string, string) | Creates an empty DocumentType node. Entity declarations and notations are not made available. Entity reference expansions and default attribute additions do not occur. |
+| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument)(string) | Returns a document, with a basic tree already constructed including a title element, unless the title argument is omitted. |
+| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature)() | Test if the DOM implementation implements a specific feature and version, as specified in DOM Features. |
 
 ### See Also
 

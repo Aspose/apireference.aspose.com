@@ -18,22 +18,23 @@ public class DOMTokenList : DOMObject, IEnumerable<string>
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Returns the item in the list by its index, or null if index is greater than or equal to the list's length. |
-| [Length](length) { get; } | Returns an ulong which represents the number of tokens stored in this list. |
-| [Value](value) { get; set; } | Gets or sets the value of a corresponding attribute. |
+| [Item](../../aspose.svg.collections/domtokenlist/item) { get; } | Returns the item in the list by its index, or null if index is greater than or equal to the list's length. |
+| [Length](../../aspose.svg.collections/domtokenlist/length) { get; } | Returns an ulong which represents the number of tokens stored in this list. |
+| [Value](../../aspose.svg.collections/domtokenlist/value) { get; set; } | Gets or sets the value of a corresponding attribute. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(params string[]) | Adds the specified token(s) to the list. |
-| [Contains](contains)(string) | Returns true if the list contains the given token, otherwise false. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the collection. |
-| [Remove](remove)(params string[]) | Removes the specified token(s) from the list. |
-| [Replace](replace)(string, string) | Replaces an existing token with a new token. Does nothing if the first token doesn't exist. |
-| [Supports](supports)(string) | Returns true if a given token is in the associated attribute's supported tokens. |
-| [Toggle](toggle)(string) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
-| [Toggle](toggle)(string, bool?) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
+| [Add](../../aspose.svg.collections/domtokenlist/add)(params string[]) | Adds the specified token(s) to the list. |
+| [Contains](../../aspose.svg.collections/domtokenlist/contains)(string) | Returns true if the list contains the given token, otherwise false. |
+| [GetEnumerator](../../aspose.svg.collections/domtokenlist/getenumerator)() | Returns an enumerator that iterates through the collection. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [Remove](../../aspose.svg.collections/domtokenlist/remove)(params string[]) | Removes the specified token(s) from the list. |
+| [Replace](../../aspose.svg.collections/domtokenlist/replace)(string, string) | Replaces an existing token with a new token. Does nothing if the first token doesn't exist. |
+| [Supports](../../aspose.svg.collections/domtokenlist/supports)(string) | Returns true if a given token is in the associated attribute's supported tokens. |
+| [Toggle](../../aspose.svg.collections/domtokenlist/toggle)(string) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
+| [Toggle](../../aspose.svg.collections/domtokenlist/toggle)(string, bool?) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
 
 ### See Also
 

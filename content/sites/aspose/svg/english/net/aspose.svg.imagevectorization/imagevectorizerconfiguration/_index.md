@@ -24,11 +24,11 @@ public class ImageVectorizerConfiguration
 
 | Name | Description |
 | --- | --- |
-| [ColorsLimit](colorslimit) { get; set; } | Gets or sets the maximum number of colors used to quantize an image. Default value is 25. |
-| [ImageSizeLimit](imagesizelimit) { get; set; } | Gets of sets maximal dimension of image determined by multiplication image width and height. The size of the image will be scaled based on this property. Default value is 1800000. |
-| [PathBuilder](pathbuilder) { get; set; } | Gets or sets the SVG path segments builder. |
-| [TraceSimplifier](tracesimplifier) { get; set; } | Gets or sets the trace simplifier. |
-| [TraceSmoother](tracesmoother) { get; set; } | Gets or sets the trace smoother. |
+| [ColorsLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/colorslimit) { get; set; } | Gets or sets the maximum number of colors used to quantize an image. Default value is 25. |
+| [ImageSizeLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit) { get; set; } | Gets of sets maximal dimension of image determined by multiplication image width and height. The size of the image will be scaled based on this property. Default value is 1800000. |
+| [PathBuilder](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder) { get; set; } | Gets or sets the SVG path segments builder. |
+| [TraceSimplifier](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesimplifier) { get; set; } | Gets or sets the trace simplifier. |
+| [TraceSmoother](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesmoother) { get; set; } | Gets or sets the trace smoother. |
 
 ### See Also
 

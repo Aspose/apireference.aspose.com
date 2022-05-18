@@ -26,17 +26,17 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 
 | Name | Description |
 | --- | --- |
-| [Directory](directory) { get; set; } | Gets or sets the directory. |
-| [Name](name) { get; set; } | Gets or sets the name. |
+| [Directory](../../aspose.svg.io/filecreatestreamprovider/directory) { get; set; } | Gets or sets the directory. |
+| [Name](../../aspose.svg.io/filecreatestreamprovider/name) { get; set; } | Gets or sets the name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetStream](getstream)(string, string) | Provides a stream for rendering. |
-| [GetStream](getstream)(string, string, int) | Provides a stream for rendering. |
-| [ReleaseStream](releasestream)(Stream) | Releases the stream. |
+| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream)(string, string) | Provides a stream for rendering. |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream)(string, string, int) | Provides a stream for rendering. |
+| [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream)(Stream) | Releases the stream. |
 
 ### See Also
 

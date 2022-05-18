@@ -18,8 +18,8 @@ public interface INonDocumentTypeChildNode
 
 | Name | Description |
 | --- | --- |
-| [NextElementSibling](nextelementsibling) { get; } | Returns the first following sibling that is an element, and null otherwise. |
-| [PreviousElementSibling](previouselementsibling) { get; } | Returns the first preceding sibling that is an element, and null otherwise. |
+| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling) { get; } | Returns the first following sibling that is an element, and null otherwise. |
+| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling) { get; } | Returns the first preceding sibling that is an element, and null otherwise. |
 
 ### See Also
 

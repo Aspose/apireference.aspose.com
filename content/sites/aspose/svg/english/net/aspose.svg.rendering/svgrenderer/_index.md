@@ -24,7 +24,13 @@ public class SvgRenderer : Renderer<SVGDocument>
 
 | Name | Description |
 | --- | --- |
-| override [Render](render)(IDevice, TimeSpan, params SVGDocument[]) | Defines method for rendering multiple [`SVGDocument`](../../aspose.svg/svgdocument)s into specific [`IDevice`](../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, SVGDocument) |  |
+| [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, params SVGDocument[]) |  |
+| [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, int, params SVGDocument[]) |  |
+| [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, SVGDocument, int) |  |
+| [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, SVGDocument, TimeSpan) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render)(IDevice, TimeSpan, params SVGDocument[]) | Defines method for rendering multiple [`SVGDocument`](../../aspose.svg/svgdocument)s into specific [`IDevice`](../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
 
 ### See Also
 

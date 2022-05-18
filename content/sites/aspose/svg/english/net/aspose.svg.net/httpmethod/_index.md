@@ -24,22 +24,22 @@ public class HttpMethod : IEquatable<HttpMethod>
 
 | Name | Description |
 | --- | --- |
-| static [Delete](delete) { get; } | Represents an HTTP DELETE protocol method. |
-| static [Get](get) { get; } | Represents an HTTP GET protocol method. |
-| static [Post](post) { get; } | Represents an HTTP POST protocol method. |
-| static [Put](put) { get; } | Represents an HTTP PUT protocol method. |
+| static [Delete](../../aspose.svg.net/httpmethod/delete) { get; } | Represents an HTTP DELETE protocol method. |
+| static [Get](../../aspose.svg.net/httpmethod/get) { get; } | Represents an HTTP GET protocol method. |
+| static [Post](../../aspose.svg.net/httpmethod/post) { get; } | Represents an HTTP POST protocol method. |
+| static [Put](../../aspose.svg.net/httpmethod/put) { get; } | Represents an HTTP PUT protocol method. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](equals)(HttpMethod) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
-| [operator ==](op_equality) | Implements the equality operator. |
-| [explicit operator](op_explicit) | Performs an explicit conversion from String to [`HttpMethod`](../httpmethod). |
-| [operator !=](op_inequality) | Implements the equality operator. |
+| [Equals](../../aspose.svg.net/httpmethod/equals)(HttpMethod) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.svg.net/httpmethod/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode)() | Returns a hash code for this instance. |
+| override [ToString](../../aspose.svg.net/httpmethod/tostring)() | Returns a String that represents this instance. |
+| [operator ==](../../aspose.svg.net/httpmethod/op_equality) | Implements the equality operator. |
+| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit) | Performs an explicit conversion from String to [`HttpMethod`](../httpmethod). |
+| [operator !=](../../aspose.svg.net/httpmethod/op_inequality) | Implements the equality operator. |
 
 ### See Also
 

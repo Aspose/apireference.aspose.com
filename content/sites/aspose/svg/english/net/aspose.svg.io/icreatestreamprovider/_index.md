@@ -18,9 +18,9 @@ public interface ICreateStreamProvider : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [GetStream](getstream)(string, string) | Provides a stream for rendering. |
-| [GetStream](getstream)(string, string, int) | Provides a stream for rendering. |
-| [ReleaseStream](releasestream)(Stream) | Releases the stream. |
+| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream)(string, string) | Provides a stream for rendering. |
+| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream)(string, string, int) | Provides a stream for rendering. |
+| [ReleaseStream](../../aspose.svg.io/icreatestreamprovider/releasestream)(Stream) | Releases the stream. |
 
 ### See Also
 

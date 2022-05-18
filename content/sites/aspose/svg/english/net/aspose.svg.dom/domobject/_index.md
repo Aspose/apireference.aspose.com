@@ -24,7 +24,7 @@ public class DOMObject : INotifyPropertyChanged
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ### See Also
 

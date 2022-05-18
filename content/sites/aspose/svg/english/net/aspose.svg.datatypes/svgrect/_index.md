@@ -18,16 +18,18 @@ public class SVGRect : SVGValueType
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | The Height coordinate of the rectangle, in user units. |
-| [Width](width) { get; set; } | The Width coordinate of the rectangle, in user units. |
-| [X](x) { get; set; } | The X coordinate of the rectangle, in user units. |
-| [Y](y) { get; set; } | The Y coordinate of the rectangle, in user units. |
+| [Height](../../aspose.svg.datatypes/svgrect/height) { get; set; } | The Height coordinate of the rectangle, in user units. |
+| [Width](../../aspose.svg.datatypes/svgrect/width) { get; set; } | The Width coordinate of the rectangle, in user units. |
+| [X](../../aspose.svg.datatypes/svgrect/x) { get; set; } | The X coordinate of the rectangle, in user units. |
+| [Y](../../aspose.svg.datatypes/svgrect/y) { get; set; } | The Y coordinate of the rectangle, in user units. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| override [ToString](../../aspose.svg.datatypes/svgrect/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

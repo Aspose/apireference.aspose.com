@@ -18,8 +18,16 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [CharSet](charset) { get; set; } | Gets or sets the character-set for content. |
-| [MediaType](mediatype) { get; set; } | Gets or sets the media-type for content. |
+| [CharSet](../../aspose.svg.net.headers/contenttypeheadervalue/charset) { get; set; } | Gets or sets the character-set for content. |
+| [MediaType](../../aspose.svg.net.headers/contenttypeheadervalue/mediatype) { get; set; } | Gets or sets the media-type for content. |
+| [Name](../../aspose.svg.net.headers/namevalueheadervalue/name) { get; } | Gets the parameter name. |
+| [Value](../../aspose.svg.net.headers/namevalueheadervalue/value) { get; set; } | Gets or sets the parameter value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

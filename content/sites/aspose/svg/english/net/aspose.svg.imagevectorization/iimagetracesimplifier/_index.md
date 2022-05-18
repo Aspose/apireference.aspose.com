@@ -18,7 +18,7 @@ public interface IImageTraceSimplifier
 
 | Name | Description |
 | --- | --- |
-| [Simplify](simplify)(IEnumerable&lt;PointF&gt;) | Reduces number of points in the trace. |
+| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify)(IEnumerable&lt;PointF&gt;) | Reduces number of points in the trace. |
 
 ### See Also
 

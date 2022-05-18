@@ -25,13 +25,13 @@ public class PathBuilder : IPathBuilder
 
 | Name | Description |
 | --- | --- |
-| [Tension](tension) { get; set; } | The value of the tensions affects how sharply the curve bends at the (interpolated) control points. It must be in the range from 0 to 1. Any higher or lower values will be aligned with the minimum and maximum values of this range, accordingly. |
+| [Tension](../../aspose.svg.imagevectorization/pathbuilder/tension) { get; set; } | The value of the tensions affects how sharply the curve bends at the (interpolated) control points. It must be in the range from 0 to 1. Any higher or lower values will be aligned with the minimum and maximum values of this range, accordingly. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Build](build)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Builds path segments from the list of the trace points. |
+| [Build](../../aspose.svg.imagevectorization/pathbuilder/build)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Builds path segments from the list of the trace points. |
 
 ### See Also
 

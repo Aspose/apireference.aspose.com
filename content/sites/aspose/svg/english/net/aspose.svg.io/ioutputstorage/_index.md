@@ -18,8 +18,8 @@ public interface IOutputStorage
 
 | Name | Description |
 | --- | --- |
-| [CreateStream](createstream)(OutputStreamContext) | Creates the output stream [`OutputStream`](../outputstream). |
-| [ReleaseStream](releasestream)(OutputStream) | Releases the output stream. |
+| [CreateStream](../../aspose.svg.io/ioutputstorage/createstream)(OutputStreamContext) | Creates the output stream [`OutputStream`](../outputstream). |
+| [ReleaseStream](../../aspose.svg.io/ioutputstorage/releasestream)(OutputStream) | Releases the output stream. |
 
 ### See Also
 

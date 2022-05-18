@@ -24,14 +24,28 @@ public class ImageGraphicContext : GraphicContext
 
 | Name | Description |
 | --- | --- |
-| override [TransformationMatrix](transformationmatrix) { get; set; } | Sets or gets transformation matrix. |
+| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing) { get; set; } | Sets or gets character spacing. |
+| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush) { get; set; } | Sets or gets the brush object that is used to fill the interiors of paths. |
+| virtual [Font](../../aspose.svg.rendering/graphiccontext/font) { get; set; } | Sets or gets the true type font object that is used for rendering text. |
+| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize) { get; set; } | Sets or gets text font size. |
+| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle) { get; set; } | Sets or gets text font style. |
+| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap) { get; set; } | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
+| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset) { get; set; } | Sets or gets the phase offset of the current line dash pattern. |
+| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern) { get; set; } | Sets or gets the description of the dash pattern to be used when paths are stroked. |
+| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle) { get; set; } | Sets of gets the style of dashed lines of a stroked path. |
+| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin) { get; set; } | Sets or gets the code specifying the shape of joints between connected segments of a stroked path. |
+| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth) { get; set; } | Sets or gets the thickness of paths to be stroked. |
+| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit) { get; set; } | Sets or gets the maximum length of mitered line joins for stroked paths. This parameter limits the length of "spikes" produced when line segments join at sharp angles. |
+| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush) { get; set; } | Sets or gets the brush object that is used for stroked paths. |
+| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo) { get; } | Gets a [`TextInfo`](../../aspose.svg.rendering/textinfo) object which contains information about rendered text. |
+| override [TransformationMatrix](../../aspose.svg.rendering.image/imagegraphiccontext/transformationmatrix) { get; set; } | Sets or gets transformation matrix. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](clone)() | Creates a new instance of a GdiGraphicContext class with the same property values as an existing instance. |
-| override [Transform](transform)(Matrix) | Modify the current transformation matrix by multiplying the specified matrix. |
+| override [Clone](../../aspose.svg.rendering.image/imagegraphiccontext/clone)() | Creates a new instance of a GdiGraphicContext class with the same property values as an existing instance. |
+| override [Transform](../../aspose.svg.rendering.image/imagegraphiccontext/transform)(Matrix) | Modify the current transformation matrix by multiplying the specified matrix. |
 
 ### See Also
 

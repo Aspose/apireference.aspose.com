@@ -27,8 +27,8 @@ public class Page
 
 | Name | Description |
 | --- | --- |
-| [Margin](margin) { get; set; } | Gets or sets the page margin. |
-| [Size](size) { get; set; } | Gets or sets the page size. |
+| [Margin](../../aspose.svg.drawing/page/margin) { get; set; } | Gets or sets the page margin. |
+| [Size](../../aspose.svg.drawing/page/size) { get; set; } | Gets or sets the page size. |
 
 ### See Also
 

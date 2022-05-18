@@ -18,15 +18,15 @@ public struct GlyphInfo
 
 | Name | Description |
 | --- | --- |
-| [Index](index) { get; } | Gets the index of this glyph in the font. |
-| [Offset](offset) { get; } | Gets the offset to the next glyph in points. |
-| [Width](width) { get; } | Gets the width of the glyph, in points. |
+| [Index](../../aspose.svg.rendering/glyphinfo/index) { get; } | Gets the index of this glyph in the font. |
+| [Offset](../../aspose.svg.rendering/glyphinfo/offset) { get; } | Gets the offset to the next glyph in points. |
+| [Width](../../aspose.svg.rendering/glyphinfo/width) { get; } | Gets the width of the glyph, in points. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

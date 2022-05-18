@@ -18,18 +18,18 @@ public class PageSetup
 
 | Name | Description |
 | --- | --- |
-| [AnyPage](anypage) { get; set; } | Gets or sets all pages configuration in the the page-sequence. |
-| [AtPagePriority](atpagepriority) { get; set; } | Gets or sets [`AtPagePriority`](../atpagepriority) which will determine order of applying page size declarations. By default options will override css `@page` rules . |
-| [FirstPage](firstpage) { get; set; } | Gets or sets the first page configuration. |
-| [LeftPage](leftpage) { get; } | Gets the Odd Page configuration. |
-| [RightPage](rightpage) { get; } | Gets the Even Page configuration. |
-| [Sizing](sizing) { get; set; } | Gets or sets the sizing type. |
+| [AnyPage](../../aspose.svg.rendering/pagesetup/anypage) { get; set; } | Gets or sets all pages configuration in the the page-sequence. |
+| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority) { get; set; } | Gets or sets [`AtPagePriority`](../atpagepriority) which will determine order of applying page size declarations. By default options will override css `@page` rules . |
+| [FirstPage](../../aspose.svg.rendering/pagesetup/firstpage) { get; set; } | Gets or sets the first page configuration. |
+| [LeftPage](../../aspose.svg.rendering/pagesetup/leftpage) { get; } | Gets the Odd Page configuration. |
+| [RightPage](../../aspose.svg.rendering/pagesetup/rightpage) { get; } | Gets the Even Page configuration. |
+| [Sizing](../../aspose.svg.rendering/pagesetup/sizing) { get; set; } | Gets or sets the sizing type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetLeftRightPage](setleftrightpage)(Page, Page) | Sets the Left/Right page configuration. |
+| [SetLeftRightPage](../../aspose.svg.rendering/pagesetup/setleftrightpage)(Page, Page) | Sets the Left/Right page configuration. |
 
 ### See Also
 

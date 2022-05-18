@@ -18,17 +18,17 @@ public interface IParentNode : IElementTraversal
 
 | Name | Description |
 | --- | --- |
-| [ChildElementCount](childelementcount) { get; } | The childElementCount attribute must return the number of children of the context object that are elements. |
-| [Children](children) { get; } | Returns the child elements. |
-| [FirstElementChild](firstelementchild) { get; } | Returns the first child that is an element, and null otherwise. |
-| [LastElementChild](lastelementchild) { get; } | Returns the last child that is an element, and null otherwise. |
+| [ChildElementCount](../../aspose.svg.dom/iparentnode/childelementcount) { get; } | The childElementCount attribute must return the number of children of the context object that are elements. |
+| [Children](../../aspose.svg.dom/iparentnode/children) { get; } | Returns the child elements. |
+| [FirstElementChild](../../aspose.svg.dom/iparentnode/firstelementchild) { get; } | Returns the first child that is an element, and null otherwise. |
+| [LastElementChild](../../aspose.svg.dom/iparentnode/lastelementchild) { get; } | Returns the last child that is an element, and null otherwise. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [QuerySelector](queryselector)(string) | Returns the first element that is a descendant of node that matches selectors. |
-| [QuerySelectorAll](queryselectorall)(string) | Returns all element descendants of node that match selectors. |
+| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector)(string) | Returns the first element that is a descendant of node that matches selectors. |
+| [QuerySelectorAll](../../aspose.svg.dom/iparentnode/queryselectorall)(string) | Returns all element descendants of node that match selectors. |
 
 ### See Also
 

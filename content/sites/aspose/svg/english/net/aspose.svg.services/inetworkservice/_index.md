@@ -18,8 +18,8 @@ public interface INetworkService : IService
 
 | Name | Description |
 | --- | --- |
-| [MessageHandlers](messagehandlers) { get; } | Gets an list of [`MessageHandler`](../../aspose.svg.net/messagehandler) instances to be invoked as an [`RequestMessage`](../../aspose.svg.net/requestmessage) executes. |
-| [UrlResolver](urlresolver) { get; set; } | Gets or sets the URL resolver. |
+| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers) { get; } | Gets an list of [`MessageHandler`](../../aspose.svg.net/messagehandler) instances to be invoked as an [`RequestMessage`](../../aspose.svg.net/requestmessage) executes. |
+| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver) { get; set; } | Gets or sets the URL resolver. |
 
 ### See Also
 

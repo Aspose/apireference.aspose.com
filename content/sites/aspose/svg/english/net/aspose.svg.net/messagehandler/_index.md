@@ -18,13 +18,13 @@ public abstract class MessageHandler
 
 | Name | Description |
 | --- | --- |
-| [Filters](filters) { get; } | Gets the filters list that are corresponding to the specified handler type. |
+| [Filters](../../aspose.svg.net/messagehandler/filters) { get; } | Gets the filters list that are corresponding to the specified handler type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Invoke](invoke)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

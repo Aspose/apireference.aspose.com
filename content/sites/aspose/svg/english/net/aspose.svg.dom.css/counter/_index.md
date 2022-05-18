@@ -18,9 +18,15 @@ public class Counter : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Identifier](identifier) { get; } | This attribute is used for the identifier of the counter. |
-| [ListStyle](liststyle) { get; } | This attribute is used for the style of the list. |
-| [Separator](separator) { get; } | This attribute is used for the separator of the nested counters. |
+| [Identifier](../../aspose.svg.dom.css/counter/identifier) { get; } | This attribute is used for the identifier of the counter. |
+| [ListStyle](../../aspose.svg.dom.css/counter/liststyle) { get; } | This attribute is used for the style of the list. |
+| [Separator](../../aspose.svg.dom.css/counter/separator) { get; } | This attribute is used for the separator of the nested counters. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ### See Also
 

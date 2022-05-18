@@ -24,28 +24,28 @@ public class GraphicContext : ICloneable
 
 | Name | Description |
 | --- | --- |
-| virtual [CharacterSpacing](characterspacing) { get; set; } | Sets or gets character spacing. |
-| virtual [FillBrush](fillbrush) { get; set; } | Sets or gets the brush object that is used to fill the interiors of paths. |
-| virtual [Font](font) { get; set; } | Sets or gets the true type font object that is used for rendering text. |
-| virtual [FontSize](fontsize) { get; set; } | Sets or gets text font size. |
-| virtual [FontStyle](fontstyle) { get; set; } | Sets or gets text font style. |
-| virtual [LineCap](linecap) { get; set; } | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
-| virtual [LineDashOffset](linedashoffset) { get; set; } | Sets or gets the phase offset of the current line dash pattern. |
-| virtual [LineDashPattern](linedashpattern) { get; set; } | Sets or gets the description of the dash pattern to be used when paths are stroked. |
-| virtual [LineDashStyle](linedashstyle) { get; set; } | Sets of gets the style of dashed lines of a stroked path. |
-| virtual [LineJoin](linejoin) { get; set; } | Sets or gets the code specifying the shape of joints between connected segments of a stroked path. |
-| virtual [LineWidth](linewidth) { get; set; } | Sets or gets the thickness of paths to be stroked. |
-| virtual [MiterLimit](miterlimit) { get; set; } | Sets or gets the maximum length of mitered line joins for stroked paths. This parameter limits the length of "spikes" produced when line segments join at sharp angles. |
-| virtual [StrokeBrush](strokebrush) { get; set; } | Sets or gets the brush object that is used for stroked paths. |
-| virtual [TextInfo](textinfo) { get; } | Gets a [`TextInfo`](../textinfo) object which contains information about rendered text. |
-| virtual [TransformationMatrix](transformationmatrix) { get; set; } | Sets or gets transformation matrix. |
+| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing) { get; set; } | Sets or gets character spacing. |
+| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush) { get; set; } | Sets or gets the brush object that is used to fill the interiors of paths. |
+| virtual [Font](../../aspose.svg.rendering/graphiccontext/font) { get; set; } | Sets or gets the true type font object that is used for rendering text. |
+| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize) { get; set; } | Sets or gets text font size. |
+| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle) { get; set; } | Sets or gets text font style. |
+| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap) { get; set; } | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
+| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset) { get; set; } | Sets or gets the phase offset of the current line dash pattern. |
+| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern) { get; set; } | Sets or gets the description of the dash pattern to be used when paths are stroked. |
+| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle) { get; set; } | Sets of gets the style of dashed lines of a stroked path. |
+| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin) { get; set; } | Sets or gets the code specifying the shape of joints between connected segments of a stroked path. |
+| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth) { get; set; } | Sets or gets the thickness of paths to be stroked. |
+| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit) { get; set; } | Sets or gets the maximum length of mitered line joins for stroked paths. This parameter limits the length of "spikes" produced when line segments join at sharp angles. |
+| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush) { get; set; } | Sets or gets the brush object that is used for stroked paths. |
+| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo) { get; } | Gets a [`TextInfo`](../textinfo) object which contains information about rendered text. |
+| virtual [TransformationMatrix](../../aspose.svg.rendering/graphiccontext/transformationmatrix) { get; set; } | Sets or gets transformation matrix. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Clone](clone)() | Creates a new instance of a GraphicContext class with the same property values as an existing instance. |
-| virtual [Transform](transform)(Matrix) | Modify the current transformation matrix by multiplying the specified matrix. |
+| virtual [Clone](../../aspose.svg.rendering/graphiccontext/clone)() | Creates a new instance of a GraphicContext class with the same property values as an existing instance. |
+| virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform)(Matrix) | Modify the current transformation matrix by multiplying the specified matrix. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class OutputStreamContext
 
 | Name | Description |
 | --- | --- |
-| [Uri](uri) { get; } | Gets the original URI of the saved resource. |
+| [Uri](../../aspose.svg.io/outputstreamcontext/uri) { get; } | Gets the original URI of the saved resource. |
 
 ### See Also
 

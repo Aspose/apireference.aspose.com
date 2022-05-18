@@ -18,8 +18,8 @@ public interface IFileList : IEnumerable<IFile>
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Returns the indexth file in the list. |
-| [Length](length) { get; } | Return length for list of files. |
+| [Item](../../aspose.svg.io/ifilelist/item) { get; } | Returns the indexth file in the list. |
+| [Length](../../aspose.svg.io/ifilelist/length) { get; } | Return length for list of files. |
 
 ### See Also
 

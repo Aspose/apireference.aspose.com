@@ -25,20 +25,20 @@ public class RequestMessage : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Content](content) { get; set; } | Gets or sets the request content. |
-| [CookieContainer](cookiecontainer) { get; set; } | Gets or sets the cookie container used to store server cookies by the handler. |
-| [Credentials](credentials) { get; set; } | Gets or sets authentication information for the request. |
-| [Headers](headers) { get; } | Gets the [`RequestHeaders`](../requestheaders). |
-| [Method](method) { get; set; } | Gets or sets the [`HttpMethod`](../httpmethod). |
-| [PreAuthenticate](preauthenticate) { get; set; } | Gets or sets a value that indicates whether to send an Authorization header with the request. |
-| [RequestUri](requesturi) { get; set; } | Gets or sets the request URI. |
-| [Timeout](timeout) { get; set; } | The number of milliseconds to wait before the request times out. The default value is 100,000 milliseconds (100 seconds). |
+| [Content](../../aspose.svg.net/requestmessage/content) { get; set; } | Gets or sets the request content. |
+| [CookieContainer](../../aspose.svg.net/requestmessage/cookiecontainer) { get; set; } | Gets or sets the cookie container used to store server cookies by the handler. |
+| [Credentials](../../aspose.svg.net/requestmessage/credentials) { get; set; } | Gets or sets authentication information for the request. |
+| [Headers](../../aspose.svg.net/requestmessage/headers) { get; } | Gets the [`RequestHeaders`](../requestheaders). |
+| [Method](../../aspose.svg.net/requestmessage/method) { get; set; } | Gets or sets the [`HttpMethod`](../httpmethod). |
+| [PreAuthenticate](../../aspose.svg.net/requestmessage/preauthenticate) { get; set; } | Gets or sets a value that indicates whether to send an Authorization header with the request. |
+| [RequestUri](../../aspose.svg.net/requestmessage/requesturi) { get; set; } | Gets or sets the request URI. |
+| [Timeout](../../aspose.svg.net/requestmessage/timeout) { get; set; } | The number of milliseconds to wait before the request times out. The default value is 100,000 milliseconds (100 seconds). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [Dispose](../../aspose.svg.net/requestmessage/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 
 ### See Also
 

@@ -14,11 +14,20 @@ Used for attributes whose value must be a constant from a particular enumeration
 public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue`1/animval) { get; } |  |
+| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue`1/baseval) { get; set; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

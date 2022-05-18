@@ -14,11 +14,20 @@ Used for the various attributes which specify a set of transformations, such as 
 public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue`1/animval) { get; } |  |
+| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue`1/baseval) { get; set; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedtransformlist/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

@@ -25,14 +25,14 @@ public class LocalFileSystemStorage : IOutputStorage
 
 | Name | Description |
 | --- | --- |
-| [OutputDirectory](outputdirectory) { get; set; } | Gets or sets the output directory. |
+| [OutputDirectory](../../aspose.svg.io/localfilesystemstorage/outputdirectory) { get; set; } | Gets or sets the output directory. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [CreateStream](createstream)(OutputStreamContext) | Creates the output file stream [`OutputStream`](../outputstream). |
-| virtual [ReleaseStream](releasestream)(OutputStream) | Releases the output file stream. |
+| virtual [CreateStream](../../aspose.svg.io/localfilesystemstorage/createstream)(OutputStreamContext) | Creates the output file stream [`OutputStream`](../outputstream). |
+| virtual [ReleaseStream](../../aspose.svg.io/localfilesystemstorage/releasestream)(OutputStream) | Releases the output file stream. |
 
 ### See Also
 

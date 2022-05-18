@@ -21,11 +21,29 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 | [SVGTransformList](svgtransformlist)() | Initializes a new instance of the [`SVGTransformList`](../svgtransformlist) class. |
 | [SVGTransformList](svgtransformlist)(IEnumerable&lt;SVGTransform&gt;) | Initializes a new instance of the [`SVGTransformList`](../svgtransformlist) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Item](../../aspose.svg.collections/svglistbase`1/item) { get; set; } |  |
+| [Length](../../aspose.svg.collections/svglistbase`1/length) { get; } |  |
+| [NumberOfItems](../../aspose.svg.collections/svglistbase`1/numberofitems) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [AppendItem](../../aspose.svg.collections/svglistbase`1/appenditem)(SVGTransform) |  |
+| [Clear](../../aspose.svg.collections/svglistbase`1/clear)() |  |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() |  |
+| [GetItem](../../aspose.svg.collections/svglistbase`1/getitem)(ulong) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(SVGTransform) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(SVGTransform, ulong) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase`1/removeitem)(ulong) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase`1/replaceitem)(SVGTransform, ulong) |  |
+| override [ToString](../../aspose.svg.datatypes/svgtransformlist/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

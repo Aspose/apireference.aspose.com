@@ -14,11 +14,20 @@ Used for attributes which take a list of numbers and which can be animated.
 public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue`1/animval) { get; } |  |
+| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue`1/baseval) { get; set; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| override [ToString](../../aspose.svg.datatypes/svganimatednumberlist/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

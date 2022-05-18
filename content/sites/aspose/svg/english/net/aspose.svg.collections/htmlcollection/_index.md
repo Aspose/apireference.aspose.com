@@ -18,16 +18,16 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| abstract [Item](item) { get; } | Returns the index-th item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. |
-| abstract [Length](length) { get; } | The number of nodes in the list. |
+| abstract [Item](../../aspose.svg.collections/htmlcollection/item) { get; } | Returns the index-th item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. |
+| abstract [Length](../../aspose.svg.collections/htmlcollection/length) { get; } | The number of nodes in the list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [GetEnumerator](getenumerator)() | Gets the enumerator. |
-| override [GetPlatformType](getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
-| [NamedItem](nameditem)(string) | Returns the item in the collection matched specified name. |
+| abstract [GetEnumerator](../../aspose.svg.collections/htmlcollection/getenumerator)() | Gets the enumerator. |
+| override [GetPlatformType](../../aspose.svg.collections/htmlcollection/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [NamedItem](../../aspose.svg.collections/htmlcollection/nameditem)(string) | Returns the item in the collection matched specified name. |
 
 ### See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions>
+title: DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions
 second_title: Aspose.SVG for .NET API Reference
 description: 
 type: docs
@@ -26,7 +26,7 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [PageWritingStrategy](pagewritingstrategy) { get; set; } | Gets or sets the page writing strategy. |
+| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy) { get; set; } | Gets or sets the page writing strategy. |
 
 ### See Also
 

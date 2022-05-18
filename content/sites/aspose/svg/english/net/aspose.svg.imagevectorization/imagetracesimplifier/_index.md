@@ -25,13 +25,13 @@ public class ImageTraceSimplifier : IImageTraceSimplifier
 
 | Name | Description |
 | --- | --- |
-| [Tolerance](tolerance) { get; set; } | The value of the tolerance determines the maximum error tolerance allowed for an point to be eliminated from trace. It must be in the range from 0 to 4. Any higher or lower values will be aligned with the minimum and maximum values of this range, accordingly. The default value is 0.3. |
+| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance) { get; set; } | The value of the tolerance determines the maximum error tolerance allowed for an point to be eliminated from trace. It must be in the range from 0 to 4. Any higher or lower values will be aligned with the minimum and maximum values of this range, accordingly. The default value is 0.3. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Simplify](simplify)(IEnumerable&lt;PointF&gt;) | Reduces the number of points it the list of the trace points. |
+| [Simplify](../../aspose.svg.imagevectorization/imagetracesimplifier/simplify)(IEnumerable&lt;PointF&gt;) | Reduces the number of points it the list of the trace points. |
 
 ### See Also
 

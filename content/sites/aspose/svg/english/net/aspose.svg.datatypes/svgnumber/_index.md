@@ -18,13 +18,15 @@ public class SVGNumber : SVGValueType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | The value of the given attribute. |
+| [Value](../../aspose.svg.datatypes/svgnumber/value) { get; set; } | The value of the given attribute. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

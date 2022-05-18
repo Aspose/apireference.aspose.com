@@ -25,27 +25,28 @@ public class Url : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Hash](hash) { get; set; } | Gets or sets a string representation for the specified URL hash segment. |
-| [Host](host) { get; set; } | Gets or sets a string representation for the specified URL host. |
-| [Hostname](hostname) { get; set; } | Gets or sets a string representation for the specified URL hostname. |
-| [Href](href) { get; set; } | Gets or sets a serialized representation for the specified URL instance. |
-| [Origin](origin) { get; } | Gets a string representation for the specified URL origin. |
-| [Password](password) { get; set; } | Gets or sets a string representation for the specified URL password. |
-| [Pathname](pathname) { get; set; } | Gets or sets a string representation for the specified URL path. |
-| [Port](port) { get; set; } | Gets or sets a string representation for the specified URL port. |
-| [Protocol](protocol) { get; set; } | Gets or sets a string representation for the specified URL schema. |
-| [Search](search) { get; set; } | Gets or sets a string representation for the specified URL search segment. |
-| [SearchParams](searchparams) { get; } | Gets an associated [`IUrlSearchParams`](../iurlsearchparams) object. |
-| [Username](username) { get; set; } | Gets or sets a string representation for the specified URL username. |
+| [Hash](../../aspose.svg/url/hash) { get; set; } | Gets or sets a string representation for the specified URL hash segment. |
+| [Host](../../aspose.svg/url/host) { get; set; } | Gets or sets a string representation for the specified URL host. |
+| [Hostname](../../aspose.svg/url/hostname) { get; set; } | Gets or sets a string representation for the specified URL hostname. |
+| [Href](../../aspose.svg/url/href) { get; set; } | Gets or sets a serialized representation for the specified URL instance. |
+| [Origin](../../aspose.svg/url/origin) { get; } | Gets a string representation for the specified URL origin. |
+| [Password](../../aspose.svg/url/password) { get; set; } | Gets or sets a string representation for the specified URL password. |
+| [Pathname](../../aspose.svg/url/pathname) { get; set; } | Gets or sets a string representation for the specified URL path. |
+| [Port](../../aspose.svg/url/port) { get; set; } | Gets or sets a string representation for the specified URL port. |
+| [Protocol](../../aspose.svg/url/protocol) { get; set; } | Gets or sets a string representation for the specified URL schema. |
+| [Search](../../aspose.svg/url/search) { get; set; } | Gets or sets a string representation for the specified URL search segment. |
+| [SearchParams](../../aspose.svg/url/searchparams) { get; } | Gets an associated [`IUrlSearchParams`](../iurlsearchparams) object. |
+| [Username](../../aspose.svg/url/username) { get; set; } | Gets or sets a string representation for the specified URL username. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| [ToJson](tojson)() | Returns a String that represents this instance. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| override [Equals](../../aspose.svg/url/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| override [GetHashCode](../../aspose.svg/url/gethashcode)() | Returns a hash code for this instance. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [ToJson](../../aspose.svg/url/tojson)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.svg/url/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

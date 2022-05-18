@@ -1,5 +1,5 @@
 ---
-title: Device<TGraphicContext,TRenderingOptions>.PageWritingStrategy<TGraphicContext,TRenderingOptions>
+title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions
 second_title: Aspose.SVG for .NET API Reference
 description: 
 type: docs

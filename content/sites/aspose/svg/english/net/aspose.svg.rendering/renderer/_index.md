@@ -24,7 +24,7 @@ public class Renderer : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Releases unmanaged and - optionally - managed resources. |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose)() | Releases unmanaged and - optionally - managed resources. |
 
 ### See Also
 

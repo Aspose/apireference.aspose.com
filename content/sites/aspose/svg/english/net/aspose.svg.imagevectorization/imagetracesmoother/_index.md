@@ -25,13 +25,13 @@ public class ImageTraceSmoother : IImageTraceSmoother
 
 | Name | Description |
 | --- | --- |
-| [Extent](extent) { get; set; } | Gets of sets extent of the region considered by query point. It must be in the range from 1 to 20. Any higher or lower values will be aligned with the minimum and maximum values of this range, accordingly. |
+| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent) { get; set; } | Gets of sets extent of the region considered by query point. It must be in the range from 1 to 20. Any higher or lower values will be aligned with the minimum and maximum values of this range, accordingly. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Smooth](smooth)(IEnumerable&lt;PointF&gt;) | Smoothes the trace. |
+| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth)(IEnumerable&lt;PointF&gt;) | Smoothes the trace. |
 
 ### See Also
 

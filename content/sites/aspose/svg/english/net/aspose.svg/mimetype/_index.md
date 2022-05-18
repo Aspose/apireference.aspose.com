@@ -24,21 +24,21 @@ public class MimeType : IEquatable<MimeType>
 
 | Name | Description |
 | --- | --- |
-| [SubType](subtype) { get; } | Gets the sub media type. |
-| [Type](type) { get; } | Gets the media type. |
+| [SubType](../../aspose.svg/mimetype/subtype) { get; } | Gets the sub media type. |
+| [Type](../../aspose.svg/mimetype/type) { get; } | Gets the media type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromFileExtension](fromfileextension)(string) | Creates a new MIME type based on file extension. |
-| [Equals](equals)(MimeType) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](equals)(object) | Determines whether the specified Object is equal to the current Object. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| override [ToString](tostring)() | Returns a String that represents Mime type. |
-| [operator ==](op_equality) | Compares two Mime type and returns a boolean indicating if the two do match. |
-| [implicit operator](op_implicit) | Performs an implicit conversion from String to [`MimeType`](../mimetype). (2 operators) |
-| [operator !=](op_inequality) | Compares two Mime type and returns a boolean indicating if the two do match. |
+| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension)(string) | Creates a new MIME type based on file extension. |
+| [Equals](../../aspose.svg/mimetype/equals)(MimeType) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.svg/mimetype/equals)(object) | Determines whether the specified Object is equal to the current Object. |
+| override [GetHashCode](../../aspose.svg/mimetype/gethashcode)() | Returns a hash code for this instance. |
+| override [ToString](../../aspose.svg/mimetype/tostring)() | Returns a String that represents Mime type. |
+| [operator ==](../../aspose.svg/mimetype/op_equality) | Compares two Mime type and returns a boolean indicating if the two do match. |
+| [implicit operator](../../aspose.svg/mimetype/op_implicit) | Performs an implicit conversion from String to [`MimeType`](../mimetype). (2 operators) |
+| [operator !=](../../aspose.svg/mimetype/op_inequality) | Compares two Mime type and returns a boolean indicating if the two do match. |
 
 ### See Also
 

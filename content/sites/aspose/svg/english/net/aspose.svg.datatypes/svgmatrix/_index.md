@@ -18,25 +18,27 @@ public class SVGMatrix : SVGValueType
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | The A component of the matrix. |
-| [B](b) { get; set; } | The B component of the matrix. |
-| [C](c) { get; set; } | The C component of the matrix. |
-| [D](d) { get; set; } | The D component of the matrix. |
-| [E](e) { get; set; } | The E component of the matrix. |
-| [F](f) { get; set; } | The F component of the matrix. |
+| [A](../../aspose.svg.datatypes/svgmatrix/a) { get; set; } | The A component of the matrix. |
+| [B](../../aspose.svg.datatypes/svgmatrix/b) { get; set; } | The B component of the matrix. |
+| [C](../../aspose.svg.datatypes/svgmatrix/c) { get; set; } | The C component of the matrix. |
+| [D](../../aspose.svg.datatypes/svgmatrix/d) { get; set; } | The D component of the matrix. |
+| [E](../../aspose.svg.datatypes/svgmatrix/e) { get; set; } | The E component of the matrix. |
+| [F](../../aspose.svg.datatypes/svgmatrix/f) { get; set; } | The F component of the matrix. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Multiply](multiply)(SVGMatrix) | Performs matrix multiplication. This matrix is post-multiplied by another matrix, returning the resulting new matrix. |
-| [Rotate](rotate)(float) | Post-multiplies a rotation transformation on the current matrix and returns the resulting matrix. |
-| [Scale](scale)(float) | Post-multiplies a uniform scale transformation on the current matrix and returns the resulting matrix. |
-| [ScaleNonUniform](scalenonuniform)(float, float) | Post-multiplies a non-uniform scale transformation on the current matrix and returns the resulting matrix. |
-| [SkewX](skewx)(float) | Post-multiplies a skewX transformation on the current matrix and returns the resulting matrix. |
-| [SkewY](skewy)(float) | Post-multiplies a skewY transformation on the current matrix and returns the resulting matrix. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
-| [Translate](translate)(float, float) | Post-multiplies a translation transformation on the current matrix and returns the resulting matrix. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply)(SVGMatrix) | Performs matrix multiplication. This matrix is post-multiplied by another matrix, returning the resulting new matrix. |
+| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate)(float) | Post-multiplies a rotation transformation on the current matrix and returns the resulting matrix. |
+| [Scale](../../aspose.svg.datatypes/svgmatrix/scale)(float) | Post-multiplies a uniform scale transformation on the current matrix and returns the resulting matrix. |
+| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform)(float, float) | Post-multiplies a non-uniform scale transformation on the current matrix and returns the resulting matrix. |
+| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx)(float) | Post-multiplies a skewX transformation on the current matrix and returns the resulting matrix. |
+| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy)(float) | Post-multiplies a skewY transformation on the current matrix and returns the resulting matrix. |
+| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring)() | Returns a String that represents this instance. |
+| [Translate](../../aspose.svg.datatypes/svgmatrix/translate)(float, float) | Post-multiplies a translation transformation on the current matrix and returns the resulting matrix. |
 
 ### See Also
 

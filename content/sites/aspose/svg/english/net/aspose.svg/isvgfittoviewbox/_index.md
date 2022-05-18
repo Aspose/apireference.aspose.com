@@ -18,8 +18,8 @@ public interface ISVGFitToViewBox
 
 | Name | Description |
 | --- | --- |
-| [PreserveAspectRatio](preserveaspectratio) { get; } | Corresponds to attribute ‘preserveAspectRatio’ on the given element. |
-| [ViewBox](viewbox) { get; } | Corresponds to attribute ‘viewBox’ on the given element. |
+| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio) { get; } | Corresponds to attribute ‘preserveAspectRatio’ on the given element. |
+| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox) { get; } | Corresponds to attribute ‘viewBox’ on the given element. |
 
 ### See Also
 

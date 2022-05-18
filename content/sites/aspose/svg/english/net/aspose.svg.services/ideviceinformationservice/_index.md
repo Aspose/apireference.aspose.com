@@ -18,10 +18,10 @@ public interface IDeviceInformationService : IService
 
 | Name | Description |
 | --- | --- |
-| [HorizontalResolution](horizontalresolution) { get; set; } | Gets or sets the horizontal resolution. |
-| [ScreenSize](screensize) { get; set; } | Gets or sets the size of the screen. |
-| [VerticalResolution](verticalresolution) { get; set; } | Gets or sets the vertical resolution. |
-| [WindowSize](windowsize) { get; set; } | Gets or sets the size of the window. |
+| [HorizontalResolution](../../aspose.svg.services/ideviceinformationservice/horizontalresolution) { get; set; } | Gets or sets the horizontal resolution. |
+| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize) { get; set; } | Gets or sets the size of the screen. |
+| [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution) { get; set; } | Gets or sets the vertical resolution. |
+| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize) { get; set; } | Gets or sets the size of the window. |
 
 ### See Also
 

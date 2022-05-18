@@ -18,7 +18,7 @@ public interface IImageTraceSmoother
 
 | Name | Description |
 | --- | --- |
-| [Smooth](smooth)(IEnumerable&lt;PointF&gt;) | Smoothes trace. |
+| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth)(IEnumerable&lt;PointF&gt;) | Smoothes trace. |
 
 ### See Also
 

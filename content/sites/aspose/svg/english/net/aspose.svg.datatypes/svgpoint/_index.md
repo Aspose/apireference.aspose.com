@@ -18,15 +18,17 @@ public class SVGPoint : SVGValueType
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } | The X coordinate. |
-| [Y](y) { get; set; } | The Y coordinate. |
+| [X](../../aspose.svg.datatypes/svgpoint/x) { get; set; } | The X coordinate. |
+| [Y](../../aspose.svg.datatypes/svgpoint/y) { get; set; } | The Y coordinate. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [MatrixTransform](matrixtransform)(SVGMatrix) | Applies a 2x3 matrix transformation on this SVGPoint object and returns a new, transformed SVGPoint object: newpoint = matrix* thispoint |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [MatrixTransform](../../aspose.svg.datatypes/svgpoint/matrixtransform)(SVGMatrix) | Applies a 2x3 matrix transformation on this SVGPoint object and returns a new, transformed SVGPoint object: newpoint = matrix* thispoint |
+| override [ToString](../../aspose.svg.datatypes/svgpoint/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

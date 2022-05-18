@@ -18,8 +18,8 @@ public interface ICSSMarginRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; } | The name attribute must return the name of the margin at-rule. The @ character is not included in the name. |
-| [Style](style) { get; } | The declaration-block of this rule. |
+| [Name](../../aspose.svg.dom.css/icssmarginrule/name) { get; } | The name attribute must return the name of the margin at-rule. The @ character is not included in the name. |
+| [Style](../../aspose.svg.dom.css/icssmarginrule/style) { get; } | The declaration-block of this rule. |
 
 ### See Also
 

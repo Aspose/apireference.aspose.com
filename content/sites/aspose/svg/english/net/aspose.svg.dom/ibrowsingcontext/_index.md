@@ -18,12 +18,12 @@ public interface IBrowsingContext : IDisposable, IServiceProvider
 
 | Name | Description |
 | --- | --- |
-| [ActiveDocument](activedocument) { get; } | Gets the current document. |
-| [DOMImplementation](domimplementation) { get; } | Gets the DOM implementation. |
-| [Network](network) { get; } | Gets the network services. |
-| [Parent](parent) { get; } | Gets the parent context, if any. |
-| [Security](security) { get; } | Gets the sandboxing flag. |
-| [Window](window) { get; } | Gets the WindowProxy object. |
+| [ActiveDocument](../../aspose.svg.dom/ibrowsingcontext/activedocument) { get; } | Gets the current document. |
+| [DOMImplementation](../../aspose.svg.dom/ibrowsingcontext/domimplementation) { get; } | Gets the DOM implementation. |
+| [Network](../../aspose.svg.dom/ibrowsingcontext/network) { get; } | Gets the network services. |
+| [Parent](../../aspose.svg.dom/ibrowsingcontext/parent) { get; } | Gets the parent context, if any. |
+| [Security](../../aspose.svg.dom/ibrowsingcontext/security) { get; } | Gets the sandboxing flag. |
+| [Window](../../aspose.svg.dom/ibrowsingcontext/window) { get; } | Gets the WindowProxy object. |
 
 ### See Also
 

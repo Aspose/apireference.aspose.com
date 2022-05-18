@@ -25,15 +25,15 @@ public class ImageVectorizer
 
 | Name | Description |
 | --- | --- |
-| [Configuration](configuration) { get; set; } | The configuration of image vectorization methods and options |
+| [Configuration](../../aspose.svg.imagevectorization/imagevectorizer/configuration) { get; set; } | The configuration of image vectorization methods and options |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Vectorize](vectorize)(Bitmap) | Vectorizes bitmap. |
-| [Vectorize](vectorize)(Stream) | Vectorizes raster image from the specified stream. |
-| [Vectorize](vectorize)(string) | Vectorizes raster image from the specified file. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize)(Bitmap) | Vectorizes bitmap. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize)(Stream) | Vectorizes raster image from the specified stream. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize)(string) | Vectorizes raster image from the specified file. |
 
 ### See Also
 

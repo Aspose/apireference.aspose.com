@@ -18,11 +18,11 @@ public interface ISVGFilterPrimitiveStandardAttributes
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; } | Corresponds to attribute ‘height’ on the given ‘filter’ element. |
-| [Result](result) { get; } | Corresponds to attribute ‘result’ on the given ‘filter’ element. |
-| [Width](width) { get; } | Corresponds to attribute ‘width’ on the given ‘filter’ element. |
-| [X](x) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
-| [Y](y) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
+| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height) { get; } | Corresponds to attribute ‘height’ on the given ‘filter’ element. |
+| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result) { get; } | Corresponds to attribute ‘result’ on the given ‘filter’ element. |
+| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width) { get; } | Corresponds to attribute ‘width’ on the given ‘filter’ element. |
+| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
+| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
 ### See Also
 
