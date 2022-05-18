@@ -24,30 +24,30 @@ public class RevolvedAreaSolid : Entity, IMeshConvertible
 
 | Name | Description |
 | --- | --- |
-| [AngleEnd](angleend) { get; set; } | Gets or sets the ending angle of the revolving procedure, measured in radian, default value is pi. |
-| [AngleStart](anglestart) { get; set; } | Gets or sets the starting angle of the revolving procedure, measured in radian, default value is 0. |
-| [Axis](axis) { get; set; } | Gets or sets the axis direction, default value is (0, 1, 0). |
-| [Excluded](excluded) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
-| virtual [Name](name) { get; set; } | Gets or sets the name. |
-| [Origin](origin) { get; set; } | Gets or sets the origin point of the revolving, default value is (0, 0, 0). |
-| [ParentNode](parentnode) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
-| [ParentNodes](parentnodes) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
-| [Properties](properties) { get; } | Gets the collection of all properties. |
-| [Scene](scene) { get; } | Gets the scene that this object belongs to |
-| [Shape](shape) { get; set; } | Gets or sets the base profile used to revolve. |
+| [AngleEnd](../../aspose.threed.entities/revolvedareasolid/angleend) { get; set; } | Gets or sets the ending angle of the revolving procedure, measured in radian, default value is pi. |
+| [AngleStart](../../aspose.threed.entities/revolvedareasolid/anglestart) { get; set; } | Gets or sets the starting angle of the revolving procedure, measured in radian, default value is 0. |
+| [Axis](../../aspose.threed.entities/revolvedareasolid/axis) { get; set; } | Gets or sets the axis direction, default value is (0, 1, 0). |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
+| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
+| [Origin](../../aspose.threed.entities/revolvedareasolid/origin) { get; set; } | Gets or sets the origin point of the revolving, default value is (0, 0, 0). |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
+| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
+| [Scene](../../aspose.threed/sceneobject/scene) { get; } | Gets the scene that this object belongs to |
+| [Shape](../../aspose.threed.entities/revolvedareasolid/shape) { get; set; } | Gets or sets the base profile used to revolve. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| [GetBoundingBox](getboundingbox)() | Gets the bounding box of current entity in its object space coordinate system. |
-| virtual [GetEntityRendererKey](getentityrendererkey)() | Gets the key of the entity renderer registered in the renderer |
-| [GetProperty](getproperty)(string) | Get the value of specified property |
-| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
-| [ToMesh](tomesh)() | Convert the [`RevolvedAreaSolid`](../revolvedareasolid) into a mesh. |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Gets the bounding box of current entity in its object space coordinate system. |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Gets the key of the entity renderer registered in the renderer |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
+| [ToMesh](../../aspose.threed.entities/revolvedareasolid/tomesh)() | Convert the [`RevolvedAreaSolid`](../revolvedareasolid) into a mesh. |
 
 ### See Also
 
@@ -56,4 +56,4 @@ public class RevolvedAreaSolid : Entity, IMeshConvertible
 * namespace [Aspose.ThreeD.Entities](../../aspose.threed.entities)
 * assembly [Aspose.3D](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3d.dll -->
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3D.dll -->

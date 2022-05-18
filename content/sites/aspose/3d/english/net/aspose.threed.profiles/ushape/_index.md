@@ -24,31 +24,31 @@ public class UShape : ParameterizedProfile
 
 | Name | Description |
 | --- | --- |
-| [Depth](depth) { get; set; } | Gets or sets the length of web. |
-| [EdgeRadius](edgeradius) { get; set; } | Gets or sets the radius of edge in flange's edge. |
-| [Excluded](excluded) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
-| [FilletRadius](filletradius) { get; set; } | Gets or sets the radius of fillet between flange and web. |
-| [FlangeThickness](flangethickness) { get; set; } | Gets or sets the thickness of flange. |
-| [FlangeWidth](flangewidth) { get; set; } | Gets or sets the length of flange. |
-| virtual [Name](name) { get; set; } | Gets or sets the name. |
-| [ParentNode](parentnode) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
-| [ParentNodes](parentnodes) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
-| [Properties](properties) { get; } | Gets the collection of all properties. |
-| [Scene](scene) { get; } | Gets the scene that this object belongs to |
-| [WebThickness](webthickness) { get; set; } | Gets or sets the thickness of web. |
+| [Depth](../../aspose.threed.profiles/ushape/depth) { get; set; } | Gets or sets the length of web. |
+| [EdgeRadius](../../aspose.threed.profiles/ushape/edgeradius) { get; set; } | Gets or sets the radius of edge in flange's edge. |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
+| [FilletRadius](../../aspose.threed.profiles/ushape/filletradius) { get; set; } | Gets or sets the radius of fillet between flange and web. |
+| [FlangeThickness](../../aspose.threed.profiles/ushape/flangethickness) { get; set; } | Gets or sets the thickness of flange. |
+| [FlangeWidth](../../aspose.threed.profiles/ushape/flangewidth) { get; set; } | Gets or sets the length of flange. |
+| virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
+| [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
+| [Scene](../../aspose.threed/sceneobject/scene) { get; } | Gets the scene that this object belongs to |
+| [WebThickness](../../aspose.threed.profiles/ushape/webthickness) { get; set; } | Gets or sets the thickness of web. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [FindProperty](findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
-| [GetBoundingBox](getboundingbox)() | Gets the bounding box of current entity in its object space coordinate system. |
-| override [GetEntityRendererKey](getentityrendererkey)() | Gets the key of the entity renderer registered in the renderer |
-| override [GetExtent](getextent)() | Gets the extent in x and y dimension. |
-| [GetProperty](getproperty)(string) | Get the value of specified property |
-| [RemoveProperty](removeproperty)(Property) | Removes a dynamic property. |
-| [RemoveProperty](removeproperty)(string) | Remove the specified property identified by name |
-| [SetProperty](setproperty)(string, object) | Sets the value of specified property |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Gets the bounding box of current entity in its object space coordinate system. |
+| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | Gets the key of the entity renderer registered in the renderer |
+| override [GetExtent](../../aspose.threed.profiles/ushape/getextent)() | Gets the extent in x and y dimension. |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
 
 ### See Also
 
@@ -56,4 +56,4 @@ public class UShape : ParameterizedProfile
 * namespace [Aspose.ThreeD.Profiles](../../aspose.threed.profiles)
 * assembly [Aspose.3D](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3d.dll -->
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3D.dll -->
