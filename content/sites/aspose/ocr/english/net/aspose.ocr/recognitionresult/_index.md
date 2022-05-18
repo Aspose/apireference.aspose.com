@@ -18,24 +18,24 @@ public class RecognitionResult
 
 | Name | Description |
 | --- | --- |
-| [RecognitionAreasRectangles](recognitionareasrectangles) { get; } | Gets rectangles coordinates. |
-| [RecognitionAreasText](recognitionareastext) { get; } | Gets list recognition results of a list of areas (Rectangles). |
-| [RecognitionCharactersList](recognitioncharacterslist) { get; } | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
-| [RecognitionLinesResult](recognitionlinesresult) { get; } | Gets a list of recognition results with a list of rows (Rectangles). |
-| [RecognitionText](recognitiontext) { get; } | Gets recognition result in one string. |
-| [Skew](skew) { get; } | Gets skew angle. |
-| [Warnings](warnings) { get; } | Gets list of the warning messages describing non-critical faults appeared during generation. |
+| [RecognitionAreasRectangles](../../aspose.ocr/recognitionresult/recognitionareasrectangles) { get; } | Gets rectangles coordinates. |
+| [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext) { get; } | Gets list recognition results of a list of areas (Rectangles). |
+| [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist) { get; } | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
+| [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult) { get; } | Gets a list of recognition results with a list of rows (Rectangles). |
+| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; } | Gets recognition result in one string. |
+| [Skew](../../aspose.ocr/recognitionresult/skew) { get; } | Gets skew angle. |
+| [Warnings](../../aspose.ocr/recognitionresult/warnings) { get; } | Gets list of the warning messages describing non-critical faults appeared during generation. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetJson](getjson)() | Form JSON string with recognition results. |
-| [GetSpellCheckCorrectedText](getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
-| [GetSpellCheckErrorList](getspellcheckerrorlist)(SpellCheckLanguage, string) | Find the misspelled words with suggested spellings for a given input text. |
-| [Save](save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [Save](save)(string, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [operator +](op_addition) | To complete the full result from recognized fragments (lines). |
+| [GetJson](../../aspose.ocr/recognitionresult/getjson)() | Form JSON string with recognition results. |
+| [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
+| [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | Find the misspelled words with suggested spellings for a given input text. |
+| [Save](../../aspose.ocr/recognitionresult/save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save)(string, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [operator +](../../aspose.ocr/recognitionresult/op_addition) | To complete the full result from recognized fragments (lines). |
 
 ## Other Members
 

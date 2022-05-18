@@ -18,10 +18,10 @@ public struct SpellCheckError
 
 | Name | Description |
 | --- | --- |
-| [Length](length) { get; set; } | Msspelled word's length in the input text. |
-| [StartPosition](startposition) { get; set; } | Word's position in the input text. |
-| [SuggestedWords](suggestedwords) { get; set; } | list of objects with suggested correct spellings |
-| [Word](word) { get; set; } | The word being misspelled. |
+| [Length](../../aspose.ocr.spellchecker/spellcheckerror/length) { get; set; } | Msspelled word's length in the input text. |
+| [StartPosition](../../aspose.ocr.spellchecker/spellcheckerror/startposition) { get; set; } | Word's position in the input text. |
+| [SuggestedWords](../../aspose.ocr.spellchecker/spellcheckerror/suggestedwords) { get; set; } | list of objects with suggested correct spellings |
+| [Word](../../aspose.ocr.spellchecker/spellcheckerror/word) { get; set; } | The word being misspelled. |
 
 ### See Also
 

@@ -18,8 +18,8 @@ public struct SuggestedWord
 
 | Name | Description |
 | --- | --- |
-| [Distance](distance) { get; set; } | The distance between the searched and suggestion. |
-| [Word](word) { get; set; } | The suggested correctly spelled word. |
+| [Distance](../../aspose.ocr.spellchecker/suggestedword/distance) { get; set; } | The distance between the searched and suggestion. |
+| [Word](../../aspose.ocr.spellchecker/suggestedword/word) { get; set; } | The suggested correctly spelled word. |
 
 ### See Also
 

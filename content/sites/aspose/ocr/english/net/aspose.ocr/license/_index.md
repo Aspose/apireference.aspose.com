@@ -24,14 +24,14 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [IsLicensed](islicensed) { get; } | Gets a value indicating whether product is licensed. |
+| [IsLicensed](../../aspose.ocr/license/islicensed) { get; } | Gets a value indicating whether product is licensed. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](setlicense)(Stream) | Licenses the component. |
-| [SetLicense](setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.ocr/license/setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.ocr/license/setlicense)(string) | Licenses the component. |
 
 ### Examples
 

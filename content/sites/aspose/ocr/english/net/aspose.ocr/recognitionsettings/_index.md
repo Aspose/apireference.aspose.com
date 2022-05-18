@@ -24,20 +24,20 @@ public class RecognitionSettings
 
 | Name | Description |
 | --- | --- |
-| [AllowedCharacters](allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
-| [AutoContrast](autocontrast) { get; set; } | Allows using an additional contrast correction algorithm for the image before recognition. |
-| [AutoSkew](autoskew) { set; } | Gets or sets a flag indicating whether automatic image skew correction should be enabled. Enabled (true) by default. |
-| [DetectAreas](detectareas) { set; } | Gets or sets a flag indicating whether automatic text areas detection should be enabled.  Enables Document Structure Recognition module. This takes more time and memory to process an image, but provides more accurate results on complex cases. Disable (set to false) for faster image processing or in case of images with simple structure. |
-| [DetectAreasMode](detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
-| [IgnoredCharacters](ignoredcharacters) { get; set; } | Sets blacklist for recognition symbols. |
-| [Language](language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
-| [LinesFiltration](linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
-| [PreprocessingFilters](preprocessingfilters) { get; set; } | Allows to prepare the image for OCR by adjusting pre-processing methods. |
-| [RecognitionAreas](recognitionareas) { set; } | Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set [`DetectAreas`](./detectareas) and [`AutoSkew`](./autoskew) properties will be ignored.  Disables DetectAreas and AutoSkew. |
-| [RecognizeSingleLine](recognizesingleline) { set; } | Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored. |
-| [SkewAngle](skewangle) { set; } | Gets or sets angle in degrees for image rotation.  Setting this value will disable the [`AutoSkew`](./autoskew) property, so that auto skew correction is not applied. Zero by default. |
-| [ThreadsCount](threadscount) { set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
-| [ThresholdValue](thresholdvalue) { set; } | Gets or sets custom threshold value for image binarization. Range from 1 to 255. |
+| [AllowedCharacters](../../aspose.ocr/recognitionsettings/allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
+| [AutoContrast](../../aspose.ocr/recognitionsettings/autocontrast) { get; set; } | Allows using an additional contrast correction algorithm for the image before recognition. |
+| [AutoSkew](../../aspose.ocr/recognitionsettings/autoskew) { set; } | Gets or sets a flag indicating whether automatic image skew correction should be enabled. Enabled (true) by default. |
+| [DetectAreas](../../aspose.ocr/recognitionsettings/detectareas) { set; } | Gets or sets a flag indicating whether automatic text areas detection should be enabled.  Enables Document Structure Recognition module. This takes more time and memory to process an image, but provides more accurate results on complex cases. Disable (set to false) for faster image processing or in case of images with simple structure. |
+| [DetectAreasMode](../../aspose.ocr/recognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
+| [IgnoredCharacters](../../aspose.ocr/recognitionsettings/ignoredcharacters) { get; set; } | Sets blacklist for recognition symbols. |
+| [Language](../../aspose.ocr/recognitionsettings/language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
+| [LinesFiltration](../../aspose.ocr/recognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
+| [PreprocessingFilters](../../aspose.ocr/recognitionsettings/preprocessingfilters) { get; set; } | Allows to prepare the image for OCR by adjusting pre-processing methods. |
+| [RecognitionAreas](../../aspose.ocr/recognitionsettings/recognitionareas) { set; } | Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set [`DetectAreas`](./detectareas) and [`AutoSkew`](./autoskew) properties will be ignored.  Disables DetectAreas and AutoSkew. |
+| [RecognizeSingleLine](../../aspose.ocr/recognitionsettings/recognizesingleline) { set; } | Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored. |
+| [SkewAngle](../../aspose.ocr/recognitionsettings/skewangle) { set; } | Gets or sets angle in degrees for image rotation.  Setting this value will disable the [`AutoSkew`](./autoskew) property, so that auto skew correction is not applied. Zero by default. |
+| [ThreadsCount](../../aspose.ocr/recognitionsettings/threadscount) { set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
+| [ThresholdValue](../../aspose.ocr/recognitionsettings/thresholdvalue) { set; } | Gets or sets custom threshold value for image binarization. Range from 1 to 255. |
 
 ### See Also
 

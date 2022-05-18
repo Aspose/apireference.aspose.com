@@ -25,18 +25,18 @@ public class DocumentRecognitionSettings
 
 | Name | Description |
 | --- | --- |
-| [Allowed](allowed) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
-| [AutoContrast](autocontrast) { get; set; } | Allows using an additional contrast correction algorithm for the image before recognition. |
-| [AutoSkew](autoskew) { set; } | Gets or sets a flag indicating whether automatic image skew correction should be enabled. Enabled (true) by default. |
-| [DetectAreas](detectareas) { set; } | Gets or sets a flag indicating whether automatic text areas detection should be enabled.  Enables Document Structure Recognition module. This takes more time and memory to process an image, but provides more accurate results on complex cases. Disable (set to false) for faster image processing or in case of images with simple structure. |
-| [DetectAreasMode](detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
-| [IgnoredCharacters](ignoredcharacters) { get; set; } | Sets blacklist for recognition symbols. |
-| [Language](language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
-| [LinesFiltration](linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
-| [PagesNumber](pagesnumber) { get; set; } | Set the number of pages for recognition multipage pdf file. |
-| [StartPage](startpage) { get; set; } | Set the first page for recognition. |
-| [ThreadsCount](threadscount) { set; } | Gets or sets the number of threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
-| [ThresholdValue](thresholdvalue) { set; } | Gets or sets custom threshold value for image binarization. Range from 1 to 255. |
+| [Allowed](../../aspose.ocr/documentrecognitionsettings/allowed) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
+| [AutoContrast](../../aspose.ocr/documentrecognitionsettings/autocontrast) { get; set; } | Allows using an additional contrast correction algorithm for the image before recognition. |
+| [AutoSkew](../../aspose.ocr/documentrecognitionsettings/autoskew) { set; } | Gets or sets a flag indicating whether automatic image skew correction should be enabled. Enabled (true) by default. |
+| [DetectAreas](../../aspose.ocr/documentrecognitionsettings/detectareas) { set; } | Gets or sets a flag indicating whether automatic text areas detection should be enabled.  Enables Document Structure Recognition module. This takes more time and memory to process an image, but provides more accurate results on complex cases. Disable (set to false) for faster image processing or in case of images with simple structure. |
+| [DetectAreasMode](../../aspose.ocr/documentrecognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
+| [IgnoredCharacters](../../aspose.ocr/documentrecognitionsettings/ignoredcharacters) { get; set; } | Sets blacklist for recognition symbols. |
+| [Language](../../aspose.ocr/documentrecognitionsettings/language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
+| [LinesFiltration](../../aspose.ocr/documentrecognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
+| [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber) { get; set; } | Set the number of pages for recognition multipage pdf file. |
+| [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage) { get; set; } | Set the first page for recognition. |
+| [ThreadsCount](../../aspose.ocr/documentrecognitionsettings/threadscount) { set; } | Gets or sets the number of threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
+| [ThresholdValue](../../aspose.ocr/documentrecognitionsettings/thresholdvalue) { set; } | Gets or sets custom threshold value for image binarization. Range from 1 to 255. |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class LinesResult
 
 | Name | Description |
 | --- | --- |
-| [Line](line) { get; set; } | Row coordinates. |
-| [TextInLine](textinline) { get; set; } | Recognized text from row. |
+| [Line](../../aspose.ocr/linesresult/line) { get; set; } | Row coordinates. |
+| [TextInLine](../../aspose.ocr/linesresult/textinline) { get; set; } | Recognized text from row. |
 
 ### See Also
 
