@@ -20,6 +20,7 @@ The last point in the PathPoints array of this [`GraphicsPath`](../../graphicspa
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)

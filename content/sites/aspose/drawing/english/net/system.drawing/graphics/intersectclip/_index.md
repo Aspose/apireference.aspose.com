@@ -41,6 +41,7 @@ public void IntersectClip(Rectangle rect)
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -61,6 +62,7 @@ public void IntersectClip(RectangleF rect)
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

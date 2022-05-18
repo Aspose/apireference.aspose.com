@@ -20,6 +20,7 @@ public SolidBrush(Color color)
 
 ### See Also
 
+* struct [Color](../../color)
 * class [SolidBrush](../../solidbrush)
 * namespace [System.Drawing](../../solidbrush)
 * assembly [Aspose.Drawing](../../../)

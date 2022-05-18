@@ -16,6 +16,7 @@ public RectangleF Rectangle { get; }
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [PathGradientBrush](../../pathgradientbrush)
 * namespace [System.Drawing.Drawing2D](../../pathgradientbrush)
 * assembly [Aspose.Drawing](../../../)

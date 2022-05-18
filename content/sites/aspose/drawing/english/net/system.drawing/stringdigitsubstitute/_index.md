@@ -3,7 +3,7 @@ title: StringDigitSubstitute
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1050
+weight: 1120
 url: /net/system.drawing/stringdigitsubstitute/
 ---
 ## StringDigitSubstitute enumeration

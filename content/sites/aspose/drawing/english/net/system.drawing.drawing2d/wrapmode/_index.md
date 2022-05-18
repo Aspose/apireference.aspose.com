@@ -3,7 +3,7 @@ title: WrapMode
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 470
+weight: 480
 url: /net/system.drawing.drawing2d/wrapmode/
 ---
 ## WrapMode enumeration

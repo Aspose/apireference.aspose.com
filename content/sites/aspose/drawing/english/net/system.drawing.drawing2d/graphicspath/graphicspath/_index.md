@@ -62,6 +62,7 @@ This method actually does nothing. It's just for compatibility with System.Drawi
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
@@ -87,6 +88,7 @@ This method actually does nothing. It's just for compatibility with System.Drawi
 
 ### See Also
 
+* struct [Point](../../../system.drawing/point)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
@@ -109,6 +111,7 @@ public GraphicsPath(PointF[] pts, byte[] types, FillMode fillMode)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * enum [FillMode](../../fillmode)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
@@ -132,6 +135,7 @@ public GraphicsPath(Point[] pts, byte[] types, FillMode fillMode)
 
 ### See Also
 
+* struct [Point](../../../system.drawing/point)
 * enum [FillMode](../../fillmode)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)

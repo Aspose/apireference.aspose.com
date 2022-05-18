@@ -20,6 +20,7 @@ The array of Color structures that make up this ColorPalette.
 
 ### See Also
 
+* struct [Color](../../../system.drawing/color)
 * class [ColorPalette](../../colorpalette)
 * namespace [System.Drawing.Imaging](../../colorpalette)
 * assembly [Aspose.Drawing](../../../)

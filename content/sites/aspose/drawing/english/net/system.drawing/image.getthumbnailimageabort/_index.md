@@ -3,7 +3,7 @@ title: Image.GetThumbnailImageAbort
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 590
 url: /net/system.drawing/image.getthumbnailimageabort/
 ---
 ## Image.GetThumbnailImageAbort delegate

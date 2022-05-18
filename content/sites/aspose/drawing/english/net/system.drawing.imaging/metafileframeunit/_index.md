@@ -3,7 +3,7 @@ title: MetafileFrameUnit
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 800
+weight: 810
 url: /net/system.drawing.imaging/metafileframeunit/
 ---
 ## MetafileFrameUnit enumeration

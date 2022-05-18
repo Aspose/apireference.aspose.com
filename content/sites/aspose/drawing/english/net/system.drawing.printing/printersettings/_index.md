@@ -3,7 +3,7 @@ title: PrinterSettings
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 990
+weight: 1020
 url: /net/system.drawing.printing/printersettings/
 ---
 ## PrinterSettings class
@@ -24,10 +24,10 @@ public class PrinterSettings
 
 | Name | Description |
 | --- | --- |
-| [PrinterName](printername) { get; set; } | Gets or sets the name of the printer to use. |
-| static [FromPage](frompage) { get; } | Gets the page number of the first page to print. |
-| static [PrintRange](printrange) { get; } | Gets the page numbers that the user has specified to be printed. |
-| static [ToPage](topage) { get; } | Gets the number of the last page to print. |
+| [PrinterName](../../system.drawing.printing/printersettings/printername) { get; set; } | Gets or sets the name of the printer to use. |
+| static [FromPage](../../system.drawing.printing/printersettings/frompage) { get; } | Gets the page number of the first page to print. |
+| static [PrintRange](../../system.drawing.printing/printersettings/printrange) { get; } | Gets the page numbers that the user has specified to be printed. |
+| static [ToPage](../../system.drawing.printing/printersettings/topage) { get; } | Gets the number of the last page to print. |
 
 ### See Also
 

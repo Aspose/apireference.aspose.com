@@ -24,6 +24,7 @@ public bool IsVisible(PointF point)
 
 ### See Also
 
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -75,6 +76,7 @@ public bool IsVisible(Rectangle rect)
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -126,6 +128,7 @@ public bool IsVisible(RectangleF rect)
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -175,6 +178,7 @@ public bool IsVisible(Point point)
 
 ### See Also
 
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

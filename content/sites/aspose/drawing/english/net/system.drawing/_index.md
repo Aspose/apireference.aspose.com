@@ -1,7 +1,7 @@
 ---
 title: System.Drawing
 second_title: Aspose.Drawing for .NET API Reference
-description: The Drawing namespace provides access to GDI+ basic graphics functionality. More advanced functionality is provided in the Drawing2D, Imaging, and Text namespaces.
+description: The Drawing namespace provides access to GDI basic graphics functionality. More advanced functionality is provided in the Drawing2D Imaging and Text namespaces.
 type: docs
 weight: 20
 url: /net/system.drawing/
@@ -12,39 +12,40 @@ The Drawing namespace provides access to GDI+ basic graphics functionality. More
 
 | Class | Description |
 | --- | --- |
-| class [Bitmap](./bitmap) | Encapsulates a bitmap, which consists of the pixel data for a graphics image and its attributes. A [`Bitmap`](system.drawing/bitmap) is an object used to work with images defined by pixel data. |
-| abstract class [Brush](./brush) | Defines objects used to fill the interiors of graphical shapes such as rectangles, ellipses, pies, polygons, and paths. |
-| class [Brushes](./brushes) | Brushes for all the standard colors. This class cannot be inherited. |
-| class [ColorConverter](./colorconverter) | Converts colors from one data type to another. |
-| static class [DrawingSettings](./drawingsettings) | Allows to adjust the behavior of the drawing library in case of using of some features that are not yet implemented completely. |
-| class [Font](./font) | Defines a particular format for text, including font face, size, and style attributes. This class cannot be inherited. |
-| class [FontFamily](./fontfamily) | Defines a group of type faces having a similar basic design and certain variations in styles. This class cannot be inherited. |
-| class [Graphics](./graphics) | Encapsulates drawing surface. |
-| class [Icon](./icon) | Represents a Windows icon, which is a small bitmap image that is used to represent an object. Icons can be thought of as transparent bitmaps, although their size is determined by the system. |
-| abstract class [Image](./image) | An abstract base class that provides functionality for the Bitmap and Metafile descended classes. |
-| static class [NamespaceDoc](./namespacedoc) | The Drawing namespace provides access to GDI+ basic graphics functionality. More advanced functionality is provided in the Drawing2D, Imaging, and Text namespaces. |
-| class [Pen](./pen) | Defines an object used to draw lines and curves. |
-| class [Pens](./pens) | Pens for all the standard colors. This class cannot be inherited. |
-| class [Region](./region) | Describes the interior of a graphics shape composed of rectangles and paths. This class cannot be inherited. |
-| class [SolidBrush](./solidbrush) | Defines a brush of a single color. Brushes are used to fill graphics shapes, such as rectangles, ellipses, pies, polygons, and paths. |
-| class [StringFormat](./stringformat) | Encapsulates text layout information (such as alignment, orientation and tab stops) display manipulations (such as ellipsis insertion and national digit substitution) and OpenType features. This class cannot be inherited. |
-| class [SystemColors](./systemcolors) | Each property of the SystemColors class is a Color structure that is the color of a Windows display element. |
-| class [SystemFonts](./systemfonts) | Specifies the fonts used to display text in Windows display elements. |
-| class [SystemIcons](./systemicons) | Each property of the SystemIcons class is an Icon object for Windows system-wide icons. This class cannot be inherited. |
-| class [TextureBrush](./texturebrush) | Each property of the TextureBrush class is a Brush object that uses an image to fill the interior of a shape. This class cannot be inherited. |
+| [Bitmap](./bitmap) | Encapsulates a bitmap, which consists of the pixel data for a graphics image and its attributes. A [`Bitmap`](../system.drawing/bitmap) is an object used to work with images defined by pixel data. |
+| [Brush](./brush) | Defines objects used to fill the interiors of graphical shapes such as rectangles, ellipses, pies, polygons, and paths. |
+| [Brushes](./brushes) | Brushes for all the standard colors. This class cannot be inherited. |
+| [ColorConverter](./colorconverter) | Converts colors from one data type to another. |
+| [ColorTranslator](./colortranslator) | Translates colors to and from GDI+ Color structures. This class cannot be inherited. |
+| [DrawingSettings](./drawingsettings) | Allows to adjust the behavior of the drawing library in case of using of some features that are not yet implemented completely. |
+| [Font](./font) | Defines a particular format for text, including font face, size, and style attributes. This class cannot be inherited. |
+| [FontFamily](./fontfamily) | Defines a group of type faces having a similar basic design and certain variations in styles. This class cannot be inherited. |
+| [Graphics](./graphics) | Encapsulates drawing surface. |
+| [Icon](./icon) | Represents a Windows icon, which is a small bitmap image that is used to represent an object. Icons can be thought of as transparent bitmaps, although their size is determined by the system. |
+| [Image](./image) | An abstract base class that provides functionality for the Bitmap and Metafile descended classes. |
+| [NamespaceDoc](./namespacedoc) | The Drawing namespace provides access to GDI+ basic graphics functionality. More advanced functionality is provided in the Drawing2D, Imaging, and Text namespaces. |
+| [Pen](./pen) | Defines an object used to draw lines and curves. |
+| [Pens](./pens) | Pens for all the standard colors. This class cannot be inherited. |
+| [Region](./region) | Describes the interior of a graphics shape composed of rectangles and paths. This class cannot be inherited. |
+| [SolidBrush](./solidbrush) | Defines a brush of a single color. Brushes are used to fill graphics shapes, such as rectangles, ellipses, pies, polygons, and paths. |
+| [StringFormat](./stringformat) | Encapsulates text layout information (../such as alignment, orientation and tab stops) display manipulations (../such as ellipsis insertion and national digit substitution) and OpenType features. This class cannot be inherited. |
+| [SystemColors](./systemcolors) | Each property of the SystemColors class is a Color structure that is the color of a Windows display element. |
+| [SystemFonts](./systemfonts) | Specifies the fonts used to display text in Windows display elements. |
+| [SystemIcons](./systemicons) | Each property of the SystemIcons class is an Icon object for Windows system-wide icons. This class cannot be inherited. |
+| [TextureBrush](./texturebrush) | Each property of the TextureBrush class is a Brush object that uses an image to fill the interior of a shape. This class cannot be inherited. |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
-| enum [ContentAlignment](./contentalignment) | Specifies alignment of content on the drawing surface. |
-| enum [CopyPixelOperation](./copypixeloperation) | Determines how the source color in a copy pixel operation is combined with the destination color to result in a final color. |
-| enum [FontStyle](./fontstyle) | Specifies style information applied to text. |
-| enum [GraphicsUnit](./graphicsunit) | Specifies the unit of measure for the given data. |
-| enum [KnownColor](./knowncolor) | Specifies the known system colors. |
-| enum [RotateFlipType](./rotatefliptype) | Specifies the direction of an image's rotation and the axis used to flip the image. |
-| enum [StringAlignment](./stringalignment) | Specifies the alignment of a text string relative to its layout rectangle. |
-| enum [StringDigitSubstitute](./stringdigitsubstitute) | The StringDigitSubstitute enumeration specifies how to substitute digits in a string according to a user's locale or language. |
-| enum [StringFormatFlags](./stringformatflags) | Specifies the display and layout information for text strings. |
-| enum [StringTrimming](./stringtrimming) | Specifies how to trim characters from a string that does not completely fit into a layout shape. |
+| [ContentAlignment](./contentalignment) | Specifies alignment of content on the drawing surface. |
+| [CopyPixelOperation](./copypixeloperation) | Determines how the source color in a copy pixel operation is combined with the destination color to result in a final color. |
+| [FontStyle](./fontstyle) | Specifies style information applied to text. |
+| [GraphicsUnit](./graphicsunit) | Specifies the unit of measure for the given data. |
+| [KnownColor](./knowncolor) | Specifies the known system colors. |
+| [RotateFlipType](./rotatefliptype) | Specifies the direction of an image's rotation and the axis used to flip the image. |
+| [StringAlignment](./stringalignment) | Specifies the alignment of a text string relative to its layout rectangle. |
+| [StringDigitSubstitute](./stringdigitsubstitute) | The StringDigitSubstitute enumeration specifies how to substitute digits in a string according to a user's locale or language. |
+| [StringFormatFlags](./stringformatflags) | Specifies the display and layout information for text strings. |
+| [StringTrimming](./stringtrimming) | Specifies how to trim characters from a string that does not completely fit into a layout shape. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

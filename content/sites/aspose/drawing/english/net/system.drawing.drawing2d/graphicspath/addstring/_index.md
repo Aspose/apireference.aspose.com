@@ -27,6 +27,7 @@ public void AddString(string s, FontFamily family, int style, float emSize, Poin
 ### See Also
 
 * class [FontFamily](../../../system.drawing/fontfamily)
+* struct [Point](../../../system.drawing/point)
 * class [StringFormat](../../../system.drawing/stringformat)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
@@ -55,6 +56,7 @@ public void AddString(string s, FontFamily family, int style, float emSize, Poin
 ### See Also
 
 * class [FontFamily](../../../system.drawing/fontfamily)
+* struct [PointF](../../../system.drawing/pointf)
 * class [StringFormat](../../../system.drawing/stringformat)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
@@ -83,6 +85,7 @@ public void AddString(string s, FontFamily family, int style, float emSize, Rect
 ### See Also
 
 * class [FontFamily](../../../system.drawing/fontfamily)
+* struct [Rectangle](../../../system.drawing/rectangle)
 * class [StringFormat](../../../system.drawing/stringformat)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
@@ -111,6 +114,7 @@ public void AddString(string s, FontFamily family, int style, float emSize, Rect
 ### See Also
 
 * class [FontFamily](../../../system.drawing/fontfamily)
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [StringFormat](../../../system.drawing/stringformat)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)

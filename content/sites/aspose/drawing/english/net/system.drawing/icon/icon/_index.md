@@ -61,6 +61,7 @@ public Icon(string fileName, Size size)
 
 ### See Also
 
+* struct [Size](../../size)
 * class [Icon](../../icon)
 * namespace [System.Drawing](../../icon)
 * assembly [Aspose.Drawing](../../../)
@@ -82,6 +83,7 @@ public Icon(Icon original, Size size)
 
 ### See Also
 
+* struct [Size](../../size)
 * class [Icon](../../icon)
 * namespace [System.Drawing](../../icon)
 * assembly [Aspose.Drawing](../../../)
@@ -124,6 +126,7 @@ public Icon(Stream stream, Size size)
 
 ### See Also
 
+* struct [Size](../../size)
 * class [Icon](../../icon)
 * namespace [System.Drawing](../../icon)
 * assembly [Aspose.Drawing](../../../)

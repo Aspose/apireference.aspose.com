@@ -3,7 +3,7 @@ title: LineCap
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 310
+weight: 320
 url: /net/system.drawing.drawing2d/linecap/
 ---
 ## LineCap enumeration

@@ -30,6 +30,7 @@ This method returns an array of Region objects, each of which bounds a range of 
 
 * class [Region](../../region)
 * class [Font](../../font)
+* struct [RectangleF](../../rectanglef)
 * class [StringFormat](../../stringformat)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)

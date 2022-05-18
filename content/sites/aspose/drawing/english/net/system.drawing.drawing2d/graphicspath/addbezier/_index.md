@@ -23,6 +23,7 @@ public void AddBezier(PointF pt1, PointF pt2, PointF pt3, PointF pt4)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)

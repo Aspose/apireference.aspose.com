@@ -16,6 +16,7 @@ public Color[] LinearColors { get; set; }
 
 ### See Also
 
+* struct [Color](../../../system.drawing/color)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
 * assembly [Aspose.Drawing](../../../)

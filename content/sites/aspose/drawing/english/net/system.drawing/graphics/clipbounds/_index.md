@@ -8,7 +8,7 @@ url: /net/system.drawing/graphics/clipbounds/
 ---
 ## Graphics.ClipBounds property
 
-Gets a RectangleF structure that bounds the clipping region of this [`Graphics`](../../graphics).
+Gets a [`RectangleF`](../../rectanglef) structure that bounds the clipping region of this [`Graphics`](../../graphics).
 
 ```csharp
 public RectangleF ClipBounds { get; }
@@ -16,10 +16,11 @@ public RectangleF ClipBounds { get; }
 
 ## Property Value
 
-The RectangleF structure that bounds the clipping region of this [`Graphics`](../../graphics).
+The [`RectangleF`](../../rectanglef) structure that bounds the clipping region of this [`Graphics`](../../graphics).
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

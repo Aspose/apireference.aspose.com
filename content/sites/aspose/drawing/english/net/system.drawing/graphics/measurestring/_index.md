@@ -25,6 +25,7 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
+* struct [SizeF](../../sizef)
 * class [Font](../../font)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -52,6 +53,7 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
+* struct [SizeF](../../sizef)
 * class [Font](../../font)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -79,6 +81,7 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
+* struct [SizeF](../../sizef)
 * class [Font](../../font)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -107,7 +110,9 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
+* struct [SizeF](../../sizef)
 * class [Font](../../font)
+* struct [PointF](../../pointf)
 * class [StringFormat](../../stringformat)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -136,6 +141,7 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
+* struct [SizeF](../../sizef)
 * class [Font](../../font)
 * class [StringFormat](../../stringformat)
 * class [Graphics](../../graphics)
@@ -165,6 +171,7 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
+* struct [SizeF](../../sizef)
 * class [Font](../../font)
 * class [StringFormat](../../stringformat)
 * class [Graphics](../../graphics)
@@ -197,6 +204,7 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
+* struct [SizeF](../../sizef)
 * class [Font](../../font)
 * class [StringFormat](../../stringformat)
 * class [Graphics](../../graphics)

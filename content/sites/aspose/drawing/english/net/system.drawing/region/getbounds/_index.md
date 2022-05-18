@@ -24,6 +24,7 @@ A RectangleF structure that represents the bounding rectangle for this Region on
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)

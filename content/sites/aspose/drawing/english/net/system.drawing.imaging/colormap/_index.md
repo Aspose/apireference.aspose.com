@@ -3,7 +3,7 @@ title: ColorMap
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 620
+weight: 630
 url: /net/system.drawing.imaging/colormap/
 ---
 ## ColorMap class
@@ -24,8 +24,8 @@ public sealed class ColorMap
 
 | Name | Description |
 | --- | --- |
-| [NewColor](newcolor) { get; set; } | Gets or sets the new Color structure to which to convert. |
-| [OldColor](oldcolor) { get; set; } | Gets or sets the existing Color structure to be converted. |
+| [NewColor](../../system.drawing.imaging/colormap/newcolor) { get; set; } | Gets or sets the new Color structure to which to convert. |
+| [OldColor](../../system.drawing.imaging/colormap/oldcolor) { get; set; } | Gets or sets the existing Color structure to be converted. |
 
 ### See Also
 

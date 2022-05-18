@@ -3,7 +3,7 @@ title: StandardPrintController
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1000
+weight: 1030
 url: /net/system.drawing.printing/standardprintcontroller/
 ---
 ## StandardPrintController class

@@ -198,6 +198,7 @@ public Bitmap(Image original, Size newSize)
 ### See Also
 
 * class [Image](../../image)
+* struct [Size](../../size)
 * class [Bitmap](../../bitmap)
 * namespace [System.Drawing](../../bitmap)
 * assembly [Aspose.Drawing](../../../)

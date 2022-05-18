@@ -25,6 +25,7 @@ public void DrawBezier(Pen pen, PointF pt1, PointF pt2, PointF pt3, PointF pt4)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

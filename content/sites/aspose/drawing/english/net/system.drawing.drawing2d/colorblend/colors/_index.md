@@ -16,6 +16,7 @@ public Color[] Colors { get; set; }
 
 ### See Also
 
+* struct [Color](../../../system.drawing/color)
 * class [ColorBlend](../../colorblend)
 * namespace [System.Drawing.Drawing2D](../../colorblend)
 * assembly [Aspose.Drawing](../../../)

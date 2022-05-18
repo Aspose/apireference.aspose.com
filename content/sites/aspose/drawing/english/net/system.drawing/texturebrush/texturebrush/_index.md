@@ -86,6 +86,7 @@ public TextureBrush(Image image, WrapMode wrapMode, RectangleF dstRect)
 
 * class [Image](../../image)
 * enum [WrapMode](../../../system.drawing.drawing2d/wrapmode)
+* struct [RectangleF](../../rectanglef)
 * class [TextureBrush](../../texturebrush)
 * namespace [System.Drawing](../../texturebrush)
 * assembly [Aspose.Drawing](../../../)
@@ -114,6 +115,7 @@ public TextureBrush(Image image, RectangleF dstRect)
 ### See Also
 
 * class [Image](../../image)
+* struct [RectangleF](../../rectanglef)
 * class [TextureBrush](../../texturebrush)
 * namespace [System.Drawing](../../texturebrush)
 * assembly [Aspose.Drawing](../../../)
@@ -143,6 +145,7 @@ public TextureBrush(Image image, RectangleF dstRect, ImageAttributes imageAttr)
 ### See Also
 
 * class [Image](../../image)
+* struct [RectangleF](../../rectanglef)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [TextureBrush](../../texturebrush)
 * namespace [System.Drawing](../../texturebrush)

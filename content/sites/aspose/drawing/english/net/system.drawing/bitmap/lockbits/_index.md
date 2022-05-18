@@ -27,6 +27,7 @@ A BitmapData containing information about this lock operation.
 ### See Also
 
 * class [BitmapData](../../../system.drawing.imaging/bitmapdata)
+* struct [Rectangle](../../rectangle)
 * enum [ImageLockMode](../../../system.drawing.imaging/imagelockmode)
 * enum [PixelFormat](../../../system.drawing.imaging/pixelformat)
 * class [Bitmap](../../bitmap)

@@ -20,6 +20,7 @@ A RectangleF structure that represents a bounding rectangle for the visible clip
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

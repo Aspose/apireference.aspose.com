@@ -48,6 +48,7 @@ This method returns a GraphicsContainer that represents the state of this Graphi
 ### See Also
 
 * class [GraphicsContainer](../../../system.drawing.drawing2d/graphicscontainer)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -76,6 +77,7 @@ This method returns a GraphicsContainer that represents the state of this Graphi
 ### See Also
 
 * class [GraphicsContainer](../../../system.drawing.drawing2d/graphicscontainer)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)

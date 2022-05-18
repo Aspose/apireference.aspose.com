@@ -3,7 +3,7 @@ title: LinearGradientMode
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /net/system.drawing.drawing2d/lineargradientmode/
 ---
 ## LinearGradientMode enumeration

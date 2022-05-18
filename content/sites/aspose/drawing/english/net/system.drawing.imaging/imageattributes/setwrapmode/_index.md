@@ -43,6 +43,7 @@ public void SetWrapMode(WrapMode mode, Color color)
 ### See Also
 
 * enum [WrapMode](../../../system.drawing.drawing2d/wrapmode)
+* struct [Color](../../../system.drawing/color)
 * class [ImageAttributes](../../imageattributes)
 * namespace [System.Drawing.Imaging](../../imageattributes)
 * assembly [Aspose.Drawing](../../../)
@@ -66,6 +67,7 @@ public void SetWrapMode(WrapMode mode, Color color, bool clamp)
 ### See Also
 
 * enum [WrapMode](../../../system.drawing.drawing2d/wrapmode)
+* struct [Color](../../../system.drawing/color)
 * class [ImageAttributes](../../imageattributes)
 * namespace [System.Drawing.Imaging](../../imageattributes)
 * assembly [Aspose.Drawing](../../../)

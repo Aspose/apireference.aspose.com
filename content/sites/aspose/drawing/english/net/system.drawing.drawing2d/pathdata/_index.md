@@ -3,7 +3,7 @@ title: PathData
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /net/system.drawing.drawing2d/pathdata/
 ---
 ## PathData class
@@ -24,8 +24,8 @@ public sealed class PathData
 
 | Name | Description |
 | --- | --- |
-| [Points](points) { get; set; } | Gets or sets an array of PointF structures that represents the points through which the path is constructed. |
-| [Types](types) { get; set; } | Gets or sets the types of the corresponding points in the path. |
+| [Points](../../system.drawing.drawing2d/pathdata/points) { get; set; } | Gets or sets an array of PointF structures that represents the points through which the path is constructed. |
+| [Types](../../system.drawing.drawing2d/pathdata/types) { get; set; } | Gets or sets the types of the corresponding points in the path. |
 
 ### See Also
 

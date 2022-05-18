@@ -3,7 +3,7 @@ title: ImageFlags
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 750
+weight: 760
 url: /net/system.drawing.imaging/imageflags/
 ---
 ## ImageFlags enumeration

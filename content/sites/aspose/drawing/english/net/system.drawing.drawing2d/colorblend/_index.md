@@ -3,7 +3,7 @@ title: ColorBlend
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /net/system.drawing.drawing2d/colorblend/
 ---
 ## ColorBlend class
@@ -25,8 +25,8 @@ public sealed class ColorBlend
 
 | Name | Description |
 | --- | --- |
-| [Colors](colors) { get; set; } | Gets or sets an array of colors that represents the colors to use at corresponding positions along a gradient. |
-| [Positions](positions) { get; set; } | Gets or sets the positions along a gradient line. |
+| [Colors](../../system.drawing.drawing2d/colorblend/colors) { get; set; } | Gets or sets an array of colors that represents the colors to use at corresponding positions along a gradient. |
+| [Positions](../../system.drawing.drawing2d/colorblend/positions) { get; set; } | Gets or sets the positions along a gradient line. |
 
 ### See Also
 

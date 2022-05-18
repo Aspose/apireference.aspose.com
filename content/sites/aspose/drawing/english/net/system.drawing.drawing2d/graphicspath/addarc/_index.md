@@ -22,6 +22,7 @@ public void AddArc(RectangleF rect, float startAngle, float sweepAngle)
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)

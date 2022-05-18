@@ -20,6 +20,7 @@ public void AddLines(PointF[] points)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
@@ -40,6 +41,7 @@ public void AddLines(Point[] points)
 
 ### See Also
 
+* struct [Point](../../../system.drawing/point)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)

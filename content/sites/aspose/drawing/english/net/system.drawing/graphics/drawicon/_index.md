@@ -45,6 +45,7 @@ public void DrawIcon(Icon icon, Rectangle targetRect)
 ### See Also
 
 * class [Icon](../../icon)
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

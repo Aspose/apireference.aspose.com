@@ -25,6 +25,7 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 * class [Font](../../font)
 * class [Brush](../../brush)
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -50,6 +51,7 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 
 * class [Font](../../font)
 * class [Brush](../../brush)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -76,6 +78,7 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 * class [Font](../../font)
 * class [Brush](../../brush)
+* struct [PointF](../../pointf)
 * class [StringFormat](../../stringformat)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -158,6 +161,7 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 * class [Font](../../font)
 * class [Brush](../../brush)
+* struct [RectangleF](../../rectanglef)
 * class [StringFormat](../../stringformat)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)

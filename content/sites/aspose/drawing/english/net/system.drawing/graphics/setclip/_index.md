@@ -50,7 +50,7 @@ public void SetClip(Graphics g, CombineMode combineMode)
 
 ## Graphics.SetClip method (3 of 9)
 
-Sets the clipping region of this [`Graphics`](../../graphics) to the result of the specified operation combining the current clip region and the rectangle specified by a Rectangle structure.
+Sets the clipping region of this [`Graphics`](../../graphics) to the result of the specified operation combining the current clip region and the rectangle specified by a [`Rectangle`](../../rectangle) structure.
 
 ```csharp
 public void SetClip(Rectangle rect)
@@ -58,10 +58,11 @@ public void SetClip(Rectangle rect)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | Rectangle | The Rectangle structure to combine. |
+| rect | Rectangle | The [`Rectangle`](../../rectangle) structure to combine. |
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -70,7 +71,7 @@ public void SetClip(Rectangle rect)
 
 ## Graphics.SetClip method (4 of 9)
 
-Sets the clipping region of this [`Graphics`](../../graphics) to the result of the specified operation combining the current clip region and the rectangle specified by a Rectangle structure.
+Sets the clipping region of this [`Graphics`](../../graphics) to the result of the specified operation combining the current clip region and the rectangle specified by a [`Rectangle`](../../rectangle) structure.
 
 ```csharp
 public void SetClip(Rectangle rect, CombineMode combineMode)
@@ -78,11 +79,12 @@ public void SetClip(Rectangle rect, CombineMode combineMode)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | Rectangle | The Rectangle structure to combine. |
+| rect | Rectangle | The [`Rectangle`](../../rectangle) structure to combine. |
 | combineMode | CombineMode | The Member of the [`CombineMode`](../../../system.drawing.drawing2d/combinemode) enumeration that specifies the combining operation to use. |
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * enum [CombineMode](../../../system.drawing.drawing2d/combinemode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -92,7 +94,7 @@ public void SetClip(Rectangle rect, CombineMode combineMode)
 
 ## Graphics.SetClip method (5 of 9)
 
-Sets the clipping region of this [`Graphics`](../../graphics) to the result of the specified operation combining the current clip region and the rectangle specified by a RectangleF structure.
+Sets the clipping region of this [`Graphics`](../../graphics) to the result of the specified operation combining the current clip region and the rectangle specified by a [`RectangleF`](../../rectanglef) structure.
 
 ```csharp
 public void SetClip(RectangleF rect)
@@ -100,10 +102,11 @@ public void SetClip(RectangleF rect)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | The RectangleF structure to combine. |
+| rect | RectangleF | The [`RectangleF`](../../rectanglef) structure to combine. |
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -112,7 +115,7 @@ public void SetClip(RectangleF rect)
 
 ## Graphics.SetClip method (6 of 9)
 
-Sets the clipping region of this [`Graphics`](../../graphics) to the result of the specified operation combining the current clip region and the rectangle specified by a RectangleF structure.
+Sets the clipping region of this [`Graphics`](../../graphics) to the result of the specified operation combining the current clip region and the rectangle specified by a [`RectangleF`](../../rectanglef) structure.
 
 ```csharp
 public void SetClip(RectangleF rect, CombineMode combineMode)
@@ -120,11 +123,12 @@ public void SetClip(RectangleF rect, CombineMode combineMode)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | The Rectangle structure to combine. |
+| rect | RectangleF | The [`Rectangle`](../../rectangle) structure to combine. |
 | combineMode | CombineMode | The combine mode. |
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * enum [CombineMode](../../../system.drawing.drawing2d/combinemode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)

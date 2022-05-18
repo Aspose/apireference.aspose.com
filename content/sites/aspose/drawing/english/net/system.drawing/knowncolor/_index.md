@@ -3,7 +3,7 @@ title: KnownColor
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 880
+weight: 890
 url: /net/system.drawing/knowncolor/
 ---
 ## KnownColor enumeration

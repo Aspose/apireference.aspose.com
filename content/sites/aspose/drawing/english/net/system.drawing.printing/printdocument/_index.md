@@ -3,7 +3,7 @@ title: PrintDocument
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 940
+weight: 970
 url: /net/system.drawing.printing/printdocument/
 ---
 ## PrintDocument class

@@ -3,7 +3,7 @@ title: GraphicsUnit
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 550
+weight: 560
 url: /net/system.drawing/graphicsunit/
 ---
 ## GraphicsUnit enumeration

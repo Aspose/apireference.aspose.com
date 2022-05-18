@@ -3,7 +3,7 @@ title: RotateFlipType
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1020
+weight: 1070
 url: /net/system.drawing/rotatefliptype/
 ---
 ## RotateFlipType enumeration

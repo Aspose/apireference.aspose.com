@@ -3,7 +3,7 @@ title: PenType
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /net/system.drawing.drawing2d/pentype/
 ---
 ## PenType enumeration

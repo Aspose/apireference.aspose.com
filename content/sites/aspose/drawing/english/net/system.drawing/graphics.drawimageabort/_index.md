@@ -3,7 +3,7 @@ title: Graphics.DrawImageAbort
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 530
+weight: 540
 url: /net/system.drawing/graphics.drawimageabort/
 ---
 ## Graphics.DrawImageAbort delegate

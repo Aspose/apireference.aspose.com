@@ -3,7 +3,7 @@ title: CompositingQuality
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /net/system.drawing.drawing2d/compositingquality/
 ---
 ## CompositingQuality enumeration

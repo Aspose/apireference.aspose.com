@@ -68,6 +68,7 @@ public void DrawImage(Image image, Point point)
 ### See Also
 
 * class [Image](../../image)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -90,6 +91,7 @@ public void DrawImage(Image image, Point[] destPoints)
 ### See Also
 
 * class [Image](../../image)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -112,6 +114,7 @@ public void DrawImage(Image image, PointF point)
 ### See Also
 
 * class [Image](../../image)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -134,6 +137,7 @@ public void DrawImage(Image image, PointF[] destPoints)
 ### See Also
 
 * class [Image](../../image)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -181,6 +185,7 @@ public void DrawImage(Image image, Rectangle rect)
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -203,6 +208,7 @@ public void DrawImage(Image image, RectangleF rect)
 ### See Also
 
 * class [Image](../../image)
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -253,6 +259,7 @@ public void DrawImage(Image image, int x, int y, Rectangle srcRect, GraphicsUnit
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -279,6 +286,7 @@ public void DrawImage(Image image, float x, float y, RectangleF srcRect, Graphic
 ### See Also
 
 * class [Image](../../image)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -304,6 +312,8 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 ### See Also
 
 * class [Image](../../image)
+* struct [PointF](../../pointf)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -329,6 +339,8 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 ### See Also
 
 * class [Image](../../image)
+* struct [Point](../../point)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -356,6 +368,8 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 ### See Also
 
 * class [Image](../../image)
+* struct [Point](../../point)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)
@@ -384,6 +398,8 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 ### See Also
 
 * class [Image](../../image)
+* struct [PointF](../../pointf)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)
@@ -410,6 +426,7 @@ public void DrawImage(Image image, Rectangle destRect, Rectangle srcRect, Graphi
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -440,6 +457,7 @@ public void DrawImage(Image image, Rectangle destRect, int srcX, int srcY, int s
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)
@@ -466,6 +484,7 @@ public void DrawImage(Image image, RectangleF destRect, RectangleF srcRect, Grap
 ### See Also
 
 * class [Image](../../image)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -495,6 +514,7 @@ public void DrawImage(Image image, Rectangle destRect, int srcX, int srcY, int s
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -524,6 +544,7 @@ public void DrawImage(Image image, Rectangle destRect, float srcX, float srcY, f
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -554,6 +575,7 @@ public void DrawImage(Image image, Rectangle destRect, float srcX, float srcY, f
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)

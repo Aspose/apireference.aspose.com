@@ -24,6 +24,7 @@ public void DrawClosedCurve(Pen pen, PointF[] points, float tension, FillMode fi
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * enum [FillMode](../../../system.drawing.drawing2d/fillmode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -47,6 +48,7 @@ public void DrawClosedCurve(Pen pen, PointF[] points)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -71,6 +73,7 @@ public void DrawClosedCurve(Pen pen, Point[] points, float tension, FillMode fil
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Point](../../point)
 * enum [FillMode](../../../system.drawing.drawing2d/fillmode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -94,6 +97,7 @@ public void DrawClosedCurve(Pen pen, Point[] points)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

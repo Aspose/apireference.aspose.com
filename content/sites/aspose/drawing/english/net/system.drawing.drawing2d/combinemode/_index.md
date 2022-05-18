@@ -3,7 +3,7 @@ title: CombineMode
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /net/system.drawing.drawing2d/combinemode/
 ---
 ## CombineMode enumeration

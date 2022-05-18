@@ -3,7 +3,7 @@ title: PixelOffsetMode
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /net/system.drawing.drawing2d/pixeloffsetmode/
 ---
 ## PixelOffsetMode enumeration

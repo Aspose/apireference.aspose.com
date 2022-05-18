@@ -22,6 +22,7 @@ public void DrawPolygon(Pen pen, Point[] points)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -44,6 +45,7 @@ public void DrawPolygon(Pen pen, PointF[] points)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

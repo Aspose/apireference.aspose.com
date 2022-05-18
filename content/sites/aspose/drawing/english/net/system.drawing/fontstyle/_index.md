@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 510
+weight: 520
 url: /net/system.drawing/fontstyle/
 ---
 ## FontStyle enumeration

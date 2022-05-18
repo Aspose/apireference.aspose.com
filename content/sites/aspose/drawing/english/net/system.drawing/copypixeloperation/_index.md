@@ -3,7 +3,7 @@ title: CopyPixelOperation
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /net/system.drawing/copypixeloperation/
 ---
 ## CopyPixelOperation enumeration

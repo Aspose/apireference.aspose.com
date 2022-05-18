@@ -22,6 +22,7 @@ public void DrawCurve(Pen pen, PointF[] points)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -44,6 +45,7 @@ public void DrawCurve(Pen pen, Point[] points)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -67,6 +69,7 @@ public void DrawCurve(Pen pen, Point[] points, float tension)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -91,6 +94,7 @@ public void DrawCurve(Pen pen, PointF[] points, int offset, int numberOfSegments
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -116,6 +120,7 @@ public void DrawCurve(Pen pen, PointF[] points, int offset, int numberOfSegments
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -141,6 +146,7 @@ public void DrawCurve(Pen pen, Point[] points, int offset, int numberOfSegments,
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -164,6 +170,7 @@ public void DrawCurve(Pen pen, PointF[] points, float tension)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

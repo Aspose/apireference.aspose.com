@@ -3,7 +3,7 @@ title: HatchStyle
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /net/system.drawing.drawing2d/hatchstyle/
 ---
 ## HatchStyle enumeration

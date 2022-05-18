@@ -3,7 +3,7 @@ title: InstalledFontCollection
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1150
+weight: 1220
 url: /net/system.drawing.text/installedfontcollection/
 ---
 ## InstalledFontCollection class
@@ -19,6 +19,18 @@ public sealed class InstalledFontCollection : FontCollection
 | Name | Description |
 | --- | --- |
 | [InstalledFontCollection](installedfontcollection)() | Initializes a new instance of the InstalledFontCollection class. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Families](../../system.drawing.text/fontcollection/families) { get; } | Gets the array of FontFamily objects associated with this FontCollection. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Dispose](../../system.drawing.text/fontcollection/dispose)() | Releases all resources used by this FontCollection. |
 
 ### See Also
 

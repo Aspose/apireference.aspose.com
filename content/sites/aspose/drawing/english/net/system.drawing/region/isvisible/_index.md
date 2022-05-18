@@ -49,6 +49,7 @@ true when *point* is contained within this Region; otherwise, false.
 
 ### See Also
 
+* struct [PointF](../../pointf)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
@@ -101,6 +102,7 @@ true when *point* is contained within this Region; otherwise, false.
 
 ### See Also
 
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
@@ -153,6 +155,7 @@ true when any portion of *rect* is contained within this Region; otherwise, fals
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
@@ -207,6 +210,7 @@ true when *rect* is contained within this Region; otherwise, false.
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
@@ -259,6 +263,7 @@ true when *point* is contained within this Region; otherwise, false.
 
 ### See Also
 
+* struct [Point](../../point)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
@@ -284,6 +289,7 @@ true when *point* is contained within this Region; otherwise, false.
 
 ### See Also
 
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
@@ -336,6 +342,7 @@ This method returns true when any portion of *rect* is contained within this Reg
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
@@ -390,6 +397,7 @@ true when any portion of the *rect* is contained within this Region; otherwise, 
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)

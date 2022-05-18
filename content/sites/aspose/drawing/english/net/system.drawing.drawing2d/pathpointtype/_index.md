@@ -3,7 +3,7 @@ title: PathPointType
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /net/system.drawing.drawing2d/pathpointtype/
 ---
 ## PathPointType enumeration

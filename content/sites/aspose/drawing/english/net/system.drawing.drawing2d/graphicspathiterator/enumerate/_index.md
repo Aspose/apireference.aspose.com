@@ -25,6 +25,7 @@ The number of points copied.
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [GraphicsPathIterator](../../graphicspathiterator)
 * namespace [System.Drawing.Drawing2D](../../graphicspathiterator)
 * assembly [Aspose.Drawing](../../../)

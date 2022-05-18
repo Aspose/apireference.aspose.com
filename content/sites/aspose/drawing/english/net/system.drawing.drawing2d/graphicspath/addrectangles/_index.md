@@ -20,6 +20,7 @@ public void AddRectangles(RectangleF[] rects)
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
@@ -40,6 +41,7 @@ public void AddRectangles(Rectangle[] rects)
 
 ### See Also
 
+* struct [Rectangle](../../../system.drawing/rectangle)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)

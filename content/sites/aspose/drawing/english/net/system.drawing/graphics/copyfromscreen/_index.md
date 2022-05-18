@@ -22,6 +22,8 @@ public void CopyFromScreen(Point upperLeftSource, Point upperLeftDestination, Si
 
 ### See Also
 
+* struct [Point](../../point)
+* struct [Size](../../size)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -48,6 +50,7 @@ public void CopyFromScreen(int sourceX, int sourceY, int destinationX, int desti
 
 ### See Also
 
+* struct [Size](../../size)
 * enum [CopyPixelOperation](../../copypixeloperation)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -73,6 +76,8 @@ public void CopyFromScreen(Point upperLeftSource, Point upperLeftDestination, Si
 
 ### See Also
 
+* struct [Point](../../point)
+* struct [Size](../../size)
 * enum [CopyPixelOperation](../../copypixeloperation)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)

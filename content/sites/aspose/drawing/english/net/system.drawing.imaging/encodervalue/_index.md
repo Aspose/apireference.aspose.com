@@ -3,7 +3,7 @@ title: EncoderValue
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 710
+weight: 720
 url: /net/system.drawing.imaging/encodervalue/
 ---
 ## EncoderValue enumeration

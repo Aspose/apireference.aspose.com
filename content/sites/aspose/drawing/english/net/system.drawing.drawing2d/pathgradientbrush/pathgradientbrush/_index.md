@@ -20,6 +20,7 @@ public PathGradientBrush(PointF[] points)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [PathGradientBrush](../../pathgradientbrush)
 * namespace [System.Drawing.Drawing2D](../../pathgradientbrush)
 * assembly [Aspose.Drawing](../../../)
@@ -41,6 +42,7 @@ public PathGradientBrush(PointF[] points, WrapMode wrapMode)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * enum [WrapMode](../../wrapmode)
 * class [PathGradientBrush](../../pathgradientbrush)
 * namespace [System.Drawing.Drawing2D](../../pathgradientbrush)
@@ -62,6 +64,7 @@ public PathGradientBrush(Point[] points)
 
 ### See Also
 
+* struct [Point](../../../system.drawing/point)
 * class [PathGradientBrush](../../pathgradientbrush)
 * namespace [System.Drawing.Drawing2D](../../pathgradientbrush)
 * assembly [Aspose.Drawing](../../../)
@@ -83,6 +86,7 @@ public PathGradientBrush(Point[] points, WrapMode wrapMode)
 
 ### See Also
 
+* struct [Point](../../../system.drawing/point)
 * enum [WrapMode](../../wrapmode)
 * class [PathGradientBrush](../../pathgradientbrush)
 * namespace [System.Drawing.Drawing2D](../../pathgradientbrush)

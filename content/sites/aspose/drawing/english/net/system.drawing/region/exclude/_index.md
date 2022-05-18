@@ -20,6 +20,7 @@ public void Exclude(RectangleF rect)
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
@@ -40,6 +41,7 @@ public void Exclude(Rectangle rect)
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)

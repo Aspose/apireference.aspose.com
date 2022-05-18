@@ -3,7 +3,7 @@ title: TextRenderingHint
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1180
+weight: 1250
 url: /net/system.drawing.text/textrenderinghint/
 ---
 ## TextRenderingHint enumeration

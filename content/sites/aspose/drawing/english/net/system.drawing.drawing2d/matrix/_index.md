@@ -3,7 +3,7 @@ title: Matrix
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /net/system.drawing.drawing2d/matrix/
 ---
 ## Matrix class
@@ -27,35 +27,35 @@ public sealed class Matrix : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Elements](elements) { get; } | Gets an array of floating-point values that represents the elements of this Matrix. |
-| [IsIdentity](isidentity) { get; } | Gets a value indicating whether this Matrix is the identity matrix. |
-| [IsInvertible](isinvertible) { get; } | Gets a value indicating whether this Matrix is invertible. |
-| [OffsetX](offsetx) { get; } | Gets the x translation value (the dx value, or the element in the third row and first column) of this Matrix. |
-| [OffsetY](offsety) { get; } | Gets the y translation value (the `dy` value, or the element in the third row and second column) of this Matrix. |
+| [Elements](../../system.drawing.drawing2d/matrix/elements) { get; } | Gets an array of floating-point values that represents the elements of this Matrix. |
+| [IsIdentity](../../system.drawing.drawing2d/matrix/isidentity) { get; } | Gets a value indicating whether this Matrix is the identity matrix. |
+| [IsInvertible](../../system.drawing.drawing2d/matrix/isinvertible) { get; } | Gets a value indicating whether this Matrix is invertible. |
+| [OffsetX](../../system.drawing.drawing2d/matrix/offsetx) { get; } | Gets the x translation value (the dx value, or the element in the third row and first column) of this Matrix. |
+| [OffsetY](../../system.drawing.drawing2d/matrix/offsety) { get; } | Gets the y translation value (the `dy` value, or the element in the third row and second column) of this Matrix. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates an exact copy of this Matrix. |
-| [Dispose](dispose)() | Releases all resources used by this Matrix. |
-| [Invert](invert)() | Inverts this Matrix, if it is invertible. |
-| [Multiply](multiply)(Matrix) | Multiplies this Matrix by the matrix specified in the *matrix* parameter, by prepending the specified Matrix. |
-| [Multiply](multiply)(Matrix, MatrixOrder) | Multiplies this Matrix by the matrix specified in the *matrix* parameter, and in the order specified in the *order* parameter. |
-| [Reset](reset)() | Resets this Matrix to have the elements of the identity matrix. |
-| [Rotate](rotate)(float) | Prepend to this Matrix a clockwise rotation, around the origin and by the specified angle. |
-| [Rotate](rotate)(float, MatrixOrder) | Applies a clockwise rotation of an amount specified in the angle parameter, around the origin (zero x and y coordinates) for this Matrix. |
-| [RotateAt](rotateat)(float, PointF) | Applies a clockwise rotation to this Matrix around the point specified in the point parameter, and by prepending the rotation. |
-| [RotateAt](rotateat)(float, PointF, MatrixOrder) | Applies a clockwise rotation about the specified point to this Matrix in the specified order. |
-| [Scale](scale)(float, float) | Applies the specified scale vector to this Matrix by prepending the scale vector. |
-| [Scale](scale)(float, float, MatrixOrder) | Applies the specified scale vector (scaleX and scaleY) to this Matrix using the specified order. |
-| [Shear](shear)(float, float) | Applies the specified shear vector to this Matrix by prepending the shear transformation. |
-| [Shear](shear)(float, float, MatrixOrder) | Applies the specified shear vector to this Matrix in the specified order. |
-| [TransformPoints](transformpoints)(PointF[]) | Applies the geometric transform represented by this Matrix to a specified array of points. |
-| [TransformPoints](transformpoints)(Point[]) | Applies the geometric transform represented by this Matrix to a specified array of points. |
-| [TransformVectors](transformvectors)(PointF[]) | Multiplies each vector in an array by the matrix. The translation elements of this matrix (third row) are ignored. |
-| [Translate](translate)(float, float) | Applies the specified translation vector (offsetX and offsetY) to this Matrix by prepending the translation vector. |
-| [Translate](translate)(float, float, MatrixOrder) | Applies the specified translation vector to this Matrix in the specified order. |
+| [Clone](../../system.drawing.drawing2d/matrix/clone)() | Creates an exact copy of this Matrix. |
+| [Dispose](../../system.drawing.drawing2d/matrix/dispose)() | Releases all resources used by this Matrix. |
+| [Invert](../../system.drawing.drawing2d/matrix/invert)() | Inverts this Matrix, if it is invertible. |
+| [Multiply](../../system.drawing.drawing2d/matrix/multiply)(Matrix) | Multiplies this Matrix by the matrix specified in the *matrix* parameter, by prepending the specified Matrix. |
+| [Multiply](../../system.drawing.drawing2d/matrix/multiply)(Matrix, MatrixOrder) | Multiplies this Matrix by the matrix specified in the *matrix* parameter, and in the order specified in the *order* parameter. |
+| [Reset](../../system.drawing.drawing2d/matrix/reset)() | Resets this Matrix to have the elements of the identity matrix. |
+| [Rotate](../../system.drawing.drawing2d/matrix/rotate)(float) | Prepend to this Matrix a clockwise rotation, around the origin and by the specified angle. |
+| [Rotate](../../system.drawing.drawing2d/matrix/rotate)(float, MatrixOrder) | Applies a clockwise rotation of an amount specified in the angle parameter, around the origin (zero x and y coordinates) for this Matrix. |
+| [RotateAt](../../system.drawing.drawing2d/matrix/rotateat)(float, PointF) | Applies a clockwise rotation to this Matrix around the point specified in the point parameter, and by prepending the rotation. |
+| [RotateAt](../../system.drawing.drawing2d/matrix/rotateat)(float, PointF, MatrixOrder) | Applies a clockwise rotation about the specified point to this Matrix in the specified order. |
+| [Scale](../../system.drawing.drawing2d/matrix/scale)(float, float) | Applies the specified scale vector to this Matrix by prepending the scale vector. |
+| [Scale](../../system.drawing.drawing2d/matrix/scale)(float, float, MatrixOrder) | Applies the specified scale vector (scaleX and scaleY) to this Matrix using the specified order. |
+| [Shear](../../system.drawing.drawing2d/matrix/shear)(float, float) | Applies the specified shear vector to this Matrix by prepending the shear transformation. |
+| [Shear](../../system.drawing.drawing2d/matrix/shear)(float, float, MatrixOrder) | Applies the specified shear vector to this Matrix in the specified order. |
+| [TransformPoints](../../system.drawing.drawing2d/matrix/transformpoints)(PointF[]) | Applies the geometric transform represented by this Matrix to a specified array of points. |
+| [TransformPoints](../../system.drawing.drawing2d/matrix/transformpoints)(Point[]) | Applies the geometric transform represented by this Matrix to a specified array of points. |
+| [TransformVectors](../../system.drawing.drawing2d/matrix/transformvectors)(PointF[]) | Multiplies each vector in an array by the matrix. The translation elements of this matrix (third row) are ignored. |
+| [Translate](../../system.drawing.drawing2d/matrix/translate)(float, float) | Applies the specified translation vector (offsetX and offsetY) to this Matrix by prepending the translation vector. |
+| [Translate](../../system.drawing.drawing2d/matrix/translate)(float, float, MatrixOrder) | Applies the specified translation vector to this Matrix in the specified order. |
 
 ### See Also
 

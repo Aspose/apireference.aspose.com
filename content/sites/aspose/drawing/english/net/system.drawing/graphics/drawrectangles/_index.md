@@ -22,6 +22,7 @@ public void DrawRectangles(Pen pen, RectangleF[] rects)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -44,6 +45,7 @@ public void DrawRectangles(Pen pen, Rectangle[] rects)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

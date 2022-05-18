@@ -62,6 +62,8 @@ public Matrix(Rectangle rect, Point[] plgpts)
 
 ### See Also
 
+* struct [Rectangle](../../../system.drawing/rectangle)
+* struct [Point](../../../system.drawing/point)
 * class [Matrix](../../matrix)
 * namespace [System.Drawing.Drawing2D](../../matrix)
 * assembly [Aspose.Drawing](../../../)
@@ -83,6 +85,8 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
+* struct [PointF](../../../system.drawing/pointf)
 * class [Matrix](../../matrix)
 * namespace [System.Drawing.Drawing2D](../../matrix)
 * assembly [Aspose.Drawing](../../../)

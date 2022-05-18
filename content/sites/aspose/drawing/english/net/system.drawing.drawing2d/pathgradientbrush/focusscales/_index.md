@@ -16,6 +16,7 @@ public PointF FocusScales { get; set; }
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [PathGradientBrush](../../pathgradientbrush)
 * namespace [System.Drawing.Drawing2D](../../pathgradientbrush)
 * assembly [Aspose.Drawing](../../../)

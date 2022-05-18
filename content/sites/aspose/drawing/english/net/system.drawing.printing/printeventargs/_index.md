@@ -3,7 +3,7 @@ title: PrintEventArgs
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 950
+weight: 980
 url: /net/system.drawing.printing/printeventargs/
 ---
 ## PrintEventArgs class

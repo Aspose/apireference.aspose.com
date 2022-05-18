@@ -3,7 +3,7 @@ title: FillMode
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /net/system.drawing.drawing2d/fillmode/
 ---
 ## FillMode enumeration

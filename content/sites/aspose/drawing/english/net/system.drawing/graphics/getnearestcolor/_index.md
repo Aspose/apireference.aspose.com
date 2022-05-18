@@ -24,6 +24,7 @@ A Color structure that represents the nearest color to the one specified with th
 
 ### See Also
 
+* struct [Color](../../color)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

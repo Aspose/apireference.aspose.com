@@ -25,6 +25,7 @@ This method returns `true` if the specified point is contained within the outlin
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [Pen](../../../system.drawing/pen)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)

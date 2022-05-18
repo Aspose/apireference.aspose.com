@@ -24,6 +24,7 @@ The RectangleF that represents the bounds of the image, in the specified unit.
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * class [Image](../../image)
 * namespace [System.Drawing](../../image)

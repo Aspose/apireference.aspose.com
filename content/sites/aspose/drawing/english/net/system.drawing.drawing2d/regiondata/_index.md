@@ -3,7 +3,7 @@ title: RegionData
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 440
+weight: 450
 url: /net/system.drawing.drawing2d/regiondata/
 ---
 ## RegionData class
@@ -18,7 +18,7 @@ public sealed class RegionData
 
 | Name | Description |
 | --- | --- |
-| [Data](data) { get; set; } | Gets or sets an array of bytes that specify the Region object. |
+| [Data](../../system.drawing.drawing2d/regiondata/data) { get; set; } | Gets or sets an array of bytes that specify the Region object. |
 
 ### See Also
 

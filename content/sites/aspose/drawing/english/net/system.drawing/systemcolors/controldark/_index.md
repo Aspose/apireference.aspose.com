@@ -16,6 +16,7 @@ public static Color ControlDark { get; }
 
 ### See Also
 
+* struct [Color](../../color)
 * class [SystemColors](../../systemcolors)
 * namespace [System.Drawing](../../systemcolors)
 * assembly [Aspose.Drawing](../../../)

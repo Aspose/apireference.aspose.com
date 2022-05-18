@@ -3,7 +3,7 @@ title: FrameDimension
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 720
+weight: 730
 url: /net/system.drawing.imaging/framedimension/
 ---
 ## FrameDimension class
@@ -24,18 +24,18 @@ public sealed class FrameDimension
 
 | Name | Description |
 | --- | --- |
-| static [Page](page) { get; } | Gets the page dimension. |
-| static [Resolution](resolution) { get; } | Gets the resolution dimension. |
-| static [Time](time) { get; } | Gets the time dimension. |
-| [Guid](guid) { get; } | Gets a globally unique identifier (GUID) that represents this FrameDimension object. |
+| static [Page](../../system.drawing.imaging/framedimension/page) { get; } | Gets the page dimension. |
+| static [Resolution](../../system.drawing.imaging/framedimension/resolution) { get; } | Gets the resolution dimension. |
+| static [Time](../../system.drawing.imaging/framedimension/time) { get; } | Gets the time dimension. |
+| [Guid](../../system.drawing.imaging/framedimension/guid) { get; } | Gets a globally unique identifier (GUID) that represents this FrameDimension object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Returns a value that indicates whether the specified object is a FrameDimension equivalent to this FrameDimension object. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this FrameDimension object. |
-| override [ToString](tostring)() | Converts this FrameDimension object to a human-readable string. |
+| override [Equals](../../system.drawing.imaging/framedimension/equals)(object) | Returns a value that indicates whether the specified object is a FrameDimension equivalent to this FrameDimension object. |
+| override [GetHashCode](../../system.drawing.imaging/framedimension/gethashcode)() | Returns a hash code for this FrameDimension object. |
+| override [ToString](../../system.drawing.imaging/framedimension/tostring)() | Converts this FrameDimension object to a human-readable string. |
 
 ### See Also
 

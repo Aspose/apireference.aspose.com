@@ -20,6 +20,7 @@ A Rectangle that represents the length and width, in hundredths of an inch, of t
 
 ### See Also
 
+* struct [Rectangle](../../../system.drawing/rectangle)
 * class [PageSettings](../../pagesettings)
 * namespace [System.Drawing.Printing](../../pagesettings)
 * assembly [Aspose.Drawing](../../../)

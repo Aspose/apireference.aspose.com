@@ -3,7 +3,7 @@ title: ColorMatrix
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /net/system.drawing.imaging/colormatrix/
 ---
 ## ColorMatrix class
@@ -25,32 +25,32 @@ public sealed class ColorMatrix
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; set; } | Gets or sets the element at the specified row and column in the ColorMatrix. |
-| [Matrix00](matrix00) { get; set; } | Gets or sets the element at the 0 (zero) row and 0 column of this ColorMatrix. |
-| [Matrix01](matrix01) { get; set; } | Gets or sets the element at the 0 (zero) row and first column of this ColorMatrix. |
-| [Matrix02](matrix02) { get; set; } | Gets or sets the element at the 0 (zero) row and second column of this ColorMatrix. |
-| [Matrix03](matrix03) { get; set; } | Gets or sets the element at the 0 (zero) row and third column of this ColorMatrix. |
-| [Matrix04](matrix04) { get; set; } | Gets or sets the element at the 0 (zero) row and fourth column of this ColorMatrix. |
-| [Matrix10](matrix10) { get; set; } | Gets or sets the element at the first row and 0 (zero) column of this ColorMatrix. |
-| [Matrix11](matrix11) { get; set; } | Gets or sets the element at the first row and first column of this ColorMatrix. |
-| [Matrix12](matrix12) { get; set; } | Gets or sets the element at the first row and second column of this ColorMatrix. |
-| [Matrix13](matrix13) { get; set; } | Gets or sets the element at the first row and third column of this ColorMatrix. |
-| [Matrix14](matrix14) { get; set; } | Gets or sets the element at the first row and fourth column of this ColorMatrix. |
-| [Matrix20](matrix20) { get; set; } | Gets or sets the element at the second row and 0 (zero) column of this ColorMatrix. |
-| [Matrix21](matrix21) { get; set; } | Gets or sets the element at the second row and first column of this ColorMatrix. |
-| [Matrix22](matrix22) { get; set; } | Gets or sets the element at the second row and second column of this ColorMatrix. |
-| [Matrix23](matrix23) { get; set; } | Gets or sets the element at the second row and third column of this ColorMatrix. |
-| [Matrix24](matrix24) { get; set; } | Gets or sets the element at the second row and fourth column of this ColorMatrix. |
-| [Matrix30](matrix30) { get; set; } | Gets or sets the element at the third row and 0 (zero) column of this ColorMatrix. |
-| [Matrix31](matrix31) { get; set; } | Gets or sets the element at the third row and first column of this ColorMatrix. |
-| [Matrix32](matrix32) { get; set; } | Gets or sets the element at the third row and second column of this ColorMatrix. |
-| [Matrix33](matrix33) { get; set; } | Gets or sets the element at the third row and third column of this ColorMatrix. |
-| [Matrix34](matrix34) { get; set; } | Gets or sets the element at the third row and fourth column of this ColorMatrix. |
-| [Matrix40](matrix40) { get; set; } | Gets or sets the element at the fourth row and 0 (zero) column of this ColorMatrix. |
-| [Matrix41](matrix41) { get; set; } | Gets or sets the element at the fourth row and first column of this T:.ColorMatrix. |
-| [Matrix42](matrix42) { get; set; } | Gets or sets the element at the fourth row and second column of this ColorMatrix. |
-| [Matrix43](matrix43) { get; set; } | Gets or sets the element at the fourth row and third column of this ColorMatrix. |
-| [Matrix44](matrix44) { get; set; } | Gets or sets the element at the fourth row and fourth column of this ColorMatrix. |
+| [Item](../../system.drawing.imaging/colormatrix/item) { get; set; } | Gets or sets the element at the specified row and column in the ColorMatrix. |
+| [Matrix00](../../system.drawing.imaging/colormatrix/matrix00) { get; set; } | Gets or sets the element at the 0 (zero) row and 0 column of this ColorMatrix. |
+| [Matrix01](../../system.drawing.imaging/colormatrix/matrix01) { get; set; } | Gets or sets the element at the 0 (zero) row and first column of this ColorMatrix. |
+| [Matrix02](../../system.drawing.imaging/colormatrix/matrix02) { get; set; } | Gets or sets the element at the 0 (zero) row and second column of this ColorMatrix. |
+| [Matrix03](../../system.drawing.imaging/colormatrix/matrix03) { get; set; } | Gets or sets the element at the 0 (zero) row and third column of this ColorMatrix. |
+| [Matrix04](../../system.drawing.imaging/colormatrix/matrix04) { get; set; } | Gets or sets the element at the 0 (zero) row and fourth column of this ColorMatrix. |
+| [Matrix10](../../system.drawing.imaging/colormatrix/matrix10) { get; set; } | Gets or sets the element at the first row and 0 (zero) column of this ColorMatrix. |
+| [Matrix11](../../system.drawing.imaging/colormatrix/matrix11) { get; set; } | Gets or sets the element at the first row and first column of this ColorMatrix. |
+| [Matrix12](../../system.drawing.imaging/colormatrix/matrix12) { get; set; } | Gets or sets the element at the first row and second column of this ColorMatrix. |
+| [Matrix13](../../system.drawing.imaging/colormatrix/matrix13) { get; set; } | Gets or sets the element at the first row and third column of this ColorMatrix. |
+| [Matrix14](../../system.drawing.imaging/colormatrix/matrix14) { get; set; } | Gets or sets the element at the first row and fourth column of this ColorMatrix. |
+| [Matrix20](../../system.drawing.imaging/colormatrix/matrix20) { get; set; } | Gets or sets the element at the second row and 0 (zero) column of this ColorMatrix. |
+| [Matrix21](../../system.drawing.imaging/colormatrix/matrix21) { get; set; } | Gets or sets the element at the second row and first column of this ColorMatrix. |
+| [Matrix22](../../system.drawing.imaging/colormatrix/matrix22) { get; set; } | Gets or sets the element at the second row and second column of this ColorMatrix. |
+| [Matrix23](../../system.drawing.imaging/colormatrix/matrix23) { get; set; } | Gets or sets the element at the second row and third column of this ColorMatrix. |
+| [Matrix24](../../system.drawing.imaging/colormatrix/matrix24) { get; set; } | Gets or sets the element at the second row and fourth column of this ColorMatrix. |
+| [Matrix30](../../system.drawing.imaging/colormatrix/matrix30) { get; set; } | Gets or sets the element at the third row and 0 (zero) column of this ColorMatrix. |
+| [Matrix31](../../system.drawing.imaging/colormatrix/matrix31) { get; set; } | Gets or sets the element at the third row and first column of this ColorMatrix. |
+| [Matrix32](../../system.drawing.imaging/colormatrix/matrix32) { get; set; } | Gets or sets the element at the third row and second column of this ColorMatrix. |
+| [Matrix33](../../system.drawing.imaging/colormatrix/matrix33) { get; set; } | Gets or sets the element at the third row and third column of this ColorMatrix. |
+| [Matrix34](../../system.drawing.imaging/colormatrix/matrix34) { get; set; } | Gets or sets the element at the third row and fourth column of this ColorMatrix. |
+| [Matrix40](../../system.drawing.imaging/colormatrix/matrix40) { get; set; } | Gets or sets the element at the fourth row and 0 (zero) column of this ColorMatrix. |
+| [Matrix41](../../system.drawing.imaging/colormatrix/matrix41) { get; set; } | Gets or sets the element at the fourth row and first column of this T:.ColorMatrix. |
+| [Matrix42](../../system.drawing.imaging/colormatrix/matrix42) { get; set; } | Gets or sets the element at the fourth row and second column of this ColorMatrix. |
+| [Matrix43](../../system.drawing.imaging/colormatrix/matrix43) { get; set; } | Gets or sets the element at the fourth row and third column of this ColorMatrix. |
+| [Matrix44](../../system.drawing.imaging/colormatrix/matrix44) { get; set; } | Gets or sets the element at the fourth row and fourth column of this ColorMatrix. |
 
 ### See Also
 

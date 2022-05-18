@@ -20,6 +20,7 @@ public void Clear(Color color)
 
 ### See Also
 
+* struct [Color](../../color)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

@@ -20,6 +20,7 @@ public Pen(Color color)
 
 ### See Also
 
+* struct [Color](../../color)
 * class [Pen](../../pen)
 * namespace [System.Drawing](../../pen)
 * assembly [Aspose.Drawing](../../../)
@@ -84,6 +85,7 @@ public Pen(Color color, float width)
 
 ### See Also
 
+* struct [Color](../../color)
 * class [Pen](../../pen)
 * namespace [System.Drawing](../../pen)
 * assembly [Aspose.Drawing](../../../)

@@ -23,6 +23,7 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [PointF](../../pointf)
 * enum [FillMode](../../../system.drawing.drawing2d/fillmode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -46,6 +47,7 @@ public void FillPolygon(Brush brush, PointF[] points)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -68,6 +70,7 @@ public void FillPolygon(Brush brush, Point[] points)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -91,6 +94,7 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [Point](../../point)
 * enum [FillMode](../../../system.drawing.drawing2d/fillmode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)

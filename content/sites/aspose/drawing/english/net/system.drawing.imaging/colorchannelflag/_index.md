@@ -3,7 +3,7 @@ title: ColorChannelFlag
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /net/system.drawing.imaging/colorchannelflag/
 ---
 ## ColorChannelFlag enumeration

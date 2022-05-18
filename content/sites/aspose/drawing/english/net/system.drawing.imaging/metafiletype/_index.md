@@ -3,7 +3,7 @@ title: MetafileType
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 820
+weight: 830
 url: /net/system.drawing.imaging/metafiletype/
 ---
 ## MetafileType enumeration

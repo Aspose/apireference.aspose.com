@@ -3,7 +3,7 @@ title: PropertyItem
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 860
+weight: 870
 url: /net/system.drawing.imaging/propertyitem/
 ---
 ## PropertyItem class
@@ -18,10 +18,10 @@ public sealed class PropertyItem
 
 | Name | Description |
 | --- | --- |
-| [Id](id) { get; set; } | Gets or sets the ID of the property. |
-| [Len](len) { get; set; } | Gets or sets the length (in bytes) of the [`Value`](./value) property. |
-| [Type](type) { get; set; } | Gets or sets an integer that defines the type of data contained in the [`Value`](./value) property. |
-| [Value](value) { get; set; } | Gets or sets the value of the property item. |
+| [Id](../../system.drawing.imaging/propertyitem/id) { get; set; } | Gets or sets the ID of the property. |
+| [Len](../../system.drawing.imaging/propertyitem/len) { get; set; } | Gets or sets the length (in bytes) of the [`Value`](./value) property. |
+| [Type](../../system.drawing.imaging/propertyitem/type) { get; set; } | Gets or sets an integer that defines the type of data contained in the [`Value`](./value) property. |
+| [Value](../../system.drawing.imaging/propertyitem/value) { get; set; } | Gets or sets the value of the property item. |
 
 ### See Also
 

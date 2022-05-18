@@ -21,6 +21,8 @@ public void Warp(PointF[] destPoints, RectangleF srcRect)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
@@ -43,6 +45,8 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [Matrix](../../matrix)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
@@ -67,6 +71,8 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [Matrix](../../matrix)
 * enum [WarpMode](../../warpmode)
 * class [GraphicsPath](../../graphicspath)
@@ -94,6 +100,8 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [Matrix](../../matrix)
 * enum [WarpMode](../../warpmode)
 * class [GraphicsPath](../../graphicspath)

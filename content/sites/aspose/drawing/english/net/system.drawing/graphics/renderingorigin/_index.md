@@ -20,6 +20,7 @@ A Point structure that represents the dither origin for 8-bits-per-pixel and 16-
 
 ### See Also
 
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

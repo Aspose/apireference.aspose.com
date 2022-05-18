@@ -20,6 +20,7 @@ TAn array of PointF objects that represents the points through which the path is
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [PathData](../../pathdata)
 * namespace [System.Drawing.Drawing2D](../../pathdata)
 * assembly [Aspose.Drawing](../../../)

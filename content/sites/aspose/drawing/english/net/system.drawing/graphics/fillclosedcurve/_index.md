@@ -24,6 +24,7 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, flo
 ### See Also
 
 * class [Brush](../../brush)
+* struct [PointF](../../pointf)
 * enum [FillMode](../../../system.drawing.drawing2d/fillmode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -47,6 +48,7 @@ public void FillClosedCurve(Brush brush, PointF[] points)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -70,6 +72,7 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [PointF](../../pointf)
 * enum [FillMode](../../../system.drawing.drawing2d/fillmode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -93,6 +96,7 @@ public void FillClosedCurve(Brush brush, Point[] points)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -116,6 +120,7 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [Point](../../point)
 * enum [FillMode](../../../system.drawing.drawing2d/fillmode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -141,6 +146,7 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, floa
 ### See Also
 
 * class [Brush](../../brush)
+* struct [Point](../../point)
 * enum [FillMode](../../../system.drawing.drawing2d/fillmode)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)

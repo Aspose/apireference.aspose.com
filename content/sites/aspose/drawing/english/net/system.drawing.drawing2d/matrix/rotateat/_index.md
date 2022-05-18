@@ -21,6 +21,7 @@ public void RotateAt(float angle, PointF point)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * class [Matrix](../../matrix)
 * namespace [System.Drawing.Drawing2D](../../matrix)
 * assembly [Aspose.Drawing](../../../)
@@ -43,6 +44,7 @@ public void RotateAt(float angle, PointF point, MatrixOrder order)
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
 * enum [MatrixOrder](../../matrixorder)
 * class [Matrix](../../matrix)
 * namespace [System.Drawing.Drawing2D](../../matrix)

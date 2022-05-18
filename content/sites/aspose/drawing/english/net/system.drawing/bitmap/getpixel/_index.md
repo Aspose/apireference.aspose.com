@@ -25,6 +25,7 @@ A Color structure that represents the color of the specified pixel.
 
 ### See Also
 
+* struct [Color](../../color)
 * class [Bitmap](../../bitmap)
 * namespace [System.Drawing](../../bitmap)
 * assembly [Aspose.Drawing](../../../)

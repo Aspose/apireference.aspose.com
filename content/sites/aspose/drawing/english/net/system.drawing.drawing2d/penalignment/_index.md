@@ -3,7 +3,7 @@ title: PenAlignment
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /net/system.drawing.drawing2d/penalignment/
 ---
 ## PenAlignment enumeration

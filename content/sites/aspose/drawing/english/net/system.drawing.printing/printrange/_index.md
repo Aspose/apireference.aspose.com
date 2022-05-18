@@ -3,7 +3,7 @@ title: PrintRange
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 970
+weight: 1000
 url: /net/system.drawing.printing/printrange/
 ---
 ## PrintRange enumeration

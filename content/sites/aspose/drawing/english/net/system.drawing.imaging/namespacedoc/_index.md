@@ -3,7 +3,7 @@ title: NamespaceDoc
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 830
+weight: 840
 url: /net/system.drawing.imaging/namespacedoc/
 ---
 ## NamespaceDoc class

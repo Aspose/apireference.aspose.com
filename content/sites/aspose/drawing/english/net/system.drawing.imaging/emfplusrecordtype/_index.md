@@ -3,7 +3,7 @@ title: EmfPlusRecordType
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 660
+weight: 670
 url: /net/system.drawing.imaging/emfplusrecordtype/
 ---
 ## EmfPlusRecordType enumeration

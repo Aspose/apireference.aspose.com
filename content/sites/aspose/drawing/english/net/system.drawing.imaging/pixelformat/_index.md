@@ -3,7 +3,7 @@ title: PixelFormat
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 840
+weight: 850
 url: /net/system.drawing.imaging/pixelformat/
 ---
 ## PixelFormat enumeration

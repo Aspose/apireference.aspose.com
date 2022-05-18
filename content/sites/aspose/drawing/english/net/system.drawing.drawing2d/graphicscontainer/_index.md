@@ -3,7 +3,7 @@ title: GraphicsContainer
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /net/system.drawing.drawing2d/graphicscontainer/
 ---
 ## GraphicsContainer class

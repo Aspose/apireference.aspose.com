@@ -3,7 +3,7 @@ title: ColorAdjustType
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /net/system.drawing.imaging/coloradjusttype/
 ---
 ## ColorAdjustType enumeration

@@ -3,7 +3,7 @@ title: HatchBrush
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /net/system.drawing.drawing2d/hatchbrush/
 ---
 ## HatchBrush class
@@ -25,15 +25,16 @@ public sealed class HatchBrush : Brush
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](backgroundcolor) { get; } | Gets the color of spaces between the hatch lines drawn by this HatchBrush object. |
-| [ForegroundColor](foregroundcolor) { get; } | Gets the color of hatch lines drawn by this HatchBrush object. |
-| [HatchStyle](hatchstyle) { get; } | Gets the hatch style of this HatchBrush object. |
+| [BackgroundColor](../../system.drawing.drawing2d/hatchbrush/backgroundcolor) { get; } | Gets the color of spaces between the hatch lines drawn by this HatchBrush object. |
+| [ForegroundColor](../../system.drawing.drawing2d/hatchbrush/foregroundcolor) { get; } | Gets the color of hatch lines drawn by this HatchBrush object. |
+| [HatchStyle](../../system.drawing.drawing2d/hatchbrush/hatchstyle) { get; } | Gets the hatch style of this HatchBrush object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](clone)() | Creates an exact copy of this HatchBrush object. |
+| override [Clone](../../system.drawing.drawing2d/hatchbrush/clone)() | Creates an exact copy of this HatchBrush object. |
+| [Dispose](../../system.drawing/brush/dispose)() | Releases all resources used by this Brush object. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ColorPalette
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 650
+weight: 660
 url: /net/system.drawing.imaging/colorpalette/
 ---
 ## ColorPalette class
@@ -18,8 +18,8 @@ public sealed class ColorPalette
 
 | Name | Description |
 | --- | --- |
-| [Entries](entries) { get; } | Gets an array of Color structures. |
-| [Flags](flags) { get; } | Gets a value that specifies how to interpret the color information in the array of colors. |
+| [Entries](../../system.drawing.imaging/colorpalette/entries) { get; } | Gets an array of Color structures. |
+| [Flags](../../system.drawing.imaging/colorpalette/flags) { get; } | Gets a value that specifies how to interpret the color information in the array of colors. |
 
 ### See Also
 

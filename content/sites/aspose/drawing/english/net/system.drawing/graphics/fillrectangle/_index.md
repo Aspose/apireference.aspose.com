@@ -47,6 +47,7 @@ public void FillRectangle(Brush brush, RectangleF rect)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

@@ -16,6 +16,7 @@ public Color ForegroundColor { get; }
 
 ### See Also
 
+* struct [Color](../../../system.drawing/color)
 * class [HatchBrush](../../hatchbrush)
 * namespace [System.Drawing.Drawing2D](../../hatchbrush)
 * assembly [Aspose.Drawing](../../../)

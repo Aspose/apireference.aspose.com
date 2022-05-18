@@ -16,6 +16,7 @@ public Color CenterColor { get; set; }
 
 ### See Also
 
+* struct [Color](../../../system.drawing/color)
 * class [PathGradientBrush](../../pathgradientbrush)
 * namespace [System.Drawing.Drawing2D](../../pathgradientbrush)
 * assembly [Aspose.Drawing](../../../)

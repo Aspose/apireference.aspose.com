@@ -22,6 +22,7 @@ public void AddPie(Rectangle rect, float startAngle, float sweepAngle)
 
 ### See Also
 
+* struct [Rectangle](../../../system.drawing/rectangle)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)

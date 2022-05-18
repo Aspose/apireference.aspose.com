@@ -20,6 +20,7 @@ A `Color` structure that represents the color of this Pen.
 
 ### See Also
 
+* struct [Color](../../color)
 * class [Pen](../../pen)
 * namespace [System.Drawing](../../pen)
 * assembly [Aspose.Drawing](../../../)

@@ -3,7 +3,7 @@ title: Blend
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /net/system.drawing.drawing2d/blend/
 ---
 ## Blend class
@@ -25,8 +25,8 @@ public sealed class Blend
 
 | Name | Description |
 | --- | --- |
-| [Factors](factors) { get; set; } | Gets or sets an array of blend factors for the gradient. |
-| [Positions](positions) { get; set; } | Gets or sets an array of blend positions for the gradient. |
+| [Factors](../../system.drawing.drawing2d/blend/factors) { get; set; } | Gets or sets an array of blend factors for the gradient. |
+| [Positions](../../system.drawing.drawing2d/blend/positions) { get; set; } | Gets or sets an array of blend positions for the gradient. |
 
 ### See Also
 

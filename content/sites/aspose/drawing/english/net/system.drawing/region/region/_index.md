@@ -36,6 +36,7 @@ public Region(RectangleF rect)
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
@@ -56,6 +57,7 @@ public Region(Rectangle rect)
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)

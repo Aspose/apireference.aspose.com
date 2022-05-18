@@ -24,6 +24,7 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 ### See Also
 
 * class [Pen](../../pen)
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

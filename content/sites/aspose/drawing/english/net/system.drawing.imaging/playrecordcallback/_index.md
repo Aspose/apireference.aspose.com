@@ -3,7 +3,7 @@ title: PlayRecordCallback
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 850
+weight: 860
 url: /net/system.drawing.imaging/playrecordcallback/
 ---
 ## PlayRecordCallback delegate

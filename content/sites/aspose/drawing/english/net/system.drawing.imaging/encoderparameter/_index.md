@@ -3,7 +3,7 @@ title: EncoderParameter
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /net/system.drawing.imaging/encoderparameter/
 ---
 ## EncoderParameter class
@@ -39,14 +39,14 @@ public sealed class EncoderParameter : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Encoder](encoder) { get; set; } | Gets or sets the Encoder object associated with this EncoderParameter object. The Encoder object encapsulates the globally unique identifier (GUID) that specifies the category (for example Quality, ColorDepth, or Compression) of the parameter stored in this EncoderParameter object. |
-| [NumberOfValues](numberofvalues) { get; } | Gets the number of elements in the array of values stored in this EncoderParameter object. |
+| [Encoder](../../system.drawing.imaging/encoderparameter/encoder) { get; set; } | Gets or sets the Encoder object associated with this EncoderParameter object. The Encoder object encapsulates the globally unique identifier (GUID) that specifies the category (for example Quality, ColorDepth, or Compression) of the parameter stored in this EncoderParameter object. |
+| [NumberOfValues](../../system.drawing.imaging/encoderparameter/numberofvalues) { get; } | Gets the number of elements in the array of values stored in this EncoderParameter object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Releases all resources used by this EncoderParameter object. |
+| [Dispose](../../system.drawing.imaging/encoderparameter/dispose)() | Releases all resources used by this EncoderParameter object. |
 
 ### See Also
 

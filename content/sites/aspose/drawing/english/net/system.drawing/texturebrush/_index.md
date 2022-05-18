@@ -3,7 +3,7 @@ title: TextureBrush
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1190
+weight: 1260
 url: /net/system.drawing/texturebrush/
 ---
 ## TextureBrush class
@@ -28,24 +28,25 @@ public sealed class TextureBrush : Brush
 
 | Name | Description |
 | --- | --- |
-| [Image](image) { get; } | Gets the Image object associated with this TextureBrush object. |
-| [Transform](transform) { get; set; } | Gets or sets a copy of the Matrix object that defines a local geometric transformation for the image associated with this TextureBrush object. |
-| [WrapMode](wrapmode) { get; set; } | Gets or sets a WrapMode enumeration that indicates the wrap mode for this TextureBrush object. |
+| [Image](../../system.drawing/texturebrush/image) { get; } | Gets the Image object associated with this TextureBrush object. |
+| [Transform](../../system.drawing/texturebrush/transform) { get; set; } | Gets or sets a copy of the Matrix object that defines a local geometric transformation for the image associated with this TextureBrush object. |
+| [WrapMode](../../system.drawing/texturebrush/wrapmode) { get; set; } | Gets or sets a WrapMode enumeration that indicates the wrap mode for this TextureBrush object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](clone)() | Creates an exact copy of this TextureBrush object. |
-| [MultiplyTransform](multiplytransform)(Matrix) | Multiplies the Matrix object that represents the local geometric transformation of this TextureBrush object by the specified Matrix object by prepending the specified Matrix object. |
-| [MultiplyTransform](multiplytransform)(Matrix, MatrixOrder) | Multiplies the Matrix object that represents the local geometric transformation of this TextureBrush object by the specified Matrix object in the specified order. |
-| [ResetTransform](resettransform)() | Resets the Transform property of this TextureBrush object to identity. |
-| [RotateTransform](rotatetransform)(float) | Rotates the local geometric transformation of this TextureBrush object by the specified amount. This method prepends the rotation to the transformation. |
-| [RotateTransform](rotatetransform)(float, MatrixOrder) | Rotates the local geometric transformation of this TextureBrush object by the specified amount in the specified order. |
-| [ScaleTransform](scaletransform)(float, float) | Scales the local geometric transformation of this TextureBrush object by the specified amounts. This method prepends the scaling matrix to the transformation. |
-| [ScaleTransform](scaletransform)(float, float, MatrixOrder) | Scales the local geometric transformation of this TextureBrush object by the specified amounts in the specified order. |
-| [TranslateTransform](translatetransform)(float, float) | Translates the local geometric transformation of this TextureBrush object by the specified dimensions. This method prepends the translation to the transformation. |
-| [TranslateTransform](translatetransform)(float, float, MatrixOrder) | Translates the local geometric transformation of this TextureBrush object by the specified dimensions in the specified order. |
+| override [Clone](../../system.drawing/texturebrush/clone)() | Creates an exact copy of this TextureBrush object. |
+| [Dispose](../../system.drawing/brush/dispose)() | Releases all resources used by this Brush object. |
+| [MultiplyTransform](../../system.drawing/texturebrush/multiplytransform)(Matrix) | Multiplies the Matrix object that represents the local geometric transformation of this TextureBrush object by the specified Matrix object by prepending the specified Matrix object. |
+| [MultiplyTransform](../../system.drawing/texturebrush/multiplytransform)(Matrix, MatrixOrder) | Multiplies the Matrix object that represents the local geometric transformation of this TextureBrush object by the specified Matrix object in the specified order. |
+| [ResetTransform](../../system.drawing/texturebrush/resettransform)() | Resets the Transform property of this TextureBrush object to identity. |
+| [RotateTransform](../../system.drawing/texturebrush/rotatetransform)(float) | Rotates the local geometric transformation of this TextureBrush object by the specified amount. This method prepends the rotation to the transformation. |
+| [RotateTransform](../../system.drawing/texturebrush/rotatetransform)(float, MatrixOrder) | Rotates the local geometric transformation of this TextureBrush object by the specified amount in the specified order. |
+| [ScaleTransform](../../system.drawing/texturebrush/scaletransform)(float, float) | Scales the local geometric transformation of this TextureBrush object by the specified amounts. This method prepends the scaling matrix to the transformation. |
+| [ScaleTransform](../../system.drawing/texturebrush/scaletransform)(float, float, MatrixOrder) | Scales the local geometric transformation of this TextureBrush object by the specified amounts in the specified order. |
+| [TranslateTransform](../../system.drawing/texturebrush/translatetransform)(float, float) | Translates the local geometric transformation of this TextureBrush object by the specified dimensions. This method prepends the translation to the transformation. |
+| [TranslateTransform](../../system.drawing/texturebrush/translatetransform)(float, float, MatrixOrder) | Translates the local geometric transformation of this TextureBrush object by the specified dimensions in the specified order. |
 
 ### See Also
 

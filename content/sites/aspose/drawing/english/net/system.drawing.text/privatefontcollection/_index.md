@@ -3,7 +3,7 @@ title: PrivateFontCollection
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1170
+weight: 1240
 url: /net/system.drawing.text/privatefontcollection/
 ---
 ## PrivateFontCollection class
@@ -20,12 +20,19 @@ public sealed class PrivateFontCollection : FontCollection
 | --- | --- |
 | [PrivateFontCollection](privatefontcollection)() | Initializes a new instance of the [`PrivateFontCollection`](../privatefontcollection) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Families](../../system.drawing.text/fontcollection/families) { get; } | Gets the array of FontFamily objects associated with this FontCollection. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddFontFile](addfontfile)(string) | Adds a font from the specified file to this PrivateFontCollection. |
-| [AddMemoryFont](addmemoryfont)(IntPtr, int) | Adds a font contained in system memory to this PrivateFontCollection. |
+| [AddFontFile](../../system.drawing.text/privatefontcollection/addfontfile)(string) | Adds a font from the specified file to this PrivateFontCollection. |
+| [AddMemoryFont](../../system.drawing.text/privatefontcollection/addmemoryfont)(IntPtr, int) | Adds a font contained in system memory to this PrivateFontCollection. |
+| [Dispose](../../system.drawing.text/fontcollection/dispose)() | Releases all resources used by this FontCollection. |
 
 ### See Also
 

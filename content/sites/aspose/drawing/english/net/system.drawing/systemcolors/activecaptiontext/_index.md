@@ -16,6 +16,7 @@ public static Color ActiveCaptionText { get; }
 
 ### See Also
 
+* struct [Color](../../color)
 * class [SystemColors](../../systemcolors)
 * namespace [System.Drawing](../../systemcolors)
 * assembly [Aspose.Drawing](../../../)

@@ -24,6 +24,7 @@ Union leaves infinite region as infinite.
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
@@ -48,6 +49,7 @@ Union leaves infinite region as infinite.
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)

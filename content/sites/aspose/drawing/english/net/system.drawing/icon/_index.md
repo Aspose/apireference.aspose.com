@@ -3,7 +3,7 @@ title: Icon
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 560
+weight: 570
 url: /net/system.drawing/icon/
 ---
 ## Icon class
@@ -32,22 +32,22 @@ public sealed class Icon : ICloneable, IDisposable, ISerializable
 
 | Name | Description |
 | --- | --- |
-| [Handle](handle) { get; } | Gets the handle for this Icon. This is not a copy of the handle; do not free it. |
-| [Height](height) { get; } | Gets the height of this Icon. |
-| [Size](size) { get; } | Gets the size of this Icon. |
-| [Width](width) { get; } | Gets the width of this Icon. |
+| [Handle](../../system.drawing/icon/handle) { get; } | Gets the handle for this Icon. This is not a copy of the handle; do not free it. |
+| [Height](../../system.drawing/icon/height) { get; } | Gets the height of this Icon. |
+| [Size](../../system.drawing/icon/size) { get; } | Gets the size of this Icon. |
+| [Width](../../system.drawing/icon/width) { get; } | Gets the width of this Icon. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [ExtractAssociatedIcon](extractassociatedicon)(string) | Returns an icon representation of an image that is contained in the specified file. |
-| static [FromHandle](fromhandle)(IntPtr) | Creates a GDI+ Icon from the specified Windows handle to an icon (HICON). |
-| [Clone](clone)() | Clones the Icon, creating a duplicate image. |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [Save](save)(Stream) | Saves this Icon to the specified output Stream. |
-| [ToBitmap](tobitmap)() | Converts this Icon to a GDI+ Bitmap. |
-| override [ToString](tostring)() | Gets a human-readable string that describes the Icon. |
+| static [ExtractAssociatedIcon](../../system.drawing/icon/extractassociatedicon)(string) | Returns an icon representation of an image that is contained in the specified file. |
+| static [FromHandle](../../system.drawing/icon/fromhandle)(IntPtr) | Creates a GDI+ Icon from the specified Windows handle to an icon (HICON). |
+| [Clone](../../system.drawing/icon/clone)() | Clones the Icon, creating a duplicate image. |
+| [Dispose](../../system.drawing/icon/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [Save](../../system.drawing/icon/save)(Stream) | Saves this Icon to the specified output Stream. |
+| [ToBitmap](../../system.drawing/icon/tobitmap)() | Converts this Icon to a GDI+ Bitmap. |
+| override [ToString](../../system.drawing/icon/tostring)() | Gets a human-readable string that describes the Icon. |
 
 ### See Also
 

@@ -23,6 +23,8 @@ public LinearGradientBrush(PointF point1, PointF point2, Color color1, Color col
 
 ### See Also
 
+* struct [PointF](../../../system.drawing/pointf)
+* struct [Color](../../../system.drawing/color)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
 * assembly [Aspose.Drawing](../../../)
@@ -46,6 +48,8 @@ public LinearGradientBrush(Point point1, Point point2, Color color1, Color color
 
 ### See Also
 
+* struct [Point](../../../system.drawing/point)
+* struct [Color](../../../system.drawing/color)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
 * assembly [Aspose.Drawing](../../../)
@@ -70,6 +74,8 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2,
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
+* struct [Color](../../../system.drawing/color)
 * enum [LinearGradientMode](../../lineargradientmode)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
@@ -95,6 +101,8 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2,
 
 ### See Also
 
+* struct [Rectangle](../../../system.drawing/rectangle)
+* struct [Color](../../../system.drawing/color)
 * enum [LinearGradientMode](../../lineargradientmode)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
@@ -119,6 +127,8 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float an
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
+* struct [Color](../../../system.drawing/color)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
 * assembly [Aspose.Drawing](../../../)
@@ -144,6 +154,8 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float an
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
+* struct [Color](../../../system.drawing/color)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
 * assembly [Aspose.Drawing](../../../)
@@ -167,6 +179,8 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float ang
 
 ### See Also
 
+* struct [Rectangle](../../../system.drawing/rectangle)
+* struct [Color](../../../system.drawing/color)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
 * assembly [Aspose.Drawing](../../../)
@@ -192,6 +206,8 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float ang
 
 ### See Also
 
+* struct [Rectangle](../../../system.drawing/rectangle)
+* struct [Color](../../../system.drawing/color)
 * class [LinearGradientBrush](../../lineargradientbrush)
 * namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
 * assembly [Aspose.Drawing](../../../)

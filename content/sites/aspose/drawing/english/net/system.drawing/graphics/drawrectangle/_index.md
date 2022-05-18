@@ -47,6 +47,7 @@ public void DrawRectangle(Pen pen, Rectangle rect)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

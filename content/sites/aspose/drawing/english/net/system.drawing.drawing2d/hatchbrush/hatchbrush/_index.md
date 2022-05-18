@@ -22,6 +22,7 @@ public HatchBrush(HatchStyle hatchstyle, Color foreColor)
 ### See Also
 
 * enum [HatchStyle](../../hatchstyle)
+* struct [Color](../../../system.drawing/color)
 * class [HatchBrush](../../hatchbrush)
 * namespace [System.Drawing.Drawing2D](../../hatchbrush)
 * assembly [Aspose.Drawing](../../../)
@@ -45,6 +46,7 @@ public HatchBrush(HatchStyle hatchstyle, Color foreColor, Color backColor)
 ### See Also
 
 * enum [HatchStyle](../../hatchstyle)
+* struct [Color](../../../system.drawing/color)
 * class [HatchBrush](../../hatchbrush)
 * namespace [System.Drawing.Drawing2D](../../hatchbrush)
 * assembly [Aspose.Drawing](../../../)

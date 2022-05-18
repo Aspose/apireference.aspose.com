@@ -24,6 +24,7 @@ An array of RectangleF structures that approximate this Region after the specifi
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * class [Matrix](../../../system.drawing.drawing2d/matrix)
 * class [Region](../../region)
 * namespace [System.Drawing](../../region)

@@ -22,6 +22,7 @@ public void DrawEllipse(Pen pen, RectangleF rect)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

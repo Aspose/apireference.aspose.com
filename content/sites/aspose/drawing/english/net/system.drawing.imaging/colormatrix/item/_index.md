@@ -14,10 +14,10 @@ Gets or sets the element at the specified row and column in the ColorMatrix.
 public float this[int row, int column] { get; set; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| row |  | The row of the element. |
-| column |  | The column of the element. |
+| Parameter | Description |
+| --- | --- |
+| row | The row of the element. |
+| column | The column of the element. |
 
 ## Return Value
 

@@ -20,6 +20,7 @@ A Size structure that represents the width and height, in pixels, of this image.
 
 ### See Also
 
+* struct [Size](../../size)
 * class [Image](../../image)
 * namespace [System.Drawing](../../image)
 * assembly [Aspose.Drawing](../../../)

@@ -24,7 +24,7 @@ public class ColorConverter
 
 | Name | Description |
 | --- | --- |
-| static [ConvertFrom](convertfrom)(CultureInfo, object) | Converts from. |
+| static [ConvertFrom](../../system.drawing/colorconverter/convertfrom)(CultureInfo, object) | Converts from. |
 
 ### Remarks
 

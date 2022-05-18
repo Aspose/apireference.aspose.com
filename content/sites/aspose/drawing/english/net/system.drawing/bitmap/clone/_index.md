@@ -25,6 +25,7 @@ The new Bitmap that this method creates.
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * enum [PixelFormat](../../../system.drawing.imaging/pixelformat)
 * class [Bitmap](../../bitmap)
 * namespace [System.Drawing](../../bitmap)
@@ -58,6 +59,7 @@ The Bitmap that this method creates.
 
 ### See Also
 
+* struct [RectangleF](../../rectanglef)
 * enum [PixelFormat](../../../system.drawing.imaging/pixelformat)
 * class [Bitmap](../../bitmap)
 * namespace [System.Drawing](../../bitmap)

@@ -21,6 +21,7 @@ public void SetColorKey(Color colorLow, Color colorHigh)
 
 ### See Also
 
+* struct [Color](../../../system.drawing/color)
 * class [ImageAttributes](../../imageattributes)
 * namespace [System.Drawing.Imaging](../../imageattributes)
 * assembly [Aspose.Drawing](../../../)
@@ -43,6 +44,7 @@ public void SetColorKey(Color colorLow, Color colorHigh, ColorAdjustType type)
 
 ### See Also
 
+* struct [Color](../../../system.drawing/color)
 * enum [ColorAdjustType](../../coloradjusttype)
 * class [ImageAttributes](../../imageattributes)
 * namespace [System.Drawing.Imaging](../../imageattributes)

@@ -3,7 +3,7 @@ title: Brush
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /net/system.drawing/brush/
 ---
 ## Brush class
@@ -18,8 +18,8 @@ public abstract class Brush : IDisposable
 
 | Name | Description |
 | --- | --- |
-| abstract [Clone](clone)() | When overridden in a derived class, creates an exact copy of this Brush. |
-| [Dispose](dispose)() | Releases all resources used by this Brush object. |
+| abstract [Clone](../../system.drawing/brush/clone)() | When overridden in a derived class, creates an exact copy of this Brush. |
+| [Dispose](../../system.drawing/brush/dispose)() | Releases all resources used by this Brush object. |
 
 ### See Also
 

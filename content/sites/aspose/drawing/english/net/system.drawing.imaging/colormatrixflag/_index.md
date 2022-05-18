@@ -3,7 +3,7 @@ title: ColorMatrixFlag
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 640
+weight: 650
 url: /net/system.drawing.imaging/colormatrixflag/
 ---
 ## ColorMatrixFlag enumeration

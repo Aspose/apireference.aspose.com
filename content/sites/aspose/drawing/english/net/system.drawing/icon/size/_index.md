@@ -20,6 +20,7 @@ A Size structure that specifies the width and height of this Icon.
 
 ### See Also
 
+* struct [Size](../../size)
 * class [Icon](../../icon)
 * namespace [System.Drawing](../../icon)
 * assembly [Aspose.Drawing](../../../)

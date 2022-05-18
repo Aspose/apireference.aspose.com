@@ -3,7 +3,7 @@ title: GenericFontFamilies
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1130
+weight: 1200
 url: /net/system.drawing.text/genericfontfamilies/
 ---
 ## GenericFontFamilies enumeration

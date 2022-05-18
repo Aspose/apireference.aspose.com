@@ -23,6 +23,7 @@ public void DrawLine(Pen pen, Point pt1, Point pt2)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -71,6 +72,7 @@ public void DrawLine(Pen pen, PointF pt1, PointF pt2)
 ### See Also
 
 * class [Pen](../../pen)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

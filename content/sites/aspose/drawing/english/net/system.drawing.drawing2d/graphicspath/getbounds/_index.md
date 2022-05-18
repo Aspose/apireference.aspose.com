@@ -20,6 +20,7 @@ A RectangleF that represents a rectangle that bounds this GraphicsPath.
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
@@ -44,6 +45,7 @@ A RectangleF that represents a rectangle that bounds this GraphicsPath.
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [Matrix](../../matrix)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
@@ -70,6 +72,7 @@ A RectangleF that represents a rectangle that bounds this GraphicsPath.
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [Matrix](../../matrix)
 * class [Pen](../../../system.drawing/pen)
 * class [GraphicsPath](../../graphicspath)

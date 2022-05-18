@@ -41,6 +41,7 @@ public void ExcludeClip(Rectangle rect)
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

@@ -3,7 +3,7 @@ title: ImageLockMode
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 770
+weight: 780
 url: /net/system.drawing.imaging/imagelockmode/
 ---
 ## ImageLockMode enumeration

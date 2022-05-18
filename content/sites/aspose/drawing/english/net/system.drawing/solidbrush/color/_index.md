@@ -16,6 +16,7 @@ public Color Color { get; set; }
 
 ### See Also
 
+* struct [Color](../../color)
 * class [SolidBrush](../../solidbrush)
 * namespace [System.Drawing](../../solidbrush)
 * assembly [Aspose.Drawing](../../../)

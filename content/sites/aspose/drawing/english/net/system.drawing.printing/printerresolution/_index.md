@@ -3,7 +3,7 @@ title: PrinterResolution
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 980
+weight: 1010
 url: /net/system.drawing.printing/printerresolution/
 ---
 ## PrinterResolution class
@@ -24,8 +24,8 @@ public class PrinterResolution
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } | Gets or sets the horizontal printer resolution, in dots per inch. |
-| [Y](y) { get; set; } | Gets or sets the vertical printer resolution, in dots per inch. |
+| [X](../../system.drawing.printing/printerresolution/x) { get; set; } | Gets or sets the horizontal printer resolution, in dots per inch. |
+| [Y](../../system.drawing.printing/printerresolution/y) { get; set; } | Gets or sets the vertical printer resolution, in dots per inch. |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, EnumerateMeta
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | PointF | PointF structure that specifies the location of the upper-left corner of the drawn metafile. |
+| destPoint | PointF | [`PointF`](../../pointf) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 | imageAttr | ImageAttributes | [`ImageAttributes`](../../../system.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
@@ -26,6 +26,7 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, EnumerateMeta
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)
@@ -46,13 +47,14 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, EnumerateMeta
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | PointF | PointF structure that specifies the location of the upper-left corner of the drawn metafile. |
+| destPoint | PointF | [`PointF`](../../pointf) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -72,12 +74,13 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | PointF[] | Array of three PointF structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| destPoints | PointF[] | Array of three [`PointF`](../../pointf) structures that define a parallelogram that determines the size and location of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -96,12 +99,13 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, EnumerateMetaf
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | Point | Point structure that specifies the location of the upper-left corner of the drawn metafile. |
+| destPoint | Point | [`Point`](../../point) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -121,13 +125,14 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, EnumerateMetaf
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | Point | Point structure that specifies the location of the upper-left corner of the drawn metafile. |
+| destPoint | Point | [`Point`](../../point) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -147,7 +152,7 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, EnumerateMetaf
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | Point | Point structure that specifies the location of the upper-left corner of the drawn metafile. |
+| destPoint | Point | [`Point`](../../point) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 | imageAttr | ImageAttributes | [`ImageAttributes`](../../../system.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
@@ -155,6 +160,7 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, EnumerateMetaf
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)
@@ -175,12 +181,13 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | RectangleF | RectangleF structure that specifies the location and size of the drawn metafile. |
+| destRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location and size of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [RectangleF](../../rectanglef)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -200,13 +207,14 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | RectangleF | RectangleF structure that specifies the location and size of the drawn metafile. |
+| destRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location and size of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [RectangleF](../../rectanglef)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -226,7 +234,7 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | RectangleF | RectangleF structure that specifies the location and size of the drawn metafile. |
+| destRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location and size of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 | imageAttr | ImageAttributes | [`ImageAttributes`](../../../system.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
@@ -234,6 +242,7 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect,
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [RectangleF](../../rectanglef)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)
@@ -253,12 +262,13 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect, EnumerateMe
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | Rectangle | Rectangle structure that specifies the location and size of the drawn metafile. |
+| destRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the location and size of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Rectangle](../../rectangle)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -277,12 +287,13 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, EnumerateMeta
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | PointF | PointF structure that specifies the location of the upper-left corner of the drawn metafile. |
+| destPoint | PointF | [`PointF`](../../pointf) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -302,13 +313,14 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | PointF[] | Array of three PointF structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| destPoints | PointF[] | Array of three [`PointF`](../../pointf) structures that define a parallelogram that determines the size and location of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -328,13 +340,14 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | Point[] | Array of three Point structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| destPoints | Point[] | Array of three [`Point`](../../point) structures that define a parallelogram that determines the size and location of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -353,12 +366,13 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints, EnumerateMe
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | Point[] | Array of three Point structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| destPoints | Point[] | Array of three [`Point`](../../point) structures that define a parallelogram that determines the size and location of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -379,8 +393,8 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints, Rectangle s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | Point[] | Array of three Point structures that define a parallelogram that determines the size and location of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoints | Point[] | Array of three [`Point`](../../point) structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | unit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -389,6 +403,8 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints, Rectangle s
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
@@ -410,8 +426,8 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints, Rectangle s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | Point[] | Array of three Point structures that define a parallelogram that determines the size and location of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoints | Point[] | Array of three [`Point`](../../point) structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -419,6 +435,8 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints, Rectangle s
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -439,14 +457,16 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints, Rectangle s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | Point[] | Array of three Point structures that define a parallelogram that determines the size and location of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoints | Point[] | Array of three [`Point`](../../point) structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -468,8 +488,8 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints, RectangleF
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | PointF[] | Array of three PointF structures that define a parallelogram that determines the size and location of the drawn metafile. |
-| srcRect | RectangleF | RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoints | PointF[] | Array of three [`PointF`](../../pointf) structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| srcRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | unit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -478,6 +498,8 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints, RectangleF
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
@@ -499,8 +521,8 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints, RectangleF
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | PointF[] | Array of three PointF structures that define a parallelogram that determines the size and location of the drawn metafile. |
-| srcRect | RectangleF | RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoints | PointF[] | Array of three [`PointF`](../../pointf) structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| srcRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -508,6 +530,8 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints, RectangleF
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -528,14 +552,16 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints, RectangleF
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | PointF[] | Array of three PointF structures that define a parallelogram that determines the size and location of the drawn metafile. |
-| srcRect | RectangleF | RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoints | PointF[] | Array of three [`PointF`](../../pointf) structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| srcRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -557,8 +583,8 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect, Rectangle s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | Rectangle | Rectangle structure that specifies the location and size of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the location and size of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | unit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -567,6 +593,7 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect, Rectangle s
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
@@ -588,8 +615,8 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect, Rectangle s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | Rectangle | Rectangle structure that specifies the location and size of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the location and size of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -597,6 +624,7 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect, Rectangle s
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -617,14 +645,15 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect, Rectangle s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | Rectangle | Rectangle structure that specifies the location and size of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the location and size of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -645,7 +674,7 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | PointF[] | Array of three PointF structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| destPoints | PointF[] | Array of three [`PointF`](../../pointf) structures that define a parallelogram that determines the size and location of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 | imageAttr | ImageAttributes | [`ImageAttributes`](../../../system.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
@@ -653,6 +682,7 @@ public void EnumerateMetafile(Metafile metafile, PointF[] destPoints,
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)
@@ -674,8 +704,8 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect, RectangleF
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | RectangleF | RectangleF structure that specifies the location and size of the drawn metafile. |
-| srcRect | RectangleF | RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location and size of the drawn metafile. |
+| srcRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | unit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -684,6 +714,7 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect, RectangleF
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
@@ -705,14 +736,15 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect, RectangleF
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | RectangleF | RectangleF structure that specifies the location and size of the drawn metafile. |
-| srcRect | RectangleF | RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location and size of the drawn metafile. |
+| srcRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -734,8 +766,8 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, Rectangle srcR
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | Point | Point structure that specifies the location of the upper-left corner of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoint | Point | [`Point`](../../point) structure that specifies the location of the upper-left corner of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | unit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -744,6 +776,8 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, Rectangle srcR
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
@@ -765,8 +799,8 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, Rectangle srcR
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | Point | Point structure that specifies the location of the upper-left corner of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoint | Point | [`Point`](../../point) structure that specifies the location of the upper-left corner of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -774,6 +808,8 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, Rectangle srcR
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -794,14 +830,16 @@ public void EnumerateMetafile(Metafile metafile, Point destPoint, Rectangle srcR
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | Point | Point structure that specifies the location of the upper-left corner of the drawn metafile. |
-| srcRect | Rectangle | Rectangle structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoint | Point | [`Point`](../../point) structure that specifies the location of the upper-left corner of the drawn metafile. |
+| srcRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
+* struct [Rectangle](../../rectangle)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -822,13 +860,14 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | Rectangle | RectangleF structure that specifies the location and size of the drawn metafile. |
+| destRect | Rectangle | [`RectangleF`](../../rectanglef) structure that specifies the location and size of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Rectangle](../../rectangle)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
@@ -849,8 +888,8 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, RectangleF sr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | PointF | PointF structure that specifies the location of the upper-left corner of the drawn metafile. |
-| srcRect | RectangleF | RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoint | PointF | [`PointF`](../../pointf) structure that specifies the location of the upper-left corner of the drawn metafile. |
+| srcRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | unit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -859,6 +898,8 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, RectangleF sr
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
@@ -880,8 +921,8 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, RectangleF sr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | PointF | PointF structure that specifies the location of the upper-left corner of the drawn metafile. |
-| srcRect | RectangleF | RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destPoint | PointF | [`PointF`](../../pointf) structure that specifies the location of the upper-left corner of the drawn metafile. |
+| srcRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -889,6 +930,8 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, RectangleF sr
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -909,7 +952,7 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, RectangleF sr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoint | PointF | PointF structure that specifies the location of the upper-left corner of the drawn metafile. |
+| destPoint | PointF | [`PointF`](../../pointf) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | srcRect | RectangleF | System.Drawing.RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the[`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
@@ -917,6 +960,8 @@ public void EnumerateMetafile(Metafile metafile, PointF destPoint, RectangleF sr
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [PointF](../../pointf)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -937,7 +982,7 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destPoints | Point[] | Array of three Point structures that define a parallelogram that determines the size and location of the drawn metafile. |
+| destPoints | Point[] | Array of three [`Point`](../../point) structures that define a parallelogram that determines the size and location of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 | imageAttr | ImageAttributes | [`ImageAttributes`](../../../system.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
@@ -945,6 +990,7 @@ public void EnumerateMetafile(Metafile metafile, Point[] destPoints,
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Point](../../point)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)
@@ -965,8 +1011,8 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect, RectangleF
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | RectangleF | RectangleF structure that specifies the location and size of the drawn metafile. |
-| srcRect | RectangleF | RectangleF structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
+| destRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location and size of the drawn metafile. |
+| srcRect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | GraphicsUnit | Member of the [`GraphicsUnit`](../../graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the *srcRect* parameter contains. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
@@ -974,6 +1020,7 @@ public void EnumerateMetafile(Metafile metafile, RectangleF destRect, RectangleF
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [RectangleF](../../rectanglef)
 * enum [GraphicsUnit](../../graphicsunit)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [Graphics](../../graphics)
@@ -994,7 +1041,7 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | metafile | Metafile | [`Metafile`](../../../system.drawing.imaging/metafile) to enumerate. |
-| destRect | Rectangle | Rectangle structure that specifies the location and size of the drawn metafile. |
+| destRect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the location and size of the drawn metafile. |
 | callback | EnumerateMetafileProc | [`EnumerateMetafileProc`](../../graphics.enumeratemetafileproc) delegate that specifies the method to which the metafile records are sent. |
 | callbackData | IntPtr | Internal pointer that is required, but ignored. You can pass Zero for this parameter. |
 | imageAttr | ImageAttributes | [`ImageAttributes`](../../../system.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
@@ -1002,6 +1049,7 @@ public void EnumerateMetafile(Metafile metafile, Rectangle destRect,
 ### See Also
 
 * class [Metafile](../../../system.drawing.imaging/metafile)
+* struct [Rectangle](../../rectangle)
 * delegate [EnumerateMetafileProc](../../graphics.enumeratemetafileproc)
 * class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
 * class [Graphics](../../graphics)

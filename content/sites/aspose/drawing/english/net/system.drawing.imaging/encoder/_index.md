@@ -3,7 +3,7 @@ title: Encoder
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 680
+weight: 690
 url: /net/system.drawing.imaging/encoder/
 ---
 ## Encoder class
@@ -24,7 +24,7 @@ public sealed class Encoder
 
 | Name | Description |
 | --- | --- |
-| [Guid](guid) { get; } | Gets a globally unique identifier (GUID) that identifies an image encoder parameter category. |
+| [Guid](../../system.drawing.imaging/encoder/guid) { get; } | Gets a globally unique identifier (GUID) that identifies an image encoder parameter category. |
 
 ### See Also
 

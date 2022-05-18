@@ -3,7 +3,7 @@ title: ImageCodecInfo
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 740
+weight: 750
 url: /net/system.drawing.imaging/imagecodecinfo/
 ---
 ## ImageCodecInfo class
@@ -18,22 +18,22 @@ public sealed class ImageCodecInfo
 
 | Name | Description |
 | --- | --- |
-| [Clsid](clsid) { get; set; } | Gets or sets a Guid structure that contains a GUID that identifies a specific codec. |
-| [CodecName](codecname) { get; set; } | Gets or sets a string that contains the name of the codec. |
-| [FilenameExtension](filenameextension) { get; set; } | Gets or sets string that contains the file name extension(s) used in the codec. The extensions are separated by semicolons. |
-| [FormatDescription](formatdescription) { get; set; } | Gets or sets a string that describes the codec's file format. |
-| [FormatID](formatid) { get; set; } | Gets or sets a Guid structure that contains a GUID that identifies the codec's format. |
-| [MimeType](mimetype) { get; set; } | Gets or sets a string that contains the codec's Multipurpose Internet Mail Extensions (MIME) type. |
-| [SignatureMasks](signaturemasks) { get; set; } | Gets or sets a two dimensional array of bytes that can be used as a filter. |
-| [SignaturePatterns](signaturepatterns) { get; set; } | Gets or sets a two dimensional array of bytes that represents the signature of the codec. |
-| [Version](version) { get; set; } | Gets or sets the version number of the codec. |
+| [Clsid](../../system.drawing.imaging/imagecodecinfo/clsid) { get; set; } | Gets or sets a Guid structure that contains a GUID that identifies a specific codec. |
+| [CodecName](../../system.drawing.imaging/imagecodecinfo/codecname) { get; set; } | Gets or sets a string that contains the name of the codec. |
+| [FilenameExtension](../../system.drawing.imaging/imagecodecinfo/filenameextension) { get; set; } | Gets or sets string that contains the file name extension(s) used in the codec. The extensions are separated by semicolons. |
+| [FormatDescription](../../system.drawing.imaging/imagecodecinfo/formatdescription) { get; set; } | Gets or sets a string that describes the codec's file format. |
+| [FormatID](../../system.drawing.imaging/imagecodecinfo/formatid) { get; set; } | Gets or sets a Guid structure that contains a GUID that identifies the codec's format. |
+| [MimeType](../../system.drawing.imaging/imagecodecinfo/mimetype) { get; set; } | Gets or sets a string that contains the codec's Multipurpose Internet Mail Extensions (MIME) type. |
+| [SignatureMasks](../../system.drawing.imaging/imagecodecinfo/signaturemasks) { get; set; } | Gets or sets a two dimensional array of bytes that can be used as a filter. |
+| [SignaturePatterns](../../system.drawing.imaging/imagecodecinfo/signaturepatterns) { get; set; } | Gets or sets a two dimensional array of bytes that represents the signature of the codec. |
+| [Version](../../system.drawing.imaging/imagecodecinfo/version) { get; set; } | Gets or sets the version number of the codec. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetImageDecoders](getimagedecoders)() | Returns an array of ImageCodecInfo objects that contain information about the image decoders built into GDI+. |
-| static [GetImageEncoders](getimageencoders)() | Returns an array of ImageCodecInfo objects that contain information about the image encoders built into GDI+. |
+| static [GetImageDecoders](../../system.drawing.imaging/imagecodecinfo/getimagedecoders)() | Returns an array of ImageCodecInfo objects that contain information about the image decoders built into GDI+. |
+| static [GetImageEncoders](../../system.drawing.imaging/imagecodecinfo/getimageencoders)() | Returns an array of ImageCodecInfo objects that contain information about the image encoders built into GDI+. |
 
 ### See Also
 

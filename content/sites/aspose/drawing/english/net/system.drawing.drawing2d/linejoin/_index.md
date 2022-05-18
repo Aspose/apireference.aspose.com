@@ -3,7 +3,7 @@ title: LineJoin
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /net/system.drawing.drawing2d/linejoin/
 ---
 ## LineJoin enumeration

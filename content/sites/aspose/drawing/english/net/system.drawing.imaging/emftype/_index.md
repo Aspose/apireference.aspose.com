@@ -3,7 +3,7 @@ title: EmfType
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /net/system.drawing.imaging/emftype/
 ---
 ## EmfType enumeration

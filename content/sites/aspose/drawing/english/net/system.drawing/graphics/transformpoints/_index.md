@@ -23,6 +23,7 @@ public void TransformPoints(CoordinateSpace destSpace, CoordinateSpace srcSpace,
 ### See Also
 
 * enum [CoordinateSpace](../../../system.drawing.drawing2d/coordinatespace)
+* struct [PointF](../../pointf)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -46,6 +47,7 @@ public void TransformPoints(CoordinateSpace destSpace, CoordinateSpace srcSpace,
 ### See Also
 
 * enum [CoordinateSpace](../../../system.drawing.drawing2d/coordinatespace)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

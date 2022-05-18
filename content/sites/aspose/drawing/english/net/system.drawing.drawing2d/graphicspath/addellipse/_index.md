@@ -20,6 +20,7 @@ public void AddEllipse(RectangleF rect)
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * class [GraphicsPath](../../graphicspath)
 * namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)

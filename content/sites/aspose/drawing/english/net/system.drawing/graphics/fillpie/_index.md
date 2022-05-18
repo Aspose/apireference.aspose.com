@@ -24,6 +24,7 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 ### See Also
 
 * class [Brush](../../brush)
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

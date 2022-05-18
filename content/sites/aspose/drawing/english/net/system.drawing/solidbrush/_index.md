@@ -3,7 +3,7 @@ title: SolidBrush
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1030
+weight: 1100
 url: /net/system.drawing/solidbrush/
 ---
 ## SolidBrush class
@@ -24,13 +24,14 @@ public class SolidBrush : Brush
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; set; } | Gets or sets the color of this SolidBrush object. |
+| [Color](../../system.drawing/solidbrush/color) { get; set; } | Gets or sets the color of this SolidBrush object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](clone)() | Creates an exact copy of this SolidBrush object. |
+| override [Clone](../../system.drawing/solidbrush/clone)() | Creates an exact copy of this SolidBrush object. |
+| [Dispose](../../system.drawing/brush/dispose)() | Releases all resources used by this Brush object. |
 
 ### See Also
 

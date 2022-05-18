@@ -173,6 +173,7 @@ public Metafile(Stream stream, IntPtr referenceHdc, RectangleF frameRect,
 
 ### See Also
 
+* struct [RectangleF](../../../system.drawing/rectanglef)
 * enum [MetafileFrameUnit](../../metafileframeunit)
 * enum [EmfType](../../emftype)
 * class [Metafile](../../metafile)

@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 490
+weight: 500
 url: /net/system.drawing/font/
 ---
 ## Font class
@@ -36,35 +36,35 @@ public sealed class Font : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Bold](bold) { get; } | Gets a value indicating whether this Font is bold. |
-| [FontFamily](fontfamily) { get; } | Gets the FontFamily associated with this Font. |
-| [GdiCharSet](gdicharset) { get; } | Gets a byte value that specifies the GDI character set that this Font uses. |
-| [GdiVerticalFont](gdiverticalfont) { get; } | Gets a value indicating whether this Font is derived from a GDI vertical font.. |
-| [Height](height) { get; } | Gets the line spacing of this font. |
-| [IsSystemFont](issystemfont) { get; } | Gets a value indicating whether the font is a member of SystemFonts. |
-| [Italic](italic) { get; } | Gets a value indicating whether this Font is italic. |
-| [Name](name) { get; } | Gets the face name of this Font. |
-| [OriginalFontName](originalfontname) { get; } | Gets the name of the font originally specified. |
-| [Size](size) { get; } | Gets the em-size of this Font measured in the units specified by the Unit property. |
-| [SizeInPoints](sizeinpoints) { get; } | Gets the em-size, in points, of this Font. |
-| [Strikeout](strikeout) { get; } | Gets a value indicating whether this Font specifies a horizontal line through the font. |
-| [Style](style) { get; } | Gets style information for this Font. |
-| [SystemFontName](systemfontname) { get; } | Gets the name of the system font if the IsSystemFont property returns true. |
-| [Underline](underline) { get; } | Gets a value indicating whether this Font is underlined. |
-| [Unit](unit) { get; } | Gets the unit of measure for this Font. |
+| [Bold](../../system.drawing/font/bold) { get; } | Gets a value indicating whether this Font is bold. |
+| [FontFamily](../../system.drawing/font/fontfamily) { get; } | Gets the FontFamily associated with this Font. |
+| [GdiCharSet](../../system.drawing/font/gdicharset) { get; } | Gets a byte value that specifies the GDI character set that this Font uses. |
+| [GdiVerticalFont](../../system.drawing/font/gdiverticalfont) { get; } | Gets a value indicating whether this Font is derived from a GDI vertical font.. |
+| [Height](../../system.drawing/font/height) { get; } | Gets the line spacing of this font. |
+| [IsSystemFont](../../system.drawing/font/issystemfont) { get; } | Gets a value indicating whether the font is a member of SystemFonts. |
+| [Italic](../../system.drawing/font/italic) { get; } | Gets a value indicating whether this Font is italic. |
+| [Name](../../system.drawing/font/name) { get; } | Gets the face name of this Font. |
+| [OriginalFontName](../../system.drawing/font/originalfontname) { get; } | Gets the name of the font originally specified. |
+| [Size](../../system.drawing/font/size) { get; } | Gets the em-size of this Font measured in the units specified by the Unit property. |
+| [SizeInPoints](../../system.drawing/font/sizeinpoints) { get; } | Gets the em-size, in points, of this Font. |
+| [Strikeout](../../system.drawing/font/strikeout) { get; } | Gets a value indicating whether this Font specifies a horizontal line through the font. |
+| [Style](../../system.drawing/font/style) { get; } | Gets style information for this Font. |
+| [SystemFontName](../../system.drawing/font/systemfontname) { get; } | Gets the name of the system font if the IsSystemFont property returns true. |
+| [Underline](../../system.drawing/font/underline) { get; } | Gets a value indicating whether this Font is underlined. |
+| [Unit](../../system.drawing/font/unit) { get; } | Gets the unit of measure for this Font. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates an exact copy of this Font. |
-| [Dispose](dispose)() | Releases all resources used by this Font. |
-| override [Equals](equals)(object) | Indicates whether the specified object is a Font and has the same FontFamily, GdiVerticalFont, GdiCharSet, Style, Size, and Unit property values as this Font. |
-| override [GetHashCode](gethashcode)() | Gets the hash code for this Font. |
-| [GetHeight](getheight)() | Returns the line spacing, in pixels, of this font. |
-| [GetHeight](getheight)(float) | Returns the height, in pixels, of this Font when drawn to a device with the specified vertical resolution. |
-| [GetHeight](getheight)(Graphics) | Returns the line spacing, in the current unit of a specified Graphics, of this font. |
-| override [ToString](tostring)() | Returns a human-readable string representation of this Font. |
+| [Clone](../../system.drawing/font/clone)() | Creates an exact copy of this Font. |
+| [Dispose](../../system.drawing/font/dispose)() | Releases all resources used by this Font. |
+| override [Equals](../../system.drawing/font/equals)(object) | Indicates whether the specified object is a Font and has the same FontFamily, GdiVerticalFont, GdiCharSet, Style, Size, and Unit property values as this Font. |
+| override [GetHashCode](../../system.drawing/font/gethashcode)() | Gets the hash code for this Font. |
+| [GetHeight](../../system.drawing/font/getheight)() | Returns the line spacing, in pixels, of this font. |
+| [GetHeight](../../system.drawing/font/getheight)(float) | Returns the height, in pixels, of this Font when drawn to a device with the specified vertical resolution. |
+| [GetHeight](../../system.drawing/font/getheight)(Graphics) | Returns the line spacing, in the current unit of a specified Graphics, of this font. |
+| override [ToString](../../system.drawing/font/tostring)() | Returns a human-readable string representation of this Font. |
 
 ### See Also
 

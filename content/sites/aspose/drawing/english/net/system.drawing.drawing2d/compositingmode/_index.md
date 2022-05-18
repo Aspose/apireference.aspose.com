@@ -3,7 +3,7 @@ title: CompositingMode
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /net/system.drawing.drawing2d/compositingmode/
 ---
 ## CompositingMode enumeration

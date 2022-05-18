@@ -8,7 +8,7 @@ url: /net/system.drawing.imaging/metafileheader/bounds/
 ---
 ## MetafileHeader.Bounds property
 
-Gets a Rectangle that bounds the associated [`Metafile`](../../metafile).
+Gets a [`Rectangle`](../../../system.drawing/rectangle) that bounds the associated [`Metafile`](../../metafile).
 
 ```csharp
 public Rectangle Bounds { get; }
@@ -16,6 +16,7 @@ public Rectangle Bounds { get; }
 
 ### See Also
 
+* struct [Rectangle](../../../system.drawing/rectangle)
 * class [MetafileHeader](../../metafileheader)
 * namespace [System.Drawing.Imaging](../../metafileheader)
 * assembly [Aspose.Drawing](../../../)

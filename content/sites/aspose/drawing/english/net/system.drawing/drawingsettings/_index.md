@@ -3,7 +3,7 @@ title: DrawingSettings
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 480
+weight: 490
 url: /net/system.drawing/drawingsettings/
 ---
 ## DrawingSettings class
@@ -18,7 +18,7 @@ public static class DrawingSettings
 
 | Name | Description |
 | --- | --- |
-| static [StrictMode](strictmode) { get; set; } | Gets or sets a value indicating whether the more strict catching of not implemented features is enabled. |
+| static [StrictMode](../../system.drawing/drawingsettings/strictmode) { get; set; } | Gets or sets a value indicating whether the more strict catching of not implemented features is enabled. |
 
 ### See Also
 

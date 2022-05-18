@@ -22,6 +22,7 @@ public void SetPixel(int x, int y, Color color)
 
 ### See Also
 
+* struct [Color](../../color)
 * class [Bitmap](../../bitmap)
 * namespace [System.Drawing](../../bitmap)
 * assembly [Aspose.Drawing](../../../)

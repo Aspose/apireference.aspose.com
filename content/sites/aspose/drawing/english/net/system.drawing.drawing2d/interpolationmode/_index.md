@@ -3,7 +3,7 @@ title: InterpolationMode
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /net/system.drawing.drawing2d/interpolationmode/
 ---
 ## InterpolationMode enumeration

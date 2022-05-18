@@ -70,6 +70,7 @@ public void DrawImageUnscaled(Image image, Point point)
 ### See Also
 
 * class [Image](../../image)
+* struct [Point](../../point)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -92,6 +93,7 @@ public void DrawImageUnscaled(Image image, Rectangle rect)
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

@@ -3,7 +3,7 @@ title: GraphicsState
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /net/system.drawing.drawing2d/graphicsstate/
 ---
 ## GraphicsState class

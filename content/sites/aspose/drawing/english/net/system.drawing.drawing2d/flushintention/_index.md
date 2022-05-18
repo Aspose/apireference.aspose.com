@@ -3,7 +3,7 @@ title: FlushIntention
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /net/system.drawing.drawing2d/flushintention/
 ---
 ## FlushIntention enumeration

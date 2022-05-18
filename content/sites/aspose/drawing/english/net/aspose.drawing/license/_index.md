@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.drawing/license/
 ---
 ## License class
@@ -24,8 +24,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](setlicense)(Stream) | Licenses the component. |
-| [SetLicense](setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.drawing/license/setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.drawing/license/setlicense)(string) | Licenses the component. |
 
 ### Examples
 

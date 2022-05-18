@@ -3,7 +3,7 @@ title: EncoderParameters
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 700
+weight: 710
 url: /net/system.drawing.imaging/encoderparameters/
 ---
 ## EncoderParameters class
@@ -25,13 +25,13 @@ public sealed class EncoderParameters : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Param](param) { get; set; } | Gets or sets an array of EncoderParameter objects. |
+| [Param](../../system.drawing.imaging/encoderparameters/param) { get; set; } | Gets or sets an array of EncoderParameter objects. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Releases all resources used by this EncoderParameters object. |
+| [Dispose](../../system.drawing.imaging/encoderparameters/dispose)() | Releases all resources used by this EncoderParameters object. |
 
 ### See Also
 

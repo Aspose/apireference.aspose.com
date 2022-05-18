@@ -22,6 +22,7 @@ public void FillRectangles(Brush brush, Rectangle[] rects)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
@@ -44,6 +45,7 @@ public void FillRectangles(Brush brush, RectangleF[] rects)
 ### See Also
 
 * class [Brush](../../brush)
+* struct [RectangleF](../../rectanglef)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

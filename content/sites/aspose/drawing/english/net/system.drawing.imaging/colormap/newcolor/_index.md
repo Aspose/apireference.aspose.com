@@ -20,6 +20,7 @@ The new Color structure to which to convert.
 
 ### See Also
 
+* struct [Color](../../../system.drawing/color)
 * class [ColorMap](../../colormap)
 * namespace [System.Drawing.Imaging](../../colormap)
 * assembly [Aspose.Drawing](../../../)

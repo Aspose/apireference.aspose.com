@@ -3,7 +3,7 @@ title: PageSettings
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 930
+weight: 960
 url: /net/system.drawing.printing/pagesettings/
 ---
 ## PageSettings class
@@ -24,10 +24,10 @@ public class PageSettings
 
 | Name | Description |
 | --- | --- |
-| [Bounds](bounds) { get; } | Gets the size of the page, taking into account the page orientation specified by the !:PageSettings.Landscape property . |
-| [HardMarginX](hardmarginx) { get; } | Gets the x-coordinate, in hundredths of an inch, of the hard margin at the left of the page. |
-| [HardMarginY](hardmarginy) { get; } | Gets the y-coordinate, in hundredths of an inch, of the hard margin at the top of the page. |
-| [PrinterResolution](printerresolution) { get; } | Gets or sets the printer resolution for the page. |
+| [Bounds](../../system.drawing.printing/pagesettings/bounds) { get; } | Gets the size of the page, taking into account the page orientation specified by the !:PageSettings.Landscape property . |
+| [HardMarginX](../../system.drawing.printing/pagesettings/hardmarginx) { get; } | Gets the x-coordinate, in hundredths of an inch, of the hard margin at the left of the page. |
+| [HardMarginY](../../system.drawing.printing/pagesettings/hardmarginy) { get; } | Gets the y-coordinate, in hundredths of an inch, of the hard margin at the top of the page. |
+| [PrinterResolution](../../system.drawing.printing/pagesettings/printerresolution) { get; } | Gets or sets the printer resolution for the page. |
 
 ### See Also
 

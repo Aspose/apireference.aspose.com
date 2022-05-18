@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.drawing/metered/
 ---
 ## Metered class
@@ -24,10 +24,10 @@ public sealed class Metered : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [SetMeteredKey](setmeteredkey)(string, string) | Sets metered public and private key |
-| static [GetConsumptionCredit](getconsumptioncredit)() | Gets consumption credit. |
-| static [GetConsumptionQuantity](getconsumptionquantity)() | Gets consumption file size. |
+| [Dispose](../../aspose.drawing/metered/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [SetMeteredKey](../../aspose.drawing/metered/setmeteredkey)(string, string) | Sets metered public and private key |
+| static [GetConsumptionCredit](../../aspose.drawing/metered/getconsumptioncredit)() | Gets consumption credit. |
+| static [GetConsumptionQuantity](../../aspose.drawing/metered/getconsumptionquantity)() | Gets consumption file size. |
 
 ### Examples
 

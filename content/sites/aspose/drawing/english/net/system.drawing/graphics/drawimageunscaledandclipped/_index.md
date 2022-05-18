@@ -22,6 +22,7 @@ public void DrawImageUnscaledAndClipped(Image image, Rectangle rect)
 ### See Also
 
 * class [Image](../../image)
+* struct [Rectangle](../../rectangle)
 * class [Graphics](../../graphics)
 * namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)

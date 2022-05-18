@@ -3,7 +3,7 @@ title: SystemFonts
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1100
+weight: 1170
 url: /net/system.drawing/systemfonts/
 ---
 ## SystemFonts class
@@ -18,20 +18,20 @@ public sealed class SystemFonts
 
 | Name | Description |
 | --- | --- |
-| static [CaptionFont](captionfont) { get; } | Gets a Font that is used to display text in the title bars of windows. |
-| static [DefaultFont](defaultfont) { get; } | Gets the default font that applications can use for dialog boxes and forms. |
-| static [DialogFont](dialogfont) { get; } | Gets a font that applications can use for dialog boxes and forms. |
-| static [IconTitleFont](icontitlefont) { get; } | Gets a Font that is used for icon titles. |
-| static [MenuFont](menufont) { get; } | Gets a Font that is used for menus. |
-| static [MessageBoxFont](messageboxfont) { get; } | Gets a Font that is used for message boxes. |
-| static [SmallCaptionFont](smallcaptionfont) { get; } | Gets a Font that is used to display text in the title bars of small windows, such as tool windows. |
-| static [StatusFont](statusfont) { get; } | Gets a Font that is used to display text in the status bar. |
+| static [CaptionFont](../../system.drawing/systemfonts/captionfont) { get; } | Gets a Font that is used to display text in the title bars of windows. |
+| static [DefaultFont](../../system.drawing/systemfonts/defaultfont) { get; } | Gets the default font that applications can use for dialog boxes and forms. |
+| static [DialogFont](../../system.drawing/systemfonts/dialogfont) { get; } | Gets a font that applications can use for dialog boxes and forms. |
+| static [IconTitleFont](../../system.drawing/systemfonts/icontitlefont) { get; } | Gets a Font that is used for icon titles. |
+| static [MenuFont](../../system.drawing/systemfonts/menufont) { get; } | Gets a Font that is used for menus. |
+| static [MessageBoxFont](../../system.drawing/systemfonts/messageboxfont) { get; } | Gets a Font that is used for message boxes. |
+| static [SmallCaptionFont](../../system.drawing/systemfonts/smallcaptionfont) { get; } | Gets a Font that is used to display text in the title bars of small windows, such as tool windows. |
+| static [StatusFont](../../system.drawing/systemfonts/statusfont) { get; } | Gets a Font that is used to display text in the status bar. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetFontByName](getfontbyname)(string) | Returns a font object that corresponds to the specified system font name. |
+| static [GetFontByName](../../system.drawing/systemfonts/getfontbyname)(string) | Returns a font object that corresponds to the specified system font name. |
 
 ### See Also
 

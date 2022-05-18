@@ -3,7 +3,7 @@ title: FontCollection
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 1120
+weight: 1190
 url: /net/system.drawing.text/fontcollection/
 ---
 ## FontCollection class
@@ -18,13 +18,13 @@ public abstract class FontCollection : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Families](families) { get; } | Gets the array of FontFamily objects associated with this FontCollection. |
+| [Families](../../system.drawing.text/fontcollection/families) { get; } | Gets the array of FontFamily objects associated with this FontCollection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Releases all resources used by this FontCollection. |
+| [Dispose](../../system.drawing.text/fontcollection/dispose)() | Releases all resources used by this FontCollection. |
 
 ### See Also
 

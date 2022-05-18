@@ -3,7 +3,7 @@ title: CharacterRange
 second_title: Aspose.Drawing for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 70
 url: /net/system.drawing/characterrange/
 ---
 ## CharacterRange structure
@@ -24,17 +24,17 @@ public struct CharacterRange
 
 | Name | Description |
 | --- | --- |
-| [First](first) { get; set; } | Gets or sets the position in the string of the first character of this CharacterRange. |
-| [Length](length) { get; set; } | Gets or sets the number of positions in this CharacterRange. |
+| [First](../../system.drawing/characterrange/first) { get; set; } | Gets or sets the position in the string of the first character of this CharacterRange. |
+| [Length](../../system.drawing/characterrange/length) { get; set; } | Gets or sets the number of positions in this CharacterRange. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Gets a value indicating whether this object is equivalent to the specified object. |
-| override [GetHashCode](gethashcode)() | Returns the hash code for this instance. |
-| [operator ==](op_equality) | Compares two CharacterRange objects. Gets a value indicating whether the First and Length values of the two CharacterRange objects are equal. |
-| [operator !=](op_inequality) | Compares two CharacterRange objects. Gets a value indicating whether the First or Length values of the two CharacterRange objects are not equal. |
+| override [Equals](../../system.drawing/characterrange/equals)(object) | Gets a value indicating whether this object is equivalent to the specified object. |
+| override [GetHashCode](../../system.drawing/characterrange/gethashcode)() | Returns the hash code for this instance. |
+| [operator ==](../../system.drawing/characterrange/op_equality) | Compares two CharacterRange objects. Gets a value indicating whether the First and Length values of the two CharacterRange objects are equal. |
+| [operator !=](../../system.drawing/characterrange/op_inequality) | Compares two CharacterRange objects. Gets a value indicating whether the First or Length values of the two CharacterRange objects are not equal. |
 
 ### See Also
 

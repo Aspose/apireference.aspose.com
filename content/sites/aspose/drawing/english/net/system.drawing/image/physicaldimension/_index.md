@@ -20,6 +20,7 @@ A SizeF structure that represents the width and height of this Image.
 
 ### See Also
 
+* struct [SizeF](../../sizef)
 * class [Image](../../image)
 * namespace [System.Drawing](../../image)
 * assembly [Aspose.Drawing](../../../)
