@@ -24,12 +24,12 @@ public class PresentmentListResponse
 
 | Name | Description |
 | --- | --- |
-| [BillPublisher](billpublisher) { get; set; } | Gets or sets the official standard name of bill publisher. |
-| [EndDate](enddate) { get; set; } | Gets or sets the date to present as start date for next request. |
-| [PresentmentBillInfos](presentmentbillinfos) { get; set; } | Gets or sets the collection of [`PresentmentBillInfo`](../presentmentbillinfo). |
-| [PresentmentCounts](presentmentcounts) { get; set; } | Gets or sets the [`PresentmentCounts`](./presentmentcounts). |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date of bills returned. |
-| [UserId](userid) { get; set; } | Gets or sets the user whose bill data is being returned. |
+| [BillPublisher](../../aspose.finance.ofx.billerdelivery/presentmentlistresponse/billpublisher) { get; set; } | Gets or sets the official standard name of bill publisher. |
+| [EndDate](../../aspose.finance.ofx.billerdelivery/presentmentlistresponse/enddate) { get; set; } | Gets or sets the date to present as start date for next request. |
+| [PresentmentBillInfos](../../aspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentbillinfos) { get; set; } | Gets or sets the collection of [`PresentmentBillInfo`](../presentmentbillinfo). |
+| [PresentmentCounts](../../aspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts) { get; set; } | Gets or sets the [`PresentmentCounts`](./presentmentcounts). |
+| [StartDate](../../aspose.finance.ofx.billerdelivery/presentmentlistresponse/startdate) { get; set; } | Gets or sets the start date of bills returned. |
+| [UserId](../../aspose.finance.ofx.billerdelivery/presentmentlistresponse/userid) { get; set; } | Gets or sets the user whose bill data is being returned. |
 
 ### See Also
 

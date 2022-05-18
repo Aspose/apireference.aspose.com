@@ -18,8 +18,8 @@ public class CalculationLink
 
 | Name | Description |
 | --- | --- |
-| [CalculationArcs](calculationarcs) { get; set; } | Gets the collection of [`CalculationArc`](../calculationarc). |
-| [Locators](locators) { get; } | Gets the collection of [`Loc`](../loc). |
+| [CalculationArcs](../../aspose.finance.xbrl/calculationlink/calculationarcs) { get; set; } | Gets the collection of [`CalculationArc`](../calculationarc). |
+| [Locators](../../aspose.finance.xbrl/calculationlink/locators) { get; } | Gets the collection of [`Loc`](../loc). |
 
 ### See Also
 

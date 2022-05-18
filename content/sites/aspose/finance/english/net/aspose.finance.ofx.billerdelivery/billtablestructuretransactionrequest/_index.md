@@ -24,8 +24,11 @@ public class BillTableStructureTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [BillTableStructureRequest](billtablestructurerequest) { get; set; } | Gets or sets the [`BillTableStructureRequest`](./billtablestructurerequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [BillTableStructureRequest](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/billtablestructurerequest) { get; set; } | Gets or sets the [`BillTableStructureRequest`](./billtablestructurerequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

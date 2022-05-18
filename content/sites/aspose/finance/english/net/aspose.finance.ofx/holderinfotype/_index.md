@@ -24,8 +24,8 @@ public class HolderInfoType
 
 | Name | Description |
 | --- | --- |
-| [PrimaryHolder](primaryholder) { get; set; } | Gets or sets the primary of [`AccountHolderType`](../accountholdertype). |
-| [SecondaryHolder](secondaryholder) { get; set; } | Gets or sets the secondary of [`AccountHolderType`](../accountholdertype). |
+| [PrimaryHolder](../../aspose.finance.ofx/holderinfotype/primaryholder) { get; set; } | Gets or sets the primary of [`AccountHolderType`](../accountholdertype). |
+| [SecondaryHolder](../../aspose.finance.ofx/holderinfotype/secondaryholder) { get; set; } | Gets or sets the secondary of [`AccountHolderType`](../accountholdertype). |
 
 ### See Also
 

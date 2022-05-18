@@ -24,9 +24,9 @@ public class EnrollResponse
 
 | Name | Description |
 | --- | --- |
-| [ExpireDate](expiredate) { get; set; } | Gets or sets the time the temporary password expires |
-| [TemporaryPassword](temporarypassword) { get; set; } | Gets or sets the temporary password. |
-| [UserId](userid) { get; set; } | Gets or sets the user ID. |
+| [ExpireDate](../../aspose.finance.ofx.signup/enrollresponse/expiredate) { get; set; } | Gets or sets the time the temporary password expires |
+| [TemporaryPassword](../../aspose.finance.ofx.signup/enrollresponse/temporarypassword) { get; set; } | Gets or sets the temporary password. |
+| [UserId](../../aspose.finance.ofx.signup/enrollresponse/userid) { get; set; } | Gets or sets the user ID. |
 
 ### See Also
 

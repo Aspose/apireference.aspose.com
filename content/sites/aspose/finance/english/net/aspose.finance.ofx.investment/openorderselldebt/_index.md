@@ -20,6 +20,12 @@ public class OpenOrderSellDebt : AbstractOpenOrder
 | --- | --- |
 | [OpenOrderSellDebt](openorderselldebt)() | Initializes a new instance of [`OpenOrderSellDebt`](../openorderselldebt) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
+
 ### See Also
 
 * class [AbstractOpenOrder](../abstractopenorder)

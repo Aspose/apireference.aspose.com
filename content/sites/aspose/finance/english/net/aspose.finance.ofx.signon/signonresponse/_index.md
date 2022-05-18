@@ -24,17 +24,17 @@ public class SignonResponse
 
 | Name | Description |
 | --- | --- |
-| [AccessKey](accesskey) { get; set; } | Gets or sets the access key that the client should send in the next signon request |
-| [AccountUpdateDate](accountupdatedate) { get; set; } | Gets or sets the date and time of last update to account information. |
-| [FinancialInstitution](financialinstitution) { get; set; } | Gets or sets the [`FinancialInstitution`](./financialinstitution). |
-| [KeyExpireTime](keyexpiretime) { get; set; } | Gets or sets the date and time that USERKEY expires. |
-| [Language](language) { get; set; } | Gets or sets the language used in text responses. |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [ProfileUpdateDate](profileupdatedate) { get; set; } | Gets or sets the date and time of last update to profile information for any service supported by this FI. |
-| [ServerDate](serverdate) { get; set; } | Gets or sets the date and time of the server response. |
-| [SessionCookie](sessioncookie) { get; set; } | Gets or sets the session cookie that the client should return on the next signon request. |
-| [Status](status) { get; set; } | Gets or sets the [`Status`](./status). |
-| [UserKey](userkey) { get; set; } | Gets or sets the use user key instead of UserId and UserPassword for subsequent requests. KeyExpireTime can limit lifetime. |
+| [AccessKey](../../aspose.finance.ofx.signon/signonresponse/accesskey) { get; set; } | Gets or sets the access key that the client should send in the next signon request |
+| [AccountUpdateDate](../../aspose.finance.ofx.signon/signonresponse/accountupdatedate) { get; set; } | Gets or sets the date and time of last update to account information. |
+| [FinancialInstitution](../../aspose.finance.ofx.signon/signonresponse/financialinstitution) { get; set; } | Gets or sets the [`FinancialInstitution`](./financialinstitution). |
+| [KeyExpireTime](../../aspose.finance.ofx.signon/signonresponse/keyexpiretime) { get; set; } | Gets or sets the date and time that USERKEY expires. |
+| [Language](../../aspose.finance.ofx.signon/signonresponse/language) { get; set; } | Gets or sets the language used in text responses. |
+| [OfxExtension](../../aspose.finance.ofx.signon/signonresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ProfileUpdateDate](../../aspose.finance.ofx.signon/signonresponse/profileupdatedate) { get; set; } | Gets or sets the date and time of last update to profile information for any service supported by this FI. |
+| [ServerDate](../../aspose.finance.ofx.signon/signonresponse/serverdate) { get; set; } | Gets or sets the date and time of the server response. |
+| [SessionCookie](../../aspose.finance.ofx.signon/signonresponse/sessioncookie) { get; set; } | Gets or sets the session cookie that the client should return on the next signon request. |
+| [Status](../../aspose.finance.ofx.signon/signonresponse/status) { get; set; } | Gets or sets the [`Status`](./status). |
+| [UserKey](../../aspose.finance.ofx.signon/signonresponse/userkey) { get; set; } | Gets or sets the use user key instead of UserId and UserPassword for subsequent requests. KeyExpireTime can limit lifetime. |
 
 ### See Also
 

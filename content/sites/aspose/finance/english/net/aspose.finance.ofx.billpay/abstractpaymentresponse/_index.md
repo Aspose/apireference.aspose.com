@@ -18,7 +18,7 @@ public abstract class AbstractPaymentResponse
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment. |
+| [ServerId](../../aspose.finance.ofx.billpay/abstractpaymentresponse/serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment. |
 
 ### See Also
 

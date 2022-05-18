@@ -24,11 +24,12 @@ public class InterTransferMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [CanBillPay](canbillpay) { get; set; } | Gets or sets whether server is capable of handling bill payment as a form of transfers. |
-| [CancelWindow](cancelwindow) { get; set; } | Gets or sets the number of days after an interbank transfer occurs that it can be canceled. |
-| [DomesticTransferFee](domestictransferfee) { get; set; } | Gets or sets the standard fee for a domestic interbank transfer. |
-| [InternationalTransferFee](internationaltransferfee) { get; set; } | Gets or sets the standard fee for an international interbank transfer. |
-| [TransferProfile](transferprofile) { get; set; } | Gets or sets the [`TransferProfile`](./transferprofile). |
+| [CanBillPay](../../aspose.finance.ofx.profile/intertransfermessagesetv1/canbillpay) { get; set; } | Gets or sets whether server is capable of handling bill payment as a form of transfers. |
+| [CancelWindow](../../aspose.finance.ofx.profile/intertransfermessagesetv1/cancelwindow) { get; set; } | Gets or sets the number of days after an interbank transfer occurs that it can be canceled. |
+| [DomesticTransferFee](../../aspose.finance.ofx.profile/intertransfermessagesetv1/domestictransferfee) { get; set; } | Gets or sets the standard fee for a domestic interbank transfer. |
+| [InternationalTransferFee](../../aspose.finance.ofx.profile/intertransfermessagesetv1/internationaltransferfee) { get; set; } | Gets or sets the standard fee for an international interbank transfer. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [TransferProfile](../../aspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile) { get; set; } | Gets or sets the [`TransferProfile`](./transferprofile). |
 
 ### See Also
 

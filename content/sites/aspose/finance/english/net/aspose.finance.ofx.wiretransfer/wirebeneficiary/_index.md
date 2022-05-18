@@ -24,9 +24,9 @@ public class WireBeneficiary
 
 | Name | Description |
 | --- | --- |
-| [BankAccountTo](bankaccountto) { get; set; } | Gets or sets the to of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [Memo](memo) { get; set; } | Gets or sets the information for the beneficiary. |
-| [Name](name) { get; set; } | Gets or sets the name of beneficiary. |
+| [BankAccountTo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/bankaccountto) { get; set; } | Gets or sets the to of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [Memo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/memo) { get; set; } | Gets or sets the information for the beneficiary. |
+| [Name](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/name) { get; set; } | Gets or sets the name of beneficiary. |
 
 ### See Also
 

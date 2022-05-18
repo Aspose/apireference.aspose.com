@@ -24,13 +24,13 @@ public class ImageData
 
 | Name | Description |
 | --- | --- |
-| [CheckSupport](checksupport) { get; set; } | Gets or sets the check image information. |
-| [ImageAvailDate](imageavaildate) { get; set; } | Gets or sets the image availability date. |
-| [ImageDelay](imagedelay) { get; set; } | Gets or sets the number of calendar days from ServerDate (for statement images) or PostedDate (for transaction images) when image will become available. |
-| [ImageRef](imageref) { get; set; } | Gets or sets the server specified unique identifier for the image to be used during the request for the image. |
-| [ImageRefType](imagereftype) { get; set; } | Gets or sets the type of reference. |
-| [ImageTtl](imagettl) { get; set; } | Gets or sets the number of calendar days the image will remain available on the host once the image becomes available. |
-| [ImageType](imagetype) { get; set; } | Gets or sets the type of image. |
+| [CheckSupport](../../aspose.finance.ofx/imagedata/checksupport) { get; set; } | Gets or sets the check image information. |
+| [ImageAvailDate](../../aspose.finance.ofx/imagedata/imageavaildate) { get; set; } | Gets or sets the image availability date. |
+| [ImageDelay](../../aspose.finance.ofx/imagedata/imagedelay) { get; set; } | Gets or sets the number of calendar days from ServerDate (for statement images) or PostedDate (for transaction images) when image will become available. |
+| [ImageRef](../../aspose.finance.ofx/imagedata/imageref) { get; set; } | Gets or sets the server specified unique identifier for the image to be used during the request for the image. |
+| [ImageRefType](../../aspose.finance.ofx/imagedata/imagereftype) { get; set; } | Gets or sets the type of reference. |
+| [ImageTtl](../../aspose.finance.ofx/imagedata/imagettl) { get; set; } | Gets or sets the number of calendar days the image will remain available on the host once the image becomes available. |
+| [ImageType](../../aspose.finance.ofx/imagedata/imagetype) { get; set; } | Gets or sets the type of image. |
 
 ### See Also
 

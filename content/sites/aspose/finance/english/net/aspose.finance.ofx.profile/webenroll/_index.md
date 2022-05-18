@@ -24,7 +24,7 @@ public class WebEnroll
 
 | Name | Description |
 | --- | --- |
-| [Url](url) { get; set; } | Gets or sets the URL to start enrollment process. |
+| [Url](../../aspose.finance.ofx.profile/webenroll/url) { get; set; } | Gets or sets the URL to start enrollment process. |
 
 ### See Also
 

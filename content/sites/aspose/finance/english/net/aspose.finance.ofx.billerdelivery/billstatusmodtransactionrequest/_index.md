@@ -24,8 +24,11 @@ public class BillStatusModTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [BillStatusModRequest](billstatusmodrequest) { get; set; } | Gets or sets the [`BillStatusModRequest`](./billstatusmodrequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [BillStatusModRequest](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodrequest) { get; set; } | Gets or sets the [`BillStatusModRequest`](./billstatusmodrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

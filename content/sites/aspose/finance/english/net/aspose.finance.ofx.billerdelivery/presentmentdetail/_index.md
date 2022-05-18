@@ -24,9 +24,9 @@ public class PresentmentDetail
 
 | Name | Description |
 | --- | --- |
-| [BillDetailTables](billdetailtables) { get; set; } | Gets or sets the collection of [`BillDetailTable`](../billdetailtable). |
-| [BillId](billid) { get; set; } | Gets or sets the statement identifier. |
-| [PresentmentAccountFrom](presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [BillDetailTables](../../aspose.finance.ofx.billerdelivery/presentmentdetail/billdetailtables) { get; set; } | Gets or sets the collection of [`BillDetailTable`](../billdetailtable). |
+| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentdetail/billid) { get; set; } | Gets or sets the statement identifier. |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentdetail/presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
 
 ### See Also
 

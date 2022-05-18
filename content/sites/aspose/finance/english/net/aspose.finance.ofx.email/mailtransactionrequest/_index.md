@@ -24,8 +24,11 @@ public class MailTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [MailRequest](mailrequest) { get; set; } | Gets or sets the [`MailRequest`](./mailrequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [MailRequest](../../aspose.finance.ofx.email/mailtransactionrequest/mailrequest) { get; set; } | Gets or sets the [`MailRequest`](./mailrequest). |
+| [OfxExtension](../../aspose.finance.ofx.email/mailtransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

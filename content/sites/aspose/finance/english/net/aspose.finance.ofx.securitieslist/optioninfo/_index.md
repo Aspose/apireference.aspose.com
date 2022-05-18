@@ -24,13 +24,14 @@ public class OptionInfo : AbstractSecurityInfo
 
 | Name | Description |
 | --- | --- |
-| [AssetClass](assetclass) { get; set; } | Gets or sets the asset class. |
-| [ExpireDate](expiredate) { get; set; } | Gets or sets the expiration date. |
-| [FIAssetClass](fiassetclass) { get; set; } | Gets or sets the text string containing an FI defined asset class. |
-| [OptionType](optiontype) { get; set; } | Gets or sets the option type. |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SharePerContract](sharepercontract) { get; set; } | Gets or sets the shares per contract. |
-| [StrikePrice](strikeprice) { get; set; } | Gets or sets the strike price. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/optioninfo/assetclass) { get; set; } | Gets or sets the asset class. |
+| [ExpireDate](../../aspose.finance.ofx.securitieslist/optioninfo/expiredate) { get; set; } | Gets or sets the expiration date. |
+| [FIAssetClass](../../aspose.finance.ofx.securitieslist/optioninfo/fiassetclass) { get; set; } | Gets or sets the text string containing an FI defined asset class. |
+| [OptionType](../../aspose.finance.ofx.securitieslist/optioninfo/optiontype) { get; set; } | Gets or sets the option type. |
+| [SecurityId](../../aspose.finance.ofx.securitieslist/optioninfo/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Gets or sets the [`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [SharePerContract](../../aspose.finance.ofx.securitieslist/optioninfo/sharepercontract) { get; set; } | Gets or sets the shares per contract. |
+| [StrikePrice](../../aspose.finance.ofx.securitieslist/optioninfo/strikeprice) { get; set; } | Gets or sets the strike price. |
 
 ### See Also
 

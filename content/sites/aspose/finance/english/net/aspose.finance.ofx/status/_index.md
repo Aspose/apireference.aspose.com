@@ -24,9 +24,9 @@ public class Status
 
 | Name | Description |
 | --- | --- |
-| [Code](code) { get; set; } | Gets or sets the error code. |
-| [Message](message) { get; set; } | Gets or sets the textual explanation from the FI. |
-| [Severity](severity) { get; set; } | Gets or sets the severity of the error. |
+| [Code](../../aspose.finance.ofx/status/code) { get; set; } | Gets or sets the error code. |
+| [Message](../../aspose.finance.ofx/status/message) { get; set; } | Gets or sets the textual explanation from the FI. |
+| [Severity](../../aspose.finance.ofx/status/severity) { get; set; } | Gets or sets the severity of the error. |
 
 ### See Also
 

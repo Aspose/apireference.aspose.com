@@ -24,10 +24,10 @@ public class AmortizationResponse
 
 | Name | Description |
 | --- | --- |
-| [AmortizationTransactionList](amortizationtransactionlist) { get; set; } | Gets or sets the [`AmortizationTransactionList`](./amortizationtransactionlist). |
-| [Currency](currency) { get; set; } | Gets or sets the default currency for the statement |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [MarketingInformation](marketinginformation) { get; set; } | Gets or sets the marketing information. |
+| [AmortizationTransactionList](../../aspose.finance.ofx.loan/amortizationresponse/amortizationtransactionlist) { get; set; } | Gets or sets the [`AmortizationTransactionList`](./amortizationtransactionlist). |
+| [Currency](../../aspose.finance.ofx.loan/amortizationresponse/currency) { get; set; } | Gets or sets the default currency for the statement |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationresponse/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [MarketingInformation](../../aspose.finance.ofx.loan/amortizationresponse/marketinginformation) { get; set; } | Gets or sets the marketing information. |
 
 ### See Also
 

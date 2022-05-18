@@ -24,9 +24,9 @@ public class ChallengeResponse
 
 | Name | Description |
 | --- | --- |
-| [FICertificateId](ficertificateid) { get; set; } | Gets or sets the ID of server certificate used to encrypt. |
-| [Nonce](nonce) { get; set; } | Gets or sets the server-generated random data. |
-| [UserId](userid) { get; set; } | Gets or sets the user identification string. |
+| [FICertificateId](../../aspose.finance.ofx.signon/challengeresponse/ficertificateid) { get; set; } | Gets or sets the ID of server certificate used to encrypt. |
+| [Nonce](../../aspose.finance.ofx.signon/challengeresponse/nonce) { get; set; } | Gets or sets the server-generated random data. |
+| [UserId](../../aspose.finance.ofx.signon/challengeresponse/userid) { get; set; } | Gets or sets the user identification string. |
 
 ### See Also
 

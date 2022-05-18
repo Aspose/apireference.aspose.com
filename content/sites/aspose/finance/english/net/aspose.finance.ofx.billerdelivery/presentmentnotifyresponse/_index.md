@@ -24,7 +24,7 @@ public class PresentmentNotifyResponse
 
 | Name | Description |
 | --- | --- |
-| [PresentmentDeliveryId](presentmentdeliveryid) { get; set; } | Gets or sets the [`PresentmentDeliveryId`](./presentmentdeliveryid). |
+| [PresentmentDeliveryId](../../aspose.finance.ofx.billerdelivery/presentmentnotifyresponse/presentmentdeliveryid) { get; set; } | Gets or sets the [`PresentmentDeliveryId`](./presentmentdeliveryid). |
 
 ### See Also
 

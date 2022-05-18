@@ -24,12 +24,13 @@ public class SignupMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [AvailableAccountStatus](availableaccountstatus) { get; set; } | True if server can provide information on accounts with SVCSTATUS available, False means client should expect to ask user for specific account information. |
-| [ChangeUserInfo](changeuserinfo) { get; set; } | Gets or sets whether server supports client-based user information changes. |
-| [ClientActivationRequest](clientactivationrequest) { get; set; } | True if server allows clients to make service activation requests, False if server will only advise clients via synchronization of service additions, changes, or deletions. |
-| [ClientEnroll](clientenroll) { get; set; } | Gets or sets the [`ClientEnroll`](./clientenroll). |
-| [OtherEnroll](otherenroll) { get; set; } | Gets or sets the [`OtherEnroll`](./otherenroll). |
-| [WebEnroll](webenroll) { get; set; } | Gets or sets the [`WebEnroll`](./webenroll). |
+| [AvailableAccountStatus](../../aspose.finance.ofx.profile/signupmessagesetv1/availableaccountstatus) { get; set; } | True if server can provide information on accounts with SVCSTATUS available, False means client should expect to ask user for specific account information. |
+| [ChangeUserInfo](../../aspose.finance.ofx.profile/signupmessagesetv1/changeuserinfo) { get; set; } | Gets or sets whether server supports client-based user information changes. |
+| [ClientActivationRequest](../../aspose.finance.ofx.profile/signupmessagesetv1/clientactivationrequest) { get; set; } | True if server allows clients to make service activation requests, False if server will only advise clients via synchronization of service additions, changes, or deletions. |
+| [ClientEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/clientenroll) { get; set; } | Gets or sets the [`ClientEnroll`](./clientenroll). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [OtherEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/otherenroll) { get; set; } | Gets or sets the [`OtherEnroll`](./otherenroll). |
+| [WebEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/webenroll) { get; set; } | Gets or sets the [`WebEnroll`](./webenroll). |
 
 ### See Also
 

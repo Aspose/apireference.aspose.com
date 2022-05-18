@@ -24,7 +24,7 @@ public class PaymentRequest : AbstractPaymentRequest
 
 | Name | Description |
 | --- | --- |
-| [PaymentInfo](paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentrequest/paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
 
 ### See Also
 

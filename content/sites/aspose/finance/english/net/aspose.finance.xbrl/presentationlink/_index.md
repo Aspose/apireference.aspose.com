@@ -3,7 +3,7 @@ title: PresentationLink
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7860
+weight: 7870
 url: /net/aspose.finance.xbrl/presentationlink/
 ---
 ## PresentationLink class
@@ -18,9 +18,9 @@ public class PresentationLink
 
 | Name | Description |
 | --- | --- |
-| [Locators](locators) { get; } | Gets the collection of [`Loc`](../loc). |
-| [PresentationArcs](presentationarcs) { get; } | Gets the collection of [`PresentationArc`](../presentationarc). |
-| [Role](role) { get; set; } | Gets or sets the role. |
+| [Locators](../../aspose.finance.xbrl/presentationlink/locators) { get; } | Gets the collection of [`Loc`](../loc). |
+| [PresentationArcs](../../aspose.finance.xbrl/presentationlink/presentationarcs) { get; } | Gets the collection of [`PresentationArc`](../presentationarc). |
+| [Role](../../aspose.finance.xbrl/presentationlink/role) { get; set; } | Gets or sets the role. |
 
 ### See Also
 

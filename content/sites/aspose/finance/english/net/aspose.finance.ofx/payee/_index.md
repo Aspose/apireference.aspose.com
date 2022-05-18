@@ -24,15 +24,15 @@ public class Payee
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the payee’s address line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the payee’s address line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the payee’s address line 3. |
-| [City](city) { get; set; } | Gets or sets the payee’s city. |
-| [Country](country) { get; set; } | Gets or sets the payee’s country, 3-letter country code from ISO/DIS-3166. |
-| [Name](name) { get; set; } | Gets or sets the name of payee. |
-| [Phone](phone) { get; set; } | Gets or sets the payee’s telephone number. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the payee’s postal code. |
-| [State](state) { get; set; } | Gets or sets the payee’s state. |
+| [Address1](../../aspose.finance.ofx/payee/address1) { get; set; } | Gets or sets the payee’s address line 1. |
+| [Address2](../../aspose.finance.ofx/payee/address2) { get; set; } | Gets or sets the payee’s address line 2. |
+| [Address3](../../aspose.finance.ofx/payee/address3) { get; set; } | Gets or sets the payee’s address line 3. |
+| [City](../../aspose.finance.ofx/payee/city) { get; set; } | Gets or sets the payee’s city. |
+| [Country](../../aspose.finance.ofx/payee/country) { get; set; } | Gets or sets the payee’s country, 3-letter country code from ISO/DIS-3166. |
+| [Name](../../aspose.finance.ofx/payee/name) { get; set; } | Gets or sets the name of payee. |
+| [Phone](../../aspose.finance.ofx/payee/phone) { get; set; } | Gets or sets the payee’s telephone number. |
+| [PostalCode](../../aspose.finance.ofx/payee/postalcode) { get; set; } | Gets or sets the payee’s postal code. |
+| [State](../../aspose.finance.ofx/payee/state) { get; set; } | Gets or sets the payee’s state. |
 
 ### See Also
 

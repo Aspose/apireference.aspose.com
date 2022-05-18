@@ -24,8 +24,9 @@ public class ImageMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [DefaultImageDelay](defaultimagedelay) { get; set; } | Gets or sets the default number of calendar days from ServerDate (for statement images) or PostedDate (for transaction images) when image will become available. |
-| [DefaultImageTtl](defaultimagettl) { get; set; } | Gets or sets the default number of calendar days the image will remain available on the host once the image becomes available. |
+| [DefaultImageDelay](../../aspose.finance.ofx.profile/imagemessagesetv1/defaultimagedelay) { get; set; } | Gets or sets the default number of calendar days from ServerDate (for statement images) or PostedDate (for transaction images) when image will become available. |
+| [DefaultImageTtl](../../aspose.finance.ofx.profile/imagemessagesetv1/defaultimagettl) { get; set; } | Gets or sets the default number of calendar days the image will remain available on the host once the image becomes available. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 
 ### See Also
 

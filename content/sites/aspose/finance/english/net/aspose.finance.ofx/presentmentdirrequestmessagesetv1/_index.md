@@ -24,7 +24,7 @@ public class PresentmentDirRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [FindBillerTransactionRequests](findbillertransactionrequests) { get; set; } | Gets or sets the collection of [`FindBillerTransactionRequest`](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest). |
+| [FindBillerTransactionRequests](../../aspose.finance.ofx/presentmentdirrequestmessagesetv1/findbillertransactionrequests) { get; set; } | Gets or sets the collection of [`FindBillerTransactionRequest`](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest). |
 
 ### See Also
 

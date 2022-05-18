@@ -24,8 +24,12 @@ public class AccountSyncRequest : AbstractSyncRequest
 
 | Name | Description |
 | --- | --- |
-| [AccountTransactionRequests](accounttransactionrequests) { get; set; } | Gets or sets the collection of [`AccountTransactionRequest`](../accounttransactionrequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [AccountTransactionRequests](../../aspose.finance.ofx.signup/accountsyncrequest/accounttransactionrequests) { get; set; } | Gets or sets the collection of [`AccountTransactionRequest`](../accounttransactionrequest). |
+| [OfxExtension](../../aspose.finance.ofx.signup/accountsyncrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
 
 ### See Also
 

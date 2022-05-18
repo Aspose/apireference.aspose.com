@@ -24,8 +24,8 @@ public class BillTableStructureRequest
 
 | Name | Description |
 | --- | --- |
-| [BillDetailTableType](billdetailtabletype) { get; set; } | Gets or sets the table type for which the structure is requested. |
-| [BillId](billid) { get; set; } | Gets or sets the statement identifier. |
+| [BillDetailTableType](../../aspose.finance.ofx.billerdelivery/billtablestructurerequest/billdetailtabletype) { get; set; } | Gets or sets the table type for which the structure is requested. |
+| [BillId](../../aspose.finance.ofx.billerdelivery/billtablestructurerequest/billid) { get; set; } | Gets or sets the statement identifier. |
 
 ### See Also
 

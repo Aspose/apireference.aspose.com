@@ -3,7 +3,7 @@ title: XbrlInstanceCollection
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8160
+weight: 8200
 url: /net/aspose.finance.xbrl/xbrlinstancecollection/
 ---
 ## XbrlInstanceCollection class
@@ -18,16 +18,16 @@ public class XbrlInstanceCollection : IEnumerable<XbrlInstance>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | The number of XBRL instance in this collection. |
-| [Item](item) { get; set; } | Gets and sets [`XbrlInstance`](../xbrlinstance) item at the specified index in the collection. |
-| [XbrlDocument](xbrldocument) { get; } | Gets the [`XbrlDocument`](./xbrldocument) which contains this XBRL instances collection. |
+| [Count](../../aspose.finance.xbrl/xbrlinstancecollection/count) { get; } | The number of XBRL instance in this collection. |
+| [Item](../../aspose.finance.xbrl/xbrlinstancecollection/item) { get; set; } | Gets and sets [`XbrlInstance`](../xbrlinstance) item at the specified index in the collection. |
+| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstancecollection/xbrldocument) { get; } | Gets the [`XbrlDocument`](./xbrldocument) which contains this XBRL instances collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)() | Add a [`XbrlInstance`](../xbrlinstance) to the collection. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the collection. |
+| [Add](../../aspose.finance.xbrl/xbrlinstancecollection/add)() | Add a [`XbrlInstance`](../xbrlinstance) to the collection. |
+| [GetEnumerator](../../aspose.finance.xbrl/xbrlinstancecollection/getenumerator)() | Returns an enumerator that iterates through the collection. |
 
 ### See Also
 

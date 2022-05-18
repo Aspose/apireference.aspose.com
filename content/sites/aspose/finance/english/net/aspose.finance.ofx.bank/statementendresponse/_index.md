@@ -24,9 +24,9 @@ public class StatementEndResponse
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [Closings](closings) { get; set; } | Gets or sets the collection of [`Closing`](../closing). |
-| [Currency](currency) { get; set; } | Gets or sets the default currency used for closing information. |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementendresponse/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [Closings](../../aspose.finance.ofx.bank/statementendresponse/closings) { get; set; } | Gets or sets the collection of [`Closing`](../closing). |
+| [Currency](../../aspose.finance.ofx.bank/statementendresponse/currency) { get; set; } | Gets or sets the default currency used for closing information. |
 
 ### See Also
 

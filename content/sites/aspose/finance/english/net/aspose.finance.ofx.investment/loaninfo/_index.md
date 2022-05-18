@@ -24,21 +24,21 @@ public class LoanInfo
 
 | Name | Description |
 | --- | --- |
-| [CurrentLoanBalance](currentloanbalance) { get; set; } | Gets or sets the current loan principal balance. |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the date and time of the current loan balance. |
-| [InitialLoanBalance](initialloanbalance) { get; set; } | Gets or sets the initial loan balance. |
-| [LoanDescription](loandescription) { get; set; } | Gets or sets the loan description |
-| [LoanId](loanid) { get; set; } | Gets or sets the identifier of this loan. |
-| [LoanInterestToDate](loaninteresttodate) { get; set; } | Gets or sets the total interested paid to date on this loan. |
-| [LoanMaturityDate](loanmaturitydate) { get; set; } | Gets or sets the expected loan end date. |
-| [LoanNextPaymentDate](loannextpaymentdate) { get; set; } | Gets or sets the next payment due date. |
-| [LoanPaymentAmount](loanpaymentamount) { get; set; } | Gets or sets the loan payment amount. |
-| [LoanPaymentFrequency](loanpaymentfrequency) { get; set; } | Gets or sets the frequency of loan repayments. |
-| [LoanPaymentsInitial](loanpaymentsinitial) { get; set; } | Gets or sets the initial number of loan payments. |
-| [LoanPaymentsRemaining](loanpaymentsremaining) { get; set; } | Gets or sets the remaining number of loan payments. |
-| [LoanRate](loanrate) { get; set; } | Gets or sets the loan annual interest rate. |
-| [LoanStartDate](loanstartdate) { get; set; } | Gets or sets the start date of loan. |
-| [LoanTotalProjectInterest](loantotalprojectinterest) { get; set; } | Gets or sets the total projected interest to be paid on this loan. |
+| [CurrentLoanBalance](../../aspose.finance.ofx.investment/loaninfo/currentloanbalance) { get; set; } | Gets or sets the current loan principal balance. |
+| [DateAsOf](../../aspose.finance.ofx.investment/loaninfo/dateasof) { get; set; } | Gets or sets the date and time of the current loan balance. |
+| [InitialLoanBalance](../../aspose.finance.ofx.investment/loaninfo/initialloanbalance) { get; set; } | Gets or sets the initial loan balance. |
+| [LoanDescription](../../aspose.finance.ofx.investment/loaninfo/loandescription) { get; set; } | Gets or sets the loan description |
+| [LoanId](../../aspose.finance.ofx.investment/loaninfo/loanid) { get; set; } | Gets or sets the identifier of this loan. |
+| [LoanInterestToDate](../../aspose.finance.ofx.investment/loaninfo/loaninteresttodate) { get; set; } | Gets or sets the total interested paid to date on this loan. |
+| [LoanMaturityDate](../../aspose.finance.ofx.investment/loaninfo/loanmaturitydate) { get; set; } | Gets or sets the expected loan end date. |
+| [LoanNextPaymentDate](../../aspose.finance.ofx.investment/loaninfo/loannextpaymentdate) { get; set; } | Gets or sets the next payment due date. |
+| [LoanPaymentAmount](../../aspose.finance.ofx.investment/loaninfo/loanpaymentamount) { get; set; } | Gets or sets the loan payment amount. |
+| [LoanPaymentFrequency](../../aspose.finance.ofx.investment/loaninfo/loanpaymentfrequency) { get; set; } | Gets or sets the frequency of loan repayments. |
+| [LoanPaymentsInitial](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsinitial) { get; set; } | Gets or sets the initial number of loan payments. |
+| [LoanPaymentsRemaining](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsremaining) { get; set; } | Gets or sets the remaining number of loan payments. |
+| [LoanRate](../../aspose.finance.ofx.investment/loaninfo/loanrate) { get; set; } | Gets or sets the loan annual interest rate. |
+| [LoanStartDate](../../aspose.finance.ofx.investment/loaninfo/loanstartdate) { get; set; } | Gets or sets the start date of loan. |
+| [LoanTotalProjectInterest](../../aspose.finance.ofx.investment/loaninfo/loantotalprojectinterest) { get; set; } | Gets or sets the total projected interest to be paid on this loan. |
 
 ### See Also
 

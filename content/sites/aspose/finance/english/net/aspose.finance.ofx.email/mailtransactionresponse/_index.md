@@ -24,8 +24,11 @@ public class MailTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [MailResponse](mailresponse) { get; set; } | Gets or sets the [`MailResponse`](./mailresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [MailResponse](../../aspose.finance.ofx.email/mailtransactionresponse/mailresponse) { get; set; } | Gets or sets the [`MailResponse`](./mailresponse). |
+| [OfxExtension](../../aspose.finance.ofx.email/mailtransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

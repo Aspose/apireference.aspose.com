@@ -24,19 +24,19 @@ public class Tax1098_V100 : AbstractTax1098
 
 | Name | Description |
 | --- | --- |
-| [AccountNumber](accountnumber) { get; set; } | Gets or sets the account number. |
-| [BorrowerAddress](borroweraddress) { get; set; } | Gets or sets the [`BorrowerAddress`](./borroweraddress). |
-| [BorrowerId](borrowerid) { get; set; } | Gets or sets the borrower’s Social Security number. |
-| [LenderAddress](lenderaddress) { get; set; } | Gets or sets the [`LenderAddress`](./lenderaddress). |
-| [LenderId](lenderid) { get; set; } | Gets or sets the lender’s Federal Identification Number. |
-| [MortgageInsurancePremium](mortgageinsurancepremium) { get; set; } | Gets or sets the mortgage insurance premium. |
-| [MortgageInterest](mortgageinterest) { get; set; } | Gets or sets the mortgage interest received from borrower(s). |
-| [OtherLoanInfo](otherloaninfo) { get; set; } | Gets or sets the additional details provided by lender. |
-| [OverpaidRefund](overpaidrefund) { get; set; } | Gets or sets the refund of overpaid interest. |
-| [Points](points) { get; set; } | Gets or sets the points paid on purchase of principal residence. |
-| [PropertyTax](propertytax) { get; set; } | Gets or sets the property taxes. |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
-| [TaxYear](taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098_v100/accountnumber) { get; set; } | Gets or sets the account number. |
+| [BorrowerAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/borroweraddress) { get; set; } | Gets or sets the [`BorrowerAddress`](./borroweraddress). |
+| [BorrowerId](../../aspose.finance.ofx.tax1098/tax1098_v100/borrowerid) { get; set; } | Gets or sets the borrower’s Social Security number. |
+| [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderaddress) { get; set; } | Gets or sets the [`LenderAddress`](./lenderaddress). |
+| [LenderId](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderid) { get; set; } | Gets or sets the lender’s Federal Identification Number. |
+| [MortgageInsurancePremium](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinsurancepremium) { get; set; } | Gets or sets the mortgage insurance premium. |
+| [MortgageInterest](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinterest) { get; set; } | Gets or sets the mortgage interest received from borrower(s). |
+| [OtherLoanInfo](../../aspose.finance.ofx.tax1098/tax1098_v100/otherloaninfo) { get; set; } | Gets or sets the additional details provided by lender. |
+| [OverpaidRefund](../../aspose.finance.ofx.tax1098/tax1098_v100/overpaidrefund) { get; set; } | Gets or sets the refund of overpaid interest. |
+| [Points](../../aspose.finance.ofx.tax1098/tax1098_v100/points) { get; set; } | Gets or sets the points paid on purchase of principal residence. |
+| [PropertyTax](../../aspose.finance.ofx.tax1098/tax1098_v100/propertytax) { get; set; } | Gets or sets the property taxes. |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098_v100/serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
+| [TaxYear](../../aspose.finance.ofx.tax1098/tax1098_v100/taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
 
 ### See Also
 

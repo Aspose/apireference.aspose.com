@@ -3,7 +3,7 @@ title: LocalCacheService
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7830
+weight: 7840
 url: /net/aspose.finance.xbrl/localcacheservice/
 ---
 ## LocalCacheService class
@@ -18,13 +18,13 @@ public static class LocalCacheService
 
 | Name | Description |
 | --- | --- |
-| static [Enable](enable) { get; } | Gets whether the service is enabled. |
+| static [Enable](../../aspose.finance.xbrl/localcacheservice/enable) { get; } | Gets whether the service is enabled. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [EnableService](enableservice)(string) | Enables the service. |
+| static [EnableService](../../aspose.finance.xbrl/localcacheservice/enableservice)(string) | Enables the service. |
 
 ### See Also
 

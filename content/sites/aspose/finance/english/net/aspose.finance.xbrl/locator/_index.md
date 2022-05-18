@@ -3,7 +3,7 @@ title: Locator
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7840
+weight: 7850
 url: /net/aspose.finance.xbrl/locator/
 ---
 ## Locator class
@@ -24,10 +24,11 @@ public abstract class Locator : Xlink
 
 | Name | Description |
 | --- | --- |
-| [Href](href) { get; set; } | Gets or sets the href URI of the locator. |
-| [Label](label) { get; set; } | Gets or sets the label of the locator. |
-| [Role](role) { get; set; } | Gets or sets the role of the locator. |
-| [Title](title) { get; set; } | Gets or sets the title of the locator. |
+| [Href](../../aspose.finance.xbrl/locator/href) { get; set; } | Gets or sets the href URI of the locator. |
+| [Label](../../aspose.finance.xbrl/locator/label) { get; set; } | Gets or sets the label of the locator. |
+| [Role](../../aspose.finance.xbrl/locator/role) { get; set; } | Gets or sets the role of the locator. |
+| [Title](../../aspose.finance.xbrl/locator/title) { get; set; } | Gets or sets the title of the locator. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ### See Also
 

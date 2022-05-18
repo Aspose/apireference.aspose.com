@@ -24,25 +24,25 @@ public class SignonRequest
 
 | Name | Description |
 | --- | --- |
-| [AccessKey](accesskey) { get; set; } | Gets or sets the access key value received in prevous signon response, not sent if first login or none sent by FI. |
-| [AccessToken](accesstoken) { get; set; } | Gets or sets the out of band arranged token to be used for authentication. |
-| [AppId](appid) { get; set; } | Gets or sets the ID of client application |
-| [AppKey](appkey) { get; set; } | Gets or sets the application key/identifier; arranged out of band between server and client. |
-| [AppVersion](appversion) { get; set; } | Gets or sets the version of client application. |
-| [AuthToken](authtoken) { get; set; } | Gets or sets the authentication token required for this signon session only. Credential is provided to the user out of band. |
-| [ClientDate](clientdate) { get; set; } | Gets or sets the date and time of the request from the client computer. |
-| [ClientUserId](clientuserid) { get; set; } | Gets or sets the unique ID identifying OFX user. |
-| [FinancialInstitution](financialinstitution) { get; set; } | Gets or sets the [`FinancialInstitution`](./financialinstitution). |
-| [GenerateUserKey](generateuserkey) { get; set; } | Gets or sets whether request server to return a USERKEY for future use, |
-| [Language](language) { get; set; } | Gets or sets the requested language for text responses. |
-| [MFAChallengeAnswers](mfachallengeanswers) { get; set; } | Gets or sets the collection of [`MFAChallengeAnswer`](../mfachallengeanswer). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [SessionCookie](sessioncookie) { get; set; } | Gets or sets the session cookie value received in previous signon response, not sent if first login or if none sent by FI |
-| [UserCredential1](usercredential1) { get; set; } | Gets or sets the additional user credential required by server. |
-| [UserCredential2](usercredential2) { get; set; } | Gets or sets the additional user credential required by server. |
-| [UserId](userid) { get; set; } | Gets or sets the user identification string. |
-| [UserKey](userkey) { get; set; } | Gets or sets the previously authenticated context. |
-| [UserPassword](userpassword) { get; set; } | Gets or sets the user password on server. |
+| [AccessKey](../../aspose.finance.ofx.signon/signonrequest/accesskey) { get; set; } | Gets or sets the access key value received in prevous signon response, not sent if first login or none sent by FI. |
+| [AccessToken](../../aspose.finance.ofx.signon/signonrequest/accesstoken) { get; set; } | Gets or sets the out of band arranged token to be used for authentication. |
+| [AppId](../../aspose.finance.ofx.signon/signonrequest/appid) { get; set; } | Gets or sets the ID of client application |
+| [AppKey](../../aspose.finance.ofx.signon/signonrequest/appkey) { get; set; } | Gets or sets the application key/identifier; arranged out of band between server and client. |
+| [AppVersion](../../aspose.finance.ofx.signon/signonrequest/appversion) { get; set; } | Gets or sets the version of client application. |
+| [AuthToken](../../aspose.finance.ofx.signon/signonrequest/authtoken) { get; set; } | Gets or sets the authentication token required for this signon session only. Credential is provided to the user out of band. |
+| [ClientDate](../../aspose.finance.ofx.signon/signonrequest/clientdate) { get; set; } | Gets or sets the date and time of the request from the client computer. |
+| [ClientUserId](../../aspose.finance.ofx.signon/signonrequest/clientuserid) { get; set; } | Gets or sets the unique ID identifying OFX user. |
+| [FinancialInstitution](../../aspose.finance.ofx.signon/signonrequest/financialinstitution) { get; set; } | Gets or sets the [`FinancialInstitution`](./financialinstitution). |
+| [GenerateUserKey](../../aspose.finance.ofx.signon/signonrequest/generateuserkey) { get; set; } | Gets or sets whether request server to return a USERKEY for future use, |
+| [Language](../../aspose.finance.ofx.signon/signonrequest/language) { get; set; } | Gets or sets the requested language for text responses. |
+| [MFAChallengeAnswers](../../aspose.finance.ofx.signon/signonrequest/mfachallengeanswers) { get; set; } | Gets or sets the collection of [`MFAChallengeAnswer`](../mfachallengeanswer). |
+| [OfxExtension](../../aspose.finance.ofx.signon/signonrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [SessionCookie](../../aspose.finance.ofx.signon/signonrequest/sessioncookie) { get; set; } | Gets or sets the session cookie value received in previous signon response, not sent if first login or if none sent by FI |
+| [UserCredential1](../../aspose.finance.ofx.signon/signonrequest/usercredential1) { get; set; } | Gets or sets the additional user credential required by server. |
+| [UserCredential2](../../aspose.finance.ofx.signon/signonrequest/usercredential2) { get; set; } | Gets or sets the additional user credential required by server. |
+| [UserId](../../aspose.finance.ofx.signon/signonrequest/userid) { get; set; } | Gets or sets the user identification string. |
+| [UserKey](../../aspose.finance.ofx.signon/signonrequest/userkey) { get; set; } | Gets or sets the previously authenticated context. |
+| [UserPassword](../../aspose.finance.ofx.signon/signonrequest/userpassword) { get; set; } | Gets or sets the user password on server. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: IsValid
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.finance.xbrl/xbrlinstance/isvalid/
 ---
 ## XbrlInstance.IsValid method

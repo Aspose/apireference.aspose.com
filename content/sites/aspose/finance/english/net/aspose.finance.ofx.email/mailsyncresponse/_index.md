@@ -24,8 +24,10 @@ public class MailSyncResponse : AbstractSyncResponse
 
 | Name | Description |
 | --- | --- |
-| [MailTransactionResponses](mailtransactionresponses) { get; set; } | Gets or sets the collection of [`MailTransactionResponse`](../mailtransactionresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Yes if the token in the synchronization request is older than the earliest entry in the server’s history table.In this case, some responses have been lost. No if the token in the synchronization request is newer than or matches a token in the server’s history table. |
+| [MailTransactionResponses](../../aspose.finance.ofx.email/mailsyncresponse/mailtransactionresponses) { get; set; } | Gets or sets the collection of [`MailTransactionResponse`](../mailtransactionresponse). |
+| [OfxExtension](../../aspose.finance.ofx.email/mailsyncresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Gets or sets the new synchronization token. |
 
 ### See Also
 

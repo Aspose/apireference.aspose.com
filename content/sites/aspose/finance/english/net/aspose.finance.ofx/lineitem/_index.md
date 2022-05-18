@@ -24,8 +24,8 @@ public class LineItem
 
 | Name | Description |
 | --- | --- |
-| [LineItemAmount](lineitemamount) { get; set; } | Gets or sets the amount of the line item. |
-| [LineItemDescription](lineitemdescription) { get; set; } | Gets or sets the line item description. |
+| [LineItemAmount](../../aspose.finance.ofx/lineitem/lineitemamount) { get; set; } | Gets or sets the amount of the line item. |
+| [LineItemDescription](../../aspose.finance.ofx/lineitem/lineitemdescription) { get; set; } | Gets or sets the line item description. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: SchemaLocation
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.finance.xbrl/xbrlinstance/schemalocation/
 ---
 ## XbrlInstance.SchemaLocation property

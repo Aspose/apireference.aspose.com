@@ -24,8 +24,11 @@ public class GetMimeTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [GetMimeResponse](getmimeresponse) { get; set; } | Gets or sets the [`GetMimeResponse`](./getmimeresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [GetMimeResponse](../../aspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse) { get; set; } | Gets or sets the [`GetMimeResponse`](./getmimeresponse). |
+| [OfxExtension](../../aspose.finance.ofx.email/getmimetransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

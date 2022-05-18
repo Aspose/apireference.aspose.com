@@ -24,8 +24,8 @@ public class ColumnDefinition
 
 | Name | Description |
 | --- | --- |
-| [ColumnName](columnname) { get; set; } | Gets or sets the column name. |
-| [ColumnType](columntype) { get; set; } | Gets or sets the column type. |
+| [ColumnName](../../aspose.finance.ofx.billerdelivery/columndefinition/columnname) { get; set; } | Gets or sets the column name. |
+| [ColumnType](../../aspose.finance.ofx.billerdelivery/columndefinition/columntype) { get; set; } | Gets or sets the column type. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class MessageSetList
 
 | Name | Description |
 | --- | --- |
-| [MessageSets](messagesets) { get; set; } | Gets or sets the collection of message set which is based on [`AbstractMessageSet`](../abstractmessageset). |
+| [MessageSets](../../aspose.finance.ofx.profile/messagesetlist/messagesets) { get; set; } | Gets or sets the collection of message set which is based on [`AbstractMessageSet`](../abstractmessageset). |
 
 ### See Also
 

@@ -24,10 +24,10 @@ public class Adjustment
 
 | Name | Description |
 | --- | --- |
-| [AdjustmentAmount](adjustmentamount) { get; set; } | Gets or sets the amount of the adjustment. |
-| [AdjustmentDate](adjustmentdate) { get; set; } | Gets or sets the date of adjustment. |
-| [AdjustmentDescription](adjustmentdescription) { get; set; } | Gets or sets the adjustment description. |
-| [AdjustmentNumber](adjustmentnumber) { get; set; } | Gets or sets the adjustment number associated with the payment |
+| [AdjustmentAmount](../../aspose.finance.ofx/adjustment/adjustmentamount) { get; set; } | Gets or sets the amount of the adjustment. |
+| [AdjustmentDate](../../aspose.finance.ofx/adjustment/adjustmentdate) { get; set; } | Gets or sets the date of adjustment. |
+| [AdjustmentDescription](../../aspose.finance.ofx/adjustment/adjustmentdescription) { get; set; } | Gets or sets the adjustment description. |
+| [AdjustmentNumber](../../aspose.finance.ofx/adjustment/adjustmentnumber) { get; set; } | Gets or sets the adjustment number associated with the payment |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class ServiceDelete : AbstractServiceAction
 
 | Name | Description |
 | --- | --- |
-| [AccountFrom](accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) or [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [AccountFrom](../../aspose.finance.ofx.signup/servicedelete/accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) or [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
 
 ### See Also
 

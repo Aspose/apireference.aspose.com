@@ -24,8 +24,11 @@ public class AmortizationTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [AmortizationResponse](amortizationresponse) { get; set; } | Gets or sets the [`AmortizationResponse`](./amortizationresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [AmortizationResponse](../../aspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse) { get; set; } | Gets or sets the [`AmortizationResponse`](./amortizationresponse). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.loan/amortizationtransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

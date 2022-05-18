@@ -24,8 +24,8 @@ public class EmailProfile
 
 | Name | Description |
 | --- | --- |
-| [CanEmail](canemail) { get; set; } | Gets or sets whether supports generalized banking e-mail |
-| [CanNotify](cannotify) { get; set; } | Gets or sets whether server returns !:DepositMailResponse or !:CheckMailResponse in synchronization responses. |
+| [CanEmail](../../aspose.finance.ofx.profile/emailprofile/canemail) { get; set; } | Gets or sets whether supports generalized banking e-mail |
+| [CanNotify](../../aspose.finance.ofx.profile/emailprofile/cannotify) { get; set; } | Gets or sets whether server returns !:DepositMailResponse or !:CheckMailResponse in synchronization responses. |
 
 ### See Also
 

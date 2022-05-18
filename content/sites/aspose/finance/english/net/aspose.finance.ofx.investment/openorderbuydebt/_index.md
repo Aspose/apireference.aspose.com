@@ -24,8 +24,9 @@ public class OpenOrderBuyDebt : AbstractOpenOrder
 
 | Name | Description |
 | --- | --- |
-| [Auction](auction) { get; set; } | Gets or sets whether the debt should be purchased at the auction. |
-| [AuctionDate](auctiondate) { get; set; } | Gets or sets the date of the auction. |
+| [Auction](../../aspose.finance.ofx.investment/openorderbuydebt/auction) { get; set; } | Gets or sets whether the debt should be purchased at the auction. |
+| [AuctionDate](../../aspose.finance.ofx.investment/openorderbuydebt/auctiondate) { get; set; } | Gets or sets the date of the auction. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
 
 ### See Also
 

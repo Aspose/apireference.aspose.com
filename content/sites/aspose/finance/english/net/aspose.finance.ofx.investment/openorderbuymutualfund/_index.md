@@ -24,8 +24,9 @@ public class OpenOrderBuyMutualFund : AbstractOpenOrder
 
 | Name | Description |
 | --- | --- |
-| [BuyType](buytype) { get; set; } | Gets or sets the type of purchase. |
-| [UnitType](unittype) { get; set; } | Gets or sets what the units represent. |
+| [BuyType](../../aspose.finance.ofx.investment/openorderbuymutualfund/buytype) { get; set; } | Gets or sets the type of purchase. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
+| [UnitType](../../aspose.finance.ofx.investment/openorderbuymutualfund/unittype) { get; set; } | Gets or sets what the units represent. |
 
 ### See Also
 

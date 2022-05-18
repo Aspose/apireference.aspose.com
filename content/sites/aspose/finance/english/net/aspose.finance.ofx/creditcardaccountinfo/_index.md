@@ -24,12 +24,12 @@ public class CreditCardAccountInfo : AbstractAccountInfo
 
 | Name | Description |
 | --- | --- |
-| [AccountClassification](accountclassification) { get; set; } | Gets or sets the account classification. |
-| [CreditCardAccountFrom](creditcardaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../bankaccount). |
-| [ServiceStatus](servicestatus) { get; set; } | Gets or sets the status of the account. |
-| [SupportTransactionDetailDownload](supporttransactiondetaildownload) { get; set; } | If account supports transaction detail downloads, yes, if it is balance-only, no. |
-| [TransferDestination](transferdestination) { get; set; } | if account is enabled as a destination for an intrabank or interbank transfer, yes, otherwise, no. |
-| [TransferSource](transfersource) { get; set; } | If account is enabled as a source for an intrabank or interbank transfer, yes, otherwise, no. |
+| [AccountClassification](../../aspose.finance.ofx/creditcardaccountinfo/accountclassification) { get; set; } | Gets or sets the account classification. |
+| [CreditCardAccountFrom](../../aspose.finance.ofx/creditcardaccountinfo/creditcardaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../bankaccount). |
+| [ServiceStatus](../../aspose.finance.ofx/creditcardaccountinfo/servicestatus) { get; set; } | Gets or sets the status of the account. |
+| [SupportTransactionDetailDownload](../../aspose.finance.ofx/creditcardaccountinfo/supporttransactiondetaildownload) { get; set; } | If account supports transaction detail downloads, yes, if it is balance-only, no. |
+| [TransferDestination](../../aspose.finance.ofx/creditcardaccountinfo/transferdestination) { get; set; } | if account is enabled as a destination for an intrabank or interbank transfer, yes, otherwise, no. |
+| [TransferSource](../../aspose.finance.ofx/creditcardaccountinfo/transfersource) { get; set; } | If account is enabled as a source for an intrabank or interbank transfer, yes, otherwise, no. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class IntraRequest : AbstractIntraRequest
 
 | Name | Description |
 | --- | --- |
-| [TransferInfo](transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
+| [TransferInfo](../../aspose.finance.ofx.bank/intrarequest/transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
 
 ### See Also
 

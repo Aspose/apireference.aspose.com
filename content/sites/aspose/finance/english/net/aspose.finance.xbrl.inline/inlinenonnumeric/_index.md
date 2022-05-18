@@ -3,7 +3,7 @@ title: InlineNonnumeric
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7700
+weight: 7710
 url: /net/aspose.finance.xbrl.inline/inlinenonnumeric/
 ---
 ## InlineNonnumeric class
@@ -18,16 +18,19 @@ public class InlineNonnumeric : InlineFact
 
 | Name | Description |
 | --- | --- |
-| [ContextRef](contextref) { get; set; } | Gets or sets the reference to the [`Context`](../../aspose.finance.xbrl/context) of the [`InlineNonnumeric`](../inlinenonnumeric). |
-| [ContinuedAt](continuedat) { get; set; } | Gets or sets the continuation reference id of the [`InlineNonnumeric`](../inlinenonnumeric). |
-| [Escape](escape) { get; set; } | Gets or sets whether it is escaped. |
-| [Format](format) { get; set; } | Gets or sets the format of the [`InlineNonnumeric`](../inlinenonnumeric). |
-| [Order](order) { get; set; } | Gets or sets the order of the [`InlineNonnumeric`](../inlinenonnumeric). |
-| [SchemaConcept](schemaconcept) { get; } | Gets the concept of the [`InlineNonnumeric`](../inlinenonnumeric). |
-| [SchemaElement](schemaelement) { get; } | Gets the concept of the [`InlineNonnumeric`](../inlinenonnumeric). |
-| [TargetId](targetid) { get; set; } | Gets or sets the target id of the [`InlineNonnumeric`](../inlinenonnumeric). |
-| [TupleRefId](tuplerefid) { get; set; } | Gets or sets the tuple reference id of the [`InlineNonnumeric`](../inlinenonnumeric). |
-| [Value](value) { get; set; } | Gets or sets the value of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [ContextRef](../../aspose.finance.xbrl.inline/inlinenonnumeric/contextref) { get; set; } | Gets or sets the reference to the [`Context`](../../aspose.finance.xbrl/context) of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinenonnumeric/continuedat) { get; set; } | Gets or sets the continuation reference id of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [Escape](../../aspose.finance.xbrl.inline/inlinenonnumeric/escape) { get; set; } | Gets or sets whether it is escaped. |
+| [Format](../../aspose.finance.xbrl.inline/inlinenonnumeric/format) { get; set; } | Gets or sets the format of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | Gets or sets whether this fact is hidden. |
+| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | Gets or sets the id of the inline fact. |
+| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | Gets or sets the qualified name of the inline fact. |
+| [Order](../../aspose.finance.xbrl.inline/inlinenonnumeric/order) { get; set; } | Gets or sets the order of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinenonnumeric/schemaconcept) { get; } | Gets the concept of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [SchemaElement](../../aspose.finance.xbrl.inline/inlinenonnumeric/schemaelement) { get; } | Gets the concept of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinenonnumeric/targetid) { get; set; } | Gets or sets the target id of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinenonnumeric/tuplerefid) { get; set; } | Gets or sets the tuple reference id of the [`InlineNonnumeric`](../inlinenonnumeric). |
+| [Value](../../aspose.finance.xbrl.inline/inlinenonnumeric/value) { get; set; } | Gets or sets the value of the [`InlineNonnumeric`](../inlinenonnumeric). |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ValidationErrorCode
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8130
+weight: 8150
 url: /net/aspose.finance.xbrl.validator/validationerrorcode/
 ---
 ## ValidationErrorCode enumeration

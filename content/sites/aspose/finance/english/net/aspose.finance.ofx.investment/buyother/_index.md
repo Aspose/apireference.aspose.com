@@ -20,6 +20,12 @@ public class BuyOther : AbstractInvestmentBuyTransaction
 | --- | --- |
 | [BuyOther](buyother)() | Initializes a new instance of [`BuyOther`](../buyother) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Gets or sets the [`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
+
 ### See Also
 
 * class [AbstractInvestmentBuyTransaction](../abstractinvestmentbuytransaction)

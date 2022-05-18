@@ -24,18 +24,18 @@ public class TransferProfile
 
 | Name | Description |
 | --- | --- |
-| [CanLoan](canloan) { get; set; } | Gets or sets whether supports loan transfers. |
-| [CanModificationModels](canmodificationmodels) { get; set; } | Gets or sets whether permit modifications to models. |
-| [CanModificationTransfers](canmodificationtransfers) { get; set; } | Gets or sets whether permit modifications to transfers. |
-| [CanRecurring](canrecurring) { get; set; } | Gets or sets whether supports recurring transfers. |
-| [CanRecurringLoan](canrecurringloan) { get; set; } | Gets or sets whether supports recurring transfers of loans. |
-| [CanScheduled](canscheduled) { get; set; } | Gets or sets whether Supports scheduled transfers. |
-| [CanScheduledLoan](canscheduledloan) { get; set; } | Gets or sets whether supports scheduled transfers of loans. |
-| [DaysWith](dayswith) { get; set; } | Gets or sets the number of days before processing date that funds are withdrawn, |
-| [DefaultDaysToPay](defaultdaystopay) { get; set; } | Gets or sets the default number of days to pay. |
-| [ModelWindow](modelwindow) { get; set; } | Gets or sets the model window, the number of days before a recurring transaction is scheduled to be processed that it is instantiated on the system |
-| [ProcessingDaysOffs](processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
-| [ProcessingEndTime](processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
+| [CanLoan](../../aspose.finance.ofx.profile/transferprofile/canloan) { get; set; } | Gets or sets whether supports loan transfers. |
+| [CanModificationModels](../../aspose.finance.ofx.profile/transferprofile/canmodificationmodels) { get; set; } | Gets or sets whether permit modifications to models. |
+| [CanModificationTransfers](../../aspose.finance.ofx.profile/transferprofile/canmodificationtransfers) { get; set; } | Gets or sets whether permit modifications to transfers. |
+| [CanRecurring](../../aspose.finance.ofx.profile/transferprofile/canrecurring) { get; set; } | Gets or sets whether supports recurring transfers. |
+| [CanRecurringLoan](../../aspose.finance.ofx.profile/transferprofile/canrecurringloan) { get; set; } | Gets or sets whether supports recurring transfers of loans. |
+| [CanScheduled](../../aspose.finance.ofx.profile/transferprofile/canscheduled) { get; set; } | Gets or sets whether Supports scheduled transfers. |
+| [CanScheduledLoan](../../aspose.finance.ofx.profile/transferprofile/canscheduledloan) { get; set; } | Gets or sets whether supports scheduled transfers of loans. |
+| [DaysWith](../../aspose.finance.ofx.profile/transferprofile/dayswith) { get; set; } | Gets or sets the number of days before processing date that funds are withdrawn, |
+| [DefaultDaysToPay](../../aspose.finance.ofx.profile/transferprofile/defaultdaystopay) { get; set; } | Gets or sets the default number of days to pay. |
+| [ModelWindow](../../aspose.finance.ofx.profile/transferprofile/modelwindow) { get; set; } | Gets or sets the model window, the number of days before a recurring transaction is scheduled to be processed that it is instantiated on the system |
+| [ProcessingDaysOffs](../../aspose.finance.ofx.profile/transferprofile/processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
+| [ProcessingEndTime](../../aspose.finance.ofx.profile/transferprofile/processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
 
 ### See Also
 

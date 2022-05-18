@@ -24,7 +24,7 @@ public class InvestmentOpenOrderList
 
 | Name | Description |
 | --- | --- |
-| [OpenOrders](openorders) { get; set; } | Gets or sets the collection of [`OpenOrderBuyDebt`](../openorderbuydebt) or [`OpenOrderBuyMutualFund`](../openorderbuymutualfund) or [`OpenOrderBuyOption`](../openorderbuyoption) or [`OpenOrderBuyOther`](../openorderbuyother) or [`OpenOrderBuyStock`](../openorderbuystock) or [`OpenOrderSellDebt`](../openorderselldebt) or [`OpenOrderSellMutualFund`](../openordersellmutualfund) or [`OpenOrderSellOption`](../openorderselloption) or [`OpenOrderSellOther`](../openordersellother) or [`OpenOrderSellStock`](../openordersellstock) or [`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund). |
+| [OpenOrders](../../aspose.finance.ofx.investment/investmentopenorderlist/openorders) { get; set; } | Gets or sets the collection of [`OpenOrderBuyDebt`](../openorderbuydebt) or [`OpenOrderBuyMutualFund`](../openorderbuymutualfund) or [`OpenOrderBuyOption`](../openorderbuyoption) or [`OpenOrderBuyOther`](../openorderbuyother) or [`OpenOrderBuyStock`](../openorderbuystock) or [`OpenOrderSellDebt`](../openorderselldebt) or [`OpenOrderSellMutualFund`](../openordersellmutualfund) or [`OpenOrderSellOption`](../openorderselloption) or [`OpenOrderSellOther`](../openordersellother) or [`OpenOrderSellStock`](../openordersellstock) or [`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund). |
 
 ### See Also
 

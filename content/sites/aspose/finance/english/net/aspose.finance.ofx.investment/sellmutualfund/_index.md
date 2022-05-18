@@ -24,9 +24,10 @@ public class SellMutualFund : AbstractInvestmentSellTransaction
 
 | Name | Description |
 | --- | --- |
-| [AverageCostBasis](averagecostbasis) { get; set; } | Gets or sets the average cost basis. |
-| [RelateFITransactionID](relatefitransactionid) { get; set; } | Gets or sets the ID of related trade. |
-| [SellType](selltype) { get; set; } | Gets or sets the sell type. |
+| [AverageCostBasis](../../aspose.finance.ofx.investment/sellmutualfund/averagecostbasis) { get; set; } | Gets or sets the average cost basis. |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Gets or sets the [`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [RelateFITransactionID](../../aspose.finance.ofx.investment/sellmutualfund/relatefitransactionid) { get; set; } | Gets or sets the ID of related trade. |
+| [SellType](../../aspose.finance.ofx.investment/sellmutualfund/selltype) { get; set; } | Gets or sets the sell type. |
 
 ### See Also
 

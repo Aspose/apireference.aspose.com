@@ -24,8 +24,8 @@ public class PinChangeResponse
 
 | Name | Description |
 | --- | --- |
-| [ChangedDate](changeddate) { get; set; } | Gets or sets the date and time the password was changed. |
-| [UserId](userid) { get; set; } | Gets or sets the user identification string. |
+| [ChangedDate](../../aspose.finance.ofx.signon/pinchangeresponse/changeddate) { get; set; } | Gets or sets the date and time the password was changed. |
+| [UserId](../../aspose.finance.ofx.signon/pinchangeresponse/userid) { get; set; } | Gets or sets the user identification string. |
 
 ### See Also
 

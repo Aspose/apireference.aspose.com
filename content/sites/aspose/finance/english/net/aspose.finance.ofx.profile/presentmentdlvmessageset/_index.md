@@ -24,7 +24,7 @@ public class PresentmentDlvMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [PresentmentDlvMessageSetV1s](presentmentdlvmessagesetv1s) { get; set; } | Gets or sets the collection of [`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1). |
+| [PresentmentDlvMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessagesetv1s) { get; set; } | Gets or sets the collection of [`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1). |
 
 ### See Also
 

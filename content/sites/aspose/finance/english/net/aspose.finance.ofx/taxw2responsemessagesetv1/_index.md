@@ -24,7 +24,7 @@ public class TaxW2ResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [TaxW2TransactionResponses](taxw2transactionresponses) { get; set; } | Gets or sets the collection of [`TaxW2TransactionResponse`](../../aspose.finance.ofx.taxw2/taxw2transactionresponse). |
+| [TaxW2TransactionResponses](../../aspose.finance.ofx/taxw2responsemessagesetv1/taxw2transactionresponses) { get; set; } | Gets or sets the collection of [`TaxW2TransactionResponse`](../../aspose.finance.ofx.taxw2/taxw2transactionresponse). |
 
 ### See Also
 

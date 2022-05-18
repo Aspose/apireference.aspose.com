@@ -3,7 +3,7 @@ title: XbrlDocument
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.finance.xbrl/xbrlinstance/xbrldocument/
 ---
 ## XbrlInstance.XbrlDocument property

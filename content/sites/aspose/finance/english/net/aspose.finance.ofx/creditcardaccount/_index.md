@@ -24,8 +24,8 @@ public class CreditCardAccount : AbstractAccount
 
 | Name | Description |
 | --- | --- |
-| [AccountId](accountid) { get; set; } | Gets or sets the account identifier. |
-| [AccountKey](accountkey) { get; set; } | Gets or sets the checksum for international banks. |
+| [AccountId](../../aspose.finance.ofx/creditcardaccount/accountid) { get; set; } | Gets or sets the account identifier. |
+| [AccountKey](../../aspose.finance.ofx/creditcardaccount/accountkey) { get; set; } | Gets or sets the checksum for international banks. |
 
 ### See Also
 

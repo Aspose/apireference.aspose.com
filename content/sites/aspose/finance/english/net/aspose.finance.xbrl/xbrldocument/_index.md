@@ -3,7 +3,7 @@ title: XbrlDocument
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8140
+weight: 8160
 url: /net/aspose.finance.xbrl/xbrldocument/
 ---
 ## XbrlDocument class
@@ -25,15 +25,15 @@ public class XbrlDocument
 
 | Name | Description |
 | --- | --- |
-| [XbrlInstances](xbrlinstances) { get; } | Gets XBRL instance collection |
+| [XbrlInstances](../../aspose.finance.xbrl/xbrldocument/xbrlinstances) { get; } | Gets XBRL instance collection |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(string) | Creates and saves the XBRL file to the disk. |
-| [Save](save)(Stream, SaveOptions) | Save the XbrlDocument to the stream. |
-| [Save](save)(string, SaveOptions) | Save the XbrlDocument to the disk. |
+| [Save](../../aspose.finance.xbrl/xbrldocument/save)(string) | Creates and saves the XBRL file to the disk. |
+| [Save](../../aspose.finance.xbrl/xbrldocument/save)(Stream, SaveOptions) | Save the XbrlDocument to the stream. |
+| [Save](../../aspose.finance.xbrl/xbrldocument/save)(string, SaveOptions) | Save the XbrlDocument to the disk. |
 
 ### See Also
 

@@ -24,8 +24,9 @@ public class RecurringInterResponse : AbstractRecurringInterResponse
 
 | Name | Description |
 | --- | --- |
-| [InterResponse](interresponse) { get; set; } | Gets or sets the [`InterResponse`](./interresponse). |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [InterResponse](../../aspose.finance.ofx.intertransfer/recurringinterresponse/interresponse) { get; set; } | Gets or sets the [`InterResponse`](./interresponse). |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterresponse/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [RecurringServerId](../../aspose.finance.ofx.intertransfer/abstractrecurringinterresponse/recurringserverid) { get; set; } | Gets or sets the server-assigned ID for this model. |
 
 ### See Also
 

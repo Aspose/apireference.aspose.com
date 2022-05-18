@@ -24,8 +24,11 @@ public class LoanStatementEndTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [LoanStatementEndResponse](loanstatementendresponse) { get; set; } | Gets or sets the [`LoanStatementEndResponse`](./loanstatementendresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [LoanStatementEndResponse](../../aspose.finance.ofx.loan/loanstatementendtransactionresponse/loanstatementendresponse) { get; set; } | Gets or sets the [`LoanStatementEndResponse`](./loanstatementendresponse). |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementendtransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

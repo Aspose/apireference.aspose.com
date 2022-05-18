@@ -24,15 +24,15 @@ public class CreditLineInfoType
 
 | Name | Description |
 | --- | --- |
-| [AutoPay](autopay) { get; set; } | Gets or sets whether automatic payments are setup for this account. |
-| [CreditLimit](creditlimit) { get; set; } | Gets or sets the current credit limit. |
-| [InterestAmount](interestamount) { get; set; } | Gets or sets the amount of MinPaymentDue, if any, which reflects interest on a loan. Only returned if loan accounts were mapped to CREDITLINE account type during implementation. |
-| [LastPmtInfo](lastpmtinfo) { get; set; } | Gets or sets the [`LastPmtInfoType`](../lastpmtinfotype). |
-| [LateFeeAmount](latefeeamount) { get; set; } | Gets or sets the amount of MinPaymentDue, if any, which reflects late fees. |
-| [LoanDetail](loandetail) { get; set; } | Gets or sets the [`LoanDetailType`](../loandetailtype). |
-| [MinPaymentDue](minpaymentdue) { get; set; } | Gets or sets the minimum amount due. |
-| [PastDueAmount](pastdueamount) { get; set; } | Gets or sets the amount of MinPaymentDue, if any, which reflects a past due amount. |
-| [PaymentDueDate](paymentduedate) { get; set; } | Gets or sets the payment due date. |
+| [AutoPay](../../aspose.finance.ofx/creditlineinfotype/autopay) { get; set; } | Gets or sets whether automatic payments are setup for this account. |
+| [CreditLimit](../../aspose.finance.ofx/creditlineinfotype/creditlimit) { get; set; } | Gets or sets the current credit limit. |
+| [InterestAmount](../../aspose.finance.ofx/creditlineinfotype/interestamount) { get; set; } | Gets or sets the amount of MinPaymentDue, if any, which reflects interest on a loan. Only returned if loan accounts were mapped to CREDITLINE account type during implementation. |
+| [LastPmtInfo](../../aspose.finance.ofx/creditlineinfotype/lastpmtinfo) { get; set; } | Gets or sets the [`LastPmtInfoType`](../lastpmtinfotype). |
+| [LateFeeAmount](../../aspose.finance.ofx/creditlineinfotype/latefeeamount) { get; set; } | Gets or sets the amount of MinPaymentDue, if any, which reflects late fees. |
+| [LoanDetail](../../aspose.finance.ofx/creditlineinfotype/loandetail) { get; set; } | Gets or sets the [`LoanDetailType`](../loandetailtype). |
+| [MinPaymentDue](../../aspose.finance.ofx/creditlineinfotype/minpaymentdue) { get; set; } | Gets or sets the minimum amount due. |
+| [PastDueAmount](../../aspose.finance.ofx/creditlineinfotype/pastdueamount) { get; set; } | Gets or sets the amount of MinPaymentDue, if any, which reflects a past due amount. |
+| [PaymentDueDate](../../aspose.finance.ofx/creditlineinfotype/paymentduedate) { get; set; } | Gets or sets the payment due date. |
 
 ### See Also
 

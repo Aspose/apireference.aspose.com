@@ -24,8 +24,8 @@ public class VestInfo
 
 | Name | Description |
 | --- | --- |
-| [VestDate](vestdate) { get; set; } | Gets or sets the date at which vesting percentage changes. Default is that the vested percentage applies to the current date. |
-| [VestPercent](vestpercent) { get; set; } | Gets or sets the estimated vested percentage as of the corresponding date. |
+| [VestDate](../../aspose.finance.ofx.investment/vestinfo/vestdate) { get; set; } | Gets or sets the date at which vesting percentage changes. Default is that the vested percentage applies to the current date. |
+| [VestPercent](../../aspose.finance.ofx.investment/vestinfo/vestpercent) { get; set; } | Gets or sets the estimated vested percentage as of the corresponding date. |
 
 ### See Also
 

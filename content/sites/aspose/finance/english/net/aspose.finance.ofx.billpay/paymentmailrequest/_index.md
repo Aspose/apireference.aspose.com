@@ -24,9 +24,9 @@ public class PaymentMailRequest
 
 | Name | Description |
 | --- | --- |
-| [Mail](mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
-| [PaymentInfo](paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
-| [ServerId](serverid) { get; set; } | Gets or sets the transaction ID of the payment that is the subject of the correspondence. |
+| [Mail](../../aspose.finance.ofx.billpay/paymentmailrequest/mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmailrequest/paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
+| [ServerId](../../aspose.finance.ofx.billpay/paymentmailrequest/serverid) { get; set; } | Gets or sets the transaction ID of the payment that is the subject of the correspondence. |
 
 ### See Also
 

@@ -24,11 +24,15 @@ public class LoanMailSyncRequest : AbstractSyncRequest
 
 | Name | Description |
 | --- | --- |
-| [IncludeImages](includeimages) { get; set; } | Yes if the client accepts mail with images in the message body. No if the client does not accept mail with images in the message body. |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [LoanMailTransactionRequests](loanmailtransactionrequests) { get; set; } | Gets or sets the collection of [`LoanMailTransactionRequest`](../loanmailtransactionrequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [UseHtml](usehtml) { get; set; } | Yes if client wants an HTML response, No if client wants plain text. |
+| [IncludeImages](../../aspose.finance.ofx.loan/loanmailsyncrequest/includeimages) { get; set; } | Yes if the client accepts mail with images in the message body. No if the client does not accept mail with images in the message body. |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [LoanMailTransactionRequests](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanmailtransactionrequests) { get; set; } | Gets or sets the collection of [`LoanMailTransactionRequest`](../loanmailtransactionrequest). |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
+| [UseHtml](../../aspose.finance.ofx.loan/loanmailsyncrequest/usehtml) { get; set; } | Yes if client wants an HTML response, No if client wants plain text. |
 
 ### See Also
 

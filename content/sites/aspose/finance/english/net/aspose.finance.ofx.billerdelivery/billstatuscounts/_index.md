@@ -24,8 +24,8 @@ public class BillStatusCounts
 
 | Name | Description |
 | --- | --- |
-| [BillStatusCode](billstatuscode) { get; set; } | Gets or sets the bill status code. |
-| [Count](count) { get; set; } | Gets or sets the count of bills with the given bill status code. |
+| [BillStatusCode](../../aspose.finance.ofx.billerdelivery/billstatuscounts/billstatuscode) { get; set; } | Gets or sets the bill status code. |
+| [Count](../../aspose.finance.ofx.billerdelivery/billstatuscounts/count) { get; set; } | Gets or sets the count of bills with the given bill status code. |
 
 ### See Also
 

@@ -24,11 +24,11 @@ public class LoanRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [AmortizationTransactionRequests](amortizationtransactionrequests) { get; set; } | Gets or sets the collection of [`AmortizationTransactionRequest`](../../aspose.finance.ofx.loan/amortizationtransactionrequest). |
-| [LoanMailSyncRequests](loanmailsyncrequests) { get; set; } | Gets or sets the collection of [`LoanMailSyncRequest`](../../aspose.finance.ofx.loan/loanmailsyncrequest). |
-| [LoanMailTransactionRequests](loanmailtransactionrequests) { get; set; } | Gets or sets the collection of [`LoanMailTransactionRequest`](../../aspose.finance.ofx.loan/loanmailtransactionrequest). |
-| [LoanStatementEndTransactionRequests](loanstatementendtransactionrequests) { get; set; } | Gets or sets the collection of [`LoanStatementEndTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest). |
-| [LoanStatementTransactionRequests](loanstatementtransactionrequests) { get; set; } | Gets or sets the collection of [`LoanStatementTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementtransactionrequest). |
+| [AmortizationTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/amortizationtransactionrequests) { get; set; } | Gets or sets the collection of [`AmortizationTransactionRequest`](../../aspose.finance.ofx.loan/amortizationtransactionrequest). |
+| [LoanMailSyncRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailsyncrequests) { get; set; } | Gets or sets the collection of [`LoanMailSyncRequest`](../../aspose.finance.ofx.loan/loanmailsyncrequest). |
+| [LoanMailTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailtransactionrequests) { get; set; } | Gets or sets the collection of [`LoanMailTransactionRequest`](../../aspose.finance.ofx.loan/loanmailtransactionrequest). |
+| [LoanStatementEndTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementendtransactionrequests) { get; set; } | Gets or sets the collection of [`LoanStatementEndTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest). |
+| [LoanStatementTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementtransactionrequests) { get; set; } | Gets or sets the collection of [`LoanStatementTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementtransactionrequest). |
 
 ### See Also
 

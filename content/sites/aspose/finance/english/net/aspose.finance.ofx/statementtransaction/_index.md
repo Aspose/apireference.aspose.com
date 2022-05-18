@@ -24,28 +24,28 @@ public class StatementTransaction
 
 | Name | Description |
 | --- | --- |
-| [AccountTo](accountto) { get; set; } | Gets or sets the to account, [`BankAccount`](../bankaccount) or [`CreditCardAccount`](../creditcardaccount). |
-| [AvailableDate](availabledate) { get; set; } | Gets or sets the date funds are available (value date). |
-| [CheckNumber](checknumber) { get; set; } | Gets or sets the check number. |
-| [CorrectFinancialInstitutionTransactionId](correctfinancialinstitutiontransactionid) { get; set; } | Gets or sets the corrected transaction ID. If present, the FinancialInstitutionTransactionId of a previously sent transaction that is corrected by this record. |
-| [CorrectiveAction](correctiveaction) { get; set; } | Gets or sets the corrective action. |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [ExtendedName](extendedname) { get; set; } | Gets or sets the extended name of payee or description of transaction. |
-| [FinancialInstitutionTransactionId](financialinstitutiontransactionid) { get; set; } | Gets or sets the transaction ID issued by financial institution. |
-| [ImageDatas](imagedatas) { get; set; } | Gets or sets the collection of [`ImageData`](../imagedata). |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of cash for this transaction. |
-| [Memo](memo) { get; set; } | Gets or sets the extra information. |
-| [Name](name) { get; set; } | Gets or sets the name of payee or description of transaction. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
-| [Payee](payee) { get; set; } | Gets or sets the [`Payee`](./payee). |
-| [PayeeId](payeeid) { get; set; } | Gets or sets the payee identifier if available. |
-| [PostedDate](posteddate) { get; set; } | Gets or sets the date transaction was posted to account. |
-| [ReferenceNumber](referencenumber) { get; set; } | Gets or sets the reference number that uniquely identifies the transaction. |
-| [ServerTransactionId](servertransactionid) { get; set; } | Gets or sets the server assigned transaction ID. |
-| [StandardIndustrialCode](standardindustrialcode) { get; set; } | Gets or sets the Standard Industrial Code. |
-| [TransactionAmount](transactionamount) { get; set; } | Gets or sets the amount of transaction. |
-| [TransactionType](transactiontype) { get; set; } | Gets or sets the transaction type. |
-| [UserDate](userdate) { get; set; } | Gets or sets the date user initiated transaction, if known. |
+| [AccountTo](../../aspose.finance.ofx/statementtransaction/accountto) { get; set; } | Gets or sets the to account, [`BankAccount`](../bankaccount) or [`CreditCardAccount`](../creditcardaccount). |
+| [AvailableDate](../../aspose.finance.ofx/statementtransaction/availabledate) { get; set; } | Gets or sets the date funds are available (value date). |
+| [CheckNumber](../../aspose.finance.ofx/statementtransaction/checknumber) { get; set; } | Gets or sets the check number. |
+| [CorrectFinancialInstitutionTransactionId](../../aspose.finance.ofx/statementtransaction/correctfinancialinstitutiontransactionid) { get; set; } | Gets or sets the corrected transaction ID. If present, the FinancialInstitutionTransactionId of a previously sent transaction that is corrected by this record. |
+| [CorrectiveAction](../../aspose.finance.ofx/statementtransaction/correctiveaction) { get; set; } | Gets or sets the corrective action. |
+| [Currency](../../aspose.finance.ofx/statementtransaction/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [ExtendedName](../../aspose.finance.ofx/statementtransaction/extendedname) { get; set; } | Gets or sets the extended name of payee or description of transaction. |
+| [FinancialInstitutionTransactionId](../../aspose.finance.ofx/statementtransaction/financialinstitutiontransactionid) { get; set; } | Gets or sets the transaction ID issued by financial institution. |
+| [ImageDatas](../../aspose.finance.ofx/statementtransaction/imagedatas) { get; set; } | Gets or sets the collection of [`ImageData`](../imagedata). |
+| [Investment401kSource](../../aspose.finance.ofx/statementtransaction/investment401ksource) { get; set; } | Gets or sets the source of cash for this transaction. |
+| [Memo](../../aspose.finance.ofx/statementtransaction/memo) { get; set; } | Gets or sets the extra information. |
+| [Name](../../aspose.finance.ofx/statementtransaction/name) { get; set; } | Gets or sets the name of payee or description of transaction. |
+| [OriginCurrency](../../aspose.finance.ofx/statementtransaction/origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
+| [Payee](../../aspose.finance.ofx/statementtransaction/payee) { get; set; } | Gets or sets the [`Payee`](./payee). |
+| [PayeeId](../../aspose.finance.ofx/statementtransaction/payeeid) { get; set; } | Gets or sets the payee identifier if available. |
+| [PostedDate](../../aspose.finance.ofx/statementtransaction/posteddate) { get; set; } | Gets or sets the date transaction was posted to account. |
+| [ReferenceNumber](../../aspose.finance.ofx/statementtransaction/referencenumber) { get; set; } | Gets or sets the reference number that uniquely identifies the transaction. |
+| [ServerTransactionId](../../aspose.finance.ofx/statementtransaction/servertransactionid) { get; set; } | Gets or sets the server assigned transaction ID. |
+| [StandardIndustrialCode](../../aspose.finance.ofx/statementtransaction/standardindustrialcode) { get; set; } | Gets or sets the Standard Industrial Code. |
+| [TransactionAmount](../../aspose.finance.ofx/statementtransaction/transactionamount) { get; set; } | Gets or sets the amount of transaction. |
+| [TransactionType](../../aspose.finance.ofx/statementtransaction/transactiontype) { get; set; } | Gets or sets the transaction type. |
+| [UserDate](../../aspose.finance.ofx/statementtransaction/userdate) { get; set; } | Gets or sets the date user initiated transaction, if known. |
 
 ### See Also
 

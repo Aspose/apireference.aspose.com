@@ -24,8 +24,8 @@ public class LedgerBalance
 
 | Name | Description |
 | --- | --- |
-| [BalanceAmount](balanceamount) { get; set; } | Gets or sets the ledger balance amount. |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the balance date. |
+| [BalanceAmount](../../aspose.finance.ofx/ledgerbalance/balanceamount) { get; set; } | Gets or sets the ledger balance amount. |
+| [DateAsOf](../../aspose.finance.ofx/ledgerbalance/dateasof) { get; set; } | Gets or sets the balance date. |
 
 ### See Also
 

@@ -24,9 +24,10 @@ public class Tax1099MessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [Extended1099B](extended1099b) { get; set; } | Gets or sets whether server supports the extended 1099B form by providing Schedule D proceeds detail information for security sales. |
-| [Tax1099Download](tax1099download) { get; set; } | Gets or sets whether server supports 1099 tax form download. |
-| [TaxYearSupporteds](taxyearsupporteds) { get; set; } | Gets or sets years supported for 1099 download for this server. |
+| [Extended1099B](../../aspose.finance.ofx.profile/tax1099messagesetv1/extended1099b) { get; set; } | Gets or sets whether server supports the extended 1099B form by providing Schedule D proceeds detail information for security sales. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [Tax1099Download](../../aspose.finance.ofx.profile/tax1099messagesetv1/tax1099download) { get; set; } | Gets or sets whether server supports 1099 tax form download. |
+| [TaxYearSupporteds](../../aspose.finance.ofx.profile/tax1099messagesetv1/taxyearsupporteds) { get; set; } | Gets or sets years supported for 1099 download for this server. |
 
 ### See Also
 

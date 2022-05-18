@@ -24,7 +24,7 @@ public class ExtendedPaymentInvoice
 
 | Name | Description |
 | --- | --- |
-| [Invoices](invoices) { get; set; } | Gets or sets the collection of [`Invoice`](../../aspose.finance.ofx/invoice). |
+| [Invoices](../../aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices) { get; set; } | Gets or sets the collection of [`Invoice`](../../aspose.finance.ofx/invoice). |
 
 ### See Also
 

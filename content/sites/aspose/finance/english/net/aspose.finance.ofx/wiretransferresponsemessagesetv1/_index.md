@@ -24,8 +24,8 @@ public class WireTransferResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [WireSyncResponses](wiresyncresponses) { get; set; } | Gets or sets the collection of [`WireSyncResponse`](../../aspose.finance.ofx.wiretransfer/wiresyncresponse). |
-| [WireTransactionResponses](wiretransactionresponses) { get; set; } | Gets or sets the collection of [`WireTransactionResponse`](../../aspose.finance.ofx.wiretransfer/wiretransactionresponse). |
+| [WireSyncResponses](../../aspose.finance.ofx/wiretransferresponsemessagesetv1/wiresyncresponses) { get; set; } | Gets or sets the collection of [`WireSyncResponse`](../../aspose.finance.ofx.wiretransfer/wiresyncresponse). |
+| [WireTransactionResponses](../../aspose.finance.ofx/wiretransferresponsemessagesetv1/wiretransactionresponses) { get; set; } | Gets or sets the collection of [`WireTransactionResponse`](../../aspose.finance.ofx.wiretransfer/wiretransactionresponse). |
 
 ### See Also
 

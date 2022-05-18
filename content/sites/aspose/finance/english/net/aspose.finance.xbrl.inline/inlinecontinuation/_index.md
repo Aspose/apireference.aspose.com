@@ -3,7 +3,7 @@ title: InlineContinuation
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7650
+weight: 7660
 url: /net/aspose.finance.xbrl.inline/inlinecontinuation/
 ---
 ## InlineContinuation class
@@ -18,9 +18,9 @@ public class InlineContinuation
 
 | Name | Description |
 | --- | --- |
-| [ContinuedAt](continuedat) { get; set; } | Gets or sets the continuation reference id of the [`InlineContinuation`](../inlinecontinuation). |
-| [Id](id) { get; set; } | Gets or sets the id of the [`InlineContinuation`](../inlinecontinuation). |
-| [Value](value) { get; set; } | Gets or sets the value of the [`InlineContinuation`](../inlinecontinuation). |
+| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinecontinuation/continuedat) { get; set; } | Gets or sets the continuation reference id of the [`InlineContinuation`](../inlinecontinuation). |
+| [Id](../../aspose.finance.xbrl.inline/inlinecontinuation/id) { get; set; } | Gets or sets the id of the [`InlineContinuation`](../inlinecontinuation). |
+| [Value](../../aspose.finance.xbrl.inline/inlinecontinuation/value) { get; set; } | Gets or sets the value of the [`InlineContinuation`](../inlinecontinuation). |
 
 ### See Also
 

@@ -24,17 +24,18 @@ public class Split : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [Denominator](denominator) { get; set; } | Gets or sets the split ratio denominator for stock splits. |
-| [FractionalCash](fractionalcash) { get; set; } | Gets or sets the cash for fractional units. |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
-| [NewUnits](newunits) { get; set; } | Gets or sets the number of shares after the split for stock splits. |
-| [Numerator](numerator) { get; set; } | Gets or sets the split ratio numerator for stock splits. |
-| [OldUnits](oldunits) { get; set; } | Gets or sets the number of shares before the split for stock splits. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SubAccountFund](subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
-| [SubAccountSecurity](subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
+| [Currency](../../aspose.finance.ofx.investment/split/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [Denominator](../../aspose.finance.ofx.investment/split/denominator) { get; set; } | Gets or sets the split ratio denominator for stock splits. |
+| [FractionalCash](../../aspose.finance.ofx.investment/split/fractionalcash) { get; set; } | Gets or sets the cash for fractional units. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/split/investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [NewUnits](../../aspose.finance.ofx.investment/split/newunits) { get; set; } | Gets or sets the number of shares after the split for stock splits. |
+| [Numerator](../../aspose.finance.ofx.investment/split/numerator) { get; set; } | Gets or sets the split ratio numerator for stock splits. |
+| [OldUnits](../../aspose.finance.ofx.investment/split/oldunits) { get; set; } | Gets or sets the number of shares before the split for stock splits. |
+| [OriginCurrency](../../aspose.finance.ofx.investment/split/origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
+| [SecurityId](../../aspose.finance.ofx.investment/split/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SubAccountFund](../../aspose.finance.ofx.investment/split/subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/split/subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
 
 ### See Also
 

@@ -24,14 +24,14 @@ public class Earnings
 
 | Name | Description |
 | --- | --- |
-| [AfterTax](aftertax) { get; set; } | Gets or sets the after tax earnings |
-| [Match](match) { get; set; } | Gets or sets the employer matching earnings. |
-| [OtherNonvest](othernonvest) { get; set; } | Gets or sets the other non-vesting earnings. |
-| [OtherVest](othervest) { get; set; } | Gets or sets the other vesting earnings. |
-| [PreTax](pretax) { get; set; } | Gets or sets the pretax earnings. |
-| [ProfitSharing](profitsharing) { get; set; } | Gets or sets the profit sharing earnings. |
-| [Rollover](rollover) { get; set; } | Gets or sets the rollover earnings. |
-| [Total](total) { get; set; } | Gets or sets the sum of earnings from all fund sources. |
+| [AfterTax](../../aspose.finance.ofx.investment/earnings/aftertax) { get; set; } | Gets or sets the after tax earnings |
+| [Match](../../aspose.finance.ofx.investment/earnings/match) { get; set; } | Gets or sets the employer matching earnings. |
+| [OtherNonvest](../../aspose.finance.ofx.investment/earnings/othernonvest) { get; set; } | Gets or sets the other non-vesting earnings. |
+| [OtherVest](../../aspose.finance.ofx.investment/earnings/othervest) { get; set; } | Gets or sets the other vesting earnings. |
+| [PreTax](../../aspose.finance.ofx.investment/earnings/pretax) { get; set; } | Gets or sets the pretax earnings. |
+| [ProfitSharing](../../aspose.finance.ofx.investment/earnings/profitsharing) { get; set; } | Gets or sets the profit sharing earnings. |
+| [Rollover](../../aspose.finance.ofx.investment/earnings/rollover) { get; set; } | Gets or sets the rollover earnings. |
+| [Total](../../aspose.finance.ofx.investment/earnings/total) { get; set; } | Gets or sets the sum of earnings from all fund sources. |
 
 ### See Also
 

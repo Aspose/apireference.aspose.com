@@ -24,12 +24,12 @@ public class InvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [FITransactionId](fitransactionid) { get; set; } | Gets or sets the unique FI-assigned transaction ID |
-| [Memo](memo) { get; set; } | Gets or sets the other information about transaction. |
-| [ReversalFITransactionId](reversalfitransactionid) { get; set; } | Gets or sets the reversal transaction id. |
-| [ServerId](serverid) { get; set; } | Gets or sets the server assigned transaction ID. |
-| [SettleDate](settledate) { get; set; } | Gets or sets the settlement date; for stock splits, execution date. |
-| [TradeDate](tradedate) { get; set; } | Gets or sets the trade date, for stock splits, day of record. |
+| [FITransactionId](../../aspose.finance.ofx.investment/investmenttransaction/fitransactionid) { get; set; } | Gets or sets the unique FI-assigned transaction ID |
+| [Memo](../../aspose.finance.ofx.investment/investmenttransaction/memo) { get; set; } | Gets or sets the other information about transaction. |
+| [ReversalFITransactionId](../../aspose.finance.ofx.investment/investmenttransaction/reversalfitransactionid) { get; set; } | Gets or sets the reversal transaction id. |
+| [ServerId](../../aspose.finance.ofx.investment/investmenttransaction/serverid) { get; set; } | Gets or sets the server assigned transaction ID. |
+| [SettleDate](../../aspose.finance.ofx.investment/investmenttransaction/settledate) { get; set; } | Gets or sets the settlement date; for stock splits, execution date. |
+| [TradeDate](../../aspose.finance.ofx.investment/investmenttransaction/tradedate) { get; set; } | Gets or sets the trade date, for stock splits, day of record. |
 
 ### See Also
 

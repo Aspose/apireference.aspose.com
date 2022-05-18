@@ -20,6 +20,12 @@ public class CharType : AbstractStringType
 | --- | --- |
 | [CharType](chartype)() | Initializes a new instance of [`CharType`](../chartype) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Value](../../aspose.finance.ofx/abstractstringtype/value) { get; set; } | Gets or sets the string value. |
+
 ### See Also
 
 * class [AbstractStringType](../abstractstringtype)

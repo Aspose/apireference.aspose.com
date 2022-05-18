@@ -24,9 +24,9 @@ public class LoanStatementEndResponse
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the default currency used for closing information. |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [LoanClosings](loanclosings) { get; set; } | Gets or sets the collection of [`LoanClosing`](../loanclosing). |
+| [Currency](../../aspose.finance.ofx.loan/loanstatementendresponse/currency) { get; set; } | Gets or sets the default currency used for closing information. |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementendresponse/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [LoanClosings](../../aspose.finance.ofx.loan/loanstatementendresponse/loanclosings) { get; set; } | Gets or sets the collection of [`LoanClosing`](../loanclosing). |
 
 ### See Also
 

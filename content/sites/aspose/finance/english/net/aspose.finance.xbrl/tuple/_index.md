@@ -3,7 +3,7 @@ title: Tuple
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8030
+weight: 8050
 url: /net/aspose.finance.xbrl/tuple/
 ---
 ## Tuple class
@@ -24,7 +24,9 @@ public class Tuple : Fact
 
 | Name | Description |
 | --- | --- |
-| [Facts](facts) { get; } | Gets the collection of [`Fact`](../fact) objects in the tuple. |
+| [Facts](../../aspose.finance.xbrl/tuple/facts) { get; } | Gets the collection of [`Fact`](../fact) objects in the tuple. |
+| [Id](../../aspose.finance.xbrl/fact/id) { get; set; } | Gets or sets the id of the fact. |
+| [Name](../../aspose.finance.xbrl/fact/name) { get; set; } | Gets or sets the qualified name of the fact. |
 
 ### See Also
 

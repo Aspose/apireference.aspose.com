@@ -24,10 +24,10 @@ public class CreditCardStatementEndRequest
 
 | Name | Description |
 | --- | --- |
-| [CreditCardAccountFrom](creditcardaccountfrom) { get; set; } | Gets or sets the from of [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date of statement closing information. |
-| [IncludeStatementImage](includestatementimage) { get; set; } | Gets or sets whether include data for closing statement images. |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for statement closing information. |
+| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/creditcardaccountfrom) { get; set; } | Gets or sets the from of [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
+| [EndDate](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/enddate) { get; set; } | Gets or sets the end date of statement closing information. |
+| [IncludeStatementImage](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/includestatementimage) { get; set; } | Gets or sets whether include data for closing statement images. |
+| [StartDate](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/startdate) { get; set; } | Gets or sets the start date for statement closing information. |
 
 ### See Also
 

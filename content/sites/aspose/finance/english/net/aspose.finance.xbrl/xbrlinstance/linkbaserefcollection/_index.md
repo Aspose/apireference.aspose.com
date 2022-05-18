@@ -3,7 +3,7 @@ title: LinkbaseRefCollection
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.finance.xbrl/xbrlinstance/linkbaserefcollection/
 ---
 ## XbrlInstance.LinkbaseRefCollection property

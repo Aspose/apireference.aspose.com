@@ -24,10 +24,10 @@ public class Discount
 
 | Name | Description |
 | --- | --- |
-| [DiscountAmount](discountamount) { get; set; } | Gets or sets the discount amount. |
-| [DiscountDate](discountdate) { get; set; } | Gets or sets the date to apply the discount |
-| [DiscountDescription](discountdescription) { get; set; } | Gets or sets the discount description. |
-| [DiscountRate](discountrate) { get; set; } | Gets or sets the discount rate. |
+| [DiscountAmount](../../aspose.finance.ofx/discount/discountamount) { get; set; } | Gets or sets the discount amount. |
+| [DiscountDate](../../aspose.finance.ofx/discount/discountdate) { get; set; } | Gets or sets the date to apply the discount |
+| [DiscountDescription](../../aspose.finance.ofx/discount/discountdescription) { get; set; } | Gets or sets the discount description. |
+| [DiscountRate](../../aspose.finance.ofx/discount/discountrate) { get; set; } | Gets or sets the discount rate. |
 
 ### See Also
 

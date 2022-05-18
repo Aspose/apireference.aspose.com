@@ -24,9 +24,9 @@ public class EmailResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [GetMimeTransactionResponses](getmimetransactionresponses) { get; set; } | Gets or sets the collection of [`GetMimeTransactionResponse`](../../aspose.finance.ofx.email/getmimetransactionresponse). |
-| [MailSyncResponses](mailsyncresponses) { get; set; } | Gets or sets the collection of [`MailSyncResponse`](../../aspose.finance.ofx.email/mailsyncresponse). |
-| [MailTransactionResponses](mailtransactionresponses) { get; set; } | Gets or sets the collection of [`MailTransactionResponse`](../../aspose.finance.ofx.email/mailtransactionresponse). |
+| [GetMimeTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/getmimetransactionresponses) { get; set; } | Gets or sets the collection of [`GetMimeTransactionResponse`](../../aspose.finance.ofx.email/getmimetransactionresponse). |
+| [MailSyncResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailsyncresponses) { get; set; } | Gets or sets the collection of [`MailSyncResponse`](../../aspose.finance.ofx.email/mailsyncresponse). |
+| [MailTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailtransactionresponses) { get; set; } | Gets or sets the collection of [`MailTransactionResponse`](../../aspose.finance.ofx.email/mailtransactionresponse). |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class OtherEnroll
 
 | Name | Description |
 | --- | --- |
-| [Message](message) { get; set; } | Gets or sets the message to consumer about what to do next. |
+| [Message](../../aspose.finance.ofx.profile/otherenroll/message) { get; set; } | Gets or sets the message to consumer about what to do next. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7980
+weight: 7990
 url: /net/aspose.finance.xbrl/saveformat/
 ---
 ## SaveFormat enumeration
@@ -19,7 +19,8 @@ public enum SaveFormat
 | XBRL | `1` | Represents a Xbrl file. |
 | IXBRL | `2` | Represents an iXbrl file. |
 | XLSX | `3` | Represents a xlsx file. |
-| REPORT | `4` |  |
+| SEC_XLSX_REPORT | `4` | Represents a sec report with xlsx format |
+| SEC_HTML_REPORT | `5` | Represents a sec report with html format |
 
 ### See Also
 

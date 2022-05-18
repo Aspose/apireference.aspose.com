@@ -3,7 +3,7 @@ title: Loc
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7820
+weight: 7830
 url: /net/aspose.finance.xbrl/loc/
 ---
 ## Loc class
@@ -19,6 +19,16 @@ public class Loc : Locator
 | Name | Description |
 | --- | --- |
 | [Loc](loc)(string, string) | Initializes a new instance of [`Loc`](../loc) class. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Href](../../aspose.finance.xbrl/locator/href) { get; set; } | Gets or sets the href URI of the locator. |
+| [Label](../../aspose.finance.xbrl/locator/label) { get; set; } | Gets or sets the label of the locator. |
+| [Role](../../aspose.finance.xbrl/locator/role) { get; set; } | Gets or sets the role of the locator. |
+| [Title](../../aspose.finance.xbrl/locator/title) { get; set; } | Gets or sets the title of the locator. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ### See Also
 

@@ -24,9 +24,9 @@ public class LoanRateType
 
 | Name | Description |
 | --- | --- |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the date and time of the current interest rate. |
-| [LoanInterestRate](loaninterestrate) { get; set; } | Gets or sets the current loan interest rate. |
-| [RateType](ratetype) { get; set; } | Gets or sets the type of rate. |
+| [DateAsOf](../../aspose.finance.ofx/loanratetype/dateasof) { get; set; } | Gets or sets the date and time of the current interest rate. |
+| [LoanInterestRate](../../aspose.finance.ofx/loanratetype/loaninterestrate) { get; set; } | Gets or sets the current loan interest rate. |
+| [RateType](../../aspose.finance.ofx/loanratetype/ratetype) { get; set; } | Gets or sets the type of rate. |
 
 ### See Also
 

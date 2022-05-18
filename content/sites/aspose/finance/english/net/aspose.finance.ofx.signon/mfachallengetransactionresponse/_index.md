@@ -24,8 +24,11 @@ public class MFAChallengeTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [MFAChallengeResponse](mfachallengeresponse) { get; set; } | Gets or sets the [`MFAChallengeResponse`](./mfachallengeresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [MFAChallengeResponse](../../aspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse) { get; set; } | Gets or sets the [`MFAChallengeResponse`](./mfachallengeresponse). |
+| [OfxExtension](../../aspose.finance.ofx.signon/mfachallengetransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

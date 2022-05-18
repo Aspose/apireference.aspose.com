@@ -24,9 +24,9 @@ public class RecurringIntraResponse : AbstractRecurringIntraResponse
 
 | Name | Description |
 | --- | --- |
-| [IntraResponse](intraresponse) { get; set; } | Gets or sets the [`IntraResponse`](./intraresponse). |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
-| [RecurringServerId](recurringserverid) { get; set; } | Gets or sets the server assigned ID for this model. |
+| [IntraResponse](../../aspose.finance.ofx.bank/recurringintraresponse/intraresponse) { get; set; } | Gets or sets the [`IntraResponse`](./intraresponse). |
+| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintraresponse/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintraresponse/recurringserverid) { get; set; } | Gets or sets the server assigned ID for this model. |
 
 ### See Also
 

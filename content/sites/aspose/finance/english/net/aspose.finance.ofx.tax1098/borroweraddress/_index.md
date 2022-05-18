@@ -24,13 +24,13 @@ public class BorrowerAddress
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the borrower address, line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the borrower address, line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the borrower address, line 3. |
-| [BorrowerName](borrowername) { get; set; } | Gets or sets the name of borrower. |
-| [City](city) { get; set; } | Gets or sets the borrower address city. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the borrower address postal code. |
-| [State](state) { get; set; } | Gets or sets the borrower address state. |
+| [Address1](../../aspose.finance.ofx.tax1098/borroweraddress/address1) { get; set; } | Gets or sets the borrower address, line 1. |
+| [Address2](../../aspose.finance.ofx.tax1098/borroweraddress/address2) { get; set; } | Gets or sets the borrower address, line 2. |
+| [Address3](../../aspose.finance.ofx.tax1098/borroweraddress/address3) { get; set; } | Gets or sets the borrower address, line 3. |
+| [BorrowerName](../../aspose.finance.ofx.tax1098/borroweraddress/borrowername) { get; set; } | Gets or sets the name of borrower. |
+| [City](../../aspose.finance.ofx.tax1098/borroweraddress/city) { get; set; } | Gets or sets the borrower address city. |
+| [PostalCode](../../aspose.finance.ofx.tax1098/borroweraddress/postalcode) { get; set; } | Gets or sets the borrower address postal code. |
+| [State](../../aspose.finance.ofx.tax1098/borroweraddress/state) { get; set; } | Gets or sets the borrower address state. |
 
 ### See Also
 

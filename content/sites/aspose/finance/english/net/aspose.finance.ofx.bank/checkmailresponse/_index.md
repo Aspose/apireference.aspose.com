@@ -24,12 +24,12 @@ public class CheckMailResponse : AbstractMailResponse
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [CheckNumber](checknumber) { get; set; } | Gets or sets the check number. |
-| [Fee](fee) { get; set; } | Gets or sets the fee assessed for NSF. |
-| [Mail](mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
-| [TransactionAmount](transactionamount) { get; set; } | Gets or sets the amount of check. |
-| [UserDate](userdate) { get; set; } | Gets or sets the customer date on check. |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/checkmailresponse/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [CheckNumber](../../aspose.finance.ofx.bank/checkmailresponse/checknumber) { get; set; } | Gets or sets the check number. |
+| [Fee](../../aspose.finance.ofx.bank/checkmailresponse/fee) { get; set; } | Gets or sets the fee assessed for NSF. |
+| [Mail](../../aspose.finance.ofx.bank/checkmailresponse/mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
+| [TransactionAmount](../../aspose.finance.ofx.bank/checkmailresponse/transactionamount) { get; set; } | Gets or sets the amount of check. |
+| [UserDate](../../aspose.finance.ofx.bank/checkmailresponse/userdate) { get; set; } | Gets or sets the customer date on check. |
 
 ### See Also
 

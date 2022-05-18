@@ -24,9 +24,9 @@ public class InterModResponse : AbstractInterResponse
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the server to the transfer being modified. |
-| [TransferInfo](transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
-| [TransferProcessingStatus](transferprocessingstatus) { get; set; } | Gets or sets the [`TransferProcessingStatus`](./transferprocessingstatus). |
+| [ServerId](../../aspose.finance.ofx.intertransfer/intermodresponse/serverid) { get; set; } | Gets or sets the ID assigned by the server to the transfer being modified. |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodresponse/transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
+| [TransferProcessingStatus](../../aspose.finance.ofx.intertransfer/intermodresponse/transferprocessingstatus) { get; set; } | Gets or sets the [`TransferProcessingStatus`](./transferprocessingstatus). |
 
 ### See Also
 

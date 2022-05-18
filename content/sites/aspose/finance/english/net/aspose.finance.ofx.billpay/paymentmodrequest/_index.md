@@ -24,8 +24,8 @@ public class PaymentModRequest : AbstractPaymentRequest
 
 | Name | Description |
 | --- | --- |
-| [PaymentInfo](paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being modified. |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodrequest/paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
+| [ServerId](../../aspose.finance.ofx.billpay/paymentmodrequest/serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being modified. |
 
 ### See Also
 

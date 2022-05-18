@@ -24,13 +24,13 @@ public class EscrowBalance
 
 | Name | Description |
 | --- | --- |
-| [BalanceAmount](balanceamount) { get; set; } | Gets or sets the total amount held in escrow. |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the date of escrow balance |
-| [EscrowFeesBalance](escrowfeesbalance) { get; set; } | Gets or sets the balance of fees held in escrow. |
-| [EscrowInsuranceBalance](escrowinsurancebalance) { get; set; } | Gets or sets the balance of insurance held in escrow. |
-| [EscrowOtherBalance](escrowotherbalance) { get; set; } | Gets or sets the balance of other amount held in escrow. |
-| [EscrowPMIBalance](escrowpmibalance) { get; set; } | Gets or sets the balance of PMI held in escrow. |
-| [EscrowTaxBalance](escrowtaxbalance) { get; set; } | Gets or sets the balance of taxes held in escrow. |
+| [BalanceAmount](../../aspose.finance.ofx.loan/escrowbalance/balanceamount) { get; set; } | Gets or sets the total amount held in escrow. |
+| [DateAsOf](../../aspose.finance.ofx.loan/escrowbalance/dateasof) { get; set; } | Gets or sets the date of escrow balance |
+| [EscrowFeesBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowfeesbalance) { get; set; } | Gets or sets the balance of fees held in escrow. |
+| [EscrowInsuranceBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowinsurancebalance) { get; set; } | Gets or sets the balance of insurance held in escrow. |
+| [EscrowOtherBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowotherbalance) { get; set; } | Gets or sets the balance of other amount held in escrow. |
+| [EscrowPMIBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowpmibalance) { get; set; } | Gets or sets the balance of PMI held in escrow. |
+| [EscrowTaxBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowtaxbalance) { get; set; } | Gets or sets the balance of taxes held in escrow. |
 
 ### See Also
 

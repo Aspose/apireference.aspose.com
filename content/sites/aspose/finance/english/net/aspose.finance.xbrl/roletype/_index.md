@@ -3,7 +3,7 @@ title: RoleType
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7970
+weight: 7980
 url: /net/aspose.finance.xbrl/roletype/
 ---
 ## RoleType class
@@ -18,10 +18,10 @@ public class RoleType
 
 | Name | Description |
 | --- | --- |
-| [Definition](definition) { get; set; } | Gets the definition in the [`RoleType`](../roletype). |
-| [Id](id) { get; set; } | Gets the id in the [`RoleType`](../roletype). |
-| [RoleUri](roleuri) { get; set; } | Gets the role URI in the [`RoleType`](../roletype). |
-| [UsedOns](usedons) { get; set; } | Gets the collection of from used on reference in the [`RoleType`](../roletype). |
+| [Definition](../../aspose.finance.xbrl/roletype/definition) { get; set; } | Gets the definition in the [`RoleType`](../roletype). |
+| [Id](../../aspose.finance.xbrl/roletype/id) { get; set; } | Gets the id in the [`RoleType`](../roletype). |
+| [RoleUri](../../aspose.finance.xbrl/roletype/roleuri) { get; set; } | Gets the role URI in the [`RoleType`](../roletype). |
+| [UsedOns](../../aspose.finance.xbrl/roletype/usedons) { get; set; } | Gets the collection of from used on reference in the [`RoleType`](../roletype). |
 
 ### See Also
 

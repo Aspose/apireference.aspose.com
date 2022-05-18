@@ -18,7 +18,7 @@ public class AbstractInvestmentTransaction : AbstractInvestmentTransactionBase
 
 | Name | Description |
 | --- | --- |
-| [InvestmentTransaction](investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](./investmenttransaction). |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](./investmenttransaction). |
 
 ### See Also
 

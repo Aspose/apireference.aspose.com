@@ -24,7 +24,7 @@ public class TaxW2MessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [TaxW2MessageSetV1](taxw2messagesetv1) { get; set; } | Gets or sets the [`TaxW2MessageSetV1`](./taxw2messagesetv1). |
+| [TaxW2MessageSetV1](../../aspose.finance.ofx.profile/taxw2messageset/taxw2messagesetv1) { get; set; } | Gets or sets the [`TaxW2MessageSetV1`](./taxw2messagesetv1). |
 
 ### See Also
 

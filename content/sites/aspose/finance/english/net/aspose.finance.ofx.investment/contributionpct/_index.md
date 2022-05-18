@@ -24,8 +24,8 @@ public class ContributionPct
 
 | Name | Description |
 | --- | --- |
-| [Type](type) { get; set; } | Gets or sets the contribution percent type. |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Type](../../aspose.finance.ofx.investment/contributionpct/type) { get; set; } | Gets or sets the contribution percent type. |
+| [Value](../../aspose.finance.ofx.investment/contributionpct/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

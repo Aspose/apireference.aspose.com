@@ -24,7 +24,8 @@ public class OpenOrderBuyStock : AbstractOpenOrder
 
 | Name | Description |
 | --- | --- |
-| [BuyType](buytype) { get; set; } | Gets or sets the type of purchase. |
+| [BuyType](../../aspose.finance.ofx.investment/openorderbuystock/buytype) { get; set; } | Gets or sets the type of purchase. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
 
 ### See Also
 

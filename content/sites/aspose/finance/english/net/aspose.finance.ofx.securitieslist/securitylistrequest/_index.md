@@ -24,7 +24,7 @@ public class SecurityListRequest
 
 | Name | Description |
 | --- | --- |
-| [SecurityRequests](securityrequests) { get; set; } | Gets or sets the collection of [`SecurityRequest`](../securityrequest). |
+| [SecurityRequests](../../aspose.finance.ofx.securitieslist/securitylistrequest/securityrequests) { get; set; } | Gets or sets the collection of [`SecurityRequest`](../securityrequest). |
 
 ### See Also
 

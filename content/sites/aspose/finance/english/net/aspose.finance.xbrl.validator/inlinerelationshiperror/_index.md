@@ -3,7 +3,7 @@ title: InlineRelationshipError
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8100
+weight: 8120
 url: /net/aspose.finance.xbrl.validator/inlinerelationshiperror/
 ---
 ## InlineRelationshipError class
@@ -16,7 +16,9 @@ public class InlineRelationshipError : ValidationError
 
 | Name | Description |
 | --- | --- |
-| [Object](object) { get; } | Gets the [`Fact`](../../aspose.finance.xbrl/fact) object which has validation error. |
+| [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | Gets the validation error code. |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | Gets the error message. |
+| [Object](../../aspose.finance.xbrl.validator/inlinerelationshiperror/object) { get; } | Gets the [`Fact`](../../aspose.finance.xbrl/fact) object which has validation error. |
 
 ### See Also
 

@@ -24,22 +24,22 @@ public class PresentmentListRequest
 
 | Name | Description |
 | --- | --- |
-| [BillerId](billerid) { get; set; } | Gets or sets the biller Identifier. |
-| [BillId](billid) { get; set; } | Gets or sets the bill id. |
-| [BillPaymentStatusCodes](billpaymentstatuscodes) { get; set; } | Gets or sets the bill payment status codes. |
-| [BillPublisher](billpublisher) { get; set; } | Gets or sets the official standard name of bill publisher. |
-| [BillStatusCodes](billstatuscodes) { get; set; } | Gets or sets the bill status. |
-| [BillTypes](billtypes) { get; set; } | Gets or sets the bill types. |
-| [DueByDate](duebydate) { get; set; } | Gets or sets the date that customer is requesting bills due on or before it. |
-| [EndDate](enddate) { get; set; } | Gets or sets the latest date for which to include bills. |
-| [IncludeBillPaymentStatus](includebillpaymentstatus) { get; set; } | Gets or sets the flag indicating bill payment status should be included. |
-| [IncludeBillStatus](includebillstatus) { get; set; } | Gets or sets the flag indicating bill status should be included too. |
-| [IncludeCounts](includecounts) { get; set; } | Gets or sets whether include counts. |
-| [IncludeDetail](includedetail) { get; set; } | Gets or sets the flag indicating bill detail should be included too. |
-| [IncludeStatusHistory](includestatushistory) { get; set; } | Gets or sets the flag indicating bill status history and/or bill payment status history should be included too. |
-| [IncludeSummary](includesummary) { get; set; } | Gets or sets whether include bill summaries. |
-| [NotifyWilling](notifywilling) { get; set; } | Gets or sets the flag indicating that client is prepared to send notifications of bill delivery, if desired. |
-| [StartDate](startdate) { get; set; } | Gets or sets the earliest date for which to include bills. |
+| [BillerId](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/billerid) { get; set; } | Gets or sets the biller Identifier. |
+| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/billid) { get; set; } | Gets or sets the bill id. |
+| [BillPaymentStatusCodes](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/billpaymentstatuscodes) { get; set; } | Gets or sets the bill payment status codes. |
+| [BillPublisher](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/billpublisher) { get; set; } | Gets or sets the official standard name of bill publisher. |
+| [BillStatusCodes](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/billstatuscodes) { get; set; } | Gets or sets the bill status. |
+| [BillTypes](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/billtypes) { get; set; } | Gets or sets the bill types. |
+| [DueByDate](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/duebydate) { get; set; } | Gets or sets the date that customer is requesting bills due on or before it. |
+| [EndDate](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/enddate) { get; set; } | Gets or sets the latest date for which to include bills. |
+| [IncludeBillPaymentStatus](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/includebillpaymentstatus) { get; set; } | Gets or sets the flag indicating bill payment status should be included. |
+| [IncludeBillStatus](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/includebillstatus) { get; set; } | Gets or sets the flag indicating bill status should be included too. |
+| [IncludeCounts](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/includecounts) { get; set; } | Gets or sets whether include counts. |
+| [IncludeDetail](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/includedetail) { get; set; } | Gets or sets the flag indicating bill detail should be included too. |
+| [IncludeStatusHistory](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/includestatushistory) { get; set; } | Gets or sets the flag indicating bill status history and/or bill payment status history should be included too. |
+| [IncludeSummary](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/includesummary) { get; set; } | Gets or sets whether include bill summaries. |
+| [NotifyWilling](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/notifywilling) { get; set; } | Gets or sets the flag indicating that client is prepared to send notifications of bill delivery, if desired. |
+| [StartDate](../../aspose.finance.ofx.billerdelivery/presentmentlistrequest/startdate) { get; set; } | Gets or sets the earliest date for which to include bills. |
 
 ### See Also
 

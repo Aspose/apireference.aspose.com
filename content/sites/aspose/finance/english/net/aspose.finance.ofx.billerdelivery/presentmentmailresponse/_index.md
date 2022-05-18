@@ -24,8 +24,8 @@ public class PresentmentMailResponse
 
 | Name | Description |
 | --- | --- |
-| [Mail](mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
-| [PresentmentAccountFrom](presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [Mail](../../aspose.finance.ofx.billerdelivery/presentmentmailresponse/mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailresponse/presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
 
 ### See Also
 

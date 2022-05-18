@@ -24,14 +24,14 @@ public class LoanDetailType
 
 | Name | Description |
 | --- | --- |
-| [EscrowBalance](escrowbalance) { get; set; } | Gets or sets the total amount held in escrow. |
-| [LoanFrequency](loanfrequency) { get; set; } | Gets or sets the frequency of payments. |
-| [LoanInitialBalance](loaninitialbalance) { get; set; } | Gets or sets the initial loan balance. |
-| [LoanInitialNumberPayments](loaninitialnumberpayments) { get; set; } | Gets or sets the initial number of loan payments. |
-| [LoanMaturityDate](loanmaturitydate) { get; set; } | Gets or sets the expected loan end date. |
-| [LoanRemainingPayments](loanremainingpayments) { get; set; } | Gets or sets the remaining number of loan payments. |
-| [LoanStartDate](loanstartdate) { get; set; } | Gets or sets the start date of loan. |
-| [PrincipalBalance](principalbalance) { get; set; } | Gets or sets the current loan principal balance. |
+| [EscrowBalance](../../aspose.finance.ofx/loandetailtype/escrowbalance) { get; set; } | Gets or sets the total amount held in escrow. |
+| [LoanFrequency](../../aspose.finance.ofx/loandetailtype/loanfrequency) { get; set; } | Gets or sets the frequency of payments. |
+| [LoanInitialBalance](../../aspose.finance.ofx/loandetailtype/loaninitialbalance) { get; set; } | Gets or sets the initial loan balance. |
+| [LoanInitialNumberPayments](../../aspose.finance.ofx/loandetailtype/loaninitialnumberpayments) { get; set; } | Gets or sets the initial number of loan payments. |
+| [LoanMaturityDate](../../aspose.finance.ofx/loandetailtype/loanmaturitydate) { get; set; } | Gets or sets the expected loan end date. |
+| [LoanRemainingPayments](../../aspose.finance.ofx/loandetailtype/loanremainingpayments) { get; set; } | Gets or sets the remaining number of loan payments. |
+| [LoanStartDate](../../aspose.finance.ofx/loandetailtype/loanstartdate) { get; set; } | Gets or sets the start date of loan. |
+| [PrincipalBalance](../../aspose.finance.ofx/loandetailtype/principalbalance) { get; set; } | Gets or sets the current loan principal balance. |
 
 ### See Also
 

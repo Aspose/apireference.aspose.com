@@ -3,7 +3,7 @@ title: FootnoteLink
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7640
+weight: 7650
 url: /net/aspose.finance.xbrl/footnotelink/
 ---
 ## FootnoteLink class
@@ -24,11 +24,11 @@ public class FootnoteLink
 
 | Name | Description |
 | --- | --- |
-| [FootnoteArcs](footnotearcs) { get; } | Gets the collection of [`FootnoteArc`](../footnotearc). |
-| [Footnotes](footnotes) { get; } | Gets the collection of [`Footnote`](../footnote). |
-| [Id](id) { get; set; } | Gets or set the id. |
-| [Locators](locators) { get; } | Gets the collection of [`Loc`](../loc). |
-| [Title](title) { get; set; } | Gets or sets the title. |
+| [FootnoteArcs](../../aspose.finance.xbrl/footnotelink/footnotearcs) { get; } | Gets the collection of [`FootnoteArc`](../footnotearc). |
+| [Footnotes](../../aspose.finance.xbrl/footnotelink/footnotes) { get; } | Gets the collection of [`Footnote`](../footnote). |
+| [Id](../../aspose.finance.xbrl/footnotelink/id) { get; set; } | Gets or set the id. |
+| [Locators](../../aspose.finance.xbrl/footnotelink/locators) { get; } | Gets the collection of [`Loc`](../loc). |
+| [Title](../../aspose.finance.xbrl/footnotelink/title) { get; set; } | Gets or sets the title. |
 
 ### See Also
 

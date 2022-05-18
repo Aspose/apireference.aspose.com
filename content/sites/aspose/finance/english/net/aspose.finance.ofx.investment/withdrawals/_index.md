@@ -24,14 +24,14 @@ public class Withdrawals
 
 | Name | Description |
 | --- | --- |
-| [AfterTax](aftertax) { get; set; } | Gets or sets the after tax withdrawals. |
-| [Match](match) { get; set; } | Gets or sets the employer matching withdrawals. |
-| [OtherNonvest](othernonvest) { get; set; } | Gets or sets the other non-vesting withdrawals. |
-| [OtherVest](othervest) { get; set; } | Gets or sets the other vesting withdrawals. |
-| [PreTax](pretax) { get; set; } | Gets or sets the pretax withdrawals. |
-| [ProfitSharing](profitsharing) { get; set; } | Gets or sets the profit sharing withdrawals. |
-| [Rollover](rollover) { get; set; } | Gets or sets the rollover withdrawals. |
-| [Total](total) { get; set; } | Gets or sets the sum of withdrawals from all fund sources. |
+| [AfterTax](../../aspose.finance.ofx.investment/withdrawals/aftertax) { get; set; } | Gets or sets the after tax withdrawals. |
+| [Match](../../aspose.finance.ofx.investment/withdrawals/match) { get; set; } | Gets or sets the employer matching withdrawals. |
+| [OtherNonvest](../../aspose.finance.ofx.investment/withdrawals/othernonvest) { get; set; } | Gets or sets the other non-vesting withdrawals. |
+| [OtherVest](../../aspose.finance.ofx.investment/withdrawals/othervest) { get; set; } | Gets or sets the other vesting withdrawals. |
+| [PreTax](../../aspose.finance.ofx.investment/withdrawals/pretax) { get; set; } | Gets or sets the pretax withdrawals. |
+| [ProfitSharing](../../aspose.finance.ofx.investment/withdrawals/profitsharing) { get; set; } | Gets or sets the profit sharing withdrawals. |
+| [Rollover](../../aspose.finance.ofx.investment/withdrawals/rollover) { get; set; } | Gets or sets the rollover withdrawals. |
+| [Total](../../aspose.finance.ofx.investment/withdrawals/total) { get; set; } | Gets or sets the sum of withdrawals from all fund sources. |
 
 ### See Also
 

@@ -24,9 +24,9 @@ public class LocalTaxWithheldAggregate
 
 | Name | Description |
 | --- | --- |
-| [Amount](amount) { get; set; } | Gets or sets the amount withheld. |
-| [LocalDistribution](localdistribution) { get; set; } | Gets or sets the local distribution. |
-| [NameLocality](namelocality) { get; set; } | Gets or sets the name of locality. |
+| [Amount](../../aspose.finance.ofx.tax1099/localtaxwithheldaggregate/amount) { get; set; } | Gets or sets the amount withheld. |
+| [LocalDistribution](../../aspose.finance.ofx.tax1099/localtaxwithheldaggregate/localdistribution) { get; set; } | Gets or sets the local distribution. |
+| [NameLocality](../../aspose.finance.ofx.tax1099/localtaxwithheldaggregate/namelocality) { get; set; } | Gets or sets the name of locality. |
 
 ### See Also
 

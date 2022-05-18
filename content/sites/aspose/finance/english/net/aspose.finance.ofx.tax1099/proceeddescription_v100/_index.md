@@ -24,29 +24,29 @@ public class ProceedDescription_V100
 
 | Name | Description |
 | --- | --- |
-| [AcquiredDate](acquireddate) { get; set; } | Gets or sets the date acquired. |
-| [BasisNotShown](basisnotshown) { get; set; } | Gets or sets the basis not shown. |
-| [CostBasis](costbasis) { get; set; } | Gets or sets the cost basis. This may not always be known by an FI if the security was transferred from another FI. |
-| [FederalTaxWithheld](federaltaxwithheld) { get; set; } | Gets or sets the federal income tax withheld. |
-| [Form1099BNotReceived](form1099bnotreceived) { get; set; } | Gets or sets the form 1099-B not received |
-| [Form8949Code](form8949code) { get; set; } | Gets or sets the applicable check box value on Form 8949. |
-| [LongShort](longshort) { get; set; } | Gets or sets the long-short. Indicates the holding period of the sale when the acquisition date should not be used for the term calculation. |
-| [LossNotAllowed](lossnotallowed) { get; set; } | Gets or sets the loss not allowed. |
-| [NoncoveredSecurity](noncoveredsecurity) { get; set; } | Gets or sets the non-covered security. |
-| [NumberShares](numbershares) { get; set; } | Gets or sets the number of shares. |
-| [SaleDate](saledate) { get; set; } | Gets or sets the date of sale. |
-| [SaleDescription](saledescription) { get; set; } | Gets or sets the sale description. |
-| [SalesPrice](salesprice) { get; set; } | Gets or sets the sales price. This is the total price of the sale and not the price per share. |
-| [SecurityName](securityname) { get; set; } | Gets or sets the security name. |
-| [StateCode](statecode) { get; set; } | Gets or sets the postal abbreviation of state withholding income tax. |
-| [StateCode2](statecode2) { get; set; } | Gets or sets the postal abbreviation of second state withholding tax, line 2. |
-| [StateIdNumber](stateidnumber) { get; set; } | Gets or sets the payer’s state ID number. |
-| [StateIdNumber2](stateidnumber2) { get; set; } | Gets or sets the payer’s state ID number, line 2. |
-| [StateTaxWithheld](statetaxwithheld) { get; set; } | Gets or sets the state income tax withheld amount. |
-| [StateTaxWithheld2](statetaxwithheld2) { get; set; } | Gets or sets the state income tax withheld amount, line 2. |
-| [VariousDate](variousdate) { get; set; } | Gets or sets the various acquisition dates. |
-| [WashSale](washsale) { get; set; } | Gets or sets the wash sale. Indicates the sale is subject to wash sale rules. |
-| [WashSaleLossDisallowed](washsalelossdisallowed) { get; set; } | Gets or sets the Wash sale loss disallowed. |
+| [AcquiredDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/acquireddate) { get; set; } | Gets or sets the date acquired. |
+| [BasisNotShown](../../aspose.finance.ofx.tax1099/proceeddescription_v100/basisnotshown) { get; set; } | Gets or sets the basis not shown. |
+| [CostBasis](../../aspose.finance.ofx.tax1099/proceeddescription_v100/costbasis) { get; set; } | Gets or sets the cost basis. This may not always be known by an FI if the security was transferred from another FI. |
+| [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/proceeddescription_v100/federaltaxwithheld) { get; set; } | Gets or sets the federal income tax withheld. |
+| [Form1099BNotReceived](../../aspose.finance.ofx.tax1099/proceeddescription_v100/form1099bnotreceived) { get; set; } | Gets or sets the form 1099-B not received |
+| [Form8949Code](../../aspose.finance.ofx.tax1099/proceeddescription_v100/form8949code) { get; set; } | Gets or sets the applicable check box value on Form 8949. |
+| [LongShort](../../aspose.finance.ofx.tax1099/proceeddescription_v100/longshort) { get; set; } | Gets or sets the long-short. Indicates the holding period of the sale when the acquisition date should not be used for the term calculation. |
+| [LossNotAllowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/lossnotallowed) { get; set; } | Gets or sets the loss not allowed. |
+| [NoncoveredSecurity](../../aspose.finance.ofx.tax1099/proceeddescription_v100/noncoveredsecurity) { get; set; } | Gets or sets the non-covered security. |
+| [NumberShares](../../aspose.finance.ofx.tax1099/proceeddescription_v100/numbershares) { get; set; } | Gets or sets the number of shares. |
+| [SaleDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/saledate) { get; set; } | Gets or sets the date of sale. |
+| [SaleDescription](../../aspose.finance.ofx.tax1099/proceeddescription_v100/saledescription) { get; set; } | Gets or sets the sale description. |
+| [SalesPrice](../../aspose.finance.ofx.tax1099/proceeddescription_v100/salesprice) { get; set; } | Gets or sets the sales price. This is the total price of the sale and not the price per share. |
+| [SecurityName](../../aspose.finance.ofx.tax1099/proceeddescription_v100/securityname) { get; set; } | Gets or sets the security name. |
+| [StateCode](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statecode) { get; set; } | Gets or sets the postal abbreviation of state withholding income tax. |
+| [StateCode2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statecode2) { get; set; } | Gets or sets the postal abbreviation of second state withholding tax, line 2. |
+| [StateIdNumber](../../aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber) { get; set; } | Gets or sets the payer’s state ID number. |
+| [StateIdNumber2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber2) { get; set; } | Gets or sets the payer’s state ID number, line 2. |
+| [StateTaxWithheld](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statetaxwithheld) { get; set; } | Gets or sets the state income tax withheld amount. |
+| [StateTaxWithheld2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statetaxwithheld2) { get; set; } | Gets or sets the state income tax withheld amount, line 2. |
+| [VariousDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/variousdate) { get; set; } | Gets or sets the various acquisition dates. |
+| [WashSale](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsale) { get; set; } | Gets or sets the wash sale. Indicates the sale is subject to wash sale rules. |
+| [WashSaleLossDisallowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsalelossdisallowed) { get; set; } | Gets or sets the Wash sale loss disallowed. |
 
 ### See Also
 

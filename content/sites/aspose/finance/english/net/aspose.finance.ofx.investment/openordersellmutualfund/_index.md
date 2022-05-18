@@ -24,9 +24,10 @@ public class OpenOrderSellMutualFund : AbstractOpenOrder
 
 | Name | Description |
 | --- | --- |
-| [SellAll](sellall) { get; set; } | Gets or sets whether sell entire holding. |
-| [SellType](selltype) { get; set; } | Gets or sets the type of sale. |
-| [UnitType](unittype) { get; set; } | Gets or sets what the units represent. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
+| [SellAll](../../aspose.finance.ofx.investment/openordersellmutualfund/sellall) { get; set; } | Gets or sets whether sell entire holding. |
+| [SellType](../../aspose.finance.ofx.investment/openordersellmutualfund/selltype) { get; set; } | Gets or sets the type of sale. |
+| [UnitType](../../aspose.finance.ofx.investment/openordersellmutualfund/unittype) { get; set; } | Gets or sets what the units represent. |
 
 ### See Also
 

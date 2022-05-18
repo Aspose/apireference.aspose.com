@@ -18,10 +18,10 @@ public class ArcroleType
 
 | Name | Description |
 | --- | --- |
-| [ArcroleUri](arcroleuri) { get; set; } | Gets the arc role URI in the [`ArcroleType`](../arcroletype). |
-| [Definition](definition) { get; set; } | Gets the definition in the [`ArcroleType`](../arcroletype). |
-| [Id](id) { get; set; } | Gets the id in the [`ArcroleType`](../arcroletype). |
-| [UsedOns](usedons) { get; set; } | Gets the collection of from used on reference in the [`ArcroleType`](../arcroletype). |
+| [ArcroleUri](../../aspose.finance.xbrl/arcroletype/arcroleuri) { get; set; } | Gets the arc role URI in the [`ArcroleType`](../arcroletype). |
+| [Definition](../../aspose.finance.xbrl/arcroletype/definition) { get; set; } | Gets the definition in the [`ArcroleType`](../arcroletype). |
+| [Id](../../aspose.finance.xbrl/arcroletype/id) { get; set; } | Gets the id in the [`ArcroleType`](../arcroletype). |
+| [UsedOns](../../aspose.finance.xbrl/arcroletype/usedons) { get; set; } | Gets the collection of from used on reference in the [`ArcroleType`](../arcroletype). |
 
 ### See Also
 

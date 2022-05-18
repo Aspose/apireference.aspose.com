@@ -24,14 +24,14 @@ public class StopCheckNumber
 
 | Name | Description |
 | --- | --- |
-| [CheckError](checkerror) { get; set; } | Gets or sets the further textual explanation. |
-| [CheckNumber](checknumber) { get; set; } | Gets or sets the check number. |
-| [CheckStatus](checkstatus) { get; set; } | Gets or sets the status code for individual stop check request. |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [Name](name) { get; set; } | Gets or sets the payee name or description |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
-| [TransactionAmount](transactionamount) { get; set; } | Gets or sets the transaction amount. |
-| [UserDate](userdate) { get; set; } | Gets or sets the date on check. |
+| [CheckError](../../aspose.finance.ofx.bank/stopchecknumber/checkerror) { get; set; } | Gets or sets the further textual explanation. |
+| [CheckNumber](../../aspose.finance.ofx.bank/stopchecknumber/checknumber) { get; set; } | Gets or sets the check number. |
+| [CheckStatus](../../aspose.finance.ofx.bank/stopchecknumber/checkstatus) { get; set; } | Gets or sets the status code for individual stop check request. |
+| [Currency](../../aspose.finance.ofx.bank/stopchecknumber/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [Name](../../aspose.finance.ofx.bank/stopchecknumber/name) { get; set; } | Gets or sets the payee name or description |
+| [OriginCurrency](../../aspose.finance.ofx.bank/stopchecknumber/origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
+| [TransactionAmount](../../aspose.finance.ofx.bank/stopchecknumber/transactionamount) { get; set; } | Gets or sets the transaction amount. |
+| [UserDate](../../aspose.finance.ofx.bank/stopchecknumber/userdate) { get; set; } | Gets or sets the date on check. |
 
 ### See Also
 

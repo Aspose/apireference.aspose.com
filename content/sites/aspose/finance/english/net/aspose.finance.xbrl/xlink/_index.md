@@ -3,7 +3,7 @@ title: Xlink
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8170
+weight: 8210
 url: /net/aspose.finance.xbrl/xlink/
 ---
 ## Xlink class
@@ -18,7 +18,7 @@ public abstract class Xlink
 
 | Name | Description |
 | --- | --- |
-| [Type](type) { get; } | Gets the link type. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ### See Also
 

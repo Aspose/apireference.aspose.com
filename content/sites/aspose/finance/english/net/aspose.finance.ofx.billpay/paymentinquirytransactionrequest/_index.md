@@ -24,8 +24,11 @@ public class PaymentInquiryTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PaymentInquiryRequest](paymentinquiryrequest) { get; set; } | Gets or sets the [`PaymentInquiryRequest`](./paymentinquiryrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PaymentInquiryRequest](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest) { get; set; } | Gets or sets the [`PaymentInquiryRequest`](./paymentinquiryrequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

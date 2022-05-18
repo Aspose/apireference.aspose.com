@@ -24,7 +24,7 @@ public class Tax1099RequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [Tax1099TransactionRequests](tax1099transactionrequests) { get; set; } | Gets or sets the collection of [`Tax1099TransactionRequest`](../../aspose.finance.ofx.tax1099/tax1099transactionrequest). |
+| [Tax1099TransactionRequests](../../aspose.finance.ofx/tax1099requestmessagesetv1/tax1099transactionrequests) { get; set; } | Gets or sets the collection of [`Tax1099TransactionRequest`](../../aspose.finance.ofx.tax1099/tax1099transactionrequest). |
 
 ### See Also
 

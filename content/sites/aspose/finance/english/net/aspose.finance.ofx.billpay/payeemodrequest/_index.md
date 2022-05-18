@@ -24,10 +24,10 @@ public class PayeeModRequest : AbstractPayeeRequest
 
 | Name | Description |
 | --- | --- |
-| [BankAccountTo](bankaccountto) { get; set; } | Gets or sets the destination [`BankAccount`](../../aspose.finance.ofx/bankaccount) for countries that pay using transfers. |
-| [Payee](payee) { get; set; } | Gets or sets the [`Payee`](./payee) information to modify. |
-| [PayeeAccounts](payeeaccounts) { get; set; } | Gets or sets the collection user’s account number with the payee. |
-| [PayeeListId](payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeemodrequest/bankaccountto) { get; set; } | Gets or sets the destination [`BankAccount`](../../aspose.finance.ofx/bankaccount) for countries that pay using transfers. |
+| [Payee](../../aspose.finance.ofx.billpay/payeemodrequest/payee) { get; set; } | Gets or sets the [`Payee`](./payee) information to modify. |
+| [PayeeAccounts](../../aspose.finance.ofx.billpay/payeemodrequest/payeeaccounts) { get; set; } | Gets or sets the collection user’s account number with the payee. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/payeemodrequest/payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
 
 ### See Also
 

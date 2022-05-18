@@ -24,10 +24,10 @@ public class LoanInterestType
 
 | Name | Description |
 | --- | --- |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the date and time of the interest information. |
-| [LoanInterestLoanToDate](loaninterestloantodate) { get; set; } | Gets or sets the total interest paid loan to date |
-| [LoanInterestProject](loaninterestproject) { get; set; } | Gets or sets the total projected interest to be paid on this loan |
-| [LoanInterestYearToDate](loaninterestyeartodate) { get; set; } | Gets or sets the total interest paid year to date. |
+| [DateAsOf](../../aspose.finance.ofx/loaninteresttype/dateasof) { get; set; } | Gets or sets the date and time of the interest information. |
+| [LoanInterestLoanToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestloantodate) { get; set; } | Gets or sets the total interest paid loan to date |
+| [LoanInterestProject](../../aspose.finance.ofx/loaninteresttype/loaninterestproject) { get; set; } | Gets or sets the total projected interest to be paid on this loan |
+| [LoanInterestYearToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestyeartodate) { get; set; } | Gets or sets the total interest paid year to date. |
 
 ### See Also
 

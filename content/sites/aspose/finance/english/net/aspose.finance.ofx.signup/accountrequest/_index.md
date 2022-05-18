@@ -24,8 +24,8 @@ public class AccountRequest
 
 | Name | Description |
 | --- | --- |
-| [Service](service) { get; set; } | Gets or sets the service to be added/changed/deleted. |
-| [ServiceAction](serviceaction) { get; set; } | Gets or sets the [`ServiceAdd`](../serviceadd) or [`ServiceChange`](../servicechange) or [`ServiceDelete`](../servicedelete). |
+| [Service](../../aspose.finance.ofx.signup/accountrequest/service) { get; set; } | Gets or sets the service to be added/changed/deleted. |
+| [ServiceAction](../../aspose.finance.ofx.signup/accountrequest/serviceaction) { get; set; } | Gets or sets the [`ServiceAdd`](../serviceadd) or [`ServiceChange`](../servicechange) or [`ServiceDelete`](../servicedelete). |
 
 ### See Also
 

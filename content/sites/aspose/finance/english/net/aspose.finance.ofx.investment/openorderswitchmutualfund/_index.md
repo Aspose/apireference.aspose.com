@@ -24,9 +24,10 @@ public class OpenOrderSwitchMutualFund : AbstractOpenOrder
 
 | Name | Description |
 | --- | --- |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SwitchAll](switchall) { get; set; } | Gets or sets whether switch entire holding. |
-| [UnitType](unittype) { get; set; } | Gets or sets what the units represent. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
+| [SecurityId](../../aspose.finance.ofx.investment/openorderswitchmutualfund/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SwitchAll](../../aspose.finance.ofx.investment/openorderswitchmutualfund/switchall) { get; set; } | Gets or sets whether switch entire holding. |
+| [UnitType](../../aspose.finance.ofx.investment/openorderswitchmutualfund/unittype) { get; set; } | Gets or sets what the units represent. |
 
 ### See Also
 

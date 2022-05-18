@@ -24,14 +24,14 @@ public class Mail
 
 | Name | Description |
 | --- | --- |
-| [CreatedDate](createddate) { get; set; } | Gets or sets when message was created. |
-| [From](from) { get; set; } | Gets or sets who the message is from. |
-| [IncludeImages](includeimages) { get; set; } | Gets or sets whether include images in the message body. |
-| [MessageBody](messagebody) { get; set; } | Gets or sets the body of message, HTML-encoded or plain text. |
-| [Subject](subject) { get; set; } | Gets or sets the subject of message (plain text, not HTML). |
-| [To](to) { get; set; } | Gets or sets who the message should be delivered to. |
-| [UseHtml](usehtml) { get; set; } | True for HTML-formatted text. False for plain text. |
-| [UserId](userid) { get; set; } | Gets or sets the user identification. |
+| [CreatedDate](../../aspose.finance.ofx/mail/createddate) { get; set; } | Gets or sets when message was created. |
+| [From](../../aspose.finance.ofx/mail/from) { get; set; } | Gets or sets who the message is from. |
+| [IncludeImages](../../aspose.finance.ofx/mail/includeimages) { get; set; } | Gets or sets whether include images in the message body. |
+| [MessageBody](../../aspose.finance.ofx/mail/messagebody) { get; set; } | Gets or sets the body of message, HTML-encoded or plain text. |
+| [Subject](../../aspose.finance.ofx/mail/subject) { get; set; } | Gets or sets the subject of message (plain text, not HTML). |
+| [To](../../aspose.finance.ofx/mail/to) { get; set; } | Gets or sets who the message should be delivered to. |
+| [UseHtml](../../aspose.finance.ofx/mail/usehtml) { get; set; } | True for HTML-formatted text. False for plain text. |
+| [UserId](../../aspose.finance.ofx/mail/userid) { get; set; } | Gets or sets the user identification. |
 
 ### See Also
 

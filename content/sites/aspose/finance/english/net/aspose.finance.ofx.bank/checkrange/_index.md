@@ -24,8 +24,8 @@ public class CheckRange : AbstractCheckInfo
 
 | Name | Description |
 | --- | --- |
-| [EndCheckNumber](endchecknumber) { get; set; } | Gets or sets the ending check number to cancel; omit if only one check is to be stopped, |
-| [StartCheckNumber](startchecknumber) { get; set; } | Gets or sets the start check number to cancel. |
+| [EndCheckNumber](../../aspose.finance.ofx.bank/checkrange/endchecknumber) { get; set; } | Gets or sets the ending check number to cancel; omit if only one check is to be stopped, |
+| [StartCheckNumber](../../aspose.finance.ofx.bank/checkrange/startchecknumber) { get; set; } | Gets or sets the start check number to cancel. |
 
 ### See Also
 

@@ -24,11 +24,11 @@ public class PeriodToDate
 
 | Name | Description |
 | --- | --- |
-| [Contributions](contributions) { get; set; } | Gets or sets the [`Contributions`](./contributions). |
-| [Earnings](earnings) { get; set; } | Gets or sets the [`Earnings`](./earnings). |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date for the period-to-date information. |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for the current period |
-| [Withdrawals](withdrawals) { get; set; } |  |
+| [Contributions](../../aspose.finance.ofx.investment/periodtodate/contributions) { get; set; } | Gets or sets the [`Contributions`](./contributions). |
+| [Earnings](../../aspose.finance.ofx.investment/periodtodate/earnings) { get; set; } | Gets or sets the [`Earnings`](./earnings). |
+| [EndDate](../../aspose.finance.ofx.investment/periodtodate/enddate) { get; set; } | Gets or sets the end date for the period-to-date information. |
+| [StartDate](../../aspose.finance.ofx.investment/periodtodate/startdate) { get; set; } | Gets or sets the start date for the current period |
+| [Withdrawals](../../aspose.finance.ofx.investment/periodtodate/withdrawals) { get; set; } |  |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class PayeeDeleteRequest : AbstractPayeeRequest
 
 | Name | Description |
 | --- | --- |
-| [PayeeListId](payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/payeedeleterequest/payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
 
 ### See Also
 

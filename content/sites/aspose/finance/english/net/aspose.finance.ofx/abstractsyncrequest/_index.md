@@ -18,10 +18,10 @@ public abstract class AbstractSyncRequest : AbstractRequest
 
 | Name | Description |
 | --- | --- |
-| [Refresh](refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
-| [RejectIfMisssing](rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
-| [Token](token) { get; set; } | Gets or sets the token. |
-| [TokenOnly](tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
 
 ### See Also
 

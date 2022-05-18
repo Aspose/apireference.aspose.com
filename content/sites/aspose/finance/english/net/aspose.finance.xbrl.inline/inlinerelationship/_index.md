@@ -3,7 +3,7 @@ title: InlineRelationship
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7720
+weight: 7730
 url: /net/aspose.finance.xbrl.inline/inlinerelationship/
 ---
 ## InlineRelationship class
@@ -18,11 +18,11 @@ public class InlineRelationship
 
 | Name | Description |
 | --- | --- |
-| [Arcrole](arcrole) { get; set; } | Gets or sets the arcrole of the [`InlineRelationship`](../inlinerelationship). |
-| [FromRefsId](fromrefsid) { get; set; } | Gets or sets the from reference ids of the [`InlineRelationship`](../inlinerelationship). |
-| [LinkRole](linkrole) { get; set; } | Gets or sets the link role of the [`InlineRelationship`](../inlinerelationship). |
-| [Order](order) { get; set; } | Gets or sets the order of the [`InlineRelationship`](../inlinerelationship). |
-| [ToRefsId](torefsid) { get; set; } | Gets or sets the to reference ids of the [`InlineRelationship`](../inlinerelationship). |
+| [Arcrole](../../aspose.finance.xbrl.inline/inlinerelationship/arcrole) { get; set; } | Gets or sets the arcrole of the [`InlineRelationship`](../inlinerelationship). |
+| [FromRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/fromrefsid) { get; set; } | Gets or sets the from reference ids of the [`InlineRelationship`](../inlinerelationship). |
+| [LinkRole](../../aspose.finance.xbrl.inline/inlinerelationship/linkrole) { get; set; } | Gets or sets the link role of the [`InlineRelationship`](../inlinerelationship). |
+| [Order](../../aspose.finance.xbrl.inline/inlinerelationship/order) { get; set; } | Gets or sets the order of the [`InlineRelationship`](../inlinerelationship). |
+| [ToRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/torefsid) { get; set; } | Gets or sets the to reference ids of the [`InlineRelationship`](../inlinerelationship). |
 
 ### See Also
 

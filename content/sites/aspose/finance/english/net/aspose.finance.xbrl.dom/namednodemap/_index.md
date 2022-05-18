@@ -3,7 +3,7 @@ title: NamedNodeMap
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7410
+weight: 7420
 url: /net/aspose.finance.xbrl.dom/namednodemap/
 ---
 ## NamedNodeMap class
@@ -18,20 +18,20 @@ public class NamedNodeMap : IEnumerable<Attr>
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the attribute with the specified name. (2 indexers) |
-| [Length](length) { get; } | Gets the number of attributes in the map. |
+| [Item](../../aspose.finance.xbrl.dom/namednodemap/item) { get; } | Gets the attribute with the specified name. (2 indexers) |
+| [Length](../../aspose.finance.xbrl.dom/namednodemap/length) { get; } | Gets the number of attributes in the map. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the map. |
-| [GetNamedItem](getnameditem)(string) | Gets the attribute specified by name. |
-| [GetNamedItemNS](getnameditemns)(string, string) | Gets the attribute specified by local name and namespace URI. |
-| [RemoveNamedItem](removenameditem)(string) | Removes a attribute specified by name. |
-| [RemoveNamedItemNS](removenameditemns)(string, string) | Removes a attribute specified by local name and namespace URI. |
-| [SetNamedItem](setnameditem)(Attr) | Adds a node using its nodeName attribute. If a node with that name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
-| [SetNamedItemNS](setnameditemns)(Attr) | Adds a node using its namespaceURI and localName. If a node with that namespace URI and that local name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
+| [GetEnumerator](../../aspose.finance.xbrl.dom/namednodemap/getenumerator)() | Returns an enumerator that iterates through the map. |
+| [GetNamedItem](../../aspose.finance.xbrl.dom/namednodemap/getnameditem)(string) | Gets the attribute specified by name. |
+| [GetNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/getnameditemns)(string, string) | Gets the attribute specified by local name and namespace URI. |
+| [RemoveNamedItem](../../aspose.finance.xbrl.dom/namednodemap/removenameditem)(string) | Removes a attribute specified by name. |
+| [RemoveNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/removenameditemns)(string, string) | Removes a attribute specified by local name and namespace URI. |
+| [SetNamedItem](../../aspose.finance.xbrl.dom/namednodemap/setnameditem)(Attr) | Adds a node using its nodeName attribute. If a node with that name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
+| [SetNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/setnameditemns)(Attr) | Adds a node using its namespaceURI and localName. If a node with that namespace URI and that local name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
 
 ### See Also
 

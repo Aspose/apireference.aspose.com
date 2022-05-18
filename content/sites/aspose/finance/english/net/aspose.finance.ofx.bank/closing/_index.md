@@ -24,26 +24,26 @@ public class Closing
 
 | Name | Description |
 | --- | --- |
-| [BalanceClose](balanceclose) { get; set; } | Gets or sets the closing statement balance. |
-| [BalanceMin](balancemin) { get; set; } | Gets or sets the minimum balance in statement period. |
-| [BalanceOpen](balanceopen) { get; set; } | Gets or sets the opening statement balance. |
-| [ChecksAndDebits](checksanddebits) { get; set; } | Gets or sets the total of checks and debits, including fees. |
-| [CloseDate](closedate) { get; set; } | Gets or sets the closing statement date. |
-| [CreditLineInfo](creditlineinfo) { get; set; } | Gets or sets the [`CreditLineInfoType`](../../aspose.finance.ofx/creditlineinfotype). |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [DepositsAndCredits](depositsandcredits) { get; set; } | Gets or sets the total of deposits and credits, including interest. |
-| [FinancialInstitutionTransactionId](financialinstitutiontransactionid) { get; set; } | Gets or sets the unique identifier for this statement. |
-| [ImageData](imagedata) { get; set; } | Gets or sets the [`ImageData`](./imagedata). |
-| [InterestRate](interestrate) { get; set; } | Gets or sets the effective interest rate, taking into account any changes in rates which applied during this statement period. |
-| [InterestYearToDate](interestyeartodate) { get; set; } | Gets or sets the year-to-date interest paid on the account. |
-| [MarketingInformation](marketinginformation) { get; set; } | Gets or sets the marketing information. |
-| [NextDate](nextdate) { get; set; } | Gets or sets the closing date of next statement. |
-| [OpenDate](opendate) { get; set; } | Gets or sets the opening statement date. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
-| [PostEndDate](postenddate) { get; set; } | Gets or sets the end date of transaction data for this statement. |
-| [PostStartDate](poststartdate) { get; set; } | Gets or sets the start date of transaction data for this statement. |
-| [TotalFees](totalfees) { get; set; } | Gets or sets the total of all fees. |
-| [TotalInterest](totalinterest) { get; set; } | Gets or sets the total of all interest. |
+| [BalanceClose](../../aspose.finance.ofx.bank/closing/balanceclose) { get; set; } | Gets or sets the closing statement balance. |
+| [BalanceMin](../../aspose.finance.ofx.bank/closing/balancemin) { get; set; } | Gets or sets the minimum balance in statement period. |
+| [BalanceOpen](../../aspose.finance.ofx.bank/closing/balanceopen) { get; set; } | Gets or sets the opening statement balance. |
+| [ChecksAndDebits](../../aspose.finance.ofx.bank/closing/checksanddebits) { get; set; } | Gets or sets the total of checks and debits, including fees. |
+| [CloseDate](../../aspose.finance.ofx.bank/closing/closedate) { get; set; } | Gets or sets the closing statement date. |
+| [CreditLineInfo](../../aspose.finance.ofx.bank/closing/creditlineinfo) { get; set; } | Gets or sets the [`CreditLineInfoType`](../../aspose.finance.ofx/creditlineinfotype). |
+| [Currency](../../aspose.finance.ofx.bank/closing/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [DepositsAndCredits](../../aspose.finance.ofx.bank/closing/depositsandcredits) { get; set; } | Gets or sets the total of deposits and credits, including interest. |
+| [FinancialInstitutionTransactionId](../../aspose.finance.ofx.bank/closing/financialinstitutiontransactionid) { get; set; } | Gets or sets the unique identifier for this statement. |
+| [ImageData](../../aspose.finance.ofx.bank/closing/imagedata) { get; set; } | Gets or sets the [`ImageData`](./imagedata). |
+| [InterestRate](../../aspose.finance.ofx.bank/closing/interestrate) { get; set; } | Gets or sets the effective interest rate, taking into account any changes in rates which applied during this statement period. |
+| [InterestYearToDate](../../aspose.finance.ofx.bank/closing/interestyeartodate) { get; set; } | Gets or sets the year-to-date interest paid on the account. |
+| [MarketingInformation](../../aspose.finance.ofx.bank/closing/marketinginformation) { get; set; } | Gets or sets the marketing information. |
+| [NextDate](../../aspose.finance.ofx.bank/closing/nextdate) { get; set; } | Gets or sets the closing date of next statement. |
+| [OpenDate](../../aspose.finance.ofx.bank/closing/opendate) { get; set; } | Gets or sets the opening statement date. |
+| [OriginCurrency](../../aspose.finance.ofx.bank/closing/origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
+| [PostEndDate](../../aspose.finance.ofx.bank/closing/postenddate) { get; set; } | Gets or sets the end date of transaction data for this statement. |
+| [PostStartDate](../../aspose.finance.ofx.bank/closing/poststartdate) { get; set; } | Gets or sets the start date of transaction data for this statement. |
+| [TotalFees](../../aspose.finance.ofx.bank/closing/totalfees) { get; set; } | Gets or sets the total of all fees. |
+| [TotalInterest](../../aspose.finance.ofx.bank/closing/totalinterest) { get; set; } | Gets or sets the total of all interest. |
 
 ### See Also
 

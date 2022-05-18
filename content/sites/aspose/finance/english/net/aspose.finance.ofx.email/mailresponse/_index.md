@@ -24,7 +24,7 @@ public class MailResponse
 
 | Name | Description |
 | --- | --- |
-| [Mail](mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
+| [Mail](../../aspose.finance.ofx.email/mailresponse/mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
 
 ### See Also
 

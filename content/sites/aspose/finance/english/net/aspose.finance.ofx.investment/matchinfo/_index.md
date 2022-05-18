@@ -24,12 +24,12 @@ public class MatchInfo
 
 | Name | Description |
 | --- | --- |
-| [BaseMatchAmount](basematchamount) { get; set; } | Gets or sets the fixed dollar amount contributed by the employer if the employee participates in the plan at all. |
-| [BaseMatchPercent](basematchpercent) { get; set; } | Gets or sets the fixed percent of employee salary matched if the employee participates in the plan at all. |
-| [MatchPercent](matchpercent) { get; set; } | Gets or sets the percent of employee contribution matched. |
-| [MaxMatchAmount](maxmatchamount) { get; set; } | Gets or sets the maximum employer contribution amount in any year. |
-| [MaxMatchPercent](maxmatchpercent) { get; set; } | Gets or sets the current maximum employer contribution percentage. |
-| [StartOfYear](startofyear) { get; set; } | Gets or sets the specifies when the employer contribution max is reset. Some plans have a maximum based on the company fiscal year rather than calendar year.Assume calendar year if omitted.Only the month and day (MMDD) are used; year(YYYY) and time are ignored. |
+| [BaseMatchAmount](../../aspose.finance.ofx.investment/matchinfo/basematchamount) { get; set; } | Gets or sets the fixed dollar amount contributed by the employer if the employee participates in the plan at all. |
+| [BaseMatchPercent](../../aspose.finance.ofx.investment/matchinfo/basematchpercent) { get; set; } | Gets or sets the fixed percent of employee salary matched if the employee participates in the plan at all. |
+| [MatchPercent](../../aspose.finance.ofx.investment/matchinfo/matchpercent) { get; set; } | Gets or sets the percent of employee contribution matched. |
+| [MaxMatchAmount](../../aspose.finance.ofx.investment/matchinfo/maxmatchamount) { get; set; } | Gets or sets the maximum employer contribution amount in any year. |
+| [MaxMatchPercent](../../aspose.finance.ofx.investment/matchinfo/maxmatchpercent) { get; set; } | Gets or sets the current maximum employer contribution percentage. |
+| [StartOfYear](../../aspose.finance.ofx.investment/matchinfo/startofyear) { get; set; } | Gets or sets the specifies when the employer contribution max is reset. Some plans have a maximum based on the company fiscal year rather than calendar year.Assume calendar year if omitted.Only the month and day (MMDD) are used; year(YYYY) and time are ignored. |
 
 ### See Also
 

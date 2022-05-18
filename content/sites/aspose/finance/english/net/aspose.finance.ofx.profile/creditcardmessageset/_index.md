@@ -24,7 +24,7 @@ public class CreditcardMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [CreditcardMessageSetV1](creditcardmessagesetv1) { get; set; } | Gets or sets the [`CreditcardMessageSetV1`](./creditcardmessagesetv1). |
+| [CreditcardMessageSetV1](../../aspose.finance.ofx.profile/creditcardmessageset/creditcardmessagesetv1) { get; set; } | Gets or sets the [`CreditcardMessageSetV1`](./creditcardmessagesetv1). |
 
 ### See Also
 

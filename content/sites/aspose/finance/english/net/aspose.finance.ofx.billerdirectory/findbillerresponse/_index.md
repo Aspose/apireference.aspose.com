@@ -24,8 +24,8 @@ public class FindBillerResponse
 
 | Name | Description |
 | --- | --- |
-| [BillerInfos](billerinfos) { get; set; } | Gets or sets the collection of [`BillerInfo`](../billerinfo). |
-| [UpdateDate](updatedate) { get; set; } | Gets or sets the date and time of last addition or modification to the entries in the directory, whether part of this response or not. |
+| [BillerInfos](../../aspose.finance.ofx.billerdirectory/findbillerresponse/billerinfos) { get; set; } | Gets or sets the collection of [`BillerInfo`](../billerinfo). |
+| [UpdateDate](../../aspose.finance.ofx.billerdirectory/findbillerresponse/updatedate) { get; set; } | Gets or sets the date and time of last addition or modification to the entries in the directory, whether part of this response or not. |
 
 ### See Also
 

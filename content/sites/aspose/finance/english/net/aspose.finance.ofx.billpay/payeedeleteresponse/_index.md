@@ -20,6 +20,12 @@ public class PayeeDeleteResponse : AbstractPayeeResponse
 | --- | --- |
 | [PayeeDeleteResponse](payeedeleteresponse)() | Initializes a new instance of [`PayeeDeleteResponse`](../payeedeleteresponse) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
+
 ### See Also
 
 * class [AbstractPayeeResponse](../abstractpayeeresponse)

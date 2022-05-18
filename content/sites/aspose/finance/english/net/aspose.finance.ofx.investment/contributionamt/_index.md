@@ -24,8 +24,8 @@ public class ContributionAmt
 
 | Name | Description |
 | --- | --- |
-| [Type](type) { get; set; } | Gets or sets the contribution amount type. |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Type](../../aspose.finance.ofx.investment/contributionamt/type) { get; set; } | Gets or sets the contribution amount type. |
+| [Value](../../aspose.finance.ofx.investment/contributionamt/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

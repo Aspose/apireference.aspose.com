@@ -3,7 +3,7 @@ title: ElementPeriodType
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7590
+weight: 7600
 url: /net/aspose.finance.xbrl/elementperiodtype/
 ---
 ## ElementPeriodType enumeration

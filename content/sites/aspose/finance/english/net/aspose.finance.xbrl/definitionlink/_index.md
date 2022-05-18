@@ -18,9 +18,9 @@ public class DefinitionLink
 
 | Name | Description |
 | --- | --- |
-| [DefinitionArcs](definitionarcs) { get; } | Gets the collection of [`DefinitionArc`](../definitionarc). |
-| [Locators](locators) { get; } | Gets the collection of [`Loc`](../loc). |
-| [Role](role) { get; set; } | Gets or sets the role. |
+| [DefinitionArcs](../../aspose.finance.xbrl/definitionlink/definitionarcs) { get; } | Gets the collection of [`DefinitionArc`](../definitionarc). |
+| [Locators](../../aspose.finance.xbrl/definitionlink/locators) { get; } | Gets the collection of [`Loc`](../loc). |
+| [Role](../../aspose.finance.xbrl/definitionlink/role) { get; set; } | Gets or sets the role. |
 
 ### See Also
 

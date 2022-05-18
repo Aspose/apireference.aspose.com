@@ -24,8 +24,8 @@ public class FinancialInstitutionPortion
 
 | Name | Description |
 | --- | --- |
-| [FIAssetClass](fiassetclass) { get; set; } | Gets or sets the text string containing an FI defined asset class. |
-| [Percent](percent) { get; set; } | Gets or sets the percentage of the fund that falls under this asset class. |
+| [FIAssetClass](../../aspose.finance.ofx.securitieslist/financialinstitutionportion/fiassetclass) { get; set; } | Gets or sets the text string containing an FI defined asset class. |
+| [Percent](../../aspose.finance.ofx.securitieslist/financialinstitutionportion/percent) { get; set; } | Gets or sets the percentage of the fund that falls under this asset class. |
 
 ### See Also
 

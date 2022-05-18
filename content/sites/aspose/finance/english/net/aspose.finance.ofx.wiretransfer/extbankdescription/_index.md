@@ -24,16 +24,16 @@ public class ExtBankDescription
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the bank’s address line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the bank’s address line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the bank’s address line 3. |
-| [BANKID](bankid) { get; set; } | Gets or sets the bank id. Routing: ABA number or S.W.I.F.T. number. |
-| [City](city) { get; set; } | Gets or sets the bank’s city. |
-| [Country](country) { get; set; } | Gets or sets the bank’s country.3-letter country code from ISO/DIS-3166. |
-| [Name](name) { get; set; } | Gets or sets the abbreviated name of bank. |
-| [Phone](phone) { get; set; } | Gets or sets the bank’s phone number. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the bank’s postal code. |
-| [State](state) { get; set; } | Gets or sets the bank’s state or province. |
+| [Address1](../../aspose.finance.ofx.wiretransfer/extbankdescription/address1) { get; set; } | Gets or sets the bank’s address line 1. |
+| [Address2](../../aspose.finance.ofx.wiretransfer/extbankdescription/address2) { get; set; } | Gets or sets the bank’s address line 2. |
+| [Address3](../../aspose.finance.ofx.wiretransfer/extbankdescription/address3) { get; set; } | Gets or sets the bank’s address line 3. |
+| [BANKID](../../aspose.finance.ofx.wiretransfer/extbankdescription/bankid) { get; set; } | Gets or sets the bank id. Routing: ABA number or S.W.I.F.T. number. |
+| [City](../../aspose.finance.ofx.wiretransfer/extbankdescription/city) { get; set; } | Gets or sets the bank’s city. |
+| [Country](../../aspose.finance.ofx.wiretransfer/extbankdescription/country) { get; set; } | Gets or sets the bank’s country.3-letter country code from ISO/DIS-3166. |
+| [Name](../../aspose.finance.ofx.wiretransfer/extbankdescription/name) { get; set; } | Gets or sets the abbreviated name of bank. |
+| [Phone](../../aspose.finance.ofx.wiretransfer/extbankdescription/phone) { get; set; } | Gets or sets the bank’s phone number. |
+| [PostalCode](../../aspose.finance.ofx.wiretransfer/extbankdescription/postalcode) { get; set; } | Gets or sets the bank’s postal code. |
+| [State](../../aspose.finance.ofx.wiretransfer/extbankdescription/state) { get; set; } | Gets or sets the bank’s state or province. |
 
 ### See Also
 

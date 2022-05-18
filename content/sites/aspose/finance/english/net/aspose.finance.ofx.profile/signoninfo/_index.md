@@ -24,24 +24,24 @@ public class SignonInfo
 
 | Name | Description |
 | --- | --- |
-| [AccessTokenRequire](accesstokenrequire) { get; set; } | Gets or sets whether the server requires ACCESSTOKEN for all requests except profile. |
-| [AuthTokenFirst](authtokenfirst) { get; set; } | Gets or sets whether server requires clients to send AUTHTOKEN as part of the first signon. |
-| [AuthTokenInfoUrl](authtokeninfourl) { get; set; } | Gets or sets the URL where AUTHTOKEN information is provided by the institution operating the OFX server. |
-| [AuthTokenLabel](authtokenlabel) { get; set; } | Gets or sets the text label for the AUTHTOKEN. |
-| [CaseSensitive](casesensitive) { get; set; } | Gets or sets whether password is case-sensitive. |
-| [ChangePinFirst](changepinfirst) { get; set; } | Gets or sets whether server requires clients to change user password as part of first signon. |
-| [CharType](chartype) { get; set; } | Gets or sets the type of characters allowed in password. |
-| [ClientuidRequire](clientuidrequire) { get; set; } | Gets or sets whether CLIENTUID is required. |
-| [Max](max) { get; set; } | Gets or sets the maximum number of password characters |
-| [MFAChallengeFirst](mfachallengefirst) { get; set; } | Gets or sets whether the client is required to send MFACHALLENGERQ as part of the first signon, before sending any other requests. |
-| [MFAChallengeSupport](mfachallengesupport) { get; set; } | Gets or sets whether the server supports MFACHALLENGE functionality. |
-| [Min](min) { get; set; } | Gets or sets the minimum number of password characters. |
-| [Pinch](pinch) { get; set; } | Gets or sets whether server supports PIN change requests. |
-| [SignonRealm](signonrealm) { get; set; } | Gets or sets the identifies this realm. |
-| [Spaces](spaces) { get; set; } | Gets or sets whether spaces are allowed over and above those characters. |
-| [Special](special) { get; set; } | Gets or sets whether special characters are allowed over and above those characters. |
-| [UserCredential1Label](usercredential1label) { get; set; } | Gets or sets the text prompt for user credential. If it is present, a third credential (USERCRED1) is required in addition to USERID and USERPASS. |
-| [UserCredential2Label](usercredential2label) { get; set; } | Gets or sets the text prompt for user credential. If it is present, a fourth credential (USERCRED2) is required in addition to USERID, USERPASS and USERCRED1. If present, UserCredential1Label must also be present. |
+| [AccessTokenRequire](../../aspose.finance.ofx.profile/signoninfo/accesstokenrequire) { get; set; } | Gets or sets whether the server requires ACCESSTOKEN for all requests except profile. |
+| [AuthTokenFirst](../../aspose.finance.ofx.profile/signoninfo/authtokenfirst) { get; set; } | Gets or sets whether server requires clients to send AUTHTOKEN as part of the first signon. |
+| [AuthTokenInfoUrl](../../aspose.finance.ofx.profile/signoninfo/authtokeninfourl) { get; set; } | Gets or sets the URL where AUTHTOKEN information is provided by the institution operating the OFX server. |
+| [AuthTokenLabel](../../aspose.finance.ofx.profile/signoninfo/authtokenlabel) { get; set; } | Gets or sets the text label for the AUTHTOKEN. |
+| [CaseSensitive](../../aspose.finance.ofx.profile/signoninfo/casesensitive) { get; set; } | Gets or sets whether password is case-sensitive. |
+| [ChangePinFirst](../../aspose.finance.ofx.profile/signoninfo/changepinfirst) { get; set; } | Gets or sets whether server requires clients to change user password as part of first signon. |
+| [CharType](../../aspose.finance.ofx.profile/signoninfo/chartype) { get; set; } | Gets or sets the type of characters allowed in password. |
+| [ClientuidRequire](../../aspose.finance.ofx.profile/signoninfo/clientuidrequire) { get; set; } | Gets or sets whether CLIENTUID is required. |
+| [Max](../../aspose.finance.ofx.profile/signoninfo/max) { get; set; } | Gets or sets the maximum number of password characters |
+| [MFAChallengeFirst](../../aspose.finance.ofx.profile/signoninfo/mfachallengefirst) { get; set; } | Gets or sets whether the client is required to send MFACHALLENGERQ as part of the first signon, before sending any other requests. |
+| [MFAChallengeSupport](../../aspose.finance.ofx.profile/signoninfo/mfachallengesupport) { get; set; } | Gets or sets whether the server supports MFACHALLENGE functionality. |
+| [Min](../../aspose.finance.ofx.profile/signoninfo/min) { get; set; } | Gets or sets the minimum number of password characters. |
+| [Pinch](../../aspose.finance.ofx.profile/signoninfo/pinch) { get; set; } | Gets or sets whether server supports PIN change requests. |
+| [SignonRealm](../../aspose.finance.ofx.profile/signoninfo/signonrealm) { get; set; } | Gets or sets the identifies this realm. |
+| [Spaces](../../aspose.finance.ofx.profile/signoninfo/spaces) { get; set; } | Gets or sets whether spaces are allowed over and above those characters. |
+| [Special](../../aspose.finance.ofx.profile/signoninfo/special) { get; set; } | Gets or sets whether special characters are allowed over and above those characters. |
+| [UserCredential1Label](../../aspose.finance.ofx.profile/signoninfo/usercredential1label) { get; set; } | Gets or sets the text prompt for user credential. If it is present, a third credential (USERCRED1) is required in addition to USERID and USERPASS. |
+| [UserCredential2Label](../../aspose.finance.ofx.profile/signoninfo/usercredential2label) { get; set; } | Gets or sets the text prompt for user credential. If it is present, a fourth credential (USERCRED2) is required in addition to USERID, USERPASS and USERCRED1. If present, UserCredential1Label must also be present. |
 
 ### See Also
 

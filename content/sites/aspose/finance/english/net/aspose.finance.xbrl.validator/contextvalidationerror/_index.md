@@ -3,7 +3,7 @@ title: ContextValidationError
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8070
+weight: 8090
 url: /net/aspose.finance.xbrl.validator/contextvalidationerror/
 ---
 ## ContextValidationError class
@@ -18,7 +18,9 @@ public class ContextValidationError : ValidationError
 
 | Name | Description |
 | --- | --- |
-| [Object](object) { get; } | Gets the [`Context`](../../aspose.finance.xbrl/context) object which has validation error. |
+| [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | Gets the validation error code. |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | Gets the error message. |
+| [Object](../../aspose.finance.xbrl.validator/contextvalidationerror/object) { get; } | Gets the [`Context`](../../aspose.finance.xbrl/context) object which has validation error. |
 
 ### See Also
 

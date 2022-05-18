@@ -3,7 +3,7 @@ title: InlineFootnote
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7670
+weight: 7680
 url: /net/aspose.finance.xbrl.inline/inlinefootnote/
 ---
 ## InlineFootnote class
@@ -18,13 +18,13 @@ public class InlineFootnote
 
 | Name | Description |
 | --- | --- |
-| [ContinuedAt](continuedat) { get; set; } | Gets or sets the continuation reference id of the [`InlineFootnote`](../inlinefootnote). |
-| [FootnoteRole](footnoterole) { get; set; } | Gets or sets the footnote role of the [`InlineFootnote`](../inlinefootnote). |
-| [Hidden](hidden) { get; set; } | Gets or sets whether this footnote is hidden. |
-| [Id](id) { get; set; } | Gets or sets the id of the [`InlineFootnote`](../inlinefootnote). |
-| [Language](language) { get; set; } | Gets or sets the language of the [`InlineFootnote`](../inlinefootnote). |
-| [Text](text) { get; set; } | Gets or sets the text of the [`InlineFootnote`](../inlinefootnote). |
-| [Title](title) { get; set; } | Gets or sets the title of the [`InlineFootnote`](../inlinefootnote). |
+| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinefootnote/continuedat) { get; set; } | Gets or sets the continuation reference id of the [`InlineFootnote`](../inlinefootnote). |
+| [FootnoteRole](../../aspose.finance.xbrl.inline/inlinefootnote/footnoterole) { get; set; } | Gets or sets the footnote role of the [`InlineFootnote`](../inlinefootnote). |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefootnote/hidden) { get; set; } | Gets or sets whether this footnote is hidden. |
+| [Id](../../aspose.finance.xbrl.inline/inlinefootnote/id) { get; set; } | Gets or sets the id of the [`InlineFootnote`](../inlinefootnote). |
+| [Language](../../aspose.finance.xbrl.inline/inlinefootnote/language) { get; set; } | Gets or sets the language of the [`InlineFootnote`](../inlinefootnote). |
+| [Text](../../aspose.finance.xbrl.inline/inlinefootnote/text) { get; set; } | Gets or sets the text of the [`InlineFootnote`](../inlinefootnote). |
+| [Title](../../aspose.finance.xbrl.inline/inlinefootnote/title) { get; set; } | Gets or sets the title of the [`InlineFootnote`](../inlinefootnote). |
 
 ### See Also
 

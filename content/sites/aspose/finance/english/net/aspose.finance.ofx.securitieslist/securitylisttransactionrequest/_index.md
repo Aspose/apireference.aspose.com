@@ -24,8 +24,11 @@ public class SecurityListTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [SecurityListRequest](securitylistrequest) { get; set; } | Gets or sets the [`SecurityListRequest`](./securitylistrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [SecurityListRequest](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest/securitylistrequest) { get; set; } | Gets or sets the [`SecurityListRequest`](./securitylistrequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

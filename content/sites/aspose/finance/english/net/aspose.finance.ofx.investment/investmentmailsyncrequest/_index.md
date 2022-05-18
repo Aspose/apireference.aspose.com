@@ -24,11 +24,15 @@ public class InvestmentMailSyncRequest : AbstractSyncRequest
 
 | Name | Description |
 | --- | --- |
-| [IncludeImages](includeimages) { get; set; } | True if the client accepts mail with images in the message body. False if the client does not accept mail with images in the message body. |
-| [InvestmentAccountFrom](investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [InvestmentMailTransactionRequests](investmentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`InvestmentMailTransactionRequest`](../investmentmailtransactionrequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [UseHtml](usehtml) { get; set; } | True if client wants an HTML response, false if client wants plain text. |
+| [IncludeImages](../../aspose.finance.ofx.investment/investmentmailsyncrequest/includeimages) { get; set; } | True if the client accepts mail with images in the message body. False if the client does not accept mail with images in the message body. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailsyncrequest/investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [InvestmentMailTransactionRequests](../../aspose.finance.ofx.investment/investmentmailsyncrequest/investmentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`InvestmentMailTransactionRequest`](../investmentmailtransactionrequest). |
+| [OfxExtension](../../aspose.finance.ofx.investment/investmentmailsyncrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
+| [UseHtml](../../aspose.finance.ofx.investment/investmentmailsyncrequest/usehtml) { get; set; } | True if client wants an HTML response, false if client wants plain text. |
 
 ### See Also
 

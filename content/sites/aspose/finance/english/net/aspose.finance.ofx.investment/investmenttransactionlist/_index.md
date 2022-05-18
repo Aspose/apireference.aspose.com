@@ -24,10 +24,10 @@ public class InvestmentTransactionList
 
 | Name | Description |
 | --- | --- |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date for transaction data. |
-| [InvestmentBankTransactions](investmentbanktransactions) { get; set; } | Gets or sets the collection of [`InvestmentBankTransaction`](../investmentbanktransaction). |
-| [InvestmentTransactions](investmenttransactions) { get; set; } | Gets or sets the collection of [`BuyDebt`](../buydebt) or [`BuyMutualFund`](../buymutualfund) or [`BuyOption`](../buyoption) or [`BuyOther`](../buyother) or [`BuyStock`](../buystock) or [`ClosureOption`](../closureoption) or [`Income`](../income) or [`InvestmentExpense`](../investmentexpense) or [`JournalFund`](../journalfund) or [`JournalSecurity`](../journalsecurity) or [`MarginInterest`](../margininterest) or [`Reinvest`](../reinvest) or [`ReturnOfCapital`](../returnofcapital) or [`SellDebt`](../selldebt) or [`SellMutualFund`](../sellmutualfund) or [`SellOption`](../selloption) or [`SellOther`](../sellother) or [`SellStock`](../sellstock) or [`Split`](../split) or [`Transfer`](../transfer). |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for transaction data. |
+| [EndDate](../../aspose.finance.ofx.investment/investmenttransactionlist/enddate) { get; set; } | Gets or sets the end date for transaction data. |
+| [InvestmentBankTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmentbanktransactions) { get; set; } | Gets or sets the collection of [`InvestmentBankTransaction`](../investmentbanktransaction). |
+| [InvestmentTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmenttransactions) { get; set; } | Gets or sets the collection of [`BuyDebt`](../buydebt) or [`BuyMutualFund`](../buymutualfund) or [`BuyOption`](../buyoption) or [`BuyOther`](../buyother) or [`BuyStock`](../buystock) or [`ClosureOption`](../closureoption) or [`Income`](../income) or [`InvestmentExpense`](../investmentexpense) or [`JournalFund`](../journalfund) or [`JournalSecurity`](../journalsecurity) or [`MarginInterest`](../margininterest) or [`Reinvest`](../reinvest) or [`ReturnOfCapital`](../returnofcapital) or [`SellDebt`](../selldebt) or [`SellMutualFund`](../sellmutualfund) or [`SellOption`](../selloption) or [`SellOther`](../sellother) or [`SellStock`](../sellstock) or [`Split`](../split) or [`Transfer`](../transfer). |
+| [StartDate](../../aspose.finance.ofx.investment/investmenttransactionlist/startdate) { get; set; } | Gets or sets the start date for transaction data. |
 
 ### See Also
 

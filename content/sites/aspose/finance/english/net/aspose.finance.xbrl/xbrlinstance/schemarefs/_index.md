@@ -3,7 +3,7 @@ title: SchemaRefs
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.finance.xbrl/xbrlinstance/schemarefs/
 ---
 ## XbrlInstance.SchemaRefs property

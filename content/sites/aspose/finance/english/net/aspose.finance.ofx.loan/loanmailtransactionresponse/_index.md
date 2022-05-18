@@ -24,8 +24,11 @@ public class LoanMailTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [LoanMailResponse](loanmailresponse) { get; set; } | Gets or sets the [`LoanMailResponse`](./loanmailresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [LoanMailResponse](../../aspose.finance.ofx.loan/loanmailtransactionresponse/loanmailresponse) { get; set; } | Gets or sets the [`LoanMailResponse`](./loanmailresponse). |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailtransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

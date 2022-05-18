@@ -24,13 +24,14 @@ public class InvestmentExpense : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SubAccountFund](subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
-| [SubAccountSecurity](subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
-| [Total](total) { get; set; } | Gets or sets the transaction total. |
+| [Currency](../../aspose.finance.ofx.investment/investmentexpense/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentexpense/investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [OriginCurrency](../../aspose.finance.ofx.investment/investmentexpense/origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentexpense/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SubAccountFund](../../aspose.finance.ofx.investment/investmentexpense/subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentexpense/subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
+| [Total](../../aspose.finance.ofx.investment/investmentexpense/total) { get; set; } | Gets or sets the transaction total. |
 
 ### See Also
 

@@ -24,12 +24,12 @@ public class InvestmentAccountInfo : AbstractAccountInfo
 
 | Name | Description |
 | --- | --- |
-| [Checking](checking) { get; set; } | Gets or sets whether the account has check writing privileges. |
-| [InvestmentAccountFrom](investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../investmentaccount). |
-| [InvestmentAccountType](investmentaccounttype) { get; set; } | Gets or sets the type of account. |
-| [OptionLevel](optionlevel) { get; set; } | Gets or sets the text description of option trading privileges. |
-| [ServiceStatus](servicestatus) { get; set; } | Gets or sets the activation status for investment statement download for the account. |
-| [UsProductType](usproducttype) { get; set; } | Gets or sets the classification of account. |
+| [Checking](../../aspose.finance.ofx/investmentaccountinfo/checking) { get; set; } | Gets or sets whether the account has check writing privileges. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx/investmentaccountinfo/investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../investmentaccount). |
+| [InvestmentAccountType](../../aspose.finance.ofx/investmentaccountinfo/investmentaccounttype) { get; set; } | Gets or sets the type of account. |
+| [OptionLevel](../../aspose.finance.ofx/investmentaccountinfo/optionlevel) { get; set; } | Gets or sets the text description of option trading privileges. |
+| [ServiceStatus](../../aspose.finance.ofx/investmentaccountinfo/servicestatus) { get; set; } | Gets or sets the activation status for investment statement download for the account. |
+| [UsProductType](../../aspose.finance.ofx/investmentaccountinfo/usproducttype) { get; set; } | Gets or sets the classification of account. |
 
 ### See Also
 

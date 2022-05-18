@@ -24,9 +24,9 @@ public class PresentmentAccountInfo : AbstractAccountInfo
 
 | Name | Description |
 | --- | --- |
-| [PresentmentAccountFrom](presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../presentmentaccount). |
-| [Reason](reason) { get; set; } | Gets or sets the reject reason. |
-| [ServiceStatus](servicestatus) { get; set; } | Gets or sets the status of the Bill Presentment service for this account. |
+| [PresentmentAccountFrom](../../aspose.finance.ofx/presentmentaccountinfo/presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../presentmentaccount). |
+| [Reason](../../aspose.finance.ofx/presentmentaccountinfo/reason) { get; set; } | Gets or sets the reject reason. |
+| [ServiceStatus](../../aspose.finance.ofx/presentmentaccountinfo/servicestatus) { get; set; } | Gets or sets the status of the Bill Presentment service for this account. |
 
 ### See Also
 

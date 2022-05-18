@@ -20,6 +20,12 @@ public class SignonMessageSetV1 : AbstractMessageSetVersion
 | --- | --- |
 | [SignonMessageSetV1](signonmessagesetv1)() | Initializes a new instance of [`SignonMessageSetV1`](../signonmessagesetv1) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+
 ### See Also
 
 * class [AbstractMessageSetVersion](../abstractmessagesetversion)

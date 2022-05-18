@@ -24,17 +24,17 @@ public class PendingTransaction
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [ExpireDate](expiredate) { get; set; } | Gets or sets the date the hold on this transaction will expire. Only valid for TransactionType is HOLD. |
-| [ExtendedName](extendedname) { get; set; } | Gets or sets the extended name of payee or description of transaction. |
-| [ImageDatas](imagedatas) { get; set; } | Gets or sets the collection of [`ImageData`](../imagedata). |
-| [Memo](memo) { get; set; } | Gets or sets the extra information |
-| [Name](name) { get; set; } | Gets or sets the name of payee or description of transaction. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
-| [ReferenceNumber](referencenumber) { get; set; } | Gets or sets the reference number, if any, for the transaction. |
-| [TransactionAmount](transactionamount) { get; set; } | Gets or sets the amount of transaction. |
-| [TransactionDate](transactiondate) { get; set; } | Gets or sets the date transaction was initiated. |
-| [TransactionType](transactiontype) { get; set; } | Gets or sets the transaction type. |
+| [Currency](../../aspose.finance.ofx/pendingtransaction/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [ExpireDate](../../aspose.finance.ofx/pendingtransaction/expiredate) { get; set; } | Gets or sets the date the hold on this transaction will expire. Only valid for TransactionType is HOLD. |
+| [ExtendedName](../../aspose.finance.ofx/pendingtransaction/extendedname) { get; set; } | Gets or sets the extended name of payee or description of transaction. |
+| [ImageDatas](../../aspose.finance.ofx/pendingtransaction/imagedatas) { get; set; } | Gets or sets the collection of [`ImageData`](../imagedata). |
+| [Memo](../../aspose.finance.ofx/pendingtransaction/memo) { get; set; } | Gets or sets the extra information |
+| [Name](../../aspose.finance.ofx/pendingtransaction/name) { get; set; } | Gets or sets the name of payee or description of transaction. |
+| [OriginCurrency](../../aspose.finance.ofx/pendingtransaction/origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
+| [ReferenceNumber](../../aspose.finance.ofx/pendingtransaction/referencenumber) { get; set; } | Gets or sets the reference number, if any, for the transaction. |
+| [TransactionAmount](../../aspose.finance.ofx/pendingtransaction/transactionamount) { get; set; } | Gets or sets the amount of transaction. |
+| [TransactionDate](../../aspose.finance.ofx/pendingtransaction/transactiondate) { get; set; } | Gets or sets the date transaction was initiated. |
+| [TransactionType](../../aspose.finance.ofx/pendingtransaction/transactiontype) { get; set; } | Gets or sets the transaction type. |
 
 ### See Also
 

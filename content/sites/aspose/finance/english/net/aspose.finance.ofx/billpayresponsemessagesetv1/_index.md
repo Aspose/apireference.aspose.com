@@ -24,15 +24,15 @@ public class BillPayResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [PayeeSyncResponses](payeesyncresponses) { get; set; } | Gets or sets the collection of [`PayeeSyncResponse`](../../aspose.finance.ofx.billpay/payeesyncresponse). |
-| [PayeeTransactionResponses](payeetransactionresponses) { get; set; } | Gets or sets the collection of [`PayeeTransactionResponse`](../../aspose.finance.ofx.billpay/payeetransactionresponse). |
-| [PaymentInquiryTransactionResponses](paymentinquirytransactionresponses) { get; set; } | Gets or sets the collection of [`PaymentInquiryTransactionResponse`](../../aspose.finance.ofx.billpay/paymentinquirytransactionresponse). |
-| [PaymentMailSyncResponses](paymentmailsyncresponses) { get; set; } | Gets or sets the collection of [`PaymentMailSyncResponse`](../../aspose.finance.ofx.billpay/paymentmailsyncresponse). |
-| [PaymentMailTransactionResponses](paymentmailtransactionresponses) { get; set; } | Gets or sets the collection of [`PaymentMailTransactionResponse`](../../aspose.finance.ofx.billpay/paymentmailtransactionresponse). |
-| [PaymentSyncResponses](paymentsyncresponses) { get; set; } | Gets or sets the collection of [`PaymentSyncResponse`](../../aspose.finance.ofx.billpay/paymentsyncresponse). |
-| [PaymentTransactionResponses](paymenttransactionresponses) { get; set; } | Gets or sets the collection of [`PaymentTransactionResponse`](../../aspose.finance.ofx.billpay/paymenttransactionresponse). |
-| [RecurringPaymentSyncResponses](recurringpaymentsyncresponses) { get; set; } | Gets or sets the collection of [`RecurringPaymentSyncResponse`](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse). |
-| [RecurringPaymentTransactionResponses](recurringpaymenttransactionresponses) { get; set; } | Gets or sets the collection of [`RecurringPaymentTransactionResponse`](../../aspose.finance.ofx.billpay/recurringpaymenttransactionresponse). |
+| [PayeeSyncResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/payeesyncresponses) { get; set; } | Gets or sets the collection of [`PayeeSyncResponse`](../../aspose.finance.ofx.billpay/payeesyncresponse). |
+| [PayeeTransactionResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/payeetransactionresponses) { get; set; } | Gets or sets the collection of [`PayeeTransactionResponse`](../../aspose.finance.ofx.billpay/payeetransactionresponse). |
+| [PaymentInquiryTransactionResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/paymentinquirytransactionresponses) { get; set; } | Gets or sets the collection of [`PaymentInquiryTransactionResponse`](../../aspose.finance.ofx.billpay/paymentinquirytransactionresponse). |
+| [PaymentMailSyncResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/paymentmailsyncresponses) { get; set; } | Gets or sets the collection of [`PaymentMailSyncResponse`](../../aspose.finance.ofx.billpay/paymentmailsyncresponse). |
+| [PaymentMailTransactionResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/paymentmailtransactionresponses) { get; set; } | Gets or sets the collection of [`PaymentMailTransactionResponse`](../../aspose.finance.ofx.billpay/paymentmailtransactionresponse). |
+| [PaymentSyncResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/paymentsyncresponses) { get; set; } | Gets or sets the collection of [`PaymentSyncResponse`](../../aspose.finance.ofx.billpay/paymentsyncresponse). |
+| [PaymentTransactionResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/paymenttransactionresponses) { get; set; } | Gets or sets the collection of [`PaymentTransactionResponse`](../../aspose.finance.ofx.billpay/paymenttransactionresponse). |
+| [RecurringPaymentSyncResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/recurringpaymentsyncresponses) { get; set; } | Gets or sets the collection of [`RecurringPaymentSyncResponse`](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse). |
+| [RecurringPaymentTransactionResponses](../../aspose.finance.ofx/billpayresponsemessagesetv1/recurringpaymenttransactionresponses) { get; set; } | Gets or sets the collection of [`RecurringPaymentTransactionResponse`](../../aspose.finance.ofx.billpay/recurringpaymenttransactionresponse). |
 
 ### See Also
 

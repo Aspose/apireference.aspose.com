@@ -3,7 +3,7 @@ title: Item
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7750
+weight: 7760
 url: /net/aspose.finance.xbrl/item/
 ---
 ## Item class
@@ -24,21 +24,23 @@ public class Item : Fact
 
 | Name | Description |
 | --- | --- |
-| [ContextRef](contextref) { get; set; } | Gets or sets the reference to the [`Context`](../context). |
-| [Decimals](decimals) { get; set; } | Gets or sets the decimal. |
-| [InfiniteDecimals](infinitedecimals) { get; set; } | Gets or sets whether this item has infinite decimal. |
-| [InfinitePrecision](infiniteprecision) { get; set; } | Gets or sets whether this item has infinite precision. |
-| [NilSpecified](nilspecified) { get; set; } | Gets or sets whether this item is nil. |
-| [Precision](precision) { get; set; } | Gets or sets the precision. |
-| [SchemaConcept](schemaconcept) { get; } | Gets the concept. |
-| [UnitRef](unitref) { get; set; } | Gets or sets the reference to the [`Unit`](../unit). |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [ContextRef](../../aspose.finance.xbrl/item/contextref) { get; set; } | Gets or sets the reference to the [`Context`](../context). |
+| [Decimals](../../aspose.finance.xbrl/item/decimals) { get; set; } | Gets or sets the decimal. |
+| [Id](../../aspose.finance.xbrl/fact/id) { get; set; } | Gets or sets the id of the fact. |
+| [InfiniteDecimals](../../aspose.finance.xbrl/item/infinitedecimals) { get; set; } | Gets or sets whether this item has infinite decimal. |
+| [InfinitePrecision](../../aspose.finance.xbrl/item/infiniteprecision) { get; set; } | Gets or sets whether this item has infinite precision. |
+| [Name](../../aspose.finance.xbrl/fact/name) { get; set; } | Gets or sets the qualified name of the fact. |
+| [NilSpecified](../../aspose.finance.xbrl/item/nilspecified) { get; set; } | Gets or sets whether this item is nil. |
+| [Precision](../../aspose.finance.xbrl/item/precision) { get; set; } | Gets or sets the precision. |
+| [SchemaConcept](../../aspose.finance.xbrl/item/schemaconcept) { get; } | Gets the concept. |
+| [UnitRef](../../aspose.finance.xbrl/item/unitref) { get; set; } | Gets or sets the reference to the [`Unit`](../unit). |
+| [Value](../../aspose.finance.xbrl/item/value) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [IsTextBlock](istextblock)() | Check whether this item is a text block. |
+| [IsTextBlock](../../aspose.finance.xbrl/item/istextblock)() | Check whether this item is a text block. |
 
 ### See Also
 

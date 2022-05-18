@@ -24,8 +24,11 @@ public class BillStatusModTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [BillStatusModResponse](billstatusmodresponse) { get; set; } | Gets or sets the [`BillStatusModResponse`](./billstatusmodresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [BillStatusModResponse](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/billstatusmodresponse) { get; set; } | Gets or sets the [`BillStatusModResponse`](./billstatusmodresponse). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

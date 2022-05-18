@@ -20,6 +20,12 @@ public class PositionDebt : AbstractPositionBase
 | --- | --- |
 | [PositionDebt](positiondebt)() | Initializes a new instance of [`PositionDebt`](../positiondebt) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Gets or sets the [`InvestmentPosition`](../abstractpositionbase/investmentposition). |
+
 ### See Also
 
 * class [AbstractPositionBase](../abstractpositionbase)

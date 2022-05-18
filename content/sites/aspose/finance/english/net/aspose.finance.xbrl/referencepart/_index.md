@@ -3,7 +3,7 @@ title: ReferencePart
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7930
+weight: 7940
 url: /net/aspose.finance.xbrl/referencepart/
 ---
 ## ReferencePart class
@@ -18,8 +18,8 @@ public class ReferencePart
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; set; } | Gets or sets the name. |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Name](../../aspose.finance.xbrl/referencepart/name) { get; set; } | Gets or sets the name. |
+| [Value](../../aspose.finance.xbrl/referencepart/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

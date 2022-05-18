@@ -24,7 +24,7 @@ public class SecurityList
 
 | Name | Description |
 | --- | --- |
-| [SecurityInfos](securityinfos) { get; set; } | Gets or sets the collection of [`MutualFundInfo`](../mutualfundinfo) or [`StockInfo`](../stockinfo) or [`OptionInfo`](../optioninfo) or [`DebtInfo`](../debtinfo) or [`OtherInfo`](../otherinfo). |
+| [SecurityInfos](../../aspose.finance.ofx.securitieslist/securitylist/securityinfos) { get; set; } | Gets or sets the collection of [`MutualFundInfo`](../mutualfundinfo) or [`StockInfo`](../stockinfo) or [`OptionInfo`](../optioninfo) or [`DebtInfo`](../debtinfo) or [`OtherInfo`](../otherinfo). |
 
 ### See Also
 

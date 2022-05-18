@@ -3,7 +3,7 @@ title: SchemaRef
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8000
+weight: 8010
 url: /net/aspose.finance.xbrl/schemaref/
 ---
 ## SchemaRef class
@@ -18,24 +18,31 @@ public class SchemaRef : SimpleLink
 
 | Name | Description |
 | --- | --- |
-| [ArcroleTypes](arcroletypes) { get; set; } | Gets the collection of [`ArcroleType`](../arcroletype) objects in the schema. |
-| [ChildSchemas](childschemas) { get; } | Gets the child schemas. |
-| [Concepts](concepts) { get; } | Gets the collection of [`Concept`](../concept) defined in the schema. |
-| [LinkbaseRefCollection](linkbaserefcollection) { get; } | Gets the [`LinkbaseRefCollection`](./linkbaserefcollection) in the schema. |
-| [NamespacePrefix](namespaceprefix) { get; set; } | Gets or sets the namespace prefix of the schema in the XBRL instance. |
-| [NamespaceUri](namespaceuri) { get; set; } | Gets or sets the namespace URI of the schema in the XBRL instance. |
-| [RoleTypes](roletypes) { get; set; } | Gets the collection of [`RoleType`](../roletype) objects in the schema. |
-| [TargetNamespace](targetnamespace) { get; set; } | Gets or sets the target namespace of the schema. |
+| [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | Gets or sets the simple link actuate attribute. |
+| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | Gets or sets the simple link arcrole. |
+| [ArcroleTypes](../../aspose.finance.xbrl/schemaref/arcroletypes) { get; set; } | Gets the collection of [`ArcroleType`](../arcroletype) objects in the schema. |
+| [ChildSchemas](../../aspose.finance.xbrl/schemaref/childschemas) { get; } | Gets the child schemas. |
+| [Concepts](../../aspose.finance.xbrl/schemaref/concepts) { get; } | Gets the collection of [`Concept`](../concept) defined in the schema. |
+| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | Gets or sets the simple link href URI. |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl/schemaref/linkbaserefcollection) { get; } | Gets the [`LinkbaseRefCollection`](./linkbaserefcollection) in the schema. |
+| [NamespacePrefix](../../aspose.finance.xbrl/schemaref/namespaceprefix) { get; set; } | Gets or sets the namespace prefix of the schema in the XBRL instance. |
+| [NamespaceUri](../../aspose.finance.xbrl/schemaref/namespaceuri) { get; set; } | Gets or sets the namespace URI of the schema in the XBRL instance. |
+| [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | Gets or sets the simple link role. |
+| [RoleTypes](../../aspose.finance.xbrl/schemaref/roletypes) { get; set; } | Gets the collection of [`RoleType`](../roletype) objects in the schema. |
+| [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | Gets or sets the simple link show attribute. |
+| [TargetNamespace](../../aspose.finance.xbrl/schemaref/targetnamespace) { get; set; } | Gets or sets the target namespace of the schema. |
+| [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | Gets or sets the simple link title. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetArcroleTypeByURI](getarcroletypebyuri)(string) | Gets the ArcroleType which has the specified uri. |
-| [GetConceptById](getconceptbyid)(string) | Gets the concept which has the specified id. |
-| [GetConceptByLoc](getconceptbyloc)(Loc) | Gets the concept by the locator. |
-| [GetConceptByName](getconceptbyname)(string) | Gets the concept which has the specified name. |
-| [GetRoleTypeByURI](getroletypebyuri)(string) | Gets the RoleType which has the specified uri. |
+| [GetArcroleTypeByURI](../../aspose.finance.xbrl/schemaref/getarcroletypebyuri)(string) | Gets the ArcroleType which has the specified uri. |
+| [GetConceptById](../../aspose.finance.xbrl/schemaref/getconceptbyid)(string) | Gets the concept which has the specified id. |
+| [GetConceptByLoc](../../aspose.finance.xbrl/schemaref/getconceptbyloc)(Loc) | Gets the concept by the locator. |
+| [GetConceptByName](../../aspose.finance.xbrl/schemaref/getconceptbyname)(string) | Gets the concept which has the specified name. |
+| [GetRoleTypeByURI](../../aspose.finance.xbrl/schemaref/getroletypebyuri)(string) | Gets the RoleType which has the specified uri. |
 
 ### See Also
 

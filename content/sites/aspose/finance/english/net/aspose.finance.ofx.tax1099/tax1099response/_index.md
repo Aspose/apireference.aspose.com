@@ -24,10 +24,10 @@ public class Tax1099Response
 
 | Name | Description |
 | --- | --- |
-| [AccountNumber](accountnumber) { get; set; } | Gets or sets the account number of recipient. |
-| [FIDirectDepositInfos](fidirectdepositinfos) { get; set; } | Gets or sets the collection of [`FIDirectDepositInfo`](../fidirectdepositinfo). |
-| [RecipientId](recipientid) { get; set; } | Gets or sets the ID of recipient. |
-| [TaxForm1099s](taxform1099s) { get; set; } | Gets or sets the collection of [`Tax1099MISC_V100`](../tax1099misc_v100) or !:TAX1099R_V100 or !:TAX1099B_V100 or !:TAX1099INT_V100 or !:TAX1099DIV_V100 or !:TAX1099OID_V100. |
+| [AccountNumber](../../aspose.finance.ofx.tax1099/tax1099response/accountnumber) { get; set; } | Gets or sets the account number of recipient. |
+| [FIDirectDepositInfos](../../aspose.finance.ofx.tax1099/tax1099response/fidirectdepositinfos) { get; set; } | Gets or sets the collection of [`FIDirectDepositInfo`](../fidirectdepositinfo). |
+| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099response/recipientid) { get; set; } | Gets or sets the ID of recipient. |
+| [TaxForm1099s](../../aspose.finance.ofx.tax1099/tax1099response/taxform1099s) { get; set; } | Gets or sets the collection of [`Tax1099MISC_V100`](../tax1099misc_v100) or !:TAX1099R_V100 or !:TAX1099B_V100 or !:TAX1099INT_V100 or !:TAX1099DIV_V100 or !:TAX1099OID_V100. |
 
 ### See Also
 

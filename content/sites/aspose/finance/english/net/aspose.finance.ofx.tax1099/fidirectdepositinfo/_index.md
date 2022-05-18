@@ -24,10 +24,10 @@ public class FIDirectDepositInfo
 
 | Name | Description |
 | --- | --- |
-| [FIAccountNickname](fiaccountnickname) { get; set; } | Gets or sets the account nickname. |
-| [FIAccountNumber](fiaccountnumber) { get; set; } | Gets or sets the account number. |
-| [FINameDirectDeposit](finamedirectdeposit) { get; set; } | Gets or sets the name of the financial institution. |
-| [FIRoutingNumber](firoutingnumber) { get; set; } | Gets or sets the routing number. |
+| [FIAccountNickname](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnickname) { get; set; } | Gets or sets the account nickname. |
+| [FIAccountNumber](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnumber) { get; set; } | Gets or sets the account number. |
+| [FINameDirectDeposit](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/finamedirectdeposit) { get; set; } | Gets or sets the name of the financial institution. |
+| [FIRoutingNumber](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/firoutingnumber) { get; set; } | Gets or sets the routing number. |
 
 ### See Also
 

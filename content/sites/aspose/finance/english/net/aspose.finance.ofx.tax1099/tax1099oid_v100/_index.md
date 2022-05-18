@@ -24,26 +24,30 @@ public class Tax1099OID_V100 : AbstractTaxForm1099
 
 | Name | Description |
 | --- | --- |
-| [AcquisitionPremium](acquisitionpremium) { get; set; } | Gets or sets the acquisition premium. |
-| [AddlStateTaxWheldAggregate](addlstatetaxwheldaggregate) { get; set; } | Gets or sets the [`AddlStateTaxWheldAggregate`](./addlstatetaxwheldaggregate). |
-| [Description](description) { get; set; } | Gets or sets the description. |
-| [EarlyWithdrawalPenalty](earlywithdrawalpenalty) { get; set; } | Gets or sets the early withdrawal penalty. |
-| [FederalTaxWithheld](federaltaxwithheld) { get; set; } | Gets or sets the federal income tax withheld. |
-| [ForeignAccountTaxComplianceAct](foreignaccounttaxcomplianceact) { get; set; } | Gets or sets the Foreign Account Tax Compliance Act. |
-| [InvestmentExpense](investmentexpense) { get; set; } | Gets or sets the investment expenses. |
-| [MarketDiscount](marketdiscount) { get; set; } | Gets or sets the market discount. |
-| [OriginalIssueDiscount](originalissuediscount) { get; set; } | Gets or sets the original issue discount. |
-| [OriginalIssueDiscountOnUSTreasury](originalissuediscountonustreasury) { get; set; } | Gets or sets the original issue discount on U.S. Treasury obligations. |
-| [OtherPeriodicInterest](otherperiodicinterest) { get; set; } | Gets or sets the other periodic interest. |
-| [PayerAddress](payeraddress) { get; set; } | Gets or sets the [`PayerAddress`](./payeraddress). |
-| [PayerId](payerid) { get; set; } | Gets or sets the payer’s Federal Identification Number. |
-| [RecipientAccount](recipientaccount) { get; set; } | Gets or sets the recipient’s account number. |
-| [RecipientAddress](recipientaddress) { get; set; } | Gets or sets the [`RecipientAddress`](./recipientaddress). |
-| [RecipientId](recipientid) { get; set; } | Gets or sets the recipient’s identification number. |
-| [StateCode](statecode) { get; set; } | Gets or sets the 2 character postal code abbreviation. |
-| [StateIdNumber](stateidnumber) { get; set; } | Gets or sets the payer state identification number. |
-| [StateTaxWithheld](statetaxwithheld) { get; set; } | Gets or sets the state income tax withheld. |
-| [TINNotification](tinnotification) { get; set; } | Gets or sets the second TIN notification. |
+| [AcquisitionPremium](../../aspose.finance.ofx.tax1099/tax1099oid_v100/acquisitionpremium) { get; set; } | Gets or sets the acquisition premium. |
+| [AddlStateTaxWheldAggregate](../../aspose.finance.ofx.tax1099/tax1099oid_v100/addlstatetaxwheldaggregate) { get; set; } | Gets or sets the [`AddlStateTaxWheldAggregate`](./addlstatetaxwheldaggregate). |
+| [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | Gets or sets whether this is a corrected form. |
+| [Description](../../aspose.finance.ofx.tax1099/tax1099oid_v100/description) { get; set; } | Gets or sets the description. |
+| [EarlyWithdrawalPenalty](../../aspose.finance.ofx.tax1099/tax1099oid_v100/earlywithdrawalpenalty) { get; set; } | Gets or sets the early withdrawal penalty. |
+| [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099oid_v100/federaltaxwithheld) { get; set; } | Gets or sets the federal income tax withheld. |
+| [ForeignAccountTaxComplianceAct](../../aspose.finance.ofx.tax1099/tax1099oid_v100/foreignaccounttaxcomplianceact) { get; set; } | Gets or sets the Foreign Account Tax Compliance Act. |
+| [InvestmentExpense](../../aspose.finance.ofx.tax1099/tax1099oid_v100/investmentexpense) { get; set; } | Gets or sets the investment expenses. |
+| [MarketDiscount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/marketdiscount) { get; set; } | Gets or sets the market discount. |
+| [OriginalIssueDiscount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/originalissuediscount) { get; set; } | Gets or sets the original issue discount. |
+| [OriginalIssueDiscountOnUSTreasury](../../aspose.finance.ofx.tax1099/tax1099oid_v100/originalissuediscountonustreasury) { get; set; } | Gets or sets the original issue discount on U.S. Treasury obligations. |
+| [OtherPeriodicInterest](../../aspose.finance.ofx.tax1099/tax1099oid_v100/otherperiodicinterest) { get; set; } | Gets or sets the other periodic interest. |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/payeraddress) { get; set; } | Gets or sets the [`PayerAddress`](./payeraddress). |
+| [PayerId](../../aspose.finance.ofx.tax1099/tax1099oid_v100/payerid) { get; set; } | Gets or sets the payer’s Federal Identification Number. |
+| [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaccount) { get; set; } | Gets or sets the recipient’s account number. |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaddress) { get; set; } | Gets or sets the [`RecipientAddress`](./recipientaddress). |
+| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientid) { get; set; } | Gets or sets the recipient’s identification number. |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Gets or sets the ID assigned by host server to the form. |
+| [StateCode](../../aspose.finance.ofx.tax1099/tax1099oid_v100/statecode) { get; set; } | Gets or sets the 2 character postal code abbreviation. |
+| [StateIdNumber](../../aspose.finance.ofx.tax1099/tax1099oid_v100/stateidnumber) { get; set; } | Gets or sets the payer state identification number. |
+| [StateTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099oid_v100/statetaxwithheld) { get; set; } | Gets or sets the state income tax withheld. |
+| [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | Gets or sets the tax year of this form. |
+| [TINNotification](../../aspose.finance.ofx.tax1099/tax1099oid_v100/tinnotification) { get; set; } | Gets or sets the second TIN notification. |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | Gets or sets whether the form is void. |
 
 ### See Also
 

@@ -24,12 +24,12 @@ public class ProceedSummary_V100
 
 | Name | Description |
 | --- | --- |
-| [ADJCode](adjcode) { get; set; } | Gets or sets the can include up to nine adjustment codes at the summary level. |
-| [Form8949Code](form8949code) { get; set; } | Gets or sets the applicable check box value on Form 8949. |
-| [SumAdjustmentAmount](sumadjustmentamount) { get; set; } | Gets or sets the summary adjustment amount. This should include any applicable accrued market discount or wash sale loss disallowed. |
-| [SumCostBasis](sumcostbasis) { get; set; } | Gets or sets the cost basis. This is the total cost basis for all transactions reported in this summary.For Form 8949 Code A and D transactions, this should be the cost basis as reported to the IRS.For all other transactions, the cost basis should be the cost basis as known by the provider. |
-| [SumDescription](sumdescription) { get; set; } | Gets or sets the description of summary transactions reported. |
-| [SumSalesPrice](sumsalesprice) { get; set; } | Gets or sets the sales price. This is the total price of all sales reported in this summary. |
+| [ADJCode](../../aspose.finance.ofx.tax1099/proceedsummary_v100/adjcode) { get; set; } | Gets or sets the can include up to nine adjustment codes at the summary level. |
+| [Form8949Code](../../aspose.finance.ofx.tax1099/proceedsummary_v100/form8949code) { get; set; } | Gets or sets the applicable check box value on Form 8949. |
+| [SumAdjustmentAmount](../../aspose.finance.ofx.tax1099/proceedsummary_v100/sumadjustmentamount) { get; set; } | Gets or sets the summary adjustment amount. This should include any applicable accrued market discount or wash sale loss disallowed. |
+| [SumCostBasis](../../aspose.finance.ofx.tax1099/proceedsummary_v100/sumcostbasis) { get; set; } | Gets or sets the cost basis. This is the total cost basis for all transactions reported in this summary.For Form 8949 Code A and D transactions, this should be the cost basis as reported to the IRS.For all other transactions, the cost basis should be the cost basis as known by the provider. |
+| [SumDescription](../../aspose.finance.ofx.tax1099/proceedsummary_v100/sumdescription) { get; set; } | Gets or sets the description of summary transactions reported. |
+| [SumSalesPrice](../../aspose.finance.ofx.tax1099/proceedsummary_v100/sumsalesprice) { get; set; } | Gets or sets the sales price. This is the total price of all sales reported in this summary. |
 
 ### See Also
 

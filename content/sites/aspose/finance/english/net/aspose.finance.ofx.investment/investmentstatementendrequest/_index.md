@@ -24,10 +24,10 @@ public class InvestmentStatementEndRequest
 
 | Name | Description |
 | --- | --- |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date of statement closing information. |
-| [IncludeStatementImage](includestatementimage) { get; set; } | Gets or sets whether include data for closing statement images. |
-| [InvestmentAccountFrom](investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for statement closing information. |
+| [EndDate](../../aspose.finance.ofx.investment/investmentstatementendrequest/enddate) { get; set; } | Gets or sets the end date of statement closing information. |
+| [IncludeStatementImage](../../aspose.finance.ofx.investment/investmentstatementendrequest/includestatementimage) { get; set; } | Gets or sets whether include data for closing statement images. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendrequest/investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [StartDate](../../aspose.finance.ofx.investment/investmentstatementendrequest/startdate) { get; set; } | Gets or sets the start date for statement closing information. |
 
 ### See Also
 

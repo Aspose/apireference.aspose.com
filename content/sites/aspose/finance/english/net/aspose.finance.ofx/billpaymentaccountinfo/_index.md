@@ -24,8 +24,8 @@ public class BillPaymentAccountInfo : AbstractAccountInfo
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../bankaccount). |
-| [ServiceStatus](servicestatus) { get; set; } | Gets or sets the status of the account. |
+| [BankAccountFrom](../../aspose.finance.ofx/billpaymentaccountinfo/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../bankaccount). |
+| [ServiceStatus](../../aspose.finance.ofx/billpaymentaccountinfo/servicestatus) { get; set; } | Gets or sets the status of the account. |
 
 ### See Also
 

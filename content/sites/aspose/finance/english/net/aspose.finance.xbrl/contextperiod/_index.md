@@ -26,10 +26,10 @@ public class ContextPeriod
 
 | Name | Description |
 | --- | --- |
-| [InstantDate](instantdate) { get; set; } | Gets or sets the period instant date. |
-| [PeriodEndDate](periodenddate) { get; set; } | Gets or sets the period end date. |
-| [PeriodStartDate](periodstartdate) { get; set; } | Gets or sets the period start date. |
-| [PeriodType](periodtype) { get; set; } | Gets or sets the context period type. |
+| [InstantDate](../../aspose.finance.xbrl/contextperiod/instantdate) { get; set; } | Gets or sets the period instant date. |
+| [PeriodEndDate](../../aspose.finance.xbrl/contextperiod/periodenddate) { get; set; } | Gets or sets the period end date. |
+| [PeriodStartDate](../../aspose.finance.xbrl/contextperiod/periodstartdate) { get; set; } | Gets or sets the period start date. |
+| [PeriodType](../../aspose.finance.xbrl/contextperiod/periodtype) { get; set; } | Gets or sets the context period type. |
 
 ### See Also
 

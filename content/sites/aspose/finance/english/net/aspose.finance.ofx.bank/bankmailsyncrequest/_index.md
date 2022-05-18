@@ -24,11 +24,15 @@ public class BankMailSyncRequest : AbstractSyncRequest
 
 | Name | Description |
 | --- | --- |
-| [AccountFrom](accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [BankMailTransactionRequests](bankmailtransactionrequests) { get; set; } | Gets or sets the collection of [`BankMailTransactionRequest`](../bankmailtransactionrequest). |
-| [IncludeImages](includeimages) { get; set; } | True if the client accepts mail with images in the message body. False if the client does not accept mail with images in the message body. |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [UseHtml](usehtml) { get; set; } | True if client wants an HTML response, False if client wants plain text. |
+| [AccountFrom](../../aspose.finance.ofx.bank/bankmailsyncrequest/accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
+| [BankMailTransactionRequests](../../aspose.finance.ofx.bank/bankmailsyncrequest/bankmailtransactionrequests) { get; set; } | Gets or sets the collection of [`BankMailTransactionRequest`](../bankmailtransactionrequest). |
+| [IncludeImages](../../aspose.finance.ofx.bank/bankmailsyncrequest/includeimages) { get; set; } | True if the client accepts mail with images in the message body. False if the client does not accept mail with images in the message body. |
+| [OfxExtension](../../aspose.finance.ofx.bank/bankmailsyncrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
+| [UseHtml](../../aspose.finance.ofx.bank/bankmailsyncrequest/usehtml) { get; set; } | True if client wants an HTML response, False if client wants plain text. |
 
 ### See Also
 

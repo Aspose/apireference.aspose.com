@@ -24,9 +24,9 @@ public class PresentmentDeliveryId
 
 | Name | Description |
 | --- | --- |
-| [BillId](billid) { get; set; } | Gets or sets the the bill from the given biller |
-| [PresentmentAccountFrom](presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
-| [SeenDate](seendate) { get; set; } | Gets or sets the date and time at which the bill was made available to the requester’s client. |
+| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/billid) { get; set; } | Gets or sets the the bill from the given biller |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [SeenDate](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/seendate) { get; set; } | Gets or sets the date and time at which the bill was made available to the requester’s client. |
 
 ### See Also
 

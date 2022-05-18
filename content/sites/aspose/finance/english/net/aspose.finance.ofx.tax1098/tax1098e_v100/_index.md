@@ -24,15 +24,15 @@ public class Tax1098E_V100 : AbstractTax1098
 
 | Name | Description |
 | --- | --- |
-| [AccountNumber](accountnumber) { get; set; } | Gets or sets the account number. |
-| [BorrowerAddress](borroweraddress) { get; set; } | Gets or sets the [`BorrowerAddress`](./borroweraddress). |
-| [BorrowerId](borrowerid) { get; set; } | Gets or sets the borrower’s Social Security number. |
-| [LenderAddress](lenderaddress) { get; set; } | Gets or sets the [`LenderAddress`](./lenderaddress). |
-| [LenderId](lenderid) { get; set; } | Gets or sets the lender’s Federal Identification Number. |
-| [LoanPriorSeptember2004AndNoLOF](loanpriorseptember2004andnolof) { get; set; } | Gets or sets whether Loan made prior to 9/1/2004 and no LOF in box 1. |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
-| [StudentLoanInterest](studentloaninterest) { get; set; } | Gets or sets the student loan interest received by the lender. |
-| [TaxYear](taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098e_v100/accountnumber) { get; set; } | Gets or sets the account number. |
+| [BorrowerAddress](../../aspose.finance.ofx.tax1098/tax1098e_v100/borroweraddress) { get; set; } | Gets or sets the [`BorrowerAddress`](./borroweraddress). |
+| [BorrowerId](../../aspose.finance.ofx.tax1098/tax1098e_v100/borrowerid) { get; set; } | Gets or sets the borrower’s Social Security number. |
+| [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress) { get; set; } | Gets or sets the [`LenderAddress`](./lenderaddress). |
+| [LenderId](../../aspose.finance.ofx.tax1098/tax1098e_v100/lenderid) { get; set; } | Gets or sets the lender’s Federal Identification Number. |
+| [LoanPriorSeptember2004AndNoLOF](../../aspose.finance.ofx.tax1098/tax1098e_v100/loanpriorseptember2004andnolof) { get; set; } | Gets or sets whether Loan made prior to 9/1/2004 and no LOF in box 1. |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098e_v100/serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
+| [StudentLoanInterest](../../aspose.finance.ofx.tax1098/tax1098e_v100/studentloaninterest) { get; set; } | Gets or sets the student loan interest received by the lender. |
+| [TaxYear](../../aspose.finance.ofx.tax1098/tax1098e_v100/taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
 
 ### See Also
 

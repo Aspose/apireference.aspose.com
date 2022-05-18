@@ -24,10 +24,10 @@ public class InterTransferRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [InterSyncRequests](intersyncrequests) { get; set; } | Gets or sets the collection of [`InterSyncRequest`](../../aspose.finance.ofx.intertransfer/intersyncrequest). |
-| [InterTransactionRequests](intertransactionrequests) { get; set; } | Gets or sets the collection of [`InterTransactionRequest`](../../aspose.finance.ofx.intertransfer/intertransactionrequest). |
-| [RecurringInterSyncRequests](recurringintersyncrequests) { get; set; } | Gets or sets the collection of [`RecurringInterSyncRequest`](../../aspose.finance.ofx.intertransfer/recurringintersyncrequest). |
-| [RecurringInterTransactionRequests](recurringintertransactionrequests) { get; set; } | Gets or sets the collection of [`RecurringInterTransactionRequest`](../../aspose.finance.ofx.intertransfer/recurringintertransactionrequest). |
+| [InterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intersyncrequests) { get; set; } | Gets or sets the collection of [`InterSyncRequest`](../../aspose.finance.ofx.intertransfer/intersyncrequest). |
+| [InterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intertransactionrequests) { get; set; } | Gets or sets the collection of [`InterTransactionRequest`](../../aspose.finance.ofx.intertransfer/intertransactionrequest). |
+| [RecurringInterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintersyncrequests) { get; set; } | Gets or sets the collection of [`RecurringInterSyncRequest`](../../aspose.finance.ofx.intertransfer/recurringintersyncrequest). |
+| [RecurringInterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintertransactionrequests) { get; set; } | Gets or sets the collection of [`RecurringInterTransactionRequest`](../../aspose.finance.ofx.intertransfer/recurringintertransactionrequest). |
 
 ### See Also
 

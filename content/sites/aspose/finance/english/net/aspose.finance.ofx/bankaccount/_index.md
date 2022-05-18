@@ -24,11 +24,11 @@ public class BankAccount : AbstractAccount
 
 | Name | Description |
 | --- | --- |
-| [AccountId](accountid) { get; set; } | Gets or sets the account identifier. |
-| [AccountKey](accountkey) { get; set; } | Gets or sets the checksum. |
-| [AccountType](accounttype) { get; set; } | Gets or sets the account type |
-| [BankId](bankid) { get; set; } | Gets or sets the bank identifier. |
-| [BranchId](branchid) { get; set; } | Gets or sets the branch identifier. May be required for some non-US banks. |
+| [AccountId](../../aspose.finance.ofx/bankaccount/accountid) { get; set; } | Gets or sets the account identifier. |
+| [AccountKey](../../aspose.finance.ofx/bankaccount/accountkey) { get; set; } | Gets or sets the checksum. |
+| [AccountType](../../aspose.finance.ofx/bankaccount/accounttype) { get; set; } | Gets or sets the account type |
+| [BankId](../../aspose.finance.ofx/bankaccount/bankid) { get; set; } | Gets or sets the bank identifier. |
+| [BranchId](../../aspose.finance.ofx/bankaccount/branchid) { get; set; } | Gets or sets the branch identifier. May be required for some non-US banks. |
 
 ### See Also
 

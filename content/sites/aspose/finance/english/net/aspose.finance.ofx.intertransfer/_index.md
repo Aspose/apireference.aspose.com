@@ -12,29 +12,29 @@ url: /net/aspose.finance.ofx.intertransfer/
 
 | Class | Description |
 | --- | --- |
-| abstract class [AbstractInterRequest](./abstractinterrequest) | Abstract base class for all interbank request related classes. |
-| abstract class [AbstractInterResponse](./abstractinterresponse) | Abstract base class for all interbank response related classes. |
-| abstract class [AbstractRecurringInterRequest](./abstractrecurringinterrequest) | Abstract base class for all recurring interbank request related classes. |
-| abstract class [AbstractRecurringInterResponse](./abstractrecurringinterresponse) | Abstract base class for all recurring interbank response related classes. |
-| class [InterCancellationRequest](./intercancellationrequest) | Interbank transfer cancellation request class. |
-| class [InterCancellationResponse](./intercancellationresponse) | Interbank transfer cancellation response class. |
-| class [InterModRequest](./intermodrequest) | Interbank transfer modification request class. |
-| class [InterModResponse](./intermodresponse) | Interbank transfer modification response class. |
-| class [InterRequest](./interrequest) | Interbank transfer request class. |
-| class [InterResponse](./interresponse) | Interbank transfer response class. |
-| class [InterSyncRequest](./intersyncrequest) | Interbank transaction synchronization request class. |
-| class [InterSyncResponse](./intersyncresponse) | Interbank transaction synchronization response class. |
-| class [InterTransactionRequest](./intertransactionrequest) | Interbank transfer transaction request class. |
-| class [InterTransactionResponse](./intertransactionresponse) | Interbank transfer transaction response class. |
-| class [RecurringInterCancellationRequest](./recurringintercancellationrequest) | Recurring Interbank transfer cancellation request class. |
-| class [RecurringInterCancellationResponse](./recurringintercancellationresponse) | Recurring Interbank transfer cancellation response class. |
-| class [RecurringInterModRequest](./recurringintermodrequest) | Recurring Interbank modification request class. |
-| class [RecurringInterModResponse](./recurringintermodresponse) | Recurring Interbank modification response class. |
-| class [RecurringInterRequest](./recurringinterrequest) | Recurring Interbank transfer request class. |
-| class [RecurringInterResponse](./recurringinterresponse) | Recurring Interbank transfer response class. |
-| class [RecurringInterSyncRequest](./recurringintersyncrequest) | Recurring interbank transaction synchronization request class. |
-| class [RecurringInterSyncResponse](./recurringintersyncresponse) | Recurring interbank transaction synchronization response class. |
-| class [RecurringInterTransactionRequest](./recurringintertransactionrequest) | Recurring Interbank transfer transaction request class. |
-| class [RecurringInterTransactionResponse](./recurringintertransactionresponse) | Recurring Interbank transfer transaction response class. |
+| [AbstractInterRequest](./abstractinterrequest) | Abstract base class for all interbank request related classes. |
+| [AbstractInterResponse](./abstractinterresponse) | Abstract base class for all interbank response related classes. |
+| [AbstractRecurringInterRequest](./abstractrecurringinterrequest) | Abstract base class for all recurring interbank request related classes. |
+| [AbstractRecurringInterResponse](./abstractrecurringinterresponse) | Abstract base class for all recurring interbank response related classes. |
+| [InterCancellationRequest](./intercancellationrequest) | Interbank transfer cancellation request class. |
+| [InterCancellationResponse](./intercancellationresponse) | Interbank transfer cancellation response class. |
+| [InterModRequest](./intermodrequest) | Interbank transfer modification request class. |
+| [InterModResponse](./intermodresponse) | Interbank transfer modification response class. |
+| [InterRequest](./interrequest) | Interbank transfer request class. |
+| [InterResponse](./interresponse) | Interbank transfer response class. |
+| [InterSyncRequest](./intersyncrequest) | Interbank transaction synchronization request class. |
+| [InterSyncResponse](./intersyncresponse) | Interbank transaction synchronization response class. |
+| [InterTransactionRequest](./intertransactionrequest) | Interbank transfer transaction request class. |
+| [InterTransactionResponse](./intertransactionresponse) | Interbank transfer transaction response class. |
+| [RecurringInterCancellationRequest](./recurringintercancellationrequest) | Recurring Interbank transfer cancellation request class. |
+| [RecurringInterCancellationResponse](./recurringintercancellationresponse) | Recurring Interbank transfer cancellation response class. |
+| [RecurringInterModRequest](./recurringintermodrequest) | Recurring Interbank modification request class. |
+| [RecurringInterModResponse](./recurringintermodresponse) | Recurring Interbank modification response class. |
+| [RecurringInterRequest](./recurringinterrequest) | Recurring Interbank transfer request class. |
+| [RecurringInterResponse](./recurringinterresponse) | Recurring Interbank transfer response class. |
+| [RecurringInterSyncRequest](./recurringintersyncrequest) | Recurring interbank transaction synchronization request class. |
+| [RecurringInterSyncResponse](./recurringintersyncresponse) | Recurring interbank transaction synchronization response class. |
+| [RecurringInterTransactionRequest](./recurringintertransactionrequest) | Recurring Interbank transfer transaction request class. |
+| [RecurringInterTransactionResponse](./recurringintertransactionresponse) | Recurring Interbank transfer transaction response class. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->

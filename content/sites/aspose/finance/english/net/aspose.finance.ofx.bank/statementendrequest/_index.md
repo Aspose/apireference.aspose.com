@@ -24,10 +24,10 @@ public class StatementEndRequest
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date of statement closing information. |
-| [IncludeStatementImage](includestatementimage) { get; set; } | Gets or sets whether include data for closing statement images. |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for statement closing information. |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementendrequest/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [EndDate](../../aspose.finance.ofx.bank/statementendrequest/enddate) { get; set; } | Gets or sets the end date of statement closing information. |
+| [IncludeStatementImage](../../aspose.finance.ofx.bank/statementendrequest/includestatementimage) { get; set; } | Gets or sets whether include data for closing statement images. |
+| [StartDate](../../aspose.finance.ofx.bank/statementendrequest/startdate) { get; set; } | Gets or sets the start date for statement closing information. |
 
 ### See Also
 

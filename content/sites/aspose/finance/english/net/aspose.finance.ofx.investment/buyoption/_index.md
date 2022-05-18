@@ -24,8 +24,9 @@ public class BuyOption : AbstractInvestmentBuyTransaction
 
 | Name | Description |
 | --- | --- |
-| [OptionBuyType](optionbuytype) { get; set; } | Gets or sets the option buy type. |
-| [SharePerContract](sharepercontract) { get; set; } | Gets or sets the number of shares per contract. |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Gets or sets the [`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
+| [OptionBuyType](../../aspose.finance.ofx.investment/buyoption/optionbuytype) { get; set; } | Gets or sets the option buy type. |
+| [SharePerContract](../../aspose.finance.ofx.investment/buyoption/sharepercontract) { get; set; } | Gets or sets the number of shares per contract. |
 
 ### See Also
 

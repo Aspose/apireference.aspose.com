@@ -24,9 +24,11 @@ public class RecurringPaymentSyncResponse : AbstractSyncResponse
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [RecurringPaymentTransactionResponses](recurringpaymenttransactionresponses) { get; set; } | Gets or sets the collection of [`RecurringPaymentTransactionResponse`](../recurringpaymenttransactionresponse). |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Yes if the token in the synchronization request is older than the earliest entry in the server’s history table.In this case, some responses have been lost. No if the token in the synchronization request is newer than or matches a token in the server’s history table. |
+| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [RecurringPaymentTransactionResponses](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/recurringpaymenttransactionresponses) { get; set; } | Gets or sets the collection of [`RecurringPaymentTransactionResponse`](../recurringpaymenttransactionresponse). |
+| [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Gets or sets the new synchronization token. |
 
 ### See Also
 

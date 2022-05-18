@@ -3,7 +3,7 @@ title: GetAllLinkbaseRefCollections
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 140
 url: /net/aspose.finance.xbrl/xbrlinstance/getalllinkbaserefcollections/
 ---
 ## XbrlInstance.GetAllLinkbaseRefCollections method

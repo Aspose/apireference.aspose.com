@@ -3,7 +3,7 @@ title: Units
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.finance.xbrl/xbrlinstance/units/
 ---
 ## XbrlInstance.Units property

@@ -3,7 +3,7 @@ title: Reference
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7890
+weight: 7900
 url: /net/aspose.finance.xbrl/reference/
 ---
 ## Reference class
@@ -18,7 +18,12 @@ public class Reference : Resource
 
 | Name | Description |
 | --- | --- |
-| [ReferenceParts](referenceparts) { get; } | Gets the collection of [`ReferencePart`](../referencepart). |
+| [Id](../../aspose.finance.xbrl/resource/id) { get; set; } | Gets or sets the id of the resource. |
+| [Label](../../aspose.finance.xbrl/resource/label) { get; set; } | Gets or sets the label of the resource. |
+| [ReferenceParts](../../aspose.finance.xbrl/reference/referenceparts) { get; } | Gets the collection of [`ReferencePart`](../referencepart). |
+| [Role](../../aspose.finance.xbrl/resource/role) { get; set; } | Gets or sets the role of the resource. |
+| [Title](../../aspose.finance.xbrl/resource/title) { get; set; } | Gets or sets the title of the resource. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ### See Also
 

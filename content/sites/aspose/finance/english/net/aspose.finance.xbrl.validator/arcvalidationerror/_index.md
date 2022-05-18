@@ -3,7 +3,7 @@ title: ArcValidationError
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8060
+weight: 8080
 url: /net/aspose.finance.xbrl.validator/arcvalidationerror/
 ---
 ## ArcValidationError class
@@ -18,7 +18,9 @@ public class ArcValidationError : ValidationError
 
 | Name | Description |
 | --- | --- |
-| [Object](object) { get; } | Gets the [`Arc`](../../aspose.finance.xbrl/arc) object which has validation error. |
+| [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | Gets the validation error code. |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | Gets the error message. |
+| [Object](../../aspose.finance.xbrl.validator/arcvalidationerror/object) { get; } | Gets the [`Arc`](../../aspose.finance.xbrl/arc) object which has validation error. |
 
 ### See Also
 

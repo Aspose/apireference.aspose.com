@@ -3,7 +3,7 @@ title: ValidationError
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8120
+weight: 8140
 url: /net/aspose.finance.xbrl.validator/validationerror/
 ---
 ## ValidationError class
@@ -18,8 +18,8 @@ public abstract class ValidationError
 
 | Name | Description |
 | --- | --- |
-| [Code](code) { get; } | Gets the validation error code. |
-| [Message](message) { get; } | Gets the error message. |
+| [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | Gets the validation error code. |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | Gets the error message. |
 
 ### See Also
 

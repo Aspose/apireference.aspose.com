@@ -3,7 +3,7 @@ title: NodeList
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7430
+weight: 7440
 url: /net/aspose.finance.xbrl.dom/nodelist/
 ---
 ## NodeList class
@@ -18,15 +18,15 @@ public class NodeList : IEnumerable<Node>
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the node at the specified index in the list. |
-| [Length](length) { get; } | Gets the number of nodes in the list. |
+| [Item](../../aspose.finance.xbrl.dom/nodelist/item) { get; } | Gets the node at the specified index in the list. |
+| [Length](../../aspose.finance.xbrl.dom/nodelist/length) { get; } | Gets the number of nodes in the list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Node) | Adds the node to the end of list. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the list. |
+| [Add](../../aspose.finance.xbrl.dom/nodelist/add)(Node) | Adds the node to the end of list. |
+| [GetEnumerator](../../aspose.finance.xbrl.dom/nodelist/getenumerator)() | Returns an enumerator that iterates through the list. |
 
 ### See Also
 

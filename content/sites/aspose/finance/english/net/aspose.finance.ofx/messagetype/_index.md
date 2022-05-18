@@ -20,6 +20,12 @@ public class MessageType : AbstractStringType
 | --- | --- |
 | [MessageType](messagetype)() | Initializes a new instance of [`MessageType`](../messagetype) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Value](../../aspose.finance.ofx/abstractstringtype/value) { get; set; } | Gets or sets the string value. |
+
 ### See Also
 
 * class [AbstractStringType](../abstractstringtype)

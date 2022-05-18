@@ -24,7 +24,8 @@ public class BuyDebt : AbstractInvestmentBuyTransaction
 
 | Name | Description |
 | --- | --- |
-| [AccruedInterest](accruedinterest) { get; set; } | Gets or sets the accrued interest. |
+| [AccruedInterest](../../aspose.finance.ofx.investment/buydebt/accruedinterest) { get; set; } | Gets or sets the accrued interest. |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Gets or sets the [`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class LoanAccount : AbstractAccount
 
 | Name | Description |
 | --- | --- |
-| [LoanAccountId](loanaccountid) { get; set; } | Gets or sets the account id. |
-| [LoanAccountType](loanaccounttype) { get; set; } | Gets or sets the account type. |
+| [LoanAccountId](../../aspose.finance.ofx/loanaccount/loanaccountid) { get; set; } | Gets or sets the account id. |
+| [LoanAccountType](../../aspose.finance.ofx/loanaccount/loanaccounttype) { get; set; } | Gets or sets the account type. |
 
 ### See Also
 

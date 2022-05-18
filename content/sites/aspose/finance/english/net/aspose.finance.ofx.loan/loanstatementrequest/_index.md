@@ -24,9 +24,9 @@ public class LoanStatementRequest
 
 | Name | Description |
 | --- | --- |
-| [IncludeTransactionImage](includetransactionimage) { get; set; } | Gets or sets whether include data for transaction images |
-| [IncTransaction](inctransaction) { get; set; } | Gets or sets the [`IncTransaction`](./inctransaction). |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [IncludeTransactionImage](../../aspose.finance.ofx.loan/loanstatementrequest/includetransactionimage) { get; set; } | Gets or sets whether include data for transaction images |
+| [IncTransaction](../../aspose.finance.ofx.loan/loanstatementrequest/inctransaction) { get; set; } | Gets or sets the [`IncTransaction`](./inctransaction). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementrequest/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
 
 ### See Also
 

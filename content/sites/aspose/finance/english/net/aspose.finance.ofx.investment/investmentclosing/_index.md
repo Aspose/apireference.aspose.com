@@ -24,8 +24,8 @@ public class InvestmentClosing
 
 | Name | Description |
 | --- | --- |
-| [FITransactionId](fitransactionid) { get; set; } | Gets or sets the unique identifier for this statement. |
-| [ImageData](imagedata) { get; set; } | Gets or sets the [`ImageData`](./imagedata). |
+| [FITransactionId](../../aspose.finance.ofx.investment/investmentclosing/fitransactionid) { get; set; } | Gets or sets the unique identifier for this statement. |
+| [ImageData](../../aspose.finance.ofx.investment/investmentclosing/imagedata) { get; set; } | Gets or sets the [`ImageData`](./imagedata). |
 
 ### See Also
 

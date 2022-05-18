@@ -18,7 +18,7 @@ public abstract class AbstractRecurringInterResponse
 
 | Name | Description |
 | --- | --- |
-| [RecurringServerId](recurringserverid) { get; set; } | Gets or sets the server-assigned ID for this model. |
+| [RecurringServerId](../../aspose.finance.ofx.intertransfer/abstractrecurringinterresponse/recurringserverid) { get; set; } | Gets or sets the server-assigned ID for this model. |
 
 ### See Also
 

@@ -24,17 +24,17 @@ public class PresentmentNameAddress
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the customer’s address line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the customer’s address line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the customer’s address line 3. |
-| [BusinessNameAccountHeld](businessnameaccountheld) { get; set; } | Gets or sets the optional “Does Business As” name associated with this account. |
-| [City](city) { get; set; } | Gets or sets the customer’s city. |
-| [Country](country) { get; set; } | Gets or sets the customer’s country. 3-letter country code from ISO/DIS-3166. |
-| [DayPhone](dayphone) { get; set; } | Gets or sets the customer’s daytime telephone number. |
-| [EveningPhone](eveningphone) { get; set; } | Gets or sets the customer’s evening telephone number. |
-| [NameAccountHeld](nameaccountheld) { get; set; } | Gets or sets the customer’s name as it appears on the account. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the customer’s postal code. |
-| [State](state) { get; set; } | Gets or sets the customer’s state. |
+| [Address1](../../aspose.finance.ofx/presentmentnameaddress/address1) { get; set; } | Gets or sets the customer’s address line 1. |
+| [Address2](../../aspose.finance.ofx/presentmentnameaddress/address2) { get; set; } | Gets or sets the customer’s address line 2. |
+| [Address3](../../aspose.finance.ofx/presentmentnameaddress/address3) { get; set; } | Gets or sets the customer’s address line 3. |
+| [BusinessNameAccountHeld](../../aspose.finance.ofx/presentmentnameaddress/businessnameaccountheld) { get; set; } | Gets or sets the optional “Does Business As” name associated with this account. |
+| [City](../../aspose.finance.ofx/presentmentnameaddress/city) { get; set; } | Gets or sets the customer’s city. |
+| [Country](../../aspose.finance.ofx/presentmentnameaddress/country) { get; set; } | Gets or sets the customer’s country. 3-letter country code from ISO/DIS-3166. |
+| [DayPhone](../../aspose.finance.ofx/presentmentnameaddress/dayphone) { get; set; } | Gets or sets the customer’s daytime telephone number. |
+| [EveningPhone](../../aspose.finance.ofx/presentmentnameaddress/eveningphone) { get; set; } | Gets or sets the customer’s evening telephone number. |
+| [NameAccountHeld](../../aspose.finance.ofx/presentmentnameaddress/nameaccountheld) { get; set; } | Gets or sets the customer’s name as it appears on the account. |
+| [PostalCode](../../aspose.finance.ofx/presentmentnameaddress/postalcode) { get; set; } | Gets or sets the customer’s postal code. |
+| [State](../../aspose.finance.ofx/presentmentnameaddress/state) { get; set; } | Gets or sets the customer’s state. |
 
 ### See Also
 

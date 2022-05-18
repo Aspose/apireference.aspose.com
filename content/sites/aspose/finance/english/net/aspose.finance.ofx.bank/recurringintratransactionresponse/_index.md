@@ -24,8 +24,11 @@ public class RecurringIntraTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Response](response) { get; set; } | Gets or sets the [`RecurringIntraResponse`](../recurringintraresponse) or [`RecurringIntraModResponse`](../recurringintramodresponse) or [`RecurringIntraCancellationResponse`](../recurringintracancellationresponse). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.bank/recurringintratransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Response](../../aspose.finance.ofx.bank/recurringintratransactionresponse/response) { get; set; } | Gets or sets the [`RecurringIntraResponse`](../recurringintraresponse) or [`RecurringIntraModResponse`](../recurringintramodresponse) or [`RecurringIntraCancellationResponse`](../recurringintracancellationresponse). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: LinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7800
+weight: 7810
 url: /net/aspose.finance.xbrl/linkbaseref/
 ---
 ## LinkbaseRef class
@@ -24,8 +24,15 @@ public abstract class LinkbaseRef : SimpleLink
 
 | Name | Description |
 | --- | --- |
-| [ArcroleReferences](arcrolereferences) { get; set; } | Gets or sets the collection of [`ArcroleReference`](../arcrolereference) objects in the linkbase. |
-| [RoleReferences](rolereferences) { get; set; } | Gets or sets the collection of [`RoleReference`](../rolereference) objects in the linkbase. |
+| [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | Gets or sets the simple link actuate attribute. |
+| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | Gets or sets the simple link arcrole. |
+| [ArcroleReferences](../../aspose.finance.xbrl/linkbaseref/arcrolereferences) { get; set; } | Gets or sets the collection of [`ArcroleReference`](../arcrolereference) objects in the linkbase. |
+| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | Gets or sets the simple link href URI. |
+| [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | Gets or sets the simple link role. |
+| [RoleReferences](../../aspose.finance.xbrl/linkbaseref/rolereferences) { get; set; } | Gets or sets the collection of [`RoleReference`](../rolereference) objects in the linkbase. |
+| [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | Gets or sets the simple link show attribute. |
+| [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | Gets or sets the simple link title. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ### See Also
 

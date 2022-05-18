@@ -24,8 +24,8 @@ public class Currency
 
 | Name | Description |
 | --- | --- |
-| [CurrencyRate](currencyrate) { get; set; } | Gets or sets the ratio, in decimal notation. |
-| [CurSym](cursym) { get; set; } | Gets or sets the currency identifier. |
+| [CurrencyRate](../../aspose.finance.ofx/currency/currencyrate) { get; set; } | Gets or sets the ratio, in decimal notation. |
+| [CurSym](../../aspose.finance.ofx/currency/cursym) { get; set; } | Gets or sets the currency identifier. |
 
 ### See Also
 

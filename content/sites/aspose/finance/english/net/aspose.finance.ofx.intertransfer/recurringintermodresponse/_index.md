@@ -24,9 +24,10 @@ public class RecurringInterModResponse : AbstractRecurringInterResponse
 
 | Name | Description |
 | --- | --- |
-| [InterResponse](interresponse) { get; set; } | Gets or sets the [`InterResponse`](./interresponse). |
-| [ModifyPending](modifypending) { get; set; } | Gets or sets the modify pending flag. Yes if the client requested that the server modify pending and future transfers. No if the client did not request that the server modify pending and future transfers. |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [InterResponse](../../aspose.finance.ofx.intertransfer/recurringintermodresponse/interresponse) { get; set; } | Gets or sets the [`InterResponse`](./interresponse). |
+| [ModifyPending](../../aspose.finance.ofx.intertransfer/recurringintermodresponse/modifypending) { get; set; } | Gets or sets the modify pending flag. Yes if the client requested that the server modify pending and future transfers. No if the client did not request that the server modify pending and future transfers. |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringintermodresponse/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [RecurringServerId](../../aspose.finance.ofx.intertransfer/abstractrecurringinterresponse/recurringserverid) { get; set; } | Gets or sets the server-assigned ID for this model. |
 
 ### See Also
 

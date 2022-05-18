@@ -24,8 +24,11 @@ public class GetMimeTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [GetMimeRequest](getmimerequest) { get; set; } | Gets or sets the [`GetMimeRequest`](./getmimerequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [GetMimeRequest](../../aspose.finance.ofx.email/getmimetransactionrequest/getmimerequest) { get; set; } | Gets or sets the [`GetMimeRequest`](./getmimerequest). |
+| [OfxExtension](../../aspose.finance.ofx.email/getmimetransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

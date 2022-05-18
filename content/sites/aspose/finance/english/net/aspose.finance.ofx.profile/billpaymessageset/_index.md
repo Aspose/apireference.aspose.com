@@ -24,7 +24,7 @@ public class BillPayMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [BillPayMessageSetV1](billpaymessagesetv1) { get; set; } | Gets or sets the [`BillPayMessageSetV1`](./billpaymessagesetv1). |
+| [BillPayMessageSetV1](../../aspose.finance.ofx.profile/billpaymessageset/billpaymessagesetv1) { get; set; } | Gets or sets the [`BillPayMessageSetV1`](./billpaymessagesetv1). |
 
 ### See Also
 

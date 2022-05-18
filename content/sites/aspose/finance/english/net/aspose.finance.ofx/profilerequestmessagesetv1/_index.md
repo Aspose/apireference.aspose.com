@@ -24,7 +24,7 @@ public class ProfileRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [ProfileTransactionRequests](profiletransactionrequests) { get; set; } | Gets or sets the collection of [`ProfileTransactionRequest`](../../aspose.finance.ofx.profile/profiletransactionrequest). |
+| [ProfileTransactionRequests](../../aspose.finance.ofx/profilerequestmessagesetv1/profiletransactionrequests) { get; set; } | Gets or sets the collection of [`ProfileTransactionRequest`](../../aspose.finance.ofx.profile/profiletransactionrequest). |
 
 ### See Also
 

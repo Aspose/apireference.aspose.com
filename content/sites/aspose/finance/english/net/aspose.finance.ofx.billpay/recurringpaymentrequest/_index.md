@@ -24,10 +24,10 @@ public class RecurringPaymentRequest : AbstractRecurringPaymentRequest
 
 | Name | Description |
 | --- | --- |
-| [FinalAmount](finalamount) { get; set; } | Gets or sets the amount of the final payment. |
-| [InitialAmount](initialamount) { get; set; } | Gets or sets the amount of the initial payment. |
-| [PaymentInfo](paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentrequest/finalamount) { get; set; } | Gets or sets the amount of the final payment. |
+| [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentrequest/initialamount) { get; set; } | Gets or sets the amount of the initial payment. |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentrequest/paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentrequest/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
 
 ### See Also
 

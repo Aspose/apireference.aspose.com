@@ -24,9 +24,10 @@ public class CreditcardMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [ClosingAvailable](closingavailable) { get; set; } | Gets or sets whether closing statement information available. |
-| [ImageProfile](imageprofile) { get; set; } | Gets or sets the [`ImageProfile`](./imageprofile). |
-| [PendingAvailable](pendingavailable) { get; set; } | Gets or sets the pending transaction download supported flag, defaults to false. |
+| [ClosingAvailable](../../aspose.finance.ofx.profile/creditcardmessagesetv1/closingavailable) { get; set; } | Gets or sets whether closing statement information available. |
+| [ImageProfile](../../aspose.finance.ofx.profile/creditcardmessagesetv1/imageprofile) { get; set; } | Gets or sets the [`ImageProfile`](./imageprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [PendingAvailable](../../aspose.finance.ofx.profile/creditcardmessagesetv1/pendingavailable) { get; set; } | Gets or sets the pending transaction download supported flag, defaults to false. |
 
 ### See Also
 

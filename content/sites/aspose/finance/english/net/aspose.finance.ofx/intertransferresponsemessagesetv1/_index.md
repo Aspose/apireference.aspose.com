@@ -24,10 +24,10 @@ public class InterTransferResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [InterSyncResponses](intersyncresponses) { get; set; } | Gets or sets the collection of [`InterSyncResponse`](../../aspose.finance.ofx.intertransfer/intersyncresponse). |
-| [InterTransactionResponses](intertransactionresponses) { get; set; } | Gets or sets the collection of [`InterTransactionResponse`](../../aspose.finance.ofx.intertransfer/intertransactionresponse). |
-| [RecurringInterSyncResponses](recurringintersyncresponses) { get; set; } | Gets or sets the collection of [`RecurringInterSyncResponse`](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse). |
-| [RecurringInterTransactionResponses](recurringintertransactionresponses) { get; set; } | Gets or sets the collection of [`RecurringInterTransactionResponse`](../../aspose.finance.ofx.intertransfer/recurringintertransactionresponse). |
+| [InterSyncResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/intersyncresponses) { get; set; } | Gets or sets the collection of [`InterSyncResponse`](../../aspose.finance.ofx.intertransfer/intersyncresponse). |
+| [InterTransactionResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/intertransactionresponses) { get; set; } | Gets or sets the collection of [`InterTransactionResponse`](../../aspose.finance.ofx.intertransfer/intertransactionresponse). |
+| [RecurringInterSyncResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/recurringintersyncresponses) { get; set; } | Gets or sets the collection of [`RecurringInterSyncResponse`](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse). |
+| [RecurringInterTransactionResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/recurringintertransactionresponses) { get; set; } | Gets or sets the collection of [`RecurringInterTransactionResponse`](../../aspose.finance.ofx.intertransfer/recurringintertransactionresponse). |
 
 ### See Also
 

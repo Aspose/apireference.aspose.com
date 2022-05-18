@@ -24,12 +24,12 @@ public class Balance
 
 | Name | Description |
 | --- | --- |
-| [BalanceType](balancetype) { get; set; } | Gets or sets the balance type. |
-| [Currency](currency) { get; set; } | Gets or sets the currency. |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the effective date of the given balance. |
-| [Description](description) { get; set; } | Gets or sets the balance description. |
-| [Name](name) { get; set; } | Gets or sets the balance name |
-| [Value](value) { get; set; } | Gets or sets the balance value. |
+| [BalanceType](../../aspose.finance.ofx/balance/balancetype) { get; set; } | Gets or sets the balance type. |
+| [Currency](../../aspose.finance.ofx/balance/currency) { get; set; } | Gets or sets the currency. |
+| [DateAsOf](../../aspose.finance.ofx/balance/dateasof) { get; set; } | Gets or sets the effective date of the given balance. |
+| [Description](../../aspose.finance.ofx/balance/description) { get; set; } | Gets or sets the balance description. |
+| [Name](../../aspose.finance.ofx/balance/name) { get; set; } | Gets or sets the balance name |
+| [Value](../../aspose.finance.ofx/balance/value) { get; set; } | Gets or sets the balance value. |
 
 ### See Also
 

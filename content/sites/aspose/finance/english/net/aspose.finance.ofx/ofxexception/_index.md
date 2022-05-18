@@ -18,7 +18,7 @@ public class OfxException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [Code](code) { get; } | Represenets custom exception code. |
+| [Code](../../aspose.finance.ofx/ofxexception/code) { get; } | Represenets custom exception code. |
 
 ### See Also
 

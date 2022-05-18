@@ -24,7 +24,8 @@ public class SecurityListMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [SecurityListRequestDownload](securitylistrequestdownload) { get; set; } | Gets or sets whether the FI server responds to security list requests. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [SecurityListRequestDownload](../../aspose.finance.ofx.profile/securitylistmessagesetv1/securitylistrequestdownload) { get; set; } | Gets or sets whether the FI server responds to security list requests. |
 
 ### See Also
 

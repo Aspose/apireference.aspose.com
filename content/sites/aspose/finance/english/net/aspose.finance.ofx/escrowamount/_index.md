@@ -24,12 +24,12 @@ public class EscrowAmount
 
 | Name | Description |
 | --- | --- |
-| [EscrowFees](escrowfees) { get; set; } | Gets or sets the amount of fees set aside in Escrow. |
-| [EscrowInsurance](escrowinsurance) { get; set; } | Gets or sets the amount of insurance set aside in Escrow. |
-| [EscrowOther](escrowother) { get; set; } | Gets or sets the amount of other amount set aside in Escrow. |
-| [EscrowPmi](escrowpmi) { get; set; } | Gets or sets the amount of PMI set aside in Escrow. |
-| [EscrowTax](escrowtax) { get; set; } | Gets or sets the amount of tax set aside in Escrow. |
-| [EscrowTotal](escrowtotal) { get; set; } | Gets or sets the total amount of payment applied to Escrow. |
+| [EscrowFees](../../aspose.finance.ofx/escrowamount/escrowfees) { get; set; } | Gets or sets the amount of fees set aside in Escrow. |
+| [EscrowInsurance](../../aspose.finance.ofx/escrowamount/escrowinsurance) { get; set; } | Gets or sets the amount of insurance set aside in Escrow. |
+| [EscrowOther](../../aspose.finance.ofx/escrowamount/escrowother) { get; set; } | Gets or sets the amount of other amount set aside in Escrow. |
+| [EscrowPmi](../../aspose.finance.ofx/escrowamount/escrowpmi) { get; set; } | Gets or sets the amount of PMI set aside in Escrow. |
+| [EscrowTax](../../aspose.finance.ofx/escrowamount/escrowtax) { get; set; } | Gets or sets the amount of tax set aside in Escrow. |
+| [EscrowTotal](../../aspose.finance.ofx/escrowamount/escrowtotal) { get; set; } | Gets or sets the total amount of payment applied to Escrow. |
 
 ### See Also
 

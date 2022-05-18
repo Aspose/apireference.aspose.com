@@ -24,8 +24,8 @@ public class PaymentInstrument
 
 | Name | Description |
 | --- | --- |
-| [Brand](brand) { get; set; } | Gets or sets the accepted brand for given payment type. |
-| [PaymentInstrumentType](paymentinstrumenttype) { get; set; } | Gets or sets the payment type. |
+| [Brand](../../aspose.finance.ofx.billerdirectory/paymentinstrument/brand) { get; set; } | Gets or sets the accepted brand for given payment type. |
+| [PaymentInstrumentType](../../aspose.finance.ofx.billerdirectory/paymentinstrument/paymentinstrumenttype) { get; set; } | Gets or sets the payment type. |
 
 ### See Also
 

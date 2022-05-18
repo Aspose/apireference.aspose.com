@@ -24,7 +24,7 @@ public class AccountInfoRequest
 
 | Name | Description |
 | --- | --- |
-| [AccountUpdateDate](accountupdatedate) { get; set; } | Gets or sets the date and time of last update to account information on the server. |
+| [AccountUpdateDate](../../aspose.finance.ofx/accountinforequest/accountupdatedate) { get; set; } | Gets or sets the date and time of last update to account information on the server. |
 
 ### See Also
 

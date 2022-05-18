@@ -22,16 +22,16 @@ public class RecipientAddress
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the recipient address, line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the recipient address, line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the recipient address, line 3. |
-| [City](city) { get; set; } | Gets or sets the recipient city. |
-| [CountryString](countrystring) { get; set; } | Gets or sets the recipient country (if not U.S.), do not abbreviate. |
-| [PHONE](phone) { get; set; } | Gets or sets the recipient telephone number. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the recipient postal code. |
-| [RecipientName1](recipientname1) { get; set; } | Gets or sets the name of recipient, line 1. |
-| [RecipientName2](recipientname2) { get; set; } | Gets or sets the name of recipient, line 2. |
-| [State](state) { get; set; } | Gets or sets the recipient state. |
+| [Address1](../../aspose.finance.ofx.tax1099/recipientaddress/address1) { get; set; } | Gets or sets the recipient address, line 1. |
+| [Address2](../../aspose.finance.ofx.tax1099/recipientaddress/address2) { get; set; } | Gets or sets the recipient address, line 2. |
+| [Address3](../../aspose.finance.ofx.tax1099/recipientaddress/address3) { get; set; } | Gets or sets the recipient address, line 3. |
+| [City](../../aspose.finance.ofx.tax1099/recipientaddress/city) { get; set; } | Gets or sets the recipient city. |
+| [CountryString](../../aspose.finance.ofx.tax1099/recipientaddress/countrystring) { get; set; } | Gets or sets the recipient country (if not U.S.), do not abbreviate. |
+| [PHONE](../../aspose.finance.ofx.tax1099/recipientaddress/phone) { get; set; } | Gets or sets the recipient telephone number. |
+| [PostalCode](../../aspose.finance.ofx.tax1099/recipientaddress/postalcode) { get; set; } | Gets or sets the recipient postal code. |
+| [RecipientName1](../../aspose.finance.ofx.tax1099/recipientaddress/recipientname1) { get; set; } | Gets or sets the name of recipient, line 1. |
+| [RecipientName2](../../aspose.finance.ofx.tax1099/recipientaddress/recipientname2) { get; set; } | Gets or sets the name of recipient, line 2. |
+| [State](../../aspose.finance.ofx.tax1099/recipientaddress/state) { get; set; } | Gets or sets the recipient state. |
 
 ### See Also
 

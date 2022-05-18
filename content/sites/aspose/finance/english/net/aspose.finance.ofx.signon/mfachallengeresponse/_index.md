@@ -24,7 +24,7 @@ public class MFAChallengeResponse
 
 | Name | Description |
 | --- | --- |
-| [MFAChallenges](mfachallenges) { get; set; } | Gets or sets the collection of [`MFAChallenge`](../mfachallenge). |
+| [MFAChallenges](../../aspose.finance.ofx.signon/mfachallengeresponse/mfachallenges) { get; set; } | Gets or sets the collection of [`MFAChallenge`](../mfachallenge). |
 
 ### See Also
 

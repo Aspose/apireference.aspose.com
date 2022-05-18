@@ -24,8 +24,9 @@ public class Tax1098MessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [Tax1098Download](tax1098download) { get; set; } | Gets or sets whether server supports 1098 tax form download. |
-| [TaxYearSupporteds](taxyearsupporteds) { get; set; } | Gets or sets years supported for 1098 download for this server. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [Tax1098Download](../../aspose.finance.ofx.profile/tax1098messagesetv1/tax1098download) { get; set; } | Gets or sets whether server supports 1098 tax form download. |
+| [TaxYearSupporteds](../../aspose.finance.ofx.profile/tax1098messagesetv1/taxyearsupporteds) { get; set; } | Gets or sets years supported for 1098 download for this server. |
 
 ### See Also
 

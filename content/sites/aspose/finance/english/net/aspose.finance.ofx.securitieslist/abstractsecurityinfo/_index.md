@@ -18,7 +18,7 @@ public abstract class AbstractSecurityInfo
 
 | Name | Description |
 | --- | --- |
-| [SecurityInfo](securityinfo) { get; set; } | Gets or sets the [`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Gets or sets the [`GeneralSecurityInfo`](../generalsecurityinfo). |
 
 ### See Also
 

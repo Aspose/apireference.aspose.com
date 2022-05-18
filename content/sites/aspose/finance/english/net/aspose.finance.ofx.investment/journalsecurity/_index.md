@@ -24,10 +24,11 @@ public class JournalSecurity : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SubAccountFrom](subaccountfrom) { get; set; } | Gets or sets the sub-account that security or cash is being transferred from. |
-| [SubAccountTo](subaccountto) { get; set; } | Gets or sets the sub-account that security or cash is being transferred to. |
-| [Units](units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [SecurityId](../../aspose.finance.ofx.investment/journalsecurity/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SubAccountFrom](../../aspose.finance.ofx.investment/journalsecurity/subaccountfrom) { get; set; } | Gets or sets the sub-account that security or cash is being transferred from. |
+| [SubAccountTo](../../aspose.finance.ofx.investment/journalsecurity/subaccountto) { get; set; } | Gets or sets the sub-account that security or cash is being transferred to. |
+| [Units](../../aspose.finance.ofx.investment/journalsecurity/units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
 
 ### See Also
 

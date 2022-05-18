@@ -24,10 +24,11 @@ public class PayeeResponse : AbstractPayeeResponse
 
 | Name | Description |
 | --- | --- |
-| [BankAccountTo](bankaccountto) { get; set; } | Gets or sets the destination [`BankAccount`](../../aspose.finance.ofx/bankaccount), specified in countries that pay using transfers |
-| [ExtendedPayee](extendedpayee) { get; set; } | Gets or sets the [`ExtendedPayee`](../extendedpayee). |
-| [Payee](payee) { get; set; } | Gets or sets the complete [`Payee`](./payee) information. |
-| [PayeeAccounts](payeeaccounts) { get; set; } | Gets or sets the collection user’s account number with the payee . |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeeresponse/bankaccountto) { get; set; } | Gets or sets the destination [`BankAccount`](../../aspose.finance.ofx/bankaccount), specified in countries that pay using transfers |
+| [ExtendedPayee](../../aspose.finance.ofx.billpay/payeeresponse/extendedpayee) { get; set; } | Gets or sets the [`ExtendedPayee`](../extendedpayee). |
+| [Payee](../../aspose.finance.ofx.billpay/payeeresponse/payee) { get; set; } | Gets or sets the complete [`Payee`](./payee) information. |
+| [PayeeAccounts](../../aspose.finance.ofx.billpay/payeeresponse/payeeaccounts) { get; set; } | Gets or sets the collection user’s account number with the payee . |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
 
 ### See Also
 

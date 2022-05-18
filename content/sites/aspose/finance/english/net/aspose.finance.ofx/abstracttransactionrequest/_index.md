@@ -18,9 +18,9 @@ public class AbstractTransactionRequest : AbstractRequest
 
 | Name | Description |
 | --- | --- |
-| [ClientCookie](clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
-| [TransactionAuthorizationNumber](transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
-| [TransactionUniqueId](transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

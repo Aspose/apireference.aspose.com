@@ -24,11 +24,12 @@ public class StockInfo : AbstractSecurityInfo
 
 | Name | Description |
 | --- | --- |
-| [AssetClass](assetclass) { get; set; } | Gets or sets the asset class. |
-| [FIAssetClass](fiassetclass) { get; set; } | Gets or sets the text string containing an FI defined asset class. |
-| [StockType](stocktype) { get; set; } | Gets or sets the stock type |
-| [Yield](yield) { get; set; } | Gets or sets the current yield reported as the dividend expressed as a portion of the current stock price. |
-| [YieldAsOfDate](yieldasofdate) { get; set; } | Gets or sets the as-of date for yield value. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/stockinfo/assetclass) { get; set; } | Gets or sets the asset class. |
+| [FIAssetClass](../../aspose.finance.ofx.securitieslist/stockinfo/fiassetclass) { get; set; } | Gets or sets the text string containing an FI defined asset class. |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Gets or sets the [`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [StockType](../../aspose.finance.ofx.securitieslist/stockinfo/stocktype) { get; set; } | Gets or sets the stock type |
+| [Yield](../../aspose.finance.ofx.securitieslist/stockinfo/yield) { get; set; } | Gets or sets the current yield reported as the dividend expressed as a portion of the current stock price. |
+| [YieldAsOfDate](../../aspose.finance.ofx.securitieslist/stockinfo/yieldasofdate) { get; set; } | Gets or sets the as-of date for yield value. |
 
 ### See Also
 

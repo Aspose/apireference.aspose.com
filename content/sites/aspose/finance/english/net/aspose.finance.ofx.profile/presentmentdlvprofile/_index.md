@@ -24,11 +24,11 @@ public class PresentmentDlvProfile
 
 | Name | Description |
 | --- | --- |
-| [CanSupportGroupId](cansupportgroupid) { get; set; } | Gets or sets whether supports account information requests for a group of users. |
-| [CanSupportImages](cansupportimages) { get; set; } | Gets or sets whether supports delivery of images as multipart MIME. |
-| [CanUpdatePresentmentNameAddress](canupdatepresentmentnameaddress) { get; set; } | Gets or sets whether supports update of the [`PresentmentNameAddress`](../../aspose.finance.ofx/presentmentnameaddress) associated with a particular bill, |
-| [ProcessingDaysOffs](processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
-| [ProcessingEndTime](processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
+| [CanSupportGroupId](../../aspose.finance.ofx.profile/presentmentdlvprofile/cansupportgroupid) { get; set; } | Gets or sets whether supports account information requests for a group of users. |
+| [CanSupportImages](../../aspose.finance.ofx.profile/presentmentdlvprofile/cansupportimages) { get; set; } | Gets or sets whether supports delivery of images as multipart MIME. |
+| [CanUpdatePresentmentNameAddress](../../aspose.finance.ofx.profile/presentmentdlvprofile/canupdatepresentmentnameaddress) { get; set; } | Gets or sets whether supports update of the [`PresentmentNameAddress`](../../aspose.finance.ofx/presentmentnameaddress) associated with a particular bill, |
+| [ProcessingDaysOffs](../../aspose.finance.ofx.profile/presentmentdlvprofile/processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
+| [ProcessingEndTime](../../aspose.finance.ofx.profile/presentmentdlvprofile/processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
 
 ### See Also
 

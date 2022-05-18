@@ -24,7 +24,7 @@ public class MFAChallengeRequest
 
 | Name | Description |
 | --- | --- |
-| [ClientDate](clientdate) { get; set; } | Gets or sets the date and time of the request from the client computer. |
+| [ClientDate](../../aspose.finance.ofx.signon/mfachallengerequest/clientdate) { get; set; } | Gets or sets the date and time of the request from the client computer. |
 
 ### See Also
 

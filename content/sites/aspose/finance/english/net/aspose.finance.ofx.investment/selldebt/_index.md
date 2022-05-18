@@ -24,8 +24,9 @@ public class SellDebt : AbstractInvestmentSellTransaction
 
 | Name | Description |
 | --- | --- |
-| [AccruedInterest](accruedinterest) { get; set; } | Gets or sets the accrued interest. |
-| [SellReason](sellreason) { get; set; } | Gets or sets the reason the sell of a debt security was generated. |
+| [AccruedInterest](../../aspose.finance.ofx.investment/selldebt/accruedinterest) { get; set; } | Gets or sets the accrued interest. |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Gets or sets the [`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [SellReason](../../aspose.finance.ofx.investment/selldebt/sellreason) { get; set; } | Gets or sets the reason the sell of a debt security was generated. |
 
 ### See Also
 

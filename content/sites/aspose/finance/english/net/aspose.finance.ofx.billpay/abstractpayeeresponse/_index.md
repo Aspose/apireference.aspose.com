@@ -18,7 +18,7 @@ public abstract class AbstractPayeeResponse
 
 | Name | Description |
 | --- | --- |
-| [PayeeListId](payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
 
 ### See Also
 

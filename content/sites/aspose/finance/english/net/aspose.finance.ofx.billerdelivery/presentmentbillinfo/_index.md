@@ -24,27 +24,27 @@ public class PresentmentBillInfo
 
 | Name | Description |
 | --- | --- |
-| [AccountBalance](accountbalance) { get; set; } | Gets or sets the balance of the account at the end of the current period. |
-| [Activity](activity) { get; set; } | Gets or sets the net inflows and outflows for the account since the last period. |
-| [AmountDue](amountdue) { get; set; } | Gets or sets the full payment amount due. |
-| [BillDate](billdate) { get; set; } | Gets or sets the bill date. |
-| [BillDetailTable](billdetailtable) { get; set; } | Gets or sets the [`BillDetailTable`](./billdetailtable). |
-| [BillId](billid) { get; set; } | Gets or sets the identifier for this bill within the bill publisher. |
-| [BillPaymentStatuses](billpaymentstatuses) { get; set; } | Gets or sets the collection of [`BillPaymentStatus`](../billpaymentstatus). |
-| [BillRefInfo](billrefinfo) { get; set; } | Gets or sets the biller-defined text to include with the payment, for the biller’s Accounts Receivable reconciliation. |
-| [BillStatuses](billstatuses) { get; set; } | Gets or sets the collection of [`BillStatus`](../billstatus). |
-| [BillType](billtype) { get; set; } | Gets or sets the bill Type. |
-| [CloseDate](closedate) { get; set; } | Gets or sets the closing statement date. |
-| [DetailAvailable](detailavailable) { get; set; } | Gets or sets whether structured detail is available. |
-| [Invoice](invoice) { get; set; } | Gets or sets the [`Invoice`](./invoice). |
-| [MinAmountDue](minamountdue) { get; set; } | Gets or sets the minimum payment amount due. |
-| [NotifyDesired](notifydesired) { get; set; } | Gets or sets whether a delivery notification is desired. |
-| [OpenDate](opendate) { get; set; } | Gets or sets the opening statement date. |
-| [PayeeId](payeeid) { get; set; } | Gets or sets the payee identifier. |
-| [PaymentDueDate](paymentduedate) { get; set; } | Gets or sets the payment due date. |
-| [PresentmentAccountFrom](presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
-| [PrevBalance](prevbalance) { get; set; } | Gets or sets the balance of the account as of the previous period. |
-| [StatementImage](statementimage) { get; set; } | Gets or sets the [`StatementImage`](./statementimage). |
+| [AccountBalance](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/accountbalance) { get; set; } | Gets or sets the balance of the account at the end of the current period. |
+| [Activity](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/activity) { get; set; } | Gets or sets the net inflows and outflows for the account since the last period. |
+| [AmountDue](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/amountdue) { get; set; } | Gets or sets the full payment amount due. |
+| [BillDate](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/billdate) { get; set; } | Gets or sets the bill date. |
+| [BillDetailTable](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/billdetailtable) { get; set; } | Gets or sets the [`BillDetailTable`](./billdetailtable). |
+| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/billid) { get; set; } | Gets or sets the identifier for this bill within the bill publisher. |
+| [BillPaymentStatuses](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/billpaymentstatuses) { get; set; } | Gets or sets the collection of [`BillPaymentStatus`](../billpaymentstatus). |
+| [BillRefInfo](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/billrefinfo) { get; set; } | Gets or sets the biller-defined text to include with the payment, for the biller’s Accounts Receivable reconciliation. |
+| [BillStatuses](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/billstatuses) { get; set; } | Gets or sets the collection of [`BillStatus`](../billstatus). |
+| [BillType](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/billtype) { get; set; } | Gets or sets the bill Type. |
+| [CloseDate](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/closedate) { get; set; } | Gets or sets the closing statement date. |
+| [DetailAvailable](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/detailavailable) { get; set; } | Gets or sets whether structured detail is available. |
+| [Invoice](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice) { get; set; } | Gets or sets the [`Invoice`](./invoice). |
+| [MinAmountDue](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/minamountdue) { get; set; } | Gets or sets the minimum payment amount due. |
+| [NotifyDesired](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/notifydesired) { get; set; } | Gets or sets whether a delivery notification is desired. |
+| [OpenDate](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/opendate) { get; set; } | Gets or sets the opening statement date. |
+| [PayeeId](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/payeeid) { get; set; } | Gets or sets the payee identifier. |
+| [PaymentDueDate](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/paymentduedate) { get; set; } | Gets or sets the payment due date. |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [PrevBalance](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/prevbalance) { get; set; } | Gets or sets the balance of the account as of the previous period. |
+| [StatementImage](../../aspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage) { get; set; } | Gets or sets the [`StatementImage`](./statementimage). |
 
 ### See Also
 

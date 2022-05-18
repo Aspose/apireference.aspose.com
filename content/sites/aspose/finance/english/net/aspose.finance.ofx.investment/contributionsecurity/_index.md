@@ -24,10 +24,10 @@ public class ContributionSecurity
 
 | Name | Description |
 | --- | --- |
-| [ContributionAmts](contributionamts) { get; set; } | Gets or sets the collection of [`ContributionAmt`](../contributionamt). |
-| [ContributionPcts](contributionpcts) { get; set; } | Gets or sets the collection of [`ContributionPct`](../contributionpct). |
-| [ContributionType](contributiontype) { get; set; } | Gets or sets current contribution allocation is Percent or Amount. |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [ContributionAmts](../../aspose.finance.ofx.investment/contributionsecurity/contributionamts) { get; set; } | Gets or sets the collection of [`ContributionAmt`](../contributionamt). |
+| [ContributionPcts](../../aspose.finance.ofx.investment/contributionsecurity/contributionpcts) { get; set; } | Gets or sets the collection of [`ContributionPct`](../contributionpct). |
+| [ContributionType](../../aspose.finance.ofx.investment/contributionsecurity/contributiontype) { get; set; } | Gets or sets current contribution allocation is Percent or Amount. |
+| [SecurityId](../../aspose.finance.ofx.investment/contributionsecurity/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
 
 ### See Also
 

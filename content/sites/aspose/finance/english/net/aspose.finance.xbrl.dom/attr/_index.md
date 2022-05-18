@@ -18,19 +18,19 @@ public class Attr
 
 | Name | Description |
 | --- | --- |
-| [IsId](isid) { get; } | Returns whether this attribute is known to be of type ID (i.e. to contain an identifier for its owner element) or not. |
-| [LocalName](localname) { get; } | Gets the local name of attribute. |
-| [Name](name) { get; } | Gets the name of this attribute. |
-| [NamespaceUri](namespaceuri) { get; } | Gets the namespace URI of attribute. |
-| [Prefix](prefix) { get; } | Gets the namespace prefix of attribute. |
-| [Specified](specified) { get; } | True if this attribute was explicitly given a value in the instance document, false otherwise. |
-| [Value](value) { get; set; } | Gets the value of attribute. |
+| [IsId](../../aspose.finance.xbrl.dom/attr/isid) { get; } | Returns whether this attribute is known to be of type ID (i.e. to contain an identifier for its owner element) or not. |
+| [LocalName](../../aspose.finance.xbrl.dom/attr/localname) { get; } | Gets the local name of attribute. |
+| [Name](../../aspose.finance.xbrl.dom/attr/name) { get; } | Gets the name of this attribute. |
+| [NamespaceUri](../../aspose.finance.xbrl.dom/attr/namespaceuri) { get; } | Gets the namespace URI of attribute. |
+| [Prefix](../../aspose.finance.xbrl.dom/attr/prefix) { get; } | Gets the namespace prefix of attribute. |
+| [Specified](../../aspose.finance.xbrl.dom/attr/specified) { get; } | True if this attribute was explicitly given a value in the instance document, false otherwise. |
+| [Value](../../aspose.finance.xbrl.dom/attr/value) { get; set; } | Gets the value of attribute. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetHashCode](gethashcode)() | Gets the hash code of the attribute. |
+| override [GetHashCode](../../aspose.finance.xbrl.dom/attr/gethashcode)() | Gets the hash code of the attribute. |
 
 ### See Also
 

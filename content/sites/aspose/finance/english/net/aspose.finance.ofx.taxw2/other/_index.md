@@ -24,8 +24,8 @@ public class Other
 
 | Name | Description |
 | --- | --- |
-| [OtherAmount](otheramount) { get; set; } | Gets or sets the box 14 entry dollar amount. |
-| [OtherDescription](otherdescription) { get; set; } | Gets or sets the box 14 entry description. |
+| [OtherAmount](../../aspose.finance.ofx.taxw2/other/otheramount) { get; set; } | Gets or sets the box 14 entry dollar amount. |
+| [OtherDescription](../../aspose.finance.ofx.taxw2/other/otherdescription) { get; set; } | Gets or sets the box 14 entry description. |
 
 ### See Also
 

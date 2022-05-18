@@ -24,8 +24,8 @@ public class LastPmtInfoType
 
 | Name | Description |
 | --- | --- |
-| [LastPaymentAmount](lastpaymentamount) { get; set; } | Gets or sets the amount of payment received for the account. |
-| [LastPaymentDate](lastpaymentdate) { get; set; } | Gets or sets the date of last payment received for the account. |
+| [LastPaymentAmount](../../aspose.finance.ofx/lastpmtinfotype/lastpaymentamount) { get; set; } | Gets or sets the amount of payment received for the account. |
+| [LastPaymentDate](../../aspose.finance.ofx/lastpmtinfotype/lastpaymentdate) { get; set; } | Gets or sets the date of last payment received for the account. |
 
 ### See Also
 

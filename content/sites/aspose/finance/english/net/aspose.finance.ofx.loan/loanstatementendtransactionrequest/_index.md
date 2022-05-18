@@ -24,8 +24,11 @@ public class LoanStatementEndTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [LoanStatementEndRequest](loanstatementendrequest) { get; set; } | Gets or sets the [`LoanStatementEndRequest`](./loanstatementendrequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [LoanStatementEndRequest](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/loanstatementendrequest) { get; set; } | Gets or sets the [`LoanStatementEndRequest`](./loanstatementendrequest). |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

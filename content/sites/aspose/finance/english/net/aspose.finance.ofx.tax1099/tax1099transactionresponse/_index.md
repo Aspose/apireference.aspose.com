@@ -24,7 +24,10 @@ public class Tax1099TransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [Tax1099Response](tax1099response) { get; set; } | Gets or sets the [`Tax1099Response`](./tax1099response). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [Tax1099Response](../../aspose.finance.ofx.tax1099/tax1099transactionresponse/tax1099response) { get; set; } | Gets or sets the [`Tax1099Response`](./tax1099response). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

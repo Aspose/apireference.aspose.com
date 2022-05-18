@@ -24,14 +24,14 @@ public class StudentAddress
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the student address, line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the student address, line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the student address, line 3. |
-| [City](city) { get; set; } | Gets or sets the student address city. |
-| [CountryString](countrystring) { get; set; } | Gets or sets the student address country. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the student address postal code. |
-| [State](state) { get; set; } | Gets or sets the student address state. |
-| [StudentName](studentname) { get; set; } | Gets or sets the name of student. |
+| [Address1](../../aspose.finance.ofx.tax1098/studentaddress/address1) { get; set; } | Gets or sets the student address, line 1. |
+| [Address2](../../aspose.finance.ofx.tax1098/studentaddress/address2) { get; set; } | Gets or sets the student address, line 2. |
+| [Address3](../../aspose.finance.ofx.tax1098/studentaddress/address3) { get; set; } | Gets or sets the student address, line 3. |
+| [City](../../aspose.finance.ofx.tax1098/studentaddress/city) { get; set; } | Gets or sets the student address city. |
+| [CountryString](../../aspose.finance.ofx.tax1098/studentaddress/countrystring) { get; set; } | Gets or sets the student address country. |
+| [PostalCode](../../aspose.finance.ofx.tax1098/studentaddress/postalcode) { get; set; } | Gets or sets the student address postal code. |
+| [State](../../aspose.finance.ofx.tax1098/studentaddress/state) { get; set; } | Gets or sets the student address state. |
+| [StudentName](../../aspose.finance.ofx.tax1098/studentaddress/studentname) { get; set; } | Gets or sets the name of student. |
 
 ### See Also
 

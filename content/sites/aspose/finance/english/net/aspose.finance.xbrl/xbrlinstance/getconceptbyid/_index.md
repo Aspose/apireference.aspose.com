@@ -3,7 +3,7 @@ title: GetConceptById
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.finance.xbrl/xbrlinstance/getconceptbyid/
 ---
 ## XbrlInstance.GetConceptById method

@@ -24,7 +24,7 @@ public class WireTransferMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [WireTransferMessageSetV1](wiretransfermessagesetv1) { get; set; } | Gets or sets the [`WireTransferMessageSetV1`](./wiretransfermessagesetv1). |
+| [WireTransferMessageSetV1](../../aspose.finance.ofx.profile/wiretransfermessageset/wiretransfermessagesetv1) { get; set; } | Gets or sets the [`WireTransferMessageSetV1`](./wiretransfermessagesetv1). |
 
 ### See Also
 

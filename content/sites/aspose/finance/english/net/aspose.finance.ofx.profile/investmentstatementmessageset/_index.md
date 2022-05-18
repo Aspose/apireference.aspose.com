@@ -24,7 +24,7 @@ public class InvestmentStatementMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [InvestmentStatementMessageSetV1](investmentstatementmessagesetv1) { get; set; } | Gets or sets the [`InvestmentStatementMessageSetV1`](./investmentstatementmessagesetv1). |
+| [InvestmentStatementMessageSetV1](../../aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessagesetv1) { get; set; } | Gets or sets the [`InvestmentStatementMessageSetV1`](./investmentstatementmessagesetv1). |
 
 ### See Also
 

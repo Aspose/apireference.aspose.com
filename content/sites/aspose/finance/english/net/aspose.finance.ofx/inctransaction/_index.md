@@ -24,9 +24,9 @@ public class IncTransaction
 
 | Name | Description |
 | --- | --- |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date of statement requested |
-| [Include](include) { get; set; } | Gets or sets whether include transactions flag |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date of statement requested |
+| [EndDate](../../aspose.finance.ofx/inctransaction/enddate) { get; set; } | Gets or sets the end date of statement requested |
+| [Include](../../aspose.finance.ofx/inctransaction/include) { get; set; } | Gets or sets whether include transactions flag |
+| [StartDate](../../aspose.finance.ofx/inctransaction/startdate) { get; set; } | Gets or sets the start date of statement requested |
 
 ### See Also
 

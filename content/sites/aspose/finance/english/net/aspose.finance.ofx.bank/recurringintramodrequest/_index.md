@@ -24,10 +24,10 @@ public class RecurringIntraModRequest : AbstractRecurringIntraRequest
 
 | Name | Description |
 | --- | --- |
-| [IntraRequest](intrarequest) { get; set; } | Gets or sets the [`IntraRequest`](./intrarequest). |
-| [ModifyPending](modifypending) { get; set; } | Gets or sets the modify pending flag. |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
-| [RecurringServerId](recurringserverid) { get; set; } | Gets or sets ID assigned by the server to the model being modified. |
+| [IntraRequest](../../aspose.finance.ofx.bank/recurringintramodrequest/intrarequest) { get; set; } | Gets or sets the [`IntraRequest`](./intrarequest). |
+| [ModifyPending](../../aspose.finance.ofx.bank/recurringintramodrequest/modifypending) { get; set; } | Gets or sets the modify pending flag. |
+| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintramodrequest/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintramodrequest/recurringserverid) { get; set; } | Gets or sets ID assigned by the server to the model being modified. |
 
 ### See Also
 

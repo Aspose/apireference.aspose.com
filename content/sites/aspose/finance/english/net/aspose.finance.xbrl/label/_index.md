@@ -3,7 +3,7 @@ title: Label
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7760
+weight: 7770
 url: /net/aspose.finance.xbrl/label/
 ---
 ## Label class
@@ -18,7 +18,12 @@ public class Label : Resource
 
 | Name | Description |
 | --- | --- |
-| [Text](text) { get; set; } | Gets or sets the text of the label. |
+| [Id](../../aspose.finance.xbrl/resource/id) { get; set; } | Gets or sets the id of the resource. |
+| [Label](../../aspose.finance.xbrl/resource/label) { get; set; } | Gets or sets the label of the resource. |
+| [Role](../../aspose.finance.xbrl/resource/role) { get; set; } | Gets or sets the role of the resource. |
+| [Text](../../aspose.finance.xbrl/label/text) { get; set; } | Gets or sets the text of the label. |
+| [Title](../../aspose.finance.xbrl/resource/title) { get; set; } | Gets or sets the title of the resource. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ### See Also
 

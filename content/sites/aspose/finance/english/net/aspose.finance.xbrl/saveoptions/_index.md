@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7990
+weight: 8000
 url: /net/aspose.finance.xbrl/saveoptions/
 ---
 ## SaveOptions class
@@ -24,9 +24,9 @@ public class SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [SaveFormat](saveformat) { get; set; } | Gets and sets the save file format. |
-| [SaveLinkbasesToDesticationFolder](savelinkbasestodesticationfolder) { get; set; } | Gets or sets whether copy local linkbase files to save folder. |
-| [SaveSchemasToDesticationFolder](saveschemastodesticationfolder) { get; set; } | Gets or sets whether copy local schema files to save folder. |
+| [SaveFormat](../../aspose.finance.xbrl/saveoptions/saveformat) { get; set; } | Gets and sets the save file format. |
+| [SaveLinkbasesToDesticationFolder](../../aspose.finance.xbrl/saveoptions/savelinkbasestodesticationfolder) { get; set; } | Gets or sets whether copy local linkbase files to save folder. |
+| [SaveSchemasToDesticationFolder](../../aspose.finance.xbrl/saveoptions/saveschemastodesticationfolder) { get; set; } | Gets or sets whether copy local schema files to save folder. |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class RecurringIntraRequest : AbstractRecurringIntraRequest
 
 | Name | Description |
 | --- | --- |
-| [IntraRequest](intrarequest) { get; set; } | Gets or sets the [`IntraRequest`](./intrarequest). |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [IntraRequest](../../aspose.finance.ofx.bank/recurringintrarequest/intrarequest) { get; set; } | Gets or sets the [`IntraRequest`](./intrarequest). |
+| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintrarequest/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
 
 ### See Also
 

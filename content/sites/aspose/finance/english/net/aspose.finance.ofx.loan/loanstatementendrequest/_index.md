@@ -24,9 +24,9 @@ public class LoanStatementEndRequest
 
 | Name | Description |
 | --- | --- |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date of statement closing information. |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for statement closing information. |
+| [EndDate](../../aspose.finance.ofx.loan/loanstatementendrequest/enddate) { get; set; } | Gets or sets the end date of statement closing information. |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementendrequest/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [StartDate](../../aspose.finance.ofx.loan/loanstatementendrequest/startdate) { get; set; } | Gets or sets the start date for statement closing information. |
 
 ### See Also
 

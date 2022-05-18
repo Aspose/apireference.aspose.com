@@ -3,7 +3,7 @@ title: GetContextById
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 190
 url: /net/aspose.finance.xbrl/xbrlinstance/getcontextbyid/
 ---
 ## XbrlInstance.GetContextById method

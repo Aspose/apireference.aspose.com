@@ -24,7 +24,7 @@ public class EmailMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [EmailMessageSetV1](emailmessagesetv1) { get; set; } | Gets or sets the [`EmailMessageSetV1`](./emailmessagesetv1). |
+| [EmailMessageSetV1](../../aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1) { get; set; } | Gets or sets the [`EmailMessageSetV1`](./emailmessagesetv1). |
 
 ### See Also
 

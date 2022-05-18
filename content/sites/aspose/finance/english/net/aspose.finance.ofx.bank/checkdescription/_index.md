@@ -24,10 +24,10 @@ public class CheckDescription : AbstractCheckInfo
 
 | Name | Description |
 | --- | --- |
-| [CheckNumber](checknumber) { get; set; } | Gets or sets the check number. |
-| [Name](name) { get; set; } | Gets or sets the payee name or description. |
-| [TransactionAmount](transactionamount) { get; set; } | Gets or sets the transaction amount. |
-| [UserDate](userdate) { get; set; } | Gets or sets the date on check. |
+| [CheckNumber](../../aspose.finance.ofx.bank/checkdescription/checknumber) { get; set; } | Gets or sets the check number. |
+| [Name](../../aspose.finance.ofx.bank/checkdescription/name) { get; set; } | Gets or sets the payee name or description. |
+| [TransactionAmount](../../aspose.finance.ofx.bank/checkdescription/transactionamount) { get; set; } | Gets or sets the transaction amount. |
+| [UserDate](../../aspose.finance.ofx.bank/checkdescription/userdate) { get; set; } | Gets or sets the date on check. |
 
 ### See Also
 

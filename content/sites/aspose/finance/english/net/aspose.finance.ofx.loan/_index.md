@@ -12,36 +12,36 @@ url: /net/aspose.finance.ofx.loan/
 
 | Class | Description |
 | --- | --- |
-| class [AmortizationRequest](./amortizationrequest) | Amortization statement request class. |
-| class [AmortizationResponse](./amortizationresponse) | Amortization statement response class. |
-| class [AmortizationTransaction](./amortizationtransaction) | Amortization transaction class. |
-| class [AmortizationTransactionList](./amortizationtransactionlist) | Amortization statement list class. |
-| class [AmortizationTransactionRequest](./amortizationtransactionrequest) | Amortization statement transaction request class. |
-| class [AmortizationTransactionResponse](./amortizationtransactionresponse) | Amortization statement transaction response class. |
-| class [EscrowBalance](./escrowbalance) | Escrow balance class. |
-| class [EstimatedPayoff](./estimatedpayoff) | Estimated payoff balance class. |
-| class [LoanClosing](./loanclosing) | A loan account uses the LoanClosing class to describe statement closing information. |
-| class [LoanMailRequest](./loanmailrequest) | Loan email request class. |
-| class [LoanMailResponse](./loanmailresponse) | Loan email response class. |
-| class [LoanMailSyncRequest](./loanmailsyncrequest) | Loan mail synchronization request class. |
-| class [LoanMailSyncResponse](./loanmailsyncresponse) | Loan mail synchronization response class. |
-| class [LoanMailTransactionRequest](./loanmailtransactionrequest) | Loan email transaction request class. |
-| class [LoanMailTransactionResponse](./loanmailtransactionresponse) | Loan email transaction response class. |
-| class [LoanStatementEndRequest](./loanstatementendrequest) | Loan closing statement request class. |
-| class [LoanStatementEndResponse](./loanstatementendresponse) | Loan closing statement response class. |
-| class [LoanStatementEndTransactionRequest](./loanstatementendtransactionrequest) | Loan closing statement transaction request class. |
-| class [LoanStatementEndTransactionResponse](./loanstatementendtransactionresponse) | Loan closing statement transaction response class. |
-| class [LoanStatementRequest](./loanstatementrequest) | Loan download request class. |
-| class [LoanStatementResponse](./loanstatementresponse) | Loan download request class. |
-| class [LoanStatementTransaction](./loanstatementtransaction) | This class describes a single transaction. It identifies the type of the transaction and the date it was posted.The class can also provide additional information to help the customer recognize the transaction: check number, name, memo and images. |
-| class [LoanStatementTransactionRequest](./loanstatementtransactionrequest) | Loan download transaction request class. |
-| class [LoanStatementTransactionResponse](./loanstatementtransactionresponse) | Loan download transaction response class. |
-| class [LoanTransactionList](./loantransactionlist) | Loan statement transaction data collection class. |
+| [AmortizationRequest](./amortizationrequest) | Amortization statement request class. |
+| [AmortizationResponse](./amortizationresponse) | Amortization statement response class. |
+| [AmortizationTransaction](./amortizationtransaction) | Amortization transaction class. |
+| [AmortizationTransactionList](./amortizationtransactionlist) | Amortization statement list class. |
+| [AmortizationTransactionRequest](./amortizationtransactionrequest) | Amortization statement transaction request class. |
+| [AmortizationTransactionResponse](./amortizationtransactionresponse) | Amortization statement transaction response class. |
+| [EscrowBalance](./escrowbalance) | Escrow balance class. |
+| [EstimatedPayoff](./estimatedpayoff) | Estimated payoff balance class. |
+| [LoanClosing](./loanclosing) | A loan account uses the LoanClosing class to describe statement closing information. |
+| [LoanMailRequest](./loanmailrequest) | Loan email request class. |
+| [LoanMailResponse](./loanmailresponse) | Loan email response class. |
+| [LoanMailSyncRequest](./loanmailsyncrequest) | Loan mail synchronization request class. |
+| [LoanMailSyncResponse](./loanmailsyncresponse) | Loan mail synchronization response class. |
+| [LoanMailTransactionRequest](./loanmailtransactionrequest) | Loan email transaction request class. |
+| [LoanMailTransactionResponse](./loanmailtransactionresponse) | Loan email transaction response class. |
+| [LoanStatementEndRequest](./loanstatementendrequest) | Loan closing statement request class. |
+| [LoanStatementEndResponse](./loanstatementendresponse) | Loan closing statement response class. |
+| [LoanStatementEndTransactionRequest](./loanstatementendtransactionrequest) | Loan closing statement transaction request class. |
+| [LoanStatementEndTransactionResponse](./loanstatementendtransactionresponse) | Loan closing statement transaction response class. |
+| [LoanStatementRequest](./loanstatementrequest) | Loan download request class. |
+| [LoanStatementResponse](./loanstatementresponse) | Loan download request class. |
+| [LoanStatementTransaction](./loanstatementtransaction) | This class describes a single transaction. It identifies the type of the transaction and the date it was posted.The class can also provide additional information to help the customer recognize the transaction: check number, name, memo and images. |
+| [LoanStatementTransactionRequest](./loanstatementtransactionrequest) | Loan download transaction request class. |
+| [LoanStatementTransactionResponse](./loanstatementtransactionresponse) | Loan download transaction response class. |
+| [LoanTransactionList](./loantransactionlist) | Loan statement transaction data collection class. |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
-| enum [AmortizationType](./amortizationtype) | Amortization type enum. |
-| enum [LoanTransactionEnum](./loantransactionenum) | Loan transaction type enum. |
+| [AmortizationType](./amortizationtype) | Amortization type enum. |
+| [LoanTransactionEnum](./loantransactionenum) | Loan transaction type enum. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->

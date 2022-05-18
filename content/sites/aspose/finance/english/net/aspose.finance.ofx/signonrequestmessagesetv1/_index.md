@@ -24,9 +24,9 @@ public class SignonRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [ChallengeTransactionRequest](challengetransactionrequest) { get; set; } | Gets or sets the [`ChallengeTransactionRequest`](../../aspose.finance.ofx.signon/challengetransactionrequest). |
-| [PinChangeTransactionRequest](pinchangetransactionrequest) { get; set; } | Gets or sets the [`PinChangeTransactionRequest`](../../aspose.finance.ofx.signon/pinchangetransactionrequest). |
-| [SignonRequest](signonrequest) { get; set; } | Gets or sets the [`SignonRequest`](../../aspose.finance.ofx.signon/signonrequest). |
+| [ChallengeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/challengetransactionrequest) { get; set; } | Gets or sets the [`ChallengeTransactionRequest`](../../aspose.finance.ofx.signon/challengetransactionrequest). |
+| [PinChangeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/pinchangetransactionrequest) { get; set; } | Gets or sets the [`PinChangeTransactionRequest`](../../aspose.finance.ofx.signon/pinchangetransactionrequest). |
+| [SignonRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/signonrequest) { get; set; } | Gets or sets the [`SignonRequest`](../../aspose.finance.ofx.signon/signonrequest). |
 
 ### See Also
 

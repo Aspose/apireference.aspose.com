@@ -24,16 +24,16 @@ public class StatementResponse
 
 | Name | Description |
 | --- | --- |
-| [AvailableBalance](availablebalance) { get; set; } | Gets or sets the from of [`AvailableBalance`](./availablebalance). |
-| [BalanceList](balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [BankTransactionList](banktransactionlist) { get; set; } | Gets or sets the from of [`BankTransactionList`](./banktransactionlist). |
-| [CashAdvanceBalanceAmount](cashadvancebalanceamount) { get; set; } | Gets or sets the current balance amount for cash advances at the time of the download. Only applies to CREDITLINE accounts. |
-| [Currency](currency) { get; set; } | Gets or sets the default currency for the statement. |
-| [InterestRate](interestrate) { get; set; } | Gets or sets the current interest rate in effect at the time of download. |
-| [LedgerBalance](ledgerbalance) { get; set; } | Gets or sets the from of [`LedgerBalance`](./ledgerbalance). |
-| [MarketingInformation](marketinginformation) { get; set; } | Gets or sets the marketing information. |
-| [PendingTransactionList](pendingtransactionlist) { get; set; } | Gets or sets the from of [`PendingTransactionList`](./pendingtransactionlist). |
+| [AvailableBalance](../../aspose.finance.ofx.bank/statementresponse/availablebalance) { get; set; } | Gets or sets the from of [`AvailableBalance`](./availablebalance). |
+| [BalanceList](../../aspose.finance.ofx.bank/statementresponse/balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementresponse/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [BankTransactionList](../../aspose.finance.ofx.bank/statementresponse/banktransactionlist) { get; set; } | Gets or sets the from of [`BankTransactionList`](./banktransactionlist). |
+| [CashAdvanceBalanceAmount](../../aspose.finance.ofx.bank/statementresponse/cashadvancebalanceamount) { get; set; } | Gets or sets the current balance amount for cash advances at the time of the download. Only applies to CREDITLINE accounts. |
+| [Currency](../../aspose.finance.ofx.bank/statementresponse/currency) { get; set; } | Gets or sets the default currency for the statement. |
+| [InterestRate](../../aspose.finance.ofx.bank/statementresponse/interestrate) { get; set; } | Gets or sets the current interest rate in effect at the time of download. |
+| [LedgerBalance](../../aspose.finance.ofx.bank/statementresponse/ledgerbalance) { get; set; } | Gets or sets the from of [`LedgerBalance`](./ledgerbalance). |
+| [MarketingInformation](../../aspose.finance.ofx.bank/statementresponse/marketinginformation) { get; set; } | Gets or sets the marketing information. |
+| [PendingTransactionList](../../aspose.finance.ofx.bank/statementresponse/pendingtransactionlist) { get; set; } | Gets or sets the from of [`PendingTransactionList`](./pendingtransactionlist). |
 
 ### See Also
 

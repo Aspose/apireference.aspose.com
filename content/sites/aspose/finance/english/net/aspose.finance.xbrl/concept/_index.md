@@ -18,22 +18,22 @@ public class Concept
 
 | Name | Description |
 | --- | --- |
-| [BalanceType](balancetype) { get; set; } | Get or sets the balance type of the concept. |
-| [Id](id) { get; set; } | Get or sets the id of the concept. |
-| [IsAbstract](isabstract) { get; set; } | Get or sets whether this concept is abstract. |
-| [IsDimension](isdimension) { get; } | Gets whether it is dimension concept. |
-| [IsExplicitDimension](isexplicitdimension) { get; } | Gets whether it is explicit dimension concept. |
-| [IsTypedDimension](istypeddimension) { get; } | Gets whether it is typed dimension concept. |
-| [Name](name) { get; set; } | Gets or sets the name of the concept. |
-| [NamespaceUri](namespaceuri) { get; } | Gets the namespace URI of the concept. |
-| [PeriodType](periodtype) { get; set; } | Get or sets the period type of the concept. |
-| [SubstitutionGroup](substitutiongroup) { get; set; } | Gets or sets the substitution group of the concept. |
+| [BalanceType](../../aspose.finance.xbrl/concept/balancetype) { get; set; } | Get or sets the balance type of the concept. |
+| [Id](../../aspose.finance.xbrl/concept/id) { get; set; } | Get or sets the id of the concept. |
+| [IsAbstract](../../aspose.finance.xbrl/concept/isabstract) { get; set; } | Get or sets whether this concept is abstract. |
+| [IsDimension](../../aspose.finance.xbrl/concept/isdimension) { get; } | Gets whether it is dimension concept. |
+| [IsExplicitDimension](../../aspose.finance.xbrl/concept/isexplicitdimension) { get; } | Gets whether it is explicit dimension concept. |
+| [IsTypedDimension](../../aspose.finance.xbrl/concept/istypeddimension) { get; } | Gets whether it is typed dimension concept. |
+| [Name](../../aspose.finance.xbrl/concept/name) { get; set; } | Gets or sets the name of the concept. |
+| [NamespaceUri](../../aspose.finance.xbrl/concept/namespaceuri) { get; } | Gets the namespace URI of the concept. |
+| [PeriodType](../../aspose.finance.xbrl/concept/periodtype) { get; set; } | Get or sets the period type of the concept. |
+| [SubstitutionGroup](../../aspose.finance.xbrl/concept/substitutiongroup) { get; set; } | Gets or sets the substitution group of the concept. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetLabel](getlabel)(string) | Gets the label of the concept from the Label links. |
+| [GetLabel](../../aspose.finance.xbrl/concept/getlabel)(string) | Gets the label of the concept from the Label links. |
 
 ### See Also
 

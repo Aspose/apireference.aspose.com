@@ -3,7 +3,7 @@ title: Validate
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 220
+weight: 240
 url: /net/aspose.finance.xbrl/xbrlinstance/validate/
 ---
 ## XbrlInstance.Validate method

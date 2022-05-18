@@ -24,8 +24,8 @@ public class Codes
 
 | Name | Description |
 | --- | --- |
-| [Code](code) { get; set; } | Gets or sets the box 12 code. |
-| [CodeAmount](codeamount) { get; set; } | Gets or sets the box 12 entry dollar amount. |
+| [Code](../../aspose.finance.ofx.taxw2/codes/code) { get; set; } | Gets or sets the box 12 code. |
+| [CodeAmount](../../aspose.finance.ofx.taxw2/codes/codeamount) { get; set; } | Gets or sets the box 12 entry dollar amount. |
 
 ### See Also
 

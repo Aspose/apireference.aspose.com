@@ -24,8 +24,8 @@ public class IncPosition
 
 | Name | Description |
 | --- | --- |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the date that positions should be sent down for. |
-| [Include](include) { get; set; } | Gets or sets whether to include positions in the statement download. |
+| [DateAsOf](../../aspose.finance.ofx.investment/incposition/dateasof) { get; set; } | Gets or sets the date that positions should be sent down for. |
+| [Include](../../aspose.finance.ofx.investment/incposition/include) { get; set; } | Gets or sets whether to include positions in the statement download. |
 
 ### See Also
 

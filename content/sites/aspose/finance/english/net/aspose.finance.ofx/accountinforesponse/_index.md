@@ -24,8 +24,8 @@ public class AccountInfoResponse
 
 | Name | Description |
 | --- | --- |
-| [AccountInfos](accountinfos) { get; set; } | Gets or sets the collection of [`AccountInfo`](../accountinfo). |
-| [AccountUpdateDate](accountupdatedate) { get; set; } | Gets or sets the date and time of last update to account information on the server. |
+| [AccountInfos](../../aspose.finance.ofx/accountinforesponse/accountinfos) { get; set; } | Gets or sets the collection of [`AccountInfo`](../accountinfo). |
+| [AccountUpdateDate](../../aspose.finance.ofx/accountinforesponse/accountupdatedate) { get; set; } | Gets or sets the date and time of last update to account information on the server. |
 
 ### See Also
 

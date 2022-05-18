@@ -20,6 +20,12 @@ public class PaymentCancelResponse : AbstractPaymentResponse
 | --- | --- |
 | [PaymentCancelResponse](paymentcancelresponse)() | Initializes a new instance of [`PaymentCancelResponse`](../paymentcancelresponse) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [ServerId](../../aspose.finance.ofx.billpay/abstractpaymentresponse/serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment. |
+
 ### See Also
 
 * class [AbstractPaymentResponse](../abstractpaymentresponse)

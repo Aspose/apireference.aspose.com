@@ -3,7 +3,7 @@ title: Footnote
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7620
+weight: 7630
 url: /net/aspose.finance.xbrl/footnote/
 ---
 ## Footnote class
@@ -24,8 +24,13 @@ public class Footnote : Resource
 
 | Name | Description |
 | --- | --- |
-| [Language](language) { get; set; } | Gets or sets the language of the footnote. |
-| [Text](text) { get; set; } | Gets or sets the text of the footnote. |
+| [Id](../../aspose.finance.xbrl/resource/id) { get; set; } | Gets or sets the id of the resource. |
+| [Label](../../aspose.finance.xbrl/resource/label) { get; set; } | Gets or sets the label of the resource. |
+| [Language](../../aspose.finance.xbrl/footnote/language) { get; set; } | Gets or sets the language of the footnote. |
+| [Role](../../aspose.finance.xbrl/resource/role) { get; set; } | Gets or sets the role of the resource. |
+| [Text](../../aspose.finance.xbrl/footnote/text) { get; set; } | Gets or sets the text of the footnote. |
+| [Title](../../aspose.finance.xbrl/resource/title) { get; set; } | Gets or sets the title of the resource. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ### See Also
 

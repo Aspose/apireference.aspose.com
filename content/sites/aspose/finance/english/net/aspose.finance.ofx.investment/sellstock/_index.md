@@ -24,7 +24,8 @@ public class SellStock : AbstractInvestmentSellTransaction
 
 | Name | Description |
 | --- | --- |
-| [SellType](selltype) { get; set; } | Gets or sets the sell type. |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Gets or sets the [`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [SellType](../../aspose.finance.ofx.investment/sellstock/selltype) { get; set; } | Gets or sets the sell type. |
 
 ### See Also
 

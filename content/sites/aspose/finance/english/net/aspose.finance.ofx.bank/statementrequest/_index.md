@@ -24,10 +24,10 @@ public class StatementRequest
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [IncludePending](includepending) { get; set; } | Gets or sets whether include pending transaction flag; |
-| [IncludeTransactionImage](includetransactionimage) { get; set; } | Gets or sets whether include transaction image information. |
-| [IncTransaction](inctransaction) { get; set; } | Gets or sets the [`IncTransaction`](./inctransaction). |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementrequest/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [IncludePending](../../aspose.finance.ofx.bank/statementrequest/includepending) { get; set; } | Gets or sets whether include pending transaction flag; |
+| [IncludeTransactionImage](../../aspose.finance.ofx.bank/statementrequest/includetransactionimage) { get; set; } | Gets or sets whether include transaction image information. |
+| [IncTransaction](../../aspose.finance.ofx.bank/statementrequest/inctransaction) { get; set; } | Gets or sets the [`IncTransaction`](./inctransaction). |
 
 ### See Also
 

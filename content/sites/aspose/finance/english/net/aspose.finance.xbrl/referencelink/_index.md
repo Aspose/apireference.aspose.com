@@ -3,7 +3,7 @@ title: ReferenceLink
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7910
+weight: 7920
 url: /net/aspose.finance.xbrl/referencelink/
 ---
 ## ReferenceLink class
@@ -18,10 +18,10 @@ public class ReferenceLink
 
 | Name | Description |
 | --- | --- |
-| [Locators](locators) { get; } | Gets the collection of [`Loc`](../loc). |
-| [ReferenceArcs](referencearcs) { get; } | Gets the collection of [`ReferenceArc`](../referencearc). |
-| [References](references) { get; } | Gets the collection of [`Reference`](../reference). |
-| [Role](role) { get; set; } | Gets or sets the role. |
+| [Locators](../../aspose.finance.xbrl/referencelink/locators) { get; } | Gets the collection of [`Loc`](../loc). |
+| [ReferenceArcs](../../aspose.finance.xbrl/referencelink/referencearcs) { get; } | Gets the collection of [`ReferenceArc`](../referencearc). |
+| [References](../../aspose.finance.xbrl/referencelink/references) { get; } | Gets the collection of [`Reference`](../reference). |
+| [Role](../../aspose.finance.xbrl/referencelink/role) { get; set; } | Gets or sets the role. |
 
 ### See Also
 

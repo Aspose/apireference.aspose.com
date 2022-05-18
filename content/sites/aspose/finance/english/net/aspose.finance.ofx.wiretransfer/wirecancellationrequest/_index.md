@@ -24,7 +24,7 @@ public class WireCancellationRequest : AbstractWireRequest
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID of the transfer to cancel. |
+| [ServerId](../../aspose.finance.ofx.wiretransfer/wirecancellationrequest/serverid) { get; set; } | Gets or sets the ID of the transfer to cancel. |
 
 ### See Also
 

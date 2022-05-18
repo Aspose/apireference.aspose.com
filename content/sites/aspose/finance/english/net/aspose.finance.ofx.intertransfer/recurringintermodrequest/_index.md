@@ -24,10 +24,10 @@ public class RecurringInterModRequest : AbstractRecurringInterRequest
 
 | Name | Description |
 | --- | --- |
-| [InterRequest](interrequest) { get; set; } | Gets or sets the [`InterRequest`](./interrequest). |
-| [ModifyPending](modifypending) { get; set; } | Gets or sets the modify pending flag. If the client sets this flag, the server must modify pending and future transfers. |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
-| [RecurringServerId](recurringserverid) { get; set; } | Gets or sets the ID assigned by the server to the model being modified. |
+| [InterRequest](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/interrequest) { get; set; } | Gets or sets the [`InterRequest`](./interrequest). |
+| [ModifyPending](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/modifypending) { get; set; } | Gets or sets the modify pending flag. If the client sets this flag, the server must modify pending and future transfers. |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [RecurringServerId](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/recurringserverid) { get; set; } | Gets or sets the ID assigned by the server to the model being modified. |
 
 ### See Also
 

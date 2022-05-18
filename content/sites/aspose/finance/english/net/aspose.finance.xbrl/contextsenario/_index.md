@@ -24,7 +24,7 @@ public class ContextSenario
 
 | Name | Description |
 | --- | --- |
-| [DimensionMemberList](dimensionmemberlist) { get; } | Gets the dimension member list defined in the senario. |
+| [DimensionMemberList](../../aspose.finance.xbrl/contextsenario/dimensionmemberlist) { get; } | Gets the dimension member list defined in the senario. |
 
 ### See Also
 

@@ -24,8 +24,11 @@ public class InvestmentMailTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [InvestmentMailResponse](investmentmailresponse) { get; set; } | Gets or sets the [`InvestmentMailResponse`](./investmentmailresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [InvestmentMailResponse](../../aspose.finance.ofx.investment/investmentmailtransactionresponse/investmentmailresponse) { get; set; } | Gets or sets the [`InvestmentMailResponse`](./investmentmailresponse). |
+| [OfxExtension](../../aspose.finance.ofx.investment/investmentmailtransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

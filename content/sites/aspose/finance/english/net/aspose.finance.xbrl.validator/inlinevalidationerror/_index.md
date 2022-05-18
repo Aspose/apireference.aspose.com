@@ -3,7 +3,7 @@ title: InlineValidationError
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8110
+weight: 8130
 url: /net/aspose.finance.xbrl.validator/inlinevalidationerror/
 ---
 ## InlineValidationError class
@@ -16,7 +16,9 @@ public class InlineValidationError : ValidationError
 
 | Name | Description |
 | --- | --- |
-| [Object](object) { get; } | Gets the [`Fact`](../../aspose.finance.xbrl/fact) object which has validation error. |
+| [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | Gets the validation error code. |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | Gets the error message. |
+| [Object](../../aspose.finance.xbrl.validator/inlinevalidationerror/object) { get; } | Gets the [`Fact`](../../aspose.finance.xbrl/fact) object which has validation error. |
 
 ### See Also
 

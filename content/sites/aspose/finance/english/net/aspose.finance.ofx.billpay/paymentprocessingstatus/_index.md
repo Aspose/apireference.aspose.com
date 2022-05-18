@@ -24,8 +24,8 @@ public class PaymentProcessingStatus
 
 | Name | Description |
 | --- | --- |
-| [PaymentProcessDate](paymentprocessdate) { get; set; } | Gets or sets the payment processing date. |
-| [PaymentProcessStatusCode](paymentprocessstatuscode) { get; set; } | Gets or sets the payment processing status code. |
+| [PaymentProcessDate](../../aspose.finance.ofx.billpay/paymentprocessingstatus/paymentprocessdate) { get; set; } | Gets or sets the payment processing date. |
+| [PaymentProcessStatusCode](../../aspose.finance.ofx.billpay/paymentprocessingstatus/paymentprocessstatuscode) { get; set; } | Gets or sets the payment processing status code. |
 
 ### See Also
 

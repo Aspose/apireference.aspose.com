@@ -24,7 +24,7 @@ public class ImageRequest
 
 | Name | Description |
 | --- | --- |
-| [ImageRef](imageref) { get; set; } | Gets or sets the image identifier. |
+| [ImageRef](../../aspose.finance.ofx.image/imagerequest/imageref) { get; set; } | Gets or sets the image identifier. |
 
 ### See Also
 

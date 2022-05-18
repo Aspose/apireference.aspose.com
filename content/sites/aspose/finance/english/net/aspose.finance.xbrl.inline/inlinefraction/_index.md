@@ -3,7 +3,7 @@ title: InlineFraction
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7680
+weight: 7690
 url: /net/aspose.finance.xbrl.inline/inlinefraction/
 ---
 ## InlineFraction class
@@ -18,13 +18,16 @@ public class InlineFraction : InlineFact
 
 | Name | Description |
 | --- | --- |
-| [ContextRef](contextref) { get; set; } | Gets or sets the reference to the [`Context`](../../aspose.finance.xbrl/context) of the [`InlineFraction`](../inlinefraction). |
-| [Order](order) { get; set; } | Gets or sets the order of the [`InlineFraction`](../inlinefraction). |
-| [SchemaConcept](schemaconcept) { get; } | Gets the concept of the [`InlineFraction`](../inlinefraction). |
-| [TargetId](targetid) { get; set; } | Gets or sets the target id of the [`InlineFraction`](../inlinefraction). |
-| [TupleRefId](tuplerefid) { get; set; } | Gets or sets the tuple reference id of the [`InlineFraction`](../inlinefraction). |
-| [UnitRef](unitref) { get; set; } | Gets or sets the reference to the [`Unit`](../../aspose.finance.xbrl/unit) of the [`InlineFraction`](../inlinefraction). |
-| [Value](value) { get; set; } | Gets or sets the value of the [`InlineFraction`](../inlinefraction). |
+| [ContextRef](../../aspose.finance.xbrl.inline/inlinefraction/contextref) { get; set; } | Gets or sets the reference to the [`Context`](../../aspose.finance.xbrl/context) of the [`InlineFraction`](../inlinefraction). |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | Gets or sets whether this fact is hidden. |
+| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | Gets or sets the id of the inline fact. |
+| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | Gets or sets the qualified name of the inline fact. |
+| [Order](../../aspose.finance.xbrl.inline/inlinefraction/order) { get; set; } | Gets or sets the order of the [`InlineFraction`](../inlinefraction). |
+| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinefraction/schemaconcept) { get; } | Gets the concept of the [`InlineFraction`](../inlinefraction). |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinefraction/targetid) { get; set; } | Gets or sets the target id of the [`InlineFraction`](../inlinefraction). |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinefraction/tuplerefid) { get; set; } | Gets or sets the tuple reference id of the [`InlineFraction`](../inlinefraction). |
+| [UnitRef](../../aspose.finance.xbrl.inline/inlinefraction/unitref) { get; set; } | Gets or sets the reference to the [`Unit`](../../aspose.finance.xbrl/unit) of the [`InlineFraction`](../inlinefraction). |
+| [Value](../../aspose.finance.xbrl.inline/inlinefraction/value) { get; set; } | Gets or sets the value of the [`InlineFraction`](../inlinefraction). |
 
 ### See Also
 

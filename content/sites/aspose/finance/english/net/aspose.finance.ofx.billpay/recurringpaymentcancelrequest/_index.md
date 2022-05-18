@@ -24,8 +24,8 @@ public class RecurringPaymentCancelRequest : AbstractRecurringPaymentRequest
 
 | Name | Description |
 | --- | --- |
-| [CancelPending](cancelpending) { get; set; } | Gets or sets the Cancel pending flag. If true, server should cancel all pending and unspawned payments. If false, server should cancel only the model(and unspawned payments). |
-| [ReferenceServerId](referenceserverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being canceled. |
+| [CancelPending](../../aspose.finance.ofx.billpay/recurringpaymentcancelrequest/cancelpending) { get; set; } | Gets or sets the Cancel pending flag. If true, server should cancel all pending and unspawned payments. If false, server should cancel only the model(and unspawned payments). |
+| [ReferenceServerId](../../aspose.finance.ofx.billpay/recurringpaymentcancelrequest/referenceserverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being canceled. |
 
 ### See Also
 

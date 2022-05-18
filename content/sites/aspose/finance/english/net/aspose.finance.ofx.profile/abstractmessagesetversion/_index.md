@@ -18,7 +18,7 @@ public abstract class AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [MessageSetCore](messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](./messagesetcore). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](./messagesetcore). |
 
 ### See Also
 

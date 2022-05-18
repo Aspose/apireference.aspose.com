@@ -24,8 +24,8 @@ public class MFAChallenge
 
 | Name | Description |
 | --- | --- |
-| [MFAPhraseId](mfaphraseid) { get; set; } | Gets or sets the identifier for the challenge question. It should be unique for this challenge question but not unique for the user, session. |
-| [MFAPhraseLabel](mfaphraselabel) { get; set; } | Gets or sets the textual challenge question. This should be as appropriate as possible for display to the user. |
+| [MFAPhraseId](../../aspose.finance.ofx.signon/mfachallenge/mfaphraseid) { get; set; } | Gets or sets the identifier for the challenge question. It should be unique for this challenge question but not unique for the user, session. |
+| [MFAPhraseLabel](../../aspose.finance.ofx.signon/mfachallenge/mfaphraselabel) { get; set; } | Gets or sets the textual challenge question. This should be as appropriate as possible for display to the user. |
 
 ### See Also
 

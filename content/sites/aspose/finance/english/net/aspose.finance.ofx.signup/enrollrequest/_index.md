@@ -24,24 +24,24 @@ public class EnrollRequest
 
 | Name | Description |
 | --- | --- |
-| [AccountFrom](accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) or [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
-| [Address1](address1) { get; set; } | Gets or sets the address line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the address line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the address line 3. |
-| [BirthDate](birthdate) { get; set; } | Gets or sets the date of birth. |
-| [City](city) { get; set; } | Gets or sets the city. |
-| [Country](country) { get; set; } | Gets or sets the country code. 3-letter country code from ISO/DIS-3166. |
-| [DayPhone](dayphone) { get; set; } | Gets or sets the daytime telephone number. |
-| [Email](email) { get; set; } | Gets or sets the electronic e-mail address. |
-| [EveningPhone](eveningphone) { get; set; } | Gets or sets the evening telephone number. |
-| [FirstName](firstname) { get; set; } | Gets or sets the first name of user. |
-| [LastName](lastname) { get; set; } | Gets or sets the last name of user. |
-| [MiddleName](middlename) { get; set; } | Gets or sets the middle name of user. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the postal code |
-| [SecurityName](securityname) { get; set; } | Gets or sets the mother’s maiden name or equivalent. |
-| [State](state) { get; set; } | Gets or sets the state or province. |
-| [TaxId](taxid) { get; set; } | Gets or sets the ID used for tax purposes (such as SSN), may be same as user ID. |
-| [UserId](userid) { get; set; } | Gets or sets the actual user ID if already known, or preferred user ID if user can choose. |
+| [AccountFrom](../../aspose.finance.ofx.signup/enrollrequest/accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) or [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [Address1](../../aspose.finance.ofx.signup/enrollrequest/address1) { get; set; } | Gets or sets the address line 1. |
+| [Address2](../../aspose.finance.ofx.signup/enrollrequest/address2) { get; set; } | Gets or sets the address line 2. |
+| [Address3](../../aspose.finance.ofx.signup/enrollrequest/address3) { get; set; } | Gets or sets the address line 3. |
+| [BirthDate](../../aspose.finance.ofx.signup/enrollrequest/birthdate) { get; set; } | Gets or sets the date of birth. |
+| [City](../../aspose.finance.ofx.signup/enrollrequest/city) { get; set; } | Gets or sets the city. |
+| [Country](../../aspose.finance.ofx.signup/enrollrequest/country) { get; set; } | Gets or sets the country code. 3-letter country code from ISO/DIS-3166. |
+| [DayPhone](../../aspose.finance.ofx.signup/enrollrequest/dayphone) { get; set; } | Gets or sets the daytime telephone number. |
+| [Email](../../aspose.finance.ofx.signup/enrollrequest/email) { get; set; } | Gets or sets the electronic e-mail address. |
+| [EveningPhone](../../aspose.finance.ofx.signup/enrollrequest/eveningphone) { get; set; } | Gets or sets the evening telephone number. |
+| [FirstName](../../aspose.finance.ofx.signup/enrollrequest/firstname) { get; set; } | Gets or sets the first name of user. |
+| [LastName](../../aspose.finance.ofx.signup/enrollrequest/lastname) { get; set; } | Gets or sets the last name of user. |
+| [MiddleName](../../aspose.finance.ofx.signup/enrollrequest/middlename) { get; set; } | Gets or sets the middle name of user. |
+| [PostalCode](../../aspose.finance.ofx.signup/enrollrequest/postalcode) { get; set; } | Gets or sets the postal code |
+| [SecurityName](../../aspose.finance.ofx.signup/enrollrequest/securityname) { get; set; } | Gets or sets the mother’s maiden name or equivalent. |
+| [State](../../aspose.finance.ofx.signup/enrollrequest/state) { get; set; } | Gets or sets the state or province. |
+| [TaxId](../../aspose.finance.ofx.signup/enrollrequest/taxid) { get; set; } | Gets or sets the ID used for tax purposes (such as SSN), may be same as user ID. |
+| [UserId](../../aspose.finance.ofx.signup/enrollrequest/userid) { get; set; } | Gets or sets the actual user ID if already known, or preferred user ID if user can choose. |
 
 ### See Also
 

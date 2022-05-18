@@ -24,12 +24,12 @@ public class RecurringPaymentModRequest : AbstractRecurringPaymentRequest
 
 | Name | Description |
 | --- | --- |
-| [FinalAmount](finalamount) { get; set; } | Gets or sets the amount of the final payment. |
-| [InitialAmount](initialamount) { get; set; } | Gets or sets the amount of the initial payment. |
-| [ModifyPending](modifypending) { get; set; } | Gets or sets the modify pending flag.If the client sets this flag, the server must modify pending and future payments. |
-| [PaymentInfo](paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
-| [ReferenceServerId](referenceserverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being modified. |
+| [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/finalamount) { get; set; } | Gets or sets the amount of the final payment. |
+| [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/initialamount) { get; set; } | Gets or sets the amount of the initial payment. |
+| [ModifyPending](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/modifypending) { get; set; } | Gets or sets the modify pending flag.If the client sets this flag, the server must modify pending and future payments. |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [ReferenceServerId](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/referenceserverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being modified. |
 
 ### See Also
 

@@ -24,11 +24,11 @@ public class LoanPaymentAmount
 
 | Name | Description |
 | --- | --- |
-| [EscrowAmount](escrowamount) { get; set; } | Gets or sets the [`EscrowAmount`](./escrowamount) for mortgages. |
-| [LateFeeAmount](latefeeamount) { get; set; } | Gets or sets the late fees. |
-| [LoanPaymentType](loanpaymenttype) { get; set; } | Gets or sets the type of payment. |
-| [PaymentAmount](paymentamount) { get; set; } | Gets or sets the next loan payment amount. |
-| [PaymentDueDate](paymentduedate) { get; set; } | Gets or sets the next payment due date |
+| [EscrowAmount](../../aspose.finance.ofx/loanpaymentamount/escrowamount) { get; set; } | Gets or sets the [`EscrowAmount`](./escrowamount) for mortgages. |
+| [LateFeeAmount](../../aspose.finance.ofx/loanpaymentamount/latefeeamount) { get; set; } | Gets or sets the late fees. |
+| [LoanPaymentType](../../aspose.finance.ofx/loanpaymentamount/loanpaymenttype) { get; set; } | Gets or sets the type of payment. |
+| [PaymentAmount](../../aspose.finance.ofx/loanpaymentamount/paymentamount) { get; set; } | Gets or sets the next loan payment amount. |
+| [PaymentDueDate](../../aspose.finance.ofx/loanpaymentamount/paymentduedate) { get; set; } | Gets or sets the next payment due date |
 
 ### See Also
 

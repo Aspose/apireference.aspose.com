@@ -24,7 +24,7 @@ public class ServiceAdd : AbstractServiceAction
 
 | Name | Description |
 | --- | --- |
-| [AccountTo](accountto) { get; set; } | Gets or sets the to of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) or [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [AccountTo](../../aspose.finance.ofx.signup/serviceadd/accountto) { get; set; } | Gets or sets the to of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) or [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
 
 ### See Also
 

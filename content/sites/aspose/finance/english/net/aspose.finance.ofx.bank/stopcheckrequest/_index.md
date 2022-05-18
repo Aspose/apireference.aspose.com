@@ -24,8 +24,8 @@ public class StopCheckRequest
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [CheckInfo](checkinfo) { get; set; } | Gets or sets the check information, [`CheckRange`](../checkrange) or [`CheckDescription`](../checkdescription). |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckrequest/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [CheckInfo](../../aspose.finance.ofx.bank/stopcheckrequest/checkinfo) { get; set; } | Gets or sets the check information, [`CheckRange`](../checkrange) or [`CheckDescription`](../checkdescription). |
 
 ### See Also
 

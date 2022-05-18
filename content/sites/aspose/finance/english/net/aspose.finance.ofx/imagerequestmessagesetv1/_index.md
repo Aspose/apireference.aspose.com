@@ -24,7 +24,7 @@ public class ImageRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [ImageTransactionRequests](imagetransactionrequests) { get; set; } | Gets or sets the collection of [`ImageTransactionRequest`](../../aspose.finance.ofx.image/imagetransactionrequest). |
+| [ImageTransactionRequests](../../aspose.finance.ofx/imagerequestmessagesetv1/imagetransactionrequests) { get; set; } | Gets or sets the collection of [`ImageTransactionRequest`](../../aspose.finance.ofx.image/imagetransactionrequest). |
 
 ### See Also
 

@@ -24,20 +24,21 @@ public class Reinvest : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [Commission](commission) { get; set; } | Gets or sets the transaction commission. |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [Fees](fees) { get; set; } | Gets or sets the fees applied to trade. |
-| [IncomeType](incometype) { get; set; } | Gets or sets the type of investment income. |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
-| [Load](load) { get; set; } | Gets or sets the load on the transaction. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SubAccountSecurity](subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
-| [Taxes](taxes) { get; set; } | Gets or sets the taxes on the trade. |
-| [TaxExempt](taxexempt) { get; set; } | Gets or sets whether it is tax-exempt transaction. |
-| [Total](total) { get; set; } | Gets or sets the transaction total. |
-| [UnitPrice](unitprice) { get; set; } | Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks, mutual funds, and others. Percentage of par for bonds. Per share (not contract) for options. |
-| [Units](units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
+| [Commission](../../aspose.finance.ofx.investment/reinvest/commission) { get; set; } | Gets or sets the transaction commission. |
+| [Currency](../../aspose.finance.ofx.investment/reinvest/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [Fees](../../aspose.finance.ofx.investment/reinvest/fees) { get; set; } | Gets or sets the fees applied to trade. |
+| [IncomeType](../../aspose.finance.ofx.investment/reinvest/incometype) { get; set; } | Gets or sets the type of investment income. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/reinvest/investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [Load](../../aspose.finance.ofx.investment/reinvest/load) { get; set; } | Gets or sets the load on the transaction. |
+| [OriginCurrency](../../aspose.finance.ofx.investment/reinvest/origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
+| [SecurityId](../../aspose.finance.ofx.investment/reinvest/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/reinvest/subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
+| [Taxes](../../aspose.finance.ofx.investment/reinvest/taxes) { get; set; } | Gets or sets the taxes on the trade. |
+| [TaxExempt](../../aspose.finance.ofx.investment/reinvest/taxexempt) { get; set; } | Gets or sets whether it is tax-exempt transaction. |
+| [Total](../../aspose.finance.ofx.investment/reinvest/total) { get; set; } | Gets or sets the transaction total. |
+| [UnitPrice](../../aspose.finance.ofx.investment/reinvest/unitprice) { get; set; } | Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks, mutual funds, and others. Percentage of par for bonds. Per share (not contract) for options. |
+| [Units](../../aspose.finance.ofx.investment/reinvest/units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
 
 ### See Also
 

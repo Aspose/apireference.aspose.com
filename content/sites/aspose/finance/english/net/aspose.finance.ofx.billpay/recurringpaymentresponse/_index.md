@@ -24,13 +24,14 @@ public class RecurringPaymentResponse : AbstractRecurringPaymentResponse
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the default currency for the Recurring Payment Response. |
-| [ExtendedPayee](extendedpayee) { get; set; } | Gets or sets the [`ExtendedPayee`](./extendedpayee). |
-| [FinalAmount](finalamount) { get; set; } | Gets or sets the amount of the final payment. |
-| [InitialAmount](initialamount) { get; set; } | Gets or sets the amount of the initial payment. |
-| [PayeeListId](payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
-| [PaymentInfo](paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [Currency](../../aspose.finance.ofx.billpay/recurringpaymentresponse/currency) { get; set; } | Gets or sets the default currency for the Recurring Payment Response. |
+| [ExtendedPayee](../../aspose.finance.ofx.billpay/recurringpaymentresponse/extendedpayee) { get; set; } | Gets or sets the [`ExtendedPayee`](./extendedpayee). |
+| [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentresponse/finalamount) { get; set; } | Gets or sets the amount of the final payment. |
+| [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentresponse/initialamount) { get; set; } | Gets or sets the amount of the initial payment. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/recurringpaymentresponse/payeelistid) { get; set; } | Gets or sets the server assigned record ID for this payee record. |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentresponse/paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentresponse/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [RecurringServerId](../../aspose.finance.ofx.billpay/abstractrecurringpaymentresponse/recurringserverid) { get; set; } | Gets or sets the server-assigned ID for this transaction. |
 
 ### See Also
 

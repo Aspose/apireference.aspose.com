@@ -24,9 +24,11 @@ public class RecurringInterSyncResponse : AbstractSyncResponse
 
 | Name | Description |
 | --- | --- |
-| [AccountFrom](accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [RecurringInterTransactionResponses](recurringintertransactionresponses) { get; set; } | Gets or sets the collection of [`RecurringInterTransactionResponse`](../recurringintertransactionresponse). |
+| [AccountFrom](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse/accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Yes if the token in the synchronization request is older than the earliest entry in the server’s history table.In this case, some responses have been lost. No if the token in the synchronization request is newer than or matches a token in the server’s history table. |
+| [OfxExtension](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [RecurringInterTransactionResponses](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse/recurringintertransactionresponses) { get; set; } | Gets or sets the collection of [`RecurringInterTransactionResponse`](../recurringintertransactionresponse). |
+| [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Gets or sets the new synchronization token. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class SignonMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [SignonMessageSetV1](signonmessagesetv1) { get; set; } | Gets or sets the [`SignonMessageSetV1`](./signonmessagesetv1). |
+| [SignonMessageSetV1](../../aspose.finance.ofx.profile/signonmessageset/signonmessagesetv1) { get; set; } | Gets or sets the [`SignonMessageSetV1`](./signonmessagesetv1). |
 
 ### See Also
 

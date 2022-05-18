@@ -24,8 +24,11 @@ public class EnrollTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [EnrollRequest](enrollrequest) { get; set; } | Gets or sets the [`EnrollRequest`](./enrollrequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [EnrollRequest](../../aspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest) { get; set; } | Gets or sets the [`EnrollRequest`](./enrollrequest). |
+| [OfxExtension](../../aspose.finance.ofx.signup/enrolltransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

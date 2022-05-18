@@ -24,10 +24,10 @@ public class StateTaxWithheldAggregate
 
 | Name | Description |
 | --- | --- |
-| [Amount](amount) { get; set; } | Gets or sets the amount withheld. |
-| [PayerState](payerstate) { get; set; } | Gets or sets the payer’s state code. |
-| [PayerStateId](payerstateid) { get; set; } | Gets or sets the payer’s state ID number. |
-| [StateDistribution](statedistribution) { get; set; } | Gets or sets the state distribution. |
+| [Amount](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/amount) { get; set; } | Gets or sets the amount withheld. |
+| [PayerState](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstate) { get; set; } | Gets or sets the payer’s state code. |
+| [PayerStateId](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstateid) { get; set; } | Gets or sets the payer’s state ID number. |
+| [StateDistribution](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/statedistribution) { get; set; } | Gets or sets the state distribution. |
 
 ### See Also
 

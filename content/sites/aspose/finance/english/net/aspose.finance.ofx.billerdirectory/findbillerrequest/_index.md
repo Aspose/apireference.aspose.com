@@ -24,19 +24,19 @@ public class FindBillerRequest
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the biller’s address line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the biller’s address line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the biller’s address line 3. |
-| [BillerId](billerid) { get; set; } | Gets or sets the ID of this biller at this bill publisher. |
-| [City](city) { get; set; } | Gets or sets the biller’s city. |
-| [ConsumerPostalCode](consumerpostalcode) { get; set; } | Gets or sets the postal code of customer, to allow server to filter out billers that do not do business in the customer’s area |
-| [Country](country) { get; set; } | Gets or sets the biller’s country code. ISO/DIS-3166 3-letter country code standard. |
-| [IncludeImages](includeimages) { get; set; } | True if the client wants images (logos) returned. |
-| [Name](name) { get; set; } | Gets or sets the biller’s name. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the biller’s postal code. |
-| [StandardIndustryCode](standardindustrycode) { get; set; } | Gets or sets the biller’s standard industry code. |
-| [State](state) { get; set; } | Gets or sets the biller’s state. |
-| [UpdateDate](updatedate) { get; set; } | Gets or sets the date and time of last change to any biller entry as reported by the server on previous query. |
+| [Address1](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address1) { get; set; } | Gets or sets the biller’s address line 1. |
+| [Address2](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address2) { get; set; } | Gets or sets the biller’s address line 2. |
+| [Address3](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address3) { get; set; } | Gets or sets the biller’s address line 3. |
+| [BillerId](../../aspose.finance.ofx.billerdirectory/findbillerrequest/billerid) { get; set; } | Gets or sets the ID of this biller at this bill publisher. |
+| [City](../../aspose.finance.ofx.billerdirectory/findbillerrequest/city) { get; set; } | Gets or sets the biller’s city. |
+| [ConsumerPostalCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/consumerpostalcode) { get; set; } | Gets or sets the postal code of customer, to allow server to filter out billers that do not do business in the customer’s area |
+| [Country](../../aspose.finance.ofx.billerdirectory/findbillerrequest/country) { get; set; } | Gets or sets the biller’s country code. ISO/DIS-3166 3-letter country code standard. |
+| [IncludeImages](../../aspose.finance.ofx.billerdirectory/findbillerrequest/includeimages) { get; set; } | True if the client wants images (logos) returned. |
+| [Name](../../aspose.finance.ofx.billerdirectory/findbillerrequest/name) { get; set; } | Gets or sets the biller’s name. |
+| [PostalCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/postalcode) { get; set; } | Gets or sets the biller’s postal code. |
+| [StandardIndustryCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/standardindustrycode) { get; set; } | Gets or sets the biller’s standard industry code. |
+| [State](../../aspose.finance.ofx.billerdirectory/findbillerrequest/state) { get; set; } | Gets or sets the biller’s state. |
+| [UpdateDate](../../aspose.finance.ofx.billerdirectory/findbillerrequest/updatedate) { get; set; } | Gets or sets the date and time of last change to any biller entry as reported by the server on previous query. |
 
 ### See Also
 

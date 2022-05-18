@@ -24,12 +24,12 @@ public class AmortizationTransaction
 
 | Name | Description |
 | --- | --- |
-| [AmortizationType](amortizationtype) { get; set; } | Gets or sets the amortization type. |
-| [LoanInitBalance](loaninitbalance) { get; set; } | Gets or sets the beginning balance before payment. |
-| [LoanRate](loanrate) { get; set; } | Gets or sets the [`LoanRateType`](../../aspose.finance.ofx/loanratetype). |
-| [LoanTransactionAmount](loantransactionamount) { get; set; } | Gets or sets the [`LoanTransactionAmount`](./loantransactionamount). |
-| [PaymentNumber](paymentnumber) { get; set; } | Gets or sets the loan payment number. |
-| [PrincipalBalance](principalbalance) { get; set; } | Gets or sets the [`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype). |
+| [AmortizationType](../../aspose.finance.ofx.loan/amortizationtransaction/amortizationtype) { get; set; } | Gets or sets the amortization type. |
+| [LoanInitBalance](../../aspose.finance.ofx.loan/amortizationtransaction/loaninitbalance) { get; set; } | Gets or sets the beginning balance before payment. |
+| [LoanRate](../../aspose.finance.ofx.loan/amortizationtransaction/loanrate) { get; set; } | Gets or sets the [`LoanRateType`](../../aspose.finance.ofx/loanratetype). |
+| [LoanTransactionAmount](../../aspose.finance.ofx.loan/amortizationtransaction/loantransactionamount) { get; set; } | Gets or sets the [`LoanTransactionAmount`](./loantransactionamount). |
+| [PaymentNumber](../../aspose.finance.ofx.loan/amortizationtransaction/paymentnumber) { get; set; } | Gets or sets the loan payment number. |
+| [PrincipalBalance](../../aspose.finance.ofx.loan/amortizationtransaction/principalbalance) { get; set; } | Gets or sets the [`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype). |
 
 ### See Also
 

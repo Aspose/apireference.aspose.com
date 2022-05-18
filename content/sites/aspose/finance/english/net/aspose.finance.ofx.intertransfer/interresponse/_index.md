@@ -24,14 +24,14 @@ public class InterResponse : AbstractInterResponse
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the currency used in transfer. |
-| [PostedDate](posteddate) { get; set; } | Gets or sets the actual date of the transfer. |
-| [ReferenceNumber](referencenumber) { get; set; } | Gets or sets the reference number. Server can generate a reference or check for the transfer |
-| [ReferenceServerId](referenceserverid) { get; set; } | Gets or sets the reference server ID. If server generates the response by a recurring transfer model, this ID references it. |
-| [ServerId](serverid) { get; set; } | Gets or sets the server ID for this transfer. |
-| [TransferInfo](transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
-| [TransferProcessingStatus](transferprocessingstatus) { get; set; } | Gets or sets the [`TransferProcessingStatus`](./transferprocessingstatus). |
-| [TransferProjectDate](transferprojectdate) { get; set; } | Gets or sets the projected date of the transfer. |
+| [Currency](../../aspose.finance.ofx.intertransfer/interresponse/currency) { get; set; } | Gets or sets the currency used in transfer. |
+| [PostedDate](../../aspose.finance.ofx.intertransfer/interresponse/posteddate) { get; set; } | Gets or sets the actual date of the transfer. |
+| [ReferenceNumber](../../aspose.finance.ofx.intertransfer/interresponse/referencenumber) { get; set; } | Gets or sets the reference number. Server can generate a reference or check for the transfer |
+| [ReferenceServerId](../../aspose.finance.ofx.intertransfer/interresponse/referenceserverid) { get; set; } | Gets or sets the reference server ID. If server generates the response by a recurring transfer model, this ID references it. |
+| [ServerId](../../aspose.finance.ofx.intertransfer/interresponse/serverid) { get; set; } | Gets or sets the server ID for this transfer. |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/interresponse/transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
+| [TransferProcessingStatus](../../aspose.finance.ofx.intertransfer/interresponse/transferprocessingstatus) { get; set; } | Gets or sets the [`TransferProcessingStatus`](./transferprocessingstatus). |
+| [TransferProjectDate](../../aspose.finance.ofx.intertransfer/interresponse/transferprojectdate) { get; set; } | Gets or sets the projected date of the transfer. |
 
 ### See Also
 

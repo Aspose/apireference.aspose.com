@@ -24,8 +24,8 @@ public class InvestmentBankTransaction
 
 | Name | Description |
 | --- | --- |
-| [StatementTransaction](statementtransaction) { get; set; } | Gets or sets the [`StatementTransaction`](./statementtransaction). |
-| [SubAccountFund](subaccountfund) { get; set; } | Gets or sets the sub-account associated with the funds for the transaction. |
+| [StatementTransaction](../../aspose.finance.ofx.investment/investmentbanktransaction/statementtransaction) { get; set; } | Gets or sets the [`StatementTransaction`](./statementtransaction). |
+| [SubAccountFund](../../aspose.finance.ofx.investment/investmentbanktransaction/subaccountfund) { get; set; } | Gets or sets the sub-account associated with the funds for the transaction. |
 
 ### See Also
 

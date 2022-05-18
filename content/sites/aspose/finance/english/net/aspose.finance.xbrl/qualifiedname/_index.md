@@ -3,7 +3,7 @@ title: QualifiedName
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7880
+weight: 7890
 url: /net/aspose.finance.xbrl/qualifiedname/
 ---
 ## QualifiedName class
@@ -24,17 +24,17 @@ public class QualifiedName
 
 | Name | Description |
 | --- | --- |
-| [LocalName](localname) { get; set; } | Gets or sets the local name of the qualified name. |
-| [Namespace](namespace) { get; set; } | Gets or sets the namespace of the qualified name. |
-| [NamespaceUri](namespaceuri) { get; set; } | Gets or sets the namespace URI of the qualified name. |
+| [LocalName](../../aspose.finance.xbrl/qualifiedname/localname) { get; set; } | Gets or sets the local name of the qualified name. |
+| [Namespace](../../aspose.finance.xbrl/qualifiedname/namespace) { get; set; } | Gets or sets the namespace of the qualified name. |
+| [NamespaceUri](../../aspose.finance.xbrl/qualifiedname/namespaceuri) { get; set; } | Gets or sets the namespace URI of the qualified name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Check whether this qualified name is equal with the object. |
-| override [GetHashCode](gethashcode)() | Gets the hash code. |
-| override [ToString](tostring)() | Get the object as string. |
+| override [Equals](../../aspose.finance.xbrl/qualifiedname/equals)(object) | Check whether this qualified name is equal with the object. |
+| override [GetHashCode](../../aspose.finance.xbrl/qualifiedname/gethashcode)() | Gets the hash code. |
+| override [ToString](../../aspose.finance.xbrl/qualifiedname/tostring)() | Get the object as string. |
 
 ### See Also
 

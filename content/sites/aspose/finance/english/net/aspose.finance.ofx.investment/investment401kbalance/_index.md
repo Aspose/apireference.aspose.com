@@ -24,16 +24,16 @@ public class Investment401kBalance
 
 | Name | Description |
 | --- | --- |
-| [AfterTax](aftertax) { get; set; } | Gets or sets the current value of all securities purchased with After Tax Employee contributions. |
-| [BalanceList](balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
-| [CashBalance](cashbalance) { get; set; } | Gets or sets the cash balance available for the 401(k) account. |
-| [Match](match) { get; set; } | Gets or sets the current value of all securities purchased with Employer Match contributions. |
-| [OtherNonvest](othernonvest) { get; set; } | Gets or sets the current value of all securities purchased with Other (non-vesting) Employer contributions. |
-| [OtherVest](othervest) { get; set; } | Gets or sets the current value of all securities purchased with Other (vesting) Employer contributions. |
-| [PreTax](pretax) { get; set; } | Gets or sets the current value of all securities purchased with Before Tax Employee contributions |
-| [ProfitSharing](profitsharing) { get; set; } | Gets or sets the Current value of all securities purchased with Employer Profit Sharing contributions |
-| [Rollover](rollover) { get; set; } | Gets or sets the current value of all securities purchased with Rollover contributions. |
-| [Total](total) { get; set; } | Gets or sets the current value of all securities purchased with all contributions. |
+| [AfterTax](../../aspose.finance.ofx.investment/investment401kbalance/aftertax) { get; set; } | Gets or sets the current value of all securities purchased with After Tax Employee contributions. |
+| [BalanceList](../../aspose.finance.ofx.investment/investment401kbalance/balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
+| [CashBalance](../../aspose.finance.ofx.investment/investment401kbalance/cashbalance) { get; set; } | Gets or sets the cash balance available for the 401(k) account. |
+| [Match](../../aspose.finance.ofx.investment/investment401kbalance/match) { get; set; } | Gets or sets the current value of all securities purchased with Employer Match contributions. |
+| [OtherNonvest](../../aspose.finance.ofx.investment/investment401kbalance/othernonvest) { get; set; } | Gets or sets the current value of all securities purchased with Other (non-vesting) Employer contributions. |
+| [OtherVest](../../aspose.finance.ofx.investment/investment401kbalance/othervest) { get; set; } | Gets or sets the current value of all securities purchased with Other (vesting) Employer contributions. |
+| [PreTax](../../aspose.finance.ofx.investment/investment401kbalance/pretax) { get; set; } | Gets or sets the current value of all securities purchased with Before Tax Employee contributions |
+| [ProfitSharing](../../aspose.finance.ofx.investment/investment401kbalance/profitsharing) { get; set; } | Gets or sets the Current value of all securities purchased with Employer Profit Sharing contributions |
+| [Rollover](../../aspose.finance.ofx.investment/investment401kbalance/rollover) { get; set; } | Gets or sets the current value of all securities purchased with Rollover contributions. |
+| [Total](../../aspose.finance.ofx.investment/investment401kbalance/total) { get; set; } | Gets or sets the current value of all securities purchased with all contributions. |
 
 ### See Also
 

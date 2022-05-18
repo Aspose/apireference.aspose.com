@@ -24,7 +24,7 @@ public class InvestmentPositionList
 
 | Name | Description |
 | --- | --- |
-| [InvestmentPositions](investmentpositions) { get; set; } | Gets or sets the collection of [`PositionMutualFund`](../positionmutualfund) or [`PositionStock`](../positionstock) or [`PositionDebt`](../positiondebt) or [`PositionOption`](../positionoption) or [`PositionOther`](../positionother). |
+| [InvestmentPositions](../../aspose.finance.ofx.investment/investmentpositionlist/investmentpositions) { get; set; } | Gets or sets the collection of [`PositionMutualFund`](../positionmutualfund) or [`PositionStock`](../positionstock) or [`PositionDebt`](../positiondebt) or [`PositionOption`](../positionoption) or [`PositionOther`](../positionother). |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class ProfileResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [ProfileTransactionResponses](profiletransactionresponses) { get; set; } | Gets or sets the collection of [`ProfileTransactionResponse`](../../aspose.finance.ofx.profile/profiletransactionresponse). |
+| [ProfileTransactionResponses](../../aspose.finance.ofx/profileresponsemessagesetv1/profiletransactionresponses) { get; set; } | Gets or sets the collection of [`ProfileTransactionResponse`](../../aspose.finance.ofx.profile/profiletransactionresponse). |
 
 ### See Also
 

@@ -24,10 +24,10 @@ public class LocalInfo
 
 | Name | Description |
 | --- | --- |
-| [Locality](locality) { get; set; } | Gets or sets the locality name. |
-| [LocalityState](localitystate) { get; set; } | Gets or sets the two character state associated with this locality. |
-| [LocalTaxWithheld](localtaxwithheld) { get; set; } | Gets or sets the local tax withheld. |
-| [LocalWages](localwages) { get; set; } | Gets or sets the local wages, tips, etc. |
+| [Locality](../../aspose.finance.ofx.taxw2/localinfo/locality) { get; set; } | Gets or sets the locality name. |
+| [LocalityState](../../aspose.finance.ofx.taxw2/localinfo/localitystate) { get; set; } | Gets or sets the two character state associated with this locality. |
+| [LocalTaxWithheld](../../aspose.finance.ofx.taxw2/localinfo/localtaxwithheld) { get; set; } | Gets or sets the local tax withheld. |
+| [LocalWages](../../aspose.finance.ofx.taxw2/localinfo/localwages) { get; set; } | Gets or sets the local wages, tips, etc. |
 
 ### See Also
 

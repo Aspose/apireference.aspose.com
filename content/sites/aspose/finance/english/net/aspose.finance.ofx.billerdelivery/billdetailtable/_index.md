@@ -24,9 +24,9 @@ public class BillDetailTable
 
 | Name | Description |
 | --- | --- |
-| [BillDetailRows](billdetailrows) { get; set; } | Gets or sets the collection of [`BillDetailRow`](../billdetailrow). |
-| [BillDetailTableType](billdetailtabletype) { get; set; } | Gets or sets the type of bill detail table. |
-| [TableName](tablename) { get; set; } | Gets or sets the name of bill detail table. |
+| [BillDetailRows](../../aspose.finance.ofx.billerdelivery/billdetailtable/billdetailrows) { get; set; } | Gets or sets the collection of [`BillDetailRow`](../billdetailrow). |
+| [BillDetailTableType](../../aspose.finance.ofx.billerdelivery/billdetailtable/billdetailtabletype) { get; set; } | Gets or sets the type of bill detail table. |
+| [TableName](../../aspose.finance.ofx.billerdelivery/billdetailtable/tablename) { get; set; } | Gets or sets the name of bill detail table. |
 
 ### See Also
 

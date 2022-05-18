@@ -24,8 +24,8 @@ public class TaxW2Response
 
 | Name | Description |
 | --- | --- |
-| [SSN](ssn) { get; set; } | Gets or sets the social Security Number of the employee. |
-| [TAXW2s](taxw2s) { get; set; } | Gets or sets the collection of [`TaxW2_V100`](../taxw2_v100) or [`TaxW2_V200`](../taxw2_v200). |
+| [SSN](../../aspose.finance.ofx.taxw2/taxw2response/ssn) { get; set; } | Gets or sets the social Security Number of the employee. |
+| [TAXW2s](../../aspose.finance.ofx.taxw2/taxw2response/taxw2s) { get; set; } | Gets or sets the collection of [`TaxW2_V100`](../taxw2_v100) or [`TaxW2_V200`](../taxw2_v200). |
 
 ### See Also
 

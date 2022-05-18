@@ -24,7 +24,7 @@ public class PaymentInquiryRequest
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being queried. |
+| [ServerId](../../aspose.finance.ofx.billpay/paymentinquiryrequest/serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being queried. |
 
 ### See Also
 

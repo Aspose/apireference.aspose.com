@@ -18,6 +18,12 @@ public class ProfileMessageSetV1 : AbstractMessageSetVersion
 | --- | --- |
 | [ProfileMessageSetV1](profilemessagesetv1)() | Initializes a new instance of [`ProfileMessageSetV1`](../profilemessagesetv1) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+
 ### See Also
 
 * class [AbstractMessageSetVersion](../abstractmessagesetversion)

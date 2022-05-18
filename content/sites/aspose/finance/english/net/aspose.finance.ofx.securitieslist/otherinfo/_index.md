@@ -24,9 +24,10 @@ public class OtherInfo : AbstractSecurityInfo
 
 | Name | Description |
 | --- | --- |
-| [AssetClass](assetclass) { get; set; } | Gets or sets the asset class. |
-| [FIAssetClass](fiassetclass) { get; set; } | Gets or sets the text string containing an FI defined asset class. |
-| [TypeDescription](typedescription) { get; set; } | Gets or sets the description of security type. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/otherinfo/assetclass) { get; set; } | Gets or sets the asset class. |
+| [FIAssetClass](../../aspose.finance.ofx.securitieslist/otherinfo/fiassetclass) { get; set; } | Gets or sets the text string containing an FI defined asset class. |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Gets or sets the [`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [TypeDescription](../../aspose.finance.ofx.securitieslist/otherinfo/typedescription) { get; set; } | Gets or sets the description of security type. |
 
 ### See Also
 

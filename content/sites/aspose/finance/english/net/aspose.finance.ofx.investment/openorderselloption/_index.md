@@ -24,7 +24,8 @@ public class OpenOrderSellOption : AbstractOpenOrder
 
 | Name | Description |
 | --- | --- |
-| [OptionSellType](optionselltype) { get; set; } | Gets or sets the type of sale. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
+| [OptionSellType](../../aspose.finance.ofx.investment/openorderselloption/optionselltype) { get; set; } | Gets or sets the type of sale. |
 
 ### See Also
 

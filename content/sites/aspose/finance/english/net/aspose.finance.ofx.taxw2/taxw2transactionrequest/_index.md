@@ -24,7 +24,10 @@ public class TaxW2TransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [TaxW2Request](taxw2request) { get; set; } | Gets or sets the [`TaxW2Request`](./taxw2request). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [TaxW2Request](../../aspose.finance.ofx.taxw2/taxw2transactionrequest/taxw2request) { get; set; } | Gets or sets the [`TaxW2Request`](./taxw2request). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

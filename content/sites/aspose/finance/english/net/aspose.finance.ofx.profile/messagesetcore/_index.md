@@ -24,17 +24,17 @@ public class MessageSetCore
 
 | Name | Description |
 | --- | --- |
-| [Languages](languages) { get; set; } | Gets or sets the languages supported. |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [OfxSecurity](ofxsecurity) { get; set; } | Gets or sets the security level required for this message set. |
-| [RecoverFileError](recoverfileerror) { get; set; } | Gets or sets whether server supports file-based error recovery. |
-| [RefreshSupport](refreshsupport) { get; set; } | Gets or sets whether server supports refresh within synchronizations. |
-| [ServiceProviderName](serviceprovidername) { get; set; } | Gets or sets the service provider name. |
-| [SignonRealm](signonrealm) { get; set; } | Gets or sets the signon realm to use with this message set. |
-| [SyncMode](syncmode) { get; set; } | Gets or sets the synchronization mode. |
-| [TransportSecurity](transportsecurity) { get; set; } | Gets or sets whether transport-level security must be used. |
-| [Url](url) { get; set; } | Gets or sets the URL where messages in this set are to be sent. |
-| [Version](version) { get; set; } | Gets or sets the version number of the message set. |
+| [Languages](../../aspose.finance.ofx.profile/messagesetcore/languages) { get; set; } | Gets or sets the languages supported. |
+| [OfxExtension](../../aspose.finance.ofx.profile/messagesetcore/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [OfxSecurity](../../aspose.finance.ofx.profile/messagesetcore/ofxsecurity) { get; set; } | Gets or sets the security level required for this message set. |
+| [RecoverFileError](../../aspose.finance.ofx.profile/messagesetcore/recoverfileerror) { get; set; } | Gets or sets whether server supports file-based error recovery. |
+| [RefreshSupport](../../aspose.finance.ofx.profile/messagesetcore/refreshsupport) { get; set; } | Gets or sets whether server supports refresh within synchronizations. |
+| [ServiceProviderName](../../aspose.finance.ofx.profile/messagesetcore/serviceprovidername) { get; set; } | Gets or sets the service provider name. |
+| [SignonRealm](../../aspose.finance.ofx.profile/messagesetcore/signonrealm) { get; set; } | Gets or sets the signon realm to use with this message set. |
+| [SyncMode](../../aspose.finance.ofx.profile/messagesetcore/syncmode) { get; set; } | Gets or sets the synchronization mode. |
+| [TransportSecurity](../../aspose.finance.ofx.profile/messagesetcore/transportsecurity) { get; set; } | Gets or sets whether transport-level security must be used. |
+| [Url](../../aspose.finance.ofx.profile/messagesetcore/url) { get; set; } | Gets or sets the URL where messages in this set are to be sent. |
+| [Version](../../aspose.finance.ofx.profile/messagesetcore/version) { get; set; } | Gets or sets the version number of the message set. |
 
 ### See Also
 

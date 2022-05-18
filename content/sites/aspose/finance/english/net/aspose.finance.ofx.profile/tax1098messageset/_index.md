@@ -24,7 +24,7 @@ public class Tax1098MessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [Tax1098MessageSetV1](tax1098messagesetv1) { get; set; } | Gets or sets the [`Tax1098MessageSetV1`](./tax1098messagesetv1). |
+| [Tax1098MessageSetV1](../../aspose.finance.ofx.profile/tax1098messageset/tax1098messagesetv1) { get; set; } | Gets or sets the [`Tax1098MessageSetV1`](./tax1098messagesetv1). |
 
 ### See Also
 

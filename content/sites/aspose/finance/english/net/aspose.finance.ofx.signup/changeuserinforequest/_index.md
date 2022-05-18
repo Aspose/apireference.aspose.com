@@ -24,19 +24,19 @@ public class ChangeUserInfoRequest
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the address line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the address line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the address line 3. |
-| [City](city) { get; set; } | Gets or sets the city. |
-| [Country](country) { get; set; } | Gets or sets the country code. 3-letter country code from ISO/DIS-3166. |
-| [DayPhone](dayphone) { get; set; } | Gets or sets the daytime telephone number. |
-| [Email](email) { get; set; } | Gets or sets the electronic e-mail address. |
-| [EveningPhone](eveningphone) { get; set; } | Gets or sets the evening telephone number. |
-| [FirstName](firstname) { get; set; } | Gets or sets the first name of user. |
-| [LastName](lastname) { get; set; } | Gets or sets the last name of user. |
-| [MiddleName](middlename) { get; set; } | Gets or sets the middle name of user. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the postal code. |
-| [State](state) { get; set; } | Gets or sets the state or province. |
+| [Address1](../../aspose.finance.ofx.signup/changeuserinforequest/address1) { get; set; } | Gets or sets the address line 1. |
+| [Address2](../../aspose.finance.ofx.signup/changeuserinforequest/address2) { get; set; } | Gets or sets the address line 2. |
+| [Address3](../../aspose.finance.ofx.signup/changeuserinforequest/address3) { get; set; } | Gets or sets the address line 3. |
+| [City](../../aspose.finance.ofx.signup/changeuserinforequest/city) { get; set; } | Gets or sets the city. |
+| [Country](../../aspose.finance.ofx.signup/changeuserinforequest/country) { get; set; } | Gets or sets the country code. 3-letter country code from ISO/DIS-3166. |
+| [DayPhone](../../aspose.finance.ofx.signup/changeuserinforequest/dayphone) { get; set; } | Gets or sets the daytime telephone number. |
+| [Email](../../aspose.finance.ofx.signup/changeuserinforequest/email) { get; set; } | Gets or sets the electronic e-mail address. |
+| [EveningPhone](../../aspose.finance.ofx.signup/changeuserinforequest/eveningphone) { get; set; } | Gets or sets the evening telephone number. |
+| [FirstName](../../aspose.finance.ofx.signup/changeuserinforequest/firstname) { get; set; } | Gets or sets the first name of user. |
+| [LastName](../../aspose.finance.ofx.signup/changeuserinforequest/lastname) { get; set; } | Gets or sets the last name of user. |
+| [MiddleName](../../aspose.finance.ofx.signup/changeuserinforequest/middlename) { get; set; } | Gets or sets the middle name of user. |
+| [PostalCode](../../aspose.finance.ofx.signup/changeuserinforequest/postalcode) { get; set; } | Gets or sets the postal code. |
+| [State](../../aspose.finance.ofx.signup/changeuserinforequest/state) { get; set; } | Gets or sets the state or province. |
 
 ### See Also
 

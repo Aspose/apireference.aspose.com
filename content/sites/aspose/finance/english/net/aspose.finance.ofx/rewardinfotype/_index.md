@@ -24,9 +24,9 @@ public class RewardInfoType
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; set; } | Gets or sets the name of the reward program. |
-| [RewardBalance](rewardbalance) { get; set; } | Gets or sets the current rewards balance as of the time of the download. |
-| [RewardEarned](rewardearned) { get; set; } | Gets or sets the reward amount earned YTD as of the time of download. |
+| [Name](../../aspose.finance.ofx/rewardinfotype/name) { get; set; } | Gets or sets the name of the reward program. |
+| [RewardBalance](../../aspose.finance.ofx/rewardinfotype/rewardbalance) { get; set; } | Gets or sets the current rewards balance as of the time of the download. |
+| [RewardEarned](../../aspose.finance.ofx/rewardinfotype/rewardearned) { get; set; } | Gets or sets the reward amount earned YTD as of the time of download. |
 
 ### See Also
 

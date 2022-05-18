@@ -3,7 +3,7 @@ title: FootnoteArc
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7630
+weight: 7640
 url: /net/aspose.finance.xbrl/footnotearc/
 ---
 ## FootnoteArc class
@@ -20,12 +20,27 @@ public class FootnoteArc : Arc
 | --- | --- |
 | [FootnoteArc](footnotearc)(string, string) | Initializes a new instance of [`FootnoteArc`](../footnotearc) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Actuate](../../aspose.finance.xbrl/arc/actuate) { get; set; } | Gets or sets the actuate of the arc. |
+| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | Gets or sets the arcrole of the arc. |
+| [From](../../aspose.finance.xbrl/arc/from) { get; set; } | Gets or sets the from label of the arc. |
+| [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | Gets or sets the order of the arc. |
+| [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | Gets or sets the priority of the arc. |
+| [Show](../../aspose.finance.xbrl/arc/show) { get; set; } | Gets or sets the show of the arc. |
+| [Title](../../aspose.finance.xbrl/arc/title) { get; set; } | Gets or sets the title of the arc. |
+| [To](../../aspose.finance.xbrl/arc/to) { get; set; } | Gets or sets the to label of the arc. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
+| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | Gets or sets the arc use of the arc. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFromLocs](getfromlocs)() | Gets the collection of from [`Loc`](../loc) in the [`FootnoteArc`](../footnotearc). |
-| [GetToFootnotes](gettofootnotes)() | Gets the collection of to [`Footnote`](../footnote) in the [`FootnoteArc`](../footnotearc). |
+| [GetFromLocs](../../aspose.finance.xbrl/footnotearc/getfromlocs)() | Gets the collection of from [`Loc`](../loc) in the [`FootnoteArc`](../footnotearc). |
+| [GetToFootnotes](../../aspose.finance.xbrl/footnotearc/gettofootnotes)() | Gets the collection of to [`Footnote`](../footnote) in the [`FootnoteArc`](../footnotearc). |
 
 ### See Also
 

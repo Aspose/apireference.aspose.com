@@ -24,7 +24,7 @@ public class PresentmentDetailResponse
 
 | Name | Description |
 | --- | --- |
-| [PresentmentDetails](presentmentdetails) { get; set; } | Gets or sets the collection of [`PresentmentDetail`](../presentmentdetail). |
+| [PresentmentDetails](../../aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetails) { get; set; } | Gets or sets the collection of [`PresentmentDetail`](../presentmentdetail). |
 
 ### See Also
 

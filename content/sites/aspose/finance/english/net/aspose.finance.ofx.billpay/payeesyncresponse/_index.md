@@ -24,8 +24,10 @@ public class PayeeSyncResponse : AbstractSyncResponse
 
 | Name | Description |
 | --- | --- |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PayeeTransactionResponses](payeetransactionresponses) { get; set; } | Gets or sets the collection of [`PayeeTransactionResponse`](../payeetransactionresponse). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Yes if the token in the synchronization request is older than the earliest entry in the server’s history table.In this case, some responses have been lost. No if the token in the synchronization request is newer than or matches a token in the server’s history table. |
+| [OfxExtension](../../aspose.finance.ofx.billpay/payeesyncresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PayeeTransactionResponses](../../aspose.finance.ofx.billpay/payeesyncresponse/payeetransactionresponses) { get; set; } | Gets or sets the collection of [`PayeeTransactionResponse`](../payeetransactionresponse). |
+| [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Gets or sets the new synchronization token. |
 
 ### See Also
 

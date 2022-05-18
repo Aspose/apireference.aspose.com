@@ -24,9 +24,9 @@ public class StatementImage
 
 | Name | Description |
 | --- | --- |
-| [ExpireDate](expiredate) { get; set; } | Gets or sets the date after which embedded authentication token expires. |
-| [ImageUrl](imageurl) { get; set; } | Gets or sets the URL address for retrieving an image of the complete bill encoded as HTML. |
-| [PrefetchUrls](prefetchurls) { get; set; } | Gets or sets the prefetch urls. |
+| [ExpireDate](../../aspose.finance.ofx.billerdelivery/statementimage/expiredate) { get; set; } | Gets or sets the date after which embedded authentication token expires. |
+| [ImageUrl](../../aspose.finance.ofx.billerdelivery/statementimage/imageurl) { get; set; } | Gets or sets the URL address for retrieving an image of the complete bill encoded as HTML. |
+| [PrefetchUrls](../../aspose.finance.ofx.billerdelivery/statementimage/prefetchurls) { get; set; } | Gets or sets the prefetch urls. |
 
 ### See Also
 

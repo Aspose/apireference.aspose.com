@@ -18,7 +18,7 @@ public abstract class AbstractRecurringPaymentResponse
 
 | Name | Description |
 | --- | --- |
-| [RecurringServerId](recurringserverid) { get; set; } | Gets or sets the server-assigned ID for this transaction. |
+| [RecurringServerId](../../aspose.finance.ofx.billpay/abstractrecurringpaymentresponse/recurringserverid) { get; set; } | Gets or sets the server-assigned ID for this transaction. |
 
 ### See Also
 

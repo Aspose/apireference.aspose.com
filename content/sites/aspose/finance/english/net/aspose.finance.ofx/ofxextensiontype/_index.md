@@ -24,7 +24,7 @@ public class OfxExtensionType
 
 | Name | Description |
 | --- | --- |
-| [OfxElements](ofxelements) { get; set; } | Gets or sets the collection of [`OfxElementType`](../ofxelementtype). |
+| [OfxElements](../../aspose.finance.ofx/ofxextensiontype/ofxelements) { get; set; } | Gets or sets the collection of [`OfxElementType`](../ofxelementtype). |
 
 ### See Also
 

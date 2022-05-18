@@ -18,7 +18,7 @@ public abstract class AbstractPositionBase
 
 | Name | Description |
 | --- | --- |
-| [InvestmentPosition](investmentposition) { get; set; } | Gets or sets the [`InvestmentPosition`](./investmentposition). |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Gets or sets the [`InvestmentPosition`](./investmentposition). |
 
 ### See Also
 

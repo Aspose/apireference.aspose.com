@@ -24,9 +24,13 @@ public class RecurringIntraSyncRequest : AbstractSyncRequest
 
 | Name | Description |
 | --- | --- |
-| [AccountFrom](accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [RecurringIntraTransactionRequests](recurringintratransactionrequests) { get; set; } | Gets or sets the collection of [`RecurringIntraTransactionRequest`](../recurringintratransactionrequest). |
+| [AccountFrom](../../aspose.finance.ofx.bank/recurringintrasyncrequest/accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) or [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [OfxExtension](../../aspose.finance.ofx.bank/recurringintrasyncrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [RecurringIntraTransactionRequests](../../aspose.finance.ofx.bank/recurringintrasyncrequest/recurringintratransactionrequests) { get; set; } | Gets or sets the collection of [`RecurringIntraTransactionRequest`](../recurringintratransactionrequest). |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
 
 ### See Also
 

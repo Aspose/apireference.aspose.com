@@ -24,9 +24,9 @@ public class Tax1098Request
 
 | Name | Description |
 | --- | --- |
-| [AccountNumber](accountnumber) { get; set; } | Gets or sets the account number of borrower, if different from SSN. |
-| [SSN](ssn) { get; set; } | Gets or sets the borrower’s social security number. |
-| [TaxYears](taxyears) { get; set; } | Gets or sets the tax year of the requested forms. |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098request/accountnumber) { get; set; } | Gets or sets the account number of borrower, if different from SSN. |
+| [SSN](../../aspose.finance.ofx.tax1098/tax1098request/ssn) { get; set; } | Gets or sets the borrower’s social security number. |
+| [TaxYears](../../aspose.finance.ofx.tax1098/tax1098request/taxyears) { get; set; } | Gets or sets the tax year of the requested forms. |
 
 ### See Also
 

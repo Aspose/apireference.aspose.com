@@ -14,12 +14,27 @@ This class is a [`Xlink`](../xlink) with Arc type. It defines various kinds of r
 public class DefinitionArc : Arc
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Actuate](../../aspose.finance.xbrl/arc/actuate) { get; set; } | Gets or sets the actuate of the arc. |
+| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | Gets or sets the arcrole of the arc. |
+| [From](../../aspose.finance.xbrl/arc/from) { get; set; } | Gets or sets the from label of the arc. |
+| [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | Gets or sets the order of the arc. |
+| [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | Gets or sets the priority of the arc. |
+| [Show](../../aspose.finance.xbrl/arc/show) { get; set; } | Gets or sets the show of the arc. |
+| [Title](../../aspose.finance.xbrl/arc/title) { get; set; } | Gets or sets the title of the arc. |
+| [To](../../aspose.finance.xbrl/arc/to) { get; set; } | Gets or sets the to label of the arc. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
+| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | Gets or sets the arc use of the arc. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFromLocs](getfromlocs)() | Gets the collection of from [`Loc`](../loc) in the [`DefinitionArc`](../definitionarc). |
-| [GetToLocs](gettolocs)() | Gets the collection of to [`Loc`](../loc) in the [`DefinitionArc`](../definitionarc). |
+| [GetFromLocs](../../aspose.finance.xbrl/definitionarc/getfromlocs)() | Gets the collection of from [`Loc`](../loc) in the [`DefinitionArc`](../definitionarc). |
+| [GetToLocs](../../aspose.finance.xbrl/definitionarc/gettolocs)() | Gets the collection of to [`Loc`](../loc) in the [`DefinitionArc`](../definitionarc). |
 
 ### See Also
 

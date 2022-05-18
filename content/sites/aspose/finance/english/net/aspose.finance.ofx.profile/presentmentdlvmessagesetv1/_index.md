@@ -24,8 +24,9 @@ public class PresentmentDlvMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [EmailProfile](emailprofile) { get; set; } | Gets or sets the [`EmailProfile`](./emailprofile). |
-| [PresentmentDlvProfile](presentmentdlvprofile) { get; set; } | Gets or sets the [`PresentmentDlvProfile`](./presentmentdlvprofile). |
+| [EmailProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/emailprofile) { get; set; } | Gets or sets the [`EmailProfile`](./emailprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [PresentmentDlvProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile) { get; set; } | Gets or sets the [`PresentmentDlvProfile`](./presentmentdlvprofile). |
 
 ### See Also
 

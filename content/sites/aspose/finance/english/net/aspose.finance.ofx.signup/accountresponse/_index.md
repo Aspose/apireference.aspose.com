@@ -24,9 +24,9 @@ public class AccountResponse
 
 | Name | Description |
 | --- | --- |
-| [Service](service) { get; set; } | Gets or sets the service to be added/changed/deleted. |
-| [ServiceAction](serviceaction) { get; set; } | Gets or sets the [`ServiceAdd`](../serviceadd) or [`ServiceChange`](../servicechange) or [`ServiceDelete`](../servicedelete). |
-| [ServiceStatus](servicestatus) { get; set; } | Gets or sets the service status. |
+| [Service](../../aspose.finance.ofx.signup/accountresponse/service) { get; set; } | Gets or sets the service to be added/changed/deleted. |
+| [ServiceAction](../../aspose.finance.ofx.signup/accountresponse/serviceaction) { get; set; } | Gets or sets the [`ServiceAdd`](../serviceadd) or [`ServiceChange`](../servicechange) or [`ServiceDelete`](../servicedelete). |
+| [ServiceStatus](../../aspose.finance.ofx.signup/accountresponse/servicestatus) { get; set; } | Gets or sets the service status. |
 
 ### See Also
 

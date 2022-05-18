@@ -3,7 +3,7 @@ title: Fact
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7610
+weight: 7620
 url: /net/aspose.finance.xbrl/fact/
 ---
 ## Fact class
@@ -18,8 +18,8 @@ public abstract class Fact
 
 | Name | Description |
 | --- | --- |
-| [Id](id) { get; set; } | Gets or sets the id of the fact. |
-| [Name](name) { get; set; } | Gets or sets the qualified name of the fact. |
+| [Id](../../aspose.finance.xbrl/fact/id) { get; set; } | Gets or sets the id of the fact. |
+| [Name](../../aspose.finance.xbrl/fact/name) { get; set; } | Gets or sets the qualified name of the fact. |
 
 ### See Also
 

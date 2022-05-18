@@ -24,9 +24,9 @@ public class EmailRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [GetMimeTransactionRequests](getmimetransactionrequests) { get; set; } | Gets or sets the collection of [`GetMimeTransactionRequest`](../../aspose.finance.ofx.email/getmimetransactionrequest). |
-| [MailSyncRequests](mailsyncrequests) { get; set; } | Gets or sets the collection of [`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest). |
-| [MailTransactionRequests](mailtransactionrequests) { get; set; } | Gets or sets the collection of [`MailTransactionRequest`](../../aspose.finance.ofx.email/mailtransactionrequest). |
+| [GetMimeTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/getmimetransactionrequests) { get; set; } | Gets or sets the collection of [`GetMimeTransactionRequest`](../../aspose.finance.ofx.email/getmimetransactionrequest). |
+| [MailSyncRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailsyncrequests) { get; set; } | Gets or sets the collection of [`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest). |
+| [MailTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailtransactionrequests) { get; set; } | Gets or sets the collection of [`MailTransactionRequest`](../../aspose.finance.ofx.email/mailtransactionrequest). |
 
 ### See Also
 

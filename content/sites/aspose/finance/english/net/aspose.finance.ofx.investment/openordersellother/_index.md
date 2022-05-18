@@ -24,7 +24,8 @@ public class OpenOrderSellOther : AbstractOpenOrder
 
 | Name | Description |
 | --- | --- |
-| [UnitType](unittype) { get; set; } | Gets or sets what the units represent. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
+| [UnitType](../../aspose.finance.ofx.investment/openordersellother/unittype) { get; set; } | Gets or sets what the units represent. |
 
 ### See Also
 

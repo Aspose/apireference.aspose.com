@@ -24,9 +24,9 @@ public class PaymentInquiryResponse
 
 | Name | Description |
 | --- | --- |
-| [CheckNumber](checknumber) { get; set; } | Gets or sets the check number assigned by the server to this payment. |
-| [PaymentProcessingStatus](paymentprocessingstatus) { get; set; } | Gets or sets the [`PaymentProcessingStatus`](./paymentprocessingstatus). |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being queried. |
+| [CheckNumber](../../aspose.finance.ofx.billpay/paymentinquiryresponse/checknumber) { get; set; } | Gets or sets the check number assigned by the server to this payment. |
+| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentinquiryresponse/paymentprocessingstatus) { get; set; } | Gets or sets the [`PaymentProcessingStatus`](./paymentprocessingstatus). |
+| [ServerId](../../aspose.finance.ofx.billpay/paymentinquiryresponse/serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being queried. |
 
 ### See Also
 

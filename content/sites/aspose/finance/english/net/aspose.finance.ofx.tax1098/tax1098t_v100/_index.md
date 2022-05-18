@@ -24,23 +24,23 @@ public class Tax1098T_V100 : AbstractTax1098
 
 | Name | Description |
 | --- | --- |
-| [AccountNumber](accountnumber) { get; set; } | Gets or sets the account number. |
-| [AdjustmentPriorYear](adjustmentprioryear) { get; set; } | Gets or sets the adjustments for prior year. |
-| [AdjustmentsScholarship](adjustmentsscholarship) { get; set; } | Gets or sets the adjustments to scholarships or grants. |
-| [BilledExpense](billedexpense) { get; set; } | Gets or sets the amount billed for tuition and expenses. |
-| [ChangeMethod](changemethod) { get; set; } | Gets or sets whether change of reporting method |
-| [FilerAddress](fileraddress) { get; set; } | Gets or sets the [`FilerAddress`](./fileraddress). |
-| [FilerId](filerid) { get; set; } | Gets or sets the filer’s Federal Identification Number. |
-| [Graduate](graduate) { get; set; } | Gets or sets whether graduate student. |
-| [HalfTime](halftime) { get; set; } | Gets or sets whether at least half-time student. |
-| [IncludeJanuaryMarch](includejanuarymarch) { get; set; } | Gets or sets whether includes amounts January and March. |
-| [InsuranceReimbursement](insurancereimbursement) { get; set; } | Gets or sets the insurance reimbursement/refund. |
-| [QualifiedTuition](qualifiedtuition) { get; set; } | Gets or sets the payment received for qualified tuition and expenses. |
-| [Scholarships](scholarships) { get; set; } | Gets or sets the scholarships or grants. |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
-| [StudentAddress](studentaddress) { get; set; } | Gets or sets the [`StudentAddress`](./studentaddress). |
-| [StudentSocialSecurityNumber](studentsocialsecuritynumber) { get; set; } | Gets or sets the student’s Social Security number. |
-| [TaxYear](taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098t_v100/accountnumber) { get; set; } | Gets or sets the account number. |
+| [AdjustmentPriorYear](../../aspose.finance.ofx.tax1098/tax1098t_v100/adjustmentprioryear) { get; set; } | Gets or sets the adjustments for prior year. |
+| [AdjustmentsScholarship](../../aspose.finance.ofx.tax1098/tax1098t_v100/adjustmentsscholarship) { get; set; } | Gets or sets the adjustments to scholarships or grants. |
+| [BilledExpense](../../aspose.finance.ofx.tax1098/tax1098t_v100/billedexpense) { get; set; } | Gets or sets the amount billed for tuition and expenses. |
+| [ChangeMethod](../../aspose.finance.ofx.tax1098/tax1098t_v100/changemethod) { get; set; } | Gets or sets whether change of reporting method |
+| [FilerAddress](../../aspose.finance.ofx.tax1098/tax1098t_v100/fileraddress) { get; set; } | Gets or sets the [`FilerAddress`](./fileraddress). |
+| [FilerId](../../aspose.finance.ofx.tax1098/tax1098t_v100/filerid) { get; set; } | Gets or sets the filer’s Federal Identification Number. |
+| [Graduate](../../aspose.finance.ofx.tax1098/tax1098t_v100/graduate) { get; set; } | Gets or sets whether graduate student. |
+| [HalfTime](../../aspose.finance.ofx.tax1098/tax1098t_v100/halftime) { get; set; } | Gets or sets whether at least half-time student. |
+| [IncludeJanuaryMarch](../../aspose.finance.ofx.tax1098/tax1098t_v100/includejanuarymarch) { get; set; } | Gets or sets whether includes amounts January and March. |
+| [InsuranceReimbursement](../../aspose.finance.ofx.tax1098/tax1098t_v100/insurancereimbursement) { get; set; } | Gets or sets the insurance reimbursement/refund. |
+| [QualifiedTuition](../../aspose.finance.ofx.tax1098/tax1098t_v100/qualifiedtuition) { get; set; } | Gets or sets the payment received for qualified tuition and expenses. |
+| [Scholarships](../../aspose.finance.ofx.tax1098/tax1098t_v100/scholarships) { get; set; } | Gets or sets the scholarships or grants. |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098t_v100/serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
+| [StudentAddress](../../aspose.finance.ofx.tax1098/tax1098t_v100/studentaddress) { get; set; } | Gets or sets the [`StudentAddress`](./studentaddress). |
+| [StudentSocialSecurityNumber](../../aspose.finance.ofx.tax1098/tax1098t_v100/studentsocialsecuritynumber) { get; set; } | Gets or sets the student’s Social Security number. |
+| [TaxYear](../../aspose.finance.ofx.tax1098/tax1098t_v100/taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
 
 ### See Also
 

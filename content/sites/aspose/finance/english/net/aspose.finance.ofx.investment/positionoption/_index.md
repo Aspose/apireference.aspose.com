@@ -24,7 +24,8 @@ public class PositionOption : AbstractPositionBase
 
 | Name | Description |
 | --- | --- |
-| [Secured](secured) { get; set; } | Gets or sets how the option is secured. |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Gets or sets the [`InvestmentPosition`](../abstractpositionbase/investmentposition). |
+| [Secured](../../aspose.finance.ofx.investment/positionoption/secured) { get; set; } | Gets or sets how the option is secured. |
 
 ### See Also
 

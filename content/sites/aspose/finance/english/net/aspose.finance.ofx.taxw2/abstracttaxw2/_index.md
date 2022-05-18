@@ -18,9 +18,9 @@ public abstract class AbstractTaxW2
 
 | Name | Description |
 | --- | --- |
-| [ControlNumber](controlnumber) { get; set; } | Gets or sets the control number. |
-| [TaxYear](taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
-| [Void](void) { get; set; } | Gets or sets whether this W2 is void and a new W2 will be provided. |
+| [ControlNumber](../../aspose.finance.ofx.taxw2/abstracttaxw2/controlnumber) { get; set; } | Gets or sets the control number. |
+| [TaxYear](../../aspose.finance.ofx.taxw2/abstracttaxw2/taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
+| [Void](../../aspose.finance.ofx.taxw2/abstracttaxw2/void) { get; set; } | Gets or sets whether this W2 is void and a new W2 will be provided. |
 
 ### See Also
 

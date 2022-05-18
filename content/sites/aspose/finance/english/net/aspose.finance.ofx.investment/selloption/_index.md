@@ -24,11 +24,12 @@ public class SellOption : AbstractInvestmentSellTransaction
 
 | Name | Description |
 | --- | --- |
-| [OptionSellType](optionselltype) { get; set; } | Gets or sets the option sell type. |
-| [RelatedType](relatedtype) { get; set; } | Gets or sets the related option transaction type. |
-| [RelateFITransactionID](relatefitransactionid) { get; set; } | Gets or sets the relate transactions associated with mutual fund exchanges. |
-| [Secured](secured) { get; set; } | Gets or sets how an option is secured. |
-| [SharePerContract](sharepercontract) { get; set; } | Gets or sets the number of shares per contract. |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Gets or sets the [`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [OptionSellType](../../aspose.finance.ofx.investment/selloption/optionselltype) { get; set; } | Gets or sets the option sell type. |
+| [RelatedType](../../aspose.finance.ofx.investment/selloption/relatedtype) { get; set; } | Gets or sets the related option transaction type. |
+| [RelateFITransactionID](../../aspose.finance.ofx.investment/selloption/relatefitransactionid) { get; set; } | Gets or sets the relate transactions associated with mutual fund exchanges. |
+| [Secured](../../aspose.finance.ofx.investment/selloption/secured) { get; set; } | Gets or sets how an option is secured. |
+| [SharePerContract](../../aspose.finance.ofx.investment/selloption/sharepercontract) { get; set; } | Gets or sets the number of shares per contract. |
 
 ### See Also
 

@@ -24,12 +24,12 @@ public class SignupResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [AccountInfoTransactionResponses](accountinfotransactionresponses) { get; set; } | Gets or sets the collection of [`AccountInfoTransactionResponse`](../../aspose.finance.ofx.signup/accountinfotransactionresponse). |
-| [AccountSyncResponses](accountsyncresponses) { get; set; } | Gets or sets the collection of [`AccountSyncResponse`](../../aspose.finance.ofx.signup/accountsyncresponse). |
-| [AccountTransactionResponses](accounttransactionresponses) { get; set; } | Gets or sets the collection of [`AccountTransactionResponse`](../../aspose.finance.ofx.signup/accounttransactionresponse). |
-| [ChangeUserInfoSyncResponses](changeuserinfosyncresponses) { get; set; } | Gets or sets the collection of [`ChangeUserInfoSyncResponse`](../../aspose.finance.ofx.signup/changeuserinfosyncresponse). |
-| [ChangeUserInfoTransactionResponses](changeuserinfotransactionresponses) { get; set; } | Gets or sets the collection of [`ChangeUserInfoTransactionResponse`](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse). |
-| [EnrollTransactionResponses](enrolltransactionresponses) { get; set; } | Gets or sets the collection of [`EnrollTransactionResponse`](../../aspose.finance.ofx.signup/enrolltransactionresponse). |
+| [AccountInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountinfotransactionresponses) { get; set; } | Gets or sets the collection of [`AccountInfoTransactionResponse`](../../aspose.finance.ofx.signup/accountinfotransactionresponse). |
+| [AccountSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountsyncresponses) { get; set; } | Gets or sets the collection of [`AccountSyncResponse`](../../aspose.finance.ofx.signup/accountsyncresponse). |
+| [AccountTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accounttransactionresponses) { get; set; } | Gets or sets the collection of [`AccountTransactionResponse`](../../aspose.finance.ofx.signup/accounttransactionresponse). |
+| [ChangeUserInfoSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfosyncresponses) { get; set; } | Gets or sets the collection of [`ChangeUserInfoSyncResponse`](../../aspose.finance.ofx.signup/changeuserinfosyncresponse). |
+| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfotransactionresponses) { get; set; } | Gets or sets the collection of [`ChangeUserInfoTransactionResponse`](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse). |
+| [EnrollTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/enrolltransactionresponses) { get; set; } | Gets or sets the collection of [`EnrollTransactionResponse`](../../aspose.finance.ofx.signup/enrolltransactionresponse). |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class WireDestinationBank
 
 | Name | Description |
 | --- | --- |
-| [ExtBankDescription](extbankdescription) { get; set; } | Gets or sets the [`ExtBankDescription`](./extbankdescription). |
+| [ExtBankDescription](../../aspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription) { get; set; } | Gets or sets the [`ExtBankDescription`](./extbankdescription). |
 
 ### See Also
 

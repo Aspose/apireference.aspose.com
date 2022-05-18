@@ -24,9 +24,9 @@ public class SignonResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [ChallengeTransactionResponse](challengetransactionresponse) { get; set; } | Gets or sets the [`ChallengeTransactionResponse`](../../aspose.finance.ofx.signon/challengetransactionresponse). |
-| [PinChangeTransactionResponse](pinchangetransactionresponse) { get; set; } | Gets or sets the [`PinChangeTransactionResponse`](../../aspose.finance.ofx.signon/pinchangetransactionresponse). |
-| [SignonResponse](signonresponse) { get; set; } | Gets or sets the [`SignonResponse`](../../aspose.finance.ofx.signon/signonresponse). |
+| [ChallengeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/challengetransactionresponse) { get; set; } | Gets or sets the [`ChallengeTransactionResponse`](../../aspose.finance.ofx.signon/challengetransactionresponse). |
+| [PinChangeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/pinchangetransactionresponse) { get; set; } | Gets or sets the [`PinChangeTransactionResponse`](../../aspose.finance.ofx.signon/pinchangetransactionresponse). |
+| [SignonResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/signonresponse) { get; set; } | Gets or sets the [`SignonResponse`](../../aspose.finance.ofx.signon/signonresponse). |
 
 ### See Also
 

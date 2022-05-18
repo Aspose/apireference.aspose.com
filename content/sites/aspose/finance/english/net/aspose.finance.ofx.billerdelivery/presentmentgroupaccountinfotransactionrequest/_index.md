@@ -24,10 +24,13 @@ public class PresentmentGroupAccountInfoTransactionRequest : AbstractTransaction
 
 | Name | Description |
 | --- | --- |
-| [AccountInfoRequest](accountinforequest) { get; set; } | Gets or sets the [`AccountInfoRequest`](./accountinforequest). |
-| [GroupId](groupid) { get; set; } | Gets or sets the requests account information for users in the group. |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [UserId](userid) { get; set; } | Gets or sets the requests account information for the specified user |
+| [AccountInfoRequest](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/accountinforequest) { get; set; } | Gets or sets the [`AccountInfoRequest`](./accountinforequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [GroupId](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/groupid) { get; set; } | Gets or sets the requests account information for users in the group. |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
+| [UserId](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/userid) { get; set; } | Gets or sets the requests account information for the specified user |
 
 ### See Also
 

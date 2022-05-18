@@ -20,6 +20,12 @@ public class SellOther : AbstractInvestmentSellTransaction
 | --- | --- |
 | [SellOther](sellother)() | Initializes a new instance of [`SellOther`](../sellother) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Gets or sets the [`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+
 ### See Also
 
 * class [AbstractInvestmentSellTransaction](../abstractinvestmentselltransaction)

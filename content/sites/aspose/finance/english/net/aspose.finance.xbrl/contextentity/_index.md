@@ -24,9 +24,9 @@ public class ContextEntity
 
 | Name | Description |
 | --- | --- |
-| [DimensionMemberList](dimensionmemberlist) { get; } | Gets the dimension member list defined in segment. |
-| [Identifier](identifier) { get; set; } | Gets or sets the context entity identifier. |
-| [IdentifierScheme](identifierscheme) { get; set; } | Gets or sets the context entity identifier scheme. |
+| [DimensionMemberList](../../aspose.finance.xbrl/contextentity/dimensionmemberlist) { get; } | Gets the dimension member list defined in segment. |
+| [Identifier](../../aspose.finance.xbrl/contextentity/identifier) { get; set; } | Gets or sets the context entity identifier. |
+| [IdentifierScheme](../../aspose.finance.xbrl/contextentity/identifierscheme) { get; set; } | Gets or sets the context entity identifier scheme. |
 
 ### See Also
 

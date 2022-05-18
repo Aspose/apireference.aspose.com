@@ -24,7 +24,7 @@ public class TaxW2RequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [TaxW2TransactionRequests](taxw2transactionrequests) { get; set; } | Gets or sets the collection of [`TaxW2TransactionRequest`](../../aspose.finance.ofx.taxw2/taxw2transactionrequest). |
+| [TaxW2TransactionRequests](../../aspose.finance.ofx/taxw2requestmessagesetv1/taxw2transactionrequests) { get; set; } | Gets or sets the collection of [`TaxW2TransactionRequest`](../../aspose.finance.ofx.taxw2/taxw2transactionrequest). |
 
 ### See Also
 

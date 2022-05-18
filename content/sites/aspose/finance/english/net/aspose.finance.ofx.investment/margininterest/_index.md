@@ -24,10 +24,11 @@ public class MarginInterest : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
-| [SubAccountFund](subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
-| [Total](total) { get; set; } | Gets or sets the transaction total. |
+| [Currency](../../aspose.finance.ofx.investment/margininterest/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [OriginCurrency](../../aspose.finance.ofx.investment/margininterest/origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
+| [SubAccountFund](../../aspose.finance.ofx.investment/margininterest/subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
+| [Total](../../aspose.finance.ofx.investment/margininterest/total) { get; set; } | Gets or sets the transaction total. |
 
 ### See Also
 

@@ -24,11 +24,11 @@ public class TransferInfo
 
 | Name | Description |
 | --- | --- |
-| [AccountFrom](accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../bankaccount) or [`CreditCardAccount`](../creditcardaccount) or [`LoanAccount`](../loanaccount). |
-| [AccountTo](accountto) { get; set; } | Gets or sets the to of [`BankAccount`](../bankaccount) or [`CreditCardAccount`](../creditcardaccount) or [`LoanAccount`](../loanaccount). |
-| [DateDue](datedue) { get; set; } | Gets or sets the date that the transfer is to be sent. |
-| [LoanTransactionAmount](loantransactionamount) { get; set; } | Gets or sets the [`LoanTransactionAmount`](./loantransactionamount). |
-| [TransferAmount](transferamount) { get; set; } | Gets or sets the amount of the transfer |
+| [AccountFrom](../../aspose.finance.ofx/transferinfo/accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../bankaccount) or [`CreditCardAccount`](../creditcardaccount) or [`LoanAccount`](../loanaccount). |
+| [AccountTo](../../aspose.finance.ofx/transferinfo/accountto) { get; set; } | Gets or sets the to of [`BankAccount`](../bankaccount) or [`CreditCardAccount`](../creditcardaccount) or [`LoanAccount`](../loanaccount). |
+| [DateDue](../../aspose.finance.ofx/transferinfo/datedue) { get; set; } | Gets or sets the date that the transfer is to be sent. |
+| [LoanTransactionAmount](../../aspose.finance.ofx/transferinfo/loantransactionamount) { get; set; } | Gets or sets the [`LoanTransactionAmount`](./loantransactionamount). |
+| [TransferAmount](../../aspose.finance.ofx/transferinfo/transferamount) { get; set; } | Gets or sets the amount of the transfer |
 
 ### See Also
 

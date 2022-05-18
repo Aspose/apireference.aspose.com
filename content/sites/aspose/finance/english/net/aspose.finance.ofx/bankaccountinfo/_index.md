@@ -24,17 +24,17 @@ public class BankAccountInfo : AbstractAccountInfo
 
 | Name | Description |
 | --- | --- |
-| [AccountClassification](accountclassification) { get; set; } | Gets or sets the account classification. |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../bankaccount). |
-| [LoanAccountType](loanaccounttype) { get; set; } | Gets or sets the loan account type |
-| [MaturityAmount](maturityamount) { get; set; } | Gets or sets the amount at maturity for the CD, only applies to CD accounts. |
-| [MaturityDate](maturitydate) { get; set; } | Gets or sets the maturity date for the CD, only applies to CD accounts. |
-| [MinimumBalanceRequired](minimumbalancerequired) { get; set; } | Gets or sets the minimum balance required to avoid service fees. |
-| [OverdraftLimit](overdraftlimit) { get; set; } | Gets or sets the current overdraft limit active on the account |
-| [ServiceStatus](servicestatus) { get; set; } | Gets or sets the status of the account. |
-| [SupportTransactionDetailDownload](supporttransactiondetaildownload) { get; set; } | If account supports transaction detail downloads, yes, if it is balance-only, no. |
-| [TransferDestination](transferdestination) { get; set; } | if account is enabled as a destination for an intrabank or interbank transfer, yes, otherwise, no. |
-| [TransferSource](transfersource) { get; set; } | If account is enabled as a source for an intrabank or interbank transfer, yes, otherwise, no. |
+| [AccountClassification](../../aspose.finance.ofx/bankaccountinfo/accountclassification) { get; set; } | Gets or sets the account classification. |
+| [BankAccountFrom](../../aspose.finance.ofx/bankaccountinfo/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../bankaccount). |
+| [LoanAccountType](../../aspose.finance.ofx/bankaccountinfo/loanaccounttype) { get; set; } | Gets or sets the loan account type |
+| [MaturityAmount](../../aspose.finance.ofx/bankaccountinfo/maturityamount) { get; set; } | Gets or sets the amount at maturity for the CD, only applies to CD accounts. |
+| [MaturityDate](../../aspose.finance.ofx/bankaccountinfo/maturitydate) { get; set; } | Gets or sets the maturity date for the CD, only applies to CD accounts. |
+| [MinimumBalanceRequired](../../aspose.finance.ofx/bankaccountinfo/minimumbalancerequired) { get; set; } | Gets or sets the minimum balance required to avoid service fees. |
+| [OverdraftLimit](../../aspose.finance.ofx/bankaccountinfo/overdraftlimit) { get; set; } | Gets or sets the current overdraft limit active on the account |
+| [ServiceStatus](../../aspose.finance.ofx/bankaccountinfo/servicestatus) { get; set; } | Gets or sets the status of the account. |
+| [SupportTransactionDetailDownload](../../aspose.finance.ofx/bankaccountinfo/supporttransactiondetaildownload) { get; set; } | If account supports transaction detail downloads, yes, if it is balance-only, no. |
+| [TransferDestination](../../aspose.finance.ofx/bankaccountinfo/transferdestination) { get; set; } | if account is enabled as a destination for an intrabank or interbank transfer, yes, otherwise, no. |
+| [TransferSource](../../aspose.finance.ofx/bankaccountinfo/transfersource) { get; set; } | If account is enabled as a source for an intrabank or interbank transfer, yes, otherwise, no. |
 
 ### See Also
 

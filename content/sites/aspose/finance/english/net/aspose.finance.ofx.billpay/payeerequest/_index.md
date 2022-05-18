@@ -24,10 +24,10 @@ public class PayeeRequest : AbstractPayeeRequest
 
 | Name | Description |
 | --- | --- |
-| [BankAccountTo](bankaccountto) { get; set; } | Gets or sets the destination [`BankAccount`](../../aspose.finance.ofx/bankaccount), specified in countries that pay using transfers |
-| [Payee](payee) { get; set; } | Gets or sets the complete !:Common.Payee information. |
-| [PayeeAccounts](payeeaccounts) { get; set; } | Gets or sets the collection user’s account number with the payee. |
-| [PayeeId](payeeid) { get; set; } | Gets or sets the server assigned payee identifier. |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeerequest/bankaccountto) { get; set; } | Gets or sets the destination [`BankAccount`](../../aspose.finance.ofx/bankaccount), specified in countries that pay using transfers |
+| [Payee](../../aspose.finance.ofx.billpay/payeerequest/payee) { get; set; } | Gets or sets the complete !:Common.Payee information. |
+| [PayeeAccounts](../../aspose.finance.ofx.billpay/payeerequest/payeeaccounts) { get; set; } | Gets or sets the collection user’s account number with the payee. |
+| [PayeeId](../../aspose.finance.ofx.billpay/payeerequest/payeeid) { get; set; } | Gets or sets the server assigned payee identifier. |
 
 ### See Also
 

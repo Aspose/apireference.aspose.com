@@ -24,11 +24,12 @@ public class LoanMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [AmortizationAvailable](amortizationavailable) { get; set; } | Gets or sets whether amortization statement information is available |
-| [CanEmail](canemail) { get; set; } | Gets or sets whether supports generalized loan e-mail. |
-| [ClosingAvailable](closingavailable) { get; set; } | Gets or sets whether closing statement information is available |
-| [ImageProfile](imageprofile) { get; set; } | Gets or sets the [`ImageProfile`](./imageprofile). |
-| [TransactionDownload](transactiondownload) { get; set; } | Gets or sets whether downloading loan statement transactions is available. |
+| [AmortizationAvailable](../../aspose.finance.ofx.profile/loanmessagesetv1/amortizationavailable) { get; set; } | Gets or sets whether amortization statement information is available |
+| [CanEmail](../../aspose.finance.ofx.profile/loanmessagesetv1/canemail) { get; set; } | Gets or sets whether supports generalized loan e-mail. |
+| [ClosingAvailable](../../aspose.finance.ofx.profile/loanmessagesetv1/closingavailable) { get; set; } | Gets or sets whether closing statement information is available |
+| [ImageProfile](../../aspose.finance.ofx.profile/loanmessagesetv1/imageprofile) { get; set; } | Gets or sets the [`ImageProfile`](./imageprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [TransactionDownload](../../aspose.finance.ofx.profile/loanmessagesetv1/transactiondownload) { get; set; } | Gets or sets whether downloading loan statement transactions is available. |
 
 ### See Also
 

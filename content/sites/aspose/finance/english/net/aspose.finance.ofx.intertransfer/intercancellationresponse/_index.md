@@ -24,7 +24,7 @@ public class InterCancellationResponse : AbstractInterResponse
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID of the transfer to cancel. |
+| [ServerId](../../aspose.finance.ofx.intertransfer/intercancellationresponse/serverid) { get; set; } | Gets or sets the ID of the transfer to cancel. |
 
 ### See Also
 

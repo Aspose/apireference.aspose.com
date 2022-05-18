@@ -24,18 +24,18 @@ public class Employee
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the employee address, line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the employee address, line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the employee address, line 3. |
-| [City](city) { get; set; } | Gets or sets the employee city. |
-| [CountryString](countrystring) { get; set; } | Gets or sets the employee country, do not abbreviate. |
-| [FirstName](firstname) { get; set; } | Gets or sets the employee first name. |
-| [LastName](lastname) { get; set; } | Gets or sets the employee last name. |
-| [MiddleName](middlename) { get; set; } | Gets or sets the employee middle name or initial, |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the employee postal code. |
-| [SSN](ssn) { get; set; } | e Gets or sets the employee social scurity number. |
-| [State](state) { get; set; } | Gets or sets the employee state or province. |
-| [Suffix](suffix) { get; set; } | Gets or sets the employee suffix. |
+| [Address1](../../aspose.finance.ofx.taxw2/employee/address1) { get; set; } | Gets or sets the employee address, line 1. |
+| [Address2](../../aspose.finance.ofx.taxw2/employee/address2) { get; set; } | Gets or sets the employee address, line 2. |
+| [Address3](../../aspose.finance.ofx.taxw2/employee/address3) { get; set; } | Gets or sets the employee address, line 3. |
+| [City](../../aspose.finance.ofx.taxw2/employee/city) { get; set; } | Gets or sets the employee city. |
+| [CountryString](../../aspose.finance.ofx.taxw2/employee/countrystring) { get; set; } | Gets or sets the employee country, do not abbreviate. |
+| [FirstName](../../aspose.finance.ofx.taxw2/employee/firstname) { get; set; } | Gets or sets the employee first name. |
+| [LastName](../../aspose.finance.ofx.taxw2/employee/lastname) { get; set; } | Gets or sets the employee last name. |
+| [MiddleName](../../aspose.finance.ofx.taxw2/employee/middlename) { get; set; } | Gets or sets the employee middle name or initial, |
+| [PostalCode](../../aspose.finance.ofx.taxw2/employee/postalcode) { get; set; } | Gets or sets the employee postal code. |
+| [SSN](../../aspose.finance.ofx.taxw2/employee/ssn) { get; set; } | e Gets or sets the employee social scurity number. |
+| [State](../../aspose.finance.ofx.taxw2/employee/state) { get; set; } | Gets or sets the employee state or province. |
+| [Suffix](../../aspose.finance.ofx.taxw2/employee/suffix) { get; set; } | Gets or sets the employee suffix. |
 
 ### See Also
 

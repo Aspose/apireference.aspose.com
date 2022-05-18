@@ -24,11 +24,11 @@ public class DepositMailResponse : AbstractMailResponse
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [Fee](fee) { get; set; } | Gets or sets the fee assessed for NSF. |
-| [Mail](mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
-| [TransactionAmount](transactionamount) { get; set; } | Gets or sets the amount of deposit. |
-| [UserDate](userdate) { get; set; } | Gets or sets the customer date of deposit. |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/depositmailresponse/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [Fee](../../aspose.finance.ofx.bank/depositmailresponse/fee) { get; set; } | Gets or sets the fee assessed for NSF. |
+| [Mail](../../aspose.finance.ofx.bank/depositmailresponse/mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
+| [TransactionAmount](../../aspose.finance.ofx.bank/depositmailresponse/transactionamount) { get; set; } | Gets or sets the amount of deposit. |
+| [UserDate](../../aspose.finance.ofx.bank/depositmailresponse/userdate) { get; set; } | Gets or sets the customer date of deposit. |
 
 ### See Also
 

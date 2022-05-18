@@ -24,8 +24,8 @@ public class AvailableBalance
 
 | Name | Description |
 | --- | --- |
-| [BalanceAmount](balanceamount) { get; set; } | Gets or sets the available balance amount. |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the balance date. |
+| [BalanceAmount](../../aspose.finance.ofx/availablebalance/balanceamount) { get; set; } | Gets or sets the available balance amount. |
+| [DateAsOf](../../aspose.finance.ofx/availablebalance/dateasof) { get; set; } | Gets or sets the balance date. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class ClientEnroll
 
 | Name | Description |
 | --- | --- |
-| [AccountRequired](accountrequired) { get; set; } | Gets or sets whether account number is required as part of enrollment. |
+| [AccountRequired](../../aspose.finance.ofx.profile/clientenroll/accountrequired) { get; set; } | Gets or sets whether account number is required as part of enrollment. |
 
 ### See Also
 

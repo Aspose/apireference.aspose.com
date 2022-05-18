@@ -18,9 +18,9 @@ public class AbstractTransactionResponse : AbstractResponse
 
 | Name | Description |
 | --- | --- |
-| [ClientCookie](clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
-| [Status](status) { get; set; } | Gets or sets the [`Status`](./status). |
-| [TransactionUniqueId](transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](./status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

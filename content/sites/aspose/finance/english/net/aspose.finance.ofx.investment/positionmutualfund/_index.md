@@ -24,10 +24,11 @@ public class PositionMutualFund : AbstractPositionBase
 
 | Name | Description |
 | --- | --- |
-| [ReinvestCapitalGain](reinvestcapitalgain) { get; set; } | Gets or sets whether reinvest capital gains. |
-| [ReinvestDividend](reinvestdividend) { get; set; } | Gets or sets whether reinvest dividends. |
-| [UnitsStreet](unitsstreet) { get; set; } | Gets or sets the units in the FI’s street name. |
-| [UnitsUser](unitsuser) { get; set; } | Gets or sets the units in the user’s name directly. |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Gets or sets the [`InvestmentPosition`](../abstractpositionbase/investmentposition). |
+| [ReinvestCapitalGain](../../aspose.finance.ofx.investment/positionmutualfund/reinvestcapitalgain) { get; set; } | Gets or sets whether reinvest capital gains. |
+| [ReinvestDividend](../../aspose.finance.ofx.investment/positionmutualfund/reinvestdividend) { get; set; } | Gets or sets whether reinvest dividends. |
+| [UnitsStreet](../../aspose.finance.ofx.investment/positionmutualfund/unitsstreet) { get; set; } | Gets or sets the units in the FI’s street name. |
+| [UnitsUser](../../aspose.finance.ofx.investment/positionmutualfund/unitsuser) { get; set; } | Gets or sets the units in the user’s name directly. |
 
 ### See Also
 

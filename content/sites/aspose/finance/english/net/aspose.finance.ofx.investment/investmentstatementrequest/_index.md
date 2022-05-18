@@ -24,14 +24,14 @@ public class InvestmentStatementRequest
 
 | Name | Description |
 | --- | --- |
-| [Include401K](include401k) { get; set; } | Gets or sets whether include 401(k) information in response. |
-| [Include401KBalance](include401kbalance) { get; set; } | Gets or sets whether include 401(k) balance information in response. |
-| [IncludeBalance](includebalance) { get; set; } | Gets or sets whether include investment balance in response. |
-| [IncludeOpenOrder](includeopenorder) { get; set; } | Gets or sets whether include investment open orders in response. |
-| [IncludeTransactionImage](includetransactionimage) { get; set; } | Gets or sets whether include image information for banking transactions. |
-| [IncPosition](incposition) { get; set; } | Gets or sets the [`IncPosition`](./incposition). |
-| [IncTransaction](inctransaction) { get; set; } | Gets or sets the [`IncTransaction`](./inctransaction). |
-| [InvestmentAccountFrom](investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [Include401K](../../aspose.finance.ofx.investment/investmentstatementrequest/include401k) { get; set; } | Gets or sets whether include 401(k) information in response. |
+| [Include401KBalance](../../aspose.finance.ofx.investment/investmentstatementrequest/include401kbalance) { get; set; } | Gets or sets whether include 401(k) balance information in response. |
+| [IncludeBalance](../../aspose.finance.ofx.investment/investmentstatementrequest/includebalance) { get; set; } | Gets or sets whether include investment balance in response. |
+| [IncludeOpenOrder](../../aspose.finance.ofx.investment/investmentstatementrequest/includeopenorder) { get; set; } | Gets or sets whether include investment open orders in response. |
+| [IncludeTransactionImage](../../aspose.finance.ofx.investment/investmentstatementrequest/includetransactionimage) { get; set; } | Gets or sets whether include image information for banking transactions. |
+| [IncPosition](../../aspose.finance.ofx.investment/investmentstatementrequest/incposition) { get; set; } | Gets or sets the [`IncPosition`](./incposition). |
+| [IncTransaction](../../aspose.finance.ofx.investment/investmentstatementrequest/inctransaction) { get; set; } | Gets or sets the [`IncTransaction`](./inctransaction). |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementrequest/investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
 
 ### See Also
 

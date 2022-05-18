@@ -24,10 +24,10 @@ public class PrincipalBalanceType
 
 | Name | Description |
 | --- | --- |
-| [BalanceAmount](balanceamount) { get; set; } | Gets or sets the current loan principal balance |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the date and time of the current loan balance. |
-| [PrincipalLoanToDate](principalloantodate) { get; set; } | Gets or sets the total principal paid loan to date. |
-| [PrincipalYearToDate](principalyeartodate) { get; set; } | Gets or sets the total principal paid year to date. |
+| [BalanceAmount](../../aspose.finance.ofx/principalbalancetype/balanceamount) { get; set; } | Gets or sets the current loan principal balance |
+| [DateAsOf](../../aspose.finance.ofx/principalbalancetype/dateasof) { get; set; } | Gets or sets the date and time of the current loan balance. |
+| [PrincipalLoanToDate](../../aspose.finance.ofx/principalbalancetype/principalloantodate) { get; set; } | Gets or sets the total principal paid loan to date. |
+| [PrincipalYearToDate](../../aspose.finance.ofx/principalbalancetype/principalyeartodate) { get; set; } | Gets or sets the total principal paid year to date. |
 
 ### See Also
 

@@ -24,11 +24,11 @@ public class InceptToDate
 
 | Name | Description |
 | --- | --- |
-| [Contributions](contributions) { get; set; } | Gets or sets the [`Contributions`](./contributions). |
-| [Earnings](earnings) { get; set; } | Gets or sets the [`Earnings`](./earnings). |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date for the inception-to-date information. |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for the inception of this account. |
-| [Withdrawals](withdrawals) { get; set; } | Gets or sets the [`Withdrawals`](./withdrawals). |
+| [Contributions](../../aspose.finance.ofx.investment/incepttodate/contributions) { get; set; } | Gets or sets the [`Contributions`](./contributions). |
+| [Earnings](../../aspose.finance.ofx.investment/incepttodate/earnings) { get; set; } | Gets or sets the [`Earnings`](./earnings). |
+| [EndDate](../../aspose.finance.ofx.investment/incepttodate/enddate) { get; set; } | Gets or sets the end date for the inception-to-date information. |
+| [StartDate](../../aspose.finance.ofx.investment/incepttodate/startdate) { get; set; } | Gets or sets the start date for the inception of this account. |
+| [Withdrawals](../../aspose.finance.ofx.investment/incepttodate/withdrawals) { get; set; } | Gets or sets the [`Withdrawals`](./withdrawals). |
 
 ### See Also
 

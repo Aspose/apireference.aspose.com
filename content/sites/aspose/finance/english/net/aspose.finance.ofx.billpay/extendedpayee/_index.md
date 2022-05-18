@@ -24,10 +24,10 @@ public class ExtendedPayee
 
 | Name | Description |
 | --- | --- |
-| [DaysToPay](daystopay) { get; set; } | Gets or sets the minimum number of business days needed to process. |
-| [IdScope](idscope) { get; set; } | Gets or sets the scope of the payee ID. |
-| [Name](name) { get; set; } | Gets or sets the standard payee name. |
-| [PayeeId](payeeid) { get; set; } | Gets or sets the server assigned payee ID. |
+| [DaysToPay](../../aspose.finance.ofx.billpay/extendedpayee/daystopay) { get; set; } | Gets or sets the minimum number of business days needed to process. |
+| [IdScope](../../aspose.finance.ofx.billpay/extendedpayee/idscope) { get; set; } | Gets or sets the scope of the payee ID. |
+| [Name](../../aspose.finance.ofx.billpay/extendedpayee/name) { get; set; } | Gets or sets the standard payee name. |
+| [PayeeId](../../aspose.finance.ofx.billpay/extendedpayee/payeeid) { get; set; } | Gets or sets the server assigned payee ID. |
 
 ### See Also
 

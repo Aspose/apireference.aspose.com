@@ -24,11 +24,12 @@ public class MutualFundInfo : AbstractSecurityInfo
 
 | Name | Description |
 | --- | --- |
-| [FIMutualFundAssetClass](fimutualfundassetclass) { get; set; } | Gets or sets the FI defined asset class breakdown for the mutual fund. |
-| [MutualFundAssetClass](mutualfundassetclass) { get; set; } | Gets or sets the asset class breakdown for the mutual fund. |
-| [MutualFundType](mutualfundtype) { get; set; } | Gets or sets the mutual fund type. |
-| [Yield](yield) { get; set; } | Gets or sets the current yield reported as portion of the fund’s assets. |
-| [YieldAsOfDate](yieldasofdate) { get; set; } | Gets or sets the As-of date for yield value. |
+| [FIMutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/fimutualfundassetclass) { get; set; } | Gets or sets the FI defined asset class breakdown for the mutual fund. |
+| [MutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundassetclass) { get; set; } | Gets or sets the asset class breakdown for the mutual fund. |
+| [MutualFundType](../../aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundtype) { get; set; } | Gets or sets the mutual fund type. |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Gets or sets the [`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [Yield](../../aspose.finance.ofx.securitieslist/mutualfundinfo/yield) { get; set; } | Gets or sets the current yield reported as portion of the fund’s assets. |
+| [YieldAsOfDate](../../aspose.finance.ofx.securitieslist/mutualfundinfo/yieldasofdate) { get; set; } | Gets or sets the As-of date for yield value. |
 
 ### See Also
 

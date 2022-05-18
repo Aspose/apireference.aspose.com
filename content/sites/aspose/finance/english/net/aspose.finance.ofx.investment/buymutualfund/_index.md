@@ -24,8 +24,9 @@ public class BuyMutualFund : AbstractInvestmentBuyTransaction
 
 | Name | Description |
 | --- | --- |
-| [BuyType](buytype) { get; set; } | Gets or sets the type of purchase. |
-| [RelateFITransactionID](relatefitransactionid) { get; set; } | Gets or sets the relate transactions associated with mutual fund exchanges. |
+| [BuyType](../../aspose.finance.ofx.investment/buymutualfund/buytype) { get; set; } | Gets or sets the type of purchase. |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Gets or sets the [`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
+| [RelateFITransactionID](../../aspose.finance.ofx.investment/buymutualfund/relatefitransactionid) { get; set; } | Gets or sets the relate transactions associated with mutual fund exchanges. |
 
 ### See Also
 

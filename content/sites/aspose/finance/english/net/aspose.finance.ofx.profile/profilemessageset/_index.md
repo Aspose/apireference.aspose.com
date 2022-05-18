@@ -24,7 +24,7 @@ public class ProfileMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [ProfileMessageSetV1](profilemessagesetv1) { get; set; } | Gets or sets the collection of [`ProfileMessageSetV1`](./profilemessagesetv1). |
+| [ProfileMessageSetV1](../../aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1) { get; set; } | Gets or sets the collection of [`ProfileMessageSetV1`](./profilemessagesetv1). |
 
 ### See Also
 

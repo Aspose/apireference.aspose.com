@@ -24,13 +24,13 @@ public class LenderAddress
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the lender address, line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the lender address, line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the lender address, line 3. |
-| [City](city) { get; set; } | Gets or sets the lender address city. |
-| [LenderName](lendername) { get; set; } | Gets or sets the name of lender. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the lender address postal code. |
-| [State](state) { get; set; } | Gets or sets the lender address state. |
+| [Address1](../../aspose.finance.ofx.tax1098/lenderaddress/address1) { get; set; } | Gets or sets the lender address, line 1. |
+| [Address2](../../aspose.finance.ofx.tax1098/lenderaddress/address2) { get; set; } | Gets or sets the lender address, line 2. |
+| [Address3](../../aspose.finance.ofx.tax1098/lenderaddress/address3) { get; set; } | Gets or sets the lender address, line 3. |
+| [City](../../aspose.finance.ofx.tax1098/lenderaddress/city) { get; set; } | Gets or sets the lender address city. |
+| [LenderName](../../aspose.finance.ofx.tax1098/lenderaddress/lendername) { get; set; } | Gets or sets the name of lender. |
+| [PostalCode](../../aspose.finance.ofx.tax1098/lenderaddress/postalcode) { get; set; } | Gets or sets the lender address postal code. |
+| [State](../../aspose.finance.ofx.tax1098/lenderaddress/state) { get; set; } | Gets or sets the lender address state. |
 
 ### See Also
 

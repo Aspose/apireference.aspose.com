@@ -24,10 +24,13 @@ public class PresentmentListTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [GroupId](groupid) { get; set; } | Gets or sets the group id. |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PresentmentListRequest](presentmentlistrequest) { get; set; } | Gets or sets the [`PresentmentListRequest`](./presentmentlistrequest). |
-| [UserId](userid) { get; set; } | Gets or sets the user id. |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [GroupId](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/groupid) { get; set; } | Gets or sets the group id. |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PresentmentListRequest](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/presentmentlistrequest) { get; set; } | Gets or sets the [`PresentmentListRequest`](./presentmentlistrequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
+| [UserId](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/userid) { get; set; } | Gets or sets the user id. |
 
 ### See Also
 

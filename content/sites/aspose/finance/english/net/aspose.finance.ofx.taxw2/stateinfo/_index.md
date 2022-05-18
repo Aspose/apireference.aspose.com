@@ -24,10 +24,10 @@ public class StateInfo
 
 | Name | Description |
 | --- | --- |
-| [EmployerStateId](employerstateid) { get; set; } | Gets or sets the employer state ID. |
-| [StateCode](statecode) { get; set; } | Gets or sets the state code. |
-| [StateTaxWithheld](statetaxwithheld) { get; set; } | Gets or sets the state income tax withheld. |
-| [StateWages](statewages) { get; set; } | Gets or sets the state wages, tips, etc. |
+| [EmployerStateId](../../aspose.finance.ofx.taxw2/stateinfo/employerstateid) { get; set; } | Gets or sets the employer state ID. |
+| [StateCode](../../aspose.finance.ofx.taxw2/stateinfo/statecode) { get; set; } | Gets or sets the state code. |
+| [StateTaxWithheld](../../aspose.finance.ofx.taxw2/stateinfo/statetaxwithheld) { get; set; } | Gets or sets the state income tax withheld. |
+| [StateWages](../../aspose.finance.ofx.taxw2/stateinfo/statewages) { get; set; } | Gets or sets the state wages, tips, etc. |
 
 ### See Also
 

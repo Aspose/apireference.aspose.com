@@ -24,7 +24,7 @@ public class InterTransferMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [InterTransferMessageSetV1](intertransfermessagesetv1) { get; set; } | Gets or sets the [`InterTransferMessageSetV1`](./intertransfermessagesetv1). |
+| [InterTransferMessageSetV1](../../aspose.finance.ofx.profile/intertransfermessageset/intertransfermessagesetv1) { get; set; } | Gets or sets the [`InterTransferMessageSetV1`](./intertransfermessagesetv1). |
 
 ### See Also
 

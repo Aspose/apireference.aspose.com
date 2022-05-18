@@ -24,8 +24,8 @@ public class FinancialInstitution
 
 | Name | Description |
 | --- | --- |
-| [FinancialInstitutionId](financialinstitutionid) { get; set; } | Gets or sets the Financial Institution ID (unique within Organization) |
-| [Organization](organization) { get; set; } | Gets or sets the organization defining this FI name space. |
+| [FinancialInstitutionId](../../aspose.finance.ofx.signon/financialinstitution/financialinstitutionid) { get; set; } | Gets or sets the Financial Institution ID (unique within Organization) |
+| [Organization](../../aspose.finance.ofx.signon/financialinstitution/organization) { get; set; } | Gets or sets the organization defining this FI name space. |
 
 ### See Also
 

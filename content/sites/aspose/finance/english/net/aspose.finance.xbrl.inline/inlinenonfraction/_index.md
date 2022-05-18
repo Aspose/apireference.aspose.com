@@ -3,7 +3,7 @@ title: InlineNonfraction
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7690
+weight: 7700
 url: /net/aspose.finance.xbrl.inline/inlinenonfraction/
 ---
 ## InlineNonfraction class
@@ -18,20 +18,23 @@ public class InlineNonfraction : InlineFact
 
 | Name | Description |
 | --- | --- |
-| [ContextRef](contextref) { get; set; } | Gets or sets the reference to the [`Context`](../../aspose.finance.xbrl/context) of the [`InlineNonfraction`](../inlinenonfraction). |
-| [Decimals](decimals) { get; set; } | Gets or sets the decimal of the [`InlineNonfraction`](../inlinenonfraction). |
-| [Format](format) { get; set; } | Gets or sets the format of the [`InlineNonfraction`](../inlinenonfraction). |
-| [InfiniteDecimals](infinitedecimals) { get; set; } | Gets or sets whether it has infinite decimal. |
-| [InfinitePrecision](infiniteprecision) { get; set; } | Gets or sets whether it has infinite precision. |
-| [Order](order) { get; set; } | Gets or sets the order of the [`InlineNonfraction`](../inlinenonfraction). |
-| [Precision](precision) { get; set; } | Gets or sets the precision of the [`InlineNonfraction`](../inlinenonfraction). |
-| [Scale](scale) { get; set; } | Gets or sets the scale of the [`InlineNonfraction`](../inlinenonfraction). |
-| [SchemaConcept](schemaconcept) { get; } | Gets the concept of the [`InlineNonfraction`](../inlinenonfraction). |
-| [Sign](sign) { get; set; } | Gets or sets the sign of the [`InlineNonfraction`](../inlinenonfraction). |
-| [TargetId](targetid) { get; set; } | Gets or sets the target id of the [`InlineNonfraction`](../inlinenonfraction). |
-| [TupleRefId](tuplerefid) { get; set; } | Gets or sets the tuple reference id of the [`InlineNonfraction`](../inlinenonfraction). |
-| [UnitRef](unitref) { get; set; } | Gets or sets the reference to the [`Unit`](../../aspose.finance.xbrl/unit) of the [`InlineNonfraction`](../inlinenonfraction). |
-| [Value](value) { get; set; } | Gets or sets the value of the [`InlineNonfraction`](../inlinenonfraction). |
+| [ContextRef](../../aspose.finance.xbrl.inline/inlinenonfraction/contextref) { get; set; } | Gets or sets the reference to the [`Context`](../../aspose.finance.xbrl/context) of the [`InlineNonfraction`](../inlinenonfraction). |
+| [Decimals](../../aspose.finance.xbrl.inline/inlinenonfraction/decimals) { get; set; } | Gets or sets the decimal of the [`InlineNonfraction`](../inlinenonfraction). |
+| [Format](../../aspose.finance.xbrl.inline/inlinenonfraction/format) { get; set; } | Gets or sets the format of the [`InlineNonfraction`](../inlinenonfraction). |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | Gets or sets whether this fact is hidden. |
+| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | Gets or sets the id of the inline fact. |
+| [InfiniteDecimals](../../aspose.finance.xbrl.inline/inlinenonfraction/infinitedecimals) { get; set; } | Gets or sets whether it has infinite decimal. |
+| [InfinitePrecision](../../aspose.finance.xbrl.inline/inlinenonfraction/infiniteprecision) { get; set; } | Gets or sets whether it has infinite precision. |
+| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | Gets or sets the qualified name of the inline fact. |
+| [Order](../../aspose.finance.xbrl.inline/inlinenonfraction/order) { get; set; } | Gets or sets the order of the [`InlineNonfraction`](../inlinenonfraction). |
+| [Precision](../../aspose.finance.xbrl.inline/inlinenonfraction/precision) { get; set; } | Gets or sets the precision of the [`InlineNonfraction`](../inlinenonfraction). |
+| [Scale](../../aspose.finance.xbrl.inline/inlinenonfraction/scale) { get; set; } | Gets or sets the scale of the [`InlineNonfraction`](../inlinenonfraction). |
+| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinenonfraction/schemaconcept) { get; } | Gets the concept of the [`InlineNonfraction`](../inlinenonfraction). |
+| [Sign](../../aspose.finance.xbrl.inline/inlinenonfraction/sign) { get; set; } | Gets or sets the sign of the [`InlineNonfraction`](../inlinenonfraction). |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinenonfraction/targetid) { get; set; } | Gets or sets the target id of the [`InlineNonfraction`](../inlinenonfraction). |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinenonfraction/tuplerefid) { get; set; } | Gets or sets the tuple reference id of the [`InlineNonfraction`](../inlinenonfraction). |
+| [UnitRef](../../aspose.finance.xbrl.inline/inlinenonfraction/unitref) { get; set; } | Gets or sets the reference to the [`Unit`](../../aspose.finance.xbrl/unit) of the [`InlineNonfraction`](../inlinenonfraction). |
+| [Value](../../aspose.finance.xbrl.inline/inlinenonfraction/value) { get; set; } | Gets or sets the value of the [`InlineNonfraction`](../inlinenonfraction). |
 
 ### See Also
 

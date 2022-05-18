@@ -18,15 +18,15 @@ public class ElementList : IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index in the list. |
-| [Length](length) { get; } | Gets the number of elements in the list. |
+| [Item](../../aspose.finance.xbrl.dom/elementlist/item) { get; } | Gets the element at the specified index in the list. |
+| [Length](../../aspose.finance.xbrl.dom/elementlist/length) { get; } | Gets the number of elements in the list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Element) | Adds the element to the end of list. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the list. |
+| [Add](../../aspose.finance.xbrl.dom/elementlist/add)(Element) | Adds the element to the end of list. |
+| [GetEnumerator](../../aspose.finance.xbrl.dom/elementlist/getenumerator)() | Returns an enumerator that iterates through the list. |
 
 ### See Also
 

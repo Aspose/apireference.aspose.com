@@ -24,13 +24,14 @@ public class BankMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [ClosingAvailable](closingavailable) { get; set; } | Gets or sets whether closing statement information available |
-| [EmailProfile](emailprofile) { get; set; } | Gets or sets the [`EmailProfile`](./emailprofile). |
-| [ImageProfile](imageprofile) { get; set; } | Gets or sets the [`ImageProfile`](./imageprofile). |
-| [InvalidAccountTypes](invalidaccounttypes) { get; set; } | Gets or sets the collection of account type not supported. |
-| [PendingAvailable](pendingavailable) { get; set; } | Gets or sets the pending transaction download supported flag, defaults to false. |
-| [StopCheckProfile](stopcheckprofile) { get; set; } | Gets or sets the [`StopCheckProfile`](./stopcheckprofile). |
-| [TransferProfile](transferprofile) { get; set; } | Gets or sets the [`TransferProfile`](./transferprofile). |
+| [ClosingAvailable](../../aspose.finance.ofx.profile/bankmessagesetv1/closingavailable) { get; set; } | Gets or sets whether closing statement information available |
+| [EmailProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/emailprofile) { get; set; } | Gets or sets the [`EmailProfile`](./emailprofile). |
+| [ImageProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/imageprofile) { get; set; } | Gets or sets the [`ImageProfile`](./imageprofile). |
+| [InvalidAccountTypes](../../aspose.finance.ofx.profile/bankmessagesetv1/invalidaccounttypes) { get; set; } | Gets or sets the collection of account type not supported. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [PendingAvailable](../../aspose.finance.ofx.profile/bankmessagesetv1/pendingavailable) { get; set; } | Gets or sets the pending transaction download supported flag, defaults to false. |
+| [StopCheckProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile) { get; set; } | Gets or sets the [`StopCheckProfile`](./stopcheckprofile). |
+| [TransferProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/transferprofile) { get; set; } | Gets or sets the [`TransferProfile`](./transferprofile). |
 
 ### See Also
 

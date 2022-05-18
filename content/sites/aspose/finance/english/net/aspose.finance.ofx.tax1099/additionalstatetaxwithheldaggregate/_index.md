@@ -24,10 +24,10 @@ public class AdditionalStateTaxWithheldAggregate
 
 | Name | Description |
 | --- | --- |
-| [PayerState](payerstate) { get; set; } | Gets or sets the payer’s state code. |
-| [PayerStateId](payerstateid) { get; set; } | Gets or sets the payer’s state ID number. |
-| [StateIncome](stateincome) { get; set; } | Gets or sets the state income amount. |
-| [StateTaxWithheld](statetaxwithheld) { get; set; } | Gets or sets the state tax withheld. |
+| [PayerState](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstate) { get; set; } | Gets or sets the payer’s state code. |
+| [PayerStateId](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstateid) { get; set; } | Gets or sets the payer’s state ID number. |
+| [StateIncome](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/stateincome) { get; set; } | Gets or sets the state income amount. |
+| [StateTaxWithheld](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/statetaxwithheld) { get; set; } | Gets or sets the state tax withheld. |
 
 ### See Also
 

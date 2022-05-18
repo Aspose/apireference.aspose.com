@@ -24,15 +24,16 @@ public abstract class Arc : Xlink
 
 | Name | Description |
 | --- | --- |
-| [Actuate](actuate) { get; set; } | Gets or sets the actuate of the arc. |
-| [Arcrole](arcrole) { get; set; } | Gets or sets the arcrole of the arc. |
-| [From](from) { get; set; } | Gets or sets the from label of the arc. |
-| [Order](order) { get; set; } | Gets or sets the order of the arc. |
-| [Priority](priority) { get; set; } | Gets or sets the priority of the arc. |
-| [Show](show) { get; set; } | Gets or sets the show of the arc. |
-| [Title](title) { get; set; } | Gets or sets the title of the arc. |
-| [To](to) { get; set; } | Gets or sets the to label of the arc. |
-| [Use](use) { get; set; } | Gets or sets the arc use of the arc. |
+| [Actuate](../../aspose.finance.xbrl/arc/actuate) { get; set; } | Gets or sets the actuate of the arc. |
+| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | Gets or sets the arcrole of the arc. |
+| [From](../../aspose.finance.xbrl/arc/from) { get; set; } | Gets or sets the from label of the arc. |
+| [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | Gets or sets the order of the arc. |
+| [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | Gets or sets the priority of the arc. |
+| [Show](../../aspose.finance.xbrl/arc/show) { get; set; } | Gets or sets the show of the arc. |
+| [Title](../../aspose.finance.xbrl/arc/title) { get; set; } | Gets or sets the title of the arc. |
+| [To](../../aspose.finance.xbrl/arc/to) { get; set; } | Gets or sets the to label of the arc. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
+| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | Gets or sets the arc use of the arc. |
 
 ### See Also
 

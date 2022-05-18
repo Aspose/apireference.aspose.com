@@ -24,8 +24,8 @@ public class PinChangeRequest
 
 | Name | Description |
 | --- | --- |
-| [NewUserPassword](newuserpassword) { get; set; } | Gets or sets the new user password. |
-| [UserId](userid) { get; set; } | Gets or sets the user identification string. |
+| [NewUserPassword](../../aspose.finance.ofx.signon/pinchangerequest/newuserpassword) { get; set; } | Gets or sets the new user password. |
+| [UserId](../../aspose.finance.ofx.signon/pinchangerequest/userid) { get; set; } | Gets or sets the user identification string. |
 
 ### See Also
 

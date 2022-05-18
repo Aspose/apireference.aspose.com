@@ -24,16 +24,16 @@ public class BankRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [BankMailSyncRequests](bankmailsyncrequests) { get; set; } | Gets or sets the collection of [`BankMailSyncRequest`](../../aspose.finance.ofx.bank/bankmailsyncrequest). |
-| [BankMailTransactionRequests](bankmailtransactionrequests) { get; set; } | Gets or sets the collection of [`BankMailTransactionRequest`](../../aspose.finance.ofx.bank/bankmailtransactionrequest). |
-| [IntraSyncRequests](intrasyncrequests) { get; set; } | Gets or sets the collection of [`IntraSyncRequest`](../../aspose.finance.ofx.bank/intrasyncrequest). |
-| [IntraTransactionRequests](intratransactionrequests) { get; set; } | Gets or sets the collection of [`IntraTransactionRequest`](../../aspose.finance.ofx.bank/intratransactionrequest). |
-| [RecurringIntraSyncRequests](recurringintrasyncrequests) { get; set; } | Gets or sets the collection of [`RecurringIntraSyncRequest`](../../aspose.finance.ofx.bank/recurringintrasyncrequest). |
-| [RecurringIntraTransactionRequests](recurringintratransactionrequests) { get; set; } | Gets or sets the collection of [`RecurringIntraTransactionRequest`](../../aspose.finance.ofx.bank/recurringintratransactionrequest). |
-| [StatementEndTransactionRequests](statementendtransactionrequests) { get; set; } | Gets or sets the collection of [`StatementEndTransactionRequest`](../../aspose.finance.ofx.bank/statementendtransactionrequest). |
-| [StatementTransactionRequests](statementtransactionrequests) { get; set; } | Gets or sets the collection of [`StatementTransactionRequest`](../../aspose.finance.ofx.bank/statementtransactionrequest). |
-| [StopCheckSyncRequests](stopchecksyncrequests) { get; set; } | Gets or sets the collection of [`StopCheckSyncRequest`](../../aspose.finance.ofx.bank/stopchecksyncrequest). |
-| [StopCheckTransactionRequests](stopchecktransactionrequests) { get; set; } | Gets or sets the collection of [`StopCheckTransactionRequest`](../../aspose.finance.ofx.bank/stopchecktransactionrequest). |
+| [BankMailSyncRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/bankmailsyncrequests) { get; set; } | Gets or sets the collection of [`BankMailSyncRequest`](../../aspose.finance.ofx.bank/bankmailsyncrequest). |
+| [BankMailTransactionRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/bankmailtransactionrequests) { get; set; } | Gets or sets the collection of [`BankMailTransactionRequest`](../../aspose.finance.ofx.bank/bankmailtransactionrequest). |
+| [IntraSyncRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/intrasyncrequests) { get; set; } | Gets or sets the collection of [`IntraSyncRequest`](../../aspose.finance.ofx.bank/intrasyncrequest). |
+| [IntraTransactionRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/intratransactionrequests) { get; set; } | Gets or sets the collection of [`IntraTransactionRequest`](../../aspose.finance.ofx.bank/intratransactionrequest). |
+| [RecurringIntraSyncRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/recurringintrasyncrequests) { get; set; } | Gets or sets the collection of [`RecurringIntraSyncRequest`](../../aspose.finance.ofx.bank/recurringintrasyncrequest). |
+| [RecurringIntraTransactionRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/recurringintratransactionrequests) { get; set; } | Gets or sets the collection of [`RecurringIntraTransactionRequest`](../../aspose.finance.ofx.bank/recurringintratransactionrequest). |
+| [StatementEndTransactionRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/statementendtransactionrequests) { get; set; } | Gets or sets the collection of [`StatementEndTransactionRequest`](../../aspose.finance.ofx.bank/statementendtransactionrequest). |
+| [StatementTransactionRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/statementtransactionrequests) { get; set; } | Gets or sets the collection of [`StatementTransactionRequest`](../../aspose.finance.ofx.bank/statementtransactionrequest). |
+| [StopCheckSyncRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/stopchecksyncrequests) { get; set; } | Gets or sets the collection of [`StopCheckSyncRequest`](../../aspose.finance.ofx.bank/stopchecksyncrequest). |
+| [StopCheckTransactionRequests](../../aspose.finance.ofx/bankrequestmessagesetv1/stopchecktransactionrequests) { get; set; } | Gets or sets the collection of [`StopCheckTransactionRequest`](../../aspose.finance.ofx.bank/stopchecktransactionrequest). |
 
 ### See Also
 

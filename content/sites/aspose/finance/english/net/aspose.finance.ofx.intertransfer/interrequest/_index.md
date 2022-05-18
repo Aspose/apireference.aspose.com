@@ -24,7 +24,7 @@ public class InterRequest : AbstractInterRequest
 
 | Name | Description |
 | --- | --- |
-| [TransferInfo](transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/interrequest/transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
 
 ### See Also
 

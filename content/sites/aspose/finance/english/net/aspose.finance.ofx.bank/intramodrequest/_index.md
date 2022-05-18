@@ -24,8 +24,8 @@ public class IntraModRequest : AbstractIntraRequest
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the server to the transfer being modified. |
-| [TransferInfo](transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
+| [ServerId](../../aspose.finance.ofx.bank/intramodrequest/serverid) { get; set; } | Gets or sets the ID assigned by the server to the transfer being modified. |
+| [TransferInfo](../../aspose.finance.ofx.bank/intramodrequest/transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class RecurringIntraCancellationResponse : AbstractRecurringIntraResponse
 
 | Name | Description |
 | --- | --- |
-| [CancelPending](cancelpending) { get; set; } | Gets or sets the cancel pending flag. Yes if the client requested that the server cancel all pending and unspawned transfers. No if the client requested that the server cancel only unspawned transfers. |
-| [RecurringServerId](recurringserverid) { get; set; } | Gets or sets the ID assigned by the server to the model being canceled. |
+| [CancelPending](../../aspose.finance.ofx.bank/recurringintracancellationresponse/cancelpending) { get; set; } | Gets or sets the cancel pending flag. Yes if the client requested that the server cancel all pending and unspawned transfers. No if the client requested that the server cancel only unspawned transfers. |
+| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintracancellationresponse/recurringserverid) { get; set; } | Gets or sets the ID assigned by the server to the model being canceled. |
 
 ### See Also
 

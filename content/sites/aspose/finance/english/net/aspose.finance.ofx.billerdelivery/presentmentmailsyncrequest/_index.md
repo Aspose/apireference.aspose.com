@@ -24,11 +24,15 @@ public class PresentmentMailSyncRequest : AbstractSyncRequest
 
 | Name | Description |
 | --- | --- |
-| [IncludeImages](includeimages) { get; set; } | True if the client accepts mail with images in the message body. False if the client does not accept mail with images in the message body. |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PresentmentAccountFrom](presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
-| [PresentmentMailTransactionRequests](presentmentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentMailTransactionRequest`](../presentmentmailtransactionrequest). |
-| [UseHtml](usehtml) { get; set; } | True if client wants an HTML response, False if client wants plain text. |
+| [IncludeImages](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/includeimages) { get; set; } | True if the client accepts mail with images in the message body. False if the client does not accept mail with images in the message body. |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [PresentmentMailTransactionRequests](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentMailTransactionRequest`](../presentmentmailtransactionrequest). |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
+| [UseHtml](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/usehtml) { get; set; } | True if client wants an HTML response, False if client wants plain text. |
 
 ### See Also
 

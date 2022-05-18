@@ -24,7 +24,7 @@ public class PresentmentDirMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [PresentmentDirMessageSetV1s](presentmentdirmessagesetv1s) { get; set; } | Gets or sets the collection of [`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1). |
+| [PresentmentDirMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdirmessageset/presentmentdirmessagesetv1s) { get; set; } | Gets or sets the collection of [`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1). |
 
 ### See Also
 

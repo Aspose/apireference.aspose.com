@@ -24,25 +24,26 @@ public class InvestmentBuy : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [Commission](commission) { get; set; } | Gets or sets the transaction commission. |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [Fees](fees) { get; set; } | Gets or sets the fees applied to trade. |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
-| [Load](load) { get; set; } | Gets or sets the load on the transaction. |
-| [LoanId](loanid) { get; set; } | Gets or sets the transaction was due to a loan or a loan repayment, and which loan it was. For 401(k) accounts only. |
-| [LoanInterest](loaninterest) { get; set; } | Gets or sets how much of the loan repayment was interest. For 401(k) accounts only. |
-| [LoanPrincipal](loanprincipal) { get; set; } | Gets or sets how much of the loan repayment was principal. For 401(k) accounts only. |
-| [Markup](markup) { get; set; } | Gets or sets the portion of the unit price that is attributed to the dealer markup. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
-| [PayrollDate](payrolldate) { get; set; } | Gets or sets the date the funds for this transaction was obtained via payroll deduction for 401(k) accounts. |
-| [PriorYearContribution](prioryearcontribution) { get; set; } | Gets or sets whether this Buy was made with a prior year contribution for 401(k) accounts. |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SubAccountFund](subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
-| [SubAccountSecurity](subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security |
-| [Taxes](taxes) { get; set; } | Gets or sets the taxes on the trade. |
-| [Total](total) { get; set; } | Gets or sets the transaction total. |
-| [UnitPrice](unitprice) { get; set; } | Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks, mutual funds, and others. Percentage of par for bonds. Per share (not contract) for options. |
-| [Units](units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
+| [Commission](../../aspose.finance.ofx.investment/investmentbuy/commission) { get; set; } | Gets or sets the transaction commission. |
+| [Currency](../../aspose.finance.ofx.investment/investmentbuy/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [Fees](../../aspose.finance.ofx.investment/investmentbuy/fees) { get; set; } | Gets or sets the fees applied to trade. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentbuy/investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [Load](../../aspose.finance.ofx.investment/investmentbuy/load) { get; set; } | Gets or sets the load on the transaction. |
+| [LoanId](../../aspose.finance.ofx.investment/investmentbuy/loanid) { get; set; } | Gets or sets the transaction was due to a loan or a loan repayment, and which loan it was. For 401(k) accounts only. |
+| [LoanInterest](../../aspose.finance.ofx.investment/investmentbuy/loaninterest) { get; set; } | Gets or sets how much of the loan repayment was interest. For 401(k) accounts only. |
+| [LoanPrincipal](../../aspose.finance.ofx.investment/investmentbuy/loanprincipal) { get; set; } | Gets or sets how much of the loan repayment was principal. For 401(k) accounts only. |
+| [Markup](../../aspose.finance.ofx.investment/investmentbuy/markup) { get; set; } | Gets or sets the portion of the unit price that is attributed to the dealer markup. |
+| [OriginCurrency](../../aspose.finance.ofx.investment/investmentbuy/origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
+| [PayrollDate](../../aspose.finance.ofx.investment/investmentbuy/payrolldate) { get; set; } | Gets or sets the date the funds for this transaction was obtained via payroll deduction for 401(k) accounts. |
+| [PriorYearContribution](../../aspose.finance.ofx.investment/investmentbuy/prioryearcontribution) { get; set; } | Gets or sets whether this Buy was made with a prior year contribution for 401(k) accounts. |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentbuy/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SubAccountFund](../../aspose.finance.ofx.investment/investmentbuy/subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentbuy/subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security |
+| [Taxes](../../aspose.finance.ofx.investment/investmentbuy/taxes) { get; set; } | Gets or sets the taxes on the trade. |
+| [Total](../../aspose.finance.ofx.investment/investmentbuy/total) { get; set; } | Gets or sets the transaction total. |
+| [UnitPrice](../../aspose.finance.ofx.investment/investmentbuy/unitprice) { get; set; } | Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks, mutual funds, and others. Percentage of par for bonds. Per share (not contract) for options. |
+| [Units](../../aspose.finance.ofx.investment/investmentbuy/units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
 
 ### See Also
 

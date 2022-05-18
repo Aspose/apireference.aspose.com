@@ -24,14 +24,14 @@ public class Invoice
 
 | Name | Description |
 | --- | --- |
-| [Adjustment](adjustment) { get; set; } | Gets or sets the [`Adjustment`](./adjustment). |
-| [Discount](discount) { get; set; } | Gets or sets the [`Discount`](./discount). |
-| [InvoiceDate](invoicedate) { get; set; } | Gets or sets the date to apply the invoice. |
-| [InvoiceDescription](invoicedescription) { get; set; } | Gets or sets the invoice description. |
-| [InvoiceNumber](invoicenumber) { get; set; } | Gets or sets the invoice number associated with the payment. |
-| [InvoicePaidAmount](invoicepaidamount) { get; set; } | Gets or sets the amount of the invoice being paid |
-| [InvoiceTotalAmount](invoicetotalamount) { get; set; } | Gets or sets the total invoice amount. |
-| [LineItems](lineitems) { get; set; } | Gets or sets the collection of [`LineItem`](../lineitem). |
+| [Adjustment](../../aspose.finance.ofx/invoice/adjustment) { get; set; } | Gets or sets the [`Adjustment`](./adjustment). |
+| [Discount](../../aspose.finance.ofx/invoice/discount) { get; set; } | Gets or sets the [`Discount`](./discount). |
+| [InvoiceDate](../../aspose.finance.ofx/invoice/invoicedate) { get; set; } | Gets or sets the date to apply the invoice. |
+| [InvoiceDescription](../../aspose.finance.ofx/invoice/invoicedescription) { get; set; } | Gets or sets the invoice description. |
+| [InvoiceNumber](../../aspose.finance.ofx/invoice/invoicenumber) { get; set; } | Gets or sets the invoice number associated with the payment. |
+| [InvoicePaidAmount](../../aspose.finance.ofx/invoice/invoicepaidamount) { get; set; } | Gets or sets the amount of the invoice being paid |
+| [InvoiceTotalAmount](../../aspose.finance.ofx/invoice/invoicetotalamount) { get; set; } | Gets or sets the total invoice amount. |
+| [LineItems](../../aspose.finance.ofx/invoice/lineitems) { get; set; } | Gets or sets the collection of [`LineItem`](../lineitem). |
 
 ### See Also
 

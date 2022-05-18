@@ -3,7 +3,7 @@ title: InlineFact
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7660
+weight: 7670
 url: /net/aspose.finance.xbrl.inline/inlinefact/
 ---
 ## InlineFact class
@@ -18,9 +18,9 @@ public abstract class InlineFact
 
 | Name | Description |
 | --- | --- |
-| [Hidden](hidden) { get; set; } | Gets or sets whether this fact is hidden. |
-| [Id](id) { get; set; } | Gets or sets the id of the inline fact. |
-| [Name](name) { get; set; } | Gets or sets the qualified name of the inline fact. |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | Gets or sets whether this fact is hidden. |
+| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | Gets or sets the id of the inline fact. |
+| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | Gets or sets the qualified name of the inline fact. |
 
 ### See Also
 

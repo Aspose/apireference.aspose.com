@@ -24,14 +24,15 @@ public class InvestmentStatementMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [BalanceDownload](balancedownload) { get; set; } | Gets or sets whether the FI server downloads investment balances. |
-| [CanEmail](canemail) { get; set; } | Gets or sets whether the FI supports investment e-mail. |
-| [ClosingAvailable](closingavailable) { get; set; } | Gets or sets whether closing statement information is available. |
-| [ImageProfile](imageprofile) { get; set; } | Gets or sets the [`ImageProfile`](./imageprofile). |
-| [Investment401KDownload](investment401kdownload) { get; set; } | Gets or sets whether the FI server downloads 401(k) account information. |
-| [OpenOrderDownload](openorderdownload) { get; set; } | Gets or sets whether the FI server downloads investment open orders |
-| [PositionDownload](positiondownload) { get; set; } | Gets or sets whether the FI server downloads investment statement positions. |
-| [TransactionDownload](transactiondownload) { get; set; } | Gets or sets whether the FI server downloads investment statement transactions. |
+| [BalanceDownload](../../aspose.finance.ofx.profile/investmentstatementmessagesetv1/balancedownload) { get; set; } | Gets or sets whether the FI server downloads investment balances. |
+| [CanEmail](../../aspose.finance.ofx.profile/investmentstatementmessagesetv1/canemail) { get; set; } | Gets or sets whether the FI supports investment e-mail. |
+| [ClosingAvailable](../../aspose.finance.ofx.profile/investmentstatementmessagesetv1/closingavailable) { get; set; } | Gets or sets whether closing statement information is available. |
+| [ImageProfile](../../aspose.finance.ofx.profile/investmentstatementmessagesetv1/imageprofile) { get; set; } | Gets or sets the [`ImageProfile`](./imageprofile). |
+| [Investment401KDownload](../../aspose.finance.ofx.profile/investmentstatementmessagesetv1/investment401kdownload) { get; set; } | Gets or sets whether the FI server downloads 401(k) account information. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [OpenOrderDownload](../../aspose.finance.ofx.profile/investmentstatementmessagesetv1/openorderdownload) { get; set; } | Gets or sets whether the FI server downloads investment open orders |
+| [PositionDownload](../../aspose.finance.ofx.profile/investmentstatementmessagesetv1/positiondownload) { get; set; } | Gets or sets whether the FI server downloads investment statement positions. |
+| [TransactionDownload](../../aspose.finance.ofx.profile/investmentstatementmessagesetv1/transactiondownload) { get; set; } | Gets or sets whether the FI server downloads investment statement transactions. |
 
 ### See Also
 

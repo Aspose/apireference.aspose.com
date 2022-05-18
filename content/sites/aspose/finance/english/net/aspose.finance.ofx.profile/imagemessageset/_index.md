@@ -24,7 +24,7 @@ public class ImageMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [ImageMessageSetV1](imagemessagesetv1) { get; set; } | Gets or sets the [`ImageMessageSetV1`](./imagemessagesetv1). |
+| [ImageMessageSetV1](../../aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1) { get; set; } | Gets or sets the [`ImageMessageSetV1`](./imagemessagesetv1). |
 
 ### See Also
 

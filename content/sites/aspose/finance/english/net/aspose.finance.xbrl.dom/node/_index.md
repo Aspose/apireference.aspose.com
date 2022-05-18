@@ -3,7 +3,7 @@ title: Node
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7420
+weight: 7430
 url: /net/aspose.finance.xbrl.dom/node/
 ---
 ## Node class
@@ -18,30 +18,30 @@ public abstract class Node
 
 | Name | Description |
 | --- | --- |
-| virtual [BaseURI](baseuri) { get; } | Gets the absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
-| [ChildNodes](childnodes) { get; } | Gets the child nodes. |
-| [FirstChild](firstchild) { get; } | Gets the first child of this node. If there is no such node, this returns null. |
-| [HasChildNodes](haschildnodes) { get; } | Gets whether this node has any children. |
-| [LastChild](lastchild) { get; } | Gets the last child of this node. If there is no such node, this returns null. |
-| virtual [LocalName](localname) { get; } | Gets the local part of the qualified name of this node. |
-| virtual [NamespaceURI](namespaceuri) { get; } | Gets the namespace URI of this node. |
-| [NextSibling](nextsibling) { get; } | Gets the node immediately following this node. If there is no such node, this returns null. |
-| abstract [NodeName](nodename) { get; } | Gets the node name, depending on its type. |
-| [NodeType](nodetype) { get; } | Gets the node type. |
-| virtual [NodeValue](nodevalue) { get; set; } | Gets or sets the value of this node, depending on its type. |
-| [OwnerDocument](ownerdocument) { get; } | Gets the document object associated with this node. |
-| [ParentNode](parentnode) { get; } | Gets the parent node. |
-| virtual [Prefix](prefix) { get; set; } | Gets or sets the namespace prefix of this node. |
-| [PreviousSibling](previoussibling) { get; } | Gets the node immediately preceding this node. If there is no such node, this returns null. |
-| virtual [TextContent](textcontent) { get; set; } | Gets or sets the the text content of this node and its descendants. |
+| virtual [BaseURI](../../aspose.finance.xbrl.dom/node/baseuri) { get; } | Gets the absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
+| [ChildNodes](../../aspose.finance.xbrl.dom/node/childnodes) { get; } | Gets the child nodes. |
+| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | Gets the first child of this node. If there is no such node, this returns null. |
+| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | Gets whether this node has any children. |
+| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | Gets the last child of this node. If there is no such node, this returns null. |
+| virtual [LocalName](../../aspose.finance.xbrl.dom/node/localname) { get; } | Gets the local part of the qualified name of this node. |
+| virtual [NamespaceURI](../../aspose.finance.xbrl.dom/node/namespaceuri) { get; } | Gets the namespace URI of this node. |
+| [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | Gets the node immediately following this node. If there is no such node, this returns null. |
+| abstract [NodeName](../../aspose.finance.xbrl.dom/node/nodename) { get; } | Gets the node name, depending on its type. |
+| [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | Gets the node type. |
+| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | Gets or sets the value of this node, depending on its type. |
+| [OwnerDocument](../../aspose.finance.xbrl.dom/node/ownerdocument) { get; } | Gets the document object associated with this node. |
+| [ParentNode](../../aspose.finance.xbrl.dom/node/parentnode) { get; } | Gets the parent node. |
+| virtual [Prefix](../../aspose.finance.xbrl.dom/node/prefix) { get; set; } | Gets or sets the namespace prefix of this node. |
+| [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | Gets the node immediately preceding this node. If there is no such node, this returns null. |
+| virtual [TextContent](../../aspose.finance.xbrl.dom/node/textcontent) { get; set; } | Gets or sets the the text content of this node and its descendants. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](appendchild)(Node) | Adds the node newChild to the end of the list of children of this node. |
-| [RemoveChild](removechild)(Node) | Removes the child node indicated by old child from the list of children. |
-| [ReplaceChild](replacechild)(Node, Node) | Replaces the child node old child with new child in the list of children, and returns the old child node. |
+| [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | Adds the node newChild to the end of the list of children of this node. |
+| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | Removes the child node indicated by old child from the list of children. |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | Replaces the child node old child with new child in the list of children, and returns the old child node. |
 
 ## Other Members
 

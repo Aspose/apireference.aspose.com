@@ -24,9 +24,9 @@ public class AmortizationRequest
 
 | Name | Description |
 | --- | --- |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date for transaction data. |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for transaction data. |
+| [EndDate](../../aspose.finance.ofx.loan/amortizationrequest/enddate) { get; set; } | Gets or sets the end date for transaction data. |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationrequest/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [StartDate](../../aspose.finance.ofx.loan/amortizationrequest/startdate) { get; set; } | Gets or sets the start date for transaction data. |
 
 ### See Also
 

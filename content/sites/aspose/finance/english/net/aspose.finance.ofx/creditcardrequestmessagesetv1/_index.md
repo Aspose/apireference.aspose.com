@@ -24,8 +24,8 @@ public class CreditcardRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [CreditCardStatementEndTransactionRequests](creditcardstatementendtransactionrequests) { get; set; } | Gets or sets the collection of [`CreditCardStatementEndTransactionRequest`](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest). |
-| [CreditCardStatementTransactionRequests](creditcardstatementtransactionrequests) { get; set; } | Gets or sets the collection of [`CreditCardStatementTransactionRequest`](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest). |
+| [CreditCardStatementEndTransactionRequests](../../aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardstatementendtransactionrequests) { get; set; } | Gets or sets the collection of [`CreditCardStatementEndTransactionRequest`](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest). |
+| [CreditCardStatementTransactionRequests](../../aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardstatementtransactionrequests) { get; set; } | Gets or sets the collection of [`CreditCardStatementTransactionRequest`](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest). |
 
 ### See Also
 

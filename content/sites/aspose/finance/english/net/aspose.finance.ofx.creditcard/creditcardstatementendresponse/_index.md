@@ -24,9 +24,9 @@ public class CreditCardStatementEndResponse
 
 | Name | Description |
 | --- | --- |
-| [CreditCardAccount](creditcardaccount) { get; set; } | Gets or sets the from of [`CreditCardAccount`](./creditcardaccount). |
-| [CreditCardClosings](creditcardclosings) { get; set; } | Gets or sets the collection of [`CreditCardClosing`](../creditcardclosing). |
-| [Currency](currency) { get; set; } | Gets or sets the default currency used for closing information. |
+| [CreditCardAccount](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardaccount) { get; set; } | Gets or sets the from of [`CreditCardAccount`](./creditcardaccount). |
+| [CreditCardClosings](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardclosings) { get; set; } | Gets or sets the collection of [`CreditCardClosing`](../creditcardclosing). |
+| [Currency](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/currency) { get; set; } | Gets or sets the default currency used for closing information. |
 
 ### See Also
 

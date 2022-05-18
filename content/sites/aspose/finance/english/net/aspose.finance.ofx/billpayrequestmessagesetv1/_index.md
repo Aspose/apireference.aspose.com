@@ -24,15 +24,15 @@ public class BillPayRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [PayeeSyncRequests](payeesyncrequests) { get; set; } | Gets or sets the collection of [`PayeeSyncRequest`](../../aspose.finance.ofx.billpay/payeesyncrequest). |
-| [PayeeTransactionRequests](payeetransactionrequests) { get; set; } | Gets or sets the collection of [`PayeeTransactionRequest`](../../aspose.finance.ofx.billpay/payeetransactionrequest). |
-| [PaymentInquiryTransactionRequests](paymentinquirytransactionrequests) { get; set; } | Gets or sets the collection of [`PaymentInquiryTransactionRequest`](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest). |
-| [PaymentMailSyncRequests](paymentmailsyncrequests) { get; set; } | Gets or sets the collection of [`PaymentMailSyncRequest`](../../aspose.finance.ofx.billpay/paymentmailsyncrequest). |
-| [PaymentMailTransactionRequests](paymentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`PaymentMailTransactionRequest`](../../aspose.finance.ofx.billpay/paymentmailtransactionrequest). |
-| [PaymentSyncRequests](paymentsyncrequests) { get; set; } | Gets or sets the collection of [`PaymentSyncRequest`](../../aspose.finance.ofx.billpay/paymentsyncrequest). |
-| [PaymentTransactionRequests](paymenttransactionrequests) { get; set; } | Gets or sets the collection of [`PaymentTransactionRequest`](../../aspose.finance.ofx.billpay/paymenttransactionrequest). |
-| [RecurringPaymentSyncRequests](recurringpaymentsyncrequests) { get; set; } | Gets or sets the collection of [`RecurringPaymentSyncRequest`](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest). |
-| [RecurringPaymentTransactionRequests](recurringpaymenttransactionrequests) { get; set; } | Gets or sets the collection of [`RecurringPaymentTransactionRequest`](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest). |
+| [PayeeSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/payeesyncrequests) { get; set; } | Gets or sets the collection of [`PayeeSyncRequest`](../../aspose.finance.ofx.billpay/payeesyncrequest). |
+| [PayeeTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/payeetransactionrequests) { get; set; } | Gets or sets the collection of [`PayeeTransactionRequest`](../../aspose.finance.ofx.billpay/payeetransactionrequest). |
+| [PaymentInquiryTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentinquirytransactionrequests) { get; set; } | Gets or sets the collection of [`PaymentInquiryTransactionRequest`](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest). |
+| [PaymentMailSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailsyncrequests) { get; set; } | Gets or sets the collection of [`PaymentMailSyncRequest`](../../aspose.finance.ofx.billpay/paymentmailsyncrequest). |
+| [PaymentMailTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`PaymentMailTransactionRequest`](../../aspose.finance.ofx.billpay/paymentmailtransactionrequest). |
+| [PaymentSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentsyncrequests) { get; set; } | Gets or sets the collection of [`PaymentSyncRequest`](../../aspose.finance.ofx.billpay/paymentsyncrequest). |
+| [PaymentTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymenttransactionrequests) { get; set; } | Gets or sets the collection of [`PaymentTransactionRequest`](../../aspose.finance.ofx.billpay/paymenttransactionrequest). |
+| [RecurringPaymentSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymentsyncrequests) { get; set; } | Gets or sets the collection of [`RecurringPaymentSyncRequest`](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest). |
+| [RecurringPaymentTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymenttransactionrequests) { get; set; } | Gets or sets the collection of [`RecurringPaymentTransactionRequest`](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest). |
 
 ### See Also
 

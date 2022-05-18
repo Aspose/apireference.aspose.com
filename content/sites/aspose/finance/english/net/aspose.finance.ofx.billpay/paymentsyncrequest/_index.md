@@ -24,9 +24,13 @@ public class PaymentSyncRequest : AbstractSyncRequest
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PaymentTransactionRequests](paymenttransactionrequests) { get; set; } | Gets or sets the collection of [`PaymentTransactionRequest`](../paymenttransactionrequest). |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/paymentsyncrequest/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentsyncrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PaymentTransactionRequests](../../aspose.finance.ofx.billpay/paymentsyncrequest/paymenttransactionrequests) { get; set; } | Gets or sets the collection of [`PaymentTransactionRequest`](../paymenttransactionrequest). |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
 
 ### See Also
 

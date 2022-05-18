@@ -24,16 +24,17 @@ public class Transfer : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [AverageCostBasis](averagecostbasis) { get; set; } | Gets or sets the average cost basis of this position. |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of money for this security in this position. |
-| [InvestmentAccountFrom](investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [PositionType](positiontype) { get; set; } | Gets or sets the position type. |
-| [PurchaseDate](purchasedate) { get; set; } | Gets or sets the security’s original purchase date. |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SubAccountSecurity](subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
-| [TransferAction](transferaction) { get; set; } | Gets or sets the action for transfers. |
-| [UnitPrice](unitprice) { get; set; } | Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks, mutual funds, and others. Percentage of par for bonds. Per share (not contract) for options. |
-| [Units](units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
+| [AverageCostBasis](../../aspose.finance.ofx.investment/transfer/averagecostbasis) { get; set; } | Gets or sets the average cost basis of this position. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/transfer/investment401ksource) { get; set; } | Gets or sets the source of money for this security in this position. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/transfer/investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [PositionType](../../aspose.finance.ofx.investment/transfer/positiontype) { get; set; } | Gets or sets the position type. |
+| [PurchaseDate](../../aspose.finance.ofx.investment/transfer/purchasedate) { get; set; } | Gets or sets the security’s original purchase date. |
+| [SecurityId](../../aspose.finance.ofx.investment/transfer/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/transfer/subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
+| [TransferAction](../../aspose.finance.ofx.investment/transfer/transferaction) { get; set; } | Gets or sets the action for transfers. |
+| [UnitPrice](../../aspose.finance.ofx.investment/transfer/unitprice) { get; set; } | Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks, mutual funds, and others. Percentage of par for bonds. Per share (not contract) for options. |
+| [Units](../../aspose.finance.ofx.investment/transfer/units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class InvestmentMailRequest
 
 | Name | Description |
 | --- | --- |
-| [InvestmentAccountFrom](investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [Mail](mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailrequest/investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [Mail](../../aspose.finance.ofx.investment/investmentmailrequest/mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
 
 ### See Also
 

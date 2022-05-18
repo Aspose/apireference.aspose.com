@@ -24,9 +24,9 @@ public class BillStatusModRequest
 
 | Name | Description |
 | --- | --- |
-| [BillId](billid) { get; set; } | Gets or sets the bill id. |
-| [BillPaymentstatus](billpaymentstatus) { get; set; } | Gets or sets the [`BillPaymentstatus`](./billpaymentstatus). |
-| [BillStatus](billstatus) { get; set; } | Gets or sets the [`BillStatus`](./billstatus). |
+| [BillId](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billid) { get; set; } | Gets or sets the bill id. |
+| [BillPaymentstatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billpaymentstatus) { get; set; } | Gets or sets the [`BillPaymentstatus`](./billpaymentstatus). |
+| [BillStatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billstatus) { get; set; } | Gets or sets the [`BillStatus`](./billstatus). |
 
 ### See Also
 

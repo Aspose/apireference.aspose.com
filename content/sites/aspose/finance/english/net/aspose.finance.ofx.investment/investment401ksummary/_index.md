@@ -24,9 +24,9 @@ public class Investment401kSummary
 
 | Name | Description |
 | --- | --- |
-| [InceptToDate](incepttodate) { get; set; } | Gets or sets the total contributions to date (since inception) |
-| [PeriodToDate](periodtodate) { get; set; } | Gets or sets the contributions to date for period. |
-| [YearToDate](yeartodate) { get; set; } | Gets or sets the contributions to date for this calendar year. |
+| [InceptToDate](../../aspose.finance.ofx.investment/investment401ksummary/incepttodate) { get; set; } | Gets or sets the total contributions to date (since inception) |
+| [PeriodToDate](../../aspose.finance.ofx.investment/investment401ksummary/periodtodate) { get; set; } | Gets or sets the contributions to date for period. |
+| [YearToDate](../../aspose.finance.ofx.investment/investment401ksummary/yeartodate) { get; set; } | Gets or sets the contributions to date for this calendar year. |
 
 ### See Also
 

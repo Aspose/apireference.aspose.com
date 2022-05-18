@@ -24,13 +24,14 @@ public class ClosureOption : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [Gain](gain) { get; set; } | Gets or sets the total gain. |
-| [OptionAction](optionaction) { get; set; } | Gets or sets the option action type. |
-| [RelateFITransactionID](relatefitransactionid) { get; set; } | Gets or sets the ID of related trade. |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SharePerContract](sharepercontract) { get; set; } | Gets or sets the number of shares per contract. |
-| [SubAccountSecurity](subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security |
-| [Units](units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
+| [Gain](../../aspose.finance.ofx.investment/closureoption/gain) { get; set; } | Gets or sets the total gain. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [OptionAction](../../aspose.finance.ofx.investment/closureoption/optionaction) { get; set; } | Gets or sets the option action type. |
+| [RelateFITransactionID](../../aspose.finance.ofx.investment/closureoption/relatefitransactionid) { get; set; } | Gets or sets the ID of related trade. |
+| [SecurityId](../../aspose.finance.ofx.investment/closureoption/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SharePerContract](../../aspose.finance.ofx.investment/closureoption/sharepercontract) { get; set; } | Gets or sets the number of shares per contract. |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/closureoption/subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security |
+| [Units](../../aspose.finance.ofx.investment/closureoption/units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
 
 ### See Also
 

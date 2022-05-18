@@ -24,9 +24,9 @@ public class Tax1098Response
 
 | Name | Description |
 | --- | --- |
-| [AccountNumber](accountnumber) { get; set; } | Gets or sets the account number of borrower, if different from SSN. |
-| [SSN](ssn) { get; set; } | Gets or sets the borrower’s social security number. |
-| [TAX1098s](tax1098s) { get; set; } | Gets or sets the collection of [`Tax1098_V100`](../tax1098_v100) or [`Tax1098T_V100`](../tax1098t_v100) or [`Tax1098E_V100`](../tax1098e_v100). |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098response/accountnumber) { get; set; } | Gets or sets the account number of borrower, if different from SSN. |
+| [SSN](../../aspose.finance.ofx.tax1098/tax1098response/ssn) { get; set; } | Gets or sets the borrower’s social security number. |
+| [TAX1098s](../../aspose.finance.ofx.tax1098/tax1098response/tax1098s) { get; set; } | Gets or sets the collection of [`Tax1098_V100`](../tax1098_v100) or [`Tax1098T_V100`](../tax1098t_v100) or [`Tax1098E_V100`](../tax1098e_v100). |
 
 ### See Also
 

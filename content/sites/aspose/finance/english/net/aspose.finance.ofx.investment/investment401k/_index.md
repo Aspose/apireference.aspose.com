@@ -24,19 +24,19 @@ public class Investment401k
 
 | Name | Description |
 | --- | --- |
-| [BrokerContactInformation](brokercontactinformation) { get; set; } | Gets or sets the name of contact person at broker, plus any available contact information, such as phone number. |
-| [ContributionInformation](contributioninformation) { get; set; } | Gets or sets the collection of [`ContributionSecurity`](../contributionsecurity). |
-| [CurrentVestPercent](currentvestpercent) { get; set; } | Gets or sets the estimated percentage of employer contributions vested as of the current date. |
-| [DeferPercentAfterTax](deferpercentaftertax) { get; set; } | Gets or sets the percent of employee salary deferred after tax. |
-| [DeferPercentPreTax](deferpercentpretax) { get; set; } | Gets or sets the percent of employee salary deferred before tax. |
-| [EmployerContactInformation](employercontactinformation) { get; set; } | Gets or sets the name of contact person at employer, plus any available contact information, such as phone number. |
-| [EmployerName](employername) { get; set; } | Gets or sets the name of the employer. |
-| [Investment401kSummary](investment401ksummary) { get; set; } | Gets or sets the [`Investment401kSummary`](./investment401ksummary). |
-| [LoanInfos](loaninfos) { get; set; } | Gets or sets the collection of [`LoanInfo`](../loaninfo). |
-| [MatchInfo](matchinfo) { get; set; } | Gets or sets the [`MatchInfo`](./matchinfo). |
-| [PlanId](planid) { get; set; } | Gets or sets the plan number. |
-| [PlanJoinDate](planjoindate) { get; set; } | Gets or sets the date the employee joined the plan. |
-| [VestInfos](vestinfos) { get; set; } | Gets or sets the collection of [`VestInfo`](../vestinfo). |
+| [BrokerContactInformation](../../aspose.finance.ofx.investment/investment401k/brokercontactinformation) { get; set; } | Gets or sets the name of contact person at broker, plus any available contact information, such as phone number. |
+| [ContributionInformation](../../aspose.finance.ofx.investment/investment401k/contributioninformation) { get; set; } | Gets or sets the collection of [`ContributionSecurity`](../contributionsecurity). |
+| [CurrentVestPercent](../../aspose.finance.ofx.investment/investment401k/currentvestpercent) { get; set; } | Gets or sets the estimated percentage of employer contributions vested as of the current date. |
+| [DeferPercentAfterTax](../../aspose.finance.ofx.investment/investment401k/deferpercentaftertax) { get; set; } | Gets or sets the percent of employee salary deferred after tax. |
+| [DeferPercentPreTax](../../aspose.finance.ofx.investment/investment401k/deferpercentpretax) { get; set; } | Gets or sets the percent of employee salary deferred before tax. |
+| [EmployerContactInformation](../../aspose.finance.ofx.investment/investment401k/employercontactinformation) { get; set; } | Gets or sets the name of contact person at employer, plus any available contact information, such as phone number. |
+| [EmployerName](../../aspose.finance.ofx.investment/investment401k/employername) { get; set; } | Gets or sets the name of the employer. |
+| [Investment401kSummary](../../aspose.finance.ofx.investment/investment401k/investment401ksummary) { get; set; } | Gets or sets the [`Investment401kSummary`](./investment401ksummary). |
+| [LoanInfos](../../aspose.finance.ofx.investment/investment401k/loaninfos) { get; set; } | Gets or sets the collection of [`LoanInfo`](../loaninfo). |
+| [MatchInfo](../../aspose.finance.ofx.investment/investment401k/matchinfo) { get; set; } | Gets or sets the [`MatchInfo`](./matchinfo). |
+| [PlanId](../../aspose.finance.ofx.investment/investment401k/planid) { get; set; } | Gets or sets the plan number. |
+| [PlanJoinDate](../../aspose.finance.ofx.investment/investment401k/planjoindate) { get; set; } | Gets or sets the date the employee joined the plan. |
+| [VestInfos](../../aspose.finance.ofx.investment/investment401k/vestinfos) { get; set; } | Gets or sets the collection of [`VestInfo`](../vestinfo). |
 
 ### See Also
 

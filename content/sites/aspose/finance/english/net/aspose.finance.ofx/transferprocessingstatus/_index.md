@@ -24,8 +24,8 @@ public class TransferProcessingStatus
 
 | Name | Description |
 | --- | --- |
-| [TransferProcessingCode](transferprocessingcode) { get; set; } | Gets or sets the transfer processing code. |
-| [TransferProcessingDate](transferprocessingdate) { get; set; } | Gets or sets the transfer processing date. |
+| [TransferProcessingCode](../../aspose.finance.ofx/transferprocessingstatus/transferprocessingcode) { get; set; } | Gets or sets the transfer processing code. |
+| [TransferProcessingDate](../../aspose.finance.ofx/transferprocessingstatus/transferprocessingdate) { get; set; } | Gets or sets the transfer processing date. |
 
 ### See Also
 

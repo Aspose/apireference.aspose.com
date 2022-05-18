@@ -24,7 +24,8 @@ public class BuyStock : AbstractInvestmentBuyTransaction
 
 | Name | Description |
 | --- | --- |
-| [BuyType](buytype) { get; set; } | Gets or sets the type of purchase. |
+| [BuyType](../../aspose.finance.ofx.investment/buystock/buytype) { get; set; } | Gets or sets the type of purchase. |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Gets or sets the [`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
 
 ### See Also
 

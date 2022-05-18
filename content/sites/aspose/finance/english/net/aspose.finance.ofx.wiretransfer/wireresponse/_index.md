@@ -24,18 +24,18 @@ public class WireResponse : AbstractWireResponse
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [ConfirmationMessage](confirmationmessage) { get; set; } | Gets or sets the confirmation message. |
-| [Currency](currency) { get; set; } | Gets or sets the currency used in transfer. |
-| [DueDate](duedate) { get; set; } | Gets or sets the date to occur. |
-| [Fee](fee) { get; set; } | Gets or sets the fee assessed for the transfer. |
-| [PaymentInstruction](paymentinstruction) { get; set; } | Gets or sets the payment instructions. |
-| [PostedDate](posteddate) { get; set; } | Gets or sets the actual date of the transfer. |
-| [ServerId](serverid) { get; set; } | Gets or sets the server ID for this transfer. |
-| [TransferAmount](transferamount) { get; set; } | Gets or sets the transfer amount. |
-| [TransferProjectDate](transferprojectdate) { get; set; } | Gets or sets the projected date of the transfer. |
-| [WireBeneficiary](wirebeneficiary) { get; set; } | Gets or sets the [`WireBeneficiary`](./wirebeneficiary). |
-| [WireDestinationBank](wiredestinationbank) { get; set; } | Gets or sets the [`WireDestinationBank`](./wiredestinationbank). |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wireresponse/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [ConfirmationMessage](../../aspose.finance.ofx.wiretransfer/wireresponse/confirmationmessage) { get; set; } | Gets or sets the confirmation message. |
+| [Currency](../../aspose.finance.ofx.wiretransfer/wireresponse/currency) { get; set; } | Gets or sets the currency used in transfer. |
+| [DueDate](../../aspose.finance.ofx.wiretransfer/wireresponse/duedate) { get; set; } | Gets or sets the date to occur. |
+| [Fee](../../aspose.finance.ofx.wiretransfer/wireresponse/fee) { get; set; } | Gets or sets the fee assessed for the transfer. |
+| [PaymentInstruction](../../aspose.finance.ofx.wiretransfer/wireresponse/paymentinstruction) { get; set; } | Gets or sets the payment instructions. |
+| [PostedDate](../../aspose.finance.ofx.wiretransfer/wireresponse/posteddate) { get; set; } | Gets or sets the actual date of the transfer. |
+| [ServerId](../../aspose.finance.ofx.wiretransfer/wireresponse/serverid) { get; set; } | Gets or sets the server ID for this transfer. |
+| [TransferAmount](../../aspose.finance.ofx.wiretransfer/wireresponse/transferamount) { get; set; } | Gets or sets the transfer amount. |
+| [TransferProjectDate](../../aspose.finance.ofx.wiretransfer/wireresponse/transferprojectdate) { get; set; } | Gets or sets the projected date of the transfer. |
+| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary) { get; set; } | Gets or sets the [`WireBeneficiary`](./wirebeneficiary). |
+| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wireresponse/wiredestinationbank) { get; set; } | Gets or sets the [`WireDestinationBank`](./wiredestinationbank). |
 
 ### See Also
 

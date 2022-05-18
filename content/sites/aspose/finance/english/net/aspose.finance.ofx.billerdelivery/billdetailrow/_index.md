@@ -24,7 +24,7 @@ public class BillDetailRow
 
 | Name | Description |
 | --- | --- |
-| [Types](types) { get; set; } | Gets or sets the collection of [`MessageType`](../../aspose.finance.ofx/messagetype) or [`CharType`](../../aspose.finance.ofx/chartype). |
+| [Types](../../aspose.finance.ofx.billerdelivery/billdetailrow/types) { get; set; } | Gets or sets the collection of [`MessageType`](../../aspose.finance.ofx/messagetype) or [`CharType`](../../aspose.finance.ofx/chartype). |
 
 ### See Also
 

@@ -24,8 +24,11 @@ public class IntraTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Request](request) { get; set; } | Gets or sets the [`IntraRequest`](../intrarequest) or [`IntraModRequest`](../intramodrequest) or [`IntraCancellationRequest`](../intracancellationrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.bank/intratransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Request](../../aspose.finance.ofx.bank/intratransactionrequest/request) { get; set; } | Gets or sets the [`IntraRequest`](../intrarequest) or [`IntraModRequest`](../intramodrequest) or [`IntraCancellationRequest`](../intracancellationrequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

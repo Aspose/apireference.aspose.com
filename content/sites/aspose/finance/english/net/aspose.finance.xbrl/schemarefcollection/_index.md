@@ -3,7 +3,7 @@ title: SchemaRefCollection
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8010
+weight: 8020
 url: /net/aspose.finance.xbrl/schemarefcollection/
 ---
 ## SchemaRefCollection class
@@ -18,16 +18,16 @@ public class SchemaRefCollection : IEnumerable<SchemaRef>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | The number of schema reference in this collection. |
-| [Item](item) { get; } | Gets the [`SchemaRef`](../schemaref) item at the specified index in the collection. |
+| [Count](../../aspose.finance.xbrl/schemarefcollection/count) { get; } | The number of schema reference in this collection. |
+| [Item](../../aspose.finance.xbrl/schemarefcollection/item) { get; } | Gets the [`SchemaRef`](../schemaref) item at the specified index in the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(string, string) | Add a [`SchemaRef`](../schemaref) to the collection. |
-| [Add](add)(string, string, string) | Add a [`SchemaRef`](../schemaref) to the collection. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the collection. |
+| [Add](../../aspose.finance.xbrl/schemarefcollection/add)(string, string) | Add a [`SchemaRef`](../schemaref) to the collection. |
+| [Add](../../aspose.finance.xbrl/schemarefcollection/add)(string, string, string) | Add a [`SchemaRef`](../schemaref) to the collection. |
+| [GetEnumerator](../../aspose.finance.xbrl/schemarefcollection/getenumerator)() | Returns an enumerator that iterates through the collection. |
 
 ### See Also
 

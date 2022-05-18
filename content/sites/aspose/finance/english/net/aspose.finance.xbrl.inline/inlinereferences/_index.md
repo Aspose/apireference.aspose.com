@@ -3,7 +3,7 @@ title: InlineReferences
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7710
+weight: 7720
 url: /net/aspose.finance.xbrl.inline/inlinereferences/
 ---
 ## InlineReferences class
@@ -18,11 +18,11 @@ public class InlineReferences
 
 | Name | Description |
 | --- | --- |
-| [Id](id) { get; set; } | Gets or sets the id of the [`InlineReferences`](../inlinereferences). |
-| [LinkbaseRefCollection](linkbaserefcollection) { get; } | Gets the [`LinkbaseRefCollection`](./linkbaserefcollection) in the [`InlineReferences`](../inlinereferences). |
-| [LinkbaseRefs](linkbaserefs) { get; } | Gets the collection of [`LinkbaseRef`](../../aspose.finance.xbrl/linkbaseref) in the [`InlineReferences`](../inlinereferences). |
-| [SchemaRefs](schemarefs) { get; set; } | Gets the SchemaRef collection in the [`InlineReferences`](../inlinereferences) |
-| [TargetId](targetid) { get; set; } | Gets or sets the target id of the [`InlineReferences`](../inlinereferences). |
+| [Id](../../aspose.finance.xbrl.inline/inlinereferences/id) { get; set; } | Gets or sets the id of the [`InlineReferences`](../inlinereferences). |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefcollection) { get; } | Gets the [`LinkbaseRefCollection`](./linkbaserefcollection) in the [`InlineReferences`](../inlinereferences). |
+| [LinkbaseRefs](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefs) { get; } | Gets the collection of [`LinkbaseRef`](../../aspose.finance.xbrl/linkbaseref) in the [`InlineReferences`](../inlinereferences). |
+| [SchemaRefs](../../aspose.finance.xbrl.inline/inlinereferences/schemarefs) { get; set; } | Gets the SchemaRef collection in the [`InlineReferences`](../inlinereferences) |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinereferences/targetid) { get; set; } | Gets or sets the target id of the [`InlineReferences`](../inlinereferences). |
 
 ### See Also
 

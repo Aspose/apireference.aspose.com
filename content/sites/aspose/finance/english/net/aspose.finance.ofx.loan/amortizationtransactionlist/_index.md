@@ -24,9 +24,9 @@ public class AmortizationTransactionList
 
 | Name | Description |
 | --- | --- |
-| [AmortizationTransactions](amortizationtransactions) { get; set; } | Gets or sets the collection of [`AmortizationTransaction`](../amortizationtransaction). |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date for transaction data. |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for transaction data. |
+| [AmortizationTransactions](../../aspose.finance.ofx.loan/amortizationtransactionlist/amortizationtransactions) { get; set; } | Gets or sets the collection of [`AmortizationTransaction`](../amortizationtransaction). |
+| [EndDate](../../aspose.finance.ofx.loan/amortizationtransactionlist/enddate) { get; set; } | Gets or sets the end date for transaction data. |
+| [StartDate](../../aspose.finance.ofx.loan/amortizationtransactionlist/startdate) { get; set; } | Gets or sets the start date for transaction data. |
 
 ### See Also
 

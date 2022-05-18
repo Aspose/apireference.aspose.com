@@ -24,8 +24,8 @@ public class ExtendedBInfo_V100
 
 | Name | Description |
 | --- | --- |
-| [ProceedDescription_V100s](proceeddescription_v100s) { get; set; } | Gets or sets the collection of [`ProceedDescription_V100`](../proceeddescription_v100). |
-| [ProceedSummary_V100s](proceedsummary_v100s) { get; set; } | Gets or sets the collection of [`ProceedSummary_V100`](../proceedsummary_v100). |
+| [ProceedDescription_V100s](../../aspose.finance.ofx.tax1099/extendedbinfo_v100/proceeddescription_v100s) { get; set; } | Gets or sets the collection of [`ProceedDescription_V100`](../proceeddescription_v100). |
+| [ProceedSummary_V100s](../../aspose.finance.ofx.tax1099/extendedbinfo_v100/proceedsummary_v100s) { get; set; } | Gets or sets the collection of [`ProceedSummary_V100`](../proceedsummary_v100). |
 
 ### See Also
 

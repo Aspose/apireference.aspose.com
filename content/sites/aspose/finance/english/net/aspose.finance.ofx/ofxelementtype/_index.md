@@ -24,10 +24,10 @@ public class OfxElementType
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; set; } | Gets or sets the user-friendly display name for the custom element |
-| [TagName](tagname) { get; set; } | Gets or sets the custom element name. |
-| [TagType](tagtype) { get; set; } | Gets or sets the any defined OFX type (date, amount, etc.) or standard format for defining an alpha or numeric field. |
-| [TagValue](tagvalue) { get; set; } | Gets or sets the custom element data value. |
+| [Name](../../aspose.finance.ofx/ofxelementtype/name) { get; set; } | Gets or sets the user-friendly display name for the custom element |
+| [TagName](../../aspose.finance.ofx/ofxelementtype/tagname) { get; set; } | Gets or sets the custom element name. |
+| [TagType](../../aspose.finance.ofx/ofxelementtype/tagtype) { get; set; } | Gets or sets the any defined OFX type (date, amount, etc.) or standard format for defining an alpha or numeric field. |
+| [TagValue](../../aspose.finance.ofx/ofxelementtype/tagvalue) { get; set; } | Gets or sets the custom element data value. |
 
 ### See Also
 

@@ -24,16 +24,16 @@ public class Employer
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the employer address, line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the employer address, line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the employer address, line 3. |
-| [City](city) { get; set; } | Gets or sets the employer city. |
-| [CountryString](countrystring) { get; set; } | Gets or sets the country, do not abbreviate. |
-| [FederalIdNumber](federalidnumber) { get; set; } | Gets or sets the employer federal ID number. |
-| [Name1](name1) { get; set; } | Gets or sets the employer name, line 1. |
-| [Name2](name2) { get; set; } | Gets or sets the employer name, line 2. |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the employer postal code. |
-| [State](state) { get; set; } | Gets or sets the employer state or province. |
+| [Address1](../../aspose.finance.ofx.taxw2/employer/address1) { get; set; } | Gets or sets the employer address, line 1. |
+| [Address2](../../aspose.finance.ofx.taxw2/employer/address2) { get; set; } | Gets or sets the employer address, line 2. |
+| [Address3](../../aspose.finance.ofx.taxw2/employer/address3) { get; set; } | Gets or sets the employer address, line 3. |
+| [City](../../aspose.finance.ofx.taxw2/employer/city) { get; set; } | Gets or sets the employer city. |
+| [CountryString](../../aspose.finance.ofx.taxw2/employer/countrystring) { get; set; } | Gets or sets the country, do not abbreviate. |
+| [FederalIdNumber](../../aspose.finance.ofx.taxw2/employer/federalidnumber) { get; set; } | Gets or sets the employer federal ID number. |
+| [Name1](../../aspose.finance.ofx.taxw2/employer/name1) { get; set; } | Gets or sets the employer name, line 1. |
+| [Name2](../../aspose.finance.ofx.taxw2/employer/name2) { get; set; } | Gets or sets the employer name, line 2. |
+| [PostalCode](../../aspose.finance.ofx.taxw2/employer/postalcode) { get; set; } | Gets or sets the employer postal code. |
+| [State](../../aspose.finance.ofx.taxw2/employer/state) { get; set; } | Gets or sets the employer state or province. |
 
 ### See Also
 

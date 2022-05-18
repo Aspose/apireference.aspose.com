@@ -24,8 +24,8 @@ public class ChallengeRequest
 
 | Name | Description |
 | --- | --- |
-| [FICertificateId](ficertificateid) { get; set; } | Gets or sets the optional server certificate ID. |
-| [UserId](userid) { get; set; } | Gets or sets the user identification string. |
+| [FICertificateId](../../aspose.finance.ofx.signon/challengerequest/ficertificateid) { get; set; } | Gets or sets the optional server certificate ID. |
+| [UserId](../../aspose.finance.ofx.signon/challengerequest/userid) { get; set; } | Gets or sets the user identification string. |
 
 ### See Also
 

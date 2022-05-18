@@ -24,8 +24,11 @@ public class ImageTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [ImageRequest](imagerequest) { get; set; } | Gets or sets the [`ImageRequest`](./imagerequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [ImageRequest](../../aspose.finance.ofx.image/imagetransactionrequest/imagerequest) { get; set; } | Gets or sets the [`ImageRequest`](./imagerequest). |
+| [OfxExtension](../../aspose.finance.ofx.image/imagetransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

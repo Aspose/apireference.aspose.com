@@ -24,16 +24,16 @@ public class InvestmentStatementResponse
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the default currency for the statement. |
-| [DateAsOf](dateasof) { get; set; } |  |
-| [Investment401k](investment401k) { get; set; } | Gets or sets the [`Investment401k`](./investment401k). |
-| [Investment401kBalance](investment401kbalance) { get; set; } | Gets or sets the [`Investment401kBalance`](./investment401kbalance). |
-| [InvestmentAccountFrom](investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [InvestmentBalance](investmentbalance) { get; set; } | Gets or sets the [`InvestmentBalance`](./investmentbalance). |
-| [InvestmentOpenOrderList](investmentopenorderlist) { get; set; } | Gets or sets the [`InvestmentOpenOrderList`](./investmentopenorderlist). |
-| [InvestmentPositionList](investmentpositionlist) { get; set; } | Gets or sets the [`InvestmentPositionList`](./investmentpositionlist). |
-| [InvestmentTransactionList](investmenttransactionlist) { get; set; } | Gets or sets the [`InvestmentTransactionList`](./investmenttransactionlist). |
-| [MarketingInformation](marketinginformation) { get; set; } | Gets or sets the marketing information, |
+| [Currency](../../aspose.finance.ofx.investment/investmentstatementresponse/currency) { get; set; } | Gets or sets the default currency for the statement. |
+| [DateAsOf](../../aspose.finance.ofx.investment/investmentstatementresponse/dateasof) { get; set; } |  |
+| [Investment401k](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401k) { get; set; } | Gets or sets the [`Investment401k`](./investment401k). |
+| [Investment401kBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401kbalance) { get; set; } | Gets or sets the [`Investment401kBalance`](./investment401kbalance). |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [InvestmentBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentbalance) { get; set; } | Gets or sets the [`InvestmentBalance`](./investmentbalance). |
+| [InvestmentOpenOrderList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentopenorderlist) { get; set; } | Gets or sets the [`InvestmentOpenOrderList`](./investmentopenorderlist). |
+| [InvestmentPositionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist) { get; set; } | Gets or sets the [`InvestmentPositionList`](./investmentpositionlist). |
+| [InvestmentTransactionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist) { get; set; } | Gets or sets the [`InvestmentTransactionList`](./investmenttransactionlist). |
+| [MarketingInformation](../../aspose.finance.ofx.investment/investmentstatementresponse/marketinginformation) { get; set; } | Gets or sets the marketing information, |
 
 ### See Also
 

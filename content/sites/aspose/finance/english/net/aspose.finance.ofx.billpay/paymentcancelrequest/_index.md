@@ -24,7 +24,7 @@ public class PaymentCancelRequest : AbstractPaymentRequest
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being cancelled. |
+| [ServerId](../../aspose.finance.ofx.billpay/paymentcancelrequest/serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment being cancelled. |
 
 ### See Also
 

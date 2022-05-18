@@ -24,8 +24,9 @@ public class PaymentModResponse : AbstractPaymentResponse
 
 | Name | Description |
 | --- | --- |
-| [PaymentInfo](paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
-| [PaymentProcessingStatus](paymentprocessingstatus) { get; set; } | Gets or sets the [`PaymentProcessingStatus`](./paymentprocessingstatus). |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentinfo) { get; set; } | Gets or sets the [`PaymentInfo`](./paymentinfo). |
+| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus) { get; set; } | Gets or sets the [`PaymentProcessingStatus`](./paymentprocessingstatus). |
+| [ServerId](../../aspose.finance.ofx.billpay/abstractpaymentresponse/serverid) { get; set; } | Gets or sets the ID assigned by the server to the payment. |
 
 ### See Also
 

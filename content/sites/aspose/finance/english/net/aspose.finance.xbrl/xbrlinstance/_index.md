@@ -3,7 +3,7 @@ title: XbrlInstance
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8150
+weight: 8190
 url: /net/aspose.finance.xbrl/xbrlinstance/
 ---
 ## XbrlInstance class
@@ -18,33 +18,35 @@ public class XbrlInstance
 
 | Name | Description |
 | --- | --- |
-| [ArcroleReferences](arcrolereferences) { get; set; } | Gets or sets the collection of [`ArcroleReference`](../arcrolereference) objects in the XBRL instance. |
-| [Contexts](contexts) { get; set; } | Gets or sets the collection of [`Context`](../context) objects in the XBRL instance. |
-| [Facts](facts) { get; } | Gets the collection of [`Fact`](../fact) objects in the XBRL instance. |
-| [FootnoteLinks](footnotelinks) { get; set; } | Gets or sets the collection of [`FootnoteLink`](../footnotelink) objects in the XBRL instance. |
-| [LinkbaseRefCollection](linkbaserefcollection) { get; } | Gets the [`LinkbaseRefCollection`](./linkbaserefcollection) in the [`XbrlInstance`](../xbrlinstance). |
-| [RoleReferences](rolereferences) { get; set; } | Gets or sets the collection of [`RoleReference`](../rolereference) objects in the XBRL instance. |
-| [SchemaLocation](schemalocation) { get; set; } | Gets or sets the schema location |
-| [SchemaRefs](schemarefs) { get; } | Gets the SchemaRef collection. |
-| [Units](units) { get; set; } | Gets or sets the collection of [`Unit`](../unit) objects in the XBRL instance. |
-| [ValidationErrors](validationerrors) { get; } | Gets the collection of validation error. |
-| [XbrlDocument](xbrldocument) { get; } | Get the [`XbrlDocument`](./xbrldocument) which contains this instance. |
+| [ArcroleReferences](../../aspose.finance.xbrl/xbrlinstance/arcrolereferences) { get; set; } | Gets or sets the collection of [`ArcroleReference`](../arcrolereference) objects in the XBRL instance. |
+| [Contexts](../../aspose.finance.xbrl/xbrlinstance/contexts) { get; set; } | Gets or sets the collection of [`Context`](../context) objects in the XBRL instance. |
+| [Facts](../../aspose.finance.xbrl/xbrlinstance/facts) { get; } | Gets the collection of [`Fact`](../fact) objects in the XBRL instance. |
+| [FootnoteLinks](../../aspose.finance.xbrl/xbrlinstance/footnotelinks) { get; set; } | Gets or sets the collection of [`FootnoteLink`](../footnotelink) objects in the XBRL instance. |
+| [Items](../../aspose.finance.xbrl/xbrlinstance/items) { get; } | Gets the collection of [`Item`](../item) objects in the XBRL instance. |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl/xbrlinstance/linkbaserefcollection) { get; } | Gets the [`LinkbaseRefCollection`](./linkbaserefcollection) in the [`XbrlInstance`](../xbrlinstance). |
+| [RoleReferences](../../aspose.finance.xbrl/xbrlinstance/rolereferences) { get; set; } | Gets or sets the collection of [`RoleReference`](../rolereference) objects in the XBRL instance. |
+| [SchemaLocation](../../aspose.finance.xbrl/xbrlinstance/schemalocation) { get; set; } | Gets or sets the schema location |
+| [SchemaRefs](../../aspose.finance.xbrl/xbrlinstance/schemarefs) { get; } | Gets the SchemaRef collection. |
+| [Units](../../aspose.finance.xbrl/xbrlinstance/units) { get; set; } | Gets or sets the collection of [`Unit`](../unit) objects in the XBRL instance. |
+| [ValidationErrors](../../aspose.finance.xbrl/xbrlinstance/validationerrors) { get; } | Gets the collection of validation error. |
+| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstance/xbrldocument) { get; } | Get the [`XbrlDocument`](./xbrldocument) which contains this instance. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetAllLinkbaseRefCollections](getalllinkbaserefcollections)() | Get all linkbase reference collections in xbrl instance and schema references. |
-| [GetArcroleTypeByURI](getarcroletypebyuri)(string) | Gets the ArcroleType which has the specified uri. |
-| [GetConceptById](getconceptbyid)(string) | Gets the concept which has the specified id. |
-| [GetConceptByLoc](getconceptbyloc)(Loc) | Gets the concept by the locator. |
-| [GetConceptByName](getconceptbyname)(string) | Gets the concept which has the specified name. |
-| [GetContextById](getcontextbyid)(string) | Gets the context which has the specified id. |
-| [GetPresentationLinks](getpresentationlinks)(string, string) | Gets the presentation links in the xbrl instance. |
-| [GetRoleTypeByURI](getroletypebyuri)(string) | Gets the RoleType which has the specified uri. |
-| [GetUnitById](getunitbyid)(string) | Gets the unit which has the specified id. |
-| [IsValid](isvalid)() | Checks whether this XBRL instance is valid. |
-| [Validate](validate)() | Validates this XBRL instance. |
+| [CreateElement](../../aspose.finance.xbrl/xbrlinstance/createelement)(string, string, string) | Create a new element. |
+| [GetAllLinkbaseRefCollections](../../aspose.finance.xbrl/xbrlinstance/getalllinkbaserefcollections)() | Get all linkbase reference collections in xbrl instance and schema references. |
+| [GetArcroleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getarcroletypebyuri)(string) | Gets the ArcroleType which has the specified uri. |
+| [GetConceptById](../../aspose.finance.xbrl/xbrlinstance/getconceptbyid)(string) | Gets the concept which has the specified id. |
+| [GetConceptByLoc](../../aspose.finance.xbrl/xbrlinstance/getconceptbyloc)(Loc) | Gets the concept by the locator. |
+| [GetConceptByName](../../aspose.finance.xbrl/xbrlinstance/getconceptbyname)(string) | Gets the concept which has the specified name. |
+| [GetContextById](../../aspose.finance.xbrl/xbrlinstance/getcontextbyid)(string) | Gets the context which has the specified id. |
+| [GetPresentationLinks](../../aspose.finance.xbrl/xbrlinstance/getpresentationlinks)(string, string) | Gets the presentation links in the xbrl instance. |
+| [GetRoleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getroletypebyuri)(string) | Gets the RoleType which has the specified uri. |
+| [GetUnitById](../../aspose.finance.xbrl/xbrlinstance/getunitbyid)(string) | Gets the unit which has the specified id. |
+| [IsValid](../../aspose.finance.xbrl/xbrlinstance/isvalid)() | Checks whether this XBRL instance is valid. |
+| [Validate](../../aspose.finance.xbrl/xbrlinstance/validate)() | Validates this XBRL instance. |
 
 ### See Also
 

@@ -24,10 +24,10 @@ public class InvestmentStatementResponseMessageSetV1 : AbstractResponseMessageSe
 
 | Name | Description |
 | --- | --- |
-| [InvestmentMailSyncResponses](investmentmailsyncresponses) { get; set; } | Gets or sets the collection of [`InvestmentMailSyncResponse`](../../aspose.finance.ofx.investment/investmentmailsyncresponse). |
-| [InvestmentMailTransactionResponses](investmentmailtransactionresponses) { get; set; } | Gets or sets the collection of [`InvestmentMailTransactionResponse`](../../aspose.finance.ofx.investment/investmentmailtransactionresponse). |
-| [InvestmentStatementEndTransactionResponses](investmentstatementendtransactionresponses) { get; set; } | Gets or sets the collection of [`InvestmentStatementEndTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementendtransactionresponse). |
-| [InvestmentStatementTransactionResponses](investmentstatementtransactionresponses) { get; set; } | Gets or sets the collection of [`InvestmentStatementTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementtransactionresponse). |
+| [InvestmentMailSyncResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailsyncresponses) { get; set; } | Gets or sets the collection of [`InvestmentMailSyncResponse`](../../aspose.finance.ofx.investment/investmentmailsyncresponse). |
+| [InvestmentMailTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailtransactionresponses) { get; set; } | Gets or sets the collection of [`InvestmentMailTransactionResponse`](../../aspose.finance.ofx.investment/investmentmailtransactionresponse). |
+| [InvestmentStatementEndTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementendtransactionresponses) { get; set; } | Gets or sets the collection of [`InvestmentStatementEndTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementendtransactionresponse). |
+| [InvestmentStatementTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementtransactionresponses) { get; set; } | Gets or sets the collection of [`InvestmentStatementTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementtransactionresponse). |
 
 ### See Also
 

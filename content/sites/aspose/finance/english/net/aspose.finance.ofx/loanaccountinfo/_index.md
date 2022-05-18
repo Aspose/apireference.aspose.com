@@ -24,24 +24,24 @@ public class LoanAccountInfo : AbstractAccountInfo
 
 | Name | Description |
 | --- | --- |
-| [AccountClassification](accountclassification) { get; set; } | Gets or sets the account classification. |
-| [BalloonAmount](balloonamount) { get; set; } | Gets or sets the balloon amount, Not included or zero for regular loans, otherwise Balloon amount. |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../loanaccount). |
-| [LoanFrequency](loanfrequency) { get; set; } | Gets or sets the frequency of payments. |
-| [LoanInitialBalance](loaninitialbalance) { get; set; } | Gets or sets the initial loan balance |
-| [LoanInitialNumberPayments](loaninitialnumberpayments) { get; set; } | Gets or sets the initial number of loan payments. |
-| [LoanInterest](loaninterest) { get; set; } | Gets or sets the loan Interest. |
-| [LoanInterestRate](loaninterestrate) { get; set; } | Gets or sets the loan rate. |
-| [LoanMaturityDate](loanmaturitydate) { get; set; } | Gets or sets the expected loan end date. |
-| [LoanPayment](loanpayment) { get; set; } | Gets or sets the loan payment. |
-| [LoanRemainingPayments](loanremainingpayments) { get; set; } | Gets or sets the remaining number of loan payments |
-| [LoanStartDate](loanstartdate) { get; set; } | Gets or sets the start date of loan. |
-| [LoanType](loantype) { get; set; } | Gets or sets the loan type. |
-| [PrincipalBalance](principalbalance) { get; set; } | Gets or sets the loan principal balance type. |
-| [ServiceStatus](servicestatus) { get; set; } | Gets or sets the status of the account. |
-| [SupportTransactionDetailDownload](supporttransactiondetaildownload) { get; set; } | If account supports transaction detail downloads, yes, if it is balance-only, no. |
-| [TransferDestination](transferdestination) { get; set; } | if account is enabled as a destination for an intrabank or interbank transfer, yes, otherwise, no. |
-| [TransferSource](transfersource) { get; set; } | If account is enabled as a source for an intrabank or interbank transfer, yes, otherwise, no. |
+| [AccountClassification](../../aspose.finance.ofx/loanaccountinfo/accountclassification) { get; set; } | Gets or sets the account classification. |
+| [BalloonAmount](../../aspose.finance.ofx/loanaccountinfo/balloonamount) { get; set; } | Gets or sets the balloon amount, Not included or zero for regular loans, otherwise Balloon amount. |
+| [LoanAccountFrom](../../aspose.finance.ofx/loanaccountinfo/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../loanaccount). |
+| [LoanFrequency](../../aspose.finance.ofx/loanaccountinfo/loanfrequency) { get; set; } | Gets or sets the frequency of payments. |
+| [LoanInitialBalance](../../aspose.finance.ofx/loanaccountinfo/loaninitialbalance) { get; set; } | Gets or sets the initial loan balance |
+| [LoanInitialNumberPayments](../../aspose.finance.ofx/loanaccountinfo/loaninitialnumberpayments) { get; set; } | Gets or sets the initial number of loan payments. |
+| [LoanInterest](../../aspose.finance.ofx/loanaccountinfo/loaninterest) { get; set; } | Gets or sets the loan Interest. |
+| [LoanInterestRate](../../aspose.finance.ofx/loanaccountinfo/loaninterestrate) { get; set; } | Gets or sets the loan rate. |
+| [LoanMaturityDate](../../aspose.finance.ofx/loanaccountinfo/loanmaturitydate) { get; set; } | Gets or sets the expected loan end date. |
+| [LoanPayment](../../aspose.finance.ofx/loanaccountinfo/loanpayment) { get; set; } | Gets or sets the loan payment. |
+| [LoanRemainingPayments](../../aspose.finance.ofx/loanaccountinfo/loanremainingpayments) { get; set; } | Gets or sets the remaining number of loan payments |
+| [LoanStartDate](../../aspose.finance.ofx/loanaccountinfo/loanstartdate) { get; set; } | Gets or sets the start date of loan. |
+| [LoanType](../../aspose.finance.ofx/loanaccountinfo/loantype) { get; set; } | Gets or sets the loan type. |
+| [PrincipalBalance](../../aspose.finance.ofx/loanaccountinfo/principalbalance) { get; set; } | Gets or sets the loan principal balance type. |
+| [ServiceStatus](../../aspose.finance.ofx/loanaccountinfo/servicestatus) { get; set; } | Gets or sets the status of the account. |
+| [SupportTransactionDetailDownload](../../aspose.finance.ofx/loanaccountinfo/supporttransactiondetaildownload) { get; set; } | If account supports transaction detail downloads, yes, if it is balance-only, no. |
+| [TransferDestination](../../aspose.finance.ofx/loanaccountinfo/transferdestination) { get; set; } | if account is enabled as a destination for an intrabank or interbank transfer, yes, otherwise, no. |
+| [TransferSource](../../aspose.finance.ofx/loanaccountinfo/transfersource) { get; set; } | If account is enabled as a source for an intrabank or interbank transfer, yes, otherwise, no. |
 
 ### See Also
 

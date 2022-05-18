@@ -24,12 +24,35 @@ public class Document : Node
 
 | Name | Description |
 | --- | --- |
-| [CharacterSet](characterset) { get; } | Gets the document's encoding. |
-| [ChildElements](childelements) { get; } | Gets the child elements. |
-| [ContentType](contenttype) { get; } | Gets the document content type. |
-| [DocumentElement](documentelement) { get; } | This is a convenience attribute that allows direct access to the child node that is the document element of the document. |
-| [DocumentURI](documenturi) { get; } | Gets the document URI. |
-| override [NodeName](nodename) { get; } | Gets the node name of the document. |
+| virtual [BaseURI](../../aspose.finance.xbrl.dom/node/baseuri) { get; } | Gets the absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
+| [CharacterSet](../../aspose.finance.xbrl.dom/document/characterset) { get; } | Gets the document's encoding. |
+| [ChildElements](../../aspose.finance.xbrl.dom/document/childelements) { get; } | Gets the child elements. |
+| [ChildNodes](../../aspose.finance.xbrl.dom/node/childnodes) { get; } | Gets the child nodes. |
+| [ContentType](../../aspose.finance.xbrl.dom/document/contenttype) { get; } | Gets the document content type. |
+| [DocumentElement](../../aspose.finance.xbrl.dom/document/documentelement) { get; } | This is a convenience attribute that allows direct access to the child node that is the document element of the document. |
+| [DocumentURI](../../aspose.finance.xbrl.dom/document/documenturi) { get; } | Gets the document URI. |
+| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | Gets the first child of this node. If there is no such node, this returns null. |
+| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | Gets whether this node has any children. |
+| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | Gets the last child of this node. If there is no such node, this returns null. |
+| virtual [LocalName](../../aspose.finance.xbrl.dom/node/localname) { get; } | Gets the local part of the qualified name of this node. |
+| virtual [NamespaceURI](../../aspose.finance.xbrl.dom/node/namespaceuri) { get; } | Gets the namespace URI of this node. |
+| [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | Gets the node immediately following this node. If there is no such node, this returns null. |
+| override [NodeName](../../aspose.finance.xbrl.dom/document/nodename) { get; } | Gets the node name of the document. |
+| [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | Gets the node type. |
+| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | Gets or sets the value of this node, depending on its type. |
+| [OwnerDocument](../../aspose.finance.xbrl.dom/node/ownerdocument) { get; } | Gets the document object associated with this node. |
+| [ParentNode](../../aspose.finance.xbrl.dom/node/parentnode) { get; } | Gets the parent node. |
+| virtual [Prefix](../../aspose.finance.xbrl.dom/node/prefix) { get; set; } | Gets or sets the namespace prefix of this node. |
+| [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | Gets the node immediately preceding this node. If there is no such node, this returns null. |
+| virtual [TextContent](../../aspose.finance.xbrl.dom/node/textcontent) { get; set; } | Gets or sets the the text content of this node and its descendants. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | Adds the node newChild to the end of the list of children of this node. |
+| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | Removes the child node indicated by old child from the list of children. |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | Replaces the child node old child with new child in the list of children, and returns the old child node. |
 
 ### See Also
 

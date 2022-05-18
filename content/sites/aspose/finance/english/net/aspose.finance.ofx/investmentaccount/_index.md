@@ -24,8 +24,8 @@ public class InvestmentAccount : AbstractAccount
 
 | Name | Description |
 | --- | --- |
-| [AccountId](accountid) { get; set; } | Gets or sets the account number at FI. |
-| [BrokerId](brokerid) { get; set; } | Gets or sets the unique identifier for the FI. |
+| [AccountId](../../aspose.finance.ofx/investmentaccount/accountid) { get; set; } | Gets or sets the account number at FI. |
+| [BrokerId](../../aspose.finance.ofx/investmentaccount/brokerid) { get; set; } | Gets or sets the unique identifier for the FI. |
 
 ### See Also
 

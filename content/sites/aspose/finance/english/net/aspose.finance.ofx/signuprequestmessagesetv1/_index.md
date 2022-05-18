@@ -24,12 +24,12 @@ public class SignupRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [AccountInfoTransactionRequests](accountinfotransactionrequests) { get; set; } | Gets or sets the collection of [`AccountInfoTransactionRequest`](../../aspose.finance.ofx.signup/accountinfotransactionrequest). |
-| [AccountSyncRequests](accountsyncrequests) { get; set; } | Gets or sets the collection of [`AccountSyncRequest`](../../aspose.finance.ofx.signup/accountsyncrequest). |
-| [AccountTransactionRequests](accounttransactionrequests) { get; set; } | Gets or sets the collection of [`AccountTransactionRequest`](../../aspose.finance.ofx.signup/accounttransactionrequest). |
-| [ChangeUserInfoSyncRequests](changeuserinfosyncrequests) { get; set; } | Gets or sets the collection of [`ChangeUserInfoSyncRequest`](../../aspose.finance.ofx.signup/changeuserinfosyncrequest). |
-| [ChangeUserInfoTransactionRequests](changeuserinfotransactionrequests) { get; set; } | Gets or sets the collection of [`ChangeUserInfoTransactionRequest`](../../aspose.finance.ofx.signup/changeuserinfotransactionrequest). |
-| [EnrollTransactionRequests](enrolltransactionrequests) { get; set; } | Gets or sets the collection of [`EnrollTransactionRequest`](../../aspose.finance.ofx.signup/enrolltransactionrequest). |
+| [AccountInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountinfotransactionrequests) { get; set; } | Gets or sets the collection of [`AccountInfoTransactionRequest`](../../aspose.finance.ofx.signup/accountinfotransactionrequest). |
+| [AccountSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountsyncrequests) { get; set; } | Gets or sets the collection of [`AccountSyncRequest`](../../aspose.finance.ofx.signup/accountsyncrequest). |
+| [AccountTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accounttransactionrequests) { get; set; } | Gets or sets the collection of [`AccountTransactionRequest`](../../aspose.finance.ofx.signup/accounttransactionrequest). |
+| [ChangeUserInfoSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfosyncrequests) { get; set; } | Gets or sets the collection of [`ChangeUserInfoSyncRequest`](../../aspose.finance.ofx.signup/changeuserinfosyncrequest). |
+| [ChangeUserInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfotransactionrequests) { get; set; } | Gets or sets the collection of [`ChangeUserInfoTransactionRequest`](../../aspose.finance.ofx.signup/changeuserinfotransactionrequest). |
+| [EnrollTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/enrolltransactionrequests) { get; set; } | Gets or sets the collection of [`EnrollTransactionRequest`](../../aspose.finance.ofx.signup/enrolltransactionrequest). |
 
 ### See Also
 

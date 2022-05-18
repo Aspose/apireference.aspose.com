@@ -18,10 +18,10 @@ public abstract class AbstractTaxForm1099
 
 | Name | Description |
 | --- | --- |
-| [Corrected](corrected) { get; set; } | Gets or sets whether this is a corrected form. |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by host server to the form. |
-| [TaxYear](taxyear) { get; set; } | Gets or sets the tax year of this form. |
-| [Void](void) { get; set; } | Gets or sets whether the form is void. |
+| [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | Gets or sets whether this is a corrected form. |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Gets or sets the ID assigned by host server to the form. |
+| [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | Gets or sets the tax year of this form. |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | Gets or sets whether the form is void. |
 
 ### See Also
 

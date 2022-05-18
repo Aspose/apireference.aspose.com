@@ -24,7 +24,7 @@ public class GetMimeRequest
 
 | Name | Description |
 | --- | --- |
-| [Url](url) { get; set; } | Gets or sets the URL. |
+| [Url](../../aspose.finance.ofx.email/getmimerequest/url) { get; set; } | Gets or sets the URL. |
 
 ### See Also
 

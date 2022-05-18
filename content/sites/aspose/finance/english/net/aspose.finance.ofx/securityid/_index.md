@@ -24,8 +24,8 @@ public class SecurityId
 
 | Name | Description |
 | --- | --- |
-| [UniqueId](uniqueid) { get; set; } | Gets or sets the Unique identifier for the security. CUSIP for US FIs. |
-| [UniqueIdType](uniqueidtype) { get; set; } | Gets or sets the name of standard used to identify the security i.e., “CUSIP” for FIs in the United States. |
+| [UniqueId](../../aspose.finance.ofx/securityid/uniqueid) { get; set; } | Gets or sets the Unique identifier for the security. CUSIP for US FIs. |
+| [UniqueIdType](../../aspose.finance.ofx/securityid/uniqueidtype) { get; set; } | Gets or sets the name of standard used to identify the security i.e., “CUSIP” for FIs in the United States. |
 
 ### See Also
 

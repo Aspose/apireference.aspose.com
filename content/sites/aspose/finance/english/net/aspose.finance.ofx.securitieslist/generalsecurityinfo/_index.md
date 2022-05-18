@@ -24,15 +24,15 @@ public class GeneralSecurityInfo
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the date as of for the unit price. |
-| [FIId](fiid) { get; set; } | Gets or sets the FI ID number for this security. |
-| [Memo](memo) { get; set; } | Gets or sets the memo. |
-| [Rating](rating) { get; set; } | Gets or sets the rating. |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SecurityName](securityname) { get; set; } | Gets or sets the full name of security. |
-| [Ticker](ticker) { get; set; } | Gets or sets the ticker symbol. |
-| [UnitPrice](unitprice) { get; set; } | Gets or sets the current price of security. |
+| [Currency](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [DateAsOf](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/dateasof) { get; set; } | Gets or sets the date as of for the unit price. |
+| [FIId](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/fiid) { get; set; } | Gets or sets the FI ID number for this security. |
+| [Memo](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/memo) { get; set; } | Gets or sets the memo. |
+| [Rating](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/rating) { get; set; } | Gets or sets the rating. |
+| [SecurityId](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SecurityName](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/securityname) { get; set; } | Gets or sets the full name of security. |
+| [Ticker](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/ticker) { get; set; } | Gets or sets the ticker symbol. |
+| [UnitPrice](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/unitprice) { get; set; } | Gets or sets the current price of security. |
 
 ### See Also
 

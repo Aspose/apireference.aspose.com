@@ -24,8 +24,8 @@ public class ImageProfile
 
 | Name | Description |
 | --- | --- |
-| [ClosingImageAvailable](closingimageavailable) { get; set; } | Gets or sets whether the server supports closing statement images. |
-| [TransactionImageAvailable](transactionimageavailable) { get; set; } | Gets or sets whether the server supports transaction images. |
+| [ClosingImageAvailable](../../aspose.finance.ofx.profile/imageprofile/closingimageavailable) { get; set; } | Gets or sets whether the server supports closing statement images. |
+| [TransactionImageAvailable](../../aspose.finance.ofx.profile/imageprofile/transactionimageavailable) { get; set; } | Gets or sets whether the server supports transaction images. |
 
 ### See Also
 

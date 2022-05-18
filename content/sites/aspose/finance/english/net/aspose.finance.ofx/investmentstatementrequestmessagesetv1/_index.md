@@ -24,10 +24,10 @@ public class InvestmentStatementRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [InvestmentMailSyncRequests](investmentmailsyncrequests) { get; set; } | Gets or sets the collection of [`InvestmentMailSyncRequest`](../../aspose.finance.ofx.investment/investmentmailsyncrequest). |
-| [InvestmentMailTransactionRequests](investmentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`InvestmentMailTransactionRequest`](../../aspose.finance.ofx.investment/investmentmailtransactionrequest). |
-| [InvestmentStatementEndTransactionRequests](investmentstatementendtransactionrequests) { get; set; } | Gets or sets the collection of [`InvestmentStatementEndTransactionRequest`](../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest). |
-| [InvestmentStatementTransactionRequests](investmentstatementtransactionrequests) { get; set; } | Gets or sets the collection of [`InvestmentStatementTransactionRequest`](../../aspose.finance.ofx.investment/investmentstatementtransactionrequest). |
+| [InvestmentMailSyncRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailsyncrequests) { get; set; } | Gets or sets the collection of [`InvestmentMailSyncRequest`](../../aspose.finance.ofx.investment/investmentmailsyncrequest). |
+| [InvestmentMailTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`InvestmentMailTransactionRequest`](../../aspose.finance.ofx.investment/investmentmailtransactionrequest). |
+| [InvestmentStatementEndTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementendtransactionrequests) { get; set; } | Gets or sets the collection of [`InvestmentStatementEndTransactionRequest`](../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest). |
+| [InvestmentStatementTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementtransactionrequests) { get; set; } | Gets or sets the collection of [`InvestmentStatementTransactionRequest`](../../aspose.finance.ofx.investment/investmentstatementtransactionrequest). |
 
 ### See Also
 

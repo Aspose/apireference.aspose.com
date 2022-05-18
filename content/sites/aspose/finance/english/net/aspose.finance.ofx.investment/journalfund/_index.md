@@ -24,9 +24,10 @@ public class JournalFund : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [SubAccountFrom](subaccountfrom) { get; set; } | Gets or sets the sub-account that security or cash is being transferred from. |
-| [SubAccountTo](subaccountto) { get; set; } | Gets or sets the sub-account that security or cash is being transferred to. |
-| [Total](total) { get; set; } | Gets or sets the transaction total. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [SubAccountFrom](../../aspose.finance.ofx.investment/journalfund/subaccountfrom) { get; set; } | Gets or sets the sub-account that security or cash is being transferred from. |
+| [SubAccountTo](../../aspose.finance.ofx.investment/journalfund/subaccountto) { get; set; } | Gets or sets the sub-account that security or cash is being transferred to. |
+| [Total](../../aspose.finance.ofx.investment/journalfund/total) { get; set; } | Gets or sets the transaction total. |
 
 ### See Also
 

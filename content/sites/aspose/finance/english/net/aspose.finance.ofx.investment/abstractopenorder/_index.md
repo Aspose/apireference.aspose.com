@@ -18,7 +18,7 @@ public abstract class AbstractOpenOrder
 
 | Name | Description |
 | --- | --- |
-| [OpenOrder](openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Gets or sets the [`GeneralOpenOrder`](../generalopenorder). |
 
 ### See Also
 

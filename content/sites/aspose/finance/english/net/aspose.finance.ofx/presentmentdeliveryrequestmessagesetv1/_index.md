@@ -24,14 +24,14 @@ public class PresentmentDeliveryRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [BillStatusModTransactionRequests](billstatusmodtransactionrequests) { get; set; } | Gets or sets the collection of [`BillStatusModTransactionRequest`](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest). |
-| [BillTableStructureTransactionRequests](billtablestructuretransactionrequests) { get; set; } | Gets or sets the collection of [`BillTableStructureTransactionRequest`](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest). |
-| [PresentmentDetailTransactionRequests](presentmentdetailtransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentDetailTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest). |
-| [PresentmentGroupAccountInfoTransactionRequests](presentmentgroupaccountinfotransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentGroupAccountInfoTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest). |
-| [PresentmentListTransactionRequests](presentmentlisttransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentListTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest). |
-| [PresentmentMailSyncRequests](presentmentmailsyncrequests) { get; set; } | Gets or sets the collection of [`PresentmentMailSyncRequest`](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest). |
-| [PresentmentMailTransactionRequests](presentmentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentMailTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest). |
-| [PresentmentNotifyTransactionRequests](presentmentnotifytransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentNotifyTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest). |
+| [BillStatusModTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billstatusmodtransactionrequests) { get; set; } | Gets or sets the collection of [`BillStatusModTransactionRequest`](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest). |
+| [BillTableStructureTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billtablestructuretransactionrequests) { get; set; } | Gets or sets the collection of [`BillTableStructureTransactionRequest`](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest). |
+| [PresentmentDetailTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentdetailtransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentDetailTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest). |
+| [PresentmentGroupAccountInfoTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentgroupaccountinfotransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentGroupAccountInfoTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest). |
+| [PresentmentListTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentlisttransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentListTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest). |
+| [PresentmentMailSyncRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentmailsyncrequests) { get; set; } | Gets or sets the collection of [`PresentmentMailSyncRequest`](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest). |
+| [PresentmentMailTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentmailtransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentMailTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest). |
+| [PresentmentNotifyTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentnotifytransactionrequests) { get; set; } | Gets or sets the collection of [`PresentmentNotifyTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest). |
 
 ### See Also
 

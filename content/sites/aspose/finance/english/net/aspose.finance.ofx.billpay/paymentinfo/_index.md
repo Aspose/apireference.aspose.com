@@ -24,18 +24,18 @@ public class PaymentInfo
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [BankAccountTo](bankaccountto) { get; set; } | Gets or sets the to of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [BillPubInfo](billpubinfo) { get; set; } | Gets or sets the [`BillPubInfo`](./billpubinfo). |
-| [BillReferenceInformation](billreferenceinformation) { get; set; } | Gets or sets the biller-supplied reference information when paying a bill, if available. |
-| [DueDate](duedate) { get; set; } | Gets or sets the payment due date or the date by which payment must be received by payee. |
-| [ExtendedPayments](extendedpayments) { get; set; } | Gets or sets the collection of [`ExtendedPayment`](../extendedpayment). |
-| [Memo](memo) { get; set; } | Gets or sets the memo from user to payee. |
-| [Payee](payee) { get; set; } | Gets or sets the complete [`Payee`](./payee) billing information. |
-| [PayeeAccount](payeeaccount) { get; set; } | Gets or sets the user account number with the payee. |
-| [PayeeId](payeeid) { get; set; } | Gets or sets the server payee identifier (required if assigned). |
-| [PayeeListId](payeelistid) { get; set; } | Gets or sets the payee list ID (required if assigned), |
-| [TransferAmount](transferamount) { get; set; } | Gets or sets the payment amount. |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountto) { get; set; } | Gets or sets the to of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [BillPubInfo](../../aspose.finance.ofx.billpay/paymentinfo/billpubinfo) { get; set; } | Gets or sets the [`BillPubInfo`](./billpubinfo). |
+| [BillReferenceInformation](../../aspose.finance.ofx.billpay/paymentinfo/billreferenceinformation) { get; set; } | Gets or sets the biller-supplied reference information when paying a bill, if available. |
+| [DueDate](../../aspose.finance.ofx.billpay/paymentinfo/duedate) { get; set; } | Gets or sets the payment due date or the date by which payment must be received by payee. |
+| [ExtendedPayments](../../aspose.finance.ofx.billpay/paymentinfo/extendedpayments) { get; set; } | Gets or sets the collection of [`ExtendedPayment`](../extendedpayment). |
+| [Memo](../../aspose.finance.ofx.billpay/paymentinfo/memo) { get; set; } | Gets or sets the memo from user to payee. |
+| [Payee](../../aspose.finance.ofx.billpay/paymentinfo/payee) { get; set; } | Gets or sets the complete [`Payee`](./payee) billing information. |
+| [PayeeAccount](../../aspose.finance.ofx.billpay/paymentinfo/payeeaccount) { get; set; } | Gets or sets the user account number with the payee. |
+| [PayeeId](../../aspose.finance.ofx.billpay/paymentinfo/payeeid) { get; set; } | Gets or sets the server payee identifier (required if assigned). |
+| [PayeeListId](../../aspose.finance.ofx.billpay/paymentinfo/payeelistid) { get; set; } | Gets or sets the payee list ID (required if assigned), |
+| [TransferAmount](../../aspose.finance.ofx.billpay/paymentinfo/transferamount) { get; set; } | Gets or sets the payment amount. |
 
 ### See Also
 

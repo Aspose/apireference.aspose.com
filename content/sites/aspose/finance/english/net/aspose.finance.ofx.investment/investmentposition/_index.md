@@ -24,17 +24,17 @@ public class InvestmentPosition
 
 | Name | Description |
 | --- | --- |
-| [AverageCostBasis](averagecostbasis) { get; set; } | Gets or sets the average cost basis of this position. |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [DatePriceAsOf](datepriceasof) { get; set; } | Gets or sets the date and time of unit price and market value, and cost basis. |
-| [HeldinAccount](heldinaccount) { get; set; } | Gets or sets the sub-account type. |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of money for this security in this position. |
-| [MarketValue](marketvalue) { get; set; } | Gets or sets the market value of this position. |
-| [Memo](memo) { get; set; } | Gets or sets the comment. |
-| [PositionType](positiontype) { get; set; } | Gets or sets the position type. |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [UnitPrice](unitprice) { get; set; } | Gets or sets the unit price. |
-| [Units](units) { get; set; } | Gets or sets the units. |
+| [AverageCostBasis](../../aspose.finance.ofx.investment/investmentposition/averagecostbasis) { get; set; } | Gets or sets the average cost basis of this position. |
+| [Currency](../../aspose.finance.ofx.investment/investmentposition/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [DatePriceAsOf](../../aspose.finance.ofx.investment/investmentposition/datepriceasof) { get; set; } | Gets or sets the date and time of unit price and market value, and cost basis. |
+| [HeldinAccount](../../aspose.finance.ofx.investment/investmentposition/heldinaccount) { get; set; } | Gets or sets the sub-account type. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentposition/investment401ksource) { get; set; } | Gets or sets the source of money for this security in this position. |
+| [MarketValue](../../aspose.finance.ofx.investment/investmentposition/marketvalue) { get; set; } | Gets or sets the market value of this position. |
+| [Memo](../../aspose.finance.ofx.investment/investmentposition/memo) { get; set; } | Gets or sets the comment. |
+| [PositionType](../../aspose.finance.ofx.investment/investmentposition/positiontype) { get; set; } | Gets or sets the position type. |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentposition/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [UnitPrice](../../aspose.finance.ofx.investment/investmentposition/unitprice) { get; set; } | Gets or sets the unit price. |
+| [Units](../../aspose.finance.ofx.investment/investmentposition/units) { get; set; } | Gets or sets the units. |
 
 ### See Also
 

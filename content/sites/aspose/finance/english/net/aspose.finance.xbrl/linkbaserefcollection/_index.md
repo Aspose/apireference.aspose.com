@@ -3,7 +3,7 @@ title: LinkbaseRefCollection
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7810
+weight: 7820
 url: /net/aspose.finance.xbrl/linkbaserefcollection/
 ---
 ## LinkbaseRefCollection class
@@ -18,19 +18,19 @@ public class LinkbaseRefCollection : IEnumerable<LinkbaseRef>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | The number of linkbase reference in this collection. |
-| [Item](item) { get; } | Gets [`LinkbaseRef`](../linkbaseref) item at the specified index in the collection. |
+| [Count](../../aspose.finance.xbrl/linkbaserefcollection/count) { get; } | The number of linkbase reference in this collection. |
+| [Item](../../aspose.finance.xbrl/linkbaserefcollection/item) { get; } | Gets [`LinkbaseRef`](../linkbaseref) item at the specified index in the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddCalculationLinkbaseRef](addcalculationlinkbaseref)(string) | Add a [`CalculationLinkbaseRef`](../calculationlinkbaseref) to the collection. |
-| [AddDefinitionLinkbaseRef](adddefinitionlinkbaseref)(string) | Add a [`DefinitionLinkbaseRef`](../definitionlinkbaseref) to the collection. |
-| [AddLabelLinkbaseRef](addlabellinkbaseref)(string) | Add a [`LabelLinkbaseRef`](../labellinkbaseref) to the collection. |
-| [AddPresentationLinkbaseRef](addpresentationlinkbaseref)(string) | Add a [`PresentationLinkbaseRef`](../presentationlinkbaseref) to the collection. |
-| [AddReferenceLinkbaseRef](addreferencelinkbaseref)(string) | Add a [`ReferenceLinkbaseRef`](../referencelinkbaseref) to the collection. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the collection. |
+| [AddCalculationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addcalculationlinkbaseref)(string) | Add a [`CalculationLinkbaseRef`](../calculationlinkbaseref) to the collection. |
+| [AddDefinitionLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/adddefinitionlinkbaseref)(string) | Add a [`DefinitionLinkbaseRef`](../definitionlinkbaseref) to the collection. |
+| [AddLabelLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addlabellinkbaseref)(string) | Add a [`LabelLinkbaseRef`](../labellinkbaseref) to the collection. |
+| [AddPresentationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addpresentationlinkbaseref)(string) | Add a [`PresentationLinkbaseRef`](../presentationlinkbaseref) to the collection. |
+| [AddReferenceLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addreferencelinkbaseref)(string) | Add a [`ReferenceLinkbaseRef`](../referencelinkbaseref) to the collection. |
+| [GetEnumerator](../../aspose.finance.xbrl/linkbaserefcollection/getenumerator)() | Returns an enumerator that iterates through the collection. |
 
 ### See Also
 

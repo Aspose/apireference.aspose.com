@@ -24,8 +24,8 @@ public class WireTransferRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [WireSyncRequests](wiresyncrequests) { get; set; } | Gets or sets the collection of [`WireSyncRequest`](../../aspose.finance.ofx.wiretransfer/wiresyncrequest). |
-| [WireTransactionRequests](wiretransactionrequests) { get; set; } | Gets or sets the collection of [`WireTransactionRequest`](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest). |
+| [WireSyncRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiresyncrequests) { get; set; } | Gets or sets the collection of [`WireSyncRequest`](../../aspose.finance.ofx.wiretransfer/wiresyncrequest). |
+| [WireTransactionRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransactionrequests) { get; set; } | Gets or sets the collection of [`WireTransactionRequest`](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest). |
 
 ### See Also
 

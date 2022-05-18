@@ -24,14 +24,14 @@ public class Contributions
 
 | Name | Description |
 | --- | --- |
-| [AfterTax](aftertax) { get; set; } | Gets or sets the after tax contribution. |
-| [Match](match) { get; set; } | Gets or sets the employer matching contribution. |
-| [OtherNonvest](othernonvest) { get; set; } | Gets or sets the other non-vesting contributions. |
-| [OtherVest](othervest) { get; set; } | Gets or sets the other vesting contributions. |
-| [PreTax](pretax) { get; set; } | Gets or sets the pretax contribution. |
-| [ProfitSharing](profitsharing) { get; set; } | Gets or sets the profit sharing contribution. |
-| [Rollover](rollover) { get; set; } | Gets or sets the rollover contribution. |
-| [Total](total) { get; set; } | Gets or sets the sum of contributions from all fund sources. |
+| [AfterTax](../../aspose.finance.ofx.investment/contributions/aftertax) { get; set; } | Gets or sets the after tax contribution. |
+| [Match](../../aspose.finance.ofx.investment/contributions/match) { get; set; } | Gets or sets the employer matching contribution. |
+| [OtherNonvest](../../aspose.finance.ofx.investment/contributions/othernonvest) { get; set; } | Gets or sets the other non-vesting contributions. |
+| [OtherVest](../../aspose.finance.ofx.investment/contributions/othervest) { get; set; } | Gets or sets the other vesting contributions. |
+| [PreTax](../../aspose.finance.ofx.investment/contributions/pretax) { get; set; } | Gets or sets the pretax contribution. |
+| [ProfitSharing](../../aspose.finance.ofx.investment/contributions/profitsharing) { get; set; } | Gets or sets the profit sharing contribution. |
+| [Rollover](../../aspose.finance.ofx.investment/contributions/rollover) { get; set; } | Gets or sets the rollover contribution. |
+| [Total](../../aspose.finance.ofx.investment/contributions/total) { get; set; } | Gets or sets the sum of contributions from all fund sources. |
 
 ### See Also
 

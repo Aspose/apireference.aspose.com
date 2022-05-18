@@ -3,7 +3,7 @@ title: ElementSubstitutionGroup
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7600
+weight: 7610
 url: /net/aspose.finance.xbrl/elementsubstitutiongroup/
 ---
 ## ElementSubstitutionGroup enumeration

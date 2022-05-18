@@ -24,19 +24,19 @@ public class CreditCardStatementResponse
 
 | Name | Description |
 | --- | --- |
-| [AvailableBalance](availablebalance) { get; set; } | Gets or sets the from of [`AvailableBalance`](./availablebalance). |
-| [BalanceList](balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
-| [BankTransactionList](banktransactionlist) { get; set; } | Gets or sets the from of [`BankTransactionList`](./banktransactionlist). |
-| [CashAdvanceBalanceAmount](cashadvancebalanceamount) { get; set; } | Gets or sets the current balance amount for cash advances at the time of the download. |
-| [CreditCardAccountFrom](creditcardaccountfrom) { get; set; } | Gets or sets the from of [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [Currency](currency) { get; set; } | Gets or sets the default currency for the statement. |
-| [InterestRateCash](interestratecash) { get; set; } | Gets or sets the current interest rate for cash advances in effect at time of download. |
-| [InterestRatePurchases](interestratepurchases) { get; set; } | Gets or sets the current interest rate for purchases in effect at time of download. |
-| [InterestRateTransfer](interestratetransfer) { get; set; } | Gets or sets the current interest rate for balance transfers in effect at time of download. |
-| [LedgerBalance](ledgerbalance) { get; set; } | Gets or sets the from of [`LedgerBalance`](./ledgerbalance). |
-| [MarketingInformation](marketinginformation) { get; set; } | Gets or sets the marketing information. |
-| [PendingTransactionList](pendingtransactionlist) { get; set; } | Gets or sets the from of [`PendingTransactionList`](./pendingtransactionlist). |
-| [RewardInfo](rewardinfo) { get; set; } | Gets or sets the [`RewardInfoType`](../../aspose.finance.ofx/rewardinfotype). |
+| [AvailableBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/availablebalance) { get; set; } | Gets or sets the from of [`AvailableBalance`](./availablebalance). |
+| [BalanceList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
+| [BankTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/banktransactionlist) { get; set; } | Gets or sets the from of [`BankTransactionList`](./banktransactionlist). |
+| [CashAdvanceBalanceAmount](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/cashadvancebalanceamount) { get; set; } | Gets or sets the current balance amount for cash advances at the time of the download. |
+| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/creditcardaccountfrom) { get; set; } | Gets or sets the from of [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
+| [Currency](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/currency) { get; set; } | Gets or sets the default currency for the statement. |
+| [InterestRateCash](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratecash) { get; set; } | Gets or sets the current interest rate for cash advances in effect at time of download. |
+| [InterestRatePurchases](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratepurchases) { get; set; } | Gets or sets the current interest rate for purchases in effect at time of download. |
+| [InterestRateTransfer](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratetransfer) { get; set; } | Gets or sets the current interest rate for balance transfers in effect at time of download. |
+| [LedgerBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance) { get; set; } | Gets or sets the from of [`LedgerBalance`](./ledgerbalance). |
+| [MarketingInformation](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/marketinginformation) { get; set; } | Gets or sets the marketing information. |
+| [PendingTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/pendingtransactionlist) { get; set; } | Gets or sets the from of [`PendingTransactionList`](./pendingtransactionlist). |
+| [RewardInfo](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/rewardinfo) { get; set; } | Gets or sets the [`RewardInfoType`](../../aspose.finance.ofx/rewardinfotype). |
 
 ### See Also
 

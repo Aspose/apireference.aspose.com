@@ -24,8 +24,8 @@ public class RecurringInterRequest : AbstractRecurringInterRequest
 
 | Name | Description |
 | --- | --- |
-| [InterRequest](interrequest) { get; set; } | Gets or sets the [`InterRequest`](./interrequest). |
-| [RecurringInstructions](recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
+| [InterRequest](../../aspose.finance.ofx.intertransfer/recurringinterrequest/interrequest) { get; set; } | Gets or sets the [`InterRequest`](./interrequest). |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterrequest/recurringinstructions) { get; set; } | Gets or sets the [`RecurringInstructions`](./recurringinstructions). |
 
 ### See Also
 

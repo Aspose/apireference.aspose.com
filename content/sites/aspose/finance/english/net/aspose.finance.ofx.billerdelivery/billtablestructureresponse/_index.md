@@ -24,9 +24,9 @@ public class BillTableStructureResponse
 
 | Name | Description |
 | --- | --- |
-| [BillDetailTableType](billdetailtabletype) { get; set; } | Gets or sets the table type. |
-| [BillId](billid) { get; set; } | Gets or sets the statement identifier. |
-| [ColumnDefinitions](columndefinitions) { get; set; } | Gets or sets the collection of [`ColumnDefinition`](../columndefinition). |
+| [BillDetailTableType](../../aspose.finance.ofx.billerdelivery/billtablestructureresponse/billdetailtabletype) { get; set; } | Gets or sets the table type. |
+| [BillId](../../aspose.finance.ofx.billerdelivery/billtablestructureresponse/billid) { get; set; } | Gets or sets the statement identifier. |
+| [ColumnDefinitions](../../aspose.finance.ofx.billerdelivery/billtablestructureresponse/columndefinitions) { get; set; } | Gets or sets the collection of [`ColumnDefinition`](../columndefinition). |
 
 ### See Also
 

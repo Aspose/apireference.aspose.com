@@ -24,8 +24,8 @@ public class InterModRequest : AbstractInterRequest
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID assigned by the server to the transfer being modified. |
-| [TransferInfo](transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
+| [ServerId](../../aspose.finance.ofx.intertransfer/intermodrequest/serverid) { get; set; } | Gets or sets the ID assigned by the server to the transfer being modified. |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodrequest/transferinfo) { get; set; } | Gets or sets the [`TransferInfo`](./transferinfo). |
 
 ### See Also
 

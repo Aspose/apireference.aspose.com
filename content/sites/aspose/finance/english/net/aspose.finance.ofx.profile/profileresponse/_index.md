@@ -24,22 +24,22 @@ public class ProfileResponse
 
 | Name | Description |
 | --- | --- |
-| [Address1](address1) { get; set; } | Gets or sets the FI address, line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the FI address, line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the FI address, line 3. |
-| [City](city) { get; set; } | Gets or sets the FI address city. |
-| [Country](country) { get; set; } | Gets or sets the FI address country. 3-letter country code from ISO/DIS-3166. |
-| [CustomerServicePhone](customerservicephone) { get; set; } | Gets or sets the customer service telephone number. |
-| [Email](email) { get; set; } | Gets or sets the email address for FI. |
-| [FaxPhone](faxphone) { get; set; } | Gets or sets the fax number. |
-| [FIName](finame) { get; set; } | Gets or sets the name of institution. |
-| [MessageSetList](messagesetlist) { get; set; } | Gets or sets the [`MessageSetList`](./messagesetlist). |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the FI address postal code. |
-| [ProfileUpdateDate](profileupdatedate) { get; set; } | Gets or sets the time this was updated on server. |
-| [SignonInfos](signoninfos) { get; set; } | Gets or sets the collection of [`SignonInfo`](../signoninfo). |
-| [State](state) { get; set; } | Gets or sets the FI address state. |
-| [TechnicalSupportPhone](technicalsupportphone) { get; set; } | Gets or sets the technical support telephone number. |
-| [Url](url) { get; set; } | Gets or sets the URL for general information about FI (not for sending data). |
+| [Address1](../../aspose.finance.ofx.profile/profileresponse/address1) { get; set; } | Gets or sets the FI address, line 1. |
+| [Address2](../../aspose.finance.ofx.profile/profileresponse/address2) { get; set; } | Gets or sets the FI address, line 2. |
+| [Address3](../../aspose.finance.ofx.profile/profileresponse/address3) { get; set; } | Gets or sets the FI address, line 3. |
+| [City](../../aspose.finance.ofx.profile/profileresponse/city) { get; set; } | Gets or sets the FI address city. |
+| [Country](../../aspose.finance.ofx.profile/profileresponse/country) { get; set; } | Gets or sets the FI address country. 3-letter country code from ISO/DIS-3166. |
+| [CustomerServicePhone](../../aspose.finance.ofx.profile/profileresponse/customerservicephone) { get; set; } | Gets or sets the customer service telephone number. |
+| [Email](../../aspose.finance.ofx.profile/profileresponse/email) { get; set; } | Gets or sets the email address for FI. |
+| [FaxPhone](../../aspose.finance.ofx.profile/profileresponse/faxphone) { get; set; } | Gets or sets the fax number. |
+| [FIName](../../aspose.finance.ofx.profile/profileresponse/finame) { get; set; } | Gets or sets the name of institution. |
+| [MessageSetList](../../aspose.finance.ofx.profile/profileresponse/messagesetlist) { get; set; } | Gets or sets the [`MessageSetList`](./messagesetlist). |
+| [PostalCode](../../aspose.finance.ofx.profile/profileresponse/postalcode) { get; set; } | Gets or sets the FI address postal code. |
+| [ProfileUpdateDate](../../aspose.finance.ofx.profile/profileresponse/profileupdatedate) { get; set; } | Gets or sets the time this was updated on server. |
+| [SignonInfos](../../aspose.finance.ofx.profile/profileresponse/signoninfos) { get; set; } | Gets or sets the collection of [`SignonInfo`](../signoninfo). |
+| [State](../../aspose.finance.ofx.profile/profileresponse/state) { get; set; } | Gets or sets the FI address state. |
+| [TechnicalSupportPhone](../../aspose.finance.ofx.profile/profileresponse/technicalsupportphone) { get; set; } | Gets or sets the technical support telephone number. |
+| [Url](../../aspose.finance.ofx.profile/profileresponse/url) { get; set; } | Gets or sets the URL for general information about FI (not for sending data). |
 
 ### See Also
 

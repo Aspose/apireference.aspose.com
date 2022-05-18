@@ -24,7 +24,7 @@ public class BankMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [BankMessageSetV1](bankmessagesetv1) { get; set; } | Gets or sets the [`BankMessageSetV1`](./bankmessagesetv1). |
+| [BankMessageSetV1](../../aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1) { get; set; } | Gets or sets the [`BankMessageSetV1`](./bankmessagesetv1). |
 
 ### See Also
 

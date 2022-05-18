@@ -24,8 +24,8 @@ public class TaxW2Request
 
 | Name | Description |
 | --- | --- |
-| [SSN](ssn) { get; set; } | Gets or sets the social Security Number of the employee. |
-| [TaxYears](taxyears) { get; set; } | Gets or sets the tax years of the requested forms, in format “YYYY”. |
+| [SSN](../../aspose.finance.ofx.taxw2/taxw2request/ssn) { get; set; } | Gets or sets the social Security Number of the employee. |
+| [TaxYears](../../aspose.finance.ofx.taxw2/taxw2request/taxyears) { get; set; } | Gets or sets the tax years of the requested forms, in format “YYYY”. |
 
 ### See Also
 

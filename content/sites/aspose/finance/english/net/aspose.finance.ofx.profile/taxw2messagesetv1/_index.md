@@ -24,8 +24,9 @@ public class TaxW2MessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [TaxW2Download](taxw2download) { get; set; } | Gets or sets whether server supports W2 tax form download. |
-| [TaxYearSupporteds](taxyearsupporteds) { get; set; } | Gets or sets the years supported for W2 download for this server. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [TaxW2Download](../../aspose.finance.ofx.profile/taxw2messagesetv1/taxw2download) { get; set; } | Gets or sets whether server supports W2 tax form download. |
+| [TaxYearSupporteds](../../aspose.finance.ofx.profile/taxw2messagesetv1/taxyearsupporteds) { get; set; } | Gets or sets the years supported for W2 download for this server. |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class ProfileRequest
 
 | Name | Description |
 | --- | --- |
-| [ClientRouting](clientrouting) { get; set; } | Gets or sets the identifies client routing capabilities. |
-| [ProfileUpdateDate](profileupdatedate) { get; set; } | Gets or sets the date and time client last received a profile update. |
+| [ClientRouting](../../aspose.finance.ofx.profile/profilerequest/clientrouting) { get; set; } | Gets or sets the identifies client routing capabilities. |
+| [ProfileUpdateDate](../../aspose.finance.ofx.profile/profilerequest/profileupdatedate) { get; set; } | Gets or sets the date and time client last received a profile update. |
 
 ### See Also
 

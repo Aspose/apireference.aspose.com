@@ -24,7 +24,7 @@ public class SecurityListMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [SecurityListMessageSetV1](securitylistmessagesetv1) { get; set; } | Gets or sets the [`SecurityListMessageSetV1`](./securitylistmessagesetv1). |
+| [SecurityListMessageSetV1](../../aspose.finance.ofx.profile/securitylistmessageset/securitylistmessagesetv1) { get; set; } | Gets or sets the [`SecurityListMessageSetV1`](./securitylistmessagesetv1). |
 
 ### See Also
 

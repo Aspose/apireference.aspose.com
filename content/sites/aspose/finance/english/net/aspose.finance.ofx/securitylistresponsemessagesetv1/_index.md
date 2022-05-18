@@ -24,8 +24,8 @@ public class SecurityListResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [SecurityList](securitylist) { get; set; } | Gets or sets the [`SecurityList`](../../aspose.finance.ofx.securitieslist/securitylist). |
-| [SecurityListTransactionResponses](securitylisttransactionresponses) { get; set; } | Gets or sets the collection of [`SecurityListTransactionResponse`](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse). |
+| [SecurityList](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylist) { get; set; } | Gets or sets the [`SecurityList`](../../aspose.finance.ofx.securitieslist/securitylist). |
+| [SecurityListTransactionResponses](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylisttransactionresponses) { get; set; } | Gets or sets the collection of [`SecurityListTransactionResponse`](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse). |
 
 ### See Also
 

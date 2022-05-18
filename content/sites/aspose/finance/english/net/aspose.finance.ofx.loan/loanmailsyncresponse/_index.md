@@ -24,9 +24,11 @@ public class LoanMailSyncResponse : AbstractSyncResponse
 
 | Name | Description |
 | --- | --- |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [LoanMailTransactionResponses](loanmailtransactionresponses) { get; set; } | Gets or sets the collection of [`LoanMailTransactionResponse`](../loanmailtransactionresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [LoanMailTransactionResponses](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanmailtransactionresponses) { get; set; } | Gets or sets the collection of [`LoanMailTransactionResponse`](../loanmailtransactionresponse). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Yes if the token in the synchronization request is older than the earliest entry in the server’s history table.In this case, some responses have been lost. No if the token in the synchronization request is newer than or matches a token in the server’s history table. |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Gets or sets the new synchronization token. |
 
 ### See Also
 

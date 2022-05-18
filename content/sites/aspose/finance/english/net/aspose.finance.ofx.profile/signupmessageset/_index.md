@@ -24,7 +24,7 @@ public class SignupMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [SignupMessageSetV1](signupmessagesetv1) { get; set; } | Gets or sets the [`SignupMessageSetV1`](./signupmessagesetv1). |
+| [SignupMessageSetV1](../../aspose.finance.ofx.profile/signupmessageset/signupmessagesetv1) { get; set; } | Gets or sets the [`SignupMessageSetV1`](./signupmessagesetv1). |
 
 ### See Also
 

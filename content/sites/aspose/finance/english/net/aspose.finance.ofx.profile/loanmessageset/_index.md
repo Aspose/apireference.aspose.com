@@ -24,7 +24,7 @@ public class LoanMessageSet : AbstractMessageSet
 
 | Name | Description |
 | --- | --- |
-| [LoanMessageSetV1](loanmessagesetv1) { get; set; } | Gets or sets the [`LoanMessageSetV1`](./loanmessagesetv1). |
+| [LoanMessageSetV1](../../aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1) { get; set; } | Gets or sets the [`LoanMessageSetV1`](./loanmessagesetv1). |
 
 ### See Also
 

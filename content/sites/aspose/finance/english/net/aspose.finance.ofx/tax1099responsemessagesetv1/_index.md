@@ -24,7 +24,7 @@ public class Tax1099ResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [Tax1099TransactionResponses](tax1099transactionresponses) { get; set; } | Gets or sets the collection of [`Tax1099TransactionResponse`](../../aspose.finance.ofx.tax1099/tax1099transactionresponse). |
+| [Tax1099TransactionResponses](../../aspose.finance.ofx/tax1099responsemessagesetv1/tax1099transactionresponses) { get; set; } | Gets or sets the collection of [`Tax1099TransactionResponse`](../../aspose.finance.ofx.tax1099/tax1099transactionresponse). |
 
 ### See Also
 

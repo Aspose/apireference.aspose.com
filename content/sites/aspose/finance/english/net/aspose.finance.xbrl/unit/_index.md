@@ -3,7 +3,7 @@ title: Unit
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8040
+weight: 8060
 url: /net/aspose.finance.xbrl/unit/
 ---
 ## Unit class
@@ -24,11 +24,11 @@ public class Unit
 
 | Name | Description |
 | --- | --- |
-| [Id](id) { get; set; } | Gets or sets the unit id. |
-| [MeasureQualifiedNames](measurequalifiednames) { get; } | Gets the collection of measure qualified name, it is used when unit type is Measure. |
-| [Type](type) { get; set; } | Gets or sets the unit type. |
-| [UnitDenominatorQualifiedNames](unitdenominatorqualifiednames) { get; set; } | Gets the collection of denominator qualified name, it is used when unit type is Divide. |
-| [UnitNumeratorQualifiedNames](unitnumeratorqualifiednames) { get; } | Gets the collection of numerator qualified name, it is used when unit type is Divide. |
+| [Id](../../aspose.finance.xbrl/unit/id) { get; set; } | Gets or sets the unit id. |
+| [MeasureQualifiedNames](../../aspose.finance.xbrl/unit/measurequalifiednames) { get; } | Gets the collection of measure qualified name, it is used when unit type is Measure. |
+| [Type](../../aspose.finance.xbrl/unit/type) { get; set; } | Gets or sets the unit type. |
+| [UnitDenominatorQualifiedNames](../../aspose.finance.xbrl/unit/unitdenominatorqualifiednames) { get; set; } | Gets the collection of denominator qualified name, it is used when unit type is Divide. |
+| [UnitNumeratorQualifiedNames](../../aspose.finance.xbrl/unit/unitnumeratorqualifiednames) { get; } | Gets the collection of numerator qualified name, it is used when unit type is Divide. |
 
 ### See Also
 

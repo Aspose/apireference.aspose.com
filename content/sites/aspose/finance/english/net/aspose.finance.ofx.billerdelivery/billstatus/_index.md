@@ -24,9 +24,9 @@ public class BillStatus
 
 | Name | Description |
 | --- | --- |
-| [BillStatusCode](billstatuscode) { get; set; } | Gets or sets the bill status code. |
-| [EffectiveDate](effectivedate) { get; set; } | Gets or sets the Date/Time at which the status became effective. |
-| [StatusModifiedBy](statusmodifiedby) { get; set; } | Gets or sets the status modified by. Servers are not required to store this information. |
+| [BillStatusCode](../../aspose.finance.ofx.billerdelivery/billstatus/billstatuscode) { get; set; } | Gets or sets the bill status code. |
+| [EffectiveDate](../../aspose.finance.ofx.billerdelivery/billstatus/effectivedate) { get; set; } | Gets or sets the Date/Time at which the status became effective. |
+| [StatusModifiedBy](../../aspose.finance.ofx.billerdelivery/billstatus/statusmodifiedby) { get; set; } | Gets or sets the status modified by. Servers are not required to store this information. |
 
 ### See Also
 

@@ -24,16 +24,17 @@ public class Income : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [IncomeType](incometype) { get; set; } | Gets or sets the type of investment income. |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [SubAccountFund](subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
-| [SubAccountSecurity](subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
-| [TaxExempt](taxexempt) { get; set; } | Gets or sets whether it is tax-exempt transaction. |
-| [Total](total) { get; set; } | Gets or sets the transaction total. |
-| [Withholding](withholding) { get; set; } | Gets or sets the federal Tax withholdings. |
+| [Currency](../../aspose.finance.ofx.investment/income/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [IncomeType](../../aspose.finance.ofx.investment/income/incometype) { get; set; } | Gets or sets the type of investment income. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/income/investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [OriginCurrency](../../aspose.finance.ofx.investment/income/origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
+| [SecurityId](../../aspose.finance.ofx.investment/income/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [SubAccountFund](../../aspose.finance.ofx.investment/income/subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/income/subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security. |
+| [TaxExempt](../../aspose.finance.ofx.investment/income/taxexempt) { get; set; } | Gets or sets whether it is tax-exempt transaction. |
+| [Total](../../aspose.finance.ofx.investment/income/total) { get; set; } | Gets or sets the transaction total. |
+| [Withholding](../../aspose.finance.ofx.investment/income/withholding) { get; set; } | Gets or sets the federal Tax withholdings. |
 
 ### See Also
 

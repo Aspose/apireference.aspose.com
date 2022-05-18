@@ -24,9 +24,9 @@ public class SecurityRequest
 
 | Name | Description |
 | --- | --- |
-| [FIID](fiid) { get; set; } | Gets or sets the FI specific ID for the security. |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [Ticker](ticker) { get; set; } | Gets or sets the ticker symbol. |
+| [FIID](../../aspose.finance.ofx.securitieslist/securityrequest/fiid) { get; set; } | Gets or sets the FI specific ID for the security. |
+| [SecurityId](../../aspose.finance.ofx.securitieslist/securityrequest/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [Ticker](../../aspose.finance.ofx.securitieslist/securityrequest/ticker) { get; set; } | Gets or sets the ticker symbol. |
 
 ### See Also
 

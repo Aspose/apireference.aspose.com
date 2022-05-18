@@ -24,26 +24,27 @@ public class InvestmentSell : AbstractInvestmentTransaction
 
 | Name | Description |
 | --- | --- |
-| [Commission](commission) { get; set; } | Gets or sets the transaction commission. |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [Fees](fees) { get; set; } | Gets or sets the fees applied to trade. |
-| [Gain](gain) { get; set; } | Gets or sets the total gain. |
-| [Investment401kSource](investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
-| [Load](load) { get; set; } | Gets or sets the load on the transaction. |
-| [LoanId](loanid) { get; set; } | Gets or sets the transaction was due to a loan or a loan repayment, and which loan it was. For 401(k) accounts only. |
-| [Markdown](markdown) { get; set; } | Gets or sets the portion of the unit price that is attributed to the dealer markdown. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
-| [Penalty](penalty) { get; set; } | Gets or sets the amount withheld due to a penalty |
-| [SecurityId](securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
-| [StateWithholding](statewithholding) { get; set; } | Gets or sets the used for withholdings for state taxes on a withdrawal. |
-| [SubAccountFund](subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
-| [SubAccountSecurity](subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security |
-| [Taxes](taxes) { get; set; } | Gets or sets the taxes on the trade. |
-| [TaxExempt](taxexempt) { get; set; } | Gets or sets whether it is tax-exempt transaction. |
-| [Total](total) { get; set; } | Gets or sets the transaction total. |
-| [UnitPrice](unitprice) { get; set; } | Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks, mutual funds, and others. Percentage of par for bonds. Per share (not contract) for options. |
-| [Units](units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
-| [Withholding](withholding) { get; set; } | Gets or sets the federal Tax withholdings. |
+| [Commission](../../aspose.finance.ofx.investment/investmentsell/commission) { get; set; } | Gets or sets the transaction commission. |
+| [Currency](../../aspose.finance.ofx.investment/investmentsell/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [Fees](../../aspose.finance.ofx.investment/investmentsell/fees) { get; set; } | Gets or sets the fees applied to trade. |
+| [Gain](../../aspose.finance.ofx.investment/investmentsell/gain) { get; set; } | Gets or sets the total gain. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentsell/investment401ksource) { get; set; } | Gets or sets the source of money for this transaction. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Gets or sets the [`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [Load](../../aspose.finance.ofx.investment/investmentsell/load) { get; set; } | Gets or sets the load on the transaction. |
+| [LoanId](../../aspose.finance.ofx.investment/investmentsell/loanid) { get; set; } | Gets or sets the transaction was due to a loan or a loan repayment, and which loan it was. For 401(k) accounts only. |
+| [Markdown](../../aspose.finance.ofx.investment/investmentsell/markdown) { get; set; } | Gets or sets the portion of the unit price that is attributed to the dealer markdown. |
+| [OriginCurrency](../../aspose.finance.ofx.investment/investmentsell/origincurrency) { get; set; } | Gets or sets the origin [`Currency`](./currency). |
+| [Penalty](../../aspose.finance.ofx.investment/investmentsell/penalty) { get; set; } | Gets or sets the amount withheld due to a penalty |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentsell/securityid) { get; set; } | Gets or sets the [`SecurityId`](./securityid). |
+| [StateWithholding](../../aspose.finance.ofx.investment/investmentsell/statewithholding) { get; set; } | Gets or sets the used for withholdings for state taxes on a withdrawal. |
+| [SubAccountFund](../../aspose.finance.ofx.investment/investmentsell/subaccountfund) { get; set; } | Gets or sets where did the money for the transaction come from or go to. |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentsell/subaccountsecurity) { get; set; } | Gets or sets the sub-account type for the security |
+| [Taxes](../../aspose.finance.ofx.investment/investmentsell/taxes) { get; set; } | Gets or sets the taxes on the trade. |
+| [TaxExempt](../../aspose.finance.ofx.investment/investmentsell/taxexempt) { get; set; } | Gets or sets whether it is tax-exempt transaction. |
+| [Total](../../aspose.finance.ofx.investment/investmentsell/total) { get; set; } | Gets or sets the transaction total. |
+| [UnitPrice](../../aspose.finance.ofx.investment/investmentsell/unitprice) { get; set; } | Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks, mutual funds, and others. Percentage of par for bonds. Per share (not contract) for options. |
+| [Units](../../aspose.finance.ofx.investment/investmentsell/units) { get; set; } | Gets or sets the units. For security-based actions other than stock splits. Shares for stocks, mutual funds, and others. Face value for bonds. Contracts for options. |
+| [Withholding](../../aspose.finance.ofx.investment/investmentsell/withholding) { get; set; } | Gets or sets the federal Tax withholdings. |
 
 ### See Also
 

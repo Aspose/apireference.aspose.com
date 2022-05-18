@@ -24,8 +24,8 @@ public class BankMailRequest
 
 | Name | Description |
 | --- | --- |
-| [AccountFrom](accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [Mail](mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
+| [AccountFrom](../../aspose.finance.ofx.bank/bankmailrequest/accountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount) or [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
+| [Mail](../../aspose.finance.ofx.bank/bankmailrequest/mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
 
 ### See Also
 

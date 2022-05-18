@@ -24,8 +24,8 @@ public class EstimatedPayoff
 
 | Name | Description |
 | --- | --- |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the payoff date |
-| [EstimatedPayoffBalance](estimatedpayoffbalance) { get; set; } | Gets or sets the estimated payoff amount. |
+| [DateAsOf](../../aspose.finance.ofx.loan/estimatedpayoff/dateasof) { get; set; } | Gets or sets the payoff date |
+| [EstimatedPayoffBalance](../../aspose.finance.ofx.loan/estimatedpayoff/estimatedpayoffbalance) { get; set; } | Gets or sets the estimated payoff amount. |
 
 ### See Also
 

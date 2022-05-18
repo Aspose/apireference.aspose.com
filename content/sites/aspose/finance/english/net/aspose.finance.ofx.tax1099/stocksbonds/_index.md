@@ -24,9 +24,9 @@ public class StocksBonds
 
 | Name | Description |
 | --- | --- |
-| [StockBondAmount](stockbondamount) { get; set; } | Gets or sets the amount of stocks, bonds, etc. |
-| [StockBondGross](stockbondgross) { get; set; } | Gets or sets the gross proceeds. |
-| [StockBondGrossLess](stockbondgrossless) { get; set; } | Gets or sets the gross proceeds less commissions and option premiums. |
+| [StockBondAmount](../../aspose.finance.ofx.tax1099/stocksbonds/stockbondamount) { get; set; } | Gets or sets the amount of stocks, bonds, etc. |
+| [StockBondGross](../../aspose.finance.ofx.tax1099/stocksbonds/stockbondgross) { get; set; } | Gets or sets the gross proceeds. |
+| [StockBondGrossLess](../../aspose.finance.ofx.tax1099/stocksbonds/stockbondgrossless) { get; set; } | Gets or sets the gross proceeds less commissions and option premiums. |
 
 ### See Also
 

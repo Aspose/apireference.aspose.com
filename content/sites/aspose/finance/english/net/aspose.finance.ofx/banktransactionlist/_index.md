@@ -24,9 +24,9 @@ public class BankTransactionList
 
 | Name | Description |
 | --- | --- |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date for transaction data. |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for transaction data. |
-| [StatementTransactions](statementtransactions) { get; set; } | Gets or sets the collection of [`StatementTransaction`](../statementtransaction). |
+| [EndDate](../../aspose.finance.ofx/banktransactionlist/enddate) { get; set; } | Gets or sets the end date for transaction data. |
+| [StartDate](../../aspose.finance.ofx/banktransactionlist/startdate) { get; set; } | Gets or sets the start date for transaction data. |
+| [StatementTransactions](../../aspose.finance.ofx/banktransactionlist/statementtransactions) { get; set; } | Gets or sets the collection of [`StatementTransaction`](../statementtransaction). |
 
 ### See Also
 

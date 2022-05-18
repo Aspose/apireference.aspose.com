@@ -24,8 +24,8 @@ public class LoanMailResponse
 
 | Name | Description |
 | --- | --- |
-| [LoanAccountFrom](loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [Mail](mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailresponse/loanaccountfrom) { get; set; } | Gets or sets the from of [`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [Mail](../../aspose.finance.ofx.loan/loanmailresponse/mail) { get; set; } | Gets or sets the [`Mail`](./mail). |
 
 ### See Also
 

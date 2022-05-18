@@ -24,9 +24,11 @@ public class PresentmentMailSyncResponse : AbstractSyncResponse
 
 | Name | Description |
 | --- | --- |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PresentmentAccountFrom](presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
-| [PresentmentMailTransactionResponses](presentmentmailtransactionresponses) { get; set; } | Gets or sets the collection of [`PresentmentMailTransactionResponse`](../presentmentmailtransactionresponse). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Yes if the token in the synchronization request is older than the earliest entry in the server’s history table.In this case, some responses have been lost. No if the token in the synchronization request is newer than or matches a token in the server’s history table. |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse/presentmentaccountfrom) { get; set; } | Gets or sets the from of [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [PresentmentMailTransactionResponses](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse/presentmentmailtransactionresponses) { get; set; } | Gets or sets the collection of [`PresentmentMailTransactionResponse`](../presentmentmailtransactionresponse). |
+| [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Gets or sets the new synchronization token. |
 
 ### See Also
 

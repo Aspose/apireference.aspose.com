@@ -24,8 +24,8 @@ public class CreditcardResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [CreditCardStatementEndTransactionResponses](creditcardstatementendtransactionresponses) { get; set; } | Gets or sets the collection of [`CreditCardStatementEndTransactionResponse`](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse). |
-| [CreditCardStatementTransactionResponses](creditcardstatementtransactionresponses) { get; set; } | Gets or sets the collection of [`CreditCardStatementTransactionResponse`](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse). |
+| [CreditCardStatementEndTransactionResponses](../../aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementendtransactionresponses) { get; set; } | Gets or sets the collection of [`CreditCardStatementEndTransactionResponse`](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse). |
+| [CreditCardStatementTransactionResponses](../../aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementtransactionresponses) { get; set; } | Gets or sets the collection of [`CreditCardStatementTransactionResponse`](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse). |
 
 ### See Also
 

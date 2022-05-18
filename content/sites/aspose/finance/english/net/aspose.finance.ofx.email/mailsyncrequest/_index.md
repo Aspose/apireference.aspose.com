@@ -24,10 +24,14 @@ public class MailSyncRequest : AbstractSyncRequest
 
 | Name | Description |
 | --- | --- |
-| [IncludeImages](includeimages) { get; set; } | True if the client accepts mail with images in the message body, False if the client does not accept mail with images in the message body |
-| [MailTransactionRequests](mailtransactionrequests) { get; set; } | Gets or sets the collection of [`MailTransactionRequest`](../mailtransactionrequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [UseHtml](usehtml) { get; set; } | True if client wants an HTML response, False if client wants plain text. |
+| [IncludeImages](../../aspose.finance.ofx.email/mailsyncrequest/includeimages) { get; set; } | True if the client accepts mail with images in the message body, False if the client does not accept mail with images in the message body |
+| [MailTransactionRequests](../../aspose.finance.ofx.email/mailsyncrequest/mailtransactionrequests) { get; set; } | Gets or sets the collection of [`MailTransactionRequest`](../mailtransactionrequest). |
+| [OfxExtension](../../aspose.finance.ofx.email/mailsyncrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Gets or sets whether request for refresh of current state. |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | If yes, do not process requests if client token is out of date. |
+| [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Gets or sets the token. |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Gets or sets whether request for just the current token without the history. |
+| [UseHtml](../../aspose.finance.ofx.email/mailsyncrequest/usehtml) { get; set; } | True if client wants an HTML response, False if client wants plain text. |
 
 ### See Also
 

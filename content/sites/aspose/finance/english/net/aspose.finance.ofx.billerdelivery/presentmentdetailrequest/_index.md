@@ -24,8 +24,8 @@ public class PresentmentDetailRequest
 
 | Name | Description |
 | --- | --- |
-| [BillDetailTableType](billdetailtabletype) { get; set; } | Gets or sets the type of bill detail table. |
-| [BillId](billid) { get; set; } | Gets or sets the statement identifier. |
+| [BillDetailTableType](../../aspose.finance.ofx.billerdelivery/presentmentdetailrequest/billdetailtabletype) { get; set; } | Gets or sets the type of bill detail table. |
+| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentdetailrequest/billid) { get; set; } | Gets or sets the statement identifier. |
 
 ### See Also
 

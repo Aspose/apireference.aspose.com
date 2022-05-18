@@ -24,12 +24,12 @@ public class WireRequest : AbstractWireRequest
 
 | Name | Description |
 | --- | --- |
-| [BankAccountFrom](bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [DueDate](duedate) { get; set; } | Gets or sets the Date to occur. |
-| [PaymentInstruction](paymentinstruction) { get; set; } | Gets or sets the payment instructions. |
-| [TransferAmount](transferamount) { get; set; } | Gets or sets the transfer amount. |
-| [WireBeneficiary](wirebeneficiary) { get; set; } | Gets or sets the [`WireBeneficiary`](./wirebeneficiary). |
-| [WireDestinationBank](wiredestinationbank) { get; set; } | Gets or sets the [`WireDestinationBank`](./wiredestinationbank). |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wirerequest/bankaccountfrom) { get; set; } | Gets or sets the from of [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [DueDate](../../aspose.finance.ofx.wiretransfer/wirerequest/duedate) { get; set; } | Gets or sets the Date to occur. |
+| [PaymentInstruction](../../aspose.finance.ofx.wiretransfer/wirerequest/paymentinstruction) { get; set; } | Gets or sets the payment instructions. |
+| [TransferAmount](../../aspose.finance.ofx.wiretransfer/wirerequest/transferamount) { get; set; } | Gets or sets the transfer amount. |
+| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wirerequest/wirebeneficiary) { get; set; } | Gets or sets the [`WireBeneficiary`](./wirebeneficiary). |
+| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank) { get; set; } | Gets or sets the [`WireDestinationBank`](./wiredestinationbank). |
 
 ### See Also
 

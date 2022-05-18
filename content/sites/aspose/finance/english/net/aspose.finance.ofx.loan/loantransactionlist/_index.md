@@ -24,9 +24,9 @@ public class LoanTransactionList
 
 | Name | Description |
 | --- | --- |
-| [EndDate](enddate) { get; set; } | Gets or sets the end date for transaction data. |
-| [LoanStatementTransactions](loanstatementtransactions) { get; set; } | Gets or sets the collection of [`LoanStatementTransaction`](../loanstatementtransaction). |
-| [StartDate](startdate) { get; set; } | Gets or sets the start date for transaction data. |
+| [EndDate](../../aspose.finance.ofx.loan/loantransactionlist/enddate) { get; set; } | Gets or sets the end date for transaction data. |
+| [LoanStatementTransactions](../../aspose.finance.ofx.loan/loantransactionlist/loanstatementtransactions) { get; set; } | Gets or sets the collection of [`LoanStatementTransaction`](../loanstatementtransaction). |
+| [StartDate](../../aspose.finance.ofx.loan/loantransactionlist/startdate) { get; set; } | Gets or sets the start date for transaction data. |
 
 ### See Also
 

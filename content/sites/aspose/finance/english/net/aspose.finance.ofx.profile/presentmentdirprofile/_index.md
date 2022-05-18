@@ -24,9 +24,9 @@ public class PresentmentDirProfile
 
 | Name | Description |
 | --- | --- |
-| [CanSupportImages](cansupportimages) { get; set; } | Gets or sets whether supports delivery of images as multipart MIME. |
-| [ProcessingDaysOffs](processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
-| [ProcessingEndTime](processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
+| [CanSupportImages](../../aspose.finance.ofx.profile/presentmentdirprofile/cansupportimages) { get; set; } | Gets or sets whether supports delivery of images as multipart MIME. |
+| [ProcessingDaysOffs](../../aspose.finance.ofx.profile/presentmentdirprofile/processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
+| [ProcessingEndTime](../../aspose.finance.ofx.profile/presentmentdirprofile/processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
 
 ### See Also
 

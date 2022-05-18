@@ -24,26 +24,26 @@ public class BillerInfo
 
 | Name | Description |
 | --- | --- |
-| [AccountEditMask](accounteditmask) { get; set; } | Gets or sets the alternative string describing the account number format. |
-| [AccountFormat](accountformat) { get; set; } | Gets or sets the regular expression describing the account number format. |
-| [Address1](address1) { get; set; } | Gets or sets the biller’s address line 1. |
-| [Address2](address2) { get; set; } | Gets or sets the biller’s address line 2. |
-| [Address3](address3) { get; set; } | Gets or sets the biller’s address line 3. |
-| [BillerId](billerid) { get; set; } | Gets or sets the ID of this biller at this bill publisher. |
-| [BillerInfoUrl](billerinfourl) { get; set; } | Gets or sets the URL of human-readable description of additional information the biller would like the customer to have with regard to signing up. |
-| [BillPublisher](billpublisher) { get; set; } | Gets or sets the official standard name of the bill publisher. |
-| [City](city) { get; set; } | Gets or sets the biller’s city. |
-| [Country](country) { get; set; } | Gets or sets the biller’s country. 3-letter country code from ISO/DIS-3166. |
-| [HelpMessage](helpmessage) { get; set; } | Gets or sets the human-readable message that the client can display to assist the customer in entering his or her account number. |
-| [Logo](logo) { get; set; } | Gets or sets the URL of the biller’s logo. |
-| [Name](name) { get; set; } | Gets or sets the name of the biller. |
-| [PaymentInstruments](paymentinstruments) { get; set; } | Gets or sets the collection of [`PaymentInstrument`](../paymentinstrument). |
-| [Phone](phone) { get; set; } | Gets or sets the biller’s phone number for customer information (if a special number exists for electronic billing information, use that number). |
-| [PostalCode](postalcode) { get; set; } | Gets or sets the biller’s postal code. |
-| [Restrict](restrict) { get; set; } | Gets or sets the human-readable description of any restrictions on who may sign up with this biller. |
-| [StandardIndustrialClassification](standardindustrialclassification) { get; set; } | Gets or sets the biller’s Standard Industrial Classification Code. |
-| [State](state) { get; set; } | Gets or sets the biller’s state. |
-| [Validate](validate) { get; set; } | Gets or sets the URL for validation. |
+| [AccountEditMask](../../aspose.finance.ofx.billerdirectory/billerinfo/accounteditmask) { get; set; } | Gets or sets the alternative string describing the account number format. |
+| [AccountFormat](../../aspose.finance.ofx.billerdirectory/billerinfo/accountformat) { get; set; } | Gets or sets the regular expression describing the account number format. |
+| [Address1](../../aspose.finance.ofx.billerdirectory/billerinfo/address1) { get; set; } | Gets or sets the biller’s address line 1. |
+| [Address2](../../aspose.finance.ofx.billerdirectory/billerinfo/address2) { get; set; } | Gets or sets the biller’s address line 2. |
+| [Address3](../../aspose.finance.ofx.billerdirectory/billerinfo/address3) { get; set; } | Gets or sets the biller’s address line 3. |
+| [BillerId](../../aspose.finance.ofx.billerdirectory/billerinfo/billerid) { get; set; } | Gets or sets the ID of this biller at this bill publisher. |
+| [BillerInfoUrl](../../aspose.finance.ofx.billerdirectory/billerinfo/billerinfourl) { get; set; } | Gets or sets the URL of human-readable description of additional information the biller would like the customer to have with regard to signing up. |
+| [BillPublisher](../../aspose.finance.ofx.billerdirectory/billerinfo/billpublisher) { get; set; } | Gets or sets the official standard name of the bill publisher. |
+| [City](../../aspose.finance.ofx.billerdirectory/billerinfo/city) { get; set; } | Gets or sets the biller’s city. |
+| [Country](../../aspose.finance.ofx.billerdirectory/billerinfo/country) { get; set; } | Gets or sets the biller’s country. 3-letter country code from ISO/DIS-3166. |
+| [HelpMessage](../../aspose.finance.ofx.billerdirectory/billerinfo/helpmessage) { get; set; } | Gets or sets the human-readable message that the client can display to assist the customer in entering his or her account number. |
+| [Logo](../../aspose.finance.ofx.billerdirectory/billerinfo/logo) { get; set; } | Gets or sets the URL of the biller’s logo. |
+| [Name](../../aspose.finance.ofx.billerdirectory/billerinfo/name) { get; set; } | Gets or sets the name of the biller. |
+| [PaymentInstruments](../../aspose.finance.ofx.billerdirectory/billerinfo/paymentinstruments) { get; set; } | Gets or sets the collection of [`PaymentInstrument`](../paymentinstrument). |
+| [Phone](../../aspose.finance.ofx.billerdirectory/billerinfo/phone) { get; set; } | Gets or sets the biller’s phone number for customer information (if a special number exists for electronic billing information, use that number). |
+| [PostalCode](../../aspose.finance.ofx.billerdirectory/billerinfo/postalcode) { get; set; } | Gets or sets the biller’s postal code. |
+| [Restrict](../../aspose.finance.ofx.billerdirectory/billerinfo/restrict) { get; set; } | Gets or sets the human-readable description of any restrictions on who may sign up with this biller. |
+| [StandardIndustrialClassification](../../aspose.finance.ofx.billerdirectory/billerinfo/standardindustrialclassification) { get; set; } | Gets or sets the biller’s Standard Industrial Classification Code. |
+| [State](../../aspose.finance.ofx.billerdirectory/billerinfo/state) { get; set; } | Gets or sets the biller’s state. |
+| [Validate](../../aspose.finance.ofx.billerdirectory/billerinfo/validate) { get; set; } | Gets or sets the URL for validation. |
 
 ### See Also
 

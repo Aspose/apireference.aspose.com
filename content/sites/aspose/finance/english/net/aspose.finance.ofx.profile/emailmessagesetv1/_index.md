@@ -24,8 +24,9 @@ public class EmailMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [GetMimeSupport](getmimesupport) { get; set; } | Gets or sets whether support [`GetMimeRequest`](../../aspose.finance.ofx.email/getmimerequest). |
-| [MailSupport](mailsupport) { get; set; } | True if server supports [`MailRequest`](../../aspose.finance.ofx.email/mailrequest) request. False if server supports only the [`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest) request. |
+| [GetMimeSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/getmimesupport) { get; set; } | Gets or sets whether support [`GetMimeRequest`](../../aspose.finance.ofx.email/getmimerequest). |
+| [MailSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/mailsupport) { get; set; } | True if server supports [`MailRequest`](../../aspose.finance.ofx.email/mailrequest) request. False if server supports only the [`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest) request. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 
 ### See Also
 

@@ -25,10 +25,10 @@ public class DimensionMember
 
 | Name | Description |
 | --- | --- |
-| [DimensionConcept](dimensionconcept) { get; } | Gets the dimension concept. |
-| [ExplicitMemberConcept](explicitmemberconcept) { get; } | Gets the member concept if it's a explicit dimension member. |
-| [IsExplicit](isexplicit) { get; } | Gets whether this dimension member is explicit. |
-| [TypedMemberElement](typedmemberelement) { get; } | Gets the member element if it's a typed dimension member. |
+| [DimensionConcept](../../aspose.finance.xbrl/dimensionmember/dimensionconcept) { get; } | Gets the dimension concept. |
+| [ExplicitMemberConcept](../../aspose.finance.xbrl/dimensionmember/explicitmemberconcept) { get; } | Gets the member concept if it's a explicit dimension member. |
+| [IsExplicit](../../aspose.finance.xbrl/dimensionmember/isexplicit) { get; } | Gets whether this dimension member is explicit. |
+| [TypedMemberElement](../../aspose.finance.xbrl/dimensionmember/typedmemberelement) { get; } | Gets the member element if it's a typed dimension member. |
 
 ### See Also
 

@@ -24,7 +24,8 @@ public class PresentmentDirMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [PresentmentDirProfile](presentmentdirprofile) { get; set; } | Gets or sets the [`PresentmentDirProfile`](./presentmentdirprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [PresentmentDirProfile](../../aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile) { get; set; } | Gets or sets the [`PresentmentDirProfile`](./presentmentdirprofile). |
 
 ### See Also
 

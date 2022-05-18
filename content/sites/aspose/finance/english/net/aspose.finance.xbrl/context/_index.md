@@ -24,10 +24,10 @@ public class Context
 
 | Name | Description |
 | --- | --- |
-| [Entity](entity) { get; set; } | Gets or sets the entity of the context. |
-| [Id](id) { get; set; } | Gets or sets the id of the context. |
-| [Period](period) { get; set; } | Gets or sets the period of the context. |
-| [Scenario](scenario) { get; set; } | Gets or sets the scenario of the context. |
+| [Entity](../../aspose.finance.xbrl/context/entity) { get; set; } | Gets or sets the entity of the context. |
+| [Id](../../aspose.finance.xbrl/context/id) { get; set; } | Gets or sets the id of the context. |
+| [Period](../../aspose.finance.xbrl/context/period) { get; set; } | Gets or sets the period of the context. |
+| [Scenario](../../aspose.finance.xbrl/context/scenario) { get; set; } | Gets or sets the scenario of the context. |
 
 ### See Also
 

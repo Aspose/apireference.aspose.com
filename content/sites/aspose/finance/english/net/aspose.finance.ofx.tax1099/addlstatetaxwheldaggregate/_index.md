@@ -24,9 +24,9 @@ public class AddlStateTaxWheldAggregate
 
 | Name | Description |
 | --- | --- |
-| [StateCode](statecode) { get; set; } | Gets or sets the payer’s state code. |
-| [StateIdNumber](stateidnumber) { get; set; } | Gets or sets the payer’s state ID number. |
-| [StateTaxWithheld](statetaxwithheld) { get; set; } | Gets or sets the state income tax withheld. |
+| [StateCode](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statecode) { get; set; } | Gets or sets the payer’s state code. |
+| [StateIdNumber](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/stateidnumber) { get; set; } | Gets or sets the payer’s state ID number. |
+| [StateTaxWithheld](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statetaxwithheld) { get; set; } | Gets or sets the state income tax withheld. |
 
 ### See Also
 

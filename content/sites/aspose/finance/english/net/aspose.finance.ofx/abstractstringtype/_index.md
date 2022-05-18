@@ -18,7 +18,7 @@ public abstract class AbstractStringType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the string value. |
+| [Value](../../aspose.finance.ofx/abstractstringtype/value) { get; set; } | Gets or sets the string value. |
 
 ### See Also
 

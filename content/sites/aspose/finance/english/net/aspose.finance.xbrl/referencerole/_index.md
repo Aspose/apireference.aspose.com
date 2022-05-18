@@ -3,7 +3,7 @@ title: ReferenceRole
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7940
+weight: 7950
 url: /net/aspose.finance.xbrl/referencerole/
 ---
 ## ReferenceRole enumeration

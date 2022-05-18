@@ -24,7 +24,7 @@ public class PresentmentDirResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Name | Description |
 | --- | --- |
-| [FindBillerTransactionResponses](findbillertransactionresponses) { get; set; } | Gets or sets the collection of [`FindBillerTransactionResponse`](../../aspose.finance.ofx.billerdirectory/findbillertransactionresponse). |
+| [FindBillerTransactionResponses](../../aspose.finance.ofx/presentmentdirresponsemessagesetv1/findbillertransactionresponses) { get; set; } | Gets or sets the collection of [`FindBillerTransactionResponse`](../../aspose.finance.ofx.billerdirectory/findbillertransactionresponse). |
 
 ### See Also
 

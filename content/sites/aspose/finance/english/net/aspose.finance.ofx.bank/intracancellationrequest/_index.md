@@ -24,7 +24,7 @@ public class IntraCancellationRequest : AbstractIntraRequest
 
 | Name | Description |
 | --- | --- |
-| [ServerId](serverid) { get; set; } | Gets or sets the ID of the transfer the user wants to cancel. |
+| [ServerId](../../aspose.finance.ofx.bank/intracancellationrequest/serverid) { get; set; } | Gets or sets the ID of the transfer the user wants to cancel. |
 
 ### See Also
 

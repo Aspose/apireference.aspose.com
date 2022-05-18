@@ -24,9 +24,9 @@ public class Tax1099Request
 
 | Name | Description |
 | --- | --- |
-| [AccountNumber](accountnumber) { get; set; } | Gets or sets the account number of recipient. |
-| [RecipientId](recipientid) { get; set; } | Gets or sets the ID of recipient. |
-| [TaxYears](taxyears) { get; set; } | Gets or sets the tax year of the requested forms. |
+| [AccountNumber](../../aspose.finance.ofx.tax1099/tax1099request/accountnumber) { get; set; } | Gets or sets the account number of recipient. |
+| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099request/recipientid) { get; set; } | Gets or sets the ID of recipient. |
+| [TaxYears](../../aspose.finance.ofx.tax1099/tax1099request/taxyears) { get; set; } | Gets or sets the tax year of the requested forms. |
 
 ### See Also
 

@@ -24,15 +24,15 @@ public class PresentmentAccount : AbstractAccount
 
 | Name | Description |
 | --- | --- |
-| [AccountId](accountid) { get; set; } | Gets or sets the account number. |
-| [BillerId](billerid) { get; set; } | Gets or sets the ID of this biller at this bill publisher. |
-| [BillerName](billername) { get; set; } | Gets or sets the name of the biller. |
-| [BillPublisher](billpublisher) { get; set; } | Gets or sets the official standard name of bill publisher. |
-| [PayeeId](payeeid) { get; set; } | Gets or sets the payee identifier. Identifies this Biller at the user's Payment provider. |
-| [PayeeListId](payeelistid) { get; set; } | Gets or sets the payee list identifier. Identifies this Biller on the user's payee list at their Payment provider. |
-| [PresentmentNameAddress](presentmentnameaddress) { get; set; } | Gets or sets the [`PresentmentNameAddress`](./presentmentnameaddress). |
-| [ServiceProviderName](serviceprovidername) { get; set; } | Gets or sets the service provider name. |
-| [UserId](userid) { get; set; } | Gets or sets the customer’s user ID. |
+| [AccountId](../../aspose.finance.ofx/presentmentaccount/accountid) { get; set; } | Gets or sets the account number. |
+| [BillerId](../../aspose.finance.ofx/presentmentaccount/billerid) { get; set; } | Gets or sets the ID of this biller at this bill publisher. |
+| [BillerName](../../aspose.finance.ofx/presentmentaccount/billername) { get; set; } | Gets or sets the name of the biller. |
+| [BillPublisher](../../aspose.finance.ofx/presentmentaccount/billpublisher) { get; set; } | Gets or sets the official standard name of bill publisher. |
+| [PayeeId](../../aspose.finance.ofx/presentmentaccount/payeeid) { get; set; } | Gets or sets the payee identifier. Identifies this Biller at the user's Payment provider. |
+| [PayeeListId](../../aspose.finance.ofx/presentmentaccount/payeelistid) { get; set; } | Gets or sets the payee list identifier. Identifies this Biller on the user's payee list at their Payment provider. |
+| [PresentmentNameAddress](../../aspose.finance.ofx/presentmentaccount/presentmentnameaddress) { get; set; } | Gets or sets the [`PresentmentNameAddress`](./presentmentnameaddress). |
+| [ServiceProviderName](../../aspose.finance.ofx/presentmentaccount/serviceprovidername) { get; set; } | Gets or sets the service provider name. |
+| [UserId](../../aspose.finance.ofx/presentmentaccount/userid) { get; set; } | Gets or sets the customer’s user ID. |
 
 ### See Also
 

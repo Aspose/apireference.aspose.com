@@ -24,11 +24,11 @@ public class StopCheckProfile
 
 | Name | Description |
 | --- | --- |
-| [CanUseDescription](canusedescription) { get; set; } | Gets or sets whether can stop by description. |
-| [CanUseRange](canuserange) { get; set; } | Gets or sets whether can stop a range of checks. |
-| [ProcessingDaysOffs](processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
-| [ProcessingEndTime](processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
-| [StopCheckFee](stopcheckfee) { get; set; } | Gets or sets the default stop check fee |
+| [CanUseDescription](../../aspose.finance.ofx.profile/stopcheckprofile/canusedescription) { get; set; } | Gets or sets whether can stop by description. |
+| [CanUseRange](../../aspose.finance.ofx.profile/stopcheckprofile/canuserange) { get; set; } | Gets or sets whether can stop a range of checks. |
+| [ProcessingDaysOffs](../../aspose.finance.ofx.profile/stopcheckprofile/processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
+| [ProcessingEndTime](../../aspose.finance.ofx.profile/stopcheckprofile/processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
+| [StopCheckFee](../../aspose.finance.ofx.profile/stopcheckprofile/stopcheckfee) { get; set; } | Gets or sets the default stop check fee |
 
 ### See Also
 

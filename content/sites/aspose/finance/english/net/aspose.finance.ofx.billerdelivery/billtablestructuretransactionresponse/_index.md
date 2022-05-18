@@ -24,8 +24,11 @@ public class BillTableStructureTransactionResponse : AbstractTransactionResponse
 
 | Name | Description |
 | --- | --- |
-| [BillTableStructureResponse](billtablestructureresponse) { get; set; } | Gets or sets the [`BillTableStructureResponse`](./billtablestructureresponse). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [BillTableStructureResponse](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructureresponse) { get; set; } | Gets or sets the [`BillTableStructureResponse`](./billtablestructureresponse). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Gets or sets the [`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction. |
 
 ### See Also
 

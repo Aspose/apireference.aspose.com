@@ -3,7 +3,7 @@ title: LabelLink
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7780
+weight: 7790
 url: /net/aspose.finance.xbrl/labellink/
 ---
 ## LabelLink class
@@ -18,10 +18,10 @@ public class LabelLink
 
 | Name | Description |
 | --- | --- |
-| [LabelArcs](labelarcs) { get; } | Gets the collection of [`LabelArc`](../labelarc). |
-| [Labels](labels) { get; } | Gets the collection of [`Label`](../label). |
-| [Locators](locators) { get; } | Gets the collection of [`Loc`](../loc). |
-| [Role](role) { get; set; } | Gets or sets the role. |
+| [LabelArcs](../../aspose.finance.xbrl/labellink/labelarcs) { get; } | Gets the collection of [`LabelArc`](../labelarc). |
+| [Labels](../../aspose.finance.xbrl/labellink/labels) { get; } | Gets the collection of [`Label`](../label). |
+| [Locators](../../aspose.finance.xbrl/labellink/locators) { get; } | Gets the collection of [`Loc`](../loc). |
+| [Role](../../aspose.finance.xbrl/labellink/role) { get; set; } | Gets or sets the role. |
 
 ### See Also
 

@@ -24,9 +24,9 @@ public class InvestmentStatementEndResponse
 
 | Name | Description |
 | --- | --- |
-| [Currency](currency) { get; set; } | Gets or sets the default currency used for closing information. |
-| [InvestmentAccountFrom](investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [InvestmentClosings](investmentclosings) { get; set; } | Gets or sets the collection of [`InvestmentClosing`](../investmentclosing). |
+| [Currency](../../aspose.finance.ofx.investment/investmentstatementendresponse/currency) { get; set; } | Gets or sets the default currency used for closing information. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentaccountfrom) { get; set; } | Gets or sets the from of [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [InvestmentClosings](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentclosings) { get; set; } | Gets or sets the collection of [`InvestmentClosing`](../investmentclosing). |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class Portion
 
 | Name | Description |
 | --- | --- |
-| [AssetClass](assetclass) { get; set; } | Gets or sets the asset class. |
-| [Percent](percent) { get; set; } | Gets or sets the percentage of the fund that falls under this asset class. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/portion/assetclass) { get; set; } | Gets or sets the asset class. |
+| [Percent](../../aspose.finance.ofx.securitieslist/portion/percent) { get; set; } | Gets or sets the percentage of the fund that falls under this asset class. |
 
 ### See Also
 

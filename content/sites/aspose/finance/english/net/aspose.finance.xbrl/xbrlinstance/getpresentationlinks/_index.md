@@ -3,7 +3,7 @@ title: GetPresentationLinks
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 200
 url: /net/aspose.finance.xbrl/xbrlinstance/getpresentationlinks/
 ---
 ## XbrlInstance.GetPresentationLinks method

@@ -3,7 +3,7 @@ title: GetConceptByLoc
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 170
 url: /net/aspose.finance.xbrl/xbrlinstance/getconceptbyloc/
 ---
 ## XbrlInstance.GetConceptByLoc method

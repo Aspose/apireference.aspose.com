@@ -18,7 +18,37 @@ public class Comment : CharacterData
 
 | Name | Description |
 | --- | --- |
-| override [NodeName](nodename) { get; } | Gets the node name of the comment. |
+| virtual [BaseURI](../../aspose.finance.xbrl.dom/node/baseuri) { get; } | Gets the absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
+| [ChildNodes](../../aspose.finance.xbrl.dom/node/childnodes) { get; } | Gets the child nodes. |
+| [Data](../../aspose.finance.xbrl.dom/characterdata/data) { get; set; } | Gets or sets the character data of the node that implements this interface. |
+| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | Gets the first child of this node. If there is no such node, this returns null. |
+| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | Gets whether this node has any children. |
+| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | Gets the last child of this node. If there is no such node, this returns null. |
+| [Length](../../aspose.finance.xbrl.dom/characterdata/length) { get; } | Gets the number of 16-bit units that are available through data. This may have the value zero, i.e., CharacterData nodes may be empty. |
+| virtual [LocalName](../../aspose.finance.xbrl.dom/node/localname) { get; } | Gets the local part of the qualified name of this node. |
+| virtual [NamespaceURI](../../aspose.finance.xbrl.dom/node/namespaceuri) { get; } | Gets the namespace URI of this node. |
+| [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | Gets the node immediately following this node. If there is no such node, this returns null. |
+| override [NodeName](../../aspose.finance.xbrl.dom/comment/nodename) { get; } | Gets the node name of the comment. |
+| [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | Gets the node type. |
+| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | Gets or sets the value of this node, depending on its type. |
+| [OwnerDocument](../../aspose.finance.xbrl.dom/node/ownerdocument) { get; } | Gets the document object associated with this node. |
+| [ParentNode](../../aspose.finance.xbrl.dom/node/parentnode) { get; } | Gets the parent node. |
+| virtual [Prefix](../../aspose.finance.xbrl.dom/node/prefix) { get; set; } | Gets or sets the namespace prefix of this node. |
+| [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | Gets the node immediately preceding this node. If there is no such node, this returns null. |
+| virtual [TextContent](../../aspose.finance.xbrl.dom/node/textcontent) { get; set; } | Gets or sets the the text content of this node and its descendants. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | Adds the node newChild to the end of the list of children of this node. |
+| virtual [AppendData](../../aspose.finance.xbrl.dom/characterdata/appenddata)(string) | Appends the string to the end of the character data of the node. |
+| virtual [DeleteData](../../aspose.finance.xbrl.dom/characterdata/deletedata)(int, int) | Removes a range of content from the node. |
+| virtual [InsertData](../../aspose.finance.xbrl.dom/characterdata/insertdata)(int, string) | Inserts a string at the specified offset. |
+| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | Removes the child node indicated by old child from the list of children. |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | Replaces the child node old child with new child in the list of children, and returns the old child node. |
+| virtual [ReplaceData](../../aspose.finance.xbrl.dom/characterdata/replacedata)(int, int, string) | Replaces the characters starting at the specified offset with the specified string. |
+| virtual [Substring](../../aspose.finance.xbrl.dom/characterdata/substring)(int, int) | Extracts a range of data from the node. |
 
 ### See Also
 

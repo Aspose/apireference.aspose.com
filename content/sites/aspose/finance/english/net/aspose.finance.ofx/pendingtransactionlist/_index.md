@@ -24,8 +24,8 @@ public class PendingTransactionList
 
 | Name | Description |
 | --- | --- |
-| [DateAsOf](dateasof) { get; set; } | Gets or sets the date and time this set of pending transactions was generated. |
-| [PendingTransactions](pendingtransactions) { get; set; } | Gets or sets the collection of [`PendingTransaction`](../pendingtransaction). |
+| [DateAsOf](../../aspose.finance.ofx/pendingtransactionlist/dateasof) { get; set; } | Gets or sets the date and time this set of pending transactions was generated. |
+| [PendingTransactions](../../aspose.finance.ofx/pendingtransactionlist/pendingtransactions) { get; set; } | Gets or sets the collection of [`PendingTransaction`](../pendingtransaction). |
 
 ### See Also
 

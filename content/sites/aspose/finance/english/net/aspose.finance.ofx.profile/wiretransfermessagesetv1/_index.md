@@ -24,11 +24,12 @@ public class WireTransferMessageSetV1 : AbstractMessageSetVersion
 
 | Name | Description |
 | --- | --- |
-| [CanScheduled](canscheduled) { get; set; } | Gets or sets whether supports scheduled transfers. |
-| [DomesticTransferFee](domestictransferfee) { get; set; } | Gets or sets the standard fee for a domestic wire transfer. |
-| [InternationalTransferFee](internationaltransferfee) { get; set; } | Gets or sets the standard fee for an international wire transfer. |
-| [ProcessingDaysOffs](processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
-| [ProcessingEndTime](processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
+| [CanScheduled](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/canscheduled) { get; set; } | Gets or sets whether supports scheduled transfers. |
+| [DomesticTransferFee](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/domestictransferfee) { get; set; } | Gets or sets the standard fee for a domestic wire transfer. |
+| [InternationalTransferFee](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/internationaltransferfee) { get; set; } | Gets or sets the standard fee for an international wire transfer. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Gets or sets the [`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [ProcessingDaysOffs](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/processingdaysoffs) { get; set; } | Gets or sets the days of week that no processing occurs. |
+| [ProcessingEndTime](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/processingendtime) { get; set; } | Gets or sets the time of day that day’s processing ends. |
 
 ### See Also
 

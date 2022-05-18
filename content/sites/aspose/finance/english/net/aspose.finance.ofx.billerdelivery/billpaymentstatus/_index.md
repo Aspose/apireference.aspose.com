@@ -24,10 +24,10 @@ public class BillPaymentStatus
 
 | Name | Description |
 | --- | --- |
-| [BillPaymentStatusCode](billpaymentstatuscode) { get; set; } | Gets or sets the bill payment status code. |
-| [EffectiveDate](effectivedate) { get; set; } | Gets or sets the Date/Time at which the status became effective. |
-| [ServerID](serverid) { get; set; } | Gets or sets the server transaction ID of the payment against this bill. |
-| [StatusModifiedBy](statusmodifiedby) { get; set; } | Gets or sets the status modified by. Servers are not required to store this information. |
+| [BillPaymentStatusCode](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/billpaymentstatuscode) { get; set; } | Gets or sets the bill payment status code. |
+| [EffectiveDate](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/effectivedate) { get; set; } | Gets or sets the Date/Time at which the status became effective. |
+| [ServerID](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/serverid) { get; set; } | Gets or sets the server transaction ID of the payment against this bill. |
+| [StatusModifiedBy](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/statusmodifiedby) { get; set; } | Gets or sets the status modified by. Servers are not required to store this information. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class SecurityListRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Name | Description |
 | --- | --- |
-| [SecurityListTransactionRequests](securitylisttransactionrequests) { get; set; } | Gets or sets the collection of [`SecurityListTransactionRequest`](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest). |
+| [SecurityListTransactionRequests](../../aspose.finance.ofx/securitylistrequestmessagesetv1/securitylisttransactionrequests) { get; set; } | Gets or sets the collection of [`SecurityListTransactionRequest`](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest). |
 
 ### See Also
 

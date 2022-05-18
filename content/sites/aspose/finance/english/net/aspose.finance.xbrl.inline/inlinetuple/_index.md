@@ -3,7 +3,7 @@ title: InlineTuple
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7730
+weight: 7740
 url: /net/aspose.finance.xbrl.inline/inlinetuple/
 ---
 ## InlineTuple class
@@ -18,11 +18,14 @@ public class InlineTuple : InlineFact
 
 | Name | Description |
 | --- | --- |
-| [Facts](facts) { get; } | Gets or sets a collection of child fact of the [`InlineTuple`](../inlinetuple). |
-| [Order](order) { get; set; } | Gets or sets the order of the [`InlineTuple`](../inlinetuple). |
-| [TargetId](targetid) { get; set; } | Gets or sets the target id of the [`InlineTuple`](../inlinetuple). |
-| [TupleId](tupleid) { get; set; } | Gets or sets the tuple id of the [`InlineTuple`](../inlinetuple). |
-| [TupleRefId](tuplerefid) { get; set; } | Gets or sets the tuple reference id of the [`InlineTuple`](../inlinetuple). |
+| [Facts](../../aspose.finance.xbrl.inline/inlinetuple/facts) { get; } | Gets or sets a collection of child fact of the [`InlineTuple`](../inlinetuple). |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | Gets or sets whether this fact is hidden. |
+| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | Gets or sets the id of the inline fact. |
+| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | Gets or sets the qualified name of the inline fact. |
+| [Order](../../aspose.finance.xbrl.inline/inlinetuple/order) { get; set; } | Gets or sets the order of the [`InlineTuple`](../inlinetuple). |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinetuple/targetid) { get; set; } | Gets or sets the target id of the [`InlineTuple`](../inlinetuple). |
+| [TupleId](../../aspose.finance.xbrl.inline/inlinetuple/tupleid) { get; set; } | Gets or sets the tuple id of the [`InlineTuple`](../inlinetuple). |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinetuple/tuplerefid) { get; set; } | Gets or sets the tuple reference id of the [`InlineTuple`](../inlinetuple). |
 
 ### See Also
 

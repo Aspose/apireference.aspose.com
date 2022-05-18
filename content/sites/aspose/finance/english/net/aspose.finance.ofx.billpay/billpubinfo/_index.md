@@ -24,8 +24,8 @@ public class BillPubInfo
 
 | Name | Description |
 | --- | --- |
-| [BillId](billid) { get; set; } | Gets or sets the ID of the bill assigned by the bill presentment service provider to which this payment is being applied. |
-| [BillPublisher](billpublisher) { get; set; } | Gets or sets the name of the bill publisher associated with this payee for this payment at the service provider. |
+| [BillId](../../aspose.finance.ofx.billpay/billpubinfo/billid) { get; set; } | Gets or sets the ID of the bill assigned by the bill presentment service provider to which this payment is being applied. |
+| [BillPublisher](../../aspose.finance.ofx.billpay/billpubinfo/billpublisher) { get; set; } | Gets or sets the name of the bill publisher associated with this payee for this payment at the service provider. |
 
 ### See Also
 

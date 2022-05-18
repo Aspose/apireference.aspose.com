@@ -24,27 +24,30 @@ public class TaxW2_V200 : AbstractTaxW2
 
 | Name | Description |
 | --- | --- |
-| [AdvancedEIC](advancedeic) { get; set; } | Gets or sets the advance EIC payment. |
-| [AllocatedTips](allocatedtips) { get; set; } | Gets or sets the allocated tips. |
-| [Codeses](codeses) { get; set; } | Gets or sets the collection of [`Codes`](../codes). |
-| [DependentCareBenefit](dependentcarebenefit) { get; set; } | Gets or sets the dependent care benefits. |
-| [Employee](employee) { get; set; } | Gets or sets the [`Employee`](./employee). |
-| [Employer](employer) { get; set; } | Gets or sets the [`Employer`](./employer). |
-| [FederalTaxWithheld](federaltaxwithheld) { get; set; } | Gets or sets the federal tax withheld. |
-| [LocalInfos](localinfos) { get; set; } | Gets or sets the collection of [`LocalInfo`](../localinfo). |
-| [MedicareTaxWithheld](medicaretaxwithheld) { get; set; } | Gets or sets the medicare tax withheld. |
-| [MedicareWages](medicarewages) { get; set; } | Gets or sets the medicare wages and tips. |
-| [NonqualifiedPlan](nonqualifiedplan) { get; set; } | Gets or sets the non-qualified plan. |
-| [Others](others) { get; set; } | Gets or sets the collection of [`Other`](../other). |
-| [RetirementPlan](retirementplan) { get; set; } | Gets or sets the retirement plan. |
-| [SocialSecurityTaxWithheld](socialsecuritytaxwithheld) { get; set; } | Gets or sets the social security tax withheld. |
-| [SocialSecurityTips](socialsecuritytips) { get; set; } | Gets or sets the social security tips. |
-| [SocialSecurityWages](socialsecuritywages) { get; set; } | Gets or sets the social security wages. |
-| [StateInfos](stateinfos) { get; set; } | Gets or sets the collection of [`StateInfo`](../stateinfo). |
-| [Statutory](statutory) { get; set; } | Gets or sets the statutory employee. |
-| [ThirdPartySickPay](thirdpartysickpay) { get; set; } | Gets or sets the third party sick pay. |
-| [W2VerificationCode](w2verificationcode) { get; set; } | Gets or sets the verification code. |
-| [Wages](wages) { get; set; } | Gets or sets the wages, tips, other compensation. |
+| [AdvancedEIC](../../aspose.finance.ofx.taxw2/taxw2_v200/advancedeic) { get; set; } | Gets or sets the advance EIC payment. |
+| [AllocatedTips](../../aspose.finance.ofx.taxw2/taxw2_v200/allocatedtips) { get; set; } | Gets or sets the allocated tips. |
+| [Codeses](../../aspose.finance.ofx.taxw2/taxw2_v200/codeses) { get; set; } | Gets or sets the collection of [`Codes`](../codes). |
+| [ControlNumber](../../aspose.finance.ofx.taxw2/abstracttaxw2/controlnumber) { get; set; } | Gets or sets the control number. |
+| [DependentCareBenefit](../../aspose.finance.ofx.taxw2/taxw2_v200/dependentcarebenefit) { get; set; } | Gets or sets the dependent care benefits. |
+| [Employee](../../aspose.finance.ofx.taxw2/taxw2_v200/employee) { get; set; } | Gets or sets the [`Employee`](./employee). |
+| [Employer](../../aspose.finance.ofx.taxw2/taxw2_v200/employer) { get; set; } | Gets or sets the [`Employer`](./employer). |
+| [FederalTaxWithheld](../../aspose.finance.ofx.taxw2/taxw2_v200/federaltaxwithheld) { get; set; } | Gets or sets the federal tax withheld. |
+| [LocalInfos](../../aspose.finance.ofx.taxw2/taxw2_v200/localinfos) { get; set; } | Gets or sets the collection of [`LocalInfo`](../localinfo). |
+| [MedicareTaxWithheld](../../aspose.finance.ofx.taxw2/taxw2_v200/medicaretaxwithheld) { get; set; } | Gets or sets the medicare tax withheld. |
+| [MedicareWages](../../aspose.finance.ofx.taxw2/taxw2_v200/medicarewages) { get; set; } | Gets or sets the medicare wages and tips. |
+| [NonqualifiedPlan](../../aspose.finance.ofx.taxw2/taxw2_v200/nonqualifiedplan) { get; set; } | Gets or sets the non-qualified plan. |
+| [Others](../../aspose.finance.ofx.taxw2/taxw2_v200/others) { get; set; } | Gets or sets the collection of [`Other`](../other). |
+| [RetirementPlan](../../aspose.finance.ofx.taxw2/taxw2_v200/retirementplan) { get; set; } | Gets or sets the retirement plan. |
+| [SocialSecurityTaxWithheld](../../aspose.finance.ofx.taxw2/taxw2_v200/socialsecuritytaxwithheld) { get; set; } | Gets or sets the social security tax withheld. |
+| [SocialSecurityTips](../../aspose.finance.ofx.taxw2/taxw2_v200/socialsecuritytips) { get; set; } | Gets or sets the social security tips. |
+| [SocialSecurityWages](../../aspose.finance.ofx.taxw2/taxw2_v200/socialsecuritywages) { get; set; } | Gets or sets the social security wages. |
+| [StateInfos](../../aspose.finance.ofx.taxw2/taxw2_v200/stateinfos) { get; set; } | Gets or sets the collection of [`StateInfo`](../stateinfo). |
+| [Statutory](../../aspose.finance.ofx.taxw2/taxw2_v200/statutory) { get; set; } | Gets or sets the statutory employee. |
+| [TaxYear](../../aspose.finance.ofx.taxw2/abstracttaxw2/taxyear) { get; set; } | Gets or sets the tax year of this form, in format “YYYY”. |
+| [ThirdPartySickPay](../../aspose.finance.ofx.taxw2/taxw2_v200/thirdpartysickpay) { get; set; } | Gets or sets the third party sick pay. |
+| [Void](../../aspose.finance.ofx.taxw2/abstracttaxw2/void) { get; set; } | Gets or sets whether this W2 is void and a new W2 will be provided. |
+| [W2VerificationCode](../../aspose.finance.ofx.taxw2/taxw2_v200/w2verificationcode) { get; set; } | Gets or sets the verification code. |
+| [Wages](../../aspose.finance.ofx.taxw2/taxw2_v200/wages) { get; set; } | Gets or sets the wages, tips, other compensation. |
 
 ### See Also
 

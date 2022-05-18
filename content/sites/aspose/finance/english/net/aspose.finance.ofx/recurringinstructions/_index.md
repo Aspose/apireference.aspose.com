@@ -24,8 +24,8 @@ public class RecurringInstructions
 
 | Name | Description |
 | --- | --- |
-| [Frequency](frequency) { get; set; } | Gets or sets the frequency. |
-| [InstructionsNumber](instructionsnumber) { get; set; } | Gets or sets the number of instructions. |
+| [Frequency](../../aspose.finance.ofx/recurringinstructions/frequency) { get; set; } | Gets or sets the frequency. |
+| [InstructionsNumber](../../aspose.finance.ofx/recurringinstructions/instructionsnumber) { get; set; } | Gets or sets the number of instructions. |
 
 ### See Also
 

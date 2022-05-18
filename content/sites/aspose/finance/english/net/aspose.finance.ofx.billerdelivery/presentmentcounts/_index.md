@@ -24,8 +24,8 @@ public class PresentmentCounts
 
 | Name | Description |
 | --- | --- |
-| [BillPaymentStatusCounts](billpaymentstatuscounts) { get; set; } | Gets or sets the collection of [`BillPaymentStatusCounts`](../billpaymentstatuscounts). |
-| [BillStatusCounts](billstatuscounts) { get; set; } | Gets or sets the collection of [`BillStatusCounts`](../billstatuscounts). |
+| [BillPaymentStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billpaymentstatuscounts) { get; set; } | Gets or sets the collection of [`BillPaymentStatusCounts`](../billpaymentstatuscounts). |
+| [BillStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billstatuscounts) { get; set; } | Gets or sets the collection of [`BillStatusCounts`](../billstatuscounts). |
 
 ### See Also
 

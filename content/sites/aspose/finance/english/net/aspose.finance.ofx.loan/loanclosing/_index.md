@@ -24,29 +24,29 @@ public class LoanClosing
 
 | Name | Description |
 | --- | --- |
-| [AutoPay](autopay) { get; set; } | Gets or sets whether automatic payments are setup for this account. |
-| [BalanceList](balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
-| [BalanceOpen](balanceopen) { get; set; } | Gets or sets the opening statement balance. |
-| [BalloonAmount](balloonamount) { get; set; } | Gets or sets the balloon payment amount. Not included or zero for regular loans, otherwise balloon payment amount. |
-| [CloseDate](closedate) { get; set; } | Gets or sets the closing statement date. |
-| [Currency](currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
-| [EscrowBalance](escrowbalance) { get; set; } | Gets or sets the [`EscrowBalance`](./escrowbalance). |
-| [EstimatedPayoff](estimatedpayoff) { get; set; } | Gets or sets the [`EstimatedPayoff`](./estimatedpayoff). |
-| [FITransactionId](fitransactionid) { get; set; } | Gets or sets the unique identifier for this statement. |
-| [ImageData](imagedata) { get; set; } | Gets or sets the [`ImageData`](./imagedata). |
-| [LastPmtInfo](lastpmtinfo) { get; set; } | Gets or sets the [`LastPmtInfoType`](../../aspose.finance.ofx/lastpmtinfotype). |
-| [LoanInterest](loaninterest) { get; set; } | Gets or sets the [`LoanInterestType`](../../aspose.finance.ofx/loaninteresttype). |
-| [LoanPayment](loanpayment) { get; set; } | Gets or sets the [`LoanPaymentAmount`](../../aspose.finance.ofx/loanpaymentamount). |
-| [LoanRate](loanrate) { get; set; } | Gets or sets the [`LoanRateType`](../../aspose.finance.ofx/loanratetype). |
-| [LoanRemainingPayments](loanremainingpayments) { get; set; } | Gets or sets the remaining number of loan payments. |
-| [MarketingInformation](marketinginformation) { get; set; } | Gets or sets the marketing information. |
-| [NextDate](nextdate) { get; set; } | Gets or sets the closing date of next statement. |
-| [OpenDate](opendate) { get; set; } | Gets or sets the opening statement date. |
-| [OriginCurrency](origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
-| [PostEndDate](postenddate) { get; set; } | Gets or sets the end date of transaction data for this statement. |
-| [PostStartDate](poststartdate) { get; set; } | Gets or sets the start date of transaction data for this statement. |
-| [PrincipalBalance](principalbalance) { get; set; } | Gets or sets the [`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype). |
-| [TaxYearToDate](taxyeartodate) { get; set; } | Gets or sets the year-to-date total of taxes paid into this account |
+| [AutoPay](../../aspose.finance.ofx.loan/loanclosing/autopay) { get; set; } | Gets or sets whether automatic payments are setup for this account. |
+| [BalanceList](../../aspose.finance.ofx.loan/loanclosing/balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
+| [BalanceOpen](../../aspose.finance.ofx.loan/loanclosing/balanceopen) { get; set; } | Gets or sets the opening statement balance. |
+| [BalloonAmount](../../aspose.finance.ofx.loan/loanclosing/balloonamount) { get; set; } | Gets or sets the balloon payment amount. Not included or zero for regular loans, otherwise balloon payment amount. |
+| [CloseDate](../../aspose.finance.ofx.loan/loanclosing/closedate) { get; set; } | Gets or sets the closing statement date. |
+| [Currency](../../aspose.finance.ofx.loan/loanclosing/currency) { get; set; } | Gets or sets the [`Currency`](./currency). |
+| [EscrowBalance](../../aspose.finance.ofx.loan/loanclosing/escrowbalance) { get; set; } | Gets or sets the [`EscrowBalance`](./escrowbalance). |
+| [EstimatedPayoff](../../aspose.finance.ofx.loan/loanclosing/estimatedpayoff) { get; set; } | Gets or sets the [`EstimatedPayoff`](./estimatedpayoff). |
+| [FITransactionId](../../aspose.finance.ofx.loan/loanclosing/fitransactionid) { get; set; } | Gets or sets the unique identifier for this statement. |
+| [ImageData](../../aspose.finance.ofx.loan/loanclosing/imagedata) { get; set; } | Gets or sets the [`ImageData`](./imagedata). |
+| [LastPmtInfo](../../aspose.finance.ofx.loan/loanclosing/lastpmtinfo) { get; set; } | Gets or sets the [`LastPmtInfoType`](../../aspose.finance.ofx/lastpmtinfotype). |
+| [LoanInterest](../../aspose.finance.ofx.loan/loanclosing/loaninterest) { get; set; } | Gets or sets the [`LoanInterestType`](../../aspose.finance.ofx/loaninteresttype). |
+| [LoanPayment](../../aspose.finance.ofx.loan/loanclosing/loanpayment) { get; set; } | Gets or sets the [`LoanPaymentAmount`](../../aspose.finance.ofx/loanpaymentamount). |
+| [LoanRate](../../aspose.finance.ofx.loan/loanclosing/loanrate) { get; set; } | Gets or sets the [`LoanRateType`](../../aspose.finance.ofx/loanratetype). |
+| [LoanRemainingPayments](../../aspose.finance.ofx.loan/loanclosing/loanremainingpayments) { get; set; } | Gets or sets the remaining number of loan payments. |
+| [MarketingInformation](../../aspose.finance.ofx.loan/loanclosing/marketinginformation) { get; set; } | Gets or sets the marketing information. |
+| [NextDate](../../aspose.finance.ofx.loan/loanclosing/nextdate) { get; set; } | Gets or sets the closing date of next statement. |
+| [OpenDate](../../aspose.finance.ofx.loan/loanclosing/opendate) { get; set; } | Gets or sets the opening statement date. |
+| [OriginCurrency](../../aspose.finance.ofx.loan/loanclosing/origincurrency) { get; set; } | Gets or sets the Origin [`Currency`](./currency). |
+| [PostEndDate](../../aspose.finance.ofx.loan/loanclosing/postenddate) { get; set; } | Gets or sets the end date of transaction data for this statement. |
+| [PostStartDate](../../aspose.finance.ofx.loan/loanclosing/poststartdate) { get; set; } | Gets or sets the start date of transaction data for this statement. |
+| [PrincipalBalance](../../aspose.finance.ofx.loan/loanclosing/principalbalance) { get; set; } | Gets or sets the [`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype). |
+| [TaxYearToDate](../../aspose.finance.ofx.loan/loanclosing/taxyeartodate) { get; set; } | Gets or sets the year-to-date total of taxes paid into this account |
 
 ### See Also
 

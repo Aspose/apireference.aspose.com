@@ -24,10 +24,10 @@ public class ExtendedPayment
 
 | Name | Description |
 | --- | --- |
-| [ExtendedPaymentCheck](extendedpaymentcheck) { get; set; } | Gets or sets the check number to use for this payment. |
-| [ExtendedPaymentDescription](extendedpaymentdescription) { get; set; } | Gets or sets the free text to communicate with the payment. |
-| [ExtendedPaymentFor](extendedpaymentfor) { get; set; } | Gets or sets whether the payment is for an individual or business account.This allows the payment processor to remit payments to the appropriate address for consumers or businesses. |
-| [ExtendedPaymentInvoice](extendedpaymentinvoice) { get; set; } | Gets or sets the [`ExtendedPaymentInvoice`](./extendedpaymentinvoice). |
+| [ExtendedPaymentCheck](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentcheck) { get; set; } | Gets or sets the check number to use for this payment. |
+| [ExtendedPaymentDescription](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentdescription) { get; set; } | Gets or sets the free text to communicate with the payment. |
+| [ExtendedPaymentFor](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentfor) { get; set; } | Gets or sets whether the payment is for an individual or business account.This allows the payment processor to remit payments to the appropriate address for consumers or businesses. |
+| [ExtendedPaymentInvoice](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice) { get; set; } | Gets or sets the [`ExtendedPaymentInvoice`](./extendedpaymentinvoice). |
 
 ### See Also
 

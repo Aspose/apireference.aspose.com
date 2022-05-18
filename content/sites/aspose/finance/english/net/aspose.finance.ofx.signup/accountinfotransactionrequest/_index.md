@@ -24,8 +24,11 @@ public class AccountInfoTransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [AccountInfoRequest](accountinforequest) { get; set; } | Gets or sets the [`AccountInfoRequest`](./accountinforequest). |
-| [OfxExtension](ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [AccountInfoRequest](../../aspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest) { get; set; } | Gets or sets the [`AccountInfoRequest`](./accountinforequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [OfxExtension](../../aspose.finance.ofx.signup/accountinfotransactionrequest/ofxextension) { get; set; } | Gets or sets the [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

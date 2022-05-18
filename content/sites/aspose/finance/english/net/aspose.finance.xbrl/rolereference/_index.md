@@ -3,7 +3,7 @@ title: RoleReference
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 7960
+weight: 7970
 url: /net/aspose.finance.xbrl/rolereference/
 ---
 ## RoleReference class
@@ -24,8 +24,15 @@ public class RoleReference : SimpleLink
 
 | Name | Description |
 | --- | --- |
-| [RoleType](roletype) { get; set; } | Gets or sets the [`RoleType`](./roletype) |
-| [RoleUri](roleuri) { get; } | Gets or sets the role URI. |
+| [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | Gets or sets the simple link actuate attribute. |
+| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | Gets or sets the simple link arcrole. |
+| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | Gets or sets the simple link href URI. |
+| [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | Gets or sets the simple link role. |
+| [RoleType](../../aspose.finance.xbrl/rolereference/roletype) { get; set; } | Gets or sets the [`RoleType`](./roletype) |
+| [RoleUri](../../aspose.finance.xbrl/rolereference/roleuri) { get; } | Gets or sets the role URI. |
+| [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | Gets or sets the simple link show attribute. |
+| [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | Gets or sets the simple link title. |
+| [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Gets the link type. |
 
 ### See Also
 

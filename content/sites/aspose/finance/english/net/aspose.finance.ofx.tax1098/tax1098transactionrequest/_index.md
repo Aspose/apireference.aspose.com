@@ -24,7 +24,10 @@ public class Tax1098TransactionRequest : AbstractTransactionRequest
 
 | Name | Description |
 | --- | --- |
-| [Tax1098Request](tax1098request) { get; set; } | Gets or sets the [`Tax1098Request`](./tax1098request). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Gets or sets the data to be echoed in the transaction response |
+| [Tax1098Request](../../aspose.finance.ofx.tax1098/tax1098transactionrequest/tax1098request) { get; set; } | Gets or sets the [`Tax1098Request`](./tax1098request). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Gets or sets the transaction authorization number. |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Gets or sets the client-assigned globally unique ID for this transaction |
 
 ### See Also
 

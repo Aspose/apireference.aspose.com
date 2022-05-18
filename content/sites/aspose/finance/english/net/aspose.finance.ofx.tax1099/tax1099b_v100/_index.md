@@ -24,23 +24,27 @@ public class Tax1099B_V100 : AbstractTaxForm1099
 
 | Name | Description |
 | --- | --- |
-| [AggregateProfit](aggregateprofit) { get; set; } | Gets or sets the aggregate profit or loss. |
-| [Bartering](bartering) { get; set; } | Gets or sets the bartering. |
-| [CUSIPNumber](cusipnumber) { get; set; } | Gets or sets the Committee on Uniform Security Identity Procedures number. |
-| [Description](description) { get; set; } | Gets or sets the description. |
-| [ExtendedBInfo_V100](extendedbinfo_v100) { get; set; } | Gets or sets the [`ExtendedBInfo_V100`](./extendedbinfo_v100). |
-| [FederalTaxWithheld](federaltaxwithheld) { get; set; } | Gets or sets the federal income tax withheld. |
-| [PayerAddress](payeraddress) { get; set; } | Gets or sets the [`PayerAddress`](./payeraddress). |
-| [PayerId](payerid) { get; set; } | Gets or sets the payer’s federal identification number. |
-| [Profit](profit) { get; set; } | Gets or sets the profit or loss realized. |
-| [RecipientAccount](recipientaccount) { get; set; } | Gets or sets the recipient account number. |
-| [RecipientAddress](recipientaddress) { get; set; } | Gets or sets the [`RecipientAddress`](./recipientaddress). |
-| [RecipientId](recipientid) { get; set; } | Gets or sets the recipient’s identification number. |
-| [SaleDate](saledate) { get; set; } | Gets or sets the date of sale. |
-| [StocksBonds](stocksbonds) { get; set; } | Gets or sets the [`StocksBonds`](./stocksbonds). |
-| [TINNotification](tinnotification) { get; set; } | Gets or sets the second TIN notification. |
-| [UnrealizeProfit](unrealizeprofit) { get; set; } | Gets or sets the unrealized profit or loss on open contracts in this tax year. |
-| [UnrealizeProfitPre](unrealizeprofitpre) { get; set; } | Gets or sets the unrealized profit or loss on open contracts in previous tax year. |
+| [AggregateProfit](../../aspose.finance.ofx.tax1099/tax1099b_v100/aggregateprofit) { get; set; } | Gets or sets the aggregate profit or loss. |
+| [Bartering](../../aspose.finance.ofx.tax1099/tax1099b_v100/bartering) { get; set; } | Gets or sets the bartering. |
+| [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | Gets or sets whether this is a corrected form. |
+| [CUSIPNumber](../../aspose.finance.ofx.tax1099/tax1099b_v100/cusipnumber) { get; set; } | Gets or sets the Committee on Uniform Security Identity Procedures number. |
+| [Description](../../aspose.finance.ofx.tax1099/tax1099b_v100/description) { get; set; } | Gets or sets the description. |
+| [ExtendedBInfo_V100](../../aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100) { get; set; } | Gets or sets the [`ExtendedBInfo_V100`](./extendedbinfo_v100). |
+| [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099b_v100/federaltaxwithheld) { get; set; } | Gets or sets the federal income tax withheld. |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/payeraddress) { get; set; } | Gets or sets the [`PayerAddress`](./payeraddress). |
+| [PayerId](../../aspose.finance.ofx.tax1099/tax1099b_v100/payerid) { get; set; } | Gets or sets the payer’s federal identification number. |
+| [Profit](../../aspose.finance.ofx.tax1099/tax1099b_v100/profit) { get; set; } | Gets or sets the profit or loss realized. |
+| [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaccount) { get; set; } | Gets or sets the recipient account number. |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaddress) { get; set; } | Gets or sets the [`RecipientAddress`](./recipientaddress). |
+| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientid) { get; set; } | Gets or sets the recipient’s identification number. |
+| [SaleDate](../../aspose.finance.ofx.tax1099/tax1099b_v100/saledate) { get; set; } | Gets or sets the date of sale. |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Gets or sets the ID assigned by host server to the form. |
+| [StocksBonds](../../aspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds) { get; set; } | Gets or sets the [`StocksBonds`](./stocksbonds). |
+| [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | Gets or sets the tax year of this form. |
+| [TINNotification](../../aspose.finance.ofx.tax1099/tax1099b_v100/tinnotification) { get; set; } | Gets or sets the second TIN notification. |
+| [UnrealizeProfit](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofit) { get; set; } | Gets or sets the unrealized profit or loss on open contracts in this tax year. |
+| [UnrealizeProfitPre](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofitpre) { get; set; } | Gets or sets the unrealized profit or loss on open contracts in previous tax year. |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | Gets or sets whether the form is void. |
 
 ### See Also
 

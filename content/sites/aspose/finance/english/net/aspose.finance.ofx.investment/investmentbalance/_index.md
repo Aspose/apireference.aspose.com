@@ -24,11 +24,11 @@ public class InvestmentBalance
 
 | Name | Description |
 | --- | --- |
-| [AvailableCash](availablecash) { get; set; } | Gets or sets the cash balance across all sub-accounts. Should include sweep funds. |
-| [BalanceList](balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
-| [BuyPower](buypower) { get; set; } | Gets or sets the buying power. |
-| [MarginBalance](marginbalance) { get; set; } | Gets or sets the margin balance. A positive balance indicates a positive cash balance, while a negative balance indicates the customer has borrowed funds. |
-| [ShortBalance](shortbalance) { get; set; } | Gets or sets the market value of all short positions. This is a positive balance. |
+| [AvailableCash](../../aspose.finance.ofx.investment/investmentbalance/availablecash) { get; set; } | Gets or sets the cash balance across all sub-accounts. Should include sweep funds. |
+| [BalanceList](../../aspose.finance.ofx.investment/investmentbalance/balancelist) { get; set; } | Gets or sets the collection of [`Balance`](../../aspose.finance.ofx/balance). |
+| [BuyPower](../../aspose.finance.ofx.investment/investmentbalance/buypower) { get; set; } | Gets or sets the buying power. |
+| [MarginBalance](../../aspose.finance.ofx.investment/investmentbalance/marginbalance) { get; set; } | Gets or sets the margin balance. A positive balance indicates a positive cash balance, while a negative balance indicates the customer has borrowed funds. |
+| [ShortBalance](../../aspose.finance.ofx.investment/investmentbalance/shortbalance) { get; set; } | Gets or sets the market value of all short positions. This is a positive balance. |
 
 ### See Also
 
