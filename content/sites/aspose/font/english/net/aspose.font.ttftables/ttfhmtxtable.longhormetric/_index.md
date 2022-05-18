@@ -18,8 +18,8 @@ public struct LongHorMetric
 
 | Name | Description |
 | --- | --- |
-| [AdvanceWidth](advancewidth) { get; } | Gets advance width value. |
-| [LeftSideBearing](leftsidebearing) { get; } | Gets left side bearing value. |
+| [AdvanceWidth](../../aspose.font.ttftables/longhormetric/advancewidth) { get; } | Gets advance width value. |
+| [LeftSideBearing](../../aspose.font.ttftables/longhormetric/leftsidebearing) { get; } | Gets left side bearing value. |
 
 ### See Also
 

@@ -18,20 +18,32 @@ public class TtfNameTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| static [Tag](../../aspose.font.ttftables/ttfnametable/tag) { get; } | Gets table tag. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetMultiLanguageNameById](getmultilanguagenamebyid)(NameId) | Returns a name by nameId. |
-| [GetNameById](getnamebyid)(NameId) | Returns a name by nameId if found, null otherwise |
+| [AddName](../../aspose.font.ttftables/ttfnametable/addname)(NameId, PlatformId, int, int, string) | Adds entry into the table. String data category to add is specified by *name* parameter. |
+| [GetAllNameRecords](../../aspose.font.ttftables/ttfnametable/getallnamerecords)() | Returns all [`NameRecord`](../ttfnametable.namerecord) structures from table |
+| [GetMultiLanguageNameById](../../aspose.font.ttftables/ttfnametable/getmultilanguagenamebyid)(NameId) | Returns a name by nameId. |
+| [GetNameById](../../aspose.font.ttftables/ttfnametable/getnamebyid)(NameId) | Returns a name by nameId if found, null otherwise |
+| [GetNameRecordsByNameId](../../aspose.font.ttftables/ttfnametable/getnamerecordsbynameid)(NameId) | Returns all [`NameRecord`](../ttfnametable.namerecord) structures which NameId field is equal to passed *nameId* value. If no records found, empty array will be returned. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
+| enum [MacLanguageId](ttfnametable.maclanguageid) | Macintosh platform language id enumeration. |
+| enum [MacPlatformSpecificId](ttfnametable.macplatformspecificid) | Represents Macintosh platform PlatformSpecificId enumeration. |
+| enum [MSLanguageId](ttfnametable.mslanguageid) | Microsoft platform language id enumeration. |
+| enum [MSPlatformSpecificId](ttfnametable.msplatformspecificid) | Represents Microsoft platform PlatformSpecificId enumeration. |
 | enum [NameId](ttfnametable.nameid) | Represents NameId. |
+| class [NameRecord](ttfnametable.namerecord) | Represents NameRecord structure of the 'name' table |
+| enum [PlatformId](ttfnametable.platformid) | Represents PlatformId enumeration. |
+| enum [UnicodePlatformSpecificId](ttfnametable.unicodeplatformspecificid) | Represents unicode platform-specific enumeration. |
 
 ### See Also
 

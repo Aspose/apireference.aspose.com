@@ -24,8 +24,8 @@ public class TtfEncodingParameters : IEncodingParameters
 
 | Name | Description |
 | --- | --- |
-| [PlatformId](platformid) { get; set; } | Gets or sets PlatformId value. |
-| [PlatformSpecificId](platformspecificid) { get; set; } | Gets or sets PlatformSpecificId value. |
+| [PlatformId](../../aspose.font.ttf/ttfencodingparameters/platformid) { get; set; } | Gets or sets PlatformId value. |
+| [PlatformSpecificId](../../aspose.font.ttf/ttfencodingparameters/platformspecificid) { get; set; } | Gets or sets PlatformSpecificId value. |
 
 ### See Also
 

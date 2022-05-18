@@ -3,7 +3,7 @@ title: GetAllStrings
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.font/multilanguagestring/getallstrings/
 ---
 ## MultiLanguageString.GetAllStrings method

@@ -18,8 +18,8 @@ public class CompositeGlyphComponent
 
 | Name | Description |
 | --- | --- |
-| [Glyph](glyph) { get; } | Gets the component glyph. |
-| [Matrix](matrix) { get; } | Gets the component transformation matrix. |
+| [Glyph](../../aspose.font.glyphs/compositeglyphcomponent/glyph) { get; } | Gets the component glyph. |
+| [Matrix](../../aspose.font.glyphs/compositeglyphcomponent/matrix) { get; } | Gets the component transformation matrix. |
 
 ### See Also
 

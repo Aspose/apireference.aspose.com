@@ -18,17 +18,19 @@ public class TtfHheaTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| [AdvanceWidthMax](advancewidthmax) { get; } | Gets uFWord advanceWidthMax must be consistent with horizontal metrics. |
-| [Ascent](ascent) { get; } | Gets the ascent. |
-| [CaretSlopeRise](caretsloperise) { get; } | Gets caret slop rise. |
-| [CaretSlopeRun](caretsloperun) { get; } | Gets caret slop run. |
-| [Descent](descent) { get; } | Gets the descent. |
-| [LineGap](linegap) { get; } | Gets the lineGap. |
-| [MinLeftSideBearing](minleftsidebearing) { get; } | Gets the MinLeftSideBearing value. |
-| [MinRightSideBearing](minrightsidebearing) { get; } | Gets the MinRightSideBearing value. |
-| [NumOfLongHorMetrics](numoflonghormetrics) { get; } | Gets uint16 numOfLongHorMetrics number of advance widths in metrics table. |
-| [XMaxExtent](xmaxextent) { get; } | Gets the XMaxExtent value. |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [AdvanceWidthMax](../../aspose.font.ttftables/ttfhheatable/advancewidthmax) { get; } | Gets uFWord advanceWidthMax must be consistent with horizontal metrics. |
+| [Ascent](../../aspose.font.ttftables/ttfhheatable/ascent) { get; } | Gets the ascent. |
+| [CaretSlopeRise](../../aspose.font.ttftables/ttfhheatable/caretsloperise) { get; } | Gets caret slop rise. |
+| [CaretSlopeRun](../../aspose.font.ttftables/ttfhheatable/caretsloperun) { get; } | Gets caret slop run. |
+| [Descent](../../aspose.font.ttftables/ttfhheatable/descent) { get; } | Gets the descent. |
+| [LineGap](../../aspose.font.ttftables/ttfhheatable/linegap) { get; } | Gets the lineGap. |
+| [MinLeftSideBearing](../../aspose.font.ttftables/ttfhheatable/minleftsidebearing) { get; } | Gets the MinLeftSideBearing value. |
+| [MinRightSideBearing](../../aspose.font.ttftables/ttfhheatable/minrightsidebearing) { get; } | Gets the MinRightSideBearing value. |
+| [NumOfLongHorMetrics](../../aspose.font.ttftables/ttfhheatable/numoflonghormetrics) { get; } | Gets uint16 numOfLongHorMetrics number of advance widths in metrics table. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| [XMaxExtent](../../aspose.font.ttftables/ttfhheatable/xmaxextent) { get; } | Gets the XMaxExtent value. |
+| static [Tag](../../aspose.font.ttftables/ttfhheatable/tag) { get; } | Gets table tag. |
 
 ### See Also
 

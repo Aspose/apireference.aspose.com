@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.font/multilanguagestring/op_inequality/
 ---
 ## MultiLanguageString Inequality operator (1 of 2)

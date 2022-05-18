@@ -3,7 +3,7 @@ title: Type1Font
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 980
+weight: 1050
 url: /net/aspose.font.type1/type1font/
 ---
 ## Type1Font class
@@ -18,28 +18,34 @@ public class Type1Font : Font
 
 | Name | Description |
 | --- | --- |
-| override [Encoding](encoding) { get; } | Gets Font encoding. |
-| override [FontDefinition](fontdefinition) { get; } | Gets Font definition. |
-| override [FontFamily](fontfamily) { get; set; } | Gets Font family. The Font family setter is not implemented yet. |
-| override [FontName](fontname) { get; set; } | Gets Font face name. The Font face name setter is not implemented yet. |
-| override [FontNames](fontnames) { get; } | Gets Font names. |
-| override [FontStyle](fontstyle) { get; } | Gets Font style. This is a value computed and represented in generalized type. |
-| override [FontType](fonttype) { get; } | Gets Font type. Returns FontType.Type1 value. |
-| override [GlyphIdType](glyphidtype) { get; } | Glyph id type specification. |
-| override [Metrics](metrics) { get; } | Gets Font metrics. |
-| override [NumGlyphs](numglyphs) { get; } | Gets number of glyphs in the Font. |
-| override [PostscriptNames](postscriptnames) { get; } | Gets postscript Font names. |
-| override [Style](style) { get; set; } | Gets Font style. This is a raw string value provided by Font file. The Style setter is not implemented yet. |
+| override [Encoding](../../aspose.font.type1/type1font/encoding) { get; } | Gets Font encoding. |
+| override [FontDefinition](../../aspose.font.type1/type1font/fontdefinition) { get; } | Gets Font definition. |
+| override [FontFamily](../../aspose.font.type1/type1font/fontfamily) { get; set; } | Gets Font family. The Font family setter is not implemented yet. |
+| override [FontName](../../aspose.font.type1/type1font/fontname) { get; set; } | Gets Font face name. The Font face name setter is not implemented yet. |
+| override [FontNames](../../aspose.font.type1/type1font/fontnames) { get; } | Gets Font names. |
+| [FontSaver](../../aspose.font/font/fontsaver) { get; } | Gets Font save functionality. |
+| override [FontStyle](../../aspose.font.type1/type1font/fontstyle) { get; } | Gets Font style. This is a value computed and represented in generalized type. |
+| override [FontType](../../aspose.font.type1/type1font/fonttype) { get; } | Gets Font type. Returns FontType.Type1 value. |
+| [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | Font glyph accessor. Retrieves glyphs and glyph identifiers. |
+| override [GlyphIdType](../../aspose.font.type1/type1font/glyphidtype) { get; } | Glyph id type specification. |
+| override [Metrics](../../aspose.font.type1/type1font/metrics) { get; } | Gets Font metrics. |
+| override [NumGlyphs](../../aspose.font.type1/type1font/numglyphs) { get; } | Gets number of glyphs in the Font. |
+| override [PostscriptNames](../../aspose.font.type1/type1font/postscriptnames) { get; } | Gets postscript Font names. |
+| override [Style](../../aspose.font.type1/type1font/style) { get; set; } | Gets Font style. This is a raw string value provided by Font file. The Style setter is not implemented yet. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Convert](convert)(FontType) | Converts the Font into another format. |
-| override [GetAllGlyphIds](getallglyphids)() | Returns array of all glyph ids, available in the Font. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
-| override [GetGlyphById](getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
-| virtual [GetGlyphById](getglyphbyid)(string) | Returns glyph by glyph id. |
-| [GetGlyphById](getglyphbyid)(uint) | Returns glyph by glyph id. |
+| override [Convert](../../aspose.font.type1/type1font/convert)(FontType) | Converts the Font into another format. |
+| override [GetAllGlyphIds](../../aspose.font.type1/type1font/getallglyphids)() | Returns array of all glyph ids, available in the Font. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
+| override [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
+| virtual [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(string) | Returns glyph by glyph id. |
+| [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(uint) | Returns glyph by glyph id. |
+| virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | Gets glyphs representation for text. |
+| virtual [Save](../../aspose.font/font/save)(Stream) | Saves the Font into original format. |
+| virtual [Save](../../aspose.font/font/save)(string) | Saves the Font into original format. |
+| [SaveToFormat](../../aspose.font/font/savetoformat)(Stream, FontSavingFormats) | Saves the Font into format specified. |
 
 ### See Also
 

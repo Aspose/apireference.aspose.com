@@ -3,7 +3,7 @@ title: Type1MetricFont
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 1000
+weight: 1070
 url: /net/aspose.font.type1/type1metricfont/
 ---
 ## Type1MetricFont class
@@ -18,20 +18,34 @@ public class Type1MetricFont : Type1Font
 
 | Name | Description |
 | --- | --- |
-| override [Encoding](encoding) { get; } | Encoding is defined in metrics file. StandardAdobeEncoding: the encoding is populated automatically |
-| override [FontFamily](fontfamily) { get; } | Gets Font family. |
-| override [FontName](fontname) { get; } | Gets Font name. |
-| override [FontStyle](fontstyle) { get; } | Gets Font style. This is a value computed and represented in generalized type. |
-| override [NumGlyphs](numglyphs) { get; } | Gets number of glyphs in the Font. |
-| override [Style](style) { get; } | Gets Font style. |
+| override [Encoding](../../aspose.font.type1/type1metricfont/encoding) { get; } | Encoding is defined in metrics file. StandardAdobeEncoding: the encoding is populated automatically |
+| override [FontDefinition](../../aspose.font.type1/type1font/fontdefinition) { get; } | Gets Font definition. |
+| override [FontFamily](../../aspose.font.type1/type1metricfont/fontfamily) { get; } | Gets Font family. |
+| override [FontName](../../aspose.font.type1/type1metricfont/fontname) { get; } | Gets Font name. |
+| override [FontNames](../../aspose.font.type1/type1font/fontnames) { get; } | Gets Font names. |
+| [FontSaver](../../aspose.font/font/fontsaver) { get; } | Gets Font save functionality. |
+| override [FontStyle](../../aspose.font.type1/type1metricfont/fontstyle) { get; } | Gets Font style. This is a value computed and represented in generalized type. |
+| override [FontType](../../aspose.font.type1/type1font/fonttype) { get; } | Gets Font type. Returns FontType.Type1 value. |
+| [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | Font glyph accessor. Retrieves glyphs and glyph identifiers. |
+| override [GlyphIdType](../../aspose.font.type1/type1font/glyphidtype) { get; } | Glyph id type specification. |
+| override [Metrics](../../aspose.font.type1/type1font/metrics) { get; } | Gets Font metrics. |
+| override [NumGlyphs](../../aspose.font.type1/type1metricfont/numglyphs) { get; } | Gets number of glyphs in the Font. |
+| override [PostscriptNames](../../aspose.font.type1/type1font/postscriptnames) { get; } | Gets postscript Font names. |
+| override [Style](../../aspose.font.type1/type1metricfont/style) { get; } | Gets Font style. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetAllGlyphIds](getallglyphids)() | Returns all glyph ids, available in the Font. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
-| override [GetGlyphById](getglyphbyid)(GlyphId) | Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
-| override [GetGlyphById](getglyphbyid)(string) | Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
+| override [Convert](../../aspose.font.type1/type1font/convert)(FontType) | Converts the Font into another format. |
+| override [GetAllGlyphIds](../../aspose.font.type1/type1metricfont/getallglyphids)() | Returns all glyph ids, available in the Font. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
+| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid)(GlyphId) | Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
+| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid)(string) | Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
+| [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(uint) | Returns glyph by glyph id. |
+| virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | Gets glyphs representation for text. |
+| virtual [Save](../../aspose.font/font/save)(Stream) | Saves the Font into original format. |
+| virtual [Save](../../aspose.font/font/save)(string) | Saves the Font into original format. |
+| [SaveToFormat](../../aspose.font/font/savetoformat)(Stream, FontSavingFormats) | Saves the Font into format specified. |
 
 ### Examples
 

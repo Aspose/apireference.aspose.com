@@ -18,10 +18,10 @@ public class FontBBox
 
 | Name | Description |
 | --- | --- |
-| [XMax](xmax) { get; } | Gets XMax value. |
-| [XMin](xmin) { get; } | Gets XMin value. |
-| [YMax](ymax) { get; } | Gets YMax value. |
-| [YMin](ymin) { get; } | Gets YMin value. |
+| [XMax](../../aspose.font/fontbbox/xmax) { get; } | Gets XMax value. |
+| [XMin](../../aspose.font/fontbbox/xmin) { get; } | Gets XMin value. |
+| [YMax](../../aspose.font/fontbbox/ymax) { get; } | Gets YMax value. |
+| [YMin](../../aspose.font/fontbbox/ymin) { get; } | Gets YMin value. |
 
 ### See Also
 

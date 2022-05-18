@@ -18,9 +18,9 @@ public interface IPathSegment : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Copy](copy)() | Creates copy of the segment object. |
-| [Shift](shift)(double, double) | Performs shift by x and y coordinates. |
-| [Transform](transform)(TransformationMatrix) | Transforms coordinates with the transformation matrix. |
+| [Copy](../../aspose.font.renderingpath/ipathsegment/copy)() | Creates copy of the segment object. |
+| [Shift](../../aspose.font.renderingpath/ipathsegment/shift)(double, double) | Performs shift by x and y coordinates. |
+| [Transform](../../aspose.font.renderingpath/ipathsegment/transform)(TransformationMatrix) | Transforms coordinates with the transformation matrix. |
 
 ### See Also
 

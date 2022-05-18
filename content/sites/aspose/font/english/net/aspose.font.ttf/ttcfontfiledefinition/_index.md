@@ -24,7 +24,11 @@ public class TtcFontFileDefinition : FontFileDefinition
 
 | Name | Description |
 | --- | --- |
-| [FontIndex](fontindex) { get; } | Gets Font index inside TTC Font. |
+| [FileExtension](../../aspose.font.sources/fontfiledefinition/fileextension) { get; } | Gets Font file extension. |
+| [FileName](../../aspose.font.sources/fontfiledefinition/filename) { get; } | Gets Font file name. |
+| [FontIndex](../../aspose.font.ttf/ttcfontfiledefinition/fontindex) { get; } | Gets Font index inside TTC Font. |
+| [Offset](../../aspose.font.sources/fontfiledefinition/offset) { get; } | Gets offset inside the stream. |
+| [StreamSource](../../aspose.font.sources/fontfiledefinition/streamsource) { get; } | Gets the stream source. |
 
 ### See Also
 

@@ -18,30 +18,30 @@ public interface IFontMetrics
 
 | Name | Description |
 | --- | --- |
-| [Ascender](ascender) { get; set; } | Gets ascender value of the Font in font units. |
-| [Descender](descender) { get; set; } | Gets descender value of the Font in font units. |
-| [FontBBox](fontbbox) { get; } | Gets Font bounding box. |
-| [FontMatrix](fontmatrix) { get; } | Gets Font transformation matrix. |
-| [IsFixedPitch](isfixedpitch) { get; } | True, if the Font is monospaced. |
-| [LineGap](linegap) { get; } | Gets LineGap value of the Font in Font units. |
-| [TypoAscender](typoascender) { get; set; } | Gets typographic ascender value of the Font in font units. |
-| [TypoDescender](typodescender) { get; set; } | Gets typographic descender value of the Font in Font units. |
-| [TypoLineGap](typolinegap) { get; } | Gets typographic LineGap value of the Font in Font units. |
-| [UnitsPerEM](unitsperem) { get; set; } | Gets units per em. |
+| [Ascender](../../aspose.font/ifontmetrics/ascender) { get; set; } | Gets ascender value of the Font in font units. |
+| [Descender](../../aspose.font/ifontmetrics/descender) { get; set; } | Gets descender value of the Font in font units. |
+| [FontBBox](../../aspose.font/ifontmetrics/fontbbox) { get; } | Gets Font bounding box. |
+| [FontMatrix](../../aspose.font/ifontmetrics/fontmatrix) { get; } | Gets Font transformation matrix. |
+| [IsFixedPitch](../../aspose.font/ifontmetrics/isfixedpitch) { get; } | True, if the Font is monospaced. |
+| [LineGap](../../aspose.font/ifontmetrics/linegap) { get; } | Gets LineGap value of the Font in Font units. |
+| [TypoAscender](../../aspose.font/ifontmetrics/typoascender) { get; set; } | Gets typographic ascender value of the Font in font units. |
+| [TypoDescender](../../aspose.font/ifontmetrics/typodescender) { get; set; } | Gets typographic descender value of the Font in Font units. |
+| [TypoLineGap](../../aspose.font/ifontmetrics/typolinegap) { get; } | Gets typographic LineGap value of the Font in Font units. |
+| [UnitsPerEM](../../aspose.font/ifontmetrics/unitsperem) { get; set; } | Gets units per em. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetAscender](getascender)(double) | Returns ascender for specific Font size. |
-| [GetDescender](getdescender)(double) | Returns descender for specific Font size. |
-| [GetGlyphBBox](getglyphbbox)(GlyphId) | Returns glyph BBox. |
-| [GetGlyphWidth](getglyphwidth)(GlyphId) | Returns glyph width. |
-| [GetKerningValue](getkerningvalue)(GlyphId, GlyphId) | Returns kerning value for the glyph pair. |
-| [GetTypoAscender](gettypoascender)(double) | Returns typographic ascender for specific Font size. |
-| [GetTypoDescender](gettypodescender)(double) | Returns typographic descender for specific Font size. |
-| [GetTypoLineGap](gettypolinegap)(double) | Returns line gap for specific Font size. |
-| [MeasureString](measurestring)(string, double) | Measures string and returns string width. |
+| [GetAscender](../../aspose.font/ifontmetrics/getascender)(double) | Returns ascender for specific Font size. |
+| [GetDescender](../../aspose.font/ifontmetrics/getdescender)(double) | Returns descender for specific Font size. |
+| [GetGlyphBBox](../../aspose.font/ifontmetrics/getglyphbbox)(GlyphId) | Returns glyph BBox. |
+| [GetGlyphWidth](../../aspose.font/ifontmetrics/getglyphwidth)(GlyphId) | Returns glyph width. |
+| [GetKerningValue](../../aspose.font/ifontmetrics/getkerningvalue)(GlyphId, GlyphId) | Returns kerning value for the glyph pair. |
+| [GetTypoAscender](../../aspose.font/ifontmetrics/gettypoascender)(double) | Returns typographic ascender for specific Font size. |
+| [GetTypoDescender](../../aspose.font/ifontmetrics/gettypodescender)(double) | Returns typographic descender for specific Font size. |
+| [GetTypoLineGap](../../aspose.font/ifontmetrics/gettypolinegap)(double) | Returns line gap for specific Font size. |
+| [MeasureString](../../aspose.font/ifontmetrics/measurestring)(string, double) | Measures string and returns string width. |
 
 ### See Also
 

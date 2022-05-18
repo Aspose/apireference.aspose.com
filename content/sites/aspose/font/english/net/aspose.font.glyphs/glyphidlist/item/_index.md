@@ -14,9 +14,9 @@ Returns glyph id by the index.
 public GlyphId this[int index] { get; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index |  | index of glyph in list |
+| Parameter | Description |
+| --- | --- |
+| index | index of glyph in list |
 
 ### See Also
 

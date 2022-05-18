@@ -18,7 +18,7 @@ public static class HelpersFactory
 
 | Name | Description |
 | --- | --- |
-| static [GetFontCharactersMerger](getfontcharactersmerger)(TtfFont, TtfFont) | Creates IFontCharactersMerger instance |
+| static [GetFontCharactersMerger](../../aspose.font.ttfhelpers/helpersfactory/getfontcharactersmerger)(TtfFont, TtfFont) | Creates IFontCharactersMerger instance |
 
 ### See Also
 

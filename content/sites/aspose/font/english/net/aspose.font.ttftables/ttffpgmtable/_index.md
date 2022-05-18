@@ -18,8 +18,10 @@ public class TtfFpgmTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| [Program](program) { get; } | Gets fpgm program. |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [Program](../../aspose.font.ttftables/ttffpgmtable/program) { get; } | Gets fpgm program. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| static [Tag](../../aspose.font.ttftables/ttffpgmtable/tag) { get; } | Gets table tag. |
 
 ### See Also
 

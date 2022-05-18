@@ -18,25 +18,25 @@ public interface IFont
 
 | Name | Description |
 | --- | --- |
-| [Encoding](encoding) { get; } | Gets Font encoding. |
-| [FontDefinition](fontdefinition) { get; } | Gets Font definition. |
-| [FontFamily](fontfamily) { get; set; } | Gets or Sets Font family. |
-| [FontName](fontname) { get; set; } | Gets or Sets Font face name. |
-| [FontNames](fontnames) { get; } | Gets Font names. |
-| [FontSaver](fontsaver) { get; } | Gets Font save functionality. |
-| [FontStyle](fontstyle) { get; } | Gets Font style. This is a value computed and represented in generalized type. |
-| [FontType](fonttype) { get; } | Gets Font type. |
-| [GlyphAccessor](glyphaccessor) { get; } | Gets Font glyph accessor. Retrieves glyphs and glyph identifiers. |
-| [Metrics](metrics) { get; } | Gets Font metrics. |
-| [NumGlyphs](numglyphs) { get; } | Gets number of glyphs in the Font. |
-| [PostscriptNames](postscriptnames) { get; } | Gets postscript Font names. |
-| [Style](style) { get; set; } | Gets or Sets Font style. This is a raw string value provided by Font file. |
+| [Encoding](../../aspose.font/ifont/encoding) { get; } | Gets Font encoding. |
+| [FontDefinition](../../aspose.font/ifont/fontdefinition) { get; } | Gets Font definition. |
+| [FontFamily](../../aspose.font/ifont/fontfamily) { get; set; } | Gets or Sets Font family. |
+| [FontName](../../aspose.font/ifont/fontname) { get; set; } | Gets or Sets Font face name. |
+| [FontNames](../../aspose.font/ifont/fontnames) { get; } | Gets Font names. |
+| [FontSaver](../../aspose.font/ifont/fontsaver) { get; } | Gets Font save functionality. |
+| [FontStyle](../../aspose.font/ifont/fontstyle) { get; } | Gets Font style. This is a value computed and represented in generalized type. |
+| [FontType](../../aspose.font/ifont/fonttype) { get; } | Gets Font type. |
+| [GlyphAccessor](../../aspose.font/ifont/glyphaccessor) { get; } | Gets Font glyph accessor. Retrieves glyphs and glyph identifiers. |
+| [Metrics](../../aspose.font/ifont/metrics) { get; } | Gets Font metrics. |
+| [NumGlyphs](../../aspose.font/ifont/numglyphs) { get; } | Gets number of glyphs in the Font. |
+| [PostscriptNames](../../aspose.font/ifont/postscriptnames) { get; } | Gets postscript Font names. |
+| [Style](../../aspose.font/ifont/style) { get; set; } | Gets or Sets Font style. This is a raw string value provided by Font file. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Convert](convert)(FontType) | Converts the Font into another format. |
+| [Convert](../../aspose.font/ifont/convert)(FontType) | Converts the Font into another format. |
 
 ### See Also
 

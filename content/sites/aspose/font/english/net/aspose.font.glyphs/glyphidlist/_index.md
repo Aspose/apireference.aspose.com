@@ -18,16 +18,16 @@ public class GlyphIdList : List<GlyphId>
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Returns glyph id by the index. |
+| [Item](../../aspose.font.glyphs/glyphidlist/item) { get; } | Returns glyph id by the index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(GlyphId) | Adds glyph id to the list. |
-| [Clear](clear)() | Clears the list. |
-| [Contains](contains)(GlyphId) | Returns true in case glyph id is in the list. |
-| [Remove](remove)(GlyphId) | Removes glyph id from the list. |
+| [Add](../../aspose.font.glyphs/glyphidlist/add)(GlyphId) | Adds glyph id to the list. |
+| [Clear](../../aspose.font.glyphs/glyphidlist/clear)() | Clears the list. |
+| [Contains](../../aspose.font.glyphs/glyphidlist/contains)(GlyphId) | Returns true in case glyph id is in the list. |
+| [Remove](../../aspose.font.glyphs/glyphidlist/remove)(GlyphId) | Removes glyph id from the list. |
 
 ### See Also
 

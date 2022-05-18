@@ -18,17 +18,17 @@ public class LineTo : IPathSegment
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; } | Gets coordinate x. |
-| [Y](y) { get; } | Gets coordinate y. |
+| [X](../../aspose.font.renderingpath/lineto/x) { get; } | Gets coordinate x. |
+| [Y](../../aspose.font.renderingpath/lineto/y) { get; } | Gets coordinate y. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates a new object that is a copy of the current instance. |
-| [Copy](copy)() | Creates copy of the segment object. |
-| [Shift](shift)(double, double) | Performs shift by x and y coordinates. |
-| [Transform](transform)(TransformationMatrix) | Transforms coordinates with the transformation matrix. |
+| [Clone](../../aspose.font.renderingpath/lineto/clone)() | Creates a new object that is a copy of the current instance. |
+| [Copy](../../aspose.font.renderingpath/lineto/copy)() | Creates copy of the segment object. |
+| [Shift](../../aspose.font.renderingpath/lineto/shift)(double, double) | Performs shift by x and y coordinates. |
+| [Transform](../../aspose.font.renderingpath/lineto/transform)(TransformationMatrix) | Transforms coordinates with the transformation matrix. |
 
 ### See Also
 

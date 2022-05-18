@@ -24,15 +24,15 @@ public abstract class StreamSource
 
 | Name | Description |
 | --- | --- |
-| [Offset](offset) { get; set; } | Gets or sets offset inside the source. |
+| [Offset](../../aspose.font.sources/streamsource/offset) { get; set; } | Gets or sets offset inside the source. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Clone](clone)() | Clones the stream source object. |
-| abstract [GetFontStream](getfontstream)() | Returns Font stream. |
-| virtual [MustCloseAfterUse](mustcloseafteruse)() | The inheritors may prevent stream from closing. Returns true if the stream source wants the stream to be closed after use. Otherwise returns false. |
+| abstract [Clone](../../aspose.font.sources/streamsource/clone)() | Clones the stream source object. |
+| abstract [GetFontStream](../../aspose.font.sources/streamsource/getfontstream)() | Returns Font stream. |
+| virtual [MustCloseAfterUse](../../aspose.font.sources/streamsource/mustcloseafteruse)() | The inheritors may prevent stream from closing. Returns true if the stream source wants the stream to be closed after use. Otherwise returns false. |
 
 ### See Also
 

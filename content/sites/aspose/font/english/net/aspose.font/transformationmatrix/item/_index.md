@@ -14,9 +14,9 @@ Provides access to underlying array.
 public double this[int index] { get; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index |  | Index in transformation matrix array. |
+| Parameter | Description |
+| --- | --- |
+| index | Index in transformation matrix array. |
 
 ### See Also
 

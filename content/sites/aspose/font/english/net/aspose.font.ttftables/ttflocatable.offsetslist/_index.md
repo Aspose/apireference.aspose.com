@@ -18,8 +18,8 @@ public class OffsetsList
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets glyph offsets count. |
-| [Item](item) { get; } | Gets offset by index. |
+| [Count](../../aspose.font.ttftables/offsetslist/count) { get; } | Gets glyph offsets count. |
+| [Item](../../aspose.font.ttftables/offsetslist/item) { get; } | Gets offset by index. |
 
 ### See Also
 

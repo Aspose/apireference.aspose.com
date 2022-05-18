@@ -33,19 +33,19 @@ public class FontDefinition
 
 | Name | Description |
 | --- | --- |
-| [FileDefinitions](filedefinitions) { get; } | Gets file definitions collection. |
-| virtual [FontName](fontname) { get; } | Returns Font name. |
-| virtual [FontNames](fontnames) { get; } | Gets Font names as a [`MultiLanguageString`](../../aspose.font/multilanguagestring). |
-| [FontType](fonttype) { get; } | Gets Font type. |
-| virtual [PostscriptName](postscriptname) { get; } | Gets postscript Font name. |
-| [PostscriptNames](postscriptnames) { get; } | Gets postscript Font names as a [`MultiLanguageString`](../../aspose.font/multilanguagestring). |
+| [FileDefinitions](../../aspose.font.sources/fontdefinition/filedefinitions) { get; } | Gets file definitions collection. |
+| virtual [FontName](../../aspose.font.sources/fontdefinition/fontname) { get; } | Returns Font name. |
+| virtual [FontNames](../../aspose.font.sources/fontdefinition/fontnames) { get; } | Gets Font names as a [`MultiLanguageString`](../../aspose.font/multilanguagestring). |
+| [FontType](../../aspose.font.sources/fontdefinition/fonttype) { get; } | Gets Font type. |
+| virtual [PostscriptName](../../aspose.font.sources/fontdefinition/postscriptname) { get; } | Gets postscript Font name. |
+| [PostscriptNames](../../aspose.font.sources/fontdefinition/postscriptnames) { get; } | Gets postscript Font names as a [`MultiLanguageString`](../../aspose.font/multilanguagestring). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Open](open)(StreamSource, FontType) | Returns FontDefinition for font stream source and font type. |
-| static [Open](open)(string, FontType) | Returns FontDefinition for font file and font type. |
+| static [Open](../../aspose.font.sources/fontdefinition/open)(StreamSource, FontType) | Returns FontDefinition for font stream source and font type. |
+| static [Open](../../aspose.font.sources/fontdefinition/open)(string, FontType) | Returns FontDefinition for font file and font type. |
 
 ### See Also
 

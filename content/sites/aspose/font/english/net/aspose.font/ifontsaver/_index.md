@@ -18,9 +18,9 @@ public interface IFontSaver
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(Stream) | Saves the Font into original format. |
-| [Save](save)(string) | Saves the Font into original format. |
-| [SaveToFormat](savetoformat)(Stream, FontSavingFormats) | Saves the Font into format specified. |
+| [Save](../../aspose.font/ifontsaver/save)(Stream) | Saves the Font into original format. |
+| [Save](../../aspose.font/ifontsaver/save)(string) | Saves the Font into original format. |
+| [SaveToFormat](../../aspose.font/ifontsaver/savetoformat)(Stream, FontSavingFormats) | Saves the Font into format specified. |
 
 ### See Also
 

@@ -14,9 +14,9 @@ Gets metrics by glyph index.
 public LongHorMetric this[int glyphIndex] { get; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| glyphIndex |  | Glyph index to get metrics for. |
+| Parameter | Description |
+| --- | --- |
+| glyphIndex | Glyph index to get metrics for. |
 
 ## Return Value
 

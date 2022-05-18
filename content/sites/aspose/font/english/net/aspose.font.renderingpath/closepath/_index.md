@@ -18,17 +18,17 @@ public class ClosePath : IPathSegment
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; } | Gets coordinate x. |
-| [Y](y) { get; } | Gets coordinate y. |
+| [X](../../aspose.font.renderingpath/closepath/x) { get; } | Gets coordinate x. |
+| [Y](../../aspose.font.renderingpath/closepath/y) { get; } | Gets coordinate y. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates a new object that is a copy of the current instance. |
-| [Copy](copy)() | Creates copy of the segment object. |
-| [Shift](shift)(double, double) | Performs shift by x and y coordinates. |
-| [Transform](transform)(TransformationMatrix) | Transforms coordinates with the transformation matrix. |
+| [Clone](../../aspose.font.renderingpath/closepath/clone)() | Creates a new object that is a copy of the current instance. |
+| [Copy](../../aspose.font.renderingpath/closepath/copy)() | Creates copy of the segment object. |
+| [Shift](../../aspose.font.renderingpath/closepath/shift)(double, double) | Performs shift by x and y coordinates. |
+| [Transform](../../aspose.font.renderingpath/closepath/transform)(TransformationMatrix) | Transforms coordinates with the transformation matrix. |
 
 ### See Also
 

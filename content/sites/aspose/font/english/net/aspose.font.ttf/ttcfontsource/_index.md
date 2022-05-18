@@ -25,7 +25,7 @@ public class TtcFontSource
 
 | Name | Description |
 | --- | --- |
-| [GetFontDefinitions](getfontdefinitions)() | Returns Font definition array of the TTC Font source. |
+| [GetFontDefinitions](../../aspose.font.ttf/ttcfontsource/getfontdefinitions)() | Returns Font definition array of the TTC Font source. |
 
 ### See Also
 

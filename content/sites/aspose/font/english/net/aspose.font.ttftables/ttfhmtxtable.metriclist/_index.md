@@ -18,8 +18,8 @@ public class MetricList
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets metrics count. |
-| [Item](item) { get; } | Gets metrics by glyph index. |
+| [Count](../../aspose.font.ttftables/metriclist/count) { get; } | Gets metrics count. |
+| [Item](../../aspose.font.ttftables/metriclist/item) { get; } | Gets metrics by glyph index. |
 
 ### See Also
 

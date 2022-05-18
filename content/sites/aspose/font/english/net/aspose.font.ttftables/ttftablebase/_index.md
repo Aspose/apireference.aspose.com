@@ -3,7 +3,7 @@ title: TtfTableBase
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 940
+weight: 1010
 url: /net/aspose.font.ttftables/ttftablebase/
 ---
 ## TtfTableBase class
@@ -18,8 +18,8 @@ public class TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| [Offset](offset) { get; } | Gets offset from beginning of sfnt. |
-| [TtfTables](ttftables) { get; } | Reference to TTF table repository. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
 
 ### See Also
 

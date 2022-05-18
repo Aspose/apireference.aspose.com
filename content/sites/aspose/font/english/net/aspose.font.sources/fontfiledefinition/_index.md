@@ -27,10 +27,10 @@ public class FontFileDefinition
 
 | Name | Description |
 | --- | --- |
-| [FileExtension](fileextension) { get; } | Gets Font file extension. |
-| [FileName](filename) { get; } | Gets Font file name. |
-| [Offset](offset) { get; } | Gets offset inside the stream. |
-| [StreamSource](streamsource) { get; } | Gets the stream source. |
+| [FileExtension](../../aspose.font.sources/fontfiledefinition/fileextension) { get; } | Gets Font file extension. |
+| [FileName](../../aspose.font.sources/fontfiledefinition/filename) { get; } | Gets Font file name. |
+| [Offset](../../aspose.font.sources/fontfiledefinition/offset) { get; } | Gets offset inside the stream. |
+| [StreamSource](../../aspose.font.sources/fontfiledefinition/streamsource) { get; } | Gets the stream source. |
 
 ### See Also
 

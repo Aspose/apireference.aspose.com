@@ -18,21 +18,21 @@ public class Glyph : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [GlyphBBox](glyphbbox) { get; } | Gets glyph BBox. |
-| [IsEmpty](isempty) { get; } | True if the glyph doesn't contain drawing instructions. |
-| [LeftSidebearingX](leftsidebearingx) { get; } | Gets glyph side bearing x coordinate. |
-| [LeftSidebearingY](leftsidebearingy) { get; } | Gets glyph side bearing y coordinate. |
-| virtual [Path](path) { get; } | Gets glyph path. |
-| [SourceResolution](sourceresolution) { get; } | Gets resolution of the source command set. |
-| [State](state) { get; } | Gets glyph state. |
-| [WidthVectorX](widthvectorx) { get; } | Gets glyph width vector. Coordinate x. |
-| [WidthVectorY](widthvectory) { get; } | Gets glyph width vector. Coordinate y. |
+| [GlyphBBox](../../aspose.font.glyphs/glyph/glyphbbox) { get; } | Gets glyph BBox. |
+| [IsEmpty](../../aspose.font.glyphs/glyph/isempty) { get; } | True if the glyph doesn't contain drawing instructions. |
+| [LeftSidebearingX](../../aspose.font.glyphs/glyph/leftsidebearingx) { get; } | Gets glyph side bearing x coordinate. |
+| [LeftSidebearingY](../../aspose.font.glyphs/glyph/leftsidebearingy) { get; } | Gets glyph side bearing y coordinate. |
+| virtual [Path](../../aspose.font.glyphs/glyph/path) { get; } | Gets glyph path. |
+| [SourceResolution](../../aspose.font.glyphs/glyph/sourceresolution) { get; } | Gets resolution of the source command set. |
+| [State](../../aspose.font.glyphs/glyph/state) { get; } | Gets glyph state. |
+| [WidthVectorX](../../aspose.font.glyphs/glyph/widthvectorx) { get; } | Gets glyph width vector. Coordinate x. |
+| [WidthVectorY](../../aspose.font.glyphs/glyph/widthvectory) { get; } | Gets glyph width vector. Coordinate y. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Clone](clone)() | Returns copy of glyph. |
+| virtual [Clone](../../aspose.font.glyphs/glyph/clone)() | Returns copy of glyph. |
 
 ### See Also
 

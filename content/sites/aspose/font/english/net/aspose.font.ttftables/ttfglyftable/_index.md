@@ -18,14 +18,16 @@ public class TtfGlyfTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| static [Tag](../../aspose.font.ttftables/ttfglyftable/tag) { get; } | Gets table tag. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [ContainsGlyph](containsglyph)(int) | Returns true in case the table contains glyph with glyphIndex. |
-| virtual [GetGlyph](getglyph)(uint) | Returns a glyph by glyph index. |
+| virtual [ContainsGlyph](../../aspose.font.ttftables/ttfglyftable/containsglyph)(int) | Returns true in case the table contains glyph with glyphIndex. |
+| virtual [GetGlyph](../../aspose.font.ttftables/ttfglyftable/getglyph)(uint) | Returns a glyph by glyph index. |
 
 ### See Also
 

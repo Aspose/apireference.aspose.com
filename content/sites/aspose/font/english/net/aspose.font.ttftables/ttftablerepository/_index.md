@@ -3,7 +3,7 @@ title: TtfTableRepository
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 950
+weight: 1020
 url: /net/aspose.font.ttftables/ttftablerepository/
 ---
 ## TtfTableRepository class
@@ -18,20 +18,20 @@ public class TtfTableRepository
 
 | Name | Description |
 | --- | --- |
-| [CffTable](cfftable) { get; } | Gets cff table. |
-| [CMapTable](cmaptable) { get; } | Gets CMap table. |
-| [CvtTable](cvttable) { get; } | Gets cvt table. |
-| [FpgmTable](fpgmtable) { get; } | Gets fpgm table. |
-| [GlyfTable](glyftable) { get; } | Gets glyf table. |
-| [HeadTable](headtable) { get; } | Gets head table. |
-| [HheaTable](hheatable) { get; } | Gets hhea table. |
-| [HmtxTable](hmtxtable) { get; } | Gets hmtx table. |
-| [LocaTable](locatable) { get; } | Gets loca table. |
-| [MaxpTable](maxptable) { get; } | Gets maxp table. |
-| [NameTable](nametable) { get; } | Gets name table. |
-| [Os2Table](os2table) { get; } | Gets OS/2 table. |
-| [PostTable](posttable) { get; } | Gets post table. |
-| [PrepTable](preptable) { get; } | Gets prep table. |
+| [CffTable](../../aspose.font.ttftables/ttftablerepository/cfftable) { get; } | Gets cff table. |
+| [CMapTable](../../aspose.font.ttftables/ttftablerepository/cmaptable) { get; } | Gets CMap table. |
+| [CvtTable](../../aspose.font.ttftables/ttftablerepository/cvttable) { get; } | Gets cvt table. |
+| [FpgmTable](../../aspose.font.ttftables/ttftablerepository/fpgmtable) { get; } | Gets fpgm table. |
+| [GlyfTable](../../aspose.font.ttftables/ttftablerepository/glyftable) { get; } | Gets glyf table. |
+| [HeadTable](../../aspose.font.ttftables/ttftablerepository/headtable) { get; } | Gets head table. |
+| [HheaTable](../../aspose.font.ttftables/ttftablerepository/hheatable) { get; } | Gets hhea table. |
+| [HmtxTable](../../aspose.font.ttftables/ttftablerepository/hmtxtable) { get; } | Gets hmtx table. |
+| [LocaTable](../../aspose.font.ttftables/ttftablerepository/locatable) { get; } | Gets loca table. |
+| [MaxpTable](../../aspose.font.ttftables/ttftablerepository/maxptable) { get; } | Gets maxp table. |
+| [NameTable](../../aspose.font.ttftables/ttftablerepository/nametable) { get; } | Gets name table. |
+| [Os2Table](../../aspose.font.ttftables/ttftablerepository/os2table) { get; } | Gets OS/2 table. |
+| [PostTable](../../aspose.font.ttftables/ttftablerepository/posttable) { get; } | Gets post table. |
+| [PrepTable](../../aspose.font.ttftables/ttftablerepository/preptable) { get; } | Gets prep table. |
 
 ### See Also
 

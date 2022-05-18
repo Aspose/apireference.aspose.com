@@ -18,15 +18,15 @@ public class CffEncoding : IFontEncoding, ISupportsNameAddressing
 
 | Name | Description |
 | --- | --- |
-| [DecodeToGid](decodetogid)(uint) | Gets Gid for charCode passed. This method designed for a CFF CIDFonts, where charCode must be a valid CID value. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
-| [DecodeToGidParameterized](decodetogidparameterized)(IEncodingParameters, uint) | Parameterized decode method. Not supported for CFF Font type. |
-| [Encode](encode)(uint, uint) | Encodes the glyph. Not supported for CFF Font types. |
-| [GetNameToCharCodeIndex](getnametocharcodeindex)() | Returns name to character code encoding map. Note: character code is not a unicode. Character code is a char index in Font encoding "table". |
-| [GetNameToGidIndex](getnametogidindex)() | Returns name to character code encoding map. Note: Character code is not a unicode. Character code is a char index in Font encoding "table". |
-| [GetNameToSidIndex](getnametosidindex)() | Returns name to character code encoding map. Note: Character code is not a unicode. Character code is a char index in Font encoding "table". |
-| [GetSidName](getsidname)(int) | Gets name for the SID specified. |
-| [GidToUnicode](gidtounicode)(GlyphId) | Decodes Gid to unicode. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
-| [UnicodeToGid](unicodetogid)(uint) | Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
+| [DecodeToGid](../../aspose.font.cff/cffencoding/decodetogid)(uint) | Gets Gid for charCode passed. This method designed for a CFF CIDFonts, where charCode must be a valid CID value. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
+| [DecodeToGidParameterized](../../aspose.font.cff/cffencoding/decodetogidparameterized)(IEncodingParameters, uint) | Parameterized decode method. Not supported for CFF Font type. |
+| [Encode](../../aspose.font.cff/cffencoding/encode)(uint, uint) | Encodes the glyph. Not supported for CFF Font types. |
+| [GetNameToCharCodeIndex](../../aspose.font.cff/cffencoding/getnametocharcodeindex)() | Returns name to character code encoding map. Note: character code is not a unicode. Character code is a char index in Font encoding "table". |
+| [GetNameToGidIndex](../../aspose.font.cff/cffencoding/getnametogidindex)() | Returns name to character code encoding map. Note: Character code is not a unicode. Character code is a char index in Font encoding "table". |
+| [GetNameToSidIndex](../../aspose.font.cff/cffencoding/getnametosidindex)() | Returns name to character code encoding map. Note: Character code is not a unicode. Character code is a char index in Font encoding "table". |
+| [GetSidName](../../aspose.font.cff/cffencoding/getsidname)(int) | Gets name for the SID specified. |
+| [GidToUnicode](../../aspose.font.cff/cffencoding/gidtounicode)(GlyphId) | Decodes Gid to unicode. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
+| [UnicodeToGid](../../aspose.font.cff/cffencoding/unicodetogid)(uint) | Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
 
 ### See Also
 

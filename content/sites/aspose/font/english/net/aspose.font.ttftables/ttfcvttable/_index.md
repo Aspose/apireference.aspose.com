@@ -18,8 +18,10 @@ public class TtfCvtTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| [ControlValues](controlvalues) { get; } | Gets list of values referenceable by instructions. |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [ControlValues](../../aspose.font.ttftables/ttfcvttable/controlvalues) { get; } | Gets list of values referenceable by instructions. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| static [Tag](../../aspose.font.ttftables/ttfcvttable/tag) { get; } | Gets table tag. |
 
 ### See Also
 

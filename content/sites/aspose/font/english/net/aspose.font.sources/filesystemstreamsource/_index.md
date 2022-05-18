@@ -24,14 +24,16 @@ public class FileSystemStreamSource : StreamSource
 
 | Name | Description |
 | --- | --- |
-| [FileName](filename) { get; set; } | Gets or sets file name. |
+| [FileName](../../aspose.font.sources/filesystemstreamsource/filename) { get; set; } | Gets or sets file name. |
+| [Offset](../../aspose.font.sources/streamsource/offset) { get; set; } | Gets or sets offset inside the source. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](clone)() | Clones the FileSystemStreamSource object. |
-| override [GetFontStream](getfontstream)() | Returns font file stream. Don't forget to close the stream after use. |
+| override [Clone](../../aspose.font.sources/filesystemstreamsource/clone)() | Clones the FileSystemStreamSource object. |
+| override [GetFontStream](../../aspose.font.sources/filesystemstreamsource/getfontstream)() | Returns font file stream. Don't forget to close the stream after use. |
+| virtual [MustCloseAfterUse](../../aspose.font.sources/streamsource/mustcloseafteruse)() | The inheritors may prevent stream from closing. Returns true if the stream source wants the stream to be closed after use. Otherwise returns false. |
 
 ### See Also
 

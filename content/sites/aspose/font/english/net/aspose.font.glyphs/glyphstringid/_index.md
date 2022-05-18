@@ -24,17 +24,18 @@ public class GlyphStringId : GlyphId
 
 | Name | Description |
 | --- | --- |
-| static [NotDefId](notdefid) { get; } | Gets not default value. |
-| [Value](value) { get; set; } | Gets or sets string value. |
+| static [NotDefId](../../aspose.font.glyphs/glyphstringid/notdefid) { get; } | Gets not default value. |
+| [Value](../../aspose.font.glyphs/glyphstringid/value) { get; set; } | Gets or sets string value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Returns true if string IDs are equal. |
-| override [GetHashCode](gethashcode)() | GetHashCode implementation. |
-| override [ToGlyphStringId](toglyphstringid)() | Cast GlyphId to GlyphStringId |
-| override [ToString](tostring)() | Returns string value the glyph id. |
+| override [Equals](../../aspose.font.glyphs/glyphstringid/equals)(object) | Returns true if string IDs are equal. |
+| override [GetHashCode](../../aspose.font.glyphs/glyphstringid/gethashcode)() | GetHashCode implementation. |
+| override [ToGlyphStringId](../../aspose.font.glyphs/glyphstringid/toglyphstringid)() | Cast GlyphId to GlyphStringId |
+| virtual [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphid/toglyphuint32id)() | Virtual cast to GlyphUInt32Id. GlyphUInt32Id overrides to return instance. |
+| override [ToString](../../aspose.font.glyphs/glyphstringid/tostring)() | Returns string value the glyph id. |
 
 ### See Also
 

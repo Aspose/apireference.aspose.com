@@ -18,12 +18,12 @@ public interface IGlyphRenderer
 
 | Name | Description |
 | --- | --- |
-| [RenderGlyph](renderglyph)(IFont, GlyphId) | Renders glyph. |
-| [RenderGlyph](renderglyph)(IFont, uint) | Renders glyph. |
-| [RenderGlyph](renderglyph)(IFont, GlyphId, TransformationMatrix) | Renders glyph. |
-| [RenderGlyph](renderglyph)(IFont, uint, TransformationMatrix) | Renders glyph. |
-| [RenderGlyph](renderglyph)(IFont, GlyphId, Glyph, TransformationMatrix) | Renders glyph, an objective of this overloaded version - to be used with cache for glyphs. |
-| [RenderIndependentGlyphPath](renderindependentglyphpath)(IFont, GlyphId, Glyph, TransformationMatrix) | Renders glyph using independent glyph path. RenderGlyph() function family changes glyph path on rendering. It then leads to necessity reload this glyph again. This function uses copy of glyph path and doesn't changes original glyph path, so the same glyph could be reused multiple times. This version of function is intended for use with cache of glyphs. |
+| [RenderGlyph](../../aspose.font.renderers/iglyphrenderer/renderglyph)(IFont, GlyphId) | Renders glyph. |
+| [RenderGlyph](../../aspose.font.renderers/iglyphrenderer/renderglyph)(IFont, uint) | Renders glyph. |
+| [RenderGlyph](../../aspose.font.renderers/iglyphrenderer/renderglyph)(IFont, GlyphId, TransformationMatrix) | Renders glyph. |
+| [RenderGlyph](../../aspose.font.renderers/iglyphrenderer/renderglyph)(IFont, uint, TransformationMatrix) | Renders glyph. |
+| [RenderGlyph](../../aspose.font.renderers/iglyphrenderer/renderglyph)(IFont, GlyphId, Glyph, TransformationMatrix) | Renders glyph, an objective of this overloaded version - to be used with cache for glyphs. |
+| [RenderIndependentGlyphPath](../../aspose.font.renderers/iglyphrenderer/renderindependentglyphpath)(IFont, GlyphId, Glyph, TransformationMatrix) | Renders glyph using independent glyph path. RenderGlyph() function family changes glyph path on rendering. It then leads to necessity reload this glyph again. This function uses copy of glyph path and doesn't changes original glyph path, so the same glyph could be reused multiple times. This version of function is intended for use with cache of glyphs. |
 
 ### See Also
 

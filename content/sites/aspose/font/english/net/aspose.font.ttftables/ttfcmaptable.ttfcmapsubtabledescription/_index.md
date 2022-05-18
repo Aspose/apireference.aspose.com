@@ -18,9 +18,9 @@ public abstract class TtfCMapSubtableDescription
 
 | Name | Description |
 | --- | --- |
-| [Format](format) { get; } | Gets subtable format. |
-| [PlatformId](platformid) { get; } | Gets platform id. |
-| [PlatformSpecificId](platformspecificid) { get; } | Gets platform-specific encoding id. |
+| [Format](../../aspose.font.ttftables/ttfcmapsubtabledescription/format) { get; } | Gets subtable format. |
+| [PlatformId](../../aspose.font.ttftables/ttfcmapsubtabledescription/platformid) { get; } | Gets platform id. |
+| [PlatformSpecificId](../../aspose.font.ttftables/ttfcmapsubtabledescription/platformspecificid) { get; } | Gets platform-specific encoding id. |
 
 ### See Also
 

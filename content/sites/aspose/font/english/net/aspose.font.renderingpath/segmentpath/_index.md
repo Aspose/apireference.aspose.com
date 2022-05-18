@@ -18,13 +18,13 @@ public class SegmentPath : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Segments](segments) { get; } | Gets path segments. |
+| [Segments](../../aspose.font.renderingpath/segmentpath/segments) { get; } | Gets path segments. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones Path. |
+| [Clone](../../aspose.font.renderingpath/segmentpath/clone)() | Clones Path. |
 
 ### See Also
 

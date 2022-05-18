@@ -3,7 +3,7 @@ title: FontSpecificEncodings
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 960
+weight: 1030
 url: /net/aspose.font.type1/fontspecificencodings/
 ---
 ## FontSpecificEncodings class
@@ -18,7 +18,7 @@ public class FontSpecificEncodings
 
 | Name | Description |
 | --- | --- |
-| [RegisterEncoding](registerencoding)(string, string[]) | Register encoding for consumer-aware Fonts. |
+| [RegisterEncoding](../../aspose.font.type1/fontspecificencodings/registerencoding)(string, string[]) | Register encoding for consumer-aware Fonts. |
 
 ### See Also
 

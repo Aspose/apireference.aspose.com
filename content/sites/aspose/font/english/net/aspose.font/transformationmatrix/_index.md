@@ -25,24 +25,24 @@ public class TransformationMatrix : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | Gets or sets A transformation matrix value. |
-| [B](b) { get; set; } | Gets or sets B transformation matrix value. |
-| [C](c) { get; set; } | Gets or sets C transformation matrix value. |
-| [D](d) { get; set; } | Gets or sets D transformation matrix value. |
-| [Item](item) { get; } | Provides access to underlying array. |
-| [TX](tx) { get; set; } | Gets or sets TX transformation matrix value. |
-| [TY](ty) { get; set; } | Gets or sets TY transformation matrix value. |
+| [A](../../aspose.font/transformationmatrix/a) { get; set; } | Gets or sets A transformation matrix value. |
+| [B](../../aspose.font/transformationmatrix/b) { get; set; } | Gets or sets B transformation matrix value. |
+| [C](../../aspose.font/transformationmatrix/c) { get; set; } | Gets or sets C transformation matrix value. |
+| [D](../../aspose.font/transformationmatrix/d) { get; set; } | Gets or sets D transformation matrix value. |
+| [Item](../../aspose.font/transformationmatrix/item) { get; } | Provides access to underlying array. |
+| [TX](../../aspose.font/transformationmatrix/tx) { get; set; } | Gets or sets TX transformation matrix value. |
+| [TY](../../aspose.font/transformationmatrix/ty) { get; set; } | Gets or sets TY transformation matrix value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Multiply](multiply)(TransformationMatrix) | Multiplies with another transformation matrix. Doesn't change original transformation matrix, returns a new TransformationMatrix object. |
-| [Scale](scale)(double, double, out double, out double) | Scales x and y with the transformation matrix: x1 = A*x + C*y; y1 = B*x + D*y. |
-| [ToArray](toarray)() | Allocates new array, copies the transformation matrix and returns it. |
-| [Transform](transform)(double, double, out double, out double) | Transforms x and y with the transformation matrix: x1 = A*x + C*y + TX; y1 = B*x + D*y + TY. |
-| [UnScale](unscale)(double, double, out double, out double) | Scales back x1 and y1 and returns x and y before the transformation matrix. |
-| [UnTransform](untransform)(double, double, out double, out double) | Transforms back x1 and y1 and returns x and y before the transformation matrix. |
+| [Multiply](../../aspose.font/transformationmatrix/multiply)(TransformationMatrix) | Multiplies with another transformation matrix. Doesn't change original transformation matrix, returns a new TransformationMatrix object. |
+| [Scale](../../aspose.font/transformationmatrix/scale)(double, double, out double, out double) | Scales x and y with the transformation matrix: x1 = A*x + C*y; y1 = B*x + D*y. |
+| [ToArray](../../aspose.font/transformationmatrix/toarray)() | Allocates new array, copies the transformation matrix and returns it. |
+| [Transform](../../aspose.font/transformationmatrix/transform)(double, double, out double, out double) | Transforms x and y with the transformation matrix: x1 = A*x + C*y + TX; y1 = B*x + D*y + TY. |
+| [UnScale](../../aspose.font/transformationmatrix/unscale)(double, double, out double, out double) | Scales back x1 and y1 and returns x and y before the transformation matrix. |
+| [UnTransform](../../aspose.font/transformationmatrix/untransform)(double, double, out double, out double) | Transforms back x1 and y1 and returns x and y before the transformation matrix. |
 
 ### See Also
 

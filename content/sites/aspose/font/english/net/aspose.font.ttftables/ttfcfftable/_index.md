@@ -18,8 +18,10 @@ public class TtfCffTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| [CffSource](cffsource) { get; } | Raw bytes for outlines in Compact Font Format representation. |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [CffSource](../../aspose.font.ttftables/ttfcfftable/cffsource) { get; } | Raw bytes for outlines in Compact Font Format representation. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| static [Tag](../../aspose.font.ttftables/ttfcfftable/tag) { get; } | Gets table tag. |
 
 ### See Also
 

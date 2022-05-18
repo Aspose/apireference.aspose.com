@@ -18,10 +18,10 @@ public interface IGlyphOutlinePainter : IGlyphPainter
 
 | Name | Description |
 | --- | --- |
-| [ClosePath](closepath)() | Processes ClosePath operation. |
-| [CurveTo](curveto)(CurveTo) | Processes CurveTo operation. |
-| [LineTo](lineto)(LineTo) | Processes LineTo operation. |
-| [MoveTo](moveto)(MoveTo) | Processes MoveTo operation. |
+| [ClosePath](../../aspose.font.rendering/iglyphoutlinepainter/closepath)() | Processes ClosePath operation. |
+| [CurveTo](../../aspose.font.rendering/iglyphoutlinepainter/curveto)(CurveTo) | Processes CurveTo operation. |
+| [LineTo](../../aspose.font.rendering/iglyphoutlinepainter/lineto)(LineTo) | Processes LineTo operation. |
+| [MoveTo](../../aspose.font.rendering/iglyphoutlinepainter/moveto)(MoveTo) | Processes MoveTo operation. |
 
 ### See Also
 

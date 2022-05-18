@@ -14,9 +14,9 @@ Gets offset by index.
 public uint this[int index] { get; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index |  | Offset index. |
+| Parameter | Description |
+| --- | --- |
+| index | Offset index. |
 
 ### See Also
 

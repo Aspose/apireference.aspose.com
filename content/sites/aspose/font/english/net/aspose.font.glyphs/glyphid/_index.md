@@ -18,13 +18,13 @@ public abstract class GlyphId
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Returns true if two glyph ids are not equal. |
-| abstract [GetHashCode](gethashcode)() | Returns hashcode of object. |
-| virtual [ToGlyphStringId](toglyphstringid)() | Virtual cast to GlyphUInt32Id. GlyphUInt32Id overrides to return instance. |
-| virtual [ToGlyphUInt32Id](toglyphuint32id)() | Virtual cast to GlyphUInt32Id. GlyphUInt32Id overrides to return instance. |
-| abstract [ToString](tostring)() | Returns string representation the glyph id. |
-| [operator ==](op_equality) | Returns true if two glyph ids are equal. |
-| [operator !=](op_inequality) | Returns true if two glyph ids are not equal. |
+| override [Equals](../../aspose.font.glyphs/glyphid/equals)(object) | Returns true if two glyph ids are not equal. |
+| abstract [GetHashCode](../../aspose.font.glyphs/glyphid/gethashcode)() | Returns hashcode of object. |
+| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | Virtual cast to GlyphUInt32Id. GlyphUInt32Id overrides to return instance. |
+| virtual [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphid/toglyphuint32id)() | Virtual cast to GlyphUInt32Id. GlyphUInt32Id overrides to return instance. |
+| abstract [ToString](../../aspose.font.glyphs/glyphid/tostring)() | Returns string representation the glyph id. |
+| [operator ==](../../aspose.font.glyphs/glyphid/op_equality) | Returns true if two glyph ids are equal. |
+| [operator !=](../../aspose.font.glyphs/glyphid/op_inequality) | Returns true if two glyph ids are not equal. |
 
 ### See Also
 

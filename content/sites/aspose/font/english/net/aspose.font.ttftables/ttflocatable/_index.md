@@ -18,8 +18,10 @@ public class TtfLocaTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| virtual [Offsets](offsets) { get; } | Gets glyph offsets list. |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| virtual [Offsets](../../aspose.font.ttftables/ttflocatable/offsets) { get; } | Gets glyph offsets list. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| static [Tag](../../aspose.font.ttftables/ttflocatable/tag) { get; } | Gets table tag. |
 
 ### See Also
 

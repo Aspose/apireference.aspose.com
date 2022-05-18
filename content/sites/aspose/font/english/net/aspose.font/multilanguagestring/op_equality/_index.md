@@ -3,7 +3,7 @@ title: op_Equality
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.font/multilanguagestring/op_equality/
 ---
 ## MultiLanguageString Equality operator (1 of 2)

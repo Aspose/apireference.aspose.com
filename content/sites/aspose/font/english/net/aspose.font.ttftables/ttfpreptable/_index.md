@@ -3,7 +3,7 @@ title: TtfPrepTable
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 930
+weight: 1000
 url: /net/aspose.font.ttftables/ttfpreptable/
 ---
 ## TtfPrepTable class
@@ -18,8 +18,10 @@ public class TtfPrepTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| [Program](program) { get; } | Set of instructions. |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [Program](../../aspose.font.ttftables/ttfpreptable/program) { get; } | Set of instructions. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| static [Tag](../../aspose.font.ttftables/ttfpreptable/tag) { get; } | Gets table tag. |
 
 ### See Also
 

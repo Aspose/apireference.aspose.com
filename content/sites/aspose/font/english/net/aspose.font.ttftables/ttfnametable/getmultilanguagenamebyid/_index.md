@@ -3,7 +3,7 @@ title: GetMultiLanguageNameById
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 10
+weight: 30
 url: /net/aspose.font.ttftables/ttfnametable/getmultilanguagenamebyid/
 ---
 ## TtfNameTable.GetMultiLanguageNameById method

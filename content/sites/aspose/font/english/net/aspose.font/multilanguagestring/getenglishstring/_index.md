@@ -3,7 +3,7 @@ title: GetEnglishString
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.font/multilanguagestring/getenglishstring/
 ---
 ## MultiLanguageString.GetEnglishString method

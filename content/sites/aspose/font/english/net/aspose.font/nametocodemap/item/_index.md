@@ -14,9 +14,9 @@ Gets code by name.
 public int this[string name] { get; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name |  | Glyph name. |
+| Parameter | Description |
+| --- | --- |
+| name | Glyph name. |
 
 ### See Also
 

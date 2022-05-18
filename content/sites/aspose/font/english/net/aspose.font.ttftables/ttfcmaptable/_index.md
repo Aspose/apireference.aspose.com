@@ -18,15 +18,17 @@ public class TtfCMapTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
-| static [Tag](tag) { get; } | Gets table tag. |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Gets offset from beginning of sfnt. |
+| [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Reference to TTF table repository. |
+| static [Tag](../../aspose.font.ttftables/ttfcmaptable/tag) { get; } | Gets table tag. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [FindUnicodeTable](findunicodetable)() | Searches and returns unicode CMap. if there is ucs-4 CMap - returns it first; otherwise - returns any unicode cmap it can find. |
-| [GetAllSubtables](getallsubtables)() | Returns all the subtables from CMap table. |
-| [GetPlatformTables](getplatformtables)(ushort, ushort) | Returns CMap subtables for planformId and platformSpecificId. |
+| [FindUnicodeTable](../../aspose.font.ttftables/ttfcmaptable/findunicodetable)() | Searches and returns unicode CMap. if there is ucs-4 CMap - returns it first; otherwise - returns any unicode cmap it can find. |
+| [GetAllSubtables](../../aspose.font.ttftables/ttfcmaptable/getallsubtables)() | Returns all the subtables from CMap table. |
+| [GetPlatformTables](../../aspose.font.ttftables/ttfcmaptable/getplatformtables)(ushort, ushort) | Returns CMap subtables for planformId and platformSpecificId. |
 
 ## Other Members
 

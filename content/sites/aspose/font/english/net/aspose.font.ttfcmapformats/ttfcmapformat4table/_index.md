@@ -14,12 +14,19 @@ Represents Format4 CMap subtable of the TTF Font file.
 public class TtfCMapFormat4Table : TtfCMapFormatBaseTable
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [PlatformId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid) { get; } | Gets PlatformId. |
+| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | Gets PlatformSpecificId. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetAllCodes](getallcodes)() | Gets all the codes from current CMap's subtable. |
-| override [GetGlyphIndex](getglyphindex)(uint) | Gets a glyph index for a given character code. |
+| override [GetAllCodes](../../aspose.font.ttfcmapformats/ttfcmapformat4table/getallcodes)() | Gets all the codes from current CMap's subtable. |
+| override [GetGlyphIndex](../../aspose.font.ttfcmapformats/ttfcmapformat4table/getglyphindex)(uint) | Gets a glyph index for a given character code. |
 
 ### See Also
 

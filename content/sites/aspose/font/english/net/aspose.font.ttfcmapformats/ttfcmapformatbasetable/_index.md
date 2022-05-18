@@ -18,15 +18,15 @@ public class TtfCMapFormatBaseTable
 
 | Name | Description |
 | --- | --- |
-| [PlatformId](platformid) { get; } | Gets PlatformId. |
-| [PlatformSpecificId](platformspecificid) { get; } | Gets PlatformSpecificId. |
+| [PlatformId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid) { get; } | Gets PlatformId. |
+| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | Gets PlatformSpecificId. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [GetAllCodes](getallcodes)() | Gets all the codes from current CMap's subtable. |
-| virtual [GetGlyphIndex](getglyphindex)(uint) | Gets a glyph index for a given character code |
+| virtual [GetAllCodes](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getallcodes)() | Gets all the codes from current CMap's subtable. |
+| virtual [GetGlyphIndex](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getglyphindex)(uint) | Gets a glyph index for a given character code |
 
 ### See Also
 

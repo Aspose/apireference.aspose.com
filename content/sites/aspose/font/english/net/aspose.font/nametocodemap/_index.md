@@ -18,15 +18,15 @@ public class NameToCodeMap
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets count of pairs name-code in the map. |
-| [Item](item) { get; } | Gets code by name. |
-| [Keys](keys) { get; } | Returns string names collection. |
+| [Count](../../aspose.font/nametocodemap/count) { get; } | Gets count of pairs name-code in the map. |
+| [Item](../../aspose.font/nametocodemap/item) { get; } | Gets code by name. |
+| [Keys](../../aspose.font/nametocodemap/keys) { get; } | Returns string names collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ContainsKey](containskey)(string) | Returns true in case the key is already in the map. |
+| [ContainsKey](../../aspose.font/nametocodemap/containskey)(string) | Returns true in case the key is already in the map. |
 
 ### See Also
 

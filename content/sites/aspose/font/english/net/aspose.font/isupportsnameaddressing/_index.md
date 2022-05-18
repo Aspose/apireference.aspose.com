@@ -18,7 +18,7 @@ public interface ISupportsNameAddressing
 
 | Name | Description |
 | --- | --- |
-| [GetNameToCharCodeIndex](getnametocharcodeindex)() | Returns name to code map object. |
+| [GetNameToCharCodeIndex](../../aspose.font/isupportsnameaddressing/getnametocharcodeindex)() | Returns name to code map object. |
 
 ### See Also
 
