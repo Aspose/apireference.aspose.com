@@ -18,13 +18,13 @@ public interface ICompositeDgnElement
 
 | Name | Description |
 | --- | --- |
-| [Childs](childs) { get; } | Gets childs of the composite element |
+| [Childs](../../aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/childs) { get; } | Gets childs of the composite element |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddChild](addchild)(DgnElement) | Adds element as a child |
+| [AddChild](../../aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/addchild)(DgnElement) | Adds element as a child |
 
 ### See Also
 

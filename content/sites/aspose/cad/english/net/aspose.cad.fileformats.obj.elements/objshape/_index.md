@@ -24,9 +24,9 @@ public class ObjShape
 
 | Name | Description |
 | --- | --- |
-| [Faces](faces) { get; set; } | Gets or sets the faces. |
-| [MaterialId](materialid) { get; set; } | Gets or sets the material identifier. |
-| [Name](name) { get; set; } | Gets or sets the name. |
+| [Faces](../../aspose.cad.fileformats.obj.elements/objshape/faces) { get; set; } | Gets or sets the faces. |
+| [MaterialId](../../aspose.cad.fileformats.obj.elements/objshape/materialid) { get; set; } | Gets or sets the material identifier. |
+| [Name](../../aspose.cad.fileformats.obj.elements/objshape/name) { get; set; } | Gets or sets the name. |
 
 ### See Also
 

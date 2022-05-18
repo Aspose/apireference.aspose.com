@@ -25,8 +25,8 @@ public class StreamReadException : FrameworkException
 
 | Name | Description |
 | --- | --- |
-| [ActualReadCount](actualreadcount) { get; } |  |
-| [ExpectedReadCount](expectedreadcount) { get; } |  |
+| [ActualReadCount](../../aspose.cad.cadexceptions/streamreadexception/actualreadcount) { get; } |  |
+| [ExpectedReadCount](../../aspose.cad.cadexceptions/streamreadexception/expectedreadcount) { get; } |  |
 
 ### See Also
 

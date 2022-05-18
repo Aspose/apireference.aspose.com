@@ -18,7 +18,7 @@ public interface IPartialPixelLoader
 
 | Name | Description |
 | --- | --- |
-| [Process](process)(Rectangle, Color[], Point, Point) | Processes the loaded pixels. |
+| [Process](../../aspose.cad/ipartialpixelloader/process)(Rectangle, Color[], Point, Point) | Processes the loaded pixels. |
 
 ### See Also
 

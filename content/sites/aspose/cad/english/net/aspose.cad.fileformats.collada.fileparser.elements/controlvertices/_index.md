@@ -24,8 +24,8 @@ public class ControlVertices : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Input](input) { get; set; } | Gets or sets the input. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/controlvertices/extra) { get; set; } | Gets or sets the extra. |
+| [Input](../../aspose.cad.fileformats.collada.fileparser.elements/controlvertices/input) { get; set; } | Gets or sets the input. |
 
 ### See Also
 

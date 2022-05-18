@@ -24,7 +24,13 @@ public class CF2OrderOutputDescribing : CF2OutputDescribing
 
 | Name | Description |
 | --- | --- |
-| [Language](language) { get; set; } | The language |
+| [Angle](../../aspose.cad.fileformats.cf2/cf2outputdescribing/angle) { get; set; } | The angle |
+| [Color](../../aspose.cad.fileformats.cf2/cf2outputdescribing/color) { get; set; } | The text color |
+| [FontName](../../aspose.cad.fileformats.cf2/cf2outputdescribing/fontname) { get; set; } | The font name |
+| [FontSize](../../aspose.cad.fileformats.cf2/cf2outputdescribing/fontsize) { get; set; } | The font size |
+| [Language](../../aspose.cad.fileformats.cf2/cf2orderoutputdescribing/language) { get; set; } | The language |
+| [StartPoint](../../aspose.cad.fileformats.cf2/cf2drawnelement/startpoint) { get; set; } | The start point |
+| [TypeDElement](../../aspose.cad.fileformats.cf2/cf2drawnelement/typedelement) { get; } | The type of the drawn element |
 
 ### See Also
 

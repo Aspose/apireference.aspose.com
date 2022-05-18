@@ -22,17 +22,26 @@ public class CadSymbolTableGroupCodes : CadBaseOwned, ICloneable
 
 | Name | Description |
 | --- | --- |
-| [IsInit](isinit) { get; } |  |
-| [MaxTableEntriesCount](maxtableentriescount) { get; set; } |  |
-| [SubClass](subclass) { get; set; } |  |
-| [SymbolTableParameters](symboltableparameters) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsInit](../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/isinit) { get; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [MaxTableEntriesCount](../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/maxtableentriescount) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [SubClass](../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/subclass) { get; set; } |  |
+| [SymbolTableParameters](../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/symboltableparameters) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() |  |
-| [Init](init)() |  |
+| [Clone](../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/clone)() |  |
+| [Init](../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/init)() |  |
 
 ### See Also
 

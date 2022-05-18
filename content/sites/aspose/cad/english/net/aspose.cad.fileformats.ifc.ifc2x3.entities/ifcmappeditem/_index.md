@@ -26,8 +26,18 @@ public class IfcMappedItem : IfcRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [MappingSource](mappingsource) { get; set; } | MappingSource |
-| [MappingTarget](mappingtarget) { get; set; } | MappingTarget |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [MappingSource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmappeditem/mappingsource) { get; set; } | MappingSource |
+| [MappingTarget](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmappeditem/mappingtarget) { get; set; } | MappingTarget |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

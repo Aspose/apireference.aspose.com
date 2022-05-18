@@ -24,13 +24,27 @@ public class IfcMechanicalSteelMaterialProperties : IfcMechanicalMaterialPropert
 
 | Name | Description |
 | --- | --- |
-| [HardeningModule](hardeningmodule) { get; set; } | HardeningModule |
-| [PlasticStrain](plasticstrain) { get; set; } | PlasticStrain |
-| [ProportionalStress](proportionalstress) { get; set; } | ProportionalStress |
-| [Relaxations](relaxations) { get; set; } | Relaxations |
-| [UltimateStrain](ultimatestrain) { get; set; } | UltimateStrain |
-| [UltimateStress](ultimatestress) { get; set; } | UltimateStress |
-| [YieldStress](yieldstress) { get; set; } | YieldStress |
+| [DynamicViscosity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/dynamicviscosity) { get; set; } | DynamicViscosity |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HardeningModule](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/hardeningmodule) { get; set; } | HardeningModule |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material) { get; set; } | Material |
+| [PlasticStrain](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/plasticstrain) { get; set; } | PlasticStrain |
+| [PoissonRatio](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/poissonratio) { get; set; } | PoissonRatio |
+| [ProportionalStress](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/proportionalstress) { get; set; } | ProportionalStress |
+| [Relaxations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/relaxations) { get; set; } | Relaxations |
+| [ShearModulus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/shearmodulus) { get; set; } | ShearModulus |
+| [ThermalExpansionCoefficient](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/thermalexpansioncoefficient) { get; set; } | ThermalExpansionCoefficient |
+| [UltimateStrain](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/ultimatestrain) { get; set; } | UltimateStrain |
+| [UltimateStress](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/ultimatestress) { get; set; } | UltimateStress |
+| [YieldStress](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/yieldstress) { get; set; } | YieldStress |
+| [YoungModulus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/youngmodulus) { get; set; } | YoungModulus |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -22,10 +22,10 @@ public class CadHatchBoundaryPathContainer
 
 | Name | Description |
 | --- | --- |
-| [BoundaryObjectCount](boundaryobjectcount) { get; set; } |  |
-| [BoundaryPath](boundarypath) { get; set; } |  |
-| [PathType](pathtype) { get; set; } |  |
-| [SourceBoundaryObjects](sourceboundaryobjects) { get; set; } |  |
+| [BoundaryObjectCount](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/boundaryobjectcount) { get; set; } |  |
+| [BoundaryPath](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/boundarypath) { get; set; } |  |
+| [PathType](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/pathtype) { get; set; } |  |
+| [SourceBoundaryObjects](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/sourceboundaryobjects) { get; set; } |  |
 
 ### See Also
 

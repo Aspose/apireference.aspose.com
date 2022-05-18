@@ -24,11 +24,11 @@ public class LibraryCameras
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. |
-| [Camera](camera) { get; set; } | Gets or sets the camera collection. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Id](id) { get; set; } | Gets or sets the library id. This value must be unique within the instance document. Optional. |
-| [Name](name) { get; set; } | Gets or sets the name. Optional. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/asset) { get; set; } | Gets or sets the asset. |
+| [Camera](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/camera) { get; set; } | Gets or sets the camera collection. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/extra) { get; set; } | Gets or sets the extra. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/id) { get; set; } | Gets or sets the library id. This value must be unique within the instance document. Optional. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/name) { get; set; } | Gets or sets the name. Optional. |
 
 ### See Also
 

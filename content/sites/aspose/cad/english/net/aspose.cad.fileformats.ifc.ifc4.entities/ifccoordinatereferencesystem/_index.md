@@ -18,11 +18,19 @@ public abstract class IfcCoordinateReferenceSystem : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [GeodeticDatum](geodeticdatum) { get; set; } | GeodeticDatum |
-| [HasCoordinateOperation](hascoordinateoperation) { get; } | HasCoordinateOperation |
-| [Name](name) { get; set; } | Name |
-| [VerticalDatum](verticaldatum) { get; set; } | VerticalDatum |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GeodeticDatum](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/geodeticdatum) { get; set; } | GeodeticDatum |
+| [HasCoordinateOperation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/hascoordinateoperation) { get; } | HasCoordinateOperation |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/name) { get; set; } | Name |
+| [VerticalDatum](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/verticaldatum) { get; set; } | VerticalDatum |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

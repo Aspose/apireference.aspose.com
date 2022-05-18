@@ -22,8 +22,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](setlicense)(Stream) |  |
-| [SetLicense](setlicense)(string) |  |
+| [SetLicense](../../aspose.cad/license/setlicense)(Stream) |  |
+| [SetLicense](../../aspose.cad/license/setlicense)(string) |  |
 
 ### See Also
 

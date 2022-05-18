@@ -24,7 +24,16 @@ public class IfcFillAreaStyle : IfcPresentationStyle
 
 | Name | Description |
 | --- | --- |
-| [FillStyles](fillstyles) { get; set; } | FillStyles |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FillStyles](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyle/fillstyles) { get; set; } | FillStyles |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

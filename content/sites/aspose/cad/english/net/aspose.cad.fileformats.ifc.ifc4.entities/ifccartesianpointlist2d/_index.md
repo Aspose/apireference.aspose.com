@@ -24,7 +24,17 @@ public class IfcCartesianPointList2D : IfcCartesianPointList
 
 | Name | Description |
 | --- | --- |
-| [CoordList](coordlist) { get; set; } | CoordList |
+| [CoordList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccartesianpointlist2d/coordlist) { get; set; } | CoordList |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

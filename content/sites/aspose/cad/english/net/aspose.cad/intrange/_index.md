@@ -24,14 +24,14 @@ public class IntRange
 
 | Name | Description |
 | --- | --- |
-| [Range](range) { get; set; } |  |
+| [Range](../../aspose.cad/intrange/range) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetArrayOneItemFromIndex](getarrayoneitemfromindex)(int) |  |
-| static [GetRange](getrange)(int, int, int) |  |
+| [GetArrayOneItemFromIndex](../../aspose.cad/intrange/getarrayoneitemfromindex)(int) |  |
+| static [GetRange](../../aspose.cad/intrange/getrange)(int, int, int) |  |
 
 ### See Also
 

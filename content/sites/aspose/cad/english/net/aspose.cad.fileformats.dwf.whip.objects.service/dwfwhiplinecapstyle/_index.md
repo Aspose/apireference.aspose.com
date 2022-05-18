@@ -24,7 +24,8 @@ public class DwfWhipLineCapStyle : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [Style](style) { get; } | Gets cap style |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/style) { get; } | Gets cap style |
 
 ### See Also
 

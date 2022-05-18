@@ -22,14 +22,25 @@ public class CadRasterImageDef : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [ClassVersion](classversion) { get; set; } |  |
-| [DefaultSize1PixelU](defaultsize1pixelu) { get; set; } |  |
-| [DefaultSize1PixelV](defaultsize1pixelv) { get; set; } |  |
-| [FileName](filename) { get; set; } |  |
-| [ImageIsLoadedFlag](imageisloadedflag) { get; set; } |  |
-| [ImageSizeU](imagesizeu) { get; set; } |  |
-| [ImageSizeV](imagesizev) { get; set; } |  |
-| [ResolutionUnits](resolutionunits) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [ClassVersion](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/classversion) { get; set; } |  |
+| [DefaultSize1PixelU](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/defaultsize1pixelu) { get; set; } |  |
+| [DefaultSize1PixelV](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/defaultsize1pixelv) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [FileName](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/filename) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [ImageIsLoadedFlag](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imageisloadedflag) { get; set; } |  |
+| [ImageSizeU](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizeu) { get; set; } |  |
+| [ImageSizeV](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizev) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [ResolutionUnits](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/resolutionunits) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

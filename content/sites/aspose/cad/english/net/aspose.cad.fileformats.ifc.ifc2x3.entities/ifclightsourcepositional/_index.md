@@ -24,11 +24,25 @@ public class IfcLightSourcePositional : IfcLightSource
 
 | Name | Description |
 | --- | --- |
-| [ConstantAttenuation](constantattenuation) { get; set; } | ConstantAttenuation |
-| [DistanceAttenuation](distanceattenuation) { get; set; } | DistanceAttenuation |
-| [Position](position) { get; set; } | Position |
-| [QuadricAttenuation](quadricattenuation) { get; set; } | QuadricAttenuation |
-| [Radius](radius) { get; set; } | Radius |
+| [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/ambientintensity) { get; set; } | AmbientIntensity |
+| [ConstantAttenuation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcepositional/constantattenuation) { get; set; } | ConstantAttenuation |
+| [DistanceAttenuation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcepositional/distanceattenuation) { get; set; } | DistanceAttenuation |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Intensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/intensity) { get; set; } | Intensity |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [LightColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/lightcolour) { get; set; } | LightColour |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/name) { get; set; } | Name |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcepositional/position) { get; set; } | Position |
+| [QuadricAttenuation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcepositional/quadricattenuation) { get; set; } | QuadricAttenuation |
+| [Radius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcepositional/radius) { get; set; } | Radius |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

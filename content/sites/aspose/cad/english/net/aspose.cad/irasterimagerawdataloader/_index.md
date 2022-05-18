@@ -18,14 +18,14 @@ public interface IRasterImageRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [IsRawDataAvailable](israwdataavailable) { get; } | Gets a value indicating whether raw data loading is supported. |
-| [RawDataSettings](rawdatasettings) { get; } | Gets the current raw data settings. Note when using these settings the data loads without conversion. |
+| [IsRawDataAvailable](../../aspose.cad/irasterimagerawdataloader/israwdataavailable) { get; } | Gets a value indicating whether raw data loading is supported. |
+| [RawDataSettings](../../aspose.cad/irasterimagerawdataloader/rawdatasettings) { get; } | Gets the current raw data settings. Note when using these settings the data loads without conversion. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [LoadRawData](loadrawdata)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Loads raw data. |
+| [LoadRawData](../../aspose.cad/irasterimagerawdataloader/loadrawdata)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Loads raw data. |
 
 ### See Also
 

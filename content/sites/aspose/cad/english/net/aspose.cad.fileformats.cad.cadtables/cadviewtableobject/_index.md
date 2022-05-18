@@ -22,32 +22,41 @@ public class CadViewTableObject : CadBaseOwned
 
 | Name | Description |
 | --- | --- |
-| [AssociatedUcs](associateducs) { get; set; } |  |
-| [BackClipping](backclipping) { get; set; } |  |
-| [BackgroundHandle](backgroundhandle) { get; set; } |  |
-| [CameraPlottable](cameraplottable) { get; set; } |  |
-| [CenterPoint](centerpoint) { get; set; } |  |
-| [Elevation](elevation) { get; set; } |  |
-| [Flag](flag) { get; set; } |  |
-| [FrontClipping](frontclipping) { get; set; } |  |
-| [LensLength](lenslength) { get; set; } |  |
-| [LiveSectionHandle](livesectionhandle) { get; set; } |  |
-| [Name](name) { get; set; } |  |
-| [RenderMode](rendermode) { get; set; } |  |
-| [SunHardOwnership](sunhardownership) { get; set; } |  |
-| [TargetPoint](targetpoint) { get; set; } |  |
-| [TwistAngle](twistangle) { get; set; } |  |
-| [UcsBaseHandle](ucsbasehandle) { get; set; } |  |
-| [UcsHandle](ucshandle) { get; set; } |  |
-| [UcsOrigin](ucsorigin) { get; set; } |  |
-| [UcsType](ucstype) { get; set; } |  |
-| [UcsXaxis](ucsxaxis) { get; set; } |  |
-| [UcsYaxis](ucsyaxis) { get; set; } |  |
-| [ViewDirection](viewdirection) { get; set; } |  |
-| [ViewHeight](viewheight) { get; set; } |  |
-| [ViewMode](viewmode) { get; set; } |  |
-| [ViewWidth](viewwidth) { get; set; } |  |
-| [VisualStyleHandle](visualstylehandle) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [AssociatedUcs](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/associateducs) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [BackClipping](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/backclipping) { get; set; } |  |
+| [BackgroundHandle](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/backgroundhandle) { get; set; } |  |
+| [CameraPlottable](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/cameraplottable) { get; set; } |  |
+| [CenterPoint](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/centerpoint) { get; set; } |  |
+| [Elevation](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/elevation) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [Flag](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/flag) { get; set; } |  |
+| [FrontClipping](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/frontclipping) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [LensLength](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/lenslength) { get; set; } |  |
+| [LiveSectionHandle](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/livesectionhandle) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/name) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [RenderMode](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/rendermode) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [SunHardOwnership](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/sunhardownership) { get; set; } |  |
+| [TargetPoint](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/targetpoint) { get; set; } |  |
+| [TwistAngle](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/twistangle) { get; set; } |  |
+| [UcsBaseHandle](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucsbasehandle) { get; set; } |  |
+| [UcsHandle](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucshandle) { get; set; } |  |
+| [UcsOrigin](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucsorigin) { get; set; } |  |
+| [UcsType](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucstype) { get; set; } |  |
+| [UcsXaxis](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucsxaxis) { get; set; } |  |
+| [UcsYaxis](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucsyaxis) { get; set; } |  |
+| [ViewDirection](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/viewdirection) { get; set; } |  |
+| [ViewHeight](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/viewheight) { get; set; } |  |
+| [ViewMode](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/viewmode) { get; set; } |  |
+| [ViewWidth](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/viewwidth) { get; set; } |  |
+| [VisualStyleHandle](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/visualstylehandle) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

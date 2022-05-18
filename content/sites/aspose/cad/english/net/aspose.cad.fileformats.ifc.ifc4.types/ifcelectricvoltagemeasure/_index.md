@@ -24,7 +24,7 @@ public class IfcElectricVoltageMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcelectricvoltagemeasure/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

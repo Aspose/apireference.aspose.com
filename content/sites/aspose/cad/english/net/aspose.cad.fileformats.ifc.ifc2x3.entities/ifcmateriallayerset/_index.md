@@ -24,8 +24,16 @@ public class IfcMaterialLayerSet : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [LayerSetName](layersetname) { get; set; } | LayerSetName |
-| [MaterialLayers](materiallayers) { get; set; } | MaterialLayers |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerSetName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayerset/layersetname) { get; set; } | LayerSetName |
+| [MaterialLayers](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayerset/materiallayers) { get; set; } | MaterialLayers |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

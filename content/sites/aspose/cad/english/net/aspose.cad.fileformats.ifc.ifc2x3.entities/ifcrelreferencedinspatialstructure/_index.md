@@ -24,8 +24,20 @@ public class IfcRelReferencedInSpatialStructure : IfcRelConnects
 
 | Name | Description |
 | --- | --- |
-| [RelatedElements](relatedelements) { get; set; } | RelatedElements |
-| [RelatingStructure](relatingstructure) { get; set; } | RelatingStructure |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [RelatedElements](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelreferencedinspatialstructure/relatedelements) { get; set; } | RelatedElements |
+| [RelatingStructure](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelreferencedinspatialstructure/relatingstructure) { get; set; } | RelatingStructure |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

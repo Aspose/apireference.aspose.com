@@ -24,7 +24,7 @@ public abstract class CF2Property
 
 | Name | Description |
 | --- | --- |
-| [Containt](containt) { get; set; } | The containt |
+| [Containt](../../aspose.cad.fileformats.cf2/cf2property/containt) { get; set; } | The containt |
 
 ### See Also
 

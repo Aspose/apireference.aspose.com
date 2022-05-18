@@ -24,11 +24,19 @@ public class IfcLocalTime : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [DaylightSavingOffset](daylightsavingoffset) { get; set; } | DaylightSavingOffset |
-| [HourComponent](hourcomponent) { get; set; } | HourComponent |
-| [MinuteComponent](minutecomponent) { get; set; } | MinuteComponent |
-| [SecondComponent](secondcomponent) { get; set; } | SecondComponent |
-| [Zone](zone) { get; set; } | Zone |
+| [DaylightSavingOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/daylightsavingoffset) { get; set; } | DaylightSavingOffset |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HourComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/hourcomponent) { get; set; } | HourComponent |
+| [MinuteComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/minutecomponent) { get; set; } | MinuteComponent |
+| [SecondComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/secondcomponent) { get; set; } | SecondComponent |
+| [Zone](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/zone) { get; set; } | Zone |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

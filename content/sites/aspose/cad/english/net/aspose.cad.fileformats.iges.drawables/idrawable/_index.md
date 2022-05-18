@@ -18,17 +18,17 @@ public interface IDrawable
 
 | Name | Description |
 | --- | --- |
-| [AllPoints](allpoints) { get; } | Array of all points defining geometry |
-| [EntityUID](entityuid) { get; set; } | Unique identifier (line number) of entity that created this entity |
-| [Properties](properties) { get; } | Non-geometric properties of geometric representation |
+| [AllPoints](../../aspose.cad.fileformats.iges.drawables/idrawable/allpoints) { get; } | Array of all points defining geometry |
+| [EntityUID](../../aspose.cad.fileformats.iges.drawables/idrawable/entityuid) { get; set; } | Unique identifier (line number) of entity that created this entity |
+| [Properties](../../aspose.cad.fileformats.iges.drawables/idrawable/properties) { get; } | Non-geometric properties of geometric representation |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](accept)(IExporterVisitor) | Part of Visitor pattern with an |
-| [GetNewPropsDrawable](getnewpropsdrawable)(IDrawableProperties) | Creates a new drawable using geometry of current drawable and provided non-geometric properties |
-| [GetTransformedDrawable](gettransformeddrawable)(Point3D[]) | Creates a new drawable using provided points and non-geometric properties of current drawable |
+| [Accept](../../aspose.cad.fileformats.iges.drawables/idrawable/accept)(IExporterVisitor) | Part of Visitor pattern with an |
+| [GetNewPropsDrawable](../../aspose.cad.fileformats.iges.drawables/idrawable/getnewpropsdrawable)(IDrawableProperties) | Creates a new drawable using geometry of current drawable and provided non-geometric properties |
+| [GetTransformedDrawable](../../aspose.cad.fileformats.iges.drawables/idrawable/gettransformeddrawable)(Point3D[]) | Creates a new drawable using provided points and non-geometric properties of current drawable |
 
 ### See Also
 

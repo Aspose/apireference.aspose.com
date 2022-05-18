@@ -24,8 +24,16 @@ public class IfcConnectionPointGeometry : IfcConnectionGeometry
 
 | Name | Description |
 | --- | --- |
-| [PointOnRelatedElement](pointonrelatedelement) { get; set; } | PointOnRelatedElement |
-| [PointOnRelatingElement](pointonrelatingelement) { get; set; } | PointOnRelatingElement |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [PointOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/pointonrelatedelement) { get; set; } | PointOnRelatedElement |
+| [PointOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/pointonrelatingelement) { get; set; } | PointOnRelatingElement |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

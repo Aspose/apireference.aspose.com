@@ -24,8 +24,8 @@ public class FxCommonColorOrTextureColor : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Sid](sid) { get; set; } | Gets or sets the sid. |
-| [Text](text) { get; set; } | Gets or sets the value as text. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturecolor/sid) { get; set; } | Gets or sets the sid. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturecolor/text) { get; set; } | Gets or sets the value as text. |
 
 ### See Also
 

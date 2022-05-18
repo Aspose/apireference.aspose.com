@@ -22,13 +22,13 @@ public class XmpText : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } |  |
+| [Value](../../aspose.cad.xmp.types.basic/xmptext/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.basic/xmptext/getxmprepresentation)() |  |
 
 ### See Also
 

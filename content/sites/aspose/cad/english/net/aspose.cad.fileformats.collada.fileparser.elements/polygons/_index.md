@@ -24,12 +24,12 @@ public class Polygons : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; set; } | Gets or sets the count. The count attribute indicates the number of polygon primitives. Required attribute. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Input](input) { get; set; } | Gets or sets the input. The input element may occur any number of times. This input is a local input with the offset and set attributes. |
-| [Items](items) { get; set; } | Gets or sets the items. |
-| [Material](material) { get; set; } | Gets or sets the material. The material attribute declares a symbol for a material. This symbol is bound to a material at the time of instantiation. If the material attribute is not specified then the lighting and shading results are application defined. Optional attribute. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Count](../../aspose.cad.fileformats.collada.fileparser.elements/polygons/count) { get; set; } | Gets or sets the count. The count attribute indicates the number of polygon primitives. Required attribute. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/polygons/extra) { get; set; } | Gets or sets the extra. |
+| [Input](../../aspose.cad.fileformats.collada.fileparser.elements/polygons/input) { get; set; } | Gets or sets the input. The input element may occur any number of times. This input is a local input with the offset and set attributes. |
+| [Items](../../aspose.cad.fileformats.collada.fileparser.elements/polygons/items) { get; set; } | Gets or sets the items. |
+| [Material](../../aspose.cad.fileformats.collada.fileparser.elements/polygons/material) { get; set; } | Gets or sets the material. The material attribute declares a symbol for a material. This symbol is bound to a material at the time of instantiation. If the material attribute is not specified then the lighting and shading results are application defined. Optional attribute. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/polygons/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
 
 ### See Also
 

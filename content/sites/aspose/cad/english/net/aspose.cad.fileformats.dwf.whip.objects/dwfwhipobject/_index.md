@@ -24,7 +24,7 @@ public class DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| [IsMaterialized](ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
 
 ### See Also
 

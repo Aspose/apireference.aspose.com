@@ -24,8 +24,8 @@ public class Cylinder : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Radius](radius) { get; set; } | Gets or sets the radius. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/cylinder/extra) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/cylinder/radius) { get; set; } | Gets or sets the radius. |
 
 ### See Also
 

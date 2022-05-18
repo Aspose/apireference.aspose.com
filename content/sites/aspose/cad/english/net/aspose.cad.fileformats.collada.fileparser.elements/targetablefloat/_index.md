@@ -24,8 +24,8 @@ public class TargetableFloat
 
 | Name | Description |
 | --- | --- |
-| [Sid](sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element. Optional attribute. |
-| [Value](value) { get; set; } | Gets or sets the value as text. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat/sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element. Optional attribute. |
+| [Value](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat/value) { get; set; } | Gets or sets the value as text. |
 
 ### See Also
 

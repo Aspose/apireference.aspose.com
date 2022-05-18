@@ -20,8 +20,18 @@ public abstract class IfcSweptAreaSolid : IfcSolidModel
 
 | Name | Description |
 | --- | --- |
-| [Position](position) { get; set; } | Position |
-| [SweptArea](sweptarea) { get; set; } | SweptArea |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptareasolid/position) { get; set; } | Position |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [SweptArea](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptareasolid/sweptarea) { get; set; } | SweptArea |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -32,20 +32,20 @@ public class MultiPageOptions
 
 | Name | Description |
 | --- | --- |
-| [ExportArea](exportarea) { get; set; } |  |
-| [MergeLayers](mergelayers) { get; set; } |  |
-| [Mode](mode) { get; set; } |  |
-| [OutputLayersNames](outputlayersnames) { get; set; } |  |
-| [PageRasterizationOptions](pagerasterizationoptions) { get; set; } |  |
-| [Pages](pages) { get; set; } |  |
-| [PageTitles](pagetitles) { get; set; } |  |
-| [TimeInterval](timeinterval) { get; set; } |  |
+| [ExportArea](../../aspose.cad.imageoptions/multipageoptions/exportarea) { get; set; } |  |
+| [MergeLayers](../../aspose.cad.imageoptions/multipageoptions/mergelayers) { get; set; } |  |
+| [Mode](../../aspose.cad.imageoptions/multipageoptions/mode) { get; set; } |  |
+| [OutputLayersNames](../../aspose.cad.imageoptions/multipageoptions/outputlayersnames) { get; set; } |  |
+| [PageRasterizationOptions](../../aspose.cad.imageoptions/multipageoptions/pagerasterizationoptions) { get; set; } |  |
+| [Pages](../../aspose.cad.imageoptions/multipageoptions/pages) { get; set; } |  |
+| [PageTitles](../../aspose.cad.imageoptions/multipageoptions/pagetitles) { get; set; } |  |
+| [TimeInterval](../../aspose.cad.imageoptions/multipageoptions/timeinterval) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [InitPages](initpages)(IntRange[]) |  |
+| [InitPages](../../aspose.cad.imageoptions/multipageoptions/initpages)(IntRange[]) |  |
 
 ### See Also
 

@@ -23,7 +23,7 @@ public class DxfWriter : ICadWriter
 
 | Name | Description |
 | --- | --- |
-| [Write](write)() |  |
+| [Write](../../aspose.cad.dxf.core.fileformats.cad.writers/dxfwriter/write)() |  |
 
 ### See Also
 

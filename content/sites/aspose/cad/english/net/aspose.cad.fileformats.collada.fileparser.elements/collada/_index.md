@@ -24,12 +24,12 @@ public class Collada : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset element. |
-| [Base](base) { get; set; } | Gets or sets the base. The base attribute allows you to define the base URI for this COLLADA document. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Items](items) { get; set; } | Gets or sets the libraries items. |
-| [Scene](scene) { get; set; } | Gets or sets the scene. The scene embodies the entire set of information that can be visualized from the contents of a COLLADA resource. The scene element declares the base of the scene hierarchy or scene graph. The scene contains elements that comprise much of the visual and transformational information content as created by the authoring tools. |
-| [Version](version) { get; set; } | Gets or sets the version. The version attribute is the COLLADA schema revision with which the instance document conforms. Required Attribute. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/collada/asset) { get; set; } | Gets or sets the asset element. |
+| [Base](../../aspose.cad.fileformats.collada.fileparser.elements/collada/base) { get; set; } | Gets or sets the base. The base attribute allows you to define the base URI for this COLLADA document. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/collada/extra) { get; set; } | Gets or sets the extra. |
+| [Items](../../aspose.cad.fileformats.collada.fileparser.elements/collada/items) { get; set; } | Gets or sets the libraries items. |
+| [Scene](../../aspose.cad.fileformats.collada.fileparser.elements/collada/scene) { get; set; } | Gets or sets the scene. The scene embodies the entire set of information that can be visualized from the contents of a COLLADA resource. The scene element declares the base of the scene hierarchy or scene graph. The scene contains elements that comprise much of the visual and transformational information content as created by the authoring tools. |
+| [Version](../../aspose.cad.fileformats.collada.fileparser.elements/collada/version) { get; set; } | Gets or sets the version. The version attribute is the COLLADA schema revision with which the instance document conforms. Required Attribute. |
 
 ### See Also
 

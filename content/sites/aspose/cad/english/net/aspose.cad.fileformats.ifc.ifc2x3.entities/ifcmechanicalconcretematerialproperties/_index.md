@@ -24,12 +24,26 @@ public class IfcMechanicalConcreteMaterialProperties : IfcMechanicalMaterialProp
 
 | Name | Description |
 | --- | --- |
-| [AdmixturesDescription](admixturesdescription) { get; set; } | AdmixturesDescription |
-| [CompressiveStrength](compressivestrength) { get; set; } | CompressiveStrength |
-| [MaxAggregateSize](maxaggregatesize) { get; set; } | MaxAggregateSize |
-| [ProtectivePoreRatio](protectiveporeratio) { get; set; } | ProtectivePoreRatio |
-| [WaterImpermeability](waterimpermeability) { get; set; } | WaterImpermeability |
-| [Workability](workability) { get; set; } | Workability |
+| [AdmixturesDescription](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/admixturesdescription) { get; set; } | AdmixturesDescription |
+| [CompressiveStrength](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/compressivestrength) { get; set; } | CompressiveStrength |
+| [DynamicViscosity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/dynamicviscosity) { get; set; } | DynamicViscosity |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material) { get; set; } | Material |
+| [MaxAggregateSize](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/maxaggregatesize) { get; set; } | MaxAggregateSize |
+| [PoissonRatio](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/poissonratio) { get; set; } | PoissonRatio |
+| [ProtectivePoreRatio](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/protectiveporeratio) { get; set; } | ProtectivePoreRatio |
+| [ShearModulus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/shearmodulus) { get; set; } | ShearModulus |
+| [ThermalExpansionCoefficient](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/thermalexpansioncoefficient) { get; set; } | ThermalExpansionCoefficient |
+| [WaterImpermeability](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/waterimpermeability) { get; set; } | WaterImpermeability |
+| [Workability](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/workability) { get; set; } | Workability |
+| [YoungModulus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/youngmodulus) { get; set; } | YoungModulus |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -24,10 +24,10 @@ public class Vertices : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Id](id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Required attribute. |
-| [Input](input) { get; set; } | Gets or sets the input. The input element must occur at least one time. These inputs are local inputs. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/vertices/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/vertices/id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Required attribute. |
+| [Input](../../aspose.cad.fileformats.collada.fileparser.elements/vertices/input) { get; set; } | Gets or sets the input. The input element must occur at least one time. These inputs are local inputs. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/vertices/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
 
 ### See Also
 

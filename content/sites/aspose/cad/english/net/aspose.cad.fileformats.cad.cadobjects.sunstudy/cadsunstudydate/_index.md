@@ -22,8 +22,8 @@ public class CadSunStudyDate
 
 | Name | Description |
 | --- | --- |
-| [JulianDay](julianday) { get; set; } |  |
-| [SecondsPastMidnight](secondspastmidnight) { get; set; } |  |
+| [JulianDay](../../aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudydate/julianday) { get; set; } |  |
+| [SecondsPastMidnight](../../aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudydate/secondspastmidnight) { get; set; } |  |
 
 ### See Also
 

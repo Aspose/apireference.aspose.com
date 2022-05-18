@@ -23,14 +23,14 @@ public sealed class XmpGuid : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Prefix](prefix) { get; set; } |  |
-| [Value](value) { get; set; } |  |
+| [Prefix](../../aspose.cad.xmp.types.derived/xmpguid/prefix) { get; set; } |  |
+| [Value](../../aspose.cad.xmp.types.derived/xmpguid/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.derived/xmpguid/getxmprepresentation)() |  |
 
 ### See Also
 

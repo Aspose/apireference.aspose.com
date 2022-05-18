@@ -24,10 +24,18 @@ public class IfcApplication : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ApplicationDeveloper](applicationdeveloper) { get; set; } | ApplicationDeveloper |
-| [ApplicationFullName](applicationfullname) { get; set; } | ApplicationFullName |
-| [ApplicationIdentifier](applicationidentifier) { get; set; } | ApplicationIdentifier |
-| [Version](version) { get; set; } | Version |
+| [ApplicationDeveloper](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapplication/applicationdeveloper) { get; set; } | ApplicationDeveloper |
+| [ApplicationFullName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapplication/applicationfullname) { get; set; } | ApplicationFullName |
+| [ApplicationIdentifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapplication/applicationidentifier) { get; set; } | ApplicationIdentifier |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Version](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapplication/version) { get; set; } | Version |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -22,13 +22,13 @@ public class CadMultiLineVectorBlock
 
 | Name | Description |
 | --- | --- |
-| [AreaParameters](areaparameters) { get; set; } |  |
-| [AreaParametersCount](areaparameterscount) { get; set; } |  |
-| [ElementParameters](elementparameters) { get; set; } |  |
-| [ElementParametersCount](elementparameterscount) { get; set; } |  |
-| [MilterVector](miltervector) { get; set; } |  |
-| [SegmentDirection](segmentdirection) { get; set; } |  |
-| [Vertex](vertex) { get; set; } |  |
+| [AreaParameters](../../aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/areaparameters) { get; set; } |  |
+| [AreaParametersCount](../../aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/areaparameterscount) { get; set; } |  |
+| [ElementParameters](../../aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/elementparameters) { get; set; } |  |
+| [ElementParametersCount](../../aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/elementparameterscount) { get; set; } |  |
+| [MilterVector](../../aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/miltervector) { get; set; } |  |
+| [SegmentDirection](../../aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/segmentdirection) { get; set; } |  |
+| [Vertex](../../aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/vertex) { get; set; } |  |
 
 ### See Also
 

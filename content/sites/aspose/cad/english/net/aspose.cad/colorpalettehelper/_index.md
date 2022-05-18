@@ -18,14 +18,14 @@ public static class ColorPaletteHelper
 
 | Name | Description |
 | --- | --- |
-| static [Create4Bit](create4bit)() | Creates the 4 bit color palette. |
-| static [Create4BitGrayscale](create4bitgrayscale)(bool) | Creates the 4 bit grayscale palette. |
-| static [Create8Bit](create8bit)() | Creates the 8 bit color palette. |
-| static [Create8BitGrayscale](create8bitgrayscale)(bool) | Creates the 8 bit grayscale palette. |
-| static [CreateMonochrome](createmonochrome)() | Creates a monochrome color palette containing 2 colors only. |
-| static [GetCloseImagePalette](getcloseimagepalette)(RasterImage, int) | Gets color palette from raster image (palletizes image) in case the image does not have one. In case palette exists it will be used instead performing calculations. |
-| static [GetDownscalePalette](getdownscalepalette)(RasterImage) | Get 256 color palette, composed from upper bits of initial image color values. |
-| static [GetUniformColorPalette](getuniformcolorpalette)(RasterImage) | Get uniform 256 color palette. |
+| static [Create4Bit](../../aspose.cad/colorpalettehelper/create4bit)() | Creates the 4 bit color palette. |
+| static [Create4BitGrayscale](../../aspose.cad/colorpalettehelper/create4bitgrayscale)(bool) | Creates the 4 bit grayscale palette. |
+| static [Create8Bit](../../aspose.cad/colorpalettehelper/create8bit)() | Creates the 8 bit color palette. |
+| static [Create8BitGrayscale](../../aspose.cad/colorpalettehelper/create8bitgrayscale)(bool) | Creates the 8 bit grayscale palette. |
+| static [CreateMonochrome](../../aspose.cad/colorpalettehelper/createmonochrome)() | Creates a monochrome color palette containing 2 colors only. |
+| static [GetCloseImagePalette](../../aspose.cad/colorpalettehelper/getcloseimagepalette)(RasterImage, int) | Gets color palette from raster image (palletizes image) in case the image does not have one. In case palette exists it will be used instead performing calculations. |
+| static [GetDownscalePalette](../../aspose.cad/colorpalettehelper/getdownscalepalette)(RasterImage) | Get 256 color palette, composed from upper bits of initial image color values. |
+| static [GetUniformColorPalette](../../aspose.cad/colorpalettehelper/getuniformcolorpalette)(RasterImage) | Get uniform 256 color palette. |
 
 ### See Also
 

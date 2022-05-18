@@ -24,10 +24,18 @@ public class IfcIndexedColourMap : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [ColourIndex](colourindex) { get; set; } | ColourIndex |
-| [Colours](colours) { get; set; } | Colours |
-| [MappedTo](mappedto) { get; set; } | MappedTo |
-| [Opacity](opacity) { get; set; } | Opacity |
+| [ColourIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colourindex) { get; set; } | ColourIndex |
+| [Colours](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colours) { get; set; } | Colours |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [MappedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/mappedto) { get; set; } | MappedTo |
+| [Opacity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/opacity) { get; set; } | Opacity |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

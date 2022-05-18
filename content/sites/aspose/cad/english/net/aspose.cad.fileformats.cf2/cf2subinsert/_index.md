@@ -24,9 +24,11 @@ public class CF2SubInsert : CF2DrawnElement
 
 | Name | Description |
 | --- | --- |
-| [Angle](angle) { get; set; } | The angle |
-| [Name](name) { get; set; } | The name |
-| [Scale](scale) { get; set; } | The scale |
+| [Angle](../../aspose.cad.fileformats.cf2/cf2subinsert/angle) { get; set; } | The angle |
+| [Name](../../aspose.cad.fileformats.cf2/cf2subinsert/name) { get; set; } | The name |
+| [Scale](../../aspose.cad.fileformats.cf2/cf2subinsert/scale) { get; set; } | The scale |
+| [StartPoint](../../aspose.cad.fileformats.cf2/cf2drawnelement/startpoint) { get; set; } | The start point |
+| [TypeDElement](../../aspose.cad.fileformats.cf2/cf2drawnelement/typedelement) { get; } | The type of the drawn element |
 
 ### See Also
 

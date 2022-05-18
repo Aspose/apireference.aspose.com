@@ -25,10 +25,10 @@ public class DgnQuaternion
 
 | Name | Description |
 | --- | --- |
-| [W](w) { get; } | Gets the w. |
-| [X](x) { get; } | Gets the x. |
-| [Y](y) { get; } | Gets the y. |
-| [Z](z) { get; } | Gets the z. |
+| [W](../../aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/w) { get; } | Gets the w. |
+| [X](../../aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/x) { get; } | Gets the x. |
+| [Y](../../aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/y) { get; } | Gets the y. |
+| [Z](../../aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/z) { get; } | Gets the z. |
 
 ### See Also
 

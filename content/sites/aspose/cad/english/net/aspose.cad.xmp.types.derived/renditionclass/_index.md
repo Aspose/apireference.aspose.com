@@ -23,15 +23,15 @@ public sealed class RenditionClass : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Token](token) { get; set; } |  |
-| [Value](value) { get; set; } |  |
-| static [DefinedValues](definedvalues) { get; } |  |
+| [Token](../../aspose.cad.xmp.types.derived/renditionclass/token) { get; set; } |  |
+| [Value](../../aspose.cad.xmp.types.derived/renditionclass/value) { get; set; } |  |
+| static [DefinedValues](../../aspose.cad.xmp.types.derived/renditionclass/definedvalues) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.derived/renditionclass/getxmprepresentation)() |  |
 
 ### See Also
 

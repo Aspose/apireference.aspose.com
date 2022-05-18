@@ -18,8 +18,8 @@ public class CF2Sub
 
 | Name | Description |
 | --- | --- |
-| [DrawnElements](drawnelements) { get; } | The drawn elements |
-| [Name](name) { get; set; } | The name of section. |
+| [DrawnElements](../../aspose.cad.fileformats.cf2/cf2sub/drawnelements) { get; } | The drawn elements |
+| [Name](../../aspose.cad.fileformats.cf2/cf2sub/name) { get; set; } | The name of section. |
 
 ### See Also
 

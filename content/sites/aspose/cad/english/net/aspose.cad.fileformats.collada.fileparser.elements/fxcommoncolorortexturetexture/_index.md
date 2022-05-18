@@ -24,9 +24,9 @@ public class FxCommonColorOrTextureTexture : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Texture](texture) { get; set; } | Gets or sets the texture. |
-| [TextureCoordinate](texturecoordinate) { get; set; } | Gets or sets the texture coordinate. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/extra) { get; set; } | Gets or sets the extra. |
+| [Texture](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/texture) { get; set; } | Gets or sets the texture. |
+| [TextureCoordinate](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/texturecoordinate) { get; set; } | Gets or sets the texture coordinate. |
 
 ### See Also
 

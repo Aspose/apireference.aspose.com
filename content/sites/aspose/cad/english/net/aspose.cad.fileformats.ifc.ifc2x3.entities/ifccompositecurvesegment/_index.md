@@ -26,10 +26,20 @@ public class IfcCompositeCurveSegment : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [ParentCurve](parentcurve) { get; set; } | ParentCurve |
-| [SameSense](samesense) { get; set; } | SameSense |
-| [Transition](transition) { get; set; } | Transition |
-| [UsingCurves](usingcurves) { get; } | UsingCurves |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [ParentCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccompositecurvesegment/parentcurve) { get; set; } | ParentCurve |
+| [SameSense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccompositecurvesegment/samesense) { get; set; } | SameSense |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [Transition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccompositecurvesegment/transition) { get; set; } | Transition |
+| [UsingCurves](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccompositecurvesegment/usingcurves) { get; } | UsingCurves |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

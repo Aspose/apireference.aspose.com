@@ -24,9 +24,17 @@ public class IfcDocumentElectronicFormat : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [FileExtension](fileextension) { get; set; } | FileExtension |
-| [MimeContentType](mimecontenttype) { get; set; } | MimeContentType |
-| [MimeSubtype](mimesubtype) { get; set; } | MimeSubtype |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FileExtension](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/fileextension) { get; set; } | FileExtension |
+| [MimeContentType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mimecontenttype) { get; set; } | MimeContentType |
+| [MimeSubtype](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mimesubtype) { get; set; } | MimeSubtype |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

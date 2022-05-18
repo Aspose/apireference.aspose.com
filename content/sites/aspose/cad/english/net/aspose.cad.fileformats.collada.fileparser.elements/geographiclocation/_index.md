@@ -24,9 +24,9 @@ public class GeographicLocation : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Altitude](altitude) { get; set; } | Gets or sets the altitude. Altitude is always given in meters. If the mode is "absolute", then the value is interpreted as meters from mean sea level. If the mode is "relativeToGround" then the value is interpreted as meters above the actual ground elevation at that particular location. |
-| [Latitude](latitude) { get; set; } | Gets or sets the latitude. |
-| [Longitude](longitude) { get; set; } | Gets or sets the longitude. |
+| [Altitude](../../aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/altitude) { get; set; } | Gets or sets the altitude. Altitude is always given in meters. If the mode is "absolute", then the value is interpreted as meters from mean sea level. If the mode is "relativeToGround" then the value is interpreted as meters above the actual ground elevation at that particular location. |
+| [Latitude](../../aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/latitude) { get; set; } | Gets or sets the latitude. |
+| [Longitude](../../aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/longitude) { get; set; } | Gets or sets the longitude. |
 
 ### See Also
 

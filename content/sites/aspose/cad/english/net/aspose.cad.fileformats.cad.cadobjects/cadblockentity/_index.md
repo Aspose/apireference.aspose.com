@@ -22,41 +22,41 @@ public class CadBlockEntity
 
 | Name | Description |
 | --- | --- |
-| [AttDefs](attdefs) { get; } |  |
-| [Attribute6](attribute6) { get; set; } |  |
-| [Attribute71](attribute71) { get; set; } |  |
-| [BasePoint](basepoint) { get; set; } |  |
-| [BlockAttribute370](blockattribute370) { get; set; } |  |
-| [BlockAttribute420](blockattribute420) { get; set; } |  |
-| [BlockAttribute48](blockattribute48) { get; set; } |  |
-| [BlockAttribute62](blockattribute62) { get; set; } |  |
-| [BlockHandle](blockhandle) { get; set; } |  |
-| [BlockModelSegregated](blockmodelsegregated) { get; set; } |  |
-| [CadBlockNameEntity](cadblocknameentity) { get; set; } |  |
-| [CadBlockTableObject](cadblocktableobject) { get; set; } |  |
-| [Description](description) { get; set; } |  |
-| [EndBlockAttribute370](endblockattribute370) { get; set; } |  |
-| [EndBlockAttribute420](endblockattribute420) { get; set; } |  |
-| [EndBlockAttribute48](endblockattribute48) { get; set; } |  |
-| [EndBlockAttribute6](endblockattribute6) { get; set; } |  |
-| [EndBlockAttribute62](endblockattribute62) { get; set; } |  |
-| [EndBlockHandle](endblockhandle) { get; set; } |  |
-| [EndBlockLayerName](endblocklayername) { get; set; } |  |
-| [EndBlockModelSegregated](endblockmodelsegregated) { get; set; } |  |
-| [Entities](entities) { get; set; } |  |
-| [Flags](flags) { get; set; } |  |
-| [LayerName](layername) { get; set; } |  |
-| [Name](name) { get; set; } |  |
-| [OriginalBlockName](originalblockname) { get; } |  |
-| [SoftOwner](softowner) { get; set; } |  |
-| [XdataContainer](xdatacontainer) { get; set; } |  |
-| [XRefPathName](xrefpathname) { get; set; } |  |
+| [AttDefs](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attdefs) { get; } |  |
+| [Attribute6](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attribute6) { get; set; } |  |
+| [Attribute71](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attribute71) { get; set; } |  |
+| [BasePoint](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/basepoint) { get; set; } |  |
+| [BlockAttribute370](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute370) { get; set; } |  |
+| [BlockAttribute420](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute420) { get; set; } |  |
+| [BlockAttribute48](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute48) { get; set; } |  |
+| [BlockAttribute62](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute62) { get; set; } |  |
+| [BlockHandle](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockhandle) { get; set; } |  |
+| [BlockModelSegregated](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockmodelsegregated) { get; set; } |  |
+| [CadBlockNameEntity](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadblocknameentity) { get; set; } |  |
+| [CadBlockTableObject](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadblocktableobject) { get; set; } |  |
+| [Description](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/description) { get; set; } |  |
+| [EndBlockAttribute370](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute370) { get; set; } |  |
+| [EndBlockAttribute420](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute420) { get; set; } |  |
+| [EndBlockAttribute48](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute48) { get; set; } |  |
+| [EndBlockAttribute6](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute6) { get; set; } |  |
+| [EndBlockAttribute62](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute62) { get; set; } |  |
+| [EndBlockHandle](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockhandle) { get; set; } |  |
+| [EndBlockLayerName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblocklayername) { get; set; } |  |
+| [EndBlockModelSegregated](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockmodelsegregated) { get; set; } |  |
+| [Entities](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/entities) { get; set; } |  |
+| [Flags](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/flags) { get; set; } |  |
+| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/layername) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/name) { get; set; } |  |
+| [OriginalBlockName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/originalblockname) { get; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/softowner) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/xdatacontainer) { get; set; } |  |
+| [XRefPathName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/xrefpathname) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddEntity](addentity)(CadBaseEntity) |  |
+| [AddEntity](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/addentity)(CadBaseEntity) |  |
 
 ### See Also
 

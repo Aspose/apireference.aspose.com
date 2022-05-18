@@ -24,7 +24,7 @@ public class DwgVersionWriter : ICadWriter
 
 | Name | Description |
 | --- | --- |
-| [Write](write)() | Writes version. |
+| [Write](../../aspose.cad.fileformats.cad.dwg/dwgversionwriter/write)() | Writes version. |
 
 ### See Also
 

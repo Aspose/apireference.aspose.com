@@ -24,9 +24,17 @@ public class IfcLightDistributionData : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [LuminousIntensity](luminousintensity) { get; set; } | LuminousIntensity |
-| [MainPlaneAngle](mainplaneangle) { get; set; } | MainPlaneAngle |
-| [SecondaryPlaneAngle](secondaryplaneangle) { get; set; } | SecondaryPlaneAngle |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LuminousIntensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightdistributiondata/luminousintensity) { get; set; } | LuminousIntensity |
+| [MainPlaneAngle](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightdistributiondata/mainplaneangle) { get; set; } | MainPlaneAngle |
+| [SecondaryPlaneAngle](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightdistributiondata/secondaryplaneangle) { get; set; } | SecondaryPlaneAngle |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

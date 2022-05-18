@@ -26,8 +26,20 @@ public class IfcCompositeProfileDef : IfcProfileDef
 
 | Name | Description |
 | --- | --- |
-| [Label](label) { get; set; } | Label |
-| [Profiles](profiles) { get; set; } | Profiles |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference) { get; } | HasExternalReference |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties) { get; } | HasProperties |
+| [Label](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccompositeprofiledef/label) { get; set; } | Label |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [Profiles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccompositeprofiledef/profiles) { get; set; } | Profiles |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

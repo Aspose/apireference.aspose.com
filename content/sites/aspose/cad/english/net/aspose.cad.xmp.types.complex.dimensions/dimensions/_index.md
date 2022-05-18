@@ -23,15 +23,17 @@ public sealed class Dimensions : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } |  |
-| [Units](units) { get; set; } |  |
-| [Width](width) { get; set; } |  |
+| [Height](../../aspose.cad.xmp.types.complex.dimensions/dimensions/height) { get; set; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+| [Units](../../aspose.cad.xmp.types.complex.dimensions/dimensions/units) { get; set; } |  |
+| [Width](../../aspose.cad.xmp.types.complex.dimensions/dimensions/width) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.dimensions/dimensions/getxmprepresentation)() |  |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class Altitude : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Mode](mode) { get; set; } | Gets or sets the mode. |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Mode](../../aspose.cad.fileformats.collada.fileparser.elements/altitude/mode) { get; set; } | Gets or sets the mode. |
+| [Value](../../aspose.cad.fileformats.collada.fileparser.elements/altitude/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

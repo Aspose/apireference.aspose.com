@@ -24,10 +24,10 @@ public class Spline : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Closed](closed) { get; set; } | Gets or sets a value indicating whether there is a segment connecting the first and last control vertices. |
-| [ControlVertices](controlvertices) { get; set; } | Gets or sets the control vertices. Describes the CVs of the spline. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Source](source) { get; set; } | Gets or sets the source. Provides the values for the CVs and segments of the spline. |
+| [Closed](../../aspose.cad.fileformats.collada.fileparser.elements/spline/closed) { get; set; } | Gets or sets a value indicating whether there is a segment connecting the first and last control vertices. |
+| [ControlVertices](../../aspose.cad.fileformats.collada.fileparser.elements/spline/controlvertices) { get; set; } | Gets or sets the control vertices. Describes the CVs of the spline. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/spline/extra) { get; set; } | Gets or sets the extra. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/spline/source) { get; set; } | Gets or sets the source. Provides the values for the CVs and segments of the spline. |
 
 ### See Also
 

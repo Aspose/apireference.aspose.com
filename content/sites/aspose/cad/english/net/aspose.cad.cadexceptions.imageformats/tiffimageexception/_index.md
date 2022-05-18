@@ -25,7 +25,7 @@ public class TiffImageException : ImageException
 
 | Name | Description |
 | --- | --- |
-| [OptionsError](optionserror) { get; } |  |
+| [OptionsError](../../aspose.cad.cadexceptions.imageformats/tiffimageexception/optionserror) { get; } |  |
 
 ### See Also
 

@@ -24,9 +24,18 @@ public class IfcSlippageConnectionCondition : IfcStructuralConnectionCondition
 
 | Name | Description |
 | --- | --- |
-| [SlippageX](slippagex) { get; set; } | SlippageX |
-| [SlippageY](slippagey) { get; set; } | SlippageY |
-| [SlippageZ](slippagez) { get; set; } | SlippageZ |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralconnectioncondition/name) { get; set; } | Name |
+| [SlippageX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcslippageconnectioncondition/slippagex) { get; set; } | SlippageX |
+| [SlippageY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcslippageconnectioncondition/slippagey) { get; set; } | SlippageY |
+| [SlippageZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcslippageconnectioncondition/slippagez) { get; set; } | SlippageZ |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

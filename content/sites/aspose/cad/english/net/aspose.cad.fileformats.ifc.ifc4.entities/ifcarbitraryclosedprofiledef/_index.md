@@ -26,7 +26,19 @@ public class IfcArbitraryClosedProfileDef : IfcProfileDef
 
 | Name | Description |
 | --- | --- |
-| [OuterCurve](outercurve) { get; set; } | OuterCurve |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference) { get; } | HasExternalReference |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties) { get; } | HasProperties |
+| [OuterCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcarbitraryclosedprofiledef/outercurve) { get; set; } | OuterCurve |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

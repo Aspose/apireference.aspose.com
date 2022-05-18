@@ -24,11 +24,28 @@ public class IfcBSplineSurfaceWithKnots : IfcBSplineSurface
 
 | Name | Description |
 | --- | --- |
-| [KnotSpec](knotspec) { get; set; } | KnotSpec |
-| [UKnots](uknots) { get; set; } | UKnots |
-| [UMultiplicities](umultiplicities) { get; set; } | UMultiplicities |
-| [VKnots](vknots) { get; set; } | VKnots |
-| [VMultiplicities](vmultiplicities) { get; set; } | VMultiplicities |
+| [ControlPointsList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/controlpointslist) { get; set; } | ControlPointsList |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [KnotSpec](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/knotspec) { get; set; } | KnotSpec |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/selfintersect) { get; set; } | SelfIntersect |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [SurfaceForm](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/surfaceform) { get; set; } | SurfaceForm |
+| [UClosed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/uclosed) { get; set; } | UClosed |
+| [UDegree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/udegree) { get; set; } | UDegree |
+| [UKnots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/uknots) { get; set; } | UKnots |
+| [UMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/umultiplicities) { get; set; } | UMultiplicities |
+| [VClosed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/vclosed) { get; set; } | VClosed |
+| [VDegree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/vdegree) { get; set; } | VDegree |
+| [VKnots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/vknots) { get; set; } | VKnots |
+| [VMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/vmultiplicities) { get; set; } | VMultiplicities |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

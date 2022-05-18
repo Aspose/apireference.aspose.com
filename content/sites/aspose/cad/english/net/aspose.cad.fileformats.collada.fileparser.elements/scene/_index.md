@@ -24,9 +24,9 @@ public class Scene : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [InstancePhysicsScene](instancephysicsscene) { get; set; } | Gets or sets the instance physics scene. The instance_physics_scene element declares the instantiation of a COLLADA physics_scene resource. The instance_physics_scene element may appear any number of times. |
-| [InstanceVisualScene](instancevisualscene) { get; set; } | Gets or sets the instance visual scene. The instance_visual_scene element declares the instantiation of a COLLADA visual_scene resource. The instance_visual_scene element may only appear once. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/scene/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [InstancePhysicsScene](../../aspose.cad.fileformats.collada.fileparser.elements/scene/instancephysicsscene) { get; set; } | Gets or sets the instance physics scene. The instance_physics_scene element declares the instantiation of a COLLADA physics_scene resource. The instance_physics_scene element may appear any number of times. |
+| [InstanceVisualScene](../../aspose.cad.fileformats.collada.fileparser.elements/scene/instancevisualscene) { get; set; } | Gets or sets the instance visual scene. The instance_visual_scene element declares the instantiation of a COLLADA visual_scene resource. The instance_visual_scene element may only appear once. |
 
 ### See Also
 

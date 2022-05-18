@@ -23,17 +23,20 @@ public sealed class XmpMeta : XmpElementBase, IEquatable<XmpMeta>, IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [AdobeXmpToolkit](adobexmptoolkit) { get; set; } |  |
+| [AdobeXmpToolkit](../../aspose.cad.xmp/xmpmeta/adobexmptoolkit) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddAttribute](addattribute)(string, string) |  |
-| override [Equals](equals)(object) |  |
-| [Equals](equals)(XmpMeta) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [GetXmlValue](getxmlvalue)() |  |
+| override [AddAttribute](../../aspose.cad.xmp/xmpmeta/addattribute)(string, string) |  |
+| virtual [ClearAttributes](../../aspose.cad.xmp/xmpelementbase/clearattributes)() |  |
+| override [Equals](../../aspose.cad.xmp/xmpmeta/equals)(object) |  |
+| [Equals](../../aspose.cad.xmp/xmpelementbase/equals)(XmpElementBase) |  |
+| [Equals](../../aspose.cad.xmp/xmpmeta/equals)(XmpMeta) |  |
+| virtual [GetAttribute](../../aspose.cad.xmp/xmpelementbase/getattribute)(string) |  |
+| override [GetHashCode](../../aspose.cad.xmp/xmpmeta/gethashcode)() |  |
+| [GetXmlValue](../../aspose.cad.xmp/xmpmeta/getxmlvalue)() |  |
 
 ### See Also
 

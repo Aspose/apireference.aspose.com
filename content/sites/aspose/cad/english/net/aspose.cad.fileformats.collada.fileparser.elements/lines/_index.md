@@ -24,12 +24,12 @@ public class Lines : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; set; } | Gets or sets the count. The count attribute indicates the number of line primitives. Required attribute. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Input](input) { get; set; } | Gets or sets the input. The input element may occur any number of times. This input is a local input with the offset and set attributes. |
-| [Material](material) { get; set; } | Gets or sets the material. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
-| [Primitives](primitives) { get; set; } | Gets or sets the primitives. The lines element may have zero or one primitives element. |
+| [Count](../../aspose.cad.fileformats.collada.fileparser.elements/lines/count) { get; set; } | Gets or sets the count. The count attribute indicates the number of line primitives. Required attribute. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/lines/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Input](../../aspose.cad.fileformats.collada.fileparser.elements/lines/input) { get; set; } | Gets or sets the input. The input element may occur any number of times. This input is a local input with the offset and set attributes. |
+| [Material](../../aspose.cad.fileformats.collada.fileparser.elements/lines/material) { get; set; } | Gets or sets the material. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/lines/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Primitives](../../aspose.cad.fileformats.collada.fileparser.elements/lines/primitives) { get; set; } | Gets or sets the primitives. The lines element may have zero or one primitives element. |
 
 ### See Also
 

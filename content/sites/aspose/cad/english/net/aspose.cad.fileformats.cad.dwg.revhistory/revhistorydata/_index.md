@@ -24,11 +24,11 @@ public class RevHistoryData
 
 | Name | Description |
 | --- | --- |
-| [CadVersion](cadversion) { get; set; } | The cad version |
-| [Val1](val1) { get; set; } | Gets or sets the val1. |
-| [Val2](val2) { get; set; } | Gets or sets the val2. |
-| [Val3](val3) { get; set; } | Gets or sets the val3. |
-| [Val4](val4) { get; set; } | Gets or sets the val4. |
+| [CadVersion](../../aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/cadversion) { get; set; } | The cad version |
+| [Val1](../../aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/val1) { get; set; } | Gets or sets the val1. |
+| [Val2](../../aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/val2) { get; set; } | Gets or sets the val2. |
+| [Val3](../../aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/val3) { get; set; } | Gets or sets the val3. |
+| [Val4](../../aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/val4) { get; set; } | Gets or sets the val4. |
 
 ### See Also
 

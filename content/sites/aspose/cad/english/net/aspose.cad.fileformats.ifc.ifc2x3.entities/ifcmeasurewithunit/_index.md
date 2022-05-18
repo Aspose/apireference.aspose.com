@@ -24,8 +24,16 @@ public class IfcMeasureWithUnit : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [UnitComponent](unitcomponent) { get; set; } | UnitComponent |
-| [ValueComponent](valuecomponent) { get; set; } | ValueComponent |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [UnitComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmeasurewithunit/unitcomponent) { get; set; } | UnitComponent |
+| [ValueComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmeasurewithunit/valuecomponent) { get; set; } | ValueComponent |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -25,9 +25,9 @@ public class ObserverPoint
 
 | Name | Description |
 | --- | --- |
-| [AngleRotateX](anglerotatex) { get; set; } | Gets or sets the angle rotate x. |
-| [AngleRotateY](anglerotatey) { get; set; } | Gets or sets the angle rotate y. |
-| [AngleRotateZ](anglerotatez) { get; set; } | Gets or sets the angle rotate z. |
+| [AngleRotateX](../../aspose.cad.fileformats/observerpoint/anglerotatex) { get; set; } | Gets or sets the angle rotate x. |
+| [AngleRotateY](../../aspose.cad.fileformats/observerpoint/anglerotatey) { get; set; } | Gets or sets the angle rotate y. |
+| [AngleRotateZ](../../aspose.cad.fileformats/observerpoint/anglerotatez) { get; set; } | Gets or sets the angle rotate z. |
 
 ### See Also
 

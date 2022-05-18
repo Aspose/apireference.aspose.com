@@ -24,8 +24,16 @@ public class IfcConnectionCurveGeometry : IfcConnectionGeometry
 
 | Name | Description |
 | --- | --- |
-| [CurveOnRelatedElement](curveonrelatedelement) { get; set; } | CurveOnRelatedElement |
-| [CurveOnRelatingElement](curveonrelatingelement) { get; set; } | CurveOnRelatingElement |
+| [CurveOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curveonrelatedelement) { get; set; } | CurveOnRelatedElement |
+| [CurveOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curveonrelatingelement) { get; set; } | CurveOnRelatingElement |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

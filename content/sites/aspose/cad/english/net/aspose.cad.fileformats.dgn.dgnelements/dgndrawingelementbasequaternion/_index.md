@@ -18,7 +18,10 @@ public abstract class DgnDrawingElementBaseQuaternion : DgnDrawingElementBase
 
 | Name | Description |
 | --- | --- |
-| [QuaternionRotations](quaternionrotations) { get; } | Gets or sets |
+| abstract [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| abstract [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase/minpoint) { get; } | Gets the min point of object. |
+| [QuaternionRotations](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion/quaternionrotations) { get; } | Gets or sets |
 
 ### See Also
 

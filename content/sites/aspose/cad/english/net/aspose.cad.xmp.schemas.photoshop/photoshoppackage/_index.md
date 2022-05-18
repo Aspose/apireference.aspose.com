@@ -18,29 +18,46 @@ public sealed class PhotoshopPackage : XmpPackage
 | --- | --- |
 | [PhotoshopPackage](photoshoppackage)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Item](../../aspose.cad.xmp/xmppackage/item) { get; set; } |  |
+| virtual [Keys](../../aspose.cad.xmp/xmppackage/keys) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp/xmppackage/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp/xmppackage/prefix) { get; } |  |
+| [XmlNamespace](../../aspose.cad.xmp/xmppackage/xmlnamespace) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddValue](addvalue)(string, string) |  |
-| [SetAuthorsPosition](setauthorsposition)(string) |  |
-| [SetCaptionWriter](setcaptionwriter)(string) |  |
-| [SetCategory](setcategory)(string) |  |
-| [SetCity](setcity)(string) |  |
-| [SetColorMode](setcolormode)(ColorMode) |  |
-| [SetCountry](setcountry)(string) |  |
-| [SetCreatedDate](setcreateddate)(DateTime) |  |
-| [SetCredit](setcredit)(string) |  |
-| [SetDocumentAncestors](setdocumentancestors)(string[]) |  |
-| [SetHeadline](setheadline)(string) |  |
-| [SetHistory](sethistory)(string) |  |
-| [SetIccProfile](seticcprofile)(string) |  |
-| [SetInstructions](setinstructions)(string) |  |
-| [SetSource](setsource)(string) |  |
-| [SetState](setstate)(string) |  |
-| [SetSupplementalCategories](setsupplementalcategories)(string[]) |  |
-| [SetTransmissionReference](settransmissionreference)(string) |  |
-| [SetUrgency](seturgency)(int) |  |
+| override [AddValue](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/addvalue)(string, string) |  |
+| virtual [Clear](../../aspose.cad.xmp/xmppackage/clear)() |  |
+| virtual [ContainsKey](../../aspose.cad.xmp/xmppackage/containskey)(string) |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackage/getenumerator)() |  |
+| virtual [GetXmlValue](../../aspose.cad.xmp/xmppackage/getxmlvalue)() |  |
+| virtual [Remove](../../aspose.cad.xmp/xmppackage/remove)(string) |  |
+| [SetAuthorsPosition](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setauthorsposition)(string) |  |
+| [SetCaptionWriter](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter)(string) |  |
+| [SetCategory](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setcategory)(string) |  |
+| [SetCity](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setcity)(string) |  |
+| [SetColorMode](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setcolormode)(ColorMode) |  |
+| [SetCountry](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setcountry)(string) |  |
+| [SetCreatedDate](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setcreateddate)(DateTime) |  |
+| [SetCredit](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setcredit)(string) |  |
+| [SetDocumentAncestors](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors)(string[]) |  |
+| [SetHeadline](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setheadline)(string) |  |
+| [SetHistory](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/sethistory)(string) |  |
+| [SetIccProfile](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/seticcprofile)(string) |  |
+| [SetInstructions](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setinstructions)(string) |  |
+| [SetSource](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setsource)(string) |  |
+| [SetState](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setstate)(string) |  |
+| [SetSupplementalCategories](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories)(string[]) |  |
+| [SetTransmissionReference](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/settransmissionreference)(string) |  |
+| [SetUrgency](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/seturgency)(int) |  |
+| virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
+| virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
 ## Other Members
 

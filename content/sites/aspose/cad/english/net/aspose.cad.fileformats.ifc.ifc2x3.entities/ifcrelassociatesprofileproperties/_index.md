@@ -24,9 +24,22 @@ public class IfcRelAssociatesProfileProperties : IfcRelAssociates
 
 | Name | Description |
 | --- | --- |
-| [ProfileOrientation](profileorientation) { get; set; } | ProfileOrientation |
-| [ProfileSectionLocation](profilesectionlocation) { get; set; } | ProfileSectionLocation |
-| [RelatingProfileProperties](relatingprofileproperties) { get; set; } | RelatingProfileProperties |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [ProfileOrientation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/profileorientation) { get; set; } | ProfileOrientation |
+| [ProfileSectionLocation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/profilesectionlocation) { get; set; } | ProfileSectionLocation |
+| [RelatedObjects](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociates/relatedobjects) { get; set; } | RelatedObjects |
+| [RelatingProfileProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/relatingprofileproperties) { get; set; } | RelatingProfileProperties |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class DgnExtLocks
 
 | Name | Description |
 | --- | --- |
-| [Locks](locks) { get; } | Gets locks |
+| [Locks](../../aspose.cad.fileformats.dgn/dgnextlocks/locks) { get; } | Gets locks |
 
 ### See Also
 

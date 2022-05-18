@@ -25,16 +25,16 @@ public class DwfWhipTransform
 
 | Name | Description |
 | --- | --- |
-| [Rotation](rotation) { get; set; } | Gets or sets rotation angle |
-| [Translate](translate) { get; set; } | Gets or sets translate |
-| [XScale](xscale) { get; set; } | Gets or sets scale by x axis |
-| [YScale](yscale) { get; set; } | Gets or sets scale by y axis |
+| [Rotation](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/rotation) { get; set; } | Gets or sets rotation angle |
+| [Translate](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/translate) { get; set; } | Gets or sets translate |
+| [XScale](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/xscale) { get; set; } | Gets or sets scale by x axis |
+| [YScale](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/yscale) { get; set; } | Gets or sets scale by y axis |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [setRotation](setrotation)(long) | Sets rotation angle |
+| [setRotation](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/setrotation)(long) | Sets rotation angle |
 
 ### See Also
 

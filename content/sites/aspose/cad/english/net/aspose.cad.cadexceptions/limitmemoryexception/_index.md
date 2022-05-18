@@ -25,7 +25,7 @@ public class LimitMemoryException : OutOfMemoryException
 
 | Name | Description |
 | --- | --- |
-| [ReduceMemoryFactor](reducememoryfactor) { get; set; } |  |
+| [ReduceMemoryFactor](../../aspose.cad.cadexceptions/limitmemoryexception/reducememoryfactor) { get; set; } |  |
 
 ### See Also
 

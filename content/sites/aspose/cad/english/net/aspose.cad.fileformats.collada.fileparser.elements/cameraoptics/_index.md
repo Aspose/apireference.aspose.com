@@ -24,9 +24,9 @@ public class CameraOptics
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Technique](technique) { get; set; } | Gets or sets the technique. Each technique specifies optics information for a specific profile as designated by the technique’s profile attribute. |
-| [TechniqueCommon](techniquecommon) { get; set; } | Gets or sets the technique common. Specifies optics information for the common profile that all COLLADA implementations must support. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/cameraoptics/extra) { get; set; } | Gets or sets the extra. |
+| [Technique](../../aspose.cad.fileformats.collada.fileparser.elements/cameraoptics/technique) { get; set; } | Gets or sets the technique. Each technique specifies optics information for a specific profile as designated by the technique’s profile attribute. |
+| [TechniqueCommon](../../aspose.cad.fileformats.collada.fileparser.elements/cameraoptics/techniquecommon) { get; set; } | Gets or sets the technique common. Specifies optics information for the common profile that all COLLADA implementations must support. |
 
 ### See Also
 

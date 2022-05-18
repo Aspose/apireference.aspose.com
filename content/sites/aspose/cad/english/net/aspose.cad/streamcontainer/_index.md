@@ -23,39 +23,41 @@ public class StreamContainer : DisposableObject
 
 | Name | Description |
 | --- | --- |
-| virtual [CanRead](canread) { get; } |  |
-| virtual [CanSeek](canseek) { get; } |  |
-| virtual [CanWrite](canwrite) { get; } |  |
-| virtual [IsStreamDisposedOnClose](isstreamdisposedonclose) { get; } |  |
-| virtual [Length](length) { get; set; } |  |
-| virtual [Position](position) { get; set; } |  |
-| virtual [Stream](stream) { get; } |  |
-| [SyncRoot](syncroot) { get; } |  |
+| virtual [CanRead](../../aspose.cad/streamcontainer/canread) { get; } |  |
+| virtual [CanSeek](../../aspose.cad/streamcontainer/canseek) { get; } |  |
+| virtual [CanWrite](../../aspose.cad/streamcontainer/canwrite) { get; } |  |
+| [Disposed](../../aspose.cad/disposableobject/disposed) { get; } |  |
+| virtual [IsStreamDisposedOnClose](../../aspose.cad/streamcontainer/isstreamdisposedonclose) { get; } |  |
+| virtual [Length](../../aspose.cad/streamcontainer/length) { get; set; } |  |
+| virtual [Position](../../aspose.cad/streamcontainer/position) { get; set; } |  |
+| virtual [Stream](../../aspose.cad/streamcontainer/stream) { get; } |  |
+| [SyncRoot](../../aspose.cad/streamcontainer/syncroot) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Flush](flush)() |  |
-| virtual [Read](read)(byte[]) |  |
-| virtual [Read](read)(byte[], int, int) |  |
-| virtual [ReadByte](readbyte)() |  |
-| virtual [Save](save)(Stream) |  |
-| virtual [Save](save)(string) |  |
-| virtual [Save](save)(Stream, int) |  |
-| virtual [Save](save)(string, int) |  |
-| virtual [Save](save)(Stream, int, long) |  |
-| virtual [Save](save)(string, int, long) |  |
-| virtual [Seek](seek)(long, SeekOrigin) |  |
-| virtual [SeekBegin](seekbegin)() |  |
-| virtual [ToBytes](tobytes)() |  |
-| virtual [ToBytes](tobytes)(long, long) |  |
-| virtual [Write](write)(byte[]) |  |
-| virtual [Write](write)(byte[], int, int) |  |
-| virtual [WriteByte](writebyte)(byte) |  |
-| virtual [WriteTo](writeto)(StreamContainer) |  |
-| virtual [WriteTo](writeto)(StreamContainer, long) |  |
-| [explicit operator](op_explicit) |  |
+| [Dispose](../../aspose.cad/disposableobject/dispose)() |  |
+| virtual [Flush](../../aspose.cad/streamcontainer/flush)() |  |
+| virtual [Read](../../aspose.cad/streamcontainer/read)(byte[]) |  |
+| virtual [Read](../../aspose.cad/streamcontainer/read)(byte[], int, int) |  |
+| virtual [ReadByte](../../aspose.cad/streamcontainer/readbyte)() |  |
+| virtual [Save](../../aspose.cad/streamcontainer/save)(Stream) |  |
+| virtual [Save](../../aspose.cad/streamcontainer/save)(string) |  |
+| virtual [Save](../../aspose.cad/streamcontainer/save)(Stream, int) |  |
+| virtual [Save](../../aspose.cad/streamcontainer/save)(string, int) |  |
+| virtual [Save](../../aspose.cad/streamcontainer/save)(Stream, int, long) |  |
+| virtual [Save](../../aspose.cad/streamcontainer/save)(string, int, long) |  |
+| virtual [Seek](../../aspose.cad/streamcontainer/seek)(long, SeekOrigin) |  |
+| virtual [SeekBegin](../../aspose.cad/streamcontainer/seekbegin)() |  |
+| virtual [ToBytes](../../aspose.cad/streamcontainer/tobytes)() |  |
+| virtual [ToBytes](../../aspose.cad/streamcontainer/tobytes)(long, long) |  |
+| virtual [Write](../../aspose.cad/streamcontainer/write)(byte[]) |  |
+| virtual [Write](../../aspose.cad/streamcontainer/write)(byte[], int, int) |  |
+| virtual [WriteByte](../../aspose.cad/streamcontainer/writebyte)(byte) |  |
+| virtual [WriteTo](../../aspose.cad/streamcontainer/writeto)(StreamContainer) |  |
+| virtual [WriteTo](../../aspose.cad/streamcontainer/writeto)(StreamContainer, long) |  |
+| [explicit operator](../../aspose.cad/streamcontainer/op_explicit) |  |
 
 ## Other Members
 

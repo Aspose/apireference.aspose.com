@@ -24,8 +24,25 @@ public class IfcRegularTimeSeries : IfcTimeSeries
 
 | Name | Description |
 | --- | --- |
-| [TimeStep](timestep) { get; set; } | TimeStep |
-| [Values](values) { get; set; } | Values |
+| [DataOrigin](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/dataorigin) { get; set; } | DataOrigin |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/description) { get; set; } | Description |
+| [DocumentedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/documentedby) { get; } | DocumentedBy |
+| [EndTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/endtime) { get; set; } | EndTime |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/name) { get; set; } | Name |
+| [StartTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/starttime) { get; set; } | StartTime |
+| [TimeSeriesDataType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/timeseriesdatatype) { get; set; } | TimeSeriesDataType |
+| [TimeStep](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcregulartimeseries/timestep) { get; set; } | TimeStep |
+| [Unit](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/unit) { get; set; } | Unit |
+| [UserDefinedDataOrigin](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/userdefineddataorigin) { get; set; } | UserDefinedDataOrigin |
+| [Values](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcregulartimeseries/values) { get; set; } | Values |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

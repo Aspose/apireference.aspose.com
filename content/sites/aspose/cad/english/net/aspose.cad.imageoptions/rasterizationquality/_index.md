@@ -24,11 +24,11 @@ public class RasterizationQuality
 
 | Name | Description |
 | --- | --- |
-| [Arc](arc) { get; set; } | Gets or sets the arc and spline quality. |
-| [Hatch](hatch) { get; set; } | Gets or sets the hatch quality. |
-| [ObjectsPrecision](objectsprecision) { get; set; } | Gets or sets the objects precision. |
-| [Text](text) { get; set; } | Gets or sets the text quality. |
-| [TextThicknessNormalization](textthicknessnormalization) { get; set; } | Gets or sets a value indicating whether [text thickness normalization]. |
+| [Arc](../../aspose.cad.imageoptions/rasterizationquality/arc) { get; set; } | Gets or sets the arc and spline quality. |
+| [Hatch](../../aspose.cad.imageoptions/rasterizationquality/hatch) { get; set; } | Gets or sets the hatch quality. |
+| [ObjectsPrecision](../../aspose.cad.imageoptions/rasterizationquality/objectsprecision) { get; set; } | Gets or sets the objects precision. |
+| [Text](../../aspose.cad.imageoptions/rasterizationquality/text) { get; set; } | Gets or sets the text quality. |
+| [TextThicknessNormalization](../../aspose.cad.imageoptions/rasterizationquality/textthicknessnormalization) { get; set; } | Gets or sets a value indicating whether [text thickness normalization]. |
 
 ### See Also
 

@@ -24,16 +24,16 @@ public class CifReplacingEncoderFallbackBuffer : EncoderFallbackBuffer
 
 | Name | Description |
 | --- | --- |
-| override [Remaining](remaining) { get; } | Count of remaining characters in replacement buffer |
+| override [Remaining](../../aspose.cad/cifreplacingencoderfallbackbuffer/remaining) { get; } | Count of remaining characters in replacement buffer |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Fallback](fallback)(char, int) | Called when a single-char character out of output codepage is encountered |
-| override [Fallback](fallback)(char, char, int) | Called when a surrogate pair of characters out of output codepage is encountered |
-| override [GetNextChar](getnextchar)() | Gets next replacement char |
-| override [MovePrevious](moveprevious)() | Rewinds position in the replacement buffer by one |
+| override [Fallback](../../aspose.cad/cifreplacingencoderfallbackbuffer/fallback)(char, int) | Called when a single-char character out of output codepage is encountered |
+| override [Fallback](../../aspose.cad/cifreplacingencoderfallbackbuffer/fallback)(char, char, int) | Called when a surrogate pair of characters out of output codepage is encountered |
+| override [GetNextChar](../../aspose.cad/cifreplacingencoderfallbackbuffer/getnextchar)() | Gets next replacement char |
+| override [MovePrevious](../../aspose.cad/cifreplacingencoderfallbackbuffer/moveprevious)() | Rewinds position in the replacement buffer by one |
 
 ### See Also
 

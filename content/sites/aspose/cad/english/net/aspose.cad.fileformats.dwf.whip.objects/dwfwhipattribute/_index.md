@@ -20,6 +20,12 @@ public class DwfWhipAttribute : DwfWhipObject
 | --- | --- |
 | [DwfWhipAttribute](dwfwhipattribute)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+
 ### See Also
 
 * class [DwfWhipObject](../dwfwhipobject)

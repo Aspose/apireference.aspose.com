@@ -24,8 +24,8 @@ public class InputLocal : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Semantic](semantic) { get; set; } | Gets or sets the semantic. The semantic attribute is the user-defined meaning of the input connection. Required attribute. |
-| [Source](source) { get; set; } | Gets or sets the source. The source attribute indicates the location of the data source. Required attribute. |
+| [Semantic](../../aspose.cad.fileformats.collada.fileparser.elements/inputlocal/semantic) { get; set; } | Gets or sets the semantic. The semantic attribute is the user-defined meaning of the input connection. Required attribute. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/inputlocal/source) { get; set; } | Gets or sets the source. The source attribute indicates the location of the data source. Required attribute. |
 
 ### See Also
 

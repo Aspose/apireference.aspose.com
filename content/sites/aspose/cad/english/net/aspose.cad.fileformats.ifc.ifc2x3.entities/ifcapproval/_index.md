@@ -24,16 +24,24 @@ public class IfcApproval : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Actors](actors) { get; } | Actors |
-| [ApprovalDateTime](approvaldatetime) { get; set; } | ApprovalDateTime |
-| [ApprovalLevel](approvallevel) { get; set; } | ApprovalLevel |
-| [ApprovalQualifier](approvalqualifier) { get; set; } | ApprovalQualifier |
-| [ApprovalStatus](approvalstatus) { get; set; } | ApprovalStatus |
-| [Description](description) { get; set; } | Description |
-| [Identifier](identifier) { get; set; } | Identifier |
-| [IsRelatedWith](isrelatedwith) { get; } | IsRelatedWith |
-| [Name](name) { get; set; } | Name |
-| [Relates](relates) { get; } | Relates |
+| [Actors](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/actors) { get; } | Actors |
+| [ApprovalDateTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvaldatetime) { get; set; } | ApprovalDateTime |
+| [ApprovalLevel](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvallevel) { get; set; } | ApprovalLevel |
+| [ApprovalQualifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvalqualifier) { get; set; } | ApprovalQualifier |
+| [ApprovalStatus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvalstatus) { get; set; } | ApprovalStatus |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Identifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/identifier) { get; set; } | Identifier |
+| [IsRelatedWith](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/isrelatedwith) { get; } | IsRelatedWith |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/name) { get; set; } | Name |
+| [Relates](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/relates) { get; } | Relates |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

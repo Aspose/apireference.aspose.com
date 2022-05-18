@@ -18,16 +18,33 @@ public sealed class XmpRightsManagementPackage : XmpPackage
 | --- | --- |
 | [XmpRightsManagementPackage](xmprightsmanagementpackage)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Item](../../aspose.cad.xmp/xmppackage/item) { get; set; } |  |
+| virtual [Keys](../../aspose.cad.xmp/xmppackage/keys) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp/xmppackage/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp/xmppackage/prefix) { get; } |  |
+| [XmlNamespace](../../aspose.cad.xmp/xmppackage/xmlnamespace) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddValue](addvalue)(string, string) |  |
-| [SetCertificate](setcertificate)(string) |  |
-| [SetMarkedAsRightManagement](setmarkedasrightmanagement)(bool) |  |
-| [SetOwners](setowners)(string[]) |  |
-| [SetUsageTerms](setusageterms)(LangAlt) |  |
-| [SetWebStatement](setwebstatement)(string) |  |
+| override [AddValue](../../aspose.cad.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue)(string, string) |  |
+| virtual [Clear](../../aspose.cad.xmp/xmppackage/clear)() |  |
+| virtual [ContainsKey](../../aspose.cad.xmp/xmppackage/containskey)(string) |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackage/getenumerator)() |  |
+| virtual [GetXmlValue](../../aspose.cad.xmp/xmppackage/getxmlvalue)() |  |
+| virtual [Remove](../../aspose.cad.xmp/xmppackage/remove)(string) |  |
+| [SetCertificate](../../aspose.cad.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate)(string) |  |
+| [SetMarkedAsRightManagement](../../aspose.cad.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement)(bool) |  |
+| [SetOwners](../../aspose.cad.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners)(string[]) |  |
+| [SetUsageTerms](../../aspose.cad.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms)(LangAlt) |  |
+| virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
+| [SetWebStatement](../../aspose.cad.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement)(string) |  |
+| virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
 ### See Also
 

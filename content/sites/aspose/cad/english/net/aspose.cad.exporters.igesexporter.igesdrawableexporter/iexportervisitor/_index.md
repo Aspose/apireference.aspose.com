@@ -18,9 +18,9 @@ public interface IExporterVisitor
 
 | Name | Description |
 | --- | --- |
-| [Visit](visit)(IBezierCurve) | Visits curve |
-| [Visit](visit)(IPolyLine) | Visits line |
-| [Visit](visit)(IText) | Visits text |
+| [Visit](../../aspose.cad.exporters.igesexporter.igesdrawableexporter/iexportervisitor/visit)(IBezierCurve) | Visits curve |
+| [Visit](../../aspose.cad.exporters.igesexporter.igesdrawableexporter/iexportervisitor/visit)(IPolyLine) | Visits line |
+| [Visit](../../aspose.cad.exporters.igesexporter.igesdrawableexporter/iexportervisitor/visit)(IText) | Visits text |
 
 ### See Also
 

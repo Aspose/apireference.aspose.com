@@ -23,8 +23,8 @@ public class ResolutionSetting
 
 | Name | Description |
 | --- | --- |
-| [HorizontalResolution](horizontalresolution) { get; set; } |  |
-| [VerticalResolution](verticalresolution) { get; set; } |  |
+| [HorizontalResolution](../../aspose.cad/resolutionsetting/horizontalresolution) { get; set; } |  |
+| [VerticalResolution](../../aspose.cad/resolutionsetting/verticalresolution) { get; set; } |  |
 
 ### See Also
 

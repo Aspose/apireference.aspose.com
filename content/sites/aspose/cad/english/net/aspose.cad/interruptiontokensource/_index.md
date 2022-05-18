@@ -24,14 +24,14 @@ public class InterruptionTokenSource : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Token](token) { get; } | Token used to interrupt long operations |
+| [Token](../../aspose.cad/interruptiontokensource/token) { get; } | Token used to interrupt long operations |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Disposes source |
-| [Interrupt](interrupt)() | Triggers the interruption of operation |
+| [Dispose](../../aspose.cad/interruptiontokensource/dispose)() | Disposes source |
+| [Interrupt](../../aspose.cad/interruptiontokensource/interrupt)() | Triggers the interruption of operation |
 
 ### See Also
 

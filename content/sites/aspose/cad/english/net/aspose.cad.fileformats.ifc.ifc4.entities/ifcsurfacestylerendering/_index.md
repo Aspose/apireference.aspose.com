@@ -24,13 +24,23 @@ public class IfcSurfaceStyleRendering : IfcSurfaceStyleShading
 
 | Name | Description |
 | --- | --- |
-| [DiffuseColour](diffusecolour) { get; set; } | DiffuseColour |
-| [DiffuseTransmissionColour](diffusetransmissioncolour) { get; set; } | DiffuseTransmissionColour |
-| [ReflectanceMethod](reflectancemethod) { get; set; } | ReflectanceMethod |
-| [ReflectionColour](reflectioncolour) { get; set; } | ReflectionColour |
-| [SpecularColour](specularcolour) { get; set; } | SpecularColour |
-| [SpecularHighlight](specularhighlight) { get; set; } | SpecularHighlight |
-| [TransmissionColour](transmissioncolour) { get; set; } | TransmissionColour |
+| [DiffuseColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/diffusecolour) { get; set; } | DiffuseColour |
+| [DiffuseTransmissionColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/diffusetransmissioncolour) { get; set; } | DiffuseTransmissionColour |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ReflectanceMethod](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/reflectancemethod) { get; set; } | ReflectanceMethod |
+| [ReflectionColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/reflectioncolour) { get; set; } | ReflectionColour |
+| [SpecularColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/specularcolour) { get; set; } | SpecularColour |
+| [SpecularHighlight](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/specularhighlight) { get; set; } | SpecularHighlight |
+| [SurfaceColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestyleshading/surfacecolour) { get; set; } | SurfaceColour |
+| [TransmissionColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/transmissioncolour) { get; set; } | TransmissionColour |
+| [Transparency](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestyleshading/transparency) { get; set; } | Transparency |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -24,10 +24,10 @@ public class ProfileCommon : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Id](id) { get; set; } | Gets or sets the id. |
-| [Technique](technique) { get; set; } | Gets or sets the technique. Holds a description of the textures, samplers, SHADERS, parameters, and passes necessary for rendering this effect using one method. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/asset) { get; set; } | Gets or sets the asset. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/id) { get; set; } | Gets or sets the id. |
+| [Technique](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/technique) { get; set; } | Gets or sets the technique. Holds a description of the textures, samplers, SHADERS, parameters, and passes necessary for rendering this effect using one method. |
 
 ### See Also
 

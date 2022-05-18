@@ -24,10 +24,19 @@ public class IfcThermalMaterialProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [BoilingPoint](boilingpoint) { get; set; } | BoilingPoint |
-| [FreezingPoint](freezingpoint) { get; set; } | FreezingPoint |
-| [SpecificHeatCapacity](specificheatcapacity) { get; set; } | SpecificHeatCapacity |
-| [ThermalConductivity](thermalconductivity) { get; set; } | ThermalConductivity |
+| [BoilingPoint](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/boilingpoint) { get; set; } | BoilingPoint |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FreezingPoint](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/freezingpoint) { get; set; } | FreezingPoint |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material) { get; set; } | Material |
+| [SpecificHeatCapacity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/specificheatcapacity) { get; set; } | SpecificHeatCapacity |
+| [ThermalConductivity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/thermalconductivity) { get; set; } | ThermalConductivity |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

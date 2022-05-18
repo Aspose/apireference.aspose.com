@@ -16,7 +16,7 @@ public interface IXmpType
 
 | Name | Description |
 | --- | --- |
-| [GetXmpRepresentation](getxmprepresentation)() |  |
+| [GetXmpRepresentation](../../aspose.cad.xmp.types/ixmptype/getxmprepresentation)() |  |
 
 ### See Also
 

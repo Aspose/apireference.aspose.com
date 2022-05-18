@@ -24,18 +24,31 @@ public class IfcAsymmetricIShapeProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [BottomFlangeEdgeRadius](bottomflangeedgeradius) { get; set; } | BottomFlangeEdgeRadius |
-| [BottomFlangeFilletRadius](bottomflangefilletradius) { get; set; } | BottomFlangeFilletRadius |
-| [BottomFlangeSlope](bottomflangeslope) { get; set; } | BottomFlangeSlope |
-| [BottomFlangeThickness](bottomflangethickness) { get; set; } | BottomFlangeThickness |
-| [BottomFlangeWidth](bottomflangewidth) { get; set; } | BottomFlangeWidth |
-| [OverallDepth](overalldepth) { get; set; } | OverallDepth |
-| [TopFlangeEdgeRadius](topflangeedgeradius) { get; set; } | TopFlangeEdgeRadius |
-| [TopFlangeFilletRadius](topflangefilletradius) { get; set; } | TopFlangeFilletRadius |
-| [TopFlangeSlope](topflangeslope) { get; set; } | TopFlangeSlope |
-| [TopFlangeThickness](topflangethickness) { get; set; } | TopFlangeThickness |
-| [TopFlangeWidth](topflangewidth) { get; set; } | TopFlangeWidth |
-| [WebThickness](webthickness) { get; set; } | WebThickness |
+| [BottomFlangeEdgeRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangeedgeradius) { get; set; } | BottomFlangeEdgeRadius |
+| [BottomFlangeFilletRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangefilletradius) { get; set; } | BottomFlangeFilletRadius |
+| [BottomFlangeSlope](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangeslope) { get; set; } | BottomFlangeSlope |
+| [BottomFlangeThickness](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangethickness) { get; set; } | BottomFlangeThickness |
+| [BottomFlangeWidth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangewidth) { get; set; } | BottomFlangeWidth |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference) { get; } | HasExternalReference |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties) { get; } | HasProperties |
+| [OverallDepth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/overalldepth) { get; set; } | OverallDepth |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef/position) { get; set; } | Position |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+| [TopFlangeEdgeRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/topflangeedgeradius) { get; set; } | TopFlangeEdgeRadius |
+| [TopFlangeFilletRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/topflangefilletradius) { get; set; } | TopFlangeFilletRadius |
+| [TopFlangeSlope](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/topflangeslope) { get; set; } | TopFlangeSlope |
+| [TopFlangeThickness](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/topflangethickness) { get; set; } | TopFlangeThickness |
+| [TopFlangeWidth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/topflangewidth) { get; set; } | TopFlangeWidth |
+| [WebThickness](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/webthickness) { get; set; } | WebThickness |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

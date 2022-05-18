@@ -18,9 +18,15 @@ public class Dgn3DSurfaceElement : DgnCompoundElement
 
 | Name | Description |
 | --- | --- |
-| [BoundElementsCount](boundelementscount) { get; } | Gets bound elements count |
-| [CreationMethod](creationmethod) { get; } | Gets surface creation method |
-| [SurfaceType](surfacetype) { get; } | Gets surface type |
+| [BoundElementsCount](../../aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/boundelementscount) { get; } | Gets bound elements count |
+| [CreationMethod](../../aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/creationmethod) { get; } | Gets surface creation method |
+| [Elements](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/elements) { get; } | Gets related elements |
+| [ElementsCount](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/elementscount) { get; } | Gets or sets related elements count |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/minpoint) { get; } | Gets the min point of object. |
+| [SurfaceType](../../aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/surfacetype) { get; } | Gets surface type |
+| [TotalLength](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/totallength) { get; } | Gets or sets total length of data of related elements |
 
 ### See Also
 

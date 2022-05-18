@@ -23,13 +23,13 @@ public sealed class XmpReal : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } |  |
+| [Value](../../aspose.cad.xmp.types.basic/xmpreal/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.basic/xmpreal/getxmprepresentation)() |  |
 
 ### See Also
 

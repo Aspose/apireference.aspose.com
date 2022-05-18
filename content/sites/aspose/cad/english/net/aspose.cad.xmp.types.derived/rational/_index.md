@@ -22,15 +22,15 @@ public class Rational : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Denominator](denominator) { get; set; } |  |
-| [FloatValue](floatvalue) { get; } |  |
-| [Numerator](numerator) { get; } |  |
+| [Denominator](../../aspose.cad.xmp.types.derived/rational/denominator) { get; set; } |  |
+| [FloatValue](../../aspose.cad.xmp.types.derived/rational/floatvalue) { get; } |  |
+| [Numerator](../../aspose.cad.xmp.types.derived/rational/numerator) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.derived/rational/getxmprepresentation)() |  |
 
 ### See Also
 

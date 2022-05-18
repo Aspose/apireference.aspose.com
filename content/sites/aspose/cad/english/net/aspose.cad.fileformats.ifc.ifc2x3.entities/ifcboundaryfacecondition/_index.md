@@ -24,9 +24,18 @@ public class IfcBoundaryFaceCondition : IfcBoundaryCondition
 
 | Name | Description |
 | --- | --- |
-| [LinearStiffnessByAreaX](linearstiffnessbyareax) { get; set; } | LinearStiffnessByAreaX |
-| [LinearStiffnessByAreaY](linearstiffnessbyareay) { get; set; } | LinearStiffnessByAreaY |
-| [LinearStiffnessByAreaZ](linearstiffnessbyareaz) { get; set; } | LinearStiffnessByAreaZ |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LinearStiffnessByAreaX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareax) { get; set; } | LinearStiffnessByAreaX |
+| [LinearStiffnessByAreaY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareay) { get; set; } | LinearStiffnessByAreaY |
+| [LinearStiffnessByAreaZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareaz) { get; set; } | LinearStiffnessByAreaZ |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarycondition/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

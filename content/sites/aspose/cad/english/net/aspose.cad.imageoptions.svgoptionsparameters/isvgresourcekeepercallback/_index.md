@@ -18,9 +18,9 @@ public interface ISvgResourceKeeperCallback
 
 | Name | Description |
 | --- | --- |
-| [OnFontResourceReady](onfontresourceready)(FontStoringArgs) | Called for each font used in SVG. Use it to specify how to store the font. |
-| [OnImageResourceReady](onimageresourceready)(byte[], SvgImageType, string, ref bool) | Called for each raster image in SVG. Use it to specify how to store the raster image. |
-| [OnSvgDocumentReady](onsvgdocumentready)(byte[], string) | Called when SVG document is ready. |
+| [OnFontResourceReady](../../aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onfontresourceready)(FontStoringArgs) | Called for each font used in SVG. Use it to specify how to store the font. |
+| [OnImageResourceReady](../../aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onimageresourceready)(byte[], SvgImageType, string, ref bool) | Called for each raster image in SVG. Use it to specify how to store the raster image. |
+| [OnSvgDocumentReady](../../aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onsvgdocumentready)(byte[], string) | Called when SVG document is ready. |
 
 ### See Also
 

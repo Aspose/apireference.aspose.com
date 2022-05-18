@@ -24,7 +24,7 @@ public class TechniqueCommon : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Accessor](accessor) { get; set; } | Gets or sets the accessor. The source's technique_common must have one and only one accessor. |
+| [Accessor](../../aspose.cad.fileformats.collada.fileparser.elements/techniquecommon/accessor) { get; set; } | Gets or sets the accessor. The source's technique_common must have one and only one accessor. |
 
 ### See Also
 

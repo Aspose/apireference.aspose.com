@@ -18,7 +18,11 @@ public class DgnShapeElement : DgnLineElement
 
 | Name | Description |
 | --- | --- |
-| [Filled](filled) { get; } | Gets a value indicating whether this [`DgnShapeElement`](../dgnshapeelement) is filled. |
+| [Filled](../../aspose.cad.fileformats.dgn.dgnelements/dgnshapeelement/filled) { get; } | Gets a value indicating whether this [`DgnShapeElement`](../dgnshapeelement) is filled. |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/minpoint) { get; } | Gets the min point of object. |
+| [Vertices](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/vertices) { get; } | Gets vertices of the line |
 
 ### See Also
 

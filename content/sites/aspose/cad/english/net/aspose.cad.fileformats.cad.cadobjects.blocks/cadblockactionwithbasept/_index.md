@@ -22,11 +22,24 @@ public class CadBlockActionWithBasePt : CadBlockAction
 
 | Name | Description |
 | --- | --- |
-| [Attribute280](attribute280) { get; set; } |  |
-| [Attribute301](attribute301) { get; set; } |  |
-| [Attribute302](attribute302) { get; set; } |  |
-| [Attribute92](attribute92) { get; set; } |  |
-| [Attribute93](attribute93) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attribute280](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute280) { get; set; } |  |
+| [Attribute301](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute301) { get; set; } |  |
+| [Attribute302](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute302) { get; set; } |  |
+| [Attribute92](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute92) { get; set; } |  |
+| [Attribute93](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute93) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [BlockActionParameterList](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaction/blockactionparameterlist) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [DbEvalExprParameterList](../../aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/dbevalexprparameterlist) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

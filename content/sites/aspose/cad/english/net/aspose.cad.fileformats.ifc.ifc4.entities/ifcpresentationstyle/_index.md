@@ -20,7 +20,15 @@ public abstract class IfcPresentationStyle : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; set; } | Name |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationstyle/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

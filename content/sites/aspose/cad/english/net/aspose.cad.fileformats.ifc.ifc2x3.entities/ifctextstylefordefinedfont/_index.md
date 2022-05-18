@@ -26,8 +26,16 @@ public class IfcTextStyleForDefinedFont : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColour](backgroundcolour) { get; set; } | BackgroundColour |
-| [Colour](colour) { get; set; } | Colour |
+| [BackgroundColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefordefinedfont/backgroundcolour) { get; set; } | BackgroundColour |
+| [Colour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefordefinedfont/colour) { get; set; } | Colour |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

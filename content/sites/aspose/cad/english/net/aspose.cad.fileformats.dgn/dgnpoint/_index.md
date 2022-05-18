@@ -26,9 +26,9 @@ public class DgnPoint
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } | Gets or sets X coordinate |
-| [Y](y) { get; set; } | Gets or sets Y coordinate |
-| [Z](z) { get; set; } | Gets or sets Z coordinate |
+| [X](../../aspose.cad.fileformats.dgn/dgnpoint/x) { get; set; } | Gets or sets X coordinate |
+| [Y](../../aspose.cad.fileformats.dgn/dgnpoint/y) { get; set; } | Gets or sets Y coordinate |
+| [Z](../../aspose.cad.fileformats.dgn/dgnpoint/z) { get; set; } | Gets or sets Z coordinate |
 
 ### See Also
 

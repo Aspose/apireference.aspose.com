@@ -24,7 +24,7 @@ public class DgnExtViewFlags
 
 | Name | Description |
 | --- | --- |
-| [IsFilled](isfilled) { get; } | Gets a value indicating whether view is filled or not |
+| [IsFilled](../../aspose.cad.fileformats.dgn/dgnextviewflags/isfilled) { get; } | Gets a value indicating whether view is filled or not |
 
 ### See Also
 

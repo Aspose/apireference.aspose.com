@@ -22,33 +22,33 @@ public class CadTableStyleCell
 
 | Name | Description |
 | --- | --- |
-| [Attribute1](attribute1) { get; set; } |  |
-| [CellAlignment](cellalignment) { get; set; } |  |
-| [CellDataType](celldatatype) { get; set; } |  |
-| [CellFillColor](cellfillcolor) { get; set; } |  |
-| [CellUnitType](cellunittype) { get; set; } |  |
-| [ColorValue1](colorvalue1) { get; set; } |  |
-| [ColorValue2](colorvalue2) { get; set; } |  |
-| [ColorValue3](colorvalue3) { get; set; } |  |
-| [ColorValue4](colorvalue4) { get; set; } |  |
-| [ColorValue5](colorvalue5) { get; set; } |  |
-| [ColorValue6](colorvalue6) { get; set; } |  |
-| [FlagForWhetherBackgroundColorIsEnabled](flagforwhetherbackgroundcolorisenabled) { get; set; } |  |
-| [LineWeight1](lineweight1) { get; set; } |  |
-| [LineWeight2](lineweight2) { get; set; } |  |
-| [LineWeight3](lineweight3) { get; set; } |  |
-| [LineWeight4](lineweight4) { get; set; } |  |
-| [LineWeight5](lineweight5) { get; set; } |  |
-| [LineWeight6](lineweight6) { get; set; } |  |
-| [TextColor](textcolor) { get; set; } |  |
-| [TextHeight](textheight) { get; set; } |  |
-| [TextStyleName](textstylename) { get; set; } |  |
-| [VisibilityFlag1](visibilityflag1) { get; set; } |  |
-| [VisibilityFlag2](visibilityflag2) { get; set; } |  |
-| [VisibilityFlag3](visibilityflag3) { get; set; } |  |
-| [VisibilityFlag4](visibilityflag4) { get; set; } |  |
-| [VisibilityFlag5](visibilityflag5) { get; set; } |  |
-| [VisibilityFlag6](visibilityflag6) { get; set; } |  |
+| [Attribute1](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/attribute1) { get; set; } |  |
+| [CellAlignment](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cellalignment) { get; set; } |  |
+| [CellDataType](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/celldatatype) { get; set; } |  |
+| [CellFillColor](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cellfillcolor) { get; set; } |  |
+| [CellUnitType](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cellunittype) { get; set; } |  |
+| [ColorValue1](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/colorvalue1) { get; set; } |  |
+| [ColorValue2](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/colorvalue2) { get; set; } |  |
+| [ColorValue3](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/colorvalue3) { get; set; } |  |
+| [ColorValue4](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/colorvalue4) { get; set; } |  |
+| [ColorValue5](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/colorvalue5) { get; set; } |  |
+| [ColorValue6](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/colorvalue6) { get; set; } |  |
+| [FlagForWhetherBackgroundColorIsEnabled](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/flagforwhetherbackgroundcolorisenabled) { get; set; } |  |
+| [LineWeight1](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/lineweight1) { get; set; } |  |
+| [LineWeight2](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/lineweight2) { get; set; } |  |
+| [LineWeight3](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/lineweight3) { get; set; } |  |
+| [LineWeight4](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/lineweight4) { get; set; } |  |
+| [LineWeight5](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/lineweight5) { get; set; } |  |
+| [LineWeight6](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/lineweight6) { get; set; } |  |
+| [TextColor](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/textcolor) { get; set; } |  |
+| [TextHeight](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/textheight) { get; set; } |  |
+| [TextStyleName](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/textstylename) { get; set; } |  |
+| [VisibilityFlag1](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibilityflag1) { get; set; } |  |
+| [VisibilityFlag2](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibilityflag2) { get; set; } |  |
+| [VisibilityFlag3](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibilityflag3) { get; set; } |  |
+| [VisibilityFlag4](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibilityflag4) { get; set; } |  |
+| [VisibilityFlag5](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibilityflag5) { get; set; } |  |
+| [VisibilityFlag6](../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibilityflag6) { get; set; } |  |
 
 ### See Also
 

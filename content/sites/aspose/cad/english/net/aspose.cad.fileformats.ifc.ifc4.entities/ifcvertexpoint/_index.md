@@ -24,7 +24,17 @@ public class IfcVertexPoint : IfcVertex
 
 | Name | Description |
 | --- | --- |
-| [VertexGeometry](vertexgeometry) { get; set; } | VertexGeometry |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [VertexGeometry](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcvertexpoint/vertexgeometry) { get; set; } | VertexGeometry |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

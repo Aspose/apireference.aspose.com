@@ -24,8 +24,18 @@ public class IfcGridPlacement : IfcObjectPlacement
 
 | Name | Description |
 | --- | --- |
-| [PlacementLocation](placementlocation) { get; set; } | PlacementLocation |
-| [PlacementRefDirection](placementrefdirection) { get; set; } | PlacementRefDirection |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [PlacementLocation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementlocation) { get; set; } | PlacementLocation |
+| [PlacementRefDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementrefdirection) { get; set; } | PlacementRefDirection |
+| [PlacesObject](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/placesobject) { get; } | PlacesObject |
+| [ReferencedByPlacements](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/referencedbyplacements) { get; } | ReferencedByPlacements |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

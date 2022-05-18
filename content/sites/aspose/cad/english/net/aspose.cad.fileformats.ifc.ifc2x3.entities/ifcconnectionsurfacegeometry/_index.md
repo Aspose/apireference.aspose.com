@@ -24,8 +24,16 @@ public class IfcConnectionSurfaceGeometry : IfcConnectionGeometry
 
 | Name | Description |
 | --- | --- |
-| [SurfaceOnRelatedElement](surfaceonrelatedelement) { get; set; } | SurfaceOnRelatedElement |
-| [SurfaceOnRelatingElement](surfaceonrelatingelement) { get; set; } | SurfaceOnRelatingElement |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [SurfaceOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionsurfacegeometry/surfaceonrelatedelement) { get; set; } | SurfaceOnRelatedElement |
+| [SurfaceOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionsurfacegeometry/surfaceonrelatingelement) { get; set; } | SurfaceOnRelatingElement |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

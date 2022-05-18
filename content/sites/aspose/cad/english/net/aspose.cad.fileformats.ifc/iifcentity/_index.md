@@ -18,7 +18,7 @@ public interface IIfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](entitylabel) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/iifcentity/entitylabel) { get; } | Gets the entity label. |
 
 ### See Also
 

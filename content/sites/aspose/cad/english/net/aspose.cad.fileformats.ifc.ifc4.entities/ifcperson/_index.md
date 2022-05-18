@@ -24,15 +24,23 @@ public class IfcPerson : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Addresses](addresses) { get; set; } | Addresses |
-| [EngagedIn](engagedin) { get; } | EngagedIn |
-| [FamilyName](familyname) { get; set; } | FamilyName |
-| [GivenName](givenname) { get; set; } | GivenName |
-| [Identification](identification) { get; set; } | Identification |
-| [MiddleNames](middlenames) { get; set; } | MiddleNames |
-| [PrefixTitles](prefixtitles) { get; set; } | PrefixTitles |
-| [Roles](roles) { get; set; } | Roles |
-| [SuffixTitles](suffixtitles) { get; set; } | SuffixTitles |
+| [Addresses](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/addresses) { get; set; } | Addresses |
+| [EngagedIn](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/engagedin) { get; } | EngagedIn |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FamilyName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/familyname) { get; set; } | FamilyName |
+| [GivenName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/givenname) { get; set; } | GivenName |
+| [Identification](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/identification) { get; set; } | Identification |
+| [MiddleNames](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/middlenames) { get; set; } | MiddleNames |
+| [PrefixTitles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/prefixtitles) { get; set; } | PrefixTitles |
+| [Roles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/roles) { get; set; } | Roles |
+| [SuffixTitles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/suffixtitles) { get; set; } | SuffixTitles |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

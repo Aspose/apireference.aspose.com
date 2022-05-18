@@ -24,10 +24,18 @@ public class IfcMaterialLayer : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [IsVentilated](isventilated) { get; set; } | IsVentilated |
-| [LayerThickness](layerthickness) { get; set; } | LayerThickness |
-| [Material](material) { get; set; } | Material |
-| [ToMaterialLayerSet](tomateriallayerset) { get; } | ToMaterialLayerSet |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [IsVentilated](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/isventilated) { get; set; } | IsVentilated |
+| [LayerThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/layerthickness) { get; set; } | LayerThickness |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/material) { get; set; } | Material |
+| [ToMaterialLayerSet](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/tomateriallayerset) { get; } | ToMaterialLayerSet |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

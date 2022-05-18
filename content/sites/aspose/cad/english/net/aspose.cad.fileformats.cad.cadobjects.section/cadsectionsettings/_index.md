@@ -22,9 +22,20 @@ public class CadSectionSettings : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [GenerationSettingsNumber](generationsettingsnumber) { get; set; } |  |
-| [SectionType](sectiontype) { get; set; } |  |
-| [SectionTypeSettings](sectiontypesettings) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [GenerationSettingsNumber](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/generationsettingsnumber) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [SectionType](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/sectiontype) { get; set; } |  |
+| [SectionTypeSettings](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/sectiontypesettings) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

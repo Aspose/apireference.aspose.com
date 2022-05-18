@@ -18,8 +18,9 @@ public class DgnTagSetElement : DgnElement
 
 | Name | Description |
 | --- | --- |
-| [Id](id) { get; } | Gets the identifier. |
-| [Tags](tags) { get; } | Gets tags of the tag definition |
+| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/id) { get; } | Gets the identifier. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| [Tags](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/tags) { get; } | Gets tags of the tag definition |
 
 ### See Also
 

@@ -24,9 +24,19 @@ public class IfcConnectionPointEccentricity : IfcConnectionPointGeometry
 
 | Name | Description |
 | --- | --- |
-| [EccentricityInX](eccentricityinx) { get; set; } | EccentricityInX |
-| [EccentricityInY](eccentricityiny) { get; set; } | EccentricityInY |
-| [EccentricityInZ](eccentricityinz) { get; set; } | EccentricityInZ |
+| [EccentricityInX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointeccentricity/eccentricityinx) { get; set; } | EccentricityInX |
+| [EccentricityInY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointeccentricity/eccentricityiny) { get; set; } | EccentricityInY |
+| [EccentricityInZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointeccentricity/eccentricityinz) { get; set; } | EccentricityInZ |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [PointOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointgeometry/pointonrelatedelement) { get; set; } | PointOnRelatedElement |
+| [PointOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointgeometry/pointonrelatingelement) { get; set; } | PointOnRelatingElement |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

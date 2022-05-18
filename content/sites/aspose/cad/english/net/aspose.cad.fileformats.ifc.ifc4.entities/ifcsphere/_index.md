@@ -26,7 +26,18 @@ public class IfcSphere : IfcCsgPrimitive3D
 
 | Name | Description |
 | --- | --- |
-| [Radius](radius) { get; set; } | Radius |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccsgprimitive3d/position) { get; set; } | Position |
+| [Radius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsphere/radius) { get; set; } | Radius |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

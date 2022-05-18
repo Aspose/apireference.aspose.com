@@ -18,11 +18,11 @@ public interface IPsdColorPalette : IColorPalette
 
 | Name | Description |
 | --- | --- |
-| [HasTransparentColor](hastransparentcolor) { get; } | Gets a value indicating whether transparent color exists. |
-| [RawEntries](rawentries) { get; } | Gets the raw color palette entries data. |
-| [RawEntriesCount](rawentriescount) { get; } | Gets the raw color palette entries count. |
-| [TransparentColor](transparentcolor) { get; } | Gets the transparent color. |
-| [TransparentIndex](transparentindex) { get; } | Gets the index of the transparent color. |
+| [HasTransparentColor](../../aspose.cad/ipsdcolorpalette/hastransparentcolor) { get; } | Gets a value indicating whether transparent color exists. |
+| [RawEntries](../../aspose.cad/ipsdcolorpalette/rawentries) { get; } | Gets the raw color palette entries data. |
+| [RawEntriesCount](../../aspose.cad/ipsdcolorpalette/rawentriescount) { get; } | Gets the raw color palette entries count. |
+| [TransparentColor](../../aspose.cad/ipsdcolorpalette/transparentcolor) { get; } | Gets the transparent color. |
+| [TransparentIndex](../../aspose.cad/ipsdcolorpalette/transparentindex) { get; } | Gets the index of the transparent color. |
 
 ### See Also
 

@@ -19,12 +19,21 @@ public class CadIntParameter : CadParameter<int>
 | [CadIntParameter](cadintparameter)() | The default constructor. |
 | [CadIntParameter](cadintparameter)(CadEntityAttribute) |  |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type) { get; } |  |
+| [Value](../../aspose.cad.fileformats.cad.cadparameters/cadparameter`1/value) { get; set; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Init](init)(CadCodeValue) |  |
-| override [Init](init)(object) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadintparameter/init)(CadCodeValue) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadintparameter/init)(object) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, CadCodeValue) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, object) |  |
 
 ### See Also
 

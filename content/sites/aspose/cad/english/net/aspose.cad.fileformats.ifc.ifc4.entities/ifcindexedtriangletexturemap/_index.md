@@ -24,7 +24,18 @@ public class IfcIndexedTriangleTextureMap : IfcIndexedTextureMap
 
 | Name | Description |
 | --- | --- |
-| [TexCoordIndex](texcoordindex) { get; set; } | TexCoordIndex |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [MappedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtexturemap/mappedto) { get; set; } | MappedTo |
+| [Maps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinate/maps) { get; set; } | Maps |
+| [TexCoordIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtriangletexturemap/texcoordindex) { get; set; } | TexCoordIndex |
+| [TexCoords](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtexturemap/texcoords) { get; set; } | TexCoords |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

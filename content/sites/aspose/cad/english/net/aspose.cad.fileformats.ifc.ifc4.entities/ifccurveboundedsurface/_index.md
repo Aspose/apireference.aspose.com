@@ -24,9 +24,19 @@ public class IfcCurveBoundedSurface : IfcBoundedSurface
 
 | Name | Description |
 | --- | --- |
-| [BasisSurface](basissurface) { get; set; } | BasisSurface |
-| [Boundaries](boundaries) { get; set; } | Boundaries |
-| [ImplicitOuter](implicitouter) { get; set; } | ImplicitOuter |
+| [BasisSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/basissurface) { get; set; } | BasisSurface |
+| [Boundaries](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/boundaries) { get; set; } | Boundaries |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ImplicitOuter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/implicitouter) { get; set; } | ImplicitOuter |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

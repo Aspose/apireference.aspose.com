@@ -22,8 +22,8 @@ public class CadApplicationCodes
 
 | Name | Description |
 | --- | --- |
-| [CodesList](codeslist) { get; set; } |  |
-| [Name](name) { get; } |  |
+| [CodesList](../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/codeslist) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/name) { get; } |  |
 
 ### See Also
 

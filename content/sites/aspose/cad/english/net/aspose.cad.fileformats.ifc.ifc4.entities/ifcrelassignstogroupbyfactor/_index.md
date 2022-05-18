@@ -24,7 +24,22 @@ public class IfcRelAssignsToGroupByFactor : IfcRelAssignsToGroup
 
 | Name | Description |
 | --- | --- |
-| [Factor](factor) { get; set; } | Factor |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Factor](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstogroupbyfactor/factor) { get; set; } | Factor |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [RelatedObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassigns/relatedobjects) { get; set; } | RelatedObjects |
+| [RelatedObjectsType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassigns/relatedobjectstype) { get; set; } | RelatedObjectsType |
+| [RelatingGroup](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstogroup/relatinggroup) { get; set; } | RelatingGroup |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

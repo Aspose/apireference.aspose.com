@@ -14,6 +14,15 @@ Represents poly-line
 public class DgnPolyLineElement : DgnLineElement
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/minpoint) { get; } | Gets the min point of object. |
+| [Vertices](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/vertices) { get; } | Gets vertices of the line |
+
 ### See Also
 
 * class [DgnLineElement](../dgnlineelement)

@@ -18,7 +18,7 @@ public abstract class IfcSelect : IIfcSelect
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc/ifcselect/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

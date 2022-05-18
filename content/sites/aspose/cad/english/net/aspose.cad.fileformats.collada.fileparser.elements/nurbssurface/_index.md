@@ -24,13 +24,13 @@ public class NurbsSurface : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [ClosedU](closedu) { get; set; } | Gets or sets a value indicating whether is closed u. Specifies whether a NURBS curve is closed for the u direction. The default is false. Optional. |
-| [ClosedV](closedv) { get; set; } | Gets or sets a value indicating whether is closed v. Specifies whether a NURBS curve is closed for the v direction. The default is false. Optional. |
-| [ControlVertices](controlvertices) { get; set; } | Gets or sets the control vertices. |
-| [DegreeU](degreeu) { get; set; } | Gets or sets the degree u. Specifies the degree of the NURBS curve for the u direction. Required. |
-| [DegreeV](degreev) { get; set; } | Gets or sets the degree v. Specifies the degree of the NURBS curve for the v direction. Required. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Source](source) { get; set; } | Gets or sets the source. |
+| [ClosedU](../../aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/closedu) { get; set; } | Gets or sets a value indicating whether is closed u. Specifies whether a NURBS curve is closed for the u direction. The default is false. Optional. |
+| [ClosedV](../../aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/closedv) { get; set; } | Gets or sets a value indicating whether is closed v. Specifies whether a NURBS curve is closed for the v direction. The default is false. Optional. |
+| [ControlVertices](../../aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/controlvertices) { get; set; } | Gets or sets the control vertices. |
+| [DegreeU](../../aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/degreeu) { get; set; } | Gets or sets the degree u. Specifies the degree of the NURBS curve for the u direction. Required. |
+| [DegreeV](../../aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/degreev) { get; set; } | Gets or sets the degree v. Specifies the degree of the NURBS curve for the v direction. Required. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/extra) { get; set; } | Gets or sets the extra. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/source) { get; set; } | Gets or sets the source. |
 
 ### See Also
 

@@ -16,25 +16,25 @@ public abstract class TiffDataType : IComparable
 
 | Name | Description |
 | --- | --- |
-| [AlignedDataSize](aligneddatasize) { get; } |  |
-| abstract [Count](count) { get; } |  |
-| abstract [DataSize](datasize) { get; } |  |
-| [Id](id) { get; } |  |
-| [IsValid](isvalid) { get; } |  |
-| [TagId](tagid) { get; } |  |
-| abstract [TagType](tagtype) { get; } |  |
-| abstract [Value](value) { get; set; } |  |
+| [AlignedDataSize](../../aspose.cad.fileformats.tiff/tiffdatatype/aligneddatasize) { get; } |  |
+| abstract [Count](../../aspose.cad.fileformats.tiff/tiffdatatype/count) { get; } |  |
+| abstract [DataSize](../../aspose.cad.fileformats.tiff/tiffdatatype/datasize) { get; } |  |
+| [Id](../../aspose.cad.fileformats.tiff/tiffdatatype/id) { get; } |  |
+| [IsValid](../../aspose.cad.fileformats.tiff/tiffdatatype/isvalid) { get; } |  |
+| [TagId](../../aspose.cad.fileformats.tiff/tiffdatatype/tagid) { get; } |  |
+| abstract [TagType](../../aspose.cad.fileformats.tiff/tiffdatatype/tagtype) { get; } |  |
+| abstract [Value](../../aspose.cad.fileformats.tiff/tiffdatatype/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [ReadTag](readtag)(TiffStreamReader, long) |  |
-| [CompareTo](compareto)(object) |  |
-| virtual [DeepClone](deepclone)() |  |
-| override [ToString](tostring)() |  |
-| abstract [WriteAdditionalData](writeadditionaldata)(TiffStreamWriter) |  |
-| [WriteTag](writetag)(TiffStreamWriter, long) |  |
+| static [ReadTag](../../aspose.cad.fileformats.tiff/tiffdatatype/readtag)(TiffStreamReader, long) |  |
+| [CompareTo](../../aspose.cad.fileformats.tiff/tiffdatatype/compareto)(object) |  |
+| virtual [DeepClone](../../aspose.cad.fileformats.tiff/tiffdatatype/deepclone)() |  |
+| override [ToString](../../aspose.cad.fileformats.tiff/tiffdatatype/tostring)() |  |
+| abstract [WriteAdditionalData](../../aspose.cad.fileformats.tiff/tiffdatatype/writeadditionaldata)(TiffStreamWriter) |  |
+| [WriteTag](../../aspose.cad.fileformats.tiff/tiffdatatype/writetag)(TiffStreamWriter, long) |  |
 
 ### See Also
 

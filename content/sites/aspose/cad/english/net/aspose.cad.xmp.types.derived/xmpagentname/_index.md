@@ -18,6 +18,18 @@ public sealed class XmpAgentName : XmpText
 | --- | --- |
 | [XmpAgentName](xmpagentname)(string) |  |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Value](../../aspose.cad.xmp.types.basic/xmptext/value) { get; set; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.basic/xmptext/getxmprepresentation)() |  |
+
 ### See Also
 
 * class [XmpText](../../aspose.cad.xmp.types.basic/xmptext)

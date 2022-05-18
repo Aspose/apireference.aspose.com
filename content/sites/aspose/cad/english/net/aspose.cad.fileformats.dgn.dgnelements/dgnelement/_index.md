@@ -18,7 +18,7 @@ public abstract class DgnElement
 
 | Name | Description |
 | --- | --- |
-| [Metadata](metadata) { get; } | Gets element metadata |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
 
 ### See Also
 

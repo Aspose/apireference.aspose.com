@@ -22,24 +22,35 @@ public class CadField : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [Attribute300](attribute300) { get; set; } |  |
-| [Attribute91](attribute91) { get; set; } |  |
-| [Attribute92](attribute92) { get; set; } |  |
-| [Attribute94](attribute94) { get; set; } |  |
-| [Attribute95](attribute95) { get; set; } |  |
-| [Attribute96](attribute96) { get; set; } |  |
-| [CadFieldData](cadfielddata) { get; set; } |  |
-| [ChildFieldIds](childfieldids) { get; set; } |  |
-| [ChildFieldsNumber](childfieldsnumber) { get; set; } |  |
-| [DataSetInTheField](datasetinthefield) { get; set; } |  |
-| [EvaluatorId](evaluatorid) { get; set; } |  |
-| [FieldCodeString](fieldcodestring) { get; set; } |  |
-| [FieldCodeStringOverflow](fieldcodestringoverflow) { get; set; } |  |
-| [FormatString](formatstring) { get; set; } |  |
-| [FormatStringLength](formatstringlength) { get; set; } |  |
-| [FormatStringOverflow](formatstringoverflow) { get; set; } |  |
-| [ObjectIds](objectids) { get; set; } |  |
-| [ObjectIDsNumber](objectidsnumber) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attribute300](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute300) { get; set; } |  |
+| [Attribute91](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute91) { get; set; } |  |
+| [Attribute92](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute92) { get; set; } |  |
+| [Attribute94](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute94) { get; set; } |  |
+| [Attribute95](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute95) { get; set; } |  |
+| [Attribute96](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute96) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [CadFieldData](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/cadfielddata) { get; set; } |  |
+| [ChildFieldIds](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/childfieldids) { get; set; } |  |
+| [ChildFieldsNumber](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/childfieldsnumber) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [DataSetInTheField](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/datasetinthefield) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [EvaluatorId](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/evaluatorid) { get; set; } |  |
+| [FieldCodeString](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/fieldcodestring) { get; set; } |  |
+| [FieldCodeStringOverflow](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/fieldcodestringoverflow) { get; set; } |  |
+| [FormatString](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstring) { get; set; } |  |
+| [FormatStringLength](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstringlength) { get; set; } |  |
+| [FormatStringOverflow](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstringoverflow) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [ObjectIds](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/objectids) { get; set; } |  |
+| [ObjectIDsNumber](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/objectidsnumber) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

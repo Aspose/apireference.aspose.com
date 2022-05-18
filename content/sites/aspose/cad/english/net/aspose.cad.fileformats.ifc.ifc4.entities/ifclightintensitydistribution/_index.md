@@ -24,8 +24,16 @@ public class IfcLightIntensityDistribution : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [DistributionData](distributiondata) { get; set; } | DistributionData |
-| [LightDistributionCurve](lightdistributioncurve) { get; set; } | LightDistributionCurve |
+| [DistributionData](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightintensitydistribution/distributiondata) { get; set; } | DistributionData |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LightDistributionCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightintensitydistribution/lightdistributioncurve) { get; set; } | LightDistributionCurve |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

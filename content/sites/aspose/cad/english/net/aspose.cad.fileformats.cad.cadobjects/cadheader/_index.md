@@ -22,11 +22,11 @@ public class CadHeader
 
 | Name | Description |
 | --- | --- |
-| [AcadVersion](acadversion) { get; } |  |
-| [CustomProperties](customproperties) { get; } |  |
-| [HeaderProperties](headerproperties) { get; } |  |
-| [PropertiesSummaryInfoWrapper](propertiessummaryinfowrapper) { get; } |  |
-| [SummaryInfo](summaryinfo) { get; } |  |
+| [AcadVersion](../../aspose.cad.fileformats.cad.cadobjects/cadheader/acadversion) { get; } |  |
+| [CustomProperties](../../aspose.cad.fileformats.cad.cadobjects/cadheader/customproperties) { get; } |  |
+| [HeaderProperties](../../aspose.cad.fileformats.cad.cadobjects/cadheader/headerproperties) { get; } |  |
+| [PropertiesSummaryInfoWrapper](../../aspose.cad.fileformats.cad.cadobjects/cadheader/propertiessummaryinfowrapper) { get; } |  |
+| [SummaryInfo](../../aspose.cad.fileformats.cad.cadobjects/cadheader/summaryinfo) { get; } |  |
 
 ### See Also
 

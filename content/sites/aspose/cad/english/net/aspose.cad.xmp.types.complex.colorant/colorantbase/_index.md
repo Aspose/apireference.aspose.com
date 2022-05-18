@@ -16,15 +16,17 @@ public abstract class ColorantBase : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [ColorType](colortype) { get; set; } |  |
-| [Mode](mode) { get; } |  |
-| [SwatchName](swatchname) { get; set; } |  |
+| [ColorType](../../aspose.cad.xmp.types.complex.colorant/colorantbase/colortype) { get; set; } |  |
+| [Mode](../../aspose.cad.xmp.types.complex.colorant/colorantbase/mode) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+| [SwatchName](../../aspose.cad.xmp.types.complex.colorant/colorantbase/swatchname) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.colorant/colorantbase/getxmprepresentation)() |  |
 
 ### See Also
 

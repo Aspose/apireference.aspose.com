@@ -24,9 +24,10 @@ public class DwfWhipOptionFontStyle : DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| [IsBold](isbold) { get; } | Gets font is bold |
-| [IsItalic](isitalic) { get; } | Gets font is italic |
-| [IsUnderlined](isunderlined) { get; } | Gets font is underlined |
+| [IsBold](../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontstyle/isbold) { get; } | Gets font is bold |
+| [IsItalic](../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontstyle/isitalic) { get; } | Gets font is italic |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [IsUnderlined](../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontstyle/isunderlined) { get; } | Gets font is underlined |
 
 ### See Also
 

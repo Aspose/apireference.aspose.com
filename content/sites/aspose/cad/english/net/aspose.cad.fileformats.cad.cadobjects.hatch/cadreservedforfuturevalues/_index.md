@@ -22,9 +22,9 @@ public class CadReservedForFutureValues
 
 | Name | Description |
 | --- | --- |
-| [Attribute421](attribute421) { get; set; } |  |
-| [Attribute463](attribute463) { get; set; } |  |
-| [Attribute63](attribute63) { get; set; } |  |
+| [Attribute421](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute421) { get; set; } |  |
+| [Attribute463](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute463) { get; set; } |  |
+| [Attribute63](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute63) { get; set; } |  |
 
 ### See Also
 

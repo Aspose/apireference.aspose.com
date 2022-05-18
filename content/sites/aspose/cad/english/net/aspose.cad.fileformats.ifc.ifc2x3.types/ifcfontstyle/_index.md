@@ -24,7 +24,7 @@ public class IfcFontStyle : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfontstyle/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

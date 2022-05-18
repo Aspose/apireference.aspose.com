@@ -23,15 +23,17 @@ public sealed class Thumbnail : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } |  |
-| [ImageBase64](imagebase64) { get; set; } |  |
-| [Width](width) { get; set; } |  |
+| [Height](../../aspose.cad.xmp.types.complex.thumbnail/thumbnail/height) { get; set; } |  |
+| [ImageBase64](../../aspose.cad.xmp.types.complex.thumbnail/thumbnail/imagebase64) { get; set; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+| [Width](../../aspose.cad.xmp.types.complex.thumbnail/thumbnail/width) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation)() |  |
 
 ### See Also
 

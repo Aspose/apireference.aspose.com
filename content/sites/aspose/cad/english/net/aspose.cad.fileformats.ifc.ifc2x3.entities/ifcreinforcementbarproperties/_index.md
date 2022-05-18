@@ -24,12 +24,20 @@ public class IfcReinforcementBarProperties : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [BarCount](barcount) { get; set; } | BarCount |
-| [BarSurface](barsurface) { get; set; } | BarSurface |
-| [EffectiveDepth](effectivedepth) { get; set; } | EffectiveDepth |
-| [NominalBarDiameter](nominalbardiameter) { get; set; } | NominalBarDiameter |
-| [SteelGrade](steelgrade) { get; set; } | SteelGrade |
-| [TotalCrossSectionArea](totalcrosssectionarea) { get; set; } | TotalCrossSectionArea |
+| [BarCount](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/barcount) { get; set; } | BarCount |
+| [BarSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/barsurface) { get; set; } | BarSurface |
+| [EffectiveDepth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/effectivedepth) { get; set; } | EffectiveDepth |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [NominalBarDiameter](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/nominalbardiameter) { get; set; } | NominalBarDiameter |
+| [SteelGrade](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/steelgrade) { get; set; } | SteelGrade |
+| [TotalCrossSectionArea](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/totalcrosssectionarea) { get; set; } | TotalCrossSectionArea |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

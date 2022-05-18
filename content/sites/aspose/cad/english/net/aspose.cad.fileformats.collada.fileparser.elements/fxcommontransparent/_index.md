@@ -24,7 +24,8 @@ public class FxCommonTransparent : FxCommonColorOrTexture
 
 | Name | Description |
 | --- | --- |
-| [Opaque](opaque) { get; set; } | Gets or sets the opaque. |
+| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexture/item) { get; set; } | Gets or sets the item. |
+| [Opaque](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommontransparent/opaque) { get; set; } | Gets or sets the opaque. |
 
 ### See Also
 

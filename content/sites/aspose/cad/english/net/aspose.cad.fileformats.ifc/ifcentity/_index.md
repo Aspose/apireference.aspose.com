@@ -18,16 +18,16 @@ public abstract class IfcEntity : IIfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](entitylabel) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| [operator ==](op_equality) | Implements the operator ==. |
-| [operator !=](op_inequality) | Implements the operator !=. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
+| [operator ==](../../aspose.cad.fileformats.ifc/ifcentity/op_equality) | Implements the operator ==. |
+| [operator !=](../../aspose.cad.fileformats.ifc/ifcentity/op_inequality) | Implements the operator !=. |
 
 ### See Also
 

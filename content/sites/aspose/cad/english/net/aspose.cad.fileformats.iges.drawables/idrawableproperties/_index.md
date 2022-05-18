@@ -18,11 +18,11 @@ public interface IDrawableProperties
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; } | Color to represent geometry with |
-| [LinePattern](linepattern) { get; } | Line pattern to represent geometry with |
-| [LineThickness](linethickness) { get; } | Line thickness in document's measurement units (i.e. same as geometry's units). |
-| [UnitToMMRate](unittommrate) { get; } | Rate of document's measurement units to millimeters |
-| [Visible](visible) { get; } | Visibility of geometry |
+| [Color](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/color) { get; } | Color to represent geometry with |
+| [LinePattern](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/linepattern) { get; } | Line pattern to represent geometry with |
+| [LineThickness](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/linethickness) { get; } | Line thickness in document's measurement units (i.e. same as geometry's units). |
+| [UnitToMMRate](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/unittommrate) { get; } | Rate of document's measurement units to millimeters |
+| [Visible](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/visible) { get; } | Visibility of geometry |
 
 ### See Also
 

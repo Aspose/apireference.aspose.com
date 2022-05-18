@@ -22,14 +22,14 @@ public class CadBoundaryPathLine : ICadBoundaryPathEntity
 
 | Name | Description |
 | --- | --- |
-| [FirstPoint](firstpoint) { get; set; } |  |
-| [SecondPoint](secondpoint) { get; set; } |  |
+| [FirstPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/firstpoint) { get; set; } |  |
+| [SecondPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/secondpoint) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToCadBaseEntity](tocadbaseentity)() |  |
+| [ToCadBaseEntity](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/tocadbaseentity)() |  |
 
 ### See Also
 

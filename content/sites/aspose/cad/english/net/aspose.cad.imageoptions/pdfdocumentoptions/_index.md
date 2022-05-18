@@ -24,8 +24,8 @@ public class PdfDocumentOptions
 
 | Name | Description |
 | --- | --- |
-| [Compliance](compliance) { get; set; } | Desired conformance level for generated PDF document. Important note: This option should not be changed after PdfDocument object is constructed. Default is Pdf15. |
-| [DigitalSignatureDetails](digitalsignaturedetails) { get; set; } | Gets or sets a digital signature details. If not set, then no signing will be performed. |
+| [Compliance](../../aspose.cad.imageoptions/pdfdocumentoptions/compliance) { get; set; } | Desired conformance level for generated PDF document. Important note: This option should not be changed after PdfDocument object is constructed. Default is Pdf15. |
+| [DigitalSignatureDetails](../../aspose.cad.imageoptions/pdfdocumentoptions/digitalsignaturedetails) { get; set; } | Gets or sets a digital signature details. If not set, then no signing will be performed. |
 
 ### See Also
 

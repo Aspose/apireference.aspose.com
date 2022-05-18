@@ -22,18 +22,18 @@ public class CadBoundaryPathCircularEllipse : ICadBoundaryPathEntity
 
 | Name | Description |
 | --- | --- |
-| [AxisRatio](axisratio) { get; set; } |  |
-| [CenterPoint](centerpoint) { get; set; } |  |
-| [CounterclockwiseFlag](counterclockwiseflag) { get; set; } |  |
-| [EndAngle](endangle) { get; set; } |  |
-| [MajorEndPoint](majorendpoint) { get; set; } |  |
-| [StartAngle](startangle) { get; set; } |  |
+| [AxisRatio](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/axisratio) { get; set; } |  |
+| [CenterPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/centerpoint) { get; set; } |  |
+| [CounterclockwiseFlag](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/counterclockwiseflag) { get; set; } |  |
+| [EndAngle](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/endangle) { get; set; } |  |
+| [MajorEndPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/majorendpoint) { get; set; } |  |
+| [StartAngle](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/startangle) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToCadBaseEntity](tocadbaseentity)() |  |
+| [ToCadBaseEntity](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/tocadbaseentity)() |  |
 
 ### See Also
 

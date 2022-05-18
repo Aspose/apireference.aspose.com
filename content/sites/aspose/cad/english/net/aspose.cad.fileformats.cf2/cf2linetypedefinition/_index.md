@@ -24,9 +24,9 @@ public class CF2LineTypeDefinition
 
 | Name | Description |
 | --- | --- |
-| [Index](index) { get; set; } | The index |
-| [LineType](linetype) { get; set; } | The Line type |
-| [Parameters](parameters) { get; } | The parameters |
+| [Index](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/index) { get; set; } | The index |
+| [LineType](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/linetype) { get; set; } | The Line type |
+| [Parameters](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/parameters) { get; } | The parameters |
 
 ### See Also
 

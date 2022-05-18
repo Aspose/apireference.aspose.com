@@ -22,16 +22,25 @@ public class CadLayerTable : CadBaseOwned
 
 | Name | Description |
 | --- | --- |
-| [Attribute348](attribute348) { get; set; } |  |
-| [Attribute420](attribute420) { get; set; } |  |
-| [ColorId](colorid) { get; set; } |  |
-| [Flags](flags) { get; set; } |  |
-| [LineTypeName](linetypename) { get; set; } |  |
-| [LineWeight](lineweight) { get; set; } |  |
-| [MaterialHanlde](materialhanlde) { get; set; } |  |
-| [Name](name) { get; set; } |  |
-| [PlotFlag](plotflag) { get; set; } |  |
-| [PlotStyleHandle](plotstylehandle) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attribute348](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/attribute348) { get; set; } |  |
+| [Attribute420](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/attribute420) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [ColorId](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/colorid) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [Flags](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/flags) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [LineTypeName](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/linetypename) { get; set; } |  |
+| [LineWeight](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/lineweight) { get; set; } |  |
+| [MaterialHanlde](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/materialhanlde) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/name) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [PlotFlag](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/plotflag) { get; set; } |  |
+| [PlotStyleHandle](../../aspose.cad.fileformats.cad.cadtables/cadlayertable/plotstylehandle) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

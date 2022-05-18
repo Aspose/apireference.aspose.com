@@ -22,10 +22,18 @@ public sealed class ResourceRef : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [AlternatePaths](alternatepaths) { get; set; } |  |
-| [DocumentUri](documenturi) { get; set; } |  |
-| [FilePathUri](filepathuri) { get; set; } |  |
-| [InstanceId](instanceid) { get; set; } |  |
+| [AlternatePaths](../../aspose.cad.xmp.types.complex.resourceref/resourceref/alternatepaths) { get; set; } |  |
+| [DocumentUri](../../aspose.cad.xmp.types.complex.resourceref/resourceref/documenturi) { get; set; } |  |
+| [FilePathUri](../../aspose.cad.xmp.types.complex.resourceref/resourceref/filepathuri) { get; set; } |  |
+| [InstanceId](../../aspose.cad.xmp.types.complex.resourceref/resourceref/instanceid) { get; set; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex/complextypebase/getxmprepresentation)() |  |
 
 ### See Also
 

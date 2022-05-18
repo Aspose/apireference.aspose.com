@@ -16,16 +16,16 @@ public interface ICadGeometry
 
 | Name | Description |
 | --- | --- |
-| [StartHandle](starthandle) { get; set; } |  |
+| [StartHandle](../../aspose.cad.dxf.core.fileformats.cad/icadgeometry/starthandle) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CalculateGeometryCadEntities](calculategeometrycadentities)() |  |
-| [ConvertGeometryToCadEntities](convertgeometrytocadentities)() |  |
-| [ProcessGeometryLineType](processgeometrylinetype)(CadLineTypesDictionary) |  |
-| [ProcessGeometryTextStyle](processgeometrytextstyle)(CadStylesList) |  |
+| [CalculateGeometryCadEntities](../../aspose.cad.dxf.core.fileformats.cad/icadgeometry/calculategeometrycadentities)() |  |
+| [ConvertGeometryToCadEntities](../../aspose.cad.dxf.core.fileformats.cad/icadgeometry/convertgeometrytocadentities)() |  |
+| [ProcessGeometryLineType](../../aspose.cad.dxf.core.fileformats.cad/icadgeometry/processgeometrylinetype)(CadLineTypesDictionary) |  |
+| [ProcessGeometryTextStyle](../../aspose.cad.dxf.core.fileformats.cad/icadgeometry/processgeometrytextstyle)(CadStylesList) |  |
 
 ### See Also
 

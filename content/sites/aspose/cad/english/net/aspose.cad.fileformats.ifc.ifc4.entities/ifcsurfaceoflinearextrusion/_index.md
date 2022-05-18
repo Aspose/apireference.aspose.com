@@ -24,8 +24,20 @@ public class IfcSurfaceOfLinearExtrusion : IfcSweptSurface
 
 | Name | Description |
 | --- | --- |
-| [Depth](depth) { get; set; } | Depth |
-| [ExtrudedDirection](extrudeddirection) { get; set; } | ExtrudedDirection |
+| [Depth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfaceoflinearextrusion/depth) { get; set; } | Depth |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ExtrudedDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfaceoflinearextrusion/extrudeddirection) { get; set; } | ExtrudedDirection |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptsurface/position) { get; set; } | Position |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [SweptCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptsurface/sweptcurve) { get; set; } | SweptCurve |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

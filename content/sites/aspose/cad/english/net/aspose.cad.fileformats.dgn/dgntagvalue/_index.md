@@ -24,10 +24,10 @@ public class DgnTagValue
 
 | Name | Description |
 | --- | --- |
-| [FloatValue](floatvalue) { get; set; } | Gets or sets the float value. |
-| [IntegerValue](integervalue) { get; set; } | Gets or sets the integer value. |
-| [StringValue](stringvalue) { get; set; } | Gets or sets the string value. |
-| [Type](type) { get; set; } | Gets or sets tag type |
+| [FloatValue](../../aspose.cad.fileformats.dgn/dgntagvalue/floatvalue) { get; set; } | Gets or sets the float value. |
+| [IntegerValue](../../aspose.cad.fileformats.dgn/dgntagvalue/integervalue) { get; set; } | Gets or sets the integer value. |
+| [StringValue](../../aspose.cad.fileformats.dgn/dgntagvalue/stringvalue) { get; set; } | Gets or sets the string value. |
+| [Type](../../aspose.cad.fileformats.dgn/dgntagvalue/type) { get; set; } | Gets or sets tag type |
 
 ### See Also
 

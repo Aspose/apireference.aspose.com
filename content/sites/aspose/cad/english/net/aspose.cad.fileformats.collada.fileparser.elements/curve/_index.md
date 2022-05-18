@@ -24,11 +24,11 @@ public class Curve : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; set; } | Gets or sets the item. |
-| [Name](name) { get; set; } | Gets or sets the name. |
-| [Orient](orient) { get; set; } | Gets or sets the orient. Describes the orientation of the object frame. |
-| [Origin](origin) { get; set; } | Gets or sets the origin. Describes the origin of the object frame. |
-| [Sid](sid) { get; set; } | Gets or sets the sid. |
+| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/curve/item) { get; set; } | Gets or sets the item. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/curve/name) { get; set; } | Gets or sets the name. |
+| [Orient](../../aspose.cad.fileformats.collada.fileparser.elements/curve/orient) { get; set; } | Gets or sets the orient. Describes the orientation of the object frame. |
+| [Origin](../../aspose.cad.fileformats.collada.fileparser.elements/curve/origin) { get; set; } | Gets or sets the origin. Describes the origin of the object frame. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/curve/sid) { get; set; } | Gets or sets the sid. |
 
 ### See Also
 

@@ -14,6 +14,12 @@ Represents Symbology element
 public class DgnSymbologyLevelElement : DgnElement
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+
 ### See Also
 
 * class [DgnElement](../dgnelement)

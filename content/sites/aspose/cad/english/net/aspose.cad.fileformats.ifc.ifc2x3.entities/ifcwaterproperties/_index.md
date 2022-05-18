@@ -24,13 +24,22 @@ public class IfcWaterProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [AcidityConcentration](acidityconcentration) { get; set; } | AcidityConcentration |
-| [AlkalinityConcentration](alkalinityconcentration) { get; set; } | AlkalinityConcentration |
-| [DissolvedSolidsContent](dissolvedsolidscontent) { get; set; } | DissolvedSolidsContent |
-| [Hardness](hardness) { get; set; } | Hardness |
-| [ImpuritiesContent](impuritiescontent) { get; set; } | ImpuritiesContent |
-| [IsPotable](ispotable) { get; set; } | IsPotable |
-| [PHLevel](phlevel) { get; set; } | PHLevel |
+| [AcidityConcentration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/acidityconcentration) { get; set; } | AcidityConcentration |
+| [AlkalinityConcentration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/alkalinityconcentration) { get; set; } | AlkalinityConcentration |
+| [DissolvedSolidsContent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/dissolvedsolidscontent) { get; set; } | DissolvedSolidsContent |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Hardness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/hardness) { get; set; } | Hardness |
+| [ImpuritiesContent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/impuritiescontent) { get; set; } | ImpuritiesContent |
+| [IsPotable](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/ispotable) { get; set; } | IsPotable |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material) { get; set; } | Material |
+| [PHLevel](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/phlevel) { get; set; } | PHLevel |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

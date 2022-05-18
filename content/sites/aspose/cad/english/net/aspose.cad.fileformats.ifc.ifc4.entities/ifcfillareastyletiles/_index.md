@@ -24,9 +24,19 @@ public class IfcFillAreaStyleTiles : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [Tiles](tiles) { get; set; } | Tiles |
-| [TilingPattern](tilingpattern) { get; set; } | TilingPattern |
-| [TilingScale](tilingscale) { get; set; } | TilingScale |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [Tiles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastyletiles/tiles) { get; set; } | Tiles |
+| [TilingPattern](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastyletiles/tilingpattern) { get; set; } | TilingPattern |
+| [TilingScale](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastyletiles/tilingscale) { get; set; } | TilingScale |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

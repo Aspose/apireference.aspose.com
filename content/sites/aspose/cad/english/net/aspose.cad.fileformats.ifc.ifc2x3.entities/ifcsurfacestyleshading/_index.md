@@ -24,7 +24,15 @@ public class IfcSurfaceStyleShading : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [SurfaceColour](surfacecolour) { get; set; } | SurfaceColour |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [SurfaceColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyleshading/surfacecolour) { get; set; } | SurfaceColour |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

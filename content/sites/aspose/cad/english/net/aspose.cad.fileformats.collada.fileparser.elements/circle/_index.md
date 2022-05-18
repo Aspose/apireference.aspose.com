@@ -24,8 +24,8 @@ public class Circle : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Radius](radius) { get; set; } | Gets or sets the radius. Contains a floating-point number that specifies the radius of the circle. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/circle/extra) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/circle/radius) { get; set; } | Gets or sets the radius. Contains a floating-point number that specifies the radius of the circle. |
 
 ### See Also
 

@@ -24,8 +24,23 @@ public class IfcCartesianTransformationOperator3DnonUniform : IfcCartesianTransf
 
 | Name | Description |
 | --- | --- |
-| [Scale2](scale2) { get; set; } | Scale2 |
-| [Scale3](scale3) { get; set; } | Scale3 |
+| [Axis1](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator/axis1) { get; set; } | Axis1 |
+| [Axis2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator/axis2) { get; set; } | Axis2 |
+| [Axis3](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator3d/axis3) { get; set; } | Axis3 |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [LocalOrigin](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator/localorigin) { get; set; } | LocalOrigin |
+| [Scale](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator/scale) { get; set; } | Scale |
+| [Scale2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator3dnonuniform/scale2) { get; set; } | Scale2 |
+| [Scale3](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator3dnonuniform/scale3) { get; set; } | Scale3 |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -18,7 +18,8 @@ public class ObjVertexTextureIndex : ObjVertexIndex
 
 | Name | Description |
 | --- | --- |
-| [TextureIndex](textureindex) { get; set; } | Gets or sets the texture index. |
+| [TextureIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertextextureindex/textureindex) { get; set; } | Gets or sets the texture index. |
+| [VertexIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertexindex/vertexindex) { get; set; } | Gets or sets the vertex index. |
 
 ### See Also
 

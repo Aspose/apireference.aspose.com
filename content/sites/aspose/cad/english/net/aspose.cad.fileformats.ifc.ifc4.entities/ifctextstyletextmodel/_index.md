@@ -24,13 +24,21 @@ public class IfcTextStyleTextModel : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [LetterSpacing](letterspacing) { get; set; } | LetterSpacing |
-| [LineHeight](lineheight) { get; set; } | LineHeight |
-| [TextAlign](textalign) { get; set; } | TextAlign |
-| [TextDecoration](textdecoration) { get; set; } | TextDecoration |
-| [TextIndent](textindent) { get; set; } | TextIndent |
-| [TextTransform](texttransform) { get; set; } | TextTransform |
-| [WordSpacing](wordspacing) { get; set; } | WordSpacing |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LetterSpacing](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/letterspacing) { get; set; } | LetterSpacing |
+| [LineHeight](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/lineheight) { get; set; } | LineHeight |
+| [TextAlign](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/textalign) { get; set; } | TextAlign |
+| [TextDecoration](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/textdecoration) { get; set; } | TextDecoration |
+| [TextIndent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/textindent) { get; set; } | TextIndent |
+| [TextTransform](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/texttransform) { get; set; } | TextTransform |
+| [WordSpacing](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/wordspacing) { get; set; } | WordSpacing |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

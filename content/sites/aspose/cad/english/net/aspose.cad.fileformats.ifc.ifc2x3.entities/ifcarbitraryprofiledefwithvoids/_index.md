@@ -24,7 +24,18 @@ public class IfcArbitraryProfileDefWithVoids : IfcArbitraryClosedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [InnerCurves](innercurves) { get; set; } | InnerCurves |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [InnerCurves](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/innercurves) { get; set; } | InnerCurves |
+| [OuterCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryclosedprofiledef/outercurve) { get; set; } | OuterCurve |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

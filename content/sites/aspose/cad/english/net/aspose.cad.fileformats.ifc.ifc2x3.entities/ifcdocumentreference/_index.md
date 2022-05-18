@@ -24,7 +24,18 @@ public class IfcDocumentReference : IfcExternalReference
 
 | Name | Description |
 | --- | --- |
-| [ReferenceToDocument](referencetodocument) { get; } | ReferenceToDocument |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ItemReference](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/itemreference) { get; set; } | ItemReference |
+| [Location](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/location) { get; set; } | Location |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/name) { get; set; } | Name |
+| [ReferenceToDocument](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentreference/referencetodocument) { get; } | ReferenceToDocument |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

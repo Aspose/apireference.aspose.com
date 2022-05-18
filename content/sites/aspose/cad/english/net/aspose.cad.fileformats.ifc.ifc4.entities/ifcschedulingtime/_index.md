@@ -18,9 +18,17 @@ public abstract class IfcSchedulingTime : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [DataOrigin](dataorigin) { get; set; } | DataOrigin |
-| [Name](name) { get; set; } | Name |
-| [UserDefinedDataOrigin](userdefineddataorigin) { get; set; } | UserDefinedDataOrigin |
+| [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin) { get; set; } | DataOrigin |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name) { get; set; } | Name |
+| [UserDefinedDataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/userdefineddataorigin) { get; set; } | UserDefinedDataOrigin |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -24,11 +24,11 @@ public class Nurbs : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Closed](closed) { get; set; } | Gets or sets a value indicating whether curve is closed. Specifies whether a NURBS curve is closed. The default is false. Optional. |
-| [ControlVertices](controlvertices) { get; set; } | Gets or sets the control vertices. The control vertices element must occur exactly one time. It is used to describe the CVs of the spline. |
-| [Degree](degree) { get; set; } | Gets or sets the degree. Specifies the degree of the NURBS curve. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Source](source) { get; set; } | Gets or sets the source. |
+| [Closed](../../aspose.cad.fileformats.collada.fileparser.elements/nurbs/closed) { get; set; } | Gets or sets a value indicating whether curve is closed. Specifies whether a NURBS curve is closed. The default is false. Optional. |
+| [ControlVertices](../../aspose.cad.fileformats.collada.fileparser.elements/nurbs/controlvertices) { get; set; } | Gets or sets the control vertices. The control vertices element must occur exactly one time. It is used to describe the CVs of the spline. |
+| [Degree](../../aspose.cad.fileformats.collada.fileparser.elements/nurbs/degree) { get; set; } | Gets or sets the degree. Specifies the degree of the NURBS curve. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/nurbs/extra) { get; set; } | Gets or sets the extra. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/nurbs/source) { get; set; } | Gets or sets the source. |
 
 ### See Also
 

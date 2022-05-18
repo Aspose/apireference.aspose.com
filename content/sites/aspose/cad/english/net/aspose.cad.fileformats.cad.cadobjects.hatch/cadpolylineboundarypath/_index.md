@@ -22,11 +22,11 @@ public class CadPolylineBoundaryPath : ICadBoundaryPath
 
 | Name | Description |
 | --- | --- |
-| [Bugles](bugles) { get; set; } |  |
-| [HasBugle](hasbugle) { get; set; } |  |
-| [IsClosed](isclosed) { get; set; } |  |
-| [MaxArrayLen](maxarraylen) { get; set; } |  |
-| [Vertices](vertices) { get; set; } |  |
+| [Bugles](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/bugles) { get; set; } |  |
+| [HasBugle](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/hasbugle) { get; set; } |  |
+| [IsClosed](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/isclosed) { get; set; } |  |
+| [MaxArrayLen](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/maxarraylen) { get; set; } |  |
+| [Vertices](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/vertices) { get; set; } |  |
 
 ### See Also
 

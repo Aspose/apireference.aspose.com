@@ -18,36 +18,53 @@ public sealed class XmpDynamicMediaPackage : XmpPackage
 | --- | --- |
 | [XmpDynamicMediaPackage](xmpdynamicmediapackage)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Item](../../aspose.cad.xmp/xmppackage/item) { get; set; } |  |
+| virtual [Keys](../../aspose.cad.xmp/xmppackage/keys) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp/xmppackage/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp/xmppackage/prefix) { get; } |  |
+| [XmlNamespace](../../aspose.cad.xmp/xmppackage/xmlnamespace) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddValue](addvalue)(string, string) |  |
-| [SetAbsPeakAudioFilePath](setabspeakaudiofilepath)(string) |  |
-| [SetAlblum](setalblum)(string) |  |
-| [SetAltTapeName](setalttapename)(string) |  |
-| [SetAltTimeCode](setalttimecode)(Timecode) |  |
-| [SetArtist](setartist)(string) |  |
-| [SetAudioChannelType](setaudiochanneltype)(AudioChannelType) |  |
-| [SetAudioSampleRate](setaudiosamplerate)(int) |  |
-| [SetAudioSampleType](setaudiosampletype)(AudioSampleType) |  |
-| [SetCameraAngle](setcameraangle)(string) |  |
-| [SetCameraLabel](setcameralabel)(string) |  |
-| [SetCameraMove](setcameramove)(string) |  |
-| [SetClient](setclient)(string) |  |
-| [SetComment](setcomment)(string) |  |
-| [SetComposer](setcomposer)(string) |  |
-| [SetDirector](setdirector)(string) |  |
-| [SetDirectorPhotography](setdirectorphotography)(string) |  |
-| [SetDuration](setduration)(Time) |  |
-| [SetEngineer](setengineer)(string) |  |
-| [SetFileDataRate](setfiledatarate)(Rational) |  |
-| [SetGenre](setgenre)(string) |  |
-| [SetGood](setgood)(bool) |  |
-| [SetInstrument](setinstrument)(string) |  |
-| [SetIntroTime](setintrotime)(Time) |  |
-| [SetKey](setkey)(string) |  |
-| [SetLogComment](setlogcomment)(string) |  |
+| override [AddValue](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/addvalue)(string, string) |  |
+| virtual [Clear](../../aspose.cad.xmp/xmppackage/clear)() |  |
+| virtual [ContainsKey](../../aspose.cad.xmp/xmppackage/containskey)(string) |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackage/getenumerator)() |  |
+| virtual [GetXmlValue](../../aspose.cad.xmp/xmppackage/getxmlvalue)() |  |
+| virtual [Remove](../../aspose.cad.xmp/xmppackage/remove)(string) |  |
+| [SetAbsPeakAudioFilePath](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setabspeakaudiofilepath)(string) |  |
+| [SetAlblum](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalblum)(string) |  |
+| [SetAltTapeName](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttapename)(string) |  |
+| [SetAltTimeCode](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttimecode)(Timecode) |  |
+| [SetArtist](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setartist)(string) |  |
+| [SetAudioChannelType](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochanneltype)(AudioChannelType) |  |
+| [SetAudioSampleRate](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate)(int) |  |
+| [SetAudioSampleType](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosampletype)(AudioSampleType) |  |
+| [SetCameraAngle](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameraangle)(string) |  |
+| [SetCameraLabel](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameralabel)(string) |  |
+| [SetCameraMove](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameramove)(string) |  |
+| [SetClient](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setclient)(string) |  |
+| [SetComment](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment)(string) |  |
+| [SetComposer](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomposer)(string) |  |
+| [SetDirector](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector)(string) |  |
+| [SetDirectorPhotography](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphotography)(string) |  |
+| [SetDuration](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setduration)(Time) |  |
+| [SetEngineer](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setengineer)(string) |  |
+| [SetFileDataRate](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setfiledatarate)(Rational) |  |
+| [SetGenre](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgenre)(string) |  |
+| [SetGood](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgood)(bool) |  |
+| [SetInstrument](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setinstrument)(string) |  |
+| [SetIntroTime](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setintrotime)(Time) |  |
+| [SetKey](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setkey)(string) |  |
+| [SetLogComment](../../aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment)(string) |  |
+| virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
+| virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
 ### See Also
 

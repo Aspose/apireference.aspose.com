@@ -24,11 +24,19 @@ public class IfcClassificationItem : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [IsClassifiedItemIn](isclassifieditemin) { get; } | IsClassifiedItemIn |
-| [IsClassifyingItemIn](isclassifyingitemin) { get; } | IsClassifyingItemIn |
-| [ItemOf](itemof) { get; set; } | ItemOf |
-| [Notation](notation) { get; set; } | Notation |
-| [Title](title) { get; set; } | Title |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [IsClassifiedItemIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/isclassifieditemin) { get; } | IsClassifiedItemIn |
+| [IsClassifyingItemIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/isclassifyingitemin) { get; } | IsClassifyingItemIn |
+| [ItemOf](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/itemof) { get; set; } | ItemOf |
+| [Notation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/notation) { get; set; } | Notation |
+| [Title](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/title) { get; set; } | Title |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class ObjMaterial
 
 | Name | Description |
 | --- | --- |
-| [Diffuse](diffuse) { get; set; } | Gets or sets the diffuse. |
-| [Name](name) { get; set; } | Gets or sets the name. |
+| [Diffuse](../../aspose.cad.fileformats.obj.mtl/objmaterial/diffuse) { get; set; } | Gets or sets the diffuse. |
+| [Name](../../aspose.cad.fileformats.obj.mtl/objmaterial/name) { get; set; } | Gets or sets the name. |
 
 ### See Also
 

@@ -26,12 +26,23 @@ public class IfcCShapeProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [CentreOfGravityInX](centreofgravityinx) { get; set; } | CentreOfGravityInX |
-| [Depth](depth) { get; set; } | Depth |
-| [Girth](girth) { get; set; } | Girth |
-| [InternalFilletRadius](internalfilletradius) { get; set; } | InternalFilletRadius |
-| [WallThickness](wallthickness) { get; set; } | WallThickness |
-| [Width](width) { get; set; } | Width |
+| [CentreOfGravityInX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/centreofgravityinx) { get; set; } | CentreOfGravityInX |
+| [Depth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/depth) { get; set; } | Depth |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Girth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/girth) { get; set; } | Girth |
+| [InternalFilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/internalfilletradius) { get; set; } | InternalFilletRadius |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position) { get; set; } | Position |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+| [WallThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/wallthickness) { get; set; } | WallThickness |
+| [Width](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/width) { get; set; } | Width |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

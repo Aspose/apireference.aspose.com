@@ -16,12 +16,12 @@ public abstract class CadBase
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](attribute102values) { get; set; } |  |
-| [Attributes](attributes) { get; set; } |  |
-| [EmbeddedObjectsContainer](embeddedobjectscontainer) { get; set; } |  |
-| [ObjectHandle](objecthandle) { get; set; } |  |
-| [XdataContainer](xdatacontainer) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

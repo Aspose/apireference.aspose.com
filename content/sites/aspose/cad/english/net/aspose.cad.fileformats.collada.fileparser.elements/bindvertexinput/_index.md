@@ -24,10 +24,10 @@ public class BindVertexInput : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [InputSemantic](inputsemantic) { get; set; } | Gets or sets the input semantic. The input_semantic attribute specifies which input semantic to bind. |
-| [InputSet](inputset) { get; set; } | Gets or sets the input set. The input_set attribute specifies which input set to bind. |
-| [InputSetSpecified](inputsetspecified) { get; set; } | Gets or sets a value indicating whether input set is specified. |
-| [Semantic](semantic) { get; set; } | Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind. |
+| [InputSemantic](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputsemantic) { get; set; } | Gets or sets the input semantic. The input_semantic attribute specifies which input semantic to bind. |
+| [InputSet](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputset) { get; set; } | Gets or sets the input set. The input_set attribute specifies which input set to bind. |
+| [InputSetSpecified](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputsetspecified) { get; set; } | Gets or sets a value indicating whether input set is specified. |
+| [Semantic](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/semantic) { get; set; } | Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind. |
 
 ### See Also
 

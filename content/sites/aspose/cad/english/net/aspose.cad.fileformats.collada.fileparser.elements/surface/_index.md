@@ -24,11 +24,11 @@ public class Surface : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; set; } | Gets or sets the item. |
-| [Name](name) { get; set; } | Gets or sets the name. The text string name of the element. Optional. |
-| [Orient](orient) { get; set; } | Gets or sets the orient. Describes the orientation of the object frame. |
-| [Origin](origin) { get; set; } | Gets or sets the origin. Describes the origin of the object frame. |
-| [Sid](sid) { get; set; } | Gets or sets the sid. A text string containing the unique identifier of the solids element. This value must be unique within the instance document. Optional. |
+| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/surface/item) { get; set; } | Gets or sets the item. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/surface/name) { get; set; } | Gets or sets the name. The text string name of the element. Optional. |
+| [Orient](../../aspose.cad.fileformats.collada.fileparser.elements/surface/orient) { get; set; } | Gets or sets the orient. Describes the orientation of the object frame. |
+| [Origin](../../aspose.cad.fileformats.collada.fileparser.elements/surface/origin) { get; set; } | Gets or sets the origin. Describes the origin of the object frame. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/surface/sid) { get; set; } | Gets or sets the sid. A text string containing the unique identifier of the solids element. This value must be unique within the instance document. Optional. |
 
 ### See Also
 

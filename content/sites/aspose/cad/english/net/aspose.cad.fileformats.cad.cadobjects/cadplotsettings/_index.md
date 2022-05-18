@@ -22,32 +22,43 @@ public class CadPlotSettings : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [BottomSize](bottomsize) { get; set; } |  |
-| [CurrentStyleSheet](currentstylesheet) { get; set; } |  |
-| [CustomPrintScaleDenominator](customprintscaledenominator) { get; set; } |  |
-| [CustomPrintScaleNumerator](customprintscalenumerator) { get; set; } |  |
-| [LeftSideSize](leftsidesize) { get; set; } |  |
-| [PageSetupName](pagesetupname) { get; set; } |  |
-| [PaperImageOrigin](paperimageorigin) { get; set; } |  |
-| [PaperSize](papersize) { get; set; } |  |
-| [PlotLayoutFlag](plotlayoutflag) { get; set; } |  |
-| [PlotOrigin](plotorigin) { get; set; } |  |
-| [PlotPaperSize](plotpapersize) { get; set; } |  |
-| [PlotPaperUnits](plotpaperunits) { get; set; } |  |
-| [PlotRotation](plotrotation) { get; set; } |  |
-| [PlotType](plottype) { get; set; } |  |
-| [PlotViewName](plotviewname) { get; set; } |  |
-| [PlotWindowArea1](plotwindowarea1) { get; set; } |  |
-| [PlotWindowArea2](plotwindowarea2) { get; set; } |  |
-| [PrinterOrConfigurationFileName](printerorconfigurationfilename) { get; set; } |  |
-| [RightSideSize](rightsidesize) { get; set; } |  |
-| [ShadePlotCustomDpi](shadeplotcustomdpi) { get; set; } |  |
-| [ShadePlotHandle](shadeplothandle) { get; set; } |  |
-| [ShadePlotMode](shadeplotmode) { get; set; } |  |
-| [ShadePlotResolutionLevel](shadeplotresolutionlevel) { get; set; } |  |
-| [StandardScaleType](standardscaletype) { get; set; } |  |
-| [StandardScaleTypeFactor](standardscaletypefactor) { get; set; } |  |
-| [TopSize](topsize) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [BottomSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/bottomsize) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [CurrentStyleSheet](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/currentstylesheet) { get; set; } |  |
+| [CustomPrintScaleDenominator](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/customprintscaledenominator) { get; set; } |  |
+| [CustomPrintScaleNumerator](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/customprintscalenumerator) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [LeftSideSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/leftsidesize) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [PageSetupName](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/pagesetupname) { get; set; } |  |
+| [PaperImageOrigin](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/paperimageorigin) { get; set; } |  |
+| [PaperSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/papersize) { get; set; } |  |
+| [PlotLayoutFlag](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotlayoutflag) { get; set; } |  |
+| [PlotOrigin](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotorigin) { get; set; } |  |
+| [PlotPaperSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotpapersize) { get; set; } |  |
+| [PlotPaperUnits](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotpaperunits) { get; set; } |  |
+| [PlotRotation](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotrotation) { get; set; } |  |
+| [PlotType](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plottype) { get; set; } |  |
+| [PlotViewName](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotviewname) { get; set; } |  |
+| [PlotWindowArea1](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotwindowarea1) { get; set; } |  |
+| [PlotWindowArea2](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotwindowarea2) { get; set; } |  |
+| [PrinterOrConfigurationFileName](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/printerorconfigurationfilename) { get; set; } |  |
+| [RightSideSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/rightsidesize) { get; set; } |  |
+| [ShadePlotCustomDpi](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shadeplotcustomdpi) { get; set; } |  |
+| [ShadePlotHandle](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shadeplothandle) { get; set; } |  |
+| [ShadePlotMode](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shadeplotmode) { get; set; } |  |
+| [ShadePlotResolutionLevel](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shadeplotresolutionlevel) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [StandardScaleType](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standardscaletype) { get; set; } |  |
+| [StandardScaleTypeFactor](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standardscaletypefactor) { get; set; } |  |
+| [TopSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/topsize) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

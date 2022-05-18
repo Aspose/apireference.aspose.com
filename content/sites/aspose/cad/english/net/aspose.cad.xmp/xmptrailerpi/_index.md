@@ -23,16 +23,16 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [IsWritable](iswritable) { get; set; } |  |
+| [IsWritable](../../aspose.cad.xmp/xmptrailerpi/iswritable) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) |  |
-| [Equals](equals)(XmpTrailerPi) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [GetXmlValue](getxmlvalue)() |  |
+| override [Equals](../../aspose.cad.xmp/xmptrailerpi/equals)(object) |  |
+| [Equals](../../aspose.cad.xmp/xmptrailerpi/equals)(XmpTrailerPi) |  |
+| override [GetHashCode](../../aspose.cad.xmp/xmptrailerpi/gethashcode)() |  |
+| [GetXmlValue](../../aspose.cad.xmp/xmptrailerpi/getxmlvalue)() |  |
 
 ### See Also
 

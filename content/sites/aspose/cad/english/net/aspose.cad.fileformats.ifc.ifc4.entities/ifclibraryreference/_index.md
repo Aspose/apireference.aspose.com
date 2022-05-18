@@ -24,10 +24,22 @@ public class IfcLibraryReference : IfcExternalReference
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [Language](language) { get; set; } | Language |
-| [LibraryRefForObjects](libraryrefforobjects) { get; } | LibraryRefForObjects |
-| [ReferencedLibrary](referencedlibrary) { get; set; } | ReferencedLibrary |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ExternalReferenceForResources](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/externalreferenceforresources) { get; } | ExternalReferenceForResources |
+| [Identification](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/identification) { get; set; } | Identification |
+| [Language](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/language) { get; set; } | Language |
+| [LibraryRefForObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/libraryrefforobjects) { get; } | LibraryRefForObjects |
+| [Location](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/location) { get; set; } | Location |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/name) { get; set; } | Name |
+| [ReferencedLibrary](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/referencedlibrary) { get; set; } | ReferencedLibrary |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

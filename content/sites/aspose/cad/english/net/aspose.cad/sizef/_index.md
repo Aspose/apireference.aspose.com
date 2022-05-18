@@ -24,27 +24,27 @@ public struct SizeF
 
 | Name | Description |
 | --- | --- |
-| static [Empty](empty) { get; } |  |
-| [Height](height) { get; set; } |  |
-| [IsEmpty](isempty) { get; } |  |
-| [Width](width) { get; set; } |  |
+| static [Empty](../../aspose.cad/sizef/empty) { get; } |  |
+| [Height](../../aspose.cad/sizef/height) { get; set; } |  |
+| [IsEmpty](../../aspose.cad/sizef/isempty) { get; } |  |
+| [Width](../../aspose.cad/sizef/width) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Add](add)(SizeF, SizeF) |  |
-| static [Subtract](subtract)(SizeF, SizeF) |  |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [ToPointF](topointf)() |  |
-| [ToSize](tosize)() |  |
-| override [ToString](tostring)() |  |
-| [operator +](op_addition) |  |
-| [operator ==](op_equality) |  |
-| [explicit operator](op_explicit) |  |
-| [operator !=](op_inequality) |  |
-| [operator -](op_subtraction) |  |
+| static [Add](../../aspose.cad/sizef/add)(SizeF, SizeF) |  |
+| static [Subtract](../../aspose.cad/sizef/subtract)(SizeF, SizeF) |  |
+| override [Equals](../../aspose.cad/sizef/equals)(object) |  |
+| override [GetHashCode](../../aspose.cad/sizef/gethashcode)() |  |
+| [ToPointF](../../aspose.cad/sizef/topointf)() |  |
+| [ToSize](../../aspose.cad/sizef/tosize)() |  |
+| override [ToString](../../aspose.cad/sizef/tostring)() |  |
+| [operator +](../../aspose.cad/sizef/op_addition) |  |
+| [operator ==](../../aspose.cad/sizef/op_equality) |  |
+| [explicit operator](../../aspose.cad/sizef/op_explicit) |  |
+| [operator !=](../../aspose.cad/sizef/op_inequality) |  |
+| [operator -](../../aspose.cad/sizef/op_subtraction) |  |
 
 ### See Also
 

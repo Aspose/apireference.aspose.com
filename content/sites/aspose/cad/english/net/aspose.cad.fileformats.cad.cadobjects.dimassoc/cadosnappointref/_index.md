@@ -22,19 +22,19 @@ public class CadOsnapPointRef
 
 | Name | Description |
 | --- | --- |
-| [ClassName](classname) { get; } |  |
-| [GeometryParameter](geometryparameter) { get; set; } |  |
-| [HandleIntersectionXrefObject](handleintersectionxrefobject) { get; set; } |  |
-| [HandleXrefObject](handlexrefobject) { get; set; } |  |
-| [HasLastPointRef](haslastpointref) { get; set; } |  |
-| [IntersctionObjectGsMarker](intersctionobjectgsmarker) { get; set; } |  |
-| [IntersctionObjectSubentType](intersctionobjectsubenttype) { get; set; } |  |
-| [IntersectionObjectIds](intersectionobjectids) { get; set; } |  |
-| [MainObjectGsMarker](mainobjectgsmarker) { get; set; } |  |
-| [MainObjectIds](mainobjectids) { get; set; } |  |
-| [MainObjectSubentType](mainobjectsubenttype) { get; set; } |  |
-| [ObjectOsnapType](objectosnaptype) { get; set; } |  |
-| [OsnapPoint](osnappoint) { get; set; } |  |
+| [ClassName](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/classname) { get; } |  |
+| [GeometryParameter](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/geometryparameter) { get; set; } |  |
+| [HandleIntersectionXrefObject](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/handleintersectionxrefobject) { get; set; } |  |
+| [HandleXrefObject](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/handlexrefobject) { get; set; } |  |
+| [HasLastPointRef](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/haslastpointref) { get; set; } |  |
+| [IntersctionObjectGsMarker](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/intersctionobjectgsmarker) { get; set; } |  |
+| [IntersctionObjectSubentType](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/intersctionobjectsubenttype) { get; set; } |  |
+| [IntersectionObjectIds](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/intersectionobjectids) { get; set; } |  |
+| [MainObjectGsMarker](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/mainobjectgsmarker) { get; set; } |  |
+| [MainObjectIds](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/mainobjectids) { get; set; } |  |
+| [MainObjectSubentType](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/mainobjectsubenttype) { get; set; } |  |
+| [ObjectOsnapType](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/objectosnaptype) { get; set; } |  |
+| [OsnapPoint](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/osnappoint) { get; set; } |  |
 
 ### See Also
 

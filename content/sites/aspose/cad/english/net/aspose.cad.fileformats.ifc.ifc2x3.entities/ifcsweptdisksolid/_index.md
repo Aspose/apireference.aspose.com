@@ -26,11 +26,21 @@ public class IfcSweptDiskSolid : IfcSolidModel
 
 | Name | Description |
 | --- | --- |
-| [Directrix](directrix) { get; set; } | Directrix |
-| [EndParam](endparam) { get; set; } | EndParam |
-| [InnerRadius](innerradius) { get; set; } | InnerRadius |
-| [Radius](radius) { get; set; } | Radius |
-| [StartParam](startparam) { get; set; } | StartParam |
+| [Directrix](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptdisksolid/directrix) { get; set; } | Directrix |
+| [EndParam](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptdisksolid/endparam) { get; set; } | EndParam |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [InnerRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptdisksolid/innerradius) { get; set; } | InnerRadius |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [Radius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptdisksolid/radius) { get; set; } | Radius |
+| [StartParam](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptdisksolid/startparam) { get; set; } | StartParam |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -16,24 +16,24 @@ public sealed class TimeFormat : IEquatable<TimeFormat>
 
 | Name | Description |
 | --- | --- |
-| static [DropTimecode2997](droptimecode2997) { get; } |  |
-| static [DropTimecode5994](droptimecode5994) { get; } |  |
-| static [NonDropTimecode2997](nondroptimecode2997) { get; } |  |
-| static [NonDropTimecode5994](nondroptimecode5994) { get; } |  |
-| static [Timecode23976](timecode23976) { get; } |  |
-| static [Timecode24](timecode24) { get; } |  |
-| static [Timecode25](timecode25) { get; } |  |
-| static [Timecode30](timecode30) { get; } |  |
-| static [Timecode50](timecode50) { get; } |  |
-| static [Timecode60](timecode60) { get; } |  |
+| static [DropTimecode2997](../../aspose.cad.xmp.schemas.xmpdm/timeformat/droptimecode2997) { get; } |  |
+| static [DropTimecode5994](../../aspose.cad.xmp.schemas.xmpdm/timeformat/droptimecode5994) { get; } |  |
+| static [NonDropTimecode2997](../../aspose.cad.xmp.schemas.xmpdm/timeformat/nondroptimecode2997) { get; } |  |
+| static [NonDropTimecode5994](../../aspose.cad.xmp.schemas.xmpdm/timeformat/nondroptimecode5994) { get; } |  |
+| static [Timecode23976](../../aspose.cad.xmp.schemas.xmpdm/timeformat/timecode23976) { get; } |  |
+| static [Timecode24](../../aspose.cad.xmp.schemas.xmpdm/timeformat/timecode24) { get; } |  |
+| static [Timecode25](../../aspose.cad.xmp.schemas.xmpdm/timeformat/timecode25) { get; } |  |
+| static [Timecode30](../../aspose.cad.xmp.schemas.xmpdm/timeformat/timecode30) { get; } |  |
+| static [Timecode50](../../aspose.cad.xmp.schemas.xmpdm/timeformat/timecode50) { get; } |  |
+| static [Timecode60](../../aspose.cad.xmp.schemas.xmpdm/timeformat/timecode60) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) |  |
-| [Equals](equals)(TimeFormat) |  |
-| override [GetHashCode](gethashcode)() |  |
+| override [Equals](../../aspose.cad.xmp.schemas.xmpdm/timeformat/equals)(object) |  |
+| [Equals](../../aspose.cad.xmp.schemas.xmpdm/timeformat/equals)(TimeFormat) |  |
+| override [GetHashCode](../../aspose.cad.xmp.schemas.xmpdm/timeformat/gethashcode)() |  |
 
 ### See Also
 

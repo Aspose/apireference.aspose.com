@@ -16,8 +16,8 @@ public interface IDwgSectionData
 
 | Name | Description |
 | --- | --- |
-| [GetBit](getbit)(long) |  |
-| [GetLength](getlength)() |  |
+| [GetBit](../../aspose.cad.dxf.core.fileformats.dwg.pageandsection/idwgsectiondata/getbit)(long) |  |
+| [GetLength](../../aspose.cad.dxf.core.fileformats.dwg.pageandsection/idwgsectiondata/getlength)() |  |
 
 ### See Also
 

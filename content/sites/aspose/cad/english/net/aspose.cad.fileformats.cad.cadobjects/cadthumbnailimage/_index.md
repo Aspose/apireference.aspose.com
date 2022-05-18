@@ -22,8 +22,8 @@ public class CadThumbnailImage
 
 | Name | Description |
 | --- | --- |
-| [BytesNumber](bytesnumber) { get; set; } |  |
-| [PreviewImageData](previewimagedata) { get; set; } |  |
+| [BytesNumber](../../aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage/bytesnumber) { get; set; } |  |
+| [PreviewImageData](../../aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage/previewimagedata) { get; set; } |  |
 
 ### See Also
 

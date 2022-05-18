@@ -24,7 +24,7 @@ public class IfcBoolean : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcboolean/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

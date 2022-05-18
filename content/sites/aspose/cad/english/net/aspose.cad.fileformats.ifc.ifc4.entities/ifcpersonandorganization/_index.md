@@ -24,9 +24,17 @@ public class IfcPersonAndOrganization : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Roles](roles) { get; set; } | Roles |
-| [TheOrganization](theorganization) { get; set; } | TheOrganization |
-| [ThePerson](theperson) { get; set; } | ThePerson |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Roles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/roles) { get; set; } | Roles |
+| [TheOrganization](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/theorganization) { get; set; } | TheOrganization |
+| [ThePerson](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/theperson) { get; set; } | ThePerson |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

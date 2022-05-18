@@ -25,7 +25,7 @@ public class DwfString
 
 | Name | Description |
 | --- | --- |
-| [AsciiString](asciistring) { get; set; } | Gets string value of object |
+| [AsciiString](../../aspose.cad.fileformats.dwf.whip.objects/dwfstring/asciistring) { get; set; } | Gets string value of object |
 
 ### See Also
 

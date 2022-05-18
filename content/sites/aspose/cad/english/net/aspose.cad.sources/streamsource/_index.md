@@ -23,14 +23,14 @@ public sealed class StreamSource : Source
 
 | Name | Description |
 | --- | --- |
-| [DisposeStream](disposestream) { get; } |  |
-| [Stream](stream) { get; } |  |
+| [DisposeStream](../../aspose.cad.sources/streamsource/disposestream) { get; } |  |
+| [Stream](../../aspose.cad.sources/streamsource/stream) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetStreamContainer](getstreamcontainer)() |  |
+| override [GetStreamContainer](../../aspose.cad.sources/streamsource/getstreamcontainer)() |  |
 
 ### See Also
 

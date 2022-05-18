@@ -23,20 +23,22 @@ public sealed class Font : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [ChildFontFiles](childfontfiles) { get; set; } |  |
-| [FontFace](fontface) { get; set; } |  |
-| [FontFamily](fontfamily) { get; set; } |  |
-| [FontFileName](fontfilename) { get; set; } |  |
-| [FontName](fontname) { get; set; } |  |
-| [FontType](fonttype) { get; set; } |  |
-| [IsComposite](iscomposite) { get; set; } |  |
-| [Version](version) { get; set; } |  |
+| [ChildFontFiles](../../aspose.cad.xmp.types.complex.font/font/childfontfiles) { get; set; } |  |
+| [FontFace](../../aspose.cad.xmp.types.complex.font/font/fontface) { get; set; } |  |
+| [FontFamily](../../aspose.cad.xmp.types.complex.font/font/fontfamily) { get; set; } |  |
+| [FontFileName](../../aspose.cad.xmp.types.complex.font/font/fontfilename) { get; set; } |  |
+| [FontName](../../aspose.cad.xmp.types.complex.font/font/fontname) { get; set; } |  |
+| [FontType](../../aspose.cad.xmp.types.complex.font/font/fonttype) { get; set; } |  |
+| [IsComposite](../../aspose.cad.xmp.types.complex.font/font/iscomposite) { get; set; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+| [Version](../../aspose.cad.xmp.types.complex.font/font/version) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.font/font/getxmprepresentation)() |  |
 
 ### See Also
 

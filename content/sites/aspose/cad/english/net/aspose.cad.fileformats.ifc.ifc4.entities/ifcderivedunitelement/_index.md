@@ -24,8 +24,16 @@ public class IfcDerivedUnitElement : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Exponent](exponent) { get; set; } | Exponent |
-| [Unit](unit) { get; set; } | Unit |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Exponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedunitelement/exponent) { get; set; } | Exponent |
+| [Unit](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedunitelement/unit) { get; set; } | Unit |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

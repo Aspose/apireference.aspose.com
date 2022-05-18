@@ -22,17 +22,17 @@ public class CadSectionTypeSettings
 
 | Name | Description |
 | --- | --- |
-| [DestinationBlockObjectHandle](destinationblockobjecthandle) { get; set; } |  |
-| [DestinationFileName](destinationfilename) { get; set; } |  |
-| [GenerationOptionFlag](generationoptionflag) { get; set; } |  |
-| [GenerationSettingsNumber](generationsettingsnumber) { get; set; } |  |
-| [SectionGeometrySettings](sectiongeometrysettings) { get; set; } |  |
-| [SectionGeometrySettingsDataMarker](sectiongeometrysettingsdatamarker) { get; set; } |  |
-| [SectionType](sectiontype) { get; set; } |  |
-| [SectionTypeSettingsEndMarker](sectiontypesettingsendmarker) { get; set; } |  |
-| [SectionTypeSettingsMarker](sectiontypesettingsmarker) { get; set; } |  |
-| [SoftPointerIds](softpointerids) { get; set; } |  |
-| [SourceObjectsNumber](sourceobjectsnumber) { get; set; } |  |
+| [DestinationBlockObjectHandle](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/destinationblockobjecthandle) { get; set; } |  |
+| [DestinationFileName](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/destinationfilename) { get; set; } |  |
+| [GenerationOptionFlag](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/generationoptionflag) { get; set; } |  |
+| [GenerationSettingsNumber](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/generationsettingsnumber) { get; set; } |  |
+| [SectionGeometrySettings](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/sectiongeometrysettings) { get; set; } |  |
+| [SectionGeometrySettingsDataMarker](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/sectiongeometrysettingsdatamarker) { get; set; } |  |
+| [SectionType](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/sectiontype) { get; set; } |  |
+| [SectionTypeSettingsEndMarker](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/sectiontypesettingsendmarker) { get; set; } |  |
+| [SectionTypeSettingsMarker](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/sectiontypesettingsmarker) { get; set; } |  |
+| [SoftPointerIds](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/softpointerids) { get; set; } |  |
+| [SourceObjectsNumber](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/sourceobjectsnumber) { get; set; } |  |
 
 ### See Also
 

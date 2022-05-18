@@ -24,11 +24,11 @@ public class DgnViewInfo
 
 | Name | Description |
 | --- | --- |
-| [ActiveZ](activez) { get; set; } | Gets or sets the active z. |
-| [Conversion](conversion) { get; set; } | Gets or sets the conversion. |
-| [Delta](delta) { get; set; } | Gets or sets the delta. |
-| [Flags](flags) { get; set; } | Gets or sets the flags. |
-| [Origin](origin) { get; set; } | Gets or sets the origin. |
+| [ActiveZ](../../aspose.cad.fileformats.dgn/dgnviewinfo/activez) { get; set; } | Gets or sets the active z. |
+| [Conversion](../../aspose.cad.fileformats.dgn/dgnviewinfo/conversion) { get; set; } | Gets or sets the conversion. |
+| [Delta](../../aspose.cad.fileformats.dgn/dgnviewinfo/delta) { get; set; } | Gets or sets the delta. |
+| [Flags](../../aspose.cad.fileformats.dgn/dgnviewinfo/flags) { get; set; } | Gets or sets the flags. |
+| [Origin](../../aspose.cad.fileformats.dgn/dgnviewinfo/origin) { get; set; } | Gets or sets the origin. |
 
 ### See Also
 

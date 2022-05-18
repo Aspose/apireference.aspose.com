@@ -24,11 +24,11 @@ public class InputLocalOffset : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Offset](offset) { get; set; } | Gets or sets the offset. The offset attribute represents the offset into the list of indices. If two input elements share the same offset, they will be indexed the same. This works as a simple form of compression for the list of indices as well as defining the order the inputs should be used in. Required attribute. |
-| [Semantic](semantic) { get; set; } | Gets or sets the semantic. The semantic attribute is the user-defined meaning of the input connection. Required attribute. |
-| [SetSpecified](setspecified) { get; set; } | Gets or sets a value indicating whether set specified. |
-| [SingleSet](singleset) { get; set; } | Gets or sets the single set. The set attribute indicates which inputs should be grouped together as a single set. This is helpful when multiple inputs share the same semantics. |
-| [Source](source) { get; set; } | Gets or sets the source. The source attribute indicates the location of the data source. Required attribute. |
+| [Offset](../../aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/offset) { get; set; } | Gets or sets the offset. The offset attribute represents the offset into the list of indices. If two input elements share the same offset, they will be indexed the same. This works as a simple form of compression for the list of indices as well as defining the order the inputs should be used in. Required attribute. |
+| [Semantic](../../aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/semantic) { get; set; } | Gets or sets the semantic. The semantic attribute is the user-defined meaning of the input connection. Required attribute. |
+| [SetSpecified](../../aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/setspecified) { get; set; } | Gets or sets a value indicating whether set specified. |
+| [SingleSet](../../aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/singleset) { get; set; } | Gets or sets the single set. The set attribute indicates which inputs should be grouped together as a single set. This is helpful when multiple inputs share the same semantics. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/source) { get; set; } | Gets or sets the source. The source attribute indicates the location of the data source. Required attribute. |
 
 ### See Also
 

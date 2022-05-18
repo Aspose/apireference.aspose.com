@@ -24,8 +24,16 @@ public class IfcMaterialClassificationRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ClassifiedMaterial](classifiedmaterial) { get; set; } | ClassifiedMaterial |
-| [MaterialClassifications](materialclassifications) { get; set; } | MaterialClassifications |
+| [ClassifiedMaterial](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialclassificationrelationship/classifiedmaterial) { get; set; } | ClassifiedMaterial |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [MaterialClassifications](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialclassificationrelationship/materialclassifications) { get; set; } | MaterialClassifications |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

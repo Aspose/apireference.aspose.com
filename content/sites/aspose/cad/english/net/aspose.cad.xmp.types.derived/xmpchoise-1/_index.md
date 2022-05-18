@@ -22,13 +22,13 @@ public class XmpChoise<T> : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [IsOpen](isopen) { get; set; } |  |
+| [IsOpen](../../aspose.cad.xmp.types.derived/xmpchoise`1/isopen) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.derived/xmpchoise`1/getxmprepresentation)() |  |
 
 ### See Also
 

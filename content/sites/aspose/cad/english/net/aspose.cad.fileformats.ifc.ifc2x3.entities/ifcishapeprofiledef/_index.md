@@ -26,11 +26,22 @@ public class IfcIShapeProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [FilletRadius](filletradius) { get; set; } | FilletRadius |
-| [FlangeThickness](flangethickness) { get; set; } | FlangeThickness |
-| [OverallDepth](overalldepth) { get; set; } | OverallDepth |
-| [OverallWidth](overallwidth) { get; set; } | OverallWidth |
-| [WebThickness](webthickness) { get; set; } | WebThickness |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/filletradius) { get; set; } | FilletRadius |
+| [FlangeThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/flangethickness) { get; set; } | FlangeThickness |
+| [OverallDepth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/overalldepth) { get; set; } | OverallDepth |
+| [OverallWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/overallwidth) { get; set; } | OverallWidth |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position) { get; set; } | Position |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+| [WebThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/webthickness) { get; set; } | WebThickness |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

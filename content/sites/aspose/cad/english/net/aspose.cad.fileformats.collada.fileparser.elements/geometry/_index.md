@@ -24,11 +24,11 @@ public class Geometry : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. The geometry element may contain an asset element. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Id](id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
-| [Item](item) { get; set; } | Gets or sets the geometry item. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/geometry/asset) { get; set; } | Gets or sets the asset. The geometry element may contain an asset element. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/geometry/extra) { get; set; } | Gets or sets the extra. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/geometry/id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
+| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/geometry/item) { get; set; } | Gets or sets the geometry item. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/geometry/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
 
 ### See Also
 

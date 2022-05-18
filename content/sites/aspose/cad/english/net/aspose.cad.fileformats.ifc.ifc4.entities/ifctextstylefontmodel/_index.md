@@ -26,11 +26,20 @@ public class IfcTextStyleFontModel : IfcPreDefinedTextFont
 
 | Name | Description |
 | --- | --- |
-| [FontFamily](fontfamily) { get; set; } | FontFamily |
-| [FontSize](fontsize) { get; set; } | FontSize |
-| [FontStyle](fontstyle) { get; set; } | FontStyle |
-| [FontVariant](fontvariant) { get; set; } | FontVariant |
-| [FontWeight](fontweight) { get; set; } | FontWeight |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FontFamily](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontfamily) { get; set; } | FontFamily |
+| [FontSize](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontsize) { get; set; } | FontSize |
+| [FontStyle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontstyle) { get; set; } | FontStyle |
+| [FontVariant](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontvariant) { get; set; } | FontVariant |
+| [FontWeight](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontweight) { get; set; } | FontWeight |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefineditem/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

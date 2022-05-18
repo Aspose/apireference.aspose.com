@@ -24,10 +24,20 @@ public class IfcBoundingBox : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [Corner](corner) { get; set; } | Corner |
-| [XDim](xdim) { get; set; } | XDim |
-| [YDim](ydim) { get; set; } | YDim |
-| [ZDim](zdim) { get; set; } | ZDim |
+| [Corner](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/corner) { get; set; } | Corner |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [XDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/xdim) { get; set; } | XDim |
+| [YDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/ydim) { get; set; } | YDim |
+| [ZDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/zdim) { get; set; } | ZDim |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

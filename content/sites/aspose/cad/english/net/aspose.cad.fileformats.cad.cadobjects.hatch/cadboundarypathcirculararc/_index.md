@@ -22,17 +22,17 @@ public class CadBoundaryPathCircularArc : ICadBoundaryPathEntity
 
 | Name | Description |
 | --- | --- |
-| [CenterPoint](centerpoint) { get; set; } |  |
-| [CounterClockwize](counterclockwize) { get; set; } |  |
-| [EndAngle](endangle) { get; set; } |  |
-| [Radius](radius) { get; set; } |  |
-| [StartAngle](startangle) { get; set; } |  |
+| [CenterPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/centerpoint) { get; set; } |  |
+| [CounterClockwize](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/counterclockwize) { get; set; } |  |
+| [EndAngle](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/endangle) { get; set; } |  |
+| [Radius](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/radius) { get; set; } |  |
+| [StartAngle](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/startangle) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToCadBaseEntity](tocadbaseentity)() |  |
+| [ToCadBaseEntity](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/tocadbaseentity)() |  |
 
 ### See Also
 

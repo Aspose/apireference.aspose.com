@@ -18,9 +18,17 @@ public abstract class IfcPhysicalQuantity : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [Name](name) { get; set; } | Name |
-| [PartOfComplex](partofcomplex) { get; } | PartOfComplex |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/name) { get; set; } | Name |
+| [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/partofcomplex) { get; } | PartOfComplex |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

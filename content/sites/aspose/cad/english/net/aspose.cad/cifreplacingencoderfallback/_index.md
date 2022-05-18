@@ -24,13 +24,13 @@ public class CifReplacingEncoderFallback : EncoderFallback
 
 | Name | Description |
 | --- | --- |
-| override [MaxCharCount](maxcharcount) { get; } | For surrogate pair of two UTF-16 characters that are encoded as two consequent CIF entries in AutoCad format (slash-escaped) it is 14, so we return 14 |
+| override [MaxCharCount](../../aspose.cad/cifreplacingencoderfallback/maxcharcount) { get; } | For surrogate pair of two UTF-16 characters that are encoded as two consequent CIF entries in AutoCad format (slash-escaped) it is 14, so we return 14 |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [CreateFallbackBuffer](createfallbackbuffer)() | Creates the actual fallback buffer |
+| override [CreateFallbackBuffer](../../aspose.cad/cifreplacingencoderfallback/createfallbackbuffer)() | Creates the actual fallback buffer |
 
 ### See Also
 

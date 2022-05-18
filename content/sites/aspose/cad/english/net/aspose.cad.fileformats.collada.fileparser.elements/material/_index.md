@@ -24,11 +24,11 @@ public class Material : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. The material element may contain an asset element. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Id](id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
-| [InstanceEffect](instanceeffect) { get; set; } | Gets or sets the instance effect. The material must instance an effect. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/material/asset) { get; set; } | Gets or sets the asset. The material element may contain an asset element. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/material/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/material/id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
+| [InstanceEffect](../../aspose.cad.fileformats.collada.fileparser.elements/material/instanceeffect) { get; set; } | Gets or sets the instance effect. The material must instance an effect. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/material/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
 
 ### See Also
 

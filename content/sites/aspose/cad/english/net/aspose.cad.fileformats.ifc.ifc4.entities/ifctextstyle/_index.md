@@ -26,10 +26,19 @@ public class IfcTextStyle : IfcPresentationStyle
 
 | Name | Description |
 | --- | --- |
-| [ModelOrDraughting](modelordraughting) { get; set; } | ModelOrDraughting |
-| [TextCharacterAppearance](textcharacterappearance) { get; set; } | TextCharacterAppearance |
-| [TextFontStyle](textfontstyle) { get; set; } | TextFontStyle |
-| [TextStyle](textstyle) { get; set; } | TextStyle |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ModelOrDraughting](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/modelordraughting) { get; set; } | ModelOrDraughting |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationstyle/name) { get; set; } | Name |
+| [TextCharacterAppearance](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/textcharacterappearance) { get; set; } | TextCharacterAppearance |
+| [TextFontStyle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/textfontstyle) { get; set; } | TextFontStyle |
+| [TextStyle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/textstyle) { get; set; } | TextStyle |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

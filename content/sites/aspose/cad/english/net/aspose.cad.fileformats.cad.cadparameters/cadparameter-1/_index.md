@@ -23,13 +23,17 @@ public abstract class CadParameter<T> : CadParameter
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } |  |
+| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type) { get; } |  |
+| [Value](../../aspose.cad.fileformats.cad.cadparameters/cadparameter`1/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Init](init)(object) |  |
+| abstract [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadCodeValue) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter`1/init)(object) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, CadCodeValue) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, object) |  |
 
 ### See Also
 

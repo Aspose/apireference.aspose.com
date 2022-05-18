@@ -18,7 +18,7 @@ public interface IBufferProcessor
 
 | Name | Description |
 | --- | --- |
-| [ProcessBuffer](processbuffer)(byte[], int) | Processes the buffer. |
+| [ProcessBuffer](../../aspose.cad/ibufferprocessor/processbuffer)(byte[], int) | Processes the buffer. |
 
 ### See Also
 

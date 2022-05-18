@@ -23,8 +23,12 @@ public class DxfSizeAttribute : DxfPropertyAttribute
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } |  |
-| [Width](width) { get; set; } |  |
+| [HasDefaultValue](../../aspose.cad.fileformats.cad/dxfpropertyattribute/hasdefaultvalue) { get; set; } |  |
+| [Height](../../aspose.cad.fileformats.cad/dxfsizeattribute/height) { get; set; } |  |
+| [ParameterType](../../aspose.cad.fileformats.cad/dxfpropertyattribute/parametertype) { get; set; } |  |
+| [PropertyInfo](../../aspose.cad.fileformats.cad/dxfpropertyattribute/propertyinfo) { get; set; } |  |
+| [SubClassName](../../aspose.cad.fileformats.cad/dxfpropertyattribute/subclassname) { get; set; } |  |
+| [Width](../../aspose.cad.fileformats.cad/dxfsizeattribute/width) { get; set; } |  |
 
 ### See Also
 

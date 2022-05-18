@@ -18,8 +18,8 @@ public static class CodePagesConvertHelper
 
 | Name | Description |
 | --- | --- |
-| static [GetCode](getcode)(CodePages) | Gets the code. |
-| static [GetIntCode](getintcode)(CodePages) | Gets integer code. |
+| static [GetCode](../../aspose.cad/codepagesconverthelper/getcode)(CodePages) | Gets the code. |
+| static [GetIntCode](../../aspose.cad/codepagesconverthelper/getintcode)(CodePages) | Gets integer code. |
 
 ### See Also
 

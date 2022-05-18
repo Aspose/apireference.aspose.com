@@ -24,12 +24,22 @@ public class IfcMapConversion : IfcCoordinateOperation
 
 | Name | Description |
 | --- | --- |
-| [Eastings](eastings) { get; set; } | Eastings |
-| [Northings](northings) { get; set; } | Northings |
-| [OrthogonalHeight](orthogonalheight) { get; set; } | OrthogonalHeight |
-| [Scale](scale) { get; set; } | Scale |
-| [XAxisAbscissa](xaxisabscissa) { get; set; } | XAxisAbscissa |
-| [XAxisOrdinate](xaxisordinate) { get; set; } | XAxisOrdinate |
+| [Eastings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/eastings) { get; set; } | Eastings |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Northings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/northings) { get; set; } | Northings |
+| [OrthogonalHeight](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/orthogonalheight) { get; set; } | OrthogonalHeight |
+| [Scale](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/scale) { get; set; } | Scale |
+| [SourceCRS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/sourcecrs) { get; set; } | SourceCRS |
+| [TargetCRS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/targetcrs) { get; set; } | TargetCRS |
+| [XAxisAbscissa](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/xaxisabscissa) { get; set; } | XAxisAbscissa |
+| [XAxisOrdinate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/xaxisordinate) { get; set; } | XAxisOrdinate |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

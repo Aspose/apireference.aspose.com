@@ -18,8 +18,8 @@ public abstract class CF2DrawnElement
 
 | Name | Description |
 | --- | --- |
-| [StartPoint](startpoint) { get; set; } | The start point |
-| [TypeDElement](typedelement) { get; } | The type of the drawn element |
+| [StartPoint](../../aspose.cad.fileformats.cf2/cf2drawnelement/startpoint) { get; set; } | The start point |
+| [TypeDElement](../../aspose.cad.fileformats.cf2/cf2drawnelement/typedelement) { get; } | The type of the drawn element |
 
 ### See Also
 

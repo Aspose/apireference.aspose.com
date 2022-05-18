@@ -24,7 +24,18 @@ public class IfcAdvancedBrepWithVoids : IfcAdvancedBrep
 
 | Name | Description |
 | --- | --- |
-| [Voids](voids) { get; set; } | Voids |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [Outer](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmanifoldsolidbrep/outer) { get; set; } | Outer |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [Voids](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/voids) { get; set; } | Voids |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

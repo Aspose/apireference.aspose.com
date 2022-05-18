@@ -16,7 +16,7 @@ public interface IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [GetXmlValue](getxmlvalue)() |  |
+| [GetXmlValue](../../aspose.cad.xmp/ixmlvalue/getxmlvalue)() |  |
 
 ### See Also
 

@@ -26,7 +26,18 @@ public class IfcCircleProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [Radius](radius) { get; set; } | Radius |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position) { get; set; } | Position |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+| [Radius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccircleprofiledef/radius) { get; set; } | Radius |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

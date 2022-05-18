@@ -16,18 +16,18 @@ public sealed class AudioChannelType
 
 | Name | Description |
 | --- | --- |
-| static [Audio16Channel](audio16channel) { get; } |  |
-| static [Audio51](audio51) { get; } |  |
-| static [Audio71](audio71) { get; } |  |
-| static [Mono](mono) { get; } |  |
-| static [OtherChannel](otherchannel) { get; } |  |
-| static [Stereo](stereo) { get; } |  |
+| static [Audio16Channel](../../aspose.cad.xmp.schemas.xmpdm/audiochanneltype/audio16channel) { get; } |  |
+| static [Audio51](../../aspose.cad.xmp.schemas.xmpdm/audiochanneltype/audio51) { get; } |  |
+| static [Audio71](../../aspose.cad.xmp.schemas.xmpdm/audiochanneltype/audio71) { get; } |  |
+| static [Mono](../../aspose.cad.xmp.schemas.xmpdm/audiochanneltype/mono) { get; } |  |
+| static [OtherChannel](../../aspose.cad.xmp.schemas.xmpdm/audiochanneltype/otherchannel) { get; } |  |
+| static [Stereo](../../aspose.cad.xmp.schemas.xmpdm/audiochanneltype/stereo) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() |  |
+| override [ToString](../../aspose.cad.xmp.schemas.xmpdm/audiochanneltype/tostring)() |  |
 
 ### See Also
 

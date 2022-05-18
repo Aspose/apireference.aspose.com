@@ -18,9 +18,10 @@ public class DgnLineElement : DgnDrawingElementBase
 
 | Name | Description |
 | --- | --- |
-| override [MaxPoint](maxpoint) { get; } | Gets the max point of object. |
-| override [MinPoint](minpoint) { get; } | Gets the min point of object. |
-| [Vertices](vertices) { get; } | Gets vertices of the line |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/minpoint) { get; } | Gets the min point of object. |
+| [Vertices](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/vertices) { get; } | Gets vertices of the line |
 
 ### See Also
 

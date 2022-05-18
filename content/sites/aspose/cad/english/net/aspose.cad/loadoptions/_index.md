@@ -24,15 +24,15 @@ public class LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [CustomFontFolderOptions](customfontfolderoptions) { get; set; } | Options to control behaviour of custom font folder. |
-| [CustomFontFolders](customfontfolders) { get; set; } | Sets the custom font folders. Pass null to reset to default folders. |
-| [DataBackgroundColor](databackgroundcolor) { get; set; } | Gets or sets the [`Image`](../image) background [`Color`](../color). |
-| [Errors](errors) { get; } | Gets the list of loading errors. |
-| [IgnoreErrors](ignoreerrors) { get; set; } | Whether to ignore load errors. |
-| [RecoverMalformedCifMif](recovermalformedcifmif) { get; set; } | Whether to recover non-escaped CIF (U+XXXX) and MIF (M+nXXXX) character notations |
-| [SpecifiedEncoding](specifiedencoding) { get; set; } | Gets or sets the specified encoding. |
-| [SpecifiedMifEncoding](specifiedmifencoding) { get; set; } | Gets or sets encoding for MIF characters |
-| [UnloadOnDispose](unloadondispose) { get; set; } | Whether to unload all data and free memory when Dispose is called |
+| [CustomFontFolderOptions](../../aspose.cad/loadoptions/customfontfolderoptions) { get; set; } | Options to control behaviour of custom font folder. |
+| [CustomFontFolders](../../aspose.cad/loadoptions/customfontfolders) { get; set; } | Sets the custom font folders. Pass null to reset to default folders. |
+| [DataBackgroundColor](../../aspose.cad/loadoptions/databackgroundcolor) { get; set; } | Gets or sets the [`Image`](../image) background [`Color`](../color). |
+| [Errors](../../aspose.cad/loadoptions/errors) { get; } | Gets the list of loading errors. |
+| [IgnoreErrors](../../aspose.cad/loadoptions/ignoreerrors) { get; set; } | Whether to ignore load errors. |
+| [RecoverMalformedCifMif](../../aspose.cad/loadoptions/recovermalformedcifmif) { get; set; } | Whether to recover non-escaped CIF (U+XXXX) and MIF (M+nXXXX) character notations |
+| [SpecifiedEncoding](../../aspose.cad/loadoptions/specifiedencoding) { get; set; } | Gets or sets the specified encoding. |
+| [SpecifiedMifEncoding](../../aspose.cad/loadoptions/specifiedmifencoding) { get; set; } | Gets or sets encoding for MIF characters |
+| [UnloadOnDispose](../../aspose.cad/loadoptions/unloadondispose) { get; set; } | Whether to unload all data and free memory when Dispose is called |
 
 ### See Also
 

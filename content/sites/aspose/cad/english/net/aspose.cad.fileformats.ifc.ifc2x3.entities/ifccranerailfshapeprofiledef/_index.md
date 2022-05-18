@@ -26,15 +26,26 @@ public class IfcCraneRailFShapeProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [BaseDepth1](basedepth1) { get; set; } | BaseDepth1 |
-| [BaseDepth2](basedepth2) { get; set; } | BaseDepth2 |
-| [CentreOfGravityInY](centreofgravityiny) { get; set; } | CentreOfGravityInY |
-| [HeadDepth2](headdepth2) { get; set; } | HeadDepth2 |
-| [HeadDepth3](headdepth3) { get; set; } | HeadDepth3 |
-| [HeadWidth](headwidth) { get; set; } | HeadWidth |
-| [OverallHeight](overallheight) { get; set; } | OverallHeight |
-| [Radius](radius) { get; set; } | Radius |
-| [WebThickness](webthickness) { get; set; } | WebThickness |
+| [BaseDepth1](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/basedepth1) { get; set; } | BaseDepth1 |
+| [BaseDepth2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/basedepth2) { get; set; } | BaseDepth2 |
+| [CentreOfGravityInY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/centreofgravityiny) { get; set; } | CentreOfGravityInY |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HeadDepth2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/headdepth2) { get; set; } | HeadDepth2 |
+| [HeadDepth3](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/headdepth3) { get; set; } | HeadDepth3 |
+| [HeadWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/headwidth) { get; set; } | HeadWidth |
+| [OverallHeight](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/overallheight) { get; set; } | OverallHeight |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position) { get; set; } | Position |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+| [Radius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/radius) { get; set; } | Radius |
+| [WebThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/webthickness) { get; set; } | WebThickness |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

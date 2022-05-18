@@ -24,7 +24,7 @@ public class DwfZip :    
 
 | Name | Description |
 | --- | --- |
-| [Extract](extract)() | Extracts this instance. |
+| [Extract](../../aspose.cad.fileformats.dwf/dwfzip/extract)() | Extracts this instance. |
 
 ### See Also
 

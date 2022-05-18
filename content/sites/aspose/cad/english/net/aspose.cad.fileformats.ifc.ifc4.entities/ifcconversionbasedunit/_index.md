@@ -24,9 +24,19 @@ public class IfcConversionBasedUnit : IfcNamedUnit
 
 | Name | Description |
 | --- | --- |
-| [ConversionFactor](conversionfactor) { get; set; } | ConversionFactor |
-| [HasExternalReference](hasexternalreference) { get; } | HasExternalReference |
-| [Name](name) { get; set; } | Name |
+| [ConversionFactor](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunit/conversionfactor) { get; set; } | ConversionFactor |
+| [Dimensions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/dimensions) { get; set; } | Dimensions |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunit/hasexternalreference) { get; } | HasExternalReference |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunit/name) { get; set; } | Name |
+| [UnitType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/unittype) { get; set; } | UnitType |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -26,11 +26,21 @@ public class IfcTrimmedCurve : IfcBoundedCurve
 
 | Name | Description |
 | --- | --- |
-| [BasisCurve](basiscurve) { get; set; } | BasisCurve |
-| [MasterRepresentation](masterrepresentation) { get; set; } | MasterRepresentation |
-| [SenseAgreement](senseagreement) { get; set; } | SenseAgreement |
-| [Trim1](trim1) { get; set; } | Trim1 |
-| [Trim2](trim2) { get; set; } | Trim2 |
+| [BasisCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/basiscurve) { get; set; } | BasisCurve |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [MasterRepresentation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/masterrepresentation) { get; set; } | MasterRepresentation |
+| [SenseAgreement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/senseagreement) { get; set; } | SenseAgreement |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [Trim1](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/trim1) { get; set; } | Trim1 |
+| [Trim2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/trim2) { get; set; } | Trim2 |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

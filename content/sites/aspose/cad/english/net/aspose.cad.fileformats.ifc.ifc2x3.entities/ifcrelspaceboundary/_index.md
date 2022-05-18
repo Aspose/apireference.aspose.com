@@ -24,11 +24,23 @@ public class IfcRelSpaceBoundary : IfcRelConnects
 
 | Name | Description |
 | --- | --- |
-| [ConnectionGeometry](connectiongeometry) { get; set; } | ConnectionGeometry |
-| [InternalOrExternalBoundary](internalorexternalboundary) { get; set; } | InternalOrExternalBoundary |
-| [PhysicalOrVirtualBoundary](physicalorvirtualboundary) { get; set; } | PhysicalOrVirtualBoundary |
-| [RelatedBuildingElement](relatedbuildingelement) { get; set; } | RelatedBuildingElement |
-| [RelatingSpace](relatingspace) { get; set; } | RelatingSpace |
+| [ConnectionGeometry](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelspaceboundary/connectiongeometry) { get; set; } | ConnectionGeometry |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [InternalOrExternalBoundary](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelspaceboundary/internalorexternalboundary) { get; set; } | InternalOrExternalBoundary |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [PhysicalOrVirtualBoundary](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelspaceboundary/physicalorvirtualboundary) { get; set; } | PhysicalOrVirtualBoundary |
+| [RelatedBuildingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelspaceboundary/relatedbuildingelement) { get; set; } | RelatedBuildingElement |
+| [RelatingSpace](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelspaceboundary/relatingspace) { get; set; } | RelatingSpace |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

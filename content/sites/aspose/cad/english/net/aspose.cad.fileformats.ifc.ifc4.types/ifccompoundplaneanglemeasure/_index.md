@@ -24,7 +24,7 @@ public class IfcCompoundPlaneAngleMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifccompoundplaneanglemeasure/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

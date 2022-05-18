@@ -18,12 +18,13 @@ public class DgnSharedCellElement : DgnDrawingElementBase
 
 | Name | Description |
 | --- | --- |
-| [Definition](definition) { get; } | Gets the definition. |
-| [Id](id) { get; } | Gets the identifier. |
-| override [MaxPoint](maxpoint) { get; } | Gets the max point of object. |
-| override [MinPoint](minpoint) { get; } | Gets the min point of object. |
-| [Name](name) { get; } | Gets the name. |
-| [Origin](origin) { get; } | Gets cell's origin point |
+| [Definition](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/definition) { get; } | Gets the definition. |
+| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/id) { get; } | Gets the identifier. |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/minpoint) { get; } | Gets the min point of object. |
+| [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/name) { get; } | Gets the name. |
+| [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/origin) { get; } | Gets cell's origin point |
 
 ### See Also
 

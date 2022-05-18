@@ -24,9 +24,19 @@ public class IfcMaterialRelationship : IfcResourceLevelRelationship
 
 | Name | Description |
 | --- | --- |
-| [Expression](expression) { get; set; } | Expression |
-| [RelatedMaterials](relatedmaterials) { get; set; } | RelatedMaterials |
-| [RelatingMaterial](relatingmaterial) { get; set; } | RelatingMaterial |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Expression](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/expression) { get; set; } | Expression |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name) { get; set; } | Name |
+| [RelatedMaterials](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/relatedmaterials) { get; set; } | RelatedMaterials |
+| [RelatingMaterial](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/relatingmaterial) { get; set; } | RelatingMaterial |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

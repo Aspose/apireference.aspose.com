@@ -24,9 +24,10 @@ public class DwfWhipLineStyle : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [EndCap](endcap) { get; } | Gets end cap |
-| [JoinStyle](joinstyle) { get; } | Gets join style |
-| [StartCap](startcap) { get; } | Gets start cap |
+| [EndCap](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/endcap) { get; } | Gets end cap |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [JoinStyle](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/joinstyle) { get; } | Gets join style |
+| [StartCap](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/startcap) { get; } | Gets start cap |
 
 ### See Also
 

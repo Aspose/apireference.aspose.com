@@ -22,15 +22,15 @@ public class CadXdataContainer
 
 | Name | Description |
 | --- | --- |
-| [Hyperlink](hyperlink) { get; set; } |  |
-| [Xdatas](xdatas) { get; set; } |  |
+| [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadxdatacontainer/hyperlink) { get; set; } |  |
+| [Xdatas](../../aspose.cad.fileformats.cad.cadobjects/cadxdatacontainer/xdatas) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetAcadData](getacaddata)() |  |
-| [GetData](getdata)(string) |  |
+| [GetAcadData](../../aspose.cad.fileformats.cad.cadobjects/cadxdatacontainer/getacaddata)() |  |
+| [GetData](../../aspose.cad.fileformats.cad.cadobjects/cadxdatacontainer/getdata)(string) |  |
 
 ### See Also
 

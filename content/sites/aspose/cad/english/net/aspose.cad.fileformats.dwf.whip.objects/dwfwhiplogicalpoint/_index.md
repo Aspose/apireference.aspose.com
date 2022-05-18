@@ -25,8 +25,8 @@ public class DwfWhipLogicalPoint
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } | Gets or sets X coordinate |
-| [Y](y) { get; set; } | Gets or sets Y coordinate |
+| [X](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/x) { get; set; } | Gets or sets X coordinate |
+| [Y](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/y) { get; set; } | Gets or sets Y coordinate |
 
 ### See Also
 

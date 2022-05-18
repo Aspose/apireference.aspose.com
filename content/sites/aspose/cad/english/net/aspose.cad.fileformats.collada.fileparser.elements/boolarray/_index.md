@@ -24,10 +24,10 @@ public class BoolArray : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; set; } | Gets or sets the count. The count attribute indicates the number of values in the array. Required attribute. |
-| [Id](id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
-| [Text](text) { get; set; } | Gets or sets the value as text. |
+| [Count](../../aspose.cad.fileformats.collada.fileparser.elements/boolarray/count) { get; set; } | Gets or sets the count. The count attribute indicates the number of values in the array. Required attribute. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/boolarray/id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/boolarray/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/boolarray/text) { get; set; } | Gets or sets the value as text. |
 
 ### See Also
 

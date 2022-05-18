@@ -18,8 +18,9 @@ public abstract class DgnDrawingElementBase : DgnElement
 
 | Name | Description |
 | --- | --- |
-| abstract [MaxPoint](maxpoint) { get; } | Gets the max point of object. |
-| abstract [MinPoint](minpoint) { get; } | Gets the min point of object. |
+| abstract [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| abstract [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase/minpoint) { get; } | Gets the min point of object. |
 
 ### See Also
 

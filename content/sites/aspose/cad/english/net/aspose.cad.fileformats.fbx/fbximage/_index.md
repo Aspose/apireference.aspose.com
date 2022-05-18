@@ -18,16 +18,33 @@ public class FbxImage : Image
 
 | Name | Description |
 | --- | --- |
-| override [Height](height) { get; } | Gets the image height. |
-| override [IsCached](iscached) { get; } | Gets a value indicating whether object's data is cached currently and no data readig is required. |
-| [Version](version) { get; } | Gets the image height. |
-| override [Width](width) { get; } | Gets the image width. |
+| [Bounds](../../aspose.cad/image/bounds) { get; } | Gets the image bounds. |
+| [Container](../../aspose.cad/image/container) { get; } | Gets the [`Image`](../../aspose.cad/image) container. |
+| [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer) { get; } |  |
+| [Disposed](../../aspose.cad/disposableobject/disposed) { get; } |  |
+| override [Height](../../aspose.cad.fileformats.fbx/fbximage/height) { get; } | Gets the image height. |
+| override [IsCached](../../aspose.cad.fileformats.fbx/fbximage/iscached) { get; } | Gets a value indicating whether object's data is cached currently and no data readig is required. |
+| [Palette](../../aspose.cad/image/palette) { get; set; } | Gets or sets the color palette. |
+| [Size](../../aspose.cad/image/size) { get; } | Gets the image size. |
+| virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype) { get; } | Assumed unit type when UnitType is set to Unitless |
+| [UnitType](../../aspose.cad/image/unittype) { get; } | Gets current unit type. |
+| [Version](../../aspose.cad.fileformats.fbx/fbximage/version) { get; } | Gets the image height. |
+| override [Width](../../aspose.cad.fileformats.fbx/fbximage/width) { get; } | Gets the image width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [CacheData](cachedata)() | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../aspose.cad/datastreamsupporter/datastreamcontainer). |
+| override [CacheData](../../aspose.cad.fileformats.fbx/fbximage/cachedata)() | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../aspose.cad/datastreamsupporter/datastreamcontainer). |
+| [CanSave](../../aspose.cad/image/cansave)(ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [Dispose](../../aspose.cad/disposableobject/dispose)() |  |
+| virtual [GetStrings](../../aspose.cad/image/getstrings)() | Gets all string values from image. |
+| [Save](../../aspose.cad/image/save)() | Saves the image data to the underlying stream. |
+| [Save](../../aspose.cad/datastreamsupporter/save)(Stream) |  |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)(string) |  |
+| [Save](../../aspose.cad/image/save)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)(string, bool) |  |
+| virtual [Save](../../aspose.cad/image/save)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 
 ### See Also
 

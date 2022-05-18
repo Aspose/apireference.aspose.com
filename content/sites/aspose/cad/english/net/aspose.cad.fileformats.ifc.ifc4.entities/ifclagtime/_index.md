@@ -24,8 +24,19 @@ public class IfcLagTime : IfcSchedulingTime
 
 | Name | Description |
 | --- | --- |
-| [DurationType](durationtype) { get; set; } | DurationType |
-| [LagValue](lagvalue) { get; set; } | LagValue |
+| [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin) { get; set; } | DataOrigin |
+| [DurationType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/durationtype) { get; set; } | DurationType |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LagValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/lagvalue) { get; set; } | LagValue |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name) { get; set; } | Name |
+| [UserDefinedDataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/userdefineddataorigin) { get; set; } | UserDefinedDataOrigin |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

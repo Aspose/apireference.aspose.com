@@ -24,8 +24,8 @@ public class Hyperbola : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Radius](radius) { get; set; } | Gets or sets the radius. Contains two floating-point numbers that specify the radii of the hyperbola. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/hyperbola/extra) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/hyperbola/radius) { get; set; } | Gets or sets the radius. Contains two floating-point numbers that specify the radii of the hyperbola. |
 
 ### See Also
 

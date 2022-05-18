@@ -24,7 +24,22 @@ public class IfcBoundaryNodeConditionWarping : IfcBoundaryNodeCondition
 
 | Name | Description |
 | --- | --- |
-| [WarpingStiffness](warpingstiffness) { get; set; } | WarpingStiffness |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarycondition/name) { get; set; } | Name |
+| [RotationalStiffnessX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/rotationalstiffnessx) { get; set; } | RotationalStiffnessX |
+| [RotationalStiffnessY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/rotationalstiffnessy) { get; set; } | RotationalStiffnessY |
+| [RotationalStiffnessZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/rotationalstiffnessz) { get; set; } | RotationalStiffnessZ |
+| [TranslationalStiffnessX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/translationalstiffnessx) { get; set; } | TranslationalStiffnessX |
+| [TranslationalStiffnessY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/translationalstiffnessy) { get; set; } | TranslationalStiffnessY |
+| [TranslationalStiffnessZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/translationalstiffnessz) { get; set; } | TranslationalStiffnessZ |
+| [WarpingStiffness](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodeconditionwarping/warpingstiffness) { get; set; } | WarpingStiffness |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

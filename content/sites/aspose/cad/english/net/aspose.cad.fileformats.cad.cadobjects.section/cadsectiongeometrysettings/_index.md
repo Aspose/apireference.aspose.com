@@ -22,23 +22,23 @@ public class CadSectionGeometrySettings
 
 | Name | Description |
 | --- | --- |
-| [Bitflags](bitflags) { get; set; } |  |
-| [ColorData](colordata) { get; set; } |  |
-| [EdgeTransparency](edgetransparency) { get; set; } |  |
-| [FaceTransparency](facetransparency) { get; set; } |  |
-| [GeometryCount](geometrycount) { get; set; } |  |
-| [HatchAngle](hatchangle) { get; set; } |  |
-| [HatchPatternName](hatchpatternname) { get; set; } |  |
-| [HatchPatternType](hatchpatterntype) { get; set; } |  |
-| [HatchScale](hatchscale) { get; set; } |  |
-| [HatchSpacing](hatchspacing) { get; set; } |  |
-| [LayerName](layername) { get; set; } |  |
-| [LinetypeName](linetypename) { get; set; } |  |
-| [LinetypeScale](linetypescale) { get; set; } |  |
-| [LineWeight](lineweight) { get; set; } |  |
-| [PlotstyleName](plotstylename) { get; set; } |  |
-| [SectionGeometrySettingsEndDataMarker](sectiongeometrysettingsenddatamarker) { get; set; } |  |
-| [SectionType](sectiontype) { get; set; } |  |
+| [Bitflags](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/bitflags) { get; set; } |  |
+| [ColorData](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/colordata) { get; set; } |  |
+| [EdgeTransparency](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/edgetransparency) { get; set; } |  |
+| [FaceTransparency](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/facetransparency) { get; set; } |  |
+| [GeometryCount](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/geometrycount) { get; set; } |  |
+| [HatchAngle](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchangle) { get; set; } |  |
+| [HatchPatternName](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchpatternname) { get; set; } |  |
+| [HatchPatternType](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchpatterntype) { get; set; } |  |
+| [HatchScale](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchscale) { get; set; } |  |
+| [HatchSpacing](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchspacing) { get; set; } |  |
+| [LayerName](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/layername) { get; set; } |  |
+| [LinetypeName](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/linetypename) { get; set; } |  |
+| [LinetypeScale](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/linetypescale) { get; set; } |  |
+| [LineWeight](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/lineweight) { get; set; } |  |
+| [PlotstyleName](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/plotstylename) { get; set; } |  |
+| [SectionGeometrySettingsEndDataMarker](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/sectiongeometrysettingsenddatamarker) { get; set; } |  |
+| [SectionType](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/sectiontype) { get; set; } |  |
 
 ### See Also
 

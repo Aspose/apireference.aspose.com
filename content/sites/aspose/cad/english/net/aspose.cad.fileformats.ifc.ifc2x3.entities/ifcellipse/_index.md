@@ -26,8 +26,19 @@ public class IfcEllipse : IfcConic
 
 | Name | Description |
 | --- | --- |
-| [SemiAxis1](semiaxis1) { get; set; } | SemiAxis1 |
-| [SemiAxis2](semiaxis2) { get; set; } | SemiAxis2 |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconic/position) { get; set; } | Position |
+| [SemiAxis1](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcellipse/semiaxis1) { get; set; } | SemiAxis1 |
+| [SemiAxis2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcellipse/semiaxis2) { get; set; } | SemiAxis2 |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

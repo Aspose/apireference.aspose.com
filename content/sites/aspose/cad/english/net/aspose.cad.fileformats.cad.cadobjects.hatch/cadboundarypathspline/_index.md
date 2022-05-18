@@ -22,24 +22,24 @@ public class CadBoundaryPathSpline : ICadBoundaryPathEntity
 
 | Name | Description |
 | --- | --- |
-| [ControlPoints](controlpoints) { get; set; } |  |
-| [ControlPointsNumber](controlpointsnumber) { get; set; } |  |
-| [Degree](degree) { get; set; } |  |
-| [EndTangent](endtangent) { get; set; } |  |
-| [FitPoints](fitpoints) { get; set; } |  |
-| [FitPointsNumber](fitpointsnumber) { get; set; } |  |
-| [KnotsNumber](knotsnumber) { get; set; } |  |
-| [KnotValues](knotvalues) { get; set; } |  |
-| [Periodirc](periodirc) { get; set; } |  |
-| [Rational](rational) { get; set; } |  |
-| [StartTangent](starttangent) { get; set; } |  |
-| [WeightParams](weightparams) { get; set; } |  |
+| [ControlPoints](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/controlpoints) { get; set; } |  |
+| [ControlPointsNumber](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/controlpointsnumber) { get; set; } |  |
+| [Degree](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/degree) { get; set; } |  |
+| [EndTangent](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/endtangent) { get; set; } |  |
+| [FitPoints](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/fitpoints) { get; set; } |  |
+| [FitPointsNumber](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/fitpointsnumber) { get; set; } |  |
+| [KnotsNumber](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/knotsnumber) { get; set; } |  |
+| [KnotValues](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/knotvalues) { get; set; } |  |
+| [Periodirc](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/periodirc) { get; set; } |  |
+| [Rational](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/rational) { get; set; } |  |
+| [StartTangent](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/starttangent) { get; set; } |  |
+| [WeightParams](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/weightparams) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToCadBaseEntity](tocadbaseentity)() |  |
+| [ToCadBaseEntity](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/tocadbaseentity)() |  |
 
 ### See Also
 

@@ -24,13 +24,13 @@ public sealed class XmpInteger : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } |  |
+| [Value](../../aspose.cad.xmp.types.basic/xmpinteger/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.basic/xmpinteger/getxmprepresentation)() |  |
 
 ### See Also
 

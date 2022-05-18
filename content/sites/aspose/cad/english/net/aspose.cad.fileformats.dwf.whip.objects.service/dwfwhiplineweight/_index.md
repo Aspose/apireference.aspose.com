@@ -24,7 +24,8 @@ public class DwfWhipLineWeight : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [Weight](weight) { get; } | Gets weight value |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [Weight](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplineweight/weight) { get; } | Gets weight value |
 
 ### See Also
 

@@ -23,21 +23,21 @@ public class XmpPacketWrapper
 
 | Name | Description |
 | --- | --- |
-| [HeaderPi](headerpi) { get; } |  |
-| [Meta](meta) { get; set; } |  |
-| [Packages](packages) { get; } |  |
-| [PackagesCount](packagescount) { get; } |  |
-| [TrailerPi](trailerpi) { get; } |  |
+| [HeaderPi](../../aspose.cad.xmp/xmppacketwrapper/headerpi) { get; } |  |
+| [Meta](../../aspose.cad.xmp/xmppacketwrapper/meta) { get; set; } |  |
+| [Packages](../../aspose.cad.xmp/xmppacketwrapper/packages) { get; } |  |
+| [PackagesCount](../../aspose.cad.xmp/xmppacketwrapper/packagescount) { get; } |  |
+| [TrailerPi](../../aspose.cad.xmp/xmppacketwrapper/trailerpi) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddPackage](addpackage)(XmpPackage) |  |
-| [ClearPackages](clearpackages)() |  |
-| [ContainsPackage](containspackage)(string) |  |
-| [GetPackage](getpackage)(string) |  |
-| [RemovePackage](removepackage)(XmpPackage) |  |
+| [AddPackage](../../aspose.cad.xmp/xmppacketwrapper/addpackage)(XmpPackage) |  |
+| [ClearPackages](../../aspose.cad.xmp/xmppacketwrapper/clearpackages)() |  |
+| [ContainsPackage](../../aspose.cad.xmp/xmppacketwrapper/containspackage)(string) |  |
+| [GetPackage](../../aspose.cad.xmp/xmppacketwrapper/getpackage)(string) |  |
+| [RemovePackage](../../aspose.cad.xmp/xmppacketwrapper/removepackage)(XmpPackage) |  |
 
 ### See Also
 

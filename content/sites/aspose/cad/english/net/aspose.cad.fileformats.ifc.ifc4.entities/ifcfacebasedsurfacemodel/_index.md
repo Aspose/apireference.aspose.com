@@ -26,7 +26,17 @@ public class IfcFaceBasedSurfaceModel : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [FbsmFaces](fbsmfaces) { get; set; } | FbsmFaces |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FbsmFaces](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfacebasedsurfacemodel/fbsmfaces) { get; set; } | FbsmFaces |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

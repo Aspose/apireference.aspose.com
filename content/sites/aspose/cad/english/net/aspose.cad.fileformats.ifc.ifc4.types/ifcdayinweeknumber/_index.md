@@ -24,7 +24,7 @@ public class IfcDayInWeekNumber : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcdayinweeknumber/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

@@ -22,9 +22,15 @@ public sealed class XmpRdfRoot : XmpElementBase, IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [GetNamespaceUri](getnamespaceuri)(string) |  |
-| [GetXmlValue](getxmlvalue)() |  |
-| [RegisterNamespaceUri](registernamespaceuri)(string, string) |  |
+| virtual [AddAttribute](../../aspose.cad.xmp/xmpelementbase/addattribute)(string, string) |  |
+| virtual [ClearAttributes](../../aspose.cad.xmp/xmpelementbase/clearattributes)() |  |
+| override [Equals](../../aspose.cad.xmp/xmpelementbase/equals)(object) |  |
+| [Equals](../../aspose.cad.xmp/xmpelementbase/equals)(XmpElementBase) |  |
+| virtual [GetAttribute](../../aspose.cad.xmp/xmpelementbase/getattribute)(string) |  |
+| override [GetHashCode](../../aspose.cad.xmp/xmpelementbase/gethashcode)() |  |
+| [GetNamespaceUri](../../aspose.cad.xmp/xmprdfroot/getnamespaceuri)(string) |  |
+| [GetXmlValue](../../aspose.cad.xmp/xmprdfroot/getxmlvalue)() |  |
+| [RegisterNamespaceUri](../../aspose.cad.xmp/xmprdfroot/registernamespaceuri)(string, string) |  |
 
 ### See Also
 

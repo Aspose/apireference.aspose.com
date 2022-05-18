@@ -22,15 +22,26 @@ public class CadTableStyle : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } |  |
-| [FlagForWhetherColumnHeadingIsSuppressed](flagforwhethercolumnheadingissuppressed) { get; set; } |  |
-| [FlagForWhetherTitleIsSuppressed](flagforwhethertitleissuppressed) { get; set; } |  |
-| [Flags](flags) { get; set; } |  |
-| [FlowDirection](flowdirection) { get; set; } |  |
-| [HorizontalCellMargin](horizontalcellmargin) { get; set; } |  |
-| [TableStyleCellList](tablestylecelllist) { get; set; } |  |
-| [VersionNumber](versionnumber) { get; set; } |  |
-| [VerticalCellMargin](verticalcellmargin) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [Description](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/description) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [FlagForWhetherColumnHeadingIsSuppressed](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/flagforwhethercolumnheadingissuppressed) { get; set; } |  |
+| [FlagForWhetherTitleIsSuppressed](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/flagforwhethertitleissuppressed) { get; set; } |  |
+| [Flags](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/flags) { get; set; } |  |
+| [FlowDirection](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/flowdirection) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [HorizontalCellMargin](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/horizontalcellmargin) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [TableStyleCellList](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/tablestylecelllist) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [VersionNumber](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/versionnumber) { get; set; } |  |
+| [VerticalCellMargin](../../aspose.cad.fileformats.cad.cadobjects/cadtablestyle/verticalcellmargin) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

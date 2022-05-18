@@ -24,11 +24,11 @@ public class Accessor : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; set; } | Gets or sets the count. The count attribute indicates the number of times the array is accessed. Required attribute. |
-| [Offset](offset) { get; set; } | Gets or sets the offset. The offset attribute indicates the index of the first value to be read from the array. The default value is 0. Optional attribute. |
-| [Parameter](parameter) { get; set; } | Gets or sets the parameter. The accessor element may have any number of parameter elements. |
-| [Source](source) { get; set; } | Gets or sets the source. The source attribute indicates the location of the array to access using a URL expression. Required attribute. |
-| [Stride](stride) { get; set; } | Gets or sets the stride. The stride attribute indicates number of values to be considered a unit during each access to the array. The default value is 1, indicating that a single value is accessed. Optional attribute. |
+| [Count](../../aspose.cad.fileformats.collada.fileparser.elements/accessor/count) { get; set; } | Gets or sets the count. The count attribute indicates the number of times the array is accessed. Required attribute. |
+| [Offset](../../aspose.cad.fileformats.collada.fileparser.elements/accessor/offset) { get; set; } | Gets or sets the offset. The offset attribute indicates the index of the first value to be read from the array. The default value is 0. Optional attribute. |
+| [Parameter](../../aspose.cad.fileformats.collada.fileparser.elements/accessor/parameter) { get; set; } | Gets or sets the parameter. The accessor element may have any number of parameter elements. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/accessor/source) { get; set; } | Gets or sets the source. The source attribute indicates the location of the array to access using a URL expression. Required attribute. |
+| [Stride](../../aspose.cad.fileformats.collada.fileparser.elements/accessor/stride) { get; set; } | Gets or sets the stride. The stride attribute indicates number of values to be considered a unit during each access to the array. The default value is 1, indicating that a single value is accessed. Optional attribute. |
 
 ### See Also
 

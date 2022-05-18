@@ -24,15 +24,22 @@ public class DwfWhipText : DwfWhipDrawable
 
 | Name | Description |
 | --- | --- |
-| [Bounds](bounds) { get; set; } | Gets bounds |
-| [Font](font) { get; set; } | Gets or sets font |
-| override [MaxPoint](maxpoint) { get; } | Gets the max point of object. |
-| override [MinPoint](minpoint) { get; } | Gets the min point of object. |
-| [Overscore](overscore) { get; set; } | Gets overscore |
-| [Position](position) { get; set; } | Gets Position |
-| [Reserved](reserved) { get; set; } | Gets reversed |
-| [Text](text) { get; set; } | Gets Text string |
-| [Underscore](underscore) { get; set; } | Gets underscore |
+| [Bounds](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/bounds) { get; set; } | Gets bounds |
+| virtual [Color](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/color) { get; set; } | Gets or sets Color |
+| [Font](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/font) { get; set; } | Gets or sets font |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [IsVisible](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/isvisible) { get; set; } | Gets or sets a value indicating whether object is visible. |
+| [LayerIndex](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/layerindex) { get; set; } | Gets or sets layer index |
+| [LineStyle](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/linestyle) { get; set; } | Gets or sets line style |
+| [LineWeight](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/lineweight) { get; set; } | Gets or sets line weight |
+| override [MaxPoint](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/maxpoint) { get; } | Gets the max point of object. |
+| override [MinPoint](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/minpoint) { get; } | Gets the min point of object. |
+| [Overscore](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/overscore) { get; set; } | Gets overscore |
+| [Position](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/position) { get; set; } | Gets Position |
+| [Reserved](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/reserved) { get; set; } | Gets reversed |
+| [Text](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/text) { get; set; } | Gets Text string |
+| [TransformMatrix](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/transformmatrix) { get; set; } | Gets or sets transform matrix |
+| [Underscore](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/underscore) { get; set; } | Gets underscore |
 
 ### See Also
 

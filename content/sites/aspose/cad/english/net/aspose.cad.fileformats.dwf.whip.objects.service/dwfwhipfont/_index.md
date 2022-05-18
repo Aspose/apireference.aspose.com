@@ -24,15 +24,16 @@ public class DwfWhipFont : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [CharSet](charset) { get; } | Gets charset |
-| [Family](family) { get; } | Gets font family |
-| [Flags](flags) { get; } | Gets options flags |
-| [Height](height) { get; set; } | Gets or sets Height |
-| [Name](name) { get; set; } | Gets font name |
-| [Pitch](pitch) { get; } | Gets pitch |
-| [Rotation](rotation) { get; set; } | Gets or sets rotation |
-| [Style](style) { get; } | Gets style |
-| [WidthScale](widthscale) { get; } | Gets width scale |
+| [CharSet](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/charset) { get; } | Gets charset |
+| [Family](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/family) { get; } | Gets font family |
+| [Flags](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/flags) { get; } | Gets options flags |
+| [Height](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/height) { get; set; } | Gets or sets Height |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [Name](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/name) { get; set; } | Gets font name |
+| [Pitch](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/pitch) { get; } | Gets pitch |
+| [Rotation](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/rotation) { get; set; } | Gets or sets rotation |
+| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/style) { get; } | Gets style |
+| [WidthScale](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/widthscale) { get; } | Gets width scale |
 
 ### See Also
 

@@ -24,10 +24,10 @@ public class DgnExtendedViewInfo
 
 | Name | Description |
 | --- | --- |
-| [ClassMask](classmask) { get; } | Gets class masks |
-| [DgnExtFlags](dgnextflags) { get; } | Gets extended flags |
-| [Perspective](perspective) { get; } | Gets perspective disappearing point |
-| [Unused](unused) { get; } | Gets unused area reserved for future use |
+| [ClassMask](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/classmask) { get; } | Gets class masks |
+| [DgnExtFlags](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/dgnextflags) { get; } | Gets extended flags |
+| [Perspective](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/perspective) { get; } | Gets perspective disappearing point |
+| [Unused](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/unused) { get; } | Gets unused area reserved for future use |
 
 ### See Also
 

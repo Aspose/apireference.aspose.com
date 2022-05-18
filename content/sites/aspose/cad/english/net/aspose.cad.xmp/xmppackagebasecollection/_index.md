@@ -22,18 +22,18 @@ public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } |  |
+| [Count](../../aspose.cad.xmp/xmppackagebasecollection/count) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(XmpPackage) |  |
-| [Clear](clear)() |  |
-| [GetEnumerator](getenumerator)() |  |
-| [GetPackage](getpackage)(string) |  |
-| [GetPackages](getpackages)() |  |
-| [Remove](remove)(XmpPackage) |  |
+| [Add](../../aspose.cad.xmp/xmppackagebasecollection/add)(XmpPackage) |  |
+| [Clear](../../aspose.cad.xmp/xmppackagebasecollection/clear)() |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackagebasecollection/getenumerator)() |  |
+| [GetPackage](../../aspose.cad.xmp/xmppackagebasecollection/getpackage)(string) |  |
+| [GetPackages](../../aspose.cad.xmp/xmppackagebasecollection/getpackages)() |  |
+| [Remove](../../aspose.cad.xmp/xmppackagebasecollection/remove)(XmpPackage) |  |
 
 ### See Also
 

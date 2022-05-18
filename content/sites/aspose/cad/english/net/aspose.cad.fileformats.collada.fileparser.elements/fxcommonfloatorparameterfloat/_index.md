@@ -24,8 +24,8 @@ public class FxCommonFloatOrParameterFloat : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Sid](sid) { get; set; } | Gets or sets the sid. The sid attribute is optional. |
-| [Value](value) { get; set; } | Gets or sets the value as text. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterfloat/sid) { get; set; } | Gets or sets the sid. The sid attribute is optional. |
+| [Value](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterfloat/value) { get; set; } | Gets or sets the value as text. |
 
 ### See Also
 

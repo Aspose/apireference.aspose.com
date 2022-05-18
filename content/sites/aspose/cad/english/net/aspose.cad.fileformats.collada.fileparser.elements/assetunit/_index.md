@@ -24,8 +24,8 @@ public class AssetUnit : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Meter](meter) { get; set; } | Gets or sets the meter. The meter attribute specifies the measurement with respect to the meter. The default value for the meter attribute is "1.0". |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute specifies the name of the unit. The default value for the name attribute is "meter". |
+| [Meter](../../aspose.cad.fileformats.collada.fileparser.elements/assetunit/meter) { get; set; } | Gets or sets the meter. The meter attribute specifies the measurement with respect to the meter. The default value for the meter attribute is "1.0". |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/assetunit/name) { get; set; } | Gets or sets the name. The name attribute specifies the name of the unit. The default value for the name attribute is "meter". |
 
 ### See Also
 

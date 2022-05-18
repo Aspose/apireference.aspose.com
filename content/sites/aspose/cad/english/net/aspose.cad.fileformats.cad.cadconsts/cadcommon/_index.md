@@ -16,7 +16,7 @@ public static class CadCommon
 
 | Name | Description |
 | --- | --- |
-| static [GetTypeName](gettypename)(object, string) |  |
+| static [GetTypeName](../../aspose.cad.fileformats.cad.cadconsts/cadcommon/gettypename)(object, string) |  |
 
 ## Other Members
 

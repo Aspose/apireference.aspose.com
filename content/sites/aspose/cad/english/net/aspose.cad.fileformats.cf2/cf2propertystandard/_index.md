@@ -24,7 +24,8 @@ public class CF2PropertyStandard : CF2Property
 
 | Name | Description |
 | --- | --- |
-| [IndexName](indexname) { get; set; } | The index of property name (from Standard Message File) |
+| [Containt](../../aspose.cad.fileformats.cf2/cf2property/containt) { get; set; } | The containt |
+| [IndexName](../../aspose.cad.fileformats.cf2/cf2propertystandard/indexname) { get; set; } | The index of property name (from Standard Message File) |
 
 ### See Also
 

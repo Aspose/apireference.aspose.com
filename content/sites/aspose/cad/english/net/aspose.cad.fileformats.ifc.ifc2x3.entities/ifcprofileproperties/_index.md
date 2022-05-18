@@ -18,8 +18,16 @@ public abstract class IfcProfileProperties : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ProfileDefinition](profiledefinition) { get; set; } | ProfileDefinition |
-| [ProfileName](profilename) { get; set; } | ProfileName |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ProfileDefinition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofileproperties/profiledefinition) { get; set; } | ProfileDefinition |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofileproperties/profilename) { get; set; } | ProfileName |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

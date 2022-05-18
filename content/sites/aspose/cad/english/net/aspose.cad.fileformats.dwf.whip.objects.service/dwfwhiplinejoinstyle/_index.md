@@ -24,7 +24,8 @@ public class DwfWhipLineJoinStyle : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [Style](style) { get; } | Gets line join style |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinejoinstyle/style) { get; } | Gets line join style |
 
 ### See Also
 

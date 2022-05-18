@@ -24,9 +24,18 @@ public class IfcStructuralLoadPlanarForce : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [PlanarForceX](planarforcex) { get; set; } | PlanarForceX |
-| [PlanarForceY](planarforcey) { get; set; } | PlanarForceY |
-| [PlanarForceZ](planarforcez) { get; set; } | PlanarForceZ |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name) { get; set; } | Name |
+| [PlanarForceX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadplanarforce/planarforcex) { get; set; } | PlanarForceX |
+| [PlanarForceY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadplanarforce/planarforcey) { get; set; } | PlanarForceY |
+| [PlanarForceZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadplanarforce/planarforcez) { get; set; } | PlanarForceZ |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

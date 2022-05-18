@@ -24,8 +24,8 @@ public class Sphere : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Radius](radius) { get; set; } | Gets or sets the radius. Contains a floating-point value that specifies the radius of the sphere. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/sphere/extra) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/sphere/radius) { get; set; } | Gets or sets the radius. Contains a floating-point value that specifies the radius of the sphere. |
 
 ### See Also
 

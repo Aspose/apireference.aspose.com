@@ -24,11 +24,11 @@ public class ProfileCommonTechnique : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. The technique element may contain an asset element. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Id](id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
-| [Item](item) { get; set; } | Gets or sets the item. |
-| [Sid](sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element. Optional attribute. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommontechnique/asset) { get; set; } | Gets or sets the asset. The technique element may contain an asset element. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommontechnique/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommontechnique/id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
+| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommontechnique/item) { get; set; } | Gets or sets the item. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommontechnique/sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element. Optional attribute. |
 
 ### See Also
 

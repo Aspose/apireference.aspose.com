@@ -24,7 +24,22 @@ public class IfcStructuralLoadSingleForceWarping : IfcStructuralLoadSingleForce
 
 | Name | Description |
 | --- | --- |
-| [WarpingMoment](warpingmoment) { get; set; } | WarpingMoment |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ForceX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/forcex) { get; set; } | ForceX |
+| [ForceY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/forcey) { get; set; } | ForceY |
+| [ForceZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/forcez) { get; set; } | ForceZ |
+| [MomentX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/momentx) { get; set; } | MomentX |
+| [MomentY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/momenty) { get; set; } | MomentY |
+| [MomentZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/momentz) { get; set; } | MomentZ |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload/name) { get; set; } | Name |
+| [WarpingMoment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforcewarping/warpingmoment) { get; set; } | WarpingMoment |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

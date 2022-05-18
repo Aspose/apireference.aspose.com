@@ -24,8 +24,17 @@ public class IfcTextureMap : IfcTextureCoordinate
 
 | Name | Description |
 | --- | --- |
-| [MappedTo](mappedto) { get; set; } | MappedTo |
-| [Vertices](vertices) { get; set; } | Vertices |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [MappedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturemap/mappedto) { get; set; } | MappedTo |
+| [Maps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinate/maps) { get; set; } | Maps |
+| [Vertices](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturemap/vertices) { get; set; } | Vertices |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

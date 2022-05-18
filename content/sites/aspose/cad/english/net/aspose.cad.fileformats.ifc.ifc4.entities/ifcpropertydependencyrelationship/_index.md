@@ -24,9 +24,19 @@ public class IfcPropertyDependencyRelationship : IfcResourceLevelRelationship
 
 | Name | Description |
 | --- | --- |
-| [DependantProperty](dependantproperty) { get; set; } | DependantProperty |
-| [DependingProperty](dependingproperty) { get; set; } | DependingProperty |
-| [Expression](expression) { get; set; } | Expression |
+| [DependantProperty](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydependencyrelationship/dependantproperty) { get; set; } | DependantProperty |
+| [DependingProperty](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydependencyrelationship/dependingproperty) { get; set; } | DependingProperty |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Expression](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydependencyrelationship/expression) { get; set; } | Expression |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

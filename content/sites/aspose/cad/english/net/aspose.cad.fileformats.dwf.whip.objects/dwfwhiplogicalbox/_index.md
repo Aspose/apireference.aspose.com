@@ -25,8 +25,8 @@ public class DwfWhipLogicalBox
 
 | Name | Description |
 | --- | --- |
-| [Max](max) { get; } | Gets maximal point of box |
-| [Min](min) { get; } | Gets minimal point of box |
+| [Max](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalbox/max) { get; } | Gets maximal point of box |
+| [Min](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalbox/min) { get; } | Gets minimal point of box |
 
 ### See Also
 

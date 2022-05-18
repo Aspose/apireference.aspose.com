@@ -22,20 +22,20 @@ public class CadFieldData
 
 | Name | Description |
 | --- | --- |
-| [Attribute001](attribute001) { get; set; } |  |
-| [Attribute300](attribute300) { get; set; } |  |
-| [Attribute302](attribute302) { get; set; } |  |
-| [Attribute304](attribute304) { get; set; } |  |
-| [Attribute93](attribute93) { get; set; } |  |
-| [Attribute94](attribute94) { get; set; } |  |
-| [BinaryData](binarydata) { get; set; } |  |
-| [BinaryDataBufferSize](binarydatabuffersize) { get; set; } |  |
-| [DoubleValue](doublevalue) { get; set; } |  |
-| [EvaluatedCacheKeyString](evaluatedcachekeystring) { get; set; } |  |
-| [FieldDataKeyString](fielddatakeystring) { get; set; } |  |
-| [FieldValueDataType](fieldvaluedatatype) { get; set; } |  |
-| [LongValue](longvalue) { get; set; } |  |
-| [ValueId](valueid) { get; set; } |  |
+| [Attribute001](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute001) { get; set; } |  |
+| [Attribute300](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute300) { get; set; } |  |
+| [Attribute302](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute302) { get; set; } |  |
+| [Attribute304](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute304) { get; set; } |  |
+| [Attribute93](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute93) { get; set; } |  |
+| [Attribute94](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute94) { get; set; } |  |
+| [BinaryData](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/binarydata) { get; set; } |  |
+| [BinaryDataBufferSize](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/binarydatabuffersize) { get; set; } |  |
+| [DoubleValue](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/doublevalue) { get; set; } |  |
+| [EvaluatedCacheKeyString](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/evaluatedcachekeystring) { get; set; } |  |
+| [FieldDataKeyString](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/fielddatakeystring) { get; set; } |  |
+| [FieldValueDataType](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/fieldvaluedatatype) { get; set; } |  |
+| [LongValue](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/longvalue) { get; set; } |  |
+| [ValueId](../../aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/valueid) { get; set; } |  |
 
 ### See Also
 

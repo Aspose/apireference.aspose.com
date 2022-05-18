@@ -22,7 +22,7 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [SetMeteredKey](setmeteredkey)(string, string) |  |
+| [SetMeteredKey](../../aspose.cad/metered/setmeteredkey)(string, string) |  |
 
 ### See Also
 

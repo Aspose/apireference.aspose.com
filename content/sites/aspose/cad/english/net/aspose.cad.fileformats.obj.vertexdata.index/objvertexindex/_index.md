@@ -18,7 +18,7 @@ public class ObjVertexIndex
 
 | Name | Description |
 | --- | --- |
-| [VertexIndex](vertexindex) { get; set; } | Gets or sets the vertex index. |
+| [VertexIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertexindex/vertexindex) { get; set; } | Gets or sets the vertex index. |
 
 ### See Also
 

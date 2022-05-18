@@ -24,19 +24,19 @@ public class ObjVertex : IEquatable<ObjVertex>
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; } | Gets the x coordinate. |
-| [Y](y) { get; } | Gets the y coordinate. |
-| [Z](z) { get; } | Gets the z coordinate. |
+| [X](../../aspose.cad.fileformats.obj.vertexdata/objvertex/x) { get; } | Gets the x coordinate. |
+| [Y](../../aspose.cad.fileformats.obj.vertexdata/objvertex/y) { get; } | Gets the y coordinate. |
+| [Z](../../aspose.cad.fileformats.obj.vertexdata/objvertex/z) { get; } | Gets the z coordinate. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Indicates whether the current object is equal to another object. |
-| [Equals](equals)(ObjVertex) | Indicates whether the current object is equal to another object of the same type. |
-| override [GetHashCode](gethashcode)() | Gets hash code. |
-| [operator ==](op_equality) | Overloading the equality operator. |
-| [operator !=](op_inequality) | Overloading the inequality operator. |
+| override [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertex/equals)(object) | Indicates whether the current object is equal to another object. |
+| [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertex/equals)(ObjVertex) | Indicates whether the current object is equal to another object of the same type. |
+| override [GetHashCode](../../aspose.cad.fileformats.obj.vertexdata/objvertex/gethashcode)() | Gets hash code. |
+| [operator ==](../../aspose.cad.fileformats.obj.vertexdata/objvertex/op_equality) | Overloading the equality operator. |
+| [operator !=](../../aspose.cad.fileformats.obj.vertexdata/objvertex/op_inequality) | Overloading the inequality operator. |
 
 ### See Also
 

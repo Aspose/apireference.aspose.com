@@ -22,22 +22,22 @@ public class CadCodeValue
 
 | Name | Description |
 | --- | --- |
-| [Attribute](attribute) { get; } |  |
-| [Code](code) { get; set; } |  |
-| [Value](value) { get; set; } |  |
+| [Attribute](../../aspose.cad.fileformats.cad/cadcodevalue/attribute) { get; } |  |
+| [Code](../../aspose.cad.fileformats.cad/cadcodevalue/code) { get; set; } |  |
+| [Value](../../aspose.cad.fileformats.cad/cadcodevalue/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](equals)(CadCodeValue) |  |
-| virtual [GetBinaryData](getbinarydata)() |  |
-| virtual [GetBoolValue](getboolvalue)() |  |
-| virtual [GetDoubleValue](getdoublevalue)() |  |
-| virtual [GetIntValue](getintvalue)() |  |
-| virtual [GetLongValue](getlongvalue)() |  |
-| virtual [GetShortValue](getshortvalue)() |  |
-| virtual [GetStringValue](getstringvalue)() |  |
+| virtual [Equals](../../aspose.cad.fileformats.cad/cadcodevalue/equals)(CadCodeValue) |  |
+| virtual [GetBinaryData](../../aspose.cad.fileformats.cad/cadcodevalue/getbinarydata)() |  |
+| virtual [GetBoolValue](../../aspose.cad.fileformats.cad/cadcodevalue/getboolvalue)() |  |
+| virtual [GetDoubleValue](../../aspose.cad.fileformats.cad/cadcodevalue/getdoublevalue)() |  |
+| virtual [GetIntValue](../../aspose.cad.fileformats.cad/cadcodevalue/getintvalue)() |  |
+| virtual [GetLongValue](../../aspose.cad.fileformats.cad/cadcodevalue/getlongvalue)() |  |
+| virtual [GetShortValue](../../aspose.cad.fileformats.cad/cadcodevalue/getshortvalue)() |  |
+| virtual [GetStringValue](../../aspose.cad.fileformats.cad/cadcodevalue/getstringvalue)() |  |
 
 ### See Also
 

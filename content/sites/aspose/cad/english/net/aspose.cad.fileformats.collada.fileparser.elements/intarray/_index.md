@@ -24,12 +24,12 @@ public class IntArray : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; set; } | Gets or sets the count. The count attribute indicates the number of values in the array. Required attribute. |
-| [Id](id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
-| [MaxInclusive](maxinclusive) { get; set; } | Gets or sets the max inclusive. The maxInclusive attribute indicates the largest integer value that can be contained in the array. The default value is 2147483647. Optional attribute. |
-| [MinInclusive](mininclusive) { get; set; } | Gets or sets the min inclusive. The minInclusive attribute indicates the smallest integer value that can be contained in the array. The default value is -2147483648. Optional attribute. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
-| [Text](text) { get; set; } | Gets or sets the value as text. |
+| [Count](../../aspose.cad.fileformats.collada.fileparser.elements/intarray/count) { get; set; } | Gets or sets the count. The count attribute indicates the number of values in the array. Required attribute. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/intarray/id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
+| [MaxInclusive](../../aspose.cad.fileformats.collada.fileparser.elements/intarray/maxinclusive) { get; set; } | Gets or sets the max inclusive. The maxInclusive attribute indicates the largest integer value that can be contained in the array. The default value is 2147483647. Optional attribute. |
+| [MinInclusive](../../aspose.cad.fileformats.collada.fileparser.elements/intarray/mininclusive) { get; set; } | Gets or sets the min inclusive. The minInclusive attribute indicates the smallest integer value that can be contained in the array. The default value is -2147483648. Optional attribute. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/intarray/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/intarray/text) { get; set; } | Gets or sets the value as text. |
 
 ### See Also
 

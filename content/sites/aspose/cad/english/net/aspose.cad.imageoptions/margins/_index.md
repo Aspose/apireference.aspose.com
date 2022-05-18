@@ -24,10 +24,10 @@ public class Margins
 
 | Name | Description |
 | --- | --- |
-| [Bottom](bottom) { get; set; } | Gets or sets bottom margin. |
-| [Left](left) { get; set; } | Gets or sets left margin. |
-| [Right](right) { get; set; } | Gets or sets right margin. |
-| [Top](top) { get; set; } | Gets or sets top margin. |
+| [Bottom](../../aspose.cad.imageoptions/margins/bottom) { get; set; } | Gets or sets bottom margin. |
+| [Left](../../aspose.cad.imageoptions/margins/left) { get; set; } | Gets or sets left margin. |
+| [Right](../../aspose.cad.imageoptions/margins/right) { get; set; } | Gets or sets right margin. |
+| [Top](../../aspose.cad.imageoptions/margins/top) { get; set; } | Gets or sets top margin. |
 
 ### See Also
 

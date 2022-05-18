@@ -24,8 +24,8 @@ public class SurfaceCurves : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Curve](curve) { get; set; } | Gets or sets the curve. Describes a single 2D curve. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
+| [Curve](../../aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/curve) { get; set; } | Gets or sets the curve. Describes a single 2D curve. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/extra) { get; set; } | Gets or sets the extra. |
 
 ### See Also
 

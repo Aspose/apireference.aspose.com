@@ -24,9 +24,18 @@ public class IfcGeneralMaterialProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [MassDensity](massdensity) { get; set; } | MassDensity |
-| [MolecularWeight](molecularweight) { get; set; } | MolecularWeight |
-| [Porosity](porosity) { get; set; } | Porosity |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [MassDensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/massdensity) { get; set; } | MassDensity |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material) { get; set; } | Material |
+| [MolecularWeight](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/molecularweight) { get; set; } | MolecularWeight |
+| [Porosity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/porosity) { get; set; } | Porosity |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

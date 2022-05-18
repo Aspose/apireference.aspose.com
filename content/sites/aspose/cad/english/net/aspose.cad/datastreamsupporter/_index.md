@@ -16,18 +16,20 @@ public abstract class DataStreamSupporter : DisposableObject
 
 | Name | Description |
 | --- | --- |
-| [DataStreamContainer](datastreamcontainer) { get; } |  |
-| abstract [IsCached](iscached) { get; } |  |
+| [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer) { get; } |  |
+| [Disposed](../../aspose.cad/disposableobject/disposed) { get; } |  |
+| abstract [IsCached](../../aspose.cad/datastreamsupporter/iscached) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [CacheData](cachedata)() |  |
-| virtual [Save](save)() |  |
-| [Save](save)(Stream) |  |
-| virtual [Save](save)(string) |  |
-| virtual [Save](save)(string, bool) |  |
+| abstract [CacheData](../../aspose.cad/datastreamsupporter/cachedata)() |  |
+| [Dispose](../../aspose.cad/disposableobject/dispose)() |  |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)() |  |
+| [Save](../../aspose.cad/datastreamsupporter/save)(Stream) |  |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)(string) |  |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)(string, bool) |  |
 
 ### See Also
 

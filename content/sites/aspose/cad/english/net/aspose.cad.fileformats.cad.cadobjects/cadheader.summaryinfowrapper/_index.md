@@ -16,19 +16,19 @@ public class SummaryInfoWrapper : ISummaryInfo
 
 | Name | Description |
 | --- | --- |
-| [Author](author) { get; set; } |  |
-| [Comments](comments) { get; set; } |  |
-| [CreateDateTime](createdatetime) { get; set; } |  |
-| [CreateDateTimeUtc](createdatetimeutc) { get; set; } |  |
-| [EditingTime](editingtime) { get; set; } |  |
-| [HyperlinkBase](hyperlinkbase) { get; set; } |  |
-| [Keywords](keywords) { get; set; } |  |
-| [LastSavedBy](lastsavedby) { get; set; } |  |
-| [ModifiedDateTime](modifieddatetime) { get; set; } |  |
-| [ModifiedDateTimeUtc](modifieddatetimeutc) { get; set; } |  |
-| [RevisionNumber](revisionnumber) { get; set; } |  |
-| [Subject](subject) { get; set; } |  |
-| [Title](title) { get; set; } |  |
+| [Author](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/author) { get; set; } |  |
+| [Comments](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/comments) { get; set; } |  |
+| [CreateDateTime](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/createdatetime) { get; set; } |  |
+| [CreateDateTimeUtc](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/createdatetimeutc) { get; set; } |  |
+| [EditingTime](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/editingtime) { get; set; } |  |
+| [HyperlinkBase](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/hyperlinkbase) { get; set; } |  |
+| [Keywords](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/keywords) { get; set; } |  |
+| [LastSavedBy](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/lastsavedby) { get; set; } |  |
+| [ModifiedDateTime](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/modifieddatetime) { get; set; } |  |
+| [ModifiedDateTimeUtc](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/modifieddatetimeutc) { get; set; } |  |
+| [RevisionNumber](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/revisionnumber) { get; set; } |  |
+| [Subject](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/subject) { get; set; } |  |
+| [Title](../../aspose.cad.fileformats.cad.cadobjects/summaryinfowrapper/title) { get; set; } |  |
 
 ### See Also
 

@@ -24,12 +24,12 @@ public class Render : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [CameraNode](cameranode) { get; set; } | Gets or sets the camera node. Refers to a node that contains a camera describing the viewpoint from which to render this composition step. Optional. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [InstanceMaterial](instancematerial) { get; set; } | Gets or sets the instance material. Specifies which effect to render in this composition step while evaluating the scene. |
-| [Layer](layer) { get; set; } | Gets or sets the layer. Specifies which layer or layers to render in this composition step while evaluating the scene. |
-| [Name](name) { get; set; } | Gets or sets the name. The text string name of this element. Optional. |
-| [Sid](sid) { get; set; } | Gets or sets the sid. A text string value containing the scoped identifier of this element. This value must be unique within the scope of the parent element. Optional. |
+| [CameraNode](../../aspose.cad.fileformats.collada.fileparser.elements/render/cameranode) { get; set; } | Gets or sets the camera node. Refers to a node that contains a camera describing the viewpoint from which to render this composition step. Optional. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/render/extra) { get; set; } | Gets or sets the extra. |
+| [InstanceMaterial](../../aspose.cad.fileformats.collada.fileparser.elements/render/instancematerial) { get; set; } | Gets or sets the instance material. Specifies which effect to render in this composition step while evaluating the scene. |
+| [Layer](../../aspose.cad.fileformats.collada.fileparser.elements/render/layer) { get; set; } | Gets or sets the layer. Specifies which layer or layers to render in this composition step while evaluating the scene. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/render/name) { get; set; } | Gets or sets the name. The text string name of this element. Optional. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/render/sid) { get; set; } | Gets or sets the sid. A text string value containing the scoped identifier of this element. This value must be unique within the scope of the parent element. Optional. |
 
 ### See Also
 

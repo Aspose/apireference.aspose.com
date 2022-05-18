@@ -24,9 +24,20 @@ public class IfcMaterialConstituentSet : IfcMaterialDefinition
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [MaterialConstituents](materialconstituents) { get; set; } | MaterialConstituents |
-| [Name](name) { get; set; } | Name |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/associatedto) { get; } | AssociatedTo |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituentset/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences) { get; } | HasExternalReferences |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasproperties) { get; } | HasProperties |
+| [MaterialConstituents](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituentset/materialconstituents) { get; set; } | MaterialConstituents |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituentset/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -26,7 +26,18 @@ public class IfcAxis2Placement2D : IfcPlacement
 
 | Name | Description |
 | --- | --- |
-| [RefDirection](refdirection) { get; set; } | RefDirection |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [Location](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcplacement/location) { get; set; } | Location |
+| [RefDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis2placement2d/refdirection) { get; set; } | RefDirection |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

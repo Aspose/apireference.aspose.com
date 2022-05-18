@@ -24,8 +24,25 @@ public class IfcPropertyEnumeratedValue : IfcSimpleProperty
 
 | Name | Description |
 | --- | --- |
-| [EnumerationReference](enumerationreference) { get; set; } | EnumerationReference |
-| [EnumerationValues](enumerationvalues) { get; set; } | EnumerationValues |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [EnumerationReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeratedvalue/enumerationreference) { get; set; } | EnumerationReference |
+| [EnumerationValues](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeratedvalue/enumerationvalues) { get; set; } | EnumerationValues |
+| [HasApprovals](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/hasapprovals) { get; } | HasApprovals |
+| [HasConstraints](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/hasconstraints) { get; } | HasConstraints |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences) { get; } | HasExternalReferences |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/name) { get; set; } | Name |
+| [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/partofcomplex) { get; } | PartOfComplex |
+| [PartOfPset](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/partofpset) { get; } | PartOfPset |
+| [PropertyDependsOn](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/propertydependson) { get; } | PropertyDependsOn |
+| [PropertyForDependance](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/propertyfordependance) { get; } | PropertyForDependance |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

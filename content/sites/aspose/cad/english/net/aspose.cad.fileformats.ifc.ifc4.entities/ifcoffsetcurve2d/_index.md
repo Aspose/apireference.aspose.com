@@ -24,9 +24,19 @@ public class IfcOffsetCurve2D : IfcCurve
 
 | Name | Description |
 | --- | --- |
-| [BasisCurve](basiscurve) { get; set; } | BasisCurve |
-| [Distance](distance) { get; set; } | Distance |
-| [SelfIntersect](selfintersect) { get; set; } | SelfIntersect |
+| [BasisCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve2d/basiscurve) { get; set; } | BasisCurve |
+| [Distance](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve2d/distance) { get; set; } | Distance |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve2d/selfintersect) { get; set; } | SelfIntersect |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

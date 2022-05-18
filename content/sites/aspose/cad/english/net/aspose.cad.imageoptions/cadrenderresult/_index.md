@@ -24,8 +24,8 @@ public class CadRenderResult
 
 | Name | Description |
 | --- | --- |
-| [Failures](failures) { get; } | List of rendering errors |
-| [IsRenderComplete](isrendercomplete) { get; } | Gets a value indicating whether rendering is successful |
+| [Failures](../../aspose.cad.imageoptions/cadrenderresult/failures) { get; } | List of rendering errors |
+| [IsRenderComplete](../../aspose.cad.imageoptions/cadrenderresult/isrendercomplete) { get; } | Gets a value indicating whether rendering is successful |
 
 ### See Also
 

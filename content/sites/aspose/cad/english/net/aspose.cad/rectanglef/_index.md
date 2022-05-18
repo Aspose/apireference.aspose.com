@@ -23,46 +23,46 @@ public struct RectangleF
 
 | Name | Description |
 | --- | --- |
-| static [Empty](empty) { get; } |  |
-| [Bottom](bottom) { get; set; } |  |
-| [Height](height) { get; set; } |  |
-| [IsEmpty](isempty) { get; } |  |
-| [Left](left) { get; set; } |  |
-| [Location](location) { get; set; } |  |
-| [Right](right) { get; set; } |  |
-| [Size](size) { get; set; } |  |
-| [Top](top) { get; set; } |  |
-| [Width](width) { get; set; } |  |
-| [X](x) { get; set; } |  |
-| [Y](y) { get; set; } |  |
+| static [Empty](../../aspose.cad/rectanglef/empty) { get; } |  |
+| [Bottom](../../aspose.cad/rectanglef/bottom) { get; set; } |  |
+| [Height](../../aspose.cad/rectanglef/height) { get; set; } |  |
+| [IsEmpty](../../aspose.cad/rectanglef/isempty) { get; } |  |
+| [Left](../../aspose.cad/rectanglef/left) { get; set; } |  |
+| [Location](../../aspose.cad/rectanglef/location) { get; set; } |  |
+| [Right](../../aspose.cad/rectanglef/right) { get; set; } |  |
+| [Size](../../aspose.cad/rectanglef/size) { get; set; } |  |
+| [Top](../../aspose.cad/rectanglef/top) { get; set; } |  |
+| [Width](../../aspose.cad/rectanglef/width) { get; set; } |  |
+| [X](../../aspose.cad/rectanglef/x) { get; set; } |  |
+| [Y](../../aspose.cad/rectanglef/y) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromLeftTopRightBottom](fromlefttoprightbottom)(float, float, float, float) |  |
-| static [FromPoints](frompoints)(PointF, PointF) |  |
-| static [Inflate](inflate)(RectangleF, float, float) |  |
-| static [Intersect](intersect)(RectangleF, RectangleF) |  |
-| static [Union](union)(RectangleF, RectangleF) |  |
-| [Contains](contains)(PointF) |  |
-| [Contains](contains)(RectangleF) |  |
-| [Contains](contains)(float, float) |  |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [Inflate](inflate)(SizeF) |  |
-| [Inflate](inflate)(float, float) |  |
-| [Intersect](intersect)(RectangleF) |  |
-| [IntersectsWith](intersectswith)(RectangleF) |  |
-| [Normalize](normalize)() |  |
-| [Offset](offset)(PointF) |  |
-| [Offset](offset)(float, float) |  |
-| override [ToString](tostring)() |  |
-| [operator /](op_division) |  |
-| [operator ==](op_equality) |  |
-| [implicit operator](op_implicit) |  |
-| [operator !=](op_inequality) |  |
-| [operator *](op_multiply) |  |
+| static [FromLeftTopRightBottom](../../aspose.cad/rectanglef/fromlefttoprightbottom)(float, float, float, float) |  |
+| static [FromPoints](../../aspose.cad/rectanglef/frompoints)(PointF, PointF) |  |
+| static [Inflate](../../aspose.cad/rectanglef/inflate)(RectangleF, float, float) |  |
+| static [Intersect](../../aspose.cad/rectanglef/intersect)(RectangleF, RectangleF) |  |
+| static [Union](../../aspose.cad/rectanglef/union)(RectangleF, RectangleF) |  |
+| [Contains](../../aspose.cad/rectanglef/contains)(PointF) |  |
+| [Contains](../../aspose.cad/rectanglef/contains)(RectangleF) |  |
+| [Contains](../../aspose.cad/rectanglef/contains)(float, float) |  |
+| override [Equals](../../aspose.cad/rectanglef/equals)(object) |  |
+| override [GetHashCode](../../aspose.cad/rectanglef/gethashcode)() |  |
+| [Inflate](../../aspose.cad/rectanglef/inflate)(SizeF) |  |
+| [Inflate](../../aspose.cad/rectanglef/inflate)(float, float) |  |
+| [Intersect](../../aspose.cad/rectanglef/intersect)(RectangleF) |  |
+| [IntersectsWith](../../aspose.cad/rectanglef/intersectswith)(RectangleF) |  |
+| [Normalize](../../aspose.cad/rectanglef/normalize)() |  |
+| [Offset](../../aspose.cad/rectanglef/offset)(PointF) |  |
+| [Offset](../../aspose.cad/rectanglef/offset)(float, float) |  |
+| override [ToString](../../aspose.cad/rectanglef/tostring)() |  |
+| [operator /](../../aspose.cad/rectanglef/op_division) |  |
+| [operator ==](../../aspose.cad/rectanglef/op_equality) |  |
+| [implicit operator](../../aspose.cad/rectanglef/op_implicit) |  |
+| [operator !=](../../aspose.cad/rectanglef/op_inequality) |  |
+| [operator *](../../aspose.cad/rectanglef/op_multiply) |  |
 
 ### See Also
 

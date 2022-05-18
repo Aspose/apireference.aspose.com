@@ -18,28 +18,44 @@ public sealed class CF2Image : Image
 
 | Name | Description |
 | --- | --- |
-| [AuxSecton](auxsecton) { get; } | Gets the aux secton. |
-| override [Height](height) { get; } | Gets the image height. |
-| override [IsCached](iscached) { get; } | Gets is image cached |
-| [LinesOutputDescribing](linesoutputdescribing) { get; set; } | Description of the line types output |
-| [LineTypeColors](linetypecolors) { get; } | Colors of the line types. |
-| [MainSecton](mainsecton) { get; } | Gets the main secton. |
-| [MaxPoint](maxpoint) { get; } | Gets the max point. |
-| [MinPoint](minpoint) { get; } | Gets the min point. |
-| [OrderOutputDescribing](orderoutputdescribing) { get; set; } | Description of the order section output |
-| [OrderSecton](ordersecton) { get; } | Gets the order secton. |
-| [SubSectons](subsectons) { get; } | Gets the sub sectons. |
-| override [Width](width) { get; } | Gets the image width. |
+| [AuxSecton](../../aspose.cad.fileformats.cf2/cf2image/auxsecton) { get; } | Gets the aux secton. |
+| [Bounds](../../aspose.cad/image/bounds) { get; } | Gets the image bounds. |
+| [Container](../../aspose.cad/image/container) { get; } | Gets the [`Image`](../../aspose.cad/image) container. |
+| [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer) { get; } |  |
+| [Disposed](../../aspose.cad/disposableobject/disposed) { get; } |  |
+| override [Height](../../aspose.cad.fileformats.cf2/cf2image/height) { get; } | Gets the image height. |
+| override [IsCached](../../aspose.cad.fileformats.cf2/cf2image/iscached) { get; } | Gets is image cached |
+| [LinesOutputDescribing](../../aspose.cad.fileformats.cf2/cf2image/linesoutputdescribing) { get; set; } | Description of the line types output |
+| [LineTypeColors](../../aspose.cad.fileformats.cf2/cf2image/linetypecolors) { get; } | Colors of the line types. |
+| [MainSecton](../../aspose.cad.fileformats.cf2/cf2image/mainsecton) { get; } | Gets the main secton. |
+| [MaxPoint](../../aspose.cad.fileformats.cf2/cf2image/maxpoint) { get; } | Gets the max point. |
+| [MinPoint](../../aspose.cad.fileformats.cf2/cf2image/minpoint) { get; } | Gets the min point. |
+| [OrderOutputDescribing](../../aspose.cad.fileformats.cf2/cf2image/orderoutputdescribing) { get; set; } | Description of the order section output |
+| [OrderSecton](../../aspose.cad.fileformats.cf2/cf2image/ordersecton) { get; } | Gets the order secton. |
+| [Palette](../../aspose.cad/image/palette) { get; set; } | Gets or sets the color palette. |
+| [Size](../../aspose.cad/image/size) { get; } | Gets the image size. |
+| [SubSectons](../../aspose.cad.fileformats.cf2/cf2image/subsectons) { get; } | Gets the sub sectons. |
+| virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype) { get; } | Assumed unit type when UnitType is set to Unitless |
+| [UnitType](../../aspose.cad/image/unittype) { get; } | Gets current unit type. |
+| override [Width](../../aspose.cad.fileformats.cf2/cf2image/width) { get; } | Gets the image width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [CacheData](cachedata)() | Caches data |
-| override [GetStrings](getstrings)() | Gets all string values from image. |
-| [LoadMessageFile](loadmessagefile)(Stream) | Loads a message file from the specified stream. |
-| [LoadMessageFile](loadmessagefile)(string) | Loads a message file from the specified path. |
-| [UpdateSize](updatesize)() | Update size |
+| override [CacheData](../../aspose.cad.fileformats.cf2/cf2image/cachedata)() | Caches data |
+| [CanSave](../../aspose.cad/image/cansave)(ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [Dispose](../../aspose.cad/disposableobject/dispose)() |  |
+| override [GetStrings](../../aspose.cad.fileformats.cf2/cf2image/getstrings)() | Gets all string values from image. |
+| [LoadMessageFile](../../aspose.cad.fileformats.cf2/cf2image/loadmessagefile)(Stream) | Loads a message file from the specified stream. |
+| [LoadMessageFile](../../aspose.cad.fileformats.cf2/cf2image/loadmessagefile)(string) | Loads a message file from the specified path. |
+| [Save](../../aspose.cad/image/save)() | Saves the image data to the underlying stream. |
+| [Save](../../aspose.cad/datastreamsupporter/save)(Stream) |  |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)(string) |  |
+| [Save](../../aspose.cad/image/save)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)(string, bool) |  |
+| virtual [Save](../../aspose.cad/image/save)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [UpdateSize](../../aspose.cad.fileformats.cf2/cf2image/updatesize)() | Update size |
 
 ### See Also
 

@@ -23,15 +23,15 @@ public class Cad2DPoint
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } |  |
-| [Y](y) { get; set; } |  |
+| [X](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/x) { get; set; } |  |
+| [Y](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/y) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Distance](distance)(Cad2DPoint) |  |
-| [GetApsPoint](getapspoint)() |  |
+| [Distance](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/distance)(Cad2DPoint) |  |
+| [GetApsPoint](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/getapspoint)() |  |
 
 ### See Also
 

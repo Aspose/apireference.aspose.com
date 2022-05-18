@@ -16,24 +16,24 @@ public class XmpPackage : IEnumerable<KeyValuePair<string, object>>, IXmlValue
 
 | Name | Description |
 | --- | --- |
-| virtual [Item](item) { get; set; } |  |
-| virtual [Keys](keys) { get; } |  |
-| [NamespaceUri](namespaceuri) { get; } |  |
-| [Prefix](prefix) { get; } |  |
-| [XmlNamespace](xmlnamespace) { get; } |  |
+| virtual [Item](../../aspose.cad.xmp/xmppackage/item) { get; set; } |  |
+| virtual [Keys](../../aspose.cad.xmp/xmppackage/keys) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp/xmppackage/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp/xmppackage/prefix) { get; } |  |
+| [XmlNamespace](../../aspose.cad.xmp/xmppackage/xmlnamespace) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [AddValue](addvalue)(string, string) |  |
-| virtual [Clear](clear)() |  |
-| virtual [ContainsKey](containskey)(string) |  |
-| [GetEnumerator](getenumerator)() |  |
-| virtual [GetXmlValue](getxmlvalue)() |  |
-| virtual [Remove](remove)(string) |  |
-| virtual [SetValue](setvalue)(string, IXmlValue) |  |
-| virtual [SetXmpTypeValue](setxmptypevalue)(string, XmpTypeBase) |  |
+| virtual [AddValue](../../aspose.cad.xmp/xmppackage/addvalue)(string, string) |  |
+| virtual [Clear](../../aspose.cad.xmp/xmppackage/clear)() |  |
+| virtual [ContainsKey](../../aspose.cad.xmp/xmppackage/containskey)(string) |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackage/getenumerator)() |  |
+| virtual [GetXmlValue](../../aspose.cad.xmp/xmppackage/getxmlvalue)() |  |
+| virtual [Remove](../../aspose.cad.xmp/xmppackage/remove)(string) |  |
+| virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
+| virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
 ### See Also
 

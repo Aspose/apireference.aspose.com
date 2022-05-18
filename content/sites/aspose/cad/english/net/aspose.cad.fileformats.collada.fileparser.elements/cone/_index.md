@@ -24,9 +24,9 @@ public class Cone : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Angle](angle) { get; set; } | Gets or sets the angle. Contains a floating-point number that specifies the conical surface semi angle ]0,PI/2[. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Radius](radius) { get; set; } | Gets or sets the radius. Contains a floating-point number that specifies the radius of the cone. |
+| [Angle](../../aspose.cad.fileformats.collada.fileparser.elements/cone/angle) { get; set; } | Gets or sets the angle. Contains a floating-point number that specifies the conical surface semi angle ]0,PI/2[. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/cone/extra) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/cone/radius) { get; set; } | Gets or sets the radius. Contains a floating-point number that specifies the radius of the cone. |
 
 ### See Also
 

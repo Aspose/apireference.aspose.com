@@ -18,10 +18,11 @@ public class DgnTagValueElement : DgnElement
 
 | Name | Description |
 | --- | --- |
-| [TagIndex](tagindex) { get; } | Gets tag index |
-| [TagLength](taglength) { get; } | Gets tag length |
-| [TagSet](tagset) { get; } | Gets tag set |
-| [TagValue](tagvalue) { get; set; } | Gets or sets the tag value. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| [TagIndex](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagindex) { get; } | Gets tag index |
+| [TagLength](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/taglength) { get; } | Gets tag length |
+| [TagSet](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagset) { get; } | Gets tag set |
+| [TagValue](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagvalue) { get; set; } | Gets or sets the tag value. |
 
 ### See Also
 

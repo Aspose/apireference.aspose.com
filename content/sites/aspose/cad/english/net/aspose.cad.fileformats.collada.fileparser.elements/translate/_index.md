@@ -20,6 +20,13 @@ public class Translate : TargetableFloat3
 | --- | --- |
 | [Translate](translate)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat3/sid) { get; set; } | Gets or sets the sid. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat3/text) { get; set; } | Gets or sets the value float3 as text. |
+
 ### See Also
 
 * class [TargetableFloat3](../targetablefloat3)

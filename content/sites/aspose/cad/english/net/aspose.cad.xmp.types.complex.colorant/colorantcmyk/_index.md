@@ -23,16 +23,21 @@ public sealed class ColorantCmyk : ColorantBase
 
 | Name | Description |
 | --- | --- |
-| [Black](black) { get; set; } |  |
-| [Cyan](cyan) { get; set; } |  |
-| [Magenta](magenta) { get; set; } |  |
-| [Yellow](yellow) { get; set; } |  |
+| [Black](../../aspose.cad.xmp.types.complex.colorant/colorantcmyk/black) { get; set; } |  |
+| [ColorType](../../aspose.cad.xmp.types.complex.colorant/colorantbase/colortype) { get; set; } |  |
+| [Cyan](../../aspose.cad.xmp.types.complex.colorant/colorantcmyk/cyan) { get; set; } |  |
+| [Magenta](../../aspose.cad.xmp.types.complex.colorant/colorantcmyk/magenta) { get; set; } |  |
+| [Mode](../../aspose.cad.xmp.types.complex.colorant/colorantbase/mode) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+| [SwatchName](../../aspose.cad.xmp.types.complex.colorant/colorantbase/swatchname) { get; set; } |  |
+| [Yellow](../../aspose.cad.xmp.types.complex.colorant/colorantcmyk/yellow) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation)() |  |
 
 ## Other Members
 

@@ -22,17 +22,17 @@ public class SummaryInfoData : ISummaryInfo
 
 | Name | Description |
 | --- | --- |
-| [Author](author) { get; } |  |
-| [Comments](comments) { get; } |  |
-| [CreateDateTime](createdatetime) { get; } |  |
-| [EditingTime](editingtime) { get; } |  |
-| [HyperlinkBase](hyperlinkbase) { get; } |  |
-| [Keywords](keywords) { get; } |  |
-| [LastSavedBy](lastsavedby) { get; } |  |
-| [ModifiedDateTime](modifieddatetime) { get; } |  |
-| [RevisionNumber](revisionnumber) { get; } |  |
-| [Subject](subject) { get; } |  |
-| [Title](title) { get; } |  |
+| [Author](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/author) { get; } |  |
+| [Comments](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/comments) { get; } |  |
+| [CreateDateTime](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/createdatetime) { get; } |  |
+| [EditingTime](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/editingtime) { get; } |  |
+| [HyperlinkBase](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/hyperlinkbase) { get; } |  |
+| [Keywords](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/keywords) { get; } |  |
+| [LastSavedBy](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/lastsavedby) { get; } |  |
+| [ModifiedDateTime](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/modifieddatetime) { get; } |  |
+| [RevisionNumber](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/revisionnumber) { get; } |  |
+| [Subject](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/subject) { get; } |  |
+| [Title](../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/title) { get; } |  |
 
 ### See Also
 

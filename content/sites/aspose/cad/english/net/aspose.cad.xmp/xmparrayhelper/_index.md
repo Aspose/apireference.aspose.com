@@ -16,7 +16,7 @@ public static class XmpArrayHelper
 
 | Name | Description |
 | --- | --- |
-| static [GetRdfCode](getrdfcode)(XmpArrayType) |  |
+| static [GetRdfCode](../../aspose.cad.xmp/xmparrayhelper/getrdfcode)(XmpArrayType) |  |
 
 ### See Also
 

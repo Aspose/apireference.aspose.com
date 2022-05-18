@@ -24,13 +24,13 @@ public sealed class XmpBoolean : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } |  |
+| [Value](../../aspose.cad.xmp.types.basic/xmpboolean/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.basic/xmpboolean/getxmprepresentation)() |  |
 
 ### See Also
 

@@ -24,13 +24,13 @@ public abstract class IfcCollection
 
 | Name | Description |
 | --- | --- |
-| [TypeOfT](typeoft) { get; } | Gets or sets the type of t. |
+| [TypeOfT](../../aspose.cad.fileformats.ifc/ifccollection/typeoft) { get; } | Gets or sets the type of t. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [TryAddItemAsObject](tryadditemasobject)(object) | Tries the add item as object. |
+| abstract [TryAddItemAsObject](../../aspose.cad.fileformats.ifc/ifccollection/tryadditemasobject)(object) | Tries the add item as object. |
 
 ### See Also
 

@@ -18,25 +18,26 @@ public class DgnCellHeaderElement : DgnDrawingElementBase, ICompositeDgnElement
 
 | Name | Description |
 | --- | --- |
-| [Childs](childs) { get; } | Gets childs of the composite element |
-| [ClassBitmap](classbitmap) { get; } | Gets cell's class bit map |
-| [Levels](levels) { get; } | Gets array of levels used in cell |
-| override [MaxPoint](maxpoint) { get; } | Gets the max point of object. |
-| override [MinPoint](minpoint) { get; } | Gets the min point of object. |
-| [Name](name) { get; } | Gets cell name |
-| [Origin](origin) { get; } | Gets cell's origin point |
-| [RangeBlockHi](rangeblockhi) { get; } | Gets cell's range block hi |
-| [RangeBlockLow](rangeblocklow) { get; } | Gets cell's range block low |
-| [Rotation](rotation) { get; } | Gets cell's rotation angle |
-| [TransFormationMatrix](transformationmatrix) { get; } | Gets cell's 2D/3D transformation matrix |
-| [XScale](xscale) { get; } | Gets cell's x scale |
-| [YScale](yscale) { get; } | Gets cell's y scale |
+| [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/childs) { get; } | Gets childs of the composite element |
+| [ClassBitmap](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/classbitmap) { get; } | Gets cell's class bit map |
+| [Levels](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/levels) { get; } | Gets array of levels used in cell |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/minpoint) { get; } | Gets the min point of object. |
+| [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/name) { get; } | Gets cell name |
+| [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/origin) { get; } | Gets cell's origin point |
+| [RangeBlockHi](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/rangeblockhi) { get; } | Gets cell's range block hi |
+| [RangeBlockLow](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/rangeblocklow) { get; } | Gets cell's range block low |
+| [Rotation](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/rotation) { get; } | Gets cell's rotation angle |
+| [TransFormationMatrix](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/transformationmatrix) { get; } | Gets cell's 2D/3D transformation matrix |
+| [XScale](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/xscale) { get; } | Gets cell's x scale |
+| [YScale](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/yscale) { get; } | Gets cell's y scale |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddChild](addchild)(DgnElement) | Adds element as a child |
+| [AddChild](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/addchild)(DgnElement) | Adds element as a child |
 
 ### See Also
 

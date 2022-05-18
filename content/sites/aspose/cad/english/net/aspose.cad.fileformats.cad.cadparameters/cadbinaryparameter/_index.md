@@ -22,13 +22,18 @@ public class CadBinaryParameter : CadParameter<byte[]>
 
 | Name | Description |
 | --- | --- |
-| [Data](data) { get; set; } |  |
+| [Data](../../aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/data) { get; set; } |  |
+| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type) { get; } |  |
+| [Value](../../aspose.cad.fileformats.cad.cadparameters/cadparameter`1/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Init](init)(CadCodeValue) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/init)(CadCodeValue) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter`1/init)(object) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, CadCodeValue) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, object) |  |
 
 ### See Also
 

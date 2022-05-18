@@ -24,7 +24,15 @@ public class IfcClassificationNotation : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [NotationFacets](notationfacets) { get; set; } | NotationFacets |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [NotationFacets](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationnotation/notationfacets) { get; set; } | NotationFacets |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

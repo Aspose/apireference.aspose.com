@@ -24,7 +24,7 @@ public class IfcMonthInYearNumber : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcmonthinyearnumber/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

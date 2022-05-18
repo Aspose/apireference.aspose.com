@@ -24,8 +24,8 @@ public class Plane : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Equation](equation) { get; set; } | Gets or sets the equation. Contains four floating-point values that represent the coefficients for the plane’s equation: AX + BY + CZ + D = 0. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
+| [Equation](../../aspose.cad.fileformats.collada.fileparser.elements/plane/equation) { get; set; } | Gets or sets the equation. Contains four floating-point values that represent the coefficients for the plane’s equation: AX + BY + CZ + D = 0. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/plane/extra) { get; set; } | Gets or sets the extra. |
 
 ### See Also
 

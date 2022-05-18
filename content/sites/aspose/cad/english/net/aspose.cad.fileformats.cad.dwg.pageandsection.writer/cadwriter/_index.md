@@ -16,8 +16,8 @@ public static class CadWriter
 
 | Name | Description |
 | --- | --- |
-| static [GetInstanceWriter](getinstancewriter)(Stream, StreamContainer, CadImage, CodePages, string) |  |
-| static [RegisterWriter](registerwriter)(Type, string) |  |
+| static [GetInstanceWriter](../../aspose.cad.fileformats.cad.dwg.pageandsection.writer/cadwriter/getinstancewriter)(Stream, StreamContainer, CadImage, CodePages, string) |  |
+| static [RegisterWriter](../../aspose.cad.fileformats.cad.dwg.pageandsection.writer/cadwriter/registerwriter)(Type, string) |  |
 
 ### See Also
 

@@ -24,9 +24,21 @@ public class IfcRelConnectsPorts : IfcRelConnects
 
 | Name | Description |
 | --- | --- |
-| [RealizingElement](realizingelement) { get; set; } | RealizingElement |
-| [RelatedPort](relatedport) { get; set; } | RelatedPort |
-| [RelatingPort](relatingport) { get; set; } | RelatingPort |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [RealizingElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/realizingelement) { get; set; } | RealizingElement |
+| [RelatedPort](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/relatedport) { get; set; } | RelatedPort |
+| [RelatingPort](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/relatingport) { get; set; } | RelatingPort |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

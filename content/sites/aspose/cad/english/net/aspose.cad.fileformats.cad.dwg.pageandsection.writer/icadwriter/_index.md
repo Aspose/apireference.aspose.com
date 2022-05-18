@@ -16,7 +16,7 @@ public interface ICadWriter
 
 | Name | Description |
 | --- | --- |
-| [Write](write)() |  |
+| [Write](../../aspose.cad.fileformats.cad.dwg.pageandsection.writer/icadwriter/write)() |  |
 
 ### See Also
 

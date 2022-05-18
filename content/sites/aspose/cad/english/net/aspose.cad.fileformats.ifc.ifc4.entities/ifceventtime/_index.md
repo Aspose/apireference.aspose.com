@@ -24,10 +24,21 @@ public class IfcEventTime : IfcSchedulingTime
 
 | Name | Description |
 | --- | --- |
-| [ActualDate](actualdate) { get; set; } | ActualDate |
-| [EarlyDate](earlydate) { get; set; } | EarlyDate |
-| [LateDate](latedate) { get; set; } | LateDate |
-| [ScheduleDate](scheduledate) { get; set; } | ScheduleDate |
+| [ActualDate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/actualdate) { get; set; } | ActualDate |
+| [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin) { get; set; } | DataOrigin |
+| [EarlyDate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/earlydate) { get; set; } | EarlyDate |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LateDate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/latedate) { get; set; } | LateDate |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name) { get; set; } | Name |
+| [ScheduleDate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/scheduledate) { get; set; } | ScheduleDate |
+| [UserDefinedDataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/userdefineddataorigin) { get; set; } | UserDefinedDataOrigin |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

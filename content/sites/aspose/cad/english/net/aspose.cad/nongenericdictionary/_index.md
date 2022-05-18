@@ -24,25 +24,25 @@ public class NonGenericDictionary : IDictionary
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of elements contained in the ICollection. |
-| [IsFixedSize](isfixedsize) { get; } | Gets a value indicating whether the IDictionary object has a fixed size. |
-| [IsReadOnly](isreadonly) { get; } | Gets a value indicating whether the IDictionary object is read-only. |
-| [IsSynchronized](issynchronized) { get; } | Gets a value indicating whether access to the ICollection is synchronized (thread safe). |
-| [Item](item) { get; set; } | Gets or sets the element with the specified key. |
-| [Keys](keys) { get; } | Gets an ICollection object containing the keys of the IDictionary object. |
-| [SyncRoot](syncroot) { get; } | Gets an object that can be used to synchronize access to the ICollection. |
-| [Values](values) { get; } | Gets an ICollection object containing the values in the IDictionary object. |
+| [Count](../../aspose.cad/nongenericdictionary/count) { get; } | Gets the number of elements contained in the ICollection. |
+| [IsFixedSize](../../aspose.cad/nongenericdictionary/isfixedsize) { get; } | Gets a value indicating whether the IDictionary object has a fixed size. |
+| [IsReadOnly](../../aspose.cad/nongenericdictionary/isreadonly) { get; } | Gets a value indicating whether the IDictionary object is read-only. |
+| [IsSynchronized](../../aspose.cad/nongenericdictionary/issynchronized) { get; } | Gets a value indicating whether access to the ICollection is synchronized (thread safe). |
+| [Item](../../aspose.cad/nongenericdictionary/item) { get; set; } | Gets or sets the element with the specified key. |
+| [Keys](../../aspose.cad/nongenericdictionary/keys) { get; } | Gets an ICollection object containing the keys of the IDictionary object. |
+| [SyncRoot](../../aspose.cad/nongenericdictionary/syncroot) { get; } | Gets an object that can be used to synchronize access to the ICollection. |
+| [Values](../../aspose.cad/nongenericdictionary/values) { get; } | Gets an ICollection object containing the values in the IDictionary object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(object, object) | Adds an element with the provided key and value to the IDictionary object. |
-| [Clear](clear)() | Removes all elements from the IDictionary object. |
-| [Contains](contains)(object) | Determines whether the IDictionary object contains an element with the specified key. |
-| [CopyTo](copyto)(Array, int) | Copies the elements of the ICollection to an Array, starting at a particular Array index. |
-| [GetEnumerator](getenumerator)() | Gets the enumerator. |
-| [Remove](remove)(object) | Removes the element with the specified key from the IDictionary object. |
+| [Add](../../aspose.cad/nongenericdictionary/add)(object, object) | Adds an element with the provided key and value to the IDictionary object. |
+| [Clear](../../aspose.cad/nongenericdictionary/clear)() | Removes all elements from the IDictionary object. |
+| [Contains](../../aspose.cad/nongenericdictionary/contains)(object) | Determines whether the IDictionary object contains an element with the specified key. |
+| [CopyTo](../../aspose.cad/nongenericdictionary/copyto)(Array, int) | Copies the elements of the ICollection to an Array, starting at a particular Array index. |
+| [GetEnumerator](../../aspose.cad/nongenericdictionary/getenumerator)() | Gets the enumerator. |
+| [Remove](../../aspose.cad/nongenericdictionary/remove)(object) | Removes the element with the specified key from the IDictionary object. |
 
 ### See Also
 

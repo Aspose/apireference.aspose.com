@@ -22,34 +22,34 @@ public class TiffStreamWriter
 
 | Name | Description |
 | --- | --- |
-| [Position](position) { get; set; } |  |
-| [SyncRoot](syncroot) { get; } |  |
+| [Position](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/position) { get; set; } |  |
+| [SyncRoot](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/syncroot) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Write](write)(byte[]) |  |
-| [Write](write)(byte[], int, int) |  |
-| [WriteDouble](writedouble)(double) |  |
-| [WriteDoubleArray](writedoublearray)(double[]) |  |
-| [WriteFloat](writefloat)(float) |  |
-| [WriteFloatArray](writefloatarray)(float[]) |  |
-| [WriteRational](writerational)(TiffRational) |  |
-| [WriteRationalArray](writerationalarray)(TiffRational[]) |  |
-| [WriteSByte](writesbyte)(sbyte) |  |
-| [WriteSByteArray](writesbytearray)(sbyte[]) |  |
-| [WriteSlong](writeslong)(int) |  |
-| [WriteSLongArray](writeslongarray)(int[]) |  |
-| [WriteSRational](writesrational)(TiffSRational) |  |
-| [WriteSRationalArray](writesrationalarray)(TiffSRational[]) |  |
-| [WriteSShort](writesshort)(short) |  |
-| [WriteSShortArray](writesshortarray)(short[]) |  |
-| [WriteUByte](writeubyte)(byte) |  |
-| [WriteULong](writeulong)(uint) |  |
-| [WriteULongArray](writeulongarray)(uint[]) |  |
-| [WriteUShort](writeushort)(ushort) |  |
-| [WriteUShortArray](writeushortarray)(ushort[]) |  |
+| [Write](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/write)(byte[]) |  |
+| [Write](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/write)(byte[], int, int) |  |
+| [WriteDouble](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble)(double) |  |
+| [WriteDoubleArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writedoublearray)(double[]) |  |
+| [WriteFloat](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat)(float) |  |
+| [WriteFloatArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray)(float[]) |  |
+| [WriteRational](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writerational)(TiffRational) |  |
+| [WriteRationalArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray)(TiffRational[]) |  |
+| [WriteSByte](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesbyte)(sbyte) |  |
+| [WriteSByteArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray)(sbyte[]) |  |
+| [WriteSlong](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong)(int) |  |
+| [WriteSLongArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeslongarray)(int[]) |  |
+| [WriteSRational](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesrational)(TiffSRational) |  |
+| [WriteSRationalArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesrationalarray)(TiffSRational[]) |  |
+| [WriteSShort](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort)(short) |  |
+| [WriteSShortArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesshortarray)(short[]) |  |
+| [WriteUByte](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeubyte)(byte) |  |
+| [WriteULong](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeulong)(uint) |  |
+| [WriteULongArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray)(uint[]) |  |
+| [WriteUShort](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeushort)(ushort) |  |
+| [WriteUShortArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeushortarray)(ushort[]) |  |
 
 ### See Also
 

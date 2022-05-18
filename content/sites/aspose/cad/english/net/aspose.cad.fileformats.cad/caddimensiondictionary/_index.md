@@ -22,20 +22,33 @@ public sealed class CadDimensionDictionary : NonGenericDictionary, ICloneable
 
 | Name | Description |
 | --- | --- |
-| [CadSymbolTableGroupCodes](cadsymboltablegroupcodes) { get; set; } |  |
-| [Item](item) { get; set; } |  |
-| [KeysTyped](keystyped) { get; } |  |
-| [ValuesTyped](valuestyped) { get; } |  |
+| [CadSymbolTableGroupCodes](../../aspose.cad.fileformats.cad/caddimensiondictionary/cadsymboltablegroupcodes) { get; set; } |  |
+| [Count](../../aspose.cad/nongenericdictionary/count) { get; } | Gets the number of elements contained in the ICollection. |
+| [IsFixedSize](../../aspose.cad/nongenericdictionary/isfixedsize) { get; } | Gets a value indicating whether the IDictionary object has a fixed size. |
+| [IsReadOnly](../../aspose.cad/nongenericdictionary/isreadonly) { get; } | Gets a value indicating whether the IDictionary object is read-only. |
+| [IsSynchronized](../../aspose.cad/nongenericdictionary/issynchronized) { get; } | Gets a value indicating whether access to the ICollection is synchronized (thread safe). |
+| [Item](../../aspose.cad.fileformats.cad/caddimensiondictionary/item) { get; set; } |  (2 indexers) |
+| [Keys](../../aspose.cad/nongenericdictionary/keys) { get; } | Gets an ICollection object containing the keys of the IDictionary object. |
+| [KeysTyped](../../aspose.cad.fileformats.cad/caddimensiondictionary/keystyped) { get; } |  |
+| [SyncRoot](../../aspose.cad/nongenericdictionary/syncroot) { get; } | Gets an object that can be used to synchronize access to the ICollection. |
+| [Values](../../aspose.cad/nongenericdictionary/values) { get; } | Gets an ICollection object containing the values in the IDictionary object. |
+| [ValuesTyped](../../aspose.cad.fileformats.cad/caddimensiondictionary/valuestyped) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(string, CadDimensionStyleTable) |  |
-| [Clone](clone)() |  |
-| [ContainsKey](containskey)(string) |  |
-| [Remove](remove)(string) |  |
-| [TryGetValue](trygetvalue)(string, out CadDimensionStyleTable) |  |
+| [Add](../../aspose.cad/nongenericdictionary/add)(object, object) | Adds an element with the provided key and value to the IDictionary object. |
+| [Add](../../aspose.cad.fileformats.cad/caddimensiondictionary/add)(string, CadDimensionStyleTable) |  |
+| [Clear](../../aspose.cad/nongenericdictionary/clear)() | Removes all elements from the IDictionary object. |
+| [Clone](../../aspose.cad.fileformats.cad/caddimensiondictionary/clone)() |  |
+| [Contains](../../aspose.cad/nongenericdictionary/contains)(object) | Determines whether the IDictionary object contains an element with the specified key. |
+| [ContainsKey](../../aspose.cad.fileformats.cad/caddimensiondictionary/containskey)(string) |  |
+| [CopyTo](../../aspose.cad/nongenericdictionary/copyto)(Array, int) | Copies the elements of the ICollection to an Array, starting at a particular Array index. |
+| [GetEnumerator](../../aspose.cad/nongenericdictionary/getenumerator)() | Gets the enumerator. |
+| [Remove](../../aspose.cad/nongenericdictionary/remove)(object) | Removes the element with the specified key from the IDictionary object. |
+| [Remove](../../aspose.cad.fileformats.cad/caddimensiondictionary/remove)(string) |  |
+| [TryGetValue](../../aspose.cad.fileformats.cad/caddimensiondictionary/trygetvalue)(string, out CadDimensionStyleTable) |  |
 
 ### See Also
 

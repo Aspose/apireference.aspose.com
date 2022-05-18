@@ -24,7 +24,7 @@ public class IfcElectricCapacitanceMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccapacitancemeasure/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

@@ -19,11 +19,21 @@ public class CadBoolParameter : CadParameter<bool>
 | [CadBoolParameter](cadboolparameter)() | The default constructor. |
 | [CadBoolParameter](cadboolparameter)(CadEntityAttribute) |  |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type) { get; } |  |
+| [Value](../../aspose.cad.fileformats.cad.cadparameters/cadparameter`1/value) { get; set; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Init](init)(CadCodeValue) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadboolparameter/init)(CadCodeValue) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter`1/init)(object) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, CadCodeValue) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, object) |  |
 
 ### See Also
 

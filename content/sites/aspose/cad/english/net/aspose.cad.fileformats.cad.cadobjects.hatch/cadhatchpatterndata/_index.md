@@ -22,11 +22,11 @@ public class CadHatchPatternData
 
 | Name | Description |
 | --- | --- |
-| [DashLengthCount](dashlengthcount) { get; set; } |  |
-| [DashLengths](dashlengths) { get; set; } |  |
-| [LineAngle](lineangle) { get; set; } |  |
-| [LineBasePoint](linebasepoint) { get; set; } |  |
-| [LineOffset](lineoffset) { get; set; } |  |
+| [DashLengthCount](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/dashlengthcount) { get; set; } |  |
+| [DashLengths](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/dashlengths) { get; set; } |  |
+| [LineAngle](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/lineangle) { get; set; } |  |
+| [LineBasePoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/linebasepoint) { get; set; } |  |
+| [LineOffset](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/lineoffset) { get; set; } |  |
 
 ### See Also
 

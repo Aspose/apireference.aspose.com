@@ -20,6 +20,13 @@ public class Rotate : TargetableFloat4
 | --- | --- |
 | [Rotate](rotate)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/sid) { get; set; } | Gets or sets the sid. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/text) { get; set; } | Gets or sets the value float4 as text. |
+
 ### See Also
 
 * class [TargetableFloat4](../targetablefloat4)

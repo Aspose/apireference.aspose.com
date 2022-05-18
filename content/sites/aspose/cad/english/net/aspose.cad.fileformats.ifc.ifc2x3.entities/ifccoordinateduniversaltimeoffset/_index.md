@@ -24,9 +24,17 @@ public class IfcCoordinatedUniversalTimeOffset : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [HourOffset](houroffset) { get; set; } | HourOffset |
-| [MinuteOffset](minuteoffset) { get; set; } | MinuteOffset |
-| [Sense](sense) { get; set; } | Sense |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HourOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/houroffset) { get; set; } | HourOffset |
+| [MinuteOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/minuteoffset) { get; set; } | MinuteOffset |
+| [Sense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/sense) { get; set; } | Sense |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

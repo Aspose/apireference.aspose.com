@@ -24,10 +24,10 @@ public class DgnTag
 
 | Name | Description |
 | --- | --- |
-| [DefaultTagValue](defaulttagvalue) { get; set; } | Gets or sets the default tag value. |
-| [Id](id) { get; set; } | Gets or sets tag id |
-| [Name](name) { get; set; } | Gets or sets tag name |
-| [UserPrompt](userprompt) { get; set; } | Gets or sets tag user prompt |
+| [DefaultTagValue](../../aspose.cad.fileformats.dgn/dgntag/defaulttagvalue) { get; set; } | Gets or sets the default tag value. |
+| [Id](../../aspose.cad.fileformats.dgn/dgntag/id) { get; set; } | Gets or sets tag id |
+| [Name](../../aspose.cad.fileformats.dgn/dgntag/name) { get; set; } | Gets or sets tag name |
+| [UserPrompt](../../aspose.cad.fileformats.dgn/dgntag/userprompt) { get; set; } | Gets or sets tag user prompt |
 
 ### See Also
 

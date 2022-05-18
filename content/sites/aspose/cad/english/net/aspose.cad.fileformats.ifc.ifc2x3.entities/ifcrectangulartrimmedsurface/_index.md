@@ -24,13 +24,23 @@ public class IfcRectangularTrimmedSurface : IfcBoundedSurface
 
 | Name | Description |
 | --- | --- |
-| [BasisSurface](basissurface) { get; set; } | BasisSurface |
-| [U1](u1) { get; set; } | U1 |
-| [U2](u2) { get; set; } | U2 |
-| [Usense](usense) { get; set; } | Usense |
-| [V1](v1) { get; set; } | V1 |
-| [V2](v2) { get; set; } | V2 |
-| [Vsense](vsense) { get; set; } | Vsense |
+| [BasisSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/basissurface) { get; set; } | BasisSurface |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [U1](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/u1) { get; set; } | U1 |
+| [U2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/u2) { get; set; } | U2 |
+| [Usense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/usense) { get; set; } | Usense |
+| [V1](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/v1) { get; set; } | V1 |
+| [V2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/v2) { get; set; } | V2 |
+| [Vsense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/vsense) { get; set; } | Vsense |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

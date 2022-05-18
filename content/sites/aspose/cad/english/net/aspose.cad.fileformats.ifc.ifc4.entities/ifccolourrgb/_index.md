@@ -26,9 +26,18 @@ public class IfcColourRgb : IfcColourSpecification
 
 | Name | Description |
 | --- | --- |
-| [Blue](blue) { get; set; } | Blue |
-| [Green](green) { get; set; } | Green |
-| [Red](red) { get; set; } | Red |
+| [Blue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgb/blue) { get; set; } | Blue |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Green](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgb/green) { get; set; } | Green |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccolourspecification/name) { get; set; } | Name |
+| [Red](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgb/red) { get; set; } | Red |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

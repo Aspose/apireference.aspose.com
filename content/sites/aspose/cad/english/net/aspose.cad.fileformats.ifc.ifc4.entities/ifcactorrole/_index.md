@@ -24,10 +24,18 @@ public class IfcActorRole : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [HasExternalReference](hasexternalreference) { get; } | HasExternalReference |
-| [Role](role) { get; set; } | Role |
-| [UserDefinedRole](userdefinedrole) { get; set; } | UserDefinedRole |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcactorrole/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcactorrole/hasexternalreference) { get; } | HasExternalReference |
+| [Role](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcactorrole/role) { get; set; } | Role |
+| [UserDefinedRole](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcactorrole/userdefinedrole) { get; set; } | UserDefinedRole |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

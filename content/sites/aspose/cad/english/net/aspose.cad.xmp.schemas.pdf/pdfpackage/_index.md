@@ -18,15 +18,32 @@ public sealed class PdfPackage : XmpPackage
 | --- | --- |
 | [PdfPackage](pdfpackage)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Item](../../aspose.cad.xmp/xmppackage/item) { get; set; } |  |
+| virtual [Keys](../../aspose.cad.xmp/xmppackage/keys) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp/xmppackage/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp/xmppackage/prefix) { get; } |  |
+| [XmlNamespace](../../aspose.cad.xmp/xmppackage/xmlnamespace) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddValue](addvalue)(string, string) |  |
-| [SetKeywords](setkeywords)(string) |  |
-| [SetPdfVersion](setpdfversion)(string) |  |
-| [SetProducer](setproducer)(string) |  |
-| [SetTrapped](settrapped)(bool) |  |
+| override [AddValue](../../aspose.cad.xmp.schemas.pdf/pdfpackage/addvalue)(string, string) |  |
+| virtual [Clear](../../aspose.cad.xmp/xmppackage/clear)() |  |
+| virtual [ContainsKey](../../aspose.cad.xmp/xmppackage/containskey)(string) |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackage/getenumerator)() |  |
+| virtual [GetXmlValue](../../aspose.cad.xmp/xmppackage/getxmlvalue)() |  |
+| virtual [Remove](../../aspose.cad.xmp/xmppackage/remove)(string) |  |
+| [SetKeywords](../../aspose.cad.xmp.schemas.pdf/pdfpackage/setkeywords)(string) |  |
+| [SetPdfVersion](../../aspose.cad.xmp.schemas.pdf/pdfpackage/setpdfversion)(string) |  |
+| [SetProducer](../../aspose.cad.xmp.schemas.pdf/pdfpackage/setproducer)(string) |  |
+| [SetTrapped](../../aspose.cad.xmp.schemas.pdf/pdfpackage/settrapped)(bool) |  |
+| virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
+| virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
 ### See Also
 

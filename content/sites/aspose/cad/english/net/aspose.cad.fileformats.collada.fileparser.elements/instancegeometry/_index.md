@@ -24,11 +24,11 @@ public class InstanceGeometry : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [BindMaterial](bindmaterial) { get; set; } | Gets or sets the bind material. Bind a specific material to a piece of geometry, binding varying and uniform parameters at the same time. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
-| [Sid](sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element.Optional attribute. |
-| [Url](url) { get; set; } | Gets or sets the url. The url attribute refers to resource. This may refer to a local resource using a relative URL fragment identifier that begins with the "#" character. The url attribute may refer to an external resource using an absolute or relative URL. |
+| [BindMaterial](../../aspose.cad.fileformats.collada.fileparser.elements/instancegeometry/bindmaterial) { get; set; } | Gets or sets the bind material. Bind a specific material to a piece of geometry, binding varying and uniform parameters at the same time. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/instancegeometry/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/instancegeometry/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/instancegeometry/sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element.Optional attribute. |
+| [Url](../../aspose.cad.fileformats.collada.fileparser.elements/instancegeometry/url) { get; set; } | Gets or sets the url. The url attribute refers to resource. This may refer to a local resource using a relative URL fragment identifier that begins with the "#" character. The url attribute may refer to an external resource using an absolute or relative URL. |
 
 ### See Also
 

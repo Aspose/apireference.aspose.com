@@ -24,9 +24,18 @@ public class IfcExtendedMaterialProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [ExtendedProperties](extendedproperties) { get; set; } | ExtendedProperties |
-| [Name](name) { get; set; } | Name |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ExtendedProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/extendedproperties) { get; set; } | ExtendedProperties |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material) { get; set; } | Material |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

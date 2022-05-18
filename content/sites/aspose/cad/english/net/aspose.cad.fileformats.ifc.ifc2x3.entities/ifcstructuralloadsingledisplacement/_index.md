@@ -24,12 +24,21 @@ public class IfcStructuralLoadSingleDisplacement : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [DisplacementX](displacementx) { get; set; } | DisplacementX |
-| [DisplacementY](displacementy) { get; set; } | DisplacementY |
-| [DisplacementZ](displacementz) { get; set; } | DisplacementZ |
-| [RotationalDisplacementRX](rotationaldisplacementrx) { get; set; } | RotationalDisplacementRX |
-| [RotationalDisplacementRY](rotationaldisplacementry) { get; set; } | RotationalDisplacementRY |
-| [RotationalDisplacementRZ](rotationaldisplacementrz) { get; set; } | RotationalDisplacementRZ |
+| [DisplacementX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementx) { get; set; } | DisplacementX |
+| [DisplacementY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementy) { get; set; } | DisplacementY |
+| [DisplacementZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementz) { get; set; } | DisplacementZ |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name) { get; set; } | Name |
+| [RotationalDisplacementRX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrx) { get; set; } | RotationalDisplacementRX |
+| [RotationalDisplacementRY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementry) { get; set; } | RotationalDisplacementRY |
+| [RotationalDisplacementRZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrz) { get; set; } | RotationalDisplacementRZ |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -24,8 +24,17 @@ public class IfcSurfaceStyle : IfcPresentationStyle
 
 | Name | Description |
 | --- | --- |
-| [Side](side) { get; set; } | Side |
-| [Styles](styles) { get; set; } | Styles |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/name) { get; set; } | Name |
+| [Side](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyle/side) { get; set; } | Side |
+| [Styles](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyle/styles) { get; set; } | Styles |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

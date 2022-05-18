@@ -24,8 +24,8 @@ public class Matrix : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Sid](sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element. Optional attribute. |
-| [Text](text) { get; set; } | Gets or sets the value as float4x4 text. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/matrix/sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element. Optional attribute. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/matrix/text) { get; set; } | Gets or sets the value as float4x4 text. |
 
 ### See Also
 

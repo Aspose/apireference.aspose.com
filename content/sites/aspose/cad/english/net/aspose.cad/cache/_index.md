@@ -18,19 +18,19 @@ public static class Cache
 
 | Name | Description |
 | --- | --- |
-| static [AllocatedDiskBytesCount](allocateddiskbytescount) { get; } | Gets the allocated disk bytes count. |
-| static [AllocatedMemoryBytesCount](allocatedmemorybytescount) { get; } | Gets the allocated in-memory bytes count. |
-| static [CacheFolder](cachefolder) { get; set; } | Gets or sets the cache folder. |
-| static [CacheType](cachetype) { get; set; } | Gets or sets the cache scheme used. |
-| static [ExactReallocateOnly](exactreallocateonly) { get; set; } | Gets or sets a value indicating whether reallocation should be exact or not. If reallocation is non exact the performance should be higher. |
-| static [MaxDiskSpaceForCache](maxdiskspaceforcache) { get; set; } | Gets or sets the maximum available disk space for cache. The value specified is megabytes count. |
-| static [MaxMemoryForCache](maxmemoryforcache) { get; set; } | Gets or sets the maximum available memory for cache in memory. The value specified is megabytes count. |
+| static [AllocatedDiskBytesCount](../../aspose.cad/cache/allocateddiskbytescount) { get; } | Gets the allocated disk bytes count. |
+| static [AllocatedMemoryBytesCount](../../aspose.cad/cache/allocatedmemorybytescount) { get; } | Gets the allocated in-memory bytes count. |
+| static [CacheFolder](../../aspose.cad/cache/cachefolder) { get; set; } | Gets or sets the cache folder. |
+| static [CacheType](../../aspose.cad/cache/cachetype) { get; set; } | Gets or sets the cache scheme used. |
+| static [ExactReallocateOnly](../../aspose.cad/cache/exactreallocateonly) { get; set; } | Gets or sets a value indicating whether reallocation should be exact or not. If reallocation is non exact the performance should be higher. |
+| static [MaxDiskSpaceForCache](../../aspose.cad/cache/maxdiskspaceforcache) { get; set; } | Gets or sets the maximum available disk space for cache. The value specified is megabytes count. |
+| static [MaxMemoryForCache](../../aspose.cad/cache/maxmemoryforcache) { get; set; } | Gets or sets the maximum available memory for cache in memory. The value specified is megabytes count. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [SetDefaults](setdefaults)() | Sets the [`Cache`](../cache) settings to defaults. |
+| static [SetDefaults](../../aspose.cad/cache/setdefaults)() | Sets the [`Cache`](../cache) settings to defaults. |
 
 ## Other Members
 

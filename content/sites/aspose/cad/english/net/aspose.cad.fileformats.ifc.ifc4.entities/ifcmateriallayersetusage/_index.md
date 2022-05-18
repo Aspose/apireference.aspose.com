@@ -24,11 +24,20 @@ public class IfcMaterialLayerSetUsage : IfcMaterialUsageDefinition
 
 | Name | Description |
 | --- | --- |
-| [DirectionSense](directionsense) { get; set; } | DirectionSense |
-| [ForLayerSet](forlayerset) { get; set; } | ForLayerSet |
-| [LayerSetDirection](layersetdirection) { get; set; } | LayerSetDirection |
-| [OffsetFromReferenceLine](offsetfromreferenceline) { get; set; } | OffsetFromReferenceLine |
-| [ReferenceExtent](referenceextent) { get; set; } | ReferenceExtent |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/associatedto) { get; } | AssociatedTo |
+| [DirectionSense](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/directionsense) { get; set; } | DirectionSense |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ForLayerSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/forlayerset) { get; set; } | ForLayerSet |
+| [LayerSetDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/layersetdirection) { get; set; } | LayerSetDirection |
+| [OffsetFromReferenceLine](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/offsetfromreferenceline) { get; set; } | OffsetFromReferenceLine |
+| [ReferenceExtent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/referenceextent) { get; set; } | ReferenceExtent |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

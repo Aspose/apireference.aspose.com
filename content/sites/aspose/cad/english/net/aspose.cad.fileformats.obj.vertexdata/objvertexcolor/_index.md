@@ -24,19 +24,23 @@ public class ObjVertexColor : ObjVertex, IEquatable<ObjVertexColor>
 
 | Name | Description |
 | --- | --- |
-| [B](b) { get; } | Gets the blue component. |
-| [G](g) { get; } | Gets the green component. |
-| [R](r) { get; } | Gets the red component. |
+| [B](../../aspose.cad.fileformats.obj.vertexdata/objvertexcolor/b) { get; } | Gets the blue component. |
+| [G](../../aspose.cad.fileformats.obj.vertexdata/objvertexcolor/g) { get; } | Gets the green component. |
+| [R](../../aspose.cad.fileformats.obj.vertexdata/objvertexcolor/r) { get; } | Gets the red component. |
+| [X](../../aspose.cad.fileformats.obj.vertexdata/objvertex/x) { get; } | Gets the x coordinate. |
+| [Y](../../aspose.cad.fileformats.obj.vertexdata/objvertex/y) { get; } | Gets the y coordinate. |
+| [Z](../../aspose.cad.fileformats.obj.vertexdata/objvertex/z) { get; } | Gets the z coordinate. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Indicates whether the current object is equal to another object. |
-| [Equals](equals)(ObjVertexColor) | Indicates whether the current object is equal to another object of the same type. |
-| override [GetHashCode](gethashcode)() | Gets hash code. |
-| [operator ==](op_equality) | Overloading the equality operator. |
-| [operator !=](op_inequality) | Overloading the inequality operator. |
+| override [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertexcolor/equals)(object) | Indicates whether the current object is equal to another object. |
+| [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertex/equals)(ObjVertex) | Indicates whether the current object is equal to another object of the same type. |
+| [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertexcolor/equals)(ObjVertexColor) | Indicates whether the current object is equal to another object of the same type. |
+| override [GetHashCode](../../aspose.cad.fileformats.obj.vertexdata/objvertexcolor/gethashcode)() | Gets hash code. |
+| [operator ==](../../aspose.cad.fileformats.obj.vertexdata/objvertexcolor/op_equality) | Overloading the equality operator. |
+| [operator !=](../../aspose.cad.fileformats.obj.vertexdata/objvertexcolor/op_inequality) | Overloading the inequality operator. |
 
 ### See Also
 

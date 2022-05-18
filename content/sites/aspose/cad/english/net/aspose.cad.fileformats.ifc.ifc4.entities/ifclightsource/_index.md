@@ -18,10 +18,20 @@ public abstract class IfcLightSource : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [AmbientIntensity](ambientintensity) { get; set; } | AmbientIntensity |
-| [Intensity](intensity) { get; set; } | Intensity |
-| [LightColour](lightcolour) { get; set; } | LightColour |
-| [Name](name) { get; set; } | Name |
+| [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/ambientintensity) { get; set; } | AmbientIntensity |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Intensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/intensity) { get; set; } | Intensity |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [LightColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/lightcolour) { get; set; } | LightColour |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/name) { get; set; } | Name |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

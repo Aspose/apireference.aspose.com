@@ -24,7 +24,8 @@ public class CF2PropertyCustom : CF2Property
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; set; } | The property name |
+| [Containt](../../aspose.cad.fileformats.cf2/cf2property/containt) { get; set; } | The containt |
+| [Name](../../aspose.cad.fileformats.cf2/cf2propertycustom/name) { get; set; } | The property name |
 
 ### See Also
 

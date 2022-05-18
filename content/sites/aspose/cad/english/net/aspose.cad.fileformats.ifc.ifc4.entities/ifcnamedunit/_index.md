@@ -18,8 +18,16 @@ public abstract class IfcNamedUnit : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Dimensions](dimensions) { get; set; } | Dimensions |
-| [UnitType](unittype) { get; set; } | UnitType |
+| [Dimensions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/dimensions) { get; set; } | Dimensions |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [UnitType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/unittype) { get; set; } | UnitType |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

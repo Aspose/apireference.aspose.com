@@ -24,7 +24,7 @@ public class CF2Order
 
 | Name | Description |
 | --- | --- |
-| [Properties](properties) { get; } | The properties of the CF2 format |
+| [Properties](../../aspose.cad.fileformats.cf2/cf2order/properties) { get; } | The properties of the CF2 format |
 
 ### See Also
 

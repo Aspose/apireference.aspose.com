@@ -24,10 +24,18 @@ public class IfcPropertyConstraintRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [Name](name) { get; set; } | Name |
-| [RelatedProperties](relatedproperties) { get; set; } | RelatedProperties |
-| [RelatingConstraint](relatingconstraint) { get; set; } | RelatingConstraint |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/name) { get; set; } | Name |
+| [RelatedProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatedproperties) { get; set; } | RelatedProperties |
+| [RelatingConstraint](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatingconstraint) { get; set; } | RelatingConstraint |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -22,13 +22,13 @@ public class CadApplicationCodesContainer
 
 | Name | Description |
 | --- | --- |
-| [Codes](codes) { get; set; } |  |
+| [Codes](../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodescontainer/codes) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetCodes](getcodes)(string, string) |  |
+| [GetCodes](../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodescontainer/getcodes)(string, string) |  |
 
 ### See Also
 

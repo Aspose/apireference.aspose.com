@@ -24,12 +24,20 @@ public class IfcSectionReinforcementProperties : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [CrossSectionReinforcementDefinitions](crosssectionreinforcementdefinitions) { get; set; } | CrossSectionReinforcementDefinitions |
-| [LongitudinalEndPosition](longitudinalendposition) { get; set; } | LongitudinalEndPosition |
-| [LongitudinalStartPosition](longitudinalstartposition) { get; set; } | LongitudinalStartPosition |
-| [ReinforcementRole](reinforcementrole) { get; set; } | ReinforcementRole |
-| [SectionDefinition](sectiondefinition) { get; set; } | SectionDefinition |
-| [TransversePosition](transverseposition) { get; set; } | TransversePosition |
+| [CrossSectionReinforcementDefinitions](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/crosssectionreinforcementdefinitions) { get; set; } | CrossSectionReinforcementDefinitions |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LongitudinalEndPosition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/longitudinalendposition) { get; set; } | LongitudinalEndPosition |
+| [LongitudinalStartPosition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/longitudinalstartposition) { get; set; } | LongitudinalStartPosition |
+| [ReinforcementRole](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/reinforcementrole) { get; set; } | ReinforcementRole |
+| [SectionDefinition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/sectiondefinition) { get; set; } | SectionDefinition |
+| [TransversePosition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/transverseposition) { get; set; } | TransversePosition |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

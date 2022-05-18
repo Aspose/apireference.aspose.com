@@ -24,7 +24,8 @@ public class DwfWhipTextOptionBounds : DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| [Points](points) { get; } | Gets bounds |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [Points](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptextoptionbounds/points) { get; } | Gets bounds |
 
 ### See Also
 

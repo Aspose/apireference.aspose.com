@@ -24,11 +24,11 @@ public class ProfileBridge : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Id](id) { get; set; } | Gets or sets the id. |
-| [Platform](platform) { get; set; } | Gets or sets the platform. The type of platform. This is a vendor-defined character string that indicates the platform or capability target for the technique. Optional |
-| [Url](url) { get; set; } | Gets or sets the url. The url to the file which we are bridging too. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/asset) { get; set; } | Gets or sets the asset. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/extra) { get; set; } | Gets or sets the extra. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/id) { get; set; } | Gets or sets the id. |
+| [Platform](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/platform) { get; set; } | Gets or sets the platform. The type of platform. This is a vendor-defined character string that indicates the platform or capability target for the technique. Optional |
+| [Url](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/url) { get; set; } | Gets or sets the url. The url to the file which we are bridging too. |
 
 ### See Also
 

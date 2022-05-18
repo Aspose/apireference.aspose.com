@@ -17,10 +17,10 @@ public abstract class DxfPropertyAttribute : Attribute
 
 | Name | Description |
 | --- | --- |
-| [HasDefaultValue](hasdefaultvalue) { get; set; } |  |
-| [ParameterType](parametertype) { get; set; } |  |
-| [PropertyInfo](propertyinfo) { get; set; } |  |
-| [SubClassName](subclassname) { get; set; } |  |
+| [HasDefaultValue](../../aspose.cad.fileformats.cad/dxfpropertyattribute/hasdefaultvalue) { get; set; } |  |
+| [ParameterType](../../aspose.cad.fileformats.cad/dxfpropertyattribute/parametertype) { get; set; } |  |
+| [PropertyInfo](../../aspose.cad.fileformats.cad/dxfpropertyattribute/propertyinfo) { get; set; } |  |
+| [SubClassName](../../aspose.cad.fileformats.cad/dxfpropertyattribute/subclassname) { get; set; } |  |
 
 ### See Also
 

@@ -16,14 +16,14 @@ public class MakerNote
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; } |  |
-| [Value](value) { get; } |  |
+| [Name](../../aspose.cad.exif/makernote/name) { get; } |  |
+| [Value](../../aspose.cad.exif/makernote/value) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() |  |
+| override [ToString](../../aspose.cad.exif/makernote/tostring)() |  |
 
 ### See Also
 

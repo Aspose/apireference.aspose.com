@@ -24,9 +24,9 @@ public class CF2StandardMessage
 
 | Name | Description |
 | --- | --- |
-| [Containt](containt) { get; set; } | The containt |
-| [GroupIndex](groupindex) { get; set; } | The group index |
-| [Language](language) { get; set; } | The language |
+| [Containt](../../aspose.cad.fileformats.cf2/cf2standardmessage/containt) { get; set; } | The containt |
+| [GroupIndex](../../aspose.cad.fileformats.cf2/cf2standardmessage/groupindex) { get; set; } | The group index |
+| [Language](../../aspose.cad.fileformats.cf2/cf2standardmessage/language) { get; set; } | The language |
 
 ### See Also
 

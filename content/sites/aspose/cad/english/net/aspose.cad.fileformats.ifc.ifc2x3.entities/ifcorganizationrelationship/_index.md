@@ -24,10 +24,18 @@ public class IfcOrganizationRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [Name](name) { get; set; } | Name |
-| [RelatedOrganizations](relatedorganizations) { get; set; } | RelatedOrganizations |
-| [RelatingOrganization](relatingorganization) { get; set; } | RelatingOrganization |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/name) { get; set; } | Name |
+| [RelatedOrganizations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/relatedorganizations) { get; set; } | RelatedOrganizations |
+| [RelatingOrganization](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/relatingorganization) { get; set; } | RelatingOrganization |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

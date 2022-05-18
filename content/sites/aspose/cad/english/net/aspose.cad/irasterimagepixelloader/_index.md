@@ -18,7 +18,7 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [LoadPartialPixels](loadpartialpixels)(Rectangle, IPartialPixelLoader) | Loads pixels partially (by blocks). |
+| [LoadPartialPixels](../../aspose.cad/irasterimagepixelloader/loadpartialpixels)(Rectangle, IPartialPixelLoader) | Loads pixels partially (by blocks). |
 
 ### See Also
 

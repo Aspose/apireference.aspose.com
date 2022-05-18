@@ -24,9 +24,18 @@ public class IfcStructuralLoadTemperature : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [DeltaT_Constant](deltat_constant) { get; set; } | DeltaT_Constant |
-| [DeltaT_Y](deltat_y) { get; set; } | DeltaT_Y |
-| [DeltaT_Z](deltat_z) { get; set; } | DeltaT_Z |
+| [DeltaT_Constant](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/deltat_constant) { get; set; } | DeltaT_Constant |
+| [DeltaT_Y](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/deltat_y) { get; set; } | DeltaT_Y |
+| [DeltaT_Z](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/deltat_z) { get; set; } | DeltaT_Z |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

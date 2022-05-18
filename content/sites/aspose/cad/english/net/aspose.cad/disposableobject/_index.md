@@ -22,13 +22,13 @@ public class DisposableObject : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Disposed](disposed) { get; } |  |
+| [Disposed](../../aspose.cad/disposableobject/disposed) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() |  |
+| [Dispose](../../aspose.cad/disposableobject/dispose)() |  |
 
 ### See Also
 

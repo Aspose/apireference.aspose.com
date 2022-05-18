@@ -18,9 +18,9 @@ public abstract class DeconvolutionFilterOptions : FilterOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [Brightness](brightness) { get; set; } | Gets or sets the brightness. recommended range 1 - 1.5 default value = 1.15 |
-| [Grayscale](grayscale) { get; set; } | Gets or sets a value indicating whether this [`DeconvolutionFilterOptions`](../deconvolutionfilteroptions) is grayscale. Return grayscale mode or RGB mode. |
-| [Snr](snr) { get; set; } | Gets or sets the SNR(signal-to-noise ratio) recommended range 0.002 - 0.009, default value = 0.007 |
+| [Brightness](../../aspose.cad.imagefilters.filteroptions/deconvolutionfilteroptions/brightness) { get; set; } | Gets or sets the brightness. recommended range 1 - 1.5 default value = 1.15 |
+| [Grayscale](../../aspose.cad.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale) { get; set; } | Gets or sets a value indicating whether this [`DeconvolutionFilterOptions`](../deconvolutionfilteroptions) is grayscale. Return grayscale mode or RGB mode. |
+| [Snr](../../aspose.cad.imagefilters.filteroptions/deconvolutionfilteroptions/snr) { get; set; } | Gets or sets the SNR(signal-to-noise ratio) recommended range 0.002 - 0.009, default value = 0.007 |
 
 ### See Also
 

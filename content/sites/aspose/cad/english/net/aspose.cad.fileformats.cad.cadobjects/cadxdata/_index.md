@@ -22,14 +22,14 @@ public class CadXdata
 
 | Name | Description |
 | --- | --- |
-| [DataList](datalist) { get; set; } |  |
-| [Name](name) { get; set; } |  |
+| [DataList](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/datalist) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/name) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetFirstValue](getfirstvalue)(CadXdata, CadEntityAttribute) |  |
+| static [GetFirstValue](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/getfirstvalue)(CadXdata, CadEntityAttribute) |  |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class FxCommonColorOrTextureParam : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Reference](reference) { get; set; } | Gets or sets the reference. |
+| [Reference](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortextureparam/reference) { get; set; } | Gets or sets the reference. |
 
 ### See Also
 

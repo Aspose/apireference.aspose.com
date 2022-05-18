@@ -23,14 +23,14 @@ public sealed class XmpDate : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Format](format) { get; } |  |
-| [Value](value) { get; set; } |  |
+| [Format](../../aspose.cad.xmp.types.basic/xmpdate/format) { get; } |  |
+| [Value](../../aspose.cad.xmp.types.basic/xmpdate/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.basic/xmpdate/getxmprepresentation)() |  |
 
 ## Other Members
 

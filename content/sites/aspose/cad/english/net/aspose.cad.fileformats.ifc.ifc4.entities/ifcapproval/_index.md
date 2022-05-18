@@ -24,20 +24,28 @@ public class IfcApproval : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ApprovedObjects](approvedobjects) { get; } | ApprovedObjects |
-| [ApprovedResources](approvedresources) { get; } | ApprovedResources |
-| [Description](description) { get; set; } | Description |
-| [GivingApproval](givingapproval) { get; set; } | GivingApproval |
-| [HasExternalReferences](hasexternalreferences) { get; } | HasExternalReferences |
-| [Identifier](identifier) { get; set; } | Identifier |
-| [IsRelatedWith](isrelatedwith) { get; } | IsRelatedWith |
-| [Level](level) { get; set; } | Level |
-| [Name](name) { get; set; } | Name |
-| [Qualifier](qualifier) { get; set; } | Qualifier |
-| [Relates](relates) { get; } | Relates |
-| [RequestingApproval](requestingapproval) { get; set; } | RequestingApproval |
-| [Status](status) { get; set; } | Status |
-| [TimeOfApproval](timeofapproval) { get; set; } | TimeOfApproval |
+| [ApprovedObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/approvedobjects) { get; } | ApprovedObjects |
+| [ApprovedResources](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/approvedresources) { get; } | ApprovedResources |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GivingApproval](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/givingapproval) { get; set; } | GivingApproval |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/hasexternalreferences) { get; } | HasExternalReferences |
+| [Identifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/identifier) { get; set; } | Identifier |
+| [IsRelatedWith](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/isrelatedwith) { get; } | IsRelatedWith |
+| [Level](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/level) { get; set; } | Level |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/name) { get; set; } | Name |
+| [Qualifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/qualifier) { get; set; } | Qualifier |
+| [Relates](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/relates) { get; } | Relates |
+| [RequestingApproval](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/requestingapproval) { get; set; } | RequestingApproval |
+| [Status](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/status) { get; set; } | Status |
+| [TimeOfApproval](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/timeofapproval) { get; set; } | TimeOfApproval |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

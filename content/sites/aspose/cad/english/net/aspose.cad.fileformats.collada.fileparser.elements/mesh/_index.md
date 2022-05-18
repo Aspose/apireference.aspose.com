@@ -24,10 +24,10 @@ public class Mesh : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Items](items) { get; set; } | Gets or sets the mesh items. |
-| [Source](source) { get; set; } | Gets or sets the source. The mesh element must contain one or more source elements. |
-| [Vertices](vertices) { get; set; } | Gets or sets the vertices. The mesh element must contain one vertices element. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/mesh/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Items](../../aspose.cad.fileformats.collada.fileparser.elements/mesh/items) { get; set; } | Gets or sets the mesh items. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/mesh/source) { get; set; } | Gets or sets the source. The mesh element must contain one or more source elements. |
+| [Vertices](../../aspose.cad.fileformats.collada.fileparser.elements/mesh/vertices) { get; set; } | Gets or sets the vertices. The mesh element must contain one vertices element. |
 
 ### See Also
 

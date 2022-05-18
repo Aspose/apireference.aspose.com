@@ -24,12 +24,26 @@ public class IfcLightSourceGoniometric : IfcLightSource
 
 | Name | Description |
 | --- | --- |
-| [ColourAppearance](colourappearance) { get; set; } | ColourAppearance |
-| [ColourTemperature](colourtemperature) { get; set; } | ColourTemperature |
-| [LightDistributionDataSource](lightdistributiondatasource) { get; set; } | LightDistributionDataSource |
-| [LightEmissionSource](lightemissionsource) { get; set; } | LightEmissionSource |
-| [LuminousFlux](luminousflux) { get; set; } | LuminousFlux |
-| [Position](position) { get; set; } | Position |
+| [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/ambientintensity) { get; set; } | AmbientIntensity |
+| [ColourAppearance](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcegoniometric/colourappearance) { get; set; } | ColourAppearance |
+| [ColourTemperature](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcegoniometric/colourtemperature) { get; set; } | ColourTemperature |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Intensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/intensity) { get; set; } | Intensity |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [LightColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/lightcolour) { get; set; } | LightColour |
+| [LightDistributionDataSource](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcegoniometric/lightdistributiondatasource) { get; set; } | LightDistributionDataSource |
+| [LightEmissionSource](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcegoniometric/lightemissionsource) { get; set; } | LightEmissionSource |
+| [LuminousFlux](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcegoniometric/luminousflux) { get; set; } | LuminousFlux |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/name) { get; set; } | Name |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcegoniometric/position) { get; set; } | Position |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

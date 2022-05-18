@@ -24,7 +24,19 @@ public class IfcProfileProperties : IfcExtendedProperties
 
 | Name | Description |
 | --- | --- |
-| [ProfileDefinition](profiledefinition) { get; set; } | ProfileDefinition |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences) { get; } | HasExternalReferences |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/name) { get; set; } | Name |
+| [ProfileDefinition](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofileproperties/profiledefinition) { get; set; } | ProfileDefinition |
+| [Properties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/properties) { get; set; } | Properties |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

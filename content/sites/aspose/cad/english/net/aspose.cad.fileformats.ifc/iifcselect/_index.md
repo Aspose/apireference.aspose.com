@@ -18,7 +18,7 @@ public interface IIfcSelect : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc/iifcselect/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

@@ -24,11 +24,11 @@ public class LibraryMaterials : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. The library_materials element may contain an asset element. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Id](id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document.Optional attribute. |
-| [Material](material) { get; set; } | Gets or sets the material. There must be at least one material element. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/asset) { get; set; } | Gets or sets the asset. The library_materials element may contain an asset element. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document.Optional attribute. |
+| [Material](../../aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/material) { get; set; } | Gets or sets the material. There must be at least one material element. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
 
 ### See Also
 

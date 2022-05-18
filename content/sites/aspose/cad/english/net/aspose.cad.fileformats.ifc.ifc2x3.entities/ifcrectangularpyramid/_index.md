@@ -26,9 +26,20 @@ public class IfcRectangularPyramid : IfcCsgPrimitive3D
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Height |
-| [XLength](xlength) { get; set; } | XLength |
-| [YLength](ylength) { get; set; } | YLength |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Height](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangularpyramid/height) { get; set; } | Height |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments) { get; } | LayerAssignments |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccsgprimitive3d/position) { get; set; } | Position |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [XLength](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangularpyramid/xlength) { get; set; } | XLength |
+| [YLength](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangularpyramid/ylength) { get; set; } | YLength |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

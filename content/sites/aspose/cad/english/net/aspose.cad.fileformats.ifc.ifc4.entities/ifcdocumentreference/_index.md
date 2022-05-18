@@ -24,9 +24,21 @@ public class IfcDocumentReference : IfcExternalReference
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [DocumentRefForObjects](documentrefforobjects) { get; } | DocumentRefForObjects |
-| [ReferencedDocument](referenceddocument) { get; set; } | ReferencedDocument |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentreference/description) { get; set; } | Description |
+| [DocumentRefForObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentreference/documentrefforobjects) { get; } | DocumentRefForObjects |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ExternalReferenceForResources](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/externalreferenceforresources) { get; } | ExternalReferenceForResources |
+| [Identification](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/identification) { get; set; } | Identification |
+| [Location](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/location) { get; set; } | Location |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/name) { get; set; } | Name |
+| [ReferencedDocument](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentreference/referenceddocument) { get; set; } | ReferencedDocument |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

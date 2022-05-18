@@ -24,11 +24,11 @@ public class ConvexMesh : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [ConvexHullOf](convexhullof) { get; set; } | Gets or sets the convex hull of. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Items](items) { get; set; } | Gets or sets the items. |
-| [Source](source) { get; set; } | Gets or sets the source. |
-| [Vertices](vertices) { get; set; } | Gets or sets the vertices. |
+| [ConvexHullOf](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/convexhullof) { get; set; } | Gets or sets the convex hull of. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/extra) { get; set; } | Gets or sets the extra. |
+| [Items](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/items) { get; set; } | Gets or sets the items. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/source) { get; set; } | Gets or sets the source. |
+| [Vertices](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/vertices) { get; set; } | Gets or sets the vertices. |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class Skew : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Sid](sid) { get; set; } | Gets or sets the sid. |
-| [Text](text) { get; set; } | Gets or sets the value float7 as text. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/skew/sid) { get; set; } | Gets or sets the sid. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/skew/text) { get; set; } | Gets or sets the value float7 as text. |
 
 ### See Also
 

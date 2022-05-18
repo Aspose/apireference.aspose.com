@@ -24,9 +24,18 @@ public class IfcSurfaceReinforcementArea : IfcStructuralLoadOrResult
 
 | Name | Description |
 | --- | --- |
-| [ShearReinforcement](shearreinforcement) { get; set; } | ShearReinforcement |
-| [SurfaceReinforcement1](surfacereinforcement1) { get; set; } | SurfaceReinforcement1 |
-| [SurfaceReinforcement2](surfacereinforcement2) { get; set; } | SurfaceReinforcement2 |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload/name) { get; set; } | Name |
+| [ShearReinforcement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/shearreinforcement) { get; set; } | ShearReinforcement |
+| [SurfaceReinforcement1](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/surfacereinforcement1) { get; set; } | SurfaceReinforcement1 |
+| [SurfaceReinforcement2](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/surfacereinforcement2) { get; set; } | SurfaceReinforcement2 |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

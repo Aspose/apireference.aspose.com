@@ -16,7 +16,7 @@ public static class TiffTagFactory
 
 | Name | Description |
 | --- | --- |
-| static [CreateInstance](createinstance)(ushort, ushort) |  |
+| static [CreateInstance](../../aspose.cad.fileformats.tiff.instancefactory/tifftagfactory/createinstance)(ushort, ushort) |  |
 
 ### See Also
 

@@ -24,9 +24,19 @@ public class IfcPointOnSurface : IfcPoint
 
 | Name | Description |
 | --- | --- |
-| [BasisSurface](basissurface) { get; set; } | BasisSurface |
-| [PointParameterU](pointparameteru) { get; set; } | PointParameterU |
-| [PointParameterV](pointparameterv) { get; set; } | PointParameterV |
+| [BasisSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpointonsurface/basissurface) { get; set; } | BasisSurface |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [PointParameterU](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpointonsurface/pointparameteru) { get; set; } | PointParameterU |
+| [PointParameterV](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpointonsurface/pointparameterv) { get; set; } | PointParameterV |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

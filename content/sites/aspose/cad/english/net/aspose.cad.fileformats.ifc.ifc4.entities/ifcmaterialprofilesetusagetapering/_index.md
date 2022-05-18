@@ -24,8 +24,20 @@ public class IfcMaterialProfileSetUsageTapering : IfcMaterialProfileSetUsage
 
 | Name | Description |
 | --- | --- |
-| [CardinalEndPoint](cardinalendpoint) { get; set; } | CardinalEndPoint |
-| [ForProfileEndSet](forprofileendset) { get; set; } | ForProfileEndSet |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/associatedto) { get; } | AssociatedTo |
+| [CardinalEndPoint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusagetapering/cardinalendpoint) { get; set; } | CardinalEndPoint |
+| [CardinalPoint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/cardinalpoint) { get; set; } | CardinalPoint |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ForProfileEndSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusagetapering/forprofileendset) { get; set; } | ForProfileEndSet |
+| [ForProfileSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/forprofileset) { get; set; } | ForProfileSet |
+| [ReferenceExtent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/referenceextent) { get; set; } | ReferenceExtent |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

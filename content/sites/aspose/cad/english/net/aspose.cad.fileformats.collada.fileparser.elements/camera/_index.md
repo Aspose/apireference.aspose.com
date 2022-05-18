@@ -24,11 +24,11 @@ public class Camera
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Id](id) { get; set; } | Gets or sets the id. A text string containing the unique identifier of the camera element. This value must be unique within the instance document. Optional. |
-| [Name](name) { get; set; } | Gets or sets the name. Optional. |
-| [Optics](optics) { get; set; } | Gets or sets the optics. Describes the field of view and viewing frustum using canonical parameters. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/camera/asset) { get; set; } | Gets or sets the asset. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/camera/extra) { get; set; } | Gets or sets the extra. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/camera/id) { get; set; } | Gets or sets the id. A text string containing the unique identifier of the camera element. This value must be unique within the instance document. Optional. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/camera/name) { get; set; } | Gets or sets the name. Optional. |
+| [Optics](../../aspose.cad.fileformats.collada.fileparser.elements/camera/optics) { get; set; } | Gets or sets the optics. Describes the field of view and viewing frustum using canonical parameters. |
 
 ### See Also
 

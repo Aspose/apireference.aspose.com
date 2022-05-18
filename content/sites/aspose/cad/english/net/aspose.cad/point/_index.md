@@ -24,31 +24,31 @@ public struct Point
 
 | Name | Description |
 | --- | --- |
-| static [Empty](empty) { get; } |  |
-| [IsEmpty](isempty) { get; } |  |
-| [X](x) { get; set; } |  |
-| [Y](y) { get; set; } |  |
+| static [Empty](../../aspose.cad/point/empty) { get; } |  |
+| [IsEmpty](../../aspose.cad/point/isempty) { get; } |  |
+| [X](../../aspose.cad/point/x) { get; set; } |  |
+| [Y](../../aspose.cad/point/y) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Add](add)(Point, Size) |  |
-| static [Ceiling](ceiling)(PointF) |  |
-| static [Round](round)(PointF) |  |
-| static [Subtract](subtract)(Point, Size) |  |
-| static [Truncate](truncate)(PointF) |  |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [Offset](offset)(Point) |  |
-| [Offset](offset)(int, int) |  |
-| override [ToString](tostring)() |  |
-| [operator +](op_addition) |  |
-| [operator ==](op_equality) |  |
-| [explicit operator](op_explicit) |  (2 operators) |
-| [implicit operator](op_implicit) |  |
-| [operator !=](op_inequality) |  |
-| [operator -](op_subtraction) |  |
+| static [Add](../../aspose.cad/point/add)(Point, Size) |  |
+| static [Ceiling](../../aspose.cad/point/ceiling)(PointF) |  |
+| static [Round](../../aspose.cad/point/round)(PointF) |  |
+| static [Subtract](../../aspose.cad/point/subtract)(Point, Size) |  |
+| static [Truncate](../../aspose.cad/point/truncate)(PointF) |  |
+| override [Equals](../../aspose.cad/point/equals)(object) |  |
+| override [GetHashCode](../../aspose.cad/point/gethashcode)() |  |
+| [Offset](../../aspose.cad/point/offset)(Point) |  |
+| [Offset](../../aspose.cad/point/offset)(int, int) |  |
+| override [ToString](../../aspose.cad/point/tostring)() |  |
+| [operator +](../../aspose.cad/point/op_addition) |  |
+| [operator ==](../../aspose.cad/point/op_equality) |  |
+| [explicit operator](../../aspose.cad/point/op_explicit) |  (2 operators) |
+| [implicit operator](../../aspose.cad/point/op_implicit) |  |
+| [operator !=](../../aspose.cad/point/op_inequality) |  |
+| [operator -](../../aspose.cad/point/op_subtraction) |  |
 
 ### See Also
 

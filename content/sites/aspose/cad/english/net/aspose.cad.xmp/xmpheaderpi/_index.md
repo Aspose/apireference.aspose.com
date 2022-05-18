@@ -23,16 +23,16 @@ public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [Guid](guid) { get; set; } |  |
+| [Guid](../../aspose.cad.xmp/xmpheaderpi/guid) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) |  |
-| [Equals](equals)(XmpHeaderPi) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [GetXmlValue](getxmlvalue)() |  |
+| override [Equals](../../aspose.cad.xmp/xmpheaderpi/equals)(object) |  |
+| [Equals](../../aspose.cad.xmp/xmpheaderpi/equals)(XmpHeaderPi) |  |
+| override [GetHashCode](../../aspose.cad.xmp/xmpheaderpi/gethashcode)() |  |
+| [GetXmlValue](../../aspose.cad.xmp/xmpheaderpi/getxmlvalue)() |  |
 
 ### See Also
 

@@ -24,12 +24,23 @@ public class IfcMaterialConstituent : IfcMaterialDefinition
 
 | Name | Description |
 | --- | --- |
-| [Category](category) { get; set; } | Category |
-| [Description](description) { get; set; } | Description |
-| [Fraction](fraction) { get; set; } | Fraction |
-| [Material](material) { get; set; } | Material |
-| [Name](name) { get; set; } | Name |
-| [ToMaterialConstituentSet](tomaterialconstituentset) { get; } | ToMaterialConstituentSet |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/associatedto) { get; } | AssociatedTo |
+| [Category](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/category) { get; set; } | Category |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Fraction](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/fraction) { get; set; } | Fraction |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences) { get; } | HasExternalReferences |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasproperties) { get; } | HasProperties |
+| [Material](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/material) { get; set; } | Material |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/name) { get; set; } | Name |
+| [ToMaterialConstituentSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/tomaterialconstituentset) { get; } | ToMaterialConstituentSet |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

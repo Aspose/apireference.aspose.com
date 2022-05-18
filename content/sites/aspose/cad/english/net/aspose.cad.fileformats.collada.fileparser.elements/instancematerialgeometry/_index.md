@@ -24,13 +24,13 @@ public class InstanceMaterialGeometry : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Bind](bind) { get; set; } | Gets or sets the bind. The bind element binds values to effect parameters upon instantiation. |
-| [BindVertexInput](bindvertexinput) { get; set; } | Gets or sets the bind vertex input. The bind_vertex_input element binds vertex inputs to effect parameters upon instantiation. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
-| [Sid](sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element. Optional attribute. |
-| [Symbol](symbol) { get; set; } | Gets or sets the symbol. The symbol attribute specifies which symbol defined from within the geometry this material binds to. |
-| [Target](target) { get; set; } | Gets or sets the target. The target attribute specifies the URL of the location of the object to instantiate. |
+| [Bind](../../aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/bind) { get; set; } | Gets or sets the bind. The bind element binds values to effect parameters upon instantiation. |
+| [BindVertexInput](../../aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/bindvertexinput) { get; set; } | Gets or sets the bind vertex input. The bind_vertex_input element binds vertex inputs to effect parameters upon instantiation. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/extra) { get; set; } | Gets or sets the extra. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/sid) { get; set; } | Gets or sets the sid. The sid attribute is a text string value containing the sub-identifier of this element. This value must be unique within the scope of the parent element. Optional attribute. |
+| [Symbol](../../aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/symbol) { get; set; } | Gets or sets the symbol. The symbol attribute specifies which symbol defined from within the geometry this material binds to. |
+| [Target](../../aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/target) { get; set; } | Gets or sets the target. The target attribute specifies the URL of the location of the object to instantiate. |
 
 ### See Also
 

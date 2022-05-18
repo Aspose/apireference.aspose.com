@@ -24,8 +24,8 @@ public class Ellipse : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Radius](radius) { get; set; } | Gets or sets the radius. Contains two floating-point numbers that specify the radii of the ellipse. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/ellipse/extra) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/ellipse/radius) { get; set; } | Gets or sets the radius. Contains two floating-point numbers that specify the radii of the ellipse. |
 
 ### See Also
 

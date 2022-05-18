@@ -24,9 +24,18 @@ public class IfcCurveStyle : IfcPresentationStyle
 
 | Name | Description |
 | --- | --- |
-| [CurveColour](curvecolour) { get; set; } | CurveColour |
-| [CurveFont](curvefont) { get; set; } | CurveFont |
-| [CurveWidth](curvewidth) { get; set; } | CurveWidth |
+| [CurveColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestyle/curvecolour) { get; set; } | CurveColour |
+| [CurveFont](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestyle/curvefont) { get; set; } | CurveFont |
+| [CurveWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestyle/curvewidth) { get; set; } | CurveWidth |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

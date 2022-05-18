@@ -18,34 +18,42 @@ public abstract class Image : DataStreamSupporter, IObjectWithBounds
 
 | Name | Description |
 | --- | --- |
-| [Bounds](bounds) { get; } | Gets the image bounds. |
-| [Container](container) { get; } | Gets the [`Image`](../image) container. |
-| abstract [Height](height) { get; } | Gets the image height. |
-| [Palette](palette) { get; set; } | Gets or sets the color palette. |
-| [Size](size) { get; } | Gets the image size. |
-| virtual [UnitlessDefaultUnitType](unitlessdefaultunittype) { get; } | Assumed unit type when UnitType is set to Unitless |
-| [UnitType](unittype) { get; } | Gets current unit type. |
-| abstract [Width](width) { get; } | Gets the image width. |
+| [Bounds](../../aspose.cad/image/bounds) { get; } | Gets the image bounds. |
+| [Container](../../aspose.cad/image/container) { get; } | Gets the [`Image`](../image) container. |
+| [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer) { get; } |  |
+| [Disposed](../../aspose.cad/disposableobject/disposed) { get; } |  |
+| abstract [Height](../../aspose.cad/image/height) { get; } | Gets the image height. |
+| abstract [IsCached](../../aspose.cad/datastreamsupporter/iscached) { get; } |  |
+| [Palette](../../aspose.cad/image/palette) { get; set; } | Gets or sets the color palette. |
+| [Size](../../aspose.cad/image/size) { get; } | Gets the image size. |
+| virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype) { get; } | Assumed unit type when UnitType is set to Unitless |
+| [UnitType](../../aspose.cad/image/unittype) { get; } | Gets current unit type. |
+| abstract [Width](../../aspose.cad/image/width) { get; } | Gets the image width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Load](load)(Stream) | Loads a new image from the specified stream. |
-| static [Load](load)(string) | Loads a new image from the specified file. |
-| static [Load](load)(Stream, LoadOptions) | Loads a new image from the specified stream. |
-| static [Load](load)(string, LoadOptions) | Loads a new image from the specified file. |
-| [CanSave](cansave)(ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
-| virtual [GetStrings](getstrings)() | Gets all string values from image. |
-| [Save](save)() | Saves the image data to the underlying stream. |
-| [Save](save)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
-| virtual [Save](save)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| static [CanLoad](canload)(Stream) | Determines whether image can be loaded from the specified stream. |
-| static [CanLoad](canload)(string) | Determines whether image can be loaded from the specified file path. |
-| static [CanLoad](canload)(Stream, LoadOptions) | Determines whether image can be loaded from the specified stream and optionally using the specified *loadOptions*. |
-| static [CanLoad](canload)(string, LoadOptions) | Determines whether an image can be loaded from the specified file path and optionally using the specified open options |
-| static [GetFileFormat](getfileformat)(Stream) | Gets the file format. |
-| static [GetFileFormat](getfileformat)(string) | Gets the file format. |
+| static [Load](../../aspose.cad/image/load)(Stream) | Loads a new image from the specified stream. |
+| static [Load](../../aspose.cad/image/load)(string) | Loads a new image from the specified file. |
+| static [Load](../../aspose.cad/image/load)(Stream, LoadOptions) | Loads a new image from the specified stream. |
+| static [Load](../../aspose.cad/image/load)(string, LoadOptions) | Loads a new image from the specified file. |
+| abstract [CacheData](../../aspose.cad/datastreamsupporter/cachedata)() |  |
+| [CanSave](../../aspose.cad/image/cansave)(ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [Dispose](../../aspose.cad/disposableobject/dispose)() |  |
+| virtual [GetStrings](../../aspose.cad/image/getstrings)() | Gets all string values from image. |
+| [Save](../../aspose.cad/image/save)() | Saves the image data to the underlying stream. |
+| [Save](../../aspose.cad/datastreamsupporter/save)(Stream) |  |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)(string) |  |
+| [Save](../../aspose.cad/image/save)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| virtual [Save](../../aspose.cad/datastreamsupporter/save)(string, bool) |  |
+| virtual [Save](../../aspose.cad/image/save)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| static [CanLoad](../../aspose.cad/image/canload)(Stream) | Determines whether image can be loaded from the specified stream. |
+| static [CanLoad](../../aspose.cad/image/canload)(string) | Determines whether image can be loaded from the specified file path. |
+| static [CanLoad](../../aspose.cad/image/canload)(Stream, LoadOptions) | Determines whether image can be loaded from the specified stream and optionally using the specified *loadOptions*. |
+| static [CanLoad](../../aspose.cad/image/canload)(string, LoadOptions) | Determines whether an image can be loaded from the specified file path and optionally using the specified open options |
+| static [GetFileFormat](../../aspose.cad/image/getfileformat)(Stream) | Gets the file format. |
+| static [GetFileFormat](../../aspose.cad/image/getfileformat)(string) | Gets the file format. |
 
 ### See Also
 

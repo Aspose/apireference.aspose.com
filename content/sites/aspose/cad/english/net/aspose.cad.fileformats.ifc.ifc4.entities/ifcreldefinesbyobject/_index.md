@@ -24,8 +24,20 @@ public class IfcRelDefinesByObject : IfcRelDefines
 
 | Name | Description |
 | --- | --- |
-| [RelatedObjects](relatedobjects) { get; set; } | RelatedObjects |
-| [RelatingObject](relatingobject) { get; set; } | RelatingObject |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [RelatedObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreldefinesbyobject/relatedobjects) { get; set; } | RelatedObjects |
+| [RelatingObject](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreldefinesbyobject/relatingobject) { get; set; } | RelatingObject |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

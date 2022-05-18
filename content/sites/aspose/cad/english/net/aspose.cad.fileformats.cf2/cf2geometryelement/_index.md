@@ -18,9 +18,11 @@ public abstract class CF2GeometryElement : CF2DrawnElement
 
 | Name | Description |
 | --- | --- |
-| [AdditionLineType](additionlinetype) { get; set; } | The addition line type |
-| [LineThickness](linethickness) { get; set; } | The line thickness |
-| [LineType](linetype) { get; set; } | The line type |
+| [AdditionLineType](../../aspose.cad.fileformats.cf2/cf2geometryelement/additionlinetype) { get; set; } | The addition line type |
+| [LineThickness](../../aspose.cad.fileformats.cf2/cf2geometryelement/linethickness) { get; set; } | The line thickness |
+| [LineType](../../aspose.cad.fileformats.cf2/cf2geometryelement/linetype) { get; set; } | The line type |
+| [StartPoint](../../aspose.cad.fileformats.cf2/cf2drawnelement/startpoint) { get; set; } | The start point |
+| [TypeDElement](../../aspose.cad.fileformats.cf2/cf2drawnelement/typedelement) { get; } | The type of the drawn element |
 
 ### See Also
 

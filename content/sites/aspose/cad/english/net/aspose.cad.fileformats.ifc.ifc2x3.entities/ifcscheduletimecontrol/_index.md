@@ -24,25 +24,44 @@ public class IfcScheduleTimeControl : IfcControl
 
 | Name | Description |
 | --- | --- |
-| [ActualDuration](actualduration) { get; set; } | ActualDuration |
-| [ActualFinish](actualfinish) { get; set; } | ActualFinish |
-| [ActualStart](actualstart) { get; set; } | ActualStart |
-| [Completion](completion) { get; set; } | Completion |
-| [EarlyFinish](earlyfinish) { get; set; } | EarlyFinish |
-| [EarlyStart](earlystart) { get; set; } | EarlyStart |
-| [FinishFloat](finishfloat) { get; set; } | FinishFloat |
-| [FreeFloat](freefloat) { get; set; } | FreeFloat |
-| [IsCritical](iscritical) { get; set; } | IsCritical |
-| [LateFinish](latefinish) { get; set; } | LateFinish |
-| [LateStart](latestart) { get; set; } | LateStart |
-| [RemainingTime](remainingtime) { get; set; } | RemainingTime |
-| [ScheduleDuration](scheduleduration) { get; set; } | ScheduleDuration |
-| [ScheduleFinish](schedulefinish) { get; set; } | ScheduleFinish |
-| [ScheduleStart](schedulestart) { get; set; } | ScheduleStart |
-| [ScheduleTimeControlAssigned](scheduletimecontrolassigned) { get; } | ScheduleTimeControlAssigned |
-| [StartFloat](startfloat) { get; set; } | StartFloat |
-| [StatusTime](statustime) { get; set; } | StatusTime |
-| [TotalFloat](totalfloat) { get; set; } | TotalFloat |
+| [ActualDuration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actualduration) { get; set; } | ActualDuration |
+| [ActualFinish](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actualfinish) { get; set; } | ActualFinish |
+| [ActualStart](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actualstart) { get; set; } | ActualStart |
+| [Completion](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/completion) { get; set; } | Completion |
+| [Controls](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccontrol/controls) { get; } | Controls |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes) { get; } | Decomposes |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description) { get; set; } | Description |
+| [EarlyFinish](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/earlyfinish) { get; set; } | EarlyFinish |
+| [EarlyStart](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/earlystart) { get; set; } | EarlyStart |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FinishFloat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/finishfloat) { get; set; } | FinishFloat |
+| [FreeFloat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/freefloat) { get; set; } | FreeFloat |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments) { get; } | HasAssignments |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations) { get; } | HasAssociations |
+| [IsCritical](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/iscritical) { get; set; } | IsCritical |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/isdecomposedby) { get; } | IsDecomposedBy |
+| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/isdefinedby) { get; } | IsDefinedBy |
+| [LateFinish](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/latefinish) { get; set; } | LateFinish |
+| [LateStart](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/latestart) { get; set; } | LateStart |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name) { get; set; } | Name |
+| [ObjectType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/objecttype) { get; set; } | ObjectType |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [RemainingTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/remainingtime) { get; set; } | RemainingTime |
+| [ScheduleDuration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/scheduleduration) { get; set; } | ScheduleDuration |
+| [ScheduleFinish](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedulefinish) { get; set; } | ScheduleFinish |
+| [ScheduleStart](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedulestart) { get; set; } | ScheduleStart |
+| [ScheduleTimeControlAssigned](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/scheduletimecontrolassigned) { get; } | ScheduleTimeControlAssigned |
+| [StartFloat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/startfloat) { get; set; } | StartFloat |
+| [StatusTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/statustime) { get; set; } | StatusTime |
+| [TotalFloat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/totalfloat) { get; set; } | TotalFloat |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

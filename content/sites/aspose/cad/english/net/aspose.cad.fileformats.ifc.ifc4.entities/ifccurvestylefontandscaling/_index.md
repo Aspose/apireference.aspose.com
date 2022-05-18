@@ -24,9 +24,17 @@ public class IfcCurveStyleFontAndScaling : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [CurveFont](curvefont) { get; set; } | CurveFont |
-| [CurveFontScaling](curvefontscaling) { get; set; } | CurveFontScaling |
-| [Name](name) { get; set; } | Name |
+| [CurveFont](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/curvefont) { get; set; } | CurveFont |
+| [CurveFontScaling](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/curvefontscaling) { get; set; } | CurveFontScaling |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

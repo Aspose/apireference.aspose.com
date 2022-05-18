@@ -24,8 +24,8 @@ public class Technique : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Any](any) { get; set; } | Gets or sets the any elements. |
-| [Profile](profile) { get; set; } | Gets or sets the profile. The profile attribute indicates the type of profile. This is a vendor defined character string that indicates the platform or capability target for the technique. Required attribute. |
+| [Any](../../aspose.cad.fileformats.collada.fileparser.elements/technique/any) { get; set; } | Gets or sets the any elements. |
+| [Profile](../../aspose.cad.fileformats.collada.fileparser.elements/technique/profile) { get; set; } | Gets or sets the profile. The profile attribute indicates the type of profile. This is a vendor defined character string that indicates the platform or capability target for the technique. Required attribute. |
 
 ### See Also
 

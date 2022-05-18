@@ -24,8 +24,8 @@ public class TechniqueOverride : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Pass](pass) { get; set; } | Gets or sets the pass. The pass attribute is optional and specifies the SID of one pass to execute. If not specified (or empty), then all of the technique’s passes are used. |
-| [Reference](reference) { get; set; } | Gets or sets the reference. The reference attribute is required and specifies the SID of a technique. |
+| [Pass](../../aspose.cad.fileformats.collada.fileparser.elements/techniqueoverride/pass) { get; set; } | Gets or sets the pass. The pass attribute is optional and specifies the SID of one pass to execute. If not specified (or empty), then all of the technique’s passes are used. |
+| [Reference](../../aspose.cad.fileformats.collada.fileparser.elements/techniqueoverride/reference) { get; set; } | Gets or sets the reference. The reference attribute is required and specifies the SID of a technique. |
 
 ### See Also
 

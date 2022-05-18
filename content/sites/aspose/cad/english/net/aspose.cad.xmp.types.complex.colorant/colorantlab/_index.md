@@ -23,15 +23,20 @@ public sealed class ColorantLab : ColorantBase
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } |  |
-| [B](b) { get; set; } |  |
-| [L](l) { get; set; } |  |
+| [A](../../aspose.cad.xmp.types.complex.colorant/colorantlab/a) { get; set; } |  |
+| [B](../../aspose.cad.xmp.types.complex.colorant/colorantlab/b) { get; set; } |  |
+| [ColorType](../../aspose.cad.xmp.types.complex.colorant/colorantbase/colortype) { get; set; } |  |
+| [L](../../aspose.cad.xmp.types.complex.colorant/colorantlab/l) { get; set; } |  |
+| [Mode](../../aspose.cad.xmp.types.complex.colorant/colorantbase/mode) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+| [SwatchName](../../aspose.cad.xmp.types.complex.colorant/colorantbase/swatchname) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.colorant/colorantlab/getxmprepresentation)() |  |
 
 ## Other Members
 

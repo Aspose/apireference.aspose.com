@@ -24,11 +24,11 @@ public class LibraryGeometries : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. The library_geometries element may contain an asset element. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Geometry](geometry) { get; set; } | Gets or sets the geometry. There must be at least one geometry element. |
-| [Id](id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/librarygeometries/asset) { get; set; } | Gets or sets the asset. The library_geometries element may contain an asset element. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/librarygeometries/extra) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Geometry](../../aspose.cad.fileformats.collada.fileparser.elements/librarygeometries/geometry) { get; set; } | Gets or sets the geometry. There must be at least one geometry element. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/librarygeometries/id) { get; set; } | Gets or sets the id. The id attribute is a text string containing the unique identifier of this element. This value must be unique within the instance document. Optional attribute. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/librarygeometries/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
 
 ### See Also
 

@@ -19,21 +19,38 @@ public class XmpBasicPackage : XmpPackage
 | [XmpBasicPackage](xmpbasicpackage)() | The default constructor. |
 | [XmpBasicPackage](xmpbasicpackage)(string, string) |  |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Item](../../aspose.cad.xmp/xmppackage/item) { get; set; } |  |
+| virtual [Keys](../../aspose.cad.xmp/xmppackage/keys) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp/xmppackage/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp/xmppackage/prefix) { get; } |  |
+| [XmlNamespace](../../aspose.cad.xmp/xmppackage/xmlnamespace) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddValue](addvalue)(string, string) |  |
-| [SetCreatedDate](setcreateddate)(DateTime) |  |
-| [SetCreatedDate](setcreateddate)(string) |  |
-| [SetCreatorTool](setcreatortool)(string) |  |
-| [SetIdentifier](setidentifier)(string[]) |  |
-| [SetLabel](setlabel)(string) |  |
-| [SetMetadataDate](setmetadatadate)(DateTime) |  |
-| [SetMetadataDate](setmetadatadate)(string) |  |
-| [SetModifyDate](setmodifydate)(DateTime) |  |
-| [SetModifyDate](setmodifydate)(string) |  |
-| [SetRating](setrating)(int) |  |
+| override [AddValue](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue)(string, string) |  |
+| virtual [Clear](../../aspose.cad.xmp/xmppackage/clear)() |  |
+| virtual [ContainsKey](../../aspose.cad.xmp/xmppackage/containskey)(string) |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackage/getenumerator)() |  |
+| virtual [GetXmlValue](../../aspose.cad.xmp/xmppackage/getxmlvalue)() |  |
+| virtual [Remove](../../aspose.cad.xmp/xmppackage/remove)(string) |  |
+| [SetCreatedDate](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate)(DateTime) |  |
+| [SetCreatedDate](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate)(string) |  |
+| [SetCreatorTool](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool)(string) |  |
+| [SetIdentifier](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier)(string[]) |  |
+| [SetLabel](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel)(string) |  |
+| [SetMetadataDate](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate)(DateTime) |  |
+| [SetMetadataDate](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate)(string) |  |
+| [SetModifyDate](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate)(DateTime) |  |
+| [SetModifyDate](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate)(string) |  |
+| [SetRating](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating)(int) |  |
+| virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
+| virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
 ## Other Members
 

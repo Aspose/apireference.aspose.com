@@ -24,9 +24,20 @@ public class IfcWorkTime : IfcSchedulingTime
 
 | Name | Description |
 | --- | --- |
-| [Finish](finish) { get; set; } | Finish |
-| [RecurrencePattern](recurrencepattern) { get; set; } | RecurrencePattern |
-| [Start](start) { get; set; } | Start |
+| [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin) { get; set; } | DataOrigin |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Finish](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/finish) { get; set; } | Finish |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name) { get; set; } | Name |
+| [RecurrencePattern](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/recurrencepattern) { get; set; } | RecurrencePattern |
+| [Start](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/start) { get; set; } | Start |
+| [UserDefinedDataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/userdefineddataorigin) { get; set; } | UserDefinedDataOrigin |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

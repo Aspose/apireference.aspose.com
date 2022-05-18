@@ -20,6 +20,12 @@ public class DgnDigitizerElement : DgnElement
 | --- | --- |
 | [DgnDigitizerElement](dgndigitizerelement)(byte[]) | Initializes a new instance of the [`DgnDigitizerElement`](../dgndigitizerelement) class |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+
 ### See Also
 
 * class [DgnElement](../dgnelement)

@@ -22,26 +22,62 @@ public class CadSpline : CadBaseEntity
 
 | Name | Description |
 | --- | --- |
-| [ControlPoints](controlpoints) { get; set; } |  |
-| [ControlPointsNumber](controlpointsnumber) { get; set; } |  |
-| [ControlPointTolerance](controlpointtolerance) { get; set; } |  |
-| [CurveDegree](curvedegree) { get; set; } |  |
-| [Degree](degree) { get; set; } |  |
-| [EndTangent](endtangent) { get; set; } |  |
-| [FitPoints](fitpoints) { get; set; } |  |
-| [FitPointsNumber](fitpointsnumber) { get; set; } |  |
-| [FitTolerance](fittolerance) { get; set; } |  |
-| [KnotsNumber](knotsnumber) { get; set; } |  |
-| [KnotTolerance](knottolerance) { get; set; } |  |
-| [KnotValues](knotvalues) { get; set; } |  |
-| [KnotWeight](knotweight) { get; set; } |  |
-| [NormalVector](normalvector) { get; set; } |  |
-| [Periodirc](periodirc) { get; set; } |  |
-| [Rational](rational) { get; set; } |  |
-| [SplineFlag](splineflag) { get; set; } |  |
-| [StartTangent](starttangent) { get; set; } |  |
-| override [TypeName](typename) { get; } |  |
-| [WeightParams](weightparams) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/bounds) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/childobjects) { get; set; } |  |
+| [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorid) { get; set; } |  |
+| [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorname) { get; set; } |  |
+| [ColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorvalue) { get; set; } |  |
+| [ControlPoints](../../aspose.cad.fileformats.cad.cadobjects/cadspline/controlpoints) { get; set; } |  |
+| [ControlPointsNumber](../../aspose.cad.fileformats.cad.cadobjects/cadspline/controlpointsnumber) { get; set; } |  |
+| [ControlPointTolerance](../../aspose.cad.fileformats.cad.cadobjects/cadspline/controlpointtolerance) { get; set; } |  |
+| [CurveDegree](../../aspose.cad.fileformats.cad.cadobjects/cadspline/curvedegree) { get; set; } |  |
+| [Degree](../../aspose.cad.fileformats.cad.cadobjects/cadspline/degree) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [EndTangent](../../aspose.cad.fileformats.cad.cadobjects/cadspline/endtangent) { get; set; } |  |
+| [Entmode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/entmode) { get; set; } |  |
+| [FitPoints](../../aspose.cad.fileformats.cad.cadobjects/cadspline/fitpoints) { get; set; } |  |
+| [FitPointsNumber](../../aspose.cad.fileformats.cad.cadobjects/cadspline/fitpointsnumber) { get; set; } |  |
+| [FitTolerance](../../aspose.cad.fileformats.cad.cadobjects/cadspline/fittolerance) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/hyperlink) { get; set; } |  |
+| [IsByLayer](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isbylayer) { get; set; } |  |
+| [IsNoLinks](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isnolinks) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [KnotsNumber](../../aspose.cad.fileformats.cad.cadobjects/cadspline/knotsnumber) { get; set; } |  |
+| [KnotTolerance](../../aspose.cad.fileformats.cad.cadobjects/cadspline/knottolerance) { get; set; } |  |
+| [KnotValues](../../aspose.cad.fileformats.cad.cadobjects/cadspline/knotvalues) { get; set; } |  |
+| [KnotWeight](../../aspose.cad.fileformats.cad.cadobjects/cadspline/knotweight) { get; set; } |  |
+| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/layername) { get; set; } |  |
+| [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/layouttabname) { get; set; } |  |
+| [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/linescale) { get; set; } |  |
+| [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/linetypename) { get; set; } |  |
+| [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/lineweight) { get; set; } |  |
+| [LType](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/ltype) { get; set; } |  |
+| [Material](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/material) { get; set; } |  |
+| [NormalVector](../../aspose.cad.fileformats.cad.cadobjects/cadspline/normalvector) { get; set; } |  |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/numreactors) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [Periodirc](../../aspose.cad.fileformats.cad.cadobjects/cadspline/periodirc) { get; set; } |  |
+| [PlotStyle](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/plotstyle) { get; set; } |  |
+| [PlotStyleFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/plotstyleflag) { get; set; } |  |
+| [ProxyBytesCount](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/proxybytescount) { get; set; } |  |
+| [ProxyData](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/proxydata) { get; set; } |  |
+| [Rational](../../aspose.cad.fileformats.cad.cadobjects/cadspline/rational) { get; set; } |  |
+| [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/shadowmode) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/spacemode) { get; set; } |  |
+| [SplineFlag](../../aspose.cad.fileformats.cad.cadobjects/cadspline/splineflag) { get; set; } |  |
+| [StartTangent](../../aspose.cad.fileformats.cad.cadobjects/cadspline/starttangent) { get; set; } |  |
+| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/storageflag) { get; set; } |  |
+| [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/transparency) { get; set; } |  |
+| override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadspline/typename) { get; } |  |
+| virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/visible) { get; set; } |  |
+| [WeightParams](../../aspose.cad.fileformats.cad.cadobjects/cadspline/weightparams) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+| [XDirMissingFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/xdirmissingflag) { get; set; } |  |
 
 ### See Also
 

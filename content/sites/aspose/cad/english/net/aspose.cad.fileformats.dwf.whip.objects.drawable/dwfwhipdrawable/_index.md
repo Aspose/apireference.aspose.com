@@ -18,14 +18,15 @@ public abstract class DwfWhipDrawable : DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| virtual [Color](color) { get; set; } | Gets or sets Color |
-| [IsVisible](isvisible) { get; set; } | Gets or sets a value indicating whether object is visible. |
-| [LayerIndex](layerindex) { get; set; } | Gets or sets layer index |
-| [LineStyle](linestyle) { get; set; } | Gets or sets line style |
-| [LineWeight](lineweight) { get; set; } | Gets or sets line weight |
-| abstract [MaxPoint](maxpoint) { get; } | Gets the max point of object. |
-| abstract [MinPoint](minpoint) { get; } | Gets the min point of object. |
-| [TransformMatrix](transformmatrix) { get; set; } | Gets or sets transform matrix |
+| virtual [Color](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/color) { get; set; } | Gets or sets Color |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [IsVisible](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/isvisible) { get; set; } | Gets or sets a value indicating whether object is visible. |
+| [LayerIndex](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/layerindex) { get; set; } | Gets or sets layer index |
+| [LineStyle](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/linestyle) { get; set; } | Gets or sets line style |
+| [LineWeight](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/lineweight) { get; set; } | Gets or sets line weight |
+| abstract [MaxPoint](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/maxpoint) { get; } | Gets the max point of object. |
+| abstract [MinPoint](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/minpoint) { get; } | Gets the min point of object. |
+| [TransformMatrix](../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/transformmatrix) { get; set; } | Gets or sets transform matrix |
 
 ### See Also
 

@@ -24,9 +24,18 @@ public class IfcSectionProperties : IfcPreDefinedProperties
 
 | Name | Description |
 | --- | --- |
-| [EndProfile](endprofile) { get; set; } | EndProfile |
-| [SectionType](sectiontype) { get; set; } | SectionType |
-| [StartProfile](startprofile) { get; set; } | StartProfile |
+| [EndProfile](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/endprofile) { get; set; } | EndProfile |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences) { get; } | HasExternalReferences |
+| [SectionType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/sectiontype) { get; set; } | SectionType |
+| [StartProfile](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/startprofile) { get; set; } | StartProfile |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

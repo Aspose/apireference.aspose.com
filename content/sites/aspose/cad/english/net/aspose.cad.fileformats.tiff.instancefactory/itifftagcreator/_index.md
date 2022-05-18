@@ -16,7 +16,7 @@ public interface ITiffTagCreator
 
 | Name | Description |
 | --- | --- |
-| [CreateInstance](createinstance)(ushort) |  |
+| [CreateInstance](../../aspose.cad.fileformats.tiff.instancefactory/itifftagcreator/createinstance)(ushort) |  |
 
 ### See Also
 

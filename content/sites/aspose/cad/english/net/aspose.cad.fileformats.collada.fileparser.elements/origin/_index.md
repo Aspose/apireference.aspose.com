@@ -24,7 +24,7 @@ public class Origin : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Text](text) { get; set; } | Gets or sets the values as text. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/origin/text) { get; set; } | Gets or sets the values as text. |
 
 ### See Also
 

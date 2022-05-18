@@ -24,13 +24,24 @@ public class IfcMaterialProfile : IfcMaterialDefinition
 
 | Name | Description |
 | --- | --- |
-| [Category](category) { get; set; } | Category |
-| [Description](description) { get; set; } | Description |
-| [Material](material) { get; set; } | Material |
-| [Name](name) { get; set; } | Name |
-| [Priority](priority) { get; set; } | Priority |
-| [Profile](profile) { get; set; } | Profile |
-| [ToMaterialProfileSet](tomaterialprofileset) { get; } | ToMaterialProfileSet |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/associatedto) { get; } | AssociatedTo |
+| [Category](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/category) { get; set; } | Category |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences) { get; } | HasExternalReferences |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasproperties) { get; } | HasProperties |
+| [Material](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/material) { get; set; } | Material |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/name) { get; set; } | Name |
+| [Priority](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/priority) { get; set; } | Priority |
+| [Profile](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/profile) { get; set; } | Profile |
+| [ToMaterialProfileSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/tomaterialprofileset) { get; } | ToMaterialProfileSet |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

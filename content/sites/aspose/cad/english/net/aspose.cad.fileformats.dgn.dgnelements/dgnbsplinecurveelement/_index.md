@@ -18,14 +18,15 @@ public class DgnBSplineCurveElement : DgnDrawingElementBase
 
 | Name | Description |
 | --- | --- |
-| [CurveType](curvetype) { get; } | Gets curve type |
-| [IsClosed](isclosed) { get; } | Gets a value indicating whether B-spline is closed |
-| [IsRational](isrational) { get; } | Gets a value indicating whether B-spline is rational |
-| [KnotElement](knotelement) { get; set; } | Gets or sets KNOT element |
-| override [MaxPoint](maxpoint) { get; } | Gets the max point of object. |
-| override [MinPoint](minpoint) { get; } | Gets the min point of object. |
-| [Order](order) { get; } | Gets B-spline order: 2-15 |
-| [PoleElement](poleelement) { get; set; } | Gets or sets pole element |
+| [CurveType](../../aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/curvetype) { get; } | Gets curve type |
+| [IsClosed](../../aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/isclosed) { get; } | Gets a value indicating whether B-spline is closed |
+| [IsRational](../../aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/isrational) { get; } | Gets a value indicating whether B-spline is rational |
+| [KnotElement](../../aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/knotelement) { get; set; } | Gets or sets KNOT element |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/minpoint) { get; } | Gets the min point of object. |
+| [Order](../../aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/order) { get; } | Gets B-spline order: 2-15 |
+| [PoleElement](../../aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/poleelement) { get; set; } | Gets or sets pole element |
 
 ### See Also
 

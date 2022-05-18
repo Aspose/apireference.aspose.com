@@ -22,18 +22,20 @@ public sealed class ResourceEvent : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Action](action) { get; set; } |  |
-| [ActionDate](actiondate) { get; set; } |  |
-| [Changed](changed) { get; set; } |  |
-| [InstanceId](instanceid) { get; set; } |  |
-| [Parameters](parameters) { get; set; } |  |
-| [SofwareAgentName](sofwareagentname) { get; set; } |  |
+| [Action](../../aspose.cad.xmp.types.complex.resourceevent/resourceevent/action) { get; set; } |  |
+| [ActionDate](../../aspose.cad.xmp.types.complex.resourceevent/resourceevent/actiondate) { get; set; } |  |
+| [Changed](../../aspose.cad.xmp.types.complex.resourceevent/resourceevent/changed) { get; set; } |  |
+| [InstanceId](../../aspose.cad.xmp.types.complex.resourceevent/resourceevent/instanceid) { get; set; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Parameters](../../aspose.cad.xmp.types.complex.resourceevent/resourceevent/parameters) { get; set; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+| [SofwareAgentName](../../aspose.cad.xmp.types.complex.resourceevent/resourceevent/sofwareagentname) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation)() |  |
 
 ### See Also
 

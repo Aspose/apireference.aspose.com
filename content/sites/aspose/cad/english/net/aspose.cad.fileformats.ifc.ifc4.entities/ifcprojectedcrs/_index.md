@@ -24,9 +24,22 @@ public class IfcProjectedCRS : IfcCoordinateReferenceSystem
 
 | Name | Description |
 | --- | --- |
-| [MapProjection](mapprojection) { get; set; } | MapProjection |
-| [MapUnit](mapunit) { get; set; } | MapUnit |
-| [MapZone](mapzone) { get; set; } | MapZone |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GeodeticDatum](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/geodeticdatum) { get; set; } | GeodeticDatum |
+| [HasCoordinateOperation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/hascoordinateoperation) { get; } | HasCoordinateOperation |
+| [MapProjection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/mapprojection) { get; set; } | MapProjection |
+| [MapUnit](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/mapunit) { get; set; } | MapUnit |
+| [MapZone](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/mapzone) { get; set; } | MapZone |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/name) { get; set; } | Name |
+| [VerticalDatum](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/verticaldatum) { get; set; } | VerticalDatum |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

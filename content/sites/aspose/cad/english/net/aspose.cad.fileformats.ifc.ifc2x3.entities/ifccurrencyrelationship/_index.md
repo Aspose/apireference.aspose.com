@@ -24,11 +24,19 @@ public class IfcCurrencyRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ExchangeRate](exchangerate) { get; set; } | ExchangeRate |
-| [RateDateTime](ratedatetime) { get; set; } | RateDateTime |
-| [RateSource](ratesource) { get; set; } | RateSource |
-| [RelatedMonetaryUnit](relatedmonetaryunit) { get; set; } | RelatedMonetaryUnit |
-| [RelatingMonetaryUnit](relatingmonetaryunit) { get; set; } | RelatingMonetaryUnit |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ExchangeRate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurrencyrelationship/exchangerate) { get; set; } | ExchangeRate |
+| [RateDateTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurrencyrelationship/ratedatetime) { get; set; } | RateDateTime |
+| [RateSource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurrencyrelationship/ratesource) { get; set; } | RateSource |
+| [RelatedMonetaryUnit](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurrencyrelationship/relatedmonetaryunit) { get; set; } | RelatedMonetaryUnit |
+| [RelatingMonetaryUnit](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurrencyrelationship/relatingmonetaryunit) { get; set; } | RelatingMonetaryUnit |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

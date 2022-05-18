@@ -24,8 +24,21 @@ public class IfcComplexProperty : IfcProperty
 
 | Name | Description |
 | --- | --- |
-| [HasProperties](hasproperties) { get; set; } | HasProperties |
-| [UsageName](usagename) { get; set; } | UsageName |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccomplexproperty/hasproperties) { get; set; } | HasProperties |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/name) { get; set; } | Name |
+| [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/partofcomplex) { get; } | PartOfComplex |
+| [PropertyDependsOn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/propertydependson) { get; } | PropertyDependsOn |
+| [PropertyForDependance](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/propertyfordependance) { get; } | PropertyForDependance |
+| [UsageName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccomplexproperty/usagename) { get; set; } | UsageName |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

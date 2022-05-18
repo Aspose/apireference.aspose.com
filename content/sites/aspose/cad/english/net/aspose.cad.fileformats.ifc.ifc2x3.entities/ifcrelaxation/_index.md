@@ -24,8 +24,16 @@ public class IfcRelaxation : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [InitialStress](initialstress) { get; set; } | InitialStress |
-| [RelaxationValue](relaxationvalue) { get; set; } | RelaxationValue |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [InitialStress](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/initialstress) { get; set; } | InitialStress |
+| [RelaxationValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/relaxationvalue) { get; set; } | RelaxationValue |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -22,14 +22,14 @@ public sealed class FileOpenSource : FileSource
 
 | Name | Description |
 | --- | --- |
-| [FilePath](filepath) { get; } |  |
-| override [IsTemporal](istemporal) { get; } |  |
+| [FilePath](../../aspose.cad.sources/fileopensource/filepath) { get; } |  |
+| override [IsTemporal](../../aspose.cad.sources/fileopensource/istemporal) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetStreamContainer](getstreamcontainer)() |  |
+| override [GetStreamContainer](../../aspose.cad.sources/fileopensource/getstreamcontainer)() |  |
 
 ### See Also
 

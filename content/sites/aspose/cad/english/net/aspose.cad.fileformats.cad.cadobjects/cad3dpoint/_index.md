@@ -24,24 +24,28 @@ public class Cad3DPoint : Cad2DPoint
 
 | Name | Description |
 | --- | --- |
-| [Z](z) { get; set; } |  |
+| [X](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/x) { get; set; } |  |
+| [Y](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/y) { get; set; } |  |
+| [Z](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/z) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Cross](cross)(Cad3DPoint, Cad3DPoint) |  |
-| static [Max](max)(Cad3DPoint, Cad3DPoint) |  |
-| static [Min](min)(Cad3DPoint, Cad3DPoint) |  |
-| static [RotatePoint](rotatepoint)(Cad3DPoint, Cad3DPoint, double) |  |
-| [Distance](distance)(Cad3DPoint) |  |
-| [Inverse](inverse)() |  |
-| [Length](length)() |  |
-| static [AngleBetween3Points](anglebetween3points)(Cad3DPoint, Cad3DPoint, Cad3DPoint) |  |
-| static [Dot](dot)(Cad3DPoint, Cad3DPoint) |  |
-| [operator +](op_addition) |  |
-| [operator *](op_multiply) |  |
-| [operator -](op_subtraction) |  |
+| static [Cross](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/cross)(Cad3DPoint, Cad3DPoint) |  |
+| static [Max](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/max)(Cad3DPoint, Cad3DPoint) |  |
+| static [Min](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/min)(Cad3DPoint, Cad3DPoint) |  |
+| static [RotatePoint](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/rotatepoint)(Cad3DPoint, Cad3DPoint, double) |  |
+| [Distance](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/distance)(Cad2DPoint) |  |
+| [Distance](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/distance)(Cad3DPoint) |  |
+| [GetApsPoint](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/getapspoint)() |  |
+| [Inverse](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/inverse)() |  |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/length)() |  |
+| static [AngleBetween3Points](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/anglebetween3points)(Cad3DPoint, Cad3DPoint, Cad3DPoint) |  |
+| static [Dot](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/dot)(Cad3DPoint, Cad3DPoint) |  |
+| [operator +](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_addition) |  |
+| [operator *](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_multiply) |  |
+| [operator -](../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_subtraction) |  |
 
 ### See Also
 

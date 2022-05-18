@@ -25,7 +25,7 @@ public class PsdImageResourceException : PsdImageException
 
 | Name | Description |
 | --- | --- |
-| [Resource](resource) { get; } | Gets the psd resource which caused this exception. |
+| [Resource](../../aspose.cad.cadexceptions.imageformats/psdimageresourceexception/resource) { get; } | Gets the psd resource which caused this exception. |
 
 ### See Also
 

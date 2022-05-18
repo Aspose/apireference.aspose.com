@@ -24,22 +24,22 @@ public class TiffSRational
 
 | Name | Description |
 | --- | --- |
-| [Denominator](denominator) { get; } |  |
-| [Nominator](nominator) { get; } |  |
-| [Value](value) { get; } |  |
-| [ValueD](valued) { get; } |  |
+| [Denominator](../../aspose.cad.fileformats.tiff/tiffsrational/denominator) { get; } |  |
+| [Nominator](../../aspose.cad.fileformats.tiff/tiffsrational/nominator) { get; } |  |
+| [Value](../../aspose.cad.fileformats.tiff/tiffsrational/value) { get; } |  |
+| [ValueD](../../aspose.cad.fileformats.tiff/tiffsrational/valued) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [ApproximateFraction](approximatefraction)(double) |  |
-| static [ApproximateFraction](approximatefraction)(float) |  |
-| static [ApproximateFraction](approximatefraction)(double, double) |  |
-| static [ApproximateFraction](approximatefraction)(float, double) |  |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| override [ToString](tostring)() |  |
+| static [ApproximateFraction](../../aspose.cad.fileformats.tiff/tiffsrational/approximatefraction)(double) |  |
+| static [ApproximateFraction](../../aspose.cad.fileformats.tiff/tiffsrational/approximatefraction)(float) |  |
+| static [ApproximateFraction](../../aspose.cad.fileformats.tiff/tiffsrational/approximatefraction)(double, double) |  |
+| static [ApproximateFraction](../../aspose.cad.fileformats.tiff/tiffsrational/approximatefraction)(float, double) |  |
+| override [Equals](../../aspose.cad.fileformats.tiff/tiffsrational/equals)(object) |  |
+| override [GetHashCode](../../aspose.cad.fileformats.tiff/tiffsrational/gethashcode)() |  |
+| override [ToString](../../aspose.cad.fileformats.tiff/tiffsrational/tostring)() |  |
 
 ## Other Members
 

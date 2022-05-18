@@ -24,17 +24,17 @@ public class PdfDigitalSignatureDetailsCore
 
 | Name | Description |
 | --- | --- |
-| [Certificate](certificate) { get; set; } | Certificate to sign with. |
-| [HashAlgorithm](hashalgorithm) { get; set; } | Hash algorithm. |
-| [Location](location) { get; set; } | Location of signing. |
-| [Reason](reason) { get; set; } | The reason of signing. |
-| [SignatureDate](signaturedate) { get; set; } | Date of signing. |
+| [Certificate](../../aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/certificate) { get; set; } | Certificate to sign with. |
+| [HashAlgorithm](../../aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/hashalgorithm) { get; set; } | Hash algorithm. |
+| [Location](../../aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/location) { get; set; } | Location of signing. |
+| [Reason](../../aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/reason) { get; set; } | The reason of signing. |
+| [SignatureDate](../../aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/signaturedate) { get; set; } | Date of signing. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToCoreOptions](tocoreoptions)() | Converts to core options |
+| [ToCoreOptions](../../aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/tocoreoptions)() | Converts to core options |
 
 ### See Also
 

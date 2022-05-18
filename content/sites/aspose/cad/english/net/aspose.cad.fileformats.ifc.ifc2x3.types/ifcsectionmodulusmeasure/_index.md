@@ -24,7 +24,7 @@ public class IfcSectionModulusMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsectionmodulusmeasure/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

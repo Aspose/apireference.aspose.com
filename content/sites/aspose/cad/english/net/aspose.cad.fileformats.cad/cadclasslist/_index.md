@@ -22,7 +22,7 @@ public class CadClassList : List<CadClassEntity>, ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() |  |
+| [Clone](../../aspose.cad.fileformats.cad/cadclasslist/clone)() |  |
 
 ### See Also
 

@@ -26,16 +26,27 @@ public class IfcTShapeProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [CentreOfGravityInY](centreofgravityiny) { get; set; } | CentreOfGravityInY |
-| [Depth](depth) { get; set; } | Depth |
-| [FilletRadius](filletradius) { get; set; } | FilletRadius |
-| [FlangeEdgeRadius](flangeedgeradius) { get; set; } | FlangeEdgeRadius |
-| [FlangeSlope](flangeslope) { get; set; } | FlangeSlope |
-| [FlangeThickness](flangethickness) { get; set; } | FlangeThickness |
-| [FlangeWidth](flangewidth) { get; set; } | FlangeWidth |
-| [WebEdgeRadius](webedgeradius) { get; set; } | WebEdgeRadius |
-| [WebSlope](webslope) { get; set; } | WebSlope |
-| [WebThickness](webthickness) { get; set; } | WebThickness |
+| [CentreOfGravityInY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/centreofgravityiny) { get; set; } | CentreOfGravityInY |
+| [Depth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/depth) { get; set; } | Depth |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/filletradius) { get; set; } | FilletRadius |
+| [FlangeEdgeRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/flangeedgeradius) { get; set; } | FlangeEdgeRadius |
+| [FlangeSlope](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/flangeslope) { get; set; } | FlangeSlope |
+| [FlangeThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/flangethickness) { get; set; } | FlangeThickness |
+| [FlangeWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/flangewidth) { get; set; } | FlangeWidth |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position) { get; set; } | Position |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+| [WebEdgeRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/webedgeradius) { get; set; } | WebEdgeRadius |
+| [WebSlope](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/webslope) { get; set; } | WebSlope |
+| [WebThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/webthickness) { get; set; } | WebThickness |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -22,9 +22,9 @@ public class CadMLineStyleElement
 
 | Name | Description |
 | --- | --- |
-| [ElementColor](elementcolor) { get; set; } |  |
-| [ElementLinetype](elementlinetype) { get; set; } |  |
-| [ElementOffset](elementoffset) { get; set; } |  |
+| [ElementColor](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementcolor) { get; set; } |  |
+| [ElementLinetype](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementlinetype) { get; set; } |  |
+| [ElementOffset](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementoffset) { get; set; } |  |
 
 ### See Also
 

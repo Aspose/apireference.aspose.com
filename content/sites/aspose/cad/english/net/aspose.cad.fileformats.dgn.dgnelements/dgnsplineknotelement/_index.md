@@ -14,6 +14,13 @@ Represents spline knot element
 public class DgnSplineKnotElement : DgnKnotWeightElement
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| [Weights](../../aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights) { get; } | Gets or sets weights of knot |
+
 ### See Also
 
 * class [DgnKnotWeightElement](../dgnknotweightelement)

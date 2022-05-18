@@ -18,7 +18,15 @@ public abstract class IfcTextureCoordinate : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [Maps](maps) { get; set; } | Maps |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Maps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinate/maps) { get; set; } | Maps |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

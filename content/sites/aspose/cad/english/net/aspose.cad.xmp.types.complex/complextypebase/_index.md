@@ -22,14 +22,14 @@ public class ComplexTypeBase : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [NamespaceUri](namespaceuri) { get; } |  |
-| [Prefix](prefix) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex/complextypebase/getxmprepresentation)() |  |
 
 ### See Also
 

@@ -25,21 +25,21 @@ public sealed class ColorPalette : IColorPalette
 
 | Name | Description |
 | --- | --- |
-| [Argb32Entries](argb32entries) { get; } |  |
-| [Entries](entries) { get; } |  |
-| [EntriesCount](entriescount) { get; } |  |
-| [IsCompactPalette](iscompactpalette) { get; } |  |
+| [Argb32Entries](../../aspose.cad/colorpalette/argb32entries) { get; } |  |
+| [Entries](../../aspose.cad/colorpalette/entries) { get; } |  |
+| [EntriesCount](../../aspose.cad/colorpalette/entriescount) { get; } |  |
+| [IsCompactPalette](../../aspose.cad/colorpalette/iscompactpalette) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CopyPalette](copypalette)(IColorPalette) |  |
-| static [CopyPalette](copypalette)(IColorPalette, bool) |  |
-| [GetArgb32Color](getargb32color)(int) |  |
-| [GetColor](getcolor)(int) |  |
-| [GetNearestColorIndex](getnearestcolorindex)(Color) |  |
-| [GetNearestColorIndex](getnearestcolorindex)(int) |  |
+| static [CopyPalette](../../aspose.cad/colorpalette/copypalette)(IColorPalette) |  |
+| static [CopyPalette](../../aspose.cad/colorpalette/copypalette)(IColorPalette, bool) |  |
+| [GetArgb32Color](../../aspose.cad/colorpalette/getargb32color)(int) |  |
+| [GetColor](../../aspose.cad/colorpalette/getcolor)(int) |  |
+| [GetNearestColorIndex](../../aspose.cad/colorpalette/getnearestcolorindex)(Color) |  |
+| [GetNearestColorIndex](../../aspose.cad/colorpalette/getnearestcolorindex)(int) |  |
 
 ### See Also
 

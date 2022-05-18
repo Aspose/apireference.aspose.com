@@ -18,12 +18,12 @@ public class CF2Main
 
 | Name | Description |
 | --- | --- |
-| [DrawnElements](drawnelements) { get; } | The drawn elements |
-| [LeftLowerCorner](leftlowercorner) { get; set; } | The coordinates of the lower left corner of the cutting |
-| [Name](name) { get; set; } | The name of section. |
-| [Scale](scale) { get; set; } | The scale |
-| [SystemCoordinate](systemcoordinate) { get; set; } | The type of coordinate system. |
-| [UpperRightCorner](upperrightcorner) { get; set; } | The coordinates of the upper right corner of the cutting |
+| [DrawnElements](../../aspose.cad.fileformats.cf2/cf2main/drawnelements) { get; } | The drawn elements |
+| [LeftLowerCorner](../../aspose.cad.fileformats.cf2/cf2main/leftlowercorner) { get; set; } | The coordinates of the lower left corner of the cutting |
+| [Name](../../aspose.cad.fileformats.cf2/cf2main/name) { get; set; } | The name of section. |
+| [Scale](../../aspose.cad.fileformats.cf2/cf2main/scale) { get; set; } | The scale |
+| [SystemCoordinate](../../aspose.cad.fileformats.cf2/cf2main/systemcoordinate) { get; set; } | The type of coordinate system. |
+| [UpperRightCorner](../../aspose.cad.fileformats.cf2/cf2main/upperrightcorner) { get; set; } | The coordinates of the upper right corner of the cutting |
 
 ### See Also
 

@@ -22,7 +22,7 @@ public class CadEmbeddedObjectContainer
 
 | Name | Description |
 | --- | --- |
-| [EmbeddedObjects](embeddedobjects) { get; set; } |  |
+| [EmbeddedObjects](../../aspose.cad.fileformats.cad.cadobjects/cadembeddedobjectcontainer/embeddedobjects) { get; set; } |  |
 
 ### See Also
 

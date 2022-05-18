@@ -24,8 +24,17 @@ public class IfcTextureCoordinateGenerator : IfcTextureCoordinate
 
 | Name | Description |
 | --- | --- |
-| [Mode](mode) { get; set; } | Mode |
-| [Parameter](parameter) { get; set; } | Parameter |
+| [AnnotatedSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinate/annotatedsurface) { get; } | AnnotatedSurface |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Mode](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinategenerator/mode) { get; set; } | Mode |
+| [Parameter](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinategenerator/parameter) { get; set; } | Parameter |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

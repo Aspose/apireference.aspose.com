@@ -24,10 +24,10 @@ public class SweptSurface : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Curve](curve) { get; set; } | Gets or sets the curve. Describes the base curve. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Items](items) { get; set; } | Gets or sets the items. |
-| [ItemsElementName](itemselementname) { get; set; } | Gets or sets the items element name. |
+| [Curve](../../aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/curve) { get; set; } | Gets or sets the curve. Describes the base curve. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/extra) { get; set; } | Gets or sets the extra. |
+| [Items](../../aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/items) { get; set; } | Gets or sets the items. |
+| [ItemsElementName](../../aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/itemselementname) { get; set; } | Gets or sets the items element name. |
 
 ### See Also
 

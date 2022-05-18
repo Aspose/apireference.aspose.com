@@ -24,11 +24,11 @@ public sealed class JFIFData
 
 | Name | Description |
 | --- | --- |
-| [DensityUnits](densityunits) { get; set; } | Gets or sets the density units. |
-| [Thumbnail](thumbnail) { get; set; } | Gets or sets the thumbnail. |
-| [Version](version) { get; set; } | Gets or sets the version. |
-| [XDensity](xdensity) { get; set; } | Gets or sets the x density. |
-| [YDensity](ydensity) { get; set; } | Gets or sets the y density. |
+| [DensityUnits](../../aspose.cad.fileformats.jpeg/jfifdata/densityunits) { get; set; } | Gets or sets the density units. |
+| [Thumbnail](../../aspose.cad.fileformats.jpeg/jfifdata/thumbnail) { get; set; } | Gets or sets the thumbnail. |
+| [Version](../../aspose.cad.fileformats.jpeg/jfifdata/version) { get; set; } | Gets or sets the version. |
+| [XDensity](../../aspose.cad.fileformats.jpeg/jfifdata/xdensity) { get; set; } | Gets or sets the x density. |
+| [YDensity](../../aspose.cad.fileformats.jpeg/jfifdata/ydensity) { get; set; } | Gets or sets the y density. |
 
 ### See Also
 

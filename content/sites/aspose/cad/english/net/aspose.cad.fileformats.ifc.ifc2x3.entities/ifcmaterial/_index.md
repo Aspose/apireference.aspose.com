@@ -24,9 +24,17 @@ public class IfcMaterial : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ClassifiedAs](classifiedas) { get; } | ClassifiedAs |
-| [HasRepresentation](hasrepresentation) { get; } | HasRepresentation |
-| [Name](name) { get; set; } | Name |
+| [ClassifiedAs](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterial/classifiedas) { get; } | ClassifiedAs |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasRepresentation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterial/hasrepresentation) { get; } | HasRepresentation |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterial/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

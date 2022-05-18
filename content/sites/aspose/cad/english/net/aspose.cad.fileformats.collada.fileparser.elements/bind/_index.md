@@ -24,8 +24,8 @@ public class Bind : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Semantic](semantic) { get; set; } | Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind. |
-| [Target](target) { get; set; } | Gets or sets the target. The target attribute specifies the location of the value to bind to the specified semantic. This text string is a path-name following a simple syntax described in the "Addressing Syntax" section. |
+| [Semantic](../../aspose.cad.fileformats.collada.fileparser.elements/bind/semantic) { get; set; } | Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind. |
+| [Target](../../aspose.cad.fileformats.collada.fileparser.elements/bind/target) { get; set; } | Gets or sets the target. The target attribute specifies the location of the value to bind to the specified semantic. This text string is a path-name following a simple syntax described in the "Addressing Syntax" section. |
 
 ### See Also
 

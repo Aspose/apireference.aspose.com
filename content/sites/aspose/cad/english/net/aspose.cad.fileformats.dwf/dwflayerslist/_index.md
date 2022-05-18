@@ -18,23 +18,23 @@ public sealed class DwfLayersList : ICollection<DwfWhipLayer>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of elements contained in the DwfLayersList. |
-| [IsReadOnly](isreadonly) { get; } | Gets a value indicating whether the DwfLayersList is read-only. |
+| [Count](../../aspose.cad.fileformats.dwf/dwflayerslist/count) { get; } | Gets the number of elements contained in the DwfLayersList. |
+| [IsReadOnly](../../aspose.cad.fileformats.dwf/dwflayerslist/isreadonly) { get; } | Gets a value indicating whether the DwfLayersList is read-only. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(DwfWhipLayer) | Adds an item to the DwfLayersList |
-| [Clear](clear)() | Removes all items from the DwfLayersList |
-| [Contains](contains)(DwfWhipLayer) | Determines whether the DwfLayersList contains a specific value. |
-| [CopyTo](copyto)(DwfWhipLayer[], int) | Copies the elements of DwfLayersList to an System.Array, starting at a particular System.Array index. |
-| [GetEnumerator](getenumerator)() | Enumeration of layers. |
-| [GetLayerByName](getlayerbyname)(string) | Gets first layer by name. |
-| [GetLayersByName](getlayersbyname)(string) | Gets layer by name. |
-| [GetLayersByNames](getlayersbynames)(string[]) | Gets layers by names. |
-| [GetLayersNames](getlayersnames)() | Gets the layers names. |
-| [Remove](remove)(DwfWhipLayer) | Removes the first occurrence of a specific object from the DwfLayersList. |
+| [Add](../../aspose.cad.fileformats.dwf/dwflayerslist/add)(DwfWhipLayer) | Adds an item to the DwfLayersList |
+| [Clear](../../aspose.cad.fileformats.dwf/dwflayerslist/clear)() | Removes all items from the DwfLayersList |
+| [Contains](../../aspose.cad.fileformats.dwf/dwflayerslist/contains)(DwfWhipLayer) | Determines whether the DwfLayersList contains a specific value. |
+| [CopyTo](../../aspose.cad.fileformats.dwf/dwflayerslist/copyto)(DwfWhipLayer[], int) | Copies the elements of DwfLayersList to an System.Array, starting at a particular System.Array index. |
+| [GetEnumerator](../../aspose.cad.fileformats.dwf/dwflayerslist/getenumerator)() | Enumeration of layers. |
+| [GetLayerByName](../../aspose.cad.fileformats.dwf/dwflayerslist/getlayerbyname)(string) | Gets first layer by name. |
+| [GetLayersByName](../../aspose.cad.fileformats.dwf/dwflayerslist/getlayersbyname)(string) | Gets layer by name. |
+| [GetLayersByNames](../../aspose.cad.fileformats.dwf/dwflayerslist/getlayersbynames)(string[]) | Gets layers by names. |
+| [GetLayersNames](../../aspose.cad.fileformats.dwf/dwflayerslist/getlayersnames)() | Gets the layers names. |
+| [Remove](../../aspose.cad.fileformats.dwf/dwflayerslist/remove)(DwfWhipLayer) | Removes the first occurrence of a specific object from the DwfLayersList. |
 
 ### See Also
 

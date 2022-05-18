@@ -24,8 +24,16 @@ public class IfcApprovalPropertyRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Approval](approval) { get; set; } | Approval |
-| [ApprovedProperties](approvedproperties) { get; set; } | ApprovedProperties |
+| [Approval](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalpropertyrelationship/approval) { get; set; } | Approval |
+| [ApprovedProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalpropertyrelationship/approvedproperties) { get; set; } | ApprovedProperties |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

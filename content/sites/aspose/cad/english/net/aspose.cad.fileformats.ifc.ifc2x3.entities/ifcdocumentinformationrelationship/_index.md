@@ -24,9 +24,17 @@ public class IfcDocumentInformationRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [RelatedDocuments](relateddocuments) { get; set; } | RelatedDocuments |
-| [RelatingDocument](relatingdocument) { get; set; } | RelatingDocument |
-| [RelationshipType](relationshiptype) { get; set; } | RelationshipType |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [RelatedDocuments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformationrelationship/relateddocuments) { get; set; } | RelatedDocuments |
+| [RelatingDocument](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformationrelationship/relatingdocument) { get; set; } | RelatingDocument |
+| [RelationshipType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformationrelationship/relationshiptype) { get; set; } | RelationshipType |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

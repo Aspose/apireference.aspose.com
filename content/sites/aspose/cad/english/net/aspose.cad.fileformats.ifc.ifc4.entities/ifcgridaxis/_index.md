@@ -24,13 +24,21 @@ public class IfcGridAxis : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [AxisCurve](axiscurve) { get; set; } | AxisCurve |
-| [AxisTag](axistag) { get; set; } | AxisTag |
-| [HasIntersections](hasintersections) { get; } | HasIntersections |
-| [PartOfU](partofu) { get; } | PartOfU |
-| [PartOfV](partofv) { get; } | PartOfV |
-| [PartOfW](partofw) { get; } | PartOfW |
-| [SameSense](samesense) { get; set; } | SameSense |
+| [AxisCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axiscurve) { get; set; } | AxisCurve |
+| [AxisTag](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axistag) { get; set; } | AxisTag |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasIntersections](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/hasintersections) { get; } | HasIntersections |
+| [PartOfU](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofu) { get; } | PartOfU |
+| [PartOfV](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofv) { get; } | PartOfV |
+| [PartOfW](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofw) { get; } | PartOfW |
+| [SameSense](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/samesense) { get; set; } | SameSense |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

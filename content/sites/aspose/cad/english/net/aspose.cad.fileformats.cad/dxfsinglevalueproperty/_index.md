@@ -23,7 +23,11 @@ public abstract class DxfSingleValueProperty : DxfPropertyAttribute
 
 | Name | Description |
 | --- | --- |
-| [Attribute](attribute) { get; set; } |  |
+| [Attribute](../../aspose.cad.fileformats.cad/dxfsinglevalueproperty/attribute) { get; set; } |  |
+| [HasDefaultValue](../../aspose.cad.fileformats.cad/dxfpropertyattribute/hasdefaultvalue) { get; set; } |  |
+| [ParameterType](../../aspose.cad.fileformats.cad/dxfpropertyattribute/parametertype) { get; set; } |  |
+| [PropertyInfo](../../aspose.cad.fileformats.cad/dxfpropertyattribute/propertyinfo) { get; set; } |  |
+| [SubClassName](../../aspose.cad.fileformats.cad/dxfpropertyattribute/subclassname) { get; set; } |  |
 
 ### See Also
 

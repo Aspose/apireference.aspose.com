@@ -23,8 +23,12 @@ public class Dxf2DPointAttribute : DxfPropertyAttribute
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } |  |
-| [Y](y) { get; set; } |  |
+| [HasDefaultValue](../../aspose.cad.fileformats.cad/dxfpropertyattribute/hasdefaultvalue) { get; set; } |  |
+| [ParameterType](../../aspose.cad.fileformats.cad/dxfpropertyattribute/parametertype) { get; set; } |  |
+| [PropertyInfo](../../aspose.cad.fileformats.cad/dxfpropertyattribute/propertyinfo) { get; set; } |  |
+| [SubClassName](../../aspose.cad.fileformats.cad/dxfpropertyattribute/subclassname) { get; set; } |  |
+| [X](../../aspose.cad.fileformats.cad/dxf2dpointattribute/x) { get; set; } |  |
+| [Y](../../aspose.cad.fileformats.cad/dxf2dpointattribute/y) { get; set; } |  |
 
 ### See Also
 

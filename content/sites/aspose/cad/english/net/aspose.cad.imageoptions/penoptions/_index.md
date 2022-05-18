@@ -24,8 +24,8 @@ public class PenOptions
 
 | Name | Description |
 | --- | --- |
-| [EndCap](endcap) { get; set; } | Gets or sets the end cap. |
-| [StartCap](startcap) { get; set; } | Gets or sets the start cap. |
+| [EndCap](../../aspose.cad.imageoptions/penoptions/endcap) { get; set; } | Gets or sets the end cap. |
+| [StartCap](../../aspose.cad.imageoptions/penoptions/startcap) { get; set; } | Gets or sets the start cap. |
 
 ### See Also
 

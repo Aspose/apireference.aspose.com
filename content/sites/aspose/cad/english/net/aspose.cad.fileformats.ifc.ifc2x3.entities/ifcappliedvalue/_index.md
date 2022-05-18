@@ -18,15 +18,23 @@ public abstract class IfcAppliedValue : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ApplicableDate](applicabledate) { get; set; } | ApplicableDate |
-| [AppliedValue](appliedvalue) { get; set; } | AppliedValue |
-| [Description](description) { get; set; } | Description |
-| [FixedUntilDate](fixeduntildate) { get; set; } | FixedUntilDate |
-| [IsComponentIn](iscomponentin) { get; } | IsComponentIn |
-| [Name](name) { get; set; } | Name |
-| [UnitBasis](unitbasis) { get; set; } | UnitBasis |
-| [ValueOfComponents](valueofcomponents) { get; } | ValueOfComponents |
-| [ValuesReferenced](valuesreferenced) { get; } | ValuesReferenced |
+| [ApplicableDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/applicabledate) { get; set; } | ApplicableDate |
+| [AppliedValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/appliedvalue) { get; set; } | AppliedValue |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FixedUntilDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/fixeduntildate) { get; set; } | FixedUntilDate |
+| [IsComponentIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/iscomponentin) { get; } | IsComponentIn |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/name) { get; set; } | Name |
+| [UnitBasis](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/unitbasis) { get; set; } | UnitBasis |
+| [ValueOfComponents](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/valueofcomponents) { get; } | ValueOfComponents |
+| [ValuesReferenced](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/valuesreferenced) { get; } | ValuesReferenced |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

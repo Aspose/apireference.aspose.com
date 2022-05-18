@@ -26,8 +26,18 @@ public class IfcLocalPlacement : IfcObjectPlacement
 
 | Name | Description |
 | --- | --- |
-| [PlacementRelTo](placementrelto) { get; set; } | PlacementRelTo |
-| [RelativePlacement](relativeplacement) { get; set; } | RelativePlacement |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [PlacementRelTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclocalplacement/placementrelto) { get; set; } | PlacementRelTo |
+| [PlacesObject](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/placesobject) { get; } | PlacesObject |
+| [ReferencedByPlacements](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/referencedbyplacements) { get; } | ReferencedByPlacements |
+| [RelativePlacement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclocalplacement/relativeplacement) { get; set; } | RelativePlacement |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

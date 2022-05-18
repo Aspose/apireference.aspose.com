@@ -24,14 +24,22 @@ public class IfcOrganization : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Addresses](addresses) { get; set; } | Addresses |
-| [Description](description) { get; set; } | Description |
-| [Engages](engages) { get; } | Engages |
-| [Id](id) { get; set; } | Id |
-| [IsRelatedBy](isrelatedby) { get; } | IsRelatedBy |
-| [Name](name) { get; set; } | Name |
-| [Relates](relates) { get; } | Relates |
-| [Roles](roles) { get; set; } | Roles |
+| [Addresses](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/addresses) { get; set; } | Addresses |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/description) { get; set; } | Description |
+| [Engages](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/engages) { get; } | Engages |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Id](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/id) { get; set; } | Id |
+| [IsRelatedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/isrelatedby) { get; } | IsRelatedBy |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/name) { get; set; } | Name |
+| [Relates](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/relates) { get; } | Relates |
+| [Roles](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/roles) { get; set; } | Roles |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -24,10 +24,10 @@ public class CameraOpticsTechniqueCommonOrthographic
 
 | Name | Description |
 | --- | --- |
-| [Items](items) { get; set; } | Gets or sets the items. |
-| [ItemsElementName](itemselementname) { get; set; } | Gets or sets the items element name. |
-| [Zfar](zfar) { get; set; } | Gets or sets the z far. Contains a floating-point number that describes the distance to the far clipping plane. |
-| [Znear](znear) { get; set; } | Gets or sets the z near. Contains a floating-point number that describes the distance to the near clipping plane. |
+| [Items](../../aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonorthographic/items) { get; set; } | Gets or sets the items. |
+| [ItemsElementName](../../aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonorthographic/itemselementname) { get; set; } | Gets or sets the items element name. |
+| [Zfar](../../aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonorthographic/zfar) { get; set; } | Gets or sets the z far. Contains a floating-point number that describes the distance to the far clipping plane. |
+| [Znear](../../aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonorthographic/znear) { get; set; } | Gets or sets the z near. Contains a floating-point number that describes the distance to the near clipping plane. |
 
 ### See Also
 

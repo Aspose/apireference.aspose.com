@@ -26,9 +26,19 @@ public class IfcSectionedSpine : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [CrossSectionPositions](crosssectionpositions) { get; set; } | CrossSectionPositions |
-| [CrossSections](crosssections) { get; set; } | CrossSections |
-| [SpineCurve](spinecurve) { get; set; } | SpineCurve |
+| [CrossSectionPositions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/crosssectionpositions) { get; set; } | CrossSectionPositions |
+| [CrossSections](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/crosssections) { get; set; } | CrossSections |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [SpineCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/spinecurve) { get; set; } | SpineCurve |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

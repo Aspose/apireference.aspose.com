@@ -24,8 +24,8 @@ public class PrimitivesWithHoles : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Holes](holes) { get; set; } | Gets or sets the holes. The hole element represents a hole in the polygon specified. There must be at least one hole element. |
-| [Primitives](primitives) { get; set; } | Gets or sets the primitives. |
+| [Holes](../../aspose.cad.fileformats.collada.fileparser.elements/primitiveswithholes/holes) { get; set; } | Gets or sets the holes. The hole element represents a hole in the polygon specified. There must be at least one hole element. |
+| [Primitives](../../aspose.cad.fileformats.collada.fileparser.elements/primitiveswithholes/primitives) { get; set; } | Gets or sets the primitives. |
 
 ### See Also
 

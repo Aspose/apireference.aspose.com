@@ -16,17 +16,17 @@ public interface ISummaryInfo
 
 | Name | Description |
 | --- | --- |
-| [Author](author) { get; } |  |
-| [Comments](comments) { get; } |  |
-| [CreateDateTime](createdatetime) { get; } |  |
-| [EditingTime](editingtime) { get; } |  |
-| [HyperlinkBase](hyperlinkbase) { get; } |  |
-| [Keywords](keywords) { get; } |  |
-| [LastSavedBy](lastsavedby) { get; } |  |
-| [ModifiedDateTime](modifieddatetime) { get; } |  |
-| [RevisionNumber](revisionnumber) { get; } |  |
-| [Subject](subject) { get; } |  |
-| [Title](title) { get; } |  |
+| [Author](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/author) { get; } |  |
+| [Comments](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/comments) { get; } |  |
+| [CreateDateTime](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/createdatetime) { get; } |  |
+| [EditingTime](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/editingtime) { get; } |  |
+| [HyperlinkBase](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/hyperlinkbase) { get; } |  |
+| [Keywords](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/keywords) { get; } |  |
+| [LastSavedBy](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/lastsavedby) { get; } |  |
+| [ModifiedDateTime](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/modifieddatetime) { get; } |  |
+| [RevisionNumber](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/revisionnumber) { get; } |  |
+| [Subject](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/subject) { get; } |  |
+| [Title](../../aspose.cad.fileformats.cad.cadobjects/isummaryinfo/title) { get; } |  |
 
 ### See Also
 

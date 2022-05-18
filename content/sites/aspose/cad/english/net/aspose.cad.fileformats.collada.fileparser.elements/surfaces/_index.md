@@ -24,8 +24,8 @@ public class Surfaces : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Surface](surface) { get; set; } | Gets or sets the surfaces collection. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/surfaces/extra) { get; set; } | Gets or sets the extra. |
+| [Surface](../../aspose.cad.fileformats.collada.fileparser.elements/surfaces/surface) { get; set; } | Gets or sets the surfaces collection. |
 
 ### See Also
 

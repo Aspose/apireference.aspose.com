@@ -24,10 +24,12 @@ public abstract class CF2OutputDescribing : CF2DrawnElement
 
 | Name | Description |
 | --- | --- |
-| [Angle](angle) { get; set; } | The angle |
-| [Color](color) { get; set; } | The text color |
-| [FontName](fontname) { get; set; } | The font name |
-| [FontSize](fontsize) { get; set; } | The font size |
+| [Angle](../../aspose.cad.fileformats.cf2/cf2outputdescribing/angle) { get; set; } | The angle |
+| [Color](../../aspose.cad.fileformats.cf2/cf2outputdescribing/color) { get; set; } | The text color |
+| [FontName](../../aspose.cad.fileformats.cf2/cf2outputdescribing/fontname) { get; set; } | The font name |
+| [FontSize](../../aspose.cad.fileformats.cf2/cf2outputdescribing/fontsize) { get; set; } | The font size |
+| [StartPoint](../../aspose.cad.fileformats.cf2/cf2drawnelement/startpoint) { get; set; } | The start point |
+| [TypeDElement](../../aspose.cad.fileformats.cf2/cf2drawnelement/typedelement) { get; } | The type of the drawn element |
 
 ### See Also
 

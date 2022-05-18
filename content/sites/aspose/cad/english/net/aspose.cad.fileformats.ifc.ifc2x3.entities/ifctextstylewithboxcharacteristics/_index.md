@@ -24,11 +24,19 @@ public class IfcTextStyleWithBoxCharacteristics : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [BoxHeight](boxheight) { get; set; } | BoxHeight |
-| [BoxRotateAngle](boxrotateangle) { get; set; } | BoxRotateAngle |
-| [BoxSlantAngle](boxslantangle) { get; set; } | BoxSlantAngle |
-| [BoxWidth](boxwidth) { get; set; } | BoxWidth |
-| [CharacterSpacing](characterspacing) { get; set; } | CharacterSpacing |
+| [BoxHeight](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/boxheight) { get; set; } | BoxHeight |
+| [BoxRotateAngle](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/boxrotateangle) { get; set; } | BoxRotateAngle |
+| [BoxSlantAngle](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/boxslantangle) { get; set; } | BoxSlantAngle |
+| [BoxWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/boxwidth) { get; set; } | BoxWidth |
+| [CharacterSpacing](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/characterspacing) { get; set; } | CharacterSpacing |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -18,7 +18,8 @@ public abstract class DgnKnotWeightElement : DgnElement
 
 | Name | Description |
 | --- | --- |
-| [Weights](weights) { get; } | Gets or sets weights of knot |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| [Weights](../../aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights) { get; } | Gets or sets weights of knot |
 
 ### See Also
 

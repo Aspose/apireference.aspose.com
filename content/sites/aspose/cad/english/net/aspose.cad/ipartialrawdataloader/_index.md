@@ -18,8 +18,8 @@ public interface IPartialRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [Process](process)(Rectangle, byte[], Point, Point) | Processes the loaded data. |
-| [Process](process)(Rectangle, byte[], Point, Point, LoadOptions) | Processes the loaded data. |
+| [Process](../../aspose.cad/ipartialrawdataloader/process)(Rectangle, byte[], Point, Point) | Processes the loaded data. |
+| [Process](../../aspose.cad/ipartialrawdataloader/process)(Rectangle, byte[], Point, Point, LoadOptions) | Processes the loaded data. |
 
 ### See Also
 

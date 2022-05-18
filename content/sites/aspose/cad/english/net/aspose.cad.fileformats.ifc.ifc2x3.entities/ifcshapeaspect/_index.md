@@ -24,11 +24,19 @@ public class IfcShapeAspect : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [Name](name) { get; set; } | Name |
-| [PartOfProductDefinitionShape](partofproductdefinitionshape) { get; set; } | PartOfProductDefinitionShape |
-| [ProductDefinitional](productdefinitional) { get; set; } | ProductDefinitional |
-| [ShapeRepresentations](shaperepresentations) { get; set; } | ShapeRepresentations |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/name) { get; set; } | Name |
+| [PartOfProductDefinitionShape](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/partofproductdefinitionshape) { get; set; } | PartOfProductDefinitionShape |
+| [ProductDefinitional](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/productdefinitional) { get; set; } | ProductDefinitional |
+| [ShapeRepresentations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/shaperepresentations) { get; set; } | ShapeRepresentations |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

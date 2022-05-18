@@ -24,12 +24,12 @@ public class Tristrips : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; set; } | Gets or sets the count. The count attribute indicates the number of triangle strip primitives. Required attribute. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Input](input) { get; set; } | Gets or sets the input. The input element may occur any number of times. This input is a local input with the offset and set attributes. |
-| [Material](material) { get; set; } | Gets or sets the material. The material attribute declares a symbol for a material. This symbol is bound to a material at the time of instantiation. If the material attribute is not specified then the lighting and shading results are application defined. Optional attribute. |
-| [Name](name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
-| [Primitives](primitives) { get; set; } | Gets or sets the primitives. The TRISTRIPS element may have any number of p elements. |
+| [Count](../../aspose.cad.fileformats.collada.fileparser.elements/tristrips/count) { get; set; } | Gets or sets the count. The count attribute indicates the number of triangle strip primitives. Required attribute. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/tristrips/extra) { get; set; } | Gets or sets the extra. |
+| [Input](../../aspose.cad.fileformats.collada.fileparser.elements/tristrips/input) { get; set; } | Gets or sets the input. The input element may occur any number of times. This input is a local input with the offset and set attributes. |
+| [Material](../../aspose.cad.fileformats.collada.fileparser.elements/tristrips/material) { get; set; } | Gets or sets the material. The material attribute declares a symbol for a material. This symbol is bound to a material at the time of instantiation. If the material attribute is not specified then the lighting and shading results are application defined. Optional attribute. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/tristrips/name) { get; set; } | Gets or sets the name. The name attribute is the text string name of this element. Optional attribute. |
+| [Primitives](../../aspose.cad.fileformats.collada.fileparser.elements/tristrips/primitives) { get; set; } | Gets or sets the primitives. The TRISTRIPS element may have any number of p elements. |
 
 ### See Also
 

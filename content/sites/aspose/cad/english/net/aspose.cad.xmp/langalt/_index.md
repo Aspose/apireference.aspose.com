@@ -23,9 +23,9 @@ public class LangAlt : IXmlValue
 
 | Name | Description |
 | --- | --- |
-| virtual [AddLanguage](addlanguage)(string, string) |  |
-| [GetXmlValue](getxmlvalue)() |  |
-| override [ToString](tostring)() |  |
+| virtual [AddLanguage](../../aspose.cad.xmp/langalt/addlanguage)(string, string) |  |
+| [GetXmlValue](../../aspose.cad.xmp/langalt/getxmlvalue)() |  |
+| override [ToString](../../aspose.cad.xmp/langalt/tostring)() |  |
 
 ### See Also
 

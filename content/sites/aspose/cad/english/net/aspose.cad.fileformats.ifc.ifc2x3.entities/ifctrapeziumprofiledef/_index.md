@@ -26,10 +26,21 @@ public class IfcTrapeziumProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [BottomXDim](bottomxdim) { get; set; } | BottomXDim |
-| [TopXDim](topxdim) { get; set; } | TopXDim |
-| [TopXOffset](topxoffset) { get; set; } | TopXOffset |
-| [YDim](ydim) { get; set; } | YDim |
+| [BottomXDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/bottomxdim) { get; set; } | BottomXDim |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position) { get; set; } | Position |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+| [TopXDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/topxdim) { get; set; } | TopXDim |
+| [TopXOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/topxoffset) { get; set; } | TopXOffset |
+| [YDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/ydim) { get; set; } | YDim |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

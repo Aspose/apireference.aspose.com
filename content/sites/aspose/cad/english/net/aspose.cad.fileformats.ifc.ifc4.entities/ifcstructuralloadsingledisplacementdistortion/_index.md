@@ -24,7 +24,22 @@ public class IfcStructuralLoadSingleDisplacementDistortion : IfcStructuralLoadSi
 
 | Name | Description |
 | --- | --- |
-| [Distortion](distortion) { get; set; } | Distortion |
+| [DisplacementX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/displacementx) { get; set; } | DisplacementX |
+| [DisplacementY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/displacementy) { get; set; } | DisplacementY |
+| [DisplacementZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/displacementz) { get; set; } | DisplacementZ |
+| [Distortion](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacementdistortion/distortion) { get; set; } | Distortion |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload/name) { get; set; } | Name |
+| [RotationalDisplacementRX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrx) { get; set; } | RotationalDisplacementRX |
+| [RotationalDisplacementRY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementry) { get; set; } | RotationalDisplacementRY |
+| [RotationalDisplacementRZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrz) { get; set; } | RotationalDisplacementRZ |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

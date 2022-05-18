@@ -24,17 +24,18 @@ public class DwfWhipLayer : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [Incarnation](incarnation) { get; } | Gets incarnation |
-| [IsVisible](isvisible) { get; } | Gets visibility |
-| [Name](name) { get; } | Gets name of DwfWhipLayer |
-| [Number](number) { get; } | Gets number |
+| [Incarnation](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/incarnation) { get; } | Gets incarnation |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [IsVisible](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/isvisible) { get; } | Gets visibility |
+| [Name](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/name) { get; } | Gets name of DwfWhipLayer |
+| [Number](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/number) { get; } | Gets number |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified System.Object is equal to the current DwfWhipLayer. |
-| override [GetHashCode](gethashcode)() | Hash code for the current DwfWhipLayer. |
+| override [Equals](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/equals)(object) | Determines whether the specified System.Object is equal to the current DwfWhipLayer. |
+| override [GetHashCode](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/gethashcode)() | Hash code for the current DwfWhipLayer. |
 
 ### See Also
 

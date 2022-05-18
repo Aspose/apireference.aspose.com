@@ -24,7 +24,7 @@ public class IfcModulusOfElasticityMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofelasticitymeasure/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class FxCommonFloatOrParameter : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; set; } | Gets or sets the item. |
+| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameter/item) { get; set; } | Gets or sets the item. |
 
 ### See Also
 

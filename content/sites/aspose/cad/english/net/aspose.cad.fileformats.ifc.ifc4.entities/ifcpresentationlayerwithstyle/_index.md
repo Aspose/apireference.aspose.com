@@ -24,10 +24,22 @@ public class IfcPresentationLayerWithStyle : IfcPresentationLayerAssignment
 
 | Name | Description |
 | --- | --- |
-| [LayerBlocked](layerblocked) { get; set; } | LayerBlocked |
-| [LayerFrozen](layerfrozen) { get; set; } | LayerFrozen |
-| [LayerOn](layeron) { get; set; } | LayerOn |
-| [LayerStyles](layerstyles) { get; set; } | LayerStyles |
+| [AssignedItems](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/assigneditems) { get; set; } | AssignedItems |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Identifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/identifier) { get; set; } | Identifier |
+| [LayerBlocked](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layerblocked) { get; set; } | LayerBlocked |
+| [LayerFrozen](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layerfrozen) { get; set; } | LayerFrozen |
+| [LayerOn](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layeron) { get; set; } | LayerOn |
+| [LayerStyles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layerstyles) { get; set; } | LayerStyles |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

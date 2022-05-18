@@ -22,14 +22,14 @@ public class CadDataTableColumn
 
 | Name | Description |
 | --- | --- |
-| [BooleanValue](booleanvalue) { get; set; } |  |
-| [ColumnType](columntype) { get; set; } |  |
-| [DoubleValue](doublevalue) { get; set; } |  |
-| [IntValue](intvalue) { get; set; } |  |
-| [Name](name) { get; set; } |  |
-| [Point2D](point2d) { get; set; } |  |
-| [Point3D](point3d) { get; set; } |  |
-| [StringValue](stringvalue) { get; set; } |  |
+| [BooleanValue](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/booleanvalue) { get; set; } |  |
+| [ColumnType](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/columntype) { get; set; } |  |
+| [DoubleValue](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/doublevalue) { get; set; } |  |
+| [IntValue](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/intvalue) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/name) { get; set; } |  |
+| [Point2D](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/point2d) { get; set; } |  |
+| [Point3D](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/point3d) { get; set; } |  |
+| [StringValue](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/stringvalue) { get; set; } |  |
 
 ### See Also
 

@@ -22,10 +22,21 @@ public class CadGroup : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } |  |
-| [HardPointerHandles](hardpointerhandles) { get; set; } |  |
-| [SelectabilityFlag](selectabilityflag) { get; set; } |  |
-| [UnnamedFlag](unnamedflag) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [Description](../../aspose.cad.fileformats.cad.cadobjects/cadgroup/description) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [HardPointerHandles](../../aspose.cad.fileformats.cad.cadobjects/cadgroup/hardpointerhandles) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [SelectabilityFlag](../../aspose.cad.fileformats.cad.cadobjects/cadgroup/selectabilityflag) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [UnnamedFlag](../../aspose.cad.fileformats.cad.cadobjects/cadgroup/unnamedflag) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

@@ -24,9 +24,17 @@ public class IfcActorRole : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Description |
-| [Role](role) { get; set; } | Role |
-| [UserDefinedRole](userdefinedrole) { get; set; } | UserDefinedRole |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactorrole/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Role](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactorrole/role) { get; set; } | Role |
+| [UserDefinedRole](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactorrole/userdefinedrole) { get; set; } | UserDefinedRole |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class CF2Aux
 
 | Name | Description |
 | --- | --- |
-| [LineTypeDefinitions](linetypedefinitions) { get; } | The line type definitions |
+| [LineTypeDefinitions](../../aspose.cad.fileformats.cf2/cf2aux/linetypedefinitions) { get; } | The line type definitions |
 
 ### See Also
 

@@ -24,11 +24,20 @@ public class IfcMechanicalMaterialProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [DynamicViscosity](dynamicviscosity) { get; set; } | DynamicViscosity |
-| [PoissonRatio](poissonratio) { get; set; } | PoissonRatio |
-| [ShearModulus](shearmodulus) { get; set; } | ShearModulus |
-| [ThermalExpansionCoefficient](thermalexpansioncoefficient) { get; set; } | ThermalExpansionCoefficient |
-| [YoungModulus](youngmodulus) { get; set; } | YoungModulus |
+| [DynamicViscosity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/dynamicviscosity) { get; set; } | DynamicViscosity |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material) { get; set; } | Material |
+| [PoissonRatio](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/poissonratio) { get; set; } | PoissonRatio |
+| [ShearModulus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/shearmodulus) { get; set; } | ShearModulus |
+| [ThermalExpansionCoefficient](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/thermalexpansioncoefficient) { get; set; } | ThermalExpansionCoefficient |
+| [YoungModulus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/youngmodulus) { get; set; } | YoungModulus |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

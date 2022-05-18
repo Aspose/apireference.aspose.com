@@ -24,7 +24,7 @@ public class IfcLanguageId : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifclanguageid/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

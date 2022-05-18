@@ -20,6 +20,12 @@ public class IfcModulusOfRotationalSubgradeReactionSelect : IfcSelect
 | --- | --- |
 | [IfcModulusOfRotationalSubgradeReactionSelect](ifcmodulusofrotationalsubgradereactionselect)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Value](../../aspose.cad.fileformats.ifc/ifcselect/value) { get; set; } | Gets or sets the value. |
+
 ### See Also
 
 * class [IfcSelect](../../aspose.cad.fileformats.ifc/ifcselect)

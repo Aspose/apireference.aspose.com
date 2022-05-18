@@ -22,15 +22,24 @@ public class CadUcsTableObject : CadBaseOwned
 
 | Name | Description |
 | --- | --- |
-| [BaseUCSHandle](baseucshandle) { get; set; } |  |
-| [DirectionX](directionx) { get; set; } |  |
-| [DirectionY](directiony) { get; set; } |  |
-| [Elevation](elevation) { get; set; } |  |
-| [Name](name) { get; set; } |  |
-| [Origin](origin) { get; set; } |  |
-| [OrthographicType](orthographictype) { get; set; } |  |
-| [OrthographicTypeOrigin](orthographictypeorigin) { get; set; } |  |
-| [StandardFlagValues](standardflagvalues) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [BaseUCSHandle](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/baseucshandle) { get; set; } |  |
+| [DirectionX](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/directionx) { get; set; } |  |
+| [DirectionY](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/directiony) { get; set; } |  |
+| [Elevation](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/elevation) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [Name](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/name) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [Origin](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/origin) { get; set; } |  |
+| [OrthographicType](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/orthographictype) { get; set; } |  |
+| [OrthographicTypeOrigin](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/orthographictypeorigin) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [StandardFlagValues](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/standardflagvalues) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

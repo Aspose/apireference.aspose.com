@@ -23,15 +23,15 @@ public class XmpArray : IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [Values](values) { get; } |  |
+| [Values](../../aspose.cad.xmp/xmparray/values) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddItem](additem)(string) |  |
-| [GetXmlValue](getxmlvalue)() |  |
-| override [ToString](tostring)() |  |
+| [AddItem](../../aspose.cad.xmp/xmparray/additem)(string) |  |
+| [GetXmlValue](../../aspose.cad.xmp/xmparray/getxmlvalue)() |  |
+| override [ToString](../../aspose.cad.xmp/xmparray/tostring)() |  |
 
 ### See Also
 

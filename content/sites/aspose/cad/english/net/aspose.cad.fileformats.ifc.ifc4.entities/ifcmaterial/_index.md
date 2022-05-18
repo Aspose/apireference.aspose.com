@@ -24,12 +24,23 @@ public class IfcMaterial : IfcMaterialDefinition
 
 | Name | Description |
 | --- | --- |
-| [Category](category) { get; set; } | Category |
-| [Description](description) { get; set; } | Description |
-| [HasRepresentation](hasrepresentation) { get; } | HasRepresentation |
-| [IsRelatedWith](isrelatedwith) { get; } | IsRelatedWith |
-| [Name](name) { get; set; } | Name |
-| [RelatesTo](relatesto) { get; } | RelatesTo |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/associatedto) { get; } | AssociatedTo |
+| [Category](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterial/category) { get; set; } | Category |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterial/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences) { get; } | HasExternalReferences |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasproperties) { get; } | HasProperties |
+| [HasRepresentation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterial/hasrepresentation) { get; } | HasRepresentation |
+| [IsRelatedWith](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterial/isrelatedwith) { get; } | IsRelatedWith |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterial/name) { get; set; } | Name |
+| [RelatesTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterial/relatesto) { get; } | RelatesTo |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

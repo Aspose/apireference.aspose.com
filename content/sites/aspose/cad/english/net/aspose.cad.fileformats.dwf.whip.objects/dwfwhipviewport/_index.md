@@ -25,9 +25,10 @@ public class DwfWhipViewPort : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [ContourSet](contourset) { get; } | Gets contours set |
-| [Incarnation](incarnation) { get; } | Gets Incarnation |
-| [Name](name) { get; } | Gets name of vieport |
+| [ContourSet](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipviewport/contourset) { get; } | Gets contours set |
+| [Incarnation](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipviewport/incarnation) { get; } | Gets Incarnation |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [Name](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipviewport/name) { get; } | Gets name of vieport |
 
 ### See Also
 

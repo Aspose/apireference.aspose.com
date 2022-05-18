@@ -24,11 +24,24 @@ public class IfcTelecomAddress : IfcAddress
 
 | Name | Description |
 | --- | --- |
-| [ElectronicMailAddresses](electronicmailaddresses) { get; set; } | ElectronicMailAddresses |
-| [FacsimileNumbers](facsimilenumbers) { get; set; } | FacsimileNumbers |
-| [PagerNumber](pagernumber) { get; set; } | PagerNumber |
-| [TelephoneNumbers](telephonenumbers) { get; set; } | TelephoneNumbers |
-| [WWWHomePageURL](wwwhomepageurl) { get; set; } | WWWHomePageURL |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/description) { get; set; } | Description |
+| [ElectronicMailAddresses](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctelecomaddress/electronicmailaddresses) { get; set; } | ElectronicMailAddresses |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FacsimileNumbers](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctelecomaddress/facsimilenumbers) { get; set; } | FacsimileNumbers |
+| [OfOrganization](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/oforganization) { get; } | OfOrganization |
+| [OfPerson](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/ofperson) { get; } | OfPerson |
+| [PagerNumber](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctelecomaddress/pagernumber) { get; set; } | PagerNumber |
+| [Purpose](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/purpose) { get; set; } | Purpose |
+| [TelephoneNumbers](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctelecomaddress/telephonenumbers) { get; set; } | TelephoneNumbers |
+| [UserDefinedPurpose](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/userdefinedpurpose) { get; set; } | UserDefinedPurpose |
+| [WWWHomePageURL](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctelecomaddress/wwwhomepageurl) { get; set; } | WWWHomePageURL |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

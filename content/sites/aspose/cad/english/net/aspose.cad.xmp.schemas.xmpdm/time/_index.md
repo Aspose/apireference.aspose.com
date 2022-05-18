@@ -22,14 +22,14 @@ public sealed class Time : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Scale](scale) { get; set; } |  |
-| [Value](value) { get; set; } |  |
+| [Scale](../../aspose.cad.xmp.schemas.xmpdm/time/scale) { get; set; } |  |
+| [Value](../../aspose.cad.xmp.schemas.xmpdm/time/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.schemas.xmpdm/time/getxmprepresentation)() |  |
 
 ### See Also
 

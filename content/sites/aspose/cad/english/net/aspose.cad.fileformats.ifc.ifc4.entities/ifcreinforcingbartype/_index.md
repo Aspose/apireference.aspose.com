@@ -24,13 +24,39 @@ public class IfcReinforcingBarType : IfcReinforcingElementType
 
 | Name | Description |
 | --- | --- |
-| [BarLength](barlength) { get; set; } | BarLength |
-| [BarSurface](barsurface) { get; set; } | BarSurface |
-| [BendingParameters](bendingparameters) { get; set; } | BendingParameters |
-| [BendingShapeCode](bendingshapecode) { get; set; } | BendingShapeCode |
-| [CrossSectionArea](crosssectionarea) { get; set; } | CrossSectionArea |
-| [NominalDiameter](nominaldiameter) { get; set; } | NominalDiameter |
-| [PredefinedType](predefinedtype) { get; set; } | PredefinedType |
+| [ApplicableOccurrence](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/applicableoccurrence) { get; set; } | ApplicableOccurrence |
+| [BarLength](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/barlength) { get; set; } | BarLength |
+| [BarSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/barsurface) { get; set; } | BarSurface |
+| [BendingParameters](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/bendingparameters) { get; set; } | BendingParameters |
+| [BendingShapeCode](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/bendingshapecode) { get; set; } | BendingShapeCode |
+| [CrossSectionArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/crosssectionarea) { get; set; } | CrossSectionArea |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes) { get; } | Decomposes |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description) { get; set; } | Description |
+| [ElementType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype/elementtype) { get; set; } | ElementType |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments) { get; } | HasAssignments |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations) { get; } | HasAssociations |
+| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext) { get; } | HasContext |
+| [HasPropertySets](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/haspropertysets) { get; set; } | HasPropertySets |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby) { get; } | IsDecomposedBy |
+| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby) { get; } | IsNestedBy |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name) { get; set; } | Name |
+| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests) { get; } | Nests |
+| [NominalDiameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/nominaldiameter) { get; set; } | NominalDiameter |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/predefinedtype) { get; set; } | PredefinedType |
+| [ReferencedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/referencedby) { get; } | ReferencedBy |
+| [RepresentationMaps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/representationmaps) { get; set; } | RepresentationMaps |
+| [Tag](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/tag) { get; set; } | Tag |
+| [Types](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/types) { get; } | Types |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

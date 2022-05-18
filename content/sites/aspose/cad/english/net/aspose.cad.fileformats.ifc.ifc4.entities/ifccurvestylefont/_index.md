@@ -24,8 +24,16 @@ public class IfcCurveStyleFont : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; set; } | Name |
-| [PatternList](patternlist) { get; set; } | PatternList |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefont/name) { get; set; } | Name |
+| [PatternList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefont/patternlist) { get; set; } | PatternList |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

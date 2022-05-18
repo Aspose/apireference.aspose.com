@@ -24,9 +24,9 @@ public class DwfFileHeuristics
 
 | Name | Description |
 | --- | --- |
-| [ShouldApplyTransform](shouldapplytransform) { get; set; } | Gets or sets apply transform flag |
-| [Transform](transform) { get; set; } | Gets or sets transform |
-| [W2dChannel](w2dchannel) { get; set; } | Gets or sets w2d channel |
+| [ShouldApplyTransform](../../aspose.cad.fileformats.dwf.whip.objects/dwffileheuristics/shouldapplytransform) { get; set; } | Gets or sets apply transform flag |
+| [Transform](../../aspose.cad.fileformats.dwf.whip.objects/dwffileheuristics/transform) { get; set; } | Gets or sets transform |
+| [W2dChannel](../../aspose.cad.fileformats.dwf.whip.objects/dwffileheuristics/w2dchannel) { get; set; } | Gets or sets w2d channel |
 
 ### See Also
 

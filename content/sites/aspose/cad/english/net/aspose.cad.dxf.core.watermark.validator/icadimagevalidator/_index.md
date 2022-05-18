@@ -16,8 +16,8 @@ public interface ICadImageValidator
 
 | Name | Description |
 | --- | --- |
-| [GetCurrentWatermarkTextOptions](getcurrentwatermarktextoptions)() |  |
-| [IsValidate](isvalidate)(CadImage) |  |
+| [GetCurrentWatermarkTextOptions](../../aspose.cad.dxf.core.watermark.validator/icadimagevalidator/getcurrentwatermarktextoptions)() |  |
+| [IsValidate](../../aspose.cad.dxf.core.watermark.validator/icadimagevalidator/isvalidate)(CadImage) |  |
 
 ### See Also
 

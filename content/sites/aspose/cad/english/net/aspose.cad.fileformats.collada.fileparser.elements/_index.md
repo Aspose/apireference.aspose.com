@@ -20,7 +20,7 @@ url: /net/aspose.cad.fileformats.collada.fileparser.elements/
 | [BindMaterial](./bindmaterial) | The bind material. Bind a specific material to a piece of geometry, binding varying and uniform parameters at the same time. |
 | [BindVertexInput](./bindvertexinput) | The bind vertex input. The bind_vertex_input element binds vertex inputs to effect parameters upon instantiation. |
 | [BoolArray](./boolarray) | The boolean array. The BOOL_ARRAY element declares the storage for a homogenous array of boolean values. |
-| [Brep](./brep) | The BREP. Describes a boundary representation (BREP) structure. |
+| [Brep](./brep) | The BREP. Describes a boundary representation (../BREP) structure. |
 | [Camera](./camera) | The camera. Declares a view of the visual scene hierarchy or scene graph. |
 | [CameraOptics](./cameraoptics) | The camera optics. Represents the apparatus on a camera that projects the image onto the image sensor. |
 | [CameraOpticsTechniqueCommon](./cameraopticstechniquecommon) | The camera optics technique common. |
@@ -32,7 +32,7 @@ url: /net/aspose.cad.fileformats.collada.fileparser.elements/
 | [Cone](./cone) | The cone. Describes a conical surface. |
 | [Contributor](./contributor) | The contributor. The contributor element defines authoring information for asset management. |
 | [ControlVertices](./controlvertices) | The control vertices. It is used to describe the CVs of the spline. |
-| [ConvexMesh](./convexmesh) | The convex mesh. The definition of the convex_mesh element is identical to the mesh element with the exception that instead of a complete description(source, vertices, polygons etc.), it may simply point to another geometry to derive its shape. The latter case means that the convex hull of that geometry should be computed and is indicated by the optional "convex_hull_of" attribute. |
+| [ConvexMesh](./convexmesh) | The convex mesh. The definition of the convex_mesh element is identical to the mesh element with the exception that instead of a complete description(../source, vertices, polygons etc.), it may simply point to another geometry to derive its shape. The latter case means that the convex hull of that geometry should be computed and is indicated by the optional "convex_hull_of" attribute. |
 | [Coverage](./coverage) | The coverage. Specifies the location of the asset using the WGS84 coordinate system. |
 | [Curve](./curve) | The curve. |
 | [Curves](./curves) | The curves. This element holds all the curves that are needed for the geometrical description of the topological entities edges. |
@@ -132,7 +132,7 @@ url: /net/aspose.cad.fileformats.collada.fileparser.elements/
 | [Triangles](./triangles) | The triangles. The triangles element provides the information needed to bind vertex attributes together and then organize those vertices into individual triangles. Each triangle described by the mesh has three vertices. The first triangle is formed from the first, second, and third vertices. The second triangle is formed from the fourth, fifth, and sixth vertices, and so on. |
 | [Trifans](./trifans) | The TRIFANS. The TRIFANS element provides the information needed to bind vertex attributes together and then organize those vertices into connected triangles. Each triangle described by the mesh has three vertices. The first triangle is formed from first, second, and third vertices. Each subsequent triangle is formed from the current vertex, reusing the first and the previous vertices. |
 | [Tristrips](./tristrips) | The TRISTRIPS. The TRISTRIPS element provides the information needed to bind vertex attributes together and then organize those vertices into connected triangles. Each triangle described by the mesh has three vertices. The first triangle is formed from first, second, and third vertices.Each subsequent triangle is formed from the current vertex, reusing the previous two vertices. |
-| [Vertices](./vertices) | The vertices. The vertices element declares the attributes and identity of mesh-vertices. The vertices element describes mesh-vertices in a mesh geometry. The mesh-vertices represent the position(identity) of the vertices comprising the mesh and other vertex attributes that are invariant to tessellation. |
+| [Vertices](./vertices) | The vertices. The vertices element declares the attributes and identity of mesh-vertices. The vertices element describes mesh-vertices in a mesh geometry. The mesh-vertices represent the position(../identity) of the vertices comprising the mesh and other vertex attributes that are invariant to tessellation. |
 | [VisualScene](./visualscene) | The visual scene. The visual_scene element declares the base of the visual_scene hierarchy or scene graph. The scene contains elements that comprise much of the visual and transformational information content as created by the authoring tools. |
 | [Wires](./wires) | The wires. Wires are a combination of one or more edges. A closed wire can limit a face. |
 ## Enumeration

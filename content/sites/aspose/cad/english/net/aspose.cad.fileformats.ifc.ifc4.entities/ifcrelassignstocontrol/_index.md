@@ -24,7 +24,21 @@ public class IfcRelAssignsToControl : IfcRelAssigns
 
 | Name | Description |
 | --- | --- |
-| [RelatingControl](relatingcontrol) { get; set; } | RelatingControl |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [RelatedObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassigns/relatedobjects) { get; set; } | RelatedObjects |
+| [RelatedObjectsType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassigns/relatedobjectstype) { get; set; } | RelatedObjectsType |
+| [RelatingControl](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstocontrol/relatingcontrol) { get; set; } | RelatingControl |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

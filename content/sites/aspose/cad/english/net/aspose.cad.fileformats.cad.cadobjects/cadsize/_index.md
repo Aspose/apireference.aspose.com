@@ -22,15 +22,15 @@ public class CadSize
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } |  |
-| [Width](width) { get; set; } |  |
+| [Height](../../aspose.cad.fileformats.cad.cadobjects/cadsize/height) { get; set; } |  |
+| [Width](../../aspose.cad.fileformats.cad.cadobjects/cadsize/width) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() |  |
-| [Truncate](truncate)() |  |
+| override [ToString](../../aspose.cad.fileformats.cad.cadobjects/cadsize/tostring)() |  |
+| [Truncate](../../aspose.cad.fileformats.cad.cadobjects/cadsize/truncate)() |  |
 
 ### See Also
 

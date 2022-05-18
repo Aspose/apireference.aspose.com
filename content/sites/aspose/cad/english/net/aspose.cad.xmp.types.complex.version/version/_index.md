@@ -22,17 +22,19 @@ public sealed class Version : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Comments](comments) { get; set; } |  |
-| [ModifiedDate](modifieddate) { get; set; } |  |
-| [Modifier](modifier) { get; set; } |  |
-| [VersionEvent](versionevent) { get; set; } |  |
-| [VersionText](versiontext) { get; set; } |  |
+| [Comments](../../aspose.cad.xmp.types.complex.version/version/comments) { get; set; } |  |
+| [ModifiedDate](../../aspose.cad.xmp.types.complex.version/version/modifieddate) { get; set; } |  |
+| [Modifier](../../aspose.cad.xmp.types.complex.version/version/modifier) { get; set; } |  |
+| [NamespaceUri](../../aspose.cad.xmp.types.complex/complextypebase/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp.types.complex/complextypebase/prefix) { get; } |  |
+| [VersionEvent](../../aspose.cad.xmp.types.complex.version/version/versionevent) { get; set; } |  |
+| [VersionText](../../aspose.cad.xmp.types.complex.version/version/versiontext) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.version/version/getxmprepresentation)() |  |
 
 ### See Also
 

@@ -24,9 +24,9 @@ public class Line : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Direction](direction) { get; set; } | Gets or sets the direction. Contains three floating-point numbers that describe the direction of the line as a unit vector. |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Origin](origin) { get; set; } | Gets or sets the origin. Contains three floating-point numbers that describe the origin of the line. |
+| [Direction](../../aspose.cad.fileformats.collada.fileparser.elements/line/direction) { get; set; } | Gets or sets the direction. Contains three floating-point numbers that describe the direction of the line as a unit vector. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/line/extra) { get; set; } | Gets or sets the extra. |
+| [Origin](../../aspose.cad.fileformats.collada.fileparser.elements/line/origin) { get; set; } | Gets or sets the origin. Contains three floating-point numbers that describe the origin of the line. |
 
 ### See Also
 

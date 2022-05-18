@@ -24,11 +24,19 @@ public class IfcReference : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [AttributeIdentifier](attributeidentifier) { get; set; } | AttributeIdentifier |
-| [InnerReference](innerreference) { get; set; } | InnerReference |
-| [InstanceName](instancename) { get; set; } | InstanceName |
-| [ListPositions](listpositions) { get; set; } | ListPositions |
-| [TypeIdentifier](typeidentifier) { get; set; } | TypeIdentifier |
+| [AttributeIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/attributeidentifier) { get; set; } | AttributeIdentifier |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [InnerReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/innerreference) { get; set; } | InnerReference |
+| [InstanceName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/instancename) { get; set; } | InstanceName |
+| [ListPositions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/listpositions) { get; set; } | ListPositions |
+| [TypeIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/typeidentifier) { get; set; } | TypeIdentifier |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

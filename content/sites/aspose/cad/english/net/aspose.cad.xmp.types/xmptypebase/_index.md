@@ -16,7 +16,7 @@ public abstract class XmpTypeBase : IXmpType
 
 | Name | Description |
 | --- | --- |
-| abstract [GetXmpRepresentation](getxmprepresentation)() |  |
+| abstract [GetXmpRepresentation](../../aspose.cad.xmp.types/xmptypebase/getxmprepresentation)() |  |
 
 ### See Also
 

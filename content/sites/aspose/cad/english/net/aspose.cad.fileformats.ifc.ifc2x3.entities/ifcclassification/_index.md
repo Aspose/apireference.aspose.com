@@ -24,11 +24,19 @@ public class IfcClassification : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Contains](contains) { get; } | Contains |
-| [Edition](edition) { get; set; } | Edition |
-| [EditionDate](editiondate) { get; set; } | EditionDate |
-| [Name](name) { get; set; } | Name |
-| [Source](source) { get; set; } | Source |
+| [Contains](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassification/contains) { get; } | Contains |
+| [Edition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassification/edition) { get; set; } | Edition |
+| [EditionDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassification/editiondate) { get; set; } | EditionDate |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassification/name) { get; set; } | Name |
+| [Source](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassification/source) { get; set; } | Source |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

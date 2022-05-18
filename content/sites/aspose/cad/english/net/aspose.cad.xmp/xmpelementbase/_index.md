@@ -16,12 +16,12 @@ public abstract class XmpElementBase : IEquatable<XmpElementBase>
 
 | Name | Description |
 | --- | --- |
-| virtual [AddAttribute](addattribute)(string, string) |  |
-| virtual [ClearAttributes](clearattributes)() |  |
-| override [Equals](equals)(object) |  |
-| [Equals](equals)(XmpElementBase) |  |
-| virtual [GetAttribute](getattribute)(string) |  |
-| override [GetHashCode](gethashcode)() |  |
+| virtual [AddAttribute](../../aspose.cad.xmp/xmpelementbase/addattribute)(string, string) |  |
+| virtual [ClearAttributes](../../aspose.cad.xmp/xmpelementbase/clearattributes)() |  |
+| override [Equals](../../aspose.cad.xmp/xmpelementbase/equals)(object) |  |
+| [Equals](../../aspose.cad.xmp/xmpelementbase/equals)(XmpElementBase) |  |
+| virtual [GetAttribute](../../aspose.cad.xmp/xmpelementbase/getattribute)(string) |  |
+| override [GetHashCode](../../aspose.cad.xmp/xmpelementbase/gethashcode)() |  |
 
 ### See Also
 

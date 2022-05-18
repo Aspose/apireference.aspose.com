@@ -22,17 +22,17 @@ public sealed class Timecode : XmpTypeBase, IEquatable<Timecode>
 
 | Name | Description |
 | --- | --- |
-| [Format](format) { get; set; } |  |
-| [TimeValue](timevalue) { get; set; } |  |
+| [Format](../../aspose.cad.xmp.schemas.xmpdm/timecode/format) { get; set; } |  |
+| [TimeValue](../../aspose.cad.xmp.schemas.xmpdm/timecode/timevalue) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) |  |
-| [Equals](equals)(Timecode) |  |
-| override [GetHashCode](gethashcode)() |  |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [Equals](../../aspose.cad.xmp.schemas.xmpdm/timecode/equals)(object) |  |
+| [Equals](../../aspose.cad.xmp.schemas.xmpdm/timecode/equals)(Timecode) |  |
+| override [GetHashCode](../../aspose.cad.xmp.schemas.xmpdm/timecode/gethashcode)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.schemas.xmpdm/timecode/getxmprepresentation)() |  |
 
 ### See Also
 

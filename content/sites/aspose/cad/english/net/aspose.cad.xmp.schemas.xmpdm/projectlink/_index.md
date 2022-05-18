@@ -22,14 +22,14 @@ public sealed class ProjectLink : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Path](path) { get; set; } |  |
-| [Type](type) { get; set; } |  |
+| [Path](../../aspose.cad.xmp.schemas.xmpdm/projectlink/path) { get; set; } |  |
+| [Type](../../aspose.cad.xmp.schemas.xmpdm/projectlink/type) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.schemas.xmpdm/projectlink/getxmprepresentation)() |  |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class Parabola : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Focal](focal) { get; set; } | Gets or sets the focal. A floating-point number that describes the focal length of the parabola. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/parabola/extra) { get; set; } | Gets or sets the extra. |
+| [Focal](../../aspose.cad.fileformats.collada.fileparser.elements/parabola/focal) { get; set; } | Gets or sets the focal. A floating-point number that describes the focal length of the parabola. |
 
 ### See Also
 

@@ -18,9 +18,17 @@ public abstract class IfcMaterialDefinition : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [AssociatedTo](associatedto) { get; } | AssociatedTo |
-| [HasExternalReferences](hasexternalreferences) { get; } | HasExternalReferences |
-| [HasProperties](hasproperties) { get; } | HasProperties |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/associatedto) { get; } | AssociatedTo |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences) { get; } | HasExternalReferences |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasproperties) { get; } | HasProperties |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

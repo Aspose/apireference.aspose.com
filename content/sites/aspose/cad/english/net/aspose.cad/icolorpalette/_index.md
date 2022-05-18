@@ -16,19 +16,19 @@ public interface IColorPalette
 
 | Name | Description |
 | --- | --- |
-| [Argb32Entries](argb32entries) { get; } |  |
-| [Entries](entries) { get; } |  |
-| [EntriesCount](entriescount) { get; } |  |
-| [IsCompactPalette](iscompactpalette) { get; } |  |
+| [Argb32Entries](../../aspose.cad/icolorpalette/argb32entries) { get; } |  |
+| [Entries](../../aspose.cad/icolorpalette/entries) { get; } |  |
+| [EntriesCount](../../aspose.cad/icolorpalette/entriescount) { get; } |  |
+| [IsCompactPalette](../../aspose.cad/icolorpalette/iscompactpalette) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetArgb32Color](getargb32color)(int) |  |
-| [GetColor](getcolor)(int) |  |
-| [GetNearestColorIndex](getnearestcolorindex)(Color) |  |
-| [GetNearestColorIndex](getnearestcolorindex)(int) |  |
+| [GetArgb32Color](../../aspose.cad/icolorpalette/getargb32color)(int) |  |
+| [GetColor](../../aspose.cad/icolorpalette/getcolor)(int) |  |
+| [GetNearestColorIndex](../../aspose.cad/icolorpalette/getnearestcolorindex)(Color) |  |
+| [GetNearestColorIndex](../../aspose.cad/icolorpalette/getnearestcolorindex)(int) |  |
 
 ### See Also
 

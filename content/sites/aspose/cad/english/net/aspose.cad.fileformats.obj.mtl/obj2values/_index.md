@@ -25,8 +25,8 @@ public class Obj2Values
 
 | Name | Description |
 | --- | --- |
-| [Val1](val1) { get; set; } | Gets or sets the val1. |
-| [Val2](val2) { get; set; } | Gets or sets the val2. |
+| [Val1](../../aspose.cad.fileformats.obj.mtl/obj2values/val1) { get; set; } | Gets or sets the val1. |
+| [Val2](../../aspose.cad.fileformats.obj.mtl/obj2values/val2) { get; set; } | Gets or sets the val2. |
 
 ### See Also
 

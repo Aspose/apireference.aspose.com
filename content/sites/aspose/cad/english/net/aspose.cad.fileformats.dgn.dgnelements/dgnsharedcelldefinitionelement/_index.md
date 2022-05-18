@@ -18,15 +18,16 @@ public class DgnSharedCellDefinitionElement : DgnElement, ICompositeDgnElement
 
 | Name | Description |
 | --- | --- |
-| [Childs](childs) { get; } | Gets childs of the composite element |
-| [Name](name) { get; } | Gets the name. |
-| [Totallength](totallength) { get; } | Gets cell total length |
+| [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/childs) { get; } | Gets childs of the composite element |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/name) { get; } | Gets the name. |
+| [Totallength](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/totallength) { get; } | Gets cell total length |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddChild](addchild)(DgnElement) | Adds element as a child |
+| [AddChild](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/addchild)(DgnElement) | Adds element as a child |
 
 ### See Also
 

@@ -19,12 +19,21 @@ public class CadShortParameter : CadParameter<short>
 | [CadShortParameter](cadshortparameter)() | The default constructor. |
 | [CadShortParameter](cadshortparameter)(CadEntityAttribute) |  |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type) { get; } |  |
+| [Value](../../aspose.cad.fileformats.cad.cadparameters/cadparameter`1/value) { get; set; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Init](init)(CadCodeValue) |  |
-| override [Init](init)(object) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadshortparameter/init)(CadCodeValue) |  |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/cadshortparameter/init)(object) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, CadCodeValue) |  |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init)(CadEntityAttribute, object) |  |
 
 ### See Also
 

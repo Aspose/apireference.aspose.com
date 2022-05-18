@@ -16,7 +16,7 @@ public interface ICadBoundaryPathEntity
 
 | Name | Description |
 | --- | --- |
-| [ToCadBaseEntity](tocadbaseentity)() |  |
+| [ToCadBaseEntity](../../aspose.cad.fileformats.cad.cadobjects.hatch/icadboundarypathentity/tocadbaseentity)() |  |
 
 ### See Also
 

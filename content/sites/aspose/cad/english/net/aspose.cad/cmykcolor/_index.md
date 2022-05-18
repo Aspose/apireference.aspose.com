@@ -16,20 +16,20 @@ public struct CmykColor
 
 | Name | Description |
 | --- | --- |
-| static [Empty](empty) { get; } |  |
-| [C](c) { get; } |  |
-| [IsEmpty](isempty) { get; } |  |
-| [K](k) { get; } |  |
-| [M](m) { get; } |  |
-| [Y](y) { get; } |  |
+| static [Empty](../../aspose.cad/cmykcolor/empty) { get; } |  |
+| [C](../../aspose.cad/cmykcolor/c) { get; } |  |
+| [IsEmpty](../../aspose.cad/cmykcolor/isempty) { get; } |  |
+| [K](../../aspose.cad/cmykcolor/k) { get; } |  |
+| [M](../../aspose.cad/cmykcolor/m) { get; } |  |
+| [Y](../../aspose.cad/cmykcolor/y) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| [ToValue](tovalue)() |  |
+| override [Equals](../../aspose.cad/cmykcolor/equals)(object) |  |
+| override [GetHashCode](../../aspose.cad/cmykcolor/gethashcode)() |  |
+| [ToValue](../../aspose.cad/cmykcolor/tovalue)() |  |
 
 ### See Also
 

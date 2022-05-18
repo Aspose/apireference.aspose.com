@@ -22,14 +22,14 @@ public class CadClassEntity
 
 | Name | Description |
 | --- | --- |
-| [ApplicationName](applicationname) { get; set; } |  |
-| [CountForCustomClass](countforcustomclass) { get; set; } |  |
-| [CppName](cppname) { get; set; } |  |
-| [IsEntity](isentity) { get; set; } |  |
-| [Name](name) { get; set; } |  |
-| [ProxyCapabilitiesFlag](proxycapabilitiesflag) { get; set; } |  |
-| [Type](type) { get; } |  |
-| [WasProxy](wasproxy) { get; set; } |  |
+| [ApplicationName](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/applicationname) { get; set; } |  |
+| [CountForCustomClass](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/countforcustomclass) { get; set; } |  |
+| [CppName](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/cppname) { get; set; } |  |
+| [IsEntity](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/isentity) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/name) { get; set; } |  |
+| [ProxyCapabilitiesFlag](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/proxycapabilitiesflag) { get; set; } |  |
+| [Type](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/type) { get; } |  |
+| [WasProxy](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/wasproxy) { get; set; } |  |
 
 ### See Also
 

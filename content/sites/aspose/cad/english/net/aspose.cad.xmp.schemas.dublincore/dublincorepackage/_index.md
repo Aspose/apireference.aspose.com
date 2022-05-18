@@ -18,21 +18,38 @@ public sealed class DublinCorePackage : XmpPackage
 | --- | --- |
 | [DublinCorePackage](dublincorepackage)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Item](../../aspose.cad.xmp/xmppackage/item) { get; set; } |  |
+| virtual [Keys](../../aspose.cad.xmp/xmppackage/keys) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp/xmppackage/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp/xmppackage/prefix) { get; } |  |
+| [XmlNamespace](../../aspose.cad.xmp/xmppackage/xmlnamespace) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddValue](addvalue)(string, string) |  |
-| [SetAuthor](setauthor)(string) |  |
-| [SetAuthor](setauthor)(string[]) |  |
-| [SetDescription](setdescription)(LangAlt) |  |
-| [SetDescription](setdescription)(string) |  |
-| [SetPublisher](setpublisher)(string) |  |
-| [SetPublisher](setpublisher)(string[]) |  |
-| [SetSubject](setsubject)(string) |  |
-| [SetSubject](setsubject)(string[]) |  |
-| [SetTitle](settitle)(LangAlt) |  |
-| [SetTitle](settitle)(string) |  |
+| override [AddValue](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/addvalue)(string, string) |  |
+| virtual [Clear](../../aspose.cad.xmp/xmppackage/clear)() |  |
+| virtual [ContainsKey](../../aspose.cad.xmp/xmppackage/containskey)(string) |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackage/getenumerator)() |  |
+| virtual [GetXmlValue](../../aspose.cad.xmp/xmppackage/getxmlvalue)() |  |
+| virtual [Remove](../../aspose.cad.xmp/xmppackage/remove)(string) |  |
+| [SetAuthor](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/setauthor)(string) |  |
+| [SetAuthor](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/setauthor)(string[]) |  |
+| [SetDescription](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/setdescription)(LangAlt) |  |
+| [SetDescription](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/setdescription)(string) |  |
+| [SetPublisher](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/setpublisher)(string) |  |
+| [SetPublisher](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/setpublisher)(string[]) |  |
+| [SetSubject](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/setsubject)(string) |  |
+| [SetSubject](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/setsubject)(string[]) |  |
+| [SetTitle](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/settitle)(LangAlt) |  |
+| [SetTitle](../../aspose.cad.xmp.schemas.dublincore/dublincorepackage/settitle)(string) |  |
+| virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
+| virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
 ### See Also
 

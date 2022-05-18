@@ -22,13 +22,13 @@ public class CadEmbeddedObject
 
 | Name | Description |
 | --- | --- |
-| [DataList](datalist) { get; set; } |  |
+| [DataList](../../aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/datalist) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFirstValue](getfirstvalue)(CadEntityAttribute) |  |
+| [GetFirstValue](../../aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/getfirstvalue)(CadEntityAttribute) |  |
 
 ### See Also
 

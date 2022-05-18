@@ -24,8 +24,18 @@ public class IfcApprovalRelationship : IfcResourceLevelRelationship
 
 | Name | Description |
 | --- | --- |
-| [RelatedApprovals](relatedapprovals) { get; set; } | RelatedApprovals |
-| [RelatingApproval](relatingapproval) { get; set; } | RelatingApproval |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name) { get; set; } | Name |
+| [RelatedApprovals](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapprovalrelationship/relatedapprovals) { get; set; } | RelatedApprovals |
+| [RelatingApproval](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapprovalrelationship/relatingapproval) { get; set; } | RelatingApproval |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

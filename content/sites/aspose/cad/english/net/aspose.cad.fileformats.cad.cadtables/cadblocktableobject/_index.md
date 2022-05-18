@@ -22,15 +22,24 @@ public class CadBlockTableObject : CadBaseOwned
 
 | Name | Description |
 | --- | --- |
-| [BitmapPreviewData](bitmappreviewdata) { get; set; } |  |
-| [BlockExplodability](blockexplodability) { get; set; } |  |
-| [BlockInsertionUnits](blockinsertionunits) { get; set; } |  |
-| [BlockName](blockname) { get; set; } |  |
-| [BlockScalability](blockscalability) { get; set; } |  |
-| [HardPointerToLayout](hardpointertolayout) { get; set; } |  |
-| [OriginalBlockName](originalblockname) { get; } |  |
-| [XDataAppName](xdataappname) { get; set; } |  |
-| [XDataStringData](xdatastringdata) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [BitmapPreviewData](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/bitmappreviewdata) { get; set; } |  |
+| [BlockExplodability](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/blockexplodability) { get; set; } |  |
+| [BlockInsertionUnits](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/blockinsertionunits) { get; set; } |  |
+| [BlockName](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/blockname) { get; set; } |  |
+| [BlockScalability](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/blockscalability) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [HardPointerToLayout](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/hardpointertolayout) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [OriginalBlockName](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/originalblockname) { get; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [XDataAppName](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/xdataappname) { get; set; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+| [XDataStringData](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/xdatastringdata) { get; set; } |  |
 
 ### See Also
 

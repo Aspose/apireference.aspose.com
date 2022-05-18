@@ -24,8 +24,8 @@ public class Torus : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](extra) { get; set; } | Gets or sets the extra. |
-| [Radius](radius) { get; set; } | Gets or sets the radius. Two floating-point numbers that describe the radii of the torus. The first value is the major radius, the second is the minor radius. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/torus/extra) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/torus/radius) { get; set; } | Gets or sets the radius. Two floating-point numbers that describe the radii of the torus. The first value is the major radius, the second is the minor radius. |
 
 ### See Also
 

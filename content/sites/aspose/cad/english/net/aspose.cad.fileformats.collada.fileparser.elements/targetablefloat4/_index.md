@@ -24,8 +24,8 @@ public class TargetableFloat4 : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Sid](sid) { get; set; } | Gets or sets the sid. |
-| [Text](text) { get; set; } | Gets or sets the value float4 as text. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/sid) { get; set; } | Gets or sets the sid. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/text) { get; set; } | Gets or sets the value float4 as text. |
 
 ### See Also
 

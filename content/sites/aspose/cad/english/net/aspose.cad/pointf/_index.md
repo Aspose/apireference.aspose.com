@@ -22,28 +22,28 @@ public struct PointF
 
 | Name | Description |
 | --- | --- |
-| static [Empty](empty) { get; } |  |
-| [IsEmpty](isempty) { get; } |  |
-| [X](x) { get; set; } |  |
-| [Y](y) { get; set; } |  |
+| static [Empty](../../aspose.cad/pointf/empty) { get; } |  |
+| [IsEmpty](../../aspose.cad/pointf/isempty) { get; } |  |
+| [X](../../aspose.cad/pointf/x) { get; set; } |  |
+| [Y](../../aspose.cad/pointf/y) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Add](add)(PointF, Size) |  |
-| static [Add](add)(PointF, SizeF) |  |
-| static [Subtract](subtract)(PointF, Size) |  |
-| static [Subtract](subtract)(PointF, SizeF) |  |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| override [ToString](tostring)() |  |
-| static [ToPointApsArray](topointapsarray)(PointF[]) |  |
-| [operator +](op_addition) |  (2 operators) |
-| [operator ==](op_equality) |  |
-| [explicit operator](op_explicit) |  |
-| [operator !=](op_inequality) |  |
-| [operator -](op_subtraction) |  (2 operators) |
+| static [Add](../../aspose.cad/pointf/add)(PointF, Size) |  |
+| static [Add](../../aspose.cad/pointf/add)(PointF, SizeF) |  |
+| static [Subtract](../../aspose.cad/pointf/subtract)(PointF, Size) |  |
+| static [Subtract](../../aspose.cad/pointf/subtract)(PointF, SizeF) |  |
+| override [Equals](../../aspose.cad/pointf/equals)(object) |  |
+| override [GetHashCode](../../aspose.cad/pointf/gethashcode)() |  |
+| override [ToString](../../aspose.cad/pointf/tostring)() |  |
+| static [ToPointApsArray](../../aspose.cad/pointf/topointapsarray)(PointF[]) |  |
+| [operator +](../../aspose.cad/pointf/op_addition) |  (2 operators) |
+| [operator ==](../../aspose.cad/pointf/op_equality) |  |
+| [explicit operator](../../aspose.cad/pointf/op_explicit) |  |
+| [operator !=](../../aspose.cad/pointf/op_inequality) |  |
+| [operator -](../../aspose.cad/pointf/op_subtraction) |  (2 operators) |
 
 ### See Also
 

@@ -28,32 +28,32 @@ public class Point3D
 
 | Name | Description |
 | --- | --- |
-| [W](w) { get; set; } | Gets or sets W coordinate |
-| [X](x) { get; set; } | Gets or sets X coordinate |
-| [Y](y) { get; set; } | Gets or sets Y coordinate |
-| [Z](z) { get; set; } | Gets or sets Z coordinate |
+| [W](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/w) { get; set; } | Gets or sets W coordinate |
+| [X](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/x) { get; set; } | Gets or sets X coordinate |
+| [Y](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/y) { get; set; } | Gets or sets Y coordinate |
+| [Z](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/z) { get; set; } | Gets or sets Z coordinate |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CrossProduct](crossproduct)(Point3D, Point3D) | Gets cross-product of a points |
-| static [NormalVector](normalvector)(Point3D, Point3D, Point3D) | Get normal vector of a plane. |
-| static [Spherical](spherical)(double, double, double) | Get point in spherical coordinates |
-| [Copy](copy)() | Creates copy of current point |
-| override [Equals](equals)(object) | Allows to compare 3D points. |
-| [EqualsSoft](equalssoft)(object, double) | Allows to compare 3D points with specified threshold. |
-| override [GetHashCode](gethashcode)() | Return hash code for object. |
-| [Normalize](normalize)() | Normalizes the specified origin. |
-| [Transform](transform)(TransformationMatrix) | Applies transformation to a point |
-| [TransformNormalize](transformnormalize)(TransformationMatrix) | Applies transformation with normalization. |
-| static [Distance](distance)(Point3D, Point3D) | Gets distance between points |
-| static [DotProduct](dotproduct)(Point3D, Point3D) | Gets dot product between two vectors. |
-| [operator +](op_addition) | Implements the operator +. |
-| [operator ==](op_equality) | Allows to compare 3D points. |
-| [operator !=](op_inequality) | Allows to compare 3D points. |
-| [operator *](op_multiply) | Implements the operator *. |
-| [operator -](op_subtraction) | Implements the operator -. |
+| static [CrossProduct](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/crossproduct)(Point3D, Point3D) | Gets cross-product of a points |
+| static [NormalVector](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/normalvector)(Point3D, Point3D, Point3D) | Get normal vector of a plane. |
+| static [Spherical](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/spherical)(double, double, double) | Get point in spherical coordinates |
+| [Copy](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/copy)() | Creates copy of current point |
+| override [Equals](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/equals)(object) | Allows to compare 3D points. |
+| [EqualsSoft](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/equalssoft)(object, double) | Allows to compare 3D points with specified threshold. |
+| override [GetHashCode](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/gethashcode)() | Return hash code for object. |
+| [Normalize](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/normalize)() | Normalizes the specified origin. |
+| [Transform](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/transform)(TransformationMatrix) | Applies transformation to a point |
+| [TransformNormalize](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/transformnormalize)(TransformationMatrix) | Applies transformation with normalization. |
+| static [Distance](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/distance)(Point3D, Point3D) | Gets distance between points |
+| static [DotProduct](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/dotproduct)(Point3D, Point3D) | Gets dot product between two vectors. |
+| [operator +](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_addition) | Implements the operator +. |
+| [operator ==](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_equality) | Allows to compare 3D points. |
+| [operator !=](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_inequality) | Allows to compare 3D points. |
+| [operator *](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_multiply) | Implements the operator *. |
+| [operator -](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_subtraction) | Implements the operator -. |
 
 ### See Also
 

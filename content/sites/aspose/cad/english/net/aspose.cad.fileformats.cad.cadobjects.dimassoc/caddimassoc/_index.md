@@ -22,11 +22,22 @@ public class CadDimAssoc : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [AssociativityFlag](associativityflag) { get; set; } |  |
-| [CadOsnapPointRefs](cadosnappointrefs) { get; set; } |  |
-| [DimensionObjectId](dimensionobjectid) { get; set; } |  |
-| [RotatedDimensionType](rotateddimensiontype) { get; set; } |  |
-| [TransSpaceFlag](transspaceflag) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [AssociativityFlag](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/associativityflag) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [CadOsnapPointRefs](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/cadosnappointrefs) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [DimensionObjectId](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/dimensionobjectid) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [RotatedDimensionType](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/rotateddimensiontype) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [TransSpaceFlag](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/transspaceflag) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

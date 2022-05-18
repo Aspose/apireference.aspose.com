@@ -24,12 +24,12 @@ public class DgnElementDimension
 
 | Name | Description |
 | --- | --- |
-| [XHigh](xhigh) { get; set; } | Gets or sets hi value by X axis |
-| [XLow](xlow) { get; set; } | Gets or sets low value by X axis |
-| [YHigh](yhigh) { get; set; } | Gets or sets hi value by Y axis |
-| [YLow](ylow) { get; set; } | Gets or sets low value by Y axis |
-| [ZHigh](zhigh) { get; set; } | Gets or sets hi value by Z axis |
-| [ZLow](zlow) { get; set; } | Gets or sets low value by Z axis |
+| [XHigh](../../aspose.cad.fileformats.dgn/dgnelementdimension/xhigh) { get; set; } | Gets or sets hi value by X axis |
+| [XLow](../../aspose.cad.fileformats.dgn/dgnelementdimension/xlow) { get; set; } | Gets or sets low value by X axis |
+| [YHigh](../../aspose.cad.fileformats.dgn/dgnelementdimension/yhigh) { get; set; } | Gets or sets hi value by Y axis |
+| [YLow](../../aspose.cad.fileformats.dgn/dgnelementdimension/ylow) { get; set; } | Gets or sets low value by Y axis |
+| [ZHigh](../../aspose.cad.fileformats.dgn/dgnelementdimension/zhigh) { get; set; } | Gets or sets hi value by Z axis |
+| [ZLow](../../aspose.cad.fileformats.dgn/dgnelementdimension/zlow) { get; set; } | Gets or sets low value by Z axis |
 
 ### See Also
 

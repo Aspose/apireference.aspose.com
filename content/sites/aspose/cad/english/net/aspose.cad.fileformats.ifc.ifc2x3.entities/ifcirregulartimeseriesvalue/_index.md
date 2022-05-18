@@ -24,8 +24,16 @@ public class IfcIrregularTimeSeriesValue : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ListValues](listvalues) { get; set; } | ListValues |
-| [TimeStamp](timestamp) { get; set; } | TimeStamp |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ListValues](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcirregulartimeseriesvalue/listvalues) { get; set; } | ListValues |
+| [TimeStamp](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcirregulartimeseriesvalue/timestamp) { get; set; } | TimeStamp |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

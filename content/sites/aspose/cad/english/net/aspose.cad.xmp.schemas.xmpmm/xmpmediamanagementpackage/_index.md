@@ -18,18 +18,35 @@ public sealed class XmpMediaManagementPackage : XmpPackage
 | --- | --- |
 | [XmpMediaManagementPackage](xmpmediamanagementpackage)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Item](../../aspose.cad.xmp/xmppackage/item) { get; set; } |  |
+| virtual [Keys](../../aspose.cad.xmp/xmppackage/keys) { get; } |  |
+| [NamespaceUri](../../aspose.cad.xmp/xmppackage/namespaceuri) { get; } |  |
+| [Prefix](../../aspose.cad.xmp/xmppackage/prefix) { get; } |  |
+| [XmlNamespace](../../aspose.cad.xmp/xmppackage/xmlnamespace) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddValue](addvalue)(string, string) |  |
-| [SetDerivedFrom](setderivedfrom)(ResourceRef) |  |
-| [SetDocumentId](setdocumentid)(Guid) |  |
-| [SetDocumentId](setdocumentid)(string) |  |
-| [SetInstanceId](setinstanceid)(Guid) |  |
-| [SetInstanceId](setinstanceid)(string) |  |
-| [SetOriginalDocumentId](setoriginaldocumentid)(Guid) |  |
-| [SetOriginalDocumentId](setoriginaldocumentid)(string) |  |
+| override [AddValue](../../aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/addvalue)(string, string) |  |
+| virtual [Clear](../../aspose.cad.xmp/xmppackage/clear)() |  |
+| virtual [ContainsKey](../../aspose.cad.xmp/xmppackage/containskey)(string) |  |
+| [GetEnumerator](../../aspose.cad.xmp/xmppackage/getenumerator)() |  |
+| virtual [GetXmlValue](../../aspose.cad.xmp/xmppackage/getxmlvalue)() |  |
+| virtual [Remove](../../aspose.cad.xmp/xmppackage/remove)(string) |  |
+| [SetDerivedFrom](../../aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/setderivedfrom)(ResourceRef) |  |
+| [SetDocumentId](../../aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid)(Guid) |  |
+| [SetDocumentId](../../aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid)(string) |  |
+| [SetInstanceId](../../aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid)(Guid) |  |
+| [SetInstanceId](../../aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid)(string) |  |
+| [SetOriginalDocumentId](../../aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/setoriginaldocumentid)(Guid) |  |
+| [SetOriginalDocumentId](../../aspose.cad.xmp.schemas.xmpmm/xmpmediamanagementpackage/setoriginaldocumentid)(string) |  |
+| virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
+| virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
 ### See Also
 

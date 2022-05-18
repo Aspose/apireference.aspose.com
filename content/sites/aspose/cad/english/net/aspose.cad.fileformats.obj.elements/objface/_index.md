@@ -24,7 +24,7 @@ public class ObjFace
 
 | Name | Description |
 | --- | --- |
-| [VertexTextureNormals](vertextexturenormals) { get; set; } | Gets or sets the vertex texture normal indexes collection. |
+| [VertexTextureNormals](../../aspose.cad.fileformats.obj.elements/objface/vertextexturenormals) { get; set; } | Gets or sets the vertex texture normal indexes collection. |
 
 ### See Also
 

@@ -24,11 +24,19 @@ public class IfcAppliedValueRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [ArithmeticOperator](arithmeticoperator) { get; set; } | ArithmeticOperator |
-| [ComponentOfTotal](componentoftotal) { get; set; } | ComponentOfTotal |
-| [Components](components) { get; set; } | Components |
-| [Description](description) { get; set; } | Description |
-| [Name](name) { get; set; } | Name |
+| [ArithmeticOperator](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/arithmeticoperator) { get; set; } | ArithmeticOperator |
+| [ComponentOfTotal](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/componentoftotal) { get; set; } | ComponentOfTotal |
+| [Components](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/components) { get; set; } | Components |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/name) { get; set; } | Name |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

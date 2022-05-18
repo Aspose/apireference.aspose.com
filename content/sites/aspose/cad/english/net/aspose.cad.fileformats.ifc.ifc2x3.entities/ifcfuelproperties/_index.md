@@ -24,10 +24,19 @@ public class IfcFuelProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [CarbonContent](carboncontent) { get; set; } | CarbonContent |
-| [CombustionTemperature](combustiontemperature) { get; set; } | CombustionTemperature |
-| [HigherHeatingValue](higherheatingvalue) { get; set; } | HigherHeatingValue |
-| [LowerHeatingValue](lowerheatingvalue) { get; set; } | LowerHeatingValue |
+| [CarbonContent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/carboncontent) { get; set; } | CarbonContent |
+| [CombustionTemperature](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/combustiontemperature) { get; set; } | CombustionTemperature |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [HigherHeatingValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/higherheatingvalue) { get; set; } | HigherHeatingValue |
+| [LowerHeatingValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/lowerheatingvalue) { get; set; } | LowerHeatingValue |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material) { get; set; } | Material |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -25,34 +25,34 @@ public class TiffStreamReader
 
 | Name | Description |
 | --- | --- |
-| [Length](length) { get; } |  |
-| [ThrowExceptions](throwexceptions) { get; set; } |  |
+| [Length](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/length) { get; } |  |
+| [ThrowExceptions](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/throwexceptions) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ReadBytes](readbytes)(long, long) |  |
-| [ReadBytes](readbytes)(byte[], int, long, long) |  |
-| [ReadDouble](readdouble)(long) |  |
-| [ReadDoubleArray](readdoublearray)(long, long) |  |
-| [ReadFloat](readfloat)(long) |  |
-| [ReadFloatArray](readfloatarray)(long, long) |  |
-| [ReadRational](readrational)(long) |  |
-| [ReadRationalArray](readrationalarray)(long, long) |  |
-| [ReadSByte](readsbyte)(long) |  |
-| [ReadSByteArray](readsbytearray)(long, long) |  |
-| [ReadSLong](readslong)(long) |  |
-| [ReadSLongArray](readslongarray)(long, long) |  |
-| [ReadSRational](readsrational)(long) |  |
-| [ReadSRationalArray](readsrationalarray)(long, long) |  |
-| [ReadSShort](readsshort)(long) |  |
-| [ReadSShortArray](readsshortarray)(long, long) |  |
-| [ReadULong](readulong)(long) |  |
-| [ReadULongArray](readulongarray)(long, long) |  |
-| [ReadUShort](readushort)(long) |  |
-| [ReadUShortArray](readushortarray)(long, long) |  |
-| [ToStreamContainer](tostreamcontainer)(long) |  |
+| [ReadBytes](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readbytes)(long, long) |  |
+| [ReadBytes](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readbytes)(byte[], int, long, long) |  |
+| [ReadDouble](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readdouble)(long) |  |
+| [ReadDoubleArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readdoublearray)(long, long) |  |
+| [ReadFloat](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readfloat)(long) |  |
+| [ReadFloatArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readfloatarray)(long, long) |  |
+| [ReadRational](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readrational)(long) |  |
+| [ReadRationalArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readrationalarray)(long, long) |  |
+| [ReadSByte](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsbyte)(long) |  |
+| [ReadSByteArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsbytearray)(long, long) |  |
+| [ReadSLong](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readslong)(long) |  |
+| [ReadSLongArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readslongarray)(long, long) |  |
+| [ReadSRational](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsrational)(long) |  |
+| [ReadSRationalArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsrationalarray)(long, long) |  |
+| [ReadSShort](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsshort)(long) |  |
+| [ReadSShortArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsshortarray)(long, long) |  |
+| [ReadULong](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readulong)(long) |  |
+| [ReadULongArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readulongarray)(long, long) |  |
+| [ReadUShort](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readushort)(long) |  |
+| [ReadUShortArray](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray)(long, long) |  |
+| [ToStreamContainer](../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer)(long) |  |
 
 ### See Also
 

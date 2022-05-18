@@ -22,9 +22,20 @@ public class CadSectionManager : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [RequiresFullUpdateFlag](requiresfullupdateflag) { get; set; } |  |
-| [SectionsNumber](sectionsnumber) { get; set; } |  |
-| [SoftPointerIds](softpointerids) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [RequiresFullUpdateFlag](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/requiresfullupdateflag) { get; set; } |  |
+| [SectionsNumber](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/sectionsnumber) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [SoftPointerIds](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/softpointerids) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

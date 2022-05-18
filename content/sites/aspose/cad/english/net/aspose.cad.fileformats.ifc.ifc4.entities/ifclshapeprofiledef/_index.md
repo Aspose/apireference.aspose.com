@@ -26,12 +26,25 @@ public class IfcLShapeProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [Depth](depth) { get; set; } | Depth |
-| [EdgeRadius](edgeradius) { get; set; } | EdgeRadius |
-| [FilletRadius](filletradius) { get; set; } | FilletRadius |
-| [LegSlope](legslope) { get; set; } | LegSlope |
-| [Thickness](thickness) { get; set; } | Thickness |
-| [Width](width) { get; set; } | Width |
+| [Depth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/depth) { get; set; } | Depth |
+| [EdgeRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/edgeradius) { get; set; } | EdgeRadius |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [FilletRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/filletradius) { get; set; } | FilletRadius |
+| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference) { get; } | HasExternalReference |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties) { get; } | HasProperties |
+| [LegSlope](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/legslope) { get; set; } | LegSlope |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef/position) { get; set; } | Position |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profilename) { get; set; } | ProfileName |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profiletype) { get; set; } | ProfileType |
+| [Thickness](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/thickness) { get; set; } | Thickness |
+| [Width](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/width) { get; set; } | Width |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

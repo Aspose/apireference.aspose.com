@@ -24,16 +24,31 @@ public class IfcSpaceThermalLoadProperties : IfcPropertySetDefinition
 
 | Name | Description |
 | --- | --- |
-| [ApplicableValueRatio](applicablevalueratio) { get; set; } | ApplicableValueRatio |
-| [MaximumValue](maximumvalue) { get; set; } | MaximumValue |
-| [MinimumValue](minimumvalue) { get; set; } | MinimumValue |
-| [PropertySource](propertysource) { get; set; } | PropertySource |
-| [SourceDescription](sourcedescription) { get; set; } | SourceDescription |
-| [ThermalLoadSource](thermalloadsource) { get; set; } | ThermalLoadSource |
-| [ThermalLoadTimeSeriesValues](thermalloadtimeseriesvalues) { get; set; } | ThermalLoadTimeSeriesValues |
-| [ThermalLoadType](thermalloadtype) { get; set; } | ThermalLoadType |
-| [UserDefinedPropertySource](userdefinedpropertysource) { get; set; } | UserDefinedPropertySource |
-| [UserDefinedThermalLoadSource](userdefinedthermalloadsource) { get; set; } | UserDefinedThermalLoadSource |
+| [ApplicableValueRatio](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/applicablevalueratio) { get; set; } | ApplicableValueRatio |
+| [DefinesType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/definestype) { get; } | DefinesType |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition/hasassociations) { get; } | HasAssociations |
+| [MaximumValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/maximumvalue) { get; set; } | MaximumValue |
+| [MinimumValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/minimumvalue) { get; set; } | MinimumValue |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [PropertyDefinitionOf](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/propertydefinitionof) { get; } | PropertyDefinitionOf |
+| [PropertySource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/propertysource) { get; set; } | PropertySource |
+| [SourceDescription](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/sourcedescription) { get; set; } | SourceDescription |
+| [ThermalLoadSource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/thermalloadsource) { get; set; } | ThermalLoadSource |
+| [ThermalLoadTimeSeriesValues](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/thermalloadtimeseriesvalues) { get; set; } | ThermalLoadTimeSeriesValues |
+| [ThermalLoadType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/thermalloadtype) { get; set; } | ThermalLoadType |
+| [UserDefinedPropertySource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/userdefinedpropertysource) { get; set; } | UserDefinedPropertySource |
+| [UserDefinedThermalLoadSource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/userdefinedthermalloadsource) { get; set; } | UserDefinedThermalLoadSource |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

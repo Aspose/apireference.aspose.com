@@ -18,10 +18,12 @@ public class DgnConeElement : DgnDrawingElementBaseQuaternion
 
 | Name | Description |
 | --- | --- |
-| [FirstCircle](firstcircle) { get; } | Gets first circle |
-| override [MaxPoint](maxpoint) { get; } | Gets the max point of object. |
-| override [MinPoint](minpoint) { get; } | Gets the min point of object. |
-| [SecondCircle](secondcircle) { get; } | Gets second circle |
+| [FirstCircle](../../aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/firstcircle) { get; } | Gets first circle |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/maxpoint) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/minpoint) { get; } | Gets the min point of object. |
+| [QuaternionRotations](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion/quaternionrotations) { get; } | Gets or sets |
+| [SecondCircle](../../aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/secondcircle) { get; } | Gets second circle |
 
 ### See Also
 

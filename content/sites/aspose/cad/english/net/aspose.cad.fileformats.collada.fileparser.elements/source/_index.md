@@ -24,12 +24,12 @@ public class Source : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](asset) { get; set; } | Gets or sets the asset. |
-| [Id](id) { get; set; } | Gets or sets the id. |
-| [Item](item) { get; set; } | Gets or sets the source item. |
-| [Name](name) { get; set; } | Gets or sets the name. |
-| [Technique](technique) { get; set; } | Gets or sets the technique. This element may contain any number of non-common profile techniques. |
-| [TechniqueCommon](techniquecommon) { get; set; } | Gets or sets the technique common. The technique common specifies the common method for accessing this source element's data. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/source/asset) { get; set; } | Gets or sets the asset. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/source/id) { get; set; } | Gets or sets the id. |
+| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/source/item) { get; set; } | Gets or sets the source item. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/source/name) { get; set; } | Gets or sets the name. |
+| [Technique](../../aspose.cad.fileformats.collada.fileparser.elements/source/technique) { get; set; } | Gets or sets the technique. This element may contain any number of non-common profile techniques. |
+| [TechniqueCommon](../../aspose.cad.fileformats.collada.fileparser.elements/source/techniquecommon) { get; set; } | Gets or sets the technique common. The technique common specifies the common method for accessing this source element's data. |
 
 ### See Also
 

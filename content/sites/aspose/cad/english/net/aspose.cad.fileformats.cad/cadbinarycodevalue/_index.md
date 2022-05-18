@@ -23,19 +23,23 @@ public sealed class CadBinaryCodeValue : CadCodeValue
 
 | Name | Description |
 | --- | --- |
-| [Data](data) { get; set; } |  |
+| [Attribute](../../aspose.cad.fileformats.cad/cadcodevalue/attribute) { get; } |  |
+| [Code](../../aspose.cad.fileformats.cad/cadcodevalue/code) { get; set; } |  |
+| [Data](../../aspose.cad.fileformats.cad/cadbinarycodevalue/data) { get; set; } |  |
+| [Value](../../aspose.cad.fileformats.cad/cadcodevalue/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(CadCodeValue) |  |
-| override [GetBinaryData](getbinarydata)() |  |
-| override [GetBoolValue](getboolvalue)() |  |
-| override [GetDoubleValue](getdoublevalue)() |  |
-| override [GetIntValue](getintvalue)() |  |
-| override [GetLongValue](getlongvalue)() |  |
-| override [GetShortValue](getshortvalue)() |  |
+| override [Equals](../../aspose.cad.fileformats.cad/cadbinarycodevalue/equals)(CadCodeValue) |  |
+| override [GetBinaryData](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getbinarydata)() |  |
+| override [GetBoolValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getboolvalue)() |  |
+| override [GetDoubleValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getdoublevalue)() |  |
+| override [GetIntValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getintvalue)() |  |
+| override [GetLongValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getlongvalue)() |  |
+| override [GetShortValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getshortvalue)() |  |
+| virtual [GetStringValue](../../aspose.cad.fileformats.cad/cadcodevalue/getstringvalue)() |  |
 
 ### See Also
 

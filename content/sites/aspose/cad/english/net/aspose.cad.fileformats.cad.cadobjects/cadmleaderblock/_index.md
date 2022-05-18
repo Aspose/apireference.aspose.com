@@ -22,10 +22,10 @@ public class CadMLeaderBlock
 
 | Name | Description |
 | --- | --- |
-| [BlockAttributeIndex](blockattributeindex) { get; set; } |  |
-| [BlockAttributerId](blockattributerid) { get; set; } |  |
-| [BlockAttributeTextString](blockattributetextstring) { get; set; } |  |
-| [BlockAttributeWidth](blockattributewidth) { get; set; } |  |
+| [BlockAttributeIndex](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderblock/blockattributeindex) { get; set; } |  |
+| [BlockAttributerId](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderblock/blockattributerid) { get; set; } |  |
+| [BlockAttributeTextString](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderblock/blockattributetextstring) { get; set; } |  |
+| [BlockAttributeWidth](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderblock/blockattributewidth) { get; set; } |  |
 
 ### See Also
 

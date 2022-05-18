@@ -16,7 +16,13 @@ public abstract class FileSource : Source
 
 | Name | Description |
 | --- | --- |
-| abstract [IsTemporal](istemporal) { get; } |  |
+| abstract [IsTemporal](../../aspose.cad.sources/filesource/istemporal) { get; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| abstract [GetStreamContainer](../../aspose.cad/source/getstreamcontainer)() |  |
 
 ### See Also
 

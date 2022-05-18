@@ -23,17 +23,17 @@ public class Layer : XmpTypeBase, IEquatable<Layer>
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; set; } |  |
-| [Text](text) { get; set; } |  |
+| [Name](../../aspose.cad.xmp.schemas.photoshop/layer/name) { get; set; } |  |
+| [Text](../../aspose.cad.xmp.schemas.photoshop/layer/text) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](equals)(Layer) |  |
-| override [Equals](equals)(object) |  |
-| override [GetHashCode](gethashcode)() |  |
-| override [GetXmpRepresentation](getxmprepresentation)() |  |
+| [Equals](../../aspose.cad.xmp.schemas.photoshop/layer/equals)(Layer) |  |
+| override [Equals](../../aspose.cad.xmp.schemas.photoshop/layer/equals)(object) |  |
+| override [GetHashCode](../../aspose.cad.xmp.schemas.photoshop/layer/gethashcode)() |  |
+| override [GetXmpRepresentation](../../aspose.cad.xmp.schemas.photoshop/layer/getxmprepresentation)() |  |
 
 ### See Also
 

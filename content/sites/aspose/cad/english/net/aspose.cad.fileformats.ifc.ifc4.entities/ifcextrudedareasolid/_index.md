@@ -26,8 +26,20 @@ public class IfcExtrudedAreaSolid : IfcSweptAreaSolid
 
 | Name | Description |
 | --- | --- |
-| [Depth](depth) { get; set; } | Depth |
-| [ExtrudedDirection](extrudeddirection) { get; set; } | ExtrudedDirection |
+| [Depth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolid/depth) { get; set; } | Depth |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [ExtrudedDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolid/extrudeddirection) { get; set; } | ExtrudedDirection |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/position) { get; set; } | Position |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+| [SweptArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/sweptarea) { get; set; } | SweptArea |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

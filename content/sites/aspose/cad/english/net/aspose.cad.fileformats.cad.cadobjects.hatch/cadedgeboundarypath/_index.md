@@ -22,9 +22,9 @@ public class CadEdgeBoundaryPath : ICadBoundaryPath
 
 | Name | Description |
 | --- | --- |
-| [EdgeTypes](edgetypes) { get; set; } |  |
-| [NumberOfEdges](numberofedges) { get; set; } |  |
-| [Objects](objects) { get; set; } |  |
+| [EdgeTypes](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/edgetypes) { get; set; } |  |
+| [NumberOfEdges](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/numberofedges) { get; set; } |  |
+| [Objects](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/objects) { get; set; } |  |
 
 ### See Also
 

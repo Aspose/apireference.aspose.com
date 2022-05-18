@@ -24,9 +24,9 @@ public class ObjRoot
 
 | Name | Description |
 | --- | --- |
-| [Materials](materials) { get; set; } | Gets or sets the materials. |
-| [Shapes](shapes) { get; set; } | Gets or sets the shapes. |
-| [Vertices](vertices) { get; set; } | Gets or sets the vertices. |
+| [Materials](../../aspose.cad.fileformats.obj.elements/objroot/materials) { get; set; } | Gets or sets the materials. |
+| [Shapes](../../aspose.cad.fileformats.obj.elements/objroot/shapes) { get; set; } | Gets or sets the shapes. |
+| [Vertices](../../aspose.cad.fileformats.obj.elements/objroot/vertices) { get; set; } | Gets or sets the vertices. |
 
 ### See Also
 

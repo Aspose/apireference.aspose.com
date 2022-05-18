@@ -22,10 +22,21 @@ public class CadTableContent : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [FormatedTableDataParameters](formatedtabledataparameters) { get; set; } |  |
-| [LinkedDataParameters](linkeddataparameters) { get; set; } |  |
-| [LinkedTableDataParameters](linkedtabledataparameters) { get; set; } |  |
-| [TableContentParameters](tablecontentparameters) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [FormatedTableDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/formatedtabledataparameters) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [LinkedDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linkeddataparameters) { get; set; } |  |
+| [LinkedTableDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linkedtabledataparameters) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [TableContentParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/tablecontentparameters) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
 
 ### See Also
 

@@ -22,7 +22,7 @@ public class CadBlockStretchActionElement
 
 | Name | Description |
 | --- | --- |
-| [ParametersList](parameterslist) { get; set; } |  |
+| [ParametersList](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchactionelement/parameterslist) { get; set; } |  |
 
 ### See Also
 

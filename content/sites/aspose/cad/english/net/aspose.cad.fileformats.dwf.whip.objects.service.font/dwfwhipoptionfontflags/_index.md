@@ -24,7 +24,8 @@ public class DwfWhipOptionFontFlags : DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; } | Gets value of option |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [Value](../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontflags/value) { get; } | Gets value of option |
 
 ### See Also
 

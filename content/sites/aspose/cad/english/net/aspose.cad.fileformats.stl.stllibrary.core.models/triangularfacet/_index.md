@@ -24,11 +24,11 @@ public class TriangularFacet
 
 | Name | Description |
 | --- | --- |
-| [ColorData](colordata) { get; set; } | Gets or sets the surface color. |
-| [Normal](normal) { get; set; } | Gets or sets the surface normal to the triangular facet. |
-| [Vertex1](vertex1) { get; set; } | Gets or sets the coordinates of the first vertex. |
-| [Vertex2](vertex2) { get; set; } | Gets or sets the coordinates of the second vertex. |
-| [Vertex3](vertex3) { get; set; } | Gets or sets the coordinates of the third vertex. |
+| [ColorData](../../aspose.cad.fileformats.stl.stllibrary.core.models/triangularfacet/colordata) { get; set; } | Gets or sets the surface color. |
+| [Normal](../../aspose.cad.fileformats.stl.stllibrary.core.models/triangularfacet/normal) { get; set; } | Gets or sets the surface normal to the triangular facet. |
+| [Vertex1](../../aspose.cad.fileformats.stl.stllibrary.core.models/triangularfacet/vertex1) { get; set; } | Gets or sets the coordinates of the first vertex. |
+| [Vertex2](../../aspose.cad.fileformats.stl.stllibrary.core.models/triangularfacet/vertex2) { get; set; } | Gets or sets the coordinates of the second vertex. |
+| [Vertex3](../../aspose.cad.fileformats.stl.stllibrary.core.models/triangularfacet/vertex3) { get; set; } | Gets or sets the coordinates of the third vertex. |
 
 ### See Also
 

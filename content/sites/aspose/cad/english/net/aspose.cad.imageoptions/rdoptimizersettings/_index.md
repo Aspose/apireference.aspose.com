@@ -22,19 +22,19 @@ public class RdOptimizerSettings
 
 | Name | Description |
 | --- | --- |
-| [BppMax](bppmax) { get; set; } |  |
-| [BppScale](bppscale) { get; set; } |  |
-| [DiscretizedBppMax](discretizedbppmax) { get; } |  |
-| [MaxPixelValue](maxpixelvalue) { get; } |  |
-| [MaxQ](maxq) { get; set; } |  |
-| [MinQ](minq) { get; } |  |
-| [PsnrMax](psnrmax) { get; } |  |
+| [BppMax](../../aspose.cad.imageoptions/rdoptimizersettings/bppmax) { get; set; } |  |
+| [BppScale](../../aspose.cad.imageoptions/rdoptimizersettings/bppscale) { get; set; } |  |
+| [DiscretizedBppMax](../../aspose.cad.imageoptions/rdoptimizersettings/discretizedbppmax) { get; } |  |
+| [MaxPixelValue](../../aspose.cad.imageoptions/rdoptimizersettings/maxpixelvalue) { get; } |  |
+| [MaxQ](../../aspose.cad.imageoptions/rdoptimizersettings/maxq) { get; set; } |  |
+| [MinQ](../../aspose.cad.imageoptions/rdoptimizersettings/minq) { get; } |  |
+| [PsnrMax](../../aspose.cad.imageoptions/rdoptimizersettings/psnrmax) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Create](create)() |  |
+| static [Create](../../aspose.cad.imageoptions/rdoptimizersettings/create)() |  |
 
 ### See Also
 

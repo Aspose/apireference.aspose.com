@@ -18,8 +18,8 @@ public static class MifCodePageDecoder
 
 | Name | Description |
 | --- | --- |
-| static [GetCodePageFromMifPage](getcodepagefrommifpage)(MifCodePages) | Gets codepage for MIF codepage |
-| static [GetCodePageFromSymbol](getcodepagefromsymbol)(string) | Gets codepage from n symbol in M+nXXXX format |
+| static [GetCodePageFromMifPage](../../aspose.cad/mifcodepagedecoder/getcodepagefrommifpage)(MifCodePages) | Gets codepage for MIF codepage |
+| static [GetCodePageFromSymbol](../../aspose.cad/mifcodepagedecoder/getcodepagefromsymbol)(string) | Gets codepage from n symbol in M+nXXXX format |
 
 ### See Also
 

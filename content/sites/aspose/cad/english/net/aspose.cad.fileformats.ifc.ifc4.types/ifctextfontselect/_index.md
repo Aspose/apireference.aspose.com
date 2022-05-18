@@ -20,6 +20,12 @@ public class IfcTextFontSelect : IfcSelect
 | --- | --- |
 | [IfcTextFontSelect](ifctextfontselect)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Value](../../aspose.cad.fileformats.ifc/ifcselect/value) { get; set; } | Gets or sets the value. |
+
 ### See Also
 
 * class [IfcSelect](../../aspose.cad.fileformats.ifc/ifcselect)

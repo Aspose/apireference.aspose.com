@@ -24,7 +24,7 @@ public class Orient : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Text](text) { get; set; } | Gets or sets the values as text. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/orient/text) { get; set; } | Gets or sets the values as text. |
 
 ### See Also
 

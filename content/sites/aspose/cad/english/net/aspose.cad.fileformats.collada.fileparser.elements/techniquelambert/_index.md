@@ -24,14 +24,14 @@ public class TechniqueLambert : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Ambient](ambient) { get; set; } | Gets or sets the ambient. Declares the amount of ambient light reflected from the surface of this object. |
-| [Diffuse](diffuse) { get; set; } | Gets or sets the diffuse. Declares the amount of light diffusely reflected from the surface of this object. |
-| [Emission](emission) { get; set; } | Gets or sets the emission. Declares the amount of light emitted from the surface of this object. |
-| [IndexOfRefraction](indexofrefraction) { get; set; } | Gets or sets the index of refraction. Declares the index of refraction for perfectly refracted light as a single scalar index. |
-| [Reflective](reflective) { get; set; } | Gets or sets the reflective. Declares the color of a perfect mirror reflection. |
-| [Reflectivity](reflectivity) { get; set; } | Gets or sets the reflectivity. Declares the amount of perfect mirror reflection to be added to the reflected light as a value between 0.0 and 1.0. |
-| [Transparency](transparency) { get; set; } | Gets or sets the transparency. Declares the amount of perfectly refracted light added to the reflected color as a scalar value between 0.0 and 1.0. |
-| [Transparent](transparent) { get; set; } | Gets or sets the transparent. Declares the color of perfectly refracted light. |
+| [Ambient](../../aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/ambient) { get; set; } | Gets or sets the ambient. Declares the amount of ambient light reflected from the surface of this object. |
+| [Diffuse](../../aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/diffuse) { get; set; } | Gets or sets the diffuse. Declares the amount of light diffusely reflected from the surface of this object. |
+| [Emission](../../aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/emission) { get; set; } | Gets or sets the emission. Declares the amount of light emitted from the surface of this object. |
+| [IndexOfRefraction](../../aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/indexofrefraction) { get; set; } | Gets or sets the index of refraction. Declares the index of refraction for perfectly refracted light as a single scalar index. |
+| [Reflective](../../aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/reflective) { get; set; } | Gets or sets the reflective. Declares the color of a perfect mirror reflection. |
+| [Reflectivity](../../aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/reflectivity) { get; set; } | Gets or sets the reflectivity. Declares the amount of perfect mirror reflection to be added to the reflected light as a value between 0.0 and 1.0. |
+| [Transparency](../../aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/transparency) { get; set; } | Gets or sets the transparency. Declares the amount of perfectly refracted light added to the reflected color as a scalar value between 0.0 and 1.0. |
+| [Transparent](../../aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/transparent) { get; set; } | Gets or sets the transparent. Declares the color of perfectly refracted light. |
 
 ### See Also
 

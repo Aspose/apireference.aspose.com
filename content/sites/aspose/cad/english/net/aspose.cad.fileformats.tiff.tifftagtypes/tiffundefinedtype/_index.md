@@ -23,17 +23,25 @@ public class TiffUndefinedType : TiffDataType
 
 | Name | Description |
 | --- | --- |
-| override [Count](count) { get; } |  |
-| [Data](data) { get; set; } |  |
-| override [DataSize](datasize) { get; } |  |
-| override [TagType](tagtype) { get; } |  |
-| override [Value](value) { get; set; } |  |
+| [AlignedDataSize](../../aspose.cad.fileformats.tiff/tiffdatatype/aligneddatasize) { get; } |  |
+| override [Count](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/count) { get; } |  |
+| [Data](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/data) { get; set; } |  |
+| override [DataSize](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/datasize) { get; } |  |
+| [Id](../../aspose.cad.fileformats.tiff/tiffdatatype/id) { get; } |  |
+| [IsValid](../../aspose.cad.fileformats.tiff/tiffdatatype/isvalid) { get; } |  |
+| [TagId](../../aspose.cad.fileformats.tiff/tiffdatatype/tagid) { get; } |  |
+| override [TagType](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/tagtype) { get; } |  |
+| override [Value](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/value) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [WriteAdditionalData](writeadditionaldata)(TiffStreamWriter) |  |
+| [CompareTo](../../aspose.cad.fileformats.tiff/tiffdatatype/compareto)(object) |  |
+| virtual [DeepClone](../../aspose.cad.fileformats.tiff/tiffdatatype/deepclone)() |  |
+| override [ToString](../../aspose.cad.fileformats.tiff/tiffdatatype/tostring)() |  |
+| override [WriteAdditionalData](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/writeadditionaldata)(TiffStreamWriter) |  |
+| [WriteTag](../../aspose.cad.fileformats.tiff/tiffdatatype/writetag)(TiffStreamWriter, long) |  |
 
 ### See Also
 

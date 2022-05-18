@@ -24,7 +24,15 @@ public class IfcTextureVertex : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [Coordinates](coordinates) { get; set; } | Coordinates |
+| [Coordinates](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertex/coordinates) { get; set; } | Coordinates |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

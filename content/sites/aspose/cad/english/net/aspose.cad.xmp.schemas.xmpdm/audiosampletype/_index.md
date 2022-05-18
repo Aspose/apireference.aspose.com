@@ -16,19 +16,19 @@ public sealed class AudioSampleType
 
 | Name | Description |
 | --- | --- |
-| static [Compressed](compressed) { get; } |  |
-| static [Packed](packed) { get; } |  |
-| static [Sample16Int](sample16int) { get; } |  |
-| static [Sample24Int](sample24int) { get; } |  |
-| static [Sample32Float](sample32float) { get; } |  |
-| static [Sample32Int](sample32int) { get; } |  |
-| static [Sample8Int](sample8int) { get; } |  |
+| static [Compressed](../../aspose.cad.xmp.schemas.xmpdm/audiosampletype/compressed) { get; } |  |
+| static [Packed](../../aspose.cad.xmp.schemas.xmpdm/audiosampletype/packed) { get; } |  |
+| static [Sample16Int](../../aspose.cad.xmp.schemas.xmpdm/audiosampletype/sample16int) { get; } |  |
+| static [Sample24Int](../../aspose.cad.xmp.schemas.xmpdm/audiosampletype/sample24int) { get; } |  |
+| static [Sample32Float](../../aspose.cad.xmp.schemas.xmpdm/audiosampletype/sample32float) { get; } |  |
+| static [Sample32Int](../../aspose.cad.xmp.schemas.xmpdm/audiosampletype/sample32int) { get; } |  |
+| static [Sample8Int](../../aspose.cad.xmp.schemas.xmpdm/audiosampletype/sample8int) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() |  |
+| override [ToString](../../aspose.cad.xmp.schemas.xmpdm/audiosampletype/tostring)() |  |
 
 ### See Also
 

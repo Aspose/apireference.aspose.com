@@ -24,7 +24,8 @@ public class DwfWhipTextOptionScoring : DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| [Positions](positions) { get; } | Array of positions |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized) { get; } | Gets or sets value, that object is materialized |
+| [Positions](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptextoptionscoring/positions) { get; } | Array of positions |
 
 ### See Also
 

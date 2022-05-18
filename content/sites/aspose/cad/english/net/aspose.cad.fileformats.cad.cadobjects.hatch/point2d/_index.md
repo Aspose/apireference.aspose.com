@@ -22,8 +22,8 @@ public struct Point2D
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } |  |
-| [Y](y) { get; set; } |  |
+| [X](../../aspose.cad.fileformats.cad.cadobjects.hatch/point2d/x) { get; set; } |  |
+| [Y](../../aspose.cad.fileformats.cad.cadobjects.hatch/point2d/y) { get; set; } |  |
 
 ### See Also
 

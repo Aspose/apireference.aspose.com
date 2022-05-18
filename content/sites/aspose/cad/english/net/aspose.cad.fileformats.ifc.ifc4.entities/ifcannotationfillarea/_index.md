@@ -24,8 +24,18 @@ public class IfcAnnotationFillArea : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [InnerBoundaries](innerboundaries) { get; set; } | InnerBoundaries |
-| [OuterBoundary](outerboundary) { get; set; } | OuterBoundary |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
+| [InnerBoundaries](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcannotationfillarea/innerboundaries) { get; set; } | InnerBoundaries |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
+| [OuterBoundary](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcannotationfillarea/outerboundary) { get; set; } | OuterBoundary |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 
