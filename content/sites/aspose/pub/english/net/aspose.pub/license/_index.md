@@ -24,8 +24,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](setlicense)(Stream) | Licenses the component. |
-| [SetLicense](setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.pub/license/setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.pub/license/setlicense)(string) | Licenses the component. |
 
 ### See Also
 

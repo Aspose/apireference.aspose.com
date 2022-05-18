@@ -18,9 +18,9 @@ public static class PubFactory
 
 | Name | Description |
 | --- | --- |
-| static [CreateParser](createparser)(Stream) | Creates PUB parser for PUB stream |
-| static [CreateParser](createparser)(string) | Creates PUB parser for PUB file |
-| static [CreatePdfConverter](createpdfconverter)() | Creates PdfConverter |
+| static [CreateParser](../../aspose.pub/pubfactory/createparser)(Stream) | Creates PUB parser for PUB stream |
+| static [CreateParser](../../aspose.pub/pubfactory/createparser)(string) | Creates PUB parser for PUB file |
+| static [CreatePdfConverter](../../aspose.pub/pubfactory/createpdfconverter)() | Creates PdfConverter |
 
 ### See Also
 

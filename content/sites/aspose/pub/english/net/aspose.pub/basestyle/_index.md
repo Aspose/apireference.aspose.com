@@ -18,7 +18,7 @@ public abstract class BaseStyle
 
 | Name | Description |
 | --- | --- |
-| [IsEmpty](isempty) { get; } | Is style not initialized |
+| [IsEmpty](../../aspose.pub/basestyle/isempty) { get; } | Is style not initialized |
 
 ### See Also
 

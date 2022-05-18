@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pub
 second_title: Aspose.PUB for .NET API Reference
-description: TheAspose.PubnamespaceprovidesclassesdescribingPUBobjects.
+description: The Aspose.Pub namespace provides classes describing PUB objects.
 type: docs
 weight: 10
 url: /net/aspose.pub/
@@ -29,7 +29,7 @@ The **Aspose.Pub** namespace provides classes describing PUB objects.
 | Interface | Description |
 | --- | --- |
 | [IPdfConverter](./ipdfconverter) | Declares functionality to convert PUB document into PDF document |
-| [IPubParser](./ipubparser) | Declares functionality which parses publisher file and returns [`Document`](aspose.pub/document) object as result of parsing. |
+| [IPubParser](./ipubparser) | Declares functionality which parses publisher file and returns [`Document`](../aspose.pub/document) object as result of parsing. |
 ## Enumeration
 
 | Enumeration | Description |

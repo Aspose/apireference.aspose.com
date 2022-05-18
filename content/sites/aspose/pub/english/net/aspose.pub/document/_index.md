@@ -18,24 +18,24 @@ public class Document
 
 | Name | Description |
 | --- | --- |
-| [Colors](colors) { get; } | Array of colors |
-| [DefaultParagraphStyles](defaultparagraphstyles) { get; } | Array of default paragraph styles |
-| [DefaultTextStyles](defaulttextstyles) { get; } | Array of default text styles |
-| [DocumentSummaryInfo](documentsummaryinfo) { get; } | Document Summary Info |
-| [FieldCount](fieldcount) { get; } | Count of all fields |
-| [FontNames](fontnames) { get; } | Array of font names |
-| [Height](height) { get; } | Height of document in PUB metrics(EMUs) |
-| [SummaryInfo](summaryinfo) { get; } | Summary Info |
-| [Width](width) { get; } | Width of document in PUB metrics(EMUs) |
+| [Colors](../../aspose.pub/document/colors) { get; } | Array of colors |
+| [DefaultParagraphStyles](../../aspose.pub/document/defaultparagraphstyles) { get; } | Array of default paragraph styles |
+| [DefaultTextStyles](../../aspose.pub/document/defaulttextstyles) { get; } | Array of default text styles |
+| [DocumentSummaryInfo](../../aspose.pub/document/documentsummaryinfo) { get; } | Document Summary Info |
+| [FieldCount](../../aspose.pub/document/fieldcount) { get; } | Count of all fields |
+| [FontNames](../../aspose.pub/document/fontnames) { get; } | Array of font names |
+| [Height](../../aspose.pub/document/height) { get; } | Height of document in PUB metrics(EMUs) |
+| [SummaryInfo](../../aspose.pub/document/summaryinfo) { get; } | Summary Info |
+| [Width](../../aspose.pub/document/width) { get; } | Width of document in PUB metrics(EMUs) |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddDefaultParagraphStyle](adddefaultparagraphstyle)(ParagraphStyle) | Adds default paragraph style |
-| [AddDefaultTextStyle](adddefaulttextstyle)(TextStyle) | Adds default text style |
-| [SetDocSummaryInfo](setdocsummaryinfo)(DocSummaryInfo) | Sets document summary info |
-| [SetSummaryInfo](setsummaryinfo)(SummaryInfo) | Sets summary info |
+| [AddDefaultParagraphStyle](../../aspose.pub/document/adddefaultparagraphstyle)(ParagraphStyle) | Adds default paragraph style |
+| [AddDefaultTextStyle](../../aspose.pub/document/adddefaulttextstyle)(TextStyle) | Adds default text style |
+| [SetDocSummaryInfo](../../aspose.pub/document/setdocsummaryinfo)(DocSummaryInfo) | Sets document summary info |
+| [SetSummaryInfo](../../aspose.pub/document/setsummaryinfo)(SummaryInfo) | Sets summary info |
 
 ### See Also
 

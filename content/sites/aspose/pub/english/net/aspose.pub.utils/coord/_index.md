@@ -25,24 +25,24 @@ public class Coord : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [XLeft](xleft) { get; } | X-coordinate of upper-left corner in EMUs |
-| [XRight](xright) { get; } | X-coordinate of bottom-right corner in EMUs |
-| [YBottom](ybottom) { get; } | Y-coordinate of bottom-right corner in EMUs |
-| [YTop](ytop) { get; } | Y-coordinate of upper-left corner in EMUs |
+| [XLeft](../../aspose.pub.utils/coord/xleft) { get; } | X-coordinate of upper-left corner in EMUs |
+| [XRight](../../aspose.pub.utils/coord/xright) { get; } | X-coordinate of bottom-right corner in EMUs |
+| [YBottom](../../aspose.pub.utils/coord/ybottom) { get; } | Y-coordinate of bottom-right corner in EMUs |
+| [YTop](../../aspose.pub.utils/coord/ytop) { get; } | Y-coordinate of upper-left corner in EMUs |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CalculateHeight](calculateheight)() | Calculates height of figure(current Coord object) and returns result in inches |
-| [CalculateWidth](calculatewidth)() | Calculates width of figure(current Coord object) and returns result in inches |
-| [CalculateX](calculatex)() | Transforms value for X-coordinate from natural PUB metric system into inches |
-| [CalculateX](calculatex)(double) | Transforms value for X-coordinate from natural PUB metric system into inches |
-| [CalculateY](calculatey)() | Transforms value for Y-coordinate from natural PUB metric system into inches |
-| [CalculateY](calculatey)(double) | Transforms value for Y-coordinate from natural PUB metric system into inches |
-| [Clone](clone)() | Created copy of object |
-| [GetHeight](getheight)() | Returns height of current Coord object in natural PUB metrics |
-| [GetWidth](getwidth)() | Returns width of current Coord object in natural PUB metrics |
+| [CalculateHeight](../../aspose.pub.utils/coord/calculateheight)() | Calculates height of figure(current Coord object) and returns result in inches |
+| [CalculateWidth](../../aspose.pub.utils/coord/calculatewidth)() | Calculates width of figure(current Coord object) and returns result in inches |
+| [CalculateX](../../aspose.pub.utils/coord/calculatex)() | Transforms value for X-coordinate from natural PUB metric system into inches |
+| [CalculateX](../../aspose.pub.utils/coord/calculatex)(double) | Transforms value for X-coordinate from natural PUB metric system into inches |
+| [CalculateY](../../aspose.pub.utils/coord/calculatey)() | Transforms value for Y-coordinate from natural PUB metric system into inches |
+| [CalculateY](../../aspose.pub.utils/coord/calculatey)(double) | Transforms value for Y-coordinate from natural PUB metric system into inches |
+| [Clone](../../aspose.pub.utils/coord/clone)() | Created copy of object |
+| [GetHeight](../../aspose.pub.utils/coord/getheight)() | Returns height of current Coord object in natural PUB metrics |
+| [GetWidth](../../aspose.pub.utils/coord/getwidth)() | Returns width of current Coord object in natural PUB metrics |
 
 ### See Also
 

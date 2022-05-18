@@ -25,8 +25,8 @@ public class PubException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| override [Message](message) { get; } | Gets a message that describes the current exception. |
-| override [StackTrace](stacktrace) { get; } | Gets a string representation of the immediate frames on the call stack. |
+| override [Message](../../aspose.pub.exceptions/pubexception/message) { get; } | Gets a message that describes the current exception. |
+| override [StackTrace](../../aspose.pub.exceptions/pubexception/stacktrace) { get; } | Gets a string representation of the immediate frames on the call stack. |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public interface IPubParser
 
 | Name | Description |
 | --- | --- |
-| [Parse](parse)() | Parses publisher file and returns [`Document`](../document)object as result of parsing. |
+| [Parse](../../aspose.pub/ipubparser/parse)() | Parses publisher file and returns [`Document`](../document)object as result of parsing. |
 
 ### See Also
 

@@ -18,8 +18,8 @@ public interface IPdfConverter
 
 | Name | Description |
 | --- | --- |
-| [ConvertToPdf](converttopdf)(Document, Stream) | Converts PUB document into PDF format and saves result in stream passed |
-| [ConvertToPdf](converttopdf)(Document, string) | Converts PUB document into PDF format and saves result as PDF file |
+| [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf)(Document, Stream) | Converts PUB document into PDF format and saves result in stream passed |
+| [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf)(Document, string) | Converts PUB document into PDF format and saves result as PDF file |
 
 ### See Also
 

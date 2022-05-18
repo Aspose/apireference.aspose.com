@@ -24,14 +24,14 @@ public class TextGroup
 
 | Name | Description |
 | --- | --- |
-| [Style](style) { get; } | Style for text group |
-| [Text](text) { get; } | Text in group |
+| [Style](../../aspose.pub/textgroup/style) { get; } | Style for text group |
+| [Text](../../aspose.pub/textgroup/text) { get; } | Text in group |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [UpdateText](updatetext)(string) | Updates text |
+| [UpdateText](../../aspose.pub/textgroup/updatetext)(string) | Updates text |
 
 ### See Also
 

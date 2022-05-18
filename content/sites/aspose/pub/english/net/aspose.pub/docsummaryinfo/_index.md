@@ -24,18 +24,29 @@ public class DocSummaryInfo : MetaInfo
 
 | Name | Description |
 | --- | --- |
-| [Category](category) { get; } | Category |
-| [Company](company) { get; } | Company |
-| [Language](language) { get; } | Language value |
-| [UserDefinedProperties](userdefinedproperties) { get; } | User defined properties |
+| [Category](../../aspose.pub/docsummaryinfo/category) { get; } | Category |
+| [Clsid](../../aspose.pub/metainfo/clsid) { get; } | CLSID identifier |
+| [CodePage](../../aspose.pub/metainfo/codepage) { get; } | Code page identifier |
+| [Company](../../aspose.pub/docsummaryinfo/company) { get; } | Company |
+| [FMTID](../../aspose.pub/metainfo/fmtid) { get; } | FMTID identifier |
+| [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | Is little endian |
+| [Language](../../aspose.pub/docsummaryinfo/language) { get; } | Language value |
+| [Locale](../../aspose.pub/metainfo/locale) { get; } | Locale identifier |
+| [PropsCount](../../aspose.pub/metainfo/propscount) { get; } | Count of properties |
+| [PropsIdentifiers](../../aspose.pub/metainfo/propsidentifiers) { get; } | Identifiers of properties |
+| [RawByteOrder](../../aspose.pub/metainfo/rawbyteorder) { get; } | Raw byte order |
+| [SysID](../../aspose.pub/metainfo/sysid) { get; } | System identifier |
+| [UserDefinedProperties](../../aspose.pub/docsummaryinfo/userdefinedproperties) { get; } | User defined properties |
+| [Version](../../aspose.pub/metainfo/version) { get; } | Version value |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetCategory](setcategory)(string) | Sets category |
-| [SetCompany](setcompany)(string) | Sets company |
-| [SetLanguage](setlanguage)(string) | Sets language |
+| [GetProperty](../../aspose.pub/metainfo/getproperty)(uint) | Gets property by ID passed |
+| [SetCategory](../../aspose.pub/docsummaryinfo/setcategory)(string) | Sets category |
+| [SetCompany](../../aspose.pub/docsummaryinfo/setcompany)(string) | Sets company |
+| [SetLanguage](../../aspose.pub/docsummaryinfo/setlanguage)(string) | Sets language |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class TextParagraph
 
 | Name | Description |
 | --- | --- |
-| [Style](style) { get; } | Style of paragraph |
-| [TextParts](textparts) { get; } | Text groups |
+| [Style](../../aspose.pub/textparagraph/style) { get; } | Style of paragraph |
+| [TextParts](../../aspose.pub/textparagraph/textparts) { get; } | Text groups |
 
 ### See Also
 

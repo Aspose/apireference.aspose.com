@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pub.Exceptions
 second_title: Aspose.PUB for .NET API Reference
-description: NamespaceexceptionsdeclaresclassesforexceptionsinPUBarea
+description: Namespace exceptions declares classes for exceptions in PUB area
 type: docs
 weight: 20
 url: /net/aspose.pub.exceptions/
