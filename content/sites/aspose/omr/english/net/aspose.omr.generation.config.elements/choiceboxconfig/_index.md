@@ -24,14 +24,14 @@ public class ChoiceBoxConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [AnswersString](answersstring) { get; set; } | Gets or sets answer strings for ChoiceBox element |
-| [FontFamily](fontfamily) { get; set; } | The font family of the text |
-| [FontSize](fontsize) { get; set; } | The size of the text font |
-| [FontStyle](fontstyle) { get; set; } | The style of the text |
-| override [Name](name) { get; set; } | name of Choice box. For display value [`QuestionText`](./questiontext) |
-| [QuestionText](questiontext) { get; set; } | Gets or sets question text for ChoiceBox element |
-| [TextAlignment](textalignment) { get; set; } | Text alignment, indicating where text should be drawn on page |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [AnswersString](../../aspose.omr.generation.config.elements/choiceboxconfig/answersstring) { get; set; } | Gets or sets answer strings for ChoiceBox element |
+| [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | The font family of the text |
+| [FontSize](../../aspose.omr.generation.config.elements/choiceboxconfig/fontsize) { get; set; } | The size of the text font |
+| [FontStyle](../../aspose.omr.generation.config.elements/choiceboxconfig/fontstyle) { get; set; } | The style of the text |
+| override [Name](../../aspose.omr.generation.config.elements/choiceboxconfig/name) { get; set; } | name of Choice box. For display value [`QuestionText`](./questiontext) |
+| [QuestionText](../../aspose.omr.generation.config.elements/choiceboxconfig/questiontext) { get; set; } | Gets or sets question text for ChoiceBox element |
+| [TextAlignment](../../aspose.omr.generation.config.elements/choiceboxconfig/textalignment) { get; set; } | Text alignment, indicating where text should be drawn on page |
+| override [Type](../../aspose.omr.generation.config.elements/choiceboxconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

@@ -24,13 +24,13 @@ public class ImageConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Height of the image |
-| override [Name](name) { get; set; } | Name of picture. Required. |
-| [Path](path) { get; set; } | Path to picture. Filled using [`Name`](./name) and [`ImagesPaths`](../../aspose.omr.generation/globalpagesettings/imagespaths) |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
-| [Width](width) { get; set; } | Width of the image |
-| [XPosition](xposition) { get; set; } | Grid X position on page, overrides the alignment |
-| [YPosition](yposition) { get; set; } | Grid Y position on page, overrides the alignment |
+| [Height](../../aspose.omr.generation.config.elements/imageconfig/height) { get; set; } | Height of the image |
+| override [Name](../../aspose.omr.generation.config.elements/imageconfig/name) { get; set; } | Name of picture. Required. |
+| [Path](../../aspose.omr.generation.config.elements/imageconfig/path) { get; set; } | Path to picture. Filled using [`Name`](./name) and [`ImagesPaths`](../../aspose.omr.generation/globalpagesettings/imagespaths) |
+| override [Type](../../aspose.omr.generation.config.elements/imageconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [Width](../../aspose.omr.generation.config.elements/imageconfig/width) { get; set; } | Width of the image |
+| [XPosition](../../aspose.omr.generation.config.elements/imageconfig/xposition) { get; set; } | Grid X position on page, overrides the alignment |
+| [YPosition](../../aspose.omr.generation.config.elements/imageconfig/yposition) { get; set; } | Grid Y position on page, overrides the alignment |
 
 ### See Also
 

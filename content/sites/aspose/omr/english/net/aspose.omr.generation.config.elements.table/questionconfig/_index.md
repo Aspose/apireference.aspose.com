@@ -24,8 +24,8 @@ public class QuestionConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| override [Name](name) { get; set; } | Value of Question |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Name](../../aspose.omr.generation.config.elements.table/questionconfig/name) { get; set; } | Value of Question |
+| override [Type](../../aspose.omr.generation.config.elements.table/questionconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

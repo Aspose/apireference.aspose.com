@@ -20,11 +20,11 @@ public class CorrectionControl : UserControl, IComponentConnector
 
 | Name | Description |
 | --- | --- |
-| [ExportResults](exportresults)(string) | Export the recognition results for the image |
-| [Initialize](initialize)() | Initialize the control |
-| [InitializeComponent](initializecomponent)() | InitializeComponent |
-| [LoadAndDisplayImage](loadanddisplayimage)(string) | Load and display the image for the recognition |
-| [RecognizeImage](recognizeimage)() | Recognize image |
+| [ExportResults](../../aspose.omr.correctionui/correctioncontrol/exportresults)(string) | Export the recognition results for the image |
+| [Initialize](../../aspose.omr.correctionui/correctioncontrol/initialize)() | Initialize the control |
+| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent)() | InitializeComponent |
+| [LoadAndDisplayImage](../../aspose.omr.correctionui/correctioncontrol/loadanddisplayimage)(string) | Load and display the image for the recognition |
+| [RecognizeImage](../../aspose.omr.correctionui/correctioncontrol/recognizeimage)() | Recognize image |
 
 ### See Also
 

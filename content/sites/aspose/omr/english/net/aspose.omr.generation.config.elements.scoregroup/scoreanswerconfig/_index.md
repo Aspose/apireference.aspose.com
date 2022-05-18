@@ -24,8 +24,14 @@ public class ScoreAnswerConfig : ContentConfig
 
 | Name | Description |
 | --- | --- |
-| [Score](score) { get; set; } | Amount of score |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Alignment of content string inside parent |
+| [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Type of text display. |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | The font family of the text |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | The size of the text font |
+| [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | The style of the text |
+| override [Name](../../aspose.omr.generation.config.elements/contentconfig/name) { get; set; } | Content value |
+| [Score](../../aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/score) { get; set; } | Amount of score |
+| override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

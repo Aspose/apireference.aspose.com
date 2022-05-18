@@ -24,10 +24,10 @@ public class ParagraphConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| override [Name](name) { get; set; } | Name of paragraph |
-| [ParagraphType](paragraphtype) { get; set; } | Type of Paragraph |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Children](../../aspose.omr.generation.config.elements.parents/paragraphconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| override [Name](../../aspose.omr.generation.config.elements.parents/paragraphconfig/name) { get; set; } | Name of paragraph |
+| [ParagraphType](../../aspose.omr.generation.config.elements.parents/paragraphconfig/paragraphtype) { get; set; } | Type of Paragraph |
+| override [Type](../../aspose.omr.generation.config.elements.parents/paragraphconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

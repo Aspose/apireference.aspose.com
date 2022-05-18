@@ -24,14 +24,14 @@ public class BlockConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [BorderColor](bordercolor) { get; set; } | Color of border |
-| [BorderSize](bordersize) { get; set; } | Size of border line |
-| [BorderType](bordertype) { get; set; } | Type of drawn border |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| [Column](column) { get; set; } | When placed in multi-column container - represent position in parent |
-| [IsClipped](isclipped) { get; set; } | If true block, and all it's content will be clipped as picture upon recognition |
-| override [Name](name) { get; set; } | Name of Block element |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [BorderColor](../../aspose.omr.generation.config.elements.parents/blockconfig/bordercolor) { get; set; } | Color of border |
+| [BorderSize](../../aspose.omr.generation.config.elements.parents/blockconfig/bordersize) { get; set; } | Size of border line |
+| [BorderType](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertype) { get; set; } | Type of drawn border |
+| override [Children](../../aspose.omr.generation.config.elements.parents/blockconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column) { get; set; } | When placed in multi-column container - represent position in parent |
+| [IsClipped](../../aspose.omr.generation.config.elements.parents/blockconfig/isclipped) { get; set; } | If true block, and all it's content will be clipped as picture upon recognition |
+| override [Name](../../aspose.omr.generation.config.elements.parents/blockconfig/name) { get; set; } | Name of Block element |
+| override [Type](../../aspose.omr.generation.config.elements.parents/blockconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

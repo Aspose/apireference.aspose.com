@@ -24,9 +24,9 @@ public class PageConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| override [Name](name) { get; set; } | Name of page |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Children](../../aspose.omr.generation.config.elements.parents/pageconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| override [Name](../../aspose.omr.generation.config.elements.parents/pageconfig/name) { get; set; } | Name of page |
+| override [Type](../../aspose.omr.generation.config.elements.parents/pageconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

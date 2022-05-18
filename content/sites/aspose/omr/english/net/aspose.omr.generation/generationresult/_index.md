@@ -18,18 +18,18 @@ public class GenerationResult
 
 | Name | Description |
 | --- | --- |
-| [ErrorCode](errorcode) { get; set; } | Gets or sets the error code. Equals 0 if no errors occurred. |
-| [ErrorMessage](errormessage) { get; set; } | Gets or sets the message describing error. Empty if no errors occurred. |
-| [Template](template) { get; set; } | Gets or sets the Template JSON string |
-| [TemplateImage](templateimage) { get; set; } | Gets or sets the generated Template Image |
-| [Warnings](warnings) { get; set; } | Gets or sets list of the warnings messages describing non-critical faults appeared during generation |
+| [ErrorCode](../../aspose.omr.generation/generationresult/errorcode) { get; set; } | Gets or sets the error code. Equals 0 if no errors occurred. |
+| [ErrorMessage](../../aspose.omr.generation/generationresult/errormessage) { get; set; } | Gets or sets the message describing error. Empty if no errors occurred. |
+| [Template](../../aspose.omr.generation/generationresult/template) { get; set; } | Gets or sets the Template JSON string |
+| [TemplateImage](../../aspose.omr.generation/generationresult/templateimage) { get; set; } | Gets or sets the generated Template Image |
+| [Warnings](../../aspose.omr.generation/generationresult/warnings) { get; set; } | Gets or sets list of the warnings messages describing non-critical faults appeared during generation |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(string, string) | Save template images and template to the specified folder |
-| [SaveAsPdf](saveaspdf)(string, string) | Save template images and template to the specified folder Template image saved as pdf |
+| [Save](../../aspose.omr.generation/generationresult/save)(string, string) | Save template images and template to the specified folder |
+| [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | Save template images and template to the specified folder Template image saved as pdf |
 
 ## Other Members
 

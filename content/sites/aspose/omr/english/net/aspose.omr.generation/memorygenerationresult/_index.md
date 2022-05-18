@@ -24,9 +24,9 @@ public class MemoryGenerationResult
 
 | Name | Description |
 | --- | --- |
-| [GetImages](getimages)() | Get .png files from the [`GenerationResult`](../generationresult) as MemoryStream. |
-| [GetOmr](getomr)(Encoding) | Get content of .omr file from the [`GenerationResult`](../generationresult) as MemoryStream. By default text encoded in UTF8 encoding. |
-| [GetPDF](getpdf)() | Get .pdf files from the [`GenerationResult`](../generationresult) as MemoryStream. |
+| [GetImages](../../aspose.omr.generation/memorygenerationresult/getimages)() | Get .png files from the [`GenerationResult`](../generationresult) as MemoryStream. |
+| [GetOmr](../../aspose.omr.generation/memorygenerationresult/getomr)(Encoding) | Get content of .omr file from the [`GenerationResult`](../generationresult) as MemoryStream. By default text encoded in UTF8 encoding. |
+| [GetPDF](../../aspose.omr.generation/memorygenerationresult/getpdf)() | Get .pdf files from the [`GenerationResult`](../generationresult) as MemoryStream. |
 
 ### See Also
 

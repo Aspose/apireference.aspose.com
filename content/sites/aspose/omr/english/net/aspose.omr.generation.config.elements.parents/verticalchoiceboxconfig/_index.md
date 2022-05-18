@@ -24,11 +24,11 @@ public class VerticalChoiceBoxConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| override [Name](name) { get; set; } | Value of Question |
-| [Threshold](threshold) { get; set; } | Percent of pixels after which bubbles considered marked |
-| [TopPadding](toppadding) { get; set; } | Amount of pixels. Can be used to add extra space above element. Or remove existing space by setting a negative value(e.g. -40) |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Children](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| override [Name](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/name) { get; set; } | Value of Question |
+| [Threshold](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold) { get; set; } | Percent of pixels after which bubbles considered marked |
+| [TopPadding](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/toppadding) { get; set; } | Amount of pixels. Can be used to add extra space above element. Or remove existing space by setting a negative value(e.g. -40) |
+| override [Type](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

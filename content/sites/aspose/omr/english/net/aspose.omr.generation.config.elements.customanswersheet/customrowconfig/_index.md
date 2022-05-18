@@ -24,9 +24,9 @@ public class CustomRowConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| override [Name](name) { get; set; } | Name of custom row |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Children](../../aspose.omr.generation.config.elements.customanswersheet/customrowconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| override [Name](../../aspose.omr.generation.config.elements.customanswersheet/customrowconfig/name) { get; set; } | Name of custom row |
+| override [Type](../../aspose.omr.generation.config.elements.customanswersheet/customrowconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

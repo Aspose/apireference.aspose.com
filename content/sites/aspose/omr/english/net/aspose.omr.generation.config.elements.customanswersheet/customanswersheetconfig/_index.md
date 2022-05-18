@@ -24,15 +24,15 @@ public class CustomAnswerSheetConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [Amount](amount) { get; set; } | Total amount of rows |
-| [BorderColor](bordercolor) { get; set; } | Color of border |
-| [BorderSize](bordersize) { get; set; } | Size of border line |
-| [BorderType](bordertype) { get; set; } | Type of drawn border to separate columns(sections) |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| [ColumnsCount](columnscount) { get; set; } | Amount of columns(sections) to group rows |
-| override [Name](name) { get; set; } | Name of RepeatRows element |
-| [Proportions](proportions) { get; set; } | Width ratio of each column inside it |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [Amount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount) { get; set; } | Total amount of rows |
+| [BorderColor](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordercolor) { get; set; } | Color of border |
+| [BorderSize](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordersize) { get; set; } | Size of border line |
+| [BorderType](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertype) { get; set; } | Type of drawn border to separate columns(sections) |
+| override [Children](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| [ColumnsCount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/columnscount) { get; set; } | Amount of columns(sections) to group rows |
+| override [Name](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/name) { get; set; } | Name of RepeatRows element |
+| [Proportions](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/proportions) { get; set; } | Width ratio of each column inside it |
+| override [Type](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

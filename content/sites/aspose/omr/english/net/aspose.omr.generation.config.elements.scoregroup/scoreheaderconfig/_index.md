@@ -24,10 +24,15 @@ public class ScoreHeaderConfig : ContentConfig
 
 | Name | Description |
 | --- | --- |
-| [HeaderType](headertype) { get; set; } | The type of header |
-| override [Name](name) { get; set; } | Title of column header |
-| [Score](score) { get; set; } | Score modifier |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Alignment of content string inside parent |
+| [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Type of text display. |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | The font family of the text |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | The size of the text font |
+| [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | The style of the text |
+| [HeaderType](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/headertype) { get; set; } | The type of header |
+| override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/name) { get; set; } | Title of column header |
+| [Score](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/score) { get; set; } | Score modifier |
+| override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

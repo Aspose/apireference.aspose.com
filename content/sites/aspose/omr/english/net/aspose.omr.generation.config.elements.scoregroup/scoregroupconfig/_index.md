@@ -24,10 +24,10 @@ public class ScoreGroupConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| override [Name](name) { get; set; } | Name of RepeatRows element |
-| [ScoreGroupType](scoregrouptype) { get; set; } | Type of score group |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Children](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/name) { get; set; } | Name of RepeatRows element |
+| [ScoreGroupType](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype) { get; set; } | Type of score group |
+| override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

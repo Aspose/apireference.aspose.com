@@ -24,9 +24,9 @@ public class WriteInConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| override [Name](name) { get; set; } | Name of Write-In area and name of picture when recognized. |
-| [Required](required) { get; set; } | Is clipping of write-in field required |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Name](../../aspose.omr.generation.config.elements/writeinconfig/name) { get; set; } | Name of Write-In area and name of picture when recognized. |
+| [Required](../../aspose.omr.generation.config.elements/writeinconfig/required) { get; set; } | Is clipping of write-in field required |
+| override [Type](../../aspose.omr.generation.config.elements/writeinconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

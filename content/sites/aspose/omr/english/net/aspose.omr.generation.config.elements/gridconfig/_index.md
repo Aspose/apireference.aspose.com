@@ -24,18 +24,18 @@ public class GridConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [Column](column) { get; set; } | When element is drawn in multi-column parent - represent position. |
-| [GridAlignment](gridalignment) { get; set; } | Grid alignment, indicates where grid should be drawn on page |
-| [GridOrientation](gridorientation) { get; set; } | Grid orientation: horizontal or vertical. Indicates how child elements should be positioned |
-| [HeaderBorderColor](headerbordercolor) { get; set; } | Square border color |
-| [HeaderBorderSize](headerbordersize) { get; set; } | Square border size |
-| [HeaderType](headertype) { get; set; } | Indicates what type of element to draw at the start of the grid |
-| override [Name](name) { get; set; } | Name of grid. Used as identifier in recognition |
-| [OptionsCount](optionscount) { get; set; } | Amount of answer options in each choice box, i.e. rows in top-down grid |
-| [SectionsCount](sectionscount) { get; set; } | Amount of choice boxes inside grid, i.e. columns in top-down grid |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
-| [XPosition](xposition) { get; set; } | Grid X position on page, overrides the alignment |
-| [YPosition](yposition) { get; set; } | Grid Y position on page, overrides the alignment |
+| [Column](../../aspose.omr.generation.config.elements/gridconfig/column) { get; set; } | When element is drawn in multi-column parent - represent position. |
+| [GridAlignment](../../aspose.omr.generation.config.elements/gridconfig/gridalignment) { get; set; } | Grid alignment, indicates where grid should be drawn on page |
+| [GridOrientation](../../aspose.omr.generation.config.elements/gridconfig/gridorientation) { get; set; } | Grid orientation: horizontal or vertical. Indicates how child elements should be positioned |
+| [HeaderBorderColor](../../aspose.omr.generation.config.elements/gridconfig/headerbordercolor) { get; set; } | Square border color |
+| [HeaderBorderSize](../../aspose.omr.generation.config.elements/gridconfig/headerbordersize) { get; set; } | Square border size |
+| [HeaderType](../../aspose.omr.generation.config.elements/gridconfig/headertype) { get; set; } | Indicates what type of element to draw at the start of the grid |
+| override [Name](../../aspose.omr.generation.config.elements/gridconfig/name) { get; set; } | Name of grid. Used as identifier in recognition |
+| [OptionsCount](../../aspose.omr.generation.config.elements/gridconfig/optionscount) { get; set; } | Amount of answer options in each choice box, i.e. rows in top-down grid |
+| [SectionsCount](../../aspose.omr.generation.config.elements/gridconfig/sectionscount) { get; set; } | Amount of choice boxes inside grid, i.e. columns in top-down grid |
+| override [Type](../../aspose.omr.generation.config.elements/gridconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [XPosition](../../aspose.omr.generation.config.elements/gridconfig/xposition) { get; set; } | Grid X position on page, overrides the alignment |
+| [YPosition](../../aspose.omr.generation.config.elements/gridconfig/yposition) { get; set; } | Grid Y position on page, overrides the alignment |
 
 ### See Also
 

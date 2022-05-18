@@ -24,20 +24,20 @@ public class CompositeGridConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [Column](column) { get; set; } | When element is drawn in multi-column parent - represent position. |
-| [ColumnsCount](columnscount) { get; set; } | Amount of columns inside grid. Each column represent single symbol in result value Amount have to be equal to [`ExtraRow`](./extrarow) amount of columns |
-| [ExtraRow](extrarow) { get; set; } | Column-specific values that will be placed on top of default ones - [`Values`](./values). Presented as two dimensional array. First - row. Second - column. Each string represent text inside bubble. if string is null no bubble will be placed. Amount of columns have to be equal to [`ColumnsCount`](./columnscount) |
-| [GridAlignment](gridalignment) { get; set; } | Grid alignment, indicates where grid should be drawn on page |
-| [GridOrientation](gridorientation) { get; set; } | Grid orientation: horizontal or vertical. Indicates how child elements should be positioned |
-| [HeaderBorderColor](headerbordercolor) { get; set; } | Square border color |
-| [HeaderBorderSize](headerbordersize) { get; set; } | Square border size |
-| [HeaderType](headertype) { get; set; } | Indicates what type of element to draw at the start of the grid |
-| override [Name](name) { get; set; } | Name of grid. Used as identifier in recognition |
-| [RotationAngle](rotationangle) { get; set; } | Describe rotation of Grid element around its own axis. "90" - rotate CompositeGrid 90 degrees "-90" - rotate ComopositeGrid to -90 degrees |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
-| [Values](values) { get; set; } | Collection of strings that will describe possible symbols in each column. Column-specific values are placed in [`ExtraRow`](./extrarow) |
-| [XPosition](xposition) { get; set; } | Grid X position on page, overrides the alignment |
-| [YPosition](yposition) { get; set; } | Grid Y position on page, overrides the alignment |
+| [Column](../../aspose.omr.generation.config.elements/compositegridconfig/column) { get; set; } | When element is drawn in multi-column parent - represent position. |
+| [ColumnsCount](../../aspose.omr.generation.config.elements/compositegridconfig/columnscount) { get; set; } | Amount of columns inside grid. Each column represent single symbol in result value Amount have to be equal to [`ExtraRow`](./extrarow) amount of columns |
+| [ExtraRow](../../aspose.omr.generation.config.elements/compositegridconfig/extrarow) { get; set; } | Column-specific values that will be placed on top of default ones - [`Values`](./values). Presented as two dimensional array. First - row. Second - column. Each string represent text inside bubble. if string is null no bubble will be placed. Amount of columns have to be equal to [`ColumnsCount`](./columnscount) |
+| [GridAlignment](../../aspose.omr.generation.config.elements/compositegridconfig/gridalignment) { get; set; } | Grid alignment, indicates where grid should be drawn on page |
+| [GridOrientation](../../aspose.omr.generation.config.elements/compositegridconfig/gridorientation) { get; set; } | Grid orientation: horizontal or vertical. Indicates how child elements should be positioned |
+| [HeaderBorderColor](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordercolor) { get; set; } | Square border color |
+| [HeaderBorderSize](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordersize) { get; set; } | Square border size |
+| [HeaderType](../../aspose.omr.generation.config.elements/compositegridconfig/headertype) { get; set; } | Indicates what type of element to draw at the start of the grid |
+| override [Name](../../aspose.omr.generation.config.elements/compositegridconfig/name) { get; set; } | Name of grid. Used as identifier in recognition |
+| [RotationAngle](../../aspose.omr.generation.config.elements/compositegridconfig/rotationangle) { get; set; } | Describe rotation of Grid element around its own axis. "90" - rotate CompositeGrid 90 degrees "-90" - rotate ComopositeGrid to -90 degrees |
+| override [Type](../../aspose.omr.generation.config.elements/compositegridconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [Values](../../aspose.omr.generation.config.elements/compositegridconfig/values) { get; set; } | Collection of strings that will describe possible symbols in each column. Column-specific values are placed in [`ExtraRow`](./extrarow) |
+| [XPosition](../../aspose.omr.generation.config.elements/compositegridconfig/xposition) { get; set; } | Grid X position on page, overrides the alignment |
+| [YPosition](../../aspose.omr.generation.config.elements/compositegridconfig/yposition) { get; set; } | Grid Y position on page, overrides the alignment |
 
 ### See Also
 

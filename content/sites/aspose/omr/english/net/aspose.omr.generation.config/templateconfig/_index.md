@@ -24,9 +24,9 @@ public class TemplateConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| override [Name](name) { get; set; } | Template name |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Children](../../aspose.omr.generation.config/templateconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| override [Name](../../aspose.omr.generation.config/templateconfig/name) { get; set; } | Template name |
+| override [Type](../../aspose.omr.generation.config/templateconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

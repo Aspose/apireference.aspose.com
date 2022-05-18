@@ -24,17 +24,17 @@ public class OmrEngine
 
 | Name | Description |
 | --- | --- |
-| [GenerateJSONTemplate](generatejsontemplate)(string, GlobalPageSettings) | Creates a template (.omr) and template image based on .json markup |
-| [GenerateTemplate](generatetemplate)(MemoryStream) | Creates a template (.omr) and template image based on MemoryStream |
-| [GenerateTemplate](generatetemplate)(string) | Creates a template (.omr) and template image based on text markup |
-| [GenerateTemplate](generatetemplate)(string[]) | Creates a template (.omr) and template image based on an array of the markup lines |
-| [GenerateTemplate](generatetemplate)(MemoryStream, GlobalPageSettings) | Creates a template (.omr) and template image based on MemoryStream |
-| [GenerateTemplate](generatetemplate)(string, GlobalPageSettings) | Creates a template (.omr) and template image based on text markup |
-| [GenerateTemplate](generatetemplate)(string, string[]) | Creates a template (.omr) and template image based on text markup |
-| [GenerateTemplate](generatetemplate)(string[], GlobalPageSettings) | Creates a template (.omr) and template image based on an array of the markup lines |
-| [GenerateTemplate](generatetemplate)(TemplateConfig, GlobalPageSettings) | Creates a template (.omr) and template image based on Template object |
-| [GetCorrectionControl](getcorrectioncontrol)(TemplateProcessor) | Creates the [`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) instance that allows working with OMR API using GUI. Takes [`TemplateProcessor`](../templateprocessor) as a parameter and only works with images created using specified template |
-| [GetTemplateProcessor](gettemplateprocessor)(string) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
+| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings) | Creates a template (.omr) and template image based on .json markup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate)(MemoryStream) | Creates a template (.omr) and template image based on MemoryStream |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate)(string) | Creates a template (.omr) and template image based on text markup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate)(string[]) | Creates a template (.omr) and template image based on an array of the markup lines |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate)(MemoryStream, GlobalPageSettings) | Creates a template (.omr) and template image based on MemoryStream |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate)(string, GlobalPageSettings) | Creates a template (.omr) and template image based on text markup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate)(string, string[]) | Creates a template (.omr) and template image based on text markup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate)(string[], GlobalPageSettings) | Creates a template (.omr) and template image based on an array of the markup lines |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate)(TemplateConfig, GlobalPageSettings) | Creates a template (.omr) and template image based on Template object |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Creates the [`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) instance that allows working with OMR API using GUI. Takes [`TemplateProcessor`](../templateprocessor) as a parameter and only works with images created using specified template |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor)(string) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
 
 ### Examples
 

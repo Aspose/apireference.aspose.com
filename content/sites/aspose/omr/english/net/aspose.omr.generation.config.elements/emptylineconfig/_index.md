@@ -24,9 +24,9 @@ public class EmptyLineConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Height in pixels. |
-| override [Name](name) { get; set; } | Name of empty line skip - does not drawn or participate in recognition |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [Height](../../aspose.omr.generation.config.elements/emptylineconfig/height) { get; set; } | Height in pixels. |
+| override [Name](../../aspose.omr.generation.config.elements/emptylineconfig/name) { get; set; } | Name of empty line skip - does not drawn or participate in recognition |
+| override [Type](../../aspose.omr.generation.config.elements/emptylineconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

@@ -18,7 +18,9 @@ public abstract class ParentConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| abstract [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| abstract [Children](../../aspose.omr.generation.config/parentconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | Name of omr element. Can be used in different cases based on element |
+| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | Type of omr element. Does not have default value. Must be overridden. |
 
 ### See Also
 

@@ -24,13 +24,13 @@ public class InputGroup : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [BorderColor](bordercolor) { get; set; } | Color of border |
-| [BorderSize](bordersize) { get; set; } | Size of border line |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| [InputBorder](inputborder) { get; set; } | Type of drawn border |
-| [LabelBorder](labelborder) { get; set; } | Type of drawn border |
-| override [Name](name) { get; set; } | Name of grouping element |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [BorderColor](../../aspose.omr.generation.config.elements/inputgroup/bordercolor) { get; set; } | Color of border |
+| [BorderSize](../../aspose.omr.generation.config.elements/inputgroup/bordersize) { get; set; } | Size of border line |
+| override [Children](../../aspose.omr.generation.config.elements/inputgroup/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| [InputBorder](../../aspose.omr.generation.config.elements/inputgroup/inputborder) { get; set; } | Type of drawn border |
+| [LabelBorder](../../aspose.omr.generation.config.elements/inputgroup/labelborder) { get; set; } | Type of drawn border |
+| override [Name](../../aspose.omr.generation.config.elements/inputgroup/name) { get; set; } | Name of grouping element |
+| override [Type](../../aspose.omr.generation.config.elements/inputgroup/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

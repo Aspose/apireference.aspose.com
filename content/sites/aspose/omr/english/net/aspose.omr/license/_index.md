@@ -24,14 +24,14 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [Embedded](embedded) { get; set; } | License number was added as embedded resource. |
+| [Embedded](../../aspose.omr/license/embedded) { get; set; } | License number was added as embedded resource. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](setlicense)(Stream) | Licenses the component. |
-| [SetLicense](setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.omr/license/setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.omr/license/setlicense)(string) | Licenses the component. |
 
 ### Examples
 

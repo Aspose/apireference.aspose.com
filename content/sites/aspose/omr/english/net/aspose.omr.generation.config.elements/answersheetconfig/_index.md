@@ -24,15 +24,15 @@ public class AnswerSheetConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [AnswersCount](answerscount) { get; set; } | The number of answer options for each question in the answer sheet. |
-| [AnswersValues](answersvalues) { get; set; } | Each value represent symbol inside of bubble. Must have same count as [`AnswersCount`](./answerscount) Example: new string[] {"A", "B", "C", "D"} Example: new string[] {"1", "2", "3", "4"} |
-| [Column](column) { get; set; } | Indicates in which column to draw sheet |
-| [ColumnsCount](columnscount) { get; set; } | Sets the number of columns to be drawn. |
-| [ElementsCount](elementscount) { get; set; } | Determines the total number of questions in the answer sheet. |
-| override [Name](name) { get; set; } | Name of answer sheet |
-| [StartId](startid) { get; set; } | The starting index of the questions numbering |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
-| [VerticalMargin](verticalmargin) { get; set; } | Vertical margin of answer sheet. Set in pixels. |
+| [AnswersCount](../../aspose.omr.generation.config.elements/answersheetconfig/answerscount) { get; set; } | The number of answer options for each question in the answer sheet. |
+| [AnswersValues](../../aspose.omr.generation.config.elements/answersheetconfig/answersvalues) { get; set; } | Each value represent symbol inside of bubble. Must have same count as [`AnswersCount`](./answerscount) Example: new string[] {"A", "B", "C", "D"} Example: new string[] {"1", "2", "3", "4"} |
+| [Column](../../aspose.omr.generation.config.elements/answersheetconfig/column) { get; set; } | Indicates in which column to draw sheet |
+| [ColumnsCount](../../aspose.omr.generation.config.elements/answersheetconfig/columnscount) { get; set; } | Sets the number of columns to be drawn. |
+| [ElementsCount](../../aspose.omr.generation.config.elements/answersheetconfig/elementscount) { get; set; } | Determines the total number of questions in the answer sheet. |
+| override [Name](../../aspose.omr.generation.config.elements/answersheetconfig/name) { get; set; } | Name of answer sheet |
+| [StartId](../../aspose.omr.generation.config.elements/answersheetconfig/startid) { get; set; } | The starting index of the questions numbering |
+| override [Type](../../aspose.omr.generation.config.elements/answersheetconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/answersheetconfig/verticalmargin) { get; set; } | Vertical margin of answer sheet. Set in pixels. |
 
 ### See Also
 

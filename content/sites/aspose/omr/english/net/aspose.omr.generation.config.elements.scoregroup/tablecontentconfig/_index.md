@@ -24,9 +24,15 @@ public class TableContentConfig : ContentConfig
 
 | Name | Description |
 | --- | --- |
-| [Column](column) { get; set; } | Column position in table. first column - '1' |
-| [Row](row) { get; set; } | Row position in table first row - '1' |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Alignment of content string inside parent |
+| [Column](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/column) { get; set; } | Column position in table. first column - '1' |
+| [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Type of text display. |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | The font family of the text |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | The size of the text font |
+| [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | The style of the text |
+| override [Name](../../aspose.omr.generation.config.elements/contentconfig/name) { get; set; } | Content value |
+| [Row](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row) { get; set; } | Row position in table first row - '1' |
+| override [Type](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

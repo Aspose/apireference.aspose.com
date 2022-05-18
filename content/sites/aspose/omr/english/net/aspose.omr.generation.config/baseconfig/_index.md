@@ -18,8 +18,8 @@ public abstract class BaseConfig
 
 | Name | Description |
 | --- | --- |
-| abstract [Name](name) { get; set; } | Name of omr element. Can be used in different cases based on element |
-| abstract [Type](type) { get; set; } | Type of omr element. Does not have default value. Must be overridden. |
+| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | Name of omr element. Can be used in different cases based on element |
+| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | Type of omr element. Does not have default value. Must be overridden. |
 
 ### See Also
 

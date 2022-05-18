@@ -24,11 +24,11 @@ public class TableConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [AnswersCount](answerscount) { get; set; } | Number of answers(columns) used in table. Must correlate with [`AnswerConfig`](../../aspose.omr.generation.config.elements.parents/answerconfig)[`QuestionConfig`](../questionconfig) |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| override [Name](name) { get; set; } | Name of table element |
-| [TableType](tabletype) { get; set; } | Type of table |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [AnswersCount](../../aspose.omr.generation.config.elements.table/tableconfig/answerscount) { get; set; } | Number of answers(columns) used in table. Must correlate with [`AnswerConfig`](../../aspose.omr.generation.config.elements.parents/answerconfig)[`QuestionConfig`](../questionconfig) |
+| override [Children](../../aspose.omr.generation.config.elements.table/tableconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| override [Name](../../aspose.omr.generation.config.elements.table/tableconfig/name) { get; set; } | Name of table element |
+| [TableType](../../aspose.omr.generation.config.elements.table/tableconfig/tabletype) { get; set; } | Type of table |
+| override [Type](../../aspose.omr.generation.config.elements.table/tableconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

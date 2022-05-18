@@ -24,8 +24,8 @@ public class TableAnswerConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| override [Name](name) { get; set; } | Title of column header |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Name](../../aspose.omr.generation.config.elements.table/tableanswerconfig/name) { get; set; } | Title of column header |
+| override [Type](../../aspose.omr.generation.config.elements.table/tableanswerconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

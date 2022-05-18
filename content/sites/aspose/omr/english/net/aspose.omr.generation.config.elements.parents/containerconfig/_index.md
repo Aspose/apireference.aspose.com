@@ -24,15 +24,15 @@ public class ContainerConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [BlockBottomMargin](blockbottommargin) { get; set; } | Amount of pixels to be placed between Blocks. |
-| [BlockRightMargin](blockrightmargin) { get; set; } | Amount of pixels to be placed between Blocks. |
-| [BlockTopPadding](blocktoppadding) { get; set; } | Amount of pixels to be placed between Blocks. |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| [ColumnsCount](columnscount) { get; set; } | Amount of columns inside of container. Divided on equal columns. Obsolete version of [`Proportions`](./proportions) |
-| [ContainerType](containertype) { get; set; } | Type of Container |
-| override [Name](name) { get; set; } | Name of container element |
-| [Proportions](proportions) { get; set; } | Divide on custom ratio each column inside it Newer version of [`ColumnsCount`](./columnscount) |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [BlockBottomMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin) { get; set; } | Amount of pixels to be placed between Blocks. |
+| [BlockRightMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin) { get; set; } | Amount of pixels to be placed between Blocks. |
+| [BlockTopPadding](../../aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding) { get; set; } | Amount of pixels to be placed between Blocks. |
+| override [Children](../../aspose.omr.generation.config.elements.parents/containerconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| [ColumnsCount](../../aspose.omr.generation.config.elements.parents/containerconfig/columnscount) { get; set; } | Amount of columns inside of container. Divided on equal columns. Obsolete version of [`Proportions`](./proportions) |
+| [ContainerType](../../aspose.omr.generation.config.elements.parents/containerconfig/containertype) { get; set; } | Type of Container |
+| override [Name](../../aspose.omr.generation.config.elements.parents/containerconfig/name) { get; set; } | Name of container element |
+| [Proportions](../../aspose.omr.generation.config.elements.parents/containerconfig/proportions) { get; set; } | Divide on custom ratio each column inside it Newer version of [`ColumnsCount`](./columnscount) |
+| override [Type](../../aspose.omr.generation.config.elements.parents/containerconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

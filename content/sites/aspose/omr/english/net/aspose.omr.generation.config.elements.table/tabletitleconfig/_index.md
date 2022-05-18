@@ -24,8 +24,8 @@ public class TableTitleConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| override [Name](name) { get; set; } | Text value of title |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name) { get; set; } | Text value of title |
+| override [Type](../../aspose.omr.generation.config.elements.table/tabletitleconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

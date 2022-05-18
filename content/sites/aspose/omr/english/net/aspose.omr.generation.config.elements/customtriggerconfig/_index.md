@@ -24,11 +24,11 @@ public class CustomTriggerConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| override [Name](name) { get; set; } | Name of trigger. |
-| [Target](target) { get; set; } | Name of target element. Behavior depends on [`TriggerType`](./triggertype) |
-| [TriggerType](triggertype) { get; set; } | Type of trigger. Describe trigger behavior |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
-| [Value](value) { get; set; } | Value of custom trigger. Use of this value depends on [`TriggerType`](./triggertype) |
+| override [Name](../../aspose.omr.generation.config.elements/customtriggerconfig/name) { get; set; } | Name of trigger. |
+| [Target](../../aspose.omr.generation.config.elements/customtriggerconfig/target) { get; set; } | Name of target element. Behavior depends on [`TriggerType`](./triggertype) |
+| [TriggerType](../../aspose.omr.generation.config.elements/customtriggerconfig/triggertype) { get; set; } | Type of trigger. Describe trigger behavior |
+| override [Type](../../aspose.omr.generation.config.elements/customtriggerconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [Value](../../aspose.omr.generation.config.elements/customtriggerconfig/value) { get; set; } | Value of custom trigger. Use of this value depends on [`TriggerType`](./triggertype) |
 
 ### See Also
 

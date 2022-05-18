@@ -24,10 +24,10 @@ public class AnswerConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [BubbleType](bubbletype) { get; set; } | Type of drawn bubble. |
-| override [Children](children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
-| override [Name](name) { get; set; } | Text of answer |
-| override [Type](type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [BubbleType](../../aspose.omr.generation.config.elements.parents/answerconfig/bubbletype) { get; set; } | Type of drawn bubble. |
+| override [Children](../../aspose.omr.generation.config.elements.parents/answerconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| override [Name](../../aspose.omr.generation.config.elements.parents/answerconfig/name) { get; set; } | Text of answer |
+| override [Type](../../aspose.omr.generation.config.elements.parents/answerconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
 

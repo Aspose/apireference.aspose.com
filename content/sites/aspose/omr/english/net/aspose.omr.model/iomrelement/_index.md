@@ -18,15 +18,15 @@ public interface IOmrElement
 
 | Name | Description |
 | --- | --- |
-| [QuestionName](questionname) { get; set; } | Gets or sets the Question Name |
-| [SortWeight](sortweight) { get; set; } | Higher the value - latter in csv element will appear |
+| [QuestionName](../../aspose.omr.model/iomrelement/questionname) { get; set; } | Gets or sets the Question Name |
+| [SortWeight](../../aspose.omr.model/iomrelement/sortweight) { get; set; } | Higher the value - latter in csv element will appear |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetAnswer](getanswer)() | Forms a string with recognition result |
-| [GetCsv](getcsv)() | Forms answers as a comma-separated values string |
+| [GetAnswer](../../aspose.omr.model/iomrelement/getanswer)() | Forms a string with recognition result |
+| [GetCsv](../../aspose.omr.model/iomrelement/getcsv)() | Forms answers as a comma-separated values string |
 
 ### See Also
 

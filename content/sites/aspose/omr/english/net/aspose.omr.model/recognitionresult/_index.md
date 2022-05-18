@@ -18,19 +18,19 @@ public class RecognitionResult
 
 | Name | Description |
 | --- | --- |
-| [ImagePath](imagepath) { get; set; } | Gets or sets the path to the processed image |
-| [Images](images) { get; set; } | Gets or sets the list of Write-in fild Images |
-| [OmrElements](omrelements) { get; set; } | Gets or sets the list of OMR elements on page |
-| [PageName](pagename) { get; set; } | Gets or sets page name |
-| [TemplateName](templatename) { get; set; } | Gets or sets the OMR template |
+| [ImagePath](../../aspose.omr.model/recognitionresult/imagepath) { get; set; } | Gets or sets the path to the processed image |
+| [Images](../../aspose.omr.model/recognitionresult/images) { get; set; } | Gets or sets the list of Write-in fild Images |
+| [OmrElements](../../aspose.omr.model/recognitionresult/omrelements) { get; set; } | Gets or sets the list of OMR elements on page |
+| [PageName](../../aspose.omr.model/recognitionresult/pagename) { get; set; } | Gets or sets page name |
+| [TemplateName](../../aspose.omr.model/recognitionresult/templatename) { get; set; } | Gets or sets the OMR template |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetCsv](getcsv)() | Form CSV string with recognition results |
-| [GetJson](getjson)() | Form JSON string with recognition results |
-| [GetXml](getxml)() | Form XML string with recognition results |
+| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv)() | Form CSV string with recognition results |
+| [GetJson](../../aspose.omr.model/recognitionresult/getjson)() | Form JSON string with recognition results |
+| [GetXml](../../aspose.omr.model/recognitionresult/getxml)() | Form XML string with recognition results |
 
 ### See Also
 
