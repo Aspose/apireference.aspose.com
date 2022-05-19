@@ -28,7 +28,7 @@ The **Aspose.Svg.Net** namespace is presented by classes and interfaces which ar
 | [ResponseMessage](./responsemessage) | Represents a response message. |
 | [StreamContent](./streamcontent) | Represents content based on a stream. |
 | [StringContent](./stringcontent) | Represents content based on a string. |
-| [UrlResolver](./urlresolver) | Represents utility class for resolving absolute URL by a Uniform Resource Identifier (../URI). |
+| [UrlResolver](./urlresolver) | Represents utility class for resolving absolute URL by a Uniform Resource Identifier (URI). |
 ## Interfaces
 
 | Interface | Description |
