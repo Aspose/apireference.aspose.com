@@ -12,7 +12,7 @@ url: /net/aspose.omr.generation/
 
 | Class | Description |
 | --- | --- |
-| [GenerationResult](./generationresult) | The result of the template generation. Contains the template image and the template (../json that describes elements location on the image). |
+| [GenerationResult](./generationresult) | The result of the template generation. Contains the template image and the template (json that describes elements location on the image). |
 | [GlobalPageSettings](./globalpagesettings) | The global settings applicable to all page elements. |
 | [MemoryGenerationResult](./memorygenerationresult) | [`GenerationResult`](../aspose.omr.generation/generationresult) wrapper. Allows to save result as MemoryStream |
 ## Enumeration

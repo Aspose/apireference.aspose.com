@@ -12,7 +12,7 @@ url: /net/aspose.omr.generation.config.elements.customanswersheet/
 
 | Class | Description |
 | --- | --- |
-| [BubbleArrayConfig](./bubblearrayconfig) | Display possible answers as options each inside circle(../bubble). Can only be used inside [`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
+| [BubbleArrayConfig](./bubblearrayconfig) | Display possible answers as options each inside circle(bubble). Can only be used inside [`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
 | [CustomAnswerSheetConfig](./customanswersheetconfig) | Repeat custom rows. To describe custom row use - [`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
 | [CustomRowConfig](./customrowconfig) | Description of CustomRow. Used with [`CustomAnswerSheetConfig`](../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig) |
 
