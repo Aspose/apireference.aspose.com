@@ -28,7 +28,7 @@ The Drawing namespace provides access to GDI+ basic graphics functionality. More
 | [Pens](./pens) | Pens for all the standard colors. This class cannot be inherited. |
 | [Region](./region) | Describes the interior of a graphics shape composed of rectangles and paths. This class cannot be inherited. |
 | [SolidBrush](./solidbrush) | Defines a brush of a single color. Brushes are used to fill graphics shapes, such as rectangles, ellipses, pies, polygons, and paths. |
-| [StringFormat](./stringformat) | Encapsulates text layout information (../such as alignment, orientation and tab stops) display manipulations (../such as ellipsis insertion and national digit substitution) and OpenType features. This class cannot be inherited. |
+| [StringFormat](./stringformat) | Encapsulates text layout information (such as alignment, orientation and tab stops) display manipulations (such as ellipsis insertion and national digit substitution) and OpenType features. This class cannot be inherited. |
 | [SystemColors](./systemcolors) | Each property of the SystemColors class is a Color structure that is the color of a Windows display element. |
 | [SystemFonts](./systemfonts) | Specifies the fonts used to display text in Windows display elements. |
 | [SystemIcons](./systemicons) | Each property of the SystemIcons class is an Icon object for Windows system-wide icons. This class cannot be inherited. |

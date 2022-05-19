@@ -38,18 +38,18 @@ The Drawing2D namespace provides advanced two-dimensional and vector graphics fu
 | [DashCap](./dashcap) | Specifies the type of graphic shape to use on both ends of each dash in a dashed line. |
 | [DashStyle](./dashstyle) | Specifies the style of dashed lines drawn with a Pen object. |
 | [FillMode](./fillmode) | Specifies how the interior of a closed path is filled. |
-| [FlushIntention](./flushintention) | Specifies whether commands in the graphics stack are terminated (../flushed) immediately or executed as soon as possible. |
+| [FlushIntention](./flushintention) | Specifies whether commands in the graphics stack are terminated (flushed) immediately or executed as soon as possible. |
 | [HatchStyle](./hatchstyle) | Specifies the different patterns available for HatchBrush objects. |
 | [InterpolationMode](./interpolationmode) | The InterpolationMode enumeration specifies the algorithm that is used when images are scaled or rotated. |
 | [LinearGradientMode](./lineargradientmode) | Specifies the direction of a linear gradient. |
 | [LineCap](./linecap) | Specifies the available cap styles with which a Pen object can end a line. |
-| [LineJoin](./linejoin) | Specifies how to join consecutive line or curve segments in a figure (../subpath) contained in a GraphicsPath object. |
+| [LineJoin](./linejoin) | Specifies how to join consecutive line or curve segments in a figure (subpath) contained in a GraphicsPath object. |
 | [MatrixOrder](./matrixorder) | Specifies the order for matrix transform operations. |
 | [PathPointType](./pathpointtype) | Specifies the type of point in a GraphicsPath object. |
 | [PenAlignment](./penalignment) | Specifies the alignment of a Pen object in relation to the theoretical, zero-width line. |
 | [PenType](./pentype) | Specifies the type of fill a Pen object uses to fill lines. |
 | [PixelOffsetMode](./pixeloffsetmode) | Specifies how pixels are offset during rendering. |
-| [SmoothingMode](./smoothingmode) | Specifies whether smoothing (../antialiasing) is applied to lines and curves and the edges of filled areas. |
+| [SmoothingMode](./smoothingmode) | Specifies whether smoothing (antialiasing) is applied to lines and curves and the edges of filled areas. |
 | [WarpMode](./warpmode) | Specifies the type of warp transformation applied in a Warp method. |
 | [WrapMode](./wrapmode) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
 
