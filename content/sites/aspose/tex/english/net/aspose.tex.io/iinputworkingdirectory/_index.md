@@ -18,7 +18,7 @@ public interface IInputWorkingDirectory : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [GetFile](getfile)(string, out string, bool) | Returns the stream to read from or to write to. |
+| [GetFile](../../aspose.tex.io/iinputworkingdirectory/getfile)(string, out string, bool) | Returns the stream to read from or to write to. |
 
 ### See Also
 

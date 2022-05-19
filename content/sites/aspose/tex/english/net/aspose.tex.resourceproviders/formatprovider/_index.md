@@ -24,14 +24,14 @@ public class FormatProvider : IDisposable
 
 | Name | Description |
 | --- | --- |
-| static [ObjectLaTeX](objectlatex) { get; } | LaTeX format provider for ObjectTeX engine extension. |
-| static [ObjectTeX](objecttex) { get; } | Default format provider for ObjectTeX engine extension. |
+| static [ObjectLaTeX](../../aspose.tex.resourceproviders/formatprovider/objectlatex) { get; } | LaTeX format provider for ObjectTeX engine extension. |
+| static [ObjectTeX](../../aspose.tex.resourceproviders/formatprovider/objecttex) { get; } | Default format provider for ObjectTeX engine extension. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Disposes the instance. |
+| [Dispose](../../aspose.tex.resourceproviders/formatprovider/dispose)() | Disposes the instance. |
 
 ### See Also
 

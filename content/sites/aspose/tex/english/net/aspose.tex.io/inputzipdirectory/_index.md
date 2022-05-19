@@ -24,8 +24,8 @@ public class InputZipDirectory : IInputWorkingDirectory
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Disposes the instance. |
-| [GetFile](getfile)(string, out string, bool) | Returns the stream to read from. |
+| [Dispose](../../aspose.tex.io/inputzipdirectory/dispose)() | Disposes the instance. |
+| [GetFile](../../aspose.tex.io/inputzipdirectory/getfile)(string, out string, bool) | Returns the stream to read from. |
 
 ### See Also
 

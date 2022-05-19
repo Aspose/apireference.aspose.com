@@ -24,8 +24,8 @@ public class InputFileSystemDirectory : IInputWorkingDirectory
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](dispose)() | Disposes the instance. |
-| [GetFile](getfile)(string, out string, bool) | Returns the stream to read from. |
+| virtual [Dispose](../../aspose.tex.io/inputfilesystemdirectory/dispose)() | Disposes the instance. |
+| [GetFile](../../aspose.tex.io/inputfilesystemdirectory/getfile)(string, out string, bool) | Returns the stream to read from. |
 
 ### See Also
 

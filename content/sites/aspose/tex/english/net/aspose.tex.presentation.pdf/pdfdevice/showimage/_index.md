@@ -3,7 +3,7 @@ title: ShowImage
 second_title: Aspose.TeX for .NET API Reference
 description: 
 type: docs
-weight: 230
+weight: 220
 url: /net/aspose.tex.presentation.pdf/pdfdevice/showimage/
 ---
 ## PdfDevice.ShowImage method

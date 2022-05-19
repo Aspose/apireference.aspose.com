@@ -26,8 +26,8 @@ public class TeXJob
 
 | Name | Description |
 | --- | --- |
-| [Run](run)() | Runs TeX job. |
-| static [CreateFormat](createformat)(string, TeXOptions) | Runs TeX engine in INITEX mode to create a format file (.fmt). |
+| [Run](../../aspose.tex/texjob/run)() | Runs TeX job. |
+| static [CreateFormat](../../aspose.tex/texjob/createformat)(string, TeXOptions) | Runs TeX engine in INITEX mode to create a format file (.fmt). |
 
 ### See Also
 

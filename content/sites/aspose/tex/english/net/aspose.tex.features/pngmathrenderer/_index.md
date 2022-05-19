@@ -11,8 +11,7 @@ url: /net/aspose.tex.features/pngmathrenderer/
 Implements rendering of math formula to PNG.
 
 ```csharp
-public sealed class PngMathRenderer : 
-    MathRenderer<PngMathRendererOptions, ImageDevice, PngSaveOptions>
+public sealed class PngMathRenderer : MathRenderer
 ```
 
 ## Constructors
@@ -21,12 +20,15 @@ public sealed class PngMathRenderer :
 | --- | --- |
 | [PngMathRenderer](pngmathrenderer)() | The default constructor. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Render](../../aspose.tex.features/mathrenderer/render)(string, Stream, MathRendererOptions, out SizeF) | Renders a math formula. |
+
 ### See Also
 
-* class [MathRenderer&lt;RO,D,SO&gt;](../mathrenderer-3)
-* class [PngMathRendererOptions](../pngmathrendereroptions)
-* class [ImageDevice](../../aspose.tex.presentation.image/imagedevice)
-* class [PngSaveOptions](../../aspose.tex.presentation.image/pngsaveoptions)
+* class [MathRenderer](../mathrenderer)
 * namespace [Aspose.TeX.Features](../../aspose.tex.features)
 * assembly [Aspose.TeX](../../)
 

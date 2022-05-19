@@ -18,13 +18,13 @@ public interface IFileTerminal
 
 | Name | Description |
 | --- | --- |
-| [FileName](filename) { get; set; } | Gets/sets the file name. |
+| [FileName](../../aspose.tex.io/ifileterminal/filename) { get; set; } | Gets/sets the file name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [WriteFile](writefile)() | Finalizes the log, e.g., writes it to file. |
+| [WriteFile](../../aspose.tex.io/ifileterminal/writefile)() | Finalizes the log, e.g., writes it to file. |
 
 ### See Also
 

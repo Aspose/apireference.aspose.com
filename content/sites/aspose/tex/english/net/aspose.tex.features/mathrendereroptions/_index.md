@@ -3,7 +3,7 @@ title: MathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.tex.features/mathrendereroptions/
 ---
 ## MathRendererOptions class
@@ -24,13 +24,13 @@ public abstract class MathRendererOptions
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](backgroundcolor) { get; set; } | Gets/sets the background color. |
-| [ErrorReport](errorreport) { get; } | Gets the error report. |
-| [LogStream](logstream) { get; set; } | Gets/set the stream to write log output to. |
-| [Preamble](preamble) { get; set; } | Gets/sets LaTeX document preamble. |
-| [Scale](scale) { get; set; } | Gets/set the scale. 1000 means 100%, 1200 means 120%, etc. |
-| [ShowTerminal](showterminal) { get; set; } | The flag that controls terminal output. If |
-| [TextColor](textcolor) { get; set; } | Gets/sets the formula text color. |
+| [BackgroundColor](../../aspose.tex.features/mathrendereroptions/backgroundcolor) { get; set; } | Gets/sets the background color. |
+| [ErrorReport](../../aspose.tex.features/mathrendereroptions/errorreport) { get; } | Gets the error report. |
+| [LogStream](../../aspose.tex.features/mathrendereroptions/logstream) { get; set; } | Gets/set the stream to write log output to. |
+| [Preamble](../../aspose.tex.features/mathrendereroptions/preamble) { get; set; } | Gets/sets LaTeX document preamble. |
+| [Scale](../../aspose.tex.features/mathrendereroptions/scale) { get; set; } | Gets/set the scale. 1000 means 100%, 1200 means 120%, etc. |
+| [ShowTerminal](../../aspose.tex.features/mathrendereroptions/showterminal) { get; set; } | The flag that controls terminal output. If |
+| [TextColor](../../aspose.tex.features/mathrendereroptions/textcolor) { get; set; } | Gets/sets the formula text color. |
 
 ### See Also
 

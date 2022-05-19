@@ -3,7 +3,7 @@ title: StartFragment
 second_title: Aspose.TeX for .NET API Reference
 description: 
 type: docs
-weight: 260
+weight: 240
 url: /net/aspose.tex.presentation.svg/svgdevice/startfragment/
 ---
 ## SvgDevice.StartFragment method

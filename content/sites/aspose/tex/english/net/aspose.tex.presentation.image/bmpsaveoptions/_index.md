@@ -20,6 +20,18 @@ public class BmpSaveOptions : ImageSaveOptions
 | --- | --- |
 | [BmpSaveOptions](bmpsaveoptions)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [InterpolationMode](../../aspose.tex.presentation.image/imagesaveoptions/interpolationmode) { get; set; } | Gets/sets the interpolation mode. |
+| [PageNumbers](../../aspose.tex.presentation.image/imagesaveoptions/pagenumbers) { get; set; } | Gets/sets the array of numbers of pages to convert. |
+| [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | Gets/sets the flag that allows to rasterize math formulas. |
+| [RasterizeIncludedGraphics](../../aspose.tex.presentation/saveoptions/rasterizeincludedgraphics) { get; set; } | Gets/sets the flag that allows to rasterize PS/EPS and/or XPS/OXPS included graphics. |
+| [Resolution](../../aspose.tex.presentation.image/imagesaveoptions/resolution) { get; set; } | Gets/sets the image resolution. |
+| [SmoothingMode](../../aspose.tex.presentation.image/imagesaveoptions/smoothingmode) { get; set; } | Gets/sets the smoothing mode. |
+| [SubsetFonts](../../aspose.tex.presentation/saveoptions/subsetfonts) { get; set; } | Gets/sets the flag indicating whether to subset fonts in output file or not. |
+
 ### See Also
 
 * class [ImageSaveOptions](../imagesaveoptions)

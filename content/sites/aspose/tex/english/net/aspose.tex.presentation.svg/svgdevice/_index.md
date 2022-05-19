@@ -24,37 +24,35 @@ public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
 
 | Name | Description |
 | --- | --- |
-| override [DestinationName](destinationname) { get; } | Gets destination name: output file name or device description. |
-| override [Fill](fill) { get; set; } | Gets/sets the current fill. |
-| override [FillOpacity](fillopacity) { get; set; } | Gets/sets the current fill opacity. |
-| override [IsReady](isready) { get; } | Shows if device is ready for output. |
-| override [PageCount](pagecount) { get; } | Gets the number of pages. |
-| override [Stroke](stroke) { get; set; } | Gets/sets the current stroke. |
-| override [StrokeOpacity](strokeopacity) { get; set; } | Gets/sets the current stroke opacity. |
+| override [DestinationName](../../aspose.tex.presentation.svg/svgdevice/destinationname) { get; } | Gets destination name: output file name or device description. |
+| override [Fill](../../aspose.tex.presentation.svg/svgdevice/fill) { get; set; } | Gets/sets the current fill. |
+| override [FillOpacity](../../aspose.tex.presentation.svg/svgdevice/fillopacity) { get; set; } | Gets/sets the current fill opacity. |
+| override [IsReady](../../aspose.tex.presentation.svg/svgdevice/isready) { get; } | Shows if device is ready for output. |
+| override [PageCount](../../aspose.tex.presentation.svg/svgdevice/pagecount) { get; } | Gets the number of pages. |
+| override [Stroke](../../aspose.tex.presentation.svg/svgdevice/stroke) { get; set; } | Gets/sets the current stroke. |
+| override [StrokeOpacity](../../aspose.tex.presentation.svg/svgdevice/strokeopacity) { get; set; } | Gets/sets the current stroke opacity. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddBookmark](addbookmark)(string, PointF) | Adds the bookmark identified by the name. |
-| override [AddHyperlink](addhyperlink)(RectangleF, Pen, string) | Set the hyperlink with a URI as its target. |
-| override [Create](create)() | Creates a copy of this device. |
-| override [Dispose](dispose)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches APS composing context to the ApsCanvas of the level higher then this device's graphics state ApsCanvas. |
-| override [DrawPath](drawpath)(GraphicsPath) | Draws a path. |
-| override [DrawString](drawstring)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
-| override [EndDocument](enddocument)() | Finalizes the whole document. |
-| [EndFragment](endfragment)() | Ends a fragment to rasterize. |
-| override [EndPage](endpage)() | Finalizes a page. |
-| override [FillPath](fillpath)(GraphicsPath) | Fill a path. |
-| override [Init](init)() | Initializes device. |
-| override [SetClip](setclip)(GraphicsPath) | Sets the current clip path. |
-| override [SetTransform](settransform)(Matrix) | Sets the current coordinate space transformation. |
-| override [ShowEps](showeps)(PointF, SizeF, Stream, int) |  |
-| override [ShowImage](showimage)(PointF, SizeF, byte[]) | Shows a raster image. |
-| override [ShowXps](showxps)(PointF, SizeF, Stream, int) |  |
-| override [StartDocument](startdocument)() | Starts the whole document. |
-| [StartFragment](startfragment)() | Starts a fragment to rasterize. |
-| override [StartPage](startpage)(float, float) | Starts a new page. |
+| [AddBookmark](../../aspose.tex.presentation.svg/svgdevice/addbookmark)(string, PointF) | Adds the bookmark identified by the name. |
+| override [AddHyperlink](../../aspose.tex.presentation.svg/svgdevice/addhyperlink)(RectangleF, Pen, string) | Set the hyperlink with a URI as its target. |
+| override [Create](../../aspose.tex.presentation.svg/svgdevice/create)() | Creates a copy of this device. |
+| override [Dispose](../../aspose.tex.presentation.svg/svgdevice/dispose)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches APS composing context to the ApsCanvas of the level higher then this device's graphics state ApsCanvas. |
+| override [DrawPath](../../aspose.tex.presentation.svg/svgdevice/drawpath)(GraphicsPath) | Draws a path. |
+| override [DrawString](../../aspose.tex.presentation.svg/svgdevice/drawstring)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
+| override [EndDocument](../../aspose.tex.presentation.svg/svgdevice/enddocument)() | Finalizes the whole document. |
+| [EndFragment](../../aspose.tex.presentation.svg/svgdevice/endfragment)() | Ends a fragment to rasterize. |
+| override [EndPage](../../aspose.tex.presentation.svg/svgdevice/endpage)() | Finalizes a page. |
+| override [FillPath](../../aspose.tex.presentation.svg/svgdevice/fillpath)(GraphicsPath) | Fill a path. |
+| override [Init](../../aspose.tex.presentation.svg/svgdevice/init)() | Initializes device. |
+| override [SetClip](../../aspose.tex.presentation.svg/svgdevice/setclip)(GraphicsPath) | Sets the current clip path. |
+| override [SetTransform](../../aspose.tex.presentation.svg/svgdevice/settransform)(Matrix) | Sets the current coordinate space transformation. |
+| override [ShowImage](../../aspose.tex.presentation.svg/svgdevice/showimage)(PointF, SizeF, byte[]) | Shows a raster image. |
+| override [StartDocument](../../aspose.tex.presentation.svg/svgdevice/startdocument)() | Starts the whole document. |
+| [StartFragment](../../aspose.tex.presentation.svg/svgdevice/startfragment)() | Starts a fragment to rasterize. |
+| override [StartPage](../../aspose.tex.presentation.svg/svgdevice/startpage)(float, float) | Starts a new page. |
 
 ### See Also
 

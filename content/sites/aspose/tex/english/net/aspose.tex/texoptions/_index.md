@@ -18,24 +18,24 @@ public class TeXOptions
 
 | Name | Description |
 | --- | --- |
-| [DateTime](datetime) { get; set; } | Gets/sets a certain value for date/time primitives like \year, \month, \day and \time. |
-| [IgnoreMissingPackages](ignoremissingpackages) { get; set; } | Gets/sets the flag that instructs the engine whether to halt on missing package read attempt or ignore it. |
-| [InputWorkingDirectory](inputworkingdirectory) { get; set; } | Gets/sets input working directory. |
-| [Interaction](interaction) { get; set; } | Gets/sets the interaction mode to run a TeX engine in. |
-| [JobName](jobname) { get; set; } | Gets/set the name of the job. |
-| [NoLigatures](noligatures) { get; set; } | Gets/sets the flag that cancels ligatures in all fonts. |
-| [OutputWorkingDirectory](outputworkingdirectory) { get; set; } | Gets/sets output working directory. |
-| [Repeat](repeat) { get; set; } | Gets/sets the flag that indicates whether it is necessary to run the TeX job twice in case, for example, there are references in input TeX file(s). In general, this behavior is useful when the engine collects some data along the typesetting process and stores it in an auxilliary file, all at the first run. And at the second run, the engine somehow uses that data. |
-| [RequiredInputDirectory](requiredinputdirectory) { get; set; } | Gets/sets the directory for the required input, e.g., packages that are beyond Aspose.TeX's LaTeX support. |
-| [SaveOptions](saveoptions) { get; set; } | Gets/sets options used for rendering into destination format (XPS, PDF, image, etc.). Default value is the set of default options for rendering to XPS. |
-| [TerminalIn](terminalin) { get; set; } | Gets/sets the input terminal reader. |
-| [TerminalOut](terminalout) { get; set; } | Gets/sets the output terminal writer. |
+| [DateTime](../../aspose.tex/texoptions/datetime) { get; set; } | Gets/sets a certain value for date/time primitives like \year, \month, \day and \time. |
+| [IgnoreMissingPackages](../../aspose.tex/texoptions/ignoremissingpackages) { get; set; } | Gets/sets the flag that instructs the engine whether to halt on missing package read attempt or ignore it. |
+| [InputWorkingDirectory](../../aspose.tex/texoptions/inputworkingdirectory) { get; set; } | Gets/sets input working directory. |
+| [Interaction](../../aspose.tex/texoptions/interaction) { get; set; } | Gets/sets the interaction mode to run a TeX engine in. |
+| [JobName](../../aspose.tex/texoptions/jobname) { get; set; } | Gets/set the name of the job. |
+| [NoLigatures](../../aspose.tex/texoptions/noligatures) { get; set; } | Gets/sets the flag that cancels ligatures in all fonts. |
+| [OutputWorkingDirectory](../../aspose.tex/texoptions/outputworkingdirectory) { get; set; } | Gets/sets output working directory. |
+| [Repeat](../../aspose.tex/texoptions/repeat) { get; set; } | Gets/sets the flag that indicates whether it is necessary to run the TeX job twice in case, for example, there are references in input TeX file(s). In general, this behavior is useful when the engine collects some data along the typesetting process and stores it in an auxilliary file, all at the first run. And at the second run, the engine somehow uses that data. |
+| [RequiredInputDirectory](../../aspose.tex/texoptions/requiredinputdirectory) { get; set; } | Gets/sets the directory for the required input, e.g., packages that are beyond Aspose.TeX's LaTeX support. |
+| [SaveOptions](../../aspose.tex/texoptions/saveoptions) { get; set; } | Gets/sets options used for rendering into destination format (XPS, PDF, image, etc.). Default value is the set of default options for rendering to XPS. |
+| [TerminalIn](../../aspose.tex/texoptions/terminalin) { get; set; } | Gets/sets the input terminal reader. |
+| [TerminalOut](../../aspose.tex/texoptions/terminalout) { get; set; } | Gets/sets the output terminal writer. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [ConsoleAppOptions](consoleappoptions)(TeXConfig) | Returns options for use in console application. |
+| static [ConsoleAppOptions](../../aspose.tex/texoptions/consoleappoptions)(TeXConfig) | Returns options for use in console application. |
 
 ### See Also
 

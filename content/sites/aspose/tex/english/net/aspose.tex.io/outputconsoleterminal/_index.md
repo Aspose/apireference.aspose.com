@@ -24,7 +24,7 @@ public class OutputConsoleTerminal : IOutputTerminal
 
 | Name | Description |
 | --- | --- |
-| [Writer](writer) { get; } | Gets the console as a terminal output destination. |
+| [Writer](../../aspose.tex.io/outputconsoleterminal/writer) { get; } | Gets the console as a terminal output destination. |
 
 ### See Also
 

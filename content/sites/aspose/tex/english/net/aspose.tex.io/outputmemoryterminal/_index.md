@@ -24,8 +24,8 @@ public class OutputMemoryTerminal : IOutputTerminal
 
 | Name | Description |
 | --- | --- |
-| [Stream](stream) { get; } | Gets the memory stream. |
-| [Writer](writer) { get; } | Gets the writer for the output terminal. |
+| [Stream](../../aspose.tex.io/outputmemoryterminal/stream) { get; } | Gets the memory stream. |
+| [Writer](../../aspose.tex.io/outputmemoryterminal/writer) { get; } | Gets the writer for the output terminal. |
 
 ### See Also
 

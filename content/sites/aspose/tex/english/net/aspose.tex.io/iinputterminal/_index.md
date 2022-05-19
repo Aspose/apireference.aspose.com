@@ -18,7 +18,7 @@ public interface IInputTerminal
 
 | Name | Description |
 | --- | --- |
-| [Reader](reader) { get; } | Gets the reader for the input terminal. |
+| [Reader](../../aspose.tex.io/iinputterminal/reader) { get; } | Gets the reader for the input terminal. |
 
 ### See Also
 

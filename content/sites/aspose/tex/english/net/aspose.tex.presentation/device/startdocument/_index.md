@@ -3,7 +3,7 @@ title: StartDocument
 second_title: Aspose.TeX for .NET API Reference
 description: 
 type: docs
-weight: 230
+weight: 210
 url: /net/aspose.tex.presentation/device/startdocument/
 ---
 ## Device.StartDocument method

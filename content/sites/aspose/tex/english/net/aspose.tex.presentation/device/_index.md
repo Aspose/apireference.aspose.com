@@ -24,34 +24,32 @@ public abstract class Device
 
 | Name | Description |
 | --- | --- |
-| abstract [DestinationName](destinationname) { get; } | Gets destination name: output file name or device description. |
-| virtual [Fill](fill) { get; set; } | Gets/sets the current fill. |
-| virtual [FillOpacity](fillopacity) { get; set; } | Gets/sets the current fill opacity. |
-| abstract [IsReady](isready) { get; } | Shows if device is ready for output. |
-| abstract [PageCount](pagecount) { get; } | Gets the number of pages. |
-| virtual [Stroke](stroke) { get; set; } | Gets/sets the current stroke. |
-| virtual [StrokeOpacity](strokeopacity) { get; set; } | Gets/sets the current stroke opacity. |
+| abstract [DestinationName](../../aspose.tex.presentation/device/destinationname) { get; } | Gets destination name: output file name or device description. |
+| virtual [Fill](../../aspose.tex.presentation/device/fill) { get; set; } | Gets/sets the current fill. |
+| virtual [FillOpacity](../../aspose.tex.presentation/device/fillopacity) { get; set; } | Gets/sets the current fill opacity. |
+| abstract [IsReady](../../aspose.tex.presentation/device/isready) { get; } | Shows if device is ready for output. |
+| abstract [PageCount](../../aspose.tex.presentation/device/pagecount) { get; } | Gets the number of pages. |
+| virtual [Stroke](../../aspose.tex.presentation/device/stroke) { get; set; } | Gets/sets the current stroke. |
+| virtual [StrokeOpacity](../../aspose.tex.presentation/device/strokeopacity) { get; set; } | Gets/sets the current stroke opacity. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [AddHyperlink](addhyperlink)(RectangleF, Pen, string) | Sets the hyperlink with a URI as its target. |
-| virtual [Create](create)() | Creates a copy of this device. |
-| virtual [Dispose](dispose)() | Disposes the device. |
-| abstract [DrawPath](drawpath)(GraphicsPath) | Draws a path. |
-| abstract [DrawString](drawstring)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
-| abstract [EndDocument](enddocument)() | Finalizes the whole document. |
-| abstract [EndPage](endpage)() | Finalizes a page. |
-| abstract [FillPath](fillpath)(GraphicsPath) | Fills a path. |
-| abstract [Init](init)() | Initializes device. |
-| abstract [SetClip](setclip)(GraphicsPath) | Sets the current clip path. |
-| abstract [SetTransform](settransform)(Matrix) | Sets the current coordinate space transformation. |
-| virtual [ShowEps](showeps)(PointF, SizeF, Stream, int) |  |
-| abstract [ShowImage](showimage)(PointF, SizeF, byte[]) | Shows a raster image. |
-| virtual [ShowXps](showxps)(PointF, SizeF, Stream, int) |  |
-| abstract [StartDocument](startdocument)() | Starts the whole document. |
-| abstract [StartPage](startpage)(float, float) | Starts a new page. |
+| abstract [AddHyperlink](../../aspose.tex.presentation/device/addhyperlink)(RectangleF, Pen, string) | Sets the hyperlink with a URI as its target. |
+| virtual [Create](../../aspose.tex.presentation/device/create)() | Creates a copy of this device. |
+| virtual [Dispose](../../aspose.tex.presentation/device/dispose)() | Disposes the device. |
+| abstract [DrawPath](../../aspose.tex.presentation/device/drawpath)(GraphicsPath) | Draws a path. |
+| abstract [DrawString](../../aspose.tex.presentation/device/drawstring)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
+| abstract [EndDocument](../../aspose.tex.presentation/device/enddocument)() | Finalizes the whole document. |
+| abstract [EndPage](../../aspose.tex.presentation/device/endpage)() | Finalizes a page. |
+| abstract [FillPath](../../aspose.tex.presentation/device/fillpath)(GraphicsPath) | Fills a path. |
+| abstract [Init](../../aspose.tex.presentation/device/init)() | Initializes device. |
+| abstract [SetClip](../../aspose.tex.presentation/device/setclip)(GraphicsPath) | Sets the current clip path. |
+| abstract [SetTransform](../../aspose.tex.presentation/device/settransform)(Matrix) | Sets the current coordinate space transformation. |
+| abstract [ShowImage](../../aspose.tex.presentation/device/showimage)(PointF, SizeF, byte[]) | Shows a raster image. |
+| abstract [StartDocument](../../aspose.tex.presentation/device/startdocument)() | Starts the whole document. |
+| abstract [StartPage](../../aspose.tex.presentation/device/startpage)(float, float) | Starts a new page. |
 
 ### See Also
 

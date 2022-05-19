@@ -18,7 +18,7 @@ public interface IInteractiveDevice
 
 | Name | Description |
 | --- | --- |
-| [AddBookmark](addbookmark)(string, PointF) | Adds the bookmark identified by the name. |
+| [AddBookmark](../../aspose.tex.presentation/iinteractivedevice/addbookmark)(string, PointF) | Adds the bookmark identified by the name. |
 
 ### See Also
 

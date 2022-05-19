@@ -24,14 +24,14 @@ public class OutputFileTerminal : IFileTerminal, IOutputTerminal
 
 | Name | Description |
 | --- | --- |
-| [FileName](filename) { get; set; } | Gets/sets the file name. |
-| [Writer](writer) { get; } | Gets the writer for the output terminal. |
+| [FileName](../../aspose.tex.io/outputfileterminal/filename) { get; set; } | Gets/sets the file name. |
+| [Writer](../../aspose.tex.io/outputfileterminal/writer) { get; } | Gets the writer for the output terminal. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [WriteFile](writefile)() | Finalizes the log, e.g., writes it to file. |
+| [WriteFile](../../aspose.tex.io/outputfileterminal/writefile)() | Finalizes the log, e.g., writes it to file. |
 
 ### See Also
 

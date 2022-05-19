@@ -3,7 +3,7 @@ title: StartPage
 second_title: Aspose.TeX for .NET API Reference
 description: 
 type: docs
-weight: 240
+weight: 220
 url: /net/aspose.tex.presentation/device/startpage/
 ---
 ## Device.StartPage method

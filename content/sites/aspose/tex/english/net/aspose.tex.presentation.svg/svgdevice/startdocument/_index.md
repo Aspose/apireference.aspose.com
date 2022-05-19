@@ -3,7 +3,7 @@ title: StartDocument
 second_title: Aspose.TeX for .NET API Reference
 description: 
 type: docs
-weight: 250
+weight: 230
 url: /net/aspose.tex.presentation.svg/svgdevice/startdocument/
 ---
 ## SvgDevice.StartDocument method

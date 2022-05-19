@@ -24,10 +24,10 @@ public class GlyphData
 
 | Name | Description |
 | --- | --- |
-| [AdvanceWidth](advancewidth) { get; set; } | Gets/sets glyph width taking into account kerns. |
-| [NaturalWidth](naturalwidth) { get; set; } | Gets/sets glyph width defined by font. |
-| [UOffset](uoffset) { get; set; } | Gets/sets horizontal offset. |
-| [VOffset](voffset) { get; set; } | Gets/sets vertical offset. |
+| [AdvanceWidth](../../aspose.tex.presentation/glyphdata/advancewidth) { get; set; } | Gets/sets glyph width taking into account kerns. |
+| [NaturalWidth](../../aspose.tex.presentation/glyphdata/naturalwidth) { get; set; } | Gets/sets glyph width defined by font. |
+| [UOffset](../../aspose.tex.presentation/glyphdata/uoffset) { get; set; } | Gets/sets horizontal offset. |
+| [VOffset](../../aspose.tex.presentation/glyphdata/voffset) { get; set; } | Gets/sets vertical offset. |
 
 ### See Also
 

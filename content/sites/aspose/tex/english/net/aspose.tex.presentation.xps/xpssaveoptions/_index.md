@@ -20,6 +20,14 @@ public class XpsSaveOptions : SaveOptions
 | --- | --- |
 | [XpsSaveOptions](xpssaveoptions)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | Gets/sets the flag that allows to rasterize math formulas. |
+| [RasterizeIncludedGraphics](../../aspose.tex.presentation/saveoptions/rasterizeincludedgraphics) { get; set; } | Gets/sets the flag that allows to rasterize PS/EPS and/or XPS/OXPS included graphics. |
+| [SubsetFonts](../../aspose.tex.presentation/saveoptions/subsetfonts) { get; set; } | Gets/sets the flag indicating whether to subset fonts in output file or not. |
+
 ### See Also
 
 * class [SaveOptions](../../aspose.tex.presentation/saveoptions)

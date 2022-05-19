@@ -24,10 +24,10 @@ public class OutputZipDirectory : IOutputWorkingDirectory
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Disposes the instance. |
-| [Finish](finish)() | Finalizes ZIP archive. |
-| [GetFile](getfile)(string, out string, bool) | Returns the stream to read from. |
-| [GetOutputFile](getoutputfile)(string, out string) | Returns the stream to write to. |
+| [Dispose](../../aspose.tex.io/outputzipdirectory/dispose)() | Disposes the instance. |
+| [Finish](../../aspose.tex.io/outputzipdirectory/finish)() | Finalizes ZIP archive. |
+| [GetFile](../../aspose.tex.io/outputzipdirectory/getfile)(string, out string, bool) | Returns the stream to read from. |
+| [GetOutputFile](../../aspose.tex.io/outputzipdirectory/getoutputfile)(string, out string) | Returns the stream to write to. |
 
 ### See Also
 

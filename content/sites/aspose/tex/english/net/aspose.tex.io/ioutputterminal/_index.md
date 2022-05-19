@@ -18,7 +18,7 @@ public interface IOutputTerminal
 
 | Name | Description |
 | --- | --- |
-| [Writer](writer) { get; } | Gets the writer for the output terminal. |
+| [Writer](../../aspose.tex.io/ioutputterminal/writer) { get; } | Gets the writer for the output terminal. |
 
 ### See Also
 

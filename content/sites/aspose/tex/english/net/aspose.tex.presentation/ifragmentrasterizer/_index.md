@@ -18,8 +18,8 @@ public interface IFragmentRasterizer
 
 | Name | Description |
 | --- | --- |
-| [EndFragment](endfragment)() | Ends a fragment to rasterize. |
-| [StartFragment](startfragment)() | Starts a fragment to rasterize. |
+| [EndFragment](../../aspose.tex.presentation/ifragmentrasterizer/endfragment)() | Ends a fragment to rasterize. |
+| [StartFragment](../../aspose.tex.presentation/ifragmentrasterizer/startfragment)() | Starts a fragment to rasterize. |
 
 ### See Also
 

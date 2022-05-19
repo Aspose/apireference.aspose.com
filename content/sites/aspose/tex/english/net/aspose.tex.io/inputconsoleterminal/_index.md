@@ -24,7 +24,7 @@ public class InputConsoleTerminal : IInputTerminal
 
 | Name | Description |
 | --- | --- |
-| [Reader](reader) { get; } | Gets the console as a terminal input source. |
+| [Reader](../../aspose.tex.io/inputconsoleterminal/reader) { get; } | Gets the console as a terminal input source. |
 
 ### See Also
 

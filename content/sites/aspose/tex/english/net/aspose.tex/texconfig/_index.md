@@ -18,14 +18,14 @@ public class TeXConfig
 
 | Name | Description |
 | --- | --- |
-| static [ObjectIniTeX](objectinitex) { get; } | Gets the configuration of ObjectTeX engine extension with no format preloaded, i.e. in INITEX mode. Supposed to be used for format preparation. |
-| static [ObjectLaTeX](objectlatex) { get; } | Gets the configuration of ObjectTeX engine extension with ObjectLaTeX format preloaded. |
+| static [ObjectIniTeX](../../aspose.tex/texconfig/objectinitex) { get; } | Gets the configuration of ObjectTeX engine extension with no format preloaded, i.e. in INITEX mode. Supposed to be used for format preparation. |
+| static [ObjectLaTeX](../../aspose.tex/texconfig/objectlatex) { get; } | Gets the configuration of ObjectTeX engine extension with ObjectLaTeX format preloaded. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [ObjectTeX](objecttex)(FormatProvider) | Gets the configuration of ObjectTeX engine extension with provided format preloaded. |
+| static [ObjectTeX](../../aspose.tex/texconfig/objecttex)(FormatProvider) | Gets the configuration of ObjectTeX engine extension with provided format preloaded. |
 
 ### See Also
 

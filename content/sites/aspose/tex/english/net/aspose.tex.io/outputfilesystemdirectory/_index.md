@@ -24,8 +24,9 @@ public class OutputFileSystemDirectory : InputFileSystemDirectory, IOutputWorkin
 
 | Name | Description |
 | --- | --- |
-| override [Dispose](dispose)() | Disposes the instance. |
-| [GetOutputFile](getoutputfile)(string, out string) | Returns the stream to write to. |
+| override [Dispose](../../aspose.tex.io/outputfilesystemdirectory/dispose)() | Disposes the instance. |
+| [GetFile](../../aspose.tex.io/inputfilesystemdirectory/getfile)(string, out string, bool) | Returns the stream to read from. |
+| [GetOutputFile](../../aspose.tex.io/outputfilesystemdirectory/getoutputfile)(string, out string) | Returns the stream to write to. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: StartPage
 second_title: Aspose.TeX for .NET API Reference
 description: 
 type: docs
-weight: 270
+weight: 250
 url: /net/aspose.tex.presentation.svg/svgdevice/startpage/
 ---
 ## SvgDevice.StartPage method
