@@ -22,4 +22,3 @@ Aspose.SVG for .NET API is a cross-platform library that provides a wide range o
 These are links to some useful resources:
 - [Aspose.SVG for .NET API Reference](/svg/net/)
 
-

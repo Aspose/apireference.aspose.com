@@ -20,4 +20,3 @@ Aspose.Drawing is a fully managed, cross-platform, complete 2D graphic library f
 
 These are links to some useful resources:
 - [Aspose.Drawing for .NET API Reference](/drawing/net/)
-
