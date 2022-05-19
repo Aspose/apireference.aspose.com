@@ -37,5 +37,3 @@ The API is user friendly and saves time and money than creating a similar soluti
 
 These are links to some useful resources:
 - [Aspose.3D for Java API Reference](/3d/java/)
-
-
