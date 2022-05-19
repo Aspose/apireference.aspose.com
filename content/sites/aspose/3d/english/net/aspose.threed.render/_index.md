@@ -24,7 +24,7 @@ url: /net/aspose.threed.render/
 | [RendererVariableManager](./renderervariablemanager) | This class manages variables used in rendering |
 | [RenderFactory](./renderfactory) | RenderFactory creates all resources that represented in rendering pipeline. |
 | [RenderParameters](./renderparameters) | Describe the parameters of the render target |
-| [RenderResource](./renderresource) | The abstract class of all render resources All render resources will be disposed when the renderer is released. Classes like [`Mesh`](aspose.threed.entities/mesh)/[`Texture`](../aspose.threed.shading/texture) will have a corresponding RenderResource |
+| [RenderResource](./renderresource) | The abstract class of all render resources All render resources will be disposed when the renderer is released. Classes like [`Mesh`](../aspose.threed.entities/mesh)/[`Texture`](../aspose.threed.shading/texture) will have a corresponding RenderResource |
 | [RenderState](./renderstate) | Render state for building the pipeline The changes made on render state will not affect the created pipeline instances. |
 | [ShaderException](./shaderexception) | Shader related exceptions |
 | [ShaderProgram](./shaderprogram) | The shader program |
@@ -52,7 +52,7 @@ url: /net/aspose.threed.render/
 | [ITexture1D](./itexture1d) | 1D texture |
 | [ITexture2D](./itexture2d) | 2D texture |
 | [ITextureCubemap](./itexturecubemap) | Cube map texture |
-| [ITextureUnit](./itextureunit) | [`ITextureUnit`](aspose.threed.render/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader, where the [`Texture`](../aspose.threed.shading/texture) only represents a reference to an external file. More details can be found https://en.wikipedia.org/wiki/Texture_mapping_unit |
+| [ITextureUnit](./itextureunit) | [`ITextureUnit`](../aspose.threed.render/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader, where the [`Texture`](../aspose.threed.shading/texture) only represents a reference to an external file. More details can be found https://en.wikipedia.org/wiki/Texture_mapping_unit |
 | [IVertexBuffer](./ivertexbuffer) | The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline |
 ## Enumeration
 
