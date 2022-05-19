@@ -25,10 +25,10 @@ url: /net/aspose.finance.ofx.bank/
 | [BankMailTransactionRequest](./bankmailtransactionrequest) | Bank mail transaction request class. |
 | [BankMailTransactionResponse](./bankmailtransactionresponse) | Bank mail transaction response class. |
 | [CheckDescription](./checkdescription) | A check description must include a payee name or description. It can also include a check number, the date the user wrote the check, and a transaction amount. |
-| [CheckMailResponse](./checkmailresponse) | Check mail notification message response class. The server returns this response (../when a check has been returned), if it receives a banking e-mail synchronization message. |
+| [CheckMailResponse](./checkmailresponse) | Check mail notification message response class. The server returns this response (when a check has been returned), if it receives a banking e-mail synchronization message. |
 | [CheckRange](./checkrange) | Check range class. |
 | [Closing](./closing) | A checking, savings, money market, CD, or credit line account uses the class to describe statement closing information. |
-| [DepositMailResponse](./depositmailresponse) | Deposit mail notification message response class. The server returns this response (../when a deposit has been returned), if it receives a banking e-mail synchronization message. |
+| [DepositMailResponse](./depositmailresponse) | Deposit mail notification message response class. The server returns this response (when a deposit has been returned), if it receives a banking e-mail synchronization message. |
 | [IntraCancellationRequest](./intracancellationrequest) | Intrabank transfer cancellation request class. |
 | [IntraCancellationResponse](./intracancellationresponse) | Intrabank transfer cancellation response class. |
 | [IntraModRequest](./intramodrequest) | Intrabank transfer modification request class. |

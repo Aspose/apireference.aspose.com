@@ -14,7 +14,7 @@ url: /net/aspose.finance.ofx.investment/
 | --- | --- |
 | [AbstractInvestmentBuyTransaction](./abstractinvestmentbuytransaction) | Abstract base class of investment buy transaction related classes. |
 | [AbstractInvestmentSellTransaction](./abstractinvestmentselltransaction) | Abstract base class of investment sell transaction related classes. |
-| [AbstractInvestmentTransaction](./abstractinvestmenttransaction) | Abstract base class of investment transaction(../not buy/sell) related classes. |
+| [AbstractInvestmentTransaction](./abstractinvestmenttransaction) | Abstract base class of investment transaction(not buy/sell) related classes. |
 | [AbstractInvestmentTransactionBase](./abstractinvestmenttransactionbase) | Abstract base class of investment transaction related classes. |
 | [AbstractOpenOrder](./abstractopenorder) | Abstract base class for all open order related classes. |
 | [AbstractPositionBase](./abstractpositionbase) | Abstract base class of investment position related classes. |
@@ -26,16 +26,16 @@ url: /net/aspose.finance.ofx.investment/
 | [ClosureOption](./closureoption) | Investment close a position for an option transaction class. |
 | [ContributionAmt](./contributionamt) | Contribution amount allocation class. |
 | [ContributionPct](./contributionpct) | Contribution percent allocation class. |
-| [Contributions](./contributions) | 401(../k) contribution class, this includes loan payments. |
+| [Contributions](./contributions) | 401(k) contribution class, this includes loan payments. |
 | [ContributionSecurity](./contributionsecurity) | Contribution security class. |
-| [Earnings](./earnings) | 401(../k) earnings class. This is the market value change. It includes dividends/interest, and capital gains - realized and unrealized. |
+| [Earnings](./earnings) | 401(k) earnings class. This is the market value change. It includes dividends/interest, and capital gains - realized and unrealized. |
 | [GeneralOpenOrder](./generalopenorder) | The class contains fields common to all open orders. |
-| [InceptToDate](./incepttodate) | Total contributions to date (../since inception) |
+| [InceptToDate](./incepttodate) | Total contributions to date (since inception) |
 | [Income](./income) | Investment income class. |
 | [IncPosition](./incposition) | Include investment positions in response. |
-| [Investment401k](./investment401k) | Investment 401(../k) account information class. |
-| [Investment401kBalance](./investment401kbalance) | The class contains an optional cash balance. It also contains the balances of the standard 401(../k) sub-accounts. |
-| [Investment401kSummary](./investment401ksummary) | List of contributions to 401(../k) account. |
+| [Investment401k](./investment401k) | Investment 401(k) account information class. |
+| [Investment401kBalance](./investment401kbalance) | The class contains an optional cash balance. It also contains the balances of the standard 401(k) sub-accounts. |
+| [Investment401kSummary](./investment401ksummary) | List of contributions to 401(k) account. |
 | [InvestmentBalance](./investmentbalance) | Investment balances class. |
 | [InvestmentBankTransaction](./investmentbanktransaction) | This class is used to download bank transactions in an investment statement download. |
 | [InvestmentBuy](./investmentbuy) | Investment buy transaction class. |
@@ -93,7 +93,7 @@ url: /net/aspose.finance.ofx.investment/
 | [Split](./split) | Investment stock or mutual fund split class. |
 | [Transfer](./transfer) | Investment transfer class. |
 | [VestInfo](./vestinfo) | Vest change dates. Provides the vesting percentage as of any particular past, current, or future date. |
-| [Withdrawals](./withdrawals) | 401(../k) withdrawals class, this includes loan withdrawals. |
+| [Withdrawals](./withdrawals) | 401(k) withdrawals class, this includes loan withdrawals. |
 | [YearToDate](./yeartodate) | Contributions to date for this calendar year. |
 ## Enumeration
 

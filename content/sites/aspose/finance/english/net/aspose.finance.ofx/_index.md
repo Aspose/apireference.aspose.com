@@ -95,7 +95,7 @@ url: /net/aspose.finance.ofx/
 | [ProfileResponseMessageSetV1](./profileresponsemessagesetv1) | Profile response messages set version 1 class. |
 | [RecurringInstructions](./recurringinstructions) | Recurring instructions class. |
 | [RewardInfoType](./rewardinfotype) | Opening aggregate for reward/points program current information. |
-| [SecurityId](./securityid) | Securities must be consistently identified to allow client applications to prepare accurate investment reports across all user investment accounts, even at multiple FIs.At this time, neither a security name nor its symbol is standardized.Therefore, OFX uses CUSIP numbers (../a unique 9-digit alphanumeric identifier) to identify securities. CUSIP numbers are available for the vast majority of securities traded today, including those without symbols such as bonds. For a security that does not have a CUSIP, a financial institution must follow the standard procedure of assigning a CUSIP by using itself as the issuer to avoid conflict with any other CUSIP. |
+| [SecurityId](./securityid) | Securities must be consistently identified to allow client applications to prepare accurate investment reports across all user investment accounts, even at multiple FIs.At this time, neither a security name nor its symbol is standardized.Therefore, OFX uses CUSIP numbers (a unique 9-digit alphanumeric identifier) to identify securities. CUSIP numbers are available for the vast majority of securities traded today, including those without symbols such as bonds. For a security that does not have a CUSIP, a financial institution must follow the standard procedure of assigning a CUSIP by using itself as the issuer to avoid conflict with any other CUSIP. |
 | [SecurityListRequestMessageSetV1](./securitylistrequestmessagesetv1) | Security list request messages set version 1 class. |
 | [SecurityListResponseMessageSetV1](./securitylistresponsemessagesetv1) | Security list response messages set version 1 class. |
 | [SignonRequestMessageSetV1](./signonrequestmessagesetv1) | Signon request messages set version 1 class. |
@@ -128,7 +128,7 @@ url: /net/aspose.finance.ofx/
 | [HolderTypeEnum](./holdertypeenum) | Account holder type enum. |
 | [ImageRefTypeEnum](./imagereftypeenum) | Image reference type enum. |
 | [ImageTypeEnum](./imagetypeenum) | Image type enum. |
-| [Investment401kSourceEnum](./investment401ksourceenum) | For 401(../k) accounts, source of money type enum. |
+| [Investment401kSourceEnum](./investment401ksourceenum) | For 401(k) accounts, source of money type enum. |
 | [InvestmentAccountEnum](./investmentaccountenum) | Investment account type enum. |
 | [InvestmentFrequencyEnum](./investmentfrequencyenum) | Investment frequency type enum. |
 | [LanguageEnum](./languageenum) | Language enum. |

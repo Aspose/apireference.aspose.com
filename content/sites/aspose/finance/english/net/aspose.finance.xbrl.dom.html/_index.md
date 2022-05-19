@@ -43,7 +43,7 @@ url: /net/aspose.finance.xbrl.dom.html/
 | [HTMLLabelElement](./htmllabelelement) | The class represents form field label text. See the LABEL element definition in HTML 4.01. |
 | [HTMLLegendElement](./htmllegendelement) | The class represents a caption for a FIELDSET grouping. See the LEGEND element definition in HTML 4.01. |
 | [HTMLLIElement](./htmllielement) | The class represents list item. See the LI element definition in HTML 4.01. |
-| [HTMLLinkElement](./htmllinkelement) | The class specifies a link to an external resource, and defines this document's relationship to that resource (../or vice versa). See the LINK element definition in HTML 4.01 |
+| [HTMLLinkElement](./htmllinkelement) | The class specifies a link to an external resource, and defines this document's relationship to that resource (or vice versa). See the LINK element definition in HTML 4.01 |
 | [HTMLMapElement](./htmlmapelement) | The class represents client-side image map. See the MAP element definition in HTML 4.01. |
 | [HTMLMenuElement](./htmlmenuelement) | The class represents menu list. See the MENU element definition in HTML 4.01. This element is deprecated in HTML 4.01. |
 | [HTMLMetaElement](./htmlmetaelement) | The class contains generic meta-information about the document. See the META element definition in HTML 4.01. |
