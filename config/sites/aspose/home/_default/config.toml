@@ -124,7 +124,7 @@ footer_about_disable = false
       keepWhitespace = false
 
 sitemap:
-  filename: static-content/sitemap.xml
+  filename = static-content/sitemap.xml
   
 [deployment]
 [[deployment.matchers]]
