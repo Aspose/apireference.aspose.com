@@ -104,4 +104,5 @@ rewrite (net|java|cpp|php|nodejs|androidjava|python)/(words|pdf|cells|email|slid
 rewrite (net|java)/(viewer|annotation|conversion|comparison|signature|assembly|metadata|search|parser|watermark|editor|merger|redaction|classification)(.*) https://apireference2.aspose.com/$2/$1$3 permanent;
 rewrite diagram/nodejs/aspose.diagram/(.*) https://apireference2.aspose.com/diagram/nodejs/$1 permanent;
 rewrite admin(.*) https://apireference-qa.aspose.com/admin$1 permanent;
+rewrite (.*)/python(?!-java)(.*) https://apireference2.aspose.com/$/python-java$2 permanent;
 
