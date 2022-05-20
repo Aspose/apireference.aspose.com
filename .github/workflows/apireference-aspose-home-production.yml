@@ -52,7 +52,7 @@ jobs:
         run: hugo --configDir config/sites/aspose/home --environment production --minify
         
       - name: Deploy apireference2.aspose.com(home)(production) to S3
-        run: hugo --configDir config/sites/aspose/home --environment staging deploy --target "Production" --maxDeletes 0
+        run: hugo --configDir config/sites/aspose/home --environment production deploy --target "Production" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
