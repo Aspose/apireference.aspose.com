@@ -123,8 +123,8 @@ footer_about_disable = false
     [minify.tdewolff.xml]
       keepWhitespace = false
 
-sitemap:
-  filename = static-content/sitemap.xml
+[sitemap]
+  filename = 'static-content/sitemap.xml'  
   
 [deployment]
 [[deployment.matchers]]
