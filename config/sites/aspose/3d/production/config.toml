@@ -1,3 +1,5 @@
+baseURL = "http://apireference.aspose.com/3d"
+
 # Google Tag Manager settings
 [params.gmt]
 gmt_id = "GTM-NJMHSH"
