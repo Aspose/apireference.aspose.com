@@ -1,4 +1,4 @@
-baseURL = "http://apireference.aspose.com/3d"
+baseURL = "https://apireference.aspose.com/3d"
 
 # Google Tag Manager settings
 [params.gmt]
