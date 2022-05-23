@@ -1,3 +1,6 @@
+baseURL = "https://apireference.aspose.com"
+
+
 # Google Tag Manager settings
 [params.gtm]
 gtm_id = "GTM-NJMHSH"
