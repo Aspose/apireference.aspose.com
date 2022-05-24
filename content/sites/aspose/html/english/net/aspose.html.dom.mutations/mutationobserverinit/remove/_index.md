@@ -8,19 +8,9 @@ url: /net/aspose.html.dom.mutations/mutationobserverinit/remove/
 ---
 ## MutationObserverInit.Remove method (1 of 2)
 
-Removes the specified key/value pair from the [`MutationObserverInit`](../../mutationobserverinit) collection.
-
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | The item to remove. |
-
-## Return Value
-
-True if successfully removed; otherwise, false.
 
 ### See Also
 
@@ -42,7 +32,7 @@ public bool Remove(string key)
 | --- | --- | --- |
 | key | String | The key of the element to remove. |
 
-## Return Value
+### Return Value
 
 True if the element is successfully found and removed; otherwise, false.
 

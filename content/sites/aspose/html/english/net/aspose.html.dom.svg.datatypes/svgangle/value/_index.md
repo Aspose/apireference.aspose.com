@@ -14,7 +14,7 @@ The angle value as a floating point value, in degrees. Setting this attribute wi
 public float Value { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The value.
 
@@ -22,7 +22,7 @@ The value.
 
 | exception | condition |
 | --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err) Raised when the angle corresponds to a read only attribute or when the object itself is read only. |
+| [DOMException](../../../aspose.html.dom/domexception) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err)Raised when the angle corresponds to a read only attribute or when the object itself is read only. |
 
 ### See Also
 

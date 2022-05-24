@@ -8,13 +8,15 @@ url: /net/aspose.html.dom.css/icss2properties/bordercolor/
 ---
 ## ICSS2Properties.BorderColor property
 
-See the border-color property definition in CSS2.
+The 'border-color' property sets the color of the four borders. Values have the following meanings:
+
+color - Specifies a color value.transparent - The border is transparent (though it may have width).
 
 ```csharp
 public string BorderColor { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 border-color property
 

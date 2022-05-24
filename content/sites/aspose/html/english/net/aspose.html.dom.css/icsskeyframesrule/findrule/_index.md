@@ -18,9 +18,9 @@ public ICSSKeyframeRule FindRule(string key)
 | --- | --- | --- |
 | key | String | The key which described the rule to find. The key must resolve to a number between 0 and 1, or the rule is ignored. |
 
-## Return Value
+### Return Value
 
-The found rule
+Returns the last declared [`CSSKeyframeRule`](../../icsskeyframerule) matching the specified keyframe selector. If no matching rule exists, the method does nothing.
 
 ### See Also
 

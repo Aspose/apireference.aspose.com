@@ -14,7 +14,7 @@ The Height coordinate of the rectangle, in user units.
 public float Height { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Height coordinate of the rectangle, in user units.
 
@@ -22,7 +22,7 @@ The Height coordinate of the rectangle, in user units.
 
 | exception | condition |
 | --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err) Raised when the rectangle corresponds to a read only attribute or when the object itself is read only. |
+| [DOMException](../../../aspose.html.dom/domexception) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err)Raised when the rectangle corresponds to a read only attribute or when the object itself is read only. |
 
 ### See Also
 

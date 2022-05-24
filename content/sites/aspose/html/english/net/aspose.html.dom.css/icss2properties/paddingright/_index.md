@@ -8,13 +8,13 @@ url: /net/aspose.html.dom.css/icss2properties/paddingright/
 ---
 ## ICSS2Properties.PaddingRight property
 
-See the padding-right property definition in CSS2.
+These properties set the top, right, bottom, and left padding of a box.
 
 ```csharp
 public string PaddingRight { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 padding-right property
 
