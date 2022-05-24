@@ -14,9 +14,9 @@ The parsable textual representation of the declaration block (excluding the surr
 public string CSSText { get; set; }
 ```
 
-## Property Value
+### Property Value
 
-The CSS text.
+Setting this attribute changes the inline style. If you want a text representation of a computed declaration block, you can get it with JSON.stringify().
 
 ### See Also
 

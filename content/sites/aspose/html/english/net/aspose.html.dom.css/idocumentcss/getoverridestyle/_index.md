@@ -19,9 +19,9 @@ public ICSSStyleDeclaration GetOverrideStyle(Element elt, string pseudoElt)
 | elt | Element | The element whose style is to be modified. This parameter cannot be null. |
 | pseudoElt | String | The pseudo-element or null if none. |
 
-## Return Value
+### Return Value
 
-The override style declaration
+The override style declaration.
 
 ### See Also
 

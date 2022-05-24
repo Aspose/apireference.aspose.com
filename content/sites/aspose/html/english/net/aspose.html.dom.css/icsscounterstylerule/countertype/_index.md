@@ -8,15 +8,15 @@ url: /net/aspose.html.dom.css/icsscounterstylerule/countertype/
 ---
 ## ICSSCounterStyleRule.CounterType property
 
-Gets the type of the counter.
+The counter type property of the [`CSSCounterStyleRule`](../../icsscounterstylerule) interface gets the value of the counter type descriptor.
 
 ```csharp
 public string CounterType { get; }
 ```
 
-## Property Value
+### Property Value
 
-The type of the counter.
+Gets the value of the counter type descriptor of current instance.
 
 ### See Also
 
