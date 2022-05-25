@@ -14,7 +14,7 @@ IfcProjectedOrTrueLengthEnum
 public enum IfcProjectedOrTrueLengthEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

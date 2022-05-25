@@ -30,6 +30,12 @@ public class DgnViewInfo
 | [Flags](../../aspose.cad.fileformats.dgn/dgnviewinfo/flags) { get; set; } | Gets or sets the flags. |
 | [Origin](../../aspose.cad.fileformats.dgn/dgnviewinfo/origin) { get; set; } | Gets or sets the origin. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [Levels](../../aspose.cad.fileformats.dgn/dgnviewinfo/levels) | The levels |
+
 ### See Also
 
 * namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn)

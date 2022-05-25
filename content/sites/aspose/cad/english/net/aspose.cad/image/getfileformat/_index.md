@@ -18,7 +18,7 @@ public static FileFormat GetFileFormat(string filePath)
 | --- | --- | --- |
 | filePath | String | The file path. |
 
-## Return Value
+### Return Value
 
 The determined file format.
 
@@ -59,7 +59,7 @@ public static FileFormat GetFileFormat(Stream stream)
 | --- | --- | --- |
 | stream | Stream | The stream. |
 
-## Return Value
+### Return Value
 
 The determined file format.
 

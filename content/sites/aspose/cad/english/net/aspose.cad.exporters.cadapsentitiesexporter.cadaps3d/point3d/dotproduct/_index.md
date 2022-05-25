@@ -19,7 +19,7 @@ public static double DotProduct(Point3D point1, Point3D point2)
 | point1 | Point3D | First vector. |
 | point2 | Point3D | Second vector. |
 
-## Return Value
+### Return Value
 
 Dor product
 

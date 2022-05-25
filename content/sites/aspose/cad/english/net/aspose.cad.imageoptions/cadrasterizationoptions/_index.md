@@ -52,6 +52,12 @@ public class CadRasterizationOptions : VectorRasterizationOptions
 | [UnitType](../../aspose.cad.imageoptions/vectorrasterizationoptions/unittype) { get; set; } | Gets or sets unit type of export result. |
 | [Zoom](../../aspose.cad.imageoptions/cadrasterizationoptions/zoom) { get; set; } | Gets or sets zoom factor. Allows to zoom drawing relatively to canvas size. Value of 1 corresponds to exact fit, value below 1 allows to preserve margins, value above 1 allows to scale drawing up. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [RenderResult](../../aspose.cad.imageoptions/cadrasterizationoptions/renderresult) | Rendering result handler. |
+
 ### See Also
 
 * class [VectorRasterizationOptions](../vectorrasterizationoptions)

@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tifffilestandards/
 public enum TiffFileStandards : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

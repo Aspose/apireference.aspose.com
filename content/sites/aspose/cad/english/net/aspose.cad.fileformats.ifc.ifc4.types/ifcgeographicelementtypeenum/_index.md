@@ -14,7 +14,7 @@ IfcGeographicElementTypeEnum
 public enum IfcGeographicElementTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

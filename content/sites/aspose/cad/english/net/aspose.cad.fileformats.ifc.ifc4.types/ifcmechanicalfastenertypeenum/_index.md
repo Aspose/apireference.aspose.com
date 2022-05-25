@@ -14,7 +14,7 @@ IfcMechanicalFastenerTypeEnum
 public enum IfcMechanicalFastenerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

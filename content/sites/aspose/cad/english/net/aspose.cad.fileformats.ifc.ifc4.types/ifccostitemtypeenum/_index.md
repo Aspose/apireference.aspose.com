@@ -14,7 +14,7 @@ IfcCostItemTypeEnum
 public enum IfcCostItemTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

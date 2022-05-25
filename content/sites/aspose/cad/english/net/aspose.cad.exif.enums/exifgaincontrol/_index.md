@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifgaincontrol/
 public enum ExifGainControl
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

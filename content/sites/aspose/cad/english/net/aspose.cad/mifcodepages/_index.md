@@ -14,7 +14,7 @@ Code pages used in MIF symbols
 public enum MifCodePages
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

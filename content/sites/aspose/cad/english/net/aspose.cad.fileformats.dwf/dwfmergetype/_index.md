@@ -14,7 +14,7 @@ The DWF merge type.
 public enum DwfMergeType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

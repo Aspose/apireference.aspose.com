@@ -19,7 +19,7 @@ public static bool operator ==(Point3D a, Point3D b)
 | a | Point3D | First point to compare. |
 | b | Point3D | Second point to compare. |
 
-## Return Value
+### Return Value
 
 True if points are equal.
 

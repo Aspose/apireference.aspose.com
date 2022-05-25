@@ -18,7 +18,7 @@ public abstract RectangleF GetBounds(Matrix matrix)
 | --- | --- | --- |
 | matrix | Matrix | The matrix to apply before bounds will be calculated. |
 
-## Return Value
+### Return Value
 
 The estimated object's bounds.
 

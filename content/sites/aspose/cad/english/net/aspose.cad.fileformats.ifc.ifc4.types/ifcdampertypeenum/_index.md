@@ -14,7 +14,7 @@ IfcDamperTypeEnum
 public enum IfcDamperTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

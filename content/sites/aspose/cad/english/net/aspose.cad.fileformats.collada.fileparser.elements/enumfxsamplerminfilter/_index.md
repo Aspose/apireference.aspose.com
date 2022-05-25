@@ -14,7 +14,7 @@ The enumeration FX sampler min filter.
 public enum EnumFxSamplerMinFilter
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

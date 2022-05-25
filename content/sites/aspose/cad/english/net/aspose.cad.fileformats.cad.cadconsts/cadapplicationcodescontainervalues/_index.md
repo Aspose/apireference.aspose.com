@@ -12,6 +12,22 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalue
 public static class CadApplicationCodesContainerValues
 ```
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [ACAD](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/acad) |  |
+| const [BRIGHTNESS](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/brightness) |  |
+| const [CONTRAST](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/contrast) |  |
+| const [DEFAULT_LIGHTING](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/default_lighting) |  |
+| const [DEFAULT_LIGHTING_TYPE](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/default_lighting_type) |  |
+| const [DISPLAY_NAME](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/display_name) |  |
+| const [FLAGS](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/flags) |  |
+| const [GRID_DISPLAY](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/grid_display) |  |
+| const [GRID_MAJOR](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/grid_major) |  |
+| const [RTVS_PROPERTIES_PREFIX](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/rtvs_properties_prefix) |  |
+| const [VISUAL_STYLE](../../aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/visual_style) |  |
+
 ### See Also
 
 * namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts)

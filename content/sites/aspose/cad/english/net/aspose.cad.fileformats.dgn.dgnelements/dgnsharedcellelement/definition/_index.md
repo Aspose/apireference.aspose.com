@@ -14,7 +14,7 @@ Gets the definition.
 public DgnSharedCellDefinitionElement Definition { get; }
 ```
 
-## Property Value
+### Property Value
 
 The definition.
 

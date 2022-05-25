@@ -14,7 +14,7 @@ IfcPreferredSurfaceCurveRepresentation
 public enum IfcPreferredSurfaceCurveRepresentation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

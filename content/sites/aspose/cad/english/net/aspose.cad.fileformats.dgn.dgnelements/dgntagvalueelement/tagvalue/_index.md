@@ -14,7 +14,7 @@ Gets or sets the tag value.
 public DgnTagValue TagValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The tag value.
 

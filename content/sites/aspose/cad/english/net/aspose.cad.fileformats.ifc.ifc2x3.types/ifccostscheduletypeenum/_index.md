@@ -14,7 +14,7 @@ IfcCostScheduleTypeEnum
 public enum IfcCostScheduleTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

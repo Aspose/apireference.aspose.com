@@ -14,7 +14,7 @@ IfcSurfaceFeatureTypeEnum
 public enum IfcSurfaceFeatureTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

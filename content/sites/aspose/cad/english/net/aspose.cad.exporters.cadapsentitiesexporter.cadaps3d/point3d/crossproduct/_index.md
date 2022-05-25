@@ -19,7 +19,7 @@ public static Point3D CrossProduct(Point3D point1, Point3D point2)
 | point1 | Point3D | First point |
 | point2 | Point3D | Second point |
 
-## Return Value
+### Return Value
 
 Cross product point
 

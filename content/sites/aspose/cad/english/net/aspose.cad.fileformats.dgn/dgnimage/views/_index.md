@@ -14,7 +14,7 @@ Gets the views.
 public ReadOnlyCollection<DgnViewInfo> Views { get; }
 ```
 
-## Property Value
+### Property Value
 
 The views.
 

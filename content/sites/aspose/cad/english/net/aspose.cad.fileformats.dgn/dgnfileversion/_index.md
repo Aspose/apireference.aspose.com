@@ -14,7 +14,7 @@ File format version
 public enum DgnFileVersion
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

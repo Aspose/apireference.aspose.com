@@ -14,7 +14,7 @@ IfcInternalOrExternalEnum
 public enum IfcInternalOrExternalEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

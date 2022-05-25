@@ -14,7 +14,7 @@ IfcHeatExchangerTypeEnum
 public enum IfcHeatExchangerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

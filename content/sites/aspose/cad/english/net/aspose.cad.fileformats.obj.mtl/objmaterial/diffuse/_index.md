@@ -14,7 +14,7 @@ Gets or sets the diffuse.
 public Obj3Values Diffuse { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The diffuse.
 

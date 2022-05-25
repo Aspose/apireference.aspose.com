@@ -14,7 +14,7 @@ Defines orientation of text
 public enum TextOrientation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

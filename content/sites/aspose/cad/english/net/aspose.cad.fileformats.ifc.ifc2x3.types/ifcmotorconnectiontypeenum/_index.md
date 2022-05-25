@@ -14,7 +14,7 @@ IfcMotorConnectionTypeEnum
 public enum IfcMotorConnectionTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

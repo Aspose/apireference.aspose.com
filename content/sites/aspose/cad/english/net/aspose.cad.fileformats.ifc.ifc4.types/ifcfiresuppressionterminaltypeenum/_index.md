@@ -14,7 +14,7 @@ IfcFireSuppressionTerminalTypeEnum
 public enum IfcFireSuppressionTerminalTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

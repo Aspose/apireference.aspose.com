@@ -14,7 +14,7 @@ Gets or sets the arc and spline quality.
 public RasterizationQualityValue Arc { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The arc and spline quality.
 

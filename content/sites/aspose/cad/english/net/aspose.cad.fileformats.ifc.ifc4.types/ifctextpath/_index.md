@@ -14,7 +14,7 @@ IfcTextPath
 public enum IfcTextPath
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

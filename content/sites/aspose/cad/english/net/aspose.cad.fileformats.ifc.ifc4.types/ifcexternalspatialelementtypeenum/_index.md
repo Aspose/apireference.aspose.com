@@ -14,7 +14,7 @@ IfcExternalSpatialElementTypeEnum
 public enum IfcExternalSpatialElementTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

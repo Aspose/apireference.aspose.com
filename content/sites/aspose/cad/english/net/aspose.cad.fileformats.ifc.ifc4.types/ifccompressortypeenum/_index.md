@@ -14,7 +14,7 @@ IfcCompressorTypeEnum
 public enum IfcCompressorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

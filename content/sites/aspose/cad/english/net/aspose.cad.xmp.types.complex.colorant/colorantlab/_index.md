@@ -38,16 +38,16 @@ public sealed class ColorantLab : ColorantBase
 | --- | --- |
 | override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.colorant/colorantlab/getxmprepresentation)() |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [MaxA](maxa) |  |
-| const [MaxB](maxb) |  |
-| const [MaxL](maxl) |  |
-| const [MinA](mina) |  |
-| const [MinB](minb) |  |
-| const [MinL](minl) |  |
+| const [MaxA](../../aspose.cad.xmp.types.complex.colorant/colorantlab/maxa) |  |
+| const [MaxB](../../aspose.cad.xmp.types.complex.colorant/colorantlab/maxb) |  |
+| const [MaxL](../../aspose.cad.xmp.types.complex.colorant/colorantlab/maxl) |  |
+| const [MinA](../../aspose.cad.xmp.types.complex.colorant/colorantlab/mina) |  |
+| const [MinB](../../aspose.cad.xmp.types.complex.colorant/colorantlab/minb) |  |
+| const [MinL](../../aspose.cad.xmp.types.complex.colorant/colorantlab/minl) |  |
 
 ### See Also
 

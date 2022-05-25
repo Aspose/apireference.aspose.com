@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadintegralparametertype/
 public enum CadIntegralParameterType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

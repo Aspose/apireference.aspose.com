@@ -14,7 +14,7 @@ Gets the tags.
 public ReadOnlyCollection<DgnElement> Tags { get; }
 ```
 
-## Property Value
+### Property Value
 
 The tags.
 

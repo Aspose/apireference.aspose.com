@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifycbcrpositioning/
 public enum ExifYCbCrPositioning
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

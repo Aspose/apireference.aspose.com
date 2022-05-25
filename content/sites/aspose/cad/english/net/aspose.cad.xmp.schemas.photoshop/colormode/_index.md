@@ -12,7 +12,7 @@ url: /net/aspose.cad.xmp.schemas.photoshop/colormode/
 public enum ColorMode : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

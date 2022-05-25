@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [text thickness normalization].
 public bool TextThicknessNormalization { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [text thickness normalization]; otherwise, `false`.
 

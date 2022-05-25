@@ -14,7 +14,7 @@ IfcEvaporativeCoolerTypeEnum
 public enum IfcEvaporativeCoolerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets or sets the value.
 public IfcLabel Value { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The value.
 

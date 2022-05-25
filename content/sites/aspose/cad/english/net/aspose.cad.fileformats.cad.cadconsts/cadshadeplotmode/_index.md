@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotmode/
 public enum CadShadePlotMode : short
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

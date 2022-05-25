@@ -14,7 +14,7 @@ Gets next replacement char
 public override char GetNextChar()
 ```
 
-## Return Value
+### Return Value
 
 Replacement char
 

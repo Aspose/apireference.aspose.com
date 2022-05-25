@@ -14,7 +14,7 @@ Gets or sets the specified encoding.
 public CodePages SpecifiedEncoding { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The specified encoding.
 

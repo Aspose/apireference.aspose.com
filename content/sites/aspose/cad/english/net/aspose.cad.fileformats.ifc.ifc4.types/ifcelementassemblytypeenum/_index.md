@@ -14,7 +14,7 @@ IfcElementAssemblyTypeEnum
 public enum IfcElementAssemblyTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

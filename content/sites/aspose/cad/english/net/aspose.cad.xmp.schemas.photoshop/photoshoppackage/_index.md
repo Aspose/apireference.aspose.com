@@ -59,12 +59,12 @@ public sealed class PhotoshopPackage : XmpPackage
 | virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
 | virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [UrgencyMax](urgencymax) |  |
-| const [UrgencyMin](urgencymin) |  |
+| const [UrgencyMax](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/urgencymax) |  |
+| const [UrgencyMin](../../aspose.cad.xmp.schemas.photoshop/photoshoppackage/urgencymin) |  |
 
 ### See Also
 

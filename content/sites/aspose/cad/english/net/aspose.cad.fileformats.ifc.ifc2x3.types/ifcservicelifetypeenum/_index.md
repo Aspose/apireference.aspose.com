@@ -14,7 +14,7 @@ IfcServiceLifeTypeEnum
 public enum IfcServiceLifeTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

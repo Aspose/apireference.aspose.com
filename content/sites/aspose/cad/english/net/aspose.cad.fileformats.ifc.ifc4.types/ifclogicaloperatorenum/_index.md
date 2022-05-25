@@ -14,7 +14,7 @@ IfcLogicalOperatorEnum
 public enum IfcLogicalOperatorEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

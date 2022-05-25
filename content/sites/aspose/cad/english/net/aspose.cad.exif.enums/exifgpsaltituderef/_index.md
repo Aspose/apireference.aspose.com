@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifgpsaltituderef/
 public enum ExifGPSAltitudeRef : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

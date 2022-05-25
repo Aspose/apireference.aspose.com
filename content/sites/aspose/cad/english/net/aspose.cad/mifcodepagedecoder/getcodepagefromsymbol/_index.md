@@ -18,7 +18,7 @@ public static CodePages GetCodePageFromSymbol(string nSymbol)
 | --- | --- | --- |
 | nSymbol | String | The n symbol |
 
-## Return Value
+### Return Value
 
 Codepage
 

@@ -14,7 +14,7 @@ Gets the depth.
 public int Depth { get; }
 ```
 
-## Property Value
+### Property Value
 
 The depth.
 

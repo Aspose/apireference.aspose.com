@@ -14,7 +14,7 @@ Gets all string values from image.
 public override string[] GetStrings()
 ```
 
-## Return Value
+### Return Value
 
 The array with string values.
 

@@ -14,7 +14,7 @@ IfcChimneyTypeEnum
 public enum IfcChimneyTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

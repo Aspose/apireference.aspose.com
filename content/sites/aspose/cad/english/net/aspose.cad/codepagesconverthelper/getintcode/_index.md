@@ -18,7 +18,7 @@ public static int GetIntCode(CodePages codePages)
 | --- | --- | --- |
 | codePages | CodePages | The code pages. |
 
-## Return Value
+### Return Value
 
 Language encoding
 

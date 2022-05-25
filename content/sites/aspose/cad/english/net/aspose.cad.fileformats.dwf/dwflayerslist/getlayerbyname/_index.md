@@ -18,7 +18,7 @@ public DwfWhipLayer GetLayerByName(string name)
 | --- | --- | --- |
 | name | String | The name of layer. |
 
-## Return Value
+### Return Value
 
 The layer or null if layer with "name" does not exist in the collection[`DwfWhipLayer`](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer)
 

@@ -12,6 +12,17 @@ url: /net/aspose.cad/buildversioninfo/
 public sealed class BuildVersionInfo
 ```
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static readonly [AssemblyVersion](../../aspose.cad/buildversioninfo/assemblyversion) |  |
+| static readonly [FileVersion](../../aspose.cad/buildversioninfo/fileversion) |  |
+| static readonly [Product](../../aspose.cad/buildversioninfo/product) |  |
+| const [ProductMajor](../../aspose.cad/buildversioninfo/productmajor) |  |
+| const [ProductMinor](../../aspose.cad/buildversioninfo/productminor) |  |
+| static readonly [ReleaseDate](../../aspose.cad/buildversioninfo/releasedate) |  |
+
 ### See Also
 
 * namespace [Aspose.CAD](../../aspose.cad)

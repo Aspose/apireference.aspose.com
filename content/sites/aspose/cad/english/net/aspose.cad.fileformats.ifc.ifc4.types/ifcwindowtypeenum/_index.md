@@ -14,7 +14,7 @@ IfcWindowTypeEnum
 public enum IfcWindowTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

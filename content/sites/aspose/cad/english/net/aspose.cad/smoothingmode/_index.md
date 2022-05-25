@@ -12,7 +12,7 @@ url: /net/aspose.cad/smoothingmode/
 public enum SmoothingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

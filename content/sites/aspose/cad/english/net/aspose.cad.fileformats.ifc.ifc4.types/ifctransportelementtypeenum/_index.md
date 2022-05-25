@@ -14,7 +14,7 @@ IfcTransportElementTypeEnum
 public enum IfcTransportElementTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

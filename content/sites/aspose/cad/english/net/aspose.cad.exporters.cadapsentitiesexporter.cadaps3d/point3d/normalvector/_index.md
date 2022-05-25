@@ -20,7 +20,7 @@ public static Point3D NormalVector(Point3D point1, Point3D point2, Point3D point
 | point2 | Point3D | Second vector of a plane. |
 | point3 | Point3D | Third vector of a plane. |
 
-## Return Value
+### Return Value
 
 Normal vector of a plane
 

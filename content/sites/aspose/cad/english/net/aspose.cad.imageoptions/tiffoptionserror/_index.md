@@ -12,7 +12,7 @@ url: /net/aspose.cad.imageoptions/tiffoptionserror/
 public enum TiffOptionsError
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

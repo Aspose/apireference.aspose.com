@@ -14,7 +14,7 @@ IfcResourceConsumptionEnum
 public enum IfcResourceConsumptionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

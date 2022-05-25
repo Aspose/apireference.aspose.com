@@ -14,7 +14,7 @@ IfcWorkScheduleTypeEnum
 public enum IfcWorkScheduleTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

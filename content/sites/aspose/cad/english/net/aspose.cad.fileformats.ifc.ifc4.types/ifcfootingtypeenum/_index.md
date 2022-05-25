@@ -14,7 +14,7 @@ IfcFootingTypeEnum
 public enum IfcFootingTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcSimplePropertyTemplateTypeEnum
 public enum IfcSimplePropertyTemplateTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

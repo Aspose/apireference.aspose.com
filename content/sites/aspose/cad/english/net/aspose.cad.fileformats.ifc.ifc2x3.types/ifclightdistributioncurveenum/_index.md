@@ -14,7 +14,7 @@ IfcLightDistributionCurveEnum
 public enum IfcLightDistributionCurveEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

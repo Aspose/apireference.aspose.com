@@ -14,7 +14,7 @@ Represents possible modes for automatic scale of an image.
 public enum ScaleType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

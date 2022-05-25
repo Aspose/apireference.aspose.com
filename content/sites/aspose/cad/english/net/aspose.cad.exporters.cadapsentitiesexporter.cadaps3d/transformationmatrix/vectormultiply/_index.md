@@ -18,7 +18,7 @@ public double[] VectorMultiply(double[] point)
 | --- | --- | --- |
 | point | Double[] | Point to transform |
 
-## Return Value
+### Return Value
 
 Transformed point
 

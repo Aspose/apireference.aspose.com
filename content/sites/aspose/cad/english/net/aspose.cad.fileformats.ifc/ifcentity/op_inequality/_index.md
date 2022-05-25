@@ -19,7 +19,7 @@ public static bool operator !=(IfcEntity left, IfcEntity right)
 | left | IfcEntity | The left. |
 | right | IfcEntity | The right. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

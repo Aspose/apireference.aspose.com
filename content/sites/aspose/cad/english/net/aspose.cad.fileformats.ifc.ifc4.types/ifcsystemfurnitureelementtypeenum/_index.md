@@ -14,7 +14,7 @@ IfcSystemFurnitureElementTypeEnum
 public enum IfcSystemFurnitureElementTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

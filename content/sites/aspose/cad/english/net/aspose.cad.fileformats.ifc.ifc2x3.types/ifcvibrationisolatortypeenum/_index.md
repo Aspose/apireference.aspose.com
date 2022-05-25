@@ -14,7 +14,7 @@ IfcVibrationIsolatorTypeEnum
 public enum IfcVibrationIsolatorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

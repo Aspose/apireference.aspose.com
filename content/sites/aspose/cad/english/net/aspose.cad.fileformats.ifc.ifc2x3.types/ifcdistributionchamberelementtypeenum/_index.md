@@ -14,7 +14,7 @@ IfcDistributionChamberElementTypeEnum
 public enum IfcDistributionChamberElementTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

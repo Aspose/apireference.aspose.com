@@ -14,7 +14,7 @@ Specifies digital hash algorithm used by digital signature.
 public enum PdfDigitalSignatureHashAlgorithmCore
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

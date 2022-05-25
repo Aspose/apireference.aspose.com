@@ -14,7 +14,7 @@ IfcWindowStyleConstructionEnum
 public enum IfcWindowStyleConstructionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

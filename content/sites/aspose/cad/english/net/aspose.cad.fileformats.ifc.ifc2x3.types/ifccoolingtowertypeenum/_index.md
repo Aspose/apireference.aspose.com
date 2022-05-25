@@ -14,7 +14,7 @@ IfcCoolingTowerTypeEnum
 public enum IfcCoolingTowerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

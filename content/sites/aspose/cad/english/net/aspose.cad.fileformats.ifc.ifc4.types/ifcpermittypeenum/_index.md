@@ -14,7 +14,7 @@ IfcPermitTypeEnum
 public enum IfcPermitTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

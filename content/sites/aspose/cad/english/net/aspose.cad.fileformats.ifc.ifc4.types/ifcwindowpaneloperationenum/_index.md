@@ -14,7 +14,7 @@ IfcWindowPanelOperationEnum
 public enum IfcWindowPanelOperationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

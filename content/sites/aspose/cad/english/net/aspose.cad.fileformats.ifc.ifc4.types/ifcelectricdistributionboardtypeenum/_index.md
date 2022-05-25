@@ -14,7 +14,7 @@ IfcElectricDistributionBoardTypeEnum
 public enum IfcElectricDistributionBoardTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

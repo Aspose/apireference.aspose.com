@@ -14,7 +14,7 @@ IfcTrimmingPreference
 public enum IfcTrimmingPreference
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ The up axis enumeration. An enumerated type specifying the acceptable up-axis va
 public enum EnumUpAxis
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

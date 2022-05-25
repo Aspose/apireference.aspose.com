@@ -14,7 +14,7 @@ IfcCurrencyEnum
 public enum IfcCurrencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -19,7 +19,7 @@ public static Point3D operator *(Point3D point, double scale)
 | point | Point3D | The point. |
 | scale | Double | The scale. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

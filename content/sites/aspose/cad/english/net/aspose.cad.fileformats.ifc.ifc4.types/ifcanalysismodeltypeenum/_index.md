@@ -14,7 +14,7 @@ IfcAnalysisModelTypeEnum
 public enum IfcAnalysisModelTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

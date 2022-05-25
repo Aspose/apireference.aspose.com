@@ -32,11 +32,11 @@ public sealed class XmpDate : XmpTypeBase
 | --- | --- |
 | override [GetXmpRepresentation](../../aspose.cad.xmp.types.basic/xmpdate/getxmprepresentation)() |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [Iso8601Format](iso8601format) |  |
+| const [Iso8601Format](../../aspose.cad.xmp.types.basic/xmpdate/iso8601format) |  |
 
 ### See Also
 

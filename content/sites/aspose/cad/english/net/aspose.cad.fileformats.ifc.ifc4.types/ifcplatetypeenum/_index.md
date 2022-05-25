@@ -14,7 +14,7 @@ IfcPlateTypeEnum
 public enum IfcPlateTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

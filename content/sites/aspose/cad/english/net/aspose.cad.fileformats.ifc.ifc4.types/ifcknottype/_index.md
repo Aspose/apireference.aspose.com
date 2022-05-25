@@ -14,7 +14,7 @@ IfcKnotType
 public enum IfcKnotType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

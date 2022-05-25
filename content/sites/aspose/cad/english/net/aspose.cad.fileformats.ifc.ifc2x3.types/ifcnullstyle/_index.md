@@ -14,7 +14,7 @@ IfcNullStyle
 public enum IfcNullStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

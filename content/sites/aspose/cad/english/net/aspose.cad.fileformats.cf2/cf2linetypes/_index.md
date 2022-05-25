@@ -14,7 +14,7 @@ CF2 line types
 public enum CF2LineTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcFurnitureTypeEnum
 public enum IfcFurnitureTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

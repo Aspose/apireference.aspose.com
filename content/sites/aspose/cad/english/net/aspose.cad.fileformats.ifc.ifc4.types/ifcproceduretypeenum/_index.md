@@ -14,7 +14,7 @@ IfcProcedureTypeEnum
 public enum IfcProcedureTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

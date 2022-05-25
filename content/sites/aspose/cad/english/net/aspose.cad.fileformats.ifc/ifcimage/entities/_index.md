@@ -14,7 +14,7 @@ Gets the entities.
 public IDictionary<int, IIfcEntity> Entities { get; }
 ```
 
-## Property Value
+### Property Value
 
 The entities.
 

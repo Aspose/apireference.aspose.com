@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffsampleformats/
 public enum TiffSampleFormats
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Represents element orientation
 public enum DgnElementOrientation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

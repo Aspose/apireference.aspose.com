@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exiforientation/
 public enum ExifOrientation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

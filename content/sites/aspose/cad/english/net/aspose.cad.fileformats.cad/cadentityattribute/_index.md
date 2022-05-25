@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad/cadentityattribute/
 public enum CadEntityAttribute
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

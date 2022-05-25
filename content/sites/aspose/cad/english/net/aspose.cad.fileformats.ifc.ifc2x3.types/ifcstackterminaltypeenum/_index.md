@@ -14,7 +14,7 @@ IfcStackTerminalTypeEnum
 public enum IfcStackTerminalTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

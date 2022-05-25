@@ -19,7 +19,7 @@ public static TransformationMatrix operator *(TransformationMatrix matrix, doubl
 | matrix | TransformationMatrix | Matrix to multiply. |
 | value | Double | Value to multiply matrix on. |
 
-## Return Value
+### Return Value
 
 Matrix multiplied by a factor.
 
@@ -45,7 +45,7 @@ public static TransformationMatrix operator *(TransformationMatrix matrix1,
 | matrix1 | TransformationMatrix | First matrix. |
 | matrix2 | TransformationMatrix | Second matrix. |
 
-## Return Value
+### Return Value
 
 Multiplication of a matrices.
 

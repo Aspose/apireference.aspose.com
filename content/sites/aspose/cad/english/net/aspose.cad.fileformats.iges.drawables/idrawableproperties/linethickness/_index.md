@@ -14,7 +14,7 @@ Line thickness in document's measurement units (i.e. same as geometry's units).
 public double LineThickness { get; }
 ```
 
-## Property Value
+### Property Value
 
 0 if default thickness should be used
 

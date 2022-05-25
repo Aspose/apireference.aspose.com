@@ -14,7 +14,7 @@ IfcGasTerminalTypeEnum
 public enum IfcGasTerminalTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

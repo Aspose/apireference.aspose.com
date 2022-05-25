@@ -14,7 +14,7 @@ IfcComplexPropertyTemplateTypeEnum
 public enum IfcComplexPropertyTemplateTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

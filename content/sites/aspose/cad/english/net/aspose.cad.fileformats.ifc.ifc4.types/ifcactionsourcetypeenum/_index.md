@@ -14,7 +14,7 @@ IfcActionSourceTypeEnum
 public enum IfcActionSourceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

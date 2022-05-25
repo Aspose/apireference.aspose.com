@@ -59,11 +59,11 @@ public class StreamContainer : DisposableObject
 | virtual [WriteTo](../../aspose.cad/streamcontainer/writeto)(StreamContainer, long) |  |
 | [explicit operator](../../aspose.cad/streamcontainer/op_explicit) |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [ReadWriteBytesCount](readwritebytescount) |  |
+| const [ReadWriteBytesCount](../../aspose.cad/streamcontainer/readwritebytescount) |  |
 
 ### See Also
 

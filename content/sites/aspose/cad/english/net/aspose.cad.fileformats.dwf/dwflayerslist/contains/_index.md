@@ -18,7 +18,7 @@ public bool Contains(DwfWhipLayer item)
 | --- | --- | --- |
 | item | DwfWhipLayer | the object to locate in the collection |
 
-## Return Value
+### Return Value
 
 true if item is found in the collection otherwise false
 

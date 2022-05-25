@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffnewsubfiletypes/
 public enum TiffNewSubFileTypes : uint
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

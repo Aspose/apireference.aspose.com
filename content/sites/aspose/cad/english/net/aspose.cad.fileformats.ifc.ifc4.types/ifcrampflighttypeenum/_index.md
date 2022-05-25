@@ -14,7 +14,7 @@ IfcRampFlightTypeEnum
 public enum IfcRampFlightTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

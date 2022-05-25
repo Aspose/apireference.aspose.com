@@ -14,7 +14,7 @@ IfcObjectTypeEnum
 public enum IfcObjectTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

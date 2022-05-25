@@ -14,7 +14,7 @@ IfcBSplineSurfaceForm
 public enum IfcBSplineSurfaceForm
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

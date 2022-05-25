@@ -19,7 +19,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesC
 | image | RasterImage | The raster image. |
 | entriesCount | Int32 | The desired entries count. |
 
-## Return Value
+### Return Value
 
 The color palette which starts with the most frequent colors from the *image* and contains *entriesCount* entries.
 

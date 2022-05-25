@@ -14,7 +14,7 @@ IfcLaborResourceTypeEnum
 public enum IfcLaborResourceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

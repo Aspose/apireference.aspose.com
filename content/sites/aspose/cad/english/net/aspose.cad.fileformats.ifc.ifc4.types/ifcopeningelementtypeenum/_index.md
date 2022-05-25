@@ -14,7 +14,7 @@ IfcOpeningElementTypeEnum
 public enum IfcOpeningElementTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -12,7 +12,7 @@ url: /net/aspose.cad.imageoptions/multipagemode/
 public enum MultiPageMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets or sets a value indicating how to store font.
 public FontStoreType FontStoreType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 Do not store font, store embedded in SVG file, or store in provided destination stream.
 

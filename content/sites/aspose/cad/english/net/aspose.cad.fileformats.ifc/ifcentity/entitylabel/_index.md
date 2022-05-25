@@ -14,7 +14,7 @@ Gets the entity label.
 public int EntityLabel { get; }
 ```
 
-## Property Value
+### Property Value
 
 The entity label.
 

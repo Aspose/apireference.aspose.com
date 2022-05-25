@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadlinespacing/
 public enum CadLineSpacing
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -41,11 +41,11 @@ public class TiffRational
 | override [GetHashCode](../../aspose.cad.fileformats.tiff/tiffrational/gethashcode)() |  |
 | override [ToString](../../aspose.cad.fileformats.tiff/tiffrational/tostring)() |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [Epsilon](epsilon) |  |
+| const [Epsilon](../../aspose.cad.fileformats.tiff/tiffrational/epsilon) |  |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public static TransformationMatrix RotateZ(double theta)
 | --- | --- | --- |
 | theta | Double | Angle of rotation |
 
-## Return Value
+### Return Value
 
 Rotation matrix
 

@@ -14,7 +14,7 @@ IfcStairTypeEnum
 public enum IfcStairTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

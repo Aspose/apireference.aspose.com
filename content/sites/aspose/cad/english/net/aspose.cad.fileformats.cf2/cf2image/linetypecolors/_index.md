@@ -14,7 +14,7 @@ Colors of the line types.
 public Dictionary<CF2LineTypes,    > LineTypeColors { get; }
 ```
 
-## Property Value
+### Property Value
 
 The colors of the line types.
 

@@ -14,7 +14,7 @@ Represents creation method of 3d surface and 3d solid
 public enum DgnSurfaceCreationMethod
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

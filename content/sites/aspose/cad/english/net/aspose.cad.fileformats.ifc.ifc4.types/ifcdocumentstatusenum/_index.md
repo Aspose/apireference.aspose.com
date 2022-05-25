@@ -14,7 +14,7 @@ IfcDocumentStatusEnum
 public enum IfcDocumentStatusEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

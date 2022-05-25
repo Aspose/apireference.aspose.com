@@ -19,7 +19,7 @@ public override bool Fallback(char charUnknown, int index)
 | charUnknown | Char | Out of codepage character |
 | index | Int32 | Index of character in the input string |
 
-## Return Value
+### Return Value
 
 True if we do replace, false if not
 
@@ -45,7 +45,7 @@ public override bool Fallback(char charUnknownHigh, char charUnknownLow, int ind
 | charUnknownLow | Char | Out of codepage character - low surrogate |
 | index | Int32 | Index of character in the input string |
 
-## Return Value
+### Return Value
 
 True if we do replace, false if not
 

@@ -14,7 +14,7 @@ IfcPumpTypeEnum
 public enum IfcPumpTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

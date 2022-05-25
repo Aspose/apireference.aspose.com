@@ -14,7 +14,7 @@ IfcDistributionPortTypeEnum
 public enum IfcDistributionPortTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

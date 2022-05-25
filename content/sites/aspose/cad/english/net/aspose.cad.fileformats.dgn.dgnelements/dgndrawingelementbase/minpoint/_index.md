@@ -14,7 +14,7 @@ Gets the min point of object.
 public abstract Cad3DPoint MinPoint { get; }
 ```
 
-## Property Value
+### Property Value
 
 Min point of object.
 

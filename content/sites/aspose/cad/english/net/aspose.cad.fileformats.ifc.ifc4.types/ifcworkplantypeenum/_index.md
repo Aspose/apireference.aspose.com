@@ -14,7 +14,7 @@ IfcWorkPlanTypeEnum
 public enum IfcWorkPlanTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

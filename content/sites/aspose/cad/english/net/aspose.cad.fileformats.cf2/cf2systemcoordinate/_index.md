@@ -14,7 +14,7 @@ The type of coordinate system.
 public enum CF2SystemCoordinate
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

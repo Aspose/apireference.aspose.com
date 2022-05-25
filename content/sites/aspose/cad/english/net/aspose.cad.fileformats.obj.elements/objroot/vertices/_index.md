@@ -14,7 +14,7 @@ Gets or sets the vertices.
 public List<ObjVertex> Vertices { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertices.
 

@@ -20,7 +20,7 @@ public static TransformationMatrix Scale(double sx, double sy, double sz)
 | sy | Double | Y scale value |
 | sz | Double | Z scale value |
 
-## Return Value
+### Return Value
 
 Scaling matrix
 

@@ -14,7 +14,7 @@ IfcUnitaryEquipmentTypeEnum
 public enum IfcUnitaryEquipmentTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

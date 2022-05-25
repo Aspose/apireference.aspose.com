@@ -14,7 +14,7 @@ Gets or sets the observer point.
 public ObserverPoint ObserverPoint { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The observer point.
 

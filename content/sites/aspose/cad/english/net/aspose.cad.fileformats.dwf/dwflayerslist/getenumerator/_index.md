@@ -14,7 +14,7 @@ Enumeration of layers.
 public IEnumerator<DwfWhipLayer> GetEnumerator()
 ```
 
-## Return Value
+### Return Value
 
 Enumerator of layers[`DwfWhipLayer`](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer)
 

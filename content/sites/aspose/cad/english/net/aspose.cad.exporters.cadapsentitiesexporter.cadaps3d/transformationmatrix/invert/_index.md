@@ -14,7 +14,7 @@ Given an nXn matrix A, solve n linear equations to find the inverse of A.
 public TransformationMatrix Invert()
 ```
 
-## Return Value
+### Return Value
 
 Inverted matrix
 

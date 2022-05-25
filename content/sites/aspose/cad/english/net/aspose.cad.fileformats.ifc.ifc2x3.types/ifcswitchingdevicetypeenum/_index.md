@@ -14,7 +14,7 @@ IfcSwitchingDeviceTypeEnum
 public enum IfcSwitchingDeviceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

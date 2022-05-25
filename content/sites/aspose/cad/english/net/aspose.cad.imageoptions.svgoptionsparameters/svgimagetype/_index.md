@@ -14,7 +14,7 @@ Represents type of raster image within SVG image.
 public enum SvgImageType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

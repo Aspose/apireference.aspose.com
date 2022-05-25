@@ -14,7 +14,7 @@ IfcSoundScaleEnum
 public enum IfcSoundScaleEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

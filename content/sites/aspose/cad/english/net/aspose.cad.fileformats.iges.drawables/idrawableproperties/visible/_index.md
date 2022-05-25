@@ -14,7 +14,7 @@ Visibility of geometry
 public bool Visible { get; }
 ```
 
-## Property Value
+### Property Value
 
 True if visible, false if not
 

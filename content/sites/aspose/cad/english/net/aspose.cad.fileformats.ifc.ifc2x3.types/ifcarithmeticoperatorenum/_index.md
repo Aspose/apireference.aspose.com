@@ -14,7 +14,7 @@ IfcArithmeticOperatorEnum
 public enum IfcArithmeticOperatorEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

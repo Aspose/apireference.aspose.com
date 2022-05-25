@@ -14,7 +14,7 @@ The enumeration FX sampler wrap.
 public enum EnumFxSamplerWrap
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Available codepages
 public enum CodePages
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

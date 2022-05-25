@@ -14,7 +14,7 @@ IfcDoorStyleConstructionEnum
 public enum IfcDoorStyleConstructionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

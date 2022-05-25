@@ -14,7 +14,7 @@ The enumeration ORTHOGRATHIC items.
 public enum EnumOrthograthicItems
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

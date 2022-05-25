@@ -14,7 +14,7 @@ Gets or sets the origin.
 public DgnPoint Origin { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The origin.
 

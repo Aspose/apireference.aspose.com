@@ -14,7 +14,7 @@ IfcWallTypeEnum
 public enum IfcWallTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

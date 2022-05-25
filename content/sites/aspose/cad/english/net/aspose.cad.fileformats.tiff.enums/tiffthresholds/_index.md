@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffthresholds/
 public enum TiffThresholds : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

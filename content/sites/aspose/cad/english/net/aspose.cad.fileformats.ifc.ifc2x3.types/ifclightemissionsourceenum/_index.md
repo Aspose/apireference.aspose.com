@@ -14,7 +14,7 @@ IfcLightEmissionSourceEnum
 public enum IfcLightEmissionSourceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

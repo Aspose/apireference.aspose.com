@@ -14,7 +14,7 @@ IfcStructuralSurfaceMemberTypeEnum
 public enum IfcStructuralSurfaceMemberTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

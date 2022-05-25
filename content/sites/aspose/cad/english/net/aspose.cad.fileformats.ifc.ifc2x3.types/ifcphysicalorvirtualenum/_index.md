@@ -14,7 +14,7 @@ IfcPhysicalOrVirtualEnum
 public enum IfcPhysicalOrVirtualEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

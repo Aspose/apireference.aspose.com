@@ -14,7 +14,7 @@ Represents 3d surface type
 public enum DgnSurface3DType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

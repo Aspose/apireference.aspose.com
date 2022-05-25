@@ -14,7 +14,7 @@ The altitude mode. The legal values for the mode attribute on the altitude eleme
 public enum EnumAltitudeMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

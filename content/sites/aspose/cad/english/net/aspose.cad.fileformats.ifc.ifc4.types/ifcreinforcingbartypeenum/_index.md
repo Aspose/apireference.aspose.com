@@ -14,7 +14,7 @@ IfcReinforcingBarTypeEnum
 public enum IfcReinforcingBarTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

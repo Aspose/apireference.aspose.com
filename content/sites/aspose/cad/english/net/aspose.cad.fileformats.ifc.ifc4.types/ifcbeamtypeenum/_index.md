@@ -14,7 +14,7 @@ IfcBeamTypeEnum
 public enum IfcBeamTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

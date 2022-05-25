@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif/exifproperties/
 public enum ExifProperties : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

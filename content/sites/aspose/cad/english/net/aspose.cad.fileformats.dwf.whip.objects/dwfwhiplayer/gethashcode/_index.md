@@ -14,7 +14,7 @@ Hash code for the current DwfWhipLayer.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 HashCode of DwfWhipLayer
 

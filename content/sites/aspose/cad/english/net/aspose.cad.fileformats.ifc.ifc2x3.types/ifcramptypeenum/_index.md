@@ -14,7 +14,7 @@ IfcRampTypeEnum
 public enum IfcRampTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

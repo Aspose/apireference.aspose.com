@@ -14,7 +14,7 @@ Gets or sets the value.
 public IfcCollection<IfcPropertySetDefinition> Value { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The value.
 

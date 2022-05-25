@@ -12,7 +12,7 @@ url: /net/aspose.cad/textrenderinghint/
 public enum TextRenderingHint
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Represents An enumeration of cap styles used by WT_Line_End_Cap, WT_Line_Start_C
 public enum DwfWhipCapStyleID
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

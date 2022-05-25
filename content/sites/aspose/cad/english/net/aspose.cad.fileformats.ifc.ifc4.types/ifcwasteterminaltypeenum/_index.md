@@ -14,7 +14,7 @@ IfcWasteTerminalTypeEnum
 public enum IfcWasteTerminalTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

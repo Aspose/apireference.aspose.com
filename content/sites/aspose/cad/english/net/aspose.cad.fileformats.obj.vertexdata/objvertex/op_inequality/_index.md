@@ -19,7 +19,7 @@ public static bool operator !=(ObjVertex a, ObjVertex b)
 | a | ObjVertex | The first instance. |
 | b | ObjVertex | The second instance. |
 
-## Return Value
+### Return Value
 
 The value indicating whether instances are not equal.
 

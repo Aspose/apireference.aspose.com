@@ -14,7 +14,7 @@ IfcBuildingSystemTypeEnum
 public enum IfcBuildingSystemTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

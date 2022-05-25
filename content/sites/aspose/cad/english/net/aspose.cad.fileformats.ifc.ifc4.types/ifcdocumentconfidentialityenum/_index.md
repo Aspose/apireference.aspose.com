@@ -14,7 +14,7 @@ IfcDocumentConfidentialityEnum
 public enum IfcDocumentConfidentialityEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

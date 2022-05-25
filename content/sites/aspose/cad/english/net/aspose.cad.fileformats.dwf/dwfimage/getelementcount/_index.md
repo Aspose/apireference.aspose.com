@@ -18,7 +18,7 @@ public int GetElementCount(int pageNumber)
 | --- | --- | --- |
 | pageNumber | Int32 | Index of page to get count of elements from |
 
-## Return Value
+### Return Value
 
 Count of render able elements in specified page
 

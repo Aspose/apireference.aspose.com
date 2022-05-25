@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifscenecapturetype/
 public enum ExifSceneCaptureType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

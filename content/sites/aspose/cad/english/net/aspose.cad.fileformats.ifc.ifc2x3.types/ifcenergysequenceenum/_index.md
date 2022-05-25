@@ -14,7 +14,7 @@ IfcEnergySequenceEnum
 public enum IfcEnergySequenceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

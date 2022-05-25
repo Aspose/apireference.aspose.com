@@ -14,7 +14,7 @@ Estimates determinant of a matrix.
 public double Determinant()
 ```
 
-## Return Value
+### Return Value
 
 Determinant value.
 

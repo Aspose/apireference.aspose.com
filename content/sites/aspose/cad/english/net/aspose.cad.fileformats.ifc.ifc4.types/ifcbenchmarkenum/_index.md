@@ -14,7 +14,7 @@ IfcBenchmarkEnum
 public enum IfcBenchmarkEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

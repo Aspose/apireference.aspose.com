@@ -14,7 +14,7 @@ IfcOutletTypeEnum
 public enum IfcOutletTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

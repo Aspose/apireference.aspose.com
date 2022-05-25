@@ -14,7 +14,7 @@ IfcProtectiveDeviceTypeEnum
 public enum IfcProtectiveDeviceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

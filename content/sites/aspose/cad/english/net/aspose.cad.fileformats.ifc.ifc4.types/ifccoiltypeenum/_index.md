@@ -14,7 +14,7 @@ IfcCoilTypeEnum
 public enum IfcCoilTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

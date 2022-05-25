@@ -14,7 +14,7 @@ IfcElectricMotorTypeEnum
 public enum IfcElectricMotorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

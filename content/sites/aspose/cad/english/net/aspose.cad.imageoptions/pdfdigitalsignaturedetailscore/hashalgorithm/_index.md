@@ -14,7 +14,7 @@ Hash algorithm.
 public PdfDigitalSignatureHashAlgorithmCore HashAlgorithm { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The hash algorithm.
 

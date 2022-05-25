@@ -14,7 +14,7 @@ Gets or sets the pen options.
 public PenOptions PenOptions { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The pen options.
 

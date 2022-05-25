@@ -14,7 +14,7 @@ CF2 dimension line types
 public enum CF2DimensionLineTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

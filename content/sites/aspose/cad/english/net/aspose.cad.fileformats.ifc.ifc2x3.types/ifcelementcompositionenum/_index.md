@@ -14,7 +14,7 @@ IfcElementCompositionEnum
 public enum IfcElementCompositionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

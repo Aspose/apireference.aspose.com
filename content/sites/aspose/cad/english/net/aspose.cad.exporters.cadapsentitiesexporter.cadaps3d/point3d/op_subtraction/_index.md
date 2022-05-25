@@ -19,7 +19,7 @@ public static Point3D operator -(Point3D a, Point3D b)
 | a | Point3D | a. |
 | b | Point3D | The b. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

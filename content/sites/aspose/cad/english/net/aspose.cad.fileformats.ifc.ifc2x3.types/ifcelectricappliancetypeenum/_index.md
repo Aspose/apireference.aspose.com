@@ -14,7 +14,7 @@ IfcElectricApplianceTypeEnum
 public enum IfcElectricApplianceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

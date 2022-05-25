@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifsensingmethod/
 public enum ExifSensingMethod
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

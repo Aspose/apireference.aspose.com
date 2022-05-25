@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffexpectedformat/
 public enum TiffExpectedFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

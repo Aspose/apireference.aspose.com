@@ -14,7 +14,7 @@ IfcElectricTimeControlTypeEnum
 public enum IfcElectricTimeControlTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

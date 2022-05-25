@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | Point to compare current object with. |
 
-## Return Value
+### Return Value
 
 True if points are equal.
 

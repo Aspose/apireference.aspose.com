@@ -18,7 +18,7 @@ public bool Remove(DwfWhipLayer item)
 | --- | --- | --- |
 | item | DwfWhipLayer | item to remove from collection |
 
-## Return Value
+### Return Value
 
 Result of removing
 

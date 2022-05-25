@@ -14,7 +14,7 @@ IfcDataOriginEnum
 public enum IfcDataOriginEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

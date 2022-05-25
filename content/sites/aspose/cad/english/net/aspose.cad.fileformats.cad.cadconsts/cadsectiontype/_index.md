@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadsectiontype/
 public enum CadSectionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

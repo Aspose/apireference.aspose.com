@@ -19,7 +19,7 @@ public bool EqualsSoft(object obj, double eps = 0.0001m)
 | obj | Object | Point to compare current object with. |
 | eps | Double | Epsilon threshold. |
 
-## Return Value
+### Return Value
 
 True if points are equal.
 

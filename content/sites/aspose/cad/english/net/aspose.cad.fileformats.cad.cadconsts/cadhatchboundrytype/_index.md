@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadhatchboundrytype/
 public enum CadHatchBoundryType : short
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

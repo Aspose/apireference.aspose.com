@@ -14,7 +14,7 @@ IfcElectricHeaterTypeEnum
 public enum IfcElectricHeaterTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcStructuralSurfaceActivityTypeEnum
 public enum IfcStructuralSurfaceActivityTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

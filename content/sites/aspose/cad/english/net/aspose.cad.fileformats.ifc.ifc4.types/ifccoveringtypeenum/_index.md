@@ -14,7 +14,7 @@ IfcCoveringTypeEnum
 public enum IfcCoveringTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

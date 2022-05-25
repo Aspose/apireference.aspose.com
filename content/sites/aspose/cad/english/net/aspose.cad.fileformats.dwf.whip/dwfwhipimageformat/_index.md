@@ -14,7 +14,7 @@ Represents image format
 public enum DwfWhipImageFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

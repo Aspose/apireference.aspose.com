@@ -39,12 +39,12 @@ public sealed class ColorantCmyk : ColorantBase
 | --- | --- |
 | override [GetXmpRepresentation](../../aspose.cad.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation)() |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [ColorValueMax](colorvaluemax) |  |
-| const [ColorValueMin](colorvaluemin) |  |
+| const [ColorValueMax](../../aspose.cad.xmp.types.complex.colorant/colorantcmyk/colorvaluemax) |  |
+| const [ColorValueMin](../../aspose.cad.xmp.types.complex.colorant/colorantcmyk/colorvaluemin) |  |
 
 ### See Also
 

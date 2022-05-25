@@ -14,7 +14,7 @@ IfcLampTypeEnum
 public enum IfcLampTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcDimensionExtentUsage
 public enum IfcDimensionExtentUsage
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

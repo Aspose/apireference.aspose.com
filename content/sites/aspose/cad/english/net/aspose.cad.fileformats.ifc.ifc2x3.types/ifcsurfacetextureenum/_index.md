@@ -14,7 +14,7 @@ IfcSurfaceTextureEnum
 public enum IfcSurfaceTextureEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

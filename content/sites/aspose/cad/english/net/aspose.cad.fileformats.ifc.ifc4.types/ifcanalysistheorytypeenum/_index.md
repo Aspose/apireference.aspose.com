@@ -14,7 +14,7 @@ IfcAnalysisTheoryTypeEnum
 public enum IfcAnalysisTheoryTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/
 public enum CadHelixLimitation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets Image width
 public override int Width { get; }
 ```
 
-## Property Value
+### Property Value
 
 Image width
 

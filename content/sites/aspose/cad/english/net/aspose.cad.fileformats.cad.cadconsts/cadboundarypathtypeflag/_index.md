@@ -13,7 +13,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadboundarypathtypeflag/
 public enum CadBoundaryPathTypeFlag
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

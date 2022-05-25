@@ -14,7 +14,7 @@ Gets or sets the default tag value.
 public DgnTagValue DefaultTagValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The default tag value.
 

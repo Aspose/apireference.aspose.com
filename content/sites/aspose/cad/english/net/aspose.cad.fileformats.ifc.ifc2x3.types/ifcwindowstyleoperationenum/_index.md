@@ -14,7 +14,7 @@ IfcWindowStyleOperationEnum
 public enum IfcWindowStyleOperationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

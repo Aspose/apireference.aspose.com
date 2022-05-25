@@ -14,7 +14,7 @@ Gets or sets encoding for MIF characters
 public MifCodePages SpecifiedMifEncoding { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 Specified MIF character encoding
 

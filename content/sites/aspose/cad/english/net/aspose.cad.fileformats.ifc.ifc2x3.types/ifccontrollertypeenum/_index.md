@@ -14,7 +14,7 @@ IfcControllerTypeEnum
 public enum IfcControllerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcDoorPanelPositionEnum
 public enum IfcDoorPanelPositionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

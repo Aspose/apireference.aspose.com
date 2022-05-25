@@ -18,7 +18,7 @@ public static CodePages GetCodePageFromMifPage(MifCodePages mifPage)
 | --- | --- | --- |
 | mifPage | MifCodePages | MIF codepage |
 
-## Return Value
+### Return Value
 
 Common codepage
 

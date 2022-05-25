@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadclasstypename/
 public enum CadClassTypeName
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcAirTerminalBoxTypeEnum
 public enum IfcAirTerminalBoxTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

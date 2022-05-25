@@ -14,7 +14,7 @@ IfcWindowPanelPositionEnum
 public enum IfcWindowPanelPositionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

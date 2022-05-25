@@ -18,7 +18,7 @@ public bool Contains(T item)
 | --- | --- | --- |
 | item | T | The item. |
 
-## Return Value
+### Return Value
 
 `true` if [contains] [the specified item]; otherwise, `false`.
 

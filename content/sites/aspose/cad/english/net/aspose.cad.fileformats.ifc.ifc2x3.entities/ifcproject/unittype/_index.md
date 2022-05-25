@@ -14,7 +14,7 @@ Gets the type of the unit.
 public UnitType UnitType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the unit.
 

@@ -12,6 +12,27 @@ url: /net/aspose.cad.xmp/namespaces/
 public static class Namespaces
 ```
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [DublinCore](../../aspose.cad.xmp/namespaces/dublincore) |  |
+| const [Pdf](../../aspose.cad.xmp/namespaces/pdf) |  |
+| const [Photoshop](../../aspose.cad.xmp/namespaces/photoshop) |  |
+| const [Rdf](../../aspose.cad.xmp/namespaces/rdf) |  |
+| const [Xml](../../aspose.cad.xmp/namespaces/xml) |  |
+| const [XmpBasic](../../aspose.cad.xmp/namespaces/xmpbasic) |  |
+| const [XmpDm](../../aspose.cad.xmp/namespaces/xmpdm) |  |
+| const [XmpGraphics](../../aspose.cad.xmp/namespaces/xmpgraphics) |  |
+| const [XmpGraphicsThumbnail](../../aspose.cad.xmp/namespaces/xmpgraphicsthumbnail) |  |
+| const [XmpMm](../../aspose.cad.xmp/namespaces/xmpmm) |  |
+| const [XmpRights](../../aspose.cad.xmp/namespaces/xmprights) |  |
+| const [XmpTypeDimensions](../../aspose.cad.xmp/namespaces/xmptypedimensions) |  |
+| const [XmpTypeFont](../../aspose.cad.xmp/namespaces/xmptypefont) |  |
+| const [XmpTypeResourceEvent](../../aspose.cad.xmp/namespaces/xmptyperesourceevent) |  |
+| const [XmpTypeResourceRef](../../aspose.cad.xmp/namespaces/xmptyperesourceref) |  |
+| const [XmpTypeVersion](../../aspose.cad.xmp/namespaces/xmptypeversion) |  |
+
 ### See Also
 
 * namespace [Aspose.CAD.Xmp](../../aspose.cad.xmp)

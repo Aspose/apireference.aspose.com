@@ -14,7 +14,7 @@ IfcReflectanceMethodEnum
 public enum IfcReflectanceMethodEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcTransformerTypeEnum
 public enum IfcTransformerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

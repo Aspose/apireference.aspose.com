@@ -20,6 +20,14 @@ public struct Point3D
 | --- | --- |
 | [Point3D](point3d)(double, double, double) | Constructor for Point3D from separate X,Y,Z coordinates |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| readonly [X](../../aspose.cad.fileformats.iges.commondefinitions/point3d/x) | X coordinate |
+| readonly [Y](../../aspose.cad.fileformats.iges.commondefinitions/point3d/y) | Y coordinate |
+| readonly [Z](../../aspose.cad.fileformats.iges.commondefinitions/point3d/z) | Z coordinate |
+
 ### See Also
 
 * namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../aspose.cad.fileformats.iges.commondefinitions)

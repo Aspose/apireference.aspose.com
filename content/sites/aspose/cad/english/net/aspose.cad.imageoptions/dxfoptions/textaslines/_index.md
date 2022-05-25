@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [text as lines].
 public bool TextAsLines { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [text as lines]; otherwise, `false`.
 

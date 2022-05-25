@@ -14,7 +14,7 @@ IfcBuildingElementProxyTypeEnum
 public enum IfcBuildingElementProxyTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

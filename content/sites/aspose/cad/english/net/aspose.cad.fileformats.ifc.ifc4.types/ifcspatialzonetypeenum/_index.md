@@ -14,7 +14,7 @@ IfcSpatialZoneTypeEnum
 public enum IfcSpatialZoneTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

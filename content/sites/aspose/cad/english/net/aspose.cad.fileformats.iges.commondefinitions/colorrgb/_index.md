@@ -20,6 +20,14 @@ public struct ColorRGB
 | --- | --- |
 | [ColorRGB](colorrgb)(byte, byte, byte) | Constructor for ColorRGB from separate R,G and B |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| readonly [Blue](../../aspose.cad.fileformats.iges.commondefinitions/colorrgb/blue) | B component |
+| readonly [Green](../../aspose.cad.fileformats.iges.commondefinitions/colorrgb/green) | G component |
+| readonly [Red](../../aspose.cad.fileformats.iges.commondefinitions/colorrgb/red) | R component |
+
 ### See Also
 
 * namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../aspose.cad.fileformats.iges.commondefinitions)

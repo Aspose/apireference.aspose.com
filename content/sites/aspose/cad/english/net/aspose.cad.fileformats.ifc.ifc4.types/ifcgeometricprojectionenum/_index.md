@@ -14,7 +14,7 @@ IfcGeometricProjectionEnum
 public enum IfcGeometricProjectionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

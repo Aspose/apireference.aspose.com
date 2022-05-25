@@ -14,7 +14,7 @@ IfcObjectiveEnum
 public enum IfcObjectiveEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

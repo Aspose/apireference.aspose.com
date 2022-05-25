@@ -14,7 +14,7 @@ The enumeration FX sampler MIP filter.
 public enum EnumFxSamplerMipFilter
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets or sets the delta.
 public DgnPoint Delta { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The delta.
 

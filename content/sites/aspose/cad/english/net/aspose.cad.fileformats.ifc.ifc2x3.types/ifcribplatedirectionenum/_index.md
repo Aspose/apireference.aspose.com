@@ -14,7 +14,7 @@ IfcRibPlateDirectionEnum
 public enum IfcRibPlateDirectionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

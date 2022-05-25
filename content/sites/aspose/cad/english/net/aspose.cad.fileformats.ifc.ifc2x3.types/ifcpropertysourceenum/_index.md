@@ -14,7 +14,7 @@ IfcPropertySourceEnum
 public enum IfcPropertySourceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

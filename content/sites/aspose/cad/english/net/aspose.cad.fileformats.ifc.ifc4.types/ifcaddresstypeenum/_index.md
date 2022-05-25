@@ -14,7 +14,7 @@ IfcAddressTypeEnum
 public enum IfcAddressTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

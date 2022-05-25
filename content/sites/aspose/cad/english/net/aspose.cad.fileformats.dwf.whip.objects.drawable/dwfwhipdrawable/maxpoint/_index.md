@@ -14,7 +14,7 @@ Gets the max point of object.
 public abstract Cad3DPoint MaxPoint { get; }
 ```
 
-## Property Value
+### Property Value
 
 Max point of object.
 

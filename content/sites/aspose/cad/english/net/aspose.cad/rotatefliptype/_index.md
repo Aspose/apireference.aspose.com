@@ -12,7 +12,7 @@ url: /net/aspose.cad/rotatefliptype/
 public enum RotateFlipType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

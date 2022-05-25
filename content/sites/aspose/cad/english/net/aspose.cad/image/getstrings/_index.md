@@ -14,7 +14,7 @@ Gets all string values from image.
 public virtual string[] GetStrings()
 ```
 
-## Return Value
+### Return Value
 
 The array with string values.
 

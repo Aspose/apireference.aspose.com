@@ -14,7 +14,7 @@ IfcDuctSilencerTypeEnum
 public enum IfcDuctSilencerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

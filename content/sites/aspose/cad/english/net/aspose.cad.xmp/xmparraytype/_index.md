@@ -12,7 +12,7 @@ url: /net/aspose.cad.xmp/xmparraytype/
 public enum XmpArrayType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

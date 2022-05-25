@@ -14,7 +14,7 @@ Gets hash code.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 The Int32.
 

@@ -14,7 +14,7 @@ IfcBSplineCurveForm
 public enum IfcBSplineCurveForm
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

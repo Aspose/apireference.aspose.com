@@ -14,7 +14,7 @@ Options for custom font folder specification.
 public enum CustomFontFolderOptions
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

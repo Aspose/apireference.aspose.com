@@ -14,7 +14,7 @@ IfcLoadGroupTypeEnum
 public enum IfcLoadGroupTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

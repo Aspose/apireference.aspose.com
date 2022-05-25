@@ -14,7 +14,7 @@ Gets or sets the float value.
 public double FloatValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The float value.
 

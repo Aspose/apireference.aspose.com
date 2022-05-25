@@ -14,7 +14,7 @@ IfcLayerSetDirectionEnum
 public enum IfcLayerSetDirectionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

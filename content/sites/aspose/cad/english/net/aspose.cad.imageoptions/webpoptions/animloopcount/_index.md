@@ -14,7 +14,7 @@ Gets or sets the animation loop count.
 public ushort AnimLoopCount { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The animation loop count, 0 - infinity.
 

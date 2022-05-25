@@ -12,7 +12,7 @@ url: /net/aspose.cad.xmp.types.complex.colorant/colormode/
 public enum ColorMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

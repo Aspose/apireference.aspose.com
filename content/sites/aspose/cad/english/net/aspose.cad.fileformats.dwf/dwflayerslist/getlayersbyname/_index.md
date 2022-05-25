@@ -18,7 +18,7 @@ public ReadOnlyCollection<DwfWhipLayer> GetLayersByName(string name)
 | --- | --- | --- |
 | name | String | The name of layer. |
 
-## Return Value
+### Return Value
 
 The layers collection of[`DwfWhipLayer`](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer)
 

@@ -14,7 +14,7 @@ Represents dgn tag type
 public enum DgnTagType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

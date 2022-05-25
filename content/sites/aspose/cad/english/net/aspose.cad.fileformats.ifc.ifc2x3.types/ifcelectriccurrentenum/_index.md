@@ -14,7 +14,7 @@ IfcElectricCurrentEnum
 public enum IfcElectricCurrentEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

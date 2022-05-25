@@ -14,7 +14,7 @@ Gets or sets a value indicating whether destionation stream should be disposed.
 public bool DisposeStream { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [dispose stream]; otherwise, `false`.
 

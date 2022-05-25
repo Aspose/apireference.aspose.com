@@ -14,7 +14,7 @@ IfcHumidifierTypeEnum
 public enum IfcHumidifierTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

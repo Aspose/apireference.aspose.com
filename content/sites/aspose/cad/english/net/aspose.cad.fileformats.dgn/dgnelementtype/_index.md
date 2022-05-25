@@ -14,7 +14,7 @@ Element type
 public enum DgnElementType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

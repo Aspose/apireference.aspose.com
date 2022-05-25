@@ -14,7 +14,7 @@ IfcBuildingElementPartTypeEnum
 public enum IfcBuildingElementPartTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

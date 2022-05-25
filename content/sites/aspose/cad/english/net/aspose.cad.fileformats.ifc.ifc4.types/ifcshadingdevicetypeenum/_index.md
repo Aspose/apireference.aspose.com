@@ -14,7 +14,7 @@ IfcShadingDeviceTypeEnum
 public enum IfcShadingDeviceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

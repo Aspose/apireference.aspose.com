@@ -14,7 +14,7 @@ IfcAssemblyPlaceEnum
 public enum IfcAssemblyPlaceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

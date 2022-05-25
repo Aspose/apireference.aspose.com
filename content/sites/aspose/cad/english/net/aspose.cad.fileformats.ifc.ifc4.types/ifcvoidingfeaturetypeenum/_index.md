@@ -14,7 +14,7 @@ IfcVoidingFeatureTypeEnum
 public enum IfcVoidingFeatureTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

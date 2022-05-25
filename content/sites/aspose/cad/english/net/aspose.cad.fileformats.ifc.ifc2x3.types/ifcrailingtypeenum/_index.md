@@ -14,7 +14,7 @@ IfcRailingTypeEnum
 public enum IfcRailingTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

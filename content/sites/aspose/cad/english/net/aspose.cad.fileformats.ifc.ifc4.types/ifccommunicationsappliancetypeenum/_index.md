@@ -14,7 +14,7 @@ IfcCommunicationsApplianceTypeEnum
 public enum IfcCommunicationsApplianceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

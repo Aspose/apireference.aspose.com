@@ -14,7 +14,7 @@ Gets a value indicating whether this [`DgnShapeElement`](../../dgnshapeelement) 
 public bool Filled { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if filled; otherwise, `false`.
 

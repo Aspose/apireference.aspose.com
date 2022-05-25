@@ -14,7 +14,7 @@ Represents PNG group image format
 public enum DwfWhipPNGGroup4ImageFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

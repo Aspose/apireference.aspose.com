@@ -14,7 +14,7 @@ RasterizationQuality
 public enum RasterizationQualityValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

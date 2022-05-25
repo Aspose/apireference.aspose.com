@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffcompressions/
 public enum TiffCompressions : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcSanitaryTerminalTypeEnum
 public enum IfcSanitaryTerminalTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

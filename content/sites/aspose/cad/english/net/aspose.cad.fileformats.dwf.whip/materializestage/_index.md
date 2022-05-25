@@ -14,7 +14,7 @@ Represents materialization stage
 public enum MaterializeStage
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

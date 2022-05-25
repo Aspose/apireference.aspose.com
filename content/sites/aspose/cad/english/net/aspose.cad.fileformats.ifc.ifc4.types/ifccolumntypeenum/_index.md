@@ -14,7 +14,7 @@ IfcColumnTypeEnum
 public enum IfcColumnTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

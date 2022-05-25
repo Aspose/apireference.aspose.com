@@ -14,7 +14,7 @@ IfcPipeFittingTypeEnum
 public enum IfcPipeFittingTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

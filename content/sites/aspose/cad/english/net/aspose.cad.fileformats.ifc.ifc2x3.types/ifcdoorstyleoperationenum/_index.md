@@ -14,7 +14,7 @@ IfcDoorStyleOperationEnum
 public enum IfcDoorStyleOperationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

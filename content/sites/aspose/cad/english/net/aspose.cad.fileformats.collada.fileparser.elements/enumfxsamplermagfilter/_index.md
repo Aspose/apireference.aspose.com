@@ -14,7 +14,7 @@ The enumeration FX sampler mag filter.
 public enum EnumFxSamplerMagFilter
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

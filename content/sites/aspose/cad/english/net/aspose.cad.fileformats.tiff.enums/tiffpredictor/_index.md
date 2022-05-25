@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffpredictor/
 public enum TiffPredictor : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

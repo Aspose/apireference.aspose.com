@@ -49,11 +49,11 @@ public class CadLayoutDictionary : NonGenericDictionary, ICloneable
 | [Remove](../../aspose.cad.fileformats.cad/cadlayoutdictionary/remove)(string) |  |
 | [TryGetValue](../../aspose.cad.fileformats.cad/cadlayoutdictionary/trygetvalue)(string, out CadLayout) |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [ModelSpaceName](modelspacename) |  |
+| const [ModelSpaceName](../../aspose.cad.fileformats.cad/cadlayoutdictionary/modelspacename) |  |
 
 ### See Also
 

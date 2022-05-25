@@ -14,7 +14,7 @@ IfcWorkCalendarTypeEnum
 public enum IfcWorkCalendarTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

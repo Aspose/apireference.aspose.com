@@ -14,7 +14,7 @@ IfcCurtainWallTypeEnum
 public enum IfcCurtainWallTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

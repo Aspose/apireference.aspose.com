@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadentitytypename/
 public enum CadEntityTypeName
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

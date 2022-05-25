@@ -14,7 +14,7 @@ Line style
 public enum DgnLineStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

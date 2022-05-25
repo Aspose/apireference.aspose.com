@@ -14,7 +14,7 @@ IfcDuctSegmentTypeEnum
 public enum IfcDuctSegmentTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

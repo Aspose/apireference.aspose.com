@@ -14,7 +14,7 @@ IfcProfileTypeEnum
 public enum IfcProfileTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

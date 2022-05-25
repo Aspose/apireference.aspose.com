@@ -14,7 +14,7 @@ IfcWindowTypePartitioningEnum
 public enum IfcWindowTypePartitioningEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

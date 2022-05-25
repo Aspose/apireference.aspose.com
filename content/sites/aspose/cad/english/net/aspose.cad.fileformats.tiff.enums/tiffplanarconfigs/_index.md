@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffplanarconfigs/
 public enum TiffPlanarConfigs : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

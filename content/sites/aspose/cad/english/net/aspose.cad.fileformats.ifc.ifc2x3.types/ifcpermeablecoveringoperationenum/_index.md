@@ -14,7 +14,7 @@ IfcPermeableCoveringOperationEnum
 public enum IfcPermeableCoveringOperationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

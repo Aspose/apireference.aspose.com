@@ -14,7 +14,7 @@ IfcPipeSegmentTypeEnum
 public enum IfcPipeSegmentTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcConnectionTypeEnum
 public enum IfcConnectionTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

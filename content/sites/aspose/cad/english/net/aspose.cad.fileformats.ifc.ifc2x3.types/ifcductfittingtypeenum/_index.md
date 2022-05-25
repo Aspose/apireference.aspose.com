@@ -14,7 +14,7 @@ IfcDuctFittingTypeEnum
 public enum IfcDuctFittingTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

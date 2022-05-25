@@ -14,7 +14,7 @@ IfcBooleanOperator
 public enum IfcBooleanOperator
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

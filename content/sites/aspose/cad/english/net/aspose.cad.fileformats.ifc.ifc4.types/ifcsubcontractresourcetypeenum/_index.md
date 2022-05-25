@@ -14,7 +14,7 @@ IfcSubContractResourceTypeEnum
 public enum IfcSubContractResourceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcWorkControlTypeEnum
 public enum IfcWorkControlTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

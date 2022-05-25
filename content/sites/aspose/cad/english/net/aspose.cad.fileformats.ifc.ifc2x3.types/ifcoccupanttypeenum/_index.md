@@ -14,7 +14,7 @@ IfcOccupantTypeEnum
 public enum IfcOccupantTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

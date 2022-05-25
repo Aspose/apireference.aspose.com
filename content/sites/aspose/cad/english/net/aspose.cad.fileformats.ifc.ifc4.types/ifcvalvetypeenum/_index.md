@@ -14,7 +14,7 @@ IfcValveTypeEnum
 public enum IfcValveTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -12,7 +12,7 @@ url: /net/aspose.cad/interpolationmode/
 public enum InterpolationMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

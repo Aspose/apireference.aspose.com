@@ -14,7 +14,7 @@ IfcCurveInterpolationEnum
 public enum IfcCurveInterpolationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -19,7 +19,7 @@ public static bool operator ==(ObjVertexColor a, ObjVertexColor b)
 | a | ObjVertexColor | The first instance. |
 | b | ObjVertexColor | The second instance. |
 
-## Return Value
+### Return Value
 
 The value indicating whether instances are equal.
 

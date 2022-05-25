@@ -14,7 +14,7 @@ IfcSolarDeviceTypeEnum
 public enum IfcSolarDeviceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

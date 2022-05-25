@@ -14,7 +14,7 @@ IfcInterceptorTypeEnum
 public enum IfcInterceptorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

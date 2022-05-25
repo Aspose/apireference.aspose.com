@@ -14,7 +14,7 @@ IfcCondenserTypeEnum
 public enum IfcCondenserTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcRecurrenceTypeEnum
 public enum IfcRecurrenceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

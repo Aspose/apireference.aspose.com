@@ -32,12 +32,6 @@ public static class Cache
 | --- | --- |
 | static [SetDefaults](../../aspose.cad/cache/setdefaults)() | Sets the [`Cache`](../cache) settings to defaults. |
 
-## Other Members
-
-| Name | Description |
-| --- | --- |
-| static event [Reallocated](reallocated) | Fires when reallocation was performed |
-
 ### See Also
 
 * namespace [Aspose.CAD](../../aspose.cad)

@@ -14,7 +14,7 @@ IfcCooledBeamTypeEnum
 public enum IfcCooledBeamTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

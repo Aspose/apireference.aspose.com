@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tifftags/
 public enum TiffTags
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

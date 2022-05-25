@@ -14,7 +14,7 @@ Creates the actual fallback buffer
 public override EncoderFallbackBuffer CreateFallbackBuffer()
 ```
 
-## Return Value
+### Return Value
 
 Fallback buffer
 

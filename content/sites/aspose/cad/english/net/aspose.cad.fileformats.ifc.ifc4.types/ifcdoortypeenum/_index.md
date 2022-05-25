@@ -14,7 +14,7 @@ IfcDoorTypeEnum
 public enum IfcDoorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ CF2 instruction codes
 public enum CF2InstructionCodes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

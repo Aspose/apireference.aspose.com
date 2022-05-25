@@ -168,11 +168,11 @@ public sealed class JpegExifData : ExifData
 | [RemoveTag](../../aspose.cad.exif/exifdata/removetag)(ushort) |  |
 | [SerializeExifData](../../aspose.cad.exif/jpegexifdata/serializeexifdata)() | Serializes the EXIF data. Writes the tags values and contents. The most influencing size tag is Thumbnail tag contents. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [MaxExifSegmentSize](maxexifsegmentsize) | The maximum EXIF segment size in bytes allowed. |
+| const [MaxExifSegmentSize](../../aspose.cad.exif/jpegexifdata/maxexifsegmentsize) | The maximum EXIF segment size in bytes allowed. |
 
 ### See Also
 

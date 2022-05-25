@@ -14,7 +14,7 @@ Defines text mirrioring
 public enum TextMirrioring
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets or sets the faces.
 public List<ObjFace> Faces { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The faces.
 

@@ -14,7 +14,7 @@ IfcCableFittingTypeEnum
 public enum IfcCableFittingTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

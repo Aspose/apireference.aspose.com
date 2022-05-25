@@ -14,7 +14,7 @@ Represents unit types.
 public enum UnitType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

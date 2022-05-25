@@ -14,7 +14,7 @@ Gets or sets the conversion.
 public double Conversion { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The conversion.
 

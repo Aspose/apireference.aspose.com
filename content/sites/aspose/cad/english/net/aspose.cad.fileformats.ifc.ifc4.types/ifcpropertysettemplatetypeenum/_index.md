@@ -14,7 +14,7 @@ IfcPropertySetTemplateTypeEnum
 public enum IfcPropertySetTemplateTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

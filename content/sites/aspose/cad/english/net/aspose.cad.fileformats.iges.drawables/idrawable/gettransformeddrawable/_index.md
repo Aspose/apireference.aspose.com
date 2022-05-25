@@ -18,7 +18,7 @@ public IDrawable GetTransformedDrawable(Point3D[] newPoints)
 | --- | --- | --- |
 | newPoints | Point3D[] | All points defining new geometry |
 
-## Return Value
+### Return Value
 
 New drawable with new geometry and current non-geometric properties
 

@@ -14,7 +14,7 @@ IfcSectionTypeEnum
 public enum IfcSectionTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

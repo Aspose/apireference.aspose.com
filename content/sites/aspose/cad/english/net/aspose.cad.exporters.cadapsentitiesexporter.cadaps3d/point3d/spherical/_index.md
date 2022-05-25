@@ -20,7 +20,7 @@ public static Point3D Spherical(double r, double theta, double phi)
 | theta | Double | Theta value |
 | phi | Double | Phi value |
 
-## Return Value
+### Return Value
 
 Spherical coordinates point
 

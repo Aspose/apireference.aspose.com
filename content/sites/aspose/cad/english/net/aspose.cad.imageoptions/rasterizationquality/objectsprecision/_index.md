@@ -14,7 +14,7 @@ Gets or sets the objects precision.
 public RasterizationQualityValue ObjectsPrecision { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The objects precision.
 

@@ -14,7 +14,7 @@ Gets or sets the core PDF options.
 public PdfDocumentOptions CorePdfOptions { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The core PDF options.
 

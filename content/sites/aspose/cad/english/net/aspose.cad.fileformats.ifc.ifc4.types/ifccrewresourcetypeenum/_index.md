@@ -14,7 +14,7 @@ IfcCrewResourceTypeEnum
 public enum IfcCrewResourceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

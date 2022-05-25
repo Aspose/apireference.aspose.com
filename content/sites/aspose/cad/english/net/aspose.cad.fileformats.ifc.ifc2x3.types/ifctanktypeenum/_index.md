@@ -14,7 +14,7 @@ IfcTankTypeEnum
 public enum IfcTankTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

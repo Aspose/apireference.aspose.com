@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifwhitebalance/
 public enum ExifWhiteBalance
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

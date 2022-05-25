@@ -14,7 +14,7 @@ Represents join style IDs
 public enum DwfWhipJoinstyleID
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

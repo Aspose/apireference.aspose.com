@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffphotometrics/
 public enum TiffPhotometrics : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

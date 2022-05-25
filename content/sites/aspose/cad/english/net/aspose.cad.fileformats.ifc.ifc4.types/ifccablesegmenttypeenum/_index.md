@@ -14,7 +14,7 @@ IfcCableSegmentTypeEnum
 public enum IfcCableSegmentTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

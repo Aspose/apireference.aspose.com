@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffresolutionunits/
 public enum TiffResolutionUnits : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

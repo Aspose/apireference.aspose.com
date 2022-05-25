@@ -14,7 +14,7 @@ Gets or sets the start cap.
 public LineCap StartCap { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The start cap.
 

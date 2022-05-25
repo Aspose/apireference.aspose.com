@@ -18,7 +18,7 @@ public static TransformationMatrix Transpose(TransformationMatrix initialMatrix)
 | --- | --- | --- |
 | initialMatrix | TransformationMatrix | Matrix to transpose. |
 
-## Return Value
+### Return Value
 
 Transposed matrix.
 

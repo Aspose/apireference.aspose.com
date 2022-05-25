@@ -14,7 +14,7 @@ IfcSpaceTypeEnum
 public enum IfcSpaceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

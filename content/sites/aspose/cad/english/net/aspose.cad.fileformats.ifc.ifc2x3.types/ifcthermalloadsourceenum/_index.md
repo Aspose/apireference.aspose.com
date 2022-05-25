@@ -14,7 +14,7 @@ IfcThermalLoadSourceEnum
 public enum IfcThermalLoadSourceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

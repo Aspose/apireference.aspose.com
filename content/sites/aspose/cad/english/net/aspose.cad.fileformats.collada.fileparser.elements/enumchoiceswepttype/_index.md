@@ -14,7 +14,7 @@ The enumeration for choice swept type.
 public enum EnumChoiceSweptType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

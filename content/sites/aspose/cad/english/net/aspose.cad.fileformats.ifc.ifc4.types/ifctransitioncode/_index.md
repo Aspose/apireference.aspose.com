@@ -14,7 +14,7 @@ IfcTransitionCode
 public enum IfcTransitionCode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcStructuralCurveTypeEnum
 public enum IfcStructuralCurveTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

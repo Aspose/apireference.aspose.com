@@ -18,7 +18,7 @@ public CmykColor[] LoadCmykPixels(Rectangle rectangle)
 | --- | --- | --- |
 | rectangle | Rectangle | The rectangle to load pixels from. |
 
-## Return Value
+### Return Value
 
 The loaded CMYK pixels array.
 

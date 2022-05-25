@@ -14,7 +14,7 @@ IfcBurnerTypeEnum
 public enum IfcBurnerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

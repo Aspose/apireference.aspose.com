@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.jpeg/jpegcompressioncolormode/
 public enum JpegCompressionColorMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

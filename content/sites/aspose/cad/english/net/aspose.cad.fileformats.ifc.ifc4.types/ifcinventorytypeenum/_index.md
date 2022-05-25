@@ -14,7 +14,7 @@ IfcInventoryTypeEnum
 public enum IfcInventoryTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

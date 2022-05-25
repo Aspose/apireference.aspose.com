@@ -14,7 +14,7 @@ IfcFilterTypeEnum
 public enum IfcFilterTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

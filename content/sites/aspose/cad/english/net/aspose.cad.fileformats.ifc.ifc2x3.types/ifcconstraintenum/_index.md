@@ -14,7 +14,7 @@ IfcConstraintEnum
 public enum IfcConstraintEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

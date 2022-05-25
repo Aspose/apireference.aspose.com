@@ -14,7 +14,7 @@ IfcConstructionProductResourceTypeEnum
 public enum IfcConstructionProductResourceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

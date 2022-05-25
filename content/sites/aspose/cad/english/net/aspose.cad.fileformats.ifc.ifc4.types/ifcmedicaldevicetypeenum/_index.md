@@ -14,7 +14,7 @@ IfcMedicalDeviceTypeEnum
 public enum IfcMedicalDeviceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcTendonAnchorTypeEnum
 public enum IfcTendonAnchorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

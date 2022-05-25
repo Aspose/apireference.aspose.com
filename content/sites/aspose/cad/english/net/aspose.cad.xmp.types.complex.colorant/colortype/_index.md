@@ -12,7 +12,7 @@ url: /net/aspose.cad.xmp.types.complex.colorant/colortype/
 public enum ColorType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

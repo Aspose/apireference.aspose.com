@@ -14,7 +14,7 @@ IfcAlarmTypeEnum
 public enum IfcAlarmTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

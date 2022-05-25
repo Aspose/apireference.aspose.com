@@ -14,7 +14,7 @@ IfcFlowDirectionEnum
 public enum IfcFlowDirectionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcElectricDistributionPointFunctionEnum
 public enum IfcElectricDistributionPointFunctionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

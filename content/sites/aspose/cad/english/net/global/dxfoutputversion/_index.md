@@ -14,7 +14,7 @@ Specifies version of DXF file
 public enum DxfOutputVersion
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

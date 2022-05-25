@@ -14,7 +14,7 @@ IfcGridTypeEnum
 public enum IfcGridTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

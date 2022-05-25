@@ -14,7 +14,7 @@ IfcStateEnum
 public enum IfcStateEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

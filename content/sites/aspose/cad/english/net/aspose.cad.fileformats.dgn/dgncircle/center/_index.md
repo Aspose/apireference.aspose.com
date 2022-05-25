@@ -14,7 +14,7 @@ Gets center point of circle
 public DgnPoint Center { get; }
 ```
 
-## Property Value
+### Property Value
 
 The center.
 

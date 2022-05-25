@@ -32,11 +32,16 @@ public abstract class ResourceBlock
 | [Save](../../aspose.cad.fileformats.psd/resourceblock/save)(StreamContainer) | Saves the resource block to the specified stream. |
 | virtual [ValidateValues](../../aspose.cad.fileformats.psd/resourceblock/validatevalues)() | Validates the resource values. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [ResouceBlockSignature](../../aspose.cad.fileformats.psd/resourceblock/resouceblocksignature) | The resource signature. |
+
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| const [ResouceBlockSignature](resouceblocksignature) | The resource signature. |
 | enum [ResourceBlockState](resourceblock.resourceblockstate) | Represents resource block state. |
 
 ### See Also

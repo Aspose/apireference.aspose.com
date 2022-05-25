@@ -14,7 +14,7 @@ Gets or sets the end cap.
 public LineCap EndCap { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The end cap.
 

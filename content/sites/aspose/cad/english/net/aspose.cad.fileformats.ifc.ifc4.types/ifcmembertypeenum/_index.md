@@ -14,7 +14,7 @@ IfcMemberTypeEnum
 public enum IfcMemberTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcJunctionBoxTypeEnum
 public enum IfcJunctionBoxTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

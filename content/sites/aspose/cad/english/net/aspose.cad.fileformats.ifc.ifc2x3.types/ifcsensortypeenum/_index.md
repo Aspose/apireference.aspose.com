@@ -14,7 +14,7 @@ IfcSensorTypeEnum
 public enum IfcSensorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

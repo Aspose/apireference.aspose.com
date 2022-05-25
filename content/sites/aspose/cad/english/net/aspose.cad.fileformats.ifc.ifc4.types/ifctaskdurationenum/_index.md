@@ -14,7 +14,7 @@ IfcTaskDurationEnum
 public enum IfcTaskDurationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

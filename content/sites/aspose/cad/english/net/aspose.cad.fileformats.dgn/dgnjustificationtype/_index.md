@@ -14,7 +14,7 @@ Justification type
 public enum DgnJustificationType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

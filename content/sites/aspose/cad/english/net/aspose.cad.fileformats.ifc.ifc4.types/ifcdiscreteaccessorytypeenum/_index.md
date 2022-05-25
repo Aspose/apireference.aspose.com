@@ -14,7 +14,7 @@ IfcDiscreteAccessoryTypeEnum
 public enum IfcDiscreteAccessoryTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

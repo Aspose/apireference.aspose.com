@@ -14,7 +14,7 @@ IfcEventTypeEnum
 public enum IfcEventTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

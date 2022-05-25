@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffalphastorage/
 public enum TiffAlphaStorage : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

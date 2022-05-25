@@ -14,7 +14,7 @@ IfcProjectionElementTypeEnum
 public enum IfcProjectionElementTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Return hash code for object.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 Hash value.
 

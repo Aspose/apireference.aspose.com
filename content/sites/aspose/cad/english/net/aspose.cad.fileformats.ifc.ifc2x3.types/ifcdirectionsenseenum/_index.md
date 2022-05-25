@@ -14,7 +14,7 @@ IfcDirectionSenseEnum
 public enum IfcDirectionSenseEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Rewinds position in the replacement buffer by one
 public override bool MovePrevious()
 ```
 
-## Return Value
+### Return Value
 
 True if successful, false if cannot rewind
 

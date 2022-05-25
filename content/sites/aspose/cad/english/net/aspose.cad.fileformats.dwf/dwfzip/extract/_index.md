@@ -14,7 +14,7 @@ Extracts this instance.
 public Dictionary<string, Stream> Extract()
 ```
 
-## Return Value
+### Return Value
 
 The entries dictionary.
 

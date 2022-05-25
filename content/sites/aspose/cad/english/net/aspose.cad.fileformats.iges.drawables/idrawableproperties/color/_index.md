@@ -14,7 +14,7 @@ Color to represent geometry with
 public ColorRGB? Color { get; }
 ```
 
-## Property Value
+### Property Value
 
 Null if no color specified, RGB color if specified
 

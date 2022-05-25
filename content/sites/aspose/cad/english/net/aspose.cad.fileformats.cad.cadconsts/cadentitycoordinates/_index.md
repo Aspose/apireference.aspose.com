@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadentitycoordinates/
 public enum CadEntityCoordinates
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

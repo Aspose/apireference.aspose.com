@@ -14,7 +14,7 @@ Gets or sets the type of t.
 public Type TypeOfT { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of t.
 

@@ -52,13 +52,13 @@ public class XmpBasicPackage : XmpPackage
 | virtual [SetValue](../../aspose.cad.xmp/xmppackage/setvalue)(string, IXmlValue) |  |
 | virtual [SetXmpTypeValue](../../aspose.cad.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [RatingMax](ratingmax) |  |
-| const [RatingMin](ratingmin) |  |
-| const [RatingRejected](ratingrejected) |  |
+| const [RatingMax](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax) |  |
+| const [RatingMin](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin) |  |
+| const [RatingRejected](../../aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected) |  |
 
 ### See Also
 

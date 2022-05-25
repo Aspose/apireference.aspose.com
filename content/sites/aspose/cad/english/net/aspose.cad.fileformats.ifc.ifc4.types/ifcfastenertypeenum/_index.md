@@ -14,7 +14,7 @@ IfcFastenerTypeEnum
 public enum IfcFastenerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

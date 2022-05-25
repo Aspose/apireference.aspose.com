@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifmeteringmode/
 public enum ExifMeteringMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -13,7 +13,7 @@ url: /net/aspose.cad.fileformats.cad.cadconsts/cadlwpolylineflag/
 public enum CadLwPolylineFlag : short
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

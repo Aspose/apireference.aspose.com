@@ -14,7 +14,7 @@ Gets or sets the layout page sizes.
 public Dictionary<string, SizeF> LayoutPageSizes { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layout page sizes.
 

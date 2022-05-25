@@ -14,7 +14,7 @@ IfcSequenceEnum
 public enum IfcSequenceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

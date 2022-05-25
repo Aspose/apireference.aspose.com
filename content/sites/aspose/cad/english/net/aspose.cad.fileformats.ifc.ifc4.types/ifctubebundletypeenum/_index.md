@@ -14,7 +14,7 @@ IfcTubeBundleTypeEnum
 public enum IfcTubeBundleTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

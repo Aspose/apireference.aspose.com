@@ -14,7 +14,7 @@ Gets or sets the hatch quality.
 public RasterizationQualityValue Hatch { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The hatch quality.
 

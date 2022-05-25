@@ -14,7 +14,7 @@ IfcPerformanceHistoryTypeEnum
 public enum IfcPerformanceHistoryTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

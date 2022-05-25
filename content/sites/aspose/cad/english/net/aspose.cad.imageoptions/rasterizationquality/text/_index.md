@@ -14,7 +14,7 @@ Gets or sets the text quality.
 public RasterizationQualityValue Text { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The text quality.
 

@@ -18,7 +18,7 @@ public static string GetCode(CodePages codePages)
 | --- | --- | --- |
 | codePages | CodePages | The code pages. |
 
-## Return Value
+### Return Value
 
 Language encoding
 

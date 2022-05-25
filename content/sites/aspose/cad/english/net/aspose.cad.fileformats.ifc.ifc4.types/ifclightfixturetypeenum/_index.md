@@ -14,7 +14,7 @@ IfcLightFixtureTypeEnum
 public enum IfcLightFixtureTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

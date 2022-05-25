@@ -14,7 +14,7 @@ IfcProtectiveDeviceTrippingUnitTypeEnum
 public enum IfcProtectiveDeviceTrippingUnitTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

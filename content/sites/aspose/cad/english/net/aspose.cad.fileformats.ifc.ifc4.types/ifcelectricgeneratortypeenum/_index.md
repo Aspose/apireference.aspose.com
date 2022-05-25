@@ -14,7 +14,7 @@ IfcElectricGeneratorTypeEnum
 public enum IfcElectricGeneratorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcDistributionSystemEnum
 public enum IfcDistributionSystemEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets Image height
 public override int Height { get; }
 ```
 
-## Property Value
+### Property Value
 
 Image height
 

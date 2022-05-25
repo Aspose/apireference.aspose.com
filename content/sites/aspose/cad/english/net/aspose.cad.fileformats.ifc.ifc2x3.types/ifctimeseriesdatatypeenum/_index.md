@@ -14,7 +14,7 @@ IfcTimeSeriesDataTypeEnum
 public enum IfcTimeSeriesDataTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

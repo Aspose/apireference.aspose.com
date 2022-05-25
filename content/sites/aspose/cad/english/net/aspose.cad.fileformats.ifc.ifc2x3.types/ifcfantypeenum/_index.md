@@ -14,7 +14,7 @@ IfcFanTypeEnum
 public enum IfcFanTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

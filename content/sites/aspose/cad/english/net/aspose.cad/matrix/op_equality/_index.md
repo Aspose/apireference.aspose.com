@@ -19,7 +19,7 @@ public static bool operator ==(Matrix matrix1, Matrix matrix2)
 | matrix1 | Matrix | The first matrix to compare. |
 | matrix2 | Matrix | The second matrix to compare. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

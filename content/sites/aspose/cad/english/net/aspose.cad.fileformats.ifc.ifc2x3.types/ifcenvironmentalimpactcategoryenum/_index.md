@@ -14,7 +14,7 @@ IfcEnvironmentalImpactCategoryEnum
 public enum IfcEnvironmentalImpactCategoryEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Defines line style
 public enum LinePatternPredef
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

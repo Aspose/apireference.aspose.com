@@ -14,7 +14,7 @@ IfcActionRequestTypeEnum
 public enum IfcActionRequestTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets the aux secton.
 public CF2Aux AuxSecton { get; }
 ```
 
-## Property Value
+### Property Value
 
 The aux section.
 

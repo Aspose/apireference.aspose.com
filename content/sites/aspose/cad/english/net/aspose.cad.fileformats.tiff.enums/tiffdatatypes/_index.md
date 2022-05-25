@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tiffdatatypes/
 public enum TiffDataTypes : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcGlobalOrLocalEnum
 public enum IfcGlobalOrLocalEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

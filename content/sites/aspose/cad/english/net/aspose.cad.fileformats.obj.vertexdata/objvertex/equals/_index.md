@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | An object to compare with this object. |
 
-## Return Value
+### Return Value
 
 true if the current object is equal to the *obj* parameter; otherwise, false.
 
@@ -42,7 +42,7 @@ public bool Equals(ObjVertex other)
 | --- | --- | --- |
 | other | ObjVertex | An object to compare with this object. |
 
-## Return Value
+### Return Value
 
 true if the current object is equal to the *other* parameter; otherwise, false.
 

@@ -14,7 +14,7 @@ IfcCableCarrierSegmentTypeEnum
 public enum IfcCableCarrierSegmentTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -13,7 +13,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/group3options/
 public enum Group3Options : uint
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

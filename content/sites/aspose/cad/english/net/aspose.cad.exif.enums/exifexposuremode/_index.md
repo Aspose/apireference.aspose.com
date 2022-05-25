@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifexposuremode/
 public enum ExifExposureMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

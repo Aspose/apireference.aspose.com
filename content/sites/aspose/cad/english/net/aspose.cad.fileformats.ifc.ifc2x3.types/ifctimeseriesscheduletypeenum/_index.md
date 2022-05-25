@@ -14,7 +14,7 @@ IfcTimeSeriesScheduleTypeEnum
 public enum IfcTimeSeriesScheduleTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -12,7 +12,7 @@ url: /net/aspose.cad.exif.enums/exifcontrast/
 public enum ExifContrast
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ IfcActuatorTypeEnum
 public enum IfcActuatorTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

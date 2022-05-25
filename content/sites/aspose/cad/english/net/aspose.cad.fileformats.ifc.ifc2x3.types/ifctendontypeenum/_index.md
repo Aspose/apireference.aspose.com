@@ -14,7 +14,7 @@ IfcTendonTypeEnum
 public enum IfcTendonTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

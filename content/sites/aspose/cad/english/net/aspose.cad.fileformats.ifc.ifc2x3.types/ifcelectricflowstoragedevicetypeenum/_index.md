@@ -14,7 +14,7 @@ IfcElectricFlowStorageDeviceTypeEnum
 public enum IfcElectricFlowStorageDeviceTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

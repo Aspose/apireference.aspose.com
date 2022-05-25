@@ -12,7 +12,7 @@ url: /net/aspose.cad.fileformats.tiff.enums/tifforientations/
 public enum TiffOrientations : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

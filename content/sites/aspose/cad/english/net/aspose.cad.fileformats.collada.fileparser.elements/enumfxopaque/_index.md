@@ -14,7 +14,7 @@ The enumerator FX opaque.
 public enum EnumFxOpaque
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

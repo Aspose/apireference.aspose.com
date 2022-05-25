@@ -14,7 +14,7 @@ IfcUnitaryControlElementTypeEnum
 public enum IfcUnitaryControlElementTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

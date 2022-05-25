@@ -18,7 +18,7 @@ public IDrawable GetNewPropsDrawable(IDrawableProperties props)
 | --- | --- | --- |
 | props | IDrawableProperties | New non-geometric properties |
 
-## Return Value
+### Return Value
 
 New drawable with current geometry and new non-geometric properties
 

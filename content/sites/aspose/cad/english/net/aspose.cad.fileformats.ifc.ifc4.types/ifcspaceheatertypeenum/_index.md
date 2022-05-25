@@ -14,7 +14,7 @@ IfcSpaceHeaterTypeEnum
 public enum IfcSpaceHeaterTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

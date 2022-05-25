@@ -14,7 +14,7 @@ Certificate to sign with.
 public X509Certificate2 Certificate { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The certificate.
 

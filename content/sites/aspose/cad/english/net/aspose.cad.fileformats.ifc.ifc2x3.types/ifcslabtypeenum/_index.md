@@ -14,7 +14,7 @@ IfcSlabTypeEnum
 public enum IfcSlabTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

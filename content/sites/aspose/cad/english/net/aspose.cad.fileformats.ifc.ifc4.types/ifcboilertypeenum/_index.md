@@ -14,7 +14,7 @@ IfcBoilerTypeEnum
 public enum IfcBoilerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |
