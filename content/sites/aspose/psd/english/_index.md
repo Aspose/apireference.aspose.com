@@ -40,4 +40,3 @@ Currently Aspose.PSD for Java supports PSD and PSB file formats for loading and 
 
 These are links to some useful resources:
 - [Aspose.PSD for Java API Reference](/psd/java/)
-
