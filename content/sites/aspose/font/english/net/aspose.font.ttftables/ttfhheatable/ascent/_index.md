@@ -14,7 +14,7 @@ Gets the ascent.
 public short Ascent { get; }
 ```
 
-## Property Value
+### Property Value
 
 The ascent.
 

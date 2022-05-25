@@ -18,7 +18,7 @@ public bool Contains(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | glyph identifier |
 
-## Return Value
+### Return Value
 
 true in case glyph id is in the list, otherwise false
 

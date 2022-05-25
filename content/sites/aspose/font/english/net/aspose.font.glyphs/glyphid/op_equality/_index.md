@@ -19,7 +19,7 @@ public static bool operator ==(GlyphId obj1, object obj2)
 | obj1 | GlyphId | First glyph identifier to compare. |
 | obj2 | Object | Second glyph identifier to compare. |
 
-## Return Value
+### Return Value
 
 Comparison result.
 

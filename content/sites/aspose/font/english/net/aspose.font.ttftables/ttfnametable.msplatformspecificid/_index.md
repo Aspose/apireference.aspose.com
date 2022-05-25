@@ -14,7 +14,7 @@ Represents Microsoft platform PlatformSpecificId enumeration.
 public enum MSPlatformSpecificId
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Returns all strings of all languages.
 public string[] GetAllStrings()
 ```
 
-## Return Value
+### Return Value
 
 Array of all strings of all languages.
 

@@ -18,7 +18,7 @@ public virtual double GetTypoDescender(double fontSize)
 | --- | --- | --- |
 | fontSize | Double | Font size. |
 
-## Return Value
+### Return Value
 
 Typographic descender value.
 

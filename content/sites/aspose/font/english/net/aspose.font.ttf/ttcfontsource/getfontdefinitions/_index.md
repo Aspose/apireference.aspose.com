@@ -14,7 +14,7 @@ Returns Font definition array of the TTC Font source.
 public FontDefinition[] GetFontDefinitions()
 ```
 
-## Return Value
+### Return Value
 
 All font definitions from TTC Font source.
 

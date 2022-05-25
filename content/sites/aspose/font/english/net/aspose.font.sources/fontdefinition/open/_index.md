@@ -19,7 +19,7 @@ public static FontDefinition Open(string fileName, FontType fontType)
 | fileName | String | Font file name. |
 | fontType | FontType | Font type. |
 
-## Return Value
+### Return Value
 
 FontDefinition.
 
@@ -45,7 +45,7 @@ public static FontDefinition Open(StreamSource source, FontType fontType)
 | source | StreamSource | Font stream source. |
 | fontType | FontType | Font type. |
 
-## Return Value
+### Return Value
 
 FontDefinition.
 

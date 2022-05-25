@@ -14,7 +14,7 @@ Represents PlatformId enumeration.
 public enum PlatformId
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

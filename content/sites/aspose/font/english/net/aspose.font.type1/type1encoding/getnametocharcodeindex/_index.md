@@ -14,7 +14,7 @@ Returns name to character code encoding map. Note: Character code is not a unico
 public NameToCodeMap GetNameToCharCodeIndex()
 ```
 
-## Return Value
+### Return Value
 
 Name to character code encoding map.
 

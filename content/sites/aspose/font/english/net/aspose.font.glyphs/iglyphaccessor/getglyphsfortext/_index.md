@@ -18,7 +18,7 @@ public GlyphId[] GetGlyphsForText(string text)
 | --- | --- | --- |
 | text | String | Input text. |
 
-## Return Value
+### Return Value
 
 GlyphId array.
 

@@ -19,7 +19,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 | parameters | IEncodingParameters | Not supported for Type1 Font type. |
 | charCode | UInt32 | Not supported for Type1 Font type. |
 
-## Return Value
+### Return Value
 
 Not supported for Type1 Font type.
 

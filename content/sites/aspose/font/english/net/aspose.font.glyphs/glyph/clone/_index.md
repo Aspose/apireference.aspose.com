@@ -14,7 +14,7 @@ Returns copy of glyph.
 public virtual object Clone()
 ```
 
-## Return Value
+### Return Value
 
 Copy of Glyph.
 

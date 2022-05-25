@@ -18,7 +18,7 @@ public Font Convert(FontType fontType)
 | --- | --- | --- |
 | fontType | FontType | type to convert to font into |
 
-## Return Value
+### Return Value
 
 font converted into format specified
 

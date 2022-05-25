@@ -14,7 +14,7 @@ Returns hashcode of object.
 public abstract int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 Hashcode of object.
 

@@ -14,7 +14,7 @@ Gets or sets string representation of the integer value.
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 glyph identifier
 

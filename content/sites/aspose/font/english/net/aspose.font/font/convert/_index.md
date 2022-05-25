@@ -18,7 +18,7 @@ public abstract Font Convert(FontType fontType)
 | --- | --- | --- |
 | fontType | FontType | Font format type to convert into. |
 
-## Return Value
+### Return Value
 
 Font converted into new format.
 

@@ -14,7 +14,7 @@ Returns all glyph ids, available in the Font. Not supported for [`Type1MetricFon
 public override GlyphId[] GetAllGlyphIds()
 ```
 
-## Return Value
+### Return Value
 
 All glyph identifiers, available in the Font.
 

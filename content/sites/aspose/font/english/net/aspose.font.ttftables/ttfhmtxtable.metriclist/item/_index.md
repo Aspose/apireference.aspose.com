@@ -18,7 +18,7 @@ public LongHorMetric this[int glyphIndex] { get; }
 | --- | --- |
 | glyphIndex | Glyph index to get metrics for. |
 
-## Return Value
+### Return Value
 
 Metrics record.
 

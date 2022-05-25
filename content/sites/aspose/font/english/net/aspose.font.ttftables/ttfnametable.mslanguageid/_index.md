@@ -14,7 +14,7 @@ Microsoft platform language id enumeration.
 public enum MSLanguageId
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

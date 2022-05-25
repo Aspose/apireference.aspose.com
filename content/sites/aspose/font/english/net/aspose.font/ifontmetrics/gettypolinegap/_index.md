@@ -18,7 +18,7 @@ public double GetTypoLineGap(double fontSize)
 | --- | --- | --- |
 | fontSize | Double | Font size. |
 
-## Return Value
+### Return Value
 
 Line gap value.
 

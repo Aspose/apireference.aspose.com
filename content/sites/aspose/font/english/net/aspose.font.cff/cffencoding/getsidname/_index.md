@@ -18,7 +18,7 @@ public string GetSidName(int sid)
 | --- | --- | --- |
 | sid | Int32 | String identifier. |
 
-## Return Value
+### Return Value
 
 Name from string INDEX if found.
 

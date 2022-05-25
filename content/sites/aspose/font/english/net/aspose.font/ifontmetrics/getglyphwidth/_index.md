@@ -18,7 +18,7 @@ public double GetGlyphWidth(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | Glyph identifier. |
 
-## Return Value
+### Return Value
 
 Glyph width.
 

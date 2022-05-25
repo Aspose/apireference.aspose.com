@@ -14,7 +14,7 @@ Represents Macintosh platform PlatformSpecificId enumeration.
 public enum MacPlatformSpecificId
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

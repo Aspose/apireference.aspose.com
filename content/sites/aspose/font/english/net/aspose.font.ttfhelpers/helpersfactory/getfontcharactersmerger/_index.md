@@ -19,7 +19,7 @@ public static IFontCharactersMerger GetFontCharactersMerger(TtfFont font1, TtfFo
 | font1 | TtfFont | First font to merge, this font will be considered as primary font |
 | font2 | TtfFont | Second font to merge |
 
-## Return Value
+### Return Value
 
 [`IFontCharactersMerger`](../../ifontcharactersmerger) instance
 

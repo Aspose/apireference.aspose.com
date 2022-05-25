@@ -14,7 +14,7 @@ GetHashCode implementation.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 hash code of object
 

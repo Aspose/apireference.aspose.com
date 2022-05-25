@@ -14,7 +14,7 @@ Gets caret slop run.
 public short CaretSlopeRun { get; }
 ```
 
-## Property Value
+### Property Value
 
 The caret slop run.
 

@@ -18,7 +18,7 @@ public virtual double GetTypoAscender(double fontSize)
 | --- | --- | --- |
 | fontSize | Double | Font size. |
 
-## Return Value
+### Return Value
 
 Typographic ascender value.
 

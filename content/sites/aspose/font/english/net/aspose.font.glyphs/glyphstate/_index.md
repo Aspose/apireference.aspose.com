@@ -14,7 +14,7 @@ Specifies the glyph state.
 public enum GlyphState
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

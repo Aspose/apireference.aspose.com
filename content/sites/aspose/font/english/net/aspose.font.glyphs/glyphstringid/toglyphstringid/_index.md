@@ -14,7 +14,7 @@ Cast GlyphId to GlyphStringId
 public override GlyphStringId ToGlyphStringId()
 ```
 
-## Return Value
+### Return Value
 
 this
 

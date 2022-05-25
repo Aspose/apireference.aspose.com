@@ -14,7 +14,7 @@ Gets language identifiers for all strings or empty array if no strings are prese
 public int[] GetAllLanguageIds()
 ```
 
-## Return Value
+### Return Value
 
 Array with language identifiers or empty array if no strings are present
 

@@ -14,7 +14,7 @@ Gets caret slop rise.
 public short CaretSlopeRise { get; }
 ```
 
-## Property Value
+### Property Value
 
 The caret slop rise.
 

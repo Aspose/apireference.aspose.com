@@ -18,7 +18,7 @@ public GlyphId UnicodeToGid(uint unicode)
 | --- | --- | --- |
 | unicode | UInt32 | Unicode to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to unicode passed.
 

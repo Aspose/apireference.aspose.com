@@ -18,7 +18,7 @@ public GlyphId DecodeToGid(uint charCode)
 | --- | --- | --- |
 | charCode | UInt32 | Character code to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to character code passed.
 

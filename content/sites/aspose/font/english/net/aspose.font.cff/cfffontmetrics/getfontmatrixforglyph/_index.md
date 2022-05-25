@@ -18,7 +18,7 @@ public TransformationMatrix GetFontMatrixForGlyph(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | Glyph identifier. |
 
-## Return Value
+### Return Value
 
 Glyph transformation matrix.
 

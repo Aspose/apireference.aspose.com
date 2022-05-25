@@ -19,7 +19,7 @@ public virtual double GetKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)
 | prevGlyphId | GlyphId | First glyph in pair. |
 | nextGlyphId | GlyphId | Font size. |
 
-## Return Value
+### Return Value
 
 Kerning value.
 

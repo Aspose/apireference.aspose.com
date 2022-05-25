@@ -18,7 +18,7 @@ public override uint GetGlyphIndex(uint charCode)
 | --- | --- | --- |
 | charCode | UInt32 | Character code. |
 
-## Return Value
+### Return Value
 
 Glyph index.
 

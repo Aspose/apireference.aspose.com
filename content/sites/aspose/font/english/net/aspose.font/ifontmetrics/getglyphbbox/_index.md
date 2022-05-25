@@ -18,7 +18,7 @@ public FontBBox GetGlyphBBox(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | glyph identifier |
 
-## Return Value
+### Return Value
 
 glyph BBox
 

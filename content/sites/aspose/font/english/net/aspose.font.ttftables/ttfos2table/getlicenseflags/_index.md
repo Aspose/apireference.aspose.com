@@ -14,7 +14,7 @@ Gets an embedded flags(fsType) in object representation.
 public LicenseFlags GetLicenseFlags()
 ```
 
-## Return Value
+### Return Value
 
 Embedded flags.
 

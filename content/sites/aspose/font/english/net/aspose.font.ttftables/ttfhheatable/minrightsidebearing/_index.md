@@ -14,7 +14,7 @@ Gets the MinRightSideBearing value.
 public short MinRightSideBearing { get; }
 ```
 
-## Property Value
+### Property Value
 
 The MinRightSideBearing value.
 

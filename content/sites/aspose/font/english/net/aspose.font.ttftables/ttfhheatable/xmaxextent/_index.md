@@ -14,7 +14,7 @@ Gets the XMaxExtent value.
 public short XMaxExtent { get; }
 ```
 
-## Property Value
+### Property Value
 
 The XMaxExtent value.
 

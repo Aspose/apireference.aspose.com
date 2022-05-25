@@ -18,7 +18,7 @@ public static Font Open(FontDefinition fontDefinition)
 | --- | --- | --- |
 | fontDefinition | FontDefinition | Font definition object. |
 
-## Return Value
+### Return Value
 
 Font loaded.
 
@@ -44,7 +44,7 @@ public static Font Open(FontType fontType, StreamSource fontStreamSource)
 | fontType | FontType | Font type. |
 | fontStreamSource | StreamSource | Stream source for font. |
 
-## Return Value
+### Return Value
 
 Font loaded.
 
@@ -71,7 +71,7 @@ public static Font Open(FontType fontType, string fileName)
 | fontType | FontType | Font type. |
 | fileName | String | Font file name. |
 
-## Return Value
+### Return Value
 
 Font loaded.
 
@@ -97,7 +97,7 @@ public static Font Open(FontType fontType, byte[] fontData)
 | fontType | FontType | Font type. |
 | fontData | Byte[] | Byte array to load font from. |
 
-## Return Value
+### Return Value
 
 Font loaded.
 

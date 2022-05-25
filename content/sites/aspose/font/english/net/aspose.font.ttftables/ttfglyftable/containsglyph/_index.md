@@ -18,7 +18,7 @@ public virtual bool ContainsGlyph(int glyphIndex)
 | --- | --- | --- |
 | glyphIndex | Int32 | Glyph index. |
 
-## Return Value
+### Return Value
 
 True if table contains glyph for index specified, false otherwise.
 

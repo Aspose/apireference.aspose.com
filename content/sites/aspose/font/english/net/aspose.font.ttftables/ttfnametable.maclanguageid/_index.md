@@ -14,7 +14,7 @@ Macintosh platform language id enumeration.
 public enum MacLanguageId
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Clones the stream source object.
 public abstract object Clone()
 ```
 
-## Return Value
+### Return Value
 
 Copy of the stream source object.
 

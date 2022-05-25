@@ -20,7 +20,7 @@ public TtfFont MergeFonts(GlyphId[] font1Glyphs, GlyphId[] font2Glyphs, string n
 | font2Glyphs | GlyphId[] | List of glyphs from second font |
 | newFontName | String | Desired name for resultant font |
 
-## Return Value
+### Return Value
 
 Merged font
 
@@ -52,7 +52,7 @@ public TtfFont MergeFonts(uint[] font1CharCodes, uint[] font2CharCodes, string n
 | font2CharCodes | UInt32[] | Codes to take from second font |
 | newFontName | String | Desired name for resultant font |
 
-## Return Value
+### Return Value
 
 Merged font
 
@@ -80,7 +80,7 @@ public TtfFont MergeFonts(IDictionary<uint, GlyphId> font1Dict,
 | font2Dict | IDictionary`2 | Dictionary with pairs [symbol code, glyph identifier] from second font |
 | newFontName | String | Desired name for resultant font |
 
-## Return Value
+### Return Value
 
 Merged font
 

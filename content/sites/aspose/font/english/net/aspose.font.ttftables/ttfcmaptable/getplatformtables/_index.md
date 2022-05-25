@@ -19,7 +19,7 @@ public TtfCMapFormatBaseTable[] GetPlatformTables(ushort platformId, ushort plat
 | platformId | UInt16 | Platform Id. |
 | platformSpecificId | UInt16 | Platform-specific encoding Id. |
 
-## Return Value
+### Return Value
 
 CMap subtables.
 

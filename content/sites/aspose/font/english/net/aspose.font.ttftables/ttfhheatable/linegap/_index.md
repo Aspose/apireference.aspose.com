@@ -14,7 +14,7 @@ Gets the lineGap.
 public short LineGap { get; }
 ```
 
-## Property Value
+### Property Value
 
 The lineGap.
 

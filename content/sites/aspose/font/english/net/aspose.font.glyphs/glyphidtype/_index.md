@@ -14,7 +14,7 @@ Specifies types of glyph id.
 public enum GlyphIdType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

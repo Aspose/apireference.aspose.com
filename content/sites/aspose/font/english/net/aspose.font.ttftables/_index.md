@@ -14,7 +14,7 @@ The **Aspose.Font.TtfTables** namespace provides classes for work with different
 | --- | --- |
 | [TtfCffTable](./ttfcfftable) | Represents "cff" table of the TTF Font file. |
 | [TtfCMapTable](./ttfcmaptable) | Represents "cmap" table of the TTF Font file. |
-| [TtfCvtTable](./ttfcvttable) | Represents Control Value Table (../CVT) of the TTF Font file. |
+| [TtfCvtTable](./ttfcvttable) | Represents Control Value Table (CVT) of the TTF Font file. |
 | [TtfFpgmTable](./ttffpgmtable) | Represents "fpgm" table of the TTF Font file. |
 | [TtfGlyfTable](./ttfglyftable) | Represents "glyf" table of the TTF Font file. |
 | [TtfHeadTable](./ttfheadtable) | Represents "head" table of the TTF Font file. |

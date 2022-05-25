@@ -18,7 +18,7 @@ public uint GidToUnicode(GlyphId gid)
 | --- | --- | --- |
 | gid | GlyphId | Glyph identifier of symbol to decode. |
 
-## Return Value
+### Return Value
 
 Unicode value related to glyph id passed.
 

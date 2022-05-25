@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | glyph identifier to compare with |
 
-## Return Value
+### Return Value
 
 comparison result
 

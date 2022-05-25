@@ -19,7 +19,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 | parameters | IEncodingParameters | Implementation of [`IEncodingParameters`](../../iencodingparameters) interface. |
 | charCode | UInt32 | Character code to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to char code passed.
 

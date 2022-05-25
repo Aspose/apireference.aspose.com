@@ -18,7 +18,7 @@ public virtual uint GetGlyphIndex(uint charCode)
 | --- | --- | --- |
 | charCode | UInt32 | character code |
 
-## Return Value
+### Return Value
 
 glyph index
 

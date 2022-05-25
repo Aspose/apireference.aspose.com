@@ -18,7 +18,7 @@ public uint GetGlyphIndex(string glyphName)
 | --- | --- | --- |
 | glyphName | String | Glyph name. |
 
-## Return Value
+### Return Value
 
 Glyph index.
 

@@ -14,7 +14,7 @@ Returns font file stream. Don't forget to close the stream after use.
 public override Stream GetFontStream()
 ```
 
-## Return Value
+### Return Value
 
 Font file stream.
 

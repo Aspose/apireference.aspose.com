@@ -18,7 +18,7 @@ public bool Remove(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | glyph identifier |
 
-## Return Value
+### Return Value
 
 true if item is successfully removed; otherwise, false
 

@@ -14,7 +14,7 @@ Specifies Font type.
 public enum FontType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -18,7 +18,7 @@ public bool ContainsString(string str)
 | --- | --- | --- |
 | str | String | String to check. |
 
-## Return Value
+### Return Value
 
 True if the string is present inside all the language strings.
 

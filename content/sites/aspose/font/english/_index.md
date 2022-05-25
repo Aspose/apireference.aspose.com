@@ -51,4 +51,3 @@ Aspose.Font for C++ is a font manipulation API which lets you work with several 
 These are links to some useful resources:
 
 - [Aspose.Font for C++ API Reference](/font/cpp/)
-

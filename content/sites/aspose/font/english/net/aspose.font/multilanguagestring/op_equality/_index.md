@@ -19,7 +19,7 @@ public static bool operator ==(MultiLanguageString obj1, string obj2)
 | obj1 | MultiLanguageString | first object to compare |
 | obj2 | String | second object to compare |
 
-## Return Value
+### Return Value
 
 comparison result
 
@@ -44,7 +44,7 @@ public static bool operator ==(string obj1, MultiLanguageString obj2)
 | obj1 | String | string to compare |
 | obj2 | MultiLanguageString | multilanguage string to compare |
 
-## Return Value
+### Return Value
 
 comparison result
 

@@ -14,7 +14,7 @@ Parsing strictness types.
 public enum ParsingStrictness
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

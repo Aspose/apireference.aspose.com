@@ -18,7 +18,7 @@ public override Glyph GetGlyphById(GlyphId id)
 | --- | --- | --- |
 | id | GlyphId | Glyph id. |
 
-## Return Value
+### Return Value
 
 Glyph.
 
@@ -44,7 +44,7 @@ public Glyph GetGlyphById(string glyphName)
 | --- | --- | --- |
 | glyphName | String | Glyph string identifier. |
 
-## Return Value
+### Return Value
 
 Glyph.
 
@@ -69,7 +69,7 @@ public Glyph GetGlyphById(uint id)
 | --- | --- | --- |
 | id | UInt32 | Glyph index. |
 
-## Return Value
+### Return Value
 
 Glyph.
 

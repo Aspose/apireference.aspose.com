@@ -18,7 +18,7 @@ public NameRecord[] GetNameRecordsByNameId(NameId nameId)
 | --- | --- | --- |
 | nameId | NameId | name identifier |
 
-## Return Value
+### Return Value
 
 Array of [`NameRecord`](../../ttfnametable.namerecord) structures
 

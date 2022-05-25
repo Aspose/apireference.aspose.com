@@ -14,7 +14,7 @@ Returns english string if found. Otherwise returns first non-english string.
 public string GetEnglishString()
 ```
 
-## Return Value
+### Return Value
 
 English string if found, otherwise first non-english string.
 
