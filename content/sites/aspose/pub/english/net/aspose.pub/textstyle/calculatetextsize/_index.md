@@ -14,7 +14,7 @@ Calculates text size in points
 public double CalculateTextSize()
 ```
 
-## Return Value
+### Return Value
 
 text size in points
 

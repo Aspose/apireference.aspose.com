@@ -14,7 +14,7 @@ Type of line spacing
 public enum LineSpacingType : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

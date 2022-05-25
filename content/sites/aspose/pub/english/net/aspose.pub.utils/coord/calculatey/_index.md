@@ -18,7 +18,7 @@ public double CalculateY(double pageHeight)
 | --- | --- | --- |
 | pageHeight | Double | height of page where current coordinate placed |
 
-## Return Value
+### Return Value
 
 Y-coordinate in inches
 
@@ -38,7 +38,7 @@ Transforms value for Y-coordinate from natural PUB metric system into inches
 public double CalculateY()
 ```
 
-## Return Value
+### Return Value
 
 Y-coordinate in inches
 

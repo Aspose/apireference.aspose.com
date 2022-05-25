@@ -14,7 +14,7 @@ Type of superscript
 public enum SuperscriptType : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

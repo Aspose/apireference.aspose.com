@@ -14,7 +14,7 @@ Calculates height of figure(current Coord object) and returns result in inches
 public double CalculateHeight()
 ```
 
-## Return Value
+### Return Value
 
 height of current Coord object(figure) in inches
 

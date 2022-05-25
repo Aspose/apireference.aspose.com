@@ -14,7 +14,7 @@ Type of alignment
 public enum AlignmentType : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Underline type
 public enum UnderlineType : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Returns height of current Coord object in natural PUB metrics
 public int GetHeight()
 ```
 
-## Return Value
+### Return Value
 
 height in natural PUB metrics
 

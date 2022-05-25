@@ -14,7 +14,7 @@ Returns width of current Coord object in natural PUB metrics
 public int GetWidth()
 ```
 
-## Return Value
+### Return Value
 
 width in natural PUB metrics
 

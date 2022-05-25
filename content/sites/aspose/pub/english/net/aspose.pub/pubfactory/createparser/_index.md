@@ -18,7 +18,7 @@ public static IPubParser CreateParser(string fileName)
 | --- | --- | --- |
 | fileName | String | PUB file name |
 
-## Return Value
+### Return Value
 
 PUB parser
 
@@ -43,7 +43,7 @@ public static IPubParser CreateParser(Stream pubStream)
 | --- | --- | --- |
 | pubStream | Stream | stream with PUB data |
 
-## Return Value
+### Return Value
 
 PUB parser
 

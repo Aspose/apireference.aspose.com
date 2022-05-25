@@ -18,7 +18,7 @@ public double CalculateX(double pageWidth)
 | --- | --- | --- |
 | pageWidth | Double | with of page where current coordinate placed |
 
-## Return Value
+### Return Value
 
 X-coordinate in inches
 
@@ -38,7 +38,7 @@ Transforms value for X-coordinate from natural PUB metric system into inches
 public double CalculateX()
 ```
 
-## Return Value
+### Return Value
 
 X-coordinate in inches
 

@@ -14,7 +14,7 @@ Calculates width of figure(current Coord object) and returns result in inches
 public double CalculateWidth()
 ```
 
-## Return Value
+### Return Value
 
 width of current Coord object(figure) in inches
 
