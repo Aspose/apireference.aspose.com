@@ -14,7 +14,7 @@ Type of score header.
 public enum ScoreHeaderType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

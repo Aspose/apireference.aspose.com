@@ -31,11 +31,11 @@ public class GenerationResult
 | [Save](../../aspose.omr.generation/generationresult/save)(string, string) | Save template images and template to the specified folder |
 | [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | Save template images and template to the specified folder Template image saved as pdf |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| [MultipageTemplateImages](multipagetemplateimages) | Gets or sets the collection of generated images for a multi-page template |
+| [MultipageTemplateImages](../../aspose.omr.generation/generationresult/multipagetemplateimages) | Gets or sets the collection of generated images for a multi-page template |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
 | --- | --- | --- |
 | processor | TemplateProcessor | The template processor |
 
-## Return Value
+### Return Value
 
 The [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol) instance
 

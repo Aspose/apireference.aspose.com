@@ -14,7 +14,7 @@ Type of [`ContainerConfig`](../../aspose.omr.generation.config.elements.parents/
 public enum ContainerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ The font styles
 public enum FontStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

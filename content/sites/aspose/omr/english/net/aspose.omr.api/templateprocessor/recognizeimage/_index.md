@@ -19,7 +19,7 @@ public RecognitionResult RecognizeImage(string imagePath, int recognitionThresho
 | imagePath | String | The path to the image to recognize |
 | recognitionThreshold | Int32 | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
 
-## Return Value
+### Return Value
 
 The recognition result
 
@@ -45,7 +45,7 @@ public RecognitionResult RecognizeImage(MemoryStream stream, int recognitionThre
 | stream | MemoryStream | Memory stream of image. |
 | recognitionThreshold | Int32 | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
 
-## Return Value
+### Return Value
 
 The recognition result
 

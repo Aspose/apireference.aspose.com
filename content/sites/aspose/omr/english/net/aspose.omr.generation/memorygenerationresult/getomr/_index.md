@@ -18,7 +18,7 @@ public MemoryStream GetOmr(Encoding encoding = null)
 | --- | --- | --- |
 | encoding | Encoding | type of encoding which will be used to encode text into bytes |
 
-## Return Value
+### Return Value
 
 content of .omr file
 

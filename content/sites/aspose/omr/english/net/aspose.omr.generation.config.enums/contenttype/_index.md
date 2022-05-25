@@ -14,7 +14,7 @@ Type of content display
 public enum ContentType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

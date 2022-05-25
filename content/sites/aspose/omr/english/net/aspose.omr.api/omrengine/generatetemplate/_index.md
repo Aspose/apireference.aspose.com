@@ -19,7 +19,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings
 | stream | MemoryStream | The stream which contains markup lines |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
 
-## Return Value
+### Return Value
 
 Generation result
 
@@ -45,7 +45,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream)
 | --- | --- | --- |
 | stream | MemoryStream | The stream which contains markup lines |
 
-## Return Value
+### Return Value
 
 Generation result
 
@@ -71,7 +71,7 @@ public GenerationResult GenerateTemplate(string[] markupLines, GlobalPageSetting
 | markupLines | String[] | Array of the markup lines |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
 
-## Return Value
+### Return Value
 
 Generation result
 
@@ -97,7 +97,7 @@ public GenerationResult GenerateTemplate(string[] markupLines)
 | --- | --- | --- |
 | markupLines | String[] | Array of the markup lines |
 
-## Return Value
+### Return Value
 
 Generation result
 
@@ -123,7 +123,7 @@ public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings s
 | markupPath | String | Path to the text markup file |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
 
-## Return Value
+### Return Value
 
 Generation result
 
@@ -149,7 +149,7 @@ public GenerationResult GenerateTemplate(string markupPath)
 | --- | --- | --- |
 | markupPath | String | Path to the text markup file |
 
-## Return Value
+### Return Value
 
 Generation result
 
@@ -175,7 +175,7 @@ public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths
 | markupPath | String | Path to the text markup file |
 | imagesPaths | String[] | Full paths to the images used in generation |
 
-## Return Value
+### Return Value
 
 Generation result
 
@@ -201,7 +201,7 @@ public GenerationResult GenerateTemplate(TemplateConfig config, GlobalPageSettin
 | config | TemplateConfig | Template object that represent all elements |
 | settings | GlobalPageSettings | global settings used in all template generation |
 
-## Return Value
+### Return Value
 
 Generation result
 

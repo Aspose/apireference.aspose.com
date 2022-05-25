@@ -30,6 +30,12 @@ public class CustomTriggerConfig : BaseConfig
 | override [Type](../../aspose.omr.generation.config.elements/customtriggerconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 | [Value](../../aspose.omr.generation.config.elements/customtriggerconfig/value) { get; set; } | Value of custom trigger. Use of this value depends on [`TriggerType`](./triggertype) |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [BubbleSize](../../aspose.omr.generation.config.elements/customtriggerconfig/bubblesize) | The size of a bubble |
+
 ### See Also
 
 * class [BaseConfig](../../aspose.omr.generation.config/baseconfig)

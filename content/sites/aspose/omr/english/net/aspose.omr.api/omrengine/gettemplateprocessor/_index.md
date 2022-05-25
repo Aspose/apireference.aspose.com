@@ -18,7 +18,7 @@ public TemplateProcessor GetTemplateProcessor(string templatePath)
 | --- | --- | --- |
 | templatePath | String | The path to the OMR template file |
 
-## Return Value
+### Return Value
 
 The [`TemplateProcessor`](../../templateprocessor) instance
 

@@ -14,7 +14,7 @@ Type of bubble.
 public enum BubbleType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

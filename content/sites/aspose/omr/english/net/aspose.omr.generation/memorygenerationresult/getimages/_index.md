@@ -14,7 +14,7 @@ Get .png files from the [`GenerationResult`](../../generationresult) as MemorySt
 public IEnumerable<MemoryStream> GetImages()
 ```
 
-## Return Value
+### Return Value
 
 Template images
 

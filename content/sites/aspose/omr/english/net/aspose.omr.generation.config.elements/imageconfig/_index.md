@@ -32,6 +32,12 @@ public class ImageConfig : BaseConfig
 | [XPosition](../../aspose.omr.generation.config.elements/imageconfig/xposition) { get; set; } | Grid X position on page, overrides the alignment |
 | [YPosition](../../aspose.omr.generation.config.elements/imageconfig/yposition) { get; set; } | Grid Y position on page, overrides the alignment |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [ImageAlign](../../aspose.omr.generation.config.elements/imageconfig/imagealign) | The Image alignment on page |
+
 ### See Also
 
 * class [BaseConfig](../../aspose.omr.generation.config/baseconfig)

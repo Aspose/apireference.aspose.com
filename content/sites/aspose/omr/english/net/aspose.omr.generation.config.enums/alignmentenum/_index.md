@@ -14,7 +14,7 @@ Type of horizontal alignment relative to it's parent. Used in many elements.
 public enum AlignmentEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

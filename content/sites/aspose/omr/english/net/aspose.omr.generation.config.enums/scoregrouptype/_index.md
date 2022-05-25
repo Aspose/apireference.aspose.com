@@ -14,7 +14,7 @@ Type of score Group. Impacts drawing of score group element
 public enum ScoreGroupType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Form CSV string with recognition results
 public string GetCsv()
 ```
 
-## Return Value
+### Return Value
 
 Recognition results as CSV string
 

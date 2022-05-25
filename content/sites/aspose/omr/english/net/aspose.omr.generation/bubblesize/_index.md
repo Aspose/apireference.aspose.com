@@ -14,7 +14,7 @@ The sizes of a bubbles
 public enum BubbleSize
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

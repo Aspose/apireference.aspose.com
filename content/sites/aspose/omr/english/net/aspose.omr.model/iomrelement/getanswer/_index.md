@@ -14,7 +14,7 @@ Forms a string with recognition result
 public string GetAnswer()
 ```
 
-## Return Value
+### Return Value
 
 String containing recognition result
 

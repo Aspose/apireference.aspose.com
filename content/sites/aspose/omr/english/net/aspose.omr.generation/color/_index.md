@@ -14,7 +14,7 @@ The Colors
 public enum Color
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

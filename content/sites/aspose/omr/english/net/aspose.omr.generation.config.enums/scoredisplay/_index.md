@@ -14,7 +14,7 @@ Control displaying of score value.
 public enum ScoreDisplay
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -34,6 +34,12 @@ public class AnswerSheetConfig : BaseConfig
 | override [Type](../../aspose.omr.generation.config.elements/answersheetconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 | [VerticalMargin](../../aspose.omr.generation.config.elements/answersheetconfig/verticalmargin) { get; set; } | Vertical margin of answer sheet. Set in pixels. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [BubbleSize](../../aspose.omr.generation.config.elements/answersheetconfig/bubblesize) | The size of a bubble |
+
 ### See Also
 
 * class [BaseConfig](../../aspose.omr.generation.config/baseconfig)

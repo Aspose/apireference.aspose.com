@@ -19,7 +19,7 @@ public GenerationResult GenerateJSONTemplate(string jsonPath, GlobalPageSettings
 | jsonPath | String | path to *.json file with markup |
 | settings | GlobalPageSettings | global settings used in all template generation |
 
-## Return Value
+### Return Value
 
 Generation result
 

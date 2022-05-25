@@ -14,7 +14,7 @@ Form XML string with recognition results
 public string GetXml()
 ```
 
-## Return Value
+### Return Value
 
 Recognition results as XML string
 

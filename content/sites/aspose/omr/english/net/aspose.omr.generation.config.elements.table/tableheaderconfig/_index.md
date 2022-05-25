@@ -28,6 +28,14 @@ public class TableHeaderConfig : ParentConfig
 | override [Name](../../aspose.omr.generation.config.elements.table/tableheaderconfig/name) { get; set; } | Text value |
 | override [Type](../../aspose.omr.generation.config.elements.table/tableheaderconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [FontFamily](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontfamily) | The font family of the text |
+| [FontSize](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontsize) | The size of the text font |
+| [FontStyle](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontstyle) | The style of the text |
+
 ### See Also
 
 * class [ParentConfig](../../aspose.omr.generation.config/parentconfig)

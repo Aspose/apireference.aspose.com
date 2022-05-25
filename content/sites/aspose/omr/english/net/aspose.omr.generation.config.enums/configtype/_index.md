@@ -14,7 +14,7 @@ Type of Omr Element
 public enum ConfigType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

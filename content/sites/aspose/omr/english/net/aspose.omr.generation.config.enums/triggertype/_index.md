@@ -14,7 +14,7 @@ Type of trigger. Describe trigger behavior
 public enum TriggerType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

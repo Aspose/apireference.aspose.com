@@ -14,7 +14,7 @@ The Table type
 public enum TableType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

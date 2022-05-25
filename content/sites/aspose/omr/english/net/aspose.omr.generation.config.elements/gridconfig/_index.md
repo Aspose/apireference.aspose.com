@@ -37,6 +37,13 @@ public class GridConfig : BaseConfig
 | [XPosition](../../aspose.omr.generation.config.elements/gridconfig/xposition) { get; set; } | Grid X position on page, overrides the alignment |
 | [YPosition](../../aspose.omr.generation.config.elements/gridconfig/yposition) { get; set; } | Grid Y position on page, overrides the alignment |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [BubbleSize](../../aspose.omr.generation.config.elements/gridconfig/bubblesize) | The size of a bubble |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/gridconfig/verticalmargin) | The margin between lines |
+
 ### See Also
 
 * class [BaseConfig](../../aspose.omr.generation.config/baseconfig)

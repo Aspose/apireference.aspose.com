@@ -14,7 +14,7 @@ The type of grid header
 public enum GridHeaderTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

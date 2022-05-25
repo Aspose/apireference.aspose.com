@@ -39,4 +39,3 @@ These are links to some useful resources:
 
 - [Aspose.OMR for Java API Reference](/omr/java/)
 
-

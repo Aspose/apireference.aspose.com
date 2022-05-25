@@ -14,7 +14,7 @@ Get .pdf files from the [`GenerationResult`](../../generationresult) as MemorySt
 public IEnumerable<MemoryStream> GetPDF()
 ```
 
-## Return Value
+### Return Value
 
 Template images as pdf
 

@@ -14,7 +14,7 @@ Type of [`ParagraphConfig`](../../aspose.omr.generation.config.elements.parents/
 public enum ParagraphTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

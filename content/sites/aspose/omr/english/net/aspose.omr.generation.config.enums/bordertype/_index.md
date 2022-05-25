@@ -14,7 +14,7 @@ The Border type
 public enum BorderType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |
