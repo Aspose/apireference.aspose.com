@@ -65,22 +65,22 @@ public abstract class Node : EventTarget, IXPathNSResolver
 | [ReplaceChild](../../aspose.svg.dom/node/replacechild)(Node, Node) | Replaces the child node oldChild with newChild in the list of children, and returns the oldChild node. If newChild is a DocumentFragment object, oldChild is replaced by all of the DocumentFragment children, which are inserted in the same order. If the newChild is already in the tree, it is first removed. |
 | override [ToString](../../aspose.svg.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [ATTRIBUTE_NODE](attribute_node) | An attribute node |
-| const [CDATA_SECTION_NODE](cdata_section_node) | A cdata section node |
-| const [COMMENT_NODE](comment_node) | A comment node |
-| const [DOCUMENT_FRAGMENT_NODE](document_fragment_node) | A document fragment node |
-| const [DOCUMENT_NODE](document_node) | A document node |
-| const [DOCUMENT_TYPE_NODE](document_type_node) | A document type node |
-| const [ELEMENT_NODE](element_node) | An element node |
-| const [ENTITY_NODE](entity_node) | An entity node |
-| const [ENTITY_REFERENCE_NODE](entity_reference_node) | An entity reference node |
-| const [NOTATION_NODE](notation_node) | A notation node |
-| const [PROCESSING_INSTRUCTION_NODE](processing_instruction_node) | A processing instruction node |
-| const [TEXT_NODE](text_node) | A text node |
+| const [ATTRIBUTE_NODE](../../aspose.svg.dom/node/attribute_node) | An attribute node |
+| const [CDATA_SECTION_NODE](../../aspose.svg.dom/node/cdata_section_node) | A cdata section node |
+| const [COMMENT_NODE](../../aspose.svg.dom/node/comment_node) | A comment node |
+| const [DOCUMENT_FRAGMENT_NODE](../../aspose.svg.dom/node/document_fragment_node) | A document fragment node |
+| const [DOCUMENT_NODE](../../aspose.svg.dom/node/document_node) | A document node |
+| const [DOCUMENT_TYPE_NODE](../../aspose.svg.dom/node/document_type_node) | A document type node |
+| const [ELEMENT_NODE](../../aspose.svg.dom/node/element_node) | An element node |
+| const [ENTITY_NODE](../../aspose.svg.dom/node/entity_node) | An entity node |
+| const [ENTITY_REFERENCE_NODE](../../aspose.svg.dom/node/entity_reference_node) | An entity reference node |
+| const [NOTATION_NODE](../../aspose.svg.dom/node/notation_node) | A notation node |
+| const [PROCESSING_INSTRUCTION_NODE](../../aspose.svg.dom/node/processing_instruction_node) | A processing instruction node |
+| const [TEXT_NODE](../../aspose.svg.dom/node/text_node) | A text node |
 
 ### See Also
 

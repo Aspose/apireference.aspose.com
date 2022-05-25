@@ -26,6 +26,14 @@ public class SVGException : PlatformException
 | --- | --- |
 | [Code](../../aspose.svg/svgexception/code) { get; } | A code identifying the reason why the requested operation could not be performed. The value of this member will be one of the constants in the SVGException code group. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [SVG_INVALID_VALUE_ERR](../../aspose.svg/svgexception/svg_invalid_value_err) | Raised when an invalid value is passed to an operation or assigned to an attribute. |
+| const [SVG_MATRIX_NOT_INVERTABLE](../../aspose.svg/svgexception/svg_matrix_not_invertable) | Raised when an attempt is made to invert a matrix that is not invertible. |
+| const [SVG_WRONG_TYPE_ERR](../../aspose.svg/svgexception/svg_wrong_type_err) | Raised when an object of the wrong type is passed to an operation. |
+
 ### See Also
 
 * class [PlatformException](../platformexception)

@@ -114,27 +114,27 @@ public class SVGFEBlendElement : SVGElement, ISVGFilterPrimitiveStandardAttribut
 | [SetIdAttributeNS](../../aspose.svg.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.svg.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_FEBLEND_MODE_COLOR](svg_feblend_mode_color) | Corresponds to value 'color'. |
-| const [SVG_FEBLEND_MODE_COLOR_BURN](svg_feblend_mode_color_burn) | Corresponds to value 'color_burn'. |
-| const [SVG_FEBLEND_MODE_COLOR_DODGE](svg_feblend_mode_color_dodge) | Corresponds to value 'color_dodge'. |
-| const [SVG_FEBLEND_MODE_DARKEN](svg_feblend_mode_darken) | Corresponds to value 'darken'. |
-| const [SVG_FEBLEND_MODE_DIFFERENCE](svg_feblend_mode_difference) | Corresponds to value 'difference'. |
-| const [SVG_FEBLEND_MODE_EXCLUSION](svg_feblend_mode_exclusion) | Corresponds to value 'exclusion'. |
-| const [SVG_FEBLEND_MODE_HARD_LIGHT](svg_feblend_mode_hard_light) | Corresponds to value 'hard_light'. |
-| const [SVG_FEBLEND_MODE_HUE](svg_feblend_mode_hue) | Corresponds to value 'hue'. |
-| const [SVG_FEBLEND_MODE_LIGHTEN](svg_feblend_mode_lighten) | Corresponds to value 'lighten'. |
-| const [SVG_FEBLEND_MODE_LUMINOSITY](svg_feblend_mode_luminosity) | Corresponds to value 'luminosity'. |
-| const [SVG_FEBLEND_MODE_MULTIPLY](svg_feblend_mode_multiply) | Corresponds to value 'multiply'. |
-| const [SVG_FEBLEND_MODE_NORMAL](svg_feblend_mode_normal) | Corresponds to value 'normal'. |
-| const [SVG_FEBLEND_MODE_OVERLAY](svg_feblend_mode_overlay) | Corresponds to value 'overlay'. |
-| const [SVG_FEBLEND_MODE_SATURATION](svg_feblend_mode_saturation) | Corresponds to value 'saturation'. |
-| const [SVG_FEBLEND_MODE_SCREEN](svg_feblend_mode_screen) | Corresponds to value 'screen'. |
-| const [SVG_FEBLEND_MODE_SOFT_LIGHT](svg_feblend_mode_soft_light) | Corresponds to value 'soft_light'. |
-| const [SVG_FEBLEND_MODE_UNKNOWN](svg_feblend_mode_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_FEBLEND_MODE_COLOR](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color) | Corresponds to value 'color'. |
+| const [SVG_FEBLEND_MODE_COLOR_BURN](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color_burn) | Corresponds to value 'color_burn'. |
+| const [SVG_FEBLEND_MODE_COLOR_DODGE](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color_dodge) | Corresponds to value 'color_dodge'. |
+| const [SVG_FEBLEND_MODE_DARKEN](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_darken) | Corresponds to value 'darken'. |
+| const [SVG_FEBLEND_MODE_DIFFERENCE](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_difference) | Corresponds to value 'difference'. |
+| const [SVG_FEBLEND_MODE_EXCLUSION](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_exclusion) | Corresponds to value 'exclusion'. |
+| const [SVG_FEBLEND_MODE_HARD_LIGHT](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_hard_light) | Corresponds to value 'hard_light'. |
+| const [SVG_FEBLEND_MODE_HUE](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_hue) | Corresponds to value 'hue'. |
+| const [SVG_FEBLEND_MODE_LIGHTEN](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_lighten) | Corresponds to value 'lighten'. |
+| const [SVG_FEBLEND_MODE_LUMINOSITY](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_luminosity) | Corresponds to value 'luminosity'. |
+| const [SVG_FEBLEND_MODE_MULTIPLY](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_multiply) | Corresponds to value 'multiply'. |
+| const [SVG_FEBLEND_MODE_NORMAL](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_normal) | Corresponds to value 'normal'. |
+| const [SVG_FEBLEND_MODE_OVERLAY](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_overlay) | Corresponds to value 'overlay'. |
+| const [SVG_FEBLEND_MODE_SATURATION](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_saturation) | Corresponds to value 'saturation'. |
+| const [SVG_FEBLEND_MODE_SCREEN](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_screen) | Corresponds to value 'screen'. |
+| const [SVG_FEBLEND_MODE_SOFT_LIGHT](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_soft_light) | Corresponds to value 'soft_light'. |
+| const [SVG_FEBLEND_MODE_UNKNOWN](../../aspose.svg.filters/svgfeblendelement/svg_feblend_mode_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

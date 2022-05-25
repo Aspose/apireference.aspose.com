@@ -18,7 +18,7 @@ public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
 | --- | --- | --- |
 | trace | IEnumerable`1 | The list of the trace points. |
 
-## Return Value
+### Return Value
 
 The list of the reduced trace points.
 

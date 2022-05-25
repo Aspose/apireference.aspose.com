@@ -14,7 +14,7 @@ Gets a !:Html.FontsSettings object which is used for configuration of fonts hand
 public FontsSettings FontsSettings { get; }
 ```
 
-## Property Value
+### Property Value
 
 The !:Html.FontsSettings settings.
 

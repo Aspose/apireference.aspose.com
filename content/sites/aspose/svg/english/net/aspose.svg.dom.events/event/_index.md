@@ -45,14 +45,14 @@ public class Event : DOMObject
 | [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation)() | The [`StopPropagation`](./stoppropagation) method is used prevent further propagation of an event during event flow. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [AtTargetPhase](attargetphase) | The current event phase is the capturing phase. |
-| const [BubblingPhase](bubblingphase) | The current event phase is the bubbling phase. |
-| const [CapturingPhase](capturingphase) | The event is currently being evaluated at the target [`IEventTarget`](../ieventtarget). |
-| const [NonePhase](nonephase) | Events not currently dispatched are in this phase. |
+| const [AtTargetPhase](../../aspose.svg.dom.events/event/attargetphase) | The current event phase is the capturing phase. |
+| const [BubblingPhase](../../aspose.svg.dom.events/event/bubblingphase) | The current event phase is the bubbling phase. |
+| const [CapturingPhase](../../aspose.svg.dom.events/event/capturingphase) | The event is currently being evaluated at the target [`IEventTarget`](../ieventtarget). |
+| const [NonePhase](../../aspose.svg.dom.events/event/nonephase) | Events not currently dispatched are in this phase. |
 
 ### Remarks
 

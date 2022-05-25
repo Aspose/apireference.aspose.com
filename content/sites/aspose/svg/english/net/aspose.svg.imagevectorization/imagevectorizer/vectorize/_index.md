@@ -18,7 +18,7 @@ public SVGDocument Vectorize(string imageFile)
 | --- | --- | --- |
 | imageFile | String | The path to the image file. |
 
-## Return Value
+### Return Value
 
 The SVG document.
 
@@ -43,7 +43,7 @@ public SVGDocument Vectorize(Stream imageStream)
 | --- | --- | --- |
 | imageStream | Stream | The stream with image. |
 
-## Return Value
+### Return Value
 
 The SVG document.
 
@@ -68,7 +68,7 @@ public SVGDocument Vectorize(Bitmap image)
 | --- | --- | --- |
 | image | Bitmap | The bitmap. |
 
-## Return Value
+### Return Value
 
 The SVG document.
 

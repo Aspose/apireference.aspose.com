@@ -33,15 +33,15 @@ public class SVGAngle : SVGValueType
 | [NewValueSpecifiedUnits](../../aspose.svg.datatypes/svgangle/newvaluespecifiedunits)(ushort, float) | Reset the value as a number with an associated unitType, thereby replacing the values for all of the attributes on the object. |
 | override [ToString](../../aspose.svg.datatypes/svgangle/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_ANGLETYPE_DEG](svg_angletype_deg) | The unit type was explicitly set to degrees. |
-| const [SVG_ANGLETYPE_GRAD](svg_angletype_grad) | The unit type is radians. |
-| const [SVG_ANGLETYPE_RAD](svg_angletype_rad) | The unit type is radians. |
-| const [SVG_ANGLETYPE_UNKNOWN](svg_angletype_unknown) | The unit type is not one of predefined unit types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
-| const [SVG_ANGLETYPE_UNSPECIFIED](svg_angletype_unspecified) | No unit type was provided (i.e., a unitless value was specified). For angles, a unitless value is treated the same as if degrees were specified. |
+| const [SVG_ANGLETYPE_DEG](../../aspose.svg.datatypes/svgangle/svg_angletype_deg) | The unit type was explicitly set to degrees. |
+| const [SVG_ANGLETYPE_GRAD](../../aspose.svg.datatypes/svgangle/svg_angletype_grad) | The unit type is radians. |
+| const [SVG_ANGLETYPE_RAD](../../aspose.svg.datatypes/svgangle/svg_angletype_rad) | The unit type is radians. |
+| const [SVG_ANGLETYPE_UNKNOWN](../../aspose.svg.datatypes/svgangle/svg_angletype_unknown) | The unit type is not one of predefined unit types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_ANGLETYPE_UNSPECIFIED](../../aspose.svg.datatypes/svgangle/svg_angletype_unspecified) | No unit type was provided (i.e., a unitless value was specified). For angles, a unitless value is treated the same as if degrees were specified. |
 
 ### See Also
 

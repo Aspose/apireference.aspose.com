@@ -14,7 +14,7 @@ Gets an list of [`MessageHandler`](../../../aspose.svg.net/messagehandler) insta
 public MessageHandlerCollection MessageHandlers { get; }
 ```
 
-## Property Value
+### Property Value
 
 The message handlers.
 

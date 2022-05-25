@@ -123,14 +123,14 @@ public class SVGFEConvolveMatrixElement : SVGElement, ISVGFilterPrimitiveStandar
 | [SetIdAttributeNS](../../aspose.svg.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.svg.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_EDGEMODE_DUPLICATE](svg_edgemode_duplicate) | Corresponds to value 'duplicate'. |
-| const [SVG_EDGEMODE_NONE](svg_edgemode_none) | Corresponds to value 'none'. |
-| const [SVG_EDGEMODE_UNKNOWN](svg_edgemode_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
-| const [SVG_EDGEMODE_WRAP](svg_edgemode_wrap) | Corresponds to value 'wrap'. |
+| const [SVG_EDGEMODE_DUPLICATE](../../aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_duplicate) | Corresponds to value 'duplicate'. |
+| const [SVG_EDGEMODE_NONE](../../aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_none) | Corresponds to value 'none'. |
+| const [SVG_EDGEMODE_UNKNOWN](../../aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_EDGEMODE_WRAP](../../aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_wrap) | Corresponds to value 'wrap'. |
 
 ### See Also
 

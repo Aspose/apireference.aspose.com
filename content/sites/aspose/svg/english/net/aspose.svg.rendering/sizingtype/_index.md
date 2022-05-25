@@ -14,7 +14,7 @@ Represents the enumeration of page sizing types.
 public enum SizingType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

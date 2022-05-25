@@ -116,15 +116,15 @@ public class SVGFEDisplacementMapElement : SVGElement, ISVGFilterPrimitiveStanda
 | [SetIdAttributeNS](../../aspose.svg.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.svg.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_CHANNEL_A](svg_channel_a) | Corresponds to value 'A'. |
-| const [SVG_CHANNEL_B](svg_channel_b) | Corresponds to value 'B'. |
-| const [SVG_CHANNEL_G](svg_channel_g) | Corresponds to value 'G'. |
-| const [SVG_CHANNEL_R](svg_channel_r) | Corresponds to value 'R'. |
-| const [SVG_CHANNEL_UNKNOWN](svg_channel_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_CHANNEL_A](../../aspose.svg.filters/svgfedisplacementmapelement/svg_channel_a) | Corresponds to value 'A'. |
+| const [SVG_CHANNEL_B](../../aspose.svg.filters/svgfedisplacementmapelement/svg_channel_b) | Corresponds to value 'B'. |
+| const [SVG_CHANNEL_G](../../aspose.svg.filters/svgfedisplacementmapelement/svg_channel_g) | Corresponds to value 'G'. |
+| const [SVG_CHANNEL_R](../../aspose.svg.filters/svgfedisplacementmapelement/svg_channel_r) | Corresponds to value 'R'. |
+| const [SVG_CHANNEL_UNKNOWN](../../aspose.svg.filters/svgfedisplacementmapelement/svg_channel_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 
