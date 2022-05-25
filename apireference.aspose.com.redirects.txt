@@ -2,7 +2,7 @@ rewrite /(.*?/net)/(.*?/)(?:methods)/([0-9]+) https://apireference.aspose.com/$1
 rewrite /(.*?/net)/(.*?)/(.*?)/(?:constructors)/([0-9]+) https://apireference.aspose.com/$1/$2/$3/$3 permanent;
 rewrite /(.*?/net)/(.*?)/(?:properties|methods|constructors)/(.*) https://apireference.aspose.com/$1/$2/$3 permanent;
 rewrite java/(.*?/)(.*?/)(.*?/)([a-zA-Z0-9_]+) https://apireference.aspose.com/$1java/$2/$4 permanent;
-rewrite /cells/net/aspose.cells.cells/copyrows/ https://apireference.aspose.com/cells/net/aspose.cells/cells/copyrow/ permanent;
+rewrite cells/net/aspose.cells.cells/copyrows/ https://apireference.aspose.com/cells/net/aspose.cells/cells/copyrow/ permanent;
 rewrite productfamily/([_0-9a-z-]+) https://apireference.aspose.com/$1 permanent;
 rewrite javascript/cells(.*) https://apireference.aspose.com/cells/nodejs$1 permanent;
 rewrite java/eps/com.aspose.eps.class-use/ps2pdfconverteroptions https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PdfSaveOptions permanent;
