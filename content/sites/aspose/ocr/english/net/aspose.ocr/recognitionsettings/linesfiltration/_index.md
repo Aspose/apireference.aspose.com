@@ -14,7 +14,7 @@ Allows to recognize text in the tables (regions surrounded lines).
 public bool LinesFiltration { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `false` allows increase performance and don't detect tables and remove lines; otherwise `true`. The default is `false`.
 

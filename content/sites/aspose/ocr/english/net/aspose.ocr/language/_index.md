@@ -14,7 +14,7 @@ Languages used for OCR. ISO 639-2 Code
 public enum Language
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

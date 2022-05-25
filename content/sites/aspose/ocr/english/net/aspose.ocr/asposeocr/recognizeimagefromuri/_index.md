@@ -18,7 +18,7 @@ public string RecognizeImageFromUri(string uri)
 | --- | --- | --- |
 | uri | String | URI link to the image. |
 
-## Return Value
+### Return Value
 
 Recognized text.
 
@@ -47,7 +47,7 @@ public RecognitionResult RecognizeImageFromUri(string uri, RecognitionSettings s
 | uri | String | URI link to the image. |
 | settings | RecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
 

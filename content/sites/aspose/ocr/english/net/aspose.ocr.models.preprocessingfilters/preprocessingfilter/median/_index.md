@@ -14,7 +14,7 @@ The median filter run through each element of the image and replace each pixel w
 public static PreprocessingFilter Median()
 ```
 
-## Return Value
+### Return Value
 
 MedianFilter object.
 

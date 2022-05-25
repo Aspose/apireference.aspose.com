@@ -19,7 +19,7 @@ public MemoryStream PreprocessImage(string fullPath, PreprocessingFilter filters
 | fullPath | String | Full path to the image. |
 | filters | PreprocessingFilter | Image optimization filters[`PreprocessingFilter`](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter). |
 
-## Return Value
+### Return Value
 
 Stream with modified image so you can save or recognize it.
 
@@ -45,7 +45,7 @@ public MemoryStream PreprocessImage(MemoryStream stream, PreprocessingFilter fil
 | stream | MemoryStream | Memory stream containing the image. |
 | filters | PreprocessingFilter | Image optimization filters[`PreprocessingFilter`](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter). |
 
-## Return Value
+### Return Value
 
 Stream with modified image so you can save or recognize it.
 

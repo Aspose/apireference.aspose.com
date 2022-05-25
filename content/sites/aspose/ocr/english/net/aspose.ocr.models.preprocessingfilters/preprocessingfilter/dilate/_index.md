@@ -14,7 +14,7 @@ Dilation adds pixels to the boundaries of objects in an image.
 public static PreprocessingFilter Dilate()
 ```
 
-## Return Value
+### Return Value
 
 DilateFilter object.
 

@@ -14,7 +14,7 @@ Converts an image to grayscale image. Grayscale image have 256 level of light in
 public static PreprocessingFilter ToGrayscale()
 ```
 
-## Return Value
+### Return Value
 
 GrayscaleFilter object.
 

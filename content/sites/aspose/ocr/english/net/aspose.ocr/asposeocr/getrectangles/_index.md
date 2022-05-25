@@ -21,7 +21,7 @@ public List<Rectangle> GetRectangles(string fullPath, AreasType areasType = Area
 | areasType | AreasType | Determinates wich rectangles to return - line or paragraphs. |
 | detectAreas | Boolean | Enable automatic text areas detection. |
 
-## Return Value
+### Return Value
 
 List of detected text areas or lines.
 
@@ -49,7 +49,7 @@ public List<Rectangle> GetRectangles(MemoryStream image,
 | areasType | AreasType | Determinates wich rectangles to return - line or paragraphs. |
 | detectAreas | Boolean | Enable automatic text areas detection. |
 
-## Return Value
+### Return Value
 
 List of detected text areas or lines.
 

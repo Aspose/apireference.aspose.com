@@ -14,7 +14,7 @@ Languages used for SpellCheck (existing dictionaries).
 public enum SpellCheckLanguage
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

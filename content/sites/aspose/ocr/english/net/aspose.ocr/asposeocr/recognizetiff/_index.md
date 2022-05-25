@@ -19,7 +19,7 @@ public List<RecognitionResult> RecognizeTiff(string fullPath, DocumentRecognitio
 | fullPath | String | Full path to the image. |
 | settings | DocumentRecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 The [`RecognitionResult`](../../recognitionresult) list of objects with image recognition results.
 

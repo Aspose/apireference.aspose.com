@@ -14,7 +14,7 @@ Determines the type of regions detected by the model.
 public enum AreasType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

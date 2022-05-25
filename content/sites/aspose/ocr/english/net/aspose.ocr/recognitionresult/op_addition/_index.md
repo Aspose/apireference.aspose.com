@@ -19,7 +19,7 @@ public static RecognitionResult operator +(RecognitionResult main, RecognitionRe
 | main | RecognitionResult | The object to which the right operand will be added. |
 | part | RecognitionResult | Right operand. |
 
-## Return Value
+### Return Value
 
 Left operand.
 

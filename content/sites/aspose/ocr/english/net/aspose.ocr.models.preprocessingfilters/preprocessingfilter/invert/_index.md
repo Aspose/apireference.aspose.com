@@ -14,7 +14,7 @@ Automatically inverts colors in a document image.
 public static PreprocessingFilter Invert()
 ```
 
-## Return Value
+### Return Value
 
 InvertFilter object.
 

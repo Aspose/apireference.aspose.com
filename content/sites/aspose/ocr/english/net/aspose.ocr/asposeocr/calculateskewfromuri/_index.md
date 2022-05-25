@@ -18,7 +18,7 @@ public float CalculateSkewFromUri(string uri)
 | --- | --- | --- |
 | uri | String | URI link to the image. |
 
-## Return Value
+### Return Value
 
 Skew angle in degrees.
 

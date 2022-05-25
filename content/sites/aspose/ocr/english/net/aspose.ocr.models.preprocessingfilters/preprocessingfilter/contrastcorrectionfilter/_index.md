@@ -14,7 +14,7 @@ Contrast correction filter.
 public static PreprocessingFilter ContrastCorrectionFilter()
 ```
 
-## Return Value
+### Return Value
 
 ContrastCorrectionFilter object.
 

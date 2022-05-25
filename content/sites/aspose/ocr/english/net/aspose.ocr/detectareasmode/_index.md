@@ -14,7 +14,7 @@ Determines the type of neural network used for areas detection.
 public enum DetectAreasMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

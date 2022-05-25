@@ -14,7 +14,7 @@ Converts an image to black-and-white image. Binary images are images whose pixel
 public static PreprocessingFilter Binarize()
 ```
 
-## Return Value
+### Return Value
 
 BinarizeFilter object.
 

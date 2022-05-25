@@ -18,7 +18,7 @@ public static PreprocessingFilter Threshold(int value)
 | --- | --- | --- |
 | value | Int32 | The max value. |
 
-## Return Value
+### Return Value
 
 BinarizeFilter object.
 

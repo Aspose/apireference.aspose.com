@@ -14,7 +14,7 @@ Form JSON string with recognition results.
 public string GetJson()
 ```
 
-## Return Value
+### Return Value
 
 Recognition results as JSON string.
 

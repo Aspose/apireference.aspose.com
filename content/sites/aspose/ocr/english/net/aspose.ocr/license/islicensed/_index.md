@@ -14,7 +14,7 @@ Gets a value indicating whether product is licensed.
 public bool IsLicensed { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if product is licensed; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Determines the type of characters allowed for recognition result.
 public enum CharactersAllowedType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

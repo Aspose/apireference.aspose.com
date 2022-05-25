@@ -19,7 +19,7 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files, Recogniti
 | files | List`1 | Full paths to the images. |
 | settings | RecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 Array of [`RecognitionResult`](../../recognitionresult) objects with recognition results for each processed image.
 
@@ -45,7 +45,7 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files)
 | --- | --- | --- |
 | files | List`1 | Full paths to the images. |
 
-## Return Value
+### Return Value
 
 Array of [`RecognitionResult`](../../recognitionresult) objects with recognition results for each processed image.
 
@@ -71,7 +71,7 @@ public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSetti
 | path | String | Full path to the zip archive (including .zip extension) or to the folder with images. |
 | settings | RecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 Array of [`RecognitionResult`](../../recognitionresult) objects with recognition results for each processed image.
 
@@ -97,7 +97,7 @@ public RecognitionResult[] RecognizeMultipleImages(string path)
 | --- | --- | --- |
 | path | String | Full path to the zip archive (including .zip extension) or to the folder with images. |
 
-## Return Value
+### Return Value
 
 Array of [`RecognitionResult`](../../recognitionresult) objects with recognition results for each processed image.
 

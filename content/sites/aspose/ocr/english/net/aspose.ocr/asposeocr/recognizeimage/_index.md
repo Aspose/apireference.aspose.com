@@ -18,7 +18,7 @@ public string RecognizeImage(string fullPath)
 | --- | --- | --- |
 | fullPath | String | Path to the image. |
 
-## Return Value
+### Return Value
 
 Recognized text.
 
@@ -48,7 +48,7 @@ public string RecognizeImage(string fullPath, bool detectAreas, bool autoSkew = 
 | detectAreas | Boolean | Enable automatic text areas detection. If false, image is processed as single text block. |
 | autoSkew | Boolean | Enable automatic image skew correction. Enabled by default. |
 
-## Return Value
+### Return Value
 
 Recognized text.
 
@@ -77,7 +77,7 @@ public List<string> RecognizeImage(string fullPath, List<Rectangle> textAreas)
 | fullPath | String | Path to the image. |
 | textAreas | List`1 | List of areas to recognize. |
 
-## Return Value
+### Return Value
 
 List of recognized text strings (one string for each specified text area).
 
@@ -106,7 +106,7 @@ public RecognitionResult RecognizeImage(string fullPath, RecognitionSettings set
 | fullPath | String | Path to the image. |
 | settings | RecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
 
@@ -136,7 +136,7 @@ public string RecognizeImage(MemoryStream stream)
 | --- | --- | --- |
 | stream | MemoryStream | Memory stream containing the image. |
 
-## Return Value
+### Return Value
 
 Recognized text.
 
@@ -166,7 +166,7 @@ public string RecognizeImage(MemoryStream stream, bool detectAreas, bool autoSke
 | detectAreas | Boolean | Enable automatic text areas detection. If false, image is processed as single text block. |
 | autoSkew | Boolean | Enable automatic image skew correction. Enabled by default. |
 
-## Return Value
+### Return Value
 
 Recognized text.
 
@@ -195,7 +195,7 @@ public List<string> RecognizeImage(MemoryStream stream, List<Rectangle> textArea
 | stream | MemoryStream | Memory stream containing the image. |
 | textAreas | List`1 | List of areas to recognize. |
 
-## Return Value
+### Return Value
 
 List of recognized text strings (one string for each specified text area).
 
@@ -224,7 +224,7 @@ public RecognitionResult RecognizeImage(MemoryStream stream, RecognitionSettings
 | stream | MemoryStream | Memory stream containing the image. |
 | settings | RecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
 

@@ -20,7 +20,7 @@ public static PreprocessingFilter Resize(int width, int height, InterpolationFil
 | height | Int32 | The new height of the image. |
 | type | InterpolationFilterType | [`InterpolationFilterType`](../../../aspose.ocr.filters/interpolationfiltertype) |
 
-## Return Value
+### Return Value
 
 ResizeFilter object.
 
@@ -46,7 +46,7 @@ public static PreprocessingFilter Resize(int width, int height)
 | width | Int32 | The new width of the image. |
 | height | Int32 | The new height of the image. |
 
-## Return Value
+### Return Value
 
 ResizeFilter object.
 

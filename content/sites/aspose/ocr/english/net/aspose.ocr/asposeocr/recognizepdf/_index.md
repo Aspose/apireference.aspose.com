@@ -20,7 +20,7 @@ public List<RecognitionResult> RecognizePdf(MemoryStream stream,
 | stream | MemoryStream | Memory stream with the pdf file. |
 | settings | DocumentRecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
 
@@ -47,7 +47,7 @@ public List<RecognitionResult> RecognizePdf(string fullPath, DocumentRecognition
 | fullPath | String | Full path to the image. |
 | settings | DocumentRecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
 

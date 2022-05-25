@@ -18,7 +18,7 @@ public float CalculateSkew(MemoryStream stream)
 | --- | --- | --- |
 | stream | MemoryStream | Memory stream containing the image. |
 
-## Return Value
+### Return Value
 
 Skew angle in degrees.
 
@@ -42,7 +42,7 @@ public float CalculateSkew(string fullPath)
 | --- | --- | --- |
 | fullPath | String | Full path to the image. |
 
-## Return Value
+### Return Value
 
 Skew angle in degrees.
 

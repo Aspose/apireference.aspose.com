@@ -18,7 +18,7 @@ public string RecognizeLine(string fullPath)
 | --- | --- | --- |
 | fullPath | String | Path to the image. |
 
-## Return Value
+### Return Value
 
 Recognized text.
 
@@ -42,7 +42,7 @@ public string RecognizeLine(MemoryStream image)
 | --- | --- | --- |
 | image | MemoryStream | Memory stream containing the image. |
 
-## Return Value
+### Return Value
 
 Recognized text.
 

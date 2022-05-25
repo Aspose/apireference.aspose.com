@@ -14,7 +14,7 @@ Set the number of pages for recognition multipage pdf file.
 public int PagesNumber { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The default is `1`.
 

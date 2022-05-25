@@ -14,7 +14,7 @@ Interpolations, used for scale images.
 public enum InterpolationFilterType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |
