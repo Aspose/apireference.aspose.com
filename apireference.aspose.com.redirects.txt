@@ -69,7 +69,6 @@ rewrite words/net/n_aspose_words_markup https://apireference.aspose.com/words/ne
 rewrite words/net/t_aspose_words_nodetype https://apireference.aspose.com/words/net/aspose.words/nodetype permanent;
 rewrite words/net/t_aspose_words_fields_fieldchar https://apireference.aspose.com/words/net/aspose.words.fields/fieldchar permanent;
 rewrite words/net/t_aspose_words_fields_fieldstart https://apireference.aspose.com/words/net/aspose.words.fields/fieldstart permanent;
-rewrite net/words/aspose.words https://apireference.aspose.com/net/words/aspose.words.saving/htmlsaveoptions permanent;
 rewrite words/java/ICssSavingCallback https://apireference.aspose.com/words/java/com.aspose.words/ICssSavingCallback permanent;
 rewrite words/java/IDocumentPartSavingCallback https://apireference.aspose.com/words/java/com.aspose.words/IDocumentPartSavingCallback permanent;
 rewrite words/java/IFontSavingCallback https://apireference.aspose.com/words/java/com.aspose.words/IFontSavingCallback permanent;
