@@ -18,7 +18,7 @@ public Color GetNearestColor(Color color)
 | --- | --- | --- |
 | color | Color | Color structure for which to find a match. |
 
-## Return Value
+### Return Value
 
 A Color structure that represents the nearest color to the one specified with the *color* parameter.
 

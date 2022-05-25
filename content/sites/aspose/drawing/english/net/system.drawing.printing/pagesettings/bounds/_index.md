@@ -14,7 +14,7 @@ Gets the size of the page, taking into account the page orientation specified by
 public Rectangle Bounds { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Rectangle that represents the length and width, in hundredths of an inch, of the page.
 

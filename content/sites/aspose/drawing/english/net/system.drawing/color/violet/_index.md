@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFEE82EE.
 public static Color Violet { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

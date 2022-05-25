@@ -14,7 +14,7 @@ Gets or sets a custom cap to use at the beginning of lines drawn with this Pen.
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A CustomLineCap that represents the cap used at the beginning of lines drawn with this Pen.
 

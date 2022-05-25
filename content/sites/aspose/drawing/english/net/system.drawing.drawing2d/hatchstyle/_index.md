@@ -14,7 +14,7 @@ Specifies the different patterns available for HatchBrush objects.
 public enum HatchStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

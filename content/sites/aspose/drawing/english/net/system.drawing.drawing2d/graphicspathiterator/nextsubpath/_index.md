@@ -20,7 +20,7 @@ public int NextSubpath(out int startIndex, out int endIndex, out bool isClosed)
 | endIndex | Int32& | [out] Receives the ending index of the next subpath. |
 | isClosed | Boolean& | [out] Indicates whether the subpath is closed. |
 
-## Return Value
+### Return Value
 
 The number of data points in the retrieved figure (subpath). If there are no more figures to retrieve, zero is returned.
 
@@ -45,7 +45,7 @@ public int NextSubpath(GraphicsPath path, out bool isClosed)
 | path | GraphicsPath | A [`GraphicsPath`](../../graphicspath) that is to have its data points set to match the data points of the retrieved figure (subpath) for this iterator. |
 | isClosed | Boolean& | [out] Indicates whether the current subpath is closed. It is true if the if the figure is closed, otherwise it is false. |
 
-## Return Value
+### Return Value
 
 The number of data points in the retrieved figure (subpath). If there are no more figures to retrieve, zero is returned.
 

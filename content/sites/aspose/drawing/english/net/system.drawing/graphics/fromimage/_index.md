@@ -18,7 +18,7 @@ public static Graphics FromImage(Image image)
 | --- | --- | --- |
 | image | Image | Image from which to create the new Graphics. |
 
-## Return Value
+### Return Value
 
 A new Graphics for the specified Image.
 

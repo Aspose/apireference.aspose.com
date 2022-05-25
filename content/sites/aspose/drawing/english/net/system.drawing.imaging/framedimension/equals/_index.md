@@ -18,7 +18,7 @@ public override bool Equals(object o)
 | --- | --- | --- |
 | o | Object | The object to test. |
 
-## Return Value
+### Return Value
 
 Returns true if *o* is a FrameDimension equivalent to this FrameDimension object; otherwise, false.
 

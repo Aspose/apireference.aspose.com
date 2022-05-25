@@ -14,7 +14,7 @@ Gets the light sky blue Pen.
 public static Pen LightSkyBlue { get; }
 ```
 
-## Property Value
+### Property Value
 
 The light sky blue Pen.
 

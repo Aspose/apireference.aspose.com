@@ -14,7 +14,7 @@ Gets or sets the length (in bytes) of the [`Value`](../value) property.
 public int Len { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 An integer that represents the length (in bytes) of the [`Value`](../value) byte array.
 

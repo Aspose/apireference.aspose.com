@@ -18,7 +18,7 @@ public static Icon FromHandle(IntPtr handle)
 | --- | --- | --- |
 | handle | IntPtr | A Windows handle to an icon. |
 
-## Return Value
+### Return Value
 
 The Icon this method creates.
 

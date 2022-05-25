@@ -14,7 +14,7 @@ Creates an exact copy of this CustomLineCap.
 public object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The CustomLineCap this method creates, cast as an object.
 

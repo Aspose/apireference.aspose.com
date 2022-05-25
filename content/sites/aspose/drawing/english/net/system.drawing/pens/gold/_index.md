@@ -14,7 +14,7 @@ Gets the gold Pen.
 public static Pen Gold { get; }
 ```
 
-## Property Value
+### Property Value
 
 The gold Pen.
 

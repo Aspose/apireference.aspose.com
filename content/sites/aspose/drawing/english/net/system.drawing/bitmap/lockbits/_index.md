@@ -20,7 +20,7 @@ public BitmapData LockBits(Rectangle rect, ImageLockMode flags, PixelFormat form
 | flags | ImageLockMode | An ImageLockMode enumeration specifying the access level (read/write) for the Bitmap. |
 | format | PixelFormat | A PixelFormat enumeration specifying the data format of this Bitmap. |
 
-## Return Value
+### Return Value
 
 A BitmapData containing information about this lock operation.
 

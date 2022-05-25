@@ -14,7 +14,7 @@ Creates an exact copy of this TextureBrush object.
 public override object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The TextureBrush object this method creates, cast as an Object object.
 

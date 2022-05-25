@@ -14,7 +14,7 @@ Gets the style of lines drawn with this Pen.
 public PenType PenType { get; }
 ```
 
-## Property Value
+### Property Value
 
 A `PenType` enumeration that specifies the style of lines drawn with this [`Pen`](../../pen).
 

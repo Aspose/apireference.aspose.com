@@ -14,7 +14,7 @@ Gets or sets the handle of the metafile in memory.
 public short Hmf { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The handle of the metafile in memory.
 

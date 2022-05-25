@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The Object to test. |
 
-## Return Value
+### Return Value
 
 This method returns `true` if obj is a SizeF and has the same width and height as this SizeF; otherwise, `false`.
 
@@ -42,7 +42,7 @@ public bool Equals(SizeF other)
 | --- | --- | --- |
 | other | SizeF | Other size to test |
 
-## Return Value
+### Return Value
 
 This method returns `true` if other [`SizeF`](../../sizef) structure and its Width and Height properties are equal to the corresponding properties of this [`SizeF`](../../sizef) structure; otherwise, `false`.
 

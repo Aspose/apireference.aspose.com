@@ -14,7 +14,7 @@ Gets or sets the number of units between the outline of the arrow cap and the fi
 public float MiddleInset { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The number of units between the outline of the arrow cap and the fill of the arrow cap.
 

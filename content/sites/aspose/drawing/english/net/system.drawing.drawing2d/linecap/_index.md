@@ -14,7 +14,7 @@ Specifies the available cap styles with which a Pen object can end a line.
 public enum LineCap
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Make a copy of the current path object.
 public object Clone()
 ```
 
-## Return Value
+### Return Value
 
 Creates an exact copy of this [`GraphicsPath`](../../graphicspath).
 

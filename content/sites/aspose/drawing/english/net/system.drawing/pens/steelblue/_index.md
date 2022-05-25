@@ -14,7 +14,7 @@ Gets the steel blue Pen.
 public static Pen SteelBlue { get; }
 ```
 
-## Property Value
+### Property Value
 
 The steel blue Pen.
 

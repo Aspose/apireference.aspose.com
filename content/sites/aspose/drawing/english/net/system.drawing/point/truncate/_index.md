@@ -18,7 +18,7 @@ public static Point Truncate(PointF value)
 | --- | --- | --- |
 | value | PointF | The [`PointF`](../../pointf) to truncate. |
 
-## Return Value
+### Return Value
 
 The [`Point`](../../point) that is the result of the truncate operation.
 

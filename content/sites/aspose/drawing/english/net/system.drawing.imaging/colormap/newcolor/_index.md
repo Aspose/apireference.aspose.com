@@ -14,7 +14,7 @@ Gets or sets the new Color structure to which to convert.
 public Color NewColor { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The new Color structure to which to convert.
 

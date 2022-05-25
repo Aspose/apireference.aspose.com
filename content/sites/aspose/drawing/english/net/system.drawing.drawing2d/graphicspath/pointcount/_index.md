@@ -14,7 +14,7 @@ Gets the number of elements in the PathPoints or the PathTypes array.
 public int PointCount { get; }
 ```
 
-## Return Value
+### Return Value
 
 An integer that specifies the number of elements in the PathPoints or the PathTypes array.
 

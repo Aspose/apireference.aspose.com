@@ -14,7 +14,7 @@ The StringDigitSubstitute enumeration specifies how to substitute digits in a st
 public enum StringDigitSubstitute
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

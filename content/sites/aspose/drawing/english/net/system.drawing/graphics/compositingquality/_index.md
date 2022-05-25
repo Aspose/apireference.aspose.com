@@ -14,7 +14,7 @@ Gets or sets the rendering quality of composited images drawn to this Graphics.
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 This property specifies a member of the CompositingQuality enumeration.
 

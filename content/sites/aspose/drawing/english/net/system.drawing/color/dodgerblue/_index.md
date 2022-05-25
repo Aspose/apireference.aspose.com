@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF1E90FF.
 public static Color DodgerBlue { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

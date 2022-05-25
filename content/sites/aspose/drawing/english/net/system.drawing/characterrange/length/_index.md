@@ -14,7 +14,7 @@ Gets or sets the number of positions in this CharacterRange.
 public int Length { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The number of positions in this CharacterRange.
 

@@ -19,7 +19,7 @@ public static bool operator ==(CharacterRange cr1, CharacterRange cr2)
 | cr1 | CharacterRange | A CharacterRange to compare for equality. |
 | cr2 | CharacterRange | A CharacterRange to compare for equality. |
 
-## Return Value
+### Return Value
 
 `true` to indicate the two CharacterRange objects have the same First and Length values; otherwise, `false`.
 

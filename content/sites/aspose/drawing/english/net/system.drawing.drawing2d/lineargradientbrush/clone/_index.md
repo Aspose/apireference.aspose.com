@@ -14,7 +14,7 @@ Creates an exact copy of this LinearGradientBrush.
 public override object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The LinearGradientBrush this method creates, cast as an object.
 

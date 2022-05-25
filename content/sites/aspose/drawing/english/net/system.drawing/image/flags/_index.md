@@ -14,7 +14,7 @@ Gets the integer representing a bitwise combination of [`ImageFlags`](../../../s
 public int Flags { get; }
 ```
 
-## Property Value
+### Property Value
 
 The integer value returned from this method will correspond to a sum of [`ImageFlags`](../../../system.drawing.imaging/imageflags).
 

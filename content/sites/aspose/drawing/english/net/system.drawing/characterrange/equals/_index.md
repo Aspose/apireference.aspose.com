@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The object to compare to for equality.. |
 
-## Return Value
+### Return Value
 
 `true` to indicate the specified object is an instance with the same First and Length value as this instance; otherwise, `false`.
 

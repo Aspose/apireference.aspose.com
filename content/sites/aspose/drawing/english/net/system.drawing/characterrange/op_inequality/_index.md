@@ -19,7 +19,7 @@ public static bool operator !=(CharacterRange cr1, CharacterRange cr2)
 | cr1 | CharacterRange | A CharacterRange to compare for inequality. |
 | cr2 | CharacterRange | A CharacterRange to compare for inequality. |
 
-## Return Value
+### Return Value
 
 `true` to indicate the either the First or Length values of the two CharacterRange objects differ; otherwise, `false`.
 

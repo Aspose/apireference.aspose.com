@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The object to test. |
 
-## Return Value
+### Return Value
 
 `true` if the obj parameter is a Font and has the same FontFamily, GdiVerticalFont, GdiCharSet, Style, Size, and Unit property values as this Font; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets the blue component value of this Color structure.
 public byte B { get; }
 ```
 
-## Return Value
+### Return Value
 
 The blue component value of this Color.
 

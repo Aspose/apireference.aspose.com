@@ -14,7 +14,7 @@ Creates an exact copy of this [`StringFormat`](../../stringformat) object.
 public StringFormat Clone()
 ```
 
-## Return Value
+### Return Value
 
 The [`StringFormat`](../../stringformat) object this method creates.
 

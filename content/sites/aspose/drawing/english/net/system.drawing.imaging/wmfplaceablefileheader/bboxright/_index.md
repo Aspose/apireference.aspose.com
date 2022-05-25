@@ -14,7 +14,7 @@ Gets or sets the x-coordinate of the lower-right corner of the bounding rectangl
 public short BboxRight { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The x-coordinate of the lower-right corner of the bounding rectangle of the metafile image on the output device.
 

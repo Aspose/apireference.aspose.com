@@ -14,7 +14,7 @@ Gets or sets the position in the string of the first character of this Character
 public int First { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The first position of this CharacterRange.
 

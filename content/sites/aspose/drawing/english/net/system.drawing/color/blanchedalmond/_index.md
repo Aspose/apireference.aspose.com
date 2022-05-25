@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFEBCD.
 public static Color BlanchedAlmond { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

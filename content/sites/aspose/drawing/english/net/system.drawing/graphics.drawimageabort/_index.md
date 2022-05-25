@@ -18,7 +18,7 @@ public delegate bool DrawImageAbort(IntPtr callbackdata);
 | --- | --- | --- |
 | callbackdata | IntPtr | Internal pointer that specifies data for the callback method. This parameter is not passed by all [`DrawImage`](../graphics/drawimage) overloads. You can test for its absence by checking for the value Zero. |
 
-## Return Value
+### Return Value
 
 This method returns true if it decides that the [`DrawImage`](../graphics/drawimage) method should prematurely stop execution. Otherwise it returns false to indicate that the [`DrawImage`](../graphics/drawimage) method should continue execution.
 

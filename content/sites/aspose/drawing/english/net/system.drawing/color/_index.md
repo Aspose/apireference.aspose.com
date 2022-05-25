@@ -191,11 +191,11 @@ public struct Color : IEquatable<Color>
 | [operator ==](../../system.drawing/color/op_equality) | Tests whether two specified Color structures are equivalent. |
 | [operator !=](../../system.drawing/color/op_inequality) | Tests whether two specified Color structures are different. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Empty](empty) | Represents a color that is null. |
+| static readonly [Empty](../../system.drawing/color/empty) | Represents a color that is null. |
 
 ### See Also
 

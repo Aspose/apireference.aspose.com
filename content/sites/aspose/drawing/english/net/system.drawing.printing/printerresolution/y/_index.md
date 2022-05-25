@@ -14,7 +14,7 @@ Gets or sets the vertical printer resolution, in dots per inch.
 public int Y { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The vertical printer resolution, in dots per inch.
 

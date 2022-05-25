@@ -14,7 +14,7 @@ Gets the light slate gray Pen.
 public static Pen LightSlateGray { get; }
 ```
 
-## Property Value
+### Property Value
 
 The light slate gray Pen.
 

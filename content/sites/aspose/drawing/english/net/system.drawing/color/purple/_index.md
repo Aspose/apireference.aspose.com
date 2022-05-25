@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF800080.
 public static Color Purple { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

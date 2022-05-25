@@ -14,7 +14,7 @@ Gets or sets the pixel width of the Bitmap object. This can also be thought of a
 public int Width { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The pixel width of the Bitmap object.
 

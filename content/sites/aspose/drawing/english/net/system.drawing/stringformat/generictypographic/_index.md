@@ -14,7 +14,7 @@ Gets a generic typographic StringFormat object.
 public static StringFormat GenericTypographic { get; }
 ```
 
-## Return Value
+### Return Value
 
 A generic typographic StringFormat object.
 

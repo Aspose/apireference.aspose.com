@@ -18,7 +18,7 @@ public static implicit operator RectangleF(Rectangle r)
 | --- | --- | --- |
 | r | Rectangle | The Rectangle structure to convert. |
 
-## Return Value
+### Return Value
 
 The RectangleF structure that is converted from the specified Rectangle structure.
 

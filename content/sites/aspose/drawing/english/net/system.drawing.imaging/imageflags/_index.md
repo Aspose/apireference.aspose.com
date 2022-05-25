@@ -15,7 +15,7 @@ Specifies the attributes of the pixel data contained in an [`Image`](../../syste
 public enum ImageFlags
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

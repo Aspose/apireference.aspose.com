@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The Object to test. |
 
-## Return Value
+### Return Value
 
 This method returns true if *obj* is a PointF and has the same coordinates as this Point.
 
@@ -42,7 +42,7 @@ public bool Equals(PointF other)
 | --- | --- | --- |
 | other | PointF | Other point to test |
 
-## Return Value
+### Return Value
 
 This method returns `true` if other [`PointF`](../../pointf) structure and its X and Y properties are equal to the corresponding properties of this [`PointF`](../../pointf) structure; otherwise, `false`.
 

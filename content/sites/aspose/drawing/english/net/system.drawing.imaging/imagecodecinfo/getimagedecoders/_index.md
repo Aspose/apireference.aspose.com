@@ -14,7 +14,7 @@ Returns an array of ImageCodecInfo objects that contain information about the im
 public static ImageCodecInfo[] GetImageDecoders()
 ```
 
-## Return Value
+### Return Value
 
 An array of ImageCodecInfo objects. Each ImageCodecInfo object in the array contains information about one of the built-in image decoders.
 

@@ -14,7 +14,7 @@ Gets or sets the pixel height of the Bitmap object. Also sometimes referred to a
 public int Height { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The pixel height of the Bitmap object.
 

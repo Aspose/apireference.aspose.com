@@ -14,7 +14,7 @@ Gets the gainsboro Pen.
 public static Pen Gainsboro { get; }
 ```
 
-## Property Value
+### Property Value
 
 The gainsboro Pen.
 

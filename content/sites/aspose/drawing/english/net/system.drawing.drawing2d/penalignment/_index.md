@@ -14,7 +14,7 @@ Specifies the alignment of a Pen object in relation to the theoretical, zero-wid
 public enum PenAlignment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

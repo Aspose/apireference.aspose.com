@@ -14,7 +14,7 @@ Gets a value indicating whether the visible clipping region of this Graphics is 
 public bool IsVisibleClipEmpty { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if the visible portion of the clipping region of this [`Graphics`](../../graphics) is empty; otherwise, `false`.
 

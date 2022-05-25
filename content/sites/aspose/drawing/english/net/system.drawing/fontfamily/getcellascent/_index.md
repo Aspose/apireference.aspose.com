@@ -18,7 +18,7 @@ public int GetCellAscent(FontStyle style)
 | --- | --- | --- |
 | style | FontStyle | A FontStyle that contains style information for the font. |
 
-## Return Value
+### Return Value
 
 The cell ascent for this FontFamily that uses the specified FontStyle.
 

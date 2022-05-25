@@ -51,11 +51,11 @@ public struct Size : IEquatable<Size>
 | [operator *](../../system.drawing/size/op_multiply) | Multiplies a [`Size`](../size) by an Int32 producing [`Size`](../size). (4 operators) |
 | [operator -](../../system.drawing/size/op_subtraction) | Subtracts the width and height of one Size structure from the width and height of another Size structure. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Empty](empty) | Gets a Size structure that has a Height and Width value of 0. |
+| static readonly [Empty](../../system.drawing/size/empty) | Gets a Size structure that has a Height and Width value of 0. |
 
 ### See Also
 

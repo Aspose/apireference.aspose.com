@@ -14,7 +14,7 @@ Gets or sets the y-coordinate of the lower-right corner of the bounding rectangl
 public short BboxBottom { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The y-coordinate of the lower-right corner of the bounding rectangle of the metafile image on the output device .
 

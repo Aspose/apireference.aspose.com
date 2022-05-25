@@ -19,7 +19,7 @@ public bool IsOutlineVisible(PointF point, Pen pen)
 | point | PointF | A PointF that specifies the location to test. |
 | pen | Pen | The Pen to test. |
 
-## Return Value
+### Return Value
 
 This method returns `true` if the specified point is contained within the outline of this GraphicsPath when drawn with the specified Pen; otherwise, `false`.
 

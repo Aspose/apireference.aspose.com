@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFFF00.
 public static Color Yellow { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

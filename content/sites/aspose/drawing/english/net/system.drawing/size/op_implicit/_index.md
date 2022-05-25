@@ -18,7 +18,7 @@ public static implicit operator SizeF(Size p)
 | --- | --- | --- |
 | p | Size | The Size to convert. |
 
-## Return Value
+### Return Value
 
 The SizeF structure to which this operator converts.
 

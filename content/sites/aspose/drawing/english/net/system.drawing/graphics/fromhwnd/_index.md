@@ -18,7 +18,7 @@ public static Graphics FromHwnd(IntPtr hwnd)
 | --- | --- | --- |
 | hwnd | IntPtr | Handle to a window. |
 
-## Return Value
+### Return Value
 
 This method returns a new Graphics for the specified window handle.
 

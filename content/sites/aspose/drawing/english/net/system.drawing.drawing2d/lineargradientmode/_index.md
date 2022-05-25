@@ -14,7 +14,7 @@ Specifies the direction of a linear gradient.
 public enum LinearGradientMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Provides a callback method for determining when the [`GetThumbnailImage`](../ima
 public delegate bool GetThumbnailImageAbort();
 ```
 
-## Return Value
+### Return Value
 
 This method returns true if it decides that the [`GetThumbnailImage`](../image/getthumbnailimage) method should prematurely stop execution; otherwise, it returns false.
 

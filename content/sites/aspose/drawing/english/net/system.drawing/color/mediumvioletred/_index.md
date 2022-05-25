@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFC71585.
 public static Color MediumVioletRed { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

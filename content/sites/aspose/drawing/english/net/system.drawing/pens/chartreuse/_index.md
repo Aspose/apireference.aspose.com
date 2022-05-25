@@ -14,7 +14,7 @@ Gets the chartreuse Pen.
 public static Pen Chartreuse { get; }
 ```
 
-## Property Value
+### Property Value
 
 The chartreuse Pen.
 

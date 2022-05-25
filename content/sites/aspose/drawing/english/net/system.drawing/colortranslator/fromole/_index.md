@@ -18,7 +18,7 @@ public static Color FromOle(int oleColor)
 | --- | --- | --- |
 | oleColor | Int32 | The OLE color to translate. |
 
-## Return Value
+### Return Value
 
 The Color structure that represents the translated OLE color.
 

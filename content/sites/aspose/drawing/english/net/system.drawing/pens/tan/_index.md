@@ -14,7 +14,7 @@ Gets the tan Pen.
 public static Pen Tan { get; }
 ```
 
-## Property Value
+### Property Value
 
 The tan Pen.
 

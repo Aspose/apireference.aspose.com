@@ -18,7 +18,7 @@ public bool IsStyleAvailable(FontStyle style)
 | --- | --- | --- |
 | style | FontStyle | The FontStyle to test. |
 
-## Return Value
+### Return Value
 
 true if the specified FontStyle is available; otherwise, false.
 

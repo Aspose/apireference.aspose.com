@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFF1493.
 public static Color DeepPink { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

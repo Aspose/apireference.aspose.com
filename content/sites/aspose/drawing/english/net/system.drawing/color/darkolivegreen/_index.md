@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF556B2F.
 public static Color DarkOliveGreen { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

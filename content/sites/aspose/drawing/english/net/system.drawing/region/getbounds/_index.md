@@ -18,7 +18,7 @@ public RectangleF GetBounds(Graphics g)
 | --- | --- | --- |
 | g | Graphics | The Graphics on which this Region is drawn. |
 
-## Return Value
+### Return Value
 
 A RectangleF structure that represents the bounding rectangle for this Region on the specified drawing surface.
 

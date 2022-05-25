@@ -14,7 +14,7 @@ Specifies the nature of the records that are placed in an Enhanced Metafile (EMF
 public enum EmfType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

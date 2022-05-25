@@ -19,7 +19,7 @@ public bool Contains(float x, float y)
 | x | Single | he x-coordinate of the point to test. |
 | y | Single | The y-coordinate of the point to test. |
 
-## Return Value
+### Return Value
 
 This method returns `true` if the point defined by x and y is contained within this RectangleF structure; otherwise `false`.
 
@@ -43,7 +43,7 @@ public bool Contains(PointF pt)
 | --- | --- | --- |
 | pt | PointF | The PointF to test. |
 
-## Return Value
+### Return Value
 
 This method returns `true` if the point represented by the pt parameter is contained within this RectangleF structure; otherwise `false`.
 
@@ -68,7 +68,7 @@ public bool Contains(RectangleF rect)
 | --- | --- | --- |
 | rect | RectangleF | The RectangleF to test. |
 
-## Return Value
+### Return Value
 
 This method returns `true` if the rectangular region represented by *rect* is entirely contained within the rectangular region represented by this RectangleF; otherwise `false`.
 

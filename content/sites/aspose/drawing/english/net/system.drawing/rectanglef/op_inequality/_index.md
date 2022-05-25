@@ -19,7 +19,7 @@ public static bool operator !=(RectangleF left, RectangleF right)
 | left | RectangleF | The RectangleF structure that is to the left of the inequality operator. |
 | right | RectangleF | The RectangleF structure that is to the right of the inequality operator. |
 
-## Return Value
+### Return Value
 
 This operator returns true if any of the X, Y, Width, or Height properties of the two Rectangle structures are unequal; otherwise false.
 

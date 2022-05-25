@@ -14,7 +14,7 @@ Gets a value indicating whether this Font is derived from a GDI vertical font..
 public bool GdiVerticalFont { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this Font is derived from a GDI vertical font; otherwise, `false`.
 

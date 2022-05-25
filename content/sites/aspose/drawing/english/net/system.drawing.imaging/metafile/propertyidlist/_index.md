@@ -14,7 +14,7 @@ Gets IDs of the property items stored in this Image.
 public override int[] PropertyIdList { get; }
 ```
 
-## Return Value
+### Return Value
 
 An array of the property IDs, one for each property item stored in this image.
 

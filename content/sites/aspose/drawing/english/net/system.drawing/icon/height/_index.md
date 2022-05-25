@@ -14,7 +14,7 @@ Gets the height of this Icon.
 public int Height { get; }
 ```
 
-## Property Value
+### Property Value
 
 The height of this Icon.
 

@@ -14,7 +14,7 @@ Gets an Icon object that contains the system error icon (WIN32: IDI_ERROR).
 public static Icon Error { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the system error icon.
 

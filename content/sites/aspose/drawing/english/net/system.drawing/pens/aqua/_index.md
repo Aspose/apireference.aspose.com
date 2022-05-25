@@ -14,7 +14,7 @@ Gets the aqua Pen.
 public static Pen Aqua { get; }
 ```
 
-## Property Value
+### Property Value
 
 The aqua Pen.
 

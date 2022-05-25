@@ -14,7 +14,7 @@ Gets the coral Pen.
 public static Pen Coral { get; }
 ```
 
-## Property Value
+### Property Value
 
 The coral Pen.
 

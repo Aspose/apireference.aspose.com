@@ -14,7 +14,7 @@ Gets or sets a value indicating whether the arrow cap is filled.
 public bool Filled { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 This property is true if the arrow cap is filled; otherwise, false.
 

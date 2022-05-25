@@ -19,7 +19,7 @@ public static bool operator ==(PointF left, PointF right)
 | left | PointF | First PointF to compare. |
 | right | PointF | Second PointF to compare. |
 
-## Return Value
+### Return Value
 
 true if the X and Y values of the left and right PointF structures are equal; otherwise, false.
 

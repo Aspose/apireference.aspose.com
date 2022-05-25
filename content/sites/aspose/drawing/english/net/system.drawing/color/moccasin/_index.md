@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFE4B5.
 public static Color Moccasin { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

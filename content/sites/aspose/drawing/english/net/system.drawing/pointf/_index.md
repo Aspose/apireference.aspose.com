@@ -45,11 +45,11 @@ public struct PointF : IEquatable<PointF>
 | [operator !=](../../system.drawing/pointf/op_inequality) | Determines whether the coordinates of the specified points are not equal. |
 | [operator -](../../system.drawing/pointf/op_subtraction) | Translates a [`PointF`](../pointf) by the negative of a given [`Size`](../size) . (2 operators) |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Empty](empty) | Represents a new instance of the PointF class with member data left uninitialized. |
+| static readonly [Empty](../../system.drawing/pointf/empty) | Represents a new instance of the PointF class with member data left uninitialized. |
 
 ### See Also
 

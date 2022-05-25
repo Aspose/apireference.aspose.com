@@ -14,7 +14,7 @@ Gets the white smoke Pen.
 public static Pen WhiteSmoke { get; }
 ```
 
-## Property Value
+### Property Value
 
 The white smoke Pen.
 

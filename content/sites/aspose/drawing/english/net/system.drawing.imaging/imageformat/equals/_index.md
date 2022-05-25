@@ -18,7 +18,7 @@ public override bool Equals(object o)
 | --- | --- | --- |
 | o | Object | The object to test. |
 
-## Return Value
+### Return Value
 
 true if *o* is an ImageFormat object that is equivalent to this ImageFormat object; otherwise, false.
 

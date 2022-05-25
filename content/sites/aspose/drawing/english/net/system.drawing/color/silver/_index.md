@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFC0C0C0.
 public static Color Silver { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

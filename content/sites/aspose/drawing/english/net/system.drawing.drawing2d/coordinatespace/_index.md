@@ -14,7 +14,7 @@ Specifies the system to use when evaluating coordinates.
 public enum CoordinateSpace
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF708090.
 public static Color SlateGray { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

@@ -14,7 +14,7 @@ Gets or sets the printer resolution for the page.
 public PrinterResolution PrinterResolution { get; }
 ```
 
-## Return Value
+### Return Value
 
 A `PrinterResolution` that specifies the printer resolution for the page. The default is the printer's default resolution.
 

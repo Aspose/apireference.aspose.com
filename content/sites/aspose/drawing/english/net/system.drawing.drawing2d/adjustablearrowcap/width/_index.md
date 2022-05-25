@@ -14,7 +14,7 @@ Gets or sets the width of the arrow cap.
 public float Width { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The width, in units, of the arrow cap.
 

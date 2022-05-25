@@ -14,7 +14,7 @@ Gets the lavender Pen.
 public static Pen Lavender { get; }
 ```
 
-## Property Value
+### Property Value
 
 The lavender Pen.
 

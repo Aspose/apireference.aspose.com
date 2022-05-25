@@ -18,7 +18,7 @@ public static Size Ceiling(SizeF value)
 | --- | --- | --- |
 | value | SizeF | The SizeF structure to convert. |
 
-## Return Value
+### Return Value
 
 The Size structure this method converts to.
 

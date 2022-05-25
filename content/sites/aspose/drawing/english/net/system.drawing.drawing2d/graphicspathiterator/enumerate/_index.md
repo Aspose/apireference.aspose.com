@@ -19,7 +19,7 @@ public int Enumerate(ref PointF[] points, ref byte[] types)
 | points | PointF[]& | Upon return, contains an array of System.Drawing.PointF structures that represents the points in the path. |
 | types | Byte[]& | Upon return, contains an array of bytes that represents the types of points in the path. |
 
-## Return Value
+### Return Value
 
 The number of points copied.
 

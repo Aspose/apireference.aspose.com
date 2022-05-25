@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The Object to test. |
 
-## Return Value
+### Return Value
 
 `true` if obj is a Point and has the same coordinates as this Point.
 
@@ -42,7 +42,7 @@ public bool Equals(Point other)
 | --- | --- | --- |
 | other | Point | Other point to test |
 
-## Return Value
+### Return Value
 
 This method returns `true` if other [`Point`](../../point) structure and its X and Y properties are equal to the corresponding properties of this [`Point`](../../point) structure; otherwise, `false`.
 

@@ -19,7 +19,7 @@ public Color GetPixel(int x, int y)
 | x | Int32 | The x-coordinate of the pixel to retrieve. |
 | y | Int32 | The y-coordinate of the pixel to retrieve. |
 
-## Return Value
+### Return Value
 
 A Color structure that represents the color of the specified pixel.
 

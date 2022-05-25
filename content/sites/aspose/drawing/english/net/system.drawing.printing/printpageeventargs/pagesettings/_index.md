@@ -14,7 +14,7 @@ Gets the page settings for the current page.
 public PageSettings PageSettings { get; }
 ```
 
-## Return Value
+### Return Value
 
 The page settings for the current page.
 

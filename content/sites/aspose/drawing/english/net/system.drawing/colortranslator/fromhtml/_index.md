@@ -18,7 +18,7 @@ public static Color FromHtml(string htmlColor)
 | --- | --- | --- |
 | htmlColor | String | The string representation of the Html color to translate. |
 
-## Return Value
+### Return Value
 
 The Color structure that represents the translated HTML color or Empty if htmlColor is null.
 

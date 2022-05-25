@@ -14,7 +14,7 @@ Creates an exact copy of this Pen.
 public object Clone()
 ```
 
-## Return Value
+### Return Value
 
 An Object that can be cast to a Pen.
 

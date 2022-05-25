@@ -14,7 +14,7 @@ Gets the line spacing of this font.
 public int Height { get; }
 ```
 
-## Property Value
+### Property Value
 
 The line spacing, in pixels, of this font.
 

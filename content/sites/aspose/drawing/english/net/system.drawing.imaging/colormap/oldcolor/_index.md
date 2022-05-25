@@ -14,7 +14,7 @@ Gets or sets the existing Color structure to be converted.
 public Color OldColor { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The existing Color structure to be converted.
 

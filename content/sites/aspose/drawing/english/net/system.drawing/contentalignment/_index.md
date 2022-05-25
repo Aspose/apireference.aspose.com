@@ -14,7 +14,7 @@ Specifies alignment of content on the drawing surface.
 public enum ContentAlignment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

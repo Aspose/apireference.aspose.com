@@ -14,7 +14,7 @@ Gets the green component value of this Color structure.
 public byte G { get; }
 ```
 
-## Return Value
+### Return Value
 
 The green component value of this Color.
 

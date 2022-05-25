@@ -14,7 +14,7 @@ Gets an array of Color structures.
 public Color[] Entries { get; }
 ```
 
-## Return Value
+### Return Value
 
 The array of Color structures that make up this ColorPalette.
 

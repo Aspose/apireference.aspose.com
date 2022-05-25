@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF00FF7F.
 public static Color SpringGreen { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

@@ -14,7 +14,7 @@ Gets the points in the path.
 public PointF[] PathPoints { get; }
 ```
 
-## Return Value
+### Return Value
 
 An array of PointF objects that represent the path.
 

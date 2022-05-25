@@ -18,7 +18,7 @@ public static bool IsAlphaPixelFormat(PixelFormat pixfmt)
 | --- | --- | --- |
 | pixfmt | PixelFormat | The PixelFormat to test. |
 
-## Return Value
+### Return Value
 
 true if *pixfmt* contains alpha information; otherwise, false.
 

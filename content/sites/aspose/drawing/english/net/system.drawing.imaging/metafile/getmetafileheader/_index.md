@@ -18,7 +18,7 @@ public static MetafileHeader GetMetafileHeader(Stream stream)
 | --- | --- | --- |
 | stream | Stream | A Stream containing the Metafile for which a header is retrieved. |
 
-## Return Value
+### Return Value
 
 The MetafileHeader associated with the specified Metafile.
 
@@ -43,7 +43,7 @@ public static MetafileHeader GetMetafileHeader(string fileName)
 | --- | --- | --- |
 | fileName | String | A String containing the name of the Metafile for which a header is retrieved. |
 
-## Return Value
+### Return Value
 
 The MetafileHeader associated with the specified Metafile.
 
@@ -64,7 +64,7 @@ Returns the MetafileHeader associated with this Metafile.
 public MetafileHeader GetMetafileHeader()
 ```
 
-## Return Value
+### Return Value
 
 The MetafileHeader associated with this Metafile.
 

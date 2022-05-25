@@ -14,7 +14,7 @@ Gets a system-defined [`Brush`](../../brush) object.
 public static Brush CornflowerBlue { get; }
 ```
 
-## Return Value
+### Return Value
 
 A [`Brush`](../../brush) object set to a system-defined color.
 

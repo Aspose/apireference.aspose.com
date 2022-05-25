@@ -14,7 +14,7 @@ Gets the name of the font originally specified.
 public string OriginalFontName { get; }
 ```
 
-## Property Value
+### Property Value
 
 The string representing the name of the font originally specified.
 

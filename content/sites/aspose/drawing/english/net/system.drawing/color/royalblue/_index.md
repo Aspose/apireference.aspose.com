@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF4169E1.
 public static Color RoyalBlue { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

@@ -14,7 +14,7 @@ Returns a value that indicates whether the associated [`Metafile`](../../metafil
 public bool IsEmfPlusOnly()
 ```
 
-## Return Value
+### Return Value
 
 True if the associated [`Metafile`](../../metafile) supports only the Windows enhanced metafile plus format; otherwise, false.
 

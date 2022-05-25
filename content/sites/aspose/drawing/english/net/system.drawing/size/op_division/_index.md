@@ -19,7 +19,7 @@ public static Size operator /(Size left, int right)
 | left | Size | Dividend of type [`Size`](../../size). |
 | right | Int32 | Divisor of type Int32. |
 
-## Return Value
+### Return Value
 
 Result of type [`Size`](../../size).
 
@@ -44,7 +44,7 @@ public static SizeF operator /(Size left, float right)
 | left | Size | Dividend of type [`Size`](../../size). |
 | right | Single | Divisor of type Int32. |
 
-## Return Value
+### Return Value
 
 Result of type [`SizeF`](../../sizef).
 

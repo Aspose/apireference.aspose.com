@@ -19,7 +19,7 @@ public static Point operator -(Point pt, Size sz)
 | pt | Point | The [`Point`](../../point) to add. |
 | sz | Size | The [`Size`](../../size) to add |
 
-## Return Value
+### Return Value
 
 The [`Point`](../../point) that is the result of the translate operation.
 

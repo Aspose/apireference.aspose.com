@@ -14,7 +14,7 @@ Gets an Icon object that contains the system hand icon (WIN32: IDI_HAND).
 public static Icon Hand { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the system hand icon.
 

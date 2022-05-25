@@ -64,11 +64,11 @@ public struct Rectangle : IEquatable<Rectangle>
 | [operator ==](../../system.drawing/rectangle/op_equality) | Tests whether two Rectangle structures have equal location and size. |
 | [operator !=](../../system.drawing/rectangle/op_inequality) | Tests whether two Rectangle structures differ in location or size. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Empty](empty) | Represents a Rectangle structure with its properties left uninitialized. |
+| static readonly [Empty](../../system.drawing/rectangle/empty) | Represents a Rectangle structure with its properties left uninitialized. |
 
 ### See Also
 

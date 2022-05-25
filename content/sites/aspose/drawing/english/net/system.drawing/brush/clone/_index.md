@@ -14,7 +14,7 @@ When overridden in a derived class, creates an exact copy of this Brush.
 public abstract object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The new Brush that this method creates.
 

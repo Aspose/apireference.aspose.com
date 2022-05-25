@@ -52,11 +52,11 @@ public struct Point : IEquatable<Point>
 | [operator !=](../../system.drawing/point/op_inequality) | Compares two Point objects. The result specifies whether the values of the X or Y properties of the two Point objects are unequal. |
 | [operator -](../../system.drawing/point/op_subtraction) | Translates a [`Point`](../point) by the negative of a given [`Size`](../size) . |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Empty](empty) | Represents a Point that has X and Y values set to zero. |
+| static readonly [Empty](../../system.drawing/point/empty) | Represents a Point that has X and Y values set to zero. |
 
 ### See Also
 

@@ -14,7 +14,7 @@ Gets the handle for this Icon. This is not a copy of the handle; do not free it.
 public IntPtr Handle { get; }
 ```
 
-## Property Value
+### Property Value
 
 The Windows handle for the icon.
 

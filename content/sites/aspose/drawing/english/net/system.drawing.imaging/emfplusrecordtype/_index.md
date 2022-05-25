@@ -14,7 +14,7 @@ Specifies the methods available for use with a metafile to read and write graphi
 public enum EmfPlusRecordType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets the ghost white Pen.
 public static Pen GhostWhite { get; }
 ```
 
-## Property Value
+### Property Value
 
 The ghost white Pen.
 

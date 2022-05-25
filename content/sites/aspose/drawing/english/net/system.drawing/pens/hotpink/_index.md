@@ -14,7 +14,7 @@ Gets the hot pink Pen.
 public static Pen HotPink { get; }
 ```
 
-## Property Value
+### Property Value
 
 The hot pink Pen.
 

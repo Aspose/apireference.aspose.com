@@ -14,7 +14,7 @@ Gets the page numbers that the user has specified to be printed.
 public static PrintRange PrintRange { get; }
 ```
 
-## Return Value
+### Return Value
 
 One of the `PrintRange` values.
 

@@ -14,7 +14,7 @@ Gets the khaki Pen.
 public static Pen Khaki { get; }
 ```
 
-## Property Value
+### Property Value
 
 The khaki Pen.
 

@@ -14,7 +14,7 @@ Gets or sets the checksum value for the previous ten WORD s in the header.
 public short Checksum { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The checksum value for the previous ten WORD s in the header.
 

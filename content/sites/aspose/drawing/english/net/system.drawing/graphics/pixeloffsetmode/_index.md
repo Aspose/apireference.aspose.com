@@ -14,7 +14,7 @@ Gets or sets a value specifying how pixels are offset during rendering of this G
 public PixelOffsetMode PixelOffsetMode { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 This property specifies a member of the PixelOffsetMode enumeration.
 

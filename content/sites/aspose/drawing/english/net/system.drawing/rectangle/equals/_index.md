@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The Object to test. |
 
-## Return Value
+### Return Value
 
 This method returns `true` if obj is a Rectangle structure and its X, Y, Width, and Height properties are equal to the corresponding properties of this Rectangle structure; otherwise, `false`.
 
@@ -42,7 +42,7 @@ public bool Equals(Rectangle other)
 | --- | --- | --- |
 | other | Rectangle | Other rectangle to test |
 
-## Return Value
+### Return Value
 
 This method returns `true` if other [`Rectangle`](../../rectangle) structure and its X, Y, Width, and Height properties are equal to the corresponding properties of this [`Rectangle`](../../rectangle) structure; otherwise, `false`.
 

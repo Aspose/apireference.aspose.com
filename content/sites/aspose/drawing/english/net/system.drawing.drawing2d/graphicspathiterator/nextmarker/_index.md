@@ -19,7 +19,7 @@ public int NextMarker(out int startIndex, out int endIndex)
 | startIndex | Int32& | [out] The integer reference supplied to this parameter receives the index of the point that starts a subpath. |
 | endIndex | Int32& | [out] The integer reference supplied to this parameter receives the index of the point that ends the subpath to which startIndex points. |
 
-## Return Value
+### Return Value
 
 The number of points between this marker and the next.
 
@@ -43,7 +43,7 @@ public int NextMarker(GraphicsPath path)
 | --- | --- | --- |
 | path | GraphicsPath | The [`GraphicsPath`](../../graphicspath) object to which the points will be copied. |
 
-## Return Value
+### Return Value
 
 The number of points between this marker and the next.
 

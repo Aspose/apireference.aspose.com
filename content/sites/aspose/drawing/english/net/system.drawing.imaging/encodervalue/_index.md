@@ -14,7 +14,7 @@ Used to specify the parameter value passed to a JPEG or TIFF image encoder when 
 public enum EncoderValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

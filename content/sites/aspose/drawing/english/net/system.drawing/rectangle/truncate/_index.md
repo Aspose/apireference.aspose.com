@@ -18,7 +18,7 @@ public static Rectangle Truncate(RectangleF value)
 | --- | --- | --- |
 | value | RectangleF | The RectangleF to be converted. |
 
-## Return Value
+### Return Value
 
 The truncated value of the Rectangle.
 

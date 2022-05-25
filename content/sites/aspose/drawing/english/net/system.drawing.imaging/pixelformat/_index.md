@@ -14,7 +14,7 @@ Specifies the format of the color data for each pixel in the image.
 public enum PixelFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

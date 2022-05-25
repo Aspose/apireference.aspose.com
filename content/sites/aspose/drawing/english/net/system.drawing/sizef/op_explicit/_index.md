@@ -18,7 +18,7 @@ public static explicit operator PointF(SizeF size)
 | --- | --- | --- |
 | size | SizeF | Value of type [`SizeF`](../../sizef). |
 
-## Return Value
+### Return Value
 
 Result of type [`PointF`](../../pointf).
 

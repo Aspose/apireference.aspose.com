@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFFFF0.
 public static Color Ivory { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

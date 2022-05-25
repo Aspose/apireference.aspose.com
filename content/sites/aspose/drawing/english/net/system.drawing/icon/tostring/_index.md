@@ -14,7 +14,7 @@ Gets a human-readable string that describes the Icon.
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 A string that describes the Icon.
 

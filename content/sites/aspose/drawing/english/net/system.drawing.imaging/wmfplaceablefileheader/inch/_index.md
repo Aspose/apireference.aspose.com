@@ -14,7 +14,7 @@ Gets or sets the number of twips per inch.
 public short Inch { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The number of twips per inch.
 

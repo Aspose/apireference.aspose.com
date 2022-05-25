@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFF5F5DC.
 public static Color Beige { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

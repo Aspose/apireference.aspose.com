@@ -14,7 +14,7 @@ Gets a value indicating whether this Color structure is a named color or a membe
 public bool IsNamedColor { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this Color was created by using either the String) method or the KnownColor) method; otherwise, `false`.
 

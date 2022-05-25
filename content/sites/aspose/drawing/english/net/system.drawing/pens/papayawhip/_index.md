@@ -14,7 +14,7 @@ Gets the papaya whip Pen.
 public static Pen PapayaWhip { get; }
 ```
 
-## Property Value
+### Property Value
 
 The papaya whip Pen.
 

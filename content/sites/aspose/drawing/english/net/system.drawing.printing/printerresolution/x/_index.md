@@ -14,7 +14,7 @@ Gets or sets the horizontal printer resolution, in dots per inch.
 public int X { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The horizontal printer resolution, in dots per inch, if !:Kind is set to !:PrinterResolutionKind.Custom; otherwise, a dmPrintQuality value.
 

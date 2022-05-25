@@ -14,7 +14,7 @@ Gets or sets the format of the pixel information in the Bitmap object that retur
 public PixelFormat PixelFormat { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A PixelFormat that specifies the format of the pixel information in the associated Bitmap object.
 

@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF32CD32.
 public static Color LimeGreen { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

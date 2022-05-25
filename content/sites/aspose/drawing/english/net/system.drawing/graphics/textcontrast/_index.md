@@ -14,7 +14,7 @@ Gets or sets the gamma correction value for rendering text.
 public int TextContrast { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The gamma correction value used for rendering antialiased and ClearType text.
 

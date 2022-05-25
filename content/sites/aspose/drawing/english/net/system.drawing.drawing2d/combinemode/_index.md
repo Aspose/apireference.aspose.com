@@ -14,7 +14,7 @@ Specifies how different clipping regions can be combined.
 public enum CombineMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

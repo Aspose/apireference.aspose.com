@@ -14,7 +14,7 @@ Gets a value indicating whether this this Point is empty.
 public bool IsEmpty { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if both X and Y are 0; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets the width of this Icon.
 public int Width { get; }
 ```
 
-## Property Value
+### Property Value
 
 The width of this Icon.
 

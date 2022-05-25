@@ -14,7 +14,7 @@ Gets the light salmon Pen.
 public static Pen LightSalmon { get; }
 ```
 
-## Property Value
+### Property Value
 
 The light salmon Pen.
 

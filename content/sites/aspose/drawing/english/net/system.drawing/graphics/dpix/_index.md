@@ -14,7 +14,7 @@ Gets the horizontal resolution of this Graphics.
 public float DpiX { get; }
 ```
 
-## Return Value
+### Return Value
 
 The value, in dots per inch, for the horizontal resolution supported by this Graphics.
 

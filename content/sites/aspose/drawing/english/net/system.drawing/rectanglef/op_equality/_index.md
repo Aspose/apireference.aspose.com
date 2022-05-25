@@ -19,7 +19,7 @@ public static bool operator ==(RectangleF left, RectangleF right)
 | left | RectangleF | The RectangleF structure that is to the left of the equality operator. |
 | right | RectangleF | The RectangleF structure that is to the right of the equality operator. |
 
-## Return Value
+### Return Value
 
 This operator returns true if the two specified RectangleF structures have equal X, Y, Width, and Height properties.
 

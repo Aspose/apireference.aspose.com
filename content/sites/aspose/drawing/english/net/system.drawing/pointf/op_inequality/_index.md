@@ -19,7 +19,7 @@ public static bool operator !=(PointF left, PointF right)
 | left | PointF | First PointF to compare. |
 | right | PointF | Second PointF to compare. |
 
-## Return Value
+### Return Value
 
 true to indicate the X and Y values of *left* and *right* are not equal; otherwise, false.
 

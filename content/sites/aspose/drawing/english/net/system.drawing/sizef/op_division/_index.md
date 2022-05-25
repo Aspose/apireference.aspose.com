@@ -19,7 +19,7 @@ public static SizeF operator /(SizeF left, float right)
 | left | SizeF | Dividend of type [`SizeF`](../../sizef). |
 | right | Single | Divisor of type Int32. |
 
-## Return Value
+### Return Value
 
 Result of type [`SizeF`](../../sizef).
 

@@ -14,7 +14,7 @@ Specifies the type of fill a Pen object uses to fill lines.
 public enum PenType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

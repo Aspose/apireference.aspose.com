@@ -14,7 +14,7 @@ Creates an exact copy of this ImageAttributes object.
 public object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The ImageAttributes object this class creates, cast as an object.
 

@@ -14,7 +14,7 @@ Gets the medium turquoise Pen.
 public static Pen MediumTurquoise { get; }
 ```
 
-## Property Value
+### Property Value
 
 The medium turquoise Pen.
 

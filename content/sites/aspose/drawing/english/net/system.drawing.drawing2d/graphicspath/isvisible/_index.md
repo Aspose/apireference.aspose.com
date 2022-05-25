@@ -18,7 +18,7 @@ public bool IsVisible(PointF point)
 | --- | --- | --- |
 | point | PointF | A PointF that represents the point to test. |
 
-## Return Value
+### Return Value
 
 This method returns `true` if the specified point is contained within this GraphicsPath; otherwise, `false`.
 

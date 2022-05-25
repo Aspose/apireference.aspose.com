@@ -14,7 +14,7 @@ Gets the dim gray Pen.
 public static Pen DimGray { get; }
 ```
 
-## Property Value
+### Property Value
 
 The dim gray Pen.
 

@@ -19,7 +19,7 @@ public static SizeF Add(SizeF sz1, SizeF sz2)
 | sz1 | SizeF | The first SizeF structure to add. |
 | sz2 | SizeF | The second SizeF structure to add. |
 
-## Return Value
+### Return Value
 
 A SizeF structure that is the result of the addition operation.
 

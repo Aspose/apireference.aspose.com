@@ -14,7 +14,7 @@ Gets the transparent Pen.
 public static Pen Transparent { get; }
 ```
 
-## Property Value
+### Property Value
 
 The transparent Pen.
 

@@ -14,7 +14,7 @@ Saves the current state of this [`Graphics`](../../graphics) and identifies the 
 public GraphicsState Save()
 ```
 
-## Return Value
+### Return Value
 
 Returns a [`GraphicsState`](../../../system.drawing.drawing2d/graphicsstate) that represents the saved state of this [`Graphics`](../../graphics).
 

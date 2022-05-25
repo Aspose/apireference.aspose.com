@@ -14,7 +14,7 @@ Gets a value indicating whether the Width or Height property of this RectangleF 
 public bool IsEmpty { get; }
 ```
 
-## Return Value
+### Return Value
 
 This property returns true if the Width or Height property of this RectangleF has a value of zero; otherwise, false.
 

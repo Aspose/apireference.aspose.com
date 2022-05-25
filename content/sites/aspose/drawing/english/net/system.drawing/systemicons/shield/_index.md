@@ -14,7 +14,7 @@ Gets an Icon object that contains the shield icon.
 public static Icon Shield { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the shield icon.
 

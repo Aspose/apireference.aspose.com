@@ -14,7 +14,7 @@ Gets or sets the name of the printer to use.
 public string PrinterName { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The name of the printer to use.
 

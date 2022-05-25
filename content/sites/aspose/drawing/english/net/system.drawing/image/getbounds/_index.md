@@ -18,7 +18,7 @@ public RectangleF GetBounds(ref GraphicsUnit pageUnit)
 | --- | --- | --- |
 | pageUnit | GraphicsUnit& | One of the GraphicsUnit values indicating the unit of measure for the bounding rectangle. |
 
-## Return Value
+### Return Value
 
 The RectangleF that represents the bounds of the image, in the specified unit.
 

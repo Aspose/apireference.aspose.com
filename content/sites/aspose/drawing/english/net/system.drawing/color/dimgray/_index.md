@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF696969.
 public static Color DimGray { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

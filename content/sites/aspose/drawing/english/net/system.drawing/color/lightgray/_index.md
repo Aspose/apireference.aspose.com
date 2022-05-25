@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFD3D3D3.
 public static Color LightGray { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

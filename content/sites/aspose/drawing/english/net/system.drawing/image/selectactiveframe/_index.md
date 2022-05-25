@@ -19,7 +19,7 @@ public int SelectActiveFrame(FrameDimension dimension, int frameIndex)
 | dimension | FrameDimension | A FrameDimension that specifies the identity of the dimension type. |
 | frameIndex | Int32 | The index of the active frame. |
 
-## Return Value
+### Return Value
 
 Always returns 0.
 

@@ -19,7 +19,7 @@ public static PointF Add(PointF orig, Size size)
 | orig | PointF | The PointF to translate. |
 | size | Size | The Size that specifies the numbers to add to the coordinates of *orig*. |
 
-## Return Value
+### Return Value
 
 The translated PointF.
 
@@ -45,7 +45,7 @@ public static PointF Add(PointF orig, SizeF sizeF)
 | orig | PointF | The PointF to translate. |
 | sizeF | SizeF | The SizeF that specifies the numbers to add to the coordinates of *orig*. |
 
-## Return Value
+### Return Value
 
 The translated PointF.
 

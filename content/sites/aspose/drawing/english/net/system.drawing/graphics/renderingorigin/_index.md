@@ -14,7 +14,7 @@ Gets or sets the rendering origin of this Graphics for dithering and for hatch b
 public Point RenderingOrigin { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 A Point structure that represents the dither origin for 8-bits-per-pixel and 16-bits-per-pixel dithering and is also used to set the origin for hatch brushes.
 

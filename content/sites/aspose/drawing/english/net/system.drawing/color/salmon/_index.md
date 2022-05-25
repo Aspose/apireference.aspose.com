@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFA8072.
 public static Color Salmon { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

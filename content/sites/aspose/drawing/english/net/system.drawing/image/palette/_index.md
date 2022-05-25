@@ -14,7 +14,7 @@ Gets or sets the color palette used for this Image.
 public abstract ColorPalette Palette { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A ColorPalette that represents the color palette used for this Image.
 

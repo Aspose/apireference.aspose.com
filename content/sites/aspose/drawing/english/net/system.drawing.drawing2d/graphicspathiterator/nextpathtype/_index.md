@@ -20,7 +20,7 @@ public int NextPathType(out byte pathType, out int startIndex, out int endIndex)
 | startIndex | Int32& | [out] Receives the starting index of the group of points. |
 | endIndex | Int32& | [out] Receives the ending index of the group of points. |
 
-## Return Value
+### Return Value
 
 This method returns the number of data points in the group. If there are no more groups in the path, this method returns 0.
 

@@ -18,7 +18,7 @@ public static Icon ExtractAssociatedIcon(string filePath)
 | --- | --- | --- |
 | filePath | String | The path to the file that contains an image. |
 
-## Return Value
+### Return Value
 
 The Icon representation of the image that is contained in the specified file.
 

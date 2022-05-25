@@ -19,7 +19,7 @@ public static PointF Subtract(PointF pt, Size sz)
 | pt | PointF | The [`PointF`](../../pointf) to translate. |
 | sz | Size | The [`Size`](../../size) that specifies the numbers to translate from the coordinates of *pt*. |
 
-## Return Value
+### Return Value
 
 The translated [`PointF`](../../pointf).
 
@@ -45,7 +45,7 @@ public static PointF Subtract(PointF pt, SizeF sz)
 | pt | PointF | The [`PointF`](../../pointf) to translate. |
 | sz | SizeF | The [`SizeF`](../../sizef) that specifies the numbers to translate from the coordinates of *pt*. |
 
-## Return Value
+### Return Value
 
 The translated [`PointF`](../../pointf).
 

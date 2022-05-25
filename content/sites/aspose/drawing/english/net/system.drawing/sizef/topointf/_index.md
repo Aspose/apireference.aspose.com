@@ -14,7 +14,7 @@ Converts a SizeF structure to a PointF structure.
 public PointF ToPointF()
 ```
 
-## Return Value
+### Return Value
 
 Returns a PointF structure.
 

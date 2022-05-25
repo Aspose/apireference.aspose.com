@@ -14,7 +14,7 @@ Gets the sandy brown Pen.
 public static Pen SandyBrown { get; }
 ```
 
-## Property Value
+### Property Value
 
 The sandy brown Pen.
 

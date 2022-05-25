@@ -18,7 +18,7 @@ public bool IsEmpty(Graphics g)
 | --- | --- | --- |
 | g | Graphics | A Graphics that represents a drawing surface. |
 
-## Return Value
+### Return Value
 
 true if the interior of this Region is empty when the transformation associated with *g* is applied; otherwise, false.
 

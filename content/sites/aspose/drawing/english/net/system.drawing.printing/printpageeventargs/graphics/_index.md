@@ -14,7 +14,7 @@ Gets the Graphics used to paint the page.
 public Graphics Graphics { get; }
 ```
 
-## Return Value
+### Return Value
 
 The Graphics used to paint the page.
 

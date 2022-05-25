@@ -14,7 +14,7 @@ Creates an exact copy of this SolidBrush object.
 public override object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The SolidBrush object that this method creates.
 

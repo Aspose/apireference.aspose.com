@@ -14,7 +14,7 @@ Gets the width and height, in pixels, of this image.
 public Size Size { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Size structure that represents the width and height, in pixels, of this image.
 

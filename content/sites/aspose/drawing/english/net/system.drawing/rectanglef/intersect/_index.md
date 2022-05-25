@@ -19,7 +19,7 @@ public static RectangleF Intersect(RectangleF a, RectangleF b)
 | a | RectangleF | First rectangle to intersect. |
 | b | RectangleF | Second rectangle to intersect. |
 
-## Return Value
+### Return Value
 
 A third RectangleF structure the size of which represents the overlapped area of the two specified rectangles.
 

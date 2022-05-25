@@ -14,7 +14,7 @@ Gets the cornflower blue Pen.
 public static Pen CornflowerBlue { get; }
 ```
 
-## Property Value
+### Property Value
 
 The cornflower blue Pen.
 

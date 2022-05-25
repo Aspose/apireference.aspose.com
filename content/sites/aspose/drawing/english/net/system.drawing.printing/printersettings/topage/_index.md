@@ -14,7 +14,7 @@ Gets the number of the last page to print.
 public static int ToPage { get; }
 ```
 
-## Return Value
+### Return Value
 
 The number of the last page to print.
 

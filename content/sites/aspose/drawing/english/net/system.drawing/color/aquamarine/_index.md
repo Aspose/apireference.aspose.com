@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF7FFFD4.
 public static Color Aquamarine { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

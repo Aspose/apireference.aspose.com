@@ -14,7 +14,7 @@ Indicates whether the path associated with this [`GraphicsPathIterator`](../../g
 public bool HasCurve()
 ```
 
-## Return Value
+### Return Value
 
 This method returns true if the current subpath contains a curve; otherwise, false.
 

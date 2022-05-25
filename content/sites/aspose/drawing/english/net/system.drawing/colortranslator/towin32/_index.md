@@ -18,7 +18,7 @@ public static int ToWin32(Color c)
 | --- | --- | --- |
 | c | Color | [`Color`](../../color) structure to convert. |
 
-## Return Value
+### Return Value
 
 Value that represent Win32 format of color.
 

@@ -14,7 +14,7 @@ Gets the cadet blue Pen.
 public static Pen CadetBlue { get; }
 ```
 
-## Property Value
+### Property Value
 
 The cadet blue Pen.
 

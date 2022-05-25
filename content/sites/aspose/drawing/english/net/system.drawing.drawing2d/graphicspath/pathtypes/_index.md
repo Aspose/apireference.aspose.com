@@ -14,7 +14,7 @@ Gets the types of the corresponding points in the PathPoints array.
 public byte[] PathTypes { get; }
 ```
 
-## Property Value
+### Property Value
 
 An array of bytes that specifies the types of the corresponding points in the path.
 

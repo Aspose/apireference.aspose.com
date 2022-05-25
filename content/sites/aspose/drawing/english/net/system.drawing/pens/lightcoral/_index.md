@@ -14,7 +14,7 @@ Gets the light coral Pen.
 public static Pen LightCoral { get; }
 ```
 
-## Property Value
+### Property Value
 
 The light coral Pen.
 

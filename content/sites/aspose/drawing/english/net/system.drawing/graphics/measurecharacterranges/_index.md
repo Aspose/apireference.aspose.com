@@ -22,7 +22,7 @@ public Region[] MeasureCharacterRanges(string text, Font font, RectangleF layout
 | layoutRect | RectangleF | RectangleF structure that specifies the layout rectangle for the string. |
 | stringFormat | StringFormat | StringFormat that represents formatting information, such as line spacing, for the string. |
 
-## Return Value
+### Return Value
 
 This method returns an array of Region objects, each of which bounds a range of character positions within the specified string.
 

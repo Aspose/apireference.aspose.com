@@ -14,7 +14,7 @@ Creates an exact copy of this PathGradientBrush.
 public override object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The PathGradientBrush this method creates, cast as an object.
 

@@ -14,7 +14,7 @@ Gets the size of this Icon.
 public Size Size { get; }
 ```
 
-## Property Value
+### Property Value
 
 A Size structure that specifies the width and height of this Icon.
 

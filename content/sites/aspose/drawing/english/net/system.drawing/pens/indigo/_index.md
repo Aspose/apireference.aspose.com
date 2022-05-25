@@ -14,7 +14,7 @@ Gets the indigo Pen.
 public static Pen Indigo { get; }
 ```
 
-## Property Value
+### Property Value
 
 The indigo Pen.
 

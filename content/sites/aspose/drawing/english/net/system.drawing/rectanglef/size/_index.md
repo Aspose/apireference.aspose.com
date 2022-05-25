@@ -14,7 +14,7 @@ Gets or sets the size of this RectangleF.
 public SizeF Size { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A SizeF that represents the width and height of this RectangleF structure.
 

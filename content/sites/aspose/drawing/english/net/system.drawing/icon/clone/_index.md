@@ -14,7 +14,7 @@ Clones the Icon, creating a duplicate image.
 public object Clone()
 ```
 
-## Return Value
+### Return Value
 
 An object that can be cast to an Icon.
 

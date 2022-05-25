@@ -14,7 +14,7 @@ Gets a [`RectangleF`](../../rectanglef) structure that bounds the clipping regio
 public RectangleF ClipBounds { get; }
 ```
 
-## Property Value
+### Property Value
 
 The [`RectangleF`](../../rectanglef) structure that bounds the clipping region of this [`Graphics`](../../graphics).
 

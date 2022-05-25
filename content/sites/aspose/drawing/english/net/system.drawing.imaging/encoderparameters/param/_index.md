@@ -14,7 +14,7 @@ Gets or sets an array of EncoderParameter objects.
 public EncoderParameter[] Param { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The array of EncoderParameter objects.
 

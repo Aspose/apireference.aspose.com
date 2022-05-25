@@ -14,7 +14,7 @@ Gets the light goldenrod yellow Pen.
 public static Pen LightGoldenrodYellow { get; }
 ```
 
-## Property Value
+### Property Value
 
 The light goldenrod yellow Pen.
 

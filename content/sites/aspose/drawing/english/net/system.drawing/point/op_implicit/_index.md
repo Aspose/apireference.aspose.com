@@ -18,7 +18,7 @@ public static implicit operator PointF(Point p)
 | --- | --- | --- |
 | p | Point | The Point to be converted. |
 
-## Return Value
+### Return Value
 
 The PointF that results from the conversion.
 

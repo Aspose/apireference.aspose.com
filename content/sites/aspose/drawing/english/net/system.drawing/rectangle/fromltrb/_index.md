@@ -21,7 +21,7 @@ public static Rectangle FromLTRB(int left, int top, int right, int bottom)
 | right | Int32 | The x-coordinate of the lower-right corner of this Rectangle structure. |
 | bottom | Int32 | The y-coordinate of the lower-right corner of this Rectangle structure. |
 
-## Return Value
+### Return Value
 
 The new Rectangle that this method creates.
 

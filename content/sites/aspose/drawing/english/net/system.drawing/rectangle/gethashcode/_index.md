@@ -14,7 +14,7 @@ Returns the hash code for this Rectangle structure. For information about the us
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 An integer that represents the hash code for this rectangle.
 

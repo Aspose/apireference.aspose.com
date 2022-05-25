@@ -14,7 +14,7 @@ Gets all the property items (pieces of metadata) stored in this Image.
 public abstract PropertyItem[] PropertyItems { get; }
 ```
 
-## Return Value
+### Return Value
 
 An array of [`PropertyItem`](../../../system.drawing.imaging/propertyitem) objects, one for each property item stored in the image.
 

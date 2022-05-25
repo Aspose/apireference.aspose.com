@@ -14,7 +14,7 @@ Gets the last point in the PathPoints array of this [`GraphicsPath`](../../graph
 public PointF GetLastPoint()
 ```
 
-## Return Value
+### Return Value
 
 The last point in the PathPoints array of this [`GraphicsPath`](../../graphicspath).
 

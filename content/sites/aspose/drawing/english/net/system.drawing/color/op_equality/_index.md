@@ -19,7 +19,7 @@ public static bool operator ==(Color left, Color right)
 | left | Color | The Color that is to the left of the equality operator. |
 | right | Color | The Color that is to the right of the equality operator. |
 
-## Return Value
+### Return Value
 
 `true` if the two Color structures are equal; otherwise, `false`.
 

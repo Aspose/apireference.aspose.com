@@ -14,7 +14,7 @@ Returns a value that indicates whether the associated [`Metafile`](../../metafil
 public bool IsEmf()
 ```
 
-## Return Value
+### Return Value
 
 True if the associated [`Metafile`](../../metafile) is in the Windows enhanced metafile format; otherwise, false.
 

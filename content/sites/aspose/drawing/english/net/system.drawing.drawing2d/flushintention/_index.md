@@ -14,7 +14,7 @@ Specifies whether commands in the graphics stack are terminated (flushed) immedi
 public enum FlushIntention
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

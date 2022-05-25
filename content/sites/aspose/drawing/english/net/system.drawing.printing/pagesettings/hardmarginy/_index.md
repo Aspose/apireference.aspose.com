@@ -14,7 +14,7 @@ Gets the y-coordinate, in hundredths of an inch, of the hard margin at the top o
 public float HardMarginY { get; }
 ```
 
-## Return Value
+### Return Value
 
 The y-coordinate, in hundredths of an inch, of the hard margin at the top of the page.
 

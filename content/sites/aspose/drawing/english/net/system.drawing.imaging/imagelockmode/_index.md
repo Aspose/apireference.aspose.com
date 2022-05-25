@@ -14,7 +14,7 @@ Specifies flags that are passed to the flags parameter of the [`LockBits`](../..
 public enum ImageLockMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

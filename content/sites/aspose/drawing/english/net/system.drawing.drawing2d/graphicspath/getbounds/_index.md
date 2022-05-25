@@ -14,7 +14,7 @@ Returns a rectangle that bounds this GraphicsPath.
 public RectangleF GetBounds()
 ```
 
-## Return Value
+### Return Value
 
 A RectangleF that represents a rectangle that bounds this GraphicsPath.
 
@@ -39,7 +39,7 @@ public RectangleF GetBounds(Matrix matrix)
 | --- | --- | --- |
 | matrix | Matrix | The Matrix that specifies a transformation to be applied to this path before the bounding rectangle is calculated. This path is not permanently transformed; the transformation is used only during the process of calculating the bounding rectangle. |
 
-## Return Value
+### Return Value
 
 A RectangleF that represents a rectangle that bounds this GraphicsPath.
 
@@ -66,7 +66,7 @@ public RectangleF GetBounds(Matrix matrix, Pen pen)
 | matrix | Matrix | The Matrix that specifies a transformation to be applied to this path before the bounding rectangle is calculated. This path is not permanently transformed; the transformation is used only during the process of calculating the bounding rectangle. |
 | pen | Pen | The Pen with which to draw the GraphicsPath. |
 
-## Return Value
+### Return Value
 
 A RectangleF that represents a rectangle that bounds this GraphicsPath.
 

@@ -14,7 +14,7 @@ Gets an Icon object that contains the system information icon (WIN32: IDI_INFORM
 public static Icon Information { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the system information icon.
 

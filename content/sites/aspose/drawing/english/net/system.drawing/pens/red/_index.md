@@ -14,7 +14,7 @@ Gets the red Pen.
 public static Pen Red { get; }
 ```
 
-## Property Value
+### Property Value
 
 The red Pen.
 

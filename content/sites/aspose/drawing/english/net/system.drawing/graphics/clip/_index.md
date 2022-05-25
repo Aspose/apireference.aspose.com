@@ -14,7 +14,7 @@ Gets or sets a Region that limits the drawing region of this Graphics.
 public Region Clip { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A Region that limits the portion of this Graphics that is currently available for drawing.
 

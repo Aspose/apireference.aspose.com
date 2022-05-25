@@ -14,7 +14,7 @@ Returns a Windows handle to an enhanced Metafile.
 public IntPtr GetHenhmetafile()
 ```
 
-## Return Value
+### Return Value
 
 A Windows handle to this enhanced Metafile.
 

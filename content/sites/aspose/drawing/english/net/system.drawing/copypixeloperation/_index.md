@@ -14,7 +14,7 @@ Determines how the source color in a copy pixel operation is combined with the d
 public enum CopyPixelOperation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

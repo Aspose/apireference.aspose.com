@@ -14,7 +14,7 @@ Gets the crimson Pen.
 public static Pen Crimson { get; }
 ```
 
-## Property Value
+### Property Value
 
 The crimson Pen.
 

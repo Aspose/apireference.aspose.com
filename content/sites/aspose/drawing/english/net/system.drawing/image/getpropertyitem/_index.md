@@ -18,7 +18,7 @@ public abstract PropertyItem GetPropertyItem(int propid)
 | --- | --- | --- |
 | propid | Int32 | The ID of the property item to get. |
 
-## Return Value
+### Return Value
 
 The [`PropertyItem`](../../../system.drawing.imaging/propertyitem) this method gets.
 

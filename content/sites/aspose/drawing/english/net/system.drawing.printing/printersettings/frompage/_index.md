@@ -14,7 +14,7 @@ Gets the page number of the first page to print.
 public static int FromPage { get; }
 ```
 
-## Return Value
+### Return Value
 
 The page number of the first page to print.
 

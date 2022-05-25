@@ -14,7 +14,7 @@ Gets or sets the alignment for this Pen.
 public PenAlignment Alignment { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A PenAlignment that represents the alignment for this Pen.
 

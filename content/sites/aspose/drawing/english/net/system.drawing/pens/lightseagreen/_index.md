@@ -14,7 +14,7 @@ Gets the light sea green Pen.
 public static Pen LightSeaGreen { get; }
 ```
 
-## Property Value
+### Property Value
 
 The light sea green Pen.
 

@@ -14,7 +14,7 @@ Gets the alpha component value of this Color structure.
 public byte A { get; }
 ```
 
-## Return Value
+### Return Value
 
 The alpha component value of this Color.
 

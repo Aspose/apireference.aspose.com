@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF008000.
 public static Color Green { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

@@ -14,7 +14,7 @@ Gets an array of GUIDs that represent the dimensions of frames within this Image
 public abstract Guid[] FrameDimensionsList { get; }
 ```
 
-## Return Value
+### Return Value
 
 An array of GUIDs that specify the dimensions of frames within this Image from most significant to least significant.
 

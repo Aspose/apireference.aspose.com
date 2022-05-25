@@ -18,7 +18,7 @@ public static Color FromArgb(int argb)
 | --- | --- | --- |
 | argb | Int32 | A value specifying the 32-bit ARGB value. |
 
-## Return Value
+### Return Value
 
 The Color structure that this method creates.
 
@@ -43,7 +43,7 @@ public static Color FromArgb(int alpha, Color baseColor)
 | alpha | Int32 | The alpha value for the new Color. Valid values are 0 through 255. |
 | baseColor | Color | The Color from which to create the new Color. |
 
-## Return Value
+### Return Value
 
 The Color that this method creates.
 
@@ -69,7 +69,7 @@ public static Color FromArgb(int red, int green, int blue)
 | green | Int32 | The green component value for the new Color. Valid values are 0 through 255. |
 | blue | Int32 | The blue component value for the new Color. Valid values are 0 through 255. |
 
-## Return Value
+### Return Value
 
 The Color that this method creates.
 
@@ -96,7 +96,7 @@ public static Color FromArgb(int alpha, int red, int green, int blue)
 | green | Int32 | The green component. Valid values are 0 through 255. |
 | blue | Int32 | The blue component. Valid values are 0 through 255. |
 
-## Return Value
+### Return Value
 
 The Color that this method creates.
 

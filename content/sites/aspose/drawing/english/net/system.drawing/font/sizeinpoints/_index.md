@@ -14,7 +14,7 @@ Gets the em-size, in points, of this Font.
 public float SizeInPoints { get; }
 ```
 
-## Return Value
+### Return Value
 
 The em-size, in points, of this Font.
 

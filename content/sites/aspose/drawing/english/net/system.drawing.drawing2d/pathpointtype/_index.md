@@ -14,7 +14,7 @@ Specifies the type of point in a GraphicsPath object.
 public enum PathPointType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

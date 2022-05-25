@@ -19,7 +19,7 @@ public static object ConvertFrom(CultureInfo culture, object value)
 | culture | CultureInfo | The culture. |
 | value | Object | The value. |
 
-## Return Value
+### Return Value
 
 Returns converted color.
 

@@ -18,7 +18,7 @@ public static string ToHtml(Color c)
 | --- | --- | --- |
 | c | Color | The Color structure to translate. |
 
-## Return Value
+### Return Value
 
 The string that represents the HTML color.
 

@@ -14,7 +14,7 @@ Gets the royal blue Pen.
 public static Pen RoyalBlue { get; }
 ```
 
-## Property Value
+### Property Value
 
 The royal blue Pen.
 

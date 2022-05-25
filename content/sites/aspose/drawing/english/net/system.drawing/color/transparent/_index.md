@@ -14,7 +14,7 @@ Gets a system-defined color.
 public static Color Transparent { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

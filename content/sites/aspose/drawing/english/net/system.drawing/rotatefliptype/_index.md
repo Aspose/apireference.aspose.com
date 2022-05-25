@@ -14,7 +14,7 @@ Specifies the direction of an image's rotation and the axis used to flip the ima
 public enum RotateFlipType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

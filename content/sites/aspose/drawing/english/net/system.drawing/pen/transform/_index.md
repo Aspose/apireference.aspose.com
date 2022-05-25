@@ -14,7 +14,7 @@ Gets or sets a copy of the geometric transformation for this Pen.
 public Matrix Transform { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 A copy of the Matrix that represents the geometric transformation for this Pen.
 

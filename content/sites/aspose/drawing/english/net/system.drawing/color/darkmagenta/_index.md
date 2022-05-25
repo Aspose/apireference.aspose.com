@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF8B008B.
 public static Color DarkMagenta { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

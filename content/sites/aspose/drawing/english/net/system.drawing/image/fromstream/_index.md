@@ -18,7 +18,7 @@ public static Image FromStream(Stream stream)
 | --- | --- | --- |
 | stream | Stream | A Stream that contains the data for this Image. |
 
-## Return Value
+### Return Value
 
 The Image this method creates.
 
@@ -43,7 +43,7 @@ public static Image FromStream(Stream stream, bool useEmbeddedColorManagement)
 | stream | Stream | A Stream that contains the data for this Image. |
 | useEmbeddedColorManagement | Boolean | true to use color management information embedded in the data stream; otherwise, false. |
 
-## Return Value
+### Return Value
 
 The Image this method creates.
 

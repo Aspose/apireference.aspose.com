@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFAFAD2.
 public static Color LightGoldenrodYellow { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

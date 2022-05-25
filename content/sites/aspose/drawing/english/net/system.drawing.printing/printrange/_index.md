@@ -14,7 +14,7 @@ Specifies the part of the document to print.
 public enum PrintRange
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

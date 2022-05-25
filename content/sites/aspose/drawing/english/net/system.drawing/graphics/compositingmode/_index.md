@@ -14,7 +14,7 @@ Gets or sets a value that specifies how composited images are drawn to this Grap
 public CompositingMode CompositingMode { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 This property specifies a member of the CompositingMode enumeration. The default is SourceOver.
 

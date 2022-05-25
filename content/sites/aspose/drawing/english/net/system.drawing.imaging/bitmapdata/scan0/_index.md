@@ -14,7 +14,7 @@ Gets or sets the address of the first pixel data in the bitmap. This can also be
 public IntPtr Scan0 { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The address of the first pixel data in the bitmap.
 

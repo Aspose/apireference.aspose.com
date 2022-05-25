@@ -19,7 +19,7 @@ public static Point Add(Point pt, Size sz)
 | pt | Point | The Point to add. |
 | sz | Size | The Size to add |
 
-## Return Value
+### Return Value
 
 The Point that is the result of the addition operation.
 

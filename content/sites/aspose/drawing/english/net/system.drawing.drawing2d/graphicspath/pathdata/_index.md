@@ -14,7 +14,7 @@ Gets a PathData that encapsulates arrays of points and types for this GraphicsPa
 public PathData PathData { get; }
 ```
 
-## Property Value
+### Property Value
 
 A PathData that encapsulates arrays for both the points and types for this GraphicsPath.
 

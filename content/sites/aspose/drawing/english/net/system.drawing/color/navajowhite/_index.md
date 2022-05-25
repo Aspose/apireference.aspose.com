@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFDEAD.
 public static Color NavajoWhite { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

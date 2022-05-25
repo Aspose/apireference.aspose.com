@@ -20,7 +20,7 @@ public static Rectangle Inflate(Rectangle rect, int x, int y)
 | x | Int32 | The amount to inflate rectangle specified by *rect* horizontally. |
 | y | Int32 | The amount to inflate rectangle specified by *rect* vertically. |
 
-## Return Value
+### Return Value
 
 Returns a [`Rectangle`](../../rectangle) that is inflated by the specified amount.
 

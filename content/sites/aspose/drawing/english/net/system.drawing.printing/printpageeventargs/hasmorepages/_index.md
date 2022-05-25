@@ -14,7 +14,7 @@ Gets or sets a value indicating whether an additional page should be printed.
 public bool HasMorePages { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 `true` if an additional page should be printed; otherwise, false. The default is `false`.
 

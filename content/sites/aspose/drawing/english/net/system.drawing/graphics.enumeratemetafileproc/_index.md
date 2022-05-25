@@ -23,7 +23,7 @@ public delegate bool EnumerateMetafileProc(EmfPlusRecordType recordType, int fla
 | data | IntPtr | Pointer to a buffer that contains the record data. |
 | callbackData | PlayRecordCallback | The argument is not used. |
 
-## Return Value
+### Return Value
 
 Return true if you want to continue enumerating records; otherwise, false.
 

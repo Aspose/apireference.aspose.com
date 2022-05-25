@@ -14,7 +14,7 @@ Gets an Icon object that contains the default application icon (WIN32: IDI_APPLI
 public static Icon Application { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the default application icon.
 

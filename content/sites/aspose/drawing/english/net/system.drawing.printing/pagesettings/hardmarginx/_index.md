@@ -14,7 +14,7 @@ Gets the x-coordinate, in hundredths of an inch, of the hard margin at the left 
 public float HardMarginX { get; }
 ```
 
-## Return Value
+### Return Value
 
 The x-coordinate, in hundredths of an inch, of the left-hand hard margin.
 

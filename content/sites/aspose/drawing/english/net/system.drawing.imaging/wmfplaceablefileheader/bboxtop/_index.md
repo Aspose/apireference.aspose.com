@@ -14,7 +14,7 @@ Gets or sets the y-coordinate of the upper-left corner of the bounding rectangle
 public short BboxTop { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The y-coordinate of the upper-left corner of the bounding rectangle of the metafile image on the output device.
 

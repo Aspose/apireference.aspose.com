@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF40E0D0.
 public static Color Turquoise { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

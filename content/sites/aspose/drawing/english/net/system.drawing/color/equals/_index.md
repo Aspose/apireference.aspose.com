@@ -18,7 +18,7 @@ public bool Equals(Color other)
 | --- | --- | --- |
 | other | Color | The color to test. |
 
-## Return Value
+### Return Value
 
 `true` if the specified color is equivalent to this color; otherwise, `false`.
 
@@ -42,7 +42,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The object to test. |
 
-## Return Value
+### Return Value
 
 `true` if the specified object is equivalent to this color; otherwise, `false`.
 

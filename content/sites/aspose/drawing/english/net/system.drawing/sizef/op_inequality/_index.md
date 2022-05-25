@@ -19,7 +19,7 @@ public static bool operator !=(SizeF sz1, SizeF sz2)
 | sz1 | SizeF | The SizeF structure on the left of the inequality operator. |
 | sz2 | SizeF | The SizeF structure on the right of the inequality operator. |
 
-## Return Value
+### Return Value
 
 This operator returns true if *sz1* and *sz2* differ either in width or height; false if *sz1* and *sz2* are equal.
 

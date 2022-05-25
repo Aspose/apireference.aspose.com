@@ -14,7 +14,7 @@ Gets a value indicating whether this Color structure is uninitialized.
 public bool IsEmpty { get; }
 ```
 
-## Property Value
+### Property Value
 
 This property returns true if this color is uninitialized; otherwise, false.
 

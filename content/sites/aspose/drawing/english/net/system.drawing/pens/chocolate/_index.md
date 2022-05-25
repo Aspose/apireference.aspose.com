@@ -14,7 +14,7 @@ Gets the chocolate Pen.
 public static Pen Chocolate { get; }
 ```
 
-## Property Value
+### Property Value
 
 The chocolate Pen.
 

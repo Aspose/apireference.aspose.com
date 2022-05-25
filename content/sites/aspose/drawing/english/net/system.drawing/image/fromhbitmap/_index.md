@@ -18,7 +18,7 @@ public static Bitmap FromHbitmap(IntPtr hbitmap)
 | --- | --- | --- |
 | hbitmap | IntPtr | The GDI bitmap handle from which to create the Bitmap. |
 
-## Return Value
+### Return Value
 
 The Bitmap this method creates.
 

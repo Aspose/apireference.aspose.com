@@ -14,7 +14,7 @@ Returns the line spacing, in pixels, of this font.
 public float GetHeight()
 ```
 
-## Return Value
+### Return Value
 
 The line spacing, in pixels, of this font.
 
@@ -38,7 +38,7 @@ public float GetHeight(Graphics graphics)
 | --- | --- | --- |
 | graphics | Graphics | A Graphics that holds the vertical resolution, in dots per inch, of the display device as well as settings for page unit and page scale. |
 
-## Return Value
+### Return Value
 
 The line spacing, in pixels, of this font.
 
@@ -63,7 +63,7 @@ public float GetHeight(float dpi)
 | --- | --- | --- |
 | dpi | Single | The vertical resolution, in dots per inch, used to calculate the height of the font. |
 
-## Return Value
+### Return Value
 
 The height, in pixels, of this Font.
 

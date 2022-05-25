@@ -18,7 +18,7 @@ public RectangleF[] GetRegionScans(Matrix matrix)
 | --- | --- | --- |
 | matrix | Matrix | A Matrix that represents a geometric transformation to apply to the region. |
 
-## Return Value
+### Return Value
 
 An array of RectangleF structures that approximate this Region after the specified matrix transformation is applied.
 

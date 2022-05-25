@@ -14,7 +14,7 @@ Returns a value that indicates whether the associated [`Metafile`](../../metafil
 public bool IsWmfPlaceable()
 ```
 
-## Return Value
+### Return Value
 
 True if the associated [`Metafile`](../../metafile) is in the Windows placeable metafile format; otherwise, false.
 

@@ -14,7 +14,7 @@ Gets the [`KnownColor`](../../knowncolor) value of this Color structure.
 public KnownColor ToKnownColor()
 ```
 
-## Return Value
+### Return Value
 
 An element of the [`KnownColor`](../../knowncolor) enumeration, if the Color is created from a predefined color by using either the String) method or the FromKnownColor method; otherwise, 0.
 

@@ -14,7 +14,7 @@ Converts the attributes of this [`Point`](../../point) to a human readable strin
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 This method returns human readable presentation of this object..
 

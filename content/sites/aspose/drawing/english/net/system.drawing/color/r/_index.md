@@ -14,7 +14,7 @@ Gets the red component value of this Color structure.
 public byte R { get; }
 ```
 
-## Return Value
+### Return Value
 
 The red component value of this Color.
 

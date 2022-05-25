@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFDCDCDC.
 public static Color Gainsboro { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

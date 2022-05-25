@@ -14,7 +14,7 @@ Creates an exact copy of this Image.
 public object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The Image this method creates, cast as an object.
 

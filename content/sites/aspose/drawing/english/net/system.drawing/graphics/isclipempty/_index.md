@@ -14,7 +14,7 @@ Gets a value indicating whether the clipping region of this Graphics is empty.
 public bool IsClipEmpty { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if the clipping region of this Graphics is empty; otherwise, `false`.
 

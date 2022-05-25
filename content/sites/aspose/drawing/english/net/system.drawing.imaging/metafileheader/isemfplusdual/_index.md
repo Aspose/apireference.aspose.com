@@ -14,7 +14,7 @@ Returns a value that indicates whether the associated [`Metafile`](../../metafil
 public bool IsEmfPlusDual()
 ```
 
-## Return Value
+### Return Value
 
 True if the associated [`Metafile`](../../metafile) is in the Dual enhanced metafile format; otherwise, false.
 

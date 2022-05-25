@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF8A2BE2.
 public static Color BlueViolet { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

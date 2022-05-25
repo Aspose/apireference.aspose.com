@@ -19,7 +19,7 @@ public Bitmap Clone(Rectangle rect, PixelFormat format)
 | rect | Rectangle | Defines the portion of this Bitmap to copy. Coordinates are relative to this Bitmap. |
 | format | PixelFormat | Specifies the PixelFormat enumeration for the destination Bitmap. |
 
-## Return Value
+### Return Value
 
 The new Bitmap that this method creates.
 
@@ -46,7 +46,7 @@ public Bitmap Clone(RectangleF rect, PixelFormat format)
 | rect | RectangleF | Defines the portion of this Bitmap to copy. |
 | format | PixelFormat | Specifies the PixelFormat enumeration for the destination Bitmap. |
 
-## Return Value
+### Return Value
 
 The Bitmap that this method creates.
 

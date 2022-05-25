@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFA52A2A.
 public static Color Brown { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

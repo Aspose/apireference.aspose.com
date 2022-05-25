@@ -18,7 +18,7 @@ public static int GetPixelFormatSize(PixelFormat pixfmt)
 | --- | --- | --- |
 | pixfmt | PixelFormat | The PixelFormat member that specifies the format for which to find the size. |
 
-## Return Value
+### Return Value
 
 The color depth of the specified pixel format.
 

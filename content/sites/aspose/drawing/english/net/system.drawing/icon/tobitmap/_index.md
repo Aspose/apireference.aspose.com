@@ -14,7 +14,7 @@ Converts this Icon to a GDI+ Bitmap.
 public Bitmap ToBitmap()
 ```
 
-## Return Value
+### Return Value
 
 A Bitmap that represents the converted Icon.
 

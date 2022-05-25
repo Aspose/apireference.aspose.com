@@ -19,7 +19,7 @@ public static Size Add(Size sz1, Size sz2)
 | sz1 | Size | The first Size to add. |
 | sz2 | Size | The second Size to add. |
 
-## Return Value
+### Return Value
 
 A Size structure that is the result of the addition operation.
 

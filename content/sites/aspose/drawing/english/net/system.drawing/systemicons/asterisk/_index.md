@@ -14,7 +14,7 @@ Gets an Icon object that contains the system asterisk icon (WIN32: IDI_ASTERISK)
 public static Icon Asterisk { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the system asterisk icon.
 

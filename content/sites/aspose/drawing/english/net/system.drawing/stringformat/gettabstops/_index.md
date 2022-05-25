@@ -18,7 +18,7 @@ public float[] GetTabStops(out float firstTabOffset)
 | --- | --- | --- |
 | firstTabOffset | Single& | The number of spaces between the beginning of a text line and the first tab stop. |
 
-## Return Value
+### Return Value
 
 An array of distances (in number of spaces) between tab stops.
 

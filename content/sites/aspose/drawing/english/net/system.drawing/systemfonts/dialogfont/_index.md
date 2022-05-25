@@ -14,7 +14,7 @@ Gets a font that applications can use for dialog boxes and forms.
 public static Font DialogFont { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Font that can be used for dialog boxes and forms, depending on the operating system and local culture setting of the system.
 

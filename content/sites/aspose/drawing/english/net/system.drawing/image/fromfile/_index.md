@@ -18,7 +18,7 @@ public static Image FromFile(string filename)
 | --- | --- | --- |
 | filename | String | A string that contains the name of the file from which to create the Image. |
 
-## Return Value
+### Return Value
 
 The Image this method creates.
 

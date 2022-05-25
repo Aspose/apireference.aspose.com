@@ -19,7 +19,7 @@ public static bool operator ==(SizeF sz1, SizeF sz2)
 | sz1 | SizeF | The SizeF structure on the left side of the equality operator. |
 | sz2 | SizeF | The SizeF structure on the right of the equality operator. |
 
-## Return Value
+### Return Value
 
 This operator returns true if *sz1* and *sz2* have equal width and height; otherwise, false.
 

@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF20B2AA.
 public static Color LightSeaGreen { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

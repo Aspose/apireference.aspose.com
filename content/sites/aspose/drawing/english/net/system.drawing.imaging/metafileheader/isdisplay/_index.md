@@ -14,7 +14,7 @@ Returns a value that indicates whether the associated [`Metafile`](../../metafil
 public bool IsDisplay()
 ```
 
-## Return Value
+### Return Value
 
 True if the associated [`Metafile`](../../metafile) is device dependent; otherwise, false.
 

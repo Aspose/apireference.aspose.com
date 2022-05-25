@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFE4C4.
 public static Color Bisque { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

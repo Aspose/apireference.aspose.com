@@ -18,7 +18,7 @@ public static int ToOle(Color c)
 | --- | --- | --- |
 | c | Color | [`Color`](../../color) structure to convert. |
 
-## Return Value
+### Return Value
 
 Value that represent OLE format of color.
 

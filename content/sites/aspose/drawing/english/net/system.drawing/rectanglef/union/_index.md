@@ -19,7 +19,7 @@ public static RectangleF Union(RectangleF a, RectangleF b)
 | a | RectangleF | First rectangle to union. |
 | b | RectangleF | Second rectangle to union. |
 
-## Return Value
+### Return Value
 
 A third RectangleF structure that contains both of the two rectangles that form the union.
 

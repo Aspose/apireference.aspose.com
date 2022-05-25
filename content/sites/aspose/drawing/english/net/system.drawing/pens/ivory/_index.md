@@ -14,7 +14,7 @@ Gets the ivory Pen.
 public static Pen Ivory { get; }
 ```
 
-## Property Value
+### Property Value
 
 The ivory Pen.
 

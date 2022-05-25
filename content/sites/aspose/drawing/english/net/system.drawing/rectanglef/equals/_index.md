@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The Object to compare with this instance. |
 
-## Return Value
+### Return Value
 
 `true` if the specified Object is equal to this instance; otherwise, `false`.
 
@@ -42,7 +42,7 @@ public bool Equals(RectangleF other)
 | --- | --- | --- |
 | other | RectangleF | Other rectangle to test |
 
-## Return Value
+### Return Value
 
 This method returns `true` if other [`RectangleF`](../../rectanglef) structure and its X, Y, Width, and Height properties are equal to the corresponding properties of this [`RectangleF`](../../rectanglef) structure; otherwise, `false`.
 

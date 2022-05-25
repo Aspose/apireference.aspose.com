@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFFAF0.
 public static Color FloralWhite { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFF5EE.
 public static Color SeaShell { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

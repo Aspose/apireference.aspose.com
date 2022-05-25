@@ -14,7 +14,7 @@ Gets the width and height of this image.
 public SizeF PhysicalDimension { get; }
 ```
 
-## Return Value
+### Return Value
 
 A SizeF structure that represents the width and height of this Image.
 

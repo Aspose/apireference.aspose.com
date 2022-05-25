@@ -14,7 +14,7 @@ Gets the navy Pen.
 public static Pen Navy { get; }
 ```
 
-## Property Value
+### Property Value
 
 The navy Pen.
 

@@ -14,7 +14,7 @@ Specifies which GDI+ objects use color adjustment information.
 public enum ColorAdjustType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

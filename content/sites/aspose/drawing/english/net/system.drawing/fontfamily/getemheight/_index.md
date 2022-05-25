@@ -18,7 +18,7 @@ public int GetEmHeight(FontStyle style)
 | --- | --- | --- |
 | style | FontStyle | The FontStyle for which to get the EM height. |
 
-## Return Value
+### Return Value
 
 The height of the EM square.
 

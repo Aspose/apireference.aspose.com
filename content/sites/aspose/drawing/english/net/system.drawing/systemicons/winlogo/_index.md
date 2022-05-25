@@ -14,7 +14,7 @@ Gets an Icon object that contains the Windows logo icon (WIN32: IDI_WINLOGO).
 public static Icon WinLogo { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the winlogo icon.
 

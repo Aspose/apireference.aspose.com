@@ -14,7 +14,7 @@ Returns a value that indicates whether the associated [`Metafile`](../../metafil
 public bool IsWmf()
 ```
 
-## Return Value
+### Return Value
 
 True if the associated [`Metafile`](../../metafile) is in the Windows metafile format; otherwise, false.
 

@@ -19,7 +19,7 @@ public static bool operator ==(Rectangle left, Rectangle right)
 | left | Rectangle | The Rectangle structure that is to the left of the equality operator. |
 | right | Rectangle | The Rectangle structure that is to the right of the equality operator. |
 
-## Return Value
+### Return Value
 
 This operator returns `true` if the two Rectangle structures have equal X, Y, Width, and Height properties.
 

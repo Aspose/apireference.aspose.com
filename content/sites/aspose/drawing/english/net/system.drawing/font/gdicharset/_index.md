@@ -14,7 +14,7 @@ Gets a byte value that specifies the GDI character set that this Font uses.
 public byte GdiCharSet { get; }
 ```
 
-## Return Value
+### Return Value
 
 A byte value that specifies the GDI character set that this Font uses.
 

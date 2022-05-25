@@ -14,7 +14,7 @@ Gets the bounding rectangle of the visible clipping region of this Graphics.
 public RectangleF VisibleClipBounds { get; }
 ```
 
-## Property Value
+### Property Value
 
 A RectangleF structure that represents a bounding rectangle for the visible clipping region of this Graphics.
 

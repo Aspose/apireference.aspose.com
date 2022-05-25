@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFAF0E6.
 public static Color Linen { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

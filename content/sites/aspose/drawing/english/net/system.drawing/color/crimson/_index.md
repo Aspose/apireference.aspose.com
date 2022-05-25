@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFDC143C.
 public static Color Crimson { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

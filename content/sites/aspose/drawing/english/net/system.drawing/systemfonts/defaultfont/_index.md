@@ -14,7 +14,7 @@ Gets the default font that applications can use for dialog boxes and forms.
 public static Font DefaultFont { get; }
 ```
 
-## Return Value
+### Return Value
 
 The default Font of the system. The value returned will vary depending on the user's operating system and the local culture setting of their system.
 

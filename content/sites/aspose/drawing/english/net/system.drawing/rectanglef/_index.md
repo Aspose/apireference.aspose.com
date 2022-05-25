@@ -62,11 +62,11 @@ public struct RectangleF : IEquatable<RectangleF>
 | [implicit operator](../../system.drawing/rectanglef/op_implicit) | Converts the specified Rectangle structure to a RectangleF structure. |
 | [operator !=](../../system.drawing/rectanglef/op_inequality) | Tests whether two RectangleF structures differ in location or size. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Empty](empty) | Represents an instance of the RectangleF class with its members uninitialized. |
+| static readonly [Empty](../../system.drawing/rectanglef/empty) | Represents an instance of the RectangleF class with its members uninitialized. |
 
 ### See Also
 

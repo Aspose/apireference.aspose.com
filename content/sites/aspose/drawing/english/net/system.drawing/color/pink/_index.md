@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFFC0CB.
 public static Color Pink { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

@@ -19,7 +19,7 @@ public static bool operator ==(Point left, Point right)
 | left | Point | First Point to compare. |
 | right | Point | Second Point to compare. |
 
-## Return Value
+### Return Value
 
 true if the X and Y values of *left* and *right* are equal; otherwise, false.
 

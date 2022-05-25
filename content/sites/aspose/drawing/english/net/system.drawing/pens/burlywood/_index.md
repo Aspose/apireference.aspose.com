@@ -14,7 +14,7 @@ Gets the burly wood Pen.
 public static Pen BurlyWood { get; }
 ```
 
-## Property Value
+### Property Value
 
 The burly wood Pen.
 

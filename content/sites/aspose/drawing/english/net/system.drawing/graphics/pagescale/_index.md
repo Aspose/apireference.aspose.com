@@ -14,7 +14,7 @@ Gets or sets the scaling between world units and page units for this Graphics.
 public float PageScale { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 This property specifies a value for the scaling between world units and page units for this Graphics.
 

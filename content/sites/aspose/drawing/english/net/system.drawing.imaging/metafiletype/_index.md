@@ -14,7 +14,7 @@ Specifies types of metafiles.
 public enum MetafileType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

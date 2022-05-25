@@ -14,7 +14,7 @@ Gets or sets the types of the corresponding points in the path.
 public byte[] Types { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 An array of bytes that specify the types of the corresponding points in the path.
 

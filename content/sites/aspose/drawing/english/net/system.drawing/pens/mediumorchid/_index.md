@@ -14,7 +14,7 @@ Gets the medium orchid Pen.
 public static Pen MediumOrchid { get; }
 ```
 
-## Property Value
+### Property Value
 
 The medium orchid Pen.
 

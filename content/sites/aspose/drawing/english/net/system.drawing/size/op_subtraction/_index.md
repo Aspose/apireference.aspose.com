@@ -19,7 +19,7 @@ public static Size operator -(Size sz1, Size sz2)
 | sz1 | Size | The Size structure on the left side of the subtraction operator. |
 | sz2 | Size | The Size structure on the right side of the subtraction operator. |
 
-## Return Value
+### Return Value
 
 A Size structure that is the result of the subtraction operation.
 

@@ -14,7 +14,7 @@ Gets an Icon object that contains the system exclamation icon (WIN32: IDI_EXCLAM
 public static Icon Exclamation { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the system exclamation icon.
 

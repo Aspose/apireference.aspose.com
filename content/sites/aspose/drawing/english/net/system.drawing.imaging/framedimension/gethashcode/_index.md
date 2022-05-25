@@ -14,7 +14,7 @@ Returns a hash code for this FrameDimension object.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 Returns an integer value that is the hash code of this FrameDimension object.
 

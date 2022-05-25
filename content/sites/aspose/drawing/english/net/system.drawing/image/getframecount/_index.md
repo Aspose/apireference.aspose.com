@@ -18,7 +18,7 @@ public int GetFrameCount(FrameDimension dimension)
 | --- | --- | --- |
 | dimension | FrameDimension | A FrameDimension that specifies the identity of the dimension type. |
 
-## Return Value
+### Return Value
 
 The number of frames in the specified dimension.
 

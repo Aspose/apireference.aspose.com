@@ -14,7 +14,7 @@ Converts a SizeF structure to a Size structure.
 public Size ToSize()
 ```
 
-## Return Value
+### Return Value
 
 Returns a Size structure.
 

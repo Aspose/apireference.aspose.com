@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFCD5C5C.
 public static Color IndianRed { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

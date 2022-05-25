@@ -14,7 +14,7 @@ Gets or sets a value indicating the presence of a placeable metafile header.
 public int Key { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A value indicating presence of a placeable metafile header.
 

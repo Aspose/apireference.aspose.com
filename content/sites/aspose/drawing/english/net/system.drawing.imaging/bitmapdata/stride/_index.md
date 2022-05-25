@@ -14,7 +14,7 @@ Gets or sets the stride width (also called scan width) of the Bitmap object.
 public int Stride { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The stride width, in bytes, of the Bitmap object.
 

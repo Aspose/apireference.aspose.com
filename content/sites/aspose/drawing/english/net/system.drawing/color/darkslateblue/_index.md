@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF483D8B.
 public static Color DarkSlateBlue { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

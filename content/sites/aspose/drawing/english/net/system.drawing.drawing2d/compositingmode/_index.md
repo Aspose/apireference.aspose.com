@@ -14,7 +14,7 @@ Specifies how the source colors are combined with the background colors.
 public enum CompositingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

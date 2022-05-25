@@ -14,7 +14,7 @@ Gets the vertical resolution of this Graphics.
 public float DpiY { get; }
 ```
 
-## Return Value
+### Return Value
 
 The value, in dots per inch, for the vertical resolution supported by this Graphics.
 

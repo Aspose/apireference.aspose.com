@@ -14,7 +14,7 @@ Gets the handle to the device context associated with this Graphics.
 public IntPtr GetHdc()
 ```
 
-## Return Value
+### Return Value
 
 Handle to the device context associated with this Graphics.
 

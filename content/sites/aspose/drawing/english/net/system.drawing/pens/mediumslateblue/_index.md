@@ -14,7 +14,7 @@ Gets the medium slate blue Pen.
 public static Pen MediumSlateBlue { get; }
 ```
 
-## Property Value
+### Property Value
 
 The medium slate blue Pen.
 

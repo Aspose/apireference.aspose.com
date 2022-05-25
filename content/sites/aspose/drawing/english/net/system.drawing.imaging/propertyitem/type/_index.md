@@ -14,7 +14,7 @@ Gets or sets an integer that defines the type of data contained in the [`Value`]
 public short Type { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 An integer that defines the type of data contained in [`Value`](../value).
 

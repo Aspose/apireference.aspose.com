@@ -21,7 +21,7 @@ public int CopyData(ref PointF[] points, ref byte[] types, int startIndex, int e
 | startIndex | Int32 | Specifies the starting index of the arrays. |
 | endIndex | Int32 | Specifies the ending index of the arrays. |
 
-## Return Value
+### Return Value
 
 The number of points copied.
 

@@ -14,7 +14,7 @@ Gets a value indicating whether this Color structure is a system color. A system
 public bool IsSystemColor { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this Color was created from a system color by using either the String) method or the KnownColor) method; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets the navajo white Pen.
 public static Pen NavajoWhite { get; }
 ```
 
-## Property Value
+### Property Value
 
 The navajo white Pen.
 

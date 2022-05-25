@@ -18,7 +18,7 @@ public int GetLineSpacing(FontStyle style)
 | --- | --- | --- |
 | style | FontStyle | The FontStyle to apply. |
 
-## Return Value
+### Return Value
 
 The distance between two consecutive lines of text.
 

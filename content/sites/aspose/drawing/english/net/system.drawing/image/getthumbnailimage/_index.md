@@ -22,7 +22,7 @@ public Image GetThumbnailImage(int thumbWidth, int thumbHeight, GetThumbnailImag
 | callback | GetThumbnailImageAbort | A [`GetThumbnailImageAbort`](../../image.getthumbnailimageabort) delegate. Note You must create a delegate and pass a reference to the delegate as the *callback* parameter, but the delegate is not used. |
 | callbackData | IntPtr | Must be Zero. |
 
-## Return Value
+### Return Value
 
 An Image that represents the thumbnail.
 

@@ -50,11 +50,11 @@ public struct SizeF : IEquatable<SizeF>
 | [operator *](../../system.drawing/sizef/op_multiply) | Multiplies [`SizeF`](../sizef) by a Single producing [`SizeF`](../sizef). (2 operators) |
 | [operator -](../../system.drawing/sizef/op_subtraction) | Subtracts the width and height of one SizeF structure from the width and height of another SizeF structure. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Empty](empty) | Gets a SizeF structure that has a Height and Width value of 0. |
+| static readonly [Empty](../../system.drawing/sizef/empty) | Gets a SizeF structure that has a Height and Width value of 0. |
 
 ### See Also
 

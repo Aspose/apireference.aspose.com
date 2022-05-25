@@ -14,7 +14,7 @@ Gets the dark magenta Pen.
 public static Pen DarkMagenta { get; }
 ```
 
-## Property Value
+### Property Value
 
 The dark magenta Pen.
 

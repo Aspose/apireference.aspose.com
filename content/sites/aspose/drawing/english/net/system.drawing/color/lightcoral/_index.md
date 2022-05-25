@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFF08080.
 public static Color LightCoral { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

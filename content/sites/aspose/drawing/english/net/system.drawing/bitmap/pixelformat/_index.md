@@ -14,7 +14,7 @@ Gets the pixel format for this Image.
 public override PixelFormat PixelFormat { get; }
 ```
 
-## Return Value
+### Return Value
 
 A PixelFormat that represents the pixel format for this Image.
 

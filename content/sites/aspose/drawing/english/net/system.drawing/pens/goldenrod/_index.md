@@ -14,7 +14,7 @@ Gets the goldenrod Pen.
 public static Pen Goldenrod { get; }
 ```
 
-## Property Value
+### Property Value
 
 The goldenrod Pen.
 

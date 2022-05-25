@@ -19,7 +19,7 @@ public static SizeF Subtract(SizeF sz1, SizeF sz2)
 | sz1 | SizeF | The SizeF structure on the left side of the subtraction operator. |
 | sz2 | SizeF | The SizeF structure on the right side of the subtraction operator. |
 
-## Return Value
+### Return Value
 
 A SizeF structure that is a result of the subtraction operation.
 

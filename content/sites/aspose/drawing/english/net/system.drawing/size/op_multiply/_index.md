@@ -19,7 +19,7 @@ public static Size operator *(int left, Size right)
 | left | Int32 | Multiplier of type Int32. |
 | right | Size | Multiplicand of type [`Size`](../../size). |
 
-## Return Value
+### Return Value
 
 Product of type [`Size`](../../size).
 
@@ -44,7 +44,7 @@ public static Size operator *(Size left, int right)
 | left | Size | Multiplicand of type [`Size`](../../size). |
 | right | Int32 | Multiplier of type Int32. |
 
-## Return Value
+### Return Value
 
 Product of type [`Size`](../../size).
 
@@ -69,7 +69,7 @@ public static SizeF operator *(float left, Size right)
 | left | Single | Multiplier of type Single. |
 | right | Size | Multiplicand of type [`Size`](../../size). |
 
-## Return Value
+### Return Value
 
 Product of type [`SizeF`](../../sizef).
 
@@ -95,7 +95,7 @@ public static SizeF operator *(Size left, float right)
 | left | Size | Multiplicand of type [`Size`](../../size). |
 | right | Single | Multiplier of type Single. |
 
-## Return Value
+### Return Value
 
 Product of type [`SizeF`](../../sizef).
 

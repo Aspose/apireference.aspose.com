@@ -14,7 +14,7 @@ Gets or sets an array of PointF structures that represents the points through wh
 public PointF[] Points { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 TAn array of PointF objects that represents the points through which the path is constructed.
 

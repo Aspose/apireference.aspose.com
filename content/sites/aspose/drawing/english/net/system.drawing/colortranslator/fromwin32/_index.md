@@ -18,7 +18,7 @@ public static Color FromWin32(int win32Color)
 | --- | --- | --- |
 | win32Color | Int32 | The Windows color to translate. |
 
-## Return Value
+### Return Value
 
 The Color structure that represents the translated Windows color.
 

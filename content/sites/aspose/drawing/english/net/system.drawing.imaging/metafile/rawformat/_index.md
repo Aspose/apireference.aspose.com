@@ -14,7 +14,7 @@ Gets the file format of this Image.
 public override ImageFormat RawFormat { get; }
 ```
 
-## Return Value
+### Return Value
 
 The ImageFormat that represents the file format of this Image.
 

@@ -14,7 +14,7 @@ Gets an Icon object that contains the system warning icon (WIN32: IDI_WARNING).
 public static Icon Warning { get; }
 ```
 
-## Property Value
+### Property Value
 
 An Icon object that contains the warning icon.
 

@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FF5F9EA0.
 public static Color CadetBlue { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

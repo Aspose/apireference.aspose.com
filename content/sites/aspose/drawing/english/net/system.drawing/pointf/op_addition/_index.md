@@ -19,7 +19,7 @@ public static PointF operator +(PointF pt, Size sz)
 | pt | PointF | The [`PointF`](../../pointf) to add. |
 | sz | Size | The [`Size`](../../size) to add |
 
-## Return Value
+### Return Value
 
 The [`PointF`](../../pointf) that is the result of the addition operation.
 
@@ -45,7 +45,7 @@ public static PointF operator +(PointF pt, SizeF sz)
 | pt | PointF | The [`PointF`](../../pointf) to add. |
 | sz | SizeF | The [`SizeF`](../../sizef) to add |
 
-## Return Value
+### Return Value
 
 The [`PointF`](../../pointf) that is the result of the addition operation.
 

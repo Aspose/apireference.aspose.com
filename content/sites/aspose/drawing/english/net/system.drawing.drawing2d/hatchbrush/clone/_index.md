@@ -14,7 +14,7 @@ Creates an exact copy of this HatchBrush object.
 public override object Clone()
 ```
 
-## Return Value
+### Return Value
 
 The HatchBrush this method creates, cast as an object.
 

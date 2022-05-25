@@ -14,7 +14,7 @@ Gets the medium aquamarine Pen.
 public static Pen MediumAquamarine { get; }
 ```
 
-## Property Value
+### Property Value
 
 The medium aquamarine Pen.
 

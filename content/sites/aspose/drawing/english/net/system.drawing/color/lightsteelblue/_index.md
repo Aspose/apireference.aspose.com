@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFB0C4DE.
 public static Color LightSteelBlue { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

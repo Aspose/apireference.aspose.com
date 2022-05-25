@@ -14,7 +14,7 @@ Gets or sets the height of the arrow cap.
 public float Height { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The height of the arrow cap.
 

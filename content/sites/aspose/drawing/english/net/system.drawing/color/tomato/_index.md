@@ -14,7 +14,7 @@ Gets a system-defined color that has an ARGB value of #FFFF6347.
 public static Color Tomato { get; }
 ```
 
-## Return Value
+### Return Value
 
 A Color representing a system-defined color.
 

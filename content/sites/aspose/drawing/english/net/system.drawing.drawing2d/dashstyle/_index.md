@@ -14,7 +14,7 @@ Specifies the style of dashed lines drawn with a Pen object.
 public enum DashStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |
