@@ -14,7 +14,7 @@ Creates a copy of this device.
 public override Device Create()
 ```
 
-## Return Value
+### Return Value
 
 Copy of this device.
 

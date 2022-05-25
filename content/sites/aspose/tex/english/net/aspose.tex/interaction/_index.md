@@ -14,7 +14,7 @@ Represents increasing amounts of user interaction.
 public enum Interaction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

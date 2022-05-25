@@ -18,7 +18,7 @@ public static TeXOptions ConsoleAppOptions(TeXConfig config)
 | --- | --- | --- |
 | config | TeXConfig | A TeX config. |
 
-## Return Value
+### Return Value
 
 TeX options.
 

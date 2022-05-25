@@ -20,6 +20,14 @@ public sealed class BuildVersionInfo
 | --- | --- |
 | [BuildVersionInfo](buildversioninfo)() | The default constructor. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [AssemblyVersion](../../aspose.tex/buildversioninfo/assemblyversion) | Assembly Version |
+| const [FileVersion](../../aspose.tex/buildversioninfo/fileversion) | File Version |
+| const [Product](../../aspose.tex/buildversioninfo/product) | Product Name |
+
 ### See Also
 
 * namespace [Aspose.TeX](../../aspose.tex)

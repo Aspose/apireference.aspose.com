@@ -18,7 +18,7 @@ public static TeXConfig ObjectTeX(FormatProvider formatProvider = null)
 | --- | --- | --- |
 | formatProvider | FormatProvider | The format provider. If left equal to null then default ObjectTeX format (which is essentially Plain TeX) will be loaded. |
 
-## Return Value
+### Return Value
 
 "ObjectTeX engine extension with provided format preloaded" configuration.
 

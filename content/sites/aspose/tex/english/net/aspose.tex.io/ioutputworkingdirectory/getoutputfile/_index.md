@@ -19,7 +19,7 @@ public Stream GetOutputFile(string fileName, out string fullName)
 | fileName | String | The file name. |
 | fullName | String& | The full file name. |
 
-## Return Value
+### Return Value
 
 The stream.
 

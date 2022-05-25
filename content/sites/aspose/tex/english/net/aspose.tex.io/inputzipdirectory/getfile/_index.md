@@ -20,7 +20,7 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | fullName | String& | The full file name. |
 | searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories. |
 
-## Return Value
+### Return Value
 
 The stream.
 

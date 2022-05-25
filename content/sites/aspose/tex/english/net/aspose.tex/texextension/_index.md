@@ -14,6 +14,12 @@ Class defining constants to choose a TeX engine extension from.
 public class TeXExtension
 ```
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static readonly [ObjectTeX](../../aspose.tex/texextension/objecttex) | ObjectTeX extensions. |
+
 ### See Also
 
 * namespace [Aspose.TeX](../../aspose.tex)
