@@ -14,7 +14,7 @@ Transaction type enum.
 public enum TransactionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

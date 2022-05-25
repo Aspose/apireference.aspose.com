@@ -14,7 +14,7 @@ Investment account type enum.
 public enum InvestmentAccountEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

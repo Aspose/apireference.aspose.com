@@ -14,7 +14,7 @@ Add a [`XbrlInstance`](../../xbrlinstance) to the collection.
 public int Add()
 ```
 
-## Return Value
+### Return Value
 
 [`XbrlInstance`](../../xbrlinstance) object index.
 

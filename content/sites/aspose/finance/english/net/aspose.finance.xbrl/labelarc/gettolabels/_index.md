@@ -14,7 +14,7 @@ Gets the collection of to [`Label`](../../label) in the [`LabelArc`](../../label
 public List<Label> GetToLabels()
 ```
 
-## Return Value
+### Return Value
 
 The collection of to [`Label`](../../label).
 

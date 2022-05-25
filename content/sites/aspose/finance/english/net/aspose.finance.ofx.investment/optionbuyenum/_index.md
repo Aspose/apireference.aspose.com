@@ -14,7 +14,7 @@ Option buy type enum.
 public enum OptionBuyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

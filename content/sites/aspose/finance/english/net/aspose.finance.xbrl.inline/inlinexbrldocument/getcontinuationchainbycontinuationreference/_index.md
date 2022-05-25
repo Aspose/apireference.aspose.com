@@ -19,7 +19,7 @@ public List<InlineContinuation> GetContinuationChainByContinuationReference(
 | --- | --- | --- |
 | continuationReference | String | The continuation reference |
 
-## Return Value
+### Return Value
 
 The continuation chain.
 

@@ -14,7 +14,7 @@ Ofx exception type enum.
 public enum OfxExceptionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

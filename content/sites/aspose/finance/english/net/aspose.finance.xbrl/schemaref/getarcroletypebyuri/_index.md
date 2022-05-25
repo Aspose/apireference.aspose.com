@@ -18,7 +18,7 @@ public ArcroleType GetArcroleTypeByURI(string arcroleTypeUri)
 | --- | --- | --- |
 | arcroleTypeUri | String | The arc role type uri. |
 
-## Return Value
+### Return Value
 
 The ArcroleType.
 

@@ -14,7 +14,7 @@ Image type enum.
 public enum ImageTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

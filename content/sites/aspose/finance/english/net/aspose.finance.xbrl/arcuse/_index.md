@@ -14,7 +14,7 @@ The arc use enum.
 public enum ArcUse
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

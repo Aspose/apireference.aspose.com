@@ -14,7 +14,7 @@ Secured type enum.
 public enum SecuredEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

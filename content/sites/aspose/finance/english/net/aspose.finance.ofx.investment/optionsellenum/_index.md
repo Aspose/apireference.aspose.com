@@ -14,7 +14,7 @@ Option sell enum.
 public enum OptionSellEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

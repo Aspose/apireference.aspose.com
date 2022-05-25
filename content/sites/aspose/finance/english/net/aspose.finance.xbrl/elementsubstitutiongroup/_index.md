@@ -14,7 +14,7 @@ url: /net/aspose.finance.xbrl/elementsubstitutiongroup/
 public enum ElementSubstitutionGroup
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

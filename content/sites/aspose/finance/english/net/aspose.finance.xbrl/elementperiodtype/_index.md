@@ -14,7 +14,7 @@ url: /net/aspose.finance.xbrl/elementperiodtype/
 public enum ElementPeriodType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

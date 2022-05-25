@@ -14,7 +14,7 @@ Duration enum.
 public enum DurationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

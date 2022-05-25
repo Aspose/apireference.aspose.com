@@ -14,7 +14,7 @@ url: /net/aspose.finance.xbrl/elementbalancetype/
 public enum ElementBalanceType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

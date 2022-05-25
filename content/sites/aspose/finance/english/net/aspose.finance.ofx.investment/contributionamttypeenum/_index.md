@@ -12,7 +12,7 @@ url: /net/aspose.finance.ofx.investment/contributionamttypeenum/
 public enum ContributionAmtTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

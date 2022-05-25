@@ -14,7 +14,7 @@ Investment income type enum.
 public enum IncomeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

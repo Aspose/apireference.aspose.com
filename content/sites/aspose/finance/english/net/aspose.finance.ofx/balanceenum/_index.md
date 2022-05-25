@@ -14,7 +14,7 @@ Balance type enum
 public enum BalanceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

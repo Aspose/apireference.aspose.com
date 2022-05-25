@@ -14,7 +14,7 @@ Check status enum.
 public enum CheckStatusEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

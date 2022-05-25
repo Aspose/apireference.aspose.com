@@ -14,7 +14,7 @@ Frequency type enum.
 public enum FrequencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

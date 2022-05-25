@@ -14,7 +14,7 @@ Position type enum.
 public enum PositionTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

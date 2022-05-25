@@ -14,7 +14,7 @@ Payment for type enum.
 public enum ExtendedPaymentForEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

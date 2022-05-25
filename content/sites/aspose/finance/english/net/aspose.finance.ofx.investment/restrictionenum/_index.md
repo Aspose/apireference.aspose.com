@@ -14,7 +14,7 @@ Restriction enum.
 public enum RestrictionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

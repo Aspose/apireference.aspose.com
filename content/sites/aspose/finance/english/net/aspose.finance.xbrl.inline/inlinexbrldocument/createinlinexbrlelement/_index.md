@@ -19,7 +19,7 @@ public InlineXbrlElement CreateInlineXbrlElement(string name, string prefix = nu
 | name | String | The inline xbrl element local name. |
 | prefix | String | The inline xbrl element prefix. |
 
-## Return Value
+### Return Value
 
 The created inline xbrl element.
 

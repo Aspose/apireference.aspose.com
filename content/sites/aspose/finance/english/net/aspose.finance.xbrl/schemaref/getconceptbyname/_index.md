@@ -18,7 +18,7 @@ public Concept GetConceptByName(string conceptName)
 | --- | --- | --- |
 | conceptName | String | Concept name. |
 
-## Return Value
+### Return Value
 
 The concept.
 

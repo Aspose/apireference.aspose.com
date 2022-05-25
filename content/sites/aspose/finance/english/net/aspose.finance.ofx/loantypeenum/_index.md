@@ -14,7 +14,7 @@ Loan type enum.
 public enum LoanTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

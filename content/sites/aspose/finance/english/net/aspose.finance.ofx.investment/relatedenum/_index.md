@@ -14,7 +14,7 @@ Related option transaction type enum.
 public enum RelatedEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

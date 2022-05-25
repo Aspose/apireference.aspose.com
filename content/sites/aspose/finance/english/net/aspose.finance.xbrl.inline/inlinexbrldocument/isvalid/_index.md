@@ -14,7 +14,7 @@ Checks whether this inlince XBRL document is valid.
 public bool IsValid()
 ```
 
-## Return Value
+### Return Value
 
 If valid, return true, otherwise false.
 

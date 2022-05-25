@@ -14,7 +14,7 @@ Gets the collection of to [`Footnote`](../../footnote) in the [`FootnoteArc`](..
 public List<Footnote> GetToFootnotes()
 ```
 
-## Return Value
+### Return Value
 
 The collection of to [`Footnote`](../../footnote).
 

@@ -18,7 +18,7 @@ public RoleType GetRoleTypeByURI(string roleTypeUri)
 | --- | --- | --- |
 | roleTypeUri | String | The role type uri. |
 
-## Return Value
+### Return Value
 
 The RoleType.
 

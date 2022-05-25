@@ -14,7 +14,7 @@ Account holder type enum.
 public enum HolderTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

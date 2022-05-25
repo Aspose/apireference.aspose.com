@@ -14,7 +14,7 @@ Transfer action type enum.
 public enum InOutEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

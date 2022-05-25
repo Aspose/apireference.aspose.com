@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The compared object. |
 
-## Return Value
+### Return Value
 
 If equal, return true; otherwise false.
 

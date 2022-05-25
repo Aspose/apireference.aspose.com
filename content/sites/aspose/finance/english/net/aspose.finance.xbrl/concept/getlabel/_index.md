@@ -18,7 +18,7 @@ public string GetLabel(string preferredLabel)
 | --- | --- | --- |
 | preferredLabel | String | The preferred label. |
 
-## Return Value
+### Return Value
 
 The concept label.
 

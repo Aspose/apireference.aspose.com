@@ -14,7 +14,7 @@ Sell type enum.
 public enum SellTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

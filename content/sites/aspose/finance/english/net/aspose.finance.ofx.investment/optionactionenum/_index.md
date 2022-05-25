@@ -14,7 +14,7 @@ Option action type enum.
 public enum OptionActionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

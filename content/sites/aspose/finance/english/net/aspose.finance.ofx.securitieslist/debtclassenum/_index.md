@@ -14,7 +14,7 @@ Debt classification enum.
 public enum DebtClassEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

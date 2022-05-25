@@ -14,7 +14,7 @@ Loan transaction type enum.
 public enum LoanTransactionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

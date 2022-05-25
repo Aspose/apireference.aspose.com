@@ -14,7 +14,7 @@ Contribution allocation type.
 public enum ContributionTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

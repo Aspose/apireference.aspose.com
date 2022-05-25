@@ -14,7 +14,7 @@ Severity enum.
 public enum SeverityEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

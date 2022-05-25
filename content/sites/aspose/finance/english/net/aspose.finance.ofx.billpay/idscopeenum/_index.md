@@ -14,7 +14,7 @@ payee ID scope type enum.
 public enum IdScopeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

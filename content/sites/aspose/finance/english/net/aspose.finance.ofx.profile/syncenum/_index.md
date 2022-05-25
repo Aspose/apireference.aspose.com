@@ -14,7 +14,7 @@ Synchronization mode enum.
 public enum SyncEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

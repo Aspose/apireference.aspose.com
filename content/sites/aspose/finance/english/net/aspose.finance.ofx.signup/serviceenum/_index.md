@@ -14,7 +14,7 @@ Service type enum.
 public enum ServiceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

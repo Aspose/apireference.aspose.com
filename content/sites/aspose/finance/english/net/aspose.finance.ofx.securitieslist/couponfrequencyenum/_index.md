@@ -14,7 +14,7 @@ Coupon frequency enum.
 public enum CouponFrequencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

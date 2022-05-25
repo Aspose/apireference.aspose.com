@@ -14,7 +14,7 @@ Option type enum.
 public enum OptionTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Bill type enum.
 public enum BillTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

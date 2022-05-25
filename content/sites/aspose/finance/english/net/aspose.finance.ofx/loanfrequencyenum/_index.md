@@ -14,7 +14,7 @@ Loan frequency enum.
 public enum LoanFrequencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

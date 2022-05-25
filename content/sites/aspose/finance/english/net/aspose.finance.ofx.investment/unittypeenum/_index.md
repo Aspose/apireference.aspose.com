@@ -14,7 +14,7 @@ Unit type enum.
 public enum UnitTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

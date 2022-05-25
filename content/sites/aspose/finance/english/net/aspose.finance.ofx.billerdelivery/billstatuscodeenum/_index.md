@@ -14,7 +14,7 @@ Bill status code enum.
 public enum BillStatusCodeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

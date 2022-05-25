@@ -54,7 +54,7 @@ Export to XbrlDocument object.
 public XbrlDocument ExportToXbrl()
 ```
 
-## Return Value
+### Return Value
 
 The XbrlDocument object.
 

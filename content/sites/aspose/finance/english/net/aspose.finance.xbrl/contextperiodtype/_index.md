@@ -14,7 +14,7 @@ url: /net/aspose.finance.xbrl/contextperiodtype/
 public enum ContextPeriodType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

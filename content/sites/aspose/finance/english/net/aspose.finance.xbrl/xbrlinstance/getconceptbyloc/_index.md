@@ -18,7 +18,7 @@ public Concept GetConceptByLoc(Loc loc)
 | --- | --- | --- |
 | loc | Loc | The locator |
 
-## Return Value
+### Return Value
 
 The concept.
 

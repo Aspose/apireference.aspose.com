@@ -14,7 +14,7 @@ Debt type enum.
 public enum DebtEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

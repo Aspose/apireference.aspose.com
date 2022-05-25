@@ -14,7 +14,7 @@ Buy type enum.
 public enum BuyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

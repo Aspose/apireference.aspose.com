@@ -14,7 +14,7 @@ Get all linkbase reference collections in xbrl instance and schema references.
 public List<LinkbaseRefCollection> GetAllLinkbaseRefCollections()
 ```
 
-## Return Value
+### Return Value
 
 All linkbase reference collections in xbrl instance and schema references.
 

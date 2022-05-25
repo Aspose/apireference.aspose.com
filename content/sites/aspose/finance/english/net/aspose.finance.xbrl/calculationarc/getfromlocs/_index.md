@@ -14,7 +14,7 @@ Gets the collection of from [`Loc`](../../loc) in the [`CalculationArc`](../../c
 public List<Loc> GetFromLocs()
 ```
 
-## Return Value
+### Return Value
 
 The collection of from [`Loc`](../../loc).
 

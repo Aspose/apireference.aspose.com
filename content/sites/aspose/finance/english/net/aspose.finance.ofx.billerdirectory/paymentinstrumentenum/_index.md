@@ -14,7 +14,7 @@ Payment instrument type enum.
 public enum PaymentInstrumentEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

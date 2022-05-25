@@ -12,7 +12,7 @@ url: /net/aspose.finance.xbrl/saveformat/
 public enum SaveFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

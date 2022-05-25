@@ -14,7 +14,7 @@ Security level enum.
 public enum SecurityEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

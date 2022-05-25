@@ -14,7 +14,7 @@ Returns an enumerator that iterates through the collection.
 public IEnumerator<LinkbaseRef> GetEnumerator()
 ```
 
-## Return Value
+### Return Value
 
 An enumerator that can be used to iterate through the collection.
 

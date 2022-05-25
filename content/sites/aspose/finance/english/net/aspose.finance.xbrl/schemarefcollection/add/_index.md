@@ -20,7 +20,7 @@ public int Add(string href, string namespacePrefix, string namspaceUri)
 | namespacePrefix | String | Schema reference namespace prefix |
 | namspaceUri | String | Schema reference namespace URI. |
 
-## Return Value
+### Return Value
 
 [`SchemaRef`](../../schemaref) object index.
 
@@ -45,7 +45,7 @@ public int Add(string href, string namespacePrefix)
 | href | String | Schema reference href URI. |
 | namespacePrefix | String | Schema reference namespace prefix |
 
-## Return Value
+### Return Value
 
 [`SchemaRef`](../../schemaref) object index.
 

@@ -14,7 +14,7 @@ Loan rate type enum.
 public enum LoanRateEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

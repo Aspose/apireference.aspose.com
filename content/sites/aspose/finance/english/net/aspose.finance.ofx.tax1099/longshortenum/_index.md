@@ -14,7 +14,7 @@ Long short enum.
 public enum LongShortEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

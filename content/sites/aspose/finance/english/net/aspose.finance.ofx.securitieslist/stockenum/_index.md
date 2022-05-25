@@ -14,7 +14,7 @@ Stock type enum.
 public enum StockEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Mutual fund type enum.
 public enum MutualFundTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

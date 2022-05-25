@@ -14,7 +14,7 @@ Currency identifiers enum, based on the ISO-4217.
 public enum CurrencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Amortization type enum.
 public enum AmortizationType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

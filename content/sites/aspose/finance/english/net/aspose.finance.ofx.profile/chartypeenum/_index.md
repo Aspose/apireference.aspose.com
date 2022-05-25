@@ -14,7 +14,7 @@ Type enum of characters allowed in password.
 public enum CharTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

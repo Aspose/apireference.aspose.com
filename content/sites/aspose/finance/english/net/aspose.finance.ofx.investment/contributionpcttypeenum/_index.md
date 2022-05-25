@@ -14,7 +14,7 @@ Contribution pecent type enum.
 public enum ContributionPctTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

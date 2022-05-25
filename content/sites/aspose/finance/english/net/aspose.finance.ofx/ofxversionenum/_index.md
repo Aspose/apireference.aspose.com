@@ -14,7 +14,7 @@ Ofx version enum.
 public enum OfxVersionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

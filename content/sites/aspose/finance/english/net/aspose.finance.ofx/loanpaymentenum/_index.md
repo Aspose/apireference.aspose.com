@@ -14,7 +14,7 @@ Loan payment type enum.
 public enum LoanPaymentEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

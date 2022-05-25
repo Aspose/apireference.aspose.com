@@ -14,7 +14,7 @@ Investment frequency type enum.
 public enum InvestmentFrequencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |
