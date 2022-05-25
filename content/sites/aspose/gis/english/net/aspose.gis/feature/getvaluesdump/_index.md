@@ -18,7 +18,7 @@ public object[] GetValuesDump(object defaultValue = null)
 | --- | --- | --- |
 | defaultValue | Object | The value to return if the attribute value is missing (unset). Default value is `null`. Consider to use 'DBNull.Value' for separating 'unset' and '`null`' values. |
 
-## Return Value
+### Return Value
 
 A new array into which to copy the attributes values.
 

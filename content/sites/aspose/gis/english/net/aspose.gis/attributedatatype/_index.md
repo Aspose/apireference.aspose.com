@@ -14,7 +14,7 @@ The data type of a feature attribute.
 public enum AttributeDataType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

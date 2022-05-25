@@ -14,7 +14,7 @@ Gets a number of significant digits in a precision model if it is rounding.
 public abstract int SignificantDigits { get; }
 ```
 
-## Property Value
+### Property Value
 
 Number of significant digits if this is a rounded precision model. -1 if this is an exact precision model.
 

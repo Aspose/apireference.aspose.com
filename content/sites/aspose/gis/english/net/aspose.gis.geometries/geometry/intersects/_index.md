@@ -18,7 +18,7 @@ public bool Intersects(Extent extent)
 | --- | --- | --- |
 | extent | Extent | The extent. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry intersects the extent; `false` otherwise.
 
@@ -50,7 +50,7 @@ public bool Intersects(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry "spatially intersects" another geometry. `false` otherwise.
 

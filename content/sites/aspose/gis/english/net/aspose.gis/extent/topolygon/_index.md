@@ -14,7 +14,7 @@ Converts this extent to a rectangular polygon that represents it.
 public Polygon ToPolygon()
 ```
 
-## Return Value
+### Return Value
 
 A rectangular [`Polygon`](../../../aspose.gis.geometries/polygon) that represents this extent. For invalid extents an empty polygon is returned.
 

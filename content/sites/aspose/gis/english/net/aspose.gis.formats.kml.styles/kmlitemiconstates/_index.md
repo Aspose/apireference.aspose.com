@@ -14,7 +14,7 @@ Specifies the current state of a kml:NetworkLink or kml:Folder.
 public enum KmlItemIconStates
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

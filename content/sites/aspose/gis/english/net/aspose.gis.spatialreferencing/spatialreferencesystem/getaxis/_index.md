@@ -18,7 +18,7 @@ public abstract Axis GetAxis(int dimension)
 | --- | --- | --- |
 | dimension | Int32 | Number of dimension. |
 
-## Return Value
+### Return Value
 
 Axis that describes dimension.
 

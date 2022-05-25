@@ -18,7 +18,7 @@ public IGeometry Intersection(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry to compute intersection with. |
 
-## Return Value
+### Return Value
 
 A geometry that represents an intersection of this geometry and an argument. The result geometry contain point set that present in both this geometry and an argument.
 

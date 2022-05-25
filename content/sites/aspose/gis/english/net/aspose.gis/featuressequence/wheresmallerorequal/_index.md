@@ -20,7 +20,7 @@ public virtual FeaturesSequence WhereSmallerOrEqual<T>(string attributeName, T v
 | attributeName | Attribute to filter by. |
 | value | Value to compare against. |
 
-## Return Value
+### Return Value
 
 Features with attribute value smaller or equal to the provided value.
 

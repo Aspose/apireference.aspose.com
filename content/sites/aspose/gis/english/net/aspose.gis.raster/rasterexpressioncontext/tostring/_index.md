@@ -14,7 +14,7 @@ Returns the fully qualified type name of this instance.
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 The fully qualified type name.
 

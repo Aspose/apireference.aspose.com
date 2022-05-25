@@ -14,7 +14,7 @@ Gets the type of the geometry for the layer.
 public abstract GeometryType GeometryType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the geometry.
 

@@ -19,7 +19,7 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 | path | String | Path to the file. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`VectorLayer`](../../vectorlayer).
 
@@ -55,7 +55,7 @@ public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = 
 | path | AbstractPath | Path to the file. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`VectorLayer`](../../vectorlayer).
 

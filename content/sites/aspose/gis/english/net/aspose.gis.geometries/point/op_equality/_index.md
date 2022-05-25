@@ -19,7 +19,7 @@ public static bool operator ==(Point a, Point b)
 | a | Point | The A instance. |
 | b | Point | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

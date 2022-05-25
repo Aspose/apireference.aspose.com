@@ -14,7 +14,7 @@ Specifies how the label is aligned with the line.
 public enum LineLabelAlignment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

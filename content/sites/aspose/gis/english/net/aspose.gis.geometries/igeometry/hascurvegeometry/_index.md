@@ -14,7 +14,7 @@ Gets a value indicating whether this geometry is or contains curve (not linear) 
 public bool HasCurveGeometry { get; }
 ```
 
-## Property Value
+### Property Value
 
 `false` if this geometry and all geometries it contains are linear; otherwise, `true`.
 

@@ -14,7 +14,7 @@ Specifies a filling pattern.
 public enum FillStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

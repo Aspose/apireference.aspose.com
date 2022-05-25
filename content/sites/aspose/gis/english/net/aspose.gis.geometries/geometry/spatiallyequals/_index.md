@@ -18,7 +18,7 @@ public bool SpatiallyEquals(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry "spatially equals" to specified geometry. `false` otherwise.
 

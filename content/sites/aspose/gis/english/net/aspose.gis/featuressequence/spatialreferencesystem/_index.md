@@ -14,7 +14,7 @@ Gets spatial reference system of this features sequence.
 public abstract SpatialReferenceSystem SpatialReferenceSystem { get; }
 ```
 
-## Property Value
+### Property Value
 
 Spatial reference system. Can be `null` if it is unknown.
 

@@ -19,7 +19,7 @@ public static bool TryParsePointText(string text, out IPoint point)
 | text | String | A string that contains coordinates to convert. The string should contain both coordinate latitude and longitude. Coordinates should be separated by whitespace, by comma or by semicolon. |
 | point | IPoint& | When this method returns, contains the IPoint object with parsed coordinates, if the conversion succeeded, or null if the conversion failed. |
 
-## Return Value
+### Return Value
 
 True if text was parsed successfully, otherwise False.
 

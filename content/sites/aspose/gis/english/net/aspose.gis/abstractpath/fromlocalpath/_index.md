@@ -18,7 +18,7 @@ public static AbstractPath FromLocalPath(string path)
 | --- | --- | --- |
 | path | String | A path on the local filesystem, like `"C:\\file.shp"` or `"D:\\directory\\"`. |
 
-## Return Value
+### Return Value
 
 An [`AbstractPath`](../../abstractpath) that represents the location defined by the *path*.
 

@@ -14,7 +14,7 @@ Computes and returns a bounding extent of this geometry.
 public Extent GetExtent()
 ```
 
-## Return Value
+### Return Value
 
 A bounding extent of this geometry.
 

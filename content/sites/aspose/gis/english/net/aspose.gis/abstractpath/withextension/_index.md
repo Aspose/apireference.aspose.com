@@ -18,7 +18,7 @@ public virtual AbstractPath WithExtension(string newExtension)
 | --- | --- | --- |
 | newExtension | String | A new extension. |
 
-## Return Value
+### Return Value
 
 A new [`AbstractPath`](../../abstractpath), that points to a file in the same directory, but with a new extension.
 

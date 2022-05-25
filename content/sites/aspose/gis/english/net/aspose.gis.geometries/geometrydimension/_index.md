@@ -14,7 +14,7 @@ Topological dimension of a [`Geometry`](../geometry).
 public enum GeometryDimension
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Clones this instance.
 public SimpleLabeling Clone()
 ```
 
-## Return Value
+### Return Value
 
 A clone of this instance.
 

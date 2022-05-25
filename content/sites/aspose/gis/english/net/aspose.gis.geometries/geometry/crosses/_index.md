@@ -18,7 +18,7 @@ public bool Crosses(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry is "spatially crosses" another geometry. `false` otherwise.
 

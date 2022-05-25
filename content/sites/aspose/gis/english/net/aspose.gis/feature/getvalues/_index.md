@@ -19,7 +19,7 @@ public int GetValues(object[] values, object defaultValue = null)
 | values | Object[] | The array into which to copy the attributes values. |
 | defaultValue | Object | The value to return if the attribute value is missing (unset). Default value is `null`. Consider to use 'DBNull.Value' for separating 'unset' and '`null`' values. |
 
-## Return Value
+### Return Value
 
 A number of attributes copied.
 

@@ -14,7 +14,7 @@ Same as [`Validate`](../validate), but don't return error message.
 public bool IsValid { get; }
 ```
 
-## Return Value
+### Return Value
 
 `true` if SRS is valid, `false` otherwise.
 

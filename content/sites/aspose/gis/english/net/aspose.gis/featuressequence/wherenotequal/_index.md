@@ -20,7 +20,7 @@ public virtual FeaturesSequence WhereNotEqual<T>(string attributeName, T value)
 | attributeName | Attribute to filter by. |
 | value | Value to compare against. |
 
-## Return Value
+### Return Value
 
 Features with attribute value not equal to the provided value.
 

@@ -18,7 +18,7 @@ public virtual bool IsEquivalent(SpatialReferenceSystem other)
 | --- | --- | --- |
 | other | SpatialReferenceSystem | Other SRS. |
 
-## Return Value
+### Return Value
 
 bool value, indicating whether this SRS is equivalent to other SRS.
 
@@ -43,7 +43,7 @@ public static bool IsEquivalent(SpatialReferenceSystem srs1, SpatialReferenceSys
 | srs1 | SpatialReferenceSystem | First SRS. |
 | srs2 | SpatialReferenceSystem | Second SRS. |
 
-## Return Value
+### Return Value
 
 bool value, indicating whether two SRS are equivalent.
 

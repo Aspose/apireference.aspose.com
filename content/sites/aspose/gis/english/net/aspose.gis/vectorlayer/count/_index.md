@@ -14,7 +14,7 @@ Gets the number of features in this layer.
 public virtual int Count { get; }
 ```
 
-## Property Value
+### Property Value
 
 The number of features in this layer.
 

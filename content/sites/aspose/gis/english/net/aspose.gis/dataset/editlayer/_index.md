@@ -21,7 +21,7 @@ public abstract VectorLayer EditLayer(string name, DriverOptions options = null,
 | options | DriverOptions | Open options. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system for new geometries. |
 
-## Return Value
+### Return Value
 
 The layer opened for editing.
 

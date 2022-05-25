@@ -19,7 +19,7 @@ public static bool operator !=(CompoundCurve a, CompoundCurve b)
 | a | CompoundCurve | The A instance. |
 | b | CompoundCurve | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

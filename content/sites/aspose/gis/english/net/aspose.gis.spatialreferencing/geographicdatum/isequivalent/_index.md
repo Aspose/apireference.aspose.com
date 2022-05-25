@@ -19,7 +19,7 @@ public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
 | datum1 | GeographicDatum | First datum. |
 | datum2 | GeographicDatum | Second datum. |
 
-## Return Value
+### Return Value
 
 bool value, indicating whether two datums are equivalent.
 
@@ -43,7 +43,7 @@ public bool IsEquivalent(GeographicDatum other)
 | --- | --- | --- |
 | other | GeographicDatum | Other datum. |
 
-## Return Value
+### Return Value
 
 bool value, indicating whether two datums are equivalent.
 

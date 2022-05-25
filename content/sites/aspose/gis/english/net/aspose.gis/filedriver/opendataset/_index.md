@@ -18,7 +18,7 @@ public Dataset OpenDataset(string path)
 | --- | --- | --- |
 | path | String | Path to the dataset. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 
@@ -52,7 +52,7 @@ public Dataset OpenDataset(AbstractPath path)
 | --- | --- | --- |
 | path | AbstractPath | Path to the dataset. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 
@@ -88,7 +88,7 @@ public Dataset OpenDataset(string path, DriverOptions options)
 | path | String | Path to the dataset. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 
@@ -125,7 +125,7 @@ public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | path | AbstractPath | Path to the dataset. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 

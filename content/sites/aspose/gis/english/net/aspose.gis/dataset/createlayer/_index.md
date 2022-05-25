@@ -14,7 +14,7 @@ Creates a new vector layer and opens it for appending.
 public virtual VectorLayer CreateLayer()
 ```
 
-## Return Value
+### Return Value
 
 A [`VectorLayer`](../../vectorlayer) opened for writing.
 
@@ -39,7 +39,7 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 | --- | --- | --- |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system of the new layer. |
 
-## Return Value
+### Return Value
 
 A [`VectorLayer`](../../vectorlayer) opened for writing.
 
@@ -67,7 +67,7 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 | options | DriverOptions | Open options. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system of the new layer. |
 
-## Return Value
+### Return Value
 
 A [`VectorLayer`](../../vectorlayer) opened for writing.
 
@@ -104,7 +104,7 @@ public virtual VectorLayer CreateLayer(string name,
 | name | String | Name of the layer. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system of the new layer. |
 
-## Return Value
+### Return Value
 
 A [`VectorLayer`](../../vectorlayer) opened for writing.
 
@@ -141,7 +141,7 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 | options | DriverOptions | Open options. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system of the new layer. |
 
-## Return Value
+### Return Value
 
 A [`VectorLayer`](../../vectorlayer) opened for writing.
 

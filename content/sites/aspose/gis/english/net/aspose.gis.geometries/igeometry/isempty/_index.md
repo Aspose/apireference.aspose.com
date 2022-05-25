@@ -14,7 +14,7 @@ Gets a value indicating whether this instance is empty (represents the empty poi
 public bool IsEmpty { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is empty; otherwise, `false`.
 

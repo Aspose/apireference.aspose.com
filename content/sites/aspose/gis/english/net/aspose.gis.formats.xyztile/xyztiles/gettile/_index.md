@@ -20,7 +20,7 @@ public WebTile GetTile(int zoom, int x, int y)
 | x | Int32 | An x-column of a tile. |
 | y | Int32 | A y-row of a tile. |
 
-## Return Value
+### Return Value
 
 The web tile.
 

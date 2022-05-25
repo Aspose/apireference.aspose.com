@@ -18,7 +18,7 @@ public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
 | --- | --- | --- |
 | sequence | FeaturesSequence | Other features sequence. |
 
-## Return Value
+### Return Value
 
 Features that intersect with the union of all geometries in other features sequence.
 
@@ -42,7 +42,7 @@ public virtual FeaturesSequence WhereIntersects(IGeometry geometry)
 | --- | --- | --- |
 | geometry | IGeometry | Filter geometry. |
 
-## Return Value
+### Return Value
 
 Features that intersect with the provided geometry.
 
@@ -67,7 +67,7 @@ public virtual FeaturesSequence WhereIntersects(Extent extent)
 | --- | --- | --- |
 | extent | Extent | Filter extent. |
 
-## Return Value
+### Return Value
 
 Features that intersect with the provided geometry.
 

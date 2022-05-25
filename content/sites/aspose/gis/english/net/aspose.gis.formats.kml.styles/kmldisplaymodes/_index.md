@@ -14,7 +14,7 @@ Controls whether the element is displayed or hidden.
 public enum KmlDisplayModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

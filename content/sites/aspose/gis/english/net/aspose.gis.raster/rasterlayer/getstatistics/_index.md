@@ -19,7 +19,7 @@ public RasterStatistics GetStatistics(int bandIndex = 0, bool excludeNodataValue
 | bandIndex | Int32 | The index of the band. Numbering starts from 0. |
 | excludeNodataValue | Boolean | Allows to exclude 'nodata' values. If 'excludeNodataValue' is set to false, then all pixels are considered. |
 
-## Return Value
+### Return Value
 
 The summary statistics.
 

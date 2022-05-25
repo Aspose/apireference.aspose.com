@@ -22,7 +22,7 @@ public static CompoundSpatialReferenceSystem CreateCompound(string name,
 | tail | SpatialReferenceSystem | Tail SRS of new SRS. |
 | identifier | Identifier | Identifier, that will be attached to SRS. Attaching an Identifier will not modify other SRS parameters. Its up to you to ensure consistency of identifier and SRS parameters. |
 
-## Return Value
+### Return Value
 
 New Compound SRS.
 

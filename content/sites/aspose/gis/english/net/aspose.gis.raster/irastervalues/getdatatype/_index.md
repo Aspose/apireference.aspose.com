@@ -18,7 +18,7 @@ public BandTypes GetDataType(int bandIndex = 0)
 | --- | --- | --- |
 | bandIndex | Int32 | The index of the band. Numbering starts from 0. |
 
-## Return Value
+### Return Value
 
 The type of values.
 

@@ -14,7 +14,7 @@ Clones this instance.
 public abstract LabelPlacement Clone()
 ```
 
-## Return Value
+### Return Value
 
 A clone of this instance.
 

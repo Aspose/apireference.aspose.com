@@ -18,7 +18,7 @@ public IGeometry Union(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry to unite with. |
 
-## Return Value
+### Return Value
 
 A geometry that represents a union of this geometry and an argument. The result geometry contains point set that present in this geometry or in an argument.
 

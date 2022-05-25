@@ -14,7 +14,7 @@ Gets a value indicating whether this instance has M coordinate.
 public bool HasM { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has M coordinate; otherwise, `false`.
 

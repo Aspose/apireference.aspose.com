@@ -14,7 +14,7 @@ Gets a value indicating whether this dataset can create vector layers.
 public virtual bool CanCreateLayers { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true`, if this dataset can create vector layers; otherwise, `false`.
 

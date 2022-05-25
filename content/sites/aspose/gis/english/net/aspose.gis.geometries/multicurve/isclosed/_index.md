@@ -14,7 +14,7 @@ Determines whether this curve is closed.
 public virtual bool IsClosed { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is closed; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Specifies how lines are rendered at their ends.
 public enum CapStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

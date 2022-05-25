@@ -14,7 +14,7 @@ Specifies the color mode for a graphic element.
 public enum KmlColorModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

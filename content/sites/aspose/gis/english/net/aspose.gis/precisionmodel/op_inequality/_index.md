@@ -19,7 +19,7 @@ public static bool operator !=(PrecisionModel a, PrecisionModel b)
 | a | PrecisionModel | The A instance. |
 | b | PrecisionModel | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

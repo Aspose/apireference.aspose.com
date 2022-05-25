@@ -18,7 +18,7 @@ public static AbstractPath FromStream(Stream stream)
 | --- | --- | --- |
 | stream | Stream | A stream to create an [`AbstractPath`](../../abstractpath) from. `Aspose.GIS` does not dispose the stream. |
 
-## Return Value
+### Return Value
 
 An instance of [`AbstractPath`](../../abstractpath) with the specified Stream as its content.
 

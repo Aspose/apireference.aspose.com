@@ -14,7 +14,7 @@ Gets the collection of custom attributes for features in this [`VectorLayer`](..
 public abstract FeatureAttributeCollection Attributes { get; }
 ```
 
-## Property Value
+### Property Value
 
 The collection of attributes.
 

@@ -14,7 +14,7 @@ Gets the number of geometries in this collection.
 public int Count { get; }
 ```
 
-## Property Value
+### Property Value
 
 The count if geometries.
 

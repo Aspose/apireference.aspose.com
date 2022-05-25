@@ -19,7 +19,7 @@ public IGeometry GetBuffer(double distance, int quadrantSegments = 30)
 | distance | Double | The buffer region width (in Spatial Reference units). |
 | quadrantSegments | Int32 | Number of segments used to approximate a 90 degree of curvature. The larger this number is the better approximation of curves is produced. Default is 30. |
 
-## Return Value
+### Return Value
 
 A geometry that represents all points that are within a specified distance from this geometry. The type of result is either [`Null`](../../geometry/null), [`IPolygon`](../../ipolygon) or [`IMultiPolygon`](../../imultipolygon).
 

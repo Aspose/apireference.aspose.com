@@ -19,7 +19,7 @@ public static FileGdbCoordinatePrecisionGrid CreateFromRectangle(IPoint p1, IPoi
 | p1 | IPoint | One corner of the rectangle. |
 | p2 | IPoint | Opposite corner of the rectangle. Must have same dimensions as *p1*. |
 
-## Return Value
+### Return Value
 
 The `FileGdbCoordinatePrecisionGrid` such that all values within a rectangle are representable. Values outside of the rectangle are not representable, so all coordinates that will be written to FileGDB layer must be inside the rectangle.
 

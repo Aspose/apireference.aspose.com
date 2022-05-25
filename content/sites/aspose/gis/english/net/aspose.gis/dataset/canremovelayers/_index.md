@@ -14,7 +14,7 @@ Gets a value indicating whether this dataset can remove vector layers.
 public virtual bool CanRemoveLayers { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true`, if this dataset can remove vector layers; otherwise, `false`.
 

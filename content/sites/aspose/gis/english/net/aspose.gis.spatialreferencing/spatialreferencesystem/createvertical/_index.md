@@ -24,7 +24,7 @@ public static VerticalSpatialReferenceSystem CreateVertical(string name,
 | verticalAxis | Axis | Axis with "up" or "down" direction, to be used in SRS. If `null`, axis with up direction will be used. |
 | identifier | Identifier | Identifier, that will be attached to SRS. Attaching an Identifier will not modify other SRS parameters. Its up to you to ensure consistency of identifier and SRS parameters. |
 
-## Return Value
+### Return Value
 
 New Vertical SRS.
 

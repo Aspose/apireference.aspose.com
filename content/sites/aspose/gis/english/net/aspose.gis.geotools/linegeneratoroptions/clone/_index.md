@@ -14,7 +14,7 @@ Clone object to one another.
 public LineGeneratorOptions Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone object to one another [`LineGeneratorOptions`](../../linegeneratoroptions).
 

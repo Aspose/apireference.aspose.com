@@ -14,7 +14,7 @@ Presents a spatial extent of this layer.
 public abstract Extent GetExtent()
 ```
 
-## Return Value
+### Return Value
 
 A spatial extent of this layer.
 

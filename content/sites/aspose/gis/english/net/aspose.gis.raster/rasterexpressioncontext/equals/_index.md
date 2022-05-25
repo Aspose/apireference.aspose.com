@@ -18,7 +18,7 @@ public bool Equals(RasterExpressionContext other)
 | --- | --- | --- |
 | other | RasterExpressionContext | An object to compare with this object. |
 
-## Return Value
+### Return Value
 
 true if the current object is equal to the *other* parameter; otherwise, false.
 
@@ -42,7 +42,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The object to compare with the current instance. |
 
-## Return Value
+### Return Value
 
 true if *obj* and this instance are the same type and represent the same value; otherwise, false.
 

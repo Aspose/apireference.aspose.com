@@ -14,7 +14,7 @@ Translates this geometry to its Well-Known Text representation.
 public string AsText()
 ```
 
-## Return Value
+### Return Value
 
 Well-Known Text representation of this geometry.
 
@@ -42,7 +42,7 @@ public string AsText(WktVariant variant)
 | --- | --- | --- |
 | variant | WktVariant | Well-Known Text variant to use. |
 
-## Return Value
+### Return Value
 
 Well-Known Text representation of this geometry.
 
@@ -79,7 +79,7 @@ public string AsText(WktVariant variant, NumericFormat format)
 | variant | WktVariant | Well-Known Text variant to use. |
 | format | NumericFormat | Coordinate format for conversion to string. See the [`NumericFormat`](../../../aspose.gis/numericformat) to get it. |
 
-## Return Value
+### Return Value
 
 Well-Known Text representation of this geometry.
 

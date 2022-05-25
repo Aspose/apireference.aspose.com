@@ -14,7 +14,7 @@ Specifies how a kml:Feature and its contents shall be displayed as items in a li
 public enum KmlItemTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

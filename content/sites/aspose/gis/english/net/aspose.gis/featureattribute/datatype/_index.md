@@ -14,7 +14,7 @@ Gets the data type of the attribute.
 public AttributeDataType DataType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The data type of the attribute.
 

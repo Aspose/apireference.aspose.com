@@ -14,7 +14,7 @@ Gets an editable copy of this geometry.
 public CircularString ToEditable()
 ```
 
-## Return Value
+### Return Value
 
 An editable copy of this geometry.
 

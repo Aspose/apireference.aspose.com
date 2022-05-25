@@ -14,7 +14,7 @@ Gets approximate or equivalent non-curve version of this geometry using the defa
 public ILineString ToLinearGeometry()
 ```
 
-## Return Value
+### Return Value
 
 A [`ILineString`](../../ilinestring) that approximates or equivalent to this curve. This is the equivalent of [`ToLinearGeometry`](../tolineargeometry) with default `tolerance`. Default `tolerance`s value is dependent on [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) of this geometry:  For projected SRS Tolerance is 0.001 meters (in SRS units)  For geographic SRS Tolerance is `1e-5` degrees (in SRS units)  For unknown SRS Tolerance is `1e-5` For more details on what transformations are applied refer to [`ToLinearGeometry`](../tolineargeometry) specification.
 
@@ -45,7 +45,7 @@ public ILineString ToLinearGeometry(double tolerance)
 | --- | --- | --- |
 | tolerance | Double | The `tolerance` to use. The result is guaranteed to be less than `tolerance` away from the curved geometry, unless the number of points needed to linearize the geometry exceeds the per-quadrant maximum, currently equal to 10000 points. |
 
-## Return Value
+### Return Value
 
 A [`ILineString`](../../ilinestring) that approximates or equivalent to this curve:  If this object is [`ILineString`](../../ilinestring) itself the result is equivalent to this object If this object is [`ICircularString`](../../icircularstring) the result is the circular string linearized with the specified *tolerance* If this object is [`ICompoundCurve`](../../icompoundcurve) - all curves from it are linearized and then joined into [`ILineString`](../../ilinestring)
 

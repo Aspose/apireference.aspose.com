@@ -19,7 +19,7 @@ public static bool operator ==(GeometryCollection a, GeometryCollection b)
 | a | GeometryCollection | The A instance. |
 | b | GeometryCollection | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

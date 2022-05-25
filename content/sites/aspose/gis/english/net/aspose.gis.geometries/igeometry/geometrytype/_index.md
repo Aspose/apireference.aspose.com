@@ -14,7 +14,7 @@ Gets the type of the geometry.
 public GeometryType GeometryType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the geometry.
 

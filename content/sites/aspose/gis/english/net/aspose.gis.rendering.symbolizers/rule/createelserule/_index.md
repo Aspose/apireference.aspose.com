@@ -18,7 +18,7 @@ public static Rule CreateElseRule(VectorSymbolizer symbolizer)
 | --- | --- | --- |
 | symbolizer | VectorSymbolizer | Symbolizer to apply. |
 
-## Return Value
+### Return Value
 
 New Rule object.
 

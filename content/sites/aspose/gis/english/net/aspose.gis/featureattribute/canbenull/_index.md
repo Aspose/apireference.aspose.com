@@ -14,7 +14,7 @@ Gets a value indicating whether this instance can be null.
 public bool CanBeNull { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance can be null; otherwise, `false`.
 

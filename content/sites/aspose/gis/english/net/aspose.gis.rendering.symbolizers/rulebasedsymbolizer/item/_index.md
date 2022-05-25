@@ -18,7 +18,7 @@ public Rule this[int index] { get; }
 | --- | --- |
 | index | The zero-based index of the rule to get. |
 
-## Return Value
+### Return Value
 
 The rule at the specified index.
 

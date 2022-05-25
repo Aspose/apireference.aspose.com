@@ -14,7 +14,7 @@ Gets a value indicating whether this driver can open raster layers.
 public abstract bool CanOpenLayers { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true`, if this driver can open raster layers; otherwise, `false`.
 

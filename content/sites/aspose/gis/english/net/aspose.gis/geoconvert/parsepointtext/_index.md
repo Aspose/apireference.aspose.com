@@ -18,7 +18,7 @@ public static IPoint ParsePointText(string text)
 | --- | --- | --- |
 | text | String | A string that contains coordinates to convert. The string should contain both coordinate latitude and longitude. Coordinates should be separated by whitespace, by comma or by semicolon. |
 
-## Return Value
+### Return Value
 
 IPoint object with coordinates that are equivalent to the input string.
 

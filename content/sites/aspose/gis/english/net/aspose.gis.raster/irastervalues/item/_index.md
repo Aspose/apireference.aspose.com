@@ -18,7 +18,7 @@ public double this[int bandIndex] { get; }
 | --- | --- |
 | bandIndex | The index of the band. Numbering starts from 0. |
 
-## Return Value
+### Return Value
 
 The converted values.
 

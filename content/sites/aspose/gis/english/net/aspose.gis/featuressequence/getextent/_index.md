@@ -14,7 +14,7 @@ Gets a spatial extent of this layer.
 public virtual Extent GetExtent()
 ```
 
-## Return Value
+### Return Value
 
 A spatial extent of this layer.
 

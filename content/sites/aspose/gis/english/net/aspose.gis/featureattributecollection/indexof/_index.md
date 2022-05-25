@@ -18,7 +18,7 @@ public int IndexOf(string name)
 | --- | --- | --- |
 | name | String | Name of the attribute. |
 
-## Return Value
+### Return Value
 
 The zero-based index of the attribute within the collection, if found; otherwise, –1.
 

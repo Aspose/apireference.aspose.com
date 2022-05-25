@@ -19,7 +19,7 @@ public static Dataset Open(string path, FileDriver driver)
 | path | String | Path to the dataset. |
 | driver | FileDriver | Driver to use. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 
@@ -53,7 +53,7 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 | path | AbstractPath | Path to the dataset. |
 | driver | FileDriver | Driver to use. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 
@@ -89,7 +89,7 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 | driver | FileDriver | Driver to use. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 
@@ -126,7 +126,7 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 | driver | FileDriver | Driver to use. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 
@@ -163,7 +163,7 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 | connection | IDbConnection | Opened connection to the database. |
 | driver | DatabaseDriver | Driver to use. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../dataset).
 

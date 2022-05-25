@@ -18,7 +18,7 @@ public static Measurement Points(double value)
 | --- | --- | --- |
 | value | Double | Number of points. |
 
-## Return Value
+### Return Value
 
 New instance of `Measurement` class.
 

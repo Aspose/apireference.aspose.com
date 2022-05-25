@@ -14,7 +14,7 @@ Computes the centroid of this geometry.
 public IPoint GetCentroid()
 ```
 
-## Return Value
+### Return Value
 
 The centroid of this geometry. If this geometry is empty an empty point returned. The centroid is equal to the centroid of the highest dimension geometries in this geometry (e.g. if both points and lines are contained in the geometry, only lines contribute to centroid).
 

@@ -14,7 +14,7 @@ Determines type of parameter in [`Projection`](../projection).
 public enum ParameterType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

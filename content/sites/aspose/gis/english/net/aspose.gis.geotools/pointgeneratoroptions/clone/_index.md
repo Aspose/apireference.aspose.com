@@ -14,7 +14,7 @@ Clone object to one another.
 public PointGeneratorOptions Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone object to one another [`PointGeneratorOptions`](../../pointgeneratoroptions).
 

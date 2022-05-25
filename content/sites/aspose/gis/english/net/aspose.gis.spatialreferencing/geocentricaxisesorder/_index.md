@@ -14,7 +14,7 @@ Represents order of axises in geocentric SRS.
 public enum GeocentricAxisesOrder
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

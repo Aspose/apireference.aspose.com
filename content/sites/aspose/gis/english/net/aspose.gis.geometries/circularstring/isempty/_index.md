@@ -14,7 +14,7 @@ Gets a value indicating whether this instance is empty.
 public override bool IsEmpty { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is empty; otherwise, `false`.
 

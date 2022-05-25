@@ -14,7 +14,7 @@ Specifies how labels are rendered for features that contain multipart geometries
 public enum MultipartMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

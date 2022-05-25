@@ -18,7 +18,7 @@ public static LabelingRule CreateElseRule(Labeling labeling)
 | --- | --- | --- |
 | labeling | Labeling | Labeling to apply. |
 
-## Return Value
+### Return Value
 
 New LabelingRule object.
 

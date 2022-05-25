@@ -19,7 +19,7 @@ public static IEnumerable<ILineString> ProduceLines(Extent rect, LineGeneratorOp
 | rect | Extent | Specified area (see [`Extent`](../../../aspose.gis/extent)) |
 | options | LineGeneratorOptions | Line creation options (see [`LineGeneratorOptions`](../../linegeneratoroptions)) |
 
-## Return Value
+### Return Value
 
 Array of lines (see enumeration of [`ILineString`](../../../aspose.gis.geometries/ilinestring))
 

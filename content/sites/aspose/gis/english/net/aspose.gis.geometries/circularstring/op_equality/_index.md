@@ -19,7 +19,7 @@ public static bool operator ==(CircularString a, CircularString b)
 | a | CircularString | The A instance. |
 | b | CircularString | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

@@ -14,7 +14,7 @@ Gets a value indicating whether this driver can open datasets.
 public override bool CanOpenDatasets { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true`, if this driver can open datasets; otherwise, `false`.
 

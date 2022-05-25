@@ -14,7 +14,7 @@ Returns the extension of this [`AbstractPath`](../../abstractpath).
 public string GetExtension()
 ```
 
-## Return Value
+### Return Value
 
 The extension of this [`AbstractPath`](../../abstractpath) (including the period ".") or an empty string if the [`AbstractPath`](../../abstractpath) has no extension.
 

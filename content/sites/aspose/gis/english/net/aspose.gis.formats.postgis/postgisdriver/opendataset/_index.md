@@ -18,7 +18,7 @@ public override Dataset OpenDataset(IDbConnection connection)
 | --- | --- | --- |
 | connection | IDbConnection | Opened connection to the database. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../../aspose.gis/dataset).
 

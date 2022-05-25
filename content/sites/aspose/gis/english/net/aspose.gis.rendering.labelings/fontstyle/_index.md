@@ -15,7 +15,7 @@ Specifies style to be applied to text.
 public enum FontStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

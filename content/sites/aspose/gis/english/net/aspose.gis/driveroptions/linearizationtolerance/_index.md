@@ -14,7 +14,7 @@ A tolerance to use to linearize curve geometries.
 public double LinearizationTolerance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The tolerance to pass to [`ToLinearGeometry`](../../../aspose.gis.geometries/geometry/tolineargeometry) before adding geometries.
 

@@ -18,7 +18,7 @@ public IRasterValues[] GetValuesDump(RasterRect rect)
 | --- | --- | --- |
 | rect | RasterRect | Block of raster cells where dump is read. |
 
-## Return Value
+### Return Value
 
 The dump of values.
 

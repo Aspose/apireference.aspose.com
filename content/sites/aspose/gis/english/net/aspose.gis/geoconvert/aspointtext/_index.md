@@ -20,7 +20,7 @@ public static string AsPointText(double latitude, double longitude, PointFormats
 | longitude | Double | Position longitude. |
 | format | PointFormats | Format of the result. |
 
-## Return Value
+### Return Value
 
 Position as string.
 
@@ -46,7 +46,7 @@ public static string AsPointText(IPoint point, PointFormats format)
 | point | IPoint | IPoint object. |
 | format | PointFormats | Format of the result. |
 
-## Return Value
+### Return Value
 
 Position as string.
 

@@ -19,7 +19,7 @@ public Dataset OpenDataset(string path, FileGdbOptions options)
 | path | String | Path to the dataset. |
 | options | FileGdbOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../../aspose.gis/dataset).
 
@@ -56,7 +56,7 @@ public override Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | path | AbstractPath | Path to the dataset. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../../aspose.gis/dataset).
 
@@ -94,7 +94,7 @@ public Dataset OpenDataset(AbstractPath path, FileGdbOptions options)
 | path | AbstractPath | Path to the dataset. |
 | options | FileGdbOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`Dataset`](../../../aspose.gis/dataset).
 

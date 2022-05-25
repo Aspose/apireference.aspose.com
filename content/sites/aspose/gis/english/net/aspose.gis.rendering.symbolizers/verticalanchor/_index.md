@@ -14,7 +14,7 @@ Specifies side to be aligned vertically.
 public enum VerticalAnchor
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets the raster bounds.
 public RasterRect Bounds { get; }
 ```
 
-## Return Value
+### Return Value
 
 The raster bounds.
 

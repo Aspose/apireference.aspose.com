@@ -14,7 +14,7 @@ Presents the tile content as a Raster layer.
 public abstract RasterLayer AsRaster()
 ```
 
-## Return Value
+### Return Value
 
 The Raster.
 

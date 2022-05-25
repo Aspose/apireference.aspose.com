@@ -19,7 +19,7 @@ public IRasterValues GetValues(int cellX, int cellY)
 | cellX | Int32 | The value for column (x-coordinate). Numbering starts at 0. |
 | cellY | Int32 | The value for row (y-coordinate). Numbering starts at 0. |
 
-## Return Value
+### Return Value
 
 The raster values.
 

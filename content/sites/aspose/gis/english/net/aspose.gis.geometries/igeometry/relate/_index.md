@@ -19,7 +19,7 @@ public bool Relate(IGeometry other, string intersectionPatternMatrix)
 | other | IGeometry | A geometry. |
 | intersectionPatternMatrix | String | A patter to match with. This should be a string with length equal to 9. Each character of the string represent expected dimension of an intersection: character 0 - between interiors of the geometries.character 1 - between interior of this geometry and boundary of another geometry.character 2 - between interior of this geometry and exterior of another geometry.character 3 - between boundary of this geometry and interior of another geometry.character 4 - between boundaries of the geometries.character 5 - between boundary of this geometry and exterior of another geometry.character 6 - between exterior of this geometry and interior of another geometry.character 7 - between exterior of this geometry and boundary of another geometry.character 8 - between exteriors of the geometries. Possible values of each characters are: * - any value;F - no intersection;T - any intersection;0 - point intersection (e.g. shared point);1 - line intersection (e.g. shared segment of line);2 - area intersection (e.g. shared part of polygon); For example, an intersection pattern "F0*******" means, that there should not be intersection between geometries interiors and intersection between geometries boundaries must be a point. See OpenGIS Simple Features Specification for more details about intersection matrix pattern. |
 
-## Return Value
+### Return Value
 
 `true` if this intersection matrix matches patter; `false` otherwise.
 

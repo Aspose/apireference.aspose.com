@@ -18,7 +18,7 @@ public virtual FeaturesSequence WhereNotNull(string attributeName)
 | --- | --- | --- |
 | attributeName | String | Attribute to filter by. |
 
-## Return Value
+### Return Value
 
 Features with attribute value not equal to null.
 

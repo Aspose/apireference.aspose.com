@@ -14,7 +14,7 @@ Gets a value indicating whether the pre-defined default value for this attribute
 public bool HasCustomDefaultValue { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has a custom default value; otherwise, `false`.
 

@@ -18,7 +18,7 @@ public bool Within(Extent extent)
 | --- | --- | --- |
 | extent | Extent | The extent. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry is within extent; `false` otherwise.
 
@@ -50,7 +50,7 @@ public bool Within(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry is "spatially within" another geometry. `false` otherwise.
 

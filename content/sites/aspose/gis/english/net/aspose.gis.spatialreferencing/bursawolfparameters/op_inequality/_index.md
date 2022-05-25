@@ -19,7 +19,7 @@ public static bool operator !=(BursaWolfParameters a, BursaWolfParameters b)
 | a | BursaWolfParameters | The A instance. |
 | b | BursaWolfParameters | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

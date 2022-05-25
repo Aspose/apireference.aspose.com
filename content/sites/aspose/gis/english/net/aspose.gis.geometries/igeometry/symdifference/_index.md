@@ -18,7 +18,7 @@ public IGeometry SymDifference(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry to compute symmetric difference with. |
 
-## Return Value
+### Return Value
 
 A geometry that represents a symmetric difference of this geometry and an argument. The result geometry contains point set that present in one of the geometries but not present in both of them.
 

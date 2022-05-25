@@ -14,7 +14,7 @@ Gets the number of coordinate dimensions for this [`Geometry`](../../geometry).
 public int CoordinateDimension { get; }
 ```
 
-## Property Value
+### Property Value
 
 The number of coordinate dimensions.
 

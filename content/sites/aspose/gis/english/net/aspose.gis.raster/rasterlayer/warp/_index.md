@@ -18,7 +18,7 @@ public RasterLayer Warp(WarpOptions options)
 | --- | --- | --- |
 | options | WarpOptions | Options for the reprojection procedure. |
 
-## Return Value
+### Return Value
 
 The warp raster layer.
 

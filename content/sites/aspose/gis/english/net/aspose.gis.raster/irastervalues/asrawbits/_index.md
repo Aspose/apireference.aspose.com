@@ -14,7 +14,7 @@ Get raw bits of all bands values.
 public BitArray AsRawBits()
 ```
 
-## Return Value
+### Return Value
 
 The raw bits.
 

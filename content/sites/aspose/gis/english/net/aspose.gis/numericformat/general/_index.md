@@ -18,7 +18,7 @@ public static NumericFormat General(int precision = 0)
 | --- | --- | --- |
 | precision | Int32 | The precision defines the maximum number of significant digits that can appear in the result string. If the precision is zero, the value "15" is used. The maximum available precision is "17". |
 
-## Return Value
+### Return Value
 
 The General Format Specifier.
 

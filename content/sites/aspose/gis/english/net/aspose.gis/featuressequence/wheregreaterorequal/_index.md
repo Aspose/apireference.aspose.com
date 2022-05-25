@@ -20,7 +20,7 @@ public virtual FeaturesSequence WhereGreaterOrEqual<T>(string attributeName, T v
 | attributeName | Attribute to filter by. |
 | value | Value to compare against. |
 
-## Return Value
+### Return Value
 
 Features with attribute value greater or equal to the provided value.
 

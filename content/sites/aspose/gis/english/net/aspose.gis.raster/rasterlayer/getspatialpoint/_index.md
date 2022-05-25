@@ -19,7 +19,7 @@ public IPoint GetSpatialPoint(int cellX, int cellY)
 | cellX | Int32 | The value for column (x-coordinate). Numbering starts at 0. |
 | cellY | Int32 | The value for row (y-coordinate). Numbering starts at 0. |
 
-## Return Value
+### Return Value
 
 Returns the x-coordinate of upper left corner given a column and row.
 

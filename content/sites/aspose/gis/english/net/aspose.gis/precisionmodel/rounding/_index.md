@@ -18,7 +18,7 @@ public static PrecisionModel Rounding(int significantDigits)
 | --- | --- | --- |
 | significantDigits | Int32 | Number of significant digits. |
 
-## Return Value
+### Return Value
 
 Rounding Precision model.
 

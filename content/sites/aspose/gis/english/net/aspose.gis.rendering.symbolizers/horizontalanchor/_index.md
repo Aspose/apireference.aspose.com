@@ -14,7 +14,7 @@ Specifies side to be aligned horizontally.
 public enum HorizontalAnchor
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

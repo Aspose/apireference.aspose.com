@@ -18,7 +18,7 @@ public XyzTiles OpenLayer(XyzConnection connection)
 | --- | --- | --- |
 | connection | XyzConnection | A connection for the XyzTiles format. |
 
-## Return Value
+### Return Value
 
 An instance of [`XyzTiles`](../../xyztiles).
 

@@ -14,7 +14,7 @@ The type of a geometry in a layer.
 public enum GeometryType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

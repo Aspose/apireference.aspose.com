@@ -14,7 +14,7 @@ Represents type of spatial reference system.
 public enum SpatialReferenceSystemType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

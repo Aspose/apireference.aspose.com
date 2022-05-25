@@ -19,7 +19,7 @@ public static IEnumerable<IPolygon> ProducePolygons(Extent rect, PolygonGenerato
 | rect | Extent | Specified area (see [`Extent`](../../../aspose.gis/extent)) |
 | options | PolygonGeneratorOptions | Polygon creation options (see [`PolygonGeneratorOptions`](../../polygongeneratoroptions)) |
 
-## Return Value
+### Return Value
 
 Array of polygons (see enumeration of [`IPolygon`](../../../aspose.gis.geometries/ipolygon))
 

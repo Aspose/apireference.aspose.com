@@ -14,7 +14,7 @@ Gets a value indicating whether this instance has Z coordinate.
 public bool HasZ { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has Z coordinate; otherwise, `false`.
 

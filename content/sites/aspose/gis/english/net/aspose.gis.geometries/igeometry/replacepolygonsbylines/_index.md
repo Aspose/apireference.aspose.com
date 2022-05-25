@@ -14,7 +14,7 @@ Gets polygons represented as lines of this geometry.
 public IGeometry ReplacePolygonsByLines()
 ```
 
-## Return Value
+### Return Value
 
 A geometry, that has no polygon geometries. The following transformation are applied: Polygons are linearized (transformed into LineStrings)MultiPolygons are joined into MultiLineStrings
 

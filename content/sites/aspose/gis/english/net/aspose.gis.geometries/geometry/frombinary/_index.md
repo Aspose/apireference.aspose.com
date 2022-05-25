@@ -18,7 +18,7 @@ public static IGeometry FromBinary(byte[] wkb)
 | --- | --- | --- |
 | wkb | Byte[] | Well-Known Binary representation of a geometry. |
 
-## Return Value
+### Return Value
 
 A geometry represented by the argument.
 
@@ -52,7 +52,7 @@ public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialRef
 | wkb | Byte[] | Well-Known Binary representation of a geometry. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial Reference System to be assigned to the geometry. |
 
-## Return Value
+### Return Value
 
 A geometry represented by the argument.
 

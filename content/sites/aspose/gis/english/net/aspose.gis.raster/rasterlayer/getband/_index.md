@@ -18,7 +18,7 @@ public abstract IRasterBand GetBand(int index = 0)
 | --- | --- | --- |
 | index | Int32 | Band numbers start at 0 and band is assumed to be 0 if not specified. |
 
-## Return Value
+### Return Value
 
 Returns basic meta data about a raster band.
 

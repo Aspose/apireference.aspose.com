@@ -14,7 +14,7 @@ The variant of Well-Known Binary
 public enum WkbVariant
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

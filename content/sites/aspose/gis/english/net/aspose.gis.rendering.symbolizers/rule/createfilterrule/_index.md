@@ -19,7 +19,7 @@ public static Rule CreateFilterRule(Func<Feature, bool> filter, VectorSymbolizer
 | filter | Func`2 | Determines when symbolizer should be used. |
 | symbolizer | VectorSymbolizer | Symbolizer to apply. |
 
-## Return Value
+### Return Value
 
 New Rule object.
 

@@ -19,7 +19,7 @@ public bool Contains(double x, double y)
 | x | Double | X of the coordinate. |
 | y | Double | Y of the coordinate. |
 
-## Return Value
+### Return Value
 
 Value, indicating whether coordinate is inside bounding box.
 
@@ -47,7 +47,7 @@ public bool Contains(Extent extent)
 | --- | --- | --- |
 | extent | Extent | Another extent. |
 
-## Return Value
+### Return Value
 
 Value, indicating whether this extent contains the argument.
 
@@ -82,7 +82,7 @@ public bool Contains(IGeometry geometry)
 | --- | --- | --- |
 | geometry | IGeometry | A geometry to test for containment. |
 
-## Return Value
+### Return Value
 
 Value, indicating whether this extent contains the argument.
 

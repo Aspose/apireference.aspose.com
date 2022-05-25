@@ -14,7 +14,7 @@ The variant of Well-Known Text
 public enum WktVariant
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

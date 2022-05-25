@@ -19,7 +19,7 @@ public VectorLayer Join(VectorLayer layer, JoinOptions options)
 | layer | VectorLayer | A layer to join. |
 | options | JoinOptions | Join parameters. |
 
-## Return Value
+### Return Value
 
 A new layer as a result of join two layers.
 

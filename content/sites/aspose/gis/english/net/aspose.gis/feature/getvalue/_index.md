@@ -19,7 +19,7 @@ public T GetValue<T>(string attributeName)
 | T | Desired type for the value. |
 | attributeName | Name of the attribute. |
 
-## Return Value
+### Return Value
 
 Value of the attribute.
 
@@ -60,7 +60,7 @@ public object GetValue(string attributeName)
 | --- | --- | --- |
 | attributeName | String | Name of the attribute. |
 
-## Return Value
+### Return Value
 
 Value of the attribute.
 

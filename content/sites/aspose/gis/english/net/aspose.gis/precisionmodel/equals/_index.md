@@ -18,7 +18,7 @@ public override bool Equals(object other)
 | --- | --- | --- |
 | other | Object | An object to compare with this object. |
 
-## Return Value
+### Return Value
 
 true if the current object is equal to the *other* parameter; otherwise, false.
 
@@ -42,7 +42,7 @@ public bool Equals(PrecisionModel other)
 | --- | --- | --- |
 | other | PrecisionModel | An object to compare with this object. |
 
-## Return Value
+### Return Value
 
 true if the current object is equal to the *other* parameter; otherwise, false.
 

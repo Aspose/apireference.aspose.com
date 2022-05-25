@@ -19,7 +19,7 @@ public static LabelingRule CreateFilterRule(Func<Feature, bool> filter, Labeling
 | filter | Func`2 | Determines when labeling should be used. |
 | labeling | Labeling | Labeling to apply. |
 
-## Return Value
+### Return Value
 
 New LabelingRule object.
 

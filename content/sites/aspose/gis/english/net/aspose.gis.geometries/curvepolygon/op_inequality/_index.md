@@ -19,7 +19,7 @@ public static bool operator !=(CurvePolygon a, CurvePolygon b)
 | a | CurvePolygon | The A instance. |
 | b | CurvePolygon | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

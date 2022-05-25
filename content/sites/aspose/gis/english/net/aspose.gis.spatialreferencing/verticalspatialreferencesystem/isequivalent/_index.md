@@ -18,7 +18,7 @@ public override bool IsEquivalent(SpatialReferenceSystem other)
 | --- | --- | --- |
 | other | SpatialReferenceSystem | Other SRS. |
 
-## Return Value
+### Return Value
 
 bool value, indicating whether this SRS is equivalent to other SRS.
 

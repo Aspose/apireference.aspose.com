@@ -19,7 +19,7 @@ public static bool operator ==(Identifier a, Identifier b)
 | a | Identifier | The A instance. |
 | b | Identifier | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

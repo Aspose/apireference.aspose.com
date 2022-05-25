@@ -18,7 +18,7 @@ public RasterLayer Crop(IGeometry geometry)
 | --- | --- | --- |
 | geometry | IGeometry | Geometry represented the shape form. |
 
-## Return Value
+### Return Value
 
 The cropped raster layer. If no intersections found returns `null`.
 

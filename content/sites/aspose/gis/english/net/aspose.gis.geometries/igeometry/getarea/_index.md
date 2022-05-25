@@ -14,7 +14,7 @@ Computes the area of this geometry.
 public double GetArea()
 ```
 
-## Return Value
+### Return Value
 
 The area of this geometry. Sum of areas of elements of this geometry if this geometry is a [`GeometryCollection`](../../geometrycollection).
 

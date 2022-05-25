@@ -19,7 +19,7 @@ public static IEnumerable<IGeometry> ProducePoints(Extent rect, PointGeneratorOp
 | rect | Extent | Specified area (see [`Extent`](../../../aspose.gis/extent)). |
 | options | PointGeneratorOptions | Point creation options (see [`PointGeneratorOptions`](../../pointgeneratoroptions)). |
 
-## Return Value
+### Return Value
 
 Array of points (see enumeration of [`IGeometry`](../../../aspose.gis.geometries/igeometry)).
 

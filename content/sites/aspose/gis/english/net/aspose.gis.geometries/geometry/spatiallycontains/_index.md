@@ -18,7 +18,7 @@ public bool SpatiallyContains(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry is "spatially contains" another geometry. `false` otherwise.
 

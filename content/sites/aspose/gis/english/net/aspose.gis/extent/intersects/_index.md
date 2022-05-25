@@ -18,7 +18,7 @@ public bool Intersects(Extent extent)
 | --- | --- | --- |
 | extent | Extent | Another extent. |
 
-## Return Value
+### Return Value
 
 Value, indicating whether this extent intersects with the argument.
 
@@ -49,7 +49,7 @@ public bool Intersects(IGeometry geometry)
 | --- | --- | --- |
 | geometry | IGeometry | A geometry to test for intersection |
 
-## Return Value
+### Return Value
 
 Value, indicating whether this extent intersects with the argument.
 

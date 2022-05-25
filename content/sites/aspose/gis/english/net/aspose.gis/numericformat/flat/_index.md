@@ -18,7 +18,7 @@ public static NumericFormat Flat(int significantDigits)
 | --- | --- | --- |
 | significantDigits | Int32 | Number of significant digits. The maximum available precision is "308" |
 
-## Return Value
+### Return Value
 
 The Rounding Precision Specifier.
 

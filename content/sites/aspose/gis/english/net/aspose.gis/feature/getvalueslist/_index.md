@@ -20,7 +20,7 @@ public List<T> GetValuesList<T>(string attributeName, string separator)
 | attributeName | Name of the attribute. |
 | separator | A string which is used to separate attribute name and index value of sequence. |
 
-## Return Value
+### Return Value
 
 List of values of the attributes which names different by sequence index value.
 

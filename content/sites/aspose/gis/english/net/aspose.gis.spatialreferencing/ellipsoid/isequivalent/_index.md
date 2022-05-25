@@ -19,7 +19,7 @@ public static bool IsEquivalent(Ellipsoid ellipsoid1, Ellipsoid ellipsoid2)
 | ellipsoid1 | Ellipsoid | First ellipsoid. |
 | ellipsoid2 | Ellipsoid | Second ellipsoid. |
 
-## Return Value
+### Return Value
 
 bool value, indicating whether two ellipsoids are equivalent.
 
@@ -43,7 +43,7 @@ public bool IsEquivalent(Ellipsoid other)
 | --- | --- | --- |
 | other | Ellipsoid | Other ellipsoid. |
 
-## Return Value
+### Return Value
 
 bool value, indicating whether two ellipsoids are equivalent.
 

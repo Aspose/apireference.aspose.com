@@ -14,7 +14,7 @@ Gets a value indicating whether this precision model is rounding.
 public bool IsRounding { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this precision model is rounding; `false` otherwise.
 

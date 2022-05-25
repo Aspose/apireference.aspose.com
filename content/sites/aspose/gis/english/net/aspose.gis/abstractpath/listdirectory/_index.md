@@ -14,7 +14,7 @@ Returns paths located inside this `AbstractPath`, if it's a directory.
 public abstract IEnumerable<AbstractPath> ListDirectory()
 ```
 
-## Return Value
+### Return Value
 
 Paths located inside this `AbstractPath`.
 

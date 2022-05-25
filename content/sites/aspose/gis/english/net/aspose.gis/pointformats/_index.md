@@ -14,7 +14,7 @@ url: /net/aspose.gis/pointformats/
 public enum PointFormats
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

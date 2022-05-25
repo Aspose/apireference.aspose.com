@@ -19,7 +19,7 @@ public static bool operator ==(Polygon a, Polygon b)
 | a | Polygon | The A instance. |
 | b | Polygon | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

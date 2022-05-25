@@ -14,7 +14,7 @@ Finds a point that is guaranteed to be on one of the surfaces in this collection
 public IPoint GetPointOnSurface()
 ```
 
-## Return Value
+### Return Value
 
 A point on one of the surfaces. An empty point if this collection does not contain surfaces or all surfaces are empty.
 

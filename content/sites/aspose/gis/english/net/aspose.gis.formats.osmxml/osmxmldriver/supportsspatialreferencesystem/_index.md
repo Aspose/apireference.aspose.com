@@ -18,7 +18,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 | --- | --- | --- |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system. |
 
-## Return Value
+### Return Value
 
 Boolean value, indicating whether specified spatial reference system is supported by the driver.
 

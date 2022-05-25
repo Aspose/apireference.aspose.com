@@ -14,7 +14,7 @@ Gets the number of interior rings.
 public int InteriorRingsCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The number of interior rings.
 

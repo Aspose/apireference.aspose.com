@@ -14,7 +14,7 @@ A shape type of the marker.
 public enum MarkerShapeType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

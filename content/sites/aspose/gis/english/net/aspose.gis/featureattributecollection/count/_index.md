@@ -14,7 +14,7 @@ Gets the number of attributes in a [`Feature`](../../feature).
 public int Count { get; }
 ```
 
-## Property Value
+### Property Value
 
 The number of attributes in a [`Feature`](../../feature).
 

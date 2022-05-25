@@ -18,7 +18,7 @@ public VectorSymbolizer this[int index] { get; }
 | --- | --- |
 | index | The zero-based index of the symbolizer to get. |
 
-## Return Value
+### Return Value
 
 The symbolizer at the specified index.
 

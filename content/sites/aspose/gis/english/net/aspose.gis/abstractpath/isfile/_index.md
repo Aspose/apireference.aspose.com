@@ -14,7 +14,7 @@ Gets a value indicating whether this path points to an existing file that can be
 public abstract bool IsFile()
 ```
 
-## Return Value
+### Return Value
 
 `true` if location points to a file; `false` otherwise.
 

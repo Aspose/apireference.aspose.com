@@ -18,7 +18,7 @@ public IGeometry Difference(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry to subtract. |
 
-## Return Value
+### Return Value
 
 A geometry that represents a difference of this geometry and an argument. The result geometry contains point set that present in this geometry but not present in an argument.
 

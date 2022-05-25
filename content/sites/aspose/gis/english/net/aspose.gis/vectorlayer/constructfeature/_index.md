@@ -14,7 +14,7 @@ Creates (but does not add to the layer) a new feature with attributes matching t
 public Feature ConstructFeature()
 ```
 
-## Return Value
+### Return Value
 
 A new feature.
 

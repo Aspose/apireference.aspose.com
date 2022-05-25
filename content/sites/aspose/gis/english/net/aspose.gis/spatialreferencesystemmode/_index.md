@@ -14,7 +14,7 @@ Specifies a mode of Spatial Reference System (SRS) writing in database if it's a
 public enum SpatialReferenceSystemMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

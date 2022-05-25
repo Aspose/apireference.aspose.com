@@ -14,7 +14,7 @@ Gets a separator character used to separate directory levels of the [`Location`]
 public abstract char Separator { get; }
 ```
 
-## Property Value
+### Property Value
 
 A separator character used to separate directory levels of the [`Location`](../location) string.
 

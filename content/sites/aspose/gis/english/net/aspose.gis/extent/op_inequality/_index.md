@@ -19,7 +19,7 @@ public static bool operator !=(Extent left, Extent right)
 | left | Extent | First argument. |
 | right | Extent | Second argument. |
 
-## Return Value
+### Return Value
 
 Value indicating whether arguments are not equal.
 

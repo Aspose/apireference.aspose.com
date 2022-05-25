@@ -18,7 +18,7 @@ public bool Disjoint(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry is "spatially disjoint" from another geometry. `false` otherwise.
 

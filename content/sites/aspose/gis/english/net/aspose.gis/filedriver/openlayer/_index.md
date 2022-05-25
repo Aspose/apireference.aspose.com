@@ -18,7 +18,7 @@ public VectorLayer OpenLayer(string path)
 | --- | --- | --- |
 | path | String | Path to the file. |
 
-## Return Value
+### Return Value
 
 An instance of [`VectorLayer`](../../vectorlayer).
 
@@ -52,7 +52,7 @@ public VectorLayer OpenLayer(AbstractPath path)
 | --- | --- | --- |
 | path | AbstractPath | Path to the file. |
 
-## Return Value
+### Return Value
 
 An instance of [`VectorLayer`](../../vectorlayer).
 
@@ -88,7 +88,7 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 | path | String | Path to the file. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`VectorLayer`](../../vectorlayer).
 
@@ -125,7 +125,7 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 | path | AbstractPath | Path to the file. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
 An instance of [`VectorLayer`](../../vectorlayer).
 

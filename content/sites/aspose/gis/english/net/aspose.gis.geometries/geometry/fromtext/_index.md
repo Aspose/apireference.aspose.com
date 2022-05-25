@@ -18,7 +18,7 @@ public static IGeometry FromText(string wkt)
 | --- | --- | --- |
 | wkt | String | Well-Known Text representation of a geometry. |
 
-## Return Value
+### Return Value
 
 A geometry represented by the argument.
 
@@ -52,7 +52,7 @@ public static IGeometry FromText(string wkt, SpatialReferenceSystem spatialRefer
 | wkt | String | Well-Known Text representation of a geometry. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial Reference System to be assigned to the geometry. |
 
-## Return Value
+### Return Value
 
 A geometry represented by the argument.
 

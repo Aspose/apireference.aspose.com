@@ -14,7 +14,7 @@ The types of a raster band.
 public enum BandTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

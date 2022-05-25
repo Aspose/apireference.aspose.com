@@ -19,7 +19,7 @@ public Feature NearestTo(double x, double y)
 | x | Double | X of the coordinate. |
 | y | Double | Y of the coordinate. |
 
-## Return Value
+### Return Value
 
 The nearest feature to the provided coordinate.
 
@@ -44,7 +44,7 @@ public Feature NearestTo(IPoint point)
 | --- | --- | --- |
 | point | IPoint | The point. |
 
-## Return Value
+### Return Value
 
 The nearest feature to the provided point.
 

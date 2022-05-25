@@ -18,7 +18,7 @@ public abstract Stream Open(FileAccess access)
 | --- | --- | --- |
 | access | FileAccess | Specifies a subset of operations that can be performed on a Stream. |
 
-## Return Value
+### Return Value
 
 A Stream opened with the specified FileAccess.
 

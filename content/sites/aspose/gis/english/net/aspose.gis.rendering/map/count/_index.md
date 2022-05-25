@@ -14,7 +14,7 @@ Gets the number of layers in the map.
 public int Count { get; }
 ```
 
-## Return Value
+### Return Value
 
 The number of layers in the map.
 

@@ -20,7 +20,7 @@ public virtual FeaturesSequence WhereEqual<T>(string attributeName, T value)
 | attributeName | Attribute to filter by. |
 | value | Value to compare against. |
 
-## Return Value
+### Return Value
 
 Features with attribute value equal to the provided value.
 

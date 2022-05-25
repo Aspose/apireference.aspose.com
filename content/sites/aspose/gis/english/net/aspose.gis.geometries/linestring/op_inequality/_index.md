@@ -19,7 +19,7 @@ public static bool operator !=(LineString a, LineString b)
 | a | LineString | The A instance. |
 | b | LineString | The B instance. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

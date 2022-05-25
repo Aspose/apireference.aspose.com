@@ -14,7 +14,7 @@ Specifies a stroke style.
 public enum StrokeStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

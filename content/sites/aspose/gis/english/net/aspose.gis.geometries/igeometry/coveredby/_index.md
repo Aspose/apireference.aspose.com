@@ -18,7 +18,7 @@ public bool CoveredBy(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry is "spatially covered by" another geometry. `false` otherwise.
 

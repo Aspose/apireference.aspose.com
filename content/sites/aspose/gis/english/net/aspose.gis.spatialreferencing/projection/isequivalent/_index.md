@@ -18,7 +18,7 @@ public bool IsEquivalent(Projection other)
 | --- | --- | --- |
 | other | Projection | Other projection |
 
-## Return Value
+### Return Value
 
 `true` if projections are equivalent, `false` otherwise.
 

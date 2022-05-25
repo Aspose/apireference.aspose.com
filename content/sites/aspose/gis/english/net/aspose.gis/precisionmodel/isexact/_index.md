@@ -14,7 +14,7 @@ Gets a value indicating whether this precision model is exact.
 public bool IsExact { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this precision model is exact; `false` otherwise.
 

@@ -18,7 +18,7 @@ public virtual AbstractPath Combine(string location)
 | --- | --- | --- |
 | location | String | A path component to append to this [`AbstractPath`](../../abstractpath). |
 
-## Return Value
+### Return Value
 
 A new [`AbstractPath`](../../abstractpath) pointing to a [`Location`](../location) that is a combination of locations of this [`AbstractPath`](../../abstractpath) and the argument.
 

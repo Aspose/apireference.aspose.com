@@ -18,7 +18,7 @@ public bool Touches(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry. |
 
-## Return Value
+### Return Value
 
 `true` if this geometry is "spatially touches" another geometry. `false` otherwise.
 

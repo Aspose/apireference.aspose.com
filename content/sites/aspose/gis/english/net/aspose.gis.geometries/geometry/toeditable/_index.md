@@ -14,7 +14,7 @@ Gets an editable copy of this geometry.
 public Geometry ToEditable()
 ```
 
-## Return Value
+### Return Value
 
 An editable copy of this geometry.
 
@@ -39,7 +39,7 @@ public T ToEditable<T>()
 | --- | --- |
 | T | Type of the geometry to get. Must be an inheritor of [`Geometry`](../../geometry) class. |
 
-## Return Value
+### Return Value
 
 An editable copy of this geometry.
 

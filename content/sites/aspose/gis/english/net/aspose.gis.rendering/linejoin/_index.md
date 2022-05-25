@@ -14,7 +14,7 @@ Determines how lines are rendered at intersections of line segments.
 public enum LineJoin
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

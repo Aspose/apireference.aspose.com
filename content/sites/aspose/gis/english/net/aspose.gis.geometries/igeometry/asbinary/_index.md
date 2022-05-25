@@ -14,7 +14,7 @@ Translates this geometry to its Well-Known Binary representation.
 public byte[] AsBinary()
 ```
 
-## Return Value
+### Return Value
 
 Well-Known Binary representation of this geometry.
 
@@ -42,7 +42,7 @@ public byte[] AsBinary(WkbVariant variant)
 | --- | --- | --- |
 | variant | WkbVariant | Well-Known Binary variant to use. |
 
-## Return Value
+### Return Value
 
 Well-Known Binary representation of this geometry.
 

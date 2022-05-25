@@ -14,7 +14,7 @@ Gets a value indicating whether this attribute is locked.
 public bool IsLocked { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this attribute is locked; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Determines if the ring has clockwise winding
 public bool IsClockwise()
 ```
 
-## Return Value
+### Return Value
 
 `true` if clockwise; otherwise `false`.
 

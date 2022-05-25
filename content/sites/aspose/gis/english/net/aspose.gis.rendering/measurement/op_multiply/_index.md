@@ -19,7 +19,7 @@ public static Measurement operator *(Measurement measurement, double factor)
 | measurement | Measurement | Measurement to multiply. |
 | factor | Double | Factor to divide on. |
 
-## Return Value
+### Return Value
 
 A measurement with [`Value`](../value) multiplied by factor.
 

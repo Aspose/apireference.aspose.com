@@ -18,7 +18,7 @@ public double GetDistanceTo(IGeometry other)
 | --- | --- | --- |
 | other | IGeometry | A geometry to find distance to. |
 
-## Return Value
+### Return Value
 
 If both geometries are not [`IsEmpty`](../isempty) - a distance between closest points of the geometries. If at least one geometry is empty -1 is returned.
 

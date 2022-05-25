@@ -14,7 +14,7 @@ Gets the number of symbolizers.
 public int Count { get; }
 ```
 
-## Return Value
+### Return Value
 
 The number of symbolizers.
 
