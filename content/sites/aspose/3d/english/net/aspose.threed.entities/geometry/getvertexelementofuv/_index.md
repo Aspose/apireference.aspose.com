@@ -18,7 +18,7 @@ public VertexElementUV GetVertexElementOfUV(TextureMapping textureMapping)
 | --- | --- | --- |
 | textureMapping | TextureMapping |  |
 
-## Return Value
+### Return Value
 
 VertexElementUV with the texture mapping type
 

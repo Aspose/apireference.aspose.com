@@ -14,7 +14,7 @@ The polygon rasterization mode
 public enum PolygonMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

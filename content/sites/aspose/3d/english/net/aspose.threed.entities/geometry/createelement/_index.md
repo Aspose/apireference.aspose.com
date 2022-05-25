@@ -18,7 +18,7 @@ public VertexElement CreateElement(VertexElementType type)
 | --- | --- | --- |
 | type | VertexElementType | Vertex element type |
 
-## Return Value
+### Return Value
 
 Created element.
 
@@ -51,7 +51,7 @@ public VertexElement CreateElement(VertexElementType type, MappingMode mappingMo
 | mappingMode | MappingMode | Default mapping mode |
 | referenceMode | ReferenceMode | Default reference mode |
 
-## Return Value
+### Return Value
 
 Created element.
 

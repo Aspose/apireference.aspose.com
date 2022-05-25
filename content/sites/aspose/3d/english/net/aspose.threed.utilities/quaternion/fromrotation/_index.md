@@ -19,7 +19,7 @@ public static Quaternion FromRotation(Vector3 orig, Vector3 dest)
 | orig | Vector3 | Original direction |
 | dest | Vector3 | Destination direction |
 
-## Return Value
+### Return Value
 
 Created quaternion
 

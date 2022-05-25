@@ -14,7 +14,7 @@ Gets or sets the patch's type.
 public PatchDirectionType Type { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type.
 

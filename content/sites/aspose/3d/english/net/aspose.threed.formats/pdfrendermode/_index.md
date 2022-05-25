@@ -14,7 +14,7 @@ Render mode specifies the style in which the 3D artwork is rendered.
 public enum PdfRenderMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

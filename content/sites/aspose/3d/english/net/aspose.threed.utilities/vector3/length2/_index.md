@@ -14,7 +14,7 @@ Gets the square of the length.
 public double Length2 { get; }
 ```
 
-## Property Value
+### Property Value
 
 The length2.
 

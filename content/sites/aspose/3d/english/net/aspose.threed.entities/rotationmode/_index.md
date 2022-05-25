@@ -14,7 +14,7 @@ The frustum's rotation mode
 public enum RotationMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

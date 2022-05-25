@@ -14,7 +14,7 @@ Each face of the cube map texture
 public enum CubeFace
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

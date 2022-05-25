@@ -14,7 +14,7 @@ Gets or sets the key's interpolation type, list.data[index] defines the algorith
 public Interpolation Interpolation { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The interpolation.
 

@@ -19,7 +19,7 @@ public static VertexElementUV GenerateUV(Mesh mesh, VertexElementNormal normals)
 | mesh | Mesh | The input mesh |
 | normals | VertexElementNormal | The normal data |
 
-## Return Value
+### Return Value
 
 Generated UV data
 
@@ -46,7 +46,7 @@ public static VertexElementUV GenerateUV(Mesh mesh)
 | --- | --- | --- |
 | mesh | Mesh | The input mesh |
 
-## Return Value
+### Return Value
 
 Generated UV data
 

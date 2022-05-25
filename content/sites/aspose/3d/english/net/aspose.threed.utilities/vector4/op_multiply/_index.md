@@ -19,7 +19,7 @@ public static Vector4 operator *(Vector4 lhs, Vector4 rhs)
 | lhs | Vector4 | The left vector |
 | rhs | Vector4 | The right vector |
 
-## Return Value
+### Return Value
 
 Result vector
 
@@ -44,7 +44,7 @@ public static Vector4 operator *(Vector4 lhs, double rhs)
 | lhs | Vector4 | The left vector |
 | rhs | Double | The right double value |
 
-## Return Value
+### Return Value
 
 Result vector
 

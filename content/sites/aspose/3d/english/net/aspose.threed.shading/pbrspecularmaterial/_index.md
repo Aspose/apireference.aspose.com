@@ -50,11 +50,11 @@ public class PbrSpecularMaterial : Material
 | [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | Sets the texture to specified slot |
 | override [ToString](../../aspose.threed.shading/material/tostring)() | Formats object to string |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [MapSpecularGlossiness](mapspecularglossiness) | The texture map for specular glossiness |
+| const [MapSpecularGlossiness](../../aspose.threed.shading/pbrspecularmaterial/mapspecularglossiness) | The texture map for specular glossiness |
 
 ### See Also
 

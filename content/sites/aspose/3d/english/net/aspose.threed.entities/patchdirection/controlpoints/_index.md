@@ -14,7 +14,7 @@ Gets or sets the count of control points in current direction.
 public int ControlPoints { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The count.
 

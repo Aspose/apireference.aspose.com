@@ -19,7 +19,7 @@ public static Vector4 operator -(Vector4 lhs, Vector4 rhs)
 | lhs | Vector4 | The left vector |
 | rhs | Vector4 | The right vector |
 
-## Return Value
+### Return Value
 
 Result vector
 

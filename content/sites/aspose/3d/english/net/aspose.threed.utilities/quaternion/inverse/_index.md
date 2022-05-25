@@ -14,7 +14,7 @@ Returns a inverse quaternion of current quaternion
 public Quaternion Inverse()
 ```
 
-## Return Value
+### Return Value
 
 Inverse quaternion.
 

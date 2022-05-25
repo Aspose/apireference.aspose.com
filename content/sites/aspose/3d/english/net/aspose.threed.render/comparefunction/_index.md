@@ -14,7 +14,7 @@ The compare function used in depth/stencil testing.
 public enum CompareFunction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ The data type of the elements in [`IIndexBuffer`](../iindexbuffer)
 public enum IndexDataType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

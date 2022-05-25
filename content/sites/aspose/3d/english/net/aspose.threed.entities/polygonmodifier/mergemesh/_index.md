@@ -18,7 +18,7 @@ public static Mesh MergeMesh(Scene scene)
 | --- | --- | --- |
 | scene | Scene | The scene to merge |
 
-## Return Value
+### Return Value
 
 The merged mesh
 
@@ -60,7 +60,7 @@ public static Mesh MergeMesh(Node node)
 | --- | --- | --- |
 | node | Node | The node to merge |
 
-## Return Value
+### Return Value
 
 Merged mesh
 

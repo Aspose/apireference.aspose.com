@@ -15,7 +15,7 @@ Property's flags
 public enum PropertyFlags : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

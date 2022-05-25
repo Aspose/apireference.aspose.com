@@ -14,7 +14,7 @@ Gets the full weight values of target geometries.
 public IList<double> Weights { get; }
 ```
 
-## Property Value
+### Property Value
 
 The full weights.
 

@@ -18,7 +18,7 @@ public int GetPolygonSize(int index)
 | --- | --- | --- |
 | index | Int32 | Index. |
 
-## Return Value
+### Return Value
 
 The polygon size.
 

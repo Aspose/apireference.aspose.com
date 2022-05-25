@@ -14,7 +14,7 @@ Gets or sets the transparency factor. The factor should be ranged between 0(0%, 
 public double Transparency { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The transparency factor.
 

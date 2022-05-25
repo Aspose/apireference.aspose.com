@@ -19,7 +19,7 @@ public BindPoint GetBindPoint(AnimationNode anim, bool create)
 | anim | AnimationNode | On which animation to create the bind point. |
 | create | Boolean | Create the property bind point if it's not found. |
 
-## Return Value
+### Return Value
 
 The property bind point on specified animation instance
 

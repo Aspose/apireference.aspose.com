@@ -14,7 +14,7 @@ url: /net/aspose.threed.entities/skeletontype/
 public enum SkeletonType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

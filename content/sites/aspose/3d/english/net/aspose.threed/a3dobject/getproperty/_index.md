@@ -18,7 +18,7 @@ public object GetProperty(string property)
 | --- | --- | --- |
 | property | String | Property name |
 
-## Return Value
+### Return Value
 
 The value of the found property
 

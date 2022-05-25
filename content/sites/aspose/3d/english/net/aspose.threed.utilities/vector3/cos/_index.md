@@ -14,7 +14,7 @@ Calculates cosine on each component
 public Vector3 Cos()
 ```
 
-## Return Value
+### Return Value
 
 Calculated [`Vector3`](../../vector3).
 

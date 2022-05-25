@@ -20,7 +20,7 @@ public BindPoint GetBindPoint(A3DObject target, string propName, bool create)
 | propName | String | The property's name. |
 | create | Boolean | If set to `true` create the bind point if it's not existing. |
 
-## Return Value
+### Return Value
 
 The bind point.
 

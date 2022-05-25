@@ -19,7 +19,7 @@ public static bool operator ==(Vector2 lhs, Vector2 rhs)
 | lhs | Vector2 | Left hand side value. |
 | rhs | Vector2 | Right hand side value. |
 
-## Return Value
+### Return Value
 
 True if all components are identically equal.
 

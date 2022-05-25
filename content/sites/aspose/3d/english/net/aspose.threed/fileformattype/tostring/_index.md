@@ -14,7 +14,7 @@ Get the name of this file format type
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 A String that represents the current `ToString`.
 

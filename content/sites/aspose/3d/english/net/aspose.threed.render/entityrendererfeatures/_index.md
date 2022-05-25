@@ -15,7 +15,7 @@ The extra features that the entity renderer will provide
 public enum EntityRendererFeatures : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

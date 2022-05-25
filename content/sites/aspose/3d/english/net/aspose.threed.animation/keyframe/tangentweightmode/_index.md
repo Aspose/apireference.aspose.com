@@ -14,7 +14,7 @@ Gets or sets the key's tangent weight mode. The out tangent or the next in tange
 public WeightedMode TangentWeightMode { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The tangent weight mode.
 

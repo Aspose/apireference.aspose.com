@@ -14,7 +14,7 @@ Converts all items in the list to an array
 public T[] ToArray()
 ```
 
-## Return Value
+### Return Value
 
 Items array
 

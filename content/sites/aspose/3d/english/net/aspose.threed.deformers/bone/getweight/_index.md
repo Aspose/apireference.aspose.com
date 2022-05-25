@@ -18,7 +18,7 @@ public double GetWeight(int index)
 | --- | --- | --- |
 | index | Int32 | Control point's index |
 
-## Return Value
+### Return Value
 
 the weight at specified index, or 0 if the index is invalid
 

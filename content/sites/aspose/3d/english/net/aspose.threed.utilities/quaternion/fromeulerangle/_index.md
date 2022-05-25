@@ -20,7 +20,7 @@ public static Quaternion FromEulerAngle(double pitch, double yaw, double roll)
 | yaw | Double | Yaw in radian |
 | roll | Double | Roll in radian |
 
-## Return Value
+### Return Value
 
 Created quaternion
 
@@ -44,7 +44,7 @@ public static Quaternion FromEulerAngle(Vector3 eulerAngle)
 | --- | --- | --- |
 | eulerAngle | Vector3 | Euler angle in radian |
 
-## Return Value
+### Return Value
 
 Created quaternion
 

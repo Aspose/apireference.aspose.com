@@ -18,7 +18,7 @@ public bool Equals(Vector2 rhs)
 | --- | --- | --- |
 | rhs | Vector2 | The right hand side value. |
 
-## Return Value
+### Return Value
 
 True if all components are identically equal.
 
@@ -42,7 +42,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The object to compare. |
 
-## Return Value
+### Return Value
 
 True if all components are identically equal.
 

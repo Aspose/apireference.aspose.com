@@ -14,7 +14,7 @@ Gets or sets the UV scale.
 public Vector2 UVScale { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The UV scale.
 

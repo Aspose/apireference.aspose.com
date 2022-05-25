@@ -67,7 +67,7 @@ public byte[] Encode(Entity entity, DracoSaveOptions options = null)
 | entity | Entity | The entity to be encoded |
 | options | DracoSaveOptions | Extra options for encoding the point cloud |
 
-## Return Value
+### Return Value
 
 The encoded draco data represented in bytes
 

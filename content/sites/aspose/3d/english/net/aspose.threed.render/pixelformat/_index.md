@@ -14,7 +14,7 @@ The pixel's format used in texture unit.
 public enum PixelFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

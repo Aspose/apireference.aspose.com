@@ -14,7 +14,7 @@ Returns a conjugate quaternion of current quaternion
 public Quaternion Conjugate()
 ```
 
-## Return Value
+### Return Value
 
 The conjugate quaternion.
 

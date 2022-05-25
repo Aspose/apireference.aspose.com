@@ -14,7 +14,7 @@ Gets the determinant of the matrix.
 public double Determinant { get; }
 ```
 
-## Property Value
+### Property Value
 
 The determinant.
 

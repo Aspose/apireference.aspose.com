@@ -20,7 +20,7 @@ public static double Clamp(double val, double min, double max)
 | min | Double | Minimum value. |
 | max | Double | Maximum value. |
 
-## Return Value
+### Return Value
 
 The value between [min, max]
 

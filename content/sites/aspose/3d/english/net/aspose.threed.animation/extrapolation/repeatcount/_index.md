@@ -14,7 +14,7 @@ Gets and sets the repeat times of the extrapolation pattern.
 public int RepeatCount { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The count.
 

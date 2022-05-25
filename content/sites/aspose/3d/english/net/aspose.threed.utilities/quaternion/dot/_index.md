@@ -18,7 +18,7 @@ public double Dot(Quaternion q)
 | --- | --- | --- |
 | q | Quaternion | The quaternion |
 
-## Return Value
+### Return Value
 
 Dot value
 

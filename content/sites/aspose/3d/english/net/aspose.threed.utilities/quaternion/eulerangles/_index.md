@@ -14,7 +14,7 @@ Converts quaternion to rotation represented by Euler angles All components are i
 public Vector3 EulerAngles()
 ```
 
-## Return Value
+### Return Value
 
 Result vector
 

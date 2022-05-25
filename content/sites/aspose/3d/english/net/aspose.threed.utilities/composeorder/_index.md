@@ -14,7 +14,7 @@ The order to compose transform matrix
 public enum ComposeOrder
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

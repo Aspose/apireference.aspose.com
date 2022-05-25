@@ -15,7 +15,7 @@ Weighted mode.
 public enum WeightedMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -18,7 +18,7 @@ public AnimationChannel GetChannel(string channelName)
 | --- | --- | --- |
 | channelName | String | The channel name to find |
 
-## Return Value
+### Return Value
 
 Channel with the name
 

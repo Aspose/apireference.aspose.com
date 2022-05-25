@@ -14,7 +14,7 @@ Gets or sets the type of the pose.
 public PoseType PoseType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the pose.
 

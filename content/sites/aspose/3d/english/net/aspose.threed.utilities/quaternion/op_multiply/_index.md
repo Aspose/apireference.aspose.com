@@ -19,7 +19,7 @@ public static Quaternion operator *(Quaternion lhs, double rhs)
 | lhs | Quaternion | Left quaternion |
 | rhs | Double | Right quaternion |
 
-## Return Value
+### Return Value
 
 Result quaternion
 
@@ -44,7 +44,7 @@ public static Quaternion operator *(Quaternion lhs, Quaternion rhs)
 | lhs | Quaternion | Left quaternion |
 | rhs | Quaternion | Right quaternion |
 
-## Return Value
+### Return Value
 
 Result quaternion
 
@@ -69,7 +69,7 @@ public static Vector3 operator *(Quaternion q, Vector3 v)
 | q | Quaternion | The rotation quaternion |
 | v | Vector3 | Vector to rotate |
 
-## Return Value
+### Return Value
 
 Rotated vector
 
@@ -95,7 +95,7 @@ public static Vector4 operator *(Quaternion q, Vector4 v)
 | q | Quaternion | The rotation quaternion |
 | v | Vector4 | Vector to rotate |
 
-## Return Value
+### Return Value
 
 Rotated vector
 
@@ -121,7 +121,7 @@ public static Vector3 operator *(Vector3 v, Quaternion q)
 | v | Vector3 | The rotation quaternion |
 | q | Quaternion | Vector to rotate |
 
-## Return Value
+### Return Value
 
 Rotated vector
 

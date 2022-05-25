@@ -14,7 +14,7 @@ Vertex field's data type
 public enum VertexFieldDataType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets the count of polygons
 public int PolygonCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The polygon count.
 

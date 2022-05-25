@@ -14,7 +14,7 @@ The dimension of the curves.
 public enum CurveDimension
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

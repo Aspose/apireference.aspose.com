@@ -14,7 +14,7 @@ Gets or sets the attenuation of the reflection color.
 public double ReflectionFactor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The reflection factor.
 

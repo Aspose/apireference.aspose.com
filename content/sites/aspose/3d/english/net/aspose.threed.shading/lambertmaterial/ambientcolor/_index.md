@@ -14,7 +14,7 @@ Gets or sets the ambient color
 public Vector3 AmbientColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The ambient.
 

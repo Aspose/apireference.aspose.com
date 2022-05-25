@@ -19,7 +19,7 @@ public static Vector3 operator /(Vector3 lhs, double rhs)
 | lhs | Vector3 | The left vector |
 | rhs | Double | The right double value |
 
-## Return Value
+### Return Value
 
 Result vector
 

@@ -14,7 +14,7 @@ Gets or sets the UV translation.
 public Vector2 UVTranslation { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The UV translation.
 

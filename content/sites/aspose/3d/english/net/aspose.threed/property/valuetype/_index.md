@@ -14,7 +14,7 @@ Gets the type of the property value.
 public abstract Type ValueType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the value.
 

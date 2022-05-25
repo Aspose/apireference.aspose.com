@@ -22,7 +22,7 @@ public abstract IPipeline CreatePipeline(ShaderProgram shader, RenderState rende
 | vertexDeclaration | VertexDeclaration | The vertex declaration of input vertex data |
 | drawOperation | DrawOperation | Draw operation |
 
-## Return Value
+### Return Value
 
 A new pipeline instance
 

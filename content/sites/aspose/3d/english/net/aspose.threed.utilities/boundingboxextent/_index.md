@@ -14,7 +14,7 @@ The extent of the bounding box
 public enum BoundingBoxExtent
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

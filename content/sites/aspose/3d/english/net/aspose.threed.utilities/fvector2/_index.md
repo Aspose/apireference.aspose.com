@@ -34,12 +34,12 @@ public struct FVector2
 | [operator !=](../../aspose.threed.utilities/fvector2/op_inequality) | != Operator overloading |
 | [operator -](../../aspose.threed.utilities/fvector2/op_subtraction) | - Operator overloading |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| [x](x) | The x component. |
-| [y](y) | The y component. |
+| [x](../../aspose.threed.utilities/fvector2/x) | The x component. |
+| [y](../../aspose.threed.utilities/fvector2/y) | The y component. |
 
 ### See Also
 

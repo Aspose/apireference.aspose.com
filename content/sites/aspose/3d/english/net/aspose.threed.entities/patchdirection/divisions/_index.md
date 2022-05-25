@@ -14,7 +14,7 @@ Gets or sets the number of divisions between adjacent control points.
 public int Divisions { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The step.
 

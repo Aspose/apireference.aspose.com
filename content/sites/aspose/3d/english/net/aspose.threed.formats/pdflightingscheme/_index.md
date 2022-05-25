@@ -14,7 +14,7 @@ LightingScheme specifies the lighting to apply to 3D artwork.
 public enum PdfLightingScheme
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

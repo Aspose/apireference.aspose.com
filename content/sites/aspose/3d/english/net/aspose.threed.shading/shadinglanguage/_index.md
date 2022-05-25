@@ -14,7 +14,7 @@ Commonly used shading languages
 public enum ShadingLanguage
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

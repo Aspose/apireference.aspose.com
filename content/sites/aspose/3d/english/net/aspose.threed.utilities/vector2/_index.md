@@ -50,12 +50,12 @@ public struct Vector2 : IComparable<Vector2>
 | [operator *](../../aspose.threed.utilities/vector2/op_multiply) | Multiply operator for Vector2 (2 operators) |
 | [operator -](../../aspose.threed.utilities/vector2/op_subtraction) | Subtraction operator for Vector2 |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| [x](x) | The x component. |
-| [y](y) | The y component. |
+| [x](../../aspose.threed.utilities/vector2/x) | The x component. |
+| [y](../../aspose.threed.utilities/vector2/y) | The y component. |
 
 ### See Also
 

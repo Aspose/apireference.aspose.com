@@ -14,7 +14,7 @@ Gets the multiplicity.
 public IArrayList<int> Multiplicity { get; }
 ```
 
-## Property Value
+### Property Value
 
 The multiplicity.
 

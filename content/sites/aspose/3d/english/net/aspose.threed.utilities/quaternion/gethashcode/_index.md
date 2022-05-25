@@ -14,7 +14,7 @@ Gets the hash code of Quaternion
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 The hash code of the [`Quaternion`](../../quaternion)
 

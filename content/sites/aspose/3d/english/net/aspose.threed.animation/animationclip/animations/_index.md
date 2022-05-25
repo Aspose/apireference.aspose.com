@@ -14,7 +14,7 @@ Gets the animations contained inside the clip.
 public IList<AnimationNode> Animations { get; }
 ```
 
-## Property Value
+### Property Value
 
 The layers.
 

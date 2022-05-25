@@ -53,26 +53,26 @@ public struct Matrix4
 | [Transpose](../../aspose.threed.utilities/matrix4/transpose)() | Transposes this instance. |
 | [operator *](../../aspose.threed.utilities/matrix4/op_multiply) | Multiply the two matrices (4 operators) |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| [m00](m00) | The m00. |
-| [m01](m01) | The m01. |
-| [m02](m02) | The m02. |
-| [m03](m03) | The m03. |
-| [m10](m10) | The m10. |
-| [m11](m11) | The m11. |
-| [m12](m12) | The m12. |
-| [m13](m13) | The m13. |
-| [m20](m20) | The m20. |
-| [m21](m21) | The m21. |
-| [m22](m22) | The m22. |
-| [m23](m23) | The m23. |
-| [m30](m30) | The m30. |
-| [m31](m31) | The m31. |
-| [m32](m32) | The m32. |
-| [m33](m33) | The m33. |
+| [m00](../../aspose.threed.utilities/matrix4/m00) | The m00. |
+| [m01](../../aspose.threed.utilities/matrix4/m01) | The m01. |
+| [m02](../../aspose.threed.utilities/matrix4/m02) | The m02. |
+| [m03](../../aspose.threed.utilities/matrix4/m03) | The m03. |
+| [m10](../../aspose.threed.utilities/matrix4/m10) | The m10. |
+| [m11](../../aspose.threed.utilities/matrix4/m11) | The m11. |
+| [m12](../../aspose.threed.utilities/matrix4/m12) | The m12. |
+| [m13](../../aspose.threed.utilities/matrix4/m13) | The m13. |
+| [m20](../../aspose.threed.utilities/matrix4/m20) | The m20. |
+| [m21](../../aspose.threed.utilities/matrix4/m21) | The m21. |
+| [m22](../../aspose.threed.utilities/matrix4/m22) | The m22. |
+| [m23](../../aspose.threed.utilities/matrix4/m23) | The m23. |
+| [m30](../../aspose.threed.utilities/matrix4/m30) | The m30. |
+| [m31](../../aspose.threed.utilities/matrix4/m31) | The m31. |
+| [m32](../../aspose.threed.utilities/matrix4/m32) | The m32. |
+| [m33](../../aspose.threed.utilities/matrix4/m33) | The m33. |
 
 ### See Also
 

@@ -19,7 +19,7 @@ public BindPoint CreateBindPoint(A3DObject obj, string propName)
 | obj | A3DObject | Object. |
 | propName | String | Property name. |
 
-## Return Value
+### Return Value
 
 The bind point instance or null if the property is not defined.
 

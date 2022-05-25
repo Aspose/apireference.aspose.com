@@ -14,7 +14,7 @@ The texture mapping type for [`VertexElementUV`](../vertexelementuv) Describes w
 public enum TextureMapping
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ The type of the [`ITextureUnit`](../itextureunit)
 public enum TextureType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -18,7 +18,7 @@ public double Dot(Vector3 rhs)
 | --- | --- | --- |
 | rhs | Vector3 | Right hand side value. |
 
-## Return Value
+### Return Value
 
 The dot product of the two vectors.
 
