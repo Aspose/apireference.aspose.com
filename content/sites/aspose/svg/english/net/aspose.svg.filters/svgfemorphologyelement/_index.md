@@ -115,13 +115,13 @@ public class SVGFEMorphologyElement : SVGElement, ISVGFilterPrimitiveStandardAtt
 | [SetIdAttributeNS](../../aspose.svg.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.svg.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_MORPHOLOGY_OPERATOR_DILATE](svg_morphology_operator_dilate) | Corresponds to value 'dilate'. |
-| const [SVG_MORPHOLOGY_OPERATOR_ERODE](svg_morphology_operator_erode) | Corresponds to value 'erode'. |
-| const [SVG_MORPHOLOGY_OPERATOR_UNKNOWN](svg_morphology_operator_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_MORPHOLOGY_OPERATOR_DILATE](../../aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_dilate) | Corresponds to value 'dilate'. |
+| const [SVG_MORPHOLOGY_OPERATOR_ERODE](../../aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_erode) | Corresponds to value 'erode'. |
+| const [SVG_MORPHOLOGY_OPERATOR_UNKNOWN](../../aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

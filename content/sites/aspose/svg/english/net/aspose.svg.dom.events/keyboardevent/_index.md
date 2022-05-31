@@ -56,14 +56,14 @@ public class KeyboardEvent : UIEvent
 | [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation)() | The [`StopPropagation`](../event/stoppropagation) method is used prevent further propagation of an event during event flow. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [DOM_KEY_LOCATION_LEFT](dom_key_location_left) | The key activated originated from the left key location (when there is more than one possible location for this key). |
-| const [DOM_KEY_LOCATION_NUMPAD](dom_key_location_numpad) | The key activation originated on the numeric keypad or with a virtual key corresponding to the numeric keypad (when there is more than one possible location for this key). Note that the NumLock key should always be encoded with a location of DOM_KEY_LOCATION_STANDARD. |
-| const [DOM_KEY_LOCATION_RIGHT](dom_key_location_right) | The key activation originated from the right key location (when there is more than one possible location for this key). |
-| const [DOM_KEY_LOCATION_STANDARD](dom_key_location_standard) | The key activation MUST NOT be distinguished as the left or right version of the key, and (other than the NumLock key) did not originate from the numeric keypad (or did not originate with a virtual key corresponding to the numeric keypad). |
+| const [DOM_KEY_LOCATION_LEFT](../../aspose.svg.dom.events/keyboardevent/dom_key_location_left) | The key activated originated from the left key location (when there is more than one possible location for this key). |
+| const [DOM_KEY_LOCATION_NUMPAD](../../aspose.svg.dom.events/keyboardevent/dom_key_location_numpad) | The key activation originated on the numeric keypad or with a virtual key corresponding to the numeric keypad (when there is more than one possible location for this key). Note that the NumLock key should always be encoded with a location of DOM_KEY_LOCATION_STANDARD. |
+| const [DOM_KEY_LOCATION_RIGHT](../../aspose.svg.dom.events/keyboardevent/dom_key_location_right) | The key activation originated from the right key location (when there is more than one possible location for this key). |
+| const [DOM_KEY_LOCATION_STANDARD](../../aspose.svg.dom.events/keyboardevent/dom_key_location_standard) | The key activation MUST NOT be distinguished as the left or right version of the key, and (other than the NumLock key) did not originate from the numeric keypad (or did not originate with a virtual key corresponding to the numeric keypad). |
 
 ### See Also
 

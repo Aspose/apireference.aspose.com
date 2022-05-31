@@ -32,14 +32,14 @@ public abstract class CSSValue : DOMObject
 | [operator ==](../../aspose.svg.dom.css/cssvalue/op_equality) | Implements the operator ==. |
 | [operator !=](../../aspose.svg.dom.css/cssvalue/op_inequality) | Implements the operator !=. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [CSS_CUSTOM](css_custom) | The value is a custom value. |
-| const [CSS_INHERIT](css_inherit) | The value is inherited and the cssText contains "inherit". |
-| const [CSS_PRIMITIVE_VALUE](css_primitive_value) | The value is a primitive value and an instance of the CSSPrimitiveValue interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
-| const [CSS_VALUE_LIST](css_value_list) | The value is a CSSValue list and an instance of the CSSValueList interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
+| const [CSS_CUSTOM](../../aspose.svg.dom.css/cssvalue/css_custom) | The value is a custom value. |
+| const [CSS_INHERIT](../../aspose.svg.dom.css/cssvalue/css_inherit) | The value is inherited and the cssText contains "inherit". |
+| const [CSS_PRIMITIVE_VALUE](../../aspose.svg.dom.css/cssvalue/css_primitive_value) | The value is a primitive value and an instance of the CSSPrimitiveValue interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
+| const [CSS_VALUE_LIST](../../aspose.svg.dom.css/cssvalue/css_value_list) | The value is a CSSValue list and an instance of the CSSValueList interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
 
 ### See Also
 

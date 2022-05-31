@@ -119,13 +119,13 @@ public class SVGTextContentElement : SVGGraphicsElement
 | [SetIdAttributeNS](../../aspose.svg.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.svg.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [LENGTHADJUST_SPACING](lengthadjust_spacing) | Corresponds to value 'spacing'. |
-| const [LENGTHADJUST_SPACINGANDGLYPHS](lengthadjust_spacingandglyphs) | Corresponds to value 'spacingAndGlyphs'. |
-| const [LENGTHADJUST_UNKNOWN](lengthadjust_unknown) | The enumeration was set to a value that is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [LENGTHADJUST_SPACING](../../aspose.svg/svgtextcontentelement/lengthadjust_spacing) | Corresponds to value 'spacing'. |
+| const [LENGTHADJUST_SPACINGANDGLYPHS](../../aspose.svg/svgtextcontentelement/lengthadjust_spacingandglyphs) | Corresponds to value 'spacingAndGlyphs'. |
+| const [LENGTHADJUST_UNKNOWN](../../aspose.svg/svgtextcontentelement/lengthadjust_unknown) | The enumeration was set to a value that is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

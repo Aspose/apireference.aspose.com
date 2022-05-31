@@ -19,7 +19,7 @@ public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement p
 | trace | IEnumerable`1 | The list of trace points. |
 | path | SVGPathElement | The SVG path element where path segments will be added. |
 
-## Return Value
+### Return Value
 
 The list of the path segments [`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg).
 
