@@ -40,6 +40,12 @@ public enum Language
 | Slv | `19` | Slovene alphabet |
 | Swe | `20` | Swedish alphabet |
 | Chi | `21` | Chinese alphabet |
+| Bel | `22` | Belorussian alphabet |
+| Bul | `22` | Bulgarian alphabet |
+| Kaz | `22` | Kazakh alphabet |
+| Rus | `22` | Russian alphabet |
+| Srp | `22` | Serbian alphabet |
+| Ukr | `22` | Ukrainian alphabet |
 
 ### See Also
 
