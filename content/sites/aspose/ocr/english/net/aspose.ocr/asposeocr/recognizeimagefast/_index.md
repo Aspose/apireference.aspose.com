@@ -3,7 +3,7 @@ title: RecognizeImageFast
 second_title: Aspose.OCR for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 81
 url: /net/aspose.ocr/asposeocr/recognizeimagefast/
 ---
 ## AsposeOcr.RecognizeImageFast method (1 of 2)
