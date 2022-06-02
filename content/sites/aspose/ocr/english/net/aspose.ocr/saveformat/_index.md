@@ -22,6 +22,8 @@ public enum SaveFormat
 | Docx | `1` | Saves the document as an Office Open XML WordprocessingML Document (macro-free). |
 | Pdf | `2` | Saves the document as a PDF (Adobe Portable Document) Document. |
 | Xlsx | `3` | Saves the document as an Excel ( 2007 and later) workbook Document. |
+| Xml | `4` | Saves the document as an XML file. |
+| Json | `5` | Saves the document as an JSON file. |
 
 ### See Also
 

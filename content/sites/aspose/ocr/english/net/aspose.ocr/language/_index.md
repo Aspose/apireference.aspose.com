@@ -41,11 +41,11 @@ public enum Language
 | Swe | `20` | Swedish alphabet |
 | Chi | `21` | Chinese alphabet |
 | Bel | `22` | Belorussian alphabet |
-| Bul | `22` | Bulgarian alphabet |
-| Kaz | `22` | Kazakh alphabet |
-| Rus | `22` | Russian alphabet |
-| Srp | `22` | Serbian alphabet |
-| Ukr | `22` | Ukrainian alphabet |
+| Bul | `23` | Bulgarian alphabet |
+| Kaz | `24` | Kazakh alphabet |
+| Rus | `25` | Russian alphabet |
+| Srp | `26` | Serbian alphabet |
+| Ukr | `27` | Ukrainian alphabet |
 
 ### See Also
 
