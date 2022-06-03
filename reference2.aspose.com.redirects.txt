@@ -103,6 +103,6 @@ rewrite words/java/com.aspose.words/bookmark" https://reference2.aspose.com/word
 rewrite (net|java|cpp|php|nodejs|androidjava|python)/(words|pdf|cells|email|slides|imaging|barcode|diagram|tasks|ocr|note|cad|3d|html|gis|zip|psd|omr|page|pub|svg)(.*) https://reference2.aspose.com/$2/$1$3 permanent;
 rewrite (net|java)/(viewer|annotation|conversion|comparison|signature|assembly|metadata|search|parser|watermark|editor|merger|redaction|classification)(.*) https://reference2.aspose.com/$2/$1$3 permanent;
 rewrite diagram/nodejs/aspose.diagram/(.*) https://reference2.aspose.com/diagram/nodejs/$1 permanent;
-rewrite admin(.*) https://reference-qa.aspose.com/admin$1 permanent;
+rewrite admin(.*) https://apireference-qa.aspose.com/admin$1 permanent;
 rewrite (.*)/python(?!-java)(.*) https://reference2.aspose.com/$1/python-java$2 permanent;
 
