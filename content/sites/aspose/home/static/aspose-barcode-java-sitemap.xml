@@ -1,762 +1,762 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apireference.aspose.com/barcode/java</loc>
+    <loc>https://reference.aspose.com/barcode/java</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/allclasses-frame</loc>
+    <loc>https://reference.aspose.com/barcode/java/allclasses-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/package-frame</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/package-frame</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/package-frame</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/package-frame</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/package-frame</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.metered/package-frame</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.metered/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/Address</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/Address</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/AddressType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/AddressType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/AlternativeScheme</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/AlternativeScheme</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/AustralianPostParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/AustralianPostParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/AustraliaPostSettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/AustraliaPostSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/AustraliaPostCustomerInformationDecoder</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/AustraliaPostCustomerInformationDecoder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/AutoSizeMode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/AutoSizeMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/AztecParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/AztecParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/AztecParametersUI</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/AztecParametersUI</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/AztecSymbolMode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/AztecSymbolMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/BarCodeException</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/BarCodeException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeConfidence</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeConfidence</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/BarcodeClassifications</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/BarcodeClassifications</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/BarCodeGeneratorControl</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/BarCodeGeneratorControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/BarCodeImageFormat</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/BarCodeImageFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/BarcodeParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/BarcodeParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/BarcodeGenerator</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/BarcodeGenerator</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeRecognitionException</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeRecognitionException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeRegionParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeRegionParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeReader</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeReader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeResult</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarcodeSettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarcodeSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarcodeSvmDetectorSettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarcodeSvmDetectorSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/BaseEncodeType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/BaseEncodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BaseExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BaseExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/BuildVersionInfo</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/BuildVersionInfo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BaseDecodeType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BaseDecodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/BorderDashStyle</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/BorderDashStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/BorderParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/BorderParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/BaseGenerationParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/BaseGenerationParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/CaptionParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/CaptionParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/CaptionUI</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/CaptionUI</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/ChecksumValidation</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/ChecksumValidation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/CodabarParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/CodabarParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/CodabarChecksumMode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/CodabarChecksumMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/CodabarSymbol</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/CodabarSymbol</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/CodablockParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/CodablockParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/Code128Emulation</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/Code128Emulation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Code128DataPortion</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Code128DataPortion</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Code128SubType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Code128SubType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Code128ExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Code128ExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/Code16KParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/Code16KParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/CodeLocation</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/CodeLocation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/CodetextParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/CodetextParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/CodetextParametersUI</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/CodetextParametersUI</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/ComplexBarcode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/ComplexBarcode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/ComplexBarcodeGenerator</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/ComplexBarcodeGenerator</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/ComplexCodetextReader</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/ComplexCodetextReader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/CustomerInformationInterpretingType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/CustomerInformationInterpretingType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/CouponParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/CouponParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/DataBarExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/DataBarExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/DataBarParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/DataBarParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/DataMatrixEncodeMode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/DataMatrixEncodeMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/DataMatrixEccType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/DataMatrixEccType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/DataMatrixParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/DataMatrixParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/DataMatrixParametersUI</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/DataMatrixParametersUI</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/DecodeType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/DecodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/DotCodeParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/DotCodeParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/ECIEncodings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/ECIEncodings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/EnableChecksum</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/EnableChecksum</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/ExtCodetextBuilder</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/ExtCodetextBuilder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/EncodeTypes</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/EncodeTypes</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/FontMode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/FontMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/FontStyle</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/FontStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/FontUnit</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/FontUnit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/InvalidCodeException</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/InvalidCodeException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/IComplexCodetext</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/IComplexCodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/GraphicsUnit</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/GraphicsUnit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/IBarCodeGeneratorControl</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/IBarCodeGeneratorControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/ITF14BorderType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/ITF14BorderType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/License</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/License</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/Mailmark2DCodetext</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/Mailmark2DCodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/ITFParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/ITFParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/MacroCharacter</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/MacroCharacter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.metered/Metered</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.metered/Metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/MailmarkCodetext</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/MailmarkCodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/Mailmark2DType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/Mailmark2DType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/MaxiCodeParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/MaxiCodeParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/MultyDecodeType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/MultyDecodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/OneDExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/OneDExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/Padding</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/Padding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/Pdf417CompactionMode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/Pdf417CompactionMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/PatchCodeParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/PatchCodeParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/PatchFormat</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/PatchFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/Pdf417ErrorLevel</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/Pdf417ErrorLevel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Pdf417ExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Pdf417ExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/Pdf417Parameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/Pdf417Parameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/Pdf417ParametersUI</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/Pdf417ParametersUI</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/PostalParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/PostalParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/PleaseReportException</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/PleaseReportException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/ProcessorSettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/ProcessorSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/QrBillStandardVersion</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/QrBillStandardVersion</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/QREncodeMode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/QREncodeMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/QREncodeType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/QREncodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/QRErrorLevel</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/QRErrorLevel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/QrExtCodetextBuilder</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/QrExtCodetextBuilder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/QRExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/QRExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/QrParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/QrParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/QRVersion</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/QRVersion</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/QrParametersUI</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/QrParametersUI</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/RecognitionAbortedException</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/RecognitionAbortedException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/QrStructuredAppendParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/QrStructuredAppendParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Quadrangle</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/Quadrangle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/SingleDecodeType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/SingleDecodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/SpecificParametersUI</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/SpecificParametersUI</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/StringAlignment</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/StringAlignment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/QualitySettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/QualitySettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/SupplementParameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/SupplementParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/SwissQRBill</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/SwissQRBill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/SwissQRCodetext</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/SwissQRCodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/TextAlignment</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/TextAlignment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/SymbologyEncodeType</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/SymbologyEncodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/overview-summary</loc>
+    <loc>https://reference.aspose.com/barcode/java/overview-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/Unit</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/Unit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/overview-tree</loc>
+    <loc>https://reference.aspose.com/barcode/java/overview-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/package-summary</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/deprecated-list</loc>
+    <loc>https://reference.aspose.com/barcode/java/deprecated-list</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/package-summary</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/package-summary</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/package-summary</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/package-summary</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.metered/package-summary</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.metered/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/package-tree</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/package-tree</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/package-tree</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/package-tree</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/package-tree</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.metered/package-tree</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.metered/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/address</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/address</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/addresstype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/addresstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/australiapostcustomerinformationdecoder</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/australiapostcustomerinformationdecoder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/alternativescheme</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/alternativescheme</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/australianpostparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/australianpostparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/aztecsymbolmode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/aztecsymbolmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/australiapostsettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/australiapostsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/autosizemode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/autosizemode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/aztecparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/aztecparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/aztecparametersui</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/aztecparametersui</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/serialized-form</loc>
+    <loc>https://reference.aspose.com/barcode/java/serialized-form</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/barcodeexception</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/barcodeexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/constant-values</loc>
+    <loc>https://reference.aspose.com/barcode/java/constant-values</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodeconfidence</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodeconfidence</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/barcodeclassifications</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/barcodeclassifications</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/barcodegeneratorcontrol</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/barcodegeneratorcontrol</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodeextendedparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodeextendedparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/barcodeparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/barcodeparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/barcodegenerator</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/barcodegenerator</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/barcodeimageformat</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/barcodeimageformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcoderecognitionexception</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcoderecognitionexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcoderegionparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcoderegionparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcoderesult</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcoderesult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodereader</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodereader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodesvmdetectorsettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodesvmdetectorsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/baseextendedparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/baseextendedparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/baseencodetype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/baseencodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodesettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/barcodesettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/buildversioninfo</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/buildversioninfo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/borderdashstyle</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/borderdashstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/basedecodetype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/basedecodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/borderparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/borderparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/basegenerationparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/basegenerationparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/captionparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/captionparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/captionui</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/captionui</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/codabarchecksummode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/codabarchecksummode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/checksumvalidation</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/checksumvalidation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/codabarsymbol</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/codabarsymbol</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/codabarparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/codabarparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/codablockparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/codablockparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/code16kparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/code16kparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/code128extendedparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/code128extendedparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/code128emulation</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/code128emulation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/code128subtype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/code128subtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/code128dataportion</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/code128dataportion</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/codelocation</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/codelocation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/codetextparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/codetextparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/complexbarcodegenerator</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/complexbarcodegenerator</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/codetextparametersui</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/codetextparametersui</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/complexbarcode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/complexbarcode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/complexcodetextreader</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/complexcodetextreader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/couponparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/couponparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/databarextendedparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/databarextendedparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/databarparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/databarparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/customerinformationinterpretingtype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/customerinformationinterpretingtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/datamatrixencodemode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/datamatrixencodemode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/datamatrixecctype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/datamatrixecctype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/datamatrixparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/datamatrixparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/dotcodeparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/dotcodeparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/datamatrixparametersui</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/datamatrixparametersui</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/eciencodings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/eciencodings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/decodetype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/decodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/enablechecksum</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/enablechecksum</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/extcodetextbuilder</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/extcodetextbuilder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/fontmode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/fontmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/fontunit</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/fontunit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/encodetypes</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/encodetypes</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/fontstyle</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/fontstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/invalidcodeexception</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/invalidcodeexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/ibarcodegeneratorcontrol</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/ibarcodegeneratorcontrol</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/itf14bordertype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/itf14bordertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/graphicsunit</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/graphicsunit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/itfparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/itfparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/icomplexcodetext</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/icomplexcodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/license</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/license</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/mailmark2dcodetext</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/mailmark2dcodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/macrocharacter</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/macrocharacter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.metered/metered</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.metered/metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/mailmarkcodetext</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/mailmarkcodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/mailmark2dtype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/mailmark2dtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/multydecodetype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/multydecodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/onedextendedparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/onedextendedparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/maxicodeparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/maxicodeparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/patchcodeparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/patchcodeparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/padding</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/padding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/pdf417compactionmode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/pdf417compactionmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/patchformat</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/patchformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/pdf417errorlevel</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/pdf417errorlevel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/pdf417extendedparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/pdf417extendedparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/pdf417parameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/pdf417parameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode/pleasereportexception</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode/pleasereportexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/processorsettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/processorsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/pdf417parametersui</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/pdf417parametersui</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/postalparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/postalparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/qrencodemode</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/qrencodemode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/qrbillstandardversion</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/qrbillstandardversion</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/qrerrorlevel</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/qrerrorlevel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/qrencodetype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/qrencodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/qrextcodetextbuilder</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/qrextcodetextbuilder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/qrversion</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/qrversion</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/qrextendedparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/qrextendedparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/qrparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/qrparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/qrstructuredappendparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/qrstructuredappendparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/qrparametersui</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/qrparametersui</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/quadrangle</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/quadrangle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/specificparametersui</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcodecontrol/specificparametersui</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/recognitionabortedexception</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/recognitionabortedexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/stringalignment</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/stringalignment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/supplementparameters</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/supplementparameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/singledecodetype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/singledecodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/swissqrbill</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/swissqrbill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/qualitysettings</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/qualitysettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/swissqrcodetext</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.complexbarcode/swissqrcodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/textalignment</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/textalignment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/unit</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/unit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/java/com.aspose.barcode.generation/symbologyencodetype</loc>
+    <loc>https://reference.aspose.com/barcode/java/com.aspose.barcode.generation/symbologyencodetype</loc>
   </url>
 </urlset>

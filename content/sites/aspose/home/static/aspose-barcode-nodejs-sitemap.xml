@@ -1,189 +1,189 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Address</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Address</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/AlternativeScheme</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/AlternativeScheme</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/global</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/global</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/AustraliaPostSettings</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/AustraliaPostSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/AustralianPostParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/AustralianPostParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/AztecParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/AztecParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BarCodeReader</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BarCodeReader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BarCodeRegionParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BarCodeRegionParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BarCodeResult</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BarCodeResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BarcodeException</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BarcodeException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BarcodeGenerator</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BarcodeGenerator</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BarcodeParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BarcodeParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BarcodeSettings</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BarcodeSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BarcodeSvmDetectorSettings</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BarcodeSvmDetectorSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BaseGenerationParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BaseGenerationParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/BorderParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/BorderParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/CaptionParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/CaptionParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/CodabarParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/CodabarParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/CodablockParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/CodablockParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Code128DataPortion</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Code128DataPortion</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Code128ExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Code128ExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Code16KParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Code16KParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/CodetextParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/CodetextParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/ComplexBarcodeGenerator</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/ComplexBarcodeGenerator</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/ComplexCodetextReader</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/ComplexCodetextReader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/CouponParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/CouponParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/DataBarExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/DataBarExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/DataBarParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/DataBarParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/DataMatrixParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/DataMatrixParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/DotCodeParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/DotCodeParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/ExtCodetextBuilder</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/ExtCodetextBuilder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/FontUnit</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/FontUnit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/IComplexCodetext</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/IComplexCodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/ITFParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/ITFParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/License</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/License</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Mailmark2DCodetext</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Mailmark2DCodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/MailmarkCodetext</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/MailmarkCodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/MaxiCodeParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/MaxiCodeParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/OneDExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/OneDExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Padding</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Padding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/PatchCodeParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/PatchCodeParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Pdf417ExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Pdf417ExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Pdf417Parameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Pdf417Parameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Point</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Point</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/PostalParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/PostalParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/QRExtendedParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/QRExtendedParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/QrExtCodetextBuilder</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/QrExtCodetextBuilder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/QrParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/QrParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/QrStructuredAppendParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/QrStructuredAppendParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Quadrangle</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Quadrangle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/QualitySettings</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/QualitySettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/RecognitionAbortedException</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/RecognitionAbortedException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Rectangle</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Rectangle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/SupplementParameters</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/SupplementParameters</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/SwissQRBill</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/SwissQRBill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/SwissQRCodetext</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/SwissQRCodetext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Unit</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Unit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/ComplexBarcode-js</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/ComplexBarcode-js</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Recognition-js</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Recognition-js</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Generation-js</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Generation-js</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/barcode/nodejs/Joint-js</loc>
+    <loc>https://reference.aspose.com/barcode/nodejs/Joint-js</loc>
   </url>
 </urlset>

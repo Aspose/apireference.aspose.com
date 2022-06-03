@@ -1,438 +1,438 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apireference.aspose.com/ocr/java</loc>
+    <loc>https://reference.aspose.com/ocr/java</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/allclasses-frame</loc>
+    <loc>https://reference.aspose.com/ocr/java/allclasses-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/package-frame</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/package-frame</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/package-frame</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.pdf/package-frame</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.pdf/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/package-frame</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.tiff/package-frame</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.tiff/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/AreasType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/AreasType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.pdf/AsposeOCRPdf</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.pdf/AsposeOCRPdf</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/AsposeOCR</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/AsposeOCR</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/CharactersAllowedType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/CharactersAllowedType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/DetectAreasMode</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/DetectAreasMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/DocumentRecognitionSettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/DocumentRecognitionSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/Format</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/Format</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/InterpolationFilterType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/InterpolationFilterType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/Language</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/Language</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/License</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/License</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/Metered</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/Metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/MeteredBillingService</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/MeteredBillingService</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/MeteredCountService</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/MeteredCountService</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/MeteredHelper</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/MeteredHelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/NotInitializedException</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/NotInitializedException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/MeteredState</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/MeteredState</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/PreprocessingFilter</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/PreprocessingFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/RecognitionResult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/RecognitionResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/SpellCheckLanguage</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/SpellCheckLanguage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/SpellCheckError</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/SpellCheckError</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/RecognitionSettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/RecognitionSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/SuggestedWord</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/SuggestedWord</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.tiff/TiffReader</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.tiff/TiffReader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/overview-summary</loc>
+    <loc>https://reference.aspose.com/ocr/java/overview-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/deprecated-list</loc>
+    <loc>https://reference.aspose.com/ocr/java/deprecated-list</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/overview-tree</loc>
+    <loc>https://reference.aspose.com/ocr/java/overview-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/package-summary</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/package-summary</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/package-summary</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.pdf/package-summary</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.pdf/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/package-summary</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.tiff/package-summary</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.tiff/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/package-tree</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/package-use</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/package-tree</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/package-use</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/package-use</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/package-tree</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.pdf/package-use</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.pdf/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.pdf/package-tree</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.pdf/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/package-summary</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/package-use</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/package-tree</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.tiff/package-use</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.tiff/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.tiff/package-tree</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.tiff/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/areastype</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/areastype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.pdf/asposeocrpdf</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.pdf/asposeocrpdf</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/asposeocr</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/asposeocr</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.pdf/class-use/AsposeOCRPdf</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.pdf/class-use/AsposeOCRPdf</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/AreasType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/AreasType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/AsposeOCR</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/AsposeOCR</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/charactersallowedtype</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/charactersallowedtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/CharactersAllowedType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/CharactersAllowedType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/detectareasmode</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/detectareasmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/DetectAreasMode</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/DetectAreasMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/documentrecognitionsettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/documentrecognitionsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/DocumentRecognitionSettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/DocumentRecognitionSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/format</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/format</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/Format</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/Format</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/interpolationfiltertype</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/interpolationfiltertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/InterpolationFilterType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/InterpolationFilterType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/license</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/license</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/language</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/language</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/License</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/License</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/Language</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/Language</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/metered</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/class-use/Metered</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/class-use/Metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/meteredbillingservice</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/meteredbillingservice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/meteredcountservice</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/meteredcountservice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/class-use/MeteredBillingService</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/class-use/MeteredBillingService</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/class-use/MeteredCountService</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/class-use/MeteredCountService</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/meteredhelper</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/meteredhelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered/class-use/MeteredHelper</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered/class-use/MeteredHelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/class-use/NotInitializedException</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/class-use/NotInitializedException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/notinitializedexception</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/notinitializedexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/serialized-form</loc>
+    <loc>https://reference.aspose.com/ocr/java/serialized-form</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/meteredstate</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/meteredstate</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/constant-values</loc>
+    <loc>https://reference.aspose.com/ocr/java/constant-values</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/class-use/MeteredState</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal/class-use/MeteredState</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/preprocessingfilter</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/preprocessingfilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/PreprocessingFilter</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/PreprocessingFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/recognitionresult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/recognitionresult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/RecognitionResult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/RecognitionResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/spellchecklanguage</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/spellchecklanguage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/RecognitionResult.LinesResult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/RecognitionResult.LinesResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/class-use/SpellCheckLanguage</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/class-use/SpellCheckLanguage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/spellcheckerror</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/spellcheckerror</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/class-use/SpellCheckError</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/class-use/SpellCheckError</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/RecognitionSettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/RecognitionSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/recognitionsettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/recognitionsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.tiff/tiffreader</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.tiff/tiffreader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/suggestedword</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/suggestedword</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/class-use/SuggestedWord</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck/class-use/SuggestedWord</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/package-tree</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.tiff/class-use/TiffReader</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.tiff/class-use/TiffReader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/MeteredBillingService</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/MeteredBillingService</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/AreasType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/AreasType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/MeteredCountService</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/MeteredCountService</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/DetectAreasMode</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/DetectAreasMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/CharactersAllowedType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/CharactersAllowedType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/DocumentRecognitionSettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/DocumentRecognitionSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/InterpolationFilterType</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/InterpolationFilterType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/Language</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/Language</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/Format</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/Format</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/PreprocessingFilter</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/PreprocessingFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/RecognitionResult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/RecognitionResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/RecognitionResult.LinesResult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/RecognitionResult.LinesResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/RecognitionSettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/RecognitionSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck.class-use/SpellCheckError</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck.class-use/SpellCheckError</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck.class-use/SpellCheckLanguage</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck.class-use/SpellCheckLanguage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck.class-use/SuggestedWord</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.SpellCheck.class-use/SuggestedWord</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.pdf.class-use/asposeocrpdf</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.pdf.class-use/asposeocrpdf</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/areastype</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/areastype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/asposeocr</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/asposeocr</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/charactersallowedtype</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/charactersallowedtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/detectareasmode</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/detectareasmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/documentrecognitionsettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/documentrecognitionsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/format</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/format</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/interpolationfiltertype</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/interpolationfiltertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/license</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/license</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/language</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/language</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.class-use/metered</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.class-use/metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/meteredbillingservice</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/meteredbillingservice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/meteredcountservice</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/meteredcountservice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.class-use/meteredhelper</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.class-use/meteredhelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck.class-use/notinitializedexception</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck.class-use/notinitializedexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/meteredstate</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.metered.internal.class-use/meteredstate</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/preprocessingfilter</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/preprocessingfilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/recognitionresult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/recognitionresult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/recognitionresult.linesresult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/recognitionresult.linesresult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr/class-use/RecognitionResult.LinesResult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr/class-use/RecognitionResult.LinesResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck.class-use/spellchecklanguage</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck.class-use/spellchecklanguage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck.class-use/spellcheckerror</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck.class-use/spellcheckerror</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/recognitionsettings</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/recognitionsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.spellcheck.class-use/suggestedword</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.spellcheck.class-use/suggestedword</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.tiff.class-use/tiffreader</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.tiff.class-use/tiffreader</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/ocr/java/com.aspose.ocr.class-use/recognitionresult.linesresult</loc>
+    <loc>https://reference.aspose.com/ocr/java/com.aspose.ocr.class-use/recognitionresult.linesresult</loc>
   </url>
 </urlset>

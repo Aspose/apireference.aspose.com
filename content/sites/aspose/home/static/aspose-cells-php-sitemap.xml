@@ -1,3093 +1,3093 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apireference.aspose.com/cells/php</loc>
+    <loc>https://reference.aspose.com/cells/php</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AboveAverage</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AboveAverage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AbstractCalculationMonitor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AbstractCalculationMonitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AbstractGlobalizationSettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AbstractGlobalizationSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AbstractInterruptMonitor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AbstractInterruptMonitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AbstractTextLoadOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AbstractTextLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Area</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Area</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ArcShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ArcShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AutoFitterOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AutoFitterOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AutoFilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AutoFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AutomaticFill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AutomaticFill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Axis</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Axis</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BaseShapeGuide</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BaseShapeGuide</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AxisBins</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AxisBins</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Bevel</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Bevel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Border</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Border</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BorderCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BorderCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CalculationCell</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CalculationCell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BuiltInDocumentPropertyCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BuiltInDocumentPropertyCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CalculationData</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CalculationData</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Button</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Button</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CalculationOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CalculationOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellArea</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellArea</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Cell</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Cell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellsColor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellsColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Cells</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Cells</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellsDrawing</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellsDrawing</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellsException</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellsException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellsFactory</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellsFactory</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellsHelper</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellsHelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellWatch</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellWatch</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellWatchCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellWatchCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Chart</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Chart</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartArea</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartArea</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartDataTable</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartDataTable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartFrame</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartFrame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartGlobalizationSettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartGlobalizationSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartPointCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartPointCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartPoint</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartPoint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CheckBoxCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CheckBoxCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartTextFrame</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartTextFrame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CheckBox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CheckBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CollectionBase</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CollectionBase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ColorFilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ColorFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Color</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Color</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ColorHelper</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ColorHelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ColorScale</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ColorScale</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Column</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Column</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ColumnCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ColumnCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Comment</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Comment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CommentCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CommentCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ComboBox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ComboBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CommentShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CommentShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ConditionalFormattingCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ConditionalFormattingCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ConditionalFormattingIconCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ConditionalFormattingIconCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ConditionalFormattingIcon</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ConditionalFormattingIcon</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ConditionalFormattingResult</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ConditionalFormattingResult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ConditionalFormattingValue</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ConditionalFormattingValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ConditionalFormattingValueCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ConditionalFormattingValueCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ContentTypeProperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ContentTypeProperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ContentTypePropertyCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ContentTypePropertyCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CopyOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CopyOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CustomDocumentPropertyCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CustomDocumentPropertyCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CustomFilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CustomFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CustomFilterCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CustomFilterCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CustomGeometry</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CustomGeometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CustomProperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CustomProperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CustomPropertyCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CustomPropertyCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CustomXmlShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CustomXmlShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataBar</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataBar</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataBarBorder</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataBarBorder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataSorter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataSorter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataSorterKey</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataSorterKey</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataLabels</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataLabels</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataSorterKeyCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataSorterKeyCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DateTime</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DateTime</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DateTimeGroupItem</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DateTimeGroupItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DefaultStyleSettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DefaultStyleSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DeleteOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DeleteOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DialogBox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DialogBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DifSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DifSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DigitalSignatureCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DigitalSignatureCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DigitalSignature</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DigitalSignature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DocumentProperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DocumentProperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DisplayUnitLabel</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DisplayUnitLabel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DocumentPropertyCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DocumentPropertyCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DocxSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DocxSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DropBars</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DropBars</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DxfCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DxfCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DynamicFilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DynamicFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Encoding</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Encoding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ErrorBar</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ErrorBar</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ExternalLink</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ExternalLink</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ErrorCheckOptionCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ErrorCheckOptionCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ErrorCheckOption</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ErrorCheckOption</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ExternalLinkCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ExternalLinkCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FileFontSource</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FileFontSource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FileFormatUtil</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FileFormatUtil</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Fill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Fill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FileFormatInfo</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FileFormatInfo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FillFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FillFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FilterColumn</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FilterColumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FilterColumnCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FilterColumnCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FindOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FindOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Floor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Floor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FolderFontSource</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FolderFontSource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Font</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Font</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FontSetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FontSetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FontConfigs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FontConfigs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FontSourceBase</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FontSourceBase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Format3D</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Format3D</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FormatConditionCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FormatConditionCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FormulaParseOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FormulaParseOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FormatCondition</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FormatCondition</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FormulaSettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FormulaSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Geometry</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Geometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GradientFill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GradientFill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GlowEffect</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GlowEffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GlobalizationSettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GlobalizationSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GradientStop</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GradientStop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GradientStopCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GradientStopCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GroupFill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GroupFill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HeaderFooterCommand</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HeaderFooterCommand</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GroupBox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GroupBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HorizontalPageBreak</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HorizontalPageBreak</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GroupShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GroupShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HorizontalPageBreakCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HorizontalPageBreakCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HtmlLoadOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HtmlLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Hyperlink</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Hyperlink</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HtmlSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HtmlSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HyperlinkCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HyperlinkCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/IconFilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/IconFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/IconSet</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/IconSet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ImageFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ImageFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ImageSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ImageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/IndividualFontConfigs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/IndividualFontConfigs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ImageOrPrintOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ImageOrPrintOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/InsertOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/InsertOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/JsonLoadOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/JsonLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/JsonSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/JsonSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LegendEntry</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LegendEntry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Legend</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Legend</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Label</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Label</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LegendEntryCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LegendEntryCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/License</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/License</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Line</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Line</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LineFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LineFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ListColumn</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ListColumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ListBox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ListBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ListColumnCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ListColumnCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LineShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LineShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ListObject</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ListObject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ListObjectCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ListObjectCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LoadFilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LoadFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MarkdownSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MarkdownSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LoadOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Marker</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Marker</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MemoryFontSource</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MemoryFontSource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Metered</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoFillFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoFillFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoFillFormatHelper</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoFillFormatHelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoFormatPicture</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoFormatPicture</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoLineFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoLineFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoLineFormatHelper</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoLineFormatHelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MultipleFilterCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MultipleFilterCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoTextFrame</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoTextFrame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Name</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Name</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/NameCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/NameCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/NegativeBarFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/NegativeBarFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/NoneFill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/NoneFill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/OdsLoadOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/OdsLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/OdsSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/OdsSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/OleObjectCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/OleObjectCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/OleObject</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/OleObject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Outline</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Outline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/OoxmlSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/OoxmlSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Oval</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Oval</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PageEndSavingArgs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PageEndSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PageSavingArgs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PageSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PageSetup</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PageSetup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PageStartSavingArgs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PageStartSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PaneCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PaneCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PasteOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PasteOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PatternFill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PatternFill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PdfBookmarkEntry</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PdfBookmarkEntry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PdfSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PdfSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PdfSecurityOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PdfSecurityOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PicFormatOption</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PicFormatOption</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PictureCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PictureCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Picture</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Picture</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotField</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotField</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFieldCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFieldCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFilterCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFilterCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFormatCondition</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFormatCondition</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFormatConditionCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFormatConditionCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotItem</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotItemCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotItemCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotPageFields</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotPageFields</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotTableCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotTableCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotTable</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotTable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PptxSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PptxSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PlotArea</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PlotArea</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ProtectedRange</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ProtectedRange</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ProtectedRangeCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ProtectedRangeCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/QueryTable</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/QueryTable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/QueryTableCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/QueryTableCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Protection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Protection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/RadioButton</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/RadioButton</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Range</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Range</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/RangeCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/RangeCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ReferredArea</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ReferredArea</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/RectangleShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/RectangleShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ReferredAreaCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ReferredAreaCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ReflectionEffect</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ReflectionEffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ReplaceOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ReplaceOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Row</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Row</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/RowCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/RowCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Scenario</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Scenario</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ScenarioCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ScenarioCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ScenarioInputCell</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ScenarioInputCell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ScenarioInputCellCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ScenarioInputCellCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ScrollBar</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ScrollBar</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SeriesLayoutProperties</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SeriesLayoutProperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SeriesCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SeriesCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Series</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Series</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShadowEffect</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShadowEffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapeFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapeFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapeGuide</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapeGuide</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapeCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapeCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Shape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Shape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapeGuideCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapeGuideCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapePath</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapePath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapePathCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapePathCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapePathPoint</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapePathPoint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapePathPointCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapePathPointCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapePropertyCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapePropertyCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapeSegmentPath</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapeSegmentPath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapeSegmentPathCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapeSegmentPathCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SheetPrintingPreview</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SheetPrintingPreview</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SheetRender</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SheetRender</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SignatureLine</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SignatureLine</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SmartArtShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SmartArtShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SmartTag</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SmartTag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SmartTagOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SmartTagOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SmartTagCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SmartTagCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SmartTagProperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SmartTagProperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SmartTagPropertyCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SmartTagPropertyCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SmartTagSetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SmartTagSetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SolidFill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SolidFill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Sparkline</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Sparkline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SparklineCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SparklineCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SparklineGroupCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SparklineGroupCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SparklineGroup</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SparklineGroup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SpreadsheetML2003SaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SpreadsheetML2003SaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Style</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Style</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Spinner</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Spinner</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/StyleFlag</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/StyleFlag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SubtotalSetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SubtotalSetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SvgSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SvgSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SxRng</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SxRng</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TableStyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TableStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TableStyleCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TableStyleCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TableStyleElement</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TableStyleElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TableStyleElementCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TableStyleElementCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TableToRangeOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TableToRangeOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextBoxCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextBoxCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextBox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextEffectFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextEffectFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextureFill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextureFill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ThemeColor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ThemeColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ThreadedComment</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ThreadedComment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ThreadedCommentAuthor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ThreadedCommentAuthor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ThreadedCommentAuthorCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ThreadedCommentAuthorCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ThreadedCommentCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ThreadedCommentCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ThreeDFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ThreeDFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TickLabelItem</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TickLabelItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TickLabels</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TickLabels</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TilePicOption</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TilePicOption</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Top10</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Top10</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Title</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Title</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Top10Filter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Top10Filter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Trendline</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Trendline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TrendlineCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TrendlineCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/UnionRange</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/UnionRange</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TxtSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TxtSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TxtLoadOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TxtLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ValidationCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ValidationCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Validation</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Validation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VbaModule</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VbaModule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VbaModuleCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VbaModuleCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VbaProject</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VbaProject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VbaProjectReference</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VbaProjectReference</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VbaProjectReferenceCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VbaProjectReferenceCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VerticalPageBreak</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VerticalPageBreak</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VmlShapeGuide</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VmlShapeGuide</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VerticalPageBreakCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VerticalPageBreakCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Walls</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Walls</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/WebExtensionShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/WebExtensionShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Workbook</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Workbook</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/WorkbookDesigner</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/WorkbookDesigner</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/WorkbookRender</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/WorkbookRender</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/WorkbookPrintingPreview</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/WorkbookPrintingPreview</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/WorkbookSettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/WorkbookSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Worksheet</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Worksheet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/WorksheetCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/WorksheetCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/WriteProtection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/WriteProtection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XlsbSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XlsbSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XlsSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XlsSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XmlColumnProperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XmlColumnProperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XmlDataBinding</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XmlDataBinding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XmlLoadOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XmlLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XmlMap</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XmlMap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XmlMapCollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XmlMapCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XmlSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XmlSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XpsSaveOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XpsSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AccessCacheOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AccessCacheOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AutoFillType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AutoFillType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AutoFitMergedCellsType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AutoFitMergedCellsType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AutoFitWrappedTextType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AutoFitWrappedTextType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AxisType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AxisType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/AutoShapeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/AutoShapeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BackgroundMode</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BackgroundMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BackgroundType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BackgroundType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/Bar3DShapeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/Bar3DShapeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BevelPresetType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BevelPresetType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BevelType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BevelType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BorderType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BorderType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BubbleSizeRepresents</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BubbleSizeRepresents</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/BuiltinStyleType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/BuiltinStyleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CalcModeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CalcModeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CalculationPrecisionStrategy</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CalculationPrecisionStrategy</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CategoryType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CategoryType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellBorderType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellBorderType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellValueFormatStrategy</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellValueFormatStrategy</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CellValueType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CellValueType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartLineFormattingType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartLineFormattingType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartMarkerType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartMarkerType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartSplitType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartSplitType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartTextDirectionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartTextDirectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CheckValueType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CheckValueType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ChartType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ChartType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ColorDepth</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ColorDepth</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ColorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ColorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CommentTitleType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CommentTitleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ConsolidationFunction</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ConsolidationFunction</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CopyFormatType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CopyFormatType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CountryCode</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CountryCode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/CrossType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/CrossType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataBarAxisPosition</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataBarAxisPosition</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataBarBorderType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataBarBorderType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataBarFillType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataBarFillType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataBarNegativeColorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataBarNegativeColorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataLabelShapeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataLabelShapeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataLabelsSeparatorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataLabelsSeparatorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DataLablesSeparatorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DataLablesSeparatorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DateTimeGroupingType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DateTimeGroupingType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DefaultEditLanguage</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DefaultEditLanguage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DirectoryType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DirectoryType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DisplayDrawingObjects</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DisplayDrawingObjects</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DisplayUnitType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DisplayUnitType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/DynamicFilterType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/DynamicFilterType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/EmfRenderSetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/EmfRenderSetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/EncryptionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/EncryptionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ErrorBarDisplayType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ErrorBarDisplayType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ErrorBarType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ErrorBarType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ErrorCheckType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ErrorCheckType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ExceptionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ExceptionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ExternalLinkType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ExternalLinkType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FileFormatType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FileFormatType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FillPattern</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FillPattern</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FillPictureType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FillPictureType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FillType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FillType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FilterOperatorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FilterOperatorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FilterType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FilterType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FontSchemeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FontSchemeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FontSourceType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FontSourceType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FontUnderlineType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FontUnderlineType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FormatConditionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FormatConditionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FormatConditionValueType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FormatConditionValueType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FormatSetType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FormatSetType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/FormattingType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/FormattingType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GradientColorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GradientColorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GradientDirectionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GradientDirectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GradientFillType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GradientFillType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GradientPresetType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GradientPresetType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GradientStyleType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GradientStyleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/GridlineType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/GridlineType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HeaderFooterCommandType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HeaderFooterCommandType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HtmlCrossType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HtmlCrossType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HtmlExportDataOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HtmlExportDataOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HtmlHiddenColDisplayType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HtmlHiddenColDisplayType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HtmlHiddenRowDisplayType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HtmlHiddenRowDisplayType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/HtmlLinkTargetType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/HtmlLinkTargetType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/IconSetType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/IconSetType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ImageType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ImageType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LabelPositionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LabelPositionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LegendPositionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LegendPositionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LightRigDirectionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LightRigDirectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LightRigType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LightRigType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LineCapType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LineCapType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LineType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LineType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LineJoinType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LineJoinType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LoadDataFilterOptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LoadDataFilterOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LoadFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LoadFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LookAtType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LookAtType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/LookInType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/LookInType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MapChartLabelLayout</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MapChartLabelLayout</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MapChartProjectionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MapChartProjectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MapChartRegionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MapChartRegionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MemorySetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MemorySetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MirrorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MirrorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoArrowheadLength</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoArrowheadLength</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoArrowheadStyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoArrowheadStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoArrowheadWidth</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoArrowheadWidth</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoDrawingType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoDrawingType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoLineDashStyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoLineDashStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoLineStyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoLineStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoPresetTextEffect</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoPresetTextEffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/NameScopeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/NameScopeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/NumberCategoryType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/NumberCategoryType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/MsoPresetTextEffectShape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/MsoPresetTextEffectShape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/OoxmlCompliance</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/OoxmlCompliance</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/OoxmlCompressionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/OoxmlCompressionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/OperatorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/OperatorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PageOrientationType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PageOrientationType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PageLayoutAlignmentType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PageLayoutAlignmentType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PaneStateType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PaneStateType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ParameterType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ParameterType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PaperSizeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PaperSizeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PasteOperationType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PasteOperationType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PasteType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PasteType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PdfCompliance</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PdfCompliance</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PdfCompressionCore</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PdfCompressionCore</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PdfFontEncoding</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PdfFontEncoding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PdfCustomPropertiesExport</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PdfCustomPropertiesExport</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PdfOptimizationType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PdfOptimizationType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotConditionFormatRuleType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotConditionFormatRuleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotConditionFormatScopeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotConditionFormatScopeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFieldDataDisplayFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFieldDataDisplayFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFieldSubtotalType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFieldSubtotalType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFieldType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFieldType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotFilterType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotFilterType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotGroupByType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotGroupByType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotItemPosition</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotItemPosition</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotMissingItemLimitType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotMissingItemLimitType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotTableAutoFormatType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotTableAutoFormatType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PivotTableStyleType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PivotTableStyleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PlotDataByType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PlotDataByType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PlacementType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PlacementType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PlotEmptyCellsType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PlotEmptyCellsType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PresetCameraType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PresetCameraType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PresetMaterialType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PresetMaterialType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PresetShadowType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PresetShadowType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PresetWordArtStyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PresetWordArtStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PrintCommentsType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PrintCommentsType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PrintErrorsType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PrintErrorsType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PrintingPageType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PrintingPageType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PrintOrderType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PrintOrderType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PrintSizeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PrintSizeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/PropertyType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/PropertyType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ProtectionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ProtectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/QuartileCalculationType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/QuartileCalculationType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/RectangleAlignmentType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/RectangleAlignmentType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ReflectionEffectType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ReflectionEffectType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/RenameStrategy</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/RenameStrategy</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ResourceLoadingType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ResourceLoadingType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SaveFormat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SaveFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SelectionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SelectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapeAnchorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapeAnchorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapeLockType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapeLockType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShapePathType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShapePathType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SheetType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SheetType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ShiftType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ShiftType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SmartTagShowType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SmartTagShowType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SortOnType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SortOnType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SortOrder</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SortOrder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SparklineAxisMinMaxType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SparklineAxisMinMaxType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SparklinePresetStyleType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SparklinePresetStyleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/SparklineType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/SparklineType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/StyleModifyFlag</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/StyleModifyFlag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TableDataSourceType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TableDataSourceType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TableStyleElementType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TableStyleElementType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TableStyleType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TableStyleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TargetModeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TargetModeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextAlignmentType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextAlignmentType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextCapsType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextCapsType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextCrossType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextCrossType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextDirectionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextDirectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextOrientationType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextOrientationType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextOverflowType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextOverflowType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextStrikeType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextStrikeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TextureType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TextureType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ThemeColorType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ThemeColorType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TickLabelPositionType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TickLabelPositionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TickMarkType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TickMarkType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TiffCompression</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TiffCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TimePeriodType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TimePeriodType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TimeUnit</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TimeUnit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TotalsCalculation</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TotalsCalculation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TrendlineType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TrendlineType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TxtLoadStyleStrategy</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TxtLoadStyleStrategy</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/TxtValueQuoteType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/TxtValueQuoteType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/UpdateLinksType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/UpdateLinksType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ValidationAlertType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ValidationAlertType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ValidationType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ValidationType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VbaModuleType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VbaModuleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VbaProjectReferenceType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VbaProjectReferenceType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ViewType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ViewType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/VisibilityType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/VisibilityType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/WeightType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/WeightType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/XAdESType</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/XAdESType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/package-summary</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/aboveaverage</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/aboveaverage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/abstractcalculationmonitor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/abstractcalculationmonitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/abstractglobalizationsettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/abstractglobalizationsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/abstractinterruptmonitor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/abstractinterruptmonitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/abstracttextloadoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/abstracttextloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/area</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/area</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/autofitteroptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/autofitteroptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/autofilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/autofilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/arcshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/arcshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/automaticfill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/automaticfill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/axis</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/axis</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/axisbins</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/axisbins</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/bevel</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/bevel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/border</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/border</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/bordercollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/bordercollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/calculationcell</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/calculationcell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/calculationdata</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/calculationdata</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/builtindocumentpropertycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/builtindocumentpropertycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/calculationoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/calculationoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/button</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/button</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellarea</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellarea</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cell</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellscolor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellscolor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cells</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cells</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellsdrawing</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellsdrawing</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellsexception</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellsexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellsfactory</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellsfactory</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellshelper</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellshelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellwatch</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellwatch</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellwatchcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellwatchcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartarea</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartarea</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chart</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chart</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartdatatable</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartdatatable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartframe</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartframe</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartglobalizationsettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartglobalizationsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartpointcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartpointcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartpoint</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartpoint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/charttextframe</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/charttextframe</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/checkboxcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/checkboxcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/checkbox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/checkbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/collectionbase</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/collectionbase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/colorfilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/colorfilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/colorhelper</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/colorhelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/colorscale</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/colorscale</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/column</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/column</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/color</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/color</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/columncollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/columncollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/commentcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/commentcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/comment</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/comment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/conditionalformattingcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/conditionalformattingcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/combobox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/combobox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/commentshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/commentshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/conditionalformattingiconcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/conditionalformattingiconcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/conditionalformattingicon</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/conditionalformattingicon</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/conditionalformattingresult</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/conditionalformattingresult</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/conditionalformattingvalue</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/conditionalformattingvalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/conditionalformattingvaluecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/conditionalformattingvaluecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/contenttypeproperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/contenttypeproperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/contenttypepropertycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/contenttypepropertycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/copyoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/copyoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/customdocumentpropertycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/customdocumentpropertycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/customfilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/customfilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/customfiltercollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/customfiltercollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/customgeometry</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/customgeometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/customproperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/customproperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/custompropertycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/custompropertycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/databar</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/databar</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/customxmlshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/customxmlshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/databarborder</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/databarborder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datasorter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datasorter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datasorterkey</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datasorterkey</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datalabels</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datalabels</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datasorterkeycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datasorterkeycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datetimegroupitem</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datetimegroupitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datetime</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datetime</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/defaultstylesettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/defaultstylesettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/deleteoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/deleteoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/difsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/difsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/digitalsignaturecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/digitalsignaturecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/digitalsignature</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/digitalsignature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/dialogbox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/dialogbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/documentproperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/documentproperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/displayunitlabel</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/displayunitlabel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/documentpropertycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/documentpropertycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/docxsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/docxsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/dropbars</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/dropbars</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/dxfcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/dxfcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/dynamicfilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/dynamicfilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/encoding</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/encoding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/errorbar</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/errorbar</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/externallink</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/externallink</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/errorcheckoptioncollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/errorcheckoptioncollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/errorcheckoption</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/errorcheckoption</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/externallinkcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/externallinkcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/filefontsource</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/filefontsource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fileformatutil</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fileformatutil</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fileformatinfo</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fileformatinfo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fillformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fillformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/filtercolumn</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/filtercolumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/filtercolumncollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/filtercolumncollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/findoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/findoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/floor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/floor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/folderfontsource</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/folderfontsource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/font</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/font</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fontsetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fontsetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fontconfigs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fontconfigs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fontsourcebase</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fontsourcebase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/format3d</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/format3d</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/formatconditioncollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/formatconditioncollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/formulaparseoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/formulaparseoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/formulasettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/formulasettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/formatcondition</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/formatcondition</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/geometry</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/geometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gradientfill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gradientfill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gloweffect</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gloweffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gradientstop</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gradientstop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/globalizationsettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/globalizationsettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gradientstopcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gradientstopcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/groupfill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/groupfill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/headerfootercommand</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/headerfootercommand</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/horizontalpagebreak</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/horizontalpagebreak</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/groupbox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/groupbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/horizontalpagebreakcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/horizontalpagebreakcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/groupshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/groupshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/htmlloadoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/htmlloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/hyperlink</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/hyperlink</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/htmlsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/htmlsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/iconfilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/iconfilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/hyperlinkcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/hyperlinkcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/iconset</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/iconset</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/imageformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/imageformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/imagesaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/imagesaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/individualfontconfigs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/individualfontconfigs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/imageorprintoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/imageorprintoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/insertoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/insertoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/jsonloadoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/jsonloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/jsonsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/jsonsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/legendentry</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/legendentry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/legend</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/legend</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/legendentrycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/legendentrycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/label</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/label</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/license</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/license</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/line</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/line</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/lineformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/lineformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/listcolumn</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/listcolumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/listcolumncollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/listcolumncollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/listbox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/listbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/listobject</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/listobject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/lineshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/lineshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/listobjectcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/listobjectcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/loadfilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/loadfilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/markdownsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/markdownsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/marker</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/marker</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/loadoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/loadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/memoryfontsource</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/memoryfontsource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/metered</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msofillformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msofillformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msofillformathelper</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msofillformathelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msoformatpicture</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msoformatpicture</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msolineformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msolineformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msolineformathelper</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msolineformathelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/multiplefiltercollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/multiplefiltercollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msotextframe</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msotextframe</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/name</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/name</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/namecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/namecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/negativebarformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/negativebarformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/nonefill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/nonefill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/odssaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/odssaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/odsloadoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/odsloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/oleobjectcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/oleobjectcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/outline</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/outline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/oleobject</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/oleobject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pageendsavingargs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pageendsavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ooxmlsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ooxmlsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/oval</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/oval</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pagesavingargs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pagesavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pagesetup</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pagesetup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pagestartsavingargs</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pagestartsavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/panecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/panecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pasteoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pasteoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/patternfill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/patternfill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pdfbookmarkentry</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pdfbookmarkentry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pdfsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pdfsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pdfsecurityoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pdfsecurityoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/picformatoption</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/picformatoption</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/picturecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/picturecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotfieldcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotfieldcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotfield</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotfield</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotfiltercollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotfiltercollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/picture</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/picture</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotfilter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotfilter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotformatcondition</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotformatcondition</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotformatconditioncollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotformatconditioncollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotitem</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotitemcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotitemcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotpagefields</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotpagefields</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivottablecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivottablecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pptxsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pptxsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivottable</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivottable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/protectedrange</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/protectedrange</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/plotarea</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/plotarea</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/protectedrangecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/protectedrangecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/querytablecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/querytablecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/querytable</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/querytable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/protection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/protection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/radiobutton</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/radiobutton</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/range</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/range</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/rangecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/rangecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/referredarea</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/referredarea</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/rectangleshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/rectangleshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/referredareacollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/referredareacollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/reflectioneffect</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/reflectioneffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/replaceoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/replaceoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/row</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/row</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/rowcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/rowcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/saveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/saveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/scenario</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/scenario</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/scenariocollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/scenariocollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/scenarioinputcell</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/scenarioinputcell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/scenarioinputcellcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/scenarioinputcellcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/serieslayoutproperties</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/serieslayoutproperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/seriescollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/seriescollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/scrollbar</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/scrollbar</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/series</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/series</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shadoweffect</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shadoweffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapeformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapeformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapeguide</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapeguide</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapeguidecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapeguidecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapepath</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapepath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapepathcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapepathcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapepathpoint</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapepathpoint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapepathpointcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapepathpointcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapesegmentpath</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapesegmentpath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapesegmentpathcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapesegmentpathcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapepropertycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapepropertycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sheetprintingpreview</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sheetprintingpreview</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sheetrender</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sheetrender</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/signatureline</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/signatureline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/smarttag</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/smarttag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/smartartshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/smartartshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/smarttagoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/smarttagoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/smarttagcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/smarttagcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/smarttagproperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/smarttagproperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/smarttagpropertycollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/smarttagpropertycollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/smarttagsetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/smarttagsetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/solidfill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/solidfill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sparkline</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sparkline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sparklinecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sparklinecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sparklinegroupcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sparklinegroupcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sparklinegroup</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sparklinegroup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/spreadsheetml2003saveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/spreadsheetml2003saveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/style</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/style</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/styleflag</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/styleflag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/spinner</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/spinner</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/subtotalsetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/subtotalsetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/svgsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/svgsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sxrng</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sxrng</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tablestyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tablestyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tablestylecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tablestylecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tablestyleelement</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tablestyleelement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tablestyleelementcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tablestyleelementcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tabletorangeoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tabletorangeoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textboxcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textboxcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/texteffectformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/texteffectformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/texturefill</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/texturefill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textbox</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/threadedcomment</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/threadedcomment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/themecolor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/themecolor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/threadedcommentauthor</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/threadedcommentauthor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/threadedcommentauthorcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/threadedcommentauthorcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/threadedcommentcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/threadedcommentcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/threedformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/threedformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ticklabelitem</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ticklabelitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ticklabels</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ticklabels</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tilepicoption</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tilepicoption</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/top10</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/top10</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/title</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/title</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/top10filter</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/top10filter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/trendline</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/trendline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/trendlinecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/trendlinecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/unionrange</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/unionrange</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/txtsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/txtsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/validationcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/validationcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/txtloadoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/txtloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/vbamodule</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/vbamodule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/validation</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/validation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/vbamodulecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/vbamodulecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/vbaproject</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/vbaproject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/vbaprojectreference</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/vbaprojectreference</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/vbaprojectreferencecollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/vbaprojectreferencecollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/verticalpagebreak</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/verticalpagebreak</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/verticalpagebreakcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/verticalpagebreakcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/walls</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/walls</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/workbook</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/workbook</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/webextensionshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/webextensionshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/workbookrender</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/workbookrender</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/workbookdesigner</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/workbookdesigner</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/workbookprintingpreview</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/workbookprintingpreview</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/workbooksettings</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/workbooksettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/worksheet</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/worksheet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/writeprotection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/writeprotection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/worksheetcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/worksheetcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xlsbsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xlsbsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xlssaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xlssaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xmlcolumnproperty</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xmlcolumnproperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xmldatabinding</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xmldatabinding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xmlloadoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xmlloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xmlmap</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xmlmap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xmlmapcollection</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xmlmapcollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xmlsaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xmlsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xpssaveoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xpssaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/autofilltype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/autofilltype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/accesscacheoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/accesscacheoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/autofitmergedcellstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/autofitmergedcellstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/autofitwrappedtexttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/autofitwrappedtexttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/axistype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/axistype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/backgroundmode</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/backgroundmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/backgroundtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/backgroundtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/bar3dshapetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/bar3dshapetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/bevelpresettype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/bevelpresettype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/autoshapetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/autoshapetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/beveltype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/beveltype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/bordertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/bordertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/bubblesizerepresents</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/bubblesizerepresents</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/builtinstyletype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/builtinstyletype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/calcmodetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/calcmodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/calculationprecisionstrategy</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/calculationprecisionstrategy</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/categorytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/categorytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellbordertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellbordertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellvalueformatstrategy</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellvalueformatstrategy</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/cellvaluetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/cellvaluetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartlineformattingtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartlineformattingtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartmarkertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartmarkertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/chartsplittype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/chartsplittype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/charttextdirectiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/charttextdirectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/checkvaluetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/checkvaluetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/charttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/charttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/colordepth</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/colordepth</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/colortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/colortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/commenttitletype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/commenttitletype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/consolidationfunction</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/consolidationfunction</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/copyformattype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/copyformattype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/countrycode</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/countrycode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/crosstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/crosstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/databaraxisposition</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/databaraxisposition</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/databarbordertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/databarbordertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/databarfilltype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/databarfilltype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/databarnegativecolortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/databarnegativecolortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datalabelshapetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datalabelshapetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datalabelsseparatortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datalabelsseparatortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datalablesseparatortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datalablesseparatortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/datetimegroupingtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/datetimegroupingtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/defaulteditlanguage</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/defaulteditlanguage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/directorytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/directorytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/displaydrawingobjects</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/displaydrawingobjects</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/displayunittype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/displayunittype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/dynamicfiltertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/dynamicfiltertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/emfrendersetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/emfrendersetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/encryptiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/encryptiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/errorbardisplaytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/errorbardisplaytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/errorbartype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/errorbartype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/errorchecktype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/errorchecktype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/exceptiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/exceptiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/externallinktype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/externallinktype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fileformattype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fileformattype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fillpattern</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fillpattern</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fillpicturetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fillpicturetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/filltype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/filltype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/filteroperatortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/filteroperatortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/filtertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/filtertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fontschemetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fontschemetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fontsourcetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fontsourcetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/fontunderlinetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/fontunderlinetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/formatconditiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/formatconditiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/formatconditionvaluetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/formatconditionvaluetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/formatsettype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/formatsettype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/formattingtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/formattingtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gradientcolortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gradientcolortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gradientdirectiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gradientdirectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gradientfilltype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gradientfilltype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gradientpresettype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gradientpresettype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gradientstyletype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gradientstyletype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/gridlinetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/gridlinetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/headerfootercommandtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/headerfootercommandtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/htmlcrosstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/htmlcrosstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/htmlexportdataoptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/htmlexportdataoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/htmlhiddencoldisplaytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/htmlhiddencoldisplaytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/htmlhiddenrowdisplaytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/htmlhiddenrowdisplaytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/iconsettype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/iconsettype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/htmllinktargettype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/htmllinktargettype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/imagetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/imagetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/labelpositiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/labelpositiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/legendpositiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/legendpositiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/lightrigdirectiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/lightrigdirectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/lightrigtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/lightrigtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/linecaptype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/linecaptype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/linetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/linetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/linejointype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/linejointype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/loaddatafilteroptions</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/loaddatafilteroptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/loadformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/loadformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/lookattype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/lookattype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/lookintype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/lookintype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/mapchartlabellayout</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/mapchartlabellayout</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/mapchartprojectiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/mapchartprojectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/mapchartregiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/mapchartregiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/memorysetting</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/memorysetting</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/mirrortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/mirrortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msoarrowheadlength</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msoarrowheadlength</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msoarrowheadstyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msoarrowheadstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msoarrowheadwidth</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msoarrowheadwidth</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msodrawingtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msodrawingtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msolinedashstyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msolinedashstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msolinestyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msolinestyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msopresettexteffect</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msopresettexteffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/namescopetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/namescopetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/numbercategorytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/numbercategorytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ooxmlcompliance</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ooxmlcompliance</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/msopresettexteffectshape</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/msopresettexteffectshape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ooxmlcompressiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ooxmlcompressiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pageorientationtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pageorientationtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/operatortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/operatortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pagelayoutalignmenttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pagelayoutalignmenttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/panestatetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/panestatetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/parametertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/parametertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pasteoperationtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pasteoperationtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pastetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pastetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/papersizetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/papersizetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pdfcompliance</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pdfcompliance</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pdfcompressioncore</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pdfcompressioncore</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pdffontencoding</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pdffontencoding</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pdfcustompropertiesexport</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pdfcustompropertiesexport</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pdfoptimizationtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pdfoptimizationtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotconditionformatruletype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotconditionformatruletype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotconditionformatscopetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotconditionformatscopetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotfielddatadisplayformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotfielddatadisplayformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotfieldsubtotaltype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotfieldsubtotaltype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotfieldtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotfieldtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotfiltertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotfiltertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotgroupbytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotgroupbytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotitemposition</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotitemposition</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivotmissingitemlimittype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivotmissingitemlimittype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivottableautoformattype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivottableautoformattype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/pivottablestyletype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/pivottablestyletype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/plotdatabytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/plotdatabytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/plotemptycellstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/plotemptycellstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/placementtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/placementtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/presetcameratype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/presetcameratype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/presetmaterialtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/presetmaterialtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/presetshadowtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/presetshadowtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/presetwordartstyle</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/presetwordartstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/printcommentstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/printcommentstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/printingpagetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/printingpagetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/printerrorstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/printerrorstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/printordertype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/printordertype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/printsizetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/printsizetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/propertytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/propertytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/protectiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/protectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/rectanglealignmenttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/rectanglealignmenttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/quartilecalculationtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/quartilecalculationtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/reflectioneffecttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/reflectioneffecttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/renamestrategy</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/renamestrategy</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/resourceloadingtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/resourceloadingtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/selectiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/selectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/saveformat</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/saveformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapeanchortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapeanchortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapelocktype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapelocktype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shapepathtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shapepathtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/shifttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/shifttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sheettype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sheettype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/smarttagshowtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/smarttagshowtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sortorder</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sortorder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sortontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sortontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sparklineaxisminmaxtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sparklineaxisminmaxtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sparklinepresetstyletype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sparklinepresetstyletype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/sparklinetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/sparklinetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/stylemodifyflag</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/stylemodifyflag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tablestyleelementtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tablestyleelementtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tabledatasourcetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tabledatasourcetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tablestyletype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tablestyletype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/targetmodetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/targetmodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textalignmenttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textalignmenttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textcapstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textcapstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textcrosstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textcrosstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textdirectiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textdirectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textorientationtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textorientationtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textoverflowtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textoverflowtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/textstriketype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/textstriketype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/ticklabelpositiontype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/ticklabelpositiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/themecolortype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/themecolortype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/texturetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/texturetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tickmarktype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tickmarktype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/tiffcompression</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/tiffcompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/timeperiodtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/timeperiodtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/timeunit</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/timeunit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/totalscalculation</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/totalscalculation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/trendlinetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/trendlinetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/txtloadstylestrategy</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/txtloadstylestrategy</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/txtvaluequotetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/txtvaluequotetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/updatelinkstype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/updatelinkstype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/validationalerttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/validationalerttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/validationtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/validationtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/vbamoduletype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/vbamoduletype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/vbaprojectreferencetype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/vbaprojectreferencetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/viewtype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/viewtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/visibilitytype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/visibilitytype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/weighttype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/weighttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/cells/php/aspose.cells/xadestype</loc>
+    <loc>https://reference.aspose.com/cells/php/aspose.cells/xadestype</loc>
   </url>
 </urlset>

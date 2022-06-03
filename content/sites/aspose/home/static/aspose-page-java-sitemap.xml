@@ -1,2058 +1,2058 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apireference.aspose.com/page/java</loc>
+    <loc>https://reference.aspose.com/page/java</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/allclasses-frame</loc>
+    <loc>https://reference.aspose.com/page/java/allclasses-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/package-frame</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/package-frame</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/package-frame</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/package-frame</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/AsposePageException</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/AsposePageException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/package-frame</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/package-frame</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/package-frame</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/DeviceXps</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/DeviceXps</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/Document</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/Document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/Device</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/Device</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/DocumentFeature.DocumentDuplex</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/DocumentFeature.DocumentDuplex</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/DocumentFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/DocumentFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/DocumentPrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/DocumentPrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/DocumentFeature.DocumentInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/DocumentFeature.DocumentInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/ExternalFontCache</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/ExternalFontCache</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Feature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Feature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Feature.PageMediaSize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Feature.PageMediaSize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Feature.PageOrientation</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Feature.PageOrientation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/GlyphsIndices</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/GlyphsIndices</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/IGlyph</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/IGlyph</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/IFeatureItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/IFeatureItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/ImageDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/ImageDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/IInteractiveDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/IInteractiveDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/ImageDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/ImageDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/ImageFormat</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/ImageFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/ImageSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/ImageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/ImageSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/ImageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/IMultiPageDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/IMultiPageDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/IMultiPartitionDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/IMultiPartitionDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/IMultiPageSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/IMultiPageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/InterpolationMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/InterpolationMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/IPrintTicketItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/IPrintTicketItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/IOptionItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/IOptionItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/IPropertyItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/IPropertyItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/IScoredPropertyItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/IScoredPropertyItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/IStreamable</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/IStreamable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/JobFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/JobFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/ITrFont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/ITrFont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/JobFeature.JobInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/JobFeature.JobInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/JobFeature.JobDuplexAllDocumentsContiguously</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/JobFeature.JobDuplexAllDocumentsContiguously</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/JobPrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/JobPrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/License</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/License</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/LoadOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/LoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Option</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Option</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Option.PageMediaSize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Option.PageMediaSize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/PageFeature.PageInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/PageFeature.PageInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/PageFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/PageFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/PagePrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/PagePrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/ParameterInit</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/ParameterInit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/ParameterInit.JobCopiesAllDocuments</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/ParameterInit.JobCopiesAllDocuments</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/PdfDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/PdfDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PdfDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PdfEncryptionAlgorithm</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfEncryptionAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PdfEncryptionDetails</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfEncryptionDetails</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PdfImageCompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfImageCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PdfSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/PdfSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/PdfSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PdfTextCompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfTextCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/PsConverterException</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/PsConverterException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Property</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Property</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Property.SelectionType</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Property.SelectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/PrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/PrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/PsConverterLicenseException</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/PsConverterLicenseException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/PsDocument</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/PsDocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/ScoredProperty</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/ScoredProperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/SaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/SaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/SmoothingMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/SmoothingMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/Size2D.Float</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/Size2D.Float</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/ScoredProperty.DuplexMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/ScoredProperty.DuplexMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/TextRenderingHint</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/TextRenderingHint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/Size2D</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/Size2D</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/TextRenderingMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/TextRenderingMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/TransformedStroke</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/TransformedStroke</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/UserProperties</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/UserProperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Value</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Value</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Value.DecimalValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Value.DecimalValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Value.IntegerValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Value.IntegerValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Value.QNameValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Value.QNameValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/Value.StringValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/Value.StringValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/XmpField</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/XmpField</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/ValueType</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/ValueType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/XmpMetadata</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/XmpMetadata</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/XmpValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/XmpValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/XmpFieldType</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/XmpFieldType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsArcSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsArcSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsArray</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsArray</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/XmpDataCollection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/XmpDataCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsCanvas</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsCanvas</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsColor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsColorInterpolationMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsColorInterpolationMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsDashCap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsDashCap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsContentElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsContentElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsEdgeMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsEdgeMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsElementLinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsElementLinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsDocument</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsExternalLinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsExternalLinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsFileResource</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsFileResource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsFont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsFont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsFontStyle</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsFontStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsFillRule</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsFillRule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsGlyphs</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsGlyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsGradientStop</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsGradientStop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsHyperlinkElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsHyperlinkElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsHyperlinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsHyperlinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsIccBasedColor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsIccBasedColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsIccProfile</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsIccProfile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsImageBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsImageBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsLineCap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsLineCap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsLinearGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsLinearGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsImage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsImage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsLoadOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsLineJoin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsLineJoin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsMatrix</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsMatrix</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsObject</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsObject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsMatrix.MatrixOrder</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsMatrix.MatrixOrder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPageLinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPageLinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPathFigure</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPathFigure</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPath</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPathGeometry</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPathGeometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPathSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPathSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPathPolySegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPathPolySegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPolyBezierSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPolyBezierSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPolyQuadraticBezierSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPolyQuadraticBezierSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsPolyLineSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsPolyLineSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsRgbColor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsRgbColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsRadialGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsRadialGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsSolidColorBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsSolidColorBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsStyleSimulations</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsStyleSimulations</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsSpreadMethod</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsSpreadMethod</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsSweepDirection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsSweepDirection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsTileMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsTileMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsTilingBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsTilingBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsTransformableBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsTransformableBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsVisual</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsVisual</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/overview-summary</loc>
+    <loc>https://reference.aspose.com/page/java/overview-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/XpsVisualBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/XpsVisualBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/deprecated-list</loc>
+    <loc>https://reference.aspose.com/page/java/deprecated-list</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/overview-tree</loc>
+    <loc>https://reference.aspose.com/page/java/overview-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/package-summary</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/package-summary</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/package-summary</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/package-summary</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/package-summary</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/package-summary</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/package-summary</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/package-use</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/package-tree</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/package-tree</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/package-use</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/package-use</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/package-use</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/package-tree</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/asposepageexception</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/asposepageexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/package-tree</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/AsposePageException</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/AsposePageException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/serialized-form</loc>
+    <loc>https://reference.aspose.com/page/java/serialized-form</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/package-use</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/package-tree</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/package-use</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/package-tree</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/package-use</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/package-tree</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/package-tree</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/bmpsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/bmpsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/BmpSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/BmpSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/devicexps</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/devicexps</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/DeviceXps</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/DeviceXps</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/document</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/device</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/device</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/Document</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/Document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/Device</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/Device</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/documentfeature.documentduplex</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/documentfeature.documentduplex</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/DocumentFeature.DocumentDuplex</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/DocumentFeature.DocumentDuplex</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/documentprintticket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/documentprintticket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/documentfeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/documentfeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/DocumentFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/DocumentFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/documentfeature.documentinputbin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/documentfeature.documentinputbin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/DocumentPrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/DocumentPrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/DocumentFeature.DocumentInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/DocumentFeature.DocumentInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/externalfontcache</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/externalfontcache</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/ExternalFontCache</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/ExternalFontCache</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Feature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Feature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/feature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/feature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Feature.PageMediaSize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Feature.PageMediaSize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/feature.pagemediasize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/feature.pagemediasize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/feature.pageorientation</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/feature.pageorientation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/glyphsindices</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/glyphsindices</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Feature.PageOrientation</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Feature.PageOrientation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/IGlyph</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/IGlyph</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/GlyphsIndices</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/GlyphsIndices</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/ifeatureitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/ifeatureitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IFeatureItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IFeatureItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/iglyph</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/iglyph</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/imagedevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/imagedevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/class-use/ImageDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/class-use/ImageDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/constant-values</loc>
+    <loc>https://reference.aspose.com/page/java/constant-values</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/iinteractivedevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/iinteractivedevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/IInteractiveDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/IInteractiveDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/imagedevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/imagedevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/imageformat</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/imageformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/ImageDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/ImageDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/class-use/ImageFormat</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/class-use/ImageFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/class-use/ImageSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/class-use/ImageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/imagesaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/imagesaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/ImageSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/ImageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/imagesaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/imagesaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/imultipagedevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/imultipagedevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/IMultiPageDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/IMultiPageDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/imultipartitiondevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/imultipartitiondevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/IMultiPartitionDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/IMultiPartitionDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/imultipagesaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/imultipagesaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/IMultiPageSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/IMultiPageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/interpolationmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/interpolationmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/InterpolationMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/InterpolationMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/iprintticketitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/iprintticketitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/ioptionitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/ioptionitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IPrintTicketItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IPrintTicketItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IOptionItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IOptionItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/ipropertyitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/ipropertyitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/iscoredpropertyitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/iscoredpropertyitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/istreamable</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/istreamable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IScoredPropertyItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IScoredPropertyItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IPropertyItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/IPropertyItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/IStreamable</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/IStreamable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/jobfeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/jobfeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/JobFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/JobFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/itrfont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/itrfont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/ITrFont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/ITrFont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/jobfeature.jobinputbin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/jobfeature.jobinputbin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/jobfeature.jobduplexalldocumentscontiguously</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/jobfeature.jobduplexalldocumentscontiguously</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/JobFeature.JobInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/JobFeature.JobInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/JobFeature.JobDuplexAllDocumentsContiguously</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/JobFeature.JobDuplexAllDocumentsContiguously</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/JobPrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/JobPrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/jobprintticket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/jobprintticket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/jpegsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/jpegsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/JpegSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/JpegSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/license</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/license</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/License</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/License</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/loadoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/loadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/LoadOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/LoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/option</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/option</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Option</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Option</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/option.pagemediasize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/option.pagemediasize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/pagefeature.pageinputbin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/pagefeature.pageinputbin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Option.PageMediaSize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Option.PageMediaSize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/PageFeature.PageInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/PageFeature.PageInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/pagefeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/pagefeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/PageFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/PageFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/pageprintticket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/pageprintticket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/parameterinit</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/parameterinit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/PagePrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/PagePrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ParameterInit</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ParameterInit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/parameterinit.jobcopiesalldocuments</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/parameterinit.jobcopiesalldocuments</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ParameterInit.JobCopiesAllDocuments</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ParameterInit.JobCopiesAllDocuments</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/pdfdevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/pdfdevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/class-use/PdfDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/class-use/PdfDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/pdfdevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/pdfdevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/pdfencryptionalgorithm</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/pdfencryptionalgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfEncryptionAlgorithm</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfEncryptionAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/pdfencryptiondetails</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/pdfencryptiondetails</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfEncryptionDetails</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfEncryptionDetails</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/pdfimagecompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/pdfimagecompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfImageCompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfImageCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/pdfsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/pdfsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/class-use/PdfSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/class-use/PdfSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device/pdfsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device/pdfsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/pdftextcompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/pdftextcompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfTextCompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PdfTextCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/pngsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/pngsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PngSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/PngSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/class-use/PsConverterException</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/class-use/PsConverterException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/psconverterexception</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/psconverterexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/property</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/property</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Property</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Property</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Property.SelectionType</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Property.SelectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/property.selectiontype</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/property.selectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/PrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/PrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/class-use/PsConverterLicenseException</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/class-use/PsConverterLicenseException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/printticket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/printticket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/psconverterlicenseexception</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/psconverterlicenseexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/class-use/PsDocument</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/class-use/PsDocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps/psdocument</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps/psdocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/scoredproperty</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/scoredproperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ScoredProperty</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ScoredProperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/saveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/saveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/SaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/SaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/SmoothingMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/SmoothingMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/Size2D.Float</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/Size2D.Float</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/scoredproperty.duplexmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/scoredproperty.duplexmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/size2d.float</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/size2d.float</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/smoothingmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/smoothingmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/size2d</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/size2d</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ScoredProperty.DuplexMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ScoredProperty.DuplexMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/TextRenderingHint</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/TextRenderingHint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/textrenderinghint</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/textrenderinghint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/TextRenderingMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/TextRenderingMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/textrenderingmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/textrenderingmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/Size2D</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/Size2D</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/tiffsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/tiffsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering/class-use/TiffSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering/class-use/TiffSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/TransformedStroke</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/TransformedStroke</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/transformedstroke</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/transformedstroke</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/class-use/UserProperties</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/class-use/UserProperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page/userproperties</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page/userproperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/value</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/value</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/value.decimalvalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/value.decimalvalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/value.integervalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/value.integervalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value.DecimalValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value.DecimalValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/value.stringvalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/value.stringvalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value.StringValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value.StringValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value.QNameValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value.QNameValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/value.qnamevalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/value.qnamevalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value.IntegerValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/Value.IntegerValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/valuetype</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/valuetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/xmpfield</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/xmpfield</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpField</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpField</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ValueType</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata/class-use/ValueType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/xmpmetadata</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/xmpmetadata</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpMetadata</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpMetadata</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/xmpvalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/xmpvalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsarcsegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsarcsegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsArcSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsArcSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/xmpfieldtype</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/xmpfieldtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpFieldType</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpFieldType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsarray</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsarray</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsArray</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsArray</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/xmpdatacollection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/xmpdatacollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpDataCollection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp/class-use/XmpDataCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpscanvas</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpscanvas</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsCanvas</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsCanvas</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpscolor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpscolor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsColor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsdashcap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsdashcap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpscolorinterpolationmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpscolorinterpolationmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsColorInterpolationMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsColorInterpolationMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsContentElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsContentElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpscontentelement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpscontentelement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsDashCap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsDashCap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsedgemode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsedgemode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpselementlinktarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpselementlinktarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsEdgeMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsEdgeMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsElementLinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsElementLinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpselement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpselement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsdocument</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsdocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsexternallinktarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsexternallinktarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsDocument</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsDocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsExternalLinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsExternalLinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsfileresource</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsfileresource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsFileResource</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsFileResource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsfont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsfont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsFont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsFont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsFontStyle</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsFontStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsfontstyle</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsfontstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsfillrule</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsfillrule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsFillRule</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsFillRule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsgradientbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsgradientbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsgradientstop</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsgradientstop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsglyphs</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsglyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsGlyphs</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsGlyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpshyperlinkelement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpshyperlinkelement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsGradientStop</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsGradientStop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsHyperlinkElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsHyperlinkElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpshyperlinktarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpshyperlinktarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsHyperlinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsHyperlinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsIccBasedColor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsIccBasedColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsiccbasedcolor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsiccbasedcolor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsiccprofile</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsiccprofile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsIccProfile</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsIccProfile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsImageBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsImageBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsimagebrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsimagebrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpslinecap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpslinecap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsLineCap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsLineCap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsLinearGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsLinearGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpslineargradientbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpslineargradientbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsimage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsimage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsImage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsImage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsloadoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsLoadOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpslinejoin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpslinejoin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsLineJoin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsLineJoin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsMatrix</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsMatrix</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsmatrix</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsmatrix</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsObject</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsObject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsobject</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsobject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsmatrix.matrixorder</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsmatrix.matrixorder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsMatrix.MatrixOrder</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsMatrix.MatrixOrder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspathfigure</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspathfigure</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspagelinktarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspagelinktarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPageLinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPageLinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPathFigure</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPathFigure</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspath</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPath</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspathgeometry</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspathgeometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspathpolysegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspathpolysegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPathGeometry</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPathGeometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPathSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPathSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspathsegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspathsegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPathPolySegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPathPolySegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPolyBezierSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPolyBezierSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspolybeziersegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspolybeziersegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspolyquadraticbeziersegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspolyquadraticbeziersegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPolyQuadraticBezierSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPolyQuadraticBezierSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsPolyLineSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsPolyLineSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpspolylinesegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpspolylinesegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsrgbcolor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsrgbcolor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsRgbColor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsRgbColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsRadialGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsRadialGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpssolidcolorbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpssolidcolorbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsradialgradientbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsradialgradientbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsstylesimulations</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsstylesimulations</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsStyleSimulations</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsStyleSimulations</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsSolidColorBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsSolidColorBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsSpreadMethod</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsSpreadMethod</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsspreadmethod</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsspreadmethod</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpssweepdirection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpssweepdirection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsSweepDirection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsSweepDirection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpstilemode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpstilemode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsTileMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsTileMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpstilingbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpstilingbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsTilingBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsTilingBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsTransformableBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsTransformableBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpstransformablebrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpstransformablebrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsVisual</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsVisual</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsvisual</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsvisual</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/xpsvisualbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/xpsvisualbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.class-use/ImageFormat</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.class-use/ImageFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.class-use/PsConverterException</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.class-use/PsConverterException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps/class-use/XpsVisualBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps/class-use/XpsVisualBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/SaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/SaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/Document</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/Document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/IStreamable</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/IStreamable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/Device</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/Device</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/IMultiPageDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/IMultiPageDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/ITrFont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/ITrFont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/TextRenderingMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/TextRenderingMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/IInteractiveDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/IInteractiveDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/UserProperties</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/UserProperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/IMultiPartitionDevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/IMultiPartitionDevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/IMultiPageSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/IMultiPageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/IGlyph</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/IGlyph</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp.class-use/XmpField</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp.class-use/XmpField</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp.class-use/XmpMetadata</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp.class-use/XmpMetadata</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp.class-use/XmpValue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp.class-use/XmpValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/asposepageexception</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/asposepageexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/LoadOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/LoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/Size2D</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/Size2D</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsArray</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsArray</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsArcSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsArcSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsCanvas</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsCanvas</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsColor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsColor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsColorInterpolationMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsColorInterpolationMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsContentElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsContentElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsDashCap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsDashCap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsEdgeMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsEdgeMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsFileResource</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsFileResource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsFont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsFont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsFillRule</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsFillRule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsFontStyle</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsFontStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsGlyphs</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsGlyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsHyperlinkElement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsHyperlinkElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsGradientStop</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsGradientStop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsImage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsImage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsHyperlinkTarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsHyperlinkTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsIccProfile</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsIccProfile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsImageBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsImageBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsLineCap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsLineCap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsLineJoin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsLineJoin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsMatrix</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsMatrix</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsLinearGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsLinearGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsMatrix.MatrixOrder</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsMatrix.MatrixOrder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsObject</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsObject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPath</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPathFigure</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPathFigure</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPathPolySegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPathPolySegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPathSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPathSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPathGeometry</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPathGeometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPolyBezierSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPolyBezierSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPolyLineSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPolyLineSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsPolyQuadraticBezierSegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsPolyQuadraticBezierSegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsRadialGradientBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsRadialGradientBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsSpreadMethod</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsSpreadMethod</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsSolidColorBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsSolidColorBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsTileMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsTileMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsStyleSimulations</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsStyleSimulations</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsSweepDirection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsSweepDirection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsTilingBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsTilingBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsTransformableBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsTransformableBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/DocumentPrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/DocumentPrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/XpsVisualBrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/XpsVisualBrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/JobPrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/JobPrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/PagePrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/PagePrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/DocumentFeature.DocumentDuplex</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/DocumentFeature.DocumentDuplex</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/DocumentFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/DocumentFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/DocumentFeature.DocumentInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/DocumentFeature.DocumentInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Feature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Feature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Feature.PageOrientation</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Feature.PageOrientation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IFeatureItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IFeatureItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IOptionItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IOptionItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IPrintTicketItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IPrintTicketItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IScoredPropertyItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IScoredPropertyItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IPropertyItem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/IPropertyItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/JobFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/JobFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/JobFeature.JobDuplexAllDocumentsContiguously</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/JobFeature.JobDuplexAllDocumentsContiguously</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Option</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Option</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/JobFeature.JobInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/JobFeature.JobInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Option.PageMediaSize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Option.PageMediaSize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/PageFeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/PageFeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/PageFeature.PageInputBin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/PageFeature.PageInputBin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ParameterInit</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ParameterInit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/PrintTicket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/PrintTicket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Property</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Property</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Property.SelectionType</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Property.SelectionType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ScoredProperty.DuplexMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ScoredProperty.DuplexMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ScoredProperty</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ScoredProperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Value</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/Value</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/DeviceXps</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/DeviceXps</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ValueType</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ValueType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/InterpolationMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/InterpolationMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/ImageSaveOptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/ImageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/PdfEncryptionAlgorithm</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/PdfEncryptionAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/PdfEncryptionDetails</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/PdfEncryptionDetails</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/PdfTextCompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/PdfTextCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/PdfImageCompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/PdfImageCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/SmoothingMode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/SmoothingMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/TextRenderingHint</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/TextRenderingHint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/bmpsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/bmpsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/devicexps</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/devicexps</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/document</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/documentfeature.documentduplex</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/documentfeature.documentduplex</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/device</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/device</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/documentfeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/documentfeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/documentprintticket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/documentprintticket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/documentfeature.documentinputbin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/documentfeature.documentinputbin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/externalfontcache</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/externalfontcache</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/feature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/feature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/feature.pagemediasize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/feature.pagemediasize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/feature.pageorientation</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/feature.pageorientation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/iglyph</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/iglyph</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/glyphsindices</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/glyphsindices</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ifeatureitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ifeatureitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device.class-use/imagedevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device.class-use/imagedevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/iinteractivedevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/iinteractivedevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/imagedevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/imagedevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.class-use/imageformat</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.class-use/imageformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device.class-use/imagesaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device.class-use/imagesaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/imagesaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/imagesaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/imultipagedevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/imultipagedevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/imultipartitiondevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/imultipartitiondevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/imultipagesaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/imultipagesaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/interpolationmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/interpolationmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/iprintticketitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/iprintticketitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ioptionitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ioptionitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/iscoredpropertyitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/iscoredpropertyitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ipropertyitem</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/ipropertyitem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/istreamable</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/istreamable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/jobfeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/jobfeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/jobfeature.jobinputbin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/jobfeature.jobinputbin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/itrfont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/itrfont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/jpegsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/jpegsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/jobfeature.jobduplexalldocumentscontiguously</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/jobfeature.jobduplexalldocumentscontiguously</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/loadoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/loadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/jobprintticket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/jobprintticket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/license</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/license</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/option</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/option</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/pagefeature</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/pagefeature</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/pageprintticket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/pageprintticket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/parameterinit</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/parameterinit</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device.class-use/pdfdevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device.class-use/pdfdevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/pagefeature.pageinputbin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/pagefeature.pageinputbin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/option.pagemediasize</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/option.pagemediasize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/parameterinit.jobcopiesalldocuments</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/parameterinit.jobcopiesalldocuments</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfdevice</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfdevice</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfencryptionalgorithm</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfencryptionalgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfencryptiondetails</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfencryptiondetails</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfimagecompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdfimagecompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdftextcompression</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pdftextcompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pngsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/pngsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.device.class-use/pdfsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.device.class-use/pdfsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.class-use/psconverterexception</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.class-use/psconverterexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/property</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/property</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/property.selectiontype</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/property.selectiontype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/printticket</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/printticket</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.class-use/psconverterlicenseexception</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.class-use/psconverterlicenseexception</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.class-use/psdocument</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.class-use/psdocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/saveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/saveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/scoredproperty</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/scoredproperty</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/scoredproperty.duplexmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/scoredproperty.duplexmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/smoothingmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/smoothingmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/size2d.float</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/size2d.float</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/textrenderinghint</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/textrenderinghint</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/textrenderingmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/textrenderingmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/size2d</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/size2d</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/userproperties</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/userproperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.rendering.class-use/tiffsaveoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.rendering.class-use/tiffsaveoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.page.class-use/transformedstroke</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.page.class-use/transformedstroke</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value.stringvalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value.stringvalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value.decimalvalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value.decimalvalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value.integervalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value.integervalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value.qnamevalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/value.qnamevalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpfield</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpfield</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.metadata.class-use/valuetype</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.metadata.class-use/valuetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpvalue</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpvalue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsarray</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsarray</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpmetadata</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpmetadata</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpdatacollection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpdatacollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsarcsegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsarcsegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpfieldtype</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.eps.xmp.class-use/xmpfieldtype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpscolorinterpolationmode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpscolorinterpolationmode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpscanvas</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpscanvas</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpscolor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpscolor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpscontentelement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpscontentelement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpselementlinktarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpselementlinktarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsdashcap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsdashcap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpselement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpselement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsedgemode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsedgemode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsdocument</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsdocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsexternallinktarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsexternallinktarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsfileresource</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsfileresource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsfont</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsfont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsfontstyle</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsfontstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsfillrule</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsfillrule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsgradientbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsgradientbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpshyperlinkelement</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpshyperlinkelement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsgradientstop</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsgradientstop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsglyphs</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsglyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpshyperlinktarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpshyperlinktarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsiccprofile</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsiccprofile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsiccbasedcolor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsiccbasedcolor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpslinecap</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpslinecap</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsimage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsimage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsimagebrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsimagebrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsloadoptions</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpslineargradientbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpslineargradientbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsmatrix</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsmatrix</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpslinejoin</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpslinejoin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsmatrix.matrixorder</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsmatrix.matrixorder</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsobject</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsobject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspathfigure</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspathfigure</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspage</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspagelinktarget</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspagelinktarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspathsegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspathsegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspath</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspathgeometry</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspathgeometry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspathpolysegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspathpolysegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspolyquadraticbeziersegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspolyquadraticbeziersegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspolybeziersegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspolybeziersegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpspolylinesegment</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpspolylinesegment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsrgbcolor</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsrgbcolor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsradialgradientbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsradialgradientbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsstylesimulations</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsstylesimulations</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpssolidcolorbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpssolidcolorbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsspreadmethod</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsspreadmethod</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpssweepdirection</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpssweepdirection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpstilingbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpstilingbrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpstilemode</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpstilemode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpstransformablebrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpstransformablebrush</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsvisual</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsvisual</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/page/java/com.aspose.xps.class-use/xpsvisualbrush</loc>
+    <loc>https://reference.aspose.com/page/java/com.aspose.xps.class-use/xpsvisualbrush</loc>
   </url>
 </urlset>
