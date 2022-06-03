@@ -1,4 +1,4 @@
-baseURL = "https://apireference.aspose.com/email"
+baseURL = "https://reference.aspose.com/email"
 
 # Google Tag Manager settings
 [params.gtm]
@@ -6,6 +6,6 @@ gtm_id = "GTM-NJMHSH"
 
 [[deployment.targets]]
 name = "Production"
-URL = "s3://apireference.aspose.com/?prefix=email/&region=us-west-2"
+URL = "s3://reference.aspose.com/?prefix=email/&region=us-west-2"
 
 

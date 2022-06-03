@@ -1,4 +1,4 @@
-baseURL = "https://apireference.aspose.com/3d"
+baseURL = "https://reference.aspose.com/3d"
 
 # Google Tag Manager settings
 [params.gtm]
@@ -6,5 +6,5 @@ gtm_id = "GTM-NJMHSH"
 
 [[deployment.targets]]
 name = "Production"
-URL = "s3://apireference.aspose.com/?prefix=3d/&region=us-west-2"
+URL = "s3://reference.aspose.com/?prefix=3d/&region=us-west-2"
 
