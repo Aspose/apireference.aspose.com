@@ -10,7 +10,7 @@ rewrite /(.*?/net)/(.*?)/(.*?)/(?:constructors)/(\d+|main) https://reference.asp
 rewrite /net/(.*?)/(.*?)/(.*?)/(?:constructors)/(\d+|main) https://reference.aspose.com/$1/net/$2/$3/$3 permanent;
 rewrite /(.*?/net)/(.*?)/(?:properties|methods|constructors)/(.*) https://reference.aspose.com/$1/$2/$3 permanent;
 rewrite /net/(.*?)/(.*?)/(?:properties|methods|constructors)/(.*) https://reference.aspose.com/$1/net/$2/$3 permanent;
-rewrite /(.*)/index/ https://reference.aspose.com/$1 permanent;
+rewrite /(.*)/index/?$ https://reference.aspose.com/$1 permanent;
 rewrite /(.*)/(methods|constructors|properties|fields)/?$ https://reference.aspose.com/$1 permanent;
 rewrite java/(.*?/)(.*?/)(.*?/)([a-zA-Z0-9_]+) https://reference.aspose.com/$1java/$2/$4 permanent;
 rewrite /cells/net/aspose.cells.cells/copyrows/ https://reference.aspose.com/cells/net/aspose.cells/cells/copyrow/ permanent;
