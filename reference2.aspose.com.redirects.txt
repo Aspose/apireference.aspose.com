@@ -6,6 +6,8 @@ rewrite /(.*?/net)/([^.]+).([^.]+).([^.]+).([^.]+)/(.*)/methods/([0-9]+) https:/
 rewrite /net/(.*?)/([^.]+).([^.]+).([^.]+).([^.]+)/(.*)/methods/([0-9]+) https://reference2.aspose.com/$1/net/$2.$3.$4/$5/$6#$6_$7 permanent;
 rewrite /(.*?/net)/([^.]+).([^.]+).([^.]+).([^.]+).([^.]+)/(.*)/methods/([0-9]+) https://reference2.aspose.com/$1/$2.$3.$4.$5/$6/$7#$7_$8 permanent;
 rewrite /net/(.*?)/([^.]+).([^.]+).([^.]+).([^.]+).([^.]+)/(.*)/methods/([0-9]+) https://reference2.aspose.com/$1/net/$2.$3.$4.$5/$6/$7#$7_$8 permanent;
+rewrite /(.*?/net)/(.*?)/methods/(.*) https://reference2.aspose.com/$1/$2/$3#$3 $permanent;
+rewrite /net/(.*?)/(.*?)/methods/(.*) https://reference2.aspose.com/$1/net/$2/$3#$3 $permanent;
 rewrite /(.*?/net)/([^.]+).([^.]+).([^.]+).([^.]+).([^.]+)/(.*)/fields/(.*) https://reference2.aspose.com/$1/$2.$3.$4/$5/$6_$7_$8 permanent;
 rewrite	/net/(.*?)/([^.]+).([^.]+).([^.]+).([^.]+).([^.]+)/(.*)/fields/(.*) https://reference2.aspose.com/$1/net/$2.$3.$4/$5/$6_$7_$8 permanent;
 rewrite /(.*?/net)/(.*?)/(.*?)/(?:constructors)/(main) https://reference2.aspose.com/$1/$2/$3/$3#constructor permanent;
