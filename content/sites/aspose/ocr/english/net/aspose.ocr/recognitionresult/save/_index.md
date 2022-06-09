@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Saves the document as the plain text PDF or Microsoft Word Document.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.ocr/recognitionresult/save/
 ---
-## RecognitionResult.Save method (1 of 2)
+## Save(string, SaveFormat, bool, SpellCheckLanguage, string) {#save_1}
 
 Saves the document as the plain text, PDF or Microsoft Word Document.
 
@@ -33,7 +33,7 @@ public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingC
 
 ---
 
-## RecognitionResult.Save method (2 of 2)
+## Save(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) {#save}
 
 Saves the document as the plain text, PDF or Microsoft Word Document.
 

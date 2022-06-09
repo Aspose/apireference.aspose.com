@@ -1,7 +1,7 @@
 ---
 title: RecognitionAreas
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set DetectAreasaspose.ocr/recognitionsettings/detectareas and AutoSkewaspose.ocr/recognitionsettings/autoskew properties will be ignored.  Disables DetectAreas and AutoSkew.
 type: docs
 weight: 110
 url: /net/aspose.ocr/recognitionsettings/recognitionareas/

@@ -1,7 +1,7 @@
 ---
 title: TextInLine
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Recognized text from row.
 type: docs
 weight: 30
 url: /net/aspose.ocr/recognitionresult.linesresult/textinline/

@@ -1,7 +1,7 @@
 ---
 title: RecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Initializes a new instance of the RecognitionSettingsaspose.ocr/recognitionsettings class with full set of properties.
 type: docs
 weight: 10
 url: /net/aspose.ocr/recognitionsettings/recognitionsettings/

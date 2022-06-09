@@ -1,7 +1,7 @@
 ---
 title: AutoContrast
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Allows using an additional contrast correction algorithm for the image before recognition.
 type: docs
 weight: 30
 url: /net/aspose.ocr/documentrecognitionsettings/autocontrast/

@@ -1,12 +1,12 @@
 ---
 title: RecognizeMultipleImages
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF PNG JPEG BMP TIFF.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.ocr/asposeocr/recognizemultipleimages/
 ---
-## AsposeOcr.RecognizeMultipleImages method (1 of 4)
+## RecognizeMultipleImages(List&lt;string&gt;, RecognitionSettings) {#recognizemultipleimages_1}
 
 Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
 
@@ -19,7 +19,7 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files, Recogniti
 | files | List`1 | Full paths to the images. |
 | settings | RecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 Array of [`RecognitionResult`](../../recognitionresult) objects with recognition results for each processed image.
 
@@ -33,7 +33,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 
 ---
 
-## AsposeOcr.RecognizeMultipleImages method (2 of 4)
+## RecognizeMultipleImages(List&lt;string&gt;) {#recognizemultipleimages}
 
 Recognizes multiple images from list with default settings.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
 
@@ -45,7 +45,7 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files)
 | --- | --- | --- |
 | files | List`1 | Full paths to the images. |
 
-## Return Value
+### Return Value
 
 Array of [`RecognitionResult`](../../recognitionresult) objects with recognition results for each processed image.
 
@@ -58,7 +58,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 
 ---
 
-## AsposeOcr.RecognizeMultipleImages method (3 of 4)
+## RecognizeMultipleImages(string, RecognitionSettings) {#recognizemultipleimages_3}
 
 Recognizes multiple images packed in ZIP archive or from folder.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
 
@@ -71,7 +71,7 @@ public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSetti
 | path | String | Full path to the zip archive (including .zip extension) or to the folder with images. |
 | settings | RecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 Array of [`RecognitionResult`](../../recognitionresult) objects with recognition results for each processed image.
 
@@ -85,7 +85,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 
 ---
 
-## AsposeOcr.RecognizeMultipleImages method (4 of 4)
+## RecognizeMultipleImages(string) {#recognizemultipleimages_2}
 
 Recognizes multiple images packed in ZIP archive or from folder with default settings.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
 
@@ -97,7 +97,7 @@ public RecognitionResult[] RecognizeMultipleImages(string path)
 | --- | --- | --- |
 | path | String | Full path to the zip archive (including .zip extension) or to the folder with images. |
 
-## Return Value
+### Return Value
 
 Array of [`RecognitionResult`](../../recognitionresult) objects with recognition results for each processed image.
 

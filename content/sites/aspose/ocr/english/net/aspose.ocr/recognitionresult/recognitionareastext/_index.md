@@ -1,7 +1,7 @@
 ---
 title: RecognitionAreasText
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Gets list recognition results of a list of areas Rectangles.
 type: docs
 weight: 20
 url: /net/aspose.ocr/recognitionresult/recognitionareastext/

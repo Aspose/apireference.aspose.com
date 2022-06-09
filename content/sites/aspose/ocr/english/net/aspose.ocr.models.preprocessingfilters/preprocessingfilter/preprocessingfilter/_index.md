@@ -1,7 +1,7 @@
 ---
 title: PreprocessingFilter
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/preprocessingfilter/

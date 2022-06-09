@@ -1,12 +1,12 @@
 ---
 title: DocumentRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Initializes a new instance of the DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings class with short set of properties.
 type: docs
 weight: 10
 url: /net/aspose.ocr/documentrecognitionsettings/documentrecognitionsettings/
 ---
-## DocumentRecognitionSettings constructor (1 of 2)
+## DocumentRecognitionSettings(int, int) {#constructor}
 
 Initializes a new instance of the [`DocumentRecognitionSettings`](../../documentrecognitionsettings) class with short set of properties.
 
@@ -27,7 +27,7 @@ public DocumentRecognitionSettings(int startPage = 0, int pagesNumber = 1)
 
 ---
 
-## DocumentRecognitionSettings constructor (2 of 2)
+## DocumentRecognitionSettings(int, int, Language, bool, bool, int) {#constructor_1}
 
 Initializes a new instance of the [`DocumentRecognitionSettings`](../../documentrecognitionsettings) class with full set of properties.
 

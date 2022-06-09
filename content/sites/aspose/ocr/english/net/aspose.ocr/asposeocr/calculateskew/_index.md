@@ -1,12 +1,12 @@
 ---
 title: CalculateSkew
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Calculates the skew angle of an image.
 type: docs
 weight: 20
 url: /net/aspose.ocr/asposeocr/calculateskew/
 ---
-## AsposeOcr.CalculateSkew method (1 of 2)
+## CalculateSkew(MemoryStream) {#calculateskew}
 
 Calculates the skew angle of an image.
 
@@ -18,7 +18,7 @@ public float CalculateSkew(MemoryStream stream)
 | --- | --- | --- |
 | stream | MemoryStream | Memory stream containing the image. |
 
-## Return Value
+### Return Value
 
 Skew angle in degrees.
 
@@ -30,7 +30,7 @@ Skew angle in degrees.
 
 ---
 
-## AsposeOcr.CalculateSkew method (2 of 2)
+## CalculateSkew(string) {#calculateskew_1}
 
 Calculates the skew angle of an image.
 
@@ -42,7 +42,7 @@ public float CalculateSkew(string fullPath)
 | --- | --- | --- |
 | fullPath | String | Full path to the image. |
 
-## Return Value
+### Return Value
 
 Skew angle in degrees.
 

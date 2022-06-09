@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: For IEnumarable interface realization.
 type: docs
 weight: 130
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/getenumerator/
@@ -14,7 +14,7 @@ For IEnumarable interface realization.
 public IEnumerator GetEnumerator()
 ```
 
-## Return Value
+### Return Value
 
 IEnumerator
 

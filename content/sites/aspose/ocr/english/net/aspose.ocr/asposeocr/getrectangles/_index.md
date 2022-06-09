@@ -1,12 +1,12 @@
 ---
 title: GetRectangles
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Detects text areas on image.  Automatic image skew correction is not applied. Support GIF PNG JPEG BMP TIFF.
 type: docs
 weight: 50
 url: /net/aspose.ocr/asposeocr/getrectangles/
 ---
-## AsposeOcr.GetRectangles method (1 of 2)
+## GetRectangles(string, AreasType, bool) {#getrectangles_1}
 
 Detects text areas on image.  Automatic image skew correction is not applied. Support GIF, PNG, JPEG, BMP, TIFF.
 
@@ -21,7 +21,7 @@ public List<Rectangle> GetRectangles(string fullPath, AreasType areasType = Area
 | areasType | AreasType | Determinates wich rectangles to return - line or paragraphs. |
 | detectAreas | Boolean | Enable automatic text areas detection. |
 
-## Return Value
+### Return Value
 
 List of detected text areas or lines.
 
@@ -34,7 +34,7 @@ List of detected text areas or lines.
 
 ---
 
-## AsposeOcr.GetRectangles method (2 of 2)
+## GetRectangles(MemoryStream, AreasType, bool) {#getrectangles}
 
 Detects text areas on image.  Automatic image skew correction is not applied. Support GIF, PNG, JPEG, BMP, TIFF.
 
@@ -49,7 +49,7 @@ public List<Rectangle> GetRectangles(MemoryStream image,
 | areasType | AreasType | Determinates wich rectangles to return - line or paragraphs. |
 | detectAreas | Boolean | Enable automatic text areas detection. |
 
-## Return Value
+### Return Value
 
 List of detected text areas or lines.
 

@@ -1,12 +1,12 @@
 ---
 title: AsposeOcr
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Initializes a new instance of the AsposeOcraspose.ocr/asposeocr class. Empty constructor.
 type: docs
 weight: 10
 url: /net/aspose.ocr/asposeocr/asposeocr/
 ---
-## AsposeOcr constructor (1 of 2)
+## AsposeOcr() {#constructor}
 
 Initializes a new instance of the [`AsposeOcr`](../../asposeocr) class. Empty constructor.
 
@@ -22,7 +22,7 @@ public AsposeOcr()
 
 ---
 
-## AsposeOcr constructor (2 of 2)
+## AsposeOcr(string) {#constructor_1}
 
 Initializes a new instance of the [`AsposeOcr`](../../asposeocr) class. Set the allowed characters with alphabet property.
 

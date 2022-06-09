@@ -1,9 +1,9 @@
 ---
 title: GetXml
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Form XML string with recognition results.
 type: docs
-weight: 80
+weight: 110
 url: /net/aspose.ocr/recognitionresult/getxml/
 ---
 ## RecognitionResult.GetXml method
@@ -14,9 +14,9 @@ Form XML string with recognition results.
 public string GetXml()
 ```
 
-## Return Value
+### Return Value
 
-Recognition results as XML string.
+Recognition results as a string XML serialized.
 
 ### See Also
 

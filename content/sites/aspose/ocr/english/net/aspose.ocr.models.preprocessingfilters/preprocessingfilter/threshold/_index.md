@@ -1,7 +1,7 @@
 ---
 title: Threshold
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Create a binary image based on setting a threshold value on the pixel intensity of the original image.
 type: docs
 weight: 100
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/threshold/
@@ -18,7 +18,7 @@ public static PreprocessingFilter Threshold(int value)
 | --- | --- | --- |
 | value | Int32 | The max value. |
 
-## Return Value
+### Return Value
 
 BinarizeFilter object.
 

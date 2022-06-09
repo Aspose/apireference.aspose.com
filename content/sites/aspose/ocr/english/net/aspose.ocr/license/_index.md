@@ -1,9 +1,9 @@
 ---
 title: License
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Provides methods to license the component.
 type: docs
-weight: 80
+weight: 30
 url: /net/aspose.ocr/license/
 ---
 ## License class
@@ -18,7 +18,7 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [License](license)() | The default constructor. |
+| [License](license)() | Initializes a new instance of this class. |
 
 ## Properties
 
@@ -30,18 +30,25 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](../../aspose.ocr/license/setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.ocr/license/setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.ocr/license/setlicense#setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.ocr/license/setlicense#setlicense_1)(string) | Licenses the component. |
 
 ### Examples
 
-In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
+In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains  the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
 
 ```csharp
 [C#]
 
 License license = new License();
 license.SetLicense("MyLicense.lic");
+```
+
+the component jar file:
+
+```csharp
+License license = new License();
+license.setLicense("MyLicense.lic");
 ```
 
 ### See Also

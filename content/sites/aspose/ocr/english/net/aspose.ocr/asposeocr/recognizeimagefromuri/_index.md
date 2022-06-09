@@ -1,12 +1,12 @@
 ---
 title: RecognizeImageFromUri
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Recognizes text on image provided by URI link.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.ocr/asposeocr/recognizeimagefromuri/
 ---
-## AsposeOcr.RecognizeImageFromUri method (1 of 2)
+## RecognizeImageFromUri(string) {#recognizeimagefromuri_1}
 
 Recognizes text on image provided by URI link.
 
@@ -18,7 +18,7 @@ public string RecognizeImageFromUri(string uri)
 | --- | --- | --- |
 | uri | String | URI link to the image. |
 
-## Return Value
+### Return Value
 
 Recognized text.
 
@@ -34,7 +34,7 @@ Uses automatic image skew correction and text areas detection. Supports GIF, PNG
 
 ---
 
-## AsposeOcr.RecognizeImageFromUri method (2 of 2)
+## RecognizeImageFromUri(string, RecognitionSettings) {#recognizeimagefromuri}
 
 Recognizes text on image provided by URI link.
 
@@ -47,7 +47,7 @@ public RecognitionResult RecognizeImageFromUri(string uri, RecognitionSettings s
 | uri | String | URI link to the image. |
 | settings | RecognitionSettings | Recognition settings. |
 
-## Return Value
+### Return Value
 
 The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
 

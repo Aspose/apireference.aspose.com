@@ -1,7 +1,7 @@
 ---
 title: SkewAngle
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Gets or sets angle in degrees for image rotation.  Setting this value will disable the AutoSkewaspose.ocr/recognitionsettings/autoskew property so that auto skew correction is not applied. Zero by default.
 type: docs
 weight: 130
 url: /net/aspose.ocr/recognitionsettings/skewangle/

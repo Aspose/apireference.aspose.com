@@ -1,7 +1,7 @@
 ---
 title: StartPosition
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Words position in the input text.
 type: docs
 weight: 20
 url: /net/aspose.ocr.spellchecker/spellcheckerror/startposition/

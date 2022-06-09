@@ -1,12 +1,12 @@
 ---
 title: PreprocessImage
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Use image preprocessing to improve the accuracy of OCR. Create a list of filters that will be applied to the input image in the order you specify. example to create filters PreprocessingFilter filters  new PreprocessingFilter  PreprocessingFilter.Invert PreprocessingFilter.Threshold150 PreprocessingFilter.Binarize PreprocessingFilter.Rotate180 PreprocessingFilter.Resize30003000 Aspose.OCR.Filters.InterpolationFilterType.Box PreprocessingFilter.Scale6f PreprocessingFilter.Dilate  You dont need all of them. Set only what you need.
 type: docs
 weight: 60
 url: /net/aspose.ocr/asposeocr/preprocessimage/
 ---
-## AsposeOcr.PreprocessImage method (1 of 2)
+## PreprocessImage(string, PreprocessingFilter) {#preprocessimage_1}
 
 Use image preprocessing to improve the accuracy of OCR. Create a list of filters that will be applied to the input image in the order you specify. example to create filters: PreprocessingFilter filters = new PreprocessingFilter { PreprocessingFilter.Invert(), PreprocessingFilter.Threshold(150), PreprocessingFilter.Binarize(), PreprocessingFilter.Rotate(180), PreprocessingFilter.Resize(3000,3000, Aspose.OCR.Filters.InterpolationFilterType.Box), PreprocessingFilter.Scale(6f), PreprocessingFilter.Dilate() }; You don't need all of them. Set only what you need.
 
@@ -19,7 +19,7 @@ public MemoryStream PreprocessImage(string fullPath, PreprocessingFilter filters
 | fullPath | String | Full path to the image. |
 | filters | PreprocessingFilter | Image optimization filters[`PreprocessingFilter`](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter). |
 
-## Return Value
+### Return Value
 
 Stream with modified image so you can save or recognize it.
 
@@ -32,7 +32,7 @@ Stream with modified image so you can save or recognize it.
 
 ---
 
-## AsposeOcr.PreprocessImage method (2 of 2)
+## PreprocessImage(MemoryStream, PreprocessingFilter) {#preprocessimage}
 
 Use image preprocessing to improve the accuracy of OCR. Create a list of filters that will be applied to the input image in the order you specify. example to create filters: PreprocessingFilter filters = new PreprocessingFilter { PreprocessingFilter.Invert(), PreprocessingFilter.Threshold(150), PreprocessingFilter.Binarize(), PreprocessingFilter.Rotate(180), PreprocessingFilter.Resize(3000,3000, Aspose.OCR.Filters.InterpolationFilterType.Box), PreprocessingFilter.Scale(6f), PreprocessingFilter.Dilate() }; You don't need all of them. Set only what you need.
 
@@ -45,7 +45,7 @@ public MemoryStream PreprocessImage(MemoryStream stream, PreprocessingFilter fil
 | stream | MemoryStream | Memory stream containing the image. |
 | filters | PreprocessingFilter | Image optimization filters[`PreprocessingFilter`](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter). |
 
-## Return Value
+### Return Value
 
 Stream with modified image so you can save or recognize it.
 

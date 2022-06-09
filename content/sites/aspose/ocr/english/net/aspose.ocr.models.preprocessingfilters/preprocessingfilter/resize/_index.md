@@ -1,12 +1,12 @@
 ---
 title: Resize
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Rescale image - Upscale or downscale image resolution.
 type: docs
 weight: 70
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize/
 ---
-## PreprocessingFilter.Resize method (1 of 2)
+## Resize(int, int, InterpolationFilterType) {#resize_1}
 
 Rescale image - Upscale or downscale image resolution.
 
@@ -20,7 +20,7 @@ public static PreprocessingFilter Resize(int width, int height, InterpolationFil
 | height | Int32 | The new height of the image. |
 | type | InterpolationFilterType | [`InterpolationFilterType`](../../../aspose.ocr.filters/interpolationfiltertype) |
 
-## Return Value
+### Return Value
 
 ResizeFilter object.
 
@@ -33,7 +33,7 @@ ResizeFilter object.
 
 ---
 
-## PreprocessingFilter.Resize method (2 of 2)
+## Resize(int, int) {#resize}
 
 Rescale image - Upscale or downscale image resolution. InterpolationFilterType = Lanczos8
 
@@ -46,7 +46,7 @@ public static PreprocessingFilter Resize(int width, int height)
 | width | Int32 | The new width of the image. |
 | height | Int32 | The new height of the image. |
 
-## Return Value
+### Return Value
 
 ResizeFilter object.
 

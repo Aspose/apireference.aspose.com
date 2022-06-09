@@ -1,7 +1,7 @@
 ---
 title: IsLicensed
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Gets a value indicating whether product is licensed.
 type: docs
 weight: 20
 url: /net/aspose.ocr/license/islicensed/
@@ -14,7 +14,7 @@ Gets a value indicating whether product is licensed.
 public bool IsLicensed { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if product is licensed; otherwise, `false`.
 

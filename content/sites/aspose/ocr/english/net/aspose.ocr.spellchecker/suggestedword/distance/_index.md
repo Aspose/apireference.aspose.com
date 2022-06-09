@@ -1,7 +1,7 @@
 ---
 title: Distance
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: The distance between the searched and suggestion.
 type: docs
 weight: 10
 url: /net/aspose.ocr.spellchecker/suggestedword/distance/
