@@ -3,7 +3,7 @@ title: ParameterInits
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 640
+weight: 680
 url: /net/aspose.page.xps.xpsmetadata/parameterinits/
 ---
 ## ParameterInits class

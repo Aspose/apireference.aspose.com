@@ -18,7 +18,7 @@ public static bool IsPoorlyRenderedByGdiPlus(string fontName)
 | --- | --- | --- |
 | fontName | String | Name of the font. |
 
-## Return Value
+### Return Value
 
 `true` if [is poorly rendered by GDI plus] [the specified font name]; otherwise, `false`.
 

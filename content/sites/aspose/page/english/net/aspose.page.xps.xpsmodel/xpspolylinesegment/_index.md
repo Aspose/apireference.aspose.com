@@ -3,7 +3,7 @@ title: XpsPolyLineSegment
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1170
+weight: 1210
 url: /net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class
@@ -14,11 +14,17 @@ Class incapsulating PolyLineSegment element features. This element describes a p
 public class XpsPolyLineSegment : XpsPathPolySegment
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Returns/sets the value specifying whether the stroke for this segment of the path is drawn. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this polygon. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpspolylinesegment/clone)() | Clones this polygon. |
 
 ### See Also
 

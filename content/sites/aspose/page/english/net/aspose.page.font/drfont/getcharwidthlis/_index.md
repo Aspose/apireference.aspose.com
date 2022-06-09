@@ -18,7 +18,7 @@ public int GetCharWidthLis(char c)
 | --- | --- | --- |
 | c | Char | The symbol to calculate. |
 
-## Return Value
+### Return Value
 
 Returns width
 

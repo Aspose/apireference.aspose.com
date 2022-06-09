@@ -18,7 +18,7 @@ public double GetPropertyDouble(string key)
 | --- | --- | --- |
 | key | String | The name of property. |
 
-## Return Value
+### Return Value
 
 The property value.
 

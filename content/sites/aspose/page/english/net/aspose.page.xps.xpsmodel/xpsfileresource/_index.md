@@ -3,7 +3,7 @@ title: XpsFileResource
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 920
+weight: 960
 url: /net/aspose.page.xps.xpsmodel/xpsfileresource/
 ---
 ## XpsFileResource class

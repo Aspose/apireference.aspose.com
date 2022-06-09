@@ -14,7 +14,7 @@ Creates a new path geometry.
 public XpsPathGeometry CreatePathGeometry()
 ```
 
-## Return Value
+### Return Value
 
 New path geometry.
 
@@ -39,7 +39,7 @@ public XpsPathGeometry CreatePathGeometry(List<XpsPathFigure> pathFigures)
 | --- | --- | --- |
 | pathFigures | List`1 | List of path figures. |
 
-## Return Value
+### Return Value
 
 New path geometry.
 
@@ -65,7 +65,7 @@ public XpsPathGeometry CreatePathGeometry(string abbreviatedGeometry)
 | --- | --- | --- |
 | abbreviatedGeometry | String | Abbreviated form of path geometry. |
 
-## Return Value
+### Return Value
 
 New path geometry.
 

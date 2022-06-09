@@ -19,7 +19,7 @@ public XpsFont CreateFont(string fontFamily, FontStyle fontStyle)
 | fontFamily | String | The font family. |
 | fontStyle | FontStyle | The font style. |
 
-## Return Value
+### Return Value
 
 New TrueType font resource.
 
@@ -44,7 +44,7 @@ public XpsFont CreateFont(Stream stream)
 | --- | --- | --- |
 | stream | Stream | The stream containing the ICC profile to take as a resource. |
 
-## Return Value
+### Return Value
 
 New TrueType font resource.
 

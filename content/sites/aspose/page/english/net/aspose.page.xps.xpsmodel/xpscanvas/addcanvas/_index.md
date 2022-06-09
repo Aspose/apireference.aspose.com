@@ -14,7 +14,7 @@ Adds a new canvas to this canvas's child list.
 public XpsCanvas AddCanvas()
 ```
 
-## Return Value
+### Return Value
 
 Added canvas.
 

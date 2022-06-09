@@ -3,7 +3,7 @@ title: XpsFillRule
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 930
+weight: 970
 url: /net/aspose.page.xps.xpsmodel/xpsfillrule/
 ---
 ## XpsFillRule enumeration
@@ -14,7 +14,7 @@ Valid values of PathGeometry element's FillRule property.
 public enum XpsFillRule
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

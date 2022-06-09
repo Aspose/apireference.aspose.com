@@ -19,7 +19,7 @@ public PagePrintTicket GetPagePrintTicket(int documentIndex, int pageIndex)
 | documentIndex | Int32 | Index of the document. |
 | pageIndex | Int32 | Index of the page whose print ticket to return. |
 
-## Return Value
+### Return Value
 
 Page's print ticket.
 

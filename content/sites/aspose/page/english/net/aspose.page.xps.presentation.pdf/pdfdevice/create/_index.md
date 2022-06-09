@@ -14,7 +14,7 @@ Creates a new instance of the device based on this device instance. Writes this 
 public override Device Create()
 ```
 
-## Return Value
+### Return Value
 
 The new device instance.
 

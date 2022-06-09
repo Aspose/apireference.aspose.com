@@ -18,7 +18,7 @@ public virtual string[] GetPropertyStringArray(string key)
 | --- | --- | --- |
 | key | String | The name of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 
@@ -43,7 +43,7 @@ public virtual string[] GetPropertyStringArray(string key, string[] def)
 | key | String | The name of property. |
 | def | String[] | Default value of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 

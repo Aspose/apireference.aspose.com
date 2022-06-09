@@ -3,7 +3,7 @@ title: XpsExternalLinkTarget
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 910
+weight: 950
 url: /net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class

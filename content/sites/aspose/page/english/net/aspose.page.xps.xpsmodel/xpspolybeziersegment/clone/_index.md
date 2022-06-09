@@ -14,7 +14,7 @@ Clones this set of cubic Bézier curves.
 public XpsPolyBezierSegment Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this set of cubic Bézier curves.
 

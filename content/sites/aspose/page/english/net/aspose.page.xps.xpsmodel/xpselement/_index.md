@@ -3,7 +3,7 @@ title: XpsElement
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 890
+weight: 930
 url: /net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class
@@ -18,14 +18,14 @@ public abstract class XpsElement : XpsObject, IEnumerable<XpsContentElement>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Returns number of child elements. |
-| [Item](item) { get; } | Provides access to element's children by index *i*. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Returns number of child elements. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Provides access to element's children by index *i*. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](getenumerator)() | Implementation of IEnumerable interface. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Implementation of IEnumerable interface. |
 
 ### See Also
 

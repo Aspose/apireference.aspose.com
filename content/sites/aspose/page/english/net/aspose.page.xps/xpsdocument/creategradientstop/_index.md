@@ -19,7 +19,7 @@ public XpsGradientStop CreateGradientStop(XpsColor color, float offset)
 | color | XpsColor | The gradient stop color. |
 | offset | Single | The gradient offset. |
 
-## Return Value
+### Return Value
 
 New gradient stop.
 
@@ -46,7 +46,7 @@ public XpsGradientStop CreateGradientStop(Color color, float offset)
 | color | Color | The gradient stop color. |
 | offset | Single | The gradient offset. |
 
-## Return Value
+### Return Value
 
 New gradient stop.
 

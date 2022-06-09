@@ -14,7 +14,7 @@ Gets a value indicating whether this instance is bold.
 public bool IsBold { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is bold; otherwise, `false`.
 

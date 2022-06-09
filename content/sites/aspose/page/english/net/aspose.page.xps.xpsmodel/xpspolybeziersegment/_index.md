@@ -3,7 +3,7 @@ title: XpsPolyBezierSegment
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1160
+weight: 1200
 url: /net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class
@@ -14,11 +14,17 @@ Class incapsulating PolyBezierSegment element features. This element describes a
 public class XpsPolyBezierSegment : XpsPathPolySegment
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Returns/sets the value specifying whether the stroke for this segment of the path is drawn. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this set of cubic Bézier curves. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpspolybeziersegment/clone)() | Clones this set of cubic Bézier curves. |
 
 ### See Also
 

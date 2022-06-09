@@ -3,7 +3,7 @@ title: Values.QNameValue
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 780
+weight: 820
 url: /net/aspose.page.xps.xpsmetadata/values.qnamevalue/
 ---
 ## Values.QNameValue class
@@ -19,6 +19,12 @@ public sealed class QNameValue : Value
 | Name | Description |
 | --- | --- |
 | [QNameValue](qnamevalue)(string) | Creates QName type value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.page.xps.xpsmetadata/value/tostring)() | Returns the string representation. |
 
 ### See Also
 

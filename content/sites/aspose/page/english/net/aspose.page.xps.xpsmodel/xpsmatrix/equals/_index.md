@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The Object to compare with this instance. |
 
-## Return Value
+### Return Value
 
 `true` if the specified Object is equal to this instance; otherwise, `false`.
 
@@ -43,7 +43,7 @@ public static bool Equals(XpsMatrix a, XpsMatrix b)
 | a | XpsMatrix | The first matrix. |
 | b | XpsMatrix | The second matrix. |
 
-## Return Value
+### Return Value
 
 [true] if martrix are equals
 

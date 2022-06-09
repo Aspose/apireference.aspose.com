@@ -14,7 +14,7 @@ Clones this page.
 public XpsPage Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this page.
 

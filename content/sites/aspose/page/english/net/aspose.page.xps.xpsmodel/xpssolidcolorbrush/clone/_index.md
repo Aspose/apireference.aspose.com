@@ -14,7 +14,7 @@ Clones this solid color brush.
 public XpsSolidColorBrush Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this solid color brush.
 

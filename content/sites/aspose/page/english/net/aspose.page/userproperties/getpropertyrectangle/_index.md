@@ -18,7 +18,7 @@ public virtual RectangleF GetPropertyRectangle(string key)
 | --- | --- | --- |
 | key | String | The name of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 
@@ -43,7 +43,7 @@ public virtual RectangleF GetPropertyRectangle(string key, RectangleF def)
 | key | String | The name of property. |
 | def | RectangleF | Default value of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 

@@ -18,7 +18,7 @@ public XpsIccProfile CreateIccProfile(string iccProfilePath)
 | --- | --- | --- |
 | iccProfilePath | String | The path to the ICC profile to take as a resource. |
 
-## Return Value
+### Return Value
 
 New ICC profile resource.
 
@@ -43,7 +43,7 @@ public XpsIccProfile CreateIccProfile(Stream stream)
 | --- | --- | --- |
 | stream | Stream | The stream containing the ICC profile to take as a resource. |
 
-## Return Value
+### Return Value
 
 New ICC profile resource.
 

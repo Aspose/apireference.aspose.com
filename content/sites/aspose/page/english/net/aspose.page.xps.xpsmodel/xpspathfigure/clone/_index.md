@@ -14,7 +14,7 @@ Clones this path figure.
 public XpsPathFigure Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this path figure.
 

@@ -3,7 +3,7 @@ title: Feature
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 420
+weight: 460
 url: /net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class
@@ -25,15 +25,15 @@ public class Feature : IEnumerable<IFeatureItem>, IFeatureItem, IPrintTicketItem
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; } | Returns feature name. |
+| [Name](../../aspose.page.xps.xpsmetadata/feature/name) { get; } | Returns feature name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(params IFeatureItem[]) | Adds list of items to the end of feature items list. Each one must be a [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
-| [GetEnumerator](getenumerator)() | Implementation of IEnumerable interface. |
-| override [ToString](tostring)() | Returns the string representation. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Adds list of items to the end of feature items list. Each one must be a [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/feature/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/feature/tostring)() | Returns the string representation. |
 
 ### See Also
 

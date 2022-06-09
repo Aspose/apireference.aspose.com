@@ -21,7 +21,7 @@ public XpsLinearGradientBrush CreateLinearGradientBrush(List<XpsGradientStop> gr
 | startPoint | PointF | The starting point of the linear gradient. |
 | endPoint | PointF | The end point of the linear gradient. |
 
-## Return Value
+### Return Value
 
 New linear gradient brush.
 
@@ -48,7 +48,7 @@ public XpsLinearGradientBrush CreateLinearGradientBrush(PointF startPoint, Point
 | startPoint | PointF | The starting point of the linear gradient. |
 | endPoint | PointF | The end point of the linear gradient. |
 
-## Return Value
+### Return Value
 
 New linear gradient brush.
 

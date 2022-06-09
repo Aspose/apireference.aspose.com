@@ -3,7 +3,7 @@ title: Option
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 560
+weight: 600
 url: /net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class
@@ -25,9 +25,9 @@ public class Option : IEnumerable<IOptionItem>, IFeatureItem
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(params IOptionItem[]) | Adds list of properties to the end of option properties list. Each one must be a [`ScoredProperty`](../scoredproperty) or [`Property`](../property) object. |
-| [GetEnumerator](getenumerator)() | Implementation of IEnumerable interface. |
-| override [ToString](tostring)() | Returns the string representation. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Adds list of properties to the end of option properties list. Each one must be a [`ScoredProperty`](../scoredproperty) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/option/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/option/tostring)() | Returns the string representation. |
 
 ### See Also
 

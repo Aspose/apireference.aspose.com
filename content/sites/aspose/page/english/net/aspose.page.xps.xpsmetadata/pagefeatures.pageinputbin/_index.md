@@ -3,7 +3,7 @@ title: PageFeatures.PageInputBin
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 610
+weight: 650
 url: /net/aspose.page.xps.xpsmetadata/pagefeatures.pageinputbin/
 ---
 ## PageFeatures.PageInputBin class
@@ -19,6 +19,26 @@ public sealed class PageInputBin : PageFeature
 | Name | Description |
 | --- | --- |
 | [PageInputBin](pageinputbin)(params Option[]) | Creates PageInputBin feature instance. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/feature/name) { get; } | Returns feature name. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Adds list of items to the end of feature items list. Each one must be a [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/feature/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/feature/tostring)() | Returns the string representation. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static readonly [AutoSelect](../../aspose.page.xps.xpsmetadata/pageinputbin/autoselect) | AutoSelect valued constant. |
 
 ### See Also
 

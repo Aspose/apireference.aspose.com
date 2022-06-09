@@ -18,7 +18,7 @@ public XpsPage RemovePage(XpsPage page)
 | --- | --- | --- |
 | page | XpsPage | Page to be removed. |
 
-## Return Value
+### Return Value
 
 Removed page.
 

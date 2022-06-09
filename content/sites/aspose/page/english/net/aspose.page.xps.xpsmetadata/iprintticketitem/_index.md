@@ -3,7 +3,7 @@ title: IPrintTicketItem
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 480
+weight: 520
 url: /net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface
@@ -18,7 +18,7 @@ public interface IPrintTicketItem
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; } | Returns item name. |
+| [Name](../../aspose.page.xps.xpsmetadata/iprintticketitem/name) { get; } | Returns item name. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: XpsMatrix
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1070
+weight: 1110
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class
@@ -18,43 +18,43 @@ public sealed class XpsMatrix : XpsObject
 
 | Name | Description |
 | --- | --- |
-| [IsIdentity](isidentity) { get; } | Gets a value indicating whether this instance is identity matrix. |
-| [M11](m11) { get; } | Gets the M11 element. |
-| [M12](m12) { get; } | Gets the M12 element. |
-| [M21](m21) { get; } | Gets the M21 element. |
-| [M22](m22) { get; } | Gets the M22 element. |
-| [M31](m31) { get; } | Gets the M31 element. |
-| [M32](m32) { get; } | Gets the M32 element. |
+| [IsIdentity](../../aspose.page.xps.xpsmodel/xpsmatrix/isidentity) { get; } | Gets a value indicating whether this instance is identity matrix. |
+| [M11](../../aspose.page.xps.xpsmodel/xpsmatrix/m11) { get; } | Gets the M11 element. |
+| [M12](../../aspose.page.xps.xpsmodel/xpsmatrix/m12) { get; } | Gets the M12 element. |
+| [M21](../../aspose.page.xps.xpsmodel/xpsmatrix/m21) { get; } | Gets the M21 element. |
+| [M22](../../aspose.page.xps.xpsmodel/xpsmatrix/m22) { get; } | Gets the M22 element. |
+| [M31](../../aspose.page.xps.xpsmodel/xpsmatrix/m31) { get; } | Gets the M31 element. |
+| [M32](../../aspose.page.xps.xpsmodel/xpsmatrix/m32) { get; } | Gets the M32 element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this transformation matrix. |
-| override [Equals](equals)(object) | Determines whether the specified Object is equal to this instance. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| [Multiply](multiply)(Matrix) | Multiplies this matrix by the matrix specified by the *matrix* in default (Prepend) order. |
-| [Multiply](multiply)(XpsMatrix) | Multiplies this matrix by the matrix specified by the *matrix* in default (Prepend) order. |
-| [Multiply](multiply)(Matrix, MatrixOrder) | Multiplies this matrix by the matrix specified by the *matrix* in order specified by *matrixOrder*. |
-| [Multiply](multiply)(XpsMatrix, MatrixOrder) | Multiplies this matrix by the matrix specified by the *matrix* in order specified by *matrixOrder*. |
-| [Reset](reset)() | Resets this Matrix to identity matrix. |
-| [Rotate](rotate)(float) | Applies clockwise rotation by *angle* to this Matrix in default (Prepend) order. |
-| [Rotate](rotate)(float, MatrixOrder) | Applies clockwise rotation by *angle* to this Matrix in order specified by *matrixOrder*. |
-| [RotateAround](rotatearound)(float, PointF) | Applies clockwise rotation by *angle* around the *pivot* to this Matrix in default (Prepend) order. |
-| [RotateAround](rotatearound)(float, PointF, MatrixOrder) | Applies clockwise rotation by *angle* around the *pivot* to this Matrix in order specified by *matrixOrder*. |
-| [Scale](scale)(float, float) | Applies the specified scale vector (scaleX and scaleY) to this Matrix in default (Prepend) order. |
-| [Scale](scale)(float, float, MatrixOrder) | Applies the specified scale vector (scaleX and scaleY) to this Matrix in order specified by *matrixOrder*. |
-| [Skew](skew)(double, double) | Applies specified skew transformation to this Matrix. |
-| override [ToString](tostring)() | Returns the string representation of this [`XpsMatrix`](../xpsmatrix) instance. |
-| [Transform](transform)(RectangleF) | Applies the affine transformation represented by this Matrix to a specified rectangle. |
-| [TransformPoint](transformpoint)(PointF) | Applies the affine transformation represented by this Matrix to a specified point. |
-| [TransformPoints](transformpoints)(PointF[]) | Applies the affine transformation represented by this Matrix to a specified array of points. |
-| [TransformPoints](transformpoints)(PointF[], int, int) | Applies the affine transformation represented by this Matrix to a specified part of array of points. |
-| [Translate](translate)(float, float) | Applies the specified translation vector to this Matrix. |
-| [Translate](translate)(float, float, MatrixOrder) | Applies the specified translation vector to this Matrix in order specified by *matrixOrder*. |
-| static [Equals](equals)(XpsMatrix, XpsMatrix) | The actual implementation. |
-| [operator ==](op_equality) | Implements the operator ==. |
-| [operator !=](op_inequality) | Implements the operator !=. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpsmatrix/clone)() | Clones this transformation matrix. |
+| override [Equals](../../aspose.page.xps.xpsmodel/xpsmatrix/equals)(object) | Determines whether the specified Object is equal to this instance. |
+| override [GetHashCode](../../aspose.page.xps.xpsmodel/xpsmatrix/gethashcode)() | Returns a hash code for this instance. |
+| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply)(Matrix) | Multiplies this matrix by the matrix specified by the *matrix* in default (Prepend) order. |
+| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply)(XpsMatrix) | Multiplies this matrix by the matrix specified by the *matrix* in default (Prepend) order. |
+| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply)(Matrix, MatrixOrder) | Multiplies this matrix by the matrix specified by the *matrix* in order specified by *matrixOrder*. |
+| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply)(XpsMatrix, MatrixOrder) | Multiplies this matrix by the matrix specified by the *matrix* in order specified by *matrixOrder*. |
+| [Reset](../../aspose.page.xps.xpsmodel/xpsmatrix/reset)() | Resets this Matrix to identity matrix. |
+| [Rotate](../../aspose.page.xps.xpsmodel/xpsmatrix/rotate)(float) | Applies clockwise rotation by *angle* to this Matrix in default (Prepend) order. |
+| [Rotate](../../aspose.page.xps.xpsmodel/xpsmatrix/rotate)(float, MatrixOrder) | Applies clockwise rotation by *angle* to this Matrix in order specified by *matrixOrder*. |
+| [RotateAround](../../aspose.page.xps.xpsmodel/xpsmatrix/rotatearound)(float, PointF) | Applies clockwise rotation by *angle* around the *pivot* to this Matrix in default (Prepend) order. |
+| [RotateAround](../../aspose.page.xps.xpsmodel/xpsmatrix/rotatearound)(float, PointF, MatrixOrder) | Applies clockwise rotation by *angle* around the *pivot* to this Matrix in order specified by *matrixOrder*. |
+| [Scale](../../aspose.page.xps.xpsmodel/xpsmatrix/scale)(float, float) | Applies the specified scale vector (scaleX and scaleY) to this Matrix in default (Prepend) order. |
+| [Scale](../../aspose.page.xps.xpsmodel/xpsmatrix/scale)(float, float, MatrixOrder) | Applies the specified scale vector (scaleX and scaleY) to this Matrix in order specified by *matrixOrder*. |
+| [Skew](../../aspose.page.xps.xpsmodel/xpsmatrix/skew)(double, double) | Applies specified skew transformation to this Matrix. |
+| override [ToString](../../aspose.page.xps.xpsmodel/xpsmatrix/tostring)() | Returns the string representation of this [`XpsMatrix`](../xpsmatrix) instance. |
+| [Transform](../../aspose.page.xps.xpsmodel/xpsmatrix/transform)(RectangleF) | Applies the affine transformation represented by this Matrix to a specified rectangle. |
+| [TransformPoint](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoint)(PointF) | Applies the affine transformation represented by this Matrix to a specified point. |
+| [TransformPoints](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoints)(PointF[]) | Applies the affine transformation represented by this Matrix to a specified array of points. |
+| [TransformPoints](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoints)(PointF[], int, int) | Applies the affine transformation represented by this Matrix to a specified part of array of points. |
+| [Translate](../../aspose.page.xps.xpsmodel/xpsmatrix/translate)(float, float) | Applies the specified translation vector to this Matrix. |
+| [Translate](../../aspose.page.xps.xpsmodel/xpsmatrix/translate)(float, float, MatrixOrder) | Applies the specified translation vector to this Matrix in order specified by *matrixOrder*. |
+| static [Equals](../../aspose.page.xps.xpsmodel/xpsmatrix/equals)(XpsMatrix, XpsMatrix) | The actual implementation. |
+| [operator ==](../../aspose.page.xps.xpsmodel/xpsmatrix/op_equality) | Implements the operator ==. |
+| [operator !=](../../aspose.page.xps.xpsmodel/xpsmatrix/op_inequality) | Implements the operator !=. |
 
 ### See Also
 

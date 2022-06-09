@@ -24,7 +24,7 @@ public XpsGlyphs CreateGlyphs(string fontFamily, float fontRenderingEmSize, Font
 | originY | Single | Glyphs origin Y coordinate. |
 | unicodeString | String | String to be printed. |
 
-## Return Value
+### Return Value
 
 New glyphs.
 
@@ -54,7 +54,7 @@ public XpsGlyphs CreateGlyphs(XpsFont font, float fontRenderingEmSize, float ori
 | originY | Single | Glyphs origin Y coordinate. |
 | unicodeString | String | String to be printed. |
 
-## Return Value
+### Return Value
 
 New glyphs.
 

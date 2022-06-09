@@ -3,7 +3,7 @@ title: XpsFont
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 940
+weight: 980
 url: /net/aspose.page.xps.xpsmodel/xpsfont/
 ---
 ## XpsFont class

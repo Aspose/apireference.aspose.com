@@ -3,7 +3,7 @@ title: XpsRgbColor
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1200
+weight: 1240
 url: /net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class
@@ -18,7 +18,7 @@ public sealed class XpsRgbColor : XpsColor
 
 | Name | Description |
 | --- | --- |
-| override [ToColor](tocolor)() | Convenience method for getting .NET native representation of RGB color. |
+| override [ToColor](../../aspose.page.xps.xpsmodel/xpsrgbcolor/tocolor)() | Convenience method for getting .NET native representation of RGB color. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public XpsArcSegment CreateArcSegment(PointF point, SizeF size, float rotationAn
 | sweepDirection | XpsSweepDirection | The direction in which the arc is drawn. |
 | isStroked | Boolean | Specifies whether the stroke for this segment of the path is drawn. |
 
-## Return Value
+### Return Value
 
 New elliptical arc segment.
 

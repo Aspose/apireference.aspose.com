@@ -3,7 +3,7 @@ title: PdfEncryptionAlgorithm
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 290
+weight: 330
 url: /net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration
@@ -14,7 +14,7 @@ Encryption mode enum. Describe using algorithm and key length. This enum is exte
 public enum PdfEncryptionAlgorithm
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

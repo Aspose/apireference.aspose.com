@@ -3,7 +3,7 @@ title: Property
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 690
+weight: 730
 url: /net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class
@@ -25,14 +25,14 @@ public class Property : IEnumerable<IPropertyItem>, IFeatureItem, IOptionItem, I
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; } | Returns property name. |
+| [Name](../../aspose.page.xps.xpsmetadata/property/name) { get; } | Returns property name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](getenumerator)() | Implementation of IEnumerable interface. |
-| override [ToString](tostring)() | Returns the string representation. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/property/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/property/tostring)() | Returns the string representation. |
 
 ### See Also
 

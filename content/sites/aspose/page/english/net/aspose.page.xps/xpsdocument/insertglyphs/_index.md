@@ -25,7 +25,7 @@ public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, Font
 | originY | Single | Glyphs origin Y coordinate. |
 | unicodeString | String | String to be printed. |
 
-## Return Value
+### Return Value
 
 Inserted glyphs.
 
@@ -56,7 +56,7 @@ public XpsGlyphs InsertGlyphs(int index, XpsFont font, float fontSize, float ori
 | originY | Single | Glyphs origin Y coordinate. |
 | unicodeString | String | String to be printed. |
 
-## Return Value
+### Return Value
 
 Inserted glyphs.
 

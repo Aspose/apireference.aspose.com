@@ -3,7 +3,7 @@ title: XpsPage
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1090
+weight: 1130
 url: /net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class
@@ -18,15 +18,18 @@ public sealed class XpsPage : XpsElement
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Returns/sets height of the page, expressed as a real number in units of the effective coordinate space. |
-| [Width](width) { get; set; } | Returns/sets width of the page, expressed as a real number in units of the effective coordinate space. |
-| [XmlLang](xmllang) { get; set; } | Returns/sets value specifying the default language used for the current element and for any child or descendant elements. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Returns number of child elements. |
+| [Height](../../aspose.page.xps.xpsmodel/xpspage/height) { get; set; } | Returns/sets height of the page, expressed as a real number in units of the effective coordinate space. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Provides access to element's children by index *i*. |
+| [Width](../../aspose.page.xps.xpsmodel/xpspage/width) { get; set; } | Returns/sets width of the page, expressed as a real number in units of the effective coordinate space. |
+| [XmlLang](../../aspose.page.xps.xpsmodel/xpspage/xmllang) { get; set; } | Returns/sets value specifying the default language used for the current element and for any child or descendant elements. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this page. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpspage/clone)() | Clones this page. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Implementation of IEnumerable interface. |
 
 ### See Also
 

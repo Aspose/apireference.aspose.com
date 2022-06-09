@@ -14,7 +14,7 @@ Returns properties names.
 public virtual IEnumerator<string> PropertyNames()
 ```
 
-## Return Value
+### Return Value
 
 Enumerator of properties names.
 

@@ -14,7 +14,7 @@ Gets size of this font (points).
 public float SizePoints { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The size points.
 

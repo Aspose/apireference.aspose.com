@@ -14,7 +14,7 @@ Clones this polygon.
 public XpsPolyLineSegment Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this polygon.
 

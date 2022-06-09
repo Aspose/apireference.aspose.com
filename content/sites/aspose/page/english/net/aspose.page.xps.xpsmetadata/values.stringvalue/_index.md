@@ -3,7 +3,7 @@ title: Values.StringValue
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 790
+weight: 830
 url: /net/aspose.page.xps.xpsmetadata/values.stringvalue/
 ---
 ## Values.StringValue class
@@ -19,6 +19,12 @@ public sealed class StringValue : Value
 | Name | Description |
 | --- | --- |
 | [StringValue](stringvalue)(string) | Creates string value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.page.xps.xpsmetadata/value/tostring)() | Returns the string representation. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Merge
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.page.eps/psdocument/merge/
 ---
 ## PsDocument.Merge method

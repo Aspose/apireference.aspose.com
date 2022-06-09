@@ -14,7 +14,7 @@ Clones this canvas.
 public XpsCanvas Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this canvas.
 

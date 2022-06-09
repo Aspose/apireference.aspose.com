@@ -18,7 +18,7 @@ public virtual Size GetPropertySize(string key)
 | --- | --- | --- |
 | key | String | The name of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 
@@ -43,7 +43,7 @@ public virtual Size GetPropertySize(string key, Size def)
 | key | String | The name of property. |
 | def | Size | Default value of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 

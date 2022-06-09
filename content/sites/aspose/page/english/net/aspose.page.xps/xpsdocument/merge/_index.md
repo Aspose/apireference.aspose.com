@@ -6,9 +6,9 @@ type: docs
 weight: 450
 url: /net/aspose.page.xps/xpsdocument/merge/
 ---
-## XpsDocument.Merge method
+## XpsDocument.Merge method (1 of 2)
 
-Merging XPS documents using the [`Device`](../../../aspose.page/device) instance.
+Merging XPS documents to PDF using the [`Device`](../../../aspose.page/device) instance.
 
 ```csharp
 public void Merge(string[] filesForMerge, Device device, SaveOptions options)
@@ -24,6 +24,27 @@ public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 
 * class [Device](../../../aspose.page/device)
 * class [SaveOptions](../../../aspose.page/saveoptions)
+* class [XpsDocument](../../xpsdocument)
+* namespace [Aspose.Page.XPS](../../xpsdocument)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## XpsDocument.Merge method (2 of 2)
+
+Merging several XPS files to one XPS document.
+
+```csharp
+public void Merge(string[] filesForMerge, Stream outStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filesForMerge | String[] | XPS files for merging with this document. |
+| stream | Stream | The output stream where to save merged XPS documents. |
+
+### See Also
+
 * class [XpsDocument](../../xpsdocument)
 * namespace [Aspose.Page.XPS](../../xpsdocument)
 * assembly [Aspose.Page](../../../)

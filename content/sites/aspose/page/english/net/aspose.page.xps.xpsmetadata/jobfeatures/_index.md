@@ -3,7 +3,7 @@ title: JobFeatures
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 520
+weight: 560
 url: /net/aspose.page.xps.xpsmetadata/jobfeatures/
 ---
 ## JobFeatures class

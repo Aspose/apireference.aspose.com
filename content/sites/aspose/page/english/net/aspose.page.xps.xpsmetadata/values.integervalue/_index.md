@@ -3,7 +3,7 @@ title: Values.IntegerValue
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 770
+weight: 810
 url: /net/aspose.page.xps.xpsmetadata/values.integervalue/
 ---
 ## Values.IntegerValue class
@@ -19,6 +19,12 @@ public sealed class IntegerValue : Value
 | Name | Description |
 | --- | --- |
 | [IntegerValue](integervalue)(int) | Creates integer value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.page.xps.xpsmetadata/value/tostring)() | Returns the string representation. |
 
 ### See Also
 

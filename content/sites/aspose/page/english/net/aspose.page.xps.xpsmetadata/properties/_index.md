@@ -3,7 +3,7 @@ title: Properties
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 670
+weight: 710
 url: /net/aspose.page.xps.xpsmetadata/properties/
 ---
 ## Properties class

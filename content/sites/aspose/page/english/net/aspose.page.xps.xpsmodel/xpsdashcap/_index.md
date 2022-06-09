@@ -3,7 +3,7 @@ title: XpsDashCap
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 870
+weight: 910
 url: /net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration
@@ -14,7 +14,7 @@ Valid values of Path element's StrokeDashCap property.
 public enum XpsDashCap
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

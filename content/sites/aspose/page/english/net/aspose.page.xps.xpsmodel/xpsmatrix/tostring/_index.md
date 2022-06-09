@@ -14,7 +14,7 @@ Returns the string representation of this [`XpsMatrix`](../../xpsmatrix) instanc
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 String representation
 

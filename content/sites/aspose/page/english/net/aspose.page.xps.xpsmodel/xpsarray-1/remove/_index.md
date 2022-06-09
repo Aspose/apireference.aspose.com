@@ -18,7 +18,7 @@ public T Remove(T obj)
 | --- | --- | --- |
 | obj | T | The object to remove. |
 
-## Return Value
+### Return Value
 
 Removed object.
 

@@ -3,7 +3,7 @@ title: XpsImageBrush
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1030
+weight: 1070
 url: /net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class
@@ -18,14 +18,19 @@ public sealed class XpsImageBrush : XpsTilingBrush
 
 | Name | Description |
 | --- | --- |
-| [Image](image) { get; } | Returns image resource used to for the brush. |
-| [ImageSource](imagesource) { get; } | Returns the URI of an image resource. |
+| [Image](../../aspose.page.xps.xpsmodel/xpsimagebrush/image) { get; } | Returns image resource used to for the brush. |
+| [ImageSource](../../aspose.page.xps.xpsmodel/xpsimagebrush/imagesource) { get; } | Returns the URI of an image resource. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Returns/sets value defining the uniform transparency of the brush fill. |
+| [TileMode](../../aspose.page.xps.xpsmodel/xpstilingbrush/tilemode) { get; set; } | Returns/sets value specifying how tiling is performed in the filled geometry. |
+| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform) { get; set; } | Returns/sets the matrix transformation applied to the coordinate space of the brush. The Transform property is concatenated with the current effective render transform to yield an effective render transform local to the brush. The viewport for the brush is transformed using the local effective render transform. |
+| [Viewbox](../../aspose.page.xps.xpsmodel/xpstilingbrush/viewbox) { get; set; } | Returns/sets the region of the source content of the brush that is to be mapped to the viewport. |
+| [Viewport](../../aspose.page.xps.xpsmodel/xpstilingbrush/viewport) { get; set; } | Returns/sets the position and dimensions of the first brush tile. Subsequent tiles are positioned relative to this tile, as specified by the tile mode. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this image brush. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpsimagebrush/clone)() | Clones this image brush. |
 
 ### See Also
 

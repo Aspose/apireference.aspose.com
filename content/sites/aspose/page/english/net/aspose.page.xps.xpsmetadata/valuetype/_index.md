@@ -3,7 +3,7 @@ title: ValueType
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 740
+weight: 780
 url: /net/aspose.page.xps.xpsmetadata/valuetype/
 ---
 ## ValueType class
@@ -24,16 +24,16 @@ public sealed class ValueType
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns the string representation. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/valuetype/tostring)() | Returns the string representation. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static [Decimal](decimal) | Decimal type ("xsd:decimal"). |
-| static [Integer](integer) | Integer type ("xsd:integer"). |
-| static [QName](qname) | QName type ("xsd:QName"). |
-| static [String](string) | String type ("xsd:string"). |
+| static [Decimal](../../aspose.page.xps.xpsmetadata/valuetype/decimal) | Decimal type ("xsd:decimal"). |
+| static [Integer](../../aspose.page.xps.xpsmetadata/valuetype/integer) | Integer type ("xsd:integer"). |
+| static [QName](../../aspose.page.xps.xpsmetadata/valuetype/qname) | QName type ("xsd:QName"). |
+| static [String](../../aspose.page.xps.xpsmetadata/valuetype/string) | String type ("xsd:string"). |
 
 ### See Also
 

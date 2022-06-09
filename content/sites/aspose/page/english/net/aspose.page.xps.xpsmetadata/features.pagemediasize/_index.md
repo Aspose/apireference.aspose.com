@@ -3,7 +3,7 @@ title: Features.PageMediaSize
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 440
+weight: 480
 url: /net/aspose.page.xps.xpsmetadata/features.pagemediasize/
 ---
 ## Features.PageMediaSize class
@@ -19,6 +19,20 @@ public sealed class PageMediaSize : Feature
 | Name | Description |
 | --- | --- |
 | [PageMediaSize](pagemediasize)(params Option[]) | Creates PageMediaSize feature instance. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/feature/name) { get; } | Returns feature name. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Adds list of items to the end of feature items list. Each one must be a [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/feature/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/feature/tostring)() | Returns the string representation. |
 
 ### See Also
 

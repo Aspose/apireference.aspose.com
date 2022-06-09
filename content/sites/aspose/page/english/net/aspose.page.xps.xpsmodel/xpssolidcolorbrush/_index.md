@@ -3,7 +3,7 @@ title: XpsSolidColorBrush
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1210
+weight: 1250
 url: /net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class
@@ -18,13 +18,14 @@ public sealed class XpsSolidColorBrush : XpsBrush
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; set; } | Returns/sets the color for filled elements. |
+| [Color](../../aspose.page.xps.xpsmodel/xpssolidcolorbrush/color) { get; set; } | Returns/sets the color for filled elements. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Returns/sets value defining the uniform transparency of the brush fill. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this solid color brush. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpssolidcolorbrush/clone)() | Clones this solid color brush. |
 
 ### See Also
 

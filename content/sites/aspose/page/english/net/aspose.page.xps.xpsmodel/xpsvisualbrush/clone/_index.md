@@ -14,7 +14,7 @@ Clones this visual brush.
 public XpsVisualBrush Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this visual brush.
 

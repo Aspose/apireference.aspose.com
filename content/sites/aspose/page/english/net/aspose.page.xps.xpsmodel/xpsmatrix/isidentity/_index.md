@@ -14,7 +14,7 @@ Gets a value indicating whether this instance is identity matrix.
 public bool IsIdentity { get; }
 ```
 
-## Property Value
+### Property Value
 
 `True` if this instance is identity matrix; otherwise, `false`.
 

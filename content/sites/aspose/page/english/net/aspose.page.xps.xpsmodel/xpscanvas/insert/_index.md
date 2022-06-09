@@ -15,13 +15,13 @@ public T Insert<T>(int index, T element)
     where T : XpsContentElement
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| T | Int32 | The type of the element to add. |
-| index | Int32 | Position at which an element should be inserted. |
-| element | T | The element to be inserted. |
+| Parameter | Description |
+| --- | --- |
+| T | The type of the element to add. |
+| index | Position at which an element should be inserted. |
+| element | The element to be inserted. |
 
-## Return Value
+### Return Value
 
 Inserted element.
 

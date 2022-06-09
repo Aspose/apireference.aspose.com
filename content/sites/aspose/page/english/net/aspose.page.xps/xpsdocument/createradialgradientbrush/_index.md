@@ -23,7 +23,7 @@ public XpsRadialGradientBrush CreateRadialGradientBrush(List<XpsGradientStop> gr
 | radiusX | Single | The radius in the x dimension of the ellipse which defines the radial gradient. |
 | radiusY | Single | The radius in the y dimension of the ellipse which defines the radial gradient. |
 
-## Return Value
+### Return Value
 
 New radial gradient brush.
 
@@ -53,7 +53,7 @@ public XpsRadialGradientBrush CreateRadialGradientBrush(PointF center, PointF gr
 | radiusX | Single | The radius in the x dimension of the ellipse which defines the radial gradient. |
 | radiusY | Single | The radius in the y dimension of the ellipse which defines the radial gradient. |
 
-## Return Value
+### Return Value
 
 New radial gradient brush.
 

@@ -19,7 +19,7 @@ public XpsPolyLineSegment CreatePolyLineSegment(PointF[] points, bool isStroked 
 | points | PointF[] | A set of coordinates for the multiple segments that define the poly line segment. |
 | isStroked | Boolean | Specifies whether the stroke for this segment of the path is drawn. |
 
-## Return Value
+### Return Value
 
 New polygonal drawing segment.
 

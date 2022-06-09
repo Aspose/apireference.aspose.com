@@ -18,7 +18,7 @@ public XpsContentElement RemoveAt(int index)
 | --- | --- | --- |
 | index | Int32 | Position at which element should be removed. |
 
-## Return Value
+### Return Value
 
 Removed element.
 

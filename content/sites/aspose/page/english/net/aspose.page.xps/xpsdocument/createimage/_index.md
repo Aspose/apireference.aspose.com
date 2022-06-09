@@ -18,7 +18,7 @@ public XpsImage CreateImage(string imagePath)
 | --- | --- | --- |
 | imagePath | String | The path to the image to take as a resource. |
 
-## Return Value
+### Return Value
 
 New image resource.
 
@@ -43,7 +43,7 @@ public XpsImage CreateImage(Stream stream)
 | --- | --- | --- |
 | stream | Stream | The stream containing the image to take as a resource. |
 
-## Return Value
+### Return Value
 
 New image resource.
 

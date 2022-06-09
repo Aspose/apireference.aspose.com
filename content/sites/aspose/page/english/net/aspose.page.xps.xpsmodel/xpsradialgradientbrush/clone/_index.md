@@ -14,7 +14,7 @@ Clones this radial graduent brush.
 public XpsRadialGradientBrush Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this radial graduent brush.
 

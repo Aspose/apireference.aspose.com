@@ -18,7 +18,7 @@ public XpsPathSegment RemoveSegmentAt(int index)
 | --- | --- | --- |
 | index | Int32 | Position at which a path segment should be removed. |
 
-## Return Value
+### Return Value
 
 Removed path segment.
 

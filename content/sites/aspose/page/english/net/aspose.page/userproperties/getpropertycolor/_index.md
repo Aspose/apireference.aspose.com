@@ -18,7 +18,7 @@ public virtual Color GetPropertyColor(string key)
 | --- | --- | --- |
 | key | String | The name of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 
@@ -43,7 +43,7 @@ public virtual Color GetPropertyColor(string key, Color def)
 | key | String | The name of property. |
 | def | Color | Default value of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 

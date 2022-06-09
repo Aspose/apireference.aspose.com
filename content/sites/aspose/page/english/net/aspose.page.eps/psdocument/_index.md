@@ -24,14 +24,16 @@ public sealed class PsDocument : Document
 
 | Name | Description |
 | --- | --- |
-| [NumberOfPages](numberofpages) { get; } | Returns the number of pages in resulting PDF document. |
+| [NumberOfPages](../../aspose.page.eps/psdocument/numberofpages) { get; } | Returns the number of pages in resulting PDF document. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Merge](merge)(string[], Device, SaveOptions) | Merges PS/EPS files to a device. |
-| override [Save](save)(Device, SaveOptions) | Saves PS/EPS file to a device. |
+| [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata)() | Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if it doesn't exist. |
+| [Merge](../../aspose.page.eps/psdocument/merge)(string[], Device, SaveOptions) | Merges PS/EPS files to a device. |
+| [Save](../../aspose.page.eps/psdocument/save)(Stream) | Saves given [`PsDocument`](../psdocument) as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added. |
+| override [Save](../../aspose.page.eps/psdocument/save)(Device, SaveOptions) | Saves PS/EPS file to a device. |
 
 ### See Also
 

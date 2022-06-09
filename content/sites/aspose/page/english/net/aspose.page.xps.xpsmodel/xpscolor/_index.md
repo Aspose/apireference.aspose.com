@@ -3,7 +3,7 @@ title: XpsColor
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 840
+weight: 880
 url: /net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class
@@ -18,7 +18,7 @@ public abstract class XpsColor
 
 | Name | Description |
 | --- | --- |
-| abstract [ToColor](tocolor)() | Convenience method for getting .NET native representation of any color/ |
+| abstract [ToColor](../../aspose.page.xps.xpsmodel/xpscolor/tocolor)() | Convenience method for getting .NET native representation of any color/ |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public virtual bool IsProperty(string key)
 | --- | --- | --- |
 | key | String | The name of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 
@@ -43,7 +43,7 @@ public virtual bool IsProperty(string key, bool def)
 | key | String | The name of property. |
 | def | Boolean | Default value of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 

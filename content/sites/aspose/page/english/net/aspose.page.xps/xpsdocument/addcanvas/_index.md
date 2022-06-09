@@ -14,7 +14,7 @@ Adds a new canvas to the active page.
 public XpsCanvas AddCanvas()
 ```
 
-## Return Value
+### Return Value
 
 Added canvas.
 

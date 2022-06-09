@@ -1,9 +1,9 @@
 ---
 title: Aspose.Page.XPS.XpsMetadata
 second_title: Aspose.Page for .NET API Reference
-description: The **Aspose.Page.Xps.XpsMetadata** namespace provides classes that describe metadata of XPS document.
+description: The Aspose.Page.Xps.XpsMetadata namespace provides classes that describe metadata of XPS document.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.page.xps.xpsmetadata/
 ---
 The **Aspose.Page.Xps.XpsMetadata** namespace provides classes that describe metadata of XPS document.
@@ -12,37 +12,37 @@ The **Aspose.Page.Xps.XpsMetadata** namespace provides classes that describe met
 
 | Class | Description |
 | --- | --- |
-| abstract class [DocumentFeature](./documentfeature) | Class incapsulating document-level print ticket feature. |
-| abstract class [DocumentFeatures](./documentfeatures) | Class incapsulating document-level print ticket feature. |
-| class [DocumentPrintTicket](./documentprintticket) | Class incapsulating features of a document-level print ticket |
-| class [Feature](./feature) | Class implementing common print ticket feature. |
-| class [Features](./features) | Class incapsulating common print ticket feature. |
-| abstract class [JobFeature](./jobfeature) | Abstract class for job-level print ticket feature. |
-| abstract class [JobFeatures](./jobfeatures) | Class incapsulating job-level print ticket feature. |
-| class [JobPrintTicket](./jobprintticket) | Class incapsulating features of a job-level print ticket |
-| class [Option](./option) | Class implementing print ticket option. |
-| class [Options](./options) | Class incapsulating print ticket option. |
-| abstract class [PageFeature](./pagefeature) | Abstract class for page-level print ticket feature. |
-| abstract class [PageFeatures](./pagefeatures) | Abstract class for page-level print ticket feature. |
-| class [PagePrintTicket](./pageprintticket) | Class incapsulating features of a page-level print ticket |
-| class [ParameterInit](./parameterinit) | Class implementing print ticket parameter initializer. |
-| class [ParameterInits](./parameterinits) | Class incapsulating print ticket parameter initializer. |
-| abstract class [PrintTicket](./printticket) | Basic class incapsulating common features of a print ticket of any levels |
-| abstract class [Properties](./properties) | Class incapsulating print ticket property. |
-| class [Property](./property) | Class implementing print ticket property. |
-| abstract class [ScoredProperties](./scoredproperties) | Class incapsulating print ticket scored property. |
-| class [ScoredProperty](./scoredproperty) | Class implementing print ticket scored property. |
-| class [Value](./value) | Class implementing print ticket property value. |
-| class [Values](./values) | Class incapsulating print ticket property values. |
-| class [ValueType](./valuetype) | Class incapsulating print ticket property value types. |
+| [DocumentFeature](./documentfeature) | Class incapsulating document-level print ticket feature. |
+| [DocumentFeatures](./documentfeatures) | Class incapsulating document-level print ticket feature. |
+| [DocumentPrintTicket](./documentprintticket) | Class incapsulating features of a document-level print ticket |
+| [Feature](./feature) | Class implementing common print ticket feature. |
+| [Features](./features) | Class incapsulating common print ticket feature. |
+| [JobFeature](./jobfeature) | Abstract class for job-level print ticket feature. |
+| [JobFeatures](./jobfeatures) | Class incapsulating job-level print ticket feature. |
+| [JobPrintTicket](./jobprintticket) | Class incapsulating features of a job-level print ticket |
+| [Option](./option) | Class implementing print ticket option. |
+| [Options](./options) | Class incapsulating print ticket option. |
+| [PageFeature](./pagefeature) | Abstract class for page-level print ticket feature. |
+| [PageFeatures](./pagefeatures) | Abstract class for page-level print ticket feature. |
+| [PagePrintTicket](./pageprintticket) | Class incapsulating features of a page-level print ticket |
+| [ParameterInit](./parameterinit) | Class implementing print ticket parameter initializer. |
+| [ParameterInits](./parameterinits) | Class incapsulating print ticket parameter initializer. |
+| [PrintTicket](./printticket) | Basic class incapsulating common features of a print ticket of any levels |
+| [Properties](./properties) | Class incapsulating print ticket property. |
+| [Property](./property) | Class implementing print ticket property. |
+| [ScoredProperties](./scoredproperties) | Class incapsulating print ticket scored property. |
+| [ScoredProperty](./scoredproperty) | Class implementing print ticket scored property. |
+| [Value](./value) | Class implementing print ticket property value. |
+| [Values](./values) | Class incapsulating print ticket property values. |
+| [ValueType](./valuetype) | Class incapsulating print ticket property value types. |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| interface [IFeatureItem](./ifeatureitem) | Basic interface for classes that can be a print ticket feature item. |
-| interface [IOptionItem](./ioptionitem) | Basic interface for classes that can be a print ticket option item. |
-| interface [IPrintTicketItem](./iprintticketitem) | Basic interface for classes that can be a print ticket item. |
-| interface [IPropertyItem](./ipropertyitem) | Basic interface for classes that can be a print ticket property item. |
-| interface [IScoredPropertyItem](./iscoredpropertyitem) | Basic interface for classes that can be a print ticket scored property item. |
+| [IFeatureItem](./ifeatureitem) | Basic interface for classes that can be a print ticket feature item. |
+| [IOptionItem](./ioptionitem) | Basic interface for classes that can be a print ticket option item. |
+| [IPrintTicketItem](./iprintticketitem) | Basic interface for classes that can be a print ticket item. |
+| [IPropertyItem](./ipropertyitem) | Basic interface for classes that can be a print ticket property item. |
+| [IScoredPropertyItem](./iscoredpropertyitem) | Basic interface for classes that can be a print ticket scored property item. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->

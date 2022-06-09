@@ -3,7 +3,7 @@ title: Options
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 570
+weight: 610
 url: /net/aspose.page.xps.xpsmetadata/options/
 ---
 ## Options class

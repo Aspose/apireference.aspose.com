@@ -14,7 +14,7 @@ Indicates whether device uses direct RGB mode, that is RGB.
 public virtual bool IsDirectRGB { get; }
 ```
 
-## Return Value
+### Return Value
 
 True if direct RGB mode and false otherwise, that is BGR.
 

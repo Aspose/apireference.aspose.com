@@ -19,7 +19,7 @@ public XpsPathFigure CreatePathFigure(PointF startPoint, bool isClosed = false)
 | startPoint | PointF | The starting point for the first segment of the path figure. |
 | isClosed | Boolean | Specifies whether the path is closed. If set to true, the stroke is drawn "closed," that is, the last point in the last segment of the path figure is connected with the point specified in the StartPoint attribute, otherwise the stroke is drawn "open," and the last point is not connected to the start point. Only applicable if the path figure is used in a {Path} element that specifies a stroke. |
 
-## Return Value
+### Return Value
 
 New path figure.
 
@@ -47,7 +47,7 @@ public XpsPathFigure CreatePathFigure(PointF startPoint, List<XpsPathSegment> se
 | segments | List`1 | List of path segments. |
 | isClosed | Boolean | Specifies whether the path is closed. If set to true, the stroke is drawn "closed," that is, the last point in the last segment of the path figure is connected with the point specified in the StartPoint attribute, otherwise the stroke is drawn "open," and the last point is not connected to the start point. Only applicable if the path figure is used in a {Path} element that specifies a stroke. |
 
-## Return Value
+### Return Value
 
 New path figure.
 

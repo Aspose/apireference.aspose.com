@@ -3,7 +3,7 @@ title: ScoredProperties
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 700
+weight: 740
 url: /net/aspose.page.xps.xpsmetadata/scoredproperties/
 ---
 ## ScoredProperties class

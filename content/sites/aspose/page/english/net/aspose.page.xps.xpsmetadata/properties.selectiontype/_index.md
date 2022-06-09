@@ -3,7 +3,7 @@ title: Properties.SelectionType
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 680
+weight: 720
 url: /net/aspose.page.xps.xpsmetadata/properties.selectiontype/
 ---
 ## Properties.SelectionType class
@@ -13,6 +13,26 @@ Convenience class for SelectionType print ticket property.
 ```csharp
 public sealed class SelectionType : Property
 ```
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/property/name) { get; } | Returns property name. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/property/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/property/tostring)() | Returns the string representation. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static readonly [PickMany](../../aspose.page.xps.xpsmetadata/selectiontype/pickmany) | PickMany value. |
+| static readonly [PickOne](../../aspose.page.xps.xpsmetadata/selectiontype/pickone) | PickOne value. |
 
 ### See Also
 
