@@ -19,7 +19,7 @@ public XpsPath InsertPath(int index, XpsPathGeometry data)
 | index | Int32 | Position at which a new path should be inserted. |
 | data | XpsPathGeometry | The geometry of the path. |
 
-## Return Value
+### Return Value
 
 Inserted path.
 

@@ -3,7 +3,7 @@ title: Features
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 430
+weight: 470
 url: /net/aspose.page.xps.xpsmetadata/features/
 ---
 ## Features class

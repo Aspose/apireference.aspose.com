@@ -3,7 +3,7 @@ title: ParameterInit
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 630
+weight: 670
 url: /net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class
@@ -24,13 +24,13 @@ public class ParameterInit : IPrintTicketItem
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; } | Returns parameter name. |
+| [Name](../../aspose.page.xps.xpsmetadata/parameterinit/name) { get; } | Returns parameter name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns the string representation. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/parameterinit/tostring)() | Returns the string representation. |
 
 ### See Also
 

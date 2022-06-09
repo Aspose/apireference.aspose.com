@@ -20,7 +20,7 @@ public GraphicsPath GetOutline(char charValue, float x, float y)
 | x | Single | X coordinate of the character location. |
 | y | Single | Y coordinate of the character location. |
 
-## Return Value
+### Return Value
 
 An outline of glyph.
 

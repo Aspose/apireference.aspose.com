@@ -18,7 +18,7 @@ public XpsPage AddPage(bool activate = true)
 | --- | --- | --- |
 | activate | Boolean | Flag indicating whether to select added page as active. |
 
-## Return Value
+### Return Value
 
 Added page.
 
@@ -45,7 +45,7 @@ public XpsPage AddPage(float width, float height, bool activate = true)
 | height | Single | Height of a new page. |
 | activate | Boolean | Flag indicating whether to select added page as active. |
 
-## Return Value
+### Return Value
 
 Added page.
 
@@ -71,7 +71,7 @@ public XpsPage AddPage(XpsPage page, bool activate = true)
 | page | XpsPage | Page to be added. |
 | activate | Boolean | Flag indicating whether to select added page as active. |
 
-## Return Value
+### Return Value
 
 Added page.
 

@@ -3,7 +3,7 @@ title: XpsPathFigure
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1120
+weight: 1160
 url: /net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class
@@ -18,16 +18,22 @@ public class XpsPathFigure : XpsArray<XpsPathSegment>
 
 | Name | Description |
 | --- | --- |
-| [IsClosed](isclosed) { get; set; } | Returns/sets the value indicating whether the path figure is closed. |
-| [IsFilled](isfilled) { get; set; } | Returns/sets value indicating whether the path figure is used in computing the area of the containing path geometry. |
-| [Segments](segments) { get; } | Return list of child path segments. |
-| [StartPoint](startpoint) { get; set; } | Returns/sets the starting point for the first segment of the path figure. |
+| [Count](../../aspose.page.xps.xpsmodel/xpsarray`1/count) { get; } |  |
+| [IsClosed](../../aspose.page.xps.xpsmodel/xpspathfigure/isclosed) { get; set; } | Returns/sets the value indicating whether the path figure is closed. |
+| [IsFilled](../../aspose.page.xps.xpsmodel/xpspathfigure/isfilled) { get; set; } | Returns/sets value indicating whether the path figure is used in computing the area of the containing path geometry. |
+| [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } |  |
+| [Segments](../../aspose.page.xps.xpsmodel/xpspathfigure/segments) { get; } | Return list of child path segments. |
+| [StartPoint](../../aspose.page.xps.xpsmodel/xpspathfigure/startpoint) { get; set; } | Returns/sets the starting point for the first segment of the path figure. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this path figure. |
+| [Add](../../aspose.page.xps.xpsmodel/xpsarray`1/add)(XpsPathSegment) |  |
+| [Clone](../../aspose.page.xps.xpsmodel/xpspathfigure/clone)() | Clones this path figure. |
+| [Insert](../../aspose.page.xps.xpsmodel/xpsarray`1/insert)(int, XpsPathSegment) |  |
+| [Remove](../../aspose.page.xps.xpsmodel/xpsarray`1/remove)(XpsPathSegment) |  |
+| [RemoveAt](../../aspose.page.xps.xpsmodel/xpsarray`1/removeat)(int) |  |
 
 ### See Also
 

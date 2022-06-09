@@ -3,7 +3,7 @@ title: IOptionItem
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 470
+weight: 510
 url: /net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface

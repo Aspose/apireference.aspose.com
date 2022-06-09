@@ -11,20 +11,21 @@ url: /net/aspose.page.xps/xpsdocument/createsolidcolorbrush/
 Creates a new solid color brush.
 
 ```csharp
-public XpsSolidColorBrush CreateSolidColorBrush(Color color)
+public XpsSolidColorBrush CreateSolidColorBrush(XpsColor color)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | Color | The color for filled elements. |
+| color | XpsColor | The color for filled elements. |
 
-## Return Value
+### Return Value
 
 New solid color brush.
 
 ### See Also
 
 * class [XpsSolidColorBrush](../../../aspose.page.xps.xpsmodel/xpssolidcolorbrush)
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
 * class [XpsDocument](../../xpsdocument)
 * namespace [Aspose.Page.XPS](../../xpsdocument)
 * assembly [Aspose.Page](../../../)
@@ -36,21 +37,20 @@ New solid color brush.
 Creates a new solid color brush.
 
 ```csharp
-public XpsSolidColorBrush CreateSolidColorBrush(XpsColor color)
+public XpsSolidColorBrush CreateSolidColorBrush(Color color)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | XpsColor | The color for filled elements. |
+| color | Color | The color for filled elements. |
 
-## Return Value
+### Return Value
 
 New solid color brush.
 
 ### See Also
 
 * class [XpsSolidColorBrush](../../../aspose.page.xps.xpsmodel/xpssolidcolorbrush)
-* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
 * class [XpsDocument](../../xpsdocument)
 * namespace [Aspose.Page.XPS](../../xpsdocument)
 * assembly [Aspose.Page](../../../)

@@ -18,7 +18,7 @@ public ITrFont DeriveFont(float size)
 | --- | --- | --- |
 | size | Single | Size of new font. |
 
-## Return Value
+### Return Value
 
 A new font.
 
@@ -42,7 +42,7 @@ public ITrFont DeriveFont(FontStyle style)
 | --- | --- | --- |
 | style | FontStyle | Style of new font. |
 
-## Return Value
+### Return Value
 
 A new font.
 
@@ -67,7 +67,7 @@ public ITrFont DeriveFont(float size, FontStyle style)
 | size | Single | Size of new font. |
 | style | FontStyle | Style of new font. |
 
-## Return Value
+### Return Value
 
 A new font.
 
@@ -91,7 +91,7 @@ public ITrFont DeriveFont(Matrix transform)
 | --- | --- | --- |
 | transform | Matrix | Transformation of new font. |
 
-## Return Value
+### Return Value
 
 A new font.
 

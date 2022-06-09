@@ -19,7 +19,7 @@ public XpsPathSegment InsertSegment(int index, XpsPathSegment segment)
 | index | Int32 | Position at which a segment should be inserted. |
 | segment | XpsPathSegment | A path segment to be inserted. |
 
-## Return Value
+### Return Value
 
 Inserted path segment.
 

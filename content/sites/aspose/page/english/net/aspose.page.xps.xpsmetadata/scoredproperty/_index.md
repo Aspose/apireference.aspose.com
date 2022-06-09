@@ -3,7 +3,7 @@ title: ScoredProperty
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 720
+weight: 760
 url: /net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class
@@ -24,8 +24,8 @@ public class ScoredProperty : IEnumerable<IScoredPropertyItem>, IOptionItem, ISc
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](getenumerator)() | Implementation of IEnumerable interface. |
-| override [ToString](tostring)() | Returns the string representation. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/scoredproperty/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/scoredproperty/tostring)() | Returns the string representation. |
 
 ### See Also
 

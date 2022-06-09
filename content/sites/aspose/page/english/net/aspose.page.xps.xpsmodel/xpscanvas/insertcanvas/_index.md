@@ -18,7 +18,7 @@ public XpsCanvas InsertCanvas(int index)
 | --- | --- | --- |
 | index | Int32 | Position at which a new canvas should be inserted. |
 
-## Return Value
+### Return Value
 
 Inserted canvas.
 

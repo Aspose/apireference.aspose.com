@@ -3,7 +3,7 @@ title: PagePrintTicket
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 620
+weight: 660
 url: /net/aspose.page.xps.xpsmetadata/pageprintticket/
 ---
 ## PagePrintTicket class
@@ -19,6 +19,13 @@ public sealed class PagePrintTicket : PrintTicket
 | Name | Description |
 | --- | --- |
 | [PagePrintTicket](pageprintticket)(params IPrintTicketItem[]) | Creates page-level print ticket instance. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Add](../../aspose.page.xps.xpsmetadata/printticket/add)(params IPrintTicketItem[]) | Adds list of items to the end of print ticket items list. Each one can be [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Implementation of IEnumerable interface. |
 
 ### See Also
 

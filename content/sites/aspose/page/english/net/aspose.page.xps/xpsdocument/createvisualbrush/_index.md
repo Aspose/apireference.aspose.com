@@ -21,7 +21,7 @@ public XpsVisualBrush CreateVisualBrush(XpsContentElement element, RectangleF vi
 | viewbox | RectangleF | The position and dimensions of the brush's source content. |
 | viewport | RectangleF | The region in the containing coordinate space of the prime brush tile that is (possibly repeatedly) applied to fill the region to which the brush is applied |
 
-## Return Value
+### Return Value
 
 New visual brush.
 

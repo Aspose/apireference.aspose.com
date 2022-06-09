@@ -3,7 +3,7 @@ title: Values.DecimalValue
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 760
+weight: 800
 url: /net/aspose.page.xps.xpsmetadata/values.decimalvalue/
 ---
 ## Values.DecimalValue class
@@ -19,6 +19,12 @@ public sealed class DecimalValue : Value
 | Name | Description |
 | --- | --- |
 | [DecimalValue](decimalvalue)(decimal) | Creates decimal value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.page.xps.xpsmetadata/value/tostring)() | Returns the string representation. |
 
 ### See Also
 

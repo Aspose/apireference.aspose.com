@@ -3,7 +3,7 @@ title: DrFont
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 150
 url: /net/aspose.page.font/drfont/
 ---
 ## DrFont class
@@ -18,38 +18,38 @@ public class DrFont
 
 | Name | Description |
 | --- | --- |
-| [AscentLis](ascentlis) { get; } | Cell ascent of this font (lis). This is a vertical distance from cell top to cell baseline. |
-| [AscentPoints](ascentpoints) { get; } | Returns the cell ascent in points. |
-| [CellHeightLis](cellheightlis) { get; } | Returns cell height of this font (lis). This is a shortcut for [`AscentLis`](./ascentlis) + [`DescentLis`](./descentlis). |
-| [CellHeightPoints](cellheightpoints) { get; } | Shortcut for [`AscentPoints`](./ascentpoints) + [`DescentPoints`](./descentpoints). |
-| [DescentLis](descentlis) { get; } | Cell descent of this font (lis). This is a vertical distance from cell bottom to cell baseline. |
-| [DescentPoints](descentpoints) { get; } | Returns the cell descent in points. |
-| [FamilyName](familyname) { get; } | Gets name of this font. |
-| [IsBold](isbold) { get; } | Gets a value indicating whether this instance is bold. |
-| [IsItalic](isitalic) { get; } | Gets a value indicating whether this instance is italic. |
-| [LeadingLis](leadinglis) { get; } | Returns leading of this font (lis). This is a shortcut for [`LineSpacingLis`](./linespacinglis) - [`CellHeightLis`](./cellheightlis). |
-| [LeadingPoints](leadingpoints) { get; } | Returns leading of this font (lis). This is a shortcut for [`LineSpacingLis`](./linespacinglis) - [`CellHeightLis`](./cellheightlis). |
-| [LineSpacingLis](linespacinglis) { get; } | Returns cell spacing of this font (lis). This is a vertical distance between baselines of the two glyphs. |
-| [LineSpacingPoints](linespacingpoints) { get; } | Returns cell spacing of this font (points). This is a vertical distance between baselines of the two glyphs. |
-| [SizePoints](sizepoints) { get; set; } | Gets size of this font (points). |
-| [SmallCapsScaleFactor](smallcapsscalefactor) { get; } | Gets the SmallCaps scale factor. |
-| [Style](style) { get; } | Gets style of this font. |
-| [StyleEx](styleex) { get; set; } | This property contains additional information about font's style |
+| [AscentLis](../../aspose.page.font/drfont/ascentlis) { get; } | Cell ascent of this font (lis). This is a vertical distance from cell top to cell baseline. |
+| [AscentPoints](../../aspose.page.font/drfont/ascentpoints) { get; } | Returns the cell ascent in points. |
+| [CellHeightLis](../../aspose.page.font/drfont/cellheightlis) { get; } | Returns cell height of this font (lis). This is a shortcut for [`AscentLis`](./ascentlis) + [`DescentLis`](./descentlis). |
+| [CellHeightPoints](../../aspose.page.font/drfont/cellheightpoints) { get; } | Shortcut for [`AscentPoints`](./ascentpoints) + [`DescentPoints`](./descentpoints). |
+| [DescentLis](../../aspose.page.font/drfont/descentlis) { get; } | Cell descent of this font (lis). This is a vertical distance from cell bottom to cell baseline. |
+| [DescentPoints](../../aspose.page.font/drfont/descentpoints) { get; } | Returns the cell descent in points. |
+| [FamilyName](../../aspose.page.font/drfont/familyname) { get; } | Gets name of this font. |
+| [IsBold](../../aspose.page.font/drfont/isbold) { get; } | Gets a value indicating whether this instance is bold. |
+| [IsItalic](../../aspose.page.font/drfont/isitalic) { get; } | Gets a value indicating whether this instance is italic. |
+| [LeadingLis](../../aspose.page.font/drfont/leadinglis) { get; } | Returns leading of this font (lis). This is a shortcut for [`LineSpacingLis`](./linespacinglis) - [`CellHeightLis`](./cellheightlis). |
+| [LeadingPoints](../../aspose.page.font/drfont/leadingpoints) { get; } | Returns leading of this font (lis). This is a shortcut for [`LineSpacingLis`](./linespacinglis) - [`CellHeightLis`](./cellheightlis). |
+| [LineSpacingLis](../../aspose.page.font/drfont/linespacinglis) { get; } | Returns cell spacing of this font (lis). This is a vertical distance between baselines of the two glyphs. |
+| [LineSpacingPoints](../../aspose.page.font/drfont/linespacingpoints) { get; } | Returns cell spacing of this font (points). This is a vertical distance between baselines of the two glyphs. |
+| [SizePoints](../../aspose.page.font/drfont/sizepoints) { get; set; } | Gets size of this font (points). |
+| [SmallCapsScaleFactor](../../aspose.page.font/drfont/smallcapsscalefactor) { get; } | Gets the SmallCaps scale factor. |
+| [Style](../../aspose.page.font/drfont/style) { get; } | Gets style of this font. |
+| [StyleEx](../../aspose.page.font/drfont/styleex) { get; set; } | This property contains additional information about font's style |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| [GetCharWidthLis](getcharwidthlis)(char) | Gets the char width lis. |
-| [GetCharWidthPoints](getcharwidthpoints)(char) | Returns width of the character (points). |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| [GetTextSizePoints](gettextsizepoints)(string) | Returns measurement text box of the text in points. |
-| [GetTextWidthLis](gettextwidthlis)(string) | Gets the text width lis. |
-| [GetTextWidthPoints](gettextwidthpoints)(string) | Gets the text width points. |
-| [GetTextWidthPoints](gettextwidthpoints)(string, int, int) | Gets the text width points. |
-| [Replace](replace)(DrFont) | Replace font content |
-| static [IsPoorlyRenderedByGdiPlus](ispoorlyrenderedbygdiplus)(string) | Returns True for "Microsoft Sans Serif" font. This one is poorly rendered by GDI+. See Test286 and Gemini-6959. |
+| override [Equals](../../aspose.page.font/drfont/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| [GetCharWidthLis](../../aspose.page.font/drfont/getcharwidthlis)(char) | Gets the char width lis. |
+| [GetCharWidthPoints](../../aspose.page.font/drfont/getcharwidthpoints)(char) | Returns width of the character (points). |
+| override [GetHashCode](../../aspose.page.font/drfont/gethashcode)() | Returns a hash code for this instance. |
+| [GetTextSizePoints](../../aspose.page.font/drfont/gettextsizepoints)(string) | Returns measurement text box of the text in points. |
+| [GetTextWidthLis](../../aspose.page.font/drfont/gettextwidthlis)(string) | Gets the text width lis. |
+| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints)(string) | Gets the text width points. |
+| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints)(string, int, int) | Gets the text width points. |
+| [Replace](../../aspose.page.font/drfont/replace)(DrFont) | Replace font content |
+| static [IsPoorlyRenderedByGdiPlus](../../aspose.page.font/drfont/ispoorlyrenderedbygdiplus)(string) | Returns True for "Microsoft Sans Serif" font. This one is poorly rendered by GDI+. See Test286 and Gemini-6959. |
 
 ### See Also
 

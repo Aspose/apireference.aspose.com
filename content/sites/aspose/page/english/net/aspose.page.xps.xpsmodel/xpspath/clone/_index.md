@@ -14,7 +14,7 @@ Clones this path.
 public XpsPath Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone this path.
 

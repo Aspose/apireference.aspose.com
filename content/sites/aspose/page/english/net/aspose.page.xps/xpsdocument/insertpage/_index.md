@@ -19,7 +19,7 @@ public XpsPage InsertPage(int index, bool activate = true)
 | index | Int32 | Position at which a page should be inserted. |
 | activate | Boolean | Flag indicating whether to select inserted page as active. |
 
-## Return Value
+### Return Value
 
 Inserted page.
 
@@ -47,7 +47,7 @@ public XpsPage InsertPage(int index, float width, float height, bool activate = 
 | height | Single | Height of a new page. |
 | activate | Boolean | Flag indicating whether to select inserted page as active. |
 
-## Return Value
+### Return Value
 
 Inserted page.
 
@@ -74,7 +74,7 @@ public XpsPage InsertPage(int index, XpsPage page, bool activate = true)
 | page | XpsPage | Page to be inserted. |
 | activate | Boolean | Flag indicating whether to select inserted page as active. |
 
-## Return Value
+### Return Value
 
 Inserted page.
 

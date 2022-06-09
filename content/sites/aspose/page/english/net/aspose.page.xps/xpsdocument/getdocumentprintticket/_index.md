@@ -18,7 +18,7 @@ public DocumentPrintTicket GetDocumentPrintTicket(int documentIndex)
 | --- | --- | --- |
 | documentIndex | Int32 | Index of the document whose print ticket to return. |
 
-## Return Value
+### Return Value
 
 Document's print ticket.
 

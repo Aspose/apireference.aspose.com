@@ -18,7 +18,7 @@ public XpsPathSegment AddSegment(XpsPathSegment segment)
 | --- | --- | --- |
 | segment | XpsPathSegment | The path segment to be added. |
 
-## Return Value
+### Return Value
 
 Added path segment.
 

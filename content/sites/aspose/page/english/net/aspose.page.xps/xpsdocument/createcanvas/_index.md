@@ -14,7 +14,7 @@ Creates a new canvas.
 public XpsCanvas CreateCanvas()
 ```
 
-## Return Value
+### Return Value
 
 New canvas.
 

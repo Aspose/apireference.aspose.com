@@ -15,12 +15,12 @@ public T Add<T>(T element)
     where T : XpsContentElement
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| T | T | The type of the element. |
-| element | T | Element to be added. |
+| Parameter | Description |
+| --- | --- |
+| T | The type of the element. |
+| element | Element to be added. |
 
-## Return Value
+### Return Value
 
 Added element.
 

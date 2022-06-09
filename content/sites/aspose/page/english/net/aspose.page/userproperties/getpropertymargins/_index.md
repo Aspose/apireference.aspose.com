@@ -18,7 +18,7 @@ public virtual Margins GetPropertyMargins(string key)
 | --- | --- | --- |
 | key | String | The name of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 
@@ -44,7 +44,7 @@ public virtual Margins GetPropertyMargins(string key, Margins def)
 | key | String | The name of property. |
 | def | Margins | Default value of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 

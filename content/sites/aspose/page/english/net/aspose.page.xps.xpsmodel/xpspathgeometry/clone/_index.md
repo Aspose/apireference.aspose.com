@@ -14,7 +14,7 @@ Clones this path geometry.
 public XpsPathGeometry Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this path geometry.
 

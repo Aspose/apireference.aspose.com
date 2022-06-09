@@ -18,7 +18,7 @@ public virtual bool OpenPage(string title)
 | --- | --- | --- |
 | title | String | The title. |
 
-## Return Value
+### Return Value
 
 `True` if started page is to be output (it's number is contained in PageNumbers save options). `False`, otherwise.
 
@@ -43,7 +43,7 @@ public virtual bool OpenPage(float width, float height)
 | width | Single | The width of the page. |
 | height | Single | The height of the page. |
 
-## Return Value
+### Return Value
 
 `True` if started page is to be output (it's number is contained in PageNumbers save options). `False`, otherwise.
 

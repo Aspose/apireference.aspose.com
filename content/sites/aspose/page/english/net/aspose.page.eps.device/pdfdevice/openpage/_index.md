@@ -18,7 +18,7 @@ public virtual bool OpenPage(string title)
 | --- | --- | --- |
 | title | String | The page title. |
 
-## Return Value
+### Return Value
 
 Always true.
 
@@ -43,7 +43,7 @@ public virtual bool OpenPage(float width, float height)
 | width | Single | A width of the page. |
 | height | Single | A height of the page. |
 
-## Return Value
+### Return Value
 
 Always true.
 

@@ -3,7 +3,7 @@ title: DocumentFeatures
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 380
+weight: 420
 url: /net/aspose.page.xps.xpsmetadata/documentfeatures/
 ---
 ## DocumentFeatures class

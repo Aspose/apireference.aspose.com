@@ -3,7 +3,7 @@ title: ParameterInits.JobCopiesAllDocuments
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 650
+weight: 690
 url: /net/aspose.page.xps.xpsmetadata/parameterinits.jobcopiesalldocuments/
 ---
 ## ParameterInits.JobCopiesAllDocuments class
@@ -19,6 +19,18 @@ public sealed class JobCopiesAllDocuments : ParameterInit
 | Name | Description |
 | --- | --- |
 | [JobCopiesAllDocuments](jobcopiesalldocuments)(int) | Creates JobCopiesAllDocuments parameter initializer instance. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/parameterinit/name) { get; } | Returns parameter name. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.page.xps.xpsmetadata/parameterinit/tostring)() | Returns the string representation. |
 
 ### See Also
 

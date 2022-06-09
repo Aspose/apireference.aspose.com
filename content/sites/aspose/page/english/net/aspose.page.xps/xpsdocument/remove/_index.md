@@ -15,12 +15,12 @@ public T Remove<T>(T element)
     where T : XpsContentElement
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| T | T | The type of the element. |
-| element | T | Element to be removed. |
+| Parameter | Description |
+| --- | --- |
+| T | The type of the element. |
+| element | Element to be removed. |
 
-## Return Value
+### Return Value
 
 Removed element.
 

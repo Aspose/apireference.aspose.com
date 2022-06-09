@@ -14,7 +14,7 @@ Returns the name of device type.
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 Type name.
 

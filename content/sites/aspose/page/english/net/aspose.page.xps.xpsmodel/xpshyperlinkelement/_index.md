@@ -3,7 +3,7 @@ title: XpsHyperlinkElement
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 980
+weight: 1020
 url: /net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class
@@ -18,7 +18,15 @@ public abstract class XpsHyperlinkElement : XpsElement
 
 | Name | Description |
 | --- | --- |
-| [HyperlinkTarget](hyperlinktarget) { get; set; } | Returns/sets hyperlink target object. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Returns number of child elements. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Returns/sets hyperlink target object. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Provides access to element's children by index *i*. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Implementation of IEnumerable interface. |
 
 ### See Also
 

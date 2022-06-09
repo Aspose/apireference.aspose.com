@@ -18,7 +18,7 @@ public bool OpenPage(string title)
 | --- | --- | --- |
 | title | String | The page title. |
 
-## Return Value
+### Return Value
 
 True if page is from requested range, otherwise false. Used in devices that can render specified array of page numbers.
 
@@ -43,7 +43,7 @@ public bool OpenPage(float width, float height)
 | width | Single | A width of the page. |
 | height | Single | A height of the page. |
 
-## Return Value
+### Return Value
 
 Returns true if opened page has a number that falls in a range of selected page numbers and false otherwise.
 

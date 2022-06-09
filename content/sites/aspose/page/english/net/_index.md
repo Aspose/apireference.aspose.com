@@ -14,6 +14,7 @@ is_root: true
 | [Aspose.Page](./aspose.page) | The **Aspose.Page** is a root namespace for all classes of Aspose.Page library which are either directly in it like **Device** or indirectly through several subnamespaces. |
 | [Aspose.Page.EPS](./aspose.page.eps) | The **Aspose.Page.EPS** is a root namespace for all classes that deal with PS/EPS files. |
 | [Aspose.Page.EPS.Device](./aspose.page.eps.device) | The **Aspose.Page.EPS.Device** namespace provides classes of possible devices and save options that can be used while converting PS/EPS to other formats. |
+| [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp) | The **Aspose.Page.EPS.XMP** namespace provides classes for reading, changing XMP metadata in EPS files. |
 | [Aspose.Page.Font](./aspose.page.font) | The **Aspose.Page.Font** namespace contains classes for fonts manipulation. |
 | [Aspose.Page.XPS](./aspose.page.xps) | The **Aspose.Page.XPS** is a root namespace for all classes that deal with XPS document. |
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation) | The **Aspose.Page.Xps.Presentation** namespace provides base classes for rendering XPS document to other formats. |

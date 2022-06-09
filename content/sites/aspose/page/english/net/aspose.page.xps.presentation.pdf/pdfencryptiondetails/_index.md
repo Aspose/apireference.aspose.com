@@ -3,7 +3,7 @@ title: PdfEncryptionDetails
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 300
+weight: 340
 url: /net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class
@@ -24,10 +24,10 @@ public class PdfEncryptionDetails
 
 | Name | Description |
 | --- | --- |
-| [EncryptionAlgorithm](encryptionalgorithm) { get; set; } | Gets or sets the encryption mode. |
-| [OwnerPassword](ownerpassword) { get; set; } | Gets or sets the Owner password. |
-| [Permissions](permissions) { get; set; } | Gets or sets the permissions. |
-| [UserPassword](userpassword) { get; set; } | Gets or sets the User password. |
+| [EncryptionAlgorithm](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/encryptionalgorithm) { get; set; } | Gets or sets the encryption mode. |
+| [OwnerPassword](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/ownerpassword) { get; set; } | Gets or sets the Owner password. |
+| [Permissions](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/permissions) { get; set; } | Gets or sets the permissions. |
+| [UserPassword](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/userpassword) { get; set; } | Gets or sets the User password. |
 
 ### See Also
 

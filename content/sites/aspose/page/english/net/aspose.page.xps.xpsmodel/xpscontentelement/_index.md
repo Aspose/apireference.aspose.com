@@ -3,7 +3,7 @@ title: XpsContentElement
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 860
+weight: 900
 url: /net/aspose.page.xps.xpsmodel/xpscontentelement/
 ---
 ## XpsContentElement class
@@ -18,10 +18,19 @@ public abstract class XpsContentElement : XpsHyperlinkElement
 
 | Name | Description |
 | --- | --- |
-| [Clip](clip) { get; set; } | Returns/sets the path geometry instance limiting the rendered region of the element. |
-| [Opacity](opacity) { get; set; } | Returns/sets the value defining the uniform transparency of the element. |
-| [OpacityMask](opacitymask) { get; set; } | Returns/sets the brush specifying a mask of alpha values that is applied to the element in the same fashion as the Opacity attribute, but allowing different alpha values for different areas of the element. |
-| [RenderTransform](rendertransform) { get; set; } | Returns/sets the affine transformation matrix establishing a new coordinate frame for all attributes of the element and for all child elements (if any). |
+| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | Returns/sets the path geometry instance limiting the rendered region of the element. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Returns number of child elements. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Returns/sets hyperlink target object. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Provides access to element's children by index *i*. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | Returns/sets the value defining the uniform transparency of the element. |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | Returns/sets the brush specifying a mask of alpha values that is applied to the element in the same fashion as the Opacity attribute, but allowing different alpha values for different areas of the element. |
+| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | Returns/sets the affine transformation matrix establishing a new coordinate frame for all attributes of the element and for all child elements (if any). |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Implementation of IEnumerable interface. |
 
 ### See Also
 

@@ -14,7 +14,7 @@ Clones this arc segment.
 public XpsArcSegment Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this arc segment.
 

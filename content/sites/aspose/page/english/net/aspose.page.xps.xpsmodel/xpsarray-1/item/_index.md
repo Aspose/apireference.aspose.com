@@ -14,11 +14,11 @@ Provides access to array's element by index *i*.
 public T this[int i] { get; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| i |  | Index of the element. |
+| Parameter | Description |
+| --- | --- |
+| i | Index of the element. |
 
-## Return Value
+### Return Value
 
 The element at *i* position.
 

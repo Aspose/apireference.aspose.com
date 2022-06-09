@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | Another margins object. |
 
-## Return Value
+### Return Value
 
 True if all margins are equal.
 

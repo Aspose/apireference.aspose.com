@@ -14,7 +14,7 @@ Implementation of IEnumerable interface.
 public IEnumerator<IPrintTicketItem> GetEnumerator()
 ```
 
-## Return Value
+### Return Value
 
 Returns enumerator for the list.
 

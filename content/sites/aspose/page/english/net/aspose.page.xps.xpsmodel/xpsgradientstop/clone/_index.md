@@ -14,7 +14,7 @@ Clones this gradient stop.
 public XpsGradientStop Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this gradient stop.
 

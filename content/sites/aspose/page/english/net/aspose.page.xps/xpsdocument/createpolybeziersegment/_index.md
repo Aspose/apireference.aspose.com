@@ -19,7 +19,7 @@ public XpsPolyBezierSegment CreatePolyBezierSegment(PointF[] points, bool isStro
 | points | PointF[] | Control points for multiple Bézier segments. |
 | isStroked | Boolean | Specifies whether the stroke for this segment of the path is drawn. |
 
-## Return Value
+### Return Value
 
 New cubic Bézier curves segment.
 

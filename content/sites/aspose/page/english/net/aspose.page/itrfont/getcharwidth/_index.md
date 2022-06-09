@@ -18,7 +18,7 @@ public float GetCharWidth(char charValue)
 | --- | --- | --- |
 | charValue | Char | Character. |
 
-## Return Value
+### Return Value
 
 A width of character.
 

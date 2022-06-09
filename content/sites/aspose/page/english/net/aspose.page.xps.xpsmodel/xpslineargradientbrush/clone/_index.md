@@ -14,7 +14,7 @@ Clones this linear gradient brush.
 public XpsLinearGradientBrush Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this linear gradient brush.
 

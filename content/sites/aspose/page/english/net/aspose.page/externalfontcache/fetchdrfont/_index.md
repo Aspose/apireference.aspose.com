@@ -20,7 +20,7 @@ public static DrFont FetchDrFont(string familyName, float sizePoints, FontStyle 
 | sizePoints | Single | Font size in points (one point is 1/72 of inch). |
 | style | FontStyle | Font style. |
 
-## Return Value
+### Return Value
 
 Returns DrFont
 
@@ -49,7 +49,7 @@ public DrFont FetchDrFont(string familyName, float sizePoints, FontStyle style,
 | style | FontStyle | Font style. |
 | altFamilyName | String | Alternative font family name. |
 
-## Return Value
+### Return Value
 
 Returns DrFont
 

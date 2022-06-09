@@ -3,7 +3,7 @@ title: XpsBrush
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 820
+weight: 860
 url: /net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class
@@ -18,7 +18,7 @@ public abstract class XpsBrush : XpsObject
 
 | Name | Description |
 | --- | --- |
-| [Opacity](opacity) { get; set; } | Returns/sets value defining the uniform transparency of the brush fill. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Returns/sets value defining the uniform transparency of the brush fill. |
 
 ### See Also
 

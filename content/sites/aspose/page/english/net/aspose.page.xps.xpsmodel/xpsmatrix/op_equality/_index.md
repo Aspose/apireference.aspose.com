@@ -19,7 +19,7 @@ public static bool operator ==(XpsMatrix a, XpsMatrix b)
 | a | XpsMatrix | The first matrix. |
 | b | XpsMatrix | The second matrix. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

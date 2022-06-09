@@ -3,7 +3,7 @@ title: PageFeature
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 590
+weight: 630
 url: /net/aspose.page.xps.xpsmetadata/pagefeature/
 ---
 ## PageFeature class
@@ -13,6 +13,20 @@ Abstract class for page-level print ticket feature.
 ```csharp
 public abstract class PageFeature : Feature
 ```
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/feature/name) { get; } | Returns feature name. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Adds list of items to the end of feature items list. Each one must be a [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/feature/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/feature/tostring)() | Returns the string representation. |
 
 ### See Also
 

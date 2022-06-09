@@ -14,7 +14,7 @@ Convenience method for getting .NET native representation of RGB color.
 public override Color ToColor()
 ```
 
-## Return Value
+### Return Value
 
 System.Drawing.Color structure.
 

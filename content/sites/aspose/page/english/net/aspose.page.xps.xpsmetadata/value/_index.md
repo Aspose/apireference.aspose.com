@@ -3,7 +3,7 @@ title: Value
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 730
+weight: 770
 url: /net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class
@@ -24,7 +24,7 @@ public class Value : IPropertyItem, IScoredPropertyItem
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns the string representation. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/value/tostring)() | Returns the string representation. |
 
 ### See Also
 

@@ -14,7 +14,7 @@ Gets a value indicating whether this instance is italic.
 public bool IsItalic { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is italic; otherwise, `false`.
 

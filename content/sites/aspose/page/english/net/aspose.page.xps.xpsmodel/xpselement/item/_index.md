@@ -14,11 +14,11 @@ Provides access to element's children by index *i*.
 public XpsContentElement this[int i] { get; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| i |  | Index of child element. |
+| Parameter | Description |
+| --- | --- |
+| i | Index of child element. |
 
-## Return Value
+### Return Value
 
 Child element at *i* position.
 

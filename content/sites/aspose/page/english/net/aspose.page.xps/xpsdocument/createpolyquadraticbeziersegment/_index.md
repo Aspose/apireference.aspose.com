@@ -20,7 +20,7 @@ public XpsPolyQuadraticBezierSegment CreatePolyQuadraticBezierSegment(PointF[] p
 | points | PointF[] | Control points for multiple quadratic Bézier segments. |
 | isStroked | Boolean | Specifies whether the stroke for this segment of the path is drawn. |
 
-## Return Value
+### Return Value
 
 New quadratic Bézier curves segment.
 

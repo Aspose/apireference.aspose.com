@@ -3,7 +3,7 @@ title: PrintTicket
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 660
+weight: 700
 url: /net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class
@@ -24,8 +24,8 @@ public abstract class PrintTicket : IEnumerable<IPrintTicketItem>
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(params IPrintTicketItem[]) | Adds list of items to the end of print ticket items list. Each one can be [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
-| [GetEnumerator](getenumerator)() | Implementation of IEnumerable interface. |
+| [Add](../../aspose.page.xps.xpsmetadata/printticket/add)(params IPrintTicketItem[]) | Adds list of items to the end of print ticket items list. Each one can be [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Implementation of IEnumerable interface. |
 
 ### See Also
 

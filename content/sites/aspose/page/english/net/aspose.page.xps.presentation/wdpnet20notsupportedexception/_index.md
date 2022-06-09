@@ -3,7 +3,7 @@ title: WdpNet20NotSupportedException
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 340
+weight: 380
 url: /net/aspose.page.xps.presentation/wdpnet20notsupportedexception/
 ---
 ## WdpNet20NotSupportedException class

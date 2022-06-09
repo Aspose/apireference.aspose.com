@@ -20,7 +20,7 @@ public XpsImageBrush CreateImageBrush(XpsImage image, RectangleF viewbox, Rectan
 | viewbox | RectangleF | The position and dimensions of the brush's source content. |
 | viewport | RectangleF | The region in the containing coordinate space of the prime brush tile that is (possibly repeatedly) applied to fill the region to which the brush is applied |
 
-## Return Value
+### Return Value
 
 New image brush.
 
@@ -48,7 +48,7 @@ public XpsImageBrush CreateImageBrush(string imagePath, RectangleF viewbox, Rect
 | viewbox | RectangleF | The position and dimensions of the brush's source content. |
 | viewport | RectangleF | The region in the containing coordinate space of the prime brush tile that is (possibly repeatedly) applied to fill the region to which the brush is applied |
 
-## Return Value
+### Return Value
 
 New image brush.
 

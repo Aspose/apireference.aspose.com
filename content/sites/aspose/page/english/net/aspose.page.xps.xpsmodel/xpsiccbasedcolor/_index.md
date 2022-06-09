@@ -3,7 +3,7 @@ title: XpsIccBasedColor
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1000
+weight: 1040
 url: /net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/
 ---
 ## XpsIccBasedColor class
@@ -18,13 +18,13 @@ public sealed class XpsIccBasedColor : XpsColor
 
 | Name | Description |
 | --- | --- |
-| [IccProfile](iccprofile) { get; } | Returns ICC profile resource the color based on. |
+| [IccProfile](../../aspose.page.xps.xpsmodel/xpsiccbasedcolor/iccprofile) { get; } | Returns ICC profile resource the color based on. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToColor](tocolor)() | Convenience method for getting .NET native representation of ICC based color. |
+| override [ToColor](../../aspose.page.xps.xpsmodel/xpsiccbasedcolor/tocolor)() | Convenience method for getting .NET native representation of ICC based color. |
 
 ### See Also
 

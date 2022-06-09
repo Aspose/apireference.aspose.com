@@ -3,7 +3,7 @@ title: JobFeatures.JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 530
+weight: 570
 url: /net/aspose.page.xps.xpsmetadata/jobfeatures.jobduplexalldocumentscontiguously/
 ---
 ## JobFeatures.JobDuplexAllDocumentsContiguously class
@@ -13,6 +13,28 @@ Convenience class for JobDuplexAllDocumentsContiguously print ticket feature.
 ```csharp
 public sealed class JobDuplexAllDocumentsContiguously : JobFeature
 ```
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/feature/name) { get; } | Returns feature name. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Adds list of items to the end of feature items list. Each one must be a [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/feature/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/feature/tostring)() | Returns the string representation. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static readonly [OneSided](../../aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/onesided) | Constant for OneSided mode. |
+| static readonly [TwoSidedLongEdge](../../aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/twosidedlongedge) | Constant for TwoSidedLongEdge mode (Automatic if possible, Manual otherwise). |
+| static readonly [TwoSidedShortEdge](../../aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/twosidedshortedge) | Constant for TwoSidedShortEdge mode (Automatic if possible, Manual otherwise). |
 
 ### See Also
 

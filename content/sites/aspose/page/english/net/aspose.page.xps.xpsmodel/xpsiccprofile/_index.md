@@ -3,7 +3,7 @@ title: XpsIccProfile
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1010
+weight: 1050
 url: /net/aspose.page.xps.xpsmodel/xpsiccprofile/
 ---
 ## XpsIccProfile class

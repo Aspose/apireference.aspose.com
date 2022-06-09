@@ -18,7 +18,7 @@ public XpsPath CreatePath(XpsPathGeometry data)
 | --- | --- | --- |
 | data | XpsPathGeometry | The geometry of the path. |
 
-## Return Value
+### Return Value
 
 New path.
 

@@ -18,7 +18,7 @@ public XpsPage RemovePageAt(int index)
 | --- | --- | --- |
 | index | Int32 | Position at which a page should be removed. |
 
-## Return Value
+### Return Value
 
 Removed page.
 

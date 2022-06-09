@@ -3,7 +3,7 @@ title: XpsPathSegment
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1150
+weight: 1190
 url: /net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class
@@ -18,7 +18,7 @@ public abstract class XpsPathSegment : XpsObject
 
 | Name | Description |
 | --- | --- |
-| [IsStroked](isstroked) { get; set; } | Returns/sets the value specifying whether the stroke for this segment of the path is drawn. |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Returns/sets the value specifying whether the stroke for this segment of the path is drawn. |
 
 ### See Also
 

@@ -14,7 +14,7 @@ Calculates hashcode for this margins object.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 A hashcode.
 

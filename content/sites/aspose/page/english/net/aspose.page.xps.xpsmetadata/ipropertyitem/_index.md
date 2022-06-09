@@ -3,7 +3,7 @@ title: IPropertyItem
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 490
+weight: 530
 url: /net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

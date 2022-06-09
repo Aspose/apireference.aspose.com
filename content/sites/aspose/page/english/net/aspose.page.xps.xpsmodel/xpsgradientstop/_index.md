@@ -3,7 +3,7 @@ title: XpsGradientStop
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 970
+weight: 1010
 url: /net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class
@@ -18,14 +18,14 @@ public sealed class XpsGradientStop : XpsObject
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; } | The gradient stop color. |
-| [Offset](offset) { get; } | Returns/sets the gradient offset. The offset indicates a point along the progression of the gradient at which a color is specified. Colors between gradient offsets in the progression are interpolated. |
+| [Color](../../aspose.page.xps.xpsmodel/xpsgradientstop/color) { get; } | The gradient stop color. |
+| [Offset](../../aspose.page.xps.xpsmodel/xpsgradientstop/offset) { get; } | Returns/sets the gradient offset. The offset indicates a point along the progression of the gradient at which a color is specified. Colors between gradient offsets in the progression are interpolated. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Clones this gradient stop. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpsgradientstop/clone)() | Clones this gradient stop. |
 
 ### See Also
 

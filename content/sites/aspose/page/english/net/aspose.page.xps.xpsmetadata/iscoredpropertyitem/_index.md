@@ -3,7 +3,7 @@ title: IScoredPropertyItem
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 500
+weight: 540
 url: /net/aspose.page.xps.xpsmetadata/iscoredpropertyitem/
 ---
 ## IScoredPropertyItem interface

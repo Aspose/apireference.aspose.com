@@ -18,7 +18,7 @@ public virtual double GetPropertyDouble(string key)
 | --- | --- | --- |
 | key | String | The name of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 
@@ -43,7 +43,7 @@ public virtual double GetPropertyDouble(string key, double def)
 | key | String | The name of property. |
 | def | Double | Default value of property. |
 
-## Return Value
+### Return Value
 
 Property value.
 

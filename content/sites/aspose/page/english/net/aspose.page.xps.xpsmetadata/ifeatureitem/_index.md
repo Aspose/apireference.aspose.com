@@ -3,7 +3,7 @@ title: IFeatureItem
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 460
+weight: 500
 url: /net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

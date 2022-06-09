@@ -18,7 +18,7 @@ public XpsPage SelectActivePage(int pageNumber)
 | --- | --- | --- |
 | pageNumber | Int32 | A page number. |
 
-## Return Value
+### Return Value
 
 [`XpsPage`](../../../aspose.page.xps.xpsmodel/xpspage) instance for active page.
 

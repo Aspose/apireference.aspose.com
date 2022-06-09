@@ -3,7 +3,7 @@ title: DocumentFeatures.DocumentDuplex
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 390
+weight: 430
 url: /net/aspose.page.xps.xpsmetadata/documentfeatures.documentduplex/
 ---
 ## DocumentFeatures.DocumentDuplex class
@@ -13,6 +13,28 @@ Convenience class for DocumentDuplex print ticket feature.
 ```csharp
 public sealed class DocumentDuplex : DocumentFeature
 ```
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/feature/name) { get; } | Returns feature name. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Adds list of items to the end of feature items list. Each one must be a [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/feature/getenumerator)() | Implementation of IEnumerable interface. |
+| override [ToString](../../aspose.page.xps.xpsmetadata/feature/tostring)() | Returns the string representation. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static readonly [OneSided](../../aspose.page.xps.xpsmetadata/documentduplex/onesided) | Constant for OneSided mode. |
+| static readonly [TwoSidedLongEdge](../../aspose.page.xps.xpsmetadata/documentduplex/twosidedlongedge) | Constant for TwoSidedLongEdge mode (Automatic if possible, Manual otherwise). |
+| static readonly [TwoSidedShortEdge](../../aspose.page.xps.xpsmetadata/documentduplex/twosidedshortedge) | Constant for TwoSidedShortEdge mode (Automatic if possible, Manual otherwise). |
 
 ### See Also
 

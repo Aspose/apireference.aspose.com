@@ -14,7 +14,7 @@ Convenience method for getting .NET native representation of any color/
 public abstract Color ToColor()
 ```
 
-## Return Value
+### Return Value
 
 Color structure
 

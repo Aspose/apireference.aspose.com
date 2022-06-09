@@ -18,7 +18,7 @@ public XpsColor CreateColor(Color color)
 | --- | --- | --- |
 | color | Color | A native color instance for RGB color. |
 
-## Return Value
+### Return Value
 
 New color.
 
@@ -46,7 +46,7 @@ public XpsColor CreateColor(int a, int r, int g, int b)
 | g | Int32 | The green color component. |
 | b | Int32 | The blue color component. |
 
-## Return Value
+### Return Value
 
 New color.
 
@@ -73,7 +73,7 @@ public XpsColor CreateColor(int r, int g, int b)
 | g | Int32 | The green color component. |
 | b | Int32 | The blue color component. |
 
-## Return Value
+### Return Value
 
 New color.
 
@@ -101,7 +101,7 @@ public XpsColor CreateColor(float a, float r, float g, float b)
 | g | Single | The green color component. |
 | b | Single | The blue color component. |
 
-## Return Value
+### Return Value
 
 New color.
 
@@ -128,7 +128,7 @@ public XpsColor CreateColor(float r, float g, float b)
 | g | Single | The green color component. |
 | b | Single | The blue color component. |
 
-## Return Value
+### Return Value
 
 New color.
 
@@ -154,7 +154,7 @@ public XpsColor CreateColor(string path, params float[] components)
 | path | String | The path to the ICC profile. |
 | components | Single[] | Color components. |
 
-## Return Value
+### Return Value
 
 New color.
 
@@ -180,7 +180,7 @@ public XpsColor CreateColor(XpsIccProfile iccProfile, params float[] components)
 | iccProfile | XpsIccProfile | The ICC profile resource. |
 | components | Single[] | Color components. |
 
-## Return Value
+### Return Value
 
 New color.
 

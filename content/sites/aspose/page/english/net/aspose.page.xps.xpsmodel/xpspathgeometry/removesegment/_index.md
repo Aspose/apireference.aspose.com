@@ -18,7 +18,7 @@ public XpsPathSegment RemoveSegment(XpsPathSegment segment)
 | --- | --- | --- |
 | segment | XpsPathSegment | The path segment to be removed. |
 
-## Return Value
+### Return Value
 
 Removed path segment.
 

@@ -18,7 +18,7 @@ public float GetTextWidthPoints(string text)
 | --- | --- | --- |
 | text | String | The text to calculate. |
 
-## Return Value
+### Return Value
 
 Returns width
 
@@ -44,7 +44,7 @@ public float GetTextWidthPoints(string text, int startIndex, int charCount)
 | startIndex | Int32 | The start index. |
 | charCount | Int32 | The char count. |
 
-## Return Value
+### Return Value
 
 Returns width
 

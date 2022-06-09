@@ -18,7 +18,7 @@ public XpsPath AddPath(XpsPathGeometry data)
 | --- | --- | --- |
 | data | XpsPathGeometry | The geometry of the path. |
 
-## Return Value
+### Return Value
 
 Added path.
 

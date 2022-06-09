@@ -1,9 +1,9 @@
 ---
-title: XpsArray<T>
+title: XpsArrayT
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 810
+weight: 850
 url: /net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class
@@ -15,25 +15,25 @@ public abstract class XpsArray<T> : XpsObject
     where T : XpsObject
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| T |  | The type of array elements. |
+| Parameter | Description |
+| --- | --- |
+| T | The type of array elements. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Returns number of elements. |
-| [Item](item) { get; } | Provides access to array's element by index *i*. |
+| [Count](../../aspose.page.xps.xpsmodel/xpsarray`1/count) { get; } | Returns number of elements. |
+| [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } | Provides access to array's element by index *i*. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(T) | Adds a new object into array. |
-| [Insert](insert)(int, T) | Inserts a new object into array at specified position. |
-| [Remove](remove)(T) | Removes an object from array. |
-| [RemoveAt](removeat)(int) | Removes an object from array at specified position. |
+| [Add](../../aspose.page.xps.xpsmodel/xpsarray`1/add)(T) | Adds a new object into array. |
+| [Insert](../../aspose.page.xps.xpsmodel/xpsarray`1/insert)(int, T) | Inserts a new object into array at specified position. |
+| [Remove](../../aspose.page.xps.xpsmodel/xpsarray`1/remove)(T) | Removes an object from array. |
+| [RemoveAt](../../aspose.page.xps.xpsmodel/xpsarray`1/removeat)(int) | Removes an object from array at specified position. |
 
 ### See Also
 

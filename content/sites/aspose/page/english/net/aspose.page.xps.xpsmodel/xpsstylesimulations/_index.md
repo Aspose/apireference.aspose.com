@@ -3,7 +3,7 @@ title: XpsStyleSimulations
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1230
+weight: 1270
 url: /net/aspose.page.xps.xpsmodel/xpsstylesimulations/
 ---
 ## XpsStyleSimulations enumeration
@@ -14,7 +14,7 @@ Valid values of Glyphs element's StyleSimulations property.
 public enum XpsStyleSimulations
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

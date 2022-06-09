@@ -14,7 +14,7 @@ Clones this image brush.
 public XpsImageBrush Clone()
 ```
 
-## Return Value
+### Return Value
 
 Clone of this image brush.
 

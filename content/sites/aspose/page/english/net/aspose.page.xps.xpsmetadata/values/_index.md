@@ -3,7 +3,7 @@ title: Values
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 750
+weight: 790
 url: /net/aspose.page.xps.xpsmetadata/values/
 ---
 ## Values class

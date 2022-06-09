@@ -3,7 +3,7 @@ title: XpsPathPolySegment
 second_title: Aspose.Page for .NET API Reference
 description: 
 type: docs
-weight: 1140
+weight: 1180
 url: /net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class
@@ -13,6 +13,12 @@ Class incapsulating common features of PolyLineSegment, PolyBézierSegment and P
 ```csharp
 public abstract class XpsPathPolySegment : XpsPathSegment
 ```
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Returns/sets the value specifying whether the stroke for this segment of the path is drawn. |
 
 ### See Also
 
