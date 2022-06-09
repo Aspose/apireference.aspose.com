@@ -1,7 +1,7 @@
 ---
 title: LENGTHADJUST_SPACING
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value spacing.
 type: docs
 weight: 50
 url: /net/aspose.svg/svgtextcontentelement/lengthadjust_spacing/

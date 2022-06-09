@@ -1,7 +1,7 @@
 ---
 title: Context
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the current browsing context.
 type: docs
 weight: 70
 url: /net/aspose.svg.dom/document/context/

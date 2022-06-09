@@ -1,7 +1,7 @@
 ---
 title: SVG_TRANSFORM_SCALE
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A scale transformation.
 type: docs
 weight: 130
 url: /net/aspose.svg.datatypes/svgtransform/svg_transform_scale/

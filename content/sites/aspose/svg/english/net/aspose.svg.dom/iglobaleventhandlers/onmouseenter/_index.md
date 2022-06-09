@@ -1,7 +1,7 @@
 ---
 title: OnMouseEnter
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnMouseEnter event.
 type: docs
 weight: 250
 url: /net/aspose.svg.dom/iglobaleventhandlers/onmouseenter/

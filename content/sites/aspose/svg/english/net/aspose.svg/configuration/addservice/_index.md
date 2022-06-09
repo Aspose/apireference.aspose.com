@@ -1,7 +1,7 @@
 ---
 title: AddService
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Adds the specified service to the configuration.
 type: docs
 weight: 30
 url: /net/aspose.svg/configuration/addservice/

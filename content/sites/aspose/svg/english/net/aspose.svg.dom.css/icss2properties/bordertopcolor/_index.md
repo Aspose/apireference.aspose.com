@@ -1,7 +1,7 @@
 ---
 title: BorderTopColor
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the border-top-color property definition in CSS2.
 type: docs
 weight: 260
 url: /net/aspose.svg.dom.css/icss2properties/bordertopcolor/

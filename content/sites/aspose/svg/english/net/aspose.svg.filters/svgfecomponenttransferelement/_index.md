@@ -1,7 +1,7 @@
 ---
 title: SVGFEComponentTransferElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGFEComponentTransferElement interface corresponds to the feComponentTransfer element.
 type: docs
 weight: 1640
 url: /net/aspose.svg.filters/svgfecomponenttransferelement/

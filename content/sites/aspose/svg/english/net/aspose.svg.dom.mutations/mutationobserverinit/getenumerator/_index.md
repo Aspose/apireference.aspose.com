@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns an enumerator that iterates through the MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit elements.
 type: docs
 weight: 190
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/getenumerator/

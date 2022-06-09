@@ -1,7 +1,7 @@
 ---
 title: op_GreaterThan
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Implements the operator gt.
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/angle/op_greaterthan/

@@ -1,7 +1,7 @@
 ---
 title: SVGSetElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGSetElement interface corresponds to the set element. Object-oriented access to the attributes of the set element via the SVG DOM is not available.
 type: docs
 weight: 3380
 url: /net/aspose.svg/svgsetelement/

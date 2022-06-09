@@ -1,7 +1,7 @@
 ---
 title: INVALID_MODIFICATION_ERR
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: If an attempt is made to modify the type of the underlying object.
 type: docs
 weight: 140
 url: /net/aspose.svg.dom/domexception/invalid_modification_err/

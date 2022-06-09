@@ -1,7 +1,7 @@
 ---
 title: CSSText
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A string representation of the current value.
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/cssvaluelist/csstext/

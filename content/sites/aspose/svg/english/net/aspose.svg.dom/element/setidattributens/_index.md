@@ -1,7 +1,7 @@
 ---
 title: SetIdAttributeNS
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: If the parameter isId is true this method declares the specified attribute to be a user-determined ID attribute.
 type: docs
 weight: 460
 url: /net/aspose.svg.dom/element/setidattributens/

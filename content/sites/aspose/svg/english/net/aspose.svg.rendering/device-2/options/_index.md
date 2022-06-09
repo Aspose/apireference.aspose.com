@@ -1,7 +1,7 @@
 ---
 title: Options
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets rendering options.
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering/device-2/options/

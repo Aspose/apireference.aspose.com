@@ -1,7 +1,7 @@
 ---
 title: EntityReference
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: EntityReference nodes may be used to represent an entity reference in the tree.
 type: docs
 weight: 860
 url: /net/aspose.svg.dom/entityreference/

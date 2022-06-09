@@ -1,7 +1,7 @@
 ---
 title: ToNative
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Converts to the native color object.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.css/rgbcolor/tonative/

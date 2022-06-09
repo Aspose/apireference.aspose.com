@@ -1,7 +1,7 @@
 ---
 title: ResourceHandlingOptions
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a ResourceHandlingOptionsaspose.svg.saving/resourcehandlingoptions object which is used for configuration of resources handling.
 type: docs
 weight: 10
 url: /net/aspose.svg.saving/saveoptions/resourcehandlingoptions/

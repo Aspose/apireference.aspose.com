@@ -1,7 +1,7 @@
 ---
 title: TraceSmoother
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the trace smoother.
 type: docs
 weight: 60
 url: /net/aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesmoother/

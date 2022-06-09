@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute scale on the given feDisplacementMap element.
 type: docs
 weight: 50
 url: /net/aspose.svg.filters/svgfedisplacementmapelement/scale/

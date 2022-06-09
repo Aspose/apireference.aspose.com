@@ -1,7 +1,7 @@
 ---
 title: SVGPathElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGPathElement interface corresponds to the path element.
 type: docs
 weight: 3290
 url: /net/aspose.svg/svgpathelement/

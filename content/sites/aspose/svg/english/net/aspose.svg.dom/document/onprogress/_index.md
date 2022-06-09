@@ -1,7 +1,7 @@
 ---
 title: OnProgress
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnProgress event.
 type: docs
 weight: 620
 url: /net/aspose.svg.dom/document/onprogress/

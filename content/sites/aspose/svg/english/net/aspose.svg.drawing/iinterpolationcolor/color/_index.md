@@ -1,7 +1,7 @@
 ---
 title: Color
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Get the color that represents the colors to use at corresponding positions along a gradient.
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/iinterpolationcolor/color/

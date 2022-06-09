@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a TextOptionsaspose.svg.rendering.image/textoptions object which is used for configuration of text rendering.
 type: docs
 weight: 60
 url: /net/aspose.svg.rendering.image/imagerenderingoptions/text/

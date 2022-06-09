@@ -1,7 +1,7 @@
 ---
 title: NextElementSibling
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the first following sibling that is an element and null otherwise.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/

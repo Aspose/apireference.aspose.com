@@ -1,7 +1,7 @@
 ---
 title: FtpProtocolMessageHandler
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the FtpProtocolMessageHandleraspose.svg.net.messagehandlers/ftpprotocolmessagehandler class.
 type: docs
 weight: 10
 url: /net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/

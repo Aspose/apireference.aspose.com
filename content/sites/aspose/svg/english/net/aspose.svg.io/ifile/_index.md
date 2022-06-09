@@ -1,7 +1,7 @@
 ---
 title: IFile
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A File object is a Blob object with a name attribute which is a string it can be created within the web application via a constructor or is a reference to a byte sequence from a file from the underlying OS file system.
 type: docs
 weight: 1910
 url: /net/aspose.svg.io/ifile/

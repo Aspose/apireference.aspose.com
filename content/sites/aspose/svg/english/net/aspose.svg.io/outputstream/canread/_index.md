@@ -1,7 +1,7 @@
 ---
 title: CanRead
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a value indicating whether the wrapped output stream supports reading.
 type: docs
 weight: 20
 url: /net/aspose.svg.io/outputstream/canread/

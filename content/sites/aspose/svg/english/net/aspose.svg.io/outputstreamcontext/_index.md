@@ -1,7 +1,7 @@
 ---
 title: OutputStreamContext
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A context for initialization of the output stream.
 type: docs
 weight: 1960
 url: /net/aspose.svg.io/outputstreamcontext/

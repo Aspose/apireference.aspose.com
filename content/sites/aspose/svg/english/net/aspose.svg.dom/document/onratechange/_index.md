@@ -1,7 +1,7 @@
 ---
 title: OnRateChange
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnRateChange event.
 type: docs
 weight: 630
 url: /net/aspose.svg.dom/document/onratechange/

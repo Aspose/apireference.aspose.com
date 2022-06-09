@@ -1,12 +1,12 @@
 ---
 title: InputEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the InputEventaspose.svg.dom.events/inputevent class.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.events/inputevent/inputevent/
 ---
-## InputEvent constructor (1 of 2)
+## InputEvent(string) {#constructor}
 
 Initializes a new instance of the [`InputEvent`](../../inputevent) class.
 
@@ -26,7 +26,7 @@ public InputEvent(string type)
 
 ---
 
-## InputEvent constructor (2 of 2)
+## InputEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
 Initializes a new instance of the [`InputEvent`](../../inputevent) class.
 

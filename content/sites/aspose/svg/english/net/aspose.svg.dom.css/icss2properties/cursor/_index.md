@@ -1,7 +1,7 @@
 ---
 title: Cursor
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the cursor property definition in CSS2.
 type: docs
 weight: 410
 url: /net/aspose.svg.dom.css/icss2properties/cursor/

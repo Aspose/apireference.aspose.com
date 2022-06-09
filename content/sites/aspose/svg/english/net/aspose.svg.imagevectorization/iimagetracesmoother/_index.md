@@ -1,7 +1,7 @@
 ---
 title: IImageTraceSmoother
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The IImageTraceSmoother interface is responsible for smoothing trace.
 type: docs
 weight: 2060
 url: /net/aspose.svg.imagevectorization/iimagetracesmoother/

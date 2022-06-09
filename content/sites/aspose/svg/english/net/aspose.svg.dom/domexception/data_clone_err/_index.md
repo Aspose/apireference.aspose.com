@@ -1,7 +1,7 @@
 ---
 title: DATA_CLONE_ERR
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The object can not be cloned.
 type: docs
 weight: 60
 url: /net/aspose.svg.dom/domexception/data_clone_err/

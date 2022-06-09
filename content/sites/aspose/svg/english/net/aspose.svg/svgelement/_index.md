@@ -1,7 +1,7 @@
 ---
 title: SVGElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: All of the SVG DOM interfaces that correspond directly to elements in the SVG language such as the SVGPathElement interface for the path element derive from the SVGElement interface.
 type: docs
 weight: 3120
 url: /net/aspose.svg/svgelement/

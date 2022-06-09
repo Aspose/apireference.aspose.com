@@ -1,12 +1,12 @@
 ---
 title: AddEventListener
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This method allows the registration of event listeners on the event target.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/eventtarget/addeventlistener/
 ---
-## EventTarget.AddEventListener method (1 of 3)
+## AddEventListener(string, DOMEventHandler, bool) {#addeventlistener}
 
 This method allows the registration of event listeners on the event target.
 
@@ -35,7 +35,7 @@ If multiple identical Event Listeners are registered on the same [`EventTarget`]
 
 ---
 
-## EventTarget.AddEventListener method (2 of 3)
+## AddEventListener(string, IEventListener) {#addeventlistener_1}
 
 This method allows the registration of event listeners on the event target.
 
@@ -63,7 +63,7 @@ If multiple identical Event Listeners are registered on the same [`EventTarget`]
 
 ---
 
-## EventTarget.AddEventListener method (3 of 3)
+## AddEventListener(string, IEventListener, bool) {#addeventlistener_2}
 
 This method allows the registration of event listeners on the event target.
 

@@ -1,7 +1,7 @@
 ---
 title: SVGSaveOptions
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.svg.saving/svgsaveoptions/svgsaveoptions/

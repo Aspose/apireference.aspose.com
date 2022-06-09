@@ -1,7 +1,7 @@
 ---
 title: SVG_LENGTHTYPE_CM
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A value was specified using the cm units defined in CSS2.
 type: docs
 weight: 80
 url: /net/aspose.svg.datatypes/svglength/svg_lengthtype_cm/

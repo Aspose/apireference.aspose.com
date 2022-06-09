@@ -1,7 +1,7 @@
 ---
 title: OwnerDocument
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the owner document.
 type: docs
 weight: 210
 url: /net/aspose.svg.dom/document/ownerdocument/

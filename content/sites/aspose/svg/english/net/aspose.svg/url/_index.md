@@ -1,7 +1,7 @@
 ---
 title: Url
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Provides an object representation of a universal identifier URL.
 type: docs
 weight: 3700
 url: /net/aspose.svg/url/
@@ -18,8 +18,8 @@ public class Url : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Url](url)(string) | Initializes a new instance of the [`Url`](../url) with the specified URL. |
-| [Url](url)(string, string) | Initializes a new instance of the [`Url`](../url) with the specified URL and base URL. |
+| [Url](url#constructor)(string) | Initializes a new instance of the [`Url`](../url) with the specified URL. |
+| [Url](url#constructor_1)(string, string) | Initializes a new instance of the [`Url`](../url) with the specified URL and base URL. |
 
 ## Properties
 

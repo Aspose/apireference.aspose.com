@@ -1,7 +1,7 @@
 ---
 title: AtTargetPhase
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The current event phase is the capturing phase.
 type: docs
 weight: 150
 url: /net/aspose.svg.dom.events/event/attargetphase/

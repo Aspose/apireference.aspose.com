@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the length.
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/lengthorauto/length/

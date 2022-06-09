@@ -1,7 +1,7 @@
 ---
 title: LocalFileSystemStorage
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A file system storage.
 type: docs
 weight: 1940
 url: /net/aspose.svg.io/localfilesystemstorage/
@@ -18,8 +18,8 @@ public class LocalFileSystemStorage : IOutputStorage
 
 | Name | Description |
 | --- | --- |
-| [LocalFileSystemStorage](localfilesystemstorage)() | Initializes a new instance of the [`LocalFileSystemStorage`](../localfilesystemstorage) class. |
-| [LocalFileSystemStorage](localfilesystemstorage)(string) | Initializes a new instance of the [`LocalFileSystemStorage`](../localfilesystemstorage) class. |
+| [LocalFileSystemStorage](localfilesystemstorage#constructor)() | Initializes a new instance of the [`LocalFileSystemStorage`](../localfilesystemstorage) class. |
+| [LocalFileSystemStorage](localfilesystemstorage#constructor_1)(string) | Initializes a new instance of the [`LocalFileSystemStorage`](../localfilesystemstorage) class. |
 
 ## Properties
 

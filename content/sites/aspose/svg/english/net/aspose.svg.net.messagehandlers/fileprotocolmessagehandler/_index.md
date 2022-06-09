@@ -1,7 +1,7 @@
 ---
 title: FileProtocolMessageHandler
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents the file protocol message handler.
 type: docs
 weight: 2300
 url: /net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/

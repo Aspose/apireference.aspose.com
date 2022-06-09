@@ -1,7 +1,7 @@
 ---
 title: FontWeight
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the font weight value.
 type: docs
 weight: 40
 url: /net/aspose.svg.rendering.fonts/fontmatchingproperties/fontweight/

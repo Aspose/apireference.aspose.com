@@ -1,7 +1,7 @@
 ---
 title: Px
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is in pixels
 type: docs
 weight: 200
 url: /net/aspose.svg.drawing/unittype/px/

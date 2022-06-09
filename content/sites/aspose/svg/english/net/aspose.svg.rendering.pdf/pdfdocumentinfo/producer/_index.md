@@ -1,7 +1,7 @@
 ---
 title: Producer
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name of the product that converted the document.
 type: docs
 weight: 60
 url: /net/aspose.svg.rendering.pdf/pdfdocumentinfo/producer/

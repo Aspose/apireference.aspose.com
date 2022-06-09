@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Removes this instance.
 type: docs
 weight: 360
 url: /net/aspose.svg.dom/element/remove/

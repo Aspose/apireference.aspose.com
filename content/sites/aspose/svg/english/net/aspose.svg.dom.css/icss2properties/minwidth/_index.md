@@ -1,7 +1,7 @@
 ---
 title: MinWidth
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the min-width property definition in CSS2.
 type: docs
 weight: 730
 url: /net/aspose.svg.dom.css/icss2properties/minwidth/

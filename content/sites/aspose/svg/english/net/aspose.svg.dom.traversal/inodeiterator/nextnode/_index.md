@@ -1,7 +1,7 @@
 ---
 title: NextNode
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the next node in the set and advances the position of the iterator in the set. After a NodeIterator is created the first call to nextNode returns the first node in the set.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.traversal/inodeiterator/nextnode/

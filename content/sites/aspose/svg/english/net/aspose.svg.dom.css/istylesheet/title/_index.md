@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The advisory title.
 type: docs
 weight: 60
 url: /net/aspose.svg.dom.css/istylesheet/title/

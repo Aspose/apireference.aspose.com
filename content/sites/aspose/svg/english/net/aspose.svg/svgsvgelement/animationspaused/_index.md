@@ -1,7 +1,7 @@
 ---
 title: AnimationsPaused
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns true if this SVG document fragment is in a paused state.
 type: docs
 weight: 100
 url: /net/aspose.svg/svgsvgelement/animationspaused/

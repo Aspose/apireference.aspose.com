@@ -1,7 +1,7 @@
 ---
 title: FamilyName
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Get the name of the font family.
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/itruetypefont/familyname/

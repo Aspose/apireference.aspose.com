@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name attribute must return the name of the margin at-rule. The  character is not included in the name.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icssmarginrule/name/

@@ -1,7 +1,7 @@
 ---
 title: Rotate
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Post-multiplies a rotation transformation on the current matrix and returns the resulting matrix.
 type: docs
 weight: 80
 url: /net/aspose.svg.datatypes/svgmatrix/rotate/

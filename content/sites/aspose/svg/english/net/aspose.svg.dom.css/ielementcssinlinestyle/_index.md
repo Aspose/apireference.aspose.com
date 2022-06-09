@@ -1,7 +1,7 @@
 ---
 title: IElementCSSInlineStyle
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Inline style information attached to elements is exposed through the style attribute. This represents the contents of the STYLE attribute for HTML elements or elements in other schemas or DTDs which use the STYLE attribute in the same way.
 type: docs
 weight: 710
 url: /net/aspose.svg.dom.css/ielementcssinlinestyle/

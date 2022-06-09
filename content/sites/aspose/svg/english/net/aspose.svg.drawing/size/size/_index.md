@@ -1,12 +1,12 @@
 ---
 title: Size
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the Sizeaspose.svg.drawing/size class.
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/size/size/
 ---
-## Size constructor (1 of 3)
+## Size() {#constructor}
 
 Initializes a new instance of the [`Size`](../../size) class.
 
@@ -22,7 +22,7 @@ public Size()
 
 ---
 
-## Size constructor (2 of 3)
+## Size(int, int) {#constructor_2}
 
 Initializes a new instance of the [`Size`](../../size) class and specify a Height and Width in pixels.
 
@@ -43,7 +43,7 @@ public Size(int width, int height)
 
 ---
 
-## Size constructor (3 of 3)
+## Size(Length, Length) {#constructor_1}
 
 Initializes a new instance of the [`Size`](../../size) class.
 

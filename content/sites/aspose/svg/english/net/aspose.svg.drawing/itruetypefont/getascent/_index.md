@@ -1,7 +1,7 @@
 ---
 title: GetAscent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the ascent in points.
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/itruetypefont/getascent/

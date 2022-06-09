@@ -1,7 +1,7 @@
 ---
 title: MetaKey
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Refer to the metaKey attribute.
 type: docs
 weight: 80
 url: /net/aspose.svg.dom.events/mouseevent/metakey/

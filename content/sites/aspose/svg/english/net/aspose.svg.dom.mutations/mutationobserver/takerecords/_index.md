@@ -1,7 +1,7 @@
 ---
 title: TakeRecords
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The method returns a copy of the record queue and then empty the record queue.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.mutations/mutationobserver/takerecords/

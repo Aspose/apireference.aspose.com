@@ -1,7 +1,7 @@
 ---
 title: Configuration
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents the configuration context object that is used to set up the environment settings for the application.
 type: docs
 weight: 60
 url: /net/aspose.svg/configuration/

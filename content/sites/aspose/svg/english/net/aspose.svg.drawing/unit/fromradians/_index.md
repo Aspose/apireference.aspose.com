@@ -1,7 +1,7 @@
 ---
 title: FromRadians
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Angleaspose.svg.drawing/angle object that is represented in radians.
 type: docs
 weight: 200
 url: /net/aspose.svg.drawing/unit/fromradians/

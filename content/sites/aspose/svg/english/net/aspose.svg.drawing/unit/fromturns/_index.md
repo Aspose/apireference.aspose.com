@@ -1,7 +1,7 @@
 ---
 title: FromTurns
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Angleaspose.svg.drawing/angle object that is represented in turns.
 type: docs
 weight: 220
 url: /net/aspose.svg.drawing/unit/fromturns/

@@ -1,7 +1,7 @@
 ---
 title: OnSuspend
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnSuspend event.
 type: docs
 weight: 460
 url: /net/aspose.svg.dom/iglobaleventhandlers/onsuspend/

@@ -1,7 +1,7 @@
 ---
 title: INonDocumentTypeChildNode
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Defines IChildNode./ichildnode that are not DOCUMENT_TYPE_NODE./node/document_type_node.
 type: docs
 weight: 1080
 url: /net/aspose.svg.dom/inondocumenttypechildnode/

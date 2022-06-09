@@ -1,7 +1,7 @@
 ---
 title: SetLength
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sets the length of the wrapped output stream.
 type: docs
 weight: 120
 url: /net/aspose.svg.io/outputstream/setlength/

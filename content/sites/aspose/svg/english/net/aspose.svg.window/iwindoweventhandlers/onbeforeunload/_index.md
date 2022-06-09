@@ -1,7 +1,7 @@
 ---
 title: OnBeforeUnload
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler
 type: docs
 weight: 30
 url: /net/aspose.svg.window/iwindoweventhandlers/onbeforeunload/

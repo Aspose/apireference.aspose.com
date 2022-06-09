@@ -1,7 +1,7 @@
 ---
 title: UnitType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Specifies the unit of measurement.
 type: docs
 weight: 1580
 url: /net/aspose.svg.drawing/unittype/
@@ -18,8 +18,8 @@ public sealed class UnitType : IEquatable<UnitType>
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unittype/equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| [Equals](../../aspose.svg.drawing/unittype/equals)(UnitType) | Determines whether the specified [`UnitType`](../unittype), is equal to this instance. |
+| override [Equals](../../aspose.svg.drawing/unittype/equals#equals_1)(object) | Determines whether the specified Object, is equal to this instance. |
+| [Equals](../../aspose.svg.drawing/unittype/equals#equals)(UnitType) | Determines whether the specified [`UnitType`](../unittype), is equal to this instance. |
 | override [GetHashCode](../../aspose.svg.drawing/unittype/gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.svg.drawing/unittype/tostring)() | Returns a String that represents this instance. |
 | [operator ==](../../aspose.svg.drawing/unittype/op_equality) | Determines whether the two specified [`UnitType`](../unittype) values are equal. |

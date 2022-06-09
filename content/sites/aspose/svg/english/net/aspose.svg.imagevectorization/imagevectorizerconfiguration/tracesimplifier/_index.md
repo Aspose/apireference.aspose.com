@@ -1,7 +1,7 @@
 ---
 title: TraceSimplifier
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the trace simplifier.
 type: docs
 weight: 50
 url: /net/aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesimplifier/

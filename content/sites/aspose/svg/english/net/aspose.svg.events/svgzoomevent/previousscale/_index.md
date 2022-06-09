@@ -1,7 +1,7 @@
 ---
 title: PreviousScale
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The scale factor from previous zoom operations that was in place before the zoom operation occurred.
 type: docs
 weight: 30
 url: /net/aspose.svg.events/svgzoomevent/previousscale/

@@ -1,7 +1,7 @@
 ---
 title: Top
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This attribute is used for the top of the rect.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/rect/top/

@@ -1,7 +1,7 @@
 ---
 title: Creator
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name of the product that created the original document.
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering.pdf/pdfdocumentinfo/creator/

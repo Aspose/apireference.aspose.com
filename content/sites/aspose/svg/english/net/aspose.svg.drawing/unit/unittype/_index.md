@@ -1,7 +1,7 @@
 ---
 title: UnitType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the unit type of the Unitaspose.svg.drawing/unit.
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/unit/unittype/

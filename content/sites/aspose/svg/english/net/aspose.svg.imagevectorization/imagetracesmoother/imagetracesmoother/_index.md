@@ -1,12 +1,12 @@
 ---
 title: ImageTraceSmoother
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the ImageTraceSmootheraspose.svg.imagevectorization/imagetracesmoother class.
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
-## ImageTraceSmoother constructor (1 of 2)
+## ImageTraceSmoother() {#constructor}
 
 Initializes a new instance of the [`ImageTraceSmoother`](../../imagetracesmoother) class.
 
@@ -22,7 +22,7 @@ public ImageTraceSmoother()
 
 ---
 
-## ImageTraceSmoother constructor (2 of 2)
+## ImageTraceSmoother(int) {#constructor_1}
 
 Initializes a new instance of the [`ImageTraceSmoother`](../../imagetracesmoother) class.
 

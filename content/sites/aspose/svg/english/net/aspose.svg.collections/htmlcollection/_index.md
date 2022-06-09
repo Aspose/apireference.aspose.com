@@ -1,7 +1,7 @@
 ---
 title: HTMLCollection
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The HTMLCollection./htmlcollection represents a generic collection of Element../aspose.svg.dom/element.
 type: docs
 weight: 20
 url: /net/aspose.svg.collections/htmlcollection/

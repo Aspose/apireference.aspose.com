@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionInfo
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Contains details for a pdf encryption.
 type: docs
 weight: 2850
 url: /net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/

@@ -1,7 +1,7 @@
 ---
 title: ImageVectorizerConfiguration
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the ImageVectorizerConfigurationaspose.svg.imagevectorization/imagevectorizerconfiguration class.
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/imagevectorizerconfiguration/imagevectorizerconfiguration/

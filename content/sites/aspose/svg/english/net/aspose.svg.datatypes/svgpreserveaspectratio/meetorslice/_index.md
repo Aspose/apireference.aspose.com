@@ -1,7 +1,7 @@
 ---
 title: MeetOrSlice
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The type of the meet-or-slice value as specified by one of the SVG_MEETORSLICE_ constants defined on this interface.
 type: docs
 weight: 20
 url: /net/aspose.svg.datatypes/svgpreserveaspectratio/meetorslice/

@@ -1,7 +1,7 @@
 ---
 title: DefaultPrevented
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns true if preventDefault was invoked while the cancelable attribute value is true and false otherwise.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.events/event/defaultprevented/

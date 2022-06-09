@@ -1,7 +1,7 @@
 ---
 title: Right
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This attribute is used for the right of the rect.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/rect/right/

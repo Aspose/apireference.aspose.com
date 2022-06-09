@@ -1,7 +1,7 @@
 ---
 title: Bottom
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the bottom property definition in CSS2.
 type: docs
 weight: 300
 url: /net/aspose.svg.dom.css/icss2properties/bottom/

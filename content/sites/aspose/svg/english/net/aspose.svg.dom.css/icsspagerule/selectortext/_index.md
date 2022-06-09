@@ -1,7 +1,7 @@
 ---
 title: SelectorText
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The parsable textual representation of the page selector for the rule.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icsspagerule/selectortext/

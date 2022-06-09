@@ -1,7 +1,7 @@
 ---
 title: TextTransform
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the text-transform property definition in CSS2.
 type: docs
 weight: 1110
 url: /net/aspose.svg.dom.css/icss2properties/texttransform/

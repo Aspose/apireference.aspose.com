@@ -1,7 +1,7 @@
 ---
 title: TextInfo
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Contains information about rendered text.
 type: docs
 weight: 2960
 url: /net/aspose.svg.rendering/textinfo/

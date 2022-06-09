@@ -1,7 +1,7 @@
 ---
 title: SetTranslate
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sets the transform type to SVG_TRANSFORM_TRANSLATE with parameters tx and ty defining the translation amounts.
 type: docs
 weight: 90
 url: /net/aspose.svg.datatypes/svgtransform/settranslate/

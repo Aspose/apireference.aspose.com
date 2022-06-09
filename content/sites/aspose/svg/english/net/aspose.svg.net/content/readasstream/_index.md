@@ -1,7 +1,7 @@
 ---
 title: ReadAsStream
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Serialize the HTTP content and return a stream that represents the content.
 type: docs
 weight: 40
 url: /net/aspose.svg.net/content/readasstream/

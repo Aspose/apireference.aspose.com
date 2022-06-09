@@ -1,7 +1,7 @@
 ---
 title: SVG_FECOMPOSITE_OPERATOR_XOR
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value xor.
 type: docs
 weight: 190
 url: /net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_xor/

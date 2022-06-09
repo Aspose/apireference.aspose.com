@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute width on the given foreignObject element.
 type: docs
 weight: 20
 url: /net/aspose.svg/svgforeignobjectelement/width/

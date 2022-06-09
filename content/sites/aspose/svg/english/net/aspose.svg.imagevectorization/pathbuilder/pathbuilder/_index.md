@@ -1,12 +1,12 @@
 ---
 title: PathBuilder
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the PathBuilderaspose.svg.imagevectorization/pathbuilder class.
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/pathbuilder/pathbuilder/
 ---
-## PathBuilder constructor (1 of 2)
+## PathBuilder() {#constructor}
 
 Initializes a new instance of the [`PathBuilder`](../../pathbuilder) class.
 
@@ -22,7 +22,7 @@ public PathBuilder()
 
 ---
 
-## PathBuilder constructor (2 of 2)
+## PathBuilder(float) {#constructor_1}
 
 Initializes a new instance of the [`PathBuilder`](../../pathbuilder) class.
 

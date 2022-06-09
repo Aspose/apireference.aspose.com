@@ -1,7 +1,7 @@
 ---
 title: Tension
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The value of the tensions affects how sharply the curve bends at the interpolated control points. It must be in the range from 0 to 1. Any higher or lower values will be aligned with the minimum and maximum values of this range accordingly.
 type: docs
 weight: 20
 url: /net/aspose.svg.imagevectorization/pathbuilder/tension/

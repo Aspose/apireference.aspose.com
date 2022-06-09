@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a String that represents this instance.
 type: docs
 weight: 30
 url: /net/aspose.svg.net.headers/namevalueheadervalue/tostring/

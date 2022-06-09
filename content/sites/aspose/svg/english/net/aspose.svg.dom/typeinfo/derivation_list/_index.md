@@ -1,7 +1,7 @@
 ---
 title: DERIVATION_LIST
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: If the documents schema is an XML Schema XML Schema Part 1 this constant represents the list.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom/typeinfo/derivation_list/

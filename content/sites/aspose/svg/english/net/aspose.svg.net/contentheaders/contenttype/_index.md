@@ -1,7 +1,7 @@
 ---
 title: ContentType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the Content-Type header value.
 type: docs
 weight: 20
 url: /net/aspose.svg.net/contentheaders/contenttype/

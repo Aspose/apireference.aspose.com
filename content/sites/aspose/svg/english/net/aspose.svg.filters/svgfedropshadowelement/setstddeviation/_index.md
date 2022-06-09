@@ -1,7 +1,7 @@
 ---
 title: SetStdDeviation
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sets the values for attribute stdDeviation.
 type: docs
 weight: 110
 url: /net/aspose.svg.filters/svgfedropshadowelement/setstddeviation/

@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The relative X coordinate for the end point of this path segment.
 type: docs
 weight: 10
 url: /net/aspose.svg.paths/svgpathseglinetorel/x/

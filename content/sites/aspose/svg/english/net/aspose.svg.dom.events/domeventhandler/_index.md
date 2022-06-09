@@ -1,7 +1,7 @@
 ---
 title: DOMEventHandler
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents the callback for event handling.
 type: docs
 weight: 890
 url: /net/aspose.svg.dom.events/domeventhandler/

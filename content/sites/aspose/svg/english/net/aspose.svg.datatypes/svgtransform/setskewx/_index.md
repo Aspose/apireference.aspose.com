@@ -1,7 +1,7 @@
 ---
 title: SetSkewX
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sets the transform type to SVG_TRANSFORM_SKEWX with parameter angle defining the amount of skew.
 type: docs
 weight: 70
 url: /net/aspose.svg.datatypes/svgtransform/setskewx/

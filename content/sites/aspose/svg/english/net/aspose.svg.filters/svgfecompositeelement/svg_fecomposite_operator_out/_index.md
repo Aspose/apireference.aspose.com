@@ -1,7 +1,7 @@
 ---
 title: SVG_FECOMPOSITE_OPERATOR_OUT
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value out.
 type: docs
 weight: 160
 url: /net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_out/

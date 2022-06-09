@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Get type of brush
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/ibrush/type/

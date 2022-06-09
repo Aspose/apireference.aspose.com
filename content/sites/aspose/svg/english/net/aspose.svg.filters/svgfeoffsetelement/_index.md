@@ -1,7 +1,7 @@
 ---
 title: SVGFEOffsetElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGFEOffsetElement interface corresponds to the feOffset element.
 type: docs
 weight: 1810
 url: /net/aspose.svg.filters/svgfeoffsetelement/

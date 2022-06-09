@@ -1,7 +1,7 @@
 ---
 title: MarginLeft
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the margin-left property definition in CSS2.
 type: docs
 weight: 650
 url: /net/aspose.svg.dom.css/icss2properties/marginleft/

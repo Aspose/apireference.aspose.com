@@ -1,12 +1,12 @@
 ---
 title: op_Implicit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Performs an implicit conversion from Double to Resolutionaspose.svg.drawing/resolution.
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/resolution/op_implicit/
 ---
-## Resolution Implicit operator (1 of 2)
+## implicit operator {#op_implicit}
 
 Performs an implicit conversion from Double to [`Resolution`](../../resolution).
 
@@ -30,7 +30,7 @@ The result of the conversion.
 
 ---
 
-## Resolution Implicit operator (2 of 2)
+## implicit operator {#op_implicit_1}
 
 Performs an implicit conversion from Single to [`Resolution`](../../resolution).
 

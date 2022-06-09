@@ -1,7 +1,7 @@
 ---
 title: PaddingRight
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the padding-right property definition in CSS2.
 type: docs
 weight: 830
 url: /net/aspose.svg.dom.css/icss2properties/paddingright/

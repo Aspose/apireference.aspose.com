@@ -1,7 +1,7 @@
 ---
 title: HasAttributes
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns whether this node if it is an element has any attributes
 type: docs
 weight: 200
 url: /net/aspose.svg.dom/node/hasattributes/

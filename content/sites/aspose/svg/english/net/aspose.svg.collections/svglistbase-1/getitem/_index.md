@@ -1,7 +1,7 @@
 ---
 title: GetItem
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the specified item from the list.
 type: docs
 weight: 70
 url: /net/aspose.svg.collections/svglistbase-1/getitem/

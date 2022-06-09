@@ -1,7 +1,7 @@
 ---
 title: PatternUnits
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute patternUnits on the given pattern element. Takes one of the constants defined in SVGUnitTypes.
 type: docs
 weight: 50
 url: /net/aspose.svg/svgpatternelement/patternunits/

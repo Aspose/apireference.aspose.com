@@ -1,7 +1,7 @@
 ---
 title: Headers
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the HTTP content headers.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/content/headers/

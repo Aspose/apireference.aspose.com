@@ -1,7 +1,7 @@
 ---
 title: INonElementParentNode
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Defines IParentNode./iparentnode that are not Element type.
 type: docs
 weight: 1090
 url: /net/aspose.svg.dom/inonelementparentnode/

@@ -1,7 +1,7 @@
 ---
 title: FromHertz
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Frequencyaspose.svg.drawing/frequency object that is represented in hertz.
 type: docs
 weight: 110
 url: /net/aspose.svg.drawing/unit/fromhertz/

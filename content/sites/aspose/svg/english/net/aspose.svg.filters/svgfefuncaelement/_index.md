@@ -1,7 +1,7 @@
 ---
 title: SVGFEFuncAElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGFEFuncAElement interface corresponds to the feFuncA element.
 type: docs
 weight: 1720
 url: /net/aspose.svg.filters/svgfefuncaelement/

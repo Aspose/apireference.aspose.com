@@ -1,7 +1,7 @@
 ---
 title: CreateElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates an element of the type specified. Note that the instance returned implements the Element interface so attributes can be specified directly on the returned object.
 type: docs
 weight: 850
 url: /net/aspose.svg.dom/document/createelement/

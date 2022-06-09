@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegMovetoAbs
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGPathSegMovetoAbs interface corresponds to an absolute moveto M path data command.
 type: docs
 weight: 2620
 url: /net/aspose.svg.paths/svgpathsegmovetoabs/

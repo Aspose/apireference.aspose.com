@@ -1,7 +1,7 @@
 ---
 title: DeleteData
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Remove a range of 16-bit units from the node.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom/characterdata/deletedata/

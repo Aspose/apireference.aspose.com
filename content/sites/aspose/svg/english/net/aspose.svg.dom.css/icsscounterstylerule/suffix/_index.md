@@ -1,7 +1,7 @@
 ---
 title: Suffix
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the suffix.
 type: docs
 weight: 60
 url: /net/aspose.svg.dom.css/icsscounterstylerule/suffix/

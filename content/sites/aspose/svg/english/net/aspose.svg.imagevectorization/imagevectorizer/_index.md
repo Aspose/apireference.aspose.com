@@ -1,7 +1,7 @@
 ---
 title: ImageVectorizer
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This ImageVectorizer class vectorizes raster images like PNG JPG GIF BMP and etc... and returns SVGDocument. Under vectorization we mean the process of reducing bitmaps to geometric shapes made up from path elements and stored as SVG.
 type: docs
 weight: 2100
 url: /net/aspose.svg.imagevectorization/imagevectorizer/
@@ -18,8 +18,8 @@ public class ImageVectorizer
 
 | Name | Description |
 | --- | --- |
-| [ImageVectorizer](imagevectorizer)() | Initializes a new instance of the [`ImageVectorizer`](../imagevectorizer) class. |
-| [ImageVectorizer](imagevectorizer)(ImageVectorizerConfiguration) | Initializes a new instance of the [`ImageVectorizer`](../imagevectorizer) class. |
+| [ImageVectorizer](imagevectorizer#constructor)() | Initializes a new instance of the [`ImageVectorizer`](../imagevectorizer) class. |
+| [ImageVectorizer](imagevectorizer#constructor_1)(ImageVectorizerConfiguration) | Initializes a new instance of the [`ImageVectorizer`](../imagevectorizer) class. |
 
 ## Properties
 
@@ -31,9 +31,9 @@ public class ImageVectorizer
 
 | Name | Description |
 | --- | --- |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize)(Bitmap) | Vectorizes bitmap. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize)(Stream) | Vectorizes raster image from the specified stream. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize)(string) | Vectorizes raster image from the specified file. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize#vectorize)(Bitmap) | Vectorizes bitmap. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize#vectorize_1)(Stream) | Vectorizes raster image from the specified stream. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize#vectorize_2)(string) | Vectorizes raster image from the specified file. |
 
 ### See Also
 

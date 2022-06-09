@@ -1,7 +1,7 @@
 ---
 title: Dpcm
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is in dots per centimeters.
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/unittype/dpcm/

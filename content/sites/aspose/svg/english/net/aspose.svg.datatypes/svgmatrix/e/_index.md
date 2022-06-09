@@ -1,7 +1,7 @@
 ---
 title: E
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The E component of the matrix.
 type: docs
 weight: 50
 url: /net/aspose.svg.datatypes/svgmatrix/e/

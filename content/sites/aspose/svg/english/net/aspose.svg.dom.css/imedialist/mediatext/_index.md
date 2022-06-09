@@ -1,7 +1,7 @@
 ---
 title: MediaText
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The parsable textual representation of the media list. This is a comma-separated list of media.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/imedialist/mediatext/

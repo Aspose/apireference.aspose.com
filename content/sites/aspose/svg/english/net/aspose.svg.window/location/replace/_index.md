@@ -1,7 +1,7 @@
 ---
 title: Replace
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Removes the current page from the session history and navigates to the given page.
 type: docs
 weight: 30
 url: /net/aspose.svg.window/location/replace/

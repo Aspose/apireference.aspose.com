@@ -1,7 +1,7 @@
 ---
 title: SVGMetadataElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGMetadataElement interface corresponds to the metadata element.
 type: docs
 weight: 3280
 url: /net/aspose.svg/svgmetadataelement/

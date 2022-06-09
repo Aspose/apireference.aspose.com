@@ -1,7 +1,7 @@
 ---
 title: IElementInit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This interface provides Element./element initialization info.
 type: docs
 weight: 1060
 url: /net/aspose.svg.dom/ielementinit/

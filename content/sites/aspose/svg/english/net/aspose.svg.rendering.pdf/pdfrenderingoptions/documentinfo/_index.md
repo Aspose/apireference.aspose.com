@@ -1,7 +1,7 @@
 ---
 title: DocumentInfo
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Contains information about the output PDF document.
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo/

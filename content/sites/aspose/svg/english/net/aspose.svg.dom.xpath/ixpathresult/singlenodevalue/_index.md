@@ -1,7 +1,7 @@
 ---
 title: SingleNodeValue
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The value of this single node result which may be null.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.xpath/ixpathresult/singlenodevalue/

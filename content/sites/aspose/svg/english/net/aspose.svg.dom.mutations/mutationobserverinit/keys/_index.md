@@ -1,7 +1,7 @@
 ---
 title: Keys
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a collection containing the keys in the MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit collection.
 type: docs
 weight: 110
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/keys/

@@ -1,7 +1,7 @@
 ---
 title: Mm
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is in millimeters
 type: docs
 weight: 150
 url: /net/aspose.svg.drawing/unittype/mm/

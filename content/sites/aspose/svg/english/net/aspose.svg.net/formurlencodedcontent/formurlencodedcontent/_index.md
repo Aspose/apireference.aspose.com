@@ -1,7 +1,7 @@
 ---
 title: FormUrlEncodedContent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the FormUrlEncodedContentaspose.svg.net/formurlencodedcontent class.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/formurlencodedcontent/formurlencodedcontent/

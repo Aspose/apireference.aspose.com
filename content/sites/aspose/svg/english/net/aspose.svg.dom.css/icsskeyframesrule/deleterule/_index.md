@@ -1,7 +1,7 @@
 ---
 title: DeleteRule
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist the method does nothing
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/icsskeyframesrule/deleterule/

@@ -1,7 +1,7 @@
 ---
 title: Contains
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Determines whether the MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit contain the specified key/value pair.
 type: docs
 weight: 160
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/contains/

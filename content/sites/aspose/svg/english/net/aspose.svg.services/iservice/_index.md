@@ -1,7 +1,7 @@
 ---
 title: IService
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Defines a base interface for service implementation.
 type: docs
 weight: 3660
 url: /net/aspose.svg.services/iservice/

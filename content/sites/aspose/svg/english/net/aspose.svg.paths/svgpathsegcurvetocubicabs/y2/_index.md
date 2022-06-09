@@ -1,7 +1,7 @@
 ---
 title: Y2
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The absolute Y coordinate for the second control point.
 type: docs
 weight: 60
 url: /net/aspose.svg.paths/svgpathsegcurvetocubicabs/y2/

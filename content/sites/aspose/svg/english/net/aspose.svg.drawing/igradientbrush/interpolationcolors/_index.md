@@ -1,7 +1,7 @@
 ---
 title: InterpolationColors
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Get the interpolation colors that defines a multicolor linear gradient.
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/igradientbrush/interpolationcolors/

@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegMovetoRel
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGPathSegMovetoRel interface corresponds to a relative moveto m path data command.
 type: docs
 weight: 2630
 url: /net/aspose.svg.paths/svgpathsegmovetorel/

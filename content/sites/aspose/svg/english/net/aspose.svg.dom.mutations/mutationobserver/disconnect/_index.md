@@ -1,7 +1,7 @@
 ---
 title: Disconnect
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Stops observer from observing any mutations. Until the observe method is used again observers callback will not be invoked.
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.mutations/mutationobserver/disconnect/

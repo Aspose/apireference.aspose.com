@@ -1,7 +1,7 @@
 ---
 title: PreviousSibling
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The node immediately preceding this node. If there is no such node this returns null.
 type: docs
 weight: 160
 url: /net/aspose.svg.dom/node/previoussibling/

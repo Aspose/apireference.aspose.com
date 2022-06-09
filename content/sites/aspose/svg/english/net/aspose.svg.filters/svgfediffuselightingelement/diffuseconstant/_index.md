@@ -1,7 +1,7 @@
 ---
 title: DiffuseConstant
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute diffuseConstant on the given feDiffuseLighting element.
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/svgfediffuselightingelement/diffuseconstant/

@@ -1,7 +1,7 @@
 ---
 title: CreateDocument
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates a DOM Document object of the specified type with its document element.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/idomimplementation/createdocument/

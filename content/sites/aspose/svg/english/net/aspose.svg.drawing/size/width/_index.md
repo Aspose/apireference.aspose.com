@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the horizontal component of this Sizeaspose.svg.drawing/size.
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/size/width/

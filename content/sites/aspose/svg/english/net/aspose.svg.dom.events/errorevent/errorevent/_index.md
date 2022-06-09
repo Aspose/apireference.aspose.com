@@ -1,12 +1,12 @@
 ---
 title: ErrorEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the ErrorEventaspose.svg.dom.events/errorevent class.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent constructor (1 of 2)
+## ErrorEvent(Exception) {#constructor_1}
 
 Initializes a new instance of the [`ErrorEvent`](../../errorevent) class.
 
@@ -26,7 +26,7 @@ public ErrorEvent(Exception exception)
 
 ---
 
-## ErrorEvent constructor (2 of 2)
+## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
 
 Initializes a new instance of the [`ErrorEvent`](../../errorevent) class.
 

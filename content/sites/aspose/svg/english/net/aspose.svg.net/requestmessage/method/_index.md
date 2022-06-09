@@ -1,7 +1,7 @@
 ---
 title: Method
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the HttpMethodaspose.svg.net/httpmethod.
 type: docs
 weight: 60
 url: /net/aspose.svg.net/requestmessage/method/

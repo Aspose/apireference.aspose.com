@@ -1,7 +1,7 @@
 ---
 title: Headers
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the RequestHeadersaspose.svg.net/requestheaders.
 type: docs
 weight: 50
 url: /net/aspose.svg.net/requestmessage/headers/

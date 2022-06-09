@@ -1,7 +1,7 @@
 ---
 title: Position
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the position within the wrapped output stream.
 type: docs
 weight: 60
 url: /net/aspose.svg.io/outputstream/position/

@@ -1,7 +1,7 @@
 ---
 title: Encoding
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The encoding information used in this charset rule.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icsscharsetrule/encoding/

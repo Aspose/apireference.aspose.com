@@ -1,7 +1,7 @@
 ---
 title: PATHSEG_MOVETO_REL
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to a relative moveto m path data command.
 type: docs
 weight: 210
 url: /net/aspose.svg.paths/svgpathseg/pathseg_moveto_rel/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGFEColorMatrixElement interface corresponds to the feColorMatrix element.
 type: docs
 weight: 1630
 url: /net/aspose.svg.filters/svgfecolormatrixelement/

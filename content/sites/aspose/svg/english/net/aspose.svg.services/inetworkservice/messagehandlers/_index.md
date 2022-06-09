@@ -1,7 +1,7 @@
 ---
 title: MessageHandlers
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets an list of MessageHandleraspose.svg.net/messagehandler instances to be invoked as an RequestMessageaspose.svg.net/requestmessage executes.
 type: docs
 weight: 10
 url: /net/aspose.svg.services/inetworkservice/messagehandlers/

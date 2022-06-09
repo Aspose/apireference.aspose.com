@@ -1,7 +1,7 @@
 ---
 title: CSSEngineMode
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets mode in which CSS engine works.
 type: docs
 weight: 20
 url: /net/aspose.svg.services/iuseragentservice/cssenginemode/

@@ -1,7 +1,7 @@
 ---
 title: ColorsLimit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the maximum number of colors used to quantize an image. Default value is 25.
 type: docs
 weight: 20
 url: /net/aspose.svg.imagevectorization/imagevectorizerconfiguration/colorslimit/

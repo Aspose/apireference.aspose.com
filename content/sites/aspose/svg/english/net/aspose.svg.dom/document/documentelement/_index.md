@@ -1,7 +1,7 @@
 ---
 title: DocumentElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This is a convenience attribute that allows direct access to the child node that is the document element of the document.
 type: docs
 weight: 100
 url: /net/aspose.svg.dom/document/documentelement/

@@ -1,7 +1,7 @@
 ---
 title: FromInches
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Lengthaspose.svg.drawing/length object that is represented in inches.
 type: docs
 weight: 120
 url: /net/aspose.svg.drawing/unit/frominches/

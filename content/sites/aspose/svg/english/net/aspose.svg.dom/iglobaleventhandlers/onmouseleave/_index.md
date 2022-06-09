@@ -1,7 +1,7 @@
 ---
 title: OnMouseLeave
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnMouseLeave event.
 type: docs
 weight: 260
 url: /net/aspose.svg.dom/iglobaleventhandlers/onmouseleave/

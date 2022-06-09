@@ -1,7 +1,7 @@
 ---
 title: ResponseMessage
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents a response message.
 type: docs
 weight: 2380
 url: /net/aspose.svg.net/responsemessage/

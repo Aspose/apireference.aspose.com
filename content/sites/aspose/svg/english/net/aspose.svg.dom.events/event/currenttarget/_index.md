@@ -1,7 +1,7 @@
 ---
 title: CurrentTarget
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Used to indicate the IEventTargetaspose.svg.dom.events/ieventtarget whose IEventListeneraspose.svg.dom.events/ieventlisteners are currently being processed. This is particularly useful during capturing and bubbling.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.events/event/currenttarget/

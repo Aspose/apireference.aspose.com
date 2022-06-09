@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data.
 type: docs
 weight: 810
 url: /net/aspose.svg.dom/document/
@@ -81,15 +81,15 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [CreateEntityReference](../../aspose.svg.dom/document/createentityreference)(string) | Creates an EntityReference object. In addition, if the referenced entity is known, the child list of the EntityReference node is made the same as that of the corresponding Entity node. |
 | [CreateEvent](../../aspose.svg.dom/document/createevent)(string) | Creates an [`Event`](../../aspose.svg.dom.events/event) of a type supported by the implementation. |
 | [CreateExpression](../../aspose.svg.dom/document/createexpression)(string, IXPathNSResolver) | Creates a parsed XPath expression with resolved namespaces. This is useful when an expression will be reused in an application since it makes it possible to compile the expression string into a more efficient internal form and preresolve all namespace prefixes which occur within the expression. |
-| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator)(Node) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator)(Node, long) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator)(Node, long, INodeFilter) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator#createnodeiterator)(Node) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator#createnodeiterator_1)(Node, long) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator#createnodeiterator_2)(Node, long, INodeFilter) | Create a new NodeIterator over the subtree rooted at the specified node. |
 | [CreateNSResolver](../../aspose.svg.dom/document/creatensresolver)(Node) | Adapts any DOM node to resolve namespaces so that an XPath expression can be easily evaluated relative to the context of the node where it appeared within the document. This adapter works like the DOM Level 3 method `lookupNamespaceURI` on nodes in resolving the namespaceURI from a given prefix using the current information available in the node's hierarchy at the time lookupNamespaceURI is called, also correctly resolving the implicit xml prefix. |
 | [CreateProcessingInstruction](../../aspose.svg.dom/document/createprocessinginstruction)(string, string) | Creates a ProcessingInstruction node given the specified name and data strings. |
 | [CreateTextNode](../../aspose.svg.dom/document/createtextnode)(string) | Creates a Text node given the specified string. |
-| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker)(Node) | Create a new TreeWalker over the subtree rooted at the specified node. |
-| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker)(Node, long) | Create a new TreeWalker over the subtree rooted at the specified node. |
-| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker)(Node, long, INodeFilter) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker#createtreewalker)(Node) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker#createtreewalker_1)(Node, long) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker#createtreewalker_2)(Node, long, INodeFilter) | Create a new TreeWalker over the subtree rooted at the specified node. |
 | [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent)(Event) | This method allows the dispatch of events into the implementations event model. |
 | [Dispose](../../aspose.svg.dom/eventtarget/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [Evaluate](../../aspose.svg.dom/document/evaluate)(string, Node, IXPathNSResolver, XPathResultType, object) | Evaluates an XPath expression string and returns a result of the specified type if possible. |
@@ -107,13 +107,13 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [IsSameNode](../../aspose.svg.dom/node/issamenode)(Node) | Returns whether this node is the same node as the given one. This method provides a way to determine whether two Node references returned by the implementation reference the same object. When two Node references are references to the same object, even if through a proxy, the references may be used completely interchangeably, such that all attributes have the same values and calling the same DOM method on either reference always has exactly the same effect. |
 | [LookupNamespaceURI](../../aspose.svg.dom/node/lookupnamespaceuri)(string) | Look up the namespace URI associated to the given prefix, starting from this node. |
 | [LookupPrefix](../../aspose.svg.dom/node/lookupprefix)(string) | Look up the prefix associated to the given namespace URI, starting from this node. The default namespace declarations are ignored by this method. See Namespace Prefix Lookup for details on the algorithm used by this method. |
-| [Navigate](../../aspose.svg.dom/document/navigate)(RequestMessage) | Loads the document based on specified request object, replacing the previous content. |
-| [Navigate](../../aspose.svg.dom/document/navigate)(string) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |
-| [Navigate](../../aspose.svg.dom/document/navigate)(Url) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |
-| [Navigate](../../aspose.svg.dom/document/navigate)(Stream, string) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream. |
-| [Navigate](../../aspose.svg.dom/document/navigate)(Stream, Url) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream. |
-| [Navigate](../../aspose.svg.dom/document/navigate)(string, string) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. |
-| [Navigate](../../aspose.svg.dom/document/navigate)(string, Url) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. |
+| [Navigate](../../aspose.svg.dom/document/navigate#navigate)(RequestMessage) | Loads the document based on specified request object, replacing the previous content. |
+| [Navigate](../../aspose.svg.dom/document/navigate#navigate_4)(string) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |
+| [Navigate](../../aspose.svg.dom/document/navigate#navigate_1)(Url) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |
+| [Navigate](../../aspose.svg.dom/document/navigate#navigate_3)(Stream, string) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream. |
+| [Navigate](../../aspose.svg.dom/document/navigate#navigate_2)(Stream, Url) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream. |
+| [Navigate](../../aspose.svg.dom/document/navigate#navigate_6)(string, string) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. |
+| [Navigate](../../aspose.svg.dom/document/navigate#navigate_5)(string, Url) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. |
 | [Normalize](../../aspose.svg.dom/node/normalize)() | Puts all Text nodes in the full depth of the sub-tree underneath this Node, including attribute nodes, into a "normal" form where only structure (e.g., elements, comments, processing instructions, CDATA sections, and entity references) separates Text nodes, i.e., there are neither adjacent Text nodes nor empty Text nodes. This can be used to ensure that the DOM view of a document is the same as if it were saved and re-loaded, and is useful when operations (such as XPointer [XPointer] lookups) that depend on a particular document tree structure are to be used. If the parameter "normalize-characters" of the DOMConfiguration object attached to the Node.ownerDocument is true, this method will also fully normalize the characters of the Text nodes. |
 | [QuerySelector](../../aspose.svg.dom/document/queryselector)(string) | Returns the first Element in document, which match selector |
 | [QuerySelectorAll](../../aspose.svg.dom/document/queryselectorall)(string) | Returns a NodeList of all the Elements in document, which match selector |

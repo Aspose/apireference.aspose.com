@@ -1,7 +1,7 @@
 ---
 title: Media
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A list of media types for which this style sheet may be used.
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/icssimportrule/media/

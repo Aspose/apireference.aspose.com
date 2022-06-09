@@ -1,7 +1,7 @@
 ---
 title: SVG_ANGLETYPE_GRAD
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The unit type is radians.
 type: docs
 weight: 90
 url: /net/aspose.svg.datatypes/svgangle/svg_angletype_grad/

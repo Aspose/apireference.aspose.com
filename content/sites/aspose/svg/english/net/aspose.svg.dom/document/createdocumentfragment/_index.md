@@ -1,7 +1,7 @@
 ---
 title: CreateDocumentFragment
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates an empty DocumentFragment object.
 type: docs
 weight: 830
 url: /net/aspose.svg.dom/document/createdocumentfragment/

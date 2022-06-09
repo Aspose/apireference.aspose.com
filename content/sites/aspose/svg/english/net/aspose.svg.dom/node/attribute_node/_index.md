@@ -1,7 +1,7 @@
 ---
 title: ATTRIBUTE_NODE
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: An attribute node
 type: docs
 weight: 320
 url: /net/aspose.svg.dom/node/attribute_node/

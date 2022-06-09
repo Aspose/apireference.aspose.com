@@ -1,7 +1,7 @@
 ---
 title: IStyleSheetList
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The StyleSheetList interface provides the abstraction of an ordered collection of style sheets.
 type: docs
 weight: 750
 url: /net/aspose.svg.dom.css/istylesheetlist/

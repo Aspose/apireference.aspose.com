@@ -1,7 +1,7 @@
 ---
 title: CustomEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Events using the CustomEvent interface can be used to carry custom data.
 type: docs
 weight: 880
 url: /net/aspose.svg.dom.events/customevent/
@@ -18,8 +18,8 @@ public class CustomEvent : Event
 
 | Name | Description |
 | --- | --- |
-| [CustomEvent](customevent)(string) | Initializes a new instance of the [`CustomEvent`](../customevent) class. |
-| [CustomEvent](customevent)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`CustomEvent`](../customevent) class. |
+| [CustomEvent](customevent#constructor)(string) | Initializes a new instance of the [`CustomEvent`](../customevent) class. |
+| [CustomEvent](customevent#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`CustomEvent`](../customevent) class. |
 
 ## Properties
 

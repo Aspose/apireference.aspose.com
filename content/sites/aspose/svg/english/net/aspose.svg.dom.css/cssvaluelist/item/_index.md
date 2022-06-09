@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the CSSValueaspose.svg.dom.css/cssvalue at the specified index.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/cssvaluelist/item/

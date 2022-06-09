@@ -1,7 +1,7 @@
 ---
 title: TypeName
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name of a type declared for the associated element or attribute or null if unknown.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/typeinfo/typename/

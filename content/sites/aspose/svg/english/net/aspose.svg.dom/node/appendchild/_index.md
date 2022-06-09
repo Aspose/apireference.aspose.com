@@ -1,7 +1,7 @@
 ---
 title: AppendChild
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Adds the node newChild to the end of the list of children of this node. If the newChild is already in the tree it is first removed.
 type: docs
 weight: 180
 url: /net/aspose.svg.dom/node/appendchild/

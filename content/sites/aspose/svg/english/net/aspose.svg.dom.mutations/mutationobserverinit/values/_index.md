@@ -1,7 +1,7 @@
 ---
 title: Values
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a collection containing the values in the MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit collection.
 type: docs
 weight: 130
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/values/

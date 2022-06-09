@@ -1,12 +1,12 @@
 ---
 title: CustomEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the CustomEventaspose.svg.dom.events/customevent class.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.events/customevent/customevent/
 ---
-## CustomEvent constructor (1 of 2)
+## CustomEvent(string) {#constructor}
 
 Initializes a new instance of the [`CustomEvent`](../../customevent) class.
 
@@ -26,7 +26,7 @@ public CustomEvent(string type)
 
 ---
 
-## CustomEvent constructor (2 of 2)
+## CustomEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
 Initializes a new instance of the [`CustomEvent`](../../customevent) class.
 

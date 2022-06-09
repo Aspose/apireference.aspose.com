@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The X coordinate.
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svgpoint/x/

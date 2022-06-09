@@ -1,7 +1,7 @@
 ---
 title: PageBreakAfter
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the page-break-after property definition in CSS2.
 type: docs
 weight: 860
 url: /net/aspose.svg.dom.css/icss2properties/pagebreakafter/

@@ -1,7 +1,7 @@
 ---
 title: Dx
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute dx on the given feDropShadow element.
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/svgfedropshadowelement/dx/

@@ -1,7 +1,7 @@
 ---
 title: GetAttributeNodeNS
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Retrieves an Attr node by local name and namespace URI.
 type: docs
 weight: 260
 url: /net/aspose.svg.dom/element/getattributenodens/

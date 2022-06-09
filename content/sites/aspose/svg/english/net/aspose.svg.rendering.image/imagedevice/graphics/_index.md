@@ -1,7 +1,7 @@
 ---
 title: Graphics
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the instance of Graphics.
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.image/imagedevice/graphics/

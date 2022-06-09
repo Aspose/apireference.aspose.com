@@ -1,7 +1,7 @@
 ---
 title: VerticalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sets or gets vertical resolution for internal which are used during filters processing images in pixels per inch. By default this property is 300 dpi.
 type: docs
 weight: 60
 url: /net/aspose.svg.rendering/renderingoptions/verticalresolution/

@@ -1,7 +1,7 @@
 ---
 title: Sizing
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the sizing type.
 type: docs
 weight: 60
 url: /net/aspose.svg.rendering/pagesetup/sizing/

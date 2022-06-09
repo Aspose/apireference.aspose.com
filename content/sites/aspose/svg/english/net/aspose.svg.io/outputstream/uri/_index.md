@@ -1,7 +1,7 @@
 ---
 title: Uri
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the URI of stream location.
 type: docs
 weight: 70
 url: /net/aspose.svg.io/outputstream/uri/

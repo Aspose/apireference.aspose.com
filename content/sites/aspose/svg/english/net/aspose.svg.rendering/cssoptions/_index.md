@@ -1,7 +1,7 @@
 ---
 title: CssOptions
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents css rendering options.
 type: docs
 weight: 2660
 url: /net/aspose.svg.rendering/cssoptions/

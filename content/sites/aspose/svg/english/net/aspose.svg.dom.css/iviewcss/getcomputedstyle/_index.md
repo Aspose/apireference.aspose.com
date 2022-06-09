@@ -1,12 +1,12 @@
 ---
 title: GetComputedStyle
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This method is used to get the computed style as it is defined in CSS2.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/iviewcss/getcomputedstyle/
 ---
-## IViewCSS.GetComputedStyle method (1 of 2)
+## GetComputedStyle(Element) {#getcomputedstyle}
 
 This method is used to get the computed style as it is defined in CSS2.
 
@@ -32,7 +32,7 @@ The computed style
 
 ---
 
-## IViewCSS.GetComputedStyle method (2 of 2)
+## GetComputedStyle(Element, string) {#getcomputedstyle_1}
 
 This method is used to get the computed style as it is defined in CSS2.
 

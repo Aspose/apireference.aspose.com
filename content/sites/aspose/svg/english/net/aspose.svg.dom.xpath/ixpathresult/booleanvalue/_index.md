@@ -1,7 +1,7 @@
 ---
 title: BooleanValue
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The value of this boolean result.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.xpath/ixpathresult/booleanvalue/

@@ -1,7 +1,7 @@
 ---
 title: CreateCDATASection
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates a CDATASection node whose value is the specified string.
 type: docs
 weight: 810
 url: /net/aspose.svg.dom/document/createcdatasection/

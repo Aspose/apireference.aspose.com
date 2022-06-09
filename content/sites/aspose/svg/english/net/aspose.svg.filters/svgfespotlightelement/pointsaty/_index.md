@@ -1,7 +1,7 @@
 ---
 title: PointsAtY
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute pointsAtY on the given feSpotLight element.
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfespotlightelement/pointsaty/

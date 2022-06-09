@@ -1,7 +1,7 @@
 ---
 title: C
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The C component of the matrix.
 type: docs
 weight: 30
 url: /net/aspose.svg.datatypes/svgmatrix/c/

@@ -1,7 +1,7 @@
 ---
 title: OnSubmit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnSubmit event.
 type: docs
 weight: 730
 url: /net/aspose.svg.dom/document/onsubmit/

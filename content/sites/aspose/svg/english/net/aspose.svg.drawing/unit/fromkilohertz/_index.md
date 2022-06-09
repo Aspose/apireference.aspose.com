@@ -1,7 +1,7 @@
 ---
 title: FromKiloHertz
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Frequencyaspose.svg.drawing/frequency object that is represented in kiloHertz.
 type: docs
 weight: 130
 url: /net/aspose.svg.drawing/unit/fromkilohertz/

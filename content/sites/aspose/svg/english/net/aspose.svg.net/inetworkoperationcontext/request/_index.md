@@ -1,7 +1,7 @@
 ---
 title: Request
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the request message.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/inetworkoperationcontext/request/

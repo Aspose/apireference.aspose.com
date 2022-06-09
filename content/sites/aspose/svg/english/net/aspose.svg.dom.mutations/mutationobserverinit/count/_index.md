@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the number of key/value pairs contained in the MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit collection.
 type: docs
 weight: 80
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/count/

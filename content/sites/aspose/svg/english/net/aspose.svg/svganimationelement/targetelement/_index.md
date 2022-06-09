@@ -1,7 +1,7 @@
 ---
 title: TargetElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The element which is being animated.
 type: docs
 weight: 40
 url: /net/aspose.svg/svganimationelement/targetelement/

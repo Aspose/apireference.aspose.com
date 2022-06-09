@@ -1,7 +1,7 @@
 ---
 title: RemovedNodes
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Return the nodes removed.
 type: docs
 weight: 70
 url: /net/aspose.svg.dom.mutations/mutationrecord/removednodes/

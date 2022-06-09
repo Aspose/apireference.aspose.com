@@ -1,7 +1,7 @@
 ---
 title: NameValueHeaderValue
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents a name/value pair that describe a header value.
 type: docs
 weight: 2220
 url: /net/aspose.svg.net.headers/namevalueheadervalue/

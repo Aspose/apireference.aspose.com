@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoCubicRel
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGPathSegCurvetoCubicRel interface corresponds to a relative cubic Bézier curveto c path data command.
 type: docs
 weight: 2480
 url: /net/aspose.svg.paths/svgpathsegcurvetocubicrel/

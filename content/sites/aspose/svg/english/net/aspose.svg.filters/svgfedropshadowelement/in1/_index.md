@@ -1,7 +1,7 @@
 ---
 title: In1
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute in on the given feDropShadow element.
 type: docs
 weight: 40
 url: /net/aspose.svg.filters/svgfedropshadowelement/in1/

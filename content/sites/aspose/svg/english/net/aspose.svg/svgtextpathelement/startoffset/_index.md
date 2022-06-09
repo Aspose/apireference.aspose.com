@@ -1,7 +1,7 @@
 ---
 title: StartOffset
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute startOffset on the given textPath element.
 type: docs
 weight: 40
 url: /net/aspose.svg/svgtextpathelement/startoffset/

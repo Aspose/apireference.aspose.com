@@ -1,7 +1,7 @@
 ---
 title: SelectorText
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The textual representation of the selector for the rule set. The implementation may have stripped out insignificant whitespace while parsing the selector.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icssstylerule/selectortext/

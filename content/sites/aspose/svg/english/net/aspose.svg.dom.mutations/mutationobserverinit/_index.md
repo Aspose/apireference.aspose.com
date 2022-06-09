@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This class represents an options collection which is used to configure MutationObserver./mutationobserver.
 type: docs
 weight: 1130
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/
@@ -41,15 +41,15 @@ public class MutationObserverInit : IDictionary<string, object>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add)(KeyValuePair&lt;string, object&gt;) | Adds an element to the [`MutationObserverInit`](../mutationobserverinit) collection. |
-| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add)(string, object) | Adds the specified key and value to the [`MutationObserverInit`](../mutationobserverinit) collection. |
+| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add#add)(KeyValuePair&lt;string, object&gt;) | Adds an element to the [`MutationObserverInit`](../mutationobserverinit) collection. |
+| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add#add_1)(string, object) | Adds the specified key and value to the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [Clear](../../aspose.svg.dom.mutations/mutationobserverinit/clear)() | Removes all the elements from the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [Contains](../../aspose.svg.dom.mutations/mutationobserverinit/contains)(KeyValuePair&lt;string, object&gt;) | Determines whether the [`MutationObserverInit`](../mutationobserverinit) contain the specified key/value pair. |
 | [ContainsKey](../../aspose.svg.dom.mutations/mutationobserverinit/containskey)(string) | Determines whether the [`MutationObserverInit`](../mutationobserverinit) collection contain a specified key. |
 | [CopyTo](../../aspose.svg.dom.mutations/mutationobserverinit/copyto)(KeyValuePair&lt;string, object&gt;[], int) | Copies the [`MutationObserverInit`](../mutationobserverinit) elements to an existing one-dimensional array, starting at the specified array index. |
 | [GetEnumerator](../../aspose.svg.dom.mutations/mutationobserverinit/getenumerator)() | Returns an enumerator that iterates through the [`MutationObserverInit`](../mutationobserverinit) elements. |
-| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove)(KeyValuePair&lt;string, object&gt;) | Removes the specified key/value pair from the [`MutationObserverInit`](../mutationobserverinit) collection. |
-| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove)(string) | Removes the value associated with the specified key from the [`MutationObserverInit`](../mutationobserverinit) collection. |
+| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove#remove)(KeyValuePair&lt;string, object&gt;) | Removes the specified key/value pair from the [`MutationObserverInit`](../mutationobserverinit) collection. |
+| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove#remove_1)(string) | Removes the value associated with the specified key from the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [TryGetValue](../../aspose.svg.dom.mutations/mutationobserverinit/trygetvalue)(string, out object) | Gets the value associated with the specified key. |
 
 ### See Also

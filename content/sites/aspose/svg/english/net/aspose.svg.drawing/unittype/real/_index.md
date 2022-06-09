@@ -1,7 +1,7 @@
 ---
 title: Real
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is a real number.
 type: docs
 weight: 230
 url: /net/aspose.svg.drawing/unittype/real/

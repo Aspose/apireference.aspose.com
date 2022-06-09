@@ -1,7 +1,7 @@
 ---
 title: MediaType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets MediaTypeaspose.svg.rendering/mediatype which will be used for media queries resolution during rendering. Default value is Print.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/cssoptions/mediatype/

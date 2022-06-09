@@ -1,7 +1,7 @@
 ---
 title: Message
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a string representing a message or description associated with the given error name.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/domexception/message/

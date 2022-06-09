@@ -1,7 +1,7 @@
 ---
 title: OnInput
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnInput event.
 type: docs
 weight: 150
 url: /net/aspose.svg.dom/iglobaleventhandlers/oninput/

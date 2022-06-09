@@ -1,7 +1,7 @@
 ---
 title: RequiredExtensions
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute requiredExtensions on the given element.
 type: docs
 weight: 70
 url: /net/aspose.svg/svgpatternelement/requiredextensions/

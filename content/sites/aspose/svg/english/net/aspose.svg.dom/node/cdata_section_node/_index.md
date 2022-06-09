@@ -1,7 +1,7 @@
 ---
 title: CDATA_SECTION_NODE
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A cdata section node
 type: docs
 weight: 330
 url: /net/aspose.svg.dom/node/cdata_section_node/

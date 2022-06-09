@@ -1,7 +1,7 @@
 ---
 title: SVG_CHANNEL_B
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value B.
 type: docs
 weight: 120
 url: /net/aspose.svg.filters/svgfedisplacementmapelement/svg_channel_b/

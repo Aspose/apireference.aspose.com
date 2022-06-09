@@ -1,7 +1,7 @@
 ---
 title: CSS_VW
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The value is a percentage of the full viewport width.
 type: docs
 weight: 450
 url: /net/aspose.svg.dom.css/cssprimitivevalue/css_vw/

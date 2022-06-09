@@ -1,7 +1,7 @@
 ---
 title: License
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Provides methods to license the component.
 type: docs
 weight: 2130
 url: /net/aspose.svg/license/
@@ -24,8 +24,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](../../aspose.svg/license/setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.svg/license/setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.svg/license/setlicense#setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.svg/license/setlicense#setlicense_1)(string) | Licenses the component. |
 
 ### Examples
 

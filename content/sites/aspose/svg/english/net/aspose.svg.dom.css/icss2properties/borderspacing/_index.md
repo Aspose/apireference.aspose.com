@@ -1,7 +1,7 @@
 ---
 title: BorderSpacing
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the border-spacing property definition in CSS2.
 type: docs
 weight: 230
 url: /net/aspose.svg.dom.css/icss2properties/borderspacing/

@@ -1,7 +1,7 @@
 ---
 title: PATHSEG_CURVETO_CUBIC_SMOOTH_REL
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to a relative smooth cubic curveto s path data command.
 type: docs
 weight: 90
 url: /net/aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_rel/

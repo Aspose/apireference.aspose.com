@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive.
 type: docs
 weight: 10
 url: /net/aspose.svg.collections/domtokenlist/
@@ -33,8 +33,8 @@ public class DOMTokenList : DOMObject, IEnumerable<string>
 | [Remove](../../aspose.svg.collections/domtokenlist/remove)(params string[]) | Removes the specified token(s) from the list. |
 | [Replace](../../aspose.svg.collections/domtokenlist/replace)(string, string) | Replaces an existing token with a new token. Does nothing if the first token doesn't exist. |
 | [Supports](../../aspose.svg.collections/domtokenlist/supports)(string) | Returns true if a given token is in the associated attribute's supported tokens. |
-| [Toggle](../../aspose.svg.collections/domtokenlist/toggle)(string) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
-| [Toggle](../../aspose.svg.collections/domtokenlist/toggle)(string, bool?) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
+| [Toggle](../../aspose.svg.collections/domtokenlist/toggle#toggle)(string) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
+| [Toggle](../../aspose.svg.collections/domtokenlist/toggle#toggle_1)(string, bool?) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
 
 ### See Also
 

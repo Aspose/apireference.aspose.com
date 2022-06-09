@@ -1,7 +1,7 @@
 ---
 title: SpeechRate
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the speech-rate property definition in CSS2.
 type: docs
 weight: 1040
 url: /net/aspose.svg.dom.css/icss2properties/speechrate/

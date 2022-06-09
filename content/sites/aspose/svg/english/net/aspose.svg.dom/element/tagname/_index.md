@@ -1,7 +1,7 @@
 ---
 title: TagName
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name of the element.
 type: docs
 weight: 210
 url: /net/aspose.svg.dom/element/tagname/

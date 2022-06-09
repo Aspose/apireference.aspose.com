@@ -1,7 +1,7 @@
 ---
 title: IViewCSS
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This interface represents a CSS view.
 type: docs
 weight: 760
 url: /net/aspose.svg.dom.css/iviewcss/
@@ -18,8 +18,8 @@ public interface IViewCSS : IAbstractView
 
 | Name | Description |
 | --- | --- |
-| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle)(Element) | This method is used to get the computed style as it is defined in CSS2. |
-| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle)(Element, string) | This method is used to get the computed style as it is defined in CSS2. |
+| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle#getcomputedstyle)(Element) | This method is used to get the computed style as it is defined in CSS2. |
+| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle#getcomputedstyle_1)(Element, string) | This method is used to get the computed style as it is defined in CSS2. |
 
 ### See Also
 

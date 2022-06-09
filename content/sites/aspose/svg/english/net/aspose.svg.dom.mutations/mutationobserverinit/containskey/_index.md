@@ -1,7 +1,7 @@
 ---
 title: ContainsKey
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Determines whether the MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit collection contain a specified key.
 type: docs
 weight: 170
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/containskey/

@@ -1,7 +1,7 @@
 ---
 title: DERIVATION_EXTENSION
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: If the documents schema is an XML Schema XML Schema Part 1 this constant represents the derivation by extension.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom/typeinfo/derivation_extension/

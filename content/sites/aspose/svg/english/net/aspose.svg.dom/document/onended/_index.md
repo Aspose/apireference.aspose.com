@@ -1,7 +1,7 @@
 ---
 title: OnEnded
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnEnded event.
 type: docs
 weight: 390
 url: /net/aspose.svg.dom/document/onended/

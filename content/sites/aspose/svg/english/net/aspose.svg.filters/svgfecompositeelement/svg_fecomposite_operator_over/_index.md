@@ -1,7 +1,7 @@
 ---
 title: SVG_FECOMPOSITE_OPERATOR_OVER
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value over.
 type: docs
 weight: 170
 url: /net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_over/

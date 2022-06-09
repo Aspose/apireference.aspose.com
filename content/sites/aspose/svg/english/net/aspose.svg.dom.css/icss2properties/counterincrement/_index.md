@@ -1,7 +1,7 @@
 ---
 title: CounterIncrement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the counter-increment property definition in CSS2.
 type: docs
 weight: 360
 url: /net/aspose.svg.dom.css/icss2properties/counterincrement/

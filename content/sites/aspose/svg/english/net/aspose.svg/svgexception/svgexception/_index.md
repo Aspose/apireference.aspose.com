@@ -1,7 +1,7 @@
 ---
 title: SVGException
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the SVGExceptionaspose.svg/svgexception class.
 type: docs
 weight: 10
 url: /net/aspose.svg/svgexception/svgexception/

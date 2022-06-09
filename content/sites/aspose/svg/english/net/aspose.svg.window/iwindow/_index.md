@@ -1,7 +1,7 @@
 ---
 title: IWindow
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The window object represents a window containing a DOM document.
 type: docs
 weight: 3710
 url: /net/aspose.svg.window/iwindow/

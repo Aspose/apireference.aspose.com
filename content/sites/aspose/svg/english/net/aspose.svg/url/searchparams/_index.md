@@ -1,7 +1,7 @@
 ---
 title: SearchParams
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets an associated IUrlSearchParamsaspose.svg/iurlsearchparams object.
 type: docs
 weight: 120
 url: /net/aspose.svg/url/searchparams/

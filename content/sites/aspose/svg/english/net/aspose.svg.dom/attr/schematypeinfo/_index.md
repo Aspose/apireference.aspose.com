@@ -1,7 +1,7 @@
 ---
 title: SchemaTypeInfo
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The type information associated with this attribute.
 type: docs
 weight: 100
 url: /net/aspose.svg.dom/attr/schematypeinfo/

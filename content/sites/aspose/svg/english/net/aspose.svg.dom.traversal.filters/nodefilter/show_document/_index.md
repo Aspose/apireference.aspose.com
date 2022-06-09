@@ -1,7 +1,7 @@
 ---
 title: SHOW_DOCUMENT
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Show Document nodes.
 type: docs
 weight: 100
 url: /net/aspose.svg.dom.traversal.filters/nodefilter/show_document/

@@ -1,7 +1,7 @@
 ---
 title: Pathname
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets a string representation for the specified URL path.
 type: docs
 weight: 80
 url: /net/aspose.svg/url/pathname/

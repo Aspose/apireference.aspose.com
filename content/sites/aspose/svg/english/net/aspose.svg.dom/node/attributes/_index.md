@@ -1,7 +1,7 @@
 ---
 title: Attributes
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A NamedNodeMap containing the attributes of this node if it is an Element or null otherwise.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/node/attributes/

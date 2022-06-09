@@ -1,7 +1,7 @@
 ---
 title: Red
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This attribute is used for the red value of the RGB color.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/rgbcolor/red/

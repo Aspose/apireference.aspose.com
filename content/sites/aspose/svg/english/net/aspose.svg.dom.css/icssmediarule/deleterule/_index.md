@@ -1,7 +1,7 @@
 ---
 title: DeleteRule
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Used to delete a rule from the media block.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/icssmediarule/deleterule/

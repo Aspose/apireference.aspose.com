@@ -1,7 +1,7 @@
 ---
 title: SurfaceScale
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute surfaceScale on the given feDiffuseLighting element.
 type: docs
 weight: 70
 url: /net/aspose.svg.filters/svgfediffuselightingelement/surfacescale/

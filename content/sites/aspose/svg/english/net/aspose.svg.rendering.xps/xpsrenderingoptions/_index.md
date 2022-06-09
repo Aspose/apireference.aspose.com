@@ -1,7 +1,7 @@
 ---
 title: XpsRenderingOptions
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents rendering options for XpsDevice./xpsdevice.
 type: docs
 weight: 2990
 url: /net/aspose.svg.rendering.xps/xpsrenderingoptions/

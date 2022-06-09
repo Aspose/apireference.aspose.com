@@ -1,7 +1,7 @@
 ---
 title: op_Addition
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Implements the operator .
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/length/op_addition/

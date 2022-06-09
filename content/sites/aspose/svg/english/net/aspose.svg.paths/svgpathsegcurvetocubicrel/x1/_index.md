@@ -1,7 +1,7 @@
 ---
 title: X1
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The relative X coordinate for the first control point.
 type: docs
 weight: 20
 url: /net/aspose.svg.paths/svgpathsegcurvetocubicrel/x1/

@@ -1,7 +1,7 @@
 ---
 title: OnError
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnError event.
 type: docs
 weight: 400
 url: /net/aspose.svg.dom/document/onerror/

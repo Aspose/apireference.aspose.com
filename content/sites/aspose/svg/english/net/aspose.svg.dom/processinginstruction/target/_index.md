@@ -1,7 +1,7 @@
 ---
 title: Target
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The target of this processing instruction.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom/processinginstruction/target/

@@ -1,12 +1,12 @@
 ---
 title: Remove
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Removes the specified key/value pair from the MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit collection.
 type: docs
 weight: 200
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/remove/
 ---
-## MutationObserverInit.Remove method (1 of 2)
+## Remove(KeyValuePair&lt;string, object&gt;) {#remove}
 
 Removes the specified key/value pair from the [`MutationObserverInit`](../../mutationobserverinit) collection.
 
@@ -30,7 +30,7 @@ True if successfully removed; otherwise, false.
 
 ---
 
-## MutationObserverInit.Remove method (2 of 2)
+## Remove(string) {#remove_1}
 
 Removes the value associated with the specified key from the [`MutationObserverInit`](../../mutationobserverinit) collection.
 

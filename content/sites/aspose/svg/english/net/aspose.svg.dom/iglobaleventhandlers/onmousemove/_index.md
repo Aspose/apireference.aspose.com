@@ -1,7 +1,7 @@
 ---
 title: OnMouseMove
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnMouseMove event.
 type: docs
 weight: 270
 url: /net/aspose.svg.dom/iglobaleventhandlers/onmousemove/

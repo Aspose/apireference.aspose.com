@@ -1,7 +1,7 @@
 ---
 title: IBrowsingContext
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A browsing context is an environment in which Document./document objects are presented to the user.
 type: docs
 weight: 1020
 url: /net/aspose.svg.dom/ibrowsingcontext/

@@ -1,7 +1,7 @@
 ---
 title: ShiftKey
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Refer to the shiftKey attribute.
 type: docs
 weight: 120
 url: /net/aspose.svg.dom.events/mouseevent/shiftkey/

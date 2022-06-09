@@ -1,7 +1,7 @@
 ---
 title: Smooth
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Smoothes the trace.
 type: docs
 weight: 30
 url: /net/aspose.svg.imagevectorization/imagetracesmoother/smooth/

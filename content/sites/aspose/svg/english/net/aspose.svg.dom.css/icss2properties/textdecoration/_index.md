@@ -1,7 +1,7 @@
 ---
 title: TextDecoration
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the text-decoration property definition in CSS2.
 type: docs
 weight: 1080
 url: /net/aspose.svg.dom.css/icss2properties/textdecoration/

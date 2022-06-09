@@ -1,7 +1,7 @@
 ---
 title: Children
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the child elements of current element.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom/element/children/

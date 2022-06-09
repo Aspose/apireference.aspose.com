@@ -1,7 +1,7 @@
 ---
 title: op_LessThan
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Implements the operator lt.
 type: docs
 weight: 60
 url: /net/aspose.svg.drawing/length/op_lessthan/

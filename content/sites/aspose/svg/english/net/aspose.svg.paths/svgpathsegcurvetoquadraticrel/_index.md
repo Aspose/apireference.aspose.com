@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoQuadraticRel
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGPathSegCurvetoQuadraticRel interface corresponds to a relative quadratic Bézier curveto q path data command.
 type: docs
 weight: 2520
 url: /net/aspose.svg.paths/svgpathsegcurvetoquadraticrel/

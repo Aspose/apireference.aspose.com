@@ -1,7 +1,7 @@
 ---
 title: Method
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute method on the given textPath element.
 type: docs
 weight: 20
 url: /net/aspose.svg/svgtextpathelement/method/

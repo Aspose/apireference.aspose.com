@@ -1,7 +1,7 @@
 ---
 title: GetPropertyValue
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Used to retrieve the value of a CSS property if it has been explicitly set within this declaration block.
 type: docs
 weight: 70
 url: /net/aspose.svg.dom.css/icssstyledeclaration/getpropertyvalue/

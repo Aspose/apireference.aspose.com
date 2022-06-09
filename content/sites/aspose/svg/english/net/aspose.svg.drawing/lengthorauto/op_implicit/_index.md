@@ -1,7 +1,7 @@
 ---
 title: op_Implicit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Performs an implicit conversion from Lengthaspose.svg.drawing/lengthorauto/length to LengthOrAutoaspose.svg.drawing/lengthorauto.
 type: docs
 weight: 80
 url: /net/aspose.svg.drawing/lengthorauto/op_implicit/

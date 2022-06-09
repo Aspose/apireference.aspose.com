@@ -1,7 +1,7 @@
 ---
 title: SVGComponentTransferFunctionElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This interface defines a base interface used by the component transfer function interfaces.
 type: docs
 weight: 3070
 url: /net/aspose.svg/svgcomponenttransferfunctionelement/

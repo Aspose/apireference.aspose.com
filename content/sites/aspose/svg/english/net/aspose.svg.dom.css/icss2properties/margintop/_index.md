@@ -1,7 +1,7 @@
 ---
 title: MarginTop
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the margin-top property definition in CSS2.
 type: docs
 weight: 670
 url: /net/aspose.svg.dom.css/icss2properties/margintop/

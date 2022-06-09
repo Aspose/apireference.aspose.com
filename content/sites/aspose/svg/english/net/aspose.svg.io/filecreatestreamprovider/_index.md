@@ -1,7 +1,7 @@
 ---
 title: FileCreateStreamProvider
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents FileStream implementation for providing streams to the rendering devices.
 type: docs
 weight: 1880
 url: /net/aspose.svg.io/filecreatestreamprovider/
@@ -18,9 +18,9 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 
 | Name | Description |
 | --- | --- |
-| [FileCreateStreamProvider](filecreatestreamprovider)() | Initializes a new instance of the [`FileCreateStreamProvider`](../filecreatestreamprovider) class. |
-| [FileCreateStreamProvider](filecreatestreamprovider)(string) | Initializes a new instance of the [`FileCreateStreamProvider`](../filecreatestreamprovider) class. |
-| [FileCreateStreamProvider](filecreatestreamprovider)(string, string) | Initializes a new instance of the [`FileCreateStreamProvider`](../filecreatestreamprovider) class. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor)() | Initializes a new instance of the [`FileCreateStreamProvider`](../filecreatestreamprovider) class. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor_1)(string) | Initializes a new instance of the [`FileCreateStreamProvider`](../filecreatestreamprovider) class. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor_2)(string, string) | Initializes a new instance of the [`FileCreateStreamProvider`](../filecreatestreamprovider) class. |
 
 ## Properties
 
@@ -34,8 +34,8 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream)(string, string) | Provides a stream for rendering. |
-| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream)(string, string, int) | Provides a stream for rendering. |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream#getstream)(string, string) | Provides a stream for rendering. |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream#getstream_1)(string, string, int) | Provides a stream for rendering. |
 | [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream)(Stream) | Releases the stream. |
 
 ### See Also

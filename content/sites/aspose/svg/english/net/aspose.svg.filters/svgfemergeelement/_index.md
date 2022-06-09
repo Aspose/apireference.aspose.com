@@ -1,7 +1,7 @@
 ---
 title: SVGFEMergeElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGFEMergeElement interface corresponds to the feMerge element.
 type: docs
 weight: 1780
 url: /net/aspose.svg.filters/svgfemergeelement/

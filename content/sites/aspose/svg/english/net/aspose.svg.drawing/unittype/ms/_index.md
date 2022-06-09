@@ -1,7 +1,7 @@
 ---
 title: Ms
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is in milliseconds.
 type: docs
 weight: 160
 url: /net/aspose.svg.drawing/unittype/ms/

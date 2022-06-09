@@ -1,7 +1,7 @@
 ---
 title: In1
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute in on the given feSpecularLighting element.
 type: docs
 weight: 20
 url: /net/aspose.svg.filters/svgfespecularlightingelement/in1/

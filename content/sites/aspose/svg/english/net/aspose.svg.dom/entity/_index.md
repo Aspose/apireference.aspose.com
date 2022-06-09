@@ -1,7 +1,7 @@
 ---
 title: Entity
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents a known entity either parsed or unparsed in an XML document.
 type: docs
 weight: 850
 url: /net/aspose.svg.dom/entity/

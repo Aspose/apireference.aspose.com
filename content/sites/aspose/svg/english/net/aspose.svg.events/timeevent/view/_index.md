@@ -1,7 +1,7 @@
 ---
 title: View
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The view attribute identifies the AbstractView DOM2VIEWS from which the event was generated.
 type: docs
 weight: 20
 url: /net/aspose.svg.events/timeevent/view/

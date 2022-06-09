@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The value of the given attribute.
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svgnumber/value/

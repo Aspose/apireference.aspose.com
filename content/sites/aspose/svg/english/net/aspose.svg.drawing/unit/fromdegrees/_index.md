@@ -1,7 +1,7 @@
 ---
 title: FromDegrees
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Angleaspose.svg.drawing/angle object that is represented in degrees.
 type: docs
 weight: 60
 url: /net/aspose.svg.drawing/unit/fromdegrees/

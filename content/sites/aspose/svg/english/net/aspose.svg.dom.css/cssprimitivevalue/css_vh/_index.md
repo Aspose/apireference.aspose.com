@@ -1,7 +1,7 @@
 ---
 title: CSS_VH
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The value is a percentage of the full viewport height.
 type: docs
 weight: 420
 url: /net/aspose.svg.dom.css/cssprimitivevalue/css_vh/

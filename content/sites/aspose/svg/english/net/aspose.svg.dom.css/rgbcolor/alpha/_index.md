@@ -1,7 +1,7 @@
 ---
 title: Alpha
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This attribute is used for the alpha value of the RGB color.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/rgbcolor/alpha/

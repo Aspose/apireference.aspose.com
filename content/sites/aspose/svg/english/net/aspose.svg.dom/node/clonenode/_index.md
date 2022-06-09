@@ -1,12 +1,12 @@
 ---
 title: CloneNode
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a duplicate of this node i.e. serves as a generic copy constructor for nodes. The duplicate node has no parent parentNode is null and no user data.
 type: docs
 weight: 190
 url: /net/aspose.svg.dom/node/clonenode/
 ---
-## Node.CloneNode method (1 of 2)
+## CloneNode() {#clonenode}
 
 Returns a duplicate of this node, i.e., serves as a generic copy constructor for nodes. The duplicate node has no parent (parentNode is null) and no user data.
 
@@ -26,7 +26,7 @@ Returns node
 
 ---
 
-## Node.CloneNode method (2 of 2)
+## CloneNode(bool) {#clonenode_1}
 
 Returns a duplicate of this node, i.e., serves as a generic copy constructor for nodes. The duplicate node has no parent (parentNode is null) and no user data.
 

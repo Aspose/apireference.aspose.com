@@ -1,7 +1,7 @@
 ---
 title: PreserveAspectRatio
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute preserveAspectRatio on the given element.
 type: docs
 weight: 60
 url: /net/aspose.svg/svgpatternelement/preserveaspectratio/

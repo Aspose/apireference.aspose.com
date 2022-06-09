@@ -1,7 +1,7 @@
 ---
 title: GetNamedItem
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Retrieves a node specified by name.
 type: docs
 weight: 40
 url: /net/aspose.svg.collections/namednodemap/getnameditem/

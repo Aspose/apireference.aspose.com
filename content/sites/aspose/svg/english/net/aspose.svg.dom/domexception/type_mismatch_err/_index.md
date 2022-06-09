@@ -1,7 +1,7 @@
 ---
 title: TYPE_MISMATCH_ERR
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: If the type of an object is incompatible with the expected type of the parameter associated to the object.
 type: docs
 weight: 280
 url: /net/aspose.svg.dom/domexception/type_mismatch_err/

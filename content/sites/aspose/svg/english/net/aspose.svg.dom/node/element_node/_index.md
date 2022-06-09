@@ -1,7 +1,7 @@
 ---
 title: ELEMENT_NODE
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: An element node
 type: docs
 weight: 380
 url: /net/aspose.svg.dom/node/element_node/

@@ -1,7 +1,7 @@
 ---
 title: Send
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sends a RequestMessageaspose.svg.net/requestmessage message.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/inetwork/send/

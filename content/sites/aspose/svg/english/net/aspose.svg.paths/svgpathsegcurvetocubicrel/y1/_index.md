@@ -1,7 +1,7 @@
 ---
 title: Y1
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The relative Y coordinate for the first control point.
 type: docs
 weight: 50
 url: /net/aspose.svg.paths/svgpathsegcurvetocubicrel/y1/

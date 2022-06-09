@@ -1,7 +1,7 @@
 ---
 title: NodeFilter
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Filters are objects that know how to filter out nodes.
 type: docs
 weight: 1210
 url: /net/aspose.svg.dom.traversal.filters/nodefilter/

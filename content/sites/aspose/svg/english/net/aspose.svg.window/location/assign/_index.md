@@ -1,7 +1,7 @@
 ---
 title: Assign
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Navigates to the given page.
 type: docs
 weight: 10
 url: /net/aspose.svg.window/location/assign/

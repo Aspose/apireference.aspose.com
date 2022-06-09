@@ -1,7 +1,7 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Specific options data class.
 type: docs
 weight: 3540
 url: /net/aspose.svg.saving/imagesaveoptions/
@@ -18,8 +18,8 @@ public class ImageSaveOptions : ImageRenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions)() | Initializes a new instance of the [`ImageSaveOptions`](../imagesaveoptions) class; Png will be used as default image format. |
-| [ImageSaveOptions](imagesaveoptions)(ImageFormat) | Image format [`ImageFormat`](../../aspose.svg.rendering.image/imageformat) based on initialization |
+| [ImageSaveOptions](imagesaveoptions#constructor)() | Initializes a new instance of the [`ImageSaveOptions`](../imagesaveoptions) class; Png will be used as default image format. |
+| [ImageSaveOptions](imagesaveoptions#constructor_1)(ImageFormat) | Image format [`ImageFormat`](../../aspose.svg.rendering.image/imageformat) based on initialization |
 
 ## Properties
 

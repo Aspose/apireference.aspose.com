@@ -1,7 +1,7 @@
 ---
 title: ShiftKey
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: true if the shift Shift key modifier was active.
 type: docs
 weight: 100
 url: /net/aspose.svg.dom.events/keyboardevent/shiftkey/

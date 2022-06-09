@@ -1,7 +1,7 @@
 ---
 title: Compression
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Specifies the possible compression schemes for Tagged Image File Format TIFF bitmap images.
 type: docs
 weight: 2750
 url: /net/aspose.svg.rendering.image/compression/

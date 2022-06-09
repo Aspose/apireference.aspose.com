@@ -1,7 +1,7 @@
 ---
 title: Notation
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents a notation declared in the DTD.
 type: docs
 weight: 1160
 url: /net/aspose.svg.dom/notation/

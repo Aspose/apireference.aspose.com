@@ -1,7 +1,7 @@
 ---
 title: Subject
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The subject of the document.
 type: docs
 weight: 70
 url: /net/aspose.svg.rendering.pdf/pdfdocumentinfo/subject/

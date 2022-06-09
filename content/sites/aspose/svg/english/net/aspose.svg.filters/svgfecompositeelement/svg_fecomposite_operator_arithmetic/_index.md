@@ -1,7 +1,7 @@
 ---
 title: SVG_FECOMPOSITE_OPERATOR_ARITHMETIC
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value arithmetic.
 type: docs
 weight: 130
 url: /net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_arithmetic/

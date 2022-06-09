@@ -1,7 +1,7 @@
 ---
 title: XChannelSelector
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute xChannelSelector on the given feDisplacementMap element. Takes one of the SVG_CHANNEL_ constants defined on this interface.
 type: docs
 weight: 80
 url: /net/aspose.svg.filters/svgfedisplacementmapelement/xchannelselector/

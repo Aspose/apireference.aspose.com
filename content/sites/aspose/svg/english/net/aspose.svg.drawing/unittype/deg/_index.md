@@ -1,7 +1,7 @@
 ---
 title: Deg
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is in degrees.
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/unittype/deg/

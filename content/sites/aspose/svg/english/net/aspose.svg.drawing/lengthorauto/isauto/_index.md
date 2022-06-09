@@ -1,7 +1,7 @@
 ---
 title: IsAuto
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a value indicating whether this instance is in auto.
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/lengthorauto/isauto/

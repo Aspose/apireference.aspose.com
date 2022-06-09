@@ -1,7 +1,7 @@
 ---
 title: Rx
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute cx on the given circle element.
 type: docs
 weight: 30
 url: /net/aspose.svg/svgellipseelement/rx/
