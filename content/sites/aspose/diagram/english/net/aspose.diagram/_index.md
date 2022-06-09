@@ -91,7 +91,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [Field](./field) | Contains elements that specify functions and formulas inserted in the shape's text. |
 | [FieldCollection](./fieldcollection) | Field collection. |
 | [FileFontSource](./filefontsource) | Represents the single TrueType font file stored in the file system. |
-| [FileFormatInfo](./fileformatinfo) | Contains data returned by [`FileFormatUtil`](aspose.diagram/fileformatutil) file format detection methods. |
+| [FileFormatInfo](./fileformatinfo) | Contains data returned by [`FileFormatUtil`](../aspose.diagram/fileformatutil) file format detection methods. |
 | [FileFormatUtil](./fileformatutil) | Provides utility methods for converting file format enums to strings or file extensions and back. |
 | [Fill](./fill) | Contains the current fill formatting values for the shape and the shape's drop shadow, including pattern, foreground color, and background color. |
 | [Fld](./fld) | Indicates a text-field insertion point for the corresponding Field element. |
@@ -121,7 +121,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [Hyperlink](./hyperlink) | Contains elements for creating multiple jumps between a shape or drawing page and another drawing page, another file, or a Web site. |
 | [HyperlinkCollection](./hyperlinkcollection) | Hyperlink collection. |
 | [Image](./image) | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
-| [IndividualFontConfigs](./individualfontconfigs) | Font configs for each [`Diagram`](aspose.diagram/diagram) object. |
+| [IndividualFontConfigs](./individualfontconfigs) | Font configs for each [`Diagram`](../aspose.diagram/diagram) object. |
 | [InfiniteLine](./infiniteline) | Contains elements specifying the x- and y-coordinates of two points on an infinite line. The X and Y elements specify the x- and y-coordinates of the first point, and the A and B elements specify the x- and y-coordinates of the second point. |
 | [InfiniteLineCollection](./infinitelinecollection) | InfiniteLine collection. |
 | [InterruptMonitor](./interruptmonitor) | Represents all operator about the interrupt. |
