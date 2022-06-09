@@ -1,7 +1,7 @@
 ---
 title: CorrectSpelling
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Corrects text replaces misspelled words.
 type: docs
 weight: 40
 url: /net/aspose.ocr/asposeocr/correctspelling/

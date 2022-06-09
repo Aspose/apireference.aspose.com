@@ -1,9 +1,9 @@
 ---
 title: DocumentRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Settings for the pdf recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.ocr/documentrecognitionsettings/
 ---
 ## DocumentRecognitionSettings class
@@ -18,8 +18,8 @@ public class DocumentRecognitionSettings
 
 | Name | Description |
 | --- | --- |
-| [DocumentRecognitionSettings](documentrecognitionsettings)(int, int) | Initializes a new instance of the [`DocumentRecognitionSettings`](../documentrecognitionsettings) class with short set of properties. |
-| [DocumentRecognitionSettings](documentrecognitionsettings)(int, int, Language, bool, bool, int) | Initializes a new instance of the [`DocumentRecognitionSettings`](../documentrecognitionsettings) class with full set of properties. |
+| [DocumentRecognitionSettings](documentrecognitionsettings#constructor)(int, int) | Initializes a new instance of the [`DocumentRecognitionSettings`](../documentrecognitionsettings) class with short set of properties. |
+| [DocumentRecognitionSettings](documentrecognitionsettings#constructor_1)(int, int, Language, bool, bool, int) | Initializes a new instance of the [`DocumentRecognitionSettings`](../documentrecognitionsettings) class with full set of properties. |
 
 ## Properties
 

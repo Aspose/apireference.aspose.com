@@ -1,12 +1,12 @@
 ---
 title: RecognizeLine
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Recognizes image that contains single line of text.  Automatic image skew correction is not applied. Supports GIF PNG JPEG BMP TIFF.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/asposeocr/recognizeline/
 ---
-## AsposeOcr.RecognizeLine method (1 of 2)
+## RecognizeLine(string) {#recognizeline_1}
 
 Recognizes image that contains single line of text.  Automatic image skew correction is not applied. Supports GIF, PNG, JPEG, BMP, TIFF.
 
@@ -30,7 +30,7 @@ Recognized text.
 
 ---
 
-## AsposeOcr.RecognizeLine method (2 of 2)
+## RecognizeLine(MemoryStream) {#recognizeline}
 
 Recognizes image that contains single line of text.  Automatic image skew correction is not applied. Supports GIF, PNG, JPEG, BMP, TIFF.
 

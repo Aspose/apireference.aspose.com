@@ -1,9 +1,9 @@
 ---
 title: SpellCheckLanguage
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Languages used for SpellCheck existing dictionaries.
 type: docs
-weight: 160
+weight: 140
 url: /net/aspose.ocr.spellchecker/spellchecklanguage/
 ---
 ## SpellCheckLanguage enumeration

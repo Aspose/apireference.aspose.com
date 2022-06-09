@@ -1,9 +1,9 @@
 ---
 title: CharactersAllowedType
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Determines the type of characters allowed for recognition result.
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.ocr/charactersallowedtype/
 ---
 ## CharactersAllowedType enumeration

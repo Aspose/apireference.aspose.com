@@ -1,7 +1,7 @@
 ---
 title: Word
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: The suggested correctly spelled word.
 type: docs
 weight: 20
 url: /net/aspose.ocr.spellchecker/suggestedword/word/

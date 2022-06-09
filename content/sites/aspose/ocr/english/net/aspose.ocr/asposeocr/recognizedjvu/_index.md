@@ -1,7 +1,7 @@
 ---
 title: RecognizeDjvu
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Recognize text from multi-page DJVU image.  Recognizes DJVU file with the ability to specify DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings. Supports DJVU only. Doesnt supports other image types.
 type: docs
 weight: 70
 url: /net/aspose.ocr/asposeocr/recognizedjvu/

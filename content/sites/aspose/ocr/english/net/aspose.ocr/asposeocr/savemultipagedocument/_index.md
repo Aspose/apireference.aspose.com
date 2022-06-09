@@ -1,12 +1,12 @@
 ---
 title: SaveMultipageDocument
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Allows to get multipage document from list of RecognitionResult objects
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.ocr/asposeocr/savemultipagedocument/
 ---
-## AsposeOcr.SaveMultipageDocument method (1 of 2)
+## SaveMultipageDocument(string, SaveFormat, List&lt;RecognitionResult&gt;) {#savemultipagedocument_1}
 
 Allows to get multipage document from list of RecognitionResult objects
 
@@ -31,7 +31,7 @@ public static void SaveMultipageDocument(string fullFileName, SaveFormat saveFor
 
 ---
 
-## AsposeOcr.SaveMultipageDocument method (2 of 2)
+## SaveMultipageDocument(MemoryStream, SaveFormat, List&lt;RecognitionResult&gt;) {#savemultipagedocument}
 
 Allows to get multipage document from list of RecognitionResult objects
 

@@ -1,9 +1,9 @@
 ---
 title: PreprocessingFilter
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Base class for image processing commands.
 type: docs
-weight: 100
+weight: 150
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/
 ---
 ## PreprocessingFilter class
@@ -29,11 +29,11 @@ public class PreprocessingFilter : IEnumerable
 | static [Dilate](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/dilate)() | Dilation adds pixels to the boundaries of objects in an image. |
 | static [Invert](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/invert)() | Automatically inverts colors in a document image. |
 | static [Median](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/median)() | The median filter run through each element of the image and replace each pixel with the median of its neighboring pixels. |
-| static [Resize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize)(int, int) | Rescale image - Upscale or downscale image resolution. InterpolationFilterType = Lanczos8 |
-| static [Resize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize)(int, int, InterpolationFilterType) | Rescale image - Upscale or downscale image resolution. |
+| static [Resize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize#resize)(int, int) | Rescale image - Upscale or downscale image resolution. InterpolationFilterType = Lanczos8 |
+| static [Resize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize#resize_1)(int, int, InterpolationFilterType) | Rescale image - Upscale or downscale image resolution. |
 | static [Rotate](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/rotate)(float) | Rotate original image. |
-| static [Scale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale)(float) | Rescale image - Upscale or downscale image resolution. InterpolationFilterType = Lanczos8 |
-| static [Scale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale)(float, InterpolationFilterType) | Rescale image - Upscale or downscale image resolution. |
+| static [Scale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale#scale)(float) | Rescale image - Upscale or downscale image resolution. InterpolationFilterType = Lanczos8 |
+| static [Scale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale#scale_1)(float, InterpolationFilterType) | Rescale image - Upscale or downscale image resolution. |
 | static [Threshold](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/threshold)(int) | Create a binary image based on setting a threshold value on the pixel intensity of the original image. |
 | static [ToGrayscale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/tograyscale)() | Converts an image to grayscale image. Grayscale image have 256 level of light in image (0 to 255). |
 | [Add](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/add)(PreprocessingFilter) | Add the new filter to the collection to further run all operations. Consistency in the collection matters. |

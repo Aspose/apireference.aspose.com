@@ -1,7 +1,7 @@
 ---
 title: RecognitionAreasRectangles
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Gets rectangles coordinates.
 type: docs
 weight: 10
 url: /net/aspose.ocr/recognitionresult/recognitionareasrectangles/

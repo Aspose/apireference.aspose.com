@@ -1,7 +1,7 @@
 ---
 title: ToGrayscale
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Converts an image to grayscale image. Grayscale image have 256 level of light in image 0 to 255.
 type: docs
 weight: 110
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/tograyscale/

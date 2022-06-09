@@ -1,9 +1,9 @@
 ---
 title: SuggestedWord
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Spelling suggestion returned from GetSpellCheckErrorList.
 type: docs
-weight: 170
+weight: 130
 url: /net/aspose.ocr.spellchecker/suggestedword/
 ---
 ## SuggestedWord structure

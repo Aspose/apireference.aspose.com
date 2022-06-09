@@ -1,7 +1,7 @@
 ---
 title: Allowed
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Allowed characters set. Determines the type of characters allowed for recognition result.
 type: docs
 weight: 20
 url: /net/aspose.ocr/documentrecognitionsettings/allowed/

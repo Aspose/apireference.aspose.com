@@ -1,7 +1,7 @@
 ---
 title: GetJson
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Form JSON string with recognition results.
 type: docs
 weight: 80
 url: /net/aspose.ocr/recognitionresult/getjson/
@@ -11,8 +11,12 @@ url: /net/aspose.ocr/recognitionresult/getjson/
 Form JSON string with recognition results.
 
 ```csharp
-public string GetJson()
+public string GetJson(bool isReadable = false)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| isReadable | Boolean | Determines whether json will be human readable. |
 
 ### Return Value
 

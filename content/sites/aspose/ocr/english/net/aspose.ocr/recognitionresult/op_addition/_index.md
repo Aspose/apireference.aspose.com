@@ -1,9 +1,9 @@
 ---
 title: op_Addition
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: To complete the full result from recognized fragments lines.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.ocr/recognitionresult/op_addition/
 ---
 ## RecognitionResult Addition operator

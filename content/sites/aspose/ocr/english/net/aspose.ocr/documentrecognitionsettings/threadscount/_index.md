@@ -1,7 +1,7 @@
 ---
 title: ThreadsCount
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Gets or sets the number of threads for processing. By default 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount  1 means that the image will be processed in the main thread.
 type: docs
 weight: 120
 url: /net/aspose.ocr/documentrecognitionsettings/threadscount/

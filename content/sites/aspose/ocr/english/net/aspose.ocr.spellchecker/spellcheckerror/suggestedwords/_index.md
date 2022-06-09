@@ -1,7 +1,7 @@
 ---
 title: SuggestedWords
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: list of objects with suggested correct spellings
 type: docs
 weight: 30
 url: /net/aspose.ocr.spellchecker/spellcheckerror/suggestedwords/

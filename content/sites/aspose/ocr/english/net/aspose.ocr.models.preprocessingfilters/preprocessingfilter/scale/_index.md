@@ -1,12 +1,12 @@
 ---
 title: Scale
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Rescale image - Upscale or downscale image resolution. InterpolationFilterType  Lanczos8
 type: docs
 weight: 90
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale/
 ---
-## PreprocessingFilter.Scale method (1 of 2)
+## Scale(float) {#scale}
 
 Rescale image - Upscale or downscale image resolution. InterpolationFilterType = Lanczos8
 
@@ -30,7 +30,7 @@ ScaleFilter object.
 
 ---
 
-## PreprocessingFilter.Scale method (2 of 2)
+## Scale(float, InterpolationFilterType) {#scale_1}
 
 Rescale image - Upscale or downscale image resolution.
 

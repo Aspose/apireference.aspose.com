@@ -1,7 +1,7 @@
 ---
 title: StartPage
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Set the first page for recognition.
 type: docs
 weight: 110
 url: /net/aspose.ocr/documentrecognitionsettings/startpage/

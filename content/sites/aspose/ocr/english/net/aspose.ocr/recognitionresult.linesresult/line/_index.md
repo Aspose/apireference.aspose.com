@@ -1,7 +1,7 @@
 ---
 title: Line
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Row coordinates.
 type: docs
 weight: 20
 url: /net/aspose.ocr/recognitionresult.linesresult/line/

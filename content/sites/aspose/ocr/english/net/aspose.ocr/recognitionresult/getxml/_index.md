@@ -1,18 +1,22 @@
 ---
-title: Skew
+title: GetXml
 second_title: Aspose.OCR for .NET API Reference
-description: Gets skew angle.
+description: Form XML string with recognition results.
 type: docs
-weight: 60
-url: /net/aspose.ocr/recognitionresult/skew/
+weight: 110
+url: /net/aspose.ocr/recognitionresult/getxml/
 ---
-## RecognitionResult.Skew property
+## RecognitionResult.GetXml method
 
-Gets skew angle.
+Form XML string with recognition results.
 
 ```csharp
-public float Skew { get; }
+public string GetXml()
 ```
+
+### Return Value
+
+Recognition results as a string XML serialized.
 
 ### See Also
 

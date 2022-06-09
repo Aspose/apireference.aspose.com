@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Msspelled words length in the input text.
 type: docs
 weight: 10
 url: /net/aspose.ocr.spellchecker/spellcheckerror/length/

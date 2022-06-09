@@ -1,9 +1,9 @@
 ---
 title: RecognitionResult
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: The results of the image recognition. Contains elements with recognition information and methods for result export.
 type: docs
-weight: 110
+weight: 90
 url: /net/aspose.ocr/recognitionresult/
 ---
 ## RecognitionResult class
@@ -30,11 +30,12 @@ public class RecognitionResult
 
 | Name | Description |
 | --- | --- |
-| [GetJson](../../aspose.ocr/recognitionresult/getjson)() | Form JSON string with recognition results. |
+| [GetJson](../../aspose.ocr/recognitionresult/getjson)(bool) | Form JSON string with recognition results. |
 | [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
 | [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | Find the misspelled words with suggested spellings for a given input text. |
-| [Save](../../aspose.ocr/recognitionresult/save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [Save](../../aspose.ocr/recognitionresult/save)(string, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [GetXml](../../aspose.ocr/recognitionresult/getxml)() | Form XML string with recognition results. |
+| [Save](../../aspose.ocr/recognitionresult/save#save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save_1)(string, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
 | [operator +](../../aspose.ocr/recognitionresult/op_addition) | To complete the full result from recognized fragments (lines). |
 
 ## Other Members

@@ -1,9 +1,9 @@
 ---
 title: DetectAreasMode
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Determines the type of neural network used for areas detection.
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.ocr/detectareasmode/
 ---
 ## DetectAreasMode enumeration
@@ -22,6 +22,7 @@ public enum DetectAreasMode
 | DOCUMENT | `1` | Detects paragraphs uses NN model for documents. Better for multicolumn document, document with pictures or with other not text objects. |
 | PHOTO | `2` | Detects paragraphs uses NN model for photos. Better for image with a lot of pictures and other not text objects. |
 | COMBINE | `3` | Detects paragraphs with text and then uses other NN model to detect areas inside of paragraphs. Better for images with complex structure. |
+| TABLE | `4` | Detects cells with text. Better for images with table structure. |
 
 ### Remarks
 

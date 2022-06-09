@@ -1,7 +1,7 @@
 ---
 title: PagesNumber
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: Set the number of pages for recognition multipage pdf file.
 type: docs
 weight: 100
 url: /net/aspose.ocr/documentrecognitionsettings/pagesnumber/
