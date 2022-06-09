@@ -1,7 +1,7 @@
 ---
 title: FromCentimeters
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Lengthaspose.svg.drawing/length object that is represented in centimeters.
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/unit/fromcentimeters/

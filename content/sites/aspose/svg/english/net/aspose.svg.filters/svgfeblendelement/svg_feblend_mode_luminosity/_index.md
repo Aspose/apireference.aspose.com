@@ -1,7 +1,7 @@
 ---
 title: SVG_FEBLEND_MODE_LUMINOSITY
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value luminosity.
 type: docs
 weight: 180
 url: /net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_luminosity/

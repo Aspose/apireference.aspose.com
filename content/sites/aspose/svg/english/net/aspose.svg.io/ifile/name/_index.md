@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name of the file. On getting this must return the name of the file as a string.
 type: docs
 weight: 20
 url: /net/aspose.svg.io/ifile/name/

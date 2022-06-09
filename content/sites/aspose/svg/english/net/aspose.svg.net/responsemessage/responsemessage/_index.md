@@ -1,7 +1,7 @@
 ---
 title: ResponseMessage
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the ResponseMessageaspose.svg.net/responsemessage class.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/responsemessage/responsemessage/

@@ -1,7 +1,7 @@
 ---
 title: MaskContentUnits
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute maskContentUnits on the given mask element. Takes one of the constants defined in SVGUnitTypes.
 type: docs
 weight: 20
 url: /net/aspose.svg/svgmaskelement/maskcontentunits/

@@ -1,7 +1,7 @@
 ---
 title: MutationCallback
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents the method that will handle a mutation events.
 type: docs
 weight: 1110
 url: /net/aspose.svg.dom.mutations/mutationcallback/

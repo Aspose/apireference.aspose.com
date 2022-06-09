@@ -1,7 +1,7 @@
 ---
 title: CtrlKey
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Refer to the ctrlKey attribute.
 type: docs
 weight: 70
 url: /net/aspose.svg.dom.events/mouseevent/ctrlkey/

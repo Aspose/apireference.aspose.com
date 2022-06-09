@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The absolute X coordinate for the end point of this path segment.
 type: docs
 weight: 10
 url: /net/aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/x/

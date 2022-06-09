@@ -1,7 +1,7 @@
 ---
 title: Evaluate
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Evaluates this XPath expression and returns a result.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.xpath/ixpathexpression/evaluate/

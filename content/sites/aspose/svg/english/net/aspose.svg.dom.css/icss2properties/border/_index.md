@@ -1,7 +1,7 @@
 ---
 title: Border
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the border property definition in CSS2.
 type: docs
 weight: 80
 url: /net/aspose.svg.dom.css/icss2properties/border/

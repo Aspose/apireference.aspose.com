@@ -1,7 +1,7 @@
 ---
 title: Author
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name of the person who created the document.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.pdf/pdfdocumentinfo/author/

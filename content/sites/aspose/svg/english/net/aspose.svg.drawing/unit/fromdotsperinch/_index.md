@@ -1,7 +1,7 @@
 ---
 title: FromDotsPerInch
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Resolutionaspose.svg.drawing/resolution object that is represented in dots per inch.
 type: docs
 weight: 80
 url: /net/aspose.svg.drawing/unit/fromdotsperinch/

@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Adds the specified tokens to the list.
 type: docs
 weight: 40
 url: /net/aspose.svg.collections/domtokenlist/add/

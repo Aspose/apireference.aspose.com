@@ -1,7 +1,7 @@
 ---
 title: GetPlatformType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This method is used to retrieve ECMAScript object Type.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.css/cssvalue/getplatformtype/

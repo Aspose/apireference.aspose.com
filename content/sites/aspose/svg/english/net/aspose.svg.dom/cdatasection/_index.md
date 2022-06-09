@@ -1,7 +1,7 @@
 ---
 title: CDATASection
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: CDATA sections are used to escape blocks of text containing characters that would otherwise be regarded as markup.
 type: docs
 weight: 440
 url: /net/aspose.svg.dom/cdatasection/

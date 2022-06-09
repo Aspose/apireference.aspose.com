@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the parameter name.
 type: docs
 weight: 10
 url: /net/aspose.svg.net.headers/namevalueheadervalue/name/

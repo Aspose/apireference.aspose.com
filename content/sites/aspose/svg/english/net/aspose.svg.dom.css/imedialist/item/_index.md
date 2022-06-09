@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the indexth in the list. If index is greater than or equal to the number of media in the list this returns null. The media index.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/imedialist/item/

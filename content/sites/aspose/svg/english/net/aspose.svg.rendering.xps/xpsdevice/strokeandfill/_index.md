@@ -1,7 +1,7 @@
 ---
 title: StrokeAndFill
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Strokes and fill current path. This method terminates current path.
 type: docs
 weight: 190
 url: /net/aspose.svg.rendering.xps/xpsdevice/strokeandfill/

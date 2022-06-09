@@ -1,7 +1,7 @@
 ---
 title: SVG_PRESERVEASPECTRATIO_NONE
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value none for attribute preserveAspectRatio.
 type: docs
 weight: 70
 url: /net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_none/

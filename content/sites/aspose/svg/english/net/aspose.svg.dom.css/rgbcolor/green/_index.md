@@ -1,7 +1,7 @@
 ---
 title: Green
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This attribute is used for the green value of the RGB color.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/rgbcolor/green/

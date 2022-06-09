@@ -1,7 +1,7 @@
 ---
 title: ParentElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the parent Elementaspose.svg.dom/element of this node.
 type: docs
 weight: 130
 url: /net/aspose.svg.dom/node/parentelement/

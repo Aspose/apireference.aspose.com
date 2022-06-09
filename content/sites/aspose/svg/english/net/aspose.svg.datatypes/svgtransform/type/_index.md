@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The type of the value as specified by one of the SVG_TRANSFORM_ constants defined on this interface.
 type: docs
 weight: 30
 url: /net/aspose.svg.datatypes/svgtransform/type/

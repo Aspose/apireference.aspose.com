@@ -1,7 +1,7 @@
 ---
 title: SVGLength
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGLength interface corresponds to the length basic data type. An SVGLength object can be designated as read only which means that attempts to modify the object will result in an exception being thrown as described below.
 type: docs
 weight: 220
 url: /net/aspose.svg.datatypes/svglength/

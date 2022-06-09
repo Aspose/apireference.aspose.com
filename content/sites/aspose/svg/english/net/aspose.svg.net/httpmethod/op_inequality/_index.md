@@ -1,7 +1,7 @@
 ---
 title: op_Inequality
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Implements the equality operator.
 type: docs
 weight: 110
 url: /net/aspose.svg.net/httpmethod/op_inequality/

@@ -1,7 +1,7 @@
 ---
 title: CSSRules
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A list of all CSS rules contained within the media block.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icssmediarule/cssrules/

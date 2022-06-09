@@ -1,12 +1,12 @@
 ---
 title: KeyboardEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the KeyboardEventaspose.svg.dom.events/keyboardevent class.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.events/keyboardevent/keyboardevent/
 ---
-## KeyboardEvent constructor (1 of 2)
+## KeyboardEvent(string) {#constructor}
 
 Initializes a new instance of the [`KeyboardEvent`](../../keyboardevent) class.
 
@@ -26,7 +26,7 @@ public KeyboardEvent(string type)
 
 ---
 
-## KeyboardEvent constructor (2 of 2)
+## KeyboardEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
 Initializes a new instance of the [`KeyboardEvent`](../../keyboardevent) class.
 

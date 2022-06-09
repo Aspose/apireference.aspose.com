@@ -1,7 +1,7 @@
 ---
 title: MediaType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Specifies possible media types used during rendering.
 type: docs
 weight: 2820
 url: /net/aspose.svg.rendering/mediatype/

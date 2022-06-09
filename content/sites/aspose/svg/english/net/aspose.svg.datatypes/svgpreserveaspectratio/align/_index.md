@@ -1,7 +1,7 @@
 ---
 title: Align
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The type of the alignment value as specified by one of the SVG_PRESERVEASPECTRATIO_ constants defined on this interface.
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svgpreserveaspectratio/align/

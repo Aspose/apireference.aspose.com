@@ -1,7 +1,7 @@
 ---
 title: Elevation
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute elevation on the given feDistantLight element.
 type: docs
 weight: 20
 url: /net/aspose.svg.filters/svgfedistantlightelement/elevation/

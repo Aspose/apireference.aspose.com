@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The Height coordinate of the rectangle in user units.
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svgrect/height/

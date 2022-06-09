@@ -1,7 +1,7 @@
 ---
 title: UIEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The UIEvent interface provides specific contextual information associated with User Interface events.
 type: docs
 weight: 1000
 url: /net/aspose.svg.dom.events/uievent/
@@ -18,8 +18,8 @@ public class UIEvent : Event
 
 | Name | Description |
 | --- | --- |
-| [UIEvent](uievent)(string) | Initializes a new instance of the [`UIEvent`](../uievent) class. |
-| [UIEvent](uievent)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`UIEvent`](../uievent) class. |
+| [UIEvent](uievent#constructor)(string) | Initializes a new instance of the [`UIEvent`](../uievent) class. |
+| [UIEvent](uievent#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`UIEvent`](../uievent) class. |
 
 ## Properties
 

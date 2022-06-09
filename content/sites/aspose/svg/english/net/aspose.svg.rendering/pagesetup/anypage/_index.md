@@ -1,7 +1,7 @@
 ---
 title: AnyPage
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets all pages configuration in the the page-sequence.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/pagesetup/anypage/

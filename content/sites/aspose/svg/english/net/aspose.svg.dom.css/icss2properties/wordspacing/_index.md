@@ -1,7 +1,7 @@
 ---
 title: WordSpacing
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the word-spacing property definition in CSS2.
 type: docs
 weight: 1210
 url: /net/aspose.svg.dom.css/icss2properties/wordspacing/

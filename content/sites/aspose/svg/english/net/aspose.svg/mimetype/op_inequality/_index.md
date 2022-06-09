@@ -1,7 +1,7 @@
 ---
 title: op_Inequality
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Compares two Mime type and returns a boolean indicating if the two do match.
 type: docs
 weight: 100
 url: /net/aspose.svg/mimetype/op_inequality/

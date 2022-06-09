@@ -1,7 +1,7 @@
 ---
 title: Charset
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the documents encoding.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/document/charset/

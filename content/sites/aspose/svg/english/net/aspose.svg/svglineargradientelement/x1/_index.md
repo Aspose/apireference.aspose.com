@@ -1,7 +1,7 @@
 ---
 title: X1
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute x1 on the given linearGradient element.
 type: docs
 weight: 10
 url: /net/aspose.svg/svglineargradientelement/x1/

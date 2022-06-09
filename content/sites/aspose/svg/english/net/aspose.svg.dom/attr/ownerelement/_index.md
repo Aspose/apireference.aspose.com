@@ -1,7 +1,7 @@
 ---
 title: OwnerElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The Element node this attribute is attached to or null if this attribute is not in use.
 type: docs
 weight: 80
 url: /net/aspose.svg.dom/attr/ownerelement/

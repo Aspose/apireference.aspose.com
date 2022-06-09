@@ -1,7 +1,7 @@
 ---
 title: GetElementById
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the first element within nodes descendants whose ID is elementId.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/inonelementparentnode/getelementbyid/

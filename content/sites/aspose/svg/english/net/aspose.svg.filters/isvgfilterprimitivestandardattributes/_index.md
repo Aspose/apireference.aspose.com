@@ -1,7 +1,7 @@
 ---
 title: ISVGFilterPrimitiveStandardAttributes
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This interface defines the set of DOM attributes that are common across the filter primitive interfaces.
 type: docs
 weight: 1610
 url: /net/aspose.svg.filters/isvgfilterprimitivestandardattributes/

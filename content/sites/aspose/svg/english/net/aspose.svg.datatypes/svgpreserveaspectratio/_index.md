@@ -1,7 +1,7 @@
 ---
 title: SVGPreserveAspectRatio
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGPreserveAspectRatio interface corresponds to the preserveAspectRatio attribute which is available for some of SVGs elements.
 type: docs
 weight: 290
 url: /net/aspose.svg.datatypes/svgpreserveaspectratio/

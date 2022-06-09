@@ -1,7 +1,7 @@
 ---
 title: Resolution
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents a resolution unit.
 type: docs
 weight: 1540
 url: /net/aspose.svg.drawing/resolution/
@@ -35,7 +35,7 @@ public sealed class Resolution : Dimension
 | [operator ==](../../aspose.svg.drawing/resolution/op_equality) | Implements the operator ==. |
 | [operator &gt;](../../aspose.svg.drawing/resolution/op_greaterthan) | Implements the operator &gt;. |
 | [operator &gt;=](../../aspose.svg.drawing/resolution/op_greaterthanorequal) | Implements the operator &gt;=. |
-| [implicit operator](../../aspose.svg.drawing/resolution/op_implicit) | Performs an implicit conversion from Double to [`Resolution`](../resolution). (2 operators) |
+| [implicit operator](../../aspose.svg.drawing/resolution/op_implicit#op_implicit) | Performs an implicit conversion from Double to [`Resolution`](../resolution). (2 operators) |
 | [operator !=](../../aspose.svg.drawing/resolution/op_inequality) | Implements the operator !=. |
 | [operator &lt;](../../aspose.svg.drawing/resolution/op_lessthan) | Implements the operator &lt;. |
 | [operator &lt;=](../../aspose.svg.drawing/resolution/op_lessthanorequal) | Implements the operator &lt;=. |

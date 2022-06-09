@@ -1,7 +1,7 @@
 ---
 title: GetElementsByTagName
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a NodeList of all descendant Elements with a given tag name in document order.
 type: docs
 weight: 290
 url: /net/aspose.svg.dom/element/getelementsbytagname/

@@ -1,7 +1,7 @@
 ---
 title: TargetY
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute targetY on the given feConvolveMatrix element.
 type: docs
 weight: 140
 url: /net/aspose.svg.filters/svgfeconvolvematrixelement/targety/

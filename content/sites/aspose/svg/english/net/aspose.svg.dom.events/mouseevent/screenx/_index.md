@@ -1,7 +1,7 @@
 ---
 title: ScreenX
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The horizontal coordinate at which the event occurred relative to the origin of the screen coordinate system.
 type: docs
 weight: 100
 url: /net/aspose.svg.dom.events/mouseevent/screenx/

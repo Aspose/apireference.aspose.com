@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute y on the given foreignObject element.
 type: docs
 weight: 40
 url: /net/aspose.svg/svgforeignobjectelement/y/

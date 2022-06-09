@@ -1,7 +1,7 @@
 ---
 title: MessageHandlerCollection
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents collection of the MessageHandler./messagehandler.
 type: docs
 weight: 2290
 url: /net/aspose.svg.net/messagehandlercollection/

@@ -1,7 +1,7 @@
 ---
 title: SVGSymbolElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGSymbolElement interface corresponds to the symbol element.
 type: docs
 weight: 3420
 url: /net/aspose.svg/svgsymbolelement/

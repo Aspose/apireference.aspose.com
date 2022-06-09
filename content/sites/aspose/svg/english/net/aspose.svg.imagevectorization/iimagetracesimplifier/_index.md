@@ -1,7 +1,7 @@
 ---
 title: IImageTraceSimplifier
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The IImageTraceSimplifier interface is responsible for reduction of points in the trace.
 type: docs
 weight: 2050
 url: /net/aspose.svg.imagevectorization/iimagetracesimplifier/

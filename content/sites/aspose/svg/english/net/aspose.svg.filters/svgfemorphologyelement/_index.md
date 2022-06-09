@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGFEMorphologyElement interface corresponds to the feMorphology element.
 type: docs
 weight: 1800
 url: /net/aspose.svg.filters/svgfemorphologyelement/

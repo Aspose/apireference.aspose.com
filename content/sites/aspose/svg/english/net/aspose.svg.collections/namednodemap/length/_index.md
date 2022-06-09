@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The number of nodes in this map.
 type: docs
 weight: 20
 url: /net/aspose.svg.collections/namednodemap/length/

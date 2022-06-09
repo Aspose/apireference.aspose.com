@@ -1,7 +1,7 @@
 ---
 title: Seed
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute seed on the given feTurbulence element.
 type: docs
 weight: 60
 url: /net/aspose.svg.filters/svgfeturbulenceelement/seed/

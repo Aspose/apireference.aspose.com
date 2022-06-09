@@ -1,7 +1,7 @@
 ---
 title: HttpMethod
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the HttpMethodaspose.svg.net/httpmethod class with a specific HTTP method.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/httpmethod/httpmethod/

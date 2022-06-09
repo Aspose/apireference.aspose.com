@@ -1,7 +1,7 @@
 ---
 title: SVGCircleElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGCircleElement interface corresponds to the circle element.
 type: docs
 weight: 3050
 url: /net/aspose.svg/svgcircleelement/

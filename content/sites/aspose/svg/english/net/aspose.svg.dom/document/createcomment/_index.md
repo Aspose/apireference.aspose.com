@@ -1,7 +1,7 @@
 ---
 title: CreateComment
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates a Comment node given the specified string.
 type: docs
 weight: 820
 url: /net/aspose.svg.dom/document/createcomment/

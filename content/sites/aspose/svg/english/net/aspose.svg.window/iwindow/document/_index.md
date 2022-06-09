@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The document attribute must return the Window objects newest Document object.
 type: docs
 weight: 10
 url: /net/aspose.svg.window/iwindow/document/

@@ -1,7 +1,7 @@
 ---
 title: GraphicContext
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the GraphicContextaspose.svg.rendering/graphiccontext class.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/graphiccontext/graphiccontext/

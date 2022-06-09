@@ -1,7 +1,7 @@
 ---
 title: OutlineStyle
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the outline-style property definition in CSS2.
 type: docs
 weight: 770
 url: /net/aspose.svg.dom.css/icss2properties/outlinestyle/

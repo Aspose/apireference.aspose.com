@@ -1,7 +1,7 @@
 ---
 title: UnitType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The type of the value as specified by one of the SVG_LENGTHTYPE_ constants defined on this interface.
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svglength/unittype/

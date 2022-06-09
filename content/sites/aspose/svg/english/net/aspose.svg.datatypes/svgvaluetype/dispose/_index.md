@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Releases unmanaged and - optionally - managed resources.
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svgvaluetype/dispose/

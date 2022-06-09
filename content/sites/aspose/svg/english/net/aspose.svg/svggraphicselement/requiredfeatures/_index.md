@@ -1,7 +1,7 @@
 ---
 title: RequiredFeatures
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute requiredFeatures on the given element.
 type: docs
 weight: 40
 url: /net/aspose.svg/svggraphicselement/requiredfeatures/

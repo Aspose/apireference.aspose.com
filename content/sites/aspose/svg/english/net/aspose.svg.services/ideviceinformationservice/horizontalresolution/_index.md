@@ -1,7 +1,7 @@
 ---
 title: HorizontalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the horizontal resolution.
 type: docs
 weight: 10
 url: /net/aspose.svg.services/ideviceinformationservice/horizontalresolution/

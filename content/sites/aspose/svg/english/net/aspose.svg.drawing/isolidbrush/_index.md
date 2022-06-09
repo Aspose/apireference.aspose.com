@@ -1,7 +1,7 @@
 ---
 title: ISolidBrush
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Defines brush interface of a single color
 type: docs
 weight: 1450
 url: /net/aspose.svg.drawing/isolidbrush/

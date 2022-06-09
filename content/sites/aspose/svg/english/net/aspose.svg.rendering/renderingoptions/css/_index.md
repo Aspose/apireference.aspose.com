@@ -1,7 +1,7 @@
 ---
 title: Css
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a CssOptionsaspose.svg.rendering/cssoptions object which is used for configuration of css properties processing.
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering/renderingoptions/css/

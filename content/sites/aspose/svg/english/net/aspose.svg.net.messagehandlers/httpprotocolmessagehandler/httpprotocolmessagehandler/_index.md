@@ -1,7 +1,7 @@
 ---
 title: HttpProtocolMessageHandler
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the HttpProtocolMessageHandleraspose.svg.net.messagehandlers/httpprotocolmessagehandler class.
 type: docs
 weight: 10
 url: /net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/httpprotocolmessagehandler/

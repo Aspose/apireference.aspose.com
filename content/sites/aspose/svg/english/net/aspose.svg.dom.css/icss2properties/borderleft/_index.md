@@ -1,7 +1,7 @@
 ---
 title: BorderLeft
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the border-left property definition in CSS2.
 type: docs
 weight: 150
 url: /net/aspose.svg.dom.css/icss2properties/borderleft/

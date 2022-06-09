@@ -1,7 +1,7 @@
 ---
 title: op_LessThanOrEqual
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Implements the operator lt.
 type: docs
 weight: 70
 url: /net/aspose.svg.drawing/frequency/op_lessthanorequal/

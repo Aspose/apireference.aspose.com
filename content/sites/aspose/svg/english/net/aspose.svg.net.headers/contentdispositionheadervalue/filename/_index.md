@@ -1,7 +1,7 @@
 ---
 title: FileName
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name of the stored file.
 type: docs
 weight: 30
 url: /net/aspose.svg.net.headers/contentdispositionheadervalue/filename/

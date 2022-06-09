@@ -1,7 +1,7 @@
 ---
 title: MimeType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents an Internet Media Types
 type: docs
 weight: 2150
 url: /net/aspose.svg/mimetype/
@@ -32,12 +32,12 @@ public class MimeType : IEquatable<MimeType>
 | Name | Description |
 | --- | --- |
 | static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension)(string) | Creates a new MIME type based on file extension. |
-| [Equals](../../aspose.svg/mimetype/equals)(MimeType) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](../../aspose.svg/mimetype/equals)(object) | Determines whether the specified Object is equal to the current Object. |
+| [Equals](../../aspose.svg/mimetype/equals#equals)(MimeType) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.svg/mimetype/equals#equals_1)(object) | Determines whether the specified Object is equal to the current Object. |
 | override [GetHashCode](../../aspose.svg/mimetype/gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.svg/mimetype/tostring)() | Returns a String that represents Mime type. |
 | [operator ==](../../aspose.svg/mimetype/op_equality) | Compares two Mime type and returns a boolean indicating if the two do match. |
-| [implicit operator](../../aspose.svg/mimetype/op_implicit) | Performs an implicit conversion from String to [`MimeType`](../mimetype). (2 operators) |
+| [implicit operator](../../aspose.svg/mimetype/op_implicit#op_implicit) | Performs an implicit conversion from String to [`MimeType`](../mimetype). (2 operators) |
 | [operator !=](../../aspose.svg/mimetype/op_inequality) | Compares two Mime type and returns a boolean indicating if the two do match. |
 
 ### See Also

@@ -1,7 +1,7 @@
 ---
 title: SVG_FEBLEND_MODE_COLOR_DODGE
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value color_dodge.
 type: docs
 weight: 110
 url: /net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color_dodge/

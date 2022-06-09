@@ -1,7 +1,7 @@
 ---
 title: CanSeek
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a value indicating whether the wrapped output stream supports seeking.
 type: docs
 weight: 30
 url: /net/aspose.svg.io/outputstream/canseek/

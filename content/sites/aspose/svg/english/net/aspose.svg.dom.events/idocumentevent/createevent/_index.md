@@ -1,7 +1,7 @@
 ---
 title: CreateEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates an Eventaspose.svg.dom.events/event of a type supported by the implementation.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.events/idocumentevent/createevent/

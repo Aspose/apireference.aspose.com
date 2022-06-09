@@ -1,7 +1,7 @@
 ---
 title: Vmin
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is relative to 1 of viewports smaller dimension Try it
 type: docs
 weight: 290
 url: /net/aspose.svg.drawing/unittype/vmin/

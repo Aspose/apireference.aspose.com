@@ -1,7 +1,7 @@
 ---
 title: ChildNodes
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A NodeList that contains all children of this node. If there are no children this is a NodeList containing no nodes..
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/node/childnodes/

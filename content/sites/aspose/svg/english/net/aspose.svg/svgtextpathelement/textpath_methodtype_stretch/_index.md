@@ -1,7 +1,7 @@
 ---
 title: TEXTPATH_METHODTYPE_STRETCH
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value stretch.
 type: docs
 weight: 60
 url: /net/aspose.svg/svgtextpathelement/textpath_methodtype_stretch/

@@ -1,7 +1,7 @@
 ---
 title: Time
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents a time unit.
 type: docs
 weight: 1560
 url: /net/aspose.svg.drawing/time/

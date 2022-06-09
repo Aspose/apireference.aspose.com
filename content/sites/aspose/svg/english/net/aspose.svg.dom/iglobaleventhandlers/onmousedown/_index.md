@@ -1,7 +1,7 @@
 ---
 title: OnMouseDown
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnMouseDown event.
 type: docs
 weight: 240
 url: /net/aspose.svg.dom/iglobaleventhandlers/onmousedown/

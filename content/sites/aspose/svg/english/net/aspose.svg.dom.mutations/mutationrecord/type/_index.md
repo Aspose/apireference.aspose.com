@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns attributes if it was an attribute mutation characterData if it was a mutation to a CharacterData node and childList if it was a mutation to the tree of nodes.
 type: docs
 weight: 90
 url: /net/aspose.svg.dom.mutations/mutationrecord/type/

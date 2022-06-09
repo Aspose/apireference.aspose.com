@@ -1,7 +1,7 @@
 ---
 title: RemoveProperty
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Used to remove a CSS property if it has been explicitly set within this declaration block.
 type: docs
 weight: 80
 url: /net/aspose.svg.dom.css/icssstyledeclaration/removeproperty/

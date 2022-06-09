@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute y on the given fePointLight element.
 type: docs
 weight: 20
 url: /net/aspose.svg.filters/svgfepointlightelement/y/

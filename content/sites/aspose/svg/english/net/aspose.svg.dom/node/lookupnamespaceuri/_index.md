@@ -1,7 +1,7 @@
 ---
 title: LookupNamespaceURI
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Look up the namespace URI associated to the given prefix starting from this node.
 type: docs
 weight: 260
 url: /net/aspose.svg.dom/node/lookupnamespaceuri/

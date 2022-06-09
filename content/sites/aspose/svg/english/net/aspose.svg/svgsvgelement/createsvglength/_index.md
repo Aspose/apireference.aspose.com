@@ -1,7 +1,7 @@
 ---
 title: CreateSVGLength
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates an SVGLength object outside of any document trees. The object is initialized to the value of 0 user units.
 type: docs
 weight: 130
 url: /net/aspose.svg/svgsvgelement/createsvglength/

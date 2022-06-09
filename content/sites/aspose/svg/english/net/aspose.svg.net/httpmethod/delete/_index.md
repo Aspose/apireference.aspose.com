@@ -1,7 +1,7 @@
 ---
 title: Delete
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents an HTTP DELETE protocol method.
 type: docs
 weight: 20
 url: /net/aspose.svg.net/httpmethod/delete/

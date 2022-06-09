@@ -1,7 +1,7 @@
 ---
 title: OnAbort
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnAbort event.
 type: docs
 weight: 280
 url: /net/aspose.svg.dom/document/onabort/

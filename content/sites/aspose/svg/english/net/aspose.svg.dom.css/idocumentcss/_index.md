@@ -1,7 +1,7 @@
 ---
 title: IDocumentCSS
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This interface represents a document with a CSS view.
 type: docs
 weight: 690
 url: /net/aspose.svg.dom.css/idocumentcss/

@@ -1,12 +1,12 @@
 ---
 title: ImageTraceSimplifier
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the ImageTraceSimplifieraspose.svg.imagevectorization/imagetracesimplifier class.
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/imagetracesimplifier/imagetracesimplifier/
 ---
-## ImageTraceSimplifier constructor (1 of 2)
+## ImageTraceSimplifier() {#constructor}
 
 Initializes a new instance of the [`ImageTraceSimplifier`](../../imagetracesimplifier) class.
 
@@ -22,7 +22,7 @@ public ImageTraceSimplifier()
 
 ---
 
-## ImageTraceSimplifier constructor (2 of 2)
+## ImageTraceSimplifier(float) {#constructor_1}
 
 Initializes a new instance of the [`ImageTraceSimplifier`](../../imagetracesimplifier) class.
 

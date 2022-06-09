@@ -1,7 +1,7 @@
 ---
 title: SVG_PRESERVEASPECTRATIO_XMAXYMAX
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value xMaxYMax for attribute preserveAspectRatio.
 type: docs
 weight: 90
 url: /net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymax/

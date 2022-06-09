@@ -1,7 +1,7 @@
 ---
 title: Comment
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Inherits from CharacterData and represents the content of a comment i.e. all the characters between the starting .
 type: docs
 weight: 460
 url: /net/aspose.svg.dom/comment/

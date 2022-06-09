@@ -1,7 +1,7 @@
 ---
 title: KernelMatrix
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute kernelMatrix on the given feConvolveMatrix element.
 type: docs
 weight: 60
 url: /net/aspose.svg.filters/svgfeconvolvematrixelement/kernelmatrix/

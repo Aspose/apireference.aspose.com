@@ -1,7 +1,7 @@
 ---
 title: IsElementContentWhitespace
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns whether this text node contains element content whitespace often abusively called ignorable whitespace.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/text/iselementcontentwhitespace/

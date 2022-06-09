@@ -1,7 +1,7 @@
 ---
 title: IServiceProvider
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Provides an immutable container for services.
 type: docs
 weight: 3680
 url: /net/aspose.svg.services/iserviceprovider/

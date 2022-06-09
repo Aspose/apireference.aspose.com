@@ -1,7 +1,7 @@
 ---
 title: NamedNodeMap
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents collections of attributes that can be accessed by name.
 type: docs
 weight: 30
 url: /net/aspose.svg.collections/namednodemap/

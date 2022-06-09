@@ -1,7 +1,7 @@
 ---
 title: SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value identity.
 type: docs
 weight: 100
 url: /net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_identity/

@@ -1,7 +1,7 @@
 ---
 title: SHOW_ELEMENT
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Show Element nodes.
 type: docs
 weight: 130
 url: /net/aspose.svg.dom.traversal.filters/nodefilter/show_element/

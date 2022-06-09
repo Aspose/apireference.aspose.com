@@ -1,7 +1,7 @@
 ---
 title: PublicId
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The public identifier of the external subset.
 type: docs
 weight: 60
 url: /net/aspose.svg.dom/documenttype/publicid/

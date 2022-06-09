@@ -1,7 +1,7 @@
 ---
 title: SVG_PRESERVEASPECTRATIO_XMIDYMIN
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value xMidYMin for attribute preserveAspectRatio.
 type: docs
 weight: 140
 url: /net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymin/

@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Add a new content to the MultipartContentaspose.svg.net/multipartcontent
 type: docs
 weight: 20
 url: /net/aspose.svg.net/multipartcontent/add/

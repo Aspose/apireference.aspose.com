@@ -1,7 +1,7 @@
 ---
 title: Invoke
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: When overridden in a derived class is used to implement the message handling.
 type: docs
 weight: 20
 url: /net/aspose.svg.net/messagehandler/invoke/

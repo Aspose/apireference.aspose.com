@@ -1,7 +1,7 @@
 ---
 title: ReplaceData
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Replace the characters starting at the specified 16-bit unit offset with the specified string.
 type: docs
 weight: 60
 url: /net/aspose.svg.dom/characterdata/replacedata/

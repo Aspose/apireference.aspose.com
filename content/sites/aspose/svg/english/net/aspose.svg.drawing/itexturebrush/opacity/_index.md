@@ -1,7 +1,7 @@
 ---
 title: Opacity
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Get opacity value in a color transform matrix.
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/itexturebrush/opacity/

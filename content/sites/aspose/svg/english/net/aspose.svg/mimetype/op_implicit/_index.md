@@ -1,12 +1,12 @@
 ---
 title: op_Implicit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Performs an implicit conversion from String to MimeTypeaspose.svg/mimetype.
 type: docs
 weight: 90
 url: /net/aspose.svg/mimetype/op_implicit/
 ---
-## MimeType Implicit operator (1 of 2)
+## implicit operator {#op_implicit}
 
 Performs an implicit conversion from String to [`MimeType`](../../mimetype).
 
@@ -30,7 +30,7 @@ The result of the conversion.
 
 ---
 
-## MimeType Implicit operator (2 of 2)
+## implicit operator {#op_implicit_1}
 
 Performs an implicit conversion from [`MimeType`](../../mimetype) to String.
 

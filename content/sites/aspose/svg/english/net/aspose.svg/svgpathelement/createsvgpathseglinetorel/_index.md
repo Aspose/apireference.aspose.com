@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegLinetoRel
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a stand-alone parentless SVGPathSegLinetoRel object.
 type: docs
 weight: 170
 url: /net/aspose.svg/svgpathelement/createsvgpathseglinetorel/

@@ -1,7 +1,7 @@
 ---
 title: Ch
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is relative to width of the 0 zero.
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/unittype/ch/

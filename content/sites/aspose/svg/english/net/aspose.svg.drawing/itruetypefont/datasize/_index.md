@@ -1,7 +1,7 @@
 ---
 title: DataSize
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the size of the font data in bytes
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/itruetypefont/datasize/

@@ -1,7 +1,7 @@
 ---
 title: GraphicContext
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute.
 type: docs
 weight: 2730
 url: /net/aspose.svg.rendering/graphiccontext/

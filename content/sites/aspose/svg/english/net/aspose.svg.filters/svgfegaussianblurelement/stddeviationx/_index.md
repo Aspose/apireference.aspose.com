@@ -1,7 +1,7 @@
 ---
 title: StdDeviationX
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute stdDeviation on the given feGaussianBlur element. Contains the X component of attribute stdDeviation.
 type: docs
 weight: 40
 url: /net/aspose.svg.filters/svgfegaussianblurelement/stddeviationx/

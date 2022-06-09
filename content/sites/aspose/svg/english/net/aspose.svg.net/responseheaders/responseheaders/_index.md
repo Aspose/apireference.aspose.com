@@ -1,7 +1,7 @@
 ---
 title: ResponseHeaders
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the RequestHeadersaspose.svg.net/requestheaders class.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/responseheaders/responseheaders/

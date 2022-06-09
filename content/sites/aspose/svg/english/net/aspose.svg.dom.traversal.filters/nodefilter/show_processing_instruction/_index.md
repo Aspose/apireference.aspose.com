@@ -1,7 +1,7 @@
 ---
 title: SHOW_PROCESSING_INSTRUCTION
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Show ProcessingInstruction nodes.
 type: docs
 weight: 170
 url: /net/aspose.svg.dom.traversal.filters/nodefilter/show_processing_instruction/

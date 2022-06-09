@@ -1,7 +1,7 @@
 ---
 title: SpeakPunctuation
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the speak-punctuation property definition in CSS2.
 type: docs
 weight: 1030
 url: /net/aspose.svg.dom.css/icss2properties/speakpunctuation/

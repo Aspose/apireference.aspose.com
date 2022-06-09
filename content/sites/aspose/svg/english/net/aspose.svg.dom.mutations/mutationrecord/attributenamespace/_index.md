@@ -1,7 +1,7 @@
 ---
 title: AttributeNamespace
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the namespace of the changed attribute and null otherwise.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.mutations/mutationrecord/attributenamespace/

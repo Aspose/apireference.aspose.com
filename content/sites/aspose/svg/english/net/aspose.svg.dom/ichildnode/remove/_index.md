@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Removes the current node from parent.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/ichildnode/remove/

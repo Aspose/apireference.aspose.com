@@ -1,7 +1,7 @@
 ---
 title: ClientX
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The horizontal coordinate at which the event occurred relative to the viewport associated with the event.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.events/mouseevent/clientx/

@@ -1,7 +1,7 @@
 ---
 title: Fy
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute fy on the given radialGradient element.
 type: docs
 weight: 50
 url: /net/aspose.svg/svgradialgradientelement/fy/

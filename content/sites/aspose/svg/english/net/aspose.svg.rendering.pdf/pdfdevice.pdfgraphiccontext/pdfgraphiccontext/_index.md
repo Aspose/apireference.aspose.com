@@ -1,7 +1,7 @@
 ---
 title: PdfGraphicContext
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/pdfgraphiccontext/

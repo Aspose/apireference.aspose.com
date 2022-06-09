@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegLinetoAbs
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGPathSegLinetoAbs interface corresponds to an absolute lineto L path data command.
 type: docs
 weight: 2550
 url: /net/aspose.svg.paths/svgpathseglinetoabs/

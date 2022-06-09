@@ -1,7 +1,7 @@
 ---
 title: VerticalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the vertical resolution.
 type: docs
 weight: 30
 url: /net/aspose.svg.services/ideviceinformationservice/verticalresolution/

@@ -1,7 +1,7 @@
 ---
 title: IsReadOnly
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Determines whether the MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit collection is mutable.
 type: docs
 weight: 90
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/isreadonly/

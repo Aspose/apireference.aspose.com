@@ -1,7 +1,7 @@
 ---
 title: MatrixTransform
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Applies a 2x3 matrix transformation on this SVGPoint object and returns a new transformed SVGPoint object newpoint  matrix thispoint
 type: docs
 weight: 30
 url: /net/aspose.svg.datatypes/svgpoint/matrixtransform/

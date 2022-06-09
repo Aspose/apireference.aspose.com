@@ -1,7 +1,7 @@
 ---
 title: Exponent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute exponent on the given element.
 type: docs
 weight: 20
 url: /net/aspose.svg/svgcomponenttransferfunctionelement/exponent/

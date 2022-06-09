@@ -1,7 +1,7 @@
 ---
 title: Node
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The Node interface is the primary datatype for the entire Document object Model. It represents a single node in the document tree.
 type: docs
 weight: 1150
 url: /net/aspose.svg.dom/node/
@@ -44,8 +44,8 @@ public abstract class Node : EventTarget, IXPathNSResolver
 | [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener)(string, DOMEventHandler, bool) | This method allows the registration of event listeners on the event target. |
 | [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener)(string, IEventListener, bool) | This method allows the registration of event listeners on the event target. |
 | [AppendChild](../../aspose.svg.dom/node/appendchild)(Node) | Adds the node newChild to the end of the list of children of this node. If the newChild is already in the tree, it is first removed. |
-| [CloneNode](../../aspose.svg.dom/node/clonenode)() | Returns a duplicate of this node, i.e., serves as a generic copy constructor for nodes. The duplicate node has no parent (parentNode is null) and no user data. |
-| [CloneNode](../../aspose.svg.dom/node/clonenode)(bool) | Returns a duplicate of this node, i.e., serves as a generic copy constructor for nodes. The duplicate node has no parent (parentNode is null) and no user data. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode#clonenode)() | Returns a duplicate of this node, i.e., serves as a generic copy constructor for nodes. The duplicate node has no parent (parentNode is null) and no user data. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode#clonenode_1)(bool) | Returns a duplicate of this node, i.e., serves as a generic copy constructor for nodes. The duplicate node has no parent (parentNode is null) and no user data. |
 | [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent)(Event) | This method allows the dispatch of events into the implementations event model. |
 | [Dispose](../../aspose.svg.dom/eventtarget/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |

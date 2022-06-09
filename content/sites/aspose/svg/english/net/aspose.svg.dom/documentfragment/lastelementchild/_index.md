@@ -1,7 +1,7 @@
 ---
 title: LastElementChild
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns the last child element node of this element. null if this element has no child elements.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom/documentfragment/lastelementchild/

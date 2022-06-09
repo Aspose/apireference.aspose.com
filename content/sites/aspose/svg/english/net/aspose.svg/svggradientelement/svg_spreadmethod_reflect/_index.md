@@ -1,7 +1,7 @@
 ---
 title: SVG_SPREADMETHOD_REFLECT
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value reflect.
 type: docs
 weight: 60
 url: /net/aspose.svg/svggradientelement/svg_spreadmethod_reflect/

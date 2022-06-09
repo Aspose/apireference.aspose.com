@@ -1,7 +1,7 @@
 ---
 title: FromPicas
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Lengthaspose.svg.drawing/length object that is represented in picas.
 type: docs
 weight: 160
 url: /net/aspose.svg.drawing/unit/frompicas/

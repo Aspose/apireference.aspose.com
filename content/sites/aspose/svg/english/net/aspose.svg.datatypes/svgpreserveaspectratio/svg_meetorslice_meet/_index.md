@@ -1,7 +1,7 @@
 ---
 title: SVG_MEETORSLICE_MEET
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to value meet for attribute preserveAspectRatio.
 type: docs
 weight: 40
 url: /net/aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet/

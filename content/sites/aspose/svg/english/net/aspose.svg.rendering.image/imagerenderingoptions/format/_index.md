@@ -1,7 +1,7 @@
 ---
 title: Format
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sets or gets ImageFormataspose.svg.rendering.image/imageformat. By default this property is Png.
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering.image/imagerenderingoptions/format/

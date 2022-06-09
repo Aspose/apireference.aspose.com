@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedInteger
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Used for attributes of basic type integer which can be animated.
 type: docs
 weight: 120
 url: /net/aspose.svg.datatypes/svganimatedinteger/

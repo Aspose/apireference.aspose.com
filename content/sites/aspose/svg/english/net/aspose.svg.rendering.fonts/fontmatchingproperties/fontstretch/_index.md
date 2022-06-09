@@ -1,7 +1,7 @@
 ---
 title: FontStretch
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the font stretch value.
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.fonts/fontmatchingproperties/fontstretch/

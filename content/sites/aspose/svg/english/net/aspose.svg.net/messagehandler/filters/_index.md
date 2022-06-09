@@ -1,7 +1,7 @@
 ---
 title: Filters
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the filters list that are corresponding to the specified handler type.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/messagehandler/filters/

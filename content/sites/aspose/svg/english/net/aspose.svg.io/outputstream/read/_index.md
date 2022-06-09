@@ -1,7 +1,7 @@
 ---
 title: Read
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Reads a sequence of bytes from the wrapped output stream and advances the position within the stream by the number of bytes read.
 type: docs
 weight: 100
 url: /net/aspose.svg.io/outputstream/read/

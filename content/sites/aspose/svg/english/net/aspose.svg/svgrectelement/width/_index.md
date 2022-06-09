@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute width on the given rect element.
 type: docs
 weight: 40
 url: /net/aspose.svg/svgrectelement/width/

@@ -1,7 +1,7 @@
 ---
 title: FileProtocolMessageHandler
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the FileProtocolMessageHandleraspose.svg.net.messagehandlers/fileprotocolmessagehandler class.
 type: docs
 weight: 10
 url: /net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/fileprotocolmessagehandler/

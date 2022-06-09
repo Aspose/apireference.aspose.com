@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The Text interface inherits from CharacterData and represents the textual content termed character data in XML of an Element or Attr.
 type: docs
 weight: 1200
 url: /net/aspose.svg.dom/text/

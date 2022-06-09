@@ -1,7 +1,7 @@
 ---
 title: SVGStringList
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: SVGStringList has the same attributes and methods as other SVGxxxList interfaces. Implementers may consider using a single base class to implement the various SVGxxxList interfaces.
 type: docs
 weight: 310
 url: /net/aspose.svg.datatypes/svgstringlist/
@@ -18,8 +18,8 @@ public class SVGStringList : SVGListBase<string>
 
 | Name | Description |
 | --- | --- |
-| [SVGStringList](svgstringlist)() | Initializes a new instance of the [`SVGStringList`](../svgstringlist) class. |
-| [SVGStringList](svgstringlist)(IEnumerable&lt;string&gt;) | Initializes a new instance of the [`SVGStringList`](../svgstringlist) class. |
+| [SVGStringList](svgstringlist#constructor)() | Initializes a new instance of the [`SVGStringList`](../svgstringlist) class. |
+| [SVGStringList](svgstringlist#constructor_1)(IEnumerable&lt;string&gt;) | Initializes a new instance of the [`SVGStringList`](../svgstringlist) class. |
 
 ## Properties
 

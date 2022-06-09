@@ -1,7 +1,7 @@
 ---
 title: FocusEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The FocusEvent interface provides specific contextual information associated with Focus events.
 type: docs
 weight: 930
 url: /net/aspose.svg.dom.events/focusevent/
@@ -18,8 +18,8 @@ public class FocusEvent : UIEvent
 
 | Name | Description |
 | --- | --- |
-| [FocusEvent](focusevent)(string) | Initializes a new instance of the [`FocusEvent`](../focusevent) class. |
-| [FocusEvent](focusevent)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`FocusEvent`](../focusevent) class. |
+| [FocusEvent](focusevent#constructor)(string) | Initializes a new instance of the [`FocusEvent`](../focusevent) class. |
+| [FocusEvent](focusevent#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`FocusEvent`](../focusevent) class. |
 
 ## Properties
 

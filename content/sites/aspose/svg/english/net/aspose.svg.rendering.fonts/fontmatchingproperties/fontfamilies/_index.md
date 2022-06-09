@@ -1,7 +1,7 @@
 ---
 title: FontFamilies
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the collection of font families.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.fonts/fontmatchingproperties/fontfamilies/

@@ -1,12 +1,12 @@
 ---
 title: MultipartFormDataContent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the MultipartFormDataContentaspose.svg.net/multipartformdatacontent class.
 type: docs
 weight: 10
 url: /net/aspose.svg.net/multipartformdatacontent/multipartformdatacontent/
 ---
-## MultipartFormDataContent constructor (1 of 2)
+## MultipartFormDataContent() {#constructor}
 
 Initializes a new instance of the [`MultipartFormDataContent`](../../multipartformdatacontent) class.
 
@@ -22,7 +22,7 @@ public MultipartFormDataContent()
 
 ---
 
-## MultipartFormDataContent constructor (2 of 2)
+## MultipartFormDataContent(string) {#constructor_1}
 
 Initializes a new instance of the [`MultipartFormDataContent`](../../multipartformdatacontent) class.
 

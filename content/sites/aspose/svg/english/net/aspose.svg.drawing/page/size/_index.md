@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the page size.
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/page/size/

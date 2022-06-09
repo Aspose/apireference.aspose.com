@@ -1,7 +1,7 @@
 ---
 title: Style
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The declaration-block of this rule.
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/icsspagerule/style/

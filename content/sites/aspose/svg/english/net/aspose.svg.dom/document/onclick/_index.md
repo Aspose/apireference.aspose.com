@@ -1,7 +1,7 @@
 ---
 title: OnClick
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnClick event.
 type: docs
 weight: 340
 url: /net/aspose.svg.dom/document/onclick/

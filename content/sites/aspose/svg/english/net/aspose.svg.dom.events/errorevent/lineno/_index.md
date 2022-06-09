@@ -1,7 +1,7 @@
 ---
 title: LineNo
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The lineno attribute must return the value it was initialized to. When the object is created this attribute must be initialized to zero. It represents the line number where the error occurred in the script.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.events/errorevent/lineno/

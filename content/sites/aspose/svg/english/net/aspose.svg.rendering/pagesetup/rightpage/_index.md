@@ -1,7 +1,7 @@
 ---
 title: RightPage
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the Even Page configuration.
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering/pagesetup/rightpage/

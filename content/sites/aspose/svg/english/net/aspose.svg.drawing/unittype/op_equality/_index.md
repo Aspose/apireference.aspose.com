@@ -1,7 +1,7 @@
 ---
 title: op_Equality
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Determines whether the two specified UnitTypeaspose.svg.drawing/unittype values are equal.
 type: docs
 weight: 340
 url: /net/aspose.svg.drawing/unittype/op_equality/

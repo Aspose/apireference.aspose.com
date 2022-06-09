@@ -1,7 +1,7 @@
 ---
 title: ContentDispositionHeaderValue
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Create a new instance of this disposition type.
 type: docs
 weight: 10
 url: /net/aspose.svg.net.headers/contentdispositionheadervalue/contentdispositionheadervalue/

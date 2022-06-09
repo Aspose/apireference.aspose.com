@@ -1,7 +1,7 @@
 ---
 title: AddService
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Adds the specified service to the service container.
 type: docs
 weight: 10
 url: /net/aspose.svg.services/iservicecontainer/addservice/

@@ -1,7 +1,7 @@
 ---
 title: ClassName
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute class on the given element.
 type: docs
 weight: 10
 url: /net/aspose.svg/svgelement/classname/

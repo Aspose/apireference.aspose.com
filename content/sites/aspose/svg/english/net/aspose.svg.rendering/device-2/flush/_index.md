@@ -1,7 +1,7 @@
 ---
 title: Flush
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Flushes all data to output stream.
 type: docs
 weight: 170
 url: /net/aspose.svg.rendering/device-2/flush/

@@ -1,7 +1,7 @@
 ---
 title: CreateStream
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates the output file stream OutputStreamaspose.svg.io/outputstream.
 type: docs
 weight: 30
 url: /net/aspose.svg.io/localfilesystemstorage/createstream/

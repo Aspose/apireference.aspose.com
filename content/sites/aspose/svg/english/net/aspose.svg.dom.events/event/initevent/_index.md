@@ -1,7 +1,7 @@
 ---
 title: InitEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The InitEventaspose.svg.dom.events/event/initevent method is used to initialize the value of an Eventaspose.svg.dom.events/event created through the IDocumentEventaspose.svg.dom.events/idocumentevent interface.
 type: docs
 weight: 110
 url: /net/aspose.svg.dom.events/event/initevent/

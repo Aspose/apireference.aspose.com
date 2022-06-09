@@ -1,7 +1,7 @@
 ---
 title: AddedNodes
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Return the nodes added.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.mutations/mutationrecord/addednodes/

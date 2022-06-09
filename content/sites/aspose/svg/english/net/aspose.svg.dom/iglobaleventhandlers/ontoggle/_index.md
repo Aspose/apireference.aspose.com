@@ -1,7 +1,7 @@
 ---
 title: OnToggle
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnToggle event.
 type: docs
 weight: 480
 url: /net/aspose.svg.dom/iglobaleventhandlers/ontoggle/

@@ -1,7 +1,7 @@
 ---
 title: Filter
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The NodeFilter used to screen nodes.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.traversal/itraversal/filter/

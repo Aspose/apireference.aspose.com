@@ -1,7 +1,7 @@
 ---
 title: FromQuarterMillimeters
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Lengthaspose.svg.drawing/length object that is represented in quarter-millimeters.
 type: docs
 weight: 190
 url: /net/aspose.svg.drawing/unit/fromquartermillimeters/

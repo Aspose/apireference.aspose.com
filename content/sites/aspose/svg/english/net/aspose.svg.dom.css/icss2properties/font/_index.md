@@ -1,7 +1,7 @@
 ---
 title: Font
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the font property definition in CSS2.
 type: docs
 weight: 470
 url: /net/aspose.svg.dom.css/icss2properties/font/

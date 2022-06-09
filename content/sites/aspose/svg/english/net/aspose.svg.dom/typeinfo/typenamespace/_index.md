@@ -1,7 +1,7 @@
 ---
 title: TypeNamespace
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the type namespace.The namespace of the type declared for the associated element or attribute or null if the element does not have declaration or if no namespace information is available.
 type: docs
 weight: 20
 url: /net/aspose.svg.dom/typeinfo/typenamespace/

@@ -1,7 +1,7 @@
 ---
 title: Detail
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Specifies some detail information about the Event depending on the type of event.
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.events/uievent/detail/

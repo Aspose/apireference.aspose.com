@@ -1,7 +1,7 @@
 ---
 title: SpecularConstant
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute specularConstant on the given feSpecularLighting element.
 type: docs
 weight: 60
 url: /net/aspose.svg.filters/svgfespecularlightingelement/specularconstant/

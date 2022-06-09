@@ -1,7 +1,7 @@
 ---
 title: DOMObjectAttribute
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Specifies that object is marked with this attribute is defined by the W3C.
 type: docs
 weight: 420
 url: /net/aspose.svg.dom.attributes/domobjectattribute/

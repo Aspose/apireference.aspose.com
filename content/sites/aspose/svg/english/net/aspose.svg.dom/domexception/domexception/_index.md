@@ -1,12 +1,12 @@
 ---
 title: DOMException
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the DOMExceptionaspose.svg.dom/domexception class.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/domexception/domexception/
 ---
-## DOMException constructor (1 of 2)
+## DOMException(string) {#constructor}
 
 Initializes a new instance of the [`DOMException`](../../domexception) class.
 
@@ -26,7 +26,7 @@ public DOMException(string message)
 
 ---
 
-## DOMException constructor (2 of 2)
+## DOMException(string, string) {#constructor_1}
 
 Initializes a new instance of the [`DOMException`](../../domexception) class.
 

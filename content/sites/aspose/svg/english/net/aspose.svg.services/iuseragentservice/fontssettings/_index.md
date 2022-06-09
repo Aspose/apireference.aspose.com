@@ -1,7 +1,7 @@
 ---
 title: FontsSettings
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a Html.FontsSettings object which is used for configuration of fonts handling.
 type: docs
 weight: 30
 url: /net/aspose.svg.services/iuseragentservice/fontssettings/

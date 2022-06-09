@@ -1,7 +1,7 @@
 ---
 title: ResultType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A code representing the type of this result as defined by the http//www.w3.org/TR/DOM-Level-3-XPath/xpath.htmlXPathResult XPathResultTypeaspose.svg.dom.xpath/xpathresulttype enum.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.xpath/ixpathresult/resulttype/

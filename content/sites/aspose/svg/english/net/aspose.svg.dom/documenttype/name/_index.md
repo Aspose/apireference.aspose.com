@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The name of DTD i.e. the name immediately following the DOCTYPE keyword.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/documenttype/name/

@@ -1,7 +1,7 @@
 ---
 title: Pc
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is in picas
 type: docs
 weight: 170
 url: /net/aspose.svg.drawing/unittype/pc/

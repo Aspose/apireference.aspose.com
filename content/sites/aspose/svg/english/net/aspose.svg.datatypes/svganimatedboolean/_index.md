@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedBoolean
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Used for attributes of type boolean which can be animated.
 type: docs
 weight: 100
 url: /net/aspose.svg.datatypes/svganimatedboolean/

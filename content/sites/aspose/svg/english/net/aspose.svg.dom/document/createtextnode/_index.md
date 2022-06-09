@@ -1,7 +1,7 @@
 ---
 title: CreateTextNode
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates a Text node given the specified string.
 type: docs
 weight: 930
 url: /net/aspose.svg.dom/document/createtextnode/

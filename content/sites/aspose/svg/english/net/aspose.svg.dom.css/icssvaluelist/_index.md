@@ -1,7 +1,7 @@
 ---
 title: ICSSValueList
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The interface provides the abstraction of an ordered collection of CSS values.
 type: docs
 weight: 680
 url: /net/aspose.svg.dom.css/icssvaluelist/

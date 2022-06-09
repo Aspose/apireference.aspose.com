@@ -1,7 +1,7 @@
 ---
 title: OnMouseOut
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnMouseOut event.
 type: docs
 weight: 550
 url: /net/aspose.svg.dom/document/onmouseout/

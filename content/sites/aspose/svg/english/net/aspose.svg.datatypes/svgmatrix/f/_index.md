@@ -1,7 +1,7 @@
 ---
 title: F
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The F component of the matrix.
 type: docs
 weight: 60
 url: /net/aspose.svg.datatypes/svgmatrix/f/

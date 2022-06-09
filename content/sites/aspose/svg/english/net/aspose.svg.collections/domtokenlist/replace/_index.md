@@ -1,7 +1,7 @@
 ---
 title: Replace
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Replaces an existing token with a new token. Does nothing if the first token doesnt exist.
 type: docs
 weight: 80
 url: /net/aspose.svg.collections/domtokenlist/replace/

@@ -1,7 +1,7 @@
 ---
 title: BackgroundColor
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets Color which will fill background of every page. Default value is Transparent.
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering/renderingoptions/backgroundcolor/

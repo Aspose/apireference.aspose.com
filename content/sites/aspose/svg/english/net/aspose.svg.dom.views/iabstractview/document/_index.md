@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The source DocumentView of which this is an AbstractView.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.views/iabstractview/document/

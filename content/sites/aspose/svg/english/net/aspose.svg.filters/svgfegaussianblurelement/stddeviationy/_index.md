@@ -1,7 +1,7 @@
 ---
 title: StdDeviationY
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute stdDeviation on the given feGaussianBlur element. Contains the Y component possibly computed automatically of attribute stdDeviation.
 type: docs
 weight: 50
 url: /net/aspose.svg.filters/svgfegaussianblurelement/stddeviationy/

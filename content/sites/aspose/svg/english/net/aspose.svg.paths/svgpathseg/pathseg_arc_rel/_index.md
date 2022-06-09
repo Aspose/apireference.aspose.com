@@ -1,7 +1,7 @@
 ---
 title: PATHSEG_ARC_REL
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to a relative arcto a path data command.
 type: docs
 weight: 40
 url: /net/aspose.svg.paths/svgpathseg/pathseg_arc_rel/

@@ -1,7 +1,7 @@
 ---
 title: StreamContent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents content based on a stream.
 type: docs
 weight: 2390
 url: /net/aspose.svg.net/streamcontent/

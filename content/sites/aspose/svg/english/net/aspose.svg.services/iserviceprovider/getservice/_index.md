@@ -1,7 +1,7 @@
 ---
 title: GetService
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a service object of the specified type.
 type: docs
 weight: 10
 url: /net/aspose.svg.services/iserviceprovider/getservice/

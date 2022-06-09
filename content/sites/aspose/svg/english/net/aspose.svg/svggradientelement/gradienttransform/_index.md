@@ -1,7 +1,7 @@
 ---
 title: GradientTransform
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute gradientTransform on the given element.
 type: docs
 weight: 10
 url: /net/aspose.svg/svggradientelement/gradienttransform/

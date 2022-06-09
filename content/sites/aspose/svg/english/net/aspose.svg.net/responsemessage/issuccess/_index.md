@@ -1,7 +1,7 @@
 ---
 title: IsSuccess
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a value indicating whether this message is success.
 type: docs
 weight: 50
 url: /net/aspose.svg.net/responsemessage/issuccess/

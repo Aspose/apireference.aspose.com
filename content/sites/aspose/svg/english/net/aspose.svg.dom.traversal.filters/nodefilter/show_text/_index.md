@@ -1,7 +1,7 @@
 ---
 title: SHOW_TEXT
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Show Text nodes.
 type: docs
 weight: 180
 url: /net/aspose.svg.dom.traversal.filters/nodefilter/show_text/

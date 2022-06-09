@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the value.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.attributes/domtreatnullasattribute/value/

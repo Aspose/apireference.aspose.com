@@ -1,7 +1,7 @@
 ---
 title: CreateProcessingInstruction
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates a ProcessingInstruction node given the specified name and data strings.
 type: docs
 weight: 920
 url: /net/aspose.svg.dom/document/createprocessinginstruction/

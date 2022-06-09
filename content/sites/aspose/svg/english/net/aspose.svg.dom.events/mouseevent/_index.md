@@ -1,7 +1,7 @@
 ---
 title: MouseEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The MouseEvent interface provides specific contextual information associated with Mouse events.
 type: docs
 weight: 990
 url: /net/aspose.svg.dom.events/mouseevent/
@@ -18,8 +18,8 @@ public class MouseEvent : UIEvent
 
 | Name | Description |
 | --- | --- |
-| [MouseEvent](mouseevent)(string) | Initializes a new instance of the [`MouseEvent`](../mouseevent) class. |
-| [MouseEvent](mouseevent)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`MouseEvent`](../mouseevent) class. |
+| [MouseEvent](mouseevent#constructor)(string) | Initializes a new instance of the [`MouseEvent`](../mouseevent) class. |
+| [MouseEvent](mouseevent#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`MouseEvent`](../mouseevent) class. |
 
 ## Properties
 

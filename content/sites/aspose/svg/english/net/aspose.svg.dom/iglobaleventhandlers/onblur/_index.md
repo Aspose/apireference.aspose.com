@@ -1,7 +1,7 @@
 ---
 title: OnBlur
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnBlur event.
 type: docs
 weight: 20
 url: /net/aspose.svg.dom/iglobaleventhandlers/onblur/

@@ -1,12 +1,12 @@
 ---
 title: RemoveEventListener
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This method allows the removal of event listeners from the event target. If an IEventListeneraspose.svg.dom.events/ieventlistener is removed from an EventTargetaspose.svg.dom/eventtarget while it is processing an event it will not be triggered by the current actions. Event Listeners can never be invoked after being removed.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom/eventtarget/removeeventlistener/
 ---
-## EventTarget.RemoveEventListener method (1 of 3)
+## RemoveEventListener(string, DOMEventHandler, bool) {#removeeventlistener}
 
 This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) is removed from an [`EventTarget`](../../eventtarget) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed.
 
@@ -29,7 +29,7 @@ public void RemoveEventListener(string type, DOMEventHandler handler, bool useCa
 
 ---
 
-## EventTarget.RemoveEventListener method (2 of 3)
+## RemoveEventListener(string, IEventListener) {#removeeventlistener_1}
 
 This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) is removed from an [`EventTarget`](../../eventtarget) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed.
 
@@ -51,7 +51,7 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 ---
 
-## EventTarget.RemoveEventListener method (3 of 3)
+## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_2}
 
 This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) is removed from an [`EventTarget`](../../eventtarget) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed.
 

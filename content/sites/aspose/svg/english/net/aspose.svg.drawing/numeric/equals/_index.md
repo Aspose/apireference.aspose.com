@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Determines whether the specified Unitaspose.svg.drawing/unit is equal to this instance.
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/numeric/equals/

@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The number of CSSValues in the list.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/cssvaluelist/length/

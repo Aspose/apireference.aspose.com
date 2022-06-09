@@ -1,7 +1,7 @@
 ---
 title: Has
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Checks if there is a name-value pair whose name is name in list.
 type: docs
 weight: 50
 url: /net/aspose.svg/iurlsearchparams/has/

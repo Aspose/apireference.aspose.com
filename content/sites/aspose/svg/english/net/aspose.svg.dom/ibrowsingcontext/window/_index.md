@@ -1,7 +1,7 @@
 ---
 title: Window
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the WindowProxy object.
 type: docs
 weight: 60
 url: /net/aspose.svg.dom/ibrowsingcontext/window/

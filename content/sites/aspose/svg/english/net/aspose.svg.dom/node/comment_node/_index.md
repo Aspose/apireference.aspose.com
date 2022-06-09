@@ -1,7 +1,7 @@
 ---
 title: COMMENT_NODE
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A comment node
 type: docs
 weight: 340
 url: /net/aspose.svg.dom/node/comment_node/

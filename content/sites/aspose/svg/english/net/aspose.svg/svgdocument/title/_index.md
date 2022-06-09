@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The title of a document as specified by the title sub-element of the svg root element i.e. Here is the title...
 type: docs
 weight: 50
 url: /net/aspose.svg/svgdocument/title/

@@ -1,7 +1,7 @@
 ---
 title: ReplaceItem
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Replaces an existing item in the list with a new item.
 type: docs
 weight: 110
 url: /net/aspose.svg.collections/svglistbase-1/replaceitem/

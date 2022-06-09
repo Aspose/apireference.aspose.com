@@ -1,7 +1,7 @@
 ---
 title: Glyphs
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the glyphs.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/icsscounterstylerule/glyphs/

@@ -1,7 +1,7 @@
 ---
 title: PathSegType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The type of the path segment as specified by one of the constants defined on this interface.
 type: docs
 weight: 10
 url: /net/aspose.svg.paths/svgpathseg/pathsegtype/

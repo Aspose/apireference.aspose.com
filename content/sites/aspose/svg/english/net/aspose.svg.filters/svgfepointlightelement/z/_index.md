@@ -1,7 +1,7 @@
 ---
 title: Z
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute z on the given fePointLight element.
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfepointlightelement/z/

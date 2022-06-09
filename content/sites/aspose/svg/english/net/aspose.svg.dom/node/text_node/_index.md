@@ -1,7 +1,7 @@
 ---
 title: TEXT_NODE
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: A text node
 type: docs
 weight: 430
 url: /net/aspose.svg.dom/node/text_node/

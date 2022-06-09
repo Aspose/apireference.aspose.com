@@ -1,7 +1,7 @@
 ---
 title: PdfRenderingOptions
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the PdfRenderingOptionsaspose.svg.rendering.pdf/pdfrenderingoptions class.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.pdf/pdfrenderingoptions/pdfrenderingoptions/

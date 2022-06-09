@@ -1,7 +1,7 @@
 ---
 title: CapturingPhase
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The event is currently being evaluated at the target IEventTargetaspose.svg.dom.events/ieventtarget.
 type: docs
 weight: 170
 url: /net/aspose.svg.dom.events/event/capturingphase/

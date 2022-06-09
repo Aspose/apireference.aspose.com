@@ -1,7 +1,7 @@
 ---
 title: InsertData
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Insert a string at the specified 16-bit unit offset.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom/characterdata/insertdata/

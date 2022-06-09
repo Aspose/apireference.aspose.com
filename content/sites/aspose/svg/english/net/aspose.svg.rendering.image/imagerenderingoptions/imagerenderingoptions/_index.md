@@ -1,12 +1,12 @@
 ---
 title: ImageRenderingOptions
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the ImageRenderingOptionsaspose.svg.rendering.image/imagerenderingoptions class Png will be used as default image format.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
-## ImageRenderingOptions constructor (1 of 2)
+## ImageRenderingOptions() {#constructor}
 
 Initializes a new instance of the [`ImageRenderingOptions`](../../imagerenderingoptions) class; Png will be used as default image format.
 
@@ -22,7 +22,7 @@ public ImageRenderingOptions()
 
 ---
 
-## ImageRenderingOptions constructor (2 of 2)
+## ImageRenderingOptions(ImageFormat) {#constructor_1}
 
 Initializes a new instance of the [`ImageRenderingOptions`](../../imagerenderingoptions) class with specified image format.
 

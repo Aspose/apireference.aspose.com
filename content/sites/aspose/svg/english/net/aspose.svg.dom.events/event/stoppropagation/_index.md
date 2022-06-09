@@ -1,7 +1,7 @@
 ---
 title: StopPropagation
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The StopPropagationaspose.svg.dom.events/event/stoppropagation method is used prevent further propagation of an event during event flow.
 type: docs
 weight: 140
 url: /net/aspose.svg.dom.events/event/stoppropagation/

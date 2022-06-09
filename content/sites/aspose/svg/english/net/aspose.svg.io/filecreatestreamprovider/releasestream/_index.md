@@ -1,7 +1,7 @@
 ---
 title: ReleaseStream
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Releases the stream.
 type: docs
 weight: 60
 url: /net/aspose.svg.io/filecreatestreamprovider/releasestream/

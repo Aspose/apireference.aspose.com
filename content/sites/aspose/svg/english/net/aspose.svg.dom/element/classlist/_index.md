@@ -1,7 +1,7 @@
 ---
 title: ClassList
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a live DOMTokenList which contains tokens received from parsing the class attribute.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom/element/classlist/

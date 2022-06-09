@@ -1,7 +1,7 @@
 ---
 title: MarkerOffset
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the marker-offset property definition in CSS2.
 type: docs
 weight: 680
 url: /net/aspose.svg.dom.css/icss2properties/markeroffset/

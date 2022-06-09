@@ -1,7 +1,7 @@
 ---
 title: Attr
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The Attr interface represents an attribute in an Element object. Typically the allowable values for the attribute are defined in a schema associated with the document.
 type: docs
 weight: 350
 url: /net/aspose.svg.dom/attr/

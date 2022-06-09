@@ -1,12 +1,12 @@
 ---
 title: ConvertSVG
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Convert svg source to pdf. Result is pdf file.
 type: docs
 weight: 10
 url: /net/aspose.svg.converters/converter/convertsvg/
 ---
-## Converter.ConvertSVG method (1 of 42)
+## ConvertSVG(SVGDocument, PdfSaveOptions, string) {#convertsvg_3}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -30,7 +30,7 @@ public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string
 
 ---
 
-## Converter.ConvertSVG method (2 of 42)
+## ConvertSVG(Url, PdfSaveOptions, string) {#convertsvg_15}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -54,7 +54,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, string outputPath
 
 ---
 
-## Converter.ConvertSVG method (3 of 42)
+## ConvertSVG(Url, Configuration, PdfSaveOptions, string) {#convertsvg_9}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -81,7 +81,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 
 ---
 
-## Converter.ConvertSVG method (4 of 42)
+## ConvertSVG(string, PdfSaveOptions, string) {#convertsvg_27}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -104,7 +104,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string 
 
 ---
 
-## Converter.ConvertSVG method (5 of 42)
+## ConvertSVG(string, Configuration, PdfSaveOptions, string) {#convertsvg_21}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -130,7 +130,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## Converter.ConvertSVG method (6 of 42)
+## ConvertSVG(string, string, PdfSaveOptions, string) {#convertsvg_39}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -155,7 +155,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 
 ---
 
-## Converter.ConvertSVG method (7 of 42)
+## ConvertSVG(string, string, Configuration, PdfSaveOptions, string) {#convertsvg_33}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -182,7 +182,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## Converter.ConvertSVG method (8 of 42)
+## ConvertSVG(SVGDocument, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_2}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -208,7 +208,7 @@ public static void ConvertSVG(SVGDocument document, PdfSaveOptions options,
 
 ---
 
-## Converter.ConvertSVG method (9 of 42)
+## ConvertSVG(Url, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_14}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -233,7 +233,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProv
 
 ---
 
-## Converter.ConvertSVG method (10 of 42)
+## ConvertSVG(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_8}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -261,7 +261,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 
 ---
 
-## Converter.ConvertSVG method (11 of 42)
+## ConvertSVG(string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_26}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -286,7 +286,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options,
 
 ---
 
-## Converter.ConvertSVG method (12 of 42)
+## ConvertSVG(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_20}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -313,7 +313,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## Converter.ConvertSVG method (13 of 42)
+## ConvertSVG(string, string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_38}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -339,7 +339,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 
 ---
 
-## Converter.ConvertSVG method (14 of 42)
+## ConvertSVG(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_32}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -367,7 +367,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## Converter.ConvertSVG method (15 of 42)
+## ConvertSVG(SVGDocument, ImageSaveOptions, string) {#convertsvg_1}
 
 Convert svg document to image. Result is image file.
 
@@ -391,7 +391,7 @@ public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, stri
 
 ---
 
-## Converter.ConvertSVG method (16 of 42)
+## ConvertSVG(Url, ImageSaveOptions, string) {#convertsvg_13}
 
 Convert svg document to image. Result is image file.
 
@@ -415,7 +415,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, string outputPa
 
 ---
 
-## Converter.ConvertSVG method (17 of 42)
+## ConvertSVG(Url, Configuration, ImageSaveOptions, string) {#convertsvg_7}
 
 Convert svg document to image. Result is image file.
 
@@ -442,7 +442,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 
 ---
 
-## Converter.ConvertSVG method (18 of 42)
+## ConvertSVG(string, ImageSaveOptions, string) {#convertsvg_25}
 
 Convert svg document to image. Result is image file.
 
@@ -465,7 +465,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options, strin
 
 ---
 
-## Converter.ConvertSVG method (19 of 42)
+## ConvertSVG(string, Configuration, ImageSaveOptions, string) {#convertsvg_19}
 
 Convert svg document to image. Result is image file.
 
@@ -491,7 +491,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## Converter.ConvertSVG method (20 of 42)
+## ConvertSVG(string, string, ImageSaveOptions, string) {#convertsvg_37}
 
 Convert svg document to image. Result is image file.
 
@@ -516,7 +516,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 
 ---
 
-## Converter.ConvertSVG method (21 of 42)
+## ConvertSVG(string, string, Configuration, ImageSaveOptions, string) {#convertsvg_31}
 
 Convert svg document to image. Result is image file.
 
@@ -543,7 +543,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## Converter.ConvertSVG method (22 of 42)
+## ConvertSVG(SVGDocument, ImageSaveOptions, ICreateStreamProvider) {#convertsvg}
 
 Convert svg source to image. Result is image file.
 
@@ -569,7 +569,7 @@ public static void ConvertSVG(SVGDocument document, ImageSaveOptions options,
 
 ---
 
-## Converter.ConvertSVG method (23 of 42)
+## ConvertSVG(Url, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_12}
 
 Convert svg source to image. Result is image file.
 
@@ -594,7 +594,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamPr
 
 ---
 
-## Converter.ConvertSVG method (24 of 42)
+## ConvertSVG(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_6}
 
 Convert svg source to image. Result is image file.
 
@@ -622,7 +622,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 
 ---
 
-## Converter.ConvertSVG method (25 of 42)
+## ConvertSVG(string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_24}
 
 Convert svg source to image. Result is image file.
 
@@ -647,7 +647,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options,
 
 ---
 
-## Converter.ConvertSVG method (26 of 42)
+## ConvertSVG(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_18}
 
 Convert svg source to image. Result is image file.
 
@@ -674,7 +674,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## Converter.ConvertSVG method (27 of 42)
+## ConvertSVG(string, string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_36}
 
 Convert svg source to image. Result is image file.
 
@@ -700,7 +700,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 
 ---
 
-## Converter.ConvertSVG method (28 of 42)
+## ConvertSVG(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_30}
 
 Convert svg source to image. Result is image file.
 
@@ -728,7 +728,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## Converter.ConvertSVG method (29 of 42)
+## ConvertSVG(SVGDocument, XpsSaveOptions, string) {#convertsvg_5}
 
 Convert svg document to xps.Result is xps file.
 
@@ -752,7 +752,7 @@ public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string
 
 ---
 
-## Converter.ConvertSVG method (30 of 42)
+## ConvertSVG(Url, XpsSaveOptions, string) {#convertsvg_17}
 
 Convert svg source to xps. Result is xps file.
 
@@ -776,7 +776,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath
 
 ---
 
-## Converter.ConvertSVG method (31 of 42)
+## ConvertSVG(Url, Configuration, XpsSaveOptions, string) {#convertsvg_11}
 
 Convert svg source to xps. Result is xps file.
 
@@ -803,7 +803,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 ---
 
-## Converter.ConvertSVG method (32 of 42)
+## ConvertSVG(string, XpsSaveOptions, string) {#convertsvg_29}
 
 Convert svg source to xps. Result is xps file.
 
@@ -826,7 +826,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string 
 
 ---
 
-## Converter.ConvertSVG method (33 of 42)
+## ConvertSVG(string, Configuration, XpsSaveOptions, string) {#convertsvg_23}
 
 Convert svg source to xps. Result is xps file.
 
@@ -852,7 +852,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## Converter.ConvertSVG method (34 of 42)
+## ConvertSVG(string, string, XpsSaveOptions, string) {#convertsvg_41}
 
 Convert svg source to xps. Result is xps file.
 
@@ -877,7 +877,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 ---
 
-## Converter.ConvertSVG method (35 of 42)
+## ConvertSVG(string, string, Configuration, XpsSaveOptions, string) {#convertsvg_35}
 
 Convert svg source to xps. Result is xps file.
 
@@ -904,7 +904,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## Converter.ConvertSVG method (36 of 42)
+## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_4}
 
 Convert svg source to xps. Result is xps file.
 
@@ -930,7 +930,7 @@ public static void ConvertSVG(SVGDocument document, XpsSaveOptions options,
 
 ---
 
-## Converter.ConvertSVG method (37 of 42)
+## ConvertSVG(Url, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_16}
 
 Convert svg source to xps. Result is xps file.
 
@@ -955,7 +955,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProv
 
 ---
 
-## Converter.ConvertSVG method (38 of 42)
+## ConvertSVG(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_10}
 
 Convert svg source to xps. Result is xps file.
 
@@ -983,7 +983,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 ---
 
-## Converter.ConvertSVG method (39 of 42)
+## ConvertSVG(string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_28}
 
 Convert svg source to xps. Result is xps file.
 
@@ -1008,7 +1008,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options,
 
 ---
 
-## Converter.ConvertSVG method (40 of 42)
+## ConvertSVG(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_22}
 
 Convert svg source to xps. Result is xps file.
 
@@ -1035,7 +1035,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## Converter.ConvertSVG method (41 of 42)
+## ConvertSVG(string, string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_40}
 
 Convert svg source to xps. Result is xps file.
 
@@ -1061,7 +1061,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 ---
 
-## Converter.ConvertSVG method (42 of 42)
+## ConvertSVG(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_34}
 
 Convert svg source to xps. Result is xps file.
 

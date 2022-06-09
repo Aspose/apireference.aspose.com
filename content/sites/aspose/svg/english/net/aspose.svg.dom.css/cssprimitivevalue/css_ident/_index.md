@@ -1,7 +1,7 @@
 ---
 title: CSS_IDENT
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The value is an identifier. The value can be obtained by using the getStringValue method.
 type: docs
 weight: 240
 url: /net/aspose.svg.dom.css/cssprimitivevalue/css_ident/

@@ -1,7 +1,7 @@
 ---
 title: Configuration
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The configuration of image vectorization methods and options
 type: docs
 weight: 20
 url: /net/aspose.svg.imagevectorization/imagevectorizer/configuration/

@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The documents title.
 type: docs
 weight: 80
 url: /net/aspose.svg.rendering.pdf/pdfdocumentinfo/title/

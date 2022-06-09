@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The number of properties that have been explicitly set in this declaration block. The range of valid indices is 0 to length-1 inclusive.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/icssstyledeclaration/length/

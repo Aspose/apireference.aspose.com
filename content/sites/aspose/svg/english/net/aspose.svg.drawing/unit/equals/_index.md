@@ -1,12 +1,12 @@
 ---
 title: Equals
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Determines whether the specified Unitaspose.svg.drawing/unit is equal to this instance.
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/unit/equals/
 ---
-## Unit.Equals method (1 of 2)
+## Equals(Unit) {#equals}
 
 Determines whether the specified [`Unit`](../../unit), is equal to this instance.
 
@@ -30,7 +30,7 @@ public virtual bool Equals(Unit other)
 
 ---
 
-## Unit.Equals method (2 of 2)
+## Equals(object) {#equals_1}
 
 Determines whether the specified Object, is equal to this instance.
 

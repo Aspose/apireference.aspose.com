@@ -1,7 +1,7 @@
 ---
 title: DocumentType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The DocumentType provides an interface to the list of entities that are defined for the document
 type: docs
 weight: 830
 url: /net/aspose.svg.dom/documenttype/

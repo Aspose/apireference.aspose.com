@@ -1,7 +1,7 @@
 ---
 title: CounterType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the type of the counter.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icsscounterstylerule/countertype/

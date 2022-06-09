@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Implements the operator -.
 type: docs
 weight: 80
 url: /net/aspose.svg.drawing/time/op_subtraction/

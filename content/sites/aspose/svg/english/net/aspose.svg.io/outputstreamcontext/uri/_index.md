@@ -1,7 +1,7 @@
 ---
 title: Uri
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the original URI of the saved resource.
 type: docs
 weight: 20
 url: /net/aspose.svg.io/outputstreamcontext/uri/

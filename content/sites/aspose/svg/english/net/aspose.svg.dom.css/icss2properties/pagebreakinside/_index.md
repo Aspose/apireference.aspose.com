@@ -1,7 +1,7 @@
 ---
 title: PageBreakInside
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the page-break-inside property definition in CSS2.
 type: docs
 weight: 880
 url: /net/aspose.svg.dom.css/icss2properties/pagebreakinside/

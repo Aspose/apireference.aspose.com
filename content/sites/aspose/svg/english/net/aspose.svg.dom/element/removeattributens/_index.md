@@ -1,7 +1,7 @@
 ---
 title: RemoveAttributeNS
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Removes an attribute by local name and namespace URI.
 type: docs
 weight: 390
 url: /net/aspose.svg.dom/element/removeattributens/

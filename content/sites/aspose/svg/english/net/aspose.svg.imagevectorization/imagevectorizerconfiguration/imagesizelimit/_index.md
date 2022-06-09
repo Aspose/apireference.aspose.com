@@ -1,7 +1,7 @@
 ---
 title: ImageSizeLimit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets of sets maximal dimension of image determined by multiplication image width and height. The size of the image will be scaled based on this property. Default value is 1800000.
 type: docs
 weight: 30
 url: /net/aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit/

@@ -1,7 +1,7 @@
 ---
 title: Overflow
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the overflow property definition in CSS2.
 type: docs
 weight: 790
 url: /net/aspose.svg.dom.css/icss2properties/overflow/

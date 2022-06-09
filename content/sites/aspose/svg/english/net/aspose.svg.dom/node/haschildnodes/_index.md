@@ -1,7 +1,7 @@
 ---
 title: HasChildNodes
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns whether this node has any children.
 type: docs
 weight: 210
 url: /net/aspose.svg.dom/node/haschildnodes/

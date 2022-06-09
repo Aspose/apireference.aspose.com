@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates a new instance of a XpsGraphicContext class with the same property values as an existing instance.
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/clone/

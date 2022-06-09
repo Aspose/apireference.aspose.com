@@ -1,7 +1,7 @@
 ---
 title: PaddingLeft
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: See the padding-left property definition in CSS2.
 type: docs
 weight: 820
 url: /net/aspose.svg.dom.css/icss2properties/paddingleft/

@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute height on the given image element.
 type: docs
 weight: 10
 url: /net/aspose.svg/svgimageelement/height/

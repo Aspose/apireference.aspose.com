@@ -1,7 +1,7 @@
 ---
 title: SetAuto
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Resets container to state auto.
 type: docs
 weight: 60
 url: /net/aspose.svg.drawing/lengthorauto/setauto/

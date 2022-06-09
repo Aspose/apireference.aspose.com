@@ -1,7 +1,7 @@
 ---
 title: Location
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The location of the document.
 type: docs
 weight: 160
 url: /net/aspose.svg.dom/document/location/

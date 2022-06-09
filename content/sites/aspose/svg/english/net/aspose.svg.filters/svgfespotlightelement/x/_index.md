@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute x on the given feSpotLight element.
 type: docs
 weight: 60
 url: /net/aspose.svg.filters/svgfespotlightelement/x/

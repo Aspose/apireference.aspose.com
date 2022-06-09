@@ -1,7 +1,7 @@
 ---
 title: OnCueChange
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnCueChange event.
 type: docs
 weight: 350
 url: /net/aspose.svg.dom/document/oncuechange/

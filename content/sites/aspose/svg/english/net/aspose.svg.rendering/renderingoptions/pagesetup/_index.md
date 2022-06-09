@@ -1,7 +1,7 @@
 ---
 title: PageSetup
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets a page setup object is used for configuration output page-set.
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering/renderingoptions/pagesetup/

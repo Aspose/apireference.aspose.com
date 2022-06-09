@@ -1,7 +1,7 @@
 ---
 title: op_GreaterThanOrEqual
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Implements the operator gt.
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/time/op_greaterthanorequal/

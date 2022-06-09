@@ -1,7 +1,7 @@
 ---
 title: DispatchEvent
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: This method allows the dispatch of events into the implementations event model.
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.events/ieventtarget/dispatchevent/

@@ -1,7 +1,7 @@
 ---
 title: Bias
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute bias on the given feConvolveMatrix element.
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/svgfeconvolvematrixelement/bias/

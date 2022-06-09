@@ -1,7 +1,7 @@
 ---
 title: ParentStyleSheet
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The style sheet that contains this rule.
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/icssrule/parentstylesheet/

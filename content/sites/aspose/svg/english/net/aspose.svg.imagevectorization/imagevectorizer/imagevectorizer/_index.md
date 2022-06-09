@@ -1,12 +1,12 @@
 ---
 title: ImageVectorizer
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the ImageVectorizeraspose.svg.imagevectorization/imagevectorizer class.
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/imagevectorizer/imagevectorizer/
 ---
-## ImageVectorizer constructor (1 of 2)
+## ImageVectorizer() {#constructor}
 
 Initializes a new instance of the [`ImageVectorizer`](../../imagevectorizer) class.
 
@@ -22,7 +22,7 @@ public ImageVectorizer()
 
 ---
 
-## ImageVectorizer constructor (2 of 2)
+## ImageVectorizer(ImageVectorizerConfiguration) {#constructor_1}
 
 Initializes a new instance of the [`ImageVectorizer`](../../imagevectorizer) class.
 

@@ -1,7 +1,7 @@
 ---
 title: ContentType
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets the document content type.
 type: docs
 weight: 60
 url: /net/aspose.svg.dom/document/contenttype/

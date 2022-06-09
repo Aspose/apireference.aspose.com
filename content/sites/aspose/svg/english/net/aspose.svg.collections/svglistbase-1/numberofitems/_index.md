@@ -1,7 +1,7 @@
 ---
 title: NumberOfItems
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The number of items in the list.
 type: docs
 weight: 30
 url: /net/aspose.svg.collections/svglistbase-1/numberofitems/

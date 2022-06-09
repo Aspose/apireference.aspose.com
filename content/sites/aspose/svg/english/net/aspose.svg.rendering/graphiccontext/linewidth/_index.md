@@ -1,7 +1,7 @@
 ---
 title: LineWidth
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sets or gets the thickness of paths to be stroked.
 type: docs
 weight: 120
 url: /net/aspose.svg.rendering/graphiccontext/linewidth/

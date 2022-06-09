@@ -1,7 +1,7 @@
 ---
 title: FillText
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Fills the specified text string at the specified location.
 type: docs
 weight: 140
 url: /net/aspose.svg.rendering.pdf/pdfdevice/filltext/

@@ -1,7 +1,7 @@
 ---
 title: LookupPrefix
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Look up the prefix associated to the given namespace URI starting from this node. The default namespace declarations are ignored by this method. See Namespace Prefix Lookup for details on the algorithm used by this method.
 type: docs
 weight: 270
 url: /net/aspose.svg.dom/node/lookupprefix/

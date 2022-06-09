@@ -1,7 +1,7 @@
 ---
 title: AtPagePriority
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Specifies possible orders of applying page size declarations.
 type: docs
 weight: 2650
 url: /net/aspose.svg.rendering/atpagepriority/

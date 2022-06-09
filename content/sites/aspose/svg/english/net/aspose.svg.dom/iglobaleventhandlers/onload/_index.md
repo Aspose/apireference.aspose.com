@@ -1,7 +1,7 @@
 ---
 title: OnLoad
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnLoad event.
 type: docs
 weight: 200
 url: /net/aspose.svg.dom/iglobaleventhandlers/onload/

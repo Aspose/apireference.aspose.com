@@ -1,7 +1,7 @@
 ---
 title: ReleaseStream
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Releases the output stream.
 type: docs
 weight: 20
 url: /net/aspose.svg.io/ioutputstorage/releasestream/

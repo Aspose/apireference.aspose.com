@@ -1,7 +1,7 @@
 ---
 title: SVGFEPointLightElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The SVGFEPointLightElement interface corresponds to the fePointLight element.
 type: docs
 weight: 1820
 url: /net/aspose.svg.filters/svgfepointlightelement/

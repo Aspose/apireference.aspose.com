@@ -1,7 +1,7 @@
 ---
 title: CSSRules
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The list of all CSS rules contained within the style sheet. This includes both rule sets and at-rules.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icssstylesheet/cssrules/

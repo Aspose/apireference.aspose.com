@@ -1,7 +1,7 @@
 ---
 title: KHz
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is in kiloHertz.
 type: docs
 weight: 140
 url: /net/aspose.svg.drawing/unittype/khz/

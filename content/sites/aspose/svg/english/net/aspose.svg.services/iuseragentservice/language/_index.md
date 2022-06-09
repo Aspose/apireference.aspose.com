@@ -1,7 +1,7 @@
 ---
 title: Language
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The Languageaspose.svg.services/iuseragentservice/language specifies the primary language for the elements contents and for any of the elements attributes that contain text. Its value must be a valid BCP 47  language tag or the empty string. Setting the attribute to the empty string indicates that the primary language is unknown.
 type: docs
 weight: 40
 url: /net/aspose.svg.services/iuseragentservice/language/

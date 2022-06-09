@@ -1,7 +1,7 @@
 ---
 title: SmoothingMode
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets the rendering quality for this Graphics.
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/

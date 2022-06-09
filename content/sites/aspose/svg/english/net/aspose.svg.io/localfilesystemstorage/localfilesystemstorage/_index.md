@@ -1,12 +1,12 @@
 ---
 title: LocalFileSystemStorage
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the LocalFileSystemStorageaspose.svg.io/localfilesystemstorage class.
 type: docs
 weight: 10
 url: /net/aspose.svg.io/localfilesystemstorage/localfilesystemstorage/
 ---
-## LocalFileSystemStorage constructor (1 of 2)
+## LocalFileSystemStorage() {#constructor}
 
 Initializes a new instance of the [`LocalFileSystemStorage`](../../localfilesystemstorage) class.
 
@@ -22,7 +22,7 @@ public LocalFileSystemStorage()
 
 ---
 
-## LocalFileSystemStorage constructor (2 of 2)
+## LocalFileSystemStorage(string) {#constructor_1}
 
 Initializes a new instance of the [`LocalFileSystemStorage`](../../localfilesystemstorage) class.
 

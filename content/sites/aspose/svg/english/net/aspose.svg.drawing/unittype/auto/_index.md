@@ -1,7 +1,7 @@
 ---
 title: Auto
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Measurement is not defined.
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/unittype/auto/

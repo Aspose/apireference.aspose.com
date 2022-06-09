@@ -1,7 +1,7 @@
 ---
 title: op_Implicit
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Performs an implicit conversion from String to UnitTypeaspose.svg.drawing/unittype.
 type: docs
 weight: 360
 url: /net/aspose.svg.drawing/unittype/op_implicit/

@@ -1,7 +1,7 @@
 ---
 title: FromMilliseconds
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Timeaspose.svg.drawing/time object that is represented in milliseconds.
 type: docs
 weight: 150
 url: /net/aspose.svg.drawing/unit/frommilliseconds/

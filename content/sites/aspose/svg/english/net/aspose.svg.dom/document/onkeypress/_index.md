@@ -1,7 +1,7 @@
 ---
 title: OnKeyPress
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Gets or sets event handler for OnKeyPress event.
 type: docs
 weight: 450
 url: /net/aspose.svg.dom/document/onkeypress/

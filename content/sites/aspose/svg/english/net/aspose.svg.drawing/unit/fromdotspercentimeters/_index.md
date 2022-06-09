@@ -1,7 +1,7 @@
 ---
 title: FromDotsPerCentimeters
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a Resolutionaspose.svg.drawing/resolution object that is represented in dots per centimeters.
 type: docs
 weight: 70
 url: /net/aspose.svg.drawing/unit/fromdotspercentimeters/

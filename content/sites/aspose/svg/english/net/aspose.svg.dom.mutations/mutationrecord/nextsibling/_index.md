@@ -1,7 +1,7 @@
 ---
 title: NextSibling
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Return the next sibling of the added or removed nodes or null.
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.mutations/mutationrecord/nextsibling/

@@ -1,7 +1,7 @@
 ---
 title: SetMatrix
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Sets the transform type to SVG_TRANSFORM_MATRIX with parameter matrix defining the new transformation. The values from the parameter matrix are copied the matrix parameter does not replace SVGTransformmatrix.
 type: docs
 weight: 40
 url: /net/aspose.svg.datatypes/svgtransform/setmatrix/

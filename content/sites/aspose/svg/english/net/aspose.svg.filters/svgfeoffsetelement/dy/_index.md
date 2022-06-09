@@ -1,7 +1,7 @@
 ---
 title: Dy
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Corresponds to attribute dy on the given feOffset element.
 type: docs
 weight: 20
 url: /net/aspose.svg.filters/svgfeoffsetelement/dy/

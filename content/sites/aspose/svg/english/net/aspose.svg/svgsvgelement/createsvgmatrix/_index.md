@@ -1,7 +1,7 @@
 ---
 title: CreateSVGMatrix
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates an SVGMatrix object outside of any document trees. The object is initialized to the identity matrix.
 type: docs
 weight: 140
 url: /net/aspose.svg/svgsvgelement/createsvgmatrix/

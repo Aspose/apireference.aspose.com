@@ -1,7 +1,7 @@
 ---
 title: SaveGraphicContext
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Pushes a copy of the entire graphics context onto the stack.
 type: docs
 weight: 210
 url: /net/aspose.svg.rendering/device-2/savegraphiccontext/

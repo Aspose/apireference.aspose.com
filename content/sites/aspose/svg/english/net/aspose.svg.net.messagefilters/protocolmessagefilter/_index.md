@@ -1,7 +1,7 @@
 ---
 title: ProtocolMessageFilter
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents implementation of message filter by the resource protocol.
 type: docs
 weight: 2270
 url: /net/aspose.svg.net.messagefilters/protocolmessagefilter/

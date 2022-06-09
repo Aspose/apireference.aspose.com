@@ -1,7 +1,7 @@
 ---
 title: IterateNext
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Iterates and returns the next node from the node set or null if there are no more nodes.
 type: docs
 weight: 80
 url: /net/aspose.svg.dom.xpath/ixpathresult/iteratenext/

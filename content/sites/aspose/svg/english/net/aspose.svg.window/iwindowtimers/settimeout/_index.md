@@ -1,7 +1,7 @@
 ---
 title: SetTimeout
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Schedules a timeout to run handler after timeout milliseconds. Any arguments are passed straight through to the handler.
 type: docs
 weight: 40
 url: /net/aspose.svg.window/iwindowtimers/settimeout/

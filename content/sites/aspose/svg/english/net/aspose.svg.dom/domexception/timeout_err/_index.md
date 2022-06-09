@@ -1,7 +1,7 @@
 ---
 title: TIMEOUT_ERR
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The operation timed out.
 type: docs
 weight: 260
 url: /net/aspose.svg.dom/domexception/timeout_err/

@@ -1,7 +1,7 @@
 ---
 title: Post
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents an HTTP POST protocol method.
 type: docs
 weight: 40
 url: /net/aspose.svg.net/httpmethod/post/

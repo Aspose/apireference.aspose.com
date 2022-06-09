@@ -1,7 +1,7 @@
 ---
 title: Put
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Represents an HTTP PUT protocol method.
 type: docs
 weight: 50
 url: /net/aspose.svg.net/httpmethod/put/

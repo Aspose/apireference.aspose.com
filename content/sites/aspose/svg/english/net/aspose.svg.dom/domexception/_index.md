@@ -1,7 +1,7 @@
 ---
 title: DOMException
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The DOMException interface represents an abnormal event called an exception which occurs as a result of calling a method or accessing a property of a web API. This is basically how error conditions are described in web APIs.
 type: docs
 weight: 790
 url: /net/aspose.svg.dom/domexception/
@@ -18,8 +18,8 @@ public class DOMException : PlatformException
 
 | Name | Description |
 | --- | --- |
-| [DOMException](domexception)(string) | Initializes a new instance of the [`DOMException`](../domexception) class. |
-| [DOMException](domexception)(string, string) | Initializes a new instance of the [`DOMException`](../domexception) class. |
+| [DOMException](domexception#constructor)(string) | Initializes a new instance of the [`DOMException`](../domexception) class. |
+| [DOMException](domexception#constructor_1)(string, string) | Initializes a new instance of the [`DOMException`](../domexception) class. |
 
 ## Properties
 

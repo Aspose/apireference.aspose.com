@@ -1,7 +1,7 @@
 ---
 title: SkewX
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Post-multiplies a skewX transformation on the current matrix and returns the resulting matrix.
 type: docs
 weight: 110
 url: /net/aspose.svg.datatypes/svgmatrix/skewx/

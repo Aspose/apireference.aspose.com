@@ -1,7 +1,7 @@
 ---
 title: CreateSVGRect
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Creates an SVGRect object outside of any document trees. The object is initialized such that all values are set to 0 user units.
 type: docs
 weight: 170
 url: /net/aspose.svg/svgsvgelement/createsvgrect/

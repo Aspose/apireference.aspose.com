@@ -1,7 +1,7 @@
 ---
 title: Element
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Initializes a new instance of the Elementaspose.svg.dom/element class. Dont call this constructor directly use CreateElementaspose.svg.dom/document/createelement or CreateElementNSaspose.svg.dom/document/createelementns.
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/element/element/

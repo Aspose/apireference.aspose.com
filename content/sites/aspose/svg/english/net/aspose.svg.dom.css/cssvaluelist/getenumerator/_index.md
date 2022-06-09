@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns an enumerator that iterates through the collection.
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.css/cssvaluelist/getenumerator/

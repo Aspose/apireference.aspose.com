@@ -1,7 +1,7 @@
 ---
 title: Target
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Used to indicate the IEventTargetaspose.svg.dom.events/ieventtarget to which the event was originally dispatched.
 type: docs
 weight: 80
 url: /net/aspose.svg.dom.events/event/target/

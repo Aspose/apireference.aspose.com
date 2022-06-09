@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegClosePath
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Returns a stand-alone parentless SVGPathSegClosePath object.
 type: docs
 weight: 50
 url: /net/aspose.svg/svgpathelement/createsvgpathsegclosepath/

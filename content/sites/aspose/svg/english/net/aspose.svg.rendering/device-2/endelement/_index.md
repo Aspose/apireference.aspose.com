@@ -1,7 +1,7 @@
 ---
 title: EndElement
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: Ends rendering of the node.
 type: docs
 weight: 130
 url: /net/aspose.svg.rendering/device-2/endelement/
