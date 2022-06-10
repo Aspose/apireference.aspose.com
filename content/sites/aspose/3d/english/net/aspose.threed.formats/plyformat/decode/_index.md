@@ -19,7 +19,7 @@ public Geometry Decode(string fileName, PlyLoadOptions opt = null)
 | fileName | String | The input stream |
 | opt | PlyLoadOptions | The load option of PLY format |
 
-## Return Value
+### Return Value
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance
 
@@ -46,7 +46,7 @@ public Geometry Decode(Stream stream, PlyLoadOptions opt = null)
 | stream | Stream | The input stream |
 | opt | PlyLoadOptions | The load option of PLY format |
 
-## Return Value
+### Return Value
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance
 

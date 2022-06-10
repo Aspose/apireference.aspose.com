@@ -14,7 +14,7 @@ Gets or sets the order of a NURBS curve, it defines the number of nearby control
 public int Order { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The order.
 

@@ -14,7 +14,7 @@ Blend factor specify pixel arithmetic.
 public enum BlendFactor
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

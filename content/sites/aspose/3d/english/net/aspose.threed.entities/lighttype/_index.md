@@ -14,7 +14,7 @@ Light types.
 public enum LightType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

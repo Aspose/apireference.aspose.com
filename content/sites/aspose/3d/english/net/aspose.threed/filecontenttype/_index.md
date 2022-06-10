@@ -14,7 +14,7 @@ File content type
 public enum FileContentType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

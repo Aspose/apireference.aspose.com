@@ -6,7 +6,7 @@ type: docs
 weight: 140
 url: /net/aspose.threed/scene/open/
 ---
-## Scene.Open method (1 of 6)
+## Scene.Open method (1 of 8)
 
 Opens the scene from given stream using specified file format.
 
@@ -29,7 +29,7 @@ public void Open(Stream stream, FileFormat format, CancellationToken cancellatio
 
 ---
 
-## Scene.Open method (2 of 6)
+## Scene.Open method (2 of 8)
 
 Opens the scene from given stream using specified IO config.
 
@@ -52,12 +52,32 @@ public void Open(Stream stream, LoadOptions options, CancellationToken cancellat
 
 ---
 
-## Scene.Open method (3 of 6)
+## Scene.Open method (3 of 8)
 
 Opens the scene from given stream
 
 ```csharp
-public void Open(Stream stream, CancellationToken cancellationToken = default)
+public void Open(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Input stream, user is responsible for closing the stream. |
+
+### See Also
+
+* class [Scene](../../scene)
+* namespace [Aspose.ThreeD](../../scene)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Scene.Open method (4 of 8)
+
+Opens the scene from given stream
+
+```csharp
+public void Open(Stream stream, CancellationToken cancellationToken)
 ```
 
 | Parameter | Type | Description |
@@ -73,7 +93,7 @@ public void Open(Stream stream, CancellationToken cancellationToken = default)
 
 ---
 
-## Scene.Open method (4 of 6)
+## Scene.Open method (5 of 8)
 
 Opens the scene from given path using specified file format.
 
@@ -96,7 +116,7 @@ public void Open(string fileName, FileFormat format, CancellationToken cancellat
 
 ---
 
-## Scene.Open method (5 of 6)
+## Scene.Open method (6 of 8)
 
 Opens the scene from given path using specified file format.
 
@@ -120,12 +140,32 @@ public void Open(string fileName, LoadOptions options,
 
 ---
 
-## Scene.Open method (6 of 6)
+## Scene.Open method (7 of 8)
 
 Opens the scene from given path
 
 ```csharp
-public void Open(string fileName, CancellationToken cancellationToken = default)
+public void Open(string fileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | File name. |
+
+### See Also
+
+* class [Scene](../../scene)
+* namespace [Aspose.ThreeD](../../scene)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Scene.Open method (8 of 8)
+
+Opens the scene from given path
+
+```csharp
+public void Open(string fileName, CancellationToken cancellationToken)
 ```
 
 | Parameter | Type | Description |

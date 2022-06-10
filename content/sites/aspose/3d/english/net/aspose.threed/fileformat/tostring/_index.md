@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.threed/fileformat/tostring/
 ---
 ## FileFormat.ToString method
@@ -14,7 +14,7 @@ Formats to string
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 Object string
 

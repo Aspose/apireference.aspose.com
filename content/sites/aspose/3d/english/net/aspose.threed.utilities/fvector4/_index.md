@@ -35,14 +35,14 @@ public struct FVector4
 | [operator *](../../aspose.threed.utilities/fvector4/op_multiply) | Operator overloading for * |
 | [operator -](../../aspose.threed.utilities/fvector4/op_subtraction) | Operator overloading for - (minus) |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| [w](w) | The w component. |
-| [x](x) | The x component. |
-| [y](y) | The y component. |
-| [z](z) | The z component. |
+| [w](../../aspose.threed.utilities/fvector4/w) | The w component. |
+| [x](../../aspose.threed.utilities/fvector4/x) | The x component. |
+| [y](../../aspose.threed.utilities/fvector4/y) | The y component. |
+| [z](../../aspose.threed.utilities/fvector4/z) | The z component. |
 
 ### See Also
 

@@ -14,7 +14,7 @@ Pose type.
 public enum PoseType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

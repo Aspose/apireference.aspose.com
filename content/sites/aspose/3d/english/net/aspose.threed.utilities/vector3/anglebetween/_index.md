@@ -19,7 +19,7 @@ public double AngleBetween(Vector3 dir, Vector3 up)
 | dir | Vector3 | The direction vector to compare with |
 | up | Vector3 | The up vector of the two direction's shared plane |
 
-## Return Value
+### Return Value
 
 inner angle in radian
 
@@ -43,7 +43,7 @@ public double AngleBetween(Vector3 dir)
 | --- | --- | --- |
 | dir | Vector3 | The direction vector to compare with |
 
-## Return Value
+### Return Value
 
 inner angle in radian
 

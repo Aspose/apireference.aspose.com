@@ -14,7 +14,7 @@ Gets or sets the width of the box aligned in x-axis.
 public double Width { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The width aligned in x-axis.
 

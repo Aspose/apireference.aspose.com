@@ -14,7 +14,7 @@ Compression level for draco file
 public enum DracoCompressionLevel
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

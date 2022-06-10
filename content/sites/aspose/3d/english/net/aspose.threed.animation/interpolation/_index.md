@@ -14,7 +14,7 @@ The key frame's interpolation type.
 public enum Interpolation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets all [`BonePose`](../../bonepose).
 public IList<BonePose> BonePoses { get; }
 ```
 
-## Property Value
+### Property Value
 
 The nodes.
 

@@ -14,7 +14,7 @@ Patch direction's types.
 public enum PatchDirectionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

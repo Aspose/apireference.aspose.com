@@ -40,14 +40,14 @@ public struct Vector4 : IComparable<Vector4>
 | [operator *](../../aspose.threed.utilities/vector4/op_multiply) | Operator overloading for * (2 operators) |
 | [operator -](../../aspose.threed.utilities/vector4/op_subtraction) | Operator overloading for - (minus) |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| [w](w) | The w component. |
-| [x](x) | The x component. |
-| [y](y) | The y component. |
-| [z](z) | The z component. |
+| [w](../../aspose.threed.utilities/vector4/w) | The w component. |
+| [x](../../aspose.threed.utilities/vector4/x) | The x component. |
+| [y](../../aspose.threed.utilities/vector4/y) | The y component. |
+| [z](../../aspose.threed.utilities/vector4/z) | The z component. |
 
 ### See Also
 

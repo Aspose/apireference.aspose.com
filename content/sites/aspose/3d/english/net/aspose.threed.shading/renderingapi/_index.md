@@ -14,7 +14,7 @@ Commonly used rendering APIs
 public enum RenderingAPI
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

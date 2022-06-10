@@ -1,12 +1,12 @@
 ---
 title: Aspose.ThreeD.Utilities
 second_title: Aspose.3D for .NET API Reference
-description: 
+description: All utility classes are defined in this namespace.
 type: docs
 weight: 90
 url: /net/aspose.threed.utilities/
 ---
-
+All utility classes are defined in this namespace.
 
 ## Classes
 

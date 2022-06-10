@@ -14,7 +14,7 @@ Interpolation step mode.
 public enum StepMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

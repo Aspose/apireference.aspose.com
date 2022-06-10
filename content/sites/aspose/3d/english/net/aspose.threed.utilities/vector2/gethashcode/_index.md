@@ -14,7 +14,7 @@ Gets the hash code of Vector2
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 The hash code of the [`Vector2`](../../vector2)
 

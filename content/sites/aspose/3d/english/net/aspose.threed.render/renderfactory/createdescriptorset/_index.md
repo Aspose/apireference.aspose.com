@@ -18,7 +18,7 @@ public abstract IDescriptorSet CreateDescriptorSet(ShaderProgram shader)
 | --- | --- | --- |
 | shader | ShaderProgram | The shader program |
 
-## Return Value
+### Return Value
 
 A new descriptor set instance
 

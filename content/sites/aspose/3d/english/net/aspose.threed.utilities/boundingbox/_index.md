@@ -41,12 +41,12 @@ public struct BoundingBox
 | override [ToString](../../aspose.threed.utilities/boundingbox/tostring)() | Gets the string representation of the bounding box. |
 | [operator *](../../aspose.threed.utilities/boundingbox/op_multiply) | Operator overloading for multiply |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Infinite](infinite) | The infinite bounding box |
-| static readonly [Null](null) | The null bounding box |
+| static readonly [Infinite](../../aspose.threed.utilities/boundingbox/infinite) | The infinite bounding box |
+| static readonly [Null](../../aspose.threed.utilities/boundingbox/null) | The null bounding box |
 
 ### See Also
 

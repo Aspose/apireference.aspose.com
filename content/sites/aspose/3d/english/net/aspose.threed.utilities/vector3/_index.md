@@ -55,18 +55,18 @@ public struct Vector3 : IComparable<Vector3>
 | [operator *](../../aspose.threed.utilities/vector3/op_multiply) | Operator overloading for * (3 operators) |
 | [operator -](../../aspose.threed.utilities/vector3/op_subtraction) | Operator overloading for - (2 operators) |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Origin](origin) | Gets the origin position. |
-| static readonly [UnitScale](unitscale) | Gets the unit scale vector. |
-| static readonly [XAxis](xaxis) | Gets the X axis. |
-| static readonly [YAxis](yaxis) | Gets the Y axis. |
-| static readonly [ZAxis](zaxis) | Gets the Z axis. |
-| [x](x) | The x component. |
-| [y](y) | The y component. |
-| [z](z) | The z component. |
+| static readonly [Origin](../../aspose.threed.utilities/vector3/origin) | Gets the origin position. |
+| static readonly [UnitScale](../../aspose.threed.utilities/vector3/unitscale) | Gets the unit scale vector. |
+| static readonly [XAxis](../../aspose.threed.utilities/vector3/xaxis) | Gets the X axis. |
+| static readonly [YAxis](../../aspose.threed.utilities/vector3/yaxis) | Gets the Y axis. |
+| static readonly [ZAxis](../../aspose.threed.utilities/vector3/zaxis) | Gets the Z axis. |
+| [x](../../aspose.threed.utilities/vector3/x) | The x component. |
+| [y](../../aspose.threed.utilities/vector3/y) | The y component. |
+| [z](../../aspose.threed.utilities/vector3/z) | The z component. |
 
 ### See Also
 

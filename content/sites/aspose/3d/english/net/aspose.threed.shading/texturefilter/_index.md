@@ -14,7 +14,7 @@ Filter options during texture sampling.
 public enum TextureFilter
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

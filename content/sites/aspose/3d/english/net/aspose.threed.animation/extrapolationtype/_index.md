@@ -14,7 +14,7 @@ Extrapolation type.
 public enum ExtrapolationType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

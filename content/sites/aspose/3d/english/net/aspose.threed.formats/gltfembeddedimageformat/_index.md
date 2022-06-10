@@ -14,7 +14,7 @@ How glTF exporter will embed the textures during the exporting.
 public enum GltfEmbeddedImageFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

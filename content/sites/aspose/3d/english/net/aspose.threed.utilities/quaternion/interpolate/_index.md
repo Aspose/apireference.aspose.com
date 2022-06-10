@@ -20,7 +20,7 @@ public static Quaternion Interpolate(float t, Quaternion from, Quaternion to)
 | from | Quaternion | Source quaternion. |
 | to | Quaternion | Target quaternion. |
 
-## Return Value
+### Return Value
 
 The interpolated quaternion.
 

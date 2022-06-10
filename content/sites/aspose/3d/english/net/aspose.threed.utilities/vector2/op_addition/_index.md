@@ -19,7 +19,7 @@ public static Vector2 operator +(Vector2 lhs, Vector2 rhs)
 | lhs | Vector2 | Left hand side value. |
 | rhs | Vector2 | Right hand side value. |
 
-## Return Value
+### Return Value
 
 The result of addition.
 

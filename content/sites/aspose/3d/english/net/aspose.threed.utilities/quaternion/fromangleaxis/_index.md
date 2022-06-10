@@ -19,7 +19,7 @@ public static Quaternion FromAngleAxis(double a, Vector3 axis)
 | a | Double | Clockwise rotation in radian |
 | axis | Vector3 | Axis |
 
-## Return Value
+### Return Value
 
 Created quaternion
 

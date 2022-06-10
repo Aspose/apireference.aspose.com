@@ -19,7 +19,7 @@ public static Matrix4 operator *(Matrix4 lhs, Matrix4 rhs)
 | lhs | Matrix4 | Lhs. |
 | rhs | Matrix4 | Rhs. |
 
-## Return Value
+### Return Value
 
 Result matrix
 
@@ -44,7 +44,7 @@ public static Vector3 operator *(Matrix4 lhs, Vector3 v)
 | lhs | Matrix4 | Lhs. |
 | v | Vector3 | V. |
 
-## Return Value
+### Return Value
 
 Result matrix
 
@@ -70,7 +70,7 @@ public static Vector4 operator *(Matrix4 lhs, Vector4 v)
 | lhs | Matrix4 | Lhs. |
 | v | Vector4 | V. |
 
-## Return Value
+### Return Value
 
 Result matrix
 
@@ -96,7 +96,7 @@ public static Matrix4 operator *(Matrix4 lhs, double v)
 | lhs | Matrix4 | Lhs. |
 | v | Double | V. |
 
-## Return Value
+### Return Value
 
 Result matrix
 

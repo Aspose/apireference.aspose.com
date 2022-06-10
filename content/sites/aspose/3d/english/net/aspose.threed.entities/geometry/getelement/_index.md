@@ -18,7 +18,7 @@ public VertexElement GetElement(VertexElementType type)
 | --- | --- | --- |
 | type | VertexElementType | which vertex element type to find |
 
-## Return Value
+### Return Value
 
 [`VertexElement`](../../vertexelement) instance if found, otherwise null will be returned.
 

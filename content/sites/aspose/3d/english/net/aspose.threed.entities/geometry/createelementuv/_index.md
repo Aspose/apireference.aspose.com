@@ -18,7 +18,7 @@ public VertexElementUV CreateElementUV(TextureMapping uvMapping)
 | --- | --- | --- |
 | uvMapping | TextureMapping | Which texture mapping type to create |
 
-## Return Value
+### Return Value
 
 Created element uv
 
@@ -47,7 +47,7 @@ public VertexElementUV CreateElementUV(TextureMapping uvMapping, MappingMode map
 | mappingMode | MappingMode | Default mapping mode |
 | referenceMode | ReferenceMode | Default reference mode |
 
-## Return Value
+### Return Value
 
 Created element uv
 

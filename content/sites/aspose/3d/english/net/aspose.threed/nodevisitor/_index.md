@@ -18,7 +18,7 @@ public delegate bool NodeVisitor(Node node);
 | --- | --- | --- |
 | node | Node | Node being visited |
 
-## Return Value
+### Return Value
 
 Return false to stop traveling
 

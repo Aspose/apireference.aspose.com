@@ -14,7 +14,7 @@ Gets or sets the width segments.
 public int WidthSegments { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The width segments.
 

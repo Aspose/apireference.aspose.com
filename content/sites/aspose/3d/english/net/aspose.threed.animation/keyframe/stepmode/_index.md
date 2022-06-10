@@ -14,7 +14,7 @@ Gets or sets the key's step mode. If the interpolation type is Constant, list.da
 public StepMode StepMode { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The step mode.
 

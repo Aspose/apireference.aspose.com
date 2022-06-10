@@ -36,12 +36,12 @@ public struct BoundingBox2D
 | [Merge](../../aspose.threed.utilities/boundingbox2d/merge)(Vector2) | Merges the new box into the current bounding box. |
 | override [ToString](../../aspose.threed.utilities/boundingbox2d/tostring)() | Gets the string representation of the bounding box. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Infinite](infinite) | The infinite bounding box |
-| static readonly [Null](null) | The null bounding box |
+| static readonly [Infinite](../../aspose.threed.utilities/boundingbox2d/infinite) | The infinite bounding box |
+| static readonly [Null](../../aspose.threed.utilities/boundingbox2d/null) | The null bounding box |
 
 ### See Also
 

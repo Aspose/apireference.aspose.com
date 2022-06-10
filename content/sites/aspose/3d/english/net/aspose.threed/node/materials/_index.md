@@ -14,7 +14,7 @@ Gets the materials associated with this node.
 public IList<Material> Materials { get; }
 ```
 
-## Property Value
+### Property Value
 
 The materials.
 

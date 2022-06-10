@@ -18,7 +18,7 @@ public Geometry Decode(string fileName)
 | --- | --- | --- |
 | fileName | String | The file name contains the drc file |
 
-## Return Value
+### Return Value
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance depends on the file content
 
@@ -43,7 +43,7 @@ public Geometry Decode(byte[] data)
 | --- | --- | --- |
 | data | Byte[] | The raw drc bytes |
 
-## Return Value
+### Return Value
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance depends on the content
 

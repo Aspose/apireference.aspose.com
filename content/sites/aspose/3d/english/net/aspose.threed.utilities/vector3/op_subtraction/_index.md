@@ -18,7 +18,7 @@ public static Vector3 operator -(Vector3 v)
 | --- | --- | --- |
 | v | Vector3 | The origin vector |
 
-## Return Value
+### Return Value
 
 Result vector
 
@@ -43,7 +43,7 @@ public static Vector3 operator -(Vector3 lhs, Vector3 rhs)
 | lhs | Vector3 | The left vector |
 | rhs | Vector3 | The right vector |
 
-## Return Value
+### Return Value
 
 Result vector
 

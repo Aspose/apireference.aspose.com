@@ -14,7 +14,7 @@ Gets the indices.
 public IList<int> Indices { get; }
 ```
 
-## Property Value
+### Property Value
 
 The indices.
 

@@ -6,12 +6,34 @@ type: docs
 weight: 160
 url: /net/aspose.threed/scene/save/
 ---
-## Scene.Save method (1 of 4)
+## Scene.Save method (1 of 7)
 
 Saves the scene to stream using specified file format.
 
 ```csharp
-public void Save(Stream stream, FileFormat format, CancellationToken cancellationToken = default)
+public void Save(Stream stream, FileFormat format)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Input stream, user is responsible for closing the stream. |
+| format | FileFormat | Format. |
+
+### See Also
+
+* class [FileFormat](../../fileformat)
+* class [Scene](../../scene)
+* namespace [Aspose.ThreeD](../../scene)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Scene.Save method (2 of 7)
+
+Saves the scene to stream using specified file format.
+
+```csharp
+public void Save(Stream stream, FileFormat format, CancellationToken cancellationToken)
 ```
 
 | Parameter | Type | Description |
@@ -29,7 +51,7 @@ public void Save(Stream stream, FileFormat format, CancellationToken cancellatio
 
 ---
 
-## Scene.Save method (2 of 4)
+## Scene.Save method (3 of 7)
 
 Saves the scene to stream using specified file format.
 
@@ -52,12 +74,54 @@ public void Save(Stream stream, SaveOptions options, CancellationToken cancellat
 
 ---
 
-## Scene.Save method (3 of 4)
+## Scene.Save method (4 of 7)
 
 Saves the scene to specified path using specified file format.
 
 ```csharp
-public void Save(string fileName, FileFormat format, CancellationToken cancellationToken = default)
+public void Save(string fileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | File name. |
+
+### See Also
+
+* class [Scene](../../scene)
+* namespace [Aspose.ThreeD](../../scene)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Scene.Save method (5 of 7)
+
+Saves the scene to specified path using specified file format.
+
+```csharp
+public void Save(string fileName, FileFormat format)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | File name. |
+| format | FileFormat | Format. |
+
+### See Also
+
+* class [FileFormat](../../fileformat)
+* class [Scene](../../scene)
+* namespace [Aspose.ThreeD](../../scene)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Scene.Save method (6 of 7)
+
+Saves the scene to specified path using specified file format.
+
+```csharp
+public void Save(string fileName, FileFormat format, CancellationToken cancellationToken)
 ```
 
 | Parameter | Type | Description |
@@ -75,7 +139,7 @@ public void Save(string fileName, FileFormat format, CancellationToken cancellat
 
 ---
 
-## Scene.Save method (4 of 4)
+## Scene.Save method (7 of 7)
 
 Saves the scene to specified path using specified file format.
 

@@ -18,7 +18,7 @@ public bool RemoveProperty(Property property)
 | --- | --- | --- |
 | property | Property | Which property to remove |
 
-## Return Value
+### Return Value
 
 true if the property is successfully removed
 
@@ -43,7 +43,7 @@ public bool RemoveProperty(string property)
 | --- | --- | --- |
 | property | String | Which property to remove |
 
-## Return Value
+### Return Value
 
 true if the property is successfully removed
 

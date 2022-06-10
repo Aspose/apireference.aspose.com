@@ -14,7 +14,7 @@ Gets or sets the transparent color.
 public Vector3 TransparentColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color of the transparent.
 

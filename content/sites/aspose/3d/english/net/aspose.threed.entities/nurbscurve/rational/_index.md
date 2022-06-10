@@ -14,7 +14,7 @@ Gets or sets whether it is rational, this value indicates whether this [`NurbsCu
 public bool Rational { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 true if it's rational spline; otherwise, false is a non-rational spline.
 

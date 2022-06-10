@@ -14,7 +14,7 @@ The node's transformation style of node
 public enum ColladaTransformStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

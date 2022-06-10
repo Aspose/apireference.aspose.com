@@ -14,7 +14,7 @@ Camera's projection types.
 public enum ProjectionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Texture's wrap mode.
 public enum WrapMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

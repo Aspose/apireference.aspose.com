@@ -14,7 +14,7 @@ Gets or sets the type of the skeleton.
 public SkeletonType Type { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the skeleton.
 

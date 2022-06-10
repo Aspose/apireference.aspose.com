@@ -22,7 +22,7 @@ public KeyframeSequence GetKeyframeSequence(A3DObject target, string propName, s
 | channelName | String | The channel name. |
 | create | Boolean | If set to `true` create the animation sequence if it's not existing. |
 
-## Return Value
+### Return Value
 
 The keyframe sequence.
 
@@ -50,7 +50,7 @@ public KeyframeSequence GetKeyframeSequence(A3DObject target, string propName, b
 | propName | String | The property's name. |
 | create | Boolean | If set to `true`, create the sequence if it's not existing. |
 
-## Return Value
+### Return Value
 
 The keyframe sequence.
 

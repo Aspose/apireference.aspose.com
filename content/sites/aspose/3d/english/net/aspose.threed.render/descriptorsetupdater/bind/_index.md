@@ -20,7 +20,7 @@ public DescriptorSetUpdater Bind(IBuffer buffer, int offset, int size)
 | offset | Int32 | Offset of the buffer to bind |
 | size | Int32 | Size of the buffer to bind |
 
-## Return Value
+### Return Value
 
 Return current instance for chaining operation
 
@@ -45,7 +45,7 @@ public DescriptorSetUpdater Bind(IBuffer buffer)
 | --- | --- | --- |
 | buffer | IBuffer |  |
 
-## Return Value
+### Return Value
 
 Return current instance for chaining operation
 
@@ -71,7 +71,7 @@ public DescriptorSetUpdater Bind(int binding, IBuffer buffer)
 | binding | Int32 | Binding location |
 | buffer | IBuffer | The entire buffer to bind |
 
-## Return Value
+### Return Value
 
 Return current instance for chaining operation
 
@@ -99,7 +99,7 @@ public DescriptorSetUpdater Bind(int binding, IBuffer buffer, int offset, int si
 | offset | Int32 | Offset of the buffer to bind |
 | size | Int32 | Size of the buffer to bind |
 
-## Return Value
+### Return Value
 
 Return current instance for chaining operation
 
@@ -124,7 +124,7 @@ public DescriptorSetUpdater Bind(ITextureUnit texture)
 | --- | --- | --- |
 | texture | ITextureUnit | The texture unit to bind |
 
-## Return Value
+### Return Value
 
 Return current instance for chaining operation
 
@@ -150,7 +150,7 @@ public DescriptorSetUpdater Bind(int binding, ITextureUnit texture)
 | binding | Int32 | The binding location |
 | texture | ITextureUnit | The texture unit to bind |
 
-## Return Value
+### Return Value
 
 Return current instance for chaining operation
 

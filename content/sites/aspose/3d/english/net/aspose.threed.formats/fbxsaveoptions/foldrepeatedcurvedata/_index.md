@@ -14,7 +14,7 @@ Gets or sets whether reuse repeated curve data by increasing last data's ref cou
 public bool? FoldRepeatedCurveData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 true if fold repeated curve data; otherwise, false.
 

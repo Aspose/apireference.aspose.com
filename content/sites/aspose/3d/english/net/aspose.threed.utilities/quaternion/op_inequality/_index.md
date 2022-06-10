@@ -19,7 +19,7 @@ public static bool operator !=(Quaternion lhs, Quaternion rhs)
 | lhs | Quaternion | Left hand side value. |
 | rhs | Quaternion | Right hand side value. |
 
-## Return Value
+### Return Value
 
 True if two quaternions are not equal.
 

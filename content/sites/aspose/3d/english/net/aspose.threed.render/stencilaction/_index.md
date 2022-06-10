@@ -14,7 +14,7 @@ The stencil test actions
 public enum StencilAction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

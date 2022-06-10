@@ -14,7 +14,7 @@ Begin adding vertex
 public Vertex BeginVertex()
 ```
 
-## Return Value
+### Return Value
 
 The reference of internal vertex object in type [`Vertex`](../../../aspose.threed.utilities/vertex)
 

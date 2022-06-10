@@ -35,15 +35,15 @@ public abstract class Material : A3DObject, IEnumerable<TextureSlot>
 | [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | Sets the texture to specified slot |
 | override [ToString](../../aspose.threed.shading/material/tostring)() | Formats object to string |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [MapAmbient](mapambient) | Used in [`SetTexture`](./settexture) to assign a ambient texture mapping. |
-| const [MapDiffuse](mapdiffuse) | Used in [`SetTexture`](./settexture) to assign a diffuse texture mapping. |
-| const [MapEmissive](mapemissive) | Used in [`SetTexture`](./settexture) to assign a emissive texture mapping. |
-| const [MapNormal](mapnormal) | Used in [`SetTexture`](./settexture) to assign a normal texture mapping. |
-| const [MapSpecular](mapspecular) | Used in [`SetTexture`](./settexture) to assign a specular texture mapping. |
+| const [MapAmbient](../../aspose.threed.shading/material/mapambient) | Used in [`SetTexture`](./settexture) to assign a ambient texture mapping. |
+| const [MapDiffuse](../../aspose.threed.shading/material/mapdiffuse) | Used in [`SetTexture`](./settexture) to assign a diffuse texture mapping. |
+| const [MapEmissive](../../aspose.threed.shading/material/mapemissive) | Used in [`SetTexture`](./settexture) to assign a emissive texture mapping. |
+| const [MapNormal](../../aspose.threed.shading/material/mapnormal) | Used in [`SetTexture`](./settexture) to assign a normal texture mapping. |
+| const [MapSpecular](../../aspose.threed.shading/material/mapspecular) | Used in [`SetTexture`](./settexture) to assign a specular texture mapping. |
 
 ### See Also
 

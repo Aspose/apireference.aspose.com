@@ -14,7 +14,7 @@ Share vertex/control point data between sub-meshes or each sub-mesh has its own 
 public enum SplitMeshPolicy
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

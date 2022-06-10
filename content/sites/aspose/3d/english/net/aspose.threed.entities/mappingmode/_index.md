@@ -14,7 +14,7 @@ Determines how the element is mapped to a surface. The [`MappingMode`](../mappin
 public enum MappingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

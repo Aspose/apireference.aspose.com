@@ -14,7 +14,7 @@ Normalizes this instance.
 public Vector2 Normalize()
 ```
 
-## Return Value
+### Return Value
 
 Normalized vector.
 

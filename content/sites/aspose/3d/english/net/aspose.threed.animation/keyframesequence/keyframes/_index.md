@@ -14,7 +14,7 @@ Gets the key frames of this curve.
 public IList<KeyFrame> KeyFrames { get; }
 ```
 
-## Property Value
+### Property Value
 
 The keys.
 

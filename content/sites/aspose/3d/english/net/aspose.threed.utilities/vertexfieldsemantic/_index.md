@@ -14,7 +14,7 @@ The semantic of the vertex field
 public enum VertexFieldSemantic
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

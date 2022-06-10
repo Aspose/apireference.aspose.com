@@ -18,7 +18,7 @@ public bool Accept(NodeVisitor visitor)
 | --- | --- | --- |
 | visitor | NodeVisitor | Visitor callback to visit the node |
 
-## Return Value
+### Return Value
 
 true means visitor has broke the walk through.
 

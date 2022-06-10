@@ -33,7 +33,7 @@ public bool AddChannel(string name, object value)
 | name | String | Name. |
 | value | Object | Value. |
 
-## Return Value
+### Return Value
 
 true, if channel was added, false otherwise.
 
@@ -59,7 +59,7 @@ public bool AddChannel(string name, Type type, object value)
 | type | Type | Type. |
 | value | Object | Value. |
 
-## Return Value
+### Return Value
 
 true, if channel was added, false otherwise.
 

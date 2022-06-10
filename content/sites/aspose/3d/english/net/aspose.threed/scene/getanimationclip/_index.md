@@ -18,7 +18,7 @@ public AnimationClip GetAnimationClip(string name)
 | --- | --- | --- |
 | name | String | The [`AnimationClip`](../../../aspose.threed.animation/animationclip)'s name to look up |
 
-## Return Value
+### Return Value
 
 Returned AnimationClip
 

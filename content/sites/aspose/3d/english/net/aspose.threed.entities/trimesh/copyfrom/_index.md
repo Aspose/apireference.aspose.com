@@ -19,7 +19,7 @@ public static TriMesh CopyFrom(TriMesh input, VertexDeclaration vd)
 | input | TriMesh | The input TriMesh for copying |
 | vd | VertexDeclaration | The new vertex declaration of the output TriMesh |
 
-## Return Value
+### Return Value
 
 A new TriMesh instance with new vertex declaration.
 

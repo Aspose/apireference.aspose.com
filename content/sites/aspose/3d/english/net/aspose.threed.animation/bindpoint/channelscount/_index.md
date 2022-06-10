@@ -14,7 +14,7 @@ Gets the total number of property channels defined in this animation curve mappi
 public int ChannelsCount { get; }
 ```
 
-## Return Value
+### Return Value
 
 The channels count.
 

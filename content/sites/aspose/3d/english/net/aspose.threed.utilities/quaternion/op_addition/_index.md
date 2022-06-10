@@ -19,7 +19,7 @@ public static Quaternion operator +(Quaternion lhs, Quaternion rhs)
 | lhs | Quaternion | Left quaternion |
 | rhs | Quaternion | Right quaternion |
 
-## Return Value
+### Return Value
 
 Result quaternion
 

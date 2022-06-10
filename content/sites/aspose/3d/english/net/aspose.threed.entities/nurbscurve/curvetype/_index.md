@@ -14,7 +14,7 @@ Gets or sets the type of the curve.
 public NurbsType CurveType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the curve.
 

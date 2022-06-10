@@ -14,7 +14,7 @@ Gets or sets the associated texture file.
 public string FileName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The name of the file.
 

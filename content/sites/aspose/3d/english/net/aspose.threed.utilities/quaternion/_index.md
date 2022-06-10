@@ -52,15 +52,15 @@ public struct Quaternion
 | [operator !=](../../aspose.threed.utilities/quaternion/op_inequality) | Not-equal operator for quaternion |
 | [operator *](../../aspose.threed.utilities/quaternion/op_multiply) | Operator overloading for * (5 operators) |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Identity](identity) | The Identity quaternion. |
-| [w](w) | The w component. |
-| [x](x) | The x component. |
-| [y](y) | The y component. |
-| [z](z) | The z component. |
+| static readonly [Identity](../../aspose.threed.utilities/quaternion/identity) | The Identity quaternion. |
+| [w](../../aspose.threed.utilities/quaternion/w) | The w component. |
+| [x](../../aspose.threed.utilities/quaternion/x) | The x component. |
+| [y](../../aspose.threed.utilities/quaternion/y) | The y component. |
+| [z](../../aspose.threed.utilities/quaternion/z) | The z component. |
 
 ### See Also
 

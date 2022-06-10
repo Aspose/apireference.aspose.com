@@ -14,7 +14,7 @@ The type of the vertex element, defined how it will be used in modeling.
 public enum VertexElementType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

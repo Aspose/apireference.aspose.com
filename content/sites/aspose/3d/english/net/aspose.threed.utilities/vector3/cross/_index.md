@@ -18,7 +18,7 @@ public Vector3 Cross(Vector3 rhs)
 | --- | --- | --- |
 | rhs | Vector3 | Right hand side value. |
 
-## Return Value
+### Return Value
 
 Cross product of two [`Vector3`](../../vector3)s.
 

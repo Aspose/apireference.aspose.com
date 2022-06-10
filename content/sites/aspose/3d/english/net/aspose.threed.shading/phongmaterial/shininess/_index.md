@@ -14,7 +14,7 @@ Gets or sets the shininess, this controls the specular highlight's size. The for
 public double Shininess { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The shininess.
 

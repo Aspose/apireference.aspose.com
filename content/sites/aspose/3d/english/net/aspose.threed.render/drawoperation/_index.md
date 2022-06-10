@@ -14,7 +14,7 @@ The primitive types to render
 public enum DrawOperation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

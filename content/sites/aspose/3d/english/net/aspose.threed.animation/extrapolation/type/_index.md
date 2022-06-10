@@ -14,7 +14,7 @@ Gets and sets the sampling pattern of extrapolation
 public ExtrapolationType Type { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type.
 

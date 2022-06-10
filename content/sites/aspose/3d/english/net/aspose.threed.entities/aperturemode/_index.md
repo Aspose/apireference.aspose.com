@@ -14,7 +14,7 @@ Camera aperture modes. The aperture mode determines which values drive the camer
 public enum ApertureMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

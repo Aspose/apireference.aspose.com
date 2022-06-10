@@ -18,7 +18,7 @@ public abstract IBuffer CreateUniformBuffer(int size)
 | --- | --- | --- |
 | size | Int32 | The size of the uniform buffer |
 
-## Return Value
+### Return Value
 
 The uniform buffer instance
 

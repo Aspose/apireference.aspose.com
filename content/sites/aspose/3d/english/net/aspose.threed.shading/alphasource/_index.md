@@ -14,7 +14,7 @@ Defines whether the texture contains the alpha channel.
 public enum AlphaSource
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -19,7 +19,7 @@ public static bool operator !=(Vector3 lhs, Vector3 rhs)
 | lhs | Vector3 | Left hand side value. |
 | rhs | Vector3 | Right hand side value. |
 
-## Return Value
+### Return Value
 
 True if two vectors are not equal.
 

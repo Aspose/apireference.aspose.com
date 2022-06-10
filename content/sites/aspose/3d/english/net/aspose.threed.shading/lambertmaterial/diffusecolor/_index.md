@@ -14,7 +14,7 @@ Gets or sets the diffuse color
 public Vector3 DiffuseColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The diffuse.
 

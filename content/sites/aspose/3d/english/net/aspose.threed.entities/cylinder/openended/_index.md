@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`Cylinder`](../../cylinder) open e
 public bool OpenEnded { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if open ended; otherwise, top/bottom caps exists.
 

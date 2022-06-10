@@ -14,7 +14,7 @@ The coordinate axis.
 public enum Axis
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

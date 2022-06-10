@@ -18,7 +18,7 @@ public Node GetChild(int index)
 | --- | --- | --- |
 | index | Int32 | Index. |
 
-## Return Value
+### Return Value
 
 The child.
 
@@ -42,7 +42,7 @@ public Node GetChild(string nodeName)
 | --- | --- | --- |
 | nodeName | String | The child name to find. |
 
-## Return Value
+### Return Value
 
 The child.
 

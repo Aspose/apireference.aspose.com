@@ -14,7 +14,7 @@ Normalize the quaternion
 public Quaternion Normalize()
 ```
 
-## Return Value
+### Return Value
 
 Normalized quaternion.
 

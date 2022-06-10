@@ -44,11 +44,11 @@ public class MorphTargetChannel : A3DObject
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
 | [SetWeight](../../aspose.threed.deformers/morphtargetchannel/setweight)(Shape, double) | Sets the weight for the specified target, default value is 1, range should between 0~1 |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [DefaultWeight](defaultweight) | Default weight for morph target. |
+| const [DefaultWeight](../../aspose.threed.deformers/morphtargetchannel/defaultweight) | Default weight for morph target. |
 
 ### Remarks
 

@@ -42,7 +42,7 @@ public static TriMesh FromMesh(Mesh mesh, bool useFloat = true)
 | mesh | Mesh |  |
 | useFloat | Boolean | Use float type instead of double type for each vertex element component. |
 
-## Return Value
+### Return Value
 
 The [`TriMesh`](../../trimesh) generated from given [`Mesh`](../../mesh)
 

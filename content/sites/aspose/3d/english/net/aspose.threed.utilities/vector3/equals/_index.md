@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The object to check equality. |
 
-## Return Value
+### Return Value
 
 True if all components are identically equal.
 

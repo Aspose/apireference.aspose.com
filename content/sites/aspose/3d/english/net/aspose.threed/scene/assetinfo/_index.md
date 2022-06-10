@@ -14,7 +14,7 @@ Gets or sets the top-level asset information
 public AssetInfo AssetInfo { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The document info.
 

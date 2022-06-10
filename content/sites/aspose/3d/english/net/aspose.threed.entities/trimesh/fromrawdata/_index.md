@@ -22,7 +22,7 @@ public static TriMesh FromRawData(VertexDeclaration vd, byte[] vertices, int[] i
 | indices | Int32[] | The triangle indices |
 | generateVertexMapping | Boolean | Generate [`Vertex`](../../../aspose.threed.utilities/vertex) for each vertex, which is not necessary for just serialization/deserialization. |
 
-## Return Value
+### Return Value
 
 The [`TriMesh`](../../trimesh) instance that encapsulated the input byte array.
 

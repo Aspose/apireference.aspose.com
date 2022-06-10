@@ -15,7 +15,7 @@ Shader stage
 public enum ShaderStage
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

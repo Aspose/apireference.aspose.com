@@ -14,7 +14,7 @@ Converts matrix to array.
 public double[] ToArray()
 ```
 
-## Return Value
+### Return Value
 
 The array.
 

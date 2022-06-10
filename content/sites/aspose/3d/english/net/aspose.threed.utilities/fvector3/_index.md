@@ -34,15 +34,15 @@ public struct FVector3
 | [operator *](../../aspose.threed.utilities/fvector3/op_multiply) | * Operator overloading |
 | [operator -](../../aspose.threed.utilities/fvector3/op_subtraction) | - Operator overloading (2 operators) |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [UnitScale](unitscale) | The unit scale vector with all components are all 1 |
-| static readonly [Zero](zero) | The Zero vector. |
-| [x](x) | The x component. |
-| [y](y) | The y component. |
-| [z](z) | The y component. |
+| static readonly [UnitScale](../../aspose.threed.utilities/fvector3/unitscale) | The unit scale vector with all components are all 1 |
+| static readonly [Zero](../../aspose.threed.utilities/fvector3/zero) | The Zero vector. |
+| [x](../../aspose.threed.utilities/fvector3/x) | The x component. |
+| [y](../../aspose.threed.utilities/fvector3/y) | The y component. |
+| [z](../../aspose.threed.utilities/fvector3/z) | The y component. |
 
 ### See Also
 

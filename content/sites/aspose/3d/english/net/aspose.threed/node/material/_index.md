@@ -14,7 +14,7 @@ Gets or sets the first material associated with this node, if sets, will clear o
 public Material Material { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The material.
 

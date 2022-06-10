@@ -18,7 +18,7 @@ public FVector3 Cross(FVector3 rhs)
 | --- | --- | --- |
 | rhs | FVector3 | Right hand side value. |
 
-## Return Value
+### Return Value
 
 Cross product of two [`FVector3`](../../fvector3)s.
 

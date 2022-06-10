@@ -14,7 +14,7 @@ Gets or sets the height segments.
 public int HeightSegments { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The height segments.
 

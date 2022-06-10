@@ -14,7 +14,7 @@ Calculates sine on each component
 public Vector3 Sin()
 ```
 
-## Return Value
+### Return Value
 
 Calculated [`Vector3`](../../vector3).
 

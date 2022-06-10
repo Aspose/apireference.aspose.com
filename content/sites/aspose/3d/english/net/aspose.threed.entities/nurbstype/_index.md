@@ -14,7 +14,7 @@ NURBS types.
 public enum NurbsType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |
