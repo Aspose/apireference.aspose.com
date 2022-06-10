@@ -1,7 +1,7 @@
 ---
 title: AddPictureInChart
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a picture to the chart.
 type: docs
 weight: 220
 url: /net/aspose.cells.drawing/shapecollection/addpictureinchart/
@@ -22,7 +22,7 @@ public Picture AddPictureInChart(int top, int left, Stream stream, int widthScal
 | widthScale | Int32 | Scale of image width, a percentage. |
 | heightScale | Int32 | Scale of image height, a percentage. |
 
-## Return Value
+### Return Value
 
 Returns a Picture object.
 

@@ -1,9 +1,9 @@
 ---
 title: GetSubTotalName
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the name of PivotFieldSubtotalTypeaspose.cells.pivot/pivotfieldsubtotaltype type in the PivotTable.
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.cells/globalizationsettings/getsubtotalname/
 ---
 ## GlobalizationSettings.GetSubTotalName method
@@ -18,7 +18,7 @@ public virtual string GetSubTotalName(PivotFieldSubtotalType subTotalType)
 | --- | --- | --- |
 | subTotalType | PivotFieldSubtotalType | The [`PivotFieldSubtotalType`](../../../aspose.cells.pivot/pivotfieldsubtotaltype) type |
 
-## Return Value
+### Return Value
 
 The name of [`PivotFieldSubtotalType`](../../../aspose.cells.pivot/pivotfieldsubtotaltype) type
 

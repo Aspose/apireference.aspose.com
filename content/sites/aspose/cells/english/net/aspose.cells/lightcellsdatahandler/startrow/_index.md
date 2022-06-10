@@ -1,7 +1,7 @@
 ---
 title: StartRow
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Prepares to process a row.
 type: docs
 weight: 40
 url: /net/aspose.cells/lightcellsdatahandler/startrow/
@@ -18,7 +18,7 @@ public bool StartRow(int rowIndex)
 | --- | --- | --- |
 | rowIndex | Int32 | the index of next row to be processed |
 
-## Return Value
+### Return Value
 
 whether this row(properties or cells data) needs to be processed. false to ignore this row and its cells and check the next row.
 

@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets a SmartTagCollectionaspose.cells.markup/smarttagcollection object by the index.
 type: docs
 weight: 10
 url: /net/aspose.cells.markup/smarttagsetting/item/
@@ -40,7 +40,7 @@ public SmartTagCollection this[int row, int column] { get; }
 | row | The row index of the cell. |
 | column | The column index of the cell |
 
-## Return Value
+### Return Value
 
 Returns the [`SmartTagCollection`](../../smarttagcollection) object of the cell. Returns null if there is no any smart tags on the cell.
 
@@ -65,7 +65,7 @@ public SmartTagCollection this[string cellName] { get; }
 | --- | --- |
 | cellName | The name of the cell. |
 
-## Return Value
+### Return Value
 
 Returns the [`SmartTagCollection`](../../smarttagcollection) object of the cell. Returns null if there is no any smart tags on the cell.
 

@@ -1,12 +1,12 @@
 ---
 title: RemoveArea
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Removes conditional formatted cell range by index.
 type: docs
 weight: 80
 url: /net/aspose.cells/formatconditioncollection/removearea/
 ---
-## FormatConditionCollection.RemoveArea method (1 of 2)
+## RemoveArea(int) {#removearea_1}
 
 Removes conditional formatted cell range by index.
 
@@ -26,7 +26,7 @@ public void RemoveArea(int index)
 
 ---
 
-## FormatConditionCollection.RemoveArea method (2 of 2)
+## RemoveArea(int, int, int, int) {#removearea}
 
 Remove conditional formatting int the range.
 
@@ -41,7 +41,7 @@ public bool RemoveArea(int startRow, int startColumn, int totalRows, int totalCo
 | totalRows | Int32 | The number of rows of the range. |
 | totalColumns | Int32 | The number of columns of the range. |
 
-## Return Value
+### Return Value
 
 Returns TRUE, this FormatCondtionCollection should be removed.
 

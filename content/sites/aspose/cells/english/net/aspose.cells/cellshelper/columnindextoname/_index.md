@@ -1,9 +1,9 @@
 ---
 title: ColumnIndexToName
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets column name according to column index.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cells/cellshelper/columnindextoname/
 ---
 ## CellsHelper.ColumnIndexToName method
@@ -18,7 +18,7 @@ public static string ColumnIndexToName(int column)
 | --- | --- | --- |
 | column | Int32 | Column index. |
 
-## Return Value
+### Return Value
 
 Name of column.
 

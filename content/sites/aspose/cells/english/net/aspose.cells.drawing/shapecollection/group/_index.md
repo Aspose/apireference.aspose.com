@@ -1,7 +1,7 @@
 ---
 title: Group
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Group the shapes.
 type: docs
 weight: 410
 url: /net/aspose.cells.drawing/shapecollection/group/
@@ -18,7 +18,7 @@ public GroupShape Group(Shape[] groupItems)
 | --- | --- | --- |
 | groupItems | Shape[] | the group items. |
 
-## Return Value
+### Return Value
 
 Return the group shape.
 

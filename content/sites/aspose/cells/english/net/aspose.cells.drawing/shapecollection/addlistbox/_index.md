@@ -1,7 +1,7 @@
 ---
 title: AddListBox
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a ListBox to the worksheet.
 type: docs
 weight: 170
 url: /net/aspose.cells.drawing/shapecollection/addlistbox/
@@ -24,7 +24,7 @@ public ListBox AddListBox(int upperLeftRow, int top, int upperLeftColumn, int le
 | height | Int32 | Represents the height of ListBox, in unit of pixel. |
 | width | Int32 | Represents the width of ListBox, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A ListBox object.
 

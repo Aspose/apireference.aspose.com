@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a scenario.
 type: docs
 weight: 40
 url: /net/aspose.cells/scenariocollection/add/
@@ -18,7 +18,7 @@ public int Add(string name)
 | --- | --- | --- |
 | name | String | The name of scenario. |
 
-## Return Value
+### Return Value
 
 The index in the list of scenarios.
 

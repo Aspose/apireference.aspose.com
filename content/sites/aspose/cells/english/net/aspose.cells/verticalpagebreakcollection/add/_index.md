@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a vertical page break to the collection.
 type: docs
 weight: 20
 url: /net/aspose.cells/verticalpagebreakcollection/add/
 ---
-## VerticalPageBreakCollection.Add method (1 of 4)
+## Add(int, int, int) {#add_2}
 
 Adds a vertical page break to the collection.
 
@@ -20,7 +20,7 @@ public int Add(int startRow, int endRow, int column)
 | endRow | Int32 | End row index, zero based. |
 | column | Int32 | Column index, zero based. |
 
-## Return Value
+### Return Value
 
 [`VerticalPageBreak`](../../verticalpagebreak) object index.
 
@@ -36,7 +36,7 @@ This method is used to add a vertical pagebreak within a print area.
 
 ---
 
-## VerticalPageBreakCollection.Add method (2 of 4)
+## Add(int) {#add}
 
 Adds a vertical page break to the collection.
 
@@ -48,7 +48,7 @@ public int Add(int column)
 | --- | --- | --- |
 | column | Int32 | Cell column index, zero based. |
 
-## Return Value
+### Return Value
 
 [`VerticalPageBreak`](../../verticalpagebreak) object index.
 
@@ -64,7 +64,7 @@ Page break is added in the top left of the cell. Please set a horizontal page br
 
 ---
 
-## VerticalPageBreakCollection.Add method (3 of 4)
+## Add(int, int) {#add_1}
 
 Adds a vertical page break to the collection.
 
@@ -77,7 +77,7 @@ public int Add(int row, int column)
 | row | Int32 | Cell row index, zero based. |
 | column | Int32 | Cell column index, zero based. |
 
-## Return Value
+### Return Value
 
 [`VerticalPageBreak`](../../verticalpagebreak) object index.
 
@@ -93,7 +93,7 @@ Page break is added in the top left of the cell. Please set a horizontal page br
 
 ---
 
-## VerticalPageBreakCollection.Add method (4 of 4)
+## Add(string) {#add_3}
 
 Adds a vertical page break to the collection.
 
@@ -105,7 +105,7 @@ public int Add(string cellName)
 | --- | --- | --- |
 | cellName | String | Cell name. |
 
-## Return Value
+### Return Value
 
 [`VerticalPageBreak`](../../verticalpagebreak) object index.
 

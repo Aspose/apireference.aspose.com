@@ -1,9 +1,9 @@
 ---
 title: PivotTableStyleType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the pivot table style type.
 type: docs
-weight: 4710
+weight: 4750
 url: /net/aspose.cells.pivot/pivottablestyletype/
 ---
 ## PivotTableStyleType enumeration
@@ -14,7 +14,7 @@ Represents the pivot table style type.
 public enum PivotTableStyleType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

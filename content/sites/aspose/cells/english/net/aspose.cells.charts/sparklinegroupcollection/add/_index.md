@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds an SparklineGroupaspose.cells.charts/sparklinegroup item to the collection.
 type: docs
 weight: 20
 url: /net/aspose.cells.charts/sparklinegroupcollection/add/
@@ -21,7 +21,7 @@ public int Add(SparklineType type, string dataRange, bool isVertical, CellArea l
 | isVertical | Boolean | Specifies whether to plot the sparklines from the data range by row or by column. |
 | locationRange | CellArea | Specifies where the sparklines to be placed. |
 
-## Return Value
+### Return Value
 
 [`SparklineGroup`](../../sparklinegroup) object index.
 

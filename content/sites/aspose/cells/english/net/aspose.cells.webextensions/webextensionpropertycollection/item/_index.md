@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the property of web extension by the index.
 type: docs
 weight: 20
 url: /net/aspose.cells.webextensions/webextensionpropertycollection/item/
@@ -18,7 +18,7 @@ public WebExtensionProperty this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 The property of web extension.
 
@@ -43,7 +43,7 @@ public WebExtensionProperty this[string name] { get; }
 | --- | --- |
 | name | The name of property. |
 
-## Return Value
+### Return Value
 
 The property of web extension.
 

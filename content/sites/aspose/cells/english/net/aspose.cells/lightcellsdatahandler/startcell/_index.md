@@ -1,7 +1,7 @@
 ---
 title: StartCell
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Prepares to process a cell.
 type: docs
 weight: 30
 url: /net/aspose.cells/lightcellsdatahandler/startcell/
@@ -18,7 +18,7 @@ public bool StartCell(int columnIndex)
 | --- | --- | --- |
 | columnIndex | Int32 | column index of the cell to be processed |
 
-## Return Value
+### Return Value
 
 whether this cell needs to be processed. false to ignore the cell and check the next one until reach the end of cells data of current row
 

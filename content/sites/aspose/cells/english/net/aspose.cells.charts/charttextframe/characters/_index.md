@@ -1,9 +1,9 @@
 ---
 title: Characters
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Returns a Characters object that represents a range of characters within the text.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cells.charts/charttextframe/characters/
 ---
 ## ChartTextFrame.Characters method
@@ -19,7 +19,7 @@ public FontSetting Characters(int startIndex, int length)
 | startIndex | Int32 | The index of the start of the character. |
 | length | Int32 | The number of characters. |
 
-## Return Value
+### Return Value
 
 Characters object.
 

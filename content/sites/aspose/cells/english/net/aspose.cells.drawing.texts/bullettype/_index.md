@@ -1,9 +1,9 @@
 ---
 title: BulletType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the type of the bullet.
 type: docs
-weight: 2860
+weight: 2890
 url: /net/aspose.cells.drawing.texts/bullettype/
 ---
 ## BulletType enumeration
@@ -14,7 +14,7 @@ Represents the type of the bullet.
 public enum BulletType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

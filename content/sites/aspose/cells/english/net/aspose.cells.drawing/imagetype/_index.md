@@ -1,9 +1,9 @@
 ---
 title: ImageType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Specifies the type format of an image.
 type: docs
-weight: 2150
+weight: 2170
 url: /net/aspose.cells.drawing/imagetype/
 ---
 ## ImageType enumeration
@@ -14,7 +14,7 @@ Specifies the type (format) of an image.
 public enum ImageType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

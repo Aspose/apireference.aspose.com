@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a pivot FormatCondition to the collection.
 type: docs
 weight: 20
 url: /net/aspose.cells.pivot/pivotformatconditioncollection/add/
@@ -14,7 +14,7 @@ Adds a pivot FormatCondition to the collection.
 public int Add()
 ```
 
-## Return Value
+### Return Value
 
 pivot FormatCondition object index.
 

@@ -1,9 +1,9 @@
 ---
 title: ChartTextDirectionType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the text direction type of the chart.
 type: docs
-weight: 530
+weight: 540
 url: /net/aspose.cells.charts/charttextdirectiontype/
 ---
 ## ChartTextDirectionType enumeration
@@ -14,7 +14,7 @@ Represents the text direction type of the chart.
 public enum ChartTextDirectionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

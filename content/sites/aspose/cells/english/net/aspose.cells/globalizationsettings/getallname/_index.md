@@ -1,7 +1,7 @@
 ---
 title: GetAllName
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the name of All label in the PivotTable.
 type: docs
 weight: 60
 url: /net/aspose.cells/globalizationsettings/getallname/
@@ -14,7 +14,7 @@ Gets the name of "(All)" label in the PivotTable.
 public virtual string GetAllName()
 ```
 
-## Return Value
+### Return Value
 
 The name of "(All)" label
 

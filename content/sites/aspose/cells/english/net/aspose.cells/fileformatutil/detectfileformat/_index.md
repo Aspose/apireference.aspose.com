@@ -1,12 +1,12 @@
 ---
 title: DetectFileFormat
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Detects and returns the information about a format of an excel stored in a stream.
 type: docs
 weight: 10
 url: /net/aspose.cells/fileformatutil/detectfileformat/
 ---
-## FileFormatUtil.DetectFileFormat method (1 of 4)
+## DetectFileFormat(Stream) {#detectfileformat}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -18,7 +18,7 @@ public static FileFormatInfo DetectFileFormat(Stream stream)
 | --- | --- | --- |
 | stream | Stream |  |
 
-## Return Value
+### Return Value
 
 A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected information.
 
@@ -31,7 +31,7 @@ A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected inf
 
 ---
 
-## FileFormatUtil.DetectFileFormat method (2 of 4)
+## DetectFileFormat(Stream, string) {#detectfileformat_1}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -44,7 +44,7 @@ public static FileFormatInfo DetectFileFormat(Stream stream, string password)
 | stream | Stream |  |
 | password | String | The password for encrypted ooxml files. |
 
-## Return Value
+### Return Value
 
 A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected information.
 
@@ -57,7 +57,7 @@ A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected inf
 
 ---
 
-## FileFormatUtil.DetectFileFormat method (3 of 4)
+## DetectFileFormat(string) {#detectfileformat_2}
 
 Detects and returns the information about a format of an excel stored in a file.
 
@@ -69,7 +69,7 @@ public static FileFormatInfo DetectFileFormat(string filePath)
 | --- | --- | --- |
 | filePath | String | The file path. |
 
-## Return Value
+### Return Value
 
 A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected information.
 
@@ -82,7 +82,7 @@ A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected inf
 
 ---
 
-## FileFormatUtil.DetectFileFormat method (4 of 4)
+## DetectFileFormat(string, string) {#detectfileformat_3}
 
 Detects and returns the information about a format of an excel stored in a file.
 
@@ -95,7 +95,7 @@ public static FileFormatInfo DetectFileFormat(string filePath, string password)
 | filePath | String | The file path. |
 | password | String | The password for encrypted ooxml files. |
 
-## Return Value
+### Return Value
 
 A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected information.
 

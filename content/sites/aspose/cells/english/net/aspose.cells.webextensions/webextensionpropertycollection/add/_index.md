@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds web extension property.
 type: docs
 weight: 30
 url: /net/aspose.cells.webextensions/webextensionpropertycollection/add/
@@ -19,7 +19,7 @@ public int Add(string name, string value)
 | name | String | The name of property. |
 | value | String | The value of property. |
 
-## Return Value
+### Return Value
 
 The index of added property.
 

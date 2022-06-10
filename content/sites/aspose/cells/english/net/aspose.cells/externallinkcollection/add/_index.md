@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds an external link.
 type: docs
 weight: 30
 url: /net/aspose.cells/externallinkcollection/add/
 ---
-## ExternalLinkCollection.Add method (1 of 2)
+## Add(string, string[]) {#add_1}
 
 Adds an external link.
 
@@ -19,7 +19,7 @@ public int Add(string fileName, string[] sheetNames)
 | fileName | String | The external file name. |
 | sheetNames | String[] | All sheet names of the external file. |
 
-## Return Value
+### Return Value
 
 The position of the external name in this list.
 
@@ -31,7 +31,7 @@ The position of the external name in this list.
 
 ---
 
-## ExternalLinkCollection.Add method (2 of 2)
+## Add(DirectoryType, string, string[]) {#add}
 
 Add an external link .
 
@@ -45,7 +45,7 @@ public int Add(DirectoryType directoryType, string fileName, string[] sheetNames
 | fileName | String | the file name. |
 | sheetNames | String[] | All sheet names of the external file. |
 
-## Return Value
+### Return Value
 
 The position of the external name in this list.
 

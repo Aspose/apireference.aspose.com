@@ -1,9 +1,9 @@
 ---
 title: GetHashCode
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Serves as a hash function for a Style object.
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.cells/style/gethashcode/
 ---
 ## Style.GetHashCode method
@@ -14,7 +14,7 @@ Serves as a hash function for a Style object.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 A hash code for the current Object.
 

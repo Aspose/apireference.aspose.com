@@ -1,12 +1,12 @@
 ---
 title: GetStyle
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the cell style.
 type: docs
-weight: 490
+weight: 540
 url: /net/aspose.cells/cell/getstyle/
 ---
-## Cell.GetStyle method (1 of 2)
+## GetStyle() {#getstyle}
 
 Gets the cell style.
 
@@ -14,7 +14,7 @@ Gets the cell style.
 public Style GetStyle()
 ```
 
-## Return Value
+### Return Value
 
 Style object.
 
@@ -31,7 +31,7 @@ To change the style of the cell, please call Cell.SetStyle() method after changi
 
 ---
 
-## Cell.GetStyle method (2 of 2)
+## GetStyle(bool) {#getstyle_1}
 
 If checkBorders is true, check whether other cells' borders will effect the style of this cell.
 
@@ -43,7 +43,7 @@ public Style GetStyle(bool checkBorders)
 | --- | --- | --- |
 | checkBorders | Boolean | Check other cells' borders |
 
-## Return Value
+### Return Value
 
 Style object.
 

@@ -1,9 +1,9 @@
 ---
 title: GetRowLabelsNameOfPivotTable
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the name of Row Labels label in the PivotTable.
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.cells/globalizationsettings/getrowlabelsnameofpivottable/
 ---
 ## GlobalizationSettings.GetRowLabelsNameOfPivotTable method
@@ -14,7 +14,7 @@ Gets the name of "Row Labels" label in the PivotTable.
 public virtual string GetRowLabelsNameOfPivotTable()
 ```
 
-## Return Value
+### Return Value
 
 The name of row labels
 

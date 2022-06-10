@@ -1,9 +1,9 @@
 ---
 title: GetEmptyDataName
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the name of blank label in the PivotTable.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cells/globalizationsettings/getemptydataname/
 ---
 ## GlobalizationSettings.GetEmptyDataName method
@@ -14,7 +14,7 @@ Gets the name of "(blank)" label in the PivotTable.
 public virtual string GetEmptyDataName()
 ```
 
-## Return Value
+### Return Value
 
 The name of empty data
 

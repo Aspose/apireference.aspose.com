@@ -1,7 +1,7 @@
 ---
 title: CellBorderType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Enumerates a cells border type.
 type: docs
 weight: 250
 url: /net/aspose.cells/cellbordertype/
@@ -14,7 +14,7 @@ Enumerates a cell's border type.
 public enum CellBorderType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

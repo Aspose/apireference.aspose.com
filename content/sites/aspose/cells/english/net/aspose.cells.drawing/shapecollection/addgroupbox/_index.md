@@ -1,7 +1,7 @@
 ---
 title: AddGroupBox
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a GroupBox to the worksheet.
 type: docs
 weight: 110
 url: /net/aspose.cells.drawing/shapecollection/addgroupbox/
@@ -24,7 +24,7 @@ public GroupBox AddGroupBox(int upperLeftRow, int top, int upperLeftColumn, int 
 | height | Int32 | Represents the height of GroupBox, in unit of pixel. |
 | width | Int32 | Represents the width of GroupBox, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A GroupBox object.
 

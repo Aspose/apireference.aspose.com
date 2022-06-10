@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets a SmartTagaspose.cells.markup/smarttag object at the specific index
 type: docs
 weight: 20
 url: /net/aspose.cells.markup/smarttagcollection/item/
@@ -18,7 +18,7 @@ public SmartTag this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 returns a [`SmartTag`](../../smarttag) object.
 

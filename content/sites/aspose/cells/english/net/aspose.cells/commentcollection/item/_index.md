@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the Commentaspose.cells/comment element at the specified index.
 type: docs
 weight: 10
 url: /net/aspose.cells/commentcollection/item/
@@ -18,7 +18,7 @@ public Comment this[int index] { get; }
 | --- | --- |
 | index | The zero based index of the element. |
 
-## Return Value
+### Return Value
 
 The element at the specified index.
 
@@ -52,7 +52,7 @@ public Comment this[string cellName] { get; }
 | --- | --- |
 | cellName | Cell name. |
 
-## Return Value
+### Return Value
 
 The element at the specified cell.
 
@@ -87,7 +87,7 @@ public Comment this[int row, int column] { get; }
 | row | Row index. |
 | column | Column index. |
 
-## Return Value
+### Return Value
 
 The element at the specified cell.
 

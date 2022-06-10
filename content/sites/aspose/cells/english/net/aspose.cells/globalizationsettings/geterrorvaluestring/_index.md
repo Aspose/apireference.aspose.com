@@ -1,9 +1,9 @@
 ---
 title: GetErrorValueString
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the display string value for cells error value
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cells/globalizationsettings/geterrorvaluestring/
 ---
 ## GlobalizationSettings.GetErrorValueString method
@@ -18,7 +18,7 @@ public virtual string GetErrorValueString(string err)
 | --- | --- | --- |
 | err | String | error values such as #VALUE!,#NAME? |
 
-## Return Value
+### Return Value
 
 Default returns the error value itself
 

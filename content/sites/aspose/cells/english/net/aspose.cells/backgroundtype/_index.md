@@ -1,7 +1,7 @@
 ---
 title: BackgroundType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Enumerates cell background pattern types.
 type: docs
 weight: 130
 url: /net/aspose.cells/backgroundtype/
@@ -14,7 +14,7 @@ Enumerates cell background pattern types.
 public enum BackgroundType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

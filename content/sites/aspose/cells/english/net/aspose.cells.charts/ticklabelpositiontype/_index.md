@@ -1,9 +1,9 @@
 ---
 title: TickLabelPositionType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the position type of tick-mark labels on the specified axis.
 type: docs
-weight: 920
+weight: 940
 url: /net/aspose.cells.charts/ticklabelpositiontype/
 ---
 ## TickLabelPositionType enumeration
@@ -14,7 +14,7 @@ Represents the position type of tick-mark labels on the specified axis.
 public enum TickLabelPositionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

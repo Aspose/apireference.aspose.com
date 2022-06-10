@@ -1,7 +1,7 @@
 ---
 title: AutoFitWrappedTextType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the type of auto fitting wrapped text.
 type: docs
 weight: 110
 url: /net/aspose.cells/autofitwrappedtexttype/
@@ -14,7 +14,7 @@ Represents the type of auto fitting wrapped text.
 public enum AutoFitWrappedTextType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

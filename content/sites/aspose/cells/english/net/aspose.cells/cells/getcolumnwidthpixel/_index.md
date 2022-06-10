@@ -1,9 +1,9 @@
 ---
 title: GetColumnWidthPixel
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the width of the specified column in normal view in units of pixel.
 type: docs
-weight: 690
+weight: 710
 url: /net/aspose.cells/cells/getcolumnwidthpixel/
 ---
 ## Cells.GetColumnWidthPixel method
@@ -18,7 +18,7 @@ public int GetColumnWidthPixel(int column)
 | --- | --- | --- |
 | column | Int32 | Column index |
 
-## Return Value
+### Return Value
 
 Width of column in normal view.
 

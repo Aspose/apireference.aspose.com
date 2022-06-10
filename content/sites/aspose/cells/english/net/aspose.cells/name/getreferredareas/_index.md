@@ -1,7 +1,7 @@
 ---
 title: GetReferredAreas
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets all references referred by this name.
 type: docs
 weight: 110
 url: /net/aspose.cells/name/getreferredareas/
@@ -18,7 +18,7 @@ public ReferredArea[] GetReferredAreas(bool recalculate)
 | --- | --- | --- |
 | recalculate | Boolean | whether recalculate it if this name has been calculated before this invocation. |
 
-## Return Value
+### Return Value
 
 All ranges.
 

@@ -1,7 +1,7 @@
 ---
 title: AddLinkedPicture
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Add a linked picture.
 type: docs
 weight: 160
 url: /net/aspose.cells.drawing/shapecollection/addlinkedpicture/
@@ -23,7 +23,7 @@ public Picture AddLinkedPicture(int upperLeftRow, int upperLeftColumn, int heigh
 | width | Int32 | The width of the shape. In unit of pixels |
 | sourceFullName | String | The path and name of the source file for the linked image |
 
-## Return Value
+### Return Value
 
 [`Picture`](../../picture) Picture object.
 

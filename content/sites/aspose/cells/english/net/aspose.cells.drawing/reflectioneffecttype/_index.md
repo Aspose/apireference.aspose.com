@@ -3,7 +3,7 @@ title: ReflectionEffectType
 second_title: Aspose.Cells for .NET API Reference
 description: 
 type: docs
-weight: 2580
+weight: 2600
 url: /net/aspose.cells.drawing/reflectioneffecttype/
 ---
 ## ReflectionEffectType enumeration
@@ -12,7 +12,7 @@ url: /net/aspose.cells.drawing/reflectioneffecttype/
 public enum ReflectionEffectType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

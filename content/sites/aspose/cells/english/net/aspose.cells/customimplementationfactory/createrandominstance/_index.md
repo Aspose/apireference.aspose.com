@@ -1,7 +1,7 @@
 ---
 title: CreateRandomInstance
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Create one instance of random number generator.
 type: docs
 weight: 40
 url: /net/aspose.cells/customimplementationfactory/createrandominstance/
@@ -14,7 +14,7 @@ Create one instance of random number generator.
 public virtual Random CreateRandomInstance()
 ```
 
-## Return Value
+### Return Value
 
 instance of random number generator
 

@@ -1,9 +1,9 @@
 ---
 title: LineJoinType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the join styles of a line.
 type: docs
-weight: 2220
+weight: 2240
 url: /net/aspose.cells.drawing/linejointype/
 ---
 ## LineJoinType enumeration
@@ -14,7 +14,7 @@ Represents the join styles of a line.
 public enum LineJoinType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

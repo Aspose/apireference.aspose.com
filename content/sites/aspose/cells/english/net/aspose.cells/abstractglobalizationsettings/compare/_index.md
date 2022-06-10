@@ -1,7 +1,7 @@
 ---
 title: Compare
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Compares two string values according to certain collation rules.
 type: docs
 weight: 10
 url: /net/aspose.cells/abstractglobalizationsettings/compare/
@@ -20,7 +20,7 @@ public virtual int Compare(string v1, string v2, bool ignoreCase)
 | v2 | String | the second string |
 | ignoreCase | Boolean | whether ignore case when comparing values |
 
-## Return Value
+### Return Value
 
 Integer that indicates the lexical relationship between the two comparands
 

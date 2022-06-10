@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the querytable by the specific index.
 type: docs
 weight: 10
 url: /net/aspose.cells/querytablecollection/item/
@@ -18,7 +18,7 @@ public QueryTable this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 The querytable
 

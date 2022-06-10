@@ -1,7 +1,7 @@
 ---
 title: IsErrorCheck
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Checks whether given error type will be checked.
 type: docs
 weight: 40
 url: /net/aspose.cells/errorcheckoption/iserrorcheck/
@@ -18,7 +18,7 @@ public bool IsErrorCheck(ErrorCheckType errorCheckType)
 | --- | --- | --- |
 | errorCheckType | ErrorCheckType | error type can be checked |
 
-## Return Value
+### Return Value
 
 return true if given error type will be checked(green triangle will be shown for cell if the check failed).
 

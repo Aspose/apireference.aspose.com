@@ -1,7 +1,7 @@
 ---
 title: AddArea
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a conditional formatted cell range.
 type: docs
 weight: 50
 url: /net/aspose.cells/formatconditioncollection/addarea/
@@ -18,7 +18,7 @@ public int AddArea(CellArea cellArea)
 | --- | --- | --- |
 | cellArea | CellArea | Conditional formatted cell range. |
 
-## Return Value
+### Return Value
 
 Conditional formatted cell rang index.
 

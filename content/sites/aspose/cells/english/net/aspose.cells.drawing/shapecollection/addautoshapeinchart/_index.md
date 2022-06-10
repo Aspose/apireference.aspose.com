@@ -1,7 +1,7 @@
 ---
 title: AddAutoShapeInChart
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a AutoShape to the chart.
 type: docs
 weight: 50
 url: /net/aspose.cells.drawing/shapecollection/addautoshapeinchart/
@@ -22,7 +22,7 @@ public Shape AddAutoShapeInChart(AutoShapeType type, int top, int left, int heig
 | height | Int32 | Represents the height of textbox, in units of 1/4000 of the chart area. |
 | width | Int32 | Represents the width of textbox, in units of 1/4000 of the chart area. |
 
-## Return Value
+### Return Value
 
 Returns a shape object.
 

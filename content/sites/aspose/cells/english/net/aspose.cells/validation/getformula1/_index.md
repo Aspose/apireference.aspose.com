@@ -1,12 +1,12 @@
 ---
 title: GetFormula1
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the value or expression associated with this validation.
 type: docs
 weight: 200
 url: /net/aspose.cells/validation/getformula1/
 ---
-## Validation.GetFormula1 method (1 of 2)
+## GetFormula1(bool, bool) {#getformula1}
 
 Gets the value or expression associated with this validation.
 
@@ -19,7 +19,7 @@ public string GetFormula1(bool isR1C1, bool isLocal)
 | isR1C1 | Boolean | Whether the formula needs to be formatted as R1C1. |
 | isLocal | Boolean | Whether the formula needs to be formatted by locale. |
 
-## Return Value
+### Return Value
 
 The value or expression associated with this validation.
 
@@ -31,7 +31,7 @@ The value or expression associated with this validation.
 
 ---
 
-## Validation.GetFormula1 method (2 of 2)
+## GetFormula1(bool, bool, int, int) {#getformula1_1}
 
 Gets the value or expression associated with this validation for specific cell.
 
@@ -46,7 +46,7 @@ public string GetFormula1(bool isR1C1, bool isLocal, int row, int column)
 | row | Int32 | The row index. |
 | column | Int32 | The column index. |
 
-## Return Value
+### Return Value
 
 The value or expression associated with this validation.
 

@@ -1,9 +1,9 @@
 ---
 title: ValidationAlertType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the data validation alert style.
 type: docs
-weight: 6200
+weight: 6240
 url: /net/aspose.cells/validationalerttype/
 ---
 ## ValidationAlertType enumeration
@@ -14,7 +14,7 @@ Represents the data validation alert style.
 public enum ValidationAlertType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

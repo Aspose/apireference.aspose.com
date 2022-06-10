@@ -1,9 +1,9 @@
 ---
 title: ConvertA1FormulaToR1C1
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Converts A1 formula of the cell to the r1c1 formula.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cells/cellshelper/converta1formulator1c1/
 ---
 ## CellsHelper.ConvertA1FormulaToR1C1 method
@@ -20,7 +20,7 @@ public static string ConvertA1FormulaToR1C1(string formula, int row, int column)
 | row | Int32 | The row index of the cell. |
 | column | Int32 | The column index of the cell. |
 
-## Return Value
+### Return Value
 
 The R1C1 formula.
 

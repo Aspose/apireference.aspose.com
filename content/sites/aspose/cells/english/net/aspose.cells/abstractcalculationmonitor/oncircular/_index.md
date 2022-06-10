@@ -1,7 +1,7 @@
 ---
 title: OnCircular
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Implement this method to do business when calculating formulas with circular references.
 type: docs
 weight: 60
 url: /net/aspose.cells/abstractcalculationmonitor/oncircular/
@@ -18,7 +18,7 @@ public virtual bool OnCircular(IEnumerator circularCellsData)
 | --- | --- | --- |
 | circularCellsData | IEnumerator | IEnumerator with CalculationCell items representing cells that depend on circular references. |
 
-## Return Value
+### Return Value
 
 Whether the formula engine needs to calculate those cells in circular after this call. True to let the formula engine continue to do calculation for them. False to let the formula engine just mark those cells as Calculated.
 

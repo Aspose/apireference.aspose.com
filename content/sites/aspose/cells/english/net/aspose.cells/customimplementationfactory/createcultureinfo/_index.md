@@ -1,7 +1,7 @@
 ---
 title: CreateCultureInfo
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Create one CultureInfo by given id.
 type: docs
 weight: 20
 url: /net/aspose.cells/customimplementationfactory/createcultureinfo/
@@ -18,7 +18,7 @@ public virtual CultureInfo CreateCultureInfo(int lcid)
 | --- | --- | --- |
 | lcid | Int32 |  |
 
-## Return Value
+### Return Value
 
 The CultureInfo instance.
 

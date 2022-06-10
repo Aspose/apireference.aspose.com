@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a hyperlink to a specified cell or a range of cells.
 type: docs
 weight: 20
 url: /net/aspose.cells/hyperlinkcollection/add/
 ---
-## HyperlinkCollection.Add method (1 of 3)
+## Add(int, int, int, int, string) {#add}
 
 Adds a hyperlink to a specified cell or a range of cells.
 
@@ -22,7 +22,7 @@ public int Add(int firstRow, int firstColumn, int totalRows, int totalColumns, s
 | totalColumns | Int32 | Number of columns of this hyperlink range. |
 | address | String | Address of the hyperlink. |
 
-## Return Value
+### Return Value
 
 [`Hyperlink`](../../hyperlink) object index.
 
@@ -54,7 +54,7 @@ worksheet.Hyperlinks.Add("A5", 1, 1, "c:\\book1.xls")
 
 ---
 
-## HyperlinkCollection.Add method (2 of 3)
+## Add(string, int, int, string) {#add_1}
 
 Adds a hyperlink to a specified cell or a range of cells.
 
@@ -69,7 +69,7 @@ public int Add(string cellName, int totalRows, int totalColumns, string address)
 | totalColumns | Int32 | Number of columns of this hyperlink range. |
 | address | String | Address of the hyperlink. |
 
-## Return Value
+### Return Value
 
 [`Hyperlink`](../../hyperlink) object index.
 
@@ -81,7 +81,7 @@ public int Add(string cellName, int totalRows, int totalColumns, string address)
 
 ---
 
-## HyperlinkCollection.Add method (3 of 3)
+## Add(string, string, string, string, string) {#add_2}
 
 Adds a hyperlink to a specified cell or a range of cells.
 
@@ -98,7 +98,7 @@ public int Add(string startCellName, string endCellName, string address, string 
 | textToDisplay | String | The text to be displayed for the specified hyperlink. |
 | screenTip | String | The screenTip text for the specified hyperlink. |
 
-## Return Value
+### Return Value
 
 [`Hyperlink`](../../hyperlink) object index.
 

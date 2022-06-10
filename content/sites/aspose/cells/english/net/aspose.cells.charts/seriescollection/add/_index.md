@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds the SeriesCollectionaspose.cells.charts/seriescollection collection to a chart.
 type: docs
 weight: 50
 url: /net/aspose.cells.charts/seriescollection/add/
 ---
-## SeriesCollection.Add method (1 of 2)
+## Add(string, bool) {#add}
 
 Adds the [`SeriesCollection`](../../seriescollection) collection to a chart.
 
@@ -19,7 +19,7 @@ public int Add(string area, bool isVertical)
 | area | String | Specifies values from which to plot the data series |
 | isVertical | Boolean | Specifies whether to plot the series from a range of cell values by row or by column. |
 
-## Return Value
+### Return Value
 
 Return the first index of the added ASeries in the NSeries.
 
@@ -35,7 +35,7 @@ If set data on contiguous cells, use colon to seperate them.For example, $C$2:$C
 
 ---
 
-## SeriesCollection.Add method (2 of 2)
+## Add(string, bool, bool) {#add_1}
 
 Adds the [`SeriesCollection`](../../seriescollection) collection to a chart.
 
@@ -49,7 +49,7 @@ public int Add(string area, bool isVertical, bool checkLabels)
 | isVertical | Boolean | Specifies whether to plot the series from a range of cell values by row or by column. |
 | checkLabels | Boolean | Indicates whether the range contains series's name |
 
-## Return Value
+### Return Value
 
 Return the first index of the added ASeries in the NSeries.
 

@@ -1,9 +1,9 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets Cellaspose.cells/cell object in this range.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cells/range/item/
 ---
 ## Range indexer
@@ -19,7 +19,7 @@ public Cell this[int rowOffset, int columnOffset] { get; }
 | rowOffset | Row offset in this range, zero based. |
 | columnOffset | Column offset in this range, zero based. |
 
-## Return Value
+### Return Value
 
 [`Cell`](../../cell) object.
 

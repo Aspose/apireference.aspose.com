@@ -1,7 +1,7 @@
 ---
 title: CreateUnionRange
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Creates a Rangeaspose.cells/range object from an address of the range.
 type: docs
 weight: 220
 url: /net/aspose.cells/worksheetcollection/createunionrange/
@@ -19,7 +19,7 @@ public UnionRange CreateUnionRange(string address, int sheetIndex)
 | address | String | The address of the range. |
 | sheetIndex | Int32 | The sheet index. |
 
-## Return Value
+### Return Value
 
 A [`Range`](../../range) object
 

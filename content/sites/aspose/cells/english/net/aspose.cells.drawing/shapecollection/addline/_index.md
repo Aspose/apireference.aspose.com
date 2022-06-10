@@ -1,7 +1,7 @@
 ---
 title: AddLine
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a LineShape to the worksheet.
 type: docs
 weight: 150
 url: /net/aspose.cells.drawing/shapecollection/addline/
@@ -24,7 +24,7 @@ public LineShape AddLine(int upperLeftRow, int top, int upperLeftColumn, int lef
 | height | Int32 | Represents the height of LineShape, in unit of pixel. |
 | width | Int32 | Represents the width of LineShape, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A LineShape object.
 

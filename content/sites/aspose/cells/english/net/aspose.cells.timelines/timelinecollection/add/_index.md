@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Add a new Timeline using PivotTable as data source
 type: docs
 weight: 20
 url: /net/aspose.cells.timelines/timelinecollection/add/
 ---
-## TimelineCollection.Add method (1 of 6)
+## Add(PivotTable, int, int, string) {#add_2}
 
 Add a new Timeline using PivotTable as data source
 
@@ -21,7 +21,7 @@ public int Add(PivotTable pivot, int row, int column, string baseFieldName)
 | column | Int32 | Column index of the cell in the upper-left corner of the Timeline range. |
 | baseFieldName | String | The name of PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Timeline index
 
@@ -43,7 +43,7 @@ sheet.Timelines.Add(pivot, 10, 5, "date");
 
 ---
 
-## TimelineCollection.Add method (2 of 6)
+## Add(PivotTable, string, string) {#add_5}
 
 Add a new Timeline using PivotTable as data source
 
@@ -57,7 +57,7 @@ public int Add(PivotTable pivot, string destCellName, string baseFieldName)
 | destCellName | String | The cell name in the upper-left corner of the Timeline range. |
 | baseFieldName | String | The name of PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Timeline index
 
@@ -79,7 +79,7 @@ sheet.Timelines.Add(pivot, "i15", "date");
 
 ---
 
-## TimelineCollection.Add method (3 of 6)
+## Add(PivotTable, int, int, int) {#add_1}
 
 Add a new Timeline using PivotTable as data source
 
@@ -94,7 +94,7 @@ public int Add(PivotTable pivot, int row, int column, int baseFieldIndex)
 | column | Int32 | Column index of the cell in the upper-left corner of the Timeline range. |
 | baseFieldIndex | Int32 | The index of PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Timeline index
 
@@ -116,7 +116,7 @@ sheet.Timelines.Add(pivot, 15, 5, 1);
 
 ---
 
-## TimelineCollection.Add method (4 of 6)
+## Add(PivotTable, string, int) {#add_4}
 
 Add a new Timeline using PivotTable as data source
 
@@ -130,7 +130,7 @@ public int Add(PivotTable pivot, string destCellName, int baseFieldIndex)
 | destCellName | String | The cell name in the upper-left corner of the Timeline range. |
 | baseFieldIndex | Int32 | The index of PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Timeline index
 
@@ -152,7 +152,7 @@ sheet.Timelines.Add(pivot, "i5", 1);
 
 ---
 
-## TimelineCollection.Add method (5 of 6)
+## Add(PivotTable, int, int, PivotField) {#add}
 
 Add a new Timeline using PivotTable as data source
 
@@ -167,7 +167,7 @@ public int Add(PivotTable pivot, int row, int column, PivotField baseField)
 | column | Int32 | Column index of the cell in the upper-left corner of the Timeline range. |
 | baseField | PivotField | The PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Timeline index
 
@@ -190,7 +190,7 @@ sheet.Timelines.Add(pivot, 20, 5, pivot.BaseFields[1]);
 
 ---
 
-## TimelineCollection.Add method (6 of 6)
+## Add(PivotTable, string, PivotField) {#add_3}
 
 Add a new Timeline using PivotTable as data source
 
@@ -204,7 +204,7 @@ public int Add(PivotTable pivot, string destCellName, PivotField baseField)
 | destCellName | String | The cell name in the upper-left corner of the Timeline range. |
 | baseField | PivotField | The PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Timeline index
 

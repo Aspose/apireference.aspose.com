@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the child shape by index.
 type: docs
 weight: 10
 url: /net/aspose.cells.drawing/groupshape/item/
@@ -18,7 +18,7 @@ public Shape this[int index] { get; }
 | --- | --- |
 | index | the child shape index. |
 
-## Return Value
+### Return Value
 
 return the child shape.
 

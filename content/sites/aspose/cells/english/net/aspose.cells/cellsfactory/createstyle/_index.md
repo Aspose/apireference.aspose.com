@@ -1,7 +1,7 @@
 ---
 title: CreateStyle
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Creates a new style.
 type: docs
 weight: 20
 url: /net/aspose.cells/cellsfactory/createstyle/
@@ -14,7 +14,7 @@ Creates a new style.
 public Style CreateStyle()
 ```
 
-## Return Value
+### Return Value
 
 Returns a style object.
 

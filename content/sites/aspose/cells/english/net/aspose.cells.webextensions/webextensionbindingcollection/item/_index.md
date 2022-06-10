@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets web extension binding relationship by the specific index.
 type: docs
 weight: 20
 url: /net/aspose.cells.webextensions/webextensionbindingcollection/item/
@@ -18,7 +18,7 @@ public WebExtensionBinding this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 The web extension binding relationship
 

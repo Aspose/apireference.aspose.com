@@ -1,9 +1,9 @@
 ---
 title: GetFormatConditions
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets format conditions which applies to this cell.
 type: docs
-weight: 400
+weight: 440
 url: /net/aspose.cells/cell/getformatconditions/
 ---
 ## Cell.GetFormatConditions method
@@ -14,7 +14,7 @@ Gets format conditions which applies to this cell.
 public FormatConditionCollection[] GetFormatConditions()
 ```
 
-## Return Value
+### Return Value
 
 Returns [`FormatConditionCollection`](../../formatconditioncollection) object
 

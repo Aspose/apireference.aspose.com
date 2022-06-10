@@ -1,12 +1,12 @@
 ---
 title: GetRange
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the range if this name refers to a range.
 type: docs
 weight: 90
 url: /net/aspose.cells/name/getrange/
 ---
-## Name.GetRange method (1 of 3)
+## GetRange() {#getrange}
 
 Gets the range if this name refers to a range.
 
@@ -14,7 +14,7 @@ Gets the range if this name refers to a range.
 public Range GetRange()
 ```
 
-## Return Value
+### Return Value
 
 The range.
 
@@ -27,7 +27,7 @@ The range.
 
 ---
 
-## Name.GetRange method (2 of 3)
+## GetRange(bool) {#getrange_1}
 
 Gets the range if this name refers to a range
 
@@ -39,7 +39,7 @@ public Range GetRange(bool recalculate)
 | --- | --- | --- |
 | recalculate | Boolean | whether recalculate it if this name has been calculated before this invocation. |
 
-## Return Value
+### Return Value
 
 The range.
 
@@ -52,7 +52,7 @@ The range.
 
 ---
 
-## Name.GetRange method (3 of 3)
+## GetRange(int, int, int) {#getrange_2}
 
 Gets the range if this name refers to a range. If the reference of this name is not absolute, the range may be different for different cell.
 
@@ -66,7 +66,7 @@ public Range GetRange(int sheetIndex, int row, int column)
 | row | Int32 | The according row index. |
 | column | Int32 | The according column index |
 
-## Return Value
+### Return Value
 
 The range.
 

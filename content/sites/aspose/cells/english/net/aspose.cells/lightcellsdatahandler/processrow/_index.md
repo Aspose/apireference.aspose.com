@@ -1,7 +1,7 @@
 ---
 title: ProcessRow
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Starts to process one row.
 type: docs
 weight: 20
 url: /net/aspose.cells/lightcellsdatahandler/processrow/
@@ -18,7 +18,7 @@ public bool ProcessRow(Row row)
 | --- | --- | --- |
 | row | Row | Row object which is being processed currently. |
 
-## Return Value
+### Return Value
 
 whether this row's cells need to be processed. false to ignore all cells in this row.
 

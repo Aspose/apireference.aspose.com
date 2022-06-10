@@ -1,7 +1,7 @@
 ---
 title: AddLabel
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a Label to the worksheet.
 type: docs
 weight: 130
 url: /net/aspose.cells.drawing/shapecollection/addlabel/
@@ -24,7 +24,7 @@ public Label AddLabel(int upperLeftRow, int top, int upperLeftColumn, int left, 
 | height | Int32 | Represents the height of Label, in unit of pixel. |
 | width | Int32 | Represents the width of Label, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A Label object.
 

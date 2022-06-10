@@ -1,7 +1,7 @@
 ---
 title: GetParamValue
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the represented value object of the parameter at given index.
 type: docs
 weight: 100
 url: /net/aspose.cells/calculationdata/getparamvalue/
@@ -18,7 +18,7 @@ public object GetParamValue(int index)
 | --- | --- | --- |
 | index | Int32 | index of the parameter(0 based) |
 
-## Return Value
+### Return Value
 
 If the parameter is plain value, then returns the plain value. If the parameter is reference, then returns ReferredArea object. If the parameter references to multiple datasets, then returns array of objects.
 

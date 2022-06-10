@@ -1,7 +1,7 @@
 ---
 title: NextCell
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets next cell to be saved.
 type: docs
 weight: 20
 url: /net/aspose.cells/lightcellsdataprovider/nextcell/
@@ -14,7 +14,7 @@ Gets next cell to be saved.
 public int NextCell()
 ```
 
-## Return Value
+### Return Value
 
 column index of the next cell to be saved. -1 means the end of current row data has been reached and no further cell of current row to be saved.
 

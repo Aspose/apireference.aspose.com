@@ -1,12 +1,12 @@
 ---
 title: GetRanges
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets all ranges referred by this name.
 type: docs
 weight: 100
 url: /net/aspose.cells/name/getranges/
 ---
-## Name.GetRanges method (1 of 2)
+## GetRanges() {#getranges}
 
 Gets all ranges referred by this name.
 
@@ -14,7 +14,7 @@ Gets all ranges referred by this name.
 public Range[] GetRanges()
 ```
 
-## Return Value
+### Return Value
 
 All ranges.
 
@@ -27,7 +27,7 @@ All ranges.
 
 ---
 
-## Name.GetRanges method (2 of 2)
+## GetRanges(bool) {#getranges_1}
 
 Gets all ranges referred by this name.
 
@@ -39,7 +39,7 @@ public Range[] GetRanges(bool recalculate)
 | --- | --- | --- |
 | recalculate | Boolean | whether recalculate it if this name has been calculated before this invocation. |
 
-## Return Value
+### Return Value
 
 All ranges.
 

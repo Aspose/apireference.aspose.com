@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the ExternalConnectionaspose.cells.externalconnections/externalconnection element at the specified index.
 type: docs
 weight: 10
 url: /net/aspose.cells.externalconnections/externalconnectioncollection/item/
@@ -18,7 +18,7 @@ public ExternalConnection this[int index] { get; set; }
 | --- | --- |
 | index | The zero based index of the element. |
 
-## Return Value
+### Return Value
 
 The element at the specified index.
 
@@ -43,7 +43,7 @@ public ExternalConnection this[string connectionName] { get; }
 | --- | --- |
 | connectionName | data connection name |
 
-## Return Value
+### Return Value
 
 The element with the specified name.
 

@@ -1,9 +1,9 @@
 ---
 title: GetMatchingColor
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Find best matching Color in current palette.
 type: docs
-weight: 420
+weight: 430
 url: /net/aspose.cells/workbook/getmatchingcolor/
 ---
 ## Workbook.GetMatchingColor method
@@ -18,7 +18,7 @@ public Color GetMatchingColor(Color rawColor)
 | --- | --- | --- |
 | rawColor | Color | Raw color. |
 
-## Return Value
+### Return Value
 
 Best matching color.
 

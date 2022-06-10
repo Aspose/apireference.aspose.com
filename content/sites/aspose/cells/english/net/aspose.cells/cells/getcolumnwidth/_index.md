@@ -1,9 +1,9 @@
 ---
 title: GetColumnWidth
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the width of the specified column in normal view
 type: docs
-weight: 670
+weight: 690
 url: /net/aspose.cells/cells/getcolumnwidth/
 ---
 ## Cells.GetColumnWidth method
@@ -18,7 +18,7 @@ public double GetColumnWidth(int column)
 | --- | --- | --- |
 | column | Int32 | Column index |
 
-## Return Value
+### Return Value
 
 Width of column
 

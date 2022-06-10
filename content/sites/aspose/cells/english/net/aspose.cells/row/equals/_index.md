@@ -1,12 +1,12 @@
 ---
 title: Equals
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Checks whether this object refers to the same row with another.
 type: docs
 weight: 160
 url: /net/aspose.cells/row/equals/
 ---
-## Row.Equals method (1 of 2)
+## Equals(object) {#equals_1}
 
 Checks whether this object refers to the same row with another.
 
@@ -18,7 +18,7 @@ public bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | another object |
 
-## Return Value
+### Return Value
 
 true if two objects refers to the same row.
 
@@ -30,7 +30,7 @@ true if two objects refers to the same row.
 
 ---
 
-## Row.Equals method (2 of 2)
+## Equals(Row) {#equals}
 
 Checks whether this object refers to the same row with another row object.
 
@@ -42,7 +42,7 @@ public bool Equals(Row row)
 | --- | --- | --- |
 | row | Row | another row object |
 
-## Return Value
+### Return Value
 
 true if two row objects refers to the same row.
 

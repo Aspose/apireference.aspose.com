@@ -1,9 +1,9 @@
 ---
 title: BackgroundMode
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the display mode of the background.
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.cells.charts/backgroundmode/
 ---
 ## BackgroundMode enumeration
@@ -14,7 +14,7 @@ Represents the display mode of the background.
 public enum BackgroundMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

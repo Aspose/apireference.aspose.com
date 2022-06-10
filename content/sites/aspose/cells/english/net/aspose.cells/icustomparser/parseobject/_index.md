@@ -1,7 +1,7 @@
 ---
 title: ParseObject
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Parses given string to proper value object.
 type: docs
 weight: 20
 url: /net/aspose.cells/icustomparser/parseobject/
@@ -18,7 +18,7 @@ public object ParseObject(string value)
 | --- | --- | --- |
 | value | String | The string value to be parsed |
 
-## Return Value
+### Return Value
 
 Parsed value object from given string. If given string cannot be parsed to proper value object, returns null.
 

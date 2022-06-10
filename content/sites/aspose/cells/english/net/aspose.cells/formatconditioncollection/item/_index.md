@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the formatting condition by index.
 type: docs
 weight: 20
 url: /net/aspose.cells/formatconditioncollection/item/
@@ -18,7 +18,7 @@ public FormatCondition this[int index] { get; }
 | --- | --- |
 | index | the index of the formatting condition to return. |
 
-## Return Value
+### Return Value
 
 the formatting condition
 

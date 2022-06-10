@@ -1,9 +1,9 @@
 ---
 title: CredentialsMethodType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Specifies Credentials method used for server access.
 type: docs
-weight: 3260
+weight: 3290
 url: /net/aspose.cells.externalconnections/credentialsmethodtype/
 ---
 ## CredentialsMethodType enumeration
@@ -14,7 +14,7 @@ Specifies Credentials method used for server access.
 public enum CredentialsMethodType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -1,7 +1,7 @@
 ---
 title: GetElementStyle
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the element style.
 type: docs
 weight: 30
 url: /net/aspose.cells.tables/tablestyleelement/getelementstyle/
@@ -14,7 +14,7 @@ Gets the element style.
 public Style GetElementStyle()
 ```
 
-## Return Value
+### Return Value
 
 Returns the [`Style`](../../../aspose.cells/style) object.
 

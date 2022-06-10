@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the Borderaspose.cells/border element at the specified index.
 type: docs
 weight: 30
 url: /net/aspose.cells/bordercollection/item/
@@ -18,7 +18,7 @@ public Border this[BorderType borderType] { get; }
 | --- | --- |
 | borderType | The border to be retrieved. |
 
-## Return Value
+### Return Value
 
 The element at the specified index.
 

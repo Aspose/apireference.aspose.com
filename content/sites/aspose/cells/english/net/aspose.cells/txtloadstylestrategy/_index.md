@@ -1,9 +1,9 @@
 ---
 title: TxtLoadStyleStrategy
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Specifies how to apply style for parsed values when converting string value to number or datetime.
 type: docs
-weight: 6110
+weight: 6150
 url: /net/aspose.cells/txtloadstylestrategy/
 ---
 ## TxtLoadStyleStrategy enumeration
@@ -14,7 +14,7 @@ Specifies how to apply style for parsed values when converting string value to n
 public enum TxtLoadStyleStrategy
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

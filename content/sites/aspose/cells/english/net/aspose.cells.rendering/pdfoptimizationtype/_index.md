@@ -1,9 +1,9 @@
 ---
 title: PdfOptimizationType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Specifies a type of optimization.
 type: docs
-weight: 5220
+weight: 5260
 url: /net/aspose.cells.rendering/pdfoptimizationtype/
 ---
 ## PdfOptimizationType enumeration
@@ -14,7 +14,7 @@ Specifies a type of optimization.
 public enum PdfOptimizationType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

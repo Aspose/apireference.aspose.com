@@ -1,7 +1,7 @@
 ---
 title: GetNamedRanges
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets all pre-defined named ranges in the spreadsheet.
 type: docs
 weight: 230
 url: /net/aspose.cells/worksheetcollection/getnamedranges/
@@ -14,7 +14,7 @@ Gets all pre-defined named ranges in the spreadsheet.
 public Range[] GetNamedRanges()
 ```
 
-## Return Value
+### Return Value
 
 An array of Range objects. If the defined Name's reference is external or has multiple ranges, no Range object will be returned for this Name.
 

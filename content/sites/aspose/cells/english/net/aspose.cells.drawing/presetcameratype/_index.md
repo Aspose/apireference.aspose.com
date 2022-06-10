@@ -1,9 +1,9 @@
 ---
 title: PresetCameraType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represent different algorithmic methods for setting all camera properties including position.
 type: docs
-weight: 2500
+weight: 2520
 url: /net/aspose.cells.drawing/presetcameratype/
 ---
 ## PresetCameraType enumeration
@@ -14,7 +14,7 @@ Represent different algorithmic methods for setting all camera properties, inclu
 public enum PresetCameraType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

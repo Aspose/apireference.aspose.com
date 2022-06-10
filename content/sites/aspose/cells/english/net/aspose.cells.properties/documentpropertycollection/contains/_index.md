@@ -1,7 +1,7 @@
 ---
 title: Contains
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Returns true if a property with the specified name exists in the collection.
 type: docs
 weight: 40
 url: /net/aspose.cells.properties/documentpropertycollection/contains/
@@ -18,7 +18,7 @@ public bool Contains(string name)
 | --- | --- | --- |
 | name | String | The case-insensitive name of the property. |
 
-## Return Value
+### Return Value
 
 True if the property exists in the collection; false otherwise.
 

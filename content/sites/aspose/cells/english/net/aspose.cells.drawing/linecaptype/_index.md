@@ -1,9 +1,9 @@
 ---
 title: LineCapType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the caps of a line
 type: docs
-weight: 2200
+weight: 2220
 url: /net/aspose.cells.drawing/linecaptype/
 ---
 ## LineCapType enumeration
@@ -14,7 +14,7 @@ Represents the caps of a line
 public enum LineCapType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

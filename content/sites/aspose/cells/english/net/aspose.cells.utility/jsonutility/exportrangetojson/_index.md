@@ -1,7 +1,7 @@
 ---
 title: ExportRangeToJson
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Exporting the range to json file.
 type: docs
 weight: 20
 url: /net/aspose.cells.utility/jsonutility/exportrangetojson/
@@ -19,7 +19,7 @@ public static string ExportRangeToJson(Range range, ExportRangeToJsonOptions opt
 | range | Range | The range. |
 | options | ExportRangeToJsonOptions | The options of exporting. |
 
-## Return Value
+### Return Value
 
 The json string value.
 

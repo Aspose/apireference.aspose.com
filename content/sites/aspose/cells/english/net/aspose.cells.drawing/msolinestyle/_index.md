@@ -1,9 +1,9 @@
 ---
 title: MsoLineStyle
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents style of drawing lines.
 type: docs
-weight: 2370
+weight: 2390
 url: /net/aspose.cells.drawing/msolinestyle/
 ---
 ## MsoLineStyle enumeration
@@ -14,7 +14,7 @@ Represents style of drawing lines.
 public enum MsoLineStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

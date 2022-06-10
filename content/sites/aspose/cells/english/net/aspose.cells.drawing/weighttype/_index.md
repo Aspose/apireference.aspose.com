@@ -1,9 +1,9 @@
 ---
 title: WeightType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Enumerates the weight types for a picture border or a chart line.
 type: docs
-weight: 3100
+weight: 3130
 url: /net/aspose.cells.drawing/weighttype/
 ---
 ## WeightType enumeration
@@ -14,7 +14,7 @@ Enumerates the weight types for a picture border or a chart line.
 public enum WeightType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

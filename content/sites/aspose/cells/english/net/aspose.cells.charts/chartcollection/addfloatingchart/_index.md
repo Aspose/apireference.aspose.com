@@ -1,7 +1,7 @@
 ---
 title: AddFloatingChart
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a chart to the collection.
 type: docs
 weight: 30
 url: /net/aspose.cells.charts/chartcollection/addfloatingchart/
@@ -22,7 +22,7 @@ public int AddFloatingChart(ChartType type, int left, int top, int width, int he
 | width | Int32 | The chart width |
 | height | Int32 | The chart height |
 
-## Return Value
+### Return Value
 
 [`Chart`](../../chart) object index.
 

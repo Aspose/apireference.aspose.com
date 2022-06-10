@@ -1,9 +1,9 @@
 ---
 title: PivotFilterType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents PivotTable Filter type.
 type: docs
-weight: 4590
+weight: 4630
 url: /net/aspose.cells.pivot/pivotfiltertype/
 ---
 ## PivotFilterType enumeration
@@ -14,7 +14,7 @@ Represents PivotTable Filter type.
 public enum PivotFilterType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -1,7 +1,7 @@
 ---
 title: GetPrintingPageBreaks
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets automatic page breaks.
 type: docs
 weight: 740
 url: /net/aspose.cells/worksheet/getprintingpagebreaks/
@@ -18,7 +18,7 @@ public CellArea[] GetPrintingPageBreaks(ImageOrPrintOptions options)
 | --- | --- | --- |
 | options | ImageOrPrintOptions | The print options |
 
-## Return Value
+### Return Value
 
 The automatic page breaks areas.
 

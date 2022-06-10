@@ -1,9 +1,9 @@
 ---
 title: IsModified
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Checks whether the specified properties of the style have been modified. Used for style of ConditionalFormattings to check whether the specified properties of this style should be used when applying the ConditionalFormattings on a cell.
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.cells/style/ismodified/
 ---
 ## Style.IsModified method
@@ -18,7 +18,7 @@ public bool IsModified(StyleModifyFlag modifyFlag)
 | --- | --- | --- |
 | modifyFlag | StyleModifyFlag | Style modified flags |
 
-## Return Value
+### Return Value
 
 true if the specified properties have been modified
 

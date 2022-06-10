@@ -1,12 +1,12 @@
 ---
 title: ImportData
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Imports data from a IDataReader object.
 type: docs
-weight: 970
+weight: 1000
 url: /net/aspose.cells/cells/importdata/
 ---
-## Cells.ImportData method (1 of 5)
+## ImportData(IDataReader, int, int) {#importdata_3}
 
 Imports data from a IDataReader object.
 
@@ -20,7 +20,7 @@ public int ImportData(IDataReader reader, int firstRow, int firstColumn)
 | firstRow | Int32 | The row number of the first cell to import in. |
 | firstColumn | Int32 | The column number of the first cell to import in. |
 
-## Return Value
+### Return Value
 
 Total number of rows imported.
 
@@ -32,7 +32,7 @@ Total number of rows imported.
 
 ---
 
-## Cells.ImportData method (2 of 5)
+## ImportData(IDataReader, int, int, ImportTableOptions) {#importdata_4}
 
 Imports data from a IDataReader object.
 
@@ -47,7 +47,7 @@ public int ImportData(IDataReader reader, int firstRow, int firstColumn, ImportT
 | firstColumn | Int32 | The column number of the first cell to import in. |
 | options | ImportTableOptions | The options of importing table. |
 
-## Return Value
+### Return Value
 
 Total number of rows imported.
 
@@ -60,7 +60,7 @@ Total number of rows imported.
 
 ---
 
-## Cells.ImportData method (3 of 5)
+## ImportData(ICellsDataTable, int, int, ImportTableOptions) {#importdata}
 
 Import data from custom data table.
 
@@ -86,7 +86,7 @@ public int ImportData(ICellsDataTable table, int firstRow, int firstColumn,
 
 ---
 
-## Cells.ImportData method (4 of 5)
+## ImportData(DataTable, int, int, ImportTableOptions) {#importdata_1}
 
 Import data from custom data table.
 
@@ -101,7 +101,7 @@ public int ImportData(DataTable table, int firstRow, int firstColumn, ImportTabl
 | firstColumn | Int32 | First column index. |
 | options | ImportTableOptions | The import options |
 
-## Return Value
+### Return Value
 
 Total number of rows imported.
 
@@ -170,7 +170,7 @@ Dim outDataTable as DataTable = cells.ExportDataTable(12, 12, 10, 10)
 
 ---
 
-## Cells.ImportData method (5 of 5)
+## ImportData(DataView, int, int, ImportTableOptions) {#importdata_2}
 
 Import data from data view.
 
@@ -185,7 +185,7 @@ public int ImportData(DataView dataView, int firstRow, int firstColumn, ImportTa
 | firstColumn | Int32 | First column index. |
 | options | ImportTableOptions | The import options |
 
-## Return Value
+### Return Value
 
 Total number of rows imported.
 

@@ -1,9 +1,9 @@
 ---
 title: MsoArrowheadWidth
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Enumerates the line end width of the shape border line.
 type: docs
-weight: 2290
+weight: 2310
 url: /net/aspose.cells.drawing/msoarrowheadwidth/
 ---
 ## MsoArrowheadWidth enumeration
@@ -14,7 +14,7 @@ Enumerates the line end width of the shape border line.
 public enum MsoArrowheadWidth
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

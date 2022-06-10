@@ -1,9 +1,9 @@
 ---
 title: CountryCode
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents Excel country identifiers.
 type: docs
-weight: 1190
+weight: 1210
 url: /net/aspose.cells/countrycode/
 ---
 ## CountryCode enumeration
@@ -14,7 +14,7 @@ Represents Excel country identifiers.
 public enum CountryCode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

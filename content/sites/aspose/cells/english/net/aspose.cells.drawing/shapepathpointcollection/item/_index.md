@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets shape path point by index.
 type: docs
 weight: 20
 url: /net/aspose.cells.drawing/shapepathpointcollection/item/
@@ -18,7 +18,7 @@ public ShapePathPoint this[int index] { get; }
 | --- | --- |
 | index | The index |
 
-## Return Value
+### Return Value
 
 Returns [`ShapePathPoint`](../../shapepathpoint) object
 

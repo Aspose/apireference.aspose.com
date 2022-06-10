@@ -1,7 +1,7 @@
 ---
 title: GetParamText
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the literal text of the parameter at given index.
 type: docs
 weight: 90
 url: /net/aspose.cells/calculationdata/getparamtext/
@@ -18,7 +18,7 @@ public string GetParamText(int index)
 | --- | --- | --- |
 | index | Int32 | index of the parameter(0 based) |
 
-## Return Value
+### Return Value
 
 literal text of the parameter
 

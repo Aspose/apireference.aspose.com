@@ -1,9 +1,9 @@
 ---
 title: GetLockedProperty
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the value of locked property.
 type: docs
-weight: 1050
+weight: 1110
 url: /net/aspose.cells.drawing/shape/getlockedproperty/
 ---
 ## Shape.GetLockedProperty method
@@ -18,7 +18,7 @@ public bool GetLockedProperty(ShapeLockType type)
 | --- | --- | --- |
 | type | ShapeLockType | The type of the shape locked property. |
 
-## Return Value
+### Return Value
 
 Returns the value of locked property.
 

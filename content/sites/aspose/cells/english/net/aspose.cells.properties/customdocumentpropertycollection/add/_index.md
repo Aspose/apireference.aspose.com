@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Creates a new custom document property of the PropertyType.String data type.
 type: docs
 weight: 10
 url: /net/aspose.cells.properties/customdocumentpropertycollection/add/
 ---
-## CustomDocumentPropertyCollection.Add method (1 of 5)
+## Add(string, string) {#add_4}
 
 Creates a new custom document property of the **PropertyType.String** data type.
 
@@ -19,7 +19,7 @@ public DocumentProperty Add(string name, string value)
 | name | String | The name of the property. |
 | value | String | The value of the property. |
 
-## Return Value
+### Return Value
 
 The newly created property object.
 
@@ -32,7 +32,7 @@ The newly created property object.
 
 ---
 
-## CustomDocumentPropertyCollection.Add method (2 of 5)
+## Add(string, int) {#add_2}
 
 Creates a new custom document property of the **PropertyType.Number** data type.
 
@@ -45,7 +45,7 @@ public DocumentProperty Add(string name, int value)
 | name | String | The name of the property. |
 | value | Int32 | The value of the property. |
 
-## Return Value
+### Return Value
 
 The newly created property object.
 
@@ -58,7 +58,7 @@ The newly created property object.
 
 ---
 
-## CustomDocumentPropertyCollection.Add method (3 of 5)
+## Add(string, DateTime) {#add_3}
 
 Creates a new custom document property of the **PropertyType.DateTime** data type.
 
@@ -71,7 +71,7 @@ public DocumentProperty Add(string name, DateTime value)
 | name | String | The name of the property. |
 | value | DateTime | The value of the property. |
 
-## Return Value
+### Return Value
 
 The newly created property object.
 
@@ -84,7 +84,7 @@ The newly created property object.
 
 ---
 
-## CustomDocumentPropertyCollection.Add method (4 of 5)
+## Add(string, bool) {#add}
 
 Creates a new custom document property of the **PropertyType.Boolean** data type.
 
@@ -97,7 +97,7 @@ public DocumentProperty Add(string name, bool value)
 | name | String | The name of the property. |
 | value | Boolean | The value of the property. |
 
-## Return Value
+### Return Value
 
 The newly created property object.
 
@@ -110,7 +110,7 @@ The newly created property object.
 
 ---
 
-## CustomDocumentPropertyCollection.Add method (5 of 5)
+## Add(string, double) {#add_1}
 
 Creates a new custom document property of the **PropertyType.Float** data type.
 
@@ -123,7 +123,7 @@ public DocumentProperty Add(string name, double value)
 | name | String | The name of the property. |
 | value | Double | The value of the property. |
 
-## Return Value
+### Return Value
 
 The newly created property object.
 

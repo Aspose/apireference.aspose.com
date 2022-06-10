@@ -1,7 +1,7 @@
 ---
 title: AddR1C1
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds the SeriesCollectionaspose.cells.charts/seriescollection collection to a chart.
 type: docs
 weight: 60
 url: /net/aspose.cells.charts/seriescollection/addr1c1/
@@ -19,7 +19,7 @@ public int AddR1C1(string area, bool isVertical)
 | area | String | Specifies values from which to plot the data series |
 | isVertical | Boolean | Specifies whether to plot the series from a range of cell values by row or by column. |
 
-## Return Value
+### Return Value
 
 Return the first index of the added ASeries in the NSeries.
 

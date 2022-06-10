@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets a SmartTagPropertyaspose.cells.markup/smarttagproperty object.
 type: docs
 weight: 20
 url: /net/aspose.cells.markup/smarttagpropertycollection/item/
@@ -18,7 +18,7 @@ public SmartTagProperty this[int index] { get; }
 | --- | --- |
 | index | The index |
 
-## Return Value
+### Return Value
 
 Returns a [`SmartTagProperty`](../../smarttagproperty) object.
 
@@ -43,7 +43,7 @@ public SmartTagProperty this[string name] { get; }
 | --- | --- |
 | name | The name of the property. |
 
-## Return Value
+### Return Value
 
 Returns a [`SmartTagProperty`](../../smarttagproperty) object.
 

@@ -1,12 +1,12 @@
 ---
 title: CreateRange
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Creates a Rangeaspose.cells/range object from a range of cells.
 type: docs
 weight: 490
 url: /net/aspose.cells/cells/createrange/
 ---
-## Cells.CreateRange method (1 of 4)
+## CreateRange(string, string) {#createrange_3}
 
 Creates a [`Range`](../../range) object from a range of cells.
 
@@ -19,7 +19,7 @@ public Range CreateRange(string upperLeftCell, string lowerRightCell)
 | upperLeftCell | String | Upper left cell name. |
 | lowerRightCell | String | Lower right cell name. |
 
-## Return Value
+### Return Value
 
 A [`Range`](../../range) object
 
@@ -32,7 +32,7 @@ A [`Range`](../../range) object
 
 ---
 
-## Cells.CreateRange method (2 of 4)
+## CreateRange(int, int, int, int) {#createrange_1}
 
 Creates a [`Range`](../../range) object from a range of cells.
 
@@ -47,7 +47,7 @@ public Range CreateRange(int firstRow, int firstColumn, int totalRows, int total
 | totalRows | Int32 | Number of rows |
 | totalColumns | Int32 | Number of columns |
 
-## Return Value
+### Return Value
 
 A [`Range`](../../range) object
 
@@ -60,7 +60,7 @@ A [`Range`](../../range) object
 
 ---
 
-## Cells.CreateRange method (3 of 4)
+## CreateRange(string) {#createrange_2}
 
 Creates a [`Range`](../../range) object from an address of the range.
 
@@ -72,7 +72,7 @@ public Range CreateRange(string address)
 | --- | --- | --- |
 | address | String | The address of the range. |
 
-## Return Value
+### Return Value
 
 A [`Range`](../../range) object
 
@@ -85,7 +85,7 @@ A [`Range`](../../range) object
 
 ---
 
-## Cells.CreateRange method (4 of 4)
+## CreateRange(int, int, bool) {#createrange}
 
 Creates a [`Range`](../../range) object from rows of cells or columns of cells.
 
@@ -99,7 +99,7 @@ public Range CreateRange(int firstIndex, int number, bool isVertical)
 | number | Int32 | Total number of rows or columns, one based. |
 | isVertical | Boolean | True - Range created from columns of cells. False - Range created from rows of cells. |
 
-## Return Value
+### Return Value
 
 A [`Range`](../../range) object.
 

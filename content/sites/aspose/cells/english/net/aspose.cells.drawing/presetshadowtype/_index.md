@@ -1,9 +1,9 @@
 ---
 title: PresetShadowType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents preset shadow type.
 type: docs
-weight: 2520
+weight: 2540
 url: /net/aspose.cells.drawing/presetshadowtype/
 ---
 ## PresetShadowType enumeration
@@ -14,7 +14,7 @@ Represents preset shadow type.
 public enum PresetShadowType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

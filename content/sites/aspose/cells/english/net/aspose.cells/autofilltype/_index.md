@@ -1,7 +1,7 @@
 ---
 title: AutoFillType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the auto fill type.
 type: docs
 weight: 80
 url: /net/aspose.cells/autofilltype/
@@ -14,7 +14,7 @@ Represents the auto fill type.
 public enum AutoFillType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

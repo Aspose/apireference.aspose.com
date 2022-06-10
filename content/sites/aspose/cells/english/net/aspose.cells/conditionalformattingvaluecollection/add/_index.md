@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds ConditionalFormattingValueaspose.cells/conditionalformattingvalue object.
 type: docs
 weight: 20
 url: /net/aspose.cells/conditionalformattingvaluecollection/add/
@@ -19,7 +19,7 @@ public int Add(FormatConditionValueType type, string value)
 | type | FormatConditionValueType | The value type. |
 | value | String | The value. |
 
-## Return Value
+### Return Value
 
 Returns the index of new object in the list.
 

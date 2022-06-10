@@ -1,7 +1,7 @@
 ---
 title: AddLabelInChart
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a label to the chart.
 type: docs
 weight: 140
 url: /net/aspose.cells.drawing/shapecollection/addlabelinchart/
@@ -21,7 +21,7 @@ public Label AddLabelInChart(int top, int left, int height, int width)
 | height | Int32 | Represents the height of label, in units of 1/4000 of the chart area. |
 | width | Int32 | Represents the width of label, in units of 1/4000 of the chart area. |
 
-## Return Value
+### Return Value
 
 A new Label object.
 

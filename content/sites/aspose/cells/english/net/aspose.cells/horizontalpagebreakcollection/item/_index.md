@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the HorizontalPageBreakaspose.cells/horizontalpagebreak element at the specified index.
 type: docs
 weight: 10
 url: /net/aspose.cells/horizontalpagebreakcollection/item/
@@ -18,7 +18,7 @@ public HorizontalPageBreak this[int index] { get; }
 | --- | --- |
 | index | The zero based index of the element. |
 
-## Return Value
+### Return Value
 
 The element at the specified index.
 
@@ -43,7 +43,7 @@ public HorizontalPageBreak this[string cellName] { get; }
 | --- | --- |
 | cellName | Cell name. |
 
-## Return Value
+### Return Value
 
 The element with the specified cell name.
 

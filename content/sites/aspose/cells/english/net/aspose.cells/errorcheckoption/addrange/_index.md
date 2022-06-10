@@ -1,7 +1,7 @@
 ---
 title: AddRange
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds one influenced range by this setting.
 type: docs
 weight: 10
 url: /net/aspose.cells/errorcheckoption/addrange/
@@ -18,7 +18,7 @@ public int AddRange(CellArea ca)
 | --- | --- | --- |
 | ca | CellArea | the range to be added. |
 
-## Return Value
+### Return Value
 
 the index of the added range in the range list of this setting.
 

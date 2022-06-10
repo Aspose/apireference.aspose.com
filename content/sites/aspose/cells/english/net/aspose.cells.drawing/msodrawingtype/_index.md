@@ -1,9 +1,9 @@
 ---
 title: MsoDrawingType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents office drawing objects type.
 type: docs
-weight: 2300
+weight: 2320
 url: /net/aspose.cells.drawing/msodrawingtype/
 ---
 ## MsoDrawingType enumeration
@@ -14,7 +14,7 @@ Represents office drawing objects type.
 public enum MsoDrawingType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

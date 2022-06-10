@@ -1,9 +1,9 @@
 ---
 title: GetTableRowTypeOfTotals
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the type name of table rows that consists of the total row of referenced table. Default is Totals so in formula Totals represents the total row of referenced table.
 type: docs
-weight: 290
+weight: 310
 url: /net/aspose.cells/globalizationsettings/gettablerowtypeoftotals/
 ---
 ## GlobalizationSettings.GetTableRowTypeOfTotals method
@@ -14,7 +14,7 @@ Gets the type name of table rows that consists of the total row of referenced ta
 public virtual string GetTableRowTypeOfTotals()
 ```
 
-## Return Value
+### Return Value
 
 the type name of table rows
 

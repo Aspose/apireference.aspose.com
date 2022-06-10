@@ -1,9 +1,9 @@
 ---
 title: LookInType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents look in type.
 type: docs
-weight: 4010
+weight: 4050
 url: /net/aspose.cells/lookintype/
 ---
 ## LookInType enumeration
@@ -14,7 +14,7 @@ Represents look in type.
 public enum LookInType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

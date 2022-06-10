@@ -1,9 +1,9 @@
 ---
 title: PresetMaterialType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Describes surface appearance of a shape.
 type: docs
-weight: 2510
+weight: 2530
 url: /net/aspose.cells.drawing/presetmaterialtype/
 ---
 ## PresetMaterialType enumeration
@@ -14,7 +14,7 @@ Describes surface appearance of a shape.
 public enum PresetMaterialType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

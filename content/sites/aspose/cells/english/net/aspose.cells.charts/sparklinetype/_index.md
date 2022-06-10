@@ -1,9 +1,9 @@
 ---
 title: SparklineType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the sparkline types.
 type: docs
-weight: 900
+weight: 920
 url: /net/aspose.cells.charts/sparklinetype/
 ---
 ## SparklineType enumeration
@@ -14,7 +14,7 @@ Represents the sparkline types.
 public enum SparklineType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: IsBlankColumn
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Checks whether given column is blankdoes not contain any data.
 type: docs
-weight: 1120
+weight: 1180
 url: /net/aspose.cells/cells/isblankcolumn/
 ---
 ## Cells.IsBlankColumn method
@@ -18,7 +18,7 @@ public bool IsBlankColumn(int columnIndex)
 | --- | --- | --- |
 | columnIndex | Int32 | the column index |
 
-## Return Value
+### Return Value
 
 true if given column does not contain any data
 

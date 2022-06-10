@@ -1,7 +1,7 @@
 ---
 title: GetSmartMarkers
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Returns a collection of smart markers in a spreadsheet.
 type: docs
 weight: 100
 url: /net/aspose.cells/workbookdesigner/getsmartmarkers/
@@ -14,7 +14,7 @@ Returns a collection of smart markers in a spreadsheet.
 public string[] GetSmartMarkers()
 ```
 
-## Return Value
+### Return Value
 
 A collection of smart markers
 

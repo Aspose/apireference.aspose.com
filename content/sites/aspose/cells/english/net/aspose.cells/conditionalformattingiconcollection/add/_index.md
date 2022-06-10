@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds ConditionalFormattingIconaspose.cells/conditionalformattingicon object.
 type: docs
 weight: 20
 url: /net/aspose.cells/conditionalformattingiconcollection/add/
 ---
-## ConditionalFormattingIconCollection.Add method (1 of 2)
+## Add(IconSetType, int) {#add_1}
 
 Adds [`ConditionalFormattingIcon`](../../conditionalformattingicon) object.
 
@@ -19,7 +19,7 @@ public int Add(IconSetType type, int index)
 | type | IconSetType | The value type. |
 | index | Int32 | The Index. |
 
-## Return Value
+### Return Value
 
 Returns the index of new object in the list.
 
@@ -32,7 +32,7 @@ Returns the index of new object in the list.
 
 ---
 
-## ConditionalFormattingIconCollection.Add method (2 of 2)
+## Add(ConditionalFormattingIcon) {#add}
 
 Adds [`ConditionalFormattingIcon`](../../conditionalformattingicon) object.
 

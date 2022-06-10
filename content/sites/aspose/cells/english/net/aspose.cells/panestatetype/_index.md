@@ -1,9 +1,9 @@
 ---
 title: PaneStateType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents state of the sheets pane.
 type: docs
-weight: 4430
+weight: 4470
 url: /net/aspose.cells/panestatetype/
 ---
 ## PaneStateType enumeration
@@ -14,7 +14,7 @@ Represents state of the sheet's pane.
 public enum PaneStateType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

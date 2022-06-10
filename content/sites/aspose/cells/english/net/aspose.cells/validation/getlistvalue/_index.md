@@ -1,7 +1,7 @@
 ---
 title: GetListValue
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Get the value for list of the validation for the specified cell.
 type: docs
 weight: 220
 url: /net/aspose.cells/validation/getlistvalue/
@@ -19,7 +19,7 @@ public object GetListValue(int row, int column)
 | row | Int32 | The row index. |
 | column | Int32 | The column index. |
 
-## Return Value
+### Return Value
 
 The value to produce the list of this validation for the specified cell. If the list references to a range, then the returned value will be a [`ReferredArea`](../../referredarea) object; Otherwise the returned value may be null, object[], or simple object.
 

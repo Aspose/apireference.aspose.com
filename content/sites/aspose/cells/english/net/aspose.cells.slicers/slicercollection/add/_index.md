@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Add a new Slicer using PivotTable as data source
 type: docs
 weight: 20
 url: /net/aspose.cells.slicers/slicercollection/add/
 ---
-## SlicerCollection.Add method (1 of 9)
+## Add(PivotTable, string, string) {#add_5}
 
 Add a new Slicer using PivotTable as data source
 
@@ -20,7 +20,7 @@ public int Add(PivotTable pivot, string destCellName, string baseFieldName)
 | destCellName | String | The cell in the upper-left corner of the Slicer range. |
 | baseFieldName | String | The name of PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 
@@ -42,7 +42,7 @@ slicers.Add(pivot, "E3", "fruit");
 
 ---
 
-## SlicerCollection.Add method (2 of 9)
+## Add(PivotTable, int, int, string) {#add_2}
 
 Add a new Slicer using PivotTable as data source
 
@@ -57,7 +57,7 @@ public int Add(PivotTable pivot, int row, int column, string baseFieldName)
 | column | Int32 | Column index of the cell in the upper-left corner of the Slicer range. |
 | baseFieldName | String | The name of PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 
@@ -79,7 +79,7 @@ slicers.Add(pivot, 20, 12, "fruit");
 
 ---
 
-## SlicerCollection.Add method (3 of 9)
+## Add(PivotTable, int, int, int) {#add_1}
 
 Add a new Slicer using PivotTable as data source
 
@@ -94,7 +94,7 @@ public int Add(PivotTable pivot, int row, int column, int baseFieldIndex)
 | column | Int32 | Column index of the cell in the upper-left corner of the Slicer range. |
 | baseFieldIndex | Int32 | The index of PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 
@@ -116,7 +116,7 @@ slicers.Add(pivot, 20, 8, 0);
 
 ---
 
-## SlicerCollection.Add method (4 of 9)
+## Add(PivotTable, string, int) {#add_4}
 
 Add a new Slicer using PivotTable as data source
 
@@ -130,7 +130,7 @@ public int Add(PivotTable pivot, string destCellName, int baseFieldIndex)
 | destCellName | String | The cell in the upper-left corner of the Slicer range. |
 | baseFieldIndex | Int32 | The index of PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 
@@ -152,7 +152,7 @@ slicers.Add(pivot, "E20", 0);
 
 ---
 
-## SlicerCollection.Add method (5 of 9)
+## Add(PivotTable, int, int, PivotField) {#add}
 
 Add a new Slicer using PivotTable as data source
 
@@ -167,7 +167,7 @@ public int Add(PivotTable pivot, int row, int column, PivotField baseField)
 | column | Int32 | Column index of the cell in the upper-left corner of the Slicer range. |
 | baseField | PivotField | The PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 
@@ -190,7 +190,7 @@ slicers.Add(pivot, 3, 12, pivot.BaseFields[0]);
 
 ---
 
-## SlicerCollection.Add method (6 of 9)
+## Add(PivotTable, string, PivotField) {#add_3}
 
 Add a new Slicer using PivotTable as data source
 
@@ -204,7 +204,7 @@ public int Add(PivotTable pivot, string destCellName, PivotField baseField)
 | destCellName | String | The cell in the upper-left corner of the Slicer range. |
 | baseField | PivotField | The PivotField in PivotTable.BaseFields |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 
@@ -227,7 +227,7 @@ slicers.Add(pivot, "I3", pivot.BaseFields[0]);
 
 ---
 
-## SlicerCollection.Add method (7 of 9)
+## Add(ListObject, int, string) {#add_8}
 
 Add a new Slicer using ListObjet as data source
 
@@ -241,7 +241,7 @@ public int Add(ListObject table, int index, string destCellName)
 | index | Int32 | The index of ListColumn in ListObject.ListColumns |
 | destCellName | String | The cell in the upper-left corner of the Slicer range. |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 
@@ -263,7 +263,7 @@ slicers.Add(table, 1, "E38");
 
 ---
 
-## SlicerCollection.Add method (8 of 9)
+## Add(ListObject, ListColumn, string) {#add_7}
 
 Add a new Slicer using ListObjet as data source
 
@@ -277,7 +277,7 @@ public int Add(ListObject table, ListColumn listColumn, string destCellName)
 | listColumn | ListColumn | The ListColumn in ListObject.ListColumns |
 | destCellName | String | The cell in the upper-left corner of the Slicer range. |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 
@@ -300,7 +300,7 @@ slicers.Add(table, table.ListColumns[1], "I38");
 
 ---
 
-## SlicerCollection.Add method (9 of 9)
+## Add(ListObject, ListColumn, int, int) {#add_6}
 
 Add a new Slicer using ListObjet as data source
 
@@ -315,7 +315,7 @@ public int Add(ListObject table, ListColumn listColumn, int row, int column)
 | row | Int32 | Row index of the cell in the upper-left corner of the Slicer range. |
 | column | Int32 | Column index of the cell in the upper-left corner of the Slicer range. |
 
-## Return Value
+### Return Value
 
 The new add Slicer index
 

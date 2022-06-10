@@ -1,7 +1,7 @@
 ---
 title: IsSelected
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Indicates whether the item is selected.
 type: docs
 weight: 70
 url: /net/aspose.cells.drawing/listbox/isselected/
@@ -18,7 +18,7 @@ public bool IsSelected(int itemIndex)
 | --- | --- | --- |
 | itemIndex | Int32 | The item index. |
 
-## Return Value
+### Return Value
 
 whether the item is selected.
 

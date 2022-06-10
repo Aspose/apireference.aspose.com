@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a picture to the collection.
 type: docs
 weight: 20
 url: /net/aspose.cells.drawing/picturecollection/add/
 ---
-## PictureCollection.Add method (1 of 6)
+## Add(int, int, int, int, Stream) {#add}
 
 Adds a picture to the collection.
 
@@ -23,7 +23,7 @@ public int Add(int upperLeftRow, int upperLeftColumn, int lowerRightRow, int low
 | lowerRightColumn | Int32 | Lower right column index |
 | stream | Stream | Stream object which contains the image data. |
 
-## Return Value
+### Return Value
 
 [`Picture`](../../picture) object index.
 
@@ -47,7 +47,7 @@ using (FileStream fs = new FileStream("image.jpg", FileMode.Open))
 
 ---
 
-## PictureCollection.Add method (2 of 6)
+## Add(int, int, int, int, string) {#add_1}
 
 Adds a picture to the collection.
 
@@ -64,7 +64,7 @@ public int Add(int upperLeftRow, int upperLeftColumn, int lowerRightRow, int low
 | lowerRightColumn | Int32 | Lower right column index |
 | fileName | String | Image filename. |
 
-## Return Value
+### Return Value
 
 [`Picture`](../../picture) object index.
 
@@ -85,7 +85,7 @@ pictures.Add(1, 1, 5, 5, "image.jpg");
 
 ---
 
-## PictureCollection.Add method (3 of 6)
+## Add(int, int, Stream) {#add_2}
 
 Adds a picture to the collection.
 
@@ -99,7 +99,7 @@ public int Add(int upperLeftRow, int upperLeftColumn, Stream stream)
 | upperLeftColumn | Int32 | Upper left column index. |
 | stream | Stream | Stream object which contains the image data. |
 
-## Return Value
+### Return Value
 
 [`Picture`](../../picture) object index.
 
@@ -123,7 +123,7 @@ using (FileStream fs = new FileStream("image.jpg", FileMode.Open))
 
 ---
 
-## PictureCollection.Add method (4 of 6)
+## Add(int, int, string) {#add_4}
 
 Adds a picture to the collection.
 
@@ -137,7 +137,7 @@ public int Add(int upperLeftRow, int upperLeftColumn, string fileName)
 | upperLeftColumn | Int32 | Upper left column index. |
 | fileName | String | Image filename. |
 
-## Return Value
+### Return Value
 
 [`Picture`](../../picture) object index.
 
@@ -158,7 +158,7 @@ pictures.Add(1, 1, "image.jpg");
 
 ---
 
-## PictureCollection.Add method (5 of 6)
+## Add(int, int, Stream, int, int) {#add_3}
 
 Adds a picture to the collection.
 
@@ -175,7 +175,7 @@ public int Add(int upperLeftRow, int upperLeftColumn, Stream stream, int widthSc
 | widthScale | Int32 | Scale of image width, a percentage. |
 | heightScale | Int32 | Scale of image height, a percentage. |
 
-## Return Value
+### Return Value
 
 [`Picture`](../../picture) object index.
 
@@ -199,7 +199,7 @@ using (FileStream fs = new FileStream("image.jpg", FileMode.Open))
 
 ---
 
-## PictureCollection.Add method (6 of 6)
+## Add(int, int, string, int, int) {#add_5}
 
 Adds a picture to the collection.
 
@@ -216,7 +216,7 @@ public int Add(int upperLeftRow, int upperLeftColumn, string fileName, int width
 | widthScale | Int32 | Scale of image width, a percentage. |
 | heightScale | Int32 | Scale of image height, a percentage. |
 
-## Return Value
+### Return Value
 
 [`Picture`](../../picture) object index.
 

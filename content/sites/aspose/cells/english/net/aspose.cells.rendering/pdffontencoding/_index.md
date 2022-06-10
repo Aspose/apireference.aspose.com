@@ -1,9 +1,9 @@
 ---
 title: PdfFontEncoding
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents pdf embedded font encoding.
 type: docs
-weight: 5210
+weight: 5250
 url: /net/aspose.cells.rendering/pdffontencoding/
 ---
 ## PdfFontEncoding enumeration
@@ -14,7 +14,7 @@ Represents pdf embedded font encoding.
 public enum PdfFontEncoding
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

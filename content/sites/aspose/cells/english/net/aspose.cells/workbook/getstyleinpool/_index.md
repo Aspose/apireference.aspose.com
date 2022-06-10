@@ -1,9 +1,9 @@
 ---
 title: GetStyleInPool
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the style in the style pool. All styles in the workbook will be gathered into a pool. There is only a simple reference index in the cells.
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.cells/workbook/getstyleinpool/
 ---
 ## Workbook.GetStyleInPool method
@@ -18,7 +18,7 @@ public Style GetStyleInPool(int index)
 | --- | --- | --- |
 | index | Int32 | The index. |
 
-## Return Value
+### Return Value
 
 The style in the pool corresponds to given index, may be null.
 

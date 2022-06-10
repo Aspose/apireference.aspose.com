@@ -1,7 +1,7 @@
 ---
 title: AddButton
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a Button to the worksheet.
 type: docs
 weight: 60
 url: /net/aspose.cells.drawing/shapecollection/addbutton/
@@ -24,7 +24,7 @@ public Button AddButton(int upperLeftRow, int top, int upperLeftColumn, int left
 | height | Int32 | Represents the height of Button, in unit of pixel. |
 | width | Int32 | Represents the width of Button, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A Button object.
 

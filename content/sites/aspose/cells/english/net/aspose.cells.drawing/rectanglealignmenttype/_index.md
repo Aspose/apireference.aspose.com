@@ -1,9 +1,9 @@
 ---
 title: RectangleAlignmentType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents how to position two rectangles relative to each other.
 type: docs
-weight: 2550
+weight: 2570
 url: /net/aspose.cells.drawing/rectanglealignmenttype/
 ---
 ## RectangleAlignmentType enumeration
@@ -14,7 +14,7 @@ Represents how to position two rectangles relative to each other.
 public enum RectangleAlignmentType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

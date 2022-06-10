@@ -1,9 +1,9 @@
 ---
 title: BubbleSizeRepresents
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents what the bubble size represents on a bubble chart.
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.cells.charts/bubblesizerepresents/
 ---
 ## BubbleSizeRepresents enumeration
@@ -14,7 +14,7 @@ Represents what the bubble size represents on a bubble chart.
 public enum BubbleSizeRepresents
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

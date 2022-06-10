@@ -1,7 +1,7 @@
 ---
 title: StartSheet
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Starts to process a worksheet.
 type: docs
 weight: 50
 url: /net/aspose.cells/lightcellsdatahandler/startsheet/
@@ -18,7 +18,7 @@ public bool StartSheet(Worksheet sheet)
 | --- | --- | --- |
 | sheet | Worksheet | the worksheet to read cells data. |
 
-## Return Value
+### Return Value
 
 whether this sheet's cells data needs to be processed. false to ignore this sheet.
 

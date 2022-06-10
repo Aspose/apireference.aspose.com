@@ -1,12 +1,12 @@
 ---
 title: ExportDataTable
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Exports data in this range to a DataTable object.
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.cells/range/exportdatatable/
 ---
-## Range.ExportDataTable method (1 of 2)
+## ExportDataTable() {#exportdatatable}
 
 Exports data in this range to a DataTable object.
 
@@ -14,7 +14,7 @@ Exports data in this range to a DataTable object.
 public DataTable ExportDataTable()
 ```
 
-## Return Value
+### Return Value
 
 Exported DataTable object.
 
@@ -26,7 +26,7 @@ Exported DataTable object.
 
 ---
 
-## Range.ExportDataTable method (2 of 2)
+## ExportDataTable(ExportTableOptions) {#exportdatatable_1}
 
 Exports data in this range to a DataTable object.
 
@@ -38,7 +38,7 @@ public DataTable ExportDataTable(ExportTableOptions options)
 | --- | --- | --- |
 | options | ExportTableOptions | The options of exporting range to datatable. |
 
-## Return Value
+### Return Value
 
 Exported DataTable object.
 

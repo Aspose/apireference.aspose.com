@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets ScenarioInputCellaspose.cells/scenarioinputcell by index in the list.
 type: docs
 weight: 10
 url: /net/aspose.cells/scenarioinputcellcollection/item/
@@ -18,7 +18,7 @@ public ScenarioInputCell this[int index] { get; }
 | --- | --- |
 | index | The specific index in the list |
 
-## Return Value
+### Return Value
 
 The [`ScenarioInputCell`](../../scenarioinputcell) object
 

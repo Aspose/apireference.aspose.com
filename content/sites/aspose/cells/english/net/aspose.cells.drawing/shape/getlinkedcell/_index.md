@@ -1,9 +1,9 @@
 ---
 title: GetLinkedCell
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the range linked to the controls value.
 type: docs
-weight: 1040
+weight: 1100
 url: /net/aspose.cells.drawing/shape/getlinkedcell/
 ---
 ## Shape.GetLinkedCell method
@@ -19,7 +19,7 @@ public string GetLinkedCell(bool isR1C1, bool isLocal)
 | isR1C1 | Boolean | Whether the formula needs to be formatted as R1C1. |
 | isLocal | Boolean | Whether the formula needs to be formatted by locale. |
 
-## Return Value
+### Return Value
 
 The range linked to the control's value.
 

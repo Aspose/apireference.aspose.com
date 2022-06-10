@@ -1,9 +1,9 @@
 ---
 title: CreateCellsColor
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Creates a CellsColoraspose.cells/cellscolor object.
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.cells/workbook/createcellscolor/
 ---
 ## Workbook.CreateCellsColor method
@@ -14,7 +14,7 @@ Creates a [`CellsColor`](../../cellscolor) object.
 public CellsColor CreateCellsColor()
 ```
 
-## Return Value
+### Return Value
 
 Returns a [`CellsColor`](../../cellscolor) object.
 

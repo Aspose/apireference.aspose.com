@@ -1,9 +1,9 @@
 ---
 title: GetStandardFunctionName
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the standard function name according to given locale dependent function name.
 type: docs
-weight: 220
+weight: 240
 url: /net/aspose.cells/globalizationsettings/getstandardfunctionname/
 ---
 ## GlobalizationSettings.GetStandardFunctionName method
@@ -18,7 +18,7 @@ public virtual string GetStandardFunctionName(string localName)
 | --- | --- | --- |
 | localName | String | Locale dependent function name. The locale was specified by the Workbook for which this settings is used. |
 
-## Return Value
+### Return Value
 
 Standard(en-US locale) function name.
 

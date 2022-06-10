@@ -1,9 +1,9 @@
 ---
 title: ParameterType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents all parameters type or return value type of function.
 type: docs
-weight: 4450
+weight: 4490
 url: /net/aspose.cells/parametertype/
 ---
 ## ParameterType enumeration
@@ -14,7 +14,7 @@ Represents all parameters' type or return value type of function.
 public enum ParameterType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

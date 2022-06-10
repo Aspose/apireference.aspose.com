@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds an element.
 type: docs
 weight: 20
 url: /net/aspose.cells.tables/tablestyleelementcollection/add/
@@ -18,7 +18,7 @@ public int Add(TableStyleElementType type)
 | --- | --- | --- |
 | type | TableStyleElementType | The type of the element |
 
-## Return Value
+### Return Value
 
 Returns the index of the element in the list.
 

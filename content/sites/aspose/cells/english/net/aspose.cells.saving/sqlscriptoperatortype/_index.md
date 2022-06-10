@@ -1,9 +1,9 @@
 ---
 title: SqlScriptOperatorType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the type of operating data.
 type: docs
-weight: 5540
+weight: 5580
 url: /net/aspose.cells.saving/sqlscriptoperatortype/
 ---
 ## SqlScriptOperatorType enumeration
@@ -14,7 +14,7 @@ Represents the type of operating data.
 public enum SqlScriptOperatorType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

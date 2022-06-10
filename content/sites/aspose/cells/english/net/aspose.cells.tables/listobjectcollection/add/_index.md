@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a ListObject to the worksheet.
 type: docs
 weight: 20
 url: /net/aspose.cells.tables/listobjectcollection/add/
 ---
-## ListObjectCollection.Add method (1 of 2)
+## Add(int, int, int, int, bool) {#add}
 
 Adds a ListObject to the worksheet.
 
@@ -22,7 +22,7 @@ public int Add(int startRow, int startColumn, int endRow, int endColumn, bool ha
 | endColumn | Int32 | The start row of the list range. |
 | hasHeaders | Boolean | Whether the range has headers. |
 
-## Return Value
+### Return Value
 
 The index of the new ListObject
 
@@ -34,7 +34,7 @@ The index of the new ListObject
 
 ---
 
-## ListObjectCollection.Add method (2 of 2)
+## Add(string, string, bool) {#add_1}
 
 Adds a ListObject to the worksheet.
 
@@ -48,7 +48,7 @@ public int Add(string startCell, string endCell, bool hasHeaders)
 | endCell | String | The end cell of the list range. |
 | hasHeaders | Boolean | Whether the range has headers. |
 
-## Return Value
+### Return Value
 
 The index of the new ListObject
 

@@ -1,7 +1,7 @@
 ---
 title: GetFontSubstitutes
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Returns array containing font substitute names to be used if original font is not presented.
 type: docs
 weight: 50
 url: /net/aspose.cells/fontconfigs/getfontsubstitutes/
@@ -18,7 +18,7 @@ public static string[] GetFontSubstitutes(string originalFontName)
 | --- | --- | --- |
 | originalFontName | String | originalFontName |
 
-## Return Value
+### Return Value
 
 An array containing font substitute names to be used if original font is not presented.
 

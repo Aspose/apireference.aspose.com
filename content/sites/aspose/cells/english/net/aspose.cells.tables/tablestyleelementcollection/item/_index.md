@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets an element of the table style by the index.
 type: docs
 weight: 10
 url: /net/aspose.cells.tables/tablestyleelementcollection/item/
@@ -18,7 +18,7 @@ public TableStyleElement this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 Returns [`TableStyleElement`](../../tablestyleelement) object
 
@@ -43,7 +43,7 @@ public TableStyleElement this[TableStyleElementType type] { get; }
 | --- | --- |
 | type | The element type. |
 
-## Return Value
+### Return Value
 
 Returns [`TableStyleElement`](../../tablestyleelement) object
 

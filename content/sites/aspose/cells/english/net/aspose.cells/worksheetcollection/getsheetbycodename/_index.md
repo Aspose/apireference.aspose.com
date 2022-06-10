@@ -1,7 +1,7 @@
 ---
 title: GetSheetByCodeName
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the worksheet by the code name.
 type: docs
 weight: 260
 url: /net/aspose.cells/worksheetcollection/getsheetbycodename/
@@ -18,7 +18,7 @@ public Worksheet GetSheetByCodeName(string codeName)
 | --- | --- | --- |
 | codeName | String | Worksheet code name. |
 
-## Return Value
+### Return Value
 
 The element with the specified code name.
 

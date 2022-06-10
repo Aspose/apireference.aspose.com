@@ -1,7 +1,7 @@
 ---
 title: GetCustomCalculatedFormula
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the formula of this list column.
 type: docs
 weight: 50
 url: /net/aspose.cells.tables/listcolumn/getcustomcalculatedformula/
@@ -19,7 +19,7 @@ public string GetCustomCalculatedFormula(bool isR1C1, bool isLocal)
 | isR1C1 | Boolean | Whether the formula needs to be formatted as R1C1. |
 | isLocal | Boolean | Whether the formula needs to be formatted by locale. |
 
-## Return Value
+### Return Value
 
 The formula of this list column.
 

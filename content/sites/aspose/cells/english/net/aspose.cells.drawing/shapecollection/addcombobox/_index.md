@@ -1,7 +1,7 @@
 ---
 title: AddComboBox
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a ComboBox to the worksheet.
 type: docs
 weight: 80
 url: /net/aspose.cells.drawing/shapecollection/addcombobox/
@@ -24,7 +24,7 @@ public ComboBox AddComboBox(int upperLeftRow, int top, int upperLeftColumn, int 
 | height | Int32 | Represents the height of ComboBox, in unit of pixel. |
 | width | Int32 | Represents the width of ComboBox, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A ComboBox object.
 

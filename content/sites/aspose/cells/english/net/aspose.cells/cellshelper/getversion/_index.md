@@ -1,9 +1,9 @@
 ---
 title: GetVersion
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Get the release version.
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.cells/cellshelper/getversion/
 ---
 ## CellsHelper.GetVersion method
@@ -14,7 +14,7 @@ Get the release version.
 public static string GetVersion()
 ```
 
-## Return Value
+### Return Value
 
 The release version.
 

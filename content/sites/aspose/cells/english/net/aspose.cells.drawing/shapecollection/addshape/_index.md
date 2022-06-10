@@ -1,7 +1,7 @@
 ---
 title: AddShape
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a Shape to the worksheet.
 type: docs
 weight: 260
 url: /net/aspose.cells.drawing/shapecollection/addshape/
@@ -25,7 +25,7 @@ public Shape AddShape(MsoDrawingType type, int upperLeftRow, int top, int upperL
 | height | Int32 | Represents the height of Shape, in unit of pixel. |
 | width | Int32 | Represents the width of Shape, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A Shape object.
 

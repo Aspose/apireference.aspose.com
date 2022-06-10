@@ -1,9 +1,9 @@
 ---
 title: ShapePathType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents path segment type.
 type: docs
-weight: 2720
+weight: 2750
 url: /net/aspose.cells.drawing/shapepathtype/
 ---
 ## ShapePathType enumeration
@@ -14,7 +14,7 @@ Represents path segment type.
 public enum ShapePathType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

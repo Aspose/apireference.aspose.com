@@ -1,9 +1,9 @@
 ---
 title: DisplayUnitType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the type of display unit.
 type: docs
-weight: 600
+weight: 620
 url: /net/aspose.cells.charts/displayunittype/
 ---
 ## DisplayUnitType enumeration
@@ -14,7 +14,7 @@ Represents the type of display unit.
 public enum DisplayUnitType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

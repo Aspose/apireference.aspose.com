@@ -1,7 +1,7 @@
 ---
 title: GetCollationKey
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Transforms the string into a comparable object according to certain collation rules.
 type: docs
 weight: 20
 url: /net/aspose.cells/abstractglobalizationsettings/getcollationkey/
@@ -19,7 +19,7 @@ public virtual IComparable GetCollationKey(string v, bool ignoreCase)
 | v | String | String value needs to be compared with others. |
 | ignoreCase | Boolean | whether ignore case when comparing values |
 
-## Return Value
+### Return Value
 
 Object can be used to compare or sort string values
 

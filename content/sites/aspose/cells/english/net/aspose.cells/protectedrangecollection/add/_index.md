@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a ProtectedRangeaspose.cells/protectedrange item to the collection.
 type: docs
 weight: 20
 url: /net/aspose.cells/protectedrangecollection/add/
@@ -22,7 +22,7 @@ public int Add(string name, int startRow, int startColumn, int endRow, int endCo
 | endRow | Int32 | End row index of the range. |
 | endColumn | Int32 | End column index of the range. |
 
-## Return Value
+### Return Value
 
 object index.
 

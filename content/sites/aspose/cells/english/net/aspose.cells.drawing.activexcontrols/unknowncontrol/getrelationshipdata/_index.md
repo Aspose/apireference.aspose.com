@@ -1,7 +1,7 @@
 ---
 title: GetRelationshipData
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the related data.
 type: docs
 weight: 40
 url: /net/aspose.cells.drawing.activexcontrols/unknowncontrol/getrelationshipdata/
@@ -18,7 +18,7 @@ public byte[] GetRelationshipData(string relId)
 | --- | --- | --- |
 | relId | String | The relationship id. |
 
-## Return Value
+### Return Value
 
 Returns the related data.
 

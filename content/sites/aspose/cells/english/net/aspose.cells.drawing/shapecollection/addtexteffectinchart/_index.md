@@ -1,7 +1,7 @@
 ---
 title: AddTextEffectInChart
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Inserts a WordArt object to the chart
 type: docs
 weight: 340
 url: /net/aspose.cells.drawing/shapecollection/addtexteffectinchart/
@@ -28,7 +28,7 @@ public Shape AddTextEffectInChart(MsoPresetTextEffect effect, string text, strin
 | height | Int32 | Represents the height of shape, in units of 1/4000 of the chart area. |
 | width | Int32 | Represents the width of shape, in units of 1/4000 of the chart area. |
 
-## Return Value
+### Return Value
 
 Returns a Shape object that represents the new WordArt object.
 

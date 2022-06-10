@@ -1,12 +1,12 @@
 ---
 title: ExportDataTable
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Exports data in the Cellsaspose.cells/cells collection to a DataTable object.
 type: docs
 weight: 610
 url: /net/aspose.cells/cells/exportdatatable/
 ---
-## Cells.ExportDataTable method (1 of 3)
+## ExportDataTable(int, int, int, int) {#exportdatatable}
 
 Exports data in the [`Cells`](../../cells) collection to a DataTable object.
 
@@ -21,7 +21,7 @@ public DataTable ExportDataTable(int firstRow, int firstColumn, int totalRows, i
 | totalRows | Int32 | Number of rows to be imported. |
 | totalColumns | Int32 | Number of columns to be imported. |
 
-## Return Value
+### Return Value
 
 Exported DataTable object.
 
@@ -57,7 +57,7 @@ Dim dt As DataTable = sheet.Cells.ExportDataTable(6, 1, 69, 4)
 
 ---
 
-## Cells.ExportDataTable method (2 of 3)
+## ExportDataTable(int, int, int, int, bool) {#exportdatatable_2}
 
 Exports data in the [`Cells`](../../cells) collection to a DataTable object.
 
@@ -74,7 +74,7 @@ public DataTable ExportDataTable(int firstRow, int firstColumn, int totalRows, i
 | totalColumns | Int32 | Number of columns to be imported. |
 | exportColumnName | Boolean | Indicates whether the data in the first row are exported to the column name of the DataTable. |
 
-## Return Value
+### Return Value
 
 Exported DataTable object.
 
@@ -86,7 +86,7 @@ Exported DataTable object.
 
 ---
 
-## Cells.ExportDataTable method (3 of 3)
+## ExportDataTable(int, int, int, int, ExportTableOptions) {#exportdatatable_1}
 
 Exports data in the [`Cells`](../../cells) collection to a DataTable object.
 
@@ -103,7 +103,7 @@ public DataTable ExportDataTable(int firstRow, int firstColumn, int totalRows, i
 | totalColumns | Int32 | Number of columns to be imported. |
 | options | ExportTableOptions | All export table options |
 
-## Return Value
+### Return Value
 
 Exported DataTable object.
 

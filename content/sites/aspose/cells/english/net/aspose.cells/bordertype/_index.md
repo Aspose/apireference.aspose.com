@@ -1,7 +1,7 @@
 ---
 title: BorderType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Enumerates the border line and diagonal line types.
 type: docs
 weight: 160
 url: /net/aspose.cells/bordertype/
@@ -15,7 +15,7 @@ Enumerates the border line and diagonal line types.
 public enum BorderType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

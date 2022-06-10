@@ -1,12 +1,12 @@
 ---
 title: GetFormula2
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the value or expression associated with this format condition.
 type: docs
 weight: 160
 url: /net/aspose.cells/formatcondition/getformula2/
 ---
-## FormatCondition.GetFormula2 method (1 of 3)
+## GetFormula2(bool, bool) {#getformula2}
 
 Gets the value or expression associated with this format condition.
 
@@ -19,7 +19,7 @@ public string GetFormula2(bool isR1C1, bool isLocal)
 | isR1C1 | Boolean | Whether the formula needs to be formatted as R1C1. |
 | isLocal | Boolean | Whether the formula needs to be formatted by locale. |
 
-## Return Value
+### Return Value
 
 The value or expression associated with this format condition.
 
@@ -31,7 +31,7 @@ The value or expression associated with this format condition.
 
 ---
 
-## FormatCondition.GetFormula2 method (2 of 3)
+## GetFormula2(bool, bool, int, int) {#getformula2_1}
 
 Gets the value or expression of the conditional formatting of the cell.
 
@@ -46,7 +46,7 @@ public string GetFormula2(bool isR1C1, bool isLocal, int row, int column)
 | row | Int32 | The row index. |
 | column | Int32 | The column index. |
 
-## Return Value
+### Return Value
 
 The value or expression associated with the conditional formatting of the cell.
 
@@ -62,7 +62,7 @@ The given cell must be contained by this conditional formatting, otherwise null 
 
 ---
 
-## FormatCondition.GetFormula2 method (3 of 3)
+## GetFormula2(int, int) {#getformula2_2}
 
 Gets the formula of the conditional formatting of the cell.
 
@@ -75,7 +75,7 @@ public string GetFormula2(int row, int column)
 | row | Int32 | The row index. |
 | column | Int32 | The column index. |
 
-## Return Value
+### Return Value
 
 The formula.
 

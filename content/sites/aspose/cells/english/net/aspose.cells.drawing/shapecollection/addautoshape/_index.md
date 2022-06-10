@@ -1,7 +1,7 @@
 ---
 title: AddAutoShape
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a AutoShape to the worksheet.
 type: docs
 weight: 40
 url: /net/aspose.cells.drawing/shapecollection/addautoshape/
@@ -25,7 +25,7 @@ public Shape AddAutoShape(AutoShapeType type, int upperLeftRow, int top, int upp
 | height | Int32 | Represents the height of Shape, in unit of pixel. |
 | width | Int32 | Represents the width of Shape, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A Shape object.
 

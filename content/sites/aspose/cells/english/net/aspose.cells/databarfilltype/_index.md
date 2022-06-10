@@ -1,9 +1,9 @@
 ---
 title: DataBarFillType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Specifies how a data bar is filled with color.
 type: docs
-weight: 1270
+weight: 1290
 url: /net/aspose.cells/databarfilltype/
 ---
 ## DataBarFillType enumeration
@@ -14,7 +14,7 @@ Specifies how a data bar is filled with color.
 public enum DataBarFillType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

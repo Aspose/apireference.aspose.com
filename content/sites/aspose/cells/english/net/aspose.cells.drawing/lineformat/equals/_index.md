@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Determines whether this instance has the same value as another specified LineFormataspose.cells.drawing/lineformat object.
 type: docs
 weight: 120
 url: /net/aspose.cells.drawing/lineformat/equals/
@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | The [`LineFormat`](../../lineformat) object to compare with this instance. |
 
-## Return Value
+### Return Value
 
 true if the value of the obj parameter is the same as the value of this instance; otherwise, false. If obj is null, this method returns false.
 

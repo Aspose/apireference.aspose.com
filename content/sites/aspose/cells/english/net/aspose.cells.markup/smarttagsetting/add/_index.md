@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a SmartTagCollectionaspose.cells.markup/smarttagcollection object to a cell.
 type: docs
 weight: 20
 url: /net/aspose.cells.markup/smarttagsetting/add/
 ---
-## SmartTagSetting.Add method (1 of 2)
+## Add(int, int) {#add}
 
 Adds a [`SmartTagCollection`](../../smarttagcollection) object to a cell.
 
@@ -19,7 +19,7 @@ public int Add(int row, int column)
 | row | Int32 | The row of the cell. |
 | column | Int32 | The column of the cell. |
 
-## Return Value
+### Return Value
 
 Returns index of a [`SmartTagCollection`](../../smarttagcollection) object in the worksheet.
 
@@ -31,7 +31,7 @@ Returns index of a [`SmartTagCollection`](../../smarttagcollection) object in th
 
 ---
 
-## SmartTagSetting.Add method (2 of 2)
+## Add(string) {#add_1}
 
 Add a cell smart tags.
 

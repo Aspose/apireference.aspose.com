@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the ListColumn by the index.
 type: docs
 weight: 10
 url: /net/aspose.cells.tables/listcolumncollection/item/
@@ -18,7 +18,7 @@ public ListColumn this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 the ListColumn object.
 
@@ -43,7 +43,7 @@ public ListColumn this[string name] { get; }
 | --- | --- |
 | name | The name of the ListColumn |
 
-## Return Value
+### Return Value
 
 The ListColumn object.
 

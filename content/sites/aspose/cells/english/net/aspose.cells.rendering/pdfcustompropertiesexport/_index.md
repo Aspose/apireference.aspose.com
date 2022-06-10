@@ -1,9 +1,9 @@
 ---
 title: PdfCustomPropertiesExport
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Specifies the way CustomDocumentPropertyCollection../aspose.cells.properties/customdocumentpropertycollection are exported to PDF file.
 type: docs
-weight: 5200
+weight: 5240
 url: /net/aspose.cells.rendering/pdfcustompropertiesexport/
 ---
 ## PdfCustomPropertiesExport enumeration
@@ -14,7 +14,7 @@ Specifies the way [`CustomDocumentPropertyCollection`](../../aspose.cells.proper
 public enum PdfCustomPropertiesExport
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

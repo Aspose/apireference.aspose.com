@@ -1,9 +1,9 @@
 ---
 title: GetInputRange
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the range used to fill the control.
 type: docs
-weight: 1030
+weight: 1090
 url: /net/aspose.cells.drawing/shape/getinputrange/
 ---
 ## Shape.GetInputRange method
@@ -19,7 +19,7 @@ public string GetInputRange(bool isR1C1, bool isLocal)
 | isR1C1 | Boolean | Whether the formula needs to be formatted as R1C1. |
 | isLocal | Boolean | Whether the formula needs to be formatted by locale. |
 
-## Return Value
+### Return Value
 
 The range used to fill the control.
 

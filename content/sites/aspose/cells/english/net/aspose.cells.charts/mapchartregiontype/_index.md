@@ -1,9 +1,9 @@
 ---
 title: MapChartRegionType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the region type of the map chart.
 type: docs
-weight: 740
+weight: 760
 url: /net/aspose.cells.charts/mapchartregiontype/
 ---
 ## MapChartRegionType enumeration
@@ -14,7 +14,7 @@ Represents the region type of the map chart.
 public enum MapChartRegionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

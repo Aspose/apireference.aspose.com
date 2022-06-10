@@ -1,9 +1,9 @@
 ---
 title: GetMultipleItemsName
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the name of Multiple Items label in the PivotTable.
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cells/globalizationsettings/getmultipleitemsname/
 ---
 ## GlobalizationSettings.GetMultipleItemsName method
@@ -14,7 +14,7 @@ Gets the name of "(Multiple Items)" label in the PivotTable.
 public virtual string GetMultipleItemsName()
 ```
 
-## Return Value
+### Return Value
 
 The name of "(Multiple Items)" label
 

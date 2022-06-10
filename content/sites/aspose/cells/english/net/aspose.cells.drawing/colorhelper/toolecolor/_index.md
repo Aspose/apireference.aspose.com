@@ -1,7 +1,7 @@
 ---
 title: ToOleColor
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Convert color to OLE_COLOR
 type: docs
 weight: 20
 url: /net/aspose.cells.drawing/colorhelper/toolecolor/
@@ -19,7 +19,7 @@ public static int ToOleColor(Color color, Workbook workbook)
 | color | Color | The Color object. |
 | workbook | Workbook |  |
 
-## Return Value
+### Return Value
 
 The value of OLE_COLOR
 

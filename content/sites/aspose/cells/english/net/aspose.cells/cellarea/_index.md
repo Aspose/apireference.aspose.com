@@ -1,7 +1,7 @@
 ---
 title: CellArea
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represent an area of cells.
 type: docs
 weight: 240
 url: /net/aspose.cells/cellarea/
@@ -18,19 +18,19 @@ public struct CellArea : IComparable
 
 | Name | Description |
 | --- | --- |
-| static [CreateCellArea](../../aspose.cells/cellarea/createcellarea)(string, string) | Creates a cell area. |
-| static [CreateCellArea](../../aspose.cells/cellarea/createcellarea)(int, int, int, int) | Creates a cell area. |
+| static [CreateCellArea](../../aspose.cells/cellarea/createcellarea#createcellarea_1)(string, string) | Creates a cell area. |
+| static [CreateCellArea](../../aspose.cells/cellarea/createcellarea#createcellarea)(int, int, int, int) | Creates a cell area. |
 | [CompareTo](../../aspose.cells/cellarea/compareto)(object) | Internal use only. |
 | override [ToString](../../aspose.cells/cellarea/tostring)() | Returns a string represents the current Worksheet object. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| [EndColumn](endcolumn) | Gets or set the end column of this area. |
-| [EndRow](endrow) | Gets or set the end row of this area. |
-| [StartColumn](startcolumn) | Gets or set the start column of this area. |
-| [StartRow](startrow) | Gets or set the start row of this area. |
+| [EndColumn](../../aspose.cells/cellarea/endcolumn) | Gets or set the end column of this area. |
+| [EndRow](../../aspose.cells/cellarea/endrow) | Gets or set the end row of this area. |
+| [StartColumn](../../aspose.cells/cellarea/startcolumn) | Gets or set the start column of this area. |
+| [StartRow](../../aspose.cells/cellarea/startrow) | Gets or set the start row of this area. |
 
 ### Examples
 

@@ -1,7 +1,7 @@
 ---
 title: AddLinkToContent
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Creates a new custom document property which links to content.
 type: docs
 weight: 20
 url: /net/aspose.cells.properties/customdocumentpropertycollection/addlinktocontent/
@@ -19,7 +19,7 @@ public DocumentProperty AddLinkToContent(string name, string source)
 | name | String | The name of the property. |
 | source | String | The source of the property |
 
-## Return Value
+### Return Value
 
 The newly created property object.
 

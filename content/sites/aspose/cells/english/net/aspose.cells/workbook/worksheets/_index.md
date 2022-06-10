@@ -1,9 +1,9 @@
 ---
 title: Worksheets
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the WorksheetCollectionaspose.cells/worksheetcollection collection in the spreadsheet.
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.cells/workbook/worksheets/
 ---
 ## Workbook.Worksheets property
@@ -14,7 +14,7 @@ Gets the [`WorksheetCollection`](../../worksheetcollection) collection in the sp
 public WorksheetCollection Worksheets { get; }
 ```
 
-## Return Value
+### Return Value
 
 [`WorksheetCollection`](../../worksheetcollection) collection
 

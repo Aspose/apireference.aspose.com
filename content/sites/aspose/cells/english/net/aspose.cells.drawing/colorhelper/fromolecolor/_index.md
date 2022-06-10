@@ -1,7 +1,7 @@
 ---
 title: FromOleColor
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Convert OLE_COLOR.
 type: docs
 weight: 10
 url: /net/aspose.cells.drawing/colorhelper/fromolecolor/
@@ -18,7 +18,7 @@ public static Color FromOleColor(int oleColor)
 | --- | --- | --- |
 | oleColor | Int32 | The value of OLE_COLOR. |
 
-## Return Value
+### Return Value
 
 The Color object.
 

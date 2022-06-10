@@ -1,7 +1,7 @@
 ---
 title: GetCommands
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets all commands of header or footer.
 type: docs
 weight: 470
 url: /net/aspose.cells/pagesetup/getcommands/
@@ -18,7 +18,7 @@ public HeaderFooterCommand[] GetCommands(string headerFooterScript)
 | --- | --- | --- |
 | headerFooterScript | String | The header/footer script |
 
-## Return Value
+### Return Value
 
 Returns all commands of header or footer.
 

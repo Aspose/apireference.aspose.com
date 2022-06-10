@@ -1,7 +1,7 @@
 ---
 title: CheckColumn
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the Columnaspose.cells/column element or null at the specified column index.
 type: docs
 weight: 370
 url: /net/aspose.cells/cells/checkcolumn/
@@ -18,7 +18,7 @@ public Column CheckColumn(int columnIndex)
 | --- | --- | --- |
 | columnIndex | Int32 | The column index. |
 
-## Return Value
+### Return Value
 
 The Column object.
 

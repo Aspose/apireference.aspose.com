@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a worksheet to the collection.
 type: docs
 weight: 170
 url: /net/aspose.cells/worksheetcollection/add/
 ---
-## WorksheetCollection.Add method (1 of 3)
+## Add(SheetType) {#add_2}
 
 Adds a worksheet to the collection.
 
@@ -18,7 +18,7 @@ public int Add(SheetType type)
 | --- | --- | --- |
 | type | SheetType | Worksheet type. |
 
-## Return Value
+### Return Value
 
 [`Worksheet`](../../worksheet) object index.
 
@@ -63,7 +63,7 @@ chart.NSeries.Add("Sheet1!C2:C6", True)
 
 ---
 
-## WorksheetCollection.Add method (2 of 3)
+## Add() {#add_1}
 
 Adds a worksheet to the collection.
 
@@ -71,7 +71,7 @@ Adds a worksheet to the collection.
 public int Add()
 ```
 
-## Return Value
+### Return Value
 
 [`Worksheet`](../../worksheet) object index.
 
@@ -83,7 +83,7 @@ public int Add()
 
 ---
 
-## WorksheetCollection.Add method (3 of 3)
+## Add(string) {#add}
 
 Adds a worksheet to the collection.
 
@@ -95,7 +95,7 @@ public Worksheet Add(string sheetName)
 | --- | --- | --- |
 | sheetName | String | Worksheet name |
 
-## Return Value
+### Return Value
 
 [`Worksheet`](../../worksheet) object.
 

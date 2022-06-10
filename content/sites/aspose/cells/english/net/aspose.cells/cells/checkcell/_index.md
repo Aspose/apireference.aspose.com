@@ -1,7 +1,7 @@
 ---
 title: CheckCell
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the Cellaspose.cells/cell element or null at the specified cell row index and column index.
 type: docs
 weight: 360
 url: /net/aspose.cells/cells/checkcell/
@@ -19,7 +19,7 @@ public Cell CheckCell(int row, int column)
 | row | Int32 | Row index |
 | column | Int32 | Column index |
 
-## Return Value
+### Return Value
 
 Return Cell object if a Cell object exists. Return null if the cell does not exist.
 

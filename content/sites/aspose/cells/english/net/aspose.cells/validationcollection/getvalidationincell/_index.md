@@ -1,7 +1,7 @@
 ---
 title: GetValidationInCell
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the validation applied to given cell.
 type: docs
 weight: 30
 url: /net/aspose.cells/validationcollection/getvalidationincell/
@@ -19,7 +19,7 @@ public Validation GetValidationInCell(int row, int column)
 | row | Int32 | The row index. |
 | column | Int32 | The column index. |
 
-## Return Value
+### Return Value
 
 Returns a [`Validation`](../../validation) object or null if there is no validation for given cell
 

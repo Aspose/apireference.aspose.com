@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the Worksheetaspose.cells/worksheet element at the specified index.
 type: docs
 weight: 80
 url: /net/aspose.cells/worksheetcollection/item/
@@ -18,7 +18,7 @@ public Worksheet this[int index] { get; }
 | --- | --- |
 | index | The zero based index of the element. |
 
-## Return Value
+### Return Value
 
 The element at the specified index.
 
@@ -43,7 +43,7 @@ public Worksheet this[string sheetName] { get; }
 | --- | --- |
 | sheetName | Worksheet name |
 
-## Return Value
+### Return Value
 
 The element with the specified name.
 

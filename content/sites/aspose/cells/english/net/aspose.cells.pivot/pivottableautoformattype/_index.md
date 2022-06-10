@@ -1,9 +1,9 @@
 ---
 title: PivotTableAutoFormatType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents PivotTable auto format type.
 type: docs
-weight: 4690
+weight: 4730
 url: /net/aspose.cells.pivot/pivottableautoformattype/
 ---
 ## PivotTableAutoFormatType enumeration
@@ -14,7 +14,7 @@ Represents PivotTable auto format type.
 public enum PivotTableAutoFormatType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

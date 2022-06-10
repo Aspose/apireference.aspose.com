@@ -1,9 +1,9 @@
 ---
 title: GetNamedStyle
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the named style in the style pool.
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.cells/workbook/getnamedstyle/
 ---
 ## Workbook.GetNamedStyle method
@@ -18,7 +18,7 @@ public Style GetNamedStyle(string name)
 | --- | --- | --- |
 | name | String | name of the style |
 
-## Return Value
+### Return Value
 
 named style, maybe null.
 

@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Add a creation path.
 type: docs
 weight: 30
 url: /net/aspose.cells.drawing/shapepathcollection/add/
@@ -14,7 +14,7 @@ Add a creation path.
 public int Add()
 ```
 
-## Return Value
+### Return Value
 
 Returns [`ShapePath`](../../shapepath) object.
 

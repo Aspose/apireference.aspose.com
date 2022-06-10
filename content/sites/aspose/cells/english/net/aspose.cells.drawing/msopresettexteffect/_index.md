@@ -1,9 +1,9 @@
 ---
 title: MsoPresetTextEffect
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents preset text effect type of WordArt.
 type: docs
-weight: 2380
+weight: 2400
 url: /net/aspose.cells.drawing/msopresettexteffect/
 ---
 ## MsoPresetTextEffect enumeration
@@ -14,7 +14,7 @@ Represents preset text effect type of WordArt.
 public enum MsoPresetTextEffect
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

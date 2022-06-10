@@ -1,12 +1,12 @@
 ---
 title: EndCellInColumn
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the last cell in this column.
 type: docs
 weight: 580
 url: /net/aspose.cells/cells/endcellincolumn/
 ---
-## Cells.EndCellInColumn method (1 of 2)
+## EndCellInColumn(short) {#endcellincolumn}
 
 Gets the last cell in this column.
 
@@ -18,7 +18,7 @@ public Cell EndCellInColumn(short columnIndex)
 | --- | --- | --- |
 | columnIndex | Int16 | Column index. |
 
-## Return Value
+### Return Value
 
 Cell object.
 
@@ -31,7 +31,7 @@ Cell object.
 
 ---
 
-## Cells.EndCellInColumn method (2 of 2)
+## EndCellInColumn(int, int, short, short) {#endcellincolumn_1}
 
 Gets the last cell with maximum column index in this range.
 
@@ -46,7 +46,7 @@ public Cell EndCellInColumn(int startRow, int endRow, short startColumn, short e
 | startColumn | Int16 | Start column index. |
 | endColumn | Int16 | End column index. |
 
-## Return Value
+### Return Value
 
 Cell object.
 

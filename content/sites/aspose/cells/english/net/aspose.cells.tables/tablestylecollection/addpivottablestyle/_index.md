@@ -1,7 +1,7 @@
 ---
 title: AddPivotTableStyle
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a custom pivot table style.
 type: docs
 weight: 20
 url: /net/aspose.cells.tables/tablestylecollection/addpivottablestyle/
@@ -18,7 +18,7 @@ public int AddPivotTableStyle(string name)
 | --- | --- | --- |
 | name | String | The pivot table style name. |
 
-## Return Value
+### Return Value
 
 The index of the pivot table style.
 

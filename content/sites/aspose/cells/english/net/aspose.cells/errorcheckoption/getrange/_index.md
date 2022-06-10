@@ -1,7 +1,7 @@
 ---
 title: GetRange
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the influenced range of this setting by given index.
 type: docs
 weight: 30
 url: /net/aspose.cells/errorcheckoption/getrange/
@@ -18,7 +18,7 @@ public CellArea GetRange(int index)
 | --- | --- | --- |
 | index | Int32 | the index of range |
 
-## Return Value
+### Return Value
 
 return influenced range at given index.
 

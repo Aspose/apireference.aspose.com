@@ -1,9 +1,9 @@
 ---
 title: GetRow
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the Rowaspose.cells/row element at the specified cell row index.
 type: docs
-weight: 770
+weight: 790
 url: /net/aspose.cells/cells/getrow/
 ---
 ## Cells.GetRow method
@@ -18,7 +18,7 @@ public Row GetRow(int row)
 | --- | --- | --- |
 | row | Int32 | Row index |
 
-## Return Value
+### Return Value
 
 If the row object does exist return Row object, otherwise return null.
 

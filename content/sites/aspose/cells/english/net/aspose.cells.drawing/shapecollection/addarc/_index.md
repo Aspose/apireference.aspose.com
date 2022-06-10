@@ -1,7 +1,7 @@
 ---
 title: AddArc
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a ArcShape to the worksheet.
 type: docs
 weight: 30
 url: /net/aspose.cells.drawing/shapecollection/addarc/
@@ -24,7 +24,7 @@ public ArcShape AddArc(int upperLeftRow, int top, int upperLeftColumn, int left,
 | height | Int32 | Represents the height of ArcShape, in unit of pixel. |
 | width | Int32 | Represents the width of ArcShape, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 A ArcShape object.
 

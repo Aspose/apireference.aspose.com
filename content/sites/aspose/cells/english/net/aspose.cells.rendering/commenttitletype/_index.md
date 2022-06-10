@@ -1,9 +1,9 @@
 ---
 title: CommentTitleType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents comment title type while rendering when comment is set to display at end of sheet.
 type: docs
-weight: 5080
+weight: 5120
 url: /net/aspose.cells.rendering/commenttitletype/
 ---
 ## CommentTitleType enumeration
@@ -14,7 +14,7 @@ Represents comment title type while rendering when comment is set to display at 
 public enum CommentTitleType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

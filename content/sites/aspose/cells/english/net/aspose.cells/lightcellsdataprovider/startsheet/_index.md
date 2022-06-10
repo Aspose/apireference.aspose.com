@@ -1,7 +1,7 @@
 ---
 title: StartSheet
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Starts to save a worksheet.
 type: docs
 weight: 60
 url: /net/aspose.cells/lightcellsdataprovider/startsheet/
@@ -18,7 +18,7 @@ public bool StartSheet(int sheetIndex)
 | --- | --- | --- |
 | sheetIndex | Int32 | index of current sheet to be saved. |
 
-## Return Value
+### Return Value
 
 true if this provider will provide data for the given sheet; false if given sheet should use its normal data model(Cells).
 

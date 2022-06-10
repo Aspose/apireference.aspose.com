@@ -1,9 +1,9 @@
 ---
 title: GetStandardHeaderFooterFontStyleName
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets standard English font style nameRegular Bold Italic for Header/Footer according to given locale font style name.
 type: docs
-weight: 230
+weight: 250
 url: /net/aspose.cells/globalizationsettings/getstandardheaderfooterfontstylename/
 ---
 ## GlobalizationSettings.GetStandardHeaderFooterFontStyleName method
@@ -18,7 +18,7 @@ public virtual string GetStandardHeaderFooterFontStyleName(string localfontStyle
 | --- | --- | --- |
 | localfontStyleName | String | Locale font style name for Header/Footer. |
 
-## Return Value
+### Return Value
 
 Standard English font style name(Regular, Bold, Italic)
 

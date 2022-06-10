@@ -1,12 +1,12 @@
 ---
 title: AddThreadedComment
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a threaded comment.
 type: docs
 weight: 30
 url: /net/aspose.cells/commentcollection/addthreadedcomment/
 ---
-## CommentCollection.AddThreadedComment method (1 of 2)
+## AddThreadedComment(int, int, string, ThreadedCommentAuthor) {#addthreadedcomment}
 
 Adds a threaded comment.
 
@@ -21,7 +21,7 @@ public int AddThreadedComment(int row, int column, string text, ThreadedCommentA
 | text | String | The text of the comment |
 | author | ThreadedCommentAuthor | The user of this threaded comment. |
 
-## Return Value
+### Return Value
 
 [`ThreadedComment`](../../threadedcomment) object index.
 
@@ -34,7 +34,7 @@ public int AddThreadedComment(int row, int column, string text, ThreadedCommentA
 
 ---
 
-## CommentCollection.AddThreadedComment method (2 of 2)
+## AddThreadedComment(string, string, ThreadedCommentAuthor) {#addthreadedcomment_1}
 
 Adds a threaded comment.
 
@@ -48,7 +48,7 @@ public int AddThreadedComment(string cellName, string text, ThreadedCommentAutho
 | text | String | The text of the comment |
 | author | ThreadedCommentAuthor | The user of this threaded comment. |
 
-## Return Value
+### Return Value
 
 [`ThreadedComment`](../../threadedcomment) object index.
 

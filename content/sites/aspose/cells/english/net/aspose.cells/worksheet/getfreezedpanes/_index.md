@@ -1,7 +1,7 @@
 ---
 title: GetFreezedPanes
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the freeze panes.
 type: docs
 weight: 720
 url: /net/aspose.cells/worksheet/getfreezedpanes/
@@ -22,7 +22,7 @@ public bool GetFreezedPanes(out int row, out int column, out int freezedRows,
 | freezedRows | Int32& | Number of visible rows in top pane, no more than row index. |
 | freezedColumns | Int32& | Number of visible columns in left pane, no more than column index. |
 
-## Return Value
+### Return Value
 
 Return whether the worksheet is frozen
 

@@ -1,7 +1,7 @@
 ---
 title: ExportObject
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Export one object.
 type: docs
 weight: 10
 url: /net/aspose.cells/iexportobjectlistener/exportobject/
@@ -18,7 +18,7 @@ public object ExportObject(ExportObjectEvent e)
 | --- | --- | --- |
 | e | ExportObjectEvent | The event triggered when one object needs to be exported. |
 
-## Return Value
+### Return Value
 
 The information about the result of exporting object. For exporting objects when export workbook to HTML format, the result is URL string to access the saved Image from the html file which contains this exported object.
 

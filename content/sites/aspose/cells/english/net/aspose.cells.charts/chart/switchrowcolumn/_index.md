@@ -1,9 +1,9 @@
 ---
 title: SwitchRowColumn
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Switches row/column.
 type: docs
-weight: 580
+weight: 590
 url: /net/aspose.cells.charts/chart/switchrowcolumn/
 ---
 ## Chart.SwitchRowColumn method
@@ -14,7 +14,7 @@ Switches row/column.
 public bool SwitchRowColumn()
 ```
 
-## Return Value
+### Return Value
 
 False means switching row/column fails.
 

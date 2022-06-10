@@ -1,9 +1,9 @@
 ---
 title: PageLayoutAlignmentType
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Enumerates page layout alignment types.
 type: docs
-weight: 4390
+weight: 4430
 url: /net/aspose.cells/pagelayoutalignmenttype/
 ---
 ## PageLayoutAlignmentType enumeration
@@ -14,7 +14,7 @@ Enumerates page layout alignment types.
 public enum PageLayoutAlignmentType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

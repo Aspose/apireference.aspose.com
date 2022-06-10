@@ -1,7 +1,7 @@
 ---
 title: CustomPrint
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Client can control page setting of printer when print each page using this function.
 type: docs
 weight: 40
 url: /net/aspose.cells.rendering/sheetrender/customprint/
@@ -19,7 +19,7 @@ public int CustomPrint(bool nextPageAfterPrint, PrintPageEventArgs printPageEven
 | nextPageAfterPrint | Boolean | If true , printer will go to next page after print current page |
 | printPageEventArgs | PrintPageEventArgs | System.Drawing.Printing.PrintPageEventArgs |
 
-## Return Value
+### Return Value
 
 Indirect next page index, based on zero
 

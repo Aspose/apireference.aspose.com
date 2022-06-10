@@ -1,12 +1,12 @@
 ---
 title: RegisterAddInFunction
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds addin function into the workbook
 type: docs
 weight: 290
 url: /net/aspose.cells/worksheetcollection/registeraddinfunction/
 ---
-## WorksheetCollection.RegisterAddInFunction method (1 of 2)
+## RegisterAddInFunction(string, string, bool) {#registeraddinfunction}
 
 Adds addin function into the workbook
 
@@ -20,7 +20,7 @@ public int RegisterAddInFunction(string addInFile, string functionName, bool lib
 | functionName | String | the addin function name |
 | lib | Boolean | whether the given addin file is in the directory or sub-directory of Workbook Add-In library. This flag takes effect and makes difference when given addInFile is of relative path: true denotes the path is relative to Add-In library and false denotes the path is relative to this Workbook. |
 
-## Return Value
+### Return Value
 
 ID of the data which contains given addin function
 
@@ -32,7 +32,7 @@ ID of the data which contains given addin function
 
 ---
 
-## WorksheetCollection.RegisterAddInFunction method (2 of 2)
+## RegisterAddInFunction(int, string) {#registeraddinfunction_1}
 
 Adds addin function into the workbook
 
@@ -45,7 +45,7 @@ public string RegisterAddInFunction(int id, string functionName)
 | id | Int32 | ID of the data which contains addin functions, can be got by the first call of [`RegisterAddInFunction`](../registeraddinfunction) for the same addin file. |
 | functionName | String | the addin function name |
 
-## Return Value
+### Return Value
 
 URL of the addin file which contains addin functions
 

@@ -1,9 +1,9 @@
 ---
 title: MapChartLabelLayout
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Represents the layout of map charts labels.
 type: docs
-weight: 720
+weight: 740
 url: /net/aspose.cells.charts/mapchartlabellayout/
 ---
 ## MapChartLabelLayout enumeration
@@ -14,7 +14,7 @@ Represents the layout of map chart's labels.
 public enum MapChartLabelLayout
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

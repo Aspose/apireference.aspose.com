@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Gets the ListObject by index.
 type: docs
 weight: 10
 url: /net/aspose.cells.tables/listobjectcollection/item/
@@ -18,7 +18,7 @@ public ListObject this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 The ListObject
 
@@ -43,7 +43,7 @@ public ListObject this[string tableName] { get; }
 | --- | --- |
 | tableName | ListObject name. |
 
-## Return Value
+### Return Value
 
 The ListObject
 

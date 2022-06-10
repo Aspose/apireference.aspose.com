@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a smart tag.
 type: docs
 weight: 40
 url: /net/aspose.cells.markup/smarttagcollection/add/
@@ -19,7 +19,7 @@ public int Add(string uri, string name)
 | uri | String | Specifies the namespace URI of the smart tag |
 | name | String | Specifies the name of the smart tag. |
 
-## Return Value
+### Return Value
 
 The index of smart tag in the list.
 

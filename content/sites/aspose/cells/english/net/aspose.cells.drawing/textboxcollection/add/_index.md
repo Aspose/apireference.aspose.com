@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Cells for .NET API Reference
-description: 
+description: Adds a textbox to the collection.
 type: docs
 weight: 20
 url: /net/aspose.cells.drawing/textboxcollection/add/
@@ -21,7 +21,7 @@ public int Add(int upperLeftRow, int upperLeftColumn, int height, int width)
 | height | Int32 | Height of textbox, in unit of pixel. |
 | width | Int32 | Width of textbox, in unit of pixel. |
 
-## Return Value
+### Return Value
 
 [`TextBox`](../../textbox) object index.
 
