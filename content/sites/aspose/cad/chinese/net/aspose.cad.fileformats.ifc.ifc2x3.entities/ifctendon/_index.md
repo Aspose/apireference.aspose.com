@@ -1,0 +1,77 @@
+---
+title: IfcTendon
+second_title: Aspose.CAD for .NET API 参考
+description: IfcTendon
+type: docs
+weight: 12620
+url: /zh/net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/
+---
+## IfcTendon class
+
+IfcTendon
+
+```csharp
+public class IfcTendon : IfcReinforcingElement
+```
+
+## 构造函数
+
+| 姓名 | 描述 |
+| --- | --- |
+| [IfcTendon](ifctendon)() | 默认构造函数。 |
+
+## 特性
+
+| 姓名 | 描述 |
+| --- | --- |
+| [AnchorageSlip](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/anchorageslip) { get; set; } | AnchorageSlip |
+| [ConnectedFrom](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/connectedfrom) { get; } | ConnectedFrom |
+| [ConnectedTo](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/connectedto) { get; } | ConnectedTo |
+| [ContainedInStructure](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/containedinstructure) { get; } | ContainedInStructure |
+| [CrossSectionArea](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/crosssectionarea) { get; set; } | CrossSectionArea |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes) { get; } | 分解 |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description) { get; set; } | 说明 |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | 获取实体标签。 |
+| [FillsVoids](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/fillsvoids) { get; } | FillsVoids |
+| [FrictionCoefficient](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/frictioncoefficient) { get; set; } | 摩擦系数 |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid) { get; set; } | GlobalId |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments) { get; } | HasAssignments |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations) { get; } | HasAssociations |
+| [HasCoverings](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hascoverings) { get; } | HasCoverings |
+| [HasOpenings](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hasopenings) { get; } | HasOpenings |
+| [HasPorts](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hasports) { get; } | HasPorts |
+| [HasProjections](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hasprojections) { get; } | HasProjections |
+| [HasStructuralMember](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hasstructuralmember) { get; } | HasStructuralMember |
+| [IsConnectionRealization](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/isconnectionrealization) { get; } | IsConnectionRealization |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/isdecomposedby) { get; } | IsDecomposedBy |
+| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/isdefinedby) { get; } | IsDefinedBy |
+| [MinCurvatureRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/mincurvatureradius) { get; set; } | MinCurvatureRadius |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name) { get; set; } | 名称 |
+| [NominalDiameter](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/nominaldiameter) { get; set; } | 标称直径 |
+| [ObjectPlacement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct/objectplacement) { get; set; } | ObjectPlacement |
+| [ObjectType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/objecttype) { get; set; } | ObjectType |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
+| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/predefinedtype) { get; set; } | PredefinedType |
+| [PreStress](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/prestress) { get; set; } | 预应力 |
+| [ProvidesBoundaries](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/providesboundaries) { get; } | 提供边界 |
+| [ReferencedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct/referencedby) { get; } | ReferencedBy |
+| [ReferencedInStructures](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/referencedinstructures) { get; } | ReferencedInStructures |
+| [Representation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct/representation) { get; set; } | 表示 |
+| [SteelGrade](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingelement/steelgrade) { get; set; } | SteelGrade |
+| [Tag](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/tag) { get; set; } | 标签 |
+| [TensionForce](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/tensionforce) { get; set; } | 张力 |
+
+## 方法
+
+| 姓名 | 描述 |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | 判断指定是否等于这个实例。 |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | 返回此实例的哈希码。 |
+
+### 也可以看看
+
+* class [IfcReinforcingElement](../ifcreinforcingelement)
+* 命名空间 [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities)
+* 部件 [Aspose.CAD](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
