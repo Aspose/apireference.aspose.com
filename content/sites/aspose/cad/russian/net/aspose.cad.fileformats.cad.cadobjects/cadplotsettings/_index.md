@@ -1,0 +1,70 @@
+---
+title: CadPlotSettings
+second_title: Справочник по Aspose.CAD для .NET API
+description: 
+type: docs
+weight: 2790
+url: /ru/net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/
+---
+## CadPlotSettings class
+
+```csharp
+public class CadPlotSettings : CadBaseObject
+```
+
+## Конструкторы
+
+| Имя | Описание |
+| --- | --- |
+| [CadPlotSettings](cadplotsettings)() | Конструктор по умолчанию. |
+
+## Характеристики
+
+| Имя | Описание |
+| --- | --- |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
+| [BottomSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/bottomsize) { get; set; } |  |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
+| [CurrentStyleSheet](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/currentstylesheet) { get; set; } |  |
+| [CustomPrintScaleDenominator](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/customprintscaledenominator) { get; set; } |  |
+| [CustomPrintScaleNumerator](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/customprintscalenumerator) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
+| [LeftSideSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/leftsidesize) { get; set; } |  |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/numreactors) { get; set; } |  |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
+| [PageSetupName](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/pagesetupname) { get; set; } |  |
+| [PaperImageOrigin](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/paperimageorigin) { get; set; } |  |
+| [PaperSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/papersize) { get; set; } |  |
+| [PlotLayoutFlag](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotlayoutflag) { get; set; } |  |
+| [PlotOrigin](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotorigin) { get; set; } |  |
+| [PlotPaperSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotpapersize) { get; set; } |  |
+| [PlotPaperUnits](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotpaperunits) { get; set; } |  |
+| [PlotRotation](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotrotation) { get; set; } |  |
+| [PlotType](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plottype) { get; set; } |  |
+| [PlotViewName](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotviewname) { get; set; } |  |
+| [PlotWindowArea1](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotwindowarea1) { get; set; } |  |
+| [PlotWindowArea2](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotwindowarea2) { get; set; } |  |
+| [PrinterOrConfigurationFileName](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/printerorconfigurationfilename) { get; set; } |  |
+| [RightSideSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/rightsidesize) { get; set; } |  |
+| [ShadePlotCustomDpi](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shadeplotcustomdpi) { get; set; } |  |
+| [ShadePlotHandle](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shadeplothandle) { get; set; } |  |
+| [ShadePlotMode](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shadeplotmode) { get; set; } |  |
+| [ShadePlotResolutionLevel](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shadeplotresolutionlevel) { get; set; } |  |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
+| [StandardScaleType](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standardscaletype) { get; set; } |  |
+| [StandardScaleTypeFactor](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standardscaletypefactor) { get; set; } |  |
+| [TopSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/topsize) { get; set; } |  |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+
+### Смотрите также
+
+* class [CadBaseObject](../cadbaseobject)
+* пространство имен [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects)
+* сборка [Aspose.CAD](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

@@ -11,7 +11,6 @@ url: /
 
 {{% alert color="primary" %}}
 
-**Welcome to Aspose.CAD**
 
 ![Aspose.CAD for .NET Product Logo](home_1.png)
 
@@ -35,8 +34,6 @@ Aspose.CAD for .NET is a cross-platform library, compatible with .NET Framework,
 
 {{% /alert %}}
 
-
-
 These are links to some useful resources:
 - [Aspose.CAD for .NET API Reference](/cad/net/)
 
@@ -44,8 +41,6 @@ These are links to some useful resources:
 ## Aspose.CAD for Java
 
 {{% alert color="primary" %}}
-
-**Aspose.CAD for Java**
 
 ![Aspose.CAD for Java Product Logo](home_2.png)
 
@@ -61,8 +56,6 @@ These are links to some useful resources:
 ## Aspose.CAD for JasperReports
 
 {{% alert color="primary" %}}
-
-**Aspose.CAD for JasperReports**
 
 ![Aspose.CAD for JasperReports Product Logo](home_3.png)
 
