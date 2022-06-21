@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Name of custom row
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config.elements.customanswersheet/customrowconfig/name/

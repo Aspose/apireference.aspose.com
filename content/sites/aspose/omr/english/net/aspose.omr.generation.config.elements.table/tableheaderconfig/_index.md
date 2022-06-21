@@ -1,9 +1,9 @@
 ---
 title: TableHeaderConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents TableHeader element
 type: docs
-weight: 350
+weight: 440
 url: /net/aspose.omr.generation.config.elements.table/tableheaderconfig/
 ---
 ## TableHeaderConfig class
@@ -27,6 +27,14 @@ public class TableHeaderConfig : ParentConfig
 | override [Children](../../aspose.omr.generation.config.elements.table/tableheaderconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
 | override [Name](../../aspose.omr.generation.config.elements.table/tableheaderconfig/name) { get; set; } | Text value |
 | override [Type](../../aspose.omr.generation.config.elements.table/tableheaderconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [FontFamily](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontfamily) | The font family of the text |
+| [FontSize](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontsize) | The size of the text font |
+| [FontStyle](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontstyle) | The style of the text |
 
 ### See Also
 

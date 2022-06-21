@@ -1,7 +1,7 @@
 ---
 title: ContentType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of text display.
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config.elements/contentconfig/contenttype/

@@ -1,7 +1,7 @@
 ---
 title: ErrorCode
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the error code. Equals 0 if no errors occurred.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation/generationresult/errorcode/

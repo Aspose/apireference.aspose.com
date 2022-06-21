@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The target height of barcode image
 type: docs
 weight: 60
 url: /net/aspose.omr.generation.config.elements/barcodeconfig/height/

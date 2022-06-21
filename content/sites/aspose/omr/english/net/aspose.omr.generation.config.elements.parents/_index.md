@@ -3,7 +3,7 @@ title: Aspose.OMR.Generation.Config.Elements.Parents
 second_title: Aspose.OMR for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.omr.generation.config.elements.parents/
 ---
 

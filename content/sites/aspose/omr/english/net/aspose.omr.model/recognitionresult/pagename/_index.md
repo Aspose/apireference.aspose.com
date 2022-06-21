@@ -1,7 +1,7 @@
 ---
 title: PageName
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets page name
 type: docs
 weight: 40
 url: /net/aspose.omr.model/recognitionresult/pagename/

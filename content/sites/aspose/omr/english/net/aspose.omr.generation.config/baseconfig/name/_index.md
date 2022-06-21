@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Name of omr element. Can be used in different cases based on element
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config/baseconfig/name/

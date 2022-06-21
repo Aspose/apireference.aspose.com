@@ -1,9 +1,9 @@
 ---
 title: BarcodeConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Barcode element. Can be used to encode value. Positioned on page using coordinates in pixels.
 type: docs
-weight: 80
+weight: 300
 url: /net/aspose.omr.generation.config.elements/barcodeconfig/
 ---
 ## BarcodeConfig class
@@ -18,7 +18,7 @@ public class BarcodeConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [BarcodeConfig](barcodeconfig)() | The default constructor. |
+| [BarcodeConfig](barcodeconfig)() | Create instance using default values |
 
 ## Properties
 

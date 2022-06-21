@@ -1,12 +1,12 @@
 ---
 title: Aspose.OMR.Generation
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The Aspose.OMR.Generation contains template generation result.
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.omr.generation/
 ---
-
+The **Aspose.OMR.Generation** contains template generation result.
 
 ## Classes
 

@@ -1,7 +1,7 @@
 ---
 title: ColumnsCount
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Sets the number of columns to be drawn.
 type: docs
 weight: 50
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/columnscount/

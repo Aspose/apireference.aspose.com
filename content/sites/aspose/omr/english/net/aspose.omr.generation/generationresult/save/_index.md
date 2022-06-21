@@ -1,7 +1,7 @@
 ---
 title: Save
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Save template images and template to the specified folder
 type: docs
 weight: 70
 url: /net/aspose.omr.generation/generationresult/save/

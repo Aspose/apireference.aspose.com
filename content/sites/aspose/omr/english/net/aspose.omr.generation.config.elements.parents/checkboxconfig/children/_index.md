@@ -1,7 +1,7 @@
 ---
 title: Children
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Child omr elements. In most cases positioned inside of parent or below.
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/children/

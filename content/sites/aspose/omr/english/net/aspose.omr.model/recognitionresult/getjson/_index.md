@@ -1,12 +1,36 @@
 ---
 title: GetJson
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Form JSON string with recognition results as MemoryStream
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.omr.model/recognitionresult/getjson/
 ---
-## RecognitionResult.GetJson method
+## GetJson(Encoding) {#getjson}
+
+Form JSON string with recognition results as MemoryStream
+
+```csharp
+public byte[] GetJson(Encoding encoding)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| encoding | Encoding | Encoding with which we encode JSON string |
+
+### Return Value
+
+Recognition result as array of bytes
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
+
+---
+
+## GetJson() {#getjson_1}
 
 Form JSON string with recognition results
 
@@ -14,7 +38,7 @@ Form JSON string with recognition results
 public string GetJson()
 ```
 
-## Return Value
+### Return Value
 
 Recognition results as JSON string
 

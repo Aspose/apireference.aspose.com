@@ -1,7 +1,7 @@
 ---
 title: FontSize
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The size of the text font
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/fontsize/

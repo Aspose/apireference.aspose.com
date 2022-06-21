@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Name of grid. Used as identifier in recognition
 type: docs
 weight: 100
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/name/

@@ -1,7 +1,7 @@
 ---
 title: Threshold
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Percent of pixels after which bubbles considered marked
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold/

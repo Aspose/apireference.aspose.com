@@ -1,7 +1,7 @@
 ---
 title: Column
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Indicates in which column to draw sheet
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/column/

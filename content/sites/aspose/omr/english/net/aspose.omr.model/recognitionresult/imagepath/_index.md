@@ -1,7 +1,7 @@
 ---
 title: ImagePath
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the path to the processed image
 type: docs
 weight: 10
 url: /net/aspose.omr.model/recognitionresult/imagepath/

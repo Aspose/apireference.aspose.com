@@ -1,9 +1,9 @@
 ---
 title: AnswerSheetConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents AnswerSheet element. It allows adding choice boxes grouped in columns and rows. Use the answer sheet if you want to fit a lot of questions on a page since they are located close to each other.
 type: docs
-weight: 70
+weight: 290
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/
 ---
 ## AnswerSheetConfig class
@@ -18,7 +18,7 @@ public class AnswerSheetConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [AnswerSheetConfig](answersheetconfig)() | The default constructor. |
+| [AnswerSheetConfig](answersheetconfig)() | Create instance width default values |
 
 ## Properties
 
@@ -33,6 +33,12 @@ public class AnswerSheetConfig : BaseConfig
 | [StartId](../../aspose.omr.generation.config.elements/answersheetconfig/startid) { get; set; } | The starting index of the questions numbering |
 | override [Type](../../aspose.omr.generation.config.elements/answersheetconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 | [VerticalMargin](../../aspose.omr.generation.config.elements/answersheetconfig/verticalmargin) { get; set; } | Vertical margin of answer sheet. Set in pixels. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [BubbleSize](../../aspose.omr.generation.config.elements/answersheetconfig/bubblesize) | The size of a bubble |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: RecognizeFolder
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Recognizes images from folder
 type: docs
 weight: 20
 url: /net/aspose.omr.api/templateprocessor/recognizefolder/
@@ -19,7 +19,7 @@ public RecognitionResult[] RecognizeFolder(string folderPath, int recognitionThr
 | folderPath | String | The path to the folder where the images to recognize are located |
 | recognitionThreshold | Int32 | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
 
-## Return Value
+### Return Value
 
 The recognition result
 

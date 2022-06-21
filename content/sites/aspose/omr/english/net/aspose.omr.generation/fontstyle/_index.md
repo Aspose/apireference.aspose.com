@@ -1,9 +1,9 @@
 ---
 title: FontStyle
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The font styles
 type: docs
-weight: 540
+weight: 70
 url: /net/aspose.omr.generation/fontstyle/
 ---
 ## FontStyle enumeration
@@ -14,7 +14,7 @@ The font styles
 public enum FontStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -1,7 +1,7 @@
 ---
 title: TemplateImage
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the generated Template Image
 type: docs
 weight: 40
 url: /net/aspose.omr.generation/generationresult/templateimage/

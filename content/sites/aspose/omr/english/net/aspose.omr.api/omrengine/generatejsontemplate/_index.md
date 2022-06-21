@@ -1,7 +1,7 @@
 ---
 title: GenerateJSONTemplate
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Creates a template .omr and template image based on .json markup
 type: docs
 weight: 20
 url: /net/aspose.omr.api/omrengine/generatejsontemplate/
@@ -19,7 +19,7 @@ public GenerationResult GenerateJSONTemplate(string jsonPath, GlobalPageSettings
 | jsonPath | String | path to *.json file with markup |
 | settings | GlobalPageSettings | global settings used in all template generation |
 
-## Return Value
+### Return Value
 
 Generation result
 

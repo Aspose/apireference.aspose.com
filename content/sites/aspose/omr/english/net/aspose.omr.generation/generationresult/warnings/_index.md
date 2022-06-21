@@ -1,7 +1,7 @@
 ---
 title: Warnings
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets list of the warnings messages describing non-critical faults appeared during generation
 type: docs
 weight: 50
 url: /net/aspose.omr.generation/generationresult/warnings/

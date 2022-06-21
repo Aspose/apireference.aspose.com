@@ -1,7 +1,7 @@
 ---
 title: BubbleSize
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Size of rectangle for each optionchildren
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize/

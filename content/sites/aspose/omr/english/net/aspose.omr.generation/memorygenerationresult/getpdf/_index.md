@@ -1,7 +1,7 @@
 ---
 title: GetPDF
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Get .pdf files from the GenerationResultaspose.omr.generation/generationresult as MemoryStream.
 type: docs
 weight: 40
 url: /net/aspose.omr.generation/memorygenerationresult/getpdf/
@@ -14,7 +14,7 @@ Get .pdf files from the [`GenerationResult`](../../generationresult) as MemorySt
 public IEnumerable<MemoryStream> GetPDF()
 ```
 
-## Return Value
+### Return Value
 
 Template images as pdf
 

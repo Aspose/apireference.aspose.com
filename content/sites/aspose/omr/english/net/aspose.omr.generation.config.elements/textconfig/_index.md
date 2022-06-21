@@ -1,9 +1,9 @@
 ---
 title: TextConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents Text element. Used for displaying information. Does not participate in recognition.
 type: docs
-weight: 370
+weight: 390
 url: /net/aspose.omr.generation.config.elements/textconfig/
 ---
 ## TextConfig class

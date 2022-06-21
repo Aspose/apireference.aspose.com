@@ -1,7 +1,7 @@
 ---
 title: RecognizeMultiPageTemplate
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Recognizes multi-page template
 type: docs
 weight: 40
 url: /net/aspose.omr.api/templateprocessor/recognizemultipagetemplate/
@@ -20,7 +20,7 @@ public RecognitionResult[] RecognizeMultiPageTemplate(string[] imagePaths,
 | imagePaths | String[] | The path to the images to recognize |
 | recognitionThreshold | Int32 | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
 
-## Return Value
+### Return Value
 
 The recognition result
 

@@ -1,9 +1,9 @@
 ---
 title: TriggerType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of trigger. Describe trigger behavior
 type: docs
-weight: 510
+weight: 280
 url: /net/aspose.omr.generation.config.enums/triggertype/
 ---
 ## TriggerType enumeration
@@ -14,7 +14,7 @@ Type of trigger. Describe trigger behavior
 public enum TriggerType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

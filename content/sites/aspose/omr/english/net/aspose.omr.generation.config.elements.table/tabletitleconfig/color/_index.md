@@ -1,7 +1,7 @@
 ---
 title: Color
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The color of the text
 type: docs
 weight: 80
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/color/

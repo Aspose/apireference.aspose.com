@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Barcode name. For value Valueaspose.omr.generation.config.elements/barcodeconfig/value
 type: docs
 weight: 70
 url: /net/aspose.omr.generation.config.elements/barcodeconfig/name/

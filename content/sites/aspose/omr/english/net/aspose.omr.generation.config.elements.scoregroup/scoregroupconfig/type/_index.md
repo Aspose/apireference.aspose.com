@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of omr element. Required field for JSON serialization.
 type: docs
 weight: 50
 url: /net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/type/

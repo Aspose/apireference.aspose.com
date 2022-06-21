@@ -1,7 +1,7 @@
 ---
 title: Row
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Row position in table first row - 1
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row/

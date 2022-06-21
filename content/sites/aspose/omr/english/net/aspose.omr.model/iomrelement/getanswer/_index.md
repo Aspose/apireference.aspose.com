@@ -1,7 +1,7 @@
 ---
 title: GetAnswer
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Forms a string with recognition result
 type: docs
 weight: 30
 url: /net/aspose.omr.model/iomrelement/getanswer/
@@ -14,7 +14,7 @@ Forms a string with recognition result
 public string GetAnswer()
 ```
 
-## Return Value
+### Return Value
 
 String containing recognition result
 

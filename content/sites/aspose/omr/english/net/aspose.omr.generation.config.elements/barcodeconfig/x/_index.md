@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: X coordinate. Set value to -1 for skip
 type: docs
 weight: 100
 url: /net/aspose.omr.generation.config.elements/barcodeconfig/x/

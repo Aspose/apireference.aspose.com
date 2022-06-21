@@ -1,7 +1,7 @@
 ---
 title: Threshold
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Custom recognition marker. By default set to 3. Check box will be considered marked if 3 of its region is filled. Can be customized to any other threshold. Does not affect global threshold
 type: docs
 weight: 100
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/threshold/

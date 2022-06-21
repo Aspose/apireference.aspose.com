@@ -1,9 +1,9 @@
 ---
 title: BubbleSize
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The sizes of a bubbles
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.omr.generation/bubblesize/
 ---
 ## BubbleSize enumeration
@@ -14,7 +14,7 @@ The sizes of a bubbles
 public enum BubbleSize
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

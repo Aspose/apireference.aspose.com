@@ -1,17 +1,18 @@
 ---
 title: Aspose.OMR.Api
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The Aspose.OMR.Api contains main OMR methods for template generation and images recognition.
 type: docs
 weight: 20
 url: /net/aspose.omr.api/
 ---
-
+The **Aspose.OMR.Api** contains main OMR methods for template generation and images recognition.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
+| [ImageCollection](./imagecollection) | Collection of Images that can be used for template Generation. e.g. [`GenerateTemplate`](../aspose.omr.api/omrengine/generatetemplate) Can be useful when your images are not in the file system. |
 | [OmrEngine](./omrengine) | The OMR engine. Handles the creation of the template and image processing classes and GUI components. |
 | [TemplateProcessor](./templateprocessor) | Class for processing templates and images.  Each instance of this class works with a single OMR template. It is able to recognize images of the template specified in the constructor. |
 

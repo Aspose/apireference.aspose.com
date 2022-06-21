@@ -1,7 +1,7 @@
 ---
 title: ImageAlign
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The Image alignment on page
 type: docs
 weight: 90
 url: /net/aspose.omr.generation.config.elements/imageconfig/imagealign/

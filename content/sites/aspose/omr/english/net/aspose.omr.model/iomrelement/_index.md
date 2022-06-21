@@ -1,9 +1,9 @@
 ---
 title: IOmrElement
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The interface for the OMR elements
 type: docs
-weight: 620
+weight: 30
 url: /net/aspose.omr.model/iomrelement/
 ---
 ## IOmrElement interface

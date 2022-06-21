@@ -1,7 +1,7 @@
 ---
 title: ScoreGroupType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of score group
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype/

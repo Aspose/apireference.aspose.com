@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of omr element. Does not have default value. Must be overridden.
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config/baseconfig/type/

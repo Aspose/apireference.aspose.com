@@ -1,7 +1,7 @@
 ---
 title: ScoreDisplay
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Describe display behavior for score value.
 type: docs
 weight: 80
 url: /net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/scoredisplay/

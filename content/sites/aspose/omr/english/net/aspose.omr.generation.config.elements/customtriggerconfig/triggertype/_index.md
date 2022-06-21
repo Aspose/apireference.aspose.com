@@ -1,7 +1,7 @@
 ---
 title: TriggerType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of trigger. Describe trigger behavior
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements/customtriggerconfig/triggertype/
