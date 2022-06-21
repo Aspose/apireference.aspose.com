@@ -3,7 +3,7 @@ title: WheelEvent
 second_title: Aspose.SVG for .NET API Reference
 description: The WheelEvent interface provides specific contextual information associated with wheel events. To create an instance of the WheelEvent interface use the WheelEvent constructor passing an optional WheelEventInit dictionary.
 type: docs
-weight: 1010
+weight: 1020
 url: /net/aspose.svg.dom.events/wheelevent/
 ---
 ## WheelEvent class

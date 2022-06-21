@@ -3,7 +3,7 @@ title: MimeType
 second_title: Aspose.SVG for .NET API Reference
 description: Represents an Internet Media Types
 type: docs
-weight: 2150
+weight: 2170
 url: /net/aspose.svg/mimetype/
 ---
 ## MimeType class

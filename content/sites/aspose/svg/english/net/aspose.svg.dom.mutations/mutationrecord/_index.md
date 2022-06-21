@@ -3,7 +3,7 @@ title: MutationRecord
 second_title: Aspose.SVG for .NET API Reference
 description: A MutationRecord represents an individual DOM mutation. It is the object that is passed to MutationObserver./mutationobservers MutationCallback./mutationcallback.
 type: docs
-weight: 1140
+weight: 1150
 url: /net/aspose.svg.dom.mutations/mutationrecord/
 ---
 ## MutationRecord class

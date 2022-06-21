@@ -3,7 +3,7 @@ title: IBrush
 second_title: Aspose.SVG for .NET API Reference
 description: Declares method for getting of brush type.
 type: docs
-weight: 1410
+weight: 1420
 url: /net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface

@@ -3,7 +3,7 @@ title: SVGViewElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGViewElement interface corresponds to the view element.
 type: docs
-weight: 3510
+weight: 3530
 url: /net/aspose.svg/svgviewelement/
 ---
 ## SVGViewElement class

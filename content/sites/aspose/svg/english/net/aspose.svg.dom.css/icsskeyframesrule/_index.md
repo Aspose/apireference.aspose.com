@@ -3,7 +3,7 @@ title: ICSSKeyframesRule
 second_title: Aspose.SVG for .NET API Reference
 description: The CSSKeyframesRule interface represents a complete set of keyframes for a single animation
 type: docs
-weight: 580
+weight: 590
 url: /net/aspose.svg.dom.css/icsskeyframesrule/
 ---
 ## ICSSKeyframesRule interface

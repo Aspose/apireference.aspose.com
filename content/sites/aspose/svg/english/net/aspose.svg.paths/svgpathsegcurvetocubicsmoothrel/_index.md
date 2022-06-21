@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicSmoothRel
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGPathSegCurvetoCubicSmoothRel interface corresponds to a relative smooth cubic curveto s path data command.
 type: docs
-weight: 2500
+weight: 2520
 url: /net/aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/
 ---
 ## SVGPathSegCurvetoCubicSmoothRel class

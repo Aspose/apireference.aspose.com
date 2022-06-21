@@ -3,7 +3,7 @@ title: IAbstractView
 second_title: Aspose.SVG for .NET API Reference
 description: A base interface that all views shall derive from.
 type: docs
-weight: 1290
+weight: 1300
 url: /net/aspose.svg.dom.views/iabstractview/
 ---
 ## IAbstractView interface

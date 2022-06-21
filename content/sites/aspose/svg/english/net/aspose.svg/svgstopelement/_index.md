@@ -3,7 +3,7 @@ title: SVGStopElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGStopElement interface corresponds to the stop element.
 type: docs
-weight: 3390
+weight: 3410
 url: /net/aspose.svg/svgstopelement/
 ---
 ## SVGStopElement class
