@@ -1,7 +1,7 @@
 ---
 title: Template
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the Template JSON string
 type: docs
 weight: 30
 url: /net/aspose.omr.generation/generationresult/template/

@@ -1,7 +1,7 @@
 ---
 title: Embedded
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: License number was added as embedded resource.
 type: docs
 weight: 20
 url: /net/aspose.omr/license/embedded/

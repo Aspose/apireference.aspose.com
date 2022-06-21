@@ -1,7 +1,7 @@
 ---
 title: InputBorder
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of drawn border
 type: docs
 weight: 50
 url: /net/aspose.omr.generation.config.elements/inputgroup/inputborder/

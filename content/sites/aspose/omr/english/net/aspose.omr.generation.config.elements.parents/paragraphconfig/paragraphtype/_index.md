@@ -1,7 +1,7 @@
 ---
 title: ParagraphType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of Paragraph
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements.parents/paragraphconfig/paragraphtype/

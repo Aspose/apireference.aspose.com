@@ -1,12 +1,12 @@
 ---
 title: Aspose.OMR
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The Aspose.OMR contains licensing methods.
 type: docs
 weight: 10
 url: /net/aspose.omr/
 ---
-
+The **Aspose.OMR** contains licensing methods.
 
 ## Classes
 

@@ -1,7 +1,7 @@
 ---
 title: LabelBorder
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of drawn border
 type: docs
 weight: 60
 url: /net/aspose.omr.generation.config.elements/inputgroup/labelborder/

@@ -1,7 +1,7 @@
 ---
 title: Path
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Path to picture. Filled using Nameaspose.omr.generation.config.elements/imageconfig/name and ImagesPathsaspose.omr.generation/globalpagesettings/imagespaths
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements/imageconfig/path/

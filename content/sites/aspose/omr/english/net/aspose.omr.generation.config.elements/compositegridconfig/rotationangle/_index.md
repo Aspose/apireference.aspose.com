@@ -1,7 +1,7 @@
 ---
 title: RotationAngle
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Describe rotation of Grid element around its own axis. 90 - rotate CompositeGrid 90 degrees -90 - rotate ComopositeGrid to -90 degrees
 type: docs
 weight: 110
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/rotationangle/

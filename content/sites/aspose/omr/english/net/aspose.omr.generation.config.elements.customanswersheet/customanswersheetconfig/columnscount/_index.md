@@ -1,7 +1,7 @@
 ---
 title: ColumnsCount
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Amount of columnssections to group rows
 type: docs
 weight: 70
 url: /net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/columnscount/

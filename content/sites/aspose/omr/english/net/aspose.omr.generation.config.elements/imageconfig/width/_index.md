@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Width of the image
 type: docs
 weight: 60
 url: /net/aspose.omr.generation.config.elements/imageconfig/width/

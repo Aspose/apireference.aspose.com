@@ -1,9 +1,9 @@
 ---
 title: TableConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents Table element.
 type: docs
-weight: 340
+weight: 430
 url: /net/aspose.omr.generation.config.elements.table/tableconfig/
 ---
 ## TableConfig class
@@ -18,7 +18,7 @@ public class TableConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [TableConfig](tableconfig)() | The default constructor. |
+| [TableConfig](tableconfig)() | Create instance with default values |
 
 ## Properties
 

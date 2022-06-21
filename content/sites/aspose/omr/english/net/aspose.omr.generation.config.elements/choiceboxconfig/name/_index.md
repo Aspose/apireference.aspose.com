@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: name of Choice box. For display value QuestionTextaspose.omr.generation.config.elements/choiceboxconfig/questiontext
 type: docs
 weight: 60
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/name/

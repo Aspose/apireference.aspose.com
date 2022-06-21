@@ -1,12 +1,36 @@
 ---
 title: GetXml
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Form XML string with recognition results as MemoryStream
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.omr.model/recognitionresult/getxml/
 ---
-## RecognitionResult.GetXml method
+## GetXml(Encoding) {#getxml}
+
+Form XML string with recognition results as MemoryStream
+
+```csharp
+public byte[] GetXml(Encoding encoding)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| encoding | Encoding | Encoding with which we encode XML string |
+
+### Return Value
+
+Recognition result as array of bytes
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
+
+---
+
+## GetXml() {#getxml_1}
 
 Form XML string with recognition results
 

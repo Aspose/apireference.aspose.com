@@ -1,7 +1,7 @@
 ---
 title: TemplateName
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the OMR template
 type: docs
 weight: 50
 url: /net/aspose.omr.model/recognitionresult/templatename/

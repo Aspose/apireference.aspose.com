@@ -1,7 +1,7 @@
 ---
 title: RecognizeMultiPageTemplate
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Recognizes multi-page template
 type: docs
 weight: 40
 url: /net/aspose.omr.api/templateprocessor/recognizemultipagetemplate/

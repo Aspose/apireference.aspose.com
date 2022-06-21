@@ -1,7 +1,7 @@
 ---
 title: GetConsumptionCredit
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets consumption credit
 type: docs
 weight: 30
 url: /net/aspose.omr/metered/getconsumptioncredit/

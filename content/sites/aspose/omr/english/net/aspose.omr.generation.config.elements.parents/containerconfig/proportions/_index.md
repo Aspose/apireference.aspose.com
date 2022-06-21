@@ -1,7 +1,7 @@
 ---
 title: Proportions
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Divide on custom ratio each column inside it Newer version of ColumnsCountaspose.omr.generation.config.elements.parents/containerconfig/columnscount
 type: docs
 weight: 90
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/proportions/

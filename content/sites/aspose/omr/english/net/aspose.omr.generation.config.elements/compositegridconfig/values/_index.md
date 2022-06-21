@@ -1,7 +1,7 @@
 ---
 title: Values
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Collection of strings that will describe possible symbols in each column. Column-specific values are placed in ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow
 type: docs
 weight: 130
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/values/

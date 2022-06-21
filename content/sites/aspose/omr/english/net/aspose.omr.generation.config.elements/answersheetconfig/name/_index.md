@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Name of answer sheet
 type: docs
 weight: 70
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/name/

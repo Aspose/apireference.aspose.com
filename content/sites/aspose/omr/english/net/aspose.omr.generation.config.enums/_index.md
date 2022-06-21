@@ -3,7 +3,7 @@ title: Aspose.OMR.Generation.Config.Enums
 second_title: Aspose.OMR for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 100
 url: /net/aspose.omr.generation.config.enums/
 ---
 

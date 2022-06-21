@@ -1,9 +1,9 @@
 ---
 title: ContentType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of content display
 type: docs
-weight: 440
+weight: 210
 url: /net/aspose.omr.generation.config.enums/contenttype/
 ---
 ## ContentType enumeration

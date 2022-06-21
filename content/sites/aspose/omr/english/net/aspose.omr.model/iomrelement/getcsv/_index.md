@@ -1,7 +1,7 @@
 ---
 title: GetCsv
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Forms answers as a comma-separated values string
 type: docs
 weight: 40
 url: /net/aspose.omr.model/iomrelement/getcsv/

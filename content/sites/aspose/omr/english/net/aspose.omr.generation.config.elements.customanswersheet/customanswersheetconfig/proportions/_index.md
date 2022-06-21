@@ -1,7 +1,7 @@
 ---
 title: Proportions
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Width ratio of each column inside it
 type: docs
 weight: 90
 url: /net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/proportions/

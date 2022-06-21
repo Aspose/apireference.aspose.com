@@ -1,23 +1,25 @@
 ---
 title: GenerateTemplate
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Creates a template .omr and template image based on MemoryStream
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.omr.api/omrengine/generatetemplate/
 ---
-## OmrEngine.GenerateTemplate method (1 of 8)
+## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection) {#generatetemplate_2}
 
 Creates a template (.omr) and template image based on MemoryStream
 
 ```csharp
-public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings settings)
+public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings settings, 
+    ImageCollection userImages = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | MemoryStream | The stream which contains markup lines |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
+| userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 
 ### Return Value
 
@@ -27,23 +29,25 @@ Generation result
 
 * class [GenerationResult](../../../aspose.omr.generation/generationresult)
 * class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
+* class [ImageCollection](../../imagecollection)
 * class [OmrEngine](../../omrengine)
 * namespace [Aspose.OMR.Api](../../omrengine)
 * assembly [Aspose.OMR](../../../)
 
 ---
 
-## OmrEngine.GenerateTemplate method (2 of 8)
+## GenerateTemplate(MemoryStream, ImageCollection) {#generatetemplate_1}
 
 Creates a template (.omr) and template image based on MemoryStream
 
 ```csharp
-public GenerationResult GenerateTemplate(MemoryStream stream)
+public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | MemoryStream | The stream which contains markup lines |
+| userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 
 ### Return Value
 
@@ -52,24 +56,27 @@ Generation result
 ### See Also
 
 * class [GenerationResult](../../../aspose.omr.generation/generationresult)
+* class [ImageCollection](../../imagecollection)
 * class [OmrEngine](../../omrengine)
 * namespace [Aspose.OMR.Api](../../omrengine)
 * assembly [Aspose.OMR](../../../)
 
 ---
 
-## OmrEngine.GenerateTemplate method (3 of 8)
+## GenerateTemplate(string[], GlobalPageSettings, ImageCollection) {#generatetemplate_7}
 
 Creates a template (.omr) and template image based on an array of the markup lines
 
 ```csharp
-public GenerationResult GenerateTemplate(string[] markupLines, GlobalPageSettings settings)
+public GenerationResult GenerateTemplate(string[] markupLines, GlobalPageSettings settings, 
+    ImageCollection userImages = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | markupLines | String[] | Array of the markup lines |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
+| userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 
 ### Return Value
 
@@ -79,23 +86,25 @@ Generation result
 
 * class [GenerationResult](../../../aspose.omr.generation/generationresult)
 * class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
+* class [ImageCollection](../../imagecollection)
 * class [OmrEngine](../../omrengine)
 * namespace [Aspose.OMR.Api](../../omrengine)
 * assembly [Aspose.OMR](../../../)
 
 ---
 
-## OmrEngine.GenerateTemplate method (4 of 8)
+## GenerateTemplate(string[], ImageCollection) {#generatetemplate_6}
 
 Creates a template (.omr) and template image based on an array of the markup lines
 
 ```csharp
-public GenerationResult GenerateTemplate(string[] markupLines)
+public GenerationResult GenerateTemplate(string[] markupLines, ImageCollection userImages = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | markupLines | String[] | Array of the markup lines |
+| userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 
 ### Return Value
 
@@ -104,13 +113,14 @@ Generation result
 ### See Also
 
 * class [GenerationResult](../../../aspose.omr.generation/generationresult)
+* class [ImageCollection](../../imagecollection)
 * class [OmrEngine](../../omrengine)
 * namespace [Aspose.OMR.Api](../../omrengine)
 * assembly [Aspose.OMR](../../../)
 
 ---
 
-## OmrEngine.GenerateTemplate method (5 of 8)
+## GenerateTemplate(string, GlobalPageSettings) {#generatetemplate_4}
 
 Creates a template (.omr) and template image based on text markup
 
@@ -137,7 +147,7 @@ Generation result
 
 ---
 
-## OmrEngine.GenerateTemplate method (6 of 8)
+## GenerateTemplate(string) {#generatetemplate_3}
 
 Creates a template (.omr) and template image based on text markup
 
@@ -162,7 +172,7 @@ Generation result
 
 ---
 
-## OmrEngine.GenerateTemplate method (7 of 8)
+## GenerateTemplate(string, string[]) {#generatetemplate_5}
 
 Creates a template (.omr) and template image based on text markup
 
@@ -188,18 +198,20 @@ Generation result
 
 ---
 
-## OmrEngine.GenerateTemplate method (8 of 8)
+## GenerateTemplate(TemplateConfig, GlobalPageSettings, ImageCollection) {#generatetemplate}
 
 Creates a template (.omr) and template image based on Template object
 
 ```csharp
-public GenerationResult GenerateTemplate(TemplateConfig config, GlobalPageSettings settings)
+public GenerationResult GenerateTemplate(TemplateConfig config, GlobalPageSettings settings, 
+    ImageCollection userImages = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | config | TemplateConfig | Template object that represent all elements |
 | settings | GlobalPageSettings | global settings used in all template generation |
+| userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 
 ### Return Value
 
@@ -210,6 +222,7 @@ Generation result
 * class [GenerationResult](../../../aspose.omr.generation/generationresult)
 * class [TemplateConfig](../../../aspose.omr.generation.config/templateconfig)
 * class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
+* class [ImageCollection](../../imagecollection)
 * class [OmrEngine](../../omrengine)
 * namespace [Aspose.OMR.Api](../../omrengine)
 * assembly [Aspose.OMR](../../../)

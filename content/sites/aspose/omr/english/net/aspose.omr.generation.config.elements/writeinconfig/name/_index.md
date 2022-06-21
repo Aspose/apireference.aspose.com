@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Name of Write-In area and name of picture when recognized.
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements/writeinconfig/name/

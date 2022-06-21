@@ -1,7 +1,7 @@
 ---
 title: FontStyle
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The style of the text
 type: docs
 weight: 60
 url: /net/aspose.omr.generation/globalpagesettings/fontstyle/

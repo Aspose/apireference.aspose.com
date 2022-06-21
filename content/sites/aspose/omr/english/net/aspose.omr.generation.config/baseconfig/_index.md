@@ -1,9 +1,9 @@
 ---
 title: BaseConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Abstraction which contains required fields for each omr element
 type: docs
-weight: 60
+weight: 130
 url: /net/aspose.omr.generation.config/baseconfig/
 ---
 ## BaseConfig class

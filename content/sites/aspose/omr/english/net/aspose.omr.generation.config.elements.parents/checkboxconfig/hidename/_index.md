@@ -1,7 +1,7 @@
 ---
 title: HideName
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Control display of CheckBox name in template
 type: docs
 weight: 70
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/hidename/

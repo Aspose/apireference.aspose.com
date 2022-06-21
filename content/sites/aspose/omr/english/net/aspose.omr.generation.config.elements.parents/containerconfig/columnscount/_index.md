@@ -1,7 +1,7 @@
 ---
 title: ColumnsCount
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Amount of columns inside of container. Divided on equal columns. Obsolete version of Proportionsaspose.omr.generation.config.elements.parents/containerconfig/proportions
 type: docs
 weight: 60
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/columnscount/

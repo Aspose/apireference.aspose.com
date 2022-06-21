@@ -1,12 +1,36 @@
 ---
 title: GetCsv
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Form CSV string with recognition results as MemoryStream
 type: docs
 weight: 60
 url: /net/aspose.omr.model/recognitionresult/getcsv/
 ---
-## RecognitionResult.GetCsv method
+## GetCsv(Encoding) {#getcsv}
+
+Form CSV string with recognition results as MemoryStream
+
+```csharp
+public byte[] GetCsv(Encoding encoding)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| encoding | Encoding | Encoding with which we encode CSV string |
+
+### Return Value
+
+Recognition result as array of bytes
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
+
+---
+
+## GetCsv() {#getcsv_1}
 
 Form CSV string with recognition results
 

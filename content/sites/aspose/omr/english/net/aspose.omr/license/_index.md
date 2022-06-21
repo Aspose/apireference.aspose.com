@@ -1,9 +1,9 @@
 ---
 title: License
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Provides methods to license the component.
 type: docs
-weight: 600
+weight: 20
 url: /net/aspose.omr/license/
 ---
 ## License class
@@ -18,7 +18,7 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [License](license)() | The default constructor. |
+| [License](license)() | Initializes a new instance of this class. |
 
 ## Properties
 
@@ -30,8 +30,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](../../aspose.omr/license/setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.omr/license/setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.omr/license/setlicense#setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.omr/license/setlicense#setlicense_1)(string) | Licenses the component. |
 
 ### Examples
 

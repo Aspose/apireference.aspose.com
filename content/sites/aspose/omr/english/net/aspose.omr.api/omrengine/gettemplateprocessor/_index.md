@@ -1,12 +1,38 @@
 ---
 title: GetTemplateProcessor
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Creates the TemplateProcessoraspose.omr.api/templateprocessor instance that allows working with specified template.
 type: docs
 weight: 50
 url: /net/aspose.omr.api/omrengine/gettemplateprocessor/
 ---
-## OmrEngine.GetTemplateProcessor method
+## GetTemplateProcessor(MemoryStream, Encoding) {#gettemplateprocessor}
+
+Creates the [`TemplateProcessor`](../../templateprocessor) instance that allows working with specified template.
+
+```csharp
+public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Encoding textEncoding)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| templateContent | MemoryStream | Memory stream with template text content |
+| textEncoding | Encoding | Template content encoding |
+
+### Return Value
+
+The [`TemplateProcessor`](../../templateprocessor) instance
+
+### See Also
+
+* class [TemplateProcessor](../../templateprocessor)
+* class [OmrEngine](../../omrengine)
+* namespace [Aspose.OMR.Api](../../omrengine)
+* assembly [Aspose.OMR](../../../)
+
+---
+
+## GetTemplateProcessor(string) {#gettemplateprocessor_1}
 
 Creates the [`TemplateProcessor`](../../templateprocessor) instance that allows working with specified template.
 

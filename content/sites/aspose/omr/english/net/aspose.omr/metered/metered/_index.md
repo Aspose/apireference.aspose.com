@@ -1,14 +1,14 @@
 ---
 title: Metered
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Initializes a new instance of this class.
 type: docs
 weight: 10
 url: /net/aspose.omr/metered/metered/
 ---
 ## Metered constructor
 
-The default constructor.
+Initializes a new instance of this class.
 
 ```csharp
 public Metered()

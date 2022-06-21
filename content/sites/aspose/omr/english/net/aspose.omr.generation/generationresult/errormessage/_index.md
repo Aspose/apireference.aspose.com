@@ -1,7 +1,7 @@
 ---
 title: ErrorMessage
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the message describing error. Empty if no errors occurred.
 type: docs
 weight: 20
 url: /net/aspose.omr.generation/generationresult/errormessage/

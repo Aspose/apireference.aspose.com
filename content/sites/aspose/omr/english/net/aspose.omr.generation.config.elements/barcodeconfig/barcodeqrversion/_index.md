@@ -1,7 +1,7 @@
 ---
 title: BarcodeQRVersion
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The QR version of QR code
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config.elements/barcodeconfig/barcodeqrversion/

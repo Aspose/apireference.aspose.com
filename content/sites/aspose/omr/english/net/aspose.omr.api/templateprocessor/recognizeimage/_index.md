@@ -1,12 +1,12 @@
 ---
 title: RecognizeImage
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Recognizes image
 type: docs
 weight: 30
 url: /net/aspose.omr.api/templateprocessor/recognizeimage/
 ---
-## TemplateProcessor.RecognizeImage method (1 of 2)
+## RecognizeImage(string, int) {#recognizeimage_1}
 
 Recognizes image
 
@@ -32,7 +32,7 @@ The recognition result
 
 ---
 
-## TemplateProcessor.RecognizeImage method (2 of 2)
+## RecognizeImage(MemoryStream, int) {#recognizeimage}
 
 Recognizing image from memory stream
 

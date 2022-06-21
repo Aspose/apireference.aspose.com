@@ -1,9 +1,9 @@
 ---
 title: GlobalPageSettings
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The global settings applicable to all page elements.
 type: docs
-weight: 560
+weight: 110
 url: /net/aspose.omr.generation/globalpagesettings/
 ---
 ## GlobalPageSettings class

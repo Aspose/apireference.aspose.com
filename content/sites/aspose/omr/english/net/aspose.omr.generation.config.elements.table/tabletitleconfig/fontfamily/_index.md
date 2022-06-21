@@ -1,7 +1,7 @@
 ---
 title: FontFamily
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The font family of the text
 type: docs
 weight: 90
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily/

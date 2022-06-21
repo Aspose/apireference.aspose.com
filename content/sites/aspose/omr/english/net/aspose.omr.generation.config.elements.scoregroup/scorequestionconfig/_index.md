@@ -1,9 +1,9 @@
 ---
 title: ScoreQuestionConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represent ScoreQuestion element
 type: docs
-weight: 300
+weight: 490
 url: /net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/
 ---
 ## ScoreQuestionConfig class

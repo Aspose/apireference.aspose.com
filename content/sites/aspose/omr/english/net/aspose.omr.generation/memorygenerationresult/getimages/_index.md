@@ -1,7 +1,7 @@
 ---
 title: GetImages
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Get .png files from the GenerationResultaspose.omr.generation/generationresult as MemoryStream.
 type: docs
 weight: 20
 url: /net/aspose.omr.generation/memorygenerationresult/getimages/

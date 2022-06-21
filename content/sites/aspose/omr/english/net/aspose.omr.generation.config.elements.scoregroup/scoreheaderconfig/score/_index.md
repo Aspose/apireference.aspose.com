@@ -1,7 +1,7 @@
 ---
 title: Score
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Score modifier
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/score/

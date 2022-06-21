@@ -1,7 +1,7 @@
 ---
 title: HeaderType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The type of header
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/headertype/

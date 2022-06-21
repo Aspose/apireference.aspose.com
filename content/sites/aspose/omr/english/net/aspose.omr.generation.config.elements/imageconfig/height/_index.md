@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Height of the image
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements/imageconfig/height/

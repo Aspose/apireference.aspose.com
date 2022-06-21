@@ -1,7 +1,7 @@
 ---
 title: TextAlignment
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Text alignment indicating where text should be drawn on page
 type: docs
 weight: 60
 url: /net/aspose.omr.generation.config.elements/textconfig/textalignment/

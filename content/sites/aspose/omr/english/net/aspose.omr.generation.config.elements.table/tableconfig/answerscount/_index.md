@@ -1,7 +1,7 @@
 ---
 title: AnswersCount
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Number of answerscolumns used in table. Must correlate with AnswerConfigaspose.omr.generation.config.elements.parents/answerconfigQuestionConfigaspose.omr.generation.config.elements.table/questionconfig
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements.table/tableconfig/answerscount/

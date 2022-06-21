@@ -1,7 +1,7 @@
 ---
 title: TopPadding
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Amount of pixels. Can be used to add extra space above element. Or remove existing space by setting a negative valuee.g. -40
 type: docs
 weight: 50
 url: /net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/toppadding/

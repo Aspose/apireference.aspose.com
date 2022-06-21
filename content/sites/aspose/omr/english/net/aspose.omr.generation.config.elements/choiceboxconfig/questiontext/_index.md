@@ -1,7 +1,7 @@
 ---
 title: QuestionText
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets question text for ChoiceBox element
 type: docs
 weight: 70
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/questiontext/

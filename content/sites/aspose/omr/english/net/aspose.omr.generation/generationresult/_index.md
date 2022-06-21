@@ -1,9 +1,9 @@
 ---
 title: GenerationResult
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The result of the template generation. Contains the template image and the template json that describes elements location on the image.
 type: docs
-weight: 550
+weight: 100
 url: /net/aspose.omr.generation/generationresult/
 ---
 ## GenerationResult class
