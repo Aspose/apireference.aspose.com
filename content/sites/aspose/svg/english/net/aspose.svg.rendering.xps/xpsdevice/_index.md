@@ -3,7 +3,7 @@ title: XpsDevice
 second_title: Aspose.SVG for .NET API Reference
 description: Represents rendering to a xps document.
 type: docs
-weight: 2970
+weight: 2990
 url: /net/aspose.svg.rendering.xps/xpsdevice/
 ---
 ## XpsDevice class

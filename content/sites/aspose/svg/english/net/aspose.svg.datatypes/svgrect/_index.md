@@ -3,7 +3,7 @@ title: SVGRect
 second_title: Aspose.SVG for .NET API Reference
 description: Represents rectangular geometry. Rectangles are defined as consisting of a xy coordinate pair identifying a minimum X value a minimum Y value and a width and height which are usually constrained to be non-negative.
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.svg.datatypes/svgrect/
 ---
 ## SVGRect class

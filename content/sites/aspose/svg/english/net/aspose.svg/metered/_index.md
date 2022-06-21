@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.SVG for .NET API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 2140
+weight: 2160
 url: /net/aspose.svg/metered/
 ---
 ## Metered class

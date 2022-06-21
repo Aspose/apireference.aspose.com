@@ -3,7 +3,7 @@ title: CSSEngineMode
 second_title: Aspose.SVG for .NET API Reference
 description: Specifies CSSEngine mode
 type: docs
-weight: 470
+weight: 480
 url: /net/aspose.svg.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration

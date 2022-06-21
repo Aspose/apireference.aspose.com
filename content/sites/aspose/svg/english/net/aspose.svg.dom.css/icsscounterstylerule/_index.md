@@ -3,7 +3,7 @@ title: ICSSCounterStyleRule
 second_title: Aspose.SVG for .NET API Reference
 description: The counter-style rule allows authors to define a custom counter style.
 type: docs
-weight: 540
+weight: 550
 url: /net/aspose.svg.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface

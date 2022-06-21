@@ -3,7 +3,7 @@ title: IChildNode
 second_title: Aspose.SVG for .NET API Reference
 description: Defines IChildNode./ichildnode interface that should be implemented by Node./node that can have a parent.
 type: docs
-weight: 1030
+weight: 1040
 url: /net/aspose.svg.dom/ichildnode/
 ---
 ## IChildNode interface

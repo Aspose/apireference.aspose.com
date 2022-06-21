@@ -3,7 +3,7 @@ title: ISVGZoomAndPan
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGZoomAndPan interface defines attribute zoomAndPan and associated constants.
 type: docs
-weight: 2030
+weight: 2050
 url: /net/aspose.svg/isvgzoomandpan/
 ---
 ## ISVGZoomAndPan interface

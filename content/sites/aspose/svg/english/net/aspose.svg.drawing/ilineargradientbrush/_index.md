@@ -3,7 +3,7 @@ title: ILinearGradientBrush
 second_title: Aspose.SVG for .NET API Reference
 description: Defines brush interface with a linear gradient.
 type: docs
-weight: 1440
+weight: 1460
 url: /net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface

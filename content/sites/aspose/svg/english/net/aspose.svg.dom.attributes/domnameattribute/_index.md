@@ -3,7 +3,7 @@ title: DOMNameAttribute
 second_title: Aspose.SVG for .NET API Reference
 description: Specifies the official DOM object name as it defined by the W3C.
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.svg.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class

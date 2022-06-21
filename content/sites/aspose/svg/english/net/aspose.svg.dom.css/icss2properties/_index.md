@@ -3,7 +3,7 @@ title: ICSS2Properties
 second_title: Aspose.SVG for .NET API Reference
 description: Provides interface for CSS2 properties set values manipulation in the context of certain HTML element
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.svg.dom.css/icss2properties/
 ---
 ## ICSS2Properties interface

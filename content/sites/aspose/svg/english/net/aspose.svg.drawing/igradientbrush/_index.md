@@ -3,7 +3,7 @@ title: IGradientBrush
 second_title: Aspose.SVG for .NET API Reference
 description: Declare methods for getting common properties of gradient brushes.
 type: docs
-weight: 1420
+weight: 1440
 url: /net/aspose.svg.drawing/igradientbrush/
 ---
 ## IGradientBrush interface

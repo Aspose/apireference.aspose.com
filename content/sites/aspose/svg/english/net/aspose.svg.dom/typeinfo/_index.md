@@ -3,7 +3,7 @@ title: TypeInfo
 second_title: Aspose.SVG for .NET API Reference
 description: The TypeInfo represents a type referenced from Element or Attr nodes specified in the schemas associated with the document.
 type: docs
-weight: 1280
+weight: 1290
 url: /net/aspose.svg.dom/typeinfo/
 ---
 ## TypeInfo class

@@ -3,7 +3,7 @@ title: Renderer
 second_title: Aspose.SVG for .NET API Reference
 description: Represents a base class for all renderers and implemnts IDisposable interface.
 type: docs
-weight: 2910
+weight: 2930
 url: /net/aspose.svg.rendering/renderer/
 ---
 ## Renderer class

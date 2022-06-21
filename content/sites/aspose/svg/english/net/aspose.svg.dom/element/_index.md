@@ -3,7 +3,7 @@ title: Element
 second_title: Aspose.SVG for .NET API Reference
 description: The Element interface represents an element in an HTML or XML document.
 type: docs
-weight: 840
+weight: 850
 url: /net/aspose.svg.dom/element/
 ---
 ## Element class
