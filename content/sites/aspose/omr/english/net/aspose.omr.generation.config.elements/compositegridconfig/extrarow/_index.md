@@ -1,7 +1,7 @@
 ---
 title: ExtraRow
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Column-specific values that will be placed on top of default ones - Valuesaspose.omr.generation.config.elements/compositegridconfig/values. Presented as two dimensional array. First - row. Second - column. Each string represent text inside bubble. if string is null no bubble will be placed. Amount of columns have to be equal to ColumnsCountaspose.omr.generation.config.elements/compositegridconfig/columnscount
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/extrarow/

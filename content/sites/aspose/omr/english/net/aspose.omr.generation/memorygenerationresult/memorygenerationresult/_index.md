@@ -1,7 +1,7 @@
 ---
 title: MemoryGenerationResult
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Initialize instance of the wrapper.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation/memorygenerationresult/memorygenerationresult/

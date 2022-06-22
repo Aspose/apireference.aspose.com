@@ -3,7 +3,7 @@ title: FontMatchingProperties
 second_title: Aspose.SVG for .NET API Reference
 description: This class contains properties which describe the font being matched.
 type: docs
-weight: 2710
+weight: 2730
 url: /net/aspose.svg.rendering.fonts/fontmatchingproperties/
 ---
 ## FontMatchingProperties class

@@ -1,9 +1,9 @@
 ---
 title: ContentConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represent content element. Can be used as child element in the table.
 type: docs
-weight: 110
+weight: 330
 url: /net/aspose.omr.generation.config.elements/contentconfig/
 ---
 ## ContentConfig class

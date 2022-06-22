@@ -1,7 +1,7 @@
 ---
 title: BlockTopPadding
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Amount of pixels to be placed between Blocks.
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding/

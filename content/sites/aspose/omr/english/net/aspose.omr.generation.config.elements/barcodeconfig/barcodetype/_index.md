@@ -1,7 +1,7 @@
 ---
 title: BarcodeType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The type of barcode element
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements/barcodeconfig/barcodetype/
@@ -11,7 +11,7 @@ url: /net/aspose.omr.generation.config.elements/barcodeconfig/barcodetype/
 The type of barcode element
 
 ```csharp
-public     BarcodeType { get; set; }
+public BaseEncodeType BarcodeType { get; set; }
 ```
 
 ### See Also

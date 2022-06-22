@@ -1,9 +1,9 @@
 ---
 title: GridHeaderTypeEnum
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The type of grid header
 type: docs
-weight: 450
+weight: 220
 url: /net/aspose.omr.generation.config.enums/gridheadertypeenum/
 ---
 ## GridHeaderTypeEnum enumeration
@@ -14,7 +14,7 @@ The type of grid header
 public enum GridHeaderTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

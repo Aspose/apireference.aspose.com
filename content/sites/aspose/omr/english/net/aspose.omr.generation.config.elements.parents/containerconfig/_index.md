@@ -1,9 +1,9 @@
 ---
 title: ContainerConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents Container element.
 type: docs
-weight: 230
+weight: 540
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/
 ---
 ## ContainerConfig class
@@ -18,7 +18,7 @@ public class ContainerConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [ContainerConfig](containerconfig)() | The default constructor. |
+| [ContainerConfig](containerconfig)() | Create default instance with default values |
 
 ## Properties
 

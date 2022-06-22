@@ -1,7 +1,7 @@
 ---
 title: Images
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the list of Write-in fild Images
 type: docs
 weight: 20
 url: /net/aspose.omr.model/recognitionresult/images/

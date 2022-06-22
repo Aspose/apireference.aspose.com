@@ -1,7 +1,7 @@
 ---
 title: YPosition
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Grid Y position on page overrides the alignment
 type: docs
 weight: 150
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/yposition/

@@ -1,9 +1,9 @@
 ---
 title: BubbleArrayConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Display possible answers as options each inside circlebubble. Can only be used inside CustomRowConfig./customrowconfig
 type: docs
-weight: 120
+weight: 580
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/
 ---
 ## BubbleArrayConfig class

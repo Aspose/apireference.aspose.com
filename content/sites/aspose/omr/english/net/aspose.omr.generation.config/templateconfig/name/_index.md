@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Template name
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config/templateconfig/name/

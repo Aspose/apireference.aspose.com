@@ -1,9 +1,9 @@
 ---
 title: BlockConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents Block element.
 type: docs
-weight: 210
+weight: 520
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/
 ---
 ## BlockConfig class
@@ -18,7 +18,7 @@ public class BlockConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [BlockConfig](blockconfig)() | The default constructor. |
+| [BlockConfig](blockconfig)() | Create instance with default values |
 
 ## Properties
 

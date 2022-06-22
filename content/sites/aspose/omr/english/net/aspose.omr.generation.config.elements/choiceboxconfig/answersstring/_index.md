@@ -1,7 +1,7 @@
 ---
 title: AnswersString
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets answer strings for ChoiceBox element
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/answersstring/

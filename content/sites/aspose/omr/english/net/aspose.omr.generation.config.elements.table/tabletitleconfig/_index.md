@@ -1,9 +1,9 @@
 ---
 title: TableTitleConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents TableTitle element. Display title. Used with TableConfig./tableconfig
 type: docs
-weight: 360
+weight: 450
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/
 ---
 ## TableTitleConfig class
@@ -18,7 +18,7 @@ public class TableTitleConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [TableTitleConfig](tabletitleconfig)() | The default constructor. |
+| [TableTitleConfig](tabletitleconfig)() | Create instance with default values |
 
 ## Properties
 
@@ -26,6 +26,19 @@ public class TableTitleConfig : BaseConfig
 | --- | --- |
 | override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name) { get; set; } | Text value of title |
 | override [Type](../../aspose.omr.generation.config.elements.table/tabletitleconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [BackgroundColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor) | The background color of the table title |
+| [BorderColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor) | Color of the border |
+| [BorderSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize) | The size of the border |
+| [BorderType](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype) | Border type |
+| [Color](../../aspose.omr.generation.config.elements.table/tabletitleconfig/color) | The color of the text |
+| [FontFamily](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily) | The font family of the text |
+| [FontSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize) | The size of the text font |
+| [FontStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontstyle) | The style of the text |
 
 ### See Also
 

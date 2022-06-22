@@ -1,7 +1,7 @@
 ---
 title: MultipageTemplateImages
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the collection of generated images for a multi-page template
 type: docs
 weight: 60
 url: /net/aspose.omr.generation/generationresult/multipagetemplateimages/

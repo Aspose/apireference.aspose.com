@@ -1,9 +1,9 @@
 ---
 title: GenerationResult
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The result of the template generation. Contains the template image and the template json that describes elements location on the image.
 type: docs
-weight: 550
+weight: 100
 url: /net/aspose.omr.generation/generationresult/
 ---
 ## GenerationResult class
@@ -31,11 +31,11 @@ public class GenerationResult
 | [Save](../../aspose.omr.generation/generationresult/save)(string, string) | Save template images and template to the specified folder |
 | [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | Save template images and template to the specified folder Template image saved as pdf |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| [MultipageTemplateImages](multipagetemplateimages) | Gets or sets the collection of generated images for a multi-page template |
+| [MultipageTemplateImages](../../aspose.omr.generation/generationresult/multipagetemplateimages) | Gets or sets the collection of generated images for a multi-page template |
 
 ### See Also
 

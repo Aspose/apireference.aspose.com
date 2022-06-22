@@ -1,7 +1,7 @@
 ---
 title: GridOrientation
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Grid orientation horizontal or vertical. Indicates how child elements should be positioned
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements/gridconfig/gridorientation/

@@ -1,7 +1,7 @@
 ---
 title: Alignment
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Alignment of content string inside parent
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements/contentconfig/alignment/

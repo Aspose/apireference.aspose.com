@@ -1,7 +1,7 @@
 ---
 title: AnswersCount
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The number of answer options for each question in the answer sheet.
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/answerscount/

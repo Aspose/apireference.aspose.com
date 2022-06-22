@@ -1,12 +1,12 @@
 ---
 title: RecognizeImage
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Recognizes image
 type: docs
 weight: 30
 url: /net/aspose.omr.api/templateprocessor/recognizeimage/
 ---
-## TemplateProcessor.RecognizeImage method (1 of 2)
+## RecognizeImage(string, int) {#recognizeimage_1}
 
 Recognizes image
 
@@ -19,7 +19,7 @@ public RecognitionResult RecognizeImage(string imagePath, int recognitionThresho
 | imagePath | String | The path to the image to recognize |
 | recognitionThreshold | Int32 | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
 
-## Return Value
+### Return Value
 
 The recognition result
 
@@ -32,7 +32,7 @@ The recognition result
 
 ---
 
-## TemplateProcessor.RecognizeImage method (2 of 2)
+## RecognizeImage(MemoryStream, int) {#recognizeimage}
 
 Recognizing image from memory stream
 
@@ -45,7 +45,7 @@ public RecognitionResult RecognizeImage(MemoryStream stream, int recognitionThre
 | stream | MemoryStream | Memory stream of image. |
 | recognitionThreshold | Int32 | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
 
-## Return Value
+### Return Value
 
 The recognition result
 

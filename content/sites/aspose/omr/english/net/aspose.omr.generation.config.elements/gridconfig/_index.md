@@ -1,9 +1,9 @@
 ---
 title: GridConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represent table of bubbles. Question identifier and multiple answers to choose Line of answers can be horizontal or vertical
 type: docs
-weight: 170
+weight: 360
 url: /net/aspose.omr.generation.config.elements/gridconfig/
 ---
 ## GridConfig class
@@ -18,7 +18,7 @@ public class GridConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [GridConfig](gridconfig)() | The default constructor. |
+| [GridConfig](gridconfig)() | Create instance using default values |
 
 ## Properties
 
@@ -36,6 +36,13 @@ public class GridConfig : BaseConfig
 | override [Type](../../aspose.omr.generation.config.elements/gridconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 | [XPosition](../../aspose.omr.generation.config.elements/gridconfig/xposition) { get; set; } | Grid X position on page, overrides the alignment |
 | [YPosition](../../aspose.omr.generation.config.elements/gridconfig/yposition) { get; set; } | Grid Y position on page, overrides the alignment |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [BubbleSize](../../aspose.omr.generation.config.elements/gridconfig/bubblesize) | The size of a bubble |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/gridconfig/verticalmargin) | The margin between lines |
 
 ### See Also
 

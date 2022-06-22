@@ -1,9 +1,9 @@
 ---
 title: ImageConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents Image element. Inserted from file system using provided path
 type: docs
-weight: 180
+weight: 370
 url: /net/aspose.omr.generation.config.elements/imageconfig/
 ---
 ## ImageConfig class
@@ -18,7 +18,7 @@ public class ImageConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [ImageConfig](imageconfig)() | The default constructor. |
+| [ImageConfig](imageconfig)() | Create instance with default values |
 
 ## Properties
 
@@ -31,6 +31,12 @@ public class ImageConfig : BaseConfig
 | [Width](../../aspose.omr.generation.config.elements/imageconfig/width) { get; set; } | Width of the image |
 | [XPosition](../../aspose.omr.generation.config.elements/imageconfig/xposition) { get; set; } | Grid X position on page, overrides the alignment |
 | [YPosition](../../aspose.omr.generation.config.elements/imageconfig/yposition) { get; set; } | Grid Y position on page, overrides the alignment |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [ImageAlign](../../aspose.omr.generation.config.elements/imageconfig/imagealign) | The Image alignment on page |
 
 ### See Also
 

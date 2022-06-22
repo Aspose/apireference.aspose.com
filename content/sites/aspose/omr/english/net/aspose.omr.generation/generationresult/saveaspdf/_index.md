@@ -1,7 +1,7 @@
 ---
 title: SaveAsPdf
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Save template images and template to the specified folder Template image saved as pdf
 type: docs
 weight: 80
 url: /net/aspose.omr.generation/generationresult/saveaspdf/

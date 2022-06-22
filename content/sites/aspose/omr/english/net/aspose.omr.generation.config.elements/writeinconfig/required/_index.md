@@ -1,7 +1,7 @@
 ---
 title: Required
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Is clipping of write-in field required
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config.elements/writeinconfig/required/

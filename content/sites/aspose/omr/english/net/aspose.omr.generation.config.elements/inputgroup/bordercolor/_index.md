@@ -1,7 +1,7 @@
 ---
 title: BorderColor
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Color of border
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements/inputgroup/bordercolor/

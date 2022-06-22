@@ -1,7 +1,7 @@
 ---
 title: SectionsCount
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Amount of choice boxes inside grid i.e. columns in top-down grid
 type: docs
 weight: 100
 url: /net/aspose.omr.generation.config.elements/gridconfig/sectionscount/

@@ -1,7 +1,7 @@
 ---
 title: SortWeight
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Higher the value - latter in csv element will appear
 type: docs
 weight: 20
 url: /net/aspose.omr.model/iomrelement/sortweight/

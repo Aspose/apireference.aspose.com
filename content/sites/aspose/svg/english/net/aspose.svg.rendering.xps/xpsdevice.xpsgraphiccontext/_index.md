@@ -3,7 +3,7 @@ title: XpsDevice.XpsGraphicContext
 second_title: Aspose.SVG for .NET API Reference
 description: Holds current graphics control parameters for the XpsDevice. These parameters define the global framework within which the graphics operators execute.
 type: docs
-weight: 2980
+weight: 3000
 url: /net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/
 ---
 ## XpsDevice.XpsGraphicContext class

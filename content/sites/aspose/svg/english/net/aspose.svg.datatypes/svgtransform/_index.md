@@ -3,7 +3,7 @@ title: SVGTransform
 second_title: Aspose.SVG for .NET API Reference
 description: SVGTransform is the interface for one of the component transformations within an SVGTransformList thus an SVGTransform object corresponds to a single component e.g. scale or matrix within a transform attribute specification.
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.svg.datatypes/svgtransform/
 ---
 ## SVGTransform class

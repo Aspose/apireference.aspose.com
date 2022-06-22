@@ -1,7 +1,7 @@
 ---
 title: Column
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Column position in table. first column - 1
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/column/

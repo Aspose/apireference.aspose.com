@@ -3,7 +3,7 @@ title: IGlobalEventHandlers
 second_title: Aspose.SVG for .NET API Reference
 description: Represents interface that must be inherited by all element that is supported system event handling
 type: docs
-weight: 1070
+weight: 1080
 url: /net/aspose.svg.dom/iglobaleventhandlers/
 ---
 ## IGlobalEventHandlers interface

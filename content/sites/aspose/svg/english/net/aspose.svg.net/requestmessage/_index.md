@@ -3,7 +3,7 @@ title: RequestMessage
 second_title: Aspose.SVG for .NET API Reference
 description: Represents a request message.
 type: docs
-weight: 2360
+weight: 2380
 url: /net/aspose.svg.net/requestmessage/
 ---
 ## RequestMessage class

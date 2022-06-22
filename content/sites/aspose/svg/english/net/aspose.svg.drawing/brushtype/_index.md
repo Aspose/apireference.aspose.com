@@ -3,7 +3,7 @@ title: BrushType
 second_title: Aspose.SVG for .NET API Reference
 description: Specifies the type of brush.
 type: docs
-weight: 1380
+weight: 1390
 url: /net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration

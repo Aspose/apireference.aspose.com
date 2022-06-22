@@ -2,6 +2,7 @@
 title: Семейство продуктов Aspose.Cells
 additionalTitle: Ссылки на API Aspose
 type: docs
+description: "Aspose.Cells — это простой в использовании API для создания, преобразования и обработки файлов Excel. Создайте свое приложение на основе Excel на платформах .NET, Java, C++ и других."
 weight: 10
 url: /ru/
 ---

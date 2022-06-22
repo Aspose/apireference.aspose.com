@@ -1,7 +1,7 @@
 ---
 title: BorderSize
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The size of the border
 type: docs
 weight: 60
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize/

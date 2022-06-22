@@ -3,7 +3,7 @@ title: MutationObserver
 second_title: Aspose.SVG for .NET API Reference
 description: A MutationObserver./mutationobserver object can be used to observe mutations to the tree of Node../aspose.svg.dom/node.
 type: docs
-weight: 1120
+weight: 1130
 url: /net/aspose.svg.dom.mutations/mutationobserver/
 ---
 ## MutationObserver class

@@ -1,7 +1,7 @@
 ---
 title: HeaderBorderColor
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Square border color
 type: docs
 weight: 50
 url: /net/aspose.omr.generation.config.elements/gridconfig/headerbordercolor/

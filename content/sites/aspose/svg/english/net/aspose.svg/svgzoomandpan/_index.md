@@ -3,7 +3,7 @@ title: SVGZoomAndPan
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGZoomAndPan enumeration defines attribute zoomAndPan and associated constants.
 type: docs
-weight: 3520
+weight: 3540
 url: /net/aspose.svg/svgzoomandpan/
 ---
 ## SVGZoomAndPan enumeration

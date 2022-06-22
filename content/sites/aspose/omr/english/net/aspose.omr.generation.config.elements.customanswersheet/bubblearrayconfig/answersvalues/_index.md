@@ -1,7 +1,7 @@
 ---
 title: AnswersValues
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Each value represent symbol inside of bubble. Must have same count as AnswersCount Example new string A B C D Example new string 1 2 3 4
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues/

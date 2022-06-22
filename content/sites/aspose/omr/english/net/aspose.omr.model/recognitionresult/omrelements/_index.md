@@ -1,7 +1,7 @@
 ---
 title: OmrElements
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the list of OMR elements on page
 type: docs
 weight: 30
 url: /net/aspose.omr.model/recognitionresult/omrelements/

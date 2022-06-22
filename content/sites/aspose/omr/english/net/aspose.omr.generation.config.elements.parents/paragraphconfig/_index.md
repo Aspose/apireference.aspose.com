@@ -1,9 +1,9 @@
 ---
 title: ParagraphConfig
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Represents Paragraph element. Paragraph can consist of both text and text with an image. The image is specified by coordinates x y.
 type: docs
-weight: 250
+weight: 560
 url: /net/aspose.omr.generation.config.elements.parents/paragraphconfig/
 ---
 ## ParagraphConfig class
@@ -18,7 +18,7 @@ public class ParagraphConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [ParagraphConfig](paragraphconfig)() | The default constructor. |
+| [ParagraphConfig](paragraphconfig)() | Create instance with default values |
 
 ## Properties
 

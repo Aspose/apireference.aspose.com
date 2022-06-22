@@ -1,7 +1,7 @@
 ---
 title: QuestionName
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Gets or sets the Question Name
 type: docs
 weight: 10
 url: /net/aspose.omr.model/iomrelement/questionname/

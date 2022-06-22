@@ -1,9 +1,9 @@
 ---
 title: ContainerTypeEnum
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of ContainerConfig../aspose.omr.generation.config.elements.parents/containerconfig
 type: docs
-weight: 430
+weight: 200
 url: /net/aspose.omr.generation.config.enums/containertypeenum/
 ---
 ## ContainerTypeEnum enumeration
@@ -14,7 +14,7 @@ Type of [`ContainerConfig`](../../aspose.omr.generation.config.elements.parents/
 public enum ContainerTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

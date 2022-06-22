@@ -3,7 +3,7 @@ title: ContentDispositionHeaderValue
 second_title: Aspose.SVG for .NET API Reference
 description: Represent Content-Disposition header value.
 type: docs
-weight: 2200
+weight: 2220
 url: /net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class

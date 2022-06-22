@@ -3,7 +3,7 @@ title: SVGUseElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGUseElement interface corresponds to the use element.
 type: docs
-weight: 3500
+weight: 3520
 url: /net/aspose.svg/svguseelement/
 ---
 ## SVGUseElement class

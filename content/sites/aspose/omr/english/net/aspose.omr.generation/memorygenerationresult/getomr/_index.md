@@ -1,7 +1,7 @@
 ---
 title: GetOmr
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Get content of .omr file from the GenerationResultaspose.omr.generation/generationresult as MemoryStream. By default text encoded in UTF8 encoding.
 type: docs
 weight: 30
 url: /net/aspose.omr.generation/memorygenerationresult/getomr/
@@ -18,7 +18,7 @@ public MemoryStream GetOmr(Encoding encoding = null)
 | --- | --- | --- |
 | encoding | Encoding | type of encoding which will be used to encode text into bytes |
 
-## Return Value
+### Return Value
 
 content of .omr file
 

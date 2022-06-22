@@ -1,9 +1,9 @@
 ---
 title: RecognitionResult
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The result of the image recognition. Contains all OMR elements with detailed recognition information and methods for results export.
 type: docs
-weight: 630
+weight: 40
 url: /net/aspose.omr.model/recognitionresult/
 ---
 ## RecognitionResult class
@@ -28,9 +28,15 @@ public class RecognitionResult
 
 | Name | Description |
 | --- | --- |
-| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv)() | Form CSV string with recognition results |
-| [GetJson](../../aspose.omr.model/recognitionresult/getjson)() | Form JSON string with recognition results |
-| [GetXml](../../aspose.omr.model/recognitionresult/getxml)() | Form XML string with recognition results |
+| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv#getcsv_1)() | Form CSV string with recognition results |
+| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv#getcsv)(Encoding) | Form CSV string with recognition results as MemoryStream |
+| [GetCsvAsStream](../../aspose.omr.model/recognitionresult/getcsvasstream)(Encoding) | Form CSV string with recognition results as MemoryStream |
+| [GetJson](../../aspose.omr.model/recognitionresult/getjson#getjson_1)() | Form JSON string with recognition results |
+| [GetJson](../../aspose.omr.model/recognitionresult/getjson#getjson)(Encoding) | Form JSON string with recognition results as MemoryStream |
+| [GetJsonAsStream](../../aspose.omr.model/recognitionresult/getjsonasstream)(Encoding) | Form JSON string with recognition results as MemoryStream |
+| [GetXml](../../aspose.omr.model/recognitionresult/getxml#getxml_1)() | Form XML string with recognition results |
+| [GetXml](../../aspose.omr.model/recognitionresult/getxml#getxml)(Encoding) | Form XML string with recognition results as MemoryStream |
+| [GetXmlAsStream](../../aspose.omr.model/recognitionresult/getxmlasstream)(Encoding) | Form XML string with recognition results as MemoryStream |
 
 ### See Also
 

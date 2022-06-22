@@ -1,7 +1,7 @@
 ---
 title: ImagesPaths
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Full paths to the images used in generation
 type: docs
 weight: 70
 url: /net/aspose.omr.generation/globalpagesettings/imagespaths/

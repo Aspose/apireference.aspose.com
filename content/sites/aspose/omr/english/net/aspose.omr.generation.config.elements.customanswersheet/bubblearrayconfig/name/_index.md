@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Name of bubble Array. Does not participate in displaying or generation of element
 type: docs
 weight: 70
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/name/

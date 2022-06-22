@@ -3,7 +3,7 @@ title: Aspose.OMR.Generation.Config
 second_title: Aspose.OMR for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.omr.generation.config/
 ---
 

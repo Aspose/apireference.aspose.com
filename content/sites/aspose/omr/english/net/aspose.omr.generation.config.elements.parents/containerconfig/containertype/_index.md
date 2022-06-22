@@ -1,7 +1,7 @@
 ---
 title: ContainerType
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Type of Container
 type: docs
 weight: 70
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/containertype/
