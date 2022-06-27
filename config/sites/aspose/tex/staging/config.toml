@@ -1,3 +1,5 @@
+baseURL = "https://reference2.aspose.com/tex"
+
 [[deployment.targets]]
 name = "Stage"
 URL = "s3://reference2.aspose.com/?prefix=tex/&region=us-west-2"
