@@ -1,17 +1,15 @@
 ---
-title: IgnoredCharacters
+title: AutoDenoising
 second_title: Aspose.OCR for .NET API Reference
-description: Sets blacklist for recognition symbols.
+description: 
 type: docs
-weight: 80
-url: /net/aspose.ocr/recognitionsettings/ignoredcharacters/
+weight: 40
+url: /net/aspose.ocr/recognitionsettings/autodenoising/
 ---
-## RecognitionSettings.IgnoredCharacters property
-
-Sets blacklist for recognition symbols.
+## RecognitionSettings.AutoDenoising property
 
 ```csharp
-public string IgnoredCharacters { get; set; }
+public bool AutoDenoising { get; set; }
 ```
 
 ### See Also

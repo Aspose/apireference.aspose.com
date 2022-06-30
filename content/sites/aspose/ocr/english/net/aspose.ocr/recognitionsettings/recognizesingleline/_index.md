@@ -3,7 +3,7 @@ title: RecognizeSingleLine
 second_title: Aspose.OCR for .NET API Reference
 description: Sets single-line image recognition. Disabled false by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings so all areas settings will be ignored.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.ocr/recognitionsettings/recognizesingleline/
 ---
 ## RecognitionSettings.RecognizeSingleLine property

@@ -3,7 +3,7 @@ title: AutoSkew
 second_title: Aspose.OCR for .NET API Reference
 description: Gets or sets a flag indicating whether automatic image skew correction should be enabled. Enabled true by default.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.ocr/documentrecognitionsettings/autoskew/
 ---
 ## DocumentRecognitionSettings.AutoSkew property
