@@ -1,22 +1,16 @@
 ---
-title: StartPage
+title: AutoDenoising
 second_title: Aspose.OCR for .NET API Reference
-description: Set the first page for recognition.
+description: 
 type: docs
-weight: 120
-url: /net/aspose.ocr/documentrecognitionsettings/startpage/
+weight: 40
+url: /net/aspose.ocr/documentrecognitionsettings/autodenoising/
 ---
-## DocumentRecognitionSettings.StartPage property
-
-Set the first page for recognition.
+## DocumentRecognitionSettings.AutoDenoising property
 
 ```csharp
-public int StartPage { get; set; }
+public bool AutoDenoising { get; set; }
 ```
-
-### Property Value
-
-The default is `0`.
 
 ### See Also
 

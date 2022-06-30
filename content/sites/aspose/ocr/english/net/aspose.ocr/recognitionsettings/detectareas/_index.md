@@ -3,7 +3,7 @@ title: DetectAreas
 second_title: Aspose.OCR for .NET API Reference
 description: Gets or sets a flag indicating whether automatic text areas detection should be enabled.  Enables Document Structure Recognition module. This takes more time and memory to process an image but provides more accurate results on complex cases. Disable set to false for faster image processing or in case of images with simple structure.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.ocr/recognitionsettings/detectareas/
 ---
 ## RecognitionSettings.DetectAreas property

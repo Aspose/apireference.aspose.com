@@ -3,7 +3,7 @@ title: IgnoredCharacters
 second_title: Aspose.OCR for .NET API Reference
 description: Sets blacklist for recognition symbols.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.ocr/documentrecognitionsettings/ignoredcharacters/
 ---
 ## DocumentRecognitionSettings.IgnoredCharacters property
