@@ -1,12 +1,12 @@
 ---
 title: Aspose.ThreeD.Animation
 second_title: Aspose.3D for .NET API Reference
-description: 
+description: The animation namespace of Aspose.3D all animation related classes are defined in this namespace
 type: docs
 weight: 20
 url: /net/aspose.threed.animation/
 ---
-
+The animation namespace of Aspose.3D, all animation related classes are defined in this namespace
 
 ## Classes
 

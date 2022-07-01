@@ -1,12 +1,12 @@
 ---
 title: Aspose.ThreeD.Entities
 second_title: Aspose.3D for .NET API Reference
-description: 
+description: All geometry and entities are defined in this namespace
 type: docs
 weight: 40
 url: /net/aspose.threed.entities/
 ---
-
+All geometry and entities are defined in this namespace
 
 ## Classes
 

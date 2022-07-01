@@ -1,12 +1,12 @@
 ---
 title: Aspose.ThreeD
 second_title: Aspose.3D for .NET API Reference
-description: 
+description: The base namespace of Aspose.3D
 type: docs
 weight: 10
 url: /net/aspose.threed/
 ---
-
+The base namespace of Aspose.3D
 
 ## Classes
 

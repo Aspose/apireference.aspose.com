@@ -41,6 +41,7 @@ public class Scene : SceneObject
 
 | Name | Description |
 | --- | --- |
+| static [FromFile](../../aspose.threed/scene/fromfile)(string) | Opens the scene from given path |
 | static [FromFile](../../aspose.threed/scene/fromfile)(string, CancellationToken) | Opens the scene from given path |
 | static [FromFile](../../aspose.threed/scene/fromfile)(string, FileFormat, CancellationToken) | Opens the scene from given path using specified file format. |
 | static [FromFile](../../aspose.threed/scene/fromfile)(string, LoadOptions, CancellationToken) | Opens the scene from given path using specified file format. |
@@ -52,6 +53,8 @@ public class Scene : SceneObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
 | [GetAnimationClip](../../aspose.threed/scene/getanimationclip)(string) | Gets a named [`AnimationClip`](../../aspose.threed.animation/animationclip) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
+| [Open](../../aspose.threed/scene/open)(Stream) | Opens the scene from given stream |
+| [Open](../../aspose.threed/scene/open)(string) | Opens the scene from given path |
 | [Open](../../aspose.threed/scene/open)(Stream, CancellationToken) | Opens the scene from given stream |
 | [Open](../../aspose.threed/scene/open)(string, CancellationToken) | Opens the scene from given path |
 | [Open](../../aspose.threed/scene/open)(Stream, FileFormat, CancellationToken) | Opens the scene from given stream using specified file format. |
@@ -65,6 +68,9 @@ public class Scene : SceneObject
 | [Render](../../aspose.threed/scene/render)(Camera, Bitmap, ImageRenderOptions) | Render the scene into bitmap from given camera's perspective. |
 | [Render](../../aspose.threed/scene/render)(Camera, string, Size, ImageFormat) | Render the scene into external file from given camera's perspective. |
 | [Render](../../aspose.threed/scene/render)(Camera, string, Size, ImageFormat, ImageRenderOptions) | Render the scene into external file from given camera's perspective. |
+| [Save](../../aspose.threed/scene/save)(string) | Saves the scene to specified path using specified file format. |
+| [Save](../../aspose.threed/scene/save)(Stream, FileFormat) | Saves the scene to stream using specified file format. |
+| [Save](../../aspose.threed/scene/save)(string, FileFormat) | Saves the scene to specified path using specified file format. |
 | [Save](../../aspose.threed/scene/save)(Stream, FileFormat, CancellationToken) | Saves the scene to stream using specified file format. |
 | [Save](../../aspose.threed/scene/save)(Stream, SaveOptions, CancellationToken) | Saves the scene to stream using specified file format. |
 | [Save](../../aspose.threed/scene/save)(string, FileFormat, CancellationToken) | Saves the scene to specified path using specified file format. |

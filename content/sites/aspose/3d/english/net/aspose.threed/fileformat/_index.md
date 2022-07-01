@@ -32,6 +32,7 @@ public class FileFormat
 | --- | --- |
 | static [Detect](../../aspose.threed/fileformat/detect)(string) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
 | static [Detect](../../aspose.threed/fileformat/detect)(Stream, string) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| static [GetFormatByExtension](../../aspose.threed/fileformat/getformatbyextension)(string) | Gets the preferred file format from the file extension name The extension name should starts with a dot('.'). |
 | [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Create a default load options for this file format |
 | [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Create a default save options for this file format |
 | override [ToString](../../aspose.threed/fileformat/tostring)() | Formats to string |

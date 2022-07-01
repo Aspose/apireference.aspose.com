@@ -3,7 +3,7 @@ title: Draco
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 530
+weight: 540
 url: /net/aspose.threed/fileformat/draco/
 ---
 ## FileFormat.Draco field

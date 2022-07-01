@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.threed/scene/fromfile/
 ---
-## Scene.FromFile method (1 of 3)
+## Scene.FromFile method (1 of 4)
 
 Opens the scene from given path using specified file format.
 
@@ -30,7 +30,7 @@ public static Scene FromFile(string fileName, FileFormat format,
 
 ---
 
-## Scene.FromFile method (2 of 3)
+## Scene.FromFile method (2 of 4)
 
 Opens the scene from given path using specified file format.
 
@@ -54,12 +54,32 @@ public static Scene FromFile(string fileName, LoadOptions options,
 
 ---
 
-## Scene.FromFile method (3 of 3)
+## Scene.FromFile method (3 of 4)
 
 Opens the scene from given path
 
 ```csharp
-public static Scene FromFile(string fileName, CancellationToken cancellationToken = default)
+public static Scene FromFile(string fileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | File name. |
+
+### See Also
+
+* class [Scene](../../scene)
+* namespace [Aspose.ThreeD](../../scene)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Scene.FromFile method (4 of 4)
+
+Opens the scene from given path
+
+```csharp
+public static Scene FromFile(string fileName, CancellationToken cancellationToken)
 ```
 
 | Parameter | Type | Description |

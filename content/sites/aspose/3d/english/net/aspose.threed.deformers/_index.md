@@ -1,12 +1,12 @@
 ---
 title: Aspose.ThreeD.Deformers
 second_title: Aspose.3D for .NET API Reference
-description: 
+description: All deformer classes are defined in this namespace
 type: docs
 weight: 30
 url: /net/aspose.threed.deformers/
 ---
-
+All deformer classes are defined in this namespace
 
 ## Classes
 

@@ -39,7 +39,16 @@ public class Transform : A3DObject
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
+| [SetEulerAngles](../../aspose.threed/transform/seteulerangles)(double, double, double) | Sets the Euler angles in degrees of current transform. |
+| [SetGeometricRotation](../../aspose.threed/transform/setgeometricrotation)(double, double, double) | Sets the geometric Euler rotation(measured in degree). Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
+| [SetGeometricScaling](../../aspose.threed/transform/setgeometricscaling)(double, double, double) | Sets the geometric scaling. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
+| [SetGeometricTranslation](../../aspose.threed/transform/setgeometrictranslation)(double, double, double) | Sets the geometric translation. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
+| [SetPostRotation](../../aspose.threed/transform/setpostrotation)(double, double, double) | Sets the post-rotation represented in degree |
+| [SetPreRotation](../../aspose.threed/transform/setprerotation)(double, double, double) | Sets the pre-rotation represented in degree |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
+| [SetRotation](../../aspose.threed/transform/setrotation)(double, double, double, double) | Sets the rotation(as quaternion components) of current transform. |
+| [SetScale](../../aspose.threed/transform/setscale)(double, double, double) | Sets the scale of current transform. |
+| [SetTranslation](../../aspose.threed/transform/settranslation)(double, double, double) | Sets the translation of current transform. |
 
 ### See Also
 
