@@ -8,12 +8,49 @@ enableRobotsTXT = true
 theme = ["api-theme"]
 
 
+[params.menu]
+zh = "aspose-zh"
+ru = "aspose-ru"
+ar = "aspose-ar"
+cs = "aspose-cs"
+de = "aspose-de"
+el = "aspose-el"
+es = "aspose-es"
+fr = "aspose-fr"
+hi = "aspose-hi"
+hu = "aspose-hu"
+id = "aspose-id"
+it = "aspose-it"
+ja = "aspose-ja"
+ko = "aspose-ko"
+pl = "aspose-pl"
+pt = "aspose-pt"
+sv = "aspose-sv"
+th = "aspose-th"
+tr = "aspose-tr"
+vi = "aspose-vi"
+zh-hant = "aspose-zht"
+
 defaultContentLang = 'en'
 [languages]
   [languages.en]
     contentDir = 'content/sites/aspose/omr/english'
     languageName = 'English'
+	languageCode = "en"
+    flag = "flag-us"
     weight = 10
+  [languages.ru]
+    contentDir = 'content/sites/aspose/omr/russian'
+    languageName = 'Русский'
+	languageCode = "ru"
+    flag = "flag-ru"
+    weight = 11
+  [languages.zh]
+    contentDir = 'content/sites/aspose/omr/chinese'
+    languageName = "简体中文"
+    languageCode = "zh"
+    flag = "flag-cn"
+    weight = 12
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
