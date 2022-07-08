@@ -6,7 +6,7 @@ type: docs
 weight: 140
 url: /net/aspose.threed/scene/open/
 ---
-## Scene.Open method (1 of 8)
+## Scene.Open method (1 of 9)
 
 Opens the scene from given stream using specified file format.
 
@@ -29,7 +29,7 @@ public void Open(Stream stream, FileFormat format, CancellationToken cancellatio
 
 ---
 
-## Scene.Open method (2 of 8)
+## Scene.Open method (2 of 9)
 
 Opens the scene from given stream using specified IO config.
 
@@ -52,7 +52,7 @@ public void Open(Stream stream, LoadOptions options, CancellationToken cancellat
 
 ---
 
-## Scene.Open method (3 of 8)
+## Scene.Open method (3 of 9)
 
 Opens the scene from given stream
 
@@ -72,7 +72,7 @@ public void Open(Stream stream)
 
 ---
 
-## Scene.Open method (4 of 8)
+## Scene.Open method (4 of 9)
 
 Opens the scene from given stream
 
@@ -93,7 +93,7 @@ public void Open(Stream stream, CancellationToken cancellationToken)
 
 ---
 
-## Scene.Open method (5 of 8)
+## Scene.Open method (5 of 9)
 
 Opens the scene from given path using specified file format.
 
@@ -116,13 +116,34 @@ public void Open(string fileName, FileFormat format, CancellationToken cancellat
 
 ---
 
-## Scene.Open method (6 of 8)
+## Scene.Open method (6 of 9)
 
 Opens the scene from given path using specified file format.
 
 ```csharp
-public void Open(string fileName, LoadOptions options, 
-    CancellationToken cancellationToken = default)
+public void Open(string fileName, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | File name. |
+| options | LoadOptions | More detailed configuration to open the stream. |
+
+### See Also
+
+* class [LoadOptions](../../../aspose.threed.formats/loadoptions)
+* class [Scene](../../scene)
+* namespace [Aspose.ThreeD](../../scene)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Scene.Open method (7 of 9)
+
+Opens the scene from given path using specified file format.
+
+```csharp
+public void Open(string fileName, LoadOptions options, CancellationToken cancellationToken)
 ```
 
 | Parameter | Type | Description |
@@ -140,7 +161,7 @@ public void Open(string fileName, LoadOptions options,
 
 ---
 
-## Scene.Open method (7 of 8)
+## Scene.Open method (8 of 9)
 
 Opens the scene from given path
 
@@ -160,7 +181,7 @@ public void Open(string fileName)
 
 ---
 
-## Scene.Open method (8 of 8)
+## Scene.Open method (9 of 9)
 
 Opens the scene from given path
 

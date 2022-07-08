@@ -34,6 +34,7 @@ public class PdfFormat : FileFormat
 | [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Create a default save options for this file format |
 | [Extract](../../aspose.threed.formats/pdfformat/extract)(Stream, byte[]) | Extract raw 3D content from PDF stream. |
 | [Extract](../../aspose.threed.formats/pdfformat/extract)(string, byte[]) | Extract raw 3D content from PDF file. |
+| [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene)(string) | Extract 3D scenes from PDF file. |
 | [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene)(Stream, byte[]) | Extract raw 3D content from PDF stream. |
 | [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene)(string, byte[]) | Extract 3D scenes from PDF file. |
 | override [ToString](../../aspose.threed/fileformat/tostring)() | Formats to string |
