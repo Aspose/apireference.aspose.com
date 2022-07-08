@@ -1,6 +1,7 @@
 ---
 title: Aspose API References
 weight: 10
+description: API reference and code snippets for working with Aspose.Words, Aspose.PDF, and other Aspose products. References are available for .NET, Java, C++, and more. 
 ---
 
 {{< blocks/product-section color="white">}}
