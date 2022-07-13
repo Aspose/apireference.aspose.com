@@ -1,0 +1,58 @@
+---
+title: InputEvent
+second_title: Справочник по Aspose.SVG для .NET API
+description: Входные события отправляются как уведомления всякий раз когда DOM обновляется.
+type: docs
+weight: 980
+url: /ru/net/aspose.svg.dom.events/inputevent/
+---
+## InputEvent class
+
+Входные события отправляются как уведомления всякий раз, когда DOM обновляется.
+
+```csharp
+public class InputEvent : UIEvent
+```
+
+## Конструкторы
+
+| Имя | Описание |
+| --- | --- |
+| [InputEvent](inputevent#constructor)(string) | Инициализирует новый экземпляр класса[`InputEvent`](../inputevent). |
+| [InputEvent](inputevent#constructor_1)(string, IDictionary&lt;string, object&gt;) | Инициализирует новый экземпляр класса[`InputEvent`](../inputevent). |
+
+## Характеристики
+
+| Имя | Описание |
+| --- | --- |
+| [Bubbles](../../aspose.svg.dom.events/event/bubbles) { get; } | Используется, чтобы указать, является ли событие всплывающим событием. Если событие может всплыть, значение будет истинным, в противном случае значение будет ложным. |
+| [Cancelable](../../aspose.svg.dom.events/event/cancelable) { get; } | Используется для указания того, можно ли предотвратить событие по умолчанию. Если действие по умолчанию можно предотвратить, значение равно true, в противном случае — значение false. |
+| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget) { get; } | Используется для обозначения[`IEventTarget`](../ieventtarget), чей[`IEventListener`](../ieventlistener)в настоящее время обрабатываются. Это особенно полезно во время захвата и всплытия. |
+| [Data](../../aspose.svg.dom.events/inputevent/data) { get; } | Данные содержат значение символов, сгенерированных методом ввода. Это МОЖЕТ быть одиночный символ Unicode или непустая последовательность символов Unicode [Unicode]. Символы СЛЕДУЕТ нормализовать, как определено формой нормализации Unicode NFC, определенной в [UAX15]. Этот атрибут МОЖЕТ содержать пустую строку. |
+| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented) { get; } | Возвращает true, если функция preventDefault() была вызвана, когда значение отменяемого атрибута равно true, и false в противном случае. |
+| [Detail](../../aspose.svg.dom.events/uievent/detail) { get; } | Указывает некоторую подробную информацию о Событии, в зависимости от типа события. |
+| [EventPhase](../../aspose.svg.dom.events/event/eventphase) { get; } | Используется для указания того, какая фаза потока событий оценивается в данный момент. |
+| [IsComposing](../../aspose.svg.dom.events/inputevent/iscomposing) { get; } | true, если входное событие происходит как часть сеанса композиции, т. е. после события CompositionStart и перед соответствующим событием CompositionEnd. Неинициализированное значение этого атрибута ДОЛЖНО быть ложным. |
+| [IsTrusted](../../aspose.svg.dom.events/event/istrusted) { get; } | Атрибут isTrusted должен возвращать значение, которым он был инициализирован. При создании события атрибут должен быть инициализирован значением false. |
+| [Target](../../aspose.svg.dom.events/event/target) { get; } | Используется для указания[`IEventTarget`](../ieventtarget), на который изначально было отправлено событие. |
+| [TimeStamp](../../aspose.svg.dom.events/event/timestamp) { get; } | Используется для указания времени (в миллисекундах относительно эпохи), в которое было создано событие. В связи с тем, что некоторые системы могут не предоставлять эту информацию, значение timeStamp может быть доступно не для всех событий. Если параметр недоступен, будет возвращено значение 0. Примерами времени эпохи являются время запуска системы или 0:0:0 UTC 1 января 1970 года. |
+| [Type](../../aspose.svg.dom.events/event/type) { get; } | Имя события (без учета регистра). Имя должно быть именем XML. |
+| [View](../../aspose.svg.dom.events/uievent/view) { get; } | Атрибут представления идентифицирует окно, из которого было сгенерировано событие. Неинициализированное значение этого атрибута ДОЛЖНО быть нулевым. |
+
+## Методы
+
+| Имя | Описание |
+| --- | --- |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent)(string, bool, bool) | Метод[`InitEvent`](../event/initevent)используется для инициализации значение объекта[`Event`](../event), созданного через интерфейс [`IDocumentEvent`](../idocumentevent). |
+| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault)() | Если событие можно отменить, метод[`PreventDefault`](../event/preventdefault)используется для обозначения того, что событие должно быть отменено, означает, что никакие действия по умолчанию, обычно выполняемые реализацией в результате события, не будут выполняться. |
+| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation)() | Вызов этого метода не позволяет событию достичь каких-либо прослушивателей событий, зарегистрированных после текущего, а при отправке в дереве также предотвращает достижение события любыми другими объектами. |
+| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation)() | Метод[`StopPropagation`](../event/stoppropagation)используется для предотвращения дальнейшего распространения события во время потока событий. |
+
+### Смотрите также
+
+* class [UIEvent](../uievent)
+* пространство имен [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events)
+* сборка [Aspose.SVG](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->

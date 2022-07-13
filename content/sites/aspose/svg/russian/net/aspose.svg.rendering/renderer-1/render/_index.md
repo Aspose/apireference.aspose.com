@@ -1,0 +1,143 @@
+---
+title: Render
+second_title: Справочник по Aspose.SVG для .NET API
+description: Определяет метод для рендерингаTDocumentв указанныйIDeviceaspose.svg.rendering/idevice.
+type: docs
+weight: 10
+url: /ru/net/aspose.svg.rendering/renderer-1/render/
+---
+## Render(IDevice, TDocument) {#render_2}
+
+Определяет метод для рендеринга!:TDocumentв указанный[`IDevice`](../../idevice).
+
+```csharp
+public void Render(IDevice device, TDocument document)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| device | IDevice | Устройство вывода. |
+| document | TDocument | Документ. |
+
+### Смотрите также
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* сборка [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, TDocument, TimeSpan) {#render_4}
+
+Определяет метод для рендеринга!:TDocumentв указанный[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+
+```csharp
+public void Render(IDevice device, TDocument document, TimeSpan timeout)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| device | IDevice | Устройство вывода. |
+| document | TDocument | Документ. |
+| timeout | TimeSpan | TimeSpan, который представляет количество миллисекунд ожидания, илиTimeSpan, который представляет -1 миллисекунда, чтобы ждать бесконечно. |
+
+### Смотрите также
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* сборка [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, TDocument, int) {#render_3}
+
+Определяет метод для рендеринга!:TDocumentв указанный[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+
+```csharp
+public void Render(IDevice device, TDocument document, int timeout)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| device | IDevice | Устройство вывода. |
+| document | TDocument | Документ. |
+| timeout | Int32 | Число миллисекунд, которое представляет количество миллисекунд ожидания, или -1 миллисекунда ожидания бесконечно. |
+
+### Смотрите также
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* сборка [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, params TDocument[]) {#render_5}
+
+Определяет метод для рендеринга нескольких!:TDocumentв определенные[`IDevice`](../../idevice).
+
+```csharp
+public void Render(IDevice device, params TDocument[] documents)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| device | IDevice | Устройство вывода. |
+| documents | TDocument[] | Документы для визуализации. |
+
+### Смотрите также
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* сборка [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, int, params TDocument[]) {#render}
+
+Определяет метод для рендеринга нескольких!:TDocumentв определенные[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+
+```csharp
+public void Render(IDevice device, int timeout, params TDocument[] documents)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| device | IDevice | Устройство вывода. |
+| timeout | Int32 | Число миллисекунд, которое представляет количество миллисекунд ожидания, или -1 миллисекунда ожидания бесконечно. |
+| documents | TDocument[] | Документы для визуализации. |
+
+### Смотрите также
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* сборка [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
+
+Определяет метод для рендеринга нескольких!:TDocumentв определенные[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+
+```csharp
+public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| device | IDevice | Устройство вывода. |
+| timeout | TimeSpan | TimeSpan, который представляет количество миллисекунд ожидания, илиTimeSpan, который представляет -1 миллисекунда, чтобы ждать бесконечно. |
+| documents | TDocument[] | Документы для визуализации. |
+
+### Смотрите также
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* сборка [Aspose.SVG](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
