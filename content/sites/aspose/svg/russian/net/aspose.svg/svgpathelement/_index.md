@@ -1,0 +1,149 @@
+---
+title: SVGPathElement
+second_title: Справочник по Aspose.SVG для .NET API
+description: Интерфейс SVGPathElement соответствует элементу path.
+type: docs
+weight: 3310
+url: /ru/net/aspose.svg/svgpathelement/
+---
+## SVGPathElement class
+
+Интерфейс SVGPathElement соответствует элементу path.
+
+```csharp
+public class SVGPathElement : SVGGeometryElement, ISVGAnimatedPathData
+```
+
+## Характеристики
+
+| Имя | Описание |
+| --- | --- |
+| [AnimatedPathSegList](../../aspose.svg/svgpathelement/animatedpathseglist) { get; } | Предоставляет доступ к текущему анимированному содержимому атрибута 'd' в форме, которая полностью соответствует синтаксису SVG. Если данный атрибут или свойство анимируется, содержит текущее анимированное значение атрибута или свойства, а сам объект и его содержимое доступны только для чтения. Если данный атрибут или свойство в настоящее время не анимируются, содержит то же значение, что и pathSegList. |
+| override [Attributes](../../aspose.svg.dom/element/attributes) { get; } | NamedNodeMap, содержащий атрибуты этого узла (если это элемент) или null в противном случае. |
+| virtual [BaseURI](../../aspose.svg.dom/node/baseuri) { get; } | Абсолютный базовый URI этого узла или ноль, если реализация не смогла получить абсолютный URI. |
+| [ChildElementCount](../../aspose.svg.dom/element/childelementcount) { get; } | Возвращает текущее количество узлов элемента, являющихся дочерними для данного элемента. 0, если у этого элемента нет дочерних узлов nodeType 1. |
+| [ChildNodes](../../aspose.svg.dom/node/childnodes) { get; } | NodeList, содержащий все дочерние элементы этого узла. Если дочерних элементов нет, это NodeList, не содержащий узлов. |
+| [Children](../../aspose.svg.dom/element/children) { get; } | Возвращает дочерние элементы текущего элемента. |
+| [ClassList](../../aspose.svg.dom/element/classlist) { get; } | Возвращает активный DOMTokenList, который содержит токены, полученные в результате разбора атрибута "класс". |
+| [ClassName](../../aspose.svg/svgelement/classname) { get; } | Соответствует атрибуту class данного элемента. |
+| [ClassName](../../aspose.svg.dom/element/classname) { get; set; } | Атрибут класса элемента. Этот атрибут был переименован из-за конфликта с ключевым словом class во многих языках. См. определение атрибута класса в HTML 4.01. |
+| [FarthestViewportElement](../../aspose.svg/svggraphicselement/farthestviewportelement) { get; } | Самый дальний предок элемента 'svg'. Null, если текущий элемент является самым внешним элементом svg. |
+| [FirstChild](../../aspose.svg.dom/node/firstchild) { get; } | Первый потомок этого узла. Если такого узла нет, возвращается null. |
+| [FirstElementChild](../../aspose.svg.dom/element/firstelementchild) { get; } | Возвращает первый узел дочернего элемента данного элемента. null, если у этого элемента нет дочерних элементов. |
+| [Id](../../aspose.svg/svgelement/id) { get; set; } | Значение атрибута 'id' данного элемента или пустая строка, если 'id' отсутствует. |
+| [InnerHTML](../../aspose.svg.dom/element/innerhtml) { get; set; } | Возвращает фрагмент HTML или XML, представляющий содержимое элемента. Можно установить, чтобы заменить содержимое элемента узлами, проанализированными из данной строки. |
+| [LastChild](../../aspose.svg.dom/node/lastchild) { get; } | Последний дочерний элемент этого узла. Если такого узла нет, возвращается null. |
+| [LastElementChild](../../aspose.svg.dom/element/lastelementchild) { get; } | Возвращает последний узел дочернего элемента данного элемента. null, если у этого элемента нет дочерних элементов. |
+| override [LocalName](../../aspose.svg.dom/element/localname) { get; } | Возвращает локальную часть полного имени этого узла. Для узлов любого типа, кроме ELEMENT_NODE и ATTRIBUTE_NODE, и узлов, созданных с помощью метода DOM уровня 1, например Document.createElement(), всегда равно null. |
+| override [NamespaceURI](../../aspose.svg.dom/element/namespaceuri) { get; } | URI пространства имен этого узла или нуль, если он не указан. |
+| [NearestViewportElement](../../aspose.svg/svggraphicselement/nearestviewportelement) { get; } | Элемент, устанавливающий текущее окно просмотра. Часто ближайший предок элемент 'svg'. Null, если текущий элемент является самым внешним элементом svg. |
+| [NextElementSibling](../../aspose.svg.dom/element/nextelementsibling) { get; } | Возвращает следующий узел одноуровневого элемента данного элемента. null, если у этого элемента нет узлов-сестер, следующих за этим в дереве документа. |
+| [NextSibling](../../aspose.svg.dom/node/nextsibling) { get; } | Узел, следующий непосредственно за этим узлом. Если такого узла нет, возвращается null. |
+| override [NodeName](../../aspose.svg.dom/element/nodename) { get; } | Имя этого узла в зависимости от его типа. |
+| override [NodeType](../../aspose.svg.dom/element/nodetype) { get; } | Код, представляющий тип базового объекта. |
+| virtual [NodeValue](../../aspose.svg.dom/node/nodevalue) { get; set; } | Значение этого узла в зависимости от его типа. |
+| [OuterHTML](../../aspose.svg.dom/element/outerhtml) { get; set; } | Возвращает фрагмент HTML или XML, представляющий элемент и его содержимое. Можно установить, чтобы заменить элемент узлами, проанализированными из заданной строки. |
+| virtual [OwnerDocument](../../aspose.svg.dom/node/ownerdocument) { get; } | Объект Document, связанный с этим узлом. Это также объект Document, используемый для создания новых узлов. Когда этот узел является документом или типом документа, который еще не используется ни с одним документом, это значение равно null. |
+| [OwnerSVGElement](../../aspose.svg/svgelement/ownersvgelement) { get; } | Ближайший предок элемента 'svg'. Null, если данный элемент является самым внешним элементом svg. |
+| [ParentElement](../../aspose.svg.dom/node/parentelement) { get; } | Получает родителя[`Element`](../../aspose.svg.dom/element)этого узла. |
+| [ParentNode](../../aspose.svg.dom/node/parentnode) { get; } | Родитель этого узла. Все узлы, кроме Attr, Document, DocumentFragment, Entity и Notation, могут иметь родителя. Однако, если узел был только что создан и еще не добавлен в дерево, или если он был удален из дерева, это значение равно null. |
+| [PathLength](../../aspose.svg/svggeometryelement/pathlength) { get; } | Соответствует атрибуту pathLength данного элемента. |
+| [PathSegList](../../aspose.svg/svgpathelement/pathseglist) { get; set; } | Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута 'd' в форме, которая один к одному соответствует синтаксису SVG. Таким образом, если атрибут 'd' имеет команду "absolute moveto (M)" и "absolute arcto (A)", то pathSegList будет иметь две записи: SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS. |
+| override [Prefix](../../aspose.svg.dom/element/prefix) { get; } | Префикс пространства имен этого узла или нуль, если он не указан. Когда он определен как null, его установка не имеет никакого эффекта |
+| [PreviousElementSibling](../../aspose.svg.dom/element/previouselementsibling) { get; } | Возвращает предыдущий узел родственного элемента данного элемента. null, если этот элемент не имеет родственных узлов, предшествующих ему в дереве документа. |
+| [PreviousSibling](../../aspose.svg.dom/node/previoussibling) { get; } | Узел, непосредственно предшествующий этому узлу. Если такого узла нет, возвращается null. |
+| [RequiredExtensions](../../aspose.svg/svggraphicselement/requiredextensions) { get; } | Соответствует атрибуту 'requiredExtensions' данного элемента. |
+| [RequiredFeatures](../../aspose.svg/svggraphicselement/requiredfeatures) { get; } | Соответствует атрибуту 'requiredFeatures' данного элемента. |
+| [SchemaTypeInfo](../../aspose.svg.dom/element/schematypeinfo) { get; } | Информация о типе, связанная с этим элементом. |
+| [ShadowRoot](../../aspose.svg.dom/element/shadowroot) { get; } | Возвращает shadowRoot, хранящийся в этом элементе, или null, если он закрыт. |
+| [Style](../../aspose.svg/svgelement/style) { get; } | Соответствует атрибуту 'style' данного элемента. Если пользовательский агент не поддерживает стилизацию с помощью CSS, этот атрибут всегда должен иметь значение null. |
+| [SystemLanguage](../../aspose.svg/svggraphicselement/systemlanguage) { get; } | Соответствует атрибуту 'systemLanguage' данного элемента. |
+| [TagName](../../aspose.svg.dom/element/tagname) { get; } | Имя элемента. |
+| override [TextContent](../../aspose.svg.dom/element/textcontent) { get; set; } | Этот атрибут возвращает текстовое содержимое этого узла и его потомков. Когда он определен как null, его установка не имеет никакого эффекта. При настройке любые возможные дочерние элементы, которые может иметь этот узел, удаляются и, если новая строка не является пустой или нулевой, заменяются одним текстовым узлом, содержащим строку, на которую установлен этот атрибут. |
+| [Transform](../../aspose.svg/svggraphicselement/transform) { get; } | Соответствует атрибуту 'transform' данного элемента. |
+| [ViewportElement](../../aspose.svg/svgelement/viewportelement) { get; } | Элемент, устанавливающий текущее окно просмотра. Часто ближайший предок элемент 'svg'. Null, если данный элемент является самым внешним элементом svg. |
+
+## Методы
+
+| Имя | Описание |
+| --- | --- |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener)(string, IEventListener) | Этот метод позволяет регистрировать прослушиватели событий на цели события. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener)(string, DOMEventHandler, bool) | Этот метод позволяет регистрировать прослушиватели событий на цели события. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener)(string, IEventListener, bool) | Этот метод позволяет регистрировать прослушиватели событий на цели события. |
+| [AppendChild](../../aspose.svg.dom/node/appendchild)(Node) | Добавляет узел newChild в конец списка дочерних элементов этого узла. Если новый дочерний элемент уже находится в дереве, он сначала удаляется. |
+| [AttachShadow](../../aspose.svg.dom/element/attachshadow)(ShadowRootMode) | Создает теневой корень и прикрепляет его к текущему элементу. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode)() | Возвращает дубликат этого узла, т.е. служит универсальным конструктором копирования для узлов. Дублирующий узел не имеет родителя (parentNode имеет значение null) и пользовательских данных. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode)(bool) | Возвращает дубликат этого узла, т.е. служит универсальным конструктором копирования для узлов. Дублирующий узел не имеет родителя (parentNode имеет значение null) и пользовательских данных. |
+| [CreateSVGPathSegArcAbs](../../aspose.svg/svgpathelement/createsvgpathsegarcabs)(float, float, float, float, float, bool, bool) | Возвращает автономный объект SVGPathSegArcAbs без родителей. |
+| [CreateSVGPathSegArcRel](../../aspose.svg/svgpathelement/createsvgpathsegarcrel)(float, float, float, float, float, bool, bool) | Возвращает автономный объект SVGPathSegArcRel без родителей. |
+| [CreateSVGPathSegClosePath](../../aspose.svg/svgpathelement/createsvgpathsegclosepath)() | Возвращает автономный объект SVGPathSegClosePath без родителей. |
+| [CreateSVGPathSegCurvetoCubicAbs](../../aspose.svg/svgpathelement/createsvgpathsegcurvetocubicabs)(float, float, float, float, float, float) | Возвращает автономный объект SVGPathSegCurvetoCubicAbs без родителей. |
+| [CreateSVGPathSegCurvetoCubicRel](../../aspose.svg/svgpathelement/createsvgpathsegcurvetocubicrel)(float, float, float, float, float, float) | Возвращает автономный объект SVGPathSegCurvetoCubicRel без родителей. |
+| [CreateSVGPathSegCurvetoCubicSmoothAbs](../../aspose.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothabs)(float, float, float, float) | Возвращает автономный объект SVGPathSegCurvetoCubicSmoothAbs без родителей. |
+| [CreateSVGPathSegCurvetoCubicSmoothRel](../../aspose.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothrel)(float, float, float, float) | Возвращает автономный объект SVGPathSegCurvetoCubicSmoothRel без родителей. |
+| [CreateSVGPathSegCurvetoQuadraticAbs](../../aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticabs)(float, float, float, float) | Возвращает автономный объект SVGPathSegCurvetoQuadraticAbs без родителей. |
+| [CreateSVGPathSegCurvetoQuadraticRel](../../aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticrel)(float, float, float, float) | Возвращает автономный объект SVGPathSegCurvetoQuadraticRel без родителей. |
+| [CreateSVGPathSegCurvetoQuadraticSmoothAbs](../../aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothabs)(float, float) | Возвращает автономный объект SVGPathSegCurvetoQuadraticSmoothAbs без родителей. |
+| [CreateSVGPathSegCurvetoQuadraticSmoothRel](../../aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothrel)(float, float) | Возвращает автономный объект SVGPathSegCurvetoQuadraticSmoothRel без родителей. |
+| [CreateSVGPathSegLinetoAbs](../../aspose.svg/svgpathelement/createsvgpathseglinetoabs)(float, float) | Возвращает автономный объект SVGPathSegLinetoAbs без родителей. |
+| [CreateSVGPathSegLinetoHorizontalAbs](../../aspose.svg/svgpathelement/createsvgpathseglinetohorizontalabs)(float) | Возвращает автономный объект SVGPathSegLinetoHorizontalAbs без родителей. |
+| [CreateSVGPathSegLinetoHorizontalRel](../../aspose.svg/svgpathelement/createsvgpathseglinetohorizontalrel)(float) | Возвращает автономный объект SVGPathSegLinetoHorizontalRel без родителей. |
+| [CreateSVGPathSegLinetoRel](../../aspose.svg/svgpathelement/createsvgpathseglinetorel)(float, float) | Возвращает автономный объект SVGPathSegLinetoRel без родителей. |
+| [CreateSVGPathSegLinetoVerticalAbs](../../aspose.svg/svgpathelement/createsvgpathseglinetoverticalabs)(float) | Возвращает автономный объект SVGPathSegLinetoVerticalAbs без родителей. |
+| [CreateSVGPathSegLinetoVerticalRel](../../aspose.svg/svgpathelement/createsvgpathseglinetoverticalrel)(float) | Возвращает автономный объект SVGPathSegLinetoVerticalRel без родителей. |
+| [CreateSVGPathSegMovetoAbs](../../aspose.svg/svgpathelement/createsvgpathsegmovetoabs)(float, float) | Возвращает автономный объект SVGPathSegMovetoAbs без родителей. |
+| [CreateSVGPathSegMovetoRel](../../aspose.svg/svgpathelement/createsvgpathsegmovetorel)(float, float) | Возвращает автономный объект SVGPathSegMovetoRel без родителей. |
+| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent)(Event) | Этот метод позволяет отправлять события в модель событий реализации. |
+| [Dispose](../../aspose.svg.dom/eventtarget/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [GetAttribute](../../aspose.svg.dom/element/getattribute)(string) | Извлекает значение атрибута по имени. |
+| [GetAttributeNode](../../aspose.svg.dom/element/getattributenode)(string) | Извлекает узел атрибута по имени. |
+| [GetAttributeNodeNS](../../aspose.svg.dom/element/getattributenodens)(string, string) | Извлекает узел Attr по локальному имени и URI пространства имен. |
+| [GetAttributeNS](../../aspose.svg.dom/element/getattributens)(string, string) | Извлекает значение атрибута по локальному имени и URI пространства имен. |
+| [GetBBox](../../aspose.svg/svggraphicselement/getbbox)() | Возвращает тесную ограничивающую рамку в текущем пользовательском пространстве (т. е. после применения атрибута 'transform', если он есть) для геометрии всех содержащихся графических элементов, исключая обводку, отсечение, эффекты маскировки и фильтрации). Обратите внимание, что getBBox должен возвращать фактическую ограничивающую рамку во время вызова метода, даже если элемент еще не был визуализирован. |
+| [GetCTM](../../aspose.svg/svggraphicselement/getctm)() | Возвращает матрицу преобразования из текущих пользовательских единиц измерения (т.е. после применения атрибута 'transform', если он есть) в систему координат области просмотра для ближайшего элемента ViewportElement. |
+| [GetElementsByClassName](../../aspose.svg.dom/element/getelementsbyclassname)(string) | Возвращает активный объект NodeList, содержащий все элементы в документе, которые имеют все классы, указанные в аргументе. http://www.w3.org/TR/dom/ |
+| [GetElementsByTagName](../../aspose.svg.dom/element/getelementsbytagname)(string) | Возвращает NodeList всех элементов-потомков с заданным именем тега в порядке документа. |
+| [GetElementsByTagNameNS](../../aspose.svg.dom/element/getelementsbytagnamens)(string, string) | Возвращает NodeList всех элементов-потомков с заданным локальным именем и URI пространства имен в порядке документа. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| [GetPointAtLength](../../aspose.svg/svggeometryelement/getpointatlength)(float) | Возвращает координату (x,y) в пользовательском пространстве, которая представляет собой единицы расстояния вдоль пути, используя алгоритм пользовательского агента расстояния вдоль пути. |
+| [GetScreenCTM](../../aspose.svg/svggraphicselement/getscreenctm)() | Возвращает матрицу преобразования из текущих пользовательских единиц (т.е. после применения атрибута 'transform', если он есть) в уведомление родительского пользовательского агента о "пикселе". Для устройств отображения в идеале это представляет собой физический пиксель экрана. Для других устройств или сред, где физические размеры пикселей неизвестны, вместо этого можно использовать алгоритм, аналогичный определению «пикселя» в CSS2. Обратите внимание, что null возвращается, если этот элемент не подключен к дереву документа. Этот метод можно было бы назвать более подходящим как getClientCTM, но название getScreenCTM сохранено по историческим причинам. |
+| [GetTotalLength](../../aspose.svg/svggeometryelement/gettotallength)() | Возвращает вычисленное агентом пользователя значение общей длины пути с использованием алгоритма расстояния вдоль пути агента пользователя как расстояние в текущей пользовательской системе координат. |
+| [HasAttribute](../../aspose.svg.dom/element/hasattribute)(string) | Возвращает true, если атрибут с заданным именем указан в этом элементе или имеет значение по умолчанию, иначе false. |
+| [HasAttributeNS](../../aspose.svg.dom/element/hasattributens)(string, string) | Возвращает значение true, если атрибут с заданным локальным именем и URI пространства имен указан в этом элементе или имеет значение по умолчанию, в противном случае — значение false. |
+| override [HasAttributes](../../aspose.svg.dom/element/hasattributes)() | Возвращает, имеет ли этот узел (если это элемент) какие-либо атрибуты |
+| [HasChildNodes](../../aspose.svg.dom/node/haschildnodes)() | Возвращает, есть ли у этого узла дочерние элементы. |
+| [InsertBefore](../../aspose.svg.dom/node/insertbefore)(Node, Node) | Вставляет узел перед существующим дочерним узлом. Если дочерний элемент равен нулю, вставьте узел в конец списка дочерних элементов. Если дочерний элемент является объектом DocumentFragment, все его дочерние элементы вставляются в том же порядке перед дочерним. Если дочерний элемент уже находится в дереве, он сначала удаляется. |
+| [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace)(string) | Этот метод проверяет, является ли указанный namespaceURI пространством имен по умолчанию или нет. |
+| [IsEqualNode](../../aspose.svg.dom/node/isequalnode)(Node) | Проверяет, равны ли два узла. Этот метод проверяет равенство узлов, а не одинаковость (т. е. являются ли два узла ссылками на один и тот же объект), что можно проверить с помощью Node.isSameNode(). Все одинаковые узлы также будут равными, хотя обратное может быть неверным. |
+| [IsSameNode](../../aspose.svg.dom/node/issamenode)(Node) | Возвращает, является ли этот узел тем же узлом, что и заданный. Этот метод позволяет определить, относятся ли две ссылки Node, возвращаемые реализацией, к одному и тому же объекту. Когда две ссылки Node являются ссылками на один и тот же объект, даже через прокси, ссылки могут использоваться полностью взаимозаменяемо, так что все атрибуты имеют одинаковые значения и вызов одного и того же метода DOM для любой ссылки всегда имеет точно такой же эффект. |
+| [LookupNamespaceURI](../../aspose.svg.dom/node/lookupnamespaceuri)(string) | Найдите URI пространства имен, связанный с данным префиксом, начиная с этого узла. |
+| [LookupPrefix](../../aspose.svg.dom/node/lookupprefix)(string) | Найдите префикс, связанный с данным URI пространства имен, начиная с этого узла. Объявления пространств имен по умолчанию игнорируются этим методом. Подробную информацию об алгоритме, используемом этим методом, см. в разделе Поиск префикса пространства имен. |
+| [Normalize](../../aspose.svg.dom/node/normalize)() | Помещает все узлы Text на всю глубину поддерева под этим узлом, включая узлы атрибутов, в «нормальную» форму, где только структура (например, элементы, комментарии, инструкции по обработке , разделы CDATA и ссылки на сущности) разделяет узлы Text, т. е. нет ни смежных узлов Text, ни пустых узлов Text. Это можно использовать для обеспечения того, чтобы DOM-представление документа было таким же, как если бы он был сохранен и повторно загружен, и полезно, когда операции (такие как поиск XPointer [XPointer]), которые зависят от конкретной древовидной структуры документа, должны выполняться. использоваться. Если параметр «normalize-characters» объекта DOMConfiguration, прикрепленного к Node.ownerDocument, имеет значение true, этот метод также полностью нормализует символы узлов Text. |
+| [QuerySelector](../../aspose.svg.dom/element/queryselector)(string) | Возвращает первый элемент в документе, соответствующий селектору |
+| [QuerySelectorAll](../../aspose.svg.dom/element/queryselectorall)(string) | Возвращает NodeList всех элементов в документе, соответствующих селектору |
+| [Remove](../../aspose.svg.dom/element/remove)() | Удаляет этот экземпляр. |
+| [RemoveAttribute](../../aspose.svg.dom/element/removeattribute)(string) | Удаляет атрибут по имени. |
+| [RemoveAttributeNode](../../aspose.svg.dom/element/removeattributenode)(Attr) | Удаляет указанный узел атрибута. |
+| [RemoveAttributeNS](../../aspose.svg.dom/element/removeattributens)(string, string) | Удаляет атрибут по локальному имени и URI пространства имен. |
+| [RemoveChild](../../aspose.svg.dom/node/removechild)(Node) | Удаляет дочерний узел, указанный oldChild, из списка дочерних, и возвращает его. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener)(string, IEventListener) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener)удаляется из[`EventTarget`](../../aspose.svg.dom/eventtarget)во время обработки события, это не будет вызвано текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener)(string, DOMEventHandler, bool) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener)удаляется из[`EventTarget`](../../aspose.svg.dom/eventtarget)во время обработки события, это не будет вызвано текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener)(string, IEventListener, bool) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener)удаляется из[`EventTarget`](../../aspose.svg.dom/eventtarget)во время обработки события, это не будет вызвано текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
+| [ReplaceChild](../../aspose.svg.dom/node/replacechild)(Node, Node) | Заменяет дочерний узел oldChild на newChild в списке дочерних элементов и возвращает узел oldChild. Если newChild является объектом DocumentFragment, то oldChild заменяется всеми дочерними объектами DocumentFragment, которые вставляются в том же порядке. Если новый дочерний элемент уже находится в дереве, он сначала удаляется. |
+| [SetAttribute](../../aspose.svg.dom/element/setattribute)(string, string) | Добавляет новый атрибут. Если атрибут с таким именем уже присутствует в элементе, его значение изменяется на значение параметра значения |
+| [SetAttributeNode](../../aspose.svg.dom/element/setattributenode)(Attr) | Добавляет новый узел атрибута. Если атрибут с таким именем (nodeName) уже присутствует в элементе, он заменяется новым. |
+| [SetAttributeNodeNS](../../aspose.svg.dom/element/setattributenodens)(Attr) | Добавляет новый атрибут. Если атрибут с таким локальным именем и этим URI пространства имен уже присутствует в элементе, он заменяется новым. |
+| [SetAttributeNS](../../aspose.svg.dom/element/setattributens)(string, string, string) | Добавляет новый атрибут. Если атрибут с тем же локальным именем и URI пространства имен уже присутствует в элементе, его префикс заменяется префиксной частью квалифицированного имени, а его значение заменяется параметром value. |
+| [SetIdAttribute](../../aspose.svg.dom/element/setidattribute)(string, bool) | Если параметр isId имеет значение true, этот метод объявляет указанный атрибут как идентификатор, определяемый пользователем. |
+| [SetIdAttributeNode](../../aspose.svg.dom/element/setidattributenode)(Attr, bool) | Если параметр isId имеет значение true, этот метод объявляет указанный атрибут как идентификатор, определяемый пользователем. |
+| [SetIdAttributeNS](../../aspose.svg.dom/element/setidattributens)(string, string, bool) | Если параметр isId имеет значение true, этот метод объявляет указанный атрибут как идентификатор, определяемый пользователем. |
+| override [ToString](../../aspose.svg.dom/node/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+
+### Смотрите также
+
+* class [SVGGeometryElement](../svggeometryelement)
+* interface [ISVGAnimatedPathData](../../aspose.svg.paths/isvganimatedpathdata)
+* пространство имен [Aspose.Svg](../../aspose.svg)
+* сборка [Aspose.SVG](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
