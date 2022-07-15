@@ -1,7 +1,7 @@
 ---
 title: IPathSegment
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents interface of any path segment.
 type: docs
 weight: 470
 url: /net/aspose.font.renderingpath/ipathsegment/

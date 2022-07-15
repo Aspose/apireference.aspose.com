@@ -1,12 +1,12 @@
 ---
 title: Version16Dot16
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Constructor
 type: docs
 weight: 10
 url: /net/aspose.font.ttfcommon/version16dot16/version16dot16/
 ---
-## Version16Dot16 constructor (1 of 2)
+## Version16Dot16() {#constructor}
 
 Constructor
 
@@ -22,7 +22,7 @@ public Version16Dot16()
 
 ---
 
-## Version16Dot16 constructor (2 of 2)
+## Version16Dot16(ushort, ushort) {#constructor_1}
 
 Constructor
 

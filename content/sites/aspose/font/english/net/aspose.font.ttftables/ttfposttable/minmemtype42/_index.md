@@ -1,7 +1,7 @@
 ---
 title: MinMemType42
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint32 minMemType42 Minimum memory usage when a TrueType font is downloaded as a Type 42 Font.
 type: docs
 weight: 80
 url: /net/aspose.font.ttftables/ttfposttable/minmemtype42/

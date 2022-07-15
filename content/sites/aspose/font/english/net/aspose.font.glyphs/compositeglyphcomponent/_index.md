@@ -1,7 +1,7 @@
 ---
 title: CompositeGlyphComponent
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents composite glyph component glyph with placement matrix.
 type: docs
 weight: 210
 url: /net/aspose.font.glyphs/compositeglyphcomponent/

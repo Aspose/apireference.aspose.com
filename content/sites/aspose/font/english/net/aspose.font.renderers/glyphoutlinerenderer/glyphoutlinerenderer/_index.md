@@ -1,7 +1,7 @@
 ---
 title: GlyphOutlineRenderer
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new GlyphOutlineRendereraspose.font.renderers/glyphoutlinerenderer object.
 type: docs
 weight: 10
 url: /net/aspose.font.renderers/glyphoutlinerenderer/glyphoutlinerenderer/

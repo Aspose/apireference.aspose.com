@@ -1,9 +1,9 @@
 ---
 title: GetStringForLanguageId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns string related to language identifier passed if found. Empty string otherwise.
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.font/multilanguagestring/getstringforlanguageid/
 ---
 ## MultiLanguageString.GetStringForLanguageId method
@@ -18,7 +18,7 @@ public string GetStringForLanguageId(int languageId)
 | --- | --- | --- |
 | languageId | Int32 | language identifier |
 
-## Return Value
+### Return Value
 
 String related to language identifier passed, if found. Empty string otherwise.
 

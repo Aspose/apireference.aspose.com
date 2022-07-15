@@ -1,7 +1,7 @@
 ---
 title: Shift
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Performs shift by x and y coordinates.
 type: docs
 weight: 20
 url: /net/aspose.font.renderingpath/ipathsegment/shift/

@@ -1,7 +1,7 @@
 ---
 title: FontIndex
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font index inside TTC Font.
 type: docs
 weight: 20
 url: /net/aspose.font.ttf/ttcfontfiledefinition/fontindex/

@@ -1,7 +1,7 @@
 ---
 title: YMin
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets YMin value.
 type: docs
 weight: 40
 url: /net/aspose.font/fontbbox/ymin/

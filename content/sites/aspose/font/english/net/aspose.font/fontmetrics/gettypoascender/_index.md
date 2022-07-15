@@ -1,7 +1,7 @@
 ---
 title: GetTypoAscender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns descender for specific Font size.
 type: docs
 weight: 160
 url: /net/aspose.font/fontmetrics/gettypoascender/
@@ -18,7 +18,7 @@ public virtual double GetTypoAscender(double fontSize)
 | --- | --- | --- |
 | fontSize | Double | Font size. |
 
-## Return Value
+### Return Value
 
 Typographic ascender value.
 

@@ -1,7 +1,7 @@
 ---
 title: YStrikeoutPosition
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets YStrikeoutPosition value.
 type: docs
 weight: 250
 url: /net/aspose.font.ttftables/ttfos2table/ystrikeoutposition/

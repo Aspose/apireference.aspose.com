@@ -1,7 +1,7 @@
 ---
 title: TtfCMapFormat2Table
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents Format2 CMap subtable of the TTF Font file.
 type: docs
 weight: 680
 url: /net/aspose.font.ttfcmapformats/ttfcmapformat2table/

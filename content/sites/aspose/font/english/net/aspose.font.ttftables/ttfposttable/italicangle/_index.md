@@ -1,7 +1,7 @@
 ---
 title: ItalicAngle
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets fixed italicAngle Italic angle in degrees.
 type: docs
 weight: 40
 url: /net/aspose.font.ttftables/ttfposttable/italicangle/

@@ -1,7 +1,7 @@
 ---
 title: ToGlyphUInt32Id
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Virtual cast to GlyphUInt32Id. GlyphUInt32Id overrides to return instance.
 type: docs
 weight: 40
 url: /net/aspose.font.glyphs/glyphid/toglyphuint32id/
@@ -14,7 +14,7 @@ Virtual cast to GlyphUInt32Id. GlyphUInt32Id overrides to return instance.
 public virtual GlyphUInt32Id ToGlyphUInt32Id()
 ```
 
-## Return Value
+### Return Value
 
 null
 

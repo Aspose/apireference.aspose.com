@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Clones the stream source object.
 type: docs
 weight: 30
 url: /net/aspose.font.sources/streamsource/clone/
@@ -14,7 +14,7 @@ Clones the stream source object.
 public abstract object Clone()
 ```
 
-## Return Value
+### Return Value
 
 Copy of the stream source object.
 

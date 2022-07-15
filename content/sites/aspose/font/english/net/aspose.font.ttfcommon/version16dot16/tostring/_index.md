@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Return version value as a formated string For example 0.5 1.1 3.0 etc.
 type: docs
 weight: 60
 url: /net/aspose.font.ttfcommon/version16dot16/tostring/

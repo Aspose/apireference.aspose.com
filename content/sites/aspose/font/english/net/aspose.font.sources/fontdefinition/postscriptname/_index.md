@@ -1,7 +1,7 @@
 ---
 title: PostscriptName
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets postscript Font name.
 type: docs
 weight: 70
 url: /net/aspose.font.sources/fontdefinition/postscriptname/

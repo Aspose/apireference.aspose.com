@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Clones the ByteContentStreamSource object.
 type: docs
 weight: 20
 url: /net/aspose.font.sources/bytecontentstreamsource/clone/
@@ -14,7 +14,7 @@ Clones the ByteContentStreamSource object.
 public override object Clone()
 ```
 
-## Return Value
+### Return Value
 
 Copy of object.
 

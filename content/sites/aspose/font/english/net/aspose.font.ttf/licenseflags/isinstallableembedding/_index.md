@@ -1,7 +1,7 @@
 ---
 title: IsInstallableEmbedding
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Detects whether fsType is Installable embedding.
 type: docs
 weight: 50
 url: /net/aspose.font.ttf/licenseflags/isinstallableembedding/

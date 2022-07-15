@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets or sets string value.
 type: docs
 weight: 30
 url: /net/aspose.font.glyphs/glyphstringid/value/

@@ -1,7 +1,7 @@
 ---
 title: op_Inequality
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Inequality operator implementation.
 type: docs
 weight: 90
 url: /net/aspose.font.glyphs/glyphuint32id/op_inequality/
@@ -19,7 +19,7 @@ public static bool operator !=(GlyphUInt32Id obj1, object obj2)
 | obj1 | GlyphUInt32Id | first glyph identifier to compare |
 | obj2 | Object | second glyph identifier to compare |
 
-## Return Value
+### Return Value
 
 comparison result
 

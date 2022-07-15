@@ -1,7 +1,7 @@
 ---
 title: GetGlyphWidth
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns glyph width.
 type: docs
 weight: 140
 url: /net/aspose.font/ifontmetrics/getglyphwidth/
@@ -18,7 +18,7 @@ public double GetGlyphWidth(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | Glyph identifier. |
 
-## Return Value
+### Return Value
 
 Glyph width.
 

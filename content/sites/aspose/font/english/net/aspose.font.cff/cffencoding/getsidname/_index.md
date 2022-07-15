@@ -1,7 +1,7 @@
 ---
 title: GetSidName
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets name for the SID specified.
 type: docs
 weight: 70
 url: /net/aspose.font.cff/cffencoding/getsidname/
@@ -18,7 +18,7 @@ public string GetSidName(int sid)
 | --- | --- | --- |
 | sid | Int32 | String identifier. |
 
-## Return Value
+### Return Value
 
 Name from string INDEX if found.
 

@@ -1,7 +1,7 @@
 ---
 title: DecodeToGidParameterized
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Parameterized decode method. Not supported for CFF Font type.
 type: docs
 weight: 20
 url: /net/aspose.font.cff/cffencoding/decodetogidparameterized/
@@ -19,7 +19,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 | parameters | IEncodingParameters | Implementation of [`IEncodingParameters`](../../../aspose.font/iencodingparameters)interface. |
 | charCode | UInt32 | Character code to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to charCode passed.
 

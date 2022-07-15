@@ -1,7 +1,7 @@
 ---
 title: GetAscender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns ascender for specific Font size.
 type: docs
 weight: 110
 url: /net/aspose.font/fontmetrics/getascender/
@@ -18,7 +18,7 @@ public virtual double GetAscender(double fontSize)
 | --- | --- | --- |
 | fontSize | Double | Font size. |
 
-## Return Value
+### Return Value
 
 Ascender value.
 

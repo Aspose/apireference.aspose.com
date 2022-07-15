@@ -1,7 +1,7 @@
 ---
 title: IsFixedPitch
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: True if the Font is monospaced.
 type: docs
 weight: 50
 url: /net/aspose.font/ifontmetrics/isfixedpitch/

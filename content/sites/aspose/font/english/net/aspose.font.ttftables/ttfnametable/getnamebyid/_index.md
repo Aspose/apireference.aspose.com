@@ -1,9 +1,9 @@
 ---
 title: GetNameById
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns a name by nameId if found null otherwise
 type: docs
-weight: 40
+weight: 70
 url: /net/aspose.font.ttftables/ttfnametable/getnamebyid/
 ---
 ## TtfNameTable.GetNameById method
@@ -18,7 +18,7 @@ public string GetNameById(NameId nameId)
 | --- | --- | --- |
 | nameId | NameId | name identifier |
 
-## Return Value
+### Return Value
 
 name
 

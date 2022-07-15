@@ -1,7 +1,7 @@
 ---
 title: LanguageId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Language identifier
 type: docs
 weight: 20
 url: /net/aspose.font.ttftables/ttfnametable.namerecord/languageid/

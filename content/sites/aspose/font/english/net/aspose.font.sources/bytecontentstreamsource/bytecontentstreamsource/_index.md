@@ -1,7 +1,7 @@
 ---
 title: ByteContentStreamSource
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new ByteContentStreamSourceaspose.font.sources/bytecontentstreamsource object.
 type: docs
 weight: 10
 url: /net/aspose.font.sources/bytecontentstreamsource/bytecontentstreamsource/

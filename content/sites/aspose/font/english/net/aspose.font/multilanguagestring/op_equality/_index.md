@@ -1,12 +1,12 @@
 ---
 title: op_Equality
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Equality operator implementation.
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.font/multilanguagestring/op_equality/
 ---
-## MultiLanguageString Equality operator (1 of 2)
+## operator == {#op_equality}
 
 Equality operator implementation.
 
@@ -19,7 +19,7 @@ public static bool operator ==(MultiLanguageString obj1, string obj2)
 | obj1 | MultiLanguageString | first object to compare |
 | obj2 | String | second object to compare |
 
-## Return Value
+### Return Value
 
 comparison result
 
@@ -31,7 +31,7 @@ comparison result
 
 ---
 
-## MultiLanguageString Equality operator (2 of 2)
+## operator == {#op_equality_1}
 
 Equality operator implementation.
 
@@ -44,7 +44,7 @@ public static bool operator ==(string obj1, MultiLanguageString obj2)
 | obj1 | String | string to compare |
 | obj2 | MultiLanguageString | multilanguage string to compare |
 
-## Return Value
+### Return Value
 
 comparison result
 

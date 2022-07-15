@@ -1,9 +1,9 @@
 ---
 title: GetHashCode
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: GetHashCode implementation.
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.font/multilanguagestring/gethashcode/
 ---
 ## MultiLanguageString.GetHashCode method
@@ -14,7 +14,7 @@ GetHashCode implementation.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 hash code of object
 

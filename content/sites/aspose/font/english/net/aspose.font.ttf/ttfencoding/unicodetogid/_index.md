@@ -1,7 +1,7 @@
 ---
 title: UnicodeToGid
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Decodes a unicode and returns glyph id.
 type: docs
 weight: 50
 url: /net/aspose.font.ttf/ttfencoding/unicodetogid/
@@ -18,7 +18,7 @@ public GlyphId UnicodeToGid(uint unicode)
 | --- | --- | --- |
 | unicode | UInt32 | Unicode to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to unicode passed.
 

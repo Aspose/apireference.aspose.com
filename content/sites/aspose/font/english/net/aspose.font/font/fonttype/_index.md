@@ -1,7 +1,7 @@
 ---
 title: FontType
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font type. Type1 TrueType etc.
 type: docs
 weight: 90
 url: /net/aspose.font/font/fonttype/

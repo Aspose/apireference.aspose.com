@@ -1,12 +1,12 @@
 ---
 title: GetGlyphById
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns glyph by glyph id. Glyph id is a unique number for a glyph which is font type dependent. TTF Font glyph id can be instance of GlyphStringIdaspose.font.glyphs/glyphstringid class or GlyphUInt32Idaspose.font.glyphs/glyphuint32id class. Name string glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside the CFF structures are used to address glyphs by name.
 type: docs
 weight: 180
 url: /net/aspose.font.ttf/ttffont/getglyphbyid/
 ---
-## TtfFont.GetGlyphById method (1 of 3)
+## GetGlyphById(GlyphId) {#getglyphbyid}
 
 Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name.
 
@@ -18,7 +18,7 @@ public override Glyph GetGlyphById(GlyphId id)
 | --- | --- | --- |
 | id | GlyphId | Glyph id. |
 
-## Return Value
+### Return Value
 
 Glyph.
 
@@ -32,7 +32,7 @@ Glyph.
 
 ---
 
-## TtfFont.GetGlyphById method (2 of 3)
+## GetGlyphById(string) {#getglyphbyid_1}
 
 Returns glyph by glyph name. Name (string) glyph addressing is supported for TTF fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name.
 
@@ -44,7 +44,7 @@ public Glyph GetGlyphById(string glyphName)
 | --- | --- | --- |
 | glyphName | String | Glyph string identifier. |
 
-## Return Value
+### Return Value
 
 Glyph.
 
@@ -57,7 +57,7 @@ Glyph.
 
 ---
 
-## TtfFont.GetGlyphById method (3 of 3)
+## GetGlyphById(uint) {#getglyphbyid_2}
 
 Returns glyph by glyph id.
 
@@ -69,7 +69,7 @@ public Glyph GetGlyphById(uint id)
 | --- | --- | --- |
 | id | UInt32 | Glyph index. |
 
-## Return Value
+### Return Value
 
 Glyph.
 

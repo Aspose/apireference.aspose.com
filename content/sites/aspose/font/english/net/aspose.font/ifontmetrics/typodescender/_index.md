@@ -1,7 +1,7 @@
 ---
 title: TypoDescender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets typographic descender value of the Font in Font units.
 type: docs
 weight: 80
 url: /net/aspose.font/ifontmetrics/typodescender/

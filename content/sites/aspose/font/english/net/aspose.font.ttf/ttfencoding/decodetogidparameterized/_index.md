@@ -1,7 +1,7 @@
 ---
 title: DecodeToGidParameterized
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Parametrized version allows to use specific CMap table not unicode.
 type: docs
 weight: 20
 url: /net/aspose.font.ttf/ttfencoding/decodetogidparameterized/
@@ -19,7 +19,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 | parameters | IEncodingParameters | Implementation of [`IEncodingParameters`](../../../aspose.font/iencodingparameters)interface. |
 | charCode | UInt32 | Character code to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to character code passed.
 

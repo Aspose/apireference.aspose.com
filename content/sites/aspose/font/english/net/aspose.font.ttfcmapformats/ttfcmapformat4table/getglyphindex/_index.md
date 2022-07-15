@@ -1,7 +1,7 @@
 ---
 title: GetGlyphIndex
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets a glyph index for a given character code.
 type: docs
 weight: 20
 url: /net/aspose.font.ttfcmapformats/ttfcmapformat4table/getglyphindex/
@@ -18,7 +18,7 @@ public override uint GetGlyphIndex(uint charCode)
 | --- | --- | --- |
 | charCode | UInt32 | Character code. |
 
-## Return Value
+### Return Value
 
 Glyph index.
 

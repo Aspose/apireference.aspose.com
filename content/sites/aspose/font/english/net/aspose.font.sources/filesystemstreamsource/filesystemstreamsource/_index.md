@@ -1,7 +1,7 @@
 ---
 title: FileSystemStreamSource
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new FileSystemStreamSourceaspose.font.sources/filesystemstreamsource object.
 type: docs
 weight: 10
 url: /net/aspose.font.sources/filesystemstreamsource/filesystemstreamsource/

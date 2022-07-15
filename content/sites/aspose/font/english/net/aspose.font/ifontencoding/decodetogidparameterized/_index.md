@@ -1,7 +1,7 @@
 ---
 title: DecodeToGidParameterized
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Parameterized decode method. Some font types can have multiple encoding algorithms/maps. So IEncodingParametersaspose.font/iencodingparameters interface is used to create concrete font encoding parameters.
 type: docs
 weight: 20
 url: /net/aspose.font/ifontencoding/decodetogidparameterized/
@@ -19,7 +19,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 | parameters | IEncodingParameters | Implementation of [`IEncodingParameters`](../../iencodingparameters) interface. |
 | charCode | UInt32 | Character code to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to char code passed.
 

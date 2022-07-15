@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets coordinate x.
 type: docs
 weight: 10
 url: /net/aspose.font.renderingpath/closepath/x/

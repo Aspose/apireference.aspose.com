@@ -1,7 +1,7 @@
 ---
 title: SourceResolution
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets resolution of the source command set.
 type: docs
 weight: 60
 url: /net/aspose.font.glyphs/glyph/sourceresolution/

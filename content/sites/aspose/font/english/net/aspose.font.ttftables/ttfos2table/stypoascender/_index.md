@@ -1,7 +1,7 @@
 ---
 title: STypoAscender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets STypoAscender value.
 type: docs
 weight: 70
 url: /net/aspose.font.ttftables/ttfos2table/stypoascender/

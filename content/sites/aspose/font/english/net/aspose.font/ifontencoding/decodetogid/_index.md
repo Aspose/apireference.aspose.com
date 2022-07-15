@@ -1,7 +1,7 @@
 ---
 title: DecodeToGid
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Decodes a character code and returns glyph id. Glyph id is a unique number for a glyph which is font type dependent. For example Type1s id is a glyph name instance of GlyphStringIdaspose.font.glyphs/glyphstringid class. TTFs id is an int index instance of GlyphUInt32Idaspose.font.glyphs/glyphuint32id class. Note character code is not necessary a unicode. Character code is a char index in Font encoding table.
 type: docs
 weight: 10
 url: /net/aspose.font/ifontencoding/decodetogid/
@@ -18,7 +18,7 @@ public GlyphId DecodeToGid(uint charCode)
 | --- | --- | --- |
 | charCode | UInt32 | Character code to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to charCode passed.
 

@@ -1,7 +1,7 @@
 ---
 title: LeftSidebearingX
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph side bearing x coordinate.
 type: docs
 weight: 30
 url: /net/aspose.font.glyphs/glyph/leftsidebearingx/

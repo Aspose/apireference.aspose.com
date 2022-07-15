@@ -1,7 +1,7 @@
 ---
 title: GetGlyphsForText
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Get glyphs representation for text.
 type: docs
 weight: 200
 url: /net/aspose.font.ttf/ttffont/getglyphsfortext/
@@ -18,7 +18,7 @@ public override GlyphId[] GetGlyphsForText(string text)
 | --- | --- | --- |
 | text | String | Input text. |
 
-## Return Value
+### Return Value
 
 GlyphId array.
 

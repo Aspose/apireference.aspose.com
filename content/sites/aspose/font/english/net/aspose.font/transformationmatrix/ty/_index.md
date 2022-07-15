@@ -1,7 +1,7 @@
 ---
 title: TY
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets or sets TY transformation matrix value.
 type: docs
 weight: 80
 url: /net/aspose.font/transformationmatrix/ty/

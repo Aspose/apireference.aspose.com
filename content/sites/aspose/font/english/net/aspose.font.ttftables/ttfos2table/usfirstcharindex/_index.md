@@ -1,7 +1,7 @@
 ---
 title: USFirstCharIndex
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets USFirstCharIndex value.
 type: docs
 weight: 160
 url: /net/aspose.font.ttftables/ttfos2table/usfirstcharindex/

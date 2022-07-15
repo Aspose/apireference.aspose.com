@@ -1,7 +1,7 @@
 ---
 title: ULCodePageRange
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets ULCodePageRange value.
 type: docs
 weight: 120
 url: /net/aspose.font.ttftables/ttfos2table/ulcodepagerange/

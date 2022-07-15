@@ -1,7 +1,7 @@
 ---
 title: GetNameToSidIndex
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns name to character code encoding map. Note Character code is not a unicode. Character code is a char index in Font encoding table.
 type: docs
 weight: 60
 url: /net/aspose.font.cff/cffencoding/getnametosidindex/
@@ -14,7 +14,7 @@ Returns name to character code encoding map. Note: Character code is not a unico
 public NameToCodeMap GetNameToSidIndex()
 ```
 
-## Return Value
+### Return Value
 
 Name to character code encoding map.
 

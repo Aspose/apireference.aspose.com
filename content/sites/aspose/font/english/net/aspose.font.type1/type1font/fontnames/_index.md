@@ -1,7 +1,7 @@
 ---
 title: FontNames
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font names.
 type: docs
 weight: 50
 url: /net/aspose.font.type1/type1font/fontnames/

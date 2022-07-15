@@ -1,7 +1,7 @@
 ---
 title: NameRecord
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttfnametable.namerecord/namerecord/

@@ -1,7 +1,7 @@
 ---
 title: IsEmpty
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: True if the glyph doesnt contain drawing instructions.
 type: docs
 weight: 20
 url: /net/aspose.font.glyphs/glyph/isempty/

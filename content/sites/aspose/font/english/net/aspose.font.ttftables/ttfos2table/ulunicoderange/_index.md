@@ -1,7 +1,7 @@
 ---
 title: ULUnicodeRange
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets ULUnicodeRange value.
 type: docs
 weight: 130
 url: /net/aspose.font.ttftables/ttfos2table/ulunicoderange/

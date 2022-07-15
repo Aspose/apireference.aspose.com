@@ -1,7 +1,7 @@
 ---
 title: UpdateName
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Updates name in records which related to specified platform combination of platformId and platformSpecificId category nameId and language languageId.
 type: docs
 weight: 90
 url: /net/aspose.font.ttftables/ttfnametable/updatename/

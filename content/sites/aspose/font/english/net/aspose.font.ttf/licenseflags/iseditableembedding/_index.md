@@ -1,7 +1,7 @@
 ---
 title: IsEditableEmbedding
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Detects whether fsType permits Editable embedding.
 type: docs
 weight: 40
 url: /net/aspose.font.ttf/licenseflags/iseditableembedding/

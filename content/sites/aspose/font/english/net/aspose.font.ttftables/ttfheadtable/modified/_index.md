@@ -1,7 +1,7 @@
 ---
 title: Modified
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets longDateTime modified international date.
 type: docs
 weight: 110
 url: /net/aspose.font.ttftables/ttfheadtable/modified/

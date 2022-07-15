@@ -1,7 +1,7 @@
 ---
 title: Version16Dot16
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Reresents Version16Dot16 datatype
 type: docs
 weight: 730
 url: /net/aspose.font.ttfcommon/version16dot16/
@@ -18,8 +18,8 @@ public class Version16Dot16 : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Version16Dot16](version16dot16)() | Constructor |
-| [Version16Dot16](version16dot16)(ushort, ushort) | Constructor |
+| [Version16Dot16](version16dot16#constructor)() | Constructor |
+| [Version16Dot16](version16dot16#constructor_1)(ushort, ushort) | Constructor |
 
 ## Properties
 

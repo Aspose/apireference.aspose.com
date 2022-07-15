@@ -1,7 +1,7 @@
 ---
 title: GlyphIdType
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph id type specification.
 type: docs
 weight: 80
 url: /net/aspose.font.cff/cfffont/glyphidtype/

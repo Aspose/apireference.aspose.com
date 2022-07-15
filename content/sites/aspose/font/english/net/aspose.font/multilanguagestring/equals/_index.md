@@ -1,9 +1,9 @@
 ---
 title: Equals
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true if objects are considered equal.
 type: docs
-weight: 20
+weight: 40
 url: /net/aspose.font/multilanguagestring/equals/
 ---
 ## MultiLanguageString.Equals method
@@ -18,7 +18,7 @@ public override bool Equals(object objToCompare)
 | --- | --- | --- |
 | objToCompare | Object | object to compare with |
 
-## Return Value
+### Return Value
 
 comparison result
 

@@ -1,7 +1,7 @@
 ---
 title: MustCloseAfterUse
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: The inheritors may prevent stream from closing. Returns true if the stream source wants the stream to be closed after use. Otherwise returns false.
 type: docs
 weight: 50
 url: /net/aspose.font.sources/streamsource/mustcloseafteruse/
@@ -14,7 +14,7 @@ The inheritors may prevent stream from closing. Returns true if the stream sourc
 public virtual bool MustCloseAfterUse()
 ```
 
-## Return Value
+### Return Value
 
 True if the stream source wants the stream to be closed after use, otherwise false.
 

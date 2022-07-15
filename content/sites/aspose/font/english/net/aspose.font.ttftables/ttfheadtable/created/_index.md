@@ -1,7 +1,7 @@
 ---
 title: Created
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets longDateTime created international date.
 type: docs
 weight: 20
 url: /net/aspose.font.ttftables/ttfheadtable/created/

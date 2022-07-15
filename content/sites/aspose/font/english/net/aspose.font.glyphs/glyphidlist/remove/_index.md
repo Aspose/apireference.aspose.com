@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Removes glyph id from the list.
 type: docs
 weight: 50
 url: /net/aspose.font.glyphs/glyphidlist/remove/
@@ -18,7 +18,7 @@ public bool Remove(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | glyph identifier |
 
-## Return Value
+### Return Value
 
 true if item is successfully removed; otherwise, false
 

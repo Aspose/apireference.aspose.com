@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Saves the Font into original format.
 type: docs
 weight: 200
 url: /net/aspose.font/font/save/
 ---
-## Font.Save method (1 of 2)
+## Save(Stream) {#save}
 
 Saves the Font into original format.
 
@@ -30,7 +30,7 @@ Note: following Font types are supported for saving: New TTF Fonts; TTF Font sub
 
 ---
 
-## Font.Save method (2 of 2)
+## Save(string) {#save_1}
 
 Saves the Font into original format.
 

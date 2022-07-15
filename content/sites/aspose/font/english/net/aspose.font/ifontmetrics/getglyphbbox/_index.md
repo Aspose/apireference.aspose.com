@@ -1,7 +1,7 @@
 ---
 title: GetGlyphBBox
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns glyph BBox.
 type: docs
 weight: 130
 url: /net/aspose.font/ifontmetrics/getglyphbbox/
@@ -18,7 +18,7 @@ public FontBBox GetGlyphBBox(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | glyph identifier |
 
-## Return Value
+### Return Value
 
 glyph BBox
 

@@ -1,7 +1,7 @@
 ---
 title: TypoLineGap
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets typographic LineGap value of the Font in Font units.
 type: docs
 weight: 90
 url: /net/aspose.font/ifontmetrics/typolinegap/

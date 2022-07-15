@@ -1,12 +1,12 @@
 ---
 title: MergeFonts
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Merges fonts based on glyphs lists passed. Searches for a character code for every glyph passed and add found character code with correspondent glyph into resultant new font.
 type: docs
 weight: 10
 url: /net/aspose.font.ttfhelpers/ifontcharactersmerger/mergefonts/
 ---
-## IFontCharactersMerger.MergeFonts method (1 of 3)
+## MergeFonts(GlyphId[], GlyphId[], string) {#mergefonts}
 
 Merges fonts based on glyphs lists passed. Searches for a character code for every glyph passed and add found character code with correspondent glyph into resultant new font.
 
@@ -20,7 +20,7 @@ public TtfFont MergeFonts(GlyphId[] font1Glyphs, GlyphId[] font2Glyphs, string n
 | font2Glyphs | GlyphId[] | List of glyphs from second font |
 | newFontName | String | Desired name for resultant font |
 
-## Return Value
+### Return Value
 
 Merged font
 
@@ -34,7 +34,7 @@ Merged font
 
 ---
 
-## IFontCharactersMerger.MergeFonts method (2 of 3)
+## MergeFonts(uint[], uint[], string) {#mergefonts_2}
 
 Merges fonts based on character codes lists passed. To create desired resultant font just pass symbol codes from original fonts you want to include into resultant font. Glyphs related to codes passed will be found automatically. For example, if you want to include into resultant font glyphs related to letters A and B from first font and glyphs, related to letters C and D from second font, just call this method like this:
 
@@ -52,7 +52,7 @@ public TtfFont MergeFonts(uint[] font1CharCodes, uint[] font2CharCodes, string n
 | font2CharCodes | UInt32[] | Codes to take from second font |
 | newFontName | String | Desired name for resultant font |
 
-## Return Value
+### Return Value
 
 Merged font
 
@@ -65,7 +65,7 @@ Merged font
 
 ---
 
-## IFontCharactersMerger.MergeFonts method (3 of 3)
+## MergeFonts(IDictionary&lt;uint, GlyphId&gt;, IDictionary&lt;uint, GlyphId&gt;, string) {#mergefonts_1}
 
 This method version designed for cases when you want to set character codes for glyphs in resultant font explicitly. It's not mandatory that code for glyph you provided is included in original font. The sense of code passed is that it will be associated with correspondent glyph identifier in resultant font. So, rule to process every pair passed by dictionary parameter[code, glyph ideitifier] is that only glyph identifer will be taken from original font and then it will be linked with correspondent code in resultant font. It can be helpful when some codes from first font conflict with same codes from second font.
 
@@ -80,7 +80,7 @@ public TtfFont MergeFonts(IDictionary<uint, GlyphId> font1Dict,
 | font2Dict | IDictionary`2 | Dictionary with pairs [symbol code, glyph identifier] from second font |
 | newFontName | String | Desired name for resultant font |
 
-## Return Value
+### Return Value
 
 Merged font
 

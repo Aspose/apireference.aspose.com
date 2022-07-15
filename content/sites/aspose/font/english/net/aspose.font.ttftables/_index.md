@@ -3,7 +3,7 @@ title: Aspose.Font.TtfTables
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.TtfTables namespace provides classes for work with different tables of TrueType format.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.font.ttftables/
 ---
 The **Aspose.Font.TtfTables** namespace provides classes for work with different tables of TrueType format.
@@ -14,7 +14,7 @@ The **Aspose.Font.TtfTables** namespace provides classes for work with different
 | --- | --- |
 | [TtfCffTable](./ttfcfftable) | Represents "cff" table of the TTF Font file. |
 | [TtfCMapTable](./ttfcmaptable) | Represents "cmap" table of the TTF Font file. |
-| [TtfCvtTable](./ttfcvttable) | Represents Control Value Table (../CVT) of the TTF Font file. |
+| [TtfCvtTable](./ttfcvttable) | Represents Control Value Table (CVT) of the TTF Font file. |
 | [TtfFpgmTable](./ttffpgmtable) | Represents "fpgm" table of the TTF Font file. |
 | [TtfGlyfTable](./ttfglyftable) | Represents "glyf" table of the TTF Font file. |
 | [TtfHeadTable](./ttfheadtable) | Represents "head" table of the TTF Font file. |

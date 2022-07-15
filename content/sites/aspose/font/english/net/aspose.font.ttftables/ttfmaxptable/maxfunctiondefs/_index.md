@@ -1,7 +1,7 @@
 ---
 title: MaxFunctionDefs
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxFunctionDefs number of FDEFs.
 type: docs
 weight: 60
 url: /net/aspose.font.ttftables/ttfmaxptable/maxfunctiondefs/

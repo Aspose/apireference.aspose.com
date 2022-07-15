@@ -1,7 +1,7 @@
 ---
 title: FontSaver
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font save functionality.
 type: docs
 weight: 70
 url: /net/aspose.font/font/fontsaver/

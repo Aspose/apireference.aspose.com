@@ -1,7 +1,7 @@
 ---
 title: Glyph
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets the component glyph.
 type: docs
 weight: 10
 url: /net/aspose.font.glyphs/compositeglyphcomponent/glyph/

@@ -1,7 +1,7 @@
 ---
 title: FSTypeAbsent
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true if fsType flag is absent in OS/2 table.
 type: docs
 weight: 20
 url: /net/aspose.font.ttf/licenseflags/fstypeabsent/

@@ -1,7 +1,7 @@
 ---
 title: UnicodeToGid
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph which is font type dependent. CFF Font glyph id can be instance of GlyphStringIdaspose.font.glyphs/glyphstringid class or GlyphUInt32Idaspose.font.glyphs/glyphuint32id class.
 type: docs
 weight: 90
 url: /net/aspose.font.cff/cffencoding/unicodetogid/
@@ -18,7 +18,7 @@ public GlyphId UnicodeToGid(uint unicode)
 | --- | --- | --- |
 | unicode | UInt32 | Unicode to get glyph identifier for. |
 
-## Return Value
+### Return Value
 
 Glyph identifier related to unicode passed.
 

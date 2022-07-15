@@ -1,7 +1,7 @@
 ---
 title: TypoLineGap
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets TypoLineGap value.
 type: docs
 weight: 80
 url: /net/aspose.font.ttf/ttffontmetrics/typolinegap/

@@ -1,12 +1,12 @@
 ---
 title: EncodingException
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new EncodingExceptionaspose.font.exceptions/encodingexception object.
 type: docs
 weight: 10
 url: /net/aspose.font.exceptions/encodingexception/encodingexception/
 ---
-## EncodingException constructor (1 of 4)
+## EncodingException() {#constructor}
 
 Initializes new [`EncodingException`](../../encodingexception) object.
 
@@ -22,7 +22,7 @@ public EncodingException()
 
 ---
 
-## EncodingException constructor (2 of 4)
+## EncodingException(string) {#constructor_2}
 
 Initializes new [`EncodingException`](../../encodingexception) object.
 
@@ -42,7 +42,7 @@ public EncodingException(string message)
 
 ---
 
-## EncodingException constructor (3 of 4)
+## EncodingException(string, Exception) {#constructor_3}
 
 Initializes new [`EncodingException`](../../encodingexception) object.
 
@@ -63,7 +63,7 @@ public EncodingException(string message, Exception innerException)
 
 ---
 
-## EncodingException constructor (4 of 4)
+## EncodingException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`EncodingException`](../../encodingexception) object.
 

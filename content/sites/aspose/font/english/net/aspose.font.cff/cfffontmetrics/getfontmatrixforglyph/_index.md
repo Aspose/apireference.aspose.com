@@ -1,7 +1,7 @@
 ---
 title: GetFontMatrixForGlyph
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Calculates transformation matrix for glyph specified by id.
 type: docs
 weight: 60
 url: /net/aspose.font.cff/cfffontmetrics/getfontmatrixforglyph/
@@ -18,7 +18,7 @@ public TransformationMatrix GetFontMatrixForGlyph(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | Glyph identifier. |
 
-## Return Value
+### Return Value
 
 Glyph transformation matrix.
 

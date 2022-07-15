@@ -1,7 +1,7 @@
 ---
 title: DecodeToGidParameterized
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Parameterized decode method. Not supported for Type1 Font type.
 type: docs
 weight: 20
 url: /net/aspose.font.type1/type1encoding/decodetogidparameterized/
@@ -19,7 +19,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 | parameters | IEncodingParameters | Not supported for Type1 Font type. |
 | charCode | UInt32 | Not supported for Type1 Font type. |
 
-## Return Value
+### Return Value
 
 Not supported for Type1 Font type.
 

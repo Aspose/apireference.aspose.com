@@ -1,7 +1,7 @@
 ---
 title: Copy
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Creates copy of the segment object.
 type: docs
 weight: 10
 url: /net/aspose.font.renderingpath/ipathsegment/copy/
@@ -14,7 +14,7 @@ Creates copy of the segment object.
 public IPathSegment Copy()
 ```
 
-## Return Value
+### Return Value
 
 Copy of the segment object.
 

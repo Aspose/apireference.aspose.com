@@ -1,7 +1,7 @@
 ---
 title: NameId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Name identifier
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttfnametable.namerecord/nameid/

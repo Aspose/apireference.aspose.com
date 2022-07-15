@@ -1,7 +1,7 @@
 ---
 title: USBreakChar
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets USBreakChar value.
 type: docs
 weight: 140
 url: /net/aspose.font.ttftables/ttfos2table/usbreakchar/

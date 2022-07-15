@@ -1,9 +1,9 @@
 ---
 title: TtfNameTable.PlatformId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents PlatformId enumeration.
 type: docs
-weight: 960
+weight: 970
 url: /net/aspose.font.ttftables/ttfnametable.platformid/
 ---
 ## TtfNameTable.PlatformId enumeration
@@ -14,7 +14,7 @@ Represents PlatformId enumeration.
 public enum PlatformId
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

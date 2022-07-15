@@ -1,7 +1,7 @@
 ---
 title: XMax
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets XMax value.
 type: docs
 weight: 10
 url: /net/aspose.font/fontbbox/xmax/

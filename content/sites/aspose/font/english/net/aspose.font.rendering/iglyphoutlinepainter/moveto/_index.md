@@ -1,7 +1,7 @@
 ---
 title: MoveTo
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Processes MoveTo operation.
 type: docs
 weight: 40
 url: /net/aspose.font.rendering/iglyphoutlinepainter/moveto/

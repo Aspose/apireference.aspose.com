@@ -1,7 +1,7 @@
 ---
 title: IsBitmapOnlyEmbedding
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Detects whether fsType permits BitmapOnly embedding.
 type: docs
 weight: 30
 url: /net/aspose.font.ttf/licenseflags/isbitmaponlyembedding/

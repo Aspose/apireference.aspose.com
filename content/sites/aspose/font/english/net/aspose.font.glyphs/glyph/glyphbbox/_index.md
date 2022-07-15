@@ -1,7 +1,7 @@
 ---
 title: GlyphBBox
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph BBox.
 type: docs
 weight: 10
 url: /net/aspose.font.glyphs/glyph/glyphbbox/

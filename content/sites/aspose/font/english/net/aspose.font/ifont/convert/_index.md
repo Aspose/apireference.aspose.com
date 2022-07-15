@@ -1,7 +1,7 @@
 ---
 title: Convert
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Converts the Font into another format.
 type: docs
 weight: 140
 url: /net/aspose.font/ifont/convert/
@@ -18,7 +18,7 @@ public Font Convert(FontType fontType)
 | --- | --- | --- |
 | fontType | FontType | type to convert to font into |
 
-## Return Value
+### Return Value
 
 font converted into format specified
 

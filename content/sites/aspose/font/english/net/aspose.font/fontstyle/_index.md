@@ -1,7 +1,7 @@
 ---
 title: FontStyle
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Specifies Font style.
 type: docs
 weight: 180
 url: /net/aspose.font/fontstyle/
@@ -15,7 +15,7 @@ Specifies Font style.
 public enum FontStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

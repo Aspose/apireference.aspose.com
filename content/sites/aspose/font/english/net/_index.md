@@ -22,6 +22,7 @@ is_root: true
 | [Aspose.Font.Sources](./aspose.font.sources) | The **Aspose.Font.Sources** namespace provides functionality to access Font data from different sources(files, memory streams, etc). |
 | [Aspose.Font.Ttf](./aspose.font.ttf) | The **Aspose.Font.Ttf** namespace provides classes describing objects related to TTF Font format. |
 | [Aspose.Font.TtfCMapFormats](./aspose.font.ttfcmapformats) | The **Aspose.Font.TtfCMapFormats** namespace provides classes for work with different formats of CMap subtables. |
+| [Aspose.Font.TtfCommon](./aspose.font.ttfcommon) | The **Aspose.Font.TtfCommon** namespace provides classes which are common for TrueType format area |
 | [Aspose.Font.TtfHelpers](./aspose.font.ttfhelpers) | The **Aspose.Font.TtfHelpers** namespace provides classes and interfaces for work with expanded functionality on TTF font objects |
 | [Aspose.Font.TtfTables](./aspose.font.ttftables) | The **Aspose.Font.TtfTables** namespace provides classes for work with different tables of TrueType format. |
 | [Aspose.Font.Type1](./aspose.font.type1) | The **Aspose.Font.Type1** namespace provides classes describing objects related to Type1 Font format. |

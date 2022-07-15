@@ -1,7 +1,7 @@
 ---
 title: UnScale
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Scales back x1 and y1 and returns x and y before the transformation matrix.
 type: docs
 weight: 130
 url: /net/aspose.font/transformationmatrix/unscale/

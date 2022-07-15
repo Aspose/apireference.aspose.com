@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Create a copy of Version16Dot16aspose.font.ttfcommon/version16dot16 object.
 type: docs
 weight: 50
 url: /net/aspose.font.ttfcommon/version16dot16/clone/

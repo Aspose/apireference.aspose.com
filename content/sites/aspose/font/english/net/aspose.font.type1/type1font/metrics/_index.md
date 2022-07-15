@@ -1,7 +1,7 @@
 ---
 title: Metrics
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font metrics.
 type: docs
 weight: 90
 url: /net/aspose.font.type1/type1font/metrics/

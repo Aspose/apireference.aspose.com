@@ -1,7 +1,7 @@
 ---
 title: Multiply
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Multiplies with another transformation matrix. Doesnt change original transformation matrix returns a new TransformationMatrix object.
 type: docs
 weight: 90
 url: /net/aspose.font/transformationmatrix/multiply/
@@ -18,7 +18,7 @@ public TransformationMatrix Multiply(TransformationMatrix matrix)
 | --- | --- | --- |
 | matrix | TransformationMatrix | Transformation matrix to multiply with. |
 
-## Return Value
+### Return Value
 
 New TransformationMatrix object.
 

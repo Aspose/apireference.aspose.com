@@ -1,7 +1,7 @@
 ---
 title: ItalicAngle
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets italic angle value.
 type: docs
 weight: 60
 url: /net/aspose.font.type1/type1fontmetrics/italicangle/

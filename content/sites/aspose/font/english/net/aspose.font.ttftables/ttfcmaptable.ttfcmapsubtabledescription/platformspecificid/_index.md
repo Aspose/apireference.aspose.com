@@ -1,7 +1,7 @@
 ---
 title: PlatformSpecificId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets platform-specific encoding id.
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttfcmaptable.ttfcmapsubtabledescription/platformspecificid/

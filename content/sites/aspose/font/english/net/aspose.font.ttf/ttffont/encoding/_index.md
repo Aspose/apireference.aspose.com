@@ -1,7 +1,7 @@
 ---
 title: Encoding
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font encoding.
 type: docs
 weight: 20
 url: /net/aspose.font.ttf/ttffont/encoding/

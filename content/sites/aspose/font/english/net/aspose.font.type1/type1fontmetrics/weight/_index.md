@@ -1,7 +1,7 @@
 ---
 title: Weight
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets weight.
 type: docs
 weight: 120
 url: /net/aspose.font.type1/type1fontmetrics/weight/

@@ -1,7 +1,7 @@
 ---
 title: MaxInstructionDefs
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxInstructionDefs number of IDEFs.
 type: docs
 weight: 70
 url: /net/aspose.font.ttftables/ttfmaxptable/maxinstructiondefs/

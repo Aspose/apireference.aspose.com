@@ -1,7 +1,7 @@
 ---
 title: GlyphDataFormat
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets int16 glyphDataFormat 0 for current format.
 type: docs
 weight: 60
 url: /net/aspose.font.ttftables/ttfheadtable/glyphdataformat/

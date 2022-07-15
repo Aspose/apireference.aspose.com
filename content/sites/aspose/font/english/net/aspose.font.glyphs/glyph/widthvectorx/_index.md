@@ -1,7 +1,7 @@
 ---
 title: WidthVectorX
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph width vector. Coordinate x.
 type: docs
 weight: 80
 url: /net/aspose.font.glyphs/glyph/widthvectorx/

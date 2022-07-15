@@ -1,7 +1,7 @@
 ---
 title: GlyphAccessor
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font glyph accessor. Retrieves glyphs and glyph identifiers.
 type: docs
 weight: 90
 url: /net/aspose.font/ifont/glyphaccessor/

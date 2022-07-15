@@ -1,7 +1,7 @@
 ---
 title: ContainsGlyph
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true in case the table contains glyph with glyphIndex.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttfglyftable/containsglyph/
@@ -18,7 +18,7 @@ public virtual bool ContainsGlyph(int glyphIndex)
 | --- | --- | --- |
 | glyphIndex | Int32 | Glyph index. |
 
-## Return Value
+### Return Value
 
 True if table contains glyph for index specified, false otherwise.
 

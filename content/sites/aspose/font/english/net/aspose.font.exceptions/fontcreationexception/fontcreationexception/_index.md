@@ -1,12 +1,12 @@
 ---
 title: FontCreationException
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new FontCreationExceptionaspose.font.exceptions/fontcreationexception object.
 type: docs
 weight: 10
 url: /net/aspose.font.exceptions/fontcreationexception/fontcreationexception/
 ---
-## FontCreationException constructor (1 of 4)
+## FontCreationException() {#constructor}
 
 Initializes new [`FontCreationException`](../../fontcreationexception) object.
 
@@ -22,7 +22,7 @@ public FontCreationException()
 
 ---
 
-## FontCreationException constructor (2 of 4)
+## FontCreationException(string) {#constructor_2}
 
 Initializes new [`FontCreationException`](../../fontcreationexception) object.
 
@@ -42,7 +42,7 @@ public FontCreationException(string message)
 
 ---
 
-## FontCreationException constructor (3 of 4)
+## FontCreationException(string, Exception) {#constructor_3}
 
 Initializes new [`FontCreationException`](../../fontcreationexception) object.
 
@@ -63,7 +63,7 @@ public FontCreationException(string message, Exception innerException)
 
 ---
 
-## FontCreationException constructor (4 of 4)
+## FontCreationException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`FontCreationException`](../../fontcreationexception) object.
 

@@ -1,9 +1,9 @@
 ---
 title: TtfCMapTable.TtfCMapSubtableDescription
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Provides brief information about CMap subtable.
 type: docs
-weight: 760
+weight: 770
 url: /net/aspose.font.ttftables/ttfcmaptable.ttfcmapsubtabledescription/
 ---
 ## TtfCMapTable.TtfCMapSubtableDescription class

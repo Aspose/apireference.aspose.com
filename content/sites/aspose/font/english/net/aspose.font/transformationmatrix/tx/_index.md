@@ -1,7 +1,7 @@
 ---
 title: TX
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets or sets TX transformation matrix value.
 type: docs
 weight: 70
 url: /net/aspose.font/transformationmatrix/tx/

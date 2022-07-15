@@ -14,7 +14,7 @@ The **Aspose.Font** namespace provides classes describing common Aspose.Font obj
 | --- | --- |
 | [BuildVersionInfo](./buildversioninfo) | Provides information about the current product name and version. |
 | [Font](./font) | Represents base Font class. |
-| [FontBBox](./fontbbox) | Represents Font bounding box (../BBox). |
+| [FontBBox](./fontbbox) | Represents Font bounding box (BBox). |
 | [FontEnvironment](./fontenvironment) | Provides information about the current environment and platform. |
 | [FontMetrics](./fontmetrics) | Represents Font metrics. |
 | [License](./license) | Provides methods to license the component. |

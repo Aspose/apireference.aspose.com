@@ -1,7 +1,7 @@
 ---
 title: XMin
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets XMin value.
 type: docs
 weight: 20
 url: /net/aspose.font/fontbbox/xmin/

@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns copy of glyph.
 type: docs
 weight: 20
 url: /net/aspose.font.glyphs/compositeglyph/clone/
@@ -14,7 +14,7 @@ Returns copy of glyph.
 public override object Clone()
 ```
 
-## Return Value
+### Return Value
 
 Copy of Glyph.
 

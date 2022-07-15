@@ -1,7 +1,7 @@
 ---
 title: IsReservedType
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Detects whether reserved bitbit 0 is set for fsType.
 type: docs
 weight: 80
 url: /net/aspose.font.ttf/licenseflags/isreservedtype/

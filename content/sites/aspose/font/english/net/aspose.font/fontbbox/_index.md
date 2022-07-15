@@ -1,7 +1,7 @@
 ---
 title: FontBBox
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents Font bounding box BBox.
 type: docs
 weight: 130
 url: /net/aspose.font/fontbbox/

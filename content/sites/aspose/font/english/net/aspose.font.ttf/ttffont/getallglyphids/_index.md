@@ -1,7 +1,7 @@
 ---
 title: GetAllGlyphIds
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns array of all glyph ids available in the Font. Glyph id is a unique number for a glyph which is font type dependent. TTF Font glyph id can be instance of GlyphStringIdaspose.font.glyphs/glyphstringid class or GlyphUInt32Idaspose.font.glyphs/glyphuint32id class. Name string glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside the CFF structures are used to address glyphs by name.
 type: docs
 weight: 170
 url: /net/aspose.font.ttf/ttffont/getallglyphids/
@@ -14,7 +14,7 @@ Returns array of all glyph ids, available in the Font. Glyph id is a unique numb
 public override GlyphId[] GetAllGlyphIds()
 ```
 
-## Return Value
+### Return Value
 
 Glyph identifiers.
 

@@ -1,7 +1,7 @@
 ---
 title: UnderlinePosition
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets FWord underlinePosition value.
 type: docs
 weight: 90
 url: /net/aspose.font.ttftables/ttfposttable/underlineposition/

@@ -1,7 +1,7 @@
 ---
 title: TableVersion
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets format version. Use properties MajorNumber and MinorNUmber of object Version16Dot16aspose.font.ttfcommon/version16dot16 in hexademical notation to detect version used.
 type: docs
 weight: 150
 url: /net/aspose.font.ttftables/ttfmaxptable/tableversion/

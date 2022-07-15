@@ -1,7 +1,7 @@
 ---
 title: MaxContours
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxContours contours in non-compound glyph.
 type: docs
 weight: 50
 url: /net/aspose.font.ttftables/ttfmaxptable/maxcontours/

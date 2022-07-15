@@ -1,7 +1,7 @@
 ---
 title: USWeightClass
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Indicates the visual weight degree of blackness or thickness of strokes of the characters in the Font.
 type: docs
 weight: 190
 url: /net/aspose.font.ttftables/ttfos2table/usweightclass/

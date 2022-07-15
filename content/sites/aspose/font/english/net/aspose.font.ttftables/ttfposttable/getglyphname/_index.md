@@ -1,7 +1,7 @@
 ---
 title: GetGlyphName
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph name by glyph index.
 type: docs
 weight: 120
 url: /net/aspose.font.ttftables/ttfposttable/getglyphname/
@@ -18,7 +18,7 @@ public string GetGlyphName(uint glyphIndex)
 | --- | --- | --- |
 | glyphIndex | UInt32 | Glyph index. |
 
-## Return Value
+### Return Value
 
 Glyph name.
 

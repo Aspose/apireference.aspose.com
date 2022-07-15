@@ -1,7 +1,7 @@
 ---
 title: FontFamily
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font family. The Font family setter is not implemented yet.
 type: docs
 weight: 30
 url: /net/aspose.font.type1/type1font/fontfamily/

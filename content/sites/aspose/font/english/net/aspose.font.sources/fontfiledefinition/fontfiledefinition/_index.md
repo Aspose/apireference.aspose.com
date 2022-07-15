@@ -1,12 +1,12 @@
 ---
 title: FontFileDefinition
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Creates a file definition using file content only.
 type: docs
 weight: 10
 url: /net/aspose.font.sources/fontfiledefinition/fontfiledefinition/
 ---
-## FontFileDefinition constructor (1 of 4)
+## FontFileDefinition(StreamSource) {#constructor}
 
 Creates a file definition using file content only.
 
@@ -27,7 +27,7 @@ public FontFileDefinition(StreamSource streamSource)
 
 ---
 
-## FontFileDefinition constructor (2 of 4)
+## FontFileDefinition(string, StreamSource) {#constructor_2}
 
 Creates a file definition using file content only.
 
@@ -49,7 +49,7 @@ public FontFileDefinition(string fileExtension, StreamSource streamSource)
 
 ---
 
-## FontFileDefinition constructor (3 of 4)
+## FontFileDefinition(string, StreamSource, long) {#constructor_3}
 
 Creates a file definition using file content only.
 
@@ -72,7 +72,7 @@ public FontFileDefinition(string fileExtension, StreamSource streamSource, long 
 
 ---
 
-## FontFileDefinition constructor (4 of 4)
+## FontFileDefinition(FileInfo) {#constructor_1}
 
 Creates a file definition using font file (represented by FileInfo) and file content.
 

@@ -1,7 +1,7 @@
 ---
 title: LeftSidebearings
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets left side bearings.
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttfhmtxtable/leftsidebearings/

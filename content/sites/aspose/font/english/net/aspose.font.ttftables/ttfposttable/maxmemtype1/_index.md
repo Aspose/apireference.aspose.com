@@ -1,7 +1,7 @@
 ---
 title: MaxMemType1
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint32 maxMemType1 Maximum memory usage when a TrueType font is downloaded as a Type 1 Font.
 type: docs
 weight: 50
 url: /net/aspose.font.ttftables/ttfposttable/maxmemtype1/

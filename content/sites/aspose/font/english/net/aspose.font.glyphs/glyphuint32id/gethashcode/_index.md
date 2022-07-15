@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: GetHashCode implementation.
 type: docs
 weight: 50
 url: /net/aspose.font.glyphs/glyphuint32id/gethashcode/
@@ -14,7 +14,7 @@ GetHashCode implementation.
 public override int GetHashCode()
 ```
 
-## Return Value
+### Return Value
 
 hash code of object
 

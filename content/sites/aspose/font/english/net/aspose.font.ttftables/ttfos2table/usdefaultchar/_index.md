@@ -1,7 +1,7 @@
 ---
 title: USDefaultChar
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets USDefaultChar value.
 type: docs
 weight: 150
 url: /net/aspose.font.ttftables/ttfos2table/usdefaultchar/

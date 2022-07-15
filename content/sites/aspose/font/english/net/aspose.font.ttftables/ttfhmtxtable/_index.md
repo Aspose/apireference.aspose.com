@@ -1,9 +1,9 @@
 ---
 title: TtfHmtxTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents hmtx table of the TTF Font file.
 type: docs
-weight: 830
+weight: 840
 url: /net/aspose.font.ttftables/ttfhmtxtable/
 ---
 ## TtfHmtxTable class

@@ -1,12 +1,12 @@
 ---
 title: Open
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Opens a font using FontDefinition object.
 type: docs
 weight: 10
 url: /net/aspose.font/font/open/
 ---
-## Font.Open method (1 of 4)
+## Open(FontDefinition) {#open_3}
 
 Opens a font, using FontDefinition object.
 
@@ -18,7 +18,7 @@ public static Font Open(FontDefinition fontDefinition)
 | --- | --- | --- |
 | fontDefinition | FontDefinition | Font definition object. |
 
-## Return Value
+### Return Value
 
 Font loaded.
 
@@ -31,7 +31,7 @@ Font loaded.
 
 ---
 
-## Font.Open method (2 of 4)
+## Open(FontType, StreamSource) {#open}
 
 Opens a font, using font type and stream source.
 
@@ -44,7 +44,7 @@ public static Font Open(FontType fontType, StreamSource fontStreamSource)
 | fontType | FontType | Font type. |
 | fontStreamSource | StreamSource | Stream source for font. |
 
-## Return Value
+### Return Value
 
 Font loaded.
 
@@ -58,7 +58,7 @@ Font loaded.
 
 ---
 
-## Font.Open method (3 of 4)
+## Open(FontType, string) {#open_2}
 
 Opens a font, using font type and font file name.
 
@@ -71,7 +71,7 @@ public static Font Open(FontType fontType, string fileName)
 | fontType | FontType | Font type. |
 | fileName | String | Font file name. |
 
-## Return Value
+### Return Value
 
 Font loaded.
 
@@ -84,7 +84,7 @@ Font loaded.
 
 ---
 
-## Font.Open method (4 of 4)
+## Open(FontType, byte[]) {#open_1}
 
 Opens a font, using font type and font data byte array.
 
@@ -97,7 +97,7 @@ public static Font Open(FontType fontType, byte[] fontData)
 | fontType | FontType | Font type. |
 | fontData | Byte[] | Byte array to load font from. |
 
-## Return Value
+### Return Value
 
 Font loaded.
 

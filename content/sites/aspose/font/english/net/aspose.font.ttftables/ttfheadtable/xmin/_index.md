@@ -1,7 +1,7 @@
 ---
 title: XMin
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets FWord xMin for all glyph bounding boxes.
 type: docs
 weight: 150
 url: /net/aspose.font.ttftables/ttfheadtable/xmin/

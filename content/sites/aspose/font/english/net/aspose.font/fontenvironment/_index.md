@@ -1,7 +1,7 @@
 ---
 title: FontEnvironment
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Provides information about the current environment and platform.
 type: docs
 weight: 140
 url: /net/aspose.font/fontenvironment/

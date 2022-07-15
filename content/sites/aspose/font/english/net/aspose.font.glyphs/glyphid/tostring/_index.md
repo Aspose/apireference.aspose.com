@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns string representation the glyph id.
 type: docs
 weight: 50
 url: /net/aspose.font.glyphs/glyphid/tostring/
@@ -14,7 +14,7 @@ Returns string representation the glyph id.
 public abstract string ToString()
 ```
 
-## Return Value
+### Return Value
 
 glyph identifier
 

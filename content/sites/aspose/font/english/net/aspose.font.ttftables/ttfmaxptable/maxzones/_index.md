@@ -1,7 +1,7 @@
 ---
 title: MaxZones
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxZones set to 2.
 type: docs
 weight: 130
 url: /net/aspose.font.ttftables/ttfmaxptable/maxzones/

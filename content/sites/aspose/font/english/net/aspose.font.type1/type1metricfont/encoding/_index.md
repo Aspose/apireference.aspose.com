@@ -1,7 +1,7 @@
 ---
 title: Encoding
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Encoding is defined in metrics file. StandardAdobeEncoding the encoding is populated automatically
 type: docs
 weight: 10
 url: /net/aspose.font.type1/type1metricfont/encoding/

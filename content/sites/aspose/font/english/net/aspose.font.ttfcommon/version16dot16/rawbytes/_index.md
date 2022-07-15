@@ -1,7 +1,7 @@
 ---
 title: RawBytes
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets all raw bits for Version16Dot16 version number as byte array with size 4 bytes.
 type: docs
 weight: 40
 url: /net/aspose.font.ttfcommon/version16dot16/rawbytes/

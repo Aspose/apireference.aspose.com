@@ -1,7 +1,7 @@
 ---
 title: GidToUnicode
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Decodes Gid to unicode. Glyph id is a unique number for a glyph which is font type dependent. For example Type1s id is a glyph name instance of GlyphStringIdaspose.font.glyphs/glyphstringid class. TTFs id is an int index instance of GlyphUInt32Idaspose.font.glyphs/glyphuint32id class.
 type: docs
 weight: 40
 url: /net/aspose.font/ifontencoding/gidtounicode/
@@ -18,7 +18,7 @@ public uint GidToUnicode(GlyphId gid)
 | --- | --- | --- |
 | gid | GlyphId | Glyph identifier of symbol to decode. |
 
-## Return Value
+### Return Value
 
 Unicode value related to glyph id passed.
 

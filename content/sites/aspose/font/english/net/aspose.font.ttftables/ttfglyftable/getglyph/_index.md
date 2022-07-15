@@ -1,7 +1,7 @@
 ---
 title: GetGlyph
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns a glyph by glyph index.
 type: docs
 weight: 20
 url: /net/aspose.font.ttftables/ttfglyftable/getglyph/
@@ -18,7 +18,7 @@ public virtual Glyph GetGlyph(uint glyphIndex)
 | --- | --- | --- |
 | glyphIndex | UInt32 | Glyph index. |
 
-## Return Value
+### Return Value
 
 Glyph related to index specified.
 

@@ -1,7 +1,7 @@
 ---
 title: State
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph state.
 type: docs
 weight: 70
 url: /net/aspose.font.glyphs/glyph/state/

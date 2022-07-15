@@ -1,12 +1,12 @@
 ---
 title: GetGlyphById
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns glyph by glyph id.
 type: docs
 weight: 150
 url: /net/aspose.font.type1/type1font/getglyphbyid/
 ---
-## Type1Font.GetGlyphById method (1 of 3)
+## GetGlyphById(string) {#getglyphbyid_1}
 
 Returns glyph by glyph id.
 
@@ -18,7 +18,7 @@ public virtual Glyph GetGlyphById(string id)
 | --- | --- | --- |
 | id | String | Glyph id. |
 
-## Return Value
+### Return Value
 
 Glyph.
 
@@ -31,7 +31,7 @@ Glyph.
 
 ---
 
-## Type1Font.GetGlyphById method (2 of 3)
+## GetGlyphById(uint) {#getglyphbyid_2}
 
 Returns glyph by glyph id.
 
@@ -43,7 +43,7 @@ public Glyph GetGlyphById(uint id)
 | --- | --- | --- |
 | id | UInt32 | Glyph id. |
 
-## Return Value
+### Return Value
 
 Glyph.
 
@@ -56,7 +56,7 @@ Glyph.
 
 ---
 
-## Type1Font.GetGlyphById method (3 of 3)
+## GetGlyphById(GlyphId) {#getglyphbyid}
 
 Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) class.
 
@@ -68,7 +68,7 @@ public override Glyph GetGlyphById(GlyphId id)
 | --- | --- | --- |
 | id | GlyphId | Glyph id. |
 
-## Return Value
+### Return Value
 
 Glyph.
 

@@ -1,7 +1,7 @@
 ---
 title: IGlyphOutlinePainter
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Defines a outline way to draw glyphs.
 type: docs
 weight: 430
 url: /net/aspose.font.rendering/iglyphoutlinepainter/

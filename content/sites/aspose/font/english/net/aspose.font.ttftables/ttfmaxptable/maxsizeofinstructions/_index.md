@@ -1,7 +1,7 @@
 ---
 title: MaxSizeOfInstructions
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxSizeOfInstructions byte count for glyph instructions.
 type: docs
 weight: 90
 url: /net/aspose.font.ttftables/ttfmaxptable/maxsizeofinstructions/

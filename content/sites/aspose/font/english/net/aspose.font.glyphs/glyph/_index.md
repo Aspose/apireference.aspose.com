@@ -1,7 +1,7 @@
 ---
 title: Glyph
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents a Font glyph.
 type: docs
 weight: 230
 url: /net/aspose.font.glyphs/glyph/

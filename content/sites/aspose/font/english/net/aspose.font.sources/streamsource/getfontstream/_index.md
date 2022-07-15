@@ -1,7 +1,7 @@
 ---
 title: GetFontStream
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns Font stream.
 type: docs
 weight: 40
 url: /net/aspose.font.sources/streamsource/getfontstream/
@@ -14,7 +14,7 @@ Returns Font stream.
 public abstract Stream GetFontStream()
 ```
 
-## Return Value
+### Return Value
 
 Font stream.
 

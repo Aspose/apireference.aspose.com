@@ -1,7 +1,7 @@
 ---
 title: StdHW
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets StdHW value.
 type: docs
 weight: 70
 url: /net/aspose.font.type1/type1fontmetrics/stdhw/

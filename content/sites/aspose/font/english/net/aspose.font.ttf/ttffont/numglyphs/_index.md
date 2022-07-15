@@ -1,7 +1,7 @@
 ---
 title: NumGlyphs
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets number of glyphs in the Font.
 type: docs
 weight: 120
 url: /net/aspose.font.ttf/ttffont/numglyphs/

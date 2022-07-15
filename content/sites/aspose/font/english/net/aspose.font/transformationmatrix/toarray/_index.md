@@ -1,7 +1,7 @@
 ---
 title: ToArray
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Allocates new array copies the transformation matrix and returns it.
 type: docs
 weight: 110
 url: /net/aspose.font/transformationmatrix/toarray/
@@ -14,7 +14,7 @@ Allocates new array, copies the transformation matrix and returns it.
 public double[] ToArray()
 ```
 
-## Return Value
+### Return Value
 
 TransformationMatrix in array form.
 

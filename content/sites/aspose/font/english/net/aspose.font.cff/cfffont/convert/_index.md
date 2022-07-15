@@ -1,7 +1,7 @@
 ---
 title: Convert
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Converts the Font into another format.
 type: docs
 weight: 140
 url: /net/aspose.font.cff/cfffont/convert/
@@ -18,7 +18,7 @@ public override Font Convert(FontType fontType)
 | --- | --- | --- |
 | fontType | FontType | Font format type to convert into. |
 
-## Return Value
+### Return Value
 
 Font converted into new format.
 

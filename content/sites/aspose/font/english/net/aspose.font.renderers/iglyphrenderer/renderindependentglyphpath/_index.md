@@ -1,7 +1,7 @@
 ---
 title: RenderIndependentGlyphPath
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Renders glyph using independent glyph path. RenderGlyph function family changes glyph path on rendering. It then leads to necessity reload this glyph again. This function uses copy of glyph path and doesnt changes original glyph path so the same glyph could be reused multiple times. This version of function is intended for use with cache of glyphs.
 type: docs
 weight: 20
 url: /net/aspose.font.renderers/iglyphrenderer/renderindependentglyphpath/

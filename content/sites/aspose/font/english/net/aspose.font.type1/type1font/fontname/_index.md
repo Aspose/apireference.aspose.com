@@ -1,7 +1,7 @@
 ---
 title: FontName
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font face name. The Font face name setter is not implemented yet.
 type: docs
 weight: 40
 url: /net/aspose.font.type1/type1font/fontname/

@@ -1,7 +1,7 @@
 ---
 title: Program
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Set of instructions.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttfpreptable/program/

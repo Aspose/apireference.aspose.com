@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets or sets string representation of the integer value.
 type: docs
 weight: 70
 url: /net/aspose.font.glyphs/glyphuint32id/tostring/
@@ -14,7 +14,7 @@ Gets or sets string representation of the integer value.
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 glyph identifier
 

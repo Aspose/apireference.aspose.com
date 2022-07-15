@@ -1,7 +1,7 @@
 ---
 title: GlyphState
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Specifies the glyph state.
 type: docs
 weight: 270
 url: /net/aspose.font.glyphs/glyphstate/
@@ -14,7 +14,7 @@ Specifies the glyph state.
 public enum GlyphState
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

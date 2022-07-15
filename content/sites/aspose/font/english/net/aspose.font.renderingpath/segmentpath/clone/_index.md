@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Clones Path.
 type: docs
 weight: 20
 url: /net/aspose.font.renderingpath/segmentpath/clone/
@@ -14,7 +14,7 @@ Clones Path.
 public object Clone()
 ```
 
-## Return Value
+### Return Value
 
 Copy of path.
 

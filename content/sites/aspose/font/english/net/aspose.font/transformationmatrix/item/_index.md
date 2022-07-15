@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Provides access to underlying array.
 type: docs
 weight: 60
 url: /net/aspose.font/transformationmatrix/item/

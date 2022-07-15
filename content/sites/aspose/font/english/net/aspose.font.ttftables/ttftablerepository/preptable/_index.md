@@ -1,7 +1,7 @@
 ---
 title: PrepTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets prep table.
 type: docs
 weight: 140
 url: /net/aspose.font.ttftables/ttftablerepository/preptable/

@@ -1,7 +1,7 @@
 ---
 title: GetPlatformTables
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns CMap subtables for planformId and platformSpecificId.
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttfcmaptable/getplatformtables/
@@ -19,7 +19,7 @@ public TtfCMapFormatBaseTable[] GetPlatformTables(ushort platformId, ushort plat
 | platformId | UInt16 | Platform Id. |
 | platformSpecificId | UInt16 | Platform-specific encoding Id. |
 
-## Return Value
+### Return Value
 
 CMap subtables.
 

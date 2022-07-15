@@ -1,9 +1,9 @@
 ---
 title: TtfNameTable.NameId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents NameId.
 type: docs
-weight: 940
+weight: 950
 url: /net/aspose.font.ttftables/ttfnametable.nameid/
 ---
 ## TtfNameTable.NameId enumeration
@@ -14,7 +14,7 @@ Represents NameId.
 public enum NameId : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

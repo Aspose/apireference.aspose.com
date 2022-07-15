@@ -1,7 +1,7 @@
 ---
 title: AddLanguageString
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Adds string of specific language
 type: docs
 weight: 20
 url: /net/aspose.font/multilanguagestring/addlanguagestring/

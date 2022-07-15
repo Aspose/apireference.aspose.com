@@ -1,7 +1,7 @@
 ---
 title: DeleteRecordsByNameId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Deletes all the records related to passed nameId parameter
 type: docs
 weight: 40
 url: /net/aspose.font.ttftables/ttfnametable/deleterecordsbynameid/

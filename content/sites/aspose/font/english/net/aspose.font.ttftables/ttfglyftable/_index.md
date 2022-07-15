@@ -1,9 +1,9 @@
 ---
 title: TtfGlyfTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents glyf table of the TTF Font file.
 type: docs
-weight: 800
+weight: 810
 url: /net/aspose.font.ttftables/ttfglyftable/
 ---
 ## TtfGlyfTable class

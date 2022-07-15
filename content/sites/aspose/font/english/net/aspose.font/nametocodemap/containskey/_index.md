@@ -1,7 +1,7 @@
 ---
 title: ContainsKey
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true in case the key is already in the map.
 type: docs
 weight: 40
 url: /net/aspose.font/nametocodemap/containskey/
@@ -18,7 +18,7 @@ public bool ContainsKey(string name)
 | --- | --- | --- |
 | name | String | Glyph name. |
 
-## Return Value
+### Return Value
 
 True or false.
 

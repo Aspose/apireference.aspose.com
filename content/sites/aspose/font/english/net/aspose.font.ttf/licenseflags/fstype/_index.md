@@ -1,7 +1,7 @@
 ---
 title: FSType
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets raw fsType value from OS/2 table or 0 if this field doesnt exist in the table.
 type: docs
 weight: 10
 url: /net/aspose.font.ttf/licenseflags/fstype/

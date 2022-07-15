@@ -1,7 +1,7 @@
 ---
 title: NameTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets name table.
 type: docs
 weight: 110
 url: /net/aspose.font.ttftables/ttftablerepository/nametable/

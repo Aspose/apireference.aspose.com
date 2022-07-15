@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true if two glyph ids are not equal.
 type: docs
 weight: 10
 url: /net/aspose.font.glyphs/glyphid/equals/
@@ -18,7 +18,7 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | Glyph identifier to compare with. |
 
-## Return Value
+### Return Value
 
 Comparison result.
 

@@ -1,7 +1,7 @@
 ---
 title: NotDefId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets not default value.
 type: docs
 weight: 20
 url: /net/aspose.font.glyphs/glyphuint32id/notdefid/

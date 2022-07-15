@@ -1,7 +1,7 @@
 ---
 title: GetGlyphBBox
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns glyph BBox. Returns FontBBox if BBox was not defined for the glyph. May be overridden by specific font encoding inheritors.
 type: docs
 weight: 130
 url: /net/aspose.font/fontmetrics/getglyphbbox/
@@ -18,7 +18,7 @@ public virtual FontBBox GetGlyphBBox(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | Glyph identifier. |
 
-## Return Value
+### Return Value
 
 Glyph BBox.
 

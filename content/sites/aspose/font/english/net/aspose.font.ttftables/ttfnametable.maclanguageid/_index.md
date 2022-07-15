@@ -1,9 +1,9 @@
 ---
 title: TtfNameTable.MacLanguageId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Macintosh platform language id enumeration.
 type: docs
-weight: 920
+weight: 930
 url: /net/aspose.font.ttftables/ttfnametable.maclanguageid/
 ---
 ## TtfNameTable.MacLanguageId enumeration
@@ -14,7 +14,7 @@ Macintosh platform language id enumeration.
 public enum MacLanguageId
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

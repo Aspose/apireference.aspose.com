@@ -1,7 +1,7 @@
 ---
 title: Contains
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true in case glyph id is in the list.
 type: docs
 weight: 40
 url: /net/aspose.font.glyphs/glyphidlist/contains/
@@ -18,7 +18,7 @@ public bool Contains(GlyphId glyphId)
 | --- | --- | --- |
 | glyphId | GlyphId | glyph identifier |
 
-## Return Value
+### Return Value
 
 true in case glyph id is in the list, otherwise false
 
