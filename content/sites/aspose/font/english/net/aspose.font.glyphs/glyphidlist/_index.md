@@ -16,10 +16,10 @@ public class GlyphIdList : List<GlyphId>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.font.glyphs/glyphidlist/add)(GlyphId) | Adds glyph id to the list. |
-| [Clear](../../aspose.font.glyphs/glyphidlist/clear)() | Clears the list. |
-| [Contains](../../aspose.font.glyphs/glyphidlist/contains)(GlyphId) | Returns true in case glyph id is in the list. |
-| [Remove](../../aspose.font.glyphs/glyphidlist/remove)(GlyphId) | Removes glyph id from the list. |
+| [Add](../../aspose.font.glyphs/glyphidlist/add#add)(GlyphId) | Adds glyph id to the list. |
+| [Clear](../../aspose.font.glyphs/glyphidlist/clear#clear)() | Clears the list. |
+| [Contains](../../aspose.font.glyphs/glyphidlist/contains#contains)(GlyphId) | Returns true in case glyph id is in the list. |
+| [Remove](../../aspose.font.glyphs/glyphidlist/remove#remove)(GlyphId) | Removes glyph id from the list. |
 
 ### See Also
 

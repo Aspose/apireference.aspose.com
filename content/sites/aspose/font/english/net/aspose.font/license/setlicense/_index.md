@@ -1,4 +1,4 @@
-## License.SetLicense method (1 of 2)
+## SetLicense(string) {#setlicense_1}
 
 Licenses the component.
 
@@ -41,7 +41,7 @@ Tries to find the license in the following locations:
 
 ---
 
-## License.SetLicense method (2 of 2)
+## SetLicense(Stream) {#setlicense}
 
 Licenses the component.
 

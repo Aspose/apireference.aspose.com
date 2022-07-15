@@ -24,8 +24,8 @@ public class MultiLanguageString
 | [GetEnglishString](../../aspose.font/multilanguagestring/getenglishstring)() | Returns english string if found. Otherwise returns first non-english string. |
 | override [GetHashCode](../../aspose.font/multilanguagestring/gethashcode)() | GetHashCode implementation. |
 | [GetStringForLanguageId](../../aspose.font/multilanguagestring/getstringforlanguageid)(int) | Returns string related to language identifier passed, if found. Empty string otherwise. |
-| [operator ==](../../aspose.font/multilanguagestring/op_equality) | Equality operator implementation. (2 operators) |
-| [operator !=](../../aspose.font/multilanguagestring/op_inequality) | Inequality operator implementation. (2 operators) |
+| [operator ==](../../aspose.font/multilanguagestring/op_equality#op_equality) | Equality operator implementation. (2 operators) |
+| [operator !=](../../aspose.font/multilanguagestring/op_inequality#op_inequality) | Inequality operator implementation. (2 operators) |
 
 ### See Also
 

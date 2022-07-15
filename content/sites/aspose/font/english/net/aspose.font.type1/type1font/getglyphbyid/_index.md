@@ -1,4 +1,4 @@
-## Type1Font.GetGlyphById method (1 of 3)
+## GetGlyphById(string) {#getglyphbyid_1}
 
 Returns glyph by glyph id.
 
@@ -22,7 +22,7 @@ Glyph.
 
 ---
 
-## Type1Font.GetGlyphById method (2 of 3)
+## GetGlyphById(uint) {#getglyphbyid_2}
 
 Returns glyph by glyph id.
 
@@ -46,7 +46,7 @@ Glyph.
 
 ---
 
-## Type1Font.GetGlyphById method (3 of 3)
+## GetGlyphById(GlyphId) {#getglyphbyid}
 
 Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) class.
 

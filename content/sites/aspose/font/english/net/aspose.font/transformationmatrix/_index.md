@@ -10,8 +10,8 @@ public class TransformationMatrix : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [TransformationMatrix](transformationmatrix)() | Creates standard 1 to 1 transformation matrix: [ A B C D TX TY ] = [ 1, 0, 0, 1, 0, 0]. |
-| [TransformationMatrix](transformationmatrix)(double[]) | Accepts a transformation matrix with following array representation: [ A B C D TX TY ]. |
+| [TransformationMatrix](transformationmatrix#constructor)() | Creates standard 1 to 1 transformation matrix: [ A B C D TX TY ] = [ 1, 0, 0, 1, 0, 0]. |
+| [TransformationMatrix](transformationmatrix#constructor_1)(double[]) | Accepts a transformation matrix with following array representation: [ A B C D TX TY ]. |
 
 ## Properties
 

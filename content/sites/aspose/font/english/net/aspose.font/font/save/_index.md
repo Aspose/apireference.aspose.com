@@ -1,4 +1,4 @@
-## Font.Save method (1 of 2)
+## Save(Stream) {#save}
 
 Saves the Font into original format.
 
@@ -21,7 +21,7 @@ Note: following Font types are supported for saving: New TTF Fonts; TTF Font sub
 
 ---
 
-## Font.Save method (2 of 2)
+## Save(string) {#save_1}
 
 Saves the Font into original format.
 

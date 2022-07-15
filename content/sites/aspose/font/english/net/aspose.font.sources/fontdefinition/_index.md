@@ -10,16 +10,16 @@ public class FontDefinition
 
 | Name | Description |
 | --- | --- |
-| [FontDefinition](fontdefinition)(FontType, FontFileDefinition) | Creates single-file Font definition. |
-| [FontDefinition](fontdefinition)(FontType, FontFileDefinition[]) | Creates multi-file Font definition. |
-| [FontDefinition](fontdefinition)(FontType, StreamSource) | Creates single-file Font definition. |
-| [FontDefinition](fontdefinition)(FontType, string, StreamSource) | Creates single-file Font definition. |
-| [FontDefinition](fontdefinition)(string, FontType, FontFileDefinition) | Creates single-file Font definition. |
-| [FontDefinition](fontdefinition)(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition) | Creates multi-file Font definition. |
-| [FontDefinition](fontdefinition)(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition[]) | Creates multi-file Font definition. |
-| [FontDefinition](fontdefinition)(string, FontType, string, StreamSource) | Creates single-file Font definition. |
-| [FontDefinition](fontdefinition)(string, string, FontType, FontFileDefinition) | Creates single-file Font definition. |
-| [FontDefinition](fontdefinition)(string, string, FontType, FontFileDefinition[]) | Creates multi-file Font definition. |
+| [FontDefinition](fontdefinition#constructor)(FontType, FontFileDefinition) | Creates single-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_1)(FontType, FontFileDefinition[]) | Creates multi-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_2)(FontType, StreamSource) | Creates single-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_3)(FontType, string, StreamSource) | Creates single-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_6)(string, FontType, FontFileDefinition) | Creates single-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_4)(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition) | Creates multi-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_5)(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition[]) | Creates multi-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_7)(string, FontType, string, StreamSource) | Creates single-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_8)(string, string, FontType, FontFileDefinition) | Creates single-file Font definition. |
+| [FontDefinition](fontdefinition#constructor_9)(string, string, FontType, FontFileDefinition[]) | Creates multi-file Font definition. |
 
 ## Properties
 
@@ -36,8 +36,8 @@ public class FontDefinition
 
 | Name | Description |
 | --- | --- |
-| static [Open](../../aspose.font.sources/fontdefinition/open)(StreamSource, FontType) | Returns FontDefinition for font stream source and font type. |
-| static [Open](../../aspose.font.sources/fontdefinition/open)(string, FontType) | Returns FontDefinition for font file and font type. |
+| static [Open](../../aspose.font.sources/fontdefinition/open#open)(StreamSource, FontType) | Returns FontDefinition for font stream source and font type. |
+| static [Open](../../aspose.font.sources/fontdefinition/open#open_1)(string, FontType) | Returns FontDefinition for font file and font type. |
 
 ### See Also
 

@@ -1,4 +1,4 @@
-## EncodingException constructor (1 of 4)
+## EncodingException() {#constructor}
 
 Initializes new [`EncodingException`](../../encodingexception) object.
 
@@ -13,7 +13,7 @@ public EncodingException()
 
 ---
 
-## EncodingException constructor (2 of 4)
+## EncodingException(string) {#constructor_2}
 
 Initializes new [`EncodingException`](../../encodingexception) object.
 
@@ -32,7 +32,7 @@ public EncodingException(string message)
 
 ---
 
-## EncodingException constructor (3 of 4)
+## EncodingException(string, Exception) {#constructor_3}
 
 Initializes new [`EncodingException`](../../encodingexception) object.
 
@@ -52,7 +52,7 @@ public EncodingException(string message, Exception innerException)
 
 ---
 
-## EncodingException constructor (4 of 4)
+## EncodingException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`EncodingException`](../../encodingexception) object.
 

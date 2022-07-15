@@ -1,4 +1,4 @@
-## IGlyphRenderer.RenderGlyph method (1 of 5)
+## RenderGlyph(IFont, uint) {#renderglyph_3}
 
 Renders glyph.
 
@@ -19,7 +19,7 @@ public void RenderGlyph(IFont font, uint glyphIndex)
 
 ---
 
-## IGlyphRenderer.RenderGlyph method (2 of 5)
+## RenderGlyph(IFont, uint, TransformationMatrix) {#renderglyph_4}
 
 Renders glyph.
 
@@ -42,7 +42,7 @@ public void RenderGlyph(IFont font, uint glyphIndex, TransformationMatrix glyphP
 
 ---
 
-## IGlyphRenderer.RenderGlyph method (3 of 5)
+## RenderGlyph(IFont, GlyphId) {#renderglyph}
 
 Renders glyph.
 
@@ -64,7 +64,7 @@ public void RenderGlyph(IFont font, GlyphId glyphId)
 
 ---
 
-## IGlyphRenderer.RenderGlyph method (4 of 5)
+## RenderGlyph(IFont, GlyphId, TransformationMatrix) {#renderglyph_2}
 
 Renders glyph.
 
@@ -88,7 +88,7 @@ public void RenderGlyph(IFont font, GlyphId glyphId, TransformationMatrix glyphP
 
 ---
 
-## IGlyphRenderer.RenderGlyph method (5 of 5)
+## RenderGlyph(IFont, GlyphId, Glyph, TransformationMatrix) {#renderglyph_1}
 
 Renders glyph, an objective of this overloaded version - to be used with cache for glyphs.
 

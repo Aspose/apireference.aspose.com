@@ -1,4 +1,4 @@
-## Version16Dot16 constructor (1 of 2)
+## Version16Dot16() {#constructor}
 
 Constructor
 
@@ -13,7 +13,7 @@ public Version16Dot16()
 
 ---
 
-## Version16Dot16 constructor (2 of 2)
+## Version16Dot16(ushort, ushort) {#constructor_1}
 
 Constructor
 

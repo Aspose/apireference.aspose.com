@@ -1,4 +1,4 @@
-## TtcFontSource constructor (1 of 2)
+## TtcFontSource(StreamSource) {#constructor}
 
 Creates TTC Font source based on IStreamSource stream providing object.
 
@@ -18,7 +18,7 @@ public TtcFontSource(StreamSource source)
 
 ---
 
-## TtcFontSource constructor (2 of 2)
+## TtcFontSource(string) {#constructor_1}
 
 Creates TTC Font source based on ttc font collection file path.
 

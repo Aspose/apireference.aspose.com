@@ -32,9 +32,9 @@ public class CffFont : Font
 | --- | --- |
 | override [Convert](../../aspose.font.cff/cfffont/convert)(FontType) | Converts the Font into another format. |
 | override [GetAllGlyphIds](../../aspose.font.cff/cfffont/getallglyphids)() | Returns array of all glyph ids, available in the Font. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
-| override [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
-| [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid)(string) | Returns glyph by glyph name. |
-| [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid)(uint) | Returns glyph by glyph id. |
+| override [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
+| [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid_1)(string) | Returns glyph by glyph name. |
+| [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid_2)(uint) | Returns glyph by glyph id. |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | Gets glyphs representation for text. |
 | virtual [Save](../../aspose.font/font/save)(Stream) | Saves the Font into original format. |
 | virtual [Save](../../aspose.font/font/save)(string) | Saves the Font into original format. |

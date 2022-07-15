@@ -1,4 +1,4 @@
-## FontAgrumentException constructor (1 of 4)
+## FontAgrumentException() {#constructor}
 
 Initializes new [`FontAgrumentException`](../../fontagrumentexception) object.
 
@@ -13,7 +13,7 @@ public FontAgrumentException()
 
 ---
 
-## FontAgrumentException constructor (2 of 4)
+## FontAgrumentException(string) {#constructor_2}
 
 Initializes new [`FontAgrumentException`](../../fontagrumentexception) object.
 
@@ -32,7 +32,7 @@ public FontAgrumentException(string message)
 
 ---
 
-## FontAgrumentException constructor (3 of 4)
+## FontAgrumentException(string, Exception) {#constructor_3}
 
 Initializes new [`FontAgrumentException`](../../fontagrumentexception) object.
 
@@ -52,7 +52,7 @@ public FontAgrumentException(string message, Exception innerException)
 
 ---
 
-## FontAgrumentException constructor (4 of 4)
+## FontAgrumentException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`FontAgrumentException`](../../fontagrumentexception) object.
 

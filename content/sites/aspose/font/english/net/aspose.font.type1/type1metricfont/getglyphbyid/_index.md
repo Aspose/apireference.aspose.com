@@ -1,4 +1,4 @@
-## Type1MetricFont.GetGlyphById method (1 of 2)
+## GetGlyphById(string) {#getglyphbyid_1}
 
 Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../../type1metricfont) type.
 
@@ -22,7 +22,7 @@ Glyph.
 
 ---
 
-## Type1MetricFont.GetGlyphById method (2 of 2)
+## GetGlyphById(GlyphId) {#getglyphbyid}
 
 Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../../type1metricfont) type.
 

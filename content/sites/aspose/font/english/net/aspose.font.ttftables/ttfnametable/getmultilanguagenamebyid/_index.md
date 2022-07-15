@@ -1,4 +1,4 @@
-## TtfNameTable.GetMultiLanguageNameById method (1 of 3)
+## GetMultiLanguageNameById(NameId) {#getmultilanguagenamebyid}
 
 Returns a name by nameId.
 
@@ -23,7 +23,7 @@ Name.
 
 ---
 
-## TtfNameTable.GetMultiLanguageNameById method (2 of 3)
+## GetMultiLanguageNameById(NameId, PlatformId) {#getmultilanguagenamebyid_1}
 
 Returns a name by nameId using platform identifier passed.
 
@@ -50,7 +50,7 @@ Name.
 
 ---
 
-## TtfNameTable.GetMultiLanguageNameById method (3 of 3)
+## GetMultiLanguageNameById(NameId, PlatformId, ushort) {#getmultilanguagenamebyid_2}
 
 Returns a name as object of type [`MultiLanguageString`](../../../aspose.font/multilanguagestring). Method collects all NameRecord structures which coincide with passed parameters nameId, platformId and platformSpecificId and then builds resultant object based on this structures list.
 

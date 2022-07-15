@@ -1,4 +1,4 @@
-## MultiLanguageString Inequality operator (1 of 2)
+## operator != {#op_inequality}
 
 Inequality operator implementation.
 
@@ -22,7 +22,7 @@ comparison result
 
 ---
 
-## MultiLanguageString Inequality operator (2 of 2)
+## operator != {#op_inequality_1}
 
 Inequality operator implementation.
 

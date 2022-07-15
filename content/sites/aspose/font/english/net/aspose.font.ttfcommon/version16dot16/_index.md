@@ -10,8 +10,8 @@ public class Version16Dot16 : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Version16Dot16](version16dot16)() | Constructor |
-| [Version16Dot16](version16dot16)(ushort, ushort) | Constructor |
+| [Version16Dot16](version16dot16#constructor)() | Constructor |
+| [Version16Dot16](version16dot16#constructor_1)(ushort, ushort) | Constructor |
 
 ## Properties
 

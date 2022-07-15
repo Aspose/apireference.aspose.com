@@ -1,4 +1,4 @@
-## IFontSaver.Save method (1 of 2)
+## Save(Stream) {#save}
 
 Saves the Font into original format.
 
@@ -17,7 +17,7 @@ public void Save(Stream stream)
 
 ---
 
-## IFontSaver.Save method (2 of 2)
+## Save(string) {#save_1}
 
 Saves the Font into original format.
 

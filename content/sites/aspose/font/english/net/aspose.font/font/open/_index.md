@@ -1,4 +1,4 @@
-## Font.Open method (1 of 4)
+## Open(FontDefinition) {#open_3}
 
 Opens a font, using FontDefinition object.
 
@@ -22,7 +22,7 @@ Font loaded.
 
 ---
 
-## Font.Open method (2 of 4)
+## Open(FontType, StreamSource) {#open}
 
 Opens a font, using font type and stream source.
 
@@ -48,7 +48,7 @@ Font loaded.
 
 ---
 
-## Font.Open method (3 of 4)
+## Open(FontType, string) {#open_2}
 
 Opens a font, using font type and font file name.
 
@@ -73,7 +73,7 @@ Font loaded.
 
 ---
 
-## Font.Open method (4 of 4)
+## Open(FontType, byte[]) {#open_1}
 
 Opens a font, using font type and font data byte array.
 

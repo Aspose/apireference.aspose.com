@@ -1,4 +1,4 @@
-## TtfFont.GetGlyphById method (1 of 3)
+## GetGlyphById(GlyphId) {#getglyphbyid}
 
 Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name.
 
@@ -23,7 +23,7 @@ Glyph.
 
 ---
 
-## TtfFont.GetGlyphById method (2 of 3)
+## GetGlyphById(string) {#getglyphbyid_1}
 
 Returns glyph by glyph name. Name (string) glyph addressing is supported for TTF fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name.
 
@@ -47,7 +47,7 @@ Glyph.
 
 ---
 
-## TtfFont.GetGlyphById method (3 of 3)
+## GetGlyphById(uint) {#getglyphbyid_2}
 
 Returns glyph by glyph id.
 

@@ -1,4 +1,4 @@
-## CffFontException constructor (1 of 4)
+## CffFontException() {#constructor}
 
 Initializes new [`CffFontException`](../../cfffontexception) object.
 
@@ -13,7 +13,7 @@ public CffFontException()
 
 ---
 
-## CffFontException constructor (2 of 4)
+## CffFontException(string) {#constructor_2}
 
 Initializes new [`CffFontException`](../../cfffontexception) object.
 
@@ -32,7 +32,7 @@ public CffFontException(string message)
 
 ---
 
-## CffFontException constructor (3 of 4)
+## CffFontException(string, Exception) {#constructor_3}
 
 Initializes new [`CffFontException`](../../cfffontexception) object.
 
@@ -52,7 +52,7 @@ public CffFontException(string message, Exception innerException)
 
 ---
 
-## CffFontException constructor (4 of 4)
+## CffFontException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`CffFontException`](../../cfffontexception) object.
 

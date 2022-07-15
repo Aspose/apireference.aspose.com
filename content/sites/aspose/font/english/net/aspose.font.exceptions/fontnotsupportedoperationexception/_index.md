@@ -10,10 +10,10 @@ public class FontNotSupportedOperationException : FontException
 
 | Name | Description |
 | --- | --- |
-| [FontNotSupportedOperationException](fontnotsupportedoperationexception)() | Initializes new [`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) object. |
-| [FontNotSupportedOperationException](fontnotsupportedoperationexception)(string) | Initializes new [`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) object. |
-| [FontNotSupportedOperationException](fontnotsupportedoperationexception)(SerializationInfo, StreamingContext) | Initializes new [`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) object. |
-| [FontNotSupportedOperationException](fontnotsupportedoperationexception)(string, Exception) | Initializes new [`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) object. |
+| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor)() | Initializes new [`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) object. |
+| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_2)(string) | Initializes new [`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) object. |
+| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_1)(SerializationInfo, StreamingContext) | Initializes new [`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) object. |
+| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_3)(string, Exception) | Initializes new [`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) object. |
 
 ### See Also
 

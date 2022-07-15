@@ -10,10 +10,10 @@ public class FontException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [FontException](fontexception)() | Initializes new [`FontException`](../fontexception) object. |
-| [FontException](fontexception)(string) | Initializes new [`FontException`](../fontexception) object. |
-| [FontException](fontexception)(SerializationInfo, StreamingContext) | Initializes new [`FontException`](../fontexception) object. |
-| [FontException](fontexception)(string, Exception) | Initializes new [`FontException`](../fontexception) object. |
+| [FontException](fontexception#constructor)() | Initializes new [`FontException`](../fontexception) object. |
+| [FontException](fontexception#constructor_2)(string) | Initializes new [`FontException`](../fontexception) object. |
+| [FontException](fontexception#constructor_1)(SerializationInfo, StreamingContext) | Initializes new [`FontException`](../fontexception) object. |
+| [FontException](fontexception#constructor_3)(string, Exception) | Initializes new [`FontException`](../fontexception) object. |
 
 ### See Also
 

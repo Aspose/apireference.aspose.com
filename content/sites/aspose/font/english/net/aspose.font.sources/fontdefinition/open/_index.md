@@ -1,4 +1,4 @@
-## FontDefinition.Open method (1 of 2)
+## Open(string, FontType) {#open_1}
 
 Returns FontDefinition for font file and font type.
 
@@ -23,7 +23,7 @@ FontDefinition.
 
 ---
 
-## FontDefinition.Open method (2 of 2)
+## Open(StreamSource, FontType) {#open}
 
 Returns FontDefinition for font stream source and font type.
 

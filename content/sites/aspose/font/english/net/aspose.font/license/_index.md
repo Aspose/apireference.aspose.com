@@ -16,8 +16,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](../../aspose.font/license/setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.font/license/setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.font/license/setlicense#setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.font/license/setlicense#setlicense_1)(string) | Licenses the component. |
 
 ### See Also
 

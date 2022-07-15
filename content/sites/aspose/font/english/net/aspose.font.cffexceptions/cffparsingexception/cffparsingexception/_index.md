@@ -1,4 +1,4 @@
-## CffParsingException constructor (1 of 4)
+## CffParsingException() {#constructor}
 
 Initializes new [`CffParsingException`](../../cffparsingexception) object.
 
@@ -13,7 +13,7 @@ public CffParsingException()
 
 ---
 
-## CffParsingException constructor (2 of 4)
+## CffParsingException(string) {#constructor_2}
 
 Initializes new [`CffParsingException`](../../cffparsingexception) object.
 
@@ -32,7 +32,7 @@ public CffParsingException(string message)
 
 ---
 
-## CffParsingException constructor (3 of 4)
+## CffParsingException(string, Exception) {#constructor_3}
 
 Initializes new [`CffParsingException`](../../cffparsingexception) object.
 
@@ -52,7 +52,7 @@ public CffParsingException(string message, Exception innerException)
 
 ---
 
-## CffParsingException constructor (4 of 4)
+## CffParsingException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`CffParsingException`](../../cffparsingexception) object.
 

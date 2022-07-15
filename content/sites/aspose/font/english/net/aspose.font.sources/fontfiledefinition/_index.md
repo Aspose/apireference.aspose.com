@@ -10,10 +10,10 @@ public class FontFileDefinition
 
 | Name | Description |
 | --- | --- |
-| [FontFileDefinition](fontfiledefinition)(FileInfo) | Creates a file definition using font file (represented by FileInfo) and file content. |
-| [FontFileDefinition](fontfiledefinition)(StreamSource) | Creates a file definition using file content only. |
-| [FontFileDefinition](fontfiledefinition)(string, StreamSource) | Creates a file definition using file content only. |
-| [FontFileDefinition](fontfiledefinition)(string, StreamSource, long) | Creates a file definition using file content only. |
+| [FontFileDefinition](fontfiledefinition#constructor_1)(FileInfo) | Creates a file definition using font file (represented by FileInfo) and file content. |
+| [FontFileDefinition](fontfiledefinition#constructor)(StreamSource) | Creates a file definition using file content only. |
+| [FontFileDefinition](fontfiledefinition#constructor_2)(string, StreamSource) | Creates a file definition using file content only. |
+| [FontFileDefinition](fontfiledefinition#constructor_3)(string, StreamSource, long) | Creates a file definition using file content only. |
 
 ## Properties
 

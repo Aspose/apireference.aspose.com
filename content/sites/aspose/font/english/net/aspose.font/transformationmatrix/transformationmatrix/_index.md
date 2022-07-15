@@ -1,4 +1,4 @@
-## TransformationMatrix constructor (1 of 2)
+## TransformationMatrix() {#constructor}
 
 Creates standard 1 to 1 transformation matrix: [ A B C D TX TY ] = [ 1, 0, 0, 1, 0, 0].
 
@@ -13,7 +13,7 @@ public TransformationMatrix()
 
 ---
 
-## TransformationMatrix constructor (2 of 2)
+## TransformationMatrix(double[]) {#constructor_1}
 
 Accepts a transformation matrix with following array representation: [ A B C D TX TY ].
 

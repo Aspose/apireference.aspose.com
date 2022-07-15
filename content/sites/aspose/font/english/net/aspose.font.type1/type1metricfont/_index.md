@@ -31,8 +31,8 @@ public class Type1MetricFont : Type1Font
 | --- | --- |
 | override [Convert](../../aspose.font.type1/type1font/convert)(FontType) | Converts the Font into another format. |
 | override [GetAllGlyphIds](../../aspose.font.type1/type1metricfont/getallglyphids)() | Returns all glyph ids, available in the Font. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
-| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid)(GlyphId) | Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
-| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid)(string) | Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
+| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid#getglyphbyid)(GlyphId) | Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
+| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid#getglyphbyid_1)(string) | Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../type1metricfont) type. |
 | [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(uint) | Returns glyph by glyph id. |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | Gets glyphs representation for text. |
 | virtual [Save](../../aspose.font/font/save)(Stream) | Saves the Font into original format. |

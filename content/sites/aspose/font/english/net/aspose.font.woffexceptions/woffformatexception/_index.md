@@ -10,10 +10,10 @@ public class WoffFormatException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [WoffFormatException](woffformatexception)() | Initializes new [`WoffFormatException`](../woffformatexception) object. |
-| [WoffFormatException](woffformatexception)(string) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
-| [WoffFormatException](woffformatexception)(SerializationInfo, StreamingContext) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
-| [WoffFormatException](woffformatexception)(string, Exception) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
+| [WoffFormatException](woffformatexception#constructor)() | Initializes new [`WoffFormatException`](../woffformatexception) object. |
+| [WoffFormatException](woffformatexception#constructor_2)(string) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
+| [WoffFormatException](woffformatexception#constructor_1)(SerializationInfo, StreamingContext) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
+| [WoffFormatException](woffformatexception#constructor_3)(string, Exception) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
 
 ### See Also
 

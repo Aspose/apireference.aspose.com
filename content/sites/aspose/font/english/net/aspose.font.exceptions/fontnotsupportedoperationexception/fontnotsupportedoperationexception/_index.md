@@ -1,4 +1,4 @@
-## FontNotSupportedOperationException constructor (1 of 4)
+## FontNotSupportedOperationException() {#constructor}
 
 Initializes new [`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) object.
 
@@ -13,7 +13,7 @@ public FontNotSupportedOperationException()
 
 ---
 
-## FontNotSupportedOperationException constructor (2 of 4)
+## FontNotSupportedOperationException(string) {#constructor_2}
 
 Initializes new [`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) object.
 
@@ -32,7 +32,7 @@ public FontNotSupportedOperationException(string message)
 
 ---
 
-## FontNotSupportedOperationException constructor (3 of 4)
+## FontNotSupportedOperationException(string, Exception) {#constructor_3}
 
 Initializes new [`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) object.
 
@@ -52,7 +52,7 @@ public FontNotSupportedOperationException(string message, Exception innerExcepti
 
 ---
 
-## FontNotSupportedOperationException constructor (4 of 4)
+## FontNotSupportedOperationException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) object.
 

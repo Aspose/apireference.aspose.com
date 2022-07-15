@@ -1,4 +1,4 @@
-## MultiLanguageString Equality operator (1 of 2)
+## operator == {#op_equality}
 
 Equality operator implementation.
 
@@ -22,7 +22,7 @@ comparison result
 
 ---
 
-## MultiLanguageString Equality operator (2 of 2)
+## operator == {#op_equality_1}
 
 Equality operator implementation.
 

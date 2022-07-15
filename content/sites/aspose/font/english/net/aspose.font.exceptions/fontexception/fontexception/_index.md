@@ -1,4 +1,4 @@
-## FontException constructor (1 of 4)
+## FontException() {#constructor}
 
 Initializes new [`FontException`](../../fontexception) object.
 
@@ -13,7 +13,7 @@ public FontException()
 
 ---
 
-## FontException constructor (2 of 4)
+## FontException(string) {#constructor_2}
 
 Initializes new [`FontException`](../../fontexception) object.
 
@@ -32,7 +32,7 @@ public FontException(string message)
 
 ---
 
-## FontException constructor (3 of 4)
+## FontException(string, Exception) {#constructor_3}
 
 Initializes new [`FontException`](../../fontexception) object.
 
@@ -52,7 +52,7 @@ public FontException(string message, Exception innerException)
 
 ---
 
-## FontException constructor (4 of 4)
+## FontException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`FontException`](../../fontexception) object.
 

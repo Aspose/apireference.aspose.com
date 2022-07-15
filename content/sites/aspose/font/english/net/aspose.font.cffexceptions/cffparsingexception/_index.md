@@ -10,10 +10,10 @@ public class CffParsingException : CffFontException
 
 | Name | Description |
 | --- | --- |
-| [CffParsingException](cffparsingexception)() | Initializes new [`CffParsingException`](../cffparsingexception) object. |
-| [CffParsingException](cffparsingexception)(string) | Initializes new [`CffParsingException`](../cffparsingexception) object. |
-| [CffParsingException](cffparsingexception)(SerializationInfo, StreamingContext) | Initializes new [`CffParsingException`](../cffparsingexception) object. |
-| [CffParsingException](cffparsingexception)(string, Exception) | Initializes new [`CffParsingException`](../cffparsingexception) object. |
+| [CffParsingException](cffparsingexception#constructor)() | Initializes new [`CffParsingException`](../cffparsingexception) object. |
+| [CffParsingException](cffparsingexception#constructor_2)(string) | Initializes new [`CffParsingException`](../cffparsingexception) object. |
+| [CffParsingException](cffparsingexception#constructor_1)(SerializationInfo, StreamingContext) | Initializes new [`CffParsingException`](../cffparsingexception) object. |
+| [CffParsingException](cffparsingexception#constructor_3)(string, Exception) | Initializes new [`CffParsingException`](../cffparsingexception) object. |
 
 ### See Also
 

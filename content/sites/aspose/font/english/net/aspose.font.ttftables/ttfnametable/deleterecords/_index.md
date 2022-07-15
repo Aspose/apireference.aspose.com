@@ -1,4 +1,4 @@
-## TtfNameTable.DeleteRecords method (1 of 3)
+## DeleteRecords(PlatformId, ushort, NameId) {#deleterecords_1}
 
 Deletes all the records related to passed parameters
 
@@ -21,7 +21,7 @@ public void DeleteRecords(PlatformId platformId, ushort platformSpecificId, Name
 
 ---
 
-## TtfNameTable.DeleteRecords method (2 of 3)
+## DeleteRecords(PlatformId, ushort) {#deleterecords}
 
 Deletes all the records related to platform specified
 
@@ -42,7 +42,7 @@ public void DeleteRecords(PlatformId platformId, ushort platformSpecificId)
 
 ---
 
-## TtfNameTable.DeleteRecords method (3 of 3)
+## DeleteRecords(PlatformId, ushort, NameId, ushort) {#deleterecords_2}
 
 Deletes record(s) related to parameters specified
 
