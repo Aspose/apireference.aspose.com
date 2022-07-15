@@ -1,7 +1,7 @@
 ---
 title: SetAlignmentType
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets alignment type
 type: docs
 weight: 140
 url: /net/aspose.pub/paragraphstyle/setalignmenttype/

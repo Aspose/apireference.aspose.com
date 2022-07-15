@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Represents PUB document holds all fields and relevant values
 type: docs
 weight: 50
 url: /net/aspose.pub/document/

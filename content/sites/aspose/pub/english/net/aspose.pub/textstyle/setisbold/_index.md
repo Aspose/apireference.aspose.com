@@ -1,7 +1,7 @@
 ---
 title: SetIsBold
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets is text bold
 type: docs
 weight: 210
 url: /net/aspose.pub/textstyle/setisbold/

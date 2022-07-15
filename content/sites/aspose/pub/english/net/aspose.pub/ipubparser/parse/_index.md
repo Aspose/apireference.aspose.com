@@ -1,7 +1,7 @@
 ---
 title: Parse
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Parses publisher file and returns Documentaspose.pub/documentobject as result of parsing.
 type: docs
 weight: 10
 url: /net/aspose.pub/ipubparser/parse/

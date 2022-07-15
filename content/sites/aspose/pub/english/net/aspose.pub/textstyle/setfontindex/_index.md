@@ -1,7 +1,7 @@
 ---
 title: SetFontIndex
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets index of font name in Document.FontNames array
 type: docs
 weight: 190
 url: /net/aspose.pub/textstyle/setfontindex/

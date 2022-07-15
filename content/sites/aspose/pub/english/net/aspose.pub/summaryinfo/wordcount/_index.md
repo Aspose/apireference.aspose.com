@@ -1,7 +1,7 @@
 ---
 title: WordCount
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: The total number of words in the document
 type: docs
 weight: 140
 url: /net/aspose.pub/summaryinfo/wordcount/

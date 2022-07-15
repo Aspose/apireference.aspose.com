@@ -1,7 +1,7 @@
 ---
 title: LeftIndent
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Left indent
 type: docs
 weight: 80
 url: /net/aspose.pub/paragraphstyle/leftindent/

@@ -1,7 +1,7 @@
 ---
 title: DefaultStyleIndex
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Index of default text style in Document.DefaultTextStyles array
 type: docs
 weight: 40
 url: /net/aspose.pub/paragraphstyle/defaultstyleindex/

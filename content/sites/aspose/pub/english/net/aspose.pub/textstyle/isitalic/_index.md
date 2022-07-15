@@ -1,7 +1,7 @@
 ---
 title: IsItalic
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is text italic
 type: docs
 weight: 80
 url: /net/aspose.pub/textstyle/isitalic/

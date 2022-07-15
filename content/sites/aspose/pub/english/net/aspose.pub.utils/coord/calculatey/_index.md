@@ -1,12 +1,12 @@
 ---
 title: CalculateY
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Transforms value for Y-coordinate from natural PUB metric system into inches
 type: docs
 weight: 90
 url: /net/aspose.pub.utils/coord/calculatey/
 ---
-## Coord.CalculateY method (1 of 2)
+## CalculateY(double) {#calculatey_1}
 
 Transforms value for Y-coordinate from natural PUB metric system into inches
 
@@ -30,7 +30,7 @@ Y-coordinate in inches
 
 ---
 
-## Coord.CalculateY method (2 of 2)
+## CalculateY() {#calculatey}
 
 Transforms value for Y-coordinate from natural PUB metric system into inches
 

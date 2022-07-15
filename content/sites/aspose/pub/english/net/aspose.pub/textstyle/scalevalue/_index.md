@@ -1,7 +1,7 @@
 ---
 title: ScaleValue
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Value of scale
 type: docs
 weight: 140
 url: /net/aspose.pub/textstyle/scalevalue/

@@ -1,7 +1,7 @@
 ---
 title: SetSuperscriptType
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets type of superscript
 type: docs
 weight: 310
 url: /net/aspose.pub/textstyle/setsuperscripttype/

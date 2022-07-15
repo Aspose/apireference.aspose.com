@@ -1,7 +1,7 @@
 ---
 title: SetSubject
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets subject of the document
 type: docs
 weight: 190
 url: /net/aspose.pub/summaryinfo/setsubject/

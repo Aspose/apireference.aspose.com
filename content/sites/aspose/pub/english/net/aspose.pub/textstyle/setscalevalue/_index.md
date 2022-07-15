@@ -1,7 +1,7 @@
 ---
 title: SetScaleValue
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets value of scale
 type: docs
 weight: 300
 url: /net/aspose.pub/textstyle/setscalevalue/

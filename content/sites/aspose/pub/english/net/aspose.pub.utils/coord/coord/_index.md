@@ -1,12 +1,12 @@
 ---
 title: Coord
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Constructor
 type: docs
 weight: 10
 url: /net/aspose.pub.utils/coord/coord/
 ---
-## Coord constructor (1 of 2)
+## Coord() {#constructor}
 
 Constructor
 
@@ -22,7 +22,7 @@ public Coord()
 
 ---
 
-## Coord constructor (2 of 2)
+## Coord(int, int, int, int) {#constructor_1}
 
 Constructor
 

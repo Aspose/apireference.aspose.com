@@ -11,7 +11,7 @@ is_root: true
 
 | Namespace | Description |
 | --- | --- |
-| [Aspose.Pub](./aspose.pub) | The **Aspose.Pub** namespace provides classes describing PUB objects. |
+| [Aspose.Pub](./aspose.pub) | The  **Aspose.Pub** namespace provides classes describing PUB objects. |
 | [Aspose.Pub.Exceptions](./aspose.pub.exceptions) | Namespace exceptions declares classes for exceptions in PUB area |
 | [Aspose.Pub.Utils](./aspose.pub.utils) | Namespace Aspose.PUB.Utils provides an utility objects |
 

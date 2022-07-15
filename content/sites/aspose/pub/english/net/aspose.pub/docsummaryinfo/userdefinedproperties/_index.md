@@ -1,7 +1,7 @@
 ---
 title: UserDefinedProperties
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: User defined properties
 type: docs
 weight: 50
 url: /net/aspose.pub/docsummaryinfo/userdefinedproperties/

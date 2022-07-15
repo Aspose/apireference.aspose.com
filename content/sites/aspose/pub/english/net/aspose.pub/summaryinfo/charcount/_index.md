@@ -1,7 +1,7 @@
 ---
 title: CharCount
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: The total number of characters in the document
 type: docs
 weight: 40
 url: /net/aspose.pub/summaryinfo/charcount/

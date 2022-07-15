@@ -1,7 +1,7 @@
 ---
 title: SetKeywords
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets keywords related to the document
 type: docs
 weight: 170
 url: /net/aspose.pub/summaryinfo/setkeywords/

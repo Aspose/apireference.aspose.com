@@ -1,7 +1,7 @@
 ---
 title: BaseStyle
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Declares base functionality for PUB styles
 type: docs
 weight: 20
 url: /net/aspose.pub/basestyle/

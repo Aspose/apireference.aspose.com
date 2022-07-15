@@ -1,7 +1,7 @@
 ---
 title: SuperscriptType
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Type of superscript
 type: docs
 weight: 170
 url: /net/aspose.pub/superscripttype/

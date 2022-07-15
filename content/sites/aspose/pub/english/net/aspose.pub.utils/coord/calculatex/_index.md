@@ -1,12 +1,12 @@
 ---
 title: CalculateX
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Transforms value for X-coordinate from natural PUB metric system into inches
 type: docs
 weight: 80
 url: /net/aspose.pub.utils/coord/calculatex/
 ---
-## Coord.CalculateX method (1 of 2)
+## CalculateX(double) {#calculatex_1}
 
 Transforms value for X-coordinate from natural PUB metric system into inches
 
@@ -30,7 +30,7 @@ X-coordinate in inches
 
 ---
 
-## Coord.CalculateX method (2 of 2)
+## CalculateX() {#calculatex}
 
 Transforms value for X-coordinate from natural PUB metric system into inches
 

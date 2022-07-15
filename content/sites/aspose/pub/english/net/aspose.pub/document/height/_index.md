@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Height of document in PUB metricsEMUs
 type: docs
 weight: 70
 url: /net/aspose.pub/document/height/

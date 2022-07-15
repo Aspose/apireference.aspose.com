@@ -1,7 +1,7 @@
 ---
 title: CalculateWidth
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Calculates width of figurecurrent Coord object and returns result in inches
 type: docs
 weight: 70
 url: /net/aspose.pub.utils/coord/calculatewidth/

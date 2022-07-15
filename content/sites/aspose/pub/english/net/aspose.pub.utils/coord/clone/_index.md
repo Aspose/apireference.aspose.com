@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Created copy of object
 type: docs
 weight: 100
 url: /net/aspose.pub.utils/coord/clone/

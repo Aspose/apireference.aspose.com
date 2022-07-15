@@ -1,7 +1,7 @@
 ---
 title: SetDocSummaryInfo
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets document summary info
 type: docs
 weight: 120
 url: /net/aspose.pub/document/setdocsummaryinfo/

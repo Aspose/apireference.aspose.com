@@ -1,7 +1,7 @@
 ---
 title: SetRawTextSize
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets size of text in PUB metricsin EMUs
 type: docs
 weight: 290
 url: /net/aspose.pub/textstyle/setrawtextsize/

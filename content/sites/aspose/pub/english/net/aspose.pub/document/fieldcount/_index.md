@@ -1,7 +1,7 @@
 ---
 title: FieldCount
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Count of all fields
 type: docs
 weight: 50
 url: /net/aspose.pub/document/fieldcount/

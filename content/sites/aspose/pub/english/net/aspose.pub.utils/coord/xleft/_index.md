@@ -1,7 +1,7 @@
 ---
 title: XLeft
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: X-coordinate of upper-left corner in EMUs
 type: docs
 weight: 20
 url: /net/aspose.pub.utils/coord/xleft/

@@ -1,7 +1,7 @@
 ---
 title: SysID
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: System identifier
 type: docs
 weight: 100
 url: /net/aspose.pub/metainfo/sysid/

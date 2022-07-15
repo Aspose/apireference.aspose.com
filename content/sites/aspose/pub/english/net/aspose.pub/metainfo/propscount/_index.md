@@ -1,7 +1,7 @@
 ---
 title: PropsCount
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Count of properties
 type: docs
 weight: 70
 url: /net/aspose.pub/metainfo/propscount/

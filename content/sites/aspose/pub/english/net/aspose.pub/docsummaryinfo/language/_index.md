@@ -1,7 +1,7 @@
 ---
 title: Language
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Language value
 type: docs
 weight: 40
 url: /net/aspose.pub/docsummaryinfo/language/

@@ -1,7 +1,7 @@
 ---
 title: TextGroup
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Constructor
 type: docs
 weight: 10
 url: /net/aspose.pub/textgroup/textgroup/

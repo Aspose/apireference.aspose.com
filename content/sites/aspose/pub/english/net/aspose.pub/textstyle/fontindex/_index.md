@@ -1,7 +1,7 @@
 ---
 title: FontIndex
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Gets index of font name in Document.FontNames array
 type: docs
 weight: 30
 url: /net/aspose.pub/textstyle/fontindex/

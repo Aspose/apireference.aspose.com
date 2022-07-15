@@ -1,7 +1,7 @@
 ---
 title: BottomIndent
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Bottom indent
 type: docs
 weight: 30
 url: /net/aspose.pub/paragraphstyle/bottomindent/

@@ -1,12 +1,12 @@
 ---
 title: CreateParser
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Creates PUB parser for PUB file
 type: docs
 weight: 10
 url: /net/aspose.pub/pubfactory/createparser/
 ---
-## PubFactory.CreateParser method (1 of 2)
+## CreateParser(string) {#createparser_1}
 
 Creates PUB parser for PUB file
 
@@ -31,7 +31,7 @@ PUB parser
 
 ---
 
-## PubFactory.CreateParser method (2 of 2)
+## CreateParser(Stream) {#createparser}
 
 Creates PUB parser for PUB stream
 

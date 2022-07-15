@@ -1,7 +1,7 @@
 ---
 title: IsEngrave
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is text engraved
 type: docs
 weight: 70
 url: /net/aspose.pub/textstyle/isengrave/

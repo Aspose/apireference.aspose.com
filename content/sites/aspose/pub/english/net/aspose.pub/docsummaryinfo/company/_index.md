@@ -1,7 +1,7 @@
 ---
 title: Company
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Company
 type: docs
 weight: 30
 url: /net/aspose.pub/docsummaryinfo/company/

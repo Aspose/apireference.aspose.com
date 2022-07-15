@@ -1,7 +1,7 @@
 ---
 title: Template
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Application-specific template from which the document was created
 type: docs
 weight: 120
 url: /net/aspose.pub/summaryinfo/template/

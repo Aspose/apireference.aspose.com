@@ -1,7 +1,7 @@
 ---
 title: LineSpacingType
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Type of line spacing
 type: docs
 weight: 90
 url: /net/aspose.pub/paragraphstyle/linespacingtype/

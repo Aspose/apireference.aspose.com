@@ -1,7 +1,7 @@
 ---
 title: StackTrace
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Gets a string representation of the immediate frames on the call stack.
 type: docs
 weight: 30
 url: /net/aspose.pub.exceptions/pubexception/stacktrace/

@@ -1,7 +1,7 @@
 ---
 title: RightIndent
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Right indent
 type: docs
 weight: 110
 url: /net/aspose.pub/paragraphstyle/rightindent/

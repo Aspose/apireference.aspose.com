@@ -1,7 +1,7 @@
 ---
 title: SetCategory
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets category
 type: docs
 weight: 60
 url: /net/aspose.pub/docsummaryinfo/setcategory/

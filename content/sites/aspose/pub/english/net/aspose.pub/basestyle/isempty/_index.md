@@ -1,7 +1,7 @@
 ---
 title: IsEmpty
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is style not initialized
 type: docs
 weight: 10
 url: /net/aspose.pub/basestyle/isempty/

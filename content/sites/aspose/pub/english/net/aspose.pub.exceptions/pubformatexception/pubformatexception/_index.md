@@ -1,12 +1,12 @@
 ---
 title: PubFormatException
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Initializes a new instance of the PubFormatExceptionaspose.pub.exceptions/pubformatexception class.
 type: docs
 weight: 10
 url: /net/aspose.pub.exceptions/pubformatexception/pubformatexception/
 ---
-## PubFormatException constructor (1 of 2)
+## PubFormatException(string) {#constructor}
 
 Initializes a new instance of the [`PubFormatException`](../../pubformatexception) class.
 
@@ -26,7 +26,7 @@ public PubFormatException(string message)
 
 ---
 
-## PubFormatException constructor (2 of 2)
+## PubFormatException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`PubFormatException`](../../pubformatexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 

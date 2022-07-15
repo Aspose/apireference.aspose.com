@@ -1,7 +1,7 @@
 ---
 title: PubFactory
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Factory for PUB objects
 type: docs
 weight: 150
 url: /net/aspose.pub/pubfactory/
@@ -18,8 +18,8 @@ public static class PubFactory
 
 | Name | Description |
 | --- | --- |
-| static [CreateParser](../../aspose.pub/pubfactory/createparser)(Stream) | Creates PUB parser for PUB stream |
-| static [CreateParser](../../aspose.pub/pubfactory/createparser)(string) | Creates PUB parser for PUB file |
+| static [CreateParser](../../aspose.pub/pubfactory/createparser#createparser)(Stream) | Creates PUB parser for PUB stream |
+| static [CreateParser](../../aspose.pub/pubfactory/createparser#createparser_1)(string) | Creates PUB parser for PUB file |
 | static [CreatePdfConverter](../../aspose.pub/pubfactory/createpdfconverter)() | Creates PdfConverter |
 
 ### See Also

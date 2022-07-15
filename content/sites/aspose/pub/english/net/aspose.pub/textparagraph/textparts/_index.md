@@ -1,7 +1,7 @@
 ---
 title: TextParts
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Text groups
 type: docs
 weight: 30
 url: /net/aspose.pub/textparagraph/textparts/

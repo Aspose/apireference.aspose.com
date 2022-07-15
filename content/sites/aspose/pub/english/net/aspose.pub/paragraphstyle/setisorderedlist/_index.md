@@ -1,7 +1,7 @@
 ---
 title: SetIsOrderedList
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets whether paragraph is ordered list
 type: docs
 weight: 190
 url: /net/aspose.pub/paragraphstyle/setisorderedlist/

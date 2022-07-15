@@ -1,7 +1,7 @@
 ---
 title: GetWidth
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Returns width of current Coord object in natural PUB metrics
 type: docs
 weight: 120
 url: /net/aspose.pub.utils/coord/getwidth/

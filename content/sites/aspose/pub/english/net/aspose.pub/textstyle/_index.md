@@ -1,7 +1,7 @@
 ---
 title: TextStyle
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Describes PUB text style
 type: docs
 weight: 200
 url: /net/aspose.pub/textstyle/

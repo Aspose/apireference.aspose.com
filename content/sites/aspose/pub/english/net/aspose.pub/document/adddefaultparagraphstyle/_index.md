@@ -1,7 +1,7 @@
 ---
 title: AddDefaultParagraphStyle
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Adds default paragraph style
 type: docs
 weight: 100
 url: /net/aspose.pub/document/adddefaultparagraphstyle/

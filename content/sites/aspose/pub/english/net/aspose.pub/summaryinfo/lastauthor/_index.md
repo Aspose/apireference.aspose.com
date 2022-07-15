@@ -1,7 +1,7 @@
 ---
 title: LastAuthor
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: The last author of the document
 type: docs
 weight: 80
 url: /net/aspose.pub/summaryinfo/lastauthor/

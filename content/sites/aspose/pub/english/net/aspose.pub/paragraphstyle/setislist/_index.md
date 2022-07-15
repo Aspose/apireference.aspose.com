@@ -1,7 +1,7 @@
 ---
 title: SetIsList
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets is paragraph list
 type: docs
 weight: 180
 url: /net/aspose.pub/paragraphstyle/setislist/

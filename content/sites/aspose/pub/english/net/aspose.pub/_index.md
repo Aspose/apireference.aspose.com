@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pub
 second_title: Aspose.PUB for .NET API Reference
-description: The Aspose.Pub namespace provides classes describing PUB objects.
+description: The  Aspose.Pub namespace provides classes describing PUB objects.
 type: docs
 weight: 10
 url: /net/aspose.pub/
 ---
-The **Aspose.Pub** namespace provides classes describing PUB objects.
+The  **Aspose.Pub** namespace provides classes describing PUB objects.
 
 ## Classes
 

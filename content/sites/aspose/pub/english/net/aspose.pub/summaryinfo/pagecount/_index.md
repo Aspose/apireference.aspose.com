@@ -1,7 +1,7 @@
 ---
 title: PageCount
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: The total number of pages in the document
 type: docs
 weight: 90
 url: /net/aspose.pub/summaryinfo/pagecount/
