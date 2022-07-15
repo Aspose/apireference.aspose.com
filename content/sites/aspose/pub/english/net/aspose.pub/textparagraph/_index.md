@@ -1,7 +1,7 @@
 ---
 title: TextParagraph
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Represents PUB text paragraph
 type: docs
 weight: 190
 url: /net/aspose.pub/textparagraph/

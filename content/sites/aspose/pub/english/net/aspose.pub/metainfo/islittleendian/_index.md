@@ -1,7 +1,7 @@
 ---
 title: IsLittleEndian
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is little endian
 type: docs
 weight: 50
 url: /net/aspose.pub/metainfo/islittleendian/

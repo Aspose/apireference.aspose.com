@@ -1,7 +1,7 @@
 ---
 title: IPubParser
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Declares functionality which parses publisher file and returns Document./document object as result of parsing.
 type: docs
 weight: 100
 url: /net/aspose.pub/ipubparser/

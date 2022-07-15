@@ -1,7 +1,7 @@
 ---
 title: Category
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Category
 type: docs
 weight: 20
 url: /net/aspose.pub/docsummaryinfo/category/

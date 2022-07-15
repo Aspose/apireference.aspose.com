@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Text in group
 type: docs
 weight: 30
 url: /net/aspose.pub/textgroup/text/

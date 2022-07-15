@@ -1,7 +1,7 @@
 ---
 title: SetComments
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets comments related the document
 type: docs
 weight: 160
 url: /net/aspose.pub/summaryinfo/setcomments/

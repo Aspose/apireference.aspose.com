@@ -1,7 +1,7 @@
 ---
 title: SetIsEngrave
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets is text engraved
 type: docs
 weight: 230
 url: /net/aspose.pub/textstyle/setisengrave/

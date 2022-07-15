@@ -1,7 +1,7 @@
 ---
 title: SetIsEmboss
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets is text embossed
 type: docs
 weight: 220
 url: /net/aspose.pub/textstyle/setisemboss/

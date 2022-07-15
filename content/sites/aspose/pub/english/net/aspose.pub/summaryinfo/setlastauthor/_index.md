@@ -1,7 +1,7 @@
 ---
 title: SetLastAuthor
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets last author of the document
 type: docs
 weight: 180
 url: /net/aspose.pub/summaryinfo/setlastauthor/

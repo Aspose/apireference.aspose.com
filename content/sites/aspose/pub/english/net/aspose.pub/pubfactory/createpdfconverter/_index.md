@@ -1,7 +1,7 @@
 ---
 title: CreatePdfConverter
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Creates PdfConverter
 type: docs
 weight: 20
 url: /net/aspose.pub/pubfactory/createpdfconverter/

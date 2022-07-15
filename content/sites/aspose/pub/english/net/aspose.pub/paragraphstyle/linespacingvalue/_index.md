@@ -1,7 +1,7 @@
 ---
 title: LineSpacingValue
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Value of line spacing
 type: docs
 weight: 100
 url: /net/aspose.pub/paragraphstyle/linespacingvalue/

@@ -1,7 +1,7 @@
 ---
 title: Locale
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Locale identifier
 type: docs
 weight: 120
 url: /net/aspose.pub/textstyle/locale/

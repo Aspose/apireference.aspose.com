@@ -1,7 +1,7 @@
 ---
 title: CalculateHeight
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Calculates height of figurecurrent Coord object and returns result in inches
 type: docs
 weight: 60
 url: /net/aspose.pub.utils/coord/calculateheight/

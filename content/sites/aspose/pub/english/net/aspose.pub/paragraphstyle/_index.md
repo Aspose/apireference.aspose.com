@@ -1,7 +1,7 @@
 ---
 title: ParagraphStyle
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: This class describes style of PUB paragraph
 type: docs
 weight: 140
 url: /net/aspose.pub/paragraphstyle/

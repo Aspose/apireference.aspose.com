@@ -1,7 +1,7 @@
 ---
 title: SetAuthor
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets author of the document
 type: docs
 weight: 150
 url: /net/aspose.pub/summaryinfo/setauthor/

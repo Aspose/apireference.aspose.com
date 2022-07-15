@@ -1,7 +1,7 @@
 ---
 title: IsSmallCapsMode
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is small caps mode enabled
 type: docs
 weight: 110
 url: /net/aspose.pub/textstyle/issmallcapsmode/

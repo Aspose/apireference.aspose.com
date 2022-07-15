@@ -1,7 +1,7 @@
 ---
 title: IsEmboss
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is text embossed
 type: docs
 weight: 60
 url: /net/aspose.pub/textstyle/isemboss/

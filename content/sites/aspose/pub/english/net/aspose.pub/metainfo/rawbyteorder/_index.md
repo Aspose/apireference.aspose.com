@@ -1,7 +1,7 @@
 ---
 title: RawByteOrder
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Raw byte order
 type: docs
 weight: 90
 url: /net/aspose.pub/metainfo/rawbyteorder/

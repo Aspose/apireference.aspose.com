@@ -1,7 +1,7 @@
 ---
 title: DefaultTextStyles
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Array of default text styles
 type: docs
 weight: 30
 url: /net/aspose.pub/document/defaulttextstyles/

@@ -1,7 +1,7 @@
 ---
 title: MetaInfo
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Base class for summary info objects
 type: docs
 weight: 130
 url: /net/aspose.pub/metainfo/

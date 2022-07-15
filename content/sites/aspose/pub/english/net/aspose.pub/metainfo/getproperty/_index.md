@@ -1,7 +1,7 @@
 ---
 title: GetProperty
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Gets property by ID passed
 type: docs
 weight: 120
 url: /net/aspose.pub/metainfo/getproperty/

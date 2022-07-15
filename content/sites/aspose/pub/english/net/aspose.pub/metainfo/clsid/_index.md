@@ -1,7 +1,7 @@
 ---
 title: Clsid
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: CLSID identifier
 type: docs
 weight: 20
 url: /net/aspose.pub/metainfo/clsid/

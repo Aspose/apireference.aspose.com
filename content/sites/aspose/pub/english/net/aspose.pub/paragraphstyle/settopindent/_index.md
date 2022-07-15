@@ -1,7 +1,7 @@
 ---
 title: SetTopIndent
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets top indent
 type: docs
 weight: 240
 url: /net/aspose.pub/paragraphstyle/settopindent/

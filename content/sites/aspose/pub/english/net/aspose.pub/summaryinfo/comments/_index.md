@@ -1,7 +1,7 @@
 ---
 title: Comments
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Comments related the document
 type: docs
 weight: 50
 url: /net/aspose.pub/summaryinfo/comments/

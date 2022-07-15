@@ -1,7 +1,7 @@
 ---
 title: ConvertException
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Exception for conversion cases
 type: docs
 weight: 60
 url: /net/aspose.pub.exceptions/convertexception/
@@ -18,8 +18,8 @@ public sealed class ConvertException : PubException
 
 | Name | Description |
 | --- | --- |
-| [ConvertException](convertexception)(string) | Initializes a new instance of the [`ConvertException`](../convertexception) class. |
-| [ConvertException](convertexception)(string, Exception) | Initializes a new instance of the [`ConvertException`](../convertexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [ConvertException](convertexception#constructor)(string) | Initializes a new instance of the [`ConvertException`](../convertexception) class. |
+| [ConvertException](convertexception#constructor_1)(string, Exception) | Initializes a new instance of the [`ConvertException`](../convertexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ## Properties
 

@@ -1,7 +1,7 @@
 ---
 title: SetLeftIndent
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets left indent
 type: docs
 weight: 200
 url: /net/aspose.pub/paragraphstyle/setleftindent/

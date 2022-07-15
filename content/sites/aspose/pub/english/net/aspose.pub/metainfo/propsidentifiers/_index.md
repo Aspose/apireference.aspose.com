@@ -1,7 +1,7 @@
 ---
 title: PropsIdentifiers
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Identifiers of properties
 type: docs
 weight: 80
 url: /net/aspose.pub/metainfo/propsidentifiers/

@@ -1,7 +1,7 @@
 ---
 title: SetUnorderedListChar
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets character for unordered list in paragraph
 type: docs
 weight: 250
 url: /net/aspose.pub/paragraphstyle/setunorderedlistchar/

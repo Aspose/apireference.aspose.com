@@ -1,7 +1,7 @@
 ---
 title: CalculateTextSize
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Calculates text size in points
 type: docs
 weight: 170
 url: /net/aspose.pub/textstyle/calculatetextsize/

@@ -1,7 +1,7 @@
 ---
 title: BuildVersionInfo
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: This class provides information about current product build.
 type: docs
 weight: 30
 url: /net/aspose.pub/buildversioninfo/

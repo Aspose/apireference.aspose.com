@@ -1,7 +1,7 @@
 ---
 title: DocSummaryInfo
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Document summary info
 type: docs
 weight: 40
 url: /net/aspose.pub/docsummaryinfo/

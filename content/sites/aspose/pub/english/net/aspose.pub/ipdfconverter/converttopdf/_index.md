@@ -1,12 +1,12 @@
 ---
 title: ConvertToPdf
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Converts PUB document into PDF format and saves result as PDF file
 type: docs
 weight: 10
 url: /net/aspose.pub/ipdfconverter/converttopdf/
 ---
-## IPdfConverter.ConvertToPdf method (1 of 2)
+## ConvertToPdf(Document, string) {#converttopdf_1}
 
 Converts PUB document into PDF format and saves result as PDF file
 
@@ -28,7 +28,7 @@ public void ConvertToPdf(Document doc, string fileName)
 
 ---
 
-## IPdfConverter.ConvertToPdf method (2 of 2)
+## ConvertToPdf(Document, Stream) {#converttopdf}
 
 Converts PUB document into PDF format and saves result in stream passed
 

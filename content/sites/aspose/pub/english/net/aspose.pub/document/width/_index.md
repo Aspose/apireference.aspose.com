@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Width of document in PUB metricsEMUs
 type: docs
 weight: 90
 url: /net/aspose.pub/document/width/

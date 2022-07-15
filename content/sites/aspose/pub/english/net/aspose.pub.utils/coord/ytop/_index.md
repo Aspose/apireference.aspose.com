@@ -1,7 +1,7 @@
 ---
 title: YTop
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Y-coordinate of upper-left corner in EMUs
 type: docs
 weight: 50
 url: /net/aspose.pub.utils/coord/ytop/

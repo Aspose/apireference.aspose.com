@@ -1,7 +1,7 @@
 ---
 title: Author
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: The author of the document
 type: docs
 weight: 30
 url: /net/aspose.pub/summaryinfo/author/

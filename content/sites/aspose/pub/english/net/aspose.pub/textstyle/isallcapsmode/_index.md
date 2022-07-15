@@ -1,7 +1,7 @@
 ---
 title: IsAllCapsMode
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is all caps mode enabled
 type: docs
 weight: 40
 url: /net/aspose.pub/textstyle/isallcapsmode/

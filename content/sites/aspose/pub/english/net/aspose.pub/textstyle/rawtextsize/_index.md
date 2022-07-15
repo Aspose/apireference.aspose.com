@@ -1,7 +1,7 @@
 ---
 title: RawTextSize
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Size of text in PUB metricsin EMUs
 type: docs
 weight: 130
 url: /net/aspose.pub/textstyle/rawtextsize/

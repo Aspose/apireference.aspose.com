@@ -1,7 +1,7 @@
 ---
 title: IsShadow
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is text shadowed
 type: docs
 weight: 100
 url: /net/aspose.pub/textstyle/isshadow/

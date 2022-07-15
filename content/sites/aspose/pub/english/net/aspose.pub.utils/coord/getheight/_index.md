@@ -1,7 +1,7 @@
 ---
 title: GetHeight
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Returns height of current Coord object in natural PUB metrics
 type: docs
 weight: 110
 url: /net/aspose.pub.utils/coord/getheight/

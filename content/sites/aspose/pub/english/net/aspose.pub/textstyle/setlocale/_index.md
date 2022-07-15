@@ -1,7 +1,7 @@
 ---
 title: SetLocale
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets locale identifier
 type: docs
 weight: 280
 url: /net/aspose.pub/textstyle/setlocale/

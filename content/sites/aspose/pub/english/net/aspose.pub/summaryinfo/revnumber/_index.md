@@ -1,7 +1,7 @@
 ---
 title: RevNumber
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Application-specific revision number for this version of the document
 type: docs
 weight: 100
 url: /net/aspose.pub/summaryinfo/revnumber/

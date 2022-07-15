@@ -1,7 +1,7 @@
 ---
 title: BuildVersionInfo
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pub/buildversioninfo/buildversioninfo/

@@ -1,7 +1,7 @@
 ---
 title: SetIsOutline
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets is text outlined
 type: docs
 weight: 250
 url: /net/aspose.pub/textstyle/setisoutline/

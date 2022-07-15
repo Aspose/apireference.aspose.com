@@ -1,12 +1,12 @@
 ---
 title: ConvertException
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Initializes a new instance of the ConvertExceptionaspose.pub.exceptions/convertexception class.
 type: docs
 weight: 10
 url: /net/aspose.pub.exceptions/convertexception/convertexception/
 ---
-## ConvertException constructor (1 of 2)
+## ConvertException(string) {#constructor}
 
 Initializes a new instance of the [`ConvertException`](../../convertexception) class.
 
@@ -26,7 +26,7 @@ public ConvertException(string message)
 
 ---
 
-## ConvertException constructor (2 of 2)
+## ConvertException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`ConvertException`](../../convertexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 

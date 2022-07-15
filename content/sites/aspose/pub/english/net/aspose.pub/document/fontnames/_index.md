@@ -1,7 +1,7 @@
 ---
 title: FontNames
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Array of font names
 type: docs
 weight: 60
 url: /net/aspose.pub/document/fontnames/

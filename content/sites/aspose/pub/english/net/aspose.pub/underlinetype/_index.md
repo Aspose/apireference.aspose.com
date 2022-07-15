@@ -1,7 +1,7 @@
 ---
 title: UnderlineType
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Underline type
 type: docs
 weight: 210
 url: /net/aspose.pub/underlinetype/

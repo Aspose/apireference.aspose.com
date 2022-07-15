@@ -1,7 +1,7 @@
 ---
 title: Keywords
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Keywords related to the document
 type: docs
 weight: 70
 url: /net/aspose.pub/summaryinfo/keywords/

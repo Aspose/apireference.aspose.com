@@ -1,7 +1,7 @@
 ---
 title: Align
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Alignment type
 type: docs
 weight: 20
 url: /net/aspose.pub/paragraphstyle/align/

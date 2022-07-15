@@ -1,7 +1,7 @@
 ---
 title: Subject
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: The subject of the document
 type: docs
 weight: 110
 url: /net/aspose.pub/summaryinfo/subject/

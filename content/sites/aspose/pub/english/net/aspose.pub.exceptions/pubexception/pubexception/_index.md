@@ -1,12 +1,12 @@
 ---
 title: PubException
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Initializes a new instance of the PubExceptionaspose.pub.exceptions/pubexception class.
 type: docs
 weight: 10
 url: /net/aspose.pub.exceptions/pubexception/pubexception/
 ---
-## PubException constructor (1 of 2)
+## PubException(string) {#constructor}
 
 Initializes a new instance of the [`PubException`](../../pubexception) class.
 
@@ -26,7 +26,7 @@ public PubException(string message)
 
 ---
 
-## PubException constructor (2 of 2)
+## PubException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`PubException`](../../pubexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 

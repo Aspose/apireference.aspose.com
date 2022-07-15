@@ -1,7 +1,7 @@
 ---
 title: SetIsShadow
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets is text shadowed
 type: docs
 weight: 260
 url: /net/aspose.pub/textstyle/setisshadow/

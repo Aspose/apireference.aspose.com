@@ -1,7 +1,7 @@
 ---
 title: ColorIndex
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Gets index of color in Document.Colors array
 type: docs
 weight: 20
 url: /net/aspose.pub/textstyle/colorindex/

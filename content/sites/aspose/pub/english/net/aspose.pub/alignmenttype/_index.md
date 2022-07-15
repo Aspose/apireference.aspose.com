@@ -1,7 +1,7 @@
 ---
 title: AlignmentType
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Type of alignment
 type: docs
 weight: 10
 url: /net/aspose.pub/alignmenttype/

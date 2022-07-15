@@ -1,7 +1,7 @@
 ---
 title: SetIsAllCapsMode
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Enables/disables all caps mode for text
 type: docs
 weight: 200
 url: /net/aspose.pub/textstyle/setisallcapsmode/

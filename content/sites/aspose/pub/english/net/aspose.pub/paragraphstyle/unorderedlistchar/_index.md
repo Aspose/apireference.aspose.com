@@ -1,7 +1,7 @@
 ---
 title: UnorderedListChar
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Character for unordered list in paragraph if paragraph is an unordered list
 type: docs
 weight: 130
 url: /net/aspose.pub/paragraphstyle/unorderedlistchar/

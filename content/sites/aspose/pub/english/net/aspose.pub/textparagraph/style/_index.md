@@ -1,7 +1,7 @@
 ---
 title: Style
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Style of paragraph
 type: docs
 weight: 20
 url: /net/aspose.pub/textparagraph/style/

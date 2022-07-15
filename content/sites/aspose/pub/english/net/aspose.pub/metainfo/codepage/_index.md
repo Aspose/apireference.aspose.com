@@ -1,7 +1,7 @@
 ---
 title: CodePage
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Code page identifier
 type: docs
 weight: 30
 url: /net/aspose.pub/metainfo/codepage/

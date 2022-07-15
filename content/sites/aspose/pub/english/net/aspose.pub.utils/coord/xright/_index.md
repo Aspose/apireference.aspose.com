@@ -1,7 +1,7 @@
 ---
 title: XRight
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: X-coordinate of bottom-right corner in EMUs
 type: docs
 weight: 30
 url: /net/aspose.pub.utils/coord/xright/

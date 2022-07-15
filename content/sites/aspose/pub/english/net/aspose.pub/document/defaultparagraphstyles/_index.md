@@ -1,7 +1,7 @@
 ---
 title: DefaultParagraphStyles
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Array of default paragraph styles
 type: docs
 weight: 20
 url: /net/aspose.pub/document/defaultparagraphstyles/

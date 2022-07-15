@@ -1,7 +1,7 @@
 ---
 title: IsOrderedList
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Is paragraph ordered list
 type: docs
 weight: 70
 url: /net/aspose.pub/paragraphstyle/isorderedlist/

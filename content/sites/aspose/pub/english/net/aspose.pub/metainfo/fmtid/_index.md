@@ -1,7 +1,7 @@
 ---
 title: FMTID
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: FMTID identifier
 type: docs
 weight: 40
 url: /net/aspose.pub/metainfo/fmtid/

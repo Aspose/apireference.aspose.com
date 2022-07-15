@@ -1,7 +1,7 @@
 ---
 title: FirstLineIndent
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: First line indent
 type: docs
 weight: 50
 url: /net/aspose.pub/paragraphstyle/firstlineindent/

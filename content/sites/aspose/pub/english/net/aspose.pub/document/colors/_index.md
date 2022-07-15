@@ -1,7 +1,7 @@
 ---
 title: Colors
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Array of colors
 type: docs
 weight: 10
 url: /net/aspose.pub/document/colors/

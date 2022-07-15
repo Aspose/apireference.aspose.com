@@ -1,7 +1,7 @@
 ---
 title: SetIsItalic
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets is text italic
 type: docs
 weight: 240
 url: /net/aspose.pub/textstyle/setisitalic/

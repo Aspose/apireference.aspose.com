@@ -1,7 +1,7 @@
 ---
 title: SetLanguage
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets language
 type: docs
 weight: 80
 url: /net/aspose.pub/docsummaryinfo/setlanguage/

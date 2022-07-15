@@ -1,7 +1,7 @@
 ---
 title: SetTitle
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Sets title of the document
 type: docs
 weight: 200
 url: /net/aspose.pub/summaryinfo/settitle/

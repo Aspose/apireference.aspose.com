@@ -1,7 +1,7 @@
 ---
 title: AppName
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: The name of the application that was used to create the document
 type: docs
 weight: 20
 url: /net/aspose.pub/summaryinfo/appname/

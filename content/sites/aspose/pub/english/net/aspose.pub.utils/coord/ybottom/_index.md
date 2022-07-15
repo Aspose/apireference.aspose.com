@@ -1,7 +1,7 @@
 ---
 title: YBottom
 second_title: Aspose.PUB for .NET API Reference
-description: 
+description: Y-coordinate of bottom-right corner in EMUs
 type: docs
 weight: 40
 url: /net/aspose.pub.utils/coord/ybottom/
