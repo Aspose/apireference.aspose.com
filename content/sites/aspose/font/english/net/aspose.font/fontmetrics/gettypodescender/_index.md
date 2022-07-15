@@ -1,7 +1,7 @@
 ---
 title: GetTypoDescender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns descender for specific Font size.
 type: docs
 weight: 170
 url: /net/aspose.font/fontmetrics/gettypodescender/

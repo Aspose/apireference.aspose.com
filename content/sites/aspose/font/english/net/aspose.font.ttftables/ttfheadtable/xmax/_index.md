@@ -1,7 +1,7 @@
 ---
 title: XMax
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets FWord xMax for all glyph bounding boxes.
 type: docs
 weight: 140
 url: /net/aspose.font.ttftables/ttfheadtable/xmax/

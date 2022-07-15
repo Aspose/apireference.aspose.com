@@ -1,12 +1,12 @@
 ---
 title: FontDefinition
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Creates single-file Font definition.
 type: docs
 weight: 10
 url: /net/aspose.font.sources/fontdefinition/fontdefinition/
 ---
-## FontDefinition constructor (1 of 10)
+## FontDefinition(FontType, string, StreamSource) {#constructor_3}
 
 Creates single-file Font definition.
 
@@ -30,7 +30,7 @@ public FontDefinition(FontType fontType, string fileExtension, StreamSource stre
 
 ---
 
-## FontDefinition constructor (2 of 10)
+## FontDefinition(FontType, StreamSource) {#constructor_2}
 
 Creates single-file Font definition.
 
@@ -53,7 +53,7 @@ public FontDefinition(FontType fontType, StreamSource streamSource)
 
 ---
 
-## FontDefinition constructor (3 of 10)
+## FontDefinition(string, FontType, string, StreamSource) {#constructor_7}
 
 Creates single-file Font definition.
 
@@ -79,7 +79,7 @@ public FontDefinition(string fontName, FontType fontType, string fileExtension,
 
 ---
 
-## FontDefinition constructor (4 of 10)
+## FontDefinition(FontType, FontFileDefinition) {#constructor}
 
 Creates single-file Font definition.
 
@@ -102,7 +102,7 @@ public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 
 ---
 
-## FontDefinition constructor (5 of 10)
+## FontDefinition(string, FontType, FontFileDefinition) {#constructor_6}
 
 Creates single-file Font definition.
 
@@ -126,7 +126,7 @@ public FontDefinition(string fontName, FontType fontType, FontFileDefinition fil
 
 ---
 
-## FontDefinition constructor (6 of 10)
+## FontDefinition(string, string, FontType, FontFileDefinition) {#constructor_8}
 
 Creates single-file Font definition.
 
@@ -152,7 +152,7 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 
 ---
 
-## FontDefinition constructor (7 of 10)
+## FontDefinition(FontType, FontFileDefinition[]) {#constructor_1}
 
 Creates multi-file Font definition.
 
@@ -175,7 +175,7 @@ public FontDefinition(FontType fontType, FontFileDefinition[] fileDefinitions)
 
 ---
 
-## FontDefinition constructor (8 of 10)
+## FontDefinition(string, string, FontType, FontFileDefinition[]) {#constructor_9}
 
 Creates multi-file Font definition.
 
@@ -201,7 +201,7 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 
 ---
 
-## FontDefinition constructor (9 of 10)
+## FontDefinition(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition) {#constructor_4}
 
 Creates multi-file Font definition.
 
@@ -228,7 +228,7 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 
 ---
 
-## FontDefinition constructor (10 of 10)
+## FontDefinition(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition[]) {#constructor_5}
 
 Creates multi-file Font definition.
 

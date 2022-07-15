@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Saves the Font into original format.
 type: docs
 weight: 10
 url: /net/aspose.font/ifontsaver/save/
 ---
-## IFontSaver.Save method (1 of 2)
+## Save(Stream) {#save}
 
 Saves the Font into original format.
 
@@ -26,7 +26,7 @@ public void Save(Stream stream)
 
 ---
 
-## IFontSaver.Save method (2 of 2)
+## Save(string) {#save_1}
 
 Saves the Font into original format.
 

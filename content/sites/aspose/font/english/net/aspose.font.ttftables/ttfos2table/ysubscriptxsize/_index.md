@@ -1,7 +1,7 @@
 ---
 title: YSubscriptXSize
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets YSubscriptXSize value.
 type: docs
 weight: 280
 url: /net/aspose.font.ttftables/ttfos2table/ysubscriptxsize/

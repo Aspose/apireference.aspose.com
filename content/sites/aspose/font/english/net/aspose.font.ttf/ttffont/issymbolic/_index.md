@@ -1,7 +1,7 @@
 ---
 title: IsSymbolic
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true in case Font is symbolic.
 type: docs
 weight: 100
 url: /net/aspose.font.ttf/ttffont/issymbolic/

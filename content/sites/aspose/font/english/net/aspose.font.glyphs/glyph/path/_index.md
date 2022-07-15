@@ -1,7 +1,7 @@
 ---
 title: Path
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph path.
 type: docs
 weight: 50
 url: /net/aspose.font.glyphs/glyph/path/

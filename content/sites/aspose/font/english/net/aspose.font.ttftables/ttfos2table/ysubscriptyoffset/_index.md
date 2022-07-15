@@ -1,7 +1,7 @@
 ---
 title: YSubscriptYOffset
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets YSubscriptYOffset value.
 type: docs
 weight: 290
 url: /net/aspose.font.ttftables/ttfos2table/ysubscriptyoffset/

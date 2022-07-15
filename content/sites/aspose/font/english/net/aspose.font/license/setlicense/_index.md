@@ -1,12 +1,12 @@
 ---
 title: SetLicense
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Licenses the component.
 type: docs
 weight: 20
 url: /net/aspose.font/license/setlicense/
 ---
-## License.SetLicense method (1 of 2)
+## SetLicense(string) {#setlicense_1}
 
 Licenses the component.
 
@@ -38,6 +38,10 @@ Tries to find the license in the following locations:
 
 2. An embedded resource in the client's calling assembly.
 
+2. The folder that contains the Aspose component JAR file.
+
+3. The folder that contains the client's calling JAR file.
+
 ### See Also
 
 * class [License](../../license)
@@ -46,7 +50,7 @@ Tries to find the license in the following locations:
 
 ---
 
-## License.SetLicense method (2 of 2)
+## SetLicense(Stream) {#setlicense}
 
 Licenses the component.
 

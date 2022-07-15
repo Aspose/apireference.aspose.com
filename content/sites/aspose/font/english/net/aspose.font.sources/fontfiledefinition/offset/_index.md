@@ -1,7 +1,7 @@
 ---
 title: Offset
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets offset inside the stream.
 type: docs
 weight: 40
 url: /net/aspose.font.sources/fontfiledefinition/offset/

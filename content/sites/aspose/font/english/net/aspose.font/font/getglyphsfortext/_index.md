@@ -1,7 +1,7 @@
 ---
 title: GetGlyphsForText
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyphs representation for text.
 type: docs
 weight: 190
 url: /net/aspose.font/font/getglyphsfortext/

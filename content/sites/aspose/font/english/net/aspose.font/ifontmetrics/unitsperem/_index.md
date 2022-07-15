@@ -1,7 +1,7 @@
 ---
 title: UnitsPerEM
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets units per em.
 type: docs
 weight: 100
 url: /net/aspose.font/ifontmetrics/unitsperem/

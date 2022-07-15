@@ -1,7 +1,7 @@
 ---
 title: FontBBox
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets FontBBox value.
 type: docs
 weight: 40
 url: /net/aspose.font.type1/type1fontmetrics/fontbbox/

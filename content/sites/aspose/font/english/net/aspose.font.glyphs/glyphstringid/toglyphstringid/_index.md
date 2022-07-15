@@ -1,7 +1,7 @@
 ---
 title: ToGlyphStringId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Cast GlyphId to GlyphStringId
 type: docs
 weight: 60
 url: /net/aspose.font.glyphs/glyphstringid/toglyphstringid/

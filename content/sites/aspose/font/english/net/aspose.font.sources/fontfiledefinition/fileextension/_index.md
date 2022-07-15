@@ -1,7 +1,7 @@
 ---
 title: FileExtension
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font file extension.
 type: docs
 weight: 20
 url: /net/aspose.font.sources/fontfiledefinition/fileextension/

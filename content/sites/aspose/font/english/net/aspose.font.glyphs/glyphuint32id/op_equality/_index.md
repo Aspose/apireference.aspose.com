@@ -1,7 +1,7 @@
 ---
 title: op_Equality
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Equality operator implementation.
 type: docs
 weight: 80
 url: /net/aspose.font.glyphs/glyphuint32id/op_equality/

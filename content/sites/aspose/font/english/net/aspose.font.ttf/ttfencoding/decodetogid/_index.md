@@ -1,7 +1,7 @@
 ---
 title: DecodeToGid
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: TTF Fonts DecodeToGlyphId implementation finds unicode table and returns glyph id for unicode char. Glyph id is a unique number for a glyph which is font type dependent. For example Type1s id is a glyph name instance of GlyphStringIdaspose.font.glyphs/glyphstringid class. TTFs id is an int index instance of GlyphUInt32Idaspose.font.glyphs/glyphuint32id class.
 type: docs
 weight: 10
 url: /net/aspose.font.ttf/ttfencoding/decodetogid/

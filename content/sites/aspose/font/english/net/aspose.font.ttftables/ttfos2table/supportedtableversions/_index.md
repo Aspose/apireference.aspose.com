@@ -1,7 +1,7 @@
 ---
 title: SupportedTableVersions
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets supported versions of the OS/2 table.
 type: docs
 weight: 100
 url: /net/aspose.font.ttftables/ttfos2table/supportedtableversions/

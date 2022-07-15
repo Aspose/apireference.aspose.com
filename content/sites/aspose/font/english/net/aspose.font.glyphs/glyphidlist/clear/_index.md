@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Clears the list.
 type: docs
 weight: 30
 url: /net/aspose.font.glyphs/glyphidlist/clear/

@@ -1,12 +1,12 @@
 ---
 title: GetGlyphById
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns glyph by glyph id. Not supported for Type1MetricFontaspose.font.type1/type1metricfont type.
 type: docs
 weight: 80
 url: /net/aspose.font.type1/type1metricfont/getglyphbyid/
 ---
-## Type1MetricFont.GetGlyphById method (1 of 2)
+## GetGlyphById(string) {#getglyphbyid_1}
 
 Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../../type1metricfont) type.
 
@@ -31,7 +31,7 @@ Glyph.
 
 ---
 
-## Type1MetricFont.GetGlyphById method (2 of 2)
+## GetGlyphById(GlyphId) {#getglyphbyid}
 
 Returns glyph by glyph id. Not supported for [`Type1MetricFont`](../../type1metricfont) type.
 

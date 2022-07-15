@@ -1,7 +1,7 @@
 ---
 title: Convert
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Converts the Font into another format.
 type: docs
 weight: 130
 url: /net/aspose.font.type1/type1font/convert/

@@ -1,7 +1,7 @@
 ---
 title: MaxPoints
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxPoints points in non-compound glyph.
 type: docs
 weight: 80
 url: /net/aspose.font.ttftables/ttfmaxptable/maxpoints/

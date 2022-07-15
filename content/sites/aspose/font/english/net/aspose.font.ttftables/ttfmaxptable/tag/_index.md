@@ -1,9 +1,9 @@
 ---
 title: Tag
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets table tag.
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.font.ttftables/ttfmaxptable/tag/
 ---
 ## TtfMaxpTable.Tag property

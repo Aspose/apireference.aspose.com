@@ -1,7 +1,7 @@
 ---
 title: MaxTwilightPoints
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxTwilightPoints points used in Twilight Zone Z0.
 type: docs
 weight: 120
 url: /net/aspose.font.ttftables/ttfmaxptable/maxtwilightpoints/

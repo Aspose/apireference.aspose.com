@@ -1,7 +1,7 @@
 ---
 title: Y1
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets coordinate y1.
 type: docs
 weight: 40
 url: /net/aspose.font.renderingpath/curveto/y1/

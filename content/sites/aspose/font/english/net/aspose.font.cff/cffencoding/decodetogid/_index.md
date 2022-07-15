@@ -1,7 +1,7 @@
 ---
 title: DecodeToGid
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Gid for charCode passed. This method designed for a CFF CIDFonts where charCode must be a valid CID value. Glyph id is a unique number for a glyph which is font type dependent. CFF Font glyph id can be instance of GlyphStringIdaspose.font.glyphs/glyphstringid class or GlyphUInt32Idaspose.font.glyphs/glyphuint32id class.
 type: docs
 weight: 10
 url: /net/aspose.font.cff/cffencoding/decodetogid/

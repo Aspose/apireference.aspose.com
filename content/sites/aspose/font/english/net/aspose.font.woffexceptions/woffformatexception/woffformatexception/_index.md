@@ -1,12 +1,12 @@
 ---
 title: WoffFormatException
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new WoffFormatExceptionaspose.font.woffexceptions/woffformatexception object.
 type: docs
 weight: 10
 url: /net/aspose.font.woffexceptions/woffformatexception/woffformatexception/
 ---
-## WoffFormatException constructor (1 of 4)
+## WoffFormatException() {#constructor}
 
 Initializes new [`WoffFormatException`](../../woffformatexception) object.
 
@@ -22,7 +22,7 @@ public WoffFormatException()
 
 ---
 
-## WoffFormatException constructor (2 of 4)
+## WoffFormatException(string) {#constructor_2}
 
 Initializes new [`WoffFormatException`](../../woffformatexception) object.
 
@@ -42,7 +42,7 @@ public WoffFormatException(string message)
 
 ---
 
-## WoffFormatException constructor (3 of 4)
+## WoffFormatException(string, Exception) {#constructor_3}
 
 Initializes new [`WoffFormatException`](../../woffformatexception) object.
 
@@ -63,7 +63,7 @@ public WoffFormatException(string message, Exception innerException)
 
 ---
 
-## WoffFormatException constructor (4 of 4)
+## WoffFormatException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`WoffFormatException`](../../woffformatexception) object.
 

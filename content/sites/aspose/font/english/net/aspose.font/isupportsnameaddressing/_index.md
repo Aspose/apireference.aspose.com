@@ -1,7 +1,7 @@
 ---
 title: ISupportsNameAddressing
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Defines members that are specific to encodings that support glyph name addressing.
 type: docs
 weight: 360
 url: /net/aspose.font/isupportsnameaddressing/

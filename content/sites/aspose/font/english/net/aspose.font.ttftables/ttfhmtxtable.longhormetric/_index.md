@@ -1,9 +1,9 @@
 ---
 title: TtfHmtxTable.LongHorMetric
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents metrics record.
 type: docs
-weight: 840
+weight: 850
 url: /net/aspose.font.ttftables/ttfhmtxtable.longhormetric/
 ---
 ## TtfHmtxTable.LongHorMetric structure

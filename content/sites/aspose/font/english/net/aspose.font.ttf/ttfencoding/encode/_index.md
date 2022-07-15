@@ -1,7 +1,7 @@
 ---
 title: Encode
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Encodes the glyph. For TTF Fonts the character code is unicode.
 type: docs
 weight: 30
 url: /net/aspose.font.ttf/ttfencoding/encode/

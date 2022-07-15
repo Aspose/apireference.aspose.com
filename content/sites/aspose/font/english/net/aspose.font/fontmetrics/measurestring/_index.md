@@ -1,7 +1,7 @@
 ---
 title: MeasureString
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Measures string and returns string width.
 type: docs
 weight: 190
 url: /net/aspose.font/fontmetrics/measurestring/

@@ -1,9 +1,9 @@
 ---
 title: GetAllStrings
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns all strings of all languages.
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.font/multilanguagestring/getallstrings/
 ---
 ## MultiLanguageString.GetAllStrings method

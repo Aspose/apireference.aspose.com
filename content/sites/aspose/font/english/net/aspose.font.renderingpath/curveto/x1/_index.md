@@ -1,7 +1,7 @@
 ---
 title: X1
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets coordinate x1.
 type: docs
 weight: 10
 url: /net/aspose.font.renderingpath/curveto/x1/

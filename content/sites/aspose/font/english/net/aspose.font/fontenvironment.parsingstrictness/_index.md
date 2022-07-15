@@ -1,7 +1,7 @@
 ---
 title: FontEnvironment.ParsingStrictness
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Parsing strictness types.
 type: docs
 weight: 150
 url: /net/aspose.font/fontenvironment.parsingstrictness/

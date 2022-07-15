@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Adds glyph id to the list.
 type: docs
 weight: 20
 url: /net/aspose.font.glyphs/glyphidlist/add/

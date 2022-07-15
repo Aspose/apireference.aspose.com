@@ -1,7 +1,7 @@
 ---
 title: IsPreviewAndPrintEmbedding
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Detects whether fsType permits Preview and Print embedding.
 type: docs
 weight: 70
 url: /net/aspose.font.ttf/licenseflags/ispreviewandprintembedding/

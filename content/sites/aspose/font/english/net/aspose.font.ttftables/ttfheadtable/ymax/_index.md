@@ -1,7 +1,7 @@
 ---
 title: YMax
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets FWord yMax for all glyph bounding boxes.
 type: docs
 weight: 160
 url: /net/aspose.font.ttftables/ttfheadtable/ymax/

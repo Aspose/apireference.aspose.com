@@ -1,7 +1,7 @@
 ---
 title: op_Equality
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true if two glyph ids are equal.
 type: docs
 weight: 60
 url: /net/aspose.font.glyphs/glyphid/op_equality/

@@ -1,7 +1,7 @@
 ---
 title: StreamSource
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets the stream source.
 type: docs
 weight: 50
 url: /net/aspose.font.sources/fontfiledefinition/streamsource/

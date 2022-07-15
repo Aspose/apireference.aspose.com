@@ -1,7 +1,7 @@
 ---
 title: DecodeToGidParameterized
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Parametrized version allows to use specific CMap table not unicode.
 type: docs
 weight: 20
 url: /net/aspose.font.ttf/ttfencoding/decodetogidparameterized/

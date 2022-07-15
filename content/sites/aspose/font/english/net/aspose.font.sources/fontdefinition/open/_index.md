@@ -1,12 +1,12 @@
 ---
 title: Open
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns FontDefinition for font file and font type.
 type: docs
 weight: 20
 url: /net/aspose.font.sources/fontdefinition/open/
 ---
-## FontDefinition.Open method (1 of 2)
+## Open(string, FontType) {#open_1}
 
 Returns FontDefinition for font file and font type.
 
@@ -32,7 +32,7 @@ FontDefinition.
 
 ---
 
-## FontDefinition.Open method (2 of 2)
+## Open(StreamSource, FontType) {#open}
 
 Returns FontDefinition for font stream source and font type.
 

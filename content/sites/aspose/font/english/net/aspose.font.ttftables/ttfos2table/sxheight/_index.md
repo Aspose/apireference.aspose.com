@@ -1,7 +1,7 @@
 ---
 title: SXHeight
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets SXHeight value.
 type: docs
 weight: 110
 url: /net/aspose.font.ttftables/ttfos2table/sxheight/

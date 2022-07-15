@@ -1,7 +1,7 @@
 ---
 title: FSType
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets FSType value.
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttfos2table/fstype/

@@ -1,7 +1,7 @@
 ---
 title: Y3
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets coordinate y3.
 type: docs
 weight: 60
 url: /net/aspose.font.renderingpath/curveto/y3/

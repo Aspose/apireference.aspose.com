@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Scales x and y with the transformation matrix x1  Ax  Cy y1  Bx  Dy.
 type: docs
 weight: 100
 url: /net/aspose.font/transformationmatrix/scale/

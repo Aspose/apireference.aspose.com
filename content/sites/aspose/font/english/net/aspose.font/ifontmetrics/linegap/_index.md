@@ -1,7 +1,7 @@
 ---
 title: LineGap
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets LineGap value of the Font in Font units.
 type: docs
 weight: 60
 url: /net/aspose.font/ifontmetrics/linegap/

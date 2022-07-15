@@ -1,7 +1,7 @@
 ---
 title: GetFontDefinitions
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns Font definition array of the TTC Font source.
 type: docs
 weight: 20
 url: /net/aspose.font.ttf/ttcfontsource/getfontdefinitions/

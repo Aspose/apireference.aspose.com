@@ -1,7 +1,7 @@
 ---
 title: HmtxTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets hmtx table.
 type: docs
 weight: 80
 url: /net/aspose.font.ttftables/ttftablerepository/hmtxtable/

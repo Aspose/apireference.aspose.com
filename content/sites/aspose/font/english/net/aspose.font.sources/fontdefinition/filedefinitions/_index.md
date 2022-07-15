@@ -1,7 +1,7 @@
 ---
 title: FileDefinitions
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets file definitions collection.
 type: docs
 weight: 30
 url: /net/aspose.font.sources/fontdefinition/filedefinitions/

@@ -1,9 +1,9 @@
 ---
 title: WoffFormatException
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents WOFF font processing related exception.
 type: docs
-weight: 1080
+weight: 1090
 url: /net/aspose.font.woffexceptions/woffformatexception/
 ---
 ## WoffFormatException class
@@ -18,10 +18,10 @@ public class WoffFormatException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [WoffFormatException](woffformatexception)() | Initializes new [`WoffFormatException`](../woffformatexception) object. |
-| [WoffFormatException](woffformatexception)(string) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
-| [WoffFormatException](woffformatexception)(SerializationInfo, StreamingContext) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
-| [WoffFormatException](woffformatexception)(string, Exception) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
+| [WoffFormatException](woffformatexception#constructor)() | Initializes new [`WoffFormatException`](../woffformatexception) object. |
+| [WoffFormatException](woffformatexception#constructor_2)(string) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
+| [WoffFormatException](woffformatexception#constructor_1)(SerializationInfo, StreamingContext) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
+| [WoffFormatException](woffformatexception#constructor_3)(string, Exception) | Initializes new [`WoffFormatException`](../woffformatexception) object. |
 
 ### See Also
 

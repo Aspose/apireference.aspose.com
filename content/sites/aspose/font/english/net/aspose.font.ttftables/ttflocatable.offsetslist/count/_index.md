@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph offsets count.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttflocatable.offsetslist/count/

@@ -1,7 +1,7 @@
 ---
 title: YMin
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets FWord yMin for all glyph bounding boxes.
 type: docs
 weight: 170
 url: /net/aspose.font.ttftables/ttfheadtable/ymin/

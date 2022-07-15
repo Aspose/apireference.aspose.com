@@ -1,7 +1,7 @@
 ---
 title: FontRevision
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets fixed fontRevision set by font manufacturer.
 type: docs
 weight: 50
 url: /net/aspose.font.ttftables/ttfheadtable/fontrevision/

@@ -1,7 +1,7 @@
 ---
 title: Copy
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Creates copy of the segment object.
 type: docs
 weight: 80
 url: /net/aspose.font.renderingpath/curveto/copy/

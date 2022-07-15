@@ -1,9 +1,9 @@
 ---
 title: Type1Font
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents Type1 Font.
 type: docs
-weight: 1050
+weight: 1060
 url: /net/aspose.font.type1/type1font/
 ---
 ## Type1Font class
@@ -39,9 +39,9 @@ public class Type1Font : Font
 | --- | --- |
 | override [Convert](../../aspose.font.type1/type1font/convert)(FontType) | Converts the Font into another format. |
 | override [GetAllGlyphIds](../../aspose.font.type1/type1font/getallglyphids)() | Returns array of all glyph ids, available in the Font. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
-| override [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
-| virtual [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(string) | Returns glyph by glyph id. |
-| [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(uint) | Returns glyph by glyph id. |
+| override [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. Type1 Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
+| virtual [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid_1)(string) | Returns glyph by glyph id. |
+| [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid_2)(uint) | Returns glyph by glyph id. |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | Gets glyphs representation for text. |
 | virtual [Save](../../aspose.font/font/save)(Stream) | Saves the Font into original format. |
 | virtual [Save](../../aspose.font/font/save)(string) | Saves the Font into original format. |

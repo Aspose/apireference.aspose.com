@@ -1,9 +1,9 @@
 ---
 title: TtfNameTable.NameRecord
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents NameRecord structure of the name table
 type: docs
-weight: 950
+weight: 960
 url: /net/aspose.font.ttftables/ttfnametable.namerecord/
 ---
 ## TtfNameTable.NameRecord class

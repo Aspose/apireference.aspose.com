@@ -1,7 +1,7 @@
 ---
 title: GetAllCodes
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets all the codes from current CMaps subtable.
 type: docs
 weight: 10
 url: /net/aspose.font.ttfcmapformats/ttfcmapformat6table/getallcodes/

@@ -1,7 +1,7 @@
 ---
 title: TypoDescender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets TypoDescender value.
 type: docs
 weight: 80
 url: /net/aspose.font/fontmetrics/typodescender/

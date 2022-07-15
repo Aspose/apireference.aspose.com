@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets coordinate y.
 type: docs
 weight: 20
 url: /net/aspose.font.renderingpath/lineto/y/

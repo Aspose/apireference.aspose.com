@@ -1,7 +1,7 @@
 ---
 title: GetAllGlyphIds
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns all glyph ids available in the Font. Not supported for Type1MetricFontaspose.font.type1/type1metricfont type.
 type: docs
 weight: 70
 url: /net/aspose.font.type1/type1metricfont/getallglyphids/

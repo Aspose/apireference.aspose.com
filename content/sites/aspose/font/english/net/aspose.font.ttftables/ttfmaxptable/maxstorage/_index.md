@@ -1,7 +1,7 @@
 ---
 title: MaxStorage
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxStorage number of Storage Area locations.
 type: docs
 weight: 110
 url: /net/aspose.font.ttftables/ttfmaxptable/maxstorage/

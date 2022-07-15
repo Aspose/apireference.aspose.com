@@ -1,7 +1,7 @@
 ---
 title: Ascender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Ascender value.
 type: docs
 weight: 10
 url: /net/aspose.font/fontmetrics/ascender/

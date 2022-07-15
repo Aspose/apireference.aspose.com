@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets fixed version 0x00010000 if version 1.0. Deprecated use TableVersionaspose.font.ttftables/ttfmaxptable/tableversion property instead.
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.font.ttftables/ttfmaxptable/version/
 ---
 ## TtfMaxpTable.Version property
 
-Gets fixed version 0x00010000 if (version 1.0).
+Gets fixed version 0x00010000 if (version 1.0). Deprecated, use [`TableVersion`](../tableversion) property instead.
 
 ```csharp
 public float Version { get; }

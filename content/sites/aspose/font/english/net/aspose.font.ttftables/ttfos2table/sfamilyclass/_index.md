@@ -1,7 +1,7 @@
 ---
 title: SFamilyClass
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: This parameter is a classification of font-family design. The font class and font subclass are registered values assigned by IBM to each font family. This parameter is intended for use in selecting an alternate font when the requested font is not available.
 type: docs
 weight: 60
 url: /net/aspose.font.ttftables/ttfos2table/sfamilyclass/

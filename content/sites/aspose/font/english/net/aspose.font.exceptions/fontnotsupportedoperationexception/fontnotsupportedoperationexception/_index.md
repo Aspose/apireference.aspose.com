@@ -1,12 +1,12 @@
 ---
 title: FontNotSupportedOperationException
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new FontNotSupportedOperationExceptionaspose.font.exceptions/fontnotsupportedoperationexception object.
 type: docs
 weight: 10
 url: /net/aspose.font.exceptions/fontnotsupportedoperationexception/fontnotsupportedoperationexception/
 ---
-## FontNotSupportedOperationException constructor (1 of 4)
+## FontNotSupportedOperationException() {#constructor}
 
 Initializes new [`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) object.
 
@@ -22,7 +22,7 @@ public FontNotSupportedOperationException()
 
 ---
 
-## FontNotSupportedOperationException constructor (2 of 4)
+## FontNotSupportedOperationException(string) {#constructor_2}
 
 Initializes new [`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) object.
 
@@ -42,7 +42,7 @@ public FontNotSupportedOperationException(string message)
 
 ---
 
-## FontNotSupportedOperationException constructor (3 of 4)
+## FontNotSupportedOperationException(string, Exception) {#constructor_3}
 
 Initializes new [`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) object.
 
@@ -63,7 +63,7 @@ public FontNotSupportedOperationException(string message, Exception innerExcepti
 
 ---
 
-## FontNotSupportedOperationException constructor (4 of 4)
+## FontNotSupportedOperationException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) object.
 

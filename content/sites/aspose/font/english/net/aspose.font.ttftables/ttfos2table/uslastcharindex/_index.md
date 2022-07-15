@@ -1,7 +1,7 @@
 ---
 title: USLastCharIndex
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets USLastCharIndex value.
 type: docs
 weight: 170
 url: /net/aspose.font.ttftables/ttfos2table/uslastcharindex/

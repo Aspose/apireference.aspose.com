@@ -1,7 +1,7 @@
 ---
 title: FontAgrumentException
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents Font argument exception. The exception can be thrown in case improper agrument usages.
 type: docs
 weight: 80
 url: /net/aspose.font.exceptions/fontagrumentexception/
@@ -18,10 +18,10 @@ public class FontAgrumentException : FontException
 
 | Name | Description |
 | --- | --- |
-| [FontAgrumentException](fontagrumentexception)() | Initializes new [`FontAgrumentException`](../fontagrumentexception) object. |
-| [FontAgrumentException](fontagrumentexception)(string) | Initializes new [`FontAgrumentException`](../fontagrumentexception) object. |
-| [FontAgrumentException](fontagrumentexception)(SerializationInfo, StreamingContext) | Initializes new [`FontAgrumentException`](../fontagrumentexception) object. |
-| [FontAgrumentException](fontagrumentexception)(string, Exception) | Initializes new [`FontAgrumentException`](../fontagrumentexception) object. |
+| [FontAgrumentException](fontagrumentexception#constructor)() | Initializes new [`FontAgrumentException`](../fontagrumentexception) object. |
+| [FontAgrumentException](fontagrumentexception#constructor_2)(string) | Initializes new [`FontAgrumentException`](../fontagrumentexception) object. |
+| [FontAgrumentException](fontagrumentexception#constructor_1)(SerializationInfo, StreamingContext) | Initializes new [`FontAgrumentException`](../fontagrumentexception) object. |
+| [FontAgrumentException](fontagrumentexception#constructor_3)(string, Exception) | Initializes new [`FontAgrumentException`](../fontagrumentexception) object. |
 
 ### See Also
 

@@ -1,9 +1,9 @@
 ---
 title: GetNameRecordsByNameId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns all NameRecordaspose.font.ttftables/ttfnametable.namerecord structures which NameId field is equal to passed nameId value. If no records found empty array will be returned.
 type: docs
-weight: 50
+weight: 80
 url: /net/aspose.font.ttftables/ttfnametable/getnamerecordsbynameid/
 ---
 ## TtfNameTable.GetNameRecordsByNameId method

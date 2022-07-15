@@ -1,7 +1,7 @@
 ---
 title: PlatformId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Platform identifier code
 type: docs
 weight: 40
 url: /net/aspose.font.ttftables/ttfnametable.namerecord/platformid/

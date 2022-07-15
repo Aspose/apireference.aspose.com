@@ -1,7 +1,7 @@
 ---
 title: FontFamily
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font family.
 type: docs
 weight: 20
 url: /net/aspose.font.type1/type1metricfont/fontfamily/

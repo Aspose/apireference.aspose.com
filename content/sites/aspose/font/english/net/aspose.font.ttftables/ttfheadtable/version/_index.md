@@ -1,7 +1,7 @@
 ---
 title: Version
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Fixed version 0x00010000 if version 1.0.
 type: docs
 weight: 130
 url: /net/aspose.font.ttftables/ttfheadtable/version/

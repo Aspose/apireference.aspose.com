@@ -1,7 +1,7 @@
 ---
 title: CvtTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets cvt table.
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttftablerepository/cvttable/

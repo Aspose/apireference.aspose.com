@@ -1,7 +1,7 @@
 ---
 title: FontNames
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font names as a MultiLanguageStringaspose.font/multilanguagestring.
 type: docs
 weight: 50
 url: /net/aspose.font.sources/fontdefinition/fontnames/

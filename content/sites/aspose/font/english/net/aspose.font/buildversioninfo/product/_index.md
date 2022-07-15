@@ -1,7 +1,7 @@
 ---
 title: Product
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets the full name of the product.
 type: docs
 weight: 10
 url: /net/aspose.font/buildversioninfo/product/

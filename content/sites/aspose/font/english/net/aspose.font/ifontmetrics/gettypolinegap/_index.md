@@ -1,7 +1,7 @@
 ---
 title: GetTypoLineGap
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns line gap for specific Font size.
 type: docs
 weight: 180
 url: /net/aspose.font/ifontmetrics/gettypolinegap/

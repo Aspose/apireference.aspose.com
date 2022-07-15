@@ -1,7 +1,7 @@
 ---
 title: Format
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets fixed formatversion of this table.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttfposttable/format/

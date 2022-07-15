@@ -1,7 +1,7 @@
 ---
 title: MaxComponentElements
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxComponentElements number of glyphs referenced at top level.
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttfmaxptable/maxcomponentelements/

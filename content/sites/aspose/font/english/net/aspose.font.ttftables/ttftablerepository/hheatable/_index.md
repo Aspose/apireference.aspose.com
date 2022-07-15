@@ -1,7 +1,7 @@
 ---
 title: HheaTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets hhea table.
 type: docs
 weight: 70
 url: /net/aspose.font.ttftables/ttftablerepository/hheatable/

@@ -1,7 +1,7 @@
 ---
 title: USMaxContext
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets USMaxContext value.
 type: docs
 weight: 180
 url: /net/aspose.font.ttftables/ttfos2table/usmaxcontext/

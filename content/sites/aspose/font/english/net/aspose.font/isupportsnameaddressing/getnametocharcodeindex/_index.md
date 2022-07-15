@@ -1,7 +1,7 @@
 ---
 title: GetNameToCharCodeIndex
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns name to code map object.
 type: docs
 weight: 10
 url: /net/aspose.font/isupportsnameaddressing/getnametocharcodeindex/

@@ -1,7 +1,7 @@
 ---
 title: TtcFontSource
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents TTC Font source.
 type: docs
 weight: 600
 url: /net/aspose.font.ttf/ttcfontsource/
@@ -18,8 +18,8 @@ public class TtcFontSource
 
 | Name | Description |
 | --- | --- |
-| [TtcFontSource](ttcfontsource)(StreamSource) | Creates TTC Font source based on IStreamSource stream providing object. |
-| [TtcFontSource](ttcfontsource)(string) | Creates TTC Font source based on ttc font collection file path. |
+| [TtcFontSource](ttcfontsource#constructor)(StreamSource) | Creates TTC Font source based on IStreamSource stream providing object. |
+| [TtcFontSource](ttcfontsource#constructor_1)(string) | Creates TTC Font source based on ttc font collection file path. |
 
 ## Methods
 

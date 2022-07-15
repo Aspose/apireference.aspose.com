@@ -1,7 +1,7 @@
 ---
 title: GetFontCharactersMerger
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Creates IFontCharactersMerger instance
 type: docs
 weight: 10
 url: /net/aspose.font.ttfhelpers/helpersfactory/getfontcharactersmerger/

@@ -1,7 +1,7 @@
 ---
 title: Segments
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets path segments.
 type: docs
 weight: 10
 url: /net/aspose.font.renderingpath/segmentpath/segments/

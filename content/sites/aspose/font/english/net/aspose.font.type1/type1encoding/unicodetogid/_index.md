@@ -1,7 +1,7 @@
 ---
 title: UnicodeToGid
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns GlyphId for unicode. Or notdef if font doesnt contain glyph for the unicode. Glyph id is a unique number for a glyph which is font type dependent. For example Type1s id is a glyph name instance of GlyphStringIdaspose.font.glyphs/glyphstringid class. TTFs id is an int index instance of GlyphUInt32Idaspose.font.glyphs/glyphuint32id class.
 type: docs
 weight: 60
 url: /net/aspose.font.type1/type1encoding/unicodetogid/

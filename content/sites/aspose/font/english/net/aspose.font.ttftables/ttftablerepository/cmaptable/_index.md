@@ -1,7 +1,7 @@
 ---
 title: CMapTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets CMap table.
 type: docs
 weight: 20
 url: /net/aspose.font.ttftables/ttftablerepository/cmaptable/

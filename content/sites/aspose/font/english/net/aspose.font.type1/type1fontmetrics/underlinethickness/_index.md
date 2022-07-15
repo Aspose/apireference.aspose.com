@@ -1,7 +1,7 @@
 ---
 title: UnderlineThickness
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets underline thickness value.
 type: docs
 weight: 100
 url: /net/aspose.font.type1/type1fontmetrics/underlinethickness/

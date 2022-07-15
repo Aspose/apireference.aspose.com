@@ -1,7 +1,7 @@
 ---
 title: GetAllSubtables
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns all the subtables from CMap table.
 type: docs
 weight: 20
 url: /net/aspose.font.ttftables/ttfcmaptable/getallsubtables/

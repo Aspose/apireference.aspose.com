@@ -1,12 +1,12 @@
 ---
 title: GetGlyphComponentsById
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets a glyph by glyph identifier passed and fills passed list of glyph identifiers with components of this glyph. Glyph id is a unique number for a glyph which is font type dependent. TTF Font glyph id can be instance of GlyphStringIdaspose.font.glyphs/glyphstringid class or GlyphUInt32Idaspose.font.glyphs/glyphuint32id class. Name string glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside the CFF structures are used to address glyphs by name.
 type: docs
 weight: 190
 url: /net/aspose.font.ttf/ttffont/getglyphcomponentsbyid/
 ---
-## TtfFont.GetGlyphComponentsById method (1 of 3)
+## GetGlyphComponentsById(GlyphId, GlyphIdList) {#getglyphcomponentsbyid}
 
 Gets a glyph by glyph identifier passed and fills passed list of glyph identifiers with components of this glyph. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name.
 
@@ -33,7 +33,7 @@ Empty collection componentsToPopulate should be passed that will contain glyph c
 
 ---
 
-## TtfFont.GetGlyphComponentsById method (2 of 3)
+## GetGlyphComponentsById(string, GlyphIdList) {#getglyphcomponentsbyid_1}
 
 Gets a glyph by glyph name passed and fills passed list of glyph identifiers with components of this glyph.
 
@@ -59,7 +59,7 @@ Empty collection componentsToPopulate should be passed that will contain glyph c
 
 ---
 
-## TtfFont.GetGlyphComponentsById method (3 of 3)
+## GetGlyphComponentsById(uint, GlyphIdList) {#getglyphcomponentsbyid_2}
 
 Gets a glyph by glyph index passed and fills passed list of glyph identifiers with components of this glyph.
 

@@ -1,7 +1,7 @@
 ---
 title: Style
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font style.
 type: docs
 weight: 60
 url: /net/aspose.font.type1/type1metricfont/style/

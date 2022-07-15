@@ -1,7 +1,7 @@
 ---
 title: MaxComponentPoints
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 maxComponentPoints points in compound glyph.
 type: docs
 weight: 40
 url: /net/aspose.font.ttftables/ttfmaxptable/maxcomponentpoints/

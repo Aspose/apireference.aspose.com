@@ -1,7 +1,7 @@
 ---
 title: AchVendId
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets AchVendId value.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttfos2table/achvendid/

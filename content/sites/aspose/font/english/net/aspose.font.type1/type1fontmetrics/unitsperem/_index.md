@@ -1,7 +1,7 @@
 ---
 title: UnitsPerEM
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets underline UnitsPerEM value.
 type: docs
 weight: 110
 url: /net/aspose.font.type1/type1fontmetrics/unitsperem/

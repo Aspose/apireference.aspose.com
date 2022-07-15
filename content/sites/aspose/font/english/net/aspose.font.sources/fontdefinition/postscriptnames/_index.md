@@ -1,7 +1,7 @@
 ---
 title: PostscriptNames
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets postscript Font names as a MultiLanguageStringaspose.font/multilanguagestring.
 type: docs
 weight: 80
 url: /net/aspose.font.sources/fontdefinition/postscriptnames/

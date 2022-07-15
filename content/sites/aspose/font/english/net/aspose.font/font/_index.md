@@ -1,7 +1,7 @@
 ---
 title: Font
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents base Font class.
 type: docs
 weight: 120
 url: /net/aspose.font/font/
@@ -37,16 +37,16 @@ public abstract class Font : IFont, IFontSaver, IGlyphAccessor
 
 | Name | Description |
 | --- | --- |
-| static [Open](../../aspose.font/font/open)(FontDefinition) | Opens a font, using FontDefinition object. |
-| static [Open](../../aspose.font/font/open)(FontType, byte[]) | Opens a font, using font type and font data byte array. |
-| static [Open](../../aspose.font/font/open)(FontType, StreamSource) | Opens a font, using font type and stream source. |
-| static [Open](../../aspose.font/font/open)(FontType, string) | Opens a font, using font type and font file name. |
+| static [Open](../../aspose.font/font/open#open_3)(FontDefinition) | Opens a font, using FontDefinition object. |
+| static [Open](../../aspose.font/font/open#open_1)(FontType, byte[]) | Opens a font, using font type and font data byte array. |
+| static [Open](../../aspose.font/font/open#open)(FontType, StreamSource) | Opens a font, using font type and stream source. |
+| static [Open](../../aspose.font/font/open#open_2)(FontType, string) | Opens a font, using font type and font file name. |
 | abstract [Convert](../../aspose.font/font/convert)(FontType) | Converts the Font into another format. |
 | abstract [GetAllGlyphIds](../../aspose.font/font/getallglyphids)() | Returns all glyph ids, available in the Font. Glyph id is a unique number for a glyph, which is font type dependent. For example: Type1's id is a glyph name, instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. TTF's id is an int index, instance of ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
 | abstract [GetGlyphById](../../aspose.font/font/getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. GlyphId - derived object. For example: Type1's id is a glyph name, instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. TTF's id is an int index, instance of ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | Gets glyphs representation for text. |
-| virtual [Save](../../aspose.font/font/save)(Stream) | Saves the Font into original format. |
-| virtual [Save](../../aspose.font/font/save)(string) | Saves the Font into original format. |
+| virtual [Save](../../aspose.font/font/save#save)(Stream) | Saves the Font into original format. |
+| virtual [Save](../../aspose.font/font/save#save_1)(string) | Saves the Font into original format. |
 | [SaveToFormat](../../aspose.font/font/savetoformat)(Stream, FontSavingFormats) | Saves the Font into format specified. |
 
 ### See Also

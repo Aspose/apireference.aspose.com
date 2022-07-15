@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets metrics by glyph index.
 type: docs
 weight: 20
 url: /net/aspose.font.ttftables/ttfhmtxtable.metriclist/item/

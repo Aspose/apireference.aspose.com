@@ -1,7 +1,7 @@
 ---
 title: MagicNumber
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint32 magicNumber set to 0x5F0F3CF5.
 type: docs
 weight: 100
 url: /net/aspose.font.ttftables/ttfheadtable/magicnumber/

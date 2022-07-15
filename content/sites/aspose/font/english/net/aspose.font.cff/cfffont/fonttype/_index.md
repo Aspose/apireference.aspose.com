@@ -1,7 +1,7 @@
 ---
 title: FontType
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets Font type. Returns FontType.CFF value.
 type: docs
 weight: 70
 url: /net/aspose.font.cff/cfffont/fonttype/

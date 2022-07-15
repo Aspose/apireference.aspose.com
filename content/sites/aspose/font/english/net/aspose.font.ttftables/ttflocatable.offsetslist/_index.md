@@ -1,9 +1,9 @@
 ---
 title: TtfLocaTable.OffsetsList
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents glyph offsets list.
 type: docs
-weight: 870
+weight: 880
 url: /net/aspose.font.ttftables/ttflocatable.offsetslist/
 ---
 ## TtfLocaTable.OffsetsList class

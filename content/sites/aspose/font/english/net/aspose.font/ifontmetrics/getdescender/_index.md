@@ -1,7 +1,7 @@
 ---
 title: GetDescender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns descender for specific Font size.
 type: docs
 weight: 120
 url: /net/aspose.font/ifontmetrics/getdescender/

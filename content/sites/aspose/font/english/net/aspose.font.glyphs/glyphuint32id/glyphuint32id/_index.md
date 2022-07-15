@@ -1,7 +1,7 @@
 ---
 title: GlyphUInt32Id
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new GlyphUInt32Idaspose.font.glyphs/glyphuint32id object.
 type: docs
 weight: 10
 url: /net/aspose.font.glyphs/glyphuint32id/glyphuint32id/

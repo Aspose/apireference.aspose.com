@@ -1,7 +1,7 @@
 ---
 title: TtcFontFileDefinition
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Creates a file definition using file content only.
 type: docs
 weight: 10
 url: /net/aspose.font.ttf/ttcfontfiledefinition/ttcfontfiledefinition/

@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns glyph id by the index.
 type: docs
 weight: 10
 url: /net/aspose.font.glyphs/glyphidlist/item/

@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns string value the glyph id.
 type: docs
 weight: 70
 url: /net/aspose.font.glyphs/glyphstringid/tostring/

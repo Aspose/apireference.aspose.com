@@ -1,7 +1,7 @@
 ---
 title: IFontEncoding
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Defines an interface for Font encoding.
 type: docs
 weight: 330
 url: /net/aspose.font/ifontencoding/

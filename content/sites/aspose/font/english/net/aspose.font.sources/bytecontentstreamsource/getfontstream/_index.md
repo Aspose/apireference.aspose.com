@@ -1,7 +1,7 @@
 ---
 title: GetFontStream
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns font file stream. Dont forget to close the stream after use.
 type: docs
 weight: 30
 url: /net/aspose.font.sources/bytecontentstreamsource/getfontstream/

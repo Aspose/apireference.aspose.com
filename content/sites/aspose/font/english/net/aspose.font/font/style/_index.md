@@ -1,7 +1,7 @@
 ---
 title: Style
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets or Sets Font style. This is a raw string value provided by Font file.
 type: docs
 weight: 150
 url: /net/aspose.font/font/style/

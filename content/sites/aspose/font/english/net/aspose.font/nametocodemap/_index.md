@@ -1,7 +1,7 @@
 ---
 title: NameToCodeMap
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents name to code map.
 type: docs
 weight: 390
 url: /net/aspose.font/nametocodemap/

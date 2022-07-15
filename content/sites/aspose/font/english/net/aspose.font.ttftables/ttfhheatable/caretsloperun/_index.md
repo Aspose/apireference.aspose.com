@@ -1,7 +1,7 @@
 ---
 title: CaretSlopeRun
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets caret slop run.
 type: docs
 weight: 40
 url: /net/aspose.font.ttftables/ttfhheatable/caretsloperun/

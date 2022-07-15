@@ -1,7 +1,7 @@
 ---
 title: GetGlyphIndex
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets a glyph index for a given character code.
 type: docs
 weight: 10
 url: /net/aspose.font.ttfcmapformats/ttfcmapformat8table/getglyphindex/

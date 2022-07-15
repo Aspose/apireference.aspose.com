@@ -1,7 +1,7 @@
 ---
 title: HeadTable
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets head table.
 type: docs
 weight: 60
 url: /net/aspose.font.ttftables/ttftablerepository/headtable/

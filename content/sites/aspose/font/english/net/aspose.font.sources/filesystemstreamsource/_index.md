@@ -1,7 +1,7 @@
 ---
 title: FileSystemStreamSource
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents a stream source based on file system.
 type: docs
 weight: 530
 url: /net/aspose.font.sources/filesystemstreamsource/

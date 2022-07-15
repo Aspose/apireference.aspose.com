@@ -1,7 +1,7 @@
 ---
 title: MinRightSideBearing
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets the MinRightSideBearing value.
 type: docs
 weight: 80
 url: /net/aspose.font.ttftables/ttfhheatable/minrightsidebearing/

@@ -1,7 +1,7 @@
 ---
 title: IndexToLocFormat
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets int16 indexToLocFormat 0 for short offsets 1 for long.
 type: docs
 weight: 70
 url: /net/aspose.font.ttftables/ttfheadtable/indextolocformat/

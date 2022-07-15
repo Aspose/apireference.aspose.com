@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns copy of glyph.
 type: docs
 weight: 100
 url: /net/aspose.font.glyphs/glyph/clone/

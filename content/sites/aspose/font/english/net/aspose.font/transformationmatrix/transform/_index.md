@@ -1,7 +1,7 @@
 ---
 title: Transform
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Transforms x and y with the transformation matrix x1  Ax  Cy  TX y1  Bx  Dy  TY.
 type: docs
 weight: 120
 url: /net/aspose.font/transformationmatrix/transform/

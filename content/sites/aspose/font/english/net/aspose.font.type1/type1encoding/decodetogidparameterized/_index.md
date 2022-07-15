@@ -1,7 +1,7 @@
 ---
 title: DecodeToGidParameterized
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Parameterized decode method. Not supported for Type1 Font type.
 type: docs
 weight: 20
 url: /net/aspose.font.type1/type1encoding/decodetogidparameterized/

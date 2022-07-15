@@ -1,7 +1,7 @@
 ---
 title: IFont
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Declares common functionality for all font formats. Implemented by Font classes.
 type: docs
 weight: 320
 url: /net/aspose.font/ifont/

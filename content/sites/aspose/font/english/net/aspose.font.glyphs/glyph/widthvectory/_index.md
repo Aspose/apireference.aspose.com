@@ -1,7 +1,7 @@
 ---
 title: WidthVectorY
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets glyph width vector. Coordinate y.
 type: docs
 weight: 90
 url: /net/aspose.font.glyphs/glyph/widthvectory/

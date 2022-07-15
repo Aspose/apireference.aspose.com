@@ -1,7 +1,7 @@
 ---
 title: IFontMetrics
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Defines an interface for Font metrics tools.
 type: docs
 weight: 340
 url: /net/aspose.font/ifontmetrics/

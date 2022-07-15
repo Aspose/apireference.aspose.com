@@ -1,7 +1,7 @@
 ---
 title: XAvgCharWidth
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets the Average Character Width parameter.
 type: docs
 weight: 240
 url: /net/aspose.font.ttftables/ttfos2table/xavgcharwidth/

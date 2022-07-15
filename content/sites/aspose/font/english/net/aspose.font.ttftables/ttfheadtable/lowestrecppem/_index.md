@@ -1,7 +1,7 @@
 ---
 title: LowestRecPPEM
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets uint16 lowestRecPPEM smallest readable size in pixels.
 type: docs
 weight: 80
 url: /net/aspose.font.ttftables/ttfheadtable/lowestrecppem/

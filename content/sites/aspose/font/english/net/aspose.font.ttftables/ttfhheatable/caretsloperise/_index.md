@@ -1,7 +1,7 @@
 ---
 title: CaretSlopeRise
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets caret slop rise.
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttfhheatable/caretsloperise/

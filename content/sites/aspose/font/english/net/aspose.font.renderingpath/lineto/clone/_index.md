@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Creates a new object that is a copy of the current instance.
 type: docs
 weight: 30
 url: /net/aspose.font.renderingpath/lineto/clone/

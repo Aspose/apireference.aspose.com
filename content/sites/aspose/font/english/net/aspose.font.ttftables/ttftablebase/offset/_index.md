@@ -1,7 +1,7 @@
 ---
 title: Offset
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets offset from beginning of sfnt.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttftablebase/offset/

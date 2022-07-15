@@ -1,7 +1,7 @@
 ---
 title: Encode
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Encodes the glyph. Not supported for CFF Font types.
 type: docs
 weight: 30
 url: /net/aspose.font.cff/cffencoding/encode/

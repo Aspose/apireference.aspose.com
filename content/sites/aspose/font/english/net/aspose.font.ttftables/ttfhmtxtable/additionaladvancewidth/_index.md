@@ -1,7 +1,7 @@
 ---
 title: AdditionalAdvanceWidth
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: In hmtx table could be the cases when total number of glyphs is not equal to hhea.numberOfHMetrics. For these cases hmtx table contains additional array leftSideBearing which is correspondent to property LeftSidebearingsaspose.font.ttftables/ttfhmtxtable/leftsidebearings. But glyphs with indexes from hhea.numOfLongHorMetrics to maxp.numGlyphs also have widths. And these widths in accordance to specification for hmtx table have such values Here the advanceWidth is assumed to be the same as the advanceWidth for the last entry above.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttfhmtxtable/additionaladvancewidth/

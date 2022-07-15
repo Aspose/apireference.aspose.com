@@ -1,12 +1,12 @@
 ---
 title: CffParsingException
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Initializes new CffParsingExceptionaspose.font.cffexceptions/cffparsingexception object.
 type: docs
 weight: 10
 url: /net/aspose.font.cffexceptions/cffparsingexception/cffparsingexception/
 ---
-## CffParsingException constructor (1 of 4)
+## CffParsingException() {#constructor}
 
 Initializes new [`CffParsingException`](../../cffparsingexception) object.
 
@@ -22,7 +22,7 @@ public CffParsingException()
 
 ---
 
-## CffParsingException constructor (2 of 4)
+## CffParsingException(string) {#constructor_2}
 
 Initializes new [`CffParsingException`](../../cffparsingexception) object.
 
@@ -42,7 +42,7 @@ public CffParsingException(string message)
 
 ---
 
-## CffParsingException constructor (3 of 4)
+## CffParsingException(string, Exception) {#constructor_3}
 
 Initializes new [`CffParsingException`](../../cffparsingexception) object.
 
@@ -63,7 +63,7 @@ public CffParsingException(string message, Exception innerException)
 
 ---
 
-## CffParsingException constructor (4 of 4)
+## CffParsingException(SerializationInfo, StreamingContext) {#constructor_1}
 
 Initializes new [`CffParsingException`](../../cffparsingexception) object.
 

@@ -1,7 +1,7 @@
 ---
 title: Descender
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets descender value.
 type: docs
 weight: 30
 url: /net/aspose.font.type1/type1fontmetrics/descender/

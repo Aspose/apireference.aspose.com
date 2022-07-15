@@ -1,7 +1,7 @@
 ---
 title: Os2Table
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets OS/2 table.
 type: docs
 weight: 120
 url: /net/aspose.font.ttftables/ttftablerepository/os2table/

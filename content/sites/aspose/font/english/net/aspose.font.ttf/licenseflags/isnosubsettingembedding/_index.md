@@ -1,7 +1,7 @@
 ---
 title: IsNoSubsettingEmbedding
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Detects whether fsType permits NoSubsetting embedding.
 type: docs
 weight: 60
 url: /net/aspose.font.ttf/licenseflags/isnosubsettingembedding/

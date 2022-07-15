@@ -1,7 +1,7 @@
 ---
 title: B
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Gets or sets B transformation matrix value.
 type: docs
 weight: 30
 url: /net/aspose.font/transformationmatrix/b/

@@ -1,7 +1,7 @@
 ---
 title: LineTo
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Represents LineTo operation.
 type: docs
 weight: 480
 url: /net/aspose.font.renderingpath/lineto/

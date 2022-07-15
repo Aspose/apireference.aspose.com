@@ -1,7 +1,7 @@
 ---
 title: UnTransform
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Transforms back x1 and y1 and returns x and y before the transformation matrix.
 type: docs
 weight: 140
 url: /net/aspose.font/transformationmatrix/untransform/

@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Font for .NET API Reference
-description: 
+description: Returns true if string IDs are equal.
 type: docs
 weight: 40
 url: /net/aspose.font.glyphs/glyphstringid/equals/
