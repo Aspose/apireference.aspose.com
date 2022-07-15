@@ -1,4 +1,12 @@
-## FontDefinition(FontType, string, StreamSource) {#constructor_3}
+---
+title: FontDefinition
+second_title: Aspose.Font for .NET API Reference
+description: 
+type: docs
+weight: 10
+url: /net/aspose.font.sources/fontdefinition/fontdefinition/
+---
+## FontDefinition constructor (1 of 10)
 
 Creates single-file Font definition.
 
@@ -17,11 +25,12 @@ public FontDefinition(FontType fontType, string fileExtension, StreamSource stre
 * enum [FontType](../../../aspose.font/fonttype)
 * class [StreamSource](../../streamsource)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(FontType, StreamSource) {#constructor_2}
+## FontDefinition constructor (2 of 10)
 
 Creates single-file Font definition.
 
@@ -39,11 +48,12 @@ public FontDefinition(FontType fontType, StreamSource streamSource)
 * enum [FontType](../../../aspose.font/fonttype)
 * class [StreamSource](../../streamsource)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(string, FontType, string, StreamSource) {#constructor_7}
+## FontDefinition constructor (3 of 10)
 
 Creates single-file Font definition.
 
@@ -64,11 +74,12 @@ public FontDefinition(string fontName, FontType fontType, string fileExtension,
 * enum [FontType](../../../aspose.font/fonttype)
 * class [StreamSource](../../streamsource)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(FontType, FontFileDefinition) {#constructor}
+## FontDefinition constructor (4 of 10)
 
 Creates single-file Font definition.
 
@@ -86,11 +97,12 @@ public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 * enum [FontType](../../../aspose.font/fonttype)
 * class [FontFileDefinition](../../fontfiledefinition)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(string, FontType, FontFileDefinition) {#constructor_6}
+## FontDefinition constructor (5 of 10)
 
 Creates single-file Font definition.
 
@@ -109,11 +121,12 @@ public FontDefinition(string fontName, FontType fontType, FontFileDefinition fil
 * enum [FontType](../../../aspose.font/fonttype)
 * class [FontFileDefinition](../../fontfiledefinition)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(string, string, FontType, FontFileDefinition) {#constructor_8}
+## FontDefinition constructor (6 of 10)
 
 Creates single-file Font definition.
 
@@ -134,11 +147,12 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 * enum [FontType](../../../aspose.font/fonttype)
 * class [FontFileDefinition](../../fontfiledefinition)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(FontType, FontFileDefinition[]) {#constructor_1}
+## FontDefinition constructor (7 of 10)
 
 Creates multi-file Font definition.
 
@@ -156,11 +170,12 @@ public FontDefinition(FontType fontType, FontFileDefinition[] fileDefinitions)
 * enum [FontType](../../../aspose.font/fonttype)
 * class [FontFileDefinition](../../fontfiledefinition)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(string, string, FontType, FontFileDefinition[]) {#constructor_9}
+## FontDefinition constructor (8 of 10)
 
 Creates multi-file Font definition.
 
@@ -181,11 +196,12 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 * enum [FontType](../../../aspose.font/fonttype)
 * class [FontFileDefinition](../../fontfiledefinition)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition) {#constructor_4}
+## FontDefinition constructor (9 of 10)
 
 Creates multi-file Font definition.
 
@@ -207,11 +223,12 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 * enum [FontType](../../../aspose.font/fonttype)
 * class [FontFileDefinition](../../fontfiledefinition)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 ---
 
-## FontDefinition(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition[]) {#constructor_5}
+## FontDefinition constructor (10 of 10)
 
 Creates multi-file Font definition.
 
@@ -233,6 +250,7 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 * enum [FontType](../../../aspose.font/fonttype)
 * class [FontFileDefinition](../../fontfiledefinition)
 * class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../aspose.font)
+* namespace [Aspose.Font.Sources](../../fontdefinition)
+* assembly [Aspose.Font](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->

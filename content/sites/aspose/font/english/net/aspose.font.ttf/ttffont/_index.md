@@ -1,3 +1,11 @@
+---
+title: TtfFont
+second_title: Aspose.Font for .NET API Reference
+description: 
+type: docs
+weight: 630
+url: /net/aspose.font.ttf/ttffont/
+---
 ## TtfFont class
 
 Represents TrueType Font (TTF).
@@ -34,12 +42,12 @@ public class TtfFont : Font
 | --- | --- |
 | override [Convert](../../aspose.font.ttf/ttffont/convert)(FontType) | Converts the Font into another format. |
 | override [GetAllGlyphIds](../../aspose.font.ttf/ttffont/getallglyphids)() | Returns array of all glyph ids, available in the Font. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name. |
-| override [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name. |
-| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid_1)(string) | Returns glyph by glyph name. Name (string) glyph addressing is supported for TTF fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name. |
-| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid_2)(uint) | Returns glyph by glyph id. |
-| virtual [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid)(GlyphId, GlyphIdList) | Gets a glyph by glyph identifier passed and fills passed list of glyph identifiers with components of this glyph. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name. |
-| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid_1)(string, GlyphIdList) | Gets a glyph by glyph name passed and fills passed list of glyph identifiers with components of this glyph. |
-| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid_2)(uint, GlyphIdList) | Gets a glyph by glyph index passed and fills passed list of glyph identifiers with components of this glyph. |
+| override [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid)(GlyphId) | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name. |
+| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid)(string) | Returns glyph by glyph name. Name (string) glyph addressing is supported for TTF fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name. |
+| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid)(uint) | Returns glyph by glyph id. |
+| virtual [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid)(GlyphId, GlyphIdList) | Gets a glyph by glyph identifier passed and fills passed list of glyph identifiers with components of this glyph. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class or ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name. |
+| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid)(string, GlyphIdList) | Gets a glyph by glyph name passed and fills passed list of glyph identifiers with components of this glyph. |
+| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid)(uint, GlyphIdList) | Gets a glyph by glyph index passed and fills passed list of glyph identifiers with components of this glyph. |
 | override [GetGlyphsForText](../../aspose.font.ttf/ttffont/getglyphsfortext)(string) | Get glyphs representation for text. |
 | virtual [Save](../../aspose.font/font/save)(Stream) | Saves the Font into original format. |
 | virtual [Save](../../aspose.font/font/save)(string) | Saves the Font into original format. |
@@ -48,6 +56,7 @@ public class TtfFont : Font
 ### See Also
 
 * class [Font](../../aspose.font/font)
-* namespace [Aspose.Font.Ttf](../aspose.font)
+* namespace [Aspose.Font.Ttf](../../aspose.font.ttf)
+* assembly [Aspose.Font](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
