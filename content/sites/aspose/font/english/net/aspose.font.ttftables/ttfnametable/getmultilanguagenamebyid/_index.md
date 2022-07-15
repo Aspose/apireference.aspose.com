@@ -3,10 +3,10 @@ title: GetMultiLanguageNameById
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 30
 url: /net/aspose.font.ttftables/ttfnametable/getmultilanguagenamebyid/
 ---
-## TtfNameTable.GetMultiLanguageNameById method (1 of 3)
+## TtfNameTable.GetMultiLanguageNameById method
 
 Returns a name by nameId.
 
@@ -18,7 +18,7 @@ public MultiLanguageString GetMultiLanguageNameById(NameId nameId)
 | --- | --- | --- |
 | nameId | NameId | Name Id. |
 
-### Return Value
+## Return Value
 
 Name.
 
@@ -26,64 +26,6 @@ Name.
 
 * class [MultiLanguageString](../../../aspose.font/multilanguagestring)
 * enum [NameId](../../ttfnametable.nameid)
-* class [TtfNameTable](../../ttfnametable)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable)
-* assembly [Aspose.Font](../../../)
-
----
-
-## TtfNameTable.GetMultiLanguageNameById method (2 of 3)
-
-Returns a name by nameId using platform identifier passed.
-
-```csharp
-public MultiLanguageString GetMultiLanguageNameById(NameId nameId, PlatformId platformId)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| nameId | NameId | Name Id. |
-| platformId | PlatformId | Platform Id. |
-
-### Return Value
-
-Name.
-
-### See Also
-
-* class [MultiLanguageString](../../../aspose.font/multilanguagestring)
-* enum [NameId](../../ttfnametable.nameid)
-* enum [PlatformId](../../ttfnametable.platformid)
-* class [TtfNameTable](../../ttfnametable)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable)
-* assembly [Aspose.Font](../../../)
-
----
-
-## TtfNameTable.GetMultiLanguageNameById method (3 of 3)
-
-Returns a name as object of type [`MultiLanguageString`](../../../aspose.font/multilanguagestring). Method collects all NameRecord structures which coincide with passed parameters nameId, platformId and platformSpecificId and then builds resultant object based on this structures list.
-
-```csharp
-public MultiLanguageString GetMultiLanguageNameById(NameId nameId, PlatformId platformId, 
-    ushort platformSpecificId)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| nameId | NameId | Name Id. |
-| platformId | PlatformId | Platform Id. |
-| platformSpecificId | UInt16 | Platform specific Id. |
-
-### Return Value
-
-Name.
-
-### See Also
-
-* class [MultiLanguageString](../../../aspose.font/multilanguagestring)
-* enum [NameId](../../ttfnametable.nameid)
-* enum [PlatformId](../../ttfnametable.platformid)
 * class [TtfNameTable](../../ttfnametable)
 * namespace [Aspose.Font.TtfTables](../../ttfnametable)
 * assembly [Aspose.Font](../../../)

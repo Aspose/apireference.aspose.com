@@ -3,7 +3,7 @@ title: Equals
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 40
+weight: 20
 url: /net/aspose.font/multilanguagestring/equals/
 ---
 ## MultiLanguageString.Equals method
@@ -18,7 +18,7 @@ public override bool Equals(object objToCompare)
 | --- | --- | --- |
 | objToCompare | Object | object to compare with |
 
-### Return Value
+## Return Value
 
 comparison result
 

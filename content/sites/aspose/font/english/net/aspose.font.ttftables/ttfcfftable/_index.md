@@ -3,7 +3,7 @@ title: TtfCffTable
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 780
+weight: 770
 url: /net/aspose.font.ttftables/ttfcfftable/
 ---
 ## TtfCffTable class

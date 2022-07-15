@@ -3,7 +3,7 @@ title: GetNameById
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.font.ttftables/ttfnametable/getnamebyid/
 ---
 ## TtfNameTable.GetNameById method
@@ -18,7 +18,7 @@ public string GetNameById(NameId nameId)
 | --- | --- | --- |
 | nameId | NameId | name identifier |
 
-### Return Value
+## Return Value
 
 name
 

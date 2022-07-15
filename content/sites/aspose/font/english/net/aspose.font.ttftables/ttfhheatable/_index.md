@@ -3,7 +3,7 @@ title: TtfHheaTable
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 830
+weight: 820
 url: /net/aspose.font.ttftables/ttfhheatable/
 ---
 ## TtfHheaTable class

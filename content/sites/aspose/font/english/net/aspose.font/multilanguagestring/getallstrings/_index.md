@@ -3,7 +3,7 @@ title: GetAllStrings
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.font/multilanguagestring/getallstrings/
 ---
 ## MultiLanguageString.GetAllStrings method
@@ -14,7 +14,7 @@ Returns all strings of all languages.
 public string[] GetAllStrings()
 ```
 
-### Return Value
+## Return Value
 
 Array of all strings of all languages.
 

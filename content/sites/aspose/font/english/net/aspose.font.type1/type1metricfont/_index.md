@@ -3,7 +3,7 @@ title: Type1MetricFont
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 1080
+weight: 1070
 url: /net/aspose.font.type1/type1metricfont/
 ---
 ## Type1MetricFont class

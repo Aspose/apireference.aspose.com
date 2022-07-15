@@ -3,7 +3,7 @@ title: GetNameRecordsByNameId
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 50
 url: /net/aspose.font.ttftables/ttfnametable/getnamerecordsbynameid/
 ---
 ## TtfNameTable.GetNameRecordsByNameId method
@@ -18,7 +18,7 @@ public NameRecord[] GetNameRecordsByNameId(NameId nameId)
 | --- | --- | --- |
 | nameId | NameId | name identifier |
 
-### Return Value
+## Return Value
 
 Array of [`NameRecord`](../../ttfnametable.namerecord) structures
 

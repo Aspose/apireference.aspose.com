@@ -3,7 +3,7 @@ title: TtfLocaTable.OffsetsList
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 880
+weight: 870
 url: /net/aspose.font.ttftables/ttflocatable.offsetslist/
 ---
 ## TtfLocaTable.OffsetsList class

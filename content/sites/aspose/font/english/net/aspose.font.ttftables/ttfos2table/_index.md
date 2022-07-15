@@ -3,7 +3,7 @@ title: TtfOs2Table
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 990
+weight: 980
 url: /net/aspose.font.ttftables/ttfos2table/
 ---
 ## TtfOs2Table class

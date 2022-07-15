@@ -3,7 +3,7 @@ title: TtfGlyfTable
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 810
+weight: 800
 url: /net/aspose.font.ttftables/ttfglyftable/
 ---
 ## TtfGlyfTable class

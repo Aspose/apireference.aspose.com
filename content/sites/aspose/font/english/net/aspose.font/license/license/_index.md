@@ -8,7 +8,7 @@ url: /net/aspose.font/license/license/
 ---
 ## License constructor
 
-Initializes a new instance of this class.
+The default constructor.
 
 ```csharp
 public License()

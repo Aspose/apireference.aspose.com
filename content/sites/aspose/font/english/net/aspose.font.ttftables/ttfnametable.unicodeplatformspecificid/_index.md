@@ -3,7 +3,7 @@ title: TtfNameTable.UnicodePlatformSpecificId
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 980
+weight: 970
 url: /net/aspose.font.ttftables/ttfnametable.unicodeplatformspecificid/
 ---
 ## TtfNameTable.UnicodePlatformSpecificId enumeration
@@ -14,7 +14,7 @@ Represents unicode platform-specific enumeration.
 public enum UnicodePlatformSpecificId
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
 | --- | --- | --- |

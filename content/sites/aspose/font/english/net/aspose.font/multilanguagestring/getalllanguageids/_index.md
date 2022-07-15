@@ -3,7 +3,7 @@ title: GetAllLanguageIds
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.font/multilanguagestring/getalllanguageids/
 ---
 ## MultiLanguageString.GetAllLanguageIds method
@@ -14,7 +14,7 @@ Gets language identifiers for all strings or empty array if no strings are prese
 public int[] GetAllLanguageIds()
 ```
 
-### Return Value
+## Return Value
 
 Array with language identifiers or empty array if no strings are present
 

@@ -3,7 +3,7 @@ title: TtfPrepTable
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 1010
+weight: 1000
 url: /net/aspose.font.ttftables/ttfpreptable/
 ---
 ## TtfPrepTable class

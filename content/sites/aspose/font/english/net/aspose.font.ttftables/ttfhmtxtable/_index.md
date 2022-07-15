@@ -3,7 +3,7 @@ title: TtfHmtxTable
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 840
+weight: 830
 url: /net/aspose.font.ttftables/ttfhmtxtable/
 ---
 ## TtfHmtxTable class

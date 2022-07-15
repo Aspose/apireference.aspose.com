@@ -3,7 +3,7 @@ title: TtfLocaTable
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 870
+weight: 860
 url: /net/aspose.font.ttftables/ttflocatable/
 ---
 ## TtfLocaTable class

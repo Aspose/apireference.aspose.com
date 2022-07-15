@@ -3,7 +3,7 @@ title: GetAllNameRecords
 second_title: Aspose.Font for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 20
 url: /net/aspose.font.ttftables/ttfnametable/getallnamerecords/
 ---
 ## TtfNameTable.GetAllNameRecords method
@@ -14,7 +14,7 @@ Returns all [`NameRecord`](../../ttfnametable.namerecord) structures from table
 public NameRecord[] GetAllNameRecords()
 ```
 
-### Return Value
+## Return Value
 
 Array of [`NameRecord`](../../ttfnametable.namerecord) structures
 
