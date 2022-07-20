@@ -51,6 +51,48 @@ defaultContentLang = 'en'
     languageCode = "zh"
     flag = "flag-cn"
     weight = 12
+  [languages.ar]
+    contentDir = 'content/home/ar'
+    languageName = "عربي"
+    languageCode = "ar"
+    flag = "flag-sa"
+    weight = 13
+  [languages.fr]
+    contentDir = 'content/home/fr'
+    languageName = "Français"
+    languageCode = "fr"
+    flag = "flag-fr"
+    weight = 14
+  [languages.de]
+    contentDir = 'content/home/de'
+    languageName = "Deutsch"
+    languageCode = "de"
+    flag = "flag-de"
+    weight = 15
+  [languages.it]
+    contentDir = 'content/home/it'
+    languageName = "Italiano"
+    languageCode = "it"
+    flag = "flag-it"
+    weight = 16
+  [languages.es]
+    contentDir = 'content/home/es'
+    languageName = "Español"
+    languageCode = "es"
+    flag = "flag-es"
+    weight = 17
+  [languages.sv]
+    contentDir = 'content/home/sv'
+    languageName = "Svenska"
+    languageCode = "sv"
+    flag = "flag-se"
+    weight = 18
+  [languages.tr]
+    contentDir = 'content/home/tr'
+    languageName = "Türkçe"
+    languageCode = "tr"
+    flag = "flag-tr"
+    weight = 19
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
