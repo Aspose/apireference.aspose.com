@@ -20,7 +20,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -57,11 +57,11 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
       # Invalidate Cloudfront Home Page
-      - name: invalidate
-        uses: chetan/invalidate-cloudfront-action@master
-        env:
-          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
-          PATHS: /slides/*
-          AWS_REGION: 'us-west-2'
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+      #- name: invalidate
+      #  uses: chetan/invalidate-cloudfront-action@master
+      #  env:
+      #    DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+      #    PATHS: /slides/*
+      #    AWS_REGION: 'us-west-2'
+      #    AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+      #    AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
