@@ -67,6 +67,7 @@ Create, edit or convert PowerPoint presentations in your application. Includes 7
 {{< blocks/product-item title=".NET" href="/slides/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/slides/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/slides/cpp/" class="btn-c" >}}
+{{< blocks/product-item title="PYTHON" href="/slides/python-net/" class="btn-python" >}}
 {{< blocks/product-item title="ANDROID" href="/slides/androidjava/" class="btn-android" >}}
 {{< blocks/product-item title="PHP" href="/slides/php-java/" class="btn-php" >}}
 
