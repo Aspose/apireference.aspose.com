@@ -3,7 +3,7 @@ title: getStyleRotation
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1130
+weight: 1140
 url: /php-java/behaviorproperty/getstylerotation/
 ---
 

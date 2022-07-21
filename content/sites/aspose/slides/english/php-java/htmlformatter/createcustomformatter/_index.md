@@ -7,7 +7,7 @@ weight: 10
 url: /php-java/htmlformatter/createcustomformatter/
 ---
 
-## createCustomFormatter([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) formattingController)  method
+## createCustomFormatter([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) formattingController)  method
 
  Creates and returns HTML formatter for custom callback-driven html generation.
  
@@ -16,7 +16,25 @@ url: /php-java/htmlformatter/createcustomformatter/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| formattingController | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | Callback interface which controls html file generation. |
+| formattingController | [EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) | Callback interface which controls html file generation. |
+
+### Returns
+HtmlFormatter
+
+
+---
+
+
+## createCustomFormatter([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) formattingController)  method
+
+ Creates and returns HTML formatter for custom callback-driven html generation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| formattingController | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | Callback interface which controls html file generation. |
 
 ### Returns
 HtmlFormatter
@@ -43,24 +61,6 @@ HtmlFormatter
 ---
 
 
-## createCustomFormatter([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) formattingController)  method
-
- Creates and returns HTML formatter for custom callback-driven html generation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| formattingController | [EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) | Callback interface which controls html file generation. |
-
-### Returns
-HtmlFormatter
-
-
----
-
-
 ## createCustomFormatter([ResponsiveHtmlController](../../responsivehtmlcontroller) formattingController)  method
 
  Creates and returns HTML formatter for custom callback-driven html generation.
@@ -79,7 +79,7 @@ HtmlFormatter
 ---
 
 
-## createCustomFormatter([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) formattingController)  method
+## createCustomFormatter([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) formattingController)  method
 
  Creates and returns HTML formatter for custom callback-driven html generation.
  
@@ -88,7 +88,7 @@ HtmlFormatter
 
 | Name | Type | Description |
 | --- | --- | --- |
-| formattingController | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | Callback interface which controls html file generation. |
+| formattingController | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | Callback interface which controls html file generation. |
 
 ### Returns
 HtmlFormatter

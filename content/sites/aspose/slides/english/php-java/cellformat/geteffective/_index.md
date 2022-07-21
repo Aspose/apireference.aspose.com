@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 70
+weight: 110
 url: /php-java/cellformat/geteffective/
 ---
 
@@ -32,7 +32,7 @@ url: /php-java/cellformat/geteffective/
 ```
 
 ### Returns
-
+[CellFormatEffectiveData](../../cellformateffectivedata)
 
 
 ---

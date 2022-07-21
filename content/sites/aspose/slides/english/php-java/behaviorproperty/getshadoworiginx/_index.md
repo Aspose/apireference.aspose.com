@@ -3,7 +3,7 @@ title: getShadowOriginX
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 760
+weight: 770
 url: /php-java/behaviorproperty/getshadoworiginx/
 ---
 

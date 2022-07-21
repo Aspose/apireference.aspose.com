@@ -3,7 +3,7 @@ title: getOrCreateByValue
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 520
+weight: 530
 url: /php-java/behaviorproperty/getorcreatebyvalue/
 ---
 

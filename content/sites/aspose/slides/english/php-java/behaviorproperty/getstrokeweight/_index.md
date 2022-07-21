@@ -3,7 +3,7 @@ title: getStrokeWeight
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1060
+weight: 1070
 url: /php-java/behaviorproperty/getstrokeweight/
 ---
 

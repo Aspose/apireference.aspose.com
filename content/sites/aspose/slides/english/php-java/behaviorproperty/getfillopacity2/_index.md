@@ -3,7 +3,7 @@ title: getFillOpacity2
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 390
+weight: 400
 url: /php-java/behaviorproperty/getfillopacity2/
 ---
 

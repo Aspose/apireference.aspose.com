@@ -3,7 +3,7 @@ title: getStyleTextEffectOutline
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1180
+weight: 1190
 url: /php-java/behaviorproperty/getstyletexteffectoutline/
 ---
 
