@@ -3,7 +3,7 @@ title: PreprocessingFilter
 second_title: Aspose.OCR for .NET API Reference
 description: Base class for image processing commands.
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/
 ---
 ## PreprocessingFilter class
@@ -24,6 +24,8 @@ public class PreprocessingFilter : IEnumerable
 
 | Name | Description |
 | --- | --- |
+| static [AutoDenoising](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/autodenoising)() | Enables the use of an additional neural network to improve the image - reduce noise. Useful for images with scan artifacts, distortion, spots, flares, gradients, foreign elements. |
+| static [AutoSkew](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/autoskew)() | Enables the automatic image skew correction. |
 | static [Binarize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/binarize)() | Converts an image to black-and-white image. Binary images are images whose pixels have only two possible intensity values. They are normally displayed as black and white. Numerically, the two values are often 0 for black, and 255 for white. Binary images are produced by auto thresholding an image. |
 | static [ContrastCorrectionFilter](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/contrastcorrectionfilter)() | Contrast correction filter. |
 | static [Dilate](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/dilate)() | Dilation adds pixels to the boundaries of objects in an image. |

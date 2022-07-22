@@ -3,7 +3,7 @@ title: Invert
 second_title: Aspose.OCR for .NET API Reference
 description: Automatically inverts colors in a document image.
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/invert/
 ---
 ## PreprocessingFilter.Invert method

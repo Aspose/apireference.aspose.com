@@ -1,12 +1,12 @@
 ---
 title: Aspose.OCR
 second_title: Aspose.OCR for .NET API Reference
-description: The Aspose.OCR contains tools for image recognition skew correction text areas detection and spell check.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.ocr/
 ---
-The **Aspose.OCR** contains tools for image recognition, skew correction, text areas detection and spell check.
+
 
 ## Classes
 
