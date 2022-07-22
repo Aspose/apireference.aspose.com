@@ -1,22 +1,22 @@
 ---
-title: Dilate
+title: AutoSkew
 second_title: Aspose.OCR for .NET API Reference
-description: Dilation adds pixels to the boundaries of objects in an image.
+description: Enables the automatic image skew correction.
 type: docs
-weight: 60
-url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/dilate/
+weight: 30
+url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/autoskew/
 ---
-## PreprocessingFilter.Dilate method
+## PreprocessingFilter.AutoSkew method
 
-Dilation adds pixels to the boundaries of objects in an image.
+Enables the automatic image skew correction.
 
 ```csharp
-public static PreprocessingFilter Dilate()
+public static PreprocessingFilter AutoSkew()
 ```
 
 ### Return Value
 
-DilateFilter object.
+AutoSkewFilter object.
 
 ### See Also
 

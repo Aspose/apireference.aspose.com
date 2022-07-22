@@ -27,7 +27,7 @@ public class DocumentRecognitionSettings
 | --- | --- |
 | [Allowed](../../aspose.ocr/documentrecognitionsettings/allowed) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
 | [AutoContrast](../../aspose.ocr/documentrecognitionsettings/autocontrast) { get; set; } | Allows using an additional contrast correction algorithm for the image before recognition. |
-| [AutoDenoising](../../aspose.ocr/documentrecognitionsettings/autodenoising) { get; set; } |  |
+| [AutoDenoising](../../aspose.ocr/documentrecognitionsettings/autodenoising) { get; set; } | Enables the use of an additional neural network to improve the image - reduce noise. Useful for images with scan artifacts, distortion, spots, flares, gradients, foreign elements. |
 | [AutoSkew](../../aspose.ocr/documentrecognitionsettings/autoskew) { set; } | Gets or sets a flag indicating whether automatic image skew correction should be enabled. Enabled (true) by default. |
 | [DetectAreas](../../aspose.ocr/documentrecognitionsettings/detectareas) { set; } | Gets or sets a flag indicating whether automatic text areas detection should be enabled.  Enables Document Structure Recognition module. This takes more time and memory to process an image, but provides more accurate results on complex cases. Disable (set to false) for faster image processing or in case of images with simple structure. |
 | [DetectAreasMode](../../aspose.ocr/documentrecognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |

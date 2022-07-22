@@ -3,7 +3,7 @@ title: ContrastCorrectionFilter
 second_title: Aspose.OCR for .NET API Reference
 description: Contrast correction filter.
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/contrastcorrectionfilter/
 ---
 ## PreprocessingFilter.ContrastCorrectionFilter method
