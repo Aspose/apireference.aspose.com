@@ -1,7 +1,7 @@
 ---
 title: PresentmentDeliveryId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PresentmentDeliveryIdaspose.finance.ofx.billerdelivery/presentmentdeliveryid class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/presentmentdeliveryid/

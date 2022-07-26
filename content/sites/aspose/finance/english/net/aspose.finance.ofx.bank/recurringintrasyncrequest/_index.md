@@ -1,7 +1,7 @@
 ---
 title: RecurringIntraSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Recurring intrabank transaction synchronization request class.
 type: docs
 weight: 590
 url: /net/aspose.finance.ofx.bank/recurringintrasyncrequest/

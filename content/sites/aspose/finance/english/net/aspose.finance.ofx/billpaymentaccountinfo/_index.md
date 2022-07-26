@@ -1,7 +1,7 @@
 ---
 title: BillPaymentAccountInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: OFX uses the payments account information class to download account information from an FI.
 type: docs
 weight: 1400
 url: /net/aspose.finance.ofx/billpaymentaccountinfo/

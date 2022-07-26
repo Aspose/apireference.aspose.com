@@ -1,7 +1,7 @@
 ---
 title: FinanceCharge
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the finance charges.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/financecharge/

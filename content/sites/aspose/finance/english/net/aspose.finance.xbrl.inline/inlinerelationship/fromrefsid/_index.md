@@ -1,7 +1,7 @@
 ---
 title: FromRefsId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the from reference ids of the InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.inline/inlinerelationship/fromrefsid/

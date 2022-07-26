@@ -1,7 +1,7 @@
 ---
 title: Balance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Several responses allow FIs to send an arbitrary set of balance information as part of a response for example a bank statement download.FIs might want to send information on outstanding balances payment dates interest rates and so forth.
 type: docs
 weight: 230
 url: /net/aspose.finance.ofx/balance/

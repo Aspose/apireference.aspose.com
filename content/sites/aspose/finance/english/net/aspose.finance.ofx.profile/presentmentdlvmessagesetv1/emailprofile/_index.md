@@ -1,7 +1,7 @@
 ---
 title: EmailProfile
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the EmailProfileaspose.finance.ofx.profile/presentmentdlvmessagesetv1/emailprofile.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/presentmentdlvmessagesetv1/emailprofile/

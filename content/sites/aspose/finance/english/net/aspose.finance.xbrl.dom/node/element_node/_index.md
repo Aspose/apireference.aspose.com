@@ -1,7 +1,7 @@
 ---
 title: ELEMENT_NODE
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Element node type.
 type: docs
 weight: 230
 url: /net/aspose.finance.xbrl.dom/node/element_node/

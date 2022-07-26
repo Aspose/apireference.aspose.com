@@ -1,7 +1,7 @@
 ---
 title: AvailableDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date funds are available value date.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/statementtransaction/availabledate/

@@ -1,7 +1,7 @@
 ---
 title: PinChangeResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: User password change response class.
 type: docs
 weight: 5380
 url: /net/aspose.finance.ofx.signon/pinchangeresponse/

@@ -1,7 +1,7 @@
 ---
 title: GetMimeTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of GetMimeTransactionRequestaspose.finance.ofx.email/getmimetransactionrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/emailrequestmessagesetv1/getmimetransactionrequests/

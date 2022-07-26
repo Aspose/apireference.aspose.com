@@ -1,7 +1,7 @@
 ---
 title: InvestmentStatementTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of InvestmentStatementTransactionResponseaspose.finance.ofx.investment/investmentstatementtransactionresponse.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementtransactionresponses/

@@ -1,7 +1,7 @@
 ---
 title: GetAttribute
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets an attribute value by name.
 type: docs
 weight: 90
 url: /net/aspose.finance.xbrl.dom/element/getattribute/
@@ -18,7 +18,7 @@ public string GetAttribute(string name)
 | --- | --- | --- |
 | name | String | The attribute name. |
 
-## Return Value
+### Return Value
 
 The attribute value.
 

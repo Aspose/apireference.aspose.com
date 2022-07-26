@@ -1,7 +1,7 @@
 ---
 title: CharacterData
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The CharacterData extends Node with a set of attributes and methods for accessing character data in the DOM.
 type: docs
 weight: 6640
 url: /net/aspose.finance.xbrl.dom/characterdata/

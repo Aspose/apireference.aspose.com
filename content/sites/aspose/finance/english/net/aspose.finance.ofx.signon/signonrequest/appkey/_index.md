@@ -1,7 +1,7 @@
 ---
 title: AppKey
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the application key/identifier arranged out of band between server and client.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.signon/signonrequest/appkey/

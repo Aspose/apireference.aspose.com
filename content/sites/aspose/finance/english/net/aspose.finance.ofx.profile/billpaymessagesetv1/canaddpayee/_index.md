@@ -1,7 +1,7 @@
 ---
 title: CanAddPayee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether user can add payees.if false the user is restricted to payees added to the users payee list by the payment system.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/canaddpayee/

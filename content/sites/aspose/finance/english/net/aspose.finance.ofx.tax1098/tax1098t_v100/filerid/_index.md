@@ -1,7 +1,7 @@
 ---
 title: FilerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the filers Federal Identification Number.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/filerid/

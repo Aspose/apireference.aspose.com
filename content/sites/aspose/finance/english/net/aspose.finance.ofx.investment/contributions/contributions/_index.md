@@ -1,7 +1,7 @@
 ---
 title: Contributions
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of Contributionsaspose.finance.ofx.investment/contributions class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/contributions/contributions/

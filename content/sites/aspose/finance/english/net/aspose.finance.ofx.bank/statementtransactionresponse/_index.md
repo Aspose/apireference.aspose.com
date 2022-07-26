@@ -1,7 +1,7 @@
 ---
 title: StatementTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Statement transaction response class.
 type: docs
 weight: 700
 url: /net/aspose.finance.ofx.bank/statementtransactionresponse/

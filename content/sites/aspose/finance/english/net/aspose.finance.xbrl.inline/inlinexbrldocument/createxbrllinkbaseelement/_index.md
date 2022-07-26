@@ -1,7 +1,7 @@
 ---
 title: CreateXbrlLinkbaseElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Creates a xbrl linkbase elment.
 type: docs
 weight: 150
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/createxbrllinkbaseelement/
@@ -19,7 +19,7 @@ public XbrlLinkbaseElement CreateXbrlLinkbaseElement(string name, string prefix 
 | name | String | The xbrl linkbase local name. |
 | prefix | String | The xbrl linkbase element prefix. |
 
-## Return Value
+### Return Value
 
 The created xbrl linkbase element.
 

@@ -1,7 +1,7 @@
 ---
 title: UnitPrice
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current price of security.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.securitieslist/generalsecurityinfo/unitprice/

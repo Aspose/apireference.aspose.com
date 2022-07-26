@@ -1,7 +1,7 @@
 ---
 title: PostalCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the billers postal code.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/postalcode/

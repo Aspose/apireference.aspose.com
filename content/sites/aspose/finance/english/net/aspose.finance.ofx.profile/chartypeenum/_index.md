@@ -1,7 +1,7 @@
 ---
 title: CharTypeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Type enum of characters allowed in password.
 type: docs
 weight: 4410
 url: /net/aspose.finance.ofx.profile/chartypeenum/
@@ -14,7 +14,7 @@ Type enum of characters allowed in password.
 public enum CharTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

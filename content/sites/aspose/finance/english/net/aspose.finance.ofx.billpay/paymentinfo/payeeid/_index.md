@@ -1,7 +1,7 @@
 ---
 title: PayeeId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the server payee identifier required if assigned.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.billpay/paymentinfo/payeeid/

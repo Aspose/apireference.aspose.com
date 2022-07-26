@@ -1,7 +1,7 @@
 ---
 title: UserCredential2
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the additional user credential required by server.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.signon/signonrequest/usercredential2/

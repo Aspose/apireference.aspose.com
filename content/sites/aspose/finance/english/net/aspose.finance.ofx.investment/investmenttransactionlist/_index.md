@@ -1,7 +1,7 @@
 ---
 title: InvestmentTransactionList
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment transaction list class.
 type: docs
 weight: 3160
 url: /net/aspose.finance.ofx.investment/investmenttransactionlist/

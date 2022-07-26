@@ -1,7 +1,7 @@
 ---
 title: RemoveAttributeNS
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Removes an attribute by local name and namespace URI.
 type: docs
 weight: 140
 url: /net/aspose.finance.xbrl.dom/element/removeattributens/
@@ -19,7 +19,7 @@ public bool RemoveAttributeNS(string namespaceURI, string localName)
 | namespaceURI | String | The attribute namespace URI. |
 | localName | String | The attribute local name. |
 
-## Return Value
+### Return Value
 
 True if find and remove the attribute, otherwise false.
 

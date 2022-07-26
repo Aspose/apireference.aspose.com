@@ -1,7 +1,7 @@
 ---
 title: WireBeneficiary
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the WireBeneficiaryaspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary/

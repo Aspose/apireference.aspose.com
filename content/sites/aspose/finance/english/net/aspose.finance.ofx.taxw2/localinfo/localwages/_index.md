@@ -1,7 +1,7 @@
 ---
 title: LocalWages
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the local wages tips etc.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.taxw2/localinfo/localwages/

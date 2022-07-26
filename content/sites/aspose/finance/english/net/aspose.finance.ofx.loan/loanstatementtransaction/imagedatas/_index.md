@@ -1,7 +1,7 @@
 ---
 title: ImageDatas
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of ImageDataaspose.finance.ofx/imagedata.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.loan/loanstatementtransaction/imagedatas/

@@ -1,7 +1,7 @@
 ---
 title: Decimals
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the decimal.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/item/decimals/

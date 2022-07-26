@@ -1,7 +1,7 @@
 ---
 title: GrossDistribution
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the gross distribution.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/grossdistribution/

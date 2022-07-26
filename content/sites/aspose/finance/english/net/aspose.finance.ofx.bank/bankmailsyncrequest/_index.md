@@ -1,7 +1,7 @@
 ---
 title: BankMailSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bank mail synchronization request class.
 type: docs
 weight: 330
 url: /net/aspose.finance.ofx.bank/bankmailsyncrequest/

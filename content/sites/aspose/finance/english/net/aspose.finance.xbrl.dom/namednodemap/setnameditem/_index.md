@@ -1,7 +1,7 @@
 ---
 title: SetNamedItem
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Adds a node using its nodeName attribute. If a node with that name is already present in this map it is replaced by the new one. Replacing a node by itself has no effect.
 type: docs
 weight: 80
 url: /net/aspose.finance.xbrl.dom/namednodemap/setnameditem/
@@ -18,7 +18,7 @@ public Attr SetNamedItem(Attr item)
 | --- | --- | --- |
 | item | Attr | The attribute. |
 
-## Return Value
+### Return Value
 
 The attribute
 

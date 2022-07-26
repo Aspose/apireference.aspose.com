@@ -1,7 +1,7 @@
 ---
 title: Rollover
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the rollover contribution.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/contributions/rollover/

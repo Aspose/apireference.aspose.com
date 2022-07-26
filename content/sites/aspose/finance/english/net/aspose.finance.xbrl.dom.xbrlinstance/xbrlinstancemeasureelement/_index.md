@@ -1,7 +1,7 @@
 ---
 title: XbrlInstanceMeasureElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents xbrl instance measure element.
 type: docs
 weight: 7510
 url: /net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstancemeasureelement/

@@ -1,7 +1,7 @@
 ---
 title: AverageCostBasis
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the average cost basis of this position.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investmentposition/averagecostbasis/

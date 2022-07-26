@@ -1,7 +1,7 @@
 ---
 title: OfxRequestDocument
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Ofx request document class.
 type: docs
 weight: 4210
 url: /net/aspose.finance.ofx/ofxrequestdocument/
@@ -18,8 +18,8 @@ public class OfxRequestDocument
 
 | Name | Description |
 | --- | --- |
-| [OfxRequestDocument](ofxrequestdocument)() | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
-| [OfxRequestDocument](ofxrequestdocument)(string) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
+| [OfxRequestDocument](ofxrequestdocument#constructor)() | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
+| [OfxRequestDocument](ofxrequestdocument#constructor_1)(string) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
 
 ## Properties
 

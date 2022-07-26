@@ -1,7 +1,7 @@
 ---
 title: SocialSecurityTaxWithheld
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the social security tax withheld.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.taxw2/taxw2_v200/socialsecuritytaxwithheld/

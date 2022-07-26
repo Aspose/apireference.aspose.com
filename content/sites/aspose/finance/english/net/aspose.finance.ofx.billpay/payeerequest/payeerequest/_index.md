@@ -1,7 +1,7 @@
 ---
 title: PayeeRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PayeeRequestaspose.finance.ofx.billpay/payeerequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/payeerequest/payeerequest/

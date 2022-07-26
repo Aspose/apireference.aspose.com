@@ -1,7 +1,7 @@
 ---
 title: PostalCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the postal code.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.signup/changeuserinforesponse/postalcode/

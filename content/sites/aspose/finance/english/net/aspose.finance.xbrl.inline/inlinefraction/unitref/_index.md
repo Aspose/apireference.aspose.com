@@ -1,7 +1,7 @@
 ---
 title: UnitRef
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the reference to the Unitaspose.finance.xbrl/unit of the InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl.inline/inlinefraction/unitref/

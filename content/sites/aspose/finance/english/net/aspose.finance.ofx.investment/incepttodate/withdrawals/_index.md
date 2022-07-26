@@ -1,7 +1,7 @@
 ---
 title: Withdrawals
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Withdrawalsaspose.finance.ofx.investment/incepttodate/withdrawals.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.investment/incepttodate/withdrawals/

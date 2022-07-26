@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the number of nodes in the list.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.dom/nodelist/length/

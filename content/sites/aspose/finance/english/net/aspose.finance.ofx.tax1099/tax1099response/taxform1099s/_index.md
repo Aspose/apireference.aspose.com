@@ -1,7 +1,7 @@
 ---
 title: TaxForm1099s
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of Tax1099MISC_V100aspose.finance.ofx.tax1099/tax1099misc_v100 or TAX1099R_V100 or TAX1099B_V100 or TAX1099INT_V100 or TAX1099DIV_V100 or TAX1099OID_V100.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.tax1099/tax1099response/taxform1099s/

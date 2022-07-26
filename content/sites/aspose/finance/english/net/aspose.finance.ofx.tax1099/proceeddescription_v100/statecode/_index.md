@@ -1,7 +1,7 @@
 ---
 title: StateCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the postal abbreviation of state withholding income tax.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/statecode/

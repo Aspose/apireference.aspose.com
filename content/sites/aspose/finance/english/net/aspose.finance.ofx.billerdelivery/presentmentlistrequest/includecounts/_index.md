@@ -1,7 +1,7 @@
 ---
 title: IncludeCounts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether include counts.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/includecounts/

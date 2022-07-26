@@ -1,7 +1,7 @@
 ---
 title: AddlStateTaxWheldAggregate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the AddlStateTaxWheldAggregateaspose.finance.ofx.tax1099/tax1099div_v100/addlstatetaxwheldaggregate.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1099/tax1099div_v100/addlstatetaxwheldaggregate/

@@ -1,7 +1,7 @@
 ---
 title: Investment401kSource
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the source of cash for this transaction.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx/statementtransaction/investment401ksource/

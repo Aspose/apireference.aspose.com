@@ -1,7 +1,7 @@
 ---
 title: RecurringInterResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of RecurringInterResponseaspose.finance.ofx.intertransfer/recurringinterresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.intertransfer/recurringinterresponse/recurringinterresponse/

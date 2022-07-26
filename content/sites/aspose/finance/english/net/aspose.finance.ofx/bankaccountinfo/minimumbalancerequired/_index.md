@@ -1,7 +1,7 @@
 ---
 title: MinimumBalanceRequired
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the minimum balance required to avoid service fees.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/bankaccountinfo/minimumbalancerequired/

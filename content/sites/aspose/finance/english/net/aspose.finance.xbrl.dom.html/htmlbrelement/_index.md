@@ -1,7 +1,7 @@
 ---
 title: HTMLBRElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents a line break. See the BR element definition in HTML 4.01.
 type: docs
 weight: 6730
 url: /net/aspose.finance.xbrl.dom.html/htmlbrelement/

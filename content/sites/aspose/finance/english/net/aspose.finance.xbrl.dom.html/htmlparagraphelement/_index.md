@@ -1,7 +1,7 @@
 ---
 title: HTMLParagraphElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents paragraphs. See the P element definition in HTML 4.01.
 type: docs
 weight: 7100
 url: /net/aspose.finance.xbrl.dom.html/htmlparagraphelement/

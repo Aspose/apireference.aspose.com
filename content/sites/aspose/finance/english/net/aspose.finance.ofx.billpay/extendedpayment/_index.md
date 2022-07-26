@@ -1,7 +1,7 @@
 ---
 title: ExtendedPayment
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class provides the payee with information for applying a payment across multiple invoices.It is structured to allow for electronic processing of the invoice data and allows multiple invoices as well as multiple line items per invoice to be specified.
 type: docs
 weight: 910
 url: /net/aspose.finance.ofx.billpay/extendedpayment/

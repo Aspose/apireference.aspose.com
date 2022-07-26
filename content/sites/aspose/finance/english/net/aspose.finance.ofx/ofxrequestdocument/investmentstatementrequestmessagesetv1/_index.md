@@ -1,7 +1,7 @@
 ---
 title: InvestmentStatementRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the InvestmentStatementRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/investmentstatementrequestmessagesetv1.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/ofxrequestdocument/investmentstatementrequestmessagesetv1/

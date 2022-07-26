@@ -1,7 +1,7 @@
 ---
 title: ReferenceRole
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Reference role enum.
 type: docs
 weight: 7950
 url: /net/aspose.finance.xbrl/referencerole/
@@ -14,7 +14,7 @@ Reference role enum.
 public enum ReferenceRole
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

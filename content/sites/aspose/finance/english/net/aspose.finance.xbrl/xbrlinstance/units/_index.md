@@ -1,7 +1,7 @@
 ---
 title: Units
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of Unitaspose.finance.xbrl/unit objects in the XBRL instance.
 type: docs
 weight: 100
 url: /net/aspose.finance.xbrl/xbrlinstance/units/

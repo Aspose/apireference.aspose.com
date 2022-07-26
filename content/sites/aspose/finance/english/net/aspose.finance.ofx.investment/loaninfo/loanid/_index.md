@@ -1,7 +1,7 @@
 ---
 title: LoanId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the identifier of this loan.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.investment/loaninfo/loanid/

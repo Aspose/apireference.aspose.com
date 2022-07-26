@@ -1,7 +1,7 @@
 ---
 title: HTMLAddressElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents address element. See the ADDRESS element definition in HTML 4.01.
 type: docs
 weight: 6690
 url: /net/aspose.finance.xbrl.dom.html/htmladdresselement/

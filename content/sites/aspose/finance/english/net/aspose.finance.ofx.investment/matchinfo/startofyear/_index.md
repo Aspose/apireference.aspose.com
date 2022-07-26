@@ -1,7 +1,7 @@
 ---
 title: StartOfYear
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the specifies when the employer contribution max is reset. Some plans have a maximum based on the company fiscal year rather than calendar year.Assume calendar year if omitted.Only the month and day MMDD are used yearYYYY and time are ignored.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.investment/matchinfo/startofyear/

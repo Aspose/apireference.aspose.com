@@ -1,7 +1,7 @@
 ---
 title: Tax1098Download
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server supports 1098 tax form download.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/tax1098messagesetv1/tax1098download/

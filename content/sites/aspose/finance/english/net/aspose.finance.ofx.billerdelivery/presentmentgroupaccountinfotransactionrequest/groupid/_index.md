@@ -1,7 +1,7 @@
 ---
 title: GroupId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the requests account information for users in the group.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/groupid/

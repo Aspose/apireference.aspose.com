@@ -1,7 +1,7 @@
 ---
 title: DurationEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Duration enum.
 type: docs
 weight: 2810
 url: /net/aspose.finance.ofx.investment/durationenum/
@@ -14,7 +14,7 @@ Duration enum.
 public enum DurationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

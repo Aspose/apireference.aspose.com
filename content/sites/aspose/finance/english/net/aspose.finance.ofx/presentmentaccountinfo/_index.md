@@ -1,7 +1,7 @@
 ---
 title: PresentmentAccountInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill presentment account information class.
 type: docs
 weight: 4280
 url: /net/aspose.finance.ofx/presentmentaccountinfo/

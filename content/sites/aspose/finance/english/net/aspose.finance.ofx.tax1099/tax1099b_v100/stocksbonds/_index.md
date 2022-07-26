@@ -1,7 +1,7 @@
 ---
 title: StocksBonds
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the StocksBondsaspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds/

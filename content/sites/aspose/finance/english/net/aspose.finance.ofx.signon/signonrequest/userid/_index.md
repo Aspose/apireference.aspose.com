@@ -1,7 +1,7 @@
 ---
 title: UserId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the user identification string.
 type: docs
 weight: 180
 url: /net/aspose.finance.ofx.signon/signonrequest/userid/

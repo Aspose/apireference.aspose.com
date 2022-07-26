@@ -1,7 +1,7 @@
 ---
 title: AvailableCash
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the cash balance across all sub-accounts. Should include sweep funds.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investmentbalance/availablecash/

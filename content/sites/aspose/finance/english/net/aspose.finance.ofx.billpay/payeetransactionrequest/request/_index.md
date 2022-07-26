@@ -1,7 +1,7 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PayeeRequestaspose.finance.ofx.billpay/payeerequest or PayeeModRequestaspose.finance.ofx.billpay/payeemodrequest or PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/payeetransactionrequest/request/

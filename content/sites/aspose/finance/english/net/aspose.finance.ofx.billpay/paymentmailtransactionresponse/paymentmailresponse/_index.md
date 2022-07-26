@@ -1,7 +1,7 @@
 ---
 title: PaymentMailResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PaymentMailResponseaspose.finance.ofx.billpay/paymentmailtransactionresponse/paymentmailresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/paymentmailtransactionresponse/paymentmailresponse/

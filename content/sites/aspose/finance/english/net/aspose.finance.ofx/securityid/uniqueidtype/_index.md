@@ -1,7 +1,7 @@
 ---
 title: UniqueIdType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of standard used to identify the security i.e. CUSIP for FIs in the United States.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/securityid/uniqueidtype/

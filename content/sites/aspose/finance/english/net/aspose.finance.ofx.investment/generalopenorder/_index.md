@@ -1,7 +1,7 @@
 ---
 title: GeneralOpenOrder
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class contains fields common to all open orders.
 type: docs
 weight: 2830
 url: /net/aspose.finance.ofx.investment/generalopenorder/

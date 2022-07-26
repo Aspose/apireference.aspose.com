@@ -1,7 +1,7 @@
 ---
 title: WireTransferMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Version 1 of wire transfers message set.
 type: docs
 weight: 4930
 url: /net/aspose.finance.ofx.profile/wiretransfermessagesetv1/

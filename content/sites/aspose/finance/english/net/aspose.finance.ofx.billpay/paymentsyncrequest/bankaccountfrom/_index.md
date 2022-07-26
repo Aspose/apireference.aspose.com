@@ -1,7 +1,7 @@
 ---
 title: BankAccountFrom
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the from of BankAccountaspose.finance.ofx/bankaccount.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/paymentsyncrequest/bankaccountfrom/

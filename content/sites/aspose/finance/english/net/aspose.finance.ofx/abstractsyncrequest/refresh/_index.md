@@ -1,7 +1,7 @@
 ---
 title: Refresh
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether request for refresh of current state.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/abstractsyncrequest/refresh/

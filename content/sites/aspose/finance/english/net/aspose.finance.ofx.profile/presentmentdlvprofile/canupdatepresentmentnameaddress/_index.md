@@ -1,7 +1,7 @@
 ---
 title: CanUpdatePresentmentNameAddress
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether supports update of the PresentmentNameAddressaspose.finance.ofx/presentmentnameaddress associated with a particular bill
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.profile/presentmentdlvprofile/canupdatepresentmentnameaddress/

@@ -1,7 +1,7 @@
 ---
 title: TransferProfile
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the TransferProfileaspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile/

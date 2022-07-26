@@ -1,7 +1,7 @@
 ---
 title: ExpireDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date the hold on this transaction will expire. Only valid for TransactionType is HOLD.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/pendingtransaction/expiredate/

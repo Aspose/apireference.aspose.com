@@ -1,7 +1,7 @@
 ---
 title: TradeDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the trade date for stock splits day of record.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.investment/investmenttransaction/tradedate/

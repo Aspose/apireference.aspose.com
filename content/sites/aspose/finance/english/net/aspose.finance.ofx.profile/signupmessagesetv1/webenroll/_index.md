@@ -1,7 +1,7 @@
 ---
 title: WebEnroll
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the WebEnrollaspose.finance.ofx.profile/signupmessagesetv1/webenroll.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.profile/signupmessagesetv1/webenroll/

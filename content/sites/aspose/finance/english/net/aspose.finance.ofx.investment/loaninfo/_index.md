@@ -1,7 +1,7 @@
 ---
 title: LoanInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Loans outstanding against the account
 type: docs
 weight: 3190
 url: /net/aspose.finance.ofx.investment/loaninfo/

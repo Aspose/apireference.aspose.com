@@ -1,7 +1,7 @@
 ---
 title: InterestUSBondTreasury
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the interest on U.S. Savings Bonds and Treasury obligations.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.tax1099/tax1099int_v100/interestusbondtreasury/

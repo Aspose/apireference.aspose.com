@@ -1,7 +1,7 @@
 ---
 title: Address3
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the billers address line 3.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/address3/

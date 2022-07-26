@@ -1,7 +1,7 @@
 ---
 title: CreateXbrlInstanceElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Creates a xbrl instance elment.
 type: docs
 weight: 140
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/createxbrlinstanceelement/
@@ -19,7 +19,7 @@ public XbrlInstanceElement CreateXbrlInstanceElement(string name, string prefix 
 | name | String | The xbrl instance local name. |
 | prefix | String | The xbrl instance element prefix. |
 
-## Return Value
+### Return Value
 
 The created xbrl instance element.
 

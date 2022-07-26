@@ -1,7 +1,7 @@
 ---
 title: PayerRTN
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payers RTN.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.tax1099/tax1099int_v100/payerrtn/

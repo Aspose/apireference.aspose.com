@@ -1,7 +1,7 @@
 ---
 title: DimensionMember
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents dimension member. It is defined in https//www.xbrl.org/specification/dimensions/rec-2012-01-25/dimensions-rec-2006-09-18corrected-errata-2012-01-25-clean.html.
 type: docs
 weight: 6620
 url: /net/aspose.finance.xbrl/dimensionmember/
@@ -18,8 +18,8 @@ public class DimensionMember
 
 | Name | Description |
 | --- | --- |
-| [DimensionMember](dimensionmember)(Concept, Concept) | Initializes a new instance of explicit [`DimensionMember`](../dimensionmember) class. |
-| [DimensionMember](dimensionmember)(Concept, Element) | Initializes a new instance of typed [`DimensionMember`](../dimensionmember) class. |
+| [DimensionMember](dimensionmember#constructor)(Concept, Concept) | Initializes a new instance of explicit [`DimensionMember`](../dimensionmember) class. |
+| [DimensionMember](dimensionmember#constructor_1)(Concept, Element) | Initializes a new instance of typed [`DimensionMember`](../dimensionmember) class. |
 
 ## Properties
 

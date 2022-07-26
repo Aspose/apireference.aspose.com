@@ -1,7 +1,7 @@
 ---
 title: HTMLParamElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents parameters fed to the OBJECT element. See the PARAM element definition in HTML 4.01.
 type: docs
 weight: 7110
 url: /net/aspose.finance.xbrl.dom.html/htmlparamelement/

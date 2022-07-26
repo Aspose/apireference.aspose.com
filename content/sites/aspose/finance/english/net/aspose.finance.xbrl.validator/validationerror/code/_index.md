@@ -1,7 +1,7 @@
 ---
 title: Code
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the validation error code.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.validator/validationerror/code/

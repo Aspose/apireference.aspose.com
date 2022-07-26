@@ -1,7 +1,7 @@
 ---
 title: AdditionalStateTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the AdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate/

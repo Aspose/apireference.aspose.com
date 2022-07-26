@@ -1,7 +1,7 @@
 ---
 title: HelpMessage
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the human-readable message that the client can display to assist the customer in entering his or her account number.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/helpmessage/

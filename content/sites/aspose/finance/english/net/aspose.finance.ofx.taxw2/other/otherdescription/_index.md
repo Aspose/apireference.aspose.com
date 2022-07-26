@@ -1,7 +1,7 @@
 ---
 title: OtherDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the box 14 entry description.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.taxw2/other/otherdescription/

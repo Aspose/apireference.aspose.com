@@ -1,7 +1,7 @@
 ---
 title: TechnicalSupportPhone
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the technical support telephone number.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.profile/profileresponse/technicalsupportphone/

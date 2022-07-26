@@ -1,7 +1,7 @@
 ---
 title: Prefix
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the namespace prefix of attribute.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl.dom/attr/prefix/

@@ -1,7 +1,7 @@
 ---
 title: SecurityInfos
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of MutualFundInfoaspose.finance.ofx.securitieslist/mutualfundinfo or StockInfoaspose.finance.ofx.securitieslist/stockinfo or OptionInfoaspose.finance.ofx.securitieslist/optioninfo or DebtInfoaspose.finance.ofx.securitieslist/debtinfo or OtherInfoaspose.finance.ofx.securitieslist/otherinfo.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.securitieslist/securitylist/securityinfos/

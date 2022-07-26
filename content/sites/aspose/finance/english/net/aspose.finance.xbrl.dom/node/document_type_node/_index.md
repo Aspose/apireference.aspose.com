@@ -1,7 +1,7 @@
 ---
 title: DOCUMENT_TYPE_NODE
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Document type node type.
 type: docs
 weight: 220
 url: /net/aspose.finance.xbrl.dom/node/document_type_node/

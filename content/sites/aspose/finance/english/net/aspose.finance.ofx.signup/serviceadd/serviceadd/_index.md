@@ -1,7 +1,7 @@
 ---
 title: ServiceAdd
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ServiceAddaspose.finance.ofx.signup/serviceadd class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.signup/serviceadd/serviceadd/

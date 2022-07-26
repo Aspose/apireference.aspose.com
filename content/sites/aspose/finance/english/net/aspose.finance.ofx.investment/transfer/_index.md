@@ -1,7 +1,7 @@
 ---
 title: Transfer
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment transfer class.
 type: docs
 weight: 3570
 url: /net/aspose.finance.ofx.investment/transfer/

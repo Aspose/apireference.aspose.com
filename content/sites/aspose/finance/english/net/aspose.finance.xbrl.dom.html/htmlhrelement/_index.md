@@ -1,7 +1,7 @@
 ---
 title: HTMLHRElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class represents a horizontal rule. See the HR element definition in HTML 4.01.
 type: docs
 weight: 6890
 url: /net/aspose.finance.xbrl.dom.html/htmlhrelement/

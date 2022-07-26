@@ -1,7 +1,7 @@
 ---
 title: ChallengeTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ChallengeTransactionRequestaspose.finance.ofx.signon/challengetransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.signon/challengetransactionrequest/challengetransactionrequest/

@@ -1,7 +1,7 @@
 ---
 title: InterTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of InterTransactionResponseaspose.finance.ofx.intertransfer/intertransactionresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.intertransfer/intertransactionresponse/intertransactionresponse/

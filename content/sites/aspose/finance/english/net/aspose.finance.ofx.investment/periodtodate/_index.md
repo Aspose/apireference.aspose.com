@@ -1,7 +1,7 @@
 ---
 title: PeriodToDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The contributions to date for period.
 type: docs
 weight: 3360
 url: /net/aspose.finance.ofx.investment/periodtodate/

@@ -1,7 +1,7 @@
 ---
 title: Invoice
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Invoiceaspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice/

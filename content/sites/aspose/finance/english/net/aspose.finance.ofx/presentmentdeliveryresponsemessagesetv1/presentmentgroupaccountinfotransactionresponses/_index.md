@@ -1,7 +1,7 @@
 ---
 title: PresentmentGroupAccountInfoTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PresentmentGroupAccountInfoTransactionResponseaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentgroupaccountinfotransactionresponses/

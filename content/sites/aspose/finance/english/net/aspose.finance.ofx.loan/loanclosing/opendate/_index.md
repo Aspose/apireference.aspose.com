@@ -1,7 +1,7 @@
 ---
 title: OpenDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the opening statement date.
 type: docs
 weight: 190
 url: /net/aspose.finance.ofx.loan/loanclosing/opendate/

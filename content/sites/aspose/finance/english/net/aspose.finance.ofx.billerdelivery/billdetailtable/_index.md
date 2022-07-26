@@ -1,7 +1,7 @@
 ---
 title: BillDetailTable
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The bill detail table allows billers to send tabular data to the customer in a flexible way. The table might contain phone calls from a telephone bill or electrical meter readings for a utility bill.
 type: docs
 weight: 1420
 url: /net/aspose.finance.ofx.billerdelivery/billdetailtable/

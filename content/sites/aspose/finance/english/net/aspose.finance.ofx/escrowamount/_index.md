@@ -1,7 +1,7 @@
 ---
 title: EscrowAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Escrow amount class.
 type: docs
 weight: 2240
 url: /net/aspose.finance.ofx/escrowamount/

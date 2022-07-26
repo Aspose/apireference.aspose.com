@@ -1,7 +1,7 @@
 ---
 title: State
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the state.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx/accountholdertype/state/

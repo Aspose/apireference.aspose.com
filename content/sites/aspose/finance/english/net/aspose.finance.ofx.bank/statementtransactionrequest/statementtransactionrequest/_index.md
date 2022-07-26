@@ -1,7 +1,7 @@
 ---
 title: StatementTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of StatementTransactionRequestaspose.finance.ofx.bank/statementtransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.bank/statementtransactionrequest/statementtransactionrequest/

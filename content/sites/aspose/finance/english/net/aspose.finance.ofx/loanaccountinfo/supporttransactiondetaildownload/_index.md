@@ -1,7 +1,7 @@
 ---
 title: SupportTransactionDetailDownload
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: If account supports transaction detail downloads yes if it is balance-only no.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx/loanaccountinfo/supporttransactiondetaildownload/

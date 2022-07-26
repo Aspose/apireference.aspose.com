@@ -1,7 +1,7 @@
 ---
 title: RemoveNamedItemNS
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Removes a attribute specified by local name and namespace URI.
 type: docs
 weight: 70
 url: /net/aspose.finance.xbrl.dom/namednodemap/removenameditemns/
@@ -19,7 +19,7 @@ public Attr RemoveNamedItemNS(string namespaceUri, string localName)
 | namespaceUri | String | The attribute namespace URI. |
 | localName | String | The attribure local name. |
 
-## Return Value
+### Return Value
 
 The removed attribute.
 

@@ -1,7 +1,7 @@
 ---
 title: Investment401kSourceEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: For 401k accounts source of money type enum.
 type: docs
 weight: 3620
 url: /net/aspose.finance.ofx/investment401ksourceenum/
@@ -14,7 +14,7 @@ For 401(k) accounts, source of money type enum.
 public enum Investment401kSourceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

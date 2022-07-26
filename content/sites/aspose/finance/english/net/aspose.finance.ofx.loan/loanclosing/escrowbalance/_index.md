@@ -1,7 +1,7 @@
 ---
 title: EscrowBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the EscrowBalanceaspose.finance.ofx.loan/loanclosing/escrowbalance.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.loan/loanclosing/escrowbalance/

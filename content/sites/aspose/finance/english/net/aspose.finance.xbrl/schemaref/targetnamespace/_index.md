@@ -1,7 +1,7 @@
 ---
 title: TargetNamespace
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the target namespace of the schema.
 type: docs
 weight: 80
 url: /net/aspose.finance.xbrl/schemaref/targetnamespace/

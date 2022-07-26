@@ -1,7 +1,7 @@
 ---
 title: ServiceAction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ServiceAddaspose.finance.ofx.signup/serviceadd or ServiceChangeaspose.finance.ofx.signup/servicechange or ServiceDeleteaspose.finance.ofx.signup/servicedelete.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.signup/accountresponse/serviceaction/

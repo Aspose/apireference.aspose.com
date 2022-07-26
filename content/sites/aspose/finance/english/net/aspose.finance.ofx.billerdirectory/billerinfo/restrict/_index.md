@@ -1,7 +1,7 @@
 ---
 title: Restrict
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the human-readable description of any restrictions on who may sign up with this biller.
 type: docs
 weight: 180
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/restrict/

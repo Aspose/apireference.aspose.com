@@ -1,7 +1,7 @@
 ---
 title: BillPubInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of BillPubInfoaspose.finance.ofx.billpay/billpubinfo class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/billpubinfo/billpubinfo/

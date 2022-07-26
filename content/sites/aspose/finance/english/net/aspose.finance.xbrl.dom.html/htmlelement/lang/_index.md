@@ -1,7 +1,7 @@
 ---
 title: Lang
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the language code defined in RFC 1766. See the lang attribute definition in HTML 4.01.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl.dom.html/htmlelement/lang/

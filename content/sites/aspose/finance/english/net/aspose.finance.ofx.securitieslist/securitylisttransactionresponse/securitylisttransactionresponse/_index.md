@@ -1,7 +1,7 @@
 ---
 title: SecurityListTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of SecurityListTransactionResponseaspose.finance.ofx.securitieslist/securitylisttransactionresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.securitieslist/securitylisttransactionresponse/securitylisttransactionresponse/

@@ -1,7 +1,7 @@
 ---
 title: AbstractTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class for transaction response related classes.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx/abstracttransactionresponse/

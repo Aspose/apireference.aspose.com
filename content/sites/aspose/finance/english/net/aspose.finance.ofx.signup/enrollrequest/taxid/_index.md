@@ -1,7 +1,7 @@
 ---
 title: TaxId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ID used for tax purposes such as SSN may be same as user ID.
 type: docs
 weight: 180
 url: /net/aspose.finance.ofx.signup/enrollrequest/taxid/

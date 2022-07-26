@@ -1,7 +1,7 @@
 ---
 title: StrikePrice
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the strike price.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.securitieslist/optioninfo/strikeprice/

@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets and sets XbrlInstanceaspose.finance.xbrl/xbrlinstance item at the specified index in the collection.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/xbrlinstancecollection/item/
@@ -18,7 +18,7 @@ public XbrlInstance this[int index] { get; set; }
 | --- | --- |
 | index | The zero based index of the element. |
 
-## Return Value
+### Return Value
 
 The element at the specified index.
 

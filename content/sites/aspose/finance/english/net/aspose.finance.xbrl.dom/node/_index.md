@@ -1,7 +1,7 @@
 ---
 title: Node
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The Node class is the primary datatype for the entire Document object Model. It represents a single node in the document tree.
 type: docs
 weight: 7430
 url: /net/aspose.finance.xbrl.dom/node/
@@ -43,16 +43,16 @@ public abstract class Node
 | [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | Removes the child node indicated by old child from the list of children. |
 | [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | Replaces the child node old child with new child in the list of children, and returns the old child node. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [COMMENT_NODE](comment_node) | Comment node type. |
-| const [DOCUMENT_NODE](document_node) | Document node type. |
-| const [DOCUMENT_TYPE_NODE](document_type_node) | Document type node type. |
-| const [ELEMENT_NODE](element_node) | Element node type. |
-| const [PROCESSING_INSTRUCTION_NODE](processing_instruction_node) | Processing instruction node type. |
-| const [TEXT_NODE](text_node) | Text node type. |
+| const [COMMENT_NODE](../../aspose.finance.xbrl.dom/node/comment_node) | Comment node type. |
+| const [DOCUMENT_NODE](../../aspose.finance.xbrl.dom/node/document_node) | Document node type. |
+| const [DOCUMENT_TYPE_NODE](../../aspose.finance.xbrl.dom/node/document_type_node) | Document type node type. |
+| const [ELEMENT_NODE](../../aspose.finance.xbrl.dom/node/element_node) | Element node type. |
+| const [PROCESSING_INSTRUCTION_NODE](../../aspose.finance.xbrl.dom/node/processing_instruction_node) | Processing instruction node type. |
+| const [TEXT_NODE](../../aspose.finance.xbrl.dom/node/text_node) | Text node type. |
 
 ### See Also
 

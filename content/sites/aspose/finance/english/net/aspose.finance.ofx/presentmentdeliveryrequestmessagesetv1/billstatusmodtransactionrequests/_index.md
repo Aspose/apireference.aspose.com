@@ -1,7 +1,7 @@
 ---
 title: BillStatusModTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of BillStatusModTransactionRequestaspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billstatusmodtransactionrequests/

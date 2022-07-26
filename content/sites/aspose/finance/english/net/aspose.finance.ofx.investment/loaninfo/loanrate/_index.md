@@ -1,7 +1,7 @@
 ---
 title: LoanRate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the loan annual interest rate.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.investment/loaninfo/loanrate/

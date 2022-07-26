@@ -1,7 +1,7 @@
 ---
 title: GetFromLocs
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of from Locaspose.finance.xbrl/loc in the DefinitionArcaspose.finance.xbrl/definitionarc.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/definitionarc/getfromlocs/
@@ -14,7 +14,7 @@ Gets the collection of from [`Loc`](../../loc) in the [`DefinitionArc`](../../de
 public List<Loc> GetFromLocs()
 ```
 
-## Return Value
+### Return Value
 
 The collection of from [`Loc`](../../loc).
 

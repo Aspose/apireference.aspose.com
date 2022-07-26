@@ -1,7 +1,7 @@
 ---
 title: BankMailTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of BankMailTransactionRequestaspose.finance.ofx.bank/bankmailtransactionrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/bankmailsyncrequest/bankmailtransactionrequests/

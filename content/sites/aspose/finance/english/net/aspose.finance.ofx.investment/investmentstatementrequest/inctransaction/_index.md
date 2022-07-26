@@ -1,7 +1,7 @@
 ---
 title: IncTransaction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the IncTransactionaspose.finance.ofx.investment/investmentstatementrequest/inctransaction.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/investmentstatementrequest/inctransaction/

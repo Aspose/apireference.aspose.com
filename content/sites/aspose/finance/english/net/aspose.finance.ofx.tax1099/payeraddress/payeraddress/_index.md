@@ -1,7 +1,7 @@
 ---
 title: PayerAddress
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PayerAddressaspose.finance.ofx.tax1099/payeraddress class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.tax1099/payeraddress/payeraddress/

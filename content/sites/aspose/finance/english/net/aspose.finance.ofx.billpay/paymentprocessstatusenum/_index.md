@@ -1,7 +1,7 @@
 ---
 title: PaymentProcessStatusEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment processing status enum.
 type: docs
 weight: 1200
 url: /net/aspose.finance.ofx.billpay/paymentprocessstatusenum/
@@ -14,7 +14,7 @@ Payment processing status enum.
 public enum PaymentProcessStatusEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

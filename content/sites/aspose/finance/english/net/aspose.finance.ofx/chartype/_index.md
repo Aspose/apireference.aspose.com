@@ -1,7 +1,7 @@
 ---
 title: CharType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Char string type class.
 type: docs
 weight: 1920
 url: /net/aspose.finance.ofx/chartype/

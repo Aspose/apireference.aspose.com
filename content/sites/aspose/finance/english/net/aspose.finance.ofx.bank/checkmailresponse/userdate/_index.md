@@ -1,7 +1,7 @@
 ---
 title: UserDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the customer date on check.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.bank/checkmailresponse/userdate/

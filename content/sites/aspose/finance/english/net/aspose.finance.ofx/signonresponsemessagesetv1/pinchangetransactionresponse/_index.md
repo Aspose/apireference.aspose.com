@@ -1,7 +1,7 @@
 ---
 title: PinChangeTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PinChangeTransactionResponseaspose.finance.ofx.signon/pinchangetransactionresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/signonresponsemessagesetv1/pinchangetransactionresponse/

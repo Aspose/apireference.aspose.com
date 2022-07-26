@@ -1,7 +1,7 @@
 ---
 title: VestInfos
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of VestInfoaspose.finance.ofx.investment/vestinfo.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.investment/investment401k/vestinfos/

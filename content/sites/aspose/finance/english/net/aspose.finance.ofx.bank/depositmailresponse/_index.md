@@ -1,7 +1,7 @@
 ---
 title: DepositMailResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Deposit mail notification message response class. The server returns this response when a deposit has been returned if it receives a banking e-mail synchronization message.
 type: docs
 weight: 420
 url: /net/aspose.finance.ofx.bank/depositmailresponse/

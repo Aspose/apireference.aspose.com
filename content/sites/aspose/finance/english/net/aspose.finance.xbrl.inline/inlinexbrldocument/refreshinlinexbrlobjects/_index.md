@@ -1,7 +1,7 @@
 ---
 title: RefreshInlineXbrlObjects
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: If add update remove Inline Xbrl elements in the DOM tree this method should be called to refresh inline xbrl objects.
 type: docs
 weight: 260
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/refreshinlinexbrlobjects/

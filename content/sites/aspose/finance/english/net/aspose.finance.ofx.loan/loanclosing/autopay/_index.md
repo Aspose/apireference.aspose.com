@@ -1,7 +1,7 @@
 ---
 title: AutoPay
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether automatic payments are setup for this account.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.loan/loanclosing/autopay/

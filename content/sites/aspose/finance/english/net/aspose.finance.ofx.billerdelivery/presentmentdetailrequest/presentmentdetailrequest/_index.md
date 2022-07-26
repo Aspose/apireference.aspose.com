@@ -1,7 +1,7 @@
 ---
 title: PresentmentDetailRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PresentmentDetailRequestaspose.finance.ofx.billerdelivery/presentmentdetailrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdelivery/presentmentdetailrequest/presentmentdetailrequest/

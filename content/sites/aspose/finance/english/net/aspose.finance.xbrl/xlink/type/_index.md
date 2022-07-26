@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the link type.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/xlink/type/

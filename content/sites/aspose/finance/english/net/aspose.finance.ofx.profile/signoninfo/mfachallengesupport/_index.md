@@ -1,7 +1,7 @@
 ---
 title: MFAChallengeSupport
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the server supports MFACHALLENGE functionality.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.profile/signoninfo/mfachallengesupport/

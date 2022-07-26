@@ -1,7 +1,7 @@
 ---
 title: PayeeSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee list synchronization request class.
 type: docs
 weight: 1010
 url: /net/aspose.finance.ofx.billpay/payeesyncrequest/

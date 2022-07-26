@@ -1,7 +1,7 @@
 ---
 title: UniqueId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Unique identifier for the security. CUSIP for US FIs.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/securityid/uniqueid/

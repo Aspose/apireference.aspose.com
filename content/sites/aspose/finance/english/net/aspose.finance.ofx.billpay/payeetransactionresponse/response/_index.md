@@ -1,7 +1,7 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PayeeResponseaspose.finance.ofx.billpay/payeeresponse or PayeeModResponseaspose.finance.ofx.billpay/payeemodresponse or PayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/payeetransactionresponse/response/

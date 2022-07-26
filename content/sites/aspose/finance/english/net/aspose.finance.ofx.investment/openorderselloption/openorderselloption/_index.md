@@ -1,7 +1,7 @@
 ---
 title: OpenOrderSellOption
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of OpenOrderSellOptionaspose.finance.ofx.investment/openorderselloption class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/openorderselloption/openorderselloption/

@@ -1,7 +1,7 @@
 ---
 title: TransferDaysWithdraw
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the number of days before processing date that funds are withdrawn for payment by transfer.
 type: docs
 weight: 190
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/transferdayswithdraw/

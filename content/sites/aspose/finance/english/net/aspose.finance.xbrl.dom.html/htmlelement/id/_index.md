@@ -1,7 +1,7 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the elements identifier. See the id attribute definition in HTML 4.01.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl.dom.html/htmlelement/id/

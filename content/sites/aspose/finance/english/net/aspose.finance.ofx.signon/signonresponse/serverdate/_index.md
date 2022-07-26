@@ -1,7 +1,7 @@
 ---
 title: ServerDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time of the server response.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.signon/signonresponse/serverdate/

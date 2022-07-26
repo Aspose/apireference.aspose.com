@@ -1,7 +1,7 @@
 ---
 title: AddCalculationLinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Add a CalculationLinkbaseRefaspose.finance.xbrl/calculationlinkbaseref to the collection.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/linkbaserefcollection/addcalculationlinkbaseref/

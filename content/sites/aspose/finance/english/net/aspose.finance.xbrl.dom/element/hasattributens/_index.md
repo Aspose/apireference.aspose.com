@@ -1,7 +1,7 @@
 ---
 title: HasAttributeNS
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Returns true when an attribute with a given local name and namespace URI is specified on this element or has a default value false otherwise.
 type: docs
 weight: 120
 url: /net/aspose.finance.xbrl.dom/element/hasattributens/
@@ -19,7 +19,7 @@ public bool HasAttributeNS(string namespaceURI, string localName)
 | namespaceURI | String | The attribute namespace URI. |
 | localName | String | The attribute local name. |
 
-## Return Value
+### Return Value
 
 True if has attribute with the namespace URI and local name; otherwise, false.
 

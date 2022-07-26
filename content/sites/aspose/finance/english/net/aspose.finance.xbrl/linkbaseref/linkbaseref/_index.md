@@ -1,7 +1,7 @@
 ---
 title: LinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of LinkbaseRefaspose.finance.xbrl/linkbaseref class.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/linkbaseref/linkbaseref/

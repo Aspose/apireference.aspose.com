@@ -1,7 +1,7 @@
 ---
 title: HTMLUnknownElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents the Unknown html elements.
 type: docs
 weight: 7280
 url: /net/aspose.finance.xbrl.dom.html/htmlunknownelement/

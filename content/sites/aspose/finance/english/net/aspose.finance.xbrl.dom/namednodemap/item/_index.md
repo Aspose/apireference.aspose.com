@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the attribute with the specified name.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.dom/namednodemap/item/
@@ -18,7 +18,7 @@ public Attr this[string name] { get; }
 | --- | --- |
 | name | The attribute name. |
 
-## Return Value
+### Return Value
 
 The attribute with the name.
 
@@ -43,7 +43,7 @@ public Attr this[int index] { get; }
 | --- | --- |
 | index | The zero based index of the attribute. |
 
-## Return Value
+### Return Value
 
 The attribute at the specified index.
 

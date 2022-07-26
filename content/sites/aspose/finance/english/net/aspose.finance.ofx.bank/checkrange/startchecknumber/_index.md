@@ -1,7 +1,7 @@
 ---
 title: StartCheckNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the start check number to cancel.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/checkrange/startchecknumber/

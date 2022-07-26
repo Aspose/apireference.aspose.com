@@ -1,7 +1,7 @@
 ---
 title: RemoveAttribute
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Removes an attribute by name.
 type: docs
 weight: 130
 url: /net/aspose.finance.xbrl.dom/element/removeattribute/
@@ -18,7 +18,7 @@ public bool RemoveAttribute(string name)
 | --- | --- | --- |
 | name | String | The attribute name. |
 
-## Return Value
+### Return Value
 
 True if find and remove the attribute, otherwise false.
 

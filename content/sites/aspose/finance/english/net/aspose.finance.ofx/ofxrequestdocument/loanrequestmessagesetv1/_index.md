@@ -1,7 +1,7 @@
 ---
 title: LoanRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the LoanRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/loanrequestmessagesetv1.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx/ofxrequestdocument/loanrequestmessagesetv1/

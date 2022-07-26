@@ -1,7 +1,7 @@
 ---
 title: GetContextById
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the context which has the specified id.
 type: docs
 weight: 190
 url: /net/aspose.finance.xbrl/xbrlinstance/getcontextbyid/
@@ -18,7 +18,7 @@ public Context GetContextById(string id)
 | --- | --- | --- |
 | id | String | Context id |
 
-## Return Value
+### Return Value
 
 The context.
 

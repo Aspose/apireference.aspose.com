@@ -1,7 +1,7 @@
 ---
 title: PresentmentAccount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class uniquely identifies a customers account with a biller by the combination of bill publisher biller ID and account number.
 type: docs
 weight: 4270
 url: /net/aspose.finance.ofx/presentmentaccount/

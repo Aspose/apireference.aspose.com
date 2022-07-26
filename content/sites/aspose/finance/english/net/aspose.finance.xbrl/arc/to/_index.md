@@ -1,7 +1,7 @@
 ---
 title: To
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the to label of the arc.
 type: docs
 weight: 90
 url: /net/aspose.finance.xbrl/arc/to/

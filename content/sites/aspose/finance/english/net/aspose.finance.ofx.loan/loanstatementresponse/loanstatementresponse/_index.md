@@ -1,7 +1,7 @@
 ---
 title: LoanStatementResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of LoanStatementResponseaspose.finance.ofx.loan/loanstatementresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.loan/loanstatementresponse/loanstatementresponse/

@@ -1,7 +1,7 @@
 ---
 title: BillTableStructureResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the BillTableStructureResponseaspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructureresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructureresponse/

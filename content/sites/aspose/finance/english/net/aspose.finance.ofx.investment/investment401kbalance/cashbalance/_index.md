@@ -1,7 +1,7 @@
 ---
 title: CashBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the cash balance available for the 401k account.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/investment401kbalance/cashbalance/

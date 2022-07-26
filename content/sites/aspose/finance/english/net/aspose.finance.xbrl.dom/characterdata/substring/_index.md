@@ -1,7 +1,7 @@
 ---
 title: Substring
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Extracts a range of data from the node.
 type: docs
 weight: 70
 url: /net/aspose.finance.xbrl.dom/characterdata/substring/

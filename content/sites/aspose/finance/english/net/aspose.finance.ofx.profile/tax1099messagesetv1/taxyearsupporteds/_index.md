@@ -1,7 +1,7 @@
 ---
 title: TaxYearSupporteds
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets years supported for 1099 download for this server.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.profile/tax1099messagesetv1/taxyearsupporteds/

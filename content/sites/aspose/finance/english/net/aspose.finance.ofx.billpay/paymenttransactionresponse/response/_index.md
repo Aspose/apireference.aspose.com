@@ -1,7 +1,7 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PaymentResponseaspose.finance.ofx.billpay/paymentresponse or PaymentModResponseaspose.finance.ofx.billpay/paymentmodresponse or PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/paymenttransactionresponse/response/

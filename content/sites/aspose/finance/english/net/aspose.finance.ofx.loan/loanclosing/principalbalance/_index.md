@@ -1,7 +1,7 @@
 ---
 title: PrincipalBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PrincipalBalanceTypeaspose.finance.ofx/principalbalancetype.
 type: docs
 weight: 230
 url: /net/aspose.finance.ofx.loan/loanclosing/principalbalance/

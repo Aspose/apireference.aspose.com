@@ -1,7 +1,7 @@
 ---
 title: StateIdNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payer state identification number.
 type: docs
 weight: 190
 url: /net/aspose.finance.ofx.tax1099/tax1099oid_v100/stateidnumber/

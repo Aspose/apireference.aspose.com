@@ -1,7 +1,7 @@
 ---
 title: MFAPhraseLabel
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the textual challenge question. This should be as appropriate as possible for display to the user.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.signon/mfachallenge/mfaphraselabel/

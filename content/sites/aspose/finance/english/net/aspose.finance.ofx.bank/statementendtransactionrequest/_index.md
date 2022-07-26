@@ -1,7 +1,7 @@
 ---
 title: StatementEndTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Closing statement transaction request class.
 type: docs
 weight: 650
 url: /net/aspose.finance.ofx.bank/statementendtransactionrequest/

@@ -1,7 +1,7 @@
 ---
 title: ImageTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of ImageTransactionRequestaspose.finance.ofx.image/imagetransactionrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/imagerequestmessagesetv1/imagetransactionrequests/

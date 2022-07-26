@@ -1,7 +1,7 @@
 ---
 title: CanNotify
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server returns DepositMailResponse or CheckMailResponse in synchronization responses.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/emailprofile/cannotify/

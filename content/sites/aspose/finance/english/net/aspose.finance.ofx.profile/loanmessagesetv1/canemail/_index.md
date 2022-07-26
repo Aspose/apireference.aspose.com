@@ -1,7 +1,7 @@
 ---
 title: CanEmail
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether supports generalized loan e-mail.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/loanmessagesetv1/canemail/

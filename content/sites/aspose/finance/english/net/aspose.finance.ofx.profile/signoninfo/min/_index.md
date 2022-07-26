@@ -1,7 +1,7 @@
 ---
 title: Min
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the minimum number of password characters.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.profile/signoninfo/min/

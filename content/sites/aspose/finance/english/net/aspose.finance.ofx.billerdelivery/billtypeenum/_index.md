@@ -1,7 +1,7 @@
 ---
 title: BillTypeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill type enum.
 type: docs
 weight: 1570
 url: /net/aspose.finance.ofx.billerdelivery/billtypeenum/
@@ -14,7 +14,7 @@ Bill type enum.
 public enum BillTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

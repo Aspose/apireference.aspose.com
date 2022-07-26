@@ -1,7 +1,7 @@
 ---
 title: SaleDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date of sale.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/saledate/

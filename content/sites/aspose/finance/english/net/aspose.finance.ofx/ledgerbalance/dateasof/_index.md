@@ -1,7 +1,7 @@
 ---
 title: DateAsOf
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the balance date.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/ledgerbalance/dateasof/

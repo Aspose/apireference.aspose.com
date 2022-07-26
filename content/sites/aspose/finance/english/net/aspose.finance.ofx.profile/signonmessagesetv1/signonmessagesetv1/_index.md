@@ -1,7 +1,7 @@
 ---
 title: SignonMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of SignonMessageSetV1aspose.finance.ofx.profile/signonmessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/signonmessagesetv1/signonmessagesetv1/

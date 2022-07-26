@@ -1,7 +1,7 @@
 ---
 title: PresentmentMailTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PresentmentMailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentmailtransactionrequests/

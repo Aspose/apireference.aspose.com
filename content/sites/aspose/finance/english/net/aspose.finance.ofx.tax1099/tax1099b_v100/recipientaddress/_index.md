@@ -1,7 +1,7 @@
 ---
 title: RecipientAddress
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the RecipientAddressaspose.finance.ofx.tax1099/tax1099b_v100/recipientaddress.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/recipientaddress/

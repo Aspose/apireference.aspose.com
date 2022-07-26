@@ -1,7 +1,7 @@
 ---
 title: PostEndDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the end date of transaction data for this statement.
 type: docs
 weight: 210
 url: /net/aspose.finance.ofx.loan/loanclosing/postenddate/

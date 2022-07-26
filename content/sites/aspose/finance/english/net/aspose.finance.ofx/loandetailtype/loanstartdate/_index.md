@@ -1,7 +1,7 @@
 ---
 title: LoanStartDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the start date of loan.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/loandetailtype/loanstartdate/

@@ -1,7 +1,7 @@
 ---
 title: AccessTokenRequire
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the server requires ACCESSTOKEN for all requests except profile.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/signoninfo/accesstokenrequire/

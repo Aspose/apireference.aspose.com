@@ -1,7 +1,7 @@
 ---
 title: HTMLObjectElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents generic embedded object.In principle all properties on the object element are read-write but in some environments some properties may be read-only once the underlying object is instantiated. See the OBJECT element definition in HTML 4.01.
 type: docs
 weight: 7070
 url: /net/aspose.finance.xbrl.dom.html/htmlobjectelement/

@@ -1,7 +1,7 @@
 ---
 title: StatusModByEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Status modified by enum.
 type: docs
 weight: 1840
 url: /net/aspose.finance.ofx.billerdelivery/statusmodbyenum/
@@ -14,7 +14,7 @@ Status modified by enum.
 public enum StatusModByEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

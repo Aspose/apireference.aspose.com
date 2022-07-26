@@ -1,7 +1,7 @@
 ---
 title: MessageType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Message string type class.
 type: docs
 weight: 4160
 url: /net/aspose.finance.ofx/messagetype/

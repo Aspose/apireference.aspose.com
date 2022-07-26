@@ -1,7 +1,7 @@
 ---
 title: Code
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Represenets custom exception code.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/ofxexception/code/

@@ -1,7 +1,7 @@
 ---
 title: GenerateUserKey
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether request server to return a USERKEY for future use
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.signon/signonrequest/generateuserkey/

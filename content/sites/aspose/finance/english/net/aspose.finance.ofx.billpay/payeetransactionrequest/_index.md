@@ -1,7 +1,7 @@
 ---
 title: PayeeTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee transaction request class.
 type: docs
 weight: 1030
 url: /net/aspose.finance.ofx.billpay/payeetransactionrequest/

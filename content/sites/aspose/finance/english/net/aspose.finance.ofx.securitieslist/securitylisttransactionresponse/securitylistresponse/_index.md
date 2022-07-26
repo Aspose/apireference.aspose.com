@@ -1,7 +1,7 @@
 ---
 title: SecurityListResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the security list response.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.securitieslist/securitylisttransactionresponse/securitylistresponse/

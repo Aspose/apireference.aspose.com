@@ -1,7 +1,7 @@
 ---
 title: IraSepSimp
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the IRA/SEP/SIMPLE.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/irasepsimp/

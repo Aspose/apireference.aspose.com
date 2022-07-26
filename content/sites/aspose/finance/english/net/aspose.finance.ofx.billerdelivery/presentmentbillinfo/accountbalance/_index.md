@@ -1,7 +1,7 @@
 ---
 title: AccountBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the balance of the account at the end of the current period.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/accountbalance/

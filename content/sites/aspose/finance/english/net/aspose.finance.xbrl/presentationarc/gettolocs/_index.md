@@ -1,7 +1,7 @@
 ---
 title: GetToLocs
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of to Locaspose.finance.xbrl/loc in the PresentationArcaspose.finance.xbrl/presentationarc.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/presentationarc/gettolocs/
@@ -14,7 +14,7 @@ Gets the collection of to [`Loc`](../../loc) in the [`PresentationArc`](../../pr
 public List<Loc> GetToLocs()
 ```
 
-## Return Value
+### Return Value
 
 The collection of to [`Loc`](../../loc).
 

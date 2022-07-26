@@ -1,7 +1,7 @@
 ---
 title: PostProcessWindow
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the number of days after a transaction is processed that it is accessible for status inquiries.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/postprocesswindow/

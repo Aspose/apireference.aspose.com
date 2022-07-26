@@ -1,7 +1,7 @@
 ---
 title: ServerTransactionId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the server assigned transaction ID.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.loan/loanstatementtransaction/servertransactionid/

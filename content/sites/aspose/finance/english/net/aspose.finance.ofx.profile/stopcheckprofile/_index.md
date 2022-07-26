@@ -1,7 +1,7 @@
 ---
 title: StopCheckProfile
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Stop check profile class.
 type: docs
 weight: 4820
 url: /net/aspose.finance.ofx.profile/stopcheckprofile/

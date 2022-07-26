@@ -1,7 +1,7 @@
 ---
 title: GetToRefereces
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of to Referenceaspose.finance.xbrl/reference in the ReferenceArcaspose.finance.xbrl/referencearc.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/referencearc/gettorefereces/
@@ -14,7 +14,7 @@ Gets the collection of to [`Reference`](../../reference) in the [`ReferenceArc`]
 public List<Reference> GetToRefereces()
 ```
 
-## Return Value
+### Return Value
 
 The collection of to [`Reference`](../../reference).
 

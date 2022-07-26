@@ -1,7 +1,7 @@
 ---
 title: ReferenceNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the reference number if any for the transaction.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx/pendingtransaction/referencenumber/

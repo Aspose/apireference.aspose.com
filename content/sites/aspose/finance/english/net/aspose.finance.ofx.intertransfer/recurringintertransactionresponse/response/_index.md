@@ -1,7 +1,7 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the RecurringInterResponseaspose.finance.ofx.intertransfer/recurringinterresponse or RecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponse or RecurringInterCancellationResponseaspose.finance.ofx.intertransfer/recurringintercancellationresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.intertransfer/recurringintertransactionresponse/response/

@@ -1,7 +1,7 @@
 ---
 title: SecurityListMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the SecurityListMessageSetV1aspose.finance.ofx.profile/securitylistmessageset/securitylistmessagesetv1.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/securitylistmessageset/securitylistmessagesetv1/

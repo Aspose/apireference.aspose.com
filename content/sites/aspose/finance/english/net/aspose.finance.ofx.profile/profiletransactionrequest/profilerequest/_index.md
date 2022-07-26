@@ -1,7 +1,7 @@
 ---
 title: ProfileRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ProfileRequestaspose.finance.ofx.profile/profiletransactionrequest/profilerequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/profiletransactionrequest/profilerequest/

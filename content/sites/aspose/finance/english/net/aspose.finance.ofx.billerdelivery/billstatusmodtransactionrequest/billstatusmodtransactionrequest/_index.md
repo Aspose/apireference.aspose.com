@@ -1,7 +1,7 @@
 ---
 title: BillStatusModTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of BillStatusModTransactionRequestaspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodtransactionrequest/

@@ -1,7 +1,7 @@
 ---
 title: LoanInitialNumberPayments
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the initial number of loan payments.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/loandetailtype/loaninitialnumberpayments/

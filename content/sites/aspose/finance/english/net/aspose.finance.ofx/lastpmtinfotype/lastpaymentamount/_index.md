@@ -1,7 +1,7 @@
 ---
 title: LastPaymentAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the amount of payment received for the account.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/lastpmtinfotype/lastpaymentamount/

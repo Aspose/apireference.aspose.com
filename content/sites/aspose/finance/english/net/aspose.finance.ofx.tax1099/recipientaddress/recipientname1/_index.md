@@ -1,7 +1,7 @@
 ---
 title: RecipientName1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of recipient line 1.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.tax1099/recipientaddress/recipientname1/

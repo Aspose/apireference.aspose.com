@@ -1,7 +1,7 @@
 ---
 title: Resource
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The base abstract class of Xlink with Resource type.
 type: docs
 weight: 7960
 url: /net/aspose.finance.xbrl/resource/

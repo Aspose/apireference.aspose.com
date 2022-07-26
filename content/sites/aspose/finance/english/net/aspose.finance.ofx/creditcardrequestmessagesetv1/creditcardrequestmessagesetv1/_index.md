@@ -1,7 +1,7 @@
 ---
 title: CreditcardRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of CreditcardRequestMessageSetV1aspose.finance.ofx/creditcardrequestmessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardrequestmessagesetv1/

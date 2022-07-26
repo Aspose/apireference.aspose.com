@@ -1,7 +1,7 @@
 ---
 title: MessageSets
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of message set which is based on AbstractMessageSetaspose.finance.ofx.profile/abstractmessageset.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/messagesetlist/messagesets/

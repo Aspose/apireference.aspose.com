@@ -1,7 +1,7 @@
 ---
 title: OfxElementType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Ofx custom element class.
 type: docs
 weight: 4170
 url: /net/aspose.finance.ofx/ofxelementtype/

@@ -1,7 +1,7 @@
 ---
 title: ProcessingEndTime
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the time of day that days processing ends.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.profile/stopcheckprofile/processingendtime/

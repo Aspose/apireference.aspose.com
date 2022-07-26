@@ -1,7 +1,7 @@
 ---
 title: PresentmentNameAddress
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Customer information with the biller.
 type: docs
 weight: 4330
 url: /net/aspose.finance.ofx/presentmentnameaddress/

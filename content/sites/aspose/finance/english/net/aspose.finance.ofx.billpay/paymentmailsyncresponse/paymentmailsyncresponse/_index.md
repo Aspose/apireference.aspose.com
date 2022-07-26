@@ -1,7 +1,7 @@
 ---
 title: PaymentMailSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PaymentMailSyncResponseaspose.finance.ofx.billpay/paymentmailsyncresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/paymentmailsyncresponse/paymentmailsyncresponse/

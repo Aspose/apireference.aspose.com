@@ -1,7 +1,7 @@
 ---
 title: PaymentCancelResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment cancellation response class.
 type: docs
 weight: 1060
 url: /net/aspose.finance.ofx.billpay/paymentcancelresponse/

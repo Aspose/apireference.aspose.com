@@ -1,7 +1,7 @@
 ---
 title: PaymentMailSyncRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PaymentMailSyncRequestaspose.finance.ofx.billpay/paymentmailsyncrequest.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailsyncrequests/

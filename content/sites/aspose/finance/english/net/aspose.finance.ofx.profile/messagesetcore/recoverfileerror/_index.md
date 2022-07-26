@@ -1,7 +1,7 @@
 ---
 title: RecoverFileError
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server supports file-based error recovery.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.profile/messagesetcore/recoverfileerror/

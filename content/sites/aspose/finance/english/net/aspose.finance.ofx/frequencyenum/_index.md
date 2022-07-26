@@ -1,7 +1,7 @@
 ---
 title: FrequencyEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Frequency type enum.
 type: docs
 weight: 2250
 url: /net/aspose.finance.ofx/frequencyenum/
@@ -14,7 +14,7 @@ Frequency type enum.
 public enum FrequencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

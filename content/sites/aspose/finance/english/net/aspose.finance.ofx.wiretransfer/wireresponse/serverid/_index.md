@@ -1,7 +1,7 @@
 ---
 title: ServerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the server ID for this transfer.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.wiretransfer/wireresponse/serverid/

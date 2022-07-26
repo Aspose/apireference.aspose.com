@@ -1,7 +1,7 @@
 ---
 title: Prefix
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the prefix of the element.
 type: docs
 weight: 70
 url: /net/aspose.finance.xbrl.dom/element/prefix/

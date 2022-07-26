@@ -1,7 +1,7 @@
 ---
 title: FootnoteRole
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the footnote role of the InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.inline/inlinefootnote/footnoterole/

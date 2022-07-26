@@ -1,7 +1,7 @@
 ---
 title: DefinitionArc
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is a Xlink./xlink with Arc type. It defines various kinds of relationships between Concepts.
 type: docs
 weight: 6590
 url: /net/aspose.finance.xbrl/definitionarc/

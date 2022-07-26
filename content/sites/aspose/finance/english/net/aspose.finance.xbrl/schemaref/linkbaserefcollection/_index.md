@@ -1,7 +1,7 @@
 ---
 title: LinkbaseRefCollection
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the LinkbaseRefCollectionaspose.finance.xbrl/schemaref/linkbaserefcollection in the schema.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/schemaref/linkbaserefcollection/

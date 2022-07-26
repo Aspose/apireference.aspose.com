@@ -1,7 +1,7 @@
 ---
 title: PaymentProcessingStatus
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class contains the current processing status for a payment. This class is intended to describe status changes to the associated payment after creation.
 type: docs
 weight: 1210
 url: /net/aspose.finance.ofx.billpay/paymentprocessingstatus/

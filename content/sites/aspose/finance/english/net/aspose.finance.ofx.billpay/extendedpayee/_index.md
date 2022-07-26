@@ -1,7 +1,7 @@
 ---
 title: ExtendedPayee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class communicates a payee identifier to the client. It also contains the processing day parameters for a payee.It can be sent to the client for any payee whose processing day parameters are different from the processors default values even for payees with no payeeid.
 type: docs
 weight: 900
 url: /net/aspose.finance.ofx.billpay/extendedpayee/

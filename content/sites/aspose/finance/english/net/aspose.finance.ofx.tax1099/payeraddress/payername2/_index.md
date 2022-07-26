@@ -1,7 +1,7 @@
 ---
 title: PayerName2
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of payer line 2.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.tax1099/payeraddress/payername2/

@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the count of Bills with the given bill payment status code.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billerdelivery/billpaymentstatuscounts/count/

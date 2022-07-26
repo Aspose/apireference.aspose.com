@@ -1,12 +1,12 @@
 ---
 title: ExportToXbrl
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Export to xbrl file.
 type: docs
 weight: 160
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/exporttoxbrl/
 ---
-## InlineXbrlDocument.ExportToXbrl method (1 of 3)
+## ExportToXbrl(string) {#exporttoxbrl_2}
 
 Export to xbrl file.
 
@@ -26,7 +26,7 @@ public void ExportToXbrl(string fileName)
 
 ---
 
-## InlineXbrlDocument.ExportToXbrl method (2 of 3)
+## ExportToXbrl(Stream) {#exporttoxbrl_1}
 
 Export to xbrl stream.
 
@@ -46,7 +46,7 @@ public void ExportToXbrl(Stream stream)
 
 ---
 
-## InlineXbrlDocument.ExportToXbrl method (3 of 3)
+## ExportToXbrl() {#exporttoxbrl}
 
 Export to XbrlDocument object.
 
@@ -54,7 +54,7 @@ Export to XbrlDocument object.
 public XbrlDocument ExportToXbrl()
 ```
 
-## Return Value
+### Return Value
 
 The XbrlDocument object.
 

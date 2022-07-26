@@ -1,7 +1,7 @@
 ---
 title: SecurityId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the SecurityIdaspose.finance.ofx.investment/openorderswitchmutualfund/securityid.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/openorderswitchmutualfund/securityid/

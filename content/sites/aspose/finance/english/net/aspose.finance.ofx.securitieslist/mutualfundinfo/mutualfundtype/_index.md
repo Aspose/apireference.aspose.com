@@ -1,7 +1,7 @@
 ---
 title: MutualFundType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the mutual fund type.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundtype/

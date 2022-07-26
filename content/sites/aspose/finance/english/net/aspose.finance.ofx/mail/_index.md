@@ -1,7 +1,7 @@
 ---
 title: Mail
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Mail class.
 type: docs
 weight: 4150
 url: /net/aspose.finance.ofx/mail/

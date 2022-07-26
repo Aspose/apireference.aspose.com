@@ -1,7 +1,7 @@
 ---
 title: NodeList
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The list of node.
 type: docs
 weight: 7440
 url: /net/aspose.finance.xbrl.dom/nodelist/

@@ -1,7 +1,7 @@
 ---
 title: PriorYearContribution
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether this Buy was made with a prior year contribution for 401k accounts.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.investment/investmentbuy/prioryearcontribution/

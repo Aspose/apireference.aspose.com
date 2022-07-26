@@ -1,7 +1,7 @@
 ---
 title: StateWithholding
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the used for withholdings for state taxes on a withdrawal.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.investment/investmentsell/statewithholding/

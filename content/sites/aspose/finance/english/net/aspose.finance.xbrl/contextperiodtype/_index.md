@@ -1,7 +1,7 @@
 ---
 title: ContextPeriodType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: ContextPeriod./contextperiod type enum.
 type: docs
 weight: 6570
 url: /net/aspose.finance.xbrl/contextperiodtype/
@@ -14,7 +14,7 @@ url: /net/aspose.finance.xbrl/contextperiodtype/
 public enum ContextPeriodType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

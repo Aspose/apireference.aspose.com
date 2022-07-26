@@ -1,7 +1,7 @@
 ---
 title: IsAbstract
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Get or sets whether this concept is abstract.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/concept/isabstract/

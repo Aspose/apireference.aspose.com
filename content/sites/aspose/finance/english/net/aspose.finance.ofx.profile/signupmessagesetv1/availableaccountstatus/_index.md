@@ -1,7 +1,7 @@
 ---
 title: AvailableAccountStatus
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: True if server can provide information on accounts with SVCSTATUS available False means client should expect to ask user for specific account information.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/signupmessagesetv1/availableaccountstatus/

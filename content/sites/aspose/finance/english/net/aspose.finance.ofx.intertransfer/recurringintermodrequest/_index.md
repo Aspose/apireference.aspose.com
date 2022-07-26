@@ -1,7 +1,7 @@
 ---
 title: RecurringInterModRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Recurring Interbank modification request class.
 type: docs
 weight: 2510
 url: /net/aspose.finance.ofx.intertransfer/recurringintermodrequest/

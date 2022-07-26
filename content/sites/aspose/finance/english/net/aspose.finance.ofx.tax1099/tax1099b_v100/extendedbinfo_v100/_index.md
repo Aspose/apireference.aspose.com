@@ -1,7 +1,7 @@
 ---
 title: ExtendedBInfo_V100
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ExtendedBInfo_V100aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100/

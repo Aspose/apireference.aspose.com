@@ -1,9 +1,9 @@
 ---
 title: XbrlInstance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: XBRL instance is XML fragment with root element having a xbrl tag. XBRL instance contains business report facts with each fact corresponding to a Concept./concept defined in their supporting DTS. XBRL instance also contains contexts and units that provide additional information needed to interpret the facts in the instance.
 type: docs
-weight: 8190
+weight: 8200
 url: /net/aspose.finance.xbrl/xbrlinstance/
 ---
 ## XbrlInstance class

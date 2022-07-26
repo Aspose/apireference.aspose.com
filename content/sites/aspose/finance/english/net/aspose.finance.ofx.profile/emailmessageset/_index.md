@@ -1,7 +1,7 @@
 ---
 title: EmailMessageSet
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Email message set.
 type: docs
 weight: 4470
 url: /net/aspose.finance.ofx.profile/emailmessageset/

@@ -1,7 +1,7 @@
 ---
 title: LoanInterest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the loan Interest.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/loanaccountinfo/loaninterest/

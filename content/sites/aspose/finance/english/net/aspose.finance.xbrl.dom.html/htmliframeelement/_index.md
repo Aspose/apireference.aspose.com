@@ -1,7 +1,7 @@
 ---
 title: HTMLIFrameElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents inline subwindows. See the IFRAME element definition in HTML 4.01.
 type: docs
 weight: 6930
 url: /net/aspose.finance.xbrl.dom.html/htmliframeelement/

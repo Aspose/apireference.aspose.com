@@ -1,7 +1,7 @@
 ---
 title: Total
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the sum of earnings from all fund sources.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.investment/earnings/total/

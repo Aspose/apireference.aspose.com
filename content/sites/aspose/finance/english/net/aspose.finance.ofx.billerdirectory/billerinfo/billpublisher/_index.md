@@ -1,7 +1,7 @@
 ---
 title: BillPublisher
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the official standard name of the bill publisher.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/billpublisher/

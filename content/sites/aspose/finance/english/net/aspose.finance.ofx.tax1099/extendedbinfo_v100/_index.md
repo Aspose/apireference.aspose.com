@@ -1,7 +1,7 @@
 ---
 title: ExtendedBInfo_V100
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Extended 1099B information typically found in 1099B broker summary reports.
 type: docs
 weight: 5890
 url: /net/aspose.finance.ofx.tax1099/extendedbinfo_v100/

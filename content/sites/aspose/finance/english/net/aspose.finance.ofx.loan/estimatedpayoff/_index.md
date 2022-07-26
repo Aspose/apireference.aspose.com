@@ -1,7 +1,7 @@
 ---
 title: EstimatedPayoff
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Estimated payoff balance class.
 type: docs
 weight: 3820
 url: /net/aspose.finance.ofx.loan/estimatedpayoff/

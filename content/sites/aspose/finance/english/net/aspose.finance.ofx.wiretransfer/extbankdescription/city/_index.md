@@ -1,7 +1,7 @@
 ---
 title: City
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the banks city.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.wiretransfer/extbankdescription/city/

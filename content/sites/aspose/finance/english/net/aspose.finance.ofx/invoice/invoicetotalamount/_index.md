@@ -1,7 +1,7 @@
 ---
 title: InvoiceTotalAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total invoice amount.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/invoice/invoicetotalamount/

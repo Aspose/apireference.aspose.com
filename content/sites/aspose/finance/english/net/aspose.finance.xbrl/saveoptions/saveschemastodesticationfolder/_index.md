@@ -1,7 +1,7 @@
 ---
 title: SaveSchemasToDesticationFolder
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether copy local schema files to save folder.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/saveoptions/saveschemastodesticationfolder/

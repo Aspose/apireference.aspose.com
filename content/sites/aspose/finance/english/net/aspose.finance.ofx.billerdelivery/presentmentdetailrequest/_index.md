@@ -1,7 +1,7 @@
 ---
 title: PresentmentDetailRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill detail request class.
 type: docs
 weight: 1630
 url: /net/aspose.finance.ofx.billerdelivery/presentmentdetailrequest/

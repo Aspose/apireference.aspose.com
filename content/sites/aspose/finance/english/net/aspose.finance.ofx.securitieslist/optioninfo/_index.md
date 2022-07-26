@@ -1,7 +1,7 @@
 ---
 title: OptionInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Option information class.
 type: docs
 weight: 5090
 url: /net/aspose.finance.ofx.securitieslist/optioninfo/

@@ -1,7 +1,7 @@
 ---
 title: PayeeModResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee modification response class.
 type: docs
 weight: 980
 url: /net/aspose.finance.ofx.billpay/payeemodresponse/

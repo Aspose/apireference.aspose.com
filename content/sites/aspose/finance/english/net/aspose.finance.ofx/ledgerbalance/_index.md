@@ -1,7 +1,7 @@
 ---
 title: LedgerBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Ledger balance class.
 type: docs
 weight: 3720
 url: /net/aspose.finance.ofx/ledgerbalance/

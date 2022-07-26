@@ -1,7 +1,7 @@
 ---
 title: BaseURI
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the absolute base URI of this node or null if the implementation wasnt able to obtain an absolute URI.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.dom/node/baseuri/

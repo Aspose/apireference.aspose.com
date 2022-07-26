@@ -1,7 +1,7 @@
 ---
 title: IntraSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of IntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.bank/intrasyncrequest/intrasyncrequest/

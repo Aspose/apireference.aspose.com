@@ -1,7 +1,7 @@
 ---
 title: LoanStatementResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the LoanStatementResponseaspose.finance.ofx.loan/loanstatementtransactionresponse/loanstatementresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.loan/loanstatementtransactionresponse/loanstatementresponse/

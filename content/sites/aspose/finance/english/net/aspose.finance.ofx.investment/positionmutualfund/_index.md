@@ -1,7 +1,7 @@
 ---
 title: PositionMutualFund
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment position debt class.
 type: docs
 weight: 3380
 url: /net/aspose.finance.ofx.investment/positionmutualfund/

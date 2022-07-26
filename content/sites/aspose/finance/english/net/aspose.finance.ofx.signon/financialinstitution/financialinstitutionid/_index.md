@@ -1,7 +1,7 @@
 ---
 title: FinancialInstitutionId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Financial Institution ID unique within Organization
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signon/financialinstitution/financialinstitutionid/

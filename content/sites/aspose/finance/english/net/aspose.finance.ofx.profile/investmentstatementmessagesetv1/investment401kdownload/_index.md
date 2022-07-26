@@ -1,7 +1,7 @@
 ---
 title: Investment401KDownload
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the FI server downloads 401k account information.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/investment401kdownload/

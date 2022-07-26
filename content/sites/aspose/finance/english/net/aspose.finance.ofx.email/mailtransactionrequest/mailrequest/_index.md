@@ -1,7 +1,7 @@
 ---
 title: MailRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the MailRequestaspose.finance.ofx.email/mailtransactionrequest/mailrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.email/mailtransactionrequest/mailrequest/

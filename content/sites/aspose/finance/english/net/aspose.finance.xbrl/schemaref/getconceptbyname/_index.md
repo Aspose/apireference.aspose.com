@@ -1,7 +1,7 @@
 ---
 title: GetConceptByName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the concept which has the specified name.
 type: docs
 weight: 120
 url: /net/aspose.finance.xbrl/schemaref/getconceptbyname/
@@ -18,7 +18,7 @@ public Concept GetConceptByName(string conceptName)
 | --- | --- | --- |
 | conceptName | String | Concept name. |
 
-## Return Value
+### Return Value
 
 The concept.
 

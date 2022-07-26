@@ -1,7 +1,7 @@
 ---
 title: PaymentMailTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment email transaction response class.
 type: docs
 weight: 1170
 url: /net/aspose.finance.ofx.billpay/paymentmailtransactionresponse/

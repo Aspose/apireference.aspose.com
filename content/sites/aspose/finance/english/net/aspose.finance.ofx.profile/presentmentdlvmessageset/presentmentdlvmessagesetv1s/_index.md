@@ -1,7 +1,7 @@
 ---
 title: PresentmentDlvMessageSetV1s
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PresentmentDlvMessageSetV1aspose.finance.ofx.profile/presentmentdlvmessagesetv1.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessagesetv1s/

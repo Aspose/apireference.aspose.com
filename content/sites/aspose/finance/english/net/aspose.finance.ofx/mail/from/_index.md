@@ -1,7 +1,7 @@
 ---
 title: From
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets who the message is from.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/mail/from/

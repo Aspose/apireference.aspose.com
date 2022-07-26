@@ -1,7 +1,7 @@
 ---
 title: CanScheduled
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether supports scheduled transfers.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/wiretransfermessagesetv1/canscheduled/

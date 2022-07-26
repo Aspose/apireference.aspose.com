@@ -1,7 +1,7 @@
 ---
 title: SetNamedItemNS
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Adds a node using its namespaceURI and localName. If a node with that namespace URI and that local name is already present in this map it is replaced by the new one. Replacing a node by itself has no effect.
 type: docs
 weight: 90
 url: /net/aspose.finance.xbrl.dom/namednodemap/setnameditemns/
@@ -18,7 +18,7 @@ public Attr SetNamedItemNS(Attr item)
 | --- | --- | --- |
 | item | Attr | The attribute. |
 
-## Return Value
+### Return Value
 
 The attribute.
 

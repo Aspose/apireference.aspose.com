@@ -1,7 +1,7 @@
 ---
 title: Currency
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Currency class.
 type: docs
 weight: 2090
 url: /net/aspose.finance.ofx/currency/

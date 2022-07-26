@@ -1,7 +1,7 @@
 ---
 title: MaturityAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the amount at maturity for the CD only applies to CD accounts.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/bankaccountinfo/maturityamount/

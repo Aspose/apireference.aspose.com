@@ -1,7 +1,7 @@
 ---
 title: FindBillerResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Find biller response class.
 type: docs
 weight: 1870
 url: /net/aspose.finance.ofx.billerdirectory/findbillerresponse/

@@ -1,7 +1,7 @@
 ---
 title: AppendChild
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Adds the node newChild to the end of the list of children of this node.
 type: docs
 weight: 170
 url: /net/aspose.finance.xbrl.dom/node/appendchild/

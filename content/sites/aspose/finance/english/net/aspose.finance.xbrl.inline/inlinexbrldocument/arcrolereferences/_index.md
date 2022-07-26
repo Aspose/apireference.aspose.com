@@ -1,7 +1,7 @@
 ---
 title: ArcroleReferences
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of ArcroleReferenceaspose.finance.xbrl/arcrolereference in the inline XBRL document.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/arcrolereferences/

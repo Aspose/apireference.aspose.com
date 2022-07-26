@@ -1,7 +1,7 @@
 ---
 title: InvestmentMailResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the InvestmentMailResponseaspose.finance.ofx.investment/investmentmailtransactionresponse/investmentmailresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investmentmailtransactionresponse/investmentmailresponse/

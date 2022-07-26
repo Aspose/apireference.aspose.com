@@ -1,7 +1,7 @@
 ---
 title: FIMutualFundAssetClass
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the FI defined asset class breakdown for the mutual fund.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.securitieslist/mutualfundinfo/fimutualfundassetclass/

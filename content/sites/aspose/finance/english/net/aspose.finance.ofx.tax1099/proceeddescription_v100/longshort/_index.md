@@ -1,7 +1,7 @@
 ---
 title: LongShort
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the long-short. Indicates the holding period of the sale when the acquisition date should not be used for the term calculation.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/longshort/

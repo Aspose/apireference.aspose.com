@@ -1,7 +1,7 @@
 ---
 title: InvestmentMailRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the InvestmentMailRequestaspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest/

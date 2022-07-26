@@ -1,7 +1,7 @@
 ---
 title: Include
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether to include positions in the statement download.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.investment/incposition/include/

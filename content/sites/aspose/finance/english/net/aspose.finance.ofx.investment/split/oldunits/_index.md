@@ -1,7 +1,7 @@
 ---
 title: OldUnits
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the number of shares before the split for stock splits.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/split/oldunits/

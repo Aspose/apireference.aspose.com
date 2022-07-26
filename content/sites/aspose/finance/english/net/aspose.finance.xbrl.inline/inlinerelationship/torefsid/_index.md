@@ -1,7 +1,7 @@
 ---
 title: ToRefsId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the to reference ids of the InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl.inline/inlinerelationship/torefsid/

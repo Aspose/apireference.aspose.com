@@ -1,7 +1,7 @@
 ---
 title: BANKID
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the bank id. Routing ABA number or S.W.I.F.T. number.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.wiretransfer/extbankdescription/bankid/

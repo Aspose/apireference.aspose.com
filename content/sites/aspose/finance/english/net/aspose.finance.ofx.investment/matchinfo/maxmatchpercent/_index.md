@@ -1,7 +1,7 @@
 ---
 title: MaxMatchPercent
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current maximum employer contribution percentage.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.investment/matchinfo/maxmatchpercent/

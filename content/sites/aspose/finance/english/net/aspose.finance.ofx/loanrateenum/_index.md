@@ -1,7 +1,7 @@
 ---
 title: LoanRateEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Loan rate type enum.
 type: docs
 weight: 4090
 url: /net/aspose.finance.ofx/loanrateenum/
@@ -14,7 +14,7 @@ Loan rate type enum.
 public enum LoanRateEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

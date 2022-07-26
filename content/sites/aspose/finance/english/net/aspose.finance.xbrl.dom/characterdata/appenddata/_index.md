@@ -1,7 +1,7 @@
 ---
 title: AppendData
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Appends the string to the end of the character data of the node.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl.dom/characterdata/appenddata/

@@ -1,7 +1,7 @@
 ---
 title: Concepts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of Conceptaspose.finance.xbrl/concept defined in the schema.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/schemaref/concepts/

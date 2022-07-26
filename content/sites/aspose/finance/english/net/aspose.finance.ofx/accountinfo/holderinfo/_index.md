@@ -1,7 +1,7 @@
 ---
 title: HolderInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the HolderInfoTypeaspose.finance.ofx/holderinfotype.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/accountinfo/holderinfo/

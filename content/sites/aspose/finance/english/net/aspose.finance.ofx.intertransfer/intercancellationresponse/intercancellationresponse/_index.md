@@ -1,7 +1,7 @@
 ---
 title: InterCancellationResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of InterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.intertransfer/intercancellationresponse/intercancellationresponse/

@@ -1,7 +1,7 @@
 ---
 title: PresentmentDlvMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PresentmentDlvMessageSetV1aspose.finance.ofx.profile/presentmentdlvmessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvmessagesetv1/

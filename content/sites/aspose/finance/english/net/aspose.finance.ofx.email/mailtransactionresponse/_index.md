@@ -1,7 +1,7 @@
 ---
 title: MailTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Email message transaction response class.
 type: docs
 weight: 2210
 url: /net/aspose.finance.ofx.email/mailtransactionresponse/

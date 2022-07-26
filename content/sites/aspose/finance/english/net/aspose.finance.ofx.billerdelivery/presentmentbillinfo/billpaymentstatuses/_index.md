@@ -1,7 +1,7 @@
 ---
 title: BillPaymentStatuses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of BillPaymentStatusaspose.finance.ofx.billerdelivery/billpaymentstatus.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/billpaymentstatuses/

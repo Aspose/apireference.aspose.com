@@ -1,7 +1,7 @@
 ---
 title: MutualFundTypeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Mutual fund type enum.
 type: docs
 weight: 5080
 url: /net/aspose.finance.ofx.securitieslist/mutualfundtypeenum/
@@ -14,7 +14,7 @@ Mutual fund type enum.
 public enum MutualFundTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

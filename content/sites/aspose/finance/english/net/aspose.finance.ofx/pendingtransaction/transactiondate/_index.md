@@ -1,7 +1,7 @@
 ---
 title: TransactionDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date transaction was initiated.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx/pendingtransaction/transactiondate/

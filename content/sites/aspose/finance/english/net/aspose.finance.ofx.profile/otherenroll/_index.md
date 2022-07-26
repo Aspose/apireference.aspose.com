@@ -1,7 +1,7 @@
 ---
 title: OtherEnroll
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Some other enrollment process
 type: docs
 weight: 4610
 url: /net/aspose.finance.ofx.profile/otherenroll/

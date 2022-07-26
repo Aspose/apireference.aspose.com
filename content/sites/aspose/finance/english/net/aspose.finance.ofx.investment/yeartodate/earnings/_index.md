@@ -1,7 +1,7 @@
 ---
 title: Earnings
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Earningsaspose.finance.ofx.investment/yeartodate/earnings.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.investment/yeartodate/earnings/

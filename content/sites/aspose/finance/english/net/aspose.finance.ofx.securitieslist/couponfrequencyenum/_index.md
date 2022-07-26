@@ -1,7 +1,7 @@
 ---
 title: CouponFrequencyEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Coupon frequency enum.
 type: docs
 weight: 5010
 url: /net/aspose.finance.ofx.securitieslist/couponfrequencyenum/
@@ -14,7 +14,7 @@ Coupon frequency enum.
 public enum CouponFrequencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

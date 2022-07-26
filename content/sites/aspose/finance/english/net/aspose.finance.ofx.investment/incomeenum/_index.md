@@ -1,7 +1,7 @@
 ---
 title: IncomeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment income type enum.
 type: docs
 weight: 2880
 url: /net/aspose.finance.ofx.investment/incomeenum/
@@ -14,7 +14,7 @@ Investment income type enum.
 public enum IncomeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

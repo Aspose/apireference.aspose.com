@@ -1,7 +1,7 @@
 ---
 title: ReplaceChild
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Replaces the child node old child with new child in the list of children and returns the old child node.
 type: docs
 weight: 190
 url: /net/aspose.finance.xbrl.dom/node/replacechild/

@@ -1,7 +1,7 @@
 ---
 title: AdjustmentAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the amount of the adjustment.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/adjustment/adjustmentamount/

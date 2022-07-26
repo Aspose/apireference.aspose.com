@@ -1,7 +1,7 @@
 ---
 title: DiscountDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date to apply the discount
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/discount/discountdate/

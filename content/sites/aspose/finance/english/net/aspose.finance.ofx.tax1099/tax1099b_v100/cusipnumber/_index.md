@@ -1,7 +1,7 @@
 ---
 title: CUSIPNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Committee on Uniform Security Identity Procedures number.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/cusipnumber/

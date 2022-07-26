@@ -1,7 +1,7 @@
 ---
 title: InvestmentMailSyncRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of InvestmentMailSyncRequestaspose.finance.ofx.investment/investmentmailsyncrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailsyncrequests/

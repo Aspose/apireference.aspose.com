@@ -1,7 +1,7 @@
 ---
 title: ContributionPct
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ContributionPctaspose.finance.ofx.investment/contributionpct class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/contributionpct/contributionpct/

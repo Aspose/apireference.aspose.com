@@ -1,7 +1,7 @@
 ---
 title: PaymentMailTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PaymentMailTransactionRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailtransactionrequest/

@@ -1,7 +1,7 @@
 ---
 title: SellReasonEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Sell reason enum.
 type: docs
 weight: 3520
 url: /net/aspose.finance.ofx.investment/sellreasonenum/
@@ -14,7 +14,7 @@ Sell reason enum.
 public enum SellReasonEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

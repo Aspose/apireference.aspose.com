@@ -1,7 +1,7 @@
 ---
 title: UseHtml
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: True if client wants an HTML response False if client wants plain text.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/usehtml/

@@ -1,7 +1,7 @@
 ---
 title: ExtendedPaymentDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the free text to communicate with the payment.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentdescription/

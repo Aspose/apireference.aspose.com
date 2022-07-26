@@ -1,7 +1,7 @@
 ---
 title: CheckStatusEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Check status enum.
 type: docs
 weight: 400
 url: /net/aspose.finance.ofx.bank/checkstatusenum/
@@ -14,7 +14,7 @@ Check status enum.
 public enum CheckStatusEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

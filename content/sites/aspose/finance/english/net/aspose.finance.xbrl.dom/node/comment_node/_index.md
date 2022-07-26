@@ -1,7 +1,7 @@
 ---
 title: COMMENT_NODE
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Comment node type.
 type: docs
 weight: 200
 url: /net/aspose.finance.xbrl.dom/node/comment_node/

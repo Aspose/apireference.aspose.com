@@ -1,7 +1,7 @@
 ---
 title: Tax1099TransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of Tax1099TransactionRequestaspose.finance.ofx.tax1099/tax1099transactionrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/tax1099requestmessagesetv1/tax1099transactionrequests/

@@ -1,7 +1,7 @@
 ---
 title: GetUnitById
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the unit which has the specified id.
 type: docs
 weight: 240
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/getunitbyid/
@@ -18,7 +18,7 @@ public Unit GetUnitById(string id)
 | --- | --- | --- |
 | id | String | Unit id |
 
-## Return Value
+### Return Value
 
 The unit.
 

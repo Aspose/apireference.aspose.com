@@ -1,7 +1,7 @@
 ---
 title: Special
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether special characters are allowed over and above those characters.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.profile/signoninfo/special/

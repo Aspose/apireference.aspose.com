@@ -1,7 +1,7 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the IntraRequestaspose.finance.ofx.bank/intrarequest or IntraModRequestaspose.finance.ofx.bank/intramodrequest or IntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/intratransactionrequest/request/

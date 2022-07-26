@@ -1,7 +1,7 @@
 ---
 title: TransactionAuthorizationNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the transaction authorization number.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber/

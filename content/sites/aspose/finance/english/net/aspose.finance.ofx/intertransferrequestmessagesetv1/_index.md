@@ -1,7 +1,7 @@
 ---
 title: InterTransferRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Interbank Transfer request messages set version 1 class.
 type: docs
 weight: 2590
 url: /net/aspose.finance.ofx/intertransferrequestmessagesetv1/

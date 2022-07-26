@@ -1,7 +1,7 @@
 ---
 title: ServerID
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the server transaction ID of the payment against this bill.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.billerdelivery/billpaymentstatus/serverid/

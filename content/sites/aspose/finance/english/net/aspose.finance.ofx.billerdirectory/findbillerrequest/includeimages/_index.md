@@ -1,7 +1,7 @@
 ---
 title: IncludeImages
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: True if the client wants images logos returned.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.billerdirectory/findbillerrequest/includeimages/

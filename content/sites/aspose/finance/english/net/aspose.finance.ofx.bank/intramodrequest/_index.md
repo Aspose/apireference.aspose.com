@@ -1,7 +1,7 @@
 ---
 title: IntraModRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Intrabank transfer modification request class.
 type: docs
 weight: 450
 url: /net/aspose.finance.ofx.bank/intramodrequest/

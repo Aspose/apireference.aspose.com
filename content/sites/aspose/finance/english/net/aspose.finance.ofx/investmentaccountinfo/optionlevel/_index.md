@@ -1,7 +1,7 @@
 ---
 title: OptionLevel
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the text description of option trading privileges.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/investmentaccountinfo/optionlevel/

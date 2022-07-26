@@ -1,7 +1,7 @@
 ---
 title: SocialSecurityWages
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the social security wages.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.taxw2/taxw2_v100/socialsecuritywages/

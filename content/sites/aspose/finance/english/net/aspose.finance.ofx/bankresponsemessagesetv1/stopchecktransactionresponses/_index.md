@@ -1,7 +1,7 @@
 ---
 title: StopCheckTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of StopCheckTransactionResponseaspose.finance.ofx.bank/stopchecktransactionresponse.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx/bankresponsemessagesetv1/stopchecktransactionresponses/

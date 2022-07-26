@@ -1,7 +1,7 @@
 ---
 title: UnitDenominatorQualifiedNames
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of denominator qualified name it is used when unit type is Divide.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl/unit/unitdenominatorqualifiednames/

@@ -1,7 +1,7 @@
 ---
 title: PaymentTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PaymentTransactionRequestaspose.finance.ofx.billpay/paymenttransactionrequest.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.billpay/paymentsyncrequest/paymenttransactionrequests/

@@ -1,7 +1,7 @@
 ---
 title: Withholding
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the federal Tax withholdings.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.investment/income/withholding/

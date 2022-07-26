@@ -1,7 +1,7 @@
 ---
 title: Actuate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the simple link actuate attribute.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/simplelink/actuate/

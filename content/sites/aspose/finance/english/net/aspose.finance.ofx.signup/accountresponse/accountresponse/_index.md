@@ -1,7 +1,7 @@
 ---
 title: AccountResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of AccountResponseaspose.finance.ofx.signup/accountresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.signup/accountresponse/accountresponse/

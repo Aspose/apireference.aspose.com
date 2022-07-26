@@ -1,7 +1,7 @@
 ---
 title: EmployerName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of the employer.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/investment401k/employername/

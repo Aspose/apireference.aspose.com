@@ -1,7 +1,7 @@
 ---
 title: ContextPeriod
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The peroid of the Context./context.
 type: docs
 weight: 6560
 url: /net/aspose.finance.xbrl/contextperiod/
@@ -18,9 +18,9 @@ public class ContextPeriod
 
 | Name | Description |
 | --- | --- |
-| [ContextPeriod](contextperiod)(ContextPeriodType) | Initializes a new instance of [`ContextPeriod`](../contextperiod) class. |
-| [ContextPeriod](contextperiod)(DateTime) | Initializes a new instance of [`ContextPeriod`](../contextperiod) class with Instant type. |
-| [ContextPeriod](contextperiod)(DateTime, DateTime) | Initializes a new instance of [`ContextPeriod`](../contextperiod) class with Duration type. |
+| [ContextPeriod](contextperiod#constructor)(ContextPeriodType) | Initializes a new instance of [`ContextPeriod`](../contextperiod) class. |
+| [ContextPeriod](contextperiod#constructor_1)(DateTime) | Initializes a new instance of [`ContextPeriod`](../contextperiod) class with Instant type. |
+| [ContextPeriod](contextperiod#constructor_2)(DateTime, DateTime) | Initializes a new instance of [`ContextPeriod`](../contextperiod) class with Duration type. |
 
 ## Properties
 

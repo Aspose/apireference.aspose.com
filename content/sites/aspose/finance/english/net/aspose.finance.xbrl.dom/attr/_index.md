@@ -1,7 +1,7 @@
 ---
 title: Attr
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The Attr interface represents an attribute in an Element object. Typically the allowable values for the attribute are defined in a schema associated with the document.
 type: docs
 weight: 6630
 url: /net/aspose.finance.xbrl.dom/attr/

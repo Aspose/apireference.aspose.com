@@ -1,7 +1,7 @@
 ---
 title: ProfitSharing
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the profit sharing earnings.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.investment/earnings/profitsharing/

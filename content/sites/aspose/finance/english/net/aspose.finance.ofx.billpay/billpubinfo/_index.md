@@ -1,7 +1,7 @@
 ---
 title: BillPubInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill publisher information for the payment.
 type: docs
 weight: 890
 url: /net/aspose.finance.ofx.billpay/billpubinfo/

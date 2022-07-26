@@ -1,7 +1,7 @@
 ---
 title: MailSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Email synchronization response class.
 type: docs
 weight: 2190
 url: /net/aspose.finance.ofx.email/mailsyncresponse/

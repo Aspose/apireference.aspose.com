@@ -1,7 +1,7 @@
 ---
 title: AbstractPaymentResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class for all payee response related classes.
 type: docs
 weight: 860
 url: /net/aspose.finance.ofx.billpay/abstractpaymentresponse/

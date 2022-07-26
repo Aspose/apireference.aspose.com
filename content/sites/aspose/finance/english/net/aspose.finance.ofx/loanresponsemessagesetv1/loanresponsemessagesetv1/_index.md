@@ -1,7 +1,7 @@
 ---
 title: LoanResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of LoanResponseMessageSetV1aspose.finance.ofx/loanresponsemessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/loanresponsemessagesetv1/loanresponsemessagesetv1/

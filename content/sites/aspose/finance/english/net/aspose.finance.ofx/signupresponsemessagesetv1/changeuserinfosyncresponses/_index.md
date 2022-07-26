@@ -1,7 +1,7 @@
 ---
 title: ChangeUserInfoSyncResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of ChangeUserInfoSyncResponseaspose.finance.ofx.signup/changeuserinfosyncresponse.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfosyncresponses/

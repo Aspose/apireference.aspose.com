@@ -1,7 +1,7 @@
 ---
 title: XbrlInstanceEntityElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents xbrl instance entity element.
 type: docs
 weight: 7500
 url: /net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceentityelement/

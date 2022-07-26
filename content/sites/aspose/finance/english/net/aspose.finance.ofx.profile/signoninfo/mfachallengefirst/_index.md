@@ -1,7 +1,7 @@
 ---
 title: MFAChallengeFirst
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the client is required to send MFACHALLENGERQ as part of the first signon before sending any other requests.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.profile/signoninfo/mfachallengefirst/

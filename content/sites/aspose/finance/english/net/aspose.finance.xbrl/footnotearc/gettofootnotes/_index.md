@@ -1,7 +1,7 @@
 ---
 title: GetToFootnotes
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of to Footnoteaspose.finance.xbrl/footnote in the FootnoteArcaspose.finance.xbrl/footnotearc.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/footnotearc/gettofootnotes/
@@ -14,7 +14,7 @@ Gets the collection of to [`Footnote`](../../footnote) in the [`FootnoteArc`](..
 public List<Footnote> GetToFootnotes()
 ```
 
-## Return Value
+### Return Value
 
 The collection of to [`Footnote`](../../footnote).
 

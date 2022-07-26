@@ -1,7 +1,7 @@
 ---
 title: ReinvestCapitalGain
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether reinvest capital gains.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/positionmutualfund/reinvestcapitalgain/

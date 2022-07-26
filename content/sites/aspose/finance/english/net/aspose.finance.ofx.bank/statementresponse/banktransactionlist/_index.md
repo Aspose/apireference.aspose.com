@@ -1,7 +1,7 @@
 ---
 title: BankTransactionList
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the from of BankTransactionListaspose.finance.ofx.bank/statementresponse/banktransactionlist.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.bank/statementresponse/banktransactionlist/

@@ -1,7 +1,7 @@
 ---
 title: VestInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Vest change dates. Provides the vesting percentage as of any particular past current or future date.
 type: docs
 weight: 3590
 url: /net/aspose.finance.ofx.investment/vestinfo/

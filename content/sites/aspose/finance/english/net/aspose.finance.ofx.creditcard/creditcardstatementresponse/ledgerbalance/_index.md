@@ -1,7 +1,7 @@
 ---
 title: LedgerBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the from of LedgerBalanceaspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance/

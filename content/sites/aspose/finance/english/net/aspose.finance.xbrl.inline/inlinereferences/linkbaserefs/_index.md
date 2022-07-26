@@ -1,7 +1,7 @@
 ---
 title: LinkbaseRefs
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of LinkbaseRefaspose.finance.xbrl/linkbaseref in the InlineReferencesaspose.finance.xbrl.inline/inlinereferences.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl.inline/inlinereferences/linkbaserefs/

@@ -1,7 +1,7 @@
 ---
 title: ChangeMethod
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether change of reporting method
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/changemethod/

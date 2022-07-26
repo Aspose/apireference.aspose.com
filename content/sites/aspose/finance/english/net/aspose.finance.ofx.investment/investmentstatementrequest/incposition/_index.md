@@ -1,7 +1,7 @@
 ---
 title: IncPosition
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the IncPositionaspose.finance.ofx.investment/investmentstatementrequest/incposition.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.investment/investmentstatementrequest/incposition/

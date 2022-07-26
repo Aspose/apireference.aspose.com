@@ -1,7 +1,7 @@
 ---
 title: CreditcardMessageSet
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Credit card message set class.
 type: docs
 weight: 4440
 url: /net/aspose.finance.ofx.profile/creditcardmessageset/

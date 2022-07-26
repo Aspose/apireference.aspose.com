@@ -1,7 +1,7 @@
 ---
 title: ExtendedPaymentCheck
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the check number to use for this payment.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentcheck/

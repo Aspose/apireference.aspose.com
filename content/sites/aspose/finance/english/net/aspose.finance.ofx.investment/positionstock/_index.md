@@ -1,7 +1,7 @@
 ---
 title: PositionStock
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment position stock class.
 type: docs
 weight: 3410
 url: /net/aspose.finance.ofx.investment/positionstock/

@@ -1,7 +1,7 @@
 ---
 title: WireSyncRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of WireSyncRequestaspose.finance.ofx.wiretransfer/wiresyncrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/wiretransferrequestmessagesetv1/wiresyncrequests/

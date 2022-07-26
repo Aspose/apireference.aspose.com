@@ -1,7 +1,7 @@
 ---
 title: PaymentModResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment modification response class.
 type: docs
 weight: 1190
 url: /net/aspose.finance.ofx.billpay/paymentmodresponse/

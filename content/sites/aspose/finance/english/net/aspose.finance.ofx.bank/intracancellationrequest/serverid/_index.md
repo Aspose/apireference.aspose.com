@@ -1,7 +1,7 @@
 ---
 title: ServerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ID of the transfer the user wants to cancel.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.bank/intracancellationrequest/serverid/

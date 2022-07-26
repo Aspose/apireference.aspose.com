@@ -1,7 +1,7 @@
 ---
 title: PostalCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the recipient postal code.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.tax1099/recipientaddress/postalcode/

@@ -1,7 +1,7 @@
 ---
 title: ExtendedPayee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ExtendedPayeeaspose.finance.ofx.billpay/recurringpaymentresponse/extendedpayee.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/recurringpaymentresponse/extendedpayee/

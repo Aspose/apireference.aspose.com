@@ -1,7 +1,7 @@
 ---
 title: Language
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the language used in text responses.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.signon/signonresponse/language/

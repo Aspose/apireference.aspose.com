@@ -1,7 +1,7 @@
 ---
 title: MailSupport
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: True if server supports MailRequestaspose.finance.ofx.email/mailrequest request. False if server supports only the MailSyncRequestaspose.finance.ofx.email/mailsyncrequest request.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/emailmessagesetv1/mailsupport/

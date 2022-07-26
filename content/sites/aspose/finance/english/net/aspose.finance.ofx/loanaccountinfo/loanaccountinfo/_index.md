@@ -1,7 +1,7 @@
 ---
 title: LoanAccountInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of LoanAccountInfoaspose.finance.ofx/loanaccountinfo class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/loanaccountinfo/loanaccountinfo/

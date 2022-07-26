@@ -1,7 +1,7 @@
 ---
 title: PresentmentListRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill list request class. The client requests bills from a bill publisher by date range.
 type: docs
 weight: 1690
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/

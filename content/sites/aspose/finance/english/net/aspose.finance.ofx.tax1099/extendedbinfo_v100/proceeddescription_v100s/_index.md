@@ -1,7 +1,7 @@
 ---
 title: ProceedDescription_V100s
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of ProceedDescription_V100aspose.finance.ofx.tax1099/proceeddescription_v100.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1099/extendedbinfo_v100/proceeddescription_v100s/

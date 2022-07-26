@@ -1,7 +1,7 @@
 ---
 title: InOutEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Transfer action type enum.
 type: docs
 weight: 2840
 url: /net/aspose.finance.ofx.investment/inoutenum/
@@ -14,7 +14,7 @@ Transfer action type enum.
 public enum InOutEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

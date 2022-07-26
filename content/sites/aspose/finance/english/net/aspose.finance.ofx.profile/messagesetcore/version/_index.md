@@ -1,7 +1,7 @@
 ---
 title: Version
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the version number of the message set.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.profile/messagesetcore/version/

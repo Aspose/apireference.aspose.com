@@ -1,7 +1,7 @@
 ---
 title: BillType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the bill Type.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/billtype/

@@ -1,7 +1,7 @@
 ---
 title: CreditCardStatementEndTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of CreditCardStatementEndTransactionResponseaspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementendtransactionresponses/

@@ -1,7 +1,7 @@
 ---
 title: GetToLabels
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of to Labelaspose.finance.xbrl/label in the LabelArcaspose.finance.xbrl/labelarc.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/labelarc/gettolabels/
@@ -14,7 +14,7 @@ Gets the collection of to [`Label`](../../label) in the [`LabelArc`](../../label
 public List<Label> GetToLabels()
 ```
 
-## Return Value
+### Return Value
 
 The collection of to [`Label`](../../label).
 

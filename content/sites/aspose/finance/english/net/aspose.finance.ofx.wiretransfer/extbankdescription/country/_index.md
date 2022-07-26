@@ -1,7 +1,7 @@
 ---
 title: Country
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the banks country.3-letter country code from ISO/DIS-3166.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.wiretransfer/extbankdescription/country/

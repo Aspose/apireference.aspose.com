@@ -1,7 +1,7 @@
 ---
 title: IncPosition
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Include investment positions in response.
 type: docs
 weight: 2850
 url: /net/aspose.finance.ofx.investment/incposition/

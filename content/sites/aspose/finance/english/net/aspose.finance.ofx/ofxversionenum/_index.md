@@ -1,7 +1,7 @@
 ---
 title: OfxVersionEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Ofx version enum.
 type: docs
 weight: 4230
 url: /net/aspose.finance.ofx/ofxversionenum/
@@ -14,7 +14,7 @@ Ofx version enum.
 public enum OfxVersionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

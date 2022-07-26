@@ -1,7 +1,7 @@
 ---
 title: BalanceEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Balance type enum
 type: docs
 weight: 240
 url: /net/aspose.finance.ofx/balanceenum/
@@ -14,7 +14,7 @@ Balance type enum
 public enum BalanceEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -1,7 +1,7 @@
 ---
 title: ReferenceServerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the reference server ID. If server generates the response by a recurring transfer model this ID references it.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.intertransfer/interresponse/referenceserverid/

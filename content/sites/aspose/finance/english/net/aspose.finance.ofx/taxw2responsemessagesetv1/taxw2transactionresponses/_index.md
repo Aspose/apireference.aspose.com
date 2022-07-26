@@ -1,7 +1,7 @@
 ---
 title: TaxW2TransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of TaxW2TransactionResponseaspose.finance.ofx.taxw2/taxw2transactionresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/taxw2responsemessagesetv1/taxw2transactionresponses/

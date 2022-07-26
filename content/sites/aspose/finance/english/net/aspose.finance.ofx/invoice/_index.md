@@ -1,7 +1,7 @@
 ---
 title: Invoice
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Invoice class.
 type: docs
 weight: 3690
 url: /net/aspose.finance.ofx/invoice/

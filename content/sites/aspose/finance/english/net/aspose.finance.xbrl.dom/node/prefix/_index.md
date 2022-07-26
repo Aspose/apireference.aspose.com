@@ -1,7 +1,7 @@
 ---
 title: Prefix
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the namespace prefix of this node.
 type: docs
 weight: 140
 url: /net/aspose.finance.xbrl.dom/node/prefix/

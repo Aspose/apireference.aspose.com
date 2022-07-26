@@ -1,7 +1,7 @@
 ---
 title: ElementBalanceType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Concept./concept balance type enum.
 type: docs
 weight: 7590
 url: /net/aspose.finance.xbrl/elementbalancetype/
@@ -14,7 +14,7 @@ url: /net/aspose.finance.xbrl/elementbalancetype/
 public enum ElementBalanceType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

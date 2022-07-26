@@ -1,7 +1,7 @@
 ---
 title: EmailResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of EmailResponseMessageSetV1aspose.finance.ofx/emailresponsemessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/emailresponsemessagesetv1/emailresponsemessagesetv1/

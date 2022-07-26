@@ -1,7 +1,7 @@
 ---
 title: FIId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the FI ID number for this security.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.securitieslist/generalsecurityinfo/fiid/

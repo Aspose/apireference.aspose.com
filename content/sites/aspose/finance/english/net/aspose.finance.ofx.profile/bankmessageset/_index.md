@@ -1,7 +1,7 @@
 ---
 title: BankMessageSet
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Message set for banking.
 type: docs
 weight: 4370
 url: /net/aspose.finance.ofx.profile/bankmessageset/

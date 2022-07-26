@@ -1,7 +1,7 @@
 ---
 title: StockBondAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the amount of stocks bonds etc.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1099/stocksbonds/stockbondamount/

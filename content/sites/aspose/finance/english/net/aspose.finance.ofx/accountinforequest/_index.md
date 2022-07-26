@@ -1,7 +1,7 @@
 ---
 title: AccountInfoRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The client uses this class to request information about accounts whose status has changed since the last time the request was made. This request is typically used to retrieve a list of accounts whose status has changed from PEND to ACTIVE.
 type: docs
 weight: 190
 url: /net/aspose.finance.ofx/accountinforequest/

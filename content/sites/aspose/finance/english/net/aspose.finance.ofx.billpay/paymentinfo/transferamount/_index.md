@@ -1,7 +1,7 @@
 ---
 title: TransferAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payment amount.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.billpay/paymentinfo/transferamount/

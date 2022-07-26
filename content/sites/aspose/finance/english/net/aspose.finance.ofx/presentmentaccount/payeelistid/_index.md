@@ -1,7 +1,7 @@
 ---
 title: PayeeListId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payee list identifier. Identifies this Biller on the users payee list at their Payment provider.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/presentmentaccount/payeelistid/

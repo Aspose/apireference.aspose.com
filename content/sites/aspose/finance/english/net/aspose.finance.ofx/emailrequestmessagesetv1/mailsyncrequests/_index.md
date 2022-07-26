@@ -1,7 +1,7 @@
 ---
 title: MailSyncRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of MailSyncRequestaspose.finance.ofx.email/mailsyncrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/emailrequestmessagesetv1/mailsyncrequests/

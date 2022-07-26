@@ -1,7 +1,7 @@
 ---
 title: LoanMessageSet
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Loan message set.
 type: docs
 weight: 4570
 url: /net/aspose.finance.ofx.profile/loanmessageset/

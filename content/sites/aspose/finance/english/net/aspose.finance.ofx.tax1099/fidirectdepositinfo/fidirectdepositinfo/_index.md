@@ -1,7 +1,7 @@
 ---
 title: FIDirectDepositInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of FIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.tax1099/fidirectdepositinfo/fidirectdepositinfo/

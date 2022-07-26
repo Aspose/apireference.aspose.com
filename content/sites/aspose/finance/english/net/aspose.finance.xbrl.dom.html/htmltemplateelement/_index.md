@@ -1,7 +1,7 @@
 ---
 title: HTMLTemplateElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents template element
 type: docs
 weight: 7240
 url: /net/aspose.finance.xbrl.dom.html/htmltemplateelement/

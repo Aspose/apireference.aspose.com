@@ -1,7 +1,7 @@
 ---
 title: ModifyPending
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the modify pending flag.If the client sets this flag the server must modify pending and future payments.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.billpay/recurringpaymentmodrequest/modifypending/

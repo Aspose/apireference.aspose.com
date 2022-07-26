@@ -1,7 +1,7 @@
 ---
 title: RecurringInterSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of RecurringInterSyncRequestaspose.finance.ofx.intertransfer/recurringintersyncrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.intertransfer/recurringintersyncrequest/recurringintersyncrequest/

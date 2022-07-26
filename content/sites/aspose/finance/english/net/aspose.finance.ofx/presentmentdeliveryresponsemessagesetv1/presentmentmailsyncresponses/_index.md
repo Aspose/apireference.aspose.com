@@ -1,7 +1,7 @@
 ---
 title: PresentmentMailSyncResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PresentmentMailSyncResponseaspose.finance.ofx.billerdelivery/presentmentmailsyncresponse.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentmailsyncresponses/

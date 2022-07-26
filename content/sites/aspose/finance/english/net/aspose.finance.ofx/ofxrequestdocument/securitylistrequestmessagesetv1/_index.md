@@ -1,7 +1,7 @@
 ---
 title: SecurityListRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the SecurityListRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/securitylistrequestmessagesetv1.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx/ofxrequestdocument/securitylistrequestmessagesetv1/

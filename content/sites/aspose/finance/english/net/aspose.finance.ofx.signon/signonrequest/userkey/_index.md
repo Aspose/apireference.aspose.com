@@ -1,7 +1,7 @@
 ---
 title: UserKey
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the previously authenticated context.
 type: docs
 weight: 190
 url: /net/aspose.finance.ofx.signon/signonrequest/userkey/

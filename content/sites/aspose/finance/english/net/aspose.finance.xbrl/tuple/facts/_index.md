@@ -1,7 +1,7 @@
 ---
 title: Facts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of Factaspose.finance.xbrl/fact objects in the tuple.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/tuple/facts/

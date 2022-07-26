@@ -1,7 +1,7 @@
 ---
 title: Unit
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of the Unitaspose.finance.xbrl/unit class.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/unit/unit/

@@ -1,7 +1,7 @@
 ---
 title: ModelWindow
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the model window the number of days before a recurring transaction is scheduled to be processed that it is instantiated on the system.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/modelwindow/

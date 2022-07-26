@@ -1,7 +1,7 @@
 ---
 title: QualifiedTuition
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payment received for qualified tuition and expenses.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/qualifiedtuition/

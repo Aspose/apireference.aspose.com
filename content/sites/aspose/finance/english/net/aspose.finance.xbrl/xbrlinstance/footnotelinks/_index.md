@@ -1,7 +1,7 @@
 ---
 title: FootnoteLinks
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of FootnoteLinkaspose.finance.xbrl/footnotelink objects in the XBRL instance.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/xbrlinstance/footnotelinks/

@@ -1,7 +1,7 @@
 ---
 title: LocalCacheService
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is a local cache service for schema and linkbase external files.
 type: docs
 weight: 7840
 url: /net/aspose.finance.xbrl/localcacheservice/

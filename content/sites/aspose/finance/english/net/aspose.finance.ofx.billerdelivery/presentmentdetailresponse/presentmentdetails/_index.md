@@ -1,7 +1,7 @@
 ---
 title: PresentmentDetails
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PresentmentDetailaspose.finance.ofx.billerdelivery/presentmentdetail.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetails/

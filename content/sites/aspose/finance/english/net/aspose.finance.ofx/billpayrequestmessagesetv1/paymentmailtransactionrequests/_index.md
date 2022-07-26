@@ -1,7 +1,7 @@
 ---
 title: PaymentMailTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PaymentMailTransactionRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailtransactionrequests/

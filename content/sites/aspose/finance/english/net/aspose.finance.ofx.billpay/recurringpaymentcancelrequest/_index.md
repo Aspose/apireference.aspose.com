@@ -1,7 +1,7 @@
 ---
 title: RecurringPaymentCancelRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Recurring payment cancellation request class.
 type: docs
 weight: 1280
 url: /net/aspose.finance.ofx.billpay/recurringpaymentcancelrequest/

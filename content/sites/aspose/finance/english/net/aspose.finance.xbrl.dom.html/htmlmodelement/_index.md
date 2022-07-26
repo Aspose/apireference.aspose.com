@@ -1,7 +1,7 @@
 ---
 title: HTMLModElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents notice of modification to part of a document. See the INS and DEL element definitions in HTML 4.01.
 type: docs
 weight: 7040
 url: /net/aspose.finance.xbrl.dom.html/htmlmodelement/

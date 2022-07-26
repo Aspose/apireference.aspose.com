@@ -1,7 +1,7 @@
 ---
 title: RemoveNamedItem
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Removes a attribute specified by name.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl.dom/namednodemap/removenameditem/
@@ -18,7 +18,7 @@ public Attr RemoveNamedItem(string name)
 | --- | --- | --- |
 | name | String | The attribute name. |
 
-## Return Value
+### Return Value
 
 The removed attribute.
 

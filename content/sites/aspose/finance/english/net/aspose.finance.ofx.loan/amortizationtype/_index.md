@@ -1,7 +1,7 @@
 ---
 title: AmortizationType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Amortization type enum.
 type: docs
 weight: 3800
 url: /net/aspose.finance.ofx.loan/amortizationtype/
@@ -14,7 +14,7 @@ Amortization type enum.
 public enum AmortizationType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

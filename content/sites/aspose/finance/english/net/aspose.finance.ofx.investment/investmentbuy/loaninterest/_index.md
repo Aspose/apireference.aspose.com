@@ -1,7 +1,7 @@
 ---
 title: LoanInterest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets how much of the loan repayment was interest. For 401k accounts only.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/investmentbuy/loaninterest/

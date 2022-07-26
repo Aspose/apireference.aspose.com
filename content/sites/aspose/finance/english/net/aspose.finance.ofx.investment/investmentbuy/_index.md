@@ -1,7 +1,7 @@
 ---
 title: InvestmentBuy
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment buy transaction class.
 type: docs
 weight: 2940
 url: /net/aspose.finance.ofx.investment/investmentbuy/

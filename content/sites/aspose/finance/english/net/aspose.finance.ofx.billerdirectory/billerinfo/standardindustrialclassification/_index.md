@@ -1,7 +1,7 @@
 ---
 title: StandardIndustrialClassification
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the billers Standard Industrial Classification Code.
 type: docs
 weight: 190
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/standardindustrialclassification/

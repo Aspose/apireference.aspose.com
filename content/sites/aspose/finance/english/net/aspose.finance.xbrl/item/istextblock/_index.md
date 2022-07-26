@@ -1,7 +1,7 @@
 ---
 title: IsTextBlock
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Check whether this item is a text block.
 type: docs
 weight: 110
 url: /net/aspose.finance.xbrl/item/istextblock/
@@ -14,7 +14,7 @@ Check whether this item is a text block.
 public bool IsTextBlock()
 ```
 
-## Return Value
+### Return Value
 
 If it is a text block, return ture; otherwise false.
 

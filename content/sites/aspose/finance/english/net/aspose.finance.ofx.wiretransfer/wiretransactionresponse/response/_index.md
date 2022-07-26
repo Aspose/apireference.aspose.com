@@ -1,7 +1,7 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the WireResponseaspose.finance.ofx.wiretransfer/wireresponse or WireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.wiretransfer/wiretransactionresponse/response/

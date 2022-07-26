@@ -1,7 +1,7 @@
 ---
 title: PreTax
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current value of all securities purchased with Before Tax Employee contributions
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/investment401kbalance/pretax/

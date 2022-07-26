@@ -1,7 +1,7 @@
 ---
 title: BillStatusCounts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of BillStatusCountsaspose.finance.ofx.billerdelivery/billstatuscounts.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billerdelivery/presentmentcounts/billstatuscounts/

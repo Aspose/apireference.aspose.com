@@ -1,7 +1,7 @@
 ---
 title: PayeeDeleteRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee deletion request class.
 type: docs
 weight: 950
 url: /net/aspose.finance.ofx.billpay/payeedeleterequest/

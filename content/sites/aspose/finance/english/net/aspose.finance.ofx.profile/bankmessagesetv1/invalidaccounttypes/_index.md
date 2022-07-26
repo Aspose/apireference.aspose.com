@@ -1,7 +1,7 @@
 ---
 title: InvalidAccountTypes
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of account type not supported.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.profile/bankmessagesetv1/invalidaccounttypes/

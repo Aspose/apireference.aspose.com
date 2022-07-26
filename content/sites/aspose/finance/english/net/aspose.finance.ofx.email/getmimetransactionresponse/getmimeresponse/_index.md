@@ -1,7 +1,7 @@
 ---
 title: GetMimeResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the GetMimeResponseaspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse/

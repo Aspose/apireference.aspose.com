@@ -1,7 +1,7 @@
 ---
 title: GetAttributeNS
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets an attribute value by local name and namespace URI.
 type: docs
 weight: 100
 url: /net/aspose.finance.xbrl.dom/element/getattributens/
@@ -19,7 +19,7 @@ public string GetAttributeNS(string namespaceURI, string localName)
 | namespaceURI | String | The attribute namespace URI. |
 | localName | String | The attribute local name. |
 
-## Return Value
+### Return Value
 
 The attribute value.
 

@@ -1,7 +1,7 @@
 ---
 title: Language
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the language of the footnote.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/footnote/language/

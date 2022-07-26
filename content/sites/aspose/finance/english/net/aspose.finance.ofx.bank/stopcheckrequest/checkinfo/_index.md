@@ -1,7 +1,7 @@
 ---
 title: CheckInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the check information CheckRangeaspose.finance.ofx.bank/checkrange or CheckDescriptionaspose.finance.ofx.bank/checkdescription.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/stopcheckrequest/checkinfo/

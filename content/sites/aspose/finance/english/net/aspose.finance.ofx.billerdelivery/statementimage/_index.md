@@ -1,7 +1,7 @@
 ---
 title: StatementImage
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class provides one or more URLs that point to a fully rendered image of the bill in HTML.
 type: docs
 weight: 1830
 url: /net/aspose.finance.ofx.billerdelivery/statementimage/

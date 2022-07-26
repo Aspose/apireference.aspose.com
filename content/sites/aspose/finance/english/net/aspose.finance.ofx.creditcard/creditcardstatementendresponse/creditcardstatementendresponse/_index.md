@@ -1,7 +1,7 @@
 ---
 title: CreditCardStatementEndResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of CreditCardStatementEndResponseaspose.finance.ofx.creditcard/creditcardstatementendresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardstatementendresponse/

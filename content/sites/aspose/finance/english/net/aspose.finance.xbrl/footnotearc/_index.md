@@ -1,7 +1,7 @@
 ---
 title: FootnoteArc
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is a Xlink./xlink with Arc type. It is contained in FootnoteLink.
 type: docs
 weight: 7640
 url: /net/aspose.finance.xbrl/footnotearc/

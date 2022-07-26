@@ -1,7 +1,7 @@
 ---
 title: PayeeDeleteResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee deletion response class.
 type: docs
 weight: 960
 url: /net/aspose.finance.ofx.billpay/payeedeleteresponse/

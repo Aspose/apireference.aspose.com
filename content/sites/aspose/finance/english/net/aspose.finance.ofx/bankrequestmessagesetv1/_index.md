@@ -1,7 +1,7 @@
 ---
 title: BankRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bank request messages set version 1 class.
 type: docs
 weight: 800
 url: /net/aspose.finance.ofx/bankrequestmessagesetv1/

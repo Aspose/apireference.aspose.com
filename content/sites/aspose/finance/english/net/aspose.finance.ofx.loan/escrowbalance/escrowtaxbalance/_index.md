@@ -1,7 +1,7 @@
 ---
 title: EscrowTaxBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the balance of taxes held in escrow.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.loan/escrowbalance/escrowtaxbalance/

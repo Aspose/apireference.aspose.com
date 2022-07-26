@@ -1,7 +1,7 @@
 ---
 title: StateTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: State tax withheld class.
 type: docs
 weight: 5970
 url: /net/aspose.finance.ofx.tax1099/statetaxwithheldaggregate/

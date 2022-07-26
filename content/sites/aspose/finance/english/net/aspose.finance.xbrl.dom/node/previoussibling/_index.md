@@ -1,7 +1,7 @@
 ---
 title: PreviousSibling
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the node immediately preceding this node. If there is no such node this returns null.
 type: docs
 weight: 150
 url: /net/aspose.finance.xbrl.dom/node/previoussibling/

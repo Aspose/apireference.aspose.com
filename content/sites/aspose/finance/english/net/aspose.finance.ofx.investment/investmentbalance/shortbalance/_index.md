@@ -1,7 +1,7 @@
 ---
 title: ShortBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the market value of all short positions. This is a positive balance.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.investment/investmentbalance/shortbalance/

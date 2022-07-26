@@ -1,7 +1,7 @@
 ---
 title: Corrected
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether this is a corrected form.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.tax1099/abstracttaxform1099/corrected/

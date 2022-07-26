@@ -1,7 +1,7 @@
 ---
 title: InternationalTransferFee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the standard fee for an international interbank transfer.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.profile/intertransfermessagesetv1/internationaltransferfee/

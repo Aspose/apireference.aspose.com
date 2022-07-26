@@ -1,7 +1,7 @@
 ---
 title: StockType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the stock type
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.securitieslist/stockinfo/stocktype/

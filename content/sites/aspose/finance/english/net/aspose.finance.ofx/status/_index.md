@@ -1,7 +1,7 @@
 ---
 title: Status
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Error reporting class.
 type: docs
 weight: 5710
 url: /net/aspose.finance.ofx/status/

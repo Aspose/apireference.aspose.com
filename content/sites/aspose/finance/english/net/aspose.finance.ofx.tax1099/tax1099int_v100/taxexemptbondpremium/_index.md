@@ -1,7 +1,7 @@
 ---
 title: TaxExemptBondPremium
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the bond premium on tax-exempt bonds.
 type: docs
 weight: 240
 url: /net/aspose.finance.ofx.tax1099/tax1099int_v100/taxexemptbondpremium/

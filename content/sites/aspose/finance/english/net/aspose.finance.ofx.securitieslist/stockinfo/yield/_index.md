@@ -1,7 +1,7 @@
 ---
 title: Yield
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current yield reported as the dividend expressed as a portion of the current stock price.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.securitieslist/stockinfo/yield/

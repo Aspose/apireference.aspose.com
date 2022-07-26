@@ -1,7 +1,7 @@
 ---
 title: Reference
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is a Xlink./xlink with Resource type. it enables XBRL taxonomies to ground the definitions of Concepts in authoritative statements in published business financial and accounting literature.
 type: docs
 weight: 7900
 url: /net/aspose.finance.xbrl/reference/

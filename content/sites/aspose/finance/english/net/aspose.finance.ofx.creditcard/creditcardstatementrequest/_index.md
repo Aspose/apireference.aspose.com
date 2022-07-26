@@ -1,7 +1,7 @@
 ---
 title: CreditCardStatementRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The credit card download request is semantically identical to the bank statement download request.
 type: docs
 weight: 2000
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementrequest/

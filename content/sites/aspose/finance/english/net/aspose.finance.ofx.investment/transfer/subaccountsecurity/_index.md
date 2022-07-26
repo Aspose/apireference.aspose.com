@@ -1,7 +1,7 @@
 ---
 title: SubAccountSecurity
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the sub-account type for the security.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/transfer/subaccountsecurity/

@@ -1,7 +1,7 @@
 ---
 title: TagName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the custom element name.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/ofxelementtype/tagname/

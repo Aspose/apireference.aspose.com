@@ -1,7 +1,7 @@
 ---
 title: PostalCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payer postal code.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.tax1099/payeraddress/postalcode/

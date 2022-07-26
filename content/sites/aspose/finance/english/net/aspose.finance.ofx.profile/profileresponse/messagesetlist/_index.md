@@ -1,7 +1,7 @@
 ---
 title: MessageSetList
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the MessageSetListaspose.finance.ofx.profile/profileresponse/messagesetlist.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.profile/profileresponse/messagesetlist/

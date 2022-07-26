@@ -1,7 +1,7 @@
 ---
 title: AdjustmentPriorYear
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the adjustments for prior year.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/adjustmentprioryear/

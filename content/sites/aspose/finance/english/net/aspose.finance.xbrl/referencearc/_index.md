@@ -1,7 +1,7 @@
 ---
 title: ReferenceArc
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is a Xlink./xlink with Arc type. It connects Concepts with reference resources.
 type: docs
 weight: 7910
 url: /net/aspose.finance.xbrl/referencearc/

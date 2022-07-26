@@ -1,7 +1,7 @@
 ---
 title: StopCheckSyncRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of StopCheckSyncRequestaspose.finance.ofx.bank/stopchecksyncrequest.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx/bankrequestmessagesetv1/stopchecksyncrequests/

@@ -1,7 +1,7 @@
 ---
 title: ChallengeResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ChallengeResponseaspose.finance.ofx.signon/challengeresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.signon/challengeresponse/challengeresponse/

@@ -1,7 +1,7 @@
 ---
 title: PHONE
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the recipient telephone number.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.tax1099/recipientaddress/phone/

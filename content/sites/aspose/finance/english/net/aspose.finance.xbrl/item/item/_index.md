@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of Itemaspose.finance.xbrl/item class.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/item/item/

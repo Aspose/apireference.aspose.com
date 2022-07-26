@@ -1,7 +1,7 @@
 ---
 title: DetailAvailable
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether structured detail is available.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/detailavailable/

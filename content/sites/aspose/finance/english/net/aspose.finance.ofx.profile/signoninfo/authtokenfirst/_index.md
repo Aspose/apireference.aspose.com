@@ -1,7 +1,7 @@
 ---
 title: AuthTokenFirst
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server requires clients to send AUTHTOKEN as part of the first signon.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/signoninfo/authtokenfirst/

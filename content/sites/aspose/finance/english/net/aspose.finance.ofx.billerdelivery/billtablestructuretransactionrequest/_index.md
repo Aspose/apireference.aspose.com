@@ -1,7 +1,7 @@
 ---
 title: BillTableStructureTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill table structure transaction request class.
 type: docs
 weight: 1550
 url: /net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/

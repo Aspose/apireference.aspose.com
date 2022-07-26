@@ -1,7 +1,7 @@
 ---
 title: InitialAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the amount of the initial payment.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/recurringpaymentmodrequest/initialamount/

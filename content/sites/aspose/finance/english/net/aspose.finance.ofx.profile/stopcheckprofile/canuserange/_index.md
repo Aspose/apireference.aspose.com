@@ -1,7 +1,7 @@
 ---
 title: CanUseRange
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether can stop a range of checks.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/stopcheckprofile/canuserange/

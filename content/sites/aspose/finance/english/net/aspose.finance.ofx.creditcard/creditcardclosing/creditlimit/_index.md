@@ -1,7 +1,7 @@
 ---
 title: CreditLimit
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current credit limit.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/creditlimit/

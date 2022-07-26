@@ -1,7 +1,7 @@
 ---
 title: GetConceptById
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the context which has the specified id.
 type: docs
 weight: 180
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/getconceptbyid/
@@ -18,7 +18,7 @@ public Concept GetConceptById(string conceptId)
 | --- | --- | --- |
 | conceptId | String | Context id |
 
-## Return Value
+### Return Value
 
 The context.
 

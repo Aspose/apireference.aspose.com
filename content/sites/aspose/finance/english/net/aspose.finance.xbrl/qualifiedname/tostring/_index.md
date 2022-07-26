@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Get the object as string.
 type: docs
 weight: 70
 url: /net/aspose.finance.xbrl/qualifiedname/tostring/
@@ -14,7 +14,7 @@ Get the object as string.
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 The string as namespace:localname.
 

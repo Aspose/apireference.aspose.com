@@ -1,7 +1,7 @@
 ---
 title: CalculationArcs
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of CalculationArcaspose.finance.xbrl/calculationarc.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/calculationlink/calculationarcs/

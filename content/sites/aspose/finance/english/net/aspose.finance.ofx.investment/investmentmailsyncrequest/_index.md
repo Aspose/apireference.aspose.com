@@ -1,7 +1,7 @@
 ---
 title: InvestmentMailSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment email Synchronization request class.
 type: docs
 weight: 2990
 url: /net/aspose.finance.ofx.investment/investmentmailsyncrequest/

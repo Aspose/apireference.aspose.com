@@ -1,7 +1,7 @@
 ---
 title: Service
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the service to be added/changed/deleted.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signup/accountrequest/service/

@@ -1,7 +1,7 @@
 ---
 title: OptionActionEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Option action type enum.
 type: docs
 weight: 3330
 url: /net/aspose.finance.ofx.investment/optionactionenum/
@@ -14,7 +14,7 @@ Option action type enum.
 public enum OptionActionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

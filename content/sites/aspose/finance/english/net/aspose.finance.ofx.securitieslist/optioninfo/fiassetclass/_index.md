@@ -1,7 +1,7 @@
 ---
 title: FIAssetClass
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the text string containing an FI defined asset class.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.securitieslist/optioninfo/fiassetclass/

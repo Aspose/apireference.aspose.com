@@ -1,7 +1,7 @@
 ---
 title: Others
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of Otheraspose.finance.ofx.taxw2/other.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.taxw2/taxw2_v200/others/

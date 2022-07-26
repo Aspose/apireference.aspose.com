@@ -1,7 +1,7 @@
 ---
 title: ImageRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ImageRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1/

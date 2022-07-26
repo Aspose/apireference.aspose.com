@@ -1,7 +1,7 @@
 ---
 title: RecurringPaymentModResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Recurring payment modification response class.
 type: docs
 weight: 1310
 url: /net/aspose.finance.ofx.billpay/recurringpaymentmodresponse/

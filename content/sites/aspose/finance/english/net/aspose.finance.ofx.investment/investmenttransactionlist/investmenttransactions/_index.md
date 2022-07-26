@@ -1,7 +1,7 @@
 ---
 title: InvestmentTransactions
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of BuyDebtaspose.finance.ofx.investment/buydebt or BuyMutualFundaspose.finance.ofx.investment/buymutualfund or BuyOptionaspose.finance.ofx.investment/buyoption or BuyOtheraspose.finance.ofx.investment/buyother or BuyStockaspose.finance.ofx.investment/buystock or ClosureOptionaspose.finance.ofx.investment/closureoption or Incomeaspose.finance.ofx.investment/income or InvestmentExpenseaspose.finance.ofx.investment/investmentexpense or JournalFundaspose.finance.ofx.investment/journalfund or JournalSecurityaspose.finance.ofx.investment/journalsecurity or MarginInterestaspose.finance.ofx.investment/margininterest or Reinvestaspose.finance.ofx.investment/reinvest or ReturnOfCapitalaspose.finance.ofx.investment/returnofcapital or SellDebtaspose.finance.ofx.investment/selldebt or SellMutualFundaspose.finance.ofx.investment/sellmutualfund or SellOptionaspose.finance.ofx.investment/selloption or SellOtheraspose.finance.ofx.investment/sellother or SellStockaspose.finance.ofx.investment/sellstock or Splitaspose.finance.ofx.investment/split or Transferaspose.finance.ofx.investment/transfer.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/investmenttransactionlist/investmenttransactions/

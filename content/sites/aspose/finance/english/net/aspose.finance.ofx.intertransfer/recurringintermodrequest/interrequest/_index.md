@@ -1,7 +1,7 @@
 ---
 title: InterRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the InterRequestaspose.finance.ofx.intertransfer/recurringintermodrequest/interrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.intertransfer/recurringintermodrequest/interrequest/

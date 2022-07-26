@@ -1,7 +1,7 @@
 ---
 title: PrevBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the balance of the account as of the previous period.
 type: docs
 weight: 210
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/prevbalance/

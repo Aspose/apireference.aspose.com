@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of payee or description of transaction.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/pendingtransaction/name/

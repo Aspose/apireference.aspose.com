@@ -1,7 +1,7 @@
 ---
 title: PositionType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the position type.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.investment/transfer/positiontype/

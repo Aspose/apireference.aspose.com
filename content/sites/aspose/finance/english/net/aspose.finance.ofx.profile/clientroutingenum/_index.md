@@ -1,7 +1,7 @@
 ---
 title: ClientRoutingEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Client routing enum.
 type: docs
 weight: 4430
 url: /net/aspose.finance.ofx.profile/clientroutingenum/
@@ -14,7 +14,7 @@ Client routing enum.
 public enum ClientRoutingEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

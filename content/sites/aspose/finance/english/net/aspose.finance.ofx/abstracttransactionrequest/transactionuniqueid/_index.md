@@ -1,7 +1,7 @@
 ---
 title: TransactionUniqueId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the client-assigned globally unique ID for this transaction
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid/

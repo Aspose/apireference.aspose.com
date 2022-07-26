@@ -1,7 +1,7 @@
 ---
 title: ChangePinFirst
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server requires clients to change user password as part of first signon.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.profile/signoninfo/changepinfirst/

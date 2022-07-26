@@ -1,7 +1,7 @@
 ---
 title: CurrencyEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Currency identifiers enum based on the ISO-4217.
 type: docs
 weight: 2100
 url: /net/aspose.finance.ofx/currencyenum/
@@ -14,7 +14,7 @@ Currency identifiers enum, based on the ISO-4217.
 public enum CurrencyEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

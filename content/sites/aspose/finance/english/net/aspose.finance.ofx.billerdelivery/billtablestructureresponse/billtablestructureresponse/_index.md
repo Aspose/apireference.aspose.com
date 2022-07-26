@@ -1,7 +1,7 @@
 ---
 title: BillTableStructureResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of BillTableStructureResponseaspose.finance.ofx.billerdelivery/billtablestructureresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdelivery/billtablestructureresponse/billtablestructureresponse/

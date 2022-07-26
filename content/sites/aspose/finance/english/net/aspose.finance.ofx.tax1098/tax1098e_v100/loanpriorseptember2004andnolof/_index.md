@@ -1,7 +1,7 @@
 ---
 title: LoanPriorSeptember2004AndNoLOF
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether Loan made prior to 9/1/2004 and no LOF in box 1.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.tax1098/tax1098e_v100/loanpriorseptember2004andnolof/

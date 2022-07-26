@@ -1,7 +1,7 @@
 ---
 title: Void
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether this W2 is void and a new W2 will be provided.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.taxw2/abstracttaxw2/void/

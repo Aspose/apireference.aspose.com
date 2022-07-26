@@ -1,7 +1,7 @@
 ---
 title: AbstractOpenOrder
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class for all open order related classes.
 type: docs
 weight: 2650
 url: /net/aspose.finance.ofx.investment/abstractopenorder/

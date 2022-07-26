@@ -1,7 +1,7 @@
 ---
 title: LoanAccountInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Loan account information.
 type: docs
 weight: 4030
 url: /net/aspose.finance.ofx/loanaccountinfo/

@@ -1,7 +1,7 @@
 ---
 title: Memo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the memo from user to payee.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.billpay/paymentinfo/memo/

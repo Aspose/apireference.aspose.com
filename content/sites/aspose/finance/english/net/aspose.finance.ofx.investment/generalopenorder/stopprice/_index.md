@@ -1,7 +1,7 @@
 ---
 title: StopPrice
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the stop price.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.investment/generalopenorder/stopprice/

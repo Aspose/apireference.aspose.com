@@ -1,7 +1,7 @@
 ---
 title: AbstractAccount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class for all account related classes.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/abstractaccount/

@@ -1,7 +1,7 @@
 ---
 title: SeenDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time at which the bill was made available to the requesters client.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/seendate/

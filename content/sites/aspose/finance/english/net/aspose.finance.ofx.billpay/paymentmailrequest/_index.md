@@ -1,7 +1,7 @@
 ---
 title: PaymentMailRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment email request class.
 type: docs
 weight: 1120
 url: /net/aspose.finance.ofx.billpay/paymentmailrequest/

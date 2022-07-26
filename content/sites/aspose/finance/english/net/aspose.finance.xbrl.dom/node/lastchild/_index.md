@@ -1,7 +1,7 @@
 ---
 title: LastChild
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the last child of this node. If there is no such node this returns null.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl.dom/node/lastchild/

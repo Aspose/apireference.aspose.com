@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the value of the InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 70
 url: /net/aspose.finance.xbrl.inline/inlinefraction/value/

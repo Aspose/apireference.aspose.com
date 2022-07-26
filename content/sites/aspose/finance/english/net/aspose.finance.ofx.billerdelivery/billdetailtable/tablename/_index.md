@@ -1,7 +1,7 @@
 ---
 title: TableName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of bill detail table.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.billerdelivery/billdetailtable/tablename/

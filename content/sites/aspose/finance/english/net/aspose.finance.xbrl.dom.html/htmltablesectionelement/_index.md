@@ -1,7 +1,7 @@
 ---
 title: HTMLTableSectionElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents THEAD TFOOT and TBODY elements.
 type: docs
 weight: 7230
 url: /net/aspose.finance.xbrl.dom.html/htmltablesectionelement/

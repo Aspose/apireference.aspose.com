@@ -1,7 +1,7 @@
 ---
 title: TransactionEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Transaction type enum.
 type: docs
 weight: 6260
 url: /net/aspose.finance.ofx/transactionenum/
@@ -14,7 +14,7 @@ Transaction type enum.
 public enum TransactionEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

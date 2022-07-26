@@ -1,7 +1,7 @@
 ---
 title: RoleUri
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the role URI.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/rolereference/roleuri/

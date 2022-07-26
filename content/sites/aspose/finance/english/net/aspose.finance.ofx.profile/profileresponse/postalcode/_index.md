@@ -1,7 +1,7 @@
 ---
 title: PostalCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the FI address postal code.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.profile/profileresponse/postalcode/

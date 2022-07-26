@@ -1,7 +1,7 @@
 ---
 title: ParValue
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the par value.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.securitieslist/debtinfo/parvalue/

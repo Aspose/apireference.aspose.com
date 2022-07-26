@@ -1,7 +1,7 @@
 ---
 title: FindBillerRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the FindBillerRequestaspose.finance.ofx.billerdirectory/findbillertransactionrequest/findbillerrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdirectory/findbillertransactionrequest/findbillerrequest/

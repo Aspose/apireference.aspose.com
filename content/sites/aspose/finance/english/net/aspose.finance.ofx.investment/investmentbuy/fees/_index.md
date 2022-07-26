@@ -1,7 +1,7 @@
 ---
 title: Fees
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the fees applied to trade.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/investmentbuy/fees/

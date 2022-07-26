@@ -1,7 +1,7 @@
 ---
 title: PresentmentNotifyTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PresentmentNotifyTransactionRequestaspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentnotifytransactionrequests/

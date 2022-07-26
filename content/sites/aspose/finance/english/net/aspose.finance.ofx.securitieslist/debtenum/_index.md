@@ -1,7 +1,7 @@
 ---
 title: DebtEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Debt type enum.
 type: docs
 weight: 5030
 url: /net/aspose.finance.ofx.securitieslist/debtenum/
@@ -14,7 +14,7 @@ Debt type enum.
 public enum DebtEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

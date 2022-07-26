@@ -1,7 +1,7 @@
 ---
 title: ReturnOfCapital
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Return of capital class.
 type: docs
 weight: 3460
 url: /net/aspose.finance.ofx.investment/returnofcapital/

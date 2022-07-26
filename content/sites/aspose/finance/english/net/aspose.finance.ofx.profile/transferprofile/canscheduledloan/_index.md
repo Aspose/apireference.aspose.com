@@ -1,7 +1,7 @@
 ---
 title: CanScheduledLoan
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether supports scheduled transfers of loans.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.profile/transferprofile/canscheduledloan/

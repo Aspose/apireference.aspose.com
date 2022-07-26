@@ -1,7 +1,7 @@
 ---
 title: FITransactionId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the transaction ID issued by financial institution.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.loan/loanstatementtransaction/fitransactionid/

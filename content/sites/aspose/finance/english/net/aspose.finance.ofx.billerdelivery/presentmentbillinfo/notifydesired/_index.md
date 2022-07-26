@@ -1,7 +1,7 @@
 ---
 title: NotifyDesired
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether a delivery notification is desired.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/notifydesired/

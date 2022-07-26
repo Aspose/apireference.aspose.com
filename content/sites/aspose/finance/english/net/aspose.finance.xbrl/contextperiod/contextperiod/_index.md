@@ -1,12 +1,12 @@
 ---
 title: ContextPeriod
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ContextPeriodaspose.finance.xbrl/contextperiod class with Duration type.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/contextperiod/contextperiod/
 ---
-## ContextPeriod constructor (1 of 3)
+## ContextPeriod(DateTime, DateTime) {#constructor_2}
 
 Initializes a new instance of [`ContextPeriod`](../../contextperiod) class with Duration type.
 
@@ -27,7 +27,7 @@ public ContextPeriod(DateTime startDate, DateTime endDate)
 
 ---
 
-## ContextPeriod constructor (2 of 3)
+## ContextPeriod(DateTime) {#constructor_1}
 
 Initializes a new instance of [`ContextPeriod`](../../contextperiod) class with Instant type.
 
@@ -47,7 +47,7 @@ public ContextPeriod(DateTime instantDate)
 
 ---
 
-## ContextPeriod constructor (3 of 3)
+## ContextPeriod(ContextPeriodType) {#constructor}
 
 Initializes a new instance of [`ContextPeriod`](../../contextperiod) class.
 

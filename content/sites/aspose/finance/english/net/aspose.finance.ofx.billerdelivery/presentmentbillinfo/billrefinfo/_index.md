@@ -1,7 +1,7 @@
 ---
 title: BillRefInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the biller-defined text to include with the payment for the billers Accounts Receivable reconciliation.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/billrefinfo/

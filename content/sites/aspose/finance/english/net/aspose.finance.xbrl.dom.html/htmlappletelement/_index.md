@@ -1,7 +1,7 @@
 ---
 title: HTMLAppletElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents an embedded Java applet. See the APPLET element definition in HTML 4.01. This element is deprecated in HTML 4.01.
 type: docs
 weight: 6710
 url: /net/aspose.finance.xbrl.dom.html/htmlappletelement/

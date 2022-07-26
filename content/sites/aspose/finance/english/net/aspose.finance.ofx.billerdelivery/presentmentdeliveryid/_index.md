@@ -1,7 +1,7 @@
 ---
 title: PresentmentDeliveryId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class identifies a bill delivery instance and suggests when the bill was seen.
 type: docs
 weight: 1610
 url: /net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/

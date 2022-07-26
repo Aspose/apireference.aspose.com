@@ -1,7 +1,7 @@
 ---
 title: Max
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the maximum number of password characters
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.profile/signoninfo/max/

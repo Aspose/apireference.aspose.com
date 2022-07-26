@@ -1,7 +1,7 @@
 ---
 title: UnitPrice
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the price per commonly-quoted unit. Does not include markup/markdown. Share price for stocks mutual funds and others. Percentage of par for bonds. Per share not contract for options.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.investment/reinvest/unitprice/

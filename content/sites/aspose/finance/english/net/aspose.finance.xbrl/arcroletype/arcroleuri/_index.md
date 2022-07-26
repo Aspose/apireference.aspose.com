@@ -1,7 +1,7 @@
 ---
 title: ArcroleUri
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the arc role URI in the ArcroleTypeaspose.finance.xbrl/arcroletype.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/arcroletype/arcroleuri/

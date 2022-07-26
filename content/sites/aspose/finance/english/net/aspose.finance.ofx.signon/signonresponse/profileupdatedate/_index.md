@@ -1,7 +1,7 @@
 ---
 title: ProfileUpdateDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time of last update to profile information for any service supported by this FI.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.signon/signonresponse/profileupdatedate/

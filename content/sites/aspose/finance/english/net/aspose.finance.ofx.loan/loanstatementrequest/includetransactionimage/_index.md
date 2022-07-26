@@ -1,7 +1,7 @@
 ---
 title: IncludeTransactionImage
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether include data for transaction images
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.loan/loanstatementrequest/includetransactionimage/

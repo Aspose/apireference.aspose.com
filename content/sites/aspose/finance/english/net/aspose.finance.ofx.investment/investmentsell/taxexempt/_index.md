@@ -1,7 +1,7 @@
 ---
 title: TaxExempt
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether it is tax-exempt transaction.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.investment/investmentsell/taxexempt/

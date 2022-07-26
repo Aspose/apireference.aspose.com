@@ -1,7 +1,7 @@
 ---
 title: OfxElements
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of OfxElementTypeaspose.finance.ofx/ofxelementtype.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/ofxextensiontype/ofxelements/

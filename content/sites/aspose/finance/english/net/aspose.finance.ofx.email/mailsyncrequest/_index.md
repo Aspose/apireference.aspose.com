@@ -1,7 +1,7 @@
 ---
 title: MailSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Email synchronization request class.
 type: docs
 weight: 2180
 url: /net/aspose.finance.ofx.email/mailsyncrequest/

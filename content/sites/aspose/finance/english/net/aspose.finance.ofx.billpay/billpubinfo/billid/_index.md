@@ -1,7 +1,7 @@
 ---
 title: BillId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ID of the bill assigned by the bill presentment service provider to which this payment is being applied.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/billpubinfo/billid/

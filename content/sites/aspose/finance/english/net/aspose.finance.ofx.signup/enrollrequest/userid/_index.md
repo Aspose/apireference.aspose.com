@@ -1,7 +1,7 @@
 ---
 title: UserId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the actual user ID if already known or preferred user ID if user can choose.
 type: docs
 weight: 190
 url: /net/aspose.finance.ofx.signup/enrollrequest/userid/

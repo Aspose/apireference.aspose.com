@@ -1,7 +1,7 @@
 ---
 title: DaysToPay
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the minimum number of business days needed to process.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/extendedpayee/daystopay/

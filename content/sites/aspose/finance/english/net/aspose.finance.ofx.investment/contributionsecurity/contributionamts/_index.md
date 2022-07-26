@@ -1,7 +1,7 @@
 ---
 title: ContributionAmts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of ContributionAmtaspose.finance.ofx.investment/contributionamt.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/contributionsecurity/contributionamts/

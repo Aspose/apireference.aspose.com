@@ -1,7 +1,7 @@
 ---
 title: AccountHolderType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Account holder information class.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx/accountholdertype/

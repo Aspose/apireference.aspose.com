@@ -1,7 +1,7 @@
 ---
 title: SignupResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Signup response messages set version 1 class.
 type: docs
 weight: 5690
 url: /net/aspose.finance.ofx/signupresponsemessagesetv1/

@@ -1,7 +1,7 @@
 ---
 title: ChangeUserInfoSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Change user information synchronization response class.
 type: docs
 weight: 5570
 url: /net/aspose.finance.ofx.signup/changeuserinfosyncresponse/

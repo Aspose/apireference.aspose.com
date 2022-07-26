@@ -1,7 +1,7 @@
 ---
 title: Definition
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the definition in the RoleTypeaspose.finance.xbrl/roletype.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/roletype/definition/

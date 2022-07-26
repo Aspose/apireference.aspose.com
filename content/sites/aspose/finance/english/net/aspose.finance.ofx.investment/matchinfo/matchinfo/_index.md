@@ -1,7 +1,7 @@
 ---
 title: MatchInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of MatchInfoaspose.finance.ofx.investment/matchinfo class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/matchinfo/matchinfo/

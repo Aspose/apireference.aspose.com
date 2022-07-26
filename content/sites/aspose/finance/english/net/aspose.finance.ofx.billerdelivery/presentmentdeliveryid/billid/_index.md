@@ -1,7 +1,7 @@
 ---
 title: BillId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the the bill from the given biller
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/billid/

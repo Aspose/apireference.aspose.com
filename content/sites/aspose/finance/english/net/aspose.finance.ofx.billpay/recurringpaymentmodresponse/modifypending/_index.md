@@ -1,7 +1,7 @@
 ---
 title: ModifyPending
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: True if the client requested that the server modify pending and future payments. False if the client did not request that the server modify pending and future payments.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.billpay/recurringpaymentmodresponse/modifypending/

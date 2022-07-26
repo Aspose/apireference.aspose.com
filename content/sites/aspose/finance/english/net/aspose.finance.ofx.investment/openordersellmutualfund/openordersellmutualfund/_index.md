@@ -1,7 +1,7 @@
 ---
 title: OpenOrderSellMutualFund
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of OpenOrderSellMutualFundaspose.finance.ofx.investment/openordersellmutualfund class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/openordersellmutualfund/openordersellmutualfund/

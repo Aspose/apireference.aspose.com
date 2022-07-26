@@ -1,7 +1,7 @@
 ---
 title: TaxW2_V200
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Tax W2 v200 form class for tax years gt 2001
 type: docs
 weight: 6230
 url: /net/aspose.finance.ofx.taxw2/taxw2_v200/

@@ -1,7 +1,7 @@
 ---
 title: CashAdvanceBalanceAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current balance amount for cash advances at the time of the download. Only applies to CREDITLINE accounts.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.bank/statementresponse/cashadvancebalanceamount/

@@ -1,7 +1,7 @@
 ---
 title: Earnings
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: 401k earnings class. This is the market value change. It includes dividends/interest and capital gains - realized and unrealized.
 type: docs
 weight: 2820
 url: /net/aspose.finance.ofx.investment/earnings/

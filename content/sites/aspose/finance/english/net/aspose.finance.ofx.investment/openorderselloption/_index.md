@@ -1,7 +1,7 @@
 ---
 title: OpenOrderSellOption
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Open order sell option class.
 type: docs
 weight: 3290
 url: /net/aspose.finance.ofx.investment/openorderselloption/

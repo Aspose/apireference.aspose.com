@@ -1,7 +1,7 @@
 ---
 title: PresentmentDeliveryRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PresentmentDeliveryRequestMessageSetV1aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentdeliveryrequestmessagesetv1/

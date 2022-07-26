@@ -1,7 +1,7 @@
 ---
 title: ContributionType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets current contribution allocation is Percent or Amount.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/contributionsecurity/contributiontype/

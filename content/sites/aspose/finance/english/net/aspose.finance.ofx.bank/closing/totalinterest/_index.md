@@ -1,7 +1,7 @@
 ---
 title: TotalInterest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total of all interest.
 type: docs
 weight: 210
 url: /net/aspose.finance.ofx.bank/closing/totalinterest/

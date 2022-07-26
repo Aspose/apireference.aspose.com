@@ -1,7 +1,7 @@
 ---
 title: ClosingAvailable
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether closing statement information is available.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/closingavailable/

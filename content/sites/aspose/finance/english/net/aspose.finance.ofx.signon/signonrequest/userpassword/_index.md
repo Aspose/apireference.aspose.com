@@ -1,7 +1,7 @@
 ---
 title: UserPassword
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the user password on server.
 type: docs
 weight: 200
 url: /net/aspose.finance.ofx.signon/signonrequest/userpassword/

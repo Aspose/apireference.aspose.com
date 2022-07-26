@@ -1,7 +1,7 @@
 ---
 title: CheckDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: A check description must include a payee name or description. It can also include a check number the date the user wrote the check and a transaction amount.
 type: docs
 weight: 370
 url: /net/aspose.finance.ofx.bank/checkdescription/

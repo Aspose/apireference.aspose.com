@@ -1,7 +1,7 @@
 ---
 title: TagValue
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the custom element data value.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/ofxelementtype/tagvalue/

@@ -1,7 +1,7 @@
 ---
 title: PresentmentDeliveryResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Biller delivery response messages set version 1 class.
 type: docs
 weight: 4300
 url: /net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/

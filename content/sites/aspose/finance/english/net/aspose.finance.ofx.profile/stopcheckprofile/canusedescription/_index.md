@@ -1,7 +1,7 @@
 ---
 title: CanUseDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether can stop by description.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/stopcheckprofile/canusedescription/

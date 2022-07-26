@@ -1,7 +1,7 @@
 ---
 title: SimpleLink
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Simple type Xlink.
 type: docs
 weight: 8040
 url: /net/aspose.finance.xbrl/simplelink/

@@ -1,7 +1,7 @@
 ---
 title: GetNamedItem
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the attribute specified by name.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl.dom/namednodemap/getnameditem/
@@ -18,7 +18,7 @@ public Attr GetNamedItem(string name)
 | --- | --- | --- |
 | name | String | The attribute name. |
 
-## Return Value
+### Return Value
 
 The attribute with the name.
 

@@ -1,7 +1,7 @@
 ---
 title: NewUnits
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the number of shares after the split for stock splits.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.investment/split/newunits/

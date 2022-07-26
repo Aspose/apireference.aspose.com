@@ -1,7 +1,7 @@
 ---
 title: UseHtml
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: True for HTML-formatted text. False for plain text.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/mail/usehtml/

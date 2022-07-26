@@ -1,7 +1,7 @@
 ---
 title: Email
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the email address for FI.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.profile/profileresponse/email/

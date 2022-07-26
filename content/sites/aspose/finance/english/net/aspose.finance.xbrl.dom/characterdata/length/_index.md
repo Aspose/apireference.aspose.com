@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the number of 16-bit units that are available through data. This may have the value zero i.e. CharacterData nodes may be empty.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.dom/characterdata/length/

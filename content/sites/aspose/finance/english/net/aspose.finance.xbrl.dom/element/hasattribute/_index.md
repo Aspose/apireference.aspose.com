@@ -1,7 +1,7 @@
 ---
 title: HasAttribute
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Returns true when an attribute with a given name is specified on this element or has a default value false otherwise.
 type: docs
 weight: 110
 url: /net/aspose.finance.xbrl.dom/element/hasattribute/
@@ -18,7 +18,7 @@ public bool HasAttribute(string name)
 | --- | --- | --- |
 | name | String | The attribute name. |
 
-## Return Value
+### Return Value
 
 True if has attribute with the name; otherwise, false.
 

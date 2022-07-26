@@ -1,7 +1,7 @@
 ---
 title: UnitsUser
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the units in the users name directly.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/positionstock/unitsuser/

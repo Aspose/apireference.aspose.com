@@ -1,7 +1,7 @@
 ---
 title: AbstractRecurringPaymentResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class for all recurring payment response related classes.
 type: docs
 weight: 880
 url: /net/aspose.finance.ofx.billpay/abstractrecurringpaymentresponse/

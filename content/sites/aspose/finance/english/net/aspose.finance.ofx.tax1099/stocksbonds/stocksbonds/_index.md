@@ -1,7 +1,7 @@
 ---
 title: StocksBonds
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of StocksBondsaspose.finance.ofx.tax1099/stocksbonds class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.tax1099/stocksbonds/stocksbonds/

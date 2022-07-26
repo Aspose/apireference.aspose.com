@@ -1,7 +1,7 @@
 ---
 title: Investment401k
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment 401k account information class.
 type: docs
 weight: 2890
 url: /net/aspose.finance.ofx.investment/investment401k/

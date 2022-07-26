@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the node at the specified index in the list.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.dom/nodelist/item/
@@ -18,7 +18,7 @@ public Node this[int index] { get; }
 | --- | --- |
 | index | The zero based index of the node. |
 
-## Return Value
+### Return Value
 
 The node at the specified index.
 

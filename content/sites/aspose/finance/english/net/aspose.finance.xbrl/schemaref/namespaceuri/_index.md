@@ -1,7 +1,7 @@
 ---
 title: NamespaceUri
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the namespace URI of the schema in the XBRL instance.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl/schemaref/namespaceuri/

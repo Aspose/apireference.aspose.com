@@ -1,7 +1,7 @@
 ---
 title: InvestmentSell
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment sell transaction class.
 type: docs
 weight: 3060
 url: /net/aspose.finance.ofx.investment/investmentsell/

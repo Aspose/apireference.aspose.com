@@ -1,7 +1,7 @@
 ---
 title: PaymentCancelRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment cancellation request class.
 type: docs
 weight: 1050
 url: /net/aspose.finance.ofx.billpay/paymentcancelrequest/

@@ -1,7 +1,7 @@
 ---
 title: DueByDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date that customer is requesting bills due on or before it.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/duebydate/

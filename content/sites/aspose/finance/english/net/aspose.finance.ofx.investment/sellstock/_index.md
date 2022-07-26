@@ -1,7 +1,7 @@
 ---
 title: SellStock
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment sell stock class.
 type: docs
 weight: 3530
 url: /net/aspose.finance.ofx.investment/sellstock/

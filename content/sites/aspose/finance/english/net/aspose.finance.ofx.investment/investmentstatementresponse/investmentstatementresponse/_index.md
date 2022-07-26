@@ -1,7 +1,7 @@
 ---
 title: InvestmentStatementResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of InvestmentStatementResponseaspose.finance.ofx.investment/investmentstatementresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/investmentstatementresponse/investmentstatementresponse/

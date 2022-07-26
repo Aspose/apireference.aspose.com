@@ -1,7 +1,7 @@
 ---
 title: Attributes
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the attributes of the element.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.dom/element/attributes/

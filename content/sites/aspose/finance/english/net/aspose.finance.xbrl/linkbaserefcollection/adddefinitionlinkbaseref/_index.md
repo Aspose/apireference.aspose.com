@@ -1,7 +1,7 @@
 ---
 title: AddDefinitionLinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Add a DefinitionLinkbaseRefaspose.finance.xbrl/definitionlinkbaseref to the collection.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/linkbaserefcollection/adddefinitionlinkbaseref/

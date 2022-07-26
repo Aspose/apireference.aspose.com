@@ -1,7 +1,7 @@
 ---
 title: SumCostBasis
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the cost basis. This is the total cost basis for all transactions reported in this summary.For Form 8949 Code A and D transactions this should be the cost basis as reported to the IRS.For all other transactions the cost basis should be the cost basis as known by the provider.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.tax1099/proceedsummary_v100/sumcostbasis/

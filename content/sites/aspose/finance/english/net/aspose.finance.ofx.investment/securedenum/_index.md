@@ -1,7 +1,7 @@
 ---
 title: SecuredEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Secured type enum.
 type: docs
 weight: 3470
 url: /net/aspose.finance.ofx.investment/securedenum/
@@ -14,7 +14,7 @@ Secured type enum.
 public enum SecuredEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

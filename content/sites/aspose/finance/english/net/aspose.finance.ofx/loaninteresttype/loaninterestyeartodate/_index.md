@@ -1,7 +1,7 @@
 ---
 title: LoanInterestYearToDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total interest paid year to date.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/loaninteresttype/loaninterestyeartodate/

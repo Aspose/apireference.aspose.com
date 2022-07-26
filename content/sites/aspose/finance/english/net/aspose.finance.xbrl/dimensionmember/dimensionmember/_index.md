@@ -1,12 +1,12 @@
 ---
 title: DimensionMember
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of typed DimensionMemberaspose.finance.xbrl/dimensionmember class.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/dimensionmember/dimensionmember/
 ---
-## DimensionMember constructor (1 of 2)
+## DimensionMember(Concept, Element) {#constructor_1}
 
 Initializes a new instance of typed [`DimensionMember`](../../dimensionmember) class.
 
@@ -29,7 +29,7 @@ public DimensionMember(Concept dimensionConcept, Element typeMember)
 
 ---
 
-## DimensionMember constructor (2 of 2)
+## DimensionMember(Concept, Concept) {#constructor}
 
 Initializes a new instance of explicit [`DimensionMember`](../../dimensionmember) class.
 

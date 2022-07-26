@@ -1,7 +1,7 @@
 ---
 title: SellTypeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Sell type enum.
 type: docs
 weight: 3540
 url: /net/aspose.finance.ofx.investment/selltypeenum/
@@ -14,7 +14,7 @@ Sell type enum.
 public enum SellTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

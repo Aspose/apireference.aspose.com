@@ -1,7 +1,7 @@
 ---
 title: Discount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Discount class.
 type: docs
 weight: 2110
 url: /net/aspose.finance.ofx/discount/

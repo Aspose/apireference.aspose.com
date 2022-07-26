@@ -1,7 +1,7 @@
 ---
 title: EmployerStateId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the employer state ID.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.taxw2/stateinfo/employerstateid/

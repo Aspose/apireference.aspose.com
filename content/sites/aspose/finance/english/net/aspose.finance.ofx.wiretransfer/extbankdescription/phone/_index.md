@@ -1,7 +1,7 @@
 ---
 title: Phone
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the banks phone number.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.wiretransfer/extbankdescription/phone/

@@ -1,7 +1,7 @@
 ---
 title: SignonRealm
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the signon realm to use with this message set.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.profile/messagesetcore/signonrealm/

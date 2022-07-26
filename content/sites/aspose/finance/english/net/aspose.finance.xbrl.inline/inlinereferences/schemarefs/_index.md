@@ -1,7 +1,7 @@
 ---
 title: SchemaRefs
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the SchemaRef collection in the InlineReferencesaspose.finance.xbrl.inline/inlinereferences
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl.inline/inlinereferences/schemarefs/

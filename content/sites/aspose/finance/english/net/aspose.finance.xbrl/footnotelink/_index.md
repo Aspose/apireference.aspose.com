@@ -1,7 +1,7 @@
 ---
 title: FootnoteLink
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class contains Locators resources and arcs that describe irregular relationships between facts in an XBRL Instance.
 type: docs
 weight: 7650
 url: /net/aspose.finance.xbrl/footnotelink/

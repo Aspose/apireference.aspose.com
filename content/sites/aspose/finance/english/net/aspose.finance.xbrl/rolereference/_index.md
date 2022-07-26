@@ -1,7 +1,7 @@
 ---
 title: RoleReference
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is used in XBRL instance to reference the definitions of any custom role attribute values used in footnote links in the XBRL instance.
 type: docs
 weight: 7970
 url: /net/aspose.finance.xbrl/rolereference/

@@ -1,7 +1,7 @@
 ---
 title: UserCredential2Label
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the text prompt for user credential. If it is present a fourth credential USERCRED2 is required in addition to USERID USERPASS and USERCRED1. If present UserCredential1Label must also be present.
 type: docs
 weight: 190
 url: /net/aspose.finance.ofx.profile/signoninfo/usercredential2label/

@@ -1,7 +1,7 @@
 ---
 title: PROCESSING_INSTRUCTION_NODE
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Processing instruction node type.
 type: docs
 weight: 240
 url: /net/aspose.finance.xbrl.dom/node/processing_instruction_node/

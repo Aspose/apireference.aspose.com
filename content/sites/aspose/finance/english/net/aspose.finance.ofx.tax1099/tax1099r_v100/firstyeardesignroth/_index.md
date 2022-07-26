@@ -1,7 +1,7 @@
 ---
 title: FirstYearDesignRoth
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the first year designated ROTH in format YYYY.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/firstyeardesignroth/

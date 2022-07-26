@@ -1,7 +1,7 @@
 ---
 title: ExtendedPaymentForEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment for type enum.
 type: docs
 weight: 920
 url: /net/aspose.finance.ofx.billpay/extendedpaymentforenum/
@@ -14,7 +14,7 @@ Payment for type enum.
 public enum ExtendedPaymentForEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -1,7 +1,7 @@
 ---
 title: CallTypeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Call type enum.
 type: docs
 weight: 5000
 url: /net/aspose.finance.ofx.securitieslist/calltypeenum/
@@ -14,7 +14,7 @@ Call type enum.
 public enum CallTypeEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

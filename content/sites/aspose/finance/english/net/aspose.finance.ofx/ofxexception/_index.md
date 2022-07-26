@@ -1,7 +1,7 @@
 ---
 title: OfxException
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Ofx exception class.
 type: docs
 weight: 4180
 url: /net/aspose.finance.ofx/ofxexception/

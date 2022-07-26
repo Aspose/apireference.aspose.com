@@ -1,7 +1,7 @@
 ---
 title: BalanceType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Get or sets the balance type of the concept.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/concept/balancetype/

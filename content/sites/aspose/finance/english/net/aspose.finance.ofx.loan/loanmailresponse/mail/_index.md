@@ -1,7 +1,7 @@
 ---
 title: Mail
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Mailaspose.finance.ofx.loan/loanmailresponse/mail.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.loan/loanmailresponse/mail/

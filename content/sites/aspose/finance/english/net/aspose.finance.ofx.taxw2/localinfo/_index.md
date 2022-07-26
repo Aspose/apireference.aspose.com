@@ -1,7 +1,7 @@
 ---
 title: LocalInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Local information class.
 type: docs
 weight: 6150
 url: /net/aspose.finance.ofx.taxw2/localinfo/

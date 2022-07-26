@@ -1,7 +1,7 @@
 ---
 title: AccountInfos
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of BankAccountInfoaspose.finance.ofx/bankaccountinfo or LoanAccountInfoaspose.finance.ofx/loanaccountinfo or CreditCardAccountInfoaspose.finance.ofx/creditcardaccountinfo or BillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfo or InvestmentAccountInfoaspose.finance.ofx/investmentaccountinfo or PresentmentAccountInfoaspose.finance.ofx/presentmentaccountinfo.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/accountinfo/accountinfos/

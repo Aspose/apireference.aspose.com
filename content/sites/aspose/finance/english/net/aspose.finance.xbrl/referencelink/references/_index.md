@@ -1,7 +1,7 @@
 ---
 title: References
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of Referenceaspose.finance.xbrl/reference.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/referencelink/references/

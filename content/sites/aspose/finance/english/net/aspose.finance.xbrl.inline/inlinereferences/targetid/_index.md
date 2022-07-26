@@ -1,7 +1,7 @@
 ---
 title: TargetId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the target id of the InlineReferencesaspose.finance.xbrl.inline/inlinereferences.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl.inline/inlinereferences/targetid/

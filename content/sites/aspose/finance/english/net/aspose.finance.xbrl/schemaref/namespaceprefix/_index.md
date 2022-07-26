@@ -1,7 +1,7 @@
 ---
 title: NamespacePrefix
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the namespace prefix of the schema in the XBRL instance.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl/schemaref/namespaceprefix/

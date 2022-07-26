@@ -1,7 +1,7 @@
 ---
 title: LostSynchronization
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Yes if the token in the synchronization request is older than the earliest entry in the servers history table.In this case some responses have been lost. No if the token in the synchronization request is newer than or matches a token in the servers history table.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/abstractsyncresponse/lostsynchronization/

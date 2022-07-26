@@ -1,7 +1,7 @@
 ---
 title: LoanFrequency
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the frequency of payments.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/loanaccountinfo/loanfrequency/

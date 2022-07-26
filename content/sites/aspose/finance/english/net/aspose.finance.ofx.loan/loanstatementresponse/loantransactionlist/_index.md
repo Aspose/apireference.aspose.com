@@ -1,7 +1,7 @@
 ---
 title: LoanTransactionList
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the LoanTransactionListaspose.finance.ofx.loan/loanstatementresponse/loantransactionlist.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.loan/loanstatementresponse/loantransactionlist/

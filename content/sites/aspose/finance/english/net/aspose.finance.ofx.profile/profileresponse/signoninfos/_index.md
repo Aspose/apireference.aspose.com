@@ -1,7 +1,7 @@
 ---
 title: SignonInfos
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of SignonInfoaspose.finance.ofx.profile/signoninfo.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.profile/profileresponse/signoninfos/

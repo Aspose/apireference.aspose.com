@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Add a XbrlInstanceaspose.finance.xbrl/xbrlinstance to the collection.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/xbrlinstancecollection/add/
@@ -14,7 +14,7 @@ Add a [`XbrlInstance`](../../xbrlinstance) to the collection.
 public int Add()
 ```
 
-## Return Value
+### Return Value
 
 [`XbrlInstance`](../../xbrlinstance) object index.
 

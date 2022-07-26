@@ -1,7 +1,7 @@
 ---
 title: InvoiceNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the invoice number associated with the payment.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx/invoice/invoicenumber/

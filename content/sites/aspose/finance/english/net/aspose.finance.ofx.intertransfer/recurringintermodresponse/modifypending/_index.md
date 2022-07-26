@@ -1,7 +1,7 @@
 ---
 title: ModifyPending
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the modify pending flag. Yes if the client requested that the server modify pending and future transfers. No if the client did not request that the server modify pending and future transfers.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.intertransfer/recurringintermodresponse/modifypending/

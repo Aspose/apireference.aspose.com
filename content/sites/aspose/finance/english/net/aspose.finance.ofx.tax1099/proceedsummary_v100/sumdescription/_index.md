@@ -1,7 +1,7 @@
 ---
 title: SumDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the description of summary transactions reported.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.tax1099/proceedsummary_v100/sumdescription/

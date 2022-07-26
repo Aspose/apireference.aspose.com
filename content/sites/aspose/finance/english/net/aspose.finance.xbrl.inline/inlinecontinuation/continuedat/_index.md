@@ -1,7 +1,7 @@
 ---
 title: ContinuedAt
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the continuation reference id of the InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.inline/inlinecontinuation/continuedat/

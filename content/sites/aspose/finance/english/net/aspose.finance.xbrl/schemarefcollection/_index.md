@@ -1,7 +1,7 @@
 ---
 title: SchemaRefCollection
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Collection of schema references.
 type: docs
 weight: 8020
 url: /net/aspose.finance.xbrl/schemarefcollection/
@@ -25,8 +25,8 @@ public class SchemaRefCollection : IEnumerable<SchemaRef>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.finance.xbrl/schemarefcollection/add)(string, string) | Add a [`SchemaRef`](../schemaref) to the collection. |
-| [Add](../../aspose.finance.xbrl/schemarefcollection/add)(string, string, string) | Add a [`SchemaRef`](../schemaref) to the collection. |
+| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add)(string, string) | Add a [`SchemaRef`](../schemaref) to the collection. |
+| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add_1)(string, string, string) | Add a [`SchemaRef`](../schemaref) to the collection. |
 | [GetEnumerator](../../aspose.finance.xbrl/schemarefcollection/getenumerator)() | Returns an enumerator that iterates through the collection. |
 
 ### See Also

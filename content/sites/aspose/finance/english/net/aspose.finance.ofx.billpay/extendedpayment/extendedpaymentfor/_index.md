@@ -1,7 +1,7 @@
 ---
 title: ExtendedPaymentFor
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the payment is for an individual or business account.This allows the payment processor to remit payments to the appropriate address for consumers or businesses.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentfor/

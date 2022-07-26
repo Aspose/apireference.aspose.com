@@ -1,7 +1,7 @@
 ---
 title: SignonMessageSet
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Signon message set.
 type: docs
 weight: 4780
 url: /net/aspose.finance.ofx.profile/signonmessageset/

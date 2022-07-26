@@ -1,7 +1,7 @@
 ---
 title: AbstractTaxForm1099
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class of tax form 1099 classes.
 type: docs
 weight: 5860
 url: /net/aspose.finance.ofx.tax1099/abstracttaxform1099/

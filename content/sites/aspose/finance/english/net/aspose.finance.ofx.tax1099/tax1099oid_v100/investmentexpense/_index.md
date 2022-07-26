@@ -1,7 +1,7 @@
 ---
 title: InvestmentExpense
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the investment expenses.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.tax1099/tax1099oid_v100/investmentexpense/

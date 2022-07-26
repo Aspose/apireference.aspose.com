@@ -1,7 +1,7 @@
 ---
 title: TypedMemberElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the member element if its a typed dimension member.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl/dimensionmember/typedmemberelement/

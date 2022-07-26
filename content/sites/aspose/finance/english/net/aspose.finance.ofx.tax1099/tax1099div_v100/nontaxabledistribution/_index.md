@@ -1,7 +1,7 @@
 ---
 title: NontaxableDistribution
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the nontaxable distributions.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.tax1099/tax1099div_v100/nontaxabledistribution/

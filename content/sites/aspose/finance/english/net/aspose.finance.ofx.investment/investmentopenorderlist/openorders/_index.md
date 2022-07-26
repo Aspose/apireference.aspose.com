@@ -1,7 +1,7 @@
 ---
 title: OpenOrders
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of OpenOrderBuyDebtaspose.finance.ofx.investment/openorderbuydebt or OpenOrderBuyMutualFundaspose.finance.ofx.investment/openorderbuymutualfund or OpenOrderBuyOptionaspose.finance.ofx.investment/openorderbuyoption or OpenOrderBuyOtheraspose.finance.ofx.investment/openorderbuyother or OpenOrderBuyStockaspose.finance.ofx.investment/openorderbuystock or OpenOrderSellDebtaspose.finance.ofx.investment/openorderselldebt or OpenOrderSellMutualFundaspose.finance.ofx.investment/openordersellmutualfund or OpenOrderSellOptionaspose.finance.ofx.investment/openorderselloption or OpenOrderSellOtheraspose.finance.ofx.investment/openordersellother or OpenOrderSellStockaspose.finance.ofx.investment/openordersellstock or OpenOrderSwitchMutualFundaspose.finance.ofx.investment/openorderswitchmutualfund.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investmentopenorderlist/openorders/

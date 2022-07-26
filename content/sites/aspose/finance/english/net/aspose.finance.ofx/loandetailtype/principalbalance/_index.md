@@ -1,7 +1,7 @@
 ---
 title: PrincipalBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current loan principal balance.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx/loandetailtype/principalbalance/

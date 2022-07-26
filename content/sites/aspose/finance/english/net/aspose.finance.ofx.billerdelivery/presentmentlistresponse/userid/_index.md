@@ -1,7 +1,7 @@
 ---
 title: UserId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the user whose bill data is being returned.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistresponse/userid/

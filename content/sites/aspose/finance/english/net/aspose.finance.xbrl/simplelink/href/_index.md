@@ -1,7 +1,7 @@
 ---
 title: Href
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the simple link href URI.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/simplelink/href/

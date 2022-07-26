@@ -1,7 +1,7 @@
 ---
 title: PresentmentGroupAccountInfoTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Group account information transaction response class.
 type: docs
 weight: 1680
 url: /net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/

@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the elements advisory title. See the title attribute definition in HTML 4.01.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl.dom.html/htmlelement/title/

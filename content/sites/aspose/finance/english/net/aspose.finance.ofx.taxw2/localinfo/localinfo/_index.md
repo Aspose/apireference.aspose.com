@@ -1,7 +1,7 @@
 ---
 title: LocalInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of LocalInfoaspose.finance.ofx.taxw2/localinfo class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.taxw2/localinfo/localinfo/

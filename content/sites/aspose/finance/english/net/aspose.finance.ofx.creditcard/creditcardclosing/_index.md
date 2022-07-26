@@ -1,7 +1,7 @@
 ---
 title: CreditCardClosing
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: A credit card account uses the CreditCardClosing class to describe statement closing information.
 type: docs
 weight: 1950
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/

@@ -1,7 +1,7 @@
 ---
 title: InterSyncRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of InterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/intertransferrequestmessagesetv1/intersyncrequests/

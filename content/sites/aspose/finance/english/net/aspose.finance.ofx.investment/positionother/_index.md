@@ -1,7 +1,7 @@
 ---
 title: PositionOther
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment position other class.
 type: docs
 weight: 3400
 url: /net/aspose.finance.ofx.investment/positionother/

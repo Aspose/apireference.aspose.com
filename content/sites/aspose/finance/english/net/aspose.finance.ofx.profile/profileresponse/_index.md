@@ -1,7 +1,7 @@
 ---
 title: ProfileResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Profile response class.
 type: docs
 weight: 4710
 url: /net/aspose.finance.ofx.profile/profileresponse/

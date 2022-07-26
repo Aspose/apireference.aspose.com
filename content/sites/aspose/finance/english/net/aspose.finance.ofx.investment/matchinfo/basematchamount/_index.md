@@ -1,7 +1,7 @@
 ---
 title: BaseMatchAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the fixed dollar amount contributed by the employer if the employee participates in the plan at all.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/matchinfo/basematchamount/

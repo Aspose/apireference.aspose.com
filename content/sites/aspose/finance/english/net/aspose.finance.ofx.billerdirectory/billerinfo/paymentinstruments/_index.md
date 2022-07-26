@@ -1,7 +1,7 @@
 ---
 title: PaymentInstruments
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/paymentinstruments/

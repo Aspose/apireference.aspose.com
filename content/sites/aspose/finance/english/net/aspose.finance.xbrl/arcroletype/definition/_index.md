@@ -1,7 +1,7 @@
 ---
 title: Definition
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the definition in the ArcroleTypeaspose.finance.xbrl/arcroletype.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/arcroletype/definition/

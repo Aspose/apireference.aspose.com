@@ -1,7 +1,7 @@
 ---
 title: Facts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of Factaspose.finance.xbrl/fact objects in the XBRL instance.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/xbrlinstance/facts/

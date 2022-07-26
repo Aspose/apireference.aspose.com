@@ -1,7 +1,7 @@
 ---
 title: Units
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of Unitaspose.finance.xbrl/unit in the inline XBRL document.
 type: docs
 weight: 100
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/units/

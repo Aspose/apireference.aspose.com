@@ -1,7 +1,7 @@
 ---
 title: PaymentInstrumentEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment instrument type enum.
 type: docs
 weight: 1910
 url: /net/aspose.finance.ofx.billerdirectory/paymentinstrumentenum/
@@ -14,7 +14,7 @@ Payment instrument type enum.
 public enum PaymentInstrumentEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

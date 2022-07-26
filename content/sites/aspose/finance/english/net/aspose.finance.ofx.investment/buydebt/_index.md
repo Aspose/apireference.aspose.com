@@ -1,7 +1,7 @@
 ---
 title: BuyDebt
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment buy debt transaction class.
 type: docs
 weight: 2670
 url: /net/aspose.finance.ofx.investment/buydebt/

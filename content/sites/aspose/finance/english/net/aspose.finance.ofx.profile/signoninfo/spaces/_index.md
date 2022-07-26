@@ -1,7 +1,7 @@
 ---
 title: Spaces
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether spaces are allowed over and above those characters.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.profile/signoninfo/spaces/

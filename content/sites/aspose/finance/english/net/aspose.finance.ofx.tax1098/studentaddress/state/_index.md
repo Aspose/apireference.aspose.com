@@ -1,7 +1,7 @@
 ---
 title: State
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the student address state.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.tax1098/studentaddress/state/

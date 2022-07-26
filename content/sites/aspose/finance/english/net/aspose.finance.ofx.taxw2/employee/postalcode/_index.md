@@ -1,7 +1,7 @@
 ---
 title: PostalCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the employee postal code.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.taxw2/employee/postalcode/

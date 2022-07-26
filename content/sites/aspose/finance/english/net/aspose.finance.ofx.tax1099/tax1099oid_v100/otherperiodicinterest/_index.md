@@ -1,7 +1,7 @@
 ---
 title: OtherPeriodicInterest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the other periodic interest.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.tax1099/tax1099oid_v100/otherperiodicinterest/

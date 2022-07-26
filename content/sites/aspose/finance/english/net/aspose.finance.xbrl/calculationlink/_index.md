@@ -1,7 +1,7 @@
 ---
 title: CalculationLink
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class describes calculation relationships between Concepts in taxonomies.
 type: docs
 weight: 6510
 url: /net/aspose.finance.xbrl/calculationlink/

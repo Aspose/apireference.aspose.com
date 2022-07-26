@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the text of the footnote.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/footnote/text/

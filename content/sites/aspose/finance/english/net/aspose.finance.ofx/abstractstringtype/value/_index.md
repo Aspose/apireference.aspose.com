@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the string value.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/abstractstringtype/value/

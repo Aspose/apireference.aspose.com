@@ -1,7 +1,7 @@
 ---
 title: Tax1098Request
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of Tax1098Requestaspose.finance.ofx.tax1098/tax1098request class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.tax1098/tax1098request/tax1098request/

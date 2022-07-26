@@ -1,7 +1,7 @@
 ---
 title: WireTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of WireTransactionRequestaspose.finance.ofx.wiretransfer/wiretransactionrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransactionrequests/

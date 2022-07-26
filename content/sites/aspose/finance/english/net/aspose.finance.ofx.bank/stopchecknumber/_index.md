@@ -1,7 +1,7 @@
 ---
 title: StopCheckNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Stop check item class.
 type: docs
 weight: 710
 url: /net/aspose.finance.ofx.bank/stopchecknumber/

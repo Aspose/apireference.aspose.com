@@ -1,7 +1,7 @@
 ---
 title: State
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the state or province.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.signup/enrollrequest/state/

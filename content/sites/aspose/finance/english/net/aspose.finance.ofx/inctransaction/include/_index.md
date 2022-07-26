@@ -1,7 +1,7 @@
 ---
 title: Include
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether include transactions flag
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/inctransaction/include/

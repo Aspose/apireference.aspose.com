@@ -1,7 +1,7 @@
 ---
 title: IntraTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of IntraTransactionRequestaspose.finance.ofx.bank/intratransactionrequest.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/bankrequestmessagesetv1/intratransactionrequests/

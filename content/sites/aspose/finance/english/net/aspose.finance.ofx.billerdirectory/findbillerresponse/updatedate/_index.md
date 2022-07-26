@@ -1,7 +1,7 @@
 ---
 title: UpdateDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time of last addition or modification to the entries in the directory whether part of this response or not.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billerdirectory/findbillerresponse/updatedate/

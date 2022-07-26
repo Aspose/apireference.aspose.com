@@ -1,7 +1,7 @@
 ---
 title: IsValid
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Checks whether this inlince XBRL document is valid.
 type: docs
 weight: 250
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/isvalid/
@@ -14,7 +14,7 @@ Checks whether this inlince XBRL document is valid.
 public bool IsValid()
 ```
 
-## Return Value
+### Return Value
 
 If valid, return true, otherwise false.
 

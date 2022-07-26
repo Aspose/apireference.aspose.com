@@ -1,7 +1,7 @@
 ---
 title: XbrlLinkbaseLinkbaseRefElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents xbrl linkbase linkbaseRef element.
 type: docs
 weight: 7560
 url: /net/aspose.finance.xbrl.dom.xbrllinkbase/xbrllinkbaselinkbaserefelement/

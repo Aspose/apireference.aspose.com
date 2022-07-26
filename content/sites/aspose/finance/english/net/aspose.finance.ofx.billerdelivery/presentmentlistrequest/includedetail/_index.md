@@ -1,7 +1,7 @@
 ---
 title: IncludeDetail
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the flag indicating bill detail should be included too.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/includedetail/

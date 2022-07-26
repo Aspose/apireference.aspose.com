@@ -1,7 +1,7 @@
 ---
 title: InlineFraction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is for XBRL fact which is fractionItemType in inline XBRL document.
 type: docs
 weight: 7690
 url: /net/aspose.finance.xbrl.inline/inlinefraction/

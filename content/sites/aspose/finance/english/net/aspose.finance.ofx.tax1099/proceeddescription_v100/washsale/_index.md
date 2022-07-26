@@ -1,7 +1,7 @@
 ---
 title: WashSale
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the wash sale. Indicates the sale is subject to wash sale rules.
 type: docs
 weight: 230
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/washsale/

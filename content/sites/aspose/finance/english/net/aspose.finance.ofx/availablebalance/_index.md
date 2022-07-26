@@ -1,7 +1,7 @@
 ---
 title: AvailableBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Available balance class.
 type: docs
 weight: 220
 url: /net/aspose.finance.ofx/availablebalance/

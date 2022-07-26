@@ -1,7 +1,7 @@
 ---
 title: GetConceptById
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the concept which has the specified id.
 type: docs
 weight: 100
 url: /net/aspose.finance.xbrl/schemaref/getconceptbyid/
@@ -18,7 +18,7 @@ public Concept GetConceptById(string conceptId)
 | --- | --- | --- |
 | conceptId | String | Concept id. |
 
-## Return Value
+### Return Value
 
 The concept.
 

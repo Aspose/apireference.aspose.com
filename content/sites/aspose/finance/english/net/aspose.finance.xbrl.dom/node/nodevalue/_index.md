@@ -1,7 +1,7 @@
 ---
 title: NodeValue
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the value of this node depending on its type.
 type: docs
 weight: 110
 url: /net/aspose.finance.xbrl.dom/node/nodevalue/

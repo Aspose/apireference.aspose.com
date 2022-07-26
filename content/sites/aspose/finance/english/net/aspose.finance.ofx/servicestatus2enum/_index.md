@@ -1,7 +1,7 @@
 ---
 title: ServiceStatus2Enum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Status of the Bill Presentment service enum.
 type: docs
 weight: 5230
 url: /net/aspose.finance.ofx/servicestatus2enum/
@@ -14,7 +14,7 @@ Status of the Bill Presentment service enum.
 public enum ServiceStatus2Enum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

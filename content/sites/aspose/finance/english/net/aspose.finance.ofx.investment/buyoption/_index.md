@@ -1,7 +1,7 @@
 ---
 title: BuyOption
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment buy option transaction class.
 type: docs
 weight: 2700
 url: /net/aspose.finance.ofx.investment/buyoption/

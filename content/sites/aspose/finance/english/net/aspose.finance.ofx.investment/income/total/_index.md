@@ -1,7 +1,7 @@
 ---
 title: Total
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the transaction total.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.investment/income/total/

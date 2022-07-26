@@ -1,7 +1,7 @@
 ---
 title: EmailRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the EmailRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/emailrequestmessagesetv1.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/ofxrequestdocument/emailrequestmessagesetv1/

@@ -1,7 +1,7 @@
 ---
 title: FICertificateId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ID of server certificate used to encrypt.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signon/challengeresponse/ficertificateid/

@@ -1,7 +1,7 @@
 ---
 title: PreferredLabel
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the preferred label URI.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/presentationarc/preferredlabel/

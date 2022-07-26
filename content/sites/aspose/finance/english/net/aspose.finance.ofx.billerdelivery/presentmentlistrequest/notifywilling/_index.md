@@ -1,7 +1,7 @@
 ---
 title: NotifyWilling
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the flag indicating that client is prepared to send notifications of bill delivery if desired.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/notifywilling/

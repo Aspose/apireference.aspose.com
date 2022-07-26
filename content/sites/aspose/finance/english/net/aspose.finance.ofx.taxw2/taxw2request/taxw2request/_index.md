@@ -1,7 +1,7 @@
 ---
 title: TaxW2Request
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of TaxW2Requestaspose.finance.ofx.taxw2/taxw2request class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.taxw2/taxw2request/taxw2request/

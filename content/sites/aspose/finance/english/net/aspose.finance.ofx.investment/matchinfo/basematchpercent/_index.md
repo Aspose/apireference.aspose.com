@@ -1,7 +1,7 @@
 ---
 title: BaseMatchPercent
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the fixed percent of employee salary matched if the employee participates in the plan at all.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.investment/matchinfo/basematchpercent/

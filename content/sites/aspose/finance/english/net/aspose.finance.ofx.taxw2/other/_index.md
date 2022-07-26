@@ -1,7 +1,7 @@
 ---
 title: Other
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Other class. Description and amount for Box 14.
 type: docs
 weight: 6160
 url: /net/aspose.finance.ofx.taxw2/other/

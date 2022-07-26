@@ -1,7 +1,7 @@
 ---
 title: InvestmentMailSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of InvestmentMailSyncResponseaspose.finance.ofx.investment/investmentmailsyncresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/investmentmailsyncresponse/investmentmailsyncresponse/

@@ -1,7 +1,7 @@
 ---
 title: Phone
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the filer address telephone number.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.tax1098/fileraddress/phone/

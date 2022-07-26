@@ -1,7 +1,7 @@
 ---
 title: ChildNodes
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the child nodes.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.dom/node/childnodes/

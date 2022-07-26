@@ -1,7 +1,7 @@
 ---
 title: EnrollTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of EnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/signuprequestmessagesetv1/enrolltransactionrequests/

@@ -1,7 +1,7 @@
 ---
 title: IncludeStatusHistory
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the flag indicating bill status history and/or bill payment status history should be included too.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/includestatushistory/

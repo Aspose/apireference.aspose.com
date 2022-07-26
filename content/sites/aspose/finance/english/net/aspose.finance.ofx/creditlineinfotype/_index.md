@@ -1,7 +1,7 @@
 ---
 title: CreditLineInfoType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Collection of information providing additional information for CREDITLINE accounts. Not used for other account types.
 type: docs
 weight: 2060
 url: /net/aspose.finance.ofx/creditlineinfotype/

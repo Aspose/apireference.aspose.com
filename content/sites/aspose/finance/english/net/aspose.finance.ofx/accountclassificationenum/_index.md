@@ -1,7 +1,7 @@
 ---
 title: AccountClassificationEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Account classification type enum.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx/accountclassificationenum/
@@ -14,7 +14,7 @@ Account classification type enum.
 public enum AccountClassificationEnum
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

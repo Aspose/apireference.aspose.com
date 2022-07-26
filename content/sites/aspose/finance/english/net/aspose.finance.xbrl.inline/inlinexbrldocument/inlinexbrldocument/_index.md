@@ -1,7 +1,7 @@
 ---
 title: InlineXbrlDocument
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of InlineXbrlDocumentaspose.finance.xbrl.inline/inlinexbrldocument class and open a file.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/inlinexbrldocument/

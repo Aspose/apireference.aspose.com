@@ -1,7 +1,7 @@
 ---
 title: PercentageTotalDistribution
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the your percentage of total distribution.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/percentagetotaldistribution/

@@ -1,7 +1,7 @@
 ---
 title: LoanId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the transaction was due to a loan or a loan repayment and which loan it was. For 401k accounts only.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/investmentsell/loanid/

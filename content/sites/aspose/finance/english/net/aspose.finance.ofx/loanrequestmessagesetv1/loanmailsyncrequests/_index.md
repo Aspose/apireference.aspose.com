@@ -1,7 +1,7 @@
 ---
 title: LoanMailSyncRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of LoanMailSyncRequestaspose.finance.ofx.loan/loanmailsyncrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/loanrequestmessagesetv1/loanmailsyncrequests/

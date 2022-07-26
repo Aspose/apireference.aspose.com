@@ -1,7 +1,7 @@
 ---
 title: GetLabel
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the label of the concept from the Label links.
 type: docs
 weight: 110
 url: /net/aspose.finance.xbrl/concept/getlabel/
@@ -18,7 +18,7 @@ public string GetLabel(string preferredLabel)
 | --- | --- | --- |
 | preferredLabel | String | The preferred label. |
 
-## Return Value
+### Return Value
 
 The concept label.
 

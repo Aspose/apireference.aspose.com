@@ -1,7 +1,7 @@
 ---
 title: ExtendedPaymentInvoice
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Extended payment invoice class.
 type: docs
 weight: 930
 url: /net/aspose.finance.ofx.billpay/extendedpaymentinvoice/

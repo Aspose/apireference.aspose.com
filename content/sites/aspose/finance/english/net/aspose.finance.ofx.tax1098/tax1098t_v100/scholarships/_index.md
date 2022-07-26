@@ -1,7 +1,7 @@
 ---
 title: Scholarships
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the scholarships or grants.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/scholarships/

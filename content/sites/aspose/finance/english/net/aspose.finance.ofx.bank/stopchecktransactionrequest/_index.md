@@ -1,7 +1,7 @@
 ---
 title: StopCheckTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Stop check transaction request class.
 type: docs
 weight: 760
 url: /net/aspose.finance.ofx.bank/stopchecktransactionrequest/

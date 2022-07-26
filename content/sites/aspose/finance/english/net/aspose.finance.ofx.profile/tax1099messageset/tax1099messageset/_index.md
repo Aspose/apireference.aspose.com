@@ -1,7 +1,7 @@
 ---
 title: Tax1099MessageSet
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of Tax1099MessageSetaspose.finance.ofx.profile/tax1099messageset class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/tax1099messageset/tax1099messageset/
