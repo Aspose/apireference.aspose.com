@@ -1,7 +1,7 @@
 ---
 title: TaxW2MessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of TaxW2MessageSetV1aspose.finance.ofx.profile/taxw2messagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/taxw2messagesetv1/taxw2messagesetv1/

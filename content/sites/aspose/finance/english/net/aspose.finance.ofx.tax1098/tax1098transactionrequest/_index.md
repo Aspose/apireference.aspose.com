@@ -1,7 +1,7 @@
 ---
 title: Tax1098TransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Tax 1098 transaction request class.
 type: docs
 weight: 5810
 url: /net/aspose.finance.ofx.tax1098/tax1098transactionrequest/

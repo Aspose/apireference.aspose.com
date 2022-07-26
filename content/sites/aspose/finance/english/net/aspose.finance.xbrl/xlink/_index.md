@@ -1,9 +1,9 @@
 ---
 title: Xlink
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract class for all kinds of links in XBRL such as simple link extend link and so on.
 type: docs
-weight: 8210
+weight: 8220
 url: /net/aspose.finance.xbrl/xlink/
 ---
 ## Xlink class

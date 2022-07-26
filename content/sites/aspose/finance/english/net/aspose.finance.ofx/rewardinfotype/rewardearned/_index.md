@@ -1,7 +1,7 @@
 ---
 title: RewardEarned
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the reward amount earned YTD as of the time of download.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/rewardinfotype/rewardearned/

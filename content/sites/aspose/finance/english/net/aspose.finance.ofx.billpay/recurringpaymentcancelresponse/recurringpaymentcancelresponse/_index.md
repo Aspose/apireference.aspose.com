@@ -1,7 +1,7 @@
 ---
 title: RecurringPaymentCancelResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of RecurringPaymentCancelResponseaspose.finance.ofx.billpay/recurringpaymentcancelresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/recurringpaymentcancelresponse/recurringpaymentcancelresponse/

@@ -1,7 +1,7 @@
 ---
 title: ServerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ID assigned by the host server to the form.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/serverid/

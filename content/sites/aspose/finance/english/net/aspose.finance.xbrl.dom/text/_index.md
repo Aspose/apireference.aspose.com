@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents the textual content.
 type: docs
 weight: 7460
 url: /net/aspose.finance.xbrl.dom/text/

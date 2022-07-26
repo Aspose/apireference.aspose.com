@@ -1,7 +1,7 @@
 ---
 title: StatusViaMods
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: If true server supports communication of server-initiated payment status changes by means of the PaymentModResponse message.
 type: docs
 weight: 180
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/statusviamods/

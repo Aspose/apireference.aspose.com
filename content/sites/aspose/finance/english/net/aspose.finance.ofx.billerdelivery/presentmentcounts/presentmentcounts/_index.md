@@ -1,7 +1,7 @@
 ---
 title: PresentmentCounts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PresentmentCountsaspose.finance.ofx.billerdelivery/presentmentcounts class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdelivery/presentmentcounts/presentmentcounts/

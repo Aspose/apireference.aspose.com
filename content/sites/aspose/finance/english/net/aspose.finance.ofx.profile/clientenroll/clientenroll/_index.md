@@ -1,7 +1,7 @@
 ---
 title: ClientEnroll
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ClientEnrollaspose.finance.ofx.profile/clientenroll class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/clientenroll/clientenroll/

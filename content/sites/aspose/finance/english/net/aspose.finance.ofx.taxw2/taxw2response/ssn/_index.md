@@ -1,7 +1,7 @@
 ---
 title: SSN
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the social Security Number of the employee.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.taxw2/taxw2response/ssn/

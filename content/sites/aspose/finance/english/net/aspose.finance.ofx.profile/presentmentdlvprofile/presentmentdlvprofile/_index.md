@@ -1,7 +1,7 @@
 ---
 title: PresentmentDlvProfile
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvprofile class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/presentmentdlvprofile/presentmentdlvprofile/

@@ -1,7 +1,7 @@
 ---
 title: CharType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the type of characters allowed in password.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.profile/signoninfo/chartype/

@@ -1,7 +1,7 @@
 ---
 title: SchemaConcept
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the concept.
 type: docs
 weight: 80
 url: /net/aspose.finance.xbrl/item/schemaconcept/

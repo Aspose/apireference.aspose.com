@@ -1,7 +1,7 @@
 ---
 title: OriginCurrency
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the origin Currencyaspose.finance.ofx.investment/investmentexpense/currency.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/investmentexpense/origincurrency/

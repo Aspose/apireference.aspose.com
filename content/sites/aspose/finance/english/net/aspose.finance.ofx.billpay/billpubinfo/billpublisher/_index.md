@@ -1,7 +1,7 @@
 ---
 title: BillPublisher
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of the bill publisher associated with this payee for this payment at the service provider.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/billpubinfo/billpublisher/

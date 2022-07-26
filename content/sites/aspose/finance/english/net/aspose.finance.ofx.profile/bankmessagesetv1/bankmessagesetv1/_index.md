@@ -1,7 +1,7 @@
 ---
 title: BankMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of BankMessageSetV1aspose.finance.ofx.profile/bankmessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/bankmessagesetv1/bankmessagesetv1/

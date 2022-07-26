@@ -1,7 +1,7 @@
 ---
 title: LastPmtInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the LastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.loan/loanclosing/lastpmtinfo/

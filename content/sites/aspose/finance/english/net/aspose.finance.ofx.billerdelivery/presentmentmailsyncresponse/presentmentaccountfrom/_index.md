@@ -1,7 +1,7 @@
 ---
 title: PresentmentAccountFrom
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the from of PresentmentAccountaspose.finance.ofx/presentmentaccount.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse/presentmentaccountfrom/

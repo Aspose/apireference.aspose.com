@@ -1,7 +1,7 @@
 ---
 title: HTMLPreElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents preformatted text. See the PRE element definition in HTML 4.01.
 type: docs
 weight: 7120
 url: /net/aspose.finance.xbrl.dom.html/htmlpreelement/

@@ -1,7 +1,7 @@
 ---
 title: Order
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the order of the InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl.inline/inlinenonfraction/order/

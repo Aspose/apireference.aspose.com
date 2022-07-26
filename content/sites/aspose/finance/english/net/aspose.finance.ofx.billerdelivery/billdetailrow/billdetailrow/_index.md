@@ -1,7 +1,7 @@
 ---
 title: BillDetailRow
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of BillDetailRowaspose.finance.ofx.billerdelivery/billdetailrow class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdelivery/billdetailrow/billdetailrow/

@@ -1,7 +1,7 @@
 ---
 title: Section409ADeferrals
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the section 409A deferrals.
 type: docs
 weight: 220
 url: /net/aspose.finance.ofx.tax1099/tax1099misc_v100/section409adeferrals/

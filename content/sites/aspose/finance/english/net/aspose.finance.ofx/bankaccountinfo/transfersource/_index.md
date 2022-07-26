@@ -1,7 +1,7 @@
 ---
 title: TransferSource
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: If account is enabled as a source for an intrabank or interbank transfer yes otherwise no.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx/bankaccountinfo/transfersource/

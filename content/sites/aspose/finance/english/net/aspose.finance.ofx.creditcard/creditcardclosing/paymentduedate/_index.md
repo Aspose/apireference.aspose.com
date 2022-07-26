@@ -1,7 +1,7 @@
 ---
 title: PaymentDueDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payment due date.
 type: docs
 weight: 250
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/paymentduedate/

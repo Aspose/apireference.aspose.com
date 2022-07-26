@@ -1,7 +1,7 @@
 ---
 title: Use
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the arc use of the arc.
 type: docs
 weight: 100
 url: /net/aspose.finance.xbrl/arc/use/

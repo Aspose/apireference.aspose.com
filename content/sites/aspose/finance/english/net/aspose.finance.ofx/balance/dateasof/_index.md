@@ -1,7 +1,7 @@
 ---
 title: DateAsOf
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the effective date of the given balance.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/balance/dateasof/

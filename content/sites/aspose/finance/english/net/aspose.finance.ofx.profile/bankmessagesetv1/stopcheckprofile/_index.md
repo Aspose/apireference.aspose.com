@@ -1,7 +1,7 @@
 ---
 title: StopCheckProfile
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the StopCheckProfileaspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile/

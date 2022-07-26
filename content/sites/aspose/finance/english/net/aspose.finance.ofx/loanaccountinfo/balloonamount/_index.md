@@ -1,7 +1,7 @@
 ---
 title: BalloonAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the balloon amount Not included or zero for regular loans otherwise Balloon amount.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/loanaccountinfo/balloonamount/

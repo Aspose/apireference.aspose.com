@@ -1,7 +1,7 @@
 ---
 title: StateTaxWithheld
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the state income tax withheld.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.taxw2/stateinfo/statetaxwithheld/

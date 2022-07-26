@@ -1,7 +1,7 @@
 ---
 title: ExtendedName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the extended name of payee or description of transaction.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/pendingtransaction/extendedname/

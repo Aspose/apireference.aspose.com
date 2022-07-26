@@ -1,7 +1,7 @@
 ---
 title: AccessKey
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the access key value received in prevous signon response not sent if first login or none sent by FI.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signon/signonrequest/accesskey/

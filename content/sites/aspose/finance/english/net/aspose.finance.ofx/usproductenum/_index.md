@@ -1,7 +1,7 @@
 ---
 title: UsProductEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: classify accounts according to their account type.
 type: docs
 weight: 6300
 url: /net/aspose.finance.ofx/usproductenum/

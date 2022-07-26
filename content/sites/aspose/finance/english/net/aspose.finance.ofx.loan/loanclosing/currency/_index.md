@@ -1,7 +1,7 @@
 ---
 title: Currency
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Currencyaspose.finance.ofx.loan/loanclosing/currency.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.loan/loanclosing/currency/

@@ -1,7 +1,7 @@
 ---
 title: SubstitutePayments
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the substitute payments in lieu of dividends or interest.
 type: docs
 weight: 260
 url: /net/aspose.finance.ofx.tax1099/tax1099misc_v100/substitutepayments/

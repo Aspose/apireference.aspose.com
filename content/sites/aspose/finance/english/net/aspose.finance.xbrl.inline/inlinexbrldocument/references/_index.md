@@ -1,7 +1,7 @@
 ---
 title: References
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the InlineReferencesaspose.finance.xbrl.inline/inlinereferences in the inline XBRL document.
 type: docs
 weight: 70
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/references/

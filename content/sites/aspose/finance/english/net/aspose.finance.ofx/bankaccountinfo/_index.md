@@ -1,7 +1,7 @@
 ---
 title: BankAccountInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: OFX uses the bank account information aggregate to download account information from an FI.
 type: docs
 weight: 790
 url: /net/aspose.finance.ofx/bankaccountinfo/

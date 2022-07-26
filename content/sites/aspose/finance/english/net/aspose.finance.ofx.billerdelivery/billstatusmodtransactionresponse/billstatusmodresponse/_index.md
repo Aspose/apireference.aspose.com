@@ -1,7 +1,7 @@
 ---
 title: BillStatusModResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the BillStatusModResponseaspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/billstatusmodresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/billstatusmodresponse/

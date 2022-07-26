@@ -1,7 +1,7 @@
 ---
 title: NamespaceUri
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the namespace URI of the concept.
 type: docs
 weight: 80
 url: /net/aspose.finance.xbrl/concept/namespaceuri/

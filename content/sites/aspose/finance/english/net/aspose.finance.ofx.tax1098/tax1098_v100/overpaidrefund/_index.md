@@ -1,7 +1,7 @@
 ---
 title: OverpaidRefund
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the refund of overpaid interest.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.tax1098/tax1098_v100/overpaidrefund/

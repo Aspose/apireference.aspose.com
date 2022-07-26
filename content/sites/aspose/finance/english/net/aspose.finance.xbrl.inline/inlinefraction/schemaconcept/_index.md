@@ -1,7 +1,7 @@
 ---
 title: SchemaConcept
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the concept of the InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl.inline/inlinefraction/schemaconcept/

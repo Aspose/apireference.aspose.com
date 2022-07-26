@@ -1,7 +1,7 @@
 ---
 title: BankMailSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of BankMailSyncRequestaspose.finance.ofx.bank/bankmailsyncrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.bank/bankmailsyncrequest/bankmailsyncrequest/

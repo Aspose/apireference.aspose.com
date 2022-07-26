@@ -1,7 +1,7 @@
 ---
 title: BillStatusModTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill status modification transaction request class.
 type: docs
 weight: 1510
 url: /net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/

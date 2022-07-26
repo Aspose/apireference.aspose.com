@@ -1,7 +1,7 @@
 ---
 title: HTMLDataListElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents a set of option elements that represent predefined options for other controls.
 type: docs
 weight: 6800
 url: /net/aspose.finance.xbrl.dom.html/htmldatalistelement/

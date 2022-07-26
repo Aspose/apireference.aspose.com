@@ -1,7 +1,7 @@
 ---
 title: Phone
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the telephone number for the account.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx/accountinfo/phone/

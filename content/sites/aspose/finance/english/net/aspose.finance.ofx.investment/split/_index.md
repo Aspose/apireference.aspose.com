@@ -1,7 +1,7 @@
 ---
 title: Split
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment stock or mutual fund split class.
 type: docs
 weight: 3550
 url: /net/aspose.finance.ofx.investment/split/

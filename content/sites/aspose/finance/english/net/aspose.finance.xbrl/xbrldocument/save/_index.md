@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Creates and saves the XBRL file to the disk.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/xbrldocument/save/
 ---
-## XbrlDocument.Save method (1 of 3)
+## Save(string) {#save_1}
 
 Creates and saves the XBRL file to the disk.
 
@@ -26,7 +26,7 @@ public void Save(string fileName)
 
 ---
 
-## XbrlDocument.Save method (2 of 3)
+## Save(string, SaveOptions) {#save_2}
 
 Save the XbrlDocument to the disk.
 
@@ -48,7 +48,7 @@ public void Save(string fileName, SaveOptions saveOptions)
 
 ---
 
-## XbrlDocument.Save method (3 of 3)
+## Save(Stream, SaveOptions) {#save}
 
 Save the XbrlDocument to the stream.
 

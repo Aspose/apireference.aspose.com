@@ -1,7 +1,7 @@
 ---
 title: BankAccountTo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the destination BankAccountaspose.finance.ofx/bankaccount for countries that pay using transfers.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/payeemodrequest/bankaccountto/

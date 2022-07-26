@@ -1,7 +1,7 @@
 ---
 title: ProfitSharing
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Current value of all securities purchased with Employer Profit Sharing contributions
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.investment/investment401kbalance/profitsharing/

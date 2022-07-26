@@ -1,12 +1,12 @@
 ---
 title: OfxResponseDocument
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of OfxResponseDocumentaspose.finance.ofx/ofxresponsedocument class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/ofxresponsedocument/ofxresponsedocument/
 ---
-## OfxResponseDocument constructor (1 of 2)
+## OfxResponseDocument() {#constructor}
 
 Initializes a new instance of [`OfxResponseDocument`](../../ofxresponsedocument) class.
 
@@ -22,7 +22,7 @@ public OfxResponseDocument()
 
 ---
 
-## OfxResponseDocument constructor (2 of 2)
+## OfxResponseDocument(string) {#constructor_1}
 
 Initializes a new instance of [`OfxResponseDocument`](../../ofxresponsedocument) class.
 

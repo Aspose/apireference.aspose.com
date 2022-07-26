@@ -1,7 +1,7 @@
 ---
 title: ExtendedPayments
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of ExtendedPaymentaspose.finance.ofx.billpay/extendedpayment.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.billpay/paymentinfo/extendedpayments/

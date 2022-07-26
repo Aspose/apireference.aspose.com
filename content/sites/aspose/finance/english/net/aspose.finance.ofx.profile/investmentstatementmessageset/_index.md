@@ -1,7 +1,7 @@
 ---
 title: InvestmentStatementMessageSet
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment statement message set.
 type: docs
 weight: 4550
 url: /net/aspose.finance.ofx.profile/investmentstatementmessageset/

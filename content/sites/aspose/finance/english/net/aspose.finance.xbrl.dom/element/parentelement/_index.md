@@ -1,7 +1,7 @@
 ---
 title: ParentElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the parent element of the element.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl.dom/element/parentelement/

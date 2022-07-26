@@ -1,7 +1,7 @@
 ---
 title: PresentmentMailSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill presentment mail synchronization request class.
 type: docs
 weight: 1750
 url: /net/aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/

@@ -1,7 +1,7 @@
 ---
 title: RetirementPlan
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the retirement plan.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.taxw2/taxw2_v200/retirementplan/

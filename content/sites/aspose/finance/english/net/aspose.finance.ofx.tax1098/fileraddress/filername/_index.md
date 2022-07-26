@@ -1,7 +1,7 @@
 ---
 title: FilerName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of filer.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.tax1098/fileraddress/filername/

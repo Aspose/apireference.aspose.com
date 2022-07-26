@@ -1,7 +1,7 @@
 ---
 title: RecurringPaymentSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Recurring payment synchronization request class.
 type: docs
 weight: 1340
 url: /net/aspose.finance.ofx.billpay/recurringpaymentsyncrequest/

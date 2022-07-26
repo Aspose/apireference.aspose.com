@@ -1,7 +1,7 @@
 ---
 title: CreditCardStatementEndRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Credit card closing statement request class.
 type: docs
 weight: 1960
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementendrequest/

@@ -1,7 +1,7 @@
 ---
 title: PostStartDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the start date of transaction data for this statement.
 type: docs
 weight: 280
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/poststartdate/

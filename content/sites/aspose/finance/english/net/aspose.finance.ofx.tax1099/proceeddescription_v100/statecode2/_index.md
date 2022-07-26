@@ -1,7 +1,7 @@
 ---
 title: StateCode2
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the postal abbreviation of second state withholding tax line 2.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/statecode2/

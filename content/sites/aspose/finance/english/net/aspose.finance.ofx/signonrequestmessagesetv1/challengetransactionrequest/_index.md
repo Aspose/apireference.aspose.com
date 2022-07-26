@@ -1,7 +1,7 @@
 ---
 title: ChallengeTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ChallengeTransactionRequestaspose.finance.ofx.signon/challengetransactionrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/signonrequestmessagesetv1/challengetransactionrequest/

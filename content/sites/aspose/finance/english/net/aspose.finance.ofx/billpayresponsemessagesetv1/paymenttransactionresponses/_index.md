@@ -1,7 +1,7 @@
 ---
 title: PaymentTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PaymentTransactionResponseaspose.finance.ofx.billpay/paymenttransactionresponse.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/billpayresponsemessagesetv1/paymenttransactionresponses/

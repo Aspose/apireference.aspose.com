@@ -1,7 +1,7 @@
 ---
 title: Code
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the error code.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/status/code/

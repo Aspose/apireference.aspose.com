@@ -1,7 +1,7 @@
 ---
 title: Tax1099R_V100
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Tax 1099R V100 form class.
 type: docs
 weight: 6040
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/

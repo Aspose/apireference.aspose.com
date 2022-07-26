@@ -1,7 +1,7 @@
 ---
 title: Identifier
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the context entity identifier.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/contextentity/identifier/

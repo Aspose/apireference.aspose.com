@@ -1,7 +1,7 @@
 ---
 title: AccountSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Service activation synchronization response class.
 type: docs
 weight: 5510
 url: /net/aspose.finance.ofx.signup/accountsyncresponse/

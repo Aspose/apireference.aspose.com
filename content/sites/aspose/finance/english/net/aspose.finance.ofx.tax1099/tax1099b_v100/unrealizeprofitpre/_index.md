@@ -1,7 +1,7 @@
 ---
 title: UnrealizeProfitPre
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the unrealized profit or loss on open contracts in previous tax year.
 type: docs
 weight: 180
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofitpre/

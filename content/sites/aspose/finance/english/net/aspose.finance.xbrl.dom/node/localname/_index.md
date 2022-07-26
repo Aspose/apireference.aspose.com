@@ -1,7 +1,7 @@
 ---
 title: LocalName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the local part of the qualified name of this node.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl.dom/node/localname/

@@ -1,7 +1,7 @@
 ---
 title: StopCheckSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of StopCheckSyncRequestaspose.finance.ofx.bank/stopchecksyncrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.bank/stopchecksyncrequest/stopchecksyncrequest/

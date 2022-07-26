@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Add a SchemaRefaspose.finance.xbrl/schemaref to the collection.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/schemarefcollection/add/
 ---
-## SchemaRefCollection.Add method (1 of 2)
+## Add(string, string, string) {#add_1}
 
 Add a [`SchemaRef`](../../schemaref) to the collection.
 
@@ -32,7 +32,7 @@ public int Add(string href, string namespacePrefix, string namspaceUri)
 
 ---
 
-## SchemaRefCollection.Add method (2 of 2)
+## Add(string, string) {#add}
 
 Add a [`SchemaRef`](../../schemaref) to the collection.
 

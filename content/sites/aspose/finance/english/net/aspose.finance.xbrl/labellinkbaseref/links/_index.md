@@ -1,7 +1,7 @@
 ---
 title: Links
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of LabelLinkaspose.finance.xbrl/labellink.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/labellinkbaseref/links/

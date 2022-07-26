@@ -1,7 +1,7 @@
 ---
 title: License
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Provides methods to license the component.
 type: docs
 weight: 10
 url: /net/aspose.finance/license/
@@ -24,8 +24,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](../../aspose.finance/license/setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.finance/license/setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.finance/license/setlicense#setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.finance/license/setlicense#setlicense_1)(string) | Licenses the component. |
 
 ### Examples
 

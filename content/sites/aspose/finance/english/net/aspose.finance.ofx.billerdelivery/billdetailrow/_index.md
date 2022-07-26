@@ -1,7 +1,7 @@
 ---
 title: BillDetailRow
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill detail row class.
 type: docs
 weight: 1410
 url: /net/aspose.finance.ofx.billerdelivery/billdetailrow/

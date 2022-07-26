@@ -1,7 +1,7 @@
 ---
 title: AccountKey
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the checksum for international banks.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/creditcardaccount/accountkey/

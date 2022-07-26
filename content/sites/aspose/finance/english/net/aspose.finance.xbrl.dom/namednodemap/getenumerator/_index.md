@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Returns an enumerator that iterates through the map.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl.dom/namednodemap/getenumerator/

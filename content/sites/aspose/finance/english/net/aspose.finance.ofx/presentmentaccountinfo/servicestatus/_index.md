@@ -1,7 +1,7 @@
 ---
 title: ServiceStatus
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the status of the Bill Presentment service for this account.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/presentmentaccountinfo/servicestatus/

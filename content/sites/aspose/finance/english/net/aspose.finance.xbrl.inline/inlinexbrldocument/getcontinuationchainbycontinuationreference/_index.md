@@ -1,7 +1,7 @@
 ---
 title: GetContinuationChainByContinuationReference
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the continuation chain according to the continuation reference.
 type: docs
 weight: 220
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/getcontinuationchainbycontinuationreference/

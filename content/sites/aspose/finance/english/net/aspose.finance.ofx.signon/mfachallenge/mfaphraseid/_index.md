@@ -1,7 +1,7 @@
 ---
 title: MFAPhraseId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the identifier for the challenge question. It should be unique for this challenge question but not unique for the user session.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signon/mfachallenge/mfaphraseid/

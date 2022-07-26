@@ -1,7 +1,7 @@
 ---
 title: CorrectiveAction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the corrective action.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.loan/loanstatementtransaction/correctiveaction/

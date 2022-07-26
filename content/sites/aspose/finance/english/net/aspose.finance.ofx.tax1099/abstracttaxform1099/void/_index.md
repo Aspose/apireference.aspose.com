@@ -1,7 +1,7 @@
 ---
 title: Void
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the form is void.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.tax1099/abstracttaxform1099/void/

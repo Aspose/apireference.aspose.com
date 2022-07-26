@@ -1,7 +1,7 @@
 ---
 title: InvestmentExpense
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment expense class.
 type: docs
 weight: 2960
 url: /net/aspose.finance.ofx.investment/investmentexpense/

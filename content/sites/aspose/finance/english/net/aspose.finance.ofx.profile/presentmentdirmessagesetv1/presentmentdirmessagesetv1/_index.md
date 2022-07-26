@@ -1,7 +1,7 @@
 ---
 title: PresentmentDirMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PresentmentDirMessageSetV1aspose.finance.ofx.profile/presentmentdirmessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirmessagesetv1/

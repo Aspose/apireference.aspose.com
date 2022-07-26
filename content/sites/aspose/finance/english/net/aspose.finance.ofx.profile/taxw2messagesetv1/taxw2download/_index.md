@@ -1,7 +1,7 @@
 ---
 title: TaxW2Download
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server supports W2 tax form download.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/taxw2messagesetv1/taxw2download/

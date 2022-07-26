@@ -1,7 +1,7 @@
 ---
 title: ContextSenario
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/contextsenario/contextsenario/

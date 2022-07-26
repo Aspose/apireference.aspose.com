@@ -1,7 +1,7 @@
 ---
 title: PresentationLink
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is intended to describe presentational relationships between Concepts in taxonomies.
 type: docs
 weight: 7870
 url: /net/aspose.finance.xbrl/presentationlink/

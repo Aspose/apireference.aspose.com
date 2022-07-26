@@ -1,7 +1,7 @@
 ---
 title: RecurringPaymentSyncResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of RecurringPaymentSyncResponseaspose.finance.ofx.billpay/recurringpaymentsyncresponse.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx/billpayresponsemessagesetv1/recurringpaymentsyncresponses/

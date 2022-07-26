@@ -1,7 +1,7 @@
 ---
 title: Country
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the billers country code. ISO/DIS-3166 3-letter country code standard.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.billerdirectory/findbillerrequest/country/

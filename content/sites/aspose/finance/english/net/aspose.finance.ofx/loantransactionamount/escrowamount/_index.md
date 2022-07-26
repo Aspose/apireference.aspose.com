@@ -1,7 +1,7 @@
 ---
 title: EscrowAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Common.EscrowAmount for mortgages.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/loantransactionamount/escrowamount/

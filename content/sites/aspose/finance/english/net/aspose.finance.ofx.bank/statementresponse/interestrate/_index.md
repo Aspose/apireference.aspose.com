@@ -1,7 +1,7 @@
 ---
 title: InterestRate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current interest rate in effect at the time of download.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.bank/statementresponse/interestrate/

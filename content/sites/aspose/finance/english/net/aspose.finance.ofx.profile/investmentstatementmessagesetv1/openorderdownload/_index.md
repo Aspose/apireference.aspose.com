@@ -1,7 +1,7 @@
 ---
 title: OpenOrderDownload
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the FI server downloads investment open orders
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/openorderdownload/

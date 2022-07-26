@@ -1,7 +1,7 @@
 ---
 title: BankMailResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of BankMailResponseaspose.finance.ofx.bank/bankmailresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.bank/bankmailresponse/bankmailresponse/

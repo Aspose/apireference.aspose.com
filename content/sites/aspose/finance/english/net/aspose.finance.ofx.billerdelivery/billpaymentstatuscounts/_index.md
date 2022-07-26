@@ -1,7 +1,7 @@
 ---
 title: BillPaymentStatusCounts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill Payment Status Counts class.
 type: docs
 weight: 1450
 url: /net/aspose.finance.ofx.billerdelivery/billpaymentstatuscounts/

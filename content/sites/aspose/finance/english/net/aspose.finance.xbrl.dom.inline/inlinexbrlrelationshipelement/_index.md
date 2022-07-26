@@ -1,7 +1,7 @@
 ---
 title: InlineXbrlRelationshipElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents inline xbrl relationship element.
 type: docs
 weight: 7390
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrlrelationshipelement/

@@ -1,7 +1,7 @@
 ---
 title: LastPmtInfoType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Last payment information type class.
 type: docs
 weight: 3710
 url: /net/aspose.finance.ofx/lastpmtinfotype/

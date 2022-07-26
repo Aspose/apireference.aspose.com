@@ -1,7 +1,7 @@
 ---
 title: JournalFund
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Journaling cash holdings between sub-accounts within the same investment account.
 type: docs
 weight: 3170
 url: /net/aspose.finance.ofx.investment/journalfund/

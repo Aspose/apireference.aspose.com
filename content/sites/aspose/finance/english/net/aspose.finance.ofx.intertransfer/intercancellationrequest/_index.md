@@ -1,7 +1,7 @@
 ---
 title: InterCancellationRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Interbank transfer cancellation request class.
 type: docs
 weight: 2390
 url: /net/aspose.finance.ofx.intertransfer/intercancellationrequest/

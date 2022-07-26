@@ -1,7 +1,7 @@
 ---
 title: PresentmentGroupAccountInfoTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PresentmentGroupAccountInfoTransactionResponseaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/presentmentgroupaccountinfotransactionresponse/

@@ -1,7 +1,7 @@
 ---
 title: CashAdvanceCreditLimit
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current cash advance credit limit.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/cashadvancecreditlimit/

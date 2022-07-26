@@ -1,7 +1,7 @@
 ---
 title: TAX1098s
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of Tax1098_V100aspose.finance.ofx.tax1098/tax1098_v100 or Tax1098T_V100aspose.finance.ofx.tax1098/tax1098t_v100 or Tax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.tax1098/tax1098response/tax1098s/

@@ -1,7 +1,7 @@
 ---
 title: LenderAddress
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the LenderAddressaspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress/

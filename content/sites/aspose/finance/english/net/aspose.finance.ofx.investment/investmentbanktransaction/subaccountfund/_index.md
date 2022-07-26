@@ -1,7 +1,7 @@
 ---
 title: SubAccountFund
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the sub-account associated with the funds for the transaction.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.investment/investmentbanktransaction/subaccountfund/

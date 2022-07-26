@@ -1,7 +1,7 @@
 ---
 title: PostedDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date transaction was posted to account.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx/statementtransaction/posteddate/

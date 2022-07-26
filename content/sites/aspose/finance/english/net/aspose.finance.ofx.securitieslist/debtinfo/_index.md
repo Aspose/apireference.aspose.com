@@ -1,7 +1,7 @@
 ---
 title: DebtInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Debt information class.
 type: docs
 weight: 5040
 url: /net/aspose.finance.ofx.securitieslist/debtinfo/

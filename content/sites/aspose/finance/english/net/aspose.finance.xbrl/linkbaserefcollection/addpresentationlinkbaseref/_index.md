@@ -1,7 +1,7 @@
 ---
 title: AddPresentationLinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Add a PresentationLinkbaseRefaspose.finance.xbrl/presentationlinkbaseref to the collection.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl/linkbaserefcollection/addpresentationlinkbaseref/

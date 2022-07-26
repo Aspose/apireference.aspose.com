@@ -1,7 +1,7 @@
 ---
 title: Href
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the href URI of the locator.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/locator/href/

@@ -1,7 +1,7 @@
 ---
 title: GetFromLocs
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of from Locaspose.finance.xbrl/loc in the ReferenceArcaspose.finance.xbrl/referencearc.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/referencearc/getfromlocs/

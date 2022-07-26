@@ -1,7 +1,7 @@
 ---
 title: FootnoteArc
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of FootnoteArcaspose.finance.xbrl/footnotearc class.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/footnotearc/footnotearc/

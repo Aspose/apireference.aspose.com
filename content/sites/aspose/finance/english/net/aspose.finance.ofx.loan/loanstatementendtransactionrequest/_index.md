@@ -1,7 +1,7 @@
 ---
 title: LoanStatementEndTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Loan closing statement transaction request class.
 type: docs
 weight: 3920
 url: /net/aspose.finance.ofx.loan/loanstatementendtransactionrequest/

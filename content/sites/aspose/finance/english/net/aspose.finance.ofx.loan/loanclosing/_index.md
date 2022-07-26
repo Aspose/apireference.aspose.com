@@ -1,7 +1,7 @@
 ---
 title: LoanClosing
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: A loan account uses the LoanClosing class to describe statement closing information.
 type: docs
 weight: 3830
 url: /net/aspose.finance.ofx.loan/loanclosing/

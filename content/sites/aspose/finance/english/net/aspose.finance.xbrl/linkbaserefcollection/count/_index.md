@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The number of linkbase reference in this collection.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/linkbaserefcollection/count/

@@ -1,7 +1,7 @@
 ---
 title: Specified
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: True if this attribute was explicitly given a value in the instance document false otherwise.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl.dom/attr/specified/

@@ -1,7 +1,7 @@
 ---
 title: SecurityName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the mothers maiden name or equivalent.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.signup/enrollrequest/securityname/

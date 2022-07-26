@@ -1,7 +1,7 @@
 ---
 title: Extended1099B
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server supports the extended 1099B form by providing Schedule D proceeds detail information for security sales.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/tax1099messagesetv1/extended1099b/

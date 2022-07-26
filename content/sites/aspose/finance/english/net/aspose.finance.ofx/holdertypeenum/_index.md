@@ -1,7 +1,7 @@
 ---
 title: HolderTypeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Account holder type enum.
 type: docs
 weight: 2270
 url: /net/aspose.finance.ofx/holdertypeenum/

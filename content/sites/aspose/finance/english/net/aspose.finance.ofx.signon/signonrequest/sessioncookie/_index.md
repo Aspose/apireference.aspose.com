@@ -1,7 +1,7 @@
 ---
 title: SessionCookie
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the session cookie value received in previous signon response not sent if first login or if none sent by FI
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.signon/signonrequest/sessioncookie/

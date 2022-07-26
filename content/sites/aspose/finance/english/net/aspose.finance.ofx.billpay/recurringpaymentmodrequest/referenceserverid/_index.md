@@ -1,7 +1,7 @@
 ---
 title: ReferenceServerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ID assigned by the server to the payment being modified.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.billpay/recurringpaymentmodrequest/referenceserverid/

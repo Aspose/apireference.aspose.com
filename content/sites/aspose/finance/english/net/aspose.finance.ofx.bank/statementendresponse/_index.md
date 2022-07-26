@@ -1,7 +1,7 @@
 ---
 title: StatementEndResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Closing statement response class.
 type: docs
 weight: 640
 url: /net/aspose.finance.ofx.bank/statementendresponse/

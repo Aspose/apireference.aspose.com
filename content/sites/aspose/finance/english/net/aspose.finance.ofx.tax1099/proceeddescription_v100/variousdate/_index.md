@@ -1,7 +1,7 @@
 ---
 title: VariousDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the various acquisition dates.
 type: docs
 weight: 220
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/variousdate/

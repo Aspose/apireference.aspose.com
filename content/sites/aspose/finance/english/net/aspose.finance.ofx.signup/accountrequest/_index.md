@@ -1,7 +1,7 @@
 ---
 title: AccountRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Account service request class.
 type: docs
 weight: 5480
 url: /net/aspose.finance.ofx.signup/accountrequest/

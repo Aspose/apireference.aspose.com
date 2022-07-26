@@ -1,7 +1,7 @@
 ---
 title: StatementEndTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Closing statement transaction response class.
 type: docs
 weight: 660
 url: /net/aspose.finance.ofx.bank/statementendtransactionresponse/

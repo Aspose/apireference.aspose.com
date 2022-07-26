@@ -1,7 +1,7 @@
 ---
 title: Footnotes
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of Footnoteaspose.finance.xbrl/footnote.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/footnotelink/footnotes/

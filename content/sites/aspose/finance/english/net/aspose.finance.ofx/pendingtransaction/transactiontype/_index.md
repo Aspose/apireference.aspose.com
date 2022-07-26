@@ -1,7 +1,7 @@
 ---
 title: TransactionType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the transaction type.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx/pendingtransaction/transactiontype/

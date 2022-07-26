@@ -1,7 +1,7 @@
 ---
 title: PurchaseDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the securitys original purchase date.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.investment/transfer/purchasedate/

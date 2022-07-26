@@ -1,7 +1,7 @@
 ---
 title: Pinch
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server supports PIN change requests.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.profile/signoninfo/pinch/

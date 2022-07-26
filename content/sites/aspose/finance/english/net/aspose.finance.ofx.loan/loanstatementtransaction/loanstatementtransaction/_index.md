@@ -1,7 +1,7 @@
 ---
 title: LoanStatementTransaction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of LoanStatementTransactionaspose.finance.ofx.loan/loanstatementtransaction class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.loan/loanstatementtransaction/loanstatementtransaction/

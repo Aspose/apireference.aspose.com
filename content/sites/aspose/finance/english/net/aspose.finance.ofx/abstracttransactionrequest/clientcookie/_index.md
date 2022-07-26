@@ -1,7 +1,7 @@
 ---
 title: ClientCookie
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the data to be echoed in the transaction response
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/abstracttransactionrequest/clientcookie/

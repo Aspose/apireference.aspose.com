@@ -1,7 +1,7 @@
 ---
 title: AccountResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Account service response class.
 type: docs
 weight: 5490
 url: /net/aspose.finance.ofx.signup/accountresponse/

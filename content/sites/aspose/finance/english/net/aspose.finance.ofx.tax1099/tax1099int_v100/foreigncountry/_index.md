@@ -1,7 +1,7 @@
 ---
 title: ForeignCountry
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the foreign country or U.S. possession.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.tax1099/tax1099int_v100/foreigncountry/

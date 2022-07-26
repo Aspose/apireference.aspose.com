@@ -1,7 +1,7 @@
 ---
 title: InvestmentStatementEndResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the InvestmentStatementEndResponseaspose.finance.ofx.investment/investmentstatementendtransactionresponse/investmentstatementendresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investmentstatementendtransactionresponse/investmentstatementendresponse/

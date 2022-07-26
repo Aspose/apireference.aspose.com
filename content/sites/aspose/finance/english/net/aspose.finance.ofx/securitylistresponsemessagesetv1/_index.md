@@ -1,7 +1,7 @@
 ---
 title: SecurityListResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Security list response messages set version 1 class.
 type: docs
 weight: 5220
 url: /net/aspose.finance.ofx/securitylistresponsemessagesetv1/

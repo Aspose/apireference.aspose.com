@@ -1,7 +1,7 @@
 ---
 title: GetRoleTypeByURI
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the RoleType which has the specified uri.
 type: docs
 weight: 230
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/getroletypebyuri/

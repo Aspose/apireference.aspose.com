@@ -1,7 +1,7 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Get or sets the id of the concept.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/concept/id/

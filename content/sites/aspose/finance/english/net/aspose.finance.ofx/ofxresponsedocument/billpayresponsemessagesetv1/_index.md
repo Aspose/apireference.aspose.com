@@ -1,7 +1,7 @@
 ---
 title: BillPayResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the BillPayResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/billpayresponsemessagesetv1.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/ofxresponsedocument/billpayresponsemessagesetv1/

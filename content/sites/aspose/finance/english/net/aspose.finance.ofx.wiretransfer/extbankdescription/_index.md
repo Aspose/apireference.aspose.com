@@ -1,7 +1,7 @@
 ---
 title: ExtBankDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Extended bank description class.
 type: docs
 weight: 6330
 url: /net/aspose.finance.ofx.wiretransfer/extbankdescription/

@@ -1,7 +1,7 @@
 ---
 title: LoanClosings
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of LoanClosingaspose.finance.ofx.loan/loanclosing.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.loan/loanstatementendresponse/loanclosings/

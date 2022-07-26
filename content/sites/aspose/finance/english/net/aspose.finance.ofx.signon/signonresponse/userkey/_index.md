@@ -1,7 +1,7 @@
 ---
 title: UserKey
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the use user key instead of UserId and UserPassword for subsequent requests. KeyExpireTime can limit lifetime.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.signon/signonresponse/userkey/

@@ -1,7 +1,7 @@
 ---
 title: BankMailSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bank mail synchronization response class.
 type: docs
 weight: 340
 url: /net/aspose.finance.ofx.bank/bankmailsyncresponse/

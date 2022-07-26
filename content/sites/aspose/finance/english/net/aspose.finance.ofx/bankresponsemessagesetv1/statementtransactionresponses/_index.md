@@ -1,7 +1,7 @@
 ---
 title: StatementTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of StatementTransactionResponseaspose.finance.ofx.bank/statementtransactionresponse.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx/bankresponsemessagesetv1/statementtransactionresponses/

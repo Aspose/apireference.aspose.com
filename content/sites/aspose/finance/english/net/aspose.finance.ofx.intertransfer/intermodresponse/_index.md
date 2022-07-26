@@ -1,7 +1,7 @@
 ---
 title: InterModResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Interbank transfer modification response class.
 type: docs
 weight: 2420
 url: /net/aspose.finance.ofx.intertransfer/intermodresponse/

@@ -1,7 +1,7 @@
 ---
 title: Checking
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the account has check writing privileges.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/investmentaccountinfo/checking/

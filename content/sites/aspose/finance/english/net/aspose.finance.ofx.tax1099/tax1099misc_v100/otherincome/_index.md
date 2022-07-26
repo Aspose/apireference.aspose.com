@@ -1,7 +1,7 @@
 ---
 title: OtherIncome
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the other income.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.tax1099/tax1099misc_v100/otherincome/

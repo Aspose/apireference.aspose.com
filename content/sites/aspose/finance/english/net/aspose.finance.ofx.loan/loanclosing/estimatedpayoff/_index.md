@@ -1,7 +1,7 @@
 ---
 title: EstimatedPayoff
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the EstimatedPayoffaspose.finance.ofx.loan/loanclosing/estimatedpayoff.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.loan/loanclosing/estimatedpayoff/

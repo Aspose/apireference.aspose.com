@@ -1,7 +1,7 @@
 ---
 title: InceptToDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total contributions to date since inception
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investment401ksummary/incepttodate/

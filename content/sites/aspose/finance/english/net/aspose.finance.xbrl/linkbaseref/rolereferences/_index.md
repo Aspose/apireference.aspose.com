@@ -1,7 +1,7 @@
 ---
 title: RoleReferences
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of RoleReferenceaspose.finance.xbrl/rolereference objects in the linkbase.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/linkbaseref/rolereferences/

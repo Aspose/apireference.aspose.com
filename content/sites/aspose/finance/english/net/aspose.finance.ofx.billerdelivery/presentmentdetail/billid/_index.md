@@ -1,7 +1,7 @@
 ---
 title: BillId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the statement identifier.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billerdelivery/presentmentdetail/billid/

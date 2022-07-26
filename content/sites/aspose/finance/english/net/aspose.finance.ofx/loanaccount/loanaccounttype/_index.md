@@ -1,7 +1,7 @@
 ---
 title: LoanAccountType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the account type.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/loanaccount/loanaccounttype/

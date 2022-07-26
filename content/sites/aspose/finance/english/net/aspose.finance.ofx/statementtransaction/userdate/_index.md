@@ -1,7 +1,7 @@
 ---
 title: UserDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date user initiated transaction if known.
 type: docs
 weight: 230
 url: /net/aspose.finance.ofx/statementtransaction/userdate/

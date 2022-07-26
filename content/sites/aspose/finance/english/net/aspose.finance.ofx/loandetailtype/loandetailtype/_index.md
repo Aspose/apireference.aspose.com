@@ -1,7 +1,7 @@
 ---
 title: LoanDetailType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of LoanDetailTypeaspose.finance.ofx/loandetailtype class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/loandetailtype/loandetailtype/

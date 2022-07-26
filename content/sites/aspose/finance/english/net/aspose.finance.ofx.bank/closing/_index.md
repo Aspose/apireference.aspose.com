@@ -1,7 +1,7 @@
 ---
 title: Closing
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: A checking savings money market CD or credit line account uses the class to describe statement closing information.
 type: docs
 weight: 410
 url: /net/aspose.finance.ofx.bank/closing/

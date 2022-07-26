@@ -1,7 +1,7 @@
 ---
 title: BillPaymentStatusCodeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill payment status code enum.
 type: docs
 weight: 1440
 url: /net/aspose.finance.ofx.billerdelivery/billpaymentstatuscodeenum/

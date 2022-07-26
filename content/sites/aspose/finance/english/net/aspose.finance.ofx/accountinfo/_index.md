@@ -1,7 +1,7 @@
 ---
 title: AccountInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Account information class.
 type: docs
 weight: 180
 url: /net/aspose.finance.ofx/accountinfo/

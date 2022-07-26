@@ -1,7 +1,7 @@
 ---
 title: TextContent
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the the text content of this node and its descendants.
 type: docs
 weight: 160
 url: /net/aspose.finance.xbrl.dom/node/textcontent/

@@ -1,7 +1,7 @@
 ---
 title: DaysWithdrawal
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the offset to withdrawal date.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/dayswithdrawal/

@@ -1,7 +1,7 @@
 ---
 title: Tax1098Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Tax 1098 response class.
 type: docs
 weight: 5790
 url: /net/aspose.finance.ofx.tax1098/tax1098response/

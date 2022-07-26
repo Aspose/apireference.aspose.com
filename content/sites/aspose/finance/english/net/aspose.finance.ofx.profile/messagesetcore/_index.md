@@ -1,7 +1,7 @@
 ---
 title: MessageSetCore
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Common message set information class.
 type: docs
 weight: 4590
 url: /net/aspose.finance.ofx.profile/messagesetcore/

@@ -1,7 +1,7 @@
 ---
 title: PresentmentMailTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill presentment mail transaction response class.
 type: docs
 weight: 1780
 url: /net/aspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse/

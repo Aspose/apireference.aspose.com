@@ -1,7 +1,7 @@
 ---
 title: AdjustmentDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the adjustment description.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/adjustment/adjustmentdescription/

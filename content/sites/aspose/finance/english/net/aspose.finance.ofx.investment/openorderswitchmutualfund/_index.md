@@ -1,7 +1,7 @@
 ---
 title: OpenOrderSwitchMutualFund
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Open order switch mutual fund class.
 type: docs
 weight: 3320
 url: /net/aspose.finance.ofx.investment/openorderswitchmutualfund/

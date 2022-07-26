@@ -1,7 +1,7 @@
 ---
 title: InvestmentTransaction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of InvestmentTransactionaspose.finance.ofx.investment/investmenttransaction class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/investmenttransaction/investmenttransaction/

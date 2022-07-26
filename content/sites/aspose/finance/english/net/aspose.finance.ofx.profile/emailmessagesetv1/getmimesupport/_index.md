@@ -1,7 +1,7 @@
 ---
 title: GetMimeSupport
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether support GetMimeRequestaspose.finance.ofx.email/getmimerequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/emailmessagesetv1/getmimesupport/

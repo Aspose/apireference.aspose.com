@@ -1,7 +1,7 @@
 ---
 title: Brand
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the accepted brand for given payment type.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdirectory/paymentinstrument/brand/

@@ -1,7 +1,7 @@
 ---
 title: ProcessingEndTime
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the time of day that days processing ends.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/processingendtime/

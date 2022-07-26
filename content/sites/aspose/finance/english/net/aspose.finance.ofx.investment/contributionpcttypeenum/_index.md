@@ -1,7 +1,7 @@
 ---
 title: ContributionPctTypeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Contribution pecent type enum.
 type: docs
 weight: 2770
 url: /net/aspose.finance.ofx.investment/contributionpcttypeenum/

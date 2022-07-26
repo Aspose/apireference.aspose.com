@@ -1,7 +1,7 @@
 ---
 title: SecurityListResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of SecurityListResponseMessageSetV1aspose.finance.ofx/securitylistresponsemessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/securitylistresponsemessagesetv1/securitylistresponsemessagesetv1/

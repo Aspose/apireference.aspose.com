@@ -1,7 +1,7 @@
 ---
 title: LoanMailTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of LoanMailTransactionResponseaspose.finance.ofx.loan/loanmailtransactionresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.loan/loanmailsyncresponse/loanmailtransactionresponses/

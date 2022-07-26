@@ -1,7 +1,7 @@
 ---
 title: RewardInfoType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Opening aggregate for reward/points program current information.
 type: docs
 weight: 4970
 url: /net/aspose.finance.ofx/rewardinfotype/

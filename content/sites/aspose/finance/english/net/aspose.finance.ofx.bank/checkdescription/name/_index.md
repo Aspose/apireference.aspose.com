@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payee name or description.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/checkdescription/name/

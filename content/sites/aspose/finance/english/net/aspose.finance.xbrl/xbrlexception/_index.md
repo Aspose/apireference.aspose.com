@@ -1,9 +1,9 @@
 ---
 title: XbrlException
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The exception that is thrown when Aspose.Finance.Xbrl specified error occurs.
 type: docs
-weight: 8170
+weight: 8180
 url: /net/aspose.finance.xbrl/xbrlexception/
 ---
 ## XbrlException class

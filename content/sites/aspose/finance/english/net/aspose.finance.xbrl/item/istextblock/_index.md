@@ -1,7 +1,7 @@
 ---
 title: IsTextBlock
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Check whether this item is a text block.
 type: docs
 weight: 110
 url: /net/aspose.finance.xbrl/item/istextblock/

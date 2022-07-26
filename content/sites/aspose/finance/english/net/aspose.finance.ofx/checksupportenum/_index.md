@@ -1,7 +1,7 @@
 ---
 title: CheckSupportEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Check support enum.
 type: docs
 weight: 1930
 url: /net/aspose.finance.ofx/checksupportenum/

@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Returns an enumerator that iterates through the collection.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/schemarefcollection/getenumerator/

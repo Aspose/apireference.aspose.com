@@ -1,7 +1,7 @@
 ---
 title: ClientActivationRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: True if server allows clients to make service activation requests False if server will only advise clients via synchronization of service additions changes or deletions.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.profile/signupmessagesetv1/clientactivationrequest/

@@ -1,7 +1,7 @@
 ---
 title: FindBillerTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of FindBillerTransactionRequestaspose.finance.ofx.billerdirectory/findbillertransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdirectory/findbillertransactionrequest/findbillertransactionrequest/

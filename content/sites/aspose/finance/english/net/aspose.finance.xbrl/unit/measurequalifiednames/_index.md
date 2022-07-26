@@ -1,7 +1,7 @@
 ---
 title: MeasureQualifiedNames
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of measure qualified name it is used when unit type is Measure.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/unit/measurequalifiednames/

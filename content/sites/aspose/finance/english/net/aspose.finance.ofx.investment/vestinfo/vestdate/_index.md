@@ -1,7 +1,7 @@
 ---
 title: VestDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date at which vesting percentage changes. Default is that the vested percentage applies to the current date.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/vestinfo/vestdate/

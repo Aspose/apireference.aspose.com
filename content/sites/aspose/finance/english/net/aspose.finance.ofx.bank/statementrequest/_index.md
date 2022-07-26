@@ -1,7 +1,7 @@
 ---
 title: StatementRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Statement request class
 type: docs
 weight: 670
 url: /net/aspose.finance.ofx.bank/statementrequest/

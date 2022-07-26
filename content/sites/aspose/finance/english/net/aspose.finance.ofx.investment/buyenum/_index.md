@@ -1,7 +1,7 @@
 ---
 title: BuyEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Buy type enum.
 type: docs
 weight: 2680
 url: /net/aspose.finance.ofx.investment/buyenum/

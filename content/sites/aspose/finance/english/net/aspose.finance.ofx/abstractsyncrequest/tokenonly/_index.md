@@ -1,7 +1,7 @@
 ---
 title: TokenOnly
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether request for just the current token without the history.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/abstractsyncrequest/tokenonly/

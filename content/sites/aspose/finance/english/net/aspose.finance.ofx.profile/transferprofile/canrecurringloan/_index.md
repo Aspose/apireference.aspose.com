@@ -1,7 +1,7 @@
 ---
 title: CanRecurringLoan
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether supports recurring transfers of loans.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.profile/transferprofile/canrecurringloan/

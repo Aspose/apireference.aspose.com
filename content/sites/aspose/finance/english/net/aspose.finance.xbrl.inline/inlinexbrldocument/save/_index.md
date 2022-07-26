@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Creates and saves the inline xbrl file to the disk.
 type: docs
 weight: 270
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/save/
 ---
-## InlineXbrlDocument.Save method (1 of 2)
+## Save(string) {#save_1}
 
 Creates and saves the inline xbrl file to the disk.
 
@@ -26,7 +26,7 @@ public void Save(string fileName)
 
 ---
 
-## InlineXbrlDocument.Save method (2 of 2)
+## Save(Stream) {#save}
 
 Creates and saves the inline xbrl file to the stream.
 

@@ -1,7 +1,7 @@
 ---
 title: ArcroleReference
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ArcroleReferenceaspose.finance.xbrl/arcrolereference class.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/arcrolereference/arcrolereference/

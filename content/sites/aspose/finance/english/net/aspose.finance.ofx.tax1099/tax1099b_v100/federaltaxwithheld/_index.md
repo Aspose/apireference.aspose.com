@@ -1,7 +1,7 @@
 ---
 title: FederalTaxWithheld
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the federal income tax withheld.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/federaltaxwithheld/

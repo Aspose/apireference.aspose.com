@@ -1,7 +1,7 @@
 ---
 title: ChildElements
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the child elements.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl.dom/document/childelements/

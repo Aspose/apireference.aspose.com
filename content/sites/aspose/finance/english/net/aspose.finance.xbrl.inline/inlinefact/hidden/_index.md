@@ -1,7 +1,7 @@
 ---
 title: Hidden
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether this fact is hidden.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.inline/inlinefact/hidden/

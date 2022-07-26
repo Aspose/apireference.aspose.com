@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The Document represents the entire inline xbrl document. Conceptually it is the root of the document tree and provides the primary access to the documents data.
 type: docs
 weight: 6660
 url: /net/aspose.finance.xbrl.dom/document/

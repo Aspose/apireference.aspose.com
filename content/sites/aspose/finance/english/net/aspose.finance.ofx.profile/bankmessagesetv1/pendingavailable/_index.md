@@ -1,7 +1,7 @@
 ---
 title: PendingAvailable
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the pending transaction download supported flag defaults to false.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.profile/bankmessagesetv1/pendingavailable/

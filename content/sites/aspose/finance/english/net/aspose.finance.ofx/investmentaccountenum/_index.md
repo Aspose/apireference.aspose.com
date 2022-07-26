@@ -1,7 +1,7 @@
 ---
 title: InvestmentAccountEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Investment account type enum.
 type: docs
 weight: 3640
 url: /net/aspose.finance.ofx/investmentaccountenum/

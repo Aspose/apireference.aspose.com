@@ -1,7 +1,7 @@
 ---
 title: HTMLBaseFontElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents base font. See the BASEFONT element definition in HTML 4.01. This element is deprecated in HTML 4.01.
 type: docs
 weight: 6750
 url: /net/aspose.finance.xbrl.dom.html/htmlbasefontelement/

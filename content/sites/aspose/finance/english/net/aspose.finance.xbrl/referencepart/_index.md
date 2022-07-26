@@ -1,7 +1,7 @@
 ---
 title: ReferencePart
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The child member of Reference./reference.
 type: docs
 weight: 7940
 url: /net/aspose.finance.xbrl/referencepart/

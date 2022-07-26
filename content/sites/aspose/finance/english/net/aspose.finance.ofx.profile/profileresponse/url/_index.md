@@ -1,7 +1,7 @@
 ---
 title: Url
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the URL for general information about FI not for sending data.
 type: docs
 weight: 170
 url: /net/aspose.finance.ofx.profile/profileresponse/url/

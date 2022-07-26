@@ -1,7 +1,7 @@
 ---
 title: InlineXbrlDocument
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: An inline XBRL document.
 type: docs
 weight: 7750
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/
@@ -65,9 +65,9 @@ public class InlineXbrlDocument : Document
 | [CreateInlineXbrlElement](../../aspose.finance.xbrl.inline/inlinexbrldocument/createinlinexbrlelement)(string, string) | Creates an inline xbrl elment. |
 | [CreateXbrlInstanceElement](../../aspose.finance.xbrl.inline/inlinexbrldocument/createxbrlinstanceelement)(string, string) | Creates a xbrl instance elment. |
 | [CreateXbrlLinkbaseElement](../../aspose.finance.xbrl.inline/inlinexbrldocument/createxbrllinkbaseelement)(string, string) | Creates a xbrl linkbase elment. |
-| [ExportToXbrl](../../aspose.finance.xbrl.inline/inlinexbrldocument/exporttoxbrl)() | Export to XbrlDocument object. |
-| [ExportToXbrl](../../aspose.finance.xbrl.inline/inlinexbrldocument/exporttoxbrl)(Stream) | Export to xbrl stream. |
-| [ExportToXbrl](../../aspose.finance.xbrl.inline/inlinexbrldocument/exporttoxbrl)(string) | Export to xbrl file. |
+| [ExportToXbrl](../../aspose.finance.xbrl.inline/inlinexbrldocument/exporttoxbrl#exporttoxbrl)() | Export to XbrlDocument object. |
+| [ExportToXbrl](../../aspose.finance.xbrl.inline/inlinexbrldocument/exporttoxbrl#exporttoxbrl_1)(Stream) | Export to xbrl stream. |
+| [ExportToXbrl](../../aspose.finance.xbrl.inline/inlinexbrldocument/exporttoxbrl#exporttoxbrl_2)(string) | Export to xbrl file. |
 | [GetArcroleTypeByURI](../../aspose.finance.xbrl.inline/inlinexbrldocument/getarcroletypebyuri)(string) | Gets the ArcroleType which has the specified uri. |
 | [GetConceptById](../../aspose.finance.xbrl.inline/inlinexbrldocument/getconceptbyid)(string) | Gets the context which has the specified id. |
 | [GetConceptByLoc](../../aspose.finance.xbrl.inline/inlinexbrldocument/getconceptbyloc)(Loc) | Gets the concept by the locator. |
@@ -80,8 +80,8 @@ public class InlineXbrlDocument : Document
 | [RefreshInlineXbrlObjects](../../aspose.finance.xbrl.inline/inlinexbrldocument/refreshinlinexbrlobjects)() | If add, update, remove Inline Xbrl elements in the DOM tree, this method should be called to refresh inline xbrl objects. |
 | [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | Removes the child node indicated by old child from the list of children. |
 | [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | Replaces the child node old child with new child in the list of children, and returns the old child node. |
-| [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save)(Stream) | Creates and saves the inline xbrl file to the stream. |
-| [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save)(string) | Creates and saves the inline xbrl file to the disk. |
+| [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save#save)(Stream) | Creates and saves the inline xbrl file to the stream. |
+| [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save#save_1)(string) | Creates and saves the inline xbrl file to the disk. |
 | [Validate](../../aspose.finance.xbrl.inline/inlinexbrldocument/validate)() | Validates this inline XBRL document. |
 
 ### See Also

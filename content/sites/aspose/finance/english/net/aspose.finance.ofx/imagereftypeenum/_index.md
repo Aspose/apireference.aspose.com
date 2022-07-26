@@ -1,7 +1,7 @@
 ---
 title: ImageRefTypeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Image reference type enum.
 type: docs
 weight: 2310
 url: /net/aspose.finance.ofx/imagereftypeenum/

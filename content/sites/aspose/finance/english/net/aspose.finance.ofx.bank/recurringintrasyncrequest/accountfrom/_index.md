@@ -1,7 +1,7 @@
 ---
 title: AccountFrom
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the from of BankAccountaspose.finance.ofx/bankaccount or CreditCardAccountaspose.finance.ofx/creditcardaccount or LoanAccountaspose.finance.ofx/loanaccount.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.bank/recurringintrasyncrequest/accountfrom/

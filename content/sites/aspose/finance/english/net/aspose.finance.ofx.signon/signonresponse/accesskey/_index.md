@@ -1,7 +1,7 @@
 ---
 title: AccessKey
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the access key that the client should send in the next signon request
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signon/signonresponse/accesskey/

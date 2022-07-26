@@ -1,7 +1,7 @@
 ---
 title: WireBeneficiary
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class describes the receiver of a wire transfer.
 type: docs
 weight: 6340
 url: /net/aspose.finance.ofx.wiretransfer/wirebeneficiary/

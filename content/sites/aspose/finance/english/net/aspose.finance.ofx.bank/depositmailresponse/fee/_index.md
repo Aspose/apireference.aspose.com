@@ -1,7 +1,7 @@
 ---
 title: Fee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the fee assessed for NSF.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/depositmailresponse/fee/

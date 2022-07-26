@@ -1,7 +1,7 @@
 ---
 title: IncludeImages
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Yes if the client accepts mail with images in the message body. No if the client does not accept mail with images in the message body.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.loan/loanmailsyncrequest/includeimages/

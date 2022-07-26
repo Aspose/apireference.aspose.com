@@ -1,7 +1,7 @@
 ---
 title: CorrectiveActionEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Corrective action enum.
 type: docs
 weight: 1940
 url: /net/aspose.finance.ofx/correctiveactionenum/

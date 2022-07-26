@@ -1,7 +1,7 @@
 ---
 title: AbstractPayeeRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class for all payee request related classes.
 type: docs
 weight: 830
 url: /net/aspose.finance.ofx.billpay/abstractpayeerequest/

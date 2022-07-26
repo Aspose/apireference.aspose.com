@@ -1,7 +1,7 @@
 ---
 title: MutualFundInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Mutual fund information class.
 type: docs
 weight: 5070
 url: /net/aspose.finance.ofx.securitieslist/mutualfundinfo/

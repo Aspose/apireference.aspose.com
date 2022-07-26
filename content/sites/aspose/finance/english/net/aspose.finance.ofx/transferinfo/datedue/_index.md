@@ -1,7 +1,7 @@
 ---
 title: DateDue
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date that the transfer is to be sent.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/transferinfo/datedue/

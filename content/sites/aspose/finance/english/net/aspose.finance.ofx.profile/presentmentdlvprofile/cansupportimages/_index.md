@@ -1,7 +1,7 @@
 ---
 title: CanSupportImages
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether supports delivery of images as multipart MIME.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/presentmentdlvprofile/cansupportimages/

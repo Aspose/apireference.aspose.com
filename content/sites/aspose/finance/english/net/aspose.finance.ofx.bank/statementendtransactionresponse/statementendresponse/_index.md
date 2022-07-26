@@ -1,7 +1,7 @@
 ---
 title: StatementEndResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the StatementEndResponseaspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse/

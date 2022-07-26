@@ -1,7 +1,7 @@
 ---
 title: OptionBuyEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Option buy type enum.
 type: docs
 weight: 3340
 url: /net/aspose.finance.ofx.investment/optionbuyenum/

@@ -1,7 +1,7 @@
 ---
 title: IncludeBillStatus
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the flag indicating bill status should be included too.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/includebillstatus/

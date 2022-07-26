@@ -1,7 +1,7 @@
 ---
 title: Statutory
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the statutory employee.
 type: docs
 weight: 180
 url: /net/aspose.finance.ofx.taxw2/taxw2_v100/statutory/

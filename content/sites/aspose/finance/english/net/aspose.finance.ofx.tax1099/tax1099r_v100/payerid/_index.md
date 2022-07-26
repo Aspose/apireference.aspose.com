@@ -1,7 +1,7 @@
 ---
 title: PayerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payers federal identification number.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/payerid/

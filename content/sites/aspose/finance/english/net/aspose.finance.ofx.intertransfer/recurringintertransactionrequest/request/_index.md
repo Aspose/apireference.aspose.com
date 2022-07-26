@@ -1,7 +1,7 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the RecurringInterRequestaspose.finance.ofx.intertransfer/recurringinterrequest or RecurringInterModRequestaspose.finance.ofx.intertransfer/recurringintermodrequest or RecurringInterCancellationRequestaspose.finance.ofx.intertransfer/recurringintercancellationrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.intertransfer/recurringintertransactionrequest/request/

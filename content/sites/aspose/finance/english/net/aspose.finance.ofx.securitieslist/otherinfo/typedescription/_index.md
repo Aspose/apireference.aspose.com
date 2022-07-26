@@ -1,7 +1,7 @@
 ---
 title: TypeDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the description of security type.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.securitieslist/otherinfo/typedescription/

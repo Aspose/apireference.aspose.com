@@ -1,7 +1,7 @@
 ---
 title: Tax1099Download
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether server supports 1099 tax form download.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/tax1099messagesetv1/tax1099download/

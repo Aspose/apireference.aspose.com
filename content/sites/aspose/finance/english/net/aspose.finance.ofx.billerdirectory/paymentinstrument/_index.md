@@ -1,7 +1,7 @@
 ---
 title: PaymentInstrument
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment instrument class.
 type: docs
 weight: 1900
 url: /net/aspose.finance.ofx.billerdirectory/paymentinstrument/

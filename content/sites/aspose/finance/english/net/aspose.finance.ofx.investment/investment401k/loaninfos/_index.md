@@ -1,7 +1,7 @@
 ---
 title: LoanInfos
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of LoanInfoaspose.finance.ofx.investment/loaninfo.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.investment/investment401k/loaninfos/

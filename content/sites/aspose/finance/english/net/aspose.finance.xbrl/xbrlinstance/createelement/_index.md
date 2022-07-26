@@ -1,7 +1,7 @@
 ---
 title: CreateElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Create a new element.
 type: docs
 weight: 130
 url: /net/aspose.finance.xbrl/xbrlinstance/createelement/

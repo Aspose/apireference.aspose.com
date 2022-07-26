@@ -1,7 +1,7 @@
 ---
 title: InstructionsNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the number of instructions.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/recurringinstructions/instructionsnumber/

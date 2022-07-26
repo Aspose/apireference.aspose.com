@@ -1,7 +1,7 @@
 ---
 title: PayeeSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee list synchronization response class.
 type: docs
 weight: 1020
 url: /net/aspose.finance.ofx.billpay/payeesyncresponse/

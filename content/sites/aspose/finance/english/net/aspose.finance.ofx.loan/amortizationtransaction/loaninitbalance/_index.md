@@ -1,7 +1,7 @@
 ---
 title: LoanInitBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the beginning balance before payment.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.loan/amortizationtransaction/loaninitbalance/

@@ -1,7 +1,7 @@
 ---
 title: NamespaceUri
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the namespace URI of attribute.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl.dom/attr/namespaceuri/

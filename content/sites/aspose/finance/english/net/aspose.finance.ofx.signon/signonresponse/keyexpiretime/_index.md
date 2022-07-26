@@ -1,7 +1,7 @@
 ---
 title: KeyExpireTime
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time that USERKEY expires.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.signon/signonresponse/keyexpiretime/

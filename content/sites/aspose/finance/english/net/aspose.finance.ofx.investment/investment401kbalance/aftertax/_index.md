@@ -1,7 +1,7 @@
 ---
 title: AfterTax
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current value of all securities purchased with After Tax Employee contributions.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investment401kbalance/aftertax/

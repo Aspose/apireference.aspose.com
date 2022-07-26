@@ -1,7 +1,7 @@
 ---
 title: TaxYear
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the tax year of this form in format YYYY.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.taxw2/abstracttaxw2/taxyear/

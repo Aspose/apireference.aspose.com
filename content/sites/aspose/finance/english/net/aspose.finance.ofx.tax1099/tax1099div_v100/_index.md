@@ -1,7 +1,7 @@
 ---
 title: Tax1099DIV_V100
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Tax 1099-DIV V100 form class.
 type: docs
 weight: 6000
 url: /net/aspose.finance.ofx.tax1099/tax1099div_v100/

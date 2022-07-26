@@ -1,7 +1,7 @@
 ---
 title: VestPercent
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the estimated vested percentage as of the corresponding date.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.investment/vestinfo/vestpercent/

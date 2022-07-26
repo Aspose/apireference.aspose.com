@@ -1,7 +1,7 @@
 ---
 title: Match
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current value of all securities purchased with Employer Match contributions.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.investment/investment401kbalance/match/

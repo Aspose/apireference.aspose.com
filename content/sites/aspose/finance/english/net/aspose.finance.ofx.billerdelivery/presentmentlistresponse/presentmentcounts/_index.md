@@ -1,7 +1,7 @@
 ---
 title: PresentmentCounts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PresentmentCountsaspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts/

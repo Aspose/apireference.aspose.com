@@ -1,7 +1,7 @@
 ---
 title: CountryString
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the recipient country if not U.S. do not abbreviate.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.tax1099/recipientaddress/countrystring/

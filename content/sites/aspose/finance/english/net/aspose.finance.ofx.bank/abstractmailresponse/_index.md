@@ -1,7 +1,7 @@
 ---
 title: AbstractMailResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class for all bank mail response related classes.
 type: docs
 weight: 280
 url: /net/aspose.finance.ofx.bank/abstractmailresponse/

@@ -1,7 +1,7 @@
 ---
 title: LastPaymentDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date of last payment received for the account.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/lastpmtinfotype/lastpaymentdate/

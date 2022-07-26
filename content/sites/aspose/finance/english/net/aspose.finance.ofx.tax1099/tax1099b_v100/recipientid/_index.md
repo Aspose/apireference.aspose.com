@@ -1,7 +1,7 @@
 ---
 title: RecipientId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the recipients identification number.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/recipientid/

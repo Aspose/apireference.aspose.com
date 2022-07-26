@@ -1,7 +1,7 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the InterResponseaspose.finance.ofx.intertransfer/interresponse or InterModResponseaspose.finance.ofx.intertransfer/intermodresponse or InterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.intertransfer/intertransactionresponse/response/

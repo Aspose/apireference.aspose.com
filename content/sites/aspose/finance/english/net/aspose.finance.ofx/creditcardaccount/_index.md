@@ -1,7 +1,7 @@
 ---
 title: CreditCardAccount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: OFX uses the Credit Card Account aggregate to identify a credit card account at an FI. The aggregate contains enough information to uniquely identify an account for the purposes of statement downloads and funds transfer.
 type: docs
 weight: 2040
 url: /net/aspose.finance.ofx/creditcardaccount/

@@ -1,7 +1,7 @@
 ---
 title: IncludeSummary
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether include bill summaries.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/includesummary/

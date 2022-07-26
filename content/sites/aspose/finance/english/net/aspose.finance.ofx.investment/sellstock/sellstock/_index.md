@@ -1,7 +1,7 @@
 ---
 title: SellStock
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of SellStockaspose.finance.ofx.investment/sellstock class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/sellstock/sellstock/

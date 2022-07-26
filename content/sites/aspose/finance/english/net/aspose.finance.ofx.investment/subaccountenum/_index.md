@@ -1,7 +1,7 @@
 ---
 title: SubAccountEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Sub account type enum.
 type: docs
 weight: 3560
 url: /net/aspose.finance.ofx.investment/subaccountenum/

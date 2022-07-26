@@ -1,7 +1,7 @@
 ---
 title: DocumentURI
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the document URI.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl.dom/document/documenturi/

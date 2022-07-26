@@ -1,7 +1,7 @@
 ---
 title: StudentAddress
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the StudentAddressaspose.finance.ofx.tax1098/tax1098t_v100/studentaddress.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/studentaddress/

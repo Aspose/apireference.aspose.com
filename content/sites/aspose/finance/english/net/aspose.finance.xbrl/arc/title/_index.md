@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the title of the arc.
 type: docs
 weight: 80
 url: /net/aspose.finance.xbrl/arc/title/

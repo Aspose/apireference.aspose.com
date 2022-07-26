@@ -1,7 +1,7 @@
 ---
 title: CodeAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the box 12 entry dollar amount.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.taxw2/codes/codeamount/

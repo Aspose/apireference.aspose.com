@@ -1,7 +1,7 @@
 ---
 title: PurchasesAndAdvances
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total of purchases and cash advances.
 type: docs
 weight: 290
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/purchasesandadvances/

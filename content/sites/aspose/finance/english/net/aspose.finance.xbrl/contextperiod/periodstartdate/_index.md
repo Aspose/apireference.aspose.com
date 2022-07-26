@@ -1,7 +1,7 @@
 ---
 title: PeriodStartDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the period start date.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/contextperiod/periodstartdate/

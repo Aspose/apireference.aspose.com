@@ -1,7 +1,7 @@
 ---
 title: IsDimension
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets whether it is dimension concept.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/concept/isdimension/

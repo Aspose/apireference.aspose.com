@@ -1,7 +1,7 @@
 ---
 title: MFAChallengeResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the MFAChallengeResponseaspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse/

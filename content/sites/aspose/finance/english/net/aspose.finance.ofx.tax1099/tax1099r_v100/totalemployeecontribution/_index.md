@@ -1,7 +1,7 @@
 ---
 title: TotalEmployeeContribution
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total employee contributions.
 type: docs
 weight: 240
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/totalemployeecontribution/

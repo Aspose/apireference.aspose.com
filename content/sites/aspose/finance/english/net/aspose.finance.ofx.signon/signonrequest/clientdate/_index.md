@@ -1,7 +1,7 @@
 ---
 title: ClientDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time of the request from the client computer.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.signon/signonrequest/clientdate/

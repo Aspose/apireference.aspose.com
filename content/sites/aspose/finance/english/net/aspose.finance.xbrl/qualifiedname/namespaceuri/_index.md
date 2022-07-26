@@ -1,7 +1,7 @@
 ---
 title: NamespaceUri
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the namespace URI of the qualified name.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/qualifiedname/namespaceuri/

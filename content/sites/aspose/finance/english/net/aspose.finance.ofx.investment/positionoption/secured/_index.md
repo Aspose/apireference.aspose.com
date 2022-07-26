@@ -1,7 +1,7 @@
 ---
 title: Secured
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets how the option is secured.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/positionoption/secured/

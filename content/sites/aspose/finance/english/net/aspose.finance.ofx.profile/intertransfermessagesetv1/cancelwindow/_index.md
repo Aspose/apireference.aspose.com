@@ -1,7 +1,7 @@
 ---
 title: CancelWindow
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the number of days after an interbank transfer occurs that it can be canceled.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/intertransfermessagesetv1/cancelwindow/

@@ -1,7 +1,7 @@
 ---
 title: LineItem
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Line item class.
 type: docs
 weight: 3730
 url: /net/aspose.finance.ofx/lineitem/

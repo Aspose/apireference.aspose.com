@@ -1,7 +1,7 @@
 ---
 title: LoanStatementEndTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of LoanStatementEndTransactionRequestaspose.finance.ofx.loan/loanstatementendtransactionrequest.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/loanrequestmessagesetv1/loanstatementendtransactionrequests/

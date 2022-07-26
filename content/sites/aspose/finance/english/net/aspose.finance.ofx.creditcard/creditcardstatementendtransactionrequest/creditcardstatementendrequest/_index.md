@@ -1,7 +1,7 @@
 ---
 title: CreditCardStatementEndRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the CreditCardStatementEndRequestaspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/creditcardstatementendrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/creditcardstatementendrequest/

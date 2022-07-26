@@ -1,7 +1,7 @@
 ---
 title: StateCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the 2 character postal code abbreviation.
 type: docs
 weight: 220
 url: /net/aspose.finance.ofx.tax1099/tax1099div_v100/statecode/

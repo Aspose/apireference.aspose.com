@@ -1,7 +1,7 @@
 ---
 title: PayeeSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PayeeSyncResponseaspose.finance.ofx.billpay/payeesyncresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/payeesyncresponse/payeesyncresponse/

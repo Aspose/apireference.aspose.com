@@ -1,7 +1,7 @@
 ---
 title: GetConceptByLoc
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the concept by the locator.
 type: docs
 weight: 190
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/getconceptbyloc/

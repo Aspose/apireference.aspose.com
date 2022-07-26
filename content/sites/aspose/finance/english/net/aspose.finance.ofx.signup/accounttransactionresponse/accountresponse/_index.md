@@ -1,7 +1,7 @@
 ---
 title: AccountResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the AccountResponseaspose.finance.ofx.signup/accounttransactionresponse/accountresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signup/accounttransactionresponse/accountresponse/

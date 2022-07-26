@@ -1,7 +1,7 @@
 ---
 title: EndDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the end date of statement closing information.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/statementendrequest/enddate/

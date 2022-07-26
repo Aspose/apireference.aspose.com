@@ -1,7 +1,7 @@
 ---
 title: CanModificationPayments
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether permits modifications to payments.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/canmodificationpayments/

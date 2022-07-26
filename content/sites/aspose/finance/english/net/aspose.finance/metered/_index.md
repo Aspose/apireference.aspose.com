@@ -1,7 +1,7 @@
 ---
 title: Metered
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Provides methods to set metered key.
 type: docs
 weight: 20
 url: /net/aspose.finance/metered/

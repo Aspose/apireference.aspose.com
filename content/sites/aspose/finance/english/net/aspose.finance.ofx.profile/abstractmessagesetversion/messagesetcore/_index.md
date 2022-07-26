@@ -1,7 +1,7 @@
 ---
 title: MessageSetCore
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the MessageSetCoreaspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore/

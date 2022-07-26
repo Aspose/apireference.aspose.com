@@ -1,7 +1,7 @@
 ---
 title: AccountTo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the to account BankAccountaspose.finance.ofx/bankaccount or LoanAccountaspose.finance.ofx/loanaccount.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.loan/loanstatementtransaction/accountto/

@@ -1,7 +1,7 @@
 ---
 title: HTMLCanvasElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class provides properties and methods for manipulating the layout and presentation of canvas elements.
 type: docs
 weight: 6780
 url: /net/aspose.finance.xbrl.dom.html/htmlcanvaselement/

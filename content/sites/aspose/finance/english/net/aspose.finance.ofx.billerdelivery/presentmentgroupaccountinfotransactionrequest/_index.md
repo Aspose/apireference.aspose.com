@@ -1,7 +1,7 @@
 ---
 title: PresentmentGroupAccountInfoTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Group account information transaction request class. This class specifies whether the client is requesting account information for a single user or a group of users.
 type: docs
 weight: 1670
 url: /net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/

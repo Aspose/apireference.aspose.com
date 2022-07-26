@@ -1,7 +1,7 @@
 ---
 title: PlanJoinDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date the employee joined the plan.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.investment/investment401k/planjoindate/

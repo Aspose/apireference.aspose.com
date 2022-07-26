@@ -1,7 +1,7 @@
 ---
 title: PositionDownload
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the FI server downloads investment statement positions.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/positiondownload/

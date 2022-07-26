@@ -1,7 +1,7 @@
 ---
 title: AddLabelLinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Add a LabelLinkbaseRefaspose.finance.xbrl/labellinkbaseref to the collection.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl/linkbaserefcollection/addlabellinkbaseref/

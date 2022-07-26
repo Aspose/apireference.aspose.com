@@ -1,7 +1,7 @@
 ---
 title: ServerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the unique server-assigned transaction ID.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.investment/generalopenorder/serverid/

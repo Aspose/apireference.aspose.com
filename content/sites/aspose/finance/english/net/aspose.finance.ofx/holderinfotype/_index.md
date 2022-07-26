@@ -1,7 +1,7 @@
 ---
 title: HolderInfoType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Account holder informations includes primary and secondary holder information.
 type: docs
 weight: 2260
 url: /net/aspose.finance.ofx/holderinfotype/

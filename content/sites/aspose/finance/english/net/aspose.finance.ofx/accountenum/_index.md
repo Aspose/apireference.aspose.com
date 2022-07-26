@@ -1,7 +1,7 @@
 ---
 title: AccountEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The account type enum.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx/accountenum/

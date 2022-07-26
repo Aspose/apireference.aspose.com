@@ -1,7 +1,7 @@
 ---
 title: Decimals
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the decimal of the InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.inline/inlinenonfraction/decimals/

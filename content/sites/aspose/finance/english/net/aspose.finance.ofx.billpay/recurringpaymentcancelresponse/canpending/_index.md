@@ -1,7 +1,7 @@
 ---
 title: CanPending
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Cancel pending flag. True if the client requested that the server cancel all pending and unspawned payments. False if the client requested that the server cancel only unspawned payments.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/recurringpaymentcancelresponse/canpending/

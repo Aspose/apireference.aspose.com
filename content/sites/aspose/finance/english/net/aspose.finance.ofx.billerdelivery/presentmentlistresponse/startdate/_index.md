@@ -1,7 +1,7 @@
 ---
 title: StartDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the start date of bills returned.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistresponse/startdate/

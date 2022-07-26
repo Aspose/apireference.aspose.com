@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the text of the InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl.inline/inlinefootnote/text/

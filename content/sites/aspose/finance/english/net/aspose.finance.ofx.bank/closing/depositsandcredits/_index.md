@@ -1,7 +1,7 @@
 ---
 title: DepositsAndCredits
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total of deposits and credits including interest.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.bank/closing/depositsandcredits/

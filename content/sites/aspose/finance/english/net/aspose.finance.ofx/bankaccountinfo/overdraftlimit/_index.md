@@ -1,7 +1,7 @@
 ---
 title: OverdraftLimit
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current overdraft limit active on the account
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/bankaccountinfo/overdraftlimit/

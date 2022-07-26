@@ -1,7 +1,7 @@
 ---
 title: HTMLScriptElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents script statements. See the SCRIPT element definition in HTML 4.01.
 type: docs
 weight: 7140
 url: /net/aspose.finance.xbrl.dom.html/htmlscriptelement/

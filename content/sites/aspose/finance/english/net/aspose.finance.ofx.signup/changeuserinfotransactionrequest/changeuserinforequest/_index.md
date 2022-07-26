@@ -1,7 +1,7 @@
 ---
 title: ChangeUserInfoRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ChangeUserInfoRequestaspose.finance.ofx.signup/changeuserinfotransactionrequest/changeuserinforequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signup/changeuserinfotransactionrequest/changeuserinforequest/

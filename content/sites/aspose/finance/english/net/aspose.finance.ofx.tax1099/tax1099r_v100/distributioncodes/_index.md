@@ -1,7 +1,7 @@
 ---
 title: DistributionCodes
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the distribution codes.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/distributioncodes/

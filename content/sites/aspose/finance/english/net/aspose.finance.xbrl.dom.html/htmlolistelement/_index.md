@@ -1,7 +1,7 @@
 ---
 title: HTMLOListElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents ordered list. See the OL element definition in HTML 4.01.
 type: docs
 weight: 7060
 url: /net/aspose.finance.xbrl.dom.html/htmlolistelement/

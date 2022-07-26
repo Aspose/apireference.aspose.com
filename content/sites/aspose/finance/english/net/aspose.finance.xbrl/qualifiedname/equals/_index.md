@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Check whether this qualified name is equal with the object.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl/qualifiedname/equals/

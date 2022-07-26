@@ -1,7 +1,7 @@
 ---
 title: InvestmentTransactionList
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the InvestmentTransactionListaspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist/

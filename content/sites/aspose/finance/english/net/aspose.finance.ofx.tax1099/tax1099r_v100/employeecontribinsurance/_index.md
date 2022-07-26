@@ -1,7 +1,7 @@
 ---
 title: EmployeeContribInsurance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the employee/designated Roth contrib insurance premiums.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.tax1099/tax1099r_v100/employeecontribinsurance/

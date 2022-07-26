@@ -1,7 +1,7 @@
 ---
 title: ReversalFITransactionId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the reversal transaction id.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/investmenttransaction/reversalfitransactionid/

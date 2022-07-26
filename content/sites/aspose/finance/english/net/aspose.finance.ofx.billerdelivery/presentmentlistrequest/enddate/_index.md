@@ -1,7 +1,7 @@
 ---
 title: EndDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the latest date for which to include bills.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/enddate/

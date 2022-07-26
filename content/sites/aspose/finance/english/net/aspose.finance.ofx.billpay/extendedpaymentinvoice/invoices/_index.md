@@ -1,7 +1,7 @@
 ---
 title: Invoices
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of Invoiceaspose.finance.ofx/invoice.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices/

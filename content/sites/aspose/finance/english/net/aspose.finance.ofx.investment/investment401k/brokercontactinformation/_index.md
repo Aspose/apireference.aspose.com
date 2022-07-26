@@ -1,7 +1,7 @@
 ---
 title: BrokerContactInformation
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of contact person at broker plus any available contact information such as phone number.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investment401k/brokercontactinformation/

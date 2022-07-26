@@ -1,7 +1,7 @@
 ---
 title: Sign
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the sign of the InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
 type: docs
 weight: 100
 url: /net/aspose.finance.xbrl.inline/inlinenonfraction/sign/

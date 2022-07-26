@@ -1,7 +1,7 @@
 ---
 title: Reason
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the reject reason.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/presentmentaccountinfo/reason/

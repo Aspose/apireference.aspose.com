@@ -1,7 +1,7 @@
 ---
 title: Markup
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the portion of the unit price that is attributed to the dealer markup.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.investment/investmentbuy/markup/

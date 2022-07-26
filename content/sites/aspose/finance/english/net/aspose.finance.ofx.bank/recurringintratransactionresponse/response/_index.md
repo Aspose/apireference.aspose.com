@@ -1,7 +1,7 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the RecurringIntraResponseaspose.finance.ofx.bank/recurringintraresponse or RecurringIntraModResponseaspose.finance.ofx.bank/recurringintramodresponse or RecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/recurringintratransactionresponse/response/

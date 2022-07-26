@@ -1,7 +1,7 @@
 ---
 title: SecurityName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the full name of security.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.securitieslist/generalsecurityinfo/securityname/

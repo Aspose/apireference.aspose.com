@@ -1,7 +1,7 @@
 ---
 title: InstantDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the period instant date.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/contextperiod/instantdate/

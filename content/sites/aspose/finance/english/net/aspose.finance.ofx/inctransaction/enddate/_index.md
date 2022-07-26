@@ -1,7 +1,7 @@
 ---
 title: EndDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the end date of statement requested
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/inctransaction/enddate/

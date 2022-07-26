@@ -1,7 +1,7 @@
 ---
 title: WireDestinationBank
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Beneficiarys bank class.
 type: docs
 weight: 6370
 url: /net/aspose.finance.ofx.wiretransfer/wiredestinationbank/

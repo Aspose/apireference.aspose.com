@@ -1,7 +1,7 @@
 ---
 title: OfxExceptionType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Ofx exception type enum.
 type: docs
 weight: 4190
 url: /net/aspose.finance.ofx/ofxexceptiontype/

@@ -1,7 +1,7 @@
 ---
 title: SecurityListTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Security list transaction request class.
 type: docs
 weight: 5150
 url: /net/aspose.finance.ofx.securitieslist/securitylisttransactionrequest/

@@ -1,7 +1,7 @@
 ---
 title: CreateHtmlElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Creates a Html elment.
 type: docs
 weight: 120
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/createhtmlelement/

@@ -1,7 +1,7 @@
 ---
 title: SpecifiedPABInterestDividend
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the specified PAB interest dividends subject to AMT
 type: docs
 weight: 210
 url: /net/aspose.finance.ofx.tax1099/tax1099div_v100/specifiedpabinterestdividend/

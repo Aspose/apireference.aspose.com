@@ -1,7 +1,7 @@
 ---
 title: EveningPhone
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the evening telephone number.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.signup/enrollrequest/eveningphone/

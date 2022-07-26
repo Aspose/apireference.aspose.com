@@ -1,7 +1,7 @@
 ---
 title: BilledExpense
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the amount billed for tuition and expenses.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/billedexpense/

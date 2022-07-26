@@ -1,7 +1,7 @@
 ---
 title: Show
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the show of the arc.
 type: docs
 weight: 70
 url: /net/aspose.finance.xbrl/arc/show/

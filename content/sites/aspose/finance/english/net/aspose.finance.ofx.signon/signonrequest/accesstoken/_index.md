@@ -1,7 +1,7 @@
 ---
 title: AccessToken
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the out of band arranged token to be used for authentication.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.signon/signonrequest/accesstoken/

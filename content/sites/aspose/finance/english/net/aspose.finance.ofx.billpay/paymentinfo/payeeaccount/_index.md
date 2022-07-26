@@ -1,7 +1,7 @@
 ---
 title: PayeeAccount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the user account number with the payee.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.billpay/paymentinfo/payeeaccount/

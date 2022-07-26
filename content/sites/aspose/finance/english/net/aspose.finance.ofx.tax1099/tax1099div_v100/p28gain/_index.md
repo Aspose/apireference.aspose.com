@@ -1,7 +1,7 @@
 ---
 title: P28Gain
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collectibles 28 rate gain.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.tax1099/tax1099div_v100/p28gain/

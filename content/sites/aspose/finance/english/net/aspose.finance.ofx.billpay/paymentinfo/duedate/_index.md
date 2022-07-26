@@ -1,7 +1,7 @@
 ---
 title: DueDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payment due date or the date by which payment must be received by payee.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.billpay/paymentinfo/duedate/

@@ -1,7 +1,7 @@
 ---
 title: PayeeTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PayeeTransactionRequestaspose.finance.ofx.billpay/payeetransactionrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/billpayrequestmessagesetv1/payeetransactionrequests/

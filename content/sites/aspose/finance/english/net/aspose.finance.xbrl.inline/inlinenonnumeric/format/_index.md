@@ -1,7 +1,7 @@
 ---
 title: Format
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the format of the InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl.inline/inlinenonnumeric/format/

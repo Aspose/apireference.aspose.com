@@ -1,7 +1,7 @@
 ---
 title: LoanPaymentsRemaining
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the remaining number of loan payments.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.investment/loaninfo/loanpaymentsremaining/

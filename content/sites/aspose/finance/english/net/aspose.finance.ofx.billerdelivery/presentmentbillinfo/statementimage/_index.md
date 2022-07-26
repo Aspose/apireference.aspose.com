@@ -1,7 +1,7 @@
 ---
 title: StatementImage
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the StatementImageaspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage.
 type: docs
 weight: 220
 url: /net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage/

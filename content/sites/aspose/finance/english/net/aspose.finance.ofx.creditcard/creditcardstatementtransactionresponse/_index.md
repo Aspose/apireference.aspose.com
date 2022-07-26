@@ -1,7 +1,7 @@
 ---
 title: CreditCardStatementTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Credit card download transaction response class.
 type: docs
 weight: 2030
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/

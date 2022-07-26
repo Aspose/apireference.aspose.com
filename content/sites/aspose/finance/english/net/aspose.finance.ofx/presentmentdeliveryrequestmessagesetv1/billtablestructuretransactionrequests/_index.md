@@ -1,7 +1,7 @@
 ---
 title: BillTableStructureTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of BillTableStructureTransactionRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billtablestructuretransactionrequests/

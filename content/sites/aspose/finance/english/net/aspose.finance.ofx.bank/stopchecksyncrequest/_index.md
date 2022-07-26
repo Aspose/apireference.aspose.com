@@ -1,7 +1,7 @@
 ---
 title: StopCheckSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Stop check synchronization request class.
 type: docs
 weight: 740
 url: /net/aspose.finance.ofx.bank/stopchecksyncrequest/

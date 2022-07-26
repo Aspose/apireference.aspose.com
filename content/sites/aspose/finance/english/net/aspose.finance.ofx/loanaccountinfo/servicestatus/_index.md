@@ -1,7 +1,7 @@
 ---
 title: ServiceStatus
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the status of the account.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx/loanaccountinfo/servicestatus/

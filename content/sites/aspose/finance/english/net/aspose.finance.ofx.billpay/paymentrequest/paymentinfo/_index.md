@@ -1,7 +1,7 @@
 ---
 title: PaymentInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PaymentInfoaspose.finance.ofx.billpay/paymentrequest/paymentinfo.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/paymentrequest/paymentinfo/

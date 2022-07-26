@@ -1,7 +1,7 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the id in the RoleTypeaspose.finance.xbrl/roletype.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/roletype/id/

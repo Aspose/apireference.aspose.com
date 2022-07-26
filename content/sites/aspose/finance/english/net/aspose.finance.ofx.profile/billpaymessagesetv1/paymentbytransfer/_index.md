@@ -1,7 +1,7 @@
 ---
 title: PaymentByTransfer
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether payments to payees identified by destination account
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/paymentbytransfer/

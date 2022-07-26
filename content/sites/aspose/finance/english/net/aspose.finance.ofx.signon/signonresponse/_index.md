@@ -1,7 +1,7 @@
 ---
 title: SignonResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Signon response class.
 type: docs
 weight: 5420
 url: /net/aspose.finance.ofx.signon/signonresponse/

@@ -1,7 +1,7 @@
 ---
 title: OtherLoanInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the additional details provided by lender.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.tax1098/tax1098_v100/otherloaninfo/

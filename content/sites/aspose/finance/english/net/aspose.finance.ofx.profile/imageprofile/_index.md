@@ -1,7 +1,7 @@
 ---
 title: ImageProfile
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Image profile class.
 type: docs
 weight: 4520
 url: /net/aspose.finance.ofx.profile/imageprofile/

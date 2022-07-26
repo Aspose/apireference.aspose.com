@@ -1,7 +1,7 @@
 ---
 title: MinUnits
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the minimum number of units that must be filled for the order.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.investment/generalopenorder/minunits/

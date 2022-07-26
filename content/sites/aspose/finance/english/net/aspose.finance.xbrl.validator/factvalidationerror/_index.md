@@ -1,7 +1,7 @@
 ---
 title: FactValidationError
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is for Fact validation related error.
 type: docs
 weight: 8100
 url: /net/aspose.finance.xbrl.validator/factvalidationerror/

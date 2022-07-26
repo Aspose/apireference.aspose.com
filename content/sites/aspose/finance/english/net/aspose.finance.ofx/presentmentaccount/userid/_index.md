@@ -1,7 +1,7 @@
 ---
 title: UserId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the customers user ID.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx/presentmentaccount/userid/

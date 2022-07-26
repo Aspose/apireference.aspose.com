@@ -1,7 +1,7 @@
 ---
 title: ContextValidationError
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is for Context validation related error.
 type: docs
 weight: 8090
 url: /net/aspose.finance.xbrl.validator/contextvalidationerror/

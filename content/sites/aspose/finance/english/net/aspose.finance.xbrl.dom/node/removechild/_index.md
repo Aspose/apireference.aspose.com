@@ -1,7 +1,7 @@
 ---
 title: RemoveChild
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Removes the child node indicated by old child from the list of children.
 type: docs
 weight: 180
 url: /net/aspose.finance.xbrl.dom/node/removechild/

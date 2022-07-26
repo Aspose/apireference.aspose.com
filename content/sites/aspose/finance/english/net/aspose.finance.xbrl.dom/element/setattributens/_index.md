@@ -1,7 +1,7 @@
 ---
 title: SetAttributeNS
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Adds a new attribute. If an attribute with the same local name and namespace URI is already present on the element its prefix is changed to be the prefix part of the qualifiedName and its value is changed to be the value parameter.
 type: docs
 weight: 160
 url: /net/aspose.finance.xbrl.dom/element/setattributens/

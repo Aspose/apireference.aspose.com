@@ -1,7 +1,7 @@
 ---
 title: NoncashLiquidation
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the non-cash liquidation distribution.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.tax1099/tax1099div_v100/noncashliquidation/

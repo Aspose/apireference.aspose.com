@@ -1,7 +1,7 @@
 ---
 title: BillPaymentStatusCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the bill payment status code.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdelivery/billpaymentstatuscounts/billpaymentstatuscode/

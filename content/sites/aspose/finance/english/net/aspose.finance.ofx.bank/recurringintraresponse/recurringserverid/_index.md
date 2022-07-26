@@ -1,7 +1,7 @@
 ---
 title: RecurringServerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the server assigned ID for this model.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.bank/recurringintraresponse/recurringserverid/

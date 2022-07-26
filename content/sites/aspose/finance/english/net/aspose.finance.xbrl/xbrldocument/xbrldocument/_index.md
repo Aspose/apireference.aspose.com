@@ -1,12 +1,12 @@
 ---
 title: XbrlDocument
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of XbrlDocument class
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/xbrldocument/xbrldocument/
 ---
-## XbrlDocument constructor (1 of 2)
+## XbrlDocument() {#constructor}
 
 Initializes a new instance of XbrlDocument class
 
@@ -22,7 +22,7 @@ public XbrlDocument()
 
 ---
 
-## XbrlDocument constructor (2 of 2)
+## XbrlDocument(string) {#constructor_1}
 
 Initializes a new instance of XbrlDocument class and open a file.
 

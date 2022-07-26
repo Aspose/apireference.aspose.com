@@ -1,7 +1,7 @@
 ---
 title: CanModificationModels
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether permit modifications to models.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/transferprofile/canmodificationmodels/

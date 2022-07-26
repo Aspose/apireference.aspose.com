@@ -1,7 +1,7 @@
 ---
 title: StateInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of StateInfoaspose.finance.ofx.taxw2/stateinfo class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.taxw2/stateinfo/stateinfo/

@@ -1,7 +1,7 @@
 ---
 title: RecurringInstructions
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the RecurringInstructionsaspose.finance.ofx.billpay/recurringpaymentmodresponse/recurringinstructions.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.billpay/recurringpaymentmodresponse/recurringinstructions/

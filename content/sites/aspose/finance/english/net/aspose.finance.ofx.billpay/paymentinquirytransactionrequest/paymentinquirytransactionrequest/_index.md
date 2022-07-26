@@ -1,7 +1,7 @@
 ---
 title: PaymentInquiryTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PaymentInquiryTransactionRequestaspose.finance.ofx.billpay/paymentinquirytransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquirytransactionrequest/

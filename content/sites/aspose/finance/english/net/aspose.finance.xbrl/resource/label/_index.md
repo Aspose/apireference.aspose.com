@@ -1,7 +1,7 @@
 ---
 title: Label
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the label of the resource.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/resource/label/

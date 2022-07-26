@@ -1,7 +1,7 @@
 ---
 title: CheckDescription
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of CheckDescriptionaspose.finance.ofx.bank/checkdescription class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.bank/checkdescription/checkdescription/

@@ -1,7 +1,7 @@
 ---
 title: SignupRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the SignupRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/signuprequestmessagesetv1.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx/ofxrequestdocument/signuprequestmessagesetv1/

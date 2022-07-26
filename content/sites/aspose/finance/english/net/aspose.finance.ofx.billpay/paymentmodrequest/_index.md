@@ -1,7 +1,7 @@
 ---
 title: PaymentModRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment modification request class.
 type: docs
 weight: 1180
 url: /net/aspose.finance.ofx.billpay/paymentmodrequest/

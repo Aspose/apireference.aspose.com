@@ -1,7 +1,7 @@
 ---
 title: FindBillerRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of FindBillerRequestaspose.finance.ofx.billerdirectory/findbillerrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdirectory/findbillerrequest/findbillerrequest/

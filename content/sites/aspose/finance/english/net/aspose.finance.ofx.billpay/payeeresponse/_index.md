@@ -1,7 +1,7 @@
 ---
 title: PayeeResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee addition response class.
 type: docs
 weight: 1000
 url: /net/aspose.finance.ofx.billpay/payeeresponse/

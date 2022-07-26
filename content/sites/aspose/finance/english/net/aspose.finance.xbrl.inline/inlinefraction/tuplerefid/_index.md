@@ -1,7 +1,7 @@
 ---
 title: TupleRefId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the tuple reference id of the InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl.inline/inlinefraction/tuplerefid/

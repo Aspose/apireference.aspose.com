@@ -1,7 +1,7 @@
 ---
 title: ServiceProviderName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the service provider name.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.profile/messagesetcore/serviceprovidername/

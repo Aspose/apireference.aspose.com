@@ -1,7 +1,7 @@
 ---
 title: InlineNonfraction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is for XBRL numeric item which is not fractionItemType in inline XBRL document.
 type: docs
 weight: 7700
 url: /net/aspose.finance.xbrl.inline/inlinenonfraction/

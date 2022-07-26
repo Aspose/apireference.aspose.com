@@ -1,7 +1,7 @@
 ---
 title: RejectIfMisssing
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: If yes do not process requests if client token is out of date.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/abstractsyncrequest/rejectifmisssing/

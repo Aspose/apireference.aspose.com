@@ -1,7 +1,7 @@
 ---
 title: PresentmentDirRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PresentmentDirRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/presentmentdirrequestmessagesetv1.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx/ofxrequestdocument/presentmentdirrequestmessagesetv1/

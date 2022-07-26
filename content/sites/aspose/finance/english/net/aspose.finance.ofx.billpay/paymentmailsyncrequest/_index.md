@@ -1,7 +1,7 @@
 ---
 title: PaymentMailSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment mail synchronization request class.
 type: docs
 weight: 1140
 url: /net/aspose.finance.ofx.billpay/paymentmailsyncrequest/

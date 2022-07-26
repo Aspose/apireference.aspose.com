@@ -1,7 +1,7 @@
 ---
 title: UserCredential1Label
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the text prompt for user credential. If it is present a third credential USERCRED1 is required in addition to USERID and USERPASS.
 type: docs
 weight: 180
 url: /net/aspose.finance.ofx.profile/signoninfo/usercredential1label/

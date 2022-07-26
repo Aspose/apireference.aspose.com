@@ -1,7 +1,7 @@
 ---
 title: HasChildNodes
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets whether this node has any children.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl.dom/node/haschildnodes/

@@ -1,7 +1,7 @@
 ---
 title: HTMLBaseElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents document base URI. See the BASE element definition in HTML 4.01.
 type: docs
 weight: 6740
 url: /net/aspose.finance.xbrl.dom.html/htmlbaseelement/

@@ -1,7 +1,7 @@
 ---
 title: Investment401kSummary
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Investment401kSummaryaspose.finance.ofx.investment/investment401k/investment401ksummary.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.investment/investment401k/investment401ksummary/

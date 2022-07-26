@@ -1,7 +1,7 @@
 ---
 title: AccountEditMask
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the alternative string describing the account number format.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/accounteditmask/

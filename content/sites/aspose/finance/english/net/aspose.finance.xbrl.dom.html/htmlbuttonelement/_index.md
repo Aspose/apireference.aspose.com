@@ -1,7 +1,7 @@
 ---
 title: HTMLButtonElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents push button. See the BUTTON element definition in HTML 4.01.
 type: docs
 weight: 6770
 url: /net/aspose.finance.xbrl.dom.html/htmlbuttonelement/

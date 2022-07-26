@@ -1,7 +1,7 @@
 ---
 title: MailResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the BankMailResponseaspose.finance.ofx.bank/bankmailresponse or CheckMailResponseaspose.finance.ofx.bank/checkmailresponse or DepositMailResponseaspose.finance.ofx.bank/depositmailresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.bank/bankmailtransactionresponse/mailresponse/

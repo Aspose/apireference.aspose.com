@@ -1,7 +1,7 @@
 ---
 title: PresentmentDlvMessageSet
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Biller delivery message set.
 type: docs
 weight: 4650
 url: /net/aspose.finance.ofx.profile/presentmentdlvmessageset/

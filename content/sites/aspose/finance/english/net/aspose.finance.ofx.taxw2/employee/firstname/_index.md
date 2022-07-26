@@ -1,7 +1,7 @@
 ---
 title: FirstName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the employee first name.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.taxw2/employee/firstname/

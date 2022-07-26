@@ -1,7 +1,7 @@
 ---
 title: InvestmentClosing
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class provides image information for client retrieval of investment statement images.
 type: docs
 weight: 2950
 url: /net/aspose.finance.ofx.investment/investmentclosing/

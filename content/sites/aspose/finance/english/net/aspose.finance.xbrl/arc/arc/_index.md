@@ -1,7 +1,7 @@
 ---
 title: Arc
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of Arcaspose.finance.xbrl/arc class.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/arc/arc/

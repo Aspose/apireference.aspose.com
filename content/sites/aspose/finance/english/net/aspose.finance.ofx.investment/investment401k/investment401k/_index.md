@@ -1,7 +1,7 @@
 ---
 title: Investment401k
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of Investment401kaspose.finance.ofx.investment/investment401k class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/investment401k/investment401k/

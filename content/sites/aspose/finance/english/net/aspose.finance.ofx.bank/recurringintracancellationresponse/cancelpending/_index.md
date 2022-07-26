@@ -1,7 +1,7 @@
 ---
 title: CancelPending
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the cancel pending flag. Yes if the client requested that the server cancel all pending and unspawned transfers. No if the client requested that the server cancel only unspawned transfers.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.bank/recurringintracancellationresponse/cancelpending/

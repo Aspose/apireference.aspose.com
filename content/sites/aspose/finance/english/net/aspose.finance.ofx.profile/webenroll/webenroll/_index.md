@@ -1,7 +1,7 @@
 ---
 title: WebEnroll
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of WebEnrollaspose.finance.ofx.profile/webenroll class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.profile/webenroll/webenroll/

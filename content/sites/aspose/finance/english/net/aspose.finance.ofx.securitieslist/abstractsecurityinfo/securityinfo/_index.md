@@ -1,7 +1,7 @@
 ---
 title: SecurityInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the GeneralSecurityInfoaspose.finance.ofx.securitieslist/generalsecurityinfo.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo/

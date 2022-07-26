@@ -1,7 +1,7 @@
 ---
 title: ClientUserId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the unique ID identifying OFX user.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.signon/signonrequest/clientuserid/

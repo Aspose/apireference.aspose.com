@@ -1,7 +1,7 @@
 ---
 title: GeneralSecurityInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class contains fields that are common to all security types.
 type: docs
 weight: 5060
 url: /net/aspose.finance.ofx.securitieslist/generalsecurityinfo/

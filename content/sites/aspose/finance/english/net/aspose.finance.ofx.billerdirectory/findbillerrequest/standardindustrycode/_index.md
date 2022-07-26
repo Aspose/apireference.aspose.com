@@ -1,7 +1,7 @@
 ---
 title: StandardIndustryCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the billers standard industry code.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.billerdirectory/findbillerrequest/standardindustrycode/

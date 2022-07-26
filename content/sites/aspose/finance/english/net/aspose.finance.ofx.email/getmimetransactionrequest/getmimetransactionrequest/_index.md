@@ -1,7 +1,7 @@
 ---
 title: GetMimeTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of GetMimeTransactionRequestaspose.finance.ofx.email/getmimetransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.email/getmimetransactionrequest/getmimetransactionrequest/

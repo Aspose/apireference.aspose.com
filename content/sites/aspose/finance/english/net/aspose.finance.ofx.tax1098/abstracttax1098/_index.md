@@ -1,7 +1,7 @@
 ---
 title: AbstractTax1098
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class of tax form 1098 classes.
 type: docs
 weight: 5720
 url: /net/aspose.finance.ofx.tax1098/abstracttax1098/

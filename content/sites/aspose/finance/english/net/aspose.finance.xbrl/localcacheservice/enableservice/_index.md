@@ -1,7 +1,7 @@
 ---
 title: EnableService
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Enables the service.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/localcacheservice/enableservice/

@@ -1,7 +1,7 @@
 ---
 title: CreditCardStatementEndTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Credit card closing statement transaction response class.
 type: docs
 weight: 1990
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/

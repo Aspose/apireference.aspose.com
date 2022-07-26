@@ -1,7 +1,7 @@
 ---
 title: ClosureOption
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ClosureOptionaspose.finance.ofx.investment/closureoption class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/closureoption/closureoption/

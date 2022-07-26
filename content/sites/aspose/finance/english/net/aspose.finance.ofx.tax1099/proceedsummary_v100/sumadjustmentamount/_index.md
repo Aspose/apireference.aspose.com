@@ -1,7 +1,7 @@
 ---
 title: SumAdjustmentAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the summary adjustment amount. This should include any applicable accrued market discount or wash sale loss disallowed.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.tax1099/proceedsummary_v100/sumadjustmentamount/

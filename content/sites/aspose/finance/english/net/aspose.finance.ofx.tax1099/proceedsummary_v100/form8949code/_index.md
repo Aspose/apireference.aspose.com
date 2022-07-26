@@ -1,7 +1,7 @@
 ---
 title: Form8949Code
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the applicable check box value on Form 8949.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.tax1099/proceedsummary_v100/form8949code/

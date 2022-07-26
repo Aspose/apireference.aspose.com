@@ -1,7 +1,7 @@
 ---
 title: Payee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the complete Payeeaspose.finance.ofx.billpay/paymentinfo/payee billing information.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.billpay/paymentinfo/payee/

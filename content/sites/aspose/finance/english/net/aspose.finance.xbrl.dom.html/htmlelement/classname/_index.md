@@ -1,7 +1,7 @@
 ---
 title: ClassName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the class attribute of the element. This attribute has been renamed due to conflicts with the class keyword exposed by many languages. See the class attribute definition in HTML 4.01.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.dom.html/htmlelement/classname/

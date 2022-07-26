@@ -1,7 +1,7 @@
 ---
 title: MaxMatchAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the maximum employer contribution amount in any year.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.investment/matchinfo/maxmatchamount/

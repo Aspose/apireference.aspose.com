@@ -1,7 +1,7 @@
 ---
 title: TotalCapitalGain
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total capital gain distribution.
 type: docs
 weight: 260
 url: /net/aspose.finance.ofx.tax1099/tax1099div_v100/totalcapitalgain/

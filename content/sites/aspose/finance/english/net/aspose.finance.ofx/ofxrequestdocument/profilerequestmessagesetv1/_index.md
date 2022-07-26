@@ -1,7 +1,7 @@
 ---
 title: ProfileRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ProfileRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/profilerequestmessagesetv1.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx/ofxrequestdocument/profilerequestmessagesetv1/

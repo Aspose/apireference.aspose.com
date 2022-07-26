@@ -1,7 +1,7 @@
 ---
 title: NodeType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the node type.
 type: docs
 weight: 100
 url: /net/aspose.finance.xbrl.dom/node/nodetype/

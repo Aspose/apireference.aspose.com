@@ -1,7 +1,7 @@
 ---
 title: OpenOrderBuyMutualFund
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Open order buy mutual fund class.
 type: docs
 weight: 3230
 url: /net/aspose.finance.ofx.investment/openorderbuymutualfund/

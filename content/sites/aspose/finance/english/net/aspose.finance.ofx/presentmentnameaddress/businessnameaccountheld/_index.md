@@ -1,7 +1,7 @@
 ---
 title: BusinessNameAccountHeld
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the optional Does Business As name associated with this account.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/presentmentnameaddress/businessnameaccountheld/

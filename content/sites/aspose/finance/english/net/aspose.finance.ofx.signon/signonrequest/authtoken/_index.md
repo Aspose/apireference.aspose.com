@@ -1,7 +1,7 @@
 ---
 title: AuthToken
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the authentication token required for this signon session only. Credential is provided to the user out of band.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.signon/signonrequest/authtoken/

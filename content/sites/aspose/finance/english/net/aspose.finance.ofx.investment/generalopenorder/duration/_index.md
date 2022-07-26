@@ -1,7 +1,7 @@
 ---
 title: Duration
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets how long the order is good for.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.investment/generalopenorder/duration/

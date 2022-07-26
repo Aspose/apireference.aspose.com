@@ -1,7 +1,7 @@
 ---
 title: CurrentVestPercent
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the estimated percentage of employer contributions vested as of the current date.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/investment401k/currentvestpercent/

@@ -1,7 +1,7 @@
 ---
 title: Employer
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Employer information class.
 type: docs
 weight: 6140
 url: /net/aspose.finance.ofx.taxw2/employer/

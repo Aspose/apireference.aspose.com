@@ -1,7 +1,7 @@
 ---
 title: EndCheckNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ending check number to cancel omit if only one check is to be stopped
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.bank/checkrange/endchecknumber/

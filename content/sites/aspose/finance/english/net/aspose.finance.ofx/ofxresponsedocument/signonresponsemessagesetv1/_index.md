@@ -1,7 +1,7 @@
 ---
 title: SignonResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the SignonResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/signonresponsemessagesetv1.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx/ofxresponsedocument/signonresponsemessagesetv1/

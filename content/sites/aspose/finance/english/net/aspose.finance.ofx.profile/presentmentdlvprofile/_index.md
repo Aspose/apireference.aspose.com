@@ -1,7 +1,7 @@
 ---
 title: PresentmentDlvProfile
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Biller delivery profile class.
 type: docs
 weight: 4670
 url: /net/aspose.finance.ofx.profile/presentmentdlvprofile/

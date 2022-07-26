@@ -1,7 +1,7 @@
 ---
 title: InterestAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the amount of MinPaymentDue if any which reflects interest on a loan. Only returned if loan accounts were mapped to CREDITLINE account type during implementation.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/creditlineinfotype/interestamount/

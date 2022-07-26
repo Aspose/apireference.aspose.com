@@ -1,7 +1,7 @@
 ---
 title: Form1099BNotReceived
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the form 1099-B not received
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/form1099bnotreceived/

@@ -1,7 +1,7 @@
 ---
 title: CropInsuranceProceed
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the crop insurance proceeds.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.tax1099/tax1099misc_v100/cropinsuranceproceed/

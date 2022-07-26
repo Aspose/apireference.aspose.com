@@ -1,7 +1,7 @@
 ---
 title: WireTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Wire transfer transaction request class.
 type: docs
 weight: 6420
 url: /net/aspose.finance.ofx.wiretransfer/wiretransactionrequest/

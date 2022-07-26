@@ -1,7 +1,7 @@
 ---
 title: Validate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the URL for validation.
 type: docs
 weight: 210
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/validate/

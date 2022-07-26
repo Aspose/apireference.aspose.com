@@ -1,7 +1,7 @@
 ---
 title: StateInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: State information class.
 type: docs
 weight: 6170
 url: /net/aspose.finance.ofx.taxw2/stateinfo/

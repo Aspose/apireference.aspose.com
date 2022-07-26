@@ -1,7 +1,7 @@
 ---
 title: SecHtmlReportSaveOption
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Creates options for sec html report.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/sechtmlreportsaveoption/sechtmlreportsaveoption/

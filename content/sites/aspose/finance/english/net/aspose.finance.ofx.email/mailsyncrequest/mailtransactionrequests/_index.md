@@ -1,7 +1,7 @@
 ---
 title: MailTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of MailTransactionRequestaspose.finance.ofx.email/mailtransactionrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.email/mailsyncrequest/mailtransactionrequests/

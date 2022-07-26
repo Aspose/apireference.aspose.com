@@ -18,6 +18,7 @@ url: /net/aspose.finance.xbrl.validator/
 | [InlineFactValidationError](./inlinefactvalidationerror) |  |
 | [InlineRelationshipError](./inlinerelationshiperror) |  |
 | [InlineValidationError](./inlinevalidationerror) |  |
+| [SchemaRefValidationError](./schemarefvalidationerror) | This class is for Arc validation related error. |
 | [ValidationError](./validationerror) | this class is for base class of validation related error. |
 ## Enumeration
 

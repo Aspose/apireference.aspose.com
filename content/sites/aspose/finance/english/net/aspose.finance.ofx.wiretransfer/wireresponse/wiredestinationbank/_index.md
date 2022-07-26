@@ -1,7 +1,7 @@
 ---
 title: WireDestinationBank
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the WireDestinationBankaspose.finance.ofx.wiretransfer/wireresponse/wiredestinationbank.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.wiretransfer/wireresponse/wiredestinationbank/

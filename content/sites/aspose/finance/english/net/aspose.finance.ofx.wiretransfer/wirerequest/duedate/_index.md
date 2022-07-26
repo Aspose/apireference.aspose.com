@@ -1,7 +1,7 @@
 ---
 title: DueDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Date to occur.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.wiretransfer/wirerequest/duedate/

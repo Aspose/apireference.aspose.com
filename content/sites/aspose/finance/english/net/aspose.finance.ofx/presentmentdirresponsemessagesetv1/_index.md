@@ -1,7 +1,7 @@
 ---
 title: PresentmentDirResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Biller directory response messages set version 1 class.
 type: docs
 weight: 4320
 url: /net/aspose.finance.ofx/presentmentdirresponsemessagesetv1/

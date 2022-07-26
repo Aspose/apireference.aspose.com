@@ -1,7 +1,7 @@
 ---
 title: ExtendedPayee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ExtendedPayeeaspose.finance.ofx.billpay/extendedpayee class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/extendedpayee/extendedpayee/

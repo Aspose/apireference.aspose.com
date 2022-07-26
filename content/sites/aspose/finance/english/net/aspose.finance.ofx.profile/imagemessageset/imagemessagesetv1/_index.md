@@ -1,7 +1,7 @@
 ---
 title: ImageMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ImageMessageSetV1aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1/

@@ -1,7 +1,7 @@
 ---
 title: IsExplicit
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets whether this dimension member is explicit.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/dimensionmember/isexplicit/

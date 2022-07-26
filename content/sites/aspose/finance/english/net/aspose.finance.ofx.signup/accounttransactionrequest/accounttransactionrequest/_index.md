@@ -1,7 +1,7 @@
 ---
 title: AccountTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of AccountTransactionRequestaspose.finance.ofx.signup/accounttransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.signup/accounttransactionrequest/accounttransactionrequest/

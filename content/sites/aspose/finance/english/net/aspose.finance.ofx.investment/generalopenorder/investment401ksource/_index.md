@@ -1,7 +1,7 @@
 ---
 title: Investment401kSource
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the source of money for this order for 401k accounts.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.investment/generalopenorder/investment401ksource/

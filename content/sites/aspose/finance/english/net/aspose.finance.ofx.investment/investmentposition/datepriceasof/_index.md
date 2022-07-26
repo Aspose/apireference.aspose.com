@@ -1,7 +1,7 @@
 ---
 title: DatePriceAsOf
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time of unit price and market value and cost basis.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/investmentposition/datepriceasof/

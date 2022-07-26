@@ -1,7 +1,7 @@
 ---
 title: MinPaymentDue
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the minimum amount due.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx/creditlineinfotype/minpaymentdue/

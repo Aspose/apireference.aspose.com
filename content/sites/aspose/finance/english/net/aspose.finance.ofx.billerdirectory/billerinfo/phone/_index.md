@@ -1,7 +1,7 @@
 ---
 title: Phone
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the billers phone number for customer information if a special number exists for electronic billing information use that number.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/phone/

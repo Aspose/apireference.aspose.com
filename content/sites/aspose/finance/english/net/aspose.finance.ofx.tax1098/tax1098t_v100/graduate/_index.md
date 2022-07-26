@@ -1,7 +1,7 @@
 ---
 title: Graduate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether graduate student.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/graduate/

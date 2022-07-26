@@ -1,7 +1,7 @@
 ---
 title: FinancialInstitution
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Financial institution class.
 type: docs
 weight: 5300
 url: /net/aspose.finance.ofx.signon/financialinstitution/

@@ -1,7 +1,7 @@
 ---
 title: DomesticTransferFee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the standard fee for a domestic wire transfer.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/wiretransfermessagesetv1/domestictransferfee/

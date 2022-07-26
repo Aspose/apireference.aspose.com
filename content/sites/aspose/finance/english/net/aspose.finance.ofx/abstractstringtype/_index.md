@@ -1,7 +1,7 @@
 ---
 title: AbstractStringType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class of string related classes.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx/abstractstringtype/

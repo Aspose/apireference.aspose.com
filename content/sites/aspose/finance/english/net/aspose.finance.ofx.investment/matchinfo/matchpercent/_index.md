@@ -1,7 +1,7 @@
 ---
 title: MatchPercent
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the percent of employee contribution matched.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.investment/matchinfo/matchpercent/

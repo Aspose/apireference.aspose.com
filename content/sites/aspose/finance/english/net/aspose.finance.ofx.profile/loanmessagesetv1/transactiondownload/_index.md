@@ -1,7 +1,7 @@
 ---
 title: TransactionDownload
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether downloading loan statement transactions is available.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.profile/loanmessagesetv1/transactiondownload/

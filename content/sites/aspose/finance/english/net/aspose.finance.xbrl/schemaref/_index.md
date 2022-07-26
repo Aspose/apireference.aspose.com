@@ -1,7 +1,7 @@
 ---
 title: SchemaRef
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is a reference to a Taxonomy Schema that becomes part of the DTS supporting the XBRL instance.
 type: docs
 weight: 8010
 url: /net/aspose.finance.xbrl/schemaref/

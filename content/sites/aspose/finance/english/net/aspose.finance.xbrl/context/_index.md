@@ -1,7 +1,7 @@
 ---
 title: Context
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class contains the entity the period and the scenario that collectively give the appropriate context for understanding the values of items.
 type: docs
 weight: 6540
 url: /net/aspose.finance.xbrl/context/

@@ -1,7 +1,7 @@
 ---
 title: ThirdPartySickPay
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the third party sick pay.
 type: docs
 weight: 200
 url: /net/aspose.finance.ofx.taxw2/taxw2_v200/thirdpartysickpay/

@@ -1,7 +1,7 @@
 ---
 title: Insurance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the life accident health insurance on loan.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/loantransactionamount/insurance/

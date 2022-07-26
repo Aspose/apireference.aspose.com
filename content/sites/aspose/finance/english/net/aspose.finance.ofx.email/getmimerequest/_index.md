@@ -1,7 +1,7 @@
 ---
 title: GetMimeRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: MIME get request class.
 type: docs
 weight: 2120
 url: /net/aspose.finance.ofx.email/getmimerequest/

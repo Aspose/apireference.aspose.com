@@ -1,7 +1,7 @@
 ---
 title: InterestRateCash
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the effective interest rate for cash advances taking into account any changes in rates which applied during this statement period.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/interestratecash/

@@ -1,7 +1,7 @@
 ---
 title: Contexts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of Contextaspose.finance.xbrl/context in the inline XBRL document.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/contexts/

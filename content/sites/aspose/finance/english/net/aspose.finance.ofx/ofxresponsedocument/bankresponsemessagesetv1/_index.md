@@ -1,7 +1,7 @@
 ---
 title: BankResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the BankResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/bankresponsemessagesetv1.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/ofxresponsedocument/bankresponsemessagesetv1/

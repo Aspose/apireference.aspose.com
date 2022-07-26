@@ -1,7 +1,7 @@
 ---
 title: ImageTtl
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the number of calendar days the image will remain available on the host once the image becomes available.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/imagedata/imagettl/

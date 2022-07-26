@@ -1,7 +1,7 @@
 ---
 title: TransferAction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the action for transfers.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.investment/transfer/transferaction/

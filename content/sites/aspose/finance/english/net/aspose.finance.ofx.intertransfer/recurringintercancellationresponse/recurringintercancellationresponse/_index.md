@@ -1,7 +1,7 @@
 ---
 title: RecurringInterCancellationResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of RecurringInterCancellationResponseaspose.finance.ofx.intertransfer/recurringintercancellationresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.intertransfer/recurringintercancellationresponse/recurringintercancellationresponse/

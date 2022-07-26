@@ -1,7 +1,7 @@
 ---
 title: EscrowTotal
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total amount of payment applied to Escrow.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/escrowamount/escrowtotal/

@@ -1,7 +1,7 @@
 ---
 title: BillPayMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Version 1 of bill pay message set.
 type: docs
 weight: 4400
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/

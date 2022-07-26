@@ -1,7 +1,7 @@
 ---
 title: ImageDelay
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the number of calendar days from ServerDate for statement images or PostedDate for transaction images when image will become available.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/imagedata/imagedelay/

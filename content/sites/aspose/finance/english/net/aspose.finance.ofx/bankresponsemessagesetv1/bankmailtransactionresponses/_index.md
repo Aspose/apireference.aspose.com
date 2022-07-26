@@ -1,7 +1,7 @@
 ---
 title: BankMailTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of BankMailTransactionResponseaspose.finance.ofx.bank/bankmailtransactionresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/bankresponsemessagesetv1/bankmailtransactionresponses/

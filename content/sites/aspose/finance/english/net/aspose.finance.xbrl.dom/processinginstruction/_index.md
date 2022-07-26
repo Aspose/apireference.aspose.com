@@ -1,7 +1,7 @@
 ---
 title: ProcessingInstruction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents a processing instruction used in XML as a way to keep processor-specific information in the text of the document.
 type: docs
 weight: 7450
 url: /net/aspose.finance.xbrl.dom/processinginstruction/

@@ -1,7 +1,7 @@
 ---
 title: AccountUpdateDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time of last update to account information.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.signon/signonresponse/accountupdatedate/

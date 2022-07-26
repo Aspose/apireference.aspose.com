@@ -1,7 +1,7 @@
 ---
 title: EarlyWithdrawalPenalty
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the early withdrawal penalty.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.tax1099/tax1099oid_v100/earlywithdrawalpenalty/

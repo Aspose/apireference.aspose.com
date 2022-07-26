@@ -1,7 +1,7 @@
 ---
 title: LoanTransactionAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Loan transaction amount class.
 type: docs
 weight: 4130
 url: /net/aspose.finance.ofx/loantransactionamount/

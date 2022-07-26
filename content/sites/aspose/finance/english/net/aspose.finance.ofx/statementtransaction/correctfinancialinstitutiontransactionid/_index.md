@@ -1,7 +1,7 @@
 ---
 title: CorrectFinancialInstitutionTransactionId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the corrected transaction ID. If present the FinancialInstitutionTransactionId of a previously sent transaction that is corrected by this record.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx/statementtransaction/correctfinancialinstitutiontransactionid/

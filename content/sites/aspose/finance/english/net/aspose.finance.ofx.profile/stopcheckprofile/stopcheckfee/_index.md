@@ -1,7 +1,7 @@
 ---
 title: StopCheckFee
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the default stop check fee
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.profile/stopcheckprofile/stopcheckfee/

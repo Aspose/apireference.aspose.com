@@ -1,7 +1,7 @@
 ---
 title: MailRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Email message request class.
 type: docs
 weight: 2160
 url: /net/aspose.finance.ofx.email/mailrequest/

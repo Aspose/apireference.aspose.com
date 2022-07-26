@@ -1,7 +1,7 @@
 ---
 title: Message
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the textual explanation from the FI.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/status/message/

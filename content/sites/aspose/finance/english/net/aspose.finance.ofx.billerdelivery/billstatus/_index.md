@@ -1,7 +1,7 @@
 ---
 title: BillStatus
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bill status class.
 type: docs
 weight: 1460
 url: /net/aspose.finance.ofx.billerdelivery/billstatus/

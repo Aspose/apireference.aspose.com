@@ -1,7 +1,7 @@
 ---
 title: ImageRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of ImageRequestaspose.finance.ofx.image/imagerequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.image/imagerequest/imagerequest/

@@ -1,7 +1,7 @@
 ---
 title: RecurringPaymentTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of RecurringPaymentTransactionRequestaspose.finance.ofx.billpay/recurringpaymenttransactionrequest.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymenttransactionrequests/

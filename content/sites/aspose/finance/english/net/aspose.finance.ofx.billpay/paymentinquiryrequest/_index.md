@@ -1,7 +1,7 @@
 ---
 title: PaymentInquiryRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payment status inquiry request class.
 type: docs
 weight: 1080
 url: /net/aspose.finance.ofx.billpay/paymentinquiryrequest/

@@ -1,7 +1,7 @@
 ---
 title: DateAsOf
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date as of for the unit price.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.securitieslist/generalsecurityinfo/dateasof/

@@ -1,7 +1,7 @@
 ---
 title: IsTypedDimension
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets whether it is typed dimension concept.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl/concept/istypeddimension/

@@ -1,7 +1,7 @@
 ---
 title: Points
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the points paid on purchase of principal residence.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.tax1098/tax1098_v100/points/

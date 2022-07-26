@@ -1,7 +1,7 @@
 ---
 title: InvestmentPosition
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class contains fields relevant to all investment position types.
 type: docs
 weight: 3040
 url: /net/aspose.finance.ofx.investment/investmentposition/

@@ -1,7 +1,7 @@
 ---
 title: BankAccount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: OFX uses the Banking Account aggregates to identify an account at an FI. The aggregates contain enough information to uniquely identify an account for the purposes of statement download bill payment and funds transfer.
 type: docs
 weight: 780
 url: /net/aspose.finance.ofx/bankaccount/

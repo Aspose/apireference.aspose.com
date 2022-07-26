@@ -1,7 +1,7 @@
 ---
 title: ADJCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the can include up to nine adjustment codes at the summary level.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1099/proceedsummary_v100/adjcode/

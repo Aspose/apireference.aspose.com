@@ -1,7 +1,7 @@
 ---
 title: NodeName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the node name depending on its type.
 type: docs
 weight: 90
 url: /net/aspose.finance.xbrl.dom/node/nodename/

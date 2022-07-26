@@ -1,7 +1,7 @@
 ---
 title: LoanPrincipal
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets how much of the loan repayment was principal. For 401k accounts only.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.investment/investmentbuy/loanprincipal/

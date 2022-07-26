@@ -1,7 +1,7 @@
 ---
 title: GetFromLocs
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of from Locaspose.finance.xbrl/loc in the FootnoteArcaspose.finance.xbrl/footnotearc.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/footnotearc/getfromlocs/

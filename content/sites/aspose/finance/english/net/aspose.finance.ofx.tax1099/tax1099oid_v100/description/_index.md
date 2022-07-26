@@ -1,7 +1,7 @@
 ---
 title: Description
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the description.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx.tax1099/tax1099oid_v100/description/

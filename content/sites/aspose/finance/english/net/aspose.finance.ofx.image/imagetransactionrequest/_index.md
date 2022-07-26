@@ -1,7 +1,7 @@
 ---
 title: ImageTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Image transaction request class.
 type: docs
 weight: 2290
 url: /net/aspose.finance.ofx.image/imagetransactionrequest/

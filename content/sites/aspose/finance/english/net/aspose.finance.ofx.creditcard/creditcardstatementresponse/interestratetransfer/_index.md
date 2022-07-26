@@ -1,7 +1,7 @@
 ---
 title: InterestRateTransfer
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current interest rate for balance transfers in effect at time of download.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratetransfer/

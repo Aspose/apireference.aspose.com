@@ -1,7 +1,7 @@
 ---
 title: RewardInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the RewardInfoTypeaspose.finance.ofx/rewardinfotype.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementresponse/rewardinfo/

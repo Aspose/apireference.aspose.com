@@ -1,7 +1,7 @@
 ---
 title: OwnerDocument
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the document object associated with this node.
 type: docs
 weight: 120
 url: /net/aspose.finance.xbrl.dom/node/ownerdocument/

@@ -1,7 +1,7 @@
 ---
 title: PinChangeRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: User password change request class.
 type: docs
 weight: 5370
 url: /net/aspose.finance.ofx.signon/pinchangerequest/

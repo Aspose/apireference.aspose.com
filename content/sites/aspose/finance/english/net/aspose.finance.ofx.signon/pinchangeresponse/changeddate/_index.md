@@ -1,7 +1,7 @@
 ---
 title: ChangedDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time the password was changed.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signon/pinchangeresponse/changeddate/

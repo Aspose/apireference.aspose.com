@@ -1,7 +1,7 @@
 ---
 title: RecurringInterTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Recurring Interbank transfer transaction request class.
 type: docs
 weight: 2570
 url: /net/aspose.finance.ofx.intertransfer/recurringintertransactionrequest/

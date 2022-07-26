@@ -1,7 +1,7 @@
 ---
 title: LoanTransactionAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the LoanTransactionAmountaspose.finance.ofx.loan/amortizationtransaction/loantransactionamount.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.loan/amortizationtransaction/loantransactionamount/

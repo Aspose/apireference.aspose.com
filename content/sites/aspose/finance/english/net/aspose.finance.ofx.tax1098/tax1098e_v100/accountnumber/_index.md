@@ -1,7 +1,7 @@
 ---
 title: AccountNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the account number.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1098/tax1098e_v100/accountnumber/

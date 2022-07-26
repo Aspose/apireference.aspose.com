@@ -1,7 +1,7 @@
 ---
 title: Footnote
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is a Xlink./xlink with Resource type. It iss the only resource allowed in FootnoteLink./footnotelink.
 type: docs
 weight: 7630
 url: /net/aspose.finance.xbrl/footnote/

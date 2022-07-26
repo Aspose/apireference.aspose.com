@@ -1,9 +1,9 @@
 ---
 title: XbrlDocument
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: An XBRL document which contains one or more XBRL instance.
 type: docs
-weight: 8160
+weight: 8170
 url: /net/aspose.finance.xbrl/xbrldocument/
 ---
 ## XbrlDocument class
@@ -18,8 +18,8 @@ public class XbrlDocument
 
 | Name | Description |
 | --- | --- |
-| [XbrlDocument](xbrldocument)() | Initializes a new instance of XbrlDocument class |
-| [XbrlDocument](xbrldocument)(string) | Initializes a new instance of XbrlDocument class and open a file. |
+| [XbrlDocument](xbrldocument#constructor)() | Initializes a new instance of XbrlDocument class |
+| [XbrlDocument](xbrldocument#constructor_1)(string) | Initializes a new instance of XbrlDocument class and open a file. |
 
 ## Properties
 
@@ -31,9 +31,9 @@ public class XbrlDocument
 
 | Name | Description |
 | --- | --- |
-| [Save](../../aspose.finance.xbrl/xbrldocument/save)(string) | Creates and saves the XBRL file to the disk. |
-| [Save](../../aspose.finance.xbrl/xbrldocument/save)(Stream, SaveOptions) | Save the XbrlDocument to the stream. |
-| [Save](../../aspose.finance.xbrl/xbrldocument/save)(string, SaveOptions) | Save the XbrlDocument to the disk. |
+| [Save](../../aspose.finance.xbrl/xbrldocument/save#save_1)(string) | Creates and saves the XBRL file to the disk. |
+| [Save](../../aspose.finance.xbrl/xbrldocument/save#save)(Stream, SaveOptions) | Save the XbrlDocument to the stream. |
+| [Save](../../aspose.finance.xbrl/xbrldocument/save#save_2)(string, SaveOptions) | Save the XbrlDocument to the disk. |
 
 ### See Also
 

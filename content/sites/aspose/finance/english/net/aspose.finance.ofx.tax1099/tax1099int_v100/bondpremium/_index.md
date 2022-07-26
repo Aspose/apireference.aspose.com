@@ -1,7 +1,7 @@
 ---
 title: BondPremium
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the bond premium.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.tax1099/tax1099int_v100/bondpremium/

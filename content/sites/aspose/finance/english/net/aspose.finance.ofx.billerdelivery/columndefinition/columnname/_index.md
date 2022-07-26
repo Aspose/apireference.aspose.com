@@ -1,7 +1,7 @@
 ---
 title: ColumnName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the column name.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdelivery/columndefinition/columnname/

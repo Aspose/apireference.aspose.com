@@ -1,7 +1,7 @@
 ---
 title: HTMLHeadElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class represents document head information. See the HEAD element definition in HTML 4.01.
 type: docs
 weight: 6900
 url: /net/aspose.finance.xbrl.dom.html/htmlheadelement/

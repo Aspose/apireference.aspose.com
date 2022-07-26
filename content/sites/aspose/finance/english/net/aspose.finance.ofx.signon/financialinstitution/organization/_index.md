@@ -1,7 +1,7 @@
 ---
 title: Organization
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the organization defining this FI name space.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.signon/financialinstitution/organization/

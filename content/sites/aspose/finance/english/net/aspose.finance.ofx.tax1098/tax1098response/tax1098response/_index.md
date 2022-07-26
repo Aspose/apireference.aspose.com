@@ -1,7 +1,7 @@
 ---
 title: Tax1098Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of Tax1098Responseaspose.finance.ofx.tax1098/tax1098response class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.tax1098/tax1098response/tax1098response/

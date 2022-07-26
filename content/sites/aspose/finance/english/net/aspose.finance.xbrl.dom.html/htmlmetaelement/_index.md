@@ -1,7 +1,7 @@
 ---
 title: HTMLMetaElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The class contains generic meta-information about the document. See the META element definition in HTML 4.01.
 type: docs
 weight: 7030
 url: /net/aspose.finance.xbrl.dom.html/htmlmetaelement/

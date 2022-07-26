@@ -1,7 +1,7 @@
 ---
 title: ReferenceParts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of ReferencePartaspose.finance.xbrl/referencepart.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/reference/referenceparts/

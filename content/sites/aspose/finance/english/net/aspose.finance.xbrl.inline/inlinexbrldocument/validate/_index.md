@@ -1,7 +1,7 @@
 ---
 title: Validate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Validates this inline XBRL document.
 type: docs
 weight: 280
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/validate/

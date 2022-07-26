@@ -1,7 +1,7 @@
 ---
 title: CheckError
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the further textual explanation.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.bank/stopchecknumber/checkerror/

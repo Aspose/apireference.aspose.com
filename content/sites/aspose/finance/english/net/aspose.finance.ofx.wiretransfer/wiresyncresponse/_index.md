@@ -1,7 +1,7 @@
 ---
 title: WireSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Wire transaction synchronization response class.
 type: docs
 weight: 6410
 url: /net/aspose.finance.ofx.wiretransfer/wiresyncresponse/

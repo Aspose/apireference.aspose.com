@@ -1,7 +1,7 @@
 ---
 title: Data
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the character data of the node that implements this interface.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.dom/characterdata/data/

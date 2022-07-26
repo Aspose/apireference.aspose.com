@@ -1,7 +1,7 @@
 ---
 title: AccountInfoTransactionRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of AccountInfoTransactionRequestaspose.finance.ofx.signup/accountinfotransactionrequest.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/signuprequestmessagesetv1/accountinfotransactionrequests/

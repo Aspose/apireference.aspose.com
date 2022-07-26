@@ -1,7 +1,7 @@
 ---
 title: SalesPrice
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the sales price. This is the total price of the sale and not the price per share.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/salesprice/

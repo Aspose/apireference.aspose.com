@@ -1,7 +1,7 @@
 ---
 title: JournalSecurity
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Journaling security holdings between subaccounts within the same investment account.
 type: docs
 weight: 3180
 url: /net/aspose.finance.ofx.investment/journalsecurity/

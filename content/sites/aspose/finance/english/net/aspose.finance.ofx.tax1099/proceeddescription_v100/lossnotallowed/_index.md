@@ -1,7 +1,7 @@
 ---
 title: LossNotAllowed
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the loss not allowed.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/lossnotallowed/

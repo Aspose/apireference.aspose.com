@@ -1,7 +1,7 @@
 ---
 title: InterestRateCash
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current interest rate for cash advances in effect at time of download.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratecash/

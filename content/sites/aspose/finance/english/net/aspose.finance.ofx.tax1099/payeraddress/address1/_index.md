@@ -1,7 +1,7 @@
 ---
 title: Address1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payer address line 1.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1099/payeraddress/address1/

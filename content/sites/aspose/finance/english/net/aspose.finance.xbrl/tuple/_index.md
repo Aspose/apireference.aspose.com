@@ -1,7 +1,7 @@
 ---
 title: Tuple
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: A tuple is an element in the substitution group for the XBRL tuple element. Tuples are used to bind together the parts of a compound fact. Those constituent parts are themselves facts but they must be interpreted in light of each-other. For example the name age and compensation of a director of a company need to be grouped together to be correctly understood.
 type: docs
 weight: 8050
 url: /net/aspose.finance.xbrl/tuple/

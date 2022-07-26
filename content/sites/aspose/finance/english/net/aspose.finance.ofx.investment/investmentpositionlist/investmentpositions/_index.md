@@ -1,7 +1,7 @@
 ---
 title: InvestmentPositions
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PositionMutualFundaspose.finance.ofx.investment/positionmutualfund or PositionStockaspose.finance.ofx.investment/positionstock or PositionDebtaspose.finance.ofx.investment/positiondebt or PositionOptionaspose.finance.ofx.investment/positionoption or PositionOtheraspose.finance.ofx.investment/positionother.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.investment/investmentpositionlist/investmentpositions/

@@ -1,7 +1,7 @@
 ---
 title: MarginBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the margin balance. A positive balance indicates a positive cash balance while a negative balance indicates the customer has borrowed funds.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.investment/investmentbalance/marginbalance/

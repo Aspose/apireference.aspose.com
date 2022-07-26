@@ -1,7 +1,7 @@
 ---
 title: TaxW2TransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of TaxW2TransactionResponseaspose.finance.ofx.taxw2/taxw2transactionresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.taxw2/taxw2transactionresponse/taxw2transactionresponse/

@@ -1,7 +1,7 @@
 ---
 title: TransactionDownload
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether the FI server downloads investment statement transactions.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/transactiondownload/

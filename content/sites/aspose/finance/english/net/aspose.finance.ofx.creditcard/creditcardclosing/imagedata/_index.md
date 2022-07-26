@@ -1,7 +1,7 @@
 ---
 title: ImageData
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ImageDataaspose.finance.ofx.creditcard/creditcardclosing/imagedata.
 type: docs
 weight: 120
 url: /net/aspose.finance.ofx.creditcard/creditcardclosing/imagedata/

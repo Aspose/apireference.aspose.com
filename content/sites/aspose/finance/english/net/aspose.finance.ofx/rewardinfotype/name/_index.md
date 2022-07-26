@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of the reward program.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/rewardinfotype/name/

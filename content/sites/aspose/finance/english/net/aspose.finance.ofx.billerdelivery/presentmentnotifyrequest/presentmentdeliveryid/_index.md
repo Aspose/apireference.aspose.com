@@ -1,7 +1,7 @@
 ---
 title: PresentmentDeliveryId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PresentmentDeliveryIdaspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentdeliveryid.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentdeliveryid/

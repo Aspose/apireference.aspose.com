@@ -1,7 +1,7 @@
 ---
 title: Units
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the units. For security-based actions other than stock splits. Shares for stocks mutual funds and others. Face value for bonds. Contracts for options.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx.investment/reinvest/units/

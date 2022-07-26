@@ -1,7 +1,7 @@
 ---
 title: MaturityDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the maturity date for the CD only applies to CD accounts.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx/bankaccountinfo/maturitydate/

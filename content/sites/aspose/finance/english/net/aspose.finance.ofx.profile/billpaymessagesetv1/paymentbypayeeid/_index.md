@@ -1,7 +1,7 @@
 ---
 title: PaymentByPayeeId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether supports payments to payees identified by a serversupplied payee ID.
 type: docs
 weight: 130
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/paymentbypayeeid/

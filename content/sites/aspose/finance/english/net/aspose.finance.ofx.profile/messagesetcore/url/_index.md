@@ -1,7 +1,7 @@
 ---
 title: Url
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the URL where messages in this set are to be sent.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.profile/messagesetcore/url/

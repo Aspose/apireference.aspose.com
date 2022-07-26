@@ -1,7 +1,7 @@
 ---
 title: BillPaymentStatusCounts
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of BillPaymentStatusCountsaspose.finance.ofx.billerdelivery/billpaymentstatuscounts class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billerdelivery/billpaymentstatuscounts/billpaymentstatuscounts/

@@ -1,7 +1,7 @@
 ---
 title: ArcroleType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the arc role type.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/arcrolereference/arcroletype/

@@ -1,7 +1,7 @@
 ---
 title: Loc
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class is a Xlink./xlink with Locator type.
 type: docs
 weight: 7830
 url: /net/aspose.finance.xbrl/loc/

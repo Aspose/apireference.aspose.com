@@ -1,7 +1,7 @@
 ---
 title: PayeeModRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee modification request class.
 type: docs
 weight: 970
 url: /net/aspose.finance.ofx.billpay/payeemodrequest/

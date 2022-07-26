@@ -1,7 +1,7 @@
 ---
 title: AcquiredDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date acquired.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1099/proceeddescription_v100/acquireddate/

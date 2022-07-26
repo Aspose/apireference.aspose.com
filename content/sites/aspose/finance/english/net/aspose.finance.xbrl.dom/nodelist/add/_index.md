@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Adds the node to the end of list.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl.dom/nodelist/add/

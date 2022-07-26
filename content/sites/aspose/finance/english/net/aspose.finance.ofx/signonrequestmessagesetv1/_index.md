@@ -1,7 +1,7 @@
 ---
 title: SignonRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Signon request messages set version 1 class.
 type: docs
 weight: 5430
 url: /net/aspose.finance.ofx/signonrequestmessagesetv1/

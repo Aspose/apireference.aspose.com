@@ -1,7 +1,7 @@
 ---
 title: PayeeRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Payee addition request class.
 type: docs
 weight: 990
 url: /net/aspose.finance.ofx.billpay/payeerequest/

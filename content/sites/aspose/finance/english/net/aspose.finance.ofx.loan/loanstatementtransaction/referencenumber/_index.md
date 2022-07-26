@@ -1,7 +1,7 @@
 ---
 title: ReferenceNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the reference number that uniquely identifies the transaction.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.loan/loanstatementtransaction/referencenumber/

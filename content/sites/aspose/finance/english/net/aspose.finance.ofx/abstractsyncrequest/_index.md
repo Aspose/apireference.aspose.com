@@ -1,7 +1,7 @@
 ---
 title: AbstractSyncRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class of synchronization request related classes
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx/abstractsyncrequest/

@@ -1,7 +1,7 @@
 ---
 title: OpenOrderSellMutualFund
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Open order sell mutual fund class.
 type: docs
 weight: 3280
 url: /net/aspose.finance.ofx.investment/openordersellmutualfund/

@@ -1,7 +1,7 @@
 ---
 title: HalfTime
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether at least half-time student.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.tax1098/tax1098t_v100/halftime/

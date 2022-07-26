@@ -1,7 +1,7 @@
 ---
 title: WireDestinationBank
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of WireDestinationBankaspose.finance.ofx.wiretransfer/wiredestinationbank class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.wiretransfer/wiredestinationbank/wiredestinationbank/

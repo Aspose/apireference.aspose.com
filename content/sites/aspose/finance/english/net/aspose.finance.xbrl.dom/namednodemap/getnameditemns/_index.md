@@ -1,7 +1,7 @@
 ---
 title: GetNamedItemNS
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the attribute specified by local name and namespace URI.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl.dom/namednodemap/getnameditemns/

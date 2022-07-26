@@ -1,7 +1,7 @@
 ---
 title: Object
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the Contextaspose.finance.xbrl/context object which has validation error.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.validator/contextvalidationerror/object/

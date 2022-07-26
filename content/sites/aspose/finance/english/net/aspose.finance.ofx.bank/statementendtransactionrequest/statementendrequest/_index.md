@@ -1,7 +1,7 @@
 ---
 title: StatementEndRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the StatementEndRequestaspose.finance.ofx.bank/statementendtransactionrequest/statementendrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/statementendtransactionrequest/statementendrequest/

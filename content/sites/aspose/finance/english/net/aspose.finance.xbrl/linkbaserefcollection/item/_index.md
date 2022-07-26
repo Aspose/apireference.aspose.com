@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets LinkbaseRefaspose.finance.xbrl/linkbaseref item at the specified index in the collection.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/linkbaserefcollection/item/

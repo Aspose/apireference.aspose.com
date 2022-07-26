@@ -1,7 +1,7 @@
 ---
 title: Load
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the load on the transaction.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.investment/investmentbuy/load/

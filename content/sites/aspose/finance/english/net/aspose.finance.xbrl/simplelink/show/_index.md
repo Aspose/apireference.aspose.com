@@ -1,7 +1,7 @@
 ---
 title: Show
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the simple link show attribute.
 type: docs
 weight: 60
 url: /net/aspose.finance.xbrl/simplelink/show/

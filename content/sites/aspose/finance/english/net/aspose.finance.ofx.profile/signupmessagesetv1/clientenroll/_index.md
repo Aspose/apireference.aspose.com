@@ -1,7 +1,7 @@
 ---
 title: ClientEnroll
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ClientEnrollaspose.finance.ofx.profile/signupmessagesetv1/clientenroll.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.profile/signupmessagesetv1/clientenroll/

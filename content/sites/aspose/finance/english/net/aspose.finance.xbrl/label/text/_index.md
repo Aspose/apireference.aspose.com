@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the text of the label.
 type: docs
 weight: 10
 url: /net/aspose.finance.xbrl/label/text/

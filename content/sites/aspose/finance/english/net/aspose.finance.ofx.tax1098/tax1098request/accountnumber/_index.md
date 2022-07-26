@@ -1,7 +1,7 @@
 ---
 title: AccountNumber
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the account number of borrower if different from SSN.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.tax1098/tax1098request/accountnumber/

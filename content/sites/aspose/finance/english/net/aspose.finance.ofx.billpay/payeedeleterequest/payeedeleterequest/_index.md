@@ -1,7 +1,7 @@
 ---
 title: PayeeDeleteRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/payeedeleterequest/payeedeleterequest/

@@ -1,7 +1,7 @@
 ---
 title: TotalFees
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total of all fees.
 type: docs
 weight: 200
 url: /net/aspose.finance.ofx.bank/closing/totalfees/

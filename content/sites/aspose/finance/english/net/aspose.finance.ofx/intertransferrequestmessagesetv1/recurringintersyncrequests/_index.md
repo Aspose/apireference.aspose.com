@@ -1,7 +1,7 @@
 ---
 title: RecurringInterSyncRequests
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of RecurringInterSyncRequestaspose.finance.ofx.intertransfer/recurringintersyncrequest.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintersyncrequests/

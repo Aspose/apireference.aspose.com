@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the qualified name of the fact.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/fact/name/

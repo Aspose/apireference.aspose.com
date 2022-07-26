@@ -1,7 +1,7 @@
 ---
 title: ContextSenario
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The senario of the Context./context.
 type: docs
 weight: 6580
 url: /net/aspose.finance.xbrl/contextsenario/

@@ -1,7 +1,7 @@
 ---
 title: DocumentElement
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This is a convenience attribute that allows direct access to the child node that is the document element of the document.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl.dom/document/documentelement/

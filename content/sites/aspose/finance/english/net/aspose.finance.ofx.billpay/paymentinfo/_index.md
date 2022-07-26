@@ -1,7 +1,7 @@
 ---
 title: PaymentInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: The Payment Information class is used to specify detailed payment information. It is used for both single payments and recurring payments.
 type: docs
 weight: 1070
 url: /net/aspose.finance.ofx.billpay/paymentinfo/

@@ -1,7 +1,7 @@
 ---
 title: Rollover
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current value of all securities purchased with Rollover contributions.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.investment/investment401kbalance/rollover/

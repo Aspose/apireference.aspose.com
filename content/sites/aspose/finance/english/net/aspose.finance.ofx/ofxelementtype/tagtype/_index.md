@@ -1,7 +1,7 @@
 ---
 title: TagType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the any defined OFX type date amount etc. or standard format for defining an alpha or numeric field.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/ofxelementtype/tagtype/

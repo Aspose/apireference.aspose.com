@@ -1,7 +1,7 @@
 ---
 title: LoanTotalProjectInterest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total projected interest to be paid on this loan.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.investment/loaninfo/loantotalprojectinterest/

@@ -1,7 +1,7 @@
 ---
 title: Investment401kSource
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the source of money for this security in this position.
 type: docs
 weight: 60
 url: /net/aspose.finance.ofx.investment/investmentposition/investment401ksource/

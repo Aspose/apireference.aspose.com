@@ -1,7 +1,7 @@
 ---
 title: MatchInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the MatchInfoaspose.finance.ofx.investment/investment401k/matchinfo.
 type: docs
 weight: 110
 url: /net/aspose.finance.ofx.investment/investment401k/matchinfo/

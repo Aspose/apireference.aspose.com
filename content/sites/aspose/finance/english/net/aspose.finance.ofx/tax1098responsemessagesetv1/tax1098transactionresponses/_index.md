@@ -1,7 +1,7 @@
 ---
 title: Tax1098TransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of Tax1098TransactionResponseaspose.finance.ofx.tax1098/tax1098transactionresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/tax1098responsemessagesetv1/tax1098transactionresponses/

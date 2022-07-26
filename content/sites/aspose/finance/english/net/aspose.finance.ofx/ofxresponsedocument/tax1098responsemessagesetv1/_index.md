@@ -1,7 +1,7 @@
 ---
 title: Tax1098ResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Tax1098ResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/tax1098responsemessagesetv1.
 type: docs
 weight: 150
 url: /net/aspose.finance.ofx/ofxresponsedocument/tax1098responsemessagesetv1/

@@ -1,7 +1,7 @@
 ---
 title: Message
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the error message.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.validator/validationerror/message/

@@ -1,7 +1,7 @@
 ---
 title: ColumnDefinition
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Column definition class.
 type: docs
 weight: 1580
 url: /net/aspose.finance.ofx.billerdelivery/columndefinition/

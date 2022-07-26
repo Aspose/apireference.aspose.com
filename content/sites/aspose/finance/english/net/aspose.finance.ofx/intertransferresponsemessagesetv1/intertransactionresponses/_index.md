@@ -1,7 +1,7 @@
 ---
 title: InterTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of InterTransactionResponseaspose.finance.ofx.intertransfer/intertransactionresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/intertransferresponsemessagesetv1/intertransactionresponses/

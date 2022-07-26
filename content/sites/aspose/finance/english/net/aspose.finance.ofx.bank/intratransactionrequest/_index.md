@@ -1,7 +1,7 @@
 ---
 title: IntraTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Intrabank transfer transaction request class.
 type: docs
 weight: 510
 url: /net/aspose.finance.ofx.bank/intratransactionrequest/

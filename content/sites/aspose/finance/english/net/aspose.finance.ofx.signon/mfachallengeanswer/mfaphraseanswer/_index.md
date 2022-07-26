@@ -1,7 +1,7 @@
 ---
 title: MFAPhraseAnswer
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the users answer to the challenge question.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.signon/mfachallengeanswer/mfaphraseanswer/

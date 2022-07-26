@@ -1,7 +1,7 @@
 ---
 title: ImageProfile
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ImageProfileaspose.finance.ofx.profile/creditcardmessagesetv1/imageprofile.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/creditcardmessagesetv1/imageprofile/

@@ -1,7 +1,7 @@
 ---
 title: Items
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of Itemaspose.finance.xbrl/item objects in the XBRL instance.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl/xbrlinstance/items/

@@ -1,7 +1,7 @@
 ---
 title: BillerInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class includes information about a single biller.
 type: docs
 weight: 1850
 url: /net/aspose.finance.ofx.billerdirectory/billerinfo/

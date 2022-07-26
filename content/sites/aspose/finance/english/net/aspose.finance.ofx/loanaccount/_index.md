@@ -1,7 +1,7 @@
 ---
 title: LoanAccount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Open Financial Exchange uses the Loan Account to identify a loan account at a financial institution.The class contains enough information to uniquely identify an account for the purpose of statement download and funds transfer.
 type: docs
 weight: 4010
 url: /net/aspose.finance.ofx/loanaccount/

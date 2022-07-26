@@ -1,7 +1,7 @@
 ---
 title: SecurityListTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of SecurityListTransactionResponseaspose.finance.ofx.securitieslist/securitylisttransactionresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/securitylistresponsemessagesetv1/securitylisttransactionresponses/

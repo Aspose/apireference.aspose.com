@@ -1,7 +1,7 @@
 ---
 title: PresentmentNotifyTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Delivery notification transaction response class.
 type: docs
 weight: 1820
 url: /net/aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse/

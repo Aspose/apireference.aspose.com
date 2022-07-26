@@ -1,7 +1,7 @@
 ---
 title: Discount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Discountaspose.finance.ofx/invoice/discount.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/invoice/discount/

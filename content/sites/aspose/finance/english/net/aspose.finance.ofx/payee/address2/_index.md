@@ -1,7 +1,7 @@
 ---
 title: Address2
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the payees address line 2.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/payee/address2/

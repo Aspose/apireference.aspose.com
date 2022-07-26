@@ -1,7 +1,7 @@
 ---
 title: RecurringPaymentRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of RecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.billpay/recurringpaymentrequest/recurringpaymentrequest/

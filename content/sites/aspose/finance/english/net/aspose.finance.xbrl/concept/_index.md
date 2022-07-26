@@ -1,7 +1,7 @@
 ---
 title: Concept
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Concepts are defined in two equivalent ways. In a syntactic sense a concept is an XML Schema element definition defining the element to be in the item element substitution group or in the tuple element substitution group. At a semantic level a concept is a definition of a kind of fact that can be reported about the activities or nature of a business activity.
 type: docs
 weight: 6530
 url: /net/aspose.finance.xbrl/concept/

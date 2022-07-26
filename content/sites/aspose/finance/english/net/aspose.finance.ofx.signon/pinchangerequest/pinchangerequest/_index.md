@@ -1,7 +1,7 @@
 ---
 title: PinChangeRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of PinChangeRequestaspose.finance.ofx.signon/pinchangerequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.signon/pinchangerequest/pinchangerequest/

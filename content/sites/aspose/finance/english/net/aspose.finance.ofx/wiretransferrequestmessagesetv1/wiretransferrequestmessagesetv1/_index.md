@@ -1,7 +1,7 @@
 ---
 title: WireTransferRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of WireTransferRequestMessageSetV1aspose.finance.ofx/wiretransferrequestmessagesetv1 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransferrequestmessagesetv1/

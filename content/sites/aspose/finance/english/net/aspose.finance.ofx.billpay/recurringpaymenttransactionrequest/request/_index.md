@@ -1,7 +1,7 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the RecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest or RecurringPaymentModRequestaspose.finance.ofx.billpay/recurringpaymentmodrequest or RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/request/

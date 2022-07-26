@@ -1,7 +1,7 @@
 ---
 title: Restriction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the special restriction on the order.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.investment/generalopenorder/restriction/

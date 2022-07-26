@@ -1,7 +1,7 @@
 ---
 title: UpdateDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time of last change to any biller entry as reported by the server on previous query.
 type: docs
 weight: 140
 url: /net/aspose.finance.ofx.billerdirectory/findbillerrequest/updatedate/

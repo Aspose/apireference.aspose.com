@@ -1,7 +1,7 @@
 ---
 title: RewardBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current rewards balance as of the time of the download.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/rewardinfotype/rewardbalance/

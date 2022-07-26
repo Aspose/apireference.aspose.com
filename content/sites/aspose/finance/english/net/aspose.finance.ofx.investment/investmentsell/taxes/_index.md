@@ -1,7 +1,7 @@
 ---
 title: Taxes
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the taxes on the trade.
 type: docs
 weight: 160
 url: /net/aspose.finance.ofx.investment/investmentsell/taxes/

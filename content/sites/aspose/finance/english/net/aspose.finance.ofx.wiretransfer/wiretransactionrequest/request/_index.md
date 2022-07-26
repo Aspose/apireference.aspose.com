@@ -1,7 +1,7 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the WireRequestaspose.finance.ofx.wiretransfer/wirerequest or WireCancellationRequestaspose.finance.ofx.wiretransfer/wirecancellationrequest.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.wiretransfer/wiretransactionrequest/request/

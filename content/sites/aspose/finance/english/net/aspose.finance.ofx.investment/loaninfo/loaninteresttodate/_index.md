@@ -1,7 +1,7 @@
 ---
 title: LoanInterestToDate
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the total interested paid to date on this loan.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.investment/loaninfo/loaninteresttodate/

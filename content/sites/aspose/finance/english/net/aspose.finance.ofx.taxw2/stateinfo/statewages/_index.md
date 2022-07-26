@@ -1,7 +1,7 @@
 ---
 title: StateWages
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the state wages tips etc.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.taxw2/stateinfo/statewages/

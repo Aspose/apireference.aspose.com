@@ -1,7 +1,7 @@
 ---
 title: Relationships
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship in the inline XBRL document.
 type: docs
 weight: 80
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/relationships/

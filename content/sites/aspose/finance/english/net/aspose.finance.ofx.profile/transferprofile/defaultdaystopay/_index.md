@@ -1,7 +1,7 @@
 ---
 title: DefaultDaysToPay
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the default number of days to pay.
 type: docs
 weight: 100
 url: /net/aspose.finance.ofx.profile/transferprofile/defaultdaystopay/

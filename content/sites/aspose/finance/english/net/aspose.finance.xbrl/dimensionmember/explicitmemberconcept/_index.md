@@ -1,7 +1,7 @@
 ---
 title: ExplicitMemberConcept
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the member concept if its a explicit dimension member.
 type: docs
 weight: 30
 url: /net/aspose.finance.xbrl/dimensionmember/explicitmemberconcept/

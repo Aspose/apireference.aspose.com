@@ -1,7 +1,7 @@
 ---
 title: BankMailTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Bank mail transaction response class.
 type: docs
 weight: 360
 url: /net/aspose.finance.ofx.bank/bankmailtransactionresponse/

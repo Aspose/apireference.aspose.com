@@ -1,7 +1,7 @@
 ---
 title: Name2
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the employer name line 2.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.taxw2/employer/name2/

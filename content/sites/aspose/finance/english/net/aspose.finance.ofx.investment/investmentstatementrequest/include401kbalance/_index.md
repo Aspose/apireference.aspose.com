@@ -1,7 +1,7 @@
 ---
 title: Include401KBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether include 401k balance information in response.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.investment/investmentstatementrequest/include401kbalance/

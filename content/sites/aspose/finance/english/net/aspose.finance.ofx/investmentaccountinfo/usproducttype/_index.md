@@ -1,7 +1,7 @@
 ---
 title: UsProductType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the classification of account.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/investmentaccountinfo/usproducttype/

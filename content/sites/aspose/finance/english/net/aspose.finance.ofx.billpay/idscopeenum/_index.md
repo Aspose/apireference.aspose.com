@@ -1,7 +1,7 @@
 ---
 title: IdScopeEnum
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: payee ID scope type enum.
 type: docs
 weight: 940
 url: /net/aspose.finance.ofx.billpay/idscopeenum/

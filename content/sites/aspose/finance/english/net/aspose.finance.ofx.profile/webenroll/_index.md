@@ -1,7 +1,7 @@
 ---
 title: WebEnroll
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Web-based enrollment supported.
 type: docs
 weight: 4910
 url: /net/aspose.finance.ofx.profile/webenroll/

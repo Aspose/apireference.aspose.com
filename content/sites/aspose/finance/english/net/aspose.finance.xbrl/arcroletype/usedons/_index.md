@@ -1,7 +1,7 @@
 ---
 title: UsedOns
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of from used on reference in the ArcroleTypeaspose.finance.xbrl/arcroletype.
 type: docs
 weight: 40
 url: /net/aspose.finance.xbrl/arcroletype/usedons/

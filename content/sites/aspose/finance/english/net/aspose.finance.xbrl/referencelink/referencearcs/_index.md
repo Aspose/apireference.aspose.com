@@ -1,7 +1,7 @@
 ---
 title: ReferenceArcs
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the collection of ReferenceArcaspose.finance.xbrl/referencearc.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/referencelink/referencearcs/

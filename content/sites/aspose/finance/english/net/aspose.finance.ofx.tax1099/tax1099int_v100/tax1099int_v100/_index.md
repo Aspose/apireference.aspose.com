@@ -1,7 +1,7 @@
 ---
 title: Tax1099INT_V100
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of Tax1099INT_V100aspose.finance.ofx.tax1099/tax1099int_v100 class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.tax1099/tax1099int_v100/tax1099int_v100/

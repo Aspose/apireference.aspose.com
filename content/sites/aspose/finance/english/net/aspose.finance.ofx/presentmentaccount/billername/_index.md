@@ -1,7 +1,7 @@
 ---
 title: BillerName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the name of the biller.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/presentmentaccount/billername/

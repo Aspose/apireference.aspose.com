@@ -1,7 +1,7 @@
 ---
 title: InterTransferRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the InterTransferRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/intertransferrequestmessagesetv1.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx/ofxrequestdocument/intertransferrequestmessagesetv1/

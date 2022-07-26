@@ -1,7 +1,7 @@
 ---
 title: LocalName
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the local name of attribute.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.dom/attr/localname/

@@ -1,7 +1,7 @@
 ---
 title: InterestRatePurchases
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current interest rate for purchases in effect at time of download.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratepurchases/

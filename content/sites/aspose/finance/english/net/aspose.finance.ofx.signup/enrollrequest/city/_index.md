@@ -1,7 +1,7 @@
 ---
 title: City
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the city.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.signup/enrollrequest/city/

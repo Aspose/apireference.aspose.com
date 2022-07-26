@@ -1,7 +1,7 @@
 ---
 title: SellDebt
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of SellDebtaspose.finance.ofx.investment/selldebt class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/selldebt/selldebt/

@@ -1,7 +1,7 @@
 ---
 title: InvestmentMailTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of InvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailtransactionrequest/

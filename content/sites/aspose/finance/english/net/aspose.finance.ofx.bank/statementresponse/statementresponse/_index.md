@@ -1,7 +1,7 @@
 ---
 title: StatementResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of StatementResponseaspose.finance.ofx.bank/statementresponse class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.bank/statementresponse/statementresponse/

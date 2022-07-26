@@ -1,7 +1,7 @@
 ---
 title: Investment401kBalance
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the Investment401kBalanceaspose.finance.ofx.investment/investmentstatementresponse/investment401kbalance.
 type: docs
 weight: 50
 url: /net/aspose.finance.ofx.investment/investmentstatementresponse/investment401kbalance/

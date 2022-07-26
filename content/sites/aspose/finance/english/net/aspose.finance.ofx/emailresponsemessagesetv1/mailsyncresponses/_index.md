@@ -1,7 +1,7 @@
 ---
 title: MailSyncResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of MailSyncResponseaspose.finance.ofx.email/mailsyncresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/emailresponsemessagesetv1/mailsyncresponses/

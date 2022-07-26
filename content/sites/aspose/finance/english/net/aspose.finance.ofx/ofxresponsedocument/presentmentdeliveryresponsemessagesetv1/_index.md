@@ -1,7 +1,7 @@
 ---
 title: PresentmentDeliveryResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the PresentmentDeliveryResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/presentmentdeliveryresponsemessagesetv1.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx/ofxresponsedocument/presentmentdeliveryresponsemessagesetv1/

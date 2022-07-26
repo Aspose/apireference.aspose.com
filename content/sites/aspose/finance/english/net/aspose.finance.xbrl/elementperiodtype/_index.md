@@ -1,7 +1,7 @@
 ---
 title: ElementPeriodType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Concept./concept period type enum.
 type: docs
 weight: 7600
 url: /net/aspose.finance.xbrl/elementperiodtype/

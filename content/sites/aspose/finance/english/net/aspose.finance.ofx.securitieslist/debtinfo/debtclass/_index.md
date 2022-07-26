@@ -1,7 +1,7 @@
 ---
 title: DebtClass
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the classification of debt.
 type: docs
 weight: 80
 url: /net/aspose.finance.ofx.securitieslist/debtinfo/debtclass/

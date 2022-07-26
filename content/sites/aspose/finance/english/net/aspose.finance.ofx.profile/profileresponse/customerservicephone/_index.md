@@ -1,7 +1,7 @@
 ---
 title: CustomerServicePhone
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the customer service telephone number.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.profile/profileresponse/customerservicephone/

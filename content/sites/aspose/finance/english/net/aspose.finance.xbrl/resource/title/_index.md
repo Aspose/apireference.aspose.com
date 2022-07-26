@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the title of the resource.
 type: docs
 weight: 50
 url: /net/aspose.finance.xbrl/resource/title/

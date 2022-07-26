@@ -1,7 +1,7 @@
 ---
 title: Tax1099RequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Tax 1099 request messages set version 1 class.
 type: docs
 weight: 6090
 url: /net/aspose.finance.ofx/tax1099requestmessagesetv1/

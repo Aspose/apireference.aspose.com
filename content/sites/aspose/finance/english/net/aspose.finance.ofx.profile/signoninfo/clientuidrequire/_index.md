@@ -1,7 +1,7 @@
 ---
 title: ClientuidRequire
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets whether CLIENTUID is required.
 type: docs
 weight: 90
 url: /net/aspose.finance.ofx.profile/signoninfo/clientuidrequire/

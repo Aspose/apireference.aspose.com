@@ -1,7 +1,7 @@
 ---
 title: TaxYearSupporteds
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the years supported for W2 download for this server.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.profile/taxw2messagesetv1/taxyearsupporteds/

@@ -1,7 +1,7 @@
 ---
 title: Dir
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the base direction of directionally neutral text and the directionality of tables. See the dir attribute definition in HTML 4.01.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.dom.html/htmlelement/dir/

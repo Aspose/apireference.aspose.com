@@ -1,7 +1,7 @@
 ---
 title: DimensionConcept
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets the dimension concept.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl/dimensionmember/dimensionconcept/

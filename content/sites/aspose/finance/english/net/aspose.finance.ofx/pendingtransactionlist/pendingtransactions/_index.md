@@ -1,7 +1,7 @@
 ---
 title: PendingTransactions
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of PendingTransactionaspose.finance.ofx/pendingtransaction.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx/pendingtransactionlist/pendingtransactions/

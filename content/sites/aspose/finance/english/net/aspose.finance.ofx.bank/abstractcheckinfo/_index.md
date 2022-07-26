@@ -1,7 +1,7 @@
 ---
 title: AbstractCheckInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Abstract base class for all check information related classes.
 type: docs
 weight: 250
 url: /net/aspose.finance.ofx.bank/abstractcheckinfo/

@@ -1,7 +1,7 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the id of the InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation.
 type: docs
 weight: 20
 url: /net/aspose.finance.xbrl.inline/inlinecontinuation/id/

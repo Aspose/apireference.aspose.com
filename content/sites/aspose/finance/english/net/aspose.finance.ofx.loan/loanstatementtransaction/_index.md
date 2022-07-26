@@ -1,7 +1,7 @@
 ---
 title: LoanStatementTransaction
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: This class describes a single transaction. It identifies the type of the transaction and the date it was posted.The class can also provide additional information to help the customer recognize the transaction check number name memo and images.
 type: docs
 weight: 3960
 url: /net/aspose.finance.ofx.loan/loanstatementtransaction/

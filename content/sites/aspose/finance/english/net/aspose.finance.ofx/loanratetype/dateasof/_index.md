@@ -1,7 +1,7 @@
 ---
 title: DateAsOf
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the date and time of the current interest rate.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/loanratetype/dateasof/

@@ -1,7 +1,7 @@
 ---
 title: RateType
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the type of rate.
 type: docs
 weight: 40
 url: /net/aspose.finance.ofx/loanratetype/ratetype/

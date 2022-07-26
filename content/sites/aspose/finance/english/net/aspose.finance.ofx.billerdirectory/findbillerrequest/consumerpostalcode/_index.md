@@ -1,7 +1,7 @@
 ---
 title: ConsumerPostalCode
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the postal code of customer to allow server to filter out billers that do not do business in the customers area
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.billerdirectory/findbillerrequest/consumerpostalcode/

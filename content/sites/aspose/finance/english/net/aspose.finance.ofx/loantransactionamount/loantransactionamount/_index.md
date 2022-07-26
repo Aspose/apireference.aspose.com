@@ -1,7 +1,7 @@
 ---
 title: LoanTransactionAmount
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of LoanTransactionAmountaspose.finance.ofx/loantransactionamount class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx/loantransactionamount/loantransactionamount/

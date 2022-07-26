@@ -1,7 +1,7 @@
 ---
 title: TransferDefaultDaysToPay
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the default number of days to pay by transfer.
 type: docs
 weight: 200
 url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/transferdefaultdaystopay/

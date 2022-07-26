@@ -1,7 +1,7 @@
 ---
 title: ProfileTransactionResponses
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the collection of ProfileTransactionResponseaspose.finance.ofx.profile/profiletransactionresponse.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx/profileresponsemessagesetv1/profiletransactionresponses/

@@ -1,7 +1,7 @@
 ---
 title: OtherVest
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the current value of all securities purchased with Other vesting Employer contributions.
 type: docs
 weight: 70
 url: /net/aspose.finance.ofx.investment/investment401kbalance/othervest/

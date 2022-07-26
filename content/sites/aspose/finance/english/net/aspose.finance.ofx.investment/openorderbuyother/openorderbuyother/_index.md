@@ -1,7 +1,7 @@
 ---
 title: OpenOrderBuyOther
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Initializes a new instance of OpenOrderBuyOtheraspose.finance.ofx.investment/openorderbuyother class.
 type: docs
 weight: 10
 url: /net/aspose.finance.ofx.investment/openorderbuyother/openorderbuyother/

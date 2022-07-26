@@ -1,7 +1,7 @@
 ---
 title: IntraSyncResponse
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Intrabank transaction synchronization response class.
 type: docs
 weight: 500
 url: /net/aspose.finance.ofx.bank/intrasyncresponse/

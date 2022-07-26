@@ -1,7 +1,7 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the IntraResponseaspose.finance.ofx.bank/intraresponse or IntraModResponseaspose.finance.ofx.bank/intramodresponse or IntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.bank/intratransactionresponse/response/

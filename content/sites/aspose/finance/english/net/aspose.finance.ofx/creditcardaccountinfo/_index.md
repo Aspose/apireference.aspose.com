@@ -1,7 +1,7 @@
 ---
 title: CreditCardAccountInfo
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: OFX uses the credit card account information aggregate to download account information from an FI.
 type: docs
 weight: 2050
 url: /net/aspose.finance.ofx/creditcardaccountinfo/

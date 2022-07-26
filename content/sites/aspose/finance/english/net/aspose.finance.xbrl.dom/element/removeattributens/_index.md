@@ -1,7 +1,7 @@
 ---
 title: RemoveAttributeNS
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Removes an attribute by local name and namespace URI.
 type: docs
 weight: 140
 url: /net/aspose.finance.xbrl.dom/element/removeattributens/

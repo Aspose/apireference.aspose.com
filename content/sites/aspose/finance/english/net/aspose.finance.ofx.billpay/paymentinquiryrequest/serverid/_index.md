@@ -1,7 +1,7 @@
 ---
 title: ServerId
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the ID assigned by the server to the payment being queried.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.billpay/paymentinquiryrequest/serverid/

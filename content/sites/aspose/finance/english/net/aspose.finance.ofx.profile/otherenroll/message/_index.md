@@ -1,7 +1,7 @@
 ---
 title: Message
 second_title: Aspose.Finance for .NET API Reference
-description: 
+description: Gets or sets the message to consumer about what to do next.
 type: docs
 weight: 20
 url: /net/aspose.finance.ofx.profile/otherenroll/message/
