@@ -41,7 +41,7 @@ rewrite net/xps/aspose.xps/pdftextcompression https://reference.aspose.com/page/
 rewrite net/xps/aspose.xps/tiffsaveoptions https://reference.aspose.com/page/net/aspose.page.xps.presentation.image/tiffsaveoptions permanent;
 rewrite net/xps/aspose.xps/xpssaveoptions https://reference.aspose.com/page/net/aspose.page/saveoptions permanent;
 rewrite java/xps/com.aspose.xps/License https://reference.aspose.com/page/java/com.aspose.page/License permanent;
-rewrite java/xps(.*) https://reference.aspose.com/page/java$1 permanent;
+rewrite ^/java/xps(.*) https://reference.aspose.com/page/java$1 permanent;
 rewrite java/eps(.*) https://reference.aspose.com/page/java$1 permanent;
 rewrite net/eps/aspose.eps/buildversioninfo(.*) https://reference.aspose.com/page/net/aspose.page/buildversioninfo$1 permanent;
 rewrite net/xps/aspose.xps(.*) https://reference.aspose.com/page/net/aspose.page.xps$1 permanent;
