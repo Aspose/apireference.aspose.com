@@ -3,7 +3,7 @@ title: Orientation
 second_title: Aspose.OMR for .NET API Reference
 description: Control position of child elements. Currently support only horizontal.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/orientation/
 ---
 ## CheckBoxConfig.Orientation property

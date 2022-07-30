@@ -18,9 +18,10 @@ public enum AlignmentEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | `0` | Align element to the left |
-| Center | `1` | Align element at the center of it's parent |
-| Right | `2` | Align element at the right side |
+| undefined | `0` | Alignment is not set. Default value will be used. |
+| Left | `10` | Align element to the left |
+| Center | `20` | Align element at the center of it's parent |
+| Right | `30` | Align element at the right side |
 
 ### See Also
 

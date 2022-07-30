@@ -3,7 +3,7 @@ title: FontSize
 second_title: Aspose.OMR for .NET API Reference
 description: The size of the text font
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontsize/
 ---
 ## BubbleArrayConfig.FontSize property

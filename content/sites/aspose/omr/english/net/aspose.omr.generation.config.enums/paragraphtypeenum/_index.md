@@ -3,7 +3,7 @@ title: ParagraphTypeEnum
 second_title: Aspose.OMR for .NET API Reference
 description: Type of ParagraphConfig../aspose.omr.generation.config.elements.parents/paragraphconfig
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.omr.generation.config.enums/paragraphtypeenum/
 ---
 ## ParagraphTypeEnum enumeration
@@ -18,8 +18,9 @@ public enum ParagraphTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Normal | `0` | Paragraph without extra element |
-| Multiple | `1` | Paragraph with extra element e.g. image |
+| Normal | `0` | Paragraph align items vertically |
+| Multiple | `1` | Paragraph will try to wrap many [`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) around one [`ImageConfig`](../../aspose.omr.generation.config.elements/imageconfig) Duplicate of ImageWrap Used as legacy support |
+| ImageWrap | `2` | Paragraph will try to wrap many [`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) around one [`ImageConfig`](../../aspose.omr.generation.config.elements/imageconfig) |
 
 ### See Also
 

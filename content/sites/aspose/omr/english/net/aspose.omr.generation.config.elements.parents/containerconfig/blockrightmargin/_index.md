@@ -1,14 +1,14 @@
 ---
 title: BlockRightMargin
 second_title: Aspose.OMR for .NET API Reference
-description: Amount of pixels to be placed between Blocks.
+description: Amount of pixels to be placed between Blocks on the right side
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin/
 ---
 ## ContainerConfig.BlockRightMargin property
 
-Amount of pixels to be placed between Blocks.
+Amount of pixels to be placed between Blocks on the right side
 
 ```csharp
 public int BlockRightMargin { get; set; }

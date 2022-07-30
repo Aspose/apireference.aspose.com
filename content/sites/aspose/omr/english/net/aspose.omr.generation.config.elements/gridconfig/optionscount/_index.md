@@ -3,7 +3,7 @@ title: OptionsCount
 second_title: Aspose.OMR for .NET API Reference
 description: Amount of answer options in each choice box i.e. rows in top-down grid
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.omr.generation.config.elements/gridconfig/optionscount/
 ---
 ## GridConfig.OptionsCount property

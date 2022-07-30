@@ -3,7 +3,7 @@ title: ContainerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Container element.
 type: docs
-weight: 540
+weight: 560
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/
 ---
 ## ContainerConfig class
@@ -24,9 +24,9 @@ public class ContainerConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [BlockBottomMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin) { get; set; } | Amount of pixels to be placed between Blocks. |
-| [BlockRightMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin) { get; set; } | Amount of pixels to be placed between Blocks. |
-| [BlockTopPadding](../../aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding) { get; set; } | Amount of pixels to be placed between Blocks. |
+| [BlockBottomMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin) { get; set; } | Amount of pixels to be placed below Blocks. |
+| [BlockRightMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin) { get; set; } | Amount of pixels to be placed between Blocks on the right side |
+| [BlockTopPadding](../../aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding) { get; set; } | Amount of pixels to be placed after top border of Block. |
 | override [Children](../../aspose.omr.generation.config.elements.parents/containerconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
 | [ColumnsCount](../../aspose.omr.generation.config.elements.parents/containerconfig/columnscount) { get; set; } | Amount of columns inside of container. Divided on equal columns. Obsolete version of [`Proportions`](./proportions) |
 | [ContainerType](../../aspose.omr.generation.config.elements.parents/containerconfig/containertype) { get; set; } | Type of Container |

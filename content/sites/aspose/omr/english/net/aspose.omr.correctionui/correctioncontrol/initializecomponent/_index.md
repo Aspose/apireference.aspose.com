@@ -1,7 +1,7 @@
 ---
 title: InitializeComponent
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: InitializeComponent
 type: docs
 weight: 30
 url: /net/aspose.omr.correctionui/correctioncontrol/initializecomponent/

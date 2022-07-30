@@ -1,7 +1,7 @@
 ---
 title: ExportResults
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Export the recognition results for the image
 type: docs
 weight: 10
 url: /net/aspose.omr.correctionui/correctioncontrol/exportresults/

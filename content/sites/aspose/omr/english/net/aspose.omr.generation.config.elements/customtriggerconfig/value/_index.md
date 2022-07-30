@@ -3,7 +3,7 @@ title: Value
 second_title: Aspose.OMR for .NET API Reference
 description: Value of custom trigger. Use of this value depends on TriggerTypeaspose.omr.generation.config.elements/customtriggerconfig/triggertype
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.omr.generation.config.elements/customtriggerconfig/value/
 ---
 ## CustomTriggerConfig.Value property

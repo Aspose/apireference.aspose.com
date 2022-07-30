@@ -3,7 +3,7 @@ title: OmrEngine
 second_title: Aspose.OMR for .NET API Reference
 description: The OMR engine. Handles the creation of the template and image processing classes and GUI components.
 type: docs
-weight: 620
+weight: 650
 url: /net/aspose.omr.api/omrengine/
 ---
 ## OmrEngine class
@@ -34,6 +34,7 @@ public class OmrEngine
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection) | Creates a template (.omr) and template image based on MemoryStream |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Creates a template (.omr) and template image based on an array of the markup lines |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Creates a template (.omr) and template image based on Template object |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Creates the [`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) instance that allows working with OMR API using GUI. Takes [`TemplateProcessor`](../templateprocessor) as a parameter and only works with images created using specified template |
 | [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
 | [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
 

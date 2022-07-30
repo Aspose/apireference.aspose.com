@@ -3,7 +3,7 @@ title: VerticalMargin
 second_title: Aspose.OMR for .NET API Reference
 description: Vertical margin of answer sheet. Set in pixels.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/verticalmargin/
 ---
 ## AnswerSheetConfig.VerticalMargin property

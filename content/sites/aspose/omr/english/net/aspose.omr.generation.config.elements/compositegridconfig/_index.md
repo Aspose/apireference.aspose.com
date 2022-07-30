@@ -3,7 +3,7 @@ title: CompositeGridConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Grid element. Produce array of bubbles. Each filled bubble represent one symbol in composite value All marked symbols will be concatenated into single value
 type: docs
-weight: 320
+weight: 340
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/
 ---
 ## CompositeGridConfig class
@@ -24,6 +24,7 @@ public class CompositeGridConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
+| [BubbleType](../../aspose.omr.generation.config.elements/compositegridconfig/bubbletype) { get; set; } | The type of a bubble |
 | [Column](../../aspose.omr.generation.config.elements/compositegridconfig/column) { get; set; } | When element is drawn in multi-column parent - represent position. |
 | [ColumnsCount](../../aspose.omr.generation.config.elements/compositegridconfig/columnscount) { get; set; } | Amount of columns inside grid. Each column represent single symbol in result value Amount have to be equal to [`ExtraRow`](./extrarow) amount of columns |
 | [ExtraRow](../../aspose.omr.generation.config.elements/compositegridconfig/extrarow) { get; set; } | Column-specific values that will be placed on top of default ones - [`Values`](./values). Presented as two dimensional array. First - row. Second - column. Each string represent text inside bubble. if string is null no bubble will be placed. Amount of columns have to be equal to [`ColumnsCount`](./columnscount) |

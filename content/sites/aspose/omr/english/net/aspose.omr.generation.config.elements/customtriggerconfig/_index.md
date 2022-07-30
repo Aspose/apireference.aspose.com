@@ -3,7 +3,7 @@ title: CustomTriggerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Custom Bubble. Upon filling can change behaviorvalue of target elements
 type: docs
-weight: 340
+weight: 360
 url: /net/aspose.omr.generation.config.elements/customtriggerconfig/
 ---
 ## CustomTriggerConfig class
@@ -24,6 +24,7 @@ public class CustomTriggerConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
+| [BubbleType](../../aspose.omr.generation.config.elements/customtriggerconfig/bubbletype) { get; set; } | The type of a bubble |
 | override [Name](../../aspose.omr.generation.config.elements/customtriggerconfig/name) { get; set; } | Name of trigger. |
 | [Target](../../aspose.omr.generation.config.elements/customtriggerconfig/target) { get; set; } | Name of target element. Behavior depends on [`TriggerType`](./triggertype) |
 | [TriggerType](../../aspose.omr.generation.config.elements/customtriggerconfig/triggertype) { get; set; } | Type of trigger. Describe trigger behavior |

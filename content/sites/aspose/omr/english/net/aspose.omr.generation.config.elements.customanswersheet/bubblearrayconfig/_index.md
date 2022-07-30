@@ -3,7 +3,7 @@ title: BubbleArrayConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Display possible answers as options each inside circlebubble. Can only be used inside CustomRowConfig./customrowconfig
 type: docs
-weight: 580
+weight: 600
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/
 ---
 ## BubbleArrayConfig class
@@ -26,6 +26,7 @@ public class BubbleArrayConfig : BaseConfig
 | --- | --- |
 | [AnswersValues](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues) { get; set; } | Each value represent symbol inside of bubble. Must have same count as !:AnswersCount Example: new string[] {"A", "B", "C", "D"} Example: new string[] {"1", "2", "3", "4"} |
 | [BubbleSize](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/bubblesize) { get; set; } | The size of a bubble |
+| [BubbleType](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/bubbletype) { get; set; } | The type of a bubble |
 | [FontFamily](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontsize) { get; set; } | The size of the text font |
 | [FontStyle](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontstyle) { get; set; } | The style of the text |
