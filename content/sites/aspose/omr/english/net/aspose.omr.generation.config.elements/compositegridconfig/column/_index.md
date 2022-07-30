@@ -3,7 +3,7 @@ title: Column
 second_title: Aspose.OMR for .NET API Reference
 description: When element is drawn in multi-column parent - represent position.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/column/
 ---
 ## CompositeGridConfig.Column property

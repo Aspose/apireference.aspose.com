@@ -3,7 +3,7 @@ title: BubbleType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of bubble.
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.omr.generation.config.enums/bubbletype/
 ---
 ## BubbleType enumeration

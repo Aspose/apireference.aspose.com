@@ -3,7 +3,7 @@ title: Aspose.OMR.Generation.Config.Enums
 second_title: Aspose.OMR for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.omr.generation.config.enums/
 ---
 
@@ -13,6 +13,7 @@ url: /net/aspose.omr.generation.config.enums/
 | Enumeration | Description |
 | --- | --- |
 | [AlignmentEnum](./alignmentenum) | Type of horizontal alignment relative to it's parent. Used in many elements. |
+| [BarcodeType](./barcodetype) | Type of Barcode used in [`BarcodeConfig`](../aspose.omr.generation.config.elements/barcodeconfig) |
 | [BorderType](./bordertype) | The Border type |
 | [BubbleType](./bubbletype) | Type of bubble. |
 | [ConfigType](./configtype) | Type of Omr Element |
@@ -20,6 +21,7 @@ url: /net/aspose.omr.generation.config.enums/
 | [ContentType](./contenttype) | Type of content display |
 | [GridHeaderTypeEnum](./gridheadertypeenum) | The type of grid header |
 | [ParagraphTypeEnum](./paragraphtypeenum) | Type of [`ParagraphConfig`](../aspose.omr.generation.config.elements.parents/paragraphconfig) |
+| [QRVersion](./qrversion) | Type of QR that will be used for [`BarcodeConfig`](../aspose.omr.generation.config.elements/barcodeconfig) Responsible for maximum amount of bytes encoded by QR. If unsure - use Auto. Library will select appropriate size automatically |
 | [ScoreDisplay](./scoredisplay) | Control displaying of score value. |
 | [ScoreGroupType](./scoregrouptype) | Type of score Group. Impacts drawing of score group element |
 | [ScoreHeaderType](./scoreheadertype) | Type of score header. |

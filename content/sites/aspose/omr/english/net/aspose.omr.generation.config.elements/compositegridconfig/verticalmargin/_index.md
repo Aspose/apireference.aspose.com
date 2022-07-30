@@ -3,7 +3,7 @@ title: VerticalMargin
 second_title: Aspose.OMR for .NET API Reference
 description: The margin between lines
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/verticalmargin/
 ---
 ## CompositeGridConfig.VerticalMargin field

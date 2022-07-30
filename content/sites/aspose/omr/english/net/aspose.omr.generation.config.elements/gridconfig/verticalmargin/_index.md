@@ -3,15 +3,15 @@ title: VerticalMargin
 second_title: Aspose.OMR for .NET API Reference
 description: The margin between lines
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.omr.generation.config.elements/gridconfig/verticalmargin/
 ---
-## GridConfig.VerticalMargin field
+## GridConfig.VerticalMargin property
 
 The margin between lines
 
 ```csharp
-public int VerticalMargin;
+public int VerticalMargin { get; set; }
 ```
 
 ### See Also

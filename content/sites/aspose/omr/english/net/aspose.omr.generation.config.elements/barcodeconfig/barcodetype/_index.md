@@ -11,11 +11,12 @@ url: /net/aspose.omr.generation.config.elements/barcodeconfig/barcodetype/
 The type of barcode element
 
 ```csharp
-public BaseEncodeType BarcodeType { get; set; }
+public BarcodeType BarcodeType { get; set; }
 ```
 
 ### See Also
 
+* enum [BarcodeType](../../../aspose.omr.generation.config.enums/barcodetype)
 * class [BarcodeConfig](../../barcodeconfig)
 * namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
 * assembly [Aspose.OMR](../../../)

@@ -13,6 +13,7 @@ is_root: true
 | --- | --- |
 | [Aspose.OMR](./aspose.omr) | The **Aspose.OMR** contains licensing methods. |
 | [Aspose.OMR.Api](./aspose.omr.api) | The **Aspose.OMR.Api** contains main OMR methods for template generation and images recognition. |
+| [Aspose.OMR.CorrectionUI](./aspose.omr.correctionui) |  |
 | [Aspose.OMR.Generation](./aspose.omr.generation) | The **Aspose.OMR.Generation** contains template generation result. |
 | [Aspose.OMR.Generation.Config](./aspose.omr.generation.config) |  |
 | [Aspose.OMR.Generation.Config.Elements](./aspose.omr.generation.config.elements) |  |

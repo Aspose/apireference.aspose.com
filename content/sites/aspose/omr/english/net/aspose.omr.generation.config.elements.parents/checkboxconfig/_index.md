@@ -3,7 +3,7 @@ title: CheckBoxConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents CheckBox element.
 type: docs
-weight: 530
+weight: 550
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/
 ---
 ## CheckBoxConfig class
@@ -25,6 +25,7 @@ public class CheckBoxConfig : ParentConfig
 | Name | Description |
 | --- | --- |
 | [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize) { get; set; } | Size of rectangle for each option(children) |
+| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype) { get; set; } | The type of a bubble |
 | override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
 | [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize) { get; set; } | The size of the text font |

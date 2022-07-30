@@ -3,7 +3,7 @@ title: AnswerSheetConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents AnswerSheet element. It allows adding choice boxes grouped in columns and rows. Use the answer sheet if you want to fit a lot of questions on a page since they are located close to each other.
 type: docs
-weight: 290
+weight: 310
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/
 ---
 ## AnswerSheetConfig class
@@ -26,6 +26,7 @@ public class AnswerSheetConfig : BaseConfig
 | --- | --- |
 | [AnswersCount](../../aspose.omr.generation.config.elements/answersheetconfig/answerscount) { get; set; } | The number of answer options for each question in the answer sheet. |
 | [AnswersValues](../../aspose.omr.generation.config.elements/answersheetconfig/answersvalues) { get; set; } | Each value represent symbol inside of bubble. Must have same count as [`AnswersCount`](./answerscount) Example: new string[] {"A", "B", "C", "D"} Example: new string[] {"1", "2", "3", "4"} |
+| [BubbleType](../../aspose.omr.generation.config.elements/answersheetconfig/bubbletype) { get; set; } | The type of a bubble |
 | [Column](../../aspose.omr.generation.config.elements/answersheetconfig/column) { get; set; } | Indicates in which column to draw sheet |
 | [ColumnsCount](../../aspose.omr.generation.config.elements/answersheetconfig/columnscount) { get; set; } | Sets the number of columns to be drawn. |
 | [ElementsCount](../../aspose.omr.generation.config.elements/answersheetconfig/elementscount) { get; set; } | Determines the total number of questions in the answer sheet. |

@@ -3,7 +3,7 @@ title: Name
 second_title: Aspose.OMR for .NET API Reference
 description: name of Check box. by default displayed before first check box. Can be hidden by HideNameaspose.omr.generation.config.elements.parents/checkboxconfig/hidename
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/name/
 ---
 ## CheckBoxConfig.Name property

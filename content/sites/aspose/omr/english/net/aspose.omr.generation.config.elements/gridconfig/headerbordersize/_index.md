@@ -3,7 +3,7 @@ title: HeaderBorderSize
 second_title: Aspose.OMR for .NET API Reference
 description: Square border size
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.omr.generation.config.elements/gridconfig/headerbordersize/
 ---
 ## GridConfig.HeaderBorderSize property

@@ -1,7 +1,7 @@
 ---
 title: RecognizeImage
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Recognize image
 type: docs
 weight: 50
 url: /net/aspose.omr.correctionui/correctioncontrol/recognizeimage/

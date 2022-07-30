@@ -1,14 +1,14 @@
 ---
 title: BlockBottomMargin
 second_title: Aspose.OMR for .NET API Reference
-description: Amount of pixels to be placed between Blocks.
+description: Amount of pixels to be placed below Blocks.
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin/
 ---
 ## ContainerConfig.BlockBottomMargin property
 
-Amount of pixels to be placed between Blocks.
+Amount of pixels to be placed below Blocks.
 
 ```csharp
 public int BlockBottomMargin { get; set; }

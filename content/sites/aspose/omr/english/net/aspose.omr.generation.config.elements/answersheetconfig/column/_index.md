@@ -3,7 +3,7 @@ title: Column
 second_title: Aspose.OMR for .NET API Reference
 description: Indicates in which column to draw sheet
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/column/
 ---
 ## AnswerSheetConfig.Column property

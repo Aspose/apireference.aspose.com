@@ -3,7 +3,7 @@ title: ColumnsCount
 second_title: Aspose.OMR for .NET API Reference
 description: Amount of columns inside grid. Each column represent single symbol in result value Amount have to be equal to ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow amount of columns
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/columnscount/
 ---
 ## CompositeGridConfig.ColumnsCount property

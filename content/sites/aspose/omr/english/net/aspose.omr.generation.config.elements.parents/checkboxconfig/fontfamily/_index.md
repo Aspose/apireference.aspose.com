@@ -3,7 +3,7 @@ title: FontFamily
 second_title: Aspose.OMR for .NET API Reference
 description: The font family of the text
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily/
 ---
 ## CheckBoxConfig.FontFamily property

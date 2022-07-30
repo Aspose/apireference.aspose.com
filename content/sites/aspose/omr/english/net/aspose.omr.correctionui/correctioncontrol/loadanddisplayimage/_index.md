@@ -1,7 +1,7 @@
 ---
 title: LoadAndDisplayImage
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Load and display the image for the recognition
 type: docs
 weight: 40
 url: /net/aspose.omr.correctionui/correctioncontrol/loadanddisplayimage/

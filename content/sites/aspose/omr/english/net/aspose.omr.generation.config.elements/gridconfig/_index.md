@@ -3,7 +3,7 @@ title: GridConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represent table of bubbles. Question identifier and multiple answers to choose Line of answers can be horizontal or vertical
 type: docs
-weight: 360
+weight: 380
 url: /net/aspose.omr.generation.config.elements/gridconfig/
 ---
 ## GridConfig class
@@ -24,6 +24,8 @@ public class GridConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
+| [BubbleSize](../../aspose.omr.generation.config.elements/gridconfig/bubblesize) { get; set; } | The size of a bubble |
+| [BubbleType](../../aspose.omr.generation.config.elements/gridconfig/bubbletype) { get; set; } | The type of a bubble |
 | [Column](../../aspose.omr.generation.config.elements/gridconfig/column) { get; set; } | When element is drawn in multi-column parent - represent position. |
 | [GridAlignment](../../aspose.omr.generation.config.elements/gridconfig/gridalignment) { get; set; } | Grid alignment, indicates where grid should be drawn on page |
 | [GridOrientation](../../aspose.omr.generation.config.elements/gridconfig/gridorientation) { get; set; } | Grid orientation: horizontal or vertical. Indicates how child elements should be positioned |
@@ -34,15 +36,9 @@ public class GridConfig : BaseConfig
 | [OptionsCount](../../aspose.omr.generation.config.elements/gridconfig/optionscount) { get; set; } | Amount of answer options in each choice box, i.e. rows in top-down grid |
 | [SectionsCount](../../aspose.omr.generation.config.elements/gridconfig/sectionscount) { get; set; } | Amount of choice boxes inside grid, i.e. columns in top-down grid |
 | override [Type](../../aspose.omr.generation.config.elements/gridconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/gridconfig/verticalmargin) { get; set; } | The margin between lines |
 | [XPosition](../../aspose.omr.generation.config.elements/gridconfig/xposition) { get; set; } | Grid X position on page, overrides the alignment |
 | [YPosition](../../aspose.omr.generation.config.elements/gridconfig/yposition) { get; set; } | Grid Y position on page, overrides the alignment |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements/gridconfig/bubblesize) | The size of a bubble |
-| [VerticalMargin](../../aspose.omr.generation.config.elements/gridconfig/verticalmargin) | The margin between lines |
 
 ### See Also
 

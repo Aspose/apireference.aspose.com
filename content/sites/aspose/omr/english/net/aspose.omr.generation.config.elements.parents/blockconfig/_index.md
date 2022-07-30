@@ -3,7 +3,7 @@ title: BlockConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Block element.
 type: docs
-weight: 520
+weight: 540
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/
 ---
 ## BlockConfig class
