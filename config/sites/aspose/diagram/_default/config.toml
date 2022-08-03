@@ -52,7 +52,7 @@ defaultContentLang = 'en'
     flag = "flag-cn"
     weight = 12
   [languages.es]
-    contentDir = 'content/sites/aspose/imaging/spanish'
+    contentDir = 'content/sites/aspose/diagram/spanish'
     languageName = "Español"
     languageCode = "es"
     flag = "flag-es"
