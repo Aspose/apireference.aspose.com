@@ -17,6 +17,7 @@ Create, edit, convert or print Word documents in your application. Includes 7 in
 {{< blocks/product-item title=".NET" href="/words/net/" class="btn-net"  >}}
 {{< blocks/product-item title="JAVA" href="/words/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/words/cpp/" class="btn-c" >}}
+{{< blocks/product-item title="Python" href="/words/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
