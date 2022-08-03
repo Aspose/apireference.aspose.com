@@ -3,7 +3,7 @@ title: UShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1640
+weight: 1650
 url: /net/aspose.threed.profiles/ushape/
 ---
 ## UShape class

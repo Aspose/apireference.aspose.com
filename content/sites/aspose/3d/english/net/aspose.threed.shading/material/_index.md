@@ -3,7 +3,7 @@ title: Material
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2280
+weight: 2290
 url: /net/aspose.threed.shading/material/
 ---
 ## Material class

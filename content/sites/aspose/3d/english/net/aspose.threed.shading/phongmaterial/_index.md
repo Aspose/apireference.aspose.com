@@ -3,7 +3,7 @@ title: PhongMaterial
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2310
+weight: 2320
 url: /net/aspose.threed.shading/phongmaterial/
 ---
 ## PhongMaterial class

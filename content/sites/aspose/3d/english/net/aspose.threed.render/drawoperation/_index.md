@@ -3,7 +3,7 @@ title: DrawOperation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1750
+weight: 1760
 url: /net/aspose.threed.render/drawoperation/
 ---
 ## DrawOperation enumeration

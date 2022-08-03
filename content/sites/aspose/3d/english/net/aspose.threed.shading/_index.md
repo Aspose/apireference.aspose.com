@@ -27,8 +27,6 @@ All shading related classes are defined in this namespace.
 | Enumeration | Description |
 | --- | --- |
 | [AlphaSource](./alphasource) | Defines whether the texture contains the alpha channel. |
-| [RenderingAPI](./renderingapi) | Commonly used rendering APIs |
-| [ShadingLanguage](./shadinglanguage) | Commonly used shading languages |
 | [TextureFilter](./texturefilter) | Filter options during texture sampling. |
 | [WrapMode](./wrapmode) | Texture's wrap mode. |
 

@@ -3,7 +3,7 @@ title: Node
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1460
+weight: 1470
 url: /net/aspose.threed/node/
 ---
 ## Node class

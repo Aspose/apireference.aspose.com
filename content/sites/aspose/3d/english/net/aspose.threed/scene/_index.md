@@ -3,7 +3,7 @@ title: Scene
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2240
+weight: 2250
 url: /net/aspose.threed/scene/
 ---
 ## Scene class

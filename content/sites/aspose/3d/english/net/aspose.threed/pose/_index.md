@@ -3,7 +3,7 @@ title: Pose
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1480
+weight: 1490
 url: /net/aspose.threed/pose/
 ---
 ## Pose class
