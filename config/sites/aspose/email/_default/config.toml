@@ -51,13 +51,6 @@ defaultContentLang = 'en'
     languageCode = "zh"
     flag = "flag-cn"
     weight = 12
-  [languages.es]
-    contentDir = 'content/sites/aspose/email/spanish'
-    languageName = "Español"
-    languageCode = "es"
-    flag = "flag-es"
-    weight = 13
-  
     
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
