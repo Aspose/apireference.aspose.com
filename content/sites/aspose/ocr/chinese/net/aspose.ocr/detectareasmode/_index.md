@@ -18,14 +18,15 @@ public enum DetectAreasMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| NONE | `0` | 不检测段落。 更适合没有图片的简单单列文档。 |
+| NONE | `0` | 不检测段落。 更适合没有图片的简单单栏文档。 |
 | DOCUMENT | `1` | 检测段落对文档使用 NN 模型。 更适合多列文档、带有图片或其他非文本对象的文档。 |
 | PHOTO | `2` | 检测段落对照片使用 NN 模型。 更适合包含大量图片和其他非文本对象的图像。 |
 | COMBINE | `3` | 检测带有文本的段落，然后使用其他 NN 模型检测段落内部的区域。 更适合结构复杂的图像。 |
+| TABLE | `4` | 检测带有文本的单元格。 具有表格结构的图像的首选模式。 |
 
 ### 评论
 
-在[`RecognitionSettings`](../recognitionsettings)中使用来指定您要识别哪种类型的图像。
+用于[`RecognitionSettings`](../recognitionsettings)指定要识别的图像类型。
 
 ### 也可以看看
 

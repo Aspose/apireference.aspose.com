@@ -16,7 +16,7 @@ public string RecognizeImage(string fullPath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fullPath | String | Путь к образу. |
+| fullPath | String | Путь к изображению. |
 
 ### Возвращаемое значение
 
@@ -44,16 +44,16 @@ public RecognitionResult RecognizeImage(string fullPath, RecognitionSettings set
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fullPath | String | Путь к образу. |
+| fullPath | String | Путь к изображению. |
 | settings | RecognitionSettings | Настройки распознавания. |
 
 ### Возвращаемое значение
 
-Объект[`RecognitionResult`](../../recognitionresult)с результатами распознавания изображений.
+[`RecognitionResult`](../../recognitionresult)объект с результатами распознавания изображений.
 
 ### Примечания
 
-Распознает изображение с возможностью указания[`RecognitionSettings`](../../recognitionsettings). Поддерживает GIF, PNG, JPEG, BMP, TIFF.
+Распознает изображение с возможностью указать[`RecognitionSettings`](../../recognitionsettings) . Поддерживает GIF, PNG, JPEG, BMP, TIFF.
 
 ### Смотрите также
 
@@ -83,7 +83,7 @@ public string RecognizeImage(MemoryStream stream)
 
 ### Примечания
 
-Использует автоматическую коррекцию перекоса изображения и обнаружение текстовых областей. Поддержка GIF, PNG, JPEG, BMP, TIFF.
+Использует автоматическую коррекцию перекоса изображения и обнаружение текстовых областей. Поддерживает GIF, PNG, JPEG, BMP, TIFF.
 
 ### Смотрите также
 
@@ -95,7 +95,7 @@ public string RecognizeImage(MemoryStream stream)
 
 ## RecognizeImage(MemoryStream, RecognitionSettings) {#recognizeimage}
 
-Распознает текст на изображении.  Распознает изображение с возможностью указания[`RecognitionSettings`](../../recognitionsettings). Поддерживает GIF, PNG, JPEG, BMP, TIFF.
+Распознает текст на изображении.  Распознает изображение с возможностью указать[`RecognitionSettings`](../../recognitionsettings) . Поддерживает GIF, PNG, JPEG, BMP, TIFF.
 
 ```csharp
 public RecognitionResult RecognizeImage(MemoryStream stream, RecognitionSettings settings)
@@ -108,7 +108,7 @@ public RecognitionResult RecognizeImage(MemoryStream stream, RecognitionSettings
 
 ### Возвращаемое значение
 
-Объект[`RecognitionResult`](../../recognitionresult)с результатами распознавания изображений.
+[`RecognitionResult`](../../recognitionresult)объект с результатами распознавания изображений.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Binarize
 second_title: Aspose.OCR for .NET API 参考
-description: 将图像转换为黑白图像 二进制图像是像素只有两个可能的强度值的图像 它们通常显示为黑白在数值上这两个值通常是黑色的 0 和白色的 255 二进制图像是通过对图像进行自动阈值处理产生的
+description: 将图像转换为黑白图像 二进制图像是其像素只有两个可能的强度值的图像 它们通常显示为黑白在数值上这两个值通常是黑色的 0白色的 255 二进制图像是通过对图像进行自动阈值处理产生的
 type: docs
-weight: 20
+weight: 40
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/binarize/
 ---
 ## PreprocessingFilter.Binarize method
 
-将图像转换为黑白图像。 二进制图像是像素只有两个可能的强度值的图像。 它们通常显示为黑白。在数值上，这两个值通常是黑色的 0 和白色的 255。 二进制图像是通过对图像进行自动阈值处理产生的。
+将图像转换为黑白图像。 二进制图像是其像素只有两个可能的强度值的图像。 它们通常显示为黑白。在数值上，这两个值通常是黑色的 0，白色的 255。 二进制图像是通过对图像进行自动阈值处理产生的。
 
 ```csharp
 public static PreprocessingFilter Binarize()

@@ -20,7 +20,7 @@ public string RecognizeImageFast(string fullPath)
 
 ### 返回值
 
-已识别文本。
+识别的文本。
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public string RecognizeImageFast(MemoryStream stream)
 
 ### 返回值
 
-已识别文本。
+识别的文本。
 
 ### 也可以看看
 

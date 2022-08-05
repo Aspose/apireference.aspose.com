@@ -3,7 +3,7 @@ title: GetEnumerator
 second_title: Aspose.OCR for .NET API 参考
 description: 用于 IEnumarable 接口实现
 type: docs
-weight: 130
+weight: 150
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/getenumerator/
 ---
 ## PreprocessingFilter.GetEnumerator method

@@ -1,14 +1,14 @@
 ---
 title: RecognitionSettings
 second_title: Aspose.OCR for .NET API 参考
-description: 使用完整的属性集初始化RecognitionSettingsaspose.ocr/recognitionsettings类的新实例
+description: 初始化RecognitionSettingsaspose.ocr/recognitionsettings具有全套属性的类
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr/recognitionsettings/recognitionsettings/
 ---
 ## RecognitionSettings constructor
 
-使用完整的属性集初始化[`RecognitionSettings`](../../recognitionsettings)类的新实例。
+初始化[`RecognitionSettings`](../../recognitionsettings)具有全套属性的类。
 
 ```csharp
 public RecognitionSettings(Language language = Language.None, 

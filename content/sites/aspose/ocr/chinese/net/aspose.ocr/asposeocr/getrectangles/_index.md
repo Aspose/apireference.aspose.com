@@ -1,14 +1,14 @@
 ---
 title: GetRectangles
 second_title: Aspose.OCR for .NET API 参考
-description: 检测图像上的文本区域  不应用自动图像歪斜校正 支持 GIFPNGJPEGBMPTIFF
+description: 检测图像上的文本区域  不应用自动图像倾斜校正 支持 GIFPNGJPEGBMPTIFF
 type: docs
 weight: 50
 url: /zh/net/aspose.ocr/asposeocr/getrectangles/
 ---
 ## GetRectangles(string, AreasType, bool) {#getrectangles_1}
 
-检测图像上的文本区域。  不应用自动图像歪斜校正。 支持 GIF、PNG、JPEG、BMP、TIFF。
+检测图像上的文本区域。  不应用自动图像倾斜校正。 支持 GIF、PNG、JPEG、BMP、TIFF。
 
 ```csharp
 public List<Rectangle> GetRectangles(string fullPath, AreasType areasType = AreasType.PARAGRAPHS, 
@@ -36,7 +36,7 @@ public List<Rectangle> GetRectangles(string fullPath, AreasType areasType = Area
 
 ## GetRectangles(MemoryStream, AreasType, bool) {#getrectangles}
 
-检测图像上的文本区域。  不应用自动图像歪斜校正。 支持 GIF、PNG、JPEG、BMP、TIFF。
+检测图像上的文本区域。  不应用自动图像倾斜校正。 支持 GIF、PNG、JPEG、BMP、TIFF。
 
 ```csharp
 public List<Rectangle> GetRectangles(MemoryStream image, 

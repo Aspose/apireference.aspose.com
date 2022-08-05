@@ -1,14 +1,14 @@
 ---
 title: ThresholdValue
 second_title: Aspose.OCR for .NET API 参考
-description: 获取或设置图像二值化的自定义阈值 范围从 1 到 255
+description: 获取或设置图像二值化的自定义阈值 范围从1到255
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.ocr/recognitionsettings/thresholdvalue/
 ---
 ## RecognitionSettings.ThresholdValue property
 
-获取或设置图像二值化的自定义阈值。 范围从 1 到 255。
+获取或设置图像二值化的自定义阈值。 范围从1到255。
 
 ```csharp
 public int ThresholdValue { set; }

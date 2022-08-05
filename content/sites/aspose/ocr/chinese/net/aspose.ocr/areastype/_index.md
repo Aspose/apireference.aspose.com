@@ -19,12 +19,12 @@ public enum AreasType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | PARAGRAPHS | `1` | 将区域设置为段落 |
-| LINES | `2` | 将区域设置为行 |
+| LINES | `2` | 将区域设置为线 |
 | WORDS | `3` | 将区域设置为单词 |
 
 ### 评论
 
-用于[`GetRectangles`](../asposeocr/getrectangles)表示将获得哪个结果——段落坐标或行坐标。
+用于[`GetRectangles`](../asposeocr/getrectangles)指示将获得哪个结果 - 段落坐标或行坐标。
 
 ### 也可以看看
 

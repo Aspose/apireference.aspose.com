@@ -1,14 +1,14 @@
 ---
 title: RecognitionAreas
 second_title: Справочник по Aspose.OCR для .NET API
-description: Получает или задает список текстовых областей для обработки.  Позволяет вручную указывать области с текстом для более точного распознавания. Если установлены пользовательские областиDetectAreasaspose.ocr/recognitionsettings/detectareasиAutoSkewaspose.ocr/recognitionsettings/autoskewсвойства будут игнорируется.  Отключает DetectAreas и AutoSkew.
+description: Получает или задает список текстовых областей для обработки.  Позволяет вручную указать области с текстом для более точного распознавания. Если заданы пользовательские областиDetectAreasaspose.ocr/recognitionsettings/detectareas а такжеAutoSkewaspose.ocr/recognitionsettings/autoskew свойства будут игнорироваться.  Отключает DetectAreas и AutoSkew.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.ocr/recognitionsettings/recognitionareas/
 ---
 ## RecognitionSettings.RecognitionAreas property
 
-Получает или задает список текстовых областей для обработки.  Позволяет вручную указывать области с текстом для более точного распознавания. Если установлены пользовательские области[`DetectAreas`](../detectareas)и[`AutoSkew`](../autoskew)свойства будут игнорируется.  Отключает DetectAreas и AutoSkew.
+Получает или задает список текстовых областей для обработки.  Позволяет вручную указать области с текстом для более точного распознавания. Если заданы пользовательские области[`DetectAreas`](../detectareas) а также[`AutoSkew`](../autoskew) свойства будут игнорироваться.  Отключает DetectAreas и AutoSkew.
 
 ```csharp
 public List<Rectangle> RecognitionAreas { set; }

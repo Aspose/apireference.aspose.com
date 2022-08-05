@@ -1,14 +1,14 @@
 ---
 title: RecognizePdf
 second_title: Справочник по Aspose.OCR для .NET API
-description: Распознавать текст из отсканированного pdf извлекать изображения.  Распознает pdf файл с возможностью указатьRecognitionSettingsaspose.ocr/recognitionsettings. Поддерживает только отсканированные файлы PDF. Не поддерживает PDF с возможностью поиска.
+description: Распознать текст из отсканированного pdf извлечь изображения.  Распознает pdf файл с возможностью указатьRecognitionSettingsaspose.ocr/recognitionsettings . Поддерживает только отсканированные файлы PDF. Не поддерживает PDF с возможностью поиска.
 type: docs
 weight: 130
 url: /ru/net/aspose.ocr/asposeocr/recognizepdf/
 ---
 ## RecognizePdf(MemoryStream, DocumentRecognitionSettings) {#recognizepdf}
 
-Распознавать текст из отсканированного pdf (извлекать изображения).  Распознает pdf файл с возможностью указать[`RecognitionSettings`](../../recognitionsettings). Поддерживает только отсканированные файлы PDF. Не поддерживает PDF с возможностью поиска.
+Распознать текст из отсканированного pdf (извлечь изображения).  Распознает pdf файл с возможностью указать[`RecognitionSettings`](../../recognitionsettings) . Поддерживает только отсканированные файлы PDF. Не поддерживает PDF с возможностью поиска.
 
 ```csharp
 public List<RecognitionResult> RecognizePdf(MemoryStream stream, 
@@ -22,7 +22,7 @@ public List<RecognitionResult> RecognizePdf(MemoryStream stream,
 
 ### Возвращаемое значение
 
-Объект[`RecognitionResult`](../../recognitionresult)с результатами распознавания изображений.
+[`RecognitionResult`](../../recognitionresult)объект с результатами распознавания изображений.
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public List<RecognitionResult> RecognizePdf(MemoryStream stream,
 
 ## RecognizePdf(string, DocumentRecognitionSettings) {#recognizepdf_1}
 
-Распознавать текст из отсканированного pdf (извлекать изображения).  Распознает pdf файл с возможностью указать[`RecognitionSettings`](../../recognitionsettings). Поддерживает только отсканированные файлы PDF. Не поддерживает PDF с возможностью поиска.
+Распознать текст из отсканированного pdf (извлечь изображения).  Распознает pdf файл с возможностью указать[`RecognitionSettings`](../../recognitionsettings) . Поддерживает только отсканированные файлы PDF. Не поддерживает PDF с возможностью поиска.
 
 ```csharp
 public List<RecognitionResult> RecognizePdf(string fullPath, DocumentRecognitionSettings settings)
@@ -49,7 +49,7 @@ public List<RecognitionResult> RecognizePdf(string fullPath, DocumentRecognition
 
 ### Возвращаемое значение
 
-Объект[`RecognitionResult`](../../recognitionresult)с результатами распознавания изображений.
+[`RecognitionResult`](../../recognitionresult)объект с результатами распознавания изображений.
 
 ### Смотрите также
 

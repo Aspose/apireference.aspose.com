@@ -1,14 +1,14 @@
 ---
 title: SpellCheckError
 second_title: Справочник по Aspose.OCR для .NET API
-description: Представление слова с ошибкой дополнительными данными.
+description: Представление слова с ошибкой с дополнительными данными.
 type: docs
 weight: 150
 url: /ru/net/aspose.ocr.spellchecker/spellcheckerror/
 ---
 ## SpellCheckError structure
 
-Представление слова с ошибкой дополнительными данными.
+Представление слова с ошибкой с дополнительными данными.
 
 ```csharp
 public struct SpellCheckError
@@ -21,7 +21,7 @@ public struct SpellCheckError
 | [Length](../../aspose.ocr.spellchecker/spellcheckerror/length) { get; set; } | Длина слова с ошибкой во входном тексте. |
 | [StartPosition](../../aspose.ocr.spellchecker/spellcheckerror/startposition) { get; set; } | Позиция слова во входном тексте. |
 | [SuggestedWords](../../aspose.ocr.spellchecker/spellcheckerror/suggestedwords) { get; set; } | список объектов с предложенным правильным написанием |
-| [Word](../../aspose.ocr.spellchecker/spellcheckerror/word) { get; set; } | Слово с ошибкой. |
+| [Word](../../aspose.ocr.spellchecker/spellcheckerror/word) { get; set; } | Слово написано с ошибкой. |
 
 ### Смотрите также
 

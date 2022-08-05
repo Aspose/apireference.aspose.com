@@ -1,14 +1,14 @@
 ---
 title: Resize
 second_title: Справочник по Aspose.OCR для .NET API
-description: Rescale image - Увеличение или уменьшение разрешения изображения.
+description: Изменить масштаб изображения  увеличение или уменьшение разрешения изображения.
 type: docs
-weight: 70
+weight: 90
 url: /ru/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize/
 ---
 ## Resize(int, int, InterpolationFilterType) {#resize_1}
 
-Rescale image - Увеличение или уменьшение разрешения изображения.
+Изменить масштаб изображения — увеличение или уменьшение разрешения изображения.
 
 ```csharp
 public static PreprocessingFilter Resize(int width, int height, InterpolationFilterType type)
@@ -35,7 +35,7 @@ public static PreprocessingFilter Resize(int width, int height, InterpolationFil
 
 ## Resize(int, int) {#resize}
 
-Rescale image - Увеличение или уменьшение разрешения изображения. InterpolationFilterType = Lanczos8
+Масштабирование изображения — увеличение или уменьшение разрешения изображения. InterpolationFilterType = Lanczos8
 
 ```csharp
 public static PreprocessingFilter Resize(int width, int height)

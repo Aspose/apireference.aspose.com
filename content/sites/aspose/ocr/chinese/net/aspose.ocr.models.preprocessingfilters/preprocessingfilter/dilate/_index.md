@@ -3,7 +3,7 @@ title: Dilate
 second_title: Aspose.OCR for .NET API 参考
 description: 膨胀将像素添加到图像中对象的边界
 type: docs
-weight: 40
+weight: 60
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/dilate/
 ---
 ## PreprocessingFilter.Dilate method

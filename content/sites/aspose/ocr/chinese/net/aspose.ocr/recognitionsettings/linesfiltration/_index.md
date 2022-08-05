@@ -1,14 +1,14 @@
 ---
 title: LinesFiltration
 second_title: Aspose.OCR for .NET API 参考
-description: 允许识别表格中的文本围绕行的区域
+description: 允许识别表格中的文本围绕线的区域
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.ocr/recognitionsettings/linesfiltration/
 ---
 ## RecognitionSettings.LinesFiltration property
 
-允许识别表格中的文本（围绕行的区域）。
+允许识别表格中的文本（围绕线的区域）。
 
 ```csharp
 public bool LinesFiltration { get; set; }
@@ -16,7 +16,7 @@ public bool LinesFiltration { get; set; }
 
 ### 适当的价值
 
-` false` 允许提高性能并且不检测表和删除线；否则` true` 。默认值为` false` 。
+`错误的`允许提高性能并且不检测表格和删除行；否则`真的`.默认是`错误的` .
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: RecognitionResult
 second_title: Aspose.OCR for .NET API 参考
-description: 图像识别的结果 包含带有识别信息的元素和结果导出方法
+description: 图像识别的结果 包含识别信息的元素和结果导出的方法
 type: docs
 weight: 110
 url: /zh/net/aspose.ocr/recognitionresult/
 ---
 ## RecognitionResult class
 
-图像识别的结果。 包含带有识别信息的元素和结果导出方法。
+图像识别的结果。 包含识别信息的元素和结果导出的方法。
 
 ```csharp
 public class RecognitionResult
@@ -30,9 +30,9 @@ public class RecognitionResult
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetJson](../../aspose.ocr/recognitionresult/getjson)(bool) | 形成识别结果的 JSON 字符串。 |
+| [GetJson](../../aspose.ocr/recognitionresult/getjson)(bool) | 形成带有识别结果的 JSON 字符串。 |
 | [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | 更正文本（替换拼写错误的单词）。 |
-| [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | 使用给定输入文本的建议拼写查找拼写错误的单词。 |
+| [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | 使用给定输入文本的建议拼写找到拼写错误的单词。 |
 | [GetXml](../../aspose.ocr/recognitionresult/getxml)() | 带有识别结果的表单 XML 字符串。 |
 | [Save](../../aspose.ocr/recognitionresult/save#save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | 将文档保存为纯文本、PDF 或 Microsoft Word 文档。 |
 | [Save](../../aspose.ocr/recognitionresult/save#save_1)(string, SaveFormat, bool, SpellCheckLanguage, string) | 将文档保存为纯文本、PDF 或 Microsoft Word 文档。 |

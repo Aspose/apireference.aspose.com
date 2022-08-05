@@ -1,14 +1,14 @@
 ---
 title: Threshold
 second_title: Aspose.OCR for .NET API 参考
-description: 基于对原始图像的像素强度设置阈值创建二值图像
+description: 根据对原始图像的像素强度设置阈值创建二值图像
 type: docs
-weight: 100
+weight: 120
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/threshold/
 ---
 ## PreprocessingFilter.Threshold method
 
-基于对原始图像的像素强度设置阈值创建二值图像。
+根据对原始图像的像素强度设置阈值创建二值图像。
 
 ```csharp
 public static PreprocessingFilter Threshold(int value)

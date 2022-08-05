@@ -18,7 +18,7 @@ public string GetSpellCheckCorrectedText(SpellCheckLanguage language = SpellChec
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | language | SpellCheckLanguage | 要使用的字典。 |
-| dictionaryPath | String | 可选。用户字典（频率字典）的完整路径。 字典文件格式: UTF-8 编码的纯文本文件。 Word 和 Word Frequency 用空格或制表符分隔。默认情况下，单词在第一列，频率在第二列。 单独一行中的每个词频对。一行定义为一系列字符，后跟换行符（“\n”）、回车符（“\r”）， 或回车后紧跟换行符（“\r\n”）。 每个单词都应该是小写的。 |
+| dictionaryPath | String | 可选。用户字典（频率字典）的完整路径。 字典文件格式： UTF-8 编码的纯文本文件。 单词和词频由空格或制表符分隔。默认情况下，单词在第一列，频率在第二列。 每个单词-频率对在单独的行中。行定义为一系列字符，后跟换行符 ("\n")、回车符 ("\r")、 或回车符后紧跟换行符("\r\n"). 每个单词都应为小写。 |
 
 ### 返回值
 

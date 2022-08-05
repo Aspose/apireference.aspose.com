@@ -1,14 +1,14 @@
 ---
 title: GetJson
 second_title: Aspose.OCR for .NET API 参考
-description: 形成识别结果的 JSON 字符串
+description: 形成带有识别结果的 JSON 字符串
 type: docs
 weight: 80
 url: /zh/net/aspose.ocr/recognitionresult/getjson/
 ---
 ## RecognitionResult.GetJson method
 
-形成识别结果的 JSON 字符串。
+形成带有识别结果的 JSON 字符串。
 
 ```csharp
 public string GetJson(bool isReadable = false)
@@ -16,7 +16,7 @@ public string GetJson(bool isReadable = false)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| isReadable | Boolean | 确定 json 是否可读。 |
+| isReadable | Boolean | 确定 json 是否是人类可读的。 |
 
 ### 返回值
 

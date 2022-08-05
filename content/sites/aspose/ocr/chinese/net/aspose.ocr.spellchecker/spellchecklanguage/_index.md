@@ -1,14 +1,14 @@
 ---
 title: SpellCheckLanguage
 second_title: Aspose.OCR for .NET API 参考
-description: 用于拼写检查的语言现有字典
+description: 用于拼写检查的语言现有词典
 type: docs
 weight: 160
 url: /zh/net/aspose.ocr.spellchecker/spellchecklanguage/
 ---
 ## SpellCheckLanguage enumeration
 
-用于拼写检查的语言（现有字典）。
+用于拼写检查的语言（现有词典）。
 
 ```csharp
 public enum SpellCheckLanguage
@@ -18,10 +18,10 @@ public enum SpellCheckLanguage
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Eng | `0` | 英文词典 |
-| Deu | `1` | 德语词典 |
+| Eng | `0` | 英语词典 |
+| Deu | `1` | 德语字典 |
 | Spa | `2` | 西班牙语词典 |
-| Fra | `3` | 法语词典 |
+| Fra | `3` | 法文字典 |
 | Ita | `4` | 意大利语词典 |
 | Por | `5` | 葡萄牙语词典 |
 | Cze | `6` | 捷克语词典 |

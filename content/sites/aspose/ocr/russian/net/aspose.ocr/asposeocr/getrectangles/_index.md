@@ -1,14 +1,14 @@
 ---
 title: GetRectangles
 second_title: Справочник по Aspose.OCR для .NET API
-description: Обнаруживает текстовые области на изображении.  Автоматическая коррекция перекоса изображения не применяется. Поддержка GIF PNG JPEG BMP TIFF.
+description: Обнаруживает текстовые области на изображении.  Автоматическая коррекция перекоса изображения не применяется. Поддержка форматов GIF PNG JPEG BMP TIFF.
 type: docs
 weight: 50
 url: /ru/net/aspose.ocr/asposeocr/getrectangles/
 ---
 ## GetRectangles(string, AreasType, bool) {#getrectangles_1}
 
-Обнаруживает текстовые области на изображении.  Автоматическая коррекция перекоса изображения не применяется. Поддержка GIF, PNG, JPEG, BMP, TIFF.
+Обнаруживает текстовые области на изображении.  Автоматическая коррекция перекоса изображения не применяется. Поддержка форматов GIF, PNG, JPEG, BMP, TIFF.
 
 ```csharp
 public List<Rectangle> GetRectangles(string fullPath, AreasType areasType = AreasType.PARAGRAPHS, 
@@ -17,8 +17,8 @@ public List<Rectangle> GetRectangles(string fullPath, AreasType areasType = Area
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fullPath | String | Путь к образу. |
-| areasType | AreasType | Определяет, какие прямоугольники возвращать - строки или абзацы. |
+| fullPath | String | Путь к изображению. |
+| areasType | AreasType | Определяет, какие прямоугольники возвращать — строки или абзацы. |
 | detectAreas | Boolean | Включить автоматическое обнаружение текстовых областей. |
 
 ### Возвращаемое значение
@@ -36,7 +36,7 @@ public List<Rectangle> GetRectangles(string fullPath, AreasType areasType = Area
 
 ## GetRectangles(MemoryStream, AreasType, bool) {#getrectangles}
 
-Обнаруживает текстовые области на изображении.  Автоматическая коррекция перекоса изображения не применяется. Поддержка GIF, PNG, JPEG, BMP, TIFF.
+Обнаруживает текстовые области на изображении.  Автоматическая коррекция перекоса изображения не применяется. Поддержка форматов GIF, PNG, JPEG, BMP, TIFF.
 
 ```csharp
 public List<Rectangle> GetRectangles(MemoryStream image, 
@@ -46,7 +46,7 @@ public List<Rectangle> GetRectangles(MemoryStream image,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | image | MemoryStream | Поток памяти, содержащий изображение. |
-| areasType | AreasType | Определяет, какие прямоугольники возвращать - строки или абзацы. |
+| areasType | AreasType | Определяет, какие прямоугольники возвращать — строки или абзацы. |
 | detectAreas | Boolean | Включить автоматическое обнаружение текстовых областей. |
 
 ### Возвращаемое значение

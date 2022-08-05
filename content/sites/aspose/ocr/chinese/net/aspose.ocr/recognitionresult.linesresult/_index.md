@@ -25,7 +25,7 @@ public class LinesResult
 | 姓名 | 描述 |
 | --- | --- |
 | [Line](../../aspose.ocr/linesresult/line) { get; set; } | 行坐标。 |
-| [TextInLine](../../aspose.ocr/linesresult/textinline) { get; set; } | 从行中识别的文本。 |
+| [TextInLine](../../aspose.ocr/linesresult/textinline) { get; set; } | 已识别行中的文本。 |
 
 ### 也可以看看
 

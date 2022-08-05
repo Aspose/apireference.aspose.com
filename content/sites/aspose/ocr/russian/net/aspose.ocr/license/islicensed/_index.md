@@ -1,14 +1,14 @@
 ---
 title: IsLicensed
 second_title: Справочник по Aspose.OCR для .NET API
-description: Получает значение указывающее лицензирован ли продукт.
+description: Получает значение указывающее является ли продукт лицензированным.
 type: docs
 weight: 20
 url: /ru/net/aspose.ocr/license/islicensed/
 ---
 ## License.IsLicensed property
 
-Получает значение, указывающее, лицензирован ли продукт.
+Получает значение, указывающее, является ли продукт лицензированным.
 
 ```csharp
 public bool IsLicensed { get; }
@@ -16,7 +16,7 @@ public bool IsLicensed { get; }
 
 ### Стоимость имущества
 
-` true` если продукт лицензирован; в противном случае` false` .
+`истинный` если продукт лицензирован; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: StartPage
 second_title: Aspose.OCR for .NET API 参考
 description: 设置识别的第一页
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.ocr/documentrecognitionsettings/startpage/
 ---
 ## DocumentRecognitionSettings.StartPage property
@@ -16,7 +16,7 @@ public int StartPage { get; set; }
 
 ### 适当的价值
 
-默认为` 0` .
+默认为`0` .
 
 ### 也可以看看
 

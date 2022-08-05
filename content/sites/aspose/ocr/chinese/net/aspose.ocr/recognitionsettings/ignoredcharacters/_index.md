@@ -3,7 +3,7 @@ title: IgnoredCharacters
 second_title: Aspose.OCR for .NET API 参考
 description: 设置识别符号的黑名单
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.ocr/recognitionsettings/ignoredcharacters/
 ---
 ## RecognitionSettings.IgnoredCharacters property

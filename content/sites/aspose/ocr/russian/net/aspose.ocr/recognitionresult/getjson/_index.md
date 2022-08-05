@@ -1,14 +1,14 @@
 ---
 title: GetJson
 second_title: Справочник по Aspose.OCR для .NET API
-description: Формировать строку JSON с результатами распознавания.
+description: Форма JSON-строки с результатами распознавания.
 type: docs
 weight: 80
 url: /ru/net/aspose.ocr/recognitionresult/getjson/
 ---
 ## RecognitionResult.GetJson method
 
-Формировать строку JSON с результатами распознавания.
+Форма JSON-строки с результатами распознавания.
 
 ```csharp
 public string GetJson(bool isReadable = false)

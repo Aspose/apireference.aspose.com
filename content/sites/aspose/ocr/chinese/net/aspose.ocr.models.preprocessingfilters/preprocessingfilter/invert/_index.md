@@ -3,7 +3,7 @@ title: Invert
 second_title: Aspose.OCR for .NET API 参考
 description: 自动反转文档图像中的颜色
 type: docs
-weight: 50
+weight: 70
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/invert/
 ---
 ## PreprocessingFilter.Invert method
@@ -16,7 +16,7 @@ public static PreprocessingFilter Invert()
 
 ### 返回值
 
-InvertFilter 对象。
+反转过滤器对象。
 
 ### 也可以看看
 

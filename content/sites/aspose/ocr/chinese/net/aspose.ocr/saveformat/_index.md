@@ -1,14 +1,14 @@
 ---
 title: SaveFormat
 second_title: Aspose.OCR for .NET API 参考
-description: 用于保存识别结果
+description: 用于识别结果保存
 type: docs
 weight: 140
 url: /zh/net/aspose.ocr/saveformat/
 ---
 ## SaveFormat enumeration
 
-用于保存识别结果
+用于识别结果保存
 
 ```csharp
 public enum SaveFormat
@@ -21,8 +21,8 @@ public enum SaveFormat
 | Text | `0` | 以纯文本格式保存文档。 |
 | Docx | `1` | 将文档另存为 Office Open XML WordprocessingML 文档（无宏）。 |
 | Pdf | `2` | 将文档另存为 PDF（Adobe 便携式文档）文档。 |
-| Xlsx | `3` | 将文档保存为 Excel（2007 及更高版本）工作簿文档。 |
-| Xml | `4` | 将文档保存为 XML 文件。 |
+| Xlsx | `3` | 将文档另存为 Excel（2007 及更高版本）工作簿文档。 |
+| Xml | `4` | 将文档另存为 XML 文件。 |
 | Json | `5` | 将文档保存为 JSON 文件。 |
 
 ### 也可以看看

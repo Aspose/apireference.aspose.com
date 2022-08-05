@@ -1,14 +1,14 @@
 ---
 title: DetectAreasMode
 second_title: Справочник по Aspose.OCR для .NET API
-description: Позволяет выбрать оптимальный режим для областей типа документадокумент фотография обычный текст столбец изображение.
+description: Позволяет выбрать оптимальный режим для областей типа документа документ фотография обычный текст столбец изображение.
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.ocr/documentrecognitionsettings/detectareasmode/
 ---
 ## DocumentRecognitionSettings.DetectAreasMode property
 
-Позволяет выбрать оптимальный режим для областей типа документа:документ, фотография, обычный текст, столбец, изображение.
+Позволяет выбрать оптимальный режим для областей типа документа: документ, фотография, обычный текст, столбец, изображение.
 
 ```csharp
 public DetectAreasMode DetectAreasMode { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.OCR для .NET API
-description: Rescale image - Увеличение или уменьшение разрешения изображения. InterpolationFilterType  Lanczos8
+description: Масштабирование изображения  увеличение или уменьшение разрешения изображения. InterpolationFilterType  Lanczos8
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale/
 ---
 ## Scale(float) {#scale}
 
-Rescale image - Увеличение или уменьшение разрешения изображения. InterpolationFilterType = Lanczos8
+Масштабирование изображения — увеличение или уменьшение разрешения изображения. InterpolationFilterType = Lanczos8
 
 ```csharp
 public static PreprocessingFilter Scale(float ratio)
@@ -16,11 +16,11 @@ public static PreprocessingFilter Scale(float ratio)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ratio | Single | Коэффициент масштабирования. Рекомендуется с 0,1 до 1 для сжатия. От 1 до 10 увеличить. |
+| ratio | Single | Коэффициент масштабирования.Рекомендуется от 0,1 до 1 для сжатия. От 1 до 10 увеличить. |
 
 ### Возвращаемое значение
 
-Объект ScaleFilter.
+Объект масштабного фильтра.
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ public static PreprocessingFilter Scale(float ratio)
 
 ## Scale(float, InterpolationFilterType) {#scale_1}
 
-Rescale image - Увеличение или уменьшение разрешения изображения.
+Изменить масштаб изображения — увеличение или уменьшение разрешения изображения.
 
 ```csharp
 public static PreprocessingFilter Scale(float ratio, InterpolationFilterType type)
@@ -40,12 +40,12 @@ public static PreprocessingFilter Scale(float ratio, InterpolationFilterType typ
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ratio | Single | Коэффициент масштабирования. Рекомендуется с 0,1 до 1 для сжатия. От 1 до 10 увеличить. |
+| ratio | Single | Коэффициент масштабирования.Рекомендуется от 0,1 до 1 для сжатия. От 1 до 10 увеличить. |
 | type | InterpolationFilterType | [`InterpolationFilterType`](../../../aspose.ocr.filters/interpolationfiltertype) |
 
 ### Возвращаемое значение
 
-Объект ScaleFilter.
+Объект масштабного фильтра.
 
 ### Смотрите также
 

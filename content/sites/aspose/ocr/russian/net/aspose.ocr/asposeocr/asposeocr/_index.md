@@ -1,14 +1,14 @@
 ---
 title: AsposeOcr
 second_title: Справочник по Aspose.OCR для .NET API
-description: Инициализирует новый экземпляр классаAsposeOcraspose.ocr/asposeocr. Пустой конструктор.
+description: Инициализирует новый экземплярAsposeOcraspose.ocr/asposeocr class. Пустой конструктор.
 type: docs
 weight: 10
 url: /ru/net/aspose.ocr/asposeocr/asposeocr/
 ---
 ## AsposeOcr() {#constructor}
 
-Инициализирует новый экземпляр класса[`AsposeOcr`](../../asposeocr). Пустой конструктор.
+Инициализирует новый экземпляр[`AsposeOcr`](../../asposeocr) class. Пустой конструктор.
 
 ```csharp
 public AsposeOcr()
@@ -24,7 +24,7 @@ public AsposeOcr()
 
 ## AsposeOcr(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`AsposeOcr`](../../asposeocr). Установите разрешенные символы с помощью свойства алфавита.
+Инициализирует новый экземпляр[`AsposeOcr`](../../asposeocr) class. Установите разрешенные символы с помощью свойства алфавита.
 
 ```csharp
 public AsposeOcr(string alphabet)
@@ -32,7 +32,7 @@ public AsposeOcr(string alphabet)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| алфавит | String | Набор разрешенных символов. |
+| alphabet | String | Набор разрешенных символов. |
 
 ### Смотрите также
 

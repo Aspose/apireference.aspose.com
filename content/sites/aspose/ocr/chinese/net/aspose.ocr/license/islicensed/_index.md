@@ -1,14 +1,14 @@
 ---
 title: IsLicensed
 second_title: Aspose.OCR for .NET API 参考
-description: 获取一个值该值指示产品是否已获得许可
+description: 获取一个指示产品是否获得许可的值
 type: docs
 weight: 20
 url: /zh/net/aspose.ocr/license/islicensed/
 ---
 ## License.IsLicensed property
 
-获取一个值，该值指示产品是否已获得许可。
+获取一个指示产品是否获得许可的值。
 
 ```csharp
 public bool IsLicensed { get; }
@@ -16,7 +16,7 @@ public bool IsLicensed { get; }
 
 ### 适当的价值
 
-` true` 如果产品获得许可；否则，` false` 。
+`真的`如果产品获得许可；否则，`错误的` .
 
 ### 也可以看看
 

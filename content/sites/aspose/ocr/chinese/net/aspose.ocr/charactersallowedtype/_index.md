@@ -19,12 +19,12 @@ public enum CharactersAllowedType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | ALL | `0` | 识别所有字符。 |
-| LATIN_ALPHABET | `1` | 仅当字符是拉丁字母时才识别。 |
+| LATIN_ALPHABET | `1` | 仅在字符是拉丁字母时识别。 |
 | DIGITS | `2` | 仅在字符为十六进制数字时识别。 |
 
 ### 评论
 
-在[`RecognitionSettings`](../recognitionsettings)中使用以表示哪些字符将被识别。
+用于[`RecognitionSettings`](../recognitionsettings)指示将识别哪些字符。
 
 ### 也可以看看
 

@@ -19,7 +19,7 @@ public static void SaveMultipageDocument(string fullFileName, SaveFormat saveFor
 | --- | --- | --- |
 | fullFileName | String | Имя файла с путем сохранения результата распознавания в выбранном формате. |
 | saveFormat | SaveFormat | Формат документа (Docx, Txt, Pdf). |
-| results | List`1 | Список объектов[`RecognitionResult`](../../recognitionresult). |
+| results | List`1 | Список[`RecognitionResult`](../../recognitionresult) объекты. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public static void SaveMultipageDocument(MemoryStream stream, SaveFormat saveFor
 | --- | --- | --- |
 | stream | MemoryStream | MemoryStream для сохранения результата распознавания в выбранном формате. |
 | saveFormat | SaveFormat | Формат документа (Docx, Txt, Pdf). |
-| results | List`1 | Список объектов[`RecognitionResult`](../../recognitionresult). |
+| results | List`1 | Список[`RecognitionResult`](../../recognitionresult) объекты. |
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public string RecognizeImageFromUri(string uri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uri | String | URI ссылка на изображение. |
+| uri | String | URI-ссылка на изображение. |
 
 ### Возвращаемое значение
 
@@ -44,16 +44,16 @@ public RecognitionResult RecognizeImageFromUri(string uri, RecognitionSettings s
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uri | String | URI ссылка на изображение. |
+| uri | String | URI-ссылка на изображение. |
 | settings | RecognitionSettings | Настройки распознавания. |
 
 ### Возвращаемое значение
 
-Объект[`RecognitionResult`](../../recognitionresult)с результатами распознавания изображений.
+[`RecognitionResult`](../../recognitionresult)объект с результатами распознавания изображений.
 
 ### Примечания
 
-Распознает изображение с возможностью указания[`RecognitionSettings`](../../recognitionsettings). Поддерживает GIF, PNG, JPEG, BMP, TIFF.
+Распознает изображение с возможностью указать[`RecognitionSettings`](../../recognitionsettings) . Поддерживает GIF, PNG, JPEG, BMP, TIFF.
 
 ### Смотрите также
 

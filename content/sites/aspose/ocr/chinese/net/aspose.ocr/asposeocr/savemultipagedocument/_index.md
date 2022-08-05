@@ -19,7 +19,7 @@ public static void SaveMultipageDocument(string fullFileName, SaveFormat saveFor
 | --- | --- | --- |
 | fullFileName | String | 带有用于以所选格式保存识别结果的路径的文件名。 |
 | saveFormat | SaveFormat | 文档格式（Docx、Txt、Pdf）。 |
-| results | List`1 | [`RecognitionResult`](../../recognitionresult)对象列表。 |
+| results | List`1 | 清单[`RecognitionResult`](../../recognitionresult)对象。 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public static void SaveMultipageDocument(MemoryStream stream, SaveFormat saveFor
 | --- | --- | --- |
 | stream | MemoryStream | MemoryStream 用于以所选格式保存识别结果。 |
 | saveFormat | SaveFormat | 文档格式（Docx、Txt、Pdf）。 |
-| results | List`1 | [`RecognitionResult`](../../recognitionresult)对象列表。 |
+| results | List`1 | 清单[`RecognitionResult`](../../recognitionresult)对象。 |
 
 ### 也可以看看
 

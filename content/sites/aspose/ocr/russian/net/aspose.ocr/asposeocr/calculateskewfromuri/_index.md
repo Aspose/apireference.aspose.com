@@ -16,7 +16,7 @@ public float CalculateSkewFromUri(string uri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uri | String | URI ссылка на изображение. |
+| uri | String | URI-ссылка на изображение. |
 
 ### Возвращаемое значение
 

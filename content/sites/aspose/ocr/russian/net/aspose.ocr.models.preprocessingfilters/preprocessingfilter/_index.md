@@ -24,17 +24,19 @@ public class PreprocessingFilter : IEnumerable
 
 | Имя | Описание |
 | --- | --- |
-| static [Binarize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/binarize)() | Преобразует изображение в черно-белое. Бинарные изображения — это изображения, пиксели которых имеют только два возможных значения интенсивности. Обычно они отображаются черно-белыми. Численно эти два значения часто равны 0 для черного и 255 для белого. Двоичные изображения создаются путем автоматической пороговой обработки изображения. |
+| static [AutoDenoising](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/autodenoising)() | Позволяет использовать дополнительную нейронную сеть для улучшения изображения — уменьшения шума. Полезно для изображений с артефактами сканирования, искажениями, пятнами, бликами, градиентами, посторонними элементами. |
+| static [AutoSkew](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/autoskew)() | Включает автоматическую коррекцию перекоса изображения. |
+| static [Binarize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/binarize)() | Преобразует изображение в черно-белое. Двоичные изображения — это изображения, пиксели которых имеют только два возможных значения интенсивности. Обычно они отображаются черно-белыми. Численно эти два значения часто равны 0 для черного и 255 для белого. Бинарные изображения создаются путем автоматического определения порога изображения. |
 | static [ContrastCorrectionFilter](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/contrastcorrectionfilter)() | Фильтр коррекции контраста. |
 | static [Dilate](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/dilate)() | Расширение добавляет пиксели к границам объектов на изображении. |
 | static [Invert](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/invert)() | Автоматически инвертирует цвета в изображении документа. |
-| static [Median](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/median)() | Медианный фильтр проходит через каждый элемент изображения и заменяет каждый пиксель медианой соседних пикселей. |
-| static [Resize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize#resize)(int, int) | Rescale image - Увеличение или уменьшение разрешения изображения. InterpolationFilterType = Lanczos8 |
-| static [Resize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize#resize_1)(int, int, InterpolationFilterType) | Rescale image - Увеличение или уменьшение разрешения изображения. |
+| static [Median](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/median)() | Медианный фильтр просматривает каждый элемент изображения и заменяет каждый пиксель медианой соседних пикселей. |
+| static [Resize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize#resize)(int, int) | Масштабирование изображения — увеличение или уменьшение разрешения изображения. InterpolationFilterType = Lanczos8 |
+| static [Resize](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/resize#resize_1)(int, int, InterpolationFilterType) | Изменить масштаб изображения — увеличение или уменьшение разрешения изображения. |
 | static [Rotate](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/rotate)(float) | Повернуть исходное изображение. |
-| static [Scale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale#scale)(float) | Rescale image - Увеличение или уменьшение разрешения изображения. InterpolationFilterType = Lanczos8 |
-| static [Scale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale#scale_1)(float, InterpolationFilterType) | Rescale image - Увеличение или уменьшение разрешения изображения. |
-| static [Threshold](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/threshold)(int) | Создайте двоичное изображение на основе установки порогового значения интенсивности пикселей исходного изображения. |
+| static [Scale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale#scale)(float) | Масштабирование изображения — увеличение или уменьшение разрешения изображения. InterpolationFilterType = Lanczos8 |
+| static [Scale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/scale#scale_1)(float, InterpolationFilterType) | Изменить масштаб изображения — увеличение или уменьшение разрешения изображения. |
+| static [Threshold](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/threshold)(int) | Создать бинарное изображение на основе установки порогового значения интенсивности пикселей исходного изображения. |
 | static [ToGrayscale](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/tograyscale)() | Преобразует изображение в изображение в градациях серого. Изображение в градациях серого имеет 256 уровней освещенности в изображении (от 0 до 255). |
 | [Add](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/add)(PreprocessingFilter) | Добавьте новый фильтр в коллекцию для дальнейшего выполнения всех операций. Согласованность в коллекции имеет значение. |
 | [GetEnumerator](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/getenumerator)() | Для реализации интерфейса IEnumarable. |

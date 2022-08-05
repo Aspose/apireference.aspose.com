@@ -1,14 +1,14 @@
 ---
 title: RecognizeTiff
 second_title: Справочник по Aspose.OCR для .NET API
-description: Распознавание текста из многостраничного изображения TIFF.  Распознает файл TIFF с возможностью указанияDocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings. Поддерживает только TIFF TIF. Не поддерживает другие типы изображений.
+description: Распознавание текста из многостраничного изображения TIFF.  Распознает файл TIFF с возможностью указатьDocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings . Поддерживает только формат TIFF TIF. Не поддерживает другие типы изображений.
 type: docs
 weight: 140
 url: /ru/net/aspose.ocr/asposeocr/recognizetiff/
 ---
 ## AsposeOcr.RecognizeTiff method
 
-Распознавание текста из многостраничного изображения TIFF.  Распознает файл TIFF с возможностью указания[`DocumentRecognitionSettings`](../../documentrecognitionsettings). Поддерживает только TIFF (TIF). Не поддерживает другие типы изображений.
+Распознавание текста из многостраничного изображения TIFF.  Распознает файл TIFF с возможностью указать[`DocumentRecognitionSettings`](../../documentrecognitionsettings) . Поддерживает только формат TIFF (TIF). Не поддерживает другие типы изображений.
 
 ```csharp
 public List<RecognitionResult> RecognizeTiff(string fullPath, DocumentRecognitionSettings settings)
@@ -21,7 +21,7 @@ public List<RecognitionResult> RecognizeTiff(string fullPath, DocumentRecognitio
 
 ### Возвращаемое значение
 
-Список[`RecognitionResult`](../../recognitionresult)объектов с результатами распознавания изображений.
+[`RecognitionResult`](../../recognitionresult) список объектов с результатами распознавания изображений.
 
 ### Смотрите также
 

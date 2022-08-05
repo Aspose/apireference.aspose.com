@@ -1,14 +1,14 @@
 ---
 title: RecognizeImageFast
 second_title: Справочник по Aspose.OCR для .NET API
-description: Распознавание текста на изображении с хорошим качеством. Не использует коррекцию перекоса и определение областей. Работает в быстром режиме.
+description: Распознает текст на картинке с хорошим качеством. Не использует коррекцию перекоса и определение областей. Работает в быстром режиме.
 type: docs
 weight: 90
 url: /ru/net/aspose.ocr/asposeocr/recognizeimagefast/
 ---
 ## RecognizeImageFast(string) {#recognizeimagefast_1}
 
-Распознавание текста на изображении с хорошим качеством. Не использует коррекцию перекоса и определение областей. Работает в быстром режиме.
+Распознает текст на картинке с хорошим качеством. Не использует коррекцию перекоса и определение областей. Работает в быстром режиме.
 
 ```csharp
 public string RecognizeImageFast(string fullPath)
@@ -32,7 +32,7 @@ public string RecognizeImageFast(string fullPath)
 
 ## RecognizeImageFast(MemoryStream) {#recognizeimagefast}
 
-Распознавание текста на изображении с хорошим качеством. Не использует коррекцию перекоса и определение областей. Работает в быстром режиме.
+Распознает текст на картинке с хорошим качеством. Не использует коррекцию перекоса и определение областей. Работает в быстром режиме.
 
 ```csharp
 public string RecognizeImageFast(MemoryStream stream)

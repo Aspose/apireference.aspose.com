@@ -1,14 +1,14 @@
 ---
 title: ThresholdValue
 second_title: Справочник по Aspose.OCR для .NET API
-description: Получает или задает пользовательское пороговое значение для бинаризации изображения. Диапазон от 1 до 255.
+description: Получает или задает пользовательское пороговое значение для бинаризации изображения. Диапазон значений от 1 до 255.
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.ocr/documentrecognitionsettings/thresholdvalue/
 ---
 ## DocumentRecognitionSettings.ThresholdValue property
 
-Получает или задает пользовательское пороговое значение для бинаризации изображения. Диапазон от 1 до 255.
+Получает или задает пользовательское пороговое значение для бинаризации изображения. Диапазон значений от 1 до 255.
 
 ```csharp
 public int ThresholdValue { set; }

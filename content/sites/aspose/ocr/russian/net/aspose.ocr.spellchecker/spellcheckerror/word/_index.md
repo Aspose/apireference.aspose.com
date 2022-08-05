@@ -1,14 +1,14 @@
 ---
 title: Word
 second_title: Справочник по Aspose.OCR для .NET API
-description: Слово с ошибкой.
+description: Слово написано с ошибкой.
 type: docs
 weight: 40
 url: /ru/net/aspose.ocr.spellchecker/spellcheckerror/word/
 ---
 ## SpellCheckError.Word property
 
-Слово с ошибкой.
+Слово написано с ошибкой.
 
 ```csharp
 public string Word { get; set; }

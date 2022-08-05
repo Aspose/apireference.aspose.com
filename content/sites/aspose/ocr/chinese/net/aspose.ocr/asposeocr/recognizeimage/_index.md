@@ -20,7 +20,7 @@ public string RecognizeImage(string fullPath)
 
 ### 返回值
 
-已识别文本。
+识别的文本。
 
 ### 评论
 
@@ -49,11 +49,11 @@ public RecognitionResult RecognizeImage(string fullPath, RecognitionSettings set
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)带有图像识别结果的对象。
+这[`RecognitionResult`](../../recognitionresult)具有图像识别结果的对象。
 
 ### 评论
 
-识别具有指定RecognitionSettings能力的图像. 支持 GIF、PNG、JPEG、BMP、TIFF。
+识别具有指定能力的图像[`RecognitionSettings`](../../recognitionsettings). 支持 GIF、PNG、JPEG、BMP、TIFF.
 
 ### 也可以看看
 
@@ -79,7 +79,7 @@ public string RecognizeImage(MemoryStream stream)
 
 ### 返回值
 
-已识别文本。
+识别的文本。
 
 ### 评论
 
@@ -95,7 +95,7 @@ public string RecognizeImage(MemoryStream stream)
 
 ## RecognizeImage(MemoryStream, RecognitionSettings) {#recognizeimage}
 
-识别图像上的文本。  识别具有指定[`RecognitionSettings`](../../recognitionsettings)能力的图像。 支持 GIF、PNG、JPEG、BMP、TIFF。
+识别图像上的文本。  识别具有指定能力的图像[`RecognitionSettings`](../../recognitionsettings). 支持 GIF、PNG、JPEG、BMP、TIFF.
 
 ```csharp
 public RecognitionResult RecognizeImage(MemoryStream stream, RecognitionSettings settings)
@@ -108,7 +108,7 @@ public RecognitionResult RecognizeImage(MemoryStream stream, RecognitionSettings
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)带有图像识别结果的对象。
+这[`RecognitionResult`](../../recognitionresult)具有图像识别结果的对象。
 
 ### 也可以看看
 

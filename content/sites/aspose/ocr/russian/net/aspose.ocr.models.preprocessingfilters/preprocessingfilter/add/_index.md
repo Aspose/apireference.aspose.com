@@ -3,7 +3,7 @@ title: Add
 second_title: Справочник по Aspose.OCR для .NET API
 description: Добавьте новый фильтр в коллекцию для дальнейшего выполнения всех операций. Согласованность в коллекции имеет значение.
 type: docs
-weight: 120
+weight: 140
 url: /ru/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/add/
 ---
 ## PreprocessingFilter.Add method

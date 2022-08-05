@@ -1,14 +1,14 @@
 ---
 title: RecognizeLine
 second_title: Aspose.OCR for .NET API 参考
-description: 识别包含单行文本的图像  不应用自动图像歪斜校正 支持 GIFPNGJPEGBMPTIFF
+description: 识别包含单行文本的图像  不应用自动图像倾斜校正 支持 GIFPNGJPEGBMPTIFF
 type: docs
 weight: 110
 url: /zh/net/aspose.ocr/asposeocr/recognizeline/
 ---
 ## RecognizeLine(string) {#recognizeline_1}
 
-识别包含单行文本的图像。  不应用自动图像歪斜校正。 支持 GIF、PNG、JPEG、BMP、TIFF。
+识别包含单行文本的图像。  不应用自动图像倾斜校正。 支持 GIF、PNG、JPEG、BMP、TIFF。
 
 ```csharp
 public string RecognizeLine(string fullPath)
@@ -20,7 +20,7 @@ public string RecognizeLine(string fullPath)
 
 ### 返回值
 
-已识别文本。
+识别的文本。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public string RecognizeLine(string fullPath)
 
 ## RecognizeLine(MemoryStream) {#recognizeline}
 
-识别包含单行文本的图像。  不应用自动图像歪斜校正。 支持 GIF、PNG、JPEG、BMP、TIFF。
+识别包含单行文本的图像。  不应用自动图像倾斜校正。 支持 GIF、PNG、JPEG、BMP、TIFF。
 
 ```csharp
 public string RecognizeLine(MemoryStream image)
@@ -44,7 +44,7 @@ public string RecognizeLine(MemoryStream image)
 
 ### 返回值
 
-已识别文本。
+识别的文本。
 
 ### 也可以看看
 

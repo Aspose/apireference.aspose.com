@@ -1,14 +1,14 @@
 ---
 title: RecognitionSettings
 second_title: Справочник по Aspose.OCR для .NET API
-description: Инициализирует новый экземпляр классаRecognitionSettingsaspose.ocr/recognitionsettingsс полным набором свойств.
+description: Инициализирует новый экземплярRecognitionSettingsaspose.ocr/recognitionsettings класс с полным набором свойств.
 type: docs
 weight: 10
 url: /ru/net/aspose.ocr/recognitionsettings/recognitionsettings/
 ---
 ## RecognitionSettings constructor
 
-Инициализирует новый экземпляр класса[`RecognitionSettings`](../../recognitionsettings)с полным набором свойств.
+Инициализирует новый экземпляр[`RecognitionSettings`](../../recognitionsettings) класс с полным набором свойств.
 
 ```csharp
 public RecognitionSettings(Language language = Language.None, 
@@ -19,10 +19,10 @@ public RecognitionSettings(Language language = Language.None,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | language | Language | Язык, используемый для OCR. |
-| recognitionAreas | List`1 | Вручную установить области для распознавания. Null по умолчанию - означает, что обрабатывается все изображение. |
+| recognitionAreas | List`1 | Вручную установите области для распознавания. Null по умолчанию - означает, что обрабатывается все изображение. |
 | detectAreas | Boolean | Включить автоматическое обнаружение текстовых областей. |
-| autoSkew | Boolean | Включить автоматическую коррекцию перекоса изображения. |
-| skewAngle | Single | Установить угол поворота изображения. |
+| autoSkew | Boolean | Включите автоматическую коррекцию перекоса изображения. |
+| skewAngle | Single | Установите угол поворота изображения. |
 | recognizeSingleLine | Boolean | Для однострочных изображений |
 | threshold | Int32 | Пользовательский порог бинаризации изображения |
 

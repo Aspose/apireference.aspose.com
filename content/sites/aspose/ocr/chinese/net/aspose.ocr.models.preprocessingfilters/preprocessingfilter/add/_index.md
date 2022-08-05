@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.OCR for .NET API 参考
-description: 将新过滤器添加到集合中以进一步运行所有操作 集合的一致性很重要
+description: 将新过滤器添加到集合中以进一步运行所有操作 集合中的一致性很重要
 type: docs
-weight: 120
+weight: 140
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/add/
 ---
 ## PreprocessingFilter.Add method
 
-将新过滤器添加到集合中以进一步运行所有操作。 集合的一致性很重要。
+将新过滤器添加到集合中以进一步运行所有操作。 集合中的一致性很重要。
 
 ```csharp
 public void Add(PreprocessingFilter filter)

@@ -1,14 +1,14 @@
 ---
 title: TextInLine
 second_title: Aspose.OCR for .NET API 参考
-description: 从行中识别的文本
+description: 已识别行中的文本
 type: docs
 weight: 30
 url: /zh/net/aspose.ocr/recognitionresult.linesresult/textinline/
 ---
 ## RecognitionResult.LinesResult.TextInLine property
 
-从行中识别的文本。
+已识别行中的文本。
 
 ```csharp
 public string TextInLine { get; set; }

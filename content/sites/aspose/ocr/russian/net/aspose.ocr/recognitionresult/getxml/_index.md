@@ -1,14 +1,14 @@
 ---
 title: GetXml
 second_title: Справочник по Aspose.OCR для .NET API
-description: Форма XML-строки с результатами распознавания.
+description: Строка XML формы с результатами распознавания.
 type: docs
 weight: 110
 url: /ru/net/aspose.ocr/recognitionresult/getxml/
 ---
 ## RecognitionResult.GetXml method
 
-Форма XML-строки с результатами распознавания.
+Строка XML формы с результатами распознавания.
 
 ```csharp
 public string GetXml()

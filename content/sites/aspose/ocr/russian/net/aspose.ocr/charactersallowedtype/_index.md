@@ -24,7 +24,7 @@ public enum CharactersAllowedType
 
 ### Примечания
 
-Используется в[`RecognitionSettings`](../recognitionsettings)для указания какие символы будут распознаны.
+Используется в[`RecognitionSettings`](../recognitionsettings) чтобы указать, какие символы будут распознаны.
 
 ### Смотрите также
 

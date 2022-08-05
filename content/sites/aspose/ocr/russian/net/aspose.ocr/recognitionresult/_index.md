@@ -1,14 +1,14 @@
 ---
 title: RecognitionResult
 second_title: Справочник по Aspose.OCR для .NET API
-description: Результаты распознавания изображений. Содержит элементы с информацией о распознавании и методами экспорта результатов.
+description: Результаты распознавания изображений. Содержит элементы с информацией о распознавании и методы экспорта результатов.
 type: docs
 weight: 110
 url: /ru/net/aspose.ocr/recognitionresult/
 ---
 ## RecognitionResult class
 
-Результаты распознавания изображений. Содержит элементы с информацией о распознавании и методами экспорта результатов.
+Результаты распознавания изображений. Содержит элементы с информацией о распознавании и методы экспорта результатов.
 
 ```csharp
 public class RecognitionResult
@@ -21,22 +21,22 @@ public class RecognitionResult
 | [RecognitionAreasRectangles](../../aspose.ocr/recognitionresult/recognitionareasrectangles) { get; } | Получает координаты прямоугольников. |
 | [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext) { get; } | Получает результаты распознавания списка областей (прямоугольников). |
 | [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist) { get; } | Набор символов, найденных алгоритмом распознавания и расположенных в порядке убывания вероятности. |
-| [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult) { get; } | Получает список результатов распознавания со списком строк (прямоугольников). |
-| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; } | Получает результат распознавания одной строкой. |
+| [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult) { get; } | Получает список результатов распознавания со списком строк (Прямоугольники). |
+| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; } | Получить результат распознавания одной строкой. |
 | [Skew](../../aspose.ocr/recognitionresult/skew) { get; } | Получает угол наклона. |
-| [Warnings](../../aspose.ocr/recognitionresult/warnings) { get; } | Получает список предупреждающих сообщений, описывающих некритические ошибки, возникшие при генерации. |
+| [Warnings](../../aspose.ocr/recognitionresult/warnings) { get; } | Получает список предупреждающих сообщений, описывающих некритические ошибки, возникшие во время генерации. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetJson](../../aspose.ocr/recognitionresult/getjson)(bool) | Формировать строку JSON с результатами распознавания. |
+| [GetJson](../../aspose.ocr/recognitionresult/getjson)(bool) | Форма JSON-строки с результатами распознавания. |
 | [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Исправляет текст (заменяет слова с ошибками). |
 | [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | Найдите слова с ошибками с предложенными вариантами написания для заданного входного текста. |
-| [GetXml](../../aspose.ocr/recognitionresult/getxml)() | Форма XML-строки с результатами распознавания. |
+| [GetXml](../../aspose.ocr/recognitionresult/getxml)() | Строка XML формы с результатами распознавания. |
 | [Save](../../aspose.ocr/recognitionresult/save#save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | Сохраняет документ как обычный текст, PDF или документ Microsoft Word. |
 | [Save](../../aspose.ocr/recognitionresult/save#save_1)(string, SaveFormat, bool, SpellCheckLanguage, string) | Сохраняет документ как обычный текст, PDF или документ Microsoft Word. |
-| [operator +](../../aspose.ocr/recognitionresult/op_addition) | Завершить полный результат из распознанных фрагментов (строк). |
+| [operator +](../../aspose.ocr/recognitionresult/op_addition) | Для завершения полного результата из распознанных фрагментов (строк). |
 
 ## Другие члены
 

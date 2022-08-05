@@ -18,7 +18,7 @@ public struct SuggestedWord
 
 | Имя | Описание |
 | --- | --- |
-| [Distance](../../aspose.ocr.spellchecker/suggestedword/distance) { get; set; } | Расстояние между искомым и предложением. |
+| [Distance](../../aspose.ocr.spellchecker/suggestedword/distance) { get; set; } | Расстояние между поиском и предложением. |
 | [Word](../../aspose.ocr.spellchecker/suggestedword/word) { get; set; } | Предлагаемое правильно написанное слово. |
 
 ### Смотрите также
