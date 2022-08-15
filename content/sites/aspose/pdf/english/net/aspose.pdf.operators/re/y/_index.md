@@ -1,14 +1,12 @@
 ---
 title: Y
 second_title: Aspose.PDF for .NET API Reference
-description: Y corrdinate of bottom side of rectangle.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.operators/re/y/
 ---
 ## Re.Y property
-
-Y corrdinate of bottom side of rectangle.
 
 ```csharp
 public double Y { get; set; }

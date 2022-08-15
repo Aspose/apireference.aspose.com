@@ -1,14 +1,12 @@
 ---
 title: EndPrint
 second_title: Aspose.PDF for .NET API Reference
-description: Adds/removes subscription on the last page printing event.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf.facades/pdfviewer/endprint/
 ---
 ## PdfViewer.EndPrint event
-
-Adds/removes subscription on the last page printing event.
 
 ```csharp
 public event PrintEventHandler EndPrint;

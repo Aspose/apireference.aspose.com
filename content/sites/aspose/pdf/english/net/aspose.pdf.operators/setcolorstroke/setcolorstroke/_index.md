@@ -1,14 +1,14 @@
 ---
 title: SetColorStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes operator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
 ---
 ## SetColorStroke() {#constructor}
 
-Initializes operator.
+The default constructor.
 
 ```csharp
 public SetColorStroke()
@@ -24,15 +24,9 @@ public SetColorStroke()
 
 ## SetColorStroke(double) {#constructor_1}
 
-Set color for stroking operators for DeviceGrey, CalGrey and Indexed color spaces.
-
 ```csharp
 public SetColorStroke(double g)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| g | Double | Color value. |
 
 ### See Also
 
@@ -44,17 +38,9 @@ public SetColorStroke(double g)
 
 ## SetColorStroke(double, double, double) {#constructor_2}
 
-Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces
-
 ```csharp
 public SetColorStroke(double r, double g, double b)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| r | Double | Red component. |
-| g | Double | Green component. |
-| b | Double | Blue component. |
 
 ### See Also
 
@@ -66,15 +52,9 @@ public SetColorStroke(double r, double g, double b)
 
 ## SetColorStroke(double[]) {#constructor_4}
 
-Constructor which allows to set color components.
-
 ```csharp
 public SetColorStroke(double[] color)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | Double[] | Array of color components. |
 
 ### See Also
 
@@ -86,18 +66,9 @@ public SetColorStroke(double[] color)
 
 ## SetColorStroke(double, double, double, double) {#constructor_3}
 
-Set color for stroking operator for CMYK color space
-
 ```csharp
 public SetColorStroke(double c, double m, double y, double k)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | Double | cyan component. |
-| m | Double | Magenta component. |
-| y | Double | Yellow component. |
-| k | Double | Black component. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: AllowCopy
 second_title: Aspose.PDF for .NET API Reference
-description: Sets the permission which allow copy or not. true is allow and false is forbidden.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.facades/documentprivilege/allowcopy/
 ---
 ## DocumentPrivilege.AllowCopy property
-
-Sets the permission which allow copy or not. true is allow and false is forbidden.
 
 ```csharp
 public bool AllowCopy { get; set; }

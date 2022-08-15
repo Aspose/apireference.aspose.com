@@ -1,14 +1,12 @@
 ---
 title: Superscript
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets superscript of the text.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf.text/textstate/superscript/
 ---
 ## TextState.Superscript property
-
-Gets or sets superscript of the text.
 
 ```csharp
 public virtual bool Superscript { get; set; }

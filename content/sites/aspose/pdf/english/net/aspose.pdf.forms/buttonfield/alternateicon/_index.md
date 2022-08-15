@@ -1,14 +1,12 @@
 ---
 title: AlternateIcon
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets alternate icon which shall be displayed when the mouse button is pressed within its active area.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/buttonfield/alternateicon/
 ---
 ## ButtonField.AlternateIcon property
-
-Gets or sets alternate icon which shall be displayed when the mouse button is pressed within its active area.
 
 ```csharp
 public XForm AlternateIcon { get; set; }

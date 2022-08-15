@@ -1,14 +1,12 @@
 ---
 title: Border
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets annotation border characteristics. Borderaspose.pdf.annotations/annotation/border
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/annotation/border/
 ---
 ## Annotation.Border property
-
-Gets or sets annotation border characteristics. `Border`
 
 ```csharp
 public Border Border { get; set; }

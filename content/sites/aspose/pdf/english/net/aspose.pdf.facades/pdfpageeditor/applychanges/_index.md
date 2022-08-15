@@ -1,14 +1,12 @@
 ---
 title: ApplyChanges
 second_title: Aspose.PDF for .NET API Reference
-description: Apply changes made to the document pages.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.facades/pdfpageeditor/applychanges/
 ---
 ## PdfPageEditor.ApplyChanges method
-
-Apply changes made to the document pages.
 
 ```csharp
 public void ApplyChanges()

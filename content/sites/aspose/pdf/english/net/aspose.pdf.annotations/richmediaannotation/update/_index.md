@@ -1,14 +1,12 @@
 ---
 title: Update
 second_title: Aspose.PDF for .NET API Reference
-description: Updates data with specified parameters.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.annotations/richmediaannotation/update/
 ---
 ## RichMediaAnnotation.Update method
-
-Updates data with specified parameters.
 
 ```csharp
 public void Update()

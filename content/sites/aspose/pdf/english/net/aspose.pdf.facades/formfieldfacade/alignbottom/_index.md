@@ -1,14 +1,12 @@
 ---
 title: AlignBottom
 second_title: Aspose.PDF for .NET API Reference
-description: Defines vertical aglignment as bottom style.
+description: 
 type: docs
 weight: 210
 url: /net/aspose.pdf.facades/formfieldfacade/alignbottom/
 ---
 ## FormFieldFacade.AlignBottom field
-
-Defines vertical aglignment as bottom style.
 
 ```csharp
 public const int AlignBottom;

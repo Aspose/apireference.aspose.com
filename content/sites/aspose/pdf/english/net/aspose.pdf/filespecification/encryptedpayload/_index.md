@@ -1,14 +1,12 @@
 ---
 title: EncryptedPayload
 second_title: Aspose.PDF for .NET API Reference
-description: Gets encrypted payload.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/filespecification/encryptedpayload/
 ---
 ## FileSpecification.EncryptedPayload property
-
-Gets encrypted payload.
 
 ```csharp
 public EncryptedPayload EncryptedPayload { get; }

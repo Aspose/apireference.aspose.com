@@ -1,14 +1,12 @@
 ---
 title: Appearance
 second_title: Aspose.PDF for .NET API Reference
-description: Gets appearance dictionary of the annotation.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/annotation/appearance/
 ---
 ## Annotation.Appearance property
-
-Gets appearance dictionary of the annotation.
 
 ```csharp
 public AppearanceDictionary Appearance { get; }

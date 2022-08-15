@@ -1,14 +1,12 @@
 ---
 title: CompressionType
 second_title: Aspose.PDF for .NET API Reference
-description: Used to specify the parameter value passed to a Tiff image device.
+description: 
 type: docs
-weight: 1650
+weight: 1600
 url: /net/aspose.pdf.devices/compressiontype/
 ---
 ## CompressionType enumeration
-
-Used to specify the parameter value passed to a Tiff image device.
 
 ```csharp
 public enum CompressionType
@@ -18,11 +16,11 @@ public enum CompressionType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| LZW | `0` | Specifies the LZW compression scheme. Can be passed to the Tiff encoder as a parameter that belongs to the Compression category. |
-| CCITT4 | `1` | Specifies the CCITT4 compression scheme. Can be passed to the CCITT4 encoder as a parameter that belongs to the Compression category. |
-| CCITT3 | `2` | Specifies the CCITT3 compression scheme. Can be passed to the CCITT3 encoder as a parameter that belongs to the Compression category. |
-| RLE | `3` | Specifies the RLE compression scheme. Can be passed to the RLE encoder as a parameter that belongs to the Compression category. |
-| None | `4` | Specifies no compression. Can be passed to the Tiff encoder as a parameter that belongs to the compression category. |
+| LZW | `0` |  |
+| CCITT4 | `1` |  |
+| CCITT3 | `2` |  |
+| RLE | `3` |  |
+| None | `4` |  |
 
 ### See Also
 

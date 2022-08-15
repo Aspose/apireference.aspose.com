@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets count of annotations in collection.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/annotationcollection/count/
 ---
 ## AnnotationCollection.Count property
-
-Gets count of annotations in collection.
 
 ```csharp
 public int Count { get; }

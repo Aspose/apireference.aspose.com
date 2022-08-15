@@ -1,14 +1,12 @@
 ---
 title: Fields
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the list of fields.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/xmppdfaextensionvaluetype/fields/
 ---
 ## XmpPdfAExtensionValueType.Fields property
-
-Gets the list of fields.
 
 ```csharp
 public IList<XmpPdfAExtensionField> Fields { get; }

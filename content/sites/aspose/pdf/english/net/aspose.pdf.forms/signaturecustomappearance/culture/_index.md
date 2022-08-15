@@ -1,14 +1,12 @@
 ---
 title: Culture
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets culture info value. Default value InvariantCulture.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.forms/signaturecustomappearance/culture/
 ---
 ## SignatureCustomAppearance.Culture property
-
-Gets/sets culture info value. Default value: InvariantCulture.
 
 ```csharp
 public CultureInfo Culture { get; set; }

@@ -1,22 +1,16 @@
 ---
 title: Azure
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFF0FFFF.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/color/azure/
 ---
 ## Color.Azure property
 
-Gets a system-defined color that has an ARGB value of #FFF0FFFF.
-
 ```csharp
 public static Color Azure { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

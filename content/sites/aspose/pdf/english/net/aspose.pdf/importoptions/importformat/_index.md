@@ -1,14 +1,12 @@
 ---
 title: ImportFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Import format.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/importoptions/importformat/
 ---
 ## ImportOptions.ImportFormat property
-
-Import format.
 
 ```csharp
 public ImportFormat ImportFormat { get; }

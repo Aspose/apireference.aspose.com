@@ -1,14 +1,12 @@
 ---
 title: A5
 second_title: Aspose.PDF for .NET API Reference
-description: A5 size 210x148 mm.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/pagesize/a5/
 ---
 ## PageSize.A5 property
-
-A5 size (210x148 mm).
 
 ```csharp
 public static PageSize A5 { get; }

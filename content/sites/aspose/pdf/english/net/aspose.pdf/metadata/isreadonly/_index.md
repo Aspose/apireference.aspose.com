@@ -1,14 +1,12 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: Checks if collection is read-only.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/metadata/isreadonly/
 ---
 ## Metadata.IsReadOnly property
-
-Checks if collection is read-only.
 
 ```csharp
 public bool IsReadOnly { get; }

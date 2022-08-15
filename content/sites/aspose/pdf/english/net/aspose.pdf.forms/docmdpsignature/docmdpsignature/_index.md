@@ -1,23 +1,16 @@
 ---
 title: DocMDPSignature
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the DocMDPSignatureaspose.pdf.forms/docmdpsignature class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 ---
 ## DocMDPSignature constructor
 
-Initializes a new instance of the [`DocMDPSignature`](../../docmdpsignature) class.
-
 ```csharp
 public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermissions)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signature | Signature | The signature object that used during signing. |
-| accessPermissions | DocMDPAccessPermissions | The access permissions granted for this document. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: GlyphOrientationVertical
 second_title: Aspose.PDF for .NET API Reference
-description: GlyphOrientationVertical attribute Layout attribute owner.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf.logicalstructure/attributekey/glyphorientationvertical/
 ---
 ## AttributeKey.GlyphOrientationVertical field
-
-GlyphOrientationVertical attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey GlyphOrientationVertical;

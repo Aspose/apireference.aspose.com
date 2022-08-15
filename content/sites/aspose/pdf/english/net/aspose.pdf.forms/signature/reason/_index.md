@@ -1,14 +1,12 @@
 ---
 title: Reason
 second_title: Aspose.PDF for .NET API Reference
-description: The reason for the signing such as I agreeРІРВ.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.forms/signature/reason/
 ---
 ## Signature.Reason property
-
-The reason for the signing, such as (I agreeРІР‚В¦).
 
 ```csharp
 public string Reason { get; set; }

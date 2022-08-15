@@ -1,14 +1,12 @@
 ---
 title: AfterSaving
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets action that will be performed after document saving.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/documentactioncollection/aftersaving/
 ---
 ## DocumentActionCollection.AfterSaving property
-
-Gets or sets action that will be performed after document saving.
 
 ```csharp
 public PdfAction AfterSaving { get; set; }

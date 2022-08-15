@@ -1,22 +1,16 @@
 ---
 title: BackGroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the color of the back ground of view.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/pdf3dview/backgroundcolor/
 ---
 ## PDF3DView.BackGroundColor property
 
-Gets or sets the color of the back ground of view.
-
 ```csharp
 public Color BackGroundColor { get; set; }
 ```
-
-### Property Value
-
-The color of the back ground of view.
 
 ### See Also
 

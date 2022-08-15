@@ -1,14 +1,12 @@
 ---
 title: IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true if collection is synchronized.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/pdfxmpmetadata/issynchronized/
 ---
 ## PdfXmpMetadata.IsSynchronized property
-
-Returns true if collection is synchronized.
 
 ```csharp
 public bool IsSynchronized { get; }

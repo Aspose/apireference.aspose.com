@@ -1,14 +1,12 @@
 ---
 title: Broken
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets table vertial broken
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.logicalstructure/tableelement/broken/
 ---
 ## TableElement.Broken property
-
-Gets or sets table vertial broken;
 
 ```csharp
 public TableBroken Broken { get; set; }

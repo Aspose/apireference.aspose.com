@@ -1,14 +1,12 @@
 ---
 title: XIndent
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the X coordinate of the object
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/position/xindent/
 ---
 ## Position.XIndent property
-
-Gets the X coordinate of the object
 
 ```csharp
 public double XIndent { get; set; }

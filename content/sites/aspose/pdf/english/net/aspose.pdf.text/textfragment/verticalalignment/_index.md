@@ -1,14 +1,12 @@
 ---
 title: VerticalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a vertical alignment of text fragment.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.text/textfragment/verticalalignment/
 ---
 ## TextFragment.VerticalAlignment property
-
-Gets or sets a vertical alignment of text fragment.
 
 ```csharp
 public override VerticalAlignment VerticalAlignment { get; set; }

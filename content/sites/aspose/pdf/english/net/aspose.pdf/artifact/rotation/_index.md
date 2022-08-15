@@ -1,14 +1,12 @@
 ---
 title: Rotation
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets artifact rotation angle.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.pdf/artifact/rotation/
 ---
 ## Artifact.Rotation property
-
-Gets or sets artifact rotation angle.
 
 ```csharp
 public double Rotation { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Recover
 second_title: Aspose.PDF for .NET API Reference
-description: Recovers document. Use properties to customize.
+description: 
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.pdf.facades/pdffilesanitization/recover/
 ---
 ## PdfFileSanitization.Recover method
-
-Recovers document. Use properties to customize.
 
 ```csharp
 public void Recover()

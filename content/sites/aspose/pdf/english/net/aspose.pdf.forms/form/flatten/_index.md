@@ -1,14 +1,12 @@
 ---
 title: Flatten
 second_title: Aspose.PDF for .NET API Reference
-description: Removes all form fields and place their values directly on the page.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.pdf.forms/form/flatten/
 ---
 ## Form.Flatten method
-
-Removes all form fields and place their values directly on the page.
 
 ```csharp
 public void Flatten()

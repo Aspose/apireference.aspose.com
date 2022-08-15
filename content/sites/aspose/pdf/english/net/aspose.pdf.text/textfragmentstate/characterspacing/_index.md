@@ -1,14 +1,12 @@
 ---
 title: CharacterSpacing
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets character spacing of the text represented by the TextFragmentaspose.pdf.text/textfragment object.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/textfragmentstate/characterspacing/
 ---
 ## TextFragmentState.CharacterSpacing property
-
-Gets or sets character spacing of the text, represented by the [`TextFragment`](../../textfragment) object.
 
 ```csharp
 public override float CharacterSpacing { get; set; }

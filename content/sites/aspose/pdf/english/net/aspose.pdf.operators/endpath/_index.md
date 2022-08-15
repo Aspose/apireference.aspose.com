@@ -1,14 +1,12 @@
 ---
 title: EndPath
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing n operator end path without filling or stroking.
+description: 
 type: docs
-weight: 5140
+weight: 5090
 url: /net/aspose.pdf.operators/endpath/
 ---
 ## EndPath class
-
-Class representing n operator (end path without filling or stroking).
 
 ```csharp
 public class EndPath : Operator
@@ -18,20 +16,20 @@ public class EndPath : Operator
 
 | Name | Description |
 | --- | --- |
-| [EndPath](endpath)() | Initializes operator. |
+| [EndPath](endpath)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/endpath/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/endpath/tostring)() | Text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/endpath/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/endpath/tostring)() |  |
 
 ### See Also
 

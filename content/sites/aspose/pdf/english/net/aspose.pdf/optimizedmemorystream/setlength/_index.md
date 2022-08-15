@@ -1,22 +1,16 @@
 ---
 title: SetLength
 second_title: Aspose.PDF for .NET API Reference
-description: When overridden in a derived class sets the length of the current stream.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/optimizedmemorystream/setlength/
 ---
 ## OptimizedMemoryStream.SetLength method
 
-When overridden in a derived class, sets the length of the current stream.
-
 ```csharp
 public override void SetLength(long value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Int64 | The desired length of the current stream in bytes. |
 
 ### See Also
 

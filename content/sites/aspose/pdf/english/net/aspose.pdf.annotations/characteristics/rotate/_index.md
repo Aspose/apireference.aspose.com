@@ -1,14 +1,12 @@
 ---
 title: Rotate
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets rotation of the annotation.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/characteristics/rotate/
 ---
 ## Characteristics.Rotate property
-
-Gets or sets rotation of the annotation.
 
 ```csharp
 public Rotation Rotate { get; set; }

@@ -1,22 +1,16 @@
 ---
 title: SetXmpMetadata
 second_title: Aspose.PDF for .NET API Reference
-description: Set XMP metadata of document.
+description: 
 type: docs
 weight: 760
 url: /net/aspose.pdf/document/setxmpmetadata/
 ---
 ## Document.SetXmpMetadata method
 
-Set XMP metadata of document.
-
 ```csharp
 public void SetXmpMetadata(Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream which contains XMP metadata. |
 
 ### See Also
 

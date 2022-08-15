@@ -1,14 +1,12 @@
 ---
 title: HasNext
 second_title: Aspose.PDF for .NET API Reference
-description: Check if outline item representing next item relatively this item in the outline hierarchy.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/outlineitemcollection/hasnext/
 ---
 ## OutlineItemCollection.HasNext property
-
-Check if outline item representing next item relatively this item in the outline hierarchy.
 
 ```csharp
 public bool HasNext { get; }

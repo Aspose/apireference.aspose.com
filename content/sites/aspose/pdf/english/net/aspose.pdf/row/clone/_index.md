@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: Clone the row.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/row/clone/
 ---
 ## Row.Clone method
 
-Clone the row.
-
 ```csharp
 public object Clone()
 ```
-
-### Return Value
-
-The cloned object
 
 ### See Also
 

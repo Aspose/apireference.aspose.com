@@ -1,14 +1,12 @@
 ---
 title: Close
 second_title: Aspose.PDF for .NET API Reference
-description: Disposes Aspose.Pdf.Document bound with a facade.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/facade/close/
 ---
 ## Facade.Close method
-
-Disposes Aspose.Pdf.Document bound with a facade.
 
 ```csharp
 public virtual void Close()

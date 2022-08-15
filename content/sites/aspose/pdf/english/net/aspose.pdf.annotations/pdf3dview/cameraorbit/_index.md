@@ -1,22 +1,16 @@
 ---
 title: CameraOrbit
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the camera orbit of view.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/pdf3dview/cameraorbit/
 ---
 ## PDF3DView.CameraOrbit property
 
-Gets or sets the camera orbit of view.
-
 ```csharp
 public double CameraOrbit { get; set; }
 ```
-
-### Property Value
-
-The camera orbit of view.
 
 ### See Also
 

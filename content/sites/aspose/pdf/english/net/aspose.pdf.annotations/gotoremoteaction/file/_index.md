@@ -1,14 +1,12 @@
 ---
 title: File
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the specification of the file in which the destination is located.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/gotoremoteaction/file/
 ---
 ## GoToRemoteAction.File property
-
-Gets or sets the specification of the file in which the destination is located.
 
 ```csharp
 public FileSpecification File { get; set; }

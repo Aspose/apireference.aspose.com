@@ -1,14 +1,12 @@
 ---
 title: X
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets horizontal image resolution.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.devices/resolution/x/
 ---
 ## Resolution.X property
-
-Gets or sets horizontal image resolution.
 
 ```csharp
 public int X { get; set; }

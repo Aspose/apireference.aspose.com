@@ -1,14 +1,12 @@
 ---
 title: ArtifactVerticalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Vertical alignment of artifact. If position is specified explicitly in Position property this value is ignored.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/artifact/artifactverticalalignment/
 ---
 ## Artifact.ArtifactVerticalAlignment property
-
-Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 ```csharp
 public VerticalAlignment ArtifactVerticalAlignment { get; set; }

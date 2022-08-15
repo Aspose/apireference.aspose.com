@@ -1,14 +1,12 @@
 ---
 title: NotAccessibleFonts
 second_title: Aspose.PDF for .NET API Reference
-description: This property is out-property. It holds all the fontsfont names which were not found on computer at last PDF/A conversion.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf/pdfformatconversionoptions/notaccessiblefonts/
 ---
 ## PdfFormatConversionOptions.NotAccessibleFonts property
-
-This property is out-property. It holds all the fonts(font names) which were not found on computer at last PDF/A conversion.
 
 ```csharp
 public string[] NotAccessibleFonts { get; }

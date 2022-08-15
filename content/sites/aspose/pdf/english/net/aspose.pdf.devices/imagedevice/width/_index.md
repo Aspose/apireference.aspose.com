@@ -1,14 +1,12 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: Gets image output width.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.devices/imagedevice/width/
 ---
 ## ImageDevice.Width property
-
-Gets image output width.
 
 ```csharp
 public int Width { get; }

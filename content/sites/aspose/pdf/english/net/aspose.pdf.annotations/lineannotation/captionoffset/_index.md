@@ -1,14 +1,12 @@
 ---
 title: CaptionOffset
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets caption text offset from its normal position.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/lineannotation/captionoffset/
 ---
 ## LineAnnotation.CaptionOffset property
-
-Gets or sets caption text offset from its normal position.
 
 ```csharp
 public Point CaptionOffset { get; set; }

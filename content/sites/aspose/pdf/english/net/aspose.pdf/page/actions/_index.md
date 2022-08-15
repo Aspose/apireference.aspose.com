@@ -1,14 +1,12 @@
 ---
 title: Actions
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collection of page properties.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/page/actions/
 ---
 ## Page.Actions property
-
-Gets collection of page properties.
 
 ```csharp
 public PageActionCollection Actions { get; }

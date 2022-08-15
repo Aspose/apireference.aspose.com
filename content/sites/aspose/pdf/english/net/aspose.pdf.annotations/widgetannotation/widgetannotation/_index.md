@@ -1,22 +1,16 @@
 ---
 title: WidgetAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Create annotation used for Generator
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/widgetannotation/widgetannotation/
 ---
 ## WidgetAnnotation constructor
 
-Create annotation (used for Generator)
-
 ```csharp
 public WidgetAnnotation(Document doc)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where annotation will be created. |
 
 ### See Also
 

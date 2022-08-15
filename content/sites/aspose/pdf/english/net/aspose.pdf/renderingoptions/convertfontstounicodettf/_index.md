@@ -1,14 +1,12 @@
 ---
 title: ConvertFontsToUnicodeTTF
 second_title: Aspose.PDF for .NET API Reference
-description: Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage cause every new TTF font will have not all the symbols from source font but only symbols which are used in text.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/renderingoptions/convertfontstounicodettf/
 ---
 ## RenderingOptions.ConvertFontsToUnicodeTTF property
-
-Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage, cause every new TTF font will have not all the symbols from source font, but only symbols which are used in text.
 
 ```csharp
 public bool ConvertFontsToUnicodeTTF { get; set; }

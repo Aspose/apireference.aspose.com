@@ -1,26 +1,16 @@
 ---
 title: FindByName
 second_title: Aspose.PDF for .NET API Reference
-description: Returns annotation by its name.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.annotations/annotationcollection/findbyname/
 ---
 ## AnnotationCollection.FindByName method
 
-Returns annotation by its name.
-
 ```csharp
 public Annotation FindByName(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | Name of the annotation |
-
-### Return Value
-
-Annotation object if found; otherwise, null.
 
 ### See Also
 

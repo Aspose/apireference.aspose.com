@@ -1,14 +1,12 @@
 ---
 title: PosX
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the x-coordinate of the center of the circle.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.drawing/circle/posx/
 ---
 ## Circle.PosX property
-
-Gets or sets a float value that indicates the x-coordinate of the center of the circle.
 
 ```csharp
 public double PosX { get; set; }

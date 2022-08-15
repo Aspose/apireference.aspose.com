@@ -1,14 +1,12 @@
 ---
 title: PlatformSpecificId
 second_title: Aspose.PDF for .NET API Reference
-description: Platform-specific encoding identifier for encoding subtable
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId property
-
-Platform-specific encoding identifier for encoding subtable
 
 ```csharp
 public ushort PlatformSpecificId { get; set; }

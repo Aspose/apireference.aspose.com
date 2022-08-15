@@ -1,14 +1,12 @@
 ---
 title: ClearId
 second_title: Aspose.PDF for .NET API Reference
-description: Clear ID for structure element.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.logicalstructure/structureelement/clearid/
 ---
 ## StructureElement.ClearId method
-
-Clear ID for structure element.
 
 ```csharp
 public void ClearId()

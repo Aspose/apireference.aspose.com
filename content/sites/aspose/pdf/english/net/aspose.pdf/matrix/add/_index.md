@@ -1,26 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds matrix to other matrix.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/matrix/add/
 ---
 ## Matrix.Add method
 
-Adds matrix to other matrix.
-
 ```csharp
 public Matrix Add(Matrix other)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | Matrix | Matrix to be added. |
-
-### Return Value
-
-Result of matrix add.
 
 ### See Also
 

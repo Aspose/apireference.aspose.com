@@ -1,14 +1,12 @@
 ---
 title: TextSearchOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets text search options.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/pdfextractor/textsearchoptions/
 ---
 ## PdfExtractor.TextSearchOptions property
-
-Gets or sets text search options.
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }

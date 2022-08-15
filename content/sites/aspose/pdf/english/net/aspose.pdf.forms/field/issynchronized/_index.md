@@ -1,14 +1,12 @@
 ---
 title: IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true if dictionary is synchronized.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.forms/field/issynchronized/
 ---
 ## Field.IsSynchronized property
-
-Returns true if dictionary is synchronized.
 
 ```csharp
 public bool IsSynchronized { get; }

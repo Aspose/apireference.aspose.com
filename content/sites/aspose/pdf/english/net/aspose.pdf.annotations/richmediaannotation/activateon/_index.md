@@ -1,14 +1,12 @@
 ---
 title: ActivateOn
 second_title: Aspose.PDF for .NET API Reference
-description: Event which activates application.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/richmediaannotation/activateon/
 ---
 ## RichMediaAnnotation.ActivateOn property
-
-Event which activates application.
 
 ```csharp
 public ActivationEvent ActivateOn { get; set; }

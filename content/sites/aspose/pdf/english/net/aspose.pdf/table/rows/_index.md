@@ -1,14 +1,12 @@
 ---
 title: Rows
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the rows of the table.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf/table/rows/
 ---
 ## Table.Rows property
-
-Gets the rows of the table.
 
 ```csharp
 public Rows Rows { get; }

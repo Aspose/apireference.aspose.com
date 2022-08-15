@@ -1,14 +1,14 @@
 ---
 title: OptimizedMemoryStream
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the OptimizedMemoryStreamaspose.pdf/optimizedmemorystream class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
 ---
 ## OptimizedMemoryStream() {#constructor}
 
-Initializes a new instance of the [`OptimizedMemoryStream`](../../optimizedmemorystream) class.
+The default constructor.
 
 ```csharp
 public OptimizedMemoryStream()
@@ -24,16 +24,9 @@ public OptimizedMemoryStream()
 
 ## OptimizedMemoryStream(int, byte[]) {#constructor_3}
 
-Initializes a new instance of the [`OptimizedMemoryStream`](../../optimizedmemorystream) class based on the specified byte array.
-
 ```csharp
 public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bufferSize | Int32 | Size of the underlying buffers. |
-| buffer | Byte[] | The array of unsigned bytes from which to create the current stream. |
 
 ### See Also
 
@@ -45,15 +38,9 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 
 ## OptimizedMemoryStream(int) {#constructor_2}
 
-Initializes a new instance of the [`OptimizedMemoryStream`](../../optimizedmemorystream) class.
-
 ```csharp
 public OptimizedMemoryStream(int bufferSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bufferSize | Int32 | Size of the underlying buffers. |
 
 ### See Also
 
@@ -65,15 +52,9 @@ public OptimizedMemoryStream(int bufferSize)
 
 ## OptimizedMemoryStream(byte[]) {#constructor_1}
 
-Initializes a new instance of the [`OptimizedMemoryStream`](../../optimizedmemorystream) class based on the specified byte array.
-
 ```csharp
 public OptimizedMemoryStream(byte[] buffer)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | Byte[] | The array of unsigned bytes from which to create the current stream. |
 
 ### See Also
 

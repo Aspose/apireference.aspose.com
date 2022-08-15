@@ -1,22 +1,16 @@
 ---
 title: Linen
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFAF0E6.
+description: 
 type: docs
 weight: 800
 url: /net/aspose.pdf/color/linen/
 ---
 ## Color.Linen property
 
-Gets a system-defined color that has an ARGB value of #FFFAF0E6.
-
 ```csharp
 public static Color Linen { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

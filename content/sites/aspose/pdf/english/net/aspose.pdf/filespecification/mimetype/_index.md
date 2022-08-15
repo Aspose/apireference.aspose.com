@@ -1,14 +1,12 @@
 ---
 title: MIMEType
 second_title: Aspose.PDF for .NET API Reference
-description: Gets subtype of the embedded file
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/filespecification/mimetype/
 ---
 ## FileSpecification.MIMEType property
-
-Gets subtype of the embedded file
 
 ```csharp
 public string MIMEType { get; set; }

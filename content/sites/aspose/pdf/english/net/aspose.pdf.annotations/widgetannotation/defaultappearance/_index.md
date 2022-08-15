@@ -1,14 +1,12 @@
 ---
 title: DefaultAppearance
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets default appearance of the field.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/widgetannotation/defaultappearance/
 ---
 ## WidgetAnnotation.DefaultAppearance property
-
-Gets or sets default appearance of the field.
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }

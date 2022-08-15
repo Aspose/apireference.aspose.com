@@ -1,14 +1,12 @@
 ---
 title: Subject
 second_title: Aspose.PDF for .NET API Reference
-description: Gets text representing desciption of the object.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/markupannotation/subject/
 ---
 ## MarkupAnnotation.Subject property
-
-Gets text representing desciption of the object.
 
 ```csharp
 public string Subject { get; set; }

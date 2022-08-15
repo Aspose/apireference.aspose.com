@@ -1,14 +1,12 @@
 ---
 title: LettersPositioningMethod
 second_title: Aspose.PDF for .NET API Reference
-description: Sets mode of positioning of letters in words in result HTML
+description: 
 type: docs
 weight: 300
 url: /net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/
 ---
 ## HtmlSaveOptions.LettersPositioningMethod field
-
-Sets mode of positioning of letters in words in result HTML
 
 ```csharp
 public LettersPositioningMethods LettersPositioningMethod;

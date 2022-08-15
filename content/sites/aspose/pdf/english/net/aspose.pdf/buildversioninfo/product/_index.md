@@ -1,14 +1,12 @@
 ---
 title: Product
 second_title: Aspose.PDF for .NET API Reference
-description: Product Name
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/buildversioninfo/product/
 ---
 ## BuildVersionInfo.Product field
-
-Product Name
 
 ```csharp
 public const string Product;

@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: Dispose contents.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf/filespecification/dispose/
 ---
 ## FileSpecification.Dispose method
-
-Dispose contents.
 
 ```csharp
 public void Dispose()

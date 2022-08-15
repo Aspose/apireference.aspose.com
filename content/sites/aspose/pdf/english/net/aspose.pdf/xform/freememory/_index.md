@@ -1,14 +1,12 @@
 ---
 title: FreeMemory
 second_title: Aspose.PDF for .NET API Reference
-description: Clears cached data
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/xform/freememory/
 ---
 ## XForm.FreeMemory method
-
-Clears cached data
 
 ```csharp
 public void FreeMemory()

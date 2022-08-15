@@ -1,14 +1,12 @@
 ---
 title: BorderStyle_Dotted
 second_title: Aspose.PDF for .NET API Reference
-description: Attribute BorderStyle Dotted - The border is a series of dots.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.logicalstructure/attributename/borderstyle_dotted/
 ---
 ## AttributeName.BorderStyle_Dotted field
-
-Attribute BorderStyle: Dotted - The border is a series of dots.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Dotted;

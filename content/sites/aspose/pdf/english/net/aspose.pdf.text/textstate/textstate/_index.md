@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API Reference
-description: Creates text state object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/textstate/textstate/
 ---
 ## TextState() {#constructor}
 
-Creates text state object.
+The default constructor.
 
 ```csharp
 public TextState()
@@ -24,15 +24,9 @@ public TextState()
 
 ## TextState(double) {#constructor_1}
 
-Creates text state object with font size specification.
-
 ```csharp
 public TextState(double fontSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | Double | Font size. |
 
 ### See Also
 
@@ -44,15 +38,9 @@ public TextState(double fontSize)
 
 ## TextState(Color) {#constructor_2}
 
-Creates text state object with foreground color specification.
-
 ```csharp
 public TextState(Color foregroundColor)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| foregroundColor | Color | Foreground color. |
 
 ### See Also
 
@@ -64,16 +52,9 @@ public TextState(Color foregroundColor)
 
 ## TextState(Color, double) {#constructor_3}
 
-Creates text state object with foreground color and font size specification.
-
 ```csharp
 public TextState(Color foregroundColor, double fontSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| foregroundColor | Color | Foreground color. |
-| fontSize | Double | Font size. |
 
 ### See Also
 
@@ -85,15 +66,9 @@ public TextState(Color foregroundColor, double fontSize)
 
 ## TextState(string) {#constructor_4}
 
-Creates text state object with font family specification.
-
 ```csharp
 public TextState(string fontFamily)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontFamily | String | Font family. |
 
 ### See Also
 
@@ -105,17 +80,9 @@ public TextState(string fontFamily)
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-Creates text state object with font family and font style specification.
-
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontFamily | String | Font family. |
-| bold | Boolean | Bold font style. |
-| italic | Boolean | Italic font style. |
 
 ### See Also
 
@@ -127,16 +94,9 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 ## TextState(string, double) {#constructor_6}
 
-Creates text state object with font family and font size specification.
-
 ```csharp
 public TextState(string fontFamily, double fontSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontFamily | String | Font family. |
-| fontSize | Double | Font size. |
 
 ### See Also
 

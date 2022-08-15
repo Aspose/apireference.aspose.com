@@ -1,14 +1,14 @@
 ---
 title: BlockTextOperator
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes operator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/blocktextoperator/blocktextoperator/
 ---
 ## BlockTextOperator() {#constructor}
 
-Initializes operator.
+The default constructor.
 
 ```csharp
 public BlockTextOperator()
@@ -24,15 +24,9 @@ public BlockTextOperator()
 
 ## BlockTextOperator(TextProperties) {#constructor_1}
 
-Initializes BlockTextOperator which accepts TextProperties.
-
 ```csharp
 public BlockTextOperator(TextProperties textProperties)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textProperties | TextProperties | Text properties. |
 
 ### See Also
 

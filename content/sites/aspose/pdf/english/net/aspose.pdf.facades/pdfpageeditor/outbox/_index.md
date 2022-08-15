@@ -1,14 +1,12 @@
 ---
 title: OUTBOX
 second_title: Aspose.PDF for .NET API Reference
-description: Outward Box
+description: 
 type: docs
 weight: 270
 url: /net/aspose.pdf.facades/pdfpageeditor/outbox/
 ---
 ## PdfPageEditor.OUTBOX field
-
-Outward Box
 
 ```csharp
 public const int OUTBOX;

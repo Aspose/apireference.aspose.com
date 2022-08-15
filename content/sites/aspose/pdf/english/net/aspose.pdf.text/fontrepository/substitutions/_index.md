@@ -1,14 +1,12 @@
 ---
 title: Substitutions
 second_title: Aspose.PDF for .NET API Reference
-description: Gets font substitution strategies collection.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/fontrepository/substitutions/
 ---
 ## FontRepository.Substitutions property
-
-Gets font substitution strategies collection.
 
 ```csharp
 public static FontSubstitutionCollection Substitutions { get; }

@@ -1,14 +1,12 @@
 ---
 title: IsTrivial
 second_title: Aspose.PDF for .NET API Reference
-description: Checks if rectangle is trivial i.e. has zero size and position.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/rectangle/istrivial/
 ---
 ## Rectangle.IsTrivial property
-
-Checks if rectangle is trivial i.e. has zero size and position.
 
 ```csharp
 public bool IsTrivial { get; }

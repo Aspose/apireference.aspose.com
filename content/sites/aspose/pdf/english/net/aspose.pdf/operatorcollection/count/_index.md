@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets count of operators in the collection.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/operatorcollection/count/
 ---
 ## OperatorCollection.Count property
-
-Gets count of operators in the collection.
 
 ```csharp
 public override int Count { get; }

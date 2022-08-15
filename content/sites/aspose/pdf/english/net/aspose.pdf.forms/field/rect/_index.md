@@ -1,14 +1,12 @@
 ---
 title: Rect
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the field rectangle.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.forms/field/rect/
 ---
 ## Field.Rect property
-
-Gets or sets the field rectangle.
 
 ```csharp
 public override Rectangle Rect { get; set; }

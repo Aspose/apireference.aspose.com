@@ -1,14 +1,12 @@
 ---
 title: VCornerRadius
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets vertical corner radius.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/border/vcornerradius/
 ---
 ## Border.VCornerRadius property
-
-Gets or sets vertical corner radius.
 
 ```csharp
 public double VCornerRadius { get; set; }

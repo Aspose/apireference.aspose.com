@@ -1,14 +1,12 @@
 ---
 title: Repair
 second_title: Aspose.PDF for .NET API Reference
-description: Repairs broken document.
+description: 
 type: docs
 weight: 710
 url: /net/aspose.pdf/document/repair/
 ---
 ## Document.Repair method
-
-Repairs broken document.
 
 ```csharp
 public void Repair()

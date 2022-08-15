@@ -1,14 +1,12 @@
 ---
 title: BBox
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets form bounding box.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/xform/bbox/
 ---
 ## XForm.BBox property
-
-Gets or sets form bounding box.
 
 ```csharp
 public Rectangle BBox { get; set; }

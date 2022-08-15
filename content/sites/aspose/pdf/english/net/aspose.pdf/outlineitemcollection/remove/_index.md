@@ -1,26 +1,16 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API Reference
-description: Remove outline collection item.
+description: 
 type: docs
 weight: 290
 url: /net/aspose.pdf/outlineitemcollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-Remove outline collection item.
-
 ```csharp
 public override bool Remove(OutlineItemCollection item)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | OutlineItemCollection | Item to delete. |
-
-### Return Value
-
-True - if item removed; otherwise, false.
 
 ### See Also
 
@@ -32,15 +22,9 @@ True - if item removed; otherwise, false.
 
 ## Remove(int) {#remove_1}
 
-Remove item by index.
-
 ```csharp
 public void Remove(int index)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of item to be deleted. |
 
 ### See Also
 

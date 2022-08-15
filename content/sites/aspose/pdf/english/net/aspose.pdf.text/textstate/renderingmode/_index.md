@@ -1,14 +1,12 @@
 ---
 title: RenderingMode
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets rendering mode of text.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.text/textstate/renderingmode/
 ---
 ## TextState.RenderingMode property
-
-Gets or sets rendering mode of text.
 
 ```csharp
 public virtual TextRenderingMode RenderingMode { get; set; }

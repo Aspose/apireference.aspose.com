@@ -1,14 +1,12 @@
 ---
 title: Matrix
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets matrix of the form.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/xform/matrix/
 ---
 ## XForm.Matrix property
-
-Gets or sets matrix of the form.
 
 ```csharp
 public Matrix Matrix { get; set; }

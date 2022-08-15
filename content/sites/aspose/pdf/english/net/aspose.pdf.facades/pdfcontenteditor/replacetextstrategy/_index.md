@@ -1,14 +1,12 @@
 ---
 title: ReplaceTextStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: A set of parameters for replace text operation
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/pdfcontenteditor/replacetextstrategy/
 ---
 ## PdfContentEditor.ReplaceTextStrategy property
-
-A set of parameters for replace text operation
 
 ```csharp
 public ReplaceTextStrategy ReplaceTextStrategy { get; set; }

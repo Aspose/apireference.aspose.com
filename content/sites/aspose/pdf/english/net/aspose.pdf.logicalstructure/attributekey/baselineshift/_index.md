@@ -1,14 +1,12 @@
 ---
 title: BaselineShift
 second_title: Aspose.PDF for .NET API Reference
-description: BaselineShift attribute Layout attribute owner.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.logicalstructure/attributekey/baselineshift/
 ---
 ## AttributeKey.BaselineShift field
-
-BaselineShift attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey BaselineShift;

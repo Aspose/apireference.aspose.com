@@ -1,14 +1,12 @@
 ---
 title: IsNoBorder
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the cell have border.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/cell/isnoborder/
 ---
 ## Cell.IsNoBorder property
-
-Gets or sets the cell have border.
 
 ```csharp
 public bool IsNoBorder { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: RubyPosition
 second_title: Aspose.PDF for .NET API Reference
-description: RubyPosition attribute Layout attribute owner.
+description: 
 type: docs
 weight: 270
 url: /net/aspose.pdf.logicalstructure/attributekey/rubyposition/
 ---
 ## AttributeKey.RubyPosition field
-
-RubyPosition attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey RubyPosition;

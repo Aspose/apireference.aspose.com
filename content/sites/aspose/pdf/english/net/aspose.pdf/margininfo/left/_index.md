@@ -1,14 +1,12 @@
 ---
 title: Left
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the left margin.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/margininfo/left/
 ---
 ## MarginInfo.Left property
-
-Gets or sets a float value that indicates the left margin.
 
 ```csharp
 public double Left { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: SPLITVOUT
 second_title: Aspose.PDF for .NET API Reference
-description: Out Vertical Split
+description: 
 type: docs
 weight: 320
 url: /net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
 ## PdfPageEditor.SPLITVOUT field
-
-Out Vertical Split
 
 ```csharp
 public const int SPLITVOUT;

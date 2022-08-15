@@ -1,14 +1,12 @@
 ---
 title: EncodingType
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates encoding types of the text using.
+description: 
 type: docs
-weight: 2250
+weight: 2200
 url: /net/aspose.pdf.facades/encodingtype/
 ---
 ## EncodingType enumeration
-
-Enumerates encoding types of the text using.
 
 ```csharp
 public enum EncodingType
@@ -18,13 +16,13 @@ public enum EncodingType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Identity_h | `0` | The Unicode encoding with horizontal writing. |
-| Identity_v | `1` | The Unicode encoding with vertical writing. |
-| Cp1250 | `2` | A windows text encoding name. |
-| Cp1252 | `3` | A windows text encoding name. |
-| Cp1257 | `4` | A windows text encoding name. |
-| Winansi | `5` | Windows ansi encoding. |
-| Macroman | `6` | Mac os standard encoding for Latin text. |
+| Identity_h | `0` |  |
+| Identity_v | `1` |  |
+| Cp1250 | `2` |  |
+| Cp1252 | `3` |  |
+| Cp1257 | `4` |  |
+| Winansi | `5` |  |
+| Macroman | `6` |  |
 
 ### See Also
 

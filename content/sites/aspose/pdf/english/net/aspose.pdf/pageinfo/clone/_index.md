@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: Clone page info.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/pageinfo/clone/
 ---
 ## PageInfo.Clone method
 
-Clone page info.
-
 ```csharp
 public object Clone()
 ```
-
-### Return Value
-
-The cloned object
 
 ### See Also
 

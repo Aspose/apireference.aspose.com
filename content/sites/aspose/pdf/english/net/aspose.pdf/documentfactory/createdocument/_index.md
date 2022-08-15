@@ -1,27 +1,16 @@
 ---
 title: CreateDocument
 second_title: Aspose.PDF for .NET API Reference
-description: Create document.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/documentfactory/createdocument/
 ---
 ## CreateDocument(Stream, LoadOptions) {#createdocument_2}
 
-Create document.
-
 ```csharp
 public Document CreateDocument(Stream input, LoadOptions options)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Input stream. |
-| options | LoadOptions | Document load options. |
-
-### Return Value
-
-Created document.
 
 ### See Also
 
@@ -35,15 +24,9 @@ Created document.
 
 ## CreateDocument() {#createdocument}
 
-Create empty document.
-
 ```csharp
 public Document CreateDocument()
 ```
-
-### Return Value
-
-Created document.
 
 ### See Also
 
@@ -56,19 +39,9 @@ Created document.
 
 ## CreateDocument(Stream) {#createdocument_1}
 
-Load document from a stream.
-
 ```csharp
 public Document CreateDocument(Stream input)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Input stream. |
-
-### Return Value
-
-Created document.
 
 ### See Also
 
@@ -81,20 +54,9 @@ Created document.
 
 ## CreateDocument(Stream, string) {#createdocument_3}
 
-Load password protected document from a stream.
-
 ```csharp
 public Document CreateDocument(Stream input, string password)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Source stream. |
-| password | String | Passowrd for access to document. |
-
-### Return Value
-
-Created document.
 
 ### See Also
 
@@ -107,19 +69,9 @@ Created document.
 
 ## CreateDocument(string) {#createdocument_4}
 
-Load document from a file.
-
 ```csharp
 public Document CreateDocument(string fileName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fileName | String | Name of PDF file. |
-
-### Return Value
-
-Created document.
 
 ### See Also
 

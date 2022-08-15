@@ -1,31 +1,15 @@
 ---
 title: Rotation
 second_title: Aspose.PDF for .NET API Reference
-description: Creates matrix for given rotation angle.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/matrix/rotation/
 ---
 ## Rotation(double) {#rotation_1}
 
-Creates matrix for given rotation angle.
-
 ```csharp
 public static Matrix Rotation(double alpha)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| alpha | Double | Rotation angle in radians. |
-
-### Return Value
-
-Transformation matrix.
-
-### Examples
-
-```csharp
-Matrix m = Matrix.Rotation(Math.PI / 2);
 ```
 
 ### See Also
@@ -38,19 +22,9 @@ Matrix m = Matrix.Rotation(Math.PI / 2);
 
 ## Rotation(Rotation) {#rotation}
 
-Creates matrix for given rotation.
-
 ```csharp
 public static Matrix Rotation(Rotation rotation)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rotation | Rotation | Rotation. Valid values are: None, on90, on180, on270 |
-
-### Return Value
-
-Matrix with rotation.
 
 ### See Also
 

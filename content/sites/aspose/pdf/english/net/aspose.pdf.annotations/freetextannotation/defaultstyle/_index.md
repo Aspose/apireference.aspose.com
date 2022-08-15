@@ -1,14 +1,12 @@
 ---
 title: DefaultStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a default style string.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/freetextannotation/defaultstyle/
 ---
 ## FreeTextAnnotation.DefaultStyle property
-
-Gets or sets a default style string.
 
 ```csharp
 public string DefaultStyle { get; set; }

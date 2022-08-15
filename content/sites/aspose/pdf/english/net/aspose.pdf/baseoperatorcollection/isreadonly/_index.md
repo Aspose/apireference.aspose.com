@@ -1,14 +1,12 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true if collection is read only.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/baseoperatorcollection/isreadonly/
 ---
 ## BaseOperatorCollection.IsReadOnly property
-
-Returns true if collection is read only.
 
 ```csharp
 public abstract bool IsReadOnly { get; }

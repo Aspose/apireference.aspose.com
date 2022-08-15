@@ -1,14 +1,12 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets width of the line.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/setlinewidth/width/
 ---
 ## SetLineWidth.Width property
-
-Gets or sets width of the line.
 
 ```csharp
 public double Width { get; set; }

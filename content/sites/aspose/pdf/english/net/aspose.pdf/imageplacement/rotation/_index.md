@@ -1,14 +1,12 @@
 ---
 title: Rotation
 second_title: Aspose.PDF for .NET API Reference
-description: Gets rotation angle of the Image.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/imageplacement/rotation/
 ---
 ## ImagePlacement.Rotation property
-
-Gets rotation angle of the Image.
 
 ```csharp
 public float Rotation { get; }

@@ -1,14 +1,12 @@
 ---
 title: ConversionLog
 second_title: Aspose.PDF for .NET API Reference
-description: Gets log of conversion process.
+description: 
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.pdf.facades/pdffileeditor/conversionlog/
 ---
 ## PdfFileEditor.ConversionLog property
-
-Gets log of conversion process.
 
 ```csharp
 public string ConversionLog { get; }

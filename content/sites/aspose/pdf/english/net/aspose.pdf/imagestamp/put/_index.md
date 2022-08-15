@@ -1,22 +1,16 @@
 ---
 title: Put
 second_title: Aspose.PDF for .NET API Reference
-description: Adds graphic stamp on the page.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/imagestamp/put/
 ---
 ## ImageStamp.Put method
 
-Adds graphic stamp on the page.
-
 ```csharp
 public override void Put(Page page)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page for stamping. |
 
 ### See Also
 

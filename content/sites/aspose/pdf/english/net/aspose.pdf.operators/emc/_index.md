@@ -1,14 +1,12 @@
 ---
 title: EMC
 second_title: Aspose.PDF for .NET API Reference
-description: Clsss representing EMC oeprator End of marked-content sequence.
+description: 
 type: docs
-weight: 5080
+weight: 5030
 url: /net/aspose.pdf.operators/emc/
 ---
 ## EMC class
-
-Clsss representing EMC oeprator (End of marked-content sequence).
 
 ```csharp
 public class EMC : Operator
@@ -18,20 +16,20 @@ public class EMC : Operator
 
 | Name | Description |
 | --- | --- |
-| [EMC](emc)() | Initializes operator. |
+| [EMC](emc)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/emc/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/emc/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/emc/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/emc/tostring)() |  |
 
 ### See Also
 

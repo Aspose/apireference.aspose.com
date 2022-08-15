@@ -1,14 +1,14 @@
 ---
 title: NumberField
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the NumberFieldaspose.pdf.forms/numberfield class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/numberfield/numberfield/
 ---
 ## NumberField() {#constructor}
 
-Initializes a new instance of the [`NumberField`](../../numberfield) class.
+The default constructor.
 
 ```csharp
 public NumberField()
@@ -24,16 +24,9 @@ public NumberField()
 
 ## NumberField(Page, Rectangle) {#constructor_2}
 
-Initializes a new instance of the [`NumberField`](../../numberfield) class.
-
 ```csharp
 public NumberField(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where text field is placed. |
-| rect | Rectangle | Rectangle where the field will be placed on the page. |
 
 ### See Also
 
@@ -47,16 +40,9 @@ public NumberField(Page page, Rectangle rect)
 
 ## NumberField(Document, Rectangle) {#constructor_1}
 
-Initializes a new instance of the [`NumberField`](../../numberfield) class.
-
 ```csharp
 public NumberField(Document doc, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where field will be created. |
-| rect | Rectangle | Rectangle of the field. |
 
 ### See Also
 

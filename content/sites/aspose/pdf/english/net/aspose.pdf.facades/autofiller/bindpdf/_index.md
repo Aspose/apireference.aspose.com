@@ -1,22 +1,16 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF for .NET API Reference
-description: Binds a Pdf file.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/autofiller/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Binds a Pdf file.
-
 ```csharp
 public void BindPdf(string srcFile)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcFile | String | Pdf file name. |
 
 ### See Also
 
@@ -28,15 +22,9 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Binds a Pdf file.
-
 ```csharp
 public void BindPdf(Stream srcStream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcStream | Stream | Pdf file stream. |
 
 ### See Also
 
@@ -48,15 +36,9 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-Binds a Pdf document.
-
 ```csharp
 public void BindPdf(Document srcDoc)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcDoc | Document | Pdf document. |
 
 ### See Also
 

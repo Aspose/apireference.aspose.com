@@ -1,14 +1,12 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: Gets if collection is readonly. Always returns false.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/artifactcollection/isreadonly/
 ---
 ## ArtifactCollection.IsReadOnly property
-
-Gets if collection is readonly. Always returns false.
 
 ```csharp
 public bool IsReadOnly { get; }

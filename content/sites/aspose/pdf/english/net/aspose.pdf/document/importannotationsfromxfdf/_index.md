@@ -1,22 +1,16 @@
 ---
 title: ImportAnnotationsFromXfdf
 second_title: Aspose.PDF for .NET API Reference
-description: Imports annotations from XFDF file to document.
+description: 
 type: docs
 weight: 640
 url: /net/aspose.pdf/document/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
 
-Imports annotations from XFDF file to document.
-
 ```csharp
 public void ImportAnnotationsFromXfdf(string fileName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fileName | String | XFDF file name |
 
 ### See Also
 
@@ -28,15 +22,9 @@ public void ImportAnnotationsFromXfdf(string fileName)
 
 ## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
 
-Imports annotations from stream to document.
-
 ```csharp
 public void ImportAnnotationsFromXfdf(Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream contains XFDF data. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a value indicating whether collection is read-only
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/textsegmentcollection/isreadonly/
 ---
 ## TextSegmentCollection.IsReadOnly property
-
-Gets a value indicating whether collection is read-only
 
 ```csharp
 public bool IsReadOnly { get; }

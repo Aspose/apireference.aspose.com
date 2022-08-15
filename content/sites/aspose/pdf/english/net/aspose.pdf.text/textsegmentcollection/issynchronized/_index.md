@@ -1,14 +1,12 @@
 ---
 title: IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a value indicating whether access to the collection is synchronized thread safe.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/textsegmentcollection/issynchronized/
 ---
 ## TextSegmentCollection.IsSynchronized property
-
-Gets a value indicating whether access to the collection is synchronized (thread safe).
 
 ```csharp
 public bool IsSynchronized { get; }

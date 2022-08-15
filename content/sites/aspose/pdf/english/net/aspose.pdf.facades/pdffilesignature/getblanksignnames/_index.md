@@ -1,22 +1,16 @@
 ---
 title: GetBlankSignNames
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the names of all empty signature fields.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.facades/pdffilesignature/getblanksignnames/
 ---
 ## PdfFileSignature.GetBlankSignNames method
 
-Gets the names of all empty signature fields.
-
 ```csharp
 public IList<string> GetBlankSignNames()
 ```
-
-### Return Value
-
-Return an IList.
 
 ### See Also
 

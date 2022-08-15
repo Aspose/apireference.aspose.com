@@ -1,14 +1,14 @@
 ---
 title: PdfBookmarkEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new PdfBookmarkEditoraspose.pdf.facades/pdfbookmarkeditor object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
 ---
 ## PdfBookmarkEditor() {#constructor}
 
-Initializes new [`PdfBookmarkEditor`](../../pdfbookmarkeditor) object.
+The default constructor.
 
 ```csharp
 public PdfBookmarkEditor()
@@ -24,15 +24,9 @@ public PdfBookmarkEditor()
 
 ## PdfBookmarkEditor(Document) {#constructor_1}
 
-Initializes new [`PdfBookmarkEditor`](../../pdfbookmarkeditor) object on base of the *document*.
-
 ```csharp
 public PdfBookmarkEditor(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Pdf document. |
 
 ### See Also
 

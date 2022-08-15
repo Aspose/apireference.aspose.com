@@ -1,14 +1,12 @@
 ---
 title: BorderStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Describes style of the annotation border.
+description: 
 type: docs
-weight: 190
+weight: 140
 url: /net/aspose.pdf.annotations/borderstyle/
 ---
 ## BorderStyle enumeration
-
-Describes style of the annotation border.
 
 ```csharp
 public enum BorderStyle
@@ -18,11 +16,11 @@ public enum BorderStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Solid | `0` | Solid border. |
-| Dashed | `1` | Dashed border. |
-| Beveled | `2` | Bevelled border. |
-| Inset | `3` | Inset border. |
-| Underline | `4` | Underlined border. |
+| Solid | `0` |  |
+| Dashed | `1` |  |
+| Beveled | `2` |  |
+| Inset | `3` |  |
+| Underline | `4` |  |
 
 ### See Also
 

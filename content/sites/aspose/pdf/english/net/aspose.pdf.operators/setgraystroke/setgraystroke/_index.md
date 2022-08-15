@@ -1,22 +1,16 @@
 ---
 title: SetGrayStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes operator with the specified color.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setgraystroke/setgraystroke/
 ---
 ## SetGrayStroke constructor
 
-Initializes operator with the specified color.
-
 ```csharp
 public SetGrayStroke(double gray)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| gray | Double | The level of gray value. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Size
 second_title: Aspose.PDF for .NET API Reference
-description: Size of text.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/selectfont/size/
 ---
 ## SelectFont.Size property
-
-Size of text.
 
 ```csharp
 public double Size { get; }

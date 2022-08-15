@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Count of actions on the collection.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/actioncollection/count/
 ---
 ## ActionCollection.Count property
-
-Count of actions on the collection.
 
 ```csharp
 public int Count { get; }

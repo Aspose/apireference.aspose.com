@@ -1,22 +1,16 @@
 ---
 title: Accept
 second_title: Aspose.PDF for .NET API Reference
-description: Accepts visitor to process annotation.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/annotationcollection/accept/
 ---
 ## AnnotationCollection.Accept method
 
-Accepts visitor to process annotation.
-
 ```csharp
 public void Accept(AnnotationSelector visitor)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | AnnotationSelector | Annotation selector object. |
 
 ### See Also
 

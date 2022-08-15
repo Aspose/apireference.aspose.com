@@ -1,14 +1,12 @@
 ---
 title: AlignUndefined
 second_title: Aspose.PDF for .NET API Reference
-description: Undefined aglignment style.
+description: 
 type: docs
 weight: 280
 url: /net/aspose.pdf.facades/formfieldfacade/alignundefined/
 ---
 ## FormFieldFacade.AlignUndefined field
-
-Undefined aglignment style.
 
 ```csharp
 public const int AlignUndefined;

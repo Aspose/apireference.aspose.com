@@ -1,14 +1,12 @@
 ---
 title: UnembedFonts
 second_title: Aspose.PDF for .NET API Reference
-description: Make fonts not embedded if set to true.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.optimization/optimizationoptions/unembedfonts/
 ---
 ## OptimizationOptions.UnembedFonts property
-
-Make fonts not embedded if set to true.
 
 ```csharp
 public bool UnembedFonts { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Y
 second_title: Aspose.PDF for .NET API Reference
-description: Y coordinate of line point.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/lineto/y/
 ---
 ## LineTo.Y property
-
-Y coordinate of line point.
 
 ```csharp
 public double Y { get; set; }

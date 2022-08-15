@@ -1,14 +1,12 @@
 ---
 title: ImageResolutionX
 second_title: Aspose.PDF for .NET API Reference
-description: Converted images X resolution.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf/docsaveoptions/imageresolutionx/
 ---
 ## DocSaveOptions.ImageResolutionX property
-
-Converted images X resolution.
 
 ```csharp
 public int ImageResolutionX { get; set; }

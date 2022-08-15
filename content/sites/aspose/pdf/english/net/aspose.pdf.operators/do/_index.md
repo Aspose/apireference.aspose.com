@@ -1,14 +1,12 @@
 ---
 title: Do
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing Do operator Invoke XObject.
+description: 
 type: docs
-weight: 5060
+weight: 5010
 url: /net/aspose.pdf.operators/do/
 ---
 ## Do class
-
-Class representing Do operator (Invoke XObject).
 
 ```csharp
 public class Do : Operator
@@ -18,22 +16,22 @@ public class Do : Operator
 
 | Name | Description |
 | --- | --- |
-| [Do](do#constructor)() | Constructs new Do operator. Used for retrieving all Do operators, i.e. without checking their argument names. |
-| [Do](do#constructor_1)(string) | Constructs new Do operator. |
+| [Do](do#constructor)() | The default constructor. |
+| [Do](do#constructor_1)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [Name](../../aspose.pdf.operators/do/name) { get; set; } | Name of XObject argument of the operator. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Name](../../aspose.pdf.operators/do/name) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/do/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/do/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/do/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/do/tostring)() |  |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: Returns text representation of operator.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/tostring/
 ---
 ## SetCharWidthBoundingBox.ToString method
 
-Returns text representation of operator.
-
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-Text representation of representation
 
 ### See Also
 

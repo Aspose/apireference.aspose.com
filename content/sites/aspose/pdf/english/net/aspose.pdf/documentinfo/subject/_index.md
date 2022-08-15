@@ -1,14 +1,12 @@
 ---
 title: Subject
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the subject of the document.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf/documentinfo/subject/
 ---
 ## DocumentInfo.Subject property
-
-Gets or sets the subject of the document.
 
 ```csharp
 public string Subject { get; set; }

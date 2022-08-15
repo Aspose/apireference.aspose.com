@@ -1,14 +1,12 @@
 ---
 title: ColumnWidths
 second_title: Aspose.PDF for .NET API Reference
-description: ColumnWidths attribute Layout attribute owner.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf.logicalstructure/attributekey/columnwidths/
 ---
 ## AttributeKey.ColumnWidths field
-
-ColumnWidths attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey ColumnWidths;

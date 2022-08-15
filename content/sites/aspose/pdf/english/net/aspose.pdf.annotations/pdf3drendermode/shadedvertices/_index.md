@@ -1,14 +1,12 @@
 ---
 title: ShadedVertices
 second_title: Aspose.PDF for .NET API Reference
-description: The ShadedVertices render mode.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/pdf3drendermode/shadedvertices/
 ---
 ## PDF3DRenderMode.ShadedVertices field
-
-The "ShadedVertices" render mode.
 
 ```csharp
 public static PDF3DRenderMode ShadedVertices;

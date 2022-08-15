@@ -1,14 +1,12 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API Reference
-description: Height of rectangle.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/rectangle/height/
 ---
 ## Rectangle.Height property
-
-Height of rectangle.
 
 ```csharp
 public double Height { get; }

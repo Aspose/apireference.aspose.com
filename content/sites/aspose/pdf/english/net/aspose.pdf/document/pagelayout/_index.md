@@ -1,14 +1,12 @@
 ---
 title: PageLayout
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets page layout which shall be used when the document is opened.
+description: 
 type: docs
 weight: 430
 url: /net/aspose.pdf/document/pagelayout/
 ---
 ## Document.PageLayout property
-
-Gets or sets page layout which shall be used when the document is opened.
 
 ```csharp
 public PageLayout PageLayout { get; set; }

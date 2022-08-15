@@ -1,22 +1,16 @@
 ---
 title: Group
 second_title: Aspose.PDF for .NET API Reference
-description: The constructor.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/group/group/
 ---
 ## Group constructor
 
-The constructor.
-
 ```csharp
 public Group(Page page)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Pdf page object. |
 
 ### See Also
 

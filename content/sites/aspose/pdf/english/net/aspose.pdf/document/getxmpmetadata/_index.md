@@ -1,22 +1,16 @@
 ---
 title: GetXmpMetadata
 second_title: Aspose.PDF for .NET API Reference
-description: Get XMP metadata from document.
+description: 
 type: docs
 weight: 630
 url: /net/aspose.pdf/document/getxmpmetadata/
 ---
 ## Document.GetXmpMetadata method
 
-Get XMP metadata from document.
-
 ```csharp
 public void GetXmpMetadata(Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream where metadata will be stored. |
 
 ### See Also
 

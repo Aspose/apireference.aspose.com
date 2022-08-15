@@ -1,14 +1,12 @@
 ---
 title: LeftMarginIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Represents left page marginif any
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/saveoptions.margininfo/leftmarginifany/
 ---
 ## SaveOptions.MarginInfo.LeftMarginIfAny field
-
-Represents left page margin(if any)
 
 ```csharp
 public MarginPartStyle LeftMarginIfAny;

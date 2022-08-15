@@ -1,22 +1,16 @@
 ---
 title: ExportAnnotationsToXfdf
 second_title: Aspose.PDF for .NET API Reference
-description: Exports all document annotations to XFDF file
+description: 
 type: docs
 weight: 580
 url: /net/aspose.pdf/document/exportannotationstoxfdf/
 ---
 ## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}
 
-Exports all document annotations to XFDF file
-
 ```csharp
 public void ExportAnnotationsToXfdf(string fileName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fileName | String | XFDF file name |
 
 ### See Also
 
@@ -28,15 +22,9 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 ## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf}
 
-Export all document annotations into stream.
-
 ```csharp
 public void ExportAnnotationsToXfdf(Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream where store XFDF. |
 
 ### See Also
 

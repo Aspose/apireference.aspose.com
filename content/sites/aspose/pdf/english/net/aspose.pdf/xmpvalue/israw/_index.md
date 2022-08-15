@@ -1,22 +1,16 @@
 ---
 title: IsRaw
 second_title: Aspose.PDF for .NET API Reference
-description: Value is unsupported/unknown and raw XML code is provided.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/xmpvalue/israw/
 ---
 ## XmpValue.IsRaw property
 
-Value is unsupported/unknown and raw XML code is provided.
-
 ```csharp
 public bool IsRaw { get; }
 ```
-
-### Return Value
-
-True if value returned as raw data.
 
 ### See Also
 

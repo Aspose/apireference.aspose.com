@@ -1,24 +1,16 @@
 ---
 title: SetRGBColor
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes operator.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setrgbcolor/setrgbcolor/
 ---
 ## SetRGBColor(double, double, double) {#constructor}
 
-Initializes operator.
-
 ```csharp
 public SetRGBColor(double r, double g, double b)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| r | Double | The level of red from 0.0 to 1.0 |
-| g | Double | The level of green from 0.0 to 1.0 |
-| b | Double | The level of blue from 0.0 to 1.0 |
 
 ### See Also
 
@@ -30,15 +22,9 @@ public SetRGBColor(double r, double g, double b)
 
 ## SetRGBColor(Color) {#constructor_1}
 
-Initializes operator with color.
-
 ```csharp
 public SetRGBColor(Color color)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | Color | Specified color. |
 
 ### See Also
 

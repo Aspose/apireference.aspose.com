@@ -1,23 +1,16 @@
 ---
 title: SetPageSize
 second_title: Aspose.PDF for .NET API Reference
-description: Sets page size for page.
+description: 
 type: docs
 weight: 480
 url: /net/aspose.pdf/page/setpagesize/
 ---
 ## Page.SetPageSize method
 
-Sets page size for page.
-
 ```csharp
 public void SetPageSize(double width, double height)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Double | Page width. |
-| height | Double | Page size. |
 
 ### See Also
 

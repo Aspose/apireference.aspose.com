@@ -1,14 +1,12 @@
 ---
 title: BarcodeOptimization
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets barcode optimization mode.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/renderingoptions/barcodeoptimization/
 ---
 ## RenderingOptions.BarcodeOptimization property
-
-Gets or sets barcode optimization mode.
 
 ```csharp
 public bool BarcodeOptimization { get; set; }

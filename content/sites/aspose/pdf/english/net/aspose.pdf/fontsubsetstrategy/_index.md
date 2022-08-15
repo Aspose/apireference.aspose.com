@@ -1,14 +1,12 @@
 ---
 title: FontSubsetStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: enumerates strategies for font subsetting
+description: 
 type: docs
-weight: 2870
+weight: 2820
 url: /net/aspose.pdf/fontsubsetstrategy/
 ---
 ## FontSubsetStrategy enumeration
-
-enumerates strategies for font subsetting
 
 ```csharp
 public enum FontSubsetStrategy : byte
@@ -18,8 +16,8 @@ public enum FontSubsetStrategy : byte
 
 | Name | Value | Description |
 | --- | --- | --- |
-| SubsetEmbeddedFontsOnly | `0` | Declares to subset only fonts which are embedded in document already |
-| SubsetAllFonts | `1` | Declares to subsets all the fonts, non-embedded and embedded both |
+| SubsetEmbeddedFontsOnly | `0` |  |
+| SubsetAllFonts | `1` |  |
 
 ### See Also
 

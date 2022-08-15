@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets number of embedded files in collection.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/embeddedfilecollection/count/
 ---
 ## EmbeddedFileCollection.Count property
-
-Gets number of embedded files in collection.
 
 ```csharp
 public int Count { get; }

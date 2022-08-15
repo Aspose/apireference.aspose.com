@@ -1,14 +1,12 @@
 ---
 title: UnitValue
 second_title: Aspose.PDF for .NET API Reference
-description: Sets value in default space units.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue/
 ---
 ## PdfFileEditor.ContentsResizeValue.UnitValue property
-
-Sets value in default space units.
 
 ```csharp
 public double UnitValue { set; }

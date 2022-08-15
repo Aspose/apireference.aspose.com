@@ -1,14 +1,12 @@
 ---
 title: OutDirectoryPath
 second_title: Aspose.PDF for .NET API Reference
-description: Property for _outDirectoryPath parameter.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/texsaveoptions/outdirectorypath/
 ---
 ## TeXSaveOptions.OutDirectoryPath property
-
-Property for _outDirectoryPath parameter.
 
 ```csharp
 public string OutDirectoryPath { get; set; }

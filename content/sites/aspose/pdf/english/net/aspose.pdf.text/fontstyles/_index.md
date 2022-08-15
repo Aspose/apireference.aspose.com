@@ -1,14 +1,12 @@
 ---
 title: FontStyles
 second_title: Aspose.PDF for .NET API Reference
-description: Specifies style information applied to text.
+description: 
 type: docs
-weight: 6750
+weight: 6700
 url: /net/aspose.pdf.text/fontstyles/
 ---
 ## FontStyles enumeration
-
-Specifies style information applied to text.
 
 ```csharp
 [Flags]
@@ -19,13 +17,9 @@ public enum FontStyles
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Regular | `0` | Regular text. |
-| Bold | `1` | Bold text. |
-| Italic | `2` | Italic text. |
-
-### Remarks
-
-This enumeration has a FlagsAttribute attribute that allows a combination of its member values.
+| Regular | `0` |  |
+| Bold | `1` |  |
+| Italic | `2` |  |
 
 ### See Also
 

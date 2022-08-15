@@ -1,26 +1,16 @@
 ---
 title: GetRevision
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the revision of a signature.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf.facades/pdffilesignature/getrevision/
 ---
 ## PdfFileSignature.GetRevision method
 
-Gets the revision of a signature.
-
 ```csharp
 public int GetRevision(string signName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signName | String | The name of signature. |
-
-### Return Value
-
-Return the number of signature revision.
 
 ### See Also
 

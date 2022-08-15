@@ -1,14 +1,12 @@
 ---
 title: Trapped
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the trapped flag.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/documentinfo/trapped/
 ---
 ## DocumentInfo.Trapped property
-
-Gets or sets the trapped flag.
 
 ```csharp
 public string Trapped { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Intent
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the intent of the free text annotation.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/freetextannotation/intent/
 ---
 ## FreeTextAnnotation.Intent property
-
-Gets or sets the intent of the free text annotation.
 
 ```csharp
 public FreeTextIntent Intent { get; set; }

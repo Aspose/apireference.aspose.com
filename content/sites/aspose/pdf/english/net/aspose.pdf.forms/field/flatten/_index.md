@@ -1,14 +1,12 @@
 ---
 title: Flatten
 second_title: Aspose.PDF for .NET API Reference
-description: Removes this field and place its value directly on the page.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.pdf.forms/field/flatten/
 ---
 ## Field.Flatten method
-
-Removes this field and place its value directly on the page.
 
 ```csharp
 public override void Flatten()

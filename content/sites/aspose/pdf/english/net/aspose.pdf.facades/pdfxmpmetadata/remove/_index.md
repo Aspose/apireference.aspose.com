@@ -1,29 +1,15 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API Reference
-description: Removes element with specified key.
+description: 
 type: docs
 weight: 210
 url: /net/aspose.pdf.facades/pdfxmpmetadata/remove/
 ---
 ## Remove(DefaultMetadataProperties) {#remove_2}
 
-Removes element with specified key.
-
 ```csharp
 public void Remove(DefaultMetadataProperties key)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | DefaultMetadataProperties | Key of the element which will be deleted. |
-
-### Examples
-
-```csharp
-PdfXmpMetadata xmp = new PdfXmpMetadata();
-xmp.BindPdf("input.pdf");
-xmp.Remove(DefaultMetadataProperties.Nickname);
 ```
 
 ### See Also
@@ -37,26 +23,8 @@ xmp.Remove(DefaultMetadataProperties.Nickname);
 
 ## Remove(string) {#remove_1}
 
-Removes key from the dictionary.
-
 ```csharp
 public bool Remove(string key)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | Key which will be removed. |
-
-### Return Value
-
-True - if key removed; otherwise, false.
-
-### Examples
-
-```csharp
-PdfXmpMetadata xmp = new PdfXmpMetadata();
-xmp.BindPdf("input.pdf");
-xmp.Remove("xmp:Nickname");
 ```
 
 ### See Also
@@ -69,19 +37,9 @@ xmp.Remove("xmp:Nickname");
 
 ## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
 
-Removes key/value pair from the collection.
-
 ```csharp
 public bool Remove(KeyValuePair<string, XmpValue> item)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | Key/value pair to be removed. |
-
-### Return Value
-
-true if pair was found and removed.
 
 ### See Also
 

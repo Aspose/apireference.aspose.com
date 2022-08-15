@@ -1,14 +1,12 @@
 ---
 title: GraphInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a GraphInfoaspose.pdf.drawing/graph/graphinfo object that indicates the graph infosuch as color line widthetc.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.drawing/graph/graphinfo/
 ---
 ## Graph.GraphInfo property
-
-Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc.
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }

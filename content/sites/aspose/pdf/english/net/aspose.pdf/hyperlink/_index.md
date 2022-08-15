@@ -1,14 +1,12 @@
 ---
 title: Hyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: Represents abstract hyperlink.
+description: 
 type: docs
-weight: 3610
+weight: 3560
 url: /net/aspose.pdf/hyperlink/
 ---
 ## Hyperlink class
-
-Represents abstract hyperlink.
 
 ```csharp
 public abstract class Hyperlink

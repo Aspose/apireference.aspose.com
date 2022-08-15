@@ -1,14 +1,12 @@
 ---
 title: Rect
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets annotation rectangle.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.annotations/annotation/rect/
 ---
 ## Annotation.Rect property
-
-Gets or sets annotation rectangle.
 
 ```csharp
 public virtual Rectangle Rect { get; set; }

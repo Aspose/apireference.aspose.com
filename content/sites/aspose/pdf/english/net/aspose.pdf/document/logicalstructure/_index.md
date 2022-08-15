@@ -1,14 +1,12 @@
 ---
 title: LogicalStructure
 second_title: Aspose.PDF for .NET API Reference
-description: Gets logical structure of the document.
+description: 
 type: docs
 weight: 340
 url: /net/aspose.pdf/document/logicalstructure/
 ---
 ## Document.LogicalStructure property
-
-Gets logical structure of the document.
 
 ```csharp
 public RootElement LogicalStructure { get; }

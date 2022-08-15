@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets count of XForms in collection.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/xformcollection/count/
 ---
 ## XFormCollection.Count property
-
-Gets count of XForms in collection.
 
 ```csharp
 public int Count { get; }

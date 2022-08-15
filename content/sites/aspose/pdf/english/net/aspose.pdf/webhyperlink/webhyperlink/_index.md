@@ -1,14 +1,14 @@
 ---
 title: WebHyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the WebHyperlinkaspose.pdf/webhyperlink class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/webhyperlink/webhyperlink/
 ---
 ## WebHyperlink() {#constructor}
 
-Initializes a new instance of the [`WebHyperlink`](../../webhyperlink) class.
+The default constructor.
 
 ```csharp
 public WebHyperlink()
@@ -24,15 +24,9 @@ public WebHyperlink()
 
 ## WebHyperlink(string) {#constructor_1}
 
-Initializes a new instance of the [`WebHyperlink`](../../webhyperlink) class.
-
 ```csharp
 public WebHyperlink(string url)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | String | Web url for hyperlink. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: DP
 second_title: Aspose.PDF for .NET API Reference
-description: Class represeting DP operator designamte marked content point.
+description: 
 type: docs
-weight: 5050
+weight: 5000
 url: /net/aspose.pdf.operators/dp/
 ---
 ## DP class
-
-Class represeting DP operator (designamte marked content point).
 
 ```csharp
 public class DP : Operator
@@ -18,21 +16,21 @@ public class DP : Operator
 
 | Name | Description |
 | --- | --- |
-| [DP](dp)(string) | Initializes operator. |
+| [DP](dp)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [Tag](../../aspose.pdf.operators/dp/tag) { get; set; } | Gets or sets marked content tag |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Tag](../../aspose.pdf.operators/dp/tag) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/dp/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/dp/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/dp/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/dp/tostring)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: OnOpenPage
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets an action to be performed when the page containing the annotation is opened.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/annotationactioncollection/onopenpage/
 ---
 ## AnnotationActionCollection.OnOpenPage property
-
-Gets or sets an action to be performed when the page containing the annotation is opened.
 
 ```csharp
 public PdfAction OnOpenPage { get; set; }

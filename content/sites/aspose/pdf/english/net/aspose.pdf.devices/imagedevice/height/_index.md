@@ -1,14 +1,12 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API Reference
-description: Gets image output height.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.devices/imagedevice/height/
 ---
 ## ImageDevice.Height property
-
-Gets image output height.
 
 ```csharp
 public int Height { get; }

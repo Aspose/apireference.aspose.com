@@ -1,14 +1,12 @@
 ---
 title: LeftMargin
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets left margin on the resultant page.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.LeftMargin property
-
-Gets or sets left margin on the resultant page.
 
 ```csharp
 public ContentsResizeValue LeftMargin { get; set; }

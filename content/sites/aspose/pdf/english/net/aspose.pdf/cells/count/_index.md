@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: The items count.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/cells/count/
 ---
 ## Cells.Count property
-
-The items count.
 
 ```csharp
 public int Count { get; }

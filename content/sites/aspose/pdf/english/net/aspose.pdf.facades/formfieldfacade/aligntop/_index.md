@@ -1,14 +1,12 @@
 ---
 title: AlignTop
 second_title: Aspose.PDF for .NET API Reference
-description: Defines vertical aglignment as top style.
+description: 
 type: docs
 weight: 270
 url: /net/aspose.pdf.facades/formfieldfacade/aligntop/
 ---
 ## FormFieldFacade.AlignTop field
-
-Defines vertical aglignment as top style.
 
 ```csharp
 public const int AlignTop;

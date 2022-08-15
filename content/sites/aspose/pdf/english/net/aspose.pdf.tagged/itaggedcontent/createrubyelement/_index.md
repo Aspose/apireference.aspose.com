@@ -1,22 +1,16 @@
 ---
 title: CreateRubyElement
 second_title: Aspose.PDF for .NET API Reference
-description: Creates RubyElementaspose.pdf.logicalstructure/rubyelement.
+description: 
 type: docs
 weight: 250
 url: /net/aspose.pdf.tagged/itaggedcontent/createrubyelement/
 ---
 ## ITaggedContent.CreateRubyElement method
 
-Creates [`RubyElement`](../../../aspose.pdf.logicalstructure/rubyelement).
-
 ```csharp
 public RubyElement CreateRubyElement()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

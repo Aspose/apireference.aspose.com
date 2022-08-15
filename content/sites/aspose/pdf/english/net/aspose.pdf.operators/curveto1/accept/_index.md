@@ -1,22 +1,16 @@
 ---
 title: Accept
 second_title: Aspose.PDF for .NET API Reference
-description: Accepts operator selector.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/curveto1/accept/
 ---
 ## CurveTo1.Accept method
 
-Accepts operator selector.
-
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | IOperatorSelector | Visitor object |
 
 ### See Also
 

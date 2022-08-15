@@ -1,14 +1,12 @@
 ---
 title: BeforeText
 second_title: Aspose.PDF for .NET API Reference
-description: Text that shall be concatenated to the left of the label.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/measure.numberformat/beforetext/
 ---
 ## Measure.NumberFormat.BeforeText property
-
-Text that shall be concatenated to the left of the label.
 
 ```csharp
 public string BeforeText { get; set; }

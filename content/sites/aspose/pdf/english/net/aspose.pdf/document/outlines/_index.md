@@ -1,14 +1,12 @@
 ---
 title: Outlines
 second_title: Aspose.PDF for .NET API Reference
-description: Gets document outlines.
+description: 
 type: docs
 weight: 400
 url: /net/aspose.pdf/document/outlines/
 ---
 ## Document.Outlines property
-
-Gets document outlines.
 
 ```csharp
 public OutlineCollection Outlines { get; }

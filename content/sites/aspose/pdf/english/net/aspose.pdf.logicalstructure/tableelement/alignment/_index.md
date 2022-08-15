@@ -1,14 +1,12 @@
 ---
 title: Alignment
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the table alignment.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/tableelement/alignment/
 ---
 ## TableElement.Alignment property
-
-Gets or sets the table alignment.
 
 ```csharp
 public HorizontalAlignment Alignment { get; set; }

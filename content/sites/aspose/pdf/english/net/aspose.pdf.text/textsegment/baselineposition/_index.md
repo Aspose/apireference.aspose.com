@@ -1,14 +1,12 @@
 ---
 title: BaselinePosition
 second_title: Aspose.PDF for .NET API Reference
-description: Gets text position for text represented with TextSegmentaspose.pdf.text/textsegment object. The YIndent of the Position structure represents baseline coordinate of the text segment.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/textsegment/baselineposition/
 ---
 ## TextSegment.BaselinePosition property
-
-Gets text position for text, represented with [`TextSegment`](../../textsegment) object. The YIndent of the Position structure represents baseline coordinate of the text segment.
 
 ```csharp
 public Position BaselinePosition { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Border
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a BorderInfoaspose.pdf/borderinfo object that indicates the border info of the floating box.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/floatingbox/border/
 ---
 ## FloatingBox.Border property
-
-Gets or sets a [`BorderInfo`](../../borderinfo) object that indicates the border info of the floating box.
 
 ```csharp
 public BorderInfo Border { get; set; }

@@ -1,22 +1,16 @@
 ---
 title: GetAttachmentInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the list of attachments.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.facades/pdfextractor/getattachmentinfo/
 ---
 ## PdfExtractor.GetAttachmentInfo method
 
-Gets the list of attachments.
-
 ```csharp
 public List<FileSpecification> GetAttachmentInfo()
 ```
-
-### Return Value
-
-Returns a List&lt;FileSpecificatio&gt;&gt;.
 
 ### See Also
 

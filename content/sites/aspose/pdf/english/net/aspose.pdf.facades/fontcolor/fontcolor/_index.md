@@ -1,24 +1,16 @@
 ---
 title: FontColor
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes color with specified color components.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/fontcolor/fontcolor/
 ---
 ## FontColor(int, int, int) {#constructor_1}
 
-Initializes color with specified color components.
-
 ```csharp
 public FontColor(int r, int g, int b)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| r | Int32 | Red component. |
-| g | Int32 | Green component. |
-| b | Int32 | Blue component. |
 
 ### See Also
 
@@ -30,7 +22,7 @@ public FontColor(int r, int g, int b)
 
 ## FontColor() {#constructor}
 
-Initializes color.
+The default constructor.
 
 ```csharp
 public FontColor()

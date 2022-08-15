@@ -1,14 +1,12 @@
 ---
 title: ExtractImageMode
 second_title: Aspose.PDF for .NET API Reference
-description: Defines different modes which can be used while extracting images from documents.
+description: 
 type: docs
-weight: 2150
+weight: 2100
 url: /net/aspose.pdf/extractimagemode/
 ---
 ## ExtractImageMode enumeration
-
-Defines different modes which can be used while extracting images from documents.
 
 ```csharp
 public enum ExtractImageMode
@@ -18,8 +16,8 @@ public enum ExtractImageMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DefinedInResources | `0` | Defines image extraction mode in which all images defined in resources for particular page are extracted. |
-| ActuallyUsed | `1` | Defines image extraction mode in which only those images are extracted that are actually shown on a page. |
+| DefinedInResources | `0` |  |
+| ActuallyUsed | `1` |  |
 
 ### See Also
 

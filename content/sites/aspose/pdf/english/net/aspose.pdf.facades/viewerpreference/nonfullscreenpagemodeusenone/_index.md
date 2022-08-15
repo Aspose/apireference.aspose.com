@@ -1,14 +1,12 @@
 ---
 title: NonFullScreenPageModeUseNone
 second_title: Aspose.PDF for .NET API Reference
-description: Neither document outline nor thumbnail images visible.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 ---
 ## ViewerPreference.NonFullScreenPageModeUseNone field
-
-Neither document outline nor thumbnail images visible.
 
 ```csharp
 public const int NonFullScreenPageModeUseNone;

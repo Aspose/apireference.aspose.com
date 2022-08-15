@@ -1,14 +1,12 @@
 ---
 title: Dash
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets dash pattern.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/border/dash/
 ---
 ## Border.Dash property
-
-Gets or sets dash pattern.
 
 ```csharp
 public Dash Dash { get; set; }

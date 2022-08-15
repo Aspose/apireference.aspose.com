@@ -1,14 +1,12 @@
 ---
 title: Title
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the Title information of PDF document.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.pdf.facades/pdffileinfo/title/
 ---
 ## PdfFileInfo.Title property
-
-Gets or sets the Title information of PDF document.
 
 ```csharp
 public string Title { get; set; }

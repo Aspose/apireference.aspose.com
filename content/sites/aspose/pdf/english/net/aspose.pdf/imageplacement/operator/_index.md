@@ -1,14 +1,12 @@
 ---
 title: Operator
 second_title: Aspose.PDF for .NET API Reference
-description: Operator used for displaying the image.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/imageplacement/operator/
 ---
 ## ImagePlacement.Operator property
-
-Operator used for displaying the image.
 
 ```csharp
 public Operator Operator { get; }

@@ -1,14 +1,12 @@
 ---
 title: ConvresionFactor
 second_title: Aspose.PDF for .NET API Reference
-description: The conversion factor used to multiply a value in partial units of the previous number format array element to obtain a value in the units of this number format.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/measure.numberformat/convresionfactor/
 ---
 ## Measure.NumberFormat.ConvresionFactor property
-
-The conversion factor used to multiply a value in partial units of the previous number format array element to obtain a value in the units of this number format.
 
 ```csharp
 public double ConvresionFactor { get; set; }

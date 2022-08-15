@@ -1,14 +1,12 @@
 ---
 title: ScalingRateX
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/graphinfo/scalingratex/
 ---
 ## GraphInfo.ScalingRateX property
-
-Gets or sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system.
 
 ```csharp
 public double ScalingRateX { get; set; }

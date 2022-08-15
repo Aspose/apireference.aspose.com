@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: Disposes the facade resources.
+description: 
 type: docs
 weight: 260
 url: /net/aspose.pdf.facades/pdfviewer/dispose/
 ---
 ## PdfViewer.Dispose method
-
-Disposes the facade resources.
 
 ```csharp
 public void Dispose()

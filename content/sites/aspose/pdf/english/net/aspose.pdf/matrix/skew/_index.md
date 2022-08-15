@@ -1,32 +1,15 @@
 ---
 title: Skew
 second_title: Aspose.PDF for .NET API Reference
-description: Creates matrix for given rotation angle.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/matrix/skew/
 ---
 ## Matrix.Skew method
 
-Creates matrix for given rotation angle.
-
 ```csharp
 public static Matrix Skew(double alpha, double beta)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| alpha | Double | Skew x angle in radians. |
-| beta | Double | Skew y angle in radians. |
-
-### Return Value
-
-Transformation matrix.
-
-### Examples
-
-```csharp
-Matrix m = Matrix.Skew(Math.PI / 2, Math.PI / 2);
 ```
 
 ### See Also

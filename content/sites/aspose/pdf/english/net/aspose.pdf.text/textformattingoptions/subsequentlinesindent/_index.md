@@ -1,14 +1,12 @@
 ---
 title: SubsequentLinesIndent
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets subsequent lines indent value.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/textformattingoptions/subsequentlinesindent/
 ---
 ## TextFormattingOptions.SubsequentLinesIndent property
-
-Gets or sets subsequent lines indent value.
 
 ```csharp
 public float SubsequentLinesIndent { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Image
 second_title: Aspose.PDF for .NET API Reference
-description: Gets image of stamp. May be null if stamp does not contain images for example for text stamp.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/stampinfo/image/
 ---
 ## StampInfo.Image property
-
-Gets image of stamp. May be null if stamp does not contain images (for example for text stamp).
 
 ```csharp
 public Image Image { get; }

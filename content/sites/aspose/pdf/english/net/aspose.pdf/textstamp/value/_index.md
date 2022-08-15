@@ -1,14 +1,12 @@
 ---
 title: Value
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets string value which is used as stamp on the page.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/textstamp/value/
 ---
 ## TextStamp.Value property
-
-Gets or sets string value which is used as stamp on the page.
 
 ```csharp
 public string Value { get; set; }

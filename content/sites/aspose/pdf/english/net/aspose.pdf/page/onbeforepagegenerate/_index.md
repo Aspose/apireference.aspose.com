@@ -1,14 +1,12 @@
 ---
 title: OnBeforePageGenerate
 second_title: Aspose.PDF for .NET API Reference
-description: Event for customize header and footer.
+description: 
 type: docs
 weight: 320
 url: /net/aspose.pdf/page/onbeforepagegenerate/
 ---
 ## Page.OnBeforePageGenerate event
-
-Event for customize header and footer.
 
 ```csharp
 public event BeforePageGenerate OnBeforePageGenerate;

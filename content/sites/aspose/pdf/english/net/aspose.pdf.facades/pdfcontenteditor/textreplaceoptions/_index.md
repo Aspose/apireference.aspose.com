@@ -1,14 +1,12 @@
 ---
 title: TextReplaceOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets text replace options.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/pdfcontenteditor/textreplaceoptions/
 ---
 ## PdfContentEditor.TextReplaceOptions property
-
-Gets or sets text replace options.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }

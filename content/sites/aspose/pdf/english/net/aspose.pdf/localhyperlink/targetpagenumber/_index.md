@@ -1,14 +1,12 @@
 ---
 title: TargetPageNumber
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the target page number.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/localhyperlink/targetpagenumber/
 ---
 ## LocalHyperlink.TargetPageNumber property
-
-Gets or sets the target page number.
 
 ```csharp
 public int TargetPageNumber { get; set; }

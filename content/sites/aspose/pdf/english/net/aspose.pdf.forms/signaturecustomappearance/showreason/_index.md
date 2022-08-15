@@ -1,14 +1,12 @@
 ---
 title: ShowReason
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets reason visibility. Default value true.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.pdf.forms/signaturecustomappearance/showreason/
 ---
 ## SignatureCustomAppearance.ShowReason property
-
-Gets/sets reason visibility. Default value: true.
 
 ```csharp
 public bool ShowReason { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: FilterType
 second_title: Aspose.PDF for .NET API Reference
-description: Gets image filter type.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/ximage/filtertype/
 ---
 ## XImage.FilterType property
-
-Gets image filter type.
 
 ```csharp
 public ImageFilterType FilterType { get; }

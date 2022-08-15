@@ -1,14 +1,12 @@
 ---
 title: WT
 second_title: Aspose.PDF for .NET API Reference
-description: Warichu text The smaller-size text of a warichu comment that is formatted into two lines and placed between surrounding WP elements.
+description: 
 type: docs
 weight: 490
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/wt/
 ---
 ## StructureTypeStandard.WT field
-
-(Warichu text) The smaller-size text of a warichu comment that is formatted into two lines and placed between surrounding WP elements.
 
 ```csharp
 public static readonly StructureTypeStandard WT;

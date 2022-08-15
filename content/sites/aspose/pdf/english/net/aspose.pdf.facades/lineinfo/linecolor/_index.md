@@ -1,14 +1,12 @@
 ---
 title: LineColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the color of a line.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/lineinfo/linecolor/
 ---
 ## LineInfo.LineColor property
-
-Gets or sets the color of a line.
 
 ```csharp
 public Color LineColor { get; set; }

@@ -1,26 +1,16 @@
 ---
 title: GetContactInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the contact information of a signature.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf.facades/pdffilesignature/getcontactinfo/
 ---
 ## PdfFileSignature.GetContactInfo method
 
-Gets the contact information of a signature.
-
 ```csharp
 public string GetContactInfo(string signName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signName | String | The name of signature. |
-
-### Return Value
-
-Returns a result of string type.
 
 ### See Also
 

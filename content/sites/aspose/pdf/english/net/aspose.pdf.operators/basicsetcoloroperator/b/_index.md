@@ -1,14 +1,12 @@
 ---
 title: B
 second_title: Aspose.PDF for .NET API Reference
-description: Gets red component of color
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/basicsetcoloroperator/b/
 ---
 ## BasicSetColorOperator.B property
-
-Gets red component of color
 
 ```csharp
 public double B { get; }

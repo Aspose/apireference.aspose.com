@@ -1,22 +1,16 @@
 ---
 title: CreateTHead
 second_title: Aspose.PDF for .NET API Reference
-description: Creates TableTHeadElementaspose.pdf.logicalstructure/tabletheadelement and added it to current table.
+description: 
 type: docs
 weight: 210
 url: /net/aspose.pdf.logicalstructure/tableelement/createthead/
 ---
 ## TableElement.CreateTHead method
 
-Creates [`TableTHeadElement`](../../tabletheadelement) and added it to current table.
-
 ```csharp
 public TableTHeadElement CreateTHead()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

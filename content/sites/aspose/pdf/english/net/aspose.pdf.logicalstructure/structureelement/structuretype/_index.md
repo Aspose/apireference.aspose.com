@@ -1,22 +1,16 @@
 ---
 title: StructureType
 second_title: Aspose.PDF for .NET API Reference
-description: Gets type of structure element.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
 ## StructureElement.StructureType property
 
-Gets type of structure element.
-
 ```csharp
 public StructureTypeStandard StructureType { get; }
 ```
-
-### Property Value
-
-StructureTypeStandard object of structure element.
 
 ### See Also
 

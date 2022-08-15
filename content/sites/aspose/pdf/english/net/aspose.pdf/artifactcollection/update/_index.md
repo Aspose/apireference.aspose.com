@@ -1,22 +1,16 @@
 ---
 title: Update
 second_title: Aspose.PDF for .NET API Reference
-description: Update artifact inside the collection.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf/artifactcollection/update/
 ---
 ## ArtifactCollection.Update method
 
-Update artifact inside the collection.
-
 ```csharp
 public void Update(Artifact artifact)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| artifact | Artifact | Artifact to be updated. |
 
 ### See Also
 
