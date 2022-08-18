@@ -3,7 +3,7 @@ title: UShape
 second_title: Справочник по Aspose.3D для .NET API
 description: U-образная форма совместимая с IFC определяется параметрами.
 type: docs
-weight: 1640
+weight: 1650
 url: /ru/net/aspose.threed.profiles/ushape/
 ---
 ## UShape class
@@ -25,14 +25,14 @@ public class UShape : ParameterizedProfile
 | Имя | Описание |
 | --- | --- |
 | [Depth](../../aspose.threed.profiles/ushape/depth) { get; set; } | Получает или задает длину паутины. |
-| [EdgeRadius](../../aspose.threed.profiles/ushape/edgeradius) { get; set; } | Получает или задает радиус ребра на ребре фланца. |
+| [EdgeRadius](../../aspose.threed.profiles/ushape/edgeradius) { get; set; } | Получает или задает радиус ребра в ребре полки. |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | [FilletRadius](../../aspose.threed.profiles/ushape/filletradius) { get; set; } | Получает или задает радиус скругления между фланцем и стенкой. |
-| [FlangeThickness](../../aspose.threed.profiles/ushape/flangethickness) { get; set; } | Получает или задает толщину полки. |
-| [FlangeWidth](../../aspose.threed.profiles/ushape/flangewidth) { get; set; } | Получает или задает длину фланца. |
+| [FlangeThickness](../../aspose.threed.profiles/ushape/flangethickness) { get; set; } | Получает или задает толщину фланца. |
+| [FlangeWidth](../../aspose.threed.profiles/ushape/flangewidth) { get; set; } | Получает или задает длину полки. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 | [WebThickness](../../aspose.threed.profiles/ushape/webthickness) { get; set; } | Получает или задает толщину паутины. |
@@ -43,11 +43,11 @@ public class UShape : ParameterizedProfile
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | override [GetExtent](../../aspose.threed.profiles/ushape/getextent)() | Получает экстент в измерениях x и y. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

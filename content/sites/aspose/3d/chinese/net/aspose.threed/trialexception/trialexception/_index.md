@@ -1,14 +1,14 @@
 ---
 title: TrialException
 second_title: Aspose.3D for .NET API 参考
-description: TrialExceptionaspose.threed/trialexception
+description: 的构造函数TrialExceptionaspose.threed/trialexception
 type: docs
 weight: 10
 url: /zh/net/aspose.threed/trialexception/trialexception/
 ---
 ## TrialException constructor
 
-[`TrialException`](../../trialexception)
+的构造函数[`TrialException`](../../trialexception)
 
 ```csharp
 public TrialException(string msg)
@@ -16,7 +16,7 @@ public TrialException(string msg)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| msg | String | 的构造函数 |
+| msg | String |  |
 
 ### 也可以看看
 

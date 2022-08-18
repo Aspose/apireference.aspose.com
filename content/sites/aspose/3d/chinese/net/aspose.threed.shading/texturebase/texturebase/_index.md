@@ -1,14 +1,14 @@
 ---
 title: TextureBase
 second_title: Aspose.3D for .NET API 参考
-description: 初始化TextureBaseaspose.threed.shading/texturebase类的新实例
+description: 初始化TextureBaseaspose.threed.shading/texturebase类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.shading/texturebase/texturebase/
 ---
 ## TextureBase constructor
 
-初始化[`TextureBase`](../../texturebase)类的新实例。
+初始化[`TextureBase`](../../texturebase)类.
 
 ```csharp
 public TextureBase(string name)
@@ -16,7 +16,7 @@ public TextureBase(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 
 ### 也可以看看
 

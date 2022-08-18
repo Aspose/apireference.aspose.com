@@ -1,14 +1,14 @@
 ---
 title: RegisterEntityRenderer
 second_title: Справочник по Aspose.3D для .NET API
-description: Зарегистрировать средство визуализации объекта для указанного объекта
+description: Зарегистрируйте визуализатор объектов для указанного entity
 type: docs
 weight: 200
 url: /ru/net/aspose.threed.render/renderer/registerentityrenderer/
 ---
 ## Renderer.RegisterEntityRenderer method
 
-Зарегистрировать средство визуализации объекта для указанного объекта
+Зарегистрируйте визуализатор объектов для указанного entity
 
 ```csharp
 public virtual void RegisterEntityRenderer(EntityRenderer renderer)
@@ -16,7 +16,7 @@ public virtual void RegisterEntityRenderer(EntityRenderer renderer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| средствовизуализации | EntityRenderer |  |
+| renderer | EntityRenderer |  |
 
 ### Смотрите также
 

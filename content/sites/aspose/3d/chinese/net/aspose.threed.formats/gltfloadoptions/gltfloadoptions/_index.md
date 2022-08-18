@@ -1,14 +1,14 @@
 ---
 title: GltfLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: GltfLoadOptionsaspose.threed.formats/gltfloadoptions
+description: 的构造函数GltfLoadOptionsaspose.threed.formats/gltfloadoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/gltfloadoptions/gltfloadoptions/
 ---
 ## GltfLoadOptions constructor
 
-[`GltfLoadOptions`](../../gltfloadoptions)
+的构造函数[`GltfLoadOptions`](../../gltfloadoptions)
 
 ```csharp
 public GltfLoadOptions()

@@ -1,14 +1,14 @@
 ---
 title: IOUtils
 second_title: Aspose.3D for .NET API 参考
-description: 将矩阵/向量写入二进制写入器的实用程序
+description: 将矩阵/向量写入二进制 writer 的实用程序
 type: docs
-weight: 2540
+weight: 2530
 url: /zh/net/aspose.threed.utilities/ioutils/
 ---
 ## IOUtils class
 
-将矩阵/向量写入二进制写入器的实用程序
+将矩阵/向量写入二进制 writer 的实用程序
 
 ```csharp
 public static class IOUtils
@@ -18,14 +18,14 @@ public static class IOUtils
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write)(this BinaryWriter, FMatrix4) | 将矩阵写入二进制写入器 |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_1)(this BinaryWriter, FVector2) | 将向量写入二进制写入器 |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_2)(this BinaryWriter, FVector3) | 将向量写入二进制写入器 |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_3)(this BinaryWriter, FVector4) | 将向量写入二进制写入器 |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_4)(this BinaryWriter, Matrix4) | 将矩阵写入二进制写入器 |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_5)(this BinaryWriter, Vector2) | 将向量写入二进制写入器 |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_6)(this BinaryWriter, Vector3) | 将向量写入二进制写入器 |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_7)(this BinaryWriter, Vector4) | 将向量写入二进制写入器 |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write)(this BinaryWriter, FMatrix4) | 将矩阵写入二进制 writer |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_1)(this BinaryWriter, FVector2) | 将向量写入二进制 writer |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_2)(this BinaryWriter, FVector3) | 将向量写入二进制 writer |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_3)(this BinaryWriter, FVector4) | 将向量写入二进制 writer |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_4)(this BinaryWriter, Matrix4) | 将矩阵写入二进制 writer |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_5)(this BinaryWriter, Vector2) | 将向量写入二进制 writer |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_6)(this BinaryWriter, Vector3) | 将向量写入二进制 writer |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_7)(this BinaryWriter, Vector4) | 将向量写入二进制 writer |
 
 ### 也可以看看
 

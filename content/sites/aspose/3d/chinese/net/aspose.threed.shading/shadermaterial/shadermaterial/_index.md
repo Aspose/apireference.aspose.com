@@ -1,14 +1,14 @@
 ---
 title: ShaderMaterial
 second_title: Aspose.3D for .NET API 参考
-description: 初始化ShaderMaterialaspose.threed.shading/shadermaterial类的新实例
+description: 初始化ShaderMaterialaspose.threed.shading/shadermaterial类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.shading/shadermaterial/shadermaterial/
 ---
 ## ShaderMaterial() {#constructor}
 
-初始化[`ShaderMaterial`](../../shadermaterial)类的新实例。
+初始化[`ShaderMaterial`](../../shadermaterial)类.
 
 ```csharp
 public ShaderMaterial()
@@ -24,7 +24,7 @@ public ShaderMaterial()
 
 ## ShaderMaterial(string) {#constructor_1}
 
-初始化[`ShaderMaterial`](../../shadermaterial)类的新实例。
+初始化[`ShaderMaterial`](../../shadermaterial)类.
 
 ```csharp
 public ShaderMaterial(string name)
@@ -32,7 +32,7 @@ public ShaderMaterial(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 

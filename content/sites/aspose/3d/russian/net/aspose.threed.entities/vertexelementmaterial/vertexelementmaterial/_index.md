@@ -1,14 +1,14 @@
 ---
 title: VertexElementMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementMaterialaspose.threed.entities/vertexelementmaterial.
+description: Инициализирует новый экземплярVertexElementMaterialaspose.threed.entities/vertexelementmaterial класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementmaterial/vertexelementmaterial/
 ---
 ## VertexElementMaterial constructor
 
-Инициализирует новый экземпляр класса[`VertexElementMaterial`](../../vertexelementmaterial).
+Инициализирует новый экземпляр[`VertexElementMaterial`](../../vertexelementmaterial) класс.
 
 ```csharp
 public VertexElementMaterial()

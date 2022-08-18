@@ -1,14 +1,14 @@
 ---
 title: BytesPerPixel
 second_title: Aspose.3D for .NET API 参考
-description: 像素的字节数
+description: 一个像素的字节数
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.render/texturedata/bytesperpixel/
 ---
 ## TextureData.BytesPerPixel property
 
-像素的字节数
+一个像素的字节数
 
 ```csharp
 public int BytesPerPixel { get; }

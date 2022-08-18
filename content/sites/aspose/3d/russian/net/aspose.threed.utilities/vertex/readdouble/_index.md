@@ -16,7 +16,7 @@ public double ReadDouble(VertexField field)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| field | VertexField | Поле с плавающей запятой/ двойной совместимый тип данных |
+| field | VertexField | Поле с типом данных, совместимым с float/double |
 
 ### Смотрите также
 

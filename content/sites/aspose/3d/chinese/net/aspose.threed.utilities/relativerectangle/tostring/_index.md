@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 将此实例的值转换为String
+description: 将此实例的值转换为String.
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.utilities/relativerectangle/tostring/
 ---
 ## RelativeRectangle.ToString method
 
-将此实例的值转换为String。
+将此实例的值转换为String.
 
 ```csharp
 public override string ToString()

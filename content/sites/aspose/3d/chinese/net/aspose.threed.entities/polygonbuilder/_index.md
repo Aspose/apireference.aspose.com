@@ -1,14 +1,14 @@
 ---
 title: PolygonBuilder
 second_title: Aspose.3D for .NET API 参考
-description: 一个帮助类来构建多边形 Mesh./mesh
+description: 一个帮助类来构建多边形Mesh./mesh
 type: docs
 weight: 550
 url: /zh/net/aspose.threed.entities/polygonbuilder/
 ---
 ## PolygonBuilder class
 
-一个帮助类来构建多边形 [`Mesh`](../mesh)
+一个帮助类来构建多边形[`Mesh`](../mesh)
 
 ```csharp
 public sealed class PolygonBuilder
@@ -18,19 +18,19 @@ public sealed class PolygonBuilder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PolygonBuilder](polygonbuilder)(Mesh) | 初始化[`PolygonBuilder`](../polygonbuilder)类的新实例。 |
+| [PolygonBuilder](polygonbuilder)(Mesh) | 初始化[`PolygonBuilder`](../polygonbuilder)类. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddVertex](../../aspose.threed.entities/polygonbuilder/addvertex)(int) | 向多边形添加顶点索引 |
-| [Begin](../../aspose.threed.entities/polygonbuilder/begin)() | 开始添加新多边形 |
+| [AddVertex](../../aspose.threed.entities/polygonbuilder/addvertex)(int) | 将顶点索引添加到多边形 |
+| [Begin](../../aspose.threed.entities/polygonbuilder/begin)() | 开始添加一个新的多边形 |
 | [End](../../aspose.threed.entities/polygonbuilder/end)() | 完成多边形创建 |
 
 ### 例子
 
-等于： 如果所有索引都可以使用， [`CreatePolygon`](../mesh/createpolygon) 是首选，否则 [`PolygonBuilder`](../polygonbuilder) 会是更好的选择。
+等于 : 如果所有索引都可以使用，[`CreatePolygon`](../mesh/createpolygon)是首选，否则[`PolygonBuilder`](../polygonbuilder)会是更好的选择。
 
 ```csharp
 PolygonBuilder builder = new PolygonBuilder(mesh);

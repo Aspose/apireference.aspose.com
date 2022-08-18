@@ -1,14 +1,14 @@
 ---
 title: Dish
 second_title: Справочник по Aspose.3D для .NET API
-description: Параметризованная тарелка.
+description: Параметризированная тарелка.
 type: docs
 weight: 320
 url: /ru/net/aspose.threed.entities/dish/
 ---
 ## Dish class
 
-Параметризованная тарелка.
+Параметризированная тарелка.
 
 ```csharp
 public class Dish : Primitive
@@ -19,23 +19,23 @@ public class Dish : Primitive
 | Имя | Описание |
 | --- | --- |
 | [Dish](dish#constructor)() | Создать новый экземпляр блюда с радиусом по умолчанию (10) и высотой по умолчанию (5) |
-| [Dish](dish#constructor_1)(double, double) | Создать новый экземпляр тарелки с заданным радиусом и высотой |
-| [Dish](dish#constructor_2)(string, double, double, int, int) | Создать новый экземпляр тарелки с заданным радиусом и высотой |
+| [Dish](dish#constructor_1)(double, double) | Создать новый экземпляр блюда с заданным радиусом и высотой |
+| [Dish](dish#constructor_2)(string, double, double, int, int) | Создать новый экземпляр блюда с заданным радиусом и высотой |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | Получает или устанавливает, может ли эта геометрия отбрасывать тень |
+| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | Получает или задает, может ли эта геометрия отбрасывать тень |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
-| [Height](../../aspose.threed.entities/dish/height) { get; set; } | Высота тарелки |
-| [HeightSegments](../../aspose.threed.entities/dish/heightsegments) { get; set; } | Получает или устанавливает сегменты высоты |
+| [Height](../../aspose.threed.entities/dish/height) { get; set; } | Высота блюда |
+| [HeightSegments](../../aspose.threed.entities/dish/heightsegments) { get; set; } | Получает или задает высоту сегментов |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Radius](../../aspose.threed.entities/dish/radius) { get; set; } | Радиус тарелки |
-| [ReceiveShadows](../../aspose.threed.entities/primitive/receiveshadows) { get; set; } | Получает или задает, может ли эта геометрия получать тень. |
+| [ReceiveShadows](../../aspose.threed.entities/primitive/receiveshadows) { get; set; } | Получает или задает, может ли эта геометрия получать тени. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 | [WidthSegments](../../aspose.threed.entities/dish/widthsegments) { get; set; } | Получает или задает ширину сегментов |
 
@@ -45,12 +45,12 @@ public class Dish : Primitive
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
-| override [ToMesh](../../aspose.threed.entities/dish/tomesh)() | Конвертировать текущий объект в меш |
+| override [ToMesh](../../aspose.threed.entities/dish/tomesh)() | Преобразовать текущий объект в mesh |
 
 ### Смотрите также
 

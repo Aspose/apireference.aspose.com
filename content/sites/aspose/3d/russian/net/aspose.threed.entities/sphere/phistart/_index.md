@@ -1,14 +1,14 @@
 ---
 title: PhiStart
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает начало фи.
+description: Получает или задает начальную фи.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.entities/sphere/phistart/
 ---
 ## Sphere.PhiStart property
 
-Получает или задает начало фи.
+Получает или задает начальную фи.
 
 ```csharp
 public double PhiStart { get; set; }
@@ -16,7 +16,7 @@ public double PhiStart { get; set; }
 
 ### Стоимость имущества
 
-Начало фи.
+Фи начало.
 
 ### Смотрите также
 

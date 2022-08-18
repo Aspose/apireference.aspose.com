@@ -1,14 +1,14 @@
 ---
 title: Pose
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаPoseaspose.threed/pose.
+description: Инициализирует новый экземплярPoseaspose.threed/pose класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/pose/pose/
 ---
 ## Pose(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Pose`](../../pose).
+Инициализирует новый экземпляр[`Pose`](../../pose) класс.
 
 ```csharp
 public Pose(string name)
@@ -16,7 +16,7 @@ public Pose(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public Pose(string name)
 
 ## Pose() {#constructor}
 
-Инициализирует новый экземпляр класса[`Pose`](../../pose).
+Инициализирует новый экземпляр[`Pose`](../../pose) класс.
 
 ```csharp
 public Pose()

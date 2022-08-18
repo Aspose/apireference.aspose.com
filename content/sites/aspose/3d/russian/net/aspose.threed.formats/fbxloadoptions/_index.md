@@ -29,7 +29,7 @@ public class FbxLoadOptions : LoadOptions
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [KeepBuiltinGlobalSettings](../../aspose.threed.formats/fbxloadoptions/keepbuiltinglobalsettings) { get; set; } | Получает или задает, следует ли сохранять встроенные свойства в GlobalSettings, которые имеют замену собственного свойства в[`AssetInfo`](../../aspose.threed/assetinfo). Установите для этого параметра значение true, если вы хотите получить полные свойства в GlobalSettings Значение по умолчанию - false |
+| [KeepBuiltinGlobalSettings](../../aspose.threed.formats/fbxloadoptions/keepbuiltinglobalsettings) { get; set; } | Получает или задает, следует ли сохранять встроенные свойства в GlobalSettings, которые имеют замену собственного свойства в[`AssetInfo`](../../aspose.threed/assetinfo) . Установите для этого параметра значение true, если вы хотите использовать полные свойства в GlobalSettings Значение по умолчанию — false |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
 
 ### Смотрите также

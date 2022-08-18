@@ -3,7 +3,7 @@ title: TextureFilter
 second_title: Aspose.3D for .NET API 参考
 description: 纹理采样期间的过滤器选项
 type: docs
-weight: 2380
+weight: 2370
 url: /zh/net/aspose.threed.shading/texturefilter/
 ---
 ## TextureFilter enumeration
@@ -18,7 +18,7 @@ public enum TextureFilter
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 无缩小，仅用于缩小过滤器。 |
+| None | `0` | 没有缩小，这仅由缩小过滤器使用。 |
 | Point | `1` | 使用点采样 |
 | Linear | `2` | 使用线性插值进行采样 |
 | Anisotropic | `3` | 使用各向异性插值进行采样，这仅用于缩小过滤器。 |

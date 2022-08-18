@@ -1,14 +1,14 @@
 ---
 title: MorphTargetDeformer
 second_title: Aspose.3D for .NET API 参考
-description: MorphTargetDeformer 提供逐顶点动画 MorphTargetDeformer 通过MorphTargetChannel./morphtargetchannel组织所有目标每个通道可以组织多个目标 变形目标变形器的一个常见用途是将面部表情应用于角色 更多细节可以在 https//en.wikipedia.org/wiki/Morph_target_animation
+description: MorphTargetDeformer 提供逐顶点动画 MorphTargetDeformer 通过组织所有目标MorphTargetChannel./morphtargetchannel每个通道可以组织多个目标 变形目标变形器的一个常见用途是将面部表情应用于角色 更多细节可以在https//en.wikipedia.org/wiki/Morph_target_animation 找到
 type: docs
 weight: 210
 url: /zh/net/aspose.threed.deformers/morphtargetdeformer/
 ---
 ## MorphTargetDeformer class
 
-MorphTargetDeformer 提供逐顶点动画。 MorphTargetDeformer 通过[`MorphTargetChannel`](../morphtargetchannel)组织所有目标，每个通道可以组织多个目标。 变形目标变形器的一个常见用途是将面部表情应用于角色。 更多细节可以在 https://en.wikipedia.org/wiki/Morph_target_animation
+MorphTargetDeformer 提供逐顶点动画。 MorphTargetDeformer 通过组织所有目标[`MorphTargetChannel`](../morphtargetchannel)，每个通道可以组织多个目标。 变形目标变形器的一个常见用途是将面部表情应用于角色。 更多细节可以在https://en.wikipedia.org/wiki/Morph_target_animation 找到
 
 ```csharp
 public class MorphTargetDeformer : Deformer
@@ -18,8 +18,8 @@ public class MorphTargetDeformer : Deformer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MorphTargetDeformer](morphtargetdeformer#constructor)() | 初始化[`MorphTargetDeformer`](../morphtargetdeformer)类的新实例。 |
-| [MorphTargetDeformer](morphtargetdeformer#constructor_1)(string) | 初始化[`MorphTargetDeformer`](../morphtargetdeformer)类的新实例。 |
+| [MorphTargetDeformer](morphtargetdeformer#constructor)() | 初始化[`MorphTargetDeformer`](../morphtargetdeformer)类. |
+| [MorphTargetDeformer](morphtargetdeformer#constructor_1)(string) | 初始化[`MorphTargetDeformer`](../morphtargetdeformer)类. |
 
 ## 特性
 
@@ -28,17 +28,17 @@ public class MorphTargetDeformer : Deformer
 | [Channels](../../aspose.threed.deformers/morphtargetdeformer/channels) { get; } | 获取此变形器中包含的所有通道 |
 | [Item](../../aspose.threed.deformers/morphtargetdeformer/item) { get; set; } |  |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
-| [Owner](../../aspose.threed.deformers/deformer/owner) { get; } | 获取拥有此变形器的几何体 |
+| [Owner](../../aspose.threed.deformers/deformer/owner) { get; } | 获取拥有此变形器的几何图形 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

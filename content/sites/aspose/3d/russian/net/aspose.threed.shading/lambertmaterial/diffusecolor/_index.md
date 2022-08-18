@@ -1,14 +1,14 @@
 ---
 title: DiffuseColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает диффузный цвет
+description: Получает или задает диффузный цвет
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.shading/lambertmaterial/diffusecolor/
 ---
 ## LambertMaterial.DiffuseColor property
 
-Получает или устанавливает диффузный цвет
+Получает или задает диффузный цвет
 
 ```csharp
 public Vector3 DiffuseColor { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: VertexElementVector4
 second_title: Aspose.3D for .NET API 参考
-description: 用于定义具体VertexElement./vertexelement实现的帮助类
+description: 定义具体的辅助类VertexElement./vertexelement实现.
 type: docs
 weight: 920
 url: /zh/net/aspose.threed.entities/vertexelementvector4/
 ---
 ## VertexElementVector4 class
 
-用于定义具体[`VertexElement`](../vertexelement)实现的帮助类。
+定义具体的辅助类[`VertexElement`](../vertexelement)实现.
 
 ```csharp
 public abstract class VertexElementVector4 : VertexElement
@@ -23,7 +23,7 @@ public abstract class VertexElementVector4 : VertexElement
 | [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | 获取或设置元素的映射方式。 |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | 获取或设置名称。 |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | 获取或设置元素的引用方式。 |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取[`VertexElement`](../vertexelement) |
+| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取类型[`VertexElement`](../vertexelement) |
 
 ## 方法
 

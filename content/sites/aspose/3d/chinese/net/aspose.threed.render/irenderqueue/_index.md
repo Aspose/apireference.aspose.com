@@ -3,7 +3,7 @@ title: IRenderQueue
 second_title: Aspose.3D for .NET API 参考
 description: 实体渲染器使用此队列来管理渲染任务
 type: docs
-weight: 1870
+weight: 1880
 url: /zh/net/aspose.threed.render/irenderqueue/
 ---
 ## IRenderQueue interface

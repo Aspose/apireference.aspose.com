@@ -1,14 +1,14 @@
 ---
 title: AddVertex
 second_title: Справочник по Aspose.3D для .NET API
-description: Добавляет индекс вершины к полигону
+description: Добавляет индекс вершины к многоугольнику
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/polygonbuilder/addvertex/
 ---
 ## PolygonBuilder.AddVertex method
 
-Добавляет индекс вершины к полигону
+Добавляет индекс вершины к многоугольнику
 
 ```csharp
 public void AddVertex(int index)

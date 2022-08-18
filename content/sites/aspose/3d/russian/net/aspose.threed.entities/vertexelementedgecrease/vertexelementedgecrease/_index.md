@@ -1,14 +1,14 @@
 ---
 title: VertexElementEdgeCrease
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementEdgeCreaseaspose.threed.entities/vertexelementedgecrease.
+description: Инициализирует новый экземплярVertexElementEdgeCreaseaspose.threed.entities/vertexelementedgecrease класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementedgecrease/vertexelementedgecrease/
 ---
 ## VertexElementEdgeCrease constructor
 
-Инициализирует новый экземпляр класса[`VertexElementEdgeCrease`](../../vertexelementedgecrease).
+Инициализирует новый экземпляр[`VertexElementEdgeCrease`](../../vertexelementedgecrease) класс.
 
 ```csharp
 public VertexElementEdgeCrease()

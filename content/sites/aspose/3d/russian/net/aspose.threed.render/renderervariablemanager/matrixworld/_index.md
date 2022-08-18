@@ -1,14 +1,14 @@
 ---
 title: MatrixWorld
 second_title: Справочник по Aspose.3D для .NET API
-description: Матрица преобразования мира
+description: Матрица трансформации мира
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.render/renderervariablemanager/matrixworld/
 ---
 ## RendererVariableManager.MatrixWorld property
 
-Матрица преобразования мира
+Матрица трансформации мира
 
 ```csharp
 public FMatrix4 MatrixWorld { get; }

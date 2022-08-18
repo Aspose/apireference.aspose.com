@@ -1,14 +1,14 @@
 ---
 title: DuplicatedNameCounterFormat
 second_title: Справочник по Aspose.3D для .NET API
-description: Формат дублированного счетчика значение по умолчанию - пустая строка.
+description: Формат дублированного счетчика значение по умолчанию  пустая строка.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.formats/discreet3dssaveoptions/duplicatednamecounterformat/
 ---
 ## Discreet3dsSaveOptions.DuplicatedNameCounterFormat property
 
-Формат дублированного счетчика, значение по умолчанию - пустая строка.
+Формат дублированного счетчика, значение по умолчанию — пустая строка.
 
 ```csharp
 public string DuplicatedNameCounterFormat { get; set; }

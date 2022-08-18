@@ -1,14 +1,14 @@
 ---
 title: Depth
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置轮廓的深度
+description: 获取或设置剖面的深度
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.profiles/cshape/depth/
 ---
 ## CShape.Depth property
 
-获取或设置轮廓的深度。
+获取或设置剖面的深度。
 
 ```csharp
 public double Depth { get; set; }

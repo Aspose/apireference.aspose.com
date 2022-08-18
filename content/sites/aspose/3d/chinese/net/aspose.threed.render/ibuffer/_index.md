@@ -3,7 +3,7 @@ title: IBuffer
 second_title: Aspose.3D for .NET API 参考
 description: 渲染中使用的所有托管缓冲区的基本接口
 type: docs
-weight: 1820
+weight: 1830
 url: /zh/net/aspose.threed.render/ibuffer/
 ---
 ## IBuffer interface

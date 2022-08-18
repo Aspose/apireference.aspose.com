@@ -18,18 +18,18 @@ public class Torus : Primitive
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Torus](torus#constructor)() | 初始化[`Torus`](../torus)类的新实例。 |
-| [Torus](torus#constructor_1)(double, double) | 初始化[`Torus`](../torus)类的新实例。 |
-| [Torus](torus#constructor_2)(double, double, double) | 初始化[`Torus`](../torus)类的新实例。 |
-| [Torus](torus#constructor_3)(string, double, double, int, int, double) | 初始化[`Torus`](../torus)类的新实例。 |
+| [Torus](torus#constructor)() | 初始化[`Torus`](../torus)类. |
+| [Torus](torus#constructor_1)(double, double) | 初始化[`Torus`](../torus)类. |
+| [Torus](torus#constructor_2)(double, double, double) | 初始化[`Torus`](../torus)类. |
+| [Torus](torus#constructor_3)(string, double, double, int, int, double) | 初始化[`Torus`](../torus)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Arc](../../aspose.threed.entities/torus/arc) { get; set; } | 获取或设置圆弧。 |
-| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | 获取或设置此几何是否可以投射阴影 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | 获取或设置此几何体是否可以投射阴影 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
 | [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | 获取所有父节点，一个实体可以附加到多个父节点进行几何实例化 |
@@ -39,18 +39,18 @@ public class Torus : Primitive
 | [ReceiveShadows](../../aspose.threed.entities/primitive/receiveshadows) { get; set; } | 获取或设置此几何体是否可以接收阴影。 |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | 获取该对象所属的场景 |
 | [Tube](../../aspose.threed.entities/torus/tube) { get; set; } | 获取或设置管的半径。 |
-| [TubularSegments](../../aspose.threed.entities/torus/tubularsegments) { get; set; } | 获取或设置管状段。 |
+| [TubularSegments](../../aspose.threed.entities/torus/tubularsegments) { get; set; } | 获取或设置管段。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 | override [ToMesh](../../aspose.threed.entities/torus/tomesh)() | 将当前对象转换为网格 |
 

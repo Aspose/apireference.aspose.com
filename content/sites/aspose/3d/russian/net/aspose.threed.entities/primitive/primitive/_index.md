@@ -1,14 +1,14 @@
 ---
 title: Primitive
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаPrimitiveaspose.threed.entities/primitive.
+description: Инициализирует новый экземплярPrimitiveaspose.threed.entities/primitive класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/primitive/primitive/
 ---
 ## Primitive constructor
 
-Инициализирует новый экземпляр класса[`Primitive`](../../primitive).
+Инициализирует новый экземпляр[`Primitive`](../../primitive) класс.
 
 ```csharp
 public Primitive(string name)

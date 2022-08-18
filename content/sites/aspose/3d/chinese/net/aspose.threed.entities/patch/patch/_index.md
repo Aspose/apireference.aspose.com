@@ -1,14 +1,14 @@
 ---
 title: Patch
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Patchaspose.threed.entities/patch类的新实例
+description: 初始化Patchaspose.threed.entities/patch类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/patch/patch/
 ---
 ## Patch() {#constructor}
 
-初始化[`Patch`](../../patch)类的新实例。
+初始化[`Patch`](../../patch)类.
 
 ```csharp
 public Patch()
@@ -24,7 +24,7 @@ public Patch()
 
 ## Patch(string) {#constructor_1}
 
-初始化[`Patch`](../../patch)类的新实例。
+初始化[`Patch`](../../patch)类.
 
 ```csharp
 public Patch(string name)
@@ -32,7 +32,7 @@ public Patch(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 
 ### 也可以看看
 

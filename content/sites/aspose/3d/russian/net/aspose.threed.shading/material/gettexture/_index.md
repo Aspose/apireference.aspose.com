@@ -1,14 +1,14 @@
 ---
 title: GetTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает текстуру из указанного слота это может быть имя свойства материала или имя параметра шейдера
+description: Получает текстуру из указанного слота это может быть имя свойства материала или параметр шейдера name
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.shading/material/gettexture/
 ---
 ## Material.GetTexture method
 
-Получает текстуру из указанного слота, это может быть имя свойства материала или имя параметра шейдера
+Получает текстуру из указанного слота, это может быть имя свойства материала или параметр шейдера name
 
 ```csharp
 public TextureBase GetTexture(string slotName)
@@ -16,7 +16,7 @@ public TextureBase GetTexture(string slotName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя_слота | String | Имя слота. |
+| slotName | String | Название слота. |
 
 ### Возвращаемое значение
 

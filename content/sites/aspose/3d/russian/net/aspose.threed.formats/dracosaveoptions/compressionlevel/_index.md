@@ -8,7 +8,7 @@ url: /ru/net/aspose.threed.formats/dracosaveoptions/compressionlevel/
 ---
 ## DracoSaveOptions.CompressionLevel property
 
-Уровень сжатия, значение по умолчанию:Standard
+Уровень сжатия, значение по умолчаниюStandard
 
 ```csharp
 public DracoCompressionLevel CompressionLevel { get; set; }

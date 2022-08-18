@@ -1,14 +1,14 @@
 ---
 title: ApplicationName
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает приложение создавшее этот ресурс
+description: Получает или задает приложение создавшее этот актив
 type: docs
 weight: 30
 url: /ru/net/aspose.threed/assetinfo/applicationname/
 ---
 ## AssetInfo.ApplicationName property
 
-Получает или задает приложение, создавшее этот ресурс
+Получает или задает приложение, создавшее этот актив
 
 ```csharp
 public string ApplicationName { get; set; }

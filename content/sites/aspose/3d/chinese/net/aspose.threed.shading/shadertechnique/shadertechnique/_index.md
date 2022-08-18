@@ -1,14 +1,14 @@
 ---
 title: ShaderTechnique
 second_title: Aspose.3D for .NET API 参考
-description: 初始化ShaderTechniqueaspose.threed.shading/shadertechnique类的新实例
+description: 初始化ShaderTechniqueaspose.threed.shading/shadertechnique类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.shading/shadertechnique/shadertechnique/
 ---
 ## ShaderTechnique constructor
 
-初始化[`ShaderTechnique`](../../shadertechnique)类的新实例。
+初始化[`ShaderTechnique`](../../shadertechnique)类.
 
 ```csharp
 public ShaderTechnique()

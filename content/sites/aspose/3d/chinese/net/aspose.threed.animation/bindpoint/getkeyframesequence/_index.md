@@ -1,14 +1,14 @@
 ---
 title: GetKeyframeSequence
 second_title: Aspose.3D for .NET API 参考
-description: 获取指定频道的第一个关键帧序列
+description: 获取指定通道的第一个关键帧序列
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.animation/bindpoint/getkeyframesequence/
 ---
 ## BindPoint.GetKeyframeSequence method
 
-获取指定频道的第一个关键帧序列
+获取指定通道的第一个关键帧序列
 
 ```csharp
 public KeyframeSequence GetKeyframeSequence(string channelName)
@@ -16,11 +16,11 @@ public KeyframeSequence GetKeyframeSequence(string channelName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelName | String | 频道要查找的名称 |
+| channelName | String | 要查找的频道名称 |
 
 ### 返回值
 
-具有通道名称
+具有频道名称的第一个关键帧序列
 
 ### 也可以看看
 

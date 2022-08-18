@@ -16,8 +16,8 @@ public BoundingBox2D(Vector2 minimum, Vector2 maximum)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| minimum | Vector2 | 最小拐角 |
-| maximum | Vector2 | 最大拐角 |
+| minimum | Vector2 | 最小角 |
+| maximum | Vector2 | 最大转角 |
 
 ### 也可以看看
 

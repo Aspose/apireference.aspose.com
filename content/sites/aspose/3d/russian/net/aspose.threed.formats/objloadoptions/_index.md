@@ -1,14 +1,14 @@
 ---
 title: ObjLoadOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Параметры загрузки для объекта волнового фронта
+description: Параметры загрузки волнового фронта obj
 type: docs
 weight: 1210
 url: /ru/net/aspose.threed.formats/objloadoptions/
 ---
 ## ObjLoadOptions class
 
-Параметры загрузки для объекта волнового фронта
+Параметры загрузки волнового фронта obj
 
 ```csharp
 public class ObjLoadOptions : LoadOptions
@@ -24,12 +24,12 @@ public class ObjLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [EnableMaterials](../../aspose.threed.formats/objloadoptions/enablematerials) { get; set; } | Получает или устанавливает, импортируются ли материалы для каждого объекта |
+| [EnableMaterials](../../aspose.threed.formats/objloadoptions/enablematerials) { get; set; } | Получает или задает, нужно ли импортировать материалы для каждого объекта |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [FlipCoordinateSystem](../../aspose.threed.formats/objloadoptions/flipcoordinatesystem) { get; set; } | Возвращает или задает, переворачивать ли систему координат опорных точек/нормаль при импорте |
+| [FlipCoordinateSystem](../../aspose.threed.formats/objloadoptions/flipcoordinatesystem) { get; set; } | Получает или задает, следует ли переворачивать систему координат контрольных точек/нормаль во время импорта |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
 | [NormalizeNormal](../../aspose.threed.formats/objloadoptions/normalizenormal) { get; set; } | Получает или задает, следует ли нормализовать вектор нормали во время загрузки. Значение по умолчанию — true. |
 | [Scale](../../aspose.threed.formats/objloadoptions/scale) { get; set; } | Масштабирует по осям x/y/z, значение по умолчанию 1.0 |

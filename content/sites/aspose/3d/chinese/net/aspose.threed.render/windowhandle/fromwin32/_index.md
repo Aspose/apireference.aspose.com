@@ -16,7 +16,7 @@ public static WindowHandle FromWin32(IntPtr hWnd)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| hWnd | IntPtr | 本机 Win32 窗口句柄 |
+| hWnd | IntPtr | 本机 Win32 窗口的句柄 |
 
 ### 也可以看看
 

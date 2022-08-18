@@ -1,14 +1,14 @@
 ---
 title: Vertex
 second_title: Справочник по Aspose.3D для .NET API
-description: Ссылка на вершину используемая для доступа к необработанной вершине вTriMesh../aspose.threed.entities/trimesh.
+description: Ссылка на вершину используемая для доступа к необработанной вершине вTriMesh../aspose.threed.entities/trimesh .
 type: docs
-weight: 2670
+weight: 2660
 url: /ru/net/aspose.threed.utilities/vertex/
 ---
 ## Vertex class
 
-Ссылка на вершину, используемая для доступа к необработанной вершине в[`TriMesh`](../../aspose.threed.entities/trimesh).
+Ссылка на вершину, используемая для доступа к необработанной вершине в[`TriMesh`](../../aspose.threed.entities/trimesh) .
 
 ```csharp
 public abstract class Vertex : IComparable<Vertex>
@@ -21,12 +21,12 @@ public abstract class Vertex : IComparable<Vertex>
 | abstract [CompareTo](../../aspose.threed.utilities/vertex/compareto)(Vertex) | Сравните вершину с другим экземпляром вершины |
 | [ReadDouble](../../aspose.threed.utilities/vertex/readdouble)(VertexField) | Читать двойное поле |
 | [ReadFloat](../../aspose.threed.utilities/vertex/readfloat)(VertexField) | Чтение поля с плавающей запятой |
-| [ReadFVector2](../../aspose.threed.utilities/vertex/readfvector2)(VertexField) | Читать поле vector2 |
-| [ReadFVector3](../../aspose.threed.utilities/vertex/readfvector3)(VertexField) | Читать поле vector3 |
-| [ReadFVector4](../../aspose.threed.utilities/vertex/readfvector4)(VertexField) | Читать поле vector4 |
-| [ReadVector2](../../aspose.threed.utilities/vertex/readvector2)(VertexField) | Читать поле vector2 |
-| [ReadVector3](../../aspose.threed.utilities/vertex/readvector3)(VertexField) | Читать поле vector3 |
-| [ReadVector4](../../aspose.threed.utilities/vertex/readvector4)(VertexField) | Читать поле vector4 |
+| [ReadFVector2](../../aspose.threed.utilities/vertex/readfvector2)(VertexField) | Прочитать поле vector2 |
+| [ReadFVector3](../../aspose.threed.utilities/vertex/readfvector3)(VertexField) | Прочитать поле vector3 |
+| [ReadFVector4](../../aspose.threed.utilities/vertex/readfvector4)(VertexField) | Прочитать поле vector4 |
+| [ReadVector2](../../aspose.threed.utilities/vertex/readvector2)(VertexField) | Прочитать поле vector2 |
+| [ReadVector3](../../aspose.threed.utilities/vertex/readvector3)(VertexField) | Прочитать поле vector3 |
+| [ReadVector4](../../aspose.threed.utilities/vertex/readvector4)(VertexField) | Прочитать поле vector4 |
 
 ### Смотрите также
 

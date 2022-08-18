@@ -11,15 +11,15 @@ url: /ru/net/aspose.threed/a3dobject/
 Базовый класс всех объектов Aspose.ThreeD, все подклассы будут поддерживать динамические свойства.
 
 ```csharp
-public class A3DObject
+public class A3DObject : INamedObject
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [A3DObject](a3dobject#constructor)() | Инициализирует новый экземпляр класса[`A3DObject`](../a3dobject)без имени. |
-| [A3DObject](a3dobject#constructor_1)(string) | Инициализирует новый экземпляр класса[`A3DObject`](../a3dobject). |
+| [A3DObject](a3dobject#constructor)() | Инициализирует новый экземпляр[`A3DObject`](../a3dobject)класс без имени. |
+| [A3DObject](a3dobject#constructor_1)(string) | Инициализирует новый экземпляр[`A3DObject`](../a3dobject) класс. |
 
 ## Характеристики
 
@@ -35,11 +35,12 @@ public class A3DObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty#removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty#removeproperty_1)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty#removeproperty_1)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также
 
+* interface [INamedObject](../inamedobject)
 * пространство имен [Aspose.ThreeD](../../aspose.threed)
 * сборка [Aspose.3D](../../)
 

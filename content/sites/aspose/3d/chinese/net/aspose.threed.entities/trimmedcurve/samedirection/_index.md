@@ -1,14 +1,14 @@
 ---
 title: SameDirection
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置修剪结果是否使用与基曲线相同的方向
+description: 获取或设置修剪后的结果是否使用同方向的基础曲线
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/trimmedcurve/samedirection/
 ---
 ## TrimmedCurve.SameDirection property
 
-获取或设置修剪结果是否使用与基曲线相同的方向。
+获取或设置修剪后的结果是否使用同方向的基础曲线。
 
 ```csharp
 public bool SameDirection { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: FrameBegin
 second_title: Aspose.3D for .NET API 参考
-description: 开始渲染一帧
+description: 开始渲染帧
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.render/entityrenderer/framebegin/
 ---
 ## EntityRenderer.FrameBegin method
 
-开始渲染一帧
+开始渲染帧
 
 ```csharp
 public virtual void FrameBegin(Renderer renderer, IRenderQueue renderQueue)

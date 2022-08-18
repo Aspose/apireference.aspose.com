@@ -1,14 +1,14 @@
 ---
 title: ShearTop
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置顶边的切变变换vector存储以弧度为单位的x轴z轴切变值默认值为 0 0
+description: 获取或设置顶边的剪切变换vector存储x轴z轴以弧度测量的剪切值默认值为0 0
 type: docs
 weight: 120
 url: /zh/net/aspose.threed.entities/cylinder/sheartop/
 ---
 ## Cylinder.ShearTop property
 
-获取或设置顶边的切变变换，vector存储以弧度为单位的（x轴，z轴）切变值，默认值为（ 0, 0)
+获取或设置顶边的剪切变换，vector存储（x轴，z轴）以弧度测量的剪切值，默认值为(0, 0)
 
 ```csharp
 public Vector2 ShearTop { get; set; }

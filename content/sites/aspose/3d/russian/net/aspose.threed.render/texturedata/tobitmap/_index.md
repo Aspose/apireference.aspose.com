@@ -1,14 +1,14 @@
 ---
 title: ToBitmap
 second_title: Справочник по Aspose.3D для .NET API
-description: Преобразование TextureData в экземплярBitmap.
+description: Преобразование TextureData вBitmap экземпляр.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.render/texturedata/tobitmap/
 ---
 ## TextureData.ToBitmap method
 
-Преобразование TextureData в экземплярBitmap.
+Преобразование TextureData вBitmap экземпляр.
 
 ```csharp
 public Bitmap ToBitmap()

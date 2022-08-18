@@ -1,14 +1,14 @@
 ---
 title: ZipArchiveFileSystem
 second_title: Aspose.3D for .NET API 参考
-description: 文件系统提供对指定 zip 文件或 zip 流的只读访问 文件系统将在打开/保存操作后被释放
+description: 提供对指定 zip 文件或 zip 流的只读访问权限的文件系统 打开/保存操作后将处理文件系统
 type: docs
-weight: 2730
+weight: 2720
 url: /zh/net/aspose.threed.utilities/ziparchivefilesystem/
 ---
 ## ZipArchiveFileSystem class
 
-文件系统提供对指定 zip 文件或 zip 流的只读访问。 文件系统将在打开/保存操作后被释放。
+提供对指定 zip 文件或 zip 流的只读访问权限的文件系统。 打开/保存操作后将处理文件系统。
 
 ```csharp
 public class ZipArchiveFileSystem : FileSystem
@@ -18,17 +18,17 @@ public class ZipArchiveFileSystem : FileSystem
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ZipArchiveFileSystem](ziparchivefilesystem#constructor)(Stream) | 通过流构造[`ZipArchiveFileSystem`](../ziparchivefilesystem)。 |
-| [ZipArchiveFileSystem](ziparchivefilesystem#constructor_2)(string) | 通过文件名构造一个[`ZipArchiveFileSystem`](../ziparchivefilesystem)。 |
-| [ZipArchiveFileSystem](ziparchivefilesystem#constructor_1)(Stream, string) | 通过流构造[`ZipArchiveFileSystem`](../ziparchivefilesystem)。 |
+| [ZipArchiveFileSystem](ziparchivefilesystem#constructor)(Stream) | 构造一个[`ZipArchiveFileSystem`](../ziparchivefilesystem)通过流. |
+| [ZipArchiveFileSystem](ziparchivefilesystem#constructor_2)(string) | 构造一个[`ZipArchiveFileSystem`](../ziparchivefilesystem)通过文件名. |
+| [ZipArchiveFileSystem](ziparchivefilesystem#constructor_1)(Stream, string) | 构造一个[`ZipArchiveFileSystem`](../ziparchivefilesystem)通过流. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Dispose](../../aspose.threed.utilities/ziparchivefilesystem/dispose)() | 释放 ZipArchiveFileSystem 并释放其内部资源。 |
-| override [ReadFile](../../aspose.threed.utilities/ziparchivefilesystem/readfile)(string, IOConfig) | 打开文件进行读取 |
-| override [WriteFile](../../aspose.threed.utilities/ziparchivefilesystem/writefile)(string, IOConfig) | 打开文件写入，未在此类中实现。 |
+| override [Dispose](../../aspose.threed.utilities/ziparchivefilesystem/dispose)() | 处理 ZipArchiveFileSystem 并释放其内部资源。 |
+| override [ReadFile](../../aspose.threed.utilities/ziparchivefilesystem/readfile)(string, IOConfig) | 打开文件读取 |
+| override [WriteFile](../../aspose.threed.utilities/ziparchivefilesystem/writefile)(string, IOConfig) | 打开文件写入，在这个类中没有实现。 |
 
 ### 也可以看看
 

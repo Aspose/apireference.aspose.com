@@ -1,14 +1,14 @@
 ---
 title: Set
 second_title: Aspose.3D for .NET API 参考
-description: 在一次调用中设置 x/y/z 组件
+description: 在一次调用中设置 x/y/z 分量
 type: docs
 weight: 200
 url: /zh/net/aspose.threed.utilities/vector3/set/
 ---
 ## Vector3.Set method
 
-在一次调用中设置 x/y/z 组件。
+在一次调用中设置 x/y/z 分量。
 
 ```csharp
 public void Set(double newX, double newY, double newZ)

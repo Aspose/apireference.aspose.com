@@ -1,14 +1,14 @@
 ---
 title: FromFile
 second_title: Aspose.3D for .NET API 参考
-description: 使用指定文件格式从给定路径打开场景
+description: 使用指定的文件格式从给定路径打开场景
 type: docs
 weight: 20
 url: /zh/net/aspose.threed/scene/fromfile/
 ---
 ## FromFile(string, FileFormat, CancellationToken) {#fromfile_1}
 
-使用指定文件格式从给定路径打开场景。
+使用指定的文件格式从给定路径打开场景。
 
 ```csharp
 public static Scene FromFile(string fileName, FileFormat format, 
@@ -32,7 +32,7 @@ public static Scene FromFile(string fileName, FileFormat format,
 
 ## FromFile(string, LoadOptions, CancellationToken) {#fromfile_2}
 
-使用指定文件格式从给定路径打开场景。
+使用指定的文件格式从给定路径打开场景。
 
 ```csharp
 public static Scene FromFile(string fileName, LoadOptions options, 

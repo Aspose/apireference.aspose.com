@@ -1,14 +1,14 @@
 ---
 title: BeginUpdate
 second_title: Справочник по Aspose.3D для .NET API
-description: Начать обновление набора дескрипторов
+description: Начать обновление дескриптора set
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/idescriptorset/beginupdate/
 ---
 ## IDescriptorSet.BeginUpdate method
 
-Начать обновление набора дескрипторов
+Начать обновление дескриптора set
 
 ```csharp
 public DescriptorSetUpdater BeginUpdate()

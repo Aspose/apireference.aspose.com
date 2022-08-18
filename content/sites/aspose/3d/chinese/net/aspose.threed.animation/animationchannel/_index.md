@@ -19,8 +19,8 @@ public class AnimationChannel : IEnumerable<KeyframeSequence>
 | 姓名 | 描述 |
 | --- | --- |
 | [ComponentType](../../aspose.threed.animation/animationchannel/componenttype) { get; } | 获取组件字段的类型 |
-| [DefaultValue](../../aspose.threed.animation/animationchannel/defaultvalue) { get; set; } | 获取或设置通道的默认值。 如果通道没有连接关键帧序列，则在动画评估期间将使用默认值。 真实场景:动画只对节点的 x 坐标进行动画处理，y 和 z 没有改变， 则在全平移评估时将使用默认值。 |
-| [KeyframeSequences](../../aspose.threed.animation/animationchannel/keyframesequences) { get; } | 获取该频道内的所有关键帧序列 |
+| [DefaultValue](../../aspose.threed.animation/animationchannel/defaultvalue) { get; set; } | 获取或设置通道的默认值。 如果通道没有连接关键帧序列，动画评估时将使用默认值。 真实场景：动画只动画节点的x坐标，y和z是未更改， 则在完整翻译评估期间将使用默认值。 |
+| [KeyframeSequences](../../aspose.threed.animation/animationchannel/keyframesequences) { get; } | 获取该通道内的所有关键帧序列 |
 | [Name](../../aspose.threed.animation/animationchannel/name) { get; } | 获取频道名称 |
 
 ## 方法
@@ -28,7 +28,7 @@ public class AnimationChannel : IEnumerable<KeyframeSequence>
 | 姓名 | 描述 |
 | --- | --- |
 | [AddKeyframeSequence](../../aspose.threed.animation/animationchannel/addkeyframesequence)(KeyframeSequence) | 将关键帧序列添加到此通道 |
-| [GetEnumerator](../../aspose.threed.animation/animationchannel/getenumerator)() | 获取枚举器以遍历此通道内的所有关键帧序列 |
+| [GetEnumerator](../../aspose.threed.animation/animationchannel/getenumerator)() | 获取一个枚举器以遍历此通道内的所有关键帧序列 |
 
 ### 也可以看看
 

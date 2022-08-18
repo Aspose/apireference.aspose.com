@@ -1,14 +1,14 @@
 ---
 title: RelativeRectangle
 second_title: Aspose.3D for .NET API 参考
-description: 相对矩形 相对分量到绝对值的公式是 Scale  Reference Width  offset 因此如果我们希望它表示一个绝对值请将所有比例字段保留为零并使用偏移字段
+description: 相对矩形 相对分量到绝对值的公式是 比例参考宽度 偏移量 所以如果我们希望它表示一个绝对值请将所有比例字段保留为零并使用偏移字段
 type: docs
-weight: 2610
+weight: 2600
 url: /zh/net/aspose.threed.utilities/relativerectangle/
 ---
 ## RelativeRectangle structure
 
-相对矩形 相对分量到绝对值的公式是: Scale * (Reference Width) + offset 因此，如果我们希望它表示一个绝对值，请将所有比例字段保留为零，并使用偏移字段。
+相对矩形 相对分量到绝对值的公式是： 比例*（参考宽度）+ 偏移量 所以如果我们希望它表示一个绝对值，请将所有比例字段保留为零，并使用偏移字段。
 
 ```csharp
 public struct RelativeRectangle
@@ -18,8 +18,8 @@ public struct RelativeRectangle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OffsetHeight](../../aspose.threed.utilities/relativerectangle/offsetheight) { get; set; } | 获取或设置高度偏移量 |
-| [OffsetWidth](../../aspose.threed.utilities/relativerectangle/offsetwidth) { get; set; } | 获取或设置宽度的偏移量 |
+| [OffsetHeight](../../aspose.threed.utilities/relativerectangle/offsetheight) { get; set; } | 获取或设置 height 的偏移量 |
+| [OffsetWidth](../../aspose.threed.utilities/relativerectangle/offsetwidth) { get; set; } | 获取或设置 width 的偏移量 |
 | [OffsetX](../../aspose.threed.utilities/relativerectangle/offsetx) { get; set; } | 获取或设置坐标 X 的偏移量 |
 | [OffsetY](../../aspose.threed.utilities/relativerectangle/offsety) { get; set; } | 获取或设置坐标 Y 的偏移量 |
 | [ScaleHeight](../../aspose.threed.utilities/relativerectangle/scaleheight) { get; set; } | 相对高度 |
@@ -31,10 +31,10 @@ public struct RelativeRectangle
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [FromScale](../../aspose.threed.utilities/relativerectangle/fromscale)(float, float, float, float) | 构造一个[`RelativeRectangle`](../relativerectangle)，所有偏移字段为零，并根据给定参数缩放字段。 |
+| static [FromScale](../../aspose.threed.utilities/relativerectangle/fromscale)(float, float, float, float) | 构造一个[`RelativeRectangle`](../relativerectangle)给定参数的所有偏移字段为零和缩放字段。 |
 | [ToAbsolute](../../aspose.threed.utilities/relativerectangle/toabsolute#toabsolute)(Rectangle) | 将相对矩形转换为绝对矩形 |
 | [ToAbsolute](../../aspose.threed.utilities/relativerectangle/toabsolute#toabsolute_1)(Size) | 将相对矩形转换为绝对矩形 |
-| override [ToString](../../aspose.threed.utilities/relativerectangle/tostring)() | 将此实例的值转换为String。 |
+| override [ToString](../../aspose.threed.utilities/relativerectangle/tostring)() | 将此实例的值转换为String. |
 
 ### 也可以看看
 

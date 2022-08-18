@@ -16,7 +16,7 @@ public void BindKeyframeSequence(string channelName, KeyframeSequence sequence)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelName | String | 哪个通道关键帧序列将绑定到 |
+| channelName | String | 关键帧序列将绑定到哪个通道 |
 | sequence | KeyframeSequence | 要绑定的关键帧序列 |
 
 ### 也可以看看

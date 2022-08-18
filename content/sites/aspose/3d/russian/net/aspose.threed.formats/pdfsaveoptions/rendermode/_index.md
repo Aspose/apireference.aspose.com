@@ -1,14 +1,14 @@
 ---
 title: RenderMode
 second_title: Справочник по Aspose.3D для .NET API
-description: Режим рендеринга определяет стиль в котором визуализируется трехмерное изображение.
+description: Режим рендеринга определяет стиль в котором визуализируется 3D-графика.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.formats/pdfsaveoptions/rendermode/
 ---
 ## PdfSaveOptions.RenderMode property
 
-Режим рендеринга определяет стиль, в котором визуализируется трехмерное изображение.
+Режим рендеринга определяет стиль, в котором визуализируется 3D-графика.
 
 ```csharp
 public PdfRenderMode RenderMode { get; set; }

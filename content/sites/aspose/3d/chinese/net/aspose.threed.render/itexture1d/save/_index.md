@@ -19,6 +19,12 @@ public void Save(string path, ImageFormat format)
 | path | String | 要保存的文件名。 |
 | format | ImageFormat | 图像格式 |
 
+### 例外
+
+| 例外 | （健康）状况 |
+| --- | --- |
+| IOException |  |
+
 ### 也可以看看
 
 * interface [ITexture1D](../../itexture1d)

@@ -1,14 +1,14 @@
 ---
 title: Stride
 second_title: Aspose.3D for .NET API 参考
-description: 扫描线的字节数
+description: 一条扫描线的字节数
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.render/texturedata/stride/
 ---
 ## TextureData.Stride property
 
-扫描线的字节数。
+一条扫描线的字节数。
 
 ```csharp
 public int Stride { get; }

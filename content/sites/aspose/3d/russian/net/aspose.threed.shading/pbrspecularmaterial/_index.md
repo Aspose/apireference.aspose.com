@@ -3,7 +3,7 @@ title: PbrSpecularMaterial
 second_title: Справочник по Aspose.3D для .NET API
 description: Материал для физического рендеринга на основе диффузного цвета/зеркальности/глянцевости
 type: docs
-weight: 2300
+weight: 2310
 url: /ru/net/aspose.threed.shading/pbrspecularmaterial/
 ---
 ## PbrSpecularMaterial class
@@ -24,37 +24,37 @@ public class PbrSpecularMaterial : Material
 
 | Имя | Описание |
 | --- | --- |
-| [Diffuse](../../aspose.threed.shading/pbrspecularmaterial/diffuse) { get; set; } | Получает или задает диффузный цвет материала, значение по умолчанию (1, 1, 1) |
+| [Diffuse](../../aspose.threed.shading/pbrspecularmaterial/diffuse) { get; set; } | Получает или задает диффузный цвет материала, значение по умолчанию: (1, 1, 1) |
 | [DiffuseTexture](../../aspose.threed.shading/pbrspecularmaterial/diffusetexture) { get; set; } | Получает или устанавливает текстуру для диффузного |
 | [EmissiveColor](../../aspose.threed.shading/pbrspecularmaterial/emissivecolor) { get; set; } | Получает или задает цвет излучения, значение по умолчанию (0, 0, 0) |
-| [EmissiveTexture](../../aspose.threed.shading/pbrspecularmaterial/emissivetexture) { get; set; } | Получает или устанавливает текстуру для эмиссии |
-| [GlossinessFactor](../../aspose.threed.shading/pbrspecularmaterial/glossinessfactor) { get; set; } | Получает или задает глянцевитость (гладкость) материала, 1 означает идеально гладкий, 0 означает идеально шероховатый, значение по умолчанию 1, диапазон [0, 1] |
+| [EmissiveTexture](../../aspose.threed.shading/pbrspecularmaterial/emissivetexture) { get; set; } | Получает или устанавливает текстуру для emissive |
+| [GlossinessFactor](../../aspose.threed.shading/pbrspecularmaterial/glossinessfactor) { get; set; } | Получает или задает глянцевитость (гладкость) материала, 1 означает идеально гладкий, 0 означает идеально шероховатый, значение по умолчанию — 1, диапазон — [0, 1] |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
 | [NormalTexture](../../aspose.threed.shading/pbrspecularmaterial/normaltexture) { get; set; } | Получает или задает текстуру карты нормалей |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
-| [Specular](../../aspose.threed.shading/pbrspecularmaterial/specular) { get; set; } | Получает или задает зеркальный цвет материала, значение по умолчанию (1, 1, 1). |
-| [SpecularGlossinessTexture](../../aspose.threed.shading/pbrspecularmaterial/specularglossinesstexture) { get; set; } | Получает или устанавливает текстуру для зеркального цвета, канал RGB сохраняет зеркальный цвет, а канал A сохраняет глянцевитость. |
-| [Transparency](../../aspose.threed.shading/pbrspecularmaterial/transparency) { get; set; } | Получает или задает коэффициент прозрачности. Коэффициент должен находиться в диапазоне от 0 (0%, полностью непрозрачный) до 1 (100%, полностью прозрачный) Любое недопустимое значение коэффициента будет зафиксировано. |
+| [Specular](../../aspose.threed.shading/pbrspecularmaterial/specular) { get; set; } | Получает или задает зеркальный цвет материала, значение по умолчанию — (1, 1, 1). |
+| [SpecularGlossinessTexture](../../aspose.threed.shading/pbrspecularmaterial/specularglossinesstexture) { get; set; } | Получает или задает текстуру для зеркального цвета, канал RGB сохраняет зеркальный цвет, а канал A сохраняет глянцевитость. |
+| [Transparency](../../aspose.threed.shading/pbrspecularmaterial/transparency) { get; set; } | Получает или устанавливает коэффициент прозрачности. Коэффициент должен находиться в диапазоне от 0 (0%, полностью непрозрачный) до 1 (100%, полностью прозрачный) Любое недопустимое значение коэффициента будет зафиксировано. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
-| [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Получает перечислитель для перечисления внутренних слотов текстуры. |
+| [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Получает перечислитель для перечисления внутренних слотов текстур. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | Получает текстуру из указанного слота, это может быть имя свойства материала или имя параметра шейдера |
+| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | Получает текстуру из указанного слота, это может быть имя свойства материала или параметр шейдера name |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 | [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | Устанавливает текстуру в указанный слот |
-| override [ToString](../../aspose.threed.shading/material/tostring)() | Форматирует объект в строку |
+| override [ToString](../../aspose.threed.shading/material/tostring)() | Форматирует объект в string |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [MapSpecularGlossiness](../../aspose.threed.shading/pbrspecularmaterial/mapspecularglossiness) | Карта текстур для зеркального блеска |
+| const [MapSpecularGlossiness](../../aspose.threed.shading/pbrspecularmaterial/mapspecularglossiness) | Карта текстуры для зеркального блеска |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: w
 second_title: Aspose.3D for .NET API 参考
-description: w 组件
+description: w 分量
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.utilities/quaternion/w/
 ---
 ## Quaternion.w field
 
-w 组件。
+w 分量。
 
 ```csharp
 public double w;

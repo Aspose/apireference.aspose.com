@@ -1,14 +1,14 @@
 ---
 title: Shininess
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает блеск управляет размером зеркального блика. Формула отражения SpecularColor  SpecularFactor  N dot H  Блеск
+description: Получает или устанавливает блеск это управляет размером зеркального блика. Формула отражения SpecularColor  SpecularFactor  N точка H  Shininess
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.shading/phongmaterial/shininess/
 ---
 ## PhongMaterial.Shininess property
 
-Получает или устанавливает блеск, управляет размером зеркального блика. Формула отражения: SpecularColor * SpecularFactor * (N dot H) ^ Блеск
+Получает или устанавливает блеск, это управляет размером зеркального блика. Формула отражения: SpecularColor * SpecularFactor * (N точка H) ^ Shininess
 
 ```csharp
 public double Shininess { get; set; }

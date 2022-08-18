@@ -1,14 +1,14 @@
 ---
 title: ExportLegacyMaterialProperties
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает следует ли экспортировать устаревшие свойства материала используемые для обратной совместимости. Эта опция включена по умолчанию.
+description: Получает или задает следует ли экспортировать устаревшие свойства материала используемые для обратной совместимости. Этот параметр включен по умолчанию.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.formats/fbxsaveoptions/exportlegacymaterialproperties/
 ---
 ## FbxSaveOptions.ExportLegacyMaterialProperties property
 
-Получает или задает, следует ли экспортировать устаревшие свойства материала, используемые для обратной совместимости. Эта опция включена по умолчанию.
+Получает или задает, следует ли экспортировать устаревшие свойства материала, используемые для обратной совместимости. Этот параметр включен по умолчанию.
 
 ```csharp
 public bool ExportLegacyMaterialProperties { get; set; }

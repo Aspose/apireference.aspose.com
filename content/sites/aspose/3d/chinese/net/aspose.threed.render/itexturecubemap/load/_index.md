@@ -24,7 +24,7 @@ public void Load(CubeFaceData<TextureData> data)
 
 ## Load(CubeFace, TextureData) {#load}
 
-加载数据到指定面
+将数据加载到指定的人脸
 
 ```csharp
 public void Load(CubeFace face, TextureData data)
@@ -33,7 +33,7 @@ public void Load(CubeFace face, TextureData data)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | face | CubeFace |  |
-| 数据 | TextureData |  |
+| data | TextureData |  |
 
 ### 也可以看看
 

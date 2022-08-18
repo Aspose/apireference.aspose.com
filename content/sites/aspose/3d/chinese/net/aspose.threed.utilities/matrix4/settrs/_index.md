@@ -16,9 +16,9 @@ public void SetTRS(Vector3 translation, Vector3 rotation, Vector3 scale)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| translation | Vector3 | 平移. |
-| rotation | Vector3 | 欧拉角旋转，字段以度为单位。 |
-| scale | Vector3 | 缩放。 |
+| translation | Vector3 | 翻译。 |
+| rotation | Vector3 | 欧拉角旋转，场以度为单位。 |
+| scale | Vector3 | 规模。 |
 
 ### 也可以看看
 

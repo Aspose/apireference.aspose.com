@@ -1,14 +1,14 @@
 ---
 title: Property
 second_title: Справочник по Aspose.3D для .NET API
-description: Класс для хранения пользовательских свойств.
+description: Класс для хранения определяемых пользователем свойств.
 type: docs
-weight: 1660
+weight: 1670
 url: /ru/net/aspose.threed/property/
 ---
 ## Property class
 
-Класс для хранения пользовательских свойств.
+Класс для хранения определяемых пользователем свойств.
 
 ```csharp
 public abstract class Property : A3DObject
@@ -32,9 +32,9 @@ public abstract class Property : A3DObject
 | [GetKeyframeSequence](../../aspose.threed/property/getkeyframesequence)(AnimationNode, bool) | Получает последовательность ключевых кадров для указанного экземпляра анимации. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
-| override [ToString](../../aspose.threed/property/tostring)() | Возвращает строку, представляющую текущий[`Property`](../property). |
+| override [ToString](../../aspose.threed/property/tostring)() | Возвращает строку, представляющую текущую[`Property`](../property) . |
 
 ### Смотрите также
 

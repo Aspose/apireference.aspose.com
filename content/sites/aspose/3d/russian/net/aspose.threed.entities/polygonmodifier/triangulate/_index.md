@@ -1,14 +1,14 @@
 ---
 title: Triangulate
 second_title: Справочник по Aspose.3D для .NET API
-description: Преобразование всех основанных на полигонах мешей в полный треугольный меш
+description: Преобразование всех полигональных сеток в полные треугольные сетки
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.entities/polygonmodifier/triangulate/
 ---
 ## Triangulate(Scene) {#triangulate_5}
 
-Преобразование всех основанных на полигонах мешей в полный треугольный меш
+Преобразование всех полигональных сеток в полные треугольные сетки
 
 ```csharp
 public static void Triangulate(Scene scene)
@@ -37,7 +37,7 @@ public static Mesh Triangulate(Mesh mesh)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mesh | Mesh | Исходная нетреугольная сетка |
+| mesh | Mesh | Оригинальная нетреугольная сетка |
 
 ### Возвращаемое значение
 

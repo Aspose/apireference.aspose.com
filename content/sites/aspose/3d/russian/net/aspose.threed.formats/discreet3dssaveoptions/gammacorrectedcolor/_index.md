@@ -1,14 +1,14 @@
 ---
 title: GammaCorrectedColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Файл 3ds может содержать исходный цвет и цвет с гамма-коррекцией для одного и того же атрибута При установке значения true будет использоваться цвет с гамма-коррекцией если это возможно иначе Aspose.3D попытается использовать исходный цвет.
+description: Файл 3ds может содержать исходный цвет и цвет с гамма-коррекцией для одного и того же атрибута.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.formats/discreet3dssaveoptions/gammacorrectedcolor/
 ---
 ## Discreet3dsSaveOptions.GammaCorrectedColor property
 
-Файл 3ds может содержать исходный цвет и цвет с гамма-коррекцией для одного и того же атрибута, При установке значения true будет использоваться цвет с гамма-коррекцией, если это возможно, иначе Aspose.3D попытается использовать исходный цвет.
+Файл 3ds может содержать исходный цвет и цвет с гамма-коррекцией для одного и того же атрибута.
 
 ```csharp
 public bool GammaCorrectedColor { get; set; }

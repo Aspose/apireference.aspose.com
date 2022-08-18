@@ -3,7 +3,7 @@ title: WrapMode
 second_title: Aspose.3D for .NET API 参考
 description: 纹理的环绕模式
 type: docs
-weight: 2400
+weight: 2390
 url: /zh/net/aspose.threed.shading/wrapmode/
 ---
 ## WrapMode enumeration
@@ -19,10 +19,10 @@ public enum WrapMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Wrap | `0` | 在模型表面平铺纹理，创建重复图案。 |
-| Clamp | `1` | 将纹理夹在边界的最后一个像素上。 |
+| Clamp | `1` | 将纹理夹在边界处的最后一个像素。 |
 | Mirror | `2` | 纹理会重复，但是当坐标的整数部分为奇数时会镜像。 |
 | MirrorOnce | `3` | 纹理会被镜像一次，然后钳制到最大值。 |
-| Border | `4` | [0.0, 1.0] 范围之外的坐标设置为指定的边框颜色。 |
+| Border | `4` | 超出范围 [0.0, 1.0] 的坐标被设置为指定的边框颜色。 |
 
 ### 也可以看看
 

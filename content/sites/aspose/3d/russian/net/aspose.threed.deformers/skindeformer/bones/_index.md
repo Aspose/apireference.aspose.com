@@ -1,14 +1,14 @@
 ---
 title: Bones
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает все кости которые содержит деформатор скина
+description: Получает все кости которые содержит деформатор кожи
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.deformers/skindeformer/bones/
 ---
 ## SkinDeformer.Bones property
 
-Получает все кости, которые содержит деформатор скина
+Получает все кости, которые содержит деформатор кожи
 
 ```csharp
 public IList<Bone> Bones { get; }

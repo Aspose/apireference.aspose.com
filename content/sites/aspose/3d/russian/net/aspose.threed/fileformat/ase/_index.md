@@ -1,14 +1,14 @@
 ---
 title: ASE
 second_title: Справочник по Aspose.3D для .NET API
-description: Формат ASCII Scene Exporter 3D Studio Max.
+description: Формат экспортера сцен ASCII 3D Studio Max.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed/fileformat/ase/
 ---
 ## FileFormat.ASE field
 
-Формат ASCII Scene Exporter 3D Studio Max.
+Формат экспортера сцен ASCII 3D Studio Max.
 
 ```csharp
 public static readonly FileFormat ASE;

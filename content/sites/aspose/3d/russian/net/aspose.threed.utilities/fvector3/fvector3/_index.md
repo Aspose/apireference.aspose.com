@@ -1,14 +1,14 @@
 ---
 title: FVector3
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземплярFVector3aspose.threed.utilities/fvector3.
+description: Инициализирует новый экземплярFVector3aspose.threed.utilities/fvector3 .
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/fvector3/fvector3/
 ---
 ## FVector3(float, float, float) {#constructor_2}
 
-Инициализирует новый экземпляр[`FVector3`](../../fvector3).
+Инициализирует новый экземпляр[`FVector3`](../../fvector3) .
 
 ```csharp
 public FVector3(float x, float y, float z)
@@ -24,7 +24,7 @@ public FVector3(float x, float y, float z)
 
 ## FVector3(Vector3) {#constructor}
 
-Инициализирует новый экземпляр[`FVector3`](../../fvector3).
+Инициализирует новый экземпляр[`FVector3`](../../fvector3) .
 
 ```csharp
 public FVector3(Vector3 vec)
@@ -41,7 +41,7 @@ public FVector3(Vector3 vec)
 
 ## FVector3(Vector4) {#constructor_1}
 
-Инициализирует новый экземпляр[`FVector4`](../../fvector4).
+Инициализирует новый экземпляр[`FVector4`](../../fvector4) .
 
 ```csharp
 public FVector3(Vector4 vec)

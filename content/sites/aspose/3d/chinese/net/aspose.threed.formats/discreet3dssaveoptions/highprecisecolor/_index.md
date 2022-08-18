@@ -1,14 +1,14 @@
 ---
 title: HighPreciseColor
 second_title: Aspose.3D for .NET API 参考
-description: 如果为真则生成的 3ds 文件将使用高精度颜色即红/绿/蓝的每个通道都是 32 位浮点数 否则生成的文件将使用 24bit 颜色每个通道使用 8bit 字节 默认值为 false因为并非所有应用程序都支持高精度颜色
+description: 如果为真生成的3ds文件将使用高精度颜色表示红/绿/蓝的每个通道都是32位浮点数 否则生成的文件将使用24位颜色每个通道使用8位字节 默认值为假因为并非所有应用程序都支持高精度颜色
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.formats/discreet3dssaveoptions/highprecisecolor/
 ---
 ## Discreet3dsSaveOptions.HighPreciseColor property
 
-如果为真，则生成的 3ds 文件将使用高精度颜色，即红/绿/蓝的每个通道都是 32 位浮点数。 否则生成的文件将使用 24bit 颜色，每个通道使用 8bit 字节。 默认值为 false，因为并非所有应用程序都支持高精度颜色。
+如果为真，生成的3ds文件将使用高精度颜色，表示红/绿/蓝的每个通道都是32位浮点数。 否则生成的文件将使用24位颜色，每个通道使用8位字节。 默认值为假，因为并非所有应用程序都支持高精度颜色。
 
 ```csharp
 public bool HighPreciseColor { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PlyLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: PlyLoadOptionsaspose.threed.formats/plyloadoptions
+description: 的构造函数PlyLoadOptionsaspose.threed.formats/plyloadoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/plyloadoptions/plyloadoptions/
 ---
 ## PlyLoadOptions constructor
 
-[`PlyLoadOptions`](../../plyloadoptions)
+的构造函数[`PlyLoadOptions`](../../plyloadoptions)
 
 ```csharp
 public PlyLoadOptions()

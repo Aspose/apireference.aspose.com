@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Справочник по Aspose.3D для .NET API
-description: Копирует данные в указанный элемент
+description: Копирует данные в указанный element
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/vertexelementvector4/copyto/
 ---
 ## VertexElementVector4.CopyTo method
 
-Копирует данные в указанный элемент
+Копирует данные в указанный element
 
 ```csharp
 public void CopyTo(VertexElementVector4 target)
@@ -16,7 +16,7 @@ public void CopyTo(VertexElementVector4 target)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| target | VertexElementVector4 | Target. |
+| target | VertexElementVector4 | Цель. |
 
 ### Смотрите также
 

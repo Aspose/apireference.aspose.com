@@ -1,14 +1,14 @@
 ---
 title: Transparency
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置透明度因子 因子应介于 00完全不透明和 1100完全透明之间 任何无效的因子值都将被限制
+description: 获取或设置透明度因子 因子应介于 00完全不透明和 1100完全透明之间
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.shading/pbrmaterial/transparency/
 ---
 ## PbrMaterial.Transparency property
 
-获取或设置透明度因子。 因子应介于 0（0%，完全不透明）和 1（100%，完全透明）之间 任何无效的因子值都将被限制。
+获取或设置透明度因子。 因子应介于 0（0%，完全不透明）和 1（100%，完全透明）之间
 
 ```csharp
 public double Transparency { get; set; }
@@ -16,7 +16,7 @@ public double Transparency { get; set; }
 
 ### 适当的价值
 
-透明度因子。
+透明度系数。
 
 ### 也可以看看
 

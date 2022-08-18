@@ -1,14 +1,14 @@
 ---
 title: Texture
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаTextureaspose.threed.shading/texture.
+description: Инициализирует новый экземплярTextureaspose.threed.shading/texture класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.shading/texture/texture/
 ---
 ## Texture() {#constructor}
 
-Инициализирует новый экземпляр класса[`Texture`](../../texture).
+Инициализирует новый экземпляр[`Texture`](../../texture) класс.
 
 ```csharp
 public Texture()
@@ -24,7 +24,7 @@ public Texture()
 
 ## Texture(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Texture`](../../texture).
+Инициализирует новый экземпляр[`Texture`](../../texture) класс.
 
 ```csharp
 public Texture(string name)
@@ -32,7 +32,7 @@ public Texture(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

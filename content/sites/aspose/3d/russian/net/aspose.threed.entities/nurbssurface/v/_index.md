@@ -1,14 +1,14 @@
 ---
 title: V
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает направление V поверхности NURBS
+description: Получает V-направление NURBS-поверхности
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/nurbssurface/v/
 ---
 ## NurbsSurface.V property
 
-Получает направление V поверхности NURBS
+Получает V-направление NURBS-поверхности
 
 ```csharp
 public NurbsDirection V { get; }

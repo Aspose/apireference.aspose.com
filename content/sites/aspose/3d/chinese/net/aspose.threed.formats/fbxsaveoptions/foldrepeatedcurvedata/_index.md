@@ -1,14 +1,14 @@
 ---
 title: FoldRepeatedCurveData
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否通过增加最后一个数据的引用计数来重用重复的曲线数据
+description: 获取或设置是否通过增加最后一条数据的引用计数来重用重复的曲线数据
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.formats/fbxsaveoptions/foldrepeatedcurvedata/
 ---
 ## FbxSaveOptions.FoldRepeatedCurveData property
 
-获取或设置是否通过增加最后一个数据的引用计数来重用重复的曲线数据
+获取或设置是否通过增加最后一条数据的引用计数来重用重复的曲线数据
 
 ```csharp
 public bool? FoldRepeatedCurveData { get; set; }
@@ -16,7 +16,7 @@ public bool? FoldRepeatedCurveData { get; set; }
 
 ### 适当的价值
 
-true 如果折叠重复的曲线数据；否则为假。
+如果折叠重复的曲线数据，则为 true；否则为假。
 
 ### 也可以看看
 

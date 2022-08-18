@@ -1,14 +1,14 @@
 ---
 title: Description
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает описание этого анимационного клипа
+description: Получает или задает описание этой анимации clip
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.animation/animationclip/description/
 ---
 ## AnimationClip.Description property
 
-Получает или задает описание этого анимационного клипа
+Получает или задает описание этой анимации clip
 
 ```csharp
 public string Description { get; set; }

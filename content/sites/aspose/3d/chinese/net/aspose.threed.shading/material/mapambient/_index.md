@@ -1,14 +1,14 @@
 ---
 title: MapAmbient
 second_title: Aspose.3D for .NET API 参考
-description: 用在SetTextureaspose.threed.shading/material/settextureto分配环境纹理映射
+description: 用于SetTextureaspose.threed.shading/material/settexture分配环境纹理映射
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.shading/material/mapambient/
 ---
 ## Material.MapAmbient field
 
-用在[`SetTexture`](../settexture)to分配环境纹理映射。
+用于[`SetTexture`](../settexture)分配环境纹理映射。
 
 ```csharp
 public const string MapAmbient;

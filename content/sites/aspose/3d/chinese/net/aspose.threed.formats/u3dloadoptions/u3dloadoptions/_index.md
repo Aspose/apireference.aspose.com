@@ -1,14 +1,14 @@
 ---
 title: U3dLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: U3dLoadOptionsaspose.threed.formats/u3dloadoptions
+description: 的构造函数U3dLoadOptionsaspose.threed.formats/u3dloadoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/u3dloadoptions/u3dloadoptions/
 ---
 ## U3dLoadOptions constructor
 
-[`U3dLoadOptions`](../../u3dloadoptions)
+的构造函数[`U3dLoadOptions`](../../u3dloadoptions)
 
 ```csharp
 public U3dLoadOptions()

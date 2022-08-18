@@ -16,12 +16,12 @@ public static VertexElementUV GenerateUV(Mesh mesh, VertexElementNormal normals)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mesh | Mesh | Входной меш |
-| normals | VertexElementNormal | Данные нормалей |
+| mesh | Mesh | Входная сетка |
+| normals | VertexElementNormal | Нормальные данные |
 
 ### Возвращаемое значение
 
-Сгенерированные UV-данные
+Сгенерированные УФ-данные
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public static VertexElementUV GenerateUV(Mesh mesh, VertexElementNormal normals)
 
 ## GenerateUV(Mesh) {#generateuv}
 
-Генерация данных UV из заданного входного меша
+Генерировать данные UV из заданного входного меша
 
 ```csharp
 public static VertexElementUV GenerateUV(Mesh mesh)
@@ -44,11 +44,11 @@ public static VertexElementUV GenerateUV(Mesh mesh)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mesh | Mesh | Вход mesh |
+| mesh | Mesh | Входная сетка |
 
 ### Возвращаемое значение
 
-Сгенерированные данные UV
+Сгенерированные УФ-данные
 
 ### Смотрите также
 

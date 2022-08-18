@@ -1,14 +1,14 @@
 ---
 title: CShape
 second_title: Aspose.3D for .NET API 参考
-description: CShapeaspose.threed.profiles/cshape
+description: 的构造函数CShapeaspose.threed.profiles/cshape
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/cshape/cshape/
 ---
 ## CShape constructor
 
-[`CShape`](../../cshape)
+的构造函数[`CShape`](../../cshape)
 
 ```csharp
 public CShape()

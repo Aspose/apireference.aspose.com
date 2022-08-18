@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.3D для .NET API
-description: Определяет имеют ли этот экземпляр и указанный объект который также должен быть объектомVertexFieldaspose.threed.utilities/vertexfield одно и то же значение.
+description: Определяет являются ли этот экземпляр и указанный объект который также должен бытьVertexFieldaspose.threed.utilities/vertexfield объект имеют одинаковую стоимость.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.utilities/vertexfield/equals/
 ---
 ## VertexField.Equals method
 
-Определяет, имеют ли этот экземпляр и указанный объект, который также должен быть объектом[`VertexField`](../../vertexfield), одно и то же значение.
+Определяет, являются ли этот экземпляр и указанный объект, который также должен быть[`VertexField`](../../vertexfield) объект, имеют одинаковую стоимость.
 
 ```csharp
 public override bool Equals(object obj)

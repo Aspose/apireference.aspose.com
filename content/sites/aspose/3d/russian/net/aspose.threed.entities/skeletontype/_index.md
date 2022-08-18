@@ -1,14 +1,14 @@
 ---
 title: SkeletonType
 second_title: Справочник по Aspose.3D для .NET API
-description: Skeleton./skeletonтипы.
+description: Skeleton./skeleton s типы.
 type: docs
 weight: 660
 url: /ru/net/aspose.threed.entities/skeletontype/
 ---
 ## SkeletonType enumeration
 
-[`Skeleton`](../skeleton)типы.
+[`Skeleton`](../skeleton) s типы.
 
 ```csharp
 public enum SkeletonType
@@ -18,8 +18,8 @@ public enum SkeletonType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Skeleton | `0` | [`Skeleton`](../skeleton)является скелетной сущностью, что означает, что связанный узел является корневым узлом всего скелетная иерархия. |
-| Bone | `1` | [`Skeleton`](../skeleton)является костяным объектом. |
+| Skeleton | `0` | [`Skeleton`](../skeleton) является скелетной сущностью, что означает, что связанный узел является корневым узлом всей скелетной иерархии. |
+| Bone | `1` | [`Skeleton`](../skeleton) это костяная сущность. |
 
 ### Смотрите также
 

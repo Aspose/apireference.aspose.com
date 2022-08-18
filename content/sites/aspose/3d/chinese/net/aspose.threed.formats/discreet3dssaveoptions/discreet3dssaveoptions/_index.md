@@ -1,14 +1,14 @@
 ---
 title: Discreet3dsSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: Discreet3dsSaveOptionsaspose.threed.formats/discreet3dssaveoptions
+description: 的构造函数Discreet3dsSaveOptionsaspose.threed.formats/discreet3dssaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/discreet3dssaveoptions/discreet3dssaveoptions/
 ---
 ## Discreet3dsSaveOptions constructor
 
-[`Discreet3dsSaveOptions`](../../discreet3dssaveoptions)
+的构造函数[`Discreet3dsSaveOptions`](../../discreet3dssaveoptions)
 
 ```csharp
 public Discreet3dsSaveOptions()

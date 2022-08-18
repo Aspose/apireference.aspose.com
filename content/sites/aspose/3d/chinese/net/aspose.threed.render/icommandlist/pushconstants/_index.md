@@ -16,7 +16,7 @@ public void PushConstants(ShaderStage stage, byte[] data)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stage | ShaderStage | 哪个着色器阶段将消费常量 data |
+| stage | ShaderStage | 哪个着色器阶段将消耗常量数据 |
 | data | Byte[] | 将发送到着色器的数据 |
 
 ### 也可以看看
@@ -38,9 +38,9 @@ public void PushConstants(ShaderStage stage, byte[] data, int size)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stage | ShaderStage | 哪个着色器阶段将消费常量 data |
+| stage | ShaderStage | 哪个着色器阶段将消耗常量数据 |
 | data | Byte[] | 将发送到着色器的数据 |
-| size | Int32 | Bytes写入管道 |
+| size | Int32 | 写入管道的字节数 |
 
 ### 也可以看看
 

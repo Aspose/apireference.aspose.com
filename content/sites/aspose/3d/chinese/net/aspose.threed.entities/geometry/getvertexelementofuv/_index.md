@@ -1,14 +1,14 @@
 ---
 title: GetVertexElementOfUV
 second_title: Aspose.3D for .NET API 参考
-description: 得到一个 VertexElementUVaspose.threed.entities/vertexelementuv 具有给定纹理映射类型的实例
+description: 得到一个VertexElementUVaspose.threed.entities/vertexelementuv具有给定纹理映射类型 的实例
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.entities/geometry/getvertexelementofuv/
 ---
 ## Geometry.GetVertexElementOfUV method
 
-得到一个 [`VertexElementUV`](../../vertexelementuv) 具有给定纹理映射类型的实例
+得到一个[`VertexElementUV`](../../vertexelementuv)具有给定纹理映射类型 的实例
 
 ```csharp
 public VertexElementUV GetVertexElementOfUV(TextureMapping textureMapping)

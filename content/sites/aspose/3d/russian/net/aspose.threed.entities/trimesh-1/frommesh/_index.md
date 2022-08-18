@@ -1,14 +1,14 @@
 ---
 title: FromMesh
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать TriMesh из заданного объекта сетки с автоматически сгенерированным расположением вершин.
+description: Создать TriMesh из заданного объекта сетки с автоматически созданным расположением вершин.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/trimesh-1/frommesh/
 ---
 ## TriMesh&lt;T&gt;.FromMesh method
 
-Создать TriMesh из заданного объекта сетки с автоматически сгенерированным расположением вершин.
+Создать TriMesh из заданного объекта сетки с автоматически созданным расположением вершин.
 
 ```csharp
 public static TriMesh FromMesh(Mesh mesh)

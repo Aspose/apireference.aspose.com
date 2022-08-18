@@ -3,7 +3,7 @@ title: CubeFace
 second_title: Aspose.3D for .NET API 参考
 description: 立方体贴图纹理的每个面
 type: docs
-weight: 1710
+weight: 1720
 url: /zh/net/aspose.threed.render/cubeface/
 ---
 ## CubeFace enumeration
@@ -18,11 +18,11 @@ public enum CubeFace
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| PositiveX | `0` | +X 面 |
-| NegativeX | `1` | -X 面 |
-| PositiveY | `2` | +Y 面 |
-| NegativeY | `3` | -Y 面 |
-| PositiveZ | `4` | +Z 面 |
+| PositiveX | `0` | +X 脸 |
+| NegativeX | `1` | -X 脸 |
+| PositiveY | `2` | +Y面 |
+| NegativeY | `3` | -Y 脸 |
+| PositiveZ | `4` | +Z 脸 |
 | NegativeZ | `5` | -Z 面 |
 
 ### 也可以看看

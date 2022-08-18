@@ -1,14 +1,14 @@
 ---
 title: ClearCache
 second_title: Aspose.3D for .NET API 参考
-description: 手动清除缓存 Aspose.3D 会将一些对象如材质/几何缓存到与渲染管道兼容的内部类型中 当场景发生重大变化时应该手动调用
+description: 手动清除缓存 Aspose.3D会将一些对象如材质/几何图形缓存到与渲染管道兼容的内部类型中 当场景发生重大变化时应该手动调用
 type: docs
 weight: 160
 url: /zh/net/aspose.threed.render/renderer/clearcache/
 ---
 ## Renderer.ClearCache method
 
-手动清除缓存。 Aspose.3D 会将一些对象（如材质/几何）缓存到与渲染管道兼容的内部类型中。 当场景发生重大变化时应该手动调用。
+手动清除缓存。 Aspose.3D会将一些对象，如材质/几何图形缓存到与渲染管道兼容的内部类型中。 当场景发生重大变化时应该手动调用。
 
 ```csharp
 public virtual void ClearCache()

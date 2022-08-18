@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置X左面的数据
+description: 获取或设置 XLeft face 的数据
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.render/cubefacedata-1/left/
 ---
 ## CubeFaceData&lt;T&gt;.Left property
 
-获取或设置+X（左）面的数据
+获取或设置 +X(Left) face 的数据
 
 ```csharp
 public T Left { get; set; }

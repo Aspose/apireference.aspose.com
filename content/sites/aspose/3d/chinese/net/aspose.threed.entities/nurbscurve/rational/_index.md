@@ -1,14 +1,14 @@
 ---
 title: Rational
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否有理该值表示此NurbsCurveaspose.threed.entities/nurbscurve是否有理样条-有理样条 非有理 B 样条是有理 B 样条的特例
+description: 获取或设置是否有理该值表示是否有理NurbsCurveaspose.threed.entities/nurbscurve是有理样条还是非有理样条 非有理B样条是有理B样条的特例
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.entities/nurbscurve/rational/
 ---
 ## NurbsCurve.Rational property
 
-获取或设置是否有理，该值表示此[`NurbsCurve`](../../nurbscurve)是否有理样条-有理样条。 非有理 B 样条是有理 B 样条的特例。
+获取或设置是否有理，该值表示是否有理[`NurbsCurve`](../../nurbscurve)是有理样条还是非有理样条。 非有理B样条是有理B样条的特例。
 
 ```csharp
 public bool Rational { get; set; }

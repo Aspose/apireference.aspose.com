@@ -1,14 +1,14 @@
 ---
 title: SlotName
 second_title: Aspose.3D for .NET API 参考
-description: 插槽名称指示此纹理将绑定到的位置
+description: 指示此纹理将绑定到何处的插槽名称
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.shading/textureslot/slotname/
 ---
 ## TextureSlot.SlotName property
 
-插槽名称，指示此纹理将绑定到的位置。
+指示此纹理将绑定到何处的插槽名称。
 
 ```csharp
 public string SlotName { get; }

@@ -1,14 +1,14 @@
 ---
 title: RvmSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: RvmSaveOptionsaspose.threed.formats/rvmsaveoptions
+description: 的构造函数RvmSaveOptionsaspose.threed.formats/rvmsaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/rvmsaveoptions/rvmsaveoptions/
 ---
 ## RvmSaveOptions() {#constructor}
 
-[`RvmSaveOptions`](../../rvmsaveoptions)
+的构造函数[`RvmSaveOptions`](../../rvmsaveoptions)
 
 ```csharp
 public RvmSaveOptions()
@@ -24,7 +24,7 @@ public RvmSaveOptions()
 
 ## RvmSaveOptions(FileContentType) {#constructor_1}
 
-的构造函数 [`RvmSaveOptions`](../../rvmsaveoptions)
+的构造函数[`RvmSaveOptions`](../../rvmsaveoptions)
 
 ```csharp
 public RvmSaveOptions(FileContentType contentType)
@@ -32,7 +32,7 @@ public RvmSaveOptions(FileContentType contentType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| contentType | FileContentType | Text or binary RVM file? |
+| contentType | FileContentType | 文本或二进制 RVM 文件？ |
 
 ### 也可以看看
 

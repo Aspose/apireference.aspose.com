@@ -17,11 +17,11 @@ public Geometry Decode(string fileName, PlyLoadOptions opt = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String | Входной поток |
-| opt | PlyLoadOptions | Параметр загрузки Формат PLY |
+| opt | PlyLoadOptions | Вариант загрузки формата PLY |
 
 ### Возвращаемое значение
 
-A[`Mesh`](../../../aspose.threed.entities/mesh)или[`PointCloud`](../../../aspose.threed.entities/pointcloud)экземпляр
+А[`Mesh`](../../../aspose.threed.entities/mesh) или же[`PointCloud`](../../../aspose.threed.entities/pointcloud) пример
 
 ### Смотрите также
 
@@ -44,11 +44,11 @@ public Geometry Decode(Stream stream, PlyLoadOptions opt = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Входной поток |
-| opt | PlyLoadOptions | Параметр загрузки Формат PLY |
+| opt | PlyLoadOptions | Вариант загрузки формата PLY |
 
 ### Возвращаемое значение
 
-A[`Mesh`](../../../aspose.threed.entities/mesh)или[`PointCloud`](../../../aspose.threed.entities/pointcloud)экземпляр
+А[`Mesh`](../../../aspose.threed.entities/mesh) или же[`PointCloud`](../../../aspose.threed.entities/pointcloud) пример
 
 ### Смотрите также
 

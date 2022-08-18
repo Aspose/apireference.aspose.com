@@ -1,14 +1,14 @@
 ---
 title: EulerAngles
 second_title: Aspose.3D for .NET API 参考
-description: 将四元数转换为欧拉角表示的旋转 所有分量都以弧度表示
+description: 将四元数转换为欧拉角表示的旋转 所有分量都以弧度为单位
 type: docs
 weight: 160
 url: /zh/net/aspose.threed.utilities/quaternion/eulerangles/
 ---
 ## Quaternion.EulerAngles method
 
-将四元数转换为欧拉角表示的旋转 所有分量都以弧度表示
+将四元数转换为欧拉角表示的旋转 所有分量都以弧度为单位
 
 ```csharp
 public Vector3 EulerAngles()

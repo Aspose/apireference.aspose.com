@@ -1,14 +1,14 @@
 ---
 title: GenerateNormal
 second_title: Aspose.3D for .NET API 参考
-description: 从网格定义生成普通数据
+description: 从Mesh定义生成法线数据
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/polygonmodifier/generatenormal/
 ---
 ## PolygonModifier.GenerateNormal method
 
-从网格定义生成普通数据
+从Mesh定义生成法线数据
 
 ```csharp
 public static VertexElementNormal GenerateNormal(Mesh mesh)

@@ -1,14 +1,14 @@
 ---
 title: Cylinder
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаCylinderaspose.threed.entities/cylinder.
+description: Инициализирует новый экземплярCylinderaspose.threed.entities/cylinder класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/cylinder/cylinder/
 ---
 ## Cylinder() {#constructor}
 
-Инициализирует новый экземпляр класса[`Cylinder`](../../cylinder).
+Инициализирует новый экземпляр[`Cylinder`](../../cylinder) класс.
 
 ```csharp
 public Cylinder()
@@ -24,7 +24,7 @@ public Cylinder()
 
 ## Cylinder(double, double) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Cylinder`](../../cylinder).
+Инициализирует новый экземпляр[`Cylinder`](../../cylinder) класс.
 
 ```csharp
 public Cylinder(double radius, double height)
@@ -33,7 +33,7 @@ public Cylinder(double radius, double height)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | radius | Double | Радиус верхней и нижней крышки. |
-| высота | Double | Высота. |
+| height | Double | Высота. |
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public Cylinder(double radius, double height)
 
 ## Cylinder(double, double, double) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Cylinder`](../../cylinder).
+Инициализирует новый экземпляр[`Cylinder`](../../cylinder) класс.
 
 ```csharp
 public Cylinder(double radiusTop, double radiusBottom, double height)
@@ -53,9 +53,9 @@ public Cylinder(double radiusTop, double radiusBottom, double height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| radiusTop | Double | Верхний радиус. |
-| radiusBottom | Double | Радиус снизу. |
-| высота | Double | Высота. |
+| radiusTop | Double | Радиус сверху. |
+| radiusBottom | Double | Радиус дна. |
+| height | Double | Высота. |
 
 ### Смотрите также
 
@@ -67,7 +67,7 @@ public Cylinder(double radiusTop, double radiusBottom, double height)
 
 ## Cylinder(double, double, double, int, int, bool) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`Cylinder`](../../cylinder).
+Инициализирует новый экземпляр[`Cylinder`](../../cylinder) класс.
 
 ```csharp
 public Cylinder(double radiusTop, double radiusBottom, double height, int radialSegments, 
@@ -79,9 +79,9 @@ public Cylinder(double radiusTop, double radiusBottom, double height, int radial
 | radiusTop | Double | Радиус верхней крышки цилиндра. |
 | radiusBottom | Double | Радиус нижней крышки цилиндра. |
 | height | Double | Высота цилиндра. |
-| radialSegments | Int32 | Радиальные сегменты верхней и нижней окружностей.. |
-| heightSegments | Int32 | Высота сегментов. |
-| openEnded | Boolean | Если установлено` true` , цилиндр не будет иметь нижние/верхние крышки.. |
+| radialSegments | Int32 | Радиальные сегменты верхней и нижней окружностей. |
+| heightSegments | Int32 | Сегменты высоты. |
+| openEnded | Boolean | Если установлено`истинный` цилиндр не будет иметь нижние/верхние крышки.. |
 
 ### Смотрите также
 
@@ -93,7 +93,7 @@ public Cylinder(double radiusTop, double radiusBottom, double height, int radial
 
 ## Cylinder(string, double, double, double, int, int, bool, double, double) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`Cylinder`](../../cylinder).
+Инициализирует новый экземпляр[`Cylinder`](../../cylinder) класс.
 
 ```csharp
 public Cylinder(string name, double radiusTop, double radiusBottom, double height, 
@@ -103,14 +103,14 @@ public Cylinder(string name, double radiusTop, double radiusBottom, double heigh
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя этого объекта |
-| radiusTop | Double | Радиус верхняя крышка цилиндра. |
+| radiusTop | Double | Радиус верхней крышки цилиндра. |
 | radiusBottom | Double | Радиус нижней крышки цилиндра. |
 | height | Double | Высота цилиндра. |
-| radialSegments | Int32 | Радиальные сегменты верхней и нижней окружностей.. |
-| heightSegments | Int32 | Высота сегментов. |
-| openEnded | Boolean | Если установлено` true` , цилиндр не будет иметь нижние/верхние крышки.. |
-| thetaStart | Double | Тета-старт. |
-| thetaLength | Double | Тета-длина. |
+| radialSegments | Int32 | Радиальные сегменты верхней и нижней окружностей. |
+| heightSegments | Int32 | Сегменты высоты. |
+| openEnded | Boolean | Если установлено`истинный` цилиндр не будет иметь нижние/верхние крышки.. |
+| thetaStart | Double | Тета начало. |
+| thetaLength | Double | Длина теты. |
 
 ### Смотрите также
 

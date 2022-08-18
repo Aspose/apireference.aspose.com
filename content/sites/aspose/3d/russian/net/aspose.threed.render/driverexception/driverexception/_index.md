@@ -1,14 +1,14 @@
 ---
 title: DriverException
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализировать экземплярDriverExceptionaspose.threed.render/driverexceptionс указанным кодом ошибки собственного драйвера и сообщением.
+description: Инициализировать экземплярDriverExceptionaspose.threed.render/driverexception с указанным кодом ошибки собственного драйвера и сообщением.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/driverexception/driverexception/
 ---
 ## DriverException constructor
 
-Инициализировать экземпляр[`DriverException`](../../driverexception)с указанным кодом ошибки собственного драйвера и сообщением.
+Инициализировать экземпляр[`DriverException`](../../driverexception) с указанным кодом ошибки собственного драйвера и сообщением.
 
 ```csharp
 public DriverException(uint code, string message)
@@ -16,8 +16,8 @@ public DriverException(uint code, string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| код | UInt32 |  |
-| сообщение | String |  |
+| code | UInt32 |  |
+| message | String |  |
 
 ### Смотрите также
 

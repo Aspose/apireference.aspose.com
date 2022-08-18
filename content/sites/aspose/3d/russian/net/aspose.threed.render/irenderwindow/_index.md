@@ -3,7 +3,7 @@ title: IRenderWindow
 second_title: Справочник по Aspose.3D для .NET API
 description: IRenderWindow представляет собственное окно созданное операционной системой которая поддерживает рендеринг.
 type: docs
-weight: 1900
+weight: 1910
 url: /ru/net/aspose.threed.render/irenderwindow/
 ---
 ## IRenderWindow interface

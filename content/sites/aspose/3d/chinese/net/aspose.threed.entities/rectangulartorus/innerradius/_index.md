@@ -1,14 +1,14 @@
 ---
 title: InnerRadius
 second_title: Aspose.3D for .NET API 参考
-description: 矩形圆环的内半径 默认值为 17
+description: 矩形圆环的内半径 默认值为17
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.entities/rectangulartorus/innerradius/
 ---
 ## RectangularTorus.InnerRadius property
 
-矩形圆环的内半径 默认值为 17
+矩形圆环的内半径 默认值为17
 
 ```csharp
 public double InnerRadius { get; set; }

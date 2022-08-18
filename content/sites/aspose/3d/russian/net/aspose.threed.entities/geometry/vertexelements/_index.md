@@ -1,14 +1,14 @@
 ---
 title: VertexElements
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает все элементы вершин
+description: Получает все элементы вершины
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.entities/geometry/vertexelements/
 ---
 ## Geometry.VertexElements property
 
-Получает все элементы вершин
+Получает все элементы вершины
 
 ```csharp
 public IList<VertexElement> VertexElements { get; }

@@ -16,8 +16,8 @@ public void SetRotation(double u, double v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| u | Double | U. |
-| v | Double | V. |
+| u | Double | У. |
+| v | Double | В. |
 
 ### Смотрите также
 

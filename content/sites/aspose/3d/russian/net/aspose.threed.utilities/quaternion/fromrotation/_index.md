@@ -17,7 +17,7 @@ public static Quaternion FromRotation(Vector3 orig, Vector3 dest)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | orig | Vector3 | Исходное направление |
-| dest | Vector3 | Целевое направление |
+| dest | Vector3 | Направление назначения |
 
 ### Возвращаемое значение
 

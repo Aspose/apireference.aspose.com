@@ -1,14 +1,14 @@
 ---
 title: DiffuseTexture
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置漫反射纹理
+description: 获取或设置diffuse 的纹理
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.shading/pbrspecularmaterial/diffusetexture/
 ---
 ## PbrSpecularMaterial.DiffuseTexture property
 
-获取或设置漫反射纹理
+获取或设置diffuse 的纹理
 
 ```csharp
 public TextureBase DiffuseTexture { get; set; }

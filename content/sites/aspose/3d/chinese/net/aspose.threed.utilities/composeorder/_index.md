@@ -3,7 +3,7 @@ title: ComposeOrder
 second_title: Aspose.3D for .NET API 参考
 description: 组成变换矩阵的顺序
 type: docs
-weight: 2460
+weight: 2450
 url: /zh/net/aspose.threed.utilities/composeorder/
 ---
 ## ComposeOrder enumeration
@@ -18,8 +18,8 @@ public enum ComposeOrder
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Append | `0` | 将新变换附加到链 |
-| Prepend | `1` | 将新转换添加到链 |
+| Append | `0` | 将新变换附加到链中 |
+| Prepend | `1` | 将新变换添加到链 |
 
 ### 也可以看看
 

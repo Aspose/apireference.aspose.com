@@ -1,14 +1,14 @@
 ---
 title: op_Division
 second_title: Aspose.3D for .NET API 参考
-description: 运算符重载 for /
+description: / 的运算符重载
 type: docs
 weight: 240
 url: /zh/net/aspose.threed.utilities/vector3/op_division/
 ---
 ## Vector3 Division operator
 
-运算符重载 for /
+/ 的运算符重载
 
 ```csharp
 public static Vector3 operator /(Vector3 lhs, double rhs)
@@ -17,7 +17,7 @@ public static Vector3 operator /(Vector3 lhs, double rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Vector3 | 左向量 |
-| rhs | Double | 右双精度值 |
+| rhs | Double | 正确的双值 |
 
 ### 返回值
 

@@ -1,14 +1,14 @@
 ---
 title: RotationMode
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает режим ориентации пирамиды Это свойство работает только когдаЦельимеет значение null. Если значение равноFixedTarget направление всегда вычисляется свойствомLookAtaspose.threed.entities/frustum/lookat В противном случаеLookAtaspose.threed.entities/frustum/lookatвсегда вычисляетсяDirectionaspose.threed.entities/frustum/direction
+description: Получает или задает ориентацию усеченного конуса mode Это свойство работает только еслиTargetaspose.threed.entities/frustum/target равно null. Если значение равноFixedTarget  направление всегда вычисляется свойствомLookAtaspose.threed.entities/frustum/lookat В противном случаеLookAtaspose.threed.entities/frustum/lookatвсегда рассчитывается поDirectionaspose.threed.entities/frustum/direction
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.entities/frustum/rotationmode/
 ---
 ## Frustum.RotationMode property
 
-Получает или задает режим ориентации пирамиды Это свойство работает, только когдаЦельимеет значение null. Если значение равноFixedTarget, направление всегда вычисляется свойством[`LookAt`](../lookat) В противном случае[`LookAt`](../lookat)всегда вычисляется[`Direction`](../direction)
+Получает или задает ориентацию усеченного конуса mode Это свойство работает, только если[`Target`](../target) равно null. Если значение равноFixedTarget , направление всегда вычисляется свойством[`LookAt`](../lookat) В противном случае[`LookAt`](../lookat)всегда рассчитывается по[`Direction`](../direction)
 
 ```csharp
 public RotationMode RotationMode { get; set; }

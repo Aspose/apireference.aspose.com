@@ -16,12 +16,12 @@ public BindPoint CreateBindPoint(A3DObject obj, string propName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | A3DObject | 对象。 |
+| obj | A3DObject | 目的。 |
 | propName | String | 属性名称。 |
 
 ### 返回值
 
-绑定点实例，如果属性未定义，则为 null。
+绑定点实例；如果未定义属性，则为 null。
 
 ### 也可以看看
 

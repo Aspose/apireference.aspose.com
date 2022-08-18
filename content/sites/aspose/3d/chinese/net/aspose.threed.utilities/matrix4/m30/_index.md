@@ -1,14 +1,14 @@
 ---
 title: m30
 second_title: Aspose.3D for .NET API 参考
-description: m30
+description: m30.
 type: docs
 weight: 200
 url: /zh/net/aspose.threed.utilities/matrix4/m30/
 ---
 ## Matrix4.m30 field
 
-m30。
+m30.
 
 ```csharp
 public double m30;

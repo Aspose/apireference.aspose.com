@@ -1,14 +1,14 @@
 ---
 title: Skeleton
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаSkeletonaspose.threed.entities/skeleton.
+description: Инициализирует новый экземплярSkeletonaspose.threed.entities/skeleton класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/skeleton/skeleton/
 ---
 ## Skeleton() {#constructor}
 
-Инициализирует новый экземпляр класса[`Skeleton`](../../skeleton).
+Инициализирует новый экземпляр[`Skeleton`](../../skeleton) класс.
 
 ```csharp
 public Skeleton()
@@ -24,7 +24,7 @@ public Skeleton()
 
 ## Skeleton(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Skeleton`](../../skeleton).
+Инициализирует новый экземпляр[`Skeleton`](../../skeleton) класс.
 
 ```csharp
 public Skeleton(string name)

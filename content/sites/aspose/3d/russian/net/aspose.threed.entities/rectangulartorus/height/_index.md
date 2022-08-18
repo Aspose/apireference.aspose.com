@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.3D для .NET API
-description: Высота прямоугольного тора. Значение по умолчанию20
+description: Высота прямоугольного тора. Значение по умолчанию 20
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.entities/rectangulartorus/height/
 ---
 ## RectangularTorus.Height property
 
-Высота прямоугольного тора. Значение по умолчанию:20
+Высота прямоугольного тора. Значение по умолчанию: 20
 
 ```csharp
 public double Height { get; set; }

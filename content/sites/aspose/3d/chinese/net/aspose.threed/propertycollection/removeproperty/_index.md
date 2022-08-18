@@ -20,7 +20,7 @@ public bool RemoveProperty(Property property)
 
 ### 返回值
 
-如果属性是成功删除
+如果属性已成功删除，则为 true
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public bool RemoveProperty(string property)
 
 ### 返回值
 
-如果属性是成功删除
+如果属性已成功删除，则为 true
 
 ### 也可以看看
 

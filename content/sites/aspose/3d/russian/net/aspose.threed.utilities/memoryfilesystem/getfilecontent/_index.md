@@ -1,14 +1,14 @@
 ---
 title: GetFileContent
 second_title: Справочник по Aspose.3D для .NET API
-description: Возвращает необработанное содержимое указанного файла. ВыброситьFileNotFoundExceptionесли указанный файл не существует.
+description: Возвращает необработанное содержимое указанного файла. ThrowFileNotFoundException если указанный файл не существует.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.utilities/memoryfilesystem/getfilecontent/
 ---
 ## MemoryFileSystem.GetFileContent method
 
-Возвращает необработанное содержимое указанного файла. ВыброситьFileNotFoundExceptionесли указанный файл не существует.
+Возвращает необработанное содержимое указанного файла. ThrowFileNotFoundException если указанный файл не существует.
 
 ```csharp
 public byte[] GetFileContent(string fileName)

@@ -20,7 +20,7 @@ public enum Interpolation
 | --- | --- | --- |
 | Constant | `0` | 该值将保持为第一个点的值，直到下一段。 |
 | Linear | `1` | 线性插值是两点之间的直线。 |
-| Bezier | `2` | 贝塞尔或 Hermite 样条。 |
+| Bezier | `2` | 贝塞尔曲线或 Hermite 样条曲线。 |
 | BSpline | `3` | 基本样条由一系列控制点定义，保证曲线只经过第一个和最后一个点。 |
 | CardinalSpline | `4` | 基数样条是三次 Hermite 样条，其切线由端点和张力参数定义。 |
 | TCBSpline | `5` | 也称为 Kochanek-Bartels 样条，切线的行为由张力/偏差/连续性定义 |

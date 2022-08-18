@@ -3,7 +3,7 @@ title: RenderState
 second_title: Справочник по Aspose.3D для .NET API
 description: Состояние рендеринга для построения конвейера Изменения внесенные в состояние рендеринга не повлияют на созданные экземпляры конвейера.
 type: docs
-weight: 2080
+weight: 2090
 url: /ru/net/aspose.threed.render/renderstate/
 ---
 ## RenderState class
@@ -27,20 +27,20 @@ public class RenderState : IComparable<RenderState>, IDisposable
 | [Blend](../../aspose.threed.render/renderstate/blend) { get; set; } | Включить или отключить смешивание фрагментов. |
 | [BlendColor](../../aspose.threed.render/renderstate/blendcolor) { get; set; } | Получает или задает цвет наложения, используемый вConstantColor |
 | [CullFace](../../aspose.threed.render/renderstate/cullface) { get; set; } | Включить или отключить отбраковку лица |
-| [CullFaceMode](../../aspose.threed.render/renderstate/cullfacemode) { get; set; } | Получает или задает, какое лицо будет отбраковано. |
-| [DepthFunction](../../aspose.threed.render/renderstate/depthfunction) { get; set; } | Получает или задает функцию сравнения, используемую в глубинном тесте |
+| [CullFaceMode](../../aspose.threed.render/renderstate/cullfacemode) { get; set; } | Получает или задает, какая грань будет отбракована. |
+| [DepthFunction](../../aspose.threed.render/renderstate/depthfunction) { get; set; } | Получает или задает функцию сравнения, используемую в глубине test |
 | [DepthMask](../../aspose.threed.render/renderstate/depthmask) { get; set; } | Включить или отключить запись глубины. |
 | [DepthTest](../../aspose.threed.render/renderstate/depthtest) { get; set; } | Включить или отключить проверку глубины. |
 | [DestinationBlendFactor](../../aspose.threed.render/renderstate/destinationblendfactor) { get; set; } | Получает или задает способ смешивания цветов. |
-| [FrontFace](../../aspose.threed.render/renderstate/frontface) { get; set; } | Получает или устанавливает, какой порядок лицевой стороны. |
+| [FrontFace](../../aspose.threed.render/renderstate/frontface) { get; set; } | Получает или задает порядок лицевой стороны. |
 | [PolygonMode](../../aspose.threed.render/renderstate/polygonmode) { get; set; } | Получает или задает режим рендеринга полигона. |
-| [ScissorBox](../../aspose.threed.render/renderstate/scissorbox) { get; set; } | Получает или задает ножницы |
+| [ScissorBox](../../aspose.threed.render/renderstate/scissorbox) { get; set; } | Получает или задает коробку с ножницами |
 | [ScissorTest](../../aspose.threed.render/renderstate/scissortest) { get; set; } | Включить или отключить ножничный тест |
 | [SourceBlendFactor](../../aspose.threed.render/renderstate/sourceblendfactor) { get; set; } | Получает или задает способ смешивания цветов. |
 | [StencilBackFace](../../aspose.threed.render/renderstate/stencilbackface) { get; } | Получает состояние трафарета для задней грани. |
 | [StencilFrontFace](../../aspose.threed.render/renderstate/stencilfrontface) { get; } | Получает состояние трафарета для лицевой стороны. |
-| [StencilMask](../../aspose.threed.render/renderstate/stencilmask) { get; set; } | Получает или задает маску, которая объединяется по И с опорным и сохраненным значением трафарета при выполнении теста. |
-| [StencilReference](../../aspose.threed.render/renderstate/stencilreference) { get; set; } | Получает или задает эталонное значение для теста трафарета. |
+| [StencilMask](../../aspose.threed.render/renderstate/stencilmask) { get; set; } | Получает или задает маску, которая объединяется по И с эталонным и сохраненным значением трафарета после выполнения теста. |
+| [StencilReference](../../aspose.threed.render/renderstate/stencilreference) { get; set; } | Получает или задает эталонное значение для теста шаблона. |
 | [StencilTest](../../aspose.threed.render/renderstate/stenciltest) { get; set; } | Включить или отключить тест трафарета. |
 
 ## Методы
@@ -48,7 +48,7 @@ public class RenderState : IComparable<RenderState>, IDisposable
 | Имя | Описание |
 | --- | --- |
 | [CompareTo](../../aspose.threed.render/renderstate/compareto)(RenderState) | Сравните состояние рендеринга с другим экземпляром |
-| [Dispose](../../aspose.threed.render/renderstate/dispose)() | Удалите[`RenderState`](../renderstate)и освободите все внутренние ресурсы. |
+| [Dispose](../../aspose.threed.render/renderstate/dispose)() | Утилизировать[`RenderState`](../renderstate) и освободить все внутренние ресурсы. |
 | override [Equals](../../aspose.threed.render/renderstate/equals)(object) | Возвращает значение, указывающее, равен ли этот экземпляр указанному объекту. |
 | override [GetHashCode](../../aspose.threed.render/renderstate/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
 

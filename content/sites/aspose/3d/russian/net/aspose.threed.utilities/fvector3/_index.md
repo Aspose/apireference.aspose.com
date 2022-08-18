@@ -3,7 +3,7 @@ title: FVector3
 second_title: Справочник по Aspose.3D для .NET API
 description: Вектор с плавающей запятой с тремя компонентами.
 type: docs
-weight: 2500
+weight: 2490
 url: /ru/net/aspose.threed.utilities/fvector3/
 ---
 ## FVector3 structure
@@ -18,9 +18,9 @@ public struct FVector3
 
 | Имя | Описание |
 | --- | --- |
-| [FVector3](fvector3#constructor)(Vector3) | Инициализирует новый экземпляр[`FVector3`](../fvector3). |
-| [FVector3](fvector3#constructor_1)(Vector4) | Инициализирует новый экземпляр[`FVector4`](../fvector4). |
-| [FVector3](fvector3#constructor_2)(float, float, float) | Инициализирует новый экземпляр[`FVector3`](../fvector3). |
+| [FVector3](fvector3#constructor)(Vector3) | Инициализирует новый экземпляр[`FVector3`](../fvector3) . |
+| [FVector3](fvector3#constructor_1)(Vector4) | Инициализирует новый экземпляр[`FVector4`](../fvector4) . |
+| [FVector3](fvector3#constructor_2)(float, float, float) | Инициализирует новый экземпляр[`FVector3`](../fvector3) . |
 
 ## Методы
 

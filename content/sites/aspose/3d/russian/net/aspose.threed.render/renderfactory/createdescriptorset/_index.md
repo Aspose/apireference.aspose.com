@@ -16,7 +16,7 @@ public abstract IDescriptorSet CreateDescriptorSet(ShaderProgram shader)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| shader | ShaderProgram | Программа шейдера |
+| shader | ShaderProgram | Шейдерная программа |
 
 ### Возвращаемое значение
 

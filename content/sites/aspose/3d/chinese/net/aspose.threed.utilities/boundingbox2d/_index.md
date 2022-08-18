@@ -1,14 +1,14 @@
 ---
 title: BoundingBox2D
 second_title: Aspose.3D for .NET API 参考
-description: Vector2./vector2
+description: 的轴对齐边界框Vector2./vector2
 type: docs
-weight: 2440
+weight: 2430
 url: /zh/net/aspose.threed.utilities/boundingbox2d/
 ---
 ## BoundingBox2D structure
 
-[`Vector2`](../vector2)
+的轴对齐边界框[`Vector2`](../vector2)
 
 ```csharp
 public struct BoundingBox2D
@@ -34,7 +34,7 @@ public struct BoundingBox2D
 | --- | --- |
 | [Merge](../../aspose.threed.utilities/boundingbox2d/merge#merge)(BoundingBox2D) | 将新框合并到当前边界框。 |
 | [Merge](../../aspose.threed.utilities/boundingbox2d/merge#merge_1)(Vector2) | 将新框合并到当前边界框。 |
-| override [ToString](../../aspose.threed.utilities/boundingbox2d/tostring)() | 获取边界框的字符串表示。 |
+| override [ToString](../../aspose.threed.utilities/boundingbox2d/tostring)() | 获取边界框的字符串表示形式。 |
 
 ## 字段
 

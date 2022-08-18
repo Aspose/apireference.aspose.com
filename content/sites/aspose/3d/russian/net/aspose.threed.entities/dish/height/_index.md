@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.3D для .NET API
-description: Высота тарелки
+description: Высота блюда
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/dish/height/
 ---
 ## Dish.Height property
 
-Высота тарелки
+Высота блюда
 
 ```csharp
 public double Height { get; set; }

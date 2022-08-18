@@ -1,14 +1,14 @@
 ---
 title: Direction
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置相机正在看的方向 此属性的更改也会影响LookAtaspose.threed.entities/frustum/lookat和Frustum目标
+description: 获取或设置相机正在看的方向 对此属性的更改也会影响LookAtaspose.threed.entities/frustum/lookat和Targetaspose.threed.entities/frustum/target.
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/frustum/direction/
 ---
 ## Frustum.Direction property
 
-获取或设置相机正在看的方向。 此属性的更改也会影响[`LookAt`](../lookat)和Frustum。目标。
+获取或设置相机正在看的方向。 对此属性的更改也会影响[`LookAt`](../lookat)和[`Target`](../target).
 
 ```csharp
 public Vector3 Direction { get; set; }

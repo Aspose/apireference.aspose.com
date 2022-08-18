@@ -16,14 +16,14 @@ public static string DecodeWatermark(Mesh input, string password)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Mesh | 要提取的网格watermark |
+| input | Mesh | 提取水印的网格 |
 | password | String | 解密水印的密码 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| UnauthorizedAccessException | 网格是受密码保护，提供的密码不正确。 |
+| UnauthorizedAccessException | 网格受密码保护，提供的密码不正确。 |
 
 ### 也可以看看
 

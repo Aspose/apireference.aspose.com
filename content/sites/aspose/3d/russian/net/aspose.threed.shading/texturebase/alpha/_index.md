@@ -1,14 +1,14 @@
 ---
 title: Alpha
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает альфа-значение текстуры по умолчанию Это действительно когда используетсяAlphaSourceaspose.threed.shading/texturebase/alphasourceisPixelAlpha Значение по умолчанию  10 допустимый диапазон значений  от 0 до 1
+description: Получает или задает альфа-значение текстуры по умолчанию Это допустимо когдаAlphaSourceaspose.threed.shading/texturebase/alphasource являетсяPixelAlpha Значение по умолчанию  10 допустимый диапазон значений  от 0 до 1
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.shading/texturebase/alpha/
 ---
 ## TextureBase.Alpha property
 
-Получает или устанавливает альфа-значение текстуры по умолчанию Это действительно, когда используется[`AlphaSource`](../alphasource)isPixelAlpha Значение по умолчанию — 1,0, допустимый диапазон значений — от 0 до 1
+Получает или задает альфа-значение текстуры по умолчанию Это допустимо, когда[`AlphaSource`](../alphasource) являетсяPixelAlpha Значение по умолчанию — 1,0, допустимый диапазон значений — от 0 до 1
 
 ```csharp
 public double Alpha { get; set; }

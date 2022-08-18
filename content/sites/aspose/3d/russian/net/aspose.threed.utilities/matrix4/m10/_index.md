@@ -1,14 +1,14 @@
 ---
 title: m10
 second_title: Справочник по Aspose.3D для .NET API
-description: М10.
+description: m10.
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.utilities/matrix4/m10/
 ---
 ## Matrix4.m10 field
 
-М10.
+m10.
 
 ```csharp
 public double m10;

@@ -1,14 +1,14 @@
 ---
 title: V
 second_title: Aspose.3D for .NET API 参考
-description: 如果Vector2aspose.threed.utilities/vector2用作映射坐标则获取或设置 V 分量 它是 y 组件的别名
+description: 获取或设置 V 分量如果Vector2aspose.threed.utilities/vector2用作映射坐标 是y分量的别名
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.utilities/vector2/v/
 ---
 ## Vector2.V property
 
-如果[`Vector2`](../../vector2)用作映射坐标，则获取或设置 V 分量。 它是 y 组件的别名。
+获取或设置 V 分量，如果[`Vector2`](../../vector2)用作映射坐标。 是y分量的别名。
 
 ```csharp
 public double V { get; set; }

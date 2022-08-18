@@ -3,7 +3,7 @@ title: IDescriptorSet
 second_title: Справочник по Aspose.3D для .NET API
 description: Наборы дескрипторов описывают различные ресурсы которые можно использовать для привязки к конвейеру рендеринга такие как буферы текстуры
 type: docs
-weight: 1840
+weight: 1850
 url: /ru/net/aspose.threed.render/idescriptorset/
 ---
 ## IDescriptorSet interface
@@ -18,7 +18,7 @@ public interface IDescriptorSet : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [BeginUpdate](../../aspose.threed.render/idescriptorset/beginupdate)() | Начать обновление набора дескрипторов |
+| [BeginUpdate](../../aspose.threed.render/idescriptorset/beginupdate)() | Начать обновление дескриптора set |
 
 ### Смотрите также
 

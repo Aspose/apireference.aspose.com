@@ -1,14 +1,14 @@
 ---
 title: Center
 second_title: Aspose.3D for .NET API 参考
-description: 如果该值为false则线性拉伸Z范围是从0到height否则范围是从-height/2到height/2
+description: 如果该值为false则线性拉伸Z的范围是从0到height否则范围是从-height/2到height/2
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/linearextrusion/center/
 ---
 ## LinearExtrusion.Center property
 
-如果该值为false，则线性拉伸Z范围是从0到height，否则范围是从-height/2到height/2。
+如果该值为false，则线性拉伸Z的范围是从0到height，否则范围是从-height/2到height/2。
 
 ```csharp
 public bool Center { get; set; }

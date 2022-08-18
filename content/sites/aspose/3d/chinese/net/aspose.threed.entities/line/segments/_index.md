@@ -1,14 +1,14 @@
 ---
 title: Segments
 second_title: Aspose.3D for .NET API 参考
-description: 获取行
+description: 获取线段
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/line/segments/
 ---
 ## Line.Segments property
 
-获取行
+获取线段
 
 ```csharp
 public IList<int[]> Segments { get; }

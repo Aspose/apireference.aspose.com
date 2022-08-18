@@ -1,14 +1,14 @@
 ---
 title: Shininess
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置光泽度它控制镜面高光的大小 高光公式 SpecularColor  SpecularFactor  N dot H  Shininess
+description: 获取或设置光泽度控制高光的大小 高光的公式 SpecularColor  SpecularFactor  N dot H  Shininess
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.shading/phongmaterial/shininess/
 ---
 ## PhongMaterial.Shininess property
 
-获取或设置光泽度，它控制镜面高光的大小。 高光公式: SpecularColor * SpecularFactor * (N dot H) ^ Shininess
+获取或设置光泽度，控制高光的大小。 高光的公式： SpecularColor * SpecularFactor * (N dot H) ^ Shininess
 
 ```csharp
 public double Shininess { get; set; }

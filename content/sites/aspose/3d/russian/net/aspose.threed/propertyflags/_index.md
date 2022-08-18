@@ -1,14 +1,14 @@
 ---
 title: PropertyFlags
 second_title: Справочник по Aspose.3D для .NET API
-description: Флаги свойств
+description: Флаги свойства
 type: docs
-weight: 1680
+weight: 1690
 url: /ru/net/aspose.threed/propertyflags/
 ---
 ## PropertyFlags enumeration
 
-Флаги свойств
+Флаги свойства
 
 ```csharp
 [Flags]
@@ -21,8 +21,8 @@ public enum PropertyFlags : byte
 | --- | --- | --- |
 | None | `0` | Свойство не имеет флагов |
 | NotSerializable | `1` | Это свойство не сериализуемо |
-| UserDefined | `2` | Это свойство определяется пользователем |
-| Animatable | `4` | Свойство можно анимировать |
+| UserDefined | `2` | Это определяемое пользователем свойство |
+| Animatable | `4` | Свойство является анимируемым |
 | Animated | `8` | Свойство анимировано |
 | Hidden | `10` | Свойство помечено как скрытое. |
 

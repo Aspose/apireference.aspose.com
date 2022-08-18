@@ -1,14 +1,14 @@
 ---
 title: OrthoHeight
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置正投影中截头体时的高度
+description: 获取或设置截头在正交投影中的高度
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.entities/frustum/orthoheight/
 ---
 ## Frustum.OrthoHeight property
 
-获取或设置正投影中截头体时的高度。
+获取或设置截头在正交投影中的高度。
 
 ```csharp
 public double OrthoHeight { get; set; }

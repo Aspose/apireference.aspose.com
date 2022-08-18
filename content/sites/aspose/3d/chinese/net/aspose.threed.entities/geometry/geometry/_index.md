@@ -1,14 +1,14 @@
 ---
 title: Geometry
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Geometryaspose.threed.entities/geometry类的新实例
+description: 初始化Geometryaspose.threed.entities/geometry类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/geometry/geometry/
 ---
 ## Geometry constructor
 
-初始化[`Geometry`](../../geometry)类的新实例。
+初始化[`Geometry`](../../geometry)类.
 
 ```csharp
 public Geometry(string name)
@@ -16,7 +16,7 @@ public Geometry(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 

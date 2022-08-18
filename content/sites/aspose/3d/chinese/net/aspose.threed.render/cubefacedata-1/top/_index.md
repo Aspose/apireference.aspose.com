@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置Y顶面的数据
+description: 获取或设置 YTop face 的数据
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.render/cubefacedata-1/top/
 ---
 ## CubeFaceData&lt;T&gt;.Top property
 
-获取或设置+Y（顶）面的数据
+获取或设置 +Y(Top) face 的数据
 
 ```csharp
 public T Top { get; set; }

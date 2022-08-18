@@ -1,14 +1,14 @@
 ---
 title: Sin
 second_title: Aspose.3D for .NET API 参考
-description: 计算每个分量的正弦
+description: 计算每个分量的正弦值
 type: docs
 weight: 210
 url: /zh/net/aspose.threed.utilities/vector3/sin/
 ---
 ## Vector3.Sin method
 
-计算每个分量的正弦
+计算每个分量的正弦值
 
 ```csharp
 public Vector3 Sin()
@@ -16,7 +16,7 @@ public Vector3 Sin()
 
 ### 返回值
 
-计算[`Vector3`](../../vector3)。
+计算出来的[`Vector3`](../../vector3).
 
 ### 也可以看看
 

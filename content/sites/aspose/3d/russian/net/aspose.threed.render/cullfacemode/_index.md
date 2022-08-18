@@ -3,7 +3,7 @@ title: CullFaceMode
 second_title: Справочник по Aspose.3D для .NET API
 description: Какое лицо отбраковывать
 type: docs
-weight: 1730
+weight: 1740
 url: /ru/net/aspose.threed.render/cullfacemode/
 ---
 ## CullFaceMode enumeration
@@ -20,7 +20,7 @@ public enum CullFaceMode
 | --- | --- | --- |
 | Back | `1` | Отбраковываются только задние грани |
 | Front | `2` | Отбраковываются только передние грани |
-| Both | `3` | Отбрасываются обе задние/передние грани, не влияет на рендеринг линий/точек. |
+| Both | `3` | Отбрасываются обе задние/передние грани, это не влияет на рендеринг линий/точек. |
 
 ### Смотрите также
 

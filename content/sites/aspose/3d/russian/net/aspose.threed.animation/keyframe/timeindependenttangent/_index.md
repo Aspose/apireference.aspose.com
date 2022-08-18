@@ -1,14 +1,14 @@
 ---
 title: TimeIndependentTangent
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает тангенс не зависящий от времени
+description: Получает или задает тангенс не зависящий от времени
 type: docs
 weight: 150
 url: /ru/net/aspose.threed.animation/keyframe/timeindependenttangent/
 ---
 ## KeyFrame.TimeIndependentTangent property
 
-Получает или устанавливает тангенс, не зависящий от времени
+Получает или задает тангенс, не зависящий от времени
 
 ```csharp
 public bool TimeIndependentTangent { get; set; }

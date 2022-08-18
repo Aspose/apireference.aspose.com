@@ -17,7 +17,7 @@ public List<byte[]> Extract(string fileName, byte[] password = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String |  |
-| пароль | Byte[] |  |
+| password | Byte[] |  |
 
 ### Смотрите также
 
@@ -37,8 +37,8 @@ public List<byte[]> Extract(Stream stream, byte[] password = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| поток | Stream |  |
-| пароль | Byte[] |  |
+| stream | Stream |  |
+| password | Byte[] |  |
 
 ### Смотрите также
 

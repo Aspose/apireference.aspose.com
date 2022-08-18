@@ -16,7 +16,7 @@ public FVector2 ReadFVector2(VertexField field)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| field | VertexField | 带有Vector2/的字段FVector2 数据类型 |
+| field | VertexField | 具有 Vector2/FVector2 数据类型的字段 |
 
 ### 也可以看看
 

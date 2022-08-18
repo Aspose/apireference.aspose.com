@@ -1,14 +1,14 @@
 ---
 title: Open
 second_title: Aspose.3D for .NET API 参考
-description: 使用指定文件格式从给定流打开场景
+description: 使用指定的文件格式从给定的流中打开场景
 type: docs
 weight: 140
 url: /zh/net/aspose.threed/scene/open/
 ---
 ## Open(Stream, FileFormat, CancellationToken) {#open_1}
 
-使用指定文件格式从给定流打开场景。
+使用指定的文件格式从给定的流中打开场景。
 
 ```csharp
 public void Open(Stream stream, FileFormat format, CancellationToken cancellationToken = default)
@@ -31,7 +31,7 @@ public void Open(Stream stream, FileFormat format, CancellationToken cancellatio
 
 ## Open(Stream, LoadOptions, CancellationToken) {#open_2}
 
-使用指定的 IO 配置从给定的流中打开场景。
+使用指定的 IO 配置从给定流打开场景。
 
 ```csharp
 public void Open(Stream stream, LoadOptions options, CancellationToken cancellationToken = default)
@@ -54,7 +54,7 @@ public void Open(Stream stream, LoadOptions options, CancellationToken cancellat
 
 ## Open(Stream) {#open}
 
-从给定流打开场景
+从给定的流中打开场景
 
 ```csharp
 public void Open(Stream stream)
@@ -74,7 +74,7 @@ public void Open(Stream stream)
 
 ## Open(Stream, CancellationToken) {#open_3}
 
-从给定流打开场景
+从给定的流中打开场景
 
 ```csharp
 public void Open(Stream stream, CancellationToken cancellationToken)
@@ -95,7 +95,7 @@ public void Open(Stream stream, CancellationToken cancellationToken)
 
 ## Open(string, FileFormat, CancellationToken) {#open_5}
 
-使用指定文件格式从给定路径打开场景。
+使用指定的文件格式从给定路径打开场景。
 
 ```csharp
 public void Open(string fileName, FileFormat format, CancellationToken cancellationToken = default)
@@ -116,13 +116,34 @@ public void Open(string fileName, FileFormat format, CancellationToken cancellat
 
 ---
 
-## Open(string, LoadOptions, CancellationToken) {#open_6}
+## Open(string, LoadOptions) {#open_6}
 
-使用指定文件格式从给定路径打开场景。
+使用指定的文件格式从给定路径打开场景。
 
 ```csharp
-public void Open(string fileName, LoadOptions options, 
-    CancellationToken cancellationToken = default)
+public void Open(string fileName, LoadOptions options)
+```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fileName | String | 文件名。 |
+| options | LoadOptions | 更详细的配置打开流。 |
+
+### 也可以看看
+
+* class [LoadOptions](../../../aspose.threed.formats/loadoptions)
+* class [Scene](../../scene)
+* 命名空间 [Aspose.ThreeD](../../scene)
+* 部件 [Aspose.3D](../../../)
+
+---
+
+## Open(string, LoadOptions, CancellationToken) {#open_7}
+
+使用指定的文件格式从给定路径打开场景。
+
+```csharp
+public void Open(string fileName, LoadOptions options, CancellationToken cancellationToken)
 ```
 
 | 范围 | 类型 | 描述 |
@@ -160,7 +181,7 @@ public void Open(string fileName)
 
 ---
 
-## Open(string, CancellationToken) {#open_7}
+## Open(string, CancellationToken) {#open_8}
 
 从给定路径打开场景
 

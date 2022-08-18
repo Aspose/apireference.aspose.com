@@ -8,7 +8,7 @@ url: /zh/net/aspose.threed.utilities/vertexfield/compareto/
 ---
 ## VertexField.CompareTo method
 
-将此实例与指定对象进行比较并返回它们相对值的指示。
+将此实例与指定对象进行比较，并返回它们相对值的指示。
 
 ```csharp
 public int CompareTo(VertexField other)

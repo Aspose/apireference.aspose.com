@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.3D для .NET API
-description: Возвращает хеш-код для этого экземпляра
+description: Возвращает хэш-код для этого экземпляра
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.utilities/boundingbox/gethashcode/
 ---
 ## BoundingBox.GetHashCode method
 
-Возвращает хеш-код для этого экземпляра
+Возвращает хэш-код для этого экземпляра
 
 ```csharp
 public override int GetHashCode()

@@ -1,14 +1,14 @@
 ---
 title: Sphere
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземплярSphereaspose.threed.entities/sphereс радиусом по умолчанию 1.
+description: Инициализирует новый экземплярSphereaspose.threed.entities/sphere с радиусом по умолчанию 1.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/sphere/sphere/
 ---
 ## Sphere() {#constructor}
 
-Инициализирует новый экземпляр[`Sphere`](../../sphere)с радиусом по умолчанию 1.
+Инициализирует новый экземпляр[`Sphere`](../../sphere) с радиусом по умолчанию 1.
 
 ```csharp
 public Sphere()
@@ -24,7 +24,7 @@ public Sphere()
 
 ## Sphere(double) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Sphere`](../../sphere)с указанным радиусом.
+Инициализирует новый экземпляр[`Sphere`](../../sphere) класс с указанным радиусом.
 
 ```csharp
 public Sphere(double radius)
@@ -44,7 +44,7 @@ public Sphere(double radius)
 
 ## Sphere(double, int, int) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Sphere`](../../sphere)с заданным радиусом, сегментами ширины и сегментами высоты.
+Инициализирует новый экземпляр[`Sphere`](../../sphere) класс с заданным радиусом, сегментами ширины и сегментами высоты.
 
 ```csharp
 public Sphere(double radius, int widthSegments, int heightSegments)
@@ -53,8 +53,8 @@ public Sphere(double radius, int widthSegments, int heightSegments)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | radius | Double | Радиус сферы. |
-| widthSegments | Int32 | Ширина сегментов. |
-| heightSegments | Int32 | Высота сегментов. |
+| widthSegments | Int32 | Сегменты ширины. |
+| heightSegments | Int32 | Сегменты высоты. |
 
 ### Смотрите также
 
@@ -66,7 +66,7 @@ public Sphere(double radius, int widthSegments, int heightSegments)
 
 ## Sphere(string, double, int, int, double, double, double, double) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`Sphere`](../../sphere).
+Инициализирует новый экземпляр[`Sphere`](../../sphere) класс.
 
 ```csharp
 public Sphere(string name, double radius, int widthSegments, int heightSegments, double phiStart, 
@@ -77,12 +77,12 @@ public Sphere(string name, double radius, int widthSegments, int heightSegments,
 | --- | --- | --- |
 | name | String | Имя. |
 | radius | Double | Радиус сферы. |
-| widthSegments | Int32 | Ширина сегментов. |
-| heightSegments | Int32 | Высота сегментов. |
-| phiStart | Double | Фи старт. |
+| widthSegments | Int32 | Сегменты ширины. |
+| heightSegments | Int32 | Сегменты высоты. |
+| phiStart | Double | Фи начало. |
 | phiLength | Double | Длина фи. |
-| thetaStart | Double | Тета-старт. |
-| thetaLength | Double | Тета-длина. |
+| thetaStart | Double | Тета начало. |
+| thetaLength | Double | Длина теты. |
 
 ### Смотрите также
 

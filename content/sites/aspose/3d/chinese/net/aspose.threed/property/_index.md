@@ -3,7 +3,7 @@ title: Property
 second_title: Aspose.3D for .NET API 参考
 description: 保存用户定义属性的类
 type: docs
-weight: 1660
+weight: 1670
 url: /zh/net/aspose.threed/property/
 ---
 ## Property class
@@ -27,14 +27,14 @@ public abstract class Property : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBindPoint](../../aspose.threed/property/getbindpoint)(AnimationNode, bool) | 获取指定动画实例的属性绑定点。 |
 | [GetKeyframeSequence](../../aspose.threed/property/getkeyframesequence)(AnimationNode, bool) | 获取指定动画实例的关键帧序列。 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
-| override [ToString](../../aspose.threed/property/tostring)() | 返回代表当前[`Property`](../property)的字符串。 |
+| override [ToString](../../aspose.threed/property/tostring)() | 返回代表当前的字符串[`Property`](../property). |
 
 ### 也可以看看
 

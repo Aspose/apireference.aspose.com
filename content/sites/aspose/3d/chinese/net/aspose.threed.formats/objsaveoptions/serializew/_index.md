@@ -8,7 +8,7 @@ url: /zh/net/aspose.threed.formats/objsaveoptions/serializew/
 ---
 ## ObjSaveOptions.SerializeW property
 
-获取或设置是否序列化模型顶点位置的W组件。
+获取或设置是否序列化模型顶点位置的W组件
 
 ```csharp
 public bool SerializeW { get; set; }

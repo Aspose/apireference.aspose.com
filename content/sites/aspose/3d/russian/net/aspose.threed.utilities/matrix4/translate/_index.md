@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Справочник по Aspose.3D для .NET API
-description: Создает матрицу которая перемещается вдоль оси x оси y и оси z
+description: Создает матрицу которая перемещается по оси x оси y и оси z
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.utilities/matrix4/translate/
 ---
 ## Translate(Vector3) {#translate}
 
-Создает матрицу, которая перемещается вдоль оси x, оси y и оси z
+Создает матрицу, которая перемещается по оси x, оси y и оси z
 
 ```csharp
 public static Matrix4 Translate(Vector3 t)
@@ -29,7 +29,7 @@ public static Matrix4 Translate(Vector3 t)
 
 ## Translate(double, double, double) {#translate_1}
 
-Создает матрицу, которая перемещается вдоль оси x, оси y и оси z
+Создает матрицу, которая перемещается по оси x, оси y и оси z
 
 ```csharp
 public static Matrix4 Translate(double tx, double ty, double tz)

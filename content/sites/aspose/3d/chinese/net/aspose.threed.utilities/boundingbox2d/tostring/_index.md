@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 获取边界框的字符串表示
+description: 获取边界框的字符串表示形式
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.utilities/boundingbox2d/tostring/
 ---
 ## BoundingBox2D.ToString method
 
-获取边界框的字符串表示。
+获取边界框的字符串表示形式。
 
 ```csharp
 public override string ToString()

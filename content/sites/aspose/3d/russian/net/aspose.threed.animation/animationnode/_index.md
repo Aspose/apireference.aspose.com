@@ -1,14 +1,14 @@
 ---
 title: AnimationNode
 second_title: Справочник по Aspose.3D для .NET API
-description: Aspose.3D поддерживает иерархию анимации каждая анимация может состоять из нескольких анимаций и определения ключевого кадра анимации. AnimationNode./animationnodeопределяет преобразование значения свойства с течением времени например узел анимации можно использовать для управлять преобразованием узла или другими числовыми свойствамиA3DObject../aspose.threed/a3dobjectобъекта.
+description: Aspose.3D поддерживает иерархию анимации каждая анимация может состоять из нескольких анимаций и определения ключевого кадра анимации. AnimationNode./animationnode определяет преобразование значения свойства с течением времени например узел анимации может использоваться для управления преобразованием узла или другимA3DObject../aspose.threed/a3dobject числовые свойства объекта.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.animation/animationnode/
 ---
 ## AnimationNode class
 
-Aspose.3D поддерживает иерархию анимации, каждая анимация может состоять из нескольких анимаций и определения ключевого кадра анимации. [`AnimationNode`](../animationnode)определяет преобразование значения свойства с течением времени, например, узел анимации можно использовать для управлять преобразованием узла или другими числовыми свойствами[`A3DObject`](../../aspose.threed/a3dobject)объекта.
+Aspose.3D поддерживает иерархию анимации, каждая анимация может состоять из нескольких анимаций и определения ключевого кадра анимации. [`AnimationNode`](../animationnode) определяет преобразование значения свойства с течением времени, например, узел анимации может использоваться для управления преобразованием узла или другим[`A3DObject`](../../aspose.threed/a3dobject) числовые свойства объекта.
 
 ```csharp
 public class AnimationNode : A3DObject
@@ -18,17 +18,17 @@ public class AnimationNode : A3DObject
 
 | Имя | Описание |
 | --- | --- |
-| [AnimationNode](animationnode#constructor)() | Инициализирует новый экземпляр класса[`AnimationNode`](../animationnode). |
-| [AnimationNode](animationnode#constructor_1)(string) | Инициализирует новый экземпляр класса[`AnimationNode`](../animationnode). |
+| [AnimationNode](animationnode#constructor)() | Инициализирует новый экземпляр[`AnimationNode`](../animationnode) класс. |
+| [AnimationNode](animationnode#constructor_1)(string) | Инициализирует новый экземпляр[`AnimationNode`](../animationnode) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BindPoints](../../aspose.threed.animation/animationnode/bindpoints) { get; } | Получает текущие точки привязки свойств |
+| [BindPoints](../../aspose.threed.animation/animationnode/bindpoints) { get; } | Получает текущие точки привязки свойства |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
-| [SubAnimations](../../aspose.threed.animation/animationnode/subanimations) { get; } | Получает узлы суб-анимации текущей анимации |
+| [SubAnimations](../../aspose.threed.animation/animationnode/subanimations) { get; } | Получает узлы суб-анимации в текущих анимациях |
 
 ## Методы
 
@@ -39,10 +39,10 @@ public class AnimationNode : A3DObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBindPoint](../../aspose.threed.animation/animationnode/getbindpoint)(A3DObject, string, bool) | Получает точку привязки анимации для заданного свойства. |
 | [GetKeyframeSequence](../../aspose.threed.animation/animationnode/getkeyframesequence#getkeyframesequence)(A3DObject, string, bool) | Получает последовательность ключевых кадров для данного свойства. |
-| [GetKeyframeSequence](../../aspose.threed.animation/animationnode/getkeyframesequence#getkeyframesequence_1)(A3DObject, string, string, bool) | Получает последовательность ключевых кадров для данного свойства и канала. |
+| [GetKeyframeSequence](../../aspose.threed.animation/animationnode/getkeyframesequence#getkeyframesequence_1)(A3DObject, string, string, bool) | Получает последовательность ключевых кадров для заданного свойства и канала. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

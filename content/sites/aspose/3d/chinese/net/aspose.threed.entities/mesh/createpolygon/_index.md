@@ -1,14 +1,14 @@
 ---
 title: CreatePolygon
 second_title: Aspose.3D for .NET API 参考
-description: 使用indices中定义的所有顶点创建一个新多边形 要逐个顶点创建多边形顶点请使用PolygonBuilderaspose.threed.entities/polygonbuilder
+description: 创建一个新的多边形其中定义了所有顶点indices. 要逐个顶点创建多边形顶点请使用PolygonBuilderaspose.threed.entities/polygonbuilder.
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.entities/mesh/createpolygon/
 ---
 ## CreatePolygon(int[], int, int) {#createpolygon_3}
 
-使用*indices*中定义的所有顶点创建一个新多边形。 要逐个顶点创建多边形顶点，请使用[`PolygonBuilder`](../../polygonbuilder)。
+创建一个新的多边形，其中定义了所有顶点*indices*. 要逐个顶点创建多边形顶点，请使用[`PolygonBuilder`](../../polygonbuilder).
 
 ```csharp
 public void CreatePolygon(int[] indices, int offset, int length)
@@ -16,7 +16,7 @@ public void CreatePolygon(int[] indices, int offset, int length)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| indices | Int32[] | 多边形索引数组，每个索引点到形成多边形的控制点。 |
+| indices | Int32[] | 多边形索引数组，每个索引指向形成多边形的控制点。 |
 | offset | Int32 | 第一个多边形索引的偏移量 |
 | length | Int32 | 索引的长度 |
 
@@ -37,7 +37,7 @@ mesh.CreatePolygon(indices);
 
 ## CreatePolygon(int[]) {#createpolygon_2}
 
-使用*indices*中定义的所有顶点创建一个新多边形。 要逐个顶点创建多边形顶点，请使用[`PolygonBuilder`](../../polygonbuilder)。
+创建一个新的多边形，其中定义了所有顶点*indices*. 要逐个顶点创建多边形顶点，请使用[`PolygonBuilder`](../../polygonbuilder).
 
 ```csharp
 public void CreatePolygon(int[] indices)
@@ -45,7 +45,7 @@ public void CreatePolygon(int[] indices)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| indices | Int32[] | 多边形索引数组，每个索引点到形成多边形的控制点。 |
+| indices | Int32[] | 多边形索引数组，每个索引指向形成多边形的控制点。 |
 
 ### 例子
 
@@ -72,7 +72,7 @@ public void CreatePolygon(int v1, int v2, int v3, int v4)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| v1 | Int32 | 索引第一个顶点的 |
+| v1 | Int32 | 第一个顶点的索引 |
 | v2 | Int32 | 第二个顶点的索引 |
 | v3 | Int32 | 第三个顶点的索引 |
 | v4 | Int32 | 第四个顶点的索引 |
@@ -87,7 +87,7 @@ public void CreatePolygon(int v1, int v2, int v3, int v4)
 
 ## CreatePolygon(int, int, int) {#createpolygon}
 
-创建一个具有 3 个顶点（三角形）的多边形
+创建一个具有 3 个顶点的多边形（三角形）
 
 ```csharp
 public void CreatePolygon(int v1, int v2, int v3)
@@ -95,7 +95,7 @@ public void CreatePolygon(int v1, int v2, int v3)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| v1 | Int32 | 索引第一个顶点的 |
+| v1 | Int32 | 第一个顶点的索引 |
 | v2 | Int32 | 第二个顶点的索引 |
 | v3 | Int32 | 第三个顶点的索引 |
 

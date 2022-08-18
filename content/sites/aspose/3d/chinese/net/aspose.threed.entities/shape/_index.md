@@ -1,14 +1,14 @@
 ---
 title: Shape
 second_title: Aspose.3D for .NET API 参考
-description: 形状描述了一组控制点上的变形类似于 Maya 中的簇变形器 例如我们可以将形状添加到创建的几何图形中 形状和几何具有相同的拓扑信息但控制点的位置不同 几何体具有不同程度的影响会产生变形效果
+description: 形状描述了一组控制点上的变形类似于 Maya 中的簇变形器 例如我们可以将形状添加到创建的几何体中 并且形状和几何具有相同的拓扑信息但控制点的位置不同 由于影响量不同几何体会产生变形效果
 type: docs
 weight: 640
 url: /zh/net/aspose.threed.entities/shape/
 ---
 ## Shape class
 
-形状描述了一组控制点上的变形，类似于 Maya 中的簇变形器。 例如，我们可以将形状添加到创建的几何图形中。 形状和几何具有相同的拓扑信息，但控制点的位置不同。 几何体具有不同程度的影响，会产生变形效果。
+形状描述了一组控制点上的变形，类似于 Maya 中的簇变形器。 例如，我们可以将形状添加到创建的几何体中。 并且形状和几何具有相同的拓扑信息，但控制点的位置不同。 由于影响量不同，几何体会产生变形效果。
 
 ```csharp
 public class Shape : Geometry
@@ -18,17 +18,17 @@ public class Shape : Geometry
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Shape](shape#constructor)() | 初始化[`Shape`](../shape)类的新实例。 |
-| [Shape](shape#constructor_1)(string) | 初始化[`Shape`](../shape)类的新实例。 |
+| [Shape](shape#constructor)() | 初始化[`Shape`](../shape)类. |
+| [Shape](shape#constructor_1)(string) | 初始化[`Shape`](../shape)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CastShadows](../../aspose.threed.entities/geometry/castshadows) { get; set; } | 获取或设置此几何是否可以投射阴影 |
+| [CastShadows](../../aspose.threed.entities/geometry/castshadows) { get; set; } | 获取或设置此几何体是否可以投射阴影 |
 | [ControlPoints](../../aspose.threed.entities/geometry/controlpoints) { get; } | 获取所有控制点 |
-| [Deformers](../../aspose.threed.entities/geometry/deformers) { get; } | 获取与此几何体关联的所有变形器。 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [Deformers](../../aspose.threed.entities/geometry/deformers) { get; } | 获取与此几何图形关联的所有变形器。 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | [Indices](../../aspose.threed.entities/shape/indices) { get; } | 获取索引。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
@@ -44,20 +44,20 @@ public class Shape : Geometry
 | 姓名 | 描述 |
 | --- | --- |
 | static [FromControlPoints](../../aspose.threed.entities/shape/fromcontrolpoints)(params Vector3[]) | 使用默认索引创建具有指定控制点的形状。 |
-| [AddElement](../../aspose.threed.entities/geometry/addelement)(VertexElement) | 将现有顶点元素添加到当前几何体 |
+| [AddElement](../../aspose.threed.entities/geometry/addelement)(VertexElement) | 将现有顶点元素添加到当前几何图形 |
 | [CreateElement](../../aspose.threed.entities/geometry/createelement)(VertexElementType) | 创建具有指定类型的顶点元素并将其添加到几何图形中。 |
 | [CreateElement](../../aspose.threed.entities/geometry/createelement)(VertexElementType, MappingMode, ReferenceMode) | 创建具有指定类型的顶点元素并将其添加到几何图形中。 |
-| [CreateElementUV](../../aspose.threed.entities/geometry/createelementuv)(TextureMapping) | 创建具有给定纹理映射类型的[`VertexElementUV`](../vertexelementuv)。 |
-| [CreateElementUV](../../aspose.threed.entities/geometry/createelementuv)(TextureMapping, MappingMode, ReferenceMode) | 创建具有给定纹理映射类型的[`VertexElementUV`](../vertexelementuv)。 |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [CreateElementUV](../../aspose.threed.entities/geometry/createelementuv)(TextureMapping) | 创建一个[`VertexElementUV`](../vertexelementuv)具有给定的纹理映射类型。 |
+| [CreateElementUV](../../aspose.threed.entities/geometry/createelementuv)(TextureMapping, MappingMode, ReferenceMode) | 创建一个[`VertexElementUV`](../vertexelementuv)具有给定的纹理映射类型。 |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
 | [GetDeformers&lt;T&gt;](../../aspose.threed.entities/geometry/getdeformers)() |  |
 | [GetElement](../../aspose.threed.entities/geometry/getelement)(VertexElementType) | 获取指定类型的顶点元素 |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
-| [GetVertexElementOfUV](../../aspose.threed.entities/geometry/getvertexelementofuv)(TextureMapping) | 得到一个 [`VertexElementUV`](../vertexelementuv) 具有给定纹理映射类型的实例 |
+| [GetVertexElementOfUV](../../aspose.threed.entities/geometry/getvertexelementofuv)(TextureMapping) | 得到一个[`VertexElementUV`](../vertexelementuv)具有给定纹理映射类型 的实例 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: ResetSceneCache
 second_title: Aspose.3D for .NET API 参考
-description: 场景已更改或移除需要在此
+description: 场景发生变化或移除需要在this 中配置场景级渲染资源
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.render/entityrenderer/resetscenecache/
 ---
 ## EntityRenderer.ResetSceneCache method
 
-场景已更改或移除，需要在此
+场景发生变化或移除，需要在this 中配置场景级渲染资源
 
 ```csharp
 public virtual void ResetSceneCache()

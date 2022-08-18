@@ -24,7 +24,7 @@ public ArbitraryProfile()
 
 ## ArbitraryProfile(Curve) {#constructor_1}
 
-Конструктор[`ArbitraryProfile`](../../arbitraryprofile)с начальной кривой.
+Конструктор[`ArbitraryProfile`](../../arbitraryprofile) с начальной кривой.
 
 ```csharp
 public ArbitraryProfile(Curve curve)

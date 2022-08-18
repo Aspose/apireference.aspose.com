@@ -1,14 +1,14 @@
 ---
 title: PhongMaterial
 second_title: Aspose.3D for .NET API 参考
-description: 初始化PhongMaterialaspose.threed.shading/phongmaterial类的新实例
+description: 初始化PhongMaterialaspose.threed.shading/phongmaterial类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.shading/phongmaterial/phongmaterial/
 ---
 ## PhongMaterial() {#constructor}
 
-初始化[`PhongMaterial`](../../phongmaterial)类的新实例。
+初始化[`PhongMaterial`](../../phongmaterial)类.
 
 ```csharp
 public PhongMaterial()
@@ -24,7 +24,7 @@ public PhongMaterial()
 
 ## PhongMaterial(string) {#constructor_1}
 
-初始化[`PhongMaterial`](../../phongmaterial)类的新实例。
+初始化[`PhongMaterial`](../../phongmaterial)类.
 
 ```csharp
 public PhongMaterial(string name)
@@ -32,7 +32,7 @@ public PhongMaterial(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 

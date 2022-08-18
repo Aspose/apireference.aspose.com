@@ -17,11 +17,11 @@ public static Vector2 operator /(Vector2 lhs, double rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Vector2 | 左侧值。 |
-| rhs | Double | 右侧值。 |
+| rhs | Double | 右手边的值。 |
 
 ### 返回值
 
-除法的结果。
+分裂的结果。
 
 ### 也可以看看
 

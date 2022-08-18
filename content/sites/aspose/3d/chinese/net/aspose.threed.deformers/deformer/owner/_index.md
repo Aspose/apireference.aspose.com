@@ -1,14 +1,14 @@
 ---
 title: Owner
 second_title: Aspose.3D for .NET API 参考
-description: 获取拥有此变形器的几何体
+description: 获取拥有此变形器的几何图形
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.deformers/deformer/owner/
 ---
 ## Deformer.Owner property
 
-获取拥有此变形器的几何体
+获取拥有此变形器的几何图形
 
 ```csharp
 public Geometry Owner { get; }

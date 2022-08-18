@@ -20,7 +20,7 @@ public bool RemoveProperty(Property property)
 
 ### 返回值
 
-如果属性是成功删除
+如果属性已成功删除，则为 true
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public bool RemoveProperty(Property property)
 
 ## RemoveProperty(string) {#removeproperty_1}
 
-删除名称标识的指定属性
+移除名称标识的指定属性
 
 ```csharp
 public bool RemoveProperty(string property)

@@ -1,14 +1,14 @@
 ---
 title: Vector3
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Vector3aspose.threed.utilities/vector3结构的新实例
+description: 初始化Vector3aspose.threed.utilities/vector3 struct.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/vector3/vector3/
 ---
 ## Vector3(double, double, double) {#constructor_3}
 
-初始化[`Vector3`](../../vector3)结构的新实例。
+初始化[`Vector3`](../../vector3) struct.
 
 ```csharp
 public Vector3(double x, double y, double z)
@@ -30,7 +30,7 @@ public Vector3(double x, double y, double z)
 
 ## Vector3(FVector3) {#constructor}
 
-初始化[`Vector3`](../../vector3)结构的新实例。
+初始化[`Vector3`](../../vector3) struct.
 
 ```csharp
 public Vector3(FVector3 vec)
@@ -51,7 +51,7 @@ public Vector3(FVector3 vec)
 
 ## Vector3(Color) {#constructor_4}
 
-初始化[`Vector3`](../../vector3)结构的新实例。
+初始化[`Vector3`](../../vector3) struct.
 
 ```csharp
 public Vector3(Color color)
@@ -71,7 +71,7 @@ public Vector3(Color color)
 
 ## Vector3(double) {#constructor_2}
 
-初始化[`Vector3`](../../vector3)结构的新实例。
+初始化[`Vector3`](../../vector3) struct.
 
 ```csharp
 public Vector3(double v)
@@ -79,7 +79,7 @@ public Vector3(double v)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| v | Double | V. |
+| v | Double | 五。 |
 
 ### 也可以看看
 
@@ -91,7 +91,7 @@ public Vector3(double v)
 
 ## Vector3(Vector4) {#constructor_1}
 
-初始化[`Vector3`](../../vector3)结构的新实例。
+初始化[`Vector3`](../../vector3) struct.
 
 ```csharp
 public Vector3(Vector4 vec4)
@@ -99,7 +99,7 @@ public Vector3(Vector4 vec4)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| vec4 | Vector4 | Vec4。 |
+| vec4 | Vector4 | vec4。 |
 
 ### 也可以看看
 

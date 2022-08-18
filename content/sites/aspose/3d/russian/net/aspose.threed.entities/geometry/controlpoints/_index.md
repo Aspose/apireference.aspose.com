@@ -1,14 +1,14 @@
 ---
 title: ControlPoints
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает все контрольные точки
+description: Получить все контрольные точки
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/geometry/controlpoints/
 ---
 ## Geometry.ControlPoints property
 
-Получает все контрольные точки
+Получить все контрольные точки
 
 ```csharp
 public IArrayList<Vector4> ControlPoints { get; }

@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 CAD 软件中用于表示骨骼大小的肢体节点大小
+description: 获取或设置肢体节点大小在 CAD 软件中用于表示骨骼的大小
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/skeleton/size/
 ---
 ## Skeleton.Size property
 
-获取或设置 CAD 软件中用于表示骨骼大小的肢体节点大小。
+获取或设置肢体节点大小，在 CAD 软件中用于表示骨骼的大小。
 
 ```csharp
 public double Size { get; set; }

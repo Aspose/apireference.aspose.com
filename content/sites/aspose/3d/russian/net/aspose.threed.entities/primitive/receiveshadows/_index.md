@@ -1,14 +1,14 @@
 ---
 title: ReceiveShadows
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает может ли эта геометрия получать тень.
+description: Получает или задает может ли эта геометрия получать тени.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/primitive/receiveshadows/
 ---
 ## Primitive.ReceiveShadows property
 
-Получает или задает, может ли эта геометрия получать тень.
+Получает или задает, может ли эта геометрия получать тени.
 
 ```csharp
 public bool ReceiveShadows { get; set; }

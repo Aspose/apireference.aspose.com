@@ -1,14 +1,14 @@
 ---
 title: OcclusionFactor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает коэффициент рассеянного затенения
+description: Получает или задает коэффициент окружающего затенения
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.shading/pbrmaterial/occlusionfactor/
 ---
 ## PbrMaterial.OcclusionFactor property
 
-Получает или задает коэффициент рассеянного затенения
+Получает или задает коэффициент окружающего затенения
 
 ```csharp
 public double OcclusionFactor { get; set; }

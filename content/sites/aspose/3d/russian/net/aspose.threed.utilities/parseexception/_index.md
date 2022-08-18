@@ -1,14 +1,14 @@
 ---
 title: ParseException
 second_title: Справочник по Aspose.3D для .NET API
-description: Исключение когда Aspose.3D не смог проанализировать ввод.
+description: Исключение когда Aspose.3D не удалось проанализировать ввод.
 type: docs
-weight: 2590
+weight: 2580
 url: /ru/net/aspose.threed.utilities/parseexception/
 ---
 ## ParseException class
 
-Исключение, когда Aspose.3D не смог проанализировать ввод.
+Исключение, когда Aspose.3D не удалось проанализировать ввод.
 
 ```csharp
 public class ParseException : Exception

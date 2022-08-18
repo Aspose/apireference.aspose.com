@@ -17,7 +17,7 @@ public static FVector4 operator +(FVector4 lhs, FVector4 rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | FVector4 | Левый вектор |
-| rhs | FVector4 | Правый вектор |
+| rhs | FVector4 | Правильный вектор |
 
 ### Возвращаемое значение
 

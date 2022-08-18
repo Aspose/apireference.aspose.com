@@ -1,14 +1,14 @@
 ---
 title: PatchDirectionType
 second_title: Aspose.3D for .NET API 参考
-description: 补丁方向的类型
+description: 面片方向的类型
 type: docs
 weight: 520
 url: /zh/net/aspose.threed.entities/patchdirectiontype/
 ---
 ## PatchDirectionType enumeration
 
-补丁方向的类型。
+面片方向的类型。
 
 ```csharp
 public enum PatchDirectionType
@@ -18,11 +18,11 @@ public enum PatchDirectionType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Bezier | `0` | [补丁方向是贝塞尔曲线。](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) |
-| QuadraticBezier | `1` | 二次贝塞尔补丁。 [补丁方向是二次曲线。](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Quadratic_curves) |
-| CardinalSpline | `2` | 红衣主教补丁。 [面片方向是基数样条。](https://en.wikipedia.org/wiki/Cubic_Hermite_spline#Cardinal_spline) |
-| BasisSpline | `3` | [补丁方向是基本样条。](https://en.wikipedia.org/wiki/B-spline) |
-| Linear | `4` | [补丁方向是线性曲线。](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Linear_curves) |
+| Bezier | `0` | [面片方向是贝塞尔曲线。](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) |
+| QuadraticBezier | `1` | 二次贝塞尔补丁。 [面片方向是二次曲线。](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Quadratic_curves) |
+| CardinalSpline | `2` | 红衣主教补丁. [面片方向是基数样条。](https://en.wikipedia.org/wiki/Cubic_Hermite_spline#Cardinal_spline) |
+| BasisSpline | `3` | [面片方向是基本样条。](https://en.wikipedia.org/wiki/B-spline) |
+| Linear | `4` | [面片方向是线性曲线。](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Linear_curves) |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Ambient
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает фоновый цвет по умолчанию для этого актива
+description: Получает или задает фоновый цвет по умолчанию для этого актива
 type: docs
 weight: 20
 url: /ru/net/aspose.threed/assetinfo/ambient/
 ---
 ## AssetInfo.Ambient property
 
-Получает или устанавливает фоновый цвет по умолчанию для этого актива
+Получает или задает фоновый цвет по умолчанию для этого актива
 
 ```csharp
 public Vector4? Ambient { get; set; }

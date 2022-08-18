@@ -1,14 +1,14 @@
 ---
 title: AlbedoTexture
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置反照率的纹理
+description: 获取或设置 albedo 的纹理
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.shading/pbrmaterial/albedotexture/
 ---
 ## PbrMaterial.AlbedoTexture property
 
-获取或设置反照率的纹理
+获取或设置 albedo 的纹理
 
 ```csharp
 public TextureBase AlbedoTexture { get; set; }

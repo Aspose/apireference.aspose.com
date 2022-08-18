@@ -1,14 +1,14 @@
 ---
 title: AmfSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: AmfSaveOptionsaspose.threed.formats/amfsaveoptions
+description: 的构造函数AmfSaveOptionsaspose.threed.formats/amfsaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/amfsaveoptions/amfsaveoptions/
 ---
 ## AmfSaveOptions constructor
 
-[`AmfSaveOptions`](../../amfsaveoptions)
+的构造函数[`AmfSaveOptions`](../../amfsaveoptions)
 
 ```csharp
 public AmfSaveOptions()

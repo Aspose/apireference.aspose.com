@@ -1,14 +1,14 @@
 ---
 title: XLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: 的构造函数 XLoadOptionsaspose.threed.formats/xloadoptions
+description: 的构造函数XLoadOptionsaspose.threed.formats/xloadoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/xloadoptions/xloadoptions/
 ---
 ## XLoadOptions constructor
 
-的构造函数 [`XLoadOptions`](../../xloadoptions)
+的构造函数[`XLoadOptions`](../../xloadoptions)
 
 ```csharp
 public XLoadOptions(FileContentType contentType)

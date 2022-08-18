@@ -18,9 +18,9 @@ public abstract IPipeline CreatePipeline(ShaderProgram shader, RenderState rende
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | shader | ShaderProgram | Шейдер, используемый при рендеринге |
-| renderState | RenderState | состояние рендеринга, используемое при рендеринге |
+| renderState | RenderState | Состояние рендеринга, используемое при рендеринге |
 | vertexDeclaration | VertexDeclaration | Объявление вершины входных данных вершины |
-| drawOperation | DrawOperation | Draw операция |
+| drawOperation | DrawOperation | Операция рисования |
 
 ### Возвращаемое значение
 

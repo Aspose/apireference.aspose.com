@@ -3,7 +3,7 @@ title: PropertyFlags
 second_title: Aspose.3D for .NET API 参考
 description: 属性标志
 type: docs
-weight: 1680
+weight: 1690
 url: /zh/net/aspose.threed/propertyflags/
 ---
 ## PropertyFlags enumeration
@@ -22,9 +22,9 @@ public enum PropertyFlags : byte
 | None | `0` | 该属性没有标志 |
 | NotSerializable | `1` | 此属性不可序列化 |
 | UserDefined | `2` | 这是用户定义的属性 |
-| Animatable | `4` | 该属性是可动画的 |
-| Animated | `8` | 属性动画 |
-| Hidden | `10` | 该属性被标记为隐藏。 |
+| Animatable | `4` | 属性是可动画的 |
+| Animated | `8` | 属性为动画 |
+| Hidden | `10` | 属性被标记为隐藏。 |
 
 ### 也可以看看
 

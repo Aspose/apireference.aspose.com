@@ -3,7 +3,7 @@ title: SceneObject
 second_title: Справочник по Aspose.3D для .NET API
 description: Корневой класс объектов которые будут храниться внутри сцены.
 type: docs
-weight: 2250
+weight: 2260
 url: /ru/net/aspose.threed/sceneobject/
 ---
 ## SceneObject class
@@ -36,7 +36,7 @@ public abstract class SceneObject : A3DObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

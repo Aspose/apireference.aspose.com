@@ -1,14 +1,14 @@
 ---
 title: ToMesh
 second_title: Справочник по Aspose.3D для .NET API
-description: ПреобразуйтеRevolvedAreaSolidaspose.threed.entities/revolvedareasolidв сетку.
+description: КонвертироватьRevolvedAreaSolidaspose.threed.entities/revolvedareasolid в сетку.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.entities/revolvedareasolid/tomesh/
 ---
 ## RevolvedAreaSolid.ToMesh method
 
-Преобразуйте[`RevolvedAreaSolid`](../../revolvedareasolid)в сетку.
+Конвертировать[`RevolvedAreaSolid`](../../revolvedareasolid) в сетку.
 
 ```csharp
 public Mesh ToMesh()

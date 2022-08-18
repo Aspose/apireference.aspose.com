@@ -1,14 +1,14 @@
 ---
 title: ImageFormat
 second_title: Aspose.3D for .NET API 参考
-description: 标准 glTF 仅支持 PNG/JPG 作为其纹理格式该选项将指导 Aspose.3D 如何将非标准图像转换为支持导出过程中的格式 默认值为Png
+description: 标准glTF只支持PNG/JPG作为其纹理格式该选项将指导Aspose.3D 在导出过程中如何将非标准图像转换为支持的格式 默认值为Png
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/imageformat/
 ---
 ## GltfSaveOptions.ImageFormat property
 
-标准 glTF 仅支持 PNG/JPG 作为其纹理格式，该选项将指导 Aspose.3D 如何将非标准图像转换为支持导出过程中的格式。 默认值为Png
+标准glTF只支持PNG/JPG作为其纹理格式，该选项将指导Aspose.3D 在导出过程中如何将非标准图像转换为支持的格式。 默认值为Png
 
 ```csharp
 public GltfEmbeddedImageFormat ImageFormat { get; set; }

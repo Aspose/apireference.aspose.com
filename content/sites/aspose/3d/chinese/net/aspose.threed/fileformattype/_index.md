@@ -38,7 +38,7 @@ public sealed class FileFormatType
 | static readonly [Pcd](../../aspose.threed/fileformattype/pcd) | 点云库使用的点云数据 |
 | static readonly [PDF](../../aspose.threed/fileformattype/pdf) | 可移植文档格式 |
 | static readonly [PLY](../../aspose.threed/fileformattype/ply) | 多边形文件格式或斯坦福三角格式 |
-| static readonly [Rvm](../../aspose.threed/fileformattype/rvm) | AVEVA 工厂设计管理系统模型。 |
+| static readonly [Rvm](../../aspose.threed/fileformattype/rvm) | AVEVA 工厂设计管理系统模型. |
 | static readonly [SiemensJT](../../aspose.threed/fileformattype/siemensjt) | Siemens PLM Software NX 的 JT 文件 |
 | static readonly [STL](../../aspose.threed/fileformattype/stl) | STL 文件格式类型 |
 | static readonly [Universal3D](../../aspose.threed/fileformattype/universal3d) | 通用 3D 文件格式类型 |
@@ -46,7 +46,7 @@ public sealed class FileFormatType
 | static readonly [VRML](../../aspose.threed/fileformattype/vrml) | 虚拟现实建模语言 |
 | static readonly [WavefrontOBJ](../../aspose.threed/fileformattype/wavefrontobj) | Wavefront OBJ 格式类型 |
 | static readonly [X](../../aspose.threed/fileformattype/x) | DirectX 的 X 文件 |
-| static readonly [Xyz](../../aspose.threed/fileformattype/xyz) | Xyz 点云文件 |
+| static readonly [Xyz](../../aspose.threed/fileformattype/xyz) | xyz 点云文件 |
 | static readonly [Zip](../../aspose.threed/fileformattype/zip) | 包含其他 3d 文件格式的 Zip 存档。 |
 
 ### 也可以看看

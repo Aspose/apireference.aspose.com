@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在 z 轴对齐的框的长度
+description: 获取或设置在z轴对齐的盒子的长度
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/box/length/
 ---
 ## Box.Length property
 
-获取或设置在 z 轴对齐的框的长度。
+获取或设置在z轴对齐的盒子的长度。
 
 ```csharp
 public double Length { get; set; }
@@ -16,7 +16,7 @@ public double Length { get; set; }
 
 ### 适当的价值
 
-z 轴对齐的长度。
+在 z 轴上对齐的长度。
 
 ### 也可以看看
 

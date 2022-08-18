@@ -1,14 +1,14 @@
 ---
 title: Reset
 second_title: Справочник по Aspose.3D для .NET API
-description: Сбросить преобразование в единичную матрицу
+description: Сбросить преобразование в идентификационную матрицу
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.utilities/transformbuilder/reset/
 ---
 ## TransformBuilder.Reset method
 
-Сбросить преобразование в единичную матрицу
+Сбросить преобразование в идентификационную матрицу
 
 ```csharp
 public void Reset()

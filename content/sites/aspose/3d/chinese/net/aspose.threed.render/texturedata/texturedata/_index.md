@@ -1,14 +1,14 @@
 ---
 title: TextureData
 second_title: Aspose.3D for .NET API 参考
-description: TextureDataaspose.threed.render/texturedata
+description: 的构造函数TextureDataaspose.threed.render/texturedata
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/texturedata/texturedata/
 ---
 ## TextureData(int, int, int, int, PixelFormat, byte[]) {#constructor_2}
 
-[`TextureData`](../../texturedata)
+的构造函数[`TextureData`](../../texturedata)
 
 ```csharp
 public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFormat pixelFormat, 
@@ -34,7 +34,7 @@ public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFo
 
 ## TextureData(int, int, int, int, PixelFormat, byte[]) {#constructor_1}
 
-[`TextureData`](../../texturedata)
+的构造函数[`TextureData`](../../texturedata)
 
 ```csharp
 public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFormat pixelFormat, 
@@ -61,7 +61,7 @@ public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFo
 
 ## TextureData() {#constructor}
 
-[`TextureData`](../../texturedata)
+的构造函数[`TextureData`](../../texturedata)
 
 ```csharp
 public TextureData()

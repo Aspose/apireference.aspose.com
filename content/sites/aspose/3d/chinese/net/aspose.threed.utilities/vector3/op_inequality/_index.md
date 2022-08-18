@@ -16,8 +16,8 @@ public static bool operator !=(Vector3 lhs, Vector3 rhs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lhs | Vector3 | 左侧值. |
-| rhs | Vector3 | 右侧值。 |
+| lhs | Vector3 | 左侧值。 |
+| rhs | Vector3 | 右手边的值。 |
 
 ### 返回值
 

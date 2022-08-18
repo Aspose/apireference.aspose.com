@@ -1,14 +1,14 @@
 ---
 title: ReadVector4
 second_title: Справочник по Aspose.3D для .NET API
-description: Читать поле vector4
+description: Прочитать поле vector4
 type: docs
 weight: 230
 url: /ru/net/aspose.threed.entities/trimesh/readvector4/
 ---
 ## TriMesh.ReadVector4 method
 
-Читать поле vector4
+Прочитать поле vector4
 
 ```csharp
 public Vector4 ReadVector4(int idx, VertexField field)

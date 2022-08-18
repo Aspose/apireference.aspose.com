@@ -1,14 +1,14 @@
 ---
 title: V
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает компонент V еслиVector2aspose.threed.utilities/vector2используется в качестве координат сопоставления. Это псевдоним компонента y.
+description: Получает или задает компонент V еслиVector2aspose.threed.utilities/vector2используется как координата отображения. Это псевдоним компонента y.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.utilities/vector2/v/
 ---
 ## Vector2.V property
 
-Получает или задает компонент V, если[`Vector2`](../../vector2)используется в качестве координат сопоставления. Это псевдоним компонента y.
+Получает или задает компонент V, если[`Vector2`](../../vector2)используется как координата отображения. Это псевдоним компонента y.
 
 ```csharp
 public double V { get; set; }

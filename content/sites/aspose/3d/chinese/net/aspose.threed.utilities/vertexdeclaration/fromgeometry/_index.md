@@ -1,14 +1,14 @@
 ---
 title: FromGeometry
 second_title: Aspose.3D for .NET API 参考
-description: 基于Geometryaspose.threed.entities/geometry创建VertexDeclarationaspose.threed.utilities/vertexdeclaration的布局
+description: 创建一个VertexDeclarationaspose.threed.utilities/vertexdeclaration基于一个Geometryaspose.threed.entities/geometry 布局.
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.utilities/vertexdeclaration/fromgeometry/
 ---
 ## VertexDeclaration.FromGeometry method
 
-基于[`Geometry`](../../../aspose.threed.entities/geometry)创建[`VertexDeclaration`](../../vertexdeclaration)的布局。
+创建一个[`VertexDeclaration`](../../vertexdeclaration)基于一个[`Geometry`](../../../aspose.threed.entities/geometry) 布局.
 
 ```csharp
 public static VertexDeclaration FromGeometry(Geometry geometry, bool useFloat)

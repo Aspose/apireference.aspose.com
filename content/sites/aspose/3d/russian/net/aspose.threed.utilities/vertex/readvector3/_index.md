@@ -1,14 +1,14 @@
 ---
 title: ReadVector3
 second_title: Справочник по Aspose.3D для .NET API
-description: Читать поле vector3
+description: Прочитать поле vector3
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.utilities/vertex/readvector3/
 ---
 ## Vertex.ReadVector3 method
 
-Читать поле vector3
+Прочитать поле vector3
 
 ```csharp
 public Vector3 ReadVector3(VertexField field)
@@ -16,7 +16,7 @@ public Vector3 ReadVector3(VertexField field)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| field | VertexField | Поле с Vector3/ Тип данных FVector3 |
+| field | VertexField | Поле с типом данных Vector3/FVector3 |
 
 ### Смотрите также
 

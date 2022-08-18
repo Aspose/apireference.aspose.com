@@ -3,7 +3,7 @@ title: BoundingBoxExtent
 second_title: Справочник по Aspose.3D для .NET API
 description: Размер ограничивающей рамки
 type: docs
-weight: 2450
+weight: 2440
 url: /ru/net/aspose.threed.utilities/boundingboxextent/
 ---
 ## BoundingBoxExtent enumeration

@@ -1,14 +1,14 @@
 ---
 title: FromFile
 second_title: Aspose.3D for .NET API 参考
-description: 从文件加载纹理
+description: 从文件中加载纹理
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.render/texturedata/fromfile/
 ---
 ## TextureData.FromFile method
 
-从文件加载纹理
+从文件中加载纹理
 
 ```csharp
 public static TextureData FromFile(string fileName)

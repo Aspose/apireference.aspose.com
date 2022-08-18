@@ -1,14 +1,14 @@
 ---
 title: ResetSceneCache
 second_title: Справочник по Aspose.3D для .NET API
-description: Сцена была изменена или удалена необходимо разместить в ней ресурсы рендеринга на уровне сцены
+description: Сцена была изменена или удалена необходимо разместить ресурсы рендеринга на уровне сцены в this
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.render/entityrenderer/resetscenecache/
 ---
 ## EntityRenderer.ResetSceneCache method
 
-Сцена была изменена или удалена, необходимо разместить в ней ресурсы рендеринга на уровне сцены
+Сцена была изменена или удалена, необходимо разместить ресурсы рендеринга на уровне сцены в this
 
 ```csharp
 public virtual void ResetSceneCache()

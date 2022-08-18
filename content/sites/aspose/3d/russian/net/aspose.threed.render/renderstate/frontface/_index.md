@@ -1,14 +1,14 @@
 ---
 title: FrontFace
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает какой порядок лицевой стороны.
+description: Получает или задает порядок лицевой стороны.
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.render/renderstate/frontface/
 ---
 ## RenderState.FrontFace property
 
-Получает или устанавливает, какой порядок лицевой стороны.
+Получает или задает порядок лицевой стороны.
 
 ```csharp
 public FrontFace FrontFace { get; set; }

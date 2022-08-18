@@ -1,14 +1,14 @@
 ---
 title: TrialException
 second_title: Справочник по Aspose.3D для .NET API
-description: Возникает в Scene.Open/Scene.Save когда лицензии не применяются. Вы можете отключить это исключение установив для параметра SuppressTrialException значение true.
+description: Возникает в Scene.Open/Scene.Save когда лицензии не применяются. Вы можете отключить это исключение задав для SuppressTrialException значение true.
 type: docs
-weight: 2420
+weight: 2410
 url: /ru/net/aspose.threed/trialexception/
 ---
 ## TrialException class
 
-Возникает в Scene.Open/Scene.Save, когда лицензии не применяются. Вы можете отключить это исключение, установив для параметра SuppressTrialException значение true.
+Возникает в Scene.Open/Scene.Save, когда лицензии не применяются. Вы можете отключить это исключение, задав для SuppressTrialException значение true.
 
 ```csharp
 public class TrialException : Exception
@@ -24,7 +24,7 @@ public class TrialException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| static [SuppressTrialException](../../aspose.threed/trialexception/suppresstrialexception) { get; set; } | Устанавливает значение true, чтобы подавить пробное исключение для нелицензионного использования, но ограничения не будут сняты. Чтобы снять ограничения, используйте соответствующую лицензию. Установка значения true также означает, что вы знаете о нелицензионных ограничениях. |
+| static [SuppressTrialException](../../aspose.threed/trialexception/suppresstrialexception) { get; set; } | Устанавливает значение true, чтобы запретить пробное исключение для нелицензионного использования, но ограничения не будут сняты. Чтобы снять ограничения, используйте соответствующую лицензию. ограничения. |
 
 ### Смотрите также
 

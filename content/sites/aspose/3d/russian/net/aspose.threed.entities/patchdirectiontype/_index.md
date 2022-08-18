@@ -19,8 +19,8 @@ public enum PatchDirectionType
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Bezier | `0` | [Направление патча представляет собой кривую Безье.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) |
-| QuadraticBezier | `1` | Квадратичный патч Безье. [Направление патча представляет собой квадратичную кривую.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Quadratic_curves) |
-| CardinalSpline | `2` | кардинальный патч. [Направление патча — это кардинальный сплайн.](https://en.wikipedia.org/wiki/Cubic_Hermite_spline#Cardinal_spline) |
+| QuadraticBezier | `1` | Квадратичная заплатка Безье. [Направление патча представляет собой квадратичную кривую.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Quadratic_curves) |
+| CardinalSpline | `2` | кардинальный патч. [Направление патча является кардинальным сплайном.](https://en.wikipedia.org/wiki/Cubic_Hermite_spline#Cardinal_spline) |
 | BasisSpline | `3` | [Направление патча является базовым сплайном.](https://en.wikipedia.org/wiki/B-spline) |
 | Linear | `4` | [Направление патча представляет собой линейную кривую.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Linear_curves) |
 

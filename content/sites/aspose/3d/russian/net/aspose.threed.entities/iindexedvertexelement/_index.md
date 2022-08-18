@@ -18,7 +18,7 @@ public interface IIndexedVertexElement
 
 | Имя | Описание |
 | --- | --- |
-| [Indices](../../aspose.threed.entities/iindexedvertexelement/indices) { get; } | Получает данные индексов |
+| [Indices](../../aspose.threed.entities/iindexedvertexelement/indices) { get; } | Получает индексы data |
 
 ### Смотрите также
 

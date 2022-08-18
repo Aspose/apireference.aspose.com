@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 格式化为字符串
+description: 格式为字符串
 type: docs
 weight: 530
 url: /zh/net/aspose.threed/fileformat/tostring/
 ---
 ## FileFormat.ToString method
 
-格式化为字符串
+格式为字符串
 
 ```csharp
 public override string ToString()

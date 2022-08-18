@@ -18,27 +18,27 @@ public class ShaderTechnique
 
 | Имя | Описание |
 | --- | --- |
-| [ShaderTechnique](shadertechnique)() | Инициализирует новый экземпляр класса[`ShaderTechnique`](../shadertechnique). |
+| [ShaderTechnique](shadertechnique)() | Инициализирует новый экземпляр[`ShaderTechnique`](../shadertechnique) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Description](../../aspose.threed.shading/shadertechnique/description) { get; set; } | Получает или задает описание этой техники |
-| [RenderAPI](../../aspose.threed.shading/shadertechnique/renderapi) { get; set; } | Получает или задает API рендеринга, используемый этим методом |
+| [RenderAPI](../../aspose.threed.shading/shadertechnique/renderapi) { get; set; } | Получает или задает API рендеринга, используемый этой техникой |
 | [RenderAPIVersion](../../aspose.threed.shading/shadertechnique/renderapiversion) { get; set; } | Получает или задает версию API рендеринга. |
 | [ShaderContent](../../aspose.threed.shading/shadertechnique/shadercontent) { get; set; } | Получает или задает содержимое встроенного скрипта шейдера. Это может быть исходный файл шейдера HLSL/GLSL. |
 | [ShaderEntry](../../aspose.threed.shading/shadertechnique/shaderentry) { get; set; } | Получает или задает точку входа шейдера, некоторые шейдеры, такие как HLSL, могут иметь настраиваемые записи шейдера. |
 | [ShaderFile](../../aspose.threed.shading/shadertechnique/shaderfile) { get; set; } | Получает или задает имя файла внешнего файла шейдера. |
 | [ShaderLanguage](../../aspose.threed.shading/shadertechnique/shaderlanguage) { get; set; } | Получает или задает язык шейдера, используемый этим методом. |
-| [ShaderParameters](../../aspose.threed.shading/shadertechnique/shaderparameters) { get; } | Получает определение параметра шейдера. Ключ — это имя динамического свойства, а значение — это имя параметра шейдера, к которому подключено свойство. |
+| [ShaderParameters](../../aspose.threed.shading/shadertechnique/shaderparameters) { get; } | Получает определение параметра шейдера. Ключ — это имя динамического свойства, а значение — имя параметра шейдера, к которому свойство подключено. |
 | [ShaderVersion](../../aspose.threed.shading/shadertechnique/shaderversion) { get; set; } | Получает или задает версию шейдера, используемую этим методом. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddBinding](../../aspose.threed.shading/shadertechnique/addbinding)(string, string) | Связывает динамическое свойство с параметром шейдера |
+| [AddBinding](../../aspose.threed.shading/shadertechnique/addbinding)(string, string) | Привязывает динамическое свойство к параметру шейдера |
 
 ### Смотрите также
 

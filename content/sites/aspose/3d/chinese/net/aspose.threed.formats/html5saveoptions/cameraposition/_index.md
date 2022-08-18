@@ -1,14 +1,14 @@
 ---
 title: CameraPosition
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置相机的初始位置默认值为 10 10 10
+description: 获取或设置相机的初始位置默认值为10 10 10
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.formats/html5saveoptions/cameraposition/
 ---
 ## Html5SaveOptions.CameraPosition property
 
-获取或设置相机的初始位置，默认值为 (10, 10, 10)
+获取或设置相机的初始位置，默认值为(10, 10, 10)
 
 ```csharp
 public Vector3 CameraPosition { get; set; }

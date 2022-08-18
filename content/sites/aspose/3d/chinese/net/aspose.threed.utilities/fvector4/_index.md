@@ -3,7 +3,7 @@ title: FVector4
 second_title: Aspose.3D for .NET API 参考
 description: 具有四个分量的浮点向量
 type: docs
-weight: 2510
+weight: 2500
 url: /zh/net/aspose.threed.utilities/fvector4/
 ---
 ## FVector4 structure
@@ -18,29 +18,29 @@ public struct FVector4
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FVector4](fvector4#constructor_5)(Color) | 初始化[`FVector4`](../fvector4)的新实例。 |
-| [FVector4](fvector4#constructor)(Vector3) | 初始化[`FVector4`](../fvector4)的新实例。 |
-| [FVector4](fvector4#constructor_2)(Vector4) | 初始化[`FVector4`](../fvector4)的新实例。 |
-| [FVector4](fvector4#constructor_1)(Vector3, float) | 初始化[`FVector4`](../fvector4)的新实例。 |
-| [FVector4](fvector4#constructor_3)(float, float, float) | 初始化[`FVector4`](../fvector4)的新实例。 |
-| [FVector4](fvector4#constructor_4)(float, float, float, float) | 初始化[`FVector4`](../fvector4)的新实例。 |
+| [FVector4](fvector4#constructor_5)(Color) | 初始化[`FVector4`](../fvector4). |
+| [FVector4](fvector4#constructor)(Vector3) | 初始化[`FVector4`](../fvector4). |
+| [FVector4](fvector4#constructor_2)(Vector4) | 初始化[`FVector4`](../fvector4). |
+| [FVector4](fvector4#constructor_1)(Vector3, float) | 初始化[`FVector4`](../fvector4). |
+| [FVector4](fvector4#constructor_3)(float, float, float) | 初始化[`FVector4`](../fvector4). |
+| [FVector4](fvector4#constructor_4)(float, float, float, float) | 初始化[`FVector4`](../fvector4). |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.threed.utilities/fvector4/tostring)() | 返回一个字符串，表示 [`FVector4`](../fvector4) |
-| [operator +](../../aspose.threed.utilities/fvector4/op_addition) | 运算符重载 for + |
+| override [ToString](../../aspose.threed.utilities/fvector4/tostring)() | 返回一个字符串，表示[`FVector4`](../fvector4) |
+| [operator +](../../aspose.threed.utilities/fvector4/op_addition) | + 的运算符重载 |
 | [explicit operator](../../aspose.threed.utilities/fvector4/op_explicit) |  |
-| [operator *](../../aspose.threed.utilities/fvector4/op_multiply) | 运算符重载 * |
-| [operator -](../../aspose.threed.utilities/fvector4/op_subtraction) | 运算符重载 for - (减号) |
+| [operator *](../../aspose.threed.utilities/fvector4/op_multiply) | * 的运算符重载 |
+| [operator -](../../aspose.threed.utilities/fvector4/op_subtraction) | 运算符重载 - (减号) |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| [w](../../aspose.threed.utilities/fvector4/w) | w 组件。 |
-| [x](../../aspose.threed.utilities/fvector4/x) | x 组件。 |
+| [w](../../aspose.threed.utilities/fvector4/w) | w 分量。 |
+| [x](../../aspose.threed.utilities/fvector4/x) | x 分量。 |
 | [y](../../aspose.threed.utilities/fvector4/y) | y 分量。 |
 | [z](../../aspose.threed.utilities/fvector4/z) | z 分量。 |
 

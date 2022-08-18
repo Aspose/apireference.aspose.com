@@ -1,14 +1,14 @@
 ---
 title: MirroredProfile
 second_title: Справочник по Aspose.3D для .NET API
-description: Зеркальный профиль совместимый с IFC. Этот профиль определяет новый профиль отражая базовый профиль относительно оси Y.
+description: IFC-совместимый зеркальный профиль. Этот профиль определяет новый профиль путем зеркального отражения базового профиля относительно оси Y.
 type: docs
-weight: 1580
+weight: 1590
 url: /ru/net/aspose.threed.profiles/mirroredprofile/
 ---
 ## MirroredProfile class
 
-Зеркальный профиль, совместимый с IFC. Этот профиль определяет новый профиль, отражая базовый профиль относительно оси Y.
+IFC-совместимый зеркальный профиль. Этот профиль определяет новый профиль путем зеркального отражения базового профиля относительно оси Y.
 
 ```csharp
 public class MirroredProfile : Profile
@@ -18,7 +18,7 @@ public class MirroredProfile : Profile
 
 | Имя | Описание |
 | --- | --- |
-| [MirroredProfile](mirroredprofile)(Profile) | Создать новый[`MirroredProfile`](../mirroredprofile)из существующего профиля. |
+| [MirroredProfile](mirroredprofile)(Profile) | Построить новый[`MirroredProfile`](../mirroredprofile) из существующего профиля. |
 
 ## Характеристики
 
@@ -27,8 +27,8 @@ public class MirroredProfile : Profile
 | [BaseProfile](../../aspose.threed.profiles/mirroredprofile/baseprofile) { get; } | Базовый профиль для зеркального отображения. |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 
@@ -38,10 +38,10 @@ public class MirroredProfile : Profile
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

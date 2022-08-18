@@ -1,14 +1,14 @@
 ---
 title: CreateCubeRenderTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Create render target содержит 1 текстуру куба
+description: Создать цель рендеринга содержащую 1 куб texture
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/renderfactory/createcuberendertexture/
 ---
 ## RenderFactory.CreateCubeRenderTexture method
 
-Create render target содержит 1 текстуру куба
+Создать цель рендеринга, содержащую 1 куб texture
 
 ```csharp
 public abstract IRenderTexture CreateCubeRenderTexture(RenderParameters parameters, int width, 
@@ -17,9 +17,9 @@ public abstract IRenderTexture CreateCubeRenderTexture(RenderParameters paramete
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| parameters | RenderParameters | Параметры рендеринга для создания текстуры рендера |
-| width | Int32 | Ширина текстуры рендера |
-| height | Int32 | Высота текстура рендера |
+| parameters | RenderParameters | Параметры рендеринга для создания текстуры рендеринга |
+| width | Int32 | Ширина рендер-текстуры |
+| height | Int32 | Высота рендер-текстуры |
 
 ### Смотрите также
 

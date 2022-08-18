@@ -1,14 +1,14 @@
 ---
 title: GetWeight
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает вес контрольной точки указанной индексом
+description: Получает вес для контрольной точки указанной index
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.deformers/bone/getweight/
 ---
 ## Bone.GetWeight method
 
-Получает вес контрольной точки, указанной индексом
+Получает вес для контрольной точки, указанной index
 
 ```csharp
 public double GetWeight(int index)
@@ -16,7 +16,7 @@ public double GetWeight(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Control индекс точки |
+| index | Int32 | Индекс контрольной точки |
 
 ### Возвращаемое значение
 

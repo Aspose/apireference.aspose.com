@@ -1,14 +1,14 @@
 ---
 title: FromBitmap
 second_title: Справочник по Aspose.3D для .NET API
-description: ПреобразоватьBitmapвTextureDataaspose.threed.render/texturedata
+description: КонвертироватьBitmap кTextureDataaspose.threed.render/texturedata
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.render/texturedata/frombitmap/
 ---
 ## TextureData.FromBitmap method
 
-ПреобразоватьBitmapв[`TextureData`](../../texturedata)
+КонвертироватьBitmap к[`TextureData`](../../texturedata)
 
 ```csharp
 public static TextureData FromBitmap(Bitmap bitmap)

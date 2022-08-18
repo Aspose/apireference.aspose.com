@@ -6,18 +6,39 @@ type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/pdfformat/extractscene/
 ---
-## ExtractScene(string, byte[]) {#extractscene_1}
+## ExtractScene(string) {#extractscene_1}
 
 Извлечение 3D-сцен из файла PDF.
 
 ```csharp
-public List<Scene> ExtractScene(string fileName, byte[] password = null)
+public List<Scene> ExtractScene(string fileName)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String |  |
-| пароль | Byte[] |  |
+
+### Смотрите также
+
+* class [Scene](../../../aspose.threed/scene)
+* class [PdfFormat](../../pdfformat)
+* пространство имен [Aspose.ThreeD.Formats](../../pdfformat)
+* сборка [Aspose.3D](../../../)
+
+---
+
+## ExtractScene(string, byte[]) {#extractscene_2}
+
+Извлечение 3D-сцен из файла PDF.
+
+```csharp
+public List<Scene> ExtractScene(string fileName, byte[] password)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fileName | String |  |
+| password | Byte[] |  |
 
 ### Смотрите также
 
@@ -38,8 +59,8 @@ public List<Scene> ExtractScene(Stream stream, byte[] password = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| поток | Stream |  |
-| пароль | Byte[] |  |
+| stream | Stream |  |
+| password | Byte[] |  |
 
 ### Смотрите также
 

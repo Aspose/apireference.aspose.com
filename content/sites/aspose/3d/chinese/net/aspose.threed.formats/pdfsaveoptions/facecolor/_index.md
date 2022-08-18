@@ -1,14 +1,14 @@
 ---
 title: FaceColor
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置渲染 3D 内容时使用的面部颜色 仅当RenderModeaspose.threed.formats/pdfsaveoptions/rendermode具有插图值时才相关
+description: 获取或设置渲染 3D 内容时使用的面颜色 仅当RenderModeaspose.threed.formats/pdfsaveoptions/rendermode值为 Illustration.
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.formats/pdfsaveoptions/facecolor/
 ---
 ## PdfSaveOptions.FaceColor property
 
-获取或设置渲染 3D 内容时使用的面部颜色。 仅当[`RenderMode`](../rendermode)具有插图值时才相关。
+获取或设置渲染 3D 内容时使用的面颜色。 仅当[`RenderMode`](../rendermode)值为 Illustration.
 
 ```csharp
 public Vector3 FaceColor { get; set; }

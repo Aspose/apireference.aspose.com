@@ -30,7 +30,7 @@ public class Discreet3dsLoadOptions : LoadOptions
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
 | [FlipCoordinateSystem](../../aspose.threed.formats/discreet3dsloadoptions/flipcoordinatesystem) { get; set; } | Получает или задает перевернутую систему координат контрольных точек/нормалей при импорте/экспорте. |
-| [GammaCorrectedColor](../../aspose.threed.formats/discreet3dsloadoptions/gammacorrectedcolor) { get; set; } | Файл 3ds может содержать исходный цвет и цвет с гамма-коррекцией для одного и того же атрибута, При установке значения true будет использоваться цвет с гамма-коррекцией, если это возможно, иначе Aspose.3D попытается использовать исходный цвет. |
+| [GammaCorrectedColor](../../aspose.threed.formats/discreet3dsloadoptions/gammacorrectedcolor) { get; set; } | Файл 3ds может содержать исходный цвет и цвет с гамма-коррекцией для одного и того же атрибута. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
 
 ### Смотрите также

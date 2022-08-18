@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Справочник по Aspose.3D для .NET API
-description: УдалитеRendereraspose.threed.render/rendererи все связанные ресурсы
+description: УтилизироватьRendereraspose.threed.render/renderer и все сопутствующие ресурсы
 type: docs
 weight: 170
 url: /ru/net/aspose.threed.render/renderer/dispose/
 ---
 ## Renderer.Dispose method
 
-Удалите[`Renderer`](../../renderer)и все связанные ресурсы
+Утилизировать[`Renderer`](../../renderer) и все сопутствующие ресурсы
 
 ```csharp
 public void Dispose()

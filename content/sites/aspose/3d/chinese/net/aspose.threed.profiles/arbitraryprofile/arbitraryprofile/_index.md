@@ -1,14 +1,14 @@
 ---
 title: ArbitraryProfile
 second_title: Aspose.3D for .NET API 参考
-description: ArbitraryProfileaspose.threed.profiles/arbitraryprofile
+description: 的构造函数ArbitraryProfileaspose.threed.profiles/arbitraryprofile
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/arbitraryprofile/arbitraryprofile/
 ---
 ## ArbitraryProfile() {#constructor}
 
-[`ArbitraryProfile`](../../arbitraryprofile)
+的构造函数[`ArbitraryProfile`](../../arbitraryprofile)
 
 ```csharp
 public ArbitraryProfile()
@@ -24,7 +24,7 @@ public ArbitraryProfile()
 
 ## ArbitraryProfile(Curve) {#constructor_1}
 
-[`ArbitraryProfile`](../../arbitraryprofile)的构造函数，带有初始曲线。
+的构造函数[`ArbitraryProfile`](../../arbitraryprofile)带有初始曲线.
 
 ```csharp
 public ArbitraryProfile(Curve curve)

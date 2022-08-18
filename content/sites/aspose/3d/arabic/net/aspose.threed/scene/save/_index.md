@@ -1,0 +1,207 @@
+---
+title: Save
+second_title: Aspose.3D لمرجع .NET API
+description: يحفظ المشهد للدفق باستخدام تنسيق ملف محدد.
+type: docs
+weight: 160
+url: /ar/net/aspose.threed/scene/save/
+---
+## Save(Stream, FileFormat) {#save}
+
+يحفظ المشهد للدفق باستخدام تنسيق ملف محدد.
+
+```csharp
+public void Save(Stream stream, FileFormat format)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| stream | Stream | دفق الإدخال ، المستخدم مسؤول عن إغلاق الدفق. |
+| format | FileFormat | شكل. |
+
+### أنظر أيضا
+
+* class [FileFormat](../../fileformat)
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+---
+
+## Save(Stream, FileFormat, CancellationToken) {#save_1}
+
+يحفظ المشهد للدفق باستخدام تنسيق ملف محدد.
+
+```csharp
+public void Save(Stream stream, FileFormat format, CancellationToken cancellationToken)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| stream | Stream | دفق الإدخال ، المستخدم مسؤول عن إغلاق الدفق. |
+| format | FileFormat | شكل. |
+| cancellationToken | CancellationToken | رمز الإلغاء لمهمة الحفظ |
+
+### أنظر أيضا
+
+* class [FileFormat](../../fileformat)
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+---
+
+## Save(Stream, SaveOptions) {#save_2}
+
+يحفظ المشهد للدفق باستخدام تنسيق ملف محدد.
+
+```csharp
+public void Save(Stream stream, SaveOptions options)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| stream | Stream | دفق الإدخال ، المستخدم مسؤول عن إغلاق الدفق. |
+| options | SaveOptions | تكوين أكثر تفصيلا لحفظ الدفق. |
+
+### أنظر أيضا
+
+* class [SaveOptions](../../../aspose.threed.formats/saveoptions)
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+---
+
+## Save(Stream, SaveOptions, CancellationToken) {#save_3}
+
+يحفظ المشهد للدفق باستخدام تنسيق ملف محدد.
+
+```csharp
+public void Save(Stream stream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| stream | Stream | دفق الإدخال ، المستخدم مسؤول عن إغلاق الدفق. |
+| options | SaveOptions | تكوين أكثر تفصيلا لحفظ الدفق. |
+| cancellationToken | CancellationToken | رمز الإلغاء لمهمة الحفظ |
+
+### أنظر أيضا
+
+* class [SaveOptions](../../../aspose.threed.formats/saveoptions)
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+---
+
+## Save(string) {#save_4}
+
+يحفظ المشهد إلى المسار المحدد باستخدام تنسيق الملف المحدد.
+
+```csharp
+public void Save(string fileName)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| fileName | String | اسم الملف. |
+
+### أنظر أيضا
+
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+---
+
+## Save(string, FileFormat) {#save_5}
+
+يحفظ المشهد إلى المسار المحدد باستخدام تنسيق الملف المحدد.
+
+```csharp
+public void Save(string fileName, FileFormat format)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| fileName | String | اسم الملف. |
+| format | FileFormat | شكل. |
+
+### أنظر أيضا
+
+* class [FileFormat](../../fileformat)
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+---
+
+## Save(string, FileFormat, CancellationToken) {#save_6}
+
+يحفظ المشهد إلى المسار المحدد باستخدام تنسيق الملف المحدد.
+
+```csharp
+public void Save(string fileName, FileFormat format, CancellationToken cancellationToken)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| fileName | String | اسم الملف. |
+| format | FileFormat | شكل. |
+| cancellationToken | CancellationToken | رمز الإلغاء لمهمة الحفظ |
+
+### أنظر أيضا
+
+* class [FileFormat](../../fileformat)
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+---
+
+## Save(string, SaveOptions) {#save_7}
+
+يحفظ المشهد إلى المسار المحدد باستخدام تنسيق الملف المحدد.
+
+```csharp
+public void Save(string fileName, SaveOptions options)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| fileName | String | اسم الملف. |
+| options | SaveOptions | تكوين أكثر تفصيلا لحفظ الدفق. |
+
+### أنظر أيضا
+
+* class [SaveOptions](../../../aspose.threed.formats/saveoptions)
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+---
+
+## Save(string, SaveOptions, CancellationToken) {#save_8}
+
+يحفظ المشهد إلى المسار المحدد باستخدام تنسيق الملف المحدد.
+
+```csharp
+public void Save(string fileName, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| fileName | String | اسم الملف. |
+| options | SaveOptions | تكوين أكثر تفصيلا لحفظ الدفق. |
+| cancellationToken | CancellationToken | رمز الإلغاء لمهمة الحفظ |
+
+### أنظر أيضا
+
+* class [SaveOptions](../../../aspose.threed.formats/saveoptions)
+* class [Scene](../../scene)
+* مساحة الاسم [Aspose.ThreeD](../../scene)
+* المجسم [Aspose.3D](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.3D.dll -->

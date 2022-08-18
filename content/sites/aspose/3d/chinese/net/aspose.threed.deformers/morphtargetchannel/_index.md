@@ -1,14 +1,14 @@
 ---
 title: MorphTargetChannel
 second_title: Aspose.3D for .NET API 参考
-description: MorphTargetChannel 被MorphTargetDeformer./morphtargetdeformer用于组织目标几何 FBX 等一些文件格式支持并行的多个通道
+description: MorphTargetChannel 由MorphTargetDeformer./morphtargetdeformer组织目标几何图形 FBX 等一些文件格式支持并行多通道
 type: docs
 weight: 200
 url: /zh/net/aspose.threed.deformers/morphtargetchannel/
 ---
 ## MorphTargetChannel class
 
-MorphTargetChannel 被[`MorphTargetDeformer`](../morphtargetdeformer)用于组织目标几何。 FBX 等一些文件格式支持并行的多个通道。
+MorphTargetChannel 由[`MorphTargetDeformer`](../morphtargetdeformer)组织目标几何图形。 FBX 等一些文件格式支持并行多通道。
 
 ```csharp
 public class MorphTargetChannel : A3DObject
@@ -18,14 +18,14 @@ public class MorphTargetChannel : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MorphTargetChannel](morphtargetchannel#constructor)() | 初始化[`MorphTargetChannel`](../morphtargetchannel)类的新实例。 |
-| [MorphTargetChannel](morphtargetchannel#constructor_1)(string) | 初始化[`MorphTargetChannel`](../morphtargetchannel)类的新实例。 |
+| [MorphTargetChannel](morphtargetchannel#constructor)() | 初始化[`MorphTargetChannel`](../morphtargetchannel)类. |
+| [MorphTargetChannel](morphtargetchannel#constructor_1)(string) | 初始化[`MorphTargetChannel`](../morphtargetchannel)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChannelWeight](../../aspose.threed.deformers/morphtargetchannel/channelweight) { get; set; } | 获取或设置此通道的变形器权重。 权重在 0.0 和 1.0 之间 |
+| [ChannelWeight](../../aspose.threed.deformers/morphtargetchannel/channelweight) { get; set; } | 获取或设置该通道的变形器权重。 权重在0.0到1.0之间 |
 | [Item](../../aspose.threed.deformers/morphtargetchannel/item) { get; set; } |  |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
@@ -36,13 +36,13 @@ public class MorphTargetChannel : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [GetWeight](../../aspose.threed.deformers/morphtargetchannel/getweight)(Shape) | 获取指定目标的权重，如果目标不属于该通道，则返回默认值0。 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
-| [SetWeight](../../aspose.threed.deformers/morphtargetchannel/setweight)(Shape, double) | 设置指定目标的权重，默认值为 1，范围应在 0~1 之间 |
+| [SetWeight](../../aspose.threed.deformers/morphtargetchannel/setweight)(Shape, double) | 设置指定目标的权重，默认值为1，范围应在0~1之间 |
 
 ## 字段
 

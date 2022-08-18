@@ -1,14 +1,14 @@
 ---
 title: VertexElementNormal
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementNormalaspose.threed.entities/vertexelementnormal类的新实例
+description: 初始化VertexElementNormalaspose.threed.entities/vertexelementnormal类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementnormal/vertexelementnormal/
 ---
 ## VertexElementNormal constructor
 
-初始化[`VertexElementNormal`](../../vertexelementnormal)类的新实例。
+初始化[`VertexElementNormal`](../../vertexelementnormal)类.
 
 ```csharp
 public VertexElementNormal()

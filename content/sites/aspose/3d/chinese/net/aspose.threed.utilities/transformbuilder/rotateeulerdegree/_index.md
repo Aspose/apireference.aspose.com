@@ -1,14 +1,14 @@
 ---
 title: RotateEulerDegree
 second_title: Aspose.3D for .NET API 参考
-description: 以欧拉角为单位链接旋转
+description: 以度为单位的欧拉角链式旋转
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.utilities/transformbuilder/rotateeulerdegree/
 ---
 ## TransformBuilder.RotateEulerDegree method
 
-以欧拉角为单位链接旋转
+以度为单位的欧拉角链式旋转
 
 ```csharp
 public TransformBuilder RotateEulerDegree(double degX, double degY, double degZ)

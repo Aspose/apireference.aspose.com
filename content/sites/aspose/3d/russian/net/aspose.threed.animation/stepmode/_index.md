@@ -1,14 +1,14 @@
 ---
 title: StepMode
 second_title: Справочник по Aspose.3D для .NET API
-description: Пошаговый режим интерполяции.
+description: Режим шага интерполяции.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.animation/stepmode/
 ---
 ## StepMode enumeration
 
-Пошаговый режим интерполяции.
+Режим шага интерполяции.
 
 ```csharp
 public enum StepMode

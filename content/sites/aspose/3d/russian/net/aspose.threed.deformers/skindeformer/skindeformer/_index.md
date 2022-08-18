@@ -1,14 +1,14 @@
 ---
 title: SkinDeformer
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаSkinDeformeraspose.threed.deformers/skindeformer.
+description: Инициализирует новый экземплярSkinDeformeraspose.threed.deformers/skindeformer класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.deformers/skindeformer/skindeformer/
 ---
 ## SkinDeformer(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SkinDeformer`](../../skindeformer).
+Инициализирует новый экземпляр[`SkinDeformer`](../../skindeformer) класс.
 
 ```csharp
 public SkinDeformer(string name)
@@ -28,7 +28,7 @@ public SkinDeformer(string name)
 
 ## SkinDeformer() {#constructor}
 
-Инициализирует новый экземпляр класса[`SkinDeformer`](../../skindeformer).
+Инициализирует новый экземпляр[`SkinDeformer`](../../skindeformer) класс.
 
 ```csharp
 public SkinDeformer()

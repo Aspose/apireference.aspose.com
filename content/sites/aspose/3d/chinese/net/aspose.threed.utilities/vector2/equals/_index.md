@@ -16,11 +16,11 @@ public bool Equals(Vector2 rhs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rhs | Vector2 | 右边的值. |
+| rhs | Vector2 | 右手边的值。 |
 
 ### 返回值
 
-如果所有组件相同，则为真。
+如果所有组件完全相同，则为真。
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果所有组件相同，则为真。
+如果所有组件完全相同，则为真。
 
 ### 也可以看看
 

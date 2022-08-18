@@ -1,14 +1,14 @@
 ---
 title: FromXcb
 second_title: Справочник по Aspose.3D для .NET API
-description: СоздатьWindowHandleaspose.threed.render/windowhandleиз поверхности XCB.
+description: СоздатьWindowHandleaspose.threed.render/windowhandle с поверхности XCB.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.render/windowhandle/fromxcb/
 ---
 ## WindowHandle.FromXcb method
 
-Создать[`WindowHandle`](../../windowhandle)из поверхности XCB.
+Создать[`WindowHandle`](../../windowhandle) с поверхности XCB.
 
 ```csharp
 public static WindowHandle FromXcb(IntPtr connection, IntPtr surface)
@@ -17,7 +17,7 @@ public static WindowHandle FromXcb(IntPtr connection, IntPtr surface)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | connection | IntPtr | Соединение с X-сервером |
-| surface | IntPtr | ручка поверхности |
+| surface | IntPtr | Ручка поверхности |
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public float ReadFloat(VertexField field)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| field | VertexField | 带有浮点数的字段/双重兼容数据类型 |
+| field | VertexField | 具有浮点/双精度兼容数据类型的字段 |
 
 ### 也可以看看
 

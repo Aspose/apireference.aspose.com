@@ -16,11 +16,11 @@ public AnimationChannel GetChannel(string channelName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| channelName | String | Имя канала для поиска |
+| channelName | String | Название канала для поиска |
 
 ### Возвращаемое значение
 
-Канал с именем
+Канал с названием
 
 ### Смотрите также
 

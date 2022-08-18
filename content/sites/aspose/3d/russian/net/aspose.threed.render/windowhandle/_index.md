@@ -3,7 +3,7 @@ title: WindowHandle
 second_title: Справочник по Aspose.3D для .NET API
 description: Инкапсулированный дескриптор окна для разных платформ.
 type: docs
-weight: 2230
+weight: 2240
 url: /ru/net/aspose.threed.render/windowhandle/
 ---
 ## WindowHandle class
@@ -19,10 +19,10 @@ public class WindowHandle
 | Имя | Описание |
 | --- | --- |
 | static [FromGdk](../../aspose.threed.render/windowhandle/fromgdk)(IntPtr) | Экземпляр GdkWindow* |
-| static [FromWayland](../../aspose.threed.render/windowhandle/fromwayland)(IntPtr, IntPtr) | Создать[`WindowHandle`](../windowhandle)из поверхности Wayland |
+| static [FromWayland](../../aspose.threed.render/windowhandle/fromwayland)(IntPtr, IntPtr) | Создать[`WindowHandle`](../windowhandle) с поверхности Wayland |
 | static [FromWin32](../../aspose.threed.render/windowhandle/fromwin32)(IntPtr) | Собственный экземпляр HWND в среде Windows. |
-| static [FromXcb](../../aspose.threed.render/windowhandle/fromxcb)(IntPtr, IntPtr) | Создать[`WindowHandle`](../windowhandle)из поверхности XCB. |
-| static [FromXlib](../../aspose.threed.render/windowhandle/fromxlib)(IntPtr, IntPtr) | Создать[`WindowHandle`](../windowhandle)из окна Xlib |
+| static [FromXcb](../../aspose.threed.render/windowhandle/fromxcb)(IntPtr, IntPtr) | Создать[`WindowHandle`](../windowhandle) с поверхности XCB. |
+| static [FromXlib](../../aspose.threed.render/windowhandle/fromxlib)(IntPtr, IntPtr) | Создать[`WindowHandle`](../windowhandle) из Xlib window |
 
 ### Смотрите также
 

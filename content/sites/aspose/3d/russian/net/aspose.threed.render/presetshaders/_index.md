@@ -1,14 +1,14 @@
 ---
 title: PresetShaders
 second_title: Справочник по Aspose.3D для .NET API
-description: Это определяет предустановленные внутренние шейдеры используемые визуализатором.
+description: Определяет предустановленные внутренние шейдеры используемые визуализатором.
 type: docs
-weight: 2010
+weight: 2020
 url: /ru/net/aspose.threed.render/presetshaders/
 ---
 ## PresetShaders enumeration
 
-Это определяет предустановленные внутренние шейдеры, используемые визуализатором.
+Определяет предустановленные внутренние шейдеры, используемые визуализатором.
 
 ```csharp
 public enum PresetShaders

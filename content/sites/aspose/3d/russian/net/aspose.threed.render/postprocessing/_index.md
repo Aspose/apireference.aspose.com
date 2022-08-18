@@ -3,7 +3,7 @@ title: PostProcessing
 second_title: Справочник по Aspose.3D для .NET API
 description: Эффекты постобработки
 type: docs
-weight: 2000
+weight: 2010
 url: /ru/net/aspose.threed.render/postprocessing/
 ---
 ## PostProcessing class
@@ -29,7 +29,7 @@ public abstract class PostProcessing : A3DObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

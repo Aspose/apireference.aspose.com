@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.3D for .NET API 参考
-description: 获取此VertexDeclarationaspose.threed.utilities/vertexdeclaration
+description: 获取在此定义的所有字段的计数VertexDeclarationaspose.threed.utilities/vertexdeclaration
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.utilities/vertexdeclaration/count/
 ---
 ## VertexDeclaration.Count property
 
-获取此[`VertexDeclaration`](../../vertexdeclaration)
+获取在此定义的所有字段的计数[`VertexDeclaration`](../../vertexdeclaration)
 
 ```csharp
 public int Count { get; }

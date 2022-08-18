@@ -25,7 +25,7 @@ public class A3dwSaveOptions : SaveOptions
 | Имя | Описание |
 | --- | --- |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
-| [ExportMetaData](../../aspose.threed.formats/a3dwsaveoptions/exportmetadata) { get; set; } | Экспорт метаданных, связанных со сценой/узлом, в клиент Значение по умолчанию - true |
+| [ExportMetaData](../../aspose.threed.formats/a3dwsaveoptions/exportmetadata) { get; set; } | Экспорт метаданных, связанных со сценой/узлом, в client Значение по умолчанию — true |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |

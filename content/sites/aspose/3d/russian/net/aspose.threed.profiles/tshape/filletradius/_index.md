@@ -1,14 +1,14 @@
 ---
 title: FilletRadius
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает радиус скругления между стенкой и фланцем.
+description: Получает или задает радиус скругления между стенкой и полкой.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.profiles/tshape/filletradius/
 ---
 ## TShape.FilletRadius property
 
-Получает или задает радиус скругления между стенкой и фланцем.
+Получает или задает радиус скругления между стенкой и полкой.
 
 ```csharp
 public double FilletRadius { get; set; }

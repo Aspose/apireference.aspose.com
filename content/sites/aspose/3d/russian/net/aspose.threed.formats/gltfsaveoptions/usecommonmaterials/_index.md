@@ -1,14 +1,14 @@
 ---
 title: UseCommonMaterials
 second_title: Справочник по Aspose.3D для .NET API
-description: Сериализировать материалы с использованием общих расширений материалов KHR значение по умолчанию  false. Установка значения false приведет к тому что Aspose.3D экспортирует набор вершинных/фрагментных шейдеров еслиExportShaders
+description: Сериализация материалов с использованием общих расширений материалов KHR значение по умолчанию  false.ExportShaders
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.formats/gltfsaveoptions/usecommonmaterials/
 ---
 ## GltfSaveOptions.UseCommonMaterials property
 
-Сериализировать материалы с использованием общих расширений материалов KHR, значение по умолчанию — false. Установка значения false приведет к тому, что Aspose.3D экспортирует набор вершинных/фрагментных шейдеров, еслиExportShaders
+Сериализация материалов с использованием общих расширений материалов KHR, значение по умолчанию — false.ExportShaders
 
 ```csharp
 public bool UseCommonMaterials { get; set; }

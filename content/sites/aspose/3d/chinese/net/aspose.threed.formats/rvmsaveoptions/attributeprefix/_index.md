@@ -1,14 +1,14 @@
 ---
 title: AttributePrefix
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置要导出的属性的前缀导出的属性不包含前缀不导出不同前缀的自定义属性默认值为转速 例如如果属性为 rvmRefno345则导出的属性将为 Refno  345前缀被去除
+description: 获取或设置要导出的属性的前缀导出的属性不包含前缀不导出不同前缀的自定义属性默认值为rvm 例如属性为rvmRefno 345导出的属性将为Refno  345前缀被剥离
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.formats/rvmsaveoptions/attributeprefix/
 ---
 ## RvmSaveOptions.AttributePrefix property
 
-获取或设置要导出的属性的前缀，导出的属性不包含前缀，不导出不同前缀的自定义属性，默认值为'转速:'。 例如，如果属性为 rvm:Refno=345，则导出的属性将为 Refno = 345，前缀被去除。
+获取或设置要导出的属性的前缀，导出的属性不包含前缀，不导出不同前缀的自定义属性，默认值为'rvm:'。 例如属性为rvm:Refno =345，导出的属性将为Refno = 345，前缀被剥离。
 
 ```csharp
 public string AttributePrefix { get; set; }

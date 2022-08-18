@@ -1,14 +1,14 @@
 ---
 title: FlipCoordinate
 second_title: Справочник по Aspose.3D для .NET API
-description: Отразить координату при сохранении сцены значение по умолчанию равно true
+description: Отразить координату при сохранении сцены значение по умолчанию  true
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.formats/plysaveoptions/flipcoordinate/
 ---
 ## PlySaveOptions.FlipCoordinate property
 
-Отразить координату при сохранении сцены, значение по умолчанию равно true
+Отразить координату при сохранении сцены, значение по умолчанию — true
 
 ```csharp
 public bool FlipCoordinate { get; set; }

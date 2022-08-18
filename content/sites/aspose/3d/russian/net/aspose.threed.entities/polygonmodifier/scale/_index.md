@@ -16,8 +16,8 @@ public static Scene Scale(Scene scene, Vector3 scale)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scene | Scene | Масштабируемая сцена |
-| scale | Vector3 | Коэффициент масштабирования |
+| scene | Scene | Сцена в масштабе |
+| scale | Vector3 | Масштабный коэффициент |
 
 ### Смотрите также
 
@@ -40,7 +40,7 @@ public static void Scale(Node node, Vector3 scale)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | node | Node | Узел для масштабирования |
-| scale | Vector3 | Коэффициент масштабирования |
+| scale | Vector3 | Масштабный коэффициент |
 
 ### Смотрите также
 

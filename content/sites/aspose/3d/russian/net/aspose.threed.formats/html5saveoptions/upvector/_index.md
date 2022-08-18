@@ -1,14 +1,14 @@
 ---
 title: UpVector
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает вектор вверх значение может быть x/y/z значение по умолчанию y
+description: Получает или задает восходящий вектор значение может быть x/y/z значение по умолчанию y
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.formats/html5saveoptions/upvector/
 ---
 ## Html5SaveOptions.UpVector property
 
-Получает или устанавливает вектор вверх, значение может быть "x"/"y"/"z", значение по умолчанию "y"
+Получает или задает восходящий вектор, значение может быть "x"/"y"/"z", значение по умолчанию "y"
 
 ```csharp
 public string UpVector { get; set; }

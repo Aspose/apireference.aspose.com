@@ -1,14 +1,14 @@
 ---
 title: CustomObject
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаCustomObjectaspose.threed/customobject.
+description: Инициализирует новый экземплярCustomObjectaspose.threed/customobject класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/customobject/customobject/
 ---
 ## CustomObject() {#constructor}
 
-Инициализирует новый экземпляр класса[`CustomObject`](../../customobject).
+Инициализирует новый экземпляр[`CustomObject`](../../customobject) класс.
 
 ```csharp
 public CustomObject()
@@ -24,7 +24,7 @@ public CustomObject()
 
 ## CustomObject(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`CustomObject`](../../customobject).
+Инициализирует новый экземпляр[`CustomObject`](../../customobject) класс.
 
 ```csharp
 public CustomObject(string name)
@@ -32,7 +32,7 @@ public CustomObject(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

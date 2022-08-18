@@ -3,7 +3,7 @@ title: VertexFieldDataType
 second_title: Aspose.3D for .NET API 参考
 description: 顶点字段的数据类型
 type: docs
-weight: 2700
+weight: 2690
 url: /zh/net/aspose.threed.utilities/vertexfielddatatype/
 ---
 ## VertexFieldDataType enumeration
@@ -18,19 +18,19 @@ public enum VertexFieldDataType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Float | `17` | Single |
-| FVector2 | `18` | [`FVector2`](../fvector2) |
-| FVector3 | `19` | [`FVector3`](../fvector3) |
-| FVector4 | `20` | [`FVector4`](../fvector4) |
-| Double | `33` | Double |
+| Float | `17` | 类型Single |
+| FVector2 | `18` | 类型[`FVector2`](../fvector2) |
+| FVector3 | `19` | 类型[`FVector3`](../fvector3) |
+| FVector4 | `20` | 类型[`FVector4`](../fvector4) |
+| Double | `33` | 类型Double |
 | Vector2 | `34` | 类型[`Vector2`](../vector2) |
 | Vector3 | `35` | 类型[`Vector3`](../vector3) |
-| Vector4 | `36` | [`Vector4`](../vector4) |
-| ByteVector4 | `52` | 字节[4]的类型，可用于表示颜色，内存消耗较少。 |
-| Int8 | `49` | Byte的类型 |
-| Int16 | `65` | Int16 |
-| Int32 | `81` | Int32 |
-| Int64 | `97` | Int64 |
+| Vector4 | `36` | 类型[`Vector4`](../vector4) |
+| ByteVector4 | `52` | byte[4]的类型，可以用较少的内存来表示颜色。 |
+| Int8 | `49` | 类型Byte |
+| Int16 | `65` | 类型Int16 |
+| Int32 | `81` | 类型Int32 |
+| Int64 | `97` | 类型Int64 |
 
 ### 也可以看看
 

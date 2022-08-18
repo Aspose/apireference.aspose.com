@@ -1,14 +1,14 @@
 ---
 title: ControlPoints
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置当前方向的控制点数
+description: 获取或设置当前方向控制点的个数
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.entities/patchdirection/controlpoints/
 ---
 ## PatchDirection.ControlPoints property
 
-获取或设置当前方向的控制点数。
+获取或设置当前方向控制点的个数。
 
 ```csharp
 public int ControlPoints { get; set; }
@@ -16,7 +16,7 @@ public int ControlPoints { get; set; }
 
 ### 适当的价值
 
-计数。
+伯爵。
 
 ### 也可以看看
 

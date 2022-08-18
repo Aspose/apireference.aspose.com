@@ -1,14 +1,14 @@
 ---
 title: TextureSlot
 second_title: Справочник по Aspose.3D для .NET API
-description: Слот текстуры вMaterial./material может быть пронумерован через экземпляр материала.
+description: Текстурный слот вMaterial./material  можно перечислить через экземпляр материала.
 type: docs
-weight: 2390
+weight: 2380
 url: /ru/net/aspose.threed.shading/textureslot/
 ---
 ## TextureSlot class
 
-Слот текстуры в[`Material`](../material), может быть пронумерован через экземпляр материала.
+Текстурный слот в[`Material`](../material) , можно перечислить через экземпляр материала.
 
 ```csharp
 public class TextureSlot
@@ -18,7 +18,7 @@ public class TextureSlot
 
 | Имя | Описание |
 | --- | --- |
-| [SlotName](../../aspose.threed.shading/textureslot/slotname) { get; } | Имя слота, указывающее, где будет ограничена эта текстура. |
+| [SlotName](../../aspose.threed.shading/textureslot/slotname) { get; } | Имя слота, указывающее, где эта текстура будет ограничена. |
 | [Texture](../../aspose.threed.shading/textureslot/texture) { get; } | Текстура, которая будет привязана к материалу. |
 
 ### Смотрите также

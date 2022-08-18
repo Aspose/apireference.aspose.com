@@ -1,14 +1,14 @@
 ---
 title: Texture
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Textureaspose.threed.shading/texture类的新实例
+description: 初始化Textureaspose.threed.shading/texture类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.shading/texture/texture/
 ---
 ## Texture() {#constructor}
 
-初始化[`Texture`](../../texture)类的新实例。
+初始化[`Texture`](../../texture)类.
 
 ```csharp
 public Texture()
@@ -24,7 +24,7 @@ public Texture()
 
 ## Texture(string) {#constructor_1}
 
-初始化[`Texture`](../../texture)类的新实例。
+初始化[`Texture`](../../texture)类.
 
 ```csharp
 public Texture(string name)
@@ -32,7 +32,7 @@ public Texture(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 

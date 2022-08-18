@@ -1,14 +1,14 @@
 ---
 title: Clamp
 second_title: Aspose.3D for .NET API 参考
-description: 将值限制在范围 min max
+description: 将值限制在 min max 范围内
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/mathutils/clamp/
 ---
 ## MathUtils.Clamp method
 
-将值限制在范围 [min, max]
+将值限制在 [min, max] 范围内
 
 ```csharp
 public static double Clamp(double val, double min, double max)
@@ -16,13 +16,13 @@ public static double Clamp(double val, double min, double max)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| val | Double | 值夹紧。 |
+| val | Double | 要钳位的值。 |
 | min | Double | 最小值。 |
 | max | Double | 最大值。 |
 
 ### 返回值
 
-[min, max]
+[min, max] 之间的值
 
 ### 也可以看看
 

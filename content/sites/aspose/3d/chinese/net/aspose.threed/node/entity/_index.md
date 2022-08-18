@@ -1,14 +1,14 @@
 ---
 title: Entity
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置连接到此节点的第一个实体如果设置将清除其他实体
+description: 获取或设置第一个连接到该节点的实体如果设置将清除其他实体
 type: docs
 weight: 50
 url: /zh/net/aspose.threed/node/entity/
 ---
 ## Node.Entity property
 
-获取或设置连接到此节点的第一个实体，如果设置，将清除其他实体。
+获取或设置第一个连接到该节点的实体，如果设置，将清除其他实体。
 
 ```csharp
 public Entity Entity { get; set; }

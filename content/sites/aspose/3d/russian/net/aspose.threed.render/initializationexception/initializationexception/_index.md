@@ -1,14 +1,14 @@
 ---
 title: InitializationException
 second_title: Справочник по Aspose.3D для .NET API
-description: ИнициализироватьInitializationExceptionaspose.threed.render/initializationexceptionэкземпляр
+description: ИнициализироватьInitializationExceptionaspose.threed.render/initializationexception instance
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/initializationexception/initializationexception/
 ---
 ## InitializationException() {#constructor}
 
-Инициализировать[`InitializationException`](../../initializationexception)экземпляр
+Инициализировать[`InitializationException`](../../initializationexception) instance
 
 ```csharp
 public InitializationException()
@@ -24,7 +24,7 @@ public InitializationException()
 
 ## InitializationException(string) {#constructor_1}
 
-Инициализировать экземпляр[`InitializationException`](../../initializationexception)с указанным сообщением об исключении.
+Инициализировать[`InitializationException`](../../initializationexception) экземпляр с указанным сообщением об исключении.
 
 ```csharp
 public InitializationException(string msg)

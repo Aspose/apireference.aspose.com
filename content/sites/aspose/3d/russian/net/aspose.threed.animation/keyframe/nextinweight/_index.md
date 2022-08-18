@@ -1,14 +1,14 @@
 ---
 title: NextInWeight
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает вес следующего слева в этом ключевом кадре.
+description: Получает или устанавливает следующий слева вес в этом ключевом кадре.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.animation/keyframe/nextinweight/
 ---
 ## KeyFrame.NextInWeight property
 
-Получает или устанавливает вес следующего (слева) в этом ключевом кадре.
+Получает или устанавливает следующий (слева) вес в этом ключевом кадре.
 
 ```csharp
 public float NextInWeight { get; set; }

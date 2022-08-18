@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает перечислитель для перечисления внутренних слотов текстуры.
+description: Получает перечислитель для перечисления внутренних слотов текстур.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.shading/material/getenumerator/
 ---
 ## Material.GetEnumerator method
 
-Получает перечислитель для перечисления внутренних слотов текстуры.
+Получает перечислитель для перечисления внутренних слотов текстур.
 
 ```csharp
 public IEnumerator<TextureSlot> GetEnumerator()

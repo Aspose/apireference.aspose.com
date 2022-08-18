@@ -1,14 +1,14 @@
 ---
 title: A3DObject
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаA3DObjectaspose.threed/a3dobject.
+description: Инициализирует новый экземплярA3DObjectaspose.threed/a3dobject класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/a3dobject/a3dobject/
 ---
 ## A3DObject(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`A3DObject`](../../a3dobject).
+Инициализирует новый экземпляр[`A3DObject`](../../a3dobject) класс.
 
 ```csharp
 public A3DObject(string name)
@@ -16,7 +16,7 @@ public A3DObject(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public A3DObject(string name)
 
 ## A3DObject() {#constructor}
 
-Инициализирует новый экземпляр класса[`A3DObject`](../../a3dobject)без имени.
+Инициализирует новый экземпляр[`A3DObject`](../../a3dobject)класс без имени.
 
 ```csharp
 public A3DObject()

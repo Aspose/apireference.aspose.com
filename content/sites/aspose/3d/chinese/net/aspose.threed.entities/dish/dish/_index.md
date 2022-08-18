@@ -32,8 +32,8 @@ public Dish(double radius, double height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| radius | Double | 盘子半径 |
-| height | Double | 盘子高度 |
+| radius | Double | 菜的半径 |
+| height | Double | 盘子的高度 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public Dish(double radius, double height)
 
 ## Dish(string, double, double, int, int) {#constructor_2}
 
-创建具有指定半径和高度的新菜实例
+创建一个指定半径和高度的菜实例
 
 ```csharp
 public Dish(string name, double radius, double height, int widthSegments, int heightSegments)
@@ -53,9 +53,9 @@ public Dish(string name, double radius, double height, int widthSegments, int he
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 菜的名称 |
+| name | String | 菜名 |
 | radius | Double | 菜的半径 |
-| height | Double | 菜的高度盘子 |
+| height | Double | 盘子的高度 |
 | widthSegments | Int32 | 盘子的宽度段 |
 | heightSegments | Int32 | 盘子的高度段 |
 

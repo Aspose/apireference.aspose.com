@@ -1,14 +1,14 @@
 ---
 title: VertexElementVisibility
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementVisibilityaspose.threed.entities/vertexelementvisibility类的新实例
+description: 初始化VertexElementVisibilityaspose.threed.entities/vertexelementvisibility类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementvisibility/vertexelementvisibility/
 ---
 ## VertexElementVisibility constructor
 
-初始化[`VertexElementVisibility`](../../vertexelementvisibility)类的新实例。
+初始化[`VertexElementVisibility`](../../vertexelementvisibility)类.
 
 ```csharp
 public VertexElementVisibility()

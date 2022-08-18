@@ -25,9 +25,9 @@ public class RevolvedAreaSolid : Entity, IMeshConvertible
 | 姓名 | 描述 |
 | --- | --- |
 | [AngleEnd](../../aspose.threed.entities/revolvedareasolid/angleend) { get; set; } | 获取或设置旋转过程的结束角度，单位为弧度，默认值为pi。 |
-| [AngleStart](../../aspose.threed.entities/revolvedareasolid/anglestart) { get; set; } | 获取或设置旋转过程的起始角度，单位为弧度，默认为0。 |
+| [AngleStart](../../aspose.threed.entities/revolvedareasolid/anglestart) { get; set; } | 获取或设置旋转过程的起始角度，单位为弧度，默认为0. |
 | [Axis](../../aspose.threed.entities/revolvedareasolid/axis) { get; set; } | 获取或设置轴方向，默认值为(0, 1, 0)。 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [Origin](../../aspose.threed.entities/revolvedareasolid/origin) { get; set; } | 获取或设置旋转的原点，默认值为(0, 0, 0)。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
@@ -40,14 +40,14 @@ public class RevolvedAreaSolid : Entity, IMeshConvertible
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
-| [ToMesh](../../aspose.threed.entities/revolvedareasolid/tomesh)() | 将[`RevolvedAreaSolid`](../revolvedareasolid)转换为网格。 |
+| [ToMesh](../../aspose.threed.entities/revolvedareasolid/tomesh)() | 转换[`RevolvedAreaSolid`](../revolvedareasolid)成一个网格。 |
 
 ### 也可以看看
 

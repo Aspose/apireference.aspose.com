@@ -1,14 +1,14 @@
 ---
 title: Specular
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает зеркальный цвет материала значение по умолчанию 1 1 1.
+description: Получает или задает зеркальный цвет материала значение по умолчанию  1 1 1.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.shading/pbrspecularmaterial/specular/
 ---
 ## PbrSpecularMaterial.Specular property
 
-Получает или задает зеркальный цвет материала, значение по умолчанию (1, 1, 1).
+Получает или задает зеркальный цвет материала, значение по умолчанию — (1, 1, 1).
 
 ```csharp
 public Vector3 Specular { get; set; }

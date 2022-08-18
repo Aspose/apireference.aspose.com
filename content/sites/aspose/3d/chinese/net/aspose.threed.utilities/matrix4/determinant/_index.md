@@ -16,7 +16,7 @@ public double Determinant { get; }
 
 ### 适当的价值
 
-行列式。
+决定因素。
 
 ### 也可以看看
 

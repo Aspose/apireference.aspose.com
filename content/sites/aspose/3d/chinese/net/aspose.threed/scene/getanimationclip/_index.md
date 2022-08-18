@@ -1,14 +1,14 @@
 ---
 title: GetAnimationClip
 second_title: Aspose.3D for .NET API 参考
-description: 获取命名AnimationClipaspose.threed.animation/animationclip
+description: 获取一个命名的AnimationClipaspose.threed.animation/animationclip
 type: docs
 weight: 130
 url: /zh/net/aspose.threed/scene/getanimationclip/
 ---
 ## Scene.GetAnimationClip method
 
-获取命名[`AnimationClip`](../../../aspose.threed.animation/animationclip)
+获取一个命名的[`AnimationClip`](../../../aspose.threed.animation/animationclip)
 
 ```csharp
 public AnimationClip GetAnimationClip(string name)
@@ -16,11 +16,11 @@ public AnimationClip GetAnimationClip(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | [`AnimationClip`](../../../aspose.threed.animation/animationclip)要查找的名称 |
+| name | String | 这[`AnimationClip`](../../../aspose.threed.animation/animationclip)要查找的名字 |
 
 ### 返回值
 
-Returned AnimationClip
+返回的动画剪辑
 
 ### 也可以看看
 

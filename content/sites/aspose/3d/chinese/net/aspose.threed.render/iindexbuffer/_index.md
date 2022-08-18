@@ -1,14 +1,14 @@
 ---
 title: IIndexBuffer
 second_title: Aspose.3D for .NET API 参考
-description: 索引缓冲区描述了渲染管道中使用的几何图形
+description: 索引缓冲区描述了渲染管线中使用的几何图形
 type: docs
-weight: 1850
+weight: 1860
 url: /zh/net/aspose.threed.render/iindexbuffer/
 ---
 ## IIndexBuffer interface
 
-索引缓冲区描述了渲染管道中使用的几何图形。
+索引缓冲区描述了渲染管线中使用的几何图形。
 
 ```csharp
 public interface IIndexBuffer : IBuffer
@@ -27,7 +27,7 @@ public interface IIndexBuffer : IBuffer
 | --- | --- |
 | [LoadData](../../aspose.threed.render/iindexbuffer/loaddata#loaddata_2)(int[]) | 加载指数数据 |
 | [LoadData](../../aspose.threed.render/iindexbuffer/loaddata#loaddata_1)(short[]) | 加载指数数据 |
-| [LoadData](../../aspose.threed.render/iindexbuffer/loaddata#loaddata)(TriMesh) | 从[`TriMesh`](../../aspose.threed.entities/trimesh) |
+| [LoadData](../../aspose.threed.render/iindexbuffer/loaddata#loaddata)(TriMesh) | 加载索引数据[`TriMesh`](../../aspose.threed.entities/trimesh) |
 | [LoadData](../../aspose.threed.render/iindexbuffer/loaddata#loaddata_3)(uint[]) | 加载指数数据 |
 
 ### 也可以看看

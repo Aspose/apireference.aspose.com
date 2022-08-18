@@ -1,14 +1,14 @@
 ---
 title: OffsetHeight
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置高度偏移量
+description: 获取或设置 height 的偏移量
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.utilities/relativerectangle/offsetheight/
 ---
 ## RelativeRectangle.OffsetHeight property
 
-获取或设置高度偏移量
+获取或设置 height 的偏移量
 
 ```csharp
 public int OffsetHeight { get; set; }

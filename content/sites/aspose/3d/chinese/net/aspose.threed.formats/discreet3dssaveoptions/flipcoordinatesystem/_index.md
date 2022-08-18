@@ -1,14 +1,14 @@
 ---
 title: FlipCoordinateSystem
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置导入/导出过程中控制点/法线的翻转坐标系
+description: 在导入/导出过程中获取或设置控制点/法线的翻转坐标系
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.formats/discreet3dssaveoptions/flipcoordinatesystem/
 ---
 ## Discreet3dsSaveOptions.FlipCoordinateSystem property
 
-获取或设置导入/导出过程中控制点/法线的翻转坐标系。
+在导入/导出过程中获取或设置控制点/法线的翻转坐标系。
 
 ```csharp
 public bool FlipCoordinateSystem { get; set; }

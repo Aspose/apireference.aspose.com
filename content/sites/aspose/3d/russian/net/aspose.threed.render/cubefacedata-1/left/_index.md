@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для Xлевой грани
+description: Получает или задает данные для XLeft face
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.render/cubefacedata-1/left/
 ---
 ## CubeFaceData&lt;T&gt;.Left property
 
-Получает или задает данные для +X(левой) грани
+Получает или задает данные для +X(Left) face
 
 ```csharp
 public T Left { get; set; }

@@ -16,7 +16,7 @@ public BindPoint FindBindPoint(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 要查找的绑定点名称。 |
+| name | String | 绑定点的名称来查找。 |
 
 ### 返回值
 

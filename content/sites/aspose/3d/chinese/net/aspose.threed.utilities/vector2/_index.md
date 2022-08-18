@@ -1,14 +1,14 @@
 ---
 title: Vector2
 second_title: Aspose.3D for .NET API 参考
-description: 具有两个分量的向量
+description: 包含两个分量的向量
 type: docs
-weight: 2640
+weight: 2630
 url: /zh/net/aspose.threed.utilities/vector2/
 ---
 ## Vector2 structure
 
-具有两个分量的向量。
+包含两个分量的向量。
 
 ```csharp
 public struct Vector2 : IComparable<Vector2>
@@ -18,17 +18,17 @@ public struct Vector2 : IComparable<Vector2>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Vector2](vector2#constructor_1)(double) | 初始化[`Vector2`](../vector2)结构的新实例。 |
-| [Vector2](vector2#constructor)(FVector2) | 初始化[`Vector2`](../vector2)结构的新实例。 |
-| [Vector2](vector2#constructor_2)(double, double) | 初始化[`Vector2`](../vector2)结构的新实例。 |
+| [Vector2](vector2#constructor_1)(double) | 初始化[`Vector2`](../vector2) struct. |
+| [Vector2](vector2#constructor)(FVector2) | 初始化[`Vector2`](../vector2) struct. |
+| [Vector2](vector2#constructor_2)(double, double) | 初始化[`Vector2`](../vector2) struct. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Length](../../aspose.threed.utilities/vector2/length) { get; } | 获取长度。 |
-| [U](../../aspose.threed.utilities/vector2/u) { get; set; } | 如果[`Vector2`](../vector2)用作映射坐标，则获取或设置 U 组件。 是 x 组件的别名。 |
-| [V](../../aspose.threed.utilities/vector2/v) { get; set; } | 如果[`Vector2`](../vector2)用作映射坐标，则获取或设置 V 分量。 它是 y 组件的别名。 |
+| [U](../../aspose.threed.utilities/vector2/u) { get; set; } | 获取或设置 U 组件，如果[`Vector2`](../vector2)用作映射坐标。 是x组件的别名。 |
+| [V](../../aspose.threed.utilities/vector2/v) { get; set; } | 获取或设置 V 分量，如果[`Vector2`](../vector2)用作映射坐标。 是y分量的别名。 |
 
 ## 方法
 
@@ -41,10 +41,10 @@ public struct Vector2 : IComparable<Vector2>
 | [Equals](../../aspose.threed.utilities/vector2/equals#equals)(Vector2) | 检查两个vector2是否等于 |
 | override [GetHashCode](../../aspose.threed.utilities/vector2/gethashcode)() | 获取 Vector2 的哈希码 |
 | [Normalize](../../aspose.threed.utilities/vector2/normalize)() | 规范化这个实例。 |
-| override [ToString](../../aspose.threed.utilities/vector2/tostring)() | 返回代表当前[`Vector2`](../vector2)的String. |
+| override [ToString](../../aspose.threed.utilities/vector2/tostring)() | 返回一个String代表当前[`Vector2`](../vector2). |
 | [operator +](../../aspose.threed.utilities/vector2/op_addition) | Vector2 的加法运算符 |
 | [operator /](../../aspose.threed.utilities/vector2/op_division) | Vector2 的除法运算符 |
-| [operator ==](../../aspose.threed.utilities/vector2/op_equality) | Vector2 的相等运算符 |
+| [operator ==](../../aspose.threed.utilities/vector2/op_equality) | Vector2 的等号运算符 |
 | [explicit operator](../../aspose.threed.utilities/vector2/op_explicit) |  |
 | [operator !=](../../aspose.threed.utilities/vector2/op_inequality) | Vector2 的不等号运算符 |
 | [operator *](../../aspose.threed.utilities/vector2/op_multiply#op_multiply) | Vector2 的乘法运算符 (2 operators) |
@@ -54,7 +54,7 @@ public struct Vector2 : IComparable<Vector2>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [x](../../aspose.threed.utilities/vector2/x) | x 组件。 |
+| [x](../../aspose.threed.utilities/vector2/x) | x 分量。 |
 | [y](../../aspose.threed.utilities/vector2/y) | y 分量。 |
 
 ### 也可以看看

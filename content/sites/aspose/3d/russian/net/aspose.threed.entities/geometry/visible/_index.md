@@ -1,14 +1,14 @@
 ---
 title: Visible
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает если геометрия видна
+description: Получает или задает видимость геометрии
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.entities/geometry/visible/
 ---
 ## Geometry.Visible property
 
-Получает или задает, если геометрия видна
+Получает или задает видимость геометрии
 
 ```csharp
 public bool Visible { get; set; }

@@ -3,7 +3,7 @@ title: ShaderProgram
 second_title: Aspose.3D for .NET API 参考
 description: 着色器程序
 type: docs
-weight: 2130
+weight: 2140
 url: /zh/net/aspose.threed.render/shaderprogram/
 ---
 ## ShaderProgram class
@@ -18,7 +18,7 @@ public abstract class ShaderProgram : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Dispose](../../aspose.threed.render/shaderprogram/dispose)() | 释放着色器并释放所有内部资源。 |
+| virtual [Dispose](../../aspose.threed.render/shaderprogram/dispose)() | 处置着色器并释放所有内部资源。 |
 
 ### 也可以看看
 

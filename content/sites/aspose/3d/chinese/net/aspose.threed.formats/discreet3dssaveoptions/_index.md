@@ -18,24 +18,24 @@ public class Discreet3dsSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Discreet3dsSaveOptions](discreet3dssaveoptions)() | [`Discreet3dsSaveOptions`](../discreet3dssaveoptions) |
+| [Discreet3dsSaveOptions](discreet3dssaveoptions)() | 的构造函数[`Discreet3dsSaveOptions`](../discreet3dssaveoptions) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DuplicatedNameCounterBase](../../aspose.threed.formats/discreet3dssaveoptions/duplicatednamecounterbase) { get; set; } | 重名生成新名称所使用的计数器，默认值为 2。 |
-| [DuplicatedNameCounterFormat](../../aspose.threed.formats/discreet3dssaveoptions/duplicatednamecounterformat) { get; set; } | 重复计数器的格式，默认值为空字符串。 |
-| [DuplicatedNameSeparator](../../aspose.threed.formats/discreet3dssaveoptions/duplicatednameseparator) { get; set; } | 对象名称和重复计数器之间的分隔符，默认值为“_”。 当场景包含使用相同名称的对象时，Aspose.3D 3DS 导出器将为对象生成不同的名称。 例如有两个节点名为“Box”，第一个节点的名称为“Box”， 第二个节点将使用默认的新名称“Box_2”配置。 |
+| [DuplicatedNameCounterBase](../../aspose.threed.formats/discreet3dssaveoptions/duplicatednamecounterbase) { get; set; } | 重名生成新名称所使用的计数器，默认值为2. |
+| [DuplicatedNameCounterFormat](../../aspose.threed.formats/discreet3dssaveoptions/duplicatednamecounterformat) { get; set; } | 重复计数器的格式，默认为空字符串。 |
+| [DuplicatedNameSeparator](../../aspose.threed.formats/discreet3dssaveoptions/duplicatednameseparator) { get; set; } | 对象名称和重复计数器之间的分隔符，默认值为“_”。 当场景包含使用相同名称的对象时，Aspose.3D 3DS 导出器将为对象生成不同的名称。 例如有两个节点命名为“Box”，第一个节点将有一个名称“Box”， ，第二个节点将使用默认配置获得一个新名称“Box_2”。 |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
 | [ExportCamera](../../aspose.threed.formats/discreet3dssaveoptions/exportcamera) { get; set; } | 获取或设置是否导出场景中的所有摄像机。 |
 | [ExportLight](../../aspose.threed.formats/discreet3dssaveoptions/exportlight) { get; set; } | 获取或设置是否导出场景中的所有灯光。 |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
-| [FlipCoordinateSystem](../../aspose.threed.formats/discreet3dssaveoptions/flipcoordinatesystem) { get; set; } | 获取或设置导入/导出过程中控制点/法线的翻转坐标系。 |
+| [FlipCoordinateSystem](../../aspose.threed.formats/discreet3dssaveoptions/flipcoordinatesystem) { get; set; } | 在导入/导出过程中获取或设置控制点/法线的翻转坐标系。 |
 | [GammaCorrectedColor](../../aspose.threed.formats/discreet3dssaveoptions/gammacorrectedcolor) { get; set; } | 3ds 文件可能包含相同属性的原始颜色和伽马校正颜色， 将此设置为 true 将尽可能使用伽马校正颜色， 否则 Aspose.3D 将尝试使用原始颜色。 |
-| [HighPreciseColor](../../aspose.threed.formats/discreet3dssaveoptions/highprecisecolor) { get; set; } | 如果为真，则生成的 3ds 文件将使用高精度颜色，即红/绿/蓝的每个通道都是 32 位浮点数。 否则生成的文件将使用 24bit 颜色，每个通道使用 8bit 字节。 默认值为 false，因为并非所有应用程序都支持高精度颜色。 |
+| [HighPreciseColor](../../aspose.threed.formats/discreet3dssaveoptions/highprecisecolor) { get; set; } | 如果为真，生成的3ds文件将使用高精度颜色，表示红/绿/蓝的每个通道都是32位浮点数。 否则生成的文件将使用24位颜色，每个通道使用8位字节。 默认值为假，因为并非所有应用程序都支持高精度颜色。 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
 | [MasterScale](../../aspose.threed.formats/discreet3dssaveoptions/masterscale) { get; set; } | 获取或设置导出时使用的主刻度。 |
 

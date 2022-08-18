@@ -1,14 +1,14 @@
 ---
 title: WebEdgeRadius
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置网页边缘的半径
+description: 获取或设置web边缘的半径
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.profiles/tshape/webedgeradius/
 ---
 ## TShape.WebEdgeRadius property
 
-获取或设置网页边缘的半径。
+获取或设置web边缘的半径。
 
 ```csharp
 public double WebEdgeRadius { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: VertexElementMaterial
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementMaterialaspose.threed.entities/vertexelementmaterial类的新实例
+description: 初始化VertexElementMaterialaspose.threed.entities/vertexelementmaterial类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementmaterial/vertexelementmaterial/
 ---
 ## VertexElementMaterial constructor
 
-初始化[`VertexElementMaterial`](../../vertexelementmaterial)类的新实例。
+初始化[`VertexElementMaterial`](../../vertexelementmaterial)类.
 
 ```csharp
 public VertexElementMaterial()

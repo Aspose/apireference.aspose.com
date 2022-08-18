@@ -1,14 +1,14 @@
 ---
 title: VertexElementBinormal
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementBinormalaspose.threed.entities/vertexelementbinormal.
+description: Инициализирует новый экземплярVertexElementBinormalaspose.threed.entities/vertexelementbinormal класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementbinormal/vertexelementbinormal/
 ---
 ## VertexElementBinormal constructor
 
-Инициализирует новый экземпляр класса[`VertexElementBinormal`](../../vertexelementbinormal).
+Инициализирует новый экземпляр[`VertexElementBinormal`](../../vertexelementbinormal) класс.
 
 ```csharp
 public VertexElementBinormal()

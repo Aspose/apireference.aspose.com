@@ -1,14 +1,14 @@
 ---
 title: StlSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: 初始化一个新的StlSaveOptionsaspose.threed.formats/stlsaveoptions实例
+description: 初始化一个新的StlSaveOptionsaspose.threed.formats/stlsaveoptions实例.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/stlsaveoptions/stlsaveoptions/
 ---
 ## StlSaveOptions() {#constructor}
 
-初始化一个新的[`StlSaveOptions`](../../stlsaveoptions)实例。
+初始化一个新的[`StlSaveOptions`](../../stlsaveoptions)实例.
 
 ```csharp
 public StlSaveOptions()
@@ -24,7 +24,7 @@ public StlSaveOptions()
 
 ## StlSaveOptions(FileContentType) {#constructor_1}
 
-初始化一个新的[`StlSaveOptions`](../../stlsaveoptions)实例。
+初始化一个新的[`StlSaveOptions`](../../stlsaveoptions)实例.
 
 ```csharp
 public StlSaveOptions(FileContentType contentType)

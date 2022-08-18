@@ -1,14 +1,14 @@
 ---
 title: RotateEulerRadian
 second_title: Aspose.3D for .NET API 参考
-description: 以弧度为单位的欧拉角链接旋转
+description: 以弧度为单位的欧拉角链式旋转
 type: docs
 weight: 120
 url: /zh/net/aspose.threed.utilities/transformbuilder/rotateeulerradian/
 ---
 ## RotateEulerRadian(double, double, double) {#rotateeulerradian_1}
 
-以弧度为单位的欧拉角链接旋转
+以弧度为单位的欧拉角链式旋转
 
 ```csharp
 public TransformBuilder RotateEulerRadian(double x, double y, double z)
@@ -30,7 +30,7 @@ public TransformBuilder RotateEulerRadian(double x, double y, double z)
 
 ## RotateEulerRadian(Vector3) {#rotateeulerradian}
 
-以弧度为单位的欧拉角链接旋转
+以弧度为单位的欧拉角链式旋转
 
 ```csharp
 public TransformBuilder RotateEulerRadian(Vector3 r)

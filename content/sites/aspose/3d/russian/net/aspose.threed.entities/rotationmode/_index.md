@@ -1,14 +1,14 @@
 ---
 title: RotationMode
 second_title: Справочник по Aspose.3D для .NET API
-description: Режим вращения пирамиды
+description: Режим вращения усеченного конуса
 type: docs
 weight: 630
 url: /ru/net/aspose.threed.entities/rotationmode/
 ---
 ## RotationMode enumeration
 
-Режим вращения пирамиды
+Режим вращения усеченного конуса
 
 ```csharp
 public enum RotationMode
@@ -18,7 +18,7 @@ public enum RotationMode
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| FixedTarget | `0` | Цель зафиксирована, направление вычисляется по взгляду на цель |
+| FixedTarget | `0` | Цель фиксирована, направление рассчитывается по взгляду на target |
 | FixedDirection | `1` | Направление фиксировано, взгляд рассчитывается по направлению |
 
 ### Смотрите также

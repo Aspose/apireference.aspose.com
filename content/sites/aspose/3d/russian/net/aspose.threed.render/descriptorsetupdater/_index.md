@@ -1,14 +1,14 @@
 ---
 title: DescriptorSetUpdater
 second_title: Справочник по Aspose.3D для .NET API
-description: Этот класс позволяет обновлятьIDescriptorSet./idescriptorsetв цепочке операций.
+description: Этот класс позволяет обновлятьIDescriptorSet./idescriptorset в цепной операции.
 type: docs
-weight: 1740
+weight: 1750
 url: /ru/net/aspose.threed.render/descriptorsetupdater/
 ---
 ## DescriptorSetUpdater class
 
-Этот класс позволяет обновлять[`IDescriptorSet`](../idescriptorset)в цепочке операций.
+Этот класс позволяет обновлять[`IDescriptorSet`](../idescriptorset) в цепной операции.
 
 ```csharp
 public sealed class DescriptorSetUpdater : IDisposable
@@ -19,10 +19,10 @@ public sealed class DescriptorSetUpdater : IDisposable
 | Имя | Описание |
 | --- | --- |
 | [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind)(IBuffer) | Привязать весь буфер к текущему дескриптору |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind_2)(ITextureUnit) | Привязать модуль текстуры к текущему набору дескрипторов |
+| [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind_2)(ITextureUnit) | Привязать блок текстуры к текущему дескриптору set |
 | [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind_3)(int, IBuffer) | Привязать буфер к текущему набору дескрипторов в указанном месте привязки. |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind_5)(int, ITextureUnit) | Привязать модуль текстуры к текущему набору дескрипторов |
-| [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind_1)(IBuffer, int, int) | Привязать буфер к текущему набору дескрипторов |
+| [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind_5)(int, ITextureUnit) | Привязать блок текстуры к текущему дескриптору set |
+| [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind_1)(IBuffer, int, int) | Привязать буфер к текущему дескриптору set |
 | [Bind](../../aspose.threed.render/descriptorsetupdater/bind#bind_4)(int, IBuffer, int, int) | Привязать буфер к текущему набору дескрипторов в указанном месте привязки. |
 | [Dispose](../../aspose.threed.render/descriptorsetupdater/dispose)() | Удалите программу обновления и зафиксируйте изменения в аппаратном устройстве. |
 

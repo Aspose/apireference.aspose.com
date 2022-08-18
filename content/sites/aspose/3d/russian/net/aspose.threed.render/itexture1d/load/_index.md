@@ -1,14 +1,14 @@
 ---
 title: Load
 second_title: Справочник по Aspose.3D для .NET API
-description: Загрузить содержимое текстуры из указанного растрового изображения
+description: Загрузить содержимое текстуры из указанного Bitmap
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/itexture1d/load/
 ---
 ## ITexture1D.Load method
 
-Загрузить содержимое текстуры из указанного растрового изображения
+Загрузить содержимое текстуры из указанного Bitmap
 
 ```csharp
 public void Load(TextureData bitmap)

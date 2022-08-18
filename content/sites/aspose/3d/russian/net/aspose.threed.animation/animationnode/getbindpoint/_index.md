@@ -17,8 +17,8 @@ public BindPoint GetBindPoint(A3DObject target, string propName, bool create)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | target | A3DObject | На каком объекте создать точку привязки. |
-| propName | String | Имя свойства. |
-| create | Boolean | Если установлено` true` создать точку привязки, если она не существует. |
+| propName | String | Название свойства. |
+| create | Boolean | Если установлено`истинный` создайте точку привязки, если она не существует. |
 
 ### Возвращаемое значение
 

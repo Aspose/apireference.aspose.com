@@ -1,14 +1,14 @@
 ---
 title: IArrayListT
 second_title: Справочник по Aspose.3D для .NET API
-description: Aspose.3D имеет собственную оптимизированную реализациюListдля лучшей загрузки/сохранения Только этот интерфейс доступен пользователю сIListсовместимыми и подобными интерфейсами.
+description: Aspose.3D имеет собственную оптимизированную реализациюList для лучшей загрузки/сохранения performance Только этот интерфейс открыт для пользователя сIList совместимые и похожие интерфейсы.
 type: docs
-weight: 2530
+weight: 2520
 url: /ru/net/aspose.threed.utilities/iarraylist-1/
 ---
 ## IArrayList&lt;T&gt; interface
 
-Aspose.3D имеет собственную оптимизированную реализациюListдля лучшей загрузки/сохранения Только этот интерфейс доступен пользователю сIListсовместимыми и подобными интерфейсами.
+Aspose.3D имеет собственную оптимизированную реализациюList для лучшей загрузки/сохранения performance Только этот интерфейс открыт для пользователя сIList совместимые и похожие интерфейсы.
 
 ```csharp
 public interface IArrayList<T> : IList<T>
@@ -24,7 +24,7 @@ public interface IArrayList<T> : IList<T>
 | --- | --- |
 | [AddRange](../../aspose.threed.utilities/iarraylist`1/addrange#addrange)(IEnumerable&lt;T&gt;) |  |
 | [AddRange](../../aspose.threed.utilities/iarraylist`1/addrange#addrange_1)(IList&lt;T&gt;) |  |
-| [ToArray](../../aspose.threed.utilities/iarraylist`1/toarray)() | Преобразует все элементы списка в массив |
+| [ToArray](../../aspose.threed.utilities/iarraylist`1/toarray)() | Преобразует все элементы в списке в массив |
 
 ### Смотрите также
 

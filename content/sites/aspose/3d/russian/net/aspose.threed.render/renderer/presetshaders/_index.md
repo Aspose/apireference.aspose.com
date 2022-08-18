@@ -1,14 +1,14 @@
 ---
 title: PresetShaders
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает предустановленный набор шейдеров
+description: Получает или задает предустановленный шейдер set
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.render/renderer/presetshaders/
 ---
 ## Renderer.PresetShaders property
 
-Получает или задает предустановленный набор шейдеров
+Получает или задает предустановленный шейдер set
 
 ```csharp
 public PresetShaders PresetShaders { get; set; }

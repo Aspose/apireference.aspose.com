@@ -1,14 +1,14 @@
 ---
 title: SpecularFactor
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置镜面反射因子 高光公式 SpecularColor  SpecularFactor  N dot H  Shininess
+description: 获取或设置镜面反射因子 高光的公式 SpecularColor  SpecularFactor  N dot H  Shininess
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.shading/phongmaterial/specularfactor/
 ---
 ## PhongMaterial.SpecularFactor property
 
-获取或设置镜面反射因子。 高光公式: SpecularColor * SpecularFactor * (N dot H) ^ Shininess
+获取或设置镜面反射因子。 高光的公式： SpecularColor * SpecularFactor * (N dot H) ^ Shininess
 
 ```csharp
 public double SpecularFactor { get; set; }

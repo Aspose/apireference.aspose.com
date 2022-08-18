@@ -1,14 +1,14 @@
 ---
 title: op_Multiply
 second_title: Aspose.3D for .NET API 参考
-description: 运算符重载 
+description:  的运算符重载
 type: docs
 weight: 270
 url: /zh/net/aspose.threed.utilities/quaternion/op_multiply/
 ---
 ## operator * {#op_multiply_1}
 
-运算符重载 *
+* 的运算符重载
 
 ```csharp
 public static Quaternion operator *(Quaternion lhs, double rhs)
@@ -33,7 +33,7 @@ public static Quaternion operator *(Quaternion lhs, double rhs)
 
 ## operator * {#op_multiply}
 
-运算符重载 *
+* 的运算符重载
 
 ```csharp
 public static Quaternion operator *(Quaternion lhs, Quaternion rhs)
@@ -58,7 +58,7 @@ public static Quaternion operator *(Quaternion lhs, Quaternion rhs)
 
 ## operator * {#op_multiply_2}
 
-运算符重载 *
+* 的运算符重载
 
 ```csharp
 public static Vector3 operator *(Quaternion q, Vector3 v)
@@ -67,11 +67,11 @@ public static Vector3 operator *(Quaternion q, Vector3 v)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | q | Quaternion | 旋转四元数 |
-| v | Vector3 | 旋转向量 |
+| v | Vector3 | 要旋转的向量 |
 
 ### 返回值
 
-旋转向量
+旋转矢量
 
 ### 也可以看看
 
@@ -84,7 +84,7 @@ public static Vector3 operator *(Quaternion q, Vector3 v)
 
 ## operator * {#op_multiply_4}
 
-运算符重载 *
+* 的运算符重载
 
 ```csharp
 public static Vector4 operator *(Quaternion q, Vector4 v)
@@ -93,11 +93,11 @@ public static Vector4 operator *(Quaternion q, Vector4 v)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | q | Quaternion | 旋转四元数 |
-| v | Vector4 | 旋转向量 |
+| v | Vector4 | 要旋转的向量 |
 
 ### 返回值
 
-旋转向量
+旋转矢量
 
 ### 也可以看看
 
@@ -110,7 +110,7 @@ public static Vector4 operator *(Quaternion q, Vector4 v)
 
 ## operator * {#op_multiply_3}
 
-运算符重载 *
+* 的运算符重载
 
 ```csharp
 public static Vector3 operator *(Vector3 v, Quaternion q)
@@ -119,11 +119,11 @@ public static Vector3 operator *(Vector3 v, Quaternion q)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | v | Vector3 | 旋转四元数 |
-| q | Quaternion | 旋转向量 |
+| q | Quaternion | 要旋转的向量 |
 
 ### 返回值
 
-旋转向量
+旋转矢量
 
 ### 也可以看看
 

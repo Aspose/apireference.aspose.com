@@ -1,14 +1,14 @@
 ---
 title: VertexElementUV
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementUVaspose.threed.entities/vertexelementuv. Тип наложения текстуры по умолчаниюDiffuse
+description: Инициализирует новый экземплярVertexElementUVaspose.threed.entities/vertexelementuv class. Тип отображения текстуры по умолчаниюDiffuse
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementuv/vertexelementuv/
 ---
 ## VertexElementUV() {#constructor}
 
-Инициализирует новый экземпляр класса[`VertexElementUV`](../../vertexelementuv). Тип наложения текстуры по умолчанию:Diffuse
+Инициализирует новый экземпляр[`VertexElementUV`](../../vertexelementuv) class. Тип отображения текстуры по умолчанию:Diffuse
 
 ```csharp
 public VertexElementUV()
@@ -24,7 +24,7 @@ public VertexElementUV()
 
 ## VertexElementUV(TextureMapping) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`VertexElementUV`](../../vertexelementuv).
+Инициализирует новый экземпляр[`VertexElementUV`](../../vertexelementuv) класс.
 
 ```csharp
 public VertexElementUV(TextureMapping textureMapping)

@@ -1,14 +1,14 @@
 ---
 title: Visible
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает отображение узла
+description: Получает или задает отображение node
 type: docs
 weight: 130
 url: /ru/net/aspose.threed/node/visible/
 ---
 ## Node.Visible property
 
-Получает или устанавливает отображение узла
+Получает или задает отображение node
 
 ```csharp
 public bool Visible { get; set; }

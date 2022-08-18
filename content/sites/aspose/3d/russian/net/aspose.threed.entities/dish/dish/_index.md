@@ -24,7 +24,7 @@ public Dish()
 
 ## Dish(double, double) {#constructor_1}
 
-Создать новый экземпляр тарелки с заданным радиусом и высотой
+Создать новый экземпляр блюда с заданным радиусом и высотой
 
 ```csharp
 public Dish(double radius, double height)
@@ -32,8 +32,8 @@ public Dish(double radius, double height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| radius | Double | Радиус тарелки |
-| height | Double | Высота тарелки |
+| radius | Double | Радиус блюда |
+| height | Double | Высота блюда |
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public Dish(double radius, double height)
 
 ## Dish(string, double, double, int, int) {#constructor_2}
 
-Создать новый экземпляр тарелки с заданным радиусом и высотой
+Создать новый экземпляр блюда с заданным радиусом и высотой
 
 ```csharp
 public Dish(string name, double radius, double height, int widthSegments, int heightSegments)
@@ -53,11 +53,11 @@ public Dish(string name, double radius, double height, int widthSegments, int he
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Название тарелки |
-| radius | Double | Радиус тарелки |
-| height | Double | Высота тарелки тарелка |
-| widthSegments | Int32 | Сегмент ширины тарелки |
-| heightSegments | Int32 | Сегмент высоты тарелки |
+| name | String | Название блюда |
+| radius | Double | Радиус блюда |
+| height | Double | Высота блюда |
+| widthSegments | Int32 | Ширина сегмента тарелки |
+| heightSegments | Int32 | Высота сегмента тарелки |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Node
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает узел сцены указывает на узел скелета со скинами
+description: Получает или задает узел сцены указывает на скелет со скинами node
 type: docs
 weight: 40
 url: /ru/net/aspose.threed/bonepose/node/
 ---
 ## BonePose.Node property
 
-Получает или устанавливает узел сцены, указывает на узел скелета со скинами
+Получает или задает узел сцены, указывает на скелет со скинами node
 
 ```csharp
 public Node Node { get; set; }

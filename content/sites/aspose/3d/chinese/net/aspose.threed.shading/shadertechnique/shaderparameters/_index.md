@@ -1,14 +1,14 @@
 ---
 title: ShaderParameters
 second_title: Aspose.3D for .NET API 参考
-description: 获取着色器参数定义 key 是动态属性的名称value 是属性连接的着色器参数名称
+description: 获取shader参数定义 key为动态属性名value为属性连接的shader参数名
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.shading/shadertechnique/shaderparameters/
 ---
 ## ShaderTechnique.ShaderParameters property
 
-获取着色器参数定义。 key 是动态属性的名称，value 是属性连接的着色器参数名称。
+获取shader参数定义 key为动态属性名，value为属性连接的shader参数名
 
 ```csharp
 public IDictionary<string, string> ShaderParameters { get; }

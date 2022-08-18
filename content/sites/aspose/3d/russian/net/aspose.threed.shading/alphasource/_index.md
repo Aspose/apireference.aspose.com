@@ -3,7 +3,7 @@ title: AlphaSource
 second_title: Справочник по Aspose.3D для .NET API
 description: Определяет содержит ли текстура альфа-канал.
 type: docs
-weight: 2260
+weight: 2270
 url: /ru/net/aspose.threed.shading/alphasource/
 ---
 ## AlphaSource enumeration
@@ -18,7 +18,7 @@ public enum AlphaSource
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| None | `0` | В текстуре не определена альфа |
+| None | `0` | Альфа не определена в текстуре |
 | PixelAlpha | `1` | Альфа определяется альфа-каналом пикселя |
 | FixedValue | `2` | Альфа - это фиксированное значение, которое определяется[`Alpha`](../texturebase/alpha) |
 

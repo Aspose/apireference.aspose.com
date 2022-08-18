@@ -17,7 +17,7 @@ public static Vector2 operator -(Vector2 lhs, Vector2 rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Vector2 | 左侧值。 |
-| rhs | Vector2 | 右侧值。 |
+| rhs | Vector2 | 右手边的值。 |
 
 ### 返回值
 

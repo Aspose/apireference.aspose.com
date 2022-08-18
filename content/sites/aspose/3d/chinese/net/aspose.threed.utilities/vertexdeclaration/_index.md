@@ -3,7 +3,7 @@ title: VertexDeclaration
 second_title: Aspose.3D for .NET API 参考
 description: 自定义顶点结构的声明
 type: docs
-weight: 2680
+weight: 2670
 url: /zh/net/aspose.threed.utilities/vertexdeclaration/
 ---
 ## VertexDeclaration class
@@ -24,24 +24,24 @@ public sealed class VertexDeclaration : IComparable<VertexDeclaration>, IEnumera
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.threed.utilities/vertexdeclaration/count) { get; } | 获取此[`VertexDeclaration`](../vertexdeclaration) |
+| [Count](../../aspose.threed.utilities/vertexdeclaration/count) { get; } | 获取在此定义的所有字段的计数[`VertexDeclaration`](../vertexdeclaration) |
 | [Item](../../aspose.threed.utilities/vertexdeclaration/item) { get; } |  |
-| [Sealed](../../aspose.threed.utilities/vertexdeclaration/sealed) { get; } | A[`VertexDeclaration`](../vertexdeclaration)在被TriMesh或[`TriMesh`](../../aspose.threed.entities/trimesh)，不允许进行更多修改。 |
+| [Sealed](../../aspose.threed.utilities/vertexdeclaration/sealed) { get; } | 一个[`VertexDeclaration`](../vertexdeclaration)使用时将被密封[`TriMesh`](../../aspose.threed.entities/trimesh-1)或者[`TriMesh`](../../aspose.threed.entities/trimesh)，不允许再修改。 |
 | [Size](../../aspose.threed.utilities/vertexdeclaration/size) { get; } | 顶点结构的字节大小。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [FromGeometry](../../aspose.threed.utilities/vertexdeclaration/fromgeometry)(Geometry, bool) | 基于[`Geometry`](../../aspose.threed.entities/geometry)创建[`VertexDeclaration`](../vertexdeclaration)的布局。 |
+| static [FromGeometry](../../aspose.threed.utilities/vertexdeclaration/fromgeometry)(Geometry, bool) | 创建一个[`VertexDeclaration`](../vertexdeclaration)基于一个[`Geometry`](../../aspose.threed.entities/geometry) 布局. |
 | static [FromType&lt;T&gt;](../../aspose.threed.utilities/vertexdeclaration/fromtype)() |  |
-| [AddField](../../aspose.threed.utilities/vertexdeclaration/addfield)(VertexFieldDataType, VertexFieldSemantic, int, string) | 添加新的顶点字段 |
+| [AddField](../../aspose.threed.utilities/vertexdeclaration/addfield)(VertexFieldDataType, VertexFieldSemantic, int, string) | 添加一个新的顶点字段 |
 | [Clear](../../aspose.threed.utilities/vertexdeclaration/clear)() | 清除所有字段。 |
-| [CompareTo](../../aspose.threed.utilities/vertexdeclaration/compareto)(VertexDeclaration) | 将此实例与指定对象进行比较并返回它们相对值的指示。 |
-| override [Equals](../../aspose.threed.utilities/vertexdeclaration/equals)(object) | 确定此实例和指定对象（也必须是[`VertexDeclaration`](../vertexdeclaration)对象）是否具有相同的值。 |
-| [GetEnumerator](../../aspose.threed.utilities/vertexdeclaration/getenumerator)() | 获取枚举器以遍历此实例中的所有顶点字段。 |
+| [CompareTo](../../aspose.threed.utilities/vertexdeclaration/compareto)(VertexDeclaration) | 将此实例与指定对象进行比较，并返回它们相对值的指示。 |
+| override [Equals](../../aspose.threed.utilities/vertexdeclaration/equals)(object) | 判断这个实例是否和一个指定的对象，也必须是一个[`VertexDeclaration`](../vertexdeclaration)对象，具有相同的值。 |
+| [GetEnumerator](../../aspose.threed.utilities/vertexdeclaration/getenumerator)() | 获取一个枚举器以遍历此实例中的所有顶点字段。 |
 | override [GetHashCode](../../aspose.threed.utilities/vertexdeclaration/gethashcode)() | 返回此字符串的哈希码。 |
-| override [ToString](../../aspose.threed.utilities/vertexdeclaration/tostring)() | [`VertexDeclaration`](../vertexdeclaration) |
+| override [ToString](../../aspose.threed.utilities/vertexdeclaration/tostring)() | 的字符串表示[`VertexDeclaration`](../vertexdeclaration) |
 
 ### 也可以看看
 

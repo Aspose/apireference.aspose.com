@@ -1,14 +1,14 @@
 ---
 title: SetWeight
 second_title: Aspose.3D for .NET API 参考
-description: 设置指定目标的权重默认值为 1范围应在 01 之间
+description: 设置指定目标的权重默认值为1范围应在01之间
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.deformers/morphtargetchannel/setweight/
 ---
 ## MorphTargetChannel.SetWeight method
 
-设置指定目标的权重，默认值为 1，范围应在 0~1 之间
+设置指定目标的权重，默认值为1，范围应在0~1之间
 
 ```csharp
 public void SetWeight(Shape target, double weight = 1m)
@@ -16,8 +16,8 @@ public void SetWeight(Shape target, double weight = 1m)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 目标 | Shape |  |
-| 重量 | Double |  |
+| target | Shape |  |
+| weight | Double |  |
 
 ### 也可以看看
 

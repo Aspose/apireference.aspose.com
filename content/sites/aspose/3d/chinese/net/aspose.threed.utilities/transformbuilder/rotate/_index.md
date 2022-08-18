@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Aspose.3D for .NET API 参考
-description: 通过四元数链接旋转
+description: 用四元数链接旋转
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.utilities/transformbuilder/rotate/
 ---
 ## TransformBuilder.Rotate method
 
-通过四元数链接旋转
+用四元数链接旋转
 
 ```csharp
 public TransformBuilder Rotate(Quaternion q)

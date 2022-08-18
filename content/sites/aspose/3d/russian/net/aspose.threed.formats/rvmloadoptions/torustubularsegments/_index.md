@@ -1,14 +1,14 @@
 ---
 title: TorusTubularSegments
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает количество трубчатых сегментов тора значение по умолчанию 20
+description: Получает или задает количество трубчатых сегментов тора значение по умолчанию равно 20
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.formats/rvmloadoptions/torustubularsegments/
 ---
 ## RvmLoadOptions.TorusTubularSegments property
 
-Получает или задает количество трубчатых сегментов тора, значение по умолчанию 20
+Получает или задает количество трубчатых сегментов тора, значение по умолчанию равно 20
 
 ```csharp
 public int TorusTubularSegments { get; set; }

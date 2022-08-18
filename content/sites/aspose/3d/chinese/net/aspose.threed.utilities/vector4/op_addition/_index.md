@@ -1,14 +1,14 @@
 ---
 title: op_Addition
 second_title: Aspose.3D for .NET API 参考
-description: 运算符重载 for 
+description:  的运算符重载
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.utilities/vector4/op_addition/
 ---
 ## Vector4 Addition operator
 
-运算符重载 for +
++ 的运算符重载
 
 ```csharp
 public static Vector4 operator +(Vector4 lhs, Vector4 rhs)
@@ -17,7 +17,7 @@ public static Vector4 operator +(Vector4 lhs, Vector4 rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Vector4 | 左向量 |
-| rhs | Vector4 | 右向量 |
+| rhs | Vector4 | 正确的向量 |
 
 ### 返回值
 

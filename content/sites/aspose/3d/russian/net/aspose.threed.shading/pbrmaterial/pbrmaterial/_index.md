@@ -1,14 +1,14 @@
 ---
 title: PbrMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Создание экземпляра материала PBR по умолчанию
+description: Создать экземпляр материала PBR по умолчанию
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.shading/pbrmaterial/pbrmaterial/
 ---
 ## PbrMaterial() {#constructor}
 
-Создание экземпляра материала PBR по умолчанию
+Создать экземпляр материала PBR по умолчанию
 
 ```csharp
 public PbrMaterial()
@@ -24,7 +24,7 @@ public PbrMaterial()
 
 ## PbrMaterial(Color) {#constructor_1}
 
-Создайте материал PBR по умолчанию с указанным значением цвета альбедо.
+Создать материал PBR по умолчанию с указанным значением цвета альбедо.
 
 ```csharp
 public PbrMaterial(Color albedo)
@@ -32,7 +32,7 @@ public PbrMaterial(Color albedo)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| альбедо | Color | Значение цвета альбедо по умолчанию |
+| albedo | Color | Значение цвета альбедо по умолчанию |
 
 ### Смотрите также
 

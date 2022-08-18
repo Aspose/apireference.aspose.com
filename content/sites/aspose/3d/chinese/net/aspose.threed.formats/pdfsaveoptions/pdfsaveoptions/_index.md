@@ -1,14 +1,14 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: PdfSaveOptionsaspose.threed.formats/pdfsaveoptions
+description: 的构造函数PdfSaveOptionsaspose.threed.formats/pdfsaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/pdfsaveoptions/pdfsaveoptions/
 ---
 ## PdfSaveOptions constructor
 
-[`PdfSaveOptions`](../../pdfsaveoptions)
+的构造函数[`PdfSaveOptions`](../../pdfsaveoptions)
 
 ```csharp
 public PdfSaveOptions()

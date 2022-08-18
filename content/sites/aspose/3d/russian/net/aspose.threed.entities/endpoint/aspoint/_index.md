@@ -1,14 +1,14 @@
 ---
 title: AsPoint
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает конечную точку как декартову точку или создает исключение.
+description: Получает конечную точку как декартову точку или вызывает исключение.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.entities/endpoint/aspoint/
 ---
 ## EndPoint.AsPoint property
 
-Получает конечную точку как декартову точку или создает исключение.
+Получает конечную точку как декартову точку или вызывает исключение.
 
 ```csharp
 public Vector3 AsPoint { get; }

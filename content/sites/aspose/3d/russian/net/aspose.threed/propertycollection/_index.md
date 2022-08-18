@@ -3,7 +3,7 @@ title: PropertyCollection
 second_title: Справочник по Aspose.3D для .NET API
 description: Коллекция свойств
 type: docs
-weight: 1670
+weight: 1680
 url: /ru/net/aspose.threed/propertycollection/
 ---
 ## PropertyCollection class
@@ -27,7 +27,7 @@ public class PropertyCollection : IEnumerable<Property>
 | Имя | Описание |
 | --- | --- |
 | [FindProperty](../../aspose.threed/propertycollection/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
-| [GetEnumerator](../../aspose.threed/propertycollection/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| [GetEnumerator](../../aspose.threed/propertycollection/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 | [RemoveProperty](../../aspose.threed/propertycollection/removeproperty#removeproperty)(Property) | Удаляет динамическое свойство. |
 | [RemoveProperty](../../aspose.threed/propertycollection/removeproperty#removeproperty_1)(string) | Удаляет динамическое свойство. |
 

@@ -18,14 +18,14 @@ public class DracoSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [DracoSaveOptions](dracosaveoptions)() | Создайте конфигурацию по умолчанию для сохранения файлов draco. |
+| [DracoSaveOptions](dracosaveoptions)() | Создать конфигурацию по умолчанию для сохранения файлов draco. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ColorBits](../../aspose.threed.formats/dracosaveoptions/colorbits) { get; set; } | Биты квантования для цвета вершины, значение по умолчанию 10 |
-| [CompressionLevel](../../aspose.threed.formats/dracosaveoptions/compressionlevel) { get; set; } | Уровень сжатия, значение по умолчанию:Standard |
+| [ColorBits](../../aspose.threed.formats/dracosaveoptions/colorbits) { get; set; } | Биты квантования для цвета вершин, значение по умолчанию 10 |
+| [CompressionLevel](../../aspose.threed.formats/dracosaveoptions/compressionlevel) { get; set; } | Уровень сжатия, значение по умолчаниюStandard |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |

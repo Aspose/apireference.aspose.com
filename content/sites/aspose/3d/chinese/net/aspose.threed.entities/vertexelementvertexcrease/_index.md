@@ -18,7 +18,7 @@ public class VertexElementVertexCrease : VertexElementDoublesTemplate
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VertexElementVertexCrease](vertexelementvertexcrease)() | 初始化[`VertexElementVertexCrease`](../vertexelementvertexcrease)类的新实例。 |
+| [VertexElementVertexCrease](vertexelementvertexcrease)() | 初始化[`VertexElementVertexCrease`](../vertexelementvertexcrease)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public class VertexElementVertexCrease : VertexElementDoublesTemplate
 | [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | 获取或设置元素的映射方式。 |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | 获取或设置名称。 |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | 获取或设置元素的引用方式。 |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取[`VertexElement`](../vertexelement) |
+| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取类型[`VertexElement`](../vertexelement) |
 
 ## 方法
 

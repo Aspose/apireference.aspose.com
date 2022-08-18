@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Aspose.3D for .NET API 参考
-description: Vector2 的相等运算符
+description: Vector2 的等号运算符
 type: docs
 weight: 160
 url: /zh/net/aspose.threed.utilities/vector2/op_equality/
 ---
 ## Vector2 Equality operator
 
-Vector2 的相等运算符
+Vector2 的等号运算符
 
 ```csharp
 public static bool operator ==(Vector2 lhs, Vector2 rhs)
@@ -17,11 +17,11 @@ public static bool operator ==(Vector2 lhs, Vector2 rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Vector2 | 左侧值。 |
-| rhs | Vector2 | 右侧值。 |
+| rhs | Vector2 | 右手边的值。 |
 
 ### 返回值
 
-如果所有组件相同，则为真。
+如果所有组件完全相同，则为真。
 
 ### 也可以看看
 

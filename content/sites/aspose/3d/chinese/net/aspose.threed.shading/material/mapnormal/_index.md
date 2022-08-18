@@ -1,14 +1,14 @@
 ---
 title: MapNormal
 second_title: Aspose.3D for .NET API 参考
-description: 用在SetTextureaspose.threed.shading/material/settextureto分配一个正常的纹理映射
+description: 用于SetTextureaspose.threed.shading/material/settexture分配一个正常的纹理映射
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.shading/material/mapnormal/
 ---
 ## Material.MapNormal field
 
-用在[`SetTexture`](../settexture)to分配一个正常的纹理映射。
+用于[`SetTexture`](../settexture)分配一个正常的纹理映射。
 
 ```csharp
 public const string MapNormal;

@@ -1,14 +1,14 @@
 ---
 title: VertexField
 second_title: Aspose.3D for .NET API 参考
-description: Vertex 的字段内存布局说明
+description: Vertex 的场内存布局说明
 type: docs
-weight: 2690
+weight: 2680
 url: /zh/net/aspose.threed.utilities/vertexfield/
 ---
 ## VertexField class
 
-Vertex 的字段内存布局说明。
+Vertex 的场内存布局说明。
 
 ```csharp
 public class VertexField : IComparable<VertexField>
@@ -18,21 +18,21 @@ public class VertexField : IComparable<VertexField>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Alias](../../aspose.threed.utilities/vertexfield/alias) { get; } | 属性注释的别名[`SemanticAttribute`](../semanticattribute) |
+| [Alias](../../aspose.threed.utilities/vertexfield/alias) { get; } | 由属性注释的别名[`SemanticAttribute`](../semanticattribute) |
 | [DataType](../../aspose.threed.utilities/vertexfield/datatype) { get; } | 该字段的数据类型。 |
 | [Index](../../aspose.threed.utilities/vertexfield/index) { get; } | 该字段在顶点布局中的索引，语义相同。 |
 | [Offset](../../aspose.threed.utilities/vertexfield/offset) { get; } | 该字段的偏移量，以字节为单位。 |
 | [Semantic](../../aspose.threed.utilities/vertexfield/semantic) { get; } | 该字段的使用语义。 |
-| [Size](../../aspose.threed.utilities/vertexfield/size) { get; } | 该字段的字节大小 |
+| [Size](../../aspose.threed.utilities/vertexfield/size) { get; } | 此字段的大小（以字节为单位） |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CompareTo](../../aspose.threed.utilities/vertexfield/compareto)(VertexField) | 将此实例与指定对象进行比较并返回它们相对值的指示。 |
-| override [Equals](../../aspose.threed.utilities/vertexfield/equals)(object) | 确定此实例和指定对象（也必须是[`VertexField`](../vertexfield)对象）是否具有相同的值。 |
+| [CompareTo](../../aspose.threed.utilities/vertexfield/compareto)(VertexField) | 将此实例与指定对象进行比较，并返回它们相对值的指示。 |
+| override [Equals](../../aspose.threed.utilities/vertexfield/equals)(object) | 判断这个实例是否和一个指定的对象，它也必须是一个[`VertexField`](../vertexfield)对象，具有相同的值。 |
 | override [GetHashCode](../../aspose.threed.utilities/vertexfield/gethashcode)() | 返回此字符串的哈希码。 |
-| override [ToString](../../aspose.threed.utilities/vertexfield/tostring)() | 获取字符串表示 [`VertexField`](../vertexfield) |
+| override [ToString](../../aspose.threed.utilities/vertexfield/tostring)() | 获取字符串表示[`VertexField`](../vertexfield) |
 
 ### 也可以看看
 

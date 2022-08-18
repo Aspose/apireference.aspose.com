@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.3D для .NET API
-description: Возвращает строку представляющую текущийPropertyaspose.threed/property.
+description: Возвращает строку представляющую текущуюPropertyaspose.threed/property .
 type: docs
 weight: 60
 url: /ru/net/aspose.threed/property/tostring/
 ---
 ## Property.ToString method
 
-Возвращает строку, представляющую текущий[`Property`](../../property).
+Возвращает строку, представляющую текущую[`Property`](../../property) .
 
 ```csharp
 public override string ToString()

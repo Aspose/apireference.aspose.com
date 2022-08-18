@@ -3,7 +3,7 @@ title: Matrix4
 second_title: Справочник по Aspose.3D для .NET API
 description: Реализация матрицы 4x4.
 type: docs
-weight: 2570
+weight: 2560
 url: /ru/net/aspose.threed.utilities/matrix4/
 ---
 ## Matrix4 structure
@@ -18,10 +18,10 @@ public struct Matrix4
 
 | Имя | Описание |
 | --- | --- |
-| [Matrix4](matrix4#constructor_3)(double[]) | Инициализирует новый экземпляр структуры[`Matrix4`](../matrix4). |
-| [Matrix4](matrix4#constructor)(FMatrix4) | Создать[`Matrix4`](../matrix4)из[`FMatrix4`](../fmatrix4)instance |
+| [Matrix4](matrix4#constructor_3)(double[]) | Инициализирует новый экземпляр[`Matrix4`](../matrix4) структура. |
+| [Matrix4](matrix4#constructor)(FMatrix4) | Конструкт[`Matrix4`](../matrix4) из[`FMatrix4`](../fmatrix4) instance |
 | [Matrix4](matrix4#constructor_1)(Vector4, Vector4, Vector4, Vector4) | Создает матрицу из 4 строк. |
-| [Matrix4](matrix4#constructor_2)(double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double) | Инициализирует новый экземпляр структуры[`Matrix4`](../matrix4). |
+| [Matrix4](matrix4#constructor_2)(double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double) | Инициализирует новый экземпляр[`Matrix4`](../matrix4) структура. |
 
 ## Характеристики
 
@@ -37,19 +37,19 @@ public struct Matrix4
 | static [Rotate](../../aspose.threed.utilities/matrix4/rotate#rotate)(Quaternion) | Создать матрицу вращения из кватерниона |
 | static [Rotate](../../aspose.threed.utilities/matrix4/rotate#rotate_1)(double, Vector3) | Создать матрицу поворота по углу поворота и оси |
 | static [RotateFromEuler](../../aspose.threed.utilities/matrix4/rotatefromeuler#rotatefromeuler)(Vector3) | Создать матрицу вращения из угла Эйлера |
-| static [RotateFromEuler](../../aspose.threed.utilities/matrix4/rotatefromeuler#rotatefromeuler_1)(double, double, double) | Создайте матрицу вращения из угла Эйлера |
+| static [RotateFromEuler](../../aspose.threed.utilities/matrix4/rotatefromeuler#rotatefromeuler_1)(double, double, double) | Создать матрицу вращения из угла Эйлера |
 | static [Scale](../../aspose.threed.utilities/matrix4/scale#scale_1)(double) | Создает матрицу, которая масштабируется по оси x, оси y и оси z. |
 | static [Scale](../../aspose.threed.utilities/matrix4/scale#scale)(Vector3) | Создает матрицу, которая масштабируется по оси x, оси y и оси z. |
 | static [Scale](../../aspose.threed.utilities/matrix4/scale#scale_2)(double, double, double) | Создает матрицу, которая масштабируется по оси x, оси y и оси z. |
-| static [Translate](../../aspose.threed.utilities/matrix4/translate#translate)(Vector3) | Создает матрицу, которая перемещается вдоль оси x, оси y и оси z |
-| static [Translate](../../aspose.threed.utilities/matrix4/translate#translate_1)(double, double, double) | Создает матрицу, которая перемещается вдоль оси x, оси y и оси z |
-| [Concatenate](../../aspose.threed.utilities/matrix4/concatenate)(Matrix4) | Объединяет две матрицы |
+| static [Translate](../../aspose.threed.utilities/matrix4/translate#translate)(Vector3) | Создает матрицу, которая перемещается по оси x, оси y и оси z |
+| static [Translate](../../aspose.threed.utilities/matrix4/translate#translate_1)(double, double, double) | Создает матрицу, которая перемещается по оси x, оси y и оси z |
+| [Concatenate](../../aspose.threed.utilities/matrix4/concatenate)(Matrix4) | объединяет две матрицы |
 | [Decompose](../../aspose.threed.utilities/matrix4/decompose)(out Vector3, out Vector3, out Quaternion) |  |
 | [Inverse](../../aspose.threed.utilities/matrix4/inverse)() | Инвертирует этот экземпляр. |
 | [Normalize](../../aspose.threed.utilities/matrix4/normalize)() | Нормализует этот экземпляр. |
-| [SetTRS](../../aspose.threed.utilities/matrix4/settrs)(Vector3, Vector3, Vector3) | Инициализирует матрицу с перемещением/поворотом/масштабом |
+| [SetTRS](../../aspose.threed.utilities/matrix4/settrs)(Vector3, Vector3, Vector3) | Инициализирует матрицу с перемещением/вращением/масштабом |
 | [ToArray](../../aspose.threed.utilities/matrix4/toarray)() | Преобразует матрицу в массив. |
-| override [ToString](../../aspose.threed.utilities/matrix4/tostring)() | ВозвращаетString, представляющий текущий[`Matrix4`](../matrix4). |
+| override [ToString](../../aspose.threed.utilities/matrix4/tostring)() | ВозвращаетStringкоторый представляет текущий[`Matrix4`](../matrix4) . |
 | [Transpose](../../aspose.threed.utilities/matrix4/transpose)() | Транспонирует этот экземпляр. |
 | [operator *](../../aspose.threed.utilities/matrix4/op_multiply#op_multiply) | Умножьте две матрицы (4 operators) |
 
@@ -57,22 +57,22 @@ public struct Matrix4
 
 | Имя | Описание |
 | --- | --- |
-| [m00](../../aspose.threed.utilities/matrix4/m00) | Файл m00. |
-| [m01](../../aspose.threed.utilities/matrix4/m01) | Файл m01. |
-| [m02](../../aspose.threed.utilities/matrix4/m02) | Файл m02. |
-| [m03](../../aspose.threed.utilities/matrix4/m03) | Файл m03. |
-| [m10](../../aspose.threed.utilities/matrix4/m10) | М10. |
-| [m11](../../aspose.threed.utilities/matrix4/m11) | M11. |
-| [m12](../../aspose.threed.utilities/matrix4/m12) | M12. |
-| [m13](../../aspose.threed.utilities/matrix4/m13) | M13. |
-| [m20](../../aspose.threed.utilities/matrix4/m20) | М20. |
-| [m21](../../aspose.threed.utilities/matrix4/m21) | M21. |
-| [m22](../../aspose.threed.utilities/matrix4/m22) | M22. |
-| [m23](../../aspose.threed.utilities/matrix4/m23) | M23. |
-| [m30](../../aspose.threed.utilities/matrix4/m30) | М30. |
-| [m31](../../aspose.threed.utilities/matrix4/m31) | M31. |
-| [m32](../../aspose.threed.utilities/matrix4/m32) | M32. |
-| [m33](../../aspose.threed.utilities/matrix4/m33) | M33. |
+| [m00](../../aspose.threed.utilities/matrix4/m00) | m00. |
+| [m01](../../aspose.threed.utilities/matrix4/m01) | m01. |
+| [m02](../../aspose.threed.utilities/matrix4/m02) | m02. |
+| [m03](../../aspose.threed.utilities/matrix4/m03) | m03. |
+| [m10](../../aspose.threed.utilities/matrix4/m10) | m10. |
+| [m11](../../aspose.threed.utilities/matrix4/m11) | m11. |
+| [m12](../../aspose.threed.utilities/matrix4/m12) | m12. |
+| [m13](../../aspose.threed.utilities/matrix4/m13) | m13. |
+| [m20](../../aspose.threed.utilities/matrix4/m20) | m20. |
+| [m21](../../aspose.threed.utilities/matrix4/m21) | m21. |
+| [m22](../../aspose.threed.utilities/matrix4/m22) | m22. |
+| [m23](../../aspose.threed.utilities/matrix4/m23) | m23. |
+| [m30](../../aspose.threed.utilities/matrix4/m30) | m30. |
+| [m31](../../aspose.threed.utilities/matrix4/m31) | m31. |
+| [m32](../../aspose.threed.utilities/matrix4/m32) | m32. |
+| [m33](../../aspose.threed.utilities/matrix4/m33) | m33. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: AMF
 second_title: Справочник по Aspose.3D для .NET API
-description: Формат файла для аддитивного производства
+description: Формат файла аддитивного производства
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/fileformat/amf/
 ---
 ## FileFormat.AMF field
 
-Формат файла для аддитивного производства
+Формат файла аддитивного производства
 
 ```csharp
 public static readonly FileFormat AMF;

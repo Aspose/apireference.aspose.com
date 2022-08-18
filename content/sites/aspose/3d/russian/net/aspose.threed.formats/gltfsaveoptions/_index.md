@@ -25,22 +25,22 @@ public class GltfSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [BufferFile](../../aspose.threed.formats/gltfsaveoptions/bufferfile) { get; set; } | Имя файла внешнего буфера, используемого для хранения двоичных данных. Если этот файл не указан, Aspose.3D сгенерирует для вас имя. Это игнорируется при экспорте glTF в двоичном режиме. |
+| [BufferFile](../../aspose.threed.formats/gltfsaveoptions/bufferfile) { get; set; } | Имя файла внешнего буфера, используемого для хранения двоичных данных. Если этот файл не указан, Aspose.3D сгенерирует для вас имя. Игнорируется при экспорте glTF в двоичном режиме. |
 | [DracoCompression](../../aspose.threed.formats/gltfsaveoptions/dracocompression) { get; set; } | Получает или задает, следует ли включить сжатие draco |
-| [EmbedAssets](../../aspose.threed.formats/gltfsaveoptions/embedassets) { get; set; } | Встроить все внешние активы как base64 в один файл в режиме ASCII, значение по умолчанию - false. |
+| [EmbedAssets](../../aspose.threed.formats/gltfsaveoptions/embedassets) { get; set; } | Встроить все внешние активы в формате base64 в один файл в режиме ASCII, значение по умолчанию — false. |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
 | [ExternalDracoEncoder](../../aspose.threed.formats/gltfsaveoptions/externaldracoencoder) { get; set; } | Используйте внешний кодировщик draco для увеличения скорости сжатия draco. |
-| [FallbackNormal](../../aspose.threed.formats/gltfsaveoptions/fallbacknormal) { get; set; } | Когда экспортер GLTF2 обнаружит недопустимую нормаль, она будет использоваться вместо исходного значения для обхода проверки. Значение по умолчанию:(0, 1, 0) |
+| [FallbackNormal](../../aspose.threed.formats/gltfsaveoptions/fallbacknormal) { get; set; } | Когда экспортер GLTF2 обнаружит недопустимую нормаль, она будет использоваться вместо исходного значения для обхода проверки. Значение по умолчанию: (0, 1, 0) |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
 | [FlipTexCoordV](../../aspose.threed.formats/gltfsaveoptions/fliptexcoordv) { get; set; } | Отразить компонент координаты текстуры v(t), значение по умолчанию равно true. |
-| [ImageFormat](../../aspose.threed.formats/gltfsaveoptions/imageformat) { get; set; } | Стандартный glTF поддерживает только PNG/JPG в качестве формата текстуры, эта опция определяет, как Aspose.3D конвертировать нестандартные изображения в поддерживаемые формат во время экспорта. Значение по умолчанию:Png |
+| [ImageFormat](../../aspose.threed.formats/gltfsaveoptions/imageformat) { get; set; } | Стандартный glTF поддерживает только PNG/JPG в качестве формата текстуры, этот параметр определяет, как Aspose.3D преобразовывает нестандартные изображения в поддерживаемый формат во время экспорта. Значение по умолчанию:Png |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
-| [MaterialConverter](../../aspose.threed.formats/gltfsaveoptions/materialconverter) { get; set; } | Пользовательский преобразователь для преобразования материала геометрии в материал PBR Если не назначен, экспортер glTF 2.0 автоматически преобразует стандартный материал в материал PBR. Значение по умолчанию — null Это свойство используется при экспорте сцены в файл glTF 2.0. |
+| [MaterialConverter](../../aspose.threed.formats/gltfsaveoptions/materialconverter) { get; set; } | Пользовательский преобразователь для преобразования материала геометрии в материал PBR Если этот параметр не назначен, программа экспорта glTF 2.0 автоматически преобразует стандартный материал в материал PBR. Значение по умолчанию — null Это свойство используется при экспорте сцены в файл glTF 2.0. |
 | [PrettyPrint](../../aspose.threed.formats/gltfsaveoptions/prettyprint) { get; set; } | Содержимое файла GLTF в формате JSON имеет отступ для чтения человеком, значение по умолчанию — false |
-| [SaveExtras](../../aspose.threed.formats/gltfsaveoptions/saveextras) { get; set; } | Сохранить динамические свойства объекта сцены в «дополнительных» полях в сгенерированном файле glTF. Это полезно для предоставления данных, специфичных для приложения. Значение по умолчанию — false. |
-| [UseCommonMaterials](../../aspose.threed.formats/gltfsaveoptions/usecommonmaterials) { get; set; } | Сериализировать материалы с использованием общих расширений материалов KHR, значение по умолчанию — false. Установка значения false приведет к тому, что Aspose.3D экспортирует набор вершинных/фрагментных шейдеров, еслиExportShaders |
+| [SaveExtras](../../aspose.threed.formats/gltfsaveoptions/saveextras) { get; set; } | Сохранение динамических свойств объекта сцены в «дополнительных» полях сгенерированного файла glTF. Это полезно для предоставления данных, специфичных для приложения. Значение по умолчанию — false. |
+| [UseCommonMaterials](../../aspose.threed.formats/gltfsaveoptions/usecommonmaterials) { get; set; } | Сериализация материалов с использованием общих расширений материалов KHR, значение по умолчанию — false.ExportShaders |
 
 ### Смотрите также
 

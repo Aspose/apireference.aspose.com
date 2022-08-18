@@ -1,14 +1,14 @@
 ---
 title: KeyFrame
 second_title: Aspose.3D for .NET API 参考
-description: 关键帧主要由时间和值定义对于某些插值类型计算最终采样值时还使用切线/张力/偏差/连续性 非关键帧时间位置的采样值由前一个和下一个关键帧之间的关键帧插值 第一个/最后一个关键帧之前/之后的值由Extrapolation./extrapolation类计算
+description: 一个关键帧主要由一个时间和一个值来定义对于一些插值类型通过计算最终的采样值也使用切线/张力/偏差/连续性 在非关键帧时间位置的采样值被插值通过前一个和下一个关键帧之间的关键帧 第一个/最后一个关键帧之前/之后的值由Extrapolation./extrapolation类.
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.animation/keyframe/
 ---
 ## KeyFrame class
 
-关键帧主要由时间和值定义，对于某些插值类型，计算最终采样值时还使用切线/张力/偏差/连续性。 非关键帧时间位置的采样值由前一个和下一个关键帧之间的关键帧插值 第一个/最后一个关键帧之前/之后的值由[`Extrapolation`](../extrapolation)类计算。
+一个关键帧主要由一个时间和一个值来定义，对于一些插值类型，通过计算最终的采样值也使用切线/张力/偏差/连续性。 在非关键帧时间位置的采样值被插值通过前一个和下一个关键帧之间的关键帧 第一个/最后一个关键帧之前/之后的值由[`Extrapolation`](../extrapolation)类.
 
 ```csharp
 public class KeyFrame
@@ -18,25 +18,25 @@ public class KeyFrame
 
 | 姓名 | 描述 |
 | --- | --- |
-| [KeyFrame](keyframe)(KeyframeSequence, double) | 在指定曲线上新建关键帧 |
+| [KeyFrame](keyframe)(KeyframeSequence, double) | 在指定的曲线上创建一个新的关键帧 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Bias](../../aspose.threed.animation/keyframe/bias) { get; set; } | 获取或设置 TCB 样条中使用的偏差 |
-| [Continuity](../../aspose.threed.animation/keyframe/continuity) { get; set; } | 获取或设置 TCB 样条中使用的连续性 |
-| [Flat](../../aspose.threed.animation/keyframe/flat) { get; set; } | 获取或设置关键帧是否平坦。 如果下一个或上一个关键帧具有相同的值，则关键帧应该是平坦的。 平面关键帧具有平面切线和固定插值。 |
-| [IndependentTangent](../../aspose.threed.animation/keyframe/independenttangent) { get; set; } | 获取或设置切线的 out 和 next 是独立的。 |
+| [Bias](../../aspose.threed.animation/keyframe/bias) { get; set; } | 获取或设置 TCB spline 中使用的偏差 |
+| [Continuity](../../aspose.threed.animation/keyframe/continuity) { get; set; } | 获取或设置 TCB spline 中使用的连续性 |
+| [Flat](../../aspose.threed.animation/keyframe/flat) { get; set; } | 如果关键帧是平坦的，则获取或设置。 如果下一个或上一个关键帧具有相同的值，则关键帧应该是平坦的。 平坦的关键帧具有平坦的切线和固定的插值。 |
+| [IndependentTangent](../../aspose.threed.animation/keyframe/independenttangent) { get; set; } | 获取或设置切线的out和next是独立的。 |
 | [Interpolation](../../aspose.threed.animation/keyframe/interpolation) { get; set; } | 获取或设置key的插值类型，list.data[index]定义了如何计算采样值的算法。 |
 | [NextInTangent](../../aspose.threed.animation/keyframe/nextintangent) { get; set; } | 获取或设置此关键帧上的下一个入（左）切线。 |
-| [NextInWeight](../../aspose.threed.animation/keyframe/nextinweight) { get; set; } | 获取或设置此关键帧上的下一个 in(left) 权重。 |
+| [NextInWeight](../../aspose.threed.animation/keyframe/nextinweight) { get; set; } | 获取或设置此关键帧上的下一个（左）权重。 |
 | [OutTangent](../../aspose.threed.animation/keyframe/outtangent) { get; set; } | 获取或设置此关键帧上的外（右）切线。 |
-| [OutWeight](../../aspose.threed.animation/keyframe/outweight) { get; set; } | 获取或设置此关键帧的出（右）权重。 |
-| [StepMode](../../aspose.threed.animation/keyframe/stepmode) { get; set; } | 获取或设置键的步进模式。 如果插值类型是Constant， list.data[index] 决定插值过程中使用哪个关键帧的值。 APreviousValue表示将使用左关键帧的值 ANextValue表示将使用下一个右关键帧的值 |
-| [TangentWeightMode](../../aspose.threed.animation/keyframe/tangentweightmode) { get; set; } | 获取或设置键的切线权重模式。 可以通过选择正确来自定义出切线或下一个入切线 [`WeightedMode`](../weightedmode) |
-| [Tension](../../aspose.threed.animation/keyframe/tension) { get; set; } | 获取或设置 TCB 样条中使用的张力 |
-| [Time](../../aspose.threed.animation/keyframe/time) { get; set; } | 获取或设置 list.data[index] 关键帧的时间位置，以秒为单位。 |
+| [OutWeight](../../aspose.threed.animation/keyframe/outweight) { get; set; } | 获取或设置此关键帧的输出（右）权重。 |
+| [StepMode](../../aspose.threed.animation/keyframe/stepmode) { get; set; } | 获取或设置键的步进模式。 如果插值类型为Constant list.data[index] 决定在插值过程中将使用哪个关键帧的值。 一个PreviousValue表示将使用左关键帧的值 ANextValue表示将使用下一个右关键帧的值 |
+| [TangentWeightMode](../../aspose.threed.animation/keyframe/tangentweightmode) { get; set; } | 获取或设置key的切线权重模式。 可以通过选择正确自定义out tangent或next in tangent[`WeightedMode`](../weightedmode) |
+| [Tension](../../aspose.threed.animation/keyframe/tension) { get; set; } | 获取或设置 TCB spline 中使用的张力 |
+| [Time](../../aspose.threed.animation/keyframe/time) { get; set; } | 获取或设置list.data[index]关键帧的时间位置，以秒为单位。 |
 | [TimeIndependentTangent](../../aspose.threed.animation/keyframe/timeindependenttangent) { get; set; } | 获取或设置与时间无关的切线 |
 | [Value](../../aspose.threed.animation/keyframe/value) { get; set; } | 获取或设置关键帧的值。 |
 
@@ -44,7 +44,7 @@ public class KeyFrame
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.threed.animation/keyframe/tostring)() | 获取关键帧的字符串表示 |
+| override [ToString](../../aspose.threed.animation/keyframe/tostring)() | 获取关键帧的字符串表示形式 |
 
 ### 也可以看看
 

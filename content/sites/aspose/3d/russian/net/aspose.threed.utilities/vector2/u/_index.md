@@ -1,14 +1,14 @@
 ---
 title: U
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает компонент U еслиVector2aspose.threed.utilities/vector2используется в качестве координат сопоставления. Псевдоним компонента x.
+description: Получает или задает компонент U еслиVector2aspose.threed.utilities/vector2 используется как координата отображения. Это псевдоним компонента x.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.utilities/vector2/u/
 ---
 ## Vector2.U property
 
-Получает или задает компонент U, если[`Vector2`](../../vector2)используется в качестве координат сопоставления. Псевдоним компонента x.
+Получает или задает компонент U, если[`Vector2`](../../vector2) используется как координата отображения. Это псевдоним компонента x.
 
 ```csharp
 public double U { get; set; }

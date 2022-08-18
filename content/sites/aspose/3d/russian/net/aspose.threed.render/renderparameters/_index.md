@@ -1,14 +1,14 @@
 ---
 title: RenderParameters
 second_title: Справочник по Aspose.3D для .NET API
-description: Описать параметры render target
+description: Описать параметры рендера target
 type: docs
-weight: 2040
+weight: 2050
 url: /ru/net/aspose.threed.render/renderparameters/
 ---
 ## RenderParameters class
 
-Описать параметры render target
+Описать параметры рендера target
 
 ```csharp
 public class RenderParameters

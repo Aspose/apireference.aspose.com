@@ -1,14 +1,14 @@
 ---
 title: A3DObject
 second_title: Aspose.3D for .NET API 参考
-description: 初始化A3DObjectaspose.threed/a3dobject类的新实例
+description: 初始化A3DObjectaspose.threed/a3dobject类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed/a3dobject/a3dobject/
 ---
 ## A3DObject(string) {#constructor_1}
 
-初始化[`A3DObject`](../../a3dobject)类的新实例。
+初始化[`A3DObject`](../../a3dobject)类.
 
 ```csharp
 public A3DObject(string name)
@@ -16,7 +16,7 @@ public A3DObject(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public A3DObject(string name)
 
 ## A3DObject() {#constructor}
 
-初始化[`A3DObject`](../../a3dobject)类的新实例，没有名称。
+初始化[`A3DObject`](../../a3dobject)没有名字的类。
 
 ```csharp
 public A3DObject()

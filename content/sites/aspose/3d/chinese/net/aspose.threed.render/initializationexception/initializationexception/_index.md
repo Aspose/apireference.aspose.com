@@ -1,14 +1,14 @@
 ---
 title: InitializationException
 second_title: Aspose.3D for .NET API 参考
-description: 初始化InitializationExceptionaspose.threed.render/initializationexception实例
+description: 初始化一个InitializationExceptionaspose.threed.render/initializationexception instance
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/initializationexception/initializationexception/
 ---
 ## InitializationException() {#constructor}
 
-初始化[`InitializationException`](../../initializationexception)实例
+初始化一个[`InitializationException`](../../initializationexception) instance
 
 ```csharp
 public InitializationException()
@@ -24,7 +24,7 @@ public InitializationException()
 
 ## InitializationException(string) {#constructor_1}
 
-使用指定的异常消息初始化[`InitializationException`](../../initializationexception)实例。
+初始化一个[`InitializationException`](../../initializationexception)具有指定异常消息的实例。
 
 ```csharp
 public InitializationException(string msg)

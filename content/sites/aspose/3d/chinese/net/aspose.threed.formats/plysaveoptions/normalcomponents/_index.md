@@ -1,14 +1,14 @@
 ---
 title: NormalComponents
 second_title: Aspose.3D for .NET API 参考
-description: 普通数据的组件名称默认值为 nx ny nz
+description: 普通数据的组件名称默认值为nxnynz
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.formats/plysaveoptions/normalcomponents/
 ---
 ## PlySaveOptions.NormalComponents property
 
-普通数据的组件名称，默认值为 ("nx", "ny", "nz")
+普通数据的组件名称，默认值为（“nx”，“ny”，“nz”）
 
 ```csharp
 public Tuple<string, string, string> NormalComponents { get; set; }

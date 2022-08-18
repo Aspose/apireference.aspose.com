@@ -1,14 +1,14 @@
 ---
 title: CreationTime
 second_title: Aspose.3D for .NET API 参考
-description: 导出该文件的时间戳默认值为当前时间
+description: 导出该文件的时间戳默认为当前时间
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.formats/rvmsaveoptions/creationtime/
 ---
 ## RvmSaveOptions.CreationTime property
 
-导出该文件的时间戳，默认值为当前时间
+导出该文件的时间戳，默认为当前时间
 
 ```csharp
 public string CreationTime { get; set; }

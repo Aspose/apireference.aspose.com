@@ -1,14 +1,14 @@
 ---
 title: MatrixWorldViewProjection
 second_title: Справочник по Aspose.3D для .NET API
-description: Матрица для преобразования мировоззрения и проекции
+description: Матрица преобразования мировоззрения и проекции
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.render/renderervariablemanager/matrixworldviewprojection/
 ---
 ## RendererVariableManager.MatrixWorldViewProjection property
 
-Матрица для преобразования мировоззрения и проекции
+Матрица преобразования мировоззрения и проекции
 
 ```csharp
 public FMatrix4 MatrixWorldViewProjection { get; }

@@ -1,14 +1,14 @@
 ---
 title: BoundingBox
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализировать конечный ограничивающий прямоугольник с заданным минимальным и максимальным углом
+description: Инициализировать конечную ограничивающую рамку с заданным минимальным и максимальным значением угла
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/boundingbox/boundingbox/
 ---
 ## BoundingBox(Vector3, Vector3) {#constructor}
 
-Инициализировать конечный ограничивающий прямоугольник с заданным минимальным и максимальным углом
+Инициализировать конечную ограничивающую рамку с заданным минимальным и максимальным значением угла
 
 ```csharp
 public BoundingBox(Vector3 minimum, Vector3 maximum)
@@ -30,7 +30,7 @@ public BoundingBox(Vector3 minimum, Vector3 maximum)
 
 ## BoundingBox(double, double, double, double, double, double) {#constructor_1}
 
-Инициализировать конечный ограничивающий прямоугольник с заданным минимальным и максимальным углом
+Инициализировать конечную ограничивающую рамку с заданным минимальным и максимальным значением угла
 
 ```csharp
 public BoundingBox(double minX, double minY, double minZ, double maxX, double maxY, double maxZ)

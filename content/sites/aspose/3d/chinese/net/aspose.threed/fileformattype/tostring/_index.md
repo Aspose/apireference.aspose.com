@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-AString表示当前`ToString`。
+一个String代表当前`ToString`.
 
 ### 也可以看看
 

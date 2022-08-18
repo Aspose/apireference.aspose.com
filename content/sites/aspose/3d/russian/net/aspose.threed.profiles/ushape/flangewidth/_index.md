@@ -1,14 +1,14 @@
 ---
 title: FlangeWidth
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает длину фланца.
+description: Получает или задает длину полки.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.profiles/ushape/flangewidth/
 ---
 ## UShape.FlangeWidth property
 
-Получает или задает длину фланца.
+Получает или задает длину полки.
 
 ```csharp
 public double FlangeWidth { get; set; }

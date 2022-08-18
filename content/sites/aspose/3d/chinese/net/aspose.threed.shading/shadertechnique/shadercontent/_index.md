@@ -1,14 +1,14 @@
 ---
 title: ShaderContent
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置嵌入式着色器脚本的内容 可能是 HLSL/GLSL 着色器源文件
+description: 获取或设置嵌入式着色器脚本的内容 可以是 HLSL/GLSL 着色器源文件
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.shading/shadertechnique/shadercontent/
 ---
 ## ShaderTechnique.ShaderContent property
 
-获取或设置嵌入式着色器脚本的内容。 可能是 HLSL/GLSL 着色器源文件。
+获取或设置嵌入式着色器脚本的内容。 可以是 HLSL/GLSL 着色器源文件。
 
 ```csharp
 public byte[] ShaderContent { get; set; }

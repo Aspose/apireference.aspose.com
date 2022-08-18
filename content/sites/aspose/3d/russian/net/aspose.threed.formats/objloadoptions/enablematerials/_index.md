@@ -1,14 +1,14 @@
 ---
 title: EnableMaterials
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает импортируются ли материалы для каждого объекта
+description: Получает или задает нужно ли импортировать материалы для каждого объекта
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/objloadoptions/enablematerials/
 ---
 ## ObjLoadOptions.EnableMaterials property
 
-Получает или устанавливает, импортируются ли материалы для каждого объекта
+Получает или задает, нужно ли импортировать материалы для каждого объекта
 
 ```csharp
 public bool EnableMaterials { get; set; }

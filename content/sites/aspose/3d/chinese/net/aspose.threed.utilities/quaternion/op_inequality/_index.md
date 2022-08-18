@@ -16,8 +16,8 @@ public static bool operator !=(Quaternion lhs, Quaternion rhs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lhs | Quaternion | 左侧值. |
-| rhs | Quaternion | 右侧值。 |
+| lhs | Quaternion | 左侧值。 |
+| rhs | Quaternion | 右手边的值。 |
 
 ### 返回值
 

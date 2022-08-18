@@ -1,14 +1,14 @@
 ---
 title: ToDegree
 second_title: Справочник по Aspose.3D для .NET API
-description: ПреобразованиеVector3aspose.threed.utilities/vector3из радианов в градусы.
+description: КонвертироватьVector3aspose.threed.utilities/vector3 от радиана до градуса.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/mathutils/todegree/
 ---
 ## ToDegree(Vector3) {#todegree}
 
-Преобразование[`Vector3`](../../vector3)из радианов в градусы.
+Конвертировать[`Vector3`](../../vector3) от радиана до градуса.
 
 ```csharp
 public static Vector3 ToDegree(Vector3 radian)
@@ -16,11 +16,11 @@ public static Vector3 ToDegree(Vector3 radian)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| радиан | Vector3 | Значение в радианах. |
+| radian | Vector3 | Значение радиана. |
 
 ### Возвращаемое значение
 
-Значение градуса.
+Значение степени.
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ public static Vector3 ToDegree(Vector3 radian)
 
 ## ToDegree(float) {#todegree_3}
 
-Преобразование числа из радиана в градус
+Преобразование числа из радиана в градусы
 
 ```csharp
 public static float ToDegree(float radian)
@@ -41,11 +41,11 @@ public static float ToDegree(float radian)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| радиан | Single | Значение в радианах . |
+| radian | Single | Значение радиана. |
 
 ### Возвращаемое значение
 
-Значение градуса.
+Значение степени.
 
 ### Смотрите также
 
@@ -57,7 +57,7 @@ public static float ToDegree(float radian)
 
 ## ToDegree(double) {#todegree_2}
 
-Преобразование числа из радиана в градус
+Преобразование числа из радиана в градусы
 
 ```csharp
 public static double ToDegree(double radian)
@@ -65,11 +65,11 @@ public static double ToDegree(double radian)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| радиан | Double | Значение в радианах . |
+| radian | Double | Значение радиана. |
 
 ### Возвращаемое значение
 
-Значение градуса.
+Значение степени.
 
 ### Смотрите также
 
@@ -89,13 +89,13 @@ public static Vector3 ToDegree(double x, double y, double z)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Компонент x в радианном значении. |
+| x | Double | Компонент x в радианах. |
 | y | Double | Компонент y в радианах. |
 | z | Double | Компонент z в радианах. |
 
 ### Возвращаемое значение
 
-Значение градуса.
+Значение степени.
 
 ### Смотрите также
 

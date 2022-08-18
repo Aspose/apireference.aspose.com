@@ -1,14 +1,14 @@
 ---
 title: DriverException
 second_title: Aspose.3D for .NET API 参考
-description: 使用指定的本机驱动程序错误代码和消息初始化DriverExceptionaspose.threed.render/driverexception的实例
+description: 初始化一个实例DriverExceptionaspose.threed.render/driverexception带有指定的本机驱动程序错误代码和消息
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/driverexception/driverexception/
 ---
 ## DriverException constructor
 
-使用指定的本机驱动程序错误代码和消息初始化[`DriverException`](../../driverexception)的实例。
+初始化一个实例[`DriverException`](../../driverexception)带有指定的本机驱动程序错误代码和消息。
 
 ```csharp
 public DriverException(uint code, string message)

@@ -3,7 +3,7 @@ title: CompareFunction
 second_title: Aspose.3D for .NET API 参考
 description: 深度/模板测试中使用的比较函数
 type: docs
-weight: 1700
+weight: 1710
 url: /zh/net/aspose.threed.render/comparefunction/
 ---
 ## CompareFunction enumeration

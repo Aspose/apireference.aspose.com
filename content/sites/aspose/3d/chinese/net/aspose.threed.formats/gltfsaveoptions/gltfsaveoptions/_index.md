@@ -1,14 +1,14 @@
 ---
 title: GltfSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: 的构造函数 GltfSaveOptionsaspose.threed.formats/gltfsaveoptions
+description: 的构造函数GltfSaveOptionsaspose.threed.formats/gltfsaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/gltfsaveoptions/
 ---
 ## GltfSaveOptions(FileContentType) {#constructor}
 
-的构造函数 [`GltfSaveOptions`](../../gltfsaveoptions)
+的构造函数[`GltfSaveOptions`](../../gltfsaveoptions)
 
 ```csharp
 public GltfSaveOptions(FileContentType contentType)
@@ -29,7 +29,7 @@ public GltfSaveOptions(FileContentType contentType)
 
 ## GltfSaveOptions(FileFormat) {#constructor_1}
 
-的构造函数 [`GltfSaveOptions`](../../gltfsaveoptions)
+的构造函数[`GltfSaveOptions`](../../gltfsaveoptions)
 
 ```csharp
 public GltfSaveOptions(FileFormat format)

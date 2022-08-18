@@ -20,7 +20,7 @@ public Property FindProperty(string propertyName)
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: VertexElementMaterial
 second_title: Aspose.3D for .NET API 参考
-description: 定义指定组件的材料索引 一个节点可以有多种材质VertexElementMaterial./vertexelementmaterial用于渲染几何的不同部分材料
+description: 定义指定组件的材质索引 一个节点可以有多种材质VertexElementMaterial./vertexelementmaterial用于在不同材质中渲染几何的不同部分
 type: docs
 weight: 820
 url: /zh/net/aspose.threed.entities/vertexelementmaterial/
 ---
 ## VertexElementMaterial class
 
-定义指定组件的材料索引。 一个节点可以有多种材质，[`VertexElementMaterial`](../vertexelementmaterial)用于渲染几何的不同部分材料。
+定义指定组件的材质索引。 一个节点可以有多种材质，[`VertexElementMaterial`](../vertexelementmaterial)用于在不同材质中渲染几何的不同部分。
 
 ```csharp
 public class VertexElementMaterial : VertexElement
@@ -18,7 +18,7 @@ public class VertexElementMaterial : VertexElement
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VertexElementMaterial](vertexelementmaterial)() | 初始化[`VertexElementMaterial`](../vertexelementmaterial)类的新实例。 |
+| [VertexElementMaterial](vertexelementmaterial)() | 初始化[`VertexElementMaterial`](../vertexelementmaterial)类. |
 
 ## 特性
 
@@ -28,7 +28,7 @@ public class VertexElementMaterial : VertexElement
 | [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | 获取或设置元素的映射方式。 |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | 获取或设置名称。 |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | 获取或设置元素的引用方式。 |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取[`VertexElement`](../vertexelement) |
+| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取类型[`VertexElement`](../vertexelement) |
 
 ## 方法
 

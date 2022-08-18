@@ -1,14 +1,14 @@
 ---
 title: AddBinding
 second_title: Справочник по Aspose.3D для .NET API
-description: Связывает динамическое свойство с параметром шейдера
+description: Привязывает динамическое свойство к параметру шейдера
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.shading/shadertechnique/addbinding/
 ---
 ## ShaderTechnique.AddBinding method
 
-Связывает динамическое свойство с параметром шейдера
+Привязывает динамическое свойство к параметру шейдера
 
 ```csharp
 public void AddBinding(string property, string shaderParameter)
@@ -16,7 +16,7 @@ public void AddBinding(string property, string shaderParameter)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| property | String | Имя динамическое свойство. |
+| property | String | Имя динамического свойства. |
 | shaderParameter | String | Имя параметра шейдера. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: ShaderSet
 second_title: Aspose.3D for .NET API 参考
-description: 构造ShaderSetaspose.threed.render/shaderset
+description: 构造实例ShaderSetaspose.threed.render/shaderset
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/shaderset/shaderset/
 ---
 ## ShaderSet constructor
 
-构造[`ShaderSet`](../../shaderset)
+构造实例[`ShaderSet`](../../shaderset)
 
 ```csharp
 public ShaderSet()

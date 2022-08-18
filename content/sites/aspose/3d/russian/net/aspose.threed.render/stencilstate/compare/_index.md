@@ -1,14 +1,14 @@
 ---
 title: Compare
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает функцию сравнения используемую в тесте трафарета
+description: Получает или задает функцию сравнения используемую в тесте шаблона
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/stencilstate/compare/
 ---
 ## StencilState.Compare property
 
-Получает или задает функцию сравнения, используемую в тесте трафарета
+Получает или задает функцию сравнения, используемую в тесте шаблона
 
 ```csharp
 public CompareFunction Compare { get; set; }

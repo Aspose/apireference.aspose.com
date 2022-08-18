@@ -1,14 +1,14 @@
 ---
 title: InnerRadius
 second_title: Справочник по Aspose.3D для .NET API
-description: Внутренний радиус прямоугольного тора Значение по умолчанию17
+description: Внутренний радиус прямоугольного тора Значение по умолчанию 17
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.entities/rectangulartorus/innerradius/
 ---
 ## RectangularTorus.InnerRadius property
 
-Внутренний радиус прямоугольного тора Значение по умолчанию:17
+Внутренний радиус прямоугольного тора Значение по умолчанию: 17
 
 ```csharp
 public double InnerRadius { get; set; }

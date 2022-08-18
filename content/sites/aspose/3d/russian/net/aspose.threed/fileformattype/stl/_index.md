@@ -1,14 +1,14 @@
 ---
 title: STL
 second_title: Справочник по Aspose.3D для .NET API
-description: Тип формата файла STL
+description: Формат файла STL type
 type: docs
 weight: 170
 url: /ru/net/aspose.threed/fileformattype/stl/
 ---
 ## FileFormatType.STL field
 
-Тип формата файла STL
+Формат файла STL type
 
 ```csharp
 public static readonly FileFormatType STL;

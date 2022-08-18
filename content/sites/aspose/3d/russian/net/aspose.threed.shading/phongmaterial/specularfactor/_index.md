@@ -1,14 +1,14 @@
 ---
 title: SpecularFactor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает коэффициент отражения. Формула отражения SpecularColor  SpecularFactor  N dot H  Блеск
+description: Получает или задает коэффициент отражения. Формула отражения SpecularColor  SpecularFactor  N dot H  Shininess
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.shading/phongmaterial/specularfactor/
 ---
 ## PhongMaterial.SpecularFactor property
 
-Получает или задает коэффициент отражения. Формула отражения: SpecularColor * SpecularFactor * (N dot H) ^ Блеск
+Получает или задает коэффициент отражения. Формула отражения: SpecularColor * SpecularFactor * (N dot H) ^ Shininess
 
 ```csharp
 public double SpecularFactor { get; set; }

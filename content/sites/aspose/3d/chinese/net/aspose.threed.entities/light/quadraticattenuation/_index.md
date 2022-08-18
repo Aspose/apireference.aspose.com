@@ -1,14 +1,14 @@
 ---
 title: QuadraticAttenuation
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置二次衰减以计算光的总衰减
+description: 获取或设置二次衰减计算灯光的总衰减
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.entities/light/quadraticattenuation/
 ---
 ## Light.QuadraticAttenuation property
 
-获取或设置二次衰减以计算光的总衰减
+获取或设置二次衰减，计算灯光的总衰减
 
 ```csharp
 public double QuadraticAttenuation { get; set; }

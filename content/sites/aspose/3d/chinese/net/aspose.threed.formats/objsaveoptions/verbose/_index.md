@@ -1,14 +1,14 @@
 ---
 title: Verbose
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否为每个部分生成评论
+description: 获取或设置是否为每个section生成评论
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.formats/objsaveoptions/verbose/
 ---
 ## ObjSaveOptions.Verbose property
 
-获取或设置是否为每个部分生成评论
+获取或设置是否为每个section生成评论
 
 ```csharp
 public bool Verbose { get; set; }

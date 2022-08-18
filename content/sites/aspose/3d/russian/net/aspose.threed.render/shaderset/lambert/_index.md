@@ -1,14 +1,14 @@
 ---
 title: Lambert
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает шейдер который использовался для рендеринга материала lambert
+description: Получает или задает шейдер который использовался для рендеринга материала Ламберта
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.render/shaderset/lambert/
 ---
 ## ShaderSet.Lambert property
 
-Получает или задает шейдер, который использовался для рендеринга материала lambert
+Получает или задает шейдер, который использовался для рендеринга материала Ламберта
 
 ```csharp
 public ShaderProgram Lambert { get; set; }

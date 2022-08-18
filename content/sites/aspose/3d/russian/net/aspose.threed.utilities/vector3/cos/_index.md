@@ -1,14 +1,14 @@
 ---
 title: Cos
 second_title: Справочник по Aspose.3D для .NET API
-description: Вычисляет косинус каждой компоненты
+description: Вычисляет косинус для каждого компонента
 type: docs
 weight: 140
 url: /ru/net/aspose.threed.utilities/vector3/cos/
 ---
 ## Vector3.Cos method
 
-Вычисляет косинус каждой компоненты
+Вычисляет косинус для каждого компонента
 
 ```csharp
 public Vector3 Cos()
@@ -16,7 +16,7 @@ public Vector3 Cos()
 
 ### Возвращаемое значение
 
-Вычислено[`Vector3`](../../vector3).
+Рассчитано[`Vector3`](../../vector3).
 
 ### Смотрите также
 

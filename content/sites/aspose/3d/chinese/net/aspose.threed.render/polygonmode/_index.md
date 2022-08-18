@@ -3,7 +3,7 @@ title: PolygonMode
 second_title: Aspose.3D for .NET API 参考
 description: 多边形光栅化模式
 type: docs
-weight: 1990
+weight: 2000
 url: /zh/net/aspose.threed.render/polygonmode/
 ---
 ## PolygonMode enumeration
@@ -18,7 +18,7 @@ public enum PolygonMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Point | `0` | 多边形控制点被绘制为点。 |
+| Point | `0` | 多边形控制点绘制为点。 |
 | Line | `1` | 多边形的边界边缘被绘制为线段。 |
 | Fill | `2` | 多边形内部被填充。 |
 

@@ -32,7 +32,7 @@ public Matrix4(Vector4 r0, Vector4 r1, Vector4 r2, Vector4 r3)
 
 ## Matrix4(double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double) {#constructor_2}
 
-初始化[`Matrix4`](../../matrix4)结构的新实例。
+初始化[`Matrix4`](../../matrix4) struct.
 
 ```csharp
 public Matrix4(double m00, double m01, double m02, double m03, double m10, double m11, double m12, 
@@ -69,7 +69,7 @@ public Matrix4(double m00, double m01, double m02, double m03, double m10, doubl
 
 ## Matrix4(FMatrix4) {#constructor}
 
-从[`FMatrix4`](../../fmatrix4)构造[`Matrix4`](../../matrix4)实例
+构造[`Matrix4`](../../matrix4)从一个[`FMatrix4`](../../fmatrix4) instance
 
 ```csharp
 public Matrix4(FMatrix4 m)
@@ -90,7 +90,7 @@ public Matrix4(FMatrix4 m)
 
 ## Matrix4(double[]) {#constructor_3}
 
-初始化[`Matrix4`](../../matrix4)结构的新实例。
+初始化[`Matrix4`](../../matrix4) struct.
 
 ```csharp
 public Matrix4(double[] m)
@@ -98,7 +98,7 @@ public Matrix4(double[] m)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| m | Double[] | M. |
+| m | Double[] | M。 |
 
 ### 也可以看看
 

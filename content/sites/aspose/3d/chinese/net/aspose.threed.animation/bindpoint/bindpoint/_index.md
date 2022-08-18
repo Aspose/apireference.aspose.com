@@ -1,14 +1,14 @@
 ---
 title: BindPoint
 second_title: Aspose.3D for .NET API 参考
-description: 初始化BindPointaspose.threed.animation/bindpoint类的新实例
+description: 初始化BindPointaspose.threed.animation/bindpoint类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.animation/bindpoint/bindpoint/
 ---
 ## BindPoint constructor
 
-初始化[`BindPoint`](../../bindpoint)类的新实例。
+初始化[`BindPoint`](../../bindpoint)类.
 
 ```csharp
 public BindPoint(Scene scene, Property prop)
@@ -17,7 +17,7 @@ public BindPoint(Scene scene, Property prop)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | scene | Scene | 包含动画的场景。 |
-| prop | Property | 属性。 |
+| prop | Property | 财产。 |
 
 ### 也可以看看
 

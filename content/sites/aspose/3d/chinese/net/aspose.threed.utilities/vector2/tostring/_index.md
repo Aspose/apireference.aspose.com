@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 返回代表当前Vector2aspose.threed.utilities/vector2的String.
+description: 返回一个String代表当前Vector2aspose.threed.utilities/vector2.
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.utilities/vector2/tostring/
 ---
 ## Vector2.ToString method
 
-返回代表当前[`Vector2`](../../vector2)的String.
+返回一个String代表当前[`Vector2`](../../vector2).
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-AString表示当前Vector2。
+一个String代表当前[`Vector2`](../../vector2).
 
 ### 也可以看看
 

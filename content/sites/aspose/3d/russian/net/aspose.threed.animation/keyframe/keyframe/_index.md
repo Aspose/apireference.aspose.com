@@ -16,7 +16,7 @@ public KeyFrame(KeyframeSequence curve, double time)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| curve | KeyframeSequence | Кривая что ключевой кадр будет создан |
+| curve | KeyframeSequence | Кривая, на которой будет создан ключевой кадр |
 | time | Double | Временная позиция ключевого кадра |
 
 ### Смотрите также

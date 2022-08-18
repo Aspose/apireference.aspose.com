@@ -1,14 +1,14 @@
 ---
 title: OpenEnded
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置一个值该值指示此Cylinderaspose.threed.entities/cylinder是否开放结束 默认值为假
+description: 获取或设置一个值该值指示是否Cylinderaspose.threed.entities/cylinder开放式结束 默认值为false
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.entities/cylinder/openended/
 ---
 ## Cylinder.OpenEnded property
 
-获取或设置一个值，该值指示此[`Cylinder`](../../cylinder)是否开放结束。 默认值为假。
+获取或设置一个值，该值指示是否[`Cylinder`](../../cylinder)开放式结束。 默认值为false。
 
 ```csharp
 public bool OpenEnded { get; set; }
@@ -16,7 +16,7 @@ public bool OpenEnded { get; set; }
 
 ### 适当的价值
 
-` true` 如果打开结束；否则，存在顶/底盖。
+`真的`如果是开放式的；否则，存在顶/底盖。
 
 ### 也可以看看
 

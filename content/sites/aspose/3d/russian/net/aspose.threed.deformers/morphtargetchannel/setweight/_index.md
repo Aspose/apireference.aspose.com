@@ -16,8 +16,8 @@ public void SetWeight(Shape target, double weight = 1m)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| цель | Shape |  |
-| вес | Double |  |
+| target | Shape |  |
+| weight | Double |  |
 
 ### Смотрите также
 

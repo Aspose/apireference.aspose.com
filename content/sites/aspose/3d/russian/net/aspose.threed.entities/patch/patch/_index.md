@@ -1,14 +1,14 @@
 ---
 title: Patch
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаPatchaspose.threed.entities/patch.
+description: Инициализирует новый экземплярPatchaspose.threed.entities/patch класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/patch/patch/
 ---
 ## Patch() {#constructor}
 
-Инициализирует новый экземпляр класса[`Patch`](../../patch).
+Инициализирует новый экземпляр[`Patch`](../../patch) класс.
 
 ```csharp
 public Patch()
@@ -24,7 +24,7 @@ public Patch()
 
 ## Patch(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Patch`](../../patch).
+Инициализирует новый экземпляр[`Patch`](../../patch) класс.
 
 ```csharp
 public Patch(string name)

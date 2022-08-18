@@ -16,7 +16,7 @@ public double Dot(Vector3 rhs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rhs | Vector3 | 右手边价值。 |
+| rhs | Vector3 | 右手边的值。 |
 
 ### 返回值
 

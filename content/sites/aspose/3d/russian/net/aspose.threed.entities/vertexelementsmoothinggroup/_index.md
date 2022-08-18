@@ -1,14 +1,14 @@
 ---
 title: VertexElementSmoothingGroup
 second_title: Справочник по Aspose.3D для .NET API
-description: Группа сглаживания  это группа полигонов в полигональной сетке которая должна формировать гладкую поверхность. Некоторое раннее программное обеспечение для 3D-моделирования такое как 3D studio max для DOS использовало группу сглаживания чтобы исключить сохранение вектора нормали для каждой вершины сетки.
+description: Группа сглаживания  это группа полигонов в полигональной сетке которая должна формировать гладкую поверхность. Некоторые ранние программы для трехмерного моделирования такие как 3D studio max для DOS использовали группу сглаживания чтобы исключить сохранение вектора нормали для каждой вершины сетки.
 type: docs
 weight: 850
 url: /ru/net/aspose.threed.entities/vertexelementsmoothinggroup/
 ---
 ## VertexElementSmoothingGroup class
 
-Группа сглаживания — это группа полигонов в полигональной сетке, которая должна формировать гладкую поверхность. Некоторое раннее программное обеспечение для 3D-моделирования, такое как 3D studio max для DOS, использовало группу сглаживания, чтобы исключить сохранение вектора нормали для каждой вершины сетки.
+Группа сглаживания — это группа полигонов в полигональной сетке, которая должна формировать гладкую поверхность. Некоторые ранние программы для трехмерного моделирования, такие как 3D studio max для DOS, использовали группу сглаживания, чтобы исключить сохранение вектора нормали для каждой вершины сетки.
 
 ```csharp
 public class VertexElementSmoothingGroup : VertexElementIntsTemplate
@@ -18,15 +18,15 @@ public class VertexElementSmoothingGroup : VertexElementIntsTemplate
 
 | Имя | Описание |
 | --- | --- |
-| [VertexElementSmoothingGroup](vertexelementsmoothinggroup)() | Инициализирует новый экземпляр класса[`VertexElementSmoothingGroup`](../vertexelementsmoothinggroup). |
+| [VertexElementSmoothingGroup](vertexelementsmoothinggroup)() | Инициализирует новый экземпляр[`VertexElementSmoothingGroup`](../vertexelementsmoothinggroup) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.threed.entities/vertexelementintstemplate/data) { get; } | Получает данные вершин |
-| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает данные индексов |
-| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ сопоставления элемента. |
+| [Data](../../aspose.threed.entities/vertexelementintstemplate/data) { get; } | Получает данные вершины |
+| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает индексы data |
+| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ отображения элемента. |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | Получает или задает имя. |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | Получает или задает способ ссылки на элемент. |
 | [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | Получает тип[`VertexElement`](../vertexelement) |
@@ -36,7 +36,7 @@ public class VertexElementSmoothingGroup : VertexElementIntsTemplate
 | Имя | Описание |
 | --- | --- |
 | override [Clear](../../aspose.threed.entities/vertexelementintstemplate/clear)() | Удаляет все элементы из прямого и индексного массивов. |
-| [CopyTo](../../aspose.threed.entities/vertexelementintstemplate/copyto)(VertexElementIntsTemplate) | Копирует данные в указанный элемент |
+| [CopyTo](../../aspose.threed.entities/vertexelementintstemplate/copyto)(VertexElementIntsTemplate) | Копирует данные в указанный element |
 | [SetData](../../aspose.threed.entities/vertexelementintstemplate/setdata)(int[]) | Загрузить данные |
 | [SetIndices](../../aspose.threed.entities/vertexelement/setindices)(int[]) | Индексы нагрузки |
 | override [ToString](../../aspose.threed.entities/vertexelement/tostring)() | Строковое представление вершинного элемента. |

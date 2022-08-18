@@ -1,14 +1,14 @@
 ---
 title: TextureCoordinateComponents
 second_title: Aspose.3D for .NET API 参考
-description: 纹理坐标数据的组件名称默认值为 u v
+description: 纹理坐标数据的组件名称默认值为u v
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.formats/plysaveoptions/texturecoordinatecomponents/
 ---
 ## PlySaveOptions.TextureCoordinateComponents property
 
-纹理坐标数据的组件名称，默认值为 ("u", "v")
+纹理坐标数据的组件名称，默认值为("u", "v")
 
 ```csharp
 public Tuple<string, string> TextureCoordinateComponents { get; set; }

@@ -3,7 +3,7 @@ title: AlphaSource
 second_title: Aspose.3D for .NET API 参考
 description: 定义纹理是否包含 alpha 通道
 type: docs
-weight: 2260
+weight: 2270
 url: /zh/net/aspose.threed.shading/alphasource/
 ---
 ## AlphaSource enumeration
@@ -20,7 +20,7 @@ public enum AlphaSource
 | --- | --- | --- |
 | None | `0` | 纹理中没有定义 alpha |
 | PixelAlpha | `1` | alpha 由像素的 alpha 通道定义 |
-| FixedValue | `2` | Alpha 是一个固定值，定义为 [`Alpha`](../texturebase/alpha) |
+| FixedValue | `2` | Alpha 是一个固定值，由下式定义[`Alpha`](../texturebase/alpha) |
 
 ### 也可以看看
 

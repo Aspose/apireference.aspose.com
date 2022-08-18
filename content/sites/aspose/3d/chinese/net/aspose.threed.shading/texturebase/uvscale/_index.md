@@ -16,7 +16,7 @@ public Vector2 UVScale { get; set; }
 
 ### 适当的价值
 
-UV 比例。
+紫外线比例。
 
 ### 也可以看看
 

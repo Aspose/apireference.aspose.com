@@ -1,14 +1,14 @@
 ---
 title: ITextureUnit
 second_title: Aspose.3D for .NET API 参考
-description: ITextureUnit./itextureunit表示内存中的纹理在 GPU 和 CPU 之间共享并且可以被着色器采样 其中Texture../aspose.threed.shading/texture仅表示对外部文件的引用 更多细节可以找到 https//en.wikipedia.org/wiki/Texture_mapping_unit
+description: ITextureUnit./itextureunit表示内存中的纹理在 GPU 和 CPU 之间共享可以被着色器采样 其中Texture../aspose.threed.shading/texture仅代表对外部文件的引用 更多详细信息可以找到 https//en.wikipedia.org/wiki/Texture_mapping_unit
 type: docs
-weight: 1940
+weight: 1950
 url: /zh/net/aspose.threed.render/itextureunit/
 ---
 ## ITextureUnit interface
 
-[`ITextureUnit`](../itextureunit)表示内存中的纹理，在 GPU 和 CPU 之间共享并且可以被着色器采样， 其中[`Texture`](../../aspose.threed.shading/texture)仅表示对外部文件的引用。 更多细节可以找到 https://en.wikipedia.org/wiki/Texture_mapping_unit
+[`ITextureUnit`](../itextureunit)表示内存中的纹理，在 GPU 和 CPU 之间共享，可以被着色器采样， 其中[`Texture`](../../aspose.threed.shading/texture)仅代表对外部文件的引用。 更多详细信息可以找到 https://en.wikipedia.org/wiki/Texture_mapping_unit
 
 ```csharp
 public interface ITextureUnit : IDisposable
@@ -18,12 +18,12 @@ public interface ITextureUnit : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Depth](../../aspose.threed.render/itextureunit/depth) { get; } | 获取此纹理的高度，对于非 3D 纹理，它始终为 1。 |
+| [Depth](../../aspose.threed.render/itextureunit/depth) { get; } | 获取此纹理的高度，对于非 3D 纹理，它始终为 1. |
 | [Height](../../aspose.threed.render/itextureunit/height) { get; } | 获取此纹理的高度。 |
 | [Magnification](../../aspose.threed.render/itextureunit/magnification) { get; set; } | 获取或设置放大的过滤模式。 |
-| [Minification](../../aspose.threed.render/itextureunit/minification) { get; set; } | 获取或设置缩小过滤模式。 |
+| [Minification](../../aspose.threed.render/itextureunit/minification) { get; set; } | 获取或设置缩小的过滤模式。 |
 | [Mipmap](../../aspose.threed.render/itextureunit/mipmap) { get; set; } | 获取或设置 mipmap 的过滤模式。 |
-| [Scale](../../aspose.threed.render/itextureunit/scale) { get; set; } | 获取或设置 UV 坐标的比例。 |
+| [Scale](../../aspose.threed.render/itextureunit/scale) { get; set; } | 获取或设置UV坐标的比例。 |
 | [Scroll](../../aspose.threed.render/itextureunit/scroll) { get; set; } | 获取或设置UV坐标的滚动。 |
 | [Type](../../aspose.threed.render/itextureunit/type) { get; } | 获取此纹理单元的类型。 |
 | [UWrap](../../aspose.threed.render/itextureunit/uwrap) { get; set; } | 获取或设置纹理 U 坐标的环绕模式。 |

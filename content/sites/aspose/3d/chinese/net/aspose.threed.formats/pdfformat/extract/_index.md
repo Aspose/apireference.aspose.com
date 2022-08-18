@@ -16,8 +16,8 @@ public List<byte[]> Extract(string fileName, byte[] password = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 文件名 | String |  |
-| 密码 | Byte[] |  |
+| fileName | String |  |
+| password | Byte[] |  |
 
 ### 也可以看看
 
@@ -38,7 +38,7 @@ public List<byte[]> Extract(Stream stream, byte[] password = null)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream |  |
-| 密码 | Byte[] |  |
+| password | Byte[] |  |
 
 ### 也可以看看
 

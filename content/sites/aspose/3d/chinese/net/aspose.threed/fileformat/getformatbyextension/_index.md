@@ -1,14 +1,14 @@
 ---
 title: GetFormatByExtension
 second_title: Aspose.3D for .NET API 参考
-description: 从文件扩展名 获取首选文件格式扩展名应以点.开头
+description: 从文件扩展名获取首选文件格式 扩展名应该以点.开头
 type: docs
 weight: 430
 url: /zh/net/aspose.threed/fileformat/getformatbyextension/
 ---
 ## FileFormat.GetFormatByExtension method
 
-从文件扩展名 获取首选文件格式:扩展名应以点（'.'）开头。
+从文件扩展名获取首选文件格式 扩展名应该以点（'.'）开头。
 
 ```csharp
 public static FileFormat GetFormatByExtension(string extensionName)

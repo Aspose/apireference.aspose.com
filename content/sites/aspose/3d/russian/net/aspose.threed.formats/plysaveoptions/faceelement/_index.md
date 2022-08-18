@@ -1,14 +1,14 @@
 ---
 title: FaceElement
 second_title: Справочник по Aspose.3D для .NET API
-description: Имя элемента данных лица значение по умолчанию face
+description: Имя элемента для данных лица значение по умолчанию  face
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.formats/plysaveoptions/faceelement/
 ---
 ## PlySaveOptions.FaceElement property
 
-Имя элемента данных лица, значение по умолчанию "face"
+Имя элемента для данных лица, значение по умолчанию — «face»
 
 ```csharp
 public string FaceElement { get; set; }

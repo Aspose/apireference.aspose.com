@@ -16,7 +16,7 @@ public static Vector3 operator -(Vector3 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| v | Vector3 | Исходный вектор |
+| v | Vector3 | Вектор происхождения |
 
 ### Возвращаемое значение
 
@@ -41,7 +41,7 @@ public static Vector3 operator -(Vector3 lhs, Vector3 rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | Vector3 | Левый вектор |
-| rhs | Vector3 | Правый вектор |
+| rhs | Vector3 | Правильный вектор |
 
 ### Возвращаемое значение
 

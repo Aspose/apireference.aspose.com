@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.3D for .NET API 参考
-description: 返回一个值指示此实例是否等于指定对象
+description: 返回一个值该值指示此实例是否等于指定对象
 type: docs
 weight: 220
 url: /zh/net/aspose.threed.render/renderstate/equals/
 ---
 ## RenderState.Equals method
 
-返回一个值，指示此实例是否等于指定对象。
+返回一个值，该值指示此实例是否等于指定对象。
 
 ```csharp
 public override bool Equals(object obj)

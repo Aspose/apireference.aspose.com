@@ -1,14 +1,14 @@
 ---
 title: PointCloud
 second_title: Aspose.3D for .NET API 参考
-description: 将场景导出为点云默认值为 false
+description: 将场景导出为点云默认值为false
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.formats/dracosaveoptions/pointcloud/
 ---
 ## DracoSaveOptions.PointCloud property
 
-将场景导出为点云，默认值为 false。
+将场景导出为点云，默认值为false。
 
 ```csharp
 public bool PointCloud { get; set; }

@@ -3,7 +3,7 @@ title: NodeVisitor
 second_title: Aspose.3D for .NET API 参考
 description: 遍历整个节点层次结构的回调
 type: docs
-weight: 1470
+weight: 1480
 url: /zh/net/aspose.threed/nodevisitor/
 ---
 ## NodeVisitor delegate
@@ -16,11 +16,11 @@ public delegate bool NodeVisitor(Node node);
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| node | Node | 正在访问的节点 |
+| node | Node | 被访问的节点 |
 
 ### 返回值
 
-返回 false 停止移动
+返回 false 停止旅行
 
 ### 也可以看看
 

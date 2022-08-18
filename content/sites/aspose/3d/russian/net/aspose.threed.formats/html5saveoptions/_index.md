@@ -18,7 +18,7 @@ public class Html5SaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [Html5SaveOptions](html5saveoptions)() | Конструктор[`Html5SaveOptions`](../html5saveoptions)со всеми настройками по умолчанию. |
+| [Html5SaveOptions](html5saveoptions)() | Конструктор[`Html5SaveOptions`](../html5saveoptions) со всеми настройками по умолчанию. |
 
 ## Характеристики
 
@@ -27,18 +27,18 @@ public class Html5SaveOptions : SaveOptions
 | [CameraPosition](../../aspose.threed.formats/html5saveoptions/cameraposition) { get; set; } | Получает или задает начальное положение камеры, значение по умолчанию (10, 10, 10) |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
 | [FarPlane](../../aspose.threed.formats/html5saveoptions/farplane) { get; set; } | Получает или задает дальнюю плоскость камеры, значение по умолчанию 1000. |
-| [FieldOfView](../../aspose.threed.formats/html5saveoptions/fieldofview) { get; set; } | Получает или задает поле просмотра, значение по умолчанию равно 45, измеряется в градусах. |
+| [FieldOfView](../../aspose.threed.formats/html5saveoptions/fieldofview) { get; set; } | Получает или задает поле зрения, значение по умолчанию — 45, измеряется в градусах. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [LookAt](../../aspose.threed.formats/html5saveoptions/lookat) { get; set; } | Получает или задает позицию просмотра по умолчанию, значение по умолчанию (0, 0, 0) |
+| [LookAt](../../aspose.threed.formats/html5saveoptions/lookat) { get; set; } | Получает или задает позицию взгляда по умолчанию, значение по умолчанию (0, 0, 0) |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
 | [NearPlane](../../aspose.threed.formats/html5saveoptions/nearplane) { get; set; } | Получает или задает ближнюю плоскость камеры, значение по умолчанию 1 |
-| [OrientationBox](../../aspose.threed.formats/html5saveoptions/orientationbox) { get; set; } | Показать окно ориентации. Значение по умолчанию — true. |
+| [OrientationBox](../../aspose.threed.formats/html5saveoptions/orientationbox) { get; set; } | Отображение окна ориентации. Значение по умолчанию — true. |
 | [ShowGrid](../../aspose.threed.formats/html5saveoptions/showgrid) { get; set; } | Отображение сетки в сцене. Значение по умолчанию — true. |
 | [ShowRulers](../../aspose.threed.formats/html5saveoptions/showrulers) { get; set; } | Отображение линеек осей x/y/z в сцене для измерения модели. Значение по умолчанию — false. |
 | [ShowUI](../../aspose.threed.formats/html5saveoptions/showui) { get; set; } | Отображение простого пользовательского интерфейса в сцене. Значение по умолчанию — true. |
-| [UpVector](../../aspose.threed.formats/html5saveoptions/upvector) { get; set; } | Получает или устанавливает вектор вверх, значение может быть "x"/"y"/"z", значение по умолчанию "y" |
+| [UpVector](../../aspose.threed.formats/html5saveoptions/upvector) { get; set; } | Получает или задает восходящий вектор, значение может быть "x"/"y"/"z", значение по умолчанию "y" |
 
 ### Смотрите также
 

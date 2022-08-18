@@ -1,14 +1,14 @@
 ---
 title: GLSLSource
 second_title: Справочник по Aspose.3D для .NET API
-description: Исходный код шейдеров на GLSL
+description: Исходный код шейдеров в GLSL
 type: docs
-weight: 1810
+weight: 1820
 url: /ru/net/aspose.threed.render/glslsource/
 ---
 ## GLSLSource class
 
-Исходный код шейдеров на GLSL
+Исходный код шейдеров в GLSL
 
 ```csharp
 public sealed class GLSLSource : ShaderSource

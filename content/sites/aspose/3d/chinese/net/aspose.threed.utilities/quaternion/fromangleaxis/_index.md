@@ -16,7 +16,7 @@ public static Quaternion FromAngleAxis(double a, Vector3 axis)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Double | 以弧度为单位的顺时针旋转 |
+| a | Double | 以弧度为单位顺时针旋转 |
 | axis | Vector3 | 轴 |
 
 ### 返回值

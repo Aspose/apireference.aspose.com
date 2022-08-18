@@ -1,14 +1,14 @@
 ---
 title: CopyFrom
 second_title: Aspose.3D for .NET API 参考
-description: 复制 TriMeshaspose.threed.entities/trimesh 来自具有新顶点布局的输入
+description: 复制TriMeshaspose.threed.entities/trimesh来自具有新顶点 layout 的输入
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/trimesh/copyfrom/
 ---
 ## TriMesh.CopyFrom method
 
-复制 [`TriMesh`](../../trimesh) 来自具有新顶点布局的输入
+复制[`TriMesh`](../../trimesh)来自具有新顶点 layout 的输入
 
 ```csharp
 public static TriMesh CopyFrom(TriMesh input, VertexDeclaration vd)

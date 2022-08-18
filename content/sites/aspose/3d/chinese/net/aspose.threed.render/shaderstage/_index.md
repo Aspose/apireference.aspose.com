@@ -3,7 +3,7 @@ title: ShaderStage
 second_title: Aspose.3D for .NET API 参考
 description: 着色器阶段
 type: docs
-weight: 2160
+weight: 2170
 url: /zh/net/aspose.threed.render/shaderstage/
 ---
 ## ShaderStage enumeration

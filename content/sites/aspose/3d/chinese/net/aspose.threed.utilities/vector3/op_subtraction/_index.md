@@ -1,14 +1,14 @@
 ---
 title: op_Subtraction
 second_title: Aspose.3D for .NET API 参考
-description: 运算符重载 -
+description: - 的运算符重载
 type: docs
 weight: 290
 url: /zh/net/aspose.threed.utilities/vector3/op_subtraction/
 ---
 ## operator -
 
-运算符重载 -
+- 的运算符重载
 
 ```csharp
 public static Vector3 operator -(Vector3 v)
@@ -32,7 +32,7 @@ public static Vector3 operator -(Vector3 v)
 
 ## operator -
 
-运算符重载 for - (减号)
+运算符重载 - (减号)
 
 ```csharp
 public static Vector3 operator -(Vector3 lhs, Vector3 rhs)
@@ -41,7 +41,7 @@ public static Vector3 operator -(Vector3 lhs, Vector3 rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Vector3 | 左向量 |
-| rhs | Vector3 | 右向量 |
+| rhs | Vector3 | 正确的向量 |
 
 ### 返回值
 

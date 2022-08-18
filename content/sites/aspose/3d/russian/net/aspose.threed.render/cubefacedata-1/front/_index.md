@@ -1,14 +1,14 @@
 ---
 title: Front
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для -Z передней грани
+description: Получает или задает данные для -ZПередняя face
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.render/cubefacedata-1/front/
 ---
 ## CubeFaceData&lt;T&gt;.Front property
 
-Получает или задает данные для -Z (передней) грани
+Получает или задает данные для -Z(Передняя) face
 
 ```csharp
 public T Front { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SplitMesh
 second_title: Aspose.3D for .NET API 参考
-description: 通过VertexElementMaterialaspose.threed.entities/vertexelementmaterial将网格分割成子网格 每个子网格将只使用一种材质 在节点上执行网格分割
+description: 将网格分割成子网格VertexElementMaterialaspose.threed.entities/vertexelementmaterial. 每个子网格将只使用一种材质 在节点上执行网格分割
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.entities/polygonmodifier/splitmesh/
 ---
 ## SplitMesh(Node, SplitMeshPolicy, bool, bool) {#splitmesh_1}
 
-通过[`VertexElementMaterial`](../../vertexelementmaterial)将网格分割成子网格。 每个子网格将只使用一种材质。 在节点上执行网格分割
+将网格分割成子网格[`VertexElementMaterial`](../../vertexelementmaterial). 每个子网格将只使用一种材质。 在节点上执行网格分割
 
 ```csharp
 public static void SplitMesh(Node node, SplitMeshPolicy policy, bool createChildNodes = false, 
@@ -20,7 +20,7 @@ public static void SplitMesh(Node node, SplitMeshPolicy policy, bool createChild
 | node | Node |  |
 | policy | SplitMeshPolicy |  |
 | createChildNodes | Boolean | 为每个子网格创建子节点。 |
-| removeOldMesh | Boolean | 分割后删除旧网格，如果该参数为假，则新旧网格共存。 |
+| removeOldMesh | Boolean | 拆分后删除旧网格，如果该参数为false，则新旧网格共存。 |
 
 ### 也可以看看
 
@@ -34,7 +34,7 @@ public static void SplitMesh(Node node, SplitMeshPolicy policy, bool createChild
 
 ## SplitMesh(Scene, SplitMeshPolicy, bool) {#splitmesh_2}
 
-通过[`VertexElementMaterial`](../../vertexelementmaterial)将网格分割成子网格。 每个子网格将只使用一种材质。 对场景的所有节点执行网格分割。
+将网格分割成子网格[`VertexElementMaterial`](../../vertexelementmaterial) . 每个子网格将只使用一种材质。 在场景的所有节点上执行网格分割。
 
 ```csharp
 public static void SplitMesh(Scene scene, SplitMeshPolicy policy, bool removeOldMesh = true)
@@ -58,7 +58,7 @@ public static void SplitMesh(Scene scene, SplitMeshPolicy policy, bool removeOld
 
 ## SplitMesh(Mesh, SplitMeshPolicy) {#splitmesh}
 
-通过[`VertexElementMaterial`](../../vertexelementmaterial)将网格分割成子网格。 每个子网格将只使用一种材质。 原始网格不会改变。
+将网格分割成子网格[`VertexElementMaterial`](../../vertexelementmaterial) . 每个子网格将只使用一种材质。 原始网格不会改变。
 
 ```csharp
 public static Mesh[] SplitMesh(Mesh mesh, SplitMeshPolicy policy)

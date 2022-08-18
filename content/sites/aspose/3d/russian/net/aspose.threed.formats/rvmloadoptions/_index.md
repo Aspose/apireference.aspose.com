@@ -18,14 +18,14 @@ public class RvmLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [RvmLoadOptions](rvmloadoptions#constructor)() | Создать[`RvmLoadOptions`](../rvmloadoptions)экземпляр |
-| [RvmLoadOptions](rvmloadoptions#constructor_1)(FileContentType) | Создать[`RvmLoadOptions`](../rvmloadoptions)экземпляр |
+| [RvmLoadOptions](rvmloadoptions#constructor)() | Построить[`RvmLoadOptions`](../rvmloadoptions) instance |
+| [RvmLoadOptions](rvmloadoptions#constructor_1)(FileContentType) | Построить[`RvmLoadOptions`](../rvmloadoptions) instance |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AttributePrefix](../../aspose.threed.formats/rvmloadoptions/attributeprefix) { get; set; } | Получает или задает префикс атрибутов, определенных во внешних файлах атрибутов, Префикс используется для предотвращения конфликтов имен, значение по умолчанию равно "rvm:" |
+| [AttributePrefix](../../aspose.threed.formats/rvmloadoptions/attributeprefix) { get; set; } | Получает или задает префикс атрибутов, определенных во внешних файлах атрибутов, Префикс используется для предотвращения конфликтов имен, значение по умолчанию — "rvm:" |
 | [CenterScene](../../aspose.threed.formats/rvmloadoptions/centerscene) { get; set; } | Центрировать сцену после ее загрузки. |
 | [CylinderRadialSegments](../../aspose.threed.formats/rvmloadoptions/cylinderradialsegments) { get; set; } | Получает или задает количество радиальных сегментов цилиндра, значение по умолчанию 16 |
 | [DishLatitudeSegments](../../aspose.threed.formats/rvmloadoptions/dishlatitudesegments) { get; set; } | Получает или устанавливает количество сегментов широты антенны, значение по умолчанию 8 |
@@ -34,11 +34,11 @@ public class RvmLoadOptions : LoadOptions
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [GenerateMaterials](../../aspose.threed.formats/rvmloadoptions/generatematerials) { get; set; } | Генерировать материалы со случайными цветами для каждого объекта в сцене, если таблица цветов не экспортируется в файл RVM. Значение по умолчанию - true |
+| [GenerateMaterials](../../aspose.threed.formats/rvmloadoptions/generatematerials) { get; set; } | Генерировать материалы со случайными цветами для каждого объекта в сцене, если таблица цветов не экспортируется в файл RVM. Значение по умолчанию — true |
 | [LookupAttributes](../../aspose.threed.formats/rvmloadoptions/lookupattributes) { get; set; } | Получает или задает, следует ли загружать атрибуты из файла внешнего списка атрибутов (.att/.attrib/.txt), значение по умолчанию — true. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
 | [RectangularTorusSegments](../../aspose.threed.formats/rvmloadoptions/rectangulartorussegments) { get; set; } | Получает или задает количество радиальных сегментов прямоугольного тора, значение по умолчанию 20 |
-| [TorusTubularSegments](../../aspose.threed.formats/rvmloadoptions/torustubularsegments) { get; set; } | Получает или задает количество трубчатых сегментов тора, значение по умолчанию 20 |
+| [TorusTubularSegments](../../aspose.threed.formats/rvmloadoptions/torustubularsegments) { get; set; } | Получает или задает количество трубчатых сегментов тора, значение по умолчанию равно 20 |
 
 ### Смотрите также
 

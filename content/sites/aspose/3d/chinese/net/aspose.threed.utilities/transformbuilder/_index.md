@@ -1,14 +1,14 @@
 ---
 title: TransformBuilder
 second_title: Aspose.3D for .NET API 参考
-description: TransformBuilder./transformbuilder用于通过一系列变换构建变换矩阵
+description: 的TransformBuilder./transformbuilder用于通过一系列变换构建变换矩阵
 type: docs
-weight: 2630
+weight: 2620
 url: /zh/net/aspose.threed.utilities/transformbuilder/
 ---
 ## TransformBuilder class
 
-[`TransformBuilder`](../transformbuilder)用于通过一系列变换构建变换矩阵。
+的[`TransformBuilder`](../transformbuilder)用于通过一系列变换构建变换矩阵。
 
 ```csharp
 public class TransformBuilder
@@ -18,8 +18,8 @@ public class TransformBuilder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TransformBuilder](transformbuilder#constructor)(ComposeOrder) | 使用初始单位变换矩阵和指定的组合顺序构造[`TransformBuilder`](../transformbuilder) |
-| [TransformBuilder](transformbuilder#constructor_1)(Matrix4, ComposeOrder) | 使用初始变换矩阵和指定的组合顺序构造[`TransformBuilder`](../transformbuilder) |
+| [TransformBuilder](transformbuilder#constructor)(ComposeOrder) | 构造一个[`TransformBuilder`](../transformbuilder)具有初始单位变换矩阵并指定组合 order |
+| [TransformBuilder](transformbuilder#constructor_1)(Matrix4, ComposeOrder) | 构造一个[`TransformBuilder`](../transformbuilder)具有初始变换矩阵并指定组合 order |
 
 ## 特性
 
@@ -37,17 +37,17 @@ public class TransformBuilder
 | [Prepend](../../aspose.threed.utilities/transformbuilder/prepend)(Matrix4) | 将新的变换矩阵添加到变换链中。 |
 | [Rearrange](../../aspose.threed.utilities/transformbuilder/rearrange)(Axis, Axis, Axis) | 重新排列轴的布局。 |
 | [Reset](../../aspose.threed.utilities/transformbuilder/reset)() | 将变换重置为单位矩阵 |
-| [Rotate](../../aspose.threed.utilities/transformbuilder/rotate)(Quaternion) | 通过四元数链接旋转 |
-| [RotateDegree](../../aspose.threed.utilities/transformbuilder/rotatedegree)(double, Vector3) | 以度为单位链接旋转变换 |
-| [RotateEulerDegree](../../aspose.threed.utilities/transformbuilder/rotateeulerdegree)(double, double, double) | 以欧拉角为单位链接旋转 |
-| [RotateEulerRadian](../../aspose.threed.utilities/transformbuilder/rotateeulerradian#rotateeulerradian)(Vector3) | 以弧度为单位的欧拉角链接旋转 |
-| [RotateEulerRadian](../../aspose.threed.utilities/transformbuilder/rotateeulerradian#rotateeulerradian_1)(double, double, double) | 以弧度为单位的欧拉角链接旋转 |
+| [Rotate](../../aspose.threed.utilities/transformbuilder/rotate)(Quaternion) | 用四元数链接旋转 |
+| [RotateDegree](../../aspose.threed.utilities/transformbuilder/rotatedegree)(double, Vector3) | 在 degree 中链接旋转变换 |
+| [RotateEulerDegree](../../aspose.threed.utilities/transformbuilder/rotateeulerdegree)(double, double, double) | 以度为单位的欧拉角链式旋转 |
+| [RotateEulerRadian](../../aspose.threed.utilities/transformbuilder/rotateeulerradian#rotateeulerradian)(Vector3) | 以弧度为单位的欧拉角链式旋转 |
+| [RotateEulerRadian](../../aspose.threed.utilities/transformbuilder/rotateeulerradian#rotateeulerradian_1)(double, double, double) | 以弧度为单位的欧拉角链式旋转 |
 | [RotateRadian](../../aspose.threed.utilities/transformbuilder/rotateradian)(double, Vector3) | 以弧度链接旋转变换 |
-| [Scale](../../aspose.threed.utilities/transformbuilder/scale#scale_1)(double) | 将缩放变换矩阵与按 s 缩放的分量链接在一起 |
-| [Scale](../../aspose.threed.utilities/transformbuilder/scale#scale)(Vector3) | 链接比例变换 |
-| [Scale](../../aspose.threed.utilities/transformbuilder/scale#scale_2)(double, double, double) | 链接一个缩放变换矩阵 |
-| [Translate](../../aspose.threed.utilities/transformbuilder/translate#translate)(Vector3) | 链接平移变换 |
-| [Translate](../../aspose.threed.utilities/transformbuilder/translate#translate_1)(double, double, double) | 链接平移变换 |
+| [Scale](../../aspose.threed.utilities/transformbuilder/scale#scale_1)(double) | 将缩放变换矩阵与一个由 s 缩放的分量链接 |
+| [Scale](../../aspose.threed.utilities/transformbuilder/scale#scale)(Vector3) | 链缩放变换 |
+| [Scale](../../aspose.threed.utilities/transformbuilder/scale#scale_2)(double, double, double) | 链一个缩放变换矩阵 |
+| [Translate](../../aspose.threed.utilities/transformbuilder/translate#translate)(Vector3) | 链式平移变换 |
+| [Translate](../../aspose.threed.utilities/transformbuilder/translate#translate_1)(double, double, double) | 链式平移变换 |
 
 ### 也可以看看
 

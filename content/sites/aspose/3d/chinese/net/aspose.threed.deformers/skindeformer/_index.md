@@ -18,8 +18,8 @@ public class SkinDeformer : Deformer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SkinDeformer](skindeformer#constructor)() | 初始化[`SkinDeformer`](../skindeformer)类的新实例。 |
-| [SkinDeformer](skindeformer#constructor_1)(string) | 初始化[`SkinDeformer`](../skindeformer)类的新实例。 |
+| [SkinDeformer](skindeformer#constructor)() | 初始化[`SkinDeformer`](../skindeformer)类. |
+| [SkinDeformer](skindeformer#constructor_1)(string) | 初始化[`SkinDeformer`](../skindeformer)类. |
 
 ## 特性
 
@@ -27,17 +27,17 @@ public class SkinDeformer : Deformer
 | --- | --- |
 | [Bones](../../aspose.threed.deformers/skindeformer/bones) { get; } | 获取皮肤变形器包含的所有骨骼 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
-| [Owner](../../aspose.threed.deformers/deformer/owner) { get; } | 获取拥有此变形器的几何体 |
+| [Owner](../../aspose.threed.deformers/deformer/owner) { get; } | 获取拥有此变形器的几何图形 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

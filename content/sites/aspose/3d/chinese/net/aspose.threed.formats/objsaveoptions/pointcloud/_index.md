@@ -1,14 +1,14 @@
 ---
 title: PointCloud
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置导出器是否将场景导出为点云的标志无拓扑结构默认值为false
+description: 获取或设置导出器是否将场景导出为点云无拓扑结构的标志默认值为false
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.formats/objsaveoptions/pointcloud/
 ---
 ## ObjSaveOptions.PointCloud property
 
-获取或设置导出器是否将场景导出为点云的标志（无拓扑结构），默认值为false
+获取或设置导出器是否将场景导出为点云（无拓扑结构）的标志，默认值为false
 
 ```csharp
 public bool PointCloud { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: VerticesSizeInBytes
 second_title: Справочник по Aspose.3D для .NET API
-description: Суммарный размер всех вершин в байтах
+description: Общий размер всех вершин в байтах
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.entities/trimesh/verticessizeinbytes/
 ---
 ## TriMesh.VerticesSizeInBytes property
 
-Суммарный размер всех вершин в байтах
+Общий размер всех вершин в байтах
 
 ```csharp
 public int VerticesSizeInBytes { get; }

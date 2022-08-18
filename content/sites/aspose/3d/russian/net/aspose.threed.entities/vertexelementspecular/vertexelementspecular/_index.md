@@ -1,14 +1,14 @@
 ---
 title: VertexElementSpecular
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementSpecularaspose.threed.entities/vertexelementspecular.
+description: Инициализирует новый экземплярVertexElementSpecularaspose.threed.entities/vertexelementspecular класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementspecular/vertexelementspecular/
 ---
 ## VertexElementSpecular constructor
 
-Инициализирует новый экземпляр класса[`VertexElementSpecular`](../../vertexelementspecular).
+Инициализирует новый экземпляр[`VertexElementSpecular`](../../vertexelementspecular) класс.
 
 ```csharp
 public VertexElementSpecular()

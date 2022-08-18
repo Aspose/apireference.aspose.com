@@ -16,11 +16,11 @@ public Geometry Decode(string fileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fileName | String | 文件名包含 drc 文件 |
+| fileName | String | 文件名包含drc文件 |
 
 ### 返回值
 
-A[`Mesh`](../../../aspose.threed.entities/mesh)或[`PointCloud`](../../../aspose.threed.entities/pointcloud)实例依赖于文件内容
+一个[`Mesh`](../../../aspose.threed.entities/mesh)或者[`PointCloud`](../../../aspose.threed.entities/pointcloud)实例取决于文件内容
 
 ### 也可以看看
 
@@ -41,11 +41,11 @@ public Geometry Decode(byte[] data)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Byte[] | 原始drc字节 |
+| data | Byte[] | 原始 drc 字节 |
 
 ### 返回值
 
-A[`Mesh`](../../../aspose.threed.entities/mesh)或[`PointCloud`](../../../aspose.threed.entities/pointcloud)实例依赖于内容
+一个[`Mesh`](../../../aspose.threed.entities/mesh)或者[`PointCloud`](../../../aspose.threed.entities/pointcloud)实例取决于内容
 
 ### 也可以看看
 

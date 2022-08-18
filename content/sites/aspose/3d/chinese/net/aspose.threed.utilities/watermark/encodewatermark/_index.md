@@ -17,8 +17,8 @@ public static Mesh EncodeWatermark(Mesh input, string text, string password)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | input | Mesh | 网格编码盲水印 |
-| text | String | Text编码到网格 |
-| password | String | 密码保护水印，它是可选的 |
+| text | String | 要编码到网格的文本 |
+| password | String | 水印保护密码，可选 |
 
 ### 也可以看看
 

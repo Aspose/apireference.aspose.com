@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Aspose.3D for .NET API 参考
-description: 四元数的相等运算符
+description: 四元数的等号运算符
 type: docs
 weight: 250
 url: /zh/net/aspose.threed.utilities/quaternion/op_equality/
 ---
 ## Quaternion Equality operator
 
-四元数的相等运算符
+四元数的等号运算符
 
 ```csharp
 public static bool operator ==(Quaternion lhs, Quaternion rhs)
@@ -17,11 +17,11 @@ public static bool operator ==(Quaternion lhs, Quaternion rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Quaternion | 左侧值。 |
-| rhs | Quaternion | 右侧值。 |
+| rhs | Quaternion | 右手边的值。 |
 
 ### 返回值
 
-如果所有组件相同，则为真。
+如果所有组件完全相同，则为真。
 
 ### 也可以看看
 

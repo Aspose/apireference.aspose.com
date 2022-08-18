@@ -1,14 +1,14 @@
 ---
 title: EnableCompression
 second_title: Aspose.3D for .NET API 参考
-description: 是否使用压缩来减小最终文件大小默认值为真
+description: 是否使用压缩来减小最终文件大小默认值为true
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.formats/amfsaveoptions/enablecompression/
 ---
 ## AmfSaveOptions.EnableCompression property
 
-是否使用压缩来减小最终文件大小，默认值为真
+是否使用压缩来减小最终文件大小，默认值为true
 
 ```csharp
 public bool EnableCompression { get; set; }

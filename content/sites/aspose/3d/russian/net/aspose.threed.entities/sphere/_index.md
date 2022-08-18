@@ -18,26 +18,26 @@ public class Sphere : Primitive
 
 | Имя | Описание |
 | --- | --- |
-| [Sphere](sphere#constructor)() | Инициализирует новый экземпляр[`Sphere`](../sphere)с радиусом по умолчанию 1. |
-| [Sphere](sphere#constructor_1)(double) | Инициализирует новый экземпляр класса[`Sphere`](../sphere)с указанным радиусом. |
-| [Sphere](sphere#constructor_2)(double, int, int) | Инициализирует новый экземпляр класса[`Sphere`](../sphere)с заданным радиусом, сегментами ширины и сегментами высоты. |
-| [Sphere](sphere#constructor_3)(string, double, int, int, double, double, double, double) | Инициализирует новый экземпляр класса[`Sphere`](../sphere). |
+| [Sphere](sphere#constructor)() | Инициализирует новый экземпляр[`Sphere`](../sphere) с радиусом по умолчанию 1. |
+| [Sphere](sphere#constructor_1)(double) | Инициализирует новый экземпляр[`Sphere`](../sphere) класс с указанным радиусом. |
+| [Sphere](sphere#constructor_2)(double, int, int) | Инициализирует новый экземпляр[`Sphere`](../sphere) класс с заданным радиусом, сегментами ширины и сегментами высоты. |
+| [Sphere](sphere#constructor_3)(string, double, int, int, double, double, double, double) | Инициализирует новый экземпляр[`Sphere`](../sphere) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | Получает или устанавливает, может ли эта геометрия отбрасывать тень |
+| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | Получает или задает, может ли эта геометрия отбрасывать тень |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | [HeightSegments](../../aspose.threed.entities/sphere/heightsegments) { get; set; } | Получает или задает сегменты высоты. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [PhiLength](../../aspose.threed.entities/sphere/philength) { get; set; } | Получает или задает длину фи. |
-| [PhiStart](../../aspose.threed.entities/sphere/phistart) { get; set; } | Получает или задает начало фи. |
+| [PhiStart](../../aspose.threed.entities/sphere/phistart) { get; set; } | Получает или задает начальную фи. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Radius](../../aspose.threed.entities/sphere/radius) { get; set; } | Получает или задает радиус сферы. |
-| [ReceiveShadows](../../aspose.threed.entities/primitive/receiveshadows) { get; set; } | Получает или задает, может ли эта геометрия получать тень. |
+| [ReceiveShadows](../../aspose.threed.entities/primitive/receiveshadows) { get; set; } | Получает или задает, может ли эта геометрия получать тени. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 | [ThetaLength](../../aspose.threed.entities/sphere/thetalength) { get; set; } | Получает или задает длину тета. |
 | [ThetaStart](../../aspose.threed.entities/sphere/thetastart) { get; set; } | Получает или задает начало тета. |
@@ -49,12 +49,12 @@ public class Sphere : Primitive
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
-| override [ToMesh](../../aspose.threed.entities/sphere/tomesh)() | Конвертировать текущий объект в меш |
+| override [ToMesh](../../aspose.threed.entities/sphere/tomesh)() | Преобразовать текущий объект в mesh |
 
 ### Смотрите также
 

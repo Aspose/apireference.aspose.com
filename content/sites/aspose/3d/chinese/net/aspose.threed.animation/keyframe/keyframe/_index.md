@@ -1,14 +1,14 @@
 ---
 title: KeyFrame
 second_title: Aspose.3D for .NET API 参考
-description: 在指定曲线上新建关键帧
+description: 在指定的曲线上创建一个新的关键帧
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.animation/keyframe/keyframe/
 ---
 ## KeyFrame constructor
 
-在指定曲线上新建关键帧
+在指定的曲线上创建一个新的关键帧
 
 ```csharp
 public KeyFrame(KeyframeSequence curve, double time)
@@ -16,7 +16,7 @@ public KeyFrame(KeyframeSequence curve, double time)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| curve | KeyframeSequence | 曲线关键帧将创建在 |
+| curve | KeyframeSequence | 将在其上创建关键帧的曲线 |
 | time | Double | 关键帧的时间位置 |
 
 ### 也可以看看

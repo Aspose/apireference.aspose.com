@@ -18,8 +18,8 @@ public class UsdSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [UsdSaveOptions](usdsaveoptions#constructor)() | Инициализировать новый[`UsdSaveOptions`](../usdsaveoptions)с[`USD`](../../aspose.threed/fileformat/usd)формат |
-| [UsdSaveOptions](usdsaveoptions#constructor_1)(FileFormat) | Инициализировать новый[`UsdSaveOptions`](../usdsaveoptions)с указанным форматом USD/USDZ. |
+| [UsdSaveOptions](usdsaveoptions#constructor)() | Инициализировать новый[`UsdSaveOptions`](../usdsaveoptions) с[`USD`](../../aspose.threed/fileformat/usd) формат |
+| [UsdSaveOptions](usdsaveoptions#constructor_1)(FileFormat) | Инициализировать новый[`UsdSaveOptions`](../usdsaveoptions) с указанным форматом USD/USDZ. |
 
 ## Характеристики
 
@@ -31,7 +31,8 @@ public class UsdSaveOptions : SaveOptions
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
-| [PrimitiveToMesh](../../aspose.threed.formats/usdsaveoptions/primitivetomesh) { get; set; } | Преобразование объектов-примитивов в меш во время экспорта. Или напрямую закодировать примитивы в выходной файл (используется определение расширения Aspose для неофициальных примитивов, таких как Dish, Torus) Значение по умолчанию - true. |
+| [MaterialConverter](../../aspose.threed.formats/usdsaveoptions/materialconverter) { get; set; } | Пользовательский преобразователь для преобразования материала геометрии в материал PBR Если он не назначен, экспортер в долларах США автоматически преобразует стандартный материал в материал PBR. Значение по умолчанию — null |
+| [PrimitiveToMesh](../../aspose.threed.formats/usdsaveoptions/primitivetomesh) { get; set; } | Преобразуйте объекты-примитивы в сетку во время экспорта. Или напрямую закодируйте примитивы в выходной файл (используется определение расширения Aspose для неофициальных примитивов, таких как Dish, Torus) Значение по умолчанию — true. |
 
 ### Смотрите также
 

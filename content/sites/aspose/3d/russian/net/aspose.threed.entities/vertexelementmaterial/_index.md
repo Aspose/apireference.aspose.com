@@ -1,14 +1,14 @@
 ---
 title: VertexElementMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Определяет индекс материала для указанных компонентов. У узла может быть несколько материаловVertexElementMaterial./vertexelementmaterialиспользуется для рендеринга разных частей геометрии в разных материалы.
+description: Определяет индекс материала для указанных компонентов. У узла может быть несколько материаловVertexElementMaterial./vertexelementmaterial используется для визуализации различных частей геометрии в разных материалах.
 type: docs
 weight: 820
 url: /ru/net/aspose.threed.entities/vertexelementmaterial/
 ---
 ## VertexElementMaterial class
 
-Определяет индекс материала для указанных компонентов. У узла может быть несколько материалов,[`VertexElementMaterial`](../vertexelementmaterial)используется для рендеринга разных частей геометрии в разных материалы.
+Определяет индекс материала для указанных компонентов. У узла может быть несколько материалов,[`VertexElementMaterial`](../vertexelementmaterial) используется для визуализации различных частей геометрии в разных материалах.
 
 ```csharp
 public class VertexElementMaterial : VertexElement
@@ -18,14 +18,14 @@ public class VertexElementMaterial : VertexElement
 
 | Имя | Описание |
 | --- | --- |
-| [VertexElementMaterial](vertexelementmaterial)() | Инициализирует новый экземпляр класса[`VertexElementMaterial`](../vertexelementmaterial). |
+| [VertexElementMaterial](vertexelementmaterial)() | Инициализирует новый экземпляр[`VertexElementMaterial`](../vertexelementmaterial) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает данные индексов |
-| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ сопоставления элемента. |
+| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает индексы data |
+| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ отображения элемента. |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | Получает или задает имя. |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | Получает или задает способ ссылки на элемент. |
 | [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | Получает тип[`VertexElement`](../vertexelement) |

@@ -1,14 +1,14 @@
 ---
 title: StlLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: 初始化一个新的StlLoadOptionsaspose.threed.formats/stlloadoptions实例
+description: 初始化一个新的StlLoadOptionsaspose.threed.formats/stlloadoptions实例.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/stlloadoptions/stlloadoptions/
 ---
 ## StlLoadOptions() {#constructor}
 
-初始化一个新的[`StlLoadOptions`](../../stlloadoptions)实例。
+初始化一个新的[`StlLoadOptions`](../../stlloadoptions)实例.
 
 ```csharp
 public StlLoadOptions()
@@ -24,7 +24,7 @@ public StlLoadOptions()
 
 ## StlLoadOptions(FileContentType) {#constructor_1}
 
-初始化一个新的[`StlLoadOptions`](../../stlloadoptions)实例。
+初始化一个新的[`StlLoadOptions`](../../stlloadoptions)实例.
 
 ```csharp
 public StlLoadOptions(FileContentType contentType)

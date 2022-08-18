@@ -1,14 +1,14 @@
 ---
 title: FaceColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает цвет грани который будет использоваться при визуализации трехмерного содержимого. Это имеет значение только тогда когдаRenderModeaspose.threed.formats/pdfsaveoptions/rendermodeимеет значение Illustration.
+description: Получает или задает цвет лица который будет использоваться при рендеринге 3D-содержимого. Это имеет значение только тогда когдаRenderModeaspose.threed.formats/pdfsaveoptions/rendermode имеет значение Illustration.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.formats/pdfsaveoptions/facecolor/
 ---
 ## PdfSaveOptions.FaceColor property
 
-Получает или задает цвет грани, который будет использоваться при визуализации трехмерного содержимого. Это имеет значение только тогда, когда[`RenderMode`](../rendermode)имеет значение Illustration.
+Получает или задает цвет лица, который будет использоваться при рендеринге 3D-содержимого. Это имеет значение только тогда, когда[`RenderMode`](../rendermode) имеет значение Illustration.
 
 ```csharp
 public Vector3 FaceColor { get; set; }

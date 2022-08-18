@@ -1,14 +1,14 @@
 ---
 title: Excluded
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否在导出过程中排除该节点和所有子节点/实体
+description: 获取或设置导出时是否排除本节点及所有子节点/实体
 type: docs
 weight: 60
 url: /zh/net/aspose.threed/node/excluded/
 ---
 ## Node.Excluded property
 
-获取或设置是否在导出过程中排除该节点和所有子节点/实体。
+获取或设置导出时是否排除本节点及所有子节点/实体。
 
 ```csharp
 public bool Excluded { get; set; }

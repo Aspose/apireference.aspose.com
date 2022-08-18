@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: Aspose.3D for .NET API 参考
-description: 获取该类型的扩展名
+description: 获取此类型的扩展名
 type: docs
 weight: 470
 url: /zh/net/aspose.threed/fileformat/extension/
 ---
 ## FileFormat.Extension property
 
-获取该类型的扩展名。
+获取此类型的扩展名。
 
 ```csharp
 public string Extension { get; }

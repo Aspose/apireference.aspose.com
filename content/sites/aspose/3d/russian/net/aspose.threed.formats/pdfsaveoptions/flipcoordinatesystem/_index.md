@@ -1,14 +1,14 @@
 ---
 title: FlipCoordinateSystem
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает отражение системы координат сцены во время экспорта.
+description: Получает или задает переворот системы координат сцены во время экспорта.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.formats/pdfsaveoptions/flipcoordinatesystem/
 ---
 ## PdfSaveOptions.FlipCoordinateSystem property
 
-Получает или задает отражение системы координат сцены во время экспорта.
+Получает или задает переворот системы координат сцены во время экспорта.
 
 ```csharp
 public bool FlipCoordinateSystem { get; set; }

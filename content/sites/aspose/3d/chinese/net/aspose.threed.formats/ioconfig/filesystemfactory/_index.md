@@ -1,14 +1,14 @@
 ---
 title: FileSystemFactory
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 FileSystem 的工厂类 默认工厂会创建LocalFileSystemaspose.threed.utilities/localfilesystem不适用于服务器环境
+description: 获取或设置 FileSystem 的工厂类 默认工厂将创建LocalFileSystemaspose.threed.utilities/localfilesystem不适合服务器环境
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.formats/ioconfig/filesystemfactory/
 ---
 ## IOConfig.FileSystemFactory property
 
-获取或设置 FileSystem 的工厂类。 默认工厂会创建[`LocalFileSystem`](../../../aspose.threed.utilities/localfilesystem)不适用于服务器环境。
+获取或设置 FileSystem 的工厂类。 默认工厂将创建[`LocalFileSystem`](../../../aspose.threed.utilities/localfilesystem)不适合服务器环境。
 
 ```csharp
 public static FileSystemFactory FileSystemFactory { get; set; }

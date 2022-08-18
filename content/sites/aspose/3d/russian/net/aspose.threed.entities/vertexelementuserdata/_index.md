@@ -1,14 +1,14 @@
 ---
 title: VertexElementUserData
 second_title: Справочник по Aspose.3D для .NET API
-description: Определяет пользовательские данные для указанных компонентов. Обычно это специфичные для приложения данные специального назначения.
+description: Определяет пользовательские данные для указанных компонентов. Обычно это специфические для приложения данные специального назначения.
 type: docs
 weight: 910
 url: /ru/net/aspose.threed.entities/vertexelementuserdata/
 ---
 ## VertexElementUserData class
 
-Определяет пользовательские данные для указанных компонентов. Обычно это специфичные для приложения данные специального назначения.
+Определяет пользовательские данные для указанных компонентов. Обычно это специфические для приложения данные специального назначения.
 
 ```csharp
 public class VertexElementUserData : VertexElement
@@ -18,15 +18,15 @@ public class VertexElementUserData : VertexElement
 
 | Имя | Описание |
 | --- | --- |
-| [VertexElementUserData](vertexelementuserdata)() | Инициализирует новый экземпляр класса[`VertexElementUserData`](../vertexelementuserdata). |
+| [VertexElementUserData](vertexelementuserdata)() | Инициализирует новый экземпляр[`VertexElementUserData`](../vertexelementuserdata) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.threed.entities/vertexelementuserdata/data) { get; set; } | Пользовательские данные прикреплены в этом элементе |
-| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает данные индексов |
-| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ сопоставления элемента. |
+| [Data](../../aspose.threed.entities/vertexelementuserdata/data) { get; set; } | Пользовательские данные, прикрепленные к этому элементу |
+| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает индексы data |
+| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ отображения элемента. |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | Получает или задает имя. |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | Получает или задает способ ссылки на элемент. |
 | [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | Получает тип[`VertexElement`](../vertexelement) |

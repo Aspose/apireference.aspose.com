@@ -1,14 +1,14 @@
 ---
 title: IVertexBuffer
 second_title: Aspose.3D for .NET API 参考
-description: 顶点缓冲区保存将发送到渲染管道的多边形顶点数据
+description: 顶点缓冲区保存将发送到渲染管线的多边形顶点数据
 type: docs
-weight: 1950
+weight: 1960
 url: /zh/net/aspose.threed.render/ivertexbuffer/
 ---
 ## IVertexBuffer interface
 
-顶点缓冲区保存将发送到渲染管道的多边形顶点数据
+顶点缓冲区保存将发送到渲染管线的多边形顶点数据
 
 ```csharp
 public interface IVertexBuffer : IBuffer
@@ -25,7 +25,7 @@ public interface IVertexBuffer : IBuffer
 | 姓名 | 描述 |
 | --- | --- |
 | [LoadData](../../aspose.threed.render/ivertexbuffer/loaddata#loaddata_2)(Array) | 从数组加载数据 |
-| [LoadData](../../aspose.threed.render/ivertexbuffer/loaddata#loaddata)(TriMesh) | 从[`TriMesh`](../../aspose.threed.entities/trimesh) |
+| [LoadData](../../aspose.threed.render/ivertexbuffer/loaddata#loaddata)(TriMesh) | 加载顶点数据[`TriMesh`](../../aspose.threed.entities/trimesh) |
 | [LoadData](../../aspose.threed.render/ivertexbuffer/loaddata#loaddata_1)(IntPtr, int) | 从给定位置加载数据 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: StlLoadOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземплярStlLoadOptionsaspose.threed.formats/stlloadoptions.
+description: Инициализирует новыйStlLoadOptionsaspose.threed.formats/stlloadoptions экземпляр.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/stlloadoptions/stlloadoptions/
 ---
 ## StlLoadOptions() {#constructor}
 
-Инициализирует новый экземпляр[`StlLoadOptions`](../../stlloadoptions).
+Инициализирует новый[`StlLoadOptions`](../../stlloadoptions) экземпляр.
 
 ```csharp
 public StlLoadOptions()
@@ -24,7 +24,7 @@ public StlLoadOptions()
 
 ## StlLoadOptions(FileContentType) {#constructor_1}
 
-Инициализирует новый экземпляр[`StlLoadOptions`](../../stlloadoptions).
+Инициализирует новый[`StlLoadOptions`](../../stlloadoptions) экземпляр.
 
 ```csharp
 public StlLoadOptions(FileContentType contentType)

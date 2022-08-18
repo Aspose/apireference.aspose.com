@@ -1,14 +1,14 @@
 ---
 title: Frustum
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置用于提供视图矩阵的平截头体
+description: 获取或设置用于提供视图矩阵的截锥体
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.render/renderer/frustum/
 ---
 ## Renderer.Frustum property
 
-获取或设置用于提供视图矩阵的平截头体。
+获取或设置用于提供视图矩阵的截锥体。
 
 ```csharp
 public virtual Frustum Frustum { get; set; }

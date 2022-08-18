@@ -1,14 +1,14 @@
 ---
 title: LocalFileSystem
 second_title: Aspose.3D for .NET API 参考
-description: LocalFileSystem./localfilesystem会将读/写操作映射到本地目录
+description: 的LocalFileSystem./localfilesystem将读/写操作映射到本地目录
 type: docs
-weight: 2550
+weight: 2540
 url: /zh/net/aspose.threed.utilities/localfilesystem/
 ---
 ## LocalFileSystem class
 
-[`LocalFileSystem`](../localfilesystem)会将读/写操作映射到本地目录。
+的[`LocalFileSystem`](../localfilesystem)将读/写操作映射到本地目录。
 
 ```csharp
 public class LocalFileSystem : FileSystem
@@ -18,14 +18,14 @@ public class LocalFileSystem : FileSystem
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LocalFileSystem](localfilesystem)(string) | 使用指定的基本目录初始化一个新的[`LocalFileSystem`](../localfilesystem)。 |
+| [LocalFileSystem](localfilesystem)(string) | 初始化一个新的[`LocalFileSystem`](../localfilesystem)具有指定的基本目录。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | 处置文件系统并释放其资源。 |
-| override [ReadFile](../../aspose.threed.utilities/localfilesystem/readfile)(string, IOConfig) | 创建一个流来读取依赖。 |
+| override [ReadFile](../../aspose.threed.utilities/localfilesystem/readfile)(string, IOConfig) | 创建一个用于读取依赖项的流。 |
 | override [WriteFile](../../aspose.threed.utilities/localfilesystem/writefile)(string, IOConfig) | 创建一个用于写入依赖项的流。 |
 
 ### 也可以看看

@@ -16,7 +16,7 @@ public IList<int> Indices { get; }
 
 ### 适当的价值
 
-索引。
+指数。
 
 ### 也可以看看
 

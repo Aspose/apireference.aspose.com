@@ -1,14 +1,14 @@
 ---
 title: UnitScaleFactor
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置真实世界米的比例因子
+description: 获取或设置实际仪表的比例因子
 type: docs
 weight: 170
 url: /zh/net/aspose.threed/assetinfo/unitscalefactor/
 ---
 ## AssetInfo.UnitScaleFactor property
 
-获取或设置真实世界米的比例因子。
+获取或设置实际仪表的比例因子。
 
 ```csharp
 public double UnitScaleFactor { get; set; }

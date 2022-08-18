@@ -16,8 +16,8 @@ public void SetTexture(string slotName, TextureBase texture)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| slotName | String | Имя слота. |
-| текстура | TextureBase | Текстура. |
+| slotName | String | Название слота. |
+| texture | TextureBase | Текстура. |
 
 ### Смотрите также
 

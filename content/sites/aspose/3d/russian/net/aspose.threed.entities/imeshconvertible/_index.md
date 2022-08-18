@@ -18,7 +18,7 @@ public interface IMeshConvertible
 
 | Имя | Описание |
 | --- | --- |
-| [ToMesh](../../aspose.threed.entities/imeshconvertible/tomesh)() | Конвертировать текущий объект в меш |
+| [ToMesh](../../aspose.threed.entities/imeshconvertible/tomesh)() | Преобразовать текущий объект в mesh |
 
 ### Смотрите также
 

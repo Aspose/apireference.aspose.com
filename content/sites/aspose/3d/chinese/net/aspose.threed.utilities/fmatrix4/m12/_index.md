@@ -1,14 +1,14 @@
 ---
 title: m12
 second_title: Aspose.3D for .NET API 参考
-description: m12
+description: m12.
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.utilities/fmatrix4/m12/
 ---
 ## FMatrix4.m12 field
 
-m12。
+m12.
 
 ```csharp
 public float m12;

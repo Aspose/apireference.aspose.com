@@ -1,14 +1,14 @@
 ---
 title: Time
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает временную позицию ключевого кадра list.dataindex в секундах.
+description: Получает или задает временную позицию ключевого кадра list.dataindex измеренную в секундах.
 type: docs
 weight: 140
 url: /ru/net/aspose.threed.animation/keyframe/time/
 ---
 ## KeyFrame.Time property
 
-Получает или задает временную позицию ключевого кадра list.data[index] в секундах.
+Получает или задает временную позицию ключевого кадра list.data[index], измеренную в секундах.
 
 ```csharp
 public double Time { get; set; }

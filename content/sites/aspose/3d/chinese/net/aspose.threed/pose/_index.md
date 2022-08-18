@@ -1,14 +1,14 @@
 ---
 title: Pose
 second_title: Aspose.3D for .NET API 参考
-description: 位姿用于存储几何体蒙皮时的变换矩阵 pose是一组BonePose./bonepose每个BonePose./bonepose保存具体的变换信息的骨节点
+description: 位姿用于存储几何体蒙皮时的变换矩阵 位姿是一组BonePose./bonepose 每个BonePose./bonepose保存骨骼节点的具体变换信息
 type: docs
-weight: 1480
+weight: 1490
 url: /zh/net/aspose.threed/pose/
 ---
 ## Pose class
 
-位姿用于存储几何体蒙皮时的变换矩阵。 pose是一组[`BonePose`](../bonepose)，每个[`BonePose`](../bonepose)保存具体的变换信息的骨节点。
+位姿用于存储几何体蒙皮时的变换矩阵。 位姿是一组[`BonePose`](../bonepose)， 每个[`BonePose`](../bonepose)保存骨骼节点的具体变换信息。
 
 ```csharp
 public class Pose : A3DObject
@@ -18,14 +18,14 @@ public class Pose : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Pose](pose#constructor)() | 初始化[`Pose`](../pose)类的新实例。 |
-| [Pose](pose#constructor_1)(string) | 初始化[`Pose`](../pose)类的新实例。 |
+| [Pose](pose#constructor)() | 初始化[`Pose`](../pose)类. |
+| [Pose](pose#constructor_1)(string) | 初始化[`Pose`](../pose)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BonePoses](../../aspose.threed/pose/boneposes) { get; } | 获取所有[`BonePose`](../bonepose)。 |
+| [BonePoses](../../aspose.threed/pose/boneposes) { get; } | 获取所有[`BonePose`](../bonepose). |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [PoseType](../../aspose.threed/pose/posetype) { get; set; } | 获取或设置姿势的类型。 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
@@ -36,10 +36,10 @@ public class Pose : A3DObject
 | --- | --- |
 | [AddBonePose](../../aspose.threed/pose/addbonepose#addbonepose)(Node, Matrix4) | 保存给定骨骼节点的姿势变换矩阵。 隐含全局变换矩阵。 |
 | [AddBonePose](../../aspose.threed/pose/addbonepose#addbonepose_1)(Node, Matrix4, bool) | 保存给定骨骼节点的姿势变换矩阵。 |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: IRenderQueue
 second_title: Справочник по Aspose.3D для .NET API
-description: Визуализатор объектов использует эту очередь для управления задачами рендеринга.
+description: Модуль рендеринга объектов использует эту очередь для управления задачами рендеринга.
 type: docs
-weight: 1870
+weight: 1880
 url: /ru/net/aspose.threed.render/irenderqueue/
 ---
 ## IRenderQueue interface
 
-Визуализатор объектов использует эту очередь для управления задачами рендеринга.
+Модуль рендеринга объектов использует эту очередь для управления задачами рендеринга.
 
 ```csharp
 public interface IRenderQueue

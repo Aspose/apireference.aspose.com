@@ -1,14 +1,14 @@
 ---
 title: CreateUniformBuffer
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать новый юниформ-буфер на стороне GPU с предварительно выделенным размером.
+description: Создать новый юниформ-буфер на стороне графического процессора с предварительно выделенным размером.
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.render/renderfactory/createuniformbuffer/
 ---
 ## RenderFactory.CreateUniformBuffer method
 
-Создать новый юниформ-буфер на стороне GPU с предварительно выделенным размером.
+Создать новый юниформ-буфер на стороне графического процессора с предварительно выделенным размером.
 
 ```csharp
 public abstract IBuffer CreateUniformBuffer(int size)
@@ -20,7 +20,7 @@ public abstract IBuffer CreateUniformBuffer(int size)
 
 ### Возвращаемое значение
 
-юниформ-буфера экземпляр
+Экземпляр юниформ-буфера
 
 ### Смотрите также
 

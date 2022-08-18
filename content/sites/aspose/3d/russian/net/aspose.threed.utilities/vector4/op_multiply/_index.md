@@ -17,7 +17,7 @@ public static Vector4 operator *(Vector4 lhs, Vector4 rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | Vector4 | Левый вектор |
-| rhs | Vector4 | Правый вектор |
+| rhs | Vector4 | Правильный вектор |
 
 ### Возвращаемое значение
 
@@ -42,7 +42,7 @@ public static Vector4 operator *(Vector4 lhs, double rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | Vector4 | Левый вектор |
-| rhs | Double | Правое двойное значение |
+| rhs | Double | Правильное двойное значение |
 
 ### Возвращаемое значение
 

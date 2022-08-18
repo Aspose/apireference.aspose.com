@@ -1,14 +1,14 @@
 ---
 title: Vector2
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр структурыVector2aspose.threed.utilities/vector2.
+description: Инициализирует новый экземплярVector2aspose.threed.utilities/vector2 структура.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/vector2/vector2/
 ---
 ## Vector2(double) {#constructor_1}
 
-Инициализирует новый экземпляр структуры[`Vector2`](../../vector2).
+Инициализирует новый экземпляр[`Vector2`](../../vector2) структура.
 
 ```csharp
 public Vector2(double s)
@@ -16,7 +16,7 @@ public Vector2(double s)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | Double | S. |
+| s | Double | С. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public Vector2(double s)
 
 ## Vector2(FVector2) {#constructor}
 
-Инициализирует новый экземпляр структуры[`Vector2`](../../vector2).
+Инициализирует новый экземпляр[`Vector2`](../../vector2) структура.
 
 ```csharp
 public Vector2(FVector2 vec)
@@ -36,7 +36,7 @@ public Vector2(FVector2 vec)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vec | FVector2 | Вектор с плавающей запятой. |
+| vec | FVector2 | Вектор в поплавке. |
 
 ### Смотрите также
 
@@ -49,7 +49,7 @@ public Vector2(FVector2 vec)
 
 ## Vector2(double, double) {#constructor_2}
 
-Инициализирует новый экземпляр структуры[`Vector2`](../../vector2).
+Инициализирует новый экземпляр[`Vector2`](../../vector2) структура.
 
 ```csharp
 public Vector2(double x, double y)
@@ -57,8 +57,8 @@ public Vector2(double x, double y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Координата x. |
-| y | Double | Координата y. |
+| x | Double | Координата х. |
+| y | Double | Координата у. |
 
 ### Смотрите также
 

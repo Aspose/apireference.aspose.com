@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Справочник по Aspose.3D для .NET API
-description: Копирует данные в указанный элемент
+description: Копирует данные в указанный element
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/vertexelementintstemplate/copyto/
 ---
 ## VertexElementIntsTemplate.CopyTo method
 
-Копирует данные в указанный элемент
+Копирует данные в указанный element
 
 ```csharp
 public void CopyTo(VertexElementIntsTemplate target)
@@ -16,7 +16,7 @@ public void CopyTo(VertexElementIntsTemplate target)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| target | VertexElementIntsTemplate | Target. |
+| target | VertexElementIntsTemplate | Цель. |
 
 ### Смотрите также
 

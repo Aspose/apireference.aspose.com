@@ -3,7 +3,7 @@ title: ITexture2D
 second_title: Справочник по Aspose.3D для .NET API
 description: 2D-текстура
 type: docs
-weight: 1920
+weight: 1930
 url: /ru/net/aspose.threed.render/itexture2d/
 ---
 ## ITexture2D interface
@@ -18,10 +18,10 @@ public interface ITexture2D : ITextureUnit
 
 | Имя | Описание |
 | --- | --- |
-| [Load](../../aspose.threed.render/itexture2d/load)(TextureData) | Загрузить содержимое текстуры из указанного растрового изображения |
-| [Save](../../aspose.threed.render/itexture2d/save#save)(Bitmap) | Сохраните содержимое текстуры во внешний файл. |
-| [Save](../../aspose.threed.render/itexture2d/save#save_1)(string, ImageFormat) | Сохраните содержимое текстуры во внешний файл. |
-| [ToBitmap](../../aspose.threed.render/itexture2d/tobitmap)() | Преобразование блока текстуры вBitmapinstance |
+| [Load](../../aspose.threed.render/itexture2d/load)(TextureData) | Загрузить содержимое текстуры из указанного Bitmap |
+| [Save](../../aspose.threed.render/itexture2d/save#save)(Bitmap) | Сохранить содержимое текстуры во внешний файл. |
+| [Save](../../aspose.threed.render/itexture2d/save#save_1)(string, ImageFormat) | Сохранить содержимое текстуры во внешний файл. |
+| [ToBitmap](../../aspose.threed.render/itexture2d/tobitmap)() | Преобразование блока текстуры вBitmap instance |
 
 ### Смотрите также
 

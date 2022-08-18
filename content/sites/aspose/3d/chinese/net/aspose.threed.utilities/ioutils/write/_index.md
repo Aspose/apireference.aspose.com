@@ -1,14 +1,14 @@
 ---
 title: Write
 second_title: Aspose.3D for .NET API 参考
-description: 将矩阵写入二进制写入器
+description: 将矩阵写入二进制 writer
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/ioutils/write/
 ---
 ## Write(this BinaryWriter, Matrix4) {#write_4}
 
-将矩阵写入二进制写入器
+将矩阵写入二进制 writer
 
 ```csharp
 public static void Write(this BinaryWriter writer, Matrix4 mat)
@@ -17,7 +17,7 @@ public static void Write(this BinaryWriter writer, Matrix4 mat)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | writer | BinaryWriter | 目标二进制写入器 |
-| mat | Matrix4 | 要写入的矩阵 |
+| mat | Matrix4 | 要写的矩阵 |
 
 ### 也可以看看
 
@@ -30,7 +30,7 @@ public static void Write(this BinaryWriter writer, Matrix4 mat)
 
 ## Write(this BinaryWriter, FMatrix4) {#write}
 
-将矩阵写入二进制写入器
+将矩阵写入二进制 writer
 
 ```csharp
 public static void Write(this BinaryWriter writer, FMatrix4 mat)
@@ -39,7 +39,7 @@ public static void Write(this BinaryWriter writer, FMatrix4 mat)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | writer | BinaryWriter | 目标二进制写入器 |
-| mat | FMatrix4 | 要写入的矩阵 |
+| mat | FMatrix4 | 要写的矩阵 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public static void Write(this BinaryWriter writer, FMatrix4 mat)
 
 ## Write(this BinaryWriter, FVector2) {#write_1}
 
-将向量写入二进制写入器
+将向量写入二进制 writer
 
 ```csharp
 public static void Write(this BinaryWriter writer, FVector2 v)
@@ -61,7 +61,7 @@ public static void Write(this BinaryWriter writer, FVector2 v)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | writer | BinaryWriter | 目标二进制写入器 |
-| v | FVector2 | 要写入的向量 |
+| v | FVector2 | 要写的向量 |
 
 ### 也可以看看
 
@@ -74,7 +74,7 @@ public static void Write(this BinaryWriter writer, FVector2 v)
 
 ## Write(this BinaryWriter, FVector3) {#write_2}
 
-将向量写入二进制写入器
+将向量写入二进制 writer
 
 ```csharp
 public static void Write(this BinaryWriter writer, FVector3 v)
@@ -83,7 +83,7 @@ public static void Write(this BinaryWriter writer, FVector3 v)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | writer | BinaryWriter | 目标二进制写入器 |
-| v | FVector3 | 要写入的向量 |
+| v | FVector3 | 要写的向量 |
 
 ### 也可以看看
 
@@ -96,7 +96,7 @@ public static void Write(this BinaryWriter writer, FVector3 v)
 
 ## Write(this BinaryWriter, FVector4) {#write_3}
 
-将向量写入二进制写入器
+将向量写入二进制 writer
 
 ```csharp
 public static void Write(this BinaryWriter writer, FVector4 v)
@@ -105,7 +105,7 @@ public static void Write(this BinaryWriter writer, FVector4 v)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | writer | BinaryWriter | 目标二进制写入器 |
-| v | FVector4 | 要写入的向量 |
+| v | FVector4 | 要写的向量 |
 
 ### 也可以看看
 
@@ -118,7 +118,7 @@ public static void Write(this BinaryWriter writer, FVector4 v)
 
 ## Write(this BinaryWriter, Vector2) {#write_5}
 
-将向量写入二进制写入器
+将向量写入二进制 writer
 
 ```csharp
 public static void Write(this BinaryWriter writer, Vector2 v)
@@ -127,7 +127,7 @@ public static void Write(this BinaryWriter writer, Vector2 v)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | writer | BinaryWriter | 目标二进制写入器 |
-| v | Vector2 | 要写入的向量 |
+| v | Vector2 | 要写的向量 |
 
 ### 也可以看看
 
@@ -140,7 +140,7 @@ public static void Write(this BinaryWriter writer, Vector2 v)
 
 ## Write(this BinaryWriter, Vector3) {#write_6}
 
-将向量写入二进制写入器
+将向量写入二进制 writer
 
 ```csharp
 public static void Write(this BinaryWriter writer, Vector3 v)
@@ -149,7 +149,7 @@ public static void Write(this BinaryWriter writer, Vector3 v)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | writer | BinaryWriter | 目标二进制写入器 |
-| v | Vector3 | 要写入的向量 |
+| v | Vector3 | 要写的向量 |
 
 ### 也可以看看
 
@@ -162,7 +162,7 @@ public static void Write(this BinaryWriter writer, Vector3 v)
 
 ## Write(this BinaryWriter, Vector4) {#write_7}
 
-将向量写入二进制写入器
+将向量写入二进制 writer
 
 ```csharp
 public static void Write(this BinaryWriter writer, Vector4 v)
@@ -171,7 +171,7 @@ public static void Write(this BinaryWriter writer, Vector4 v)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | writer | BinaryWriter | 目标二进制写入器 |
-| v | Vector4 | 要写入的向量 |
+| v | Vector4 | 要写的向量 |
 
 ### 也可以看看
 

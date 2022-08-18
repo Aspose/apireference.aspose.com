@@ -1,14 +1,14 @@
 ---
 title: ZipArchiveFileSystem
 second_title: Справочник по Aspose.3D для .NET API
-description: СоздайтеZipArchiveFileSystemaspose.threed.utilities/ziparchivefilesystemчерез поток.
+description: ПостроитьZipArchiveFileSystemaspose.threed.utilities/ziparchivefilesystem через поток.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/ziparchivefilesystem/ziparchivefilesystem/
 ---
 ## ZipArchiveFileSystem(Stream, string) {#constructor_1}
 
-Создайте[`ZipArchiveFileSystem`](../../ziparchivefilesystem)через поток.
+Построить[`ZipArchiveFileSystem`](../../ziparchivefilesystem) через поток.
 
 ```csharp
 public ZipArchiveFileSystem(Stream stream, string baseDir)
@@ -29,7 +29,7 @@ public ZipArchiveFileSystem(Stream stream, string baseDir)
 
 ## ZipArchiveFileSystem(Stream) {#constructor}
 
-Создайте[`ZipArchiveFileSystem`](../../ziparchivefilesystem)через поток.
+Построить[`ZipArchiveFileSystem`](../../ziparchivefilesystem) через поток.
 
 ```csharp
 public ZipArchiveFileSystem(Stream stream)
@@ -37,7 +37,7 @@ public ZipArchiveFileSystem(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| поток | Stream |  |
+| stream | Stream |  |
 
 ### Смотрите также
 
@@ -49,7 +49,7 @@ public ZipArchiveFileSystem(Stream stream)
 
 ## ZipArchiveFileSystem(string) {#constructor_2}
 
-Создать[`ZipArchiveFileSystem`](../../ziparchivefilesystem)по имени файла.
+Построить[`ZipArchiveFileSystem`](../../ziparchivefilesystem) через имя файла.
 
 ```csharp
 public ZipArchiveFileSystem(string fileName)

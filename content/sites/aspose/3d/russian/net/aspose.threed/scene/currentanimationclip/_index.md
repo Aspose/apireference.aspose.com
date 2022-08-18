@@ -1,14 +1,14 @@
 ---
 title: CurrentAnimationClip
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает активныйAnimationClipaspose.threed.animation/animationclip
+description: Получает или задает активныйAnimationClipaspose.threed.animation/animationclip
 type: docs
 weight: 60
 url: /ru/net/aspose.threed/scene/currentanimationclip/
 ---
 ## Scene.CurrentAnimationClip property
 
-Получает или устанавливает активный[`AnimationClip`](../../../aspose.threed.animation/animationclip)
+Получает или задает активный[`AnimationClip`](../../../aspose.threed.animation/animationclip)
 
 ```csharp
 public AnimationClip CurrentAnimationClip { get; set; }

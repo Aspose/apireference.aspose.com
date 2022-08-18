@@ -23,18 +23,18 @@ public class RvmFormat : FileFormat
 | [ContentType](../../aspose.threed/fileformat/contenttype) { get; } | Получает тип содержимого формата файла |
 | [Extension](../../aspose.threed/fileformat/extension) { get; } | Получает имя расширения этого типа. |
 | [Extensions](../../aspose.threed/fileformat/extensions) { get; } | Получает имена расширений этого типа. |
-| [FileFormatType](../../aspose.threed/fileformat/fileformattype) { get; } | Получает тип формата файла |
+| [FileFormatType](../../aspose.threed/fileformat/fileformattype) { get; } | Получает формат файла type |
 | [Version](../../aspose.threed/fileformat/version) { get; } | Получает версию формата файла |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Создать параметры загрузки по умолчанию для этого формата файла |
-| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Создать параметры сохранения по умолчанию для этого формата файла |
+| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Создать параметры загрузки по умолчанию для этого файла формата |
+| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Создать параметры сохранения по умолчанию для этого файла формата |
 | [LoadAttributes](../../aspose.threed.formats/rvmformat/loadattributes#loadattributes)(Scene, Stream, string) | Загрузить атрибуты из указанного потока |
-| [LoadAttributes](../../aspose.threed.formats/rvmformat/loadattributes#loadattributes_1)(Scene, string, string) | Загрузить атрибуты из указанного имени файла |
-| override [ToString](../../aspose.threed/fileformat/tostring)() | Форматирует в строку |
+| [LoadAttributes](../../aspose.threed.formats/rvmformat/loadattributes#loadattributes_1)(Scene, string, string) | Загрузить атрибуты из файла с указанным именем |
+| override [ToString](../../aspose.threed/fileformat/tostring)() | Форматирует строку |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: PreBehavior
 second_title: Aspose.3D for .NET API 参考
-description: 获取前行为指示采样值在第一个键之前应该是什么
+description: 获取 pre 行为指示在第一个键之前采样值应该是什么
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.animation/keyframesequence/prebehavior/
 ---
 ## KeyframeSequence.PreBehavior property
 
-获取前行为指示采样值在第一个键之前应该是什么。
+获取 pre 行为指示在第一个键之前采样值应该是什么。
 
 ```csharp
 public Extrapolation PreBehavior { get; }

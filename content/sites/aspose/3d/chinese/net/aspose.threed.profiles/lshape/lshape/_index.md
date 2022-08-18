@@ -1,14 +1,14 @@
 ---
 title: LShape
 second_title: Aspose.3D for .NET API 参考
-description: LShapeaspose.threed.profiles/lshape
+description: 的构造函数LShapeaspose.threed.profiles/lshape
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/lshape/lshape/
 ---
 ## LShape constructor
 
-[`LShape`](../../lshape)
+的构造函数[`LShape`](../../lshape)
 
 ```csharp
 public LShape()

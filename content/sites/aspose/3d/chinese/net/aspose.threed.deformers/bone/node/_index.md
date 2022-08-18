@@ -1,14 +1,14 @@
 ---
 title: Node
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置节点骨骼节点是皮肤附着的骨骼SkinDeformeraspose.threed.deformers/skindeformer将使用骨骼节点来影响控制点的位移 骨骼节点通常有一个Skeletonaspose.threed.entities/skeleton附加但这不是必需的 附件Skeletonaspose.threed.entities/skeleton通常被 DCC 软件用来向用户展示骨架
+description: 获取或设置节点骨骼节点是皮肤附着的骨骼SkinDeformeraspose.threed.deformers/skindeformer将使用骨骼节点来影响控制点的位移 骨骼节点通常有一个Skeletonaspose.threed.entities/skeleton附加但不是必需的 附加Skeletonaspose.threed.entities/skeleton通常由 DCC 软件用于向用户显示骨架
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.deformers/bone/node/
 ---
 ## Bone.Node property
 
-获取或设置节点。骨骼节点是皮肤附着的骨骼，[`SkinDeformer`](../../skindeformer)将使用骨骼节点来影响控制点的位移。 骨骼节点通常有一个[`Skeleton`](../../../aspose.threed.entities/skeleton)附加，但这不是必需的。 附件[`Skeleton`](../../../aspose.threed.entities/skeleton)通常被 DCC 软件用来向用户展示骨架。
+获取或设置节点。骨骼节点是皮肤附着的骨骼，[`SkinDeformer`](../../skindeformer)将使用骨骼节点来影响控制点的位移。 骨骼节点通常有一个[`Skeleton`](../../../aspose.threed.entities/skeleton)附加，但不是必需的。 附加[`Skeleton`](../../../aspose.threed.entities/skeleton)通常由 DCC 软件用于向用户显示骨架。
 
 ```csharp
 public Node Node { get; set; }

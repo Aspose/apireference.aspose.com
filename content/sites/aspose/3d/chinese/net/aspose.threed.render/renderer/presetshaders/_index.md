@@ -1,14 +1,14 @@
 ---
 title: PresetShaders
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置预设着色器集
+description: 获取或设置预设着色器 set
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.render/renderer/presetshaders/
 ---
 ## Renderer.PresetShaders property
 
-获取或设置预设着色器集
+获取或设置预设着色器 set
 
 ```csharp
 public PresetShaders PresetShaders { get; set; }

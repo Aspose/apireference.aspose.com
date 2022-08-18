@@ -1,14 +1,14 @@
 ---
 title: Camera
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаCameraaspose.threed.entities/camera.
+description: Инициализирует новый экземплярCameraaspose.threed.entities/camera класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/camera/camera/
 ---
 ## Camera() {#constructor}
 
-Инициализирует новый экземпляр класса[`Camera`](../../camera).
+Инициализирует новый экземпляр[`Camera`](../../camera) класс.
 
 ```csharp
 public Camera()
@@ -24,7 +24,7 @@ public Camera()
 
 ## Camera(ProjectionType) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Camera`](../../camera).
+Инициализирует новый экземпляр[`Camera`](../../camera) класс.
 
 ```csharp
 public Camera(ProjectionType projectionType)
@@ -45,7 +45,7 @@ public Camera(ProjectionType projectionType)
 
 ## Camera(string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Camera`](../../camera).
+Инициализирует новый экземпляр[`Camera`](../../camera) класс.
 
 ```csharp
 public Camera(string name)
@@ -65,7 +65,7 @@ public Camera(string name)
 
 ## Camera(string, ProjectionType) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`Camera`](../../camera).
+Инициализирует новый экземпляр[`Camera`](../../camera) класс.
 
 ```csharp
 public Camera(string name, ProjectionType projectionType)

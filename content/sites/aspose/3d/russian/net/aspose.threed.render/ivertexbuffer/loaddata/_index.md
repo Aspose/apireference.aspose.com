@@ -38,7 +38,7 @@ public void LoadData(IntPtr data, int size)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | data | IntPtr |  |
-| размер | Int32 |  |
+| size | Int32 |  |
 
 ### Смотрите также
 

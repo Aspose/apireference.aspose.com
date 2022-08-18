@@ -1,14 +1,14 @@
 ---
 title: ShaderVariable
 second_title: Aspose.3D for .NET API 参考
-description: 的构造函数 ShaderVariableaspose.threed.render/shadervariable
+description: 的构造函数ShaderVariableaspose.threed.render/shadervariable
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/shadervariable/shadervariable/
 ---
 ## ShaderVariable(string) {#constructor}
 
-的构造函数 [`ShaderVariable`](../../shadervariable)
+的构造函数[`ShaderVariable`](../../shadervariable)
 
 ```csharp
 public ShaderVariable(string name)
@@ -28,7 +28,7 @@ public ShaderVariable(string name)
 
 ## ShaderVariable(string, ShaderStage) {#constructor_1}
 
-的构造函数 [`ShaderVariable`](../../shadervariable)
+的构造函数[`ShaderVariable`](../../shadervariable)
 
 ```csharp
 public ShaderVariable(string name, ShaderStage shaderStage)

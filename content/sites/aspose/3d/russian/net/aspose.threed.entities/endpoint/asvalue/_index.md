@@ -1,14 +1,14 @@
 ---
 title: AsValue
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает конечную точку как реальный параметр или генерирует исключение.
+description: Получает конечную точку как реальный параметр или создает исключение.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.entities/endpoint/asvalue/
 ---
 ## EndPoint.AsValue property
 
-Получает конечную точку как реальный параметр или генерирует исключение.
+Получает конечную точку как реальный параметр или создает исключение.
 
 ```csharp
 public double AsValue { get; }

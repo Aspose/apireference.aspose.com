@@ -1,14 +1,14 @@
 ---
 title: EnableCompression
 second_title: Справочник по Aspose.3D для .NET API
-description: Использовать ли сжатие для уменьшения конечного размера файла значение по умолчанию равно true
+description: Использовать ли сжатие для уменьшения конечного размера файла значение по умолчанию  true
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/amfsaveoptions/enablecompression/
 ---
 ## AmfSaveOptions.EnableCompression property
 
-Использовать ли сжатие для уменьшения конечного размера файла, значение по умолчанию равно true
+Использовать ли сжатие для уменьшения конечного размера файла, значение по умолчанию — true
 
 ```csharp
 public bool EnableCompression { get; set; }

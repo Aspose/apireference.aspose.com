@@ -24,18 +24,18 @@ public class PdfSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [AuxiliaryColor](../../aspose.threed.formats/pdfsaveoptions/auxiliarycolor) { get; set; } | Получает или задает вспомогательный цвет, который будет использоваться при рендеринге трехмерного содержимого. Интерпретация этого цвета зависит от[`RenderMode`](./rendermode) |
+| [AuxiliaryColor](../../aspose.threed.formats/pdfsaveoptions/auxiliarycolor) { get; set; } | Получает или задает вспомогательный цвет, который будет использоваться при рендеринге 3D-контента. Интерпретация этого цвета зависит от[`RenderMode`](./rendermode) |
 | [BackgroundColor](../../aspose.threed.formats/pdfsaveoptions/backgroundcolor) { get; set; } | Цвет фона 3D-вида в файле PDF. |
 | [EmbedTextures](../../aspose.threed.formats/pdfsaveoptions/embedtextures) { get; set; } | Встроить внешние текстуры в файл PDF, значение по умолчанию — false. |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
-| [FaceColor](../../aspose.threed.formats/pdfsaveoptions/facecolor) { get; set; } | Получает или задает цвет грани, который будет использоваться при визуализации трехмерного содержимого. Это имеет значение только тогда, когда[`RenderMode`](./rendermode)имеет значение Illustration. |
+| [FaceColor](../../aspose.threed.formats/pdfsaveoptions/facecolor) { get; set; } | Получает или задает цвет лица, который будет использоваться при рендеринге 3D-содержимого. Это имеет значение только тогда, когда[`RenderMode`](./rendermode) имеет значение Illustration. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [FlipCoordinateSystem](../../aspose.threed.formats/pdfsaveoptions/flipcoordinatesystem) { get; set; } | Получает или задает отражение системы координат сцены во время экспорта. |
-| [LightingScheme](../../aspose.threed.formats/pdfsaveoptions/lightingscheme) { get; set; } | LightingScheme указывает освещение, применяемое к 3D-графике. |
+| [FlipCoordinateSystem](../../aspose.threed.formats/pdfsaveoptions/flipcoordinatesystem) { get; set; } | Получает или задает переворот системы координат сцены во время экспорта. |
+| [LightingScheme](../../aspose.threed.formats/pdfsaveoptions/lightingscheme) { get; set; } | LightingScheme определяет освещение, применяемое к 3D-объекту. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
-| [RenderMode](../../aspose.threed.formats/pdfsaveoptions/rendermode) { get; set; } | Режим рендеринга определяет стиль, в котором визуализируется трехмерное изображение. |
+| [RenderMode](../../aspose.threed.formats/pdfsaveoptions/rendermode) { get; set; } | Режим рендеринга определяет стиль, в котором визуализируется 3D-графика. |
 
 ### Смотрите также
 

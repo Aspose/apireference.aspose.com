@@ -1,14 +1,14 @@
 ---
 title: CreateSaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать параметры сохранения по умолчанию для этого формата файла
+description: Создать параметры сохранения по умолчанию для этого файла формата
 type: docs
 weight: 520
 url: /ru/net/aspose.threed/fileformat/createsaveoptions/
 ---
 ## FileFormat.CreateSaveOptions method
 
-Создать параметры сохранения по умолчанию для этого формата файла
+Создать параметры сохранения по умолчанию для этого файла формата
 
 ```csharp
 public SaveOptions CreateSaveOptions()

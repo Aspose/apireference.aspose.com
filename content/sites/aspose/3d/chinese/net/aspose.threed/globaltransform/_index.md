@@ -1,14 +1,14 @@
 ---
 title: GlobalTransform
 second_title: Aspose.3D for .NET API 参考
-description: 全局变换类似于Transform./transform但它是不可变的它代表最终评估的变换 评估全局变换时使用右手坐标系
+description: 全局变换类似于Transform./transform但它在表示最终评估的转换时是不可变的 在评估全局转换时使用右手坐标系
 type: docs
 weight: 1410
 url: /zh/net/aspose.threed/globaltransform/
 ---
 ## GlobalTransform class
 
-全局变换类似于[`Transform`](../transform)但它是不可变的，它代表最终评估的变换。 评估全局变换时使用右手坐标系
+全局变换类似于[`Transform`](../transform)但它在表示最终评估的转换时是不可变的。 在评估全局转换时使用右手坐标系
 
 ```csharp
 public class GlobalTransform
@@ -18,9 +18,9 @@ public class GlobalTransform
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EulerAngles](../../aspose.threed/globaltransform/eulerangles) { get; } | 获取以欧拉角表示的旋转，以度数度量 |
+| [EulerAngles](../../aspose.threed/globaltransform/eulerangles) { get; } | 获取以欧拉角表示的旋转，以度为单位 |
 | [Rotation](../../aspose.threed/globaltransform/rotation) { get; } | 获取以四元数表示的旋转。 |
-| [Scale](../../aspose.threed/globaltransform/scale) { get; } | 获取比例 |
+| [Scale](../../aspose.threed/globaltransform/scale) { get; } | 获取刻度 |
 | [TransformMatrix](../../aspose.threed/globaltransform/transformmatrix) { get; } | 获取变换矩阵。 |
 | [Translation](../../aspose.threed/globaltransform/translation) { get; } | 获取翻译 |
 

@@ -1,14 +1,14 @@
 ---
 title: DepthTexture
 second_title: Aspose.3D for .NET API 参考
-description: 深度缓冲纹理
+description: 深度缓冲区纹理
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/irendertexture/depthtexture/
 ---
 ## IRenderTexture.DepthTexture property
 
-深度缓冲纹理
+深度缓冲区纹理
 
 ```csharp
 public ITextureUnit DepthTexture { get; }

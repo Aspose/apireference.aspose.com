@@ -1,14 +1,14 @@
 ---
 title: BindPoint
 second_title: Aspose.3D for .NET API 参考
-description: ABindPoint./bindpoint通常在对象的属性上创建某些属性类型包含多个组件字段如Vector3 字段 BindPoint./bindpoint将为每个组件字段生成通道并将该字段连接到一个或多个关键帧序列实例通过渠道
+description: 一个BindPoint./bindpoint通常在对象的属性上创建某些属性类型包含多个组件字段如 Vector3 字段 BindPoint./bindpoint将为每个组件字段生成通道并通过通道将字段连接到一个或多个关键帧序列实例
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.animation/bindpoint/
 ---
 ## BindPoint class
 
-A[`BindPoint`](../bindpoint)通常在对象的属性上创建，某些属性类型包含多个组件字段（如Vector3 字段）， [`BindPoint`](../bindpoint)将为每个组件字段生成通道并将该字段连接到一个或多个关键帧序列实例通过渠道。
+一个[`BindPoint`](../bindpoint)通常在对象的属性上创建，某些属性类型包含多个组件字段（如 Vector3 字段）， [`BindPoint`](../bindpoint)将为每个组件字段生成通道，并通过通道将字段连接到一个或多个关键帧序列实例。
 
 ```csharp
 public class BindPoint : A3DObject
@@ -18,7 +18,7 @@ public class BindPoint : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BindPoint](bindpoint)(Scene, Property) | 初始化[`BindPoint`](../bindpoint)类的新实例。 |
+| [BindPoint](bindpoint)(Scene, Property) | 初始化[`BindPoint`](../bindpoint)类. |
 
 ## 特性
 
@@ -28,7 +28,7 @@ public class BindPoint : A3DObject
 | [Item](../../aspose.threed.animation/bindpoint/item) { get; } |  |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
-| [Property](../../aspose.threed.animation/bindpoint/property) { get; } | 获取与曲线映射关联的属性 |
+| [Property](../../aspose.threed.animation/bindpoint/property) { get; } | 获取与 CurveMapping 关联的属性 |
 
 ## 方法
 
@@ -39,13 +39,13 @@ public class BindPoint : A3DObject
 | [AddChannel&lt;T&gt;](../../aspose.threed.animation/bindpoint/addchannel#addchannel_2)(string, T) |  |
 | [BindKeyframeSequence](../../aspose.threed.animation/bindpoint/bindkeyframesequence)(string, KeyframeSequence) | 将关键帧序列绑定到指定通道 |
 | [CreateKeyframeSequence](../../aspose.threed.animation/bindpoint/createkeyframesequence)(string) | 创建一条新曲线并将其连接到曲线映射的第一个通道 |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetChannel](../../aspose.threed.animation/bindpoint/getchannel)(string) | 通过给定名称获取频道 |
-| [GetKeyframeSequence](../../aspose.threed.animation/bindpoint/getkeyframesequence)(string) | 获取指定频道的第一个关键帧序列 |
-| [GetKeyframeSequences](../../aspose.threed.animation/bindpoint/getkeyframesequences)(string) | 获取指定频道中的所有关键帧序列 |
+| [GetKeyframeSequence](../../aspose.threed.animation/bindpoint/getkeyframesequence)(string) | 获取指定通道的第一个关键帧序列 |
+| [GetKeyframeSequences](../../aspose.threed.animation/bindpoint/getkeyframesequences)(string) | 获取指定通道中的所有关键帧序列 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [ResetChannels](../../aspose.threed.animation/bindpoint/resetchannels)() | 清空此动画曲线映射的属性通道。 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 | override [ToString](../../aspose.threed.animation/bindpoint/tostring)() | 将对象格式化为字符串 |

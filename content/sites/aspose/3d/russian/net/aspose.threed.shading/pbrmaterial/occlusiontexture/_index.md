@@ -1,14 +1,14 @@
 ---
 title: OcclusionTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает текстуру для окружающего затенения
+description: Получает или задает текстуру для окружающей окклюзии
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.shading/pbrmaterial/occlusiontexture/
 ---
 ## PbrMaterial.OcclusionTexture property
 
-Получает или задает текстуру для окружающего затенения
+Получает или задает текстуру для окружающей окклюзии
 
 ```csharp
 public TextureBase OcclusionTexture { get; set; }

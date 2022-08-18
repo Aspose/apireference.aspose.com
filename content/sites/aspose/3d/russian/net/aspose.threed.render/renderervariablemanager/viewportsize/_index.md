@@ -1,14 +1,14 @@
 ---
 title: ViewportSize
 second_title: Справочник по Aspose.3D для .NET API
-description: Размер области просмотра измеренный в пикселях
+description: Размер окна просмотра измеренный в пикселях
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.render/renderervariablemanager/viewportsize/
 ---
 ## RendererVariableManager.ViewportSize property
 
-Размер области просмотра, измеренный в пикселях
+Размер окна просмотра, измеренный в пикселях
 
 ```csharp
 public FVector2 ViewportSize { get; }

@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 UV 坐标的比例
+description: 获取或设置UV坐标的比例
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.render/itextureunit/scale/
 ---
 ## ITextureUnit.Scale property
 
-获取或设置 UV 坐标的比例。
+获取或设置UV坐标的比例。
 
 ```csharp
 public Vector2 Scale { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MemoryFileSystem
 second_title: Aspose.3D for .NET API 参考
-description: MemoryFileSystem./memoryfilesystem会将读/写操作映射到内存
+description: 的MemoryFileSystem./memoryfilesystem将读/写操作映射到内存
 type: docs
-weight: 2580
+weight: 2570
 url: /zh/net/aspose.threed.utilities/memoryfilesystem/
 ---
 ## MemoryFileSystem class
 
-[`MemoryFileSystem`](../memoryfilesystem)会将读/写操作映射到内存。
+的[`MemoryFileSystem`](../memoryfilesystem)将读/写操作映射到内存。
 
 ```csharp
 public class MemoryFileSystem : FileSystem
@@ -31,8 +31,8 @@ public class MemoryFileSystem : FileSystem
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | 处置文件系统并释放其资源。 |
-| [GetFileContent](../../aspose.threed.utilities/memoryfilesystem/getfilecontent)(string) | 返回指定文件的原始内容。 如果指定的文件不存在，则抛出FileNotFoundException。 |
-| override [ReadFile](../../aspose.threed.utilities/memoryfilesystem/readfile)(string, IOConfig) | 创建一个流来读取依赖。 |
+| [GetFileContent](../../aspose.threed.utilities/memoryfilesystem/getfilecontent)(string) | 返回指定文件的原始内容。 抛出FileNotFoundException如果指定的文件不存在。 |
+| override [ReadFile](../../aspose.threed.utilities/memoryfilesystem/readfile)(string, IOConfig) | 创建一个用于读取依赖项的流。 |
 | override [WriteFile](../../aspose.threed.utilities/memoryfilesystem/writefile)(string, IOConfig) | 创建一个用于写入依赖项的流。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: KnotVectors
 second_title: Aspose.3D for .NET API 参考
-description: 获取节点向量它是一个参数值序列用于确定控制点在何处以及如何影响 NURBS 曲线
+description: 获取节点向量它是一系列参数值决定控制点在哪里以及如何影响 NURBS 曲线
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.entities/nurbscurve/knotvectors/
 ---
 ## NurbsCurve.KnotVectors property
 
-获取节点向量，它是一个参数值序列，用于确定控制点在何处以及如何影响 NURBS 曲线。
+获取节点向量，它是一系列参数值，决定控制点在哪里以及如何影响 NURBS 曲线。
 
 ```csharp
 public IArrayList<double> KnotVectors { get; }

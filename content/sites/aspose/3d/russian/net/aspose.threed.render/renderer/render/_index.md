@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Справочник по Aspose.3D для .NET API
-description: Рендерить указанную цель
+description: Визуализация указанной цели
 type: docs
 weight: 210
 url: /ru/net/aspose.threed.render/renderer/render/
 ---
 ## Renderer.Render method
 
-Рендерить указанную цель
+Визуализация указанной цели
 
 ```csharp
 public virtual void Render(IRenderTarget renderTarget)

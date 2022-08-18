@@ -17,9 +17,9 @@ public abstract IRenderTexture CreateCubeRenderTexture(RenderParameters paramete
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| parameters | RenderParameters | 渲染参数创建渲染纹理 |
+| parameters | RenderParameters | 用于创建渲染纹理的渲染参数 |
 | width | Int32 | 渲染纹理的宽度 |
-| height | Int32 | 的高度渲染纹理 |
+| height | Int32 | 渲染纹理的高度 |
 
 ### 也可以看看
 

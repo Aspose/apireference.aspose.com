@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.3D for .NET API 参考
-description: 获取和设置外推采样模式
+description: 获取和设置外插的采样模式
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.animation/extrapolation/type/
 ---
 ## Extrapolation.Type property
 
-获取和设置外推采样模式
+获取和设置外插的采样模式
 
 ```csharp
 public ExtrapolationType Type { get; set; }

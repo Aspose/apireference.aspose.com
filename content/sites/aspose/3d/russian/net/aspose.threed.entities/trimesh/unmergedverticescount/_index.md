@@ -1,14 +1,14 @@
 ---
 title: UnmergedVerticesCount
 second_title: Справочник по Aspose.3D для .NET API
-description: Количество неслитых вершин которые прошлиBeginVertexaspose.threed.entities/trimesh/beginvertexиEndVertexaspose.threed.entities/trimesh/endvertex.
+description: Количество неслитых вершин которые прошли черезBeginVertexaspose.threed.entities/trimesh/beginvertex а такжеEndVertexaspose.threed.entities/trimesh/endvertex .
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.entities/trimesh/unmergedverticescount/
 ---
 ## TriMesh.UnmergedVerticesCount property
 
-Количество неслитых вершин, которые прошли[`BeginVertex`](../beginvertex)и[`EndVertex`](../endvertex).
+Количество неслитых вершин, которые прошли через[`BeginVertex`](../beginvertex) а также[`EndVertex`](../endvertex) .
 
 ```csharp
 public int UnmergedVerticesCount { get; }

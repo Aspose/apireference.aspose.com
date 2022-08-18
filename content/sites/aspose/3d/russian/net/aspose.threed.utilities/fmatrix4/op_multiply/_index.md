@@ -17,7 +17,7 @@ public static FMatrix4 operator *(FMatrix4 left, FMatrix4 right)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | left | FMatrix4 |  |
-| право | FMatrix4 |  |
+| right | FMatrix4 |  |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public static FMatrix4 operator *(FMatrix4 left, FMatrix4 right)
 
 ## operator * {#op_multiply_1}
 
-Умножить матрицу на двойное значение
+Умножить матрицу и удвоить значение
 
 ```csharp
 public static FMatrix4 operator *(FMatrix4 lhs, float v)
@@ -37,8 +37,8 @@ public static FMatrix4 operator *(FMatrix4 lhs, float v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lhs | FMatrix4 | Lhs. |
-| v | Single | V. |
+| lhs | FMatrix4 | Лев. |
+| v | Single | В. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: Box
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаBoxaspose.threed.entities/box.
+description: Инициализирует новый экземплярBoxaspose.threed.entities/box класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/box/box/
 ---
 ## Box() {#constructor}
 
-Инициализирует новый экземпляр класса[`Box`](../../box).
+Инициализирует новый экземпляр[`Box`](../../box) класс.
 
 ```csharp
 public Box()
@@ -24,7 +24,7 @@ public Box()
 
 ## Box(double, double, double) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Box`](../../box).
+Инициализирует новый экземпляр[`Box`](../../box) класс.
 
 ```csharp
 public Box(double length, double width, double height)
@@ -32,9 +32,9 @@ public Box(double length, double width, double height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| length | Double | Длина блока, выровненного по оси Z. |
-| width | Double | Ширина блока, выровненного по оси x. |
-| height | Double | Высота блока, выровненного по оси Y. |
+| length | Double | Длина блока, выровненная по оси Z. |
+| width | Double | Ширина блока выровнена по оси x. |
+| height | Double | Высота поля, выровненного по оси Y. |
 
 ### Смотрите также
 
@@ -46,7 +46,7 @@ public Box(double length, double width, double height)
 
 ## Box(string, double, double, double, int, int, int) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Box`](../../box).
+Инициализирует новый экземпляр[`Box`](../../box) класс.
 
 ```csharp
 public Box(string name, double length, double width, double height, int lengthSegments, 
@@ -55,13 +55,13 @@ public Box(string name, double length, double width, double height, int lengthSe
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя ящика. |
-| length | Double | Длина блока, выровненного по оси Z. |
-| width | Double | Ширина блока, выровненного по оси x. |
-| height | Double | Высота блока, выровненного по оси Y. |
-| lengthSegments | Int32 | Длина сегментов. |
-| widthSegments | Int32 | Ширина сегментов. |
-| heightSegments | Int32 | Высота сегментов. |
+| name | String | Название ящика. |
+| length | Double | Длина блока, выровненная по оси Z. |
+| width | Double | Ширина блока выровнена по оси x. |
+| height | Double | Высота поля, выровненного по оси Y. |
+| lengthSegments | Int32 | Сегменты длины. |
+| widthSegments | Int32 | Сегменты ширины. |
+| heightSegments | Int32 | Сегменты высоты. |
 
 ### Смотрите также
 

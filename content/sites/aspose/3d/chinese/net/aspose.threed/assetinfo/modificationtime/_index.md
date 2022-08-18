@@ -1,14 +1,14 @@
 ---
 title: ModificationTime
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置此资产的修改时间
+description: 获取或设置该资产的修改时间
 type: docs
 weight: 120
 url: /zh/net/aspose.threed/assetinfo/modificationtime/
 ---
 ## AssetInfo.ModificationTime property
 
-获取或设置此资产的修改时间
+获取或设置该资产的修改时间
 
 ```csharp
 public DateTime? ModificationTime { get; set; }

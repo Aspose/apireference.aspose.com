@@ -1,14 +1,14 @@
 ---
 title: VWrap
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает режим переноса для координаты V текстуры.
+description: Получает или задает режим переноса для координаты V текстуры.
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.render/itextureunit/vwrap/
 ---
 ## ITextureUnit.VWrap property
 
-Получает или устанавливает режим переноса для координаты V текстуры.
+Получает или задает режим переноса для координаты V текстуры.
 
 ```csharp
 public WrapMode VWrap { get; set; }

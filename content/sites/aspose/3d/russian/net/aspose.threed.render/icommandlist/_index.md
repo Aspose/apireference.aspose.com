@@ -1,14 +1,14 @@
 ---
 title: ICommandList
 second_title: Справочник по Aspose.3D для .NET API
-description: Кодирует последовательность команд которые будут отправлены на GPU для рендеринга.
+description: Кодирует последовательность команд которые будут отправлены графическому процессору для рендеринга.
 type: docs
-weight: 1830
+weight: 1840
 url: /ru/net/aspose.threed.render/icommandlist/
 ---
 ## ICommandList interface
 
-Кодирует последовательность команд, которые будут отправлены на GPU для рендеринга.
+Кодирует последовательность команд, которые будут отправлены графическому процессору для рендеринга.
 
 ```csharp
 public interface ICommandList
@@ -23,9 +23,9 @@ public interface ICommandList
 | [BindPipeline](../../aspose.threed.render/icommandlist/bindpipeline)(IPipeline) | Привязать экземпляр конвейера для рендеринга |
 | [BindVertexBuffer](../../aspose.threed.render/icommandlist/bindvertexbuffer)(IVertexBuffer) | Привязать буфер вершин для рендеринга |
 | [Draw](../../aspose.threed.render/icommandlist/draw#draw)() | Рисовать без индексного буфера |
-| [Draw](../../aspose.threed.render/icommandlist/draw#draw_1)(int, int) | Рисование без индексного буфера |
-| [DrawIndex](../../aspose.threed.render/icommandlist/drawindex#drawindex)() | Выполнить индексированное рисование в списке команд |
-| [DrawIndex](../../aspose.threed.render/icommandlist/drawindex#drawindex_1)(int, int) | Выполнить индексированную отрисовку в списке команд |
+| [Draw](../../aspose.threed.render/icommandlist/draw#draw_1)(int, int) | Рисовать без индексного буфера |
+| [DrawIndex](../../aspose.threed.render/icommandlist/drawindex#drawindex)() | Выполнить индексированный розыгрыш в команде list |
+| [DrawIndex](../../aspose.threed.render/icommandlist/drawindex#drawindex_1)(int, int) | Выполнить индексированный розыгрыш в команде list |
 | [PushConstants](../../aspose.threed.render/icommandlist/pushconstants#pushconstants)(ShaderStage, byte[]) | Поместить константу в конвейер |
 | [PushConstants](../../aspose.threed.render/icommandlist/pushconstants#pushconstants_1)(ShaderStage, byte[], int) | Поместить константу в конвейер |
 

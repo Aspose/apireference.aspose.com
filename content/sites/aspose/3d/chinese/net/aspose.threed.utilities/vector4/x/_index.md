@@ -1,14 +1,14 @@
 ---
 title: x
 second_title: Aspose.3D for .NET API 参考
-description: x 组件
+description: x 分量
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.utilities/vector4/x/
 ---
 ## Vector4.x field
 
-x 组件。
+x 分量。
 
 ```csharp
 public double x;

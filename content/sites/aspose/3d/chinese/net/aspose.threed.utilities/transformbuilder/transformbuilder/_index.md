@@ -1,14 +1,14 @@
 ---
 title: TransformBuilder
 second_title: Aspose.3D for .NET API 参考
-description: 使用初始变换矩阵和指定的组合顺序构造TransformBuilderaspose.threed.utilities/transformbuilder
+description: 构造一个TransformBuilderaspose.threed.utilities/transformbuilder具有初始变换矩阵并指定组合 order
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/transformbuilder/transformbuilder/
 ---
 ## TransformBuilder(Matrix4, ComposeOrder) {#constructor_1}
 
-使用初始变换矩阵和指定的组合顺序构造[`TransformBuilder`](../../transformbuilder)
+构造一个[`TransformBuilder`](../../transformbuilder)具有初始变换矩阵并指定组合 order
 
 ```csharp
 public TransformBuilder(Matrix4 initial, ComposeOrder order)
@@ -31,7 +31,7 @@ public TransformBuilder(Matrix4 initial, ComposeOrder order)
 
 ## TransformBuilder(ComposeOrder) {#constructor}
 
-使用初始单位变换矩阵和指定的组合顺序构造[`TransformBuilder`](../../transformbuilder)
+构造一个[`TransformBuilder`](../../transformbuilder)具有初始单位变换矩阵并指定组合 order
 
 ```csharp
 public TransformBuilder(ComposeOrder order = ComposeOrder.Append)

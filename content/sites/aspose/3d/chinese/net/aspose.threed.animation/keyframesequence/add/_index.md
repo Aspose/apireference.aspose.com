@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.3D for .NET API 参考
-description: 创建具有指定值的新关键帧
+description: 用指定的值创建一个新的关键帧
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.animation/keyframesequence/add/
 ---
 ## Add(double, float) {#add}
 
-创建具有指定值的新关键帧
+用指定的值创建一个新的关键帧
 
 ```csharp
 public void Add(double time, float value)
@@ -29,7 +29,7 @@ public void Add(double time, float value)
 
 ## Add(double, float, Interpolation) {#add_1}
 
-创建具有指定值的新关键帧
+用指定的值创建一个新的关键帧
 
 ```csharp
 public void Add(double time, float value, Interpolation interpolation)
@@ -39,7 +39,7 @@ public void Add(double time, float value, Interpolation interpolation)
 | --- | --- | --- |
 | time | Double | 时间位置（以秒为单位） |
 | value | Single | 此时位置的值 |
-| interpolation | Interpolation | 插值类型这个关键帧 |
+| interpolation | Interpolation | 该关键帧的插值类型 |
 
 ### 也可以看看
 

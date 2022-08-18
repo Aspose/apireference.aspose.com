@@ -1,14 +1,14 @@
 ---
 title: MemoryFileSystem
 second_title: Справочник по Aspose.3D для .NET API
-description: MemoryFileSystem./memoryfilesystemсопоставляет операции чтения/записи с памятью.
+description: MemoryFileSystem./memoryfilesystemсопоставит операции чтения/записи с памятью.
 type: docs
-weight: 2580
+weight: 2570
 url: /ru/net/aspose.threed.utilities/memoryfilesystem/
 ---
 ## MemoryFileSystem class
 
-[`MemoryFileSystem`](../memoryfilesystem)сопоставляет операции чтения/записи с памятью.
+[`MemoryFileSystem`](../memoryfilesystem)сопоставит операции чтения/записи с памятью.
 
 ```csharp
 public class MemoryFileSystem : FileSystem
@@ -24,14 +24,14 @@ public class MemoryFileSystem : FileSystem
 
 | Имя | Описание |
 | --- | --- |
-| [FileNames](../../aspose.threed.utilities/memoryfilesystem/filenames) { get; } | Имена файлов, которые находятся в этой файловой системе памяти. |
+| [FileNames](../../aspose.threed.utilities/memoryfilesystem/filenames) { get; } | Имена файлов в этой файловой системе памяти. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | Удалите файловую систему и освободите ее ресурсы. |
-| [GetFileContent](../../aspose.threed.utilities/memoryfilesystem/getfilecontent)(string) | Возвращает необработанное содержимое указанного файла. ВыброситьFileNotFoundExceptionесли указанный файл не существует. |
+| [GetFileContent](../../aspose.threed.utilities/memoryfilesystem/getfilecontent)(string) | Возвращает необработанное содержимое указанного файла. ThrowFileNotFoundException если указанный файл не существует. |
 | override [ReadFile](../../aspose.threed.utilities/memoryfilesystem/readfile)(string, IOConfig) | Создать поток для чтения зависимостей. |
 | override [WriteFile](../../aspose.threed.utilities/memoryfilesystem/writefile)(string, IOConfig) | Создать поток для записи зависимостей. |
 

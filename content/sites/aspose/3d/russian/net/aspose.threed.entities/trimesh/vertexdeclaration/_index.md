@@ -1,14 +1,14 @@
 ---
 title: VertexDeclaration
 second_title: Справочник по Aspose.3D для .NET API
-description: Компоновка вершинTriMeshaspose.threed.entities/trimesh.
+description: Вершинный макетTriMeshaspose.threed.entities/trimesh .
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.entities/trimesh/vertexdeclaration/
 ---
 ## TriMesh.VertexDeclaration property
 
-Компоновка вершин[`TriMesh`](../../trimesh).
+Вершинный макет[`TriMesh`](../../trimesh) .
 
 ```csharp
 public VertexDeclaration VertexDeclaration { get; }

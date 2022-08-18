@@ -1,14 +1,14 @@
 ---
 title: Ellipse
 second_title: Aspose.3D for .NET API 参考
-description: Ellipseaspose.threed.entities/ellipse
+description: 的构造函数Ellipseaspose.threed.entities/ellipse
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/ellipse/ellipse/
 ---
 ## Ellipse() {#constructor}
 
-[`Ellipse`](../../ellipse)
+的构造函数[`Ellipse`](../../ellipse)
 
 ```csharp
 public Ellipse()
@@ -24,7 +24,7 @@ public Ellipse()
 
 ## Ellipse(double, double) {#constructor_1}
 
-[`Ellipse`](../../ellipse)
+的构造函数[`Ellipse`](../../ellipse)
 
 ```csharp
 public Ellipse(double semiAxis1, double semiAxis2)

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.3D for .NET API 参考
-description: 确定此实例和指定对象也必须是VertexFieldaspose.threed.utilities/vertexfield对象是否具有相同的值
+description: 判断这个实例是否和一个指定的对象它也必须是一个VertexFieldaspose.threed.utilities/vertexfield对象具有相同的值
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.utilities/vertexfield/equals/
 ---
 ## VertexField.Equals method
 
-确定此实例和指定对象（也必须是[`VertexField`](../../vertexfield)对象）是否具有相同的值。
+判断这个实例是否和一个指定的对象，它也必须是一个[`VertexField`](../../vertexfield)对象，具有相同的值。
 
 ```csharp
 public override bool Equals(object obj)

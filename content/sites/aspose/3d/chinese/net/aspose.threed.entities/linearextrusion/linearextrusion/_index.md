@@ -1,14 +1,14 @@
 ---
 title: LinearExtrusion
 second_title: Aspose.3D for .NET API 参考
-description: 实例构造函数LinearExtrusionaspose.threed.entities/linearextrusion
+description: 实例的构造函数LinearExtrusionaspose.threed.entities/linearextrusion.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/linearextrusion/linearextrusion/
 ---
 ## LinearExtrusion() {#constructor}
 
-实例构造函数[`LinearExtrusion`](../../linearextrusion)。
+实例的构造函数[`LinearExtrusion`](../../linearextrusion).
 
 ```csharp
 public LinearExtrusion()
@@ -24,7 +24,7 @@ public LinearExtrusion()
 
 ## LinearExtrusion(Profile, double) {#constructor_1}
 
-实例构造函数[`LinearExtrusion`](../../linearextrusion)。
+实例的构造函数[`LinearExtrusion`](../../linearextrusion).
 
 ```csharp
 public LinearExtrusion(Profile shape, double height)

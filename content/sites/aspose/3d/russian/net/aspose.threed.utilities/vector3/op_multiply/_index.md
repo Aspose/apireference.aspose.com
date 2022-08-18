@@ -17,7 +17,7 @@ public static Vector3 operator *(Vector3 lhs, Vector3 rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | Vector3 | Левый вектор |
-| rhs | Vector3 | Правый вектор |
+| rhs | Vector3 | Правильный вектор |
 
 ### Возвращаемое значение
 
@@ -42,7 +42,7 @@ public static Vector3 operator *(double lhs, Vector3 rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | Double | Левый скаляр |
-| rhs | Vector3 | Правый вектор |
+| rhs | Vector3 | Правильный вектор |
 
 ### Возвращаемое значение
 
@@ -67,7 +67,7 @@ public static Vector3 operator *(Vector3 lhs, double rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | Vector3 | Левый вектор |
-| rhs | Double | Правое двойное значение |
+| rhs | Double | Правильное двойное значение |
 
 ### Возвращаемое значение
 

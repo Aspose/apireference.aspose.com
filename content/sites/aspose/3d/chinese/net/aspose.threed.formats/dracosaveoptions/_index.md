@@ -18,7 +18,7 @@ public class DracoSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DracoSaveOptions](dracosaveoptions)() | 构造用于保存 draco 文件的默认配置。 |
+| [DracoSaveOptions](dracosaveoptions)() | 构建保存 draco 文件的默认配置。 |
 
 ## 特性
 
@@ -28,13 +28,13 @@ public class DracoSaveOptions : SaveOptions
 | [CompressionLevel](../../aspose.threed.formats/dracosaveoptions/compressionlevel) { get; set; } | 压缩级别，默认值为Standard |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
 | [NormalBits](../../aspose.threed.formats/dracosaveoptions/normalbits) { get; set; } | 法向量量化位，默认值为 10 |
-| [PointCloud](../../aspose.threed.formats/dracosaveoptions/pointcloud) { get; set; } | 将场景导出为点云，默认值为 false。 |
-| [PositionBits](../../aspose.threed.formats/dracosaveoptions/positionbits) { get; set; } | 位置量化位，默认值为 14 |
-| [TextureCoordinateBits](../../aspose.threed.formats/dracosaveoptions/texturecoordinatebits) { get; set; } | 纹理坐标的量化位，默认值为 12 |
+| [PointCloud](../../aspose.threed.formats/dracosaveoptions/pointcloud) { get; set; } | 将场景导出为点云，默认值为false。 |
+| [PositionBits](../../aspose.threed.formats/dracosaveoptions/positionbits) { get; set; } | 位置量化位，默认值为14 |
+| [TextureCoordinateBits](../../aspose.threed.formats/dracosaveoptions/texturecoordinatebits) { get; set; } | 纹理坐标的量化位，默认值为12 |
 
 ### 也可以看看
 

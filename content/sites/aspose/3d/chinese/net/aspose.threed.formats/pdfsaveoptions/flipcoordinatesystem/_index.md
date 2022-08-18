@@ -1,14 +1,14 @@
 ---
 title: FlipCoordinateSystem
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在导出过程中翻转场景的坐标系
+description: 获取或设置在导出时翻转场景的坐标系
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.formats/pdfsaveoptions/flipcoordinatesystem/
 ---
 ## PdfSaveOptions.FlipCoordinateSystem property
 
-获取或设置在导出过程中翻转场景的坐标系。
+获取或设置在导出时翻转场景的坐标系。
 
 ```csharp
 public bool FlipCoordinateSystem { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: GetFileContent
 second_title: Aspose.3D for .NET API 参考
-description: 返回指定文件的原始内容 如果指定的文件不存在则抛出FileNotFoundException
+description: 返回指定文件的原始内容 抛出FileNotFoundException如果指定的文件不存在
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.utilities/memoryfilesystem/getfilecontent/
 ---
 ## MemoryFileSystem.GetFileContent method
 
-返回指定文件的原始内容。 如果指定的文件不存在，则抛出FileNotFoundException。
+返回指定文件的原始内容。 抛出FileNotFoundException如果指定的文件不存在。
 
 ```csharp
 public byte[] GetFileContent(string fileName)
@@ -16,7 +16,7 @@ public byte[] GetFileContent(string fileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 文件名 | String |  |
+| fileName | String |  |
 
 ### 也可以看看
 

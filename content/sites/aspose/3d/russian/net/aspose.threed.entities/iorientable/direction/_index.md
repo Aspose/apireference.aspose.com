@@ -1,14 +1,14 @@
 ---
 title: Direction
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает направление на которое смотрит объект.
+description: Получает или задает направление на которое смотрит сущность.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/iorientable/direction/
 ---
 ## IOrientable.Direction property
 
-Получает или задает направление, на которое смотрит объект.
+Получает или задает направление, на которое смотрит сущность.
 
 ```csharp
 public Vector3 Direction { get; set; }

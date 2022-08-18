@@ -16,8 +16,8 @@ public BoundingBox(Vector3 minimum, Vector3 maximum)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| minimum | Vector3 | 最小拐角 |
-| maximum | Vector3 | 最大拐角 |
+| minimum | Vector3 | 最小角 |
+| maximum | Vector3 | 最大转角 |
 
 ### 也可以看看
 

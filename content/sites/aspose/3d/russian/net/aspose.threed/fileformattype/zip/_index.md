@@ -1,14 +1,14 @@
 ---
 title: Zip
 second_title: Справочник по Aspose.3D для .NET API
-description: Zip-архив содержащий другие форматы 3D-файлов.
+description: Zip-архив содержащий 3D-файлы другого формата.
 type: docs
 weight: 240
 url: /ru/net/aspose.threed/fileformattype/zip/
 ---
 ## FileFormatType.Zip field
 
-Zip-архив, содержащий другие форматы 3D-файлов.
+Zip-архив, содержащий 3D-файлы другого формата.
 
 ```csharp
 public static readonly FileFormatType Zip;

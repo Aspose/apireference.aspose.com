@@ -16,9 +16,9 @@ public void Encode(Entity entity, Stream stream, DracoSaveOptions options = null
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| entity | Entity | 要成为的实体编码 |
+| entity | Entity | 要编码的实体 |
 | stream | Stream | 编码数据将写入的流 |
-| options | DracoSaveOptions | 额外的编码选项点云 |
+| options | DracoSaveOptions | 用于编码点云的额外选项 |
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public void Encode(Entity entity, Stream stream, DracoSaveOptions options = null
 
 ## Encode(Entity, string, DracoSaveOptions) {#encode_2}
 
-将实体编码到指定文件
+将实体编码为指定文件
 
 ```csharp
 public void Encode(Entity entity, string fileName, DracoSaveOptions options = null)
@@ -40,7 +40,7 @@ public void Encode(Entity entity, string fileName, DracoSaveOptions options = nu
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| entity | Entity | 要成为的实体编码 |
+| entity | Entity | 要编码的实体 |
 | fileName | String | 要写入的文件名 |
 | options | DracoSaveOptions | 用于编码点云的额外选项 |
 
@@ -64,7 +64,7 @@ public byte[] Encode(Entity entity, DracoSaveOptions options = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| entity | Entity | 实体被编码 |
+| entity | Entity | 要编码的实体 |
 | options | DracoSaveOptions | 用于编码点云的额外选项 |
 
 ### 返回值

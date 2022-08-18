@@ -1,14 +1,14 @@
 ---
 title: Load
 second_title: Aspose.3D for .NET API 参考
-description: 从指定位图加载纹理内容
+description: 从指定的位图加载纹理内容
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/itexture2d/load/
 ---
 ## ITexture2D.Load method
 
-从指定位图加载纹理内容
+从指定的位图加载纹理内容
 
 ```csharp
 public void Load(TextureData bitmap)

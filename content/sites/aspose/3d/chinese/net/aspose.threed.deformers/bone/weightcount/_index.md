@@ -1,14 +1,14 @@
 ---
 title: WeightCount
 second_title: Aspose.3D for .NET API 参考
-description: 获取重量计数这由Double自动扩展
+description: 获取重量计数这会自动扩展SetWeightaspose.threed.deformers/bone/setweight
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.deformers/bone/weightcount/
 ---
 ## Bone.WeightCount property
 
-获取重量计数，这由Double)自动扩展)
+获取重量计数，这会自动扩展[`SetWeight`](../setweight)
 
 ```csharp
 public int WeightCount { get; }

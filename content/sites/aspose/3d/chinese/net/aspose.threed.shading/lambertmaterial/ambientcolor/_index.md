@@ -1,14 +1,14 @@
 ---
 title: AmbientColor
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置环境色
+description: 获取或设置环境颜色
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.shading/lambertmaterial/ambientcolor/
 ---
 ## LambertMaterial.AmbientColor property
 
-获取或设置环境色
+获取或设置环境颜色
 
 ```csharp
 public Vector3 AmbientColor { get; set; }
@@ -16,7 +16,7 @@ public Vector3 AmbientColor { get; set; }
 
 ### 适当的价值
 
-环境色。
+环境。
 
 ### 也可以看看
 

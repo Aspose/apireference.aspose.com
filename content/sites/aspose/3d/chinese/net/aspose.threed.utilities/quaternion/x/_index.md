@@ -1,14 +1,14 @@
 ---
 title: x
 second_title: Aspose.3D for .NET API 参考
-description: x 组件
+description: x 分量
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.utilities/quaternion/x/
 ---
 ## Quaternion.x field
 
-x 组件。
+x 分量。
 
 ```csharp
 public double x;

@@ -1,14 +1,14 @@
 ---
 title: PdfLoadOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Опции загрузки PDF
+description: Параметры загрузки PDF
 type: docs
 weight: 1250
 url: /ru/net/aspose.threed.formats/pdfloadoptions/
 ---
 ## PdfLoadOptions class
 
-Опции загрузки PDF
+Параметры загрузки PDF
 
 ```csharp
 public class PdfLoadOptions : LoadOptions

@@ -16,11 +16,11 @@ public VertexElement GetElement(VertexElementType type)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| type | VertexElementType | 哪个顶点元素键入查找 |
+| type | VertexElementType | 要查找的顶点元素类型 |
 
 ### 返回值
 
-[`VertexElement`](../../vertexelement)实例如果找到，否则将返回 null。
+[`VertexElement`](../../vertexelement)如果找到实例，否则将返回 null。
 
 ### 也可以看看
 

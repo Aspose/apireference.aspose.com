@@ -1,14 +1,14 @@
 ---
 title: Targets
 second_title: Справочник по Aspose.3D для .NET API
-description: Цели вывода цвета.
+description: Цели цветового вывода.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.render/irendertexture/targets/
 ---
 ## IRenderTexture.Targets property
 
-Цели вывода цвета.
+Цели цветового вывода.
 
 ```csharp
 public IList<ITextureUnit> Targets { get; }

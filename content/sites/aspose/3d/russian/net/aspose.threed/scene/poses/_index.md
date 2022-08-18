@@ -1,14 +1,14 @@
 ---
 title: Poses
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает всеPoseaspose.threed/poseиспользуемые в этой сцене.
+description: получает всеPoseaspose.threed/pose используется в этой сцене.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed/scene/poses/
 ---
 ## Scene.Poses property
 
-Получает все[`Pose`](../../pose)используемые в этой сцене.
+получает все[`Pose`](../../pose) используется в этой сцене.
 
 ```csharp
 public ICollection<Pose> Poses { get; }

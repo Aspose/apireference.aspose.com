@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.3D для .NET API
-description: Определяет имеют ли этот экземпляр и указанный объект который также должен быть объектомVertexDeclarationaspose.threed.utilities/vertexdeclaration такое же значение.
+description: Определяет будут ли этот экземпляр и указанный объект который также должен бытьVertexDeclarationaspose.threed.utilities/vertexdeclaration объект имеют одинаковое значение.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.utilities/vertexdeclaration/equals/
 ---
 ## VertexDeclaration.Equals method
 
-Определяет, имеют ли этот экземпляр и указанный объект, который также должен быть объектом[`VertexDeclaration`](../../vertexdeclaration), такое же значение.
+Определяет, будут ли этот экземпляр и указанный объект, который также должен быть[`VertexDeclaration`](../../vertexdeclaration) объект, имеют одинаковое значение.
 
 ```csharp
 public override bool Equals(object obj)

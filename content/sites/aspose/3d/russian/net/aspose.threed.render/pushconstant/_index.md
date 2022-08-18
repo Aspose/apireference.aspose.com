@@ -3,7 +3,7 @@ title: PushConstant
 second_title: Справочник по Aspose.3D для .NET API
 description: Утилита для предоставления данных шейдеру через push-константу.
 type: docs
-weight: 2020
+weight: 2030
 url: /ru/net/aspose.threed.render/pushconstant/
 ---
 ## PushConstant class
@@ -26,11 +26,11 @@ public class PushConstant
 | --- | --- |
 | [Commit](../../aspose.threed.render/pushconstant/commit)(ShaderStage, ICommandList) | Передать подготовленные данные в графический конвейер. |
 | [Write](../../aspose.threed.render/pushconstant/write#write_4)(float) | Записать значение с плавающей запятой в константу |
-| [Write](../../aspose.threed.render/pushconstant/write#write)(FMatrix4) | Запись матрицы в константу |
+| [Write](../../aspose.threed.render/pushconstant/write#write)(FMatrix4) | Записать матрицу в константу |
 | [Write](../../aspose.threed.render/pushconstant/write#write_1)(FVector3) | Записать трехкомпонентный вектор в константу |
-| [Write](../../aspose.threed.render/pushconstant/write#write_2)(FVector4) | Записать 4-компонентный вектор в константу |
+| [Write](../../aspose.threed.render/pushconstant/write#write_2)(FVector4) | Запишите 4-компонентный вектор в константу |
 | [Write](../../aspose.threed.render/pushconstant/write#write_3)(int) | Записать значение int в константу |
-| [Write](../../aspose.threed.render/pushconstant/write#write_5)(float, float, float, float) | Записать 4-компонентный вектор в константу |
+| [Write](../../aspose.threed.render/pushconstant/write#write_5)(float, float, float, float) | Запишите 4-компонентный вектор в константу |
 
 ### Смотрите также
 

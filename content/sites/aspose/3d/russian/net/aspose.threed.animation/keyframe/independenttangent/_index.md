@@ -1,14 +1,14 @@
 ---
 title: IndependentTangent
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает выходную и следующую входную касательные независимо друг от друга.
+description: Получает или задает независимые исходящие и следующие входящие касательные.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.animation/keyframe/independenttangent/
 ---
 ## KeyFrame.IndependentTangent property
 
-Получает или устанавливает выходную и следующую входную касательные независимо друг от друга.
+Получает или задает независимые исходящие и следующие входящие касательные.
 
 ```csharp
 public bool IndependentTangent { get; set; }

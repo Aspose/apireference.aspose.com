@@ -1,14 +1,14 @@
 ---
 title: Alias
 second_title: Справочник по Aspose.3D для .NET API
-description: Псевдоним поля вершин
+description: Псевдоним вершинного поля
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/semanticattribute/alias/
 ---
 ## SemanticAttribute.Alias property
 
-Псевдоним поля вершин
+Псевдоним вершинного поля
 
 ```csharp
 public string Alias { get; }

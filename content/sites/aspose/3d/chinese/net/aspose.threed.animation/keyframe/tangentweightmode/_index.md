@@ -1,14 +1,14 @@
 ---
 title: TangentWeightMode
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置键的切线权重模式 可以通过选择正确来自定义出切线或下一个入切线 WeightedModeaspose.threed.animation/weightedmode
+description: 获取或设置key的切线权重模式 可以通过选择正确自定义out tangent或next in tangentWeightedModeaspose.threed.animation/weightedmode
 type: docs
 weight: 120
 url: /zh/net/aspose.threed.animation/keyframe/tangentweightmode/
 ---
 ## KeyFrame.TangentWeightMode property
 
-获取或设置键的切线权重模式。 可以通过选择正确来自定义出切线或下一个入切线 [`WeightedMode`](../../weightedmode)
+获取或设置key的切线权重模式。 可以通过选择正确自定义out tangent或next in tangent[`WeightedMode`](../../weightedmode)
 
 ```csharp
 public WeightedMode TangentWeightMode { get; set; }

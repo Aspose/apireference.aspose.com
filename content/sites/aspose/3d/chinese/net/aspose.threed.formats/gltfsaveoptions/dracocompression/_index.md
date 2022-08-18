@@ -1,14 +1,14 @@
 ---
 title: DracoCompression
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否启用 draco 压缩
+description: 获取或设置是否开启draco压缩
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/dracocompression/
 ---
 ## GltfSaveOptions.DracoCompression property
 
-获取或设置是否启用 draco 压缩
+获取或设置是否开启draco压缩
 
 ```csharp
 public bool DracoCompression { get; set; }

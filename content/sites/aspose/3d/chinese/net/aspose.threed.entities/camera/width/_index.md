@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置以英寸为单位的视图平面宽度
+description: 获取或设置视图平面的宽度以英寸为单位
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.entities/camera/width/
 ---
 ## Camera.Width property
 
-获取或设置以英寸为单位的视图平面宽度
+获取或设置视图平面的宽度，以英寸为单位
 
 ```csharp
 public double Width { get; set; }

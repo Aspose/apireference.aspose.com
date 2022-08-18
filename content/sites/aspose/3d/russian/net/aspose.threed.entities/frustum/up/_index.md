@@ -1,14 +1,14 @@
 ---
 title: Up
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает направление камеры вверх
+description: Получает или задает направление камеры вверх
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.entities/frustum/up/
 ---
 ## Frustum.Up property
 
-Получает или устанавливает направление камеры вверх
+Получает или задает направление камеры вверх
 
 ```csharp
 public Vector3 Up { get; set; }

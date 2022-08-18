@@ -1,14 +1,14 @@
 ---
 title: ZipArchiveFileSystem
 second_title: Aspose.3D for .NET API 参考
-description: 通过流构造ZipArchiveFileSystemaspose.threed.utilities/ziparchivefilesystem
+description: 构造一个ZipArchiveFileSystemaspose.threed.utilities/ziparchivefilesystem通过流.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/ziparchivefilesystem/ziparchivefilesystem/
 ---
 ## ZipArchiveFileSystem(Stream, string) {#constructor_1}
 
-通过流构造[`ZipArchiveFileSystem`](../../ziparchivefilesystem)。
+构造一个[`ZipArchiveFileSystem`](../../ziparchivefilesystem)通过流.
 
 ```csharp
 public ZipArchiveFileSystem(Stream stream, string baseDir)
@@ -29,7 +29,7 @@ public ZipArchiveFileSystem(Stream stream, string baseDir)
 
 ## ZipArchiveFileSystem(Stream) {#constructor}
 
-通过流构造[`ZipArchiveFileSystem`](../../ziparchivefilesystem)。
+构造一个[`ZipArchiveFileSystem`](../../ziparchivefilesystem)通过流.
 
 ```csharp
 public ZipArchiveFileSystem(Stream stream)
@@ -49,7 +49,7 @@ public ZipArchiveFileSystem(Stream stream)
 
 ## ZipArchiveFileSystem(string) {#constructor_2}
 
-通过文件名构造一个[`ZipArchiveFileSystem`](../../ziparchivefilesystem)。
+构造一个[`ZipArchiveFileSystem`](../../ziparchivefilesystem)通过文件名.
 
 ```csharp
 public ZipArchiveFileSystem(string fileName)
@@ -57,7 +57,7 @@ public ZipArchiveFileSystem(string fileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 文件名 | String |  |
+| fileName | String |  |
 
 ### 也可以看看
 

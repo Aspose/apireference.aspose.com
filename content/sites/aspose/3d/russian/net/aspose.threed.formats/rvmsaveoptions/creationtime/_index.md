@@ -1,14 +1,14 @@
 ---
 title: CreationTime
 second_title: Справочник по Aspose.3D для .NET API
-description: Временная метка которая экспортировала этот файл значение по умолчанию - текущее время
+description: Отметка времени экспорта этого файла значение по умолчанию  текущее время
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.formats/rvmsaveoptions/creationtime/
 ---
 ## RvmSaveOptions.CreationTime property
 
-Временная метка, которая экспортировала этот файл, значение по умолчанию - текущее время
+Отметка времени экспорта этого файла, значение по умолчанию — текущее время
 
 ```csharp
 public string CreationTime { get; set; }

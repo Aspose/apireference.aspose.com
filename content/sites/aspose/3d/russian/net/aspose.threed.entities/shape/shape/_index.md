@@ -1,14 +1,14 @@
 ---
 title: Shape
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаShapeaspose.threed.entities/shape.
+description: Инициализирует новый экземплярShapeaspose.threed.entities/shape класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/shape/shape/
 ---
 ## Shape() {#constructor}
 
-Инициализирует новый экземпляр класса[`Shape`](../../shape).
+Инициализирует новый экземпляр[`Shape`](../../shape) класс.
 
 ```csharp
 public Shape()
@@ -24,7 +24,7 @@ public Shape()
 
 ## Shape(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Shape`](../../shape).
+Инициализирует новый экземпляр[`Shape`](../../shape) класс.
 
 ```csharp
 public Shape(string name)
@@ -32,7 +32,7 @@ public Shape(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

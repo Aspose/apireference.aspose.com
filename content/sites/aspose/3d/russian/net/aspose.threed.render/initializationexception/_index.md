@@ -3,7 +3,7 @@ title: InitializationException
 second_title: Справочник по Aspose.3D для .NET API
 description: Исключения при инициализации конвейера рендеринга
 type: docs
-weight: 1970
+weight: 1980
 url: /ru/net/aspose.threed.render/initializationexception/
 ---
 ## InitializationException class
@@ -18,8 +18,8 @@ public class InitializationException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [InitializationException](initializationexception#constructor)() | Инициализировать[`InitializationException`](../initializationexception)экземпляр |
-| [InitializationException](initializationexception#constructor_1)(string) | Инициализировать экземпляр[`InitializationException`](../initializationexception)с указанным сообщением об исключении. |
+| [InitializationException](initializationexception#constructor)() | Инициализировать[`InitializationException`](../initializationexception) instance |
+| [InitializationException](initializationexception#constructor_1)(string) | Инициализировать[`InitializationException`](../initializationexception) экземпляр с указанным сообщением об исключении. |
 
 ### Смотрите также
 

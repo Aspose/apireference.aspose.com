@@ -1,14 +1,14 @@
 ---
 title: Concatenate
 second_title: Справочник по Aspose.3D для .NET API
-description: Объединяет две матрицы
+description: объединяет две матрицы
 type: docs
 weight: 240
 url: /ru/net/aspose.threed.utilities/matrix4/concatenate/
 ---
 ## Matrix4.Concatenate method
 
-Объединяет две матрицы
+объединяет две матрицы
 
 ```csharp
 public Matrix4 Concatenate(Matrix4 m2)
@@ -16,7 +16,7 @@ public Matrix4 Concatenate(Matrix4 m2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| m2 | Matrix4 | M2. |
+| m2 | Matrix4 | М2. |
 
 ### Возвращаемое значение
 

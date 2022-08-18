@@ -1,14 +1,14 @@
 ---
 title: PhiStart
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 phi 开始
+description: 获取或设置 phi start.
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/sphere/phistart/
 ---
 ## Sphere.PhiStart property
 
-获取或设置 phi 开始。
+获取或设置 phi start.
 
 ```csharp
 public double PhiStart { get; set; }

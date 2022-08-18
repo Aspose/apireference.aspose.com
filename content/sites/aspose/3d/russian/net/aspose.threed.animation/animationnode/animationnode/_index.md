@@ -1,14 +1,14 @@
 ---
 title: AnimationNode
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаAnimationNodeaspose.threed.animation/animationnode.
+description: Инициализирует новый экземплярAnimationNodeaspose.threed.animation/animationnode класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.animation/animationnode/animationnode/
 ---
 ## AnimationNode(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`AnimationNode`](../../animationnode).
+Инициализирует новый экземпляр[`AnimationNode`](../../animationnode) класс.
 
 ```csharp
 public AnimationNode(string name)
@@ -16,7 +16,7 @@ public AnimationNode(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public AnimationNode(string name)
 
 ## AnimationNode() {#constructor}
 
-Инициализирует новый экземпляр класса[`AnimationNode`](../../animationnode).
+Инициализирует новый экземпляр[`AnimationNode`](../../animationnode) класс.
 
 ```csharp
 public AnimationNode()

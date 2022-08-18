@@ -1,14 +1,14 @@
 ---
 title: FromXlib
 second_title: Справочник по Aspose.3D для .NET API
-description: СоздатьWindowHandleaspose.threed.render/windowhandleиз окна Xlib
+description: СоздатьWindowHandleaspose.threed.render/windowhandle из Xlib window
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.render/windowhandle/fromxlib/
 ---
 ## WindowHandle.FromXlib method
 
-Создать[`WindowHandle`](../../windowhandle)из окна Xlib
+Создать[`WindowHandle`](../../windowhandle) из Xlib window
 
 ```csharp
 public static WindowHandle FromXlib(IntPtr display, IntPtr window)
@@ -17,7 +17,7 @@ public static WindowHandle FromXlib(IntPtr display, IntPtr window)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | display | IntPtr | Отображаемый экземпляр X-сервера |
-| window | IntPtr | Дескриптор окна |
+| window | IntPtr | Ручка окна |
 
 ### Смотрите также
 

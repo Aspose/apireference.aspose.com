@@ -1,14 +1,14 @@
 ---
 title: FindProperty
 second_title: Aspose.3D for .NET API 参考
-description: 查找属性 可以是动态属性由 CreateDynamicProperty/SetProperty 创建 或本机属性由其名称标识
+description: 查找属性 可以是动态属性由 CreateDynamicProperty/SetProperty 创建 或原生属性由其名称标识
 type: docs
 weight: 30
 url: /zh/net/aspose.threed/propertycollection/findproperty/
 ---
 ## PropertyCollection.FindProperty method
 
-查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识）
+查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识）
 
 ```csharp
 public Property FindProperty(string property)
@@ -20,7 +20,7 @@ public Property FindProperty(string property)
 
 ### 返回值
 
-属性。
+该物业。
 
 ### 也可以看看
 

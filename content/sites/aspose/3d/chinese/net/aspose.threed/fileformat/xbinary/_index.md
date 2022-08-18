@@ -1,14 +1,14 @@
 ---
 title: XBinary
 second_title: Aspose.3D for .NET API 参考
-description: DirectX X 二进制格式文件
+description: 二进制格式的 DirectX X 文件
 type: docs
 weight: 380
 url: /zh/net/aspose.threed/fileformat/xbinary/
 ---
 ## FileFormat.XBinary field
 
-DirectX X 二进制格式文件
+二进制格式的 DirectX X 文件
 
 ```csharp
 public static readonly FileFormat XBinary;

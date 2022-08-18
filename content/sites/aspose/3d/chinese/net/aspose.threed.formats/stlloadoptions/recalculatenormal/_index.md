@@ -1,14 +1,14 @@
 ---
 title: RecalculateNormal
 second_title: Aspose.3D for .NET API 参考
-description: 忽略存储在 STL 文件中的法线数据并根据顶点位置重新计算法线数据 默认值为 false
+description: 忽略存储在STL文件中的法线数据根据顶点位置重新计算法线数据 默认值为false
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.formats/stlloadoptions/recalculatenormal/
 ---
 ## StlLoadOptions.RecalculateNormal property
 
-忽略存储在 STL 文件中的法线数据，并根据顶点位置重新计算法线数据。 默认值为 false
+忽略存储在STL文件中的法线数据，根据顶点位置重新计算法线数据。 默认值为false
 
 ```csharp
 public bool RecalculateNormal { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SemanticAttribute
 second_title: Aspose.3D for .NET API 参考
-description: 初始化SemanticAttributeaspose.threed.utilities/semanticattribute
+description: 初始化一个SemanticAttributeaspose.threed.utilities/semanticattribute
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/semanticattribute/semanticattribute/
 ---
 ## SemanticAttribute(VertexFieldSemantic) {#constructor}
 
-初始化[`SemanticAttribute`](../../semanticattribute)
+初始化一个[`SemanticAttribute`](../../semanticattribute)
 
 ```csharp
 public SemanticAttribute(VertexFieldSemantic semantic)
@@ -29,7 +29,7 @@ public SemanticAttribute(VertexFieldSemantic semantic)
 
 ## SemanticAttribute(VertexFieldSemantic, string) {#constructor_1}
 
-初始化[`SemanticAttribute`](../../semanticattribute)
+初始化一个[`SemanticAttribute`](../../semanticattribute)
 
 ```csharp
 public SemanticAttribute(VertexFieldSemantic semantic, string alias)
@@ -38,7 +38,7 @@ public SemanticAttribute(VertexFieldSemantic semantic, string alias)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | semantic | VertexFieldSemantic | 结构字段的语义。 |
-| alias | String | 字段的别名。 |
+| alias | String | 领域的别名。 |
 
 ### 也可以看看
 

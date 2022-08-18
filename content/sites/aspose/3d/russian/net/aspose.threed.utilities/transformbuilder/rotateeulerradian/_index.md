@@ -1,14 +1,14 @@
 ---
 title: RotateEulerRadian
 second_title: Справочник по Aspose.3D для .NET API
-description: Цепочка поворотов на углы Эйлера в радианах
+description: Цепь вращения на углы Эйлера в радианах
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.utilities/transformbuilder/rotateeulerradian/
 ---
 ## RotateEulerRadian(double, double, double) {#rotateeulerradian_1}
 
-Цепочка поворотов на углы Эйлера в радианах
+Цепь вращения на углы Эйлера в радианах
 
 ```csharp
 public TransformBuilder RotateEulerRadian(double x, double y, double z)
@@ -30,7 +30,7 @@ public TransformBuilder RotateEulerRadian(double x, double y, double z)
 
 ## RotateEulerRadian(Vector3) {#rotateeulerradian}
 
-Цепочка поворотов на углы Эйлера в радианах
+Цепь вращения на углы Эйлера в радианах
 
 ```csharp
 public TransformBuilder RotateEulerRadian(Vector3 r)

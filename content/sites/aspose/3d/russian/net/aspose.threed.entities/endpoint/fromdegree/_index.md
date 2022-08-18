@@ -16,7 +16,7 @@ public static EndPoint FromDegree(double degree)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| степень | Double |  |
+| degree | Double |  |
 
 ### Смотрите также
 

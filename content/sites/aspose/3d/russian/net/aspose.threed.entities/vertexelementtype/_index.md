@@ -18,21 +18,21 @@ public enum VertexElementType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Binormal | `0` | Бинормали, см.[`VertexElementBinormal`](../vertexelementbinormal) |
+| Binormal | `0` | Вектор бинормалей, см.[`VertexElementBinormal`](../vertexelementbinormal) |
 | Normal | `1` | Вектор нормалей, см.[`VertexElementNormal`](../vertexelementnormal) |
 | Tangent | `2` | Касательный вектор, см.[`VertexElementTangent`](../vertexelementtangent) |
 | Material | `3` | Индекс материала, см.[`VertexElementMaterial`](../vertexelementmaterial) |
 | PolygonGroup | `4` | Индекс группы полигонов, см.[`VertexElementPolygonGroup`](../vertexelementpolygongroup) |
-| UV | `5` | UV-координата текстуры, см.[`VertexElementUV`](../vertexelementuv) |
-| VertexColor | `6` | Цвет вершины, см.[`VertexElementVertexColor`](../vertexelementvertexcolor) |
+| UV | `5` | Координата UV текстуры, см.[`VertexElementUV`](../vertexelementuv) |
+| VertexColor | `6` | Цвет вершин, см.[`VertexElementVertexColor`](../vertexelementvertexcolor) |
 | SmoothingGroup | `7` | Группа сглаживания, см.[`VertexElementSmoothingGroup`](../vertexelementsmoothinggroup) |
 | VertexCrease | `8` | Вершинная складка, см.[`VertexElementVertexCrease`](../vertexelementvertexcrease) |
-| EdgeCrease | `9` | Сгиб края,[`VertexElementEdgeCrease`](../vertexelementedgecrease) |
+| EdgeCrease | `9` | Складка края,[`VertexElementEdgeCrease`](../vertexelementedgecrease) |
 | UserData | `10` | Пользовательские данные, обычно для целей конкретного приложения, см.[`VertexElementUserData`](../vertexelementuserdata) |
 | Visibility | `11` | Видимость компонентов, см.[`VertexElementVisibility`](../vertexelementvisibility) |
 | Specular | `12` | Зеркальные цвета, см.[`VertexElementSpecular`](../vertexelementspecular) |
-| Weight | `13` | Смешивание весов, см.[`VertexElementWeight`](../vertexelementweight) |
-| Hole | `14` | Отверстия, см.[`VertexElementHole`](../vertexelementhole) |
+| Weight | `13` | Вес смеси см.[`VertexElementWeight`](../vertexelementweight) |
+| Hole | `14` | Отверстия см.[`VertexElementHole`](../vertexelementhole) |
 
 ### Смотрите также
 

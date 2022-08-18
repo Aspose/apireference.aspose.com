@@ -47,7 +47,7 @@ public void Save(CubeFace side, Bitmap bitmap)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | side | CubeFace |  |
-| 位图 | Bitmap |  |
+| bitmap | Bitmap |  |
 
 ### 也可以看看
 

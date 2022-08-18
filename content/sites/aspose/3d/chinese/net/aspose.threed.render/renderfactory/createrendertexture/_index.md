@@ -17,9 +17,9 @@ public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| parameters | RenderParameters | 渲染创建渲染纹理的参数 |
-| targets | Int32 | 多少颜色输出目标 |
-| width | Int32 | 的宽度渲染纹理 |
+| parameters | RenderParameters | 用于创建渲染纹理的渲染参数 |
+| targets | Int32 | 多少个颜色输出目标 |
+| width | Int32 | 渲染纹理的宽度 |
 | height | Int32 | 渲染纹理的高度 |
 
 ### 也可以看看
@@ -34,7 +34,7 @@ public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, 
 
 ## CreateRenderTexture(RenderParameters, int, int) {#createrendertexture}
 
-创建一个包含 1 个渲染到纹理的目标
+创建一个渲染目标，包含 1 个渲染到纹理的目标
 
 ```csharp
 public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, int width, 
@@ -43,7 +43,7 @@ public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| parameters | RenderParameters | 渲染参数创建渲染纹理 |
+| parameters | RenderParameters | 用于创建渲染纹理的渲染参数 |
 | width | Int32 | 渲染纹理的宽度 |
 | height | Int32 | 渲染纹理的高度 |
 

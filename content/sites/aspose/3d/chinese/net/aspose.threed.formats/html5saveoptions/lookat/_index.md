@@ -1,14 +1,14 @@
 ---
 title: LookAt
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置默认查看位置默认值为 0 0 0
+description: 获取或设置默认查看位置默认值为0 0 0
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.formats/html5saveoptions/lookat/
 ---
 ## Html5SaveOptions.LookAt property
 
-获取或设置默认查看位置，默认值为 (0, 0, 0)
+获取或设置默认查看位置，默认值为(0, 0, 0)
 
 ```csharp
 public Vector3 LookAt { get; set; }

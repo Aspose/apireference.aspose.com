@@ -1,14 +1,14 @@
 ---
 title: StlLoadOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Опции загрузки для STL
+description: Параметры загрузки для STL
 type: docs
 weight: 1350
 url: /ru/net/aspose.threed.formats/stlloadoptions/
 ---
 ## StlLoadOptions class
 
-Опции загрузки для STL
+Параметры загрузки для STL
 
 ```csharp
 public class StlLoadOptions : LoadOptions
@@ -18,8 +18,8 @@ public class StlLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [StlLoadOptions](stlloadoptions#constructor)() | Инициализирует новый экземпляр[`StlLoadOptions`](../stlloadoptions). |
-| [StlLoadOptions](stlloadoptions#constructor_1)(FileContentType) | Инициализирует новый экземпляр[`StlLoadOptions`](../stlloadoptions). |
+| [StlLoadOptions](stlloadoptions#constructor)() | Инициализирует новый[`StlLoadOptions`](../stlloadoptions) экземпляр. |
+| [StlLoadOptions](stlloadoptions#constructor_1)(FileContentType) | Инициализирует новый[`StlLoadOptions`](../stlloadoptions) экземпляр. |
 
 ## Характеристики
 
@@ -29,9 +29,9 @@ public class StlLoadOptions : LoadOptions
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [FlipCoordinateSystem](../../aspose.threed.formats/stlloadoptions/flipcoordinatesystem) { get; set; } | Получает или задает, следует ли переворачивать систему координат контрольных точек/нормаль при импорте. |
+| [FlipCoordinateSystem](../../aspose.threed.formats/stlloadoptions/flipcoordinatesystem) { get; set; } | Получает или задает, следует ли инвертировать систему координат контрольных точек/нормаль во время импорта. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
-| [RecalculateNormal](../../aspose.threed.formats/stlloadoptions/recalculatenormal) { get; set; } | Игнорировать данные нормалей, хранящиеся в файле STL, и пересчитывать данные нормалей на основе положения вершины. Значение по умолчанию - false |
+| [RecalculateNormal](../../aspose.threed.formats/stlloadoptions/recalculatenormal) { get; set; } | Игнорировать данные нормалей, хранящиеся в файле STL, и пересчитывать данные нормалей на основе положения вершины. Значение по умолчанию — false |
 
 ### Смотрите также
 

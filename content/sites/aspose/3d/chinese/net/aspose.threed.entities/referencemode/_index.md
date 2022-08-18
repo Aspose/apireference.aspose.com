@@ -1,14 +1,14 @@
 ---
 title: ReferenceMode
 second_title: Aspose.3D for .NET API 参考
-description: ReferenceMode./referencemode定义如何存储和引用映射信息
+description: ReferenceMode./referencemode定义映射信息如何存储和引用
 type: docs
 weight: 610
 url: /zh/net/aspose.threed.entities/referencemode/
 ---
 ## ReferenceMode enumeration
 
-[`ReferenceMode`](../referencemode)定义如何存储和引用映射信息。
+[`ReferenceMode`](../referencemode)定义映射信息如何存储和引用。
 
 ```csharp
 public enum ReferenceMode
@@ -18,9 +18,9 @@ public enum ReferenceMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Direct | `0` | 数据直接引用 |
-| Index | `1` | 数据由索引引用 |
-| IndexToDirect | `2` | 数据由索引引用，然后由[`VertexElement`](../vertexelement)的数据列表中的索引访问。 |
+| Direct | `0` | 直接引用数据 |
+| Index | `1` | 数据由 index 引用 |
+| IndexToDirect | `2` | 数据被索引引用，然后被索引访问[`VertexElement`](../vertexelement) 数据列表. |
 
 ### 也可以看看
 

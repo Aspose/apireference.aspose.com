@@ -1,14 +1,14 @@
 ---
 title: AddField
 second_title: Справочник по Aspose.3D для .NET API
-description: Добавить новое поле вершин
+description: Добавить новую вершину field
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.utilities/vertexdeclaration/addfield/
 ---
 ## VertexDeclaration.AddField method
 
-Добавить новое поле вершин
+Добавить новую вершину field
 
 ```csharp
 public VertexField AddField(VertexFieldDataType dataType, VertexFieldSemantic semantic, 
@@ -17,9 +17,9 @@ public VertexField AddField(VertexFieldDataType dataType, VertexFieldSemantic se
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dataType | VertexFieldDataType | Тип данных поле вершины |
+| dataType | VertexFieldDataType | Тип данных поля вершины |
 | semantic | VertexFieldSemantic | Как это поле будет использоваться для |
-| index | Int32 | Индекс для того же семантического поля , -1 для автогенерации |
+| index | Int32 | Индекс для той же семантики поля, -1 для автогенерации |
 | alias | String | Псевдоним поля |
 
 ### Смотрите также

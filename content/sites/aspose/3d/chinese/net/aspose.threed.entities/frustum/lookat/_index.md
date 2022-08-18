@@ -1,14 +1,14 @@
 ---
 title: LookAt
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置相机正在查看的感兴趣位置
+description: 获取或设置相机正在看的感兴趣的位置
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/frustum/lookat/
 ---
 ## Frustum.LookAt property
 
-获取或设置相机正在查看的感兴趣位置。
+获取或设置相机正在看的感兴趣的位置。
 
 ```csharp
 public Vector3 LookAt { get; set; }

@@ -3,7 +3,7 @@ title: StencilAction
 second_title: Aspose.3D for .NET API 参考
 description: 模板测试操作
 type: docs
-weight: 2180
+weight: 2190
 url: /zh/net/aspose.threed.render/stencilaction/
 ---
 ## StencilAction enumeration
@@ -20,11 +20,11 @@ public enum StencilAction
 | --- | --- | --- |
 | Keep | `0` | 保持当前值 |
 | Zero | `1` | 将模板缓冲区值设置为 0 |
-| Replace | `2` | 将模板缓冲区设置为 ref 在[`StencilReference`](../renderstate/stencilreference) |
+| Replace | `2` | 将模板缓冲区设置为 ref 中定义的位置[`StencilReference`](../renderstate/stencilreference) |
 | Increment | `3` | 增加当前模板缓冲区值，钳制到最大值。 |
-| IncrementWrap | `4` | 增加当前模板缓冲区的值，并在达到最大值时将其归零。 |
-| Decrement | `5` | 增加当前模板缓冲区值，钳位为 0。 |
-| DecrementWrap | `6` | 减少当前模板缓冲区的值，并在达到零时将其包装为最大值。 |
+| IncrementWrap | `4` | 增加当前模板缓冲区值，并在达到最大值时将其包装为零。 |
+| Decrement | `5` | 增加当前模板缓冲区的值，钳位到 0. |
+| DecrementWrap | `6` | 递减当前模板缓冲区值，并在达到零时将其包装为最大值。 |
 | Invert | `7` | 按位反转当前模板缓冲区值。 |
 
 ### 也可以看看

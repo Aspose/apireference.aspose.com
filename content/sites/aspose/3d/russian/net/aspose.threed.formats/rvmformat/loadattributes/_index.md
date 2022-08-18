@@ -1,14 +1,14 @@
 ---
 title: LoadAttributes
 second_title: Справочник по Aspose.3D для .NET API
-description: Загрузить атрибуты из указанного имени файла
+description: Загрузить атрибуты из файла с указанным именем
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/rvmformat/loadattributes/
 ---
 ## LoadAttributes(Scene, string, string) {#loadattributes_1}
 
-Загрузить атрибуты из указанного имени файла
+Загрузить атрибуты из файла с указанным именем
 
 ```csharp
 public void LoadAttributes(Scene scene, string fileName, string prefix = "rvm:")
@@ -16,9 +16,9 @@ public void LoadAttributes(Scene scene, string fileName, string prefix = "rvm:")
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scene | Scene | Сцена, в которой атрибуты будут применены к |
-| fileName | String | Имя файла, которое содержит атрибуты |
-| prefix | String | префикс атрибутов, используемый для предотвращения конфликта имен, значение по умолчанию "rvm:" |
+| scene | Scene | Сцена, к которой будут применяться атрибуты |
+| fileName | String | Имя файла, содержащего атрибуты |
+| prefix | String | Префикс атрибутов, который используется для предотвращения конфликта имен, значение по умолчанию — «rvm:» |
 
 ### Смотрите также
 
@@ -39,9 +39,9 @@ public void LoadAttributes(Scene scene, Stream stream, string prefix = "rvm:")
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scene | Scene | Сцена, в которой атрибуты будут применяться к |
-| stream | Stream | Поток, который содержит атрибуты |
-| prefix | String | Префикс атрибуты, которые используются для предотвращения конфликта имен, значение по умолчанию "rvm:" |
+| scene | Scene | Сцена, к которой будут применяться атрибуты |
+| stream | Stream | Поток, содержащий атрибуты |
+| prefix | String | Префикс атрибутов, который используется для предотвращения конфликта имен, значение по умолчанию — «rvm:» |
 
 ### Смотрите также
 

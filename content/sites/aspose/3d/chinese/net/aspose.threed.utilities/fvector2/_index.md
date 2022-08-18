@@ -3,7 +3,7 @@ title: FVector2
 second_title: Aspose.3D for .NET API 参考
 description: 具有两个分量的浮点向量
 type: docs
-weight: 2490
+weight: 2480
 url: /zh/net/aspose.threed.utilities/fvector2/
 ---
 ## FVector2 structure
@@ -18,8 +18,8 @@ public struct FVector2
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FVector2](fvector2#constructor)(Vector2) | 初始化[`FVector2`](../fvector2)的新实例。 |
-| [FVector2](fvector2#constructor_1)(float, float) | 初始化[`FVector2`](../fvector2)的新实例。 |
+| [FVector2](fvector2#constructor)(Vector2) | 初始化[`FVector2`](../fvector2). |
+| [FVector2](fvector2#constructor_1)(float, float) | 初始化[`FVector2`](../fvector2). |
 
 ## 方法
 
@@ -28,7 +28,7 @@ public struct FVector2
 | [Equals](../../aspose.threed.utilities/fvector2/equals#equals)(FVector2) | 检查两个向量是否相等 |
 | override [Equals](../../aspose.threed.utilities/fvector2/equals#equals_1)(object) | 检查两个向量是否相等 |
 | override [GetHashCode](../../aspose.threed.utilities/fvector2/gethashcode)() | 获取此实例的哈希码 |
-| override [ToString](../../aspose.threed.utilities/fvector2/tostring)() | 返回一个字符串，表示 [`FVector2`](../fvector2) |
+| override [ToString](../../aspose.threed.utilities/fvector2/tostring)() | 返回一个字符串，表示[`FVector2`](../fvector2) |
 | [operator ==](../../aspose.threed.utilities/fvector2/op_equality) | == 运算符重载 |
 | [explicit operator](../../aspose.threed.utilities/fvector2/op_explicit) |  |
 | [operator !=](../../aspose.threed.utilities/fvector2/op_inequality) | != 运算符重载 |
@@ -38,7 +38,7 @@ public struct FVector2
 
 | 姓名 | 描述 |
 | --- | --- |
-| [x](../../aspose.threed.utilities/fvector2/x) | x 组件。 |
+| [x](../../aspose.threed.utilities/fvector2/x) | x 分量。 |
 | [y](../../aspose.threed.utilities/fvector2/y) | y 分量。 |
 
 ### 也可以看看

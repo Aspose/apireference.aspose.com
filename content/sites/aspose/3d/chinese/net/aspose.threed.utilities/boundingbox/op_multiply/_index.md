@@ -1,14 +1,14 @@
 ---
 title: op_Multiply
 second_title: Aspose.3D for .NET API 参考
-description: 乘法运算符重载
+description: multiply 的运算符重载
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.utilities/boundingbox/op_multiply/
 ---
 ## BoundingBox Multiply operator
 
-乘法运算符重载
+multiply 的运算符重载
 
 ```csharp
 public static BoundingBox operator *(BoundingBox bbox, Matrix4 mat)

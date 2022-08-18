@@ -1,14 +1,14 @@
 ---
 title: PbrMaterial
 second_title: Aspose.3D for .NET API 参考
-description: 构造默认PBR材质实例
+description: 构造一个默认的PBR材质实例
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.shading/pbrmaterial/pbrmaterial/
 ---
 ## PbrMaterial() {#constructor}
 
-构造默认PBR材质实例
+构造一个默认的PBR材质实例
 
 ```csharp
 public PbrMaterial()
@@ -24,7 +24,7 @@ public PbrMaterial()
 
 ## PbrMaterial(Color) {#constructor_1}
 
-构造具有指定反照率颜色值的默认 PBR 材质。
+构造一个具有指定反照率颜色值的默认 PBR 材质。
 
 ```csharp
 public PbrMaterial(Color albedo)

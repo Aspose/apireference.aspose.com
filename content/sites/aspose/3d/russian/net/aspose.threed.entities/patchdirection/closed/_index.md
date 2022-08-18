@@ -1,14 +1,14 @@
 ---
 title: Closed
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает значение указывающее является ли этаPatchDirectionaspose.threed.entities/patchdirectionзамкнутой кривой.
+description: Получает или задает значение указывающее является ли этоPatchDirectionaspose.threed.entities/patchdirection представляет собой замкнутую кривую.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/patchdirection/closed/
 ---
 ## PatchDirection.Closed property
 
-Получает или задает значение, указывающее, является ли эта[`PatchDirection`](../../patchdirection)замкнутой кривой.
+Получает или задает значение, указывающее, является ли это[`PatchDirection`](../../patchdirection) представляет собой замкнутую кривую.
 
 ```csharp
 public bool Closed { get; set; }

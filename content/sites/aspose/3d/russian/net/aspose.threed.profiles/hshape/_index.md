@@ -1,14 +1,14 @@
 ---
 title: HShape
 second_title: Справочник по Aspose.3D для .NET API
-description: HShape./hshapeпредоставляет определяющие параметры H-образной или I-образной формы.
+description: HShape./hshapeпредоставляет определяющие параметры формы H или I.
 type: docs
-weight: 1540
+weight: 1550
 url: /ru/net/aspose.threed.profiles/hshape/
 ---
 ## HShape class
 
-[`HShape`](../hshape)предоставляет определяющие параметры H-образной или I-образной формы.
+[`HShape`](../hshape)предоставляет определяющие параметры формы «H» или «I».
 
 ```csharp
 public class HShape : ParameterizedProfile
@@ -31,8 +31,8 @@ public class HShape : ParameterizedProfile
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
 | [OverallDepth](../../aspose.threed.profiles/hshape/overalldepth) { get; set; } | Получает или задает степень глубины. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 | [TopFlangeEdgeRadius](../../aspose.threed.profiles/hshape/topflangeedgeradius) { get; set; } | Получает или задает радиус нижних краев верхней полки. |
@@ -47,11 +47,11 @@ public class HShape : ParameterizedProfile
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | override [GetExtent](../../aspose.threed.profiles/hshape/getextent)() | Получает экстент в измерениях x и y. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

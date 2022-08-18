@@ -1,14 +1,14 @@
 ---
 title: FieldOfViewX
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置相机的水平视野以度为单位该属性仅在 ApertureMode 为ApertureMode时使用HorizAndVert
+description: 获取或设置相机的水平视野以度为单位该属性仅在 ApertureMode 为HorizAndVert
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.entities/camera/fieldofviewx/
 ---
 ## Camera.FieldOfViewX property
 
-获取或设置相机的水平视野（以度为单位），该属性仅在 ApertureMode 为ApertureMode时使用。HorizAndVert
+获取或设置相机的水平视野，以度为单位，该属性仅在 ApertureMode 为HorizAndVert
 
 ```csharp
 public double FieldOfViewX { get; set; }

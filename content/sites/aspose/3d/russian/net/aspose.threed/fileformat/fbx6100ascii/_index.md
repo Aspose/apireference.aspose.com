@@ -1,14 +1,14 @@
 ---
 title: FBX6100ASCII
 second_title: Справочник по Aspose.3D для .NET API
-description: Формат файла ASCII FBX версия 6.1.0
+description: Формат файла ASCII FBX с версией 6.1.0
 type: docs
 weight: 70
 url: /ru/net/aspose.threed/fileformat/fbx6100ascii/
 ---
 ## FileFormat.FBX6100ASCII field
 
-Формат файла ASCII FBX, версия 6.1.0
+Формат файла ASCII FBX с версией 6.1.0
 
 ```csharp
 public static readonly FileFormat FBX6100ASCII;

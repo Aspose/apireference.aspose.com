@@ -1,14 +1,14 @@
 ---
 title: Continuity
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает непрерывность используемую в сплайне TCB
+description: Получает или задает непрерывность используемую в TCB spline
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.animation/keyframe/continuity/
 ---
 ## KeyFrame.Continuity property
 
-Получает или задает непрерывность, используемую в сплайне TCB
+Получает или задает непрерывность, используемую в TCB spline
 
 ```csharp
 public float Continuity { get; set; }

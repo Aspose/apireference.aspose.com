@@ -3,7 +3,7 @@ title: ParseException
 second_title: Aspose.3D for .NET API 参考
 description: Aspose.3D 无法解析输入时出现异常
 type: docs
-weight: 2590
+weight: 2580
 url: /zh/net/aspose.threed.utilities/parseexception/
 ---
 ## ParseException class
@@ -18,7 +18,7 @@ public class ParseException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ParseException](parseexception)(string) | 的构造函数 [`ParseException`](../parseexception) |
+| [ParseException](parseexception)(string) | 的构造函数[`ParseException`](../parseexception) |
 
 ### 也可以看看
 

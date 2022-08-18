@@ -3,7 +3,7 @@ title: BoundingBox
 second_title: Aspose.3D for .NET API 参考
 description: 轴对齐边界框
 type: docs
-weight: 2430
+weight: 2420
 url: /zh/net/aspose.threed.utilities/boundingbox/
 ---
 ## BoundingBox structure
@@ -35,11 +35,11 @@ public struct BoundingBox
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [FromGeometry](../../aspose.threed.utilities/boundingbox/fromgeometry)(Geometry) | 从给定几何构造边界框 |
+| static [FromGeometry](../../aspose.threed.utilities/boundingbox/fromgeometry)(Geometry) | 从给定的几何构造边界框 |
 | override [Equals](../../aspose.threed.utilities/boundingbox/equals)(object) | 判断两个对象是否相等 |
 | override [GetHashCode](../../aspose.threed.utilities/boundingbox/gethashcode)() | 返回此实例的哈希码 |
-| override [ToString](../../aspose.threed.utilities/boundingbox/tostring)() | 获取边界框的字符串表示。 |
-| [operator *](../../aspose.threed.utilities/boundingbox/op_multiply) | 乘法运算符重载 |
+| override [ToString](../../aspose.threed.utilities/boundingbox/tostring)() | 获取边界框的字符串表示形式。 |
+| [operator *](../../aspose.threed.utilities/boundingbox/op_multiply) | multiply 的运算符重载 |
 
 ## 字段
 

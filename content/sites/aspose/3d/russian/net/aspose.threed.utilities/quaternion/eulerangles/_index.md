@@ -1,14 +1,14 @@
 ---
 title: EulerAngles
 second_title: Справочник по Aspose.3D для .NET API
-description: Преобразует кватернион в вращение представленное углами Эйлера Все компоненты в радианах
+description: Преобразует кватернион во вращение представленное углами Эйлера Все компоненты указаны в радианах
 type: docs
 weight: 160
 url: /ru/net/aspose.threed.utilities/quaternion/eulerangles/
 ---
 ## Quaternion.EulerAngles method
 
-Преобразует кватернион в вращение, представленное углами Эйлера Все компоненты в радианах
+Преобразует кватернион во вращение, представленное углами Эйлера Все компоненты указаны в радианах
 
 ```csharp
 public Vector3 EulerAngles()

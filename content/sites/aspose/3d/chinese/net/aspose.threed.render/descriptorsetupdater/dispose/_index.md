@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.3D for .NET API 参考
-description: 释放更新程序并将更改提交到硬件设备
+description: 处理更新程序并将更改提交到硬件设备
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.render/descriptorsetupdater/dispose/
 ---
 ## DescriptorSetUpdater.Dispose method
 
-释放更新程序并将更改提交到硬件设备。
+处理更新程序并将更改提交到硬件设备。
 
 ```csharp
 public void Dispose()

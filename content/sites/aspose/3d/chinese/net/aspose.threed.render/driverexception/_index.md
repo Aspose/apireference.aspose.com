@@ -3,7 +3,7 @@ title: DriverException
 second_title: Aspose.3D for .NET API 参考
 description: 内部渲染驱动程序引发的异常
 type: docs
-weight: 1760
+weight: 1770
 url: /zh/net/aspose.threed.render/driverexception/
 ---
 ## DriverException class
@@ -18,7 +18,7 @@ public class DriverException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DriverException](driverexception)(uint, string) | 使用指定的本机驱动程序错误代码和消息初始化[`DriverException`](../driverexception)的实例。 |
+| [DriverException](driverexception)(uint, string) | 初始化一个实例[`DriverException`](../driverexception)带有指定的本机驱动程序错误代码和消息。 |
 
 ## 特性
 

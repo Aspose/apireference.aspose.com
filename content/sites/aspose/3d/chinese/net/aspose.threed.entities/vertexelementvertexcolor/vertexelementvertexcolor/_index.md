@@ -1,14 +1,14 @@
 ---
 title: VertexElementVertexColor
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementVertexColoraspose.threed.entities/vertexelementvertexcolor类的新实例
+description: 初始化VertexElementVertexColoraspose.threed.entities/vertexelementvertexcolor类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementvertexcolor/vertexelementvertexcolor/
 ---
 ## VertexElementVertexColor constructor
 
-初始化[`VertexElementVertexColor`](../../vertexelementvertexcolor)类的新实例。
+初始化[`VertexElementVertexColor`](../../vertexelementvertexcolor)类.
 
 ```csharp
 public VertexElementVertexColor()

@@ -3,7 +3,7 @@ title: FileSystem
 second_title: Aspose.3D for .NET API 参考
 description: 文件系统封装 Aspose.3D 将使用它来读取/写入依赖项
 type: docs
-weight: 2520
+weight: 2510
 url: /zh/net/aspose.threed.utilities/filesystem/
 ---
 ## FileSystem class
@@ -19,7 +19,7 @@ public abstract class FileSystem : IDisposable
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | 处置文件系统并释放其资源。 |
-| abstract [ReadFile](../../aspose.threed.utilities/filesystem/readfile)(string, IOConfig) | 创建一个流来读取依赖。 |
+| abstract [ReadFile](../../aspose.threed.utilities/filesystem/readfile)(string, IOConfig) | 创建一个用于读取依赖项的流。 |
 | abstract [WriteFile](../../aspose.threed.utilities/filesystem/writefile)(string, IOConfig) | 创建一个用于写入依赖项的流。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.3D for .NET API 参考
-description: 获取已声明属性的计数
+description: 获取声明属性的计数
 type: docs
 weight: 10
 url: /zh/net/aspose.threed/propertycollection/count/
 ---
 ## PropertyCollection.Count property
 
-获取已声明属性的计数。
+获取声明属性的计数。
 
 ```csharp
 public int Count { get; }

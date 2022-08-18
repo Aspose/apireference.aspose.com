@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Справочник по Aspose.3D для .NET API
-description: Сохраните содержимое текстуры во внешний файл.
+description: Сохранить содержимое текстуры во внешний файл.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.render/itexture1d/save/
 ---
 ## Save(string, ImageFormat) {#save_1}
 
-Сохраните содержимое текстуры во внешний файл.
+Сохранить содержимое текстуры во внешний файл.
 
 ```csharp
 public void Save(string path, ImageFormat format)
@@ -18,6 +18,12 @@ public void Save(string path, ImageFormat format)
 | --- | --- | --- |
 | path | String | Имя файла для сохранения. |
 | format | ImageFormat | Формат изображения |
+
+### Исключения
+
+| исключение | условие |
+| --- | --- |
+| IOException |  |
 
 ### Смотрите также
 
@@ -29,7 +35,7 @@ public void Save(string path, ImageFormat format)
 
 ## Save(Bitmap) {#save}
 
-Сохраните содержимое текстуры во внешний файл.
+Сохранить содержимое текстуры во внешний файл.
 
 ```csharp
 public void Save(Bitmap bitmap)
@@ -37,7 +43,7 @@ public void Save(Bitmap bitmap)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitmap | Bitmap | Результирующее растровое изображение для сохранения. |
+| bitmap | Bitmap | Растровое изображение результата для сохранения. |
 
 ### Смотрите также
 

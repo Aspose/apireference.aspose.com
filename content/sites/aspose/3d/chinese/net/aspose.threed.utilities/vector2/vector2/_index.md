@@ -1,14 +1,14 @@
 ---
 title: Vector2
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Vector2aspose.threed.utilities/vector2结构的新实例
+description: 初始化Vector2aspose.threed.utilities/vector2 struct.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/vector2/vector2/
 ---
 ## Vector2(double) {#constructor_1}
 
-初始化[`Vector2`](../../vector2)结构的新实例。
+初始化[`Vector2`](../../vector2) struct.
 
 ```csharp
 public Vector2(double s)
@@ -16,7 +16,7 @@ public Vector2(double s)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| s | Double | S. |
+| s | Double | S。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public Vector2(double s)
 
 ## Vector2(FVector2) {#constructor}
 
-初始化[`Vector2`](../../vector2)结构的新实例。
+初始化[`Vector2`](../../vector2) struct.
 
 ```csharp
 public Vector2(FVector2 vec)
@@ -36,7 +36,7 @@ public Vector2(FVector2 vec)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| vec | FVector2 | 浮点向量。 |
+| vec | FVector2 | 浮点数中的向量。 |
 
 ### 也可以看看
 
@@ -49,7 +49,7 @@ public Vector2(FVector2 vec)
 
 ## Vector2(double, double) {#constructor_2}
 
-初始化[`Vector2`](../../vector2)结构的新实例。
+初始化[`Vector2`](../../vector2) struct.
 
 ```csharp
 public Vector2(double x, double y)

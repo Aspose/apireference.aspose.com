@@ -1,14 +1,14 @@
 ---
 title: Node
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает экземплярNodeaspose.threed.render/renderer/node используемый для предоставления матрицы преобразования мира.
+description: Получает или задаетNodeaspose.threed.render/renderer/node Экземпляр используемый для предоставления матрицы преобразования мира.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.render/renderer/node/
 ---
 ## Renderer.Node property
 
-Получает или задает экземпляр`Node`, используемый для предоставления матрицы преобразования мира.
+Получает или задает`Node` Экземпляр, используемый для предоставления матрицы преобразования мира.
 
 ```csharp
 public Node Node { get; set; }

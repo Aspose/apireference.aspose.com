@@ -1,14 +1,14 @@
 ---
 title: MaterialConverter
 second_title: Aspose.3D for .NET API 参考
-description: 自定义转换器用于将几何体的原始材质转换为 GLTF 的 PBR 材质
+description: 将几何体的原始材质转换为 GLTF 的 PBR 材质的自定义转换器
 type: docs
 weight: 1200
 url: /zh/net/aspose.threed.formats/materialconverter/
 ---
 ## MaterialConverter delegate
 
-自定义转换器，用于将几何体的原始材质转换为 GLTF 的 PBR 材质。
+将几何体的原始材质转换为 GLTF 的 PBR 材质的自定义转换器。
 
 ```csharp
 public delegate Material MaterialConverter(Material mat);

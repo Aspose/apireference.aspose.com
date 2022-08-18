@@ -1,14 +1,14 @@
 ---
 title: ZShape
 second_title: Aspose.3D for .NET API 参考
-description: ZShapeaspose.threed.profiles/zshape
+description: 的构造函数ZShapeaspose.threed.profiles/zshape
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/zshape/zshape/
 ---
 ## ZShape constructor
 
-[`ZShape`](../../zshape)
+的构造函数[`ZShape`](../../zshape)
 
 ```csharp
 public ZShape()

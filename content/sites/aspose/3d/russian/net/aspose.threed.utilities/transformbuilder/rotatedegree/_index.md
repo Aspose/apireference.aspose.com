@@ -1,14 +1,14 @@
 ---
 title: RotateDegree
 second_title: Справочник по Aspose.3D для .NET API
-description: Цепь преобразования поворота в градусах
+description: Цепь преобразования вращения в градусах
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.utilities/transformbuilder/rotatedegree/
 ---
 ## TransformBuilder.RotateDegree method
 
-Цепь преобразования поворота в градусах
+Цепь преобразования вращения в градусах
 
 ```csharp
 public TransformBuilder RotateDegree(double angle, Vector3 axis)
@@ -17,7 +17,7 @@ public TransformBuilder RotateDegree(double angle, Vector3 axis)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | angle | Double | Угол поворота в градусах |
-| axis | Vector3 | Ось вращения |
+| axis | Vector3 | Ось для вращения |
 
 ### Смотрите также
 

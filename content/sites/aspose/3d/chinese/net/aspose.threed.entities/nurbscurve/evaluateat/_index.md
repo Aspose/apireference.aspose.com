@@ -1,14 +1,14 @@
 ---
 title: EvaluateAt
 second_title: Aspose.3D for .NET API 参考
-description: 计算曲线在指定位置的点
+description: 评估曲线在指定位置的点
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.entities/nurbscurve/evaluateat/
 ---
 ## NurbsCurve.EvaluateAt method
 
-计算曲线在指定位置的点
+评估曲线在指定位置的点
 
 ```csharp
 public Vector4 EvaluateAt(double u)
@@ -16,7 +16,7 @@ public Vector4 EvaluateAt(double u)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| u | Double | 在曲线，在 0 和 1 之间 |
+| u | Double | 曲线中的位置，介于 0 和 1 之间 |
 
 ### 也可以看看
 

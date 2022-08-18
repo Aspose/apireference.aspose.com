@@ -1,14 +1,14 @@
 ---
 title: VertexElementTemplateT
 second_title: Справочник по Aspose.3D для .NET API
-description: Вспомогательный класс для определения конкретных реализацийVertexElement./vertexelement.
+description: Вспомогательный класс для определения бетонаVertexElement./vertexelement реализации.
 type: docs
 weight: 880
 url: /ru/net/aspose.threed.entities/vertexelementtemplate-1/
 ---
 ## VertexElementTemplate&lt;T&gt; class
 
-Вспомогательный класс для определения конкретных реализаций[`VertexElement`](../vertexelement).
+Вспомогательный класс для определения бетона[`VertexElement`](../vertexelement) реализации.
 
 ```csharp
 public abstract class VertexElementTemplate<T> : VertexElement
@@ -22,9 +22,9 @@ public abstract class VertexElementTemplate<T> : VertexElement
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.threed.entities/vertexelementtemplate`1/data) { get; } | Получает данные вершин |
-| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает данные индексов |
-| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ сопоставления элемента. |
+| [Data](../../aspose.threed.entities/vertexelementtemplate`1/data) { get; } | Получает данные вершины |
+| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает индексы data |
+| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ отображения элемента. |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | Получает или задает имя. |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | Получает или задает способ ссылки на элемент. |
 | [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | Получает тип[`VertexElement`](../vertexelement) |

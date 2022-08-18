@@ -1,14 +1,14 @@
 ---
 title: TransformMatrix
 second_title: Справочник по Aspose.3D для .NET API
-description: Матрица преобразования.
+description: Матрица трансформации.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/transformedcurve/transformmatrix/
 ---
 ## TransformedCurve.TransformMatrix property
 
-Матрица преобразования.
+Матрица трансформации.
 
 ```csharp
 public Matrix4 TransformMatrix { get; set; }

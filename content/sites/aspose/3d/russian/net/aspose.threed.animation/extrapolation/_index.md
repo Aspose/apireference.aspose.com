@@ -1,14 +1,14 @@
 ---
 title: Extrapolation
 second_title: Справочник по Aspose.3D для .NET API
-description: Экстраполяция определяет что делать когда выборочное значение выходит за пределы диапазона определенного первым и последним ключевыми кадрами.
+description: Экстраполяция определяет что делать когда значение выборки выходит за пределы диапазона определенного первым и последним ключевыми кадрами.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.animation/extrapolation/
 ---
 ## Extrapolation class
 
-Экстраполяция определяет, что делать, когда выборочное значение выходит за пределы диапазона, определенного первым и последним ключевыми кадрами.
+Экстраполяция определяет, что делать, когда значение выборки выходит за пределы диапазона, определенного первым и последним ключевыми кадрами.
 
 ```csharp
 public class Extrapolation
@@ -19,7 +19,7 @@ public class Extrapolation
 | Имя | Описание |
 | --- | --- |
 | [RepeatCount](../../aspose.threed.animation/extrapolation/repeatcount) { get; set; } | Получает и задает время повторения шаблона экстраполяции. |
-| [Type](../../aspose.threed.animation/extrapolation/type) { get; set; } | Получает и задает шаблон выборки экстраполяции |
+| [Type](../../aspose.threed.animation/extrapolation/type) { get; set; } | Получает и задает шаблон выборки для extrapolation |
 
 ### Смотрите также
 

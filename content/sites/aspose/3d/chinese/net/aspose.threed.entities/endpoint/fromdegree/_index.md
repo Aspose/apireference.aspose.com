@@ -1,14 +1,14 @@
 ---
 title: FromDegree
 second_title: Aspose.3D for .NET API 参考
-description: 创建一个以度为单位的端点
+description: 创建一个以度为单位测量的端点
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/endpoint/fromdegree/
 ---
 ## EndPoint.FromDegree method
 
-创建一个以度为单位的端点。
+创建一个以度为单位测量的端点。
 
 ```csharp
 public static EndPoint FromDegree(double degree)

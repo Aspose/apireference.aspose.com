@@ -1,14 +1,14 @@
 ---
 title: TextureBase
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаTextureBaseaspose.threed.shading/texturebase.
+description: Инициализирует новый экземплярTextureBaseaspose.threed.shading/texturebase класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.shading/texturebase/texturebase/
 ---
 ## TextureBase constructor
 
-Инициализирует новый экземпляр класса[`TextureBase`](../../texturebase).
+Инициализирует новый экземпляр[`TextureBase`](../../texturebase) класс.
 
 ```csharp
 public TextureBase(string name)

@@ -17,7 +17,7 @@ public static Vector3 operator /(Vector3 lhs, double rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | Vector3 | Левый вектор |
-| rhs | Double | Правое двойное значение |
+| rhs | Double | Правильное двойное значение |
 
 ### Возвращаемое значение
 

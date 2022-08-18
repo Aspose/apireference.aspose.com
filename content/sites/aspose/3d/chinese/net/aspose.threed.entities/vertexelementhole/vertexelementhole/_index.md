@@ -1,14 +1,14 @@
 ---
 title: VertexElementHole
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementHoleaspose.threed.entities/vertexelementhole类的新实例
+description: 初始化VertexElementHoleaspose.threed.entities/vertexelementhole类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementhole/vertexelementhole/
 ---
 ## VertexElementHole constructor
 
-初始化[`VertexElementHole`](../../vertexelementhole)类的新实例。
+初始化[`VertexElementHole`](../../vertexelementhole)类.
 
 ```csharp
 public VertexElementHole()

@@ -1,14 +1,14 @@
 ---
 title: DuplicatedNameSeparator
 second_title: Aspose.3D for .NET API 参考
-description: 对象名称和重复计数器之间的分隔符默认值为_ 当场景包含使用相同名称的对象时Aspose.3D 3DS 导出器将为对象生成不同的名称 例如有两个节点名为Box第一个节点的名称为Box 第二个节点将使用默认的新名称Box_2配置
+description: 对象名称和重复计数器之间的分隔符默认值为_ 当场景包含使用相同名称的对象时Aspose.3D 3DS 导出器将为对象生成不同的名称 例如有两个节点命名为Box第一个节点将有一个名称Box 第二个节点将使用默认配置获得一个新名称Box_2
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.formats/discreet3dssaveoptions/duplicatednameseparator/
 ---
 ## Discreet3dsSaveOptions.DuplicatedNameSeparator property
 
-对象名称和重复计数器之间的分隔符，默认值为“_”。 当场景包含使用相同名称的对象时，Aspose.3D 3DS 导出器将为对象生成不同的名称。 例如有两个节点名为“Box”，第一个节点的名称为“Box”， 第二个节点将使用默认的新名称“Box_2”配置。
+对象名称和重复计数器之间的分隔符，默认值为“_”。 当场景包含使用相同名称的对象时，Aspose.3D 3DS 导出器将为对象生成不同的名称。 例如有两个节点命名为“Box”，第一个节点将有一个名称“Box”， ，第二个节点将使用默认配置获得一个新名称“Box_2”。
 
 ```csharp
 public string DuplicatedNameSeparator { get; set; }

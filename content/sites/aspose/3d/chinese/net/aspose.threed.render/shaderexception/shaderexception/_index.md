@@ -1,14 +1,14 @@
 ---
 title: ShaderException
 second_title: Aspose.3D for .NET API 参考
-description: ShaderExceptionaspose.threed.render/shaderexception
+description: 的构造函数ShaderExceptionaspose.threed.render/shaderexception
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/shaderexception/shaderexception/
 ---
 ## ShaderException constructor
 
-[`ShaderException`](../../shaderexception)
+的构造函数[`ShaderException`](../../shaderexception)
 
 ```csharp
 public ShaderException(string message)

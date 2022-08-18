@@ -67,7 +67,7 @@ public static Vector3 operator *(Quaternion q, Vector3 v)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | q | Quaternion | Кватернион вращения |
-| v | Vector3 | Вектор для вращения |
+| v | Vector3 | Вектор для поворота |
 
 ### Возвращаемое значение
 
@@ -93,7 +93,7 @@ public static Vector4 operator *(Quaternion q, Vector4 v)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | q | Quaternion | Кватернион вращения |
-| v | Vector4 | Вектор для вращения |
+| v | Vector4 | Вектор для поворота |
 
 ### Возвращаемое значение
 

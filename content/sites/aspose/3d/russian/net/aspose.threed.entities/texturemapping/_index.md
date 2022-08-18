@@ -1,14 +1,14 @@
 ---
 title: TextureMapping
 second_title: Справочник по Aspose.3D для .NET API
-description: Тип наложения текстуры дляVertexElementUV./vertexelementuv Описывает тип наложения текстуры используется.
+description: Тип наложения текстуры дляVertexElementUV./vertexelementuv Описывает какой тип наложения текстуры используется.
 type: docs
 weight: 700
 url: /ru/net/aspose.threed.entities/texturemapping/
 ---
 ## TextureMapping enumeration
 
-Тип наложения текстуры для[`VertexElementUV`](../vertexelementuv) Описывает тип наложения текстуры используется.
+Тип наложения текстуры для[`VertexElementUV`](../vertexelementuv) Описывает, какой тип наложения текстуры используется.
 
 ```csharp
 public enum TextureMapping
@@ -26,7 +26,7 @@ public enum TextureMapping
 | Normal | `5` | Карты нормалей |
 | Specular | `6` | Зеркальные карты |
 | Glow | `7` | Карты свечения |
-| Reflection | `8` | Карты отражений |
+| Reflection | `8` | Карты отражения |
 | Shadow | `9` | Карты теней |
 | Shininess | `10` | Карты блеска |
 | Displacement | `11` | Карты смещения |

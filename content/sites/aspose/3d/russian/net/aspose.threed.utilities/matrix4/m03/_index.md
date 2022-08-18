@@ -1,14 +1,14 @@
 ---
 title: m03
 second_title: Справочник по Aspose.3D для .NET API
-description: Файл m03.
+description: m03.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.utilities/matrix4/m03/
 ---
 ## Matrix4.m03 field
 
-Файл m03.
+m03.
 
 ```csharp
 public double m03;

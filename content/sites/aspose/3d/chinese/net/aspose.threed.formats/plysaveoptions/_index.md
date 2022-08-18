@@ -18,8 +18,8 @@ public class PlySaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PlySaveOptions](plysaveoptions#constructor)() | [`PlySaveOptions`](../plysaveoptions) |
-| [PlySaveOptions](plysaveoptions#constructor_1)(FileContentType) | 的构造函数 [`PlySaveOptions`](../plysaveoptions) |
+| [PlySaveOptions](plysaveoptions#constructor)() | 的构造函数[`PlySaveOptions`](../plysaveoptions) |
+| [PlySaveOptions](plysaveoptions#constructor_1)(FileContentType) | 的构造函数[`PlySaveOptions`](../plysaveoptions) |
 
 ## 特性
 
@@ -30,14 +30,14 @@ public class PlySaveOptions : SaveOptions
 | [FaceElement](../../aspose.threed.formats/plysaveoptions/faceelement) { get; set; } | 人脸数据的元素名称，默认值为“face” |
 | [FaceProperty](../../aspose.threed.formats/plysaveoptions/faceproperty) { get; set; } | 人脸数据的属性名，默认值为“vertex_index” |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
-| [FlipCoordinate](../../aspose.threed.formats/plysaveoptions/flipcoordinate) { get; set; } | 保存场景时翻转坐标，默认值为真 |
+| [FlipCoordinate](../../aspose.threed.formats/plysaveoptions/flipcoordinate) { get; set; } | 保存场景时翻转坐标，默认值为true |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
-| [NormalComponents](../../aspose.threed.formats/plysaveoptions/normalcomponents) { get; set; } | 普通数据的组件名称，默认值为 ("nx", "ny", "nz") |
+| [NormalComponents](../../aspose.threed.formats/plysaveoptions/normalcomponents) { get; set; } | 普通数据的组件名称，默认值为（“nx”，“ny”，“nz”） |
 | [PointCloud](../../aspose.threed.formats/plysaveoptions/pointcloud) { get; set; } | 将场景导出为点云，默认值为false。 |
-| [PositionComponents](../../aspose.threed.formats/plysaveoptions/positioncomponents) { get; set; } | 位置数据的组件名称，默认值为 ("x", "y", "z") |
-| [TextureCoordinateComponents](../../aspose.threed.formats/plysaveoptions/texturecoordinatecomponents) { get; set; } | 纹理坐标数据的组件名称，默认值为 ("u", "v") |
+| [PositionComponents](../../aspose.threed.formats/plysaveoptions/positioncomponents) { get; set; } | 位置数据的组件名称，默认值为（“x”，“y”，“z”） |
+| [TextureCoordinateComponents](../../aspose.threed.formats/plysaveoptions/texturecoordinatecomponents) { get; set; } | 纹理坐标数据的组件名称，默认值为("u", "v") |
 | [VertexElement](../../aspose.threed.formats/plysaveoptions/vertexelement) { get; set; } | 顶点数据的元素名称，默认值为“vertex” |
 
 ### 也可以看看

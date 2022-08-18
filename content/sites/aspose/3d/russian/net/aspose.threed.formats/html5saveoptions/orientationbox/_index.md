@@ -1,14 +1,14 @@
 ---
 title: OrientationBox
 second_title: Справочник по Aspose.3D для .NET API
-description: Показать окно ориентации. Значение по умолчанию  true.
+description: Отображение окна ориентации. Значение по умолчанию  true.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.formats/html5saveoptions/orientationbox/
 ---
 ## Html5SaveOptions.OrientationBox property
 
-Показать окно ориентации. Значение по умолчанию — true.
+Отображение окна ориентации. Значение по умолчанию — true.
 
 ```csharp
 public bool OrientationBox { get; set; }

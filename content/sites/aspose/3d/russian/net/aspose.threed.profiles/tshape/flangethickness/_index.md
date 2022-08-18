@@ -1,14 +1,14 @@
 ---
 title: FlangeThickness
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает толщину стенки фланца.
+description: Получает или задает толщину стенки полки.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.profiles/tshape/flangethickness/
 ---
 ## TShape.FlangeThickness property
 
-Получает или задает толщину стенки фланца.
+Получает или задает толщину стенки полки.
 
 ```csharp
 public double FlangeThickness { get; set; }

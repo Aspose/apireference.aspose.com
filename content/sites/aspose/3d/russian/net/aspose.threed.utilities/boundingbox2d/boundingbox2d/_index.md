@@ -1,14 +1,14 @@
 ---
 title: BoundingBox2D
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализировать конечный ограничивающий прямоугольник с заданным минимальным и максимальным углом
+description: Инициализировать конечную ограничивающую рамку с заданным минимальным и максимальным значением угла
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/boundingbox2d/boundingbox2d/
 ---
 ## BoundingBox2D constructor
 
-Инициализировать конечный ограничивающий прямоугольник с заданным минимальным и максимальным углом
+Инициализировать конечную ограничивающую рамку с заданным минимальным и максимальным значением угла
 
 ```csharp
 public BoundingBox2D(Vector2 minimum, Vector2 maximum)

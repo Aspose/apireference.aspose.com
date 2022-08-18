@@ -1,14 +1,14 @@
 ---
 title: VertexElementWeight
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementWeightaspose.threed.entities/vertexelementweight类的新实例
+description: 初始化VertexElementWeightaspose.threed.entities/vertexelementweight类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementweight/vertexelementweight/
 ---
 ## VertexElementWeight constructor
 
-初始化[`VertexElementWeight`](../../vertexelementweight)类的新实例。
+初始化[`VertexElementWeight`](../../vertexelementweight)类.
 
 ```csharp
 public VertexElementWeight()

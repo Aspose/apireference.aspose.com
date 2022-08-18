@@ -1,14 +1,14 @@
 ---
 title: CircleShape
 second_title: Aspose.3D for .NET API 参考
-description: 构造一个CircleShapeaspose.threed.profiles/circleshape具有默认半径5的配置文件
+description: 构造一个CircleShapeaspose.threed.profiles/circleshape默认半径的配置文件5.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/circleshape/circleshape/
 ---
 ## CircleShape() {#constructor}
 
-构造一个[`CircleShape`](../../circleshape)具有默认半径（5）的配置文件。
+构造一个[`CircleShape`](../../circleshape)默认半径的配置文件（5）.
 
 ```csharp
 public CircleShape()
@@ -24,7 +24,7 @@ public CircleShape()
 
 ## CircleShape(double) {#constructor_1}
 
-构造具有指定半径的[`CircleShape`](../../circleshape)轮廓。
+构造一个[`CircleShape`](../../circleshape)具有指定半径的轮廓。
 
 ```csharp
 public CircleShape(double radius)
@@ -32,7 +32,7 @@ public CircleShape(double radius)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 半径 | Double |  |
+| radius | Double |  |
 
 ### 也可以看看
 

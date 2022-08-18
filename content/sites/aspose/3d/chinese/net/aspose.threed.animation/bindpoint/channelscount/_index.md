@@ -16,7 +16,7 @@ public int ChannelsCount { get; }
 
 ### 返回值
 
-通道数。
+频道数。
 
 ### 也可以看看
 

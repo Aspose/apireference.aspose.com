@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.3D для .NET API
-description: Получить нумератор для перечисленияVertexaspose.threed.utilities/vertex
+description: Получить счетчик для перечисленияVertexaspose.threed.utilities/vertex
 type: docs
 weight: 130
 url: /ru/net/aspose.threed.entities/trimesh/getenumerator/
 ---
 ## TriMesh.GetEnumerator method
 
-Получить нумератор для перечисления[`Vertex`](../../../aspose.threed.utilities/vertex)
+Получить счетчик для перечисления[`Vertex`](../../../aspose.threed.utilities/vertex)
 
 ```csharp
 public IEnumerator<Vertex> GetEnumerator()

@@ -1,14 +1,14 @@
 ---
 title: RelativeRectangle
 second_title: Справочник по Aspose.3D для .NET API
-description: Относительный прямоугольник Формула между относительным компонентом и абсолютным значением Масштаб  Эталонная ширина  смещение Итак если мы хотим чтобы оно представляло абсолютное значение оставьте все поля шкалы равными нулю и вместо этого используйте поля смещения.
+description: Относительный прямоугольник Формула между относительным компонентом и абсолютным значением Масштаб  Эталонная ширина  смещение Поэтому если мы хотим чтобы оно представляло абсолютное значение оставьте все поля масштаба равными нулю и вместо этого используйте поля смещения.
 type: docs
-weight: 2610
+weight: 2600
 url: /ru/net/aspose.threed.utilities/relativerectangle/
 ---
 ## RelativeRectangle structure
 
-Относительный прямоугольник Формула между относительным компонентом и абсолютным значением: Масштаб * (Эталонная ширина) + смещение Итак, если мы хотим, чтобы оно представляло абсолютное значение, оставьте все поля шкалы равными нулю и вместо этого используйте поля смещения.
+Относительный прямоугольник Формула между относительным компонентом и абсолютным значением: Масштаб * (Эталонная ширина) + смещение Поэтому, если мы хотим, чтобы оно представляло абсолютное значение, оставьте все поля масштаба равными нулю и вместо этого используйте поля смещения.
 
 ```csharp
 public struct RelativeRectangle
@@ -18,8 +18,8 @@ public struct RelativeRectangle
 
 | Имя | Описание |
 | --- | --- |
-| [OffsetHeight](../../aspose.threed.utilities/relativerectangle/offsetheight) { get; set; } | Получает или задает смещение для высоты |
-| [OffsetWidth](../../aspose.threed.utilities/relativerectangle/offsetwidth) { get; set; } | Получает или устанавливает смещение для ширины |
+| [OffsetHeight](../../aspose.threed.utilities/relativerectangle/offsetheight) { get; set; } | Получает или задает смещение для height |
+| [OffsetWidth](../../aspose.threed.utilities/relativerectangle/offsetwidth) { get; set; } | Получает или задает смещение для width |
 | [OffsetX](../../aspose.threed.utilities/relativerectangle/offsetx) { get; set; } | Получает или задает смещение для координаты X |
 | [OffsetY](../../aspose.threed.utilities/relativerectangle/offsety) { get; set; } | Получает или задает смещение для координаты Y |
 | [ScaleHeight](../../aspose.threed.utilities/relativerectangle/scaleheight) { get; set; } | Относительная высота |
@@ -31,7 +31,7 @@ public struct RelativeRectangle
 
 | Имя | Описание |
 | --- | --- |
-| static [FromScale](../../aspose.threed.utilities/relativerectangle/fromscale)(float, float, float, float) | Построить[`RelativeRectangle`](../relativerectangle)со всеми нулевыми полями смещения и масштабными полями из заданных параметров. |
+| static [FromScale](../../aspose.threed.utilities/relativerectangle/fromscale)(float, float, float, float) | Построить[`RelativeRectangle`](../relativerectangle) со всеми полями смещения нулями и полями масштаба из заданных параметров. |
 | [ToAbsolute](../../aspose.threed.utilities/relativerectangle/toabsolute#toabsolute)(Rectangle) | Преобразование относительного прямоугольника в абсолютный прямоугольник |
 | [ToAbsolute](../../aspose.threed.utilities/relativerectangle/toabsolute#toabsolute_1)(Size) | Преобразование относительного прямоугольника в абсолютный прямоугольник |
 | override [ToString](../../aspose.threed.utilities/relativerectangle/tostring)() | Преобразует значение этого экземпляра вString. |

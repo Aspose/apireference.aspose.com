@@ -1,14 +1,14 @@
 ---
 title: AddElement
 second_title: Aspose.3D for .NET API 参考
-description: 将现有顶点元素添加到当前几何体
+description: 将现有顶点元素添加到当前几何图形
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.entities/geometry/addelement/
 ---
 ## Geometry.AddElement method
 
-将现有顶点元素添加到当前几何体
+将现有顶点元素添加到当前几何图形
 
 ```csharp
 public void AddElement(VertexElement element)
@@ -16,7 +16,7 @@ public void AddElement(VertexElement element)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| element | VertexElement | 顶点要添加的元素 |
+| element | VertexElement | 要添加的顶点元素 |
 
 ### 也可以看看
 

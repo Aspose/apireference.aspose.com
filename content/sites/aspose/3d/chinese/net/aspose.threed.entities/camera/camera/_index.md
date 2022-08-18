@@ -1,14 +1,14 @@
 ---
 title: Camera
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Cameraaspose.threed.entities/camera类的新实例
+description: 初始化Cameraaspose.threed.entities/camera类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/camera/camera/
 ---
 ## Camera() {#constructor}
 
-初始化[`Camera`](../../camera)类的新实例。
+初始化[`Camera`](../../camera)类.
 
 ```csharp
 public Camera()
@@ -24,7 +24,7 @@ public Camera()
 
 ## Camera(ProjectionType) {#constructor_1}
 
-初始化[`Camera`](../../camera)类的新实例。
+初始化[`Camera`](../../camera)类.
 
 ```csharp
 public Camera(ProjectionType projectionType)
@@ -45,7 +45,7 @@ public Camera(ProjectionType projectionType)
 
 ## Camera(string) {#constructor_2}
 
-初始化[`Camera`](../../camera)类的新实例。
+初始化[`Camera`](../../camera)类.
 
 ```csharp
 public Camera(string name)
@@ -53,7 +53,7 @@ public Camera(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 
 ### 也可以看看
 
@@ -65,7 +65,7 @@ public Camera(string name)
 
 ## Camera(string, ProjectionType) {#constructor_3}
 
-初始化[`Camera`](../../camera)类的新实例。
+初始化[`Camera`](../../camera)类.
 
 ```csharp
 public Camera(string name, ProjectionType projectionType)
@@ -73,7 +73,7 @@ public Camera(string name, ProjectionType projectionType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 | projectionType | ProjectionType | 投影类型。 |
 
 ### 也可以看看

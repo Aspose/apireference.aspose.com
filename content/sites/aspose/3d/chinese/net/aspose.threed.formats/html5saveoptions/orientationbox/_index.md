@@ -1,14 +1,14 @@
 ---
 title: OrientationBox
 second_title: Aspose.3D for .NET API 参考
-description: 显示方向框 默认值为真
+description: 显示方向框 默认值为 true
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.formats/html5saveoptions/orientationbox/
 ---
 ## Html5SaveOptions.OrientationBox property
 
-显示方向框。 默认值为真。
+显示方向框。 默认值为 true。
 
 ```csharp
 public bool OrientationBox { get; set; }

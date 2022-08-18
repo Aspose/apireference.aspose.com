@@ -1,14 +1,14 @@
 ---
 title: AnimationClips
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает всеAnimationClipaspose.threed.animation/animationclipопределенные в сцене.
+description: получает всеAnimationClipaspose.threed.animation/animationclip определяется в сцене.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed/scene/animationclips/
 ---
 ## Scene.AnimationClips property
 
-Получает все[`AnimationClip`](../../../aspose.threed.animation/animationclip)определенные в сцене.
+получает все[`AnimationClip`](../../../aspose.threed.animation/animationclip) определяется в сцене.
 
 ```csharp
 public IList<AnimationClip> AnimationClips { get; }

@@ -3,7 +3,7 @@ title: PropertyCollection
 second_title: Aspose.3D for .NET API 参考
 description: 属性集合
 type: docs
-weight: 1670
+weight: 1680
 url: /zh/net/aspose.threed/propertycollection/
 ---
 ## PropertyCollection class
@@ -18,7 +18,7 @@ public class PropertyCollection : IEnumerable<Property>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.threed/propertycollection/count) { get; } | 获取已声明属性的计数。 |
+| [Count](../../aspose.threed/propertycollection/count) { get; } | 获取声明属性的计数。 |
 | [Item](../../aspose.threed/propertycollection/item) { get; } |  |
 | [Item](../../aspose.threed/propertycollection/item) { get; set; } |  |
 
@@ -26,7 +26,7 @@ public class PropertyCollection : IEnumerable<Property>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/propertycollection/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/propertycollection/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetEnumerator](../../aspose.threed/propertycollection/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | [RemoveProperty](../../aspose.threed/propertycollection/removeproperty#removeproperty)(Property) | 删除动态属性。 |
 | [RemoveProperty](../../aspose.threed/propertycollection/removeproperty#removeproperty_1)(string) | 删除动态属性。 |

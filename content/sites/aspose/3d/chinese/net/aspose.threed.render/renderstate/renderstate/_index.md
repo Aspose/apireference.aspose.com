@@ -1,14 +1,14 @@
 ---
 title: RenderState
 second_title: Aspose.3D for .NET API 参考
-description: RenderStateaspose.threed.render/renderstate
+description: 的构造函数RenderStateaspose.threed.render/renderstate
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/renderstate/renderstate/
 ---
 ## RenderState constructor
 
-[`RenderState`](../../renderstate)
+的构造函数[`RenderState`](../../renderstate)
 
 ```csharp
 public RenderState()

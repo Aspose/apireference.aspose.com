@@ -1,14 +1,14 @@
 ---
 title: SetPreRotation
 second_title: Aspose.3D for .NET API 参考
-description: 设置以度数表示的预旋转
+description: 设置以 degree 表示的预旋转
 type: docs
 weight: 160
 url: /zh/net/aspose.threed/transform/setprerotation/
 ---
 ## Transform.SetPreRotation method
 
-设置以度数表示的预旋转
+设置以 degree 表示的预旋转
 
 ```csharp
 public Transform SetPreRotation(double rx, double ry, double rz)

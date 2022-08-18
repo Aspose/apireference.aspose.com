@@ -116,13 +116,34 @@ public void Open(string fileName, FileFormat format, CancellationToken cancellat
 
 ---
 
-## Open(string, LoadOptions, CancellationToken) {#open_6}
+## Open(string, LoadOptions) {#open_6}
 
 Открывает сцену по указанному пути, используя указанный формат файла.
 
 ```csharp
-public void Open(string fileName, LoadOptions options, 
-    CancellationToken cancellationToken = default)
+public void Open(string fileName, LoadOptions options)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fileName | String | Имя файла. |
+| options | LoadOptions | Более подробная настройка для открытия потока. |
+
+### Смотрите также
+
+* class [LoadOptions](../../../aspose.threed.formats/loadoptions)
+* class [Scene](../../scene)
+* пространство имен [Aspose.ThreeD](../../scene)
+* сборка [Aspose.3D](../../../)
+
+---
+
+## Open(string, LoadOptions, CancellationToken) {#open_7}
+
+Открывает сцену по указанному пути, используя указанный формат файла.
+
+```csharp
+public void Open(string fileName, LoadOptions options, CancellationToken cancellationToken)
 ```
 
 | Параметр | Тип | Описание |
@@ -160,7 +181,7 @@ public void Open(string fileName)
 
 ---
 
-## Open(string, CancellationToken) {#open_7}
+## Open(string, CancellationToken) {#open_8}
 
 Открывает сцену по указанному пути
 

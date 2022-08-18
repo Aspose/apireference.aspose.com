@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 返回代表当前Propertyaspose.threed/property的字符串
+description: 返回代表当前的字符串Propertyaspose.threed/property.
 type: docs
 weight: 60
 url: /zh/net/aspose.threed/property/tostring/
 ---
 ## Property.ToString method
 
-返回代表当前[`Property`](../../property)的字符串。
+返回代表当前的字符串[`Property`](../../property).
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-表示当前[`Property`](../../property)的字符串。
+表示当前的字符串[`Property`](../../property).
 
 ### 也可以看看
 

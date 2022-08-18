@@ -1,14 +1,14 @@
 ---
 title: DrawOperation
 second_title: Справочник по Aspose.3D для .NET API
-description: Примитивные типы для рендеринга
+description: Типы примитивов для рендеринга
 type: docs
-weight: 1750
+weight: 1760
 url: /ru/net/aspose.threed.render/drawoperation/
 ---
 ## DrawOperation enumeration
 
-Примитивные типы для рендеринга
+Типы примитивов для рендеринга
 
 ```csharp
 public enum DrawOperation
@@ -18,8 +18,8 @@ public enum DrawOperation
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Points | `0` | Очки |
-| Lines | `1` | Строки |
+| Points | `0` | Очков |
+| Lines | `1` | Линии |
 | LineStrip | `2` | Полосы линий |
 | Triangles | `3` | Треугольники |
 | TriangleStrip | `4` | Треугольные полоски |

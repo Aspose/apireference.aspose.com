@@ -1,14 +1,14 @@
 ---
 title: ObjLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: ObjLoadOptionsaspose.threed.formats/objloadoptions
+description: 的构造函数ObjLoadOptionsaspose.threed.formats/objloadoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/objloadoptions/objloadoptions/
 ---
 ## ObjLoadOptions constructor
 
-[`ObjLoadOptions`](../../objloadoptions)
+的构造函数[`ObjLoadOptions`](../../objloadoptions)
 
 ```csharp
 public ObjLoadOptions()

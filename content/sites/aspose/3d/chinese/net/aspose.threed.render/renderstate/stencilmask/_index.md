@@ -1,14 +1,14 @@
 ---
 title: StencilMask
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在测试完成时与引用和存储的模板值进行与运算的掩码
+description: 获取或设置在测试完成时与参考和存储的模板值进行与运算的掩码
 type: docs
 weight: 170
 url: /zh/net/aspose.threed.render/renderstate/stencilmask/
 ---
 ## RenderState.StencilMask property
 
-获取或设置在测试完成时与引用和存储的模板值进行与运算的掩码。
+获取或设置在测试完成时与参考和存储的模板值进行与运算的掩码。
 
 ```csharp
 public uint StencilMask { get; set; }

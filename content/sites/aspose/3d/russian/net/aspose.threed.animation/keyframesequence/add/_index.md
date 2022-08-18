@@ -16,7 +16,7 @@ public void Add(double time, float value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| time | Double | Позиция времени (измеряется в секундах) |
+| time | Double | Положение во времени (измеряется в секундах) |
 | value | Single | Значение в данный момент времени |
 
 ### Смотрите также
@@ -37,7 +37,7 @@ public void Add(double time, float value, Interpolation interpolation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| time | Double | Позиция времени (измеряется в секундах) |
+| time | Double | Положение во времени (измеряется в секундах) |
 | value | Single | Значение в данный момент времени |
 | interpolation | Interpolation | Тип интерполяции этого ключевого кадра |
 

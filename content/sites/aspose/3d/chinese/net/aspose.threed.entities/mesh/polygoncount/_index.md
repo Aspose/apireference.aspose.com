@@ -1,14 +1,14 @@
 ---
 title: PolygonCount
 second_title: Aspose.3D for .NET API 参考
-description: 获取多边形数量
+description: 获取多边形的计数
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.entities/mesh/polygoncount/
 ---
 ## Mesh.PolygonCount property
 
-获取多边形数量
+获取多边形的计数
 
 ```csharp
 public int PolygonCount { get; }
@@ -16,7 +16,7 @@ public int PolygonCount { get; }
 
 ### 适当的价值
 
-多边形数量。
+多边形计数。
 
 ### 也可以看看
 

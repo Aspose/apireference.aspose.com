@@ -18,8 +18,8 @@ public struct EndPoint
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EndPoint](endpoint#constructor_1)(double) | 从实参构造[`EndPoint`](../endpoint)。 |
-| [EndPoint](endpoint#constructor)(Vector3) | 从笛卡尔点构造[`EndPoint`](../endpoint)。 |
+| [EndPoint](endpoint#constructor_1)(double) | 构造一个[`EndPoint`](../endpoint)来自一个真实的参数。 |
+| [EndPoint](endpoint#constructor)(Vector3) | 构造一个[`EndPoint`](../endpoint)从笛卡尔点. |
 
 ## 特性
 
@@ -33,9 +33,9 @@ public struct EndPoint
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [FromDegree](../../aspose.threed.entities/endpoint/fromdegree)(double) | 创建一个以度为单位的端点。 |
-| static [FromRadian](../../aspose.threed.entities/endpoint/fromradian)(double) | 创建一个以弧度为单位的端点。 |
-| override [ToString](../../aspose.threed.entities/endpoint/tostring)() | 返回当前端点的字符串表示。 |
+| static [FromDegree](../../aspose.threed.entities/endpoint/fromdegree)(double) | 创建一个以度为单位测量的端点。 |
+| static [FromRadian](../../aspose.threed.entities/endpoint/fromradian)(double) | 创建一个以弧度测量的端点。 |
+| override [ToString](../../aspose.threed.entities/endpoint/tostring)() | 返回当前端点的字符串表示形式。 |
 
 ### 也可以看看
 

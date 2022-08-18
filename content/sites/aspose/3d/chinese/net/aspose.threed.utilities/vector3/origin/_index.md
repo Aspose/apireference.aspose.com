@@ -16,7 +16,7 @@ public static readonly Vector3 Origin;
 
 ### 适当的价值
 
-原点。
+起源。
 
 ### 也可以看看
 

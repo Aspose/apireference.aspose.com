@@ -38,7 +38,7 @@ public void Save(CubeFaceData<Bitmap> bitmap)
 
 ## Save(CubeFace, Bitmap) {#save}
 
-Сохранить указанную сторону в памяти
+Сохранить указанную сторону в memory
 
 ```csharp
 public void Save(CubeFace side, Bitmap bitmap)
@@ -47,7 +47,7 @@ public void Save(CubeFace side, Bitmap bitmap)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | side | CubeFace |  |
-| растровоеизображение | Bitmap |  |
+| bitmap | Bitmap |  |
 
 ### Смотрите также
 

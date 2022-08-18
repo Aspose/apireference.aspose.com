@@ -6,18 +6,39 @@ type: docs
 weight: 20
 url: /zh/net/aspose.threed.formats/pdfformat/extractscene/
 ---
-## ExtractScene(string, byte[]) {#extractscene_1}
+## ExtractScene(string) {#extractscene_1}
 
 从 PDF 文件中提取 3D 场景。
 
 ```csharp
-public List<Scene> ExtractScene(string fileName, byte[] password = null)
+public List<Scene> ExtractScene(string fileName)
 ```
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 文件名 | String |  |
-| 密码 | Byte[] |  |
+| fileName | String |  |
+
+### 也可以看看
+
+* class [Scene](../../../aspose.threed/scene)
+* class [PdfFormat](../../pdfformat)
+* 命名空间 [Aspose.ThreeD.Formats](../../pdfformat)
+* 部件 [Aspose.3D](../../../)
+
+---
+
+## ExtractScene(string, byte[]) {#extractscene_2}
+
+从 PDF 文件中提取 3D 场景。
+
+```csharp
+public List<Scene> ExtractScene(string fileName, byte[] password)
+```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fileName | String |  |
+| password | Byte[] |  |
 
 ### 也可以看看
 
@@ -39,7 +60,7 @@ public List<Scene> ExtractScene(Stream stream, byte[] password = null)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream |  |
-| 密码 | Byte[] |  |
+| password | Byte[] |  |
 
 ### 也可以看看
 

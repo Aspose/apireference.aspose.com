@@ -1,14 +1,14 @@
 ---
 title: FBX6100Binary
 second_title: Aspose.3D for .NET API 参考
-description: 二进制 FBX 文件格式6.1.0 版本
+description: 二进制FBX文件格式6.1.0版本
 type: docs
 weight: 80
 url: /zh/net/aspose.threed/fileformat/fbx6100binary/
 ---
 ## FileFormat.FBX6100Binary field
 
-二进制 FBX 文件格式，6.1.0 版本
+二进制FBX文件格式，6.1.0版本
 
 ```csharp
 public static readonly FileFormat FBX6100Binary;

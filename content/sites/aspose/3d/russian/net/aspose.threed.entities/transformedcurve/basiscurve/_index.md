@@ -1,14 +1,14 @@
 ---
 title: BasisCurve
 second_title: Справочник по Aspose.3D для .NET API
-description: Базисная кривая.
+description: Базовая кривая.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/transformedcurve/basiscurve/
 ---
 ## TransformedCurve.BasisCurve property
 
-Базисная кривая.
+Базовая кривая.
 
 ```csharp
 public Curve BasisCurve { get; set; }

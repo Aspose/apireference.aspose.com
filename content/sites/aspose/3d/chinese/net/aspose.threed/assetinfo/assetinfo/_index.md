@@ -1,14 +1,14 @@
 ---
 title: AssetInfo
 second_title: Aspose.3D for .NET API 参考
-description: 初始化AssetInfoaspose.threed/assetinfo类的新实例
+description: 初始化AssetInfoaspose.threed/assetinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed/assetinfo/assetinfo/
 ---
 ## AssetInfo() {#constructor}
 
-初始化[`AssetInfo`](../../assetinfo)类的新实例。
+初始化[`AssetInfo`](../../assetinfo)类.
 
 ```csharp
 public AssetInfo()
@@ -24,7 +24,7 @@ public AssetInfo()
 
 ## AssetInfo(string) {#constructor_1}
 
-初始化[`AssetInfo`](../../assetinfo)类的新实例。
+初始化[`AssetInfo`](../../assetinfo)类.
 
 ```csharp
 public AssetInfo(string name)
@@ -32,7 +32,7 @@ public AssetInfo(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 

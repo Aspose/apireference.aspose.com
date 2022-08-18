@@ -1,14 +1,14 @@
 ---
 title: VertexElementHole
 second_title: Aspose.3D for .NET API 参考
-description: 定义指定多边形是否为孔
+description: 定义指定的多边形是否为hole
 type: docs
 weight: 800
 url: /zh/net/aspose.threed.entities/vertexelementhole/
 ---
 ## VertexElementHole class
 
-定义指定多边形是否为孔
+定义指定的多边形是否为hole
 
 ```csharp
 public class VertexElementHole : VertexElementTemplate<bool>
@@ -18,7 +18,7 @@ public class VertexElementHole : VertexElementTemplate<bool>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VertexElementHole](vertexelementhole)() | 初始化[`VertexElementHole`](../vertexelementhole)类的新实例。 |
+| [VertexElementHole](vertexelementhole)() | 初始化[`VertexElementHole`](../vertexelementhole)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public class VertexElementHole : VertexElementTemplate<bool>
 | [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | 获取或设置元素的映射方式。 |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | 获取或设置名称。 |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | 获取或设置元素的引用方式。 |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取[`VertexElement`](../vertexelement) |
+| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取类型[`VertexElement`](../vertexelement) |
 
 ## 方法
 

@@ -3,7 +3,7 @@ title: ITextureCubemap
 second_title: Aspose.3D for .NET API 参考
 description: 立方体贴图纹理
 type: docs
-weight: 1930
+weight: 1940
 url: /zh/net/aspose.threed.render/itexturecubemap/
 ---
 ## ITextureCubemap interface
@@ -19,12 +19,12 @@ public interface ITextureCubemap : ITextureUnit
 | 姓名 | 描述 |
 | --- | --- |
 | [Load](../../aspose.threed.render/itexturecubemap/load#load_1)(CubeFaceData&lt;TextureData&gt;) |  |
-| [Load](../../aspose.threed.render/itexturecubemap/load#load)(CubeFace, TextureData) | 加载数据到指定面 |
+| [Load](../../aspose.threed.render/itexturecubemap/load#load)(CubeFace, TextureData) | 将数据加载到指定的人脸 |
 | [LoadFromFiles](../../aspose.threed.render/itexturecubemap/loadfromfiles)(CubeFaceData&lt;string&gt;) |  |
 | [Save](../../aspose.threed.render/itexturecubemap/save#save_1)(CubeFaceData&lt;Bitmap&gt;) |  |
 | [Save](../../aspose.threed.render/itexturecubemap/save#save)(CubeFace, Bitmap) | 将指定边保存到内存 |
 | [Save](../../aspose.threed.render/itexturecubemap/save#save_2)(CubeFaceData&lt;string&gt;, ImageFormat) |  |
-| [ToBitmap](../../aspose.threed.render/itexturecubemap/tobitmap)(CubeFace) | 将纹理单元转换为Bitmap实例 |
+| [ToBitmap](../../aspose.threed.render/itexturecubemap/tobitmap)(CubeFace) | 将纹理单元转换为Bitmap instance |
 
 ### 也可以看看
 

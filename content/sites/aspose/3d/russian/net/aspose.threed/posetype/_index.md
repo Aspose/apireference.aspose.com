@@ -3,7 +3,7 @@ title: PoseType
 second_title: Справочник по Aspose.3D для .NET API
 description: Тип позы.
 type: docs
-weight: 1490
+weight: 1500
 url: /ru/net/aspose.threed/posetype/
 ---
 ## PoseType enumeration
@@ -19,7 +19,7 @@ public enum PoseType
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | BindPose | `0` | Поза связывания. |
-| Snapshot | `1` | Поза покоя означает, что это снимок позы связывания. |
+| Snapshot | `1` | Поза отдыха означает, что это снимок позы связывания. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: op_Multiply
 second_title: Aspose.3D for .NET API 参考
-description: 运算符重载 
+description:  的运算符重载
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.utilities/vector4/op_multiply/
 ---
 ## operator * {#op_multiply}
 
-运算符重载 *
+* 的运算符重载
 
 ```csharp
 public static Vector4 operator *(Vector4 lhs, Vector4 rhs)
@@ -17,7 +17,7 @@ public static Vector4 operator *(Vector4 lhs, Vector4 rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Vector4 | 左向量 |
-| rhs | Vector4 | 右向量 |
+| rhs | Vector4 | 正确的向量 |
 
 ### 返回值
 
@@ -33,7 +33,7 @@ public static Vector4 operator *(Vector4 lhs, Vector4 rhs)
 
 ## operator * {#op_multiply_1}
 
-运算符重载 *
+* 的运算符重载
 
 ```csharp
 public static Vector4 operator *(Vector4 lhs, double rhs)
@@ -42,7 +42,7 @@ public static Vector4 operator *(Vector4 lhs, double rhs)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lhs | Vector4 | 左向量 |
-| rhs | Double | 右双精度值 |
+| rhs | Double | 正确的双值 |
 
 ### 返回值
 

@@ -1,14 +1,14 @@
 ---
 title: UsdSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: 用USD初始化一个新的UsdSaveOptionsaspose.threed.formats/usdsaveoptions 格式
+description: 初始化一个新的UsdSaveOptionsaspose.threed.formats/usdsaveoptions和USDaspose.threed/fileformat/usd格式
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/usdsaveoptions/usdsaveoptions/
 ---
 ## UsdSaveOptions() {#constructor}
 
-用USD初始化一个新的[`UsdSaveOptions`](../../usdsaveoptions) 格式
+初始化一个新的[`UsdSaveOptions`](../../usdsaveoptions)和[`USD`](../../../aspose.threed/fileformat/usd)格式
 
 ```csharp
 public UsdSaveOptions()
@@ -24,7 +24,7 @@ public UsdSaveOptions()
 
 ## UsdSaveOptions(FileFormat) {#constructor_1}
 
-使用指定的 USD/USDZ 格式初始化一个新的[`UsdSaveOptions`](../../usdsaveoptions)。
+初始化一个新的[`UsdSaveOptions`](../../usdsaveoptions)具有指定的 USD/USDZ 格式。
 
 ```csharp
 public UsdSaveOptions(FileFormat fileFormat)

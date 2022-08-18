@@ -16,7 +16,7 @@ public void Set(double newX, double newY, double newZ)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newX | Double | Новый компонент X. |
+| newX | Double | Новый X-компонент. |
 | newY | Double | Новый компонент Y. |
 | newZ | Double | Новый компонент Z. |
 
@@ -38,7 +38,7 @@ public void Set(double newX, double newY, double newZ, double newW)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newX | Double | Новый компонент X . |
+| newX | Double | Новый X-компонент. |
 | newY | Double | Новый компонент Y. |
 | newZ | Double | Новый компонент Z. |
 | newW | Double | Новый компонент W. |

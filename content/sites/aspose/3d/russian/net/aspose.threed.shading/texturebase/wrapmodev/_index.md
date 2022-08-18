@@ -1,14 +1,14 @@
 ---
 title: WrapModeV
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает режимы переноса текстуры в V.
+description: Получает или устанавливает режимы наложения текстуры в V.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.shading/texturebase/wrapmodev/
 ---
 ## TextureBase.WrapModeV property
 
-Получает или устанавливает режимы переноса текстуры в V.
+Получает или устанавливает режимы наложения текстуры в V.
 
 ```csharp
 public WrapMode WrapModeV { get; set; }

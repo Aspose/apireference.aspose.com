@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Справочник по Aspose.3D для .NET API
-description: УдалитеRenderStateaspose.threed.render/renderstateи освободите все внутренние ресурсы.
+description: УтилизироватьRenderStateaspose.threed.render/renderstate и освободить все внутренние ресурсы.
 type: docs
 weight: 210
 url: /ru/net/aspose.threed.render/renderstate/dispose/
 ---
 ## RenderState.Dispose method
 
-Удалите[`RenderState`](../../renderstate)и освободите все внутренние ресурсы.
+Утилизировать[`RenderState`](../../renderstate) и освободить все внутренние ресурсы.
 
 ```csharp
 public void Dispose()

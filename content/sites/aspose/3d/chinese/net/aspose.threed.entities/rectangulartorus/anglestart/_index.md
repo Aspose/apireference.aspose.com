@@ -1,14 +1,14 @@
 ---
 title: AngleStart
 second_title: Aspose.3D for .NET API 参考
-description: 弧的起始角度以弧度为单位 默认值为 0
+description: 弧的起始角度以弧度为单位 默认值为0
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/rectangulartorus/anglestart/
 ---
 ## RectangularTorus.AngleStart property
 
-弧的起始角度，以弧度为单位。 默认值为 0
+弧的起始角度，以弧度为单位。 默认值为0
 
 ```csharp
 public double AngleStart { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.3D for .NET API 参考
-description: 释放RenderResourceaspose.threed.render/renderresource
+description: 释放使用的内部资源RenderResourceaspose.threed.render/renderresource
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/renderresource/dispose/
 ---
 ## RenderResource.Dispose method
 
-释放[`RenderResource`](../../renderresource)
+释放使用的内部资源[`RenderResource`](../../renderresource)
 
 ```csharp
 public void Dispose()

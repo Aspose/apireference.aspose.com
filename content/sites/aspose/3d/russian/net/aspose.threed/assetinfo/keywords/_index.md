@@ -1,14 +1,14 @@
 ---
 title: Keywords
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает ключевые слова этого актива
+description: Получает или задает ключевые слова этого ресурса
 type: docs
 weight: 110
 url: /ru/net/aspose.threed/assetinfo/keywords/
 ---
 ## AssetInfo.Keywords property
 
-Получает или задает ключевые слова этого актива
+Получает или задает ключевые слова этого ресурса
 
 ```csharp
 public string Keywords { get; set; }

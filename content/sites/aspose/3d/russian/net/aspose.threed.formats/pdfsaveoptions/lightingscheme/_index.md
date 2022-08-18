@@ -1,14 +1,14 @@
 ---
 title: LightingScheme
 second_title: Справочник по Aspose.3D для .NET API
-description: LightingScheme указывает освещение применяемое к 3D-графике.
+description: LightingScheme определяет освещение применяемое к 3D-объекту.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.formats/pdfsaveoptions/lightingscheme/
 ---
 ## PdfSaveOptions.LightingScheme property
 
-LightingScheme указывает освещение, применяемое к 3D-графике.
+LightingScheme определяет освещение, применяемое к 3D-объекту.
 
 ```csharp
 public PdfLightingScheme LightingScheme { get; set; }

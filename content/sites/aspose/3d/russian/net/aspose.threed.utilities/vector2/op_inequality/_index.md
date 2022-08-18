@@ -16,7 +16,7 @@ public static bool operator !=(Vector2 lhs, Vector2 rhs)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lhs | Vector2 | Значение слева . |
+| lhs | Vector2 | Значение левой стороны. |
 | rhs | Vector2 | Значение правой стороны. |
 
 ### Возвращаемое значение

@@ -1,14 +1,14 @@
 ---
 title: VertexElementTangent
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementTangentaspose.threed.entities/vertexelementtangent类的新实例
+description: 初始化VertexElementTangentaspose.threed.entities/vertexelementtangent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementtangent/vertexelementtangent/
 ---
 ## VertexElementTangent constructor
 
-初始化[`VertexElementTangent`](../../vertexelementtangent)类的新实例。
+初始化[`VertexElementTangent`](../../vertexelementtangent)类.
 
 ```csharp
 public VertexElementTangent()

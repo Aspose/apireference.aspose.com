@@ -1,14 +1,14 @@
 ---
 title: Dot
 second_title: Справочник по Aspose.3D для .NET API
-description: Произведение точек
+description: Точки product
 type: docs
 weight: 140
 url: /ru/net/aspose.threed.utilities/quaternion/dot/
 ---
 ## Quaternion.Dot method
 
-Произведение точек
+Точки product
 
 ```csharp
 public double Dot(Quaternion q)
@@ -16,7 +16,7 @@ public double Dot(Quaternion q)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| q | Quaternion | Кватернион |
+| q | Quaternion | кватернион |
 
 ### Возвращаемое значение
 

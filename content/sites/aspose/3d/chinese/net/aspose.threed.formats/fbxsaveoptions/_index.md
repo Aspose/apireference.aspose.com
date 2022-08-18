@@ -18,25 +18,25 @@ public class FbxSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FbxSaveOptions](fbxsaveoptions#constructor)(FileContentType) | 使用最新支持的版本初始化[`FbxSaveOptions`](../fbxsaveoptions)。 |
-| [FbxSaveOptions](fbxsaveoptions#constructor_1)(FileFormat) | 初始化[`FbxSaveOptions`](../fbxsaveoptions) |
+| [FbxSaveOptions](fbxsaveoptions#constructor)(FileContentType) | 初始化一个[`FbxSaveOptions`](../fbxsaveoptions)使用最新支持的版本。 |
+| [FbxSaveOptions](fbxsaveoptions#constructor_1)(FileFormat) | 初始化一个[`FbxSaveOptions`](../fbxsaveoptions) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmbedTextures](../../aspose.threed.formats/fbxsaveoptions/embedtextures) { get; set; } | 获取或设置是否将纹理嵌入到最终输出文件中。 FBX Exporter 将尝试从[`FileSystem`](../ioconfig/filesystem)中找到纹理的原始数据，并将文件嵌入到最终的 FBX 文件中。 默认值为假。 |
-| [EnableCompression](../../aspose.threed.formats/fbxsaveoptions/enablecompression) { get; set; } | 压缩FBX文件中的大二进制数据（例如动画数据，控制点，顶点元素数据，索引），默认值为true。 |
+| [EmbedTextures](../../aspose.threed.formats/fbxsaveoptions/embedtextures) { get; set; } | 获取或设置是否将纹理嵌入到最终输出文件中。 FBX Exporter 将尝试从其中查找纹理的原始数据[`FileSystem`](../ioconfig/filesystem) 并将文件嵌入到最终的 FBX 文件中。 默认值为 false。 |
+| [EnableCompression](../../aspose.threed.formats/fbxsaveoptions/enablecompression) { get; set; } | 压缩FBX文件中的大二进制数据（例如动画数据、控制点、顶点元素数据、索引），默认值为true。 |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
-| [ExportLegacyMaterialProperties](../../aspose.threed.formats/fbxsaveoptions/exportlegacymaterialproperties) { get; set; } | 获取或设置是否导出旧材质属性，用于向后兼容。 此选项默认开启。 |
+| [ExportLegacyMaterialProperties](../../aspose.threed.formats/fbxsaveoptions/exportlegacymaterialproperties) { get; set; } | 获取或设置是否导出旧材质属性，用于向后兼容。 默认开启此选项。 |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
-| [FoldRepeatedCurveData](../../aspose.threed.formats/fbxsaveoptions/foldrepeatedcurvedata) { get; set; } | 获取或设置是否通过增加最后一个数据的引用计数来重用重复的曲线数据 |
-| [GenerateVertexElementMaterial](../../aspose.threed.formats/fbxsaveoptions/generatevertexelementmaterial) { get; set; } | 获取或设置如果附加节点包含材质，是否始终为几何生成[`VertexElementMaterial`](../../aspose.threed.entities/vertexelementmaterial)。 默认关闭。 |
+| [FoldRepeatedCurveData](../../aspose.threed.formats/fbxsaveoptions/foldrepeatedcurvedata) { get; set; } | 获取或设置是否通过增加最后一条数据的引用计数来重用重复的曲线数据 |
+| [GenerateVertexElementMaterial](../../aspose.threed.formats/fbxsaveoptions/generatevertexelementmaterial) { get; set; } | 获取或设置是否总是生成一个[`VertexElementMaterial`](../../aspose.threed.entities/vertexelementmaterial)如果附加节点包含材料，则用于几何图形。 默认情况下关闭。 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
-| [ReusePrimitiveMesh](../../aspose.threed.formats/fbxsaveoptions/reuseprimitivemesh) { get; set; } | 为具有相同参数的图元重用网格，这将显着减小 FBX 输出的大小，该场景由大量图元形状构成（如从 CAD 文件中导入） ）。 默认值为 false |
-| [VideoForTexture](../../aspose.threed.formats/fbxsaveoptions/videofortexture) { get; set; } | 获取或设置在导出为 FBX 时是否为[`Texture`](../../aspose.threed.shading/texture)生成 Video 实例。 |
+| [ReusePrimitiveMesh](../../aspose.threed.formats/fbxsaveoptions/reuseprimitivemesh) { get; set; } | 为具有相同参数的图元重用网格，这将显着减小由大量图元形状（如从 CAD 文件导入）构建的场景的 FBX 输出的大小。 默认值为 false |
+| [VideoForTexture](../../aspose.threed.formats/fbxsaveoptions/videofortexture) { get; set; } | 获取或设置是否为[`Texture`](../../aspose.threed.shading/texture)导出为 FBX. 时 |
 
 ### 也可以看看
 

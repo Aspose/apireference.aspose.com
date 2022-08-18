@@ -3,7 +3,7 @@ title: FVector4
 second_title: Справочник по Aspose.3D для .NET API
 description: Вектор с плавающей запятой с четырьмя компонентами.
 type: docs
-weight: 2510
+weight: 2500
 url: /ru/net/aspose.threed.utilities/fvector4/
 ---
 ## FVector4 structure
@@ -18,12 +18,12 @@ public struct FVector4
 
 | Имя | Описание |
 | --- | --- |
-| [FVector4](fvector4#constructor_5)(Color) | Инициализирует новый экземпляр[`FVector4`](../fvector4). |
-| [FVector4](fvector4#constructor)(Vector3) | Инициализирует новый экземпляр[`FVector4`](../fvector4). |
-| [FVector4](fvector4#constructor_2)(Vector4) | Инициализирует новый экземпляр[`FVector4`](../fvector4). |
-| [FVector4](fvector4#constructor_1)(Vector3, float) | Инициализирует новый экземпляр[`FVector4`](../fvector4). |
-| [FVector4](fvector4#constructor_3)(float, float, float) | Инициализирует новый экземпляр[`FVector4`](../fvector4). |
-| [FVector4](fvector4#constructor_4)(float, float, float, float) | Инициализирует новый экземпляр[`FVector4`](../fvector4). |
+| [FVector4](fvector4#constructor_5)(Color) | Инициализирует новый экземпляр[`FVector4`](../fvector4) . |
+| [FVector4](fvector4#constructor)(Vector3) | Инициализирует новый экземпляр[`FVector4`](../fvector4) . |
+| [FVector4](fvector4#constructor_2)(Vector4) | Инициализирует новый экземпляр[`FVector4`](../fvector4) . |
+| [FVector4](fvector4#constructor_1)(Vector3, float) | Инициализирует новый экземпляр[`FVector4`](../fvector4) . |
+| [FVector4](fvector4#constructor_3)(float, float, float) | Инициализирует новый экземпляр[`FVector4`](../fvector4) . |
+| [FVector4](fvector4#constructor_4)(float, float, float, float) | Инициализирует новый экземпляр[`FVector4`](../fvector4) . |
 
 ## Методы
 

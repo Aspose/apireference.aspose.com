@@ -1,14 +1,14 @@
 ---
 title: ThetaLength
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает длину тета. Значение по умолчанию  2π.
+description: Получает или задает длину тета. Значение по умолчанию 2π.
 type: docs
 weight: 130
 url: /ru/net/aspose.threed.entities/cylinder/thetalength/
 ---
 ## Cylinder.ThetaLength property
 
-Получает или задает длину тета. Значение по умолчанию — 2π.
+Получает или задает длину тета. Значение по умолчанию: 2π.
 
 ```csharp
 public double ThetaLength { get; set; }
@@ -16,7 +16,7 @@ public double ThetaLength { get; set; }
 
 ### Стоимость имущества
 
-Длина тэты.
+Длина теты.
 
 ### Смотрите также
 

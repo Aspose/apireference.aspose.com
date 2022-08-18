@@ -1,14 +1,14 @@
 ---
 title: ExportLegacyMaterialProperties
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否导出旧材质属性用于向后兼容 此选项默认开启
+description: 获取或设置是否导出旧材质属性用于向后兼容 默认开启此选项
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.formats/fbxsaveoptions/exportlegacymaterialproperties/
 ---
 ## FbxSaveOptions.ExportLegacyMaterialProperties property
 
-获取或设置是否导出旧材质属性，用于向后兼容。 此选项默认开启。
+获取或设置是否导出旧材质属性，用于向后兼容。 默认开启此选项。
 
 ```csharp
 public bool ExportLegacyMaterialProperties { get; set; }

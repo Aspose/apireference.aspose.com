@@ -1,14 +1,14 @@
 ---
 title: m20
 second_title: Справочник по Aspose.3D для .NET API
-description: М20.
+description: m20.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.utilities/fmatrix4/m20/
 ---
 ## FMatrix4.m20 field
 
-М20.
+m20.
 
 ```csharp
 public float m20;

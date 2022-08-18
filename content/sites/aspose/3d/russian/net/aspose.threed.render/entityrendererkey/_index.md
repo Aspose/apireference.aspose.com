@@ -1,14 +1,14 @@
 ---
 title: EntityRendererKey
 second_title: Справочник по Aspose.3D для .NET API
-description: Ключ рендерера зарегистрированных объектов
+description: Ключ зарегистрированной сущности renderer
 type: docs
-weight: 1790
+weight: 1800
 url: /ru/net/aspose.threed.render/entityrendererkey/
 ---
 ## EntityRendererKey class
 
-Ключ рендерера зарегистрированных объектов
+Ключ зарегистрированной сущности renderer
 
 ```csharp
 public sealed class EntityRendererKey

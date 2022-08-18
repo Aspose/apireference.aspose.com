@@ -3,7 +3,7 @@ title: Texture
 second_title: Aspose.3D for .NET API 参考
 description: 此类定义来自外部文件的纹理
 type: docs
-weight: 2360
+weight: 2350
 url: /zh/net/aspose.threed.shading/texture/
 ---
 ## Texture class
@@ -18,15 +18,15 @@ public class Texture : TextureBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Texture](texture#constructor)() | 初始化[`Texture`](../texture)类的新实例。 |
-| [Texture](texture#constructor_1)(string) | 初始化[`Texture`](../texture)类的新实例。 |
+| [Texture](texture#constructor)() | 初始化[`Texture`](../texture)类. |
+| [Texture](texture#constructor_1)(string) | 初始化[`Texture`](../texture)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Alpha](../../aspose.threed.shading/texturebase/alpha) { get; set; } | 获取或设置纹理的默认 alpha 值 这在AlphaSource是PixelAlpha 默认值为 1.0，有效值范围在 0 到 1 之间 |
-| [AlphaSource](../../aspose.threed.shading/texturebase/alphasource) { get; set; } | 获取或设置纹理是否定义了 alpha 通道。 默认值为None |
+| [Alpha](../../aspose.threed.shading/texturebase/alpha) { get; set; } | 获取或设置纹理的默认 alpha 值 这在[`AlphaSource`](../texturebase/alphasource)是PixelAlpha 默认值为 1.0，有效值范围在 0 和 1 之间 |
+| [AlphaSource](../../aspose.threed.shading/texturebase/alphasource) { get; set; } | 获取或设置纹理是否定义了alpha通道。 默认值为None |
 | [Content](../../aspose.threed.shading/texture/content) { get; set; } | 获取或设置纹理的二进制内容。 嵌入的纹理内容是可选的，如果缺少，用户应该从外部文件加载纹理。 |
 | [EnableMipMap](../../aspose.threed.shading/texture/enablemipmap) { get; set; } | 获取或设置是否为此纹理启用了 mipmap |
 | [FileName](../../aspose.threed.shading/texture/filename) { get; set; } | 获取或设置关联的纹理文件。 |
@@ -38,18 +38,18 @@ public class Texture : TextureBase
 | [UVRotation](../../aspose.threed.shading/texturebase/uvrotation) { get; set; } | 获取或设置纹理的旋转 |
 | [UVScale](../../aspose.threed.shading/texturebase/uvscale) { get; set; } | 获取或设置 UV 比例。 |
 | [UVTranslation](../../aspose.threed.shading/texturebase/uvtranslation) { get; set; } | 获取或设置 UV 平移。 |
-| [WrapModeU](../../aspose.threed.shading/texturebase/wrapmodeu) { get; set; } | 获取或设置 U 中的纹理环绕模式 |
-| [WrapModeV](../../aspose.threed.shading/texturebase/wrapmodev) { get; set; } | 获取或设置 V 中的纹理环绕模式。 |
-| [WrapModeW](../../aspose.threed.shading/texturebase/wrapmodew) { get; set; } | 获取或设置 W 中的纹理环绕模式。 |
+| [WrapModeU](../../aspose.threed.shading/texturebase/wrapmodeu) { get; set; } | 获取或设置 U. 中的纹理环绕模式 |
+| [WrapModeV](../../aspose.threed.shading/texturebase/wrapmodev) { get; set; } | 获取或设置 V. 中的纹理环绕模式 |
+| [WrapModeW](../../aspose.threed.shading/texturebase/wrapmodew) { get; set; } | 获取或设置 W. 中的纹理环绕模式 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 | [SetRotation](../../aspose.threed.shading/texturebase/setrotation)(double, double) | 设置 UV 旋转。 |
 | [SetScale](../../aspose.threed.shading/texturebase/setscale)(double, double) | 设置 UV 比例。 |

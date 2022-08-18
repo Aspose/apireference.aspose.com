@@ -1,14 +1,14 @@
 ---
 title: A3dwSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: A3dwSaveOptionsaspose.threed.formats/a3dwsaveoptions
+description: 的构造函数A3dwSaveOptionsaspose.threed.formats/a3dwsaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/a3dwsaveoptions/a3dwsaveoptions/
 ---
 ## A3dwSaveOptions constructor
 
-[`A3dwSaveOptions`](../../a3dwsaveoptions)
+的构造函数[`A3dwSaveOptions`](../../a3dwsaveoptions)
 
 ```csharp
 public A3dwSaveOptions()

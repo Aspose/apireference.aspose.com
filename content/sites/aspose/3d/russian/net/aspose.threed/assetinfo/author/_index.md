@@ -1,14 +1,14 @@
 ---
 title: Author
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает автора этого актива
+description: Получает или устанавливает автора этого ресурса
 type: docs
 weight: 60
 url: /ru/net/aspose.threed/assetinfo/author/
 ---
 ## AssetInfo.Author property
 
-Получает или устанавливает автора этого актива
+Получает или устанавливает автора этого ресурса
 
 ```csharp
 public string Author { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DepthClear
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在设置了深度缓冲区位的情况下清除视口时使用的深度值
+description: 获取或设置在设置了深度缓冲区位时清除视口时使用的深度值
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.render/viewport/depthclear/
 ---
 ## Viewport.DepthClear property
 
-获取或设置在设置了深度缓冲区位的情况下清除视口时使用的深度值。
+获取或设置在设置了深度缓冲区位时清除视口时使用的深度值。
 
 ```csharp
 public float DepthClear { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.3D для .NET API
-description: Соединить матрицу преобразования масштабирования с компонентом масштабированным с помощью s
+description: Соединить матрицу преобразования масштабирования с компонентом масштабируемым на s
 type: docs
 weight: 140
 url: /ru/net/aspose.threed.utilities/transformbuilder/scale/
 ---
 ## Scale(double) {#scale_1}
 
-Соединить матрицу преобразования масштабирования с компонентом, масштабированным с помощью s
+Соединить матрицу преобразования масштабирования с компонентом, масштабируемым на s
 
 ```csharp
 public TransformBuilder Scale(double s)
@@ -28,7 +28,7 @@ public TransformBuilder Scale(double s)
 
 ## Scale(double, double, double) {#scale_2}
 
-Цепь матрицы преобразования масштабирования
+Связать матрицу преобразования масштабирования
 
 ```csharp
 public TransformBuilder Scale(double x, double y, double z)
@@ -50,7 +50,7 @@ public TransformBuilder Scale(double x, double y, double z)
 
 ## Scale(Vector3) {#scale}
 
-Цепь масштабного преобразования
+Цепь шкалы transform
 
 ```csharp
 public TransformBuilder Scale(Vector3 s)

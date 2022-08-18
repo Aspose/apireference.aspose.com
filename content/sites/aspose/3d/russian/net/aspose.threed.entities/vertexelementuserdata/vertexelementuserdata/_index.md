@@ -1,14 +1,14 @@
 ---
 title: VertexElementUserData
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementUserDataaspose.threed.entities/vertexelementuserdata.
+description: Инициализирует новый экземплярVertexElementUserDataaspose.threed.entities/vertexelementuserdata класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementuserdata/vertexelementuserdata/
 ---
 ## VertexElementUserData constructor
 
-Инициализирует новый экземпляр класса[`VertexElementUserData`](../../vertexelementuserdata).
+Инициализирует новый экземпляр[`VertexElementUserData`](../../vertexelementuserdata) класс.
 
 ```csharp
 public VertexElementUserData()

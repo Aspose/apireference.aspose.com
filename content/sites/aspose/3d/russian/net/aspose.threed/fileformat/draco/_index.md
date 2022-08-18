@@ -1,14 +1,14 @@
 ---
 title: Draco
 second_title: Справочник по Aspose.3D для .NET API
-description: Google Draco Mesh
+description: Сетка Google Драко
 type: docs
 weight: 540
 url: /ru/net/aspose.threed/fileformat/draco/
 ---
 ## FileFormat.Draco field
 
-Google Draco Mesh
+Сетка Google Драко
 
 ```csharp
 public static readonly DracoFormat Draco;

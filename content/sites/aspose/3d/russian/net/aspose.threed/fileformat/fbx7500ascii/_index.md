@@ -1,14 +1,14 @@
 ---
 title: FBX7500ASCII
 second_title: Справочник по Aspose.3D для .NET API
-description: Формат файла ASCII FBX версия 7.5.0
+description: Формат файла ASCII FBX с версией 7.5.0
 type: docs
 weight: 150
 url: /ru/net/aspose.threed/fileformat/fbx7500ascii/
 ---
 ## FileFormat.FBX7500ASCII field
 
-Формат файла ASCII FBX, версия 7.5.0
+Формат файла ASCII FBX с версией 7.5.0
 
 ```csharp
 public static readonly FileFormat FBX7500ASCII;

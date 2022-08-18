@@ -18,7 +18,7 @@ public interface IOrientable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Direction](../../aspose.threed.entities/iorientable/direction) { get; set; } | 获取或设置实体正在查看的方向。 |
+| [Direction](../../aspose.threed.entities/iorientable/direction) { get; set; } | 获取或设置实体注视的方向。 |
 | [Target](../../aspose.threed.entities/iorientable/target) { get; set; } | 获取或设置实体正在查看的目标。 |
 
 ### 也可以看看

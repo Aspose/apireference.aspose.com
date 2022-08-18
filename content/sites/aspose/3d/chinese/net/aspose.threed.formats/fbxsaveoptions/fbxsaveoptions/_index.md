@@ -1,14 +1,14 @@
 ---
 title: FbxSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: 初始化FbxSaveOptionsaspose.threed.formats/fbxsaveoptions
+description: 初始化一个FbxSaveOptionsaspose.threed.formats/fbxsaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/fbxsaveoptions/fbxsaveoptions/
 ---
 ## FbxSaveOptions(FileFormat) {#constructor_1}
 
-初始化[`FbxSaveOptions`](../../fbxsaveoptions)
+初始化一个[`FbxSaveOptions`](../../fbxsaveoptions)
 
 ```csharp
 public FbxSaveOptions(FileFormat format)
@@ -29,7 +29,7 @@ public FbxSaveOptions(FileFormat format)
 
 ## FbxSaveOptions(FileContentType) {#constructor}
 
-使用最新支持的版本初始化[`FbxSaveOptions`](../../fbxsaveoptions)。
+初始化一个[`FbxSaveOptions`](../../fbxsaveoptions)使用最新支持的版本。
 
 ```csharp
 public FbxSaveOptions(FileContentType contentType)

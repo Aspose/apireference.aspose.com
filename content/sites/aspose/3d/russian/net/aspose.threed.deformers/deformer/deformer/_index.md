@@ -1,14 +1,14 @@
 ---
 title: Deformer
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаDeformeraspose.threed.deformers/deformer.
+description: Инициализирует новый экземплярDeformeraspose.threed.deformers/deformer класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.deformers/deformer/deformer/
 ---
 ## Deformer constructor
 
-Инициализирует новый экземпляр класса[`Deformer`](../../deformer).
+Инициализирует новый экземпляр[`Deformer`](../../deformer) класс.
 
 ```csharp
 public Deformer(string name)

@@ -1,14 +1,14 @@
 ---
 title: TrialException
 second_title: Aspose.3D for .NET API 参考
-description: 当没有应用许可证时这会在 Scene.Open/Scene.Save 中引发 您可以通过将 SuppressTrialException 设置为 true 来关闭此异常
+description: 当没有应用许可证时在 Scene.Open/Scene.Save 中会引发此问题 您可以通过将 SuppressTrialException 设置为 true 来关闭此异常
 type: docs
-weight: 2420
+weight: 2410
 url: /zh/net/aspose.threed/trialexception/
 ---
 ## TrialException class
 
-当没有应用许可证时，这会在 Scene.Open/Scene.Save 中引发。 您可以通过将 SuppressTrialException 设置为 true 来关闭此异常。
+当没有应用许可证时，在 Scene.Open/Scene.Save 中会引发此问题。 您可以通过将 SuppressTrialException 设置为 true 来关闭此异常。
 
 ```csharp
 public class TrialException : Exception
@@ -18,13 +18,13 @@ public class TrialException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TrialException](trialexception)(string) | [`TrialException`](../trialexception) |
+| [TrialException](trialexception)(string) | 的构造函数[`TrialException`](../trialexception) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [SuppressTrialException](../../aspose.threed/trialexception/suppresstrialexception) { get; set; } | 将此设置为 true 以抑制未经许可使用的试用异常，但不会解除限制。 为了解除限制，请使用正确的许可证。 并将其设置为 true 也意味着您了解未经许可的限制。 |
+| static [SuppressTrialException](../../aspose.threed/trialexception/suppresstrialexception) { get; set; } | 将此设置为 true 以禁止未经许可使用的试用例外，但不会解除限制。 为了解除限制，请使用正确的许可证。 并将其设置为 true 也意味着您知道未经许可限制. |
 
 ### 也可以看看
 

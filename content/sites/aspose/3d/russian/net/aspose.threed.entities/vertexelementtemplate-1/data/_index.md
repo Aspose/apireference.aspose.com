@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает данные вершин
+description: Получает данные вершины
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementtemplate-1/data/
 ---
 ## VertexElementTemplate&lt;T&gt;.Data property
 
-Получает данные вершин
+Получает данные вершины
 
 ```csharp
 public IArrayList<T> Data { get; }

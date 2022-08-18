@@ -1,14 +1,14 @@
 ---
 title: FromWayland
 second_title: Справочник по Aspose.3D для .NET API
-description: СоздатьWindowHandleaspose.threed.render/windowhandleиз поверхности Wayland
+description: СоздатьWindowHandleaspose.threed.render/windowhandle с поверхности Wayland
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.render/windowhandle/fromwayland/
 ---
 ## WindowHandle.FromWayland method
 
-Создать[`WindowHandle`](../../windowhandle)из поверхности Wayland
+Создать[`WindowHandle`](../../windowhandle) с поверхности Wayland
 
 ```csharp
 public static WindowHandle FromWayland(IntPtr display, IntPtr surface)
@@ -17,7 +17,7 @@ public static WindowHandle FromWayland(IntPtr display, IntPtr surface)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | display | IntPtr | Отображаемый экземпляр сервера Wayland |
-| surface | IntPtr | Дескриптор поверхности |
+| surface | IntPtr | Ручка поверхности |
 
 ### Смотрите также
 

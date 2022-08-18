@@ -1,14 +1,14 @@
 ---
 title: Target
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置相机正在查看的目标 如果用户支持这个属性它应该在LookAtaspose.threed.entities/frustum/lookat属性之前
+description: 获取或设置摄像头正在看的目标 如果用户支持这个属性应该在LookAtaspose.threed.entities/frustum/lookat属性.
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.entities/frustum/target/
 ---
 ## Frustum.Target property
 
-获取或设置相机正在查看的目标。 如果用户支持这个属性，它应该在[`LookAt`](../lookat)属性之前。
+获取或设置摄像头正在看的目标。 如果用户支持这个属性，应该在[`LookAt`](../lookat)属性.
 
 ```csharp
 public Node Target { get; set; }

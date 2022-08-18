@@ -1,14 +1,14 @@
 ---
 title: MorphTargetChannel
 second_title: Справочник по Aspose.3D для .NET API
-description: MorphTargetChannel используетсяMorphTargetDeformer./morphtargetdeformerдля организации целевых геометрий. Некоторые форматы файлов такие как FBX поддерживают несколько каналов параллельно.
+description: MorphTargetChannel используетсяMorphTargetDeformer./morphtargetdeformer для организации целевой геометрии. Некоторые форматы файлов такие как FBX поддерживают несколько каналов параллельно.
 type: docs
 weight: 200
 url: /ru/net/aspose.threed.deformers/morphtargetchannel/
 ---
 ## MorphTargetChannel class
 
-MorphTargetChannel используется[`MorphTargetDeformer`](../morphtargetdeformer)для организации целевых геометрий. Некоторые форматы файлов, такие как FBX, поддерживают несколько каналов параллельно.
+MorphTargetChannel используется[`MorphTargetDeformer`](../morphtargetdeformer) для организации целевой геометрии. Некоторые форматы файлов, такие как FBX, поддерживают несколько каналов параллельно.
 
 ```csharp
 public class MorphTargetChannel : A3DObject
@@ -18,14 +18,14 @@ public class MorphTargetChannel : A3DObject
 
 | Имя | Описание |
 | --- | --- |
-| [MorphTargetChannel](morphtargetchannel#constructor)() | Инициализирует новый экземпляр класса[`MorphTargetChannel`](../morphtargetchannel). |
-| [MorphTargetChannel](morphtargetchannel#constructor_1)(string) | Инициализирует новый экземпляр класса[`MorphTargetChannel`](../morphtargetchannel). |
+| [MorphTargetChannel](morphtargetchannel#constructor)() | Инициализирует новый экземпляр[`MorphTargetChannel`](../morphtargetchannel) класс. |
+| [MorphTargetChannel](morphtargetchannel#constructor_1)(string) | Инициализирует новый экземпляр[`MorphTargetChannel`](../morphtargetchannel) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ChannelWeight](../../aspose.threed.deformers/morphtargetchannel/channelweight) { get; set; } | Получает или устанавливает вес деформатора этого канала. Вес находится в диапазоне от 0.0 до 1.0 |
+| [ChannelWeight](../../aspose.threed.deformers/morphtargetchannel/channelweight) { get; set; } | Получает или устанавливает вес деформатора этого канала. Вес находится в диапазоне от 0,0 до 1,0 |
 | [Item](../../aspose.threed.deformers/morphtargetchannel/item) { get; set; } |  |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
@@ -40,7 +40,7 @@ public class MorphTargetChannel : A3DObject
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [GetWeight](../../aspose.threed.deformers/morphtargetchannel/getweight)(Shape) | Получает вес для указанной цели, если цель не принадлежит этому каналу, возвращается значение по умолчанию 0. |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 | [SetWeight](../../aspose.threed.deformers/morphtargetchannel/setweight)(Shape, double) | Устанавливает вес для указанной цели, значение по умолчанию 1, диапазон должен быть между 0~1 |
 

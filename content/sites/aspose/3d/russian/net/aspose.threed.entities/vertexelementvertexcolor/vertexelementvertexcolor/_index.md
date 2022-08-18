@@ -1,14 +1,14 @@
 ---
 title: VertexElementVertexColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementVertexColoraspose.threed.entities/vertexelementvertexcolor.
+description: Инициализирует новый экземплярVertexElementVertexColoraspose.threed.entities/vertexelementvertexcolor класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementvertexcolor/vertexelementvertexcolor/
 ---
 ## VertexElementVertexColor constructor
 
-Инициализирует новый экземпляр класса[`VertexElementVertexColor`](../../vertexelementvertexcolor).
+Инициализирует новый экземпляр[`VertexElementVertexColor`](../../vertexelementvertexcolor) класс.
 
 ```csharp
 public VertexElementVertexColor()

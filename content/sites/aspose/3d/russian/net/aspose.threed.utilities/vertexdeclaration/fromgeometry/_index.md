@@ -1,14 +1,14 @@
 ---
 title: FromGeometry
 second_title: Справочник по Aspose.3D для .NET API
-description: СоздатьVertexDeclarationaspose.threed.utilities/vertexdeclarationна основеМакетGeometry.
+description: СоздатьVertexDeclarationaspose.threed.utilities/vertexdeclaration на основеGeometryaspose.threed.entities/geometry макет с.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/vertexdeclaration/fromgeometry/
 ---
 ## VertexDeclaration.FromGeometry method
 
-Создать[`VertexDeclaration`](../../vertexdeclaration)на основеМакетGeometry.
+Создать[`VertexDeclaration`](../../vertexdeclaration) на основе[`Geometry`](../../../aspose.threed.entities/geometry) макет с.
 
 ```csharp
 public static VertexDeclaration FromGeometry(Geometry geometry, bool useFloat)
@@ -17,7 +17,7 @@ public static VertexDeclaration FromGeometry(Geometry geometry, bool useFloat)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | geometry | Geometry |  |
-| useFloat | Boolean | Использовать тип float вместо double |
+| useFloat | Boolean | Используйте float вместо типа double |
 
 ### Смотрите также
 

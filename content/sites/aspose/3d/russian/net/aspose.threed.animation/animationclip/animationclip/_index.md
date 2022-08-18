@@ -1,14 +1,14 @@
 ---
 title: AnimationClip
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаAnimationClipaspose.threed.animation/animationclip.
+description: Инициализирует новый экземплярAnimationClipaspose.threed.animation/animationclip класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.animation/animationclip/animationclip/
 ---
 ## AnimationClip() {#constructor}
 
-Инициализирует новый экземпляр класса[`AnimationClip`](../../animationclip).
+Инициализирует новый экземпляр[`AnimationClip`](../../animationclip) класс.
 
 ```csharp
 public AnimationClip()
@@ -24,7 +24,7 @@ public AnimationClip()
 
 ## AnimationClip(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`AnimationClip`](../../animationclip).
+Инициализирует новый экземпляр[`AnimationClip`](../../animationclip) класс.
 
 ```csharp
 public AnimationClip(string name)
@@ -32,7 +32,7 @@ public AnimationClip(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

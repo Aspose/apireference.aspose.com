@@ -1,14 +1,14 @@
 ---
 title: SaveExtras
 second_title: Aspose.3D for .NET API 参考
-description: 将场景对象的动态属性保存到生成的 glTF 文件中的额外字段中 这对于提供特定于应用程序的数据很有用 默认值为假
+description: 将场景对象的动态属性保存到生成的 glTF 文件中的额外字段中 这对于提供特定于应用程序的数据很有用 默认值为 false
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/saveextras/
 ---
 ## GltfSaveOptions.SaveExtras property
 
-将场景对象的动态属性保存到生成的 glTF 文件中的“额外”字段中。 这对于提供特定于应用程序的数据很有用。 默认值为假。
+将场景对象的动态属性保存到生成的 glTF 文件中的“额外”字段中。 这对于提供特定于应用程序的数据很有用。 默认值为 false。
 
 ```csharp
 public bool SaveExtras { get; set; }

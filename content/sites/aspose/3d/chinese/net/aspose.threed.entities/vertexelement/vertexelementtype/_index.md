@@ -1,14 +1,14 @@
 ---
 title: VertexElementType
 second_title: Aspose.3D for .NET API 参考
-description: 获取VertexElementaspose.threed.entities/vertexelement
+description: 获取类型VertexElementaspose.threed.entities/vertexelement
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.entities/vertexelement/vertexelementtype/
 ---
 ## VertexElement.VertexElementType property
 
-获取[`VertexElement`](../../vertexelement)
+获取类型[`VertexElement`](../../vertexelement)
 
 ```csharp
 public VertexElementType VertexElementType { get; }

@@ -1,14 +1,14 @@
 ---
 title: Plane
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземплярPlaneaspose.threed.entities/planeс размером по умолчанию 1x1.
+description: Инициализирует новый экземплярPlaneaspose.threed.entities/plane с размером по умолчанию 1x1.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/plane/plane/
 ---
 ## Plane() {#constructor}
 
-Инициализирует новый экземпляр[`Plane`](../../plane)с размером по умолчанию 1x1.
+Инициализирует новый экземпляр[`Plane`](../../plane) с размером по умолчанию 1x1.
 
 ```csharp
 public Plane()
@@ -24,7 +24,7 @@ public Plane()
 
 ## Plane(double, double) {#constructor_1}
 
-Инициализирует новый экземпляр[`Plane`](../../plane).
+Инициализирует новый экземпляр[`Plane`](../../plane) .
 
 ```csharp
 public Plane(double length, double width)
@@ -32,8 +32,8 @@ public Plane(double length, double width)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| length | Double | Длина плоскости. |
-| width | Double | Ширина плоскости. |
+| length | Double | Длина самолета. |
+| width | Double | Ширина самолета. |
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public Plane(double length, double width)
 
 ## Plane(string, double, double, int, int) {#constructor_2}
 
-Инициализирует новый экземпляр[`Plane`](../../plane).
+Инициализирует новый экземпляр[`Plane`](../../plane) .
 
 ```csharp
 public Plane(string name, double length, double width, int lengthSegments, int widthSegments)
@@ -54,10 +54,10 @@ public Plane(string name, double length, double width, int lengthSegments, int w
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя. |
-| length | Double | Длина плоскости. |
-| width | Double | Ширина плоскости. |
-| lengthSegments | Int32 | Длина сегментов. |
-| widthSegments | Int32 | Ширина сегментов. |
+| length | Double | Длина самолета. |
+| width | Double | Ширина самолета. |
+| lengthSegments | Int32 | Сегменты длины. |
+| widthSegments | Int32 | Сегменты ширины. |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: ITexture1D
 second_title: Справочник по Aspose.3D для .NET API
 description: Одномерная текстура
 type: docs
-weight: 1910
+weight: 1920
 url: /ru/net/aspose.threed.render/itexture1d/
 ---
 ## ITexture1D interface
@@ -18,10 +18,10 @@ public interface ITexture1D : ITextureUnit
 
 | Имя | Описание |
 | --- | --- |
-| [Load](../../aspose.threed.render/itexture1d/load)(TextureData) | Загрузить содержимое текстуры из указанного растрового изображения |
-| [Save](../../aspose.threed.render/itexture1d/save#save)(Bitmap) | Сохраните содержимое текстуры во внешний файл. |
-| [Save](../../aspose.threed.render/itexture1d/save#save_1)(string, ImageFormat) | Сохраните содержимое текстуры во внешний файл. |
-| [ToBitmap](../../aspose.threed.render/itexture1d/tobitmap)() | Преобразование блока текстуры вBitmapinstance |
+| [Load](../../aspose.threed.render/itexture1d/load)(TextureData) | Загрузить содержимое текстуры из указанного Bitmap |
+| [Save](../../aspose.threed.render/itexture1d/save#save)(Bitmap) | Сохранить содержимое текстуры во внешний файл. |
+| [Save](../../aspose.threed.render/itexture1d/save#save_1)(string, ImageFormat) | Сохранить содержимое текстуры во внешний файл. |
+| [ToBitmap](../../aspose.threed.render/itexture1d/tobitmap)() | Преобразование блока текстуры вBitmap instance |
 
 ### Смотрите также
 

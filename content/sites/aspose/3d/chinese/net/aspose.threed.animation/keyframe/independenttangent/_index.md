@@ -1,14 +1,14 @@
 ---
 title: IndependentTangent
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置切线的 out 和 next 是独立的
+description: 获取或设置切线的out和next是独立的
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.animation/keyframe/independenttangent/
 ---
 ## KeyFrame.IndependentTangent property
 
-获取或设置切线的 out 和 next 是独立的。
+获取或设置切线的out和next是独立的。
 
 ```csharp
 public bool IndependentTangent { get; set; }

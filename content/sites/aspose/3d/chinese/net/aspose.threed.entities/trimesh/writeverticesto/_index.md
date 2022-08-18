@@ -16,7 +16,7 @@ public void WriteVerticesTo(Stream stream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 顶点数据将被写入 |
+| stream | Stream | 顶点数据将被写入的流 |
 
 ### 也可以看看
 

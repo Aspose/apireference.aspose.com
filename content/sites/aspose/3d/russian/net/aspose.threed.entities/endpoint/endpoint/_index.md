@@ -1,14 +1,14 @@
 ---
 title: EndPoint
 second_title: Справочник по Aspose.3D для .NET API
-description: ПостроитьEndPointaspose.threed.entities/endpointиз декартовой точки.
+description: ПостроитьEndPointaspose.threed.entities/endpoint от декартовой точки.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/endpoint/endpoint/
 ---
 ## EndPoint(Vector3) {#constructor}
 
-Построить[`EndPoint`](../../endpoint)из декартовой точки.
+Построить[`EndPoint`](../../endpoint) от декартовой точки.
 
 ```csharp
 public EndPoint(Vector3 point)
@@ -16,7 +16,7 @@ public EndPoint(Vector3 point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| точка | Vector3 |  |
+| point | Vector3 |  |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public EndPoint(Vector3 point)
 
 ## EndPoint(double) {#constructor_1}
 
-Создать[`EndPoint`](../../endpoint)из реального параметра.
+Построить[`EndPoint`](../../endpoint) из реального параметра.
 
 ```csharp
 public EndPoint(double v)

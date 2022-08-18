@@ -1,14 +1,14 @@
 ---
 title: CanImport
 second_title: Aspose.3D for .NET API 参考
-description: 获取 Aspose.3D 是否支持从当前文件格式导入场景
+description: 获取Aspose.3D是否支持从当前文件格式导入场景
 type: docs
 weight: 450
 url: /zh/net/aspose.threed/fileformat/canimport/
 ---
 ## FileFormat.CanImport property
 
-获取 Aspose.3D 是否支持从当前文件格式导入场景。
+获取Aspose.3D是否支持从当前文件格式导入场景。
 
 ```csharp
 public bool CanImport { get; }

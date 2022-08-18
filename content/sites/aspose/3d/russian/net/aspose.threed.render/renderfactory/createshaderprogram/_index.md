@@ -1,14 +1,14 @@
 ---
 title: CreateShaderProgram
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать объектShaderProgramaspose.threed.render/shaderprogram
+description: СоздатьShaderProgramaspose.threed.render/shaderprogram объект
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.render/renderfactory/createshaderprogram/
 ---
 ## RenderFactory.CreateShaderProgram method
 
-Создать объект[`ShaderProgram`](../../shaderprogram)
+Создать[`ShaderProgram`](../../shaderprogram) объект
 
 ```csharp
 public abstract ShaderProgram CreateShaderProgram(ShaderSource shaderSource)

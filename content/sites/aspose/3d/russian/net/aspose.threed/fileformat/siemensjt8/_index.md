@@ -1,14 +1,14 @@
 ---
 title: SiemensJT8
 second_title: Справочник по Aspose.3D для .NET API
-description: Siemens JT File Version 8
+description: Версия файла Siemens JT 8
 type: docs
 weight: 290
 url: /ru/net/aspose.threed/fileformat/siemensjt8/
 ---
 ## FileFormat.SiemensJT8 field
 
-Siemens JT File Version 8
+Версия файла Siemens JT 8
 
 ```csharp
 public static readonly FileFormat SiemensJT8;

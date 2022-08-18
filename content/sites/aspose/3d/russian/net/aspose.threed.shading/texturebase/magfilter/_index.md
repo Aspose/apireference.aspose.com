@@ -1,14 +1,14 @@
 ---
 title: MagFilter
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает фильтр увеличения.
+description: Получает или задает фильтр для увеличения.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.shading/texturebase/magfilter/
 ---
 ## TextureBase.MagFilter property
 
-Получает или задает фильтр увеличения.
+Получает или задает фильтр для увеличения.
 
 ```csharp
 public TextureFilter MagFilter { get; set; }

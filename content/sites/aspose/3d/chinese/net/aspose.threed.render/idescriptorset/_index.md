@@ -3,7 +3,7 @@ title: IDescriptorSet
 second_title: Aspose.3D for .NET API 参考
 description: 描述符集描述了可用于绑定到渲染管道的不同资源如缓冲区纹理
 type: docs
-weight: 1840
+weight: 1850
 url: /zh/net/aspose.threed.render/idescriptorset/
 ---
 ## IDescriptorSet interface

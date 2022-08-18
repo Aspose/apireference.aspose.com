@@ -16,7 +16,7 @@ public Vector3 DiffuseColor { get; set; }
 
 ### 适当的价值
 
-漫反射。
+漫射。
 
 ### 也可以看看
 

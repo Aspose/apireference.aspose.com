@@ -1,14 +1,14 @@
 ---
 title: KeyframeSequence
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаKeyframeSequenceaspose.threed.animation/keyframesequence.
+description: Инициализирует новый экземплярKeyframeSequenceaspose.threed.animation/keyframesequence класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.animation/keyframesequence/keyframesequence/
 ---
 ## KeyframeSequence(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`KeyframeSequence`](../../keyframesequence).
+Инициализирует новый экземпляр[`KeyframeSequence`](../../keyframesequence) класс.
 
 ```csharp
 public KeyframeSequence(string name)
@@ -16,7 +16,7 @@ public KeyframeSequence(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public KeyframeSequence(string name)
 
 ## KeyframeSequence() {#constructor}
 
-Инициализирует новый экземпляр класса[`KeyframeSequence`](../../keyframesequence).
+Инициализирует новый экземпляр[`KeyframeSequence`](../../keyframesequence) класс.
 
 ```csharp
 public KeyframeSequence()

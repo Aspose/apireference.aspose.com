@@ -1,14 +1,14 @@
 ---
 title: CompareTo
 second_title: Справочник по Aspose.3D для .NET API
-description: Сравнивает этот экземпляр с указанным объектом и возвращает индикацию их относительных значений.
+description: Сравнивает этот экземпляр с указанным объектом и возвращает указание их относительных значений.
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.utilities/vertexdeclaration/compareto/
 ---
 ## VertexDeclaration.CompareTo method
 
-Сравнивает этот экземпляр с указанным объектом и возвращает индикацию их относительных значений.
+Сравнивает этот экземпляр с указанным объектом и возвращает указание их относительных значений.
 
 ```csharp
 public int CompareTo(VertexDeclaration other)

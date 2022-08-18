@@ -16,7 +16,7 @@ public IArrayList<int> Multiplicity { get; }
 
 ### 适当的价值
 
-多重性。
+多样性。
 
 ### 也可以看看
 

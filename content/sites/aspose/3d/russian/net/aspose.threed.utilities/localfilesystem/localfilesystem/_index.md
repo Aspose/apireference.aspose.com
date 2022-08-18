@@ -1,14 +1,14 @@
 ---
 title: LocalFileSystem
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализировать новуюLocalFileSystemaspose.threed.utilities/localfilesystemс указанным базовым каталогом.
+description: Инициализировать новыйLocalFileSystemaspose.threed.utilities/localfilesystem с указанным базовым каталогом.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/localfilesystem/localfilesystem/
 ---
 ## LocalFileSystem constructor
 
-Инициализировать новую[`LocalFileSystem`](../../localfilesystem)с указанным базовым каталогом.
+Инициализировать новый[`LocalFileSystem`](../../localfilesystem) с указанным базовым каталогом.
 
 ```csharp
 public LocalFileSystem(string directory)
@@ -16,7 +16,7 @@ public LocalFileSystem(string directory)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| каталог | String |  |
+| directory | String |  |
 
 ### Смотрите также
 

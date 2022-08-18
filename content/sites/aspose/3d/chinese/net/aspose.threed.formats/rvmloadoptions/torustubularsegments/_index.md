@@ -1,14 +1,14 @@
 ---
 title: TorusTubularSegments
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置圆环管段数默认值为20
+description: 获取或设置圆环管段数默认为20
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.formats/rvmloadoptions/torustubularsegments/
 ---
 ## RvmLoadOptions.TorusTubularSegments property
 
-获取或设置圆环管段数，默认值为20
+获取或设置圆环管段数，默认为20
 
 ```csharp
 public int TorusTubularSegments { get; set; }

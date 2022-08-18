@@ -1,14 +1,14 @@
 ---
 title: OutWeight
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置此关键帧的出右权重
+description: 获取或设置此关键帧的输出右权重
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.animation/keyframe/outweight/
 ---
 ## KeyFrame.OutWeight property
 
-获取或设置此关键帧的出（右）权重。
+获取或设置此关键帧的输出（右）权重。
 
 ```csharp
 public float OutWeight { get; set; }

@@ -3,7 +3,7 @@ title: RenderFactory
 second_title: Aspose.3D for .NET API 参考
 description: RenderFactory 创建渲染管道中表示的所有资源
 type: docs
-weight: 2030
+weight: 2040
 url: /zh/net/aspose.threed.render/renderfactory/
 ---
 ## RenderFactory class
@@ -20,16 +20,16 @@ public abstract class RenderFactory
 | --- | --- |
 | abstract [CreateCubeRenderTexture](../../aspose.threed.render/renderfactory/createcuberendertexture)(RenderParameters, int, int) | 创建一个包含 1 个立方体纹理的渲染目标 |
 | abstract [CreateDescriptorSet](../../aspose.threed.render/renderfactory/createdescriptorset)(ShaderProgram) | 为指定的着色器程序创建描述符集。 |
-| abstract [CreateIndexBuffer](../../aspose.threed.render/renderfactory/createindexbuffer)() | 创建一个[`IIndexBuffer`](../iindexbuffer)实例来存储多边形的人脸信息。 |
+| abstract [CreateIndexBuffer](../../aspose.threed.render/renderfactory/createindexbuffer)() | 创建一个[`IIndexBuffer`](../iindexbuffer)存储多边形人脸信息的实例。 |
 | abstract [CreatePipeline](../../aspose.threed.render/renderfactory/createpipeline)(ShaderProgram, RenderState, VertexDeclaration, DrawOperation) | 使用预配置的着色器/渲染状态/顶点声明和绘制操作创建预配置的图形管线。 |
-| abstract [CreateRenderTexture](../../aspose.threed.render/renderfactory/createrendertexture#createrendertexture)(RenderParameters, int, int) | 创建一个包含 1 个渲染到纹理的目标 |
+| abstract [CreateRenderTexture](../../aspose.threed.render/renderfactory/createrendertexture#createrendertexture)(RenderParameters, int, int) | 创建一个渲染目标，包含 1 个渲染到纹理的目标 |
 | abstract [CreateRenderTexture](../../aspose.threed.render/renderfactory/createrendertexture#createrendertexture_1)(RenderParameters, int, int, int) | 创建渲染到纹理的渲染目标 |
 | abstract [CreateRenderWindow](../../aspose.threed.render/renderfactory/createrenderwindow)(RenderParameters, WindowHandle) | 创建一个渲染到本机窗口的渲染目标。 |
-| abstract [CreateShaderProgram](../../aspose.threed.render/renderfactory/createshaderprogram)(ShaderSource) | 创建[`ShaderProgram`](../shaderprogram)对象 |
+| abstract [CreateShaderProgram](../../aspose.threed.render/renderfactory/createshaderprogram)(ShaderSource) | 创建一个[`ShaderProgram`](../shaderprogram) object |
 | [CreateTextureUnit](../../aspose.threed.render/renderfactory/createtextureunit#createtextureunit)() | 创建一个可以被着色器访问的 2D 纹理单元。 |
 | abstract [CreateTextureUnit](../../aspose.threed.render/renderfactory/createtextureunit#createtextureunit_1)(TextureType) | 创建一个可以被着色器访问的纹理单元。 |
 | abstract [CreateUniformBuffer](../../aspose.threed.render/renderfactory/createuniformbuffer)(int) | 在 GPU 端使用预先分配的大小创建一个新的统一缓冲区。 |
-| abstract [CreateVertexBuffer](../../aspose.threed.render/renderfactory/createvertexbuffer)(VertexDeclaration) | 创建一个[`IVertexBuffer`](../ivertexbuffer)实例来存储多边形的顶点信息。 |
+| abstract [CreateVertexBuffer](../../aspose.threed.render/renderfactory/createvertexbuffer)(VertexDeclaration) | 创建一个[`IVertexBuffer`](../ivertexbuffer)存储多边形顶点信息的实例。 |
 
 ### 也可以看看
 

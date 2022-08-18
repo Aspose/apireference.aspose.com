@@ -1,14 +1,14 @@
 ---
 title: WriteFile
 second_title: Справочник по Aspose.3D для .NET API
-description: Открыть файл для записи в этом классе не реализовано.
+description: Открыть файл для записи не реализовано в этом классе.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.utilities/ziparchivefilesystem/writefile/
 ---
 ## ZipArchiveFileSystem.WriteFile method
 
-Открыть файл для записи, в этом классе не реализовано.
+Открыть файл для записи, не реализовано в этом классе.
 
 ```csharp
 public override Stream WriteFile(string fileName, IOConfig options)

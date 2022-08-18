@@ -1,14 +1,14 @@
 ---
 title: AuxiliaryColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает вспомогательный цвет который будет использоваться при рендеринге трехмерного содержимого. Интерпретация этого цвета зависит отRenderModeaspose.threed.formats/pdfsaveoptions/rendermode
+description: Получает или задает вспомогательный цвет который будет использоваться при рендеринге 3D-контента. Интерпретация этого цвета зависит отRenderModeaspose.threed.formats/pdfsaveoptions/rendermode
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/pdfsaveoptions/auxiliarycolor/
 ---
 ## PdfSaveOptions.AuxiliaryColor property
 
-Получает или задает вспомогательный цвет, который будет использоваться при рендеринге трехмерного содержимого. Интерпретация этого цвета зависит от[`RenderMode`](../rendermode)
+Получает или задает вспомогательный цвет, который будет использоваться при рендеринге 3D-контента. Интерпретация этого цвета зависит от[`RenderMode`](../rendermode)
 
 ```csharp
 public Vector3 AuxiliaryColor { get; set; }

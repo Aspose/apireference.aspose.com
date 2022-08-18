@@ -1,14 +1,14 @@
 ---
 title: GenerateVertexElementMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает всегда ли генерироватьVertexElementMaterialaspose.threed.entities/vertexelementmaterialдля геометрий если присоединенный узел содержит материалы. По умолчанию это отключено.
+description: Получает или задает всегда ли генерироватьVertexElementMaterialaspose.threed.entities/vertexelementmaterial для геометрий если присоединенный узел содержит материалы. По умолчанию это отключено.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.formats/fbxsaveoptions/generatevertexelementmaterial/
 ---
 ## FbxSaveOptions.GenerateVertexElementMaterial property
 
-Получает или задает, всегда ли генерировать[`VertexElementMaterial`](../../../aspose.threed.entities/vertexelementmaterial)для геометрий, если присоединенный узел содержит материалы. По умолчанию это отключено.
+Получает или задает, всегда ли генерировать[`VertexElementMaterial`](../../../aspose.threed.entities/vertexelementmaterial) для геометрий, если присоединенный узел содержит материалы. По умолчанию это отключено.
 
 ```csharp
 public bool GenerateVertexElementMaterial { get; set; }

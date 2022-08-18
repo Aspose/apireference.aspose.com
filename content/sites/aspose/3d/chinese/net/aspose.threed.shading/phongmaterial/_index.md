@@ -3,7 +3,7 @@ title: PhongMaterial
 second_title: Aspose.3D for .NET API 参考
 description: blinn-phong 着色模型的材质
 type: docs
-weight: 2310
+weight: 2320
 url: /zh/net/aspose.threed.shading/phongmaterial/
 ---
 ## PhongMaterial class
@@ -18,38 +18,38 @@ public class PhongMaterial : LambertMaterial
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PhongMaterial](phongmaterial#constructor)() | 初始化[`PhongMaterial`](../phongmaterial)类的新实例。 |
-| [PhongMaterial](phongmaterial#constructor_1)(string) | 初始化[`PhongMaterial`](../phongmaterial)类的新实例。 |
+| [PhongMaterial](phongmaterial#constructor)() | 初始化[`PhongMaterial`](../phongmaterial)类. |
+| [PhongMaterial](phongmaterial#constructor_1)(string) | 初始化[`PhongMaterial`](../phongmaterial)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmbientColor](../../aspose.threed.shading/lambertmaterial/ambientcolor) { get; set; } | 获取或设置环境色 |
+| [AmbientColor](../../aspose.threed.shading/lambertmaterial/ambientcolor) { get; set; } | 获取或设置环境颜色 |
 | [DiffuseColor](../../aspose.threed.shading/lambertmaterial/diffusecolor) { get; set; } | 获取或设置漫反射颜色 |
-| [EmissiveColor](../../aspose.threed.shading/lambertmaterial/emissivecolor) { get; set; } | 获取或设置发光颜色 |
+| [EmissiveColor](../../aspose.threed.shading/lambertmaterial/emissivecolor) { get; set; } | 获取或设置自发光颜色 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [ReflectionColor](../../aspose.threed.shading/phongmaterial/reflectioncolor) { get; set; } | 获取或设置反射颜色。 |
 | [ReflectionFactor](../../aspose.threed.shading/phongmaterial/reflectionfactor) { get; set; } | 获取或设置反射颜色的衰减。 |
-| [Shininess](../../aspose.threed.shading/phongmaterial/shininess) { get; set; } | 获取或设置光泽度，它控制镜面高光的大小。 高光公式: SpecularColor * SpecularFactor * (N dot H) ^ Shininess |
+| [Shininess](../../aspose.threed.shading/phongmaterial/shininess) { get; set; } | 获取或设置光泽度，控制高光的大小。 高光的公式： SpecularColor * SpecularFactor * (N dot H) ^ Shininess |
 | [SpecularColor](../../aspose.threed.shading/phongmaterial/specularcolor) { get; set; } | 获取或设置镜面反射颜色。 |
-| [SpecularFactor](../../aspose.threed.shading/phongmaterial/specularfactor) { get; set; } | 获取或设置镜面反射因子。 高光公式: SpecularColor * SpecularFactor * (N dot H) ^ Shininess |
-| [Transparency](../../aspose.threed.shading/lambertmaterial/transparency) { get; set; } | 获取或设置透明度因子。 因子应介于 0（0%，完全不透明）和 1（100%，完全透明）之间 任何无效的因子值都将被限制。 |
+| [SpecularFactor](../../aspose.threed.shading/phongmaterial/specularfactor) { get; set; } | 获取或设置镜面反射因子。 高光的公式： SpecularColor * SpecularFactor * (N dot H) ^ Shininess |
+| [Transparency](../../aspose.threed.shading/lambertmaterial/transparency) { get; set; } | 获取或设置透明度因子。 因子应介于 0（0%，完全不透明）和 1（100%，完全透明）之间 |
 | [TransparentColor](../../aspose.threed.shading/lambertmaterial/transparentcolor) { get; set; } | 获取或设置透明色。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | 获取枚举器以枚举内部纹理槽。 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | 从指定槽获取纹理，可以是材质的属性名称或着色器的参数名称 |
+| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | 从指定槽获取纹理，可以是材质的属性名或shader的参数名 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
-| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | 将纹理设置到指定插槽 |
+| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | 将纹理设置为指定槽 |
 | override [ToString](../../aspose.threed.shading/material/tostring)() | 将对象格式化为字符串 |
 
 ### 也可以看看

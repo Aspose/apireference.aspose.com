@@ -1,14 +1,14 @@
 ---
 title: BoundingBox2D
 second_title: Справочник по Aspose.3D для .NET API
-description: Выровненная по оси ограничивающая рамка дляVector2./vector2
+description: Выровненная по оси ограничительная рамка дляVector2./vector2
 type: docs
-weight: 2440
+weight: 2430
 url: /ru/net/aspose.threed.utilities/boundingbox2d/
 ---
 ## BoundingBox2D structure
 
-Выровненная по оси ограничивающая рамка для[`Vector2`](../vector2)
+Выровненная по оси ограничительная рамка для[`Vector2`](../vector2)
 
 ```csharp
 public struct BoundingBox2D
@@ -18,7 +18,7 @@ public struct BoundingBox2D
 
 | Имя | Описание |
 | --- | --- |
-| [BoundingBox2D](boundingbox2d)(Vector2, Vector2) | Инициализировать конечный ограничивающий прямоугольник с заданным минимальным и максимальным углом |
+| [BoundingBox2D](boundingbox2d)(Vector2, Vector2) | Инициализировать конечную ограничивающую рамку с заданным минимальным и максимальным значением угла |
 
 ## Характеристики
 

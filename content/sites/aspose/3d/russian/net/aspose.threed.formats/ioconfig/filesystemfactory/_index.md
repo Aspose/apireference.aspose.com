@@ -1,14 +1,14 @@
 ---
 title: FileSystemFactory
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает класс фабрики для файловой системы. Фабрика по умолчанию создастLocalFileSystemaspose.threed.utilities/localfilesystem которая не подходит для серверной среды.
+description: Получает или задает класс фабрики для FileSystem. Фабрика по умолчанию создастLocalFileSystemaspose.threed.utilities/localfilesystem что не подходит для серверной среды.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.formats/ioconfig/filesystemfactory/
 ---
 ## IOConfig.FileSystemFactory property
 
-Получает или задает класс фабрики для файловой системы. Фабрика по умолчанию создаст[`LocalFileSystem`](../../../aspose.threed.utilities/localfilesystem), которая не подходит для серверной среды.
+Получает или задает класс фабрики для FileSystem. Фабрика по умолчанию создаст[`LocalFileSystem`](../../../aspose.threed.utilities/localfilesystem) что не подходит для серверной среды.
 
 ```csharp
 public static FileSystemFactory FileSystemFactory { get; set; }

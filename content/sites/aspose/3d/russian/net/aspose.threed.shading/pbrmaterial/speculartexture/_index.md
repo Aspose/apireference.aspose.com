@@ -1,14 +1,14 @@
 ---
 title: SpecularTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает текстуру для зеркального цвета
+description: Получает или задает текстуру для specular color
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.shading/pbrmaterial/speculartexture/
 ---
 ## PbrMaterial.SpecularTexture property
 
-Получает или устанавливает текстуру для зеркального цвета
+Получает или задает текстуру для specular color
 
 ```csharp
 public TextureBase SpecularTexture { get; set; }

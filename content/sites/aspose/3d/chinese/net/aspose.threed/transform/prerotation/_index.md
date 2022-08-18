@@ -1,14 +1,14 @@
 ---
 title: PreRotation
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置以度数表示的预旋转
+description: 获取或设置以 degree 表示的预旋转
 type: docs
 weight: 60
 url: /zh/net/aspose.threed/transform/prerotation/
 ---
 ## Transform.PreRotation property
 
-获取或设置以度数表示的预旋转
+获取或设置以 degree 表示的预旋转
 
 ```csharp
 public Vector3 PreRotation { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RenderFactory
 second_title: Aspose.3D for .NET API 参考
-description: 获取工厂以构建与渲染相关的对象
+description: 获取工厂来构建渲染相关的对象
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.render/renderer/renderfactory/
 ---
 ## Renderer.RenderFactory property
 
-获取工厂以构建与渲染相关的对象。
+获取工厂来构建渲染相关的对象。
 
 ```csharp
 public abstract RenderFactory RenderFactory { get; }

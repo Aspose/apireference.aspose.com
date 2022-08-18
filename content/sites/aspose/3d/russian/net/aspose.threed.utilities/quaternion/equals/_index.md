@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.3D для .NET API
-description: Проверить равенство двух кватернионов
+description: Проверить равны ли два кватерниона
 type: docs
 weight: 150
 url: /ru/net/aspose.threed.utilities/quaternion/equals/
 ---
 ## Quaternion.Equals method
 
-Проверить равенство двух кватернионов
+Проверить, равны ли два кватерниона
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Объект для проверки равенства . |
+| obj | Object | Объект для проверки равенства. |
 
 ### Возвращаемое значение
 
-Истинно, если все компоненты идентичны.
+Истинно, если все компоненты тождественно равны.
 
 ### Смотрите также
 

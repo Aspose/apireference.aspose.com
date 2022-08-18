@@ -1,14 +1,14 @@
 ---
 title: CreateShaderProgram
 second_title: Aspose.3D for .NET API 参考
-description: 创建ShaderProgramaspose.threed.render/shaderprogram对象
+description: 创建一个ShaderProgramaspose.threed.render/shaderprogram object
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.render/renderfactory/createshaderprogram/
 ---
 ## RenderFactory.CreateShaderProgram method
 
-创建[`ShaderProgram`](../../shaderprogram)对象
+创建一个[`ShaderProgram`](../../shaderprogram) object
 
 ```csharp
 public abstract ShaderProgram CreateShaderProgram(ShaderSource shaderSource)
@@ -16,7 +16,7 @@ public abstract ShaderProgram CreateShaderProgram(ShaderSource shaderSource)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| shaderSource | ShaderSource | 着色器源代码 |
+| shaderSource | ShaderSource | 着色器的源代码 |
 
 ### 也可以看看
 

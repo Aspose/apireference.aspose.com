@@ -1,14 +1,14 @@
 ---
 title: FileSystemFactory
 second_title: Справочник по Aspose.3D для .NET API
-description: SaveOptions./saveoptionsиLoadOptions./loadoptionsсоздастLocalFileSystem../aspose.threed.utilities/localfilesystemпо умолчанию. Это может быть проблемой безопасности в серверной среде. Используйте свой собственныйFileSystemFactory./filesystemfactoryдляFileSystemFactory./ioconfig/filesystemfactoryдля улучшения сервера боковая безопасность.
+description: SaveOptions./saveoptions а такжеLoadOptions./loadoptions создастLocalFileSystem../aspose.threed.utilities/localfilesystem по умолчанию. Это может быть проблемой безопасности в серверной среде. Используйте свой собственныйFileSystemFactory./filesystemfactory кFileSystemFactory./ioconfig/filesystemfactory для повышения безопасности на стороне сервера.
 type: docs
 weight: 1130
 url: /ru/net/aspose.threed.formats/filesystemfactory/
 ---
 ## FileSystemFactory delegate
 
-[`SaveOptions`](../saveoptions)и[`LoadOptions`](../loadoptions)создаст[`LocalFileSystem`](../../aspose.threed.utilities/localfilesystem)по умолчанию. Это может быть проблемой безопасности в серверной среде. Используйте свой собственный[`FileSystemFactory`](../filesystemfactory)для[`FileSystemFactory`](../ioconfig/filesystemfactory)для улучшения сервера боковая безопасность.
+[`SaveOptions`](../saveoptions) а также[`LoadOptions`](../loadoptions) создаст[`LocalFileSystem`](../../aspose.threed.utilities/localfilesystem) по умолчанию. Это может быть проблемой безопасности в серверной среде. Используйте свой собственный[`FileSystemFactory`](../filesystemfactory) к[`FileSystemFactory`](../ioconfig/filesystemfactory) для повышения безопасности на стороне сервера.
 
 ```csharp
 public delegate FileSystem FileSystemFactory();

@@ -1,14 +1,14 @@
 ---
 title: ParseException
 second_title: Aspose.3D for .NET API 参考
-description: 的构造函数 ParseExceptionaspose.threed.utilities/parseexception
+description: 的构造函数ParseExceptionaspose.threed.utilities/parseexception
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/parseexception/parseexception/
 ---
 ## ParseException constructor
 
-的构造函数 [`ParseException`](../../parseexception)
+的构造函数[`ParseException`](../../parseexception)
 
 ```csharp
 public ParseException(string msg)

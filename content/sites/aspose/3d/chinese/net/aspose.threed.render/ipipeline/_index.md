@@ -3,7 +3,7 @@ title: IPipeline
 second_title: Aspose.3D for .NET API 参考
 description: 在 GPU 端绘制的预烘焙操作序列
 type: docs
-weight: 1860
+weight: 1870
 url: /zh/net/aspose.threed.render/ipipeline/
 ---
 ## IPipeline interface

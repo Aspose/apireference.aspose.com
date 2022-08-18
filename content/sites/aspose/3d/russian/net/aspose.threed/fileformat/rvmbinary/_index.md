@@ -1,14 +1,14 @@
 ---
 title: RvmBinary
 second_title: Справочник по Aspose.3D для .NET API
-description: AVEVA Plant Design Management System Модель в двоичном формате
+description: Модель системы управления проектированием предприятия AVEVA в двоичном формате
 type: docs
 weight: 570
 url: /ru/net/aspose.threed/fileformat/rvmbinary/
 ---
 ## FileFormat.RvmBinary field
 
-AVEVA Plant Design Management System Модель в двоичном формате
+Модель системы управления проектированием предприятия AVEVA в двоичном формате
 
 ```csharp
 public static readonly RvmFormat RvmBinary;

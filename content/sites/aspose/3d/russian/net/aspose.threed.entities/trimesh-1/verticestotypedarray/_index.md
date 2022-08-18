@@ -1,14 +1,14 @@
 ---
 title: VerticesToTypedArray
 second_title: Справочник по Aspose.3D для .NET API
-description: Преобразование данных вершин в типизированный массив
+description: Преобразование данных вершин в типизированный массив array
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/trimesh-1/verticestotypedarray/
 ---
 ## TriMesh&lt;T&gt;.VerticesToTypedArray method
 
-Преобразование данных вершин в типизированный массив
+Преобразование данных вершин в типизированный массив array
 
 ```csharp
 public T[] VerticesToTypedArray()

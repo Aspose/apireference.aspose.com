@@ -1,14 +1,14 @@
 ---
 title: RenderQueueGroupId
 second_title: Aspose.3D for .NET API 参考
-description: 渲染队列的组 ID
+description: 渲染队列的组id
 type: docs
-weight: 2050
+weight: 2060
 url: /zh/net/aspose.threed.render/renderqueuegroupid/
 ---
 ## RenderQueueGroupId enumeration
 
-渲染队列的组 ID
+渲染队列的组id
 
 ```csharp
 public enum RenderQueueGroupId
@@ -18,12 +18,12 @@ public enum RenderQueueGroupId
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Background | `0` | 后台渲染队列 |
-| Skies | `1` | 天空渲染队列 |
+| Background | `0` | 背景的渲染队列 |
+| Skies | `1` | 天空的渲染队列 |
 | Geometries | `2` | 几何图形的渲染队列 |
-| Main | `3` | 主渲染队列 |
+| Main | `3` | main 的渲染队列 |
 | Opaque | `4` | 不透明对象的渲染队列 |
-| Overlay | `5` | 渲染队列 |
+| Overlay | `5` | 叠加层的渲染队列 |
 
 ### 也可以看看
 

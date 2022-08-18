@@ -1,14 +1,14 @@
 ---
 title: VerticesCount
 second_title: Aspose.3D for .NET API 参考
-description: 此TriMeshaspose.threed.entities/trimesh
+description: 此中的顶点数TriMeshaspose.threed.entities/trimesh
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.entities/trimesh/verticescount/
 ---
 ## TriMesh.VerticesCount property
 
-此[`TriMesh`](../../trimesh)
+此中的顶点数[`TriMesh`](../../trimesh)
 
 ```csharp
 public int VerticesCount { get; }

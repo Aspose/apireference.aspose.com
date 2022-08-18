@@ -1,14 +1,14 @@
 ---
 title: PositiveX
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для Xправого лица
+description: Получает или задает данные для XRight face
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.render/cubefacedata-1/positivex/
 ---
 ## CubeFaceData&lt;T&gt;.PositiveX property
 
-Получает или задает данные для +X(правого) лица
+Получает или задает данные для +X(Right) face
 
 ```csharp
 public T PositiveX { get; set; }

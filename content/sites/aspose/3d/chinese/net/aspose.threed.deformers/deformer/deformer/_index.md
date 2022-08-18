@@ -1,14 +1,14 @@
 ---
 title: Deformer
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Deformeraspose.threed.deformers/deformer类的新实例
+description: 初始化Deformeraspose.threed.deformers/deformer类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.deformers/deformer/deformer/
 ---
 ## Deformer constructor
 
-初始化[`Deformer`](../../deformer)类的新实例。
+初始化[`Deformer`](../../deformer)类.
 
 ```csharp
 public Deformer(string name)
@@ -16,7 +16,7 @@ public Deformer(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 
 ### 也可以看看
 

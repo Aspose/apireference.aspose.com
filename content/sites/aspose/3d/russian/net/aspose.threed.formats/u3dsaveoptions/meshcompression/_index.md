@@ -1,14 +1,14 @@
 ---
 title: MeshCompression
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает следует ли включить сжатие данных сетки.
+description: Получает или задает следует ли включить сжатие данных меша.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.formats/u3dsaveoptions/meshcompression/
 ---
 ## U3dSaveOptions.MeshCompression property
 
-Получает или задает, следует ли включить сжатие данных сетки.
+Получает или задает, следует ли включить сжатие данных меша.
 
 ```csharp
 public bool MeshCompression { get; set; }

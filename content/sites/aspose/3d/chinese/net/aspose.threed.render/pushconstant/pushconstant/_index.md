@@ -1,14 +1,14 @@
 ---
 title: PushConstant
 second_title: Aspose.3D for .NET API 参考
-description: PushConstantaspose.threed.render/pushconstant
+description: 的构造函数PushConstantaspose.threed.render/pushconstant
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/pushconstant/pushconstant/
 ---
 ## PushConstant constructor
 
-[`PushConstant`](../../pushconstant)
+的构造函数[`PushConstant`](../../pushconstant)
 
 ```csharp
 public PushConstant()

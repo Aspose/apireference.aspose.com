@@ -1,14 +1,14 @@
 ---
 title: SubAnimations
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает узлы суб-анимации текущей анимации
+description: Получает узлы суб-анимации в текущих анимациях
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.animation/animationnode/subanimations/
 ---
 ## AnimationNode.SubAnimations property
 
-Получает узлы суб-анимации текущей анимации
+Получает узлы суб-анимации в текущих анимациях
 
 ```csharp
 public IList<AnimationNode> SubAnimations { get; }

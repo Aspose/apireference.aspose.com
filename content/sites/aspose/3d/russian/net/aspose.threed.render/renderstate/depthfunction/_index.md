@@ -1,14 +1,14 @@
 ---
 title: DepthFunction
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает функцию сравнения используемую в глубинном тесте
+description: Получает или задает функцию сравнения используемую в глубине test
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.render/renderstate/depthfunction/
 ---
 ## RenderState.DepthFunction property
 
-Получает или задает функцию сравнения, используемую в глубинном тесте
+Получает или задает функцию сравнения, используемую в глубине test
 
 ```csharp
 public CompareFunction DepthFunction { get; set; }

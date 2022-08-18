@@ -1,14 +1,14 @@
 ---
 title: MakeDefaultIndices
 second_title: Справочник по Aspose.3D для .NET API
-description: Сгенерировать последовательность 0123....ControlPointsaspose.threed.entities/geometry/controlpoints.Length -1 наSegmentsaspose.threed.entities/line/segmentsчтобы контрольные точки можно было использовать как одну линию
+description: Генерировать последовательность 0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Длина-1 доSegmentsaspose.threed.entities/line/segments поэтому контрольные точки можно использовать как одну линию
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.entities/line/makedefaultindices/
 ---
 ## Line.MakeDefaultIndices method
 
-Сгенерировать последовательность 0,1,2,3....[`ControlPoints`](../../geometry/controlpoints).Length -1 на[`Segments`](../segments)чтобы контрольные точки можно было использовать как одну линию
+Генерировать последовательность 0,1,2,3....[`ControlPoints`](../../geometry/controlpoints) .Длина-1 до[`Segments`](../segments) поэтому контрольные точки можно использовать как одну линию
 
 ```csharp
 public void MakeDefaultIndices()

@@ -1,14 +1,14 @@
 ---
 title: TriMesh
 second_title: Aspose.3D for .NET API 参考
-description: 初始化TriMeshaspose.threed.entities/trimesh
+description: 初始化一个实例TriMeshaspose.threed.entities/trimesh
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/trimesh/trimesh/
 ---
 ## TriMesh constructor
 
-初始化[`TriMesh`](../../trimesh)
+初始化一个实例[`TriMesh`](../../trimesh)
 
 ```csharp
 public TriMesh(string name, VertexDeclaration declaration)
@@ -16,7 +16,7 @@ public TriMesh(string name, VertexDeclaration declaration)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name的实例 | String | 这个 TriMesh 的名称 |
+| name | String | 这个 TriMesh 的名称 |
 | declaration | VertexDeclaration | 顶点的声明 |
 
 ### 也可以看看

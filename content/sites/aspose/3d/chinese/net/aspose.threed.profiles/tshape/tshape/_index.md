@@ -1,14 +1,14 @@
 ---
 title: TShape
 second_title: Aspose.3D for .NET API 参考
-description: TShapeaspose.threed.profiles/tshape
+description: 的构造函数TShapeaspose.threed.profiles/tshape
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/tshape/tshape/
 ---
 ## TShape constructor
 
-[`TShape`](../../tshape)
+的构造函数[`TShape`](../../tshape)
 
 ```csharp
 public TShape()

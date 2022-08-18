@@ -1,14 +1,14 @@
 ---
 title: PostRotation
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает пост-поворот представленный в градусах
+description: Получает или задает поствращение представленное в градусах
 type: docs
 weight: 50
 url: /ru/net/aspose.threed/transform/postrotation/
 ---
 ## Transform.PostRotation property
 
-Получает или задает пост-поворот, представленный в градусах
+Получает или задает поствращение, представленное в градусах
 
 ```csharp
 public Vector3 PostRotation { get; set; }

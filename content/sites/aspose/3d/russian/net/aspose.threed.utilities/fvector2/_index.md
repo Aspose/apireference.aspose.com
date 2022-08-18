@@ -3,7 +3,7 @@ title: FVector2
 second_title: Справочник по Aspose.3D для .NET API
 description: Вектор с плавающей запятой с двумя компонентами.
 type: docs
-weight: 2490
+weight: 2480
 url: /ru/net/aspose.threed.utilities/fvector2/
 ---
 ## FVector2 structure
@@ -18,8 +18,8 @@ public struct FVector2
 
 | Имя | Описание |
 | --- | --- |
-| [FVector2](fvector2#constructor)(Vector2) | Инициализирует новый экземпляр[`FVector2`](../fvector2). |
-| [FVector2](fvector2#constructor_1)(float, float) | Инициализирует новый экземпляр[`FVector2`](../fvector2). |
+| [FVector2](fvector2#constructor)(Vector2) | Инициализирует новый экземпляр[`FVector2`](../fvector2) . |
+| [FVector2](fvector2#constructor_1)(float, float) | Инициализирует новый экземпляр[`FVector2`](../fvector2) . |
 
 ## Методы
 

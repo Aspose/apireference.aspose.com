@@ -1,14 +1,14 @@
 ---
 title: BonePoses
 second_title: Aspose.3D for .NET API 参考
-description: 获取所有BonePoseaspose.threed/bonepose
+description: 获取所有BonePoseaspose.threed/bonepose.
 type: docs
 weight: 20
 url: /zh/net/aspose.threed/pose/boneposes/
 ---
 ## Pose.BonePoses property
 
-获取所有[`BonePose`](../../bonepose)。
+获取所有[`BonePose`](../../bonepose).
 
 ```csharp
 public IList<BonePose> BonePoses { get; }

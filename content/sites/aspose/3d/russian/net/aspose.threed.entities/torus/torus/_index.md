@@ -1,14 +1,14 @@
 ---
 title: Torus
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаTorusaspose.threed.entities/torus.
+description: Инициализирует новый экземплярTorusaspose.threed.entities/torus класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/torus/torus/
 ---
 ## Torus() {#constructor}
 
-Инициализирует новый экземпляр класса[`Torus`](../../torus).
+Инициализирует новый экземпляр[`Torus`](../../torus) класс.
 
 ```csharp
 public Torus()
@@ -24,7 +24,7 @@ public Torus()
 
 ## Torus(double, double) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Torus`](../../torus).
+Инициализирует новый экземпляр[`Torus`](../../torus) класс.
 
 ```csharp
 public Torus(double radius, double tube)
@@ -45,7 +45,7 @@ public Torus(double radius, double tube)
 
 ## Torus(double, double, double) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Torus`](../../torus).
+Инициализирует новый экземпляр[`Torus`](../../torus) класс.
 
 ```csharp
 public Torus(double radius, double tube, double arc)
@@ -55,7 +55,7 @@ public Torus(double radius, double tube, double arc)
 | --- | --- | --- |
 | radius | Double | Радиус тора. |
 | tube | Double | Радиус трубки тора. |
-| дуга | Double | Дуга. |
+| arc | Double | Дуга. |
 
 ### Смотрите также
 
@@ -67,7 +67,7 @@ public Torus(double radius, double tube, double arc)
 
 ## Torus(string, double, double, int, int, double) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`Torus`](../../torus).
+Инициализирует новый экземпляр[`Torus`](../../torus) класс.
 
 ```csharp
 public Torus(string name, double radius, double tube, int radialSegments, int tubularSegments, 
@@ -81,7 +81,7 @@ public Torus(string name, double radius, double tube, int radialSegments, int tu
 | tube | Double | Радиус трубки тора. |
 | radialSegments | Int32 | Радиальные сегменты. |
 | tubularSegments | Int32 | Трубчатые сегменты. |
-| дуга | Double | Дуга. |
+| arc | Double | Дуга. |
 
 ### Смотрите также
 

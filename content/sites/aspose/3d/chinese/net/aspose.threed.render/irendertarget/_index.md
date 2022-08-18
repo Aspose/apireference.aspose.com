@@ -1,14 +1,14 @@
 ---
 title: IRenderTarget
 second_title: Aspose.3D for .NET API 参考
-description: 渲染目标的基本接口
+description: 渲染目标的基础接口
 type: docs
-weight: 1880
+weight: 1890
 url: /zh/net/aspose.threed.render/irendertarget/
 ---
 ## IRenderTarget interface
 
-渲染目标的基本接口
+渲染目标的基础接口
 
 ```csharp
 public interface IRenderTarget : IDisposable
@@ -25,7 +25,7 @@ public interface IRenderTarget : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreateViewport](../../aspose.threed.render/irendertarget/createviewport#createviewport)(Camera) | 在指定的摄像机透视图中创建视口。 |
+| [CreateViewport](../../aspose.threed.render/irendertarget/createviewport#createviewport)(Camera) | 在指定的相机透视图中创建视口。 |
 | [CreateViewport](../../aspose.threed.render/irendertarget/createviewport#createviewport_1)(Camera, RelativeRectangle) | 在指定的相机透视图中创建具有位置/大小的视口。 |
 | [CreateViewport](../../aspose.threed.render/irendertarget/createviewport#createviewport_2)(Camera, Color, RelativeRectangle) | 在指定的相机透视图中创建具有指定背景颜色和位置/大小的视口。 |
 

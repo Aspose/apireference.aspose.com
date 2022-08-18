@@ -1,14 +1,14 @@
 ---
 title: ReadVector3
 second_title: Справочник по Aspose.3D для .NET API
-description: Читать поле vector3
+description: Прочитать поле vector3
 type: docs
 weight: 220
 url: /ru/net/aspose.threed.entities/trimesh/readvector3/
 ---
 ## TriMesh.ReadVector3 method
 
-Читать поле vector3
+Прочитать поле vector3
 
 ```csharp
 public Vector3 ReadVector3(int idx, VertexField field)

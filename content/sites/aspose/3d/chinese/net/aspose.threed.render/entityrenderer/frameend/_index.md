@@ -1,14 +1,14 @@
 ---
 title: FrameEnd
 second_title: Aspose.3D for .NET API 参考
-description: 结束渲染一帧
+description: 结束渲染帧
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.render/entityrenderer/frameend/
 ---
 ## EntityRenderer.FrameEnd method
 
-结束渲染一帧
+结束渲染帧
 
 ```csharp
 public virtual void FrameEnd(Renderer renderer, IRenderQueue renderQueue)

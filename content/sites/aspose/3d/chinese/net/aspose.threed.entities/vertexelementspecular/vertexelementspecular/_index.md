@@ -1,14 +1,14 @@
 ---
 title: VertexElementSpecular
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementSpecularaspose.threed.entities/vertexelementspecular类的新实例
+description: 初始化VertexElementSpecularaspose.threed.entities/vertexelementspecular类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementspecular/vertexelementspecular/
 ---
 ## VertexElementSpecular constructor
 
-初始化[`VertexElementSpecular`](../../vertexelementspecular)类的新实例。
+初始化[`VertexElementSpecular`](../../vertexelementspecular)类.
 
 ```csharp
 public VertexElementSpecular()

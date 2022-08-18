@@ -1,14 +1,14 @@
 ---
 title: ShowGrid
 second_title: Aspose.3D for .NET API 参考
-description: 在场景中显示一个网格 默认值为真
+description: 在场景中显示一个网格 默认值为true
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.formats/html5saveoptions/showgrid/
 ---
 ## Html5SaveOptions.ShowGrid property
 
-在场景中显示一个网格。 默认值为真。
+在场景中显示一个网格。 默认值为true。
 
 ```csharp
 public bool ShowGrid { get; set; }

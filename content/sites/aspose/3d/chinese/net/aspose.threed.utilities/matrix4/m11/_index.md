@@ -1,14 +1,14 @@
 ---
 title: m11
 second_title: Aspose.3D for .NET API 参考
-description: m11
+description: m11.
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.utilities/matrix4/m11/
 ---
 ## Matrix4.m11 field
 
-m11。
+m11.
 
 ```csharp
 public double m11;

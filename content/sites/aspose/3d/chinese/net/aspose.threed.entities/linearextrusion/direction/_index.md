@@ -1,14 +1,14 @@
 ---
 title: Direction
 second_title: Aspose.3D for .NET API 参考
-description: 挤压方向默认值为 0 0 1
+description: 挤压方向默认值为0 0 1
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.entities/linearextrusion/direction/
 ---
 ## LinearExtrusion.Direction property
 
-挤压方向，默认值为 (0, 0, 1)
+挤压方向，默认值为(0, 0, 1)
 
 ```csharp
 public Vector3 Direction { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ShadowCaster
 second_title: Aspose.3D for .NET API 参考
-description: 阴影投射在世界坐标系中的位置
+description: 阴影投射器在世界坐标系中的位置
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.render/renderervariablemanager/shadowcaster/
 ---
 ## RendererVariableManager.ShadowCaster property
 
-阴影投射在世界坐标系中的位置
+阴影投射器在世界坐标系中的位置
 
 ```csharp
 public FVector3 ShadowCaster { get; set; }

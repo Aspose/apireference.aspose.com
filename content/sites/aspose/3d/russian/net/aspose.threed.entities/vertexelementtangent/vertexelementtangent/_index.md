@@ -1,14 +1,14 @@
 ---
 title: VertexElementTangent
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementTangentaspose.threed.entities/vertexelementtangent.
+description: Инициализирует новый экземплярVertexElementTangentaspose.threed.entities/vertexelementtangent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementtangent/vertexelementtangent/
 ---
 ## VertexElementTangent constructor
 
-Инициализирует новый экземпляр класса[`VertexElementTangent`](../../vertexelementtangent).
+Инициализирует новый экземпляр[`VertexElementTangent`](../../vertexelementtangent) класс.
 
 ```csharp
 public VertexElementTangent()

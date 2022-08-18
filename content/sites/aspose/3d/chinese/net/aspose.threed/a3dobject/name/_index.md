@@ -16,7 +16,7 @@ public virtual string Name { get; set; }
 
 ### 适当的价值
 
-名称。
+名字。
 
 ### 也可以看看
 

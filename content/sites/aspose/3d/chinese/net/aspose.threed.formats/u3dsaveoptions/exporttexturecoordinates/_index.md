@@ -8,7 +8,7 @@ url: /zh/net/aspose.threed.formats/u3dsaveoptions/exporttexturecoordinates/
 ---
 ## U3dSaveOptions.ExportTextureCoordinates property
 
-获取或设置是否导出纹理坐标。
+获取或设置是否导出纹理坐标
 
 ```csharp
 public bool ExportTextureCoordinates { get; set; }

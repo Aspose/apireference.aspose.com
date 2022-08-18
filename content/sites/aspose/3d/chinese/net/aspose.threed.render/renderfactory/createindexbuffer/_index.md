@@ -1,14 +1,14 @@
 ---
 title: CreateIndexBuffer
 second_title: Aspose.3D for .NET API 参考
-description: 创建一个IIndexBufferaspose.threed.render/iindexbuffer实例来存储多边形的人脸信息
+description: 创建一个IIndexBufferaspose.threed.render/iindexbuffer存储多边形人脸信息的实例
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.render/renderfactory/createindexbuffer/
 ---
 ## RenderFactory.CreateIndexBuffer method
 
-创建一个[`IIndexBuffer`](../../iindexbuffer)实例来存储多边形的人脸信息。
+创建一个[`IIndexBuffer`](../../iindexbuffer)存储多边形人脸信息的实例。
 
 ```csharp
 public abstract IIndexBuffer CreateIndexBuffer()

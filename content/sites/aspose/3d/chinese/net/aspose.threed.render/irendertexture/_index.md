@@ -3,7 +3,7 @@ title: IRenderTexture
 second_title: Aspose.3D for .NET API 参考
 description: 渲染纹理接口
 type: docs
-weight: 1890
+weight: 1900
 url: /zh/net/aspose.threed.render/irendertexture/
 ---
 ## IRenderTexture interface
@@ -18,7 +18,7 @@ public interface IRenderTexture : IRenderTarget
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DepthTexture](../../aspose.threed.render/irendertexture/depthtexture) { get; } | 深度缓冲纹理 |
+| [DepthTexture](../../aspose.threed.render/irendertexture/depthtexture) { get; } | 深度缓冲区纹理 |
 | [Targets](../../aspose.threed.render/irendertexture/targets) { get; } | 颜色输出目标。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: EmissiveColor
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置发光颜色
+description: 获取或设置自发光颜色
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.shading/pbrmaterial/emissivecolor/
 ---
 ## PbrMaterial.EmissiveColor property
 
-获取或设置发光颜色
+获取或设置自发光颜色
 
 ```csharp
 public Vector3 EmissiveColor { get; set; }

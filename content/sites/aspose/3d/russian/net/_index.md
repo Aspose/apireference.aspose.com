@@ -17,7 +17,7 @@ is_root: true
 | [Aspose.ThreeD.Entities](./aspose.threed.entities) | Вся геометрия и объекты определены в этом пространстве имен |
 | [Aspose.ThreeD.Formats](./aspose.threed.formats) | В этом пространстве имен определены настройки, связанные с вводом-выводом. |
 | [Aspose.ThreeD.Profiles](./aspose.threed.profiles) | Все классы 2D-профилей определены в этом пространстве имен. |
-| [Aspose.ThreeD.Render](./aspose.threed.render) | Все классы, связанные с рендерингом, определены в этом пространстве имен |
+| [Aspose.ThreeD.Render](./aspose.threed.render) | Все классы, связанные с визуализацией, определены в этом пространстве имен |
 | [Aspose.ThreeD.Shading](./aspose.threed.shading) | Все классы, связанные с затенением, определены в этом пространстве имен. |
 | [Aspose.ThreeD.Utilities](./aspose.threed.utilities) | Все служебные классы определены в этом пространстве имен. |
 

@@ -1,14 +1,14 @@
 ---
 title: RectangularTorus
 second_title: Aspose.3D for .NET API 参考
-description: RectangularTorusaspose.threed.entities/rectangulartorus
+description: 的构造函数RectangularTorusaspose.threed.entities/rectangulartorus
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/rectangulartorus/rectangulartorus/
 ---
 ## RectangularTorus() {#constructor}
 
-[`RectangularTorus`](../../rectangulartorus)
+的构造函数[`RectangularTorus`](../../rectangulartorus)
 
 ```csharp
 public RectangularTorus()
@@ -24,7 +24,7 @@ public RectangularTorus()
 
 ## RectangularTorus(string) {#constructor_1}
 
-[`RectangularTorus`](../../rectangulartorus)
+的构造函数[`RectangularTorus`](../../rectangulartorus)
 
 ```csharp
 public RectangularTorus(string name)

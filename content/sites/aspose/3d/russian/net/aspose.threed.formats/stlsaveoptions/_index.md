@@ -1,14 +1,14 @@
 ---
 title: StlSaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Параметры сохранения для STL
+description: Сохранить параметры для STL
 type: docs
 weight: 1360
 url: /ru/net/aspose.threed.formats/stlsaveoptions/
 ---
 ## StlSaveOptions class
 
-Параметры сохранения для STL
+Сохранить параметры для STL
 
 ```csharp
 public class StlSaveOptions : SaveOptions
@@ -18,8 +18,8 @@ public class StlSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [StlSaveOptions](stlsaveoptions#constructor)() | Инициализирует новый экземпляр[`StlSaveOptions`](../stlsaveoptions). |
-| [StlSaveOptions](stlsaveoptions#constructor_1)(FileContentType) | Инициализирует новый экземпляр[`StlSaveOptions`](../stlsaveoptions). |
+| [StlSaveOptions](stlsaveoptions#constructor)() | Инициализирует новый[`StlSaveOptions`](../stlsaveoptions) экземпляр. |
+| [StlSaveOptions](stlsaveoptions#constructor_1)(FileContentType) | Инициализирует новый[`StlSaveOptions`](../stlsaveoptions) экземпляр. |
 
 ## Характеристики
 
@@ -29,7 +29,7 @@ public class StlSaveOptions : SaveOptions
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [FlipCoordinateSystem](../../aspose.threed.formats/stlsaveoptions/flipcoordinatesystem) { get; set; } | Получает или задает, переворачивать ли систему координат контрольных точек/нормаль при экспорте. |
+| [FlipCoordinateSystem](../../aspose.threed.formats/stlsaveoptions/flipcoordinatesystem) { get; set; } | Получает или задает, следует ли переворачивать систему координат контрольных точек/нормалей при экспорте. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
 
 ### Смотрите также

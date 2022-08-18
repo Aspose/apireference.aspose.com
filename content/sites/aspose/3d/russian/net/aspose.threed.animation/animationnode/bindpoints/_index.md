@@ -1,14 +1,14 @@
 ---
 title: BindPoints
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает текущие точки привязки свойств
+description: Получает текущие точки привязки свойства
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.animation/animationnode/bindpoints/
 ---
 ## AnimationNode.BindPoints property
 
-Получает текущие точки привязки свойств
+Получает текущие точки привязки свойства
 
 ```csharp
 public IList<BindPoint> BindPoints { get; }

@@ -16,7 +16,7 @@ public void AddElement(VertexElement element)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | VertexElement | Вершина элемент для добавления |
+| element | VertexElement | Добавляемый вершинный элемент |
 
 ### Смотрите также
 

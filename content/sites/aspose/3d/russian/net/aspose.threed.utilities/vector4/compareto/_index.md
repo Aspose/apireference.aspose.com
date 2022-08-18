@@ -16,7 +16,7 @@ public int CompareTo(Vector4 other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| другое | Vector4 |  |
+| other | Vector4 |  |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Box
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Boxaspose.threed.entities/box类的新实例
+description: 初始化Boxaspose.threed.entities/box类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/box/box/
 ---
 ## Box() {#constructor}
 
-初始化[`Box`](../../box)类的新实例。
+初始化[`Box`](../../box)类.
 
 ```csharp
 public Box()
@@ -24,7 +24,7 @@ public Box()
 
 ## Box(double, double, double) {#constructor_1}
 
-初始化[`Box`](../../box)类的新实例。
+初始化[`Box`](../../box)类.
 
 ```csharp
 public Box(double length, double width, double height)
@@ -33,7 +33,7 @@ public Box(double length, double width, double height)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | length | Double | 在 z 轴上对齐的框的长度。 |
-| width | Double | x 轴对齐的框的宽度。 |
+| width | Double | 在 x 轴上对齐的框的宽度。 |
 | height | Double | 在 y 轴上对齐的框的高度。 |
 
 ### 也可以看看
@@ -46,7 +46,7 @@ public Box(double length, double width, double height)
 
 ## Box(string, double, double, double, int, int, int) {#constructor_2}
 
-初始化[`Box`](../../box)类的新实例。
+初始化[`Box`](../../box)类.
 
 ```csharp
 public Box(string name, double length, double width, double height, int lengthSegments, 
@@ -57,7 +57,7 @@ public Box(string name, double length, double width, double height, int lengthSe
 | --- | --- | --- |
 | name | String | 盒子的名称。 |
 | length | Double | 在 z 轴上对齐的框的长度。 |
-| width | Double | x 轴对齐的框的宽度。 |
+| width | Double | 在 x 轴上对齐的框的宽度。 |
 | height | Double | 在 y 轴上对齐的框的高度。 |
 | lengthSegments | Int32 | 长度段。 |
 | widthSegments | Int32 | 宽度段。 |

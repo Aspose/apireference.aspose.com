@@ -1,14 +1,14 @@
 ---
 title: Skeleton
 second_title: Справочник по Aspose.3D для .NET API
-description: Skeleton./skeletonв основном используется программным обеспечением САПР чтобы помочь дизайнеру манипулировать преобразованием скелетной структуры обычно это бесполезно вне программного обеспечения САПР. Чтобы иерархия скелета действовала как один объект в САПР необходимо пометить верхний узелSkeleton./skeletonкак корневой установивType./skeleton/typetoSkeleton и все дочерние элементы установить вBone
+description: Skeleton./skeletonв основном используется программным обеспечением САПР чтобы помочь дизайнеру манипулировать преобразованием структуры скелета обычно это бесполезно вне программного обеспечения САПР. Чтобы иерархия скелета действовала как один объект в программном обеспечении САПР необходимо отметить верхнюю частьSkeleton./skeleton узел как корневой установивType./skeleton/type кSkeleton  и все дочерние элементы установлены наBone
 type: docs
 weight: 650
 url: /ru/net/aspose.threed.entities/skeleton/
 ---
 ## Skeleton class
 
-[`Skeleton`](../skeleton)в основном используется программным обеспечением САПР, чтобы помочь дизайнеру манипулировать преобразованием скелетной структуры, обычно это бесполезно вне программного обеспечения САПР. Чтобы иерархия скелета действовала как один объект в САПР, необходимо пометить верхний узел[`Skeleton`](../skeleton)как корневой, установив[`Type`](./type)toSkeleton, и все дочерние элементы установить вBone
+[`Skeleton`](../skeleton)в основном используется программным обеспечением САПР, чтобы помочь дизайнеру манипулировать преобразованием структуры скелета, обычно это бесполезно вне программного обеспечения САПР. Чтобы иерархия скелета действовала как один объект в программном обеспечении САПР, необходимо отметить верхнюю часть[`Skeleton`](../skeleton) узел как корневой, установив[`Type`](./type) кSkeleton , и все дочерние элементы установлены наBone
 
 ```csharp
 public class Skeleton : Entity
@@ -18,8 +18,8 @@ public class Skeleton : Entity
 
 | Имя | Описание |
 | --- | --- |
-| [Skeleton](skeleton#constructor)() | Инициализирует новый экземпляр класса[`Skeleton`](../skeleton). |
-| [Skeleton](skeleton#constructor_1)(string) | Инициализирует новый экземпляр класса[`Skeleton`](../skeleton). |
+| [Skeleton](skeleton#constructor)() | Инициализирует новый экземпляр[`Skeleton`](../skeleton) класс. |
+| [Skeleton](skeleton#constructor_1)(string) | Инициализирует новый экземпляр[`Skeleton`](../skeleton) класс. |
 
 ## Характеристики
 
@@ -27,8 +27,8 @@ public class Skeleton : Entity
 | --- | --- |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 | [Size](../../aspose.threed.entities/skeleton/size) { get; set; } | Получает или задает размер узла конечности, который используется в программном обеспечении САПР для представления размера кости. |
@@ -40,10 +40,10 @@ public class Skeleton : Entity
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

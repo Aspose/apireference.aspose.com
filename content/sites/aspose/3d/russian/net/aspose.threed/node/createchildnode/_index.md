@@ -36,7 +36,7 @@ public Node CreateChildNode(string nodeName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| nodeName | String | имя нового дочернего узла |
+| nodeName | String | Имя нового дочернего узла |
 
 ### Возвращаемое значение
 
@@ -52,7 +52,7 @@ public Node CreateChildNode(string nodeName)
 
 ## CreateChildNode(Entity) {#createchildnode_1}
 
-Создать новый дочерний узел с присоединенной сущностью
+Создать новый дочерний узел с прикрепленным данным объектом
 
 ```csharp
 public Node CreateChildNode(Entity entity)
@@ -60,7 +60,7 @@ public Node CreateChildNode(Entity entity)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entity | Entity | По умолчанию объект, прикрепленный к узлу |
+| entity | Entity | Сущность по умолчанию, прикрепленная к узлу |
 
 ### Возвращаемое значение
 
@@ -85,8 +85,8 @@ public Node CreateChildNode(string nodeName, Entity entity)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| nodeName | String | имя нового дочернего узла |
-| entity | Entity | Объект по умолчанию, присоединенный к узлу |
+| nodeName | String | Имя нового дочернего узла |
+| entity | Entity | Сущность по умолчанию, прикрепленная к узлу |
 
 ### Возвращаемое значение
 

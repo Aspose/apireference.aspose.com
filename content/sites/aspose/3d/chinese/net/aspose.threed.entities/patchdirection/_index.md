@@ -1,14 +1,14 @@
 ---
 title: PatchDirection
 second_title: Aspose.3D for .NET API 参考
-description: 补丁的 U 和 V 方向
+description: 面片的 U 和 V 方向
 type: docs
 weight: 510
 url: /zh/net/aspose.threed.entities/patchdirection/
 ---
 ## PatchDirection class
 
-补丁的 U 和 V 方向。
+面片的 U 和 V 方向。
 
 ```csharp
 public class PatchDirection
@@ -24,8 +24,8 @@ public class PatchDirection
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Closed](../../aspose.threed.entities/patchdirection/closed) { get; set; } | 获取或设置一个值，该值指示此[`PatchDirection`](../patchdirection)是否为闭合曲线。 |
-| [ControlPoints](../../aspose.threed.entities/patchdirection/controlpoints) { get; set; } | 获取或设置当前方向的控制点数。 |
+| [Closed](../../aspose.threed.entities/patchdirection/closed) { get; set; } | 获取或设置一个值，该值指示是否[`PatchDirection`](../patchdirection)是一条闭合曲线。 |
+| [ControlPoints](../../aspose.threed.entities/patchdirection/controlpoints) { get; set; } | 获取或设置当前方向控制点的个数。 |
 | [Divisions](../../aspose.threed.entities/patchdirection/divisions) { get; set; } | 获取或设置相邻控制点之间的分割数。 |
 | [Type](../../aspose.threed.entities/patchdirection/type) { get; set; } | 获取或设置补丁的类型。 |
 

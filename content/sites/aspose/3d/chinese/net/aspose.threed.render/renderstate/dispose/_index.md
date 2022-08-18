@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.3D for .NET API 参考
-description: 处理RenderStateaspose.threed.render/renderstate并释放所有内部资源
+description: 处置RenderStateaspose.threed.render/renderstate并释放所有内部资源
 type: docs
 weight: 210
 url: /zh/net/aspose.threed.render/renderstate/dispose/
 ---
 ## RenderState.Dispose method
 
-处理[`RenderState`](../../renderstate)并释放所有内部资源。
+处置[`RenderState`](../../renderstate)并释放所有内部资源。
 
 ```csharp
 public void Dispose()

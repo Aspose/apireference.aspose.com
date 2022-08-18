@@ -3,7 +3,7 @@ title: SPIRVSource
 second_title: Aspose.3D for .NET API 参考
 description: SPIR-V 格式的编译着色器
 type: docs
-weight: 2110
+weight: 2120
 url: /zh/net/aspose.threed.render/spirvsource/
 ---
 ## SPIRVSource class
@@ -28,7 +28,7 @@ public sealed class SPIRVSource : ShaderSource
 | [FragmentShader](../../aspose.threed.render/spirvsource/fragmentshader) { get; set; } | 获取或设置片段着色器的源代码。 |
 | [GeometryShader](../../aspose.threed.render/spirvsource/geometryshader) { get; set; } | 获取或设置几何着色器的源代码。 |
 | [MaximumDescriptorSets](../../aspose.threed.render/spirvsource/maximumdescriptorsets) { get; set; } | 最大描述符集，默认值为 10 |
-| [VertexShader](../../aspose.threed.render/spirvsource/vertexshader) { get; set; } | 获取或设置顶点着色器源代码 |
+| [VertexShader](../../aspose.threed.render/spirvsource/vertexshader) { get; set; } | 获取或设置顶点着色器的源代码 |
 
 ### 也可以看看
 

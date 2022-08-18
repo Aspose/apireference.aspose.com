@@ -1,14 +1,14 @@
 ---
 title: Flat
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置关键帧是否平坦 如果下一个或上一个关键帧具有相同的值则关键帧应该是平坦的 平面关键帧具有平面切线和固定插值
+description: 如果关键帧是平坦的则获取或设置 如果下一个或上一个关键帧具有相同的值则关键帧应该是平坦的 平坦的关键帧具有平坦的切线和固定的插值
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.animation/keyframe/flat/
 ---
 ## KeyFrame.Flat property
 
-获取或设置关键帧是否平坦。 如果下一个或上一个关键帧具有相同的值，则关键帧应该是平坦的。 平面关键帧具有平面切线和固定插值。
+如果关键帧是平坦的，则获取或设置。 如果下一个或上一个关键帧具有相同的值，则关键帧应该是平坦的。 平坦的关键帧具有平坦的切线和固定的插值。
 
 ```csharp
 public bool Flat { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает и задает шаблон выборки экстраполяции
+description: Получает и задает шаблон выборки для extrapolation
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.animation/extrapolation/type/
 ---
 ## Extrapolation.Type property
 
-Получает и задает шаблон выборки экстраполяции
+Получает и задает шаблон выборки для extrapolation
 
 ```csharp
 public ExtrapolationType Type { get; set; }

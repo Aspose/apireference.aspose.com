@@ -1,14 +1,14 @@
 ---
 title: FileFormatType
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает тип формата файла
+description: Получает формат файла type
 type: docs
 weight: 490
 url: /ru/net/aspose.threed/fileformat/fileformattype/
 ---
 ## FileFormat.FileFormatType property
 
-Получает тип формата файла
+Получает формат файла type
 
 ```csharp
 public FileFormatType FileFormatType { get; }

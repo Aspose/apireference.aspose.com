@@ -18,36 +18,36 @@ public sealed class FileFormatType
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.threed/fileformattype/tostring)() | Получить имя этого типа формата файла |
+| override [ToString](../../aspose.threed/fileformattype/tostring)() | Получить имя этого формата файла type |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| static readonly [AMF](../../aspose.threed/fileformattype/amf) | Формат файла для аддитивного производства |
-| static readonly [ASE](../../aspose.threed/fileformattype/ase) | Формат ASCII Scene Exporter 3D Studio Max. |
-| static readonly [Aspose3DWeb](../../aspose.threed/fileformattype/aspose3dweb) | Веб-формат Aspose.3D. |
+| static readonly [AMF](../../aspose.threed/fileformattype/amf) | Формат файла аддитивного производства |
+| static readonly [ASE](../../aspose.threed/fileformattype/ase) | Формат экспортера сцен ASCII 3D Studio Max. |
+| static readonly [Aspose3DWeb](../../aspose.threed/fileformattype/aspose3dweb) | Aspose.3D веб-формат. |
 | static readonly [COLLADA](../../aspose.threed/fileformattype/collada) | Формат файла Collada от Khronos Group. |
 | static readonly [Discreet3DS](../../aspose.threed/fileformattype/discreet3ds) | Формат файла Discreet 3D Studio |
-| static readonly [Draco](../../aspose.threed/fileformattype/draco) | Google Draco Mesh |
+| static readonly [Draco](../../aspose.threed/fileformattype/draco) | Сетка Google Драко |
 | static readonly [DXF](../../aspose.threed/fileformattype/dxf) | AutoCAD DXF |
-| static readonly [FBX](../../aspose.threed/fileformattype/fbx) | Тип формата файла FBX |
-| static readonly [GLTF](../../aspose.threed/fileformattype/gltf) | glTF Khronos Group |
+| static readonly [FBX](../../aspose.threed/fileformattype/fbx) | Формат файла FBX type |
+| static readonly [GLTF](../../aspose.threed/fileformattype/gltf) | glTF группы Khronos |
 | static readonly [HTML5](../../aspose.threed/fileformattype/html5) | Файл HTML5 |
 | static readonly [Microsoft3MF](../../aspose.threed/fileformattype/microsoft3mf) | Формат производства 3D |
 | static readonly [Pcd](../../aspose.threed/fileformattype/pcd) | Данные облака точек, используемые библиотекой облаков точек |
-| static readonly [PDF](../../aspose.threed/fileformattype/pdf) | Portable Document Format |
+| static readonly [PDF](../../aspose.threed/fileformattype/pdf) | Формат переносимых документов |
 | static readonly [PLY](../../aspose.threed/fileformattype/ply) | Формат файла многоугольника или формат Стэнфордского треугольника |
-| static readonly [Rvm](../../aspose.threed/fileformattype/rvm) | Модель системы управления проектированием предприятий AVEVA. |
-| static readonly [SiemensJT](../../aspose.threed/fileformattype/siemensjt) | Файл JT Siemens PLM Software NX |
-| static readonly [STL](../../aspose.threed/fileformattype/stl) | Тип формата файла STL |
-| static readonly [Universal3D](../../aspose.threed/fileformattype/universal3d) | Универсальный формат файла 3D |
+| static readonly [Rvm](../../aspose.threed/fileformattype/rvm) | Модель системы управления проектированием предприятия AVEVA. |
+| static readonly [SiemensJT](../../aspose.threed/fileformattype/siemensjt) | Файл JT от Siemens PLM Software NX |
+| static readonly [STL](../../aspose.threed/fileformattype/stl) | Формат файла STL type |
+| static readonly [Universal3D](../../aspose.threed/fileformattype/universal3d) | Универсальный формат файла 3D type |
 | static readonly [USD](../../aspose.threed/fileformattype/usd) | Описание универсальной сцены |
 | static readonly [VRML](../../aspose.threed/fileformattype/vrml) | Язык моделирования виртуальной реальности |
 | static readonly [WavefrontOBJ](../../aspose.threed/fileformattype/wavefrontobj) | Тип формата Wavefront OBJ |
 | static readonly [X](../../aspose.threed/fileformattype/x) | X-файл DirectX |
 | static readonly [Xyz](../../aspose.threed/fileformattype/xyz) | Файл облака точек Xyz |
-| static readonly [Zip](../../aspose.threed/fileformattype/zip) | Zip-архив, содержащий другие форматы 3D-файлов. |
+| static readonly [Zip](../../aspose.threed/fileformattype/zip) | Zip-архив, содержащий 3D-файлы другого формата. |
 
 ### Смотрите также
 

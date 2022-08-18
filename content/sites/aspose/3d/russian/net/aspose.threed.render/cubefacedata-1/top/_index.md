@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для грани YTop
+description: Получает или задает данные для YTop face
 type: docs
 weight: 130
 url: /ru/net/aspose.threed.render/cubefacedata-1/top/
 ---
 ## CubeFaceData&lt;T&gt;.Top property
 
-Получает или задает данные для грани +Y(Top)
+Получает или задает данные для +Y(Top) face
 
 ```csharp
 public T Top { get; set; }

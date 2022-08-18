@@ -1,14 +1,14 @@
 ---
 title: PolygonBuilder
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаPolygonBuilderaspose.threed.entities/polygonbuilder.
+description: Инициализирует новый экземплярPolygonBuilderaspose.threed.entities/polygonbuilder класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/polygonbuilder/polygonbuilder/
 ---
 ## PolygonBuilder constructor
 
-Инициализирует новый экземпляр класса[`PolygonBuilder`](../../polygonbuilder).
+Инициализирует новый экземпляр[`PolygonBuilder`](../../polygonbuilder) класс.
 
 ```csharp
 public PolygonBuilder(Mesh mesh)

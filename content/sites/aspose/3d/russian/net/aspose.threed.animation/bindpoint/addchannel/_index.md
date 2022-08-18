@@ -31,7 +31,7 @@ public bool AddChannel(string name, object value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя. |
-| значение | Object | Значение. |
+| value | Object | Ценность. |
 
 ### Возвращаемое значение
 
@@ -56,8 +56,8 @@ public bool AddChannel(string name, Type type, object value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя. |
-| тип | Type | Тип. |
-| значение | Object | Значение. |
+| type | Type | Тип. |
+| value | Object | Ценность. |
 
 ### Возвращаемое значение
 

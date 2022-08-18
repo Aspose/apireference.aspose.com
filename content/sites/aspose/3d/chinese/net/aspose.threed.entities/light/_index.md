@@ -10,7 +10,7 @@ url: /zh/net/aspose.threed.entities/light/
 
 灯光照亮场景。
 
-光的总衰减计算公式为: ` A = ConstantAttenuation + (Dist * LinearAttenuation) + ((Dist^2) * QuadraticAttenuation)`
+计算光总衰减的公式为： `A = ConstantAttenuation + (Dist * LinearAttenuation) + ((Dist^2) * QuadraticAttenuation)`
 
 ```csharp
 public class Light : Frustum
@@ -20,9 +20,9 @@ public class Light : Frustum
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Light](light#constructor)() | 初始化[`Light`](../light)类的新实例。 |
-| [Light](light#constructor_1)(string) | 初始化[`Light`](../light)类的新实例。 |
-| [Light](light#constructor_2)(string, LightType) | 初始化[`Light`](../light)类的新实例。 |
+| [Light](light#constructor)() | 初始化[`Light`](../light)类. |
+| [Light](light#constructor_1)(string) | 初始化[`Light`](../light)类. |
+| [Light](light#constructor_2)(string, LightType) | 初始化[`Light`](../light)类. |
 
 ## 特性
 
@@ -31,40 +31,40 @@ public class Light : Frustum
 | [Aspect](../../aspose.threed.entities/frustum/aspect) { get; set; } | 获取或设置截锥体的纵横比 |
 | [CastLight](../../aspose.threed.entities/light/castlight) { get; set; } | 获取或设置当前灯光实例是否可以照亮其他对象。 |
 | [CastShadows](../../aspose.threed.entities/light/castshadows) { get; set; } | 获取或设置灯光是否可以在其他对象上投射阴影。 |
-| [Color](../../aspose.threed.entities/light/color) { get; set; } | 获取或设置灯光颜色 |
-| [ConstantAttenuation](../../aspose.threed.entities/light/constantattenuation) { get; set; } | 获取或设置恒定衰减以计算光的总衰减 |
-| [Direction](../../aspose.threed.entities/frustum/direction) { get; set; } | 获取或设置相机正在看的方向。 此属性的更改也会影响[`LookAt`](../frustum/lookat)和Frustum。目标。 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [Color](../../aspose.threed.entities/light/color) { get; set; } | 获取或设置灯光的颜色 |
+| [ConstantAttenuation](../../aspose.threed.entities/light/constantattenuation) { get; set; } | 获取或设置常量衰减，计算灯光的总衰减 |
+| [Direction](../../aspose.threed.entities/frustum/direction) { get; set; } | 获取或设置相机正在看的方向。 对此属性的更改也会影响[`LookAt`](../frustum/lookat)和[`Target`](../frustum/target). |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | [Falloff](../../aspose.threed.entities/light/falloff) { get; set; } | 获取或设置衰减锥角（以度为单位）。 |
 | [FarPlane](../../aspose.threed.entities/frustum/farplane) { get; set; } | 获取或设置截锥体的远平面距离。 |
-| [HotSpot](../../aspose.threed.entities/light/hotspot) { get; set; } | 获取或设置热点锥角（以度为单位）。 |
-| [Intensity](../../aspose.threed.entities/light/intensity) { get; set; } | 获取或设置光照强度，默认值为 100 |
-| [LightType](../../aspose.threed.entities/light/lighttype) { get; set; } | 获取或设置灯光类型 |
-| [LinearAttenuation](../../aspose.threed.entities/light/linearattenuation) { get; set; } | 获取或设置线性衰减以计算光的总衰减 |
-| [LookAt](../../aspose.threed.entities/frustum/lookat) { get; set; } | 获取或设置相机正在查看的感兴趣位置。 |
+| [HotSpot](../../aspose.threed.entities/light/hotspot) { get; set; } | 获取或设置热点锥角（度）。 |
+| [Intensity](../../aspose.threed.entities/light/intensity) { get; set; } | 获取或设置灯光强度，默认值为100 |
+| [LightType](../../aspose.threed.entities/light/lighttype) { get; set; } | 获取或设置灯光的类型 |
+| [LinearAttenuation](../../aspose.threed.entities/light/linearattenuation) { get; set; } | 获取或设置线性衰减，计算灯光的总衰减 |
+| [LookAt](../../aspose.threed.entities/frustum/lookat) { get; set; } | 获取或设置相机正在看的感兴趣的位置。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [NearPlane](../../aspose.threed.entities/frustum/nearplane) { get; set; } | 获取或设置截锥体的近平面距离。 |
-| [OrthoHeight](../../aspose.threed.entities/frustum/orthoheight) { get; set; } | 获取或设置正投影中截头体时的高度。 |
+| [OrthoHeight](../../aspose.threed.entities/frustum/orthoheight) { get; set; } | 获取或设置截头在正交投影中的高度。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
 | [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | 获取所有父节点，一个实体可以附加到多个父节点进行几何实例化 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
-| [QuadraticAttenuation](../../aspose.threed.entities/light/quadraticattenuation) { get; set; } | 获取或设置二次衰减以计算光的总衰减 |
-| [RotationMode](../../aspose.threed.entities/frustum/rotationmode) { get; set; } | 获取或设置截锥体的方向模式 该属性仅在Frustum时有效。目标为空。 如果值为FixedTarget，则方向始终由属性LookAt 否则[`LookAt`](../frustum/lookat)总是由Direction |
+| [QuadraticAttenuation](../../aspose.threed.entities/light/quadraticattenuation) { get; set; } | 获取或设置二次衰减，计算灯光的总衰减 |
+| [RotationMode](../../aspose.threed.entities/frustum/rotationmode) { get; set; } | 获取或设置截锥体的方向模式 该属性仅在[`Target`](../frustum/target)为空。 如果值为FixedTarget 方向总是由属性计算[`LookAt`](../frustum/lookat) 否则[`LookAt`](../frustum/lookat)总是由[`Direction`](../frustum/direction) |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | 获取该对象所属的场景 |
 | [ShadowColor](../../aspose.threed.entities/light/shadowcolor) { get; set; } | 获取或设置阴影的颜色。 |
-| [Target](../../aspose.threed.entities/frustum/target) { get; set; } | 获取或设置相机正在查看的目标。 如果用户支持这个属性，它应该在[`LookAt`](../frustum/lookat)属性之前。 |
+| [Target](../../aspose.threed.entities/frustum/target) { get; set; } | 获取或设置摄像头正在看的目标。 如果用户支持这个属性，应该在[`LookAt`](../frustum/lookat)属性. |
 | [Up](../../aspose.threed.entities/frustum/up) { get; set; } | 获取或设置相机的向上方向 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: FromGeometry
 second_title: Aspose.3D for .NET API 参考
-description: 从几何对象创建新的 PointCloud 实例
+description: 从几何对象创建一个新的 PointCloud 实例
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/pointcloud/fromgeometry/
 ---
 ## FromGeometry(Geometry) {#fromgeometry}
 
-从几何对象创建新的 PointCloud 实例
+从几何对象创建一个新的 PointCloud 实例
 
 ```csharp
 public static PointCloud FromGeometry(Geometry g)
@@ -38,7 +38,7 @@ public static PointCloud FromGeometry(Geometry g, int density)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | g | Geometry | 网格或其他几何实例 |
-| density | Int32 | 每单位三角形的点数 |
+| density | Int32 | 每个单位三角形的点数 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Library
 second_title: Aspose.3D for .NET API 参考
-description: 场景层次结构中不直接使用的对象可以在库中定义 这在您使用子场景并将可重用组件放在子场景下时很有用
+description: 场景层次结构中不直接使用的对象可以在库中定义 当您使用子场景并将可重用组件放在子场景下时这很有用
 type: docs
 weight: 70
 url: /zh/net/aspose.threed/scene/library/
 ---
 ## Scene.Library property
 
-场景层次结构中不直接使用的对象可以在库中定义。 这在您使用子场景并将可重用组件放在子场景下时很有用。
+场景层次结构中不直接使用的对象可以在库中定义。 当您使用子场景并将可重用组件放在子场景下时，这很有用。
 
 ```csharp
 public IList<A3DObject> Library { get; }

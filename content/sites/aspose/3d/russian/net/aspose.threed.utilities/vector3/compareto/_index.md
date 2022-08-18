@@ -16,7 +16,7 @@ public int CompareTo(Vector3 other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| другое | Vector3 |  |
+| other | Vector3 |  |
 
 ### Смотрите также
 

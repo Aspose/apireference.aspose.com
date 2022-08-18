@@ -1,14 +1,14 @@
 ---
 title: ColorBits
 second_title: Справочник по Aspose.3D для .NET API
-description: Биты квантования для цвета вершины значение по умолчанию 10
+description: Биты квантования для цвета вершин значение по умолчанию 10
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/dracosaveoptions/colorbits/
 ---
 ## DracoSaveOptions.ColorBits property
 
-Биты квантования для цвета вершины, значение по умолчанию 10
+Биты квантования для цвета вершин, значение по умолчанию 10
 
 ```csharp
 public int ColorBits { get; set; }

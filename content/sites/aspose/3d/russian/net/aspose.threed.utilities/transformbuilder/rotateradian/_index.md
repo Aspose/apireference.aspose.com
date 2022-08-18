@@ -17,7 +17,7 @@ public TransformBuilder RotateRadian(double angle, Vector3 axis)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | angle | Double | Угол поворота в радианах |
-| axis | Vector3 | Ось вращения |
+| axis | Vector3 | Ось для вращения |
 
 ### Смотрите также
 

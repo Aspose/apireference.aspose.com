@@ -24,7 +24,7 @@ public Pyramid()
 
 ## Pyramid(double, double, double) {#constructor_1}
 
-构造具有指定底部区域的新金字塔实例
+构造一个具有指定底部区域的新金字塔实例
 
 ```csharp
 public Pyramid(double xbottom, double ybottom, double height)
@@ -32,8 +32,8 @@ public Pyramid(double xbottom, double ybottom, double height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| xbottom | Double | 底部x方向长度 |
-| ybottom | Double | 底部y方向长度 |
+| xbottom | Double | 底部的x方向长度 |
+| ybottom | Double | 底部的y方向长度 |
 | height | Double | 金字塔的高度 |
 
 ### 也可以看看
@@ -78,8 +78,8 @@ public Pyramid(string name, double xbottom, double ybottom, double xtop, double 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 金字塔名称 |
-| xbottom | Double | x - 底部区域的方向长度 |
+| name | String | 金字塔的名字 |
+| xbottom | Double | 底部区域的x方向长度 |
 | ybottom | Double | 底部区域的y方向长度 |
 | xtop | Double | 顶部区域的x方向长度 |
 | ytop | Double | 顶部区域的y方向长度 |

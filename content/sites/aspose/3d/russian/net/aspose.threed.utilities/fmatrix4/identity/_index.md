@@ -1,14 +1,14 @@
 ---
 title: Identity
 second_title: Справочник по Aspose.3D для .NET API
-description: Единичная матрица
+description: Матрица идентичности
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/fmatrix4/identity/
 ---
 ## FMatrix4.Identity field
 
-Единичная матрица
+Матрица идентичности
 
 ```csharp
 public static readonly FMatrix4 Identity;

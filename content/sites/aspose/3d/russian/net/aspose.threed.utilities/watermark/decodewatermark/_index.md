@@ -1,14 +1,14 @@
 ---
 title: DecodeWatermark
 second_title: Справочник по Aspose.3D для .NET API
-description: Декодировать водяной знак из меша
+description: Декодировать водяной знак из сетки
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/watermark/decodewatermark/
 ---
 ## Watermark.DecodeWatermark method
 
-Декодировать водяной знак из меша
+Декодировать водяной знак из сетки
 
 ```csharp
 public static string DecodeWatermark(Mesh input, string password)
@@ -16,14 +16,14 @@ public static string DecodeWatermark(Mesh input, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Mesh | Извлекаемый меш водяной знак |
-| пароль | String | Пароль для расшифровки водяного знака |
+| input | Mesh | Сетка для извлечения водяного знака |
+| password | String | Пароль для расшифровки водяного знака |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| UnauthorizedAccessException | Сетка защищен паролем, и указанный пароль неверен. |
+| UnauthorizedAccessException | Сетка защищена паролем, и указанный пароль неверен. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Line
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаLineaspose.threed.entities/line.
+description: Инициализирует новый экземплярLineaspose.threed.entities/line класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/line/line/
 ---
 ## Line() {#constructor}
 
-Инициализирует новый экземпляр класса[`Line`](../../line).
+Инициализирует новый экземпляр[`Line`](../../line) класс.
 
 ```csharp
 public Line()
@@ -24,7 +24,7 @@ public Line()
 
 ## Line(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Line`](../../line).
+Инициализирует новый экземпляр[`Line`](../../line) класс.
 
 ```csharp
 public Line(string name)

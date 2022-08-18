@@ -1,14 +1,14 @@
 ---
 title: Sealed
 second_title: Справочник по Aspose.3D для .NET API
-description: AVertexDeclarationaspose.threed.utilities/vertexdeclarationбудет запечатан когда его используетTriMeshaspose.threed.entities/trimesh-1илиTriMeshaspose.threed.entities/trimesh дальнейшие модификации не допускаются.
+description: АVertexDeclarationaspose.threed.utilities/vertexdeclaration будет запечатан когда он будет использоватьсяTriMeshaspose.threed.entities/trimesh-1 или жеTriMeshaspose.threed.entities/trimesh  дальнейшие модификации не допускаются.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.utilities/vertexdeclaration/sealed/
 ---
 ## VertexDeclaration.Sealed property
 
-A[`VertexDeclaration`](../../vertexdeclaration)будет запечатан, когда его использует[`TriMesh`](../../../aspose.threed.entities/trimesh-1)или[`TriMesh`](../../../aspose.threed.entities/trimesh), дальнейшие модификации не допускаются.
+А[`VertexDeclaration`](../../vertexdeclaration) будет запечатан, когда он будет использоваться[`TriMesh`](../../../aspose.threed.entities/trimesh-1) или же[`TriMesh`](../../../aspose.threed.entities/trimesh) , дальнейшие модификации не допускаются.
 
 ```csharp
 public bool Sealed { get; }
