@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Справочник по Aspose.3D для .NET API
-description: Перегрузка оператора для -
+description: Перегрузка оператора для 
 type: docs
 weight: 290
 url: /ru/net/aspose.threed.utilities/vector3/op_subtraction/

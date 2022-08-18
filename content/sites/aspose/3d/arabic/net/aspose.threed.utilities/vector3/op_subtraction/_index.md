@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Aspose.3D لمرجع .NET API
-description: التحميل الزائد على المشغل مقابل -
+description: التحميل الزائد على المشغل مقابل 
 type: docs
 weight: 290
 url: /ar/net/aspose.threed.utilities/vector3/op_subtraction/

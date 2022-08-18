@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Surcharge de lopérateur pour - moins
+description: Surcharge de lopérateur pour  moins
 type: docs
 weight: 140
 url: /fr/net/aspose.threed.utilities/vector4/op_subtraction/

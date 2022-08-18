@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Aspose.3D für .NET-API-Referenz
-description: Operatorüberladung für - minus
+description: Operatorüberladung für  minus
 type: docs
 weight: 140
 url: /de/net/aspose.threed.utilities/vector4/op_subtraction/

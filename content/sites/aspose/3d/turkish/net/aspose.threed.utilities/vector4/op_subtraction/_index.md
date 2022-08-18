@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Aspose.3D for .NET API Referansı
-description: - eksi için operatör aşırı yüklemesi
+description:  eksi için operatör aşırı yüklemesi
 type: docs
 weight: 140
 url: /tr/net/aspose.threed.utilities/vector4/op_subtraction/
