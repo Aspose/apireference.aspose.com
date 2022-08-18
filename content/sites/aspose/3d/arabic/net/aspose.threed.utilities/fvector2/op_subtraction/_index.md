@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Aspose.3D لمرجع .NET API
-description: - الحمولة الزائدة للمشغل
+description:  الحمولة الزائدة للمشغل
 type: docs
 weight: 100
 url: /ar/net/aspose.threed.utilities/fvector2/op_subtraction/

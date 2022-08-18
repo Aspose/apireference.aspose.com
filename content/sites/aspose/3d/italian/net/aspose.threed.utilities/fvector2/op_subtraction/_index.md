@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Riferimento API Aspose.3D per .NET
-description: - Sovraccarico operatore
+description:  Sovraccarico operatore
 type: docs
 weight: 100
 url: /it/net/aspose.threed.utilities/fvector2/op_subtraction/

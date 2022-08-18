@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Aspose.3D für .NET-API-Referenz
-description: - Operatorüberladung
+description:  Operatorüberladung
 type: docs
 weight: 130
 url: /de/net/aspose.threed.utilities/fvector3/op_subtraction/

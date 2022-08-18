@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Aspose.3D för .NET API-referens
-description: - Operatör överbelastning
+description: Operatör överbelastning
 type: docs
 weight: 100
 url: /sv/net/aspose.threed.utilities/fvector2/op_subtraction/

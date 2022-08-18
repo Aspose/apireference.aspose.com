@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Referencia de API de Aspose.3D para .NET
-description: - Sobrecarga del operador
+description:  Sobrecarga del operador
 type: docs
 weight: 100
 url: /es/net/aspose.threed.utilities/fvector2/op_subtraction/
