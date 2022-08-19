@@ -1,14 +1,14 @@
 ---
 title: Images
 second_title: Aspose.OMR for .NET API Reference
-description: Gets or sets the list of Write-in fild Images
+description: Gets or sets the list of Write-in Images
 type: docs
 weight: 20
 url: /net/aspose.omr.model/recognitionresult/images/
 ---
 ## RecognitionResult.Images property
 
-Gets or sets the list of Write-in fild Images
+Gets or sets the list of Write-in Images
 
 ```csharp
 public List<Bitmap> Images { get; set; }
