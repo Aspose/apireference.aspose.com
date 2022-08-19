@@ -1,7 +1,7 @@
 ---
 title: ZOrder
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Z-Reihenfolge des Ansichtsfensters ab oder legt sie fest.
+description: Ruft die ZReihenfolge des Ansichtsfensters ab oder legt sie fest.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.render/viewport/zorder/

@@ -1,7 +1,7 @@
 ---
 title: PostBehavior
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft das Post-Verhalten ab das anzeigt was der abgetastete Wert nach dem letzten Keyframe sein sollte.
+description: Ruft das PostVerhalten ab das anzeigt was der abgetastete Wert nach dem letzten Keyframe sein sollte.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.animation/keyframesequence/postbehavior/

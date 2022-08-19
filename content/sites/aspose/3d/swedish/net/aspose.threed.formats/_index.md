@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Formats
 second_title: Aspose.3D för .NET API-referens
-description: IO-relaterade anpassningar definieras i detta namnutrymme.
+description: IOrelaterade anpassningar definieras i detta namnutrymme.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.formats/

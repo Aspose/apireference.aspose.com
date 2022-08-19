@@ -1,7 +1,7 @@
 ---
 title: BottomFlangeThickness
 second_title: Riferimento API Aspose.3D per .NET
-description: Ottiene o imposta lo spessore della flangia di H-shape.
+description: Ottiene o imposta lo spessore della flangia di Hshape.
 type: docs
 weight: 40
 url: /it/net/aspose.threed.profiles/hshape/bottomflangethickness/

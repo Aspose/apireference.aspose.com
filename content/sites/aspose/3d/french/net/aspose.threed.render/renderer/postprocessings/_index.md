@@ -1,7 +1,7 @@
 ---
 title: PostProcessings
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Chaîne de post-traitement active
+description: Chaîne de posttraitement active
 type: docs
 weight: 80
 url: /fr/net/aspose.threed.render/renderer/postprocessings/

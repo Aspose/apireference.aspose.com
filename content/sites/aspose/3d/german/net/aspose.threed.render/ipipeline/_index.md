@@ -1,7 +1,7 @@
 ---
 title: IPipeline
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die vorgebackene Abfolge von Vorgängen zum Zeichnen auf der GPU-Seite.
+description: Die vorgebackene Abfolge von Vorgängen zum Zeichnen auf der GPUSeite.
 type: docs
 weight: 1870
 url: /de/net/aspose.threed.render/ipipeline/

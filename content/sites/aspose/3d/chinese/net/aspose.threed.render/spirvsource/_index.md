@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Aspose.3D for .NET API 参考
-description: SPIR-V 格式的编译着色器
+description: SPIRV 格式的编译着色器
 type: docs
 weight: 2120
 url: /zh/net/aspose.threed.render/spirvsource/

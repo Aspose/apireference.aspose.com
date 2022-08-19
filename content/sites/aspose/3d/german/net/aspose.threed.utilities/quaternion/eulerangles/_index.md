@@ -1,7 +1,7 @@
 ---
 title: EulerAngles
 second_title: Aspose.3D für .NET-API-Referenz
-description: Wandelt Quaternion in Drehung um dargestellt durch Euler-Winkel Alle Komponenten sind im Bogenmaß
+description: Wandelt Quaternion in Drehung um dargestellt durch EulerWinkel Alle Komponenten sind im Bogenmaß
 type: docs
 weight: 160
 url: /de/net/aspose.threed.utilities/quaternion/eulerangles/

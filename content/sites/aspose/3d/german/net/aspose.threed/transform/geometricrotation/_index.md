@@ -1,7 +1,7 @@
 ---
 title: GeometricRotation
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt die geometrische Euler-Rotation gemessen in Grad. Die geometrische Transformation wirkt sich nur auf die angehängten Elemente aus und lässt die untergeordneten Knoten unberührt. Sie wird als lokale Transformation zusammengeführt wenn Sie die geometrische Transformation in Dateitypen exportieren die dies nicht unterstützen.
+description: Holt oder setzt die geometrische EulerRotation gemessen in Grad. Die geometrische Transformation wirkt sich nur auf die angehängten Elemente aus und lässt die untergeordneten Knoten unberührt. Sie wird als lokale Transformation zusammengeführt wenn Sie die geometrische Transformation in Dateitypen exportieren die dies nicht unterstützen.
 type: docs
 weight: 20
 url: /de/net/aspose.threed/transform/geometricrotation/

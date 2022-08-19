@@ -1,7 +1,7 @@
 ---
 title: WavefrontOBJ
 second_title: Aspose.3D für .NET-API-Referenz
-description: Wavefront OBJ-Formattyp
+description: Wavefront OBJFormattyp
 type: docs
 weight: 210
 url: /de/net/aspose.threed/fileformattype/wavefrontobj/

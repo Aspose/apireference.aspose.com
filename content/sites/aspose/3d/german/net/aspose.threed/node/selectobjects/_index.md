@@ -1,7 +1,7 @@
 ---
 title: SelectObjects
 second_title: Aspose.3D für .NET-API-Referenz
-description: Wählen Sie mehrere Objekte unter dem aktuellen Knoten mit XPath-ähnlicher Abfragesyntax aus.
+description: Wählen Sie mehrere Objekte unter dem aktuellen Knoten mit XPathähnlicher Abfragesyntax aus.
 type: docs
 weight: 230
 url: /de/net/aspose.threed/node/selectobjects/

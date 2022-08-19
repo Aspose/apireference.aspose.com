@@ -1,7 +1,7 @@
 ---
 title: SetRotation
 second_title: Aspose.3D für .NET-API-Referenz
-description: Legt die Drehung als Quaternion-Komponenten der aktuellen Transformation fest.
+description: Legt die Drehung als QuaternionKomponenten der aktuellen Transformation fest.
 type: docs
 weight: 170
 url: /de/net/aspose.threed/transform/setrotation/

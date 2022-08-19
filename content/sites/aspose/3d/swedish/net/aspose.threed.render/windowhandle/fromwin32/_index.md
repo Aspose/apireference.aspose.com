@@ -1,7 +1,7 @@
 ---
 title: FromWin32
 second_title: Aspose.3D för .NET API-referens
-description: Den ursprungliga HWND-instansen i Windows-miljö.
+description: Den ursprungliga HWNDinstansen i Windowsmiljö.
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.render/windowhandle/fromwin32/

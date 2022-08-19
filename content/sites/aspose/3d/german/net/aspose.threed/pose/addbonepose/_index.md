@@ -1,7 +1,7 @@
 ---
 title: AddBonePose
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speichert die Posentransformationsmatrix für den angegebenen Bone-Knoten.
+description: Speichert die Posentransformationsmatrix für den angegebenen BoneKnoten.
 type: docs
 weight: 40
 url: /de/net/aspose.threed/pose/addbonepose/

@@ -1,7 +1,7 @@
 ---
 title: Bone
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Un os définit le sous-ensemble du point de contrôle de la géométrie et définit le poids de fusion pour chaque point de contrôle. LeBone./bone objet ne peut pas être utilisé directement unSkinDeformer./skindeformer instance est utilisée pour déformer la géométrie etSkinDeformer./skindeformerest livré avec un ensemble de bones chaque bone étant lié à un nœud. NOTE  Un point de contrôle dune géométrie peut être lié à plus dun Bones.
+description: Un os définit le sousensemble du point de contrôle de la géométrie et définit le poids de fusion pour chaque point de contrôle. LeBone./bone objet ne peut pas être utilisé directement unSkinDeformer./skindeformer instance est utilisée pour déformer la géométrie etSkinDeformer./skindeformerest livré avec un ensemble de bones chaque bone étant lié à un nœud. NOTE  Un point de contrôle dune géométrie peut être lié à plus dun Bones.
 type: docs
 weight: 180
 url: /fr/net/aspose.threed.deformers/bone/

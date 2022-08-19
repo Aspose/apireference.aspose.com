@@ -1,7 +1,7 @@
 ---
 title: BackgroundColor
 second_title: Aspose.3D für .NET-API-Referenz
-description: Hintergrundfarbe der 3D-Ansicht in PDF-Datei.
+description: Hintergrundfarbe der 3DAnsicht in PDFDatei.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.formats/pdfsaveoptions/backgroundcolor/

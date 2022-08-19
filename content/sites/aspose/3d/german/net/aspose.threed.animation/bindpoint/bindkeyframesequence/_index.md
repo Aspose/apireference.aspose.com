@@ -1,7 +1,7 @@
 ---
 title: BindKeyframeSequence
 second_title: Aspose.3D für .NET-API-Referenz
-description: Binden Sie die Keyframe-Sequenz an den angegebenen Kanal
+description: Binden Sie die KeyframeSequenz an den angegebenen Kanal
 type: docs
 weight: 60
 url: /de/net/aspose.threed.animation/bindpoint/bindkeyframesequence/

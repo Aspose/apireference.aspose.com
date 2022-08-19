@@ -1,7 +1,7 @@
 ---
 title: FrontFace
 second_title: Aspose.3D für .NET-API-Referenz
-description: Vorder- und Rückseitenpolygone definieren
+description: Vorder und Rückseitenpolygone definieren
 type: docs
 weight: 1810
 url: /de/net/aspose.threed.render/frontface/

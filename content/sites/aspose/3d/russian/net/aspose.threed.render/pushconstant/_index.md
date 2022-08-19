@@ -1,7 +1,7 @@
 ---
 title: PushConstant
 second_title: Справочник по Aspose.3D для .NET API
-description: Утилита для предоставления данных шейдеру через push-константу.
+description: Утилита для предоставления данных шейдеру через pushконстанту.
 type: docs
 weight: 2030
 url: /ru/net/aspose.threed.render/pushconstant/

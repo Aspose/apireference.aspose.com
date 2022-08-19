@@ -1,7 +1,7 @@
 ---
 title: FaceColor
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die beim Rendern des 3D-Inhalts zu verwendende Gesichtsfarbe ab oder legt sie fest. Dies ist nur relevant wenn dieRenderModeaspose.threed.formats/pdfsaveoptions/rendermode hat einen Wert von Illustration.
+description: Ruft die beim Rendern des 3DInhalts zu verwendende Gesichtsfarbe ab oder legt sie fest. Dies ist nur relevant wenn dieRenderModeaspose.threed.formats/pdfsaveoptions/rendermode hat einen Wert von Illustration.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.formats/pdfsaveoptions/facecolor/

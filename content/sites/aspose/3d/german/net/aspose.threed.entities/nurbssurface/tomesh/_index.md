@@ -1,7 +1,7 @@
 ---
 title: ToMesh
 second_title: Aspose.3D für .NET-API-Referenz
-description: Wandeln Sie die NURBS-Oberfläche in das Mesh um
+description: Wandeln Sie die NURBSOberfläche in das Mesh um
 type: docs
 weight: 40
 url: /de/net/aspose.threed.entities/nurbssurface/tomesh/

@@ -1,7 +1,7 @@
 ---
 title: SiemensJT9
 second_title: Aspose.3D für .NET-API-Referenz
-description: Siemens JT-Datei Version 9
+description: Siemens JTDatei Version 9
 type: docs
 weight: 300
 url: /de/net/aspose.threed/fileformat/siemensjt9/

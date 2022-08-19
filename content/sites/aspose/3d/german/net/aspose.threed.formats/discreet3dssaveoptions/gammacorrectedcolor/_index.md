@@ -1,7 +1,7 @@
 ---
 title: GammaCorrectedColor
 second_title: Aspose.3D für .NET-API-Referenz
-description: Eine 3ds-Datei kann Originalfarbe und Gamma-korrigierte Farbe für dasselbe Attribut enthalten Wenn Sie dies auf true setzen wird nach Möglichkeit die Gamma-korrigierte Farbe verwendet andernfalls versucht Aspose.3D die Originalfarbe zu verwenden.
+description: Eine 3dsDatei kann Originalfarbe und Gammakorrigierte Farbe für dasselbe Attribut enthalten Wenn Sie dies auf true setzen wird nach Möglichkeit die Gammakorrigierte Farbe verwendet andernfalls versucht Aspose.3D die Originalfarbe zu verwenden.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.formats/discreet3dssaveoptions/gammacorrectedcolor/

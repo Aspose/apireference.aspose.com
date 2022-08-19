@@ -1,7 +1,7 @@
 ---
 title: HotSpot
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in hotspot-konvinkeln i grader.
+description: Hämtar eller ställer in hotspotkonvinkeln i grader.
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.entities/light/hotspot/

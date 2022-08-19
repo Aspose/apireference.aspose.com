@@ -1,7 +1,7 @@
 ---
 title: AlphaSource
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает определяет ли текстура альфа-канал. Значение по умолчаниюNone
+description: Получает или задает определяет ли текстура альфаканал. Значение по умолчаниюNone
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.shading/texturebase/alphasource/

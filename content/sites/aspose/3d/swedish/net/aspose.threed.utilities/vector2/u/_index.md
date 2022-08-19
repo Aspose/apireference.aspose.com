@@ -1,7 +1,7 @@
 ---
 title: U
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in U-komponenten omVector2aspose.threed.utilities/vector2 används som en mappningskoordinat. Det är ett alias för x-komponenten.
+description: Hämtar eller ställer in Ukomponenten omVector2aspose.threed.utilities/vector2 används som en mappningskoordinat. Det är ett alias för xkomponenten.
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.utilities/vector2/u/

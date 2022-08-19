@@ -1,7 +1,7 @@
 ---
 title: MorphTargetDeformer
 second_title: Aspose.3D für .NET-API-Referenz
-description: MorphTargetDeformer bietet Animationen pro Scheitelpunkt. MorphTargetDeformer organisiert alle Ziele überMorphTargetChannel./morphtargetchannel  kann jeder Kanal mehrere Ziele organisieren. Eine häufige Verwendung des Morph-Zielverformers ist das Anwenden von Gesichtsausdrücken auf eine Figur. Weitere Einzelheiten finden Sie unter https//en.wikipedia.org/wiki/Morph_target_animation
+description: MorphTargetDeformer bietet Animationen pro Scheitelpunkt. MorphTargetDeformer organisiert alle Ziele überMorphTargetChannel./morphtargetchannel  kann jeder Kanal mehrere Ziele organisieren. Eine häufige Verwendung des MorphZielverformers ist das Anwenden von Gesichtsausdrücken auf eine Figur. Weitere Einzelheiten finden Sie unter https//en.wikipedia.org/wiki/Morph_target_animation
 type: docs
 weight: 210
 url: /de/net/aspose.threed.deformers/morphtargetdeformer/

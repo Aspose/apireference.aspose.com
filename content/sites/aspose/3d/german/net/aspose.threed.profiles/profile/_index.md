@@ -1,7 +1,7 @@
 ---
 title: Profile
 second_title: Aspose.3D für .NET-API-Referenz
-description: 2D-Profil in xy-Ebene
+description: 2DProfil in xyEbene
 type: docs
 weight: 1610
 url: /de/net/aspose.threed.profiles/profile/

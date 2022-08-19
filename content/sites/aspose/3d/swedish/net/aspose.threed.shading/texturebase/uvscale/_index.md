@@ -1,7 +1,7 @@
 ---
 title: UVScale
 second_title: Aspose.3D för .NET API-referens
-description: Får eller ställer in UV-skalan.
+description: Får eller ställer in UVskalan.
 type: docs
 weight: 80
 url: /sv/net/aspose.threed.shading/texturebase/uvscale/

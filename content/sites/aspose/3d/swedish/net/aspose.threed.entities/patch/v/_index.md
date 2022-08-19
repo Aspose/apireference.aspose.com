@@ -1,7 +1,7 @@
 ---
 title: V
 second_title: Aspose.3D för .NET API-referens
-description: Får v-riktningen.
+description: Får vriktningen.
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.entities/patch/v/

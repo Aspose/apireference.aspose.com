@@ -1,7 +1,7 @@
 ---
 title: PlySaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen zum Exportieren der Szene als PLY-Datei.
+description: Speicheroptionen zum Exportieren der Szene als PLYDatei.
 type: docs
 weight: 1300
 url: /de/net/aspose.threed.formats/plysaveoptions/

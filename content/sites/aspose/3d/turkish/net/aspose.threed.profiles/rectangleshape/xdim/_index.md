@@ -1,7 +1,7 @@
 ---
 title: XDim
 second_title: Aspose.3D for .NET API Referansı
-description: x-axis yönündeki dikdörtgenin kapsamını alır veya ayarlar_ Varsayılan değer 2.0
+description: xaxis yönündeki dikdörtgenin kapsamını alır veya ayarlar_ Varsayılan değer 2.0
 type: docs
 weight: 30
 url: /tr/net/aspose.threed.profiles/rectangleshape/xdim/

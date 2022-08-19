@@ -1,7 +1,7 @@
 ---
 title: SubAnimations
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает узлы суб-анимации в текущих анимациях
+description: Получает узлы субанимации в текущих анимациях
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.animation/animationnode/subanimations/

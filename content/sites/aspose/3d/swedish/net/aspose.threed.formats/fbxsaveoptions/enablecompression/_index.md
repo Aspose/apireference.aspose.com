@@ -1,7 +1,7 @@
 ---
 title: EnableCompression
 second_title: Aspose.3D för .NET API-referens
-description: Komprimering av stora binära data i FBX-filen t.ex. animationsdata kontrollpunkter vertexelementdata index standardvärdet är sant.
+description: Komprimering av stora binära data i FBXfilen t.ex. animationsdata kontrollpunkter vertexelementdata index standardvärdet är sant.
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.formats/fbxsaveoptions/enablecompression/

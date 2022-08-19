@@ -1,7 +1,7 @@
 ---
 title: PrettyPrint
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der JSON-Inhalt der GLTF-Datei ist für das menschliche Lesen eingerückt der Standardwert ist false
+description: Der JSONInhalt der GLTFDatei ist für das menschliche Lesen eingerückt der Standardwert ist false
 type: docs
 weight: 100
 url: /de/net/aspose.threed.formats/gltfsaveoptions/prettyprint/

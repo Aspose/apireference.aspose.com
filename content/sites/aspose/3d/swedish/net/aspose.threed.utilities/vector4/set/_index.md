@@ -1,7 +1,7 @@
 ---
 title: Set
 second_title: Aspose.3D för .NET API-referens
-description: Ställer in vektorns xyz-komponenter åt gången w sätts till 1
+description: Ställer in vektorns xyzkomponenter åt gången w sätts till 1
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.utilities/vector4/set/

@@ -1,7 +1,7 @@
 ---
 title: MaterialConverter
 second_title: Aspose.3D för .NET API-referens
-description: Anpassad omvandlare för att konvertera geometrins originalmaterial till GLTFs PBR-material.
+description: Anpassad omvandlare för att konvertera geometrins originalmaterial till GLTFs PBRmaterial.
 type: docs
 weight: 1200
 url: /sv/net/aspose.threed.formats/materialconverter/

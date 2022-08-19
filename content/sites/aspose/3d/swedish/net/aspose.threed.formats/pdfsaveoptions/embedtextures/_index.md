@@ -1,7 +1,7 @@
 ---
 title: EmbedTextures
 second_title: Aspose.3D för .NET API-referens
-description: Bädda in de externa texturerna i PDF-filen standardvärdet är false.
+description: Bädda in de externa texturerna i PDFfilen standardvärdet är false.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.formats/pdfsaveoptions/embedtextures/

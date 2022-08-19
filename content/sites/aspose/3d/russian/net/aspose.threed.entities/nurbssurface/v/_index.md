@@ -1,7 +1,7 @@
 ---
 title: V
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает V-направление NURBS-поверхности
+description: Получает Vнаправление NURBSповерхности
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/nurbssurface/v/

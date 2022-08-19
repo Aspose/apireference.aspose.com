@@ -1,7 +1,7 @@
 ---
 title: LocalFileSystem
 second_title: Aspose.3D für .NET-API-Referenz
-description: DieLocalFileSystem./localfilesystem ordnet die Lese-/Schreiboperationen dem lokalen Verzeichnis zu.
+description: DieLocalFileSystem./localfilesystem ordnet die Lese/Schreiboperationen dem lokalen Verzeichnis zu.
 type: docs
 weight: 2540
 url: /de/net/aspose.threed.utilities/localfilesystem/

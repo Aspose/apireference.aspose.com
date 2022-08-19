@@ -1,7 +1,7 @@
 ---
 title: SplitMeshPolicy
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Partagez les données des sommets/points de contrôle entre les sous-maillages ou chaque sous-maillage a ses propres données compactées.
+description: Partagez les données des sommets/points de contrôle entre les sousmaillages ou chaque sousmaillage a ses propres données compactées.
 type: docs
 weight: 680
 url: /fr/net/aspose.threed.entities/splitmeshpolicy/

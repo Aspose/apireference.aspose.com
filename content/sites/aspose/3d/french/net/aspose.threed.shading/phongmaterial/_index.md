@@ -1,7 +1,7 @@
 ---
 title: PhongMaterial
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Matériau pour modèle dombrage blinn-phong.
+description: Matériau pour modèle dombrage blinnphong.
 type: docs
 weight: 2320
 url: /fr/net/aspose.threed.shading/phongmaterial/

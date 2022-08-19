@@ -1,7 +1,7 @@
 ---
 title: IndependentTangent
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt die Out- und Next-In-Tangenten sind unabhängig.
+description: Holt oder setzt die Out und NextInTangenten sind unabhängig.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.animation/keyframe/independenttangent/

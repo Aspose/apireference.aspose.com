@@ -1,7 +1,7 @@
 ---
 title: CubeFaceDataT
 second_title: Aspose.3D für .NET-API-Referenz
-description: Daten für jede Fläche der Cube-Map-Textur.
+description: Daten für jede Fläche der CubeMapTextur.
 type: docs
 weight: 1730
 url: /de/net/aspose.threed.render/cubefacedata-1/

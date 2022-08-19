@@ -1,7 +1,7 @@
 ---
 title: ShaderVariable
 second_title: Aspose.3D für .NET-API-Referenz
-description: Shader-Variable
+description: ShaderVariable
 type: docs
 weight: 2180
 url: /de/net/aspose.threed.render/shadervariable/

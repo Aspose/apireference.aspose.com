@@ -1,7 +1,7 @@
 ---
 title: AssetInfo
 second_title: Aspose.3D für .NET-API-Referenz
-description: Asset-Info pro Knoten
+description: AssetInfo pro Knoten
 type: docs
 weight: 20
 url: /de/net/aspose.threed/node/assetinfo/

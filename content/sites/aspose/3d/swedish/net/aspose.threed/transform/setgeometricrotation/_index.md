@@ -1,7 +1,7 @@
 ---
 title: SetGeometricRotation
 second_title: Aspose.3D för .NET API-referens
-description: Ställer in den geometriska Euler-rotationen mätt i grader. Geometrisk transformation påverkar bara de entiteter som är bifogade och lämnar de underordnade noderna opåverkade. Den kommer att slås samman som lokal transformation när du exporterar den geometriska transformationen till filtyper som inte stöder den.
+description: Ställer in den geometriska Eulerrotationen mätt i grader. Geometrisk transformation påverkar bara de entiteter som är bifogade och lämnar de underordnade noderna opåverkade. Den kommer att slås samman som lokal transformation när du exporterar den geometriska transformationen till filtyper som inte stöder den.
 type: docs
 weight: 120
 url: /sv/net/aspose.threed/transform/setgeometricrotation/

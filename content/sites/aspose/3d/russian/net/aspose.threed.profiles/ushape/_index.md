@@ -1,7 +1,7 @@
 ---
 title: UShape
 second_title: Справочник по Aspose.3D для .NET API
-description: U-образная форма совместимая с IFC определяется параметрами.
+description: Uобразная форма совместимая с IFC определяется параметрами.
 type: docs
 weight: 1650
 url: /ru/net/aspose.threed.profiles/ushape/

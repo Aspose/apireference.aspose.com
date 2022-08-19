@@ -1,7 +1,7 @@
 ---
 title: Depth
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Höhe dieser Textur ab für Nicht-3D-Texturen ist es immer 1.
+description: Ruft die Höhe dieser Textur ab für Nicht3DTexturen ist es immer 1.
 type: docs
 weight: 10
 url: /de/net/aspose.threed.render/itextureunit/depth/

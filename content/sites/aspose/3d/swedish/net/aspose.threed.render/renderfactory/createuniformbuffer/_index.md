@@ -1,7 +1,7 @@
 ---
 title: CreateUniformBuffer
 second_title: Aspose.3D för .NET API-referens
-description: Skapa en ny enhetlig buffert på GPU-sidan med förtilldelad storlek.
+description: Skapa en ny enhetlig buffert på GPUsidan med förtilldelad storlek.
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.render/renderfactory/createuniformbuffer/

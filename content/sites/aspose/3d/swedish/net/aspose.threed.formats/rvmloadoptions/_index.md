@@ -1,7 +1,7 @@
 ---
 title: RvmLoadOptions
 second_title: Aspose.3D för .NET API-referens
-description: Ladda alternativ för AVEVA Plant Design Management Systems RVM-fil.
+description: Ladda alternativ för AVEVA Plant Design Management Systems RVMfil.
 type: docs
 weight: 1320
 url: /sv/net/aspose.threed.formats/rvmloadoptions/

@@ -1,7 +1,7 @@
 ---
 title: WebThickness
 second_title: Aspose.3D för .NET API-referens
-description: Får eller ställer in tjockleken på banan av H-formen.
+description: Får eller ställer in tjockleken på banan av Hformen.
 type: docs
 weight: 110
 url: /sv/net/aspose.threed.profiles/hshape/webthickness/

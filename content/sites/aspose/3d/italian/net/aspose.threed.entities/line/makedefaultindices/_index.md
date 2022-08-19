@@ -1,7 +1,7 @@
 ---
 title: MakeDefaultIndices
 second_title: Riferimento API Aspose.3D per .NET
-description: Genera la sequenza 0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Lunghezza-1 aSegmentsaspose.threed.entities/line/segments quindi i ControlPoint possono essere usati come una singola riga
+description: Genera la sequenza 0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Lunghezza1 aSegmentsaspose.threed.entities/line/segments quindi i ControlPoint possono essere usati come una singola riga
 type: docs
 weight: 60
 url: /it/net/aspose.threed.entities/line/makedefaultindices/

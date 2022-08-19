@@ -1,7 +1,7 @@
 ---
 title: SemiAxis2
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in den andra radien för ellipsen som mäts i y-axelns riktning.
+description: Hämtar eller ställer in den andra radien för ellipsen som mäts i yaxelns riktning.
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.profiles/ellipseshape/semiaxis2/

@@ -1,7 +1,7 @@
 ---
 title: VertexElementUV
 second_title: Aspose.3D für .NET-API-Referenz
-description: Initialisiert eine neue Instanz vonVertexElementUVaspose.threed.entities/vertexelementuv class. Der Standard-Textur-Mapping-Typ istDiffuse
+description: Initialisiert eine neue Instanz vonVertexElementUVaspose.threed.entities/vertexelementuv class. Der StandardTexturMappingTyp istDiffuse
 type: docs
 weight: 10
 url: /de/net/aspose.threed.entities/vertexelementuv/vertexelementuv/

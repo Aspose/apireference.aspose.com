@@ -1,7 +1,7 @@
 ---
 title: Discreet3dsSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen für 3DS-Datei.
+description: Speicheroptionen für 3DSDatei.
 type: docs
 weight: 1070
 url: /de/net/aspose.threed.formats/discreet3dssaveoptions/

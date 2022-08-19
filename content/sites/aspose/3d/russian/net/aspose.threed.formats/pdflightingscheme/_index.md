@@ -1,7 +1,7 @@
 ---
 title: PdfLightingScheme
 second_title: Справочник по Aspose.3D для .NET API
-description: LightingScheme определяет освещение применяемое к 3D-объекту.
+description: LightingScheme определяет освещение применяемое к 3Dобъекту.
 type: docs
 weight: 1240
 url: /ru/net/aspose.threed.formats/pdflightingscheme/

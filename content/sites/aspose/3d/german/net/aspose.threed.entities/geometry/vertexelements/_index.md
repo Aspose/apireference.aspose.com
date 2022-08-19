@@ -1,7 +1,7 @@
 ---
 title: VertexElements
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft alle Vertex-Elemente ab
+description: Ruft alle VertexElemente ab
 type: docs
 weight: 60
 url: /de/net/aspose.threed.entities/geometry/vertexelements/

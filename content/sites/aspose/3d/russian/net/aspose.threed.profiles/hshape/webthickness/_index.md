@@ -1,7 +1,7 @@
 ---
 title: WebThickness
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает толщину стенки Н-образной формы.
+description: Получает или задает толщину стенки Нобразной формы.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.profiles/hshape/webthickness/

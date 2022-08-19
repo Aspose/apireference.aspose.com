@@ -1,7 +1,7 @@
 ---
 title: PreBehavior
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft das Pre-Verhalten ab und zeigt an was der abgetastete Wert vor dem ersten Schlüssel sein sollte.
+description: Ruft das PreVerhalten ab und zeigt an was der abgetastete Wert vor dem ersten Schlüssel sein sollte.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.animation/keyframesequence/prebehavior/

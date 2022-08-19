@@ -1,7 +1,7 @@
 ---
 title: ZAxis
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Z-Achse ab.
+description: Ruft die ZAchse ab.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.utilities/vector3/zaxis/

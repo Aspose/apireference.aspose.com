@@ -1,7 +1,7 @@
 ---
 title: ReusePrimitiveMesh
 second_title: Aspose.3D für .NET-API-Referenz
-description: Verwenden Sie das Netz für die Primitiven mit denselben Parametern erneut. Dadurch wird die Größe der FBX-Ausgabe erheblich reduziert deren Szene aus einer großen Menge primitiver Formen wie aus CAD-Dateien importiert erstellt wurde. Der Standardwert ist false
+description: Verwenden Sie das Netz für die Primitiven mit denselben Parametern erneut. Dadurch wird die Größe der FBXAusgabe erheblich reduziert deren Szene aus einer großen Menge primitiver Formen wie aus CADDateien importiert erstellt wurde. Der Standardwert ist false
 type: docs
 weight: 70
 url: /de/net/aspose.threed.formats/fbxsaveoptions/reuseprimitivemesh/

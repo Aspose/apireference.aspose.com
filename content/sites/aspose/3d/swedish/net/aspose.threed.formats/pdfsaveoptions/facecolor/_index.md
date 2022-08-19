@@ -1,7 +1,7 @@
 ---
 title: FaceColor
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in ansiktsfärgen som ska användas när 3D-innehållet renderas. Detta är endast relevant närRenderModeaspose.threed.formats/pdfsaveoptions/rendermode har värdet Illustration.
+description: Hämtar eller ställer in ansiktsfärgen som ska användas när 3Dinnehållet renderas. Detta är endast relevant närRenderModeaspose.threed.formats/pdfsaveoptions/rendermode har värdet Illustration.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.formats/pdfsaveoptions/facecolor/

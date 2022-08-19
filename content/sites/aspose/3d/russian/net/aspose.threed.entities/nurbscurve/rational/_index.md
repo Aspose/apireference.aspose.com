@@ -1,7 +1,7 @@
 ---
 title: Rational
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает является ли оно рациональным это значение указывает является ли этоNurbsCurveaspose.threed.entities/nurbscurve является рациональным или нерациональным сплайном. Нерациональный B-сплайн является частным случаем рациональных B-сплайнов.
+description: Получает или задает является ли оно рациональным это значение указывает является ли этоNurbsCurveaspose.threed.entities/nurbscurve является рациональным или нерациональным сплайном. Нерациональный Bсплайн является частным случаем рациональных Bсплайнов.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.entities/nurbscurve/rational/

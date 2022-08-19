@@ -1,7 +1,7 @@
 ---
 title: NurbsCurve
 second_title: Aspose.3D for .NET API 参考
-description: NURBS 曲线https//en.wikipedia.org/wiki/Non-uniform_rational_B-spline是由 NURBS非均匀有理基样条表示的曲线 NURBS 曲线由其定义Order./nurbscurve/order 一组加权ControlPoints./geometry/controlpoints和一个KnotVectors./nurbscurve/knotvectors 控制点中的w分量作为控制点的权重不管它是什么TwoDimensional或者ThreeDimensional
+description: NURBS 曲线https//en.wikipedia.org/wiki/Nonuniform_rational_Bspline是由 NURBS非均匀有理基样条表示的曲线 NURBS 曲线由其定义Order./nurbscurve/order 一组加权ControlPoints./geometry/controlpoints和一个KnotVectors./nurbscurve/knotvectors 控制点中的w分量作为控制点的权重不管它是什么TwoDimensional或者ThreeDimensional
 type: docs
 weight: 460
 url: /zh/net/aspose.threed.entities/nurbscurve/

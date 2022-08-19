@@ -1,7 +1,7 @@
 ---
 title: V
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ermittelt oder setzt die V-Komponente wenn dieVector2aspose.threed.utilities/vector2wird als Zuordnungskoordinate verwendet. Es ist ein Alias der y-Komponente.
+description: Ermittelt oder setzt die VKomponente wenn dieVector2aspose.threed.utilities/vector2wird als Zuordnungskoordinate verwendet. Es ist ein Alias der yKomponente.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.utilities/vector2/v/

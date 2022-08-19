@@ -1,7 +1,7 @@
 ---
 title: GetVertexElementOfUV
 second_title: Aspose.3D für .NET-API-Referenz
-description: erhält aVertexElementUVaspose.threed.entities/vertexelementuv Instanz mit gegebenem Textur-Mapping type
+description: erhält aVertexElementUVaspose.threed.entities/vertexelementuv Instanz mit gegebenem TexturMapping type
 type: docs
 weight: 130
 url: /de/net/aspose.threed.entities/geometry/getvertexelementofuv/

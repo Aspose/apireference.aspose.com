@@ -1,7 +1,7 @@
 ---
 title: SplitMesh
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Diviser le maillage en sous-maillages parVertexElementMaterialaspose.threed.entities/vertexelementmaterial . Chaque sous-maillage nutilisera quun seul matériau. Effectue le fractionnement du maillage sur un nœud
+description: Diviser le maillage en sousmaillages parVertexElementMaterialaspose.threed.entities/vertexelementmaterial . Chaque sousmaillage nutilisera quun seul matériau. Effectue le fractionnement du maillage sur un nœud
 type: docs
 weight: 60
 url: /fr/net/aspose.threed.entities/polygonmodifier/splitmesh/

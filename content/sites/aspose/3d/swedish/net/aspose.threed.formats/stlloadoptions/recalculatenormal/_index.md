@@ -1,7 +1,7 @@
 ---
 title: RecalculateNormal
 second_title: Aspose.3D för .NET API-referens
-description: Ignorera normala data som lagras i STL-filen och beräkna om normala data baserat på vertexpositionen. Standardvärdet är false
+description: Ignorera normala data som lagras i STLfilen och beräkna om normala data baserat på vertexpositionen. Standardvärdet är false
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.formats/stlloadoptions/recalculatenormal/

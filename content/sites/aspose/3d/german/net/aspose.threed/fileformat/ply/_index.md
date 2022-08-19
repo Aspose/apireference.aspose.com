@@ -1,7 +1,7 @@
 ---
 title: PLY
 second_title: Aspose.3D für .NET-API-Referenz
-description: Polygondateiformat oder Stanford-Dreiecksformat
+description: Polygondateiformat oder StanfordDreiecksformat
 type: docs
 weight: 560
 url: /de/net/aspose.threed/fileformat/ply/

@@ -1,7 +1,7 @@
 ---
 title: ShaderContent
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in innehållet i ett inbäddat shader-skript. Det kan vara HLSL/GLSL shader-källfil.
+description: Hämtar eller ställer in innehållet i ett inbäddat shaderskript. Det kan vara HLSL/GLSL shaderkällfil.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.shading/shadertechnique/shadercontent/

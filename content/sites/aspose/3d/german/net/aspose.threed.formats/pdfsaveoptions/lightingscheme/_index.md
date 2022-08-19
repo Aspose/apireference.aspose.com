@@ -1,7 +1,7 @@
 ---
 title: LightingScheme
 second_title: Aspose.3D für .NET-API-Referenz
-description: LightingScheme gibt die Beleuchtung an die auf 3D-Grafik angewendet werden soll.
+description: LightingScheme gibt die Beleuchtung an die auf 3DGrafik angewendet werden soll.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.formats/pdfsaveoptions/lightingscheme/

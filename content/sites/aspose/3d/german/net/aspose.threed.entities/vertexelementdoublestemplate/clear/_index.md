@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.3D für .NET-API-Referenz
-description: Entfernt alle Elemente aus den direkten und den Index-Arrays.
+description: Entfernt alle Elemente aus den direkten und den IndexArrays.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/vertexelementdoublestemplate/clear/

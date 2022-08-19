@@ -1,7 +1,7 @@
 ---
 title: PhongMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Материал для модели затенения по Блинну-Фонгу.
+description: Материал для модели затенения по БлиннуФонгу.
 type: docs
 weight: 2320
 url: /ru/net/aspose.threed.shading/phongmaterial/

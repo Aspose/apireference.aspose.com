@@ -1,7 +1,7 @@
 ---
 title: LambertMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Материал для ламбер-затенения model
+description: Материал для ламберзатенения model
 type: docs
 weight: 2280
 url: /ru/net/aspose.threed.shading/lambertmaterial/

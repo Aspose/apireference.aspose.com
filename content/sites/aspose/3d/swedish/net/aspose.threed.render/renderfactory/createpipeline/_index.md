@@ -1,7 +1,7 @@
 ---
 title: CreatePipeline
 second_title: Aspose.3D för .NET API-referens
-description: Skapa en förkonfigurerad grafikpipeline med förkonfigurerad shader/render state/vertex-deklaration och ritoperationer.
+description: Skapa en förkonfigurerad grafikpipeline med förkonfigurerad shader/render state/vertexdeklaration och ritoperationer.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.render/renderfactory/createpipeline/

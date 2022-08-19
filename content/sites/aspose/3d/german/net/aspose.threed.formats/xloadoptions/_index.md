@@ -1,7 +1,7 @@
 ---
 title: XLoadOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die Ladeoptionen für DirectX X-Dateien.
+description: Die Ladeoptionen für DirectX XDateien.
 type: docs
 weight: 1400
 url: /de/net/aspose.threed.formats/xloadoptions/

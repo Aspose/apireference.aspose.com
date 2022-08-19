@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in höjden på rutan justerad i y-axeln.
+description: Hämtar eller ställer in höjden på rutan justerad i yaxeln.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.entities/box/height/

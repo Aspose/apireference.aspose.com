@@ -1,7 +1,7 @@
 ---
 title: PhongMaterial
 second_title: Aspose.3D für .NET-API-Referenz
-description: Material für Blind-Phong-Schattierungsmodell.
+description: Material für BlindPhongSchattierungsmodell.
 type: docs
 weight: 2320
 url: /de/net/aspose.threed.shading/phongmaterial/

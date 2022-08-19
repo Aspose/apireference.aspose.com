@@ -1,7 +1,7 @@
 ---
 title: Mesh
 second_title: Aspose.3D لمرجع .NET API
-description: شبكة مكونة من العديد من المضلعات n-sided .
+description: شبكة مكونة من العديد من المضلعات nsided .
 type: docs
 weight: 450
 url: /ar/net/aspose.threed.entities/mesh/

@@ -1,7 +1,7 @@
 ---
 title: ShearTop
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller sätter av skjuvtransformeringen av översidan vektor lagrar skjuvvärdet x-axeln z-axeln som mäts i radian standardvärdet är 0 0
+description: Hämtar eller sätter av skjuvtransformeringen av översidan vektor lagrar skjuvvärdet xaxeln zaxeln som mäts i radian standardvärdet är 0 0
 type: docs
 weight: 120
 url: /sv/net/aspose.threed.entities/cylinder/sheartop/

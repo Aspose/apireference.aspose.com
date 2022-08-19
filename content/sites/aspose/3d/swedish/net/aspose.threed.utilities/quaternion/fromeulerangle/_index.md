@@ -1,7 +1,7 @@
 ---
 title: FromEulerAngle
 second_title: Aspose.3D för .NET API-referens
-description: Skapar quaternion från given Euler-vinkel
+description: Skapar quaternion från given Eulervinkel
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.utilities/quaternion/fromeulerangle/

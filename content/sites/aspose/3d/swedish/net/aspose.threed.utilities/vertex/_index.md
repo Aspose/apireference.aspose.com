@@ -1,7 +1,7 @@
 ---
 title: Vertex
 second_title: Aspose.3D för .NET API-referens
-description: Vertex-referens används för att komma åt den råa vertexen iTriMesh../aspose.threed.entities/trimesh .
+description: Vertexreferens används för att komma åt den råa vertexen iTriMesh../aspose.threed.entities/trimesh .
 type: docs
 weight: 2660
 url: /sv/net/aspose.threed.utilities/vertex/

@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.3D für .NET-API-Referenz
-description: Entsorgen Sie diese Instanz und geben Sie alle Shader-Programme frei.
+description: Entsorgen Sie diese Instanz und geben Sie alle ShaderProgramme frei.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.render/shaderset/dispose/

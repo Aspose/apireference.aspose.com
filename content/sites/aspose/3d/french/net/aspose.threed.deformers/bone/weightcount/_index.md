@@ -1,7 +1,7 @@
 ---
 title: WeightCount
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Obtient le nombre de poids celui-ci est automatiquement prolongé deSetWeightaspose.threed.deformers/bone/setweight
+description: Obtient le nombre de poids celuici est automatiquement prolongé deSetWeightaspose.threed.deformers/bone/setweight
 type: docs
 weight: 60
 url: /fr/net/aspose.threed.deformers/bone/weightcount/

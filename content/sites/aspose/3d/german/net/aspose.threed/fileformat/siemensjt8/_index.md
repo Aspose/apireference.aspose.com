@@ -1,7 +1,7 @@
 ---
 title: SiemensJT8
 second_title: Aspose.3D für .NET-API-Referenz
-description: Siemens JT-Datei Version 8
+description: Siemens JTDatei Version 8
 type: docs
 weight: 290
 url: /de/net/aspose.threed/fileformat/siemensjt8/

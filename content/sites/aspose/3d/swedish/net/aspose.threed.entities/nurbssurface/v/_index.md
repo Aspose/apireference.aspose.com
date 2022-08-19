@@ -1,7 +1,7 @@
 ---
 title: V
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar NURBS-ytans V-riktning
+description: Hämtar NURBSytans Vriktning
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.entities/nurbssurface/v/

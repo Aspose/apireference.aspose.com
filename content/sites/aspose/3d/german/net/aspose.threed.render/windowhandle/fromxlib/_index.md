@@ -1,7 +1,7 @@
 ---
 title: FromXlib
 second_title: Aspose.3D für .NET-API-Referenz
-description: erstellenWindowHandleaspose.threed.render/windowhandle aus einem Xlib-Fenster
+description: erstellenWindowHandleaspose.threed.render/windowhandle aus einem XlibFenster
 type: docs
 weight: 50
 url: /de/net/aspose.threed.render/windowhandle/fromxlib/

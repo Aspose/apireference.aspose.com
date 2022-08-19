@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.3D для .NET API
-description: Возвращает хэш-код для этой строки.
+description: Возвращает хэшкод для этой строки.
 type: docs
 weight: 130
 url: /ru/net/aspose.threed.utilities/vertexdeclaration/gethashcode/

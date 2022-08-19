@@ -1,7 +1,7 @@
 ---
 title: XAxis
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die X-Achse ab.
+description: Ruft die XAchse ab.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.utilities/vector3/xaxis/

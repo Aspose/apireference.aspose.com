@@ -1,7 +1,7 @@
 ---
 title: FromWayland
 second_title: Aspose.3D för .NET API-referens
-description: SkapaWindowHandleaspose.threed.render/windowhandle från en Wayland-yta
+description: SkapaWindowHandleaspose.threed.render/windowhandle från en Waylandyta
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.render/windowhandle/fromwayland/

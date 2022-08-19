@@ -1,7 +1,7 @@
 ---
 title: Rational
 second_title: Aspose.3D for .NET API Referansı
-description: Rasyonel olup olmadığını alır veya ayarlar bu değer bunun mantıklı olup olmadığını gösterir.NurbsCurveaspose.threed.entities/nurbscurve rasyonel spline veya rasyonel olmayan splinedır. Rasyonel olmayan B-spline rasyonel B-splineların özel bir durumudur.
+description: Rasyonel olup olmadığını alır veya ayarlar bu değer bunun mantıklı olup olmadığını gösterir.NurbsCurveaspose.threed.entities/nurbscurve rasyonel spline veya rasyonel olmayan splinedır. Rasyonel olmayan Bspline rasyonel Bsplineların özel bir durumudur.
 type: docs
 weight: 80
 url: /tr/net/aspose.threed.entities/nurbscurve/rational/

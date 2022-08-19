@@ -1,7 +1,7 @@
 ---
 title: PlyLoadOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ladeoptionen für PLY-Dateien
+description: Ladeoptionen für PLYDateien
 type: docs
 weight: 1290
 url: /de/net/aspose.threed.formats/plyloadoptions/

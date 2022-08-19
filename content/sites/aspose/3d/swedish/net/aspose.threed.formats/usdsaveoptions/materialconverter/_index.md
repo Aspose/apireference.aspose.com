@@ -1,7 +1,7 @@
 ---
 title: MaterialConverter
 second_title: Aspose.3D för .NET API-referens
-description: Anpassad omvandlare för att konvertera geometrins material till PBR-material Om detta inte är tilldelat kommer USD-exportören automatiskt att konvertera standardmaterialet till PBR-material. Standardvärdet är null
+description: Anpassad omvandlare för att konvertera geometrins material till PBRmaterial Om detta inte är tilldelat kommer USDexportören automatiskt att konvertera standardmaterialet till PBRmaterial. Standardvärdet är null
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.formats/usdsaveoptions/materialconverter/

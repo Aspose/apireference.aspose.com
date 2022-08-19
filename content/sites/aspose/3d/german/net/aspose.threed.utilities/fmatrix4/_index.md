@@ -1,7 +1,7 @@
 ---
 title: FMatrix4
 second_title: Aspose.3D für .NET-API-Referenz
-description: Matrix 4x4 mit allen Komponenten in Float-Typ
+description: Matrix 4x4 mit allen Komponenten in FloatTyp
 type: docs
 weight: 2470
 url: /de/net/aspose.threed.utilities/fmatrix4/

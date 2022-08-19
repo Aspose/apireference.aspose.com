@@ -1,7 +1,7 @@
 ---
 title: Center
 second_title: Aspose.3D für .NET-API-Referenz
-description: Wenn dieser Wert falsch ist reicht der Z-Bereich der linearen Extrusion von 0 bis Höhe andernfalls reicht der Bereich von -Höhe/2 bis Höhe/2.
+description: Wenn dieser Wert falsch ist reicht der ZBereich der linearen Extrusion von 0 bis Höhe andernfalls reicht der Bereich von Höhe/2 bis Höhe/2.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/linearextrusion/center/

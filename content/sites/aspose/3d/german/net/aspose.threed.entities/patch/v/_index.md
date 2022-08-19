@@ -1,7 +1,7 @@
 ---
 title: V
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die v-Richtung ab.
+description: Ruft die vRichtung ab.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.entities/patch/v/

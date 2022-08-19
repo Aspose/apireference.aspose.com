@@ -1,7 +1,7 @@
 ---
 title: Xyz
 second_title: Aspose.3D für .NET-API-Referenz
-description: Xyz-Punktwolkendatei
+description: XyzPunktwolkendatei
 type: docs
 weight: 230
 url: /de/net/aspose.threed/fileformattype/xyz/

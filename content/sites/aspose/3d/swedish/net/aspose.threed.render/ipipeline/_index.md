@@ -1,7 +1,7 @@
 ---
 title: IPipeline
 second_title: Aspose.3D för .NET API-referens
-description: Den förgräddade sekvensen av operationer för att rita på GPU-sidan.
+description: Den förgräddade sekvensen av operationer för att rita på GPUsidan.
 type: docs
 weight: 1870
 url: /sv/net/aspose.threed.render/ipipeline/

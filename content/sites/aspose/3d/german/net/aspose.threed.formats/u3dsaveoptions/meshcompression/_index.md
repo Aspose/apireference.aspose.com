@@ -1,7 +1,7 @@
 ---
 title: MeshCompression
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft ab oder legt fest ob die Mesh-Datenkomprimierung aktiviert werden soll.
+description: Ruft ab oder legt fest ob die MeshDatenkomprimierung aktiviert werden soll.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.formats/u3dsaveoptions/meshcompression/

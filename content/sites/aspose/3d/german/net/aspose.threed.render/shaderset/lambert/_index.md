@@ -1,7 +1,7 @@
 ---
 title: Lambert
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Shader ab oder legt ihn fest der zum Rendern des Lambert-Materials verwendet wurde
+description: Ruft den Shader ab oder legt ihn fest der zum Rendern des LambertMaterials verwendet wurde
 type: docs
 weight: 30
 url: /de/net/aspose.threed.render/shaderset/lambert/

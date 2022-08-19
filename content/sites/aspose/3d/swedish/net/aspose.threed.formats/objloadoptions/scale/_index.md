@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.3D för .NET API-referens
-description: Skalar på x/y/z-axeln standardvärdet är 1.0
+description: Skalar på x/y/zaxeln standardvärdet är 1.0
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.formats/objloadoptions/scale/

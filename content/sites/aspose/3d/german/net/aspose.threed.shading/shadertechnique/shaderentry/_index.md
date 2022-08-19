@@ -1,7 +1,7 @@
 ---
 title: ShaderEntry
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Einstiegspunkt des Shaders ab oder legt ihn fest einige Shader wie HLSL können angepasste Shader-Einträge haben.
+description: Ruft den Einstiegspunkt des Shaders ab oder legt ihn fest einige Shader wie HLSL können angepasste ShaderEinträge haben.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.shading/shadertechnique/shaderentry/

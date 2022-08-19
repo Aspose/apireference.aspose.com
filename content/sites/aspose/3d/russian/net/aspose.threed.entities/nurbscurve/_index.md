@@ -1,7 +1,7 @@
 ---
 title: NurbsCurve
 second_title: Справочник по Aspose.3D для .NET API
-description: кривая NURBShttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline представляет собой кривую представленную NURBS неоднородный рациональный базисный сплайн Кривая NURBS определяется ееOrder./nurbscurve/order  набор взвешенныхControlPoints./geometry/controlpoints иKnotVectors./nurbscurve/knotvectors Компонент w в контрольной точке используется как вес контрольной точки какой бы она ни былаTwoDimensional или жеThreeDimensional
+description: кривая NURBShttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline представляет собой кривую представленную NURBS неоднородный рациональный базисный сплайн Кривая NURBS определяется ееOrder./nurbscurve/order  набор взвешенныхControlPoints./geometry/controlpoints иKnotVectors./nurbscurve/knotvectors Компонент w в контрольной точке используется как вес контрольной точки какой бы она ни былаTwoDimensional или жеThreeDimensional
 type: docs
 weight: 460
 url: /ru/net/aspose.threed.entities/nurbscurve/

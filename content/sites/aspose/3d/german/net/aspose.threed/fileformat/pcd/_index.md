@@ -1,7 +1,7 @@
 ---
 title: Pcd
 second_title: Aspose.3D für .NET-API-Referenz
-description: PCL-Punktwolkendatendatei im ASCII-Modus
+description: PCLPunktwolkendatendatei im ASCIIModus
 type: docs
 weight: 270
 url: /de/net/aspose.threed/fileformat/pcd/

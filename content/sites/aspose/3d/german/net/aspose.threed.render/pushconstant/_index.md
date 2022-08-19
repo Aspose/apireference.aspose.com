@@ -1,7 +1,7 @@
 ---
 title: PushConstant
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein Dienstprogramm zur Bereitstellung von Daten für den Shader durch Push-Konstante.
+description: Ein Dienstprogramm zur Bereitstellung von Daten für den Shader durch PushKonstante.
 type: docs
 weight: 2030
 url: /de/net/aspose.threed.render/pushconstant/

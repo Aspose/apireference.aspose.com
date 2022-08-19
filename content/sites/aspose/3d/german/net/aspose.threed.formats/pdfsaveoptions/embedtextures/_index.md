@@ -1,7 +1,7 @@
 ---
 title: EmbedTextures
 second_title: Aspose.3D für .NET-API-Referenz
-description: Betten Sie die externen Texturen in die PDF-Datei ein Standardwert ist falsch.
+description: Betten Sie die externen Texturen in die PDFDatei ein Standardwert ist falsch.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.formats/pdfsaveoptions/embedtextures/

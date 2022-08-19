@@ -1,7 +1,7 @@
 ---
 title: ArbitraryProfile
 second_title: Aspose.3D för .NET API-referens
-description: Denna klass låter dig konstruera en 2D-profil direkt från en godtycklig kurva.
+description: Denna klass låter dig konstruera en 2Dprofil direkt från en godtycklig kurva.
 type: docs
 weight: 1510
 url: /sv/net/aspose.threed.profiles/arbitraryprofile/

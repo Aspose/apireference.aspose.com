@@ -1,7 +1,7 @@
 ---
 title: Collada
 second_title: Aspose.3D für .NET-API-Referenz
-description: Collada-Dateiformat
+description: ColladaDateiformat
 type: docs
 weight: 40
 url: /de/net/aspose.threed/fileformat/collada/

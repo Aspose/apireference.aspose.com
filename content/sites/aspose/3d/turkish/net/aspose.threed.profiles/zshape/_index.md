@@ -1,7 +1,7 @@
 ---
 title: ZShape
 second_title: Aspose.3D for .NET API Referansı
-description: Parametrelerle tanımlanan IFC uyumlu Z-şekilli profil.
+description: Parametrelerle tanımlanan IFC uyumlu Zşekilli profil.
 type: docs
 weight: 1660
 url: /tr/net/aspose.threed.profiles/zshape/

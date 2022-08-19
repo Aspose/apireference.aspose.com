@@ -1,7 +1,7 @@
 ---
 title: Mesh
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein Netz besteht aus vielen n-seitigen Polygonen.
+description: Ein Netz besteht aus vielen nseitigen Polygonen.
 type: docs
 weight: 450
 url: /de/net/aspose.threed.entities/mesh/

@@ -1,7 +1,7 @@
 ---
 title: PhongMaterial
 second_title: Aspose.3D för .NET API-referens
-description: Material för blinn-phong skuggningsmodell.
+description: Material för blinnphong skuggningsmodell.
 type: docs
 weight: 2320
 url: /sv/net/aspose.threed.shading/phongmaterial/

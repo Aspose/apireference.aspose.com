@@ -1,7 +1,7 @@
 ---
 title: Password
 second_title: Aspose.3D für .NET-API-Referenz
-description: Das Passwort zum Entsperren der verschlüsselten PDF-Datei.
+description: Das Passwort zum Entsperren der verschlüsselten PDFDatei.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/pdfloadoptions/password/

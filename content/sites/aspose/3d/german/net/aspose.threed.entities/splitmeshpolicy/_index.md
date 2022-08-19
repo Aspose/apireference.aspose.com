@@ -1,7 +1,7 @@
 ---
 title: SplitMeshPolicy
 second_title: Aspose.3D für .NET-API-Referenz
-description: Scheitelpunkt-/Kontrollpunktdaten zwischen Submeshs teilen oder jedes Submesh hat seine eigenen komprimierten Daten.
+description: Scheitelpunkt/Kontrollpunktdaten zwischen Submeshs teilen oder jedes Submesh hat seine eigenen komprimierten Daten.
 type: docs
 weight: 680
 url: /de/net/aspose.threed.entities/splitmeshpolicy/

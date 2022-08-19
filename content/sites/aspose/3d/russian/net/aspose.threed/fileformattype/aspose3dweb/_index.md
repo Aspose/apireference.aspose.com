@@ -1,7 +1,7 @@
 ---
 title: Aspose3DWeb
 second_title: Справочник по Aspose.3D для .NET API
-description: Aspose.3D веб-формат.
+description: Aspose.3D вебформат.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed/fileformattype/aspose3dweb/

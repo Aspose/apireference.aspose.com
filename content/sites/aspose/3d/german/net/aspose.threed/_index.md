@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Basis-Namespace von Aspose.3D
+description: Der BasisNamespace von Aspose.3D
 type: docs
 weight: 10
 url: /de/net/aspose.threed/

@@ -1,7 +1,7 @@
 ---
 title: A3dwSaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Spara alternativ för A3DW-format.
+description: Spara alternativ för A3DWformat.
 type: docs
 weight: 1020
 url: /sv/net/aspose.threed.formats/a3dwsaveoptions/

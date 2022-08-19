@@ -1,7 +1,7 @@
 ---
 title: CompareFunction
 second_title: Aspose.3D för .NET API-referens
-description: Jämföringsfunktionen som används vid djup-/stenciltestning.
+description: Jämföringsfunktionen som används vid djup/stenciltestning.
 type: docs
 weight: 1710
 url: /sv/net/aspose.threed.render/comparefunction/

@@ -1,7 +1,7 @@
 ---
 title: Reset
 second_title: Aspose.3D für .NET-API-Referenz
-description: Entfernt alle Keyframes und setzt das Post/Pre-Verhalten zurück.
+description: Entfernt alle Keyframes und setzt das Post/PreVerhalten zurück.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.animation/keyframesequence/reset/

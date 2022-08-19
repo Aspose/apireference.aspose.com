@@ -1,7 +1,7 @@
 ---
 title: DefaultValue
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in standardvärdet för kanalen. Om en kanal inte har några nyckelbildsekvenser anslutna kommer standardvärdet att användas under animeringsutvärderingen. Ett riktigt scenario Animation animerar endast en nods x-koordinat y och z är inte ändrad då kommer standardvärdet att användas under fullständig översättningsutvärdering.
+description: Hämtar eller ställer in standardvärdet för kanalen. Om en kanal inte har några nyckelbildsekvenser anslutna kommer standardvärdet att användas under animeringsutvärderingen. Ett riktigt scenario Animation animerar endast en nods xkoordinat y och z är inte ändrad då kommer standardvärdet att användas under fullständig översättningsutvärdering.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.animation/animationchannel/defaultvalue/

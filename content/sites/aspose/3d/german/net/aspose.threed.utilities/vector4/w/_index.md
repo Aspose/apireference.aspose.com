@@ -1,7 +1,7 @@
 ---
 title: w
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die w-Komponente.
+description: Die wKomponente.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.utilities/vector4/w/

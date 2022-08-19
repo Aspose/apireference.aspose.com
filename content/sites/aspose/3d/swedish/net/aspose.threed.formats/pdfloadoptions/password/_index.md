@@ -1,7 +1,7 @@
 ---
 title: Password
 second_title: Aspose.3D för .NET API-referens
-description: Lösenordet för att låsa upp den krypterade PDF-filen.
+description: Lösenordet för att låsa upp den krypterade PDFfilen.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.formats/pdfloadoptions/password/

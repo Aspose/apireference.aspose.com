@@ -1,7 +1,7 @@
 ---
 title: FromMesh
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie ein TriMesh aus einem gegebenen Netzobjekt mit automatisch generiertem Vertex-Layout.
+description: Erstellen Sie ein TriMesh aus einem gegebenen Netzobjekt mit automatisch generiertem VertexLayout.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/trimesh-1/frommesh/

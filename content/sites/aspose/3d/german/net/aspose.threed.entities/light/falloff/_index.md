@@ -1,7 +1,7 @@
 ---
 title: Falloff
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Falloff-Kegelwinkel in Grad ab oder legt ihn fest.
+description: Ruft den FalloffKegelwinkel in Grad ab oder legt ihn fest.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.entities/light/falloff/

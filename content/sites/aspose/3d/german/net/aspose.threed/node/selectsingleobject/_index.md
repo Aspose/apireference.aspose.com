@@ -1,7 +1,7 @@
 ---
 title: SelectSingleObject
 second_title: Aspose.3D für .NET-API-Referenz
-description: Einzelnes Objekt unter aktuellem Knoten mit XPath-ähnlicher Abfragesyntax auswählen.
+description: Einzelnes Objekt unter aktuellem Knoten mit XPathähnlicher Abfragesyntax auswählen.
 type: docs
 weight: 240
 url: /de/net/aspose.threed/node/selectsingleobject/

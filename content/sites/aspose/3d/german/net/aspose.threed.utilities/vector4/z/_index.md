@@ -1,7 +1,7 @@
 ---
 title: z
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die z-Komponente.
+description: Die zKomponente.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.utilities/vector4/z/

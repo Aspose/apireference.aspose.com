@@ -1,7 +1,7 @@
 ---
 title: XAxis
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar X-axeln.
+description: Hämtar Xaxeln.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.utilities/vector3/xaxis/

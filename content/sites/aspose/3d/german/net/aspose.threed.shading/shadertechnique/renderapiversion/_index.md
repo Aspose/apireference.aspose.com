@@ -1,7 +1,7 @@
 ---
 title: RenderAPIVersion
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Version der Rendering-API ab oder legt sie fest.
+description: Ruft die Version der RenderingAPI ab oder legt sie fest.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.shading/shadertechnique/renderapiversion/

@@ -1,7 +1,7 @@
 ---
 title: FBX6100ASCII
 second_title: Aspose.3D för .NET API-referens
-description: ASCII FBX-filformat med 6.1.0 version
+description: ASCII FBXfilformat med 6.1.0 version
 type: docs
 weight: 70
 url: /sv/net/aspose.threed/fileformat/fbx6100ascii/

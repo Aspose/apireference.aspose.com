@@ -1,7 +1,7 @@
 ---
 title: COLLADA
 second_title: Aspose.3D för .NET API-referens
-description: Khronos Groups Collada-filformat.
+description: Khronos Groups Colladafilformat.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed/fileformattype/collada/

@@ -1,7 +1,7 @@
 ---
 title: FromEulerAngle
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellt Quaternion aus gegebenem Euler-Winkel
+description: Erstellt Quaternion aus gegebenem EulerWinkel
 type: docs
 weight: 40
 url: /de/net/aspose.threed.utilities/quaternion/fromeulerangle/

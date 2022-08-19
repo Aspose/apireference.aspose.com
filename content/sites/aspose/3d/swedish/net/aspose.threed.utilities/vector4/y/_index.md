@@ -1,7 +1,7 @@
 ---
 title: y
 second_title: Aspose.3D för .NET API-referens
-description: Y-komponenten.
+description: Ykomponenten.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.utilities/vector4/y/

@@ -1,7 +1,7 @@
 ---
 title: Node
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Knoten ab oder legt ihn fest. Der Knochenknoten ist der Knochen an dem die Haut befestigt istSkinDeformeraspose.threed.deformers/skindeformer wird Bone-Node verwenden um die Verschiebung der Kontrollpunkte zu beeinflussen. Bone-Node hat normalerweise aSkeletonaspose.threed.entities/skeletonangehängt aber nicht erforderlich. AngehängtSkeletonaspose.threed.entities/skeleton wird normalerweise von der DCC-Software verwendet um dem Benutzer das Skelett zu zeigen.
+description: Ruft den Knoten ab oder legt ihn fest. Der Knochenknoten ist der Knochen an dem die Haut befestigt istSkinDeformeraspose.threed.deformers/skindeformer wird BoneNode verwenden um die Verschiebung der Kontrollpunkte zu beeinflussen. BoneNode hat normalerweise aSkeletonaspose.threed.entities/skeletonangehängt aber nicht erforderlich. AngehängtSkeletonaspose.threed.entities/skeleton wird normalerweise von der DCCSoftware verwendet um dem Benutzer das Skelett zu zeigen.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.deformers/bone/node/

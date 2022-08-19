@@ -1,7 +1,7 @@
 ---
 title: LShape
 second_title: Aspose.3D for .NET API Referansı
-description: Parametrelerle tanımlanan IFC uyumlu L-şekilli profil.
+description: Parametrelerle tanımlanan IFC uyumlu Lşekilli profil.
 type: docs
 weight: 1580
 url: /tr/net/aspose.threed.profiles/lshape/

@@ -1,7 +1,7 @@
 ---
 title: PolygonMode
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Polygon-Rasterungsmodus
+description: Der PolygonRasterungsmodus
 type: docs
 weight: 2000
 url: /de/net/aspose.threed.render/polygonmode/

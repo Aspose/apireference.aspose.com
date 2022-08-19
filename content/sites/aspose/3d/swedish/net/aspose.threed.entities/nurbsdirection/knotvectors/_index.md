@@ -1,7 +1,7 @@
 ---
 title: KnotVectors
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar knutvektorn det är en sekvens av parametervärden som bestämmer var och hur kontrollpunkterna påverkar NURBS-kurvan.
+description: Hämtar knutvektorn det är en sekvens av parametervärden som bestämmer var och hur kontrollpunkterna påverkar NURBSkurvan.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.entities/nurbsdirection/knotvectors/

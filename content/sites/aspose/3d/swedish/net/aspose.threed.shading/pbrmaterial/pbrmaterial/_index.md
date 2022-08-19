@@ -1,7 +1,7 @@
 ---
 title: PbrMaterial
 second_title: Aspose.3D för .NET API-referens
-description: Konstruera en standard-PBR-materialinstans
+description: Konstruera en standardPBRmaterialinstans
 type: docs
 weight: 10
 url: /sv/net/aspose.threed.shading/pbrmaterial/pbrmaterial/

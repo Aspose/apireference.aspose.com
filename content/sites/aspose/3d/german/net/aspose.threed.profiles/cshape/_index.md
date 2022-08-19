@@ -1,7 +1,7 @@
 ---
 title: CShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatibles C-förmiges Profil das durch Parameter definiert wird. Die Mittelposition des Profils befindet sich in der Mitte des Begrenzungsrahmens.
+description: IFCkompatibles Cförmiges Profil das durch Parameter definiert wird. Die Mittelposition des Profils befindet sich in der Mitte des Begrenzungsrahmens.
 type: docs
 weight: 1520
 url: /de/net/aspose.threed.profiles/cshape/

@@ -1,7 +1,7 @@
 ---
 title: FVector2
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein Float-Vektor mit zwei Komponenten.
+description: Ein FloatVektor mit zwei Komponenten.
 type: docs
 weight: 2480
 url: /de/net/aspose.threed.utilities/fvector2/

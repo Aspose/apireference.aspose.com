@@ -1,7 +1,7 @@
 ---
 title: BottomFlangeThickness
 second_title: Aspose.3D for .NET API Referansı
-description: H-şeklinin flanş kalınlığını alır veya ayarlar.
+description: Hşeklinin flanş kalınlığını alır veya ayarlar.
 type: docs
 weight: 40
 url: /tr/net/aspose.threed.profiles/hshape/bottomflangethickness/

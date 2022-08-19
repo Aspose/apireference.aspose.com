@@ -1,7 +1,7 @@
 ---
 title: MirroredProfile
 second_title: Справочник по Aspose.3D для .NET API
-description: IFC-совместимый зеркальный профиль. Этот профиль определяет новый профиль путем зеркального отражения базового профиля относительно оси Y.
+description: IFCсовместимый зеркальный профиль. Этот профиль определяет новый профиль путем зеркального отражения базового профиля относительно оси Y.
 type: docs
 weight: 1590
 url: /ru/net/aspose.threed.profiles/mirroredprofile/

@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellt eine Matrix die entlang der x-Achse der y-Achse und der z-Achse skaliert.
+description: Erstellt eine Matrix die entlang der xAchse der yAchse und der zAchse skaliert.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.utilities/matrix4/scale/

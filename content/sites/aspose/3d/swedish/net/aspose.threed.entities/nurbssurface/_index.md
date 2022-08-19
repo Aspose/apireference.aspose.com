@@ -1,7 +1,7 @@
 ---
 title: NurbsSurface
 second_title: Aspose.3D för .NET API-referens
-description: NurbsSurface./nurbssurface är en yta representerad avNURBSIcke-enhetlig rationell grundsplinehttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline ANurbsSurface./nurbssurface definieras av tvåNurbsDirection./nurbsdirectionU./nurbssurface/u ochV./nurbssurface/v . W-komponenten i kontrollpunkten används som kontrollpunktens vikt oavsett riktningens typ är enTwoDimensional ellerThreeDimensional
+description: NurbsSurface./nurbssurface är en yta representerad avNURBSIckeenhetlig rationell grundsplinehttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline ANurbsSurface./nurbssurface definieras av tvåNurbsDirection./nurbsdirectionU./nurbssurface/u ochV./nurbssurface/v . Wkomponenten i kontrollpunkten används som kontrollpunktens vikt oavsett riktningens typ är enTwoDimensional ellerThreeDimensional
 type: docs
 weight: 480
 url: /sv/net/aspose.threed.entities/nurbssurface/

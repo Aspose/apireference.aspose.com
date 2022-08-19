@@ -1,7 +1,7 @@
 ---
 title: EulerAngles
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die in Euler-Winkeln dargestellte Drehung ab oder legt sie fest gemessen in Grad
+description: Ruft die in EulerWinkeln dargestellte Drehung ab oder legt sie fest gemessen in Grad
 type: docs
 weight: 10
 url: /de/net/aspose.threed/transform/eulerangles/

@@ -1,7 +1,7 @@
 ---
 title: RotateEulerRadian
 second_title: Aspose.3D für .NET-API-Referenz
-description: Verkettet eine Drehung um Euler-Winkel im Bogenmaß
+description: Verkettet eine Drehung um EulerWinkel im Bogenmaß
 type: docs
 weight: 120
 url: /de/net/aspose.threed.utilities/transformbuilder/rotateeulerradian/

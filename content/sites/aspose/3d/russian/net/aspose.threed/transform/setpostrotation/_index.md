@@ -1,7 +1,7 @@
 ---
 title: SetPostRotation
 second_title: Справочник по Aspose.3D для .NET API
-description: Устанавливает пост-вращение представленное в градусах
+description: Устанавливает поствращение представленное в градусах
 type: docs
 weight: 150
 url: /ru/net/aspose.threed/transform/setpostrotation/

@@ -1,7 +1,7 @@
 ---
 title: FromGeometry
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie aVertexDeclarationaspose.threed.utilities/vertexdeclaration basierend auf aGeometryaspose.threed.entities/geometry s-Layout.
+description: Erstellen Sie aVertexDeclarationaspose.threed.utilities/vertexdeclaration basierend auf aGeometryaspose.threed.entities/geometry sLayout.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.utilities/vertexdeclaration/fromgeometry/

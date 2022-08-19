@@ -1,7 +1,7 @@
 ---
 title: FromScale
 second_title: Aspose.3D für .NET-API-Referenz
-description: Konstruiere aRelativeRectangleaspose.threed.utilities/relativerectangle mit allen Offsetfeldern Null- und Skalierungsfeldern von gegebenen Parametern.
+description: Konstruiere aRelativeRectangleaspose.threed.utilities/relativerectangle mit allen Offsetfeldern Null und Skalierungsfeldern von gegebenen Parametern.
 type: docs
 weight: 10
 url: /de/net/aspose.threed.utilities/relativerectangle/fromscale/

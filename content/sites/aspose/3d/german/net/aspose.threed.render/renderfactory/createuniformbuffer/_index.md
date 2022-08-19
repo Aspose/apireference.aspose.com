@@ -1,7 +1,7 @@
 ---
 title: CreateUniformBuffer
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie einen neuen einheitlichen Puffer auf der GPU-Seite mit vorab zugewiesener Größe.
+description: Erstellen Sie einen neuen einheitlichen Puffer auf der GPUSeite mit vorab zugewiesener Größe.
 type: docs
 weight: 90
 url: /de/net/aspose.threed.render/renderfactory/createuniformbuffer/

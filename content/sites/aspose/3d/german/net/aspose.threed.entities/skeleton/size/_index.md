@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Gliedmaßenknotengröße ab oder legt sie fest die in der CAD-Software verwendet wird um die Größe des Knochens darzustellen.
+description: Ruft die Gliedmaßenknotengröße ab oder legt sie fest die in der CADSoftware verwendet wird um die Größe des Knochens darzustellen.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/skeleton/size/

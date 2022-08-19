@@ -1,7 +1,7 @@
 ---
 title: FVector3
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein Float-Vektor mit drei Komponenten.
+description: Ein FloatVektor mit drei Komponenten.
 type: docs
 weight: 2490
 url: /de/net/aspose.threed.utilities/fvector3/

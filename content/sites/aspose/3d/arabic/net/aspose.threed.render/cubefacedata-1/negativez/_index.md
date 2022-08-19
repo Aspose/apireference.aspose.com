@@ -1,7 +1,7 @@
 ---
 title: NegativeZ
 second_title: Aspose.3D لمرجع .NET API
-description: الحصول على البيانات أو تعيينها لـ -Z أمامي face
+description: الحصول على البيانات أو تعيينها لـ Z أمامي face
 type: docs
 weight: 80
 url: /ar/net/aspose.threed.render/cubefacedata-1/negativez/

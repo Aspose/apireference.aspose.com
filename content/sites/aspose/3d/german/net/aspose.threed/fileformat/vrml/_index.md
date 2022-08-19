@@ -1,7 +1,7 @@
 ---
 title: VRML
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die Virtual-Reality-Modellierungssprache
+description: Die VirtualRealityModellierungssprache
 type: docs
 weight: 360
 url: /de/net/aspose.threed/fileformat/vrml/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Formats
 second_title: Aspose.3D für .NET-API-Referenz
-description: IO-bezogene Anpassungen sind in diesem Namespace definiert.
+description: IObezogene Anpassungen sind in diesem Namespace definiert.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.formats/

@@ -1,7 +1,7 @@
 ---
 title: ExportAttributes
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft ab oder legt fest ob die Attributliste in eine externe .att-Datei exportiert werden soll der Standardwert ist false.
+description: Ruft ab oder legt fest ob die Attributliste in eine externe .attDatei exportiert werden soll der Standardwert ist false.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.formats/rvmsaveoptions/exportattributes/

@@ -1,7 +1,7 @@
 ---
 title: STL
 second_title: Aspose.3D für .NET-API-Referenz
-description: STL-Dateiformattyp
+description: STLDateiformattyp
 type: docs
 weight: 170
 url: /de/net/aspose.threed/fileformattype/stl/

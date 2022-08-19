@@ -1,7 +1,7 @@
 ---
 title: GltfLoadOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ladeoptionen für das glTF-Format
+description: Ladeoptionen für das glTFFormat
 type: docs
 weight: 1150
 url: /de/net/aspose.threed.formats/gltfloadoptions/

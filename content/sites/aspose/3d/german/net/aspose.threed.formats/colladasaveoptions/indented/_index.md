@@ -1,7 +1,7 @@
 ---
 title: Indented
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft ab oder legt fest ob das exportierte XML-Dokument eingerückt ist.
+description: Ruft ab oder legt fest ob das exportierte XMLDokument eingerückt ist.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/colladasaveoptions/indented/

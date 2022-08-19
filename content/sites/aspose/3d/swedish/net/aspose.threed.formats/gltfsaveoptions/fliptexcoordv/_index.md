@@ -1,7 +1,7 @@
 ---
 title: FlipTexCoordV
 second_title: Aspose.3D för .NET API-referens
-description: Vänd texturkoordinat vt-komponent standardvärdet är sant.
+description: Vänd texturkoordinat vtkomponent standardvärdet är sant.
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.formats/gltfsaveoptions/fliptexcoordv/

@@ -1,7 +1,7 @@
 ---
 title: EmbedTextures
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in om texturen ska bäddas in i den slutliga utdatafilen. FBX Exporter kommer att försöka hitta texturens rådata frånFileSystemaspose.threed.formats/ioconfig/filesystem  och bädda in filen i den slutliga FBX-filen. Standardvärdet är false.
+description: Hämtar eller ställer in om texturen ska bäddas in i den slutliga utdatafilen. FBX Exporter kommer att försöka hitta texturens rådata frånFileSystemaspose.threed.formats/ioconfig/filesystem  och bädda in filen i den slutliga FBXfilen. Standardvärdet är false.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.formats/fbxsaveoptions/embedtextures/

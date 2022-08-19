@@ -1,7 +1,7 @@
 ---
 title: PlySaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Spara alternativ för att exportera scen som PLY-fil.
+description: Spara alternativ för att exportera scen som PLYfil.
 type: docs
 weight: 1300
 url: /sv/net/aspose.threed.formats/plysaveoptions/

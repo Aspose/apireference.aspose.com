@@ -1,7 +1,7 @@
 ---
 title: SemiAxis2
 second_title: Aspose.3D für .NET-API-Referenz
-description: Liest oder setzt den zweiten Radius der Ellipse gemessen in Richtung der y-Achse.
+description: Liest oder setzt den zweiten Radius der Ellipse gemessen in Richtung der yAchse.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.profiles/ellipseshape/semiaxis2/

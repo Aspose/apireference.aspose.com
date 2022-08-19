@@ -1,7 +1,7 @@
 ---
 title: Front
 second_title: Riferimento API Aspose.3D per .NET
-description: Ottiene o imposta i dati per -ZFront face
+description: Ottiene o imposta i dati per ZFront face
 type: docs
 weight: 30
 url: /it/net/aspose.threed.render/cubefacedata-1/front/

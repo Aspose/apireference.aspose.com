@@ -1,7 +1,7 @@
 ---
 title: SiemensJT
 second_title: Aspose.3D für .NET-API-Referenz
-description: JT-Datei von Siemens PLM Software NX
+description: JTDatei von Siemens PLM Software NX
 type: docs
 weight: 160
 url: /de/net/aspose.threed/fileformattype/siemensjt/

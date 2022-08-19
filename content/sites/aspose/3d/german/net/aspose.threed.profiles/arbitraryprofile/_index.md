@@ -1,7 +1,7 @@
 ---
 title: ArbitraryProfile
 second_title: Aspose.3D für .NET-API-Referenz
-description: Mit dieser Klasse können Sie ein 2D-Profil direkt aus einer beliebigen Kurve konstruieren.
+description: Mit dieser Klasse können Sie ein 2DProfil direkt aus einer beliebigen Kurve konstruieren.
 type: docs
 weight: 1510
 url: /de/net/aspose.threed.profiles/arbitraryprofile/

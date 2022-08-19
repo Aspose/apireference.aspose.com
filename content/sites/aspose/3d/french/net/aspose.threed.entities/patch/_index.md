@@ -1,7 +1,7 @@
 ---
 title: Patch
 second_title: Référence de l'API Aspose.3D pour .NET
-description: APatch./patch est une surface de modélisation paramétrique similaire àNurbsSurface./nurbssurface  il est également défini par deux PatchDirection./patchdirection  laU./patch/u etV./patch/v . Mais différence entrePatch./patch etNurbsSurface./nurbssurface est-ce lePatchDirection./patchdirection la courbe peut être lune desBezier QuadraticBezier BasisSpline CardinalSpline etLinear
+description: APatch./patch est une surface de modélisation paramétrique similaire àNurbsSurface./nurbssurface  il est également défini par deux PatchDirection./patchdirection  laU./patch/u etV./patch/v . Mais différence entrePatch./patch etNurbsSurface./nurbssurface estce lePatchDirection./patchdirection la courbe peut être lune desBezier QuadraticBezier BasisSpline CardinalSpline etLinear
 type: docs
 weight: 500
 url: /fr/net/aspose.threed.entities/patch/

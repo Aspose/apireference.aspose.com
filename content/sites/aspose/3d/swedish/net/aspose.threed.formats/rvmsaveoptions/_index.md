@@ -1,7 +1,7 @@
 ---
 title: RvmSaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Spara alternativ för Aveva PDMS RVM-fil.
+description: Spara alternativ för Aveva PDMS RVMfil.
 type: docs
 weight: 1330
 url: /sv/net/aspose.threed.formats/rvmsaveoptions/

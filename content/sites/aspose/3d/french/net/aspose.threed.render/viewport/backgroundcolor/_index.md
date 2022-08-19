@@ -1,7 +1,7 @@
 ---
 title: BackgroundColor
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Obtient ou définit la couleur darrière-plan de la fenêtre.
+description: Obtient ou définit la couleur darrièreplan de la fenêtre.
 type: docs
 weight: 20
 url: /fr/net/aspose.threed.render/viewport/backgroundcolor/

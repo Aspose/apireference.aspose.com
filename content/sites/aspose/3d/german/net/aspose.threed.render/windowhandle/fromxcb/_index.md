@@ -1,7 +1,7 @@
 ---
 title: FromXcb
 second_title: Aspose.3D für .NET-API-Referenz
-description: erstellenWindowHandleaspose.threed.render/windowhandle von einer XCB-Oberfläche.
+description: erstellenWindowHandleaspose.threed.render/windowhandle von einer XCBOberfläche.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.render/windowhandle/fromxcb/

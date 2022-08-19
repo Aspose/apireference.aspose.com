@@ -1,7 +1,7 @@
 ---
 title: ShaderStage
 second_title: Aspose.3D für .NET-API-Referenz
-description: Shader-Bühne
+description: ShaderBühne
 type: docs
 weight: 2170
 url: /de/net/aspose.threed.render/shaderstage/

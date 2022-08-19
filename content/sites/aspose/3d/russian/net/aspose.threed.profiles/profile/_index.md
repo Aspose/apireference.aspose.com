@@ -1,7 +1,7 @@
 ---
 title: Profile
 second_title: Справочник по Aspose.3D для .NET API
-description: 2D-профиль в плоскости xy
+description: 2Dпрофиль в плоскости xy
 type: docs
 weight: 1610
 url: /ru/net/aspose.threed.profiles/profile/

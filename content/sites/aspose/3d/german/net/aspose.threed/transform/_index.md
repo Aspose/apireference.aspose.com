@@ -1,7 +1,7 @@
 ---
 title: Transform
 second_title: Aspose.3D für .NET-API-Referenz
-description: Eine Transformation enthält Informationen die den Zugriff auf die Verschiebungs-/Skalierungs-/Rotations- oder Transformationsmatrix des Objekts zu minimalen Kosten ermöglichen Dies wird von der lokalen Transformation verwendet.
+description: Eine Transformation enthält Informationen die den Zugriff auf die Verschiebungs/Skalierungs/Rotations oder Transformationsmatrix des Objekts zu minimalen Kosten ermöglichen Dies wird von der lokalen Transformation verwendet.
 type: docs
 weight: 2400
 url: /de/net/aspose.threed/transform/

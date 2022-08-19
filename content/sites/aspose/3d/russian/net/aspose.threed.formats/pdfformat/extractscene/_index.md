@@ -1,7 +1,7 @@
 ---
 title: ExtractScene
 second_title: Справочник по Aspose.3D для .NET API
-description: Извлечение 3D-сцен из файла PDF.
+description: Извлечение 3Dсцен из файла PDF.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/pdfformat/extractscene/

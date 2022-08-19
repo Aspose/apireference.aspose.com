@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der kompilierte Shader im SPIR-V-Format.
+description: Der kompilierte Shader im SPIRVFormat.
 type: docs
 weight: 2120
 url: /de/net/aspose.threed.render/spirvsource/

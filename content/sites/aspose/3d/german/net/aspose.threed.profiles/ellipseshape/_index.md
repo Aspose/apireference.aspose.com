@@ -1,7 +1,7 @@
 ---
 title: EllipseShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatible Ellipsenform die durch Parameter definiert wird. Die Mittelposition des Profils befindet sich in der Mitte des Begrenzungsrahmens.
+description: IFCkompatible Ellipsenform die durch Parameter definiert wird. Die Mittelposition des Profils befindet sich in der Mitte des Begrenzungsrahmens.
 type: docs
 weight: 1540
 url: /de/net/aspose.threed.profiles/ellipseshape/

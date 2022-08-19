@@ -1,7 +1,7 @@
 ---
 title: HollowRectangleShape
 second_title: Aspose.3D för .NET API-referens
-description: IFC-kompatibel ihålig rektangulär form med både inre och yttre rundade hörn.
+description: IFCkompatibel ihålig rektangulär form med både inre och yttre rundade hörn.
 type: docs
 weight: 1570
 url: /sv/net/aspose.threed.profiles/hollowrectangleshape/

@@ -1,7 +1,7 @@
 ---
 title: Order
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Reihenfolge einer NURBS-Kurve ab oder legt sie fest. Sie definiert die Anzahl nahegelegener Kontrollpunkte die einen bestimmten Punkt auf der Kurve beeinflussen.
+description: Ruft die Reihenfolge einer NURBSKurve ab oder legt sie fest. Sie definiert die Anzahl nahegelegener Kontrollpunkte die einen bestimmten Punkt auf der Kurve beeinflussen.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.entities/nurbscurve/order/

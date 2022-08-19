@@ -1,7 +1,7 @@
 ---
 title: U
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt die U-Komponente wenn dieVector2aspose.threed.utilities/vector2 wird als Zuordnungskoordinate verwendet. Es ist ein Alias der x-Komponente.
+description: Holt oder setzt die UKomponente wenn dieVector2aspose.threed.utilities/vector2 wird als Zuordnungskoordinate verwendet. Es ist ein Alias der xKomponente.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.utilities/vector2/u/

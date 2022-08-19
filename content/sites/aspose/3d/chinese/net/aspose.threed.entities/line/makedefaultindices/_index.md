@@ -1,7 +1,7 @@
 ---
 title: MakeDefaultIndices
 second_title: Aspose.3D for .NET API 参考
-description: 生成序列0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Length-1 到Segmentsaspose.threed.entities/line/segments所以控制点可以用作单行
+description: 生成序列0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Length1 到Segmentsaspose.threed.entities/line/segments所以控制点可以用作单行
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.entities/line/makedefaultindices/

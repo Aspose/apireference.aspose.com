@@ -1,7 +1,7 @@
 ---
 title: XDim
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in rektangelns utsträckning i riktningen för x-axis Standardvärdet är 2.0
+description: Hämtar eller ställer in rektangelns utsträckning i riktningen för xaxis Standardvärdet är 2.0
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.profiles/rectangleshape/xdim/

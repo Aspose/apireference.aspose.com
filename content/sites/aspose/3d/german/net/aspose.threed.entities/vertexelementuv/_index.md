@@ -1,7 +1,7 @@
 ---
 title: VertexElementUV
 second_title: Aspose.3D für .NET-API-Referenz
-description: Definiert die UV-Koordinaten für bestimmte Komponenten. Eine Geometrie kann mehrere habenVertexElementUV./vertexelementuv Elemente und jeder hat unterschiedlicheTextureMapping./texturemapping s.
+description: Definiert die UVKoordinaten für bestimmte Komponenten. Eine Geometrie kann mehrere habenVertexElementUV./vertexelementuv Elemente und jeder hat unterschiedlicheTextureMapping./texturemapping s.
 type: docs
 weight: 900
 url: /de/net/aspose.threed.entities/vertexelementuv/

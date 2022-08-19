@@ -1,7 +1,7 @@
 ---
 title: VertexShader
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt den Quellcode des Vertex-Shaders
+description: Holt oder setzt den Quellcode des VertexShaders
 type: docs
 weight: 60
 url: /de/net/aspose.threed.render/spirvsource/vertexshader/

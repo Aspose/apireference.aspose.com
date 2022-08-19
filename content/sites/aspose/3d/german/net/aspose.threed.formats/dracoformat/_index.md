@@ -1,7 +1,7 @@
 ---
 title: DracoFormat
 second_title: Aspose.3D für .NET-API-Referenz
-description: Google Draco-Format
+description: Google DracoFormat
 type: docs
 weight: 1090
 url: /de/net/aspose.threed.formats/dracoformat/

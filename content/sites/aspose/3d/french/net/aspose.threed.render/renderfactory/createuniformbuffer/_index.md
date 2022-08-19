@@ -1,7 +1,7 @@
 ---
 title: CreateUniformBuffer
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Créer un nouveau tampon uniforme côté GPU avec une taille pré-allouée.
+description: Créer un nouveau tampon uniforme côté GPU avec une taille préallouée.
 type: docs
 weight: 90
 url: /fr/net/aspose.threed.render/renderfactory/createuniformbuffer/

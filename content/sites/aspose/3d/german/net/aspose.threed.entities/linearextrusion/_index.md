@@ -1,7 +1,7 @@
 ---
 title: LinearExtrusion
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die lineare Extrusion nimmt eine 2D-Form als Eingabe und erweitert die Form in der 3. Dimension.
+description: Die lineare Extrusion nimmt eine 2DForm als Eingabe und erweitert die Form in der 3. Dimension.
 type: docs
 weight: 430
 url: /de/net/aspose.threed.entities/linearextrusion/

@@ -1,7 +1,7 @@
 ---
 title: RenderEntity
 second_title: Aspose.3D für .NET-API-Referenz
-description: Jeder Render-Task wurde an die geschobenIRenderQueueaspose.threed.render/irenderqueue wird einen entsprechenden RenderEntity-Aufruf haben um den konkreten Rendering-Job auszuführen.
+description: Jeder RenderTask wurde an die geschobenIRenderQueueaspose.threed.render/irenderqueue wird einen entsprechenden RenderEntityAufruf haben um den konkreten RenderingJob auszuführen.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.render/entityrenderer/renderentity/

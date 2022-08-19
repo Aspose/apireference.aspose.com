@@ -1,7 +1,7 @@
 ---
 title: BottomXDim
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in omfattningen av den nedersta raden mätt längs x-axeln.
+description: Hämtar eller ställer in omfattningen av den nedersta raden mätt längs xaxeln.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.profiles/trapeziumshape/bottomxdim/

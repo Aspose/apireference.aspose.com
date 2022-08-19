@@ -1,7 +1,7 @@
 ---
 title: LShape
 second_title: Справочник по Aspose.3D для .NET API
-description: L-образный профиль совместимый с IFC который определяется параметрами.
+description: Lобразный профиль совместимый с IFC который определяется параметрами.
 type: docs
 weight: 1580
 url: /ru/net/aspose.threed.profiles/lshape/

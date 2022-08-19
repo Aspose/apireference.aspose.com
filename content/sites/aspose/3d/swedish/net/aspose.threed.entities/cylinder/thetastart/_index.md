@@ -1,7 +1,7 @@
 ---
 title: ThetaStart
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in theta-starten. Standardvärdet är 0.
+description: Hämtar eller ställer in thetastarten. Standardvärdet är 0.
 type: docs
 weight: 140
 url: /sv/net/aspose.threed.entities/cylinder/thetastart/

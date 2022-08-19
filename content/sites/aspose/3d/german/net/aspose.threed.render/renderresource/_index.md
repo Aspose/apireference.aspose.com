@@ -1,7 +1,7 @@
 ---
 title: RenderResource
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die abstrakte Klasse aller Render-Ressourcen Alle Render-Ressourcen werden verworfen wenn der Renderer veröffentlicht wird. Klassen wieMesh../aspose.threed.entities/mesh/Texture../aspose.threed.shading/texture wird eine entsprechende RenderResource haben
+description: Die abstrakte Klasse aller RenderRessourcen Alle RenderRessourcen werden verworfen wenn der Renderer veröffentlicht wird. Klassen wieMesh../aspose.threed.entities/mesh/Texture../aspose.threed.shading/texture wird eine entsprechende RenderResource haben
 type: docs
 weight: 2070
 url: /de/net/aspose.threed.render/renderresource/

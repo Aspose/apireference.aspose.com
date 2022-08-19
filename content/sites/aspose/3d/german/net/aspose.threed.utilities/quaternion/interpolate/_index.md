@@ -1,7 +1,7 @@
 ---
 title: Interpolate
 second_title: Aspose.3D für .NET-API-Referenz
-description: Füllt diese Quaternion mit dem interpolierten Wert zwischen den gegebenen Quaternion-Argumenten für at between from and to.
+description: Füllt diese Quaternion mit dem interpolierten Wert zwischen den gegebenen QuaternionArgumenten für at between from and to.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.utilities/quaternion/interpolate/

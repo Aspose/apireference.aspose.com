@@ -1,7 +1,7 @@
 ---
 title: AnimationChannel
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein Kanal ordnet das Komponentenfeld einer Eigenschaft einem Satz von Keyframe-Sequenzen zu
+description: Ein Kanal ordnet das Komponentenfeld einer Eigenschaft einem Satz von KeyframeSequenzen zu
 type: docs
 weight: 20
 url: /de/net/aspose.threed.animation/animationchannel/

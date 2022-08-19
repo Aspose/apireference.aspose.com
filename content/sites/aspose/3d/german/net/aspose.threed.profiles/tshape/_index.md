@@ -1,7 +1,7 @@
 ---
 title: TShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatible T-Form definiert durch Parameter.
+description: IFCkompatible TForm definiert durch Parameter.
 type: docs
 weight: 1630
 url: /de/net/aspose.threed.profiles/tshape/

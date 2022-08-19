@@ -1,7 +1,7 @@
 ---
 title: PcdBinary
 second_title: Aspose.3D für .NET-API-Referenz
-description: PCL-Punktwolkendatendatei im Binärmodus
+description: PCLPunktwolkendatendatei im Binärmodus
 type: docs
 weight: 280
 url: /de/net/aspose.threed/fileformat/pcdbinary/

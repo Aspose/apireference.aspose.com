@@ -1,7 +1,7 @@
 ---
 title: WindowHandle
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Poignée de fenêtre encapsulée pour différentes plates-formes.
+description: Poignée de fenêtre encapsulée pour différentes platesformes.
 type: docs
 weight: 2240
 url: /fr/net/aspose.threed.render/windowhandle/

@@ -1,7 +1,7 @@
 ---
 title: XDim
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ermittelt oder setzt die Ausdehnung des Rechtecks in Richtung der x-Achse Der Standardwert ist 20
+description: Ermittelt oder setzt die Ausdehnung des Rechtecks in Richtung der xAchse Der Standardwert ist 20
 type: docs
 weight: 30
 url: /de/net/aspose.threed.profiles/rectangleshape/xdim/

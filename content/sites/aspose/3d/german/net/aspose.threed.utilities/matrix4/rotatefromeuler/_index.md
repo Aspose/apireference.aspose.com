@@ -1,7 +1,7 @@
 ---
 title: RotateFromEuler
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie eine Rotationsmatrix aus dem Euler-Winkel
+description: Erstellen Sie eine Rotationsmatrix aus dem EulerWinkel
 type: docs
 weight: 40
 url: /de/net/aspose.threed.utilities/matrix4/rotatefromeuler/

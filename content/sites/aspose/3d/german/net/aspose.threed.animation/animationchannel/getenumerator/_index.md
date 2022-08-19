@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft einen Enumerator ab der alle Keyframe-Sequenzen in diesem Kanal durchläuft
+description: Ruft einen Enumerator ab der alle KeyframeSequenzen in diesem Kanal durchläuft
 type: docs
 weight: 60
 url: /de/net/aspose.threed.animation/animationchannel/getenumerator/

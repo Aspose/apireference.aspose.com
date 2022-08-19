@@ -1,7 +1,7 @@
 ---
 title: ExportMetaData
 second_title: Aspose.3D für .NET-API-Referenz
-description: Exportieren Sie die Eigenschaften des Knotens über das customData-Feld von USD.
+description: Exportieren Sie die Eigenschaften des Knotens über das customDataFeld von USD.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/usdsaveoptions/exportmetadata/

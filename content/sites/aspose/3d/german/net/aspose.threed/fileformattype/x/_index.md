@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.3D für .NET-API-Referenz
-description: X-Datei von DirectX
+description: XDatei von DirectX
 type: docs
 weight: 220
 url: /de/net/aspose.threed/fileformattype/x/

@@ -1,7 +1,7 @@
 ---
 title: WallThickness
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Differenz zwischen Außen- und Innenradius ab oder legt sie fest.
+description: Ruft die Differenz zwischen Außen und Innenradius ab oder legt sie fest.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.profiles/hollowcircleshape/wallthickness/

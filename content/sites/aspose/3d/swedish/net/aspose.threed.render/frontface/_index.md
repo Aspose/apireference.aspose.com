@@ -1,7 +1,7 @@
 ---
 title: FrontFace
 second_title: Aspose.3D för .NET API-referens
-description: Definiera fram- och bakåtvända polygoner
+description: Definiera fram och bakåtvända polygoner
 type: docs
 weight: 1810
 url: /sv/net/aspose.threed.render/frontface/

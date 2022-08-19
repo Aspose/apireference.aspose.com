@@ -1,7 +1,7 @@
 ---
 title: CreateUniformBuffer
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать новый юниформ-буфер на стороне графического процессора с предварительно выделенным размером.
+description: Создать новый юниформбуфер на стороне графического процессора с предварительно выделенным размером.
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.render/renderfactory/createuniformbuffer/

@@ -1,7 +1,7 @@
 ---
 title: TextureSlot
 second_title: Aspose.3D für .NET-API-Referenz
-description: Textur-Slot reinMaterial./material  kann durch Materialinstanz aufgezählt werden.
+description: TexturSlot reinMaterial./material  kann durch Materialinstanz aufgezählt werden.
 type: docs
 weight: 2380
 url: /de/net/aspose.threed.shading/textureslot/

@@ -1,7 +1,7 @@
 ---
 title: KeyFrame
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein Keyframe wird hauptsächlich durch eine Zeit und einen Wert definiert bei einigen Interpolationstypen wird auch Tangente/Spannung/Bias/Kontinuität verwendet um den endgültigen Abtastwert zu berechnen. Abtastwerte in einer Nicht-Keyframe-Zeitposition werden interpoliert durch Schlüsselbilder zwischen dem vorherigen und nächsten Schlüsselbild Werte vor/nach dem ersten/letzten Schlüsselbild werden von berechnetExtrapolation./extrapolation Klasse.
+description: Ein Keyframe wird hauptsächlich durch eine Zeit und einen Wert definiert bei einigen Interpolationstypen wird auch Tangente/Spannung/Bias/Kontinuität verwendet um den endgültigen Abtastwert zu berechnen. Abtastwerte in einer NichtKeyframeZeitposition werden interpoliert durch Schlüsselbilder zwischen dem vorherigen und nächsten Schlüsselbild Werte vor/nach dem ersten/letzten Schlüsselbild werden von berechnetExtrapolation./extrapolation Klasse.
 type: docs
 weight: 90
 url: /de/net/aspose.threed.animation/keyframe/

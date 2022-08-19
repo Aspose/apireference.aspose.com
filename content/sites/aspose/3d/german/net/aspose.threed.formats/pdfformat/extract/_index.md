@@ -1,7 +1,7 @@
 ---
 title: Extract
 second_title: Aspose.3D für .NET-API-Referenz
-description: Rohen 3D-Inhalt aus PDF-Datei extrahieren.
+description: Rohen 3DInhalt aus PDFDatei extrahieren.
 type: docs
 weight: 10
 url: /de/net/aspose.threed.formats/pdfformat/extract/

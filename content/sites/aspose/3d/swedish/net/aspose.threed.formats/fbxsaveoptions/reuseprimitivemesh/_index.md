@@ -1,7 +1,7 @@
 ---
 title: ReusePrimitiveMesh
 second_title: Aspose.3D för .NET API-referens
-description: Återanvänd mesh för primitiva med samma parametrar detta kommer avsevärt att minska storleken på FBX-utdata vilken scen konstruerades av en stor uppsättning primitiva former som importerade från CAD-filer. Standardvärdet är false
+description: Återanvänd mesh för primitiva med samma parametrar detta kommer avsevärt att minska storleken på FBXutdata vilken scen konstruerades av en stor uppsättning primitiva former som importerade från CADfiler. Standardvärdet är false
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.formats/fbxsaveoptions/reuseprimitivemesh/

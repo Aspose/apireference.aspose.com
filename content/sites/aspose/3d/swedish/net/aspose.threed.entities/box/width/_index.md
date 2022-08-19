@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in bredden på rutan justerad i x-axeln.
+description: Hämtar eller ställer in bredden på rutan justerad i xaxeln.
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.entities/box/width/

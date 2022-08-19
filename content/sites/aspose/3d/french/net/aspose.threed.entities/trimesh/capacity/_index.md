@@ -1,7 +1,7 @@
 ---
 title: Capacity
 second_title: Référence de l'API Aspose.3D pour .NET
-description: La capacité des sommets pré-alloués.
+description: La capacité des sommets préalloués.
 type: docs
 weight: 50
 url: /fr/net/aspose.threed.entities/trimesh/capacity/

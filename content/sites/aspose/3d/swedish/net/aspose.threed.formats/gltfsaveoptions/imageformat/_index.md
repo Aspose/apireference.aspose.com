@@ -1,7 +1,7 @@
 ---
 title: ImageFormat
 second_title: Aspose.3D för .NET API-referens
-description: Standard glTF stöder endast PNG/JPG som dess texturformat detta alternativ kommer att vägleda hur Aspose.3D konverterar de icke-standardiserade bilderna till format som stöds under exporten. Standardvärdet ärPng
+description: Standard glTF stöder endast PNG/JPG som dess texturformat detta alternativ kommer att vägleda hur Aspose.3D konverterar de ickestandardiserade bilderna till format som stöds under exporten. Standardvärdet ärPng
 type: docs
 weight: 80
 url: /sv/net/aspose.threed.formats/gltfsaveoptions/imageformat/

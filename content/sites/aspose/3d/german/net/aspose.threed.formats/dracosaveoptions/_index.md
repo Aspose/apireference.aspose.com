@@ -1,7 +1,7 @@
 ---
 title: DracoSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen für Google Draco-Dateien
+description: Speicheroptionen für Google DracoDateien
 type: docs
 weight: 1100
 url: /de/net/aspose.threed.formats/dracosaveoptions/

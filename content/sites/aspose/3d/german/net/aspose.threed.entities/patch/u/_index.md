@@ -1,7 +1,7 @@
 ---
 title: U
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die u-Richtung ab.
+description: Ruft die uRichtung ab.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/patch/u/

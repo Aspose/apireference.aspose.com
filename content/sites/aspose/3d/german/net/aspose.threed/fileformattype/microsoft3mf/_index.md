@@ -1,7 +1,7 @@
 ---
 title: Microsoft3MF
 second_title: Aspose.3D für .NET-API-Referenz
-description: 3D-Fertigungsformat
+description: 3DFertigungsformat
 type: docs
 weight: 110
 url: /de/net/aspose.threed/fileformattype/microsoft3mf/

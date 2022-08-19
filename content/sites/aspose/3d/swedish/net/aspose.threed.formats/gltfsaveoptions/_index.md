@@ -1,7 +1,7 @@
 ---
 title: GltfSaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Spara alternativ för glTF-format.
+description: Spara alternativ för glTFformat.
 type: docs
 weight: 1160
 url: /sv/net/aspose.threed.formats/gltfsaveoptions/

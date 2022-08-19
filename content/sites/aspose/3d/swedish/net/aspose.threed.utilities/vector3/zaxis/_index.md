@@ -1,7 +1,7 @@
 ---
 title: ZAxis
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar Z-axeln.
+description: Hämtar Zaxeln.
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.utilities/vector3/zaxis/

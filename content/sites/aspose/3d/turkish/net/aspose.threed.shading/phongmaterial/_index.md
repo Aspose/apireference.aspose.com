@@ -1,7 +1,7 @@
 ---
 title: PhongMaterial
 second_title: Aspose.3D for .NET API Referansı
-description: Blinn-phong gölgelendirme modeli için malzeme.
+description: Blinnphong gölgelendirme modeli için malzeme.
 type: docs
 weight: 2320
 url: /tr/net/aspose.threed.shading/phongmaterial/

@@ -1,7 +1,7 @@
 ---
 title: MatrixViewProjection
 second_title: Aspose.3D für .NET-API-Referenz
-description: Matrix für Ansichts- und Projektionstransformation.
+description: Matrix für Ansichts und Projektionstransformation.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.render/renderervariablemanager/matrixviewprojection/

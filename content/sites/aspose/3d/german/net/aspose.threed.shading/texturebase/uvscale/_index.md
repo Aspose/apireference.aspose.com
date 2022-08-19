@@ -1,7 +1,7 @@
 ---
 title: UVScale
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die UV-Skala ab oder legt sie fest.
+description: Ruft die UVSkala ab oder legt sie fest.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.shading/texturebase/uvscale/

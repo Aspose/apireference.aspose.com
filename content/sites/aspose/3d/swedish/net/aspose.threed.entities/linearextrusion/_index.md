@@ -1,7 +1,7 @@
 ---
 title: LinearExtrusion
 second_title: Aspose.3D för .NET API-referens
-description: Linjär extrudering tar en 2D-form som indata och utökar formen i den tredje dimensionen.
+description: Linjär extrudering tar en 2Dform som indata och utökar formen i den tredje dimensionen.
 type: docs
 weight: 430
 url: /sv/net/aspose.threed.entities/linearextrusion/

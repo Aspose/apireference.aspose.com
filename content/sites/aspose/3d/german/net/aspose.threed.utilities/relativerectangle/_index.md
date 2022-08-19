@@ -1,7 +1,7 @@
 ---
 title: RelativeRectangle
 second_title: Aspose.3D für .NET-API-Referenz
-description: Relatives Rechteck Die Formel zwischen relativer Komponente und absolutem Wert lautet Skalierung  Referenzbreite  Offset Wenn wir also möchten dass es einen absoluten Wert darstellt lassen Sie alle Skalierungsfelder Null und verwenden Sie stattdessen Offset-Felder.
+description: Relatives Rechteck Die Formel zwischen relativer Komponente und absolutem Wert lautet Skalierung  Referenzbreite  Offset Wenn wir also möchten dass es einen absoluten Wert darstellt lassen Sie alle Skalierungsfelder Null und verwenden Sie stattdessen OffsetFelder.
 type: docs
 weight: 2600
 url: /de/net/aspose.threed.utilities/relativerectangle/

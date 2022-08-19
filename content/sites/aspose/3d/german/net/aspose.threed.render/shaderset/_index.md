@@ -1,7 +1,7 @@
 ---
 title: ShaderSet
 second_title: Aspose.3D für .NET-API-Referenz
-description: Shader-Programme für jede Art von Materialien
+description: ShaderProgramme für jede Art von Materialien
 type: docs
 weight: 2150
 url: /de/net/aspose.threed.render/shaderset/

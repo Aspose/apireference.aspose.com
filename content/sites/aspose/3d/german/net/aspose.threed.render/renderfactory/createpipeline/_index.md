@@ -1,7 +1,7 @@
 ---
 title: CreatePipeline
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie eine vorkonfigurierte Grafikpipeline mit vorkonfigurierten Shader-/Renderstatus-/Scheitelpunktdeklarationen und Zeichenoperationen.
+description: Erstellen Sie eine vorkonfigurierte Grafikpipeline mit vorkonfigurierten Shader/Renderstatus/Scheitelpunktdeklarationen und Zeichenoperationen.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.render/renderfactory/createpipeline/

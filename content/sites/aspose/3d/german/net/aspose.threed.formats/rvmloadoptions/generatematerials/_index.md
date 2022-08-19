@@ -1,7 +1,7 @@
 ---
 title: GenerateMaterials
 second_title: Aspose.3D für .NET-API-Referenz
-description: Materialien mit zufälligen Farben für jedes Objekt in der Szene generieren wenn die Farbtabelle nicht in die RVM-Datei exportiert wird. Der Standardwert ist wahr
+description: Materialien mit zufälligen Farben für jedes Objekt in der Szene generieren wenn die Farbtabelle nicht in die RVMDatei exportiert wird. Der Standardwert ist wahr
 type: docs
 weight: 70
 url: /de/net/aspose.threed.formats/rvmloadoptions/generatematerials/

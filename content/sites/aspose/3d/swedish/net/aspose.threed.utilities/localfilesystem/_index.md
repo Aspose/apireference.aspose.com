@@ -1,7 +1,7 @@
 ---
 title: LocalFileSystem
 second_title: Aspose.3D för .NET API-referens
-description: DenLocalFileSystem./localfilesystem kommer att mappa läs-/skrivoperationerna till den lokala katalogen.
+description: DenLocalFileSystem./localfilesystem kommer att mappa läs/skrivoperationerna till den lokala katalogen.
 type: docs
 weight: 2540
 url: /sv/net/aspose.threed.utilities/localfilesystem/

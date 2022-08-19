@@ -1,7 +1,7 @@
 ---
 title: Watermark
 second_title: Aspose.3D für .NET-API-Referenz
-description: Dienstprogramm zum Codieren/Decodieren von Blind-Wasserzeichen zu/von einem Mesh.
+description: Dienstprogramm zum Codieren/Decodieren von BlindWasserzeichen zu/von einem Mesh.
 type: docs
 weight: 2710
 url: /de/net/aspose.threed.utilities/watermark/

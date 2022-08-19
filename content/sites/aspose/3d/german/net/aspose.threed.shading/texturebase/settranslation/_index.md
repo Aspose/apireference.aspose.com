@@ -1,7 +1,7 @@
 ---
 title: SetTranslation
 second_title: Aspose.3D für .NET-API-Referenz
-description: Legt die UV-Übersetzung fest.
+description: Legt die UVÜbersetzung fest.
 type: docs
 weight: 150
 url: /de/net/aspose.threed.shading/texturebase/settranslation/

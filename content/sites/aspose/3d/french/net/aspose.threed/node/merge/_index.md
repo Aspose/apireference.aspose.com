@@ -1,7 +1,7 @@
 ---
 title: Merge
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Détachez tout sous le nœud et attachez-les au nœud actuel.
+description: Détachez tout sous le nœud et attachezles au nœud actuel.
 type: docs
 weight: 220
 url: /fr/net/aspose.threed/node/merge/

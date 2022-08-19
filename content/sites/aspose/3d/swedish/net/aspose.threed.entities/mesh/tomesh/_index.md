@@ -1,7 +1,7 @@
 ---
 title: ToMesh
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar Mesh-instansen från nuvarande entitet.
+description: Hämtar Meshinstansen från nuvarande entitet.
 type: docs
 weight: 80
 url: /sv/net/aspose.threed.entities/mesh/tomesh/

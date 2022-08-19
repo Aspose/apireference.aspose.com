@@ -1,7 +1,7 @@
 ---
 title: Rational
 second_title: Referencia de API de Aspose.3D para .NET
-description: Obtiene o establece si es racional este valor indica si esteNurbsCurveaspose.threed.entities/nurbscurve es spline racional o spline no racional. B-spline no racional es un caso especial de B-splines racionales.
+description: Obtiene o establece si es racional este valor indica si esteNurbsCurveaspose.threed.entities/nurbscurve es spline racional o spline no racional. Bspline no racional es un caso especial de Bsplines racionales.
 type: docs
 weight: 80
 url: /es/net/aspose.threed.entities/nurbscurve/rational/

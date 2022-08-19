@@ -1,7 +1,7 @@
 ---
 title: MergeMesh
 second_title: Aspose.3D für .NET-API-Referenz
-description: Wandeln Sie eine ganze Szene in ein einzelnes transformiertes Netz um Scheitelpunktelemente wie Normal-/Texturkoordinaten werden noch nicht unterstützt
+description: Wandeln Sie eine ganze Szene in ein einzelnes transformiertes Netz um Scheitelpunktelemente wie Normal/Texturkoordinaten werden noch nicht unterstützt
 type: docs
 weight: 40
 url: /de/net/aspose.threed.entities/polygonmodifier/mergemesh/

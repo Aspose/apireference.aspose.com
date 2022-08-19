@@ -1,7 +1,7 @@
 ---
 title: IRenderQueue
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Entity-Renderer verwendet diese Warteschlange um Renderaufgaben zu verwalten.
+description: Der EntityRenderer verwendet diese Warteschlange um Renderaufgaben zu verwalten.
 type: docs
 weight: 1880
 url: /de/net/aspose.threed.render/irenderqueue/

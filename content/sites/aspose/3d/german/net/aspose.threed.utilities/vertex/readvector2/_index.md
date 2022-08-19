@@ -1,7 +1,7 @@
 ---
 title: ReadVector2
 second_title: Aspose.3D für .NET-API-Referenz
-description: Lesen Sie das Vektor2-Feld
+description: Lesen Sie das Vektor2Feld
 type: docs
 weight: 70
 url: /de/net/aspose.threed.utilities/vertex/readvector2/

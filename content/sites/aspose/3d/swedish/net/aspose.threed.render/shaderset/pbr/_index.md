@@ -1,7 +1,7 @@
 ---
 title: Pbr
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in skuggningen som användes för att rendera PBR-materialet
+description: Hämtar eller ställer in skuggningen som användes för att rendera PBRmaterialet
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.render/shaderset/pbr/

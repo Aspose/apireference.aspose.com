@@ -1,7 +1,7 @@
 ---
 title: ShowRulers
 second_title: Aspose.3D für .NET-API-Referenz
-description: Lineale der x/y/z-Achsen in der Szene anzeigen um das Modell zu messen. Der Standardwert ist false.
+description: Lineale der x/y/zAchsen in der Szene anzeigen um das Modell zu messen. Der Standardwert ist false.
 type: docs
 weight: 90
 url: /de/net/aspose.threed.formats/html5saveoptions/showrulers/

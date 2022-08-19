@@ -1,7 +1,7 @@
 ---
 title: VertexElementSmoothingGroup
 second_title: Aspose.3D für .NET-API-Referenz
-description: Eine Glättungsgruppe ist eine Gruppe von Polygonen in einem Polygonnetz die eine glatte Oberfläche zu bilden scheinen sollten. Einige frühe 3D-Modellierungssoftware wie 3D Studio Max für DOS verwendeten eine Glättungsgruppe um das Speichern von Normalvektoren für jeden Netzscheitelpunkt aufzuheben.
+description: Eine Glättungsgruppe ist eine Gruppe von Polygonen in einem Polygonnetz die eine glatte Oberfläche zu bilden scheinen sollten. Einige frühe 3DModellierungssoftware wie 3D Studio Max für DOS verwendeten eine Glättungsgruppe um das Speichern von Normalvektoren für jeden Netzscheitelpunkt aufzuheben.
 type: docs
 weight: 850
 url: /de/net/aspose.threed.entities/vertexelementsmoothinggroup/

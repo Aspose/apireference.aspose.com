@@ -1,7 +1,7 @@
 ---
 title: LightingScheme
 second_title: Aspose.3D för .NET API-referens
-description: LightingScheme anger belysningen som ska tillämpas på 3D-konstverk.
+description: LightingScheme anger belysningen som ska tillämpas på 3Dkonstverk.
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.formats/pdfsaveoptions/lightingscheme/

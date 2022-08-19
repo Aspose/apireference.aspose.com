@@ -1,7 +1,7 @@
 ---
 title: RenderFactory
 second_title: Aspose.3D für .NET-API-Referenz
-description: RenderFactory erstellt alle Ressourcen die in der Rendering-Pipeline dargestellt werden.
+description: RenderFactory erstellt alle Ressourcen die in der RenderingPipeline dargestellt werden.
 type: docs
 weight: 2040
 url: /de/net/aspose.threed.render/renderfactory/

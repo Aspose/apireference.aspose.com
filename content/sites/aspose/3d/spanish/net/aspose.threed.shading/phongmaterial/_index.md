@@ -1,7 +1,7 @@
 ---
 title: PhongMaterial
 second_title: Referencia de API de Aspose.3D para .NET
-description: Material para modelo de sombreado blinn-phong.
+description: Material para modelo de sombreado blinnphong.
 type: docs
 weight: 2320
 url: /es/net/aspose.threed.shading/phongmaterial/

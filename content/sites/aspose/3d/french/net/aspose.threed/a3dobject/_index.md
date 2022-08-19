@@ -1,7 +1,7 @@
 ---
 title: A3DObject
 second_title: Référence de l'API Aspose.3D pour .NET
-description: La classe de base de tous les objets Aspose.ThreeD toutes les sous-classes prendront en charge les propriétés dynamiques.
+description: La classe de base de tous les objets Aspose.ThreeD toutes les sousclasses prendront en charge les propriétés dynamiques.
 type: docs
 weight: 10
 url: /fr/net/aspose.threed/a3dobject/

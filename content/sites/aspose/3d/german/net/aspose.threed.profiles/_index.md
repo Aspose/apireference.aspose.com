@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Profiles
 second_title: Aspose.3D für .NET-API-Referenz
-description: Alle 2D-Profilklassen sind in diesem Namensraum definiert.
+description: Alle 2DProfilklassen sind in diesem Namensraum definiert.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.profiles/

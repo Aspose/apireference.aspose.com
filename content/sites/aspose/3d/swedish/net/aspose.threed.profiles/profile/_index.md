@@ -1,7 +1,7 @@
 ---
 title: Profile
 second_title: Aspose.3D för .NET API-referens
-description: 2D-profil i xy plane
+description: 2Dprofil i xy plane
 type: docs
 weight: 1610
 url: /sv/net/aspose.threed.profiles/profile/

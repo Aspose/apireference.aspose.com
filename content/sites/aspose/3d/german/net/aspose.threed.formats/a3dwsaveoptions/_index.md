@@ -1,7 +1,7 @@
 ---
 title: A3dwSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen für das A3DW-Format.
+description: Speicheroptionen für das A3DWFormat.
 type: docs
 weight: 1020
 url: /de/net/aspose.threed.formats/a3dwsaveoptions/

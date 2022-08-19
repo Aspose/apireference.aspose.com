@@ -1,7 +1,7 @@
 ---
 title: PatchDirection
 second_title: Aspose.3D för .NET API-referens
-description: Patchs U- och V-riktning.
+description: Patchs U och Vriktning.
 type: docs
 weight: 510
 url: /sv/net/aspose.threed.entities/patchdirection/

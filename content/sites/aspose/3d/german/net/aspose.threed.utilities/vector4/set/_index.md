@@ -1,7 +1,7 @@
 ---
 title: Set
 second_title: Aspose.3D für .NET-API-Referenz
-description: Legt die xyz-Komponenten des Vektors auf einmal fest w wird auf 1 gesetzt
+description: Legt die xyzKomponenten des Vektors auf einmal fest w wird auf 1 gesetzt
 type: docs
 weight: 90
 url: /de/net/aspose.threed.utilities/vector4/set/

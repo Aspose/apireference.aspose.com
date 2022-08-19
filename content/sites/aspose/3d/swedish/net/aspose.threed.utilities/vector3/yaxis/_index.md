@@ -1,7 +1,7 @@
 ---
 title: YAxis
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar Y-axeln.
+description: Hämtar Yaxeln.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.utilities/vector3/yaxis/

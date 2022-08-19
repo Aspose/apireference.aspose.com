@@ -1,7 +1,7 @@
 ---
 title: GenerateUV
 second_title: Aspose.3D für .NET-API-Referenz
-description: UV-Daten aus dem angegebenen Eingabenetz und den angegebenen Normaldaten generieren.
+description: UVDaten aus dem angegebenen Eingabenetz und den angegebenen Normaldaten generieren.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.entities/polygonmodifier/generateuv/

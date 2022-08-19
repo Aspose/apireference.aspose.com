@@ -1,7 +1,7 @@
 ---
 title: U
 second_title: Aspose.3D för .NET API-referens
-description: Får u-riktningen.
+description: Får uriktningen.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.entities/patch/u/

@@ -1,7 +1,7 @@
 ---
 title: AttributeListFile
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Dateinamen der Attributlistendatei ab oder legt ihn fest. Der Exporter generiert einen Namen basierend auf dem .rvm-Dateinamen wenn diese Eigenschaft nicht definiert ist der Standardwert ist null.
+description: Ruft den Dateinamen der Attributlistendatei ab oder legt ihn fest. Der Exporter generiert einen Namen basierend auf dem .rvmDateinamen wenn diese Eigenschaft nicht definiert ist der Standardwert ist null.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/rvmsaveoptions/attributelistfile/

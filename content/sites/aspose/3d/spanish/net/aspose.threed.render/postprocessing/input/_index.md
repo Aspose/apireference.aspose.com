@@ -1,7 +1,7 @@
 ---
 title: Input
 second_title: Referencia de API de Aspose.3D para .NET
-description: Entrada de este post-procesamiento
+description: Entrada de este postprocesamiento
 type: docs
 weight: 10
 url: /es/net/aspose.threed.render/postprocessing/input/

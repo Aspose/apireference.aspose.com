@@ -1,7 +1,7 @@
 ---
 title: FBX7500ASCII
 second_title: Aspose.3D för .NET API-referens
-description: ASCII FBX-filformat med 7.5.0 version
+description: ASCII FBXfilformat med 7.5.0 version
 type: docs
 weight: 150
 url: /sv/net/aspose.threed/fileformat/fbx7500ascii/

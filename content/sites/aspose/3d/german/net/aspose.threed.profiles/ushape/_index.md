@@ -1,7 +1,7 @@
 ---
 title: UShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatible U-Form definiert durch Parameter.
+description: IFCkompatible UForm definiert durch Parameter.
 type: docs
 weight: 1650
 url: /de/net/aspose.threed.profiles/ushape/

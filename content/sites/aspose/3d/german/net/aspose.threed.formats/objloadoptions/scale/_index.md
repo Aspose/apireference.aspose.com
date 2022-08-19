@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.3D für .NET-API-Referenz
-description: Skalierung auf x/y/z-Achse Standardwert ist 10
+description: Skalierung auf x/y/zAchse Standardwert ist 10
 type: docs
 weight: 50
 url: /de/net/aspose.threed.formats/objloadoptions/scale/

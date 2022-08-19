@@ -1,7 +1,7 @@
 ---
 title: IIndexBuffer
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Indexpuffer beschreibt die Geometrie die in der Rendering-Pipeline verwendet wird.
+description: Der Indexpuffer beschreibt die Geometrie die in der RenderingPipeline verwendet wird.
 type: docs
 weight: 1860
 url: /de/net/aspose.threed.render/iindexbuffer/

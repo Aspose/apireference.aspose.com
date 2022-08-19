@@ -1,7 +1,7 @@
 ---
 title: FbxSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen für Fbx-Datei.
+description: Speicheroptionen für FbxDatei.
 type: docs
 weight: 1120
 url: /de/net/aspose.threed.formats/fbxsaveoptions/

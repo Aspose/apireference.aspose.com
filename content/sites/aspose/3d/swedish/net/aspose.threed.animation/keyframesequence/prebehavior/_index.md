@@ -1,7 +1,7 @@
 ---
 title: PreBehavior
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar pre-beteendet indikerar vad det samplade värdet ska vara före den första nyckeln.
+description: Hämtar prebeteendet indikerar vad det samplade värdet ska vara före den första nyckeln.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.animation/keyframesequence/prebehavior/

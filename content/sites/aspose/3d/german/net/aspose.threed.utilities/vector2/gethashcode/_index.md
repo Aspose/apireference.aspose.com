@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Hash-Code von Vector2 ab
+description: Ruft den HashCode von Vector2 ab
 type: docs
 weight: 110
 url: /de/net/aspose.threed.utilities/vector2/gethashcode/

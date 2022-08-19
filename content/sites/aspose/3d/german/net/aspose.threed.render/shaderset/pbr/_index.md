@@ -1,7 +1,7 @@
 ---
 title: Pbr
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Shader ab oder legt ihn fest der zum Rendern des PBR-Materials verwendet wurde
+description: Ruft den Shader ab oder legt ihn fest der zum Rendern des PBRMaterials verwendet wurde
 type: docs
 weight: 40
 url: /de/net/aspose.threed.render/shaderset/pbr/

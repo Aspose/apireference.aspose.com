@@ -1,7 +1,7 @@
 ---
 title: MetallicRoughness
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt die Textur für Metallic im R-Kanal und Rauheit im G-Kanal
+description: Holt oder setzt die Textur für Metallic im RKanal und Rauheit im GKanal
 type: docs
 weight: 70
 url: /de/net/aspose.threed.shading/pbrmaterial/metallicroughness/

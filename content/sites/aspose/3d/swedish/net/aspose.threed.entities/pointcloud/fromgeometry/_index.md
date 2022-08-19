@@ -1,7 +1,7 @@
 ---
 title: FromGeometry
 second_title: Aspose.3D för .NET API-referens
-description: Skapa en ny PointCloud-instans från ett geometriobjekt
+description: Skapa en ny PointCloudinstans från ett geometriobjekt
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.entities/pointcloud/fromgeometry/

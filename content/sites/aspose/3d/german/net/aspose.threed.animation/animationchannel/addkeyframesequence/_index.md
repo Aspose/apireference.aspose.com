@@ -1,7 +1,7 @@
 ---
 title: AddKeyframeSequence
 second_title: Aspose.3D für .NET-API-Referenz
-description: Fügt diesem Kanal eine Keyframe-Sequenz hinzu
+description: Fügt diesem Kanal eine KeyframeSequenz hinzu
 type: docs
 weight: 50
 url: /de/net/aspose.threed.animation/animationchannel/addkeyframesequence/

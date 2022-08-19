@@ -1,7 +1,7 @@
 ---
 title: PbrMaterial
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie eine Standard-PBR-Materialinstanz
+description: Erstellen Sie eine StandardPBRMaterialinstanz
 type: docs
 weight: 10
 url: /de/net/aspose.threed.shading/pbrmaterial/pbrmaterial/

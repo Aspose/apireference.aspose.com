@@ -1,7 +1,7 @@
 ---
 title: Translate
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellt eine Matrix die entlang der x-Achse der y-Achse und der z-Achse verschoben wird
+description: Erstellt eine Matrix die entlang der xAchse der yAchse und der zAchse verschoben wird
 type: docs
 weight: 60
 url: /de/net/aspose.threed.utilities/matrix4/translate/

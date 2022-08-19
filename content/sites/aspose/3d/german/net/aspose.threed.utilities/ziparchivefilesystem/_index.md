@@ -1,7 +1,7 @@
 ---
 title: ZipArchiveFileSystem
 second_title: Aspose.3D für .NET-API-Referenz
-description: Dateisystem um den schreibgeschützten Zugriff auf die angegebene Zip-Datei oder den Zip-Stream bereitzustellen. Das Dateisystem wird nach dem Öffnen/Speichern verworfen.
+description: Dateisystem um den schreibgeschützten Zugriff auf die angegebene ZipDatei oder den ZipStream bereitzustellen. Das Dateisystem wird nach dem Öffnen/Speichern verworfen.
 type: docs
 weight: 2720
 url: /de/net/aspose.threed.utilities/ziparchivefilesystem/

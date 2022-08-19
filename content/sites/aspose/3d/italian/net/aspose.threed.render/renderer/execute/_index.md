@@ -1,7 +1,7 @@
 ---
 title: Execute
 second_title: Riferimento API Aspose.3D per .NET
-description: Esegui una post-elaborazione sulla destinazione di rendering specificata
+description: Esegui una postelaborazione sulla destinazione di rendering specificata
 type: docs
 weight: 180
 url: /it/net/aspose.threed.render/renderer/execute/

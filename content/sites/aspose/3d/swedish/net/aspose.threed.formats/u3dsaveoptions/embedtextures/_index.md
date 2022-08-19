@@ -1,7 +1,7 @@
 ---
 title: EmbedTextures
 second_title: Aspose.3D för .NET API-referens
-description: Bädda in de externa texturerna i U3D-filen standardvärdet är false.
+description: Bädda in de externa texturerna i U3Dfilen standardvärdet är false.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.formats/u3dsaveoptions/embedtextures/

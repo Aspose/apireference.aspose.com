@@ -1,7 +1,7 @@
 ---
 title: AddBinding
 second_title: Aspose.3D für .NET-API-Referenz
-description: Bindet die dynamische Eigenschaft an den Shader-Parameter
+description: Bindet die dynamische Eigenschaft an den ShaderParameter
 type: docs
 weight: 110
 url: /de/net/aspose.threed.shading/shadertechnique/addbinding/

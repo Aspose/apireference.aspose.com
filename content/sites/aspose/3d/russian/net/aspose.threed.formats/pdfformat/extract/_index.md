@@ -1,7 +1,7 @@
 ---
 title: Extract
 second_title: Справочник по Aspose.3D для .NET API
-description: Извлечение необработанного 3D-контента из файла PDF.
+description: Извлечение необработанного 3Dконтента из файла PDF.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/pdfformat/extract/

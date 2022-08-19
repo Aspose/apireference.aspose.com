@@ -1,7 +1,7 @@
 ---
 title: GetKeyframeSequences
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft alle Keyframe-Sequenzen im angegebenen Kanal ab
+description: Ruft alle KeyframeSequenzen im angegebenen Kanal ab
 type: docs
 weight: 100
 url: /de/net/aspose.threed.animation/bindpoint/getkeyframesequences/

@@ -1,7 +1,7 @@
 ---
 title: Tension
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die in TCB-spline verwendete Spannung ab oder legt sie fest
+description: Ruft die in TCBspline verwendete Spannung ab oder legt sie fest
 type: docs
 weight: 130
 url: /de/net/aspose.threed.animation/keyframe/tension/

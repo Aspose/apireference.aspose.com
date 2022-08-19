@@ -1,7 +1,7 @@
 ---
 title: SubScenes
 second_title: Referencia de API de Aspose.3D para .NET
-description: Obtiene todas las sub-escenas
+description: Obtiene todas las subescenas
 type: docs
 weight: 100
 url: /es/net/aspose.threed/scene/subscenes/

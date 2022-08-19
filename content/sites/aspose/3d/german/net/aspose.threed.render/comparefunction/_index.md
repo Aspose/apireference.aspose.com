@@ -1,7 +1,7 @@
 ---
 title: CompareFunction
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die Vergleichsfunktion die beim Tiefen-/Schablonentest verwendet wird.
+description: Die Vergleichsfunktion die beim Tiefen/Schablonentest verwendet wird.
 type: docs
 weight: 1710
 url: /de/net/aspose.threed.render/comparefunction/

@@ -1,7 +1,7 @@
 ---
 title: PostRotation
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Obtient ou définit la post-rotation représentée en degré
+description: Obtient ou définit la postrotation représentée en degré
 type: docs
 weight: 50
 url: /fr/net/aspose.threed/transform/postrotation/

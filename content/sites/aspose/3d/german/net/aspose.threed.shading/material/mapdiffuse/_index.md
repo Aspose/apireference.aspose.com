@@ -1,7 +1,7 @@
 ---
 title: MapDiffuse
 second_title: Aspose.3D für .NET-API-Referenz
-description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein diffuses Textur-Mapping zuzuweisen.
+description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein diffuses TexturMapping zuzuweisen.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.shading/material/mapdiffuse/

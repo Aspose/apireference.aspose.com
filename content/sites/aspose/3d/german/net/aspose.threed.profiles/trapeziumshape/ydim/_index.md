@@ -1,7 +1,7 @@
 ---
 title: YDim
 second_title: Aspose.3D für .NET-API-Referenz
-description: Liest oder setzt den Abstand zwischen der oberen und unteren Linie gemessen entlang der y-Achse.
+description: Liest oder setzt den Abstand zwischen der oberen und unteren Linie gemessen entlang der yAchse.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.profiles/trapeziumshape/ydim/

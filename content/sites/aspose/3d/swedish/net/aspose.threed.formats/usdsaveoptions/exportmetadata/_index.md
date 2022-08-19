@@ -1,7 +1,7 @@
 ---
 title: ExportMetaData
 second_title: Aspose.3D för .NET API-referens
-description: Exportera nodens egenskaper genom USDs customData-fält.
+description: Exportera nodens egenskaper genom USDs customDatafält.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.formats/usdsaveoptions/exportmetadata/

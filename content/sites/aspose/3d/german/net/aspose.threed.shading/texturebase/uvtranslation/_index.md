@@ -1,7 +1,7 @@
 ---
 title: UVTranslation
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die UV-Übersetzung ab oder legt sie fest.
+description: Ruft die UVÜbersetzung ab oder legt sie fest.
 type: docs
 weight: 90
 url: /de/net/aspose.threed.shading/texturebase/uvtranslation/

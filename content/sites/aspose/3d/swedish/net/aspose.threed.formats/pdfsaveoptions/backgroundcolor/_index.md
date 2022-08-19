@@ -1,7 +1,7 @@
 ---
 title: BackgroundColor
 second_title: Aspose.3D för .NET API-referens
-description: Bakgrundsfärg för 3D-vyn i PDF-fil.
+description: Bakgrundsfärg för 3Dvyn i PDFfil.
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.formats/pdfsaveoptions/backgroundcolor/

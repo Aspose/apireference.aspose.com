@@ -1,7 +1,7 @@
 ---
 title: NurbsSurface
 second_title: Справочник по Aspose.3D для .NET API
-description: NurbsSurface./nurbssurface представляет собой поверхность представленнуюNURBS неоднородный рациональный базисный сплайнhttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline АNurbsSurface./nurbssurface определяется двумяNurbsDirection./nurbsdirectionU./nurbssurface/u а такжеV./nurbssurface/v . Компонент w в контрольной точке используется как вес контрольной точки независимо от типа направления.TwoDimensional или жеThreeDimensional
+description: NurbsSurface./nurbssurface представляет собой поверхность представленнуюNURBS неоднородный рациональный базисный сплайнhttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline АNurbsSurface./nurbssurface определяется двумяNurbsDirection./nurbsdirectionU./nurbssurface/u а такжеV./nurbssurface/v . Компонент w в контрольной точке используется как вес контрольной точки независимо от типа направления.TwoDimensional или жеThreeDimensional
 type: docs
 weight: 480
 url: /ru/net/aspose.threed.entities/nurbssurface/

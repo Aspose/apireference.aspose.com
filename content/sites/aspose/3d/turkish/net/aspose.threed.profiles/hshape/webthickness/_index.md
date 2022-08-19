@@ -1,7 +1,7 @@
 ---
 title: WebThickness
 second_title: Aspose.3D for .NET API Referansı
-description: H-şeklinin ağının kalınlığını alır veya ayarlar.
+description: Hşeklinin ağının kalınlığını alır veya ayarlar.
 type: docs
 weight: 110
 url: /tr/net/aspose.threed.profiles/hshape/webthickness/

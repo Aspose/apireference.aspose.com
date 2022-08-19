@@ -1,7 +1,7 @@
 ---
 title: LookAt
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Standard-Look-at-Position ab oder legt sie fest der Standardwert ist 0 0 0
+description: Ruft die StandardLookatPosition ab oder legt sie fest der Standardwert ist 0 0 0
 type: docs
 weight: 50
 url: /de/net/aspose.threed.formats/html5saveoptions/lookat/

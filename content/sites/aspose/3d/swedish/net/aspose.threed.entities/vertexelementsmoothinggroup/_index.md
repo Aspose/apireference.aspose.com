@@ -1,7 +1,7 @@
 ---
 title: VertexElementSmoothingGroup
 second_title: Aspose.3D för .NET API-referens
-description: En utjämningsgrupp är en grupp av polygoner i ett polygonnät som ska verka bilda en slät yta. Vissa tidiga 3d-modelleringsprogram som 3D studio max för DOS använde utjämningsgrupp för att ogiltigförklara lagring av normalvektor för varje nätvertex.
+description: En utjämningsgrupp är en grupp av polygoner i ett polygonnät som ska verka bilda en slät yta. Vissa tidiga 3dmodelleringsprogram som 3D studio max för DOS använde utjämningsgrupp för att ogiltigförklara lagring av normalvektor för varje nätvertex.
 type: docs
 weight: 850
 url: /sv/net/aspose.threed.entities/vertexelementsmoothinggroup/

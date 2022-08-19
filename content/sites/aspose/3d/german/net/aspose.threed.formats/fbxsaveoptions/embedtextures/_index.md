@@ -1,7 +1,7 @@
 ---
 title: EmbedTextures
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft ab oder legt fest ob die Textur in die endgültige Ausgabedatei eingebettet werden soll. FBX Exporter versucht die Rohdaten der Textur zu findenFileSystemaspose.threed.formats/ioconfig/filesystem  und betten Sie die Datei in die endgültige FBX-Datei ein. Der Standardwert ist false.
+description: Ruft ab oder legt fest ob die Textur in die endgültige Ausgabedatei eingebettet werden soll. FBX Exporter versucht die Rohdaten der Textur zu findenFileSystemaspose.threed.formats/ioconfig/filesystem  und betten Sie die Datei in die endgültige FBXDatei ein. Der Standardwert ist false.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/fbxsaveoptions/embedtextures/

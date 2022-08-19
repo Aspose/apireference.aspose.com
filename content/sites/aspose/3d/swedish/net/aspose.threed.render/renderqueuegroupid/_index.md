@@ -1,7 +1,7 @@
 ---
 title: RenderQueueGroupId
 second_title: Aspose.3D för .NET API-referens
-description: Grupp-id för rendering queue
+description: Gruppid för rendering queue
 type: docs
 weight: 2060
 url: /sv/net/aspose.threed.render/renderqueuegroupid/

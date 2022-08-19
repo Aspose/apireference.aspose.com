@@ -1,7 +1,7 @@
 ---
 title: Scroll
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in rullningen av UV-koordinaten.
+description: Hämtar eller ställer in rullningen av UVkoordinaten.
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.render/itextureunit/scroll/

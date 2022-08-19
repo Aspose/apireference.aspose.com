@@ -1,7 +1,7 @@
 ---
 title: Center
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Si cette valeur est fausse la plage Z de lextrusion linéaire est de 0 à hauteur sinon la plage est de -hauteur/2 à hauteur/2.
+description: Si cette valeur est fausse la plage Z de lextrusion linéaire est de 0 à hauteur sinon la plage est de hauteur/2 à hauteur/2.
 type: docs
 weight: 20
 url: /fr/net/aspose.threed.entities/linearextrusion/center/

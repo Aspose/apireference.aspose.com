@@ -1,7 +1,7 @@
 ---
 title: NurbsSurface
 second_title: Aspose.3D لمرجع .NET API
-description: NurbsSurface./nurbssurface هو سطح يمثلهNURBS خدد أساس عقلاني غير موحدhttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline أNurbsSurface./nurbssurface يتم تعريفه من قبل اثنينNurbsDirection./nurbsdirectionU./nurbssurface/u وV./nurbssurface/v . يتم استخدام المكون w في نقطة التحكم كوزن لنقطة التحكم بغض النظر عن نوع الاتجاهTwoDimensional أوThreeDimensional
+description: NurbsSurface./nurbssurface هو سطح يمثلهNURBS خدد أساس عقلاني غير موحدhttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline أNurbsSurface./nurbssurface يتم تعريفه من قبل اثنينNurbsDirection./nurbsdirectionU./nurbssurface/u وV./nurbssurface/v . يتم استخدام المكون w في نقطة التحكم كوزن لنقطة التحكم بغض النظر عن نوع الاتجاهTwoDimensional أوThreeDimensional
 type: docs
 weight: 480
 url: /ar/net/aspose.threed.entities/nurbssurface/

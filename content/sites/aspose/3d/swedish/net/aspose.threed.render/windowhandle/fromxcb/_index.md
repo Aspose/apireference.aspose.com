@@ -1,7 +1,7 @@
 ---
 title: FromXcb
 second_title: Aspose.3D för .NET API-referens
-description: SkapaWindowHandleaspose.threed.render/windowhandle från en XCB-yta.
+description: SkapaWindowHandleaspose.threed.render/windowhandle från en XCByta.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.render/windowhandle/fromxcb/

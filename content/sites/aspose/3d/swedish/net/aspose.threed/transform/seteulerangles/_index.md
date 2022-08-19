@@ -1,7 +1,7 @@
 ---
 title: SetEulerAngles
 second_title: Aspose.3D för .NET API-referens
-description: Ställer in Euler-vinklarna i grader av strömtransform.
+description: Ställer in Eulervinklarna i grader av strömtransform.
 type: docs
 weight: 110
 url: /sv/net/aspose.threed/transform/seteulerangles/

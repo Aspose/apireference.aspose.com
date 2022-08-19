@@ -1,7 +1,7 @@
 ---
 title: Mesh
 second_title: Aspose.3D för .NET API-referens
-description: Ett nät består av många n-sidiga polygoner.
+description: Ett nät består av många nsidiga polygoner.
 type: docs
 weight: 450
 url: /sv/net/aspose.threed.entities/mesh/

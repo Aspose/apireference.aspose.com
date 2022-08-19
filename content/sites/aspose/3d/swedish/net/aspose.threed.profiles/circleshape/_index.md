@@ -1,7 +1,7 @@
 ---
 title: CircleShape
 second_title: Aspose.3D för .NET API-referens
-description: IFC-kompatibel cirkelprofil som kan användas för att konstruera ett nät genomLinearExtrusion../aspose.threed.entities/linearextrusion
+description: IFCkompatibel cirkelprofil som kan användas för att konstruera ett nät genomLinearExtrusion../aspose.threed.entities/linearextrusion
 type: docs
 weight: 1530
 url: /sv/net/aspose.threed.profiles/circleshape/

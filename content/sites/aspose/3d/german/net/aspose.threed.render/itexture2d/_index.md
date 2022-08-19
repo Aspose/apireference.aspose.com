@@ -1,7 +1,7 @@
 ---
 title: ITexture2D
 second_title: Aspose.3D für .NET-API-Referenz
-description: 2D-Textur
+description: 2DTextur
 type: docs
 weight: 1930
 url: /de/net/aspose.threed.render/itexture2d/

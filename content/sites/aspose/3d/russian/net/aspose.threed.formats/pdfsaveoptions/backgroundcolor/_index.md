@@ -1,7 +1,7 @@
 ---
 title: BackgroundColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Цвет фона 3D-вида в файле PDF.
+description: Цвет фона 3Dвида в файле PDF.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.formats/pdfsaveoptions/backgroundcolor/

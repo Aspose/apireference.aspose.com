@@ -1,7 +1,7 @@
 ---
 title: w
 second_title: Aspose.3D för .NET API-referens
-description: W-komponenten.
+description: Wkomponenten.
 type: docs
 weight: 80
 url: /sv/net/aspose.threed.utilities/quaternion/w/

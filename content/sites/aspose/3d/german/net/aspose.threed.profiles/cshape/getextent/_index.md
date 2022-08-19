@@ -1,7 +1,7 @@
 ---
 title: GetExtent
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Ausdehnung in x- und y-Dimension ab.
+description: Ruft die Ausdehnung in x und yDimension ab.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.profiles/cshape/getextent/

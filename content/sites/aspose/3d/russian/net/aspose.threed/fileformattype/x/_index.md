@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Справочник по Aspose.3D для .NET API
-description: X-файл DirectX
+description: Xфайл DirectX
 type: docs
 weight: 220
 url: /ru/net/aspose.threed/fileformattype/x/

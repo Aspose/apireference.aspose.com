@@ -1,7 +1,7 @@
 ---
 title: NurbsSurface
 second_title: Riferimento API Aspose.3D per .NET
-description: NurbsSurface./nurbssurface è una superficie rappresentata daNURBS spline di base razionale non uniformehttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline ANurbsSurface./nurbssurface è definito da dueNurbsDirection./nurbsdirectionU./nurbssurface/u eV./nurbssurface/v . Il componente w nel punto di controllo viene utilizzato come peso del punto di controllo qualunque sia il tipo di direzione aTwoDimensional oThreeDimensional
+description: NurbsSurface./nurbssurface è una superficie rappresentata daNURBS spline di base razionale non uniformehttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline ANurbsSurface./nurbssurface è definito da dueNurbsDirection./nurbsdirectionU./nurbssurface/u eV./nurbssurface/v . Il componente w nel punto di controllo viene utilizzato come peso del punto di controllo qualunque sia il tipo di direzione aTwoDimensional oThreeDimensional
 type: docs
 weight: 480
 url: /it/net/aspose.threed.entities/nurbssurface/

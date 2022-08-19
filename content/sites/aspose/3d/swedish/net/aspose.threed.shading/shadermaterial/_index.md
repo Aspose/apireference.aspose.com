@@ -1,7 +1,7 @@
 ---
 title: ShaderMaterial
 second_title: Aspose.3D för .NET API-referens
-description: Ett shader-material gör det möjligt att beskriva materialet med extern renderingsmotor eller shader-språk. ShaderMaterial./shadermaterial använderShaderTechnique./shadertechniqueför att beskriva de konkreta renderingsdetaljerna kommer och den mest lämpliga att användas enligt den slutliga renderingsplattformen. Till exempel dinShaderMaterial./shadermaterial instans kan ha två tekniker en definieras av HLSL och en annan definieras av GLSL Under icke-fönsterplattform ska GLSL användas istället för HLSL
+description: Ett shadermaterial gör det möjligt att beskriva materialet med extern renderingsmotor eller shaderspråk. ShaderMaterial./shadermaterial använderShaderTechnique./shadertechniqueför att beskriva de konkreta renderingsdetaljerna kommer och den mest lämpliga att användas enligt den slutliga renderingsplattformen. Till exempel dinShaderMaterial./shadermaterial instans kan ha två tekniker en definieras av HLSL och en annan definieras av GLSL Under ickefönsterplattform ska GLSL användas istället för HLSL
 type: docs
 weight: 2330
 url: /sv/net/aspose.threed.shading/shadermaterial/

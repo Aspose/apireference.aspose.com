@@ -1,7 +1,7 @@
 ---
 title: PhiStart
 second_title: Aspose.3D för .NET API-referens
-description: Får eller ställer in phi-starten.
+description: Får eller ställer in phistarten.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.entities/sphere/phistart/

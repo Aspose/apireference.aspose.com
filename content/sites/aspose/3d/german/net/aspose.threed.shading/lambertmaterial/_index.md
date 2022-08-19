@@ -1,7 +1,7 @@
 ---
 title: LambertMaterial
 second_title: Aspose.3D für .NET-API-Referenz
-description: Material für Lambert-Schattierungsmodell
+description: Material für LambertSchattierungsmodell
 type: docs
 weight: 2280
 url: /de/net/aspose.threed.shading/lambertmaterial/

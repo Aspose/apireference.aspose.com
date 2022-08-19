@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Aspose.3D لمرجع .NET API
-description: مُنشئ مصادر تظليل SPIR-V .
+description: مُنشئ مصادر تظليل SPIRV .
 type: docs
 weight: 10
 url: /ar/net/aspose.threed.render/spirvsource/spirvsource/

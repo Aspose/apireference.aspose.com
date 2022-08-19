@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Hash-Code von Quaternion ab
+description: Ruft den HashCode von Quaternion ab
 type: docs
 weight: 170
 url: /de/net/aspose.threed.utilities/quaternion/gethashcode/

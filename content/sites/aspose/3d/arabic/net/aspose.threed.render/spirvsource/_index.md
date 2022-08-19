@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Aspose.3D لمرجع .NET API
-description: التظليل المترجم بتنسيق SPIR-V .
+description: التظليل المترجم بتنسيق SPIRV .
 type: docs
 weight: 2120
 url: /ar/net/aspose.threed.render/spirvsource/

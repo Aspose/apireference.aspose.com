@@ -1,7 +1,7 @@
 ---
 title: YDim
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in avståndet mellan de övre och nedre linjerna mätt längs y-axeln.
+description: Hämtar eller ställer in avståndet mellan de övre och nedre linjerna mätt längs yaxeln.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.profiles/trapeziumshape/ydim/

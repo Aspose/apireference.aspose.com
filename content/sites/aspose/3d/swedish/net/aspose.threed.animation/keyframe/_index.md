@@ -1,7 +1,7 @@
 ---
 title: KeyFrame
 second_title: Aspose.3D för .NET API-referens
-description: En nyckelram definieras huvudsakligen av en tid och ett värde för vissa interpolationstyper används tangent/spänning/bias/kontinuitet också för att beräkna det slutliga samplade värdet. Samplade värden i en icke-nyckelbilds tidsposition interpoleras efter nyckelbildrutor mellan föregående och nästa nyckelbildruta Värdet före/efter den första/sista nyckelbildrutan beräknas avExtrapolation./extrapolation class.
+description: En nyckelram definieras huvudsakligen av en tid och ett värde för vissa interpolationstyper används tangent/spänning/bias/kontinuitet också för att beräkna det slutliga samplade värdet. Samplade värden i en ickenyckelbilds tidsposition interpoleras efter nyckelbildrutor mellan föregående och nästa nyckelbildruta Värdet före/efter den första/sista nyckelbildrutan beräknas avExtrapolation./extrapolation class.
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.animation/keyframe/

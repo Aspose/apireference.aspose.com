@@ -1,7 +1,7 @@
 ---
 title: SetScale
 second_title: Aspose.3D für .NET-API-Referenz
-description: Legt die UV-Skala fest.
+description: Legt die UVSkala fest.
 type: docs
 weight: 140
 url: /de/net/aspose.threed.shading/texturebase/setscale/

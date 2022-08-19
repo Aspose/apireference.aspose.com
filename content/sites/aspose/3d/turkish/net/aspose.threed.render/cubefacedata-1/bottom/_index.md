@@ -1,7 +1,7 @@
 ---
 title: Bottom
 second_title: Aspose.3D for .NET API Referansı
-description: -YBottom face için verileri alır veya ayarlar
+description: YBottom face için verileri alır veya ayarlar
 type: docs
 weight: 20
 url: /tr/net/aspose.threed.render/cubefacedata-1/bottom/

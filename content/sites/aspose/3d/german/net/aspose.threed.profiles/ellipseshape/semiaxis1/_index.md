@@ -1,7 +1,7 @@
 ---
 title: SemiAxis1
 second_title: Aspose.3D für .NET-API-Referenz
-description: Liest oder setzt den ersten Radius der Ellipse gemessen in Richtung der x-Achse.
+description: Liest oder setzt den ersten Radius der Ellipse gemessen in Richtung der xAchse.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.profiles/ellipseshape/semiaxis1/

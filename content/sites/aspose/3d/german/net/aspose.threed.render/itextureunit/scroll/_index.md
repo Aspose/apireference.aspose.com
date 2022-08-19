@@ -1,7 +1,7 @@
 ---
 title: Scroll
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt den Scroll der UV-Koordinate.
+description: Holt oder setzt den Scroll der UVKoordinate.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.render/itextureunit/scroll/

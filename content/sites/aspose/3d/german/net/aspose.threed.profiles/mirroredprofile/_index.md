@@ -1,7 +1,7 @@
 ---
 title: MirroredProfile
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatibles Spiegelprofil. Dieses Profil definiert ein neues Profil durch Spiegeln des Basisprofils um die y-Achse.
+description: IFCkompatibles Spiegelprofil. Dieses Profil definiert ein neues Profil durch Spiegeln des Basisprofils um die yAchse.
 type: docs
 weight: 1590
 url: /de/net/aspose.threed.profiles/mirroredprofile/

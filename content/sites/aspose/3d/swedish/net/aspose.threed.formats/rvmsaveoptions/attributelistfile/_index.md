@@ -1,7 +1,7 @@
 ---
 title: AttributeListFile
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in filnamnet för attributlistfilen exportören genererar ett namn baserat på .rvm-filnamnet när den här egenskapen är odefinierad standardvärdet är null.
+description: Hämtar eller ställer in filnamnet för attributlistfilen exportören genererar ett namn baserat på .rvmfilnamnet när den här egenskapen är odefinierad standardvärdet är null.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.formats/rvmsaveoptions/attributelistfile/

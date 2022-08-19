@@ -1,7 +1,7 @@
 ---
 title: MapSpecularGlossiness
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die Textur-Map für Spiegelglanz
+description: Die TexturMap für Spiegelglanz
 type: docs
 weight: 110
 url: /de/net/aspose.threed.shading/pbrspecularmaterial/mapspecularglossiness/

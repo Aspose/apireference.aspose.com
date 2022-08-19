@@ -1,7 +1,7 @@
 ---
 title: Rational
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in om det är rationellt detta värde indikerar om dettaNurbsCurveaspose.threed.entities/nurbscurve är rationell spline eller icke-rationell spline. Icke-rationell B-spline är ett specialfall av rationell B-splines.
+description: Hämtar eller ställer in om det är rationellt detta värde indikerar om dettaNurbsCurveaspose.threed.entities/nurbscurve är rationell spline eller ickerationell spline. Ickerationell Bspline är ett specialfall av rationell Bsplines.
 type: docs
 weight: 80
 url: /sv/net/aspose.threed.entities/nurbscurve/rational/

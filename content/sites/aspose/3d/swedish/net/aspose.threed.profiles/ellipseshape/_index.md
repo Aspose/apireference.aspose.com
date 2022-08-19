@@ -1,7 +1,7 @@
 ---
 title: EllipseShape
 second_title: Aspose.3D för .NET API-referens
-description: IFC-kompatibel ellipsform som definieras av parametrar. Profilens mittposition är i mitten av begränsningsrutan.
+description: IFCkompatibel ellipsform som definieras av parametrar. Profilens mittposition är i mitten av begränsningsrutan.
 type: docs
 weight: 1540
 url: /sv/net/aspose.threed.profiles/ellipseshape/

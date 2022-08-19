@@ -1,7 +1,7 @@
 ---
 title: Scene
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Une scène est un objet de niveau supérieur qui contient les nœuds les géométries les matériaux les textures lanimation les poses les sous-scènes etc. La scène peut avoir des sous-scènes agit comme un support de plusieurs documents dans des fichiers comme collada/blender /fbx La hiérarchie des nœuds est accessible viaRootNode./scene/rootnodeLibrary./scene/library est utilisé pour conserver une référence dobjets non attachés pendant la sérialisation comme les métadonnées ou les objets personnalisés afin quil puisse être utilisé comme bibliothèque.
+description: Une scène est un objet de niveau supérieur qui contient les nœuds les géométries les matériaux les textures lanimation les poses les sousscènes etc. La scène peut avoir des sousscènes agit comme un support de plusieurs documents dans des fichiers comme collada/blender /fbx La hiérarchie des nœuds est accessible viaRootNode./scene/rootnodeLibrary./scene/library est utilisé pour conserver une référence dobjets non attachés pendant la sérialisation comme les métadonnées ou les objets personnalisés afin quil puisse être utilisé comme bibliothèque.
 type: docs
 weight: 2250
 url: /fr/net/aspose.threed/scene/

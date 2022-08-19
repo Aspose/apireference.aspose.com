@@ -1,7 +1,7 @@
 ---
 title: FallbackNormal
 second_title: Aspose.3D för .NET API-referens
-description: När GLTF2-exportören upptäckte en ogiltig normal kommer detta att användas istället för dess ursprungliga värde för att kringgå valideringen. Standardvärdet är 0 1 0
+description: När GLTF2exportören upptäckte en ogiltig normal kommer detta att användas istället för dess ursprungliga värde för att kringgå valideringen. Standardvärdet är 0 1 0
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.formats/gltfsaveoptions/fallbacknormal/

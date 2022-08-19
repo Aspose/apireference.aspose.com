@@ -1,7 +1,7 @@
 ---
 title: YAxis
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Y-Achse ab.
+description: Ruft die YAchse ab.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.utilities/vector3/yaxis/

@@ -1,7 +1,7 @@
 ---
 title: EmbedTextures
 second_title: Aspose.3D für .NET-API-Referenz
-description: Betten Sie die externen Texturen in die U3D-Datei ein der Standardwert ist false.
+description: Betten Sie die externen Texturen in die U3DDatei ein der Standardwert ist false.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/u3dsaveoptions/embedtextures/

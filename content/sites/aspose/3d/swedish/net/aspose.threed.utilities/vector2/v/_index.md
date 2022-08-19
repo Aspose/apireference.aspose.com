@@ -1,7 +1,7 @@
 ---
 title: V
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in V-komponenten omVector2aspose.threed.utilities/vector2används som en mappningskoordinat. Det är ett alias för y-komponenten.
+description: Hämtar eller ställer in Vkomponenten omVector2aspose.threed.utilities/vector2används som en mappningskoordinat. Det är ett alias för ykomponenten.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.utilities/vector2/v/

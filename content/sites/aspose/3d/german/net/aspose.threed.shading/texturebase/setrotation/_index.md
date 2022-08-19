@@ -1,7 +1,7 @@
 ---
 title: SetRotation
 second_title: Aspose.3D für .NET-API-Referenz
-description: Legt die UV-Rotation fest.
+description: Legt die UVRotation fest.
 type: docs
 weight: 130
 url: /de/net/aspose.threed.shading/texturebase/setrotation/

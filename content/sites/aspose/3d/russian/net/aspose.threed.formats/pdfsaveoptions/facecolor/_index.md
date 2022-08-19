@@ -1,7 +1,7 @@
 ---
 title: FaceColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает цвет лица который будет использоваться при рендеринге 3D-содержимого. Это имеет значение только тогда когдаRenderModeaspose.threed.formats/pdfsaveoptions/rendermode имеет значение Illustration.
+description: Получает или задает цвет лица который будет использоваться при рендеринге 3Dсодержимого. Это имеет значение только тогда когдаRenderModeaspose.threed.formats/pdfsaveoptions/rendermode имеет значение Illustration.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.formats/pdfsaveoptions/facecolor/

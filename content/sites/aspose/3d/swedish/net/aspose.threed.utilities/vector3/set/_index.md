@@ -1,7 +1,7 @@
 ---
 title: Set
 second_title: Aspose.3D för .NET API-referens
-description: Ställer in x/y/z-komponenten i ett anrop.
+description: Ställer in x/y/zkomponenten i ett anrop.
 type: docs
 weight: 200
 url: /sv/net/aspose.threed.utilities/vector3/set/

@@ -1,7 +1,7 @@
 ---
 title: ZipArchiveFileSystem
 second_title: Aspose.3D för .NET API-referens
-description: Filsystem för att ge skrivskyddad åtkomst till specificerad zip-fil eller zip-ström. Filsystemet kommer att kasseras efter öppna/spara-operationen.
+description: Filsystem för att ge skrivskyddad åtkomst till specificerad zipfil eller zipström. Filsystemet kommer att kasseras efter öppna/sparaoperationen.
 type: docs
 weight: 2720
 url: /sv/net/aspose.threed.utilities/ziparchivefilesystem/

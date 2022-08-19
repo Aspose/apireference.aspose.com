@@ -1,7 +1,7 @@
 ---
 title: Write16bIndicesTo
 second_title: Aspose.3D för .NET API-referens
-description: Skriv indexdata som 16-bitars heltal till stream
+description: Skriv indexdata som 16bitars heltal till stream
 type: docs
 weight: 260
 url: /sv/net/aspose.threed.entities/trimesh/write16bindicesto/

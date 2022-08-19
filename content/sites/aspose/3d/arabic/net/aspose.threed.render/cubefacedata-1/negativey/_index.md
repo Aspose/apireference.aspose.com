@@ -1,7 +1,7 @@
 ---
 title: NegativeY
 second_title: Aspose.3D لمرجع .NET API
-description: الحصول على البيانات أو تعيينها لـ -Y أسفل face
+description: الحصول على البيانات أو تعيينها لـ Y أسفل face
 type: docs
 weight: 70
 url: /ar/net/aspose.threed.render/cubefacedata-1/negativey/

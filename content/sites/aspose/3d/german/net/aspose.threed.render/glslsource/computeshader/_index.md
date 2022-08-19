@@ -1,7 +1,7 @@
 ---
 title: ComputeShader
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Quellcode des Compute-Shaders ab oder legt ihn fest.
+description: Ruft den Quellcode des ComputeShaders ab oder legt ihn fest.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.render/glslsource/computeshader/

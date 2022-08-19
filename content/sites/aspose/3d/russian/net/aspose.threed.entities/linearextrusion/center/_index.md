@@ -1,7 +1,7 @@
 ---
 title: Center
 second_title: Справочник по Aspose.3D для .NET API
-description: Если это значение ложно диапазон Z линейного выдавливания составляет от 0 до высоты в противном случае диапазон составляет от -height/2 до высоты/2.
+description: Если это значение ложно диапазон Z линейного выдавливания составляет от 0 до высоты в противном случае диапазон составляет от height/2 до высоты/2.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/linearextrusion/center/

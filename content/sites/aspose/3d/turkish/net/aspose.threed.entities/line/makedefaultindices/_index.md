@@ -1,7 +1,7 @@
 ---
 title: MakeDefaultIndices
 second_title: Aspose.3D for .NET API Referansı
-description: 0123... dizisini oluşturun.ControlPointsaspose.threed.entities/geometry/controlpoints .Uzunluk-1 ilaSegmentsaspose.threed.entities/line/segments böylece ControlPointler tek bir satır olarak kullanılabilir
+description: 0123... dizisini oluşturun.ControlPointsaspose.threed.entities/geometry/controlpoints .Uzunluk1 ilaSegmentsaspose.threed.entities/line/segments böylece ControlPointler tek bir satır olarak kullanılabilir
 type: docs
 weight: 60
 url: /tr/net/aspose.threed.entities/line/makedefaultindices/

@@ -1,7 +1,7 @@
 ---
 title: Pcd
 second_title: Aspose.3D för .NET API-referens
-description: PCL Point Cloud Datafil i ASCII-läge
+description: PCL Point Cloud Datafil i ASCIIläge
 type: docs
 weight: 270
 url: /sv/net/aspose.threed/fileformat/pcd/

@@ -1,7 +1,7 @@
 ---
 title: PhongMaterial
 second_title: Aspose.3D لمرجع .NET API
-description: مادة لنموذج التظليل blinn-phong .
+description: مادة لنموذج التظليل blinnphong .
 type: docs
 weight: 2320
 url: /ar/net/aspose.threed.shading/phongmaterial/

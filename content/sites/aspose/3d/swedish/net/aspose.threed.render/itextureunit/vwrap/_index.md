@@ -1,7 +1,7 @@
 ---
 title: VWrap
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in lindningsläget för texturens V-koordinat.
+description: Hämtar eller ställer in lindningsläget för texturens Vkoordinat.
 type: docs
 weight: 100
 url: /sv/net/aspose.threed.render/itextureunit/vwrap/

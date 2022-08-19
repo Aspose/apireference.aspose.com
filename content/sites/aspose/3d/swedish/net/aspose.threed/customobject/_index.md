@@ -1,7 +1,7 @@
 ---
 title: CustomObject
 second_title: Aspose.3D för .NET API-referens
-description: Metadata eller anpassade objekt som används i 3D-filer hanteras av denna klass. Alla anpassade egenskaper sparas som dynamiska egenskaper.
+description: Metadata eller anpassade objekt som används i 3Dfiler hanteras av denna klass. Alla anpassade egenskaper sparas som dynamiska egenskaper.
 type: docs
 weight: 170
 url: /sv/net/aspose.threed/customobject/

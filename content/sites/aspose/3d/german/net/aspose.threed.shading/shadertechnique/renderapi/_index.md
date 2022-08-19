@@ -1,7 +1,7 @@
 ---
 title: RenderAPI
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die von dieser Technik verwendete Rendering-API ab oder legt sie fest
+description: Ruft die von dieser Technik verwendete RenderingAPI ab oder legt sie fest
 type: docs
 weight: 30
 url: /de/net/aspose.threed.shading/shadertechnique/renderapi/

@@ -1,7 +1,7 @@
 ---
 title: AlphaSource
 second_title: Справочник по Aspose.3D для .NET API
-description: Определяет содержит ли текстура альфа-канал.
+description: Определяет содержит ли текстура альфаканал.
 type: docs
 weight: 2270
 url: /ru/net/aspose.threed.shading/alphasource/

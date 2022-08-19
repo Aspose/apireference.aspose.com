@@ -1,7 +1,7 @@
 ---
 title: GetBoundingBox
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Begrenzungsrahmen des aktuellen Objekts in seinem Objektraum-Koordinatensystem ab.
+description: Ruft den Begrenzungsrahmen des aktuellen Objekts in seinem ObjektraumKoordinatensystem ab.
 type: docs
 weight: 50
 url: /de/net/aspose.threed/entity/getboundingbox/

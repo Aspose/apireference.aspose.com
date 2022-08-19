@@ -1,7 +1,7 @@
 ---
 title: MemoryFileSystem
 second_title: Aspose.3D für .NET-API-Referenz
-description: DieMemoryFileSystem./memoryfilesystemordnet die Lese-/Schreiboperationen dem Speicher zu.
+description: DieMemoryFileSystem./memoryfilesystemordnet die Lese/Schreiboperationen dem Speicher zu.
 type: docs
 weight: 2570
 url: /de/net/aspose.threed.utilities/memoryfilesystem/

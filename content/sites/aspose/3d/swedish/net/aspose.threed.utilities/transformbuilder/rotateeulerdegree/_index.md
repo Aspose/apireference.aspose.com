@@ -1,7 +1,7 @@
 ---
 title: RotateEulerDegree
 second_title: Aspose.3D för .NET API-referens
-description: Kedja en rotation med Euler-vinklar i grader
+description: Kedja en rotation med Eulervinklar i grader
 type: docs
 weight: 110
 url: /sv/net/aspose.threed.utilities/transformbuilder/rotateeulerdegree/

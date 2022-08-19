@@ -1,7 +1,7 @@
 ---
 title: MapEmissive
 second_title: Aspose.3D für .NET-API-Referenz
-description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein emittierendes Textur-Mapping zuzuweisen.
+description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein emittierendes TexturMapping zuzuweisen.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.shading/material/mapemissive/

@@ -1,7 +1,7 @@
 ---
 title: Write16bIndicesTo
 second_title: Справочник по Aspose.3D для .NET API
-description: Записать данные индексов в виде 16-битного целого числа в поток
+description: Записать данные индексов в виде 16битного целого числа в поток
 type: docs
 weight: 260
 url: /ru/net/aspose.threed.entities/trimesh/write16bindicesto/

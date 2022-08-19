@@ -1,7 +1,7 @@
 ---
 title: Library
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Les objets qui ne sont pas directement utilisés dans la hiérarchie des scènes peuvent être définis dans la bibliothèque. Ceci est utile lorsque vous utilisez des sous-scènes et placez des composants réutilisables sous les sous-scènes.
+description: Les objets qui ne sont pas directement utilisés dans la hiérarchie des scènes peuvent être définis dans la bibliothèque. Ceci est utile lorsque vous utilisez des sousscènes et placez des composants réutilisables sous les sousscènes.
 type: docs
 weight: 70
 url: /fr/net/aspose.threed/scene/library/

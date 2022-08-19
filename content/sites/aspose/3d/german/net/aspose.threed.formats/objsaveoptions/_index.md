@@ -1,7 +1,7 @@
 ---
 title: ObjSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen für Wavefront-Obj-Datei
+description: Speicheroptionen für WavefrontObjDatei
 type: docs
 weight: 1220
 url: /de/net/aspose.threed.formats/objsaveoptions/

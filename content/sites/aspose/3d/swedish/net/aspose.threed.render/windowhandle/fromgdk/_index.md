@@ -1,7 +1,7 @@
 ---
 title: FromGdk
 second_title: Aspose.3D för .NET API-referens
-description: GdkWindow-instansen
+description: GdkWindowinstansen
 type: docs
 weight: 10
 url: /sv/net/aspose.threed.render/windowhandle/fromgdk/

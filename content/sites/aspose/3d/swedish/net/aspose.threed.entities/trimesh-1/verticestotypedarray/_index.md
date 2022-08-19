@@ -1,7 +1,7 @@
 ---
 title: VerticesToTypedArray
 second_title: Aspose.3D för .NET API-referens
-description: Konvertera vertices-data till maskinskriven array
+description: Konvertera verticesdata till maskinskriven array
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.entities/trimesh-1/verticestotypedarray/

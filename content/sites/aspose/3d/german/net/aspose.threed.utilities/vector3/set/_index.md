@@ -1,7 +1,7 @@
 ---
 title: Set
 second_title: Aspose.3D für .NET-API-Referenz
-description: Setzt die x/y/z-Komponente in einem Aufruf.
+description: Setzt die x/y/zKomponente in einem Aufruf.
 type: docs
 weight: 200
 url: /de/net/aspose.threed.utilities/vector3/set/

@@ -1,7 +1,7 @@
 ---
 title: Front
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для -ZПередняя face
+description: Получает или задает данные для ZПередняя face
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.render/cubefacedata-1/front/

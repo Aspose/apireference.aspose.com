@@ -1,7 +1,7 @@
 ---
 title: RecalculateNormal
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ignorieren Sie die normalen Daten die in der STL-Datei gespeichert sind und berechnen Sie die normalen Daten basierend auf der Scheitelpunktposition neu. Der Standardwert ist falsch
+description: Ignorieren Sie die normalen Daten die in der STLDatei gespeichert sind und berechnen Sie die normalen Daten basierend auf der Scheitelpunktposition neu. Der Standardwert ist falsch
 type: docs
 weight: 30
 url: /de/net/aspose.threed.formats/stlloadoptions/recalculatenormal/

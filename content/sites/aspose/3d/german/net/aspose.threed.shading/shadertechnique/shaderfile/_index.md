@@ -1,7 +1,7 @@
 ---
 title: ShaderFile
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Dateinamen der externen Shader-Datei ab oder legt ihn fest.
+description: Ruft den Dateinamen der externen ShaderDatei ab oder legt ihn fest.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.shading/shadertechnique/shaderfile/

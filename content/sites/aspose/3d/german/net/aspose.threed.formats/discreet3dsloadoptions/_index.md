@@ -1,7 +1,7 @@
 ---
 title: Discreet3dsLoadOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ladeoptionen für 3DS-Datei.
+description: Ladeoptionen für 3DSDatei.
 type: docs
 weight: 1060
 url: /de/net/aspose.threed.formats/discreet3dsloadoptions/

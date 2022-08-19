@@ -1,7 +1,7 @@
 ---
 title: MeshCompression
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in om mesh-datakomprimering ska aktiveras.
+description: Hämtar eller ställer in om meshdatakomprimering ska aktiveras.
 type: docs
 weight: 80
 url: /sv/net/aspose.threed.formats/u3dsaveoptions/meshcompression/

@@ -1,7 +1,7 @@
 ---
 title: SubAnimations
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Obtient les nœuds de sous-animation sous les animations actuelles
+description: Obtient les nœuds de sousanimation sous les animations actuelles
 type: docs
 weight: 30
 url: /fr/net/aspose.threed.animation/animationnode/subanimations/

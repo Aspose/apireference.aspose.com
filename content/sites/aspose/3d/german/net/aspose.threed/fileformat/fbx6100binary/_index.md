@@ -1,7 +1,7 @@
 ---
 title: FBX6100Binary
 second_title: Aspose.3D für .NET-API-Referenz
-description: Binäres FBX-Dateiformat mit Version 6.1.0
+description: Binäres FBXDateiformat mit Version 6.1.0
 type: docs
 weight: 80
 url: /de/net/aspose.threed/fileformat/fbx6100binary/

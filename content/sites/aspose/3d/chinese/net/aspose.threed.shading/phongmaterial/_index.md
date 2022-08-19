@@ -1,7 +1,7 @@
 ---
 title: PhongMaterial
 second_title: Aspose.3D for .NET API 参考
-description: blinn-phong 着色模型的材质
+description: blinnphong 着色模型的材质
 type: docs
 weight: 2320
 url: /zh/net/aspose.threed.shading/phongmaterial/

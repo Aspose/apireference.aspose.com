@@ -1,7 +1,7 @@
 ---
 title: DracoCompressionLevel
 second_title: Aspose.3D für .NET-API-Referenz
-description: Komprimierungsstufe für Draco-Datei
+description: Komprimierungsstufe für DracoDatei
 type: docs
 weight: 1080
 url: /de/net/aspose.threed.formats/dracocompressionlevel/

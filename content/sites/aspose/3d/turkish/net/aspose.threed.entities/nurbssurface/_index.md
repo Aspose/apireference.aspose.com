@@ -1,7 +1,7 @@
 ---
 title: NurbsSurface
 second_title: Aspose.3D for .NET API Referansı
-description: NurbsSurface./nurbssurface ile temsil edilen bir yüzeydirNURBSTekdüze olmayan rasyonel temel splinehttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline ANurbsSurface./nurbssurface iki ile tanımlanırNurbsDirection./nurbsdirectionU./nurbssurface/u veV./nurbssurface/v . Yönün türü ne olursa olsun kontrol noktasındaki w bileşeni kontrol noktasının ağırlığı olarak kullanılır.TwoDimensional veyaThreeDimensional
+description: NurbsSurface./nurbssurface ile temsil edilen bir yüzeydirNURBSTekdüze olmayan rasyonel temel splinehttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline ANurbsSurface./nurbssurface iki ile tanımlanırNurbsDirection./nurbsdirectionU./nurbssurface/u veV./nurbssurface/v . Yönün türü ne olursa olsun kontrol noktasındaki w bileşeni kontrol noktasının ağırlığı olarak kullanılır.TwoDimensional veyaThreeDimensional
 type: docs
 weight: 480
 url: /tr/net/aspose.threed.entities/nurbssurface/

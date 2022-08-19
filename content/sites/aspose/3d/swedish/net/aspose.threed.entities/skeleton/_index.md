@@ -1,7 +1,7 @@
 ---
 title: Skeleton
 second_title: Aspose.3D för .NET API-referens
-description: DenSkeleton./skeletonanvänds huvudsakligen av CAD-mjukvara för att hjälpa designern att manipulera omvandlingen av skelettstrukturen den är vanligtvis värdelös utanför CAD-mjukvaran. För att få skeletthierarkin att fungera som ett objekt i CAD-programvaran är det nödvändigt att markera toppenSkeleton./skeleton nod som roten genom inställningType./skeleton/type tillSkeleton  och alla barn inställda påBone
+description: DenSkeleton./skeletonanvänds huvudsakligen av CADmjukvara för att hjälpa designern att manipulera omvandlingen av skelettstrukturen den är vanligtvis värdelös utanför CADmjukvaran. För att få skeletthierarkin att fungera som ett objekt i CADprogramvaran är det nödvändigt att markera toppenSkeleton./skeleton nod som roten genom inställningType./skeleton/type tillSkeleton  och alla barn inställda påBone
 type: docs
 weight: 650
 url: /sv/net/aspose.threed.entities/skeleton/

@@ -1,7 +1,7 @@
 ---
 title: op_Inequality
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ungleich-Operator für Quaternion
+description: UngleichOperator für Quaternion
 type: docs
 weight: 260
 url: /de/net/aspose.threed.utilities/quaternion/op_inequality/

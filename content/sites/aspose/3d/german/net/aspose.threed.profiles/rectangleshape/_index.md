@@ -1,7 +1,7 @@
 ---
 title: RectangleShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatible rechteckige Form mit abgerundeten Ecken.
+description: IFCkompatible rechteckige Form mit abgerundeten Ecken.
 type: docs
 weight: 1620
 url: /de/net/aspose.threed.profiles/rectangleshape/

@@ -1,7 +1,7 @@
 ---
 title: WWrap
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in lindningsläget för texturens W-koordinat.
+description: Hämtar eller ställer in lindningsläget för texturens Wkoordinat.
 type: docs
 weight: 120
 url: /sv/net/aspose.threed.render/itextureunit/wwrap/

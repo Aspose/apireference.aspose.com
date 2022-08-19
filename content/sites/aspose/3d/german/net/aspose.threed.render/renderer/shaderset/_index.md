@@ -1,7 +1,7 @@
 ---
 title: ShaderSet
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft das Shader-Set ab oder legt es fest das zum Rendern der Szene verwendet wurde
+description: Ruft das ShaderSet ab oder legt es fest das zum Rendern der Szene verwendet wurde
 type: docs
 weight: 140
 url: /de/net/aspose.threed.render/renderer/shaderset/

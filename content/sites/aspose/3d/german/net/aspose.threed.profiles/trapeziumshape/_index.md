@@ -1,7 +1,7 @@
 ---
 title: TrapeziumShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatible Trapezform definiert durch Parameter.
+description: IFCkompatible Trapezform definiert durch Parameter.
 type: docs
 weight: 1640
 url: /de/net/aspose.threed.profiles/trapeziumshape/

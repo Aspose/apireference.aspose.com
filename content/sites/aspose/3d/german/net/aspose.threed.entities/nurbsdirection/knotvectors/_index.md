@@ -1,7 +1,7 @@
 ---
 title: KnotVectors
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Knotenvektor ab es ist eine Folge von Parameterwerten die bestimmt wo und wie die Kontrollpunkte die NURBS-Kurve beeinflussen.
+description: Ruft den Knotenvektor ab es ist eine Folge von Parameterwerten die bestimmt wo und wie die Kontrollpunkte die NURBSKurve beeinflussen.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.entities/nurbsdirection/knotvectors/

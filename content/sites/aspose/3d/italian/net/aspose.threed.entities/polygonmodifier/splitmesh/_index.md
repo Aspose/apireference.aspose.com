@@ -1,7 +1,7 @@
 ---
 title: SplitMesh
 second_title: Riferimento API Aspose.3D per .NET
-description: Dividi la mesh in sottomesh perVertexElementMaterialaspose.threed.entities/vertexelementmaterial . Ogni sub-mesh utilizzerà un solo materiale. Esegui la divisione della mesh su un nodo
+description: Dividi la mesh in sottomesh perVertexElementMaterialaspose.threed.entities/vertexelementmaterial . Ogni submesh utilizzerà un solo materiale. Esegui la divisione della mesh su un nodo
 type: docs
 weight: 60
 url: /it/net/aspose.threed.entities/polygonmodifier/splitmesh/

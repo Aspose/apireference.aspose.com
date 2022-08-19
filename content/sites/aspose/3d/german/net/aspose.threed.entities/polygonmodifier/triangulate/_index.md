@@ -1,7 +1,7 @@
 ---
 title: Triangulate
 second_title: Aspose.3D für .NET-API-Referenz
-description: Alle Polygon-basierten Netze in vollständige Dreiecksnetze umwandeln
+description: Alle Polygonbasierten Netze in vollständige Dreiecksnetze umwandeln
 type: docs
 weight: 70
 url: /de/net/aspose.threed.entities/polygonmodifier/triangulate/

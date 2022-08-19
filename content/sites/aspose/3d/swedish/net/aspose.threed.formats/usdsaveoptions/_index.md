@@ -1,7 +1,7 @@
 ---
 title: UsdSaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Spara alternativ för USD/USDZ-format.
+description: Spara alternativ för USD/USDZformat.
 type: docs
 weight: 1390
 url: /sv/net/aspose.threed.formats/usdsaveoptions/

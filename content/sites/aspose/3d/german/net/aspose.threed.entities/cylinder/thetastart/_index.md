@@ -1,7 +1,7 @@
 ---
 title: ThetaStart
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Theta-Start ab oder setzt ihn. Der Standardwert ist 0.
+description: Ruft den ThetaStart ab oder setzt ihn. Der Standardwert ist 0.
 type: docs
 weight: 140
 url: /de/net/aspose.threed.entities/cylinder/thetastart/

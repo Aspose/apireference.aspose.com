@@ -1,7 +1,7 @@
 ---
 title: SemiAxis1
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in den första radien av ellipsen som mäts i riktningen för x-axeln.
+description: Hämtar eller ställer in den första radien av ellipsen som mäts i riktningen för xaxeln.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.profiles/ellipseshape/semiaxis1/

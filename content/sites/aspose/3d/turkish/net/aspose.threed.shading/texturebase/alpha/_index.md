@@ -1,7 +1,7 @@
 ---
 title: Alpha
 second_title: Aspose.3D for .NET API Referansı
-description: texture öğesinin varsayılan alfa değerini alır veya ayarlar.AlphaSourceaspose.threed.shading/texturebase/alphasource dır-dirPixelAlpha Varsayılan değer 1.0dır geçerli değer aralığı 0 ile 1 arasındadır
+description: texture öğesinin varsayılan alfa değerini alır veya ayarlar.AlphaSourceaspose.threed.shading/texturebase/alphasource dırdirPixelAlpha Varsayılan değer 1.0dır geçerli değer aralığı 0 ile 1 arasındadır
 type: docs
 weight: 20
 url: /tr/net/aspose.threed.shading/texturebase/alpha/

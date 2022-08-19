@@ -1,7 +1,7 @@
 ---
 title: NurbsSurface
 second_title: Aspose.3D for .NET API 参考
-description: NurbsSurface./nurbssurface是一个表面由NURBS非均匀有理基础样条https//en.wikipedia.org/wiki/Non-uniform_rational_B-spline 一个NurbsSurface./nurbssurface由两个定义NurbsDirection./nurbsdirectionU./nurbssurface/u和V./nurbssurface/v. 无论方向的类型是什么控制点中的 w 分量都用作控制点的权重TwoDimensional或者ThreeDimensional
+description: NurbsSurface./nurbssurface是一个表面由NURBS非均匀有理基础样条https//en.wikipedia.org/wiki/Nonuniform_rational_Bspline 一个NurbsSurface./nurbssurface由两个定义NurbsDirection./nurbsdirectionU./nurbssurface/u和V./nurbssurface/v. 无论方向的类型是什么控制点中的 w 分量都用作控制点的权重TwoDimensional或者ThreeDimensional
 type: docs
 weight: 480
 url: /zh/net/aspose.threed.entities/nurbssurface/

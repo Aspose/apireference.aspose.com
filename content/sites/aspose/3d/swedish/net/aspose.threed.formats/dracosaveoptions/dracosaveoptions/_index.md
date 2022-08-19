@@ -1,7 +1,7 @@
 ---
 title: DracoSaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Konstruera en standardkonfiguration för att spara draco-filer.
+description: Konstruera en standardkonfiguration för att spara dracofiler.
 type: docs
 weight: 10
 url: /sv/net/aspose.threed.formats/dracosaveoptions/dracosaveoptions/

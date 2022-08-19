@@ -1,7 +1,7 @@
 ---
 title: DracoSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie eine Standardkonfiguration zum Speichern von Draco-Dateien.
+description: Erstellen Sie eine Standardkonfiguration zum Speichern von DracoDateien.
 type: docs
 weight: 10
 url: /de/net/aspose.threed.formats/dracosaveoptions/dracosaveoptions/

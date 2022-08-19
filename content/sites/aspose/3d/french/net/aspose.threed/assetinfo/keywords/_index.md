@@ -1,7 +1,7 @@
 ---
 title: Keywords
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Obtient ou définit les mots-clés de cet élément
+description: Obtient ou définit les motsclés de cet élément
 type: docs
 weight: 110
 url: /fr/net/aspose.threed/assetinfo/keywords/

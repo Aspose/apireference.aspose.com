@@ -1,7 +1,7 @@
 ---
 title: GeometryShader
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Quellcode des Geometrie-Shaders ab oder legt ihn fest.
+description: Ruft den Quellcode des GeometrieShaders ab oder legt ihn fest.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.render/glslsource/geometryshader/

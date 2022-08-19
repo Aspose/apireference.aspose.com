@@ -1,7 +1,7 @@
 ---
 title: Discreet3dsLoadOptions
 second_title: Aspose.3D för .NET API-referens
-description: Ladda alternativ för 3DS-fil.
+description: Ladda alternativ för 3DSfil.
 type: docs
 weight: 1060
 url: /sv/net/aspose.threed.formats/discreet3dsloadoptions/

@@ -1,7 +1,7 @@
 ---
 title: GltfSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen für das glTF-Format.
+description: Speicheroptionen für das glTFFormat.
 type: docs
 weight: 1160
 url: /de/net/aspose.threed.formats/gltfsaveoptions/

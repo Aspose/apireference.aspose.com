@@ -1,7 +1,7 @@
 ---
 title: NurbsType
 second_title: Aspose.3D för .NET API-referens
-description: NURBS-typer.
+description: NURBStyper.
 type: docs
 weight: 490
 url: /sv/net/aspose.threed.entities/nurbstype/

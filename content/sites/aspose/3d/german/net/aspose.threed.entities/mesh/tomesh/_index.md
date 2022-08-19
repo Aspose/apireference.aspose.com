@@ -1,7 +1,7 @@
 ---
 title: ToMesh
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Mesh-Instanz von der aktuellen Entität ab.
+description: Ruft die MeshInstanz von der aktuellen Entität ab.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.entities/mesh/tomesh/

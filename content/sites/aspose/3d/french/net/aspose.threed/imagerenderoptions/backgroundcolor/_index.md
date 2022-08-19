@@ -1,7 +1,7 @@
 ---
 title: BackgroundColor
 second_title: Référence de l'API Aspose.3D pour .NET
-description: La couleur darrière-plan du résultat du rendu.
+description: La couleur darrièreplan du résultat du rendu.
 type: docs
 weight: 30
 url: /fr/net/aspose.threed/imagerenderoptions/backgroundcolor/

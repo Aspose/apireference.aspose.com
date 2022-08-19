@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.3D för .NET API-referens
-description: Tar bort alla element från direkt- och indexmatriserna.
+description: Tar bort alla element från direkt och indexmatriserna.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.entities/vertexelementtemplate-1/clear/

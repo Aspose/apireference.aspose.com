@@ -1,7 +1,7 @@
 ---
 title: ToMesh
 second_title: Aspose.3D för .NET API-referens
-description: Konvertera NURBS-ytan till mesh
+description: Konvertera NURBSytan till mesh
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.entities/nurbssurface/tomesh/

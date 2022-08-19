@@ -1,7 +1,7 @@
 ---
 title: UsdSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen für USD/USDZ-Formate.
+description: Speicheroptionen für USD/USDZFormate.
 type: docs
 weight: 1390
 url: /de/net/aspose.threed.formats/usdsaveoptions/

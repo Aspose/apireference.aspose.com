@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Aspose.3D for .NET API Referansı
-description: SPIR-V biçiminde derlenmiş gölgelendirici.
+description: SPIRV biçiminde derlenmiş gölgelendirici.
 type: docs
 weight: 2120
 url: /tr/net/aspose.threed.render/spirvsource/

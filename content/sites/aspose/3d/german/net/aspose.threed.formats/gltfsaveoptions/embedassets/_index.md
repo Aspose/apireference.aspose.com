@@ -1,7 +1,7 @@
 ---
 title: EmbedAssets
 second_title: Aspose.3D für .NET-API-Referenz
-description: Betten Sie alle externen Assets als base64 in eine einzelne Datei im ASCII-Modus ein der Standardwert ist false.
+description: Betten Sie alle externen Assets als base64 in eine einzelne Datei im ASCIIModus ein der Standardwert ist false.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.formats/gltfsaveoptions/embedassets/

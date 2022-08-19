@@ -1,7 +1,7 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Spara alternativen i PDF-exportering.
+description: Spara alternativen i PDFexportering.
 type: docs
 weight: 1270
 url: /sv/net/aspose.threed.formats/pdfsaveoptions/

@@ -1,7 +1,7 @@
 ---
 title: AssetInfo
 second_title: Aspose.3D för .NET API-referens
-description: Per-nod tillgång info
+description: Pernod tillgång info
 type: docs
 weight: 20
 url: /sv/net/aspose.threed/node/assetinfo/

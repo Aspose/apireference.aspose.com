@@ -1,7 +1,7 @@
 ---
 title: MapNormal
 second_title: Aspose.3D für .NET-API-Referenz
-description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein normales Textur-Mapping zuzuweisen.
+description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein normales TexturMapping zuzuweisen.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.shading/material/mapnormal/

@@ -1,7 +1,7 @@
 ---
 title: RvmSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speicheroptionen für Aveva PDMS RVM-Datei.
+description: Speicheroptionen für Aveva PDMS RVMDatei.
 type: docs
 weight: 1330
 url: /de/net/aspose.threed.formats/rvmsaveoptions/

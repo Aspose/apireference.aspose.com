@@ -1,7 +1,7 @@
 ---
 title: Order
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in ordningen på en NURBS-kurva den definierar antalet närliggande kontrollpunkter som påverkar en given punkt på kurvan.
+description: Hämtar eller ställer in ordningen på en NURBSkurva den definierar antalet närliggande kontrollpunkter som påverkar en given punkt på kurvan.
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.entities/nurbsdirection/order/

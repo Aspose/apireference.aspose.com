@@ -1,7 +1,7 @@
 ---
 title: IOConfig
 second_title: Aspose.3D för .NET API-referens
-description: IO-konfiguration för serialisering/deserialisering. Användaren kan specificera detaljerade konfigurationer som sökväg för beroendeuppslag Eller formatrelaterade konfigurationer här
+description: IOkonfiguration för serialisering/deserialisering. Användaren kan specificera detaljerade konfigurationer som sökväg för beroendeuppslag Eller formatrelaterade konfigurationer här
 type: docs
 weight: 1180
 url: /sv/net/aspose.threed.formats/ioconfig/

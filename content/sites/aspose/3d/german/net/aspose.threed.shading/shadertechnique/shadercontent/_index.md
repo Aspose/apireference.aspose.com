@@ -1,7 +1,7 @@
 ---
 title: ShaderContent
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Inhalt eines eingebetteten Shader-Skripts ab oder legt ihn fest. Dies könnte eine HLSL/GLSL-Shader-Quelldatei sein.
+description: Ruft den Inhalt eines eingebetteten ShaderSkripts ab oder legt ihn fest. Dies könnte eine HLSL/GLSLShaderQuelldatei sein.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.shading/shadertechnique/shadercontent/

@@ -1,7 +1,7 @@
 ---
 title: VertexElementUV
 second_title: Aspose.3D för .NET API-referens
-description: Definierar UV-koordinaterna för specificerade komponenter. En geometri kan ha fleraVertexElementUV./vertexelementuv element och var och en har olikaTextureMapping./texturemapping s.
+description: Definierar UVkoordinaterna för specificerade komponenter. En geometri kan ha fleraVertexElementUV./vertexelementuv element och var och en har olikaTextureMapping./texturemapping s.
 type: docs
 weight: 900
 url: /sv/net/aspose.threed.entities/vertexelementuv/

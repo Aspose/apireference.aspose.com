@@ -1,7 +1,7 @@
 ---
 title: MakeDefaultIndices
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Générer la séquence 0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Longueur-1 àSegmentsaspose.threed.entities/line/segments afin que les ControlPoints puissent être utilisés comme une seule ligne
+description: Générer la séquence 0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Longueur1 àSegmentsaspose.threed.entities/line/segments afin que les ControlPoints puissent être utilisés comme une seule ligne
 type: docs
 weight: 60
 url: /fr/net/aspose.threed.entities/line/makedefaultindices/

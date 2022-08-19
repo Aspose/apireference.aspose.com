@@ -1,7 +1,7 @@
 ---
 title: FlipTexCoordV
 second_title: Aspose.3D für .NET-API-Referenz
-description: Spiegelt die vt-Koordinate in der Texturkoordinate des Netzes um der Standardwert ist wahr.
+description: Spiegelt die vtKoordinate in der Texturkoordinate des Netzes um der Standardwert ist wahr.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/gltfloadoptions/fliptexcoordv/

@@ -1,7 +1,7 @@
 ---
 title: PdfRenderMode
 second_title: Aspose.3D för .NET API-referens
-description: Renderläge anger stilen i vilken 3D-bilden renderas.
+description: Renderläge anger stilen i vilken 3Dbilden renderas.
 type: docs
 weight: 1260
 url: /sv/net/aspose.threed.formats/pdfrendermode/

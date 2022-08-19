@@ -1,7 +1,7 @@
 ---
 title: ExternalDracoEncoder
 second_title: Aspose.3D för .NET API-referens
-description: Använd extern draco-kodare för att accelerera draco-kompressionshastigheten.
+description: Använd extern dracokodare för att accelerera dracokompressionshastigheten.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.formats/gltfsaveoptions/externaldracoencoder/

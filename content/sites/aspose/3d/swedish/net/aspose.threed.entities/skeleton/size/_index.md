@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in lemnodstorleken som används i CAD-programvara för att representera storleken på benet.
+description: Hämtar eller ställer in lemnodstorleken som används i CADprogramvara för att representera storleken på benet.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.entities/skeleton/size/

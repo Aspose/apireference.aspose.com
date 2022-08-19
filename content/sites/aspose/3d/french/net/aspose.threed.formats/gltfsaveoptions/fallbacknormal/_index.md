@@ -1,7 +1,7 @@
 ---
 title: FallbackNormal
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Lorsque lexportateur GLTF2 a détecté une normale invalide celle-ci sera utilisée à la place de sa valeur dorigine pour contourner la validation. La valeur par défaut est 0 1 0
+description: Lorsque lexportateur GLTF2 a détecté une normale invalide celleci sera utilisée à la place de sa valeur dorigine pour contourner la validation. La valeur par défaut est 0 1 0
 type: docs
 weight: 60
 url: /fr/net/aspose.threed.formats/gltfsaveoptions/fallbacknormal/

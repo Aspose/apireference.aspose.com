@@ -1,7 +1,7 @@
 ---
 title: Center
 second_title: Aspose.3D för .NET API-referens
-description: Om detta värde är falskt är det linjära extruderingsområdet Z från 0 till höjd annars är området från -height/2 till height/2.
+description: Om detta värde är falskt är det linjära extruderingsområdet Z från 0 till höjd annars är området från height/2 till height/2.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.entities/linearextrusion/center/

@@ -1,7 +1,7 @@
 ---
 title: ArbitraryProfile
 second_title: Справочник по Aspose.3D для .NET API
-description: Этот класс позволяет построить 2D-профиль непосредственно из произвольной кривой.
+description: Этот класс позволяет построить 2Dпрофиль непосредственно из произвольной кривой.
 type: docs
 weight: 1510
 url: /ru/net/aspose.threed.profiles/arbitraryprofile/

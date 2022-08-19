@@ -1,7 +1,7 @@
 ---
 title: FBX7700Binary
 second_title: Aspose.3D für .NET-API-Referenz
-description: Binäres FBX-Dateiformat mit Version 7.7.0
+description: Binäres FBXDateiformat mit Version 7.7.0
 type: docs
 weight: 200
 url: /de/net/aspose.threed/fileformat/fbx7700binary/

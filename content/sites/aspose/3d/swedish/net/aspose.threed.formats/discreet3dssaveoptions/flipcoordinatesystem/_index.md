@@ -1,7 +1,7 @@
 ---
 title: FlipCoordinateSystem
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in flip-koordinatsystem för kontrollpunkter/normalt under import/export.
+description: Hämtar eller ställer in flipkoordinatsystem för kontrollpunkter/normalt under import/export.
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.formats/discreet3dssaveoptions/flipcoordinatesystem/

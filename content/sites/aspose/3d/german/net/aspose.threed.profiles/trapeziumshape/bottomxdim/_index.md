@@ -1,7 +1,7 @@
 ---
 title: BottomXDim
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Ausdehnung der unteren Linie ab gemessen entlang der x-Achse oder legt diese fest.
+description: Ruft die Ausdehnung der unteren Linie ab gemessen entlang der xAchse oder legt diese fest.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.profiles/trapeziumshape/bottomxdim/

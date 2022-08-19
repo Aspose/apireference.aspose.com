@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Constructeur de sources de shader basées sur SPIR-V.
+description: Constructeur de sources de shader basées sur SPIRV.
 type: docs
 weight: 10
 url: /fr/net/aspose.threed.render/spirvsource/spirvsource/

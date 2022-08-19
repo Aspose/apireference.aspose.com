@@ -1,7 +1,7 @@
 ---
 title: Compare
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die im Stencil-Test verwendete Vergleichsfunktion ab oder setzt sie
+description: Ruft die im StencilTest verwendete Vergleichsfunktion ab oder setzt sie
 type: docs
 weight: 10
 url: /de/net/aspose.threed.render/stencilstate/compare/

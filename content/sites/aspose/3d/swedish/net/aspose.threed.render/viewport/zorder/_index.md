@@ -1,7 +1,7 @@
 ---
 title: ZOrder
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in Z-ordningen för visningsporten.
+description: Hämtar eller ställer in Zordningen för visningsporten.
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.render/viewport/zorder/

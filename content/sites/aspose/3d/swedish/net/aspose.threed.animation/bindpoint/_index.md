@@ -1,7 +1,7 @@
 ---
 title: BindPoint
 second_title: Aspose.3D för .NET API-referens
-description: ABindPoint./bindpointskapas vanligtvis på ett objekts egenskap vissa egenskapstyper innehåller flera komponentfält som ett Vector3-fält BindPoint./bindpoint kommer att generera kanal för varje komponentfält och kopplar fältet till en eller flera nyckelbildrutesekvensinstanser genom kanalerna.
+description: ABindPoint./bindpointskapas vanligtvis på ett objekts egenskap vissa egenskapstyper innehåller flera komponentfält som ett Vector3fält BindPoint./bindpoint kommer att generera kanal för varje komponentfält och kopplar fältet till en eller flera nyckelbildrutesekvensinstanser genom kanalerna.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.animation/bindpoint/

@@ -1,7 +1,7 @@
 ---
 title: EulerAngles
 second_title: Aspose.3D för .NET API-referens
-description: Får rotationen representerad i Euler-vinklar mätt i grader
+description: Får rotationen representerad i Eulervinklar mätt i grader
 type: docs
 weight: 10
 url: /sv/net/aspose.threed/globaltransform/eulerangles/

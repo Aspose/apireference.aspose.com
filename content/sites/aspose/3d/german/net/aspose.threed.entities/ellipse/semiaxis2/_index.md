@@ -1,7 +1,7 @@
 ---
 title: SemiAxis2
 second_title: Aspose.3D für .NET-API-Referenz
-description: Radius auf Y-Achse
+description: Radius auf YAchse
 type: docs
 weight: 30
 url: /de/net/aspose.threed.entities/ellipse/semiaxis2/

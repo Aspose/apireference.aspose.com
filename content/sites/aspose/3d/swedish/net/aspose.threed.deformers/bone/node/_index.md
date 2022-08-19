@@ -1,7 +1,7 @@
 ---
 title: Node
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in noden. Bennoden är det ben som huden fäster vid denSkinDeformeraspose.threed.deformers/skindeformer kommer att använda bennod för att påverka förskjutningen av kontrollpunkterna. Bennod har vanligtvis enSkeletonaspose.threed.entities/skeletonbifogas men det krävs inte. BifogatSkeletonaspose.threed.entities/skeleton används vanligtvis av DCC-programvara för att visa skelettet för användaren.
+description: Hämtar eller ställer in noden. Bennoden är det ben som huden fäster vid denSkinDeformeraspose.threed.deformers/skindeformer kommer att använda bennod för att påverka förskjutningen av kontrollpunkterna. Bennod har vanligtvis enSkeletonaspose.threed.entities/skeletonbifogas men det krävs inte. BifogatSkeletonaspose.threed.entities/skeleton används vanligtvis av DCCprogramvara för att visa skelettet för användaren.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.deformers/bone/node/

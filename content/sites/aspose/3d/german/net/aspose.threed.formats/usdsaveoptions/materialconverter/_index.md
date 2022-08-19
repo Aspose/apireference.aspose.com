@@ -1,7 +1,7 @@
 ---
 title: MaterialConverter
 second_title: Aspose.3D für .NET-API-Referenz
-description: Benutzerdefinierter Konverter zum Konvertieren des Geometriematerials in PBR-Material Wenn dies nicht zugewiesen ist konvertiert der USD-Exporter das Standardmaterial automatisch in PBR-Material. Der Standardwert ist null
+description: Benutzerdefinierter Konverter zum Konvertieren des Geometriematerials in PBRMaterial Wenn dies nicht zugewiesen ist konvertiert der USDExporter das Standardmaterial automatisch in PBRMaterial. Der Standardwert ist null
 type: docs
 weight: 30
 url: /de/net/aspose.threed.formats/usdsaveoptions/materialconverter/

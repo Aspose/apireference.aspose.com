@@ -1,7 +1,7 @@
 ---
 title: Universal3D
 second_title: Aspose.3D für .NET-API-Referenz
-description: Universelles 3D-Dateiformat
+description: Universelles 3DDateiformat
 type: docs
 weight: 330
 url: /de/net/aspose.threed/fileformat/universal3d/

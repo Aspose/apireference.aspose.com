@@ -1,7 +1,7 @@
 ---
 title: HighPreciseColor
 second_title: Aspose.3D för .NET API-referens
-description: Om detta är sant kommer den genererade 3ds-filen att använda högprecis färg vilket betyder att varje kanal med rött/grönt/blått är i 32bit float. Annars kommer den genererade filen att använda 24bitars färg varje kanal använder 8bit byte. Standardvärdet är falsk eftersom inte alla applikationer stöder den högprecisa färgen.
+description: Om detta är sant kommer den genererade 3dsfilen att använda högprecis färg vilket betyder att varje kanal med rött/grönt/blått är i 32bit float. Annars kommer den genererade filen att använda 24bitars färg varje kanal använder 8bit byte. Standardvärdet är falsk eftersom inte alla applikationer stöder den högprecisa färgen.
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.formats/discreet3dssaveoptions/highprecisecolor/

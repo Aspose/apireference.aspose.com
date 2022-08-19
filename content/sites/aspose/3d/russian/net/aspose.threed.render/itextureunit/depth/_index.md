@@ -1,7 +1,7 @@
 ---
 title: Depth
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает высоту этой текстуры для не-3D текстуры это всегда 1.
+description: Получает высоту этой текстуры для не3D текстуры это всегда 1.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/itextureunit/depth/

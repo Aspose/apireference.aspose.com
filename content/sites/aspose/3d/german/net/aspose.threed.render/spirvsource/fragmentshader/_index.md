@@ -1,7 +1,7 @@
 ---
 title: FragmentShader
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Quellcode des Fragment-Shaders ab oder legt ihn fest.
+description: Ruft den Quellcode des FragmentShaders ab oder legt ihn fest.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.render/spirvsource/fragmentshader/

@@ -1,7 +1,7 @@
 ---
 title: OffsetTop
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Vertices-Transformationsversatz der Oberseite ab oder legt ihn fest.
+description: Ruft den VerticesTransformationsversatz der Oberseite ab oder legt ihn fest.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.entities/cylinder/offsettop/

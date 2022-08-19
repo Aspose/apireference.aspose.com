@@ -1,7 +1,7 @@
 ---
 title: NegativeZ
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для -ZПередняя face
+description: Получает или задает данные для ZПередняя face
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.render/cubefacedata-1/negativez/

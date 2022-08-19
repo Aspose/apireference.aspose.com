@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Referencia de API de Aspose.3D para .NET
-description: Constructor de fuentes de sombreado basadas en SPIR-V.
+description: Constructor de fuentes de sombreado basadas en SPIRV.
 type: docs
 weight: 10
 url: /es/net/aspose.threed.render/spirvsource/spirvsource/

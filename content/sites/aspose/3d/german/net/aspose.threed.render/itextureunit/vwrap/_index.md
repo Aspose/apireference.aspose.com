@@ -1,7 +1,7 @@
 ---
 title: VWrap
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Umbruchmodus für die V-Koordinate der Textur ab oder legt ihn fest.
+description: Ruft den Umbruchmodus für die VKoordinate der Textur ab oder legt ihn fest.
 type: docs
 weight: 100
 url: /de/net/aspose.threed.render/itextureunit/vwrap/

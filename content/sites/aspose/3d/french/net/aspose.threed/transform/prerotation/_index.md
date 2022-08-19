@@ -1,7 +1,7 @@
 ---
 title: PreRotation
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Obtient ou définit la pré-rotation représentée en degré
+description: Obtient ou définit la prérotation représentée en degré
 type: docs
 weight: 60
 url: /fr/net/aspose.threed/transform/prerotation/

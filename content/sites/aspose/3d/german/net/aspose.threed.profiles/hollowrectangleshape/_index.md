@@ -1,7 +1,7 @@
 ---
 title: HollowRectangleShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatible hohle rechteckige Form mit abgerundeten Innen- und Außenecken.
+description: IFCkompatible hohle rechteckige Form mit abgerundeten Innen und Außenecken.
 type: docs
 weight: 1570
 url: /de/net/aspose.threed.profiles/hollowrectangleshape/

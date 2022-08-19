@@ -1,7 +1,7 @@
 ---
 title: NegativeZ
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 -ZFront face 的数据
+description: 获取或设置 ZFront face 的数据
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.render/cubefacedata-1/negativez/

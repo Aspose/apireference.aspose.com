@@ -1,7 +1,7 @@
 ---
 title: x
 second_title: Aspose.3D för .NET API-referens
-description: x-komponenten.
+description: xkomponenten.
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.utilities/quaternion/x/

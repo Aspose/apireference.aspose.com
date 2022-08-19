@@ -1,7 +1,7 @@
 ---
 title: U
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die U-Richtung der NURBS-Oberfläche ab
+description: Ruft die URichtung der NURBSOberfläche ab
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/nurbssurface/u/

@@ -1,7 +1,7 @@
 ---
 title: DracoCompression
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft ab oder legt fest ob Draco-Komprimierung aktiviert werden soll
+description: Ruft ab oder legt fest ob DracoKomprimierung aktiviert werden soll
 type: docs
 weight: 30
 url: /de/net/aspose.threed.formats/gltfsaveoptions/dracocompression/

@@ -1,7 +1,7 @@
 ---
 title: ShaderLanguage
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die von dieser Technik verwendete Shader-Sprache ab oder legt sie fest.
+description: Ruft die von dieser Technik verwendete ShaderSprache ab oder legt sie fest.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.shading/shadertechnique/shaderlanguage/

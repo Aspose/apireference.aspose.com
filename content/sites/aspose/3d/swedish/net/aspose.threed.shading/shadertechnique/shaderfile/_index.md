@@ -1,7 +1,7 @@
 ---
 title: ShaderFile
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in filnamnet för den externa shader-filen.
+description: Hämtar eller ställer in filnamnet för den externa shaderfilen.
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.shading/shadertechnique/shaderfile/

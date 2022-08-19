@@ -1,7 +1,7 @@
 ---
 title: GenerateUV
 second_title: Справочник по Aspose.3D для .NET API
-description: Генерировать UV-данные из заданного входного меша и заданных данных нормалей.
+description: Генерировать UVданные из заданного входного меша и заданных данных нормалей.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/polygonmodifier/generateuv/

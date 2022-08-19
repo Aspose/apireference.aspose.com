@@ -1,7 +1,7 @@
 ---
 title: ReadVector4
 second_title: Aspose.3D för .NET API-referens
-description: Läs vektor4-fältet
+description: Läs vektor4fältet
 type: docs
 weight: 230
 url: /sv/net/aspose.threed.entities/trimesh/readvector4/

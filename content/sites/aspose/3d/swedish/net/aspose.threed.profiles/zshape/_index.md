@@ -1,7 +1,7 @@
 ---
 title: ZShape
 second_title: Aspose.3D för .NET API-referens
-description: IFC-kompatibel Z-formad profil definierad av parametrar.
+description: IFCkompatibel Zformad profil definierad av parametrar.
 type: docs
 weight: 1660
 url: /sv/net/aspose.threed.profiles/zshape/

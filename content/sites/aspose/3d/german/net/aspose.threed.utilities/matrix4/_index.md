@@ -1,7 +1,7 @@
 ---
 title: Matrix4
 second_title: Aspose.3D für .NET-API-Referenz
-description: 4x4-Matrix-Implementierung.
+description: 4x4MatrixImplementierung.
 type: docs
 weight: 2560
 url: /de/net/aspose.threed.utilities/matrix4/

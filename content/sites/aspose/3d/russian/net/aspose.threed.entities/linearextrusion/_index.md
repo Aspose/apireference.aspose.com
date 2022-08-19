@@ -1,7 +1,7 @@
 ---
 title: LinearExtrusion
 second_title: Справочник по Aspose.3D для .NET API
-description: Линейное выдавливание принимает 2D-форму в качестве входных данных и расширяет форму в 3-м измерении.
+description: Линейное выдавливание принимает 2Dформу в качестве входных данных и расширяет форму в 3м измерении.
 type: docs
 weight: 430
 url: /ru/net/aspose.threed.entities/linearextrusion/

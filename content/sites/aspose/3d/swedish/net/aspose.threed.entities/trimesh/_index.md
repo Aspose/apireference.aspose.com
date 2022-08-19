@@ -1,7 +1,7 @@
 ---
 title: TriMesh
 second_title: Aspose.3D för .NET API-referens
-description: En TriMesh innehåller rådata som kan användas av GPU direkt. Den här klassen är ett verktyg för att hjälpa till att konstruera ett nät som bara innehåller per-vertex-data.
+description: En TriMesh innehåller rådata som kan användas av GPU direkt. Den här klassen är ett verktyg för att hjälpa till att konstruera ett nät som bara innehåller pervertexdata.
 type: docs
 weight: 730
 url: /sv/net/aspose.threed.entities/trimesh/

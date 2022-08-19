@@ -1,7 +1,7 @@
 ---
 title: GLTF2
 second_title: Aspose.3D für .NET-API-Referenz
-description: glTF-Version 2.0 der Khronos Group
+description: glTFVersion 2.0 der Khronos Group
 type: docs
 weight: 220
 url: /de/net/aspose.threed/fileformat/gltf2/

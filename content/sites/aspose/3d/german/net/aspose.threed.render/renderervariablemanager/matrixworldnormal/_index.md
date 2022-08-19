@@ -1,7 +1,7 @@
 ---
 title: MatrixWorldNormal
 second_title: Aspose.3D für .NET-API-Referenz
-description: Matrix zum Umwandeln der Normalen vom Objekt- in den Weltraum.
+description: Matrix zum Umwandeln der Normalen vom Objekt in den Weltraum.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.render/renderervariablemanager/matrixworldnormal/

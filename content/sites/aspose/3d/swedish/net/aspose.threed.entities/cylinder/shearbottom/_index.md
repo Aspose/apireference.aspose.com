@@ -1,7 +1,7 @@
 ---
 title: ShearBottom
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller sätter av skjuvtransformeringen av undersidan vektor lagrar skjuvvärdet x-axeln z-axeln som mäts i radianer standardvärdet är 0 0
+description: Hämtar eller sätter av skjuvtransformeringen av undersidan vektor lagrar skjuvvärdet xaxeln zaxeln som mäts i radianer standardvärdet är 0 0
 type: docs
 weight: 110
 url: /sv/net/aspose.threed.entities/cylinder/shearbottom/

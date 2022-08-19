@@ -1,7 +1,7 @@
 ---
 title: A3DObject
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die Basisklasse aller Aspose.ThreeD-Objekte alle Unterklassen unterstützen dynamische Eigenschaften.
+description: Die Basisklasse aller Aspose.ThreeDObjekte alle Unterklassen unterstützen dynamische Eigenschaften.
 type: docs
 weight: 10
 url: /de/net/aspose.threed/a3dobject/

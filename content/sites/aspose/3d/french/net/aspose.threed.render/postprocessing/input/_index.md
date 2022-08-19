@@ -1,7 +1,7 @@
 ---
 title: Input
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Saisie de ce post-traitement
+description: Saisie de ce posttraitement
 type: docs
 weight: 10
 url: /fr/net/aspose.threed.render/postprocessing/input/

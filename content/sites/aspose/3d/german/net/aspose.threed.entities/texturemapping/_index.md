@@ -1,7 +1,7 @@
 ---
 title: TextureMapping
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Textur-Mapping-Typ fürVertexElementUV./vertexelementuv Beschreibt welche Art von Textur-Mapping verwendet wird.
+description: Der TexturMappingTyp fürVertexElementUV./vertexelementuv Beschreibt welche Art von TexturMapping verwendet wird.
 type: docs
 weight: 700
 url: /de/net/aspose.threed.entities/texturemapping/

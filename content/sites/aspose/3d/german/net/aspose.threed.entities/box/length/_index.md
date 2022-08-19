@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Länge der Box ab oder legt sie fest ausgerichtet an der Z-Achse.
+description: Ruft die Länge der Box ab oder legt sie fest ausgerichtet an der ZAchse.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.entities/box/length/

@@ -1,7 +1,7 @@
 ---
 title: PlyLoadOptions
 second_title: Aspose.3D för .NET API-referens
-description: Ladda alternativ för PLY-filer
+description: Ladda alternativ för PLYfiler
 type: docs
 weight: 1290
 url: /sv/net/aspose.threed.formats/plyloadoptions/

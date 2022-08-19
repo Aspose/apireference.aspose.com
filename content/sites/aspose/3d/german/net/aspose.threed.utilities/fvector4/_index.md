@@ -1,7 +1,7 @@
 ---
 title: FVector4
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein Float-Vektor mit vier Komponenten.
+description: Ein FloatVektor mit vier Komponenten.
 type: docs
 weight: 2500
 url: /de/net/aspose.threed.utilities/fvector4/

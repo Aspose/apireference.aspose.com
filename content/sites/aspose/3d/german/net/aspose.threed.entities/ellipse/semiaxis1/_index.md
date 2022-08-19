@@ -1,7 +1,7 @@
 ---
 title: SemiAxis1
 second_title: Aspose.3D für .NET-API-Referenz
-description: Radius auf X-Achse
+description: Radius auf XAchse
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/ellipse/semiaxis1/

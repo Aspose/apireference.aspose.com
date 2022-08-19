@@ -1,7 +1,7 @@
 ---
 title: Reset
 second_title: Aspose.3D för .NET API-referens
-description: Tar bort alla nyckelrutor och återställer post/pre-beteenden.
+description: Tar bort alla nyckelrutor och återställer post/prebeteenden.
 type: docs
 weight: 80
 url: /sv/net/aspose.threed.animation/keyframesequence/reset/

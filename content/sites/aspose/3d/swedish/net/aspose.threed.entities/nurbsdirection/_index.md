@@ -1,7 +1,7 @@
 ---
 title: NurbsDirection
 second_title: Aspose.3D för .NET API-referens
-description: En 3DNurbsSurface./nurbssurface har två riktningar denU./nurbssurface/u ochV./nurbssurface/v  denNurbsDirection./nurbsdirection definierar data för varje riktning. En riktning är faktiskt en NURBS-kurva det betyder att den också definieras av dessOrder./nurbsdirection/order  aKnotVectors./nurbsdirection/knotvectors  och en uppsättning viktade kontrollpunkter definierad iNurbsSurface./nurbssurface .
+description: En 3DNurbsSurface./nurbssurface har två riktningar denU./nurbssurface/u ochV./nurbssurface/v  denNurbsDirection./nurbsdirection definierar data för varje riktning. En riktning är faktiskt en NURBSkurva det betyder att den också definieras av dessOrder./nurbsdirection/order  aKnotVectors./nurbsdirection/knotvectors  och en uppsättning viktade kontrollpunkter definierad iNurbsSurface./nurbssurface .
 type: docs
 weight: 470
 url: /sv/net/aspose.threed.entities/nurbsdirection/

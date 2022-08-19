@@ -1,7 +1,7 @@
 ---
 title: Skeleton
 second_title: Aspose.3D für .NET-API-Referenz
-description: DieSkeleton./skeletonwird hauptsächlich von CAD-Software verwendet um Designern zu helfen die Transformation der Skelettstruktur zu manipulieren es ist normalerweise außerhalb der CAD-Software nutzlos. Damit sich die Skeletthierarchie wie ein Objekt in CAD-Software verhält ist es notwendig die Spitze zu markierenSkeleton./skeleton Knoten als Root-Knoten durch EinstellungType./skeleton/type zuSkeleton  und alle Kinder setzen aufBone
+description: DieSkeleton./skeletonwird hauptsächlich von CADSoftware verwendet um Designern zu helfen die Transformation der Skelettstruktur zu manipulieren es ist normalerweise außerhalb der CADSoftware nutzlos. Damit sich die Skeletthierarchie wie ein Objekt in CADSoftware verhält ist es notwendig die Spitze zu markierenSkeleton./skeleton Knoten als RootKnoten durch EinstellungType./skeleton/type zuSkeleton  und alle Kinder setzen aufBone
 type: docs
 weight: 650
 url: /de/net/aspose.threed.entities/skeleton/

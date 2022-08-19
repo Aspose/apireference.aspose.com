@@ -1,7 +1,7 @@
 ---
 title: y
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die y-Komponente.
+description: Die yKomponente.
 type: docs
 weight: 100
 url: /de/net/aspose.threed.utilities/quaternion/y/

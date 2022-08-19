@@ -1,7 +1,7 @@
 ---
 title: FallbackEntityRenderer
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Fallback-Entitätsrenderer ab oder legt ihn fest wenn für die Entität kein spezieller Renderer definiert ist.
+description: Ruft den FallbackEntitätsrenderer ab oder legt ihn fest wenn für die Entität kein spezieller Renderer definiert ist.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.render/renderer/fallbackentityrenderer/

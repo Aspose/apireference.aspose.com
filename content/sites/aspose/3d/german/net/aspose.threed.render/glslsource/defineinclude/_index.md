@@ -1,7 +1,7 @@
 ---
 title: DefineInclude
 second_title: Aspose.3D für .NET-API-Referenz
-description: Virtuelle Datei für include im GLSL-Quellcode definieren
+description: Virtuelle Datei für include im GLSLQuellcode definieren
 type: docs
 weight: 60
 url: /de/net/aspose.threed.render/glslsource/defineinclude/

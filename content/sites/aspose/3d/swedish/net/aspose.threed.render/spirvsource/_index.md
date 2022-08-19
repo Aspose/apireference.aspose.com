@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Aspose.3D för .NET API-referens
-description: Den kompilerade skuggningen i SPIR-V-format.
+description: Den kompilerade skuggningen i SPIRVformat.
 type: docs
 weight: 2120
 url: /sv/net/aspose.threed.render/spirvsource/

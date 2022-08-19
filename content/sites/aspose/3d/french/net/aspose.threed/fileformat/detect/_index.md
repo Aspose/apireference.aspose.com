@@ -1,7 +1,7 @@
 ---
 title: Detect
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Détecter le format de fichier à partir du flux de données le nom du fichier est facultatif pour deviner les types qui nont pas den-tête magique.
+description: Détecter le format de fichier à partir du flux de données le nom du fichier est facultatif pour deviner les types qui nont pas dentête magique.
 type: docs
 weight: 420
 url: /fr/net/aspose.threed/fileformat/detect/

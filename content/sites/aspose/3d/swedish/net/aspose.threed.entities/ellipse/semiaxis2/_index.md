@@ -1,7 +1,7 @@
 ---
 title: SemiAxis2
 second_title: Aspose.3D för .NET API-referens
-description: Radie på Y-axeln
+description: Radie på Yaxeln
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.entities/ellipse/semiaxis2/

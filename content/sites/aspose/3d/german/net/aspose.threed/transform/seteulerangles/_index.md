@@ -1,7 +1,7 @@
 ---
 title: SetEulerAngles
 second_title: Aspose.3D für .NET-API-Referenz
-description: Legt die Euler-Winkel in Grad der aktuellen Transformation fest.
+description: Legt die EulerWinkel in Grad der aktuellen Transformation fest.
 type: docs
 weight: 110
 url: /de/net/aspose.threed/transform/seteulerangles/

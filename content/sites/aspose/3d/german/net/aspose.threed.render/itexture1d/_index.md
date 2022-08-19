@@ -1,7 +1,7 @@
 ---
 title: ITexture1D
 second_title: Aspose.3D für .NET-API-Referenz
-description: 1D-Textur
+description: 1DTextur
 type: docs
 weight: 1920
 url: /de/net/aspose.threed.render/itexture1d/

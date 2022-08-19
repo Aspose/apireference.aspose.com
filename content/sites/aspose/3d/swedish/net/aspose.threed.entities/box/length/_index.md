@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in längden på rutan justerad i z-axeln.
+description: Hämtar eller ställer in längden på rutan justerad i zaxeln.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.entities/box/length/

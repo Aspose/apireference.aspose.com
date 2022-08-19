@@ -1,7 +1,7 @@
 ---
 title: V
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ermittelt die V-Richtung der NURBS-Oberfläche
+description: Ermittelt die VRichtung der NURBSOberfläche
 type: docs
 weight: 30
 url: /de/net/aspose.threed.entities/nurbssurface/v/

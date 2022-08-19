@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает хэш-код Vector2
+description: Получает хэшкод Vector2
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.utilities/vector2/gethashcode/

@@ -1,7 +1,7 @@
 ---
 title: MipFilter
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in filtret för sampling på mip-nivå.
+description: Hämtar eller ställer in filtret för sampling på mipnivå.
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.shading/texturebase/mipfilter/

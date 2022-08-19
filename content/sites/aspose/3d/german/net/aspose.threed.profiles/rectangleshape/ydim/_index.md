@@ -1,7 +1,7 @@
 ---
 title: YDim
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ermittelt oder setzt die Ausdehnung des Rechtecks in Richtung der y-Achse Der Standardwert ist 20
+description: Ermittelt oder setzt die Ausdehnung des Rechtecks in Richtung der yAchse Der Standardwert ist 20
 type: docs
 weight: 40
 url: /de/net/aspose.threed.profiles/rectangleshape/ydim/

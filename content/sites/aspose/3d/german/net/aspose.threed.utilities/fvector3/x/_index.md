@@ -1,7 +1,7 @@
 ---
 title: x
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die x-Komponente.
+description: Die xKomponente.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.utilities/fvector3/x/

@@ -1,7 +1,7 @@
 ---
 title: DepthClear
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den verwendeten Tiefenwert ab oder legt ihn fest wenn das Ansichtsfenster mit gesetztem Tiefenpuffer-Bit gelöscht wird.
+description: Ruft den verwendeten Tiefenwert ab oder legt ihn fest wenn das Ansichtsfenster mit gesetztem TiefenpufferBit gelöscht wird.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.render/viewport/depthclear/

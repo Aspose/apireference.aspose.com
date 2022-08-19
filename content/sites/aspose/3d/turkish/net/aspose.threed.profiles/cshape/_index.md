@@ -1,7 +1,7 @@
 ---
 title: CShape
 second_title: Aspose.3D for .NET API Referansı
-description: Parametrelerle tanımlanan IFC uyumlu C-şekilli profil. Profilin merkez konumu sınırlama kutusunun ortasındadır.
+description: Parametrelerle tanımlanan IFC uyumlu Cşekilli profil. Profilin merkez konumu sınırlama kutusunun ortasındadır.
 type: docs
 weight: 1520
 url: /tr/net/aspose.threed.profiles/cshape/

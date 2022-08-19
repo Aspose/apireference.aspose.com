@@ -1,7 +1,7 @@
 ---
 title: GetEntityRendererKey
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Schlüssel des Entity-Renderers ab der im Renderer registriert ist
+description: Ruft den Schlüssel des EntityRenderers ab der im Renderer registriert ist
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/curve/getentityrendererkey/

@@ -1,7 +1,7 @@
 ---
 title: CreateViewport
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Créer une fenêtre avec une couleur darrière-plan et une position/taille spécifiées dans la perspective de la caméra spécifiée.
+description: Créer une fenêtre avec une couleur darrièreplan et une position/taille spécifiées dans la perspective de la caméra spécifiée.
 type: docs
 weight: 30
 url: /fr/net/aspose.threed.render/irendertarget/createviewport/

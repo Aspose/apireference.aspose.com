@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Entity-Renderer wird verworfen freigegebene Ressourcen freigeben.
+description: Der EntityRenderer wird verworfen freigegebene Ressourcen freigeben.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.render/entityrenderer/dispose/

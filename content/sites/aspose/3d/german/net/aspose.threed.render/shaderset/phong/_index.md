@@ -1,7 +1,7 @@
 ---
 title: Phong
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Shader ab oder legt ihn fest der zum Rendern des Phong-Materials verwendet wurde
+description: Ruft den Shader ab oder legt ihn fest der zum Rendern des PhongMaterials verwendet wurde
 type: docs
 weight: 50
 url: /de/net/aspose.threed.render/shaderset/phong/

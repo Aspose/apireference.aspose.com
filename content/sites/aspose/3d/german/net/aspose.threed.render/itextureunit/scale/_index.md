@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Skala der UV-Koordinate ab oder legt sie fest.
+description: Ruft die Skala der UVKoordinate ab oder legt sie fest.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.render/itextureunit/scale/

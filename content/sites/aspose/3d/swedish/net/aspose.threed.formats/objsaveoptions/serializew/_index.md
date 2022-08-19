@@ -1,7 +1,7 @@
 ---
 title: SerializeW
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in om serialisera W-komponent i modellens vertexposition.
+description: Hämtar eller ställer in om serialisera Wkomponent i modellens vertexposition.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.formats/objsaveoptions/serializew/

@@ -1,7 +1,7 @@
 ---
 title: Accept
 second_title: Aspose.3D für .NET-API-Referenz
-description: Durchläuft alle untergeordneten Knoten einschließlich des aktuellen Knotens und ruft den Besucher mit dem Knoten auf. Der Besucher kann den Walk-Through unterbrechen indem er false zurückgibt
+description: Durchläuft alle untergeordneten Knoten einschließlich des aktuellen Knotens und ruft den Besucher mit dem Knoten auf. Der Besucher kann den WalkThrough unterbrechen indem er false zurückgibt
 type: docs
 weight: 140
 url: /de/net/aspose.threed/node/accept/

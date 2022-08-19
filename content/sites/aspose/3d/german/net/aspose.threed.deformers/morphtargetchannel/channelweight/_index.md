@@ -1,7 +1,7 @@
 ---
 title: ChannelWeight
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft das Deformer-Gewicht dieses Kanals ab oder setzt es. Das Gewicht liegt zwischen 00 und 10
+description: Ruft das DeformerGewicht dieses Kanals ab oder setzt es. Das Gewicht liegt zwischen 00 und 10
 type: docs
 weight: 20
 url: /de/net/aspose.threed.deformers/morphtargetchannel/channelweight/

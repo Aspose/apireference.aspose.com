@@ -1,7 +1,7 @@
 ---
 title: RegisterEntityRenderer
 second_title: Aspose.3D für .NET-API-Referenz
-description: Registrieren Sie den Entitäts-Renderer für die angegebene Entität
+description: Registrieren Sie den EntitätsRenderer für die angegebene Entität
 type: docs
 weight: 200
 url: /de/net/aspose.threed.render/renderer/registerentityrenderer/

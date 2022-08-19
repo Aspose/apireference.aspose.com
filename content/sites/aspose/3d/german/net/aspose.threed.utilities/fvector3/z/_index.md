@@ -1,7 +1,7 @@
 ---
 title: z
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die y-Komponente.
+description: Die yKomponente.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.utilities/fvector3/z/

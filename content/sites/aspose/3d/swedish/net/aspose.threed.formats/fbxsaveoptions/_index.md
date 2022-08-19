@@ -1,7 +1,7 @@
 ---
 title: FbxSaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Spara alternativ för Fbx-fil.
+description: Spara alternativ för Fbxfil.
 type: docs
 weight: 1120
 url: /sv/net/aspose.threed.formats/fbxsaveoptions/

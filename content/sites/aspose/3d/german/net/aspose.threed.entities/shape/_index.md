@@ -1,7 +1,7 @@
 ---
 title: Shape
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die Form beschreibt die Verformung an einer Reihe von Kontrollpunkten ähnlich dem Cluster-Verformer in Maya. Beispielsweise können wir einer erstellten Geometrie eine Form hinzufügen. Und die Form und die Geometrie haben die gleichen topologischen Informationen aber unterschiedliche Positionen der Kontrollpunkte. Bei unterschiedlich starker Beeinflussung führt die Geometrie zu einer Deformationswirkung.
+description: Die Form beschreibt die Verformung an einer Reihe von Kontrollpunkten ähnlich dem ClusterVerformer in Maya. Beispielsweise können wir einer erstellten Geometrie eine Form hinzufügen. Und die Form und die Geometrie haben die gleichen topologischen Informationen aber unterschiedliche Positionen der Kontrollpunkte. Bei unterschiedlich starker Beeinflussung führt die Geometrie zu einer Deformationswirkung.
 type: docs
 weight: 640
 url: /de/net/aspose.threed.entities/shape/

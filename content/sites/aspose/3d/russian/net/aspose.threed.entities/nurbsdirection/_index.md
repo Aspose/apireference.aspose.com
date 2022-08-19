@@ -1,7 +1,7 @@
 ---
 title: NurbsDirection
 second_title: Справочник по Aspose.3D для .NET API
-description: 3DNurbsSurface./nurbssurface имеет два направления т.U./nurbssurface/u а такжеV./nurbssurface/v NurbsDirection./nurbsdirection определяет данные для каждого направления. Направление на самом деле является NURBS-кривой что означает что оно также определяетсяOrder./nurbsdirection/order  аKnotVectors./nurbsdirection/knotvectors  и набор взвешенных контрольных точек определенных вNurbsSurface./nurbssurface .
+description: 3DNurbsSurface./nurbssurface имеет два направления т.U./nurbssurface/u а такжеV./nurbssurface/v NurbsDirection./nurbsdirection определяет данные для каждого направления. Направление на самом деле является NURBSкривой что означает что оно также определяетсяOrder./nurbsdirection/order  аKnotVectors./nurbsdirection/knotvectors  и набор взвешенных контрольных точек определенных вNurbsSurface./nurbssurface .
 type: docs
 weight: 470
 url: /ru/net/aspose.threed.entities/nurbsdirection/

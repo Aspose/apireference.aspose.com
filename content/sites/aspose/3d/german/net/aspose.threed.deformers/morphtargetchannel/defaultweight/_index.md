@@ -1,7 +1,7 @@
 ---
 title: DefaultWeight
 second_title: Aspose.3D für .NET-API-Referenz
-description: Standardgewichtung für Morph-Ziel.
+description: Standardgewichtung für MorphZiel.
 type: docs
 weight: 80
 url: /de/net/aspose.threed.deformers/morphtargetchannel/defaultweight/

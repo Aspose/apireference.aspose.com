@@ -1,7 +1,7 @@
 ---
 title: ZShape
 second_title: Справочник по Aspose.3D для .NET API
-description: IFC-совместимый Z-образный профиль определяемый параметрами.
+description: IFCсовместимый Zобразный профиль определяемый параметрами.
 type: docs
 weight: 1660
 url: /ru/net/aspose.threed.profiles/zshape/

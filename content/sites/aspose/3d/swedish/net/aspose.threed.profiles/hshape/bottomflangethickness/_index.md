@@ -1,7 +1,7 @@
 ---
 title: BottomFlangeThickness
 second_title: Aspose.3D för .NET API-referens
-description: Får eller ställer in flänstjockleken för H-form.
+description: Får eller ställer in flänstjockleken för Hform.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.profiles/hshape/bottomflangethickness/

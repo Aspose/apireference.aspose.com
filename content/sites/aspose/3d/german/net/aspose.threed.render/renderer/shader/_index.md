@@ -1,7 +1,7 @@
 ---
 title: Shader
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die zum Rendern der Geometrie verwendete Shader-Instanz ab oder legt sie fest.
+description: Ruft die zum Rendern der Geometrie verwendete ShaderInstanz ab oder legt sie fest.
 type: docs
 weight: 130
 url: /de/net/aspose.threed.render/renderer/shader/

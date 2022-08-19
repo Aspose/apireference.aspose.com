@@ -1,7 +1,7 @@
 ---
 title: FromWin32
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die native HWND-Instanz in der Windows-Umgebung.
+description: Die native HWNDInstanz in der WindowsUmgebung.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.render/windowhandle/fromwin32/

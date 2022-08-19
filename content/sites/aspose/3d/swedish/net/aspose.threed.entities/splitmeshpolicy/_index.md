@@ -1,7 +1,7 @@
 ---
 title: SplitMeshPolicy
 second_title: Aspose.3D för .NET API-referens
-description: Dela vertex-/kontrollpunktsdata mellan sub-mesh eller varje sub-mesh har sina egna komprimerade data.
+description: Dela vertex/kontrollpunktsdata mellan submesh eller varje submesh har sina egna komprimerade data.
 type: docs
 weight: 680
 url: /sv/net/aspose.threed.entities/splitmeshpolicy/

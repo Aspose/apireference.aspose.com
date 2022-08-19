@@ -1,7 +1,7 @@
 ---
 title: DefaultValue
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt den Standardwert des Kanals. Wenn ein Kanal keine Keyframe-Sequenzen verbunden hat wird der Standardwert während der Animationsauswertung verwendet. Ein reales Szenario Animation animiert nur die x-Koordinate eines Knotens die y und z sind nicht geändert dann wird der Standardwert während der vollständigen Übersetzungsauswertung verwendet.
+description: Holt oder setzt den Standardwert des Kanals. Wenn ein Kanal keine KeyframeSequenzen verbunden hat wird der Standardwert während der Animationsauswertung verwendet. Ein reales Szenario Animation animiert nur die xKoordinate eines Knotens die y und z sind nicht geändert dann wird der Standardwert während der vollständigen Übersetzungsauswertung verwendet.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.animation/animationchannel/defaultvalue/

@@ -1,7 +1,7 @@
 ---
 title: Zip
 second_title: Aspose.3D für .NET-API-Referenz
-description: Zip-Archiv das andere 3D-Dateiformate enthält.
+description: ZipArchiv das andere 3DDateiformate enthält.
 type: docs
 weight: 410
 url: /de/net/aspose.threed/fileformat/zip/

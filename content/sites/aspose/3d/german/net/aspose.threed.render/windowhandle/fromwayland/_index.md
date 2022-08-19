@@ -1,7 +1,7 @@
 ---
 title: FromWayland
 second_title: Aspose.3D für .NET-API-Referenz
-description: erstellenWindowHandleaspose.threed.render/windowhandle von einer Wayland-Oberfläche
+description: erstellenWindowHandleaspose.threed.render/windowhandle von einer WaylandOberfläche
 type: docs
 weight: 20
 url: /de/net/aspose.threed.render/windowhandle/fromwayland/

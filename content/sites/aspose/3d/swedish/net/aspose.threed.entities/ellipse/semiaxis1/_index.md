@@ -1,7 +1,7 @@
 ---
 title: SemiAxis1
 second_title: Aspose.3D för .NET API-referens
-description: Radie på X-axeln
+description: Radie på Xaxeln
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.entities/ellipse/semiaxis1/

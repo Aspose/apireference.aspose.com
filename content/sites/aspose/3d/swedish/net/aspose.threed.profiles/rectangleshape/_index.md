@@ -1,7 +1,7 @@
 ---
 title: RectangleShape
 second_title: Aspose.3D för .NET API-referens
-description: IFC-kompatibel rektangulär form med rundade hörn.
+description: IFCkompatibel rektangulär form med rundade hörn.
 type: docs
 weight: 1620
 url: /sv/net/aspose.threed.profiles/rectangleshape/

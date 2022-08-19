@@ -1,7 +1,7 @@
 ---
 title: SlotName
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Slot-Name der angibt wo diese Textur begrenzt wird.
+description: Der SlotName der angibt wo diese Textur begrenzt wird.
 type: docs
 weight: 10
 url: /de/net/aspose.threed.shading/textureslot/slotname/

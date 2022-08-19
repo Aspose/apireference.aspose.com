@@ -1,7 +1,7 @@
 ---
 title: GetPostProcessing
 second_title: Riferimento API Aspose.3D per .NET
-description: Ottiene un post-processore integrato supportato dal renderer.
+description: Ottiene un postprocessore integrato supportato dal renderer.
 type: docs
 weight: 190
 url: /it/net/aspose.threed.render/renderer/getpostprocessing/

@@ -1,7 +1,7 @@
 ---
 title: MatrixWorldViewProjection
 second_title: Aspose.3D für .NET-API-Referenz
-description: Matrix für Weltbild- und Projektionstransformation
+description: Matrix für Weltbild und Projektionstransformation
 type: docs
 weight: 90
 url: /de/net/aspose.threed.render/renderervariablemanager/matrixworldviewprojection/

@@ -1,7 +1,7 @@
 ---
 title: VerticesToArray
 second_title: Aspose.3D für .NET-API-Referenz
-description: Vertices-Daten in Byte-Array konvertieren
+description: VerticesDaten in ByteArray konvertieren
 type: docs
 weight: 250
 url: /de/net/aspose.threed.entities/trimesh/verticestoarray/

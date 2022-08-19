@@ -1,7 +1,7 @@
 ---
 title: WebThickness
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt die Dicke des Stegs der H-Form.
+description: Holt oder setzt die Dicke des Stegs der HForm.
 type: docs
 weight: 110
 url: /de/net/aspose.threed.profiles/hshape/webthickness/

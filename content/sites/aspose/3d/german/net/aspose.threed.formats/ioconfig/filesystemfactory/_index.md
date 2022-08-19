@@ -1,7 +1,7 @@
 ---
 title: FileSystemFactory
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Factory-Klasse für FileSystem ab oder legt sie fest. Die Standard-Factory wird erstelltLocalFileSystemaspose.threed.utilities/localfilesystem was nicht für die Serverumgebung geeignet ist.
+description: Ruft die FactoryKlasse für FileSystem ab oder legt sie fest. Die StandardFactory wird erstelltLocalFileSystemaspose.threed.utilities/localfilesystem was nicht für die Serverumgebung geeignet ist.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.formats/ioconfig/filesystemfactory/

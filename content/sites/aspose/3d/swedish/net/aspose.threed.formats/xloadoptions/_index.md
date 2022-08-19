@@ -1,7 +1,7 @@
 ---
 title: XLoadOptions
 second_title: Aspose.3D för .NET API-referens
-description: Ladda alternativ för DirectX X-filer.
+description: Ladda alternativ för DirectX Xfiler.
 type: docs
 weight: 1400
 url: /sv/net/aspose.threed.formats/xloadoptions/

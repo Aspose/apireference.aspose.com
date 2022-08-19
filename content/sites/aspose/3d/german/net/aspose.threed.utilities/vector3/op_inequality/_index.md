@@ -1,7 +1,7 @@
 ---
 title: op_Inequality
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ungleich-Operator für Vector3
+description: UngleichOperator für Vector3
 type: docs
 weight: 270
 url: /de/net/aspose.threed.utilities/vector3/op_inequality/

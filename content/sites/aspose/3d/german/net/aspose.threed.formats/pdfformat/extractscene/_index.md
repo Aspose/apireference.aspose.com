@@ -1,7 +1,7 @@
 ---
 title: ExtractScene
 second_title: Aspose.3D für .NET-API-Referenz
-description: 3D-Szenen aus PDF-Datei extrahieren.
+description: 3DSzenen aus PDFDatei extrahieren.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/pdfformat/extractscene/

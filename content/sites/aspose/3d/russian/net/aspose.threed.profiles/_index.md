@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Profiles
 second_title: Справочник по Aspose.3D для .NET API
-description: Все классы 2D-профилей определены в этом пространстве имен.
+description: Все классы 2Dпрофилей определены в этом пространстве имен.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.profiles/

@@ -1,7 +1,7 @@
 ---
 title: ShearBottom
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt die Schertransformation der Unterseite Vektor speichert den x-Achse z-Achse Scherwert der im Bogenmaß gemessen wird Standardwert ist 0 0
+description: Holt oder setzt die Schertransformation der Unterseite Vektor speichert den xAchse zAchse Scherwert der im Bogenmaß gemessen wird Standardwert ist 0 0
 type: docs
 weight: 110
 url: /de/net/aspose.threed.entities/cylinder/shearbottom/

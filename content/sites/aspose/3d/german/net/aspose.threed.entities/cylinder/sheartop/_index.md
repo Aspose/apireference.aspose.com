@@ -1,7 +1,7 @@
 ---
 title: ShearTop
 second_title: Aspose.3D für .NET-API-Referenz
-description: Liest oder setzt die Schertransformation der Oberseite Vektor speichert den x-Achse z-Achse Scherwert der im Bogenmaß gemessen wird Standardwert ist 0 0
+description: Liest oder setzt die Schertransformation der Oberseite Vektor speichert den xAchse zAchse Scherwert der im Bogenmaß gemessen wird Standardwert ist 0 0
 type: docs
 weight: 120
 url: /de/net/aspose.threed.entities/cylinder/sheartop/

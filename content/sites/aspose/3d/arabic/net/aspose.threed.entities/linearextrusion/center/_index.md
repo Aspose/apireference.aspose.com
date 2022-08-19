@@ -1,7 +1,7 @@
 ---
 title: Center
 second_title: Aspose.3D لمرجع .NET API
-description: إذا كانت هذه القيمة خاطئة  فإن نطاق البثق الخطي Z يكون من 0 إلى الارتفاع  وإلا فإن النطاق من -height / 2 إلى height / 2.
+description: إذا كانت هذه القيمة خاطئة  فإن نطاق البثق الخطي Z يكون من 0 إلى الارتفاع  وإلا فإن النطاق من height / 2 إلى height / 2.
 type: docs
 weight: 20
 url: /ar/net/aspose.threed.entities/linearextrusion/center/

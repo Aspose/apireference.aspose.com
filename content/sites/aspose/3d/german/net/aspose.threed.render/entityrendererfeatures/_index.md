@@ -1,7 +1,7 @@
 ---
 title: EntityRendererFeatures
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die zusätzlichen Funktionen die der Entity-Renderer bereitstellt
+description: Die zusätzlichen Funktionen die der EntityRenderer bereitstellt
 type: docs
 weight: 1790
 url: /de/net/aspose.threed.render/entityrendererfeatures/

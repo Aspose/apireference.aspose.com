@@ -1,7 +1,7 @@
 ---
 title: ShaderException
 second_title: Aspose.3D för .NET API-referens
-description: Shader-relaterade undantag
+description: Shaderrelaterade undantag
 type: docs
 weight: 2130
 url: /sv/net/aspose.threed.render/shaderexception/

@@ -1,7 +1,7 @@
 ---
 title: GLTF
 second_title: Aspose.3D für .NET-API-Referenz
-description: glTF der Khronos-Gruppe
+description: glTF der KhronosGruppe
 type: docs
 weight: 210
 url: /de/net/aspose.threed/fileformat/gltf/

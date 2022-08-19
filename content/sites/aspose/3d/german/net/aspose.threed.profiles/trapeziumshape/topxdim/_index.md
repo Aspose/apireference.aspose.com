@@ -1,7 +1,7 @@
 ---
 title: TopXDim
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Ausdehnung der oberen Linie gemessen entlang der x-Achse ab oder legt sie fest.
+description: Ruft die Ausdehnung der oberen Linie gemessen entlang der xAchse ab oder legt sie fest.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.profiles/trapeziumshape/topxdim/

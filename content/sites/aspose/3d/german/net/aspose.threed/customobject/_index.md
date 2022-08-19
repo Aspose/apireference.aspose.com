@@ -1,7 +1,7 @@
 ---
 title: CustomObject
 second_title: Aspose.3D für .NET-API-Referenz
-description: Metadaten oder benutzerdefinierte Objekte die in 3D-Dateien verwendet werden werden von dieser Klasse verwaltet. Alle benutzerdefinierten Eigenschaften werden als dynamische Eigenschaften gespeichert.
+description: Metadaten oder benutzerdefinierte Objekte die in 3DDateien verwendet werden werden von dieser Klasse verwaltet. Alle benutzerdefinierten Eigenschaften werden als dynamische Eigenschaften gespeichert.
 type: docs
 weight: 170
 url: /de/net/aspose.threed/customobject/

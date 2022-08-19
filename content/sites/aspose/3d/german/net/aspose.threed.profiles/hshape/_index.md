@@ -1,7 +1,7 @@
 ---
 title: HShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: DieHShape./hshapeliefert die definierenden Parameter einer H- oder I-Form.
+description: DieHShape./hshapeliefert die definierenden Parameter einer H oder IForm.
 type: docs
 weight: 1550
 url: /de/net/aspose.threed.profiles/hshape/

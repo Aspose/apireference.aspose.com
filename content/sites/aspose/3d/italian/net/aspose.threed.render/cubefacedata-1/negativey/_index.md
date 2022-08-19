@@ -1,7 +1,7 @@
 ---
 title: NegativeY
 second_title: Riferimento API Aspose.3D per .NET
-description: Ottiene o imposta i dati per -YBottom face
+description: Ottiene o imposta i dati per YBottom face
 type: docs
 weight: 70
 url: /it/net/aspose.threed.render/cubefacedata-1/negativey/

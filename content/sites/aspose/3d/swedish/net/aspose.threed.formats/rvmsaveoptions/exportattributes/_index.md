@@ -1,7 +1,7 @@
 ---
 title: ExportAttributes
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in om attributlistan ska exporteras till en extern .att-fil standardvärdet är false.
+description: Hämtar eller ställer in om attributlistan ska exporteras till en extern .attfil standardvärdet är false.
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.formats/rvmsaveoptions/exportattributes/

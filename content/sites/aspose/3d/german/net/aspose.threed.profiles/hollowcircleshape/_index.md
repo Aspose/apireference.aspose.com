@@ -1,7 +1,7 @@
 ---
 title: HollowCircleShape
 second_title: Aspose.3D für .NET-API-Referenz
-description: IFC-kompatibles Hohlkreisprofil.
+description: IFCkompatibles Hohlkreisprofil.
 type: docs
 weight: 1560
 url: /de/net/aspose.threed.profiles/hollowcircleshape/

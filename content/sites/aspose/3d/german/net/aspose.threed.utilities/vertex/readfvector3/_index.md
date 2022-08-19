@@ -1,7 +1,7 @@
 ---
 title: ReadFVector3
 second_title: Aspose.3D für .NET-API-Referenz
-description: Lesen Sie das Vektor3-Feld
+description: Lesen Sie das Vektor3Feld
 type: docs
 weight: 50
 url: /de/net/aspose.threed.utilities/vertex/readfvector3/

@@ -1,7 +1,7 @@
 ---
 title: IsCartesianPoint
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Le point final est-il un point cartésien 
+description: Le point final estil un point cartésien 
 type: docs
 weight: 60
 url: /fr/net/aspose.threed.entities/endpoint/iscartesianpoint/

@@ -1,7 +1,7 @@
 ---
 title: GltfEmbeddedImageFormat
 second_title: Aspose.3D för .NET API-referens
-description: Hur glTF-exportören kommer att bädda in texturerna under exporten.
+description: Hur glTFexportören kommer att bädda in texturerna under exporten.
 type: docs
 weight: 1140
 url: /sv/net/aspose.threed.formats/gltfembeddedimageformat/

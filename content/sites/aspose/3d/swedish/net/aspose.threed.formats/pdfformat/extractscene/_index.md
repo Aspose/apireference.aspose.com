@@ -1,7 +1,7 @@
 ---
 title: ExtractScene
 second_title: Aspose.3D för .NET API-referens
-description: Extrahera 3D-scener från PDF-fil.
+description: Extrahera 3Dscener från PDFfil.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.formats/pdfformat/extractscene/

@@ -1,7 +1,7 @@
 ---
 title: FileNote
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Note de fichier dans len-tête du fichier.
+description: Note de fichier dans lentête du fichier.
 type: docs
 weight: 70
 url: /fr/net/aspose.threed.formats/rvmsaveoptions/filenote/

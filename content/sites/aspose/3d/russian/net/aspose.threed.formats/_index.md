@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Formats
 second_title: Справочник по Aspose.3D для .NET API
-description: В этом пространстве имен определены настройки связанные с вводом-выводом.
+description: В этом пространстве имен определены настройки связанные с вводомвыводом.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.formats/

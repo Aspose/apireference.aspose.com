@@ -1,7 +1,7 @@
 ---
 title: DummyFileSystem
 second_title: Aspose.3D för .NET API-referens
-description: Läs-/skrivoperationer är dummy-operationer.
+description: Läs/skrivoperationer är dummyoperationer.
 type: docs
 weight: 2460
 url: /sv/net/aspose.threed.utilities/dummyfilesystem/

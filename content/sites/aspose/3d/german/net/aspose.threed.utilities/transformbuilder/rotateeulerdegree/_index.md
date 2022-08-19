@@ -1,7 +1,7 @@
 ---
 title: RotateEulerDegree
 second_title: Aspose.3D für .NET-API-Referenz
-description: Verkettet eine Drehung um Euler-Winkel in Grad
+description: Verkettet eine Drehung um EulerWinkel in Grad
 type: docs
 weight: 110
 url: /de/net/aspose.threed.utilities/transformbuilder/rotateeulerdegree/

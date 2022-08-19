@@ -1,7 +1,7 @@
 ---
 title: PdfRenderMode
 second_title: Aspose.3D für .NET-API-Referenz
-description: Rendermodus gibt den Stil an in dem die 3D-Grafik gerendert wird.
+description: Rendermodus gibt den Stil an in dem die 3DGrafik gerendert wird.
 type: docs
 weight: 1260
 url: /de/net/aspose.threed.formats/pdfrendermode/

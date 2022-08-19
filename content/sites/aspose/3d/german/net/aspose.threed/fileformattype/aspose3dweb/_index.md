@@ -1,7 +1,7 @@
 ---
 title: Aspose3DWeb
 second_title: Aspose.3D für .NET-API-Referenz
-description: Aspose.3D-Webformat.
+description: Aspose.3DWebformat.
 type: docs
 weight: 30
 url: /de/net/aspose.threed/fileformattype/aspose3dweb/

@@ -1,7 +1,7 @@
 ---
 title: IOConfig
 second_title: Aspose.3D für .NET-API-Referenz
-description: E/A-Konfiguration für Serialisierung/Deserialisierung. Der Benutzer kann detaillierte Konfigurationen wie Abhängigkeitssuchpfad oder formatbezogene Konfigurationen hier angeben
+description: E/AKonfiguration für Serialisierung/Deserialisierung. Der Benutzer kann detaillierte Konfigurationen wie Abhängigkeitssuchpfad oder formatbezogene Konfigurationen hier angeben
 type: docs
 weight: 1180
 url: /de/net/aspose.threed.formats/ioconfig/

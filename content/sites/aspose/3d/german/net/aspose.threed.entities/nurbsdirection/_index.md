@@ -1,7 +1,7 @@
 ---
 title: NurbsDirection
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein 3DNurbsSurface./nurbssurface hat zwei Richtung dieU./nurbssurface/u undV./nurbssurface/v  dasNurbsDirection./nurbsdirection definiert Daten für jede Richtung. Eine Richtung ist eigentlich eine NURBS-Kurve das heißt sie wird auch durch ihre definiertOrder./nurbsdirection/order  aKnotVectors./nurbsdirection/knotvectors  und eine Reihe gewichteter Kontrollpunkte definiert inNurbsSurface./nurbssurface .
+description: Ein 3DNurbsSurface./nurbssurface hat zwei Richtung dieU./nurbssurface/u undV./nurbssurface/v  dasNurbsDirection./nurbsdirection definiert Daten für jede Richtung. Eine Richtung ist eigentlich eine NURBSKurve das heißt sie wird auch durch ihre definiertOrder./nurbsdirection/order  aKnotVectors./nurbsdirection/knotvectors  und eine Reihe gewichteter Kontrollpunkte definiert inNurbsSurface./nurbssurface .
 type: docs
 weight: 470
 url: /de/net/aspose.threed.entities/nurbsdirection/

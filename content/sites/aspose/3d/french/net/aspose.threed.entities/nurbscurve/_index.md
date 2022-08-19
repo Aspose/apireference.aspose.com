@@ -1,7 +1,7 @@
 ---
 title: NurbsCurve
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Courbe NURBShttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline est une courbe représentée par NURBSNon-uniform rational based spline Une courbe NURBS est définie par saOrder./nurbscurve/order  un ensemble de pondérationsControlPoints./geometry/controlpoints et unKnotVectors./nurbscurve/knotvectors La composante w du point de contrôle est utilisée comme poids du point de contrôle quel quil soitTwoDimensional ouThreeDimensional
+description: Courbe NURBShttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline est une courbe représentée par NURBSNonuniform rational based spline Une courbe NURBS est définie par saOrder./nurbscurve/order  un ensemble de pondérationsControlPoints./geometry/controlpoints et unKnotVectors./nurbscurve/knotvectors La composante w du point de contrôle est utilisée comme poids du point de contrôle quel quil soitTwoDimensional ouThreeDimensional
 type: docs
 weight: 460
 url: /fr/net/aspose.threed.entities/nurbscurve/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Profiles
 second_title: Aspose.3D för .NET API-referens
-description: Alla 2D-profilklasser är definierade i detta namnutrymme.
+description: Alla 2Dprofilklasser är definierade i detta namnutrymme.
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.profiles/

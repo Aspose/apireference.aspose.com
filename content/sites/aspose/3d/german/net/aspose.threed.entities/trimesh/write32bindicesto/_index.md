@@ -1,7 +1,7 @@
 ---
 title: Write32bIndicesTo
 second_title: Aspose.3D für .NET-API-Referenz
-description: Schreiben Sie die Indexdaten als 32-Bit-Integer in den Stream
+description: Schreiben Sie die Indexdaten als 32BitInteger in den Stream
 type: docs
 weight: 270
 url: /de/net/aspose.threed.entities/trimesh/write32bindicesto/

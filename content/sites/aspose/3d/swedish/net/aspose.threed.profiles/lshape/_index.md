@@ -1,7 +1,7 @@
 ---
 title: LShape
 second_title: Aspose.3D för .NET API-referens
-description: IFC-kompatibel L-formad profil som definieras av parametrar.
+description: IFCkompatibel Lformad profil som definieras av parametrar.
 type: docs
 weight: 1580
 url: /sv/net/aspose.threed.profiles/lshape/

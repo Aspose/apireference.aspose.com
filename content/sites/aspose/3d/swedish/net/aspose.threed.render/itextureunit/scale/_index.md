@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in skalan för UV-koordinaten.
+description: Hämtar eller ställer in skalan för UVkoordinaten.
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.render/itextureunit/scale/

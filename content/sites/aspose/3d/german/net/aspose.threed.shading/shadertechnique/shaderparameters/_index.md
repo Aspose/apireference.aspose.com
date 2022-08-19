@@ -1,7 +1,7 @@
 ---
 title: ShaderParameters
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Shader-Parameterdefinition ab. Der Schlüssel ist der Name der dynamischen Eigenschaft und Wert ist der Name des Shader-Parameters mit dem die Eigenschaft verbunden ist.
+description: Ruft die ShaderParameterdefinition ab. Der Schlüssel ist der Name der dynamischen Eigenschaft und Wert ist der Name des ShaderParameters mit dem die Eigenschaft verbunden ist.
 type: docs
 weight: 90
 url: /de/net/aspose.threed.shading/shadertechnique/shaderparameters/

@@ -1,7 +1,7 @@
 ---
 title: BindPipeline
 second_title: Aspose.3D för .NET API-referens
-description: Bind pipeline-instansen för rendering
+description: Bind pipelineinstansen för rendering
 type: docs
 weight: 30
 url: /sv/net/aspose.threed.render/icommandlist/bindpipeline/

@@ -1,7 +1,7 @@
 ---
 title: BindPoint
 second_title: Aspose.3D für .NET-API-Referenz
-description: ABindPoint./bindpointwird normalerweise auf der Eigenschaft eines Objekts erstellt einige Eigenschaftstypen enthalten mehrere Komponentenfelder wie ein Vector3-Feld BindPoint./bindpoint generiert einen Kanal für jedes Komponentenfeld und verbindet das Feld über die Kanäle mit einer oder mehreren Keyframe-Sequenzinstanzen.
+description: ABindPoint./bindpointwird normalerweise auf der Eigenschaft eines Objekts erstellt einige Eigenschaftstypen enthalten mehrere Komponentenfelder wie ein Vector3Feld BindPoint./bindpoint generiert einen Kanal für jedes Komponentenfeld und verbindet das Feld über die Kanäle mit einer oder mehreren KeyframeSequenzinstanzen.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.animation/bindpoint/

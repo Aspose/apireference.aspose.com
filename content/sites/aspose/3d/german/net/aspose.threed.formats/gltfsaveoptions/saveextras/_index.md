@@ -1,7 +1,7 @@
 ---
 title: SaveExtras
 second_title: Aspose.3D für .NET-API-Referenz
-description: Speichern Sie die dynamischen Eigenschaften des Szenenobjekts in zusätzlichen Feldern in der generierten glTF-Datei. Dies ist nützlich um anwendungsspezifische Daten bereitzustellen. Der Standardwert ist false.
+description: Speichern Sie die dynamischen Eigenschaften des Szenenobjekts in zusätzlichen Feldern in der generierten glTFDatei. Dies ist nützlich um anwendungsspezifische Daten bereitzustellen. Der Standardwert ist false.
 type: docs
 weight: 110
 url: /de/net/aspose.threed.formats/gltfsaveoptions/saveextras/

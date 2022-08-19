@@ -1,7 +1,7 @@
 ---
 title: EntityRenderer
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Sous-classe ceci pour implémenter le rendu pour différents types dentités.
+description: Sousclasse ceci pour implémenter le rendu pour différents types dentités.
 type: docs
 weight: 1780
 url: /fr/net/aspose.threed.render/entityrenderer/

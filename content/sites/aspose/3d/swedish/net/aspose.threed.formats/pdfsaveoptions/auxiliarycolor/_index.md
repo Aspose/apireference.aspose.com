@@ -1,7 +1,7 @@
 ---
 title: AuxiliaryColor
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in hjälpfärgen som ska användas vid rendering av 3D-innehåll. Tolkningen av denna färg beror påRenderModeaspose.threed.formats/pdfsaveoptions/rendermode
+description: Hämtar eller ställer in hjälpfärgen som ska användas vid rendering av 3Dinnehåll. Tolkningen av denna färg beror påRenderModeaspose.threed.formats/pdfsaveoptions/rendermode
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.formats/pdfsaveoptions/auxiliarycolor/

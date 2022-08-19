@@ -1,7 +1,7 @@
 ---
 title: EllipseShape
 second_title: Справочник по Aspose.3D для .NET API
-description: IFC-совместимая форма эллипса определяемая параметрами. Центральное положение профиля находится в центре ограничивающей рамки.
+description: IFCсовместимая форма эллипса определяемая параметрами. Центральное положение профиля находится в центре ограничивающей рамки.
 type: docs
 weight: 1540
 url: /ru/net/aspose.threed.profiles/ellipseshape/

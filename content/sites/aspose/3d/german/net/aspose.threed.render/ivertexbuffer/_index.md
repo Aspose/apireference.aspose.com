@@ -1,7 +1,7 @@
 ---
 title: IVertexBuffer
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Vertex-Puffer enthält die Polygon-Vertex-Daten die an die Rendering-Pipeline gesendet werden
+description: Der VertexPuffer enthält die PolygonVertexDaten die an die RenderingPipeline gesendet werden
 type: docs
 weight: 1960
 url: /de/net/aspose.threed.render/ivertexbuffer/

@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Aspose.3D for .NET API 参考
-description: 运算符重载 - 减号
+description: 运算符重载  减号
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.utilities/fvector4/op_subtraction/

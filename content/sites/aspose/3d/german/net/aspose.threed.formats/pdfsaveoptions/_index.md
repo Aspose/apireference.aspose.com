@@ -1,7 +1,7 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die Speicheroptionen beim PDF-Export.
+description: Die Speicheroptionen beim PDFExport.
 type: docs
 weight: 1270
 url: /de/net/aspose.threed.formats/pdfsaveoptions/

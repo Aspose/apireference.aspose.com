@@ -1,7 +1,7 @@
 ---
 title: Execute
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Exécuter un post-traitement sur la cible de rendu spécifiée
+description: Exécuter un posttraitement sur la cible de rendu spécifiée
 type: docs
 weight: 180
 url: /fr/net/aspose.threed.render/renderer/execute/

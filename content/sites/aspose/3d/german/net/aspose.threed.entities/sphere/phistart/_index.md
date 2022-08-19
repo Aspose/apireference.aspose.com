@@ -1,7 +1,7 @@
 ---
 title: PhiStart
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Phi-Start ab oder setzt ihn.
+description: Ruft den PhiStart ab oder setzt ihn.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.entities/sphere/phistart/

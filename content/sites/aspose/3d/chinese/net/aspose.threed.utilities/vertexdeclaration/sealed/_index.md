@@ -1,7 +1,7 @@
 ---
 title: Sealed
 second_title: Aspose.3D for .NET API 参考
-description: 一个VertexDeclarationaspose.threed.utilities/vertexdeclaration使用时将被密封TriMeshaspose.threed.entities/trimesh-1或者TriMeshaspose.threed.entities/trimesh不允许再修改
+description: 一个VertexDeclarationaspose.threed.utilities/vertexdeclaration使用时将被密封TriMeshaspose.threed.entities/trimesh1或者TriMeshaspose.threed.entities/trimesh不允许再修改
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.utilities/vertexdeclaration/sealed/

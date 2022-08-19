@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Render
 second_title: Aspose.3D für .NET-API-Referenz
-description: Alle Rendering-bezogenen Klassen sind in diesem Namensraum definiert
+description: Alle Renderingbezogenen Klassen sind in diesem Namensraum definiert
 type: docs
 weight: 70
 url: /de/net/aspose.threed.render/

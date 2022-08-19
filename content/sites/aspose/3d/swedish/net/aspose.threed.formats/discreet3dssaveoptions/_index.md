@@ -1,7 +1,7 @@
 ---
 title: Discreet3dsSaveOptions
 second_title: Aspose.3D för .NET API-referens
-description: Spara alternativ för 3DS-fil.
+description: Spara alternativ för 3DSfil.
 type: docs
 weight: 1070
 url: /sv/net/aspose.threed.formats/discreet3dssaveoptions/

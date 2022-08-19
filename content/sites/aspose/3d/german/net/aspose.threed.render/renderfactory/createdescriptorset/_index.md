@@ -1,7 +1,7 @@
 ---
 title: CreateDescriptorSet
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie den Deskriptorsatz für das angegebene Shader-Programm.
+description: Erstellen Sie den Deskriptorsatz für das angegebene ShaderProgramm.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.render/renderfactory/createdescriptorset/

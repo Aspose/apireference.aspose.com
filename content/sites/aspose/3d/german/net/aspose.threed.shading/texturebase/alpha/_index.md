@@ -1,7 +1,7 @@
 ---
 title: Alpha
 second_title: Aspose.3D für .NET-API-Referenz
-description: Holt oder setzt den Standard-Alpha-Wert der Textur Dies ist gültig wenn dieAlphaSourceaspose.threed.shading/texturebase/alphasource istPixelAlpha Standardwert ist 10 gültiger Wertebereich liegt zwischen 0 und 1
+description: Holt oder setzt den StandardAlphaWert der Textur Dies ist gültig wenn dieAlphaSourceaspose.threed.shading/texturebase/alphasource istPixelAlpha Standardwert ist 10 gültiger Wertebereich liegt zwischen 0 und 1
 type: docs
 weight: 20
 url: /de/net/aspose.threed.shading/texturebase/alpha/

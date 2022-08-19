@@ -1,7 +1,7 @@
 ---
 title: HTML5
 second_title: Aspose.3D für .NET-API-Referenz
-description: HTML5-Datei
+description: HTML5Datei
 type: docs
 weight: 100
 url: /de/net/aspose.threed/fileformattype/html5/

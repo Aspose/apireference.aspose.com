@@ -1,7 +1,7 @@
 ---
 title: AnimationNode
 second_title: Aspose.3D für .NET-API-Referenz
-description: Aspose.3D unterstützt die Animationshierarchie jede Animation kann aus mehreren Animationen und der Keyframe-Definition der Animation bestehen. AnimationNode./animationnode definiert die Transformation eines Eigenschaftswerts im Laufe der Zeit z. B. kann ein Animationsknoten verwendet werden um die Transformation eines Knotens oder anderes zu steuernA3DObject../aspose.threed/a3dobject Numerische Eigenschaften des Objekts.
+description: Aspose.3D unterstützt die Animationshierarchie jede Animation kann aus mehreren Animationen und der KeyframeDefinition der Animation bestehen. AnimationNode./animationnode definiert die Transformation eines Eigenschaftswerts im Laufe der Zeit z. B. kann ein Animationsknoten verwendet werden um die Transformation eines Knotens oder anderes zu steuernA3DObject../aspose.threed/a3dobject Numerische Eigenschaften des Objekts.
 type: docs
 weight: 40
 url: /de/net/aspose.threed.animation/animationnode/

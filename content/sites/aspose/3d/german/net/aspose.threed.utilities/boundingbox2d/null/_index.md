@@ -1,7 +1,7 @@
 ---
 title: Null
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Null-Begrenzungsrahmen
+description: Der NullBegrenzungsrahmen
 type: docs
 weight: 30
 url: /de/net/aspose.threed.utilities/boundingbox2d/null/

@@ -1,7 +1,7 @@
 ---
 title: EnableMipMap
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает включено ли MIP-карта для этой текстуры
+description: Получает или задает включено ли MIPкарта для этой текстуры
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.shading/texture/enablemipmap/

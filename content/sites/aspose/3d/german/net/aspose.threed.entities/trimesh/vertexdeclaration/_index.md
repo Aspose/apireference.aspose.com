@@ -1,7 +1,7 @@
 ---
 title: VertexDeclaration
 second_title: Aspose.3D für .NET-API-Referenz
-description: Das Vertex-Layout derTriMeshaspose.threed.entities/trimesh .
+description: Das VertexLayout derTriMeshaspose.threed.entities/trimesh .
 type: docs
 weight: 80
 url: /de/net/aspose.threed.entities/trimesh/vertexdeclaration/

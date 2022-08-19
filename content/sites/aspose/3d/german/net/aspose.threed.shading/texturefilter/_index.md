@@ -1,7 +1,7 @@
 ---
 title: TextureFilter
 second_title: Aspose.3D für .NET-API-Referenz
-description: Filteroptionen während des Textur-Samplings.
+description: Filteroptionen während des TexturSamplings.
 type: docs
 weight: 2370
 url: /de/net/aspose.threed.shading/texturefilter/

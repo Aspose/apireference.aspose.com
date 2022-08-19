@@ -1,7 +1,7 @@
 ---
 title: ShaderTechnique
 second_title: Aspose.3D för .NET API-referens
-description: En shader-teknik representerar en konkret renderingsimplementering.
+description: En shaderteknik representerar en konkret renderingsimplementering.
 type: docs
 weight: 2340
 url: /sv/net/aspose.threed.shading/shadertechnique/

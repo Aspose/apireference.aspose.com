@@ -1,7 +1,7 @@
 ---
 title: KeyframeSequences
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft alle Keyframe-Sequenzen in diesem Kanal ab
+description: Ruft alle KeyframeSequenzen in diesem Kanal ab
 type: docs
 weight: 30
 url: /de/net/aspose.threed.animation/animationchannel/keyframesequences/

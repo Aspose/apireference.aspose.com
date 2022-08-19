@@ -1,7 +1,7 @@
 ---
 title: PrepareRenderQueue
 second_title: Aspose.3D für .NET-API-Referenz
-description: Bereiten Sie Rendering-Befehle für das angegebene Knoten-/Entitätspaar vor.
+description: Bereiten Sie RenderingBefehle für das angegebene Knoten/Entitätspaar vor.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.render/entityrenderer/preparerenderqueue/

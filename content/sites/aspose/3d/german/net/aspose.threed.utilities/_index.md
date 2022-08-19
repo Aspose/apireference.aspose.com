@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Utilities
 second_title: Aspose.3D für .NET-API-Referenz
-description: Alle Utility-Klassen sind in diesem Namensraum definiert.
+description: Alle UtilityKlassen sind in diesem Namensraum definiert.
 type: docs
 weight: 90
 url: /de/net/aspose.threed.utilities/

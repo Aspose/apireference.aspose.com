@@ -1,7 +1,7 @@
 ---
 title: NegativeZ
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Obtient ou définit les données pour -ZFront face
+description: Obtient ou définit les données pour ZFront face
 type: docs
 weight: 80
 url: /fr/net/aspose.threed.render/cubefacedata-1/negativez/

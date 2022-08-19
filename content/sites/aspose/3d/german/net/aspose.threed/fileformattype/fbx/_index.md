@@ -1,7 +1,7 @@
 ---
 title: FBX
 second_title: Aspose.3D für .NET-API-Referenz
-description: FBX-Dateiformattyp
+description: FBXDateiformattyp
 type: docs
 weight: 80
 url: /de/net/aspose.threed/fileformattype/fbx/

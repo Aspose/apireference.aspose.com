@@ -1,7 +1,7 @@
 ---
 title: Depth
 second_title: Aspose.3D för .NET API-referens
-description: Får höjden på denna textur för ingen 3D-struktur är det alltid 1.
+description: Får höjden på denna textur för ingen 3Dstruktur är det alltid 1.
 type: docs
 weight: 10
 url: /sv/net/aspose.threed.render/itextureunit/depth/

@@ -1,7 +1,7 @@
 ---
 title: CreateElementUV
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellt einVertexElementUVaspose.threed.entities/vertexelementuv mit gegebenem Textur-Mapping-Typ.
+description: Erstellt einVertexElementUVaspose.threed.entities/vertexelementuv mit gegebenem TexturMappingTyp.
 type: docs
 weight: 100
 url: /de/net/aspose.threed.entities/geometry/createelementuv/

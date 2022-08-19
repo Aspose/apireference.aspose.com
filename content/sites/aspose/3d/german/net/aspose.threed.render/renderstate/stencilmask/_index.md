@@ -1,7 +1,7 @@
 ---
 title: StencilMask
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Maske ab oder legt sie fest die mit der Referenz und dem gespeicherten Schablonenwert UND-verknüpft wird wenn der Test abgeschlossen ist.
+description: Ruft die Maske ab oder legt sie fest die mit der Referenz und dem gespeicherten Schablonenwert UNDverknüpft wird wenn der Test abgeschlossen ist.
 type: docs
 weight: 170
 url: /de/net/aspose.threed.render/renderstate/stencilmask/

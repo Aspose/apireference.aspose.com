@@ -1,7 +1,7 @@
 ---
 title: XBinary
 second_title: Aspose.3D für .NET-API-Referenz
-description: DirectX X-Datei im Binärformat
+description: DirectX XDatei im Binärformat
 type: docs
 weight: 380
 url: /de/net/aspose.threed/fileformat/xbinary/

@@ -1,7 +1,7 @@
 ---
 title: MirroredProfile
 second_title: Aspose.3D för .NET API-referens
-description: IFC-kompatibel spegelprofil. Den här profilen definierar en ny profil genom att spegla basprofilen kring y-axeln.
+description: IFCkompatibel spegelprofil. Den här profilen definierar en ny profil genom att spegla basprofilen kring yaxeln.
 type: docs
 weight: 1590
 url: /sv/net/aspose.threed.profiles/mirroredprofile/

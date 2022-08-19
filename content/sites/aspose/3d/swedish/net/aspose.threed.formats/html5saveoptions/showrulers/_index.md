@@ -1,7 +1,7 @@
 ---
 title: ShowRulers
 second_title: Aspose.3D för .NET API-referens
-description: Visa linjaler för x/y/z-axlar i scenen för att mäta modellen. Standardvärdet är falskt.
+description: Visa linjaler för x/y/zaxlar i scenen för att mäta modellen. Standardvärdet är falskt.
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.formats/html5saveoptions/showrulers/

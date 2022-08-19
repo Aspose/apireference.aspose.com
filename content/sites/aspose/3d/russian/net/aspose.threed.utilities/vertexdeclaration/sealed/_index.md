@@ -1,7 +1,7 @@
 ---
 title: Sealed
 second_title: Справочник по Aspose.3D для .NET API
-description: АVertexDeclarationaspose.threed.utilities/vertexdeclaration будет запечатан когда он будет использоватьсяTriMeshaspose.threed.entities/trimesh-1 или жеTriMeshaspose.threed.entities/trimesh  дальнейшие модификации не допускаются.
+description: АVertexDeclarationaspose.threed.utilities/vertexdeclaration будет запечатан когда он будет использоватьсяTriMeshaspose.threed.entities/trimesh1 или жеTriMeshaspose.threed.entities/trimesh  дальнейшие модификации не допускаются.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.utilities/vertexdeclaration/sealed/

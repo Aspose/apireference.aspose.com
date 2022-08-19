@@ -1,7 +1,7 @@
 ---
 title: ASE
 second_title: Aspose.3D för .NET API-referens
-description: 3D Studio Maxs ASCII Scene Exporter-format.
+description: 3D Studio Maxs ASCII Scene Exporterformat.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed/fileformattype/ase/

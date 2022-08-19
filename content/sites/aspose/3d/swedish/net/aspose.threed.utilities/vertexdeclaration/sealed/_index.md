@@ -1,7 +1,7 @@
 ---
 title: Sealed
 second_title: Aspose.3D för .NET API-referens
-description: AVertexDeclarationaspose.threed.utilities/vertexdeclaration kommer att förseglas när den har använts avTriMeshaspose.threed.entities/trimesh-1 ellerTriMeshaspose.threed.entities/trimesh  inga fler ändringar är tillåtna.
+description: AVertexDeclarationaspose.threed.utilities/vertexdeclaration kommer att förseglas när den har använts avTriMeshaspose.threed.entities/trimesh1 ellerTriMeshaspose.threed.entities/trimesh  inga fler ändringar är tillåtna.
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.utilities/vertexdeclaration/sealed/

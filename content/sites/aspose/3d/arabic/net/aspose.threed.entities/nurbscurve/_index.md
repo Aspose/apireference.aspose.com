@@ -1,7 +1,7 @@
 ---
 title: NurbsCurve
 second_title: Aspose.3D لمرجع .NET API
-description: منحنى NURBShttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline هو منحنى يمثله NURBS شريحة أساس منطقي غير موحد  يتم تعريف منحنى NURBS من خلالOrder./nurbscurve/order  مجموعة مرجحةControlPoints./geometry/controlpoints و أKnotVectors./nurbscurve/knotvectors يتم استخدام المكون w في نقطة التحكم كوزن لنقطة التحكم  مهما كانTwoDimensional أوThreeDimensional
+description: منحنى NURBShttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline هو منحنى يمثله NURBS شريحة أساس منطقي غير موحد  يتم تعريف منحنى NURBS من خلالOrder./nurbscurve/order  مجموعة مرجحةControlPoints./geometry/controlpoints و أKnotVectors./nurbscurve/knotvectors يتم استخدام المكون w في نقطة التحكم كوزن لنقطة التحكم  مهما كانTwoDimensional أوThreeDimensional
 type: docs
 weight: 460
 url: /ar/net/aspose.threed.entities/nurbscurve/

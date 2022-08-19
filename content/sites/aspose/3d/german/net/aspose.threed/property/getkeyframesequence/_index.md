@@ -1,7 +1,7 @@
 ---
 title: GetKeyframeSequence
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Keyframe-Sequenz auf der angegebenen Animationsinstanz ab.
+description: Ruft die KeyframeSequenz auf der angegebenen Animationsinstanz ab.
 type: docs
 weight: 50
 url: /de/net/aspose.threed/property/getkeyframesequence/

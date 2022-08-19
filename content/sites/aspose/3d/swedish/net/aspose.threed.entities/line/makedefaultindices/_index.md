@@ -1,7 +1,7 @@
 ---
 title: MakeDefaultIndices
 second_title: Aspose.3D för .NET API-referens
-description: Generera sekvensen 0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Längd-1 tillSegmentsaspose.threed.entities/line/segments så att kontrollpunkterna kan användas som en enda rad
+description: Generera sekvensen 0123....ControlPointsaspose.threed.entities/geometry/controlpoints .Längd1 tillSegmentsaspose.threed.entities/line/segments så att kontrollpunkterna kan användas som en enda rad
 type: docs
 weight: 60
 url: /sv/net/aspose.threed.entities/line/makedefaultindices/

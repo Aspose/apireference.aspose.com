@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ermittelt oder legt die Breite der Box ausgerichtet an der x-Achse fest.
+description: Ermittelt oder legt die Breite der Box ausgerichtet an der xAchse fest.
 type: docs
 weight: 60
 url: /de/net/aspose.threed.entities/box/width/

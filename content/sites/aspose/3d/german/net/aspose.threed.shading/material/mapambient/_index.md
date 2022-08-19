@@ -1,7 +1,7 @@
 ---
 title: MapAmbient
 second_title: Aspose.3D für .NET-API-Referenz
-description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein Umgebungstextur-Mapping zuzuweisen.
+description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein UmgebungstexturMapping zuzuweisen.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.shading/material/mapambient/

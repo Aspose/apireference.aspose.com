@@ -1,7 +1,7 @@
 ---
 title: FlipCoordinateSystem
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ermittelt oder setzt das Flip-Koordinatensystem von Kontrollpunkten/Normalen während des Importierens/Exportierens.
+description: Ermittelt oder setzt das FlipKoordinatensystem von Kontrollpunkten/Normalen während des Importierens/Exportierens.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.formats/plyloadoptions/flipcoordinatesystem/

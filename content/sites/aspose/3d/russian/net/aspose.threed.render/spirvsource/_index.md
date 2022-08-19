@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Справочник по Aspose.3D для .NET API
-description: Скомпилированный шейдер в формате SPIR-V.
+description: Скомпилированный шейдер в формате SPIRV.
 type: docs
 weight: 2120
 url: /ru/net/aspose.threed.render/spirvsource/

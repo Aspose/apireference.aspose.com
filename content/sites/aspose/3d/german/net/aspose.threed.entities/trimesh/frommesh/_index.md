@@ -1,7 +1,7 @@
 ---
 title: FromMesh
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie ein TriMesh aus einem gegebenen Mesh-Objekt mit einem gegebenen Scheitelpunkt-Layout.
+description: Erstellen Sie ein TriMesh aus einem gegebenen MeshObjekt mit einem gegebenen ScheitelpunktLayout.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.entities/trimesh/frommesh/

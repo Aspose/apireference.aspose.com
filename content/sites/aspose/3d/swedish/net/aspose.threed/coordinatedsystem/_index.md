@@ -1,7 +1,7 @@
 ---
 title: CoordinatedSystem
 second_title: Aspose.3D för .NET API-referens
-description: Det vänster- eller högerhänta koordinatsystemet.
+description: Det vänster eller högerhänta koordinatsystemet.
 type: docs
 weight: 160
 url: /sv/net/aspose.threed/coordinatedsystem/

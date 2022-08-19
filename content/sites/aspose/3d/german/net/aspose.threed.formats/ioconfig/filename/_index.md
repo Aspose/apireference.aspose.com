@@ -1,7 +1,7 @@
 ---
 title: FileName
 second_title: Aspose.3D für .NET-API-Referenz
-description: Der Dateiname der Export-/Importszene. Dies ist optional aber nützlich wenn externe Assets wie OBJ-Material serialisiert werden.
+description: Der Dateiname der Export/Importszene. Dies ist optional aber nützlich wenn externe Assets wie OBJMaterial serialisiert werden.
 type: docs
 weight: 30
 url: /de/net/aspose.threed.formats/ioconfig/filename/

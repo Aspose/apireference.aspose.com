@@ -1,7 +1,7 @@
 ---
 title: FbxLoadOptions
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ladeoptionen für das Fbx-Format.
+description: Ladeoptionen für das FbxFormat.
 type: docs
 weight: 1110
 url: /de/net/aspose.threed.formats/fbxloadoptions/

@@ -1,7 +1,7 @@
 ---
 title: SplitMesh
 second_title: Aspose.3D für .NET-API-Referenz
-description: Netz in Unternetze aufteilen durchVertexElementMaterialaspose.threed.entities/vertexelementmaterial . Jedes Sub-Mesh verwendet nur ein Material. Mesh-Teilung an einem Knoten durchführen
+description: Netz in Unternetze aufteilen durchVertexElementMaterialaspose.threed.entities/vertexelementmaterial . Jedes SubMesh verwendet nur ein Material. MeshTeilung an einem Knoten durchführen
 type: docs
 weight: 60
 url: /de/net/aspose.threed.entities/polygonmodifier/splitmesh/

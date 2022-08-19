@@ -1,7 +1,7 @@
 ---
 title: UVTranslation
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in UV-översättningen.
+description: Hämtar eller ställer in UVöversättningen.
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.shading/texturebase/uvtranslation/

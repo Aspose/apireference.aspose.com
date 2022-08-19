@@ -1,7 +1,7 @@
 ---
 title: SkinDeformer
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ein Skin-Deformer enthält mehrere zu bearbeitende Bones jeder Bone mischt einen Teil der Geometrie durch die Gewichtung der Kontrollpunkte.
+description: Ein SkinDeformer enthält mehrere zu bearbeitende Bones jeder Bone mischt einen Teil der Geometrie durch die Gewichtung der Kontrollpunkte.
 type: docs
 weight: 220
 url: /de/net/aspose.threed.deformers/skindeformer/

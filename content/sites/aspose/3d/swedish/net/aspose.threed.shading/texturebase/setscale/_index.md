@@ -1,7 +1,7 @@
 ---
 title: SetScale
 second_title: Aspose.3D för .NET API-referens
-description: Ställer in UV-skalan.
+description: Ställer in UVskalan.
 type: docs
 weight: 140
 url: /sv/net/aspose.threed.shading/texturebase/setscale/

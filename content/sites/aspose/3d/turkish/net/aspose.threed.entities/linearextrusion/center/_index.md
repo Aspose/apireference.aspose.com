@@ -1,7 +1,7 @@
 ---
 title: Center
 second_title: Aspose.3D for .NET API Referansı
-description: Bu değer yanlışsa doğrusal ekstrüzyon Z aralığı 0 ile yüksek arasındadır aksi takdirde aralık -yükseklik/2 ile yükseklik/2 arasındadır.
+description: Bu değer yanlışsa doğrusal ekstrüzyon Z aralığı 0 ile yüksek arasındadır aksi takdirde aralık yükseklik/2 ile yükseklik/2 arasındadır.
 type: docs
 weight: 20
 url: /tr/net/aspose.threed.entities/linearextrusion/center/

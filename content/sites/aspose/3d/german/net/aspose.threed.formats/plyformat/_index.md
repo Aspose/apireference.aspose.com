@@ -1,7 +1,7 @@
 ---
 title: PlyFormat
 second_title: Aspose.3D für .NET-API-Referenz
-description: Das PLY-Format.
+description: Das PLYFormat.
 type: docs
 weight: 1280
 url: /de/net/aspose.threed.formats/plyformat/

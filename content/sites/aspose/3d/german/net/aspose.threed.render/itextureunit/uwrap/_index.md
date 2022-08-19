@@ -1,7 +1,7 @@
 ---
 title: UWrap
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Umbruchmodus für die U-Koordinate der Textur ab oder legt ihn fest.
+description: Ruft den Umbruchmodus für die UKoordinate der Textur ab oder legt ihn fest.
 type: docs
 weight: 90
 url: /de/net/aspose.threed.render/itextureunit/uwrap/

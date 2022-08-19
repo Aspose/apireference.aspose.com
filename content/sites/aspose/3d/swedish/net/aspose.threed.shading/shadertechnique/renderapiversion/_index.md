@@ -1,7 +1,7 @@
 ---
 title: RenderAPIVersion
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in versionen av renderings-APIet.
+description: Hämtar eller ställer in versionen av renderingsAPIet.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.shading/shadertechnique/renderapiversion/

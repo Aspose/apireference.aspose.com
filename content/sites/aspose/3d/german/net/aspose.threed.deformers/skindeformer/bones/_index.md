@@ -1,7 +1,7 @@
 ---
 title: Bones
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft alle Bones ab die der Skin-Deformer enthält
+description: Ruft alle Bones ab die der SkinDeformer enthält
 type: docs
 weight: 20
 url: /de/net/aspose.threed.deformers/skindeformer/bones/

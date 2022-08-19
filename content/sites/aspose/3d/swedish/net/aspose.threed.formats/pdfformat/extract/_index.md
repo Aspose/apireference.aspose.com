@@ -1,7 +1,7 @@
 ---
 title: Extract
 second_title: Aspose.3D för .NET API-referens
-description: Extrahera rått 3D-innehåll från PDF-fil.
+description: Extrahera rått 3Dinnehåll från PDFfil.
 type: docs
 weight: 10
 url: /sv/net/aspose.threed.formats/pdfformat/extract/

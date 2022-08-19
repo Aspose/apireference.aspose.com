@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Deformers
 second_title: Aspose.3D für .NET-API-Referenz
-description: Alle Deformer-Klassen sind in diesem Namensraum definiert
+description: Alle DeformerKlassen sind in diesem Namensraum definiert
 type: docs
 weight: 30
 url: /de/net/aspose.threed.deformers/

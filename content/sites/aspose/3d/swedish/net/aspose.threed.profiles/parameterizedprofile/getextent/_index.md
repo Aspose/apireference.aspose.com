@@ -1,7 +1,7 @@
 ---
 title: GetExtent
 second_title: Aspose.3D för .NET API-referens
-description: Får utsträckningen i x- och y-dimension.
+description: Får utsträckningen i x och ydimension.
 type: docs
 weight: 10
 url: /sv/net/aspose.threed.profiles/parameterizedprofile/getextent/

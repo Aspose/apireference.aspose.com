@@ -1,7 +1,7 @@
 ---
 title: ZipArchiveFileSystem
 second_title: Справочник по Aspose.3D для .NET API
-description: Файловая система для предоставления доступа только для чтения к указанному zip-файлу или zip-потоку. Файловая система будет удалена после операции открытия/сохранения.
+description: Файловая система для предоставления доступа только для чтения к указанному zipфайлу или zipпотоку. Файловая система будет удалена после операции открытия/сохранения.
 type: docs
 weight: 2720
 url: /ru/net/aspose.threed.utilities/ziparchivefilesystem/

@@ -1,7 +1,7 @@
 ---
 title: SelectSingleObject
 second_title: Aspose.3D för .NET API-referens
-description: Välj ett objekt under aktuell nod med hjälp av XPath-liknande frågesyntax.
+description: Välj ett objekt under aktuell nod med hjälp av XPathliknande frågesyntax.
 type: docs
 weight: 240
 url: /sv/net/aspose.threed/node/selectsingleobject/

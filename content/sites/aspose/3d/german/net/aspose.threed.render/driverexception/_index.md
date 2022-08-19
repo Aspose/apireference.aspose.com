@@ -1,7 +1,7 @@
 ---
 title: DriverException
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die von internen Rendering-Treibern ausgelöste Ausnahme.
+description: Die von internen RenderingTreibern ausgelöste Ausnahme.
 type: docs
 weight: 1770
 url: /de/net/aspose.threed.render/driverexception/

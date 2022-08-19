@@ -1,7 +1,7 @@
 ---
 title: MetallicRoughness
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in texturen för metallici R-kanal och grovhet i G-kanal
+description: Hämtar eller ställer in texturen för metallici Rkanal och grovhet i Gkanal
 type: docs
 weight: 70
 url: /sv/net/aspose.threed.shading/pbrmaterial/metallicroughness/

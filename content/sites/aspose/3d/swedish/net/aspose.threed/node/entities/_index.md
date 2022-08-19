@@ -1,7 +1,7 @@
 ---
 title: Entities
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar alla nod-entiteter.
+description: Hämtar alla nodentiteter.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed/node/entities/

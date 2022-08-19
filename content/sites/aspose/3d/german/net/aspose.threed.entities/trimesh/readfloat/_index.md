@@ -1,7 +1,7 @@
 ---
 title: ReadFloat
 second_title: Aspose.3D für .NET-API-Referenz
-description: Float-Feld lesen
+description: FloatFeld lesen
 type: docs
 weight: 170
 url: /de/net/aspose.threed.entities/trimesh/readfloat/

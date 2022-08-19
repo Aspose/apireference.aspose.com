@@ -1,7 +1,7 @@
 ---
 title: EmbedAssets
 second_title: Aspose.3D för .NET API-referens
-description: Bädda in alla externa tillgångar som base64 i en enda fil i ASCII-läge standardvärdet är false.
+description: Bädda in alla externa tillgångar som base64 i en enda fil i ASCIIläge standardvärdet är false.
 type: docs
 weight: 40
 url: /sv/net/aspose.threed.formats/gltfsaveoptions/embedassets/

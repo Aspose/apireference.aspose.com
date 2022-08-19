@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.3D för .NET API-referens
-description: Skapar en matris som skalas längs x-axeln y-axeln och z-axeln.
+description: Skapar en matris som skalas längs xaxeln yaxeln och zaxeln.
 type: docs
 weight: 50
 url: /sv/net/aspose.threed.utilities/matrix4/scale/

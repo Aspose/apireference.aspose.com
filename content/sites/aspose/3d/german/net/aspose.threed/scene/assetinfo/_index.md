@@ -1,7 +1,7 @@
 ---
 title: AssetInfo
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Asset-Informationen der obersten Ebene ab oder legt sie fest
+description: Ruft die AssetInformationen der obersten Ebene ab oder legt sie fest
 type: docs
 weight: 50
 url: /de/net/aspose.threed/scene/assetinfo/

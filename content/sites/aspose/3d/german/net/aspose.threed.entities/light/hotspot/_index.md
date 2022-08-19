@@ -1,7 +1,7 @@
 ---
 title: HotSpot
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft den Hot-Spot-Kegelwinkel in Grad ab oder legt ihn fest.
+description: Ruft den HotSpotKegelwinkel in Grad ab oder legt ihn fest.
 type: docs
 weight: 70
 url: /de/net/aspose.threed.entities/light/hotspot/

@@ -1,7 +1,7 @@
 ---
 title: UWrap
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in lindningsläget för texturens U-koordinat.
+description: Hämtar eller ställer in lindningsläget för texturens Ukoordinat.
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.render/itextureunit/uwrap/

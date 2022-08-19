@@ -1,7 +1,7 @@
 ---
 title: MaterialConverter
 second_title: Aspose.3D för .NET API-referens
-description: Anpassad omvandlare för att konvertera geometrins material till PBR material Om detta inte är tilldelat kommer glTF 2.0 exportören automatiskt att konvertera standardmaterialet till PBR material. Standardvärdet är null Den här egenskapen används när en scen exporteras till en glTF 2.00-fil.
+description: Anpassad omvandlare för att konvertera geometrins material till PBR material Om detta inte är tilldelat kommer glTF 2.0 exportören automatiskt att konvertera standardmaterialet till PBR material. Standardvärdet är null Den här egenskapen används när en scen exporteras till en glTF 2.00fil.
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.formats/gltfsaveoptions/materialconverter/

@@ -1,7 +1,7 @@
 ---
 title: STLBinary
 second_title: Aspose.3D för .NET API-referens
-description: Binärt STL-filformat
+description: Binärt STLfilformat
 type: docs
 weight: 320
 url: /sv/net/aspose.threed/fileformat/stlbinary/

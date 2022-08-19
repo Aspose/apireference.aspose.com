@@ -1,7 +1,7 @@
 ---
 title: TShape
 second_title: Справочник по Aspose.3D для .NET API
-description: Т-образная форма совместимая с IFC определяется параметрами.
+description: Тобразная форма совместимая с IFC определяется параметрами.
 type: docs
 weight: 1630
 url: /ru/net/aspose.threed.profiles/tshape/

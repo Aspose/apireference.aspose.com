@@ -1,7 +1,7 @@
 ---
 title: MapSpecular
 second_title: Aspose.3D für .NET-API-Referenz
-description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein spiegelndes Textur-Mapping zuzuweisen.
+description: Verwendet inSetTextureaspose.threed.shading/material/settexture um ein spiegelndes TexturMapping zuzuweisen.
 type: docs
 weight: 90
 url: /de/net/aspose.threed.shading/material/mapspecular/

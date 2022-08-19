@@ -1,7 +1,7 @@
 ---
 title: RvmFormat
 second_title: Aspose.3D för .NET API-referens
-description: RVM-formatet
+description: RVMformatet
 type: docs
 weight: 1310
 url: /sv/net/aspose.threed.formats/rvmformat/

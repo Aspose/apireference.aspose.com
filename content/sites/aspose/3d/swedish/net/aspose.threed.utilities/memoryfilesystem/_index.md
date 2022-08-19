@@ -1,7 +1,7 @@
 ---
 title: MemoryFileSystem
 second_title: Aspose.3D för .NET API-referens
-description: DenMemoryFileSystem./memoryfilesystemkommer att mappa läs-/skrivoperationerna till minnet.
+description: DenMemoryFileSystem./memoryfilesystemkommer att mappa läs/skrivoperationerna till minnet.
 type: docs
 weight: 2570
 url: /sv/net/aspose.threed.utilities/memoryfilesystem/

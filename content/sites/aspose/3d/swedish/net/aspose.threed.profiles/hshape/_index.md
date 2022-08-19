@@ -1,7 +1,7 @@
 ---
 title: HShape
 second_title: Aspose.3D för .NET API-referens
-description: DenHShape./hshapetillhandahåller de definierande parametrarna för en H- eller I-form.
+description: DenHShape./hshapetillhandahåller de definierande parametrarna för en H eller Iform.
 type: docs
 weight: 1550
 url: /sv/net/aspose.threed.profiles/hshape/

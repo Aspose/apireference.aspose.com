@@ -1,7 +1,7 @@
 ---
 title: SerializeW
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft ab oder legt fest ob die W-Komponente in der Scheitelpunktposition des Modells serialisiert wird.
+description: Ruft ab oder legt fest ob die WKomponente in der Scheitelpunktposition des Modells serialisiert wird.
 type: docs
 weight: 50
 url: /de/net/aspose.threed.formats/objsaveoptions/serializew/

@@ -1,7 +1,7 @@
 ---
 title: ZOrder
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает Z-порядок окна просмотра.
+description: Получает или задает Zпорядок окна просмотра.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.render/viewport/zorder/

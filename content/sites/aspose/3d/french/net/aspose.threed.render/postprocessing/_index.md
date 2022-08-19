@@ -1,7 +1,7 @@
 ---
 title: PostProcessing
 second_title: Référence de l'API Aspose.3D pour .NET
-description: Les effets de post-traitement
+description: Les effets de posttraitement
 type: docs
 weight: 2010
 url: /fr/net/aspose.threed.render/postprocessing/

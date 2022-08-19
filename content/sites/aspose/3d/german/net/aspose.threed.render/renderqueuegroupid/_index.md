@@ -1,7 +1,7 @@
 ---
 title: RenderQueueGroupId
 second_title: Aspose.3D für .NET-API-Referenz
-description: Die Gruppen-ID der Renderwarteschlange
+description: Die GruppenID der Renderwarteschlange
 type: docs
 weight: 2060
 url: /de/net/aspose.threed.render/renderqueuegroupid/

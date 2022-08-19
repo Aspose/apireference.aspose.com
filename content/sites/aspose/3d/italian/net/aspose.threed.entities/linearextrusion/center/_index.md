@@ -1,7 +1,7 @@
 ---
 title: Center
 second_title: Riferimento API Aspose.3D per .NET
-description: Se questo valore è falso lintervallo Z dellestrusione lineare è compreso tra 0 e laltezza altrimenti lintervallo è compreso tra -altezza/2 e altezza/2.
+description: Se questo valore è falso lintervallo Z dellestrusione lineare è compreso tra 0 e laltezza altrimenti lintervallo è compreso tra altezza/2 e altezza/2.
 type: docs
 weight: 20
 url: /it/net/aspose.threed.entities/linearextrusion/center/

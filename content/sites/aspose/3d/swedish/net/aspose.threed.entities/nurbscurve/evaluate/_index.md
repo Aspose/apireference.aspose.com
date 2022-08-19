@@ -1,7 +1,7 @@
 ---
 title: Evaluate
 second_title: Aspose.3D för .NET API-referens
-description: Utvärdera NURBS-kurvan
+description: Utvärdera NURBSkurvan
 type: docs
 weight: 90
 url: /sv/net/aspose.threed.entities/nurbscurve/evaluate/

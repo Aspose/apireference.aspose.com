@@ -1,7 +1,7 @@
 ---
 title: FromGeometry
 second_title: Aspose.3D für .NET-API-Referenz
-description: Erstellen Sie eine neue PointCloud-Instanz aus einem Geometrieobjekt
+description: Erstellen Sie eine neue PointCloudInstanz aus einem Geometrieobjekt
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/pointcloud/fromgeometry/

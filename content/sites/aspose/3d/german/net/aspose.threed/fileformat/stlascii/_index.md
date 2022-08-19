@@ -1,7 +1,7 @@
 ---
 title: STLASCII
 second_title: Aspose.3D für .NET-API-Referenz
-description: ASCII-STL-Dateiformat
+description: ASCIISTLDateiformat
 type: docs
 weight: 310
 url: /de/net/aspose.threed/fileformat/stlascii/

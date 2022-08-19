@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.3D für .NET-API-Referenz
-description: Ruft die Höhe der Box ab oder legt sie fest die auf der Y-Achse ausgerichtet ist.
+description: Ruft die Höhe der Box ab oder legt sie fest die auf der YAchse ausgerichtet ist.
 type: docs
 weight: 20
 url: /de/net/aspose.threed.entities/box/height/

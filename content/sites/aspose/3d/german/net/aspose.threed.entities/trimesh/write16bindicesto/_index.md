@@ -1,7 +1,7 @@
 ---
 title: Write16bIndicesTo
 second_title: Aspose.3D für .NET-API-Referenz
-description: Schreiben Sie die Indexdaten als 16-Bit-Integer in den Stream
+description: Schreiben Sie die Indexdaten als 16BitInteger in den Stream
 type: docs
 weight: 260
 url: /de/net/aspose.threed.entities/trimesh/write16bindicesto/

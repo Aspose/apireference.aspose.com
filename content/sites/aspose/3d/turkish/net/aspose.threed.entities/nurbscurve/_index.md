@@ -1,7 +1,7 @@
 ---
 title: NurbsCurve
 second_title: Aspose.3D for .NET API Referansı
-description: NURBS eğrisihttps//en.wikipedia.org/wiki/Non-uniform_rational_B-spline NURBSUniform olmayan rasyonel temel spline ile temsil edilen bir eğridir.Order./nurbscurve/order  ağırlıklı bir diziControlPoints./geometry/controlpoints ve birKnotVectors./nurbscurve/knotvectors Kontrol noktasındaki w bileşeni ne olursa olsun kontrol noktasının ağırlığı olarak kullanılır.TwoDimensional veyaThreeDimensional
+description: NURBS eğrisihttps//en.wikipedia.org/wiki/Nonuniform_rational_Bspline NURBSUniform olmayan rasyonel temel spline ile temsil edilen bir eğridir.Order./nurbscurve/order  ağırlıklı bir diziControlPoints./geometry/controlpoints ve birKnotVectors./nurbscurve/knotvectors Kontrol noktasındaki w bileşeni ne olursa olsun kontrol noktasının ağırlığı olarak kullanılır.TwoDimensional veyaThreeDimensional
 type: docs
 weight: 460
 url: /tr/net/aspose.threed.entities/nurbscurve/

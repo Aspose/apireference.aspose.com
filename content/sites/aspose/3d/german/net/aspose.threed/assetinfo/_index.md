@@ -1,7 +1,7 @@
 ---
 title: AssetInfo
 second_title: Aspose.3D für .NET-API-Referenz
-description: Informationen zum Asset. Asset-Informationen können angehängt werden aScene./scene . KindScene./scene kann sein eigenes habenAssetInfo./assetinfo um die Definition des übergeordneten Elements zu überschreiben.
+description: Informationen zum Asset. AssetInformationen können angehängt werden aScene./scene . KindScene./scene kann sein eigenes habenAssetInfo./assetinfo um die Definition des übergeordneten Elements zu überschreiben.
 type: docs
 weight: 130
 url: /de/net/aspose.threed/assetinfo/

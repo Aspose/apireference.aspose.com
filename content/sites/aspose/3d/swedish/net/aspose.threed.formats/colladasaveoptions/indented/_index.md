@@ -1,7 +1,7 @@
 ---
 title: Indented
 second_title: Aspose.3D för .NET API-referens
-description: Hämtar eller ställer in om det exporterade XML-dokumentet är indraget.
+description: Hämtar eller ställer in om det exporterade XMLdokumentet är indraget.
 type: docs
 weight: 20
 url: /sv/net/aspose.threed.formats/colladasaveoptions/indented/
