@@ -19,7 +19,7 @@ public class RecognitionResult
 | Name | Description |
 | --- | --- |
 | [ImagePath](../../aspose.omr.model/recognitionresult/imagepath) { get; set; } | Gets or sets the path to the processed image |
-| [Images](../../aspose.omr.model/recognitionresult/images) { get; set; } | Gets or sets the list of Write-in fild Images |
+| [Images](../../aspose.omr.model/recognitionresult/images) { get; set; } | Gets or sets the list of Write-in Images |
 | [OmrElements](../../aspose.omr.model/recognitionresult/omrelements) { get; set; } | Gets or sets the list of OMR elements on page |
 | [PageName](../../aspose.omr.model/recognitionresult/pagename) { get; set; } | Gets or sets page name |
 | [TemplateName](../../aspose.omr.model/recognitionresult/templatename) { get; set; } | Gets or sets the OMR template |
