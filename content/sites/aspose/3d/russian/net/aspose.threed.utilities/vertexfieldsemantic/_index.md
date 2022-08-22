@@ -1,14 +1,14 @@
 ---
 title: VertexFieldSemantic
 second_title: Справочник по Aspose.3D для .NET API
-description: Семантика поля вершин
+description: Семантика вершинного поля
 type: docs
-weight: 2710
+weight: 2700
 url: /ru/net/aspose.threed.utilities/vertexfieldsemantic/
 ---
 ## VertexFieldSemantic enumeration
 
-Семантика поля вершин
+Семантика вершинного поля
 
 ```csharp
 public enum VertexFieldSemantic
@@ -18,18 +18,18 @@ public enum VertexFieldSemantic
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Position | `0` | Данные позиции |
-| Binormal | `1` | Бинормали вектор |
-| Normal | `2` | Вектор нормали |
+| Position | `0` | Данные о местоположении |
+| Binormal | `1` | Бинормальный вектор |
+| Normal | `2` | Вектор нормалей |
 | Tangent | `3` | Касательный вектор |
 | UV | `4` | UV-координата текстуры |
-| VertexColor | `5` | Цвет вершины |
+| VertexColor | `5` | Цвет вершин |
 | VertexCrease | `6` | Вершинная складка |
-| EdgeCrease | `7` | Складка края |
-| UserData | `8` | Пользовательские данные, обычно для целей конкретного приложения |
+| EdgeCrease | `7` | Сгиб края |
+| UserData | `8` | Пользовательские данные, обычно для конкретных целей приложения |
 | Visibility | `9` | Видимость компонентов |
 | Specular | `10` | Зеркальные цвета |
-| Weight | `11` | Смешивание весов |
+| Weight | `11` | Веса смеси |
 
 ### Смотрите также
 

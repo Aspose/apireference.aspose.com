@@ -16,11 +16,11 @@ public AnimationClip GetAnimationClip(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | The[`AnimationClip`](../../../aspose.threed.animation/animationclip)имя для поиска |
+| name | String | [`AnimationClip`](../../../aspose.threed.animation/animationclip)имя для поиска |
 
 ### Возвращаемое значение
 
-Возвращенный AnimationClip
+Возвращенный анимационный клип
 
 ### Смотрите также
 

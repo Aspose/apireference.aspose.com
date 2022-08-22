@@ -1,14 +1,14 @@
 ---
 title: ColladaSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: ColladaSaveOptionsaspose.threed.formats/colladasaveoptions
+description: 的构造函数ColladaSaveOptionsaspose.threed.formats/colladasaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/colladasaveoptions/colladasaveoptions/
 ---
 ## ColladaSaveOptions constructor
 
-[`ColladaSaveOptions`](../../colladasaveoptions)
+的构造函数[`ColladaSaveOptions`](../../colladasaveoptions)
 
 ```csharp
 public ColladaSaveOptions()

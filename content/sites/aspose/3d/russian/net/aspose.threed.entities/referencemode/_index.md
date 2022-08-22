@@ -1,14 +1,14 @@
 ---
 title: ReferenceMode
 second_title: Справочник по Aspose.3D для .NET API
-description: ReferenceMode./referencemodeопределяет как информация о сопоставлении хранится и используется.
+description: ReferenceMode./referencemode определяет как информация о сопоставлении хранится и на которую ссылается.
 type: docs
 weight: 610
 url: /ru/net/aspose.threed.entities/referencemode/
 ---
 ## ReferenceMode enumeration
 
-[`ReferenceMode`](../referencemode)определяет, как информация о сопоставлении хранится и используется.
+[`ReferenceMode`](../referencemode) определяет, как информация о сопоставлении хранится и на которую ссылается.
 
 ```csharp
 public enum ReferenceMode
@@ -18,9 +18,9 @@ public enum ReferenceMode
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Direct | `0` | Данные указываются напрямую |
-| Index | `1` | На данные ссылаются по индексу |
-| IndexToDirect | `2` | На данные ссылаются по индексу, а затем обращаются по индексу в списке данных[`VertexElement`](../vertexelement). |
+| Direct | `0` | Данные указаны напрямую |
+| Index | `1` | На данные ссылается index |
+| IndexToDirect | `2` | На данные ссылаются по индексу, а затем обращаются по индексу в[`VertexElement`](../vertexelement) список данных s. |
 
 ### Смотрите также
 

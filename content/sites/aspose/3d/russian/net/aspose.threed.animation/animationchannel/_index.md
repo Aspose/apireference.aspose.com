@@ -19,7 +19,7 @@ public class AnimationChannel : IEnumerable<KeyframeSequence>
 | Имя | Описание |
 | --- | --- |
 | [ComponentType](../../aspose.threed.animation/animationchannel/componenttype) { get; } | Получает тип поля компонента |
-| [DefaultValue](../../aspose.threed.animation/animationchannel/defaultvalue) { get; set; } | Получает или задает значение по умолчанию для канала. Если к каналу не подключены последовательности ключевых кадров, во время оценки анимации будет использоваться значение по умолчанию. Реальный сценарий:Анимация анимирует только координату x узла, y и z не изменяются, тогда значение по умолчанию будет использоваться во время полной оценки перевода. |
+| [DefaultValue](../../aspose.threed.animation/animationchannel/defaultvalue) { get; set; } | Получает или задает значение канала по умолчанию. Если к каналу не подключены последовательности ключевых кадров, во время оценки анимации будет использоваться значение по умолчанию. не изменено, , то при полной оценке перевода будет использоваться значение по умолчанию. |
 | [KeyframeSequences](../../aspose.threed.animation/animationchannel/keyframesequences) { get; } | Получает все последовательности ключевых кадров внутри этого канала |
 | [Name](../../aspose.threed.animation/animationchannel/name) { get; } | Получает имя канала |
 
@@ -27,8 +27,8 @@ public class AnimationChannel : IEnumerable<KeyframeSequence>
 
 | Имя | Описание |
 | --- | --- |
-| [AddKeyframeSequence](../../aspose.threed.animation/animationchannel/addkeyframesequence)(KeyframeSequence) | Добавляет последовательность ключевых кадров в этот канал |
-| [GetEnumerator](../../aspose.threed.animation/animationchannel/getenumerator)() | Получает перечислитель для прохождения всех последовательностей ключевых кадров внутри этого канала |
+| [AddKeyframeSequence](../../aspose.threed.animation/animationchannel/addkeyframesequence)(KeyframeSequence) | Добавляет последовательность ключевых кадров к этому каналу |
+| [GetEnumerator](../../aspose.threed.animation/animationchannel/getenumerator)() | Получает счетчик для просмотра всех последовательностей ключевых кадров внутри этого канала |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: U3dSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: U3dSaveOptionsaspose.threed.formats/u3dsaveoptions
+description: 的构造函数U3dSaveOptionsaspose.threed.formats/u3dsaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/u3dsaveoptions/u3dsaveoptions/
 ---
 ## U3dSaveOptions constructor
 
-[`U3dSaveOptions`](../../u3dsaveoptions)
+的构造函数[`U3dSaveOptions`](../../u3dsaveoptions)
 
 ```csharp
 public U3dSaveOptions()

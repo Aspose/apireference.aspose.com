@@ -1,9 +1,9 @@
 ---
 title: ZipArchiveFileSystem
 second_title: Справочник по Aspose.3D для .NET API
-description: Файловая система для предоставления доступа только для чтения к указанному zip-файлу или zip-потоку. Файловая система будет удалена после операции открытия/сохранения.
+description: Файловая система для предоставления доступа только для чтения к указанному zipфайлу или zipпотоку. Файловая система будет удалена после операции открытия/сохранения.
 type: docs
-weight: 2730
+weight: 2720
 url: /ru/net/aspose.threed.utilities/ziparchivefilesystem/
 ---
 ## ZipArchiveFileSystem class
@@ -18,9 +18,9 @@ public class ZipArchiveFileSystem : FileSystem
 
 | Имя | Описание |
 | --- | --- |
-| [ZipArchiveFileSystem](ziparchivefilesystem#constructor)(Stream) | Создайте[`ZipArchiveFileSystem`](../ziparchivefilesystem)через поток. |
-| [ZipArchiveFileSystem](ziparchivefilesystem#constructor_2)(string) | Создать[`ZipArchiveFileSystem`](../ziparchivefilesystem)по имени файла. |
-| [ZipArchiveFileSystem](ziparchivefilesystem#constructor_1)(Stream, string) | Создайте[`ZipArchiveFileSystem`](../ziparchivefilesystem)через поток. |
+| [ZipArchiveFileSystem](ziparchivefilesystem#constructor)(Stream) | Построить[`ZipArchiveFileSystem`](../ziparchivefilesystem) через поток. |
+| [ZipArchiveFileSystem](ziparchivefilesystem#constructor_2)(string) | Построить[`ZipArchiveFileSystem`](../ziparchivefilesystem) через имя файла. |
+| [ZipArchiveFileSystem](ziparchivefilesystem#constructor_1)(Stream, string) | Построить[`ZipArchiveFileSystem`](../ziparchivefilesystem) через поток. |
 
 ## Методы
 
@@ -28,7 +28,7 @@ public class ZipArchiveFileSystem : FileSystem
 | --- | --- |
 | override [Dispose](../../aspose.threed.utilities/ziparchivefilesystem/dispose)() | Удалите ZipArchiveFileSystem и освободите его внутренние ресурсы. |
 | override [ReadFile](../../aspose.threed.utilities/ziparchivefilesystem/readfile)(string, IOConfig) | Открыть файл для чтения |
-| override [WriteFile](../../aspose.threed.utilities/ziparchivefilesystem/writefile)(string, IOConfig) | Открыть файл для записи, в этом классе не реализовано. |
+| override [WriteFile](../../aspose.threed.utilities/ziparchivefilesystem/writefile)(string, IOConfig) | Открыть файл для записи, не реализовано в этом классе. |
 
 ### Смотрите также
 

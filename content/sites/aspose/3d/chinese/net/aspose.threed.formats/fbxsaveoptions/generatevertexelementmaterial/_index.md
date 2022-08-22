@@ -1,14 +1,14 @@
 ---
 title: GenerateVertexElementMaterial
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置如果附加节点包含材质是否始终为几何生成VertexElementMaterialaspose.threed.entities/vertexelementmaterial 默认关闭
+description: 获取或设置是否总是生成一个VertexElementMaterialaspose.threed.entities/vertexelementmaterial如果附加节点包含材料则用于几何图形 默认情况下关闭
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.formats/fbxsaveoptions/generatevertexelementmaterial/
 ---
 ## FbxSaveOptions.GenerateVertexElementMaterial property
 
-获取或设置如果附加节点包含材质，是否始终为几何生成[`VertexElementMaterial`](../../../aspose.threed.entities/vertexelementmaterial)。 默认关闭。
+获取或设置是否总是生成一个[`VertexElementMaterial`](../../../aspose.threed.entities/vertexelementmaterial)如果附加节点包含材料，则用于几何图形。 默认情况下关闭。
 
 ```csharp
 public bool GenerateVertexElementMaterial { get; set; }

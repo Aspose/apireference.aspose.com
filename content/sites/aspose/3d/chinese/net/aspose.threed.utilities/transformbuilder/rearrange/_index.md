@@ -17,7 +17,7 @@ public TransformBuilder Rearrange(Axis newX, Axis newY, Axis newZ)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | newX | Axis | 新的 x 组件源 |
-| newY | Axis | 新的y 组件源 |
+| newY | Axis | 新的 y 组件源 |
 | newZ | Axis | 新的 z 组件源 |
 
 ### 也可以看看

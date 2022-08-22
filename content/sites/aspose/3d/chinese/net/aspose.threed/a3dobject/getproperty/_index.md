@@ -16,11 +16,11 @@ public object GetProperty(string property)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| property | String | 属性名 |
+| property | String | 属性名称 |
 
 ### 返回值
 
-找到的属性值
+找到的财产的价值
 
 ### 也可以看看
 

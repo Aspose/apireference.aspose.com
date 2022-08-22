@@ -1,14 +1,14 @@
 ---
 title: Node
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Nodeaspose.threed/node类的新实例
+description: 初始化Nodeaspose.threed/node类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed/node/node/
 ---
 ## Node() {#constructor}
 
-初始化[`Node`](../../node)类的新实例。
+初始化[`Node`](../../node)类.
 
 ```csharp
 public Node()
@@ -24,7 +24,7 @@ public Node()
 
 ## Node(string, Entity) {#constructor_2}
 
-初始化[`Node`](../../node)类的新实例。
+初始化[`Node`](../../node)类.
 
 ```csharp
 public Node(string name, Entity entity)
@@ -32,7 +32,7 @@ public Node(string name, Entity entity)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 | entity | Entity | 默认实体。 |
 
 ### 也可以看看
@@ -46,7 +46,7 @@ public Node(string name, Entity entity)
 
 ## Node(string) {#constructor_1}
 
-初始化[`Node`](../../node)类的新实例。
+初始化[`Node`](../../node)类.
 
 ```csharp
 public Node(string name)
@@ -54,7 +54,7 @@ public Node(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 
 ### 也可以看看
 

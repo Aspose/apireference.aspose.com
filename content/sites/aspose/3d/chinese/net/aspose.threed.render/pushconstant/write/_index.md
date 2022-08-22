@@ -16,7 +16,7 @@ public PushConstant Write(FMatrix4 mat)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| mat | FMatrix4 | 要写入的矩阵 |
+| mat | FMatrix4 | 要写的矩阵 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public PushConstant Write(FMatrix4 mat)
 
 ## Write(int) {#write_3}
 
-将 int 值写入常量
+将一个 int 值写入常量
 
 ```csharp
 public PushConstant Write(int n)
@@ -69,7 +69,7 @@ public PushConstant Write(float f)
 
 ## Write(FVector4) {#write_2}
 
-将 4 分量向量写入常量
+将一个 4 分量向量写入常量
 
 ```csharp
 public PushConstant Write(FVector4 vec)
@@ -90,7 +90,7 @@ public PushConstant Write(FVector4 vec)
 
 ## Write(FVector3) {#write_1}
 
-将三分量向量写入常量
+将一个 3 分量向量写入常量
 
 ```csharp
 public PushConstant Write(FVector3 vec)
@@ -111,7 +111,7 @@ public PushConstant Write(FVector3 vec)
 
 ## Write(float, float, float, float) {#write_5}
 
-将 4 分量向量写入常量
+将一个 4 分量向量写入常量
 
 ```csharp
 public PushConstant Write(float x, float y, float z, float w)

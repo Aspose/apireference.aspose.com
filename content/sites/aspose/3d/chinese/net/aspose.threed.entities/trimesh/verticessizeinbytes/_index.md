@@ -8,7 +8,7 @@ url: /zh/net/aspose.threed.entities/trimesh/verticessizeinbytes/
 ---
 ## TriMesh.VerticesSizeInBytes property
 
-所有顶点的总大小（以字节为单位）
+所有顶点的总大小，以字节为单位
 
 ```csharp
 public int VerticesSizeInBytes { get; }

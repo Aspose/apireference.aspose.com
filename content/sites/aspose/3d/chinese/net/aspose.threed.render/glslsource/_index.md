@@ -3,7 +3,7 @@ title: GLSLSource
 second_title: Aspose.3D for .NET API 参考
 description: GLSL 中着色器的源代码
 type: docs
-weight: 1810
+weight: 1820
 url: /zh/net/aspose.threed.render/glslsource/
 ---
 ## GLSLSource class
@@ -27,7 +27,7 @@ public sealed class GLSLSource : ShaderSource
 | [ComputeShader](../../aspose.threed.render/glslsource/computeshader) { get; set; } | 获取或设置计算着色器的源代码。 |
 | [FragmentShader](../../aspose.threed.render/glslsource/fragmentshader) { get; set; } | 获取或设置片段着色器的源代码。 |
 | [GeometryShader](../../aspose.threed.render/glslsource/geometryshader) { get; set; } | 获取或设置几何着色器的源代码。 |
-| [VertexShader](../../aspose.threed.render/glslsource/vertexshader) { get; set; } | 获取或设置顶点着色器源代码 |
+| [VertexShader](../../aspose.threed.render/glslsource/vertexshader) { get; set; } | 获取或设置顶点着色器的源代码 |
 
 ## 方法
 

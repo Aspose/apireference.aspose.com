@@ -1,14 +1,14 @@
 ---
 title: CreatePolygon
 second_title: Справочник по Aspose.3D для .NET API
-description: Создает новый многоугольник со всеми вершинами определенными вindices. Чтобы создать многоугольник вершина за вершиной используйтеPolygonBuilderaspose.threed.entities/polygonbuilder.
+description: Создает новый многоугольник со всеми вершинами определенными вindices . Чтобы создать вершину полигона по вершине используйтеPolygonBuilderaspose.threed.entities/polygonbuilder .
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.entities/mesh/createpolygon/
 ---
 ## CreatePolygon(int[], int, int) {#createpolygon_3}
 
-Создает новый многоугольник со всеми вершинами, определенными в*indices*. Чтобы создать многоугольник вершина за вершиной, используйте[`PolygonBuilder`](../../polygonbuilder).
+Создает новый многоугольник со всеми вершинами, определенными в*indices* . Чтобы создать вершину полигона по вершине, используйте[`PolygonBuilder`](../../polygonbuilder) .
 
 ```csharp
 public void CreatePolygon(int[] indices, int offset, int length)
@@ -16,7 +16,7 @@ public void CreatePolygon(int[] indices, int offset, int length)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| indices | Int32[] | Массив индексов полигонов, каждый индекс указывает к контрольной точке, образующей полигон. |
+| indices | Int32[] | Массив индексов полигонов, каждый индекс указывает на контрольную точку, формирующую полигон. |
 | offset | Int32 | Смещение индекса первого полигона |
 | length | Int32 | Длина индексов |
 
@@ -37,7 +37,7 @@ mesh.CreatePolygon(indices);
 
 ## CreatePolygon(int[]) {#createpolygon_2}
 
-Создает новый многоугольник со всеми вершинами, определенными в*indices*. Чтобы создать многоугольник вершина за вершиной, используйте[`PolygonBuilder`](../../polygonbuilder).
+Создает новый многоугольник со всеми вершинами, определенными в*indices* . Чтобы создать вершину полигона по вершине, используйте[`PolygonBuilder`](../../polygonbuilder) .
 
 ```csharp
 public void CreatePolygon(int[] indices)
@@ -45,7 +45,7 @@ public void CreatePolygon(int[] indices)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| indices | Int32[] | Массив индексов полигонов, каждый индекс указывает к контрольной точке, образующей полигон. |
+| indices | Int32[] | Массив индексов полигонов, каждый индекс указывает на контрольную точку, формирующую полигон. |
 
 ### Примеры
 

@@ -31,7 +31,7 @@ public static Scene Scale(Scene scene, Vector3 scale)
 
 ## Scale(Node, Vector3) {#scale_1}
 
-在此节点中缩放所有几何体（缩放控制点而不是变换矩阵）
+缩放此节点中的所有几何图形（缩放控制点而不是变换矩阵）
 
 ```csharp
 public static void Scale(Node node, Vector3 scale)
@@ -39,8 +39,8 @@ public static void Scale(Node node, Vector3 scale)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| node | Node | 要缩放的节点 |
-| scale | Vector3 | 缩放因子 |
+| node | Node | 要扩展的节点 |
+| scale | Vector3 | 比例因子 |
 
 ### 也可以看看
 

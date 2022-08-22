@@ -1,14 +1,14 @@
 ---
 title: Shader
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает экземпляр шейдера используемый для визуализации геометрии.
+description: Получает или задает экземпляр шейдера используемый для рендеринга геометрии.
 type: docs
 weight: 130
 url: /ru/net/aspose.threed.render/renderer/shader/
 ---
 ## Renderer.Shader property
 
-Получает или задает экземпляр шейдера, используемый для визуализации геометрии.
+Получает или задает экземпляр шейдера, используемый для рендеринга геометрии.
 
 ```csharp
 public ShaderProgram Shader { get; set; }

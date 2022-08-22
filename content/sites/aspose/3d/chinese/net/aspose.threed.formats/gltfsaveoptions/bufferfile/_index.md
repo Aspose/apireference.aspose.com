@@ -1,14 +1,14 @@
 ---
 title: BufferFile
 second_title: Aspose.3D for .NET API 参考
-description: 用于存储二进制数据的外部缓冲区文件的文件名 如果未指定此文件Aspose.3D 将为您生成一个名称 当以二进制模式导出 glTF 时这将被忽略
+description: 用于存储二进制数据的外部缓冲文件的文件名 如果不指定这个文件Aspose.3D 会为你生成一个名称 在二进制模式下导出glTF时会忽略这个
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/bufferfile/
 ---
 ## GltfSaveOptions.BufferFile property
 
-用于存储二进制数据的外部缓冲区文件的文件名。 如果未指定此文件，Aspose.3D 将为您生成一个名称。 当以二进制模式导出 glTF 时，这将被忽略。
+用于存储二进制数据的外部缓冲文件的文件名。 如果不指定这个文件，Aspose.3D 会为你生成一个名称。 在二进制模式下导出glTF时会忽略这个。
 
 ```csharp
 public string BufferFile { get; set; }

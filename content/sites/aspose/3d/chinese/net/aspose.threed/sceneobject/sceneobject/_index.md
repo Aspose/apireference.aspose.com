@@ -16,7 +16,7 @@ public SceneObject(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 的名称这个实例 |
+| name | String | 此实例的名称 |
 
 ### 也可以看看
 

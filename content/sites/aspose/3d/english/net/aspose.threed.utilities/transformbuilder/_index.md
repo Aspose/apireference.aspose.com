@@ -3,7 +3,7 @@ title: TransformBuilder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2630
+weight: 2620
 url: /net/aspose.threed.utilities/transformbuilder/
 ---
 ## TransformBuilder class

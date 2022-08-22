@@ -1,14 +1,14 @@
 ---
 title: MorphTargetDeformer
 second_title: Aspose.3D for .NET API 参考
-description: 初始化MorphTargetDeformeraspose.threed.deformers/morphtargetdeformer类的新实例
+description: 初始化MorphTargetDeformeraspose.threed.deformers/morphtargetdeformer类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.deformers/morphtargetdeformer/morphtargetdeformer/
 ---
 ## MorphTargetDeformer(string) {#constructor_1}
 
-初始化[`MorphTargetDeformer`](../../morphtargetdeformer)类的新实例。
+初始化[`MorphTargetDeformer`](../../morphtargetdeformer)类.
 
 ```csharp
 public MorphTargetDeformer(string name)
@@ -16,7 +16,7 @@ public MorphTargetDeformer(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public MorphTargetDeformer(string name)
 
 ## MorphTargetDeformer() {#constructor}
 
-初始化[`MorphTargetDeformer`](../../morphtargetdeformer)类的新实例。
+初始化[`MorphTargetDeformer`](../../morphtargetdeformer)类.
 
 ```csharp
 public MorphTargetDeformer()

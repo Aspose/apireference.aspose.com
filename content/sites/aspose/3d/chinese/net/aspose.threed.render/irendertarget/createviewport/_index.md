@@ -42,7 +42,7 @@ public Viewport CreateViewport(Camera camera, RelativeRectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | camera | Camera | 相机 |
-| rect | RelativeRectangle | 位置和大小视口 |
+| rect | RelativeRectangle | 视口的位置和大小 |
 
 ### 也可以看看
 
@@ -57,7 +57,7 @@ public Viewport CreateViewport(Camera camera, RelativeRectangle rect)
 
 ## CreateViewport(Camera) {#createviewport}
 
-在指定的摄像机透视图中创建视口。
+在指定的相机透视图中创建视口。
 
 ```csharp
 public Viewport CreateViewport(Camera camera)

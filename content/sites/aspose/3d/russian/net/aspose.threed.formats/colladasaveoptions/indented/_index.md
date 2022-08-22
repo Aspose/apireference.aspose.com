@@ -1,7 +1,7 @@
 ---
 title: Indented
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает значение отступа в экспортированном XML-документе.
+description: Получает или задает значение отступа в экспортированном XMLдокументе.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/colladasaveoptions/indented/

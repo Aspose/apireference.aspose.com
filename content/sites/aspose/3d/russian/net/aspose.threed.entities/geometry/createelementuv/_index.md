@@ -1,14 +1,14 @@
 ---
 title: CreateElementUV
 second_title: Справочник по Aspose.3D для .NET API
-description: СоздаетVertexElementUVaspose.threed.entities/vertexelementuvс заданным типом наложения текстуры.
+description: СоздаетVertexElementUVaspose.threed.entities/vertexelementuv с заданным типом отображения текстуры.
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.entities/geometry/createelementuv/
 ---
 ## CreateElementUV(TextureMapping) {#createelementuv}
 
-Создает[`VertexElementUV`](../../vertexelementuv)с заданным типом наложения текстуры.
+Создает[`VertexElementUV`](../../vertexelementuv) с заданным типом отображения текстуры.
 
 ```csharp
 public VertexElementUV CreateElementUV(TextureMapping uvMapping)
@@ -16,7 +16,7 @@ public VertexElementUV CreateElementUV(TextureMapping uvMapping)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uvMapping | TextureMapping | Какой тип наложения текстур создавать |
+| uvMapping | TextureMapping | Какой тип наложения текстуры создать |
 
 ### Возвращаемое значение
 
@@ -34,7 +34,7 @@ public VertexElementUV CreateElementUV(TextureMapping uvMapping)
 
 ## CreateElementUV(TextureMapping, MappingMode, ReferenceMode) {#createelementuv_1}
 
-Создает[`VertexElementUV`](../../vertexelementuv)с заданным типом наложения текстуры.
+Создает[`VertexElementUV`](../../vertexelementuv) с заданным типом отображения текстуры.
 
 ```csharp
 public VertexElementUV CreateElementUV(TextureMapping uvMapping, MappingMode mappingMode, 
@@ -43,9 +43,9 @@ public VertexElementUV CreateElementUV(TextureMapping uvMapping, MappingMode map
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uvMapping | TextureMapping | Какой тип наложения текстур создавать |
-| mappingMode | MappingMode | По умолчанию режим отображения |
-| referenceMode | ReferenceMode | Режим ссылки по умолчанию |
+| uvMapping | TextureMapping | Какой тип наложения текстуры создать |
+| mappingMode | MappingMode | Режим сопоставления по умолчанию |
+| referenceMode | ReferenceMode | Эталонный режим по умолчанию |
 
 ### Возвращаемое значение
 

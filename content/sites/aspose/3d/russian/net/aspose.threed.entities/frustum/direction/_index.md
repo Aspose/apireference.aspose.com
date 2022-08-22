@@ -1,14 +1,14 @@
 ---
 title: Direction
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает направление на которое смотрит камера. Изменения этого свойства также повлияют наLookAtaspose.threed.entities/frustum/lookatиЦель.
+description: Получает или задает направление на которое смотрит камера. Изменения этого свойства также влияют наLookAtaspose.threed.entities/frustum/lookat а такжеTargetaspose.threed.entities/frustum/target .
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/frustum/direction/
 ---
 ## Frustum.Direction property
 
-Получает или задает направление, на которое смотрит камера. Изменения этого свойства также повлияют на[`LookAt`](../lookat)иЦель.
+Получает или задает направление, на которое смотрит камера. Изменения этого свойства также влияют на[`LookAt`](../lookat) а также[`Target`](../target) .
 
 ```csharp
 public Vector3 Direction { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MapDiffuse
 second_title: Справочник по Aspose.3D для .NET API
-description: Используется вSetTextureaspose.threed.shading/material/settextureдля назначить диффузное наложение текстуры.
+description: Используется вSetTextureaspose.threed.shading/material/settexture назначить диффузное наложение текстуры.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.shading/material/mapdiffuse/
 ---
 ## Material.MapDiffuse field
 
-Используется в[`SetTexture`](../settexture)для назначить диффузное наложение текстуры.
+Используется в[`SetTexture`](../settexture) назначить диффузное наложение текстуры.
 
 ```csharp
 public const string MapDiffuse;

@@ -1,14 +1,14 @@
 ---
 title: m31
 second_title: Справочник по Aspose.3D для .NET API
-description: M31.
+description: m31.
 type: docs
 weight: 160
 url: /ru/net/aspose.threed.utilities/fmatrix4/m31/
 ---
 ## FMatrix4.m31 field
 
-M31.
+m31.
 
 ```csharp
 public float m31;

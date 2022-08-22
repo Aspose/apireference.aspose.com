@@ -20,7 +20,7 @@ public abstract IPipeline CreatePipeline(ShaderProgram shader, RenderState rende
 | shader | ShaderProgram | 渲染中使用的着色器 |
 | renderState | RenderState | 渲染中使用的渲染状态 |
 | vertexDeclaration | VertexDeclaration | 输入顶点数据的顶点声明 |
-| drawOperation | DrawOperation | Draw操作 |
+| drawOperation | DrawOperation | 绘制操作 |
 
 ### 返回值
 

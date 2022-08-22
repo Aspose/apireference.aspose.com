@@ -1,14 +1,14 @@
 ---
 title: Circle
 second_title: Aspose.3D for .NET API 参考
-description: Circleaspose.threed.entities/circle
+description: 的构造函数Circleaspose.threed.entities/circle
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/circle/circle/
 ---
 ## Circle() {#constructor}
 
-[`Circle`](../../circle)
+的构造函数[`Circle`](../../circle)
 
 ```csharp
 public Circle()
@@ -24,7 +24,7 @@ public Circle()
 
 ## Circle(double) {#constructor_1}
 
-[`Circle`](../../circle)
+的构造函数[`Circle`](../../circle)
 
 ```csharp
 public Circle(double radius)

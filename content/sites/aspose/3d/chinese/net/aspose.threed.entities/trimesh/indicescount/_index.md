@@ -1,14 +1,14 @@
 ---
 title: IndicesCount
 second_title: Aspose.3D for .NET API 参考
-description: 此TriMeshaspose.threed.entities/trimesh
+description: 这个索引的计数TriMeshaspose.threed.entities/trimesh
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.entities/trimesh/indicescount/
 ---
 ## TriMesh.IndicesCount property
 
-此[`TriMesh`](../../trimesh)
+这个索引的计数[`TriMesh`](../../trimesh)
 
 ```csharp
 public int IndicesCount { get; }

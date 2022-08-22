@@ -16,11 +16,11 @@ public FVector3 Cross(FVector3 rhs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rhs | FVector3 | 右侧值。 |
+| rhs | FVector3 | 右手边的值。 |
 
 ### 返回值
 
-两个[`FVector3`](../../fvector3)的叉积。
+两个的叉积[`FVector3`](../../fvector3)s。
 
 ### 也可以看看
 

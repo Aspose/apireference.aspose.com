@@ -16,7 +16,7 @@ public Vector3 ReadVector3(VertexField field)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| field | VertexField | 带有Vector3/的字段FVector3 数据类型 |
+| field | VertexField | 具有 Vector3/FVector3 数据类型的字段 |
 
 ### 也可以看看
 

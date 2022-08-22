@@ -17,7 +17,7 @@ public FVector3 ReadFVector3(int idx, VertexField field)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | idx | Int32 | 要读取的顶点索引 |
-| field | VertexField | Vector3/FVector3 数据类型的字段 |
+| field | VertexField | 具有 Vector3/FVector3 数据类型的字段 |
 
 ### 也可以看看
 

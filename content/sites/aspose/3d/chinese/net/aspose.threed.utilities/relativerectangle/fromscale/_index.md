@@ -1,14 +1,14 @@
 ---
 title: FromScale
 second_title: Aspose.3D for .NET API 参考
-description: 构造一个RelativeRectangleaspose.threed.utilities/relativerectangle所有偏移字段为零并根据给定参数缩放字段
+description: 构造一个RelativeRectangleaspose.threed.utilities/relativerectangle给定参数的所有偏移字段为零和缩放字段
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/relativerectangle/fromscale/
 ---
 ## RelativeRectangle.FromScale method
 
-构造一个[`RelativeRectangle`](../../relativerectangle)，所有偏移字段为零，并根据给定参数缩放字段。
+构造一个[`RelativeRectangle`](../../relativerectangle)给定参数的所有偏移字段为零和缩放字段。
 
 ```csharp
 public static RelativeRectangle FromScale(float scaleX, float scaleY, float scaleWidth, 

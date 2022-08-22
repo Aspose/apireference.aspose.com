@@ -1,14 +1,14 @@
 ---
 title: GetVertexElementOfUV
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает экземплярVertexElementUVaspose.threed.entities/vertexelementuvс заданным типом наложения текстуры
+description: ПолучаетVertexElementUVaspose.threed.entities/vertexelementuv экземпляр с заданным отображением текстуры type
 type: docs
 weight: 130
 url: /ru/net/aspose.threed.entities/geometry/getvertexelementofuv/
 ---
 ## Geometry.GetVertexElementOfUV method
 
-Получает экземпляр[`VertexElementUV`](../../vertexelementuv)с заданным типом наложения текстуры
+Получает[`VertexElementUV`](../../vertexelementuv) экземпляр с заданным отображением текстуры type
 
 ```csharp
 public VertexElementUV GetVertexElementOfUV(TextureMapping textureMapping)

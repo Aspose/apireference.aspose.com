@@ -1,14 +1,14 @@
 ---
 title: VertexElementVertexCrease
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementVertexCreaseaspose.threed.entities/vertexelementvertexcrease类的新实例
+description: 初始化VertexElementVertexCreaseaspose.threed.entities/vertexelementvertexcrease类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementvertexcrease/vertexelementvertexcrease/
 ---
 ## VertexElementVertexCrease constructor
 
-初始化[`VertexElementVertexCrease`](../../vertexelementvertexcrease)类的新实例。
+初始化[`VertexElementVertexCrease`](../../vertexelementvertexcrease)类.
 
 ```csharp
 public VertexElementVertexCrease()

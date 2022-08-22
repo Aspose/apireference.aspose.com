@@ -3,7 +3,7 @@ title: IBuffer
 second_title: Справочник по Aspose.3D для .NET API
 description: Базовый интерфейс всех управляемых буферов используемых при рендеринге
 type: docs
-weight: 1820
+weight: 1830
 url: /ru/net/aspose.threed.render/ibuffer/
 ---
 ## IBuffer interface

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.3D for .NET API 参考
-description: 检查两个vector3是否相等
+description: 检查两个vector3是否等于
 type: docs
 weight: 170
 url: /zh/net/aspose.threed.utilities/vector3/equals/
 ---
 ## Vector3.Equals method
 
-检查两个vector3是否相等
+检查两个vector3是否等于
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 检查相等的对象. |
+| obj | Object | 检查相等性的对象。 |
 
 ### 返回值
 
-如果所有组件相同，则为真。
+如果所有组件完全相同，则为真。
 
 ### 也可以看看
 

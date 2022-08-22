@@ -1,14 +1,14 @@
 ---
 title: FBX
 second_title: Справочник по Aspose.3D для .NET API
-description: Тип формата файла FBX
+description: Формат файла FBX type
 type: docs
 weight: 80
 url: /ru/net/aspose.threed/fileformattype/fbx/
 ---
 ## FileFormatType.FBX field
 
-Тип формата файла FBX
+Формат файла FBX type
 
 ```csharp
 public static readonly FileFormatType FBX;

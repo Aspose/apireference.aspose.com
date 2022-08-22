@@ -1,14 +1,14 @@
 ---
 title: TrimmedCurve
 second_title: Aspose.3D for .NET API 参考
-description: TrimmedCurveaspose.threed.entities/trimmedcurve
+description: 的构造函数TrimmedCurveaspose.threed.entities/trimmedcurve
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/trimmedcurve/trimmedcurve/
 ---
 ## TrimmedCurve constructor
 
-[`TrimmedCurve`](../../trimmedcurve)
+的构造函数[`TrimmedCurve`](../../trimmedcurve)
 
 ```csharp
 public TrimmedCurve()

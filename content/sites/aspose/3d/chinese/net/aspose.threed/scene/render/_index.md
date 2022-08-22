@@ -16,7 +16,7 @@ public void Render(Camera camera, string fileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| camera | Camera | 从哪个摄像机的角度渲染场景 |
+| camera | Camera | 从哪个相机的角度来渲染场景 |
 | fileName | String | 输出文件的文件名 |
 
 ### 也可以看看
@@ -38,7 +38,7 @@ public void Render(Camera camera, string fileName, Size size, ImageFormat format
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| camera | Camera | 从哪个摄像机的角度渲染场景 |
+| camera | Camera | 从哪个相机的角度来渲染场景 |
 | fileName | String | 输出文件的文件名 |
 | size | Size | 最终渲染图像的大小 |
 | format | ImageFormat | 输出文件的图像格式 |
@@ -63,7 +63,7 @@ public void Render(Camera camera, string fileName, Size size, ImageFormat format
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| camera | Camera | 从哪个摄像机的角度渲染场景 |
+| camera | Camera | 从哪个相机的角度来渲染场景 |
 | fileName | String | 输出文件的文件名 |
 | size | Size | 最终渲染图像的大小 |
 | format | ImageFormat | 输出文件的图像格式 |
@@ -89,7 +89,7 @@ public void Render(Camera camera, Bitmap bitmap)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| camera | Camera | 从哪个摄像机的角度渲染场景 |
+| camera | Camera | 从哪个相机的角度来渲染场景 |
 | bitmap | Bitmap | 渲染结果的目标 |
 
 ### 也可以看看
@@ -111,7 +111,7 @@ public void Render(Camera camera, Bitmap bitmap, ImageRenderOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| camera | Camera | 从哪个摄像机的角度渲染场景 |
+| camera | Camera | 从哪个相机的角度来渲染场景 |
 | bitmap | Bitmap | 渲染结果的目标 |
 | options | ImageRenderOptions | 自定义一些内部设置的选项。 |
 

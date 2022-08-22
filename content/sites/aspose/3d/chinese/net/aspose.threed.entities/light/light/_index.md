@@ -1,14 +1,14 @@
 ---
 title: Light
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Lightaspose.threed.entities/light类的新实例
+description: 初始化Lightaspose.threed.entities/light类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/light/light/
 ---
 ## Light() {#constructor}
 
-初始化[`Light`](../../light)类的新实例。
+初始化[`Light`](../../light)类.
 
 ```csharp
 public Light()
@@ -24,7 +24,7 @@ public Light()
 
 ## Light(string) {#constructor_1}
 
-初始化[`Light`](../../light)类的新实例。
+初始化[`Light`](../../light)类.
 
 ```csharp
 public Light(string name)
@@ -32,7 +32,7 @@ public Light(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public Light(string name)
 
 ## Light(string, LightType) {#constructor_2}
 
-初始化[`Light`](../../light)类的新实例。
+初始化[`Light`](../../light)类.
 
 ```csharp
 public Light(string name, LightType type)
@@ -52,8 +52,8 @@ public Light(string name, LightType type)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
-| type | LightType | 新光的类型 |
+| name | String | 姓名 |
+| type | LightType | 新灯型 |
 
 ### 也可以看看
 

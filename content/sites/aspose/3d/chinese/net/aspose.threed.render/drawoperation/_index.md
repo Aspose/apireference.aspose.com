@@ -3,7 +3,7 @@ title: DrawOperation
 second_title: Aspose.3D for .NET API 参考
 description: 要渲染的原始类型
 type: docs
-weight: 1750
+weight: 1760
 url: /zh/net/aspose.threed.render/drawoperation/
 ---
 ## DrawOperation enumeration
@@ -18,8 +18,8 @@ public enum DrawOperation
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Points | `0` | 点数 |
-| Lines | `1` | 行 |
+| Points | `0` | 点 |
+| Lines | `1` | 线条 |
 | LineStrip | `2` | 线带 |
 | Triangles | `3` | 三角形 |
 | TriangleStrip | `4` | 三角带 |

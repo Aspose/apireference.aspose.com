@@ -3,7 +3,7 @@ title: ITexture1D
 second_title: Aspose.3D for .NET API 参考
 description: 1D 纹理
 type: docs
-weight: 1910
+weight: 1920
 url: /zh/net/aspose.threed.render/itexture1d/
 ---
 ## ITexture1D interface
@@ -18,10 +18,10 @@ public interface ITexture1D : ITextureUnit
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Load](../../aspose.threed.render/itexture1d/load)(TextureData) | 从指定位图加载纹理内容 |
+| [Load](../../aspose.threed.render/itexture1d/load)(TextureData) | 从指定的位图加载纹理内容 |
 | [Save](../../aspose.threed.render/itexture1d/save#save)(Bitmap) | 将纹理内容保存到外部文件。 |
 | [Save](../../aspose.threed.render/itexture1d/save#save_1)(string, ImageFormat) | 将纹理内容保存到外部文件。 |
-| [ToBitmap](../../aspose.threed.render/itexture1d/tobitmap)() | 将纹理单元转换为Bitmap实例 |
+| [ToBitmap](../../aspose.threed.render/itexture1d/tobitmap)() | 将纹理单元转换为Bitmap instance |
 
 ### 也可以看看
 

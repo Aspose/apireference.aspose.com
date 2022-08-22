@@ -1,14 +1,14 @@
 ---
 title: ToMesh
 second_title: Справочник по Aspose.3D для .NET API
-description: Конвертировать текущий объект в меш
+description: Преобразовать текущий объект в mesh
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.entities/box/tomesh/
 ---
 ## Box.ToMesh method
 
-Конвертировать текущий объект в меш
+Преобразовать текущий объект в mesh
 
 ```csharp
 public override Mesh ToMesh()
@@ -16,7 +16,7 @@ public override Mesh ToMesh()
 
 ### Возвращаемое значение
 
-Меш.
+Сетка.
 
 ### Смотрите также
 

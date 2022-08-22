@@ -1,14 +1,14 @@
 ---
 title: Closed
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置一个值该值指示此PatchDirectionaspose.threed.entities/patchdirection是否为闭合曲线
+description: 获取或设置一个值该值指示是否PatchDirectionaspose.threed.entities/patchdirection是一条闭合曲线
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/patchdirection/closed/
 ---
 ## PatchDirection.Closed property
 
-获取或设置一个值，该值指示此[`PatchDirection`](../../patchdirection)是否为闭合曲线。
+获取或设置一个值，该值指示是否[`PatchDirection`](../../patchdirection)是一条闭合曲线。
 
 ```csharp
 public bool Closed { get; set; }

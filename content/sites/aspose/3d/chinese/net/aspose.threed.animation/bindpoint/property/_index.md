@@ -1,14 +1,14 @@
 ---
 title: Property
 second_title: Aspose.3D for .NET API 参考
-description: 获取与曲线映射关联的属性
+description: 获取与 CurveMapping 关联的属性
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.animation/bindpoint/property/
 ---
 ## BindPoint.Property property
 
-获取与曲线映射关联的属性
+获取与 CurveMapping 关联的属性
 
 ```csharp
 public Property Property { get; }

@@ -1,14 +1,14 @@
 ---
 title: Viewport
 second_title: Справочник по Aspose.3D для .NET API
-description: AIRenderTarget./irendertargetсодержит как минимум один вьюпорт для рендеринга сцены.
+description: АIRenderTarget./irendertarget содержит как минимум один вьюпорт для рендеринга сцены.
 type: docs
-weight: 2220
+weight: 2230
 url: /ru/net/aspose.threed.render/viewport/
 ---
 ## Viewport class
 
-A[`IRenderTarget`](../irendertarget)содержит как минимум один вьюпорт для рендеринга сцены.
+А[`IRenderTarget`](../irendertarget) содержит как минимум один вьюпорт для рендеринга сцены.
 
 ```csharp
 public class Viewport

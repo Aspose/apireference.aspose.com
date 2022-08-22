@@ -1,14 +1,14 @@
 ---
 title: VertexElementNormal
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementNormalaspose.threed.entities/vertexelementnormal.
+description: Инициализирует новый экземплярVertexElementNormalaspose.threed.entities/vertexelementnormal класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementnormal/vertexelementnormal/
 ---
 ## VertexElementNormal constructor
 
-Инициализирует новый экземпляр класса[`VertexElementNormal`](../../vertexelementnormal).
+Инициализирует новый экземпляр[`VertexElementNormal`](../../vertexelementnormal) класс.
 
 ```csharp
 public VertexElementNormal()

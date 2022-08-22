@@ -16,7 +16,7 @@ public Vertex BeginVertex()
 
 ### 返回值
 
-类型内部顶点对象的引用[`Vertex`](../../../aspose.threed.utilities/vertex)
+内部顶点对象在类型中的引用[`Vertex`](../../../aspose.threed.utilities/vertex)
 
 ### 也可以看看
 

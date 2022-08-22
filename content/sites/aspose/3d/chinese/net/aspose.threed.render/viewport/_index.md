@@ -1,14 +1,14 @@
 ---
 title: Viewport
 second_title: Aspose.3D for .NET API 参考
-description: AIRenderTarget./irendertarget包含至少一个用于渲染场景的视口
+description: 一个IRenderTarget./irendertarget包含至少一个用于渲染场景的视口
 type: docs
-weight: 2220
+weight: 2230
 url: /zh/net/aspose.threed.render/viewport/
 ---
 ## Viewport class
 
-A[`IRenderTarget`](../irendertarget)包含至少一个用于渲染场景的视口。
+一个[`IRenderTarget`](../irendertarget)包含至少一个用于渲染场景的视口。
 
 ```csharp
 public class Viewport
@@ -20,9 +20,9 @@ public class Viewport
 | --- | --- |
 | [Area](../../aspose.threed.render/viewport/area) { get; set; } | 获取或设置渲染目标中视口的区域。 |
 | [BackgroundColor](../../aspose.threed.render/viewport/backgroundcolor) { get; set; } | 获取或设置视口的背景颜色。 |
-| [DepthClear](../../aspose.threed.render/viewport/depthclear) { get; set; } | 获取或设置在设置了深度缓冲区位的情况下清除视口时使用的深度值。 |
+| [DepthClear](../../aspose.threed.render/viewport/depthclear) { get; set; } | 获取或设置在设置了深度缓冲区位时清除视口时使用的深度值。 |
 | [Enabled](../../aspose.threed.render/viewport/enabled) { get; set; } | 启用或禁用此视口。 |
-| [Frustum](../../aspose.threed.render/viewport/frustum) { get; set; } | 获取或设置此[`Viewport`](../viewport) |
+| [Frustum](../../aspose.threed.render/viewport/frustum) { get; set; } | 获取或设置本机的相机[`Viewport`](../viewport) |
 | [RenderTarget](../../aspose.threed.render/viewport/rendertarget) { get; } | 获取创建此视口的渲染目标。 |
 | [ZOrder](../../aspose.threed.render/viewport/zorder) { get; set; } | 获取或设置视口的 Z 顺序。 |
 

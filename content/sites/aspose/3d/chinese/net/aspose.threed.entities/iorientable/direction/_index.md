@@ -1,14 +1,14 @@
 ---
 title: Direction
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置实体正在查看的方向
+description: 获取或设置实体注视的方向
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/iorientable/direction/
 ---
 ## IOrientable.Direction property
 
-获取或设置实体正在查看的方向。
+获取或设置实体注视的方向。
 
 ```csharp
 public Vector3 Direction { get; set; }

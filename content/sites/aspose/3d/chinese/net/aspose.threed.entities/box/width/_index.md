@@ -16,7 +16,7 @@ public double Width { get; set; }
 
 ### 适当的价值
 
-x 轴对齐的宽度。
+在 x 轴上对齐的宽度。
 
 ### 也可以看看
 

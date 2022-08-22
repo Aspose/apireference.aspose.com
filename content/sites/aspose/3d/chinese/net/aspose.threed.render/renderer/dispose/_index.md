@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.3D for .NET API 参考
-description: 处理Rendereraspose.threed.render/renderer和所有相关资源
+description: 处置Rendereraspose.threed.render/renderer以及所有相关资源
 type: docs
 weight: 170
 url: /zh/net/aspose.threed.render/renderer/dispose/
 ---
 ## Renderer.Dispose method
 
-处理[`Renderer`](../../renderer)和所有相关资源
+处置[`Renderer`](../../renderer)以及所有相关资源
 
 ```csharp
 public void Dispose()

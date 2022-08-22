@@ -1,14 +1,14 @@
 ---
 title: A3dwSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: 保存 A3DW 格式的选项
+description: A3DW 格式的保存选项
 type: docs
 weight: 1020
 url: /zh/net/aspose.threed.formats/a3dwsaveoptions/
 ---
 ## A3dwSaveOptions class
 
-保存 A3DW 格式的选项。
+A3DW 格式的保存选项。
 
 ```csharp
 public class A3dwSaveOptions : SaveOptions
@@ -18,7 +18,7 @@ public class A3dwSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [A3dwSaveOptions](a3dwsaveoptions)() | [`A3dwSaveOptions`](../a3dwsaveoptions) |
+| [A3dwSaveOptions](a3dwsaveoptions)() | 的构造函数[`A3dwSaveOptions`](../a3dwsaveoptions) |
 
 ## 特性
 
@@ -27,10 +27,10 @@ public class A3dwSaveOptions : SaveOptions
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
 | [ExportMetaData](../../aspose.threed.formats/a3dwsaveoptions/exportmetadata) { get; set; } | 将与场景/节点关联的元数据导出到客户端 默认值为 true |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
-| [MetaDataPrefix](../../aspose.threed.formats/a3dwsaveoptions/metadataprefix) { get; set; } | 如果该属性不为空，则只会导出以该前缀开头的场景/节点的属性，并移除前缀。 |
+| [MetaDataPrefix](../../aspose.threed.formats/a3dwsaveoptions/metadataprefix) { get; set; } | 如果该属性不为空，则只会导出以该前缀开头的Scene/Node的属性，并去掉前缀。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CreateLoadOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать параметры загрузки по умолчанию для этого формата файла
+description: Создать параметры загрузки по умолчанию для этого файла формата
 type: docs
 weight: 510
 url: /ru/net/aspose.threed/fileformat/createloadoptions/
 ---
 ## FileFormat.CreateLoadOptions method
 
-Создать параметры загрузки по умолчанию для этого формата файла
+Создать параметры загрузки по умолчанию для этого файла формата
 
 ```csharp
 public LoadOptions CreateLoadOptions()

@@ -1,14 +1,14 @@
 ---
 title: Target
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает цель на которую смотрит камера. Если пользователь поддерживает это свойство оно должно быть доLookAtaspose.threed.entities/frustum/lookatсвойства.
+description: Получает или задает цель на которую смотрит камера. Если пользователь поддерживает это свойство оно должно быть доLookAtaspose.threed.entities/frustum/lookat свойство.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.entities/frustum/target/
 ---
 ## Frustum.Target property
 
-Получает или задает цель, на которую смотрит камера. Если пользователь поддерживает это свойство, оно должно быть до[`LookAt`](../lookat)свойства.
+Получает или задает цель, на которую смотрит камера. Если пользователь поддерживает это свойство, оно должно быть до[`LookAt`](../lookat) свойство.
 
 ```csharp
 public Node Target { get; set; }

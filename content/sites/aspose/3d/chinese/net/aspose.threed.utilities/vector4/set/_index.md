@@ -17,8 +17,8 @@ public void Set(double newX, double newY, double newZ)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | newX | Double | 新的 X 组件。 |
-| newY | Double | 新 Y 分量。 |
-| newZ | Double | 新 Z 组件。 |
+| newY | Double | 新的 Y 分量。 |
+| newZ | Double | 新的 Z 组件。 |
 
 ### 也可以看看
 
@@ -30,7 +30,7 @@ public void Set(double newX, double newY, double newZ)
 
 ## Set(double, double, double, double) {#set_1}
 
-一次设置向量的所有组件
+一次设置向量的所有分量
 
 ```csharp
 public void Set(double newX, double newY, double newZ, double newW)
@@ -38,10 +38,10 @@ public void Set(double newX, double newY, double newZ, double newW)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newX | Double | 新 X 组件. |
-| newY | Double | 新 Y 分量。 |
-| newZ | Double | 新 Z 组件。 |
-| newW | Double | 新 W 组件。 |
+| newX | Double | 新的 X 组件。 |
+| newY | Double | 新的 Y 分量。 |
+| newZ | Double | 新的 Z 组件。 |
+| newW | Double | 新的 W 组件。 |
 
 ### 也可以看看
 

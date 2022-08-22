@@ -1,14 +1,14 @@
 ---
 title: PatchDirection
 second_title: Справочник по Aspose.3D для .NET API
-description: Направление патча U и V.
+description: Направление U и V патча.
 type: docs
 weight: 510
 url: /ru/net/aspose.threed.entities/patchdirection/
 ---
 ## PatchDirection class
 
-Направление патча U и V.
+Направление U и V патча.
 
 ```csharp
 public class PatchDirection
@@ -24,7 +24,7 @@ public class PatchDirection
 
 | Имя | Описание |
 | --- | --- |
-| [Closed](../../aspose.threed.entities/patchdirection/closed) { get; set; } | Получает или задает значение, указывающее, является ли эта[`PatchDirection`](../patchdirection)замкнутой кривой. |
+| [Closed](../../aspose.threed.entities/patchdirection/closed) { get; set; } | Получает или задает значение, указывающее, является ли это[`PatchDirection`](../patchdirection) представляет собой замкнутую кривую. |
 | [ControlPoints](../../aspose.threed.entities/patchdirection/controlpoints) { get; set; } | Получает или задает количество контрольных точек в текущем направлении. |
 | [Divisions](../../aspose.threed.entities/patchdirection/divisions) { get; set; } | Получает или задает количество делений между соседними контрольными точками. |
 | [Type](../../aspose.threed.entities/patchdirection/type) { get; set; } | Получает или задает тип исправления. |

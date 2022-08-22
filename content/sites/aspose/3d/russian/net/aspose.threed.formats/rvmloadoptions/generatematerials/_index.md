@@ -1,14 +1,14 @@
 ---
 title: GenerateMaterials
 second_title: Справочник по Aspose.3D для .NET API
-description: Генерировать материалы со случайными цветами для каждого объекта в сцене если таблица цветов не экспортируется в файл RVM. Значение по умолчанию - true
+description: Генерировать материалы со случайными цветами для каждого объекта в сцене если таблица цветов не экспортируется в файл RVM. Значение по умолчанию  true
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.formats/rvmloadoptions/generatematerials/
 ---
 ## RvmLoadOptions.GenerateMaterials property
 
-Генерировать материалы со случайными цветами для каждого объекта в сцене, если таблица цветов не экспортируется в файл RVM. Значение по умолчанию - true
+Генерировать материалы со случайными цветами для каждого объекта в сцене, если таблица цветов не экспортируется в файл RVM. Значение по умолчанию — true
 
 ```csharp
 public bool GenerateMaterials { get; set; }

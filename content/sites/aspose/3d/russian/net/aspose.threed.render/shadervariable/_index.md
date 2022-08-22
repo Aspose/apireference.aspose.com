@@ -3,7 +3,7 @@ title: ShaderVariable
 second_title: Справочник по Aspose.3D для .NET API
 description: Переменная шейдера
 type: docs
-weight: 2170
+weight: 2180
 url: /ru/net/aspose.threed.render/shadervariable/
 ---
 ## ShaderVariable class

@@ -1,7 +1,7 @@
 ---
 title: NurbsType
 second_title: Справочник по Aspose.3D для .NET API
-description: NURBS-типы.
+description: NURBSтипы.
 type: docs
 weight: 490
 url: /ru/net/aspose.threed.entities/nurbstype/
@@ -18,9 +18,9 @@ public enum NurbsType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Open | `0` | [`NurbsCurve`](../nurbscurve)является незамкнутой кривой. |
-| Closed | `1` | [`NurbsCurve`](../nurbscurve)является замкнутой кривой, последняя контрольная точка которой равна первой. |
-| Periodic | `2` | [`NurbsCurve`](../nurbscurve)является периодической кривой. |
+| Open | `0` | [`NurbsCurve`](../nurbscurve) представляет собой незамкнутую кривую. |
+| Closed | `1` | [`NurbsCurve`](../nurbscurve) является замкнутой кривой, последняя контрольная точка которой равна первой. |
+| Periodic | `2` | [`NurbsCurve`](../nurbscurve) является периодической кривой. |
 
 ### Смотрите также
 

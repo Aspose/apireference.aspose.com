@@ -20,7 +20,7 @@ public KeyframeSequence GetKeyframeSequence(A3DObject target, string propName, s
 | target | A3DObject | 在哪个实例上创建关键帧序列。 |
 | propName | String | 属性的名称。 |
 | channelName | String | 频道名称。 |
-| create | Boolean | 如果设置为` true` 如果动画序列不存在，则创建它。 |
+| create | Boolean | 如果设置为`真的`如果动画序列不存在，则创建它。 |
 
 ### 返回值
 
@@ -48,7 +48,7 @@ public KeyframeSequence GetKeyframeSequence(A3DObject target, string propName, b
 | --- | --- | --- |
 | target | A3DObject | 在哪个实例上创建关键帧序列。 |
 | propName | String | 属性的名称。 |
-| create | Boolean | 如果设置为` true` ，则创建不存在的序列。 |
+| create | Boolean | 如果设置为`真的`, 如果序列不存在，则创建序列。 |
 
 ### 返回值
 

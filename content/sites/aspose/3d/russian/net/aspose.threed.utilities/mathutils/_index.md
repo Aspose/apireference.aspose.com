@@ -3,7 +3,7 @@ title: MathUtils
 second_title: Справочник по Aspose.3D для .NET API
 description: Набор полезных математических утилит.
 type: docs
-weight: 2560
+weight: 2550
 url: /ru/net/aspose.threed.utilities/mathutils/
 ---
 ## MathUtils class
@@ -19,13 +19,13 @@ public class MathUtils
 | Имя | Описание |
 | --- | --- |
 | static [Clamp](../../aspose.threed.utilities/mathutils/clamp)(double, double, double) | Зафиксировать значение в диапазоне [min, max] |
-| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree#todegree_2)(double) | Преобразование числа из радиана в градус |
-| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree#todegree_3)(float) | Преобразование числа из радиана в градус |
-| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree#todegree)(Vector3) | Преобразование[`Vector3`](../vector3)из радианов в градусы. |
+| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree#todegree_2)(double) | Преобразование числа из радиана в градусы |
+| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree#todegree_3)(float) | Преобразование числа из радиана в градусы |
+| static [ToDegree](../../aspose.threed.utilities/mathutils/todegree#todegree)(Vector3) | Конвертировать[`Vector3`](../vector3) от радиана до градуса. |
 | static [ToDegree](../../aspose.threed.utilities/mathutils/todegree#todegree_1)(double, double, double) | Преобразование числа из радиана в градусы |
 | static [ToRadian](../../aspose.threed.utilities/mathutils/toradian#toradian_2)(double) | Преобразование числа из градусов в радианы |
 | static [ToRadian](../../aspose.threed.utilities/mathutils/toradian#toradian_3)(float) | Преобразование числа из градусов в радианы |
-| static [ToRadian](../../aspose.threed.utilities/mathutils/toradian#toradian)(Vector3) | Преобразование[`Vector3`](../vector3)из градусов в радианы |
+| static [ToRadian](../../aspose.threed.utilities/mathutils/toradian#toradian)(Vector3) | Конвертировать[`Vector3`](../vector3) от градусов до радиан |
 | static [ToRadian](../../aspose.threed.utilities/mathutils/toradian#toradian_1)(double, double, double) | Преобразование вектора из градусов в радианы |
 
 ### Смотрите также

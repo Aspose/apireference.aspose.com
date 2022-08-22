@@ -1,14 +1,14 @@
 ---
 title: EmissiveTexture
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置发射的纹理
+description: 获取或设置 emissive 的纹理
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.shading/pbrmaterial/emissivetexture/
 ---
 ## PbrMaterial.EmissiveTexture property
 
-获取或设置发射的纹理
+获取或设置 emissive 的纹理
 
 ```csharp
 public TextureBase EmissiveTexture { get; set; }

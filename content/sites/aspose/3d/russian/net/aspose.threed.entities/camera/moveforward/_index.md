@@ -1,14 +1,14 @@
 ---
 title: MoveForward
 second_title: Справочник по Aspose.3D для .NET API
-description: Переместите камеру вперед в ее направлении или цели.
+description: Переместить камеру вперед в направлении или цели.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.entities/camera/moveforward/
 ---
 ## Camera.MoveForward method
 
-Переместите камеру вперед в ее направлении или цели.
+Переместить камеру вперед в направлении или цели.
 
 ```csharp
 public void MoveForward(double distance)

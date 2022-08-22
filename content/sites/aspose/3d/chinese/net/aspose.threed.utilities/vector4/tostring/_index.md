@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 返回代表当前Vector4aspose.threed.utilities/vector4的String.
+description: 返回一个String代表当前Vector4aspose.threed.utilities/vector4.
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.utilities/vector4/tostring/
 ---
 ## Vector4.ToString method
 
-返回代表当前[`Vector4`](../../vector4)的String.
+返回一个String代表当前[`Vector4`](../../vector4).
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-AString表示当前Vector4。
+一个String代表当前[`Vector4`](../../vector4).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Intensity
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置光照强度默认值为 100
+description: 获取或设置灯光强度默认值为100
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.entities/light/intensity/
 ---
 ## Light.Intensity property
 
-获取或设置光照强度，默认值为 100
+获取或设置灯光强度，默认值为100
 
 ```csharp
 public double Intensity { get; set; }

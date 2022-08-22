@@ -1,14 +1,14 @@
 ---
 title: EmissiveColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает цвет излучения
+description: Получает или задает излучающий цвет
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.shading/lambertmaterial/emissivecolor/
 ---
 ## LambertMaterial.EmissiveColor property
 
-Получает или задает цвет излучения
+Получает или задает излучающий цвет
 
 ```csharp
 public Vector3 EmissiveColor { get; set; }

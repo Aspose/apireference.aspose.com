@@ -1,14 +1,14 @@
 ---
 title: FromMesh
 second_title: Aspose.3D for .NET API 参考
-description: 从给定的网格对象创建一个具有自动生成顶点布局的 TriMesh
+description: 使用自动生成的顶点布局从给定的网格对象创建一个TriMesh
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/trimesh-1/frommesh/
 ---
 ## TriMesh&lt;T&gt;.FromMesh method
 
-从给定的网格对象创建一个具有自动生成顶点布局的 TriMesh。
+使用自动生成的顶点布局从给定的网格对象创建一个TriMesh。
 
 ```csharp
 public static TriMesh FromMesh(Mesh mesh)

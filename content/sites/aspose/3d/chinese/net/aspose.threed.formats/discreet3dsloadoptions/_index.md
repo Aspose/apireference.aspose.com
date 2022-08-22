@@ -18,7 +18,7 @@ public class Discreet3dsLoadOptions : LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Discreet3dsLoadOptions](discreet3dsloadoptions)() | [`Discreet3dsLoadOptions`](../discreet3dsloadoptions) |
+| [Discreet3dsLoadOptions](discreet3dsloadoptions)() | 的构造函数[`Discreet3dsLoadOptions`](../discreet3dsloadoptions) |
 
 ## 特性
 
@@ -27,9 +27,9 @@ public class Discreet3dsLoadOptions : LoadOptions
 | [ApplyAnimationTransform](../../aspose.threed.formats/discreet3dsloadoptions/applyanimationtransform) { get; set; } | 获取或设置是否使用动画轨迹第一帧定义的变换。 |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
-| [FlipCoordinateSystem](../../aspose.threed.formats/discreet3dsloadoptions/flipcoordinatesystem) { get; set; } | 获取或设置导入/导出过程中控制点/法线的翻转坐标系。 |
+| [FlipCoordinateSystem](../../aspose.threed.formats/discreet3dsloadoptions/flipcoordinatesystem) { get; set; } | 在导入/导出过程中获取或设置控制点/法线的翻转坐标系。 |
 | [GammaCorrectedColor](../../aspose.threed.formats/discreet3dsloadoptions/gammacorrectedcolor) { get; set; } | 3ds 文件可能包含相同属性的原始颜色和伽马校正颜色， 将此设置为 true 将尽可能使用伽马校正颜色， 否则 Aspose.3D 将尝试使用原始颜色。 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
 

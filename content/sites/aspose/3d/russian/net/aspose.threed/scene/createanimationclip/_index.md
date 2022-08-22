@@ -1,14 +1,14 @@
 ---
 title: CreateAnimationClip
 second_title: Справочник по Aspose.3D для .NET API
-description: Сокращенная функция для создания и регистрацииAnimationClipaspose.threed.animation/animationclip ПервыйAnimationClipaspose.threed.animation/animationclipбудет присвоенCurrentAnimationClipaspose.threed/scene/currentanimationclip
+description: Сокращенная функция для создания и регистрацииAnimationClipaspose.threed.animation/animationclip ПервыйAnimationClipaspose.threed.animation/animationclip будет назначен наCurrentAnimationClipaspose.threed/scene/currentanimationclip
 type: docs
 weight: 120
 url: /ru/net/aspose.threed/scene/createanimationclip/
 ---
 ## Scene.CreateAnimationClip method
 
-Сокращенная функция для создания и регистрации[`AnimationClip`](../../../aspose.threed.animation/animationclip) Первый[`AnimationClip`](../../../aspose.threed.animation/animationclip)будет присвоен[`CurrentAnimationClip`](../currentanimationclip)
+Сокращенная функция для создания и регистрации[`AnimationClip`](../../../aspose.threed.animation/animationclip) Первый[`AnimationClip`](../../../aspose.threed.animation/animationclip) будет назначен на[`CurrentAnimationClip`](../currentanimationclip)
 
 ```csharp
 public AnimationClip CreateAnimationClip(string name)

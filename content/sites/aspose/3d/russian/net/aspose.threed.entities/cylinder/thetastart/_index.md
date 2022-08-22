@@ -1,14 +1,14 @@
 ---
 title: ThetaStart
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает начало тета. Значение по умолчанию равно 0.
+description: Получает или задает начало тета. Значение по умолчанию 0.
 type: docs
 weight: 140
 url: /ru/net/aspose.threed.entities/cylinder/thetastart/
 ---
 ## Cylinder.ThetaStart property
 
-Получает или задает начало тета. Значение по умолчанию равно 0.
+Получает или задает начало тета. Значение по умолчанию: 0.
 
 ```csharp
 public double ThetaStart { get; set; }
@@ -16,7 +16,7 @@ public double ThetaStart { get; set; }
 
 ### Стоимость имущества
 
-Тета-старт.
+Тета начало.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ConstantAttenuation
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置恒定衰减以计算光的总衰减
+description: 获取或设置常量衰减计算灯光的总衰减
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.entities/light/constantattenuation/
 ---
 ## Light.ConstantAttenuation property
 
-获取或设置恒定衰减以计算光的总衰减
+获取或设置常量衰减，计算灯光的总衰减
 
 ```csharp
 public double ConstantAttenuation { get; set; }

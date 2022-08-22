@@ -1,14 +1,14 @@
 ---
 title: EdgeRadius
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает радиус ребра.
+description: Получает или задает радиус края.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.profiles/lshape/edgeradius/
 ---
 ## LShape.EdgeRadius property
 
-Получает или задает радиус ребра.
+Получает или задает радиус края.
 
 ```csharp
 public double EdgeRadius { get; set; }

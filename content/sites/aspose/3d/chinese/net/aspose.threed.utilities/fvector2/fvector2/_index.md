@@ -1,14 +1,14 @@
 ---
 title: FVector2
 second_title: Aspose.3D for .NET API 参考
-description: 初始化FVector2aspose.threed.utilities/fvector2的新实例
+description: 初始化FVector2aspose.threed.utilities/fvector2.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/fvector2/fvector2/
 ---
 ## FVector2(float, float) {#constructor_1}
 
-初始化[`FVector2`](../../fvector2)的新实例。
+初始化[`FVector2`](../../fvector2).
 
 ```csharp
 public FVector2(float x, float y)
@@ -24,7 +24,7 @@ public FVector2(float x, float y)
 
 ## FVector2(Vector2) {#constructor}
 
-初始化[`FVector2`](../../fvector2)的新实例。
+初始化[`FVector2`](../../fvector2).
 
 ```csharp
 public FVector2(Vector2 vec)

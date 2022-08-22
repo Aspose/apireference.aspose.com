@@ -1,14 +1,14 @@
 ---
 title: ShaderException
 second_title: Справочник по Aspose.3D для .NET API
-description: Исключения связанные с шейдерами
+description: Исключения связанные с шейдером
 type: docs
-weight: 2120
+weight: 2130
 url: /ru/net/aspose.threed.render/shaderexception/
 ---
 ## ShaderException class
 
-Исключения, связанные с шейдерами
+Исключения, связанные с шейдером
 
 ```csharp
 public class ShaderException : Exception

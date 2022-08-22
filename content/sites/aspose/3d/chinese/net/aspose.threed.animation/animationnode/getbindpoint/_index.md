@@ -18,7 +18,7 @@ public BindPoint GetBindPoint(A3DObject target, string propName, bool create)
 | --- | --- | --- |
 | target | A3DObject | 在哪个对象上创建绑定点。 |
 | propName | String | 属性的名称。 |
-| create | Boolean | 如果设置为` true` 如果绑定点不存在，则创建绑定点。 |
+| create | Boolean | 如果设置为`真的`如果绑定点不存在，则创建绑定点。 |
 
 ### 返回值
 

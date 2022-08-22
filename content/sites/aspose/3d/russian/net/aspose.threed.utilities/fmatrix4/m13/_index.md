@@ -1,14 +1,14 @@
 ---
 title: m13
 second_title: Справочник по Aspose.3D для .NET API
-description: M13.
+description: m13.
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.utilities/fmatrix4/m13/
 ---
 ## FMatrix4.m13 field
 
-M13.
+m13.
 
 ```csharp
 public float m13;

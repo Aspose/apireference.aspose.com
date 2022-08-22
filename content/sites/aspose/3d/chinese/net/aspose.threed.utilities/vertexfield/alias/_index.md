@@ -1,14 +1,14 @@
 ---
 title: Alias
 second_title: Aspose.3D for .NET API 参考
-description: 属性注释的别名SemanticAttributeaspose.threed.utilities/semanticattribute
+description: 由属性注释的别名SemanticAttributeaspose.threed.utilities/semanticattribute
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/vertexfield/alias/
 ---
 ## VertexField.Alias property
 
-属性注释的别名[`SemanticAttribute`](../../semanticattribute)
+由属性注释的别名[`SemanticAttribute`](../../semanticattribute)
 
 ```csharp
 public string Alias { get; }

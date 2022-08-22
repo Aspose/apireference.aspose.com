@@ -1,14 +1,14 @@
 ---
 title: RotateDegree
 second_title: Aspose.3D for .NET API 参考
-description: 以度为单位链接旋转变换
+description: 在 degree 中链接旋转变换
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.utilities/transformbuilder/rotatedegree/
 ---
 ## TransformBuilder.RotateDegree method
 
-以度为单位链接旋转变换
+在 degree 中链接旋转变换
 
 ```csharp
 public TransformBuilder RotateDegree(double angle, Vector3 axis)
@@ -16,7 +16,7 @@ public TransformBuilder RotateDegree(double angle, Vector3 axis)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Double | 要旋转的角度度数 |
+| angle | Double | 以度为单位旋转的角度 |
 | axis | Vector3 | 要旋转的轴 |
 
 ### 也可以看看

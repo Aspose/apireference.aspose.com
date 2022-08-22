@@ -1,14 +1,14 @@
 ---
 title: SerializeW
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает сериализовать ли компонент W в позиции вершины модели.
+description: Получает или задает следует ли сериализовать компонент W в позиции вершины модели.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.formats/objsaveoptions/serializew/
 ---
 ## ObjSaveOptions.SerializeW property
 
-Получает или задает, сериализовать ли компонент W в позиции вершины модели.
+Получает или задает, следует ли сериализовать компонент W в позиции вершины модели.
 
 ```csharp
 public bool SerializeW { get; set; }

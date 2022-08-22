@@ -1,14 +1,14 @@
 ---
 title: VerticesToArray
 second_title: Справочник по Aspose.3D для .NET API
-description: Преобразование данных вершин в байтовый массив
+description: Преобразование данных вершин в массив байтов
 type: docs
 weight: 250
 url: /ru/net/aspose.threed.entities/trimesh/verticestoarray/
 ---
 ## TriMesh.VerticesToArray method
 
-Преобразование данных вершин в байтовый массив
+Преобразование данных вершин в массив байтов
 
 ```csharp
 public byte[] VerticesToArray()

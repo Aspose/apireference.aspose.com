@@ -1,14 +1,14 @@
 ---
 title: TextureType
 second_title: Aspose.3D for .NET API 参考
-description: ITextureUnit./itextureunit
+description: 的类型ITextureUnit./itextureunit
 type: docs
-weight: 2210
+weight: 2220
 url: /zh/net/aspose.threed.render/texturetype/
 ---
 ## TextureType enumeration
 
-[`ITextureUnit`](../itextureunit)
+的类型[`ITextureUnit`](../itextureunit)
 
 ```csharp
 public enum TextureType

@@ -1,14 +1,14 @@
 ---
 title: EntityRendererKey
 second_title: Aspose.3D for .NET API 参考
-description: 的构造函数 EntityRendererKeyaspose.threed.render/entityrendererkey
+description: 的构造函数EntityRendererKeyaspose.threed.render/entityrendererkey
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/entityrendererkey/entityrendererkey/
 ---
 ## EntityRendererKey constructor
 
-的构造函数 [`EntityRendererKey`](../../entityrendererkey)
+的构造函数[`EntityRendererKey`](../../entityrendererkey)
 
 ```csharp
 public EntityRendererKey(string name)

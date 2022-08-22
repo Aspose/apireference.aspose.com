@@ -1,14 +1,14 @@
 ---
 title: FBX7700Binary
 second_title: Справочник по Aspose.3D для .NET API
-description: Двоичный формат файла FBX версия 7.7.0
+description: Двоичный формат файла FBX с версией 7.7.0
 type: docs
 weight: 200
 url: /ru/net/aspose.threed/fileformat/fbx7700binary/
 ---
 ## FileFormat.FBX7700Binary field
 
-Двоичный формат файла FBX, версия 7.7.0
+Двоичный формат файла FBX с версией 7.7.0
 
 ```csharp
 public static readonly FileFormat FBX7700Binary;

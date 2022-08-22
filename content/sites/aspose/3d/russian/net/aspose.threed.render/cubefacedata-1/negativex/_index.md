@@ -1,14 +1,14 @@
 ---
 title: NegativeX
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для Xлевой грани
+description: Получает или задает данные для XLeft face
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.render/cubefacedata-1/negativex/
 ---
 ## CubeFaceData&lt;T&gt;.NegativeX property
 
-Получает или задает данные для +X(левой) грани
+Получает или задает данные для +X(Left) face
 
 ```csharp
 public T NegativeX { get; set; }

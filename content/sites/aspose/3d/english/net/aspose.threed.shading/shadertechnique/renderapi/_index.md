@@ -11,12 +11,11 @@ url: /net/aspose.threed.shading/shadertechnique/renderapi/
 Gets or sets the rendering API used by this technique
 
 ```csharp
-public RenderingAPI RenderAPI { get; set; }
+public string RenderAPI { get; set; }
 ```
 
 ### See Also
 
-* enum [RenderingAPI](../../renderingapi)
 * class [ShaderTechnique](../../shadertechnique)
 * namespace [Aspose.ThreeD.Shading](../../shadertechnique)
 * assembly [Aspose.3D](../../../)

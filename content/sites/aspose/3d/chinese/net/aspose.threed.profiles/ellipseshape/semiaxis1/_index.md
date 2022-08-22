@@ -1,14 +1,14 @@
 ---
 title: SemiAxis1
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在x轴方向测量的椭圆的第一个半径
+description: 获取或设置椭圆沿x轴方向测量的第一半径
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.profiles/ellipseshape/semiaxis1/
 ---
 ## EllipseShape.SemiAxis1 property
 
-获取或设置在x轴方向测量的椭圆的第一个半径。
+获取或设置椭圆沿x轴方向测量的第一半径。
 
 ```csharp
 public double SemiAxis1 { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PbrMaterial
 second_title: Aspose.3D for .NET API 参考
-description: 基于反照率颜色/金属/粗糙度的物理渲染材质
+description: 基于反照率颜色/金属/粗糙度的基于物理的渲染材质
 type: docs
-weight: 2290
+weight: 2300
 url: /zh/net/aspose.threed.shading/pbrmaterial/
 ---
 ## PbrMaterial class
 
-基于反照率颜色/金属/粗糙度的物理渲染材质
+基于反照率颜色/金属/粗糙度的基于物理的渲染材质
 
 ```csharp
 public class PbrMaterial : Material
@@ -18,40 +18,40 @@ public class PbrMaterial : Material
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PbrMaterial](pbrmaterial#constructor)() | 构造默认PBR材质实例 |
-| [PbrMaterial](pbrmaterial#constructor_1)(Color) | 构造具有指定反照率颜色值的默认 PBR 材质。 |
+| [PbrMaterial](pbrmaterial#constructor)() | 构造一个默认的PBR材质实例 |
+| [PbrMaterial](pbrmaterial#constructor_1)(Color) | 构造一个具有指定反照率颜色值的默认 PBR 材质。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Albedo](../../aspose.threed.shading/pbrmaterial/albedo) { get; set; } | 获取或设置材质的基色 |
-| [AlbedoTexture](../../aspose.threed.shading/pbrmaterial/albedotexture) { get; set; } | 获取或设置反照率的纹理 |
-| [EmissiveColor](../../aspose.threed.shading/pbrmaterial/emissivecolor) { get; set; } | 获取或设置发光颜色 |
-| [EmissiveTexture](../../aspose.threed.shading/pbrmaterial/emissivetexture) { get; set; } | 获取或设置发射的纹理 |
+| [AlbedoTexture](../../aspose.threed.shading/pbrmaterial/albedotexture) { get; set; } | 获取或设置 albedo 的纹理 |
+| [EmissiveColor](../../aspose.threed.shading/pbrmaterial/emissivecolor) { get; set; } | 获取或设置自发光颜色 |
+| [EmissiveTexture](../../aspose.threed.shading/pbrmaterial/emissivetexture) { get; set; } | 获取或设置 emissive 的纹理 |
 | [MetallicFactor](../../aspose.threed.shading/pbrmaterial/metallicfactor) { get; set; } | 获取或设置材质的金属度，值为 1 表示材质为金属，值为 0 表示材质为电介质。 |
 | [MetallicRoughness](../../aspose.threed.shading/pbrmaterial/metallicroughness) { get; set; } | 获取或设置金属（在 R 通道中）和粗糙度（在 G 通道中）的纹理 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [NormalTexture](../../aspose.threed.shading/pbrmaterial/normaltexture) { get; set; } | 获取或设置法线贴图的纹理 |
-| [OcclusionFactor](../../aspose.threed.shading/pbrmaterial/occlusionfactor) { get; set; } | 获取或设置环境光遮挡系数 |
+| [OcclusionFactor](../../aspose.threed.shading/pbrmaterial/occlusionfactor) { get; set; } | 获取或设置环境光遮蔽因子 |
 | [OcclusionTexture](../../aspose.threed.shading/pbrmaterial/occlusiontexture) { get; set; } | 获取或设置环境光遮蔽的纹理 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [RoughnessFactor](../../aspose.threed.shading/pbrmaterial/roughnessfactor) { get; set; } | 获取或设置材质的粗糙度，值为1表示材质完全粗糙，值为0表示材质完全光滑 |
-| [SpecularTexture](../../aspose.threed.shading/pbrmaterial/speculartexture) { get; set; } | 获取或设置镜面反射颜色的纹理 |
-| [Transparency](../../aspose.threed.shading/pbrmaterial/transparency) { get; set; } | 获取或设置透明度因子。 因子应介于 0（0%，完全不透明）和 1（100%，完全透明）之间 任何无效的因子值都将被限制。 |
+| [SpecularTexture](../../aspose.threed.shading/pbrmaterial/speculartexture) { get; set; } | 获取或设置高光颜色的纹理 |
+| [Transparency](../../aspose.threed.shading/pbrmaterial/transparency) { get; set; } | 获取或设置透明度因子。 因子应介于 0（0%，完全不透明）和 1（100%，完全透明）之间 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | 获取枚举器以枚举内部纹理槽。 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | 从指定槽获取纹理，可以是材质的属性名称或着色器的参数名称 |
+| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | 从指定槽获取纹理，可以是材质的属性名或shader的参数名 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
-| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | 将纹理设置到指定插槽 |
+| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | 将纹理设置为指定槽 |
 | override [ToString](../../aspose.threed.shading/material/tostring)() | 将对象格式化为字符串 |
 
 ### 也可以看看

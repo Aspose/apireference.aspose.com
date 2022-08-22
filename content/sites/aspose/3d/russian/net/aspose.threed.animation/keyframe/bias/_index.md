@@ -1,14 +1,14 @@
 ---
 title: Bias
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает смещение используемое в сплайне TCB
+description: Получает или задает смещение используемое в TCB spline
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.animation/keyframe/bias/
 ---
 ## KeyFrame.Bias property
 
-Получает или задает смещение, используемое в сплайне TCB
+Получает или задает смещение, используемое в TCB spline
 
 ```csharp
 public float Bias { get; set; }

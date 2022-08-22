@@ -33,7 +33,7 @@ public void Load(CubeFace face, TextureData data)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | face | CubeFace |  |
-| данные | TextureData |  |
+| data | TextureData |  |
 
 ### Смотрите также
 

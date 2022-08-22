@@ -1,14 +1,14 @@
 ---
 title: FbxSaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует файлFbxSaveOptionsaspose.threed.formats/fbxsaveoptions
+description: ИнициализируетFbxSaveOptionsaspose.threed.formats/fbxsaveoptions
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/fbxsaveoptions/fbxsaveoptions/
 ---
 ## FbxSaveOptions(FileFormat) {#constructor_1}
 
-Инициализирует файл[`FbxSaveOptions`](../../fbxsaveoptions)
+Инициализирует[`FbxSaveOptions`](../../fbxsaveoptions)
 
 ```csharp
 public FbxSaveOptions(FileFormat format)
@@ -29,7 +29,7 @@ public FbxSaveOptions(FileFormat format)
 
 ## FbxSaveOptions(FileContentType) {#constructor}
 
-Инициализировать[`FbxSaveOptions`](../../fbxsaveoptions)с использованием последней поддерживаемой версии.
+Инициализировать[`FbxSaveOptions`](../../fbxsaveoptions) используя последнюю поддерживаемую версию.
 
 ```csharp
 public FbxSaveOptions(FileContentType contentType)

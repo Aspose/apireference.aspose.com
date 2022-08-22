@@ -24,7 +24,7 @@ public class AmfSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [EnableCompression](../../aspose.threed.formats/amfsaveoptions/enablecompression) { get; set; } | Использовать ли сжатие для уменьшения конечного размера файла, значение по умолчанию равно true |
+| [EnableCompression](../../aspose.threed.formats/amfsaveoptions/enablecompression) { get; set; } | Использовать ли сжатие для уменьшения конечного размера файла, значение по умолчанию — true |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |

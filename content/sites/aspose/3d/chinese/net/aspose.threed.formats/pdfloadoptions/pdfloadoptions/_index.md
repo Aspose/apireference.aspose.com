@@ -1,14 +1,14 @@
 ---
 title: PdfLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: PdfLoadOptionsaspose.threed.formats/pdfloadoptions
+description: 的构造函数PdfLoadOptionsaspose.threed.formats/pdfloadoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/pdfloadoptions/pdfloadoptions/
 ---
 ## PdfLoadOptions constructor
 
-[`PdfLoadOptions`](../../pdfloadoptions)
+的构造函数[`PdfLoadOptions`](../../pdfloadoptions)
 
 ```csharp
 public PdfLoadOptions()

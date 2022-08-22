@@ -1,14 +1,14 @@
 ---
 title: FromGeometry
 second_title: Aspose.3D for .NET API 参考
-description: 从给定几何构造边界框
+description: 从给定的几何构造边界框
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.utilities/boundingbox/fromgeometry/
 ---
 ## BoundingBox.FromGeometry method
 
-从给定几何构造边界框
+从给定的几何构造边界框
 
 ```csharp
 public static BoundingBox FromGeometry(Geometry geometry)

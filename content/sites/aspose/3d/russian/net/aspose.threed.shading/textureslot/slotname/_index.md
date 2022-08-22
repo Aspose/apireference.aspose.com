@@ -1,14 +1,14 @@
 ---
 title: SlotName
 second_title: Справочник по Aspose.3D для .NET API
-description: Имя слота указывающее где будет ограничена эта текстура.
+description: Имя слота указывающее где эта текстура будет ограничена.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.shading/textureslot/slotname/
 ---
 ## TextureSlot.SlotName property
 
-Имя слота, указывающее, где будет ограничена эта текстура.
+Имя слота, указывающее, где эта текстура будет ограничена.
 
 ```csharp
 public string SlotName { get; }

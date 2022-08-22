@@ -3,7 +3,7 @@ title: ShaderException
 second_title: Aspose.3D for .NET API 参考
 description: 着色器相关异常
 type: docs
-weight: 2120
+weight: 2130
 url: /zh/net/aspose.threed.render/shaderexception/
 ---
 ## ShaderException class
@@ -18,7 +18,7 @@ public class ShaderException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ShaderException](shaderexception)(string) | [`ShaderException`](../shaderexception) |
+| [ShaderException](shaderexception)(string) | 的构造函数[`ShaderException`](../shaderexception) |
 
 ### 也可以看看
 

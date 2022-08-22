@@ -1,14 +1,14 @@
 ---
 title: GetEntityRendererKey
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает ключ рендерера сущности зарегистрированного в рендерере
+description: Получает ключ средства визуализации объектов зарегистрированного в средстве визуализации
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.profiles/profile/getentityrendererkey/
 ---
 ## Profile.GetEntityRendererKey method
 
-Получает ключ рендерера сущности, зарегистрированного в рендерере
+Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации
 
 ```csharp
 public override EntityRendererKey GetEntityRendererKey()

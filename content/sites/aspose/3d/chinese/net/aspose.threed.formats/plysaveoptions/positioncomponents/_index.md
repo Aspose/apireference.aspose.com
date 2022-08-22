@@ -1,14 +1,14 @@
 ---
 title: PositionComponents
 second_title: Aspose.3D for .NET API 参考
-description: 位置数据的组件名称默认值为 x y z
+description: 位置数据的组件名称默认值为xyz
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.formats/plysaveoptions/positioncomponents/
 ---
 ## PlySaveOptions.PositionComponents property
 
-位置数据的组件名称，默认值为 ("x", "y", "z")
+位置数据的组件名称，默认值为（“x”，“y”，“z”）
 
 ```csharp
 public Tuple<string, string, string> PositionComponents { get; set; }

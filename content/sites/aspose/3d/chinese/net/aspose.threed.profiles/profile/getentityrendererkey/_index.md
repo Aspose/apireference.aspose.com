@@ -1,14 +1,14 @@
 ---
 title: GetEntityRendererKey
 second_title: Aspose.3D for .NET API 参考
-description: 获取在渲染器中注册的实体渲染器的key
+description: 获取渲染器中注册的实体渲染器的key
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/profile/getentityrendererkey/
 ---
 ## Profile.GetEntityRendererKey method
 
-获取在渲染器中注册的实体渲染器的key
+获取渲染器中注册的实体渲染器的key
 
 ```csharp
 public override EntityRendererKey GetEntityRendererKey()

@@ -1,14 +1,14 @@
 ---
 title: CreateVertexBuffer
 second_title: Справочник по Aspose.3D для .NET API
-description: Создайте экземплярIVertexBufferaspose.threed.render/ivertexbufferдля хранения информации о вершинах полигона.
+description: СоздатьIVertexBufferaspose.threed.render/ivertexbuffer instance для хранения информации о вершинах полигона.
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.render/renderfactory/createvertexbuffer/
 ---
 ## RenderFactory.CreateVertexBuffer method
 
-Создайте экземпляр[`IVertexBuffer`](../../ivertexbuffer)для хранения информации о вершинах полигона.
+Создать[`IVertexBuffer`](../../ivertexbuffer) instance для хранения информации о вершинах полигона.
 
 ```csharp
 public abstract IVertexBuffer CreateVertexBuffer(VertexDeclaration declaration)
@@ -16,7 +16,7 @@ public abstract IVertexBuffer CreateVertexBuffer(VertexDeclaration declaration)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| объявление | VertexDeclaration |  |
+| declaration | VertexDeclaration |  |
 
 ### Смотрите также
 

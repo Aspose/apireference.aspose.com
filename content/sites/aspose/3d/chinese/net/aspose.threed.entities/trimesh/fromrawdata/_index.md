@@ -17,18 +17,18 @@ public static TriMesh FromRawData(VertexDeclaration vd, byte[] vertices, int[] i
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| vd | VertexDeclaration | 顶点声明，必须包含至少一个字段。 |
-| vertices | Byte[] | 输入的顶点数据，顶点的最小长度必须大于等于顶点声明的大小 |
-| indices | Int32[] | 三角形索引 |
-| generateVertexMapping | Boolean | Generate[`Vertex`](../../../aspose.threed.utilities/vertex)对于每个顶点，其中仅序列化/反序列化不需要。 |
+| vd | VertexDeclaration | 顶点声明，必须至少包含一个字段。 |
+| vertices | Byte[] | 输入的顶点数据，顶点的最小长度必须大于或等于顶点声明的大小 |
+| indices | Int32[] | 三角指数 |
+| generateVertexMapping | Boolean | 产生[`Vertex`](../../../aspose.threed.utilities/vertex)对于每个顶点，这对于序列化/反序列化不是必需的。 |
 
 ### 返回值
 
-[`TriMesh`](../../trimesh)封装输入字节数组的实例。
+这[`TriMesh`](../../trimesh)封装输入字节数组的实例。
 
 ### 评论
 
-返回的 TriMesh 不会复制输入字节数组以提高性能，数组的外部更改将反映到此实例。
+返回的 TriMesh 不会为了性能而复制输入字节数组，数组上的外部更改将反映到此实例。
 
 ### 也可以看看
 

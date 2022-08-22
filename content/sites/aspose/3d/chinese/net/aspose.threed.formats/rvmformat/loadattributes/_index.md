@@ -16,9 +16,9 @@ public void LoadAttributes(Scene scene, string fileName, string prefix = "rvm:")
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| scene | Scene | 场景属性将应用于 |
-| fileName | String | 包含属性 |
-| prefix | String | 的文件名用于避免名称冲突的属性前缀，默认值为 "rvm:" |
+| scene | Scene | 将应用属性的场景 |
+| fileName | String | 包含属性的文件名 |
+| prefix | String | 用于避免名称冲突的属性前缀，默认值为“rvm:” |
 
 ### 也可以看看
 
@@ -39,9 +39,9 @@ public void LoadAttributes(Scene scene, Stream stream, string prefix = "rvm:")
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| scene | Scene | 属性将应用于 |
+| scene | Scene | 将应用属性的场景 |
 | stream | Stream | 包含属性的流 |
-| prefix | String | 的前缀用于避免名称冲突的属性，默认值为 "rvm:" |
+| prefix | String | 用于避免名称冲突的属性前缀，默认值为“rvm:” |
 
 ### 也可以看看
 

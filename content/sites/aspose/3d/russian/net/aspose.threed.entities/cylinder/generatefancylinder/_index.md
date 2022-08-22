@@ -1,14 +1,14 @@
 ---
 title: GenerateFanCylinder
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает следует ли генерировать веерный цилиндр когда ThetaLength меньше 2PI иначе модель не будет разрезана.
+description: Получает или задает следует ли генерировать веерообразный цилиндр когда ThetaLength меньше 2PI иначе модель не будет разрезана.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/cylinder/generatefancylinder/
 ---
 ## Cylinder.GenerateFanCylinder property
 
-Получает или задает, следует ли генерировать веерный цилиндр, когда ThetaLength меньше 2*PI, иначе модель не будет разрезана.
+Получает или задает, следует ли генерировать веерообразный цилиндр, когда ThetaLength меньше 2*PI, иначе модель не будет разрезана.
 
 ```csharp
 public bool GenerateFanCylinder { get; set; }

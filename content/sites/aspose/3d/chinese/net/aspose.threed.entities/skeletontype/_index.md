@@ -1,14 +1,14 @@
 ---
 title: SkeletonType
 second_title: Aspose.3D for .NET API 参考
-description: Skeleton./skeleton的类型
+description: Skeleton./skeleton s 类型.
 type: docs
 weight: 660
 url: /zh/net/aspose.threed.entities/skeletontype/
 ---
 ## SkeletonType enumeration
 
-[`Skeleton`](../skeleton)的类型。
+[`Skeleton`](../skeleton) s 类型.
 
 ```csharp
 public enum SkeletonType
@@ -18,8 +18,8 @@ public enum SkeletonType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Skeleton | `0` | [`Skeleton`](../skeleton)是一个骨架实体，表示关联节点是整体的根节点骨骼层次结构。 |
-| Bone | `1` | [`Skeleton`](../skeleton)是一个骨骼实体。 |
+| Skeleton | `0` | 的[`Skeleton`](../skeleton)是骨架实体，表示关联节点是整个骨架层次结构的根节点。 |
+| Bone | `1` | 的[`Skeleton`](../skeleton)是一个骨骼实体。 |
 
 ### 也可以看看
 

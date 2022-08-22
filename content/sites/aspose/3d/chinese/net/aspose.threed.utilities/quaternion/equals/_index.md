@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 检查相等的对象. |
+| obj | Object | 检查相等性的对象。 |
 
 ### 返回值
 
-如果所有组件相同，则为真。
+如果所有组件完全相同，则为真。
 
 ### 也可以看看
 

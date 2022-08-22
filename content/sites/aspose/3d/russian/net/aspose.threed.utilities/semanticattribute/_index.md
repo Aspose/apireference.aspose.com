@@ -1,14 +1,14 @@
 ---
 title: SemanticAttribute
 second_title: Справочник по Aspose.3D для .NET API
-description: Разрешить пользователю использовать свою собственную структуру для статического объявленияVertexDeclaration./vertexdeclaration
+description: Разрешить пользователю использовать собственную структуру для статического объявленияVertexDeclaration./vertexdeclaration
 type: docs
-weight: 2620
+weight: 2610
 url: /ru/net/aspose.threed.utilities/semanticattribute/
 ---
 ## SemanticAttribute class
 
-Разрешить пользователю использовать свою собственную структуру для статического объявления[`VertexDeclaration`](../vertexdeclaration)
+Разрешить пользователю использовать собственную структуру для статического объявления[`VertexDeclaration`](../vertexdeclaration)
 
 ```csharp
 [AttributeUsage(AttributeTargets.Field)]
@@ -26,8 +26,8 @@ public sealed class SemanticAttribute : Attribute
 
 | Имя | Описание |
 | --- | --- |
-| [Alias](../../aspose.threed.utilities/semanticattribute/alias) { get; } | Псевдоним поля вершин |
-| [Semantic](../../aspose.threed.utilities/semanticattribute/semantic) { get; } | Семантика поля вершин |
+| [Alias](../../aspose.threed.utilities/semanticattribute/alias) { get; } | Псевдоним вершинного поля |
+| [Semantic](../../aspose.threed.utilities/semanticattribute/semantic) { get; } | Семантика вершинного поля |
 
 ### Смотрите также
 

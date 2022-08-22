@@ -1,14 +1,14 @@
 ---
 title: DracoSaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Создайте конфигурацию по умолчанию для сохранения файлов draco.
+description: Создать конфигурацию по умолчанию для сохранения файлов draco.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/dracosaveoptions/dracosaveoptions/
 ---
 ## DracoSaveOptions constructor
 
-Создайте конфигурацию по умолчанию для сохранения файлов draco.
+Создать конфигурацию по умолчанию для сохранения файлов draco.
 
 ```csharp
 public DracoSaveOptions()

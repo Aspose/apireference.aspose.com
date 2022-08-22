@@ -3,7 +3,7 @@ title: ZShape
 second_title: Aspose.3D for .NET API 参考
 description: 由参数定义的 IFC 兼容 Z 形轮廓
 type: docs
-weight: 1650
+weight: 1660
 url: /zh/net/aspose.threed.profiles/zshape/
 ---
 ## ZShape class
@@ -18,7 +18,7 @@ public class ZShape : ParameterizedProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ZShape](zshape)() | [`ZShape`](../zshape) |
+| [ZShape](zshape)() | 的构造函数[`ZShape`](../zshape) |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public class ZShape : ParameterizedProfile
 | --- | --- |
 | [Depth](../../aspose.threed.profiles/zshape/depth) { get; set; } | 获取或设置网页的长度。 |
 | [EdgeRadius](../../aspose.threed.profiles/zshape/edgeradius) { get; set; } | 获取或设置法兰边的半径。 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | [FilletRadius](../../aspose.threed.profiles/zshape/filletradius) { get; set; } | 获取或设置法兰和腹板之间的圆角半径。 |
 | [FlangeThickness](../../aspose.threed.profiles/zshape/flangethickness) { get; set; } | 获取或设置法兰的厚度。 |
 | [FlangeWidth](../../aspose.threed.profiles/zshape/flangewidth) { get; set; } | 获取或设置法兰长度。 |
@@ -41,13 +41,13 @@ public class ZShape : ParameterizedProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | override [GetExtent](../../aspose.threed.profiles/zshape/getextent)() | 获取 x 和 y 维度的范围。 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

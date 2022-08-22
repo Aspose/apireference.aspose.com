@@ -1,14 +1,14 @@
 ---
 title: RadialSegments
 second_title: Aspose.3D for .NET API 参考
-description: 径向线段默认值为 10
+description: 径向线段默认值为10
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.entities/rectangulartorus/radialsegments/
 ---
 ## RectangularTorus.RadialSegments property
 
-径向线段，默认值为 10
+径向线段，默认值为10
 
 ```csharp
 public int RadialSegments { get; set; }

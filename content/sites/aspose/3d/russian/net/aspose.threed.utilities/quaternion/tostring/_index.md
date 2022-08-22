@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает представление кватерниона в строке
+description: Получает представление кватерниона в string
 type: docs
 weight: 220
 url: /ru/net/aspose.threed.utilities/quaternion/tostring/
 ---
 ## Quaternion.ToString method
 
-Получает представление кватерниона в строке
+Получает представление кватерниона в string
 
 ```csharp
 public override string ToString()

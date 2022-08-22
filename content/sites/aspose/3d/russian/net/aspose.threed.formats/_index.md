@@ -1,7 +1,7 @@
 ---
 title: Aspose.ThreeD.Formats
 second_title: Справочник по Aspose.3D для .NET API
-description: В этом пространстве имен определены настройки связанные с вводом-выводом.
+description: В этом пространстве имен определены настройки связанные с вводомвыводом.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.formats/
@@ -14,24 +14,24 @@ url: /ru/net/aspose.threed.formats/
 | --- | --- |
 | [A3dwSaveOptions](./a3dwsaveoptions) | Параметры сохранения для формата A3DW. |
 | [AmfSaveOptions](./amfsaveoptions) | Параметры сохранения для AMF |
-| [ColladaSaveOptions](./colladasaveoptions) | Сохранить параметры для коллады |
+| [ColladaSaveOptions](./colladasaveoptions) | Сохранить параметры для collada |
 | [Discreet3dsLoadOptions](./discreet3dsloadoptions) | Параметры загрузки для файла 3DS. |
 | [Discreet3dsSaveOptions](./discreet3dssaveoptions) | Параметры сохранения для файла 3DS. |
-| [DracoFormat](./dracoformat) | Формат Google Draco |
+| [DracoFormat](./dracoformat) | Формат Google Драко |
 | [DracoSaveOptions](./dracosaveoptions) | Параметры сохранения для файлов Google draco |
 | [FbxLoadOptions](./fbxloadoptions) | Параметры загрузки для формата Fbx. |
-| [FbxSaveOptions](./fbxsaveoptions) | Параметры сохранения файла Fbx. |
-| [FileSystemFactory](./filesystemfactory) | [`SaveOptions`](../aspose.threed.formats/saveoptions)и[`LoadOptions`](../aspose.threed.formats/loadoptions)создаст[`LocalFileSystem`](../aspose.threed.utilities/localfilesystem)по умолчанию. Это может быть проблемой безопасности в серверной среде. Используйте свой собственный[`FileSystemFactory`](../aspose.threed.formats/filesystemfactory)для[`FileSystemFactory`](../aspose.threed.formats/ioconfig/filesystemfactory)для улучшения сервера боковая безопасность. |
+| [FbxSaveOptions](./fbxsaveoptions) | Параметры сохранения для файла Fbx. |
+| [FileSystemFactory](./filesystemfactory) | [`SaveOptions`](../aspose.threed.formats/saveoptions) а также[`LoadOptions`](../aspose.threed.formats/loadoptions) создаст[`LocalFileSystem`](../aspose.threed.utilities/localfilesystem) по умолчанию. Это может быть проблемой безопасности в серверной среде. Используйте свой собственный[`FileSystemFactory`](../aspose.threed.formats/filesystemfactory) к[`FileSystemFactory`](../aspose.threed.formats/ioconfig/filesystemfactory) для повышения безопасности на стороне сервера. |
 | [GltfLoadOptions](./gltfloadoptions) | Параметры загрузки для формата glTF |
 | [GltfSaveOptions](./gltfsaveoptions) | Параметры сохранения для формата glTF. |
 | [Html5SaveOptions](./html5saveoptions) | Параметры сохранения для HTML5 |
-| [IOConfig](./ioconfig) | Конфигурация ввода-вывода для сериализации/десериализации. Пользователь может указать подробные конфигурации, такие как путь поиска зависимостей Или конфигурации, связанные с форматом, здесь |
+| [IOConfig](./ioconfig) | Конфигурация ввода-вывода для сериализации/десериализации. Пользователь может указать подробные конфигурации, такие как путь поиска зависимостей Или конфигурации, связанные с форматом здесь |
 | [LoadOptions](./loadoptions) | Базовый класс для настройки параметров загрузки файлов для разных типов |
 | [MaterialConverter](./materialconverter) | Пользовательский преобразователь для преобразования исходного материала геометрии в материал GLTF PBR. |
-| [ObjLoadOptions](./objloadoptions) | Параметры загрузки для объекта волнового фронта |
-| [ObjSaveOptions](./objsaveoptions) | Параметры сохранения для файла obj wavefront |
+| [ObjLoadOptions](./objloadoptions) | Параметры загрузки волнового фронта obj |
+| [ObjSaveOptions](./objsaveoptions) | Параметры сохранения для файла obj волнового фронта |
 | [PdfFormat](./pdfformat) | Формат переносимых документов Adobe |
-| [PdfLoadOptions](./pdfloadoptions) | Опции загрузки PDF |
+| [PdfLoadOptions](./pdfloadoptions) | Параметры загрузки PDF |
 | [PdfSaveOptions](./pdfsaveoptions) | Параметры сохранения при экспорте в PDF. |
 | [PlyFormat](./plyformat) | Формат PLY. |
 | [PlyLoadOptions](./plyloadoptions) | Параметры загрузки файлов PLY |
@@ -40,20 +40,20 @@ url: /ru/net/aspose.threed.formats/
 | [RvmLoadOptions](./rvmloadoptions) | Параметры загрузки для файла RVM AVEVA Plant Design Management System. |
 | [RvmSaveOptions](./rvmsaveoptions) | Параметры сохранения для файла Aveva PDMS RVM. |
 | [SaveOptions](./saveoptions) | Базовый класс для настройки параметров сохранения файлов для разных типов |
-| [StlLoadOptions](./stlloadoptions) | Опции загрузки для STL |
-| [StlSaveOptions](./stlsaveoptions) | Параметры сохранения для STL |
+| [StlLoadOptions](./stlloadoptions) | Параметры загрузки для STL |
+| [StlSaveOptions](./stlsaveoptions) | Сохранить параметры для STL |
 | [U3dLoadOptions](./u3dloadoptions) | Параметры загрузки для универсального 3d |
 | [U3dSaveOptions](./u3dsaveoptions) | Параметры сохранения для универсального 3d |
 | [UsdSaveOptions](./usdsaveoptions) | Параметры сохранения для форматов USD/USDZ. |
-| [XLoadOptions](./xloadoptions) | Параметры загрузки файлов DirectX X. |
+| [XLoadOptions](./xloadoptions) | Параметры загрузки для файлов DirectX X. |
 ## перечисление
 
 | перечисление | Описание |
 | --- | --- |
-| [ColladaTransformStyle](./colladatransformstyle) | Стиль преобразования узла узла |
+| [ColladaTransformStyle](./colladatransformstyle) | Стиль преобразования узла node |
 | [DracoCompressionLevel](./dracocompressionlevel) | Уровень сжатия для файла draco |
 | [GltfEmbeddedImageFormat](./gltfembeddedimageformat) | Как экспортер glTF будет вставлять текстуры во время экспорта. |
-| [PdfLightingScheme](./pdflightingscheme) | LightingScheme указывает освещение, применяемое к 3D-графике. |
-| [PdfRenderMode](./pdfrendermode) | Режим рендеринга определяет стиль, в котором визуализируется трехмерное изображение. |
+| [PdfLightingScheme](./pdflightingscheme) | LightingScheme определяет освещение, применяемое к 3D-объекту. |
+| [PdfRenderMode](./pdfrendermode) | Режим рендеринга определяет стиль, в котором визуализируется 3D-графика. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.3D.dll -->

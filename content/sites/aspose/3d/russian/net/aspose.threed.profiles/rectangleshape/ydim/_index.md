@@ -1,14 +1,14 @@
 ---
 title: YDim
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает размер прямоугольника в направлении оси Y Значение по умолчанию20
+description: Получает или задает размер прямоугольника в направлении оси Y Значение по умолчанию 2.0
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.profiles/rectangleshape/ydim/
 ---
 ## RectangleShape.YDim property
 
-Получает или задает размер прямоугольника в направлении оси Y Значение по умолчанию:2,0
+Получает или задает размер прямоугольника в направлении оси Y Значение по умолчанию: 2.0
 
 ```csharp
 public double YDim { get; set; }

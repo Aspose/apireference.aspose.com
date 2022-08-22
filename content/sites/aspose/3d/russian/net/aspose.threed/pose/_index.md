@@ -1,14 +1,14 @@
 ---
 title: Pose
 second_title: Справочник по Aspose.3D для .NET API
-description: Поза используется для хранения матрицы трансформации при скинировании геометрии. Поза представляет собой наборBonePose./bonepose каждыйBonePose./boneposeсохраняет конкретную информацию о преобразовании костного узла.
+description: Поза используется для хранения матрицы преобразования при скинировании геометрии. Поза представляет собой наборBonePose./bonepose  каждыйBonePose./bonepose сохраняет информацию о конкретном преобразовании узла кости.
 type: docs
-weight: 1480
+weight: 1490
 url: /ru/net/aspose.threed/pose/
 ---
 ## Pose class
 
-Поза используется для хранения матрицы трансформации при скинировании геометрии. Поза представляет собой набор[`BonePose`](../bonepose), каждый[`BonePose`](../bonepose)сохраняет конкретную информацию о преобразовании костного узла.
+Поза используется для хранения матрицы преобразования при скинировании геометрии. Поза представляет собой набор[`BonePose`](../bonepose) , каждый[`BonePose`](../bonepose) сохраняет информацию о конкретном преобразовании узла кости.
 
 ```csharp
 public class Pose : A3DObject
@@ -18,14 +18,14 @@ public class Pose : A3DObject
 
 | Имя | Описание |
 | --- | --- |
-| [Pose](pose#constructor)() | Инициализирует новый экземпляр класса[`Pose`](../pose). |
-| [Pose](pose#constructor_1)(string) | Инициализирует новый экземпляр класса[`Pose`](../pose). |
+| [Pose](pose#constructor)() | Инициализирует новый экземпляр[`Pose`](../pose) класс. |
+| [Pose](pose#constructor_1)(string) | Инициализирует новый экземпляр[`Pose`](../pose) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BonePoses](../../aspose.threed/pose/boneposes) { get; } | Получает все[`BonePose`](../bonepose). |
+| [BonePoses](../../aspose.threed/pose/boneposes) { get; } | получает все[`BonePose`](../bonepose) . |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
 | [PoseType](../../aspose.threed/pose/posetype) { get; set; } | Получает или задает тип позы. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
@@ -39,7 +39,7 @@ public class Pose : A3DObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

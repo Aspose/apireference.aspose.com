@@ -1,14 +1,14 @@
 ---
 title: ReadFile
 second_title: Aspose.3D for .NET API 参考
-description: 打开文件进行读取
+description: 打开文件读取
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.utilities/ziparchivefilesystem/readfile/
 ---
 ## ZipArchiveFileSystem.ReadFile method
 
-打开文件进行读取
+打开文件读取
 
 ```csharp
 public override Stream ReadFile(string fileName, IOConfig options)

@@ -1,14 +1,14 @@
 ---
 title: OffsetWidth
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает смещение для ширины
+description: Получает или задает смещение для width
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.utilities/relativerectangle/offsetwidth/
 ---
 ## RelativeRectangle.OffsetWidth property
 
-Получает или устанавливает смещение для ширины
+Получает или задает смещение для width
 
 ```csharp
 public int OffsetWidth { get; set; }

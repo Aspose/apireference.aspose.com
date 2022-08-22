@@ -16,7 +16,7 @@ public Vector3 Cos()
 
 ### 返回值
 
-计算[`Vector3`](../../vector3)。
+计算出来的[`Vector3`](../../vector3).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: NextInTangent
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает следующую левую касательную в этом ключевом кадре.
+description: Получает или задает следующую слева касательную в этом ключевом кадре.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.animation/keyframe/nextintangent/
 ---
 ## KeyFrame.NextInTangent property
 
-Получает или задает следующую (левую) касательную в этом ключевом кадре.
+Получает или задает следующую (слева) касательную в этом ключевом кадре.
 
 ```csharp
 public Vector2 NextInTangent { get; set; }

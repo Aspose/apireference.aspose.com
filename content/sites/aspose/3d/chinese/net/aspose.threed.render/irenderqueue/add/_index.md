@@ -19,7 +19,7 @@ public void Add(RenderQueueGroupId groupId, IPipeline pipeline, object renderabl
 | --- | --- | --- |
 | groupId | RenderQueueGroupId | 渲染任务将在队列的哪一组 |
 | pipeline | IPipeline | 用于此渲染任务的管道实例 |
-| renderableResource | Object | 将发送到Int32) |
+| renderableResource | Object | 将发送到的自定义对象[`RenderEntity`](../../entityrenderer/renderentity) |
 | subEntity | Int32 | 子实体的索引，当实体由多个子可渲染组件组成时很有用。 |
 
 ### 也可以看看

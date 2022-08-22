@@ -1,14 +1,14 @@
 ---
 title: CreationTime
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置此资产的创建时间
+description: 获取或设置该资产的创建时间
 type: docs
 weight: 100
 url: /zh/net/aspose.threed/assetinfo/creationtime/
 ---
 ## AssetInfo.CreationTime property
 
-获取或设置此资产的创建时间
+获取或设置该资产的创建时间
 
 ```csharp
 public DateTime? CreationTime { get; set; }

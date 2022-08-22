@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Справочник по Aspose.3D для .NET API
-description: Перегрузка оператора для - минус
+description: Перегрузка оператора для  минус
 type: docs
 weight: 140
 url: /ru/net/aspose.threed.utilities/vector4/op_subtraction/
@@ -17,7 +17,7 @@ public static Vector4 operator -(Vector4 lhs, Vector4 rhs)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lhs | Vector4 | Левый вектор |
-| rhs | Vector4 | Правый вектор |
+| rhs | Vector4 | Правильный вектор |
 
 ### Возвращаемое значение
 

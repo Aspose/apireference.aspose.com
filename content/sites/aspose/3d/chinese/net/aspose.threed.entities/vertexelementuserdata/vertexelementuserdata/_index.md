@@ -1,14 +1,14 @@
 ---
 title: VertexElementUserData
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementUserDataaspose.threed.entities/vertexelementuserdata类的新实例
+description: 初始化VertexElementUserDataaspose.threed.entities/vertexelementuserdata类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementuserdata/vertexelementuserdata/
 ---
 ## VertexElementUserData constructor
 
-初始化[`VertexElementUserData`](../../vertexelementuserdata)类的新实例。
+初始化[`VertexElementUserData`](../../vertexelementuserdata)类.
 
 ```csharp
 public VertexElementUserData()

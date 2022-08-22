@@ -3,7 +3,7 @@ title: FileSystem
 second_title: Справочник по Aspose.3D для .NET API
 description: Инкапсуляция файловой системы. Aspose.3D будет использовать это для чтения/записи зависимостей.
 type: docs
-weight: 2520
+weight: 2510
 url: /ru/net/aspose.threed.utilities/filesystem/
 ---
 ## FileSystem class

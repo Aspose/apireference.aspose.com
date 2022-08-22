@@ -1,14 +1,14 @@
 ---
 title: CustomObject
 second_title: Aspose.3D for .NET API 参考
-description: 初始化CustomObjectaspose.threed/customobject类的新实例
+description: 初始化CustomObjectaspose.threed/customobject类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed/customobject/customobject/
 ---
 ## CustomObject() {#constructor}
 
-初始化[`CustomObject`](../../customobject)类的新实例。
+初始化[`CustomObject`](../../customobject)类.
 
 ```csharp
 public CustomObject()
@@ -24,7 +24,7 @@ public CustomObject()
 
 ## CustomObject(string) {#constructor_1}
 
-初始化[`CustomObject`](../../customobject)类的新实例。
+初始化[`CustomObject`](../../customobject)类.
 
 ```csharp
 public CustomObject(string name)
@@ -32,7 +32,7 @@ public CustomObject(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 

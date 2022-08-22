@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.3D для .NET API
-description: Получить имя этого типа формата файла
+description: Получить имя этого формата файла type
 type: docs
 weight: 250
 url: /ru/net/aspose.threed/fileformattype/tostring/
 ---
 ## FileFormatType.ToString method
 
-Получить имя этого типа формата файла
+Получить имя этого формата файла type
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-AStringкоторый представляет текущий`ToString`.
+АStringкоторый представляет текущий`ToString`.
 
 ### Смотрите также
 

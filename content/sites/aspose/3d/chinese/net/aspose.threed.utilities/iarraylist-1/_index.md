@@ -1,14 +1,14 @@
 ---
 title: IArrayListT
 second_title: Aspose.3D for .NET API 参考
-description: Aspose.3D 有自己高度优化的List实现以实现更好的加载/保存性能 仅此接口向具有IList兼容和类似接口的用户公开
+description: Aspose.3D 有自己高度优化的实现List为了更好地加载/保存性能 只有这个接口对用户公开IList兼容和类似的接口
 type: docs
-weight: 2530
+weight: 2520
 url: /zh/net/aspose.threed.utilities/iarraylist-1/
 ---
 ## IArrayList&lt;T&gt; interface
 
-Aspose.3D 有自己高度优化的List实现，以实现更好的加载/保存性能 仅此接口向具有IList兼容和类似接口的用户公开。
+Aspose.3D 有自己高度优化的实现List为了更好地加载/保存性能 只有这个接口对用户公开IList兼容和类似的接口。
 
 ```csharp
 public interface IArrayList<T> : IList<T>

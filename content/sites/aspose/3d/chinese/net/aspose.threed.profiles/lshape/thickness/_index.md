@@ -1,14 +1,14 @@
 ---
 title: Thickness
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置恒定墙的厚度
+description: 获取或设置恒定壁的厚度
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.profiles/lshape/thickness/
 ---
 ## LShape.Thickness property
 
-获取或设置恒定墙的厚度。
+获取或设置恒定壁的厚度。
 
 ```csharp
 public double Thickness { get; set; }

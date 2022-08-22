@@ -1,14 +1,14 @@
 ---
 title: VideoForTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает нужно ли создавать экземпляр Video дляTextureaspose.threed.shading/textureпри экспорте в формате FBX.
+description: Получает или задает необходимость создания экземпляра видео дляTextureaspose.threed.shading/texture при экспорте в формате FBX.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.formats/fbxsaveoptions/videofortexture/
 ---
 ## FbxSaveOptions.VideoForTexture property
 
-Получает или задает, нужно ли создавать экземпляр Video для[`Texture`](../../../aspose.threed.shading/texture)при экспорте в формате FBX.
+Получает или задает необходимость создания экземпляра видео для[`Texture`](../../../aspose.threed.shading/texture) при экспорте в формате FBX.
 
 ```csharp
 public bool VideoForTexture { get; set; }

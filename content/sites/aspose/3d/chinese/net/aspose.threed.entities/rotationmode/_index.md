@@ -18,7 +18,7 @@ public enum RotationMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| FixedTarget | `0` | 目标是固定的，方向是通过查看目标来计算的 |
+| FixedTarget | `0` | 目标是固定的，方向是通过查看 target 来计算的 |
 | FixedDirection | `1` | 方向是固定的，看是按方向计算的 |
 
 ### 也可以看看

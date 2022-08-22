@@ -1,14 +1,14 @@
 ---
 title: SpecularGlossinessTexture
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置镜面反射颜色的纹理RGB通道存储镜面反射颜色通道A存储光泽度
+description: 获取或设置镜面反射颜色的纹理通道RGB存储镜面反射颜色通道A存储光泽度
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.shading/pbrspecularmaterial/specularglossinesstexture/
 ---
 ## PbrSpecularMaterial.SpecularGlossinessTexture property
 
-获取或设置镜面反射颜色的纹理，RGB通道存储镜面反射颜色，通道A存储光泽度。
+获取或设置镜面反射颜色的纹理，通道RGB存储镜面反射颜色，通道A存储光泽度。
 
 ```csharp
 public TextureBase SpecularGlossinessTexture { get; set; }

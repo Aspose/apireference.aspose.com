@@ -1,14 +1,14 @@
 ---
 title: PostProcessings
 second_title: Aspose.3D for .NET API 参考
-description: 活动后处理链
+description: 主动后处理链
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.render/renderer/postprocessings/
 ---
 ## Renderer.PostProcessings property
 
-活动后处理链
+主动后处理链
 
 ```csharp
 public IList<PostProcessing> PostProcessings { get; }

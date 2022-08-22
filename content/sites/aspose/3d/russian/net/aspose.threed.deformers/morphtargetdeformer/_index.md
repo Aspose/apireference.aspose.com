@@ -1,14 +1,14 @@
 ---
 title: MorphTargetDeformer
 second_title: Справочник по Aspose.3D для .NET API
-description: MorphTargetDeformer обеспечивает повершинную анимацию. MorphTargetDeformer организует все цели черезMorphTargetChannel./morphtargetchannel каждый канал может организовать несколько целей. Обычно деформатор morph target используется для применения выражения лица к персонажу. Более подробную информацию можно найти на https//en.wikipedia.org/wiki/Morph_target_animation
+description: MorphTargetDeformer обеспечивает повершинную анимацию. MorphTargetDeformer организует все цели черезMorphTargetChannel./morphtargetchannel  каждый канал может организовать несколько целей. Обычно деформатор цели морфинга используется для применения выражения лица к персонажу. Более подробную информацию можно найти на https//en.wikipedia.org/wiki/Morph_target_animation
 type: docs
 weight: 210
 url: /ru/net/aspose.threed.deformers/morphtargetdeformer/
 ---
 ## MorphTargetDeformer class
 
-MorphTargetDeformer обеспечивает повершинную анимацию. MorphTargetDeformer организует все цели через[`MorphTargetChannel`](../morphtargetchannel), каждый канал может организовать несколько целей. Обычно деформатор morph target используется для применения выражения лица к персонажу. Более подробную информацию можно найти на https://en.wikipedia.org/wiki/Morph_target_animation
+MorphTargetDeformer обеспечивает повершинную анимацию. MorphTargetDeformer организует все цели через[`MorphTargetChannel`](../morphtargetchannel) , каждый канал может организовать несколько целей. Обычно деформатор цели морфинга используется для применения выражения лица к персонажу. Более подробную информацию можно найти на https://en.wikipedia.org/wiki/Morph_target_animation
 
 ```csharp
 public class MorphTargetDeformer : Deformer
@@ -18,8 +18,8 @@ public class MorphTargetDeformer : Deformer
 
 | Имя | Описание |
 | --- | --- |
-| [MorphTargetDeformer](morphtargetdeformer#constructor)() | Инициализирует новый экземпляр класса[`MorphTargetDeformer`](../morphtargetdeformer). |
-| [MorphTargetDeformer](morphtargetdeformer#constructor_1)(string) | Инициализирует новый экземпляр класса[`MorphTargetDeformer`](../morphtargetdeformer). |
+| [MorphTargetDeformer](morphtargetdeformer#constructor)() | Инициализирует новый экземпляр[`MorphTargetDeformer`](../morphtargetdeformer) класс. |
+| [MorphTargetDeformer](morphtargetdeformer#constructor_1)(string) | Инициализирует новый экземпляр[`MorphTargetDeformer`](../morphtargetdeformer) класс. |
 
 ## Характеристики
 
@@ -38,7 +38,7 @@ public class MorphTargetDeformer : Deformer
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

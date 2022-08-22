@@ -18,7 +18,7 @@ public class ShaderTechnique
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ShaderTechnique](shadertechnique)() | 初始化[`ShaderTechnique`](../shadertechnique)类的新实例。 |
+| [ShaderTechnique](shadertechnique)() | 初始化[`ShaderTechnique`](../shadertechnique)类. |
 
 ## 特性
 
@@ -26,12 +26,12 @@ public class ShaderTechnique
 | --- | --- |
 | [Description](../../aspose.threed.shading/shadertechnique/description) { get; set; } | 获取或设置该技术的描述 |
 | [RenderAPI](../../aspose.threed.shading/shadertechnique/renderapi) { get; set; } | 获取或设置此技术使用的渲染 API |
-| [RenderAPIVersion](../../aspose.threed.shading/shadertechnique/renderapiversion) { get; set; } | 获取或设置渲染 API 的版本。 |
-| [ShaderContent](../../aspose.threed.shading/shadertechnique/shadercontent) { get; set; } | 获取或设置嵌入式着色器脚本的内容。 可能是 HLSL/GLSL 着色器源文件。 |
+| [RenderAPIVersion](../../aspose.threed.shading/shadertechnique/renderapiversion) { get; set; } | 获取或设置渲染API的版本。 |
+| [ShaderContent](../../aspose.threed.shading/shadertechnique/shadercontent) { get; set; } | 获取或设置嵌入式着色器脚本的内容。 可以是 HLSL/GLSL 着色器源文件。 |
 | [ShaderEntry](../../aspose.threed.shading/shadertechnique/shaderentry) { get; set; } | 获取或设置着色器的入口点，一些像HLSL这样的着色器可以有自定义的着色器入口。 |
 | [ShaderFile](../../aspose.threed.shading/shadertechnique/shaderfile) { get; set; } | 获取或设置外部着色器文件的文件名。 |
 | [ShaderLanguage](../../aspose.threed.shading/shadertechnique/shaderlanguage) { get; set; } | 获取或设置此技术使用的着色器语言。 |
-| [ShaderParameters](../../aspose.threed.shading/shadertechnique/shaderparameters) { get; } | 获取着色器参数定义。 key 是动态属性的名称，value 是属性连接的着色器参数名称。 |
+| [ShaderParameters](../../aspose.threed.shading/shadertechnique/shaderparameters) { get; } | 获取shader参数定义 key为动态属性名，value为属性连接的shader参数名 |
 | [ShaderVersion](../../aspose.threed.shading/shadertechnique/shaderversion) { get; set; } | 获取或设置此技术使用的着色器版本。 |
 
 ## 方法

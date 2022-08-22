@@ -1,14 +1,14 @@
 ---
 title: NormalizeNormal
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否在加载过程中对法线向量进行归一化 默认值为真
+description: 获取或设置是否在加载过程中对法线向量进行归一化 默认值为true
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.formats/objloadoptions/normalizenormal/
 ---
 ## ObjLoadOptions.NormalizeNormal property
 
-获取或设置是否在加载过程中对法线向量进行归一化。 默认值为真。
+获取或设置是否在加载过程中对法线向量进行归一化。 默认值为true。
 
 ```csharp
 public bool NormalizeNormal { get; set; }

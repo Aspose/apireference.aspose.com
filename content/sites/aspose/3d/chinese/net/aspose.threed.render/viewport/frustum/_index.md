@@ -1,14 +1,14 @@
 ---
 title: Frustum
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置此Viewportaspose.threed.render/viewport
+description: 获取或设置本机的相机Viewportaspose.threed.render/viewport
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.render/viewport/frustum/
 ---
 ## Viewport.Frustum property
 
-获取或设置此[`Viewport`](../../viewport)
+获取或设置本机的相机[`Viewport`](../../viewport)
 
 ```csharp
 public Frustum Frustum { get; set; }

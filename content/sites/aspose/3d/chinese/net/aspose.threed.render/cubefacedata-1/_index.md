@@ -3,7 +3,7 @@ title: CubeFaceDataT
 second_title: Aspose.3D for .NET API 参考
 description: 立方体贴图纹理每个面的数据
 type: docs
-weight: 1720
+weight: 1730
 url: /zh/net/aspose.threed.render/cubefacedata-1/
 ---
 ## CubeFaceData&lt;T&gt; structure
@@ -22,19 +22,19 @@ public struct CubeFaceData<T>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Back](../../aspose.threed.render/cubefacedata`1/back) { get; set; } | 获取或设置 +Z(Back) face |
-| [Bottom](../../aspose.threed.render/cubefacedata`1/bottom) { get; set; } | 获取或设置 -Y(Bottom) face |
-| [Front](../../aspose.threed.render/cubefacedata`1/front) { get; set; } | 获取或设置 -Z(Front) face |
+| [Back](../../aspose.threed.render/cubefacedata`1/back) { get; set; } | 获取或设置+Z(Back) face 的数据 |
+| [Bottom](../../aspose.threed.render/cubefacedata`1/bottom) { get; set; } | 获取或设置 -Y(Bottom) face 的数据 |
+| [Front](../../aspose.threed.render/cubefacedata`1/front) { get; set; } | 获取或设置 -Z(Front) face 的数据 |
 | [Item](../../aspose.threed.render/cubefacedata`1/item) { get; set; } |  |
-| [Left](../../aspose.threed.render/cubefacedata`1/left) { get; set; } | 获取或设置+X（左）面的数据 |
-| [NegativeX](../../aspose.threed.render/cubefacedata`1/negativex) { get; set; } | 获取或设置+X（左）面的数据 |
-| [NegativeY](../../aspose.threed.render/cubefacedata`1/negativey) { get; set; } | 获取或设置 -Y(Bottom) face |
-| [NegativeZ](../../aspose.threed.render/cubefacedata`1/negativez) { get; set; } | 获取或设置 -Z(Front) face |
-| [PositiveX](../../aspose.threed.render/cubefacedata`1/positivex) { get; set; } | 获取或设置+X（右）面的数据 |
-| [PositiveY](../../aspose.threed.render/cubefacedata`1/positivey) { get; set; } | 获取或设置+Y（顶）面的数据 |
-| [PositiveZ](../../aspose.threed.render/cubefacedata`1/positivez) { get; set; } | 获取或设置 +Z(Back) face |
-| [Right](../../aspose.threed.render/cubefacedata`1/right) { get; set; } | 获取或设置+X（右）面的数据 |
-| [Top](../../aspose.threed.render/cubefacedata`1/top) { get; set; } | 获取或设置+Y（顶）面的数据 |
+| [Left](../../aspose.threed.render/cubefacedata`1/left) { get; set; } | 获取或设置 +X(Left) face 的数据 |
+| [NegativeX](../../aspose.threed.render/cubefacedata`1/negativex) { get; set; } | 获取或设置 +X(Left) face 的数据 |
+| [NegativeY](../../aspose.threed.render/cubefacedata`1/negativey) { get; set; } | 获取或设置 -Y(Bottom) face 的数据 |
+| [NegativeZ](../../aspose.threed.render/cubefacedata`1/negativez) { get; set; } | 获取或设置 -Z(Front) face 的数据 |
+| [PositiveX](../../aspose.threed.render/cubefacedata`1/positivex) { get; set; } | 获取或设置 +X(Right) face 的数据 |
+| [PositiveY](../../aspose.threed.render/cubefacedata`1/positivey) { get; set; } | 获取或设置 +Y(Top) face 的数据 |
+| [PositiveZ](../../aspose.threed.render/cubefacedata`1/positivez) { get; set; } | 获取或设置+Z(Back) face 的数据 |
+| [Right](../../aspose.threed.render/cubefacedata`1/right) { get; set; } | 获取或设置 +X(Right) face 的数据 |
+| [Top](../../aspose.threed.render/cubefacedata`1/top) { get; set; } | 获取或设置 +Y(Top) face 的数据 |
 
 ### 也可以看看
 

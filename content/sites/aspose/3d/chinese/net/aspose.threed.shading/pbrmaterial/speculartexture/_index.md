@@ -1,14 +1,14 @@
 ---
 title: SpecularTexture
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置镜面反射颜色的纹理
+description: 获取或设置高光颜色的纹理
 type: docs
 weight: 120
 url: /zh/net/aspose.threed.shading/pbrmaterial/speculartexture/
 ---
 ## PbrMaterial.SpecularTexture property
 
-获取或设置镜面反射颜色的纹理
+获取或设置高光颜色的纹理
 
 ```csharp
 public TextureBase SpecularTexture { get; set; }

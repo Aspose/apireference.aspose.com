@@ -1,14 +1,14 @@
 ---
 title: VertexElementSmoothingGroup
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementSmoothingGroupaspose.threed.entities/vertexelementsmoothinggroup类的新实例
+description: 初始化VertexElementSmoothingGroupaspose.threed.entities/vertexelementsmoothinggroup类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementsmoothinggroup/vertexelementsmoothinggroup/
 ---
 ## VertexElementSmoothingGroup constructor
 
-初始化[`VertexElementSmoothingGroup`](../../vertexelementsmoothinggroup)类的新实例。
+初始化[`VertexElementSmoothingGroup`](../../vertexelementsmoothinggroup)类.
 
 ```csharp
 public VertexElementSmoothingGroup()

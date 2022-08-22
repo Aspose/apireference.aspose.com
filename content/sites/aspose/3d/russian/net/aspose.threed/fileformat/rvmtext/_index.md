@@ -1,14 +1,14 @@
 ---
 title: RvmText
 second_title: Справочник по Aspose.3D для .NET API
-description: AVEVA Plant Design Management System Модель в текстовом формате
+description: Модель системы управления проектированием предприятия AVEVA в текстовом формате
 type: docs
 weight: 580
 url: /ru/net/aspose.threed/fileformat/rvmtext/
 ---
 ## FileFormat.RvmText field
 
-AVEVA Plant Design Management System Модель в текстовом формате
+Модель системы управления проектированием предприятия AVEVA в текстовом формате
 
 ```csharp
 public static readonly RvmFormat RvmText;

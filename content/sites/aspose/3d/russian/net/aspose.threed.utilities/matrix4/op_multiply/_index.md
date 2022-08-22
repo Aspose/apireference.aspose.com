@@ -16,8 +16,8 @@ public static Matrix4 operator *(Matrix4 lhs, Matrix4 rhs)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lhs | Matrix4 | Lhs. |
-| праваясторона | Matrix4 | правая сторона. |
+| lhs | Matrix4 | Лев. |
+| rhs | Matrix4 | Rhs. |
 
 ### Возвращаемое значение
 
@@ -41,8 +41,8 @@ public static Vector3 operator *(Matrix4 lhs, Vector3 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lhs | Matrix4 | Lhs. |
-| v | Vector3 | V. |
+| lhs | Matrix4 | Лев. |
+| v | Vector3 | В. |
 
 ### Возвращаемое значение
 
@@ -67,8 +67,8 @@ public static Vector4 operator *(Matrix4 lhs, Vector4 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lhs | Matrix4 | Lhs. |
-| v | Vector4 | V. |
+| lhs | Matrix4 | Лев. |
+| v | Vector4 | В. |
 
 ### Возвращаемое значение
 
@@ -85,7 +85,7 @@ public static Vector4 operator *(Matrix4 lhs, Vector4 v)
 
 ## operator * {#op_multiply_1}
 
-Умножить матрицу на двойное значение
+Умножить матрицу и удвоить значение
 
 ```csharp
 public static Matrix4 operator *(Matrix4 lhs, double v)
@@ -93,8 +93,8 @@ public static Matrix4 operator *(Matrix4 lhs, double v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lhs | Matrix4 | Lhs. |
-| v | Double | V. |
+| lhs | Matrix4 | Лев. |
+| v | Double | В. |
 
 ### Возвращаемое значение
 

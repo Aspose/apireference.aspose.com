@@ -1,14 +1,14 @@
 ---
 title: OpenEnded
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает значение указывающее закончилось ли этоCylinderaspose.threed.entities/cylinderopen. Значение по умолчанию  false.
+description: Получает или задает значение указывающее является ли этоCylinderaspose.threed.entities/cylinder open end. Значение по умолчанию  false.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.entities/cylinder/openended/
 ---
 ## Cylinder.OpenEnded property
 
-Получает или задает значение, указывающее, закончилось ли это[`Cylinder`](../../cylinder)open. Значение по умолчанию — false.
+Получает или задает значение, указывающее, является ли это[`Cylinder`](../../cylinder) open end. Значение по умолчанию — false.
 
 ```csharp
 public bool OpenEnded { get; set; }
@@ -16,7 +16,7 @@ public bool OpenEnded { get; set; }
 
 ### Стоимость имущества
 
-` true` если открыто; в противном случае существуют верхние/нижние заглушки.
+`истинный` если открытый конец; в противном случае существуют верхние/нижние заглушки.
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: LShape
 second_title: Aspose.3D for .NET API 参考
 description: 由参数定义的 IFC 兼容 L 形轮廓
 type: docs
-weight: 1570
+weight: 1580
 url: /zh/net/aspose.threed.profiles/lshape/
 ---
 ## LShape class
@@ -18,35 +18,35 @@ public class LShape : ParameterizedProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LShape](lshape)() | [`LShape`](../lshape) |
+| [LShape](lshape)() | 的构造函数[`LShape`](../lshape) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Depth](../../aspose.threed.profiles/lshape/depth) { get; set; } | 获取或设置轮廓的深度。 |
+| [Depth](../../aspose.threed.profiles/lshape/depth) { get; set; } | 获取或设置剖面的深度。 |
 | [EdgeRadius](../../aspose.threed.profiles/lshape/edgeradius) { get; set; } | 获取或设置边的半径。 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | [FilletRadius](../../aspose.threed.profiles/lshape/filletradius) { get; set; } | 获取或设置圆角的半径。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
 | [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | 获取所有父节点，一个实体可以附加到多个父节点进行几何实例化 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | 获取该对象所属的场景 |
-| [Thickness](../../aspose.threed.profiles/lshape/thickness) { get; set; } | 获取或设置恒定墙的厚度。 |
+| [Thickness](../../aspose.threed.profiles/lshape/thickness) { get; set; } | 获取或设置恒定壁的厚度。 |
 | [Width](../../aspose.threed.profiles/lshape/width) { get; set; } | 获取或设置轮廓的宽度。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | override [GetExtent](../../aspose.threed.profiles/lshape/getextent)() | 获取 x 和 y 维度的范围。 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

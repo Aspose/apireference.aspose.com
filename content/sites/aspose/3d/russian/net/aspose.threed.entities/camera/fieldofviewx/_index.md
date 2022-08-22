@@ -1,14 +1,14 @@
 ---
 title: FieldOfViewX
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает горизонтальное поле зрения камеры в градусах это свойство используется только когда ApertureMode имеет значениеHorizAndVert
+description: Получает или задает горизонтальное поле зрения камеры в градусах. Это свойство используется только в том случае если установлен режим ApertureMode.HorizAndVert
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.entities/camera/fieldofviewx/
 ---
 ## Camera.FieldOfViewX property
 
-Получает или задает горизонтальное поле зрения камеры в градусах, это свойство используется, только когда ApertureMode имеет значениеHorizAndVert
+Получает или задает горизонтальное поле зрения камеры в градусах. Это свойство используется только в том случае, если установлен режим ApertureMode.HorizAndVert
 
 ```csharp
 public double FieldOfViewX { get; set; }

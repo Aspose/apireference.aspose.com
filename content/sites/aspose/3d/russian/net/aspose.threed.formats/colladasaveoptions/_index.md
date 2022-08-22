@@ -1,14 +1,14 @@
 ---
 title: ColladaSaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Сохранить параметры для коллады
+description: Сохранить параметры для collada
 type: docs
 weight: 1040
 url: /ru/net/aspose.threed.formats/colladasaveoptions/
 ---
 ## ColladaSaveOptions class
 
-Сохранить параметры для коллады
+Сохранить параметры для collada
 
 ```csharp
 public class ColladaSaveOptions : SaveOptions

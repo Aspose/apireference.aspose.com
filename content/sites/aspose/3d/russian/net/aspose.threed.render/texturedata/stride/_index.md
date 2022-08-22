@@ -1,14 +1,14 @@
 ---
 title: Stride
 second_title: Справочник по Aspose.3D для .NET API
-description: Количество байт строки сканирования.
+description: Количество байтов строки сканирования.
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.render/texturedata/stride/
 ---
 ## TextureData.Stride property
 
-Количество байт строки сканирования.
+Количество байтов строки сканирования.
 
 ```csharp
 public int Stride { get; }

@@ -29,7 +29,7 @@ public static Matrix4 RotateFromEuler(Vector3 eul)
 
 ## RotateFromEuler(double, double, double) {#rotatefromeuler_1}
 
-Создайте матрицу вращения из угла Эйлера
+Создать матрицу вращения из угла Эйлера
 
 ```csharp
 public static Matrix4 RotateFromEuler(double rx, double ry, double rz)
@@ -37,9 +37,9 @@ public static Matrix4 RotateFromEuler(double rx, double ry, double rz)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rx | Double | Вращение по x оси в радианах |
+| rx | Double | Вращение по оси x в радианах |
 | ry | Double | Вращение по оси Y в радианах |
-| rz | Double | Вращение по оси Z в радиан |
+| rz | Double | Вращение по оси Z в радианах |
 
 ### Смотрите также
 

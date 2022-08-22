@@ -1,14 +1,14 @@
 ---
 title: LinearExtrusion
 second_title: Aspose.3D for .NET API 参考
-description: 线性挤压将 2D 形状作为输入并在 3rd 维度上扩展该形状
+description: 线性挤压将 2D 形状作为输入并在第 3 维中扩展形状
 type: docs
 weight: 430
 url: /zh/net/aspose.threed.entities/linearextrusion/
 ---
 ## LinearExtrusion class
 
-线性挤压将 2D 形状作为输入，并在 3rd 维度上扩展该形状。
+线性挤压将 2D 形状作为输入，并在第 3 维中扩展形状。
 
 ```csharp
 public class LinearExtrusion : Entity, IMeshConvertible
@@ -18,16 +18,16 @@ public class LinearExtrusion : Entity, IMeshConvertible
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LinearExtrusion](linearextrusion#constructor)() | 实例构造函数[`LinearExtrusion`](../linearextrusion)。 |
-| [LinearExtrusion](linearextrusion#constructor_1)(Profile, double) | 实例构造函数[`LinearExtrusion`](../linearextrusion)。 |
+| [LinearExtrusion](linearextrusion#constructor)() | 实例的构造函数[`LinearExtrusion`](../linearextrusion). |
+| [LinearExtrusion](linearextrusion#constructor_1)(Profile, double) | 实例的构造函数[`LinearExtrusion`](../linearextrusion). |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Center](../../aspose.threed.entities/linearextrusion/center) { get; set; } | 如果该值为false，则线性拉伸Z范围是从0到height，否则范围是从-height/2到height/2。 |
-| [Direction](../../aspose.threed.entities/linearextrusion/direction) { get; set; } | 挤压方向，默认值为 (0, 0, 1) |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [Center](../../aspose.threed.entities/linearextrusion/center) { get; set; } | 如果该值为false，则线性拉伸Z的范围是从0到height，否则范围是从-height/2到height/2。 |
+| [Direction](../../aspose.threed.entities/linearextrusion/direction) { get; set; } | 挤压方向，默认值为(0, 0, 1) |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | [Height](../../aspose.threed.entities/linearextrusion/height) { get; set; } | 拉伸几何体的高度，默认值为 1.0 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
@@ -35,20 +35,20 @@ public class LinearExtrusion : Entity, IMeshConvertible
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | 获取该对象所属的场景 |
 | [Shape](../../aspose.threed.entities/linearextrusion/shape) { get; set; } | 要挤出的基本形状。 |
-| [Slices](../../aspose.threed.entities/linearextrusion/slices) { get; set; } | 扭曲拉伸几何体的切片，默认值为 1。 |
+| [Slices](../../aspose.threed.entities/linearextrusion/slices) { get; set; } | 扭曲拉伸几何体的切片，默认值为 1. |
 | [Twist](../../aspose.threed.entities/linearextrusion/twist) { get; set; } | 形状被挤出的度数。 |
-| [TwistOffset](../../aspose.threed.entities/linearextrusion/twistoffset) { get; set; } | 扭曲时使用的偏移量，默认值为 (0, 0, 0)。 |
+| [TwistOffset](../../aspose.threed.entities/linearextrusion/twistoffset) { get; set; } | 加捻时使用的偏移量，默认值为(0, 0, 0)。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 | [ToMesh](../../aspose.threed.entities/linearextrusion/tomesh)() | 将拉伸转换为网格。 |
 

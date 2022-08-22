@@ -1,14 +1,14 @@
 ---
 title: Cylinder
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Cylinderaspose.threed.entities/cylinder类的新实例
+description: 初始化Cylinderaspose.threed.entities/cylinder类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/cylinder/cylinder/
 ---
 ## Cylinder() {#constructor}
 
-初始化[`Cylinder`](../../cylinder)类的新实例。
+初始化[`Cylinder`](../../cylinder)类.
 
 ```csharp
 public Cylinder()
@@ -24,7 +24,7 @@ public Cylinder()
 
 ## Cylinder(double, double) {#constructor_1}
 
-初始化[`Cylinder`](../../cylinder)类的新实例。
+初始化[`Cylinder`](../../cylinder)类.
 
 ```csharp
 public Cylinder(double radius, double height)
@@ -45,7 +45,7 @@ public Cylinder(double radius, double height)
 
 ## Cylinder(double, double, double) {#constructor_2}
 
-初始化[`Cylinder`](../../cylinder)类的新实例。
+初始化[`Cylinder`](../../cylinder)类.
 
 ```csharp
 public Cylinder(double radiusTop, double radiusBottom, double height)
@@ -67,7 +67,7 @@ public Cylinder(double radiusTop, double radiusBottom, double height)
 
 ## Cylinder(double, double, double, int, int, bool) {#constructor_3}
 
-初始化[`Cylinder`](../../cylinder)类的新实例。
+初始化[`Cylinder`](../../cylinder)类.
 
 ```csharp
 public Cylinder(double radiusTop, double radiusBottom, double height, int radialSegments, 
@@ -76,12 +76,12 @@ public Cylinder(double radiusTop, double radiusBottom, double height, int radial
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| radiusTop | Double | 圆柱顶盖的半径。 |
+| radiusTop | Double | 气缸顶盖的半径。 |
 | radiusBottom | Double | 圆柱底盖的半径。 |
 | height | Double | 圆柱体的高度。 |
 | radialSegments | Int32 | 顶部和底部圆的径向段.. |
 | heightSegments | Int32 | 高度段。 |
-| openEnded | Boolean | 如果设置为` true` 气缸将没有底盖/顶盖.. |
+| openEnded | Boolean | 如果设置为`真的`气缸将没有底盖/顶盖.. |
 
 ### 也可以看看
 
@@ -93,7 +93,7 @@ public Cylinder(double radiusTop, double radiusBottom, double height, int radial
 
 ## Cylinder(string, double, double, double, int, int, bool, double, double) {#constructor_4}
 
-初始化[`Cylinder`](../../cylinder)类的新实例。
+初始化[`Cylinder`](../../cylinder)类.
 
 ```csharp
 public Cylinder(string name, double radiusTop, double radiusBottom, double height, 
@@ -103,14 +103,14 @@ public Cylinder(string name, double radiusTop, double radiusBottom, double heigh
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 此对象的名称 |
-| radiusTop | Double | 半径气缸的顶盖。 |
+| radiusTop | Double | 气缸顶盖的半径。 |
 | radiusBottom | Double | 圆柱底盖的半径。 |
 | height | Double | 圆柱体的高度。 |
 | radialSegments | Int32 | 顶部和底部圆的径向段.. |
 | heightSegments | Int32 | 高度段。 |
-| openEnded | Boolean | 如果设置为` true` 气缸将没有底盖/顶盖.. |
-| thetaStart | Double | Theta 开始。 |
-| thetaLength | Double | Theta 长度。 |
+| openEnded | Boolean | 如果设置为`真的`气缸将没有底盖/顶盖.. |
+| thetaStart | Double | 西塔开始。 |
+| thetaLength | Double | θ长度。 |
 
 ### 也可以看看
 

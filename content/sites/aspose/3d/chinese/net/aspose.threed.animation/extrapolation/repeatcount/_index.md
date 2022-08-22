@@ -16,7 +16,7 @@ public int RepeatCount { get; set; }
 
 ### 适当的价值
 
-计数。
+伯爵。
 
 ### 也可以看看
 

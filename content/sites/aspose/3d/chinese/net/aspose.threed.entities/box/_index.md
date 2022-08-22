@@ -1,14 +1,14 @@
 ---
 title: Box
 second_title: Aspose.3D for .NET API 参考
-description: 框
+description: 盒子.
 type: docs
 weight: 240
 url: /zh/net/aspose.threed.entities/box/
 ---
 ## Box class
 
-框。
+盒子.
 
 ```csharp
 public class Box : Primitive
@@ -18,19 +18,19 @@ public class Box : Primitive
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Box](box#constructor)() | 初始化[`Box`](../box)类的新实例。 |
-| [Box](box#constructor_1)(double, double, double) | 初始化[`Box`](../box)类的新实例。 |
-| [Box](box#constructor_2)(string, double, double, double, int, int, int) | 初始化[`Box`](../box)类的新实例。 |
+| [Box](box#constructor)() | 初始化[`Box`](../box)类. |
+| [Box](box#constructor_1)(double, double, double) | 初始化[`Box`](../box)类. |
+| [Box](box#constructor_2)(string, double, double, double, int, int, int) | 初始化[`Box`](../box)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | 获取或设置此几何是否可以投射阴影 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
-| [Height](../../aspose.threed.entities/box/height) { get; set; } | 获取或设置在 y 轴对齐的框的高度。 |
+| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | 获取或设置此几何体是否可以投射阴影 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
+| [Height](../../aspose.threed.entities/box/height) { get; set; } | 获取或设置在y轴对齐的盒子的高度。 |
 | [HeightSegments](../../aspose.threed.entities/box/heightsegments) { get; set; } | 获取或设置高度段。 |
-| [Length](../../aspose.threed.entities/box/length) { get; set; } | 获取或设置在 z 轴对齐的框的长度。 |
+| [Length](../../aspose.threed.entities/box/length) { get; set; } | 获取或设置在z轴对齐的盒子的长度。 |
 | [LengthSegments](../../aspose.threed.entities/box/lengthsegments) { get; set; } | 获取或设置长度段。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
@@ -45,12 +45,12 @@ public class Box : Primitive
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 | override [ToMesh](../../aspose.threed.entities/box/tomesh)() | 将当前对象转换为网格 |
 

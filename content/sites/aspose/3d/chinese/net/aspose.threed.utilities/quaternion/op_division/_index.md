@@ -1,14 +1,14 @@
 ---
 title: op_Division
 second_title: Aspose.3D for .NET API 参考
-description: 运算符重载 /
+description: / 的运算符重载
 type: docs
 weight: 240
 url: /zh/net/aspose.threed.utilities/quaternion/op_division/
 ---
 ## Quaternion Division operator
 
-运算符重载 /
+/ 的运算符重载
 
 ```csharp
 public static Quaternion operator /(Quaternion lhs, double rhs)

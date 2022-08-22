@@ -1,14 +1,14 @@
 ---
 title: AnimationNode
 second_title: Aspose.3D for .NET API 参考
-description: 初始化AnimationNodeaspose.threed.animation/animationnode类的新实例
+description: 初始化AnimationNodeaspose.threed.animation/animationnode类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.animation/animationnode/animationnode/
 ---
 ## AnimationNode(string) {#constructor_1}
 
-初始化[`AnimationNode`](../../animationnode)类的新实例。
+初始化[`AnimationNode`](../../animationnode)类.
 
 ```csharp
 public AnimationNode(string name)
@@ -16,7 +16,7 @@ public AnimationNode(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public AnimationNode(string name)
 
 ## AnimationNode() {#constructor}
 
-初始化[`AnimationNode`](../../animationnode)类的新实例。
+初始化[`AnimationNode`](../../animationnode)类.
 
 ```csharp
 public AnimationNode()

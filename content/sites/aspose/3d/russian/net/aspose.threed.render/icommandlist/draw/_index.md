@@ -1,14 +1,14 @@
 ---
 title: Draw
 second_title: Справочник по Aspose.3D для .NET API
-description: Рисование без индексного буфера
+description: Рисовать без индексного буфера
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.render/icommandlist/draw/
 ---
 ## Draw(int, int) {#draw_1}
 
-Рисование без индексного буфера
+Рисовать без индексного буфера
 
 ```csharp
 public void Draw(int start, int count)
@@ -17,7 +17,7 @@ public void Draw(int start, int count)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | start | Int32 |  |
-| счетчик | Int32 |  |
+| count | Int32 |  |
 
 ### Смотрите также
 

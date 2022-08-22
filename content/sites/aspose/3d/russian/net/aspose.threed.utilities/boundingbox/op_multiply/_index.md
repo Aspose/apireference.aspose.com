@@ -1,14 +1,14 @@
 ---
 title: op_Multiply
 second_title: Справочник по Aspose.3D для .NET API
-description: Перегрузка оператора для умножения
+description: Перегрузка оператора для Multiple
 type: docs
 weight: 130
 url: /ru/net/aspose.threed.utilities/boundingbox/op_multiply/
 ---
 ## BoundingBox Multiply operator
 
-Перегрузка оператора для умножения
+Перегрузка оператора для Multiple
 
 ```csharp
 public static BoundingBox operator *(BoundingBox bbox, Matrix4 mat)

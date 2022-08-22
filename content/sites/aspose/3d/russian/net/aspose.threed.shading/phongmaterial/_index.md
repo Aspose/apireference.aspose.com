@@ -1,14 +1,14 @@
 ---
 title: PhongMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Материал для модели затенения blinn-phong.
+description: Материал для модели затенения по БлиннуФонгу.
 type: docs
-weight: 2310
+weight: 2320
 url: /ru/net/aspose.threed.shading/phongmaterial/
 ---
 ## PhongMaterial class
 
-Материал для модели затенения blinn-phong.
+Материал для модели затенения по Блинну-Фонгу.
 
 ```csharp
 public class PhongMaterial : LambertMaterial
@@ -18,24 +18,24 @@ public class PhongMaterial : LambertMaterial
 
 | Имя | Описание |
 | --- | --- |
-| [PhongMaterial](phongmaterial#constructor)() | Инициализирует новый экземпляр класса[`PhongMaterial`](../phongmaterial). |
-| [PhongMaterial](phongmaterial#constructor_1)(string) | Инициализирует новый экземпляр класса[`PhongMaterial`](../phongmaterial). |
+| [PhongMaterial](phongmaterial#constructor)() | Инициализирует новый экземпляр[`PhongMaterial`](../phongmaterial) класс. |
+| [PhongMaterial](phongmaterial#constructor_1)(string) | Инициализирует новый экземпляр[`PhongMaterial`](../phongmaterial) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AmbientColor](../../aspose.threed.shading/lambertmaterial/ambientcolor) { get; set; } | Получает или устанавливает цвет фона |
-| [DiffuseColor](../../aspose.threed.shading/lambertmaterial/diffusecolor) { get; set; } | Получает или устанавливает диффузный цвет |
-| [EmissiveColor](../../aspose.threed.shading/lambertmaterial/emissivecolor) { get; set; } | Получает или задает цвет излучения |
+| [AmbientColor](../../aspose.threed.shading/lambertmaterial/ambientcolor) { get; set; } | Получает или задает окружающий цвет |
+| [DiffuseColor](../../aspose.threed.shading/lambertmaterial/diffusecolor) { get; set; } | Получает или задает диффузный цвет |
+| [EmissiveColor](../../aspose.threed.shading/lambertmaterial/emissivecolor) { get; set; } | Получает или задает излучающий цвет |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [ReflectionColor](../../aspose.threed.shading/phongmaterial/reflectioncolor) { get; set; } | Получает или задает цвет отражения. |
 | [ReflectionFactor](../../aspose.threed.shading/phongmaterial/reflectionfactor) { get; set; } | Получает или задает затухание цвета отражения. |
-| [Shininess](../../aspose.threed.shading/phongmaterial/shininess) { get; set; } | Получает или устанавливает блеск, управляет размером зеркального блика. Формула отражения: SpecularColor * SpecularFactor * (N dot H) ^ Блеск |
+| [Shininess](../../aspose.threed.shading/phongmaterial/shininess) { get; set; } | Получает или устанавливает блеск, это управляет размером зеркального блика. Формула отражения: SpecularColor * SpecularFactor * (N точка H) ^ Shininess |
 | [SpecularColor](../../aspose.threed.shading/phongmaterial/specularcolor) { get; set; } | Получает или задает цвет отражения. |
-| [SpecularFactor](../../aspose.threed.shading/phongmaterial/specularfactor) { get; set; } | Получает или задает коэффициент отражения. Формула отражения: SpecularColor * SpecularFactor * (N dot H) ^ Блеск |
-| [Transparency](../../aspose.threed.shading/lambertmaterial/transparency) { get; set; } | Получает или задает коэффициент прозрачности. Коэффициент должен находиться в диапазоне от 0 (0%, полностью непрозрачный) до 1 (100%, полностью прозрачный) Любое недопустимое значение коэффициента будет зафиксировано. |
+| [SpecularFactor](../../aspose.threed.shading/phongmaterial/specularfactor) { get; set; } | Получает или задает коэффициент отражения. Формула отражения: SpecularColor * SpecularFactor * (N dot H) ^ Shininess |
+| [Transparency](../../aspose.threed.shading/lambertmaterial/transparency) { get; set; } | Получает или устанавливает коэффициент прозрачности. Коэффициент должен находиться в диапазоне от 0 (0%, полностью непрозрачный) до 1 (100%, полностью прозрачный) Любое недопустимое значение коэффициента будет зафиксировано. |
 | [TransparentColor](../../aspose.threed.shading/lambertmaterial/transparentcolor) { get; set; } | Получает или задает прозрачный цвет. |
 
 ## Методы
@@ -43,14 +43,14 @@ public class PhongMaterial : LambertMaterial
 | Имя | Описание |
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
-| [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Получает перечислитель для перечисления внутренних слотов текстуры. |
+| [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Получает перечислитель для перечисления внутренних слотов текстур. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | Получает текстуру из указанного слота, это может быть имя свойства материала или имя параметра шейдера |
+| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | Получает текстуру из указанного слота, это может быть имя свойства материала или параметр шейдера name |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 | [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | Устанавливает текстуру в указанный слот |
-| override [ToString](../../aspose.threed.shading/material/tostring)() | Форматирует объект в строку |
+| override [ToString](../../aspose.threed.shading/material/tostring)() | Форматирует объект в string |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: Vector3
 second_title: Aspose.3D for .NET API 参考
 description: 具有三个分量的向量
 type: docs
-weight: 2650
+weight: 2640
 url: /zh/net/aspose.threed.utilities/vector3/
 ---
 ## Vector3 structure
@@ -18,11 +18,11 @@ public struct Vector3 : IComparable<Vector3>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Vector3](vector3#constructor_4)(Color) | 初始化[`Vector3`](../vector3)结构的新实例。 |
-| [Vector3](vector3#constructor_2)(double) | 初始化[`Vector3`](../vector3)结构的新实例。 |
-| [Vector3](vector3#constructor)(FVector3) | 初始化[`Vector3`](../vector3)结构的新实例。 |
-| [Vector3](vector3#constructor_1)(Vector4) | 初始化[`Vector3`](../vector3)结构的新实例。 |
-| [Vector3](vector3#constructor_3)(double, double, double) | 初始化[`Vector3`](../vector3)结构的新实例。 |
+| [Vector3](vector3#constructor_4)(Color) | 初始化[`Vector3`](../vector3) struct. |
+| [Vector3](vector3#constructor_2)(double) | 初始化[`Vector3`](../vector3) struct. |
+| [Vector3](vector3#constructor)(FVector3) | 初始化[`Vector3`](../vector3) struct. |
+| [Vector3](vector3#constructor_1)(Vector4) | 初始化[`Vector3`](../vector3) struct. |
+| [Vector3](vector3#constructor_3)(double, double, double) | 初始化[`Vector3`](../vector3) struct. |
 
 ## 特性
 
@@ -41,19 +41,19 @@ public struct Vector3 : IComparable<Vector3>
 | [Cos](../../aspose.threed.utilities/vector3/cos)() | 计算每个分量的余弦 |
 | [Cross](../../aspose.threed.utilities/vector3/cross)(Vector3) | 两个向量的叉积 |
 | [Dot](../../aspose.threed.utilities/vector3/dot)(Vector3) | 获取两个向量的点积 |
-| override [Equals](../../aspose.threed.utilities/vector3/equals)(object) | 检查两个vector3是否相等 |
+| override [Equals](../../aspose.threed.utilities/vector3/equals)(object) | 检查两个vector3是否等于 |
 | override [GetHashCode](../../aspose.threed.utilities/vector3/gethashcode)() | 获取 Vector3 的哈希码 |
 | [Normalize](../../aspose.threed.utilities/vector3/normalize)() | 规范化这个实例。 |
-| [Set](../../aspose.threed.utilities/vector3/set)(double, double, double) | 在一次调用中设置 x/y/z 组件。 |
-| [Sin](../../aspose.threed.utilities/vector3/sin)() | 计算每个分量的正弦 |
-| override [ToString](../../aspose.threed.utilities/vector3/tostring)() | 返回代表当前[`Vector3`](../vector3)的String. |
-| [operator +](../../aspose.threed.utilities/vector3/op_addition) | 运算符重载 for + |
-| [operator /](../../aspose.threed.utilities/vector3/op_division) | 运算符重载 for / |
-| [operator ==](../../aspose.threed.utilities/vector3/op_equality) | Vector3 的相等运算符 |
+| [Set](../../aspose.threed.utilities/vector3/set)(double, double, double) | 在一次调用中设置 x/y/z 分量。 |
+| [Sin](../../aspose.threed.utilities/vector3/sin)() | 计算每个分量的正弦值 |
+| override [ToString](../../aspose.threed.utilities/vector3/tostring)() | 返回一个String代表当前[`Vector3`](../vector3). |
+| [operator +](../../aspose.threed.utilities/vector3/op_addition) | + 的运算符重载 |
+| [operator /](../../aspose.threed.utilities/vector3/op_division) | / 的运算符重载 |
+| [operator ==](../../aspose.threed.utilities/vector3/op_equality) | Vector3 的等号运算符 |
 | [explicit operator](../../aspose.threed.utilities/vector3/op_explicit) |  |
 | [operator !=](../../aspose.threed.utilities/vector3/op_inequality) | Vector3 的不等号运算符 |
-| [operator *](../../aspose.threed.utilities/vector3/op_multiply#op_multiply) | 运算符重载 * (3 operators) |
-| [operator -](../../aspose.threed.utilities/vector3/op_subtraction) | 运算符重载 - (2 operators) |
+| [operator *](../../aspose.threed.utilities/vector3/op_multiply#op_multiply) | * 的运算符重载 (3 operators) |
+| [operator -](../../aspose.threed.utilities/vector3/op_subtraction) | - 的运算符重载 (2 operators) |
 
 ## 字段
 
@@ -64,7 +64,7 @@ public struct Vector3 : IComparable<Vector3>
 | static readonly [XAxis](../../aspose.threed.utilities/vector3/xaxis) | 获取 X 轴。 |
 | static readonly [YAxis](../../aspose.threed.utilities/vector3/yaxis) | 获取 Y 轴。 |
 | static readonly [ZAxis](../../aspose.threed.utilities/vector3/zaxis) | 获取 Z 轴。 |
-| [x](../../aspose.threed.utilities/vector3/x) | x 组件。 |
+| [x](../../aspose.threed.utilities/vector3/x) | x 分量。 |
 | [y](../../aspose.threed.utilities/vector3/y) | y 分量。 |
 | [z](../../aspose.threed.utilities/vector3/z) | z 分量。 |
 

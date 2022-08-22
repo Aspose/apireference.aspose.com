@@ -1,14 +1,14 @@
 ---
 title: Draw
 second_title: Aspose.3D for .NET API 参考
-description: 无索引缓冲区绘制
+description: 绘制没有索引缓冲区
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.render/icommandlist/draw/
 ---
 ## Draw(int, int) {#draw_1}
 
-无索引缓冲区绘制
+绘制没有索引缓冲区
 
 ```csharp
 public void Draw(int start, int count)
@@ -29,7 +29,7 @@ public void Draw(int start, int count)
 
 ## Draw() {#draw}
 
-不使用索引缓冲区进行绘制
+绘制没有索引缓冲区
 
 ```csharp
 public void Draw()

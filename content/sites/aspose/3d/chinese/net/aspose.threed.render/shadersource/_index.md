@@ -1,14 +1,14 @@
 ---
 title: ShaderSource
 second_title: Aspose.3D for .NET API 参考
-description: 着色器源代码
+description: shader 的源代码
 type: docs
-weight: 2150
+weight: 2160
 url: /zh/net/aspose.threed.render/shadersource/
 ---
 ## ShaderSource class
 
-着色器源代码
+shader 的源代码
 
 ```csharp
 public abstract class ShaderSource

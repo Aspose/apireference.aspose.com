@@ -16,7 +16,7 @@ public double ReflectionFactor { get; set; }
 
 ### 适当的价值
 
-反射因子。
+反射系数。
 
 ### 也可以看看
 

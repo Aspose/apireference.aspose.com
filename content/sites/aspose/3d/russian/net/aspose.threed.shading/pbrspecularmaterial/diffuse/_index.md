@@ -8,7 +8,7 @@ url: /ru/net/aspose.threed.shading/pbrspecularmaterial/diffuse/
 ---
 ## PbrSpecularMaterial.Diffuse property
 
-Получает или задает диффузный цвет материала, значение по умолчанию (1, 1, 1)
+Получает или задает диффузный цвет материала, значение по умолчанию: (1, 1, 1)
 
 ```csharp
 public Vector3 Diffuse { get; set; }

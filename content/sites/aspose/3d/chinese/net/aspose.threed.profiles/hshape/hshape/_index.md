@@ -1,14 +1,14 @@
 ---
 title: HShape
 second_title: Aspose.3D for .NET API 参考
-description: HShapeaspose.threed.profiles/hshape
+description: 的构造函数HShapeaspose.threed.profiles/hshape
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/hshape/hshape/
 ---
 ## HShape constructor
 
-[`HShape`](../../hshape)
+的构造函数[`HShape`](../../hshape)
 
 ```csharp
 public HShape()

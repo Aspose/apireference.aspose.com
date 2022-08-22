@@ -1,7 +1,7 @@
 ---
 title: SPIRVSource
 second_title: Aspose.3D for .NET API 参考
-description: 基于 SPIR-V 的着色器源的构造函数
+description: 基于 SPIRV 的着色器源的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/spirvsource/spirvsource/

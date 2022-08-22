@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置灯光颜色
+description: 获取或设置灯光的颜色
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/light/color/
 ---
 ## Light.Color property
 
-获取或设置灯光颜色
+获取或设置灯光的颜色
 
 ```csharp
 public Vector3 Color { get; set; }

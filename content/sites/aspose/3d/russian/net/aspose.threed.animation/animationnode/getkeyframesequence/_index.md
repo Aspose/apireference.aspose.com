@@ -1,14 +1,14 @@
 ---
 title: GetKeyframeSequence
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает последовательность ключевых кадров для данного свойства и канала.
+description: Получает последовательность ключевых кадров для заданного свойства и канала.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.animation/animationnode/getkeyframesequence/
 ---
 ## GetKeyframeSequence(A3DObject, string, string, bool) {#getkeyframesequence_1}
 
-Получает последовательность ключевых кадров для данного свойства и канала.
+Получает последовательность ключевых кадров для заданного свойства и канала.
 
 ```csharp
 public KeyframeSequence GetKeyframeSequence(A3DObject target, string propName, string channelName, 
@@ -18,9 +18,9 @@ public KeyframeSequence GetKeyframeSequence(A3DObject target, string propName, s
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | target | A3DObject | На каком экземпляре создать последовательность ключевых кадров. |
-| propName | String | Имя свойства. |
-| channelName | String | Имя канала. |
-| create | Boolean | Если установлено` true` создать последовательность анимации, если она не существует. |
+| propName | String | Название свойства. |
+| channelName | String | Название канала. |
+| create | Boolean | Если установлено`истинный` создать последовательность анимации, если она не существует. |
 
 ### Возвращаемое значение
 
@@ -47,8 +47,8 @@ public KeyframeSequence GetKeyframeSequence(A3DObject target, string propName, b
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | target | A3DObject | На каком экземпляре создать последовательность ключевых кадров. |
-| propName | String | Имя свойства. |
-| create | Boolean | Если установлено значение` true` , создайте последовательность, если она не существует. |
+| propName | String | Название свойства. |
+| create | Boolean | Если установлено`истинный`, создайте последовательность, если она не существует. |
 
 ### Возвращаемое значение
 

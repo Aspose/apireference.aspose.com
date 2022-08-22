@@ -1,14 +1,14 @@
 ---
 title: LoadData
 second_title: Aspose.3D for .NET API 参考
-description: 从TriMeshaspose.threed.entities/trimesh
+description: 加载索引数据TriMeshaspose.threed.entities/trimesh
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.render/iindexbuffer/loaddata/
 ---
 ## LoadData(TriMesh) {#loaddata}
 
-从[`TriMesh`](../../../aspose.threed.entities/trimesh)
+加载索引数据[`TriMesh`](../../../aspose.threed.entities/trimesh)
 
 ```csharp
 public void LoadData(TriMesh mesh)
@@ -16,7 +16,7 @@ public void LoadData(TriMesh mesh)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| mesh加载索引数据 | TriMesh |  |
+| mesh | TriMesh |  |
 
 ### 也可以看看
 

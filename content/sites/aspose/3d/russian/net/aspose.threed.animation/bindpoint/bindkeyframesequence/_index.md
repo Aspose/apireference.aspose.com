@@ -16,7 +16,7 @@ public void BindKeyframeSequence(string channelName, KeyframeSequence sequence)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| channelName | String | Какой канал последовательность ключевых кадров будет привязана к |
+| channelName | String | К какому каналу будет привязана последовательность ключевых кадров |
 | sequence | KeyframeSequence | Последовательность ключевых кадров для привязки |
 
 ### Смотрите также

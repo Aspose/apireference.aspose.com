@@ -1,14 +1,14 @@
 ---
 title: ObjSaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Параметры сохранения для файла obj wavefront
+description: Параметры сохранения для файла obj волнового фронта
 type: docs
 weight: 1220
 url: /ru/net/aspose.threed.formats/objsaveoptions/
 ---
 ## ObjSaveOptions class
 
-Параметры сохранения для файла obj wavefront
+Параметры сохранения для файла obj волнового фронта
 
 ```csharp
 public class ObjSaveOptions : SaveOptions
@@ -24,16 +24,16 @@ public class ObjSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [EnableMaterials](../../aspose.threed.formats/objsaveoptions/enablematerials) { get; set; } | Получает или устанавливает, импортировать/экспортировать ли материалы для каждого объекта |
+| [EnableMaterials](../../aspose.threed.formats/objsaveoptions/enablematerials) { get; set; } | Получает или задает, импортировать/экспортировать ли материалы для каждого object |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [FlipCoordinateSystem](../../aspose.threed.formats/objsaveoptions/flipcoordinatesystem) { get; set; } | Получает или задает, переворачивать ли систему координат контрольных точек/нормально при импорте/экспорте. |
+| [FlipCoordinateSystem](../../aspose.threed.formats/objsaveoptions/flipcoordinatesystem) { get; set; } | Получает или задает, следует ли переворачивать систему координат контрольных точек/нормалей при импорте/экспорте. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
-| [PointCloud](../../aspose.threed.formats/objsaveoptions/pointcloud) { get; set; } | Возвращает или устанавливает флаг, должен ли экспортер экспортировать сцену как облако точек (без топологической структуры), значение по умолчанию - false |
-| [SerializeW](../../aspose.threed.formats/objsaveoptions/serializew) { get; set; } | Получает или задает, сериализовать ли компонент W в позиции вершины модели. |
-| [Verbose](../../aspose.threed.formats/objsaveoptions/verbose) { get; set; } | Получает или задает, генерировать ли комментарии для каждого раздела |
+| [PointCloud](../../aspose.threed.formats/objsaveoptions/pointcloud) { get; set; } | Получает или устанавливает флаг, должен ли экспортер экспортировать сцену как облако точек (без топологической структуры), значение по умолчанию — false |
+| [SerializeW](../../aspose.threed.formats/objsaveoptions/serializew) { get; set; } | Получает или задает, следует ли сериализовать компонент W в позиции вершины модели. |
+| [Verbose](../../aspose.threed.formats/objsaveoptions/verbose) { get; set; } | Получает или задает, генерировать ли комментарии для каждого section |
 
 ### Смотрите также
 

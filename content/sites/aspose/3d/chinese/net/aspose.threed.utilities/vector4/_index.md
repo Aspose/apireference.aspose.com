@@ -3,7 +3,7 @@ title: Vector4
 second_title: Aspose.3D for .NET API 参考
 description: 具有四个分量的向量
 type: docs
-weight: 2660
+weight: 2650
 url: /zh/net/aspose.threed.utilities/vector4/
 ---
 ## Vector4 structure
@@ -18,12 +18,12 @@ public struct Vector4 : IComparable<Vector4>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Vector4](vector4#constructor_5)(Color) | 初始化[`Vector4`](../vector4)结构的新实例。 |
-| [Vector4](vector4#constructor)(FVector4) | 初始化[`Vector4`](../vector4)结构的新实例。 |
-| [Vector4](vector4#constructor_1)(Vector3) | 初始化[`Vector4`](../vector4)结构的新实例。 |
-| [Vector4](vector4#constructor_2)(Vector3, double) | 初始化[`Vector4`](../vector4)结构的新实例。 |
-| [Vector4](vector4#constructor_3)(double, double, double) | 初始化[`Vector4`](../vector4)结构的新实例。 |
-| [Vector4](vector4#constructor_4)(double, double, double, double) | 初始化[`Vector4`](../vector4)结构的新实例。 |
+| [Vector4](vector4#constructor_5)(Color) | 初始化[`Vector4`](../vector4) struct. |
+| [Vector4](vector4#constructor)(FVector4) | 初始化[`Vector4`](../vector4) struct. |
+| [Vector4](vector4#constructor_1)(Vector3) | 初始化[`Vector4`](../vector4) struct. |
+| [Vector4](vector4#constructor_2)(Vector3, double) | 初始化[`Vector4`](../vector4) struct. |
+| [Vector4](vector4#constructor_3)(double, double, double) | 初始化[`Vector4`](../vector4) struct. |
+| [Vector4](vector4#constructor_4)(double, double, double, double) | 初始化[`Vector4`](../vector4) struct. |
 
 ## 方法
 
@@ -33,19 +33,19 @@ public struct Vector4 : IComparable<Vector4>
 | override [Equals](../../aspose.threed.utilities/vector4/equals)(object) | 检查两个向量是否相等 |
 | override [GetHashCode](../../aspose.threed.utilities/vector4/gethashcode)() | 获取此向量的哈希码 |
 | [Set](../../aspose.threed.utilities/vector4/set#set)(double, double, double) | 一次设置向量的 xyz 分量，w 将设置为 1 |
-| [Set](../../aspose.threed.utilities/vector4/set#set_1)(double, double, double, double) | 一次设置向量的所有组件 |
-| override [ToString](../../aspose.threed.utilities/vector4/tostring)() | 返回代表当前[`Vector4`](../vector4)的String. |
-| [operator +](../../aspose.threed.utilities/vector4/op_addition) | 运算符重载 for + |
+| [Set](../../aspose.threed.utilities/vector4/set#set_1)(double, double, double, double) | 一次设置向量的所有分量 |
+| override [ToString](../../aspose.threed.utilities/vector4/tostring)() | 返回一个String代表当前[`Vector4`](../vector4). |
+| [operator +](../../aspose.threed.utilities/vector4/op_addition) | + 的运算符重载 |
 | [explicit operator](../../aspose.threed.utilities/vector4/op_explicit) |  |
-| [operator *](../../aspose.threed.utilities/vector4/op_multiply#op_multiply) | 运算符重载 * (2 operators) |
-| [operator -](../../aspose.threed.utilities/vector4/op_subtraction) | 运算符重载 for - (减号) |
+| [operator *](../../aspose.threed.utilities/vector4/op_multiply#op_multiply) | * 的运算符重载 (2 operators) |
+| [operator -](../../aspose.threed.utilities/vector4/op_subtraction) | 运算符重载 - (减号) |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| [w](../../aspose.threed.utilities/vector4/w) | w 组件。 |
-| [x](../../aspose.threed.utilities/vector4/x) | x 组件。 |
+| [w](../../aspose.threed.utilities/vector4/w) | w 分量。 |
+| [x](../../aspose.threed.utilities/vector4/x) | x 分量。 |
 | [y](../../aspose.threed.utilities/vector4/y) | y 分量。 |
 | [z](../../aspose.threed.utilities/vector4/z) | z 分量。 |
 

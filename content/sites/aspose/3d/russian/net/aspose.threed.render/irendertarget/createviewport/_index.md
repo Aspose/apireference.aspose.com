@@ -18,7 +18,7 @@ public Viewport CreateViewport(Camera camera, Color backgroundColor, RelativeRec
 | --- | --- | --- |
 | camera | Camera | Камера |
 | backgroundColor | Color | Фон области просмотра |
-| rect | RelativeRectangle | Положение и размер окна просмотра |
+| rect | RelativeRectangle | Положение и размер области просмотра |
 
 ### Смотрите также
 
@@ -42,7 +42,7 @@ public Viewport CreateViewport(Camera camera, RelativeRectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | camera | Camera | Камера |
-| rect | RelativeRectangle | Положение и размер область просмотра |
+| rect | RelativeRectangle | Положение и размер области просмотра |
 
 ### Смотрите также
 

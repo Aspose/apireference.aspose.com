@@ -6,12 +6,33 @@ type: docs
 weight: 20
 url: /net/aspose.threed.formats/pdfformat/extractscene/
 ---
-## PdfFormat.ExtractScene method (1 of 2)
+## PdfFormat.ExtractScene method (1 of 3)
 
 Extract 3D scenes from PDF file.
 
 ```csharp
-public List<Scene> ExtractScene(string fileName, byte[] password = null)
+public List<Scene> ExtractScene(string fileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String |  |
+
+### See Also
+
+* class [Scene](../../../aspose.threed/scene)
+* class [PdfFormat](../../pdfformat)
+* namespace [Aspose.ThreeD.Formats](../../pdfformat)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## PdfFormat.ExtractScene method (2 of 3)
+
+Extract 3D scenes from PDF file.
+
+```csharp
+public List<Scene> ExtractScene(string fileName, byte[] password)
 ```
 
 | Parameter | Type | Description |
@@ -28,7 +49,7 @@ public List<Scene> ExtractScene(string fileName, byte[] password = null)
 
 ---
 
-## PdfFormat.ExtractScene method (2 of 2)
+## PdfFormat.ExtractScene method (3 of 3)
 
 Extract raw 3D content from PDF stream.
 

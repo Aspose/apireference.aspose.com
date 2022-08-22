@@ -1,14 +1,14 @@
 ---
 title: m32
 second_title: Справочник по Aspose.3D для .NET API
-description: M32.
+description: m32.
 type: docs
 weight: 220
 url: /ru/net/aspose.threed.utilities/matrix4/m32/
 ---
 ## Matrix4.m32 field
 
-M32.
+m32.
 
 ```csharp
 public double m32;

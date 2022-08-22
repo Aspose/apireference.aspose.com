@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.3D для .NET API
-description: Форматирует в строку
+description: Форматирует строку
 type: docs
 weight: 530
 url: /ru/net/aspose.threed/fileformat/tostring/
 ---
 ## FileFormat.ToString method
 
-Форматирует в строку
+Форматирует строку
 
 ```csharp
 public override string ToString()

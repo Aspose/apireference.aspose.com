@@ -1,14 +1,14 @@
 ---
 title: AngleStart
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置旋转过程的起始角度单位为弧度默认为0
+description: 获取或设置旋转过程的起始角度单位为弧度默认为0.
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.entities/revolvedareasolid/anglestart/
 ---
 ## RevolvedAreaSolid.AngleStart property
 
-获取或设置旋转过程的起始角度，单位为弧度，默认为0。
+获取或设置旋转过程的起始角度，单位为弧度，默认为0.
 
 ```csharp
 public double AngleStart { get; set; }

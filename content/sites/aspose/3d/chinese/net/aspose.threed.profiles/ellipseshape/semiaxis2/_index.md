@@ -1,14 +1,14 @@
 ---
 title: SemiAxis2
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在y轴方向测量的椭圆的第二个半径
+description: 获取或设置椭圆在y轴方向测量的第二个半径
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.profiles/ellipseshape/semiaxis2/
 ---
 ## EllipseShape.SemiAxis2 property
 
-获取或设置在y轴方向测量的椭圆的第二个半径。
+获取或设置椭圆在y轴方向测量的第二个半径。
 
 ```csharp
 public double SemiAxis2 { get; set; }

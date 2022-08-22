@@ -1,18 +1,24 @@
 ---
 title: CreateRenderer
 second_title: Aspose.3D for .NET API 参考
-description: 使用默认配置文件创建一个新的Rendereraspose.threed.render/renderer
+description: 创建一个新的Rendereraspose.threed.render/renderer使用默认配置文件.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/renderer/createrenderer/
 ---
 ## Renderer.CreateRenderer method
 
-使用默认配置文件创建一个新的[`Renderer`](../../renderer)。
+创建一个新的[`Renderer`](../../renderer)使用默认配置文件.
 
 ```csharp
 public static Renderer CreateRenderer()
 ```
+
+### 例外
+
+| 例外 | （健康）状况 |
+| --- | --- |
+| RendererException |  |
 
 ### 也可以看看
 

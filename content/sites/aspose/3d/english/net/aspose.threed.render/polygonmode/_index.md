@@ -3,7 +3,7 @@ title: PolygonMode
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1990
+weight: 2000
 url: /net/aspose.threed.render/polygonmode/
 ---
 ## PolygonMode enumeration

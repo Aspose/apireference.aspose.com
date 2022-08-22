@@ -3,7 +3,7 @@ title: FrontFace
 second_title: Aspose.3D for .NET API 参考
 description: 定义正面和背面多边形
 type: docs
-weight: 1800
+weight: 1810
 url: /zh/net/aspose.threed.render/frontface/
 ---
 ## FrontFace enumeration

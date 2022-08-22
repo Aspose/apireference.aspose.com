@@ -1,14 +1,14 @@
 ---
 title: ResetChannels
 second_title: Справочник по Aspose.3D для .NET API
-description: Очищает каналы свойств этого отображения кривой анимации.
+description: Очищает каналы свойств этого сопоставления кривой анимации.
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.animation/bindpoint/resetchannels/
 ---
 ## BindPoint.ResetChannels method
 
-Очищает каналы свойств этого отображения кривой анимации.
+Очищает каналы свойств этого сопоставления кривой анимации.
 
 ```csharp
 public void ResetChannels()

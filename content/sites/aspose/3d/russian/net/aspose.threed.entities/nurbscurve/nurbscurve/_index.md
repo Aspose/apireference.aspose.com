@@ -1,14 +1,14 @@
 ---
 title: NurbsCurve
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаNurbsCurveaspose.threed.entities/nurbscurve.
+description: Инициализирует новый экземплярNurbsCurveaspose.threed.entities/nurbscurve класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/nurbscurve/nurbscurve/
 ---
 ## NurbsCurve() {#constructor}
 
-Инициализирует новый экземпляр класса[`NurbsCurve`](../../nurbscurve).
+Инициализирует новый экземпляр[`NurbsCurve`](../../nurbscurve) класс.
 
 ```csharp
 public NurbsCurve()
@@ -24,7 +24,7 @@ public NurbsCurve()
 
 ## NurbsCurve(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`NurbsCurve`](../../nurbscurve).
+Инициализирует новый экземпляр[`NurbsCurve`](../../nurbscurve) класс.
 
 ```csharp
 public NurbsCurve(string name)
@@ -32,7 +32,7 @@ public NurbsCurve(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

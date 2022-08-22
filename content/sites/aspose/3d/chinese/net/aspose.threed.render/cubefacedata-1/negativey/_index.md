@@ -1,14 +1,14 @@
 ---
 title: NegativeY
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 -YBottom face
+description: 获取或设置 YBottom face 的数据
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.render/cubefacedata-1/negativey/
 ---
 ## CubeFaceData&lt;T&gt;.NegativeY property
 
-获取或设置 -Y(Bottom) face
+获取或设置 -Y(Bottom) face 的数据
 
 ```csharp
 public T NegativeY { get; set; }

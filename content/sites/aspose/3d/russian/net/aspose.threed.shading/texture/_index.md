@@ -3,7 +3,7 @@ title: Texture
 second_title: Справочник по Aspose.3D для .NET API
 description: Этот класс определяет текстуру из внешнего файла.
 type: docs
-weight: 2360
+weight: 2350
 url: /ru/net/aspose.threed.shading/texture/
 ---
 ## Texture class
@@ -18,19 +18,19 @@ public class Texture : TextureBase
 
 | Имя | Описание |
 | --- | --- |
-| [Texture](texture#constructor)() | Инициализирует новый экземпляр класса[`Texture`](../texture). |
-| [Texture](texture#constructor_1)(string) | Инициализирует новый экземпляр класса[`Texture`](../texture). |
+| [Texture](texture#constructor)() | Инициализирует новый экземпляр[`Texture`](../texture) класс. |
+| [Texture](texture#constructor_1)(string) | Инициализирует новый экземпляр[`Texture`](../texture) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Alpha](../../aspose.threed.shading/texturebase/alpha) { get; set; } | Получает или устанавливает альфа-значение текстуры по умолчанию Это действительно, когда используется[`AlphaSource`](../texturebase/alphasource)isPixelAlpha Значение по умолчанию — 1,0, допустимый диапазон значений — от 0 до 1 |
+| [Alpha](../../aspose.threed.shading/texturebase/alpha) { get; set; } | Получает или задает альфа-значение текстуры по умолчанию Это допустимо, когда[`AlphaSource`](../texturebase/alphasource) являетсяPixelAlpha Значение по умолчанию — 1,0, допустимый диапазон значений — от 0 до 1 |
 | [AlphaSource](../../aspose.threed.shading/texturebase/alphasource) { get; set; } | Получает или задает, определяет ли текстура альфа-канал. Значение по умолчанию:None |
-| [Content](../../aspose.threed.shading/texture/content) { get; set; } | Получает или задает двоичное содержимое текстуры. Содержимое встроенной текстуры является необязательным, пользователь должен загрузить текстуру из внешнего файла, если он отсутствует. |
-| [EnableMipMap](../../aspose.threed.shading/texture/enablemipmap) { get; set; } | Получает или устанавливает, включено ли MIP-карта для этой текстуры |
+| [Content](../../aspose.threed.shading/texture/content) { get; set; } | Получает или задает двоичное содержимое текстуры. Содержимое встроенной текстуры является необязательным, пользователь должен загрузить текстуру из внешнего файла, если оно отсутствует. |
+| [EnableMipMap](../../aspose.threed.shading/texture/enablemipmap) { get; set; } | Получает или задает, включено ли MIP-карта для этой текстуры |
 | [FileName](../../aspose.threed.shading/texture/filename) { get; set; } | Получает или задает связанный файл текстуры. |
-| [MagFilter](../../aspose.threed.shading/texturebase/magfilter) { get; set; } | Получает или задает фильтр увеличения. |
+| [MagFilter](../../aspose.threed.shading/texturebase/magfilter) { get; set; } | Получает или задает фильтр для увеличения. |
 | [MinFilter](../../aspose.threed.shading/texturebase/minfilter) { get; set; } | Получает или задает фильтр для минимизации. |
 | [MipFilter](../../aspose.threed.shading/texturebase/mipfilter) { get; set; } | Получает или задает фильтр для выборки на уровне MIP. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
@@ -38,9 +38,9 @@ public class Texture : TextureBase
 | [UVRotation](../../aspose.threed.shading/texturebase/uvrotation) { get; set; } | Получает или задает поворот текстуры |
 | [UVScale](../../aspose.threed.shading/texturebase/uvscale) { get; set; } | Получает или задает масштаб UV. |
 | [UVTranslation](../../aspose.threed.shading/texturebase/uvtranslation) { get; set; } | Получает или устанавливает преобразование UV. |
-| [WrapModeU](../../aspose.threed.shading/texturebase/wrapmodeu) { get; set; } | Получает или устанавливает режимы переноса текстуры в U. |
-| [WrapModeV](../../aspose.threed.shading/texturebase/wrapmodev) { get; set; } | Получает или устанавливает режимы переноса текстуры в V. |
-| [WrapModeW](../../aspose.threed.shading/texturebase/wrapmodew) { get; set; } | Получает или устанавливает режимы переноса текстуры в W. |
+| [WrapModeU](../../aspose.threed.shading/texturebase/wrapmodeu) { get; set; } | Получает или задает режимы переноса текстуры в U. |
+| [WrapModeV](../../aspose.threed.shading/texturebase/wrapmodev) { get; set; } | Получает или устанавливает режимы наложения текстуры в V. |
+| [WrapModeW](../../aspose.threed.shading/texturebase/wrapmodew) { get; set; } | Получает или задает режимы переноса текстуры в W. |
 
 ## Методы
 
@@ -49,7 +49,7 @@ public class Texture : TextureBase
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 | [SetRotation](../../aspose.threed.shading/texturebase/setrotation)(double, double) | Устанавливает вращение UV. |
 | [SetScale](../../aspose.threed.shading/texturebase/setscale)(double, double) | Устанавливает масштаб UV. |

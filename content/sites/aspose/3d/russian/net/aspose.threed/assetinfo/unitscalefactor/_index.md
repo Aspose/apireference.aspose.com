@@ -1,14 +1,14 @@
 ---
 title: UnitScaleFactor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает масштабный коэффициент для реального метра.
+description: Получает или задает коэффициент масштабирования для реального метра.
 type: docs
 weight: 170
 url: /ru/net/aspose.threed/assetinfo/unitscalefactor/
 ---
 ## AssetInfo.UnitScaleFactor property
 
-Получает или задает масштабный коэффициент для реального метра.
+Получает или задает коэффициент масштабирования для реального метра.
 
 ```csharp
 public double UnitScaleFactor { get; set; }

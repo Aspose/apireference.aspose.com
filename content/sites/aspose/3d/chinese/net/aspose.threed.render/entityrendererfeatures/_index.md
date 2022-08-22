@@ -3,7 +3,7 @@ title: EntityRendererFeatures
 second_title: Aspose.3D for .NET API 参考
 description: 实体渲染器将提供的额外功能
 type: docs
-weight: 1780
+weight: 1790
 url: /zh/net/aspose.threed.render/entityrendererfeatures/
 ---
 ## EntityRendererFeatures enumeration
@@ -19,10 +19,10 @@ public enum EntityRendererFeatures : byte
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Default | `0` | 无额外功能 |
-| FrameBegin | `1` | [`EntityRenderer`](../entityrenderer)将在渲染每个场景帧之前观察 FrameBegin 回调 |
-| FrameEnd | `2` | [`EntityRenderer`](../entityrenderer)将在渲染每个场景帧后观察 FrameBegin 回调 |
-| Shadowmap | `4` | 此渲染器可以在阴影贴图模式下工作 |
+| Default | `0` | 没有额外的功能 |
+| FrameBegin | `1` | 的[`EntityRenderer`](../entityrenderer)将在渲染每个场景之前观察 FrameBegin 回调 frame |
+| FrameEnd | `2` | 的[`EntityRenderer`](../entityrenderer)将在渲染每个场景 frame 后观察 FrameBegin 回调 |
+| Shadowmap | `4` | 这个渲染器可以在阴影贴图模式下工作 |
 
 ### 也可以看看
 

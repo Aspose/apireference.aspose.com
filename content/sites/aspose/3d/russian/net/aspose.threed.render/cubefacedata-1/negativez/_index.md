@@ -1,14 +1,14 @@
 ---
 title: NegativeZ
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для -Z передней грани
+description: Получает или задает данные для ZПередняя face
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.render/cubefacedata-1/negativez/
 ---
 ## CubeFaceData&lt;T&gt;.NegativeZ property
 
-Получает или задает данные для -Z (передней) грани
+Получает или задает данные для -Z(Передняя) face
 
 ```csharp
 public T NegativeZ { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ChannelWeight
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置此通道的变形器权重 权重在 0.0 和 1.0 之间
+description: 获取或设置该通道的变形器权重 权重在0.0到1.0之间
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.deformers/morphtargetchannel/channelweight/
 ---
 ## MorphTargetChannel.ChannelWeight property
 
-获取或设置此通道的变形器权重。 权重在 0.0 和 1.0 之间
+获取或设置该通道的变形器权重。 权重在0.0到1.0之间
 
 ```csharp
 public double ChannelWeight { get; set; }

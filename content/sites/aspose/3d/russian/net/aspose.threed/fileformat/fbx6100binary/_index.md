@@ -1,14 +1,14 @@
 ---
 title: FBX6100Binary
 second_title: Справочник по Aspose.3D для .NET API
-description: Двоичный формат файла FBX версия 6.1.0
+description: Двоичный формат файла FBX с версией 6.1.0
 type: docs
 weight: 80
 url: /ru/net/aspose.threed/fileformat/fbx6100binary/
 ---
 ## FileFormat.FBX6100Binary field
 
-Двоичный формат файла FBX, версия 6.1.0
+Двоичный формат файла FBX с версией 6.1.0
 
 ```csharp
 public static readonly FileFormat FBX6100Binary;

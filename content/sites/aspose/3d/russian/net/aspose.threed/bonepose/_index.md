@@ -1,14 +1,14 @@
 ---
 title: BonePose
 second_title: Справочник по Aspose.3D для .NET API
-description: BonePose./boneposeсодержит матрицу преобразования для узла кости
+description: BonePose./bonepose содержит матрицу преобразования для кости node
 type: docs
 weight: 150
 url: /ru/net/aspose.threed/bonepose/
 ---
 ## BonePose class
 
-[`BonePose`](../bonepose)содержит матрицу преобразования для узла кости
+[`BonePose`](../bonepose) содержит матрицу преобразования для кости node
 
 ```csharp
 public class BonePose
@@ -26,7 +26,7 @@ public class BonePose
 | --- | --- |
 | [IsLocal](../../aspose.threed/bonepose/islocal) { get; set; } | Получает или задает, если матрица определена в локальных координатах. |
 | [Matrix](../../aspose.threed/bonepose/matrix) { get; set; } | Получает или задает матрицу преобразования узла в текущей позе. |
-| [Node](../../aspose.threed/bonepose/node) { get; set; } | Получает или устанавливает узел сцены, указывает на узел скелета со скинами |
+| [Node](../../aspose.threed/bonepose/node) { get; set; } | Получает или задает узел сцены, указывает на скелет со скинами node |
 
 ### Смотрите также
 

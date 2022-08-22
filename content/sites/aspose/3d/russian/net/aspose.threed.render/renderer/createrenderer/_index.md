@@ -14,6 +14,12 @@ url: /ru/net/aspose.threed.render/renderer/createrenderer/
 public static Renderer CreateRenderer()
 ```
 
+### Исключения
+
+| исключение | условие |
+| --- | --- |
+| RendererException |  |
+
 ### Смотрите также
 
 * class [Renderer](../../renderer)

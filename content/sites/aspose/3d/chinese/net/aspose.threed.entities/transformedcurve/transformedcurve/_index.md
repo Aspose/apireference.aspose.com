@@ -1,14 +1,14 @@
 ---
 title: TransformedCurve
 second_title: Aspose.3D for .NET API 参考
-description: TransformedCurveaspose.threed.entities/transformedcurve
+description: 的构造函数TransformedCurveaspose.threed.entities/transformedcurve
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/transformedcurve/transformedcurve/
 ---
 ## TransformedCurve() {#constructor}
 
-[`TransformedCurve`](../../transformedcurve)
+的构造函数[`TransformedCurve`](../../transformedcurve)
 
 ```csharp
 public TransformedCurve()
@@ -24,7 +24,7 @@ public TransformedCurve()
 
 ## TransformedCurve(Curve, Matrix4) {#constructor_1}
 
-[`TransformedCurve`](../../transformedcurve)
+的构造函数[`TransformedCurve`](../../transformedcurve)
 
 ```csharp
 public TransformedCurve(Curve basisCurve, Matrix4 transformation)

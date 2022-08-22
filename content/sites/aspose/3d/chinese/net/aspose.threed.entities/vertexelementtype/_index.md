@@ -1,14 +1,14 @@
 ---
 title: VertexElementType
 second_title: Aspose.3D for .NET API 参考
-description: 顶点元素的类型定义了它在建模中的使用方式
+description: 顶点元素的类型定义了它将如何在建模中使用
 type: docs
 weight: 890
 url: /zh/net/aspose.threed.entities/vertexelementtype/
 ---
 ## VertexElementType enumeration
 
-顶点元素的类型，定义了它在建模中的使用方式。
+顶点元素的类型，定义了它将如何在建模中使用。
 
 ```csharp
 public enum VertexElementType
@@ -18,21 +18,21 @@ public enum VertexElementType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Binormal | `0` | Binormal 向量，参见[`VertexElementBinormal`](../vertexelementbinormal) |
-| Normal | `1` | 法线向量，参见[`VertexElementNormal`](../vertexelementnormal) |
-| Tangent | `2` | 切向量，参见[`VertexElementTangent`](../vertexelementtangent) |
-| Material | `3` | 材质索引，参见[`VertexElementMaterial`](../vertexelementmaterial) |
-| PolygonGroup | `4` | 多边形组索引，参见[`VertexElementPolygonGroup`](../vertexelementpolygongroup) |
-| UV | `5` | 纹理 UV 坐标，参见[`VertexElementUV`](../vertexelementuv) |
-| VertexColor | `6` | 顶点颜色，参见[`VertexElementVertexColor`](../vertexelementvertexcolor) |
-| SmoothingGroup | `7` | 平滑组，参见[`VertexElementSmoothingGroup`](../vertexelementsmoothinggroup) |
-| VertexCrease | `8` | 顶点折痕，参见[`VertexElementVertexCrease`](../vertexelementvertexcrease) |
-| EdgeCrease | `9` | 边缘折痕,[`VertexElementEdgeCrease`](../vertexelementedgecrease) |
-| UserData | `10` | 用户数据，通常用于特定于应用程序的目的，请参见[`VertexElementUserData`](../vertexelementuserdata) |
-| Visibility | `11` | 组件的可见性，参见[`VertexElementVisibility`](../vertexelementvisibility) |
-| Specular | `12` | 高光颜色，参见[`VertexElementSpecular`](../vertexelementspecular) |
-| Weight | `13` | 混合权重，参见[`VertexElementWeight`](../vertexelementweight) |
-| Hole | `14` | 孔，参见[`VertexElementHole`](../vertexelementhole) |
+| Binormal | `0` | 副法向量，见[`VertexElementBinormal`](../vertexelementbinormal) |
+| Normal | `1` | 法线向量，见[`VertexElementNormal`](../vertexelementnormal) |
+| Tangent | `2` | 切向量，见[`VertexElementTangent`](../vertexelementtangent) |
+| Material | `3` | 材质索引，见[`VertexElementMaterial`](../vertexelementmaterial) |
+| PolygonGroup | `4` | 多边形组索引，见[`VertexElementPolygonGroup`](../vertexelementpolygongroup) |
+| UV | `5` | 纹理 UV 坐标，见[`VertexElementUV`](../vertexelementuv) |
+| VertexColor | `6` | 顶点颜色，见[`VertexElementVertexColor`](../vertexelementvertexcolor) |
+| SmoothingGroup | `7` | 平滑组，请参见[`VertexElementSmoothingGroup`](../vertexelementsmoothinggroup) |
+| VertexCrease | `8` | 顶点折痕，见[`VertexElementVertexCrease`](../vertexelementvertexcrease) |
+| EdgeCrease | `9` | 边缘折痕，[`VertexElementEdgeCrease`](../vertexelementedgecrease) |
+| UserData | `10` | 用户数据，通常用于特定于应用程序的目的，请参阅[`VertexElementUserData`](../vertexelementuserdata) |
+| Visibility | `11` | 组件的可见性，请参阅[`VertexElementVisibility`](../vertexelementvisibility) |
+| Specular | `12` | 高光颜色，见[`VertexElementSpecular`](../vertexelementspecular) |
+| Weight | `13` | 混合权重，见[`VertexElementWeight`](../vertexelementweight) |
+| Hole | `14` | 孔，见[`VertexElementHole`](../vertexelementhole) |
 
 ### 也可以看看
 

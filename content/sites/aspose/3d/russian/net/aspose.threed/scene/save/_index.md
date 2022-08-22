@@ -40,7 +40,7 @@ public void Save(Stream stream, FileFormat format, CancellationToken cancellatio
 | --- | --- | --- |
 | stream | Stream | Входной поток, пользователь отвечает за закрытие потока. |
 | format | FileFormat | Формат. |
-| cancellationToken | CancellationToken | Токен отмены задачи сохранения |
+| cancellationToken | CancellationToken | Токен отмены для задачи сохранения |
 
 ### Смотрите также
 
@@ -51,19 +51,18 @@ public void Save(Stream stream, FileFormat format, CancellationToken cancellatio
 
 ---
 
-## Save(Stream, SaveOptions, CancellationToken) {#save_2}
+## Save(Stream, SaveOptions) {#save_2}
 
 Сохраняет сцену в поток, используя указанный формат файла.
 
 ```csharp
-public void Save(Stream stream, SaveOptions options, CancellationToken cancellationToken = default)
+public void Save(Stream stream, SaveOptions options)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Входной поток, пользователь отвечает за закрытие потока. |
 | options | SaveOptions | Более подробная настройка для сохранения потока. |
-| cancellationToken | CancellationToken | Токен отмены задачи сохранения |
 
 ### Смотрите также
 
@@ -74,7 +73,30 @@ public void Save(Stream stream, SaveOptions options, CancellationToken cancellat
 
 ---
 
-## Save(string) {#save_3}
+## Save(Stream, SaveOptions, CancellationToken) {#save_3}
+
+Сохраняет сцену в поток, используя указанный формат файла.
+
+```csharp
+public void Save(Stream stream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| stream | Stream | Входной поток, пользователь отвечает за закрытие потока. |
+| options | SaveOptions | Более подробная настройка для сохранения потока. |
+| cancellationToken | CancellationToken | Токен отмены для задачи сохранения |
+
+### Смотрите также
+
+* class [SaveOptions](../../../aspose.threed.formats/saveoptions)
+* class [Scene](../../scene)
+* пространство имен [Aspose.ThreeD](../../scene)
+* сборка [Aspose.3D](../../../)
+
+---
+
+## Save(string) {#save_4}
 
 Сохраняет сцену по указанному пути, используя указанный формат файла.
 
@@ -94,7 +116,7 @@ public void Save(string fileName)
 
 ---
 
-## Save(string, FileFormat) {#save_4}
+## Save(string, FileFormat) {#save_5}
 
 Сохраняет сцену по указанному пути, используя указанный формат файла.
 
@@ -116,7 +138,7 @@ public void Save(string fileName, FileFormat format)
 
 ---
 
-## Save(string, FileFormat, CancellationToken) {#save_5}
+## Save(string, FileFormat, CancellationToken) {#save_6}
 
 Сохраняет сцену по указанному пути, используя указанный формат файла.
 
@@ -128,7 +150,7 @@ public void Save(string fileName, FileFormat format, CancellationToken cancellat
 | --- | --- | --- |
 | fileName | String | Имя файла. |
 | format | FileFormat | Формат. |
-| cancellationToken | CancellationToken | Токен отмены задачи сохранения |
+| cancellationToken | CancellationToken | Токен отмены для задачи сохранения |
 
 ### Смотрите также
 
@@ -139,20 +161,41 @@ public void Save(string fileName, FileFormat format, CancellationToken cancellat
 
 ---
 
-## Save(string, SaveOptions, CancellationToken) {#save_6}
+## Save(string, SaveOptions) {#save_7}
 
 Сохраняет сцену по указанному пути, используя указанный формат файла.
 
 ```csharp
-public void Save(string fileName, SaveOptions options, 
-    CancellationToken cancellationToken = default)
+public void Save(string fileName, SaveOptions options)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String | Имя файла. |
 | options | SaveOptions | Более подробная настройка для сохранения потока. |
-| cancellationToken | CancellationToken | Токен отмены задачи сохранения |
+
+### Смотрите также
+
+* class [SaveOptions](../../../aspose.threed.formats/saveoptions)
+* class [Scene](../../scene)
+* пространство имен [Aspose.ThreeD](../../scene)
+* сборка [Aspose.3D](../../../)
+
+---
+
+## Save(string, SaveOptions, CancellationToken) {#save_8}
+
+Сохраняет сцену по указанному пути, используя указанный формат файла.
+
+```csharp
+public void Save(string fileName, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fileName | String | Имя файла. |
+| options | SaveOptions | Более подробная настройка для сохранения потока. |
+| cancellationToken | CancellationToken | Токен отмены для задачи сохранения |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Write
 second_title: Справочник по Aspose.3D для .NET API
-description: Запись матрицы в константу
+description: Записать матрицу в константу
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.render/pushconstant/write/
 ---
 ## Write(FMatrix4) {#write}
 
-Запись матрицы в константу
+Записать матрицу в константу
 
 ```csharp
 public PushConstant Write(FMatrix4 mat)
@@ -69,7 +69,7 @@ public PushConstant Write(float f)
 
 ## Write(FVector4) {#write_2}
 
-Записать 4-компонентный вектор в константу
+Запишите 4-компонентный вектор в константу
 
 ```csharp
 public PushConstant Write(FVector4 vec)
@@ -111,7 +111,7 @@ public PushConstant Write(FVector3 vec)
 
 ## Write(float, float, float, float) {#write_5}
 
-Записать 4-компонентный вектор в константу
+Запишите 4-компонентный вектор в константу
 
 ```csharp
 public PushConstant Write(float x, float y, float z, float w)

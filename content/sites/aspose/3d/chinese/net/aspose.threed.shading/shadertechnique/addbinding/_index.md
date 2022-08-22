@@ -16,7 +16,7 @@ public void AddBinding(string property, string shaderParameter)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| property | String | 的名称动态属性。 |
+| property | String | 动态属性的名称。 |
 | shaderParameter | String | 着色器参数的名称。 |
 
 ### 也可以看看

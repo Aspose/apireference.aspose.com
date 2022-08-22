@@ -18,7 +18,7 @@ public interface IOrientable
 
 | Имя | Описание |
 | --- | --- |
-| [Direction](../../aspose.threed.entities/iorientable/direction) { get; set; } | Получает или задает направление, на которое смотрит объект. |
+| [Direction](../../aspose.threed.entities/iorientable/direction) { get; set; } | Получает или задает направление, на которое смотрит сущность. |
 | [Target](../../aspose.threed.entities/iorientable/target) { get; set; } | Получает или задает цель, на которую смотрит сущность. |
 
 ### Смотрите также

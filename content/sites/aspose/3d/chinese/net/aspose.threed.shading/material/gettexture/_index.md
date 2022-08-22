@@ -1,14 +1,14 @@
 ---
 title: GetTexture
 second_title: Aspose.3D for .NET API 参考
-description: 从指定槽获取纹理可以是材质的属性名称或着色器的参数名称
+description: 从指定槽获取纹理可以是材质的属性名或shader的参数名
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.shading/material/gettexture/
 ---
 ## Material.GetTexture method
 
-从指定槽获取纹理，可以是材质的属性名称或着色器的参数名称
+从指定槽获取纹理，可以是材质的属性名或shader的参数名
 
 ```csharp
 public TextureBase GetTexture(string slotName)
@@ -20,7 +20,7 @@ public TextureBase GetTexture(string slotName)
 
 ### 返回值
 
-纹理。
+质地。
 
 ### 也可以看看
 

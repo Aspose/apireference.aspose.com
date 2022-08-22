@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает хэш-код Quaternion
+description: Получает хэшкод Quaternion
 type: docs
 weight: 170
 url: /ru/net/aspose.threed.utilities/quaternion/gethashcode/

@@ -1,14 +1,14 @@
 ---
 title: PbrSpecularMaterial
 second_title: Aspose.3D for .NET API 参考
-description: PbrSpecularMaterialaspose.threed.shading/pbrspecularmaterial
+description: 的构造函数PbrSpecularMaterialaspose.threed.shading/pbrspecularmaterial
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.shading/pbrspecularmaterial/pbrspecularmaterial/
 ---
 ## PbrSpecularMaterial constructor
 
-[`PbrSpecularMaterial`](../../pbrspecularmaterial)
+的构造函数[`PbrSpecularMaterial`](../../pbrspecularmaterial)
 
 ```csharp
 public PbrSpecularMaterial()

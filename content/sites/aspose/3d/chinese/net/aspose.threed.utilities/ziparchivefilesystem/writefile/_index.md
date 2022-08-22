@@ -1,14 +1,14 @@
 ---
 title: WriteFile
 second_title: Aspose.3D for .NET API 参考
-description: 打开文件写入未在此类中实现
+description: 打开文件写入在这个类中没有实现
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.utilities/ziparchivefilesystem/writefile/
 ---
 ## ZipArchiveFileSystem.WriteFile method
 
-打开文件写入，未在此类中实现。
+打开文件写入，在这个类中没有实现。
 
 ```csharp
 public override Stream WriteFile(string fileName, IOConfig options)

@@ -1,14 +1,14 @@
 ---
 title: AnimationClip
 second_title: Справочник по Aspose.3D для .NET API
-description: Анимационный клип представляет собой набор анимаций. В сцене может быть один или несколько анимационных клипов.
+description: Анимационный клип представляет собой набор анимаций. Сцена может содержать один или несколько анимационных клипов.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.animation/animationclip/
 ---
 ## AnimationClip class
 
-Анимационный клип представляет собой набор анимаций. В сцене может быть один или несколько анимационных клипов.
+Анимационный клип представляет собой набор анимаций. Сцена может содержать один или несколько анимационных клипов.
 
 ```csharp
 public class AnimationClip : SceneObject
@@ -18,15 +18,15 @@ public class AnimationClip : SceneObject
 
 | Имя | Описание |
 | --- | --- |
-| [AnimationClip](animationclip#constructor)() | Инициализирует новый экземпляр класса[`AnimationClip`](../animationclip). |
-| [AnimationClip](animationclip#constructor_1)(string) | Инициализирует новый экземпляр класса[`AnimationClip`](../animationclip). |
+| [AnimationClip](animationclip#constructor)() | Инициализирует новый экземпляр[`AnimationClip`](../animationclip) класс. |
+| [AnimationClip](animationclip#constructor_1)(string) | Инициализирует новый экземпляр[`AnimationClip`](../animationclip) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Animations](../../aspose.threed.animation/animationclip/animations) { get; } | Получает анимацию, содержащуюся внутри клипа. |
-| [Description](../../aspose.threed.animation/animationclip/description) { get; set; } | Получает или задает описание этого анимационного клипа |
+| [Description](../../aspose.threed.animation/animationclip/description) { get; set; } | Получает или задает описание этой анимации clip |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
@@ -41,7 +41,7 @@ public class AnimationClip : SceneObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

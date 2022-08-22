@@ -1,14 +1,14 @@
 ---
 title: DuplicatedNameCounterBase
 second_title: Aspose.3D for .NET API 参考
-description: 重名生成新名称所使用的计数器默认值为 2
+description: 重名生成新名称所使用的计数器默认值为2.
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.formats/discreet3dssaveoptions/duplicatednamecounterbase/
 ---
 ## Discreet3dsSaveOptions.DuplicatedNameCounterBase property
 
-重名生成新名称所使用的计数器，默认值为 2。
+重名生成新名称所使用的计数器，默认值为2.
 
 ```csharp
 public int DuplicatedNameCounterBase { get; set; }

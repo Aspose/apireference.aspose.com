@@ -17,10 +17,10 @@ public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| parameters | RenderParameters | Render параметры для создания рендер-текстуры |
+| parameters | RenderParameters | Параметры рендеринга для создания текстуры рендеринга |
 | targets | Int32 | Сколько целей вывода цвета |
-| width | Int32 | Ширина текстура рендера |
-| height | Int32 | Высота текстуры рендера |
+| width | Int32 | Ширина рендер-текстуры |
+| height | Int32 | Высота рендер-текстуры |
 
 ### Смотрите также
 
@@ -34,7 +34,7 @@ public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, 
 
 ## CreateRenderTexture(RenderParameters, int, int) {#createrendertexture}
 
-Создание цели рендеринга содержит 1 цель, которая рендерится в текстуру
+Создать цель рендеринга, содержащую 1 цель, которая рендерится в текстуру
 
 ```csharp
 public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, int width, 
@@ -43,9 +43,9 @@ public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| параметры | RenderParameters | Параметры рендера для создания текстуры рендера |
-| width | Int32 | Ширина текстуры рендера |
-| height | Int32 | Высота текстуры рендера |
+| parameters | RenderParameters | Параметры рендеринга для создания текстуры рендеринга |
+| width | Int32 | Ширина рендер-текстуры |
+| height | Int32 | Высота рендер-текстуры |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: MatrixViewProjection
 second_title: Aspose.3D for .NET API 参考
-description: 矩阵用于视图和投影变换
+description: 用于视图和投影变换的矩阵
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.render/renderervariablemanager/matrixviewprojection/
 ---
 ## RendererVariableManager.MatrixViewProjection property
 
-矩阵，用于视图和投影变换。
+用于视图和投影变换的矩阵。
 
 ```csharp
 public FMatrix4 MatrixViewProjection { get; }

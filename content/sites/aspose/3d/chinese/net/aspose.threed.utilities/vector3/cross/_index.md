@@ -16,11 +16,11 @@ public Vector3 Cross(Vector3 rhs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rhs | Vector3 | 右侧值。 |
+| rhs | Vector3 | 右手边的值。 |
 
 ### 返回值
 
-两个[`Vector3`](../../vector3)的叉积。
+两个的叉积[`Vector3`](../../vector3)s。
 
 ### 也可以看看
 

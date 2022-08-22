@@ -1,14 +1,14 @@
 ---
 title: TextureCoordinateBits
 second_title: Aspose.3D for .NET API 参考
-description: 纹理坐标的量化位默认值为 12
+description: 纹理坐标的量化位默认值为12
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.formats/dracosaveoptions/texturecoordinatebits/
 ---
 ## DracoSaveOptions.TextureCoordinateBits property
 
-纹理坐标的量化位，默认值为 12
+纹理坐标的量化位，默认值为12
 
 ```csharp
 public int TextureCoordinateBits { get; set; }

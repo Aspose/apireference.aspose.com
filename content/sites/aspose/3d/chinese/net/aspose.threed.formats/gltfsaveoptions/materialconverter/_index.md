@@ -1,14 +1,14 @@
 ---
 title: MaterialConverter
 second_title: Aspose.3D for .NET API 参考
-description: 自定义转换器将几何体的材质转换为 PBR 材质 如果未指定glTF 2.0 导出器将自动将标准材质转换为 PBR 材质 默认值为 null 将场景导出到 glTF 2.0 文件时使用此属性
+description: 将几何体材质转换为 PBR 材质的自定义转换器 如果未指定glTF 2.0 导出器将自动将标准材质转换为 PBR 材质 默认值为 null 将场景导出到 glTF 2.0 文件时使用此属性
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/materialconverter/
 ---
 ## GltfSaveOptions.MaterialConverter property
 
-自定义转换器将几何体的材质转换为 PBR 材质 如果未指定，glTF 2.0 导出器将自动将标准材质转换为 PBR 材质。 默认值为 null 将场景导出到 glTF 2.0 文件时使用此属性。
+将几何体材质转换为 PBR 材质的自定义转换器 如果未指定，glTF 2.0 导出器将自动将标准材质转换为 PBR 材质。 默认值为 null 将场景导出到 glTF 2.0 文件时使用此属性。
 
 ```csharp
 public MaterialConverter MaterialConverter { get; set; }

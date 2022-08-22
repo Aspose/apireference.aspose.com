@@ -1,14 +1,14 @@
 ---
 title: ShaderSet
 second_title: Aspose.3D for .NET API 参考
-description: 每种材质的着色程序
+description: 每种材质的着色器程序
 type: docs
-weight: 2140
+weight: 2150
 url: /zh/net/aspose.threed.render/shaderset/
 ---
 ## ShaderSet class
 
-每种材质的着色程序
+每种材质的着色器程序
 
 ```csharp
 public class ShaderSet : IDisposable
@@ -18,7 +18,7 @@ public class ShaderSet : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ShaderSet](shaderset)() | 构造[`ShaderSet`](../shaderset) |
+| [ShaderSet](shaderset)() | 构造实例[`ShaderSet`](../shaderset) |
 
 ## 特性
 

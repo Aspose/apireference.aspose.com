@@ -1,14 +1,14 @@
 ---
 title: InitializationException
 second_title: Aspose.3D for .NET API 参考
-description: 渲染管道初始化异常
+description: 渲染管道初始化中的异常
 type: docs
-weight: 1970
+weight: 1980
 url: /zh/net/aspose.threed.render/initializationexception/
 ---
 ## InitializationException class
 
-渲染管道初始化异常
+渲染管道初始化中的异常
 
 ```csharp
 public class InitializationException : Exception
@@ -18,8 +18,8 @@ public class InitializationException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InitializationException](initializationexception#constructor)() | 初始化[`InitializationException`](../initializationexception)实例 |
-| [InitializationException](initializationexception#constructor_1)(string) | 使用指定的异常消息初始化[`InitializationException`](../initializationexception)实例。 |
+| [InitializationException](initializationexception#constructor)() | 初始化一个[`InitializationException`](../initializationexception) instance |
+| [InitializationException](initializationexception#constructor_1)(string) | 初始化一个[`InitializationException`](../initializationexception)具有指定异常消息的实例。 |
 
 ### 也可以看看
 

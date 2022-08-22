@@ -16,7 +16,7 @@ public Quaternion Inverse()
 
 ### 返回值
 
-逆四元数。
+反四元数。
 
 ### 也可以看看
 

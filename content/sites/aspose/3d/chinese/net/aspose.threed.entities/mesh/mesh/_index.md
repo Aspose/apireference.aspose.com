@@ -1,14 +1,14 @@
 ---
 title: Mesh
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Meshaspose.threed.entities/mesh类的新实例
+description: 初始化Meshaspose.threed.entities/mesh类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/mesh/mesh/
 ---
 ## Mesh() {#constructor}
 
-初始化[`Mesh`](../../mesh)类的新实例。
+初始化[`Mesh`](../../mesh)类.
 
 ```csharp
 public Mesh()
@@ -24,7 +24,7 @@ public Mesh()
 
 ## Mesh(Bitmap) {#constructor_1}
 
-使用指定的高度图构造一个网格， 如果高度图的像素格式包含多个组件，第一个（通常是红色）组件将是用作高度值(z) 控制点的 x 和 y 分量是归一化的像素坐标。
+使用指定的高度图构造网格， 如果高度图的像素格式包含多个分量，则第一个（通常是红色）分量将用作高度值（z） 控制点的 x 和 y 分量是归一化的像素坐标.
 
 ```csharp
 public Mesh(Bitmap heightMap)
@@ -44,7 +44,7 @@ public Mesh(Bitmap heightMap)
 
 ## Mesh(Bitmap, Matrix4) {#constructor_2}
 
-使用指定的高度图构造一个网格， 如果高度图的像素格式包含多个组件，第一个（通常是红色）组件将是用作高度值(z) 控制点的 x 和 y 分量是归一化的像素坐标。
+使用指定的高度图构造网格， 如果高度图的像素格式包含多个分量，则第一个（通常是红色）分量将用作高度值（z） 控制点的 x 和 y 分量是归一化的像素坐标.
 
 ```csharp
 public Mesh(Bitmap heightMap, Matrix4 transform)
@@ -53,7 +53,7 @@ public Mesh(Bitmap heightMap, Matrix4 transform)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | heightMap | Bitmap | 输入高度图 |
-| transform | Matrix4 | 应用的变换在控制点 |
+| transform | Matrix4 | 应用于控制点的变换 |
 
 ### 也可以看看
 
@@ -66,7 +66,7 @@ public Mesh(Bitmap heightMap, Matrix4 transform)
 
 ## Mesh(Bitmap, bool, Matrix4) {#constructor_3}
 
-使用指定的高度图构造一个网格， 如果高度图的像素格式包含多个组件，第一个（通常是红色）组件将是用作高度值(z) 控制点的 x 和 y 分量是归一化的像素坐标。
+使用指定的高度图构造网格， 如果高度图的像素格式包含多个分量，则第一个（通常是红色）分量将用作高度值（z） 控制点的 x 和 y 分量是归一化的像素坐标.
 
 ```csharp
 public Mesh(Bitmap heightMap, bool triMesh, Matrix4 transform)
@@ -89,7 +89,7 @@ public Mesh(Bitmap heightMap, bool triMesh, Matrix4 transform)
 
 ## Mesh(string) {#constructor_4}
 
-初始化[`Mesh`](../../mesh)类的新实例。
+初始化[`Mesh`](../../mesh)类.
 
 ```csharp
 public Mesh(string name)
@@ -97,7 +97,7 @@ public Mesh(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 
 ### 也可以看看
 

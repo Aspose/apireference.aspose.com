@@ -1,14 +1,14 @@
 ---
 title: SiemensJT
 second_title: Справочник по Aspose.3D для .NET API
-description: Файл JT Siemens PLM Software NX
+description: Файл JT от Siemens PLM Software NX
 type: docs
 weight: 160
 url: /ru/net/aspose.threed/fileformattype/siemensjt/
 ---
 ## FileFormatType.SiemensJT field
 
-Файл JT Siemens PLM Software NX
+Файл JT от Siemens PLM Software NX
 
 ```csharp
 public static readonly FileFormatType SiemensJT;

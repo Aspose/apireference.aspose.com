@@ -1,14 +1,14 @@
 ---
 title: ToRadian
 second_title: Aspose.3D for .NET API 参考
-description: 将Vector3aspose.threed.utilities/vector3从度数转换为弧度
+description: 转换一个Vector3aspose.threed.utilities/vector3从度数到弧度
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.utilities/mathutils/toradian/
 ---
 ## ToRadian(Vector3) {#toradian}
 
-将[`Vector3`](../../vector3)从度数转换为弧度
+转换一个[`Vector3`](../../vector3)从度数到弧度
 
 ```csharp
 public static Vector3 ToRadian(Vector3 degree)
@@ -16,7 +16,7 @@ public static Vector3 ToRadian(Vector3 degree)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| degree | Vector3 | 度数值。 |
+| degree | Vector3 | 度值。 |
 
 ### 返回值
 
@@ -41,7 +41,7 @@ public static float ToRadian(float degree)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| degree | Single | 度数. |
+| degree | Single | 度值。 |
 
 ### 返回值
 
@@ -65,7 +65,7 @@ public static double ToRadian(double degree)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| degree | Double | 度数. |
+| degree | Double | 度值。 |
 
 ### 返回值
 
@@ -89,7 +89,7 @@ public static Vector3 ToRadian(double x, double y, double z)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | x 分量度值。 |
+| x | Double | 度值中的 x 分量。 |
 | y | Double | 度值中的 y 分量。 |
 | z | Double | 度值中的 z 分量。 |
 

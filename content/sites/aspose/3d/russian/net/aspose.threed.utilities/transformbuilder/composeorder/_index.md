@@ -1,14 +1,14 @@
 ---
 title: ComposeOrder
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает порядок составления цепочки.
+description: Получает или задает порядок создания цепочки.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/transformbuilder/composeorder/
 ---
 ## TransformBuilder.ComposeOrder property
 
-Получает или задает порядок составления цепочки.
+Получает или задает порядок создания цепочки.
 
 ```csharp
 public ComposeOrder ComposeOrder { get; set; }

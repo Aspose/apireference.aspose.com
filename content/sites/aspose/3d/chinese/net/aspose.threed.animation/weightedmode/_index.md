@@ -19,8 +19,8 @@ public enum WeightedMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 不使用 out 和 next in 权重。 当计算需要切线信息时，将使用默认值（0.3333）。 |
-| OutWeight | `1` | Out(right) 切线被加权。 |
+| None | `0` | out 和 next in 权重均不使用。 当计算需要切线信息时，将使用默认值（0.3333）。 |
+| OutWeight | `1` | 外（右）切线被加权。 |
 | NextInWeight | `2` | 下一个（左）切线被加权。 |
 | Both | `3` | out 和 next in 切线都被加权。 |
 

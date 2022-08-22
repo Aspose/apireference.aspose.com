@@ -1,14 +1,14 @@
 ---
 title: SplitMesh
 second_title: Справочник по Aspose.3D для .NET API
-description: Разделить сетку на подсетки с помощьюVertexElementMaterialaspose.threed.entities/vertexelementmaterial. Каждая подсетка будет использовать только один материал. Выполнить разделение сетки на узле
+description: Разделить сетку на подсетки с помощьюVertexElementMaterialaspose.threed.entities/vertexelementmaterial . Каждая подсетка будет использовать только один материал. Выполнить разделение сетки на узле
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.entities/polygonmodifier/splitmesh/
 ---
 ## SplitMesh(Node, SplitMeshPolicy, bool, bool) {#splitmesh_1}
 
-Разделить сетку на подсетки с помощью[`VertexElementMaterial`](../../vertexelementmaterial). Каждая подсетка будет использовать только один материал. Выполнить разделение сетки на узле
+Разделить сетку на подсетки с помощью[`VertexElementMaterial`](../../vertexelementmaterial) . Каждая подсетка будет использовать только один материал. Выполнить разделение сетки на узле
 
 ```csharp
 public static void SplitMesh(Node node, SplitMeshPolicy policy, bool createChildNodes = false, 
@@ -20,7 +20,7 @@ public static void SplitMesh(Node node, SplitMeshPolicy policy, bool createChild
 | node | Node |  |
 | policy | SplitMeshPolicy |  |
 | createChildNodes | Boolean | Создайте дочерние узлы для каждой подсетки. |
-| removeOldMesh | Boolean | Удалить старую сетку после разделения, если этот параметр равен false, старая и новая сетки будут сосуществовать. |
+| removeOldMesh | Boolean | Удалите старую сетку после разделения, если этот параметр равен false, старая и новая сетки будут сосуществовать. |
 
 ### Смотрите также
 
@@ -34,7 +34,7 @@ public static void SplitMesh(Node node, SplitMeshPolicy policy, bool createChild
 
 ## SplitMesh(Scene, SplitMeshPolicy, bool) {#splitmesh_2}
 
-Разделить сетку на подсетки с помощью[`VertexElementMaterial`](../../vertexelementmaterial). Каждая подсетка будет использовать только один материал. Выполнить разбиение сетки на всех узлах сцены.
+Разделить сетку на подсетки с помощью[`VertexElementMaterial`](../../vertexelementmaterial) . Каждая подсетка будет использовать только один материал. Выполнить разделение сетки на всех узлах сцены.
 
 ```csharp
 public static void SplitMesh(Scene scene, SplitMeshPolicy policy, bool removeOldMesh = true)
@@ -44,7 +44,7 @@ public static void SplitMesh(Scene scene, SplitMeshPolicy policy, bool removeOld
 | --- | --- | --- |
 | scene | Scene |  |
 | policy | SplitMeshPolicy |  |
-| удалитьOldMesh | Boolean |  |
+| removeOldMesh | Boolean |  |
 
 ### Смотрите также
 
@@ -58,7 +58,7 @@ public static void SplitMesh(Scene scene, SplitMeshPolicy policy, bool removeOld
 
 ## SplitMesh(Mesh, SplitMeshPolicy) {#splitmesh}
 
-Разделить сетку на подсетки с помощью[`VertexElementMaterial`](../../vertexelementmaterial). Каждая подсетка будет использовать только один материал. Исходный меш не изменится.
+Разделить сетку на подсетки с помощью[`VertexElementMaterial`](../../vertexelementmaterial) . Каждая подсетка будет использовать только один материал. Исходная сетка не будет изменена.
 
 ```csharp
 public static Mesh[] SplitMesh(Mesh mesh, SplitMeshPolicy policy)

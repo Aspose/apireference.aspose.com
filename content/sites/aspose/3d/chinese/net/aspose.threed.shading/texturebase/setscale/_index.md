@@ -16,8 +16,8 @@ public void SetScale(double u, double v)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| u | Double | U. |
-| v | Double | V. |
+| u | Double | ü。 |
+| v | Double | 五。 |
 
 ### 也可以看看
 

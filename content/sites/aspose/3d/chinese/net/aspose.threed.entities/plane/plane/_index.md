@@ -1,14 +1,14 @@
 ---
 title: Plane
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Planeaspose.threed.entities/plane的新实例默认大小为 1x1
+description: 初始化Planeaspose.threed.entities/plane默认大小为 1x1.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/plane/plane/
 ---
 ## Plane() {#constructor}
 
-初始化[`Plane`](../../plane)的新实例，默认大小为 1x1。
+初始化[`Plane`](../../plane)默认大小为 1x1.
 
 ```csharp
 public Plane()
@@ -24,7 +24,7 @@ public Plane()
 
 ## Plane(double, double) {#constructor_1}
 
-初始化[`Plane`](../../plane)的新实例。
+初始化[`Plane`](../../plane).
 
 ```csharp
 public Plane(double length, double width)
@@ -32,8 +32,8 @@ public Plane(double length, double width)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| length | Double | 平面长度。 |
-| width | Double | 平面宽度。 |
+| length | Double | 飞机的长度。 |
+| width | Double | 平面的宽度。 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public Plane(double length, double width)
 
 ## Plane(string, double, double, int, int) {#constructor_2}
 
-初始化[`Plane`](../../plane)的新实例。
+初始化[`Plane`](../../plane).
 
 ```csharp
 public Plane(string name, double length, double width, int lengthSegments, int widthSegments)
@@ -53,9 +53,9 @@ public Plane(string name, double length, double width, int lengthSegments, int w
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
-| length | Double | 平面长度。 |
-| width | Double | 平面宽度。 |
+| name | String | 姓名。 |
+| length | Double | 飞机的长度。 |
+| width | Double | 平面的宽度。 |
 | lengthSegments | Int32 | 长度段。 |
 | widthSegments | Int32 | 宽度段。 |
 

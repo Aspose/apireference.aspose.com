@@ -1,14 +1,14 @@
 ---
 title: FromStream
 second_title: Aspose.3D for .NET API 参考
-description: 使用指定文件格式从给定流打开场景
+description: 使用指定的文件格式从给定的流中打开场景
 type: docs
 weight: 30
 url: /zh/net/aspose.threed/scene/fromstream/
 ---
 ## FromStream(Stream, FileFormat, CancellationToken) {#fromstream}
 
-使用指定文件格式从给定流打开场景。
+使用指定的文件格式从给定的流中打开场景。
 
 ```csharp
 public static Scene FromStream(Stream stream, FileFormat format, 
@@ -32,7 +32,7 @@ public static Scene FromStream(Stream stream, FileFormat format,
 
 ## FromStream(Stream, LoadOptions, CancellationToken) {#fromstream_1}
 
-使用指定的 IO 配置从给定的流中打开场景。
+使用指定的 IO 配置从给定流打开场景。
 
 ```csharp
 public static Scene FromStream(Stream stream, LoadOptions options, 
@@ -56,7 +56,7 @@ public static Scene FromStream(Stream stream, LoadOptions options,
 
 ## FromStream(Stream, CancellationToken) {#fromstream_2}
 
-从给定流打开场景
+从给定的流中打开场景
 
 ```csharp
 public static Scene FromStream(Stream stream, CancellationToken cancellationToken = default)

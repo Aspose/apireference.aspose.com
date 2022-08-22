@@ -1,14 +1,14 @@
 ---
 title: m21
 second_title: Aspose.3D for .NET API 参考
-description: m21
+description: m21.
 type: docs
 weight: 170
 url: /zh/net/aspose.threed.utilities/matrix4/m21/
 ---
 ## Matrix4.m21 field
 
-m21。
+m21.
 
 ```csharp
 public double m21;

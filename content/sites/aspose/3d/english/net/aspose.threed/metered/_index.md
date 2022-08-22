@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1450
+weight: 1460
 url: /net/aspose.threed/metered/
 ---
 ## Metered class

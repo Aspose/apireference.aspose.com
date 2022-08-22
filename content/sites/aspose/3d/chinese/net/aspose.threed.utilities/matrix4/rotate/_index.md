@@ -16,7 +16,7 @@ public static Matrix4 Rotate(double angle, Vector3 axis)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Double | 旋转弧度角 |
+| angle | Double | 以弧度为单位的旋转角度 |
 | axis | Vector3 | 旋转轴 |
 
 ### 也可以看看
@@ -30,7 +30,7 @@ public static Matrix4 Rotate(double angle, Vector3 axis)
 
 ## Rotate(Quaternion) {#rotate}
 
-从四元数创建旋转矩阵
+从四元数创建一个旋转矩阵
 
 ```csharp
 public static Matrix4 Rotate(Quaternion q)

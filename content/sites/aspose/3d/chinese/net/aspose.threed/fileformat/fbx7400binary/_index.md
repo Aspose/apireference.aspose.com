@@ -1,14 +1,14 @@
 ---
 title: FBX7400Binary
 second_title: Aspose.3D for .NET API 参考
-description: 二进制 FBX 文件格式7.4.0 版本
+description: 二进制FBX文件格式7.4.0版本
 type: docs
 weight: 140
 url: /zh/net/aspose.threed/fileformat/fbx7400binary/
 ---
 ## FileFormat.FBX7400Binary field
 
-二进制 FBX 文件格式，7.4.0 版本
+二进制FBX文件格式，7.4.0版本
 
 ```csharp
 public static readonly FileFormat FBX7400Binary;

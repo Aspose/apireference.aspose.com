@@ -1,14 +1,14 @@
 ---
 title: NegativeX
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置X左面的数据
+description: 获取或设置 XLeft face 的数据
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.render/cubefacedata-1/negativex/
 ---
 ## CubeFaceData&lt;T&gt;.NegativeX property
 
-获取或设置+X（左）面的数据
+获取或设置 +X(Left) face 的数据
 
 ```csharp
 public T NegativeX { get; set; }

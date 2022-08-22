@@ -1,14 +1,14 @@
 ---
 title: RotateEulerDegree
 second_title: Справочник по Aspose.3D для .NET API
-description: Цепочка вращения на углы Эйлера в градусах
+description: Цепочка поворотов на углы Эйлера в градусах
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.utilities/transformbuilder/rotateeulerdegree/
 ---
 ## TransformBuilder.RotateEulerDegree method
 
-Цепочка вращения на углы Эйлера в градусах
+Цепочка поворотов на углы Эйлера в градусах
 
 ```csharp
 public TransformBuilder RotateEulerDegree(double degX, double degY, double degZ)

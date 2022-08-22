@@ -1,14 +1,14 @@
 ---
 title: MirroredProfile
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать новыйMirroredProfileaspose.threed.profiles/mirroredprofileиз существующего профиля.
+description: Построить новыйMirroredProfileaspose.threed.profiles/mirroredprofile из существующего профиля.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.profiles/mirroredprofile/mirroredprofile/
 ---
 ## MirroredProfile constructor
 
-Создать новый[`MirroredProfile`](../../mirroredprofile)из существующего профиля.
+Построить новый[`MirroredProfile`](../../mirroredprofile) из существующего профиля.
 
 ```csharp
 public MirroredProfile(Profile baseProfile)

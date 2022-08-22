@@ -1,14 +1,14 @@
 ---
 title: Material
 second_title: Aspose.3D for .NET API 参考
-description: 材质定义了几何图形视觉外观所需的参数 Aspose.3D 为LambertMaterial./lambertmaterialPhongMaterial./phongmaterial和ShaderMaterial./shadermaterial
+description: 材质定义几何视觉外观所需的参数 Aspose.3D 为LambertMaterial./lambertmaterialPhongMaterial./phongmaterial和ShaderMaterial./shadermaterial
 type: docs
-weight: 2280
+weight: 2290
 url: /zh/net/aspose.threed.shading/material/
 ---
 ## Material class
 
-材质定义了几何图形视觉外观所需的参数。 Aspose.3D 为[`LambertMaterial`](../lambertmaterial),[`PhongMaterial`](../phongmaterial)和[`ShaderMaterial`](../shadermaterial)
+材质定义几何视觉外观所需的参数。 Aspose.3D 为[`LambertMaterial`](../lambertmaterial),[`PhongMaterial`](../phongmaterial)和[`ShaderMaterial`](../shadermaterial)
 
 ```csharp
 public abstract class Material : A3DObject, IEnumerable<TextureSlot>
@@ -25,25 +25,25 @@ public abstract class Material : A3DObject, IEnumerable<TextureSlot>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | 获取枚举器以枚举内部纹理槽。 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | 从指定槽获取纹理，可以是材质的属性名称或着色器的参数名称 |
+| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | 从指定槽获取纹理，可以是材质的属性名或shader的参数名 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
-| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | 将纹理设置到指定插槽 |
+| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | 将纹理设置为指定槽 |
 | override [ToString](../../aspose.threed.shading/material/tostring)() | 将对象格式化为字符串 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [MapAmbient](../../aspose.threed.shading/material/mapambient) | 用在[`SetTexture`](./settexture)to分配环境纹理映射。 |
-| const [MapDiffuse](../../aspose.threed.shading/material/mapdiffuse) | 用在[`SetTexture`](./settexture)to分配一个漫反射纹理映射。 |
-| const [MapEmissive](../../aspose.threed.shading/material/mapemissive) | 用在[`SetTexture`](./settexture)to分配一个自发光纹理映射。 |
-| const [MapNormal](../../aspose.threed.shading/material/mapnormal) | 用在[`SetTexture`](./settexture)to分配一个正常的纹理映射。 |
-| const [MapSpecular](../../aspose.threed.shading/material/mapspecular) | 用在[`SetTexture`](./settexture)to分配镜面纹理映射。 |
+| const [MapAmbient](../../aspose.threed.shading/material/mapambient) | 用于[`SetTexture`](./settexture)分配环境纹理映射。 |
+| const [MapDiffuse](../../aspose.threed.shading/material/mapdiffuse) | 用于[`SetTexture`](./settexture)分配一个漫反射纹理映射。 |
+| const [MapEmissive](../../aspose.threed.shading/material/mapemissive) | 用于[`SetTexture`](./settexture)分配一个发射纹理映射。 |
+| const [MapNormal](../../aspose.threed.shading/material/mapnormal) | 用于[`SetTexture`](./settexture)分配一个正常的纹理映射。 |
+| const [MapSpecular](../../aspose.threed.shading/material/mapspecular) | 用于[`SetTexture`](./settexture)分配镜面纹理映射。 |
 
 ### 也可以看看
 

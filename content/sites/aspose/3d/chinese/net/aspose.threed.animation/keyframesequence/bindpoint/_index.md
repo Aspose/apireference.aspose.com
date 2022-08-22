@@ -1,14 +1,14 @@
 ---
 title: BindPoint
 second_title: Aspose.3D for .NET API 参考
-description: 获取拥有这条曲线的属性绑定点
+description: 获取拥有此曲线的属性绑定点
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.animation/keyframesequence/bindpoint/
 ---
 ## KeyframeSequence.BindPoint property
 
-获取拥有这条曲线的属性绑定点
+获取拥有此曲线的属性绑定点
 
 ```csharp
 public BindPoint BindPoint { get; }

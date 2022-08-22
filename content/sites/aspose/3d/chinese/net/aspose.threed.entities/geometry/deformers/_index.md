@@ -1,14 +1,14 @@
 ---
 title: Deformers
 second_title: Aspose.3D for .NET API 参考
-description: 获取与此几何体关联的所有变形器
+description: 获取与此几何图形关联的所有变形器
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/geometry/deformers/
 ---
 ## Geometry.Deformers property
 
-获取与此几何体关联的所有变形器。
+获取与此几何图形关联的所有变形器。
 
 ```csharp
 public ICollection<Deformer> Deformers { get; }

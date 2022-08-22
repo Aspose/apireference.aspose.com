@@ -1,14 +1,14 @@
 ---
 title: MapAmbient
 second_title: Справочник по Aspose.3D для .NET API
-description: Используется вSetTextureaspose.threed.shading/material/settextureдля назначить наложение текстуры окружающей среды.
+description: Используется вSetTextureaspose.threed.shading/material/settexture чтобы назначить наложение текстуры окружающей среды.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.shading/material/mapambient/
 ---
 ## Material.MapAmbient field
 
-Используется в[`SetTexture`](../settexture)для назначить наложение текстуры окружающей среды.
+Используется в[`SetTexture`](../settexture) чтобы назначить наложение текстуры окружающей среды.
 
 ```csharp
 public const string MapAmbient;

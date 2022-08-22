@@ -1,14 +1,14 @@
 ---
 title: Primitive
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Primitiveaspose.threed.entities/primitive类的新实例
+description: 初始化Primitiveaspose.threed.entities/primitive类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/primitive/primitive/
 ---
 ## Primitive constructor
 
-初始化[`Primitive`](../../primitive)类的新实例。
+初始化[`Primitive`](../../primitive)类.
 
 ```csharp
 public Primitive(string name)
@@ -16,7 +16,7 @@ public Primitive(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 
 ### 也可以看看
 

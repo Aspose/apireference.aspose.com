@@ -1,14 +1,14 @@
 ---
 title: RotationMode
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置截锥体的方向模式 该属性仅在Frustum时有效目标为空 如果值为FixedTarget则方向始终由属性LookAt 否则LookAtaspose.threed.entities/frustum/lookat总是由Direction
+description: 获取或设置截锥体的方向模式 该属性仅在Targetaspose.threed.entities/frustum/target为空 如果值为FixedTarget 方向总是由属性计算LookAtaspose.threed.entities/frustum/lookat 否则LookAtaspose.threed.entities/frustum/lookat总是由Directionaspose.threed.entities/frustum/direction
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.entities/frustum/rotationmode/
 ---
 ## Frustum.RotationMode property
 
-获取或设置截锥体的方向模式 该属性仅在Frustum时有效。目标为空。 如果值为FixedTarget，则方向始终由属性LookAt 否则[`LookAt`](../lookat)总是由Direction
+获取或设置截锥体的方向模式 该属性仅在[`Target`](../target)为空。 如果值为FixedTarget 方向总是由属性计算[`LookAt`](../lookat) 否则[`LookAt`](../lookat)总是由[`Direction`](../direction)
 
 ```csharp
 public RotationMode RotationMode { get; set; }

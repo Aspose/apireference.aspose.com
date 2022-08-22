@@ -1,14 +1,14 @@
 ---
 title: FlipCoordinateSystem
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置导入时是否翻转控制点/法线坐标系
+description: 获取或设置在导入时是否翻转控制点/法线的坐标系
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.formats/stlloadoptions/flipcoordinatesystem/
 ---
 ## StlLoadOptions.FlipCoordinateSystem property
 
-获取或设置导入时是否翻转控制点/法线坐标系。
+获取或设置在导入时是否翻转控制点/法线的坐标系。
 
 ```csharp
 public bool FlipCoordinateSystem { get; set; }

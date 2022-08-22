@@ -1,14 +1,14 @@
 ---
 title: Shader
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置用于渲染几何体的着色器实例
+description: 获取或设置用于渲染几何图形的着色器实例
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.render/renderer/shader/
 ---
 ## Renderer.Shader property
 
-获取或设置用于渲染几何体的着色器实例。
+获取或设置用于渲染几何图形的着色器实例。
 
 ```csharp
 public ShaderProgram Shader { get; set; }

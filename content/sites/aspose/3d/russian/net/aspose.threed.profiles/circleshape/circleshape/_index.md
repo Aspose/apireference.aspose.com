@@ -1,14 +1,14 @@
 ---
 title: CircleShape
 second_title: Справочник по Aspose.3D для .NET API
-description: Создайте профильCircleShapeaspose.threed.profiles/circleshapeс радиусом по умолчанию 5.
+description: ПостроитьCircleShapeaspose.threed.profiles/circleshape профиль с радиусом по умолчанию 5.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.profiles/circleshape/circleshape/
 ---
 ## CircleShape() {#constructor}
 
-Создайте профиль[`CircleShape`](../../circleshape)с радиусом по умолчанию (5).
+Построить[`CircleShape`](../../circleshape) профиль с радиусом по умолчанию (5).
 
 ```csharp
 public CircleShape()
@@ -24,7 +24,7 @@ public CircleShape()
 
 ## CircleShape(double) {#constructor_1}
 
-Построить профиль[`CircleShape`](../../circleshape)с заданным радиусом.
+Построить[`CircleShape`](../../circleshape) профиль с указанным радиусом.
 
 ```csharp
 public CircleShape(double radius)
@@ -32,7 +32,7 @@ public CircleShape(double radius)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| радиус | Double |  |
+| radius | Double |  |
 
 ### Смотрите также
 

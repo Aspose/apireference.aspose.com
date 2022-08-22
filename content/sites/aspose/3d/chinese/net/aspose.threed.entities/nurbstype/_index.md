@@ -18,9 +18,9 @@ public enum NurbsType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Open | `0` | [`NurbsCurve`](../nurbscurve)是一条开放曲线。 |
-| Closed | `1` | [`NurbsCurve`](../nurbscurve)是一条闭合曲线，其最后一个控制点等于其第一个控制点。 |
-| Periodic | `2` | [`NurbsCurve`](../nurbscurve)是一条周期曲线。 |
+| Open | `0` | 的[`NurbsCurve`](../nurbscurve)是一条开放曲线。 |
+| Closed | `1` | 的[`NurbsCurve`](../nurbscurve)是一条闭合曲线，其最后一个控制点等于其第一个控制点。 |
+| Periodic | `2` | 的[`NurbsCurve`](../nurbscurve)是一条周期曲线。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: OffsetHeight
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает смещение для высоты
+description: Получает или задает смещение для height
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/relativerectangle/offsetheight/
 ---
 ## RelativeRectangle.OffsetHeight property
 
-Получает или задает смещение для высоты
+Получает или задает смещение для height
 
 ```csharp
 public int OffsetHeight { get; set; }

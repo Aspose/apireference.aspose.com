@@ -18,8 +18,8 @@ public class UsdSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UsdSaveOptions](usdsaveoptions#constructor)() | 用USD初始化一个新的[`UsdSaveOptions`](../usdsaveoptions) 格式 |
-| [UsdSaveOptions](usdsaveoptions#constructor_1)(FileFormat) | 使用指定的 USD/USDZ 格式初始化一个新的[`UsdSaveOptions`](../usdsaveoptions)。 |
+| [UsdSaveOptions](usdsaveoptions#constructor)() | 初始化一个新的[`UsdSaveOptions`](../usdsaveoptions)和[`USD`](../../aspose.threed/fileformat/usd)格式 |
+| [UsdSaveOptions](usdsaveoptions#constructor_1)(FileFormat) | 初始化一个新的[`UsdSaveOptions`](../usdsaveoptions)具有指定的 USD/USDZ 格式。 |
 
 ## 特性
 
@@ -28,10 +28,11 @@ public class UsdSaveOptions : SaveOptions
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
 | [ExportMetaData](../../aspose.threed.formats/usdsaveoptions/exportmetadata) { get; set; } | 通过 USD 的 customData 字段导出节点的属性。 |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
-| [PrimitiveToMesh](../../aspose.threed.formats/usdsaveoptions/primitivetomesh) { get; set; } | 在导出过程中将原始实体转换为网格。 或者直接将原语编码到输出文件（将使用 Aspose 对 Dish、Torus 等非官方原语的扩展定义） 默认值为 true。 |
+| [MaterialConverter](../../aspose.threed.formats/usdsaveoptions/materialconverter) { get; set; } | 将几何体材质转换为 PBR 材质的自定义转换器 如果未指定，USD 导出器将自动将标准材质转换为 PBR 材质。 默认值为 null |
+| [PrimitiveToMesh](../../aspose.threed.formats/usdsaveoptions/primitivetomesh) { get; set; } | 在导出过程中将图元实体转换为网格。 或直接将图元编码到输出文件（将使用 Aspose 的扩展定义，用于 Dish、Torus 等非官方图元） 默认值为 true。 |
 
 ### 也可以看看
 

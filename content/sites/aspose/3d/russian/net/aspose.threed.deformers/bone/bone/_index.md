@@ -1,14 +1,14 @@
 ---
 title: Bone
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаBoneaspose.threed.deformers/bone.
+description: Инициализирует новый экземплярBoneaspose.threed.deformers/bone класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.deformers/bone/bone/
 ---
 ## Bone(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Bone`](../../bone).
+Инициализирует новый экземпляр[`Bone`](../../bone) класс.
 
 ```csharp
 public Bone(string name)
@@ -28,7 +28,7 @@ public Bone(string name)
 
 ## Bone() {#constructor}
 
-Инициализирует новый экземпляр класса[`Bone`](../../bone).
+Инициализирует новый экземпляр[`Bone`](../../bone) класс.
 
 ```csharp
 public Bone()

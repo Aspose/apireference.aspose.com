@@ -8,7 +8,7 @@ url: /zh/net/aspose.threed.utilities/fmatrix4/inverse/
 ---
 ## FMatrix4.Inverse method
 
-计算当前实例的逆矩阵。
+计算当前实例的逆矩阵
 
 ```csharp
 public FMatrix4 Inverse()

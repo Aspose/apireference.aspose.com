@@ -1,14 +1,14 @@
 ---
 title: EndPoint
 second_title: Aspose.3D for .NET API 参考
-description: 从笛卡尔点构造EndPointaspose.threed.entities/endpoint
+description: 构造一个EndPointaspose.threed.entities/endpoint从笛卡尔点.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/endpoint/endpoint/
 ---
 ## EndPoint(Vector3) {#constructor}
 
-从笛卡尔点构造[`EndPoint`](../../endpoint)。
+构造一个[`EndPoint`](../../endpoint)从笛卡尔点.
 
 ```csharp
 public EndPoint(Vector3 point)
@@ -29,7 +29,7 @@ public EndPoint(Vector3 point)
 
 ## EndPoint(double) {#constructor_1}
 
-从实参构造[`EndPoint`](../../endpoint)。
+构造一个[`EndPoint`](../../endpoint)来自一个真实的参数。
 
 ```csharp
 public EndPoint(double v)

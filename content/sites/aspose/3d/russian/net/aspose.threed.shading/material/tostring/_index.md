@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.3D для .NET API
-description: Форматирует объект в строку
+description: Форматирует объект в string
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.shading/material/tostring/
 ---
 ## Material.ToString method
 
-Форматирует объект в строку
+Форматирует объект в string
 
 ```csharp
 public override string ToString()

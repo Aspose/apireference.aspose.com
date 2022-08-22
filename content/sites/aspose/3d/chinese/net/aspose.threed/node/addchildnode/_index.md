@@ -16,7 +16,7 @@ public void AddChildNode(Node node)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| node | Node | 子节点待附 |
+| node | Node | 要附加的子节点 |
 
 ### 也可以看看
 

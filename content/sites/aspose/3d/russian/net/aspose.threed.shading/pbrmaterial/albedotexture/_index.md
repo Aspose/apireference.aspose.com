@@ -1,14 +1,14 @@
 ---
 title: AlbedoTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает текстуру для альбедо
+description: Получает или задает текстуру для albedo
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.shading/pbrmaterial/albedotexture/
 ---
 ## PbrMaterial.AlbedoTexture property
 
-Получает или устанавливает текстуру для альбедо
+Получает или задает текстуру для albedo
 
 ```csharp
 public TextureBase AlbedoTexture { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CullFaceMode
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает какое лицо будет отбраковано.
+description: Получает или задает какая грань будет отбракована.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.render/renderstate/cullfacemode/
 ---
 ## RenderState.CullFaceMode property
 
-Получает или задает, какое лицо будет отбраковано.
+Получает или задает, какая грань будет отбракована.
 
 ```csharp
 public CullFaceMode CullFaceMode { get; set; }

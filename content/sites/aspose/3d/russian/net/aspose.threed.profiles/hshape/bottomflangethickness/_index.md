@@ -1,7 +1,7 @@
 ---
 title: BottomFlangeThickness
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает толщину полки Н-образной формы.
+description: Получает или задает толщину полки Нобразной формы.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.profiles/hshape/bottomflangethickness/

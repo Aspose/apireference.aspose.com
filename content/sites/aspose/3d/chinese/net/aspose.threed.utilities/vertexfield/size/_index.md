@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Aspose.3D for .NET API 参考
-description: 该字段的字节大小
+description: 此字段的大小以字节为单位
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.utilities/vertexfield/size/
 ---
 ## VertexField.Size property
 
-该字段的字节大小
+此字段的大小（以字节为单位）
 
 ```csharp
 public int Size { get; }

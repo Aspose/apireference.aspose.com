@@ -1,14 +1,14 @@
 ---
 title: StepMode
 second_title: Aspose.3D for .NET API 参考
-description: 插值步进模式
+description: 插补步进模式
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.animation/stepmode/
 ---
 ## StepMode enumeration
 
-插值步进模式。
+插补步进模式。
 
 ```csharp
 public enum StepMode
@@ -19,7 +19,7 @@ public enum StepMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | PreviousValue | `0` | 段的曲线值始终使用前一个关键帧的值 |
-| NextValue | `1` | 段的曲线值始终使用来自下一个关键帧的值 |
+| NextValue | `1` | 段的曲线值总是使用下一个关键帧的值 |
 
 ### 也可以看看
 

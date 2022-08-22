@@ -1,14 +1,14 @@
 ---
 title: EdgeRadius
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает радиус ребра на ребре фланца.
+description: Получает или задает радиус ребра в ребре полки.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.profiles/ushape/edgeradius/
 ---
 ## UShape.EdgeRadius property
 
-Получает или задает радиус ребра на ребре фланца.
+Получает или задает радиус ребра в ребре полки.
 
 ```csharp
 public double EdgeRadius { get; set; }

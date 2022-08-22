@@ -1,14 +1,14 @@
 ---
 title: Bind
 second_title: Справочник по Aspose.3D для .NET API
-description: Привязать буфер к текущему набору дескрипторов
+description: Привязать буфер к текущему дескриптору set
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/descriptorsetupdater/bind/
 ---
 ## Bind(IBuffer, int, int) {#bind_1}
 
-Привязать буфер к текущему набору дескрипторов
+Привязать буфер к текущему дескриптору set
 
 ```csharp
 public DescriptorSetUpdater Bind(IBuffer buffer, int offset, int size)
@@ -16,13 +16,13 @@ public DescriptorSetUpdater Bind(IBuffer buffer, int offset, int size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| buffer | IBuffer | Какой буфер использовать bind |
+| buffer | IBuffer | Какой буфер привязать |
 | offset | Int32 | Смещение буфера для привязки |
 | size | Int32 | Размер буфера для привязки |
 
 ### Возвращаемое значение
 
-Возврат текущего экземпляра для операции цепочки
+Возвращает текущий экземпляр для цепочки операций
 
 ### Смотрите также
 
@@ -47,7 +47,7 @@ public DescriptorSetUpdater Bind(IBuffer buffer)
 
 ### Возвращаемое значение
 
-Возврат текущего экземпляра для операции цепочки
+Возвращает текущий экземпляр для цепочки операций
 
 ### Смотрите также
 
@@ -68,12 +68,12 @@ public DescriptorSetUpdater Bind(int binding, IBuffer buffer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| binding | Int32 | Местоположение привязки |
+| binding | Int32 | Место привязки |
 | buffer | IBuffer | Весь буфер для привязки |
 
 ### Возвращаемое значение
 
-Возврат текущего экземпляра для операции цепочки
+Возвращает текущий экземпляр для цепочки операций
 
 ### Смотрите также
 
@@ -94,14 +94,14 @@ public DescriptorSetUpdater Bind(int binding, IBuffer buffer, int offset, int si
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| binding | Int32 | Местоположение привязки |
+| binding | Int32 | Место привязки |
 | buffer | IBuffer | Буфер для привязки |
 | offset | Int32 | Смещение буфера для привязки |
 | size | Int32 | Размер буфера для привязки |
 
 ### Возвращаемое значение
 
-Возврат текущего экземпляра для операции цепочки
+Возвращает текущий экземпляр для цепочки операций
 
 ### Смотрите также
 
@@ -114,7 +114,7 @@ public DescriptorSetUpdater Bind(int binding, IBuffer buffer, int offset, int si
 
 ## Bind(ITextureUnit) {#bind_2}
 
-Привязать модуль текстуры к текущему набору дескрипторов
+Привязать блок текстуры к текущему дескриптору set
 
 ```csharp
 public DescriptorSetUpdater Bind(ITextureUnit texture)
@@ -122,11 +122,11 @@ public DescriptorSetUpdater Bind(ITextureUnit texture)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| texture | ITextureUnit | Текстура юнит для привязки |
+| texture | ITextureUnit | Текстурный блок для привязки |
 
 ### Возвращаемое значение
 
-Возврат текущего экземпляра для операции объединения
+Возвращает текущий экземпляр для цепочки операций
 
 ### Смотрите также
 
@@ -139,7 +139,7 @@ public DescriptorSetUpdater Bind(ITextureUnit texture)
 
 ## Bind(int, ITextureUnit) {#bind_5}
 
-Привязать модуль текстуры к текущему набору дескрипторов
+Привязать блок текстуры к текущему дескриптору set
 
 ```csharp
 public DescriptorSetUpdater Bind(int binding, ITextureUnit texture)
@@ -147,12 +147,12 @@ public DescriptorSetUpdater Bind(int binding, ITextureUnit texture)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| binding | Int32 | Привязка location |
-| texture | ITextureUnit | Блок текстуры для привязки |
+| binding | Int32 | Место привязки |
+| texture | ITextureUnit | Текстурный блок для привязки |
 
 ### Возвращаемое значение
 
-Возвращает текущий экземпляр для операции объединения
+Возвращает текущий экземпляр для цепочки операций
 
 ### Смотрите также
 

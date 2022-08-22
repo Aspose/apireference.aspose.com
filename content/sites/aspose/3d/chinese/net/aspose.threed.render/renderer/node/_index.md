@@ -1,14 +1,14 @@
 ---
 title: Node
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置用于提供世界变换矩阵的Nodeaspose.threed.render/renderer/node实例
+description: 获取或设置Nodeaspose.threed.render/renderer/node用于提供世界变换矩阵的实例
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.render/renderer/node/
 ---
 ## Renderer.Node property
 
-获取或设置用于提供世界变换矩阵的`Node`实例。
+获取或设置`Node`用于提供世界变换矩阵的实例。
 
 ```csharp
 public Node Node { get; set; }

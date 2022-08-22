@@ -1,14 +1,14 @@
 ---
 title: Excluded
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否在导出时排除该实体
+description: 获取或设置导出时是否排除该实体
 type: docs
 weight: 20
 url: /zh/net/aspose.threed/entity/excluded/
 ---
 ## Entity.Excluded property
 
-获取或设置是否在导出时排除该实体。
+获取或设置导出时是否排除该实体。
 
 ```csharp
 public bool Excluded { get; set; }

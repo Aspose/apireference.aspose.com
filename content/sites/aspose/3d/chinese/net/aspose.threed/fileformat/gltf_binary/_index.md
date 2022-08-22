@@ -1,14 +1,14 @@
 ---
 title: GLTF_Binary
 second_title: Aspose.3D for .NET API 参考
-description: Khronos Group 二进制格式的 glTF
+description: Khronos Group 的二进制格式 glTF
 type: docs
 weight: 240
 url: /zh/net/aspose.threed/fileformat/gltf_binary/
 ---
 ## FileFormat.GLTF_Binary field
 
-Khronos Group 二进制格式的 glTF
+Khronos Group 的二进制格式 glTF
 
 ```csharp
 public static readonly FileFormat GLTF_Binary;

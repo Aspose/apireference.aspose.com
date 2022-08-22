@@ -1,14 +1,14 @@
 ---
 title: StlSaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземплярStlSaveOptionsaspose.threed.formats/stlsaveoptions.
+description: Инициализирует новыйStlSaveOptionsaspose.threed.formats/stlsaveoptions экземпляр.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/stlsaveoptions/stlsaveoptions/
 ---
 ## StlSaveOptions() {#constructor}
 
-Инициализирует новый экземпляр[`StlSaveOptions`](../../stlsaveoptions).
+Инициализирует новый[`StlSaveOptions`](../../stlsaveoptions) экземпляр.
 
 ```csharp
 public StlSaveOptions()
@@ -24,7 +24,7 @@ public StlSaveOptions()
 
 ## StlSaveOptions(FileContentType) {#constructor_1}
 
-Инициализирует новый экземпляр[`StlSaveOptions`](../../stlsaveoptions).
+Инициализирует новый[`StlSaveOptions`](../../stlsaveoptions) экземпляр.
 
 ```csharp
 public StlSaveOptions(FileContentType contentType)

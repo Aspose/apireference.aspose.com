@@ -1,14 +1,14 @@
 ---
 title: Encode
 second_title: Справочник по Aspose.3D для .NET API
-description: Кодировать сущность и сохранять результат в поток.
+description: Закодируйте объект и сохраните результат в потоке.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/plyformat/encode/
 ---
 ## Encode(Entity, Stream, PlySaveOptions) {#encode}
 
-Кодировать сущность и сохранять результат в поток.
+Закодируйте объект и сохраните результат в потоке.
 
 ```csharp
 public void Encode(Entity entity, Stream stream, PlySaveOptions opt = null)
@@ -16,8 +16,8 @@ public void Encode(Entity entity, Stream stream, PlySaveOptions opt = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entity | Entity | Сущность для кодирования |
-| stream | Stream | Поток для запись, этот метод не закроет этот поток |
+| entity | Entity | Объект для кодирования |
+| stream | Stream | Поток для записи, этот метод не закроет этот поток |
 | opt | PlySaveOptions | Сохранить параметры |
 
 ### Смотрите также
@@ -41,8 +41,8 @@ public void Encode(Entity entity, string fileName, PlySaveOptions opt = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | entity | Entity | Объект для кодирования |
-| fileName | String | Файл для запись в |
-| opt | PlySaveOptions | Параметры сохранения |
+| fileName | String | Файл для записи |
+| opt | PlySaveOptions | Сохранить параметры |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: PushConstant
 second_title: Aspose.3D for .NET API 参考
 description: 通过推送常量向着色器提供数据的实用程序
 type: docs
-weight: 2020
+weight: 2030
 url: /zh/net/aspose.threed.render/pushconstant/
 ---
 ## PushConstant class
@@ -18,7 +18,7 @@ public class PushConstant
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PushConstant](pushconstant)() | [`PushConstant`](../pushconstant) |
+| [PushConstant](pushconstant)() | 的构造函数[`PushConstant`](../pushconstant) |
 
 ## 方法
 
@@ -27,10 +27,10 @@ public class PushConstant
 | [Commit](../../aspose.threed.render/pushconstant/commit)(ShaderStage, ICommandList) | 将准备好的数据提交到图形管道。 |
 | [Write](../../aspose.threed.render/pushconstant/write#write_4)(float) | 将浮点值写入常量 |
 | [Write](../../aspose.threed.render/pushconstant/write#write)(FMatrix4) | 将矩阵写入常量 |
-| [Write](../../aspose.threed.render/pushconstant/write#write_1)(FVector3) | 将三分量向量写入常量 |
-| [Write](../../aspose.threed.render/pushconstant/write#write_2)(FVector4) | 将 4 分量向量写入常量 |
-| [Write](../../aspose.threed.render/pushconstant/write#write_3)(int) | 将 int 值写入常量 |
-| [Write](../../aspose.threed.render/pushconstant/write#write_5)(float, float, float, float) | 将 4 分量向量写入常量 |
+| [Write](../../aspose.threed.render/pushconstant/write#write_1)(FVector3) | 将一个 3 分量向量写入常量 |
+| [Write](../../aspose.threed.render/pushconstant/write#write_2)(FVector4) | 将一个 4 分量向量写入常量 |
+| [Write](../../aspose.threed.render/pushconstant/write#write_3)(int) | 将一个 int 值写入常量 |
+| [Write](../../aspose.threed.render/pushconstant/write#write_5)(float, float, float, float) | 将一个 4 分量向量写入常量 |
 
 ### 也可以看看
 

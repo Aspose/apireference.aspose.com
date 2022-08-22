@@ -1,14 +1,14 @@
 ---
 title: BuildTangentBinormal
 second_title: Aspose.3D for .NET API 参考
-description: 这将在场景的所有网格上创建切线和副法线 需要法线如果网格上不存在法线它也会从位置创建正常数据 UV 也是必需的如果没有定义 UV网格将被忽略
+description: 这将在场景的所有网格上创建切线和副法线 需要法线如果网格上不存在法线它也会从位置创建法线数据 还需要UV如果没有UV网格将被忽略已定义
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/polygonmodifier/buildtangentbinormal/
 ---
 ## BuildTangentBinormal(Scene) {#buildtangentbinormal_1}
 
-这将在场景的所有网格上创建切线和副法线 需要法线，如果网格上不存在法线，它也会从位置创建正常数据。 UV 也是必需的，如果没有定义 UV，网格将被忽略。
+这将在场景的所有网格上创建切线和副法线 需要法线，如果网格上不存在法线，它也会从位置创建法线数据。 还需要UV，如果没有UV，网格将被忽略已定义。
 
 ```csharp
 public static void BuildTangentBinormal(Scene scene)
@@ -25,7 +25,7 @@ public static void BuildTangentBinormal(Scene scene)
 
 ## BuildTangentBinormal(Mesh) {#buildtangentbinormal}
 
-这将在网格上创建切线和副法线 需要法线，如果网格上不存在法线，它也会创建法线来自位置的数据。 UV 也是必需的，如果没有找到 UV 则会引发异常。
+这将在网格上创建切线和副法线 需要法线，如果网格上不存在法线，它也会从位置创建法线数据。 还需要 UV，如果没有找到 UV 将引发异常。
 
 ```csharp
 public static void BuildTangentBinormal(Mesh mesh)

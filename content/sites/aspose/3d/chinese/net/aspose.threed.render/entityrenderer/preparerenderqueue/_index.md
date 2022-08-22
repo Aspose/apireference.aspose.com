@@ -18,7 +18,7 @@ public virtual void PrepareRenderQueue(Renderer renderer, IRenderQueue queue, No
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | renderer | Renderer | 当前渲染器实例 |
-| queue | IRenderQueue | 渲染队列用于管理渲染任务 |
+| queue | IRenderQueue | 用于管理渲染任务的渲染队列 |
 | node | Node | 当前节点 |
 | entity | Entity | 需要渲染的实体 |
 

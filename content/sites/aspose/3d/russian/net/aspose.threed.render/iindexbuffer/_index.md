@@ -3,7 +3,7 @@ title: IIndexBuffer
 second_title: Справочник по Aspose.3D для .NET API
 description: Индексный буфер описывает геометрию используемую в конвейере рендеринга.
 type: docs
-weight: 1850
+weight: 1860
 url: /ru/net/aspose.threed.render/iindexbuffer/
 ---
 ## IIndexBuffer interface

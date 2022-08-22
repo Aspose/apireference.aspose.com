@@ -32,7 +32,7 @@ public RvmSaveOptions(FileContentType contentType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| contentType | FileContentType | Текстовый или бинарный файл RVM? |
+| contentType | FileContentType | Текстовый или двоичный файл RVM? |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: MapSpecular
 second_title: Справочник по Aspose.3D для .NET API
-description: Используется вSetTextureaspose.threed.shading/material/settextureдля назначить зеркальное отображение текстуры.
+description: Используется вSetTextureaspose.threed.shading/material/settexture чтобы назначить зеркальное отображение текстуры.
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.shading/material/mapspecular/
 ---
 ## Material.MapSpecular field
 
-Используется в[`SetTexture`](../settexture)для назначить зеркальное отображение текстуры.
+Используется в[`SetTexture`](../settexture) чтобы назначить зеркальное отображение текстуры.
 
 ```csharp
 public const string MapSpecular;

@@ -1,14 +1,14 @@
 ---
 title: FromMesh
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать TriMesh из данного объекта сетки с заданным расположением вершин.
+description: Создать TriMesh из заданного объекта сетки с заданным расположением вершин.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/trimesh/frommesh/
 ---
 ## FromMesh(VertexDeclaration, Mesh) {#frommesh_1}
 
-Создать TriMesh из данного объекта сетки с заданным расположением вершин.
+Создать TriMesh из заданного объекта сетки с заданным расположением вершин.
 
 ```csharp
 public static TriMesh FromMesh(VertexDeclaration declaration, Mesh mesh)
@@ -16,7 +16,7 @@ public static TriMesh FromMesh(VertexDeclaration declaration, Mesh mesh)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| объявление | VertexDeclaration |  |
+| declaration | VertexDeclaration |  |
 | mesh | Mesh |  |
 
 ### Смотрите также
@@ -31,7 +31,7 @@ public static TriMesh FromMesh(VertexDeclaration declaration, Mesh mesh)
 
 ## FromMesh(Mesh, bool) {#frommesh}
 
-Создать TriMesh из заданного объекта сетки, объявление вершин основано на структуре входного меша.
+Создать TriMesh из заданного объекта меша, объявление вершин основано на структуре входного меша.
 
 ```csharp
 public static TriMesh FromMesh(Mesh mesh, bool useFloat = true)
@@ -40,11 +40,11 @@ public static TriMesh FromMesh(Mesh mesh, bool useFloat = true)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | mesh | Mesh |  |
-| useFloat | Boolean | Использовать тип float вместо типа double для каждого компонента вершинного элемента. |
+| useFloat | Boolean | Используйте тип float вместо типа double для каждого компонента вершинного элемента. |
 
 ### Возвращаемое значение
 
-[`TriMesh`](../../trimesh)создается из заданногоСетка
+[`TriMesh`](../../trimesh) генерируется из данных[`Mesh`](../../mesh)
 
 ### Смотрите также
 

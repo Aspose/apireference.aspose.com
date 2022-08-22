@@ -16,7 +16,7 @@ public TriMesh(string name, VertexDeclaration declaration)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя этого TriMesh |
+| name | String | Название этого TriMesh |
 | declaration | VertexDeclaration | Объявление вершины |
 
 ### Смотрите также

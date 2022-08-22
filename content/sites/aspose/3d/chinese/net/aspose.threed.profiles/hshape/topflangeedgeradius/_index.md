@@ -1,14 +1,14 @@
 ---
 title: TopFlangeEdgeRadius
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置顶部法兰下边缘的半径
+description: 获取或设置上翼缘下边缘的半径
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.profiles/hshape/topflangeedgeradius/
 ---
 ## HShape.TopFlangeEdgeRadius property
 
-获取或设置顶部法兰下边缘的半径。
+获取或设置上翼缘下边缘的半径。
 
 ```csharp
 public double TopFlangeEdgeRadius { get; set; }

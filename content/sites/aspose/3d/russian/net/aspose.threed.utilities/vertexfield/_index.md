@@ -3,7 +3,7 @@ title: VertexField
 second_title: Справочник по Aspose.3D для .NET API
 description: Описание структуры памяти поля вершины.
 type: docs
-weight: 2690
+weight: 2680
 url: /ru/net/aspose.threed.utilities/vertexfield/
 ---
 ## VertexField class
@@ -29,8 +29,8 @@ public class VertexField : IComparable<VertexField>
 
 | Имя | Описание |
 | --- | --- |
-| [CompareTo](../../aspose.threed.utilities/vertexfield/compareto)(VertexField) | Сравнивает этот экземпляр с указанным объектом и возвращает индикацию их относительных значений. |
-| override [Equals](../../aspose.threed.utilities/vertexfield/equals)(object) | Определяет, имеют ли этот экземпляр и указанный объект, который также должен быть объектом[`VertexField`](../vertexfield), одно и то же значение. |
+| [CompareTo](../../aspose.threed.utilities/vertexfield/compareto)(VertexField) | Сравнивает этот экземпляр с указанным объектом и возвращает указание их относительных значений. |
+| override [Equals](../../aspose.threed.utilities/vertexfield/equals)(object) | Определяет, являются ли этот экземпляр и указанный объект, который также должен быть[`VertexField`](../vertexfield) объект, имеют одинаковую стоимость. |
 | override [GetHashCode](../../aspose.threed.utilities/vertexfield/gethashcode)() | Возвращает хэш-код для этой строки. |
 | override [ToString](../../aspose.threed.utilities/vertexfield/tostring)() | Получает строковое представление[`VertexField`](../vertexfield) |
 

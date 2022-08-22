@@ -1,14 +1,14 @@
 ---
 title: PointCloud
 second_title: Aspose.3D for .NET API 参考
-description: PointCloudaspose.threed.entities/pointcloud
+description: 的构造函数PointCloudaspose.threed.entities/pointcloud
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/pointcloud/pointcloud/
 ---
 ## PointCloud(string) {#constructor_1}
 
-[`PointCloud`](../../pointcloud)
+的构造函数[`PointCloud`](../../pointcloud)
 
 ```csharp
 public PointCloud(string name)
@@ -28,7 +28,7 @@ public PointCloud(string name)
 
 ## PointCloud() {#constructor}
 
-[`PointCloud`](../../pointcloud)
+的构造函数[`PointCloud`](../../pointcloud)
 
 ```csharp
 public PointCloud()

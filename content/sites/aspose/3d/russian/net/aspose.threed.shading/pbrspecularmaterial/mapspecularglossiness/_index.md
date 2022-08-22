@@ -1,14 +1,14 @@
 ---
 title: MapSpecularGlossiness
 second_title: Справочник по Aspose.3D для .NET API
-description: Карта текстур для зеркального блеска
+description: Карта текстуры для зеркального блеска
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.shading/pbrspecularmaterial/mapspecularglossiness/
 ---
 ## PbrSpecularMaterial.MapSpecularGlossiness field
 
-Карта текстур для зеркального блеска
+Карта текстуры для зеркального блеска
 
 ```csharp
 public const string MapSpecularGlossiness;

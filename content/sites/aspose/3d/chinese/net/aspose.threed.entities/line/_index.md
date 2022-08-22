@@ -1,14 +1,14 @@
 ---
 title: Line
 second_title: Aspose.3D for .NET API 参考
-description: 多段线是由一组点定义的路径ControlPoints./geometry/controlpoints并通过以下方式连接Segments./line/segments 这意味着它也可以是一组连接的线段 线通常是一个线性对象这意味着它不能用来表示曲线为了表示曲线使用NurbsCurve./nurbscurve.
+description: 折线是由一组点定义的路径ControlPoints./geometry/controlpoints 并由Segments./line/segments 表示它也可以是一组相连的线段 线通常是一个线性对象表示它不能用来表示曲线为了表示曲线使用NurbsCurve./nurbscurve.
 type: docs
 weight: 420
 url: /zh/net/aspose.threed.entities/line/
 ---
 ## Line class
 
-多段线是由一组点定义的路径[`ControlPoints`](../geometry/controlpoints)并通过以下方式连接[`Segments`](./segments), 这意味着它也可以是一组连接的线段。 线通常是一个线性对象，这意味着它不能用来表示曲线，为了表示曲线，使用[`NurbsCurve`](../nurbscurve).
+折线是由一组点定义的路径[`ControlPoints`](../geometry/controlpoints) 并由[`Segments`](./segments), 表示它也可以是一组相连的线段。 线通常是一个线性对象，表示它不能用来表示曲线，为了表示曲线，使用[`NurbsCurve`](../nurbscurve).
 
 ```csharp
 public class Line : Curve
@@ -18,8 +18,8 @@ public class Line : Curve
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Line](line#constructor)() | 初始化[`Line`](../line)类的新实例。 |
-| [Line](line#constructor_1)(string) | 初始化[`Line`](../line)类的新实例。 |
+| [Line](line#constructor)() | 初始化[`Line`](../line)类. |
+| [Line](line#constructor_1)(string) | 初始化[`Line`](../line)类. |
 
 ## 特性
 
@@ -27,27 +27,27 @@ public class Line : Curve
 | --- | --- |
 | [Color](../../aspose.threed.entities/curve/color) { get; set; } | 获取或设置线条的颜色，默认值为白色(1, 1, 1) |
 | [ControlPoints](../../aspose.threed.entities/line/controlpoints) { get; } | 获取所有控制点 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
 | [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | 获取所有父节点，一个实体可以附加到多个父节点进行几何实例化 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | 获取该对象所属的场景 |
-| [Segments](../../aspose.threed.entities/line/segments) { get; } | 获取行 |
+| [Segments](../../aspose.threed.entities/line/segments) { get; } | 获取线段 |
 | [Visible](../../aspose.threed.entities/line/visible) { get; set; } | 获取或设置几何是否可见 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [FromPoints](../../aspose.threed.entities/line/frompoints)(params Vector3[]) | 从一组点构造[`Line`](../line)实例。 |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| static [FromPoints](../../aspose.threed.entities/line/frompoints)(params Vector3[]) | 构造一个[`Line`](../line)来自一组点的实例。 |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| override [GetEntityRendererKey](../../aspose.threed.entities/curve/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| override [GetEntityRendererKey](../../aspose.threed.entities/curve/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
-| [MakeDefaultIndices](../../aspose.threed.entities/line/makedefaultindices)() | 生成序列 0,1,2,3....[`ControlPoints`](../geometry/controlpoints).Length -1 到[`Segments`](./segments)所以控制点可以用作单行 |
+| [MakeDefaultIndices](../../aspose.threed.entities/line/makedefaultindices)() | 生成序列0,1,2,3....[`ControlPoints`](../geometry/controlpoints) .Length-1 到[`Segments`](./segments)所以控制点可以用作单行 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

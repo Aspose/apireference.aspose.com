@@ -1,14 +1,14 @@
 ---
 title: Watermark
 second_title: Aspose.3D for .NET API 参考
-description: 用于向/从网格编码/解码盲水印的实用程序
+description: 用于将盲水印编码/解码到网格/从网格中解码的实用程序
 type: docs
-weight: 2720
+weight: 2710
 url: /zh/net/aspose.threed.utilities/watermark/
 ---
 ## Watermark class
 
-用于向/从网格编码/解码盲水印的实用程序。
+用于将盲水印编码/解码到网格/从网格中解码的实用程序。
 
 ```csharp
 public class Watermark

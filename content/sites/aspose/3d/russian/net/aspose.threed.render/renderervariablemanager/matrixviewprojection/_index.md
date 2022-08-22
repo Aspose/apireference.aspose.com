@@ -1,14 +1,14 @@
 ---
 title: MatrixViewProjection
 second_title: Справочник по Aspose.3D для .NET API
-description: Матрица преобразования вида и проекции.
+description: Матрица преобразования видов и проекций.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.render/renderervariablemanager/matrixviewprojection/
 ---
 ## RendererVariableManager.MatrixViewProjection property
 
-Матрица преобразования вида и проекции.
+Матрица преобразования видов и проекций.
 
 ```csharp
 public FMatrix4 MatrixViewProjection { get; }

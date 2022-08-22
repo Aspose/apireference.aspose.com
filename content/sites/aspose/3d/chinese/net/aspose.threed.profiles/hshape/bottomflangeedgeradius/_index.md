@@ -1,14 +1,14 @@
 ---
 title: BottomFlangeEdgeRadius
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置底部法兰上边缘的半径
+description: 获取或设置下法兰上边缘的半径
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.profiles/hshape/bottomflangeedgeradius/
 ---
 ## HShape.BottomFlangeEdgeRadius property
 
-获取或设置底部法兰上边缘的半径。
+获取或设置下法兰上边缘的半径。
 
 ```csharp
 public double BottomFlangeEdgeRadius { get; set; }

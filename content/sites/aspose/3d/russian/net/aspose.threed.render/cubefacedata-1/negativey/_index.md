@@ -1,14 +1,14 @@
 ---
 title: NegativeY
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для -Y нижней грани
+description: Получает или задает данные для YBottom face
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.render/cubefacedata-1/negativey/
 ---
 ## CubeFaceData&lt;T&gt;.NegativeY property
 
-Получает или задает данные для -Y (нижней) грани
+Получает или задает данные для -Y(Bottom) face
 
 ```csharp
 public T NegativeY { get; set; }

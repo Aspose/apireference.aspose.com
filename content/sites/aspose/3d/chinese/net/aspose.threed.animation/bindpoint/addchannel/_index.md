@@ -30,12 +30,12 @@ public bool AddChannel(string name, object value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
-| 值 | Object | 值。 |
+| name | String | 姓名。 |
+| value | Object | 价值。 |
 
 ### 返回值
 
-true，如果添加了通道，否则为 false。
+如果添加了通道，则为 true，否则为 false。
 
 ### 也可以看看
 
@@ -55,13 +55,13 @@ public bool AddChannel(string name, Type type, object value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 | type | Type | 类型。 |
-| 值 | Object | 值。 |
+| value | Object | 价值。 |
 
 ### 返回值
 
-true，如果添加了通道，否则为 false。
+如果添加了通道，则为 true，否则为 false。
 
 ### 也可以看看
 

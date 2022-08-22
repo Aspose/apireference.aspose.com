@@ -1,14 +1,14 @@
 ---
 title: LambertMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Материал для модели затенения Ламберта
+description: Материал для ламберзатенения model
 type: docs
-weight: 2270
+weight: 2280
 url: /ru/net/aspose.threed.shading/lambertmaterial/
 ---
 ## LambertMaterial class
 
-Материал для модели затенения Ламберта
+Материал для ламбер-затенения model
 
 ```csharp
 public class LambertMaterial : Material
@@ -18,19 +18,19 @@ public class LambertMaterial : Material
 
 | Имя | Описание |
 | --- | --- |
-| [LambertMaterial](lambertmaterial#constructor)() | Инициализирует новый экземпляр класса[`LambertMaterial`](../lambertmaterial). |
-| [LambertMaterial](lambertmaterial#constructor_1)(string) | Инициализирует новый экземпляр класса[`LambertMaterial`](../lambertmaterial). |
+| [LambertMaterial](lambertmaterial#constructor)() | Инициализирует новый экземпляр[`LambertMaterial`](../lambertmaterial) класс. |
+| [LambertMaterial](lambertmaterial#constructor_1)(string) | Инициализирует новый экземпляр[`LambertMaterial`](../lambertmaterial) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AmbientColor](../../aspose.threed.shading/lambertmaterial/ambientcolor) { get; set; } | Получает или устанавливает цвет фона |
-| [DiffuseColor](../../aspose.threed.shading/lambertmaterial/diffusecolor) { get; set; } | Получает или устанавливает диффузный цвет |
-| [EmissiveColor](../../aspose.threed.shading/lambertmaterial/emissivecolor) { get; set; } | Получает или задает цвет излучения |
+| [AmbientColor](../../aspose.threed.shading/lambertmaterial/ambientcolor) { get; set; } | Получает или задает окружающий цвет |
+| [DiffuseColor](../../aspose.threed.shading/lambertmaterial/diffusecolor) { get; set; } | Получает или задает диффузный цвет |
+| [EmissiveColor](../../aspose.threed.shading/lambertmaterial/emissivecolor) { get; set; } | Получает или задает излучающий цвет |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
-| [Transparency](../../aspose.threed.shading/lambertmaterial/transparency) { get; set; } | Получает или задает коэффициент прозрачности. Коэффициент должен находиться в диапазоне от 0 (0%, полностью непрозрачный) до 1 (100%, полностью прозрачный) Любое недопустимое значение коэффициента будет зафиксировано. |
+| [Transparency](../../aspose.threed.shading/lambertmaterial/transparency) { get; set; } | Получает или устанавливает коэффициент прозрачности. Коэффициент должен находиться в диапазоне от 0 (0%, полностью непрозрачный) до 1 (100%, полностью прозрачный) Любое недопустимое значение коэффициента будет зафиксировано. |
 | [TransparentColor](../../aspose.threed.shading/lambertmaterial/transparentcolor) { get; set; } | Получает или задает прозрачный цвет. |
 
 ## Методы
@@ -38,14 +38,14 @@ public class LambertMaterial : Material
 | Имя | Описание |
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
-| [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Получает перечислитель для перечисления внутренних слотов текстуры. |
+| [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Получает перечислитель для перечисления внутренних слотов текстур. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | Получает текстуру из указанного слота, это может быть имя свойства материала или имя параметра шейдера |
+| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | Получает текстуру из указанного слота, это может быть имя свойства материала или параметр шейдера name |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 | [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | Устанавливает текстуру в указанный слот |
-| override [ToString](../../aspose.threed.shading/material/tostring)() | Форматирует объект в строку |
+| override [ToString](../../aspose.threed.shading/material/tostring)() | Форматирует объект в string |
 
 ### Смотрите также
 

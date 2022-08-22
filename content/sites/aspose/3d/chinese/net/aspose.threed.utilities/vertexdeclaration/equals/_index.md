@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.3D for .NET API 参考
-description: 确定此实例和指定对象也必须是VertexDeclarationaspose.threed.utilities/vertexdeclaration对象是否具有相同的值
+description: 判断这个实例是否和一个指定的对象也必须是一个VertexDeclarationaspose.threed.utilities/vertexdeclaration对象具有相同的值
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.utilities/vertexdeclaration/equals/
 ---
 ## VertexDeclaration.Equals method
 
-确定此实例和指定对象（也必须是[`VertexDeclaration`](../../vertexdeclaration)对象）是否具有相同的值。
+判断这个实例是否和一个指定的对象，也必须是一个[`VertexDeclaration`](../../vertexdeclaration)对象，具有相同的值。
 
 ```csharp
 public override bool Equals(object obj)

@@ -1,14 +1,14 @@
 ---
 title: PolygonBuilder
 second_title: Справочник по Aspose.3D для .NET API
-description: Вспомогательный класс для построения полигона дляMesh./mesh
+description: Вспомогательный класс для построения многоугольника.Mesh./mesh
 type: docs
 weight: 550
 url: /ru/net/aspose.threed.entities/polygonbuilder/
 ---
 ## PolygonBuilder class
 
-Вспомогательный класс для построения полигона для[`Mesh`](../mesh)
+Вспомогательный класс для построения многоугольника.[`Mesh`](../mesh)
 
 ```csharp
 public sealed class PolygonBuilder
@@ -18,19 +18,19 @@ public sealed class PolygonBuilder
 
 | Имя | Описание |
 | --- | --- |
-| [PolygonBuilder](polygonbuilder)(Mesh) | Инициализирует новый экземпляр класса[`PolygonBuilder`](../polygonbuilder). |
+| [PolygonBuilder](polygonbuilder)(Mesh) | Инициализирует новый экземпляр[`PolygonBuilder`](../polygonbuilder) класс. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddVertex](../../aspose.threed.entities/polygonbuilder/addvertex)(int) | Добавляет индекс вершины к полигону |
+| [AddVertex](../../aspose.threed.entities/polygonbuilder/addvertex)(int) | Добавляет индекс вершины к многоугольнику |
 | [Begin](../../aspose.threed.entities/polygonbuilder/begin)() | Начинает добавлять новый полигон |
 | [End](../../aspose.threed.entities/polygonbuilder/end)() | Завершает создание полигона |
 
 ### Примеры
 
-Равен: Если все индексы готовы к использованию,[`CreatePolygon`](../mesh/createpolygon)предпочтительнее, в противном случае[`PolygonBuilder`](../polygonbuilder)будет лучшим выбором.
+равно : Если все индексы готовы к использованию,[`CreatePolygon`](../mesh/createpolygon) предпочтительнее, иначе[`PolygonBuilder`](../polygonbuilder) будет лучшим выбором.
 
 ```csharp
 PolygonBuilder builder = new PolygonBuilder(mesh);

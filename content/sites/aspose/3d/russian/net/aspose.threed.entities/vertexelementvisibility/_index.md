@@ -1,14 +1,14 @@
 ---
 title: VertexElementVisibility
 second_title: Справочник по Aspose.3D для .NET API
-description: Определяет видимость указанных компонентов
+description: Определяет видны ли указанные компоненты
 type: docs
 weight: 950
 url: /ru/net/aspose.threed.entities/vertexelementvisibility/
 ---
 ## VertexElementVisibility class
 
-Определяет видимость указанных компонентов
+Определяет, видны ли указанные компоненты
 
 ```csharp
 public class VertexElementVisibility : VertexElementTemplate<bool>
@@ -18,15 +18,15 @@ public class VertexElementVisibility : VertexElementTemplate<bool>
 
 | Имя | Описание |
 | --- | --- |
-| [VertexElementVisibility](vertexelementvisibility)() | Инициализирует новый экземпляр класса[`VertexElementVisibility`](../vertexelementvisibility). |
+| [VertexElementVisibility](vertexelementvisibility)() | Инициализирует новый экземпляр[`VertexElementVisibility`](../vertexelementvisibility) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Data](../../aspose.threed.entities/vertexelementtemplate`1/data) { get; } |  |
-| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает данные индексов |
-| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ сопоставления элемента. |
+| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает индексы data |
+| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ отображения элемента. |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | Получает или задает имя. |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | Получает или задает способ ссылки на элемент. |
 | [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | Получает тип[`VertexElement`](../vertexelement) |

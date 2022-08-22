@@ -1,14 +1,14 @@
 ---
 title: EntityRenderer
 second_title: Aspose.3D for .NET API 参考
-description: 的构造函数 EntityRendereraspose.threed.render/entityrenderer
+description: 的构造函数EntityRendereraspose.threed.render/entityrenderer
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/entityrenderer/entityrenderer/
 ---
 ## EntityRenderer(string, EntityRendererFeatures) {#constructor_1}
 
-的构造函数 [`EntityRenderer`](../../entityrenderer)
+的构造函数[`EntityRenderer`](../../entityrenderer)
 
 ```csharp
 public EntityRenderer(string key, EntityRendererFeatures features)
@@ -30,7 +30,7 @@ public EntityRenderer(string key, EntityRendererFeatures features)
 
 ## EntityRenderer(string) {#constructor}
 
-的构造函数 [`EntityRenderer`](../../entityrenderer)
+的构造函数[`EntityRenderer`](../../entityrenderer)
 
 ```csharp
 public EntityRenderer(string key)

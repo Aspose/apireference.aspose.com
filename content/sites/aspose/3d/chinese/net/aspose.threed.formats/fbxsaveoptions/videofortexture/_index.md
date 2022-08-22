@@ -1,14 +1,14 @@
 ---
 title: VideoForTexture
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在导出为 FBX 时是否为Textureaspose.threed.shading/texture生成 Video 实例
+description: 获取或设置是否为Textureaspose.threed.shading/texture导出为 FBX. 时
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.formats/fbxsaveoptions/videofortexture/
 ---
 ## FbxSaveOptions.VideoForTexture property
 
-获取或设置在导出为 FBX 时是否为[`Texture`](../../../aspose.threed.shading/texture)生成 Video 实例。
+获取或设置是否为[`Texture`](../../../aspose.threed.shading/texture)导出为 FBX. 时
 
 ```csharp
 public bool VideoForTexture { get; set; }

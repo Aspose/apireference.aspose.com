@@ -1,14 +1,14 @@
 ---
 title: FlipCoordinateSystem
 second_title: Справочник по Aspose.3D для .NET API
-description: Возвращает или задает переворачивать ли систему координат опорных точек/нормаль при импорте
+description: Получает или задает следует ли переворачивать систему координат контрольных точек/нормаль во время импорта
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.formats/objloadoptions/flipcoordinatesystem/
 ---
 ## ObjLoadOptions.FlipCoordinateSystem property
 
-Возвращает или задает, переворачивать ли систему координат опорных точек/нормаль при импорте
+Получает или задает, следует ли переворачивать систему координат контрольных точек/нормаль во время импорта
 
 ```csharp
 public bool FlipCoordinateSystem { get; set; }

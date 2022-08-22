@@ -1,14 +1,14 @@
 ---
 title: Cross
 second_title: Справочник по Aspose.3D для .NET API
-description: Перемножение двух векторов
+description: Перекрестное произведение двух векторов
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.utilities/vector2/cross/
 ---
 ## Vector2.Cross method
 
-Перемножение двух векторов
+Перекрестное произведение двух векторов
 
 ```csharp
 public double Cross(Vector2 v)

@@ -1,9 +1,9 @@
 ---
 title: SPIRVSource
 second_title: Справочник по Aspose.3D для .NET API
-description: Скомпилированный шейдер в формате SPIR-V.
+description: Скомпилированный шейдер в формате SPIRV.
 type: docs
-weight: 2110
+weight: 2120
 url: /ru/net/aspose.threed.render/spirvsource/
 ---
 ## SPIRVSource class
@@ -18,7 +18,7 @@ public sealed class SPIRVSource : ShaderSource
 
 | Имя | Описание |
 | --- | --- |
-| [SPIRVSource](spirvsource)() | Конструктор источников шейдеров на базе SPIR-V. |
+| [SPIRVSource](spirvsource)() | Конструктор источников шейдеров на основе SPIR-V. |
 
 ## Характеристики
 

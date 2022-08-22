@@ -1,14 +1,14 @@
 ---
 title: OrthoHeight
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает высоту при усечении в орфографической проекции.
+description: Получает или задает высоту усеченного конуса в ортогональной проекции.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.entities/frustum/orthoheight/
 ---
 ## Frustum.OrthoHeight property
 
-Получает или задает высоту при усечении в орфографической проекции.
+Получает или задает высоту усеченного конуса в ортогональной проекции.
 
 ```csharp
 public double OrthoHeight { get; set; }

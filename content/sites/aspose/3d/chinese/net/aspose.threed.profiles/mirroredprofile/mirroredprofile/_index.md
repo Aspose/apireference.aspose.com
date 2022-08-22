@@ -1,14 +1,14 @@
 ---
 title: MirroredProfile
 second_title: Aspose.3D for .NET API 参考
-description: 从现有配置文件构造一个新的MirroredProfileaspose.threed.profiles/mirroredprofile
+description: 构造一个新的MirroredProfileaspose.threed.profiles/mirroredprofile来自现有配置文件
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/mirroredprofile/mirroredprofile/
 ---
 ## MirroredProfile constructor
 
-从现有配置文件构造一个新的[`MirroredProfile`](../../mirroredprofile)。
+构造一个新的[`MirroredProfile`](../../mirroredprofile)来自现有配置文件。
 
 ```csharp
 public MirroredProfile(Profile baseProfile)
@@ -16,7 +16,7 @@ public MirroredProfile(Profile baseProfile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| baseProfile | Profile | 要镜像的基本配置文件。 |
+| baseProfile | Profile | 要镜像的基本轮廓。 |
 
 ### 也可以看看
 

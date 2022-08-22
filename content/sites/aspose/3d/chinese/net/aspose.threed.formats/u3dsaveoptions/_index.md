@@ -18,7 +18,7 @@ public class U3dSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [U3dSaveOptions](u3dsaveoptions)() | [`U3dSaveOptions`](../u3dsaveoptions) |
+| [U3dSaveOptions](u3dsaveoptions)() | 的构造函数[`U3dSaveOptions`](../u3dsaveoptions) |
 
 ## 特性
 
@@ -27,13 +27,13 @@ public class U3dSaveOptions : SaveOptions
 | [EmbedTextures](../../aspose.threed.formats/u3dsaveoptions/embedtextures) { get; set; } | 将外部纹理嵌入到 U3D 文件中，默认值为 false。 |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
 | [ExportNormals](../../aspose.threed.formats/u3dsaveoptions/exportnormals) { get; set; } | 获取或设置是否导出普通数据。 |
-| [ExportTextureCoordinates](../../aspose.threed.formats/u3dsaveoptions/exporttexturecoordinates) { get; set; } | 获取或设置是否导出纹理坐标。 |
+| [ExportTextureCoordinates](../../aspose.threed.formats/u3dsaveoptions/exporttexturecoordinates) { get; set; } | 获取或设置是否导出纹理坐标 |
 | [ExportVertexDiffuse](../../aspose.threed.formats/u3dsaveoptions/exportvertexdiffuse) { get; set; } | 获取或设置是否导出顶点的漫反射颜色。 |
 | [ExportVertexSpecular](../../aspose.threed.formats/u3dsaveoptions/exportvertexspecular) { get; set; } | 获取或设置是否导出顶点的高光颜色。 |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
-| [FlipCoordinateSystem](../../aspose.threed.formats/u3dsaveoptions/flipcoordinatesystem) { get; set; } | 获取或设置在导入/导出时是否翻转控制点坐标系/法线。 |
+| [FlipCoordinateSystem](../../aspose.threed.formats/u3dsaveoptions/flipcoordinatesystem) { get; set; } | 获取或设置在导入/导出时是否翻转控制点/法线坐标系。 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
 | [MeshCompression](../../aspose.threed.formats/u3dsaveoptions/meshcompression) { get; set; } | 获取或设置是否启用网格数据压缩。 |
 

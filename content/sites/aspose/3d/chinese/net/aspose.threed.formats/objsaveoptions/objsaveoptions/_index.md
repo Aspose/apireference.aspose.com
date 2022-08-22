@@ -1,14 +1,14 @@
 ---
 title: ObjSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: ObjSaveOptionsaspose.threed.formats/objsaveoptions
+description: 的构造函数ObjSaveOptionsaspose.threed.formats/objsaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/objsaveoptions/objsaveoptions/
 ---
 ## ObjSaveOptions constructor
 
-[`ObjSaveOptions`](../../objsaveoptions)
+的构造函数[`ObjSaveOptions`](../../objsaveoptions)
 
 ```csharp
 public ObjSaveOptions()

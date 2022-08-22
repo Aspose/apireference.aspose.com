@@ -3,7 +3,7 @@ title: IRenderTexture
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1890
+weight: 1900
 url: /net/aspose.threed.render/irendertexture/
 ---
 ## IRenderTexture interface

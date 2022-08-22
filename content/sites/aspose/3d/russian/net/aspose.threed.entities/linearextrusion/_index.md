@@ -1,7 +1,7 @@
 ---
 title: LinearExtrusion
 second_title: Справочник по Aspose.3D для .NET API
-description: Линейное выдавливание принимает 2D-форму в качестве входных данных и расширяет форму в 3-м измерении.
+description: Линейное выдавливание принимает 2Dформу в качестве входных данных и расширяет форму в 3м измерении.
 type: docs
 weight: 430
 url: /ru/net/aspose.threed.entities/linearextrusion/
@@ -18,25 +18,25 @@ public class LinearExtrusion : Entity, IMeshConvertible
 
 | Имя | Описание |
 | --- | --- |
-| [LinearExtrusion](linearextrusion#constructor)() | Конструктор экземпляра[`LinearExtrusion`](../linearextrusion). |
-| [LinearExtrusion](linearextrusion#constructor_1)(Profile, double) | Конструктор экземпляра[`LinearExtrusion`](../linearextrusion). |
+| [LinearExtrusion](linearextrusion#constructor)() | Конструктор экземпляра[`LinearExtrusion`](../linearextrusion) . |
+| [LinearExtrusion](linearextrusion#constructor_1)(Profile, double) | Конструктор экземпляра[`LinearExtrusion`](../linearextrusion) . |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Center](../../aspose.threed.entities/linearextrusion/center) { get; set; } | Если это значение равно false, диапазон Z линейного выдавливания составляет от 0 до высоты, в противном случае диапазон составляет от -height/2 до высоты/2. |
+| [Center](../../aspose.threed.entities/linearextrusion/center) { get; set; } | Если это значение ложно, диапазон Z линейного выдавливания составляет от 0 до высоты, в противном случае диапазон составляет от -height/2 до высоты/2. |
 | [Direction](../../aspose.threed.entities/linearextrusion/direction) { get; set; } | Направление экструзии, значение по умолчанию (0, 0, 1) |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | [Height](../../aspose.threed.entities/linearextrusion/height) { get; set; } | Высота выдавленной геометрии, значение по умолчанию 1.0 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 | [Shape](../../aspose.threed.entities/linearextrusion/shape) { get; set; } | Базовая форма для выдавливания. |
 | [Slices](../../aspose.threed.entities/linearextrusion/slices) { get; set; } | Срезы скрученной выдавленной геометрии, значение по умолчанию 1. |
-| [Twist](../../aspose.threed.entities/linearextrusion/twist) { get; set; } | Число градусов, на которое выдавливается фигура. |
+| [Twist](../../aspose.threed.entities/linearextrusion/twist) { get; set; } | Количество градусов, на которое выдавливается фигура. |
 | [TwistOffset](../../aspose.threed.entities/linearextrusion/twistoffset) { get; set; } | Смещение, используемое при скручивании, значение по умолчанию (0, 0, 0). |
 
 ## Методы
@@ -45,10 +45,10 @@ public class LinearExtrusion : Entity, IMeshConvertible
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 | [ToMesh](../../aspose.threed.entities/linearextrusion/tomesh)() | Преобразование экструзии в сетку. |
 

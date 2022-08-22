@@ -1,14 +1,14 @@
 ---
 title: VertexElementVisibility
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementVisibilityaspose.threed.entities/vertexelementvisibility.
+description: Инициализирует новый экземплярVertexElementVisibilityaspose.threed.entities/vertexelementvisibility класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementvisibility/vertexelementvisibility/
 ---
 ## VertexElementVisibility constructor
 
-Инициализирует новый экземпляр класса[`VertexElementVisibility`](../../vertexelementvisibility).
+Инициализирует новый экземпляр[`VertexElementVisibility`](../../vertexelementvisibility) класс.
 
 ```csharp
 public VertexElementVisibility()

@@ -17,7 +17,7 @@ public void SetProperty(string property, object value)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | property | String | 属性名称 |
-| value | Object | 属性值 |
+| value | Object | 财产的价值 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BeginVertex
 second_title: Справочник по Aspose.3D для .NET API
-description: Начало добавления вершины
+description: Начать добавление вершины
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.entities/trimesh/beginvertex/
 ---
 ## TriMesh.BeginVertex method
 
-Начало добавления вершины
+Начать добавление вершины
 
 ```csharp
 public Vertex BeginVertex()
@@ -16,7 +16,7 @@ public Vertex BeginVertex()
 
 ### Возвращаемое значение
 
-Ссылка на внутренний объект вершины в типе[`Vertex`](../../../aspose.threed.utilities/vertex)
+Ссылка на внутренний вершинный объект в типе[`Vertex`](../../../aspose.threed.utilities/vertex)
 
 ### Смотрите также
 

@@ -17,7 +17,7 @@ public void Encode(Entity entity, Stream stream, PlySaveOptions opt = null)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | entity | Entity | 要编码的实体 |
-| stream | Stream | 要编码的流写入，此方法不会关闭此流 |
+| stream | Stream | 要写入的流，此方法不会关闭此流 |
 | opt | PlySaveOptions | 保存选项 |
 
 ### 也可以看看
@@ -41,7 +41,7 @@ public void Encode(Entity entity, string fileName, PlySaveOptions opt = null)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | entity | Entity | 要编码的实体 |
-| fileName | String | 要编码的文件写入 |
+| fileName | String | 要写入的文件 |
 | opt | PlySaveOptions | 保存选项 |
 
 ### 也可以看看

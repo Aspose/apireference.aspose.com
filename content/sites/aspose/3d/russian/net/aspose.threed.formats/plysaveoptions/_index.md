@@ -27,18 +27,18 @@ public class PlySaveOptions : SaveOptions
 | --- | --- |
 | [ColorComponents](../../aspose.threed.formats/plysaveoptions/colorcomponents) { get; set; } | Имена компонентов для цвета вершин, значение по умолчанию ("красный", "зеленый", "синий") |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
-| [FaceElement](../../aspose.threed.formats/plysaveoptions/faceelement) { get; set; } | Имя элемента данных лица, значение по умолчанию "face" |
+| [FaceElement](../../aspose.threed.formats/plysaveoptions/faceelement) { get; set; } | Имя элемента для данных лица, значение по умолчанию — «face» |
 | [FaceProperty](../../aspose.threed.formats/plysaveoptions/faceproperty) { get; set; } | Имя свойства для данных лица, значение по умолчанию "vertex_index" |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [FlipCoordinate](../../aspose.threed.formats/plysaveoptions/flipcoordinate) { get; set; } | Отразить координату при сохранении сцены, значение по умолчанию равно true |
+| [FlipCoordinate](../../aspose.threed.formats/plysaveoptions/flipcoordinate) { get; set; } | Отразить координату при сохранении сцены, значение по умолчанию — true |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
 | [NormalComponents](../../aspose.threed.formats/plysaveoptions/normalcomponents) { get; set; } | Имена компонентов для обычных данных, значение по умолчанию ("nx", "ny", "nz") |
 | [PointCloud](../../aspose.threed.formats/plysaveoptions/pointcloud) { get; set; } | Экспорт сцены в виде облака точек, значение по умолчанию — false. |
 | [PositionComponents](../../aspose.threed.formats/plysaveoptions/positioncomponents) { get; set; } | Имена компонентов для данных о положении, значение по умолчанию ("x", "y", "z") |
 | [TextureCoordinateComponents](../../aspose.threed.formats/plysaveoptions/texturecoordinatecomponents) { get; set; } | Имена компонентов для данных координат текстуры, значение по умолчанию ("u", "v") |
-| [VertexElement](../../aspose.threed.formats/plysaveoptions/vertexelement) { get; set; } | Имя элемента для данных вершины, значение по умолчанию "vertex" |
+| [VertexElement](../../aspose.threed.formats/plysaveoptions/vertexelement) { get; set; } | Имя элемента данных вершины, значение по умолчанию — "vertex" |
 
 ### Смотрите также
 

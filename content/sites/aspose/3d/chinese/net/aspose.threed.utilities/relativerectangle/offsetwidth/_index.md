@@ -1,14 +1,14 @@
 ---
 title: OffsetWidth
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置宽度的偏移量
+description: 获取或设置 width 的偏移量
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.utilities/relativerectangle/offsetwidth/
 ---
 ## RelativeRectangle.OffsetWidth property
 
-获取或设置宽度的偏移量
+获取或设置 width 的偏移量
 
 ```csharp
 public int OffsetWidth { get; set; }

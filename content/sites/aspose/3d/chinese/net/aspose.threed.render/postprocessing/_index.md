@@ -3,7 +3,7 @@ title: PostProcessing
 second_title: Aspose.3D for .NET API 参考
 description: 后期处理效果
 type: docs
-weight: 2000
+weight: 2010
 url: /zh/net/aspose.threed.render/postprocessing/
 ---
 ## PostProcessing class
@@ -18,7 +18,7 @@ public abstract class PostProcessing : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Input](../../aspose.threed.render/postprocessing/input) { get; set; } | 后处理的输入 |
+| abstract [Input](../../aspose.threed.render/postprocessing/input) { get; set; } | 这个后处理的输入 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 
@@ -26,10 +26,10 @@ public abstract class PostProcessing : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

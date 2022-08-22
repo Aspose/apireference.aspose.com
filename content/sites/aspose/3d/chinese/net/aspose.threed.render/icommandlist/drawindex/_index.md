@@ -24,7 +24,7 @@ public void DrawIndex()
 
 ## DrawIndex(int, int) {#drawindex_1}
 
-在命令列表中发出索引绘制
+向命令列表发出索引绘制
 
 ```csharp
 public void DrawIndex(int start, int count)
@@ -33,7 +33,7 @@ public void DrawIndex(int start, int count)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | start | Int32 | 第一个要绘制的索引 |
-| count | Int32 | 要绘制的索引计数 |
+| count | Int32 | 要绘制的索引数 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Entity
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаEntityaspose.threed/entity.
+description: Инициализирует новый экземплярEntityaspose.threed/entity класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/entity/entity/
 ---
 ## Entity constructor
 
-Инициализирует новый экземпляр класса[`Entity`](../../entity).
+Инициализирует новый экземпляр[`Entity`](../../entity) класс.
 
 ```csharp
 public Entity(string name)

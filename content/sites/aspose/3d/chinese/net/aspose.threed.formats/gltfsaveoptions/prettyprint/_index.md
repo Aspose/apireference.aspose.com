@@ -1,14 +1,14 @@
 ---
 title: PrettyPrint
 second_title: Aspose.3D for .NET API 参考
-description: GLTF 文件的 JSON 内容缩进供人类阅读默认值为 false
+description: GLTF 文件的 JSON 内容缩进供人阅读默认值为 false
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/prettyprint/
 ---
 ## GltfSaveOptions.PrettyPrint property
 
-GLTF 文件的 JSON 内容缩进供人类阅读，默认值为 false
+GLTF 文件的 JSON 内容缩进供人阅读，默认值为 false
 
 ```csharp
 public bool PrettyPrint { get; set; }

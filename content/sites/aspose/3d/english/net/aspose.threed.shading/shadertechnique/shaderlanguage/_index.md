@@ -11,12 +11,11 @@ url: /net/aspose.threed.shading/shadertechnique/shaderlanguage/
 Gets or sets the shader language used by this technique.
 
 ```csharp
-public ShadingLanguage ShaderLanguage { get; set; }
+public string ShaderLanguage { get; set; }
 ```
 
 ### See Also
 
-* enum [ShadingLanguage](../../shadinglanguage)
 * class [ShaderTechnique](../../shadertechnique)
 * namespace [Aspose.ThreeD.Shading](../../shadertechnique)
 * assembly [Aspose.3D](../../../)

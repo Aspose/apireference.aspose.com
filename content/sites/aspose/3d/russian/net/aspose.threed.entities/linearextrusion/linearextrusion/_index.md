@@ -1,14 +1,14 @@
 ---
 title: LinearExtrusion
 second_title: Справочник по Aspose.3D для .NET API
-description: Конструктор экземпляраLinearExtrusionaspose.threed.entities/linearextrusion.
+description: Конструктор экземпляраLinearExtrusionaspose.threed.entities/linearextrusion .
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/linearextrusion/linearextrusion/
 ---
 ## LinearExtrusion() {#constructor}
 
-Конструктор экземпляра[`LinearExtrusion`](../../linearextrusion).
+Конструктор экземпляра[`LinearExtrusion`](../../linearextrusion) .
 
 ```csharp
 public LinearExtrusion()
@@ -24,7 +24,7 @@ public LinearExtrusion()
 
 ## LinearExtrusion(Profile, double) {#constructor_1}
 
-Конструктор экземпляра[`LinearExtrusion`](../../linearextrusion).
+Конструктор экземпляра[`LinearExtrusion`](../../linearextrusion) .
 
 ```csharp
 public LinearExtrusion(Profile shape, double height)

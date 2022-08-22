@@ -1,14 +1,14 @@
 ---
 title: Pyramid
 second_title: Справочник по Aspose.3D для .NET API
-description: Построить новый экземпляр пирамиды с площадью основания по умолчанию 10 10 и высотой по умолчанию 5
+description: Построить новый экземпляр пирамиды с площадью основания 10 10 и высотой по умолчанию 5
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/pyramid/pyramid/
 ---
 ## Pyramid() {#constructor}
 
-Построить новый экземпляр пирамиды с площадью основания по умолчанию (10, 10) и высотой по умолчанию (5)
+Построить новый экземпляр пирамиды с площадью основания (10, 10) и высотой по умолчанию (5)
 
 ```csharp
 public Pyramid()
@@ -32,8 +32,8 @@ public Pyramid(double xbottom, double ybottom, double height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xbottom | Double | длина дна в направлении x |
-| ybottom | Double | Длина дна в направлении y |
+| xbottom | Double | Длина дна в направлении x |
+| ybottom | Double | Y-направление длины дна |
 | height | Double | Высота пирамиды |
 
 ### Смотрите также
@@ -46,7 +46,7 @@ public Pyramid(double xbottom, double ybottom, double height)
 
 ## Pyramid(double, double, double, double, double) {#constructor_2}
 
-Построить новый экземпляр пирамиды с указанной нижней и верхней площадями и высотой.
+Построить новый экземпляр пирамиды с указанными нижней и верхней областями и высотой.
 
 ```csharp
 public Pyramid(double xbottom, double ybottom, double xtop, double ytop, double height)
@@ -54,9 +54,9 @@ public Pyramid(double xbottom, double ybottom, double xtop, double ytop, double 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xbottom | Double | Длина нижней области по оси x |
+| xbottom | Double | Длина нижней области в направлении x |
 | ybottom | Double | Длина нижней области по оси Y |
-| xtop | Double | Длина верхней области по оси X |
+| xtop | Double | Длина верхней области в направлении x |
 | ytop | Double | Длина верхней области по оси Y |
 | height | Double | Высота пирамиды |
 
@@ -70,7 +70,7 @@ public Pyramid(double xbottom, double ybottom, double xtop, double ytop, double 
 
 ## Pyramid(string, double, double, double, double, double) {#constructor_3}
 
-Построить новый экземпляр пирамиды с указанной нижней и верхней площадями и высотой.
+Построить новый экземпляр пирамиды с указанными нижней и верхней областями и высотой.
 
 ```csharp
 public Pyramid(string name, double xbottom, double ybottom, double xtop, double ytop, double height)
@@ -78,10 +78,10 @@ public Pyramid(string name, double xbottom, double ybottom, double xtop, double 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя пирамиды |
-| xbottom | Double | x -длина нижней области в направлении |
-| ybottom | Double | Длина нижней области в направлении Y |
-| xtop | Double | Длина верхней области по оси x |
+| name | String | Название пирамиды |
+| xbottom | Double | Длина нижней области в направлении x |
+| ybottom | Double | Длина нижней области по оси Y |
+| xtop | Double | Длина верхней области в направлении x |
 | ytop | Double | Длина верхней области по оси Y |
 | height | Double | Высота пирамиды |
 

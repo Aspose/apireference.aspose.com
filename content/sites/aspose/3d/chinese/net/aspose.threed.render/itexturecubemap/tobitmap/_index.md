@@ -1,14 +1,14 @@
 ---
 title: ToBitmap
 second_title: Aspose.3D for .NET API 参考
-description: 将纹理单元转换为Bitmap实例
+description: 将纹理单元转换为Bitmap instance
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.render/itexturecubemap/tobitmap/
 ---
 ## ITextureCubemap.ToBitmap method
 
-将纹理单元转换为Bitmap实例
+将纹理单元转换为Bitmap instance
 
 ```csharp
 public Bitmap ToBitmap(CubeFace side)

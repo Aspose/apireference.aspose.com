@@ -1,14 +1,14 @@
 ---
 title: DuplicatedNameCounterBase
 second_title: Справочник по Aspose.3D для .NET API
-description: Счетчик используемый при создании нового имени для повторяющихся имен значение по умолчанию равно 2.
+description: Счетчик используемый при создании нового имени для повторяющихся имен значение по умолчанию 2.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/discreet3dssaveoptions/duplicatednamecounterbase/
 ---
 ## Discreet3dsSaveOptions.DuplicatedNameCounterBase property
 
-Счетчик, используемый при создании нового имени для повторяющихся имен, значение по умолчанию равно 2.
+Счетчик, используемый при создании нового имени для повторяющихся имен, значение по умолчанию 2.
 
 ```csharp
 public int DuplicatedNameCounterBase { get; set; }

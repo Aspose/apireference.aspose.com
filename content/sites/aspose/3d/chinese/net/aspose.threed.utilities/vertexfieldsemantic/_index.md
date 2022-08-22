@@ -1,14 +1,14 @@
 ---
 title: VertexFieldSemantic
 second_title: Aspose.3D for .NET API 参考
-description: 顶点字段的语义
+description: 顶点域的语义
 type: docs
-weight: 2710
+weight: 2700
 url: /zh/net/aspose.threed.utilities/vertexfieldsemantic/
 ---
 ## VertexFieldSemantic enumeration
 
-顶点字段的语义
+顶点域的语义
 
 ```csharp
 public enum VertexFieldSemantic
@@ -26,7 +26,7 @@ public enum VertexFieldSemantic
 | VertexColor | `5` | 顶点颜色 |
 | VertexCrease | `6` | 顶点折痕 |
 | EdgeCrease | `7` | 边缘折痕 |
-| UserData | `8` | 用户数据，通常用于特定于应用程序的目的 |
+| UserData | `8` | 用户数据，通常用于特定应用目的 |
 | Visibility | `9` | 组件的可见性 |
 | Specular | `10` | 高光颜色 |
 | Weight | `11` | 混合权重 |

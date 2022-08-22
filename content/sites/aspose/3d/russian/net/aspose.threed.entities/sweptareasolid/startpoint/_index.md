@@ -1,14 +1,14 @@
 ---
 title: StartPoint
 second_title: Справочник по Aspose.3D для .NET API
-description: Начальная точка директрисы.
+description: Начальная точка направляющей.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.entities/sweptareasolid/startpoint/
 ---
 ## SweptAreaSolid.StartPoint property
 
-Начальная точка директрисы.
+Начальная точка направляющей.
 
 ```csharp
 public EndPoint StartPoint { get; set; }

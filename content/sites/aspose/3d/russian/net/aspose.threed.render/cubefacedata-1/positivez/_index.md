@@ -1,14 +1,14 @@
 ---
 title: PositiveZ
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для Z задняя сторона
+description: Получает или задает данные для ZНазад face
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.render/cubefacedata-1/positivez/
 ---
 ## CubeFaceData&lt;T&gt;.PositiveZ property
 
-Получает или задает данные для +Z (задняя) сторона
+Получает или задает данные для +Z(Назад) face
 
 ```csharp
 public T PositiveZ { get; set; }

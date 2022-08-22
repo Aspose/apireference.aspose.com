@@ -1,14 +1,14 @@
 ---
 title: LocalFileSystem
 second_title: Справочник по Aspose.3D для .NET API
-description: LocalFileSystem./localfilesystemсопоставляет операции чтения/записи с локальным каталогом.
+description: LocalFileSystem./localfilesystem сопоставит операции чтения/записи с локальным каталогом.
 type: docs
-weight: 2550
+weight: 2540
 url: /ru/net/aspose.threed.utilities/localfilesystem/
 ---
 ## LocalFileSystem class
 
-[`LocalFileSystem`](../localfilesystem)сопоставляет операции чтения/записи с локальным каталогом.
+[`LocalFileSystem`](../localfilesystem) сопоставит операции чтения/записи с локальным каталогом.
 
 ```csharp
 public class LocalFileSystem : FileSystem
@@ -18,7 +18,7 @@ public class LocalFileSystem : FileSystem
 
 | Имя | Описание |
 | --- | --- |
-| [LocalFileSystem](localfilesystem)(string) | Инициализировать новую[`LocalFileSystem`](../localfilesystem)с указанным базовым каталогом. |
+| [LocalFileSystem](localfilesystem)(string) | Инициализировать новый[`LocalFileSystem`](../localfilesystem) с указанным базовым каталогом. |
 
 ## Методы
 

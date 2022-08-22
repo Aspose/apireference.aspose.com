@@ -1,14 +1,14 @@
 ---
 title: OverallDepth
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置深度范围
+description: 获取或设置深度的范围
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.profiles/hshape/overalldepth/
 ---
 ## HShape.OverallDepth property
 
-获取或设置深度范围。
+获取或设置深度的范围。
 
 ```csharp
 public double OverallDepth { get; set; }

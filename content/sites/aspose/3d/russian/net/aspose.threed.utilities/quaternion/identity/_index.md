@@ -1,14 +1,14 @@
 ---
 title: Identity
 second_title: Справочник по Aspose.3D для .NET API
-description: Кватернион тождества.
+description: Кватернион идентичности.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/quaternion/identity/
 ---
 ## Quaternion.Identity field
 
-Кватернион тождества.
+Кватернион идентичности.
 
 ```csharp
 public static readonly Quaternion Identity;

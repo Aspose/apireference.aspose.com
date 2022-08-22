@@ -1,14 +1,14 @@
 ---
 title: Girth
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置周长
+description: 获取或设置周长的长度
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.profiles/cshape/girth/
 ---
 ## CShape.Girth property
 
-获取或设置周长。
+获取或设置周长的长度。
 
 ```csharp
 public double Girth { get; set; }

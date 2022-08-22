@@ -1,14 +1,14 @@
 ---
 title: PhongMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаPhongMaterialaspose.threed.shading/phongmaterial.
+description: Инициализирует новый экземплярPhongMaterialaspose.threed.shading/phongmaterial класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.shading/phongmaterial/phongmaterial/
 ---
 ## PhongMaterial() {#constructor}
 
-Инициализирует новый экземпляр класса[`PhongMaterial`](../../phongmaterial).
+Инициализирует новый экземпляр[`PhongMaterial`](../../phongmaterial) класс.
 
 ```csharp
 public PhongMaterial()
@@ -24,7 +24,7 @@ public PhongMaterial()
 
 ## PhongMaterial(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PhongMaterial`](../../phongmaterial).
+Инициализирует новый экземпляр[`PhongMaterial`](../../phongmaterial) класс.
 
 ```csharp
 public PhongMaterial(string name)
@@ -32,7 +32,7 @@ public PhongMaterial(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

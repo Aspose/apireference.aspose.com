@@ -1,14 +1,14 @@
 ---
 title: Scene
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаSceneaspose.threed/scene.
+description: Инициализирует новый экземплярSceneaspose.threed/scene класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/scene/scene/
 ---
 ## Scene() {#constructor}
 
-Инициализирует новый экземпляр класса[`Scene`](../../scene).
+Инициализирует новый экземпляр[`Scene`](../../scene) класс.
 
 ```csharp
 public Scene()
@@ -24,7 +24,7 @@ public Scene()
 
 ## Scene(Entity) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Scene`](../../scene)с сущностью, присоединенной к новому узлу.
+Инициализирует новый экземпляр[`Scene`](../../scene) класс с сущностью, прикрепленной к новому узлу.
 
 ```csharp
 public Scene(Entity entity)
@@ -45,7 +45,7 @@ public Scene(Entity entity)
 
 ## Scene(Scene, string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Scene`](../../scene)в качестве подсцены.
+Инициализирует новый экземпляр[`Scene`](../../scene)класс как подсцена.
 
 ```csharp
 public Scene(Scene parentScene, string name)

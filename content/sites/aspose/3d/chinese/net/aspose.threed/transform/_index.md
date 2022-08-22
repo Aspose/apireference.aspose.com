@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.3D for .NET API 参考
 description: 变换包含允许以最低成本访问对象的平移/缩放/旋转或变换矩阵的信息 这由本地变换使用
 type: docs
-weight: 2410
+weight: 2400
 url: /zh/net/aspose.threed/transform/
 ---
 ## Transform class
@@ -19,15 +19,15 @@ public class Transform : A3DObject
 | 姓名 | 描述 |
 | --- | --- |
 | [EulerAngles](../../aspose.threed/transform/eulerangles) { get; set; } | 获取或设置以欧拉角表示的旋转，以度为单位 |
-| [GeometricRotation](../../aspose.threed/transform/geometricrotation) { get; set; } | 获取或设置几何欧拉旋转（以度为单位）。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将被合并为本地变换。 |
-| [GeometricScaling](../../aspose.threed/transform/geometricscaling) { get; set; } | 获取或设置等比缩放。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将被合并为本地变换。 |
-| [GeometricTranslation](../../aspose.threed/transform/geometrictranslation) { get; set; } | 获取或设置几何平移。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将被合并为本地变换。 |
+| [GeometricRotation](../../aspose.threed/transform/geometricrotation) { get; set; } | 获取或设置几何欧拉旋转（以度为单位）。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将作为本地变换合并。 |
+| [GeometricScaling](../../aspose.threed/transform/geometricscaling) { get; set; } | 获取或设置几何比例。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将作为本地变换合并。 |
+| [GeometricTranslation](../../aspose.threed/transform/geometrictranslation) { get; set; } | 获取或设置几何平移。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将作为本地变换合并。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [PostRotation](../../aspose.threed/transform/postrotation) { get; set; } | 获取或设置以度数表示的后旋转 |
-| [PreRotation](../../aspose.threed/transform/prerotation) { get; set; } | 获取或设置以度数表示的预旋转 |
+| [PreRotation](../../aspose.threed/transform/prerotation) { get; set; } | 获取或设置以 degree 表示的预旋转 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [Rotation](../../aspose.threed/transform/rotation) { get; set; } | 获取或设置以四元数表示的旋转。 |
-| [Scale](../../aspose.threed/transform/scale) { get; set; } | 获取或设置比例 |
+| [Scale](../../aspose.threed/transform/scale) { get; set; } | 获取或设置刻度 |
 | [TransformMatrix](../../aspose.threed/transform/transformmatrix) { get; set; } | 获取或设置变换矩阵。 |
 | [Translation](../../aspose.threed/transform/translation) { get; set; } | 获取或设置翻译 |
 
@@ -35,16 +35,16 @@ public class Transform : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetEulerAngles](../../aspose.threed/transform/seteulerangles)(double, double, double) | 以当前变换的度数设置欧拉角。 |
-| [SetGeometricRotation](../../aspose.threed/transform/setgeometricrotation)(double, double, double) | 设置几何欧拉旋转（以度为单位）。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将被合并为本地变换。 |
-| [SetGeometricScaling](../../aspose.threed/transform/setgeometricscaling)(double, double, double) | 设置几何缩放。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将被合并为本地变换。 |
-| [SetGeometricTranslation](../../aspose.threed/transform/setgeometrictranslation)(double, double, double) | 设置几何平移。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将被合并为本地变换。 |
+| [SetGeometricRotation](../../aspose.threed/transform/setgeometricrotation)(double, double, double) | 设置几何欧拉旋转（以度为单位）。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将作为本地变换合并。 |
+| [SetGeometricScaling](../../aspose.threed/transform/setgeometricscaling)(double, double, double) | 设置几何比例。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将作为本地变换合并。 |
+| [SetGeometricTranslation](../../aspose.threed/transform/setgeometrictranslation)(double, double, double) | 设置几何平移。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将作为本地变换合并。 |
 | [SetPostRotation](../../aspose.threed/transform/setpostrotation)(double, double, double) | 设置以度数表示的后旋转 |
-| [SetPreRotation](../../aspose.threed/transform/setprerotation)(double, double, double) | 设置以度数表示的预旋转 |
+| [SetPreRotation](../../aspose.threed/transform/setprerotation)(double, double, double) | 设置以 degree 表示的预旋转 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 | [SetRotation](../../aspose.threed/transform/setrotation)(double, double, double, double) | 设置当前变换的旋转（作为四元数分量）。 |
 | [SetScale](../../aspose.threed/transform/setscale)(double, double, double) | 设置当前变换的比例。 |

@@ -3,7 +3,7 @@ title: CubeFace
 second_title: Справочник по Aspose.3D для .NET API
 description: Каждая грань текстуры карты куба
 type: docs
-weight: 1710
+weight: 1720
 url: /ru/net/aspose.threed.render/cubeface/
 ---
 ## CubeFace enumeration

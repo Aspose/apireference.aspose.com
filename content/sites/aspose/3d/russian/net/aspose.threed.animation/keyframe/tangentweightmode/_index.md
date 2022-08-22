@@ -1,14 +1,14 @@
 ---
 title: TangentWeightMode
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает режим касательного веса ключа. Внешний или следующий по касательной можно настроить выбрав правильныйWeightedModeaspose.threed.animation/weightedmode
+description: Получает или устанавливает режим веса касательной ключа. Касательная или следующая по касательной можно настроить выбрав правильныйWeightedModeaspose.threed.animation/weightedmode
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.animation/keyframe/tangentweightmode/
 ---
 ## KeyFrame.TangentWeightMode property
 
-Получает или задает режим касательного веса ключа. Внешний или следующий по касательной можно настроить, выбрав правильный[`WeightedMode`](../../weightedmode)
+Получает или устанавливает режим веса касательной ключа. Касательная или следующая по касательной можно настроить, выбрав правильный[`WeightedMode`](../../weightedmode)
 
 ```csharp
 public WeightedMode TangentWeightMode { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ImportException
 second_title: Справочник по Aspose.3D для .NET API
-description: Исключение когда Aspose.3D не смог открыть указанный источник
+description: Исключение когда Aspose.3D не удалось открыть указанный источник
 type: docs
-weight: 1430
+weight: 1440
 url: /ru/net/aspose.threed/importexception/
 ---
 ## ImportException class
 
-Исключение, когда Aspose.3D не смог открыть указанный источник
+Исключение, когда Aspose.3D не удалось открыть указанный источник
 
 ```csharp
 public class ImportException : IOException

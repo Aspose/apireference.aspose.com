@@ -3,7 +3,7 @@ title: ShaderProgram
 second_title: Справочник по Aspose.3D для .NET API
 description: Шейдерная программа
 type: docs
-weight: 2130
+weight: 2140
 url: /ru/net/aspose.threed.render/shaderprogram/
 ---
 ## ShaderProgram class

@@ -1,14 +1,14 @@
 ---
 title: BindPoint
 second_title: Справочник по Aspose.3D для .NET API
-description: ABindPoint./bindpointобычно создается на свойстве объекта некоторые типы свойств содержат несколько полей компонентов например поле Vector3 BindPoint./bindpointсоздаст канал для каждого поля компонента и соединит поле с одним или несколькими экземплярами последовательности ключевых кадров. через каналы.
+description: АBindPoint./bindpointобычно создается на свойстве объекта некоторые типы свойств содержат несколько полей компонентов например поле Vector3 BindPoint./bindpoint создаст канал для каждого поля компонента и соединит поле с одним или несколькими экземплярами последовательности ключевых кадров через каналы.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.animation/bindpoint/
 ---
 ## BindPoint class
 
-A[`BindPoint`](../bindpoint)обычно создается на свойстве объекта, некоторые типы свойств содержат несколько полей компонентов (например, поле Vector3), [`BindPoint`](../bindpoint)создаст канал для каждого поля компонента и соединит поле с одним или несколькими экземплярами последовательности ключевых кадров. через каналы.
+А[`BindPoint`](../bindpoint)обычно создается на свойстве объекта, некоторые типы свойств содержат несколько полей компонентов (например, поле Vector3), [`BindPoint`](../bindpoint) создаст канал для каждого поля компонента и соединит поле с одним или несколькими экземплярами последовательности ключевых кадров через каналы.
 
 ```csharp
 public class BindPoint : A3DObject
@@ -18,7 +18,7 @@ public class BindPoint : A3DObject
 
 | Имя | Описание |
 | --- | --- |
-| [BindPoint](bindpoint)(Scene, Property) | Инициализирует новый экземпляр класса[`BindPoint`](../bindpoint). |
+| [BindPoint](bindpoint)(Scene, Property) | Инициализирует новый экземпляр[`BindPoint`](../bindpoint) класс. |
 
 ## Характеристики
 
@@ -45,10 +45,10 @@ public class BindPoint : A3DObject
 | [GetKeyframeSequences](../../aspose.threed.animation/bindpoint/getkeyframesequences)(string) | Получает все последовательности ключевых кадров в указанном канале |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
-| [ResetChannels](../../aspose.threed.animation/bindpoint/resetchannels)() | Очищает каналы свойств этого отображения кривой анимации. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
+| [ResetChannels](../../aspose.threed.animation/bindpoint/resetchannels)() | Очищает каналы свойств этого сопоставления кривой анимации. |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
-| override [ToString](../../aspose.threed.animation/bindpoint/tostring)() | Форматирует объект в строку |
+| override [ToString](../../aspose.threed.animation/bindpoint/tostring)() | Форматирует объект в string |
 
 ### Смотрите также
 

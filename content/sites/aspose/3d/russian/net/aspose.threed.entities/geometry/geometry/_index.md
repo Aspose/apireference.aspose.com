@@ -1,14 +1,14 @@
 ---
 title: Geometry
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаGeometryaspose.threed.entities/geometry.
+description: Инициализирует новый экземплярGeometryaspose.threed.entities/geometry класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/geometry/geometry/
 ---
 ## Geometry constructor
 
-Инициализирует новый экземпляр класса[`Geometry`](../../geometry).
+Инициализирует новый экземпляр[`Geometry`](../../geometry) класс.
 
 ```csharp
 public Geometry(string name)
@@ -16,7 +16,7 @@ public Geometry(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

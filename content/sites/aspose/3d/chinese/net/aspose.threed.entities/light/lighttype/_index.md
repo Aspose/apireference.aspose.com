@@ -1,14 +1,14 @@
 ---
 title: LightType
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置灯光类型
+description: 获取或设置灯光的类型
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.entities/light/lighttype/
 ---
 ## Light.LightType property
 
-获取或设置灯光类型
+获取或设置灯光的类型
 
 ```csharp
 public LightType LightType { get; set; }

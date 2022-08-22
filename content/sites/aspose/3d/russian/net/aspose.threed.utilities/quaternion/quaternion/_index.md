@@ -1,14 +1,14 @@
 ---
 title: Quaternion
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаQuaternionaspose.threed.utilities/quaternion.
+description: Инициализирует новый экземплярQuaternionaspose.threed.utilities/quaternion класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/quaternion/quaternion/
 ---
 ## Quaternion constructor
 
-Инициализирует новый экземпляр класса[`Quaternion`](../../quaternion).
+Инициализирует новый экземпляр[`Quaternion`](../../quaternion) класс.
 
 ```csharp
 public Quaternion(double w, double x, double y, double z)

@@ -1,14 +1,14 @@
 ---
 title: GLTF
 second_title: Справочник по Aspose.3D для .NET API
-description: glTF Khronos Group
+description: glTF группы Khronos
 type: docs
 weight: 90
 url: /ru/net/aspose.threed/fileformattype/gltf/
 ---
 ## FileFormatType.GLTF field
 
-glTF Khronos Group
+glTF группы Khronos
 
 ```csharp
 public static readonly FileFormatType GLTF;

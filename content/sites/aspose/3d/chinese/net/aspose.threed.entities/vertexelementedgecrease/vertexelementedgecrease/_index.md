@@ -1,14 +1,14 @@
 ---
 title: VertexElementEdgeCrease
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementEdgeCreaseaspose.threed.entities/vertexelementedgecrease类的新实例
+description: 初始化VertexElementEdgeCreaseaspose.threed.entities/vertexelementedgecrease类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementedgecrease/vertexelementedgecrease/
 ---
 ## VertexElementEdgeCrease constructor
 
-初始化[`VertexElementEdgeCrease`](../../vertexelementedgecrease)类的新实例。
+初始化[`VertexElementEdgeCrease`](../../vertexelementedgecrease)类.
 
 ```csharp
 public VertexElementEdgeCrease()

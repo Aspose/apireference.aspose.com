@@ -3,7 +3,7 @@ title: IndexDataType
 second_title: Справочник по Aspose.3D для .NET API
 description: Тип данных элементов вIIndexBuffer./iindexbuffer
 type: docs
-weight: 1960
+weight: 1970
 url: /ru/net/aspose.threed.render/indexdatatype/
 ---
 ## IndexDataType enumeration

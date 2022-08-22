@@ -3,7 +3,7 @@ title: StencilState
 second_title: Aspose.3D for .NET API 参考
 description: 每个面的模板状态
 type: docs
-weight: 2190
+weight: 2200
 url: /zh/net/aspose.threed.render/stencilstate/
 ---
 ## StencilState class
@@ -27,7 +27,7 @@ public class StencilState
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.threed.render/stencilstate/equals)(object) | 返回一个值，指示此实例是否等于指定对象。 |
+| override [Equals](../../aspose.threed.render/stencilstate/equals)(object) | 返回一个值，该值指示此实例是否等于指定对象。 |
 | override [GetHashCode](../../aspose.threed.render/stencilstate/gethashcode)() | 返回此实例的哈希码。 |
 
 ### 也可以看看

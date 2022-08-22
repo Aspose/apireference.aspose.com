@@ -1,14 +1,14 @@
 ---
 title: WWrap
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает режим переноса для координаты W текстуры.
+description: Получает или задает режим переноса координаты W текстуры.
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.render/itextureunit/wwrap/
 ---
 ## ITextureUnit.WWrap property
 
-Получает или устанавливает режим переноса для координаты W текстуры.
+Получает или задает режим переноса координаты W текстуры.
 
 ```csharp
 public WrapMode WWrap { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: m33
 second_title: Справочник по Aspose.3D для .NET API
-description: M33.
+description: m33.
 type: docs
 weight: 230
 url: /ru/net/aspose.threed.utilities/matrix4/m33/
 ---
 ## Matrix4.m33 field
 
-M33.
+m33.
 
 ```csharp
 public double m33;

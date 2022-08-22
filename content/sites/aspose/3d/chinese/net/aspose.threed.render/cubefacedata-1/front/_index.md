@@ -1,14 +1,14 @@
 ---
 title: Front
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 -ZFront face
+description: 获取或设置 ZFront face 的数据
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.render/cubefacedata-1/front/
 ---
 ## CubeFaceData&lt;T&gt;.Front property
 
-获取或设置 -Z(Front) face
+获取或设置 -Z(Front) face 的数据
 
 ```csharp
 public T Front { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LookAt
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает позицию просмотра по умолчанию значение по умолчанию 0 0 0
+description: Получает или задает позицию взгляда по умолчанию значение по умолчанию 0 0 0
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.formats/html5saveoptions/lookat/
 ---
 ## Html5SaveOptions.LookAt property
 
-Получает или задает позицию просмотра по умолчанию, значение по умолчанию (0, 0, 0)
+Получает или задает позицию взгляда по умолчанию, значение по умолчанию (0, 0, 0)
 
 ```csharp
 public Vector3 LookAt { get; set; }

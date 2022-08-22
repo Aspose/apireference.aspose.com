@@ -1,14 +1,14 @@
 ---
 title: RectangleShape
 second_title: Aspose.3D for .NET API 参考
-description: RectangleShapeaspose.threed.profiles/rectangleshape
+description: 的构造函数RectangleShapeaspose.threed.profiles/rectangleshape
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/rectangleshape/rectangleshape/
 ---
 ## RectangleShape constructor
 
-[`RectangleShape`](../../rectangleshape)
+的构造函数[`RectangleShape`](../../rectangleshape)
 
 ```csharp
 public RectangleShape()

@@ -3,7 +3,7 @@ title: Quaternion
 second_title: Справочник по Aspose.3D для .NET API
 description: Кватернион обычно используется для вращения в компьютерной графике.
 type: docs
-weight: 2600
+weight: 2590
 url: /ru/net/aspose.threed.utilities/quaternion/
 ---
 ## Quaternion structure
@@ -18,7 +18,7 @@ public struct Quaternion
 
 | Имя | Описание |
 | --- | --- |
-| [Quaternion](quaternion)(double, double, double, double) | Инициализирует новый экземпляр класса[`Quaternion`](../quaternion). |
+| [Quaternion](quaternion)(double, double, double, double) | Инициализирует новый экземпляр[`Quaternion`](../quaternion) класс. |
 
 ## Характеристики
 
@@ -37,26 +37,26 @@ public struct Quaternion
 | static [Interpolate](../../aspose.threed.utilities/quaternion/interpolate)(float, Quaternion, Quaternion) | Заполняет этот кватернион интерполированным значением между заданными аргументами кватерниона для at между from и to. |
 | [Concat](../../aspose.threed.utilities/quaternion/concat)(Quaternion) | Объединить два кватерниона |
 | [Conjugate](../../aspose.threed.utilities/quaternion/conjugate)() | Возвращает сопряженный кватернион текущего кватерниона |
-| [Dot](../../aspose.threed.utilities/quaternion/dot)(Quaternion) | Произведение точек |
-| override [Equals](../../aspose.threed.utilities/quaternion/equals)(object) | Проверить равенство двух кватернионов |
-| [EulerAngles](../../aspose.threed.utilities/quaternion/eulerangles)() | Преобразует кватернион в вращение, представленное углами Эйлера Все компоненты в радианах |
+| [Dot](../../aspose.threed.utilities/quaternion/dot)(Quaternion) | Точки product |
+| override [Equals](../../aspose.threed.utilities/quaternion/equals)(object) | Проверить, равны ли два кватерниона |
+| [EulerAngles](../../aspose.threed.utilities/quaternion/eulerangles)() | Преобразует кватернион во вращение, представленное углами Эйлера Все компоненты указаны в радианах |
 | override [GetHashCode](../../aspose.threed.utilities/quaternion/gethashcode)() | Получает хэш-код Quaternion |
 | [Inverse](../../aspose.threed.utilities/quaternion/inverse)() | Возвращает обратный кватернион текущего кватерниона |
 | [Normalize](../../aspose.threed.utilities/quaternion/normalize)() | Нормализовать кватернион |
 | [ToAngleAxis](../../aspose.threed.utilities/quaternion/toangleaxis)(out double, out Vector3) |  |
-| [ToMatrix](../../aspose.threed.utilities/quaternion/tomatrix)() | Преобразование вращения, представленного кватернионом, в матрицу преобразования. |
-| override [ToString](../../aspose.threed.utilities/quaternion/tostring)() | Получает представление кватерниона в строке |
+| [ToMatrix](../../aspose.threed.utilities/quaternion/tomatrix)() | Преобразовать вращение, представленное кватернионом, в матрицу преобразования. |
+| override [ToString](../../aspose.threed.utilities/quaternion/tostring)() | Получает представление кватерниона в string |
 | [operator +](../../aspose.threed.utilities/quaternion/op_addition) | Перегрузка оператора для + |
 | [operator /](../../aspose.threed.utilities/quaternion/op_division) | Перегрузка оператора для / |
 | [operator ==](../../aspose.threed.utilities/quaternion/op_equality) | Оператор равенства для кватерниона |
-| [operator !=](../../aspose.threed.utilities/quaternion/op_inequality) | Неравный оператор для кватерниона |
+| [operator !=](../../aspose.threed.utilities/quaternion/op_inequality) | Оператор не равенства для кватерниона |
 | [operator *](../../aspose.threed.utilities/quaternion/op_multiply#op_multiply_1) | Перегрузка оператора для * (5 operators) |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| static readonly [Identity](../../aspose.threed.utilities/quaternion/identity) | Кватернион тождества. |
+| static readonly [Identity](../../aspose.threed.utilities/quaternion/identity) | Кватернион идентичности. |
 | [w](../../aspose.threed.utilities/quaternion/w) | Компонент w. |
 | [x](../../aspose.threed.utilities/quaternion/x) | Компонент x. |
 | [y](../../aspose.threed.utilities/quaternion/y) | Компонент y. |

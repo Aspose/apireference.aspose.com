@@ -1,14 +1,14 @@
 ---
 title: Sphere
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Sphereaspose.threed.entities/sphere的新实例默认半径为 1
+description: 初始化Sphereaspose.threed.entities/sphere默认半径为 1.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/sphere/sphere/
 ---
 ## Sphere() {#constructor}
 
-初始化[`Sphere`](../../sphere)的新实例，默认半径为 1。
+初始化[`Sphere`](../../sphere)默认半径为 1.
 
 ```csharp
 public Sphere()
@@ -24,7 +24,7 @@ public Sphere()
 
 ## Sphere(double) {#constructor_1}
 
-初始化具有指定半径的[`Sphere`](../../sphere)类的新实例。
+初始化[`Sphere`](../../sphere)具有指定半径的类。
 
 ```csharp
 public Sphere(double radius)
@@ -44,7 +44,7 @@ public Sphere(double radius)
 
 ## Sphere(double, int, int) {#constructor_2}
 
-用指定的半径、宽度段和高度段初始化[`Sphere`](../../sphere)类的新实例。
+初始化[`Sphere`](../../sphere)具有指定半径、宽度段和高度段的类。
 
 ```csharp
 public Sphere(double radius, int widthSegments, int heightSegments)
@@ -52,7 +52,7 @@ public Sphere(double radius, int widthSegments, int heightSegments)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| radius | Double | 球体半径。 |
+| radius | Double | 球体的半径。 |
 | widthSegments | Int32 | 宽度段。 |
 | heightSegments | Int32 | 高度段。 |
 
@@ -66,7 +66,7 @@ public Sphere(double radius, int widthSegments, int heightSegments)
 
 ## Sphere(string, double, int, int, double, double, double, double) {#constructor_3}
 
-初始化[`Sphere`](../../sphere)类的新实例。
+初始化[`Sphere`](../../sphere)类.
 
 ```csharp
 public Sphere(string name, double radius, int widthSegments, int heightSegments, double phiStart, 
@@ -75,14 +75,14 @@ public Sphere(string name, double radius, int widthSegments, int heightSegments,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
-| radius | Double | 球体半径。 |
+| name | String | 姓名。 |
+| radius | Double | 球体的半径。 |
 | widthSegments | Int32 | 宽度段。 |
 | heightSegments | Int32 | 高度段。 |
-| phiStart | Double | Phi 开始。 |
-| phiLength | Double | Phi 长度。 |
-| thetaStart | Double | Theta 开始。 |
-| thetaLength | Double | Theta 长度。 |
+| phiStart | Double | 披开始。 |
+| phiLength | Double | 披长。 |
+| thetaStart | Double | 西塔开始。 |
+| thetaLength | Double | θ长度。 |
 
 ### 也可以看看
 

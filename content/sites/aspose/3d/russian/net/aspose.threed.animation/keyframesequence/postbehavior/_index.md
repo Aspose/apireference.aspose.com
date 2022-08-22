@@ -1,14 +1,14 @@
 ---
 title: PostBehavior
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает поведение записи указывающее каким должно быть значение выборки после последнего ключевого кадра.
+description: Получает поведение после публикации указывающее каким должно быть значение выборки после последнего ключевого кадра.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.animation/keyframesequence/postbehavior/
 ---
 ## KeyframeSequence.PostBehavior property
 
-Получает поведение записи, указывающее, каким должно быть значение выборки после последнего ключевого кадра.
+Получает поведение после публикации, указывающее, каким должно быть значение выборки после последнего ключевого кадра.
 
 ```csharp
 public Extrapolation PostBehavior { get; }

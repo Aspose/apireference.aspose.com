@@ -29,13 +29,13 @@ public class U3dSaveOptions : SaveOptions
 | [ExportNormals](../../aspose.threed.formats/u3dsaveoptions/exportnormals) { get; set; } | Получает или задает, следует ли экспортировать обычные данные. |
 | [ExportTextureCoordinates](../../aspose.threed.formats/u3dsaveoptions/exporttexturecoordinates) { get; set; } | Получает или задает, следует ли экспортировать координаты текстуры. |
 | [ExportVertexDiffuse](../../aspose.threed.formats/u3dsaveoptions/exportvertexdiffuse) { get; set; } | Получает или задает, экспортировать ли диффузный цвет вершины. |
-| [ExportVertexSpecular](../../aspose.threed.formats/u3dsaveoptions/exportvertexspecular) { get; set; } | Получает или задает, следует ли экспортировать цвет отражения вершины. |
+| [ExportVertexSpecular](../../aspose.threed.formats/u3dsaveoptions/exportvertexspecular) { get; set; } | Получает или задает, следует ли экспортировать зеркальный цвет вершины. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | Имя файла сцены экспорта/импорта. Это необязательно, но полезно при сериализации внешних ресурсов, таких как материал OBJ. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Разрешить пользователю управлять внешними зависимостями во время загрузки/сохранения. |
-| [FlipCoordinateSystem](../../aspose.threed.formats/u3dsaveoptions/flipcoordinatesystem) { get; set; } | Получает или задает, переворачивать ли систему координат контрольных точек/нормально при импорте/экспорте. |
+| [FlipCoordinateSystem](../../aspose.threed.formats/u3dsaveoptions/flipcoordinatesystem) { get; set; } | Получает или задает, следует ли переворачивать систему координат контрольных точек/нормалей при импорте/экспорте. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Некоторые файлы, такие как OBJ, зависят от внешнего файла, пути поиска позволяют Aspose.3D искать внешний файл для загрузки. |
-| [MeshCompression](../../aspose.threed.formats/u3dsaveoptions/meshcompression) { get; set; } | Получает или задает, следует ли включить сжатие данных сетки. |
+| [MeshCompression](../../aspose.threed.formats/u3dsaveoptions/meshcompression) { get; set; } | Получает или задает, следует ли включить сжатие данных меша. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Справочник по Aspose.3D для .NET API
-description: Размер вершинной структуры в байтах.
+description: Размер в байтах структуры вершины.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.utilities/vertexdeclaration/size/
 ---
 ## VertexDeclaration.Size property
 
-Размер вершинной структуры в байтах.
+Размер в байтах структуры вершины.
 
 ```csharp
 public int Size { get; }

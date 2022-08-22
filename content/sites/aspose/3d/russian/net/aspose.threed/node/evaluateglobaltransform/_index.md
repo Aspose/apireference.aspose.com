@@ -1,14 +1,14 @@
 ---
 title: EvaluateGlobalTransform
 second_title: Справочник по Aspose.3D для .NET API
-description: Оцените глобальное преобразование включая геометрическое преобразование или нет.
+description: Оценка глобального преобразования включая геометрическое преобразование или нет.
 type: docs
 weight: 180
 url: /ru/net/aspose.threed/node/evaluateglobaltransform/
 ---
 ## Node.EvaluateGlobalTransform method
 
-Оцените глобальное преобразование, включая геометрическое преобразование или нет.
+Оценка глобального преобразования, включая геометрическое преобразование или нет.
 
 ```csharp
 public Matrix4 EvaluateGlobalTransform(bool withGeometricTransform)
@@ -16,7 +16,7 @@ public Matrix4 EvaluateGlobalTransform(bool withGeometricTransform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| withGeometricTransform | Boolean | Требуется ли геометрическое преобразование. |
+| withGeometricTransform | Boolean | Необходимо ли геометрическое преобразование. |
 
 ### Смотрите также
 

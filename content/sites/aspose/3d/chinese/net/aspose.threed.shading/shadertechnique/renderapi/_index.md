@@ -11,12 +11,11 @@ url: /zh/net/aspose.threed.shading/shadertechnique/renderapi/
 获取或设置此技术使用的渲染 API
 
 ```csharp
-public RenderingAPI RenderAPI { get; set; }
+public string RenderAPI { get; set; }
 ```
 
 ### 也可以看看
 
-* enum [RenderingAPI](../../renderingapi)
 * class [ShaderTechnique](../../shadertechnique)
 * 命名空间 [Aspose.ThreeD.Shading](../../shadertechnique)
 * 部件 [Aspose.3D](../../../)

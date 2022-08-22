@@ -1,14 +1,14 @@
 ---
 title: CreateChildNode
 second_title: Aspose.3D for .NET API 参考
-description: 创建子节点
+description: 创建一个子节点
 type: docs
 weight: 170
 url: /zh/net/aspose.threed/node/createchildnode/
 ---
 ## CreateChildNode() {#createchildnode}
 
-创建子节点
+创建一个子节点
 
 ```csharp
 public Node CreateChildNode()
@@ -28,7 +28,7 @@ public Node CreateChildNode()
 
 ## CreateChildNode(string) {#createchildnode_2}
 
-创建一个给定节点名称的新子节点
+使用给定的节点名称创建一个新的子节点
 
 ```csharp
 public Node CreateChildNode(string nodeName)
@@ -40,7 +40,7 @@ public Node CreateChildNode(string nodeName)
 
 ### 返回值
 
-新子节点。
+新的子节点。
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public Node CreateChildNode(string nodeName)
 
 ## CreateChildNode(Entity) {#createchildnode_1}
 
-创建一个附加给定实体的新子节点
+创建一个带有给定实体的新子节点
 
 ```csharp
 public Node CreateChildNode(Entity entity)
@@ -60,11 +60,11 @@ public Node CreateChildNode(Entity entity)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| entity | Entity | 默认连接到节点 |
+| entity | Entity | 附加到节点的默认实体 |
 
 ### 返回值
 
-新子节点的实体。
+新的子节点。
 
 ### 也可以看看
 
@@ -77,7 +77,7 @@ public Node CreateChildNode(Entity entity)
 
 ## CreateChildNode(string, Entity) {#createchildnode_3}
 
-创建一个给定节点名称的新子节点
+使用给定的节点名称创建一个新的子节点
 
 ```csharp
 public Node CreateChildNode(string nodeName, Entity entity)
@@ -90,7 +90,7 @@ public Node CreateChildNode(string nodeName, Entity entity)
 
 ### 返回值
 
-新子节点。
+新的子节点。
 
 ### 也可以看看
 
@@ -103,7 +103,7 @@ public Node CreateChildNode(string nodeName, Entity entity)
 
 ## CreateChildNode(string, Entity, Material) {#createchildnode_4}
 
-使用给定的节点名称创建一个新的子节点，并附加指定的实体和材质
+使用给定的节点名称创建一个新的子节点，并附加指定的实体和一个材质
 
 ```csharp
 public Node CreateChildNode(string nodeName, Entity entity, Material material)
@@ -113,7 +113,7 @@ public Node CreateChildNode(string nodeName, Entity entity, Material material)
 | --- | --- | --- |
 | nodeName | String | 新子节点的名称 |
 | entity | Entity | 附加到节点的默认实体 |
-| material | Material | 附加到节点的材质 |
+| material | Material | 附加到节点的材料 |
 
 ### 返回值
 

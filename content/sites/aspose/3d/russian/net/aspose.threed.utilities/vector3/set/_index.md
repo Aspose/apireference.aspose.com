@@ -1,14 +1,14 @@
 ---
 title: Set
 second_title: Справочник по Aspose.3D для .NET API
-description: Устанавливает компонент x/y/z одним вызовом.
+description: Устанавливает компонент x/y/z за один вызов.
 type: docs
 weight: 200
 url: /ru/net/aspose.threed.utilities/vector3/set/
 ---
 ## Vector3.Set method
 
-Устанавливает компонент x/y/z одним вызовом.
+Устанавливает компонент x/y/z за один вызов.
 
 ```csharp
 public void Set(double newX, double newY, double newZ)
@@ -16,8 +16,8 @@ public void Set(double newX, double newY, double newZ)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newX | Double | Компонент x. |
-| newY | Double | Компонент y. |
+| newX | Double | Компонент х. |
+| newY | Double | Компонент Y. |
 | newZ | Double | Компонент z. |
 
 ### Смотрите также

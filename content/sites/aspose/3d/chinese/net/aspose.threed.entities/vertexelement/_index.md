@@ -22,13 +22,13 @@ public abstract class VertexElement : IIndexedVertexElement
 | [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | 获取或设置元素的映射方式。 |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | 获取或设置名称。 |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | 获取或设置元素的引用方式。 |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取[`VertexElement`](../vertexelement) |
+| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取类型[`VertexElement`](../vertexelement) |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Clear](../../aspose.threed.entities/vertexelement/clear)() | 清除此顶点元素中的所有数据。 |
+| abstract [Clear](../../aspose.threed.entities/vertexelement/clear)() | 清除该顶点元素的所有数据。 |
 | [SetIndices](../../aspose.threed.entities/vertexelement/setindices)(int[]) | 加载索引 |
 | override [ToString](../../aspose.threed.entities/vertexelement/tostring)() | 顶点元素的字符串表示。 |
 

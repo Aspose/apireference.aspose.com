@@ -16,7 +16,7 @@ public IList<KeyFrame> KeyFrames { get; }
 
 ### 适当的价值
 
-键。
+按键。
 
 ### 也可以看看
 

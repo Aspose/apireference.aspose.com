@@ -1,14 +1,14 @@
 ---
 title: Html5SaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: КонструкторHtml5SaveOptionsaspose.threed.formats/html5saveoptionsсо всеми настройками по умолчанию.
+description: КонструкторHtml5SaveOptionsaspose.threed.formats/html5saveoptions со всеми настройками по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/html5saveoptions/html5saveoptions/
 ---
 ## Html5SaveOptions constructor
 
-Конструктор[`Html5SaveOptions`](../../html5saveoptions)со всеми настройками по умолчанию.
+Конструктор[`Html5SaveOptions`](../../html5saveoptions) со всеми настройками по умолчанию.
 
 ```csharp
 public Html5SaveOptions()

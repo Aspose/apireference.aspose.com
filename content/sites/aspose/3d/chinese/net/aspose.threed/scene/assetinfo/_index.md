@@ -16,7 +16,7 @@ public AssetInfo AssetInfo { get; set; }
 
 ### 适当的价值
 
-文档信息.
+文档信息。
 
 ### 也可以看看
 

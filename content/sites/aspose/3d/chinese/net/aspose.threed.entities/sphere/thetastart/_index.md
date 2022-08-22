@@ -1,14 +1,14 @@
 ---
 title: ThetaStart
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 theta start
+description: 获取或设置 theta start.
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.entities/sphere/thetastart/
 ---
 ## Sphere.ThetaStart property
 
-获取或设置 theta start。
+获取或设置 theta start.
 
 ```csharp
 public double ThetaStart { get; set; }

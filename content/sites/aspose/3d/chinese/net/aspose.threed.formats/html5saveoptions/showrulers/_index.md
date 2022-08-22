@@ -1,14 +1,14 @@
 ---
 title: ShowRulers
 second_title: Aspose.3D for .NET API 参考
-description: 在场景中显示x/y/z轴的标尺来测量模型 默认值为假
+description: 在场景中显示x/y/z轴的标尺来测量模型 默认值为false
 type: docs
 weight: 90
 url: /zh/net/aspose.threed.formats/html5saveoptions/showrulers/
 ---
 ## Html5SaveOptions.ShowRulers property
 
-在场景中显示x/y/z轴的标尺来测量模型。 默认值为假。
+在场景中显示x/y/z轴的标尺来测量模型。 默认值为false。
 
 ```csharp
 public bool ShowRulers { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RenderParameters
 second_title: Aspose.3D for .NET API 参考
-description: 初始化PixelFormataspose.threed.render/pixelformat
+description: 初始化一个实例PixelFormataspose.threed.render/pixelformat
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/renderparameters/renderparameters/
 ---
 ## RenderParameters constructor
 
-初始化[`PixelFormat`](../../pixelformat)
+初始化一个实例[`PixelFormat`](../../pixelformat)
 
 ```csharp
 public RenderParameters(bool doubleBuffering = true, int colorBits = 32, int depthBits = 24, 

@@ -1,14 +1,14 @@
 ---
 title: MappingMode
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает способ сопоставления элемента.
+description: Получает или задает способ отображения элемента.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/vertexelement/mappingmode/
 ---
 ## VertexElement.MappingMode property
 
-Получает или задает способ сопоставления элемента.
+Получает или задает способ отображения элемента.
 
 ```csharp
 public MappingMode MappingMode { get; set; }

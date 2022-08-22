@@ -1,14 +1,14 @@
 ---
 title: Time
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 list.dataindex 关键帧的时间位置以秒为单位
+description: 获取或设置list.dataindex关键帧的时间位置以秒为单位
 type: docs
 weight: 140
 url: /zh/net/aspose.threed.animation/keyframe/time/
 ---
 ## KeyFrame.Time property
 
-获取或设置 list.data[index] 关键帧的时间位置，以秒为单位。
+获取或设置list.data[index]关键帧的时间位置，以秒为单位。
 
 ```csharp
 public double Time { get; set; }

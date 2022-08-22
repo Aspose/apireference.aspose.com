@@ -18,15 +18,15 @@ public struct EndPoint
 
 | Имя | Описание |
 | --- | --- |
-| [EndPoint](endpoint#constructor_1)(double) | Создать[`EndPoint`](../endpoint)из реального параметра. |
-| [EndPoint](endpoint#constructor)(Vector3) | Построить[`EndPoint`](../endpoint)из декартовой точки. |
+| [EndPoint](endpoint#constructor_1)(double) | Построить[`EndPoint`](../endpoint) из реального параметра. |
+| [EndPoint](endpoint#constructor)(Vector3) | Построить[`EndPoint`](../endpoint) от декартовой точки. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AsPoint](../../aspose.threed.entities/endpoint/aspoint) { get; } | Получает конечную точку как декартову точку или создает исключение. |
-| [AsValue](../../aspose.threed.entities/endpoint/asvalue) { get; } | Получает конечную точку как реальный параметр или генерирует исключение. |
+| [AsPoint](../../aspose.threed.entities/endpoint/aspoint) { get; } | Получает конечную точку как декартову точку или вызывает исключение. |
+| [AsValue](../../aspose.threed.entities/endpoint/asvalue) { get; } | Получает конечную точку как реальный параметр или создает исключение. |
 | [IsCartesianPoint](../../aspose.threed.entities/endpoint/iscartesianpoint) { get; } | Является ли конечная точка декартовой точкой? |
 
 ## Методы
@@ -34,7 +34,7 @@ public struct EndPoint
 | Имя | Описание |
 | --- | --- |
 | static [FromDegree](../../aspose.threed.entities/endpoint/fromdegree)(double) | Создать конечную точку, измеренную в градусах. |
-| static [FromRadian](../../aspose.threed.entities/endpoint/fromradian)(double) | Создать конечную точку, измеренную в радианах. |
+| static [FromRadian](../../aspose.threed.entities/endpoint/fromradian)(double) | Создать конечную точку в радианах. |
 | override [ToString](../../aspose.threed.entities/endpoint/tostring)() | Возвращает строковое представление текущей конечной точки. |
 
 ### Смотрите также

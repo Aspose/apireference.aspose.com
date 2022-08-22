@@ -1,14 +1,14 @@
 ---
 title: StencilReference
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает эталонное значение для теста трафарета.
+description: Получает или задает эталонное значение для теста шаблона.
 type: docs
 weight: 180
 url: /ru/net/aspose.threed.render/renderstate/stencilreference/
 ---
 ## RenderState.StencilReference property
 
-Получает или задает эталонное значение для теста трафарета.
+Получает или задает эталонное значение для теста шаблона.
 
 ```csharp
 public int StencilReference { get; set; }

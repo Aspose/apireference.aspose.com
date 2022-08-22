@@ -1,14 +1,14 @@
 ---
 title: BlendColor
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在ConstantColor
+description: 获取或设置使用的混合颜色ConstantColor
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.render/renderstate/blendcolor/
 ---
 ## RenderState.BlendColor property
 
-获取或设置在ConstantColor
+获取或设置使用的混合颜色ConstantColor
 
 ```csharp
 public FVector4 BlendColor { get; set; }

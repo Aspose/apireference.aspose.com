@@ -1,14 +1,14 @@
 ---
 title: DrawIndex
 second_title: Справочник по Aspose.3D для .NET API
-description: Выполнить индексированное рисование в списке команд
+description: Выполнить индексированный розыгрыш в команде list
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.render/icommandlist/drawindex/
 ---
 ## DrawIndex() {#drawindex}
 
-Выполнить индексированное рисование в списке команд
+Выполнить индексированный розыгрыш в команде list
 
 ```csharp
 public void DrawIndex()
@@ -24,7 +24,7 @@ public void DrawIndex()
 
 ## DrawIndex(int, int) {#drawindex_1}
 
-Выполнить индексированную отрисовку в списке команд
+Выполнить индексированный розыгрыш в команде list
 
 ```csharp
 public void DrawIndex(int start, int count)

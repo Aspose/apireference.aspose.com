@@ -18,8 +18,8 @@ public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Int32 |  |
-| высота | Int32 |  |
-| шаг | Int32 |  |
+| height | Int32 |  |
+| stride | Int32 |  |
 | bytesPerPixel | Int32 |  |
 | pixelFormat | PixelFormat |  |
 | data | Byte[] |  |
@@ -44,8 +44,8 @@ public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Int32 |  |
-| высота | Int32 |  |
-| шаг | Int32 |  |
+| height | Int32 |  |
+| stride | Int32 |  |
 | bytesPerPixel | Int32 |  |
 | pixelFormat | PixelFormat |  |
 | data | Byte[] |  |

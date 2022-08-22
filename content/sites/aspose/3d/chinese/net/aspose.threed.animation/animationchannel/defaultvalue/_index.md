@@ -1,14 +1,14 @@
 ---
 title: DefaultValue
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置通道的默认值 如果通道没有连接关键帧序列则在动画评估期间将使用默认值 真实场景动画只对节点的 x 坐标进行动画处理y 和 z 没有改变 则在全平移评估时将使用默认值
+description: 获取或设置通道的默认值 如果通道没有连接关键帧序列动画评估时将使用默认值 真实场景动画只动画节点的x坐标y和z是未更改 则在完整翻译评估期间将使用默认值
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.animation/animationchannel/defaultvalue/
 ---
 ## AnimationChannel.DefaultValue property
 
-获取或设置通道的默认值。 如果通道没有连接关键帧序列，则在动画评估期间将使用默认值。 真实场景:动画只对节点的 x 坐标进行动画处理，y 和 z 没有改变， 则在全平移评估时将使用默认值。
+获取或设置通道的默认值。 如果通道没有连接关键帧序列，动画评估时将使用默认值。 真实场景：动画只动画节点的x坐标，y和z是未更改， 则在完整翻译评估期间将使用默认值。
 
 ```csharp
 public object DefaultValue { get; set; }

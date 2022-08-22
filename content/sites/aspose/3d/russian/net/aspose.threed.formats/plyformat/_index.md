@@ -23,20 +23,20 @@ public class PlyFormat : FileFormat
 | [ContentType](../../aspose.threed/fileformat/contenttype) { get; } | Получает тип содержимого формата файла |
 | [Extension](../../aspose.threed/fileformat/extension) { get; } | Получает имя расширения этого типа. |
 | [Extensions](../../aspose.threed/fileformat/extensions) { get; } | Получает имена расширений этого типа. |
-| [FileFormatType](../../aspose.threed/fileformat/fileformattype) { get; } | Получает тип формата файла |
+| [FileFormatType](../../aspose.threed/fileformat/fileformattype) { get; } | Получает формат файла type |
 | [Version](../../aspose.threed/fileformat/version) { get; } | Получает версию формата файла |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Создать параметры загрузки по умолчанию для этого формата файла |
-| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Создать параметры сохранения по умолчанию для этого формата файла |
+| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Создать параметры загрузки по умолчанию для этого файла формата |
+| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Создать параметры сохранения по умолчанию для этого файла формата |
 | [Decode](../../aspose.threed.formats/plyformat/decode#decode)(Stream, PlyLoadOptions) | Декодировать облако точек или сетку из указанного потока. |
 | [Decode](../../aspose.threed.formats/plyformat/decode#decode_1)(string, PlyLoadOptions) | Декодировать облако точек или сетку из указанного потока. |
-| [Encode](../../aspose.threed.formats/plyformat/encode#encode)(Entity, Stream, PlySaveOptions) | Кодировать сущность и сохранять результат в поток. |
+| [Encode](../../aspose.threed.formats/plyformat/encode#encode)(Entity, Stream, PlySaveOptions) | Закодируйте объект и сохраните результат в потоке. |
 | [Encode](../../aspose.threed.formats/plyformat/encode#encode_1)(Entity, string, PlySaveOptions) | Закодируйте объект и сохраните результат во внешнем файле. |
-| override [ToString](../../aspose.threed/fileformat/tostring)() | Форматирует в строку |
+| override [ToString](../../aspose.threed/fileformat/tostring)() | Форматирует строку |
 
 ### Смотрите также
 

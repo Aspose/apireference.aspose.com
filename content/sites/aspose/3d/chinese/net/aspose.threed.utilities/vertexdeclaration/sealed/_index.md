@@ -1,14 +1,14 @@
 ---
 title: Sealed
 second_title: Aspose.3D for .NET API 参考
-description: AVertexDeclarationaspose.threed.utilities/vertexdeclaration在被TriMesh或TriMeshaspose.threed.entities/trimesh不允许进行更多修改
+description: 一个VertexDeclarationaspose.threed.utilities/vertexdeclaration使用时将被密封TriMeshaspose.threed.entities/trimesh1或者TriMeshaspose.threed.entities/trimesh不允许再修改
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.utilities/vertexdeclaration/sealed/
 ---
 ## VertexDeclaration.Sealed property
 
-A[`VertexDeclaration`](../../vertexdeclaration)在被TriMesh或[`TriMesh`](../../../aspose.threed.entities/trimesh)，不允许进行更多修改。
+一个[`VertexDeclaration`](../../vertexdeclaration)使用时将被密封[`TriMesh`](../../../aspose.threed.entities/trimesh-1)或者[`TriMesh`](../../../aspose.threed.entities/trimesh)，不允许再修改。
 
 ```csharp
 public bool Sealed { get; }

@@ -1,14 +1,14 @@
 ---
 title: ApplicationVersion
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает версию приложения создавшего этот ресурс.
+description: Получает или задает версию приложения создавшего этот актив.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed/assetinfo/applicationversion/
 ---
 ## AssetInfo.ApplicationVersion property
 
-Получает или задает версию приложения, создавшего этот ресурс.
+Получает или задает версию приложения, создавшего этот актив.
 
 ```csharp
 public string ApplicationVersion { get; set; }

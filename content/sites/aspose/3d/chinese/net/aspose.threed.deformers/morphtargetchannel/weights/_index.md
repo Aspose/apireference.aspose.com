@@ -16,7 +16,7 @@ public IList<double> Weights { get; }
 
 ### 适当的价值
 
-完整权重。
+完整的权重。
 
 ### 也可以看看
 

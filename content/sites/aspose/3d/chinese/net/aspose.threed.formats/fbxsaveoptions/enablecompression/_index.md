@@ -8,7 +8,7 @@ url: /zh/net/aspose.threed.formats/fbxsaveoptions/enablecompression/
 ---
 ## FbxSaveOptions.EnableCompression property
 
-压缩FBX文件中的大二进制数据（例如动画数据，控制点，顶点元素数据，索引），默认值为true。
+压缩FBX文件中的大二进制数据（例如动画数据、控制点、顶点元素数据、索引），默认值为true。
 
 ```csharp
 public bool EnableCompression { get; set; }

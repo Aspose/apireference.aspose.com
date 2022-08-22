@@ -8,7 +8,7 @@ url: /zh/net/aspose.threed.formats/rvmloadoptions/attributeprefix/
 ---
 ## RvmLoadOptions.AttributePrefix property
 
-获取或设置在外部属性文件中定义的属性的前缀， 前缀用于避免名称冲突，默认值为"rvm:"
+获取或设置在外部属性文件中定义的属性的前缀， 前缀用于避免名称冲突，默认值为“rvm:”
 
 ```csharp
 public string AttributePrefix { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.3D для .NET API
-description: ВозвращаетString представляющий текущийMatrix4aspose.threed.utilities/matrix4.
+description: ВозвращаетStringкоторый представляет текущийMatrix4aspose.threed.utilities/matrix4 .
 type: docs
 weight: 300
 url: /ru/net/aspose.threed.utilities/matrix4/tostring/
 ---
 ## Matrix4.ToString method
 
-ВозвращаетString, представляющий текущий[`Matrix4`](../../matrix4).
+ВозвращаетStringкоторый представляет текущий[`Matrix4`](../../matrix4) .
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-AStringкоторая представляет текущий[`Matrix4`](../../matrix4).
+АStringкоторый представляет текущий[`Matrix4`](../../matrix4).
 
 ### Смотрите также
 

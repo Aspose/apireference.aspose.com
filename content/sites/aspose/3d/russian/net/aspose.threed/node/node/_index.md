@@ -1,14 +1,14 @@
 ---
 title: Node
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаNodeaspose.threed/node.
+description: Инициализирует новый экземплярNodeaspose.threed/node класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/node/node/
 ---
 ## Node() {#constructor}
 
-Инициализирует новый экземпляр класса[`Node`](../../node).
+Инициализирует новый экземпляр[`Node`](../../node) класс.
 
 ```csharp
 public Node()
@@ -24,7 +24,7 @@ public Node()
 
 ## Node(string, Entity) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Node`](../../node).
+Инициализирует новый экземпляр[`Node`](../../node) класс.
 
 ```csharp
 public Node(string name, Entity entity)
@@ -33,7 +33,7 @@ public Node(string name, Entity entity)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя. |
-| entity | Entity | Объект по умолчанию. |
+| entity | Entity | Сущность по умолчанию. |
 
 ### Смотрите также
 
@@ -46,7 +46,7 @@ public Node(string name, Entity entity)
 
 ## Node(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Node`](../../node).
+Инициализирует новый экземпляр[`Node`](../../node) класс.
 
 ```csharp
 public Node(string name)

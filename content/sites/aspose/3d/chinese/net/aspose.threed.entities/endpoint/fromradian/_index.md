@@ -1,14 +1,14 @@
 ---
 title: FromRadian
 second_title: Aspose.3D for .NET API 参考
-description: 创建一个以弧度为单位的端点
+description: 创建一个以弧度测量的端点
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.entities/endpoint/fromradian/
 ---
 ## EndPoint.FromRadian method
 
-创建一个以弧度为单位的端点。
+创建一个以弧度测量的端点。
 
 ```csharp
 public static EndPoint FromRadian(double degree)

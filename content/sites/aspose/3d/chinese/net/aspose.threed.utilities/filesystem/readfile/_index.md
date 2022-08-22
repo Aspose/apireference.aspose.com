@@ -1,14 +1,14 @@
 ---
 title: ReadFile
 second_title: Aspose.3D for .NET API 参考
-description: 创建一个流来读取依赖
+description: 创建一个用于读取依赖项的流
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.utilities/filesystem/readfile/
 ---
 ## FileSystem.ReadFile method
 
-创建一个流来读取依赖。
+创建一个用于读取依赖项的流。
 
 ```csharp
 public abstract Stream ReadFile(string fileName, IOConfig options)

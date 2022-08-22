@@ -1,14 +1,14 @@
 ---
 title: FromRadian
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать конечную точку измеренную в радианах.
+description: Создать конечную точку в радианах.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/endpoint/fromradian/
 ---
 ## EndPoint.FromRadian method
 
-Создать конечную точку, измеренную в радианах.
+Создать конечную точку в радианах.
 
 ```csharp
 public static EndPoint FromRadian(double degree)
@@ -16,7 +16,7 @@ public static EndPoint FromRadian(double degree)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| степень | Double |  |
+| degree | Double |  |
 
 ### Смотрите также
 

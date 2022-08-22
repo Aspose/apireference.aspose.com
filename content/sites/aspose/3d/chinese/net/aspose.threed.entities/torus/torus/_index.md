@@ -1,14 +1,14 @@
 ---
 title: Torus
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Torusaspose.threed.entities/torus类的新实例
+description: 初始化Torusaspose.threed.entities/torus类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/torus/torus/
 ---
 ## Torus() {#constructor}
 
-初始化[`Torus`](../../torus)类的新实例。
+初始化[`Torus`](../../torus)类.
 
 ```csharp
 public Torus()
@@ -24,7 +24,7 @@ public Torus()
 
 ## Torus(double, double) {#constructor_1}
 
-初始化[`Torus`](../../torus)类的新实例。
+初始化[`Torus`](../../torus)类.
 
 ```csharp
 public Torus(double radius, double tube)
@@ -45,7 +45,7 @@ public Torus(double radius, double tube)
 
 ## Torus(double, double, double) {#constructor_2}
 
-初始化[`Torus`](../../torus)类的新实例。
+初始化[`Torus`](../../torus)类.
 
 ```csharp
 public Torus(double radius, double tube, double arc)
@@ -67,7 +67,7 @@ public Torus(double radius, double tube, double arc)
 
 ## Torus(string, double, double, int, int, double) {#constructor_3}
 
-初始化[`Torus`](../../torus)类的新实例。
+初始化[`Torus`](../../torus)类.
 
 ```csharp
 public Torus(string name, double radius, double tube, int radialSegments, int tubularSegments, 
@@ -76,11 +76,11 @@ public Torus(string name, double radius, double tube, int radialSegments, int tu
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 姓名。 |
 | radius | Double | 圆环的半径。 |
 | tube | Double | 圆环管的半径。 |
 | radialSegments | Int32 | 径向段。 |
-| tubularSegments | Int32 | 管状段。 |
+| tubularSegments | Int32 | 管状节段。 |
 | arc | Double | 弧。 |
 
 ### 也可以看看

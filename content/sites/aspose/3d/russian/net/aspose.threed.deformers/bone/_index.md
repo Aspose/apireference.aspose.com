@@ -1,14 +1,14 @@
 ---
 title: Bone
 second_title: Справочник по Aspose.3D для .NET API
-description: Кость определяет подмножество контрольной точки геометрии и определяет вес смешивания для каждой контрольной точки. ОбъектBone./boneнельзя использовать напрямую экземплярSkinDeformer./skindeformerиспользуется для деформации геометрии аSkinDeformer./skindeformerпоставляется с набором костей каждая кость связана с узлом. ПРИМЕЧАНИЕ. Контрольная точка геометрии может быть привязана к нескольким костям.
+description: Кость определяет подмножество контрольной точки геометрии и определяет вес смешивания для каждой контрольной точки. Bone./bone объект не может использоваться напрямуюSkinDeformer./skindeformer экземпляр используется для деформации геометрии аSkinDeformer./skindeformerпоставляется с набором костей каждая кость связана с узлом. ПРИМЕЧАНИЕ. Контрольная точка геометрии может быть привязана к нескольким костям.
 type: docs
 weight: 180
 url: /ru/net/aspose.threed.deformers/bone/
 ---
 ## Bone class
 
-Кость определяет подмножество контрольной точки геометрии и определяет вес смешивания для каждой контрольной точки. Объект[`Bone`](../bone)нельзя использовать напрямую, экземпляр[`SkinDeformer`](../skindeformer)используется для деформации геометрии, а[`SkinDeformer`](../skindeformer)поставляется с набором костей, каждая кость связана с узлом. ПРИМЕЧАНИЕ. Контрольная точка геометрии может быть привязана к нескольким костям.
+Кость определяет подмножество контрольной точки геометрии и определяет вес смешивания для каждой контрольной точки. [`Bone`](../bone) объект не может использоваться напрямую,[`SkinDeformer`](../skindeformer) экземпляр используется для деформации геометрии, а[`SkinDeformer`](../skindeformer)поставляется с набором костей, каждая кость связана с узлом. ПРИМЕЧАНИЕ. Контрольная точка геометрии может быть привязана к нескольким костям.
 
 ```csharp
 public class Bone : A3DObject
@@ -18,8 +18,8 @@ public class Bone : A3DObject
 
 | Имя | Описание |
 | --- | --- |
-| [Bone](bone#constructor)() | Инициализирует новый экземпляр класса[`Bone`](../bone). |
-| [Bone](bone#constructor_1)(string) | Инициализирует новый экземпляр класса[`Bone`](../bone). |
+| [Bone](bone#constructor)() | Инициализирует новый экземпляр[`Bone`](../bone) класс. |
+| [Bone](bone#constructor_1)(string) | Инициализирует новый экземпляр[`Bone`](../bone) класс. |
 
 ## Характеристики
 
@@ -28,10 +28,10 @@ public class Bone : A3DObject
 | [BoneTransform](../../aspose.threed.deformers/bone/bonetransform) { get; set; } | Получает или задает матрицу преобразования кости. |
 | [Item](../../aspose.threed.deformers/bone/item) { get; set; } |  |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [Node](../../aspose.threed.deformers/bone/node) { get; set; } | Получает или задает узел. Узел кости — это кость, к которой прикреплен скин,[`SkinDeformer`](../skindeformer)будет использовать узел кости, чтобы влиять на смещение контрольных точек. К узлу кости обычно прикрепляется[`Skeleton`](../../aspose.threed.entities/skeleton), но это не обязательно. Прикреплен[`Skeleton`](../../aspose.threed.entities/skeleton)обычно используется программным обеспечением DCC для показа скелета пользователю. |
+| [Node](../../aspose.threed.deformers/bone/node) { get; set; } | Получает или задает узел. Костный узел – это кость, к которой прикреплена кожа,[`SkinDeformer`](../skindeformer) будет использовать узел кости, чтобы повлиять на смещение контрольных точек. Узел кости обычно имеет[`Skeleton`](../../aspose.threed.entities/skeleton)прилагается, но не обязательно. Прикреплен[`Skeleton`](../../aspose.threed.entities/skeleton) обычно используется программным обеспечением DCC, чтобы показать скелет пользователю. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Transform](../../aspose.threed.deformers/bone/transform) { get; set; } | Получает или задает матрицу преобразования узла, содержащего кость. |
-| [WeightCount](../../aspose.threed.deformers/bone/weightcount) { get; } | Получает счетчик веса, автоматически расширяется[`SetWeight`](./setweight) |
+| [WeightCount](../../aspose.threed.deformers/bone/weightcount) { get; } | Получает количество веса, оно автоматически расширяется[`SetWeight`](./setweight) |
 
 ## Методы
 
@@ -39,11 +39,11 @@ public class Bone : A3DObject
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
-| [GetWeight](../../aspose.threed.deformers/bone/getweight)(int) | Получает вес контрольной точки, указанной индексом |
+| [GetWeight](../../aspose.threed.deformers/bone/getweight)(int) | Получает вес для контрольной точки, указанной index |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
-| [SetWeight](../../aspose.threed.deformers/bone/setweight)(int, double) | Устанавливает вес контрольной точки, указанной индексом |
+| [SetWeight](../../aspose.threed.deformers/bone/setweight)(int, double) | Устанавливает вес для контрольной точки, указанной index |
 
 ### Смотрите также
 

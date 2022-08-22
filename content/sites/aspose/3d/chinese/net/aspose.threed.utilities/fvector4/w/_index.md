@@ -1,14 +1,14 @@
 ---
 title: w
 second_title: Aspose.3D for .NET API 参考
-description: w 组件
+description: w 分量
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.utilities/fvector4/w/
 ---
 ## FVector4.w field
 
-w 组件。
+w 分量。
 
 ```csharp
 public float w;

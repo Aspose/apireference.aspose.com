@@ -1,14 +1,14 @@
 ---
 title: CopyFrom
 second_title: Справочник по Aspose.3D для .NET API
-description: СкопируйтеTriMeshaspose.threed.entities/trimeshиз ввода с новым расположением вершин
+description: СкопируйтеTriMeshaspose.threed.entities/trimeshиз ввода с новой вершиной layout
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/trimesh/copyfrom/
 ---
 ## TriMesh.CopyFrom method
 
-Скопируйте[`TriMesh`](../../trimesh)из ввода с новым расположением вершин
+Скопируйте[`TriMesh`](../../trimesh)из ввода с новой вершиной layout
 
 ```csharp
 public static TriMesh CopyFrom(TriMesh input, VertexDeclaration vd)
@@ -17,7 +17,7 @@ public static TriMesh CopyFrom(TriMesh input, VertexDeclaration vd)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | input | TriMesh | Входной TriMesh для копирования |
-| vd | VertexDeclaration | Новое объявление вершины выходного TriMesh |
+| vd | VertexDeclaration | Новое объявление вершин выходного TriMesh |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: ToDegree
 second_title: Aspose.3D for .NET API 参考
-description: 将Vector3aspose.threed.utilities/vector3从弧度转换为度数
+description: 转换一个Vector3aspose.threed.utilities/vector3从弧度到度数
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.utilities/mathutils/todegree/
 ---
 ## ToDegree(Vector3) {#todegree}
 
-将[`Vector3`](../../vector3)从弧度转换为度数。
+转换一个[`Vector3`](../../vector3)从弧度到度数。
 
 ```csharp
 public static Vector3 ToDegree(Vector3 radian)
@@ -20,7 +20,7 @@ public static Vector3 ToDegree(Vector3 radian)
 
 ### 返回值
 
-度数。
+度值。
 
 ### 也可以看看
 
@@ -41,11 +41,11 @@ public static float ToDegree(float radian)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| radian | Single | 弧度值. |
+| radian | Single | 弧度值。 |
 
 ### 返回值
 
-度数。
+度值。
 
 ### 也可以看看
 
@@ -65,11 +65,11 @@ public static double ToDegree(double radian)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| radian | Double | 弧度值. |
+| radian | Double | 弧度值。 |
 
 ### 返回值
 
-度数。
+度值。
 
 ### 也可以看看
 
@@ -89,13 +89,13 @@ public static Vector3 ToDegree(double x, double y, double z)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | x 分量在弧度值。 |
-| y | Double | 以弧度表示的 y 分量。 |
-| z | Double | 弧度值中的 z 分量。 |
+| x | Double | 以弧度值表示的 x 分量。 |
+| y | Double | 以弧度值表示的 y 分量。 |
+| z | Double | 以弧度值表示的 z 分量。 |
 
 ### 返回值
 
-度数。
+度值。
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: Vector2
 second_title: Справочник по Aspose.3D для .NET API
 description: Вектор с двумя компонентами.
 type: docs
-weight: 2640
+weight: 2630
 url: /ru/net/aspose.threed.utilities/vector2/
 ---
 ## Vector2 structure
@@ -18,30 +18,30 @@ public struct Vector2 : IComparable<Vector2>
 
 | Имя | Описание |
 | --- | --- |
-| [Vector2](vector2#constructor_1)(double) | Инициализирует новый экземпляр структуры[`Vector2`](../vector2). |
-| [Vector2](vector2#constructor)(FVector2) | Инициализирует новый экземпляр структуры[`Vector2`](../vector2). |
-| [Vector2](vector2#constructor_2)(double, double) | Инициализирует новый экземпляр структуры[`Vector2`](../vector2). |
+| [Vector2](vector2#constructor_1)(double) | Инициализирует новый экземпляр[`Vector2`](../vector2) структура. |
+| [Vector2](vector2#constructor)(FVector2) | Инициализирует новый экземпляр[`Vector2`](../vector2) структура. |
+| [Vector2](vector2#constructor_2)(double, double) | Инициализирует новый экземпляр[`Vector2`](../vector2) структура. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Length](../../aspose.threed.utilities/vector2/length) { get; } | Получает длину. |
-| [U](../../aspose.threed.utilities/vector2/u) { get; set; } | Получает или задает компонент U, если[`Vector2`](../vector2)используется в качестве координат сопоставления. Псевдоним компонента x. |
-| [V](../../aspose.threed.utilities/vector2/v) { get; set; } | Получает или задает компонент V, если[`Vector2`](../vector2)используется в качестве координат сопоставления. Это псевдоним компонента y. |
+| [U](../../aspose.threed.utilities/vector2/u) { get; set; } | Получает или задает компонент U, если[`Vector2`](../vector2) используется как координата отображения. Это псевдоним компонента x. |
+| [V](../../aspose.threed.utilities/vector2/v) { get; set; } | Получает или задает компонент V, если[`Vector2`](../vector2)используется как координата отображения. Это псевдоним компонента y. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [CompareTo](../../aspose.threed.utilities/vector2/compareto)(Vector2) | Сравнить текущий вектор с другим экземпляром. |
-| [Cross](../../aspose.threed.utilities/vector2/cross)(Vector2) | Перемножение двух векторов |
+| [Cross](../../aspose.threed.utilities/vector2/cross)(Vector2) | Перекрестное произведение двух векторов |
 | [Dot](../../aspose.threed.utilities/vector2/dot)(Vector2) | Получает скалярное произведение двух векторов |
 | override [Equals](../../aspose.threed.utilities/vector2/equals#equals_1)(object) | Проверить, равны ли два вектора2 |
 | [Equals](../../aspose.threed.utilities/vector2/equals#equals)(Vector2) | Проверить, равны ли два вектора2 |
 | override [GetHashCode](../../aspose.threed.utilities/vector2/gethashcode)() | Получает хэш-код Vector2 |
 | [Normalize](../../aspose.threed.utilities/vector2/normalize)() | Нормализует этот экземпляр. |
-| override [ToString](../../aspose.threed.utilities/vector2/tostring)() | ВозвращаетString, который представляет текущий[`Vector2`](../vector2). |
+| override [ToString](../../aspose.threed.utilities/vector2/tostring)() | ВозвращаетStringкоторый представляет текущий[`Vector2`](../vector2) . |
 | [operator +](../../aspose.threed.utilities/vector2/op_addition) | Оператор сложения для Vector2 |
 | [operator /](../../aspose.threed.utilities/vector2/op_division) | Оператор деления для Vector2 |
 | [operator ==](../../aspose.threed.utilities/vector2/op_equality) | Оператор равенства для Vector2 |

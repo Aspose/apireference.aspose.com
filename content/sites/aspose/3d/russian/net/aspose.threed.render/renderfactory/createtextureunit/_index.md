@@ -1,14 +1,14 @@
 ---
 title: CreateTextureUnit
 second_title: Справочник по Aspose.3D для .NET API
-description: Создайте блок текстуры к которому может получить доступ шейдер.
+description: Создать блок текстуры к которому может получить доступ шейдер.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.render/renderfactory/createtextureunit/
 ---
 ## CreateTextureUnit(TextureType) {#createtextureunit_1}
 
-Создайте блок текстуры, к которому может получить доступ шейдер.
+Создать блок текстуры, к которому может получить доступ шейдер.
 
 ```csharp
 public abstract ITextureUnit CreateTextureUnit(TextureType textureType)
@@ -30,7 +30,7 @@ public abstract ITextureUnit CreateTextureUnit(TextureType textureType)
 
 ## CreateTextureUnit() {#createtextureunit}
 
-Создайте блок 2D-текстуры, доступный шейдеру.
+Создать блок 2D-текстуры, к которому может получить доступ шейдер.
 
 ```csharp
 public ITextureUnit CreateTextureUnit()

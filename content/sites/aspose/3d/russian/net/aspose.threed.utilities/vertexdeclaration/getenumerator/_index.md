@@ -16,7 +16,7 @@ public IEnumerator<VertexField> GetEnumerator()
 
 ### Возвращаемое значение
 
-Перечислитель
+Счетчик
 
 ### Смотрите также
 

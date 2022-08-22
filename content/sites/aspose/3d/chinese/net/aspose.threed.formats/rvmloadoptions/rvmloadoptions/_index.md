@@ -1,14 +1,14 @@
 ---
 title: RvmLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: 构造RvmLoadOptionsaspose.threed.formats/rvmloadoptions实例
+description: 构造一个RvmLoadOptionsaspose.threed.formats/rvmloadoptions instance
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/rvmloadoptions/rvmloadoptions/
 ---
 ## RvmLoadOptions(FileContentType) {#constructor_1}
 
-构造[`RvmLoadOptions`](../../rvmloadoptions)实例
+构造一个[`RvmLoadOptions`](../../rvmloadoptions) instance
 
 ```csharp
 public RvmLoadOptions(FileContentType contentType)
@@ -29,7 +29,7 @@ public RvmLoadOptions(FileContentType contentType)
 
 ## RvmLoadOptions() {#constructor}
 
-构造[`RvmLoadOptions`](../../rvmloadoptions)实例
+构造一个[`RvmLoadOptions`](../../rvmloadoptions) instance
 
 ```csharp
 public RvmLoadOptions()

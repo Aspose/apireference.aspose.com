@@ -1,14 +1,14 @@
 ---
 title: m11
 second_title: Справочник по Aspose.3D для .NET API
-description: M11.
+description: m11.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.utilities/fmatrix4/m11/
 ---
 ## FMatrix4.m11 field
 
-M11.
+m11.
 
 ```csharp
 public float m11;

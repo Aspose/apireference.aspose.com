@@ -17,7 +17,7 @@ public static Quaternion FromEulerAngle(double pitch, double yaw, double roll)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pitch | Double | 弧度间距 |
-| yaw | Double | 以弧度表示的偏航 |
+| yaw | Double | 偏航弧度 |
 | roll | Double | 以弧度滚动 |
 
 ### 返回值
@@ -42,7 +42,7 @@ public static Quaternion FromEulerAngle(Vector3 eulerAngle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| eulerAngle | Vector3 | 以弧度为单位的欧拉角 |
+| eulerAngle | Vector3 | 欧拉角弧度 |
 
 ### 返回值
 

@@ -24,7 +24,7 @@ public VertexElement CreateElement(VertexElementType type)
 
 ### 评论
 
-如果类型是UV，将创建一个[`VertexElementUV`](../../vertexelementuv)纹理映射类型为Diffuse。
+如果类型是UV， 一个[`VertexElementUV`](../../vertexelementuv)纹理映射类型为Diffuse将被创建。
 
 ### 也可以看看
 
@@ -57,7 +57,7 @@ public VertexElement CreateElement(VertexElementType type, MappingMode mappingMo
 
 ### 评论
 
-如果类型是UV，将创建一个[`VertexElementUV`](../../vertexelementuv)纹理映射类型为Diffuse。
+如果类型是UV， 一个[`VertexElementUV`](../../vertexelementuv)纹理映射类型为Diffuse将被创建。
 
 ### 也可以看看
 

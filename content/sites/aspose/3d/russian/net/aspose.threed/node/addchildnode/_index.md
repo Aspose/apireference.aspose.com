@@ -1,14 +1,14 @@
 ---
 title: AddChildNode
 second_title: Справочник по Aspose.3D для .NET API
-description: Добавить дочерний узел к этому узлу
+description: Добавить дочерний узел к этому node
 type: docs
 weight: 150
 url: /ru/net/aspose.threed/node/addchildnode/
 ---
 ## Node.AddChildNode method
 
-Добавить дочерний узел к этому узлу
+Добавить дочерний узел к этому node
 
 ```csharp
 public void AddChildNode(Node node)
@@ -16,7 +16,7 @@ public void AddChildNode(Node node)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| node | Node | Дочерний узел прикрепить |
+| node | Node | Дочерний узел, который нужно прикрепить |
 
 ### Смотрите также
 

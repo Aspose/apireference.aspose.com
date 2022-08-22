@@ -1,14 +1,14 @@
 ---
 title: SetTRS
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует матрицу с перемещением/поворотом/масштабом
+description: Инициализирует матрицу с перемещением/вращением/масштабом
 type: docs
 weight: 280
 url: /ru/net/aspose.threed.utilities/matrix4/settrs/
 ---
 ## Matrix4.SetTRS method
 
-Инициализирует матрицу с перемещением/поворотом/масштабом
+Инициализирует матрицу с перемещением/вращением/масштабом
 
 ```csharp
 public void SetTRS(Vector3 translation, Vector3 rotation, Vector3 scale)
@@ -16,9 +16,9 @@ public void SetTRS(Vector3 translation, Vector3 rotation, Vector3 scale)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| translation | Vector3 | Перевод . |
+| translation | Vector3 | Перевод. |
 | rotation | Vector3 | Углы Эйлера для поворота, поля в градусах. |
-| масштаб | Vector3 | Масштаб. |
+| scale | Vector3 | Шкала. |
 
 ### Смотрите также
 

@@ -11,12 +11,11 @@ url: /zh/net/aspose.threed.shading/shadertechnique/shaderlanguage/
 获取或设置此技术使用的着色器语言。
 
 ```csharp
-public ShadingLanguage ShaderLanguage { get; set; }
+public string ShaderLanguage { get; set; }
 ```
 
 ### 也可以看看
 
-* enum [ShadingLanguage](../../shadinglanguage)
 * class [ShaderTechnique](../../shadertechnique)
 * 命名空间 [Aspose.ThreeD.Shading](../../shadertechnique)
 * 部件 [Aspose.3D](../../../)

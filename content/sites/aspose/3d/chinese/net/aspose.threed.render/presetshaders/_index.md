@@ -3,7 +3,7 @@ title: PresetShaders
 second_title: Aspose.3D for .NET API 参考
 description: 这定义了渲染器使用的预设内部着色器
 type: docs
-weight: 2010
+weight: 2020
 url: /zh/net/aspose.threed.render/presetshaders/
 ---
 ## PresetShaders enumeration

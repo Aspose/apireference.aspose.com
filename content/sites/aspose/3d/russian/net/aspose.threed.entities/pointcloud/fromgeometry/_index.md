@@ -1,14 +1,14 @@
 ---
 title: FromGeometry
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать новый экземпляр PointCloud из объекта геометрии
+description: Создать новый экземпляр PointCloud из геометрического объекта
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/pointcloud/fromgeometry/
 ---
 ## FromGeometry(Geometry) {#fromgeometry}
 
-Создать новый экземпляр PointCloud из объекта геометрии
+Создать новый экземпляр PointCloud из геометрического объекта
 
 ```csharp
 public static PointCloud FromGeometry(Geometry g)
@@ -29,7 +29,7 @@ public static PointCloud FromGeometry(Geometry g)
 
 ## FromGeometry(Geometry, int) {#fromgeometry_1}
 
-Создать новый экземпляр облака точек из геометрического объекта. Плотность - это количество точек на единицу треугольника (единичный треугольник - это треугольник с максимальной площадью поверхности из сетки)
+Создайте новый экземпляр облака точек из геометрического объекта. Плотность — это количество точек на единичный треугольник (единичный треугольник — это треугольник с максимальной площадью поверхности из сетки)
 
 ```csharp
 public static PointCloud FromGeometry(Geometry g, int density)

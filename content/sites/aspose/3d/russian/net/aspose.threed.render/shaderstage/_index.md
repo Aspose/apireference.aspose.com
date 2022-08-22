@@ -3,7 +3,7 @@ title: ShaderStage
 second_title: Справочник по Aspose.3D для .NET API
 description: Этап шейдера
 type: docs
-weight: 2160
+weight: 2170
 url: /ru/net/aspose.threed.render/shaderstage/
 ---
 ## ShaderStage enumeration

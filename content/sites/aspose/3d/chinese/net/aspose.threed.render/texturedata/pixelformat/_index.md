@@ -1,14 +1,14 @@
 ---
 title: PixelFormat
 second_title: Aspose.3D for .NET API 参考
-description: 像素格式
+description: 像素的格式
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.render/texturedata/pixelformat/
 ---
 ## TextureData.PixelFormat property
 
-像素格式
+像素的格式
 
 ```csharp
 public PixelFormat PixelFormat { get; }

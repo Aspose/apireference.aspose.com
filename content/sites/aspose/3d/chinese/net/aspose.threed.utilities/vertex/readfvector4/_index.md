@@ -16,7 +16,7 @@ public FVector4 ReadFVector4(VertexField field)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| field | VertexField | 带有Vector4/的字段FVector4 数据类型 |
+| field | VertexField | 具有 Vector4/FVector4 数据类型的字段 |
 
 ### 也可以看看
 

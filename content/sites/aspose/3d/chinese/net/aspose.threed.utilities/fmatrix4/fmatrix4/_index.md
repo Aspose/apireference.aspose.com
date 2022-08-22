@@ -1,14 +1,14 @@
 ---
 title: FMatrix4
 second_title: Aspose.3D for .NET API 参考
-description: 初始化FMatrix4aspose.threed.utilities/fmatrix4
+description: 初始化实例FMatrix4aspose.threed.utilities/fmatrix4
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/fmatrix4/fmatrix4/
 ---
 ## FMatrix4(float, float, float, float, float, float, float, float, float, float, float, float, float, float, float, float) {#constructor_2}
 
-初始化[`FMatrix4`](../../fmatrix4)
+初始化实例[`FMatrix4`](../../fmatrix4)
 
 ```csharp
 public FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11, float m12, 
@@ -18,7 +18,7 @@ public FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| m00的实例 | Single |  |
+| m00 | Single |  |
 | m01 | Single |  |
 | m02 | Single |  |
 | m03 | Single |  |
@@ -45,7 +45,7 @@ public FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11
 
 ## FMatrix4(Matrix4) {#constructor_1}
 
-从Utilities初始化的实例Matrix4实例。
+初始化实例[`FMatrix4`](../../fmatrix4)从一个[`Matrix4`](../../matrix4)实例.
 
 ```csharp
 public FMatrix4(Matrix4 mat)

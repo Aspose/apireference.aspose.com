@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.3D for .NET API 参考
-description: 将缩放变换矩阵与按 s 缩放的分量链接在一起
+description: 将缩放变换矩阵与一个由 s 缩放的分量链接
 type: docs
 weight: 140
 url: /zh/net/aspose.threed.utilities/transformbuilder/scale/
 ---
 ## Scale(double) {#scale_1}
 
-将缩放变换矩阵与按 s 缩放的分量链接在一起
+将缩放变换矩阵与一个由 s 缩放的分量链接
 
 ```csharp
 public TransformBuilder Scale(double s)
@@ -28,7 +28,7 @@ public TransformBuilder Scale(double s)
 
 ## Scale(double, double, double) {#scale_2}
 
-链接一个缩放变换矩阵
+链一个缩放变换矩阵
 
 ```csharp
 public TransformBuilder Scale(double x, double y, double z)
@@ -50,7 +50,7 @@ public TransformBuilder Scale(double x, double y, double z)
 
 ## Scale(Vector3) {#scale}
 
-链接比例变换
+链缩放变换
 
 ```csharp
 public TransformBuilder Scale(Vector3 s)

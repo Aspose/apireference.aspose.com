@@ -16,11 +16,11 @@ public VertexElement GetElement(VertexElementType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | VertexElementType | какой элемент вершины введите, чтобы найти |
+| type | VertexElementType | какой тип вершинного элемента найти |
 
 ### Возвращаемое значение
 
-[`VertexElement`](../../vertexelement)экземпляр, если он найден, иначе будет возвращено значение null.
+[`VertexElement`](../../vertexelement) экземпляр, если он найден, иначе будет возвращено значение null.
 
 ### Смотрите также
 

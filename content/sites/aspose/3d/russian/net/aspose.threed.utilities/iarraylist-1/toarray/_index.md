@@ -1,14 +1,14 @@
 ---
 title: ToArray
 second_title: Справочник по Aspose.3D для .NET API
-description: Преобразует все элементы списка в массив
+description: Преобразует все элементы в списке в массив
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/iarraylist-1/toarray/
 ---
 ## IArrayList&lt;T&gt;.ToArray method
 
-Преобразует все элементы списка в массив
+Преобразует все элементы в списке в массив
 
 ```csharp
 public T[] ToArray()

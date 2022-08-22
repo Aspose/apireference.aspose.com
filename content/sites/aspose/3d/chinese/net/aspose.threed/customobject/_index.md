@@ -18,8 +18,8 @@ public class CustomObject : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CustomObject](customobject#constructor)() | 初始化[`CustomObject`](../customobject)类的新实例。 |
-| [CustomObject](customobject#constructor_1)(string) | 初始化[`CustomObject`](../customobject)类的新实例。 |
+| [CustomObject](customobject#constructor)() | 初始化[`CustomObject`](../customobject)类. |
+| [CustomObject](customobject#constructor_1)(string) | 初始化[`CustomObject`](../customobject)类. |
 
 ## 特性
 
@@ -32,10 +32,10 @@ public class CustomObject : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

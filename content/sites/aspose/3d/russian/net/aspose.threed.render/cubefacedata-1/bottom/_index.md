@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для -Y нижней грани
+description: Получает или задает данные для YBottom face
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.render/cubefacedata-1/bottom/
 ---
 ## CubeFaceData&lt;T&gt;.Bottom property
 
-Получает или задает данные для -Y (нижней) грани
+Получает или задает данные для -Y(Bottom) face
 
 ```csharp
 public T Bottom { get; set; }

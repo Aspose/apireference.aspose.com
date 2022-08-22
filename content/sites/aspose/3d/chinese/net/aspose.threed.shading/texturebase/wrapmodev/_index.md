@@ -1,14 +1,14 @@
 ---
 title: WrapModeV
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 V 中的纹理环绕模式
+description: 获取或设置 V. 中的纹理环绕模式
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.shading/texturebase/wrapmodev/
 ---
 ## TextureBase.WrapModeV property
 
-获取或设置 V 中的纹理环绕模式。
+获取或设置 V. 中的纹理环绕模式
 
 ```csharp
 public WrapMode WrapModeV { get; set; }

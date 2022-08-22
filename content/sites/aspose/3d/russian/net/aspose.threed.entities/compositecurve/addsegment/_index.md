@@ -1,14 +1,12 @@
 ---
 title: AddSegment
 second_title: Справочник по Aspose.3D для .NET API
-description: The
+description: 
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/compositecurve/addsegment/
 ---
 ## CompositeCurve.AddSegment method
-
-The
 
 ```csharp
 public void AddSegment(Curve curve, bool sameDirection = true)

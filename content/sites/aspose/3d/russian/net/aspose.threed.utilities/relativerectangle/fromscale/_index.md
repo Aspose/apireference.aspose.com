@@ -1,14 +1,14 @@
 ---
 title: FromScale
 second_title: Справочник по Aspose.3D для .NET API
-description: ПостроитьRelativeRectangleaspose.threed.utilities/relativerectangleсо всеми нулевыми полями смещения и масштабными полями из заданных параметров.
+description: ПостроитьRelativeRectangleaspose.threed.utilities/relativerectangle со всеми полями смещения нулями и полями масштаба из заданных параметров.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/relativerectangle/fromscale/
 ---
 ## RelativeRectangle.FromScale method
 
-Построить[`RelativeRectangle`](../../relativerectangle)со всеми нулевыми полями смещения и масштабными полями из заданных параметров.
+Построить[`RelativeRectangle`](../../relativerectangle) со всеми полями смещения нулями и полями масштаба из заданных параметров.
 
 ```csharp
 public static RelativeRectangle FromScale(float scaleX, float scaleY, float scaleWidth, 

@@ -1,14 +1,14 @@
 ---
 title: SuppressTrialException
 second_title: Aspose.3D for .NET API 参考
-description: 将此设置为 true 以抑制未经许可使用的试用异常但不会解除限制 为了解除限制请使用正确的许可证 并将其设置为 true 也意味着您了解未经许可的限制
+description: 将此设置为 true 以禁止未经许可使用的试用例外但不会解除限制 为了解除限制请使用正确的许可证 并将其设置为 true 也意味着您知道未经许可限制.
 type: docs
 weight: 20
 url: /zh/net/aspose.threed/trialexception/suppresstrialexception/
 ---
 ## TrialException.SuppressTrialException property
 
-将此设置为 true 以抑制未经许可使用的试用异常，但不会解除限制。 为了解除限制，请使用正确的许可证。 并将其设置为 true 也意味着您了解未经许可的限制。
+将此设置为 true 以禁止未经许可使用的试用例外，但不会解除限制。 为了解除限制，请使用正确的许可证。 并将其设置为 true 也意味着您知道未经许可限制.
 
 ```csharp
 public static bool SuppressTrialException { get; set; }

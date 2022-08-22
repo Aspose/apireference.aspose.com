@@ -19,7 +19,7 @@ public enum FileContentType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Binary | `0` | 二进制格式类型，如二进制FBX、二进制STL |
-| ASCII | `1` | ASCII 格式类型，如 ASCII FBX、ASCII STL |
+| ASCII | `1` | ASCII格式类型，如ASCII FBX、ASCII STL |
 
 ### 也可以看看
 

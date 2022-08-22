@@ -1,14 +1,14 @@
 ---
 title: Sin
 second_title: Справочник по Aspose.3D для .NET API
-description: Вычисляет синус каждой составляющей
+description: Вычисляет синус для каждого компонента
 type: docs
 weight: 210
 url: /ru/net/aspose.threed.utilities/vector3/sin/
 ---
 ## Vector3.Sin method
 
-Вычисляет синус каждой составляющей
+Вычисляет синус для каждого компонента
 
 ```csharp
 public Vector3 Sin()

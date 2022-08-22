@@ -1,14 +1,14 @@
 ---
 title: Light
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаLightaspose.threed.entities/light.
+description: Инициализирует новый экземплярLightaspose.threed.entities/light класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/light/light/
 ---
 ## Light() {#constructor}
 
-Инициализирует новый экземпляр класса[`Light`](../../light).
+Инициализирует новый экземпляр[`Light`](../../light) класс.
 
 ```csharp
 public Light()
@@ -24,7 +24,7 @@ public Light()
 
 ## Light(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Light`](../../light).
+Инициализирует новый экземпляр[`Light`](../../light) класс.
 
 ```csharp
 public Light(string name)
@@ -32,7 +32,7 @@ public Light(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public Light(string name)
 
 ## Light(string, LightType) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Light`](../../light).
+Инициализирует новый экземпляр[`Light`](../../light) класс.
 
 ```csharp
 public Light(string name, LightType type)
@@ -52,7 +52,7 @@ public Light(string name, LightType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Name |
+| name | String | Имя |
 | type | LightType | Новый тип света |
 
 ### Смотрите также

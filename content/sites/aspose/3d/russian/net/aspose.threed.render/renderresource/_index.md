@@ -1,14 +1,14 @@
 ---
 title: RenderResource
 second_title: Справочник по Aspose.3D для .NET API
-description: Абстрактный класс всех ресурсов рендеринга Все ресурсы рендеринга будут удалены при освобождении рендерера. Классы типаMesh../aspose.threed.entities/mesh/Texture../aspose.threed.shading/textureбудут иметь соответствующий RenderResource
+description: Абстрактный класс всех ресурсов рендеринга Все ресурсы рендеринга будут удалены когда модуль рендеринга будет выпущен. Такие классы какMesh../aspose.threed.entities/mesh/Texture../aspose.threed.shading/texture будет иметь соответствующий RenderResource
 type: docs
-weight: 2060
+weight: 2070
 url: /ru/net/aspose.threed.render/renderresource/
 ---
 ## RenderResource class
 
-Абстрактный класс всех ресурсов рендеринга Все ресурсы рендеринга будут удалены при освобождении рендерера. Классы типа[`Mesh`](../../aspose.threed.entities/mesh)/[`Texture`](../../aspose.threed.shading/texture)будут иметь соответствующий RenderResource
+Абстрактный класс всех ресурсов рендеринга Все ресурсы рендеринга будут удалены, когда модуль рендеринга будет выпущен. Такие классы, как[`Mesh`](../../aspose.threed.entities/mesh)/[`Texture`](../../aspose.threed.shading/texture) будет иметь соответствующий RenderResource
 
 ```csharp
 public abstract class RenderResource : IDisposable
@@ -18,7 +18,7 @@ public abstract class RenderResource : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.threed.render/renderresource/dispose)() | Удаление внутренних ресурсов, используемых[`RenderResource`](../renderresource) |
+| [Dispose](../../aspose.threed.render/renderresource/dispose)() | Распоряжаться внутренними ресурсами, используемыми[`RenderResource`](../renderresource) |
 
 ### Смотрите также
 

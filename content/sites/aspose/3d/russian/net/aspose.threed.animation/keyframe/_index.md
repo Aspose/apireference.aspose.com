@@ -1,14 +1,14 @@
 ---
 title: KeyFrame
 second_title: Справочник по Aspose.3D для .NET API
-description: Ключевой кадр в основном определяется временем и значением для некоторых типов интерполяции касательная/натяжение/смещение/непрерывность также используются при вычислении конечного значения выборки. Выборочные значения во временной позиции не ключевого кадра интерполируются по ключевым кадрам между предыдущим и следующим ключевыми кадрами Значение до/после первого/последнего ключевого кадра вычисляются классомExtrapolation./extrapolation.
+description: Ключевой кадр в основном определяется временем и значением для некоторых типов интерполяции касательная/натяжение/смещение/непрерывность также используются при вычислении конечного значения выборки. Интерполируются выборочные значения во временном положении не ключевого кадра. по ключевым кадрам между предыдущим и следующим ключевыми кадрами Значение до/после первого/последнего ключевого кадра рассчитываетсяExtrapolation./extrapolation класс.
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.animation/keyframe/
 ---
 ## KeyFrame class
 
-Ключевой кадр в основном определяется временем и значением, для некоторых типов интерполяции касательная/натяжение/смещение/непрерывность также используются при вычислении конечного значения выборки. Выборочные значения во временной позиции не ключевого кадра интерполируются по ключевым кадрам между предыдущим и следующим ключевыми кадрами Значение до/после первого/последнего ключевого кадра вычисляются классом[`Extrapolation`](../extrapolation).
+Ключевой кадр в основном определяется временем и значением, для некоторых типов интерполяции касательная/натяжение/смещение/непрерывность также используются при вычислении конечного значения выборки. Интерполируются выборочные значения во временном положении не ключевого кадра. по ключевым кадрам между предыдущим и следующим ключевыми кадрами Значение до/после первого/последнего ключевого кадра рассчитывается[`Extrapolation`](../extrapolation) класс.
 
 ```csharp
 public class KeyFrame
@@ -24,20 +24,20 @@ public class KeyFrame
 
 | Имя | Описание |
 | --- | --- |
-| [Bias](../../aspose.threed.animation/keyframe/bias) { get; set; } | Получает или задает смещение, используемое в сплайне TCB |
-| [Continuity](../../aspose.threed.animation/keyframe/continuity) { get; set; } | Получает или задает непрерывность, используемую в сплайне TCB |
+| [Bias](../../aspose.threed.animation/keyframe/bias) { get; set; } | Получает или задает смещение, используемое в TCB spline |
+| [Continuity](../../aspose.threed.animation/keyframe/continuity) { get; set; } | Получает или задает непрерывность, используемую в TCB spline |
 | [Flat](../../aspose.threed.animation/keyframe/flat) { get; set; } | Получить или установить, если ключевой кадр плоский. Ключевой кадр должен быть плоским, если следующий или предыдущий ключевой кадр имеет такое же значение. Плоский ключевой кадр имеет плоские касательные и фиксированную интерполяцию. |
-| [IndependentTangent](../../aspose.threed.animation/keyframe/independenttangent) { get; set; } | Получает или устанавливает выходную и следующую входную касательные независимо друг от друга. |
+| [IndependentTangent](../../aspose.threed.animation/keyframe/independenttangent) { get; set; } | Получает или задает независимые исходящие и следующие входящие касательные. |
 | [Interpolation](../../aspose.threed.animation/keyframe/interpolation) { get; set; } | Получает или задает тип интерполяции ключа, list.data[index] определяет алгоритм вычисления выборочного значения. |
-| [NextInTangent](../../aspose.threed.animation/keyframe/nextintangent) { get; set; } | Получает или задает следующую (левую) касательную в этом ключевом кадре. |
-| [NextInWeight](../../aspose.threed.animation/keyframe/nextinweight) { get; set; } | Получает или устанавливает вес следующего (слева) в этом ключевом кадре. |
-| [OutTangent](../../aspose.threed.animation/keyframe/outtangent) { get; set; } | Получает или задает внешнюю (правую) касательную в этом ключевом кадре. |
-| [OutWeight](../../aspose.threed.animation/keyframe/outweight) { get; set; } | Получает или устанавливает внешний (правый) вес в этом ключевом кадре. |
-| [StepMode](../../aspose.threed.animation/keyframe/stepmode) { get; set; } | Получает или задает пошаговый режим клавиши. Если тип интерполяцииConstant, list.data[index] решает, какое значение ключевого кадра будет использоваться во время интерполяции. APreviousValueозначает, что будет использоваться значение левого ключевого кадра ANextValueозначает, что будет использоваться значение следующего правого ключевого кадра |
-| [TangentWeightMode](../../aspose.threed.animation/keyframe/tangentweightmode) { get; set; } | Получает или задает режим касательного веса ключа. Внешний или следующий по касательной можно настроить, выбрав правильный[`WeightedMode`](../weightedmode) |
-| [Tension](../../aspose.threed.animation/keyframe/tension) { get; set; } | Получает или задает натяжение, используемое в сплайне TCB |
-| [Time](../../aspose.threed.animation/keyframe/time) { get; set; } | Получает или задает временную позицию ключевого кадра list.data[index] в секундах. |
-| [TimeIndependentTangent](../../aspose.threed.animation/keyframe/timeindependenttangent) { get; set; } | Получает или устанавливает тангенс, не зависящий от времени |
+| [NextInTangent](../../aspose.threed.animation/keyframe/nextintangent) { get; set; } | Получает или задает следующую (слева) касательную в этом ключевом кадре. |
+| [NextInWeight](../../aspose.threed.animation/keyframe/nextinweight) { get; set; } | Получает или устанавливает следующий (слева) вес в этом ключевом кадре. |
+| [OutTangent](../../aspose.threed.animation/keyframe/outtangent) { get; set; } | Получает или устанавливает внешнюю (правую) касательную в этом ключевом кадре. |
+| [OutWeight](../../aspose.threed.animation/keyframe/outweight) { get; set; } | Получает или устанавливает внешний (правый) вес для этого ключевого кадра. |
+| [StepMode](../../aspose.threed.animation/keyframe/stepmode) { get; set; } | Получает или устанавливает пошаговый режим клавиши. Если тип интерполяцииConstant , list.data[index] определяет, какое значение ключевого кадра будет использоваться во время интерполяции. АPreviousValue означает, что будет использоваться значение левого ключевого кадра ANextValueозначает, что будет использоваться значение следующего правого ключевого кадра |
+| [TangentWeightMode](../../aspose.threed.animation/keyframe/tangentweightmode) { get; set; } | Получает или устанавливает режим веса касательной ключа. Касательная или следующая по касательной можно настроить, выбрав правильный[`WeightedMode`](../weightedmode) |
+| [Tension](../../aspose.threed.animation/keyframe/tension) { get; set; } | Получает или задает натяжение, используемое в TCB spline |
+| [Time](../../aspose.threed.animation/keyframe/time) { get; set; } | Получает или задает временную позицию ключевого кадра list.data[index], измеренную в секундах. |
+| [TimeIndependentTangent](../../aspose.threed.animation/keyframe/timeindependenttangent) { get; set; } | Получает или задает тангенс, не зависящий от времени |
 | [Value](../../aspose.threed.animation/keyframe/value) { get; set; } | Получает или устанавливает значение ключевого кадра. |
 
 ## Методы

@@ -1,22 +1,18 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: VertexDeclarationaspose.threed.utilities/vertexdeclaration
+description: 的字符串表示VertexDeclarationaspose.threed.utilities/vertexdeclaration
 type: docs
 weight: 140
 url: /zh/net/aspose.threed.utilities/vertexdeclaration/tostring/
 ---
 ## VertexDeclaration.ToString method
 
-[`VertexDeclaration`](../../vertexdeclaration)
+的字符串表示[`VertexDeclaration`](../../vertexdeclaration)
 
 ```csharp
 public override string ToString()
 ```
-
-### 返回值
-
-的字符串表示
 
 ### 也可以看看
 

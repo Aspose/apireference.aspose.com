@@ -1,14 +1,14 @@
 ---
 title: TriMeshT
 second_title: Aspose.3D for .NET API 参考
-description: TriMesh./trimesh的通用版本用于用户静态定义的顶点类型
+description: 的通用版本TriMesh./trimesh用于用户静态定义的顶点 type
 type: docs
 weight: 740
 url: /zh/net/aspose.threed.entities/trimesh-1/
 ---
 ## TriMesh&lt;T&gt; class
 
-[`TriMesh`](../trimesh)的通用版本，用于用户静态定义的顶点类型
+的通用版本[`TriMesh`](../trimesh)用于用户静态定义的顶点 type
 
 ```csharp
 public class TriMesh<T> : TriMesh
@@ -23,36 +23,36 @@ public class TriMesh<T> : TriMesh
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TriMesh](trimesh)(string) | 初始化[`TriMesh`](../trimesh) |
+| [TriMesh](trimesh)(string) | 初始化一个实例[`TriMesh`](../trimesh) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Capacity](../../aspose.threed.entities/trimesh/capacity) { get; } | 预分配顶点的容量。 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
-| [IndicesCount](../../aspose.threed.entities/trimesh/indicescount) { get; } | 此[`TriMesh`](../trimesh) |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
+| [IndicesCount](../../aspose.threed.entities/trimesh/indicescount) { get; } | 这个索引的计数[`TriMesh`](../trimesh) |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
 | [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | 获取所有父节点，一个实体可以附加到多个父节点进行几何实例化 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | 获取该对象所属的场景 |
-| [UnmergedVerticesCount](../../aspose.threed.entities/trimesh/unmergedverticescount) { get; } | 由[`BeginVertex`](../trimesh/beginvertex)和M传入的未合并顶点的计数:Aspose.ThreeD.Entities.TriMesh.EndVertex。 |
-| [VertexDeclaration](../../aspose.threed.entities/trimesh/vertexdeclaration) { get; } | [`TriMesh`](../trimesh)的顶点布局。 |
-| [VerticesCount](../../aspose.threed.entities/trimesh/verticescount) { get; } | 此[`TriMesh`](../trimesh) |
-| [VerticesSizeInBytes](../../aspose.threed.entities/trimesh/verticessizeinbytes) { get; } | 所有顶点的总大小（以字节为单位） |
+| [UnmergedVerticesCount](../../aspose.threed.entities/trimesh/unmergedverticescount) { get; } | 传入的未合并顶点数[`BeginVertex`](../trimesh/beginvertex)和[`EndVertex`](../trimesh/endvertex). |
+| [VertexDeclaration](../../aspose.threed.entities/trimesh/vertexdeclaration) { get; } | 的顶点布局[`TriMesh`](../trimesh). |
+| [VerticesCount](../../aspose.threed.entities/trimesh/verticescount) { get; } | 此中的顶点数[`TriMesh`](../trimesh) |
+| [VerticesSizeInBytes](../../aspose.threed.entities/trimesh/verticessizeinbytes) { get; } | 所有顶点的总大小，以字节为单位 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [FromMesh](../../aspose.threed.entities/trimesh`1/frommesh)(Mesh) | 从给定的网格对象创建一个具有自动生成顶点布局的 TriMesh。 |
+| static [FromMesh](../../aspose.threed.entities/trimesh`1/frommesh)(Mesh) | 使用自动生成的顶点布局从给定的网格对象创建一个TriMesh。 |
 | [BeginVertex](../../aspose.threed.entities/trimesh/beginvertex)() | 开始添加顶点 |
 | [EndVertex](../../aspose.threed.entities/trimesh/endvertex)() | 结束添加顶点 |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
-| [GetEnumerator](../../aspose.threed.entities/trimesh/getenumerator)() | 获取枚举器枚举[`Vertex`](../../aspose.threed.utilities/vertex) |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
+| [GetEnumerator](../../aspose.threed.entities/trimesh/getenumerator)() | 获取枚举器进行枚举[`Vertex`](../../aspose.threed.utilities/vertex) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [IndicesToArray](../../aspose.threed.entities/trimesh/indicestoarray)(out int[]) |  |
 | [IndicesToArray](../../aspose.threed.entities/trimesh/indicestoarray)(out ushort[]) |  |
@@ -66,9 +66,9 @@ public class TriMesh<T> : TriMesh
 | [ReadVector3](../../aspose.threed.entities/trimesh/readvector3)(int, VertexField) | 读取vector3字段 |
 | [ReadVector4](../../aspose.threed.entities/trimesh/readvector4)(int, VertexField) | 读取vector4字段 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
-| override [ToString](../../aspose.threed.entities/trimesh/tostring)() | 获取字符串表示 [`TriMesh`](../trimesh) |
+| override [ToString](../../aspose.threed.entities/trimesh/tostring)() | 获取字符串表示[`TriMesh`](../trimesh) |
 | [VerticesToArray](../../aspose.threed.entities/trimesh/verticestoarray)() | 将顶点数据转换为字节数组 |
 | [VerticesToTypedArray](../../aspose.threed.entities/trimesh`1/verticestotypedarray)() | 将顶点数据转换为类型化数组 |
 | [Write16bIndicesTo](../../aspose.threed.entities/trimesh/write16bindicesto)(Stream) | 将索引数据作为 16 位整数写入流 |

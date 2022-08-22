@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 -YBottom face
+description: 获取或设置 YBottom face 的数据
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.render/cubefacedata-1/bottom/
 ---
 ## CubeFaceData&lt;T&gt;.Bottom property
 
-获取或设置 -Y(Bottom) face
+获取或设置 -Y(Bottom) face 的数据
 
 ```csharp
 public T Bottom { get; set; }

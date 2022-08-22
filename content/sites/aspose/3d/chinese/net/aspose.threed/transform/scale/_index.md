@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置比例
+description: 获取或设置刻度
 type: docs
 weight: 80
 url: /zh/net/aspose.threed/transform/scale/
 ---
 ## Transform.Scale property
 
-获取或设置比例
+获取或设置刻度
 
 ```csharp
 public Vector3 Scale { get; set; }

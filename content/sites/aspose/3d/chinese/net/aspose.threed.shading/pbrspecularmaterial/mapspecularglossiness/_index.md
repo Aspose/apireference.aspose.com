@@ -1,14 +1,14 @@
 ---
 title: MapSpecularGlossiness
 second_title: Aspose.3D for .NET API 参考
-description: 镜面光泽度的纹理贴图
+description: 高光光泽度的纹理贴图
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.shading/pbrspecularmaterial/mapspecularglossiness/
 ---
 ## PbrSpecularMaterial.MapSpecularGlossiness field
 
-镜面光泽度的纹理贴图
+高光光泽度的纹理贴图
 
 ```csharp
 public const string MapSpecularGlossiness;

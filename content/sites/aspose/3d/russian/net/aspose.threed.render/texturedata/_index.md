@@ -3,7 +3,7 @@ title: TextureData
 second_title: Справочник по Aspose.3D для .NET API
 description: Этот класс содержит необработанные данные и определение формата текстуры.
 type: docs
-weight: 2200
+weight: 2210
 url: /ru/net/aspose.threed.render/texturedata/
 ---
 ## TextureData class
@@ -29,17 +29,17 @@ public class TextureData
 | [Data](../../aspose.threed.render/texturedata/data) { get; } | Необработанные байты пиксельных данных |
 | [Height](../../aspose.threed.render/texturedata/height) { get; } | Количество пикселей по вертикали |
 | [PixelFormat](../../aspose.threed.render/texturedata/pixelformat) { get; } | Формат пикселя |
-| [Stride](../../aspose.threed.render/texturedata/stride) { get; } | Количество байт строки сканирования. |
+| [Stride](../../aspose.threed.render/texturedata/stride) { get; } | Количество байтов строки сканирования. |
 | [Width](../../aspose.threed.render/texturedata/width) { get; } | Количество пикселей по горизонтали |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [FromBitmap](../../aspose.threed.render/texturedata/frombitmap)(Bitmap) | ПреобразоватьBitmapв[`TextureData`](../texturedata) |
+| static [FromBitmap](../../aspose.threed.render/texturedata/frombitmap)(Bitmap) | КонвертироватьBitmap к[`TextureData`](../texturedata) |
 | static [FromFile](../../aspose.threed.render/texturedata/fromfile)(string) | Загрузить текстуру из файла |
 | static [FromStream](../../aspose.threed.render/texturedata/fromstream)(Stream) | Загрузить текстуру из потока |
-| [ToBitmap](../../aspose.threed.render/texturedata/tobitmap)() | Преобразование TextureData в экземплярBitmap. |
+| [ToBitmap](../../aspose.threed.render/texturedata/tobitmap)() | Преобразование TextureData вBitmap экземпляр. |
 
 ### Смотрите также
 

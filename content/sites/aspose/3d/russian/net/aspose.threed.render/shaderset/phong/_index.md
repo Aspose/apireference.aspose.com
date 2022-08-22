@@ -1,14 +1,14 @@
 ---
 title: Phong
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает шейдер который использовался для рендеринга материала фонга
+description: Получает или задает шейдер который использовался для рендеринга материала Фонга
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.render/shaderset/phong/
 ---
 ## ShaderSet.Phong property
 
-Получает или задает шейдер, который использовался для рендеринга материала фонга
+Получает или задает шейдер, который использовался для рендеринга материала Фонга
 
 ```csharp
 public ShaderProgram Phong { get; set; }

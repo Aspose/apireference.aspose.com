@@ -3,7 +3,7 @@ title: DummyFileSystem
 second_title: Справочник по Aspose.3D для .NET API
 description: Операции чтения/записи являются фиктивными операциями.
 type: docs
-weight: 2470
+weight: 2460
 url: /ru/net/aspose.threed.utilities/dummyfilesystem/
 ---
 ## DummyFileSystem class

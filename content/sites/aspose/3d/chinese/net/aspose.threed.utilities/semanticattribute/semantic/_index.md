@@ -1,14 +1,14 @@
 ---
 title: Semantic
 second_title: Aspose.3D for .NET API 参考
-description: 顶点字段的语义
+description: 顶点域的语义
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.utilities/semanticattribute/semantic/
 ---
 ## SemanticAttribute.Semantic property
 
-顶点字段的语义
+顶点域的语义
 
 ```csharp
 public VertexFieldSemantic Semantic { get; }

@@ -1,14 +1,14 @@
 ---
 title: Interpolate
 second_title: Aspose.3D for .NET API 参考
-description: 用给定四元数参数之间的插值填充此四元数用于 at between from 和 to
+description: 用给定四元数参数之间的插值填充此四元数用于 from 和 to 之间
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.utilities/quaternion/interpolate/
 ---
 ## Quaternion.Interpolate method
 
-用给定四元数参数之间的插值填充此四元数，用于 at between from 和 to。
+用给定四元数参数之间的插值填充此四元数，用于 from 和 to 之间。
 
 ```csharp
 public static Quaternion Interpolate(float t, Quaternion from, Quaternion to)

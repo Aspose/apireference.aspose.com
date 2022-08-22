@@ -1,14 +1,14 @@
 ---
 title: FlipTexCoordV
 second_title: Aspose.3D for .NET API 参考
-description: 翻转网格纹理坐标中的 vt 坐标默认值为 true
+description: 在mesh的纹理坐标中翻转vt坐标默认值为true
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.formats/gltfloadoptions/fliptexcoordv/
 ---
 ## GltfLoadOptions.FlipTexCoordV property
 
-翻转网格纹理坐标中的 v(t) 坐标，默认值为 true。
+在mesh的纹理坐标中翻转v(t)坐标，默认值为true。
 
 ```csharp
 public bool FlipTexCoordV { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: VertexElementSmoothingGroup
 second_title: Aspose.3D for .NET API 参考
-description: 平滑组是多边形网格中的一组多边形看起来应该形成一个平滑的表面 一些早期的 3D 建模软件如 DOS 的 3D studio max 使用平滑组来避免为每个网格顶点存储法线向量
+description: 平滑组是多边形网格中的一组多边形它们应该看起来形成一个平滑的表面 一些早期的 3D 建模软件如 DOS 的 3D studio max 使用平滑组来避免为每个网格顶点存储法线向量
 type: docs
 weight: 850
 url: /zh/net/aspose.threed.entities/vertexelementsmoothinggroup/
 ---
 ## VertexElementSmoothingGroup class
 
-平滑组是多边形网格中的一组多边形，看起来应该形成一个平滑的表面。 一些早期的 3D 建模软件，如 DOS 的 3D studio max 使用平滑组来避免为每个网格顶点存储法线向量。
+平滑组是多边形网格中的一组多边形，它们应该看起来形成一个平滑的表面。 一些早期的 3D 建模软件，如 DOS 的 3D studio max 使用平滑组来避免为每个网格顶点存储法线向量。
 
 ```csharp
 public class VertexElementSmoothingGroup : VertexElementIntsTemplate
@@ -18,7 +18,7 @@ public class VertexElementSmoothingGroup : VertexElementIntsTemplate
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VertexElementSmoothingGroup](vertexelementsmoothinggroup)() | 初始化[`VertexElementSmoothingGroup`](../vertexelementsmoothinggroup)类的新实例。 |
+| [VertexElementSmoothingGroup](vertexelementsmoothinggroup)() | 初始化[`VertexElementSmoothingGroup`](../vertexelementsmoothinggroup)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public class VertexElementSmoothingGroup : VertexElementIntsTemplate
 | [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | 获取或设置元素的映射方式。 |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | 获取或设置名称。 |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | 获取或设置元素的引用方式。 |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取[`VertexElement`](../vertexelement) |
+| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取类型[`VertexElement`](../vertexelement) |
 
 ## 方法
 

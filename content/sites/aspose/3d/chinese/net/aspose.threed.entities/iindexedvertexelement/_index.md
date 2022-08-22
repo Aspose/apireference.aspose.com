@@ -1,14 +1,14 @@
 ---
 title: IIndexedVertexElement
 second_title: Aspose.3D for .NET API 参考
-description: VertexElement 与索引数据
+description: 带有索引数据的 VertexElement
 type: docs
 weight: 370
 url: /zh/net/aspose.threed.entities/iindexedvertexelement/
 ---
 ## IIndexedVertexElement interface
 
-VertexElement 与索引数据。
+带有索引数据的 VertexElement。
 
 ```csharp
 public interface IIndexedVertexElement

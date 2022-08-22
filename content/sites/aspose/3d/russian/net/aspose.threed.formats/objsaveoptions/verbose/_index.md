@@ -1,14 +1,14 @@
 ---
 title: Verbose
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает генерировать ли комментарии для каждого раздела
+description: Получает или задает генерировать ли комментарии для каждого section
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.formats/objsaveoptions/verbose/
 ---
 ## ObjSaveOptions.Verbose property
 
-Получает или задает, генерировать ли комментарии для каждого раздела
+Получает или задает, генерировать ли комментарии для каждого section
 
 ```csharp
 public bool Verbose { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: VertexFieldDataType
 second_title: Справочник по Aspose.3D для .NET API
-description: Тип данных поля вершин
+description: Тип данных поля вершины
 type: docs
-weight: 2700
+weight: 2690
 url: /ru/net/aspose.threed.utilities/vertexfielddatatype/
 ---
 ## VertexFieldDataType enumeration
 
-Тип данных поля вершин
+Тип данных поля вершины
 
 ```csharp
 public enum VertexFieldDataType

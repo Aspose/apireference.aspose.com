@@ -1,14 +1,14 @@
 ---
 title: Indices
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает данные индексов
+description: Получает индексы data
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelement/indices/
 ---
 ## VertexElement.Indices property
 
-Получает данные индексов
+Получает индексы data
 
 ```csharp
 public IArrayList<int> Indices { get; }
@@ -16,7 +16,7 @@ public IArrayList<int> Indices { get; }
 
 ### Стоимость имущества
 
-Массив индексов.
+Индексный массив.
 
 ### Смотрите также
 

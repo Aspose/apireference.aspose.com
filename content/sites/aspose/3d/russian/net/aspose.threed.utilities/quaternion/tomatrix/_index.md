@@ -1,14 +1,14 @@
 ---
 title: ToMatrix
 second_title: Справочник по Aspose.3D для .NET API
-description: Преобразование вращения представленного кватернионом в матрицу преобразования.
+description: Преобразовать вращение представленное кватернионом в матрицу преобразования.
 type: docs
 weight: 210
 url: /ru/net/aspose.threed.utilities/quaternion/tomatrix/
 ---
 ## Quaternion.ToMatrix method
 
-Преобразование вращения, представленного кватернионом, в матрицу преобразования.
+Преобразовать вращение, представленное кватернионом, в матрицу преобразования.
 
 ```csharp
 public Matrix4 ToMatrix()

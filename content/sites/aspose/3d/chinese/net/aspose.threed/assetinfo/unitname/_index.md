@@ -1,14 +1,14 @@
 ---
 title: UnitName
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置此资产中使用的长度单位 例如厘米/米/公里/英寸/英尺
+description: 获取或设置此资产中使用的长度单位 例如 cm/m/km/inch/feet
 type: docs
 weight: 160
 url: /zh/net/aspose.threed/assetinfo/unitname/
 ---
 ## AssetInfo.UnitName property
 
-获取或设置此资产中使用的长度单位。 例如厘米/米/公里/英寸/英尺
+获取或设置此资产中使用的长度单位。 例如 cm/m/km/inch/feet
 
 ```csharp
 public string UnitName { get; set; }

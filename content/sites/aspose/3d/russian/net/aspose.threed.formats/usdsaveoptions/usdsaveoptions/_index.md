@@ -1,14 +1,14 @@
 ---
 title: UsdSaveOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализировать новыйUsdSaveOptionsaspose.threed.formats/usdsaveoptionsсUSDaspose.threed/fileformat/usdформат
+description: Инициализировать новыйUsdSaveOptionsaspose.threed.formats/usdsaveoptions сUSDaspose.threed/fileformat/usd формат
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/usdsaveoptions/usdsaveoptions/
 ---
 ## UsdSaveOptions() {#constructor}
 
-Инициализировать новый[`UsdSaveOptions`](../../usdsaveoptions)с[`USD`](../../../aspose.threed/fileformat/usd)формат
+Инициализировать новый[`UsdSaveOptions`](../../usdsaveoptions) с[`USD`](../../../aspose.threed/fileformat/usd) формат
 
 ```csharp
 public UsdSaveOptions()
@@ -24,7 +24,7 @@ public UsdSaveOptions()
 
 ## UsdSaveOptions(FileFormat) {#constructor_1}
 
-Инициализировать новый[`UsdSaveOptions`](../../usdsaveoptions)с указанным форматом USD/USDZ.
+Инициализировать новый[`UsdSaveOptions`](../../usdsaveoptions) с указанным форматом USD/USDZ.
 
 ```csharp
 public UsdSaveOptions(FileFormat fileFormat)

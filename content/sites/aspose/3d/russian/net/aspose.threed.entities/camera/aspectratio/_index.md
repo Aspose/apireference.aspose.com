@@ -1,14 +1,14 @@
 ---
 title: AspectRatio
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает соотношение сторон плоскости просмотра.
+description: Получает или задает соотношение сторон плоскости обзора.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/camera/aspectratio/
 ---
 ## Camera.AspectRatio property
 
-Получает или задает соотношение сторон плоскости просмотра.
+Получает или задает соотношение сторон плоскости обзора.
 
 ```csharp
 public double AspectRatio { get; set; }

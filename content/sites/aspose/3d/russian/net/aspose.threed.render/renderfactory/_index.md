@@ -3,7 +3,7 @@ title: RenderFactory
 second_title: Справочник по Aspose.3D для .NET API
 description: RenderFactory создает все ресурсы представленные в конвейере рендеринга.
 type: docs
-weight: 2030
+weight: 2040
 url: /ru/net/aspose.threed.render/renderfactory/
 ---
 ## RenderFactory class
@@ -18,18 +18,18 @@ public abstract class RenderFactory
 
 | Имя | Описание |
 | --- | --- |
-| abstract [CreateCubeRenderTexture](../../aspose.threed.render/renderfactory/createcuberendertexture)(RenderParameters, int, int) | Create render target содержит 1 текстуру куба |
+| abstract [CreateCubeRenderTexture](../../aspose.threed.render/renderfactory/createcuberendertexture)(RenderParameters, int, int) | Создать цель рендеринга, содержащую 1 куб texture |
 | abstract [CreateDescriptorSet](../../aspose.threed.render/renderfactory/createdescriptorset)(ShaderProgram) | Создать набор дескрипторов для указанной шейдерной программы. |
-| abstract [CreateIndexBuffer](../../aspose.threed.render/renderfactory/createindexbuffer)() | Создайте экземпляр[`IIndexBuffer`](../iindexbuffer)для хранения информации о лице полигона. |
+| abstract [CreateIndexBuffer](../../aspose.threed.render/renderfactory/createindexbuffer)() | Создать[`IIndexBuffer`](../iindexbuffer) экземпляр для хранения информации о лице полигона. |
 | abstract [CreatePipeline](../../aspose.threed.render/renderfactory/createpipeline)(ShaderProgram, RenderState, VertexDeclaration, DrawOperation) | Создайте предварительно настроенный графический конвейер с предварительно настроенным шейдером/состоянием рендеринга/декларацией вершин и операциями отрисовки. |
-| abstract [CreateRenderTexture](../../aspose.threed.render/renderfactory/createrendertexture#createrendertexture)(RenderParameters, int, int) | Создание цели рендеринга содержит 1 цель, которая рендерится в текстуру |
+| abstract [CreateRenderTexture](../../aspose.threed.render/renderfactory/createrendertexture#createrendertexture)(RenderParameters, int, int) | Создать цель рендеринга, содержащую 1 цель, которая рендерится в текстуру |
 | abstract [CreateRenderTexture](../../aspose.threed.render/renderfactory/createrendertexture#createrendertexture_1)(RenderParameters, int, int, int) | Создать цель рендеринга, которая рендерится в текстуру |
-| abstract [CreateRenderWindow](../../aspose.threed.render/renderfactory/createrenderwindow)(RenderParameters, WindowHandle) | Создайте цель рендеринга, которая рендерится в собственное окно. |
-| abstract [CreateShaderProgram](../../aspose.threed.render/renderfactory/createshaderprogram)(ShaderSource) | Создать объект[`ShaderProgram`](../shaderprogram) |
-| [CreateTextureUnit](../../aspose.threed.render/renderfactory/createtextureunit#createtextureunit)() | Создайте блок 2D-текстуры, доступный шейдеру. |
-| abstract [CreateTextureUnit](../../aspose.threed.render/renderfactory/createtextureunit#createtextureunit_1)(TextureType) | Создайте блок текстуры, к которому может получить доступ шейдер. |
-| abstract [CreateUniformBuffer](../../aspose.threed.render/renderfactory/createuniformbuffer)(int) | Создать новый юниформ-буфер на стороне GPU с предварительно выделенным размером. |
-| abstract [CreateVertexBuffer](../../aspose.threed.render/renderfactory/createvertexbuffer)(VertexDeclaration) | Создайте экземпляр[`IVertexBuffer`](../ivertexbuffer)для хранения информации о вершинах полигона. |
+| abstract [CreateRenderWindow](../../aspose.threed.render/renderfactory/createrenderwindow)(RenderParameters, WindowHandle) | Создайте цель рендеринга, которая выполняет рендеринг в собственное окно. |
+| abstract [CreateShaderProgram](../../aspose.threed.render/renderfactory/createshaderprogram)(ShaderSource) | Создать[`ShaderProgram`](../shaderprogram) объект |
+| [CreateTextureUnit](../../aspose.threed.render/renderfactory/createtextureunit#createtextureunit)() | Создать блок 2D-текстуры, к которому может получить доступ шейдер. |
+| abstract [CreateTextureUnit](../../aspose.threed.render/renderfactory/createtextureunit#createtextureunit_1)(TextureType) | Создать блок текстуры, к которому может получить доступ шейдер. |
+| abstract [CreateUniformBuffer](../../aspose.threed.render/renderfactory/createuniformbuffer)(int) | Создать новый юниформ-буфер на стороне графического процессора с предварительно выделенным размером. |
+| abstract [CreateVertexBuffer](../../aspose.threed.render/renderfactory/createvertexbuffer)(VertexDeclaration) | Создать[`IVertexBuffer`](../ivertexbuffer) instance для хранения информации о вершинах полигона. |
 
 ### Смотрите также
 

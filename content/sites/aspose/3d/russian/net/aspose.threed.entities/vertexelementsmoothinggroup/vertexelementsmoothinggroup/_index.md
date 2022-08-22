@@ -1,14 +1,14 @@
 ---
 title: VertexElementSmoothingGroup
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementSmoothingGroupaspose.threed.entities/vertexelementsmoothinggroup.
+description: Инициализирует новый экземплярVertexElementSmoothingGroupaspose.threed.entities/vertexelementsmoothinggroup класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementsmoothinggroup/vertexelementsmoothinggroup/
 ---
 ## VertexElementSmoothingGroup constructor
 
-Инициализирует новый экземпляр класса[`VertexElementSmoothingGroup`](../../vertexelementsmoothinggroup).
+Инициализирует новый экземпляр[`VertexElementSmoothingGroup`](../../vertexelementsmoothinggroup) класс.
 
 ```csharp
 public VertexElementSmoothingGroup()

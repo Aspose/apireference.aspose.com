@@ -1,7 +1,7 @@
 ---
 title: Extract
 second_title: Справочник по Aspose.3D для .NET API
-description: Извлечение необработанного 3D-контента из файла PDF.
+description: Извлечение необработанного 3Dконтента из файла PDF.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/pdfformat/extract/
@@ -17,7 +17,7 @@ public List<byte[]> Extract(string fileName, byte[] password = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String |  |
-| пароль | Byte[] |  |
+| password | Byte[] |  |
 
 ### Смотрите также
 
@@ -37,8 +37,8 @@ public List<byte[]> Extract(Stream stream, byte[] password = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| поток | Stream |  |
-| пароль | Byte[] |  |
+| stream | Stream |  |
+| password | Byte[] |  |
 
 ### Смотрите также
 

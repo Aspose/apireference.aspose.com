@@ -3,7 +3,7 @@ title: RenderStage
 second_title: Справочник по Aspose.3D для .NET API
 description: Стадия рендеринга
 type: docs
-weight: 2070
+weight: 2080
 url: /ru/net/aspose.threed.render/renderstage/
 ---
 ## RenderStage enumeration

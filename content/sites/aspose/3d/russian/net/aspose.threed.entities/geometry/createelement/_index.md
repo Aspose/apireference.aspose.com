@@ -16,7 +16,7 @@ public VertexElement CreateElement(VertexElementType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | VertexElementType | Тип элемента вершины |
+| type | VertexElementType | Тип вершинного элемента |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,7 @@ public VertexElement CreateElement(VertexElementType type)
 
 ### Примечания
 
-Если типUV, будет создан объект[`VertexElementUV`](../../vertexelementuv)с типом наложения текстуры наDiffuse.
+Если типUV , а[`VertexElementUV`](../../vertexelementuv) с типом наложения текстуры наDiffuse будет создан.
 
 ### Смотрите также
 
@@ -47,9 +47,9 @@ public VertexElement CreateElement(VertexElementType type, MappingMode mappingMo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | VertexElementType | Тип элемента вершины |
-| mappingMode | MappingMode | Режим отображения по умолчанию |
-| referenceMode | ReferenceMode | Режим ссылки по умолчанию |
+| type | VertexElementType | Тип вершинного элемента |
+| mappingMode | MappingMode | Режим сопоставления по умолчанию |
+| referenceMode | ReferenceMode | Эталонный режим по умолчанию |
 
 ### Возвращаемое значение
 
@@ -57,7 +57,7 @@ public VertexElement CreateElement(VertexElementType type, MappingMode mappingMo
 
 ### Примечания
 
-Если типUV, будет создан объект[`VertexElementUV`](../../vertexelementuv)с типом наложения текстуры наDiffuse.
+Если типUV , а[`VertexElementUV`](../../vertexelementuv) с типом наложения текстуры наDiffuse будет создан.
 
 ### Смотрите также
 

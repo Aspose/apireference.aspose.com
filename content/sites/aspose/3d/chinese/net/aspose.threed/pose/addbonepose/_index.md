@@ -16,9 +16,9 @@ public void AddBonePose(Node node, Matrix4 matrix, bool localMatrix)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| node | Node | 骨骼节点。 |
+| node | Node | 骨节点。 |
 | matrix | Matrix4 | 变换矩阵。 |
-| localMatrix | Boolean | 如果设置为` true` 表示使用局部矩阵，否则表示全局矩阵。 |
+| localMatrix | Boolean | 如果设置为`真的`表示使用局部矩阵，否则表示全局矩阵。 |
 
 ### 也可以看看
 
@@ -40,7 +40,7 @@ public void AddBonePose(Node node, Matrix4 matrix)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| node | Node | 骨骼节点。 |
+| node | Node | 骨节点。 |
 | matrix | Matrix4 | 变换矩阵。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: FailAction
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает действие трафарета при сбое теста трафарета.
+description: Получает или задает действие шаблона при сбое теста шаблона.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.render/stencilstate/failaction/
 ---
 ## StencilState.FailAction property
 
-Получает или задает действие трафарета при сбое теста трафарета.
+Получает или задает действие шаблона при сбое теста шаблона.
 
 ```csharp
 public StencilAction FailAction { get; set; }

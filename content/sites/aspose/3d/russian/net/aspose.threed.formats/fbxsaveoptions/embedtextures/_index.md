@@ -1,14 +1,14 @@
 ---
 title: EmbedTextures
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает следует ли встраивать текстуру в окончательный выходной файл. FBX Exporter попытается найти необработанные данные текстуры изFileSystemaspose.threed.formats/ioconfig/filesystemи встроить файл в окончательный файл FBX. Значение по умолчанию  false.
+description: Получает или задает следует ли встраивать текстуру в окончательный выходной файл. Экспортер FBX попытается найти необработанные данные текстуры изFileSystemaspose.threed.formats/ioconfig/filesystem  и вставьте файл в окончательный файл FBX. Значение по умолчанию  false.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/fbxsaveoptions/embedtextures/
 ---
 ## FbxSaveOptions.EmbedTextures property
 
-Получает или задает, следует ли встраивать текстуру в окончательный выходной файл. FBX Exporter попытается найти необработанные данные текстуры из[`FileSystem`](../../ioconfig/filesystem)и встроить файл в окончательный файл FBX. Значение по умолчанию — false.
+Получает или задает, следует ли встраивать текстуру в окончательный выходной файл. Экспортер FBX попытается найти необработанные данные текстуры из[`FileSystem`](../../ioconfig/filesystem) , и вставьте файл в окончательный файл FBX. Значение по умолчанию — false.
 
 ```csharp
 public bool EmbedTextures { get; set; }

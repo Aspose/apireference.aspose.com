@@ -3,7 +3,7 @@ title: TextureData
 second_title: Aspose.3D for .NET API 参考
 description: 此类包含纹理的原始数据和格式定义
 type: docs
-weight: 2200
+weight: 2210
 url: /zh/net/aspose.threed.render/texturedata/
 ---
 ## TextureData class
@@ -18,28 +18,28 @@ public class TextureData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextureData](texturedata#constructor)() | [`TextureData`](../texturedata) |
-| [TextureData](texturedata#constructor_2)(int, int, int, int, PixelFormat, byte[]) | [`TextureData`](../texturedata) (2 constructors) |
+| [TextureData](texturedata#constructor)() | 的构造函数[`TextureData`](../texturedata) |
+| [TextureData](texturedata#constructor_2)(int, int, int, int, PixelFormat, byte[]) | 的构造函数[`TextureData`](../texturedata) (2 constructors) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BytesPerPixel](../../aspose.threed.render/texturedata/bytesperpixel) { get; } | 像素的字节数 |
+| [BytesPerPixel](../../aspose.threed.render/texturedata/bytesperpixel) { get; } | 一个像素的字节数 |
 | [Data](../../aspose.threed.render/texturedata/data) { get; } | 像素数据的原始字节 |
 | [Height](../../aspose.threed.render/texturedata/height) { get; } | 垂直像素数 |
-| [PixelFormat](../../aspose.threed.render/texturedata/pixelformat) { get; } | 像素格式 |
-| [Stride](../../aspose.threed.render/texturedata/stride) { get; } | 扫描线的字节数。 |
+| [PixelFormat](../../aspose.threed.render/texturedata/pixelformat) { get; } | 像素的格式 |
+| [Stride](../../aspose.threed.render/texturedata/stride) { get; } | 一条扫描线的字节数。 |
 | [Width](../../aspose.threed.render/texturedata/width) { get; } | 水平像素数 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [FromBitmap](../../aspose.threed.render/texturedata/frombitmap)(Bitmap) | 将Bitmap转换为[`TextureData`](../texturedata) |
-| static [FromFile](../../aspose.threed.render/texturedata/fromfile)(string) | 从文件加载纹理 |
+| static [FromBitmap](../../aspose.threed.render/texturedata/frombitmap)(Bitmap) | 转换一个Bitmap至[`TextureData`](../texturedata) |
+| static [FromFile](../../aspose.threed.render/texturedata/fromfile)(string) | 从文件中加载纹理 |
 | static [FromStream](../../aspose.threed.render/texturedata/fromstream)(Stream) | 从流中加载纹理 |
-| [ToBitmap](../../aspose.threed.render/texturedata/tobitmap)() | 将 TextureData 转换为Bitmap实例。 |
+| [ToBitmap](../../aspose.threed.render/texturedata/tobitmap)() | 将 TextureData 转换为Bitmap实例. |
 
 ### 也可以看看
 

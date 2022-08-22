@@ -1,14 +1,14 @@
 ---
 title: Discreet3dsLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: Discreet3dsLoadOptionsaspose.threed.formats/discreet3dsloadoptions
+description: 的构造函数Discreet3dsLoadOptionsaspose.threed.formats/discreet3dsloadoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/discreet3dsloadoptions/discreet3dsloadoptions/
 ---
 ## Discreet3dsLoadOptions constructor
 
-[`Discreet3dsLoadOptions`](../../discreet3dsloadoptions)
+的构造函数[`Discreet3dsLoadOptions`](../../discreet3dsloadoptions)
 
 ```csharp
 public Discreet3dsLoadOptions()

@@ -1,14 +1,14 @@
 ---
 title: PositionBits
 second_title: Aspose.3D for .NET API 参考
-description: 位置量化位默认值为 14
+description: 位置量化位默认值为14
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.formats/dracosaveoptions/positionbits/
 ---
 ## DracoSaveOptions.PositionBits property
 
-位置量化位，默认值为 14
+位置量化位，默认值为14
 
 ```csharp
 public int PositionBits { get; set; }

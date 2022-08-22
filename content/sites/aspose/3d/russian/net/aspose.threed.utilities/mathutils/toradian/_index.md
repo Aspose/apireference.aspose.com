@@ -1,14 +1,14 @@
 ---
 title: ToRadian
 second_title: Справочник по Aspose.3D для .NET API
-description: ПреобразованиеVector3aspose.threed.utilities/vector3из градусов в радианы
+description: КонвертироватьVector3aspose.threed.utilities/vector3 от градусов до радиан
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.utilities/mathutils/toradian/
 ---
 ## ToRadian(Vector3) {#toradian}
 
-Преобразование[`Vector3`](../../vector3)из градусов в радианы
+Конвертировать[`Vector3`](../../vector3) от градусов до радиан
 
 ```csharp
 public static Vector3 ToRadian(Vector3 degree)
@@ -16,11 +16,11 @@ public static Vector3 ToRadian(Vector3 degree)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| степень | Vector3 | Значение градуса. |
+| degree | Vector3 | Значение степени. |
 
 ### Возвращаемое значение
 
-Значение в радианах.
+Значение радиана.
 
 ### Смотрите также
 
@@ -41,11 +41,11 @@ public static float ToRadian(float degree)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| степень | Single | Значение градуса . |
+| degree | Single | Значение степени. |
 
 ### Возвращаемое значение
 
-Значение в радианах.
+Значение радиана.
 
 ### Смотрите также
 
@@ -65,11 +65,11 @@ public static double ToRadian(double degree)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| степень | Double | Значение градуса . |
+| degree | Double | Значение степени. |
 
 ### Возвращаемое значение
 
-Значение в радианах.
+Значение радиана.
 
 ### Смотрите также
 
@@ -89,13 +89,13 @@ public static Vector3 ToRadian(double x, double y, double z)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Компонент x в градусном значении. |
-| y | Double | Компонент y в значении градусов. |
+| x | Double | Компонент x в значении градуса. |
+| y | Double | Компонент y в значении градуса. |
 | z | Double | Компонент z в значении градуса. |
 
 ### Возвращаемое значение
 
-Значение в радианах.
+Значение радиана.
 
 ### Смотрите также
 

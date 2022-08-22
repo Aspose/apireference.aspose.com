@@ -3,7 +3,7 @@ title: BlendFactor
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1690
+weight: 1700
 url: /net/aspose.threed.render/blendfactor/
 ---
 ## BlendFactor enumeration

@@ -1,14 +1,14 @@
 ---
 title: Twist
 second_title: Справочник по Aspose.3D для .NET API
-description: Число градусов на которое выдавливается фигура.
+description: Количество градусов на которое выдавливается фигура.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.entities/linearextrusion/twist/
 ---
 ## LinearExtrusion.Twist property
 
-Число градусов, на которое выдавливается фигура.
+Количество градусов, на которое выдавливается фигура.
 
 ```csharp
 public double Twist { get; set; }

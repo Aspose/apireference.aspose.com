@@ -1,14 +1,14 @@
 ---
 title: m12
 second_title: Справочник по Aspose.3D для .NET API
-description: M12.
+description: m12.
 type: docs
 weight: 140
 url: /ru/net/aspose.threed.utilities/matrix4/m12/
 ---
 ## Matrix4.m12 field
 
-M12.
+m12.
 
 ```csharp
 public double m12;

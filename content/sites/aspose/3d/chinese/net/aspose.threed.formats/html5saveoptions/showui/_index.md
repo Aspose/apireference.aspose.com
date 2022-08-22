@@ -1,14 +1,14 @@
 ---
 title: ShowUI
 second_title: Aspose.3D for .NET API 参考
-description: 在场景中显示一个简单的 UI 默认值为真
+description: 在场景中显示一个简单的 UI 默认值为 true
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.formats/html5saveoptions/showui/
 ---
 ## Html5SaveOptions.ShowUI property
 
-在场景中显示一个简单的 UI。 默认值为真。
+在场景中显示一个简单的 UI。 默认值为 true。
 
 ```csharp
 public bool ShowUI { get; set; }

@@ -13,18 +13,18 @@ url: /zh/net/aspose.threed.profiles/
 | 班级 | 描述 |
 | --- | --- |
 | [ArbitraryProfile](./arbitraryprofile) | 此类允许您直接从任意曲线构造二维轮廓。 |
-| [CircleShape](./circleshape) | IFC 兼容的圆形轮廓，可用于通过以下方式构建网格 [`LinearExtrusion`](../aspose.threed.entities/linearextrusion) |
-| [CShape](./cshape) | 由参数定义的 IFC 兼容 C 形轮廓。 轮廓的中心位置在边界框的中心。 |
+| [CircleShape](./circleshape) | IFC 兼容圆轮廓，可用于通过[`LinearExtrusion`](../aspose.threed.entities/linearextrusion) |
+| [CShape](./cshape) | 参数定义的IFC兼容C型轮廓。 轮廓的中心位置在边界框的中心。 |
 | [EllipseShape](./ellipseshape) | 由参数定义的IFC兼容椭圆形状。 轮廓的中心位置在边界框的中心。 |
-| [HollowCircleShape](./hollowcircleshape) | IFC 兼容空心圆轮廓。 |
+| [HollowCircleShape](./hollowcircleshape) | IFC 兼容的空心圆轮廓。 |
 | [HollowRectangleShape](./hollowrectangleshape) | IFC 兼容的空心矩形，带有内/外圆角。 |
-| [HShape](./hshape) | [`HShape`](../aspose.threed.profiles/hshape)提供“H”或“I”形状的定义参数。 |
+| [HShape](./hshape) | 的[`HShape`](../aspose.threed.profiles/hshape)提供“H”或“I”形状的定义参数。 |
 | [LShape](./lshape) | 由参数定义的 IFC 兼容 L 形轮廓。 |
-| [MirroredProfile](./mirroredprofile) | IFC 兼容镜像配置文件。 此配置文件通过围绕 y 轴镜像基本配置文件来定义一个新配置文件。 |
+| [MirroredProfile](./mirroredprofile) | IFC 兼容镜像配置文件。 此配置文件通过围绕 y 轴镜像基本配置文件来定义新配置文件。 |
 | [ParameterizedProfile](./parameterizedprofile) | 所有参数化配置文件的基类。 |
-| [Profile](./profile) | xy 平面中的二维轮廓 |
-| [RectangleShape](./rectangleshape) | IFC 兼容矩形，带圆角。 |
-| [TrapeziumShape](./trapeziumshape) | IFC 兼容梯形由参数定义。 |
+| [Profile](./profile) | xy 平面中的 2D 轮廓 |
+| [RectangleShape](./rectangleshape) | 带有圆角的 IFC 兼容矩形。 |
+| [TrapeziumShape](./trapeziumshape) | 由参数定义的 IFC 兼容梯形。 |
 | [TShape](./tshape) | 由参数定义的 IFC 兼容 T 形。 |
 | [UShape](./ushape) | 由参数定义的 IFC 兼容 U 形。 |
 | [ZShape](./zshape) | 由参数定义的 IFC 兼容 Z 形轮廓。 |

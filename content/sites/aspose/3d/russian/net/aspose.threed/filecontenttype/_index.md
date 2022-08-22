@@ -18,8 +18,8 @@ public enum FileContentType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Binary | `0` | Тип двоичного формата, например, двоичный FBX, двоичный STL |
-| ASCII | `1` | Тип формата ASCII, например, ASCII FBX, ASCII STL |
+| Binary | `0` | Тип двоичного формата, например двоичный FBX, двоичный STL |
+| ASCII | `1` | Тип формата ASCII, например ASCII FBX, ASCII STL |
 
 ### Смотрите также
 

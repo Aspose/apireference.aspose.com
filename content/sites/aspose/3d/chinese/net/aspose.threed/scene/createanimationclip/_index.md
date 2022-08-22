@@ -1,14 +1,14 @@
 ---
 title: CreateAnimationClip
 second_title: Aspose.3D for .NET API 参考
-description: 创建和注册AnimationClipaspose.threed.animation/animationclip 第一个AnimationClipaspose.threed.animation/animationclip将分配给CurrentAnimationClipaspose.threed/scene/currentanimationclip
+description: 创建和注册AnimationClipaspose.threed.animation/animationclip 第一个AnimationClipaspose.threed.animation/animationclip将被分配到CurrentAnimationClipaspose.threed/scene/currentanimationclip
 type: docs
 weight: 120
 url: /zh/net/aspose.threed/scene/createanimationclip/
 ---
 ## Scene.CreateAnimationClip method
 
-创建和注册[`AnimationClip`](../../../aspose.threed.animation/animationclip) 第一个[`AnimationClip`](../../../aspose.threed.animation/animationclip)将分配给[`CurrentAnimationClip`](../currentanimationclip)
+创建和注册[`AnimationClip`](../../../aspose.threed.animation/animationclip) 第一个[`AnimationClip`](../../../aspose.threed.animation/animationclip)将被分配到[`CurrentAnimationClip`](../currentanimationclip)
 
 ```csharp
 public AnimationClip CreateAnimationClip(string name)

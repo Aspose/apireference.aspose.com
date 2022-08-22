@@ -1,14 +1,14 @@
 ---
 title: Begin
 second_title: Aspose.3D for .NET API 参考
-description: 开始添加新多边形
+description: 开始添加一个新的多边形
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.entities/polygonbuilder/begin/
 ---
 ## PolygonBuilder.Begin method
 
-开始添加新多边形
+开始添加一个新的多边形
 
 ```csharp
 public void Begin()

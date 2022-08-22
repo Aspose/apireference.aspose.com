@@ -1,14 +1,14 @@
 ---
 title: EmbedAssets
 second_title: Справочник по Aspose.3D для .NET API
-description: Встроить все внешние активы как base64 в один файл в режиме ASCII значение по умолчанию - false.
+description: Встроить все внешние активы в формате base64 в один файл в режиме ASCII значение по умолчанию  false.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.formats/gltfsaveoptions/embedassets/
 ---
 ## GltfSaveOptions.EmbedAssets property
 
-Встроить все внешние активы как base64 в один файл в режиме ASCII, значение по умолчанию - false.
+Встроить все внешние активы в формате base64 в один файл в режиме ASCII, значение по умолчанию — false.
 
 ```csharp
 public bool EmbedAssets { get; set; }

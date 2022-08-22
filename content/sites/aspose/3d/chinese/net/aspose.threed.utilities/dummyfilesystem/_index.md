@@ -3,7 +3,7 @@ title: DummyFileSystem
 second_title: Aspose.3D for .NET API 参考
 description: 读/写操作是虚拟操作
 type: docs
-weight: 2470
+weight: 2460
 url: /zh/net/aspose.threed.utilities/dummyfilesystem/
 ---
 ## DummyFileSystem class
@@ -25,7 +25,7 @@ public class DummyFileSystem : FileSystem
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | 处置文件系统并释放其资源。 |
-| override [ReadFile](../../aspose.threed.utilities/dummyfilesystem/readfile)(string, IOConfig) | 创建一个流来读取依赖。 |
+| override [ReadFile](../../aspose.threed.utilities/dummyfilesystem/readfile)(string, IOConfig) | 创建一个用于读取依赖项的流。 |
 | override [WriteFile](../../aspose.threed.utilities/dummyfilesystem/writefile)(string, IOConfig) | 创建一个用于写入依赖项的流。 |
 
 ### 也可以看看

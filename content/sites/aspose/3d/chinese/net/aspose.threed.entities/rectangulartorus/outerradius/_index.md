@@ -1,14 +1,14 @@
 ---
 title: OuterRadius
 second_title: Aspose.3D for .NET API 参考
-description: 矩形圆环的外半径 默认值为 20
+description: 矩形圆环的外半径 默认值为20
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.entities/rectangulartorus/outerradius/
 ---
 ## RectangularTorus.OuterRadius property
 
-矩形圆环的外半径 默认值为 20
+矩形圆环的外半径 默认值为20
 
 ```csharp
 public double OuterRadius { get; set; }

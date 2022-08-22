@@ -34,6 +34,11 @@ The base namespace of Aspose.3D
 | [SceneObject](./sceneobject) | The root class of objects that will be stored inside a scene. |
 | [Transform](./transform) | A transform contains information that allow access to object's translate/scale/rotation or transform matrix at minimum cost This is used by local transform. |
 | [TrialException](./trialexception) | This is raised in Scene.Open/Scene.Save when no licenses are applied. You can turn off this exception by setting SuppressTrialException to true. |
+## Interfaces
+
+| Interface | Description |
+| --- | --- |
+| [INamedObject](./inamedobject) | Object that has a name |
 ## Enumeration
 
 | Enumeration | Description |

@@ -1,14 +1,14 @@
 ---
 title: Scroll
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает прокрутку UV-координаты.
+description: Получает или задает прокрутку координаты UV.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.render/itextureunit/scroll/
 ---
 ## ITextureUnit.Scroll property
 
-Получает или задает прокрутку UV-координаты.
+Получает или задает прокрутку координаты UV.
 
 ```csharp
 public Vector2 Scroll { get; set; }

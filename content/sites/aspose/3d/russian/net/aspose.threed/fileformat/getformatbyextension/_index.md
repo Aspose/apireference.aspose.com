@@ -1,14 +1,14 @@
 ---
 title: GetFormatByExtension
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает предпочтительный формат файла из имени расширения файла Имя расширения должно начинаться с точки ..
+description: Получает предпочтительный формат файла из файла с расширением name Имя расширения должно начинаться с точки ..
 type: docs
 weight: 430
 url: /ru/net/aspose.threed/fileformat/getformatbyextension/
 ---
 ## FileFormat.GetFormatByExtension method
 
-Получает предпочтительный формат файла из имени расширения файла Имя расширения должно начинаться с точки ('.').
+Получает предпочтительный формат файла из файла с расширением name Имя расширения должно начинаться с точки ('.').
 
 ```csharp
 public static FileFormat GetFormatByExtension(string extensionName)

@@ -1,14 +1,14 @@
 ---
 title: HShape
 second_title: Aspose.3D for .NET API 参考
-description: HShape./hshape提供H或I形状的定义参数
+description: 的HShape./hshape提供H或I形状的定义参数
 type: docs
-weight: 1540
+weight: 1550
 url: /zh/net/aspose.threed.profiles/hshape/
 ---
 ## HShape class
 
-[`HShape`](../hshape)提供“H”或“I”形状的定义参数。
+的[`HShape`](../hshape)提供“H”或“I”形状的定义参数。
 
 ```csharp
 public class HShape : ParameterizedProfile
@@ -18,24 +18,24 @@ public class HShape : ParameterizedProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [HShape](hshape)() | [`HShape`](../hshape) |
+| [HShape](hshape)() | 的构造函数[`HShape`](../hshape) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BottomFlangeEdgeRadius](../../aspose.threed.profiles/hshape/bottomflangeedgeradius) { get; set; } | 获取或设置底部法兰上边缘的半径。 |
+| [BottomFlangeEdgeRadius](../../aspose.threed.profiles/hshape/bottomflangeedgeradius) { get; set; } | 获取或设置下法兰上边缘的半径。 |
 | [BottomFlangeFilletRadius](../../aspose.threed.profiles/hshape/bottomflangefilletradius) { get; set; } | 获取或设置腹板和底部翼缘之间的圆角半径。 |
 | [BottomFlangeThickness](../../aspose.threed.profiles/hshape/bottomflangethickness) { get; set; } | 获取或设置H型的翼缘厚度。 |
 | [BottomFlangeWidth](../../aspose.threed.profiles/hshape/bottomflangewidth) { get; set; } | 获取或设置宽度的范围。 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
-| [OverallDepth](../../aspose.threed.profiles/hshape/overalldepth) { get; set; } | 获取或设置深度范围。 |
+| [OverallDepth](../../aspose.threed.profiles/hshape/overalldepth) { get; set; } | 获取或设置深度的范围。 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
 | [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | 获取所有父节点，一个实体可以附加到多个父节点进行几何实例化 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | 获取该对象所属的场景 |
-| [TopFlangeEdgeRadius](../../aspose.threed.profiles/hshape/topflangeedgeradius) { get; set; } | 获取或设置顶部法兰下边缘的半径。 |
+| [TopFlangeEdgeRadius](../../aspose.threed.profiles/hshape/topflangeedgeradius) { get; set; } | 获取或设置上翼缘下边缘的半径。 |
 | [TopFlangeFilletRadius](../../aspose.threed.profiles/hshape/topflangefilletradius) { get; set; } | 获取或设置腹板和上翼缘之间的圆角半径。 |
 | [TopFlangeThickness](../../aspose.threed.profiles/hshape/topflangethickness) { get; set; } | 获取或设置顶部法兰的厚度。 |
 | [TopFlangeWidth](../../aspose.threed.profiles/hshape/topflangewidth) { get; set; } | 获取或设置顶部法兰的宽度。 |
@@ -45,13 +45,13 @@ public class HShape : ParameterizedProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| override [GetEntityRendererKey](../../aspose.threed.profiles/profile/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | override [GetExtent](../../aspose.threed.profiles/hshape/getextent)() | 获取 x 和 y 维度的范围。 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

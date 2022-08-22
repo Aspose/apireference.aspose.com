@@ -1,14 +1,14 @@
 ---
 title: PolygonBuilder
 second_title: Aspose.3D for .NET API 参考
-description: 初始化PolygonBuilderaspose.threed.entities/polygonbuilder类的新实例
+description: 初始化PolygonBuilderaspose.threed.entities/polygonbuilder类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/polygonbuilder/polygonbuilder/
 ---
 ## PolygonBuilder constructor
 
-初始化[`PolygonBuilder`](../../polygonbuilder)类的新实例。
+初始化[`PolygonBuilder`](../../polygonbuilder)类.
 
 ```csharp
 public PolygonBuilder(Mesh mesh)

@@ -1,14 +1,14 @@
 ---
 title: U
 second_title: Aspose.3D for .NET API 参考
-description: 如果Vector2aspose.threed.utilities/vector2用作映射坐标则获取或设置 U 组件 是 x 组件的别名
+description: 获取或设置 U 组件如果Vector2aspose.threed.utilities/vector2用作映射坐标 是x组件的别名
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.utilities/vector2/u/
 ---
 ## Vector2.U property
 
-如果[`Vector2`](../../vector2)用作映射坐标，则获取或设置 U 组件。 是 x 组件的别名。
+获取或设置 U 组件，如果[`Vector2`](../../vector2)用作映射坐标。 是x组件的别名。
 
 ```csharp
 public double U { get; set; }

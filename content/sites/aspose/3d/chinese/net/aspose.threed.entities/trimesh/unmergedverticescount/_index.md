@@ -1,14 +1,14 @@
 ---
 title: UnmergedVerticesCount
 second_title: Aspose.3D for .NET API 参考
-description: 由BeginVertexaspose.threed.entities/trimesh/beginvertex和M传入的未合并顶点的计数Aspose.ThreeD.Entities.TriMesh.EndVertex
+description: 传入的未合并顶点数BeginVertexaspose.threed.entities/trimesh/beginvertex和EndVertexaspose.threed.entities/trimesh/endvertex.
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.entities/trimesh/unmergedverticescount/
 ---
 ## TriMesh.UnmergedVerticesCount property
 
-由[`BeginVertex`](../beginvertex)和M传入的未合并顶点的计数:Aspose.ThreeD.Entities.TriMesh.EndVertex。
+传入的未合并顶点数[`BeginVertex`](../beginvertex)和[`EndVertex`](../endvertex).
 
 ```csharp
 public int UnmergedVerticesCount { get; }

@@ -1,14 +1,14 @@
 ---
 title: WallThickness
 second_title: Aspose.3D for .NET API 参考
-description: 矩形边界与内孔之间的厚度
+description: 矩形边界到内孔的厚度
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.profiles/hollowrectangleshape/wallthickness/
 ---
 ## HollowRectangleShape.WallThickness property
 
-矩形边界与内孔之间的厚度
+矩形边界到内孔的厚度
 
 ```csharp
 public double WallThickness { get; set; }

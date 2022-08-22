@@ -20,7 +20,7 @@ public void Add(RenderQueueGroupId groupId, IPipeline pipeline, object renderabl
 | groupId | RenderQueueGroupId | В какой группе очереди будет задача рендеринга |
 | pipeline | IPipeline | Экземпляр конвейера, используемый для этой задачи рендеринга |
 | renderableResource | Object | Пользовательский объект, который будет отправлен[`RenderEntity`](../../entityrenderer/renderentity) |
-| subEntity | Int32 | Индекс подсущностей, полезен, когда сущность состоит из более чем одного вспомогательного визуализируемого компонента. |
+| subEntity | Int32 | Индекс вложенных объектов, полезен, когда объект состоит из более чем одного вспомогательного визуализируемого компонента. |
 
 ### Смотрите также
 

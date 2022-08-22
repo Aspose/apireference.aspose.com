@@ -1,14 +1,14 @@
 ---
 title: VertexElement
 second_title: Справочник по Aspose.3D для .NET API
-description: Базовый класс вершинных элементов. Тип элемента вершины идентифицируется VertexElementType. VertexElement описывает как элемент вершины отображается на геометрическую поверхность и как информация об отображении размещается в памяти. VertexElement содержит нормали UV и другую информацию.
+description: Базовый класс вершинных элементов. Тип вершинных элементов идентифицируется VertexElementType. VertexElement описывает как элемент вершины отображается на геометрическую поверхность и как информация об отображении размещается в памяти. VertexElement содержит нормали UV и другую информацию.
 type: docs
 weight: 760
 url: /ru/net/aspose.threed.entities/vertexelement/
 ---
 ## VertexElement class
 
-Базовый класс вершинных элементов. Тип элемента вершины идентифицируется VertexElementType. VertexElement описывает, как элемент вершины отображается на геометрическую поверхность и как информация об отображении размещается в памяти. VertexElement содержит нормали, UV и другую информацию.
+Базовый класс вершинных элементов. Тип вершинных элементов идентифицируется VertexElementType. VertexElement описывает, как элемент вершины отображается на геометрическую поверхность и как информация об отображении размещается в памяти. VertexElement содержит нормали, UV и другую информацию.
 
 ```csharp
 public abstract class VertexElement : IIndexedVertexElement
@@ -18,8 +18,8 @@ public abstract class VertexElement : IIndexedVertexElement
 
 | Имя | Описание |
 | --- | --- |
-| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает данные индексов |
-| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ сопоставления элемента. |
+| [Indices](../../aspose.threed.entities/vertexelement/indices) { get; } | Получает индексы data |
+| [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | Получает или задает способ отображения элемента. |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | Получает или задает имя. |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | Получает или задает способ ссылки на элемент. |
 | [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | Получает тип[`VertexElement`](../vertexelement) |

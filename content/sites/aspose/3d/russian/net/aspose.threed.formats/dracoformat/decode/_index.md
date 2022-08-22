@@ -1,14 +1,14 @@
 ---
 title: Decode
 second_title: Справочник по Aspose.3D для .NET API
-description: Декодировать облако точек или сетку из указанного имени файла
+description: Декодировать облако точек или сетку из файла с указанным именем
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.formats/dracoformat/decode/
 ---
 ## Decode(string) {#decode_1}
 
-Декодировать облако точек или сетку из указанного имени файла
+Декодировать облако точек или сетку из файла с указанным именем
 
 ```csharp
 public Geometry Decode(string fileName)
@@ -20,7 +20,7 @@ public Geometry Decode(string fileName)
 
 ### Возвращаемое значение
 
-A[`Mesh`](../../../aspose.threed.entities/mesh)или[`PointCloud`](../../../aspose.threed.entities/pointcloud)instance зависит от содержимого файла
+А[`Mesh`](../../../aspose.threed.entities/mesh) или же[`PointCloud`](../../../aspose.threed.entities/pointcloud) экземпляр зависит от содержимого файла
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ A[`Mesh`](../../../aspose.threed.entities/mesh)или[`PointCloud`](../../../asp
 
 ## Decode(byte[]) {#decode}
 
-Декодировать облако точек или сетку из данных памяти
+Декодировать облако точек или сетку из памяти data
 
 ```csharp
 public Geometry Decode(byte[] data)
@@ -41,11 +41,11 @@ public Geometry Decode(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | необработанные байты drc |
+| data | Byte[] | Необработанные байты drc |
 
 ### Возвращаемое значение
 
-A[`Mesh`](../../../aspose.threed.entities/mesh)или[`PointCloud`](../../../aspose.threed.entities/pointcloud)экземпляр зависит от содержимого
+А[`Mesh`](../../../aspose.threed.entities/mesh) или же[`PointCloud`](../../../aspose.threed.entities/pointcloud) экземпляр зависит от содержимого
 
 ### Смотрите также
 

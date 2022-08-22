@@ -1,14 +1,14 @@
 ---
 title: XDim
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает размер прямоугольника в направлении оси x Значение по умолчанию20
+description: Получает или задает размер прямоугольника в направлении оси x Значение по умолчанию 2.0
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.profiles/rectangleshape/xdim/
 ---
 ## RectangleShape.XDim property
 
-Получает или задает размер прямоугольника в направлении оси x Значение по умолчанию:2,0
+Получает или задает размер прямоугольника в направлении оси x Значение по умолчанию: 2.0
 
 ```csharp
 public double XDim { get; set; }

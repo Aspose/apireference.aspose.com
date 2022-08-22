@@ -1,14 +1,14 @@
 ---
 title: PlySaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: PlySaveOptionsaspose.threed.formats/plysaveoptions
+description: 的构造函数PlySaveOptionsaspose.threed.formats/plysaveoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/plysaveoptions/plysaveoptions/
 ---
 ## PlySaveOptions() {#constructor}
 
-[`PlySaveOptions`](../../plysaveoptions)
+的构造函数[`PlySaveOptions`](../../plysaveoptions)
 
 ```csharp
 public PlySaveOptions()
@@ -24,7 +24,7 @@ public PlySaveOptions()
 
 ## PlySaveOptions(FileContentType) {#constructor_1}
 
-的构造函数 [`PlySaveOptions`](../../plysaveoptions)
+的构造函数[`PlySaveOptions`](../../plysaveoptions)
 
 ```csharp
 public PlySaveOptions(FileContentType contentType)

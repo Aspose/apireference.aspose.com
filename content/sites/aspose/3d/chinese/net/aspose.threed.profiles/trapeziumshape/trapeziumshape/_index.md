@@ -1,14 +1,14 @@
 ---
 title: TrapeziumShape
 second_title: Aspose.3D for .NET API 参考
-description: TrapeziumShapeaspose.threed.profiles/trapeziumshape
+description: 的构造函数TrapeziumShapeaspose.threed.profiles/trapeziumshape
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/trapeziumshape/trapeziumshape/
 ---
 ## TrapeziumShape constructor
 
-[`TrapeziumShape`](../../trapeziumshape)
+的构造函数[`TrapeziumShape`](../../trapeziumshape)
 
 ```csharp
 public TrapeziumShape()

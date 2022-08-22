@@ -16,7 +16,7 @@ public void DefineInclude(string fileName, string content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя виртуального файла |
+| fileName | String | Имя файла виртуального файла |
 | content | String |  |
 
 ### Смотрите также

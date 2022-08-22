@@ -1,14 +1,14 @@
 ---
 title: VertexElementPolygonGroup
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementPolygonGroupaspose.threed.entities/vertexelementpolygongroup.
+description: Инициализирует новый экземплярVertexElementPolygonGroupaspose.threed.entities/vertexelementpolygongroup класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementpolygongroup/vertexelementpolygongroup/
 ---
 ## VertexElementPolygonGroup constructor
 
-Инициализирует новый экземпляр класса[`VertexElementPolygonGroup`](../../vertexelementpolygongroup).
+Инициализирует новый экземпляр[`VertexElementPolygonGroup`](../../vertexelementpolygongroup) класс.
 
 ```csharp
 public VertexElementPolygonGroup()

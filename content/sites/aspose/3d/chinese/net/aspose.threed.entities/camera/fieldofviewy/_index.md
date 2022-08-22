@@ -1,14 +1,14 @@
 ---
 title: FieldOfViewY
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置相机的垂直视野以度为单位该属性仅在 ApertureMode 为ApertureMode时使用HorizAndVert
+description: 获取或设置相机的垂直视野以度为单位该属性仅在 ApertureMode 为HorizAndVert
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.entities/camera/fieldofviewy/
 ---
 ## Camera.FieldOfViewY property
 
-获取或设置相机的垂直视野，以度为单位，该属性仅在 ApertureMode 为ApertureMode时使用。HorizAndVert
+获取或设置相机的垂直视野，以度为单位，该属性仅在 ApertureMode 为HorizAndVert
 
 ```csharp
 public double FieldOfViewY { get; set; }

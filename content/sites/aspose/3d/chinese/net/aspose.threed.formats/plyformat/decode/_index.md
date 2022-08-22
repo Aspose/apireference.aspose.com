@@ -17,11 +17,11 @@ public Geometry Decode(string fileName, PlyLoadOptions opt = null)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fileName | String | 输入流 |
-| opt | PlyLoadOptions | 的加载选项PLY 格式 |
+| opt | PlyLoadOptions | PLY 格式的加载选项 |
 
 ### 返回值
 
-A[`Mesh`](../../../aspose.threed.entities/mesh)或Entities。PointCloud实例
+一个[`Mesh`](../../../aspose.threed.entities/mesh)或者[`PointCloud`](../../../aspose.threed.entities/pointcloud)实例
 
 ### 也可以看看
 
@@ -44,11 +44,11 @@ public Geometry Decode(Stream stream, PlyLoadOptions opt = null)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 输入流 |
-| opt | PlyLoadOptions | 的加载选项PLY 格式 |
+| opt | PlyLoadOptions | PLY 格式的加载选项 |
 
 ### 返回值
 
-A[`Mesh`](../../../aspose.threed.entities/mesh)或Entities。PointCloud实例
+一个[`Mesh`](../../../aspose.threed.entities/mesh)或者[`PointCloud`](../../../aspose.threed.entities/pointcloud)实例
 
 ### 也可以看看
 

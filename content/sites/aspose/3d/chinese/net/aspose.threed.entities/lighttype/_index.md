@@ -1,14 +1,14 @@
 ---
 title: LightType
 second_title: Aspose.3D for .NET API 参考
-description: 灯光类型
+description: 灯光类型.
 type: docs
 weight: 410
 url: /zh/net/aspose.threed.entities/lighttype/
 ---
 ## LightType enumeration
 
-灯光类型。
+灯光类型.
 
 ```csharp
 public enum LightType

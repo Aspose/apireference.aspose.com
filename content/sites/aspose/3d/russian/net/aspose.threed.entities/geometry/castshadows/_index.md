@@ -1,14 +1,14 @@
 ---
 title: CastShadows
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает может ли эта геометрия отбрасывать тень
+description: Получает или задает может ли эта геометрия отбрасывать тень
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/geometry/castshadows/
 ---
 ## Geometry.CastShadows property
 
-Получает или устанавливает, может ли эта геометрия отбрасывать тень
+Получает или задает, может ли эта геометрия отбрасывать тень
 
 ```csharp
 public bool CastShadows { get; set; }

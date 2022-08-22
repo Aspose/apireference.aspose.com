@@ -1,14 +1,14 @@
 ---
 title: IRenderTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Интерфейс текстуры рендера
+description: Интерфейс рендера текстуры
 type: docs
-weight: 1890
+weight: 1900
 url: /ru/net/aspose.threed.render/irendertexture/
 ---
 ## IRenderTexture interface
 
-Интерфейс текстуры рендера
+Интерфейс рендера текстуры
 
 ```csharp
 public interface IRenderTexture : IRenderTarget
@@ -19,7 +19,7 @@ public interface IRenderTexture : IRenderTarget
 | Имя | Описание |
 | --- | --- |
 | [DepthTexture](../../aspose.threed.render/irendertexture/depthtexture) { get; } | Текстура буфера глубины |
-| [Targets](../../aspose.threed.render/irendertexture/targets) { get; } | Цели вывода цвета. |
+| [Targets](../../aspose.threed.render/irendertexture/targets) { get; } | Цели цветового вывода. |
 
 ### Смотрите также
 

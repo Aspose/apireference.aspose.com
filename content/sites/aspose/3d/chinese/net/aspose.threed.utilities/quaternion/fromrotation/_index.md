@@ -16,8 +16,8 @@ public static Quaternion FromRotation(Vector3 orig, Vector3 dest)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| orig | Vector3 | 原始方向 |
-| dest | Vector3 | 目标方向 |
+| orig | Vector3 | 原方向 |
+| dest | Vector3 | 目的地方向 |
 
 ### 返回值
 

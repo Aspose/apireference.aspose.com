@@ -3,7 +3,7 @@ title: BoundingBox
 second_title: Справочник по Aspose.3D для .NET API
 description: Выровненная по оси ограничительная рамка
 type: docs
-weight: 2430
+weight: 2420
 url: /ru/net/aspose.threed.utilities/boundingbox/
 ---
 ## BoundingBox structure
@@ -18,8 +18,8 @@ public struct BoundingBox
 
 | Имя | Описание |
 | --- | --- |
-| [BoundingBox](boundingbox#constructor)(Vector3, Vector3) | Инициализировать конечный ограничивающий прямоугольник с заданным минимальным и максимальным углом |
-| [BoundingBox](boundingbox#constructor_1)(double, double, double, double, double, double) | Инициализировать конечный ограничивающий прямоугольник с заданным минимальным и максимальным углом |
+| [BoundingBox](boundingbox#constructor)(Vector3, Vector3) | Инициализировать конечную ограничивающую рамку с заданным минимальным и максимальным значением угла |
+| [BoundingBox](boundingbox#constructor_1)(double, double, double, double, double, double) | Инициализировать конечную ограничивающую рамку с заданным минимальным и максимальным значением угла |
 
 ## Характеристики
 
@@ -37,9 +37,9 @@ public struct BoundingBox
 | --- | --- |
 | static [FromGeometry](../../aspose.threed.utilities/boundingbox/fromgeometry)(Geometry) | Построить ограничивающую рамку из заданной геометрии |
 | override [Equals](../../aspose.threed.utilities/boundingbox/equals)(object) | Определяет, равны ли два объекта |
-| override [GetHashCode](../../aspose.threed.utilities/boundingbox/gethashcode)() | Возвращает хеш-код для этого экземпляра |
+| override [GetHashCode](../../aspose.threed.utilities/boundingbox/gethashcode)() | Возвращает хэш-код для этого экземпляра |
 | override [ToString](../../aspose.threed.utilities/boundingbox/tostring)() | Получает строковое представление ограничивающей рамки. |
-| [operator *](../../aspose.threed.utilities/boundingbox/op_multiply) | Перегрузка оператора для умножения |
+| [operator *](../../aspose.threed.utilities/boundingbox/op_multiply) | Перегрузка оператора для Multiple |
 
 ## Поля
 

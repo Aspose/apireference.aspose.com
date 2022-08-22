@@ -18,17 +18,17 @@ public class KeyframeSequence : A3DObject, IEnumerable<KeyFrame>
 
 | Имя | Описание |
 | --- | --- |
-| [KeyframeSequence](keyframesequence#constructor)() | Инициализирует новый экземпляр класса[`KeyframeSequence`](../keyframesequence). |
-| [KeyframeSequence](keyframesequence#constructor_1)(string) | Инициализирует новый экземпляр класса[`KeyframeSequence`](../keyframesequence). |
+| [KeyframeSequence](keyframesequence#constructor)() | Инициализирует новый экземпляр[`KeyframeSequence`](../keyframesequence) класс. |
+| [KeyframeSequence](keyframesequence#constructor_1)(string) | Инициализирует новый экземпляр[`KeyframeSequence`](../keyframesequence) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BindPoint](../../aspose.threed.animation/keyframesequence/bindpoint) { get; } | Получает точку привязки свойства, которой принадлежит эта кривая |
+| [BindPoint](../../aspose.threed.animation/keyframesequence/bindpoint) { get; } | Получает точку привязки свойства, которая владеет этой кривой |
 | [KeyFrames](../../aspose.threed.animation/keyframesequence/keyframes) { get; } | Получает ключевые кадры этой кривой. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [PostBehavior](../../aspose.threed.animation/keyframesequence/postbehavior) { get; } | Получает поведение записи, указывающее, каким должно быть значение выборки после последнего ключевого кадра. |
+| [PostBehavior](../../aspose.threed.animation/keyframesequence/postbehavior) { get; } | Получает поведение после публикации, указывающее, каким должно быть значение выборки после последнего ключевого кадра. |
 | [PreBehavior](../../aspose.threed.animation/keyframesequence/prebehavior) { get; } | Получает предварительное поведение, указывающее, какое значение выборки должно быть перед первым ключом. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 
@@ -42,7 +42,7 @@ public class KeyframeSequence : A3DObject, IEnumerable<KeyFrame>
 | [GetEnumerator](../../aspose.threed.animation/keyframesequence/getenumerator)() | Заставляет перечислитель пройти все ключевые кадры. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [Reset](../../aspose.threed.animation/keyframesequence/reset)() | Удаляет все ключевые кадры и сбрасывает поведение после/до. |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 

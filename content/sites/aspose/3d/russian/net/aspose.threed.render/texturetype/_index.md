@@ -3,7 +3,7 @@ title: TextureType
 second_title: Справочник по Aspose.3D для .NET API
 description: ТипITextureUnit./itextureunit
 type: docs
-weight: 2210
+weight: 2220
 url: /ru/net/aspose.threed.render/texturetype/
 ---
 ## TextureType enumeration
@@ -18,11 +18,11 @@ public enum TextureType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Texture1D | `0` | 1-мерная текстура |
+| Texture1D | `0` | Одномерная текстура |
 | Texture2D | `1` | 2-мерная текстура |
 | Texture3D | `2` | Трехмерная текстура |
-| CubeMap | `3` | Текстура кубической карты содержит 6 2d-текстур |
-| Array2D | `4` | Множественный набор 2d текстур |
+| CubeMap | `3` | Текстура кубической карты содержит 6 2D-текстур |
+| Array2D | `4` | Множественный набор 2D-текстур |
 
 ### Смотрите также
 

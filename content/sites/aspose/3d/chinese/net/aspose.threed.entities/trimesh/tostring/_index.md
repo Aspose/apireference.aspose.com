@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 获取字符串表示 TriMeshaspose.threed.entities/trimesh
+description: 获取字符串表示TriMeshaspose.threed.entities/trimesh
 type: docs
 weight: 240
 url: /zh/net/aspose.threed.entities/trimesh/tostring/
 ---
 ## TriMesh.ToString method
 
-获取字符串表示 [`TriMesh`](../../trimesh)
+获取字符串表示[`TriMesh`](../../trimesh)
 
 ```csharp
 public override string ToString()

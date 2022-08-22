@@ -1,14 +1,14 @@
 ---
 title: HeightSegments
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает сегменты высоты
+description: Получает или задает высоту сегментов
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/dish/heightsegments/
 ---
 ## Dish.HeightSegments property
 
-Получает или устанавливает сегменты высоты
+Получает или задает высоту сегментов
 
 ```csharp
 public int HeightSegments { get; set; }

@@ -29,7 +29,7 @@ public static FMatrix4 operator *(FMatrix4 left, FMatrix4 right)
 
 ## operator * {#op_multiply_1}
 
-将矩阵乘以 double 值
+乘以矩阵和双值
 
 ```csharp
 public static FMatrix4 operator *(FMatrix4 lhs, float v)
@@ -37,8 +37,8 @@ public static FMatrix4 operator *(FMatrix4 lhs, float v)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lhs | FMatrix4 | Lhs。 |
-| v | Single | V. |
+| lhs | FMatrix4 | 左旋。 |
+| v | Single | 五。 |
 
 ### 返回值
 

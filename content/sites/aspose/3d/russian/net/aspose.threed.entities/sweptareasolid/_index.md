@@ -1,14 +1,14 @@
 ---
 title: SweptAreaSolid
 second_title: Справочник по Aspose.3D для .NET API
-description: ASweptAreaSolid./sweptareasolidстроит геометрию проводя профиль вдоль направляющей.
+description: АSweptAreaSolid./sweptareasolid строит геометрию проводя профиль по направляющей.
 type: docs
 weight: 690
 url: /ru/net/aspose.threed.entities/sweptareasolid/
 ---
 ## SweptAreaSolid class
 
-A[`SweptAreaSolid`](../sweptareasolid)строит геометрию, проводя профиль вдоль направляющей.
+А[`SweptAreaSolid`](../sweptareasolid) строит геометрию, проводя профиль по направляющей.
 
 ```csharp
 public class SweptAreaSolid : Entity, IMeshConvertible
@@ -28,12 +28,12 @@ public class SweptAreaSolid : Entity, IMeshConvertible
 | [EndPoint](../../aspose.threed.entities/sweptareasolid/endpoint) { get; set; } | Конечная точка направляющей. |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 | [Shape](../../aspose.threed.entities/sweptareasolid/shape) { get; set; } | Базовый профиль для построения геометрии. |
-| [StartPoint](../../aspose.threed.entities/sweptareasolid/startpoint) { get; set; } | Начальная точка директрисы. |
+| [StartPoint](../../aspose.threed.entities/sweptareasolid/startpoint) { get; set; } | Начальная точка направляющей. |
 
 ## Методы
 
@@ -41,12 +41,12 @@ public class SweptAreaSolid : Entity, IMeshConvertible
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
-| [ToMesh](../../aspose.threed.entities/sweptareasolid/tomesh)() | Конвертировать текущий объект в меш |
+| [ToMesh](../../aspose.threed.entities/sweptareasolid/tomesh)() | Преобразовать текущий объект в mesh |
 
 ### Смотрите также
 

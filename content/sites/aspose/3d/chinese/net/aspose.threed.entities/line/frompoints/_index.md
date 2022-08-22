@@ -1,14 +1,14 @@
 ---
 title: FromPoints
 second_title: Aspose.3D for .NET API 参考
-description: 从一组点构造Lineaspose.threed.entities/line实例
+description: 构造一个Lineaspose.threed.entities/line来自一组点的实例
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/line/frompoints/
 ---
 ## Line.FromPoints method
 
-从一组点构造[`Line`](../../line)实例。
+构造一个[`Line`](../../line)来自一组点的实例。
 
 ```csharp
 public static Line FromPoints(params Vector3[] points)

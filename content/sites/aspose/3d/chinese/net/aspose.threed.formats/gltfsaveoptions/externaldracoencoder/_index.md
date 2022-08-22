@@ -1,14 +1,14 @@
 ---
 title: ExternalDracoEncoder
 second_title: Aspose.3D for .NET API 参考
-description: 使用外部 draco 编码器加快 draco 压缩速度
+description: 使用外部draco编码器加快draco压缩速度
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/externaldracoencoder/
 ---
 ## GltfSaveOptions.ExternalDracoEncoder property
 
-使用外部 draco 编码器加快 draco 压缩速度。
+使用外部draco编码器加快draco压缩速度。
 
 ```csharp
 public string ExternalDracoEncoder { get; set; }
@@ -16,7 +16,7 @@ public string ExternalDracoEncoder { get; set; }
 
 ### 评论
 
-Aspose.3D 将创建新的子进程以将网格编码为 draco 格式，在你自己的风险。
+Aspose.3D 将创建新的子进程来将网格编码为 draco 格式，使用它需要您自担风险。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PositiveY
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для грани YTop
+description: Получает или задает данные для YTop face
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.render/cubefacedata-1/positivey/
 ---
 ## CubeFaceData&lt;T&gt;.PositiveY property
 
-Получает или задает данные для грани +Y(Top)
+Получает или задает данные для +Y(Top) face
 
 ```csharp
 public T PositiveY { get; set; }

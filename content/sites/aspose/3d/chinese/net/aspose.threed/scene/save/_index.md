@@ -51,18 +51,40 @@ public void Save(Stream stream, FileFormat format, CancellationToken cancellatio
 
 ---
 
-## Save(Stream, SaveOptions, CancellationToken) {#save_2}
+## Save(Stream, SaveOptions) {#save_2}
 
 使用指定的文件格式将场景保存为流式传输。
 
 ```csharp
-public void Save(Stream stream, SaveOptions options, CancellationToken cancellationToken = default)
+public void Save(Stream stream, SaveOptions options)
 ```
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 输入流，用户负责关闭流。 |
-| options | SaveOptions | 保存流的更详细配置。 |
+| options | SaveOptions | 更详细的配置来保存流。 |
+
+### 也可以看看
+
+* class [SaveOptions](../../../aspose.threed.formats/saveoptions)
+* class [Scene](../../scene)
+* 命名空间 [Aspose.ThreeD](../../scene)
+* 部件 [Aspose.3D](../../../)
+
+---
+
+## Save(Stream, SaveOptions, CancellationToken) {#save_3}
+
+使用指定的文件格式将场景保存为流式传输。
+
+```csharp
+public void Save(Stream stream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| stream | Stream | 输入流，用户负责关闭流。 |
+| options | SaveOptions | 更详细的配置来保存流。 |
 | cancellationToken | CancellationToken | 保存任务的取消令牌 |
 
 ### 也可以看看
@@ -74,7 +96,7 @@ public void Save(Stream stream, SaveOptions options, CancellationToken cancellat
 
 ---
 
-## Save(string) {#save_3}
+## Save(string) {#save_4}
 
 使用指定文件格式将场景保存到指定路径。
 
@@ -94,7 +116,7 @@ public void Save(string fileName)
 
 ---
 
-## Save(string, FileFormat) {#save_4}
+## Save(string, FileFormat) {#save_5}
 
 使用指定文件格式将场景保存到指定路径。
 
@@ -116,7 +138,7 @@ public void Save(string fileName, FileFormat format)
 
 ---
 
-## Save(string, FileFormat, CancellationToken) {#save_5}
+## Save(string, FileFormat, CancellationToken) {#save_6}
 
 使用指定文件格式将场景保存到指定路径。
 
@@ -139,19 +161,40 @@ public void Save(string fileName, FileFormat format, CancellationToken cancellat
 
 ---
 
-## Save(string, SaveOptions, CancellationToken) {#save_6}
+## Save(string, SaveOptions) {#save_7}
 
 使用指定文件格式将场景保存到指定路径。
 
 ```csharp
-public void Save(string fileName, SaveOptions options, 
-    CancellationToken cancellationToken = default)
+public void Save(string fileName, SaveOptions options)
 ```
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fileName | String | 文件名。 |
-| options | SaveOptions | 保存流的更详细配置。 |
+| options | SaveOptions | 更详细的配置来保存流。 |
+
+### 也可以看看
+
+* class [SaveOptions](../../../aspose.threed.formats/saveoptions)
+* class [Scene](../../scene)
+* 命名空间 [Aspose.ThreeD](../../scene)
+* 部件 [Aspose.3D](../../../)
+
+---
+
+## Save(string, SaveOptions, CancellationToken) {#save_8}
+
+使用指定文件格式将场景保存到指定路径。
+
+```csharp
+public void Save(string fileName, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fileName | String | 文件名。 |
+| options | SaveOptions | 更详细的配置来保存流。 |
 | cancellationToken | CancellationToken | 保存任务的取消令牌 |
 
 ### 也可以看看

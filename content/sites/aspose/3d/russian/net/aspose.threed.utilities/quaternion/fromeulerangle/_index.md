@@ -18,11 +18,11 @@ public static Quaternion FromEulerAngle(double pitch, double yaw, double roll)
 | --- | --- | --- |
 | pitch | Double | Шаг в радианах |
 | yaw | Double | Рыскание в радианах |
-| roll | Double | Крен в радианах |
+| roll | Double | Прокрутить в радианах |
 
 ### Возвращаемое значение
 
-Создан кватернион
+Созданный кватернион
 
 ### Смотрите также
 

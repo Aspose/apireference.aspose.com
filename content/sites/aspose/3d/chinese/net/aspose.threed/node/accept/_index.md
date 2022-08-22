@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.3D for .NET API 参考
-description: 遍历所有后代节点包括当前节点并调用该节点的访问者 访问者可以通过返回 false
+description: 遍历所有后代节点包括当前节点并用该节点调用访问者 访问者可以通过返回false来中断遍历
 type: docs
 weight: 140
 url: /zh/net/aspose.threed/node/accept/
 ---
 ## Node.Accept method
 
-遍历所有后代节点（包括当前节点）并调用该节点的访问者。 访问者可以通过返回 false
+遍历所有后代节点（包括当前节点），并用该节点调用访问者。 访问者可以通过返回false来中断遍历
 
 ```csharp
 public bool Accept(NodeVisitor visitor)
@@ -16,11 +16,11 @@ public bool Accept(NodeVisitor visitor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| visitor | NodeVisitor | 访问者回调来访问节点 |
+| visitor | NodeVisitor | 访问者回调访问节点 |
 
 ### 返回值
 
-true 表示访问者已经突破了通道。
+true 表示访问者已通过。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Html5SaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: Html5SaveOptionsaspose.threed.formats/html5saveoptions的构造函数具有所有默认设置
+description: 的构造函数Html5SaveOptionsaspose.threed.formats/html5saveoptions使用所有默认设置
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/html5saveoptions/html5saveoptions/
 ---
 ## Html5SaveOptions constructor
 
-[`Html5SaveOptions`](../../html5saveoptions)的构造函数，具有所有默认设置。
+的构造函数[`Html5SaveOptions`](../../html5saveoptions)使用所有默认设置。
 
 ```csharp
 public Html5SaveOptions()

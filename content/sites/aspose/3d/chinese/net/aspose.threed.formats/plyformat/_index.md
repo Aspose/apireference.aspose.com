@@ -19,10 +19,10 @@ public class PlyFormat : FileFormat
 | 姓名 | 描述 |
 | --- | --- |
 | [CanExport](../../aspose.threed/fileformat/canexport) { get; } | 获取 Aspose.3D 是否支持将场景导出为当前文件格式。 |
-| [CanImport](../../aspose.threed/fileformat/canimport) { get; } | 获取 Aspose.3D 是否支持从当前文件格式导入场景。 |
+| [CanImport](../../aspose.threed/fileformat/canimport) { get; } | 获取Aspose.3D是否支持从当前文件格式导入场景。 |
 | [ContentType](../../aspose.threed/fileformat/contenttype) { get; } | 获取文件格式内容类型 |
-| [Extension](../../aspose.threed/fileformat/extension) { get; } | 获取该类型的扩展名。 |
-| [Extensions](../../aspose.threed/fileformat/extensions) { get; } | 获取该类型的扩展名。 |
+| [Extension](../../aspose.threed/fileformat/extension) { get; } | 获取此类型的扩展名。 |
+| [Extensions](../../aspose.threed/fileformat/extensions) { get; } | 获取此类型的扩展名。 |
 | [FileFormatType](../../aspose.threed/fileformat/fileformattype) { get; } | 获取文件格式类型 |
 | [Version](../../aspose.threed/fileformat/version) { get; } | 获取文件格式版本 |
 
@@ -36,7 +36,7 @@ public class PlyFormat : FileFormat
 | [Decode](../../aspose.threed.formats/plyformat/decode#decode_1)(string, PlyLoadOptions) | 从指定的流中解码点云或网格。 |
 | [Encode](../../aspose.threed.formats/plyformat/encode#encode)(Entity, Stream, PlySaveOptions) | 对实体进行编码并将结果保存到流中。 |
 | [Encode](../../aspose.threed.formats/plyformat/encode#encode_1)(Entity, string, PlySaveOptions) | 对实体进行编码并将结果保存到外部文件中。 |
-| override [ToString](../../aspose.threed/fileformat/tostring)() | 格式化为字符串 |
+| override [ToString](../../aspose.threed/fileformat/tostring)() | 格式为字符串 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ReadVector2
 second_title: Справочник по Aspose.3D для .NET API
-description: Читать поле vector2
+description: Прочитать поле vector2
 type: docs
 weight: 210
 url: /ru/net/aspose.threed.entities/trimesh/readvector2/
 ---
 ## TriMesh.ReadVector2 method
 
-Читать поле vector2
+Прочитать поле vector2
 
 ```csharp
 public Vector2 ReadVector2(int idx, VertexField field)

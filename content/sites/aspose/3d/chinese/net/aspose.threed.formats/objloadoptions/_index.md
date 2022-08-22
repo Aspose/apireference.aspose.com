@@ -18,7 +18,7 @@ public class ObjLoadOptions : LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ObjLoadOptions](objloadoptions)() | [`ObjLoadOptions`](../objloadoptions) |
+| [ObjLoadOptions](objloadoptions)() | 的构造函数[`ObjLoadOptions`](../objloadoptions) |
 
 ## 特性
 
@@ -27,11 +27,11 @@ public class ObjLoadOptions : LoadOptions
 | [EnableMaterials](../../aspose.threed.formats/objloadoptions/enablematerials) { get; set; } | 获取或设置是否为每个对象导入材质 |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
-| [FlipCoordinateSystem](../../aspose.threed.formats/objloadoptions/flipcoordinatesystem) { get; set; } | 获取或设置导入时是否翻转控制点坐标系/法线 |
+| [FlipCoordinateSystem](../../aspose.threed.formats/objloadoptions/flipcoordinatesystem) { get; set; } | 获取或设置导入时是否翻转控制点/法线坐标系 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
-| [NormalizeNormal](../../aspose.threed.formats/objloadoptions/normalizenormal) { get; set; } | 获取或设置是否在加载过程中对法线向量进行归一化。 默认值为真。 |
+| [NormalizeNormal](../../aspose.threed.formats/objloadoptions/normalizenormal) { get; set; } | 获取或设置是否在加载过程中对法线向量进行归一化。 默认值为true。 |
 | [Scale](../../aspose.threed.formats/objloadoptions/scale) { get; set; } | 在 x/y/z 轴上缩放，默认值为 1.0 |
 
 ### 也可以看看

@@ -3,7 +3,7 @@ title: IPipeline
 second_title: Справочник по Aspose.3D для .NET API
 description: Заранее подготовленная последовательность операций для рисования на стороне графического процессора.
 type: docs
-weight: 1860
+weight: 1870
 url: /ru/net/aspose.threed.render/ipipeline/
 ---
 ## IPipeline interface

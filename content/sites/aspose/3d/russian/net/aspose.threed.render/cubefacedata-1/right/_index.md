@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает данные для Xправого лица
+description: Получает или задает данные для XRight face
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.render/cubefacedata-1/right/
 ---
 ## CubeFaceData&lt;T&gt;.Right property
 
-Получает или задает данные для +X(правого) лица
+Получает или задает данные для +X(Right) face
 
 ```csharp
 public T Right { get; set; }

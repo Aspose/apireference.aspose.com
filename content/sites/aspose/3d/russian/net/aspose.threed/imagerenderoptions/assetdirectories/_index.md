@@ -1,14 +1,14 @@
 ---
 title: AssetDirectories
 second_title: Справочник по Aspose.3D для .NET API
-description: Каталоги в которых хранятся внешние ресурсы например текстуры
+description: Каталоги в которых хранятся внешние активы например текстуры
 type: docs
 weight: 20
 url: /ru/net/aspose.threed/imagerenderoptions/assetdirectories/
 ---
 ## ImageRenderOptions.AssetDirectories property
 
-Каталоги, в которых хранятся внешние ресурсы (например, текстуры)
+Каталоги, в которых хранятся внешние активы (например, текстуры)
 
 ```csharp
 public List<string> AssetDirectories { get; set; }

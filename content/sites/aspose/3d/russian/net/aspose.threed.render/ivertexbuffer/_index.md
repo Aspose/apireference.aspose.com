@@ -3,7 +3,7 @@ title: IVertexBuffer
 second_title: Справочник по Aspose.3D для .NET API
 description: Буфер вершин содержит данные вершин полигонов которые будут отправлены в конвейер рендеринга
 type: docs
-weight: 1950
+weight: 1960
 url: /ru/net/aspose.threed.render/ivertexbuffer/
 ---
 ## IVertexBuffer interface

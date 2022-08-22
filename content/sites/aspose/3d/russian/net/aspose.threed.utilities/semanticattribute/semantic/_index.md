@@ -1,14 +1,14 @@
 ---
 title: Semantic
 second_title: Справочник по Aspose.3D для .NET API
-description: Семантика поля вершин
+description: Семантика вершинного поля
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.utilities/semanticattribute/semantic/
 ---
 ## SemanticAttribute.Semantic property
 
-Семантика поля вершин
+Семантика вершинного поля
 
 ```csharp
 public VertexFieldSemantic Semantic { get; }

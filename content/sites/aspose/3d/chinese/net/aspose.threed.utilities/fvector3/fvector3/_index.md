@@ -1,14 +1,14 @@
 ---
 title: FVector3
 second_title: Aspose.3D for .NET API 参考
-description: 初始化FVector3aspose.threed.utilities/fvector3的新实例
+description: 初始化FVector3aspose.threed.utilities/fvector3.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/fvector3/fvector3/
 ---
 ## FVector3(float, float, float) {#constructor_2}
 
-初始化[`FVector3`](../../fvector3)的新实例。
+初始化[`FVector3`](../../fvector3).
 
 ```csharp
 public FVector3(float x, float y, float z)
@@ -24,7 +24,7 @@ public FVector3(float x, float y, float z)
 
 ## FVector3(Vector3) {#constructor}
 
-初始化[`FVector3`](../../fvector3)的新实例。
+初始化[`FVector3`](../../fvector3).
 
 ```csharp
 public FVector3(Vector3 vec)
@@ -41,7 +41,7 @@ public FVector3(Vector3 vec)
 
 ## FVector3(Vector4) {#constructor_1}
 
-初始化[`FVector4`](../../fvector4)的新实例。
+初始化[`FVector4`](../../fvector4).
 
 ```csharp
 public FVector3(Vector4 vec)

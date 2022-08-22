@@ -16,7 +16,7 @@ public void AddKeyframeSequence(KeyframeSequence sequence)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sequence | KeyframeSequence | 关键帧序列到添加。 |
+| sequence | KeyframeSequence | 要添加的关键帧序列。 |
 
 ### 也可以看看
 

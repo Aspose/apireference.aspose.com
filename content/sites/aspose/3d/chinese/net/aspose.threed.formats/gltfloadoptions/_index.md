@@ -18,7 +18,7 @@ public class GltfLoadOptions : LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GltfLoadOptions](gltfloadoptions)() | [`GltfLoadOptions`](../gltfloadoptions) |
+| [GltfLoadOptions](gltfloadoptions)() | 的构造函数[`GltfLoadOptions`](../gltfloadoptions) |
 
 ## 特性
 
@@ -26,9 +26,9 @@ public class GltfLoadOptions : LoadOptions
 | --- | --- |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | 获取或设置基于文本的文件的默认编码。 默认值为 null，这意味着导入器/导出器将决定使用哪种编码。 |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | 获取当前保存/加载选项中指定的文件格式。 |
-| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。 |
+| [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | 导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。 |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | 允许用户在加载/保存期间处理如何管理外部依赖项。 |
-| [FlipTexCoordV](../../aspose.threed.formats/gltfloadoptions/fliptexcoordv) { get; set; } | 翻转网格纹理坐标中的 v(t) 坐标，默认值为 true。 |
+| [FlipTexCoordV](../../aspose.threed.formats/gltfloadoptions/fliptexcoordv) { get; set; } | 在mesh的纹理坐标中翻转v(t)坐标，默认值为true。 |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | 像 OBJ 这样的一些文件依赖于外部文件，查找路径将允许 Aspose.3D 查找要加载的外部文件。 |
 
 ### 也可以看看

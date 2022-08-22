@@ -1,14 +1,14 @@
 ---
 title: FromPoints
 second_title: Справочник по Aspose.3D для .NET API
-description: Создайте экземплярLineaspose.threed.entities/lineиз набора точек.
+description: ПостроитьLineaspose.threed.entities/line экземпляр из набора точек.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/line/frompoints/
 ---
 ## Line.FromPoints method
 
-Создайте экземпляр[`Line`](../../line)из набора точек.
+Построить[`Line`](../../line) экземпляр из набора точек.
 
 ```csharp
 public static Line FromPoints(params Vector3[] points)
@@ -16,7 +16,7 @@ public static Line FromPoints(params Vector3[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| очки | Vector3[] |  |
+| points | Vector3[] |  |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Vector3
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр структурыVector3aspose.threed.utilities/vector3.
+description: Инициализирует новый экземплярVector3aspose.threed.utilities/vector3 структура.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/vector3/vector3/
 ---
 ## Vector3(double, double, double) {#constructor_3}
 
-Инициализирует новый экземпляр структуры[`Vector3`](../../vector3).
+Инициализирует новый экземпляр[`Vector3`](../../vector3) структура.
 
 ```csharp
 public Vector3(double x, double y, double z)
@@ -16,9 +16,9 @@ public Vector3(double x, double y, double z)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Координата x. |
-| y | Double | Координата y. |
-| z | Double | Координата z. |
+| x | Double | Координата х. |
+| y | Double | Координата у. |
+| z | Double | Координата Z. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public Vector3(double x, double y, double z)
 
 ## Vector3(FVector3) {#constructor}
 
-Инициализирует новый экземпляр структуры[`Vector3`](../../vector3).
+Инициализирует новый экземпляр[`Vector3`](../../vector3) структура.
 
 ```csharp
 public Vector3(FVector3 vec)
@@ -38,7 +38,7 @@ public Vector3(FVector3 vec)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vec | FVector3 | Координата x. |
+| vec | FVector3 | Координата х. |
 
 ### Смотрите также
 
@@ -51,7 +51,7 @@ public Vector3(FVector3 vec)
 
 ## Vector3(Color) {#constructor_4}
 
-Инициализирует новый экземпляр структуры[`Vector3`](../../vector3).
+Инициализирует новый экземпляр[`Vector3`](../../vector3) структура.
 
 ```csharp
 public Vector3(Color color)
@@ -71,7 +71,7 @@ public Vector3(Color color)
 
 ## Vector3(double) {#constructor_2}
 
-Инициализирует новый экземпляр структуры[`Vector3`](../../vector3).
+Инициализирует новый экземпляр[`Vector3`](../../vector3) структура.
 
 ```csharp
 public Vector3(double v)
@@ -79,7 +79,7 @@ public Vector3(double v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| v | Double | V. |
+| v | Double | В. |
 
 ### Смотрите также
 
@@ -91,7 +91,7 @@ public Vector3(double v)
 
 ## Vector3(Vector4) {#constructor_1}
 
-Инициализирует новый экземпляр структуры[`Vector3`](../../vector3).
+Инициализирует новый экземпляр[`Vector3`](../../vector3) структура.
 
 ```csharp
 public Vector3(Vector4 vec4)
@@ -99,7 +99,7 @@ public Vector3(Vector4 vec4)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vec4 | Vector4 | Vec4. |
+| vec4 | Vector4 | Век4. |
 
 ### Смотрите также
 

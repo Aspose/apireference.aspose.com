@@ -1,14 +1,14 @@
 ---
 title: AnimationClips
 second_title: Aspose.3D for .NET API 参考
-description: 获取场景中定义的所有AnimationClipaspose.threed.animation/animationclip
+description: 获取所有AnimationClipaspose.threed.animation/animationclip在场景中定义.
 type: docs
 weight: 40
 url: /zh/net/aspose.threed/scene/animationclips/
 ---
 ## Scene.AnimationClips property
 
-获取场景中定义的所有[`AnimationClip`](../../../aspose.threed.animation/animationclip)。
+获取所有[`AnimationClip`](../../../aspose.threed.animation/animationclip)在场景中定义.
 
 ```csharp
 public IList<AnimationClip> AnimationClips { get; }

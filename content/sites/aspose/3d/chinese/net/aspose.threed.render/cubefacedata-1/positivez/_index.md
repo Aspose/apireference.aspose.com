@@ -1,14 +1,14 @@
 ---
 title: PositiveZ
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 ZBack face
+description: 获取或设置ZBack face 的数据
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.render/cubefacedata-1/positivez/
 ---
 ## CubeFaceData&lt;T&gt;.PositiveZ property
 
-获取或设置 +Z(Back) face
+获取或设置+Z(Back) face 的数据
 
 ```csharp
 public T PositiveZ { get; set; }

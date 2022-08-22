@@ -1,14 +1,14 @@
 ---
 title: Rvm
 second_title: Справочник по Aspose.3D для .NET API
-description: Модель системы управления проектированием предприятий AVEVA.
+description: Модель системы управления проектированием предприятия AVEVA.
 type: docs
 weight: 150
 url: /ru/net/aspose.threed/fileformattype/rvm/
 ---
 ## FileFormatType.Rvm field
 
-Модель системы управления проектированием предприятий AVEVA.
+Модель системы управления проектированием предприятия AVEVA.
 
 ```csharp
 public static readonly FileFormatType Rvm;

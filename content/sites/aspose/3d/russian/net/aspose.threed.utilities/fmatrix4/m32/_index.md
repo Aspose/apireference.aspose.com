@@ -1,14 +1,14 @@
 ---
 title: m32
 second_title: Справочник по Aspose.3D для .NET API
-description: M32.
+description: m32.
 type: docs
 weight: 170
 url: /ru/net/aspose.threed.utilities/fmatrix4/m32/
 ---
 ## FMatrix4.m32 field
 
-M32.
+m32.
 
 ```csharp
 public float m32;

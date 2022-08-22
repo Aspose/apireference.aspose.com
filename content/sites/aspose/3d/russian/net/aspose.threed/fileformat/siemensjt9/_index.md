@@ -1,14 +1,14 @@
 ---
 title: SiemensJT9
 second_title: Справочник по Aspose.3D для .NET API
-description: Siemens JT File Version 9
+description: Версия файла Siemens JT 9
 type: docs
 weight: 300
 url: /ru/net/aspose.threed/fileformat/siemensjt9/
 ---
 ## FileFormat.SiemensJT9 field
 
-Siemens JT File Version 9
+Версия файла Siemens JT 9
 
 ```csharp
 public static readonly FileFormat SiemensJT9;

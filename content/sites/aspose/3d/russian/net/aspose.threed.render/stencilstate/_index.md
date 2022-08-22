@@ -1,14 +1,14 @@
 ---
 title: StencilState
 second_title: Справочник по Aspose.3D для .NET API
-description: Состояния трафарета для каждой грани.
+description: Состояний трафарета на грань.
 type: docs
-weight: 2190
+weight: 2200
 url: /ru/net/aspose.threed.render/stencilstate/
 ---
 ## StencilState class
 
-Состояния трафарета для каждой грани.
+Состояний трафарета на грань.
 
 ```csharp
 public class StencilState
@@ -18,9 +18,9 @@ public class StencilState
 
 | Имя | Описание |
 | --- | --- |
-| [Compare](../../aspose.threed.render/stencilstate/compare) { get; set; } | Получает или задает функцию сравнения, используемую в тесте трафарета |
+| [Compare](../../aspose.threed.render/stencilstate/compare) { get; set; } | Получает или задает функцию сравнения, используемую в тесте шаблона |
 | [DepthFailAction](../../aspose.threed.render/stencilstate/depthfailaction) { get; set; } | Получает или задает действие шаблона, когда тест шаблона проходит успешно, но тест глубины не пройден. |
-| [FailAction](../../aspose.threed.render/stencilstate/failaction) { get; set; } | Получает или задает действие трафарета при сбое теста трафарета. |
+| [FailAction](../../aspose.threed.render/stencilstate/failaction) { get; set; } | Получает или задает действие шаблона при сбое теста шаблона. |
 | [PassAction](../../aspose.threed.render/stencilstate/passaction) { get; set; } | Получает или задает действие трафарета при прохождении теста трафарета и теста глубины. |
 
 ## Методы

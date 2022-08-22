@@ -1,14 +1,14 @@
 ---
 title: EmissiveTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает текстуру для эмиссии
+description: Получает или устанавливает текстуру для emissive
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.shading/pbrmaterial/emissivetexture/
 ---
 ## PbrMaterial.EmissiveTexture property
 
-Получает или устанавливает текстуру для эмиссии
+Получает или устанавливает текстуру для emissive
 
 ```csharp
 public TextureBase EmissiveTexture { get; set; }

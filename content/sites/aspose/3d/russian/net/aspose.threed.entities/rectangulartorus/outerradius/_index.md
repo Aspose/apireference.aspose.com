@@ -1,14 +1,14 @@
 ---
 title: OuterRadius
 second_title: Справочник по Aspose.3D для .NET API
-description: Внешний радиус прямоугольного тора Значение по умолчанию20
+description: Внешний радиус прямоугольного тора Значение по умолчанию 20
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.entities/rectangulartorus/outerradius/
 ---
 ## RectangularTorus.OuterRadius property
 
-Внешний радиус прямоугольного тора Значение по умолчанию:20
+Внешний радиус прямоугольного тора Значение по умолчанию: 20
 
 ```csharp
 public double OuterRadius { get; set; }

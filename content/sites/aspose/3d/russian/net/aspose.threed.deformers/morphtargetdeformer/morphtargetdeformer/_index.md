@@ -1,14 +1,14 @@
 ---
 title: MorphTargetDeformer
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаMorphTargetDeformeraspose.threed.deformers/morphtargetdeformer.
+description: Инициализирует новый экземплярMorphTargetDeformeraspose.threed.deformers/morphtargetdeformer класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.deformers/morphtargetdeformer/morphtargetdeformer/
 ---
 ## MorphTargetDeformer(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`MorphTargetDeformer`](../../morphtargetdeformer).
+Инициализирует новый экземпляр[`MorphTargetDeformer`](../../morphtargetdeformer) класс.
 
 ```csharp
 public MorphTargetDeformer(string name)
@@ -28,7 +28,7 @@ public MorphTargetDeformer(string name)
 
 ## MorphTargetDeformer() {#constructor}
 
-Инициализирует новый экземпляр класса[`MorphTargetDeformer`](../../morphtargetdeformer).
+Инициализирует новый экземпляр[`MorphTargetDeformer`](../../morphtargetdeformer) класс.
 
 ```csharp
 public MorphTargetDeformer()

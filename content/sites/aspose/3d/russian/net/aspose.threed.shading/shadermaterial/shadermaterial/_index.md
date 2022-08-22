@@ -1,14 +1,14 @@
 ---
 title: ShaderMaterial
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаShaderMaterialaspose.threed.shading/shadermaterial.
+description: Инициализирует новый экземплярShaderMaterialaspose.threed.shading/shadermaterial класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.shading/shadermaterial/shadermaterial/
 ---
 ## ShaderMaterial() {#constructor}
 
-Инициализирует новый экземпляр класса[`ShaderMaterial`](../../shadermaterial).
+Инициализирует новый экземпляр[`ShaderMaterial`](../../shadermaterial) класс.
 
 ```csharp
 public ShaderMaterial()
@@ -24,7 +24,7 @@ public ShaderMaterial()
 
 ## ShaderMaterial(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ShaderMaterial`](../../shadermaterial).
+Инициализирует новый экземпляр[`ShaderMaterial`](../../shadermaterial) класс.
 
 ```csharp
 public ShaderMaterial(string name)
@@ -32,7 +32,7 @@ public ShaderMaterial(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

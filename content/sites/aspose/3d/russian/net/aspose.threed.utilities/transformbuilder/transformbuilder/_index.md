@@ -1,14 +1,14 @@
 ---
 title: TransformBuilder
 second_title: Справочник по Aspose.3D для .NET API
-description: Создать объектTransformBuilderaspose.threed.utilities/transformbuilderс исходной матрицей преобразования и указанным порядком компоновки
+description: ПостроитьTransformBuilderaspose.threed.utilities/transformbuilderс исходной матрицей преобразования и указанным составом order
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/transformbuilder/transformbuilder/
 ---
 ## TransformBuilder(Matrix4, ComposeOrder) {#constructor_1}
 
-Создать объект[`TransformBuilder`](../../transformbuilder)с исходной матрицей преобразования и указанным порядком компоновки
+Построить[`TransformBuilder`](../../transformbuilder)с исходной матрицей преобразования и указанным составом order
 
 ```csharp
 public TransformBuilder(Matrix4 initial, ComposeOrder order)
@@ -16,8 +16,8 @@ public TransformBuilder(Matrix4 initial, ComposeOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| начальный | Matrix4 |  |
-| порядок | ComposeOrder |  |
+| initial | Matrix4 |  |
+| order | ComposeOrder |  |
 
 ### Смотрите также
 
@@ -31,7 +31,7 @@ public TransformBuilder(Matrix4 initial, ComposeOrder order)
 
 ## TransformBuilder(ComposeOrder) {#constructor}
 
-Создать объект[`TransformBuilder`](../../transformbuilder)с исходной матрицей преобразования идентичности и указанным порядком компоновки
+Построить[`TransformBuilder`](../../transformbuilder) с исходной матрицей преобразования идентичности и указанным составом order
 
 ```csharp
 public TransformBuilder(ComposeOrder order = ComposeOrder.Append)
@@ -39,7 +39,7 @@ public TransformBuilder(ComposeOrder order = ComposeOrder.Append)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| порядок | ComposeOrder |  |
+| order | ComposeOrder |  |
 
 ### Смотрите также
 

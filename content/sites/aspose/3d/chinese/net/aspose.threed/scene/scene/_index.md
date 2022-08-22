@@ -1,14 +1,14 @@
 ---
 title: Scene
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Sceneaspose.threed/scene类的新实例
+description: 初始化Sceneaspose.threed/scene类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed/scene/scene/
 ---
 ## Scene() {#constructor}
 
-初始化[`Scene`](../../scene)类的新实例。
+初始化[`Scene`](../../scene)类.
 
 ```csharp
 public Scene()
@@ -24,7 +24,7 @@ public Scene()
 
 ## Scene(Entity) {#constructor_1}
 
-使用附加到新节点的实体初始化[`Scene`](../../scene)类的新实例。
+初始化[`Scene`](../../scene)具有附加到新节点的实体的类。
 
 ```csharp
 public Scene(Entity entity)
@@ -45,7 +45,7 @@ public Scene(Entity entity)
 
 ## Scene(Scene, string) {#constructor_2}
 
-将[`Scene`](../../scene)类的新实例初始化为子场景。
+初始化[`Scene`](../../scene)类作为子场景。
 
 ```csharp
 public Scene(Scene parentScene, string name)

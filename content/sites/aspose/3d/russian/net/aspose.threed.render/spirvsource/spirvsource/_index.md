@@ -1,14 +1,14 @@
 ---
 title: SPIRVSource
 second_title: Справочник по Aspose.3D для .NET API
-description: Конструктор источников шейдеров на базе SPIR-V.
+description: Конструктор источников шейдеров на основе SPIRV.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.render/spirvsource/spirvsource/
 ---
 ## SPIRVSource constructor
 
-Конструктор источников шейдеров на базе SPIR-V.
+Конструктор источников шейдеров на основе SPIR-V.
 
 ```csharp
 public SPIRVSource()

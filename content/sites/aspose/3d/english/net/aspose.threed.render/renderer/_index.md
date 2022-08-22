@@ -3,7 +3,7 @@ title: Renderer
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2090
+weight: 2100
 url: /net/aspose.threed.render/renderer/
 ---
 ## Renderer class

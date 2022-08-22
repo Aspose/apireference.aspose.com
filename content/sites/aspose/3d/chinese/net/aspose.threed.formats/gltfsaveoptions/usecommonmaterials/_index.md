@@ -1,14 +1,14 @@
 ---
 title: UseCommonMaterials
 second_title: Aspose.3D for .NET API 参考
-description: 使用 KHR 常用材质扩展序列化材质默认值为 false 将此设置为 false 将导致 Aspose.3D 导出一组顶点/片段着色器 ifExportShaders
+description: 使用 KHR 常用材质扩展序列化材质默认值为 false 将此设置为 false 将导致 Aspose.3D 导出一组顶点/片段着色器如果ExportShaders
 type: docs
 weight: 120
 url: /zh/net/aspose.threed.formats/gltfsaveoptions/usecommonmaterials/
 ---
 ## GltfSaveOptions.UseCommonMaterials property
 
-使用 KHR 常用材质扩展序列化材质，默认值为 false。 将此设置为 false 将导致 Aspose.3D 导出一组顶点/片段着色器 ifExportShaders
+使用 KHR 常用材质扩展序列化材质，默认值为 false。 将此设置为 false 将导致 Aspose.3D 导出一组顶点/片段着色器，如果ExportShaders
 
 ```csharp
 public bool UseCommonMaterials { get; set; }

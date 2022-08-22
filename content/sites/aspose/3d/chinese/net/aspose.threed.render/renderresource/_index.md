@@ -1,14 +1,14 @@
 ---
 title: RenderResource
 second_title: Aspose.3D for .NET API 参考
-description: 所有渲染资源的抽象类 所有渲染资源都会在渲染器释放时被释放 Mesh../aspose.threed.entities/mesh/Texture../aspose.threed.shading/texture等类将具有相应的 RenderResource
+description: 所有渲染资源的抽象类 所有渲染资源会在渲染器释放时被释放 类如Mesh../aspose.threed.entities/mesh/Texture../aspose.threed.shading/texture会有对应的RenderResource
 type: docs
-weight: 2060
+weight: 2070
 url: /zh/net/aspose.threed.render/renderresource/
 ---
 ## RenderResource class
 
-所有渲染资源的抽象类 所有渲染资源都会在渲染器释放时被释放。 [`Mesh`](../../aspose.threed.entities/mesh)/[`Texture`](../../aspose.threed.shading/texture)等类将具有相应的 RenderResource
+所有渲染资源的抽象类 所有渲染资源会在渲染器释放时被释放 类如[`Mesh`](../../aspose.threed.entities/mesh)/[`Texture`](../../aspose.threed.shading/texture)会有对应的RenderResource
 
 ```csharp
 public abstract class RenderResource : IDisposable
@@ -18,7 +18,7 @@ public abstract class RenderResource : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.threed.render/renderresource/dispose)() | 释放[`RenderResource`](../renderresource) |
+| [Dispose](../../aspose.threed.render/renderresource/dispose)() | 释放使用的内部资源[`RenderResource`](../renderresource) |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: RenderEntity
 second_title: Справочник по Aspose.3D для .NET API
-description: Каждая задача рендеринга помещенная вIRenderQueueaspose.threed.render/irenderqueue будет иметь соответствующий вызов RenderEntity для выполнения конкретной работы по рендерингу.
+description: Каждая задача рендеринга помещенная вIRenderQueueaspose.threed.render/irenderqueue будет иметь соответствующий RenderEntity call для выполнения конкретного задания рендеринга.
 type: docs
 weight: 70
 url: /ru/net/aspose.threed.render/entityrenderer/renderentity/
 ---
 ## EntityRenderer.RenderEntity method
 
-Каждая задача рендеринга, помещенная в[`IRenderQueue`](../../irenderqueue), будет иметь соответствующий вызов RenderEntity для выполнения конкретной работы по рендерингу.
+Каждая задача рендеринга, помещенная в[`IRenderQueue`](../../irenderqueue) будет иметь соответствующий RenderEntity call для выполнения конкретного задания рендеринга.
 
 ```csharp
 public virtual void RenderEntity(Renderer renderer, ICommandList commandList, Node node, 
@@ -17,11 +17,11 @@ public virtual void RenderEntity(Renderer renderer, ICommandList commandList, No
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| renderer | Renderer | Средство визуализации |
-| commandList | ICommandList | Список команд, используемый для записи команды рендеринга |
-| node | Node | Тот же самый узел, который передается в PrepareRenderQueue сущности, которая будет визуализирована |
-| renderableResource | Object | Пользовательский объект, переданный в IRenderQueue во время PrepareRenderQueue |
-| subEntity | Int32 | Индекс подобъекта, переданный в IRenderQueue |
+| renderer | Renderer | Рендерер |
+| commandList | ICommandList | Список команд, используемый для записи команд рендеринга. |
+| node | Node | Тот же узел, который был передан в PrepareRenderQueue сущности, которая будет визуализирована. |
+| renderableResource | Object | Пользовательский объект, переданный в IRenderQueue во время PrepareRenderQueue. |
+| subEntity | Int32 | Индекс субобъекта, переданного в IRenderQueue. |
 
 ### Смотрите также
 

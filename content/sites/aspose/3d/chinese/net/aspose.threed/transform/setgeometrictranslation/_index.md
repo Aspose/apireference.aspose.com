@@ -1,14 +1,14 @@
 ---
 title: SetGeometricTranslation
 second_title: Aspose.3D for .NET API 参考
-description: 设置几何平移 几何变换只影响附加的实体不影响子节点 当您将几何变换导出到不支持它的文件类型时它将被合并为本地变换
+description: 设置几何平移 几何变换只影响附加的实体不影响子节点 当您将几何变换导出到不支持它的文件类型时它将作为本地变换合并
 type: docs
 weight: 140
 url: /zh/net/aspose.threed/transform/setgeometrictranslation/
 ---
 ## Transform.SetGeometricTranslation method
 
-设置几何平移。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将被合并为本地变换。
+设置几何平移。 几何变换只影响附加的实体，不影响子节点。 当您将几何变换导出到不支持它的文件类型时，它将作为本地变换合并。
 
 ```csharp
 public Transform SetGeometricTranslation(double x, double y, double z)

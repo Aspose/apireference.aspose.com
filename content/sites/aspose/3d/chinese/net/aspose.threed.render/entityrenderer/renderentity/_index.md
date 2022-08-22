@@ -1,14 +1,14 @@
 ---
 title: RenderEntity
 second_title: Aspose.3D for .NET API 参考
-description: 每个推送到IRenderQueueaspose.threed.render/irenderqueue的渲染任务都会有一个对应的 RenderEntity 调用 执行具体的渲染工作
+description: 每个渲染任务推送到IRenderQueueaspose.threed.render/irenderqueue将有一个对应的 RenderEntity call 来执行具体的渲染作业
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.render/entityrenderer/renderentity/
 ---
 ## EntityRenderer.RenderEntity method
 
-每个推送到[`IRenderQueue`](../../irenderqueue)的渲染任务都会有一个对应的 RenderEntity 调用 执行具体的渲染工作。
+每个渲染任务推送到[`IRenderQueue`](../../irenderqueue)将有一个对应的 RenderEntity call 来执行具体的渲染作业。
 
 ```csharp
 public virtual void RenderEntity(Renderer renderer, ICommandList commandList, Node node, 
@@ -18,10 +18,10 @@ public virtual void RenderEntity(Renderer renderer, ICommandList commandList, No
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | renderer | Renderer | 渲染器 |
-| commandList | ICommandList | 用来记录的commandList渲染命令 |
-| node | Node | 传递给将要渲染的实体的 PrepareRenderQueue 的同一节点 |
+| commandList | ICommandList | 用于记录渲染命令的commandList |
+| node | Node | 传递给将要呈现的实体的 PrepareRenderQueue 的同一节点 |
 | renderableResource | Object | 在 PrepareRenderQueue 期间传递给 IRenderQueue 的自定义对象 |
-| subEntity | Int32 | 传递给 IRenderQueue |
+| subEntity | Int32 | 传递给 IRenderQueue 的子实体的索引 |
 
 ### 也可以看看
 

@@ -17,7 +17,7 @@ public Vector4 ReadVector4(int idx, VertexField field)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | idx | Int32 | 要读取的顶点索引 |
-| field | VertexField | Vector4/FVector4 数据类型的字段 |
+| field | VertexField | 具有 Vector4/FVector4 数据类型的字段 |
 
 ### 也可以看看
 

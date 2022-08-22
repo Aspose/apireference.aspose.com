@@ -1,14 +1,14 @@
 ---
 title: Vector4
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр структурыVector4aspose.threed.utilities/vector4.
+description: Инициализирует новый экземплярVector4aspose.threed.utilities/vector4 структура.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/vector4/vector4/
 ---
 ## Vector4(Color) {#constructor_5}
 
-Инициализирует новый экземпляр структуры[`Vector4`](../../vector4).
+Инициализирует новый экземпляр[`Vector4`](../../vector4) структура.
 
 ```csharp
 public Vector4(Color color)
@@ -28,7 +28,7 @@ public Vector4(Color color)
 
 ## Vector4(Vector3, double) {#constructor_2}
 
-Инициализирует новый экземпляр структуры[`Vector4`](../../vector4).
+Инициализирует новый экземпляр[`Vector4`](../../vector4) структура.
 
 ```csharp
 public Vector4(Vector3 vec, double w)
@@ -36,7 +36,7 @@ public Vector4(Vector3 vec, double w)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vec | Vector3 | Vec. |
+| vec | Vector3 | Век. |
 | w | Double | Ширина. |
 
 ### Смотрите также
@@ -50,7 +50,7 @@ public Vector4(Vector3 vec, double w)
 
 ## Vector4(Vector3) {#constructor_1}
 
-Инициализирует новый экземпляр структуры[`Vector4`](../../vector4).
+Инициализирует новый экземпляр[`Vector4`](../../vector4) структура.
 
 ```csharp
 public Vector4(Vector3 vec)
@@ -58,7 +58,7 @@ public Vector4(Vector3 vec)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vec | Vector3 | Vec. |
+| vec | Vector3 | Век. |
 
 ### Смотрите также
 
@@ -71,7 +71,7 @@ public Vector4(Vector3 vec)
 
 ## Vector4(FVector4) {#constructor}
 
-Инициализирует новый экземпляр структуры[`Vector4`](../../vector4).
+Инициализирует новый экземпляр[`Vector4`](../../vector4) структура.
 
 ```csharp
 public Vector4(FVector4 vec)
@@ -79,7 +79,7 @@ public Vector4(FVector4 vec)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vec | FVector4 | Vec. |
+| vec | FVector4 | Век. |
 
 ### Смотрите также
 
@@ -92,7 +92,7 @@ public Vector4(FVector4 vec)
 
 ## Vector4(double, double, double) {#constructor_3}
 
-Инициализирует новый экземпляр структуры[`Vector4`](../../vector4).
+Инициализирует новый экземпляр[`Vector4`](../../vector4) структура.
 
 ```csharp
 public Vector4(double x, double y, double z)
@@ -100,9 +100,9 @@ public Vector4(double x, double y, double z)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Координата x. |
-| y | Double | Координата y. |
-| z | Double | Координата z. |
+| x | Double | Координата х. |
+| y | Double | Координата у. |
+| z | Double | Координата Z. |
 
 ### Смотрите также
 
@@ -114,7 +114,7 @@ public Vector4(double x, double y, double z)
 
 ## Vector4(double, double, double, double) {#constructor_4}
 
-Инициализирует новый экземпляр структуры[`Vector4`](../../vector4).
+Инициализирует новый экземпляр[`Vector4`](../../vector4) структура.
 
 ```csharp
 public Vector4(double x, double y, double z, double w)
@@ -122,9 +122,9 @@ public Vector4(double x, double y, double z, double w)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Координата x. |
-| y | Double | Координата y. |
-| z | Double | Координата z. |
+| x | Double | Координата х. |
+| y | Double | Координата у. |
+| z | Double | Координата Z. |
 | w | Double | Ширина. |
 
 ### Смотрите также

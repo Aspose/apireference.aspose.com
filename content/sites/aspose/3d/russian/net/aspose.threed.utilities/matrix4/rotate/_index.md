@@ -16,8 +16,8 @@ public static Matrix4 Rotate(double angle, Vector3 axis)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Double | Повернуть угол в радианах |
-| ось | Vector3 | Ось вращения |
+| angle | Double | Угол поворота в радианах |
+| axis | Vector3 | Ось вращения |
 
 ### Смотрите также
 

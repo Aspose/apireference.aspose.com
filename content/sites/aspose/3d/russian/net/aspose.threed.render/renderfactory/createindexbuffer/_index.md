@@ -1,14 +1,14 @@
 ---
 title: CreateIndexBuffer
 second_title: Справочник по Aspose.3D для .NET API
-description: Создайте экземплярIIndexBufferaspose.threed.render/iindexbufferдля хранения информации о лице полигона.
+description: СоздатьIIndexBufferaspose.threed.render/iindexbuffer экземпляр для хранения информации о лице полигона.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.render/renderfactory/createindexbuffer/
 ---
 ## RenderFactory.CreateIndexBuffer method
 
-Создайте экземпляр[`IIndexBuffer`](../../iindexbuffer)для хранения информации о лице полигона.
+Создать[`IIndexBuffer`](../../iindexbuffer) экземпляр для хранения информации о лице полигона.
 
 ```csharp
 public abstract IIndexBuffer CreateIndexBuffer()

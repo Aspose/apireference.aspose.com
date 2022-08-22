@@ -1,14 +1,14 @@
 ---
 title: LinearAttenuation
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置线性衰减以计算光的总衰减
+description: 获取或设置线性衰减计算灯光的总衰减
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.entities/light/linearattenuation/
 ---
 ## Light.LinearAttenuation property
 
-获取或设置线性衰减以计算光的总衰减
+获取或设置线性衰减，计算灯光的总衰减
 
 ```csharp
 public double LinearAttenuation { get; set; }

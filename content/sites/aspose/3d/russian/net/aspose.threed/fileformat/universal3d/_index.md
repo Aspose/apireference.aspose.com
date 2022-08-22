@@ -1,14 +1,14 @@
 ---
 title: Universal3D
 second_title: Справочник по Aspose.3D для .NET API
-description: Формат файла Universal3D
+description: Универсальный формат файла 3D
 type: docs
 weight: 330
 url: /ru/net/aspose.threed/fileformat/universal3d/
 ---
 ## FileFormat.Universal3D field
 
-Формат файла Universal3D
+Универсальный формат файла 3D
 
 ```csharp
 public static readonly FileFormat Universal3D;

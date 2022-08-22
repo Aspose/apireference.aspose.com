@@ -1,14 +1,14 @@
 ---
 title: AmbientColor
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает цвет фона
+description: Получает или задает окружающий цвет
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.shading/lambertmaterial/ambientcolor/
 ---
 ## LambertMaterial.AmbientColor property
 
-Получает или устанавливает цвет фона
+Получает или задает окружающий цвет
 
 ```csharp
 public Vector3 AmbientColor { get; set; }
@@ -16,7 +16,7 @@ public Vector3 AmbientColor { get; set; }
 
 ### Стоимость имущества
 
-Цвет фона.
+Окружающий.
 
 ### Смотрите также
 

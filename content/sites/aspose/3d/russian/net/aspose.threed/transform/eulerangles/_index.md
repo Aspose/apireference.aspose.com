@@ -1,14 +1,14 @@
 ---
 title: EulerAngles
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает поворот представленный в углах Эйлера измеренных в градусах
+description: Получает или задает угол поворота представленный в углах Эйлера измеренных в градусах
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/transform/eulerangles/
 ---
 ## Transform.EulerAngles property
 
-Получает или задает поворот, представленный в углах Эйлера, измеренных в градусах
+Получает или задает угол поворота, представленный в углах Эйлера, измеренных в градусах
 
 ```csharp
 public Vector3 EulerAngles { get; set; }

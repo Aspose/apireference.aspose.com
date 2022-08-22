@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Aspose.3D for .NET API 参考
-description: 链接平移变换
+description: 链式平移变换
 type: docs
 weight: 150
 url: /zh/net/aspose.threed.utilities/transformbuilder/translate/
 ---
 ## Translate(double, double, double) {#translate_1}
 
-链接平移变换
+链式平移变换
 
 ```csharp
 public TransformBuilder Translate(double tx, double ty, double tz)
@@ -30,7 +30,7 @@ public TransformBuilder Translate(double tx, double ty, double tz)
 
 ## Translate(Vector3) {#translate}
 
-链接平移变换
+链式平移变换
 
 ```csharp
 public TransformBuilder Translate(Vector3 v)

@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает название этого актива
+description: Получает или задает заголовок этого актива
 type: docs
 weight: 150
 url: /ru/net/aspose.threed/assetinfo/title/
 ---
 ## AssetInfo.Title property
 
-Получает или устанавливает название этого актива
+Получает или задает заголовок этого актива
 
 ```csharp
 public string Title { get; set; }

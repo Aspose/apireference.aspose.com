@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Справочник по Aspose.3D для .NET API
-description: Цепочка трансформаций
+description: Цепь перевода transform
 type: docs
 weight: 150
 url: /ru/net/aspose.threed.utilities/transformbuilder/translate/
 ---
 ## Translate(double, double, double) {#translate_1}
 
-Цепочка трансформаций
+Цепь перевода transform
 
 ```csharp
 public TransformBuilder Translate(double tx, double ty, double tz)
@@ -30,7 +30,7 @@ public TransformBuilder Translate(double tx, double ty, double tz)
 
 ## Translate(Vector3) {#translate}
 
-Цепь трансформаций
+Цепь перевода transform
 
 ```csharp
 public TransformBuilder Translate(Vector3 v)

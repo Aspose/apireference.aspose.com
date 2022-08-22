@@ -1,14 +1,14 @@
 ---
 title: CompositeCurve
 second_title: Aspose.3D for .NET API 参考
-description: CompositeCurveaspose.threed.entities/compositecurve
+description: 的构造函数CompositeCurveaspose.threed.entities/compositecurve
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/compositecurve/compositecurve/
 ---
 ## CompositeCurve constructor
 
-[`CompositeCurve`](../../compositecurve)
+的构造函数[`CompositeCurve`](../../compositecurve)
 
 ```csharp
 public CompositeCurve()

@@ -1,14 +1,14 @@
 ---
 title: BindIndexBuffer
 second_title: Aspose.3D for .NET API 参考
-description: 绑定用于渲染的索引缓冲区
+description: 绑定渲染的索引缓冲区
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.render/icommandlist/bindindexbuffer/
 ---
 ## ICommandList.BindIndexBuffer method
 
-绑定用于渲染的索引缓冲区
+绑定渲染的索引缓冲区
 
 ```csharp
 public void BindIndexBuffer(IIndexBuffer indexBuffer)

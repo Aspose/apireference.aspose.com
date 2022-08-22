@@ -1,14 +1,14 @@
 ---
 title: CreateRenderWindow
 second_title: Справочник по Aspose.3D для .NET API
-description: Создайте цель рендеринга которая рендерится в собственное окно.
+description: Создайте цель рендеринга которая выполняет рендеринг в собственное окно.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.render/renderfactory/createrenderwindow/
 ---
 ## RenderFactory.CreateRenderWindow method
 
-Создайте цель рендеринга, которая рендерится в собственное окно.
+Создайте цель рендеринга, которая выполняет рендеринг в собственное окно.
 
 ```csharp
 public abstract IRenderWindow CreateRenderWindow(RenderParameters parameters, WindowHandle handle)
@@ -16,7 +16,7 @@ public abstract IRenderWindow CreateRenderWindow(RenderParameters parameters, Wi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| parameters | RenderParameters | Параметры визуализации для создания окна визуализации |
+| parameters | RenderParameters | Параметры рендеринга для создания окна рендеринга |
 | handle | WindowHandle | Дескриптор окна для рендеринга |
 
 ### Смотрите также

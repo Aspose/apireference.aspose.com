@@ -1,14 +1,14 @@
 ---
 title: VertexElementUV
 second_title: Aspose.3D for .NET API 参考
-description: 定义指定组件的 UV 坐标 一个几何体可以有多个VertexElementUV./vertexelementuv元素每个元素都有不同的TextureMapping./texturemapping秒
+description: 定义指定组件的 UV 坐标 几何图形可以有多个VertexElementUV./vertexelementuv元素每一个都有不同的TextureMapping./texturemappings.
 type: docs
 weight: 900
 url: /zh/net/aspose.threed.entities/vertexelementuv/
 ---
 ## VertexElementUV class
 
-定义指定组件的 UV 坐标。 一个几何体可以有多个[`VertexElementUV`](../vertexelementuv)元素，每个元素都有不同的[`TextureMapping`](../texturemapping)秒。
+定义指定组件的 UV 坐标。 几何图形可以有多个[`VertexElementUV`](../vertexelementuv)元素，每一个都有不同的[`TextureMapping`](../texturemapping)s.
 
 ```csharp
 public class VertexElementUV : VertexElementVector4
@@ -18,8 +18,8 @@ public class VertexElementUV : VertexElementVector4
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VertexElementUV](vertexelementuv#constructor)() | 初始化[`VertexElementUV`](../vertexelementuv)类的新实例。 默认纹理映射类型为Diffuse |
-| [VertexElementUV](vertexelementuv#constructor_1)(TextureMapping) | 初始化[`VertexElementUV`](../vertexelementuv)类的新实例。 |
+| [VertexElementUV](vertexelementuv#constructor)() | 初始化[`VertexElementUV`](../vertexelementuv) class. 默认纹理映射类型是Diffuse |
+| [VertexElementUV](vertexelementuv#constructor_1)(TextureMapping) | 初始化[`VertexElementUV`](../vertexelementuv)类. |
 
 ## 特性
 
@@ -30,7 +30,7 @@ public class VertexElementUV : VertexElementVector4
 | [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | 获取或设置元素的映射方式。 |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | 获取或设置名称。 |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | 获取或设置元素的引用方式。 |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取[`VertexElement`](../vertexelement) |
+| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取类型[`VertexElement`](../vertexelement) |
 
 ## 方法
 

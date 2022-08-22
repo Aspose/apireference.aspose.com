@@ -18,25 +18,25 @@ public class RectangularTorus : Primitive
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RectangularTorus](rectangulartorus#constructor)() | [`RectangularTorus`](../rectangulartorus) |
-| [RectangularTorus](rectangulartorus#constructor_1)(string) | [`RectangularTorus`](../rectangulartorus) |
+| [RectangularTorus](rectangulartorus#constructor)() | 的构造函数[`RectangularTorus`](../rectangulartorus) |
+| [RectangularTorus](rectangulartorus#constructor_1)(string) | 的构造函数[`RectangularTorus`](../rectangulartorus) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AngleStart](../../aspose.threed.entities/rectangulartorus/anglestart) { get; set; } | 弧的起始角度，以弧度为单位。 默认值为 0 |
+| [AngleStart](../../aspose.threed.entities/rectangulartorus/anglestart) { get; set; } | 弧的起始角度，以弧度为单位。 默认值为0 |
 | [Arc](../../aspose.threed.entities/rectangulartorus/arc) { get; set; } | 弧的总角度，以弧度为单位。 默认值为 PI |
-| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | 获取或设置此几何是否可以投射阴影 |
-| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置是否在导出时排除该实体。 |
+| [CastShadows](../../aspose.threed.entities/primitive/castshadows) { get; set; } | 获取或设置此几何体是否可以投射阴影 |
+| [Excluded](../../aspose.threed/entity/excluded) { get; set; } | 获取或设置导出时是否排除该实体。 |
 | [Height](../../aspose.threed.entities/rectangulartorus/height) { get; set; } | 矩形环面的高度。 默认值为 20 |
-| [InnerRadius](../../aspose.threed.entities/rectangulartorus/innerradius) { get; set; } | 矩形圆环的内半径 默认值为 17 |
+| [InnerRadius](../../aspose.threed.entities/rectangulartorus/innerradius) { get; set; } | 矩形圆环的内半径 默认值为17 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
-| [OuterRadius](../../aspose.threed.entities/rectangulartorus/outerradius) { get; set; } | 矩形圆环的外半径 默认值为 20 |
+| [OuterRadius](../../aspose.threed.entities/rectangulartorus/outerradius) { get; set; } | 矩形圆环的外半径 默认值为20 |
 | [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | 获取或设置第一个父节点，如果设置了第一个父节点，该实体将与其他父节点分离。 |
 | [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | 获取所有父节点，一个实体可以附加到多个父节点进行几何实例化 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
-| [RadialSegments](../../aspose.threed.entities/rectangulartorus/radialsegments) { get; set; } | 径向线段，默认值为 10 |
+| [RadialSegments](../../aspose.threed.entities/rectangulartorus/radialsegments) { get; set; } | 径向线段，默认值为10 |
 | [ReceiveShadows](../../aspose.threed.entities/primitive/receiveshadows) { get; set; } | 获取或设置此几何体是否可以接收阴影。 |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | 获取该对象所属的场景 |
 
@@ -44,12 +44,12 @@ public class RectangularTorus : Primitive
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | 获取当前实体在其对象空间坐标系中的边界框。 |
-| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取在渲染器中注册的实体渲染器的key |
+| virtual [GetEntityRendererKey](../../aspose.threed/entity/getentityrendererkey)() | 获取渲染器中注册的实体渲染器的key |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 | override [ToMesh](../../aspose.threed.entities/rectangulartorus/tomesh)() | 将此原语转换为[`Mesh`](../mesh) |
 

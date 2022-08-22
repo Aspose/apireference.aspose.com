@@ -1,14 +1,14 @@
 ---
 title: ImportException
 second_title: Aspose.3D for .NET API 参考
-description: Aspose.3D 无法打开指定源时出现异常
+description: Aspose.3D 无法打开指定源时的异常
 type: docs
-weight: 1430
+weight: 1440
 url: /zh/net/aspose.threed/importexception/
 ---
 ## ImportException class
 
-Aspose.3D 无法打开指定源时出现异常
+Aspose.3D 无法打开指定源时的异常
 
 ```csharp
 public class ImportException : IOException

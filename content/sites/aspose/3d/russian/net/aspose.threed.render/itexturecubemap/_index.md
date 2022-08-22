@@ -3,7 +3,7 @@ title: ITextureCubemap
 second_title: Справочник по Aspose.3D для .NET API
 description: Текстура карты куба
 type: docs
-weight: 1930
+weight: 1940
 url: /ru/net/aspose.threed.render/itexturecubemap/
 ---
 ## ITextureCubemap interface
@@ -22,9 +22,9 @@ public interface ITextureCubemap : ITextureUnit
 | [Load](../../aspose.threed.render/itexturecubemap/load#load)(CubeFace, TextureData) | Загрузить данные в указанное лицо |
 | [LoadFromFiles](../../aspose.threed.render/itexturecubemap/loadfromfiles)(CubeFaceData&lt;string&gt;) |  |
 | [Save](../../aspose.threed.render/itexturecubemap/save#save_1)(CubeFaceData&lt;Bitmap&gt;) |  |
-| [Save](../../aspose.threed.render/itexturecubemap/save#save)(CubeFace, Bitmap) | Сохранить указанную сторону в памяти |
+| [Save](../../aspose.threed.render/itexturecubemap/save#save)(CubeFace, Bitmap) | Сохранить указанную сторону в memory |
 | [Save](../../aspose.threed.render/itexturecubemap/save#save_2)(CubeFaceData&lt;string&gt;, ImageFormat) |  |
-| [ToBitmap](../../aspose.threed.render/itexturecubemap/tobitmap)(CubeFace) | Преобразование блока текстуры вBitmapinstance |
+| [ToBitmap](../../aspose.threed.render/itexturecubemap/tobitmap)(CubeFace) | Преобразование блока текстуры вBitmap instance |
 
 ### Смотрите также
 

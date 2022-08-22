@@ -19,7 +19,7 @@ public class Extrapolation
 | 姓名 | 描述 |
 | --- | --- |
 | [RepeatCount](../../aspose.threed.animation/extrapolation/repeatcount) { get; set; } | 获取和设置外插模式的重复次数。 |
-| [Type](../../aspose.threed.animation/extrapolation/type) { get; set; } | 获取和设置外推采样模式 |
+| [Type](../../aspose.threed.animation/extrapolation/type) { get; set; } | 获取和设置外插的采样模式 |
 
 ### 也可以看看
 

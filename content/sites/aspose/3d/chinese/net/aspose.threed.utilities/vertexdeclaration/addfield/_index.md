@@ -1,14 +1,14 @@
 ---
 title: AddField
 second_title: Aspose.3D for .NET API 参考
-description: 添加新的顶点字段
+description: 添加一个新的顶点字段
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.utilities/vertexdeclaration/addfield/
 ---
 ## VertexDeclaration.AddField method
 
-添加新的顶点字段
+添加一个新的顶点字段
 
 ```csharp
 public VertexField AddField(VertexFieldDataType dataType, VertexFieldSemantic semantic, 
@@ -17,9 +17,9 @@ public VertexField AddField(VertexFieldDataType dataType, VertexFieldSemantic se
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dataType | VertexFieldDataType | 的数据类型顶点字段 |
+| dataType | VertexFieldDataType | 顶点字段的数据类型 |
 | semantic | VertexFieldSemantic | 该字段将如何用于 |
-| index | Int32 | 相同字段语义的索引, -1 表示自动生成 |
+| index | Int32 | 相同字段语义的索引，-1 表示自动生成 |
 | alias | String | 字段的别名 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: op_Inequality
 second_title: Справочник по Aspose.3D для .NET API
-description: Неравный оператор для кватерниона
+description: Оператор не равенства для кватерниона
 type: docs
 weight: 260
 url: /ru/net/aspose.threed.utilities/quaternion/op_inequality/
 ---
 ## Quaternion Inequality operator
 
-Неравный оператор для кватерниона
+Оператор не равенства для кватерниона
 
 ```csharp
 public static bool operator !=(Quaternion lhs, Quaternion rhs)
@@ -16,7 +16,7 @@ public static bool operator !=(Quaternion lhs, Quaternion rhs)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lhs | Quaternion | Значение слева . |
+| lhs | Quaternion | Значение левой стороны. |
 | rhs | Quaternion | Значение правой стороны. |
 
 ### Возвращаемое значение

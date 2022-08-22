@@ -1,14 +1,14 @@
 ---
 title: Initialize
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализировать средство визуализации объектов
+description: Инициализировать визуализатор объектов
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.render/entityrenderer/initialize/
 ---
 ## EntityRenderer.Initialize method
 
-Инициализировать средство визуализации объектов
+Инициализировать визуализатор объектов
 
 ```csharp
 public virtual void Initialize(Renderer renderer)
@@ -16,7 +16,7 @@ public virtual void Initialize(Renderer renderer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| средствовизуализации | Renderer |  |
+| renderer | Renderer |  |
 
 ### Смотрите также
 

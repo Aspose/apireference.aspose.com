@@ -1,21 +1,22 @@
 ---
 title: Edges
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает ребра сетки. Край необязателен в сетке поэтому он может быть пустым.
+description: Получает края сетки. Край не является обязательным в сетке поэтому он может быть пустым.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/mesh/edges/
 ---
 ## Mesh.Edges property
 
-Получает ребра сетки. Край необязателен в сетке, поэтому он может быть пустым.
+Получает края сетки. Край не является обязательным в сетке, поэтому он может быть пустым.
 
 ```csharp
-public IList<int> Edges { get; }
+public IArrayList<int> Edges { get; }
 ```
 
 ### Смотрите также
 
+* interface [IArrayList&lt;T&gt;](../../../aspose.threed.utilities/iarraylist-1)
 * class [Mesh](../../mesh)
 * пространство имен [Aspose.ThreeD.Entities](../../mesh)
 * сборка [Aspose.3D](../../../)

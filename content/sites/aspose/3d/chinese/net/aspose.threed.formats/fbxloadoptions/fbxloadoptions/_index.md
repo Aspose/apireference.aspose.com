@@ -1,14 +1,14 @@
 ---
 title: FbxLoadOptions
 second_title: Aspose.3D for .NET API 参考
-description: 的构造函数 FbxLoadOptionsaspose.threed.formats/fbxloadoptions
+description: 的构造函数FbxLoadOptionsaspose.threed.formats/fbxloadoptions
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/fbxloadoptions/fbxloadoptions/
 ---
 ## FbxLoadOptions(FileFormat) {#constructor_1}
 
-的构造函数 [`FbxLoadOptions`](../../fbxloadoptions)
+的构造函数[`FbxLoadOptions`](../../fbxloadoptions)
 
 ```csharp
 public FbxLoadOptions(FileFormat format)
@@ -29,7 +29,7 @@ public FbxLoadOptions(FileFormat format)
 
 ## FbxLoadOptions() {#constructor}
 
-[`FbxLoadOptions`](../../fbxloadoptions)
+的构造函数[`FbxLoadOptions`](../../fbxloadoptions)
 
 ```csharp
 public FbxLoadOptions()

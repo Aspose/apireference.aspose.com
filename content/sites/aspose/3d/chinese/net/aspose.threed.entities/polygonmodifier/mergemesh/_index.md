@@ -1,14 +1,14 @@
 ---
 title: MergeMesh
 second_title: Aspose.3D for .NET API 参考
-description: 将整个场景转换为单个变换网格 尚不支持顶点元素如法线/纹理坐标
+description: 将整个场景转换为单个变换网格 尚不支持法线/纹理坐标等顶点元素
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/polygonmodifier/mergemesh/
 ---
 ## MergeMesh(Scene) {#mergemesh_1}
 
-将整个场景转换为单个变换网格 尚不支持顶点元素，如法线/纹理坐标
+将整个场景转换为单个变换网格 尚不支持法线/纹理坐标等顶点元素
 
 ```csharp
 public static Mesh MergeMesh(Scene scene)
@@ -20,7 +20,7 @@ public static Mesh MergeMesh(Scene scene)
 
 ### 返回值
 
-合并后的网格
+合并的网格
 
 ### 也可以看看
 
@@ -50,7 +50,7 @@ public static Mesh MergeMesh(IList<Node> nodes)
 
 ## MergeMesh(Node) {#mergemesh}
 
-将整个节点转换为单个变换网格 尚不支持顶点元素，如法线/纹理坐标
+将整个节点转换为单个变换网格 尚不支持法线/纹理坐标等顶点元素
 
 ```csharp
 public static Mesh MergeMesh(Node node)

@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: Справочник по Aspose.3D для .NET API
-description: Пользовательские данные прикреплены в этом элементе
+description: Пользовательские данные прикрепленные к этому элементу
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.entities/vertexelementuserdata/data/
 ---
 ## VertexElementUserData.Data property
 
-Пользовательские данные прикреплены в этом элементе
+Пользовательские данные, прикрепленные к этому элементу
 
 ```csharp
 public object Data { get; set; }

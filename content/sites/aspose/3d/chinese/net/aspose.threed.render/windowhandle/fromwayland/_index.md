@@ -1,14 +1,14 @@
 ---
 title: FromWayland
 second_title: Aspose.3D for .NET API 参考
-description: 从 Wayland 表面创建WindowHandleaspose.threed.render/windowhandle
+description: 创建WindowHandleaspose.threed.render/windowhandle来自 Wayland surface
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.render/windowhandle/fromwayland/
 ---
 ## WindowHandle.FromWayland method
 
-从 Wayland 表面创建[`WindowHandle`](../../windowhandle)
+创建[`WindowHandle`](../../windowhandle)来自 Wayland surface
 
 ```csharp
 public static WindowHandle FromWayland(IntPtr display, IntPtr surface)
@@ -16,8 +16,8 @@ public static WindowHandle FromWayland(IntPtr display, IntPtr surface)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| display | IntPtr | Wayland 服务器的显示实例 |
-| surface | IntPtr | 表面句柄 |
+| display | IntPtr | Wayland服务器的展示实例 |
+| surface | IntPtr | 表面处理 |
 
 ### 也可以看看
 

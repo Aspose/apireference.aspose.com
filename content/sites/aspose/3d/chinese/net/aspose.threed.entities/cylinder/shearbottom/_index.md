@@ -1,14 +1,14 @@
 ---
 title: ShearBottom
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置底边的剪切变换vector存储以弧度为单位的x轴z轴剪切值默认值为 0 0
+description: 获取或设置底边的剪切变换vector存储以弧度为单位的x轴z轴剪切值默认值为0 0
 type: docs
 weight: 110
 url: /zh/net/aspose.threed.entities/cylinder/shearbottom/
 ---
 ## Cylinder.ShearBottom property
 
-获取或设置底边的剪切变换，vector存储以弧度为单位的（x轴，z轴）剪切值，默认值为（ 0, 0)
+获取或设置底边的剪切变换，vector存储以弧度为单位的(x轴，z轴)剪切值，默认值为(0, 0)
 
 ```csharp
 public Vector2 ShearBottom { get; set; }

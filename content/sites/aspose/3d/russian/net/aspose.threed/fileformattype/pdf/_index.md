@@ -1,14 +1,14 @@
 ---
 title: PDF
 second_title: Справочник по Aspose.3D для .NET API
-description: Portable Document Format
+description: Формат переносимых документов
 type: docs
 weight: 130
 url: /ru/net/aspose.threed/fileformattype/pdf/
 ---
 ## FileFormatType.PDF field
 
-Portable Document Format
+Формат переносимых документов
 
 ```csharp
 public static readonly FileFormatType PDF;

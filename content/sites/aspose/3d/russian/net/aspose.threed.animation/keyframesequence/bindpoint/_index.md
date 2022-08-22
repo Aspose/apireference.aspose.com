@@ -1,14 +1,14 @@
 ---
 title: BindPoint
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает точку привязки свойства которой принадлежит эта кривая
+description: Получает точку привязки свойства которая владеет этой кривой
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.animation/keyframesequence/bindpoint/
 ---
 ## KeyframeSequence.BindPoint property
 
-Получает точку привязки свойства, которой принадлежит эта кривая
+Получает точку привязки свойства, которая владеет этой кривой
 
 ```csharp
 public BindPoint BindPoint { get; }

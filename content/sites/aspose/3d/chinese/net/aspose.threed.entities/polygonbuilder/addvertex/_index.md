@@ -1,14 +1,14 @@
 ---
 title: AddVertex
 second_title: Aspose.3D for .NET API 参考
-description: 向多边形添加顶点索引
+description: 将顶点索引添加到多边形
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/polygonbuilder/addvertex/
 ---
 ## PolygonBuilder.AddVertex method
 
-向多边形添加顶点索引
+将顶点索引添加到多边形
 
 ```csharp
 public void AddVertex(int index)

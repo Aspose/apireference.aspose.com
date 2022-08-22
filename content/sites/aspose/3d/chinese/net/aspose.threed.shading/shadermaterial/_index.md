@@ -1,14 +1,14 @@
 ---
 title: ShaderMaterial
 second_title: Aspose.3D for .NET API 参考
-description: 着色器材质允许通过外部渲染引擎或着色器语言来描述材质 ShaderMaterial./shadermaterial使用ShaderTechnique./shadertechnique来描述具体的渲染细节 会根据最终的渲染平台使用最合适的一个 例如您的ShaderMaterial./shadermaterial实例可以有两种技术一种由 HLSL 定义另一种由 GLSL 定义 在非window平台下应该使用GLSL而不是HLSL
+description: 着色器材质允许通过外部渲染引擎或着色器语言来描述材质 ShaderMaterial./shadermaterial用途ShaderTechnique./shadertechnique描述具体的渲染细节 会根据最终的渲染平台使用最合适的 比如你的ShaderMaterial./shadermaterialinstance可以有两种技术一种由HLSL定义另一种由GLSL 定义_在非window平台下应该使用GLSL而不是HLSL
 type: docs
 weight: 2330
 url: /zh/net/aspose.threed.shading/shadermaterial/
 ---
 ## ShaderMaterial class
 
-着色器材质允许通过外部渲染引擎或着色器语言来描述材质。 [`ShaderMaterial`](../shadermaterial)使用[`ShaderTechnique`](../shadertechnique)来描述具体的渲染细节， 会根据最终的渲染平台使用最合适的一个。 例如，您的[`ShaderMaterial`](../shadermaterial)实例可以有两种技术，一种由 HLSL 定义，另一种由 GLSL 定义 在非window平台下应该使用GLSL而不是HLSL
+着色器材质允许通过外部渲染引擎或着色器语言来描述材质。 [`ShaderMaterial`](../shadermaterial)用途[`ShaderTechnique`](../shadertechnique)描述具体的渲染细节， 会根据最终的渲染平台使用最合适的 比如你的[`ShaderMaterial`](../shadermaterial)instance可以有两种技术，一种由HLSL定义，另一种由GLSL 定义_在非window平台下，应该使用GLSL而不是HLSL
 
 ```csharp
 public class ShaderMaterial : Material
@@ -18,8 +18,8 @@ public class ShaderMaterial : Material
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ShaderMaterial](shadermaterial#constructor)() | 初始化[`ShaderMaterial`](../shadermaterial)类的新实例。 |
-| [ShaderMaterial](shadermaterial#constructor_1)(string) | 初始化[`ShaderMaterial`](../shadermaterial)类的新实例。 |
+| [ShaderMaterial](shadermaterial#constructor)() | 初始化[`ShaderMaterial`](../shadermaterial)类. |
+| [ShaderMaterial](shadermaterial#constructor_1)(string) | 初始化[`ShaderMaterial`](../shadermaterial)类. |
 
 ## 特性
 
@@ -33,14 +33,14 @@ public class ShaderMaterial : Material
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | 获取枚举器以枚举内部纹理槽。 |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
-| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | 从指定槽获取纹理，可以是材质的属性名称或着色器的参数名称 |
+| [GetTexture](../../aspose.threed.shading/material/gettexture)(string) | 从指定槽获取纹理，可以是材质的属性名或shader的参数名 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
-| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | 将纹理设置到指定插槽 |
+| [SetTexture](../../aspose.threed.shading/material/settexture)(string, TextureBase) | 将纹理设置为指定槽 |
 | override [ToString](../../aspose.threed.shading/material/tostring)() | 将对象格式化为字符串 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: Continuity
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 TCB 样条中使用的连续性
+description: 获取或设置 TCB spline 中使用的连续性
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.animation/keyframe/continuity/
 ---
 ## KeyFrame.Continuity property
 
-获取或设置 TCB 样条中使用的连续性
+获取或设置 TCB spline 中使用的连续性
 
 ```csharp
 public float Continuity { get; set; }

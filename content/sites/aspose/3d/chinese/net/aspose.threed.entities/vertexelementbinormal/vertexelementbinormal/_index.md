@@ -1,14 +1,14 @@
 ---
 title: VertexElementBinormal
 second_title: Aspose.3D for .NET API 参考
-description: 初始化VertexElementBinormalaspose.threed.entities/vertexelementbinormal类的新实例
+description: 初始化VertexElementBinormalaspose.threed.entities/vertexelementbinormal类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.entities/vertexelementbinormal/vertexelementbinormal/
 ---
 ## VertexElementBinormal constructor
 
-初始化[`VertexElementBinormal`](../../vertexelementbinormal)类的新实例。
+初始化[`VertexElementBinormal`](../../vertexelementbinormal)类.
 
 ```csharp
 public VertexElementBinormal()

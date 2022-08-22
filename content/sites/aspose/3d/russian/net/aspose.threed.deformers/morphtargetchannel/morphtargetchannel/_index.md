@@ -1,14 +1,14 @@
 ---
 title: MorphTargetChannel
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаMorphTargetChannelaspose.threed.deformers/morphtargetchannel.
+description: Инициализирует новый экземплярMorphTargetChannelaspose.threed.deformers/morphtargetchannel класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.deformers/morphtargetchannel/morphtargetchannel/
 ---
 ## MorphTargetChannel(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`MorphTargetChannel`](../../morphtargetchannel).
+Инициализирует новый экземпляр[`MorphTargetChannel`](../../morphtargetchannel) класс.
 
 ```csharp
 public MorphTargetChannel(string name)
@@ -28,7 +28,7 @@ public MorphTargetChannel(string name)
 
 ## MorphTargetChannel() {#constructor}
 
-Инициализирует новый экземпляр класса[`MorphTargetChannel`](../../morphtargetchannel).
+Инициализирует новый экземпляр[`MorphTargetChannel`](../../morphtargetchannel) класс.
 
 ```csharp
 public MorphTargetChannel()

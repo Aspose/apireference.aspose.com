@@ -1,14 +1,14 @@
 ---
 title: AddKeyframeSequence
 second_title: Справочник по Aspose.3D для .NET API
-description: Добавляет последовательность ключевых кадров в этот канал
+description: Добавляет последовательность ключевых кадров к этому каналу
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.animation/animationchannel/addkeyframesequence/
 ---
 ## AnimationChannel.AddKeyframeSequence method
 
-Добавляет последовательность ключевых кадров в этот канал
+Добавляет последовательность ключевых кадров к этому каналу
 
 ```csharp
 public void AddKeyframeSequence(KeyframeSequence sequence)
@@ -16,7 +16,7 @@ public void AddKeyframeSequence(KeyframeSequence sequence)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sequence | KeyframeSequence | Последовательность ключевых кадров для добавлять. |
+| sequence | KeyframeSequence | Добавляемая последовательность ключевых кадров. |
 
 ### Смотрите также
 

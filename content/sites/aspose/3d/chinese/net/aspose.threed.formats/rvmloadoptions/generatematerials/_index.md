@@ -1,14 +1,14 @@
 ---
 title: GenerateMaterials
 second_title: Aspose.3D for .NET API 参考
-description: 如果未在 RVM 文件中导出颜色表则为场景中的每个对象生成具有随机颜色的材质 默认值为真
+description: 如果 RVM 文件中没有导出颜色表则为场景中的每个对象生成具有随机颜色的材质 默认值为 true
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.formats/rvmloadoptions/generatematerials/
 ---
 ## RvmLoadOptions.GenerateMaterials property
 
-如果未在 RVM 文件中导出颜色表，则为场景中的每个对象生成具有随机颜色的材质。 默认值为真
+如果 RVM 文件中没有导出颜色表，则为场景中的每个对象生成具有随机颜色的材质。 默认值为 true
 
 ```csharp
 public bool GenerateMaterials { get; set; }

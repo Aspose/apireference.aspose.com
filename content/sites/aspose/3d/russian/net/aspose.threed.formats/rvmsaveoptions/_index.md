@@ -26,9 +26,9 @@ public class RvmSaveOptions : SaveOptions
 | Имя | Описание |
 | --- | --- |
 | [AttributeListFile](../../aspose.threed.formats/rvmsaveoptions/attributelistfile) { get; set; } | Получает или задает имя файла списка атрибутов, экспортер сгенерирует имя на основе имени файла .rvm, если это свойство не определено, значение по умолчанию равно null. |
-| [AttributePrefix](../../aspose.threed.formats/rvmsaveoptions/attributeprefix) { get; set; } | Получает или задает префикс атрибутов, которые будут экспортированы, экспортированное свойство не будет содержать префикс, пользовательские свойства с другим префиксом не будут экспортированы, значение по умолчанию ' рвм:'. Например, если свойство имеет значение rvm:Refno=345, экспортируемый атрибут будет иметь значение Refno = 345, префикс удаляется. |
+| [AttributePrefix](../../aspose.threed.formats/rvmsaveoptions/attributeprefix) { get; set; } | Получает или задает префикс экспортируемых атрибутов, экспортируемое свойство не будет содержать префикса, пользовательские свойства с другим префиксом не будут экспортированы, значение по умолчанию — 'rvm:'. Например, если свойство rvm:Refno =345, экспортируемый атрибут будет Refno = 345, префикс удален. |
 | [Author](../../aspose.threed.formats/rvmsaveoptions/author) { get; set; } | Информация об авторе, значение по умолчанию '3d@aspose' |
-| [CreationTime](../../aspose.threed.formats/rvmsaveoptions/creationtime) { get; set; } | Временная метка, которая экспортировала этот файл, значение по умолчанию - текущее время |
+| [CreationTime](../../aspose.threed.formats/rvmsaveoptions/creationtime) { get; set; } | Отметка времени экспорта этого файла, значение по умолчанию — текущее время |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Получает или задает кодировку по умолчанию для текстовых файлов. Значение по умолчанию равно null, что означает, что импортер/экспортер решит, какую кодировку использовать. |
 | [ExportAttributes](../../aspose.threed.formats/rvmsaveoptions/exportattributes) { get; set; } | Получает или задает, следует ли экспортировать список атрибутов во внешний файл .att, значение по умолчанию — false. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Получает формат файла, указанный в текущей опции сохранения/загрузки. |

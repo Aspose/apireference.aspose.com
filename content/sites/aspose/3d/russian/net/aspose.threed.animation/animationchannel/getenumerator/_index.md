@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает перечислитель для прохождения всех последовательностей ключевых кадров внутри этого канала
+description: Получает счетчик для просмотра всех последовательностей ключевых кадров внутри этого канала
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.animation/animationchannel/getenumerator/
 ---
 ## AnimationChannel.GetEnumerator method
 
-Получает перечислитель для прохождения всех последовательностей ключевых кадров внутри этого канала
+Получает счетчик для просмотра всех последовательностей ключевых кадров внутри этого канала
 
 ```csharp
 public IEnumerator<KeyframeSequence> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<KeyframeSequence> GetEnumerator()
 
 ### Возвращаемое значение
 
-Перечислитель
+Счетчик
 
 ### Смотрите также
 

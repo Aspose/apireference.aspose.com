@@ -1,14 +1,14 @@
 ---
 title: Magnification
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает увеличение используемое в орфографической камере
+description: Получает или задает увеличение используемое в ортогональной камере
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.entities/camera/magnification/
 ---
 ## Camera.Magnification property
 
-Получает или задает увеличение, используемое в орфографической камере
+Получает или задает увеличение, используемое в ортогональной камере
 
 ```csharp
 public Vector2 Magnification { get; set; }

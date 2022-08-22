@@ -1,14 +1,14 @@
 ---
 title: DracoSaveOptions
 second_title: Aspose.3D for .NET API 参考
-description: 构造用于保存 draco 文件的默认配置
+description: 构建保存 draco 文件的默认配置
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.formats/dracosaveoptions/dracosaveoptions/
 ---
 ## DracoSaveOptions constructor
 
-构造用于保存 draco 文件的默认配置。
+构建保存 draco 文件的默认配置。
 
 ```csharp
 public DracoSaveOptions()

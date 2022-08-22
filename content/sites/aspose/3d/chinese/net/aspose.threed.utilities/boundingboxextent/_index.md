@@ -3,7 +3,7 @@ title: BoundingBoxExtent
 second_title: Aspose.3D for .NET API 参考
 description: 边界框的范围
 type: docs
-weight: 2450
+weight: 2440
 url: /zh/net/aspose.threed.utilities/boundingboxextent/
 ---
 ## BoundingBoxExtent enumeration

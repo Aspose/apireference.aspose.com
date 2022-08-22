@@ -1,14 +1,14 @@
 ---
 title: MapDiffuse
 second_title: Aspose.3D for .NET API 参考
-description: 用在SetTextureaspose.threed.shading/material/settextureto分配一个漫反射纹理映射
+description: 用于SetTextureaspose.threed.shading/material/settexture分配一个漫反射纹理映射
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.shading/material/mapdiffuse/
 ---
 ## Material.MapDiffuse field
 
-用在[`SetTexture`](../settexture)to分配一个漫反射纹理映射。
+用于[`SetTexture`](../settexture)分配一个漫反射纹理映射。
 
 ```csharp
 public const string MapDiffuse;

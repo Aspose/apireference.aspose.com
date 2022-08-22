@@ -1,14 +1,14 @@
 ---
 title: FileNames
 second_title: Справочник по Aspose.3D для .NET API
-description: Имена файлов которые находятся в этой файловой системе памяти.
+description: Имена файлов в этой файловой системе памяти.
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.utilities/memoryfilesystem/filenames/
 ---
 ## MemoryFileSystem.FileNames property
 
-Имена файлов, которые находятся в этой файловой системе памяти.
+Имена файлов в этой файловой системе памяти.
 
 ```csharp
 public IList<string> FileNames { get; }

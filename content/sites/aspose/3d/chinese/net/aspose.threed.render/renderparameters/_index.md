@@ -3,7 +3,7 @@ title: RenderParameters
 second_title: Aspose.3D for .NET API 参考
 description: 描述渲染目标的参数
 type: docs
-weight: 2040
+weight: 2050
 url: /zh/net/aspose.threed.render/renderparameters/
 ---
 ## RenderParameters class
@@ -18,7 +18,7 @@ public class RenderParameters
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RenderParameters](renderparameters)(bool, int, int, int) | 初始化[`PixelFormat`](../pixelformat) |
+| [RenderParameters](renderparameters)(bool, int, int, int) | 初始化一个实例[`PixelFormat`](../pixelformat) |
 
 ## 特性
 

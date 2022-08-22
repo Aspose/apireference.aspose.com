@@ -1,14 +1,14 @@
 ---
 title: UShape
 second_title: Aspose.3D for .NET API 参考
-description: UShapeaspose.threed.profiles/ushape
+description: 的构造函数UShapeaspose.threed.profiles/ushape
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.profiles/ushape/ushape/
 ---
 ## UShape constructor
 
-[`UShape`](../../ushape)
+的构造函数[`UShape`](../../ushape)
 
 ```csharp
 public UShape()

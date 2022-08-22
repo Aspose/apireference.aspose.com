@@ -1,14 +1,14 @@
 ---
 title: PoseType
 second_title: Aspose.3D for .NET API 参考
-description: 姿势类型
+description: 姿势类型.
 type: docs
-weight: 1490
+weight: 1500
 url: /zh/net/aspose.threed/posetype/
 ---
 ## PoseType enumeration
 
-姿势类型。
+姿势类型.
 
 ```csharp
 public enum PoseType

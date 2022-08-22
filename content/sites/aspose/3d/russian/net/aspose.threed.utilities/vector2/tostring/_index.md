@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.3D для .NET API
-description: ВозвращаетString который представляет текущийVector2aspose.threed.utilities/vector2.
+description: ВозвращаетStringкоторый представляет текущийVector2aspose.threed.utilities/vector2 .
 type: docs
 weight: 130
 url: /ru/net/aspose.threed.utilities/vector2/tostring/
 ---
 ## Vector2.ToString method
 
-ВозвращаетString, который представляет текущий[`Vector2`](../../vector2).
+ВозвращаетStringкоторый представляет текущий[`Vector2`](../../vector2) .
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-AStringкоторая представляет текущий[`Vector2`](../../vector2).
+АStringкоторый представляет текущий[`Vector2`](../../vector2).
 
 ### Смотрите также
 

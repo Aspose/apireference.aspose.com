@@ -1,18 +1,18 @@
 ---
 title: Aspose.ThreeD.Formats
 second_title: Aspose.3D for .NET API 参考
-description: IO相关的自定义在这个命名空间中定义
+description: IO相关的定制都定义在这个命名空间中
 type: docs
 weight: 50
 url: /zh/net/aspose.threed.formats/
 ---
-IO相关的自定义在这个命名空间中定义。
+IO相关的定制都定义在这个命名空间中。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [A3dwSaveOptions](./a3dwsaveoptions) | 保存 A3DW 格式的选项。 |
+| [A3dwSaveOptions](./a3dwsaveoptions) | A3DW 格式的保存选项。 |
 | [AmfSaveOptions](./amfsaveoptions) | 保存 AMF 的选项 |
 | [ColladaSaveOptions](./colladasaveoptions) | 保存 collada 的选项 |
 | [Discreet3dsLoadOptions](./discreet3dsloadoptions) | 3DS 文件的加载选项。 |
@@ -21,13 +21,13 @@ IO相关的自定义在这个命名空间中定义。
 | [DracoSaveOptions](./dracosaveoptions) | 保存 Google draco 文件的选项 |
 | [FbxLoadOptions](./fbxloadoptions) | Fbx 格式的加载选项。 |
 | [FbxSaveOptions](./fbxsaveoptions) | 保存 Fbx 文件的选项。 |
-| [FileSystemFactory](./filesystemfactory) | [`SaveOptions`](../aspose.threed.formats/saveoptions)和[`LoadOptions`](../aspose.threed.formats/loadoptions)将创建[`LocalFileSystem`](../aspose.threed.utilities/localfilesystem)默认。 这可能是服务器环境中的安全问题。 使用你自己的[`FileSystemFactory`](../aspose.threed.formats/filesystemfactory)到[`FileSystemFactory`](../aspose.threed.formats/ioconfig/filesystemfactory)来改进服务器侧面安全。 |
+| [FileSystemFactory](./filesystemfactory) | [`SaveOptions`](../aspose.threed.formats/saveoptions)和[`LoadOptions`](../aspose.threed.formats/loadoptions)将创建一个[`LocalFileSystem`](../aspose.threed.utilities/localfilesystem)对于默认值。 这可能是服务器环境中的安全问题。 使用您自己的[`FileSystemFactory`](../aspose.threed.formats/filesystemfactory)至[`FileSystemFactory`](../aspose.threed.formats/ioconfig/filesystemfactory)提高服务器端的安全性。 |
 | [GltfLoadOptions](./gltfloadoptions) | glTF 格式的加载选项 |
-| [GltfSaveOptions](./gltfsaveoptions) | 保存 glTF 格式的选项。 |
-| [Html5SaveOptions](./html5saveoptions) | 保存 HTML5 的选项 |
-| [IOConfig](./ioconfig) | 用于序列化/反序列化的 IO 配置。 用户可以在此处指定详细配置，例如依赖查找路径 或格式相关配置 |
+| [GltfSaveOptions](./gltfsaveoptions) | glTF 格式的保存选项。 |
+| [Html5SaveOptions](./html5saveoptions) | HTML5 的保存选项 |
+| [IOConfig](./ioconfig) | 序列化/反序列化的IO配置。 用户可以指定详细的配置，如依赖查找路径 或格式相关的配置在这里 |
 | [LoadOptions](./loadoptions) | 为不同类型配置文件加载选项的基类 |
-| [MaterialConverter](./materialconverter) | 自定义转换器，用于将几何体的原始材质转换为 GLTF 的 PBR 材质。 |
+| [MaterialConverter](./materialconverter) | 将几何体的原始材质转换为 GLTF 的 PBR 材质的自定义转换器。 |
 | [ObjLoadOptions](./objloadoptions) | 加载波前 obj 的选项 |
 | [ObjSaveOptions](./objsaveoptions) | 保存波前 obj 文件的选项 |
 | [PdfFormat](./pdfformat) | Adobe 的可移植文档格式 |
@@ -38,8 +38,8 @@ IO相关的自定义在这个命名空间中定义。
 | [PlySaveOptions](./plysaveoptions) | 保存将场景导出为 PLY 文件的选项。 |
 | [RvmFormat](./rvmformat) | RVM 格式 |
 | [RvmLoadOptions](./rvmloadoptions) | AVEVA Plant Design Management System 的 RVM 文件的加载选项。 |
-| [RvmSaveOptions](./rvmsaveoptions) | 保存 Aveva PDMS RVM 文件的选项。 |
-| [SaveOptions](./saveoptions) | 为不同类型配置文件保存选项的基类 |
+| [RvmSaveOptions](./rvmsaveoptions) | Aveva PDMS RVM 文件的保存选项。 |
+| [SaveOptions](./saveoptions) | 配置不同类型文件保存选项的基类 |
 | [StlLoadOptions](./stlloadoptions) | STL 的加载选项 |
 | [StlSaveOptions](./stlsaveoptions) | 保存 STL 的选项 |
 | [U3dLoadOptions](./u3dloadoptions) | 通用 3d 的加载选项 |
@@ -50,7 +50,7 @@ IO相关的自定义在这个命名空间中定义。
 
 | 枚举 | 描述 |
 | --- | --- |
-| [ColladaTransformStyle](./colladatransformstyle) | 节点变换样式 |
+| [ColladaTransformStyle](./colladatransformstyle) | node 的节点变换样式 |
 | [DracoCompressionLevel](./dracocompressionlevel) | draco 文件的压缩级别 |
 | [GltfEmbeddedImageFormat](./gltfembeddedimageformat) | glTF 导出器在导出过程中如何嵌入纹理。 |
 | [PdfLightingScheme](./pdflightingscheme) | LightingScheme 指定应用于 3D 图稿的照明。 |

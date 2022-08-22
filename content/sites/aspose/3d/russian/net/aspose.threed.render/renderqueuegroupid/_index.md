@@ -3,7 +3,7 @@ title: RenderQueueGroupId
 second_title: Справочник по Aspose.3D для .NET API
 description: Идентификатор группы очереди рендеринга
 type: docs
-weight: 2050
+weight: 2060
 url: /ru/net/aspose.threed.render/renderqueuegroupid/
 ---
 ## RenderQueueGroupId enumeration
@@ -18,10 +18,10 @@ public enum RenderQueueGroupId
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Background | `0` | Очередь рендеринга для фона |
-| Skies | `1` | Очередь рендеринга неба |
-| Geometries | `2` | Очередь рендеринга для геометрий |
-| Main | `3` | Очередь рендеринга для основного |
+| Background | `0` | Очередь рендеринга для background |
+| Skies | `1` | Очередь рендеринга для неба |
+| Geometries | `2` | Очередь рендеринга для геометрии |
+| Main | `3` | Очередь рендеринга для main |
 | Opaque | `4` | Очередь рендеринга непрозрачных объектов |
 | Overlay | `5` | Очередь рендеринга для оверлеев |
 

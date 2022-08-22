@@ -8,7 +8,7 @@ url: /zh/net/aspose.threed.entities/camera/height/
 ---
 ## Camera.Height property
 
-获取或设置视图平面的高度（以英寸为单位）
+获取或设置视图平面的高度，以英寸为单位
 
 ```csharp
 public double Height { get; set; }

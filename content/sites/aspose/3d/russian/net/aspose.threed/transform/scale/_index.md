@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает масштаб
+description: Получает или задает масштаб
 type: docs
 weight: 80
 url: /ru/net/aspose.threed/transform/scale/
 ---
 ## Transform.Scale property
 
-Получает или устанавливает масштаб
+Получает или задает масштаб
 
 ```csharp
 public Vector3 Scale { get; set; }

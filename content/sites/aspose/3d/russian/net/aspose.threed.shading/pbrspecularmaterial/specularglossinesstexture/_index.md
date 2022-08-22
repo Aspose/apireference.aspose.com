@@ -1,14 +1,14 @@
 ---
 title: SpecularGlossinessTexture
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает текстуру для зеркального цвета канал RGB сохраняет зеркальный цвет а канал A сохраняет глянцевитость.
+description: Получает или задает текстуру для зеркального цвета канал RGB сохраняет зеркальный цвет а канал A сохраняет глянцевитость.
 type: docs
 weight: 90
 url: /ru/net/aspose.threed.shading/pbrspecularmaterial/specularglossinesstexture/
 ---
 ## PbrSpecularMaterial.SpecularGlossinessTexture property
 
-Получает или устанавливает текстуру для зеркального цвета, канал RGB сохраняет зеркальный цвет, а канал A сохраняет глянцевитость.
+Получает или задает текстуру для зеркального цвета, канал RGB сохраняет зеркальный цвет, а канал A сохраняет глянцевитость.
 
 ```csharp
 public TextureBase SpecularGlossinessTexture { get; set; }

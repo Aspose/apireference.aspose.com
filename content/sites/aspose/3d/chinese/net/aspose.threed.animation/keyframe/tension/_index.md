@@ -1,14 +1,14 @@
 ---
 title: Tension
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 TCB 样条中使用的张力
+description: 获取或设置 TCB spline 中使用的张力
 type: docs
 weight: 130
 url: /zh/net/aspose.threed.animation/keyframe/tension/
 ---
 ## KeyFrame.Tension property
 
-获取或设置 TCB 样条中使用的张力
+获取或设置 TCB spline 中使用的张力
 
 ```csharp
 public float Tension { get; set; }

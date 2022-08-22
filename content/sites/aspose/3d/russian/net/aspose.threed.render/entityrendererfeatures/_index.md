@@ -3,7 +3,7 @@ title: EntityRendererFeatures
 second_title: Справочник по Aspose.3D для .NET API
 description: Дополнительные функции которые предоставляет средство визуализации объектов
 type: docs
-weight: 1780
+weight: 1790
 url: /ru/net/aspose.threed.render/entityrendererfeatures/
 ---
 ## EntityRendererFeatures enumeration
@@ -20,8 +20,8 @@ public enum EntityRendererFeatures : byte
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Default | `0` | Без дополнительных функций |
-| FrameBegin | `1` | [`EntityRenderer`](../entityrenderer)будет отслеживать обратный вызов FrameBegin перед рендерингом каждого кадра сцены |
-| FrameEnd | `2` | [`EntityRenderer`](../entityrenderer)будет отслеживать обратный вызов FrameBegin после рендеринга каждого кадра сцены |
+| FrameBegin | `1` | [`EntityRenderer`](../entityrenderer) будет следить за обратным вызовом FrameBegin перед рендерингом каждой сцены frame |
+| FrameEnd | `2` | [`EntityRenderer`](../entityrenderer) будет следить за обратным вызовом FrameBegin после рендеринга каждой сцены frame |
 | Shadowmap | `4` | Этот рендерер может работать в режиме карты теней |
 
 ### Смотрите также

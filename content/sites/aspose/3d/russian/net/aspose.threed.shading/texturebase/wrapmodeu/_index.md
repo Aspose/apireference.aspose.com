@@ -1,14 +1,14 @@
 ---
 title: WrapModeU
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает режимы переноса текстуры в U.
+description: Получает или задает режимы переноса текстуры в U.
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.shading/texturebase/wrapmodeu/
 ---
 ## TextureBase.WrapModeU property
 
-Получает или устанавливает режимы переноса текстуры в U.
+Получает или задает режимы переноса текстуры в U.
 
 ```csharp
 public WrapMode WrapModeU { get; set; }

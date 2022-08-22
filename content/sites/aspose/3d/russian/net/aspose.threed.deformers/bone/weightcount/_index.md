@@ -1,14 +1,14 @@
 ---
 title: WeightCount
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает счетчик веса автоматически расширяетсяSetWeightaspose.threed.deformers/bone/setweight
+description: Получает количество веса оно автоматически расширяетсяSetWeightaspose.threed.deformers/bone/setweight
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.deformers/bone/weightcount/
 ---
 ## Bone.WeightCount property
 
-Получает счетчик веса, автоматически расширяется[`SetWeight`](../setweight)
+Получает количество веса, оно автоматически расширяется[`SetWeight`](../setweight)
 
 ```csharp
 public int WeightCount { get; }

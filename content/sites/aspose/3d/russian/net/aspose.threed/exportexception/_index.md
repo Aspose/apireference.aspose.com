@@ -1,14 +1,14 @@
 ---
 title: ExportException
 second_title: Справочник по Aspose.3D для .NET API
-description: Исключения когда Aspose.3D не удалось экспортировать сцену в файл
+description: Исключения когда Aspose.3D не смог экспортировать сцену в файл
 type: docs
 weight: 980
 url: /ru/net/aspose.threed/exportexception/
 ---
 ## ExportException class
 
-Исключения, когда Aspose.3D не удалось экспортировать сцену в файл
+Исключения, когда Aspose.3D не смог экспортировать сцену в файл
 
 ```csharp
 public class ExportException : IOException

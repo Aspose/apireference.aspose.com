@@ -3,7 +3,7 @@ title: ShaderSet
 second_title: Справочник по Aspose.3D для .NET API
 description: Шейдерные программы для каждого вида материалов
 type: docs
-weight: 2140
+weight: 2150
 url: /ru/net/aspose.threed.render/shaderset/
 ---
 ## ShaderSet class
@@ -25,9 +25,9 @@ public class ShaderSet : IDisposable
 | Имя | Описание |
 | --- | --- |
 | [Fallback](../../aspose.threed.render/shaderset/fallback) { get; set; } | Получает или задает резервный шейдер, когда требуемый шейдер недоступен |
-| [Lambert](../../aspose.threed.render/shaderset/lambert) { get; set; } | Получает или задает шейдер, который использовался для рендеринга материала lambert |
+| [Lambert](../../aspose.threed.render/shaderset/lambert) { get; set; } | Получает или задает шейдер, который использовался для рендеринга материала Ламберта |
 | [Pbr](../../aspose.threed.render/shaderset/pbr) { get; set; } | Получает или задает шейдер, который использовался для рендеринга материала PBR |
-| [Phong](../../aspose.threed.render/shaderset/phong) { get; set; } | Получает или задает шейдер, который использовался для рендеринга материала фонга |
+| [Phong](../../aspose.threed.render/shaderset/phong) { get; set; } | Получает или задает шейдер, который использовался для рендеринга материала Фонга |
 
 ## Методы
 

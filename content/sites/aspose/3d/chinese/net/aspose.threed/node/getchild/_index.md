@@ -16,7 +16,7 @@ public Node GetChild(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 索引。 |
+| index | Int32 | 指数。 |
 
 ### 返回值
 
@@ -40,7 +40,7 @@ public Node GetChild(string nodeName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| nodeName | String | 子节点要查找的名称。 |
+| nodeName | String | 要查找的子名称。 |
 
 ### 返回值
 

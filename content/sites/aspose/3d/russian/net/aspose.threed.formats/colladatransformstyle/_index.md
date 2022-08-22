@@ -1,14 +1,14 @@
 ---
 title: ColladaTransformStyle
 second_title: Справочник по Aspose.3D для .NET API
-description: Стиль преобразования узла узла
+description: Стиль преобразования узла node
 type: docs
 weight: 1050
 url: /ru/net/aspose.threed.formats/colladatransformstyle/
 ---
 ## ColladaTransformStyle enumeration
 
-Стиль преобразования узла узла
+Стиль преобразования узла node
 
 ```csharp
 public enum ColladaTransformStyle
@@ -18,8 +18,8 @@ public enum ColladaTransformStyle
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Components | `0` | Экспорт преобразования узла как поворот/масштабирование/перемещение |
-| Matrix | `1` | Экспорт преобразования узла в виде матрицы |
+| Components | `0` | Экспортировать преобразование узла как rotate/scale/translate |
+| Matrix | `1` | Экспортировать преобразование узла как matrix |
 
 ### Смотрите также
 

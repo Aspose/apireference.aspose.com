@@ -1,14 +1,14 @@
 ---
 title: ColladaTransformStyle
 second_title: Aspose.3D for .NET API 参考
-description: 节点变换样式
+description: node 的节点变换样式
 type: docs
 weight: 1050
 url: /zh/net/aspose.threed.formats/colladatransformstyle/
 ---
 ## ColladaTransformStyle enumeration
 
-节点变换样式
+node 的节点变换样式
 
 ```csharp
 public enum ColladaTransformStyle
@@ -18,7 +18,7 @@ public enum ColladaTransformStyle
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Components | `0` | 导出节点的变换为旋转/缩放/平移 |
+| Components | `0` | 将节点的变换导出为旋转/缩放/平移 |
 | Matrix | `1` | 将节点的变换导出为矩阵 |
 
 ### 也可以看看

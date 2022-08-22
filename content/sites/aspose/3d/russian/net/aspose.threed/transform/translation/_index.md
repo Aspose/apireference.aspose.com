@@ -1,14 +1,14 @@
 ---
 title: Translation
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает перевод
+description: Получает или задает перевод
 type: docs
 weight: 100
 url: /ru/net/aspose.threed/transform/translation/
 ---
 ## Transform.Translation property
 
-Получает или устанавливает перевод
+Получает или задает перевод
 
 ```csharp
 public Vector3 Translation { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Matrix
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает текущее значение матрицы
+description: Получает или задает текущее значение матрицы
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.utilities/transformbuilder/matrix/
 ---
 ## TransformBuilder.Matrix property
 
-Получает или устанавливает текущее значение матрицы
+Получает или задает текущее значение матрицы
 
 ```csharp
 public Matrix4 Matrix { get; set; }

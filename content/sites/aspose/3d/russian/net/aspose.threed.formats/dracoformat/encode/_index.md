@@ -16,9 +16,9 @@ public void Encode(Entity entity, Stream stream, DracoSaveOptions options = null
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entity | Entity | Объект, который будет encoded |
-| stream | Stream | Поток, в котором закодированные данные будут записаны в |
-| options | DracoSaveOptions | Дополнительные параметры кодирования облако точек |
+| entity | Entity | Сущность, которую нужно закодировать |
+| stream | Stream | Поток, в который будут записаны закодированные данные |
+| options | DracoSaveOptions | Дополнительные параметры для кодирования облака точек |
 
 ### Смотрите также
 
@@ -40,9 +40,9 @@ public void Encode(Entity entity, string fileName, DracoSaveOptions options = nu
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entity | Entity | Объект, который будет encoded |
-| fileName | String | Записываемое имя файла |
-| options | DracoSaveOptions | Дополнительные опции для кодирования облака точек |
+| entity | Entity | Сущность, которую нужно закодировать |
+| fileName | String | Имя файла для записи |
+| options | DracoSaveOptions | Дополнительные параметры для кодирования облака точек |
 
 ### Смотрите также
 
@@ -56,7 +56,7 @@ public void Encode(Entity entity, string fileName, DracoSaveOptions options = nu
 
 ## Encode(Entity, DracoSaveOptions) {#encode}
 
-Кодировать сущность в необработанные данные Драко
+Закодировать сущность в необработанные данные Драко
 
 ```csharp
 public byte[] Encode(Entity entity, DracoSaveOptions options = null)
@@ -64,8 +64,8 @@ public byte[] Encode(Entity entity, DracoSaveOptions options = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entity | Entity | Сущность для be encoded |
-| options | DracoSaveOptions | Дополнительные опции для кодирования облака точек |
+| entity | Entity | Сущность, которую нужно закодировать |
+| options | DracoSaveOptions | Дополнительные параметры для кодирования облака точек |
 
 ### Возвращаемое значение
 

@@ -11,12 +11,11 @@ url: /ru/net/aspose.threed.shading/shadertechnique/shaderlanguage/
 Получает или задает язык шейдера, используемый этим методом.
 
 ```csharp
-public ShadingLanguage ShaderLanguage { get; set; }
+public string ShaderLanguage { get; set; }
 ```
 
 ### Смотрите также
 
-* enum [ShadingLanguage](../../shadinglanguage)
 * class [ShaderTechnique](../../shadertechnique)
 * пространство имен [Aspose.ThreeD.Shading](../../shadertechnique)
 * сборка [Aspose.3D](../../../)

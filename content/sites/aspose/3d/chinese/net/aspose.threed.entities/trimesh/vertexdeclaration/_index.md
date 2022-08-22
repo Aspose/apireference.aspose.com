@@ -1,14 +1,14 @@
 ---
 title: VertexDeclaration
 second_title: Aspose.3D for .NET API 参考
-description: TriMeshaspose.threed.entities/trimesh的顶点布局
+description: 的顶点布局TriMeshaspose.threed.entities/trimesh.
 type: docs
 weight: 80
 url: /zh/net/aspose.threed.entities/trimesh/vertexdeclaration/
 ---
 ## TriMesh.VertexDeclaration property
 
-[`TriMesh`](../../trimesh)的顶点布局。
+的顶点布局[`TriMesh`](../../trimesh).
 
 ```csharp
 public VertexDeclaration VertexDeclaration { get; }

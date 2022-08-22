@@ -1,14 +1,14 @@
 ---
 title: Arc
 second_title: Справочник по Aspose.3D для .NET API
-description: Общий угол дуги измеренный в радианах. Значение по умолчаниюPI
+description: Общий угол дуги измеренный в радианах. Значение по умолчанию PI
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/rectangulartorus/arc/
 ---
 ## RectangularTorus.Arc property
 
-Общий угол дуги, измеренный в радианах. Значение по умолчанию:PI
+Общий угол дуги, измеренный в радианах. Значение по умолчанию: PI
 
 ```csharp
 public double Arc { get; set; }

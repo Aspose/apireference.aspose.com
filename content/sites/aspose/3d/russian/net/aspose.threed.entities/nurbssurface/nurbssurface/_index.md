@@ -1,14 +1,14 @@
 ---
 title: NurbsSurface
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаNurbsSurfaceaspose.threed.entities/nurbssurface.
+description: Инициализирует новый экземплярNurbsSurfaceaspose.threed.entities/nurbssurface класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/nurbssurface/nurbssurface/
 ---
 ## NurbsSurface() {#constructor}
 
-Инициализирует новый экземпляр класса[`NurbsSurface`](../../nurbssurface).
+Инициализирует новый экземпляр[`NurbsSurface`](../../nurbssurface) класс.
 
 ```csharp
 public NurbsSurface()
@@ -24,7 +24,7 @@ public NurbsSurface()
 
 ## NurbsSurface(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`NurbsSurface`](../../nurbssurface).
+Инициализирует новый экземпляр[`NurbsSurface`](../../nurbssurface) класс.
 
 ```csharp
 public NurbsSurface(string name)

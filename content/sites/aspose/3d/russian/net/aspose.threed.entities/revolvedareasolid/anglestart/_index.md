@@ -1,14 +1,14 @@
 ---
 title: AngleStart
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает начальный угол процедуры вращения измеренный в радианах значение по умолчанию равно 0.
+description: Получает или задает начальный угол процедуры вращения измеренный в радианах значение по умолчанию 0.
 type: docs
 weight: 30
 url: /ru/net/aspose.threed.entities/revolvedareasolid/anglestart/
 ---
 ## RevolvedAreaSolid.AngleStart property
 
-Получает или задает начальный угол процедуры вращения, измеренный в радианах, значение по умолчанию равно 0.
+Получает или задает начальный угол процедуры вращения, измеренный в радианах, значение по умолчанию 0.
 
 ```csharp
 public double AngleStart { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Normalize
 second_title: Aspose.3D for .NET API 参考
-description: 标准化四元数
+description: 归一化四元数
 type: docs
 weight: 190
 url: /zh/net/aspose.threed.utilities/quaternion/normalize/
 ---
 ## Quaternion.Normalize method
 
-标准化四元数
+归一化四元数
 
 ```csharp
 public Quaternion Normalize()
@@ -16,7 +16,7 @@ public Quaternion Normalize()
 
 ### 返回值
 
-标准化四元数。
+归一化四元数。
 
 ### 也可以看看
 

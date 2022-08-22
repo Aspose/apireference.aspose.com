@@ -1,14 +1,14 @@
 ---
 title: Xyz
 second_title: Aspose.3D for .NET API 参考
-description: Xyz 点云文件
+description: xyz 点云文件
 type: docs
 weight: 400
 url: /zh/net/aspose.threed/fileformat/xyz/
 ---
 ## FileFormat.Xyz field
 
-Xyz 点云文件
+xyz 点云文件
 
 ```csharp
 public static readonly FileFormat Xyz;

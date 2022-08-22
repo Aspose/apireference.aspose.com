@@ -1,14 +1,14 @@
 ---
 title: CreateVertexBuffer
 second_title: Aspose.3D for .NET API 参考
-description: 创建一个IVertexBufferaspose.threed.render/ivertexbuffer实例来存储多边形的顶点信息
+description: 创建一个IVertexBufferaspose.threed.render/ivertexbuffer存储多边形顶点信息的实例
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.render/renderfactory/createvertexbuffer/
 ---
 ## RenderFactory.CreateVertexBuffer method
 
-创建一个[`IVertexBuffer`](../../ivertexbuffer)实例来存储多边形的顶点信息。
+创建一个[`IVertexBuffer`](../../ivertexbuffer)存储多边形顶点信息的实例。
 
 ```csharp
 public abstract IVertexBuffer CreateVertexBuffer(VertexDeclaration declaration)
@@ -16,7 +16,7 @@ public abstract IVertexBuffer CreateVertexBuffer(VertexDeclaration declaration)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 声明 | VertexDeclaration |  |
+| declaration | VertexDeclaration |  |
 
 ### 也可以看看
 

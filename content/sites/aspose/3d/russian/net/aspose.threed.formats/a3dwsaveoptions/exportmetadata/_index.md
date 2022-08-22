@@ -1,14 +1,14 @@
 ---
 title: ExportMetaData
 second_title: Справочник по Aspose.3D для .NET API
-description: Экспорт метаданных связанных со сценой/узлом в клиент Значение по умолчанию - true
+description: Экспорт метаданных связанных со сценой/узлом в client Значение по умолчанию  true
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/a3dwsaveoptions/exportmetadata/
 ---
 ## A3dwSaveOptions.ExportMetaData property
 
-Экспорт метаданных, связанных со сценой/узлом, в клиент Значение по умолчанию - true
+Экспорт метаданных, связанных со сценой/узлом, в client Значение по умолчанию — true
 
 ```csharp
 public bool ExportMetaData { get; set; }

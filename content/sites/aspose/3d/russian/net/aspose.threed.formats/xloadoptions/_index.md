@@ -1,14 +1,14 @@
 ---
 title: XLoadOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Параметры загрузки файлов DirectX X.
+description: Параметры загрузки для файлов DirectX X.
 type: docs
 weight: 1400
 url: /ru/net/aspose.threed.formats/xloadoptions/
 ---
 ## XLoadOptions class
 
-Параметры загрузки файлов DirectX X.
+Параметры загрузки для файлов DirectX X.
 
 ```csharp
 public class XLoadOptions : LoadOptions

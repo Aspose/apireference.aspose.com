@@ -1,14 +1,14 @@
 ---
 title: Radius
 second_title: Aspose.3D for .NET API 参考
-description: 圆弧的半径默认值为10
+description: 圆曲线的半径默认值为10
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/circle/radius/
 ---
 ## Circle.Radius property
 
-圆弧的半径，默认值为10
+圆曲线的半径，默认值为10
 
 ```csharp
 public double Radius { get; set; }

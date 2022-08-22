@@ -1,14 +1,14 @@
 ---
 title: QuadraticAttenuation
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает квадратичное затухание для расчета полного затухания света
+description: Получает или задает квадратичное затухание для расчета общего затухания источника света
 type: docs
 weight: 110
 url: /ru/net/aspose.threed.entities/light/quadraticattenuation/
 ---
 ## Light.QuadraticAttenuation property
 
-Получает или задает квадратичное затухание для расчета полного затухания света
+Получает или задает квадратичное затухание для расчета общего затухания источника света
 
 ```csharp
 public double QuadraticAttenuation { get; set; }

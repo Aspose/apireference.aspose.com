@@ -16,7 +16,7 @@ public TransformBuilder RotateRadian(double angle, Vector3 axis)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Double | 要旋转的角度以弧度表示 |
+| angle | Double | 以弧度为单位旋转的角度 |
 | axis | Vector3 | 要旋转的轴 |
 
 ### 也可以看看

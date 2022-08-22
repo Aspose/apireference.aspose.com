@@ -23,20 +23,21 @@ public class PdfFormat : FileFormat
 | [ContentType](../../aspose.threed/fileformat/contenttype) { get; } | Получает тип содержимого формата файла |
 | [Extension](../../aspose.threed/fileformat/extension) { get; } | Получает имя расширения этого типа. |
 | [Extensions](../../aspose.threed/fileformat/extensions) { get; } | Получает имена расширений этого типа. |
-| [FileFormatType](../../aspose.threed/fileformat/fileformattype) { get; } | Получает тип формата файла |
+| [FileFormatType](../../aspose.threed/fileformat/fileformattype) { get; } | Получает формат файла type |
 | [Version](../../aspose.threed/fileformat/version) { get; } | Получает версию формата файла |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Создать параметры загрузки по умолчанию для этого формата файла |
-| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Создать параметры сохранения по умолчанию для этого формата файла |
+| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Создать параметры загрузки по умолчанию для этого файла формата |
+| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Создать параметры сохранения по умолчанию для этого файла формата |
 | [Extract](../../aspose.threed.formats/pdfformat/extract#extract)(Stream, byte[]) | Извлечение необработанного 3D-контента из потока PDF. |
 | [Extract](../../aspose.threed.formats/pdfformat/extract#extract_1)(string, byte[]) | Извлечение необработанного 3D-контента из файла PDF. |
+| [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene#extractscene_1)(string) | Извлечение 3D-сцен из файла PDF. |
 | [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene#extractscene)(Stream, byte[]) | Извлечение необработанного 3D-контента из потока PDF. |
-| [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene#extractscene_1)(string, byte[]) | Извлечение 3D-сцен из файла PDF. |
-| override [ToString](../../aspose.threed/fileformat/tostring)() | Форматирует в строку |
+| [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene#extractscene_2)(string, byte[]) | Извлечение 3D-сцен из файла PDF. |
+| override [ToString](../../aspose.threed/fileformat/tostring)() | Форматирует строку |
 
 ### Смотрите также
 

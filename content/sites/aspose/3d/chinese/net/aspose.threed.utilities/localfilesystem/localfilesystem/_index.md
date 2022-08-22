@@ -1,14 +1,14 @@
 ---
 title: LocalFileSystem
 second_title: Aspose.3D for .NET API 参考
-description: 使用指定的基本目录初始化一个新的LocalFileSystemaspose.threed.utilities/localfilesystem
+description: 初始化一个新的LocalFileSystemaspose.threed.utilities/localfilesystem具有指定的基本目录
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/localfilesystem/localfilesystem/
 ---
 ## LocalFileSystem constructor
 
-使用指定的基本目录初始化一个新的[`LocalFileSystem`](../../localfilesystem)。
+初始化一个新的[`LocalFileSystem`](../../localfilesystem)具有指定的基本目录。
 
 ```csharp
 public LocalFileSystem(string directory)
@@ -16,7 +16,7 @@ public LocalFileSystem(string directory)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 目录 | String |  |
+| directory | String |  |
 
 ### 也可以看看
 

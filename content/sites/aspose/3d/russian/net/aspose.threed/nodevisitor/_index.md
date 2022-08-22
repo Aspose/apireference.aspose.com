@@ -1,14 +1,14 @@
 ---
 title: NodeVisitor
 second_title: Справочник по Aspose.3D для .NET API
-description: Обратный вызов для перемещения по всей иерархии узлов.
+description: Обратный вызов для прохождения всей иерархии узлов.
 type: docs
-weight: 1470
+weight: 1480
 url: /ru/net/aspose.threed/nodevisitor/
 ---
 ## NodeVisitor delegate
 
-Обратный вызов для перемещения по всей иерархии узлов.
+Обратный вызов для прохождения всей иерархии узлов.
 
 ```csharp
 public delegate bool NodeVisitor(Node node);
@@ -20,7 +20,7 @@ public delegate bool NodeVisitor(Node node);
 
 ### Возвращаемое значение
 
-Вернуть false, чтобы остановить перемещение
+Верните false, чтобы прекратить путешествие
 
 ### Смотрите также
 

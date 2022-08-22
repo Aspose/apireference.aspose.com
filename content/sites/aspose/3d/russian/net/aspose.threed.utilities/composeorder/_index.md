@@ -3,7 +3,7 @@ title: ComposeOrder
 second_title: Справочник по Aspose.3D для .NET API
 description: Порядок составления матрицы преобразования
 type: docs
-weight: 2460
+weight: 2450
 url: /ru/net/aspose.threed.utilities/composeorder/
 ---
 ## ComposeOrder enumeration

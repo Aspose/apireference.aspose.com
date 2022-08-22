@@ -1,14 +1,14 @@
 ---
 title: VertexElementUserData
 second_title: Aspose.3D for .NET API 参考
-description: 定义指定组件的自定义用户数据 通常它是用于特殊目的的特定于应用程序的数据
+description: 为指定组件定义自定义用户数据 通常是用于特殊目的的应用程序特定数据
 type: docs
 weight: 910
 url: /zh/net/aspose.threed.entities/vertexelementuserdata/
 ---
 ## VertexElementUserData class
 
-定义指定组件的自定义用户数据。 通常它是用于特殊目的的特定于应用程序的数据。
+为指定组件定义自定义用户数据。 通常是用于特殊目的的应用程序特定数据。
 
 ```csharp
 public class VertexElementUserData : VertexElement
@@ -18,7 +18,7 @@ public class VertexElementUserData : VertexElement
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VertexElementUserData](vertexelementuserdata)() | 初始化[`VertexElementUserData`](../vertexelementuserdata)类的新实例。 |
+| [VertexElementUserData](vertexelementuserdata)() | 初始化[`VertexElementUserData`](../vertexelementuserdata)类. |
 
 ## 特性
 
@@ -29,13 +29,13 @@ public class VertexElementUserData : VertexElement
 | [MappingMode](../../aspose.threed.entities/vertexelement/mappingmode) { get; set; } | 获取或设置元素的映射方式。 |
 | [Name](../../aspose.threed.entities/vertexelement/name) { get; set; } | 获取或设置名称。 |
 | [ReferenceMode](../../aspose.threed.entities/vertexelement/referencemode) { get; set; } | 获取或设置元素的引用方式。 |
-| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取[`VertexElement`](../vertexelement) |
+| [VertexElementType](../../aspose.threed.entities/vertexelement/vertexelementtype) { get; } | 获取类型[`VertexElement`](../vertexelement) |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Clear](../../aspose.threed.entities/vertexelementuserdata/clear)() | 清除此顶点元素中的所有数据。 |
+| override [Clear](../../aspose.threed.entities/vertexelementuserdata/clear)() | 清除该顶点元素的所有数据。 |
 | [SetIndices](../../aspose.threed.entities/vertexelement/setindices)(int[]) | 加载索引 |
 | override [ToString](../../aspose.threed.entities/vertexelement/tostring)() | 顶点元素的字符串表示。 |
 

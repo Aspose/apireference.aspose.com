@@ -1,14 +1,14 @@
 ---
 title: Write32bIndicesTo
 second_title: Справочник по Aspose.3D для .NET API
-description: Записать данные индексов как 32-битное целое число в поток
+description: Записать данные индексов в виде 32битного целого числа в поток
 type: docs
 weight: 270
 url: /ru/net/aspose.threed.entities/trimesh/write32bindicesto/
 ---
 ## TriMesh.Write32bIndicesTo method
 
-Записать данные индексов как 32-битное целое число в поток
+Записать данные индексов в виде 32-битного целого числа в поток
 
 ```csharp
 public void Write32bIndicesTo(Stream stream)

@@ -1,14 +1,14 @@
 ---
 title: OutWeight
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или устанавливает внешний правый вес в этом ключевом кадре.
+description: Получает или устанавливает внешний правый вес для этого ключевого кадра.
 type: docs
 weight: 100
 url: /ru/net/aspose.threed.animation/keyframe/outweight/
 ---
 ## KeyFrame.OutWeight property
 
-Получает или устанавливает внешний (правый) вес в этом ключевом кадре.
+Получает или устанавливает внешний (правый) вес для этого ключевого кадра.
 
 ```csharp
 public float OutWeight { get; set; }

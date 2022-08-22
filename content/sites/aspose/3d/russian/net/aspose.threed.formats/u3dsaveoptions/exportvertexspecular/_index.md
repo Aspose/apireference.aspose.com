@@ -1,14 +1,14 @@
 ---
 title: ExportVertexSpecular
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает следует ли экспортировать цвет отражения вершины.
+description: Получает или задает следует ли экспортировать зеркальный цвет вершины.
 type: docs
 weight: 60
 url: /ru/net/aspose.threed.formats/u3dsaveoptions/exportvertexspecular/
 ---
 ## U3dSaveOptions.ExportVertexSpecular property
 
-Получает или задает, следует ли экспортировать цвет отражения вершины.
+Получает или задает, следует ли экспортировать зеркальный цвет вершины.
 
 ```csharp
 public bool ExportVertexSpecular { get; set; }

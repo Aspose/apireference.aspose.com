@@ -1,14 +1,14 @@
 ---
 title: FileSystemFactory
 second_title: Aspose.3D for .NET API 参考
-description: SaveOptions./saveoptions和LoadOptions./loadoptions将创建LocalFileSystem../aspose.threed.utilities/localfilesystem默认 这可能是服务器环境中的安全问题 使用你自己的FileSystemFactory./filesystemfactory到FileSystemFactory./ioconfig/filesystemfactory来改进服务器侧面安全
+description: SaveOptions./saveoptions和LoadOptions./loadoptions将创建一个LocalFileSystem../aspose.threed.utilities/localfilesystem对于默认值 这可能是服务器环境中的安全问题 使用您自己的FileSystemFactory./filesystemfactory至FileSystemFactory./ioconfig/filesystemfactory提高服务器端的安全性
 type: docs
 weight: 1130
 url: /zh/net/aspose.threed.formats/filesystemfactory/
 ---
 ## FileSystemFactory delegate
 
-[`SaveOptions`](../saveoptions)和[`LoadOptions`](../loadoptions)将创建[`LocalFileSystem`](../../aspose.threed.utilities/localfilesystem)默认。 这可能是服务器环境中的安全问题。 使用你自己的[`FileSystemFactory`](../filesystemfactory)到[`FileSystemFactory`](../ioconfig/filesystemfactory)来改进服务器侧面安全。
+[`SaveOptions`](../saveoptions)和[`LoadOptions`](../loadoptions)将创建一个[`LocalFileSystem`](../../aspose.threed.utilities/localfilesystem)对于默认值。 这可能是服务器环境中的安全问题。 使用您自己的[`FileSystemFactory`](../filesystemfactory)至[`FileSystemFactory`](../ioconfig/filesystemfactory)提高服务器端的安全性。
 
 ```csharp
 public delegate FileSystem FileSystemFactory();

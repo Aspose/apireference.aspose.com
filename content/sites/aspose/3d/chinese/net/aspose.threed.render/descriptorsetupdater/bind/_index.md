@@ -1,14 +1,14 @@
 ---
 title: Bind
 second_title: Aspose.3D for .NET API 参考
-description: 将缓冲区绑定到当前描述符集
+description: 将缓冲区绑定到当前描述符 set
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/descriptorsetupdater/bind/
 ---
 ## Bind(IBuffer, int, int) {#bind_1}
 
-将缓冲区绑定到当前描述符集
+将缓冲区绑定到当前描述符 set
 
 ```csharp
 public DescriptorSetUpdater Bind(IBuffer buffer, int offset, int size)
@@ -16,13 +16,13 @@ public DescriptorSetUpdater Bind(IBuffer buffer, int offset, int size)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| buffer | IBuffer | 哪个缓冲区bind |
+| buffer | IBuffer | 绑定哪个缓冲区 |
 | offset | Int32 | 要绑定的缓冲区的偏移量 |
-| size | Int32 | 要绑定的缓冲区的大小 |
+| size | Int32 | 要绑定的缓冲区大小 |
 
 ### 返回值
 
-返回链接操作的当前实例
+返回当前实例以进行链接操作
 
 ### 也可以看看
 
@@ -47,7 +47,7 @@ public DescriptorSetUpdater Bind(IBuffer buffer)
 
 ### 返回值
 
-返回链接操作的当前实例
+返回当前实例以进行链接操作
 
 ### 也可以看看
 
@@ -60,7 +60,7 @@ public DescriptorSetUpdater Bind(IBuffer buffer)
 
 ## Bind(int, IBuffer) {#bind_3}
 
-将缓冲区绑定到指定绑定位置的当前描述符集。
+将缓冲区绑定到在指定绑定位置设置的当前描述符。
 
 ```csharp
 public DescriptorSetUpdater Bind(int binding, IBuffer buffer)
@@ -73,7 +73,7 @@ public DescriptorSetUpdater Bind(int binding, IBuffer buffer)
 
 ### 返回值
 
-返回链接操作的当前实例
+返回当前实例以进行链接操作
 
 ### 也可以看看
 
@@ -86,7 +86,7 @@ public DescriptorSetUpdater Bind(int binding, IBuffer buffer)
 
 ## Bind(int, IBuffer, int, int) {#bind_4}
 
-将缓冲区绑定到指定绑定位置的当前描述符集。
+将缓冲区绑定到在指定绑定位置设置的当前描述符。
 
 ```csharp
 public DescriptorSetUpdater Bind(int binding, IBuffer buffer, int offset, int size)
@@ -97,11 +97,11 @@ public DescriptorSetUpdater Bind(int binding, IBuffer buffer, int offset, int si
 | binding | Int32 | 绑定位置 |
 | buffer | IBuffer | 要绑定的缓冲区 |
 | offset | Int32 | 要绑定的缓冲区的偏移量 |
-| size | Int32 | 要绑定的缓冲区的大小 |
+| size | Int32 | 要绑定的缓冲区大小 |
 
 ### 返回值
 
-返回链接操作的当前实例
+返回当前实例以进行链接操作
 
 ### 也可以看看
 
@@ -122,7 +122,7 @@ public DescriptorSetUpdater Bind(ITextureUnit texture)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| texture | ITextureUnit | 纹理绑定单元 |
+| texture | ITextureUnit | 要绑定的纹理单元 |
 
 ### 返回值
 
@@ -147,12 +147,12 @@ public DescriptorSetUpdater Bind(int binding, ITextureUnit texture)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| binding | Int32 | 绑定location |
+| binding | Int32 | 绑定位置 |
 | texture | ITextureUnit | 要绑定的纹理单元 |
 
 ### 返回值
 
-返回链接操作的当前实例
+返回当前实例以进行链接操作
 
 ### 也可以看看
 

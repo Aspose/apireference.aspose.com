@@ -1,14 +1,14 @@
 ---
 title: ImageRenderOptions
 second_title: Справочник по Aspose.3D для .NET API
-description: Опции дляRender./scene/renderиRender./scene/render
+description: Параметры дляRender./scene/render а такжеRender./scene/render
 type: docs
-weight: 1420
+weight: 1430
 url: /ru/net/aspose.threed/imagerenderoptions/
 ---
 ## ImageRenderOptions class
 
-Опции для[`Render`](../scene/render)и[`Render`](../scene/render)
+Параметры для[`Render`](../scene/render) а также[`Render`](../scene/render)
 
 ```csharp
 public class ImageRenderOptions : A3DObject
@@ -24,7 +24,7 @@ public class ImageRenderOptions : A3DObject
 
 | Имя | Описание |
 | --- | --- |
-| [AssetDirectories](../../aspose.threed/imagerenderoptions/assetdirectories) { get; set; } | Каталоги, в которых хранятся внешние ресурсы (например, текстуры) |
+| [AssetDirectories](../../aspose.threed/imagerenderoptions/assetdirectories) { get; set; } | Каталоги, в которых хранятся внешние активы (например, текстуры) |
 | [BackgroundColor](../../aspose.threed/imagerenderoptions/backgroundcolor) { get; set; } | Цвет фона результата рендеринга. |
 | [EnableShadows](../../aspose.threed/imagerenderoptions/enableshadows) { get; set; } | Получает или задает, отображать ли тени. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
@@ -37,7 +37,7 @@ public class ImageRenderOptions : A3DObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

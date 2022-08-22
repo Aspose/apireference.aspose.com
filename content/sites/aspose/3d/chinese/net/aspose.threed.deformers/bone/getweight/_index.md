@@ -1,14 +1,14 @@
 ---
 title: GetWeight
 second_title: Aspose.3D for .NET API 参考
-description: 获取索引指定的控制点的权重
+description: 获取 index 指定的控制点的权重
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.deformers/bone/getweight/
 ---
 ## Bone.GetWeight method
 
-获取索引指定的控制点的权重
+获取 index 指定的控制点的权重
 
 ```csharp
 public double GetWeight(int index)
@@ -16,11 +16,11 @@ public double GetWeight(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | Control点的索引 |
+| index | Int32 | 控制点索引 |
 
 ### 返回值
 
-指定索引处的权重，如果索引无效则为 0
+指定索引的权重，如果索引无效，则为 0
 
 ### 也可以看看
 

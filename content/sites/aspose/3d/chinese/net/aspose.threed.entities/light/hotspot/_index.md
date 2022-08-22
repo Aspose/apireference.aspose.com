@@ -1,14 +1,14 @@
 ---
 title: HotSpot
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置热点锥角以度为单位
+description: 获取或设置热点锥角度
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.entities/light/hotspot/
 ---
 ## Light.HotSpot property
 
-获取或设置热点锥角（以度为单位）。
+获取或设置热点锥角（度）。
 
 ```csharp
 public double HotSpot { get; set; }

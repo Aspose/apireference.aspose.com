@@ -1,14 +1,14 @@
 ---
 title: ToBitmap
 second_title: Справочник по Aspose.3D для .NET API
-description: Преобразование блока текстуры вBitmapinstance
+description: Преобразование блока текстуры вBitmap instance
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.render/itexturecubemap/tobitmap/
 ---
 ## ITextureCubemap.ToBitmap method
 
-Преобразование блока текстуры вBitmapinstance
+Преобразование блока текстуры вBitmap instance
 
 ```csharp
 public Bitmap ToBitmap(CubeFace side)

@@ -1,14 +1,14 @@
 ---
 title: Watermark
 second_title: Справочник по Aspose.3D для .NET API
-description: Утилита для кодирования/декодирования слепых водяных знаков в/из меша.
+description: Утилита для кодирования/декодирования слепого водяного знака в/из меша.
 type: docs
-weight: 2720
+weight: 2710
 url: /ru/net/aspose.threed.utilities/watermark/
 ---
 ## Watermark class
 
-Утилита для кодирования/декодирования слепых водяных знаков в/из меша.
+Утилита для кодирования/декодирования слепого водяного знака в/из меша.
 
 ```csharp
 public class Watermark
@@ -18,7 +18,7 @@ public class Watermark
 
 | Имя | Описание |
 | --- | --- |
-| static [DecodeWatermark](../../aspose.threed.utilities/watermark/decodewatermark)(Mesh, string) | Декодировать водяной знак из меша |
+| static [DecodeWatermark](../../aspose.threed.utilities/watermark/decodewatermark)(Mesh, string) | Декодировать водяной знак из сетки |
 | static [EncodeWatermark](../../aspose.threed.utilities/watermark/encodewatermark)(Mesh, string, string) | Кодировать текст в слепой водяной знак сетки. |
 
 ### Смотрите также

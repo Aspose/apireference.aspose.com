@@ -11,7 +11,7 @@ url: /net/aspose.threed/a3dobject/
 The base class of all Aspose.ThreeD objects, all sub classes will support dynamic properties.
 
 ```csharp
-public class A3DObject
+public class A3DObject : INamedObject
 ```
 
 ## Constructors
@@ -40,6 +40,7 @@ public class A3DObject
 
 ### See Also
 
+* interface [INamedObject](../inamedobject)
 * namespace [Aspose.ThreeD](../../aspose.threed)
 * assembly [Aspose.3D](../../)
 

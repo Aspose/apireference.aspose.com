@@ -1,14 +1,14 @@
 ---
 title: KeyframeSequence
 second_title: Aspose.3D for .NET API 参考
-description: 初始化KeyframeSequenceaspose.threed.animation/keyframesequence类的新实例
+description: 初始化KeyframeSequenceaspose.threed.animation/keyframesequence类.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.animation/keyframesequence/keyframesequence/
 ---
 ## KeyframeSequence(string) {#constructor_1}
 
-初始化[`KeyframeSequence`](../../keyframesequence)类的新实例。
+初始化[`KeyframeSequence`](../../keyframesequence)类.
 
 ```csharp
 public KeyframeSequence(string name)
@@ -16,7 +16,7 @@ public KeyframeSequence(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称 |
+| name | String | 姓名 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public KeyframeSequence(string name)
 
 ## KeyframeSequence() {#constructor}
 
-初始化[`KeyframeSequence`](../../keyframesequence)类的新实例。
+初始化[`KeyframeSequence`](../../keyframesequence)类.
 
 ```csharp
 public KeyframeSequence()

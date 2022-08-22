@@ -1,14 +1,14 @@
 ---
 title: MapNormal
 second_title: Справочник по Aspose.3D для .NET API
-description: Используется вSetTextureaspose.threed.shading/material/settextureдля назначить нормальное наложение текстуры.
+description: Используется вSetTextureaspose.threed.shading/material/settexture назначить нормальное наложение текстуры.
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.shading/material/mapnormal/
 ---
 ## Material.MapNormal field
 
-Используется в[`SetTexture`](../settexture)для назначить нормальное наложение текстуры.
+Используется в[`SetTexture`](../settexture) назначить нормальное наложение текстуры.
 
 ```csharp
 public const string MapNormal;

@@ -1,14 +1,14 @@
 ---
 title: AssetInfo
 second_title: Aspose.3D for .NET API 参考
-description: 资产信息 资产信息可以附加到Scene./scene ChildScene./scene可以有自己的AssetInfo./assetinfo来覆盖父级的定义
+description: 资产信息 资产信息可以附加到一个Scene./scene. 孩子Scene./scene可以有自己的AssetInfo./assetinfo覆盖父母的定义
 type: docs
 weight: 130
 url: /zh/net/aspose.threed/assetinfo/
 ---
 ## AssetInfo class
 
-资产信息。 资产信息可以附加到[`Scene`](../scene)。 Child[`Scene`](../scene)可以有自己的[`AssetInfo`](../assetinfo)来覆盖父级的定义。
+资产信息。 资产信息可以附加到一个[`Scene`](../scene). 孩子[`Scene`](../scene)可以有自己的[`AssetInfo`](../assetinfo)覆盖父母的定义。
 
 ```csharp
 public class AssetInfo : A3DObject
@@ -18,8 +18,8 @@ public class AssetInfo : A3DObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AssetInfo](assetinfo#constructor)() | 初始化[`AssetInfo`](../assetinfo)类的新实例。 |
-| [AssetInfo](assetinfo#constructor_1)(string) | 初始化[`AssetInfo`](../assetinfo)类的新实例。 |
+| [AssetInfo](assetinfo#constructor)() | 初始化[`AssetInfo`](../assetinfo)类. |
+| [AssetInfo](assetinfo#constructor_1)(string) | 初始化[`AssetInfo`](../assetinfo)类. |
 
 ## 特性
 
@@ -33,27 +33,27 @@ public class AssetInfo : A3DObject
 | [Comment](../../aspose.threed/assetinfo/comment) { get; set; } | 获取或设置该资产的评论。 |
 | [CoordinatedSystem](../../aspose.threed/assetinfo/coordinatedsystem) { get; set; } | 获取或设置此资产中使用的坐标系。 |
 | [Copyright](../../aspose.threed/assetinfo/copyright) { get; set; } | 获取或设置文档的版权 |
-| [CreationTime](../../aspose.threed/assetinfo/creationtime) { get; set; } | 获取或设置此资产的创建时间 |
+| [CreationTime](../../aspose.threed/assetinfo/creationtime) { get; set; } | 获取或设置该资产的创建时间 |
 | [Keywords](../../aspose.threed/assetinfo/keywords) { get; set; } | 获取或设置该资产的关键字 |
-| [ModificationTime](../../aspose.threed/assetinfo/modificationtime) { get; set; } | 获取或设置此资产的修改时间 |
+| [ModificationTime](../../aspose.threed/assetinfo/modificationtime) { get; set; } | 获取或设置该资产的修改时间 |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | 获取或设置名称。 |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | 获取所有属性的集合。 |
 | [Revision](../../aspose.threed/assetinfo/revision) { get; set; } | 获取或设置该资产的修订号，通常用于版本控制系统。 |
 | [Subject](../../aspose.threed/assetinfo/subject) { get; set; } | 获取或设置此资产的主题 |
 | [Title](../../aspose.threed/assetinfo/title) { get; set; } | 获取或设置此资产的标题 |
-| [UnitName](../../aspose.threed/assetinfo/unitname) { get; set; } | 获取或设置此资产中使用的长度单位。 例如厘米/米/公里/英寸/英尺 |
-| [UnitScaleFactor](../../aspose.threed/assetinfo/unitscalefactor) { get; set; } | 获取或设置真实世界米的比例因子。 |
-| [UpVector](../../aspose.threed/assetinfo/upvector) { get; set; } | 获取或设置此资产中使用的向上向量。 |
+| [UnitName](../../aspose.threed/assetinfo/unitname) { get; set; } | 获取或设置此资产中使用的长度单位。 例如 cm/m/km/inch/feet |
+| [UnitScaleFactor](../../aspose.threed/assetinfo/unitscalefactor) { get; set; } | 获取或设置实际仪表的比例因子。 |
+| [UpVector](../../aspose.threed/assetinfo/upvector) { get; set; } | 获取或设置此资产中使用的上向量。 |
 | [Url](../../aspose.threed/assetinfo/url) { get; set; } | 获取或设置此资产的 URL。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或本机属性（由其名称标识） |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | 查找属性。 可以是动态属性（由 CreateDynamicProperty/SetProperty 创建） 或原生属性（由其名称标识） |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | 获取指定属性的值 |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | 删除动态属性。 |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 删除名称标识的指定属性 |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | 移除名称标识的指定属性 |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | 设置指定属性的值 |
 
 ### 也可以看看

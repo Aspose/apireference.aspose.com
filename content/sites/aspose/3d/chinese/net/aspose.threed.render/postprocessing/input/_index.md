@@ -1,14 +1,14 @@
 ---
 title: Input
 second_title: Aspose.3D for .NET API 参考
-description: 后处理的输入
+description: 这个后处理的输入
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.render/postprocessing/input/
 ---
 ## PostProcessing.Input property
 
-后处理的输入
+这个后处理的输入
 
 ```csharp
 public abstract ITextureUnit Input { get; set; }

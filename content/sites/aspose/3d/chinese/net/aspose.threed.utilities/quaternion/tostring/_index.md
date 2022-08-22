@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 获取字符串中四元数的表示
+description: 获取字符串中四元数的表示形式
 type: docs
 weight: 220
 url: /zh/net/aspose.threed.utilities/quaternion/tostring/
 ---
 ## Quaternion.ToString method
 
-获取字符串中四元数的表示
+获取字符串中四元数的表示形式
 
 ```csharp
 public override string ToString()

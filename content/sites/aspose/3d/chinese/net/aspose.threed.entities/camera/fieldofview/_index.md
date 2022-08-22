@@ -1,14 +1,14 @@
 ---
 title: FieldOfView
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置相机的视野单位为度该属性仅在 ApertureMode 为Horizontal时使用或Vertical
+description: 获取或设置相机的视野单位为度此属性仅在 ApertureMode 为Horizontal或者Vertical
 type: docs
 weight: 40
 url: /zh/net/aspose.threed.entities/camera/fieldofview/
 ---
 ## Camera.FieldOfView property
 
-获取或设置相机的视野，单位为度，该属性仅在 ApertureMode 为Horizontal时使用或Vertical
+获取或设置相机的视野，单位为度，此属性仅在 ApertureMode 为Horizontal或者Vertical
 
 ```csharp
 public double FieldOfView { get; set; }

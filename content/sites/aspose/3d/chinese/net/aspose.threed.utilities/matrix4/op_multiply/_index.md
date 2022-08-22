@@ -16,7 +16,7 @@ public static Matrix4 operator *(Matrix4 lhs, Matrix4 rhs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lhs | Matrix4 | Lhs。 |
+| lhs | Matrix4 | 左旋。 |
 | rhs | Matrix4 | Rhs。 |
 
 ### 返回值
@@ -33,7 +33,7 @@ public static Matrix4 operator *(Matrix4 lhs, Matrix4 rhs)
 
 ## operator * {#op_multiply_2}
 
-将矩阵与向量相乘3
+乘以矩阵和vector3
 
 ```csharp
 public static Vector3 operator *(Matrix4 lhs, Vector3 v)
@@ -41,8 +41,8 @@ public static Vector3 operator *(Matrix4 lhs, Vector3 v)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lhs | Matrix4 | Lhs。 |
-| v | Vector3 | V. |
+| lhs | Matrix4 | 左旋。 |
+| v | Vector3 | 五。 |
 
 ### 返回值
 
@@ -59,7 +59,7 @@ public static Vector3 operator *(Matrix4 lhs, Vector3 v)
 
 ## operator * {#op_multiply_3}
 
-将矩阵与向量相乘4
+乘以矩阵和vector4
 
 ```csharp
 public static Vector4 operator *(Matrix4 lhs, Vector4 v)
@@ -67,8 +67,8 @@ public static Vector4 operator *(Matrix4 lhs, Vector4 v)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lhs | Matrix4 | Lhs。 |
-| v | Vector4 | V. |
+| lhs | Matrix4 | 左旋。 |
+| v | Vector4 | 五。 |
 
 ### 返回值
 
@@ -85,7 +85,7 @@ public static Vector4 operator *(Matrix4 lhs, Vector4 v)
 
 ## operator * {#op_multiply_1}
 
-将矩阵乘以 double 值
+乘以矩阵和双值
 
 ```csharp
 public static Matrix4 operator *(Matrix4 lhs, double v)
@@ -93,8 +93,8 @@ public static Matrix4 operator *(Matrix4 lhs, double v)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lhs | Matrix4 | Lhs。 |
-| v | Double | V. |
+| lhs | Matrix4 | 左旋。 |
+| v | Double | 五。 |
 
 ### 返回值
 

@@ -3,7 +3,7 @@ title: DriverException
 second_title: Справочник по Aspose.3D для .NET API
 description: Исключение вызванное внутренними драйверами рендеринга.
 type: docs
-weight: 1760
+weight: 1770
 url: /ru/net/aspose.threed.render/driverexception/
 ---
 ## DriverException class
@@ -18,7 +18,7 @@ public class DriverException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [DriverException](driverexception)(uint, string) | Инициализировать экземпляр[`DriverException`](../driverexception)с указанным кодом ошибки собственного драйвера и сообщением. |
+| [DriverException](driverexception)(uint, string) | Инициализировать экземпляр[`DriverException`](../driverexception) с указанным кодом ошибки собственного драйвера и сообщением. |
 
 ## Характеристики
 

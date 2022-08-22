@@ -1,14 +1,14 @@
 ---
 title: BonePoses
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает всеBonePoseaspose.threed/bonepose.
+description: получает всеBonePoseaspose.threed/bonepose .
 type: docs
 weight: 20
 url: /ru/net/aspose.threed/pose/boneposes/
 ---
 ## Pose.BonePoses property
 
-Получает все[`BonePose`](../../bonepose).
+получает все[`BonePose`](../../bonepose) .
 
 ```csharp
 public IList<BonePose> BonePoses { get; }

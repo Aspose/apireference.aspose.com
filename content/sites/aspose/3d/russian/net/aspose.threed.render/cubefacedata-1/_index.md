@@ -3,7 +3,7 @@ title: CubeFaceDataT
 second_title: Справочник по Aspose.3D для .NET API
 description: Данные для каждой грани текстуры карты куба.
 type: docs
-weight: 1720
+weight: 1730
 url: /ru/net/aspose.threed.render/cubefacedata-1/
 ---
 ## CubeFaceData&lt;T&gt; structure
@@ -22,19 +22,19 @@ public struct CubeFaceData<T>
 
 | Имя | Описание |
 | --- | --- |
-| [Back](../../aspose.threed.render/cubefacedata`1/back) { get; set; } | Получает или задает данные для +Z (задняя) сторона |
-| [Bottom](../../aspose.threed.render/cubefacedata`1/bottom) { get; set; } | Получает или задает данные для -Y (нижней) грани |
-| [Front](../../aspose.threed.render/cubefacedata`1/front) { get; set; } | Получает или задает данные для -Z (передней) грани |
+| [Back](../../aspose.threed.render/cubefacedata`1/back) { get; set; } | Получает или задает данные для +Z(Назад) face |
+| [Bottom](../../aspose.threed.render/cubefacedata`1/bottom) { get; set; } | Получает или задает данные для -Y(Bottom) face |
+| [Front](../../aspose.threed.render/cubefacedata`1/front) { get; set; } | Получает или задает данные для -Z(Передняя) face |
 | [Item](../../aspose.threed.render/cubefacedata`1/item) { get; set; } |  |
-| [Left](../../aspose.threed.render/cubefacedata`1/left) { get; set; } | Получает или задает данные для +X(левой) грани |
-| [NegativeX](../../aspose.threed.render/cubefacedata`1/negativex) { get; set; } | Получает или задает данные для +X(левой) грани |
-| [NegativeY](../../aspose.threed.render/cubefacedata`1/negativey) { get; set; } | Получает или задает данные для -Y (нижней) грани |
-| [NegativeZ](../../aspose.threed.render/cubefacedata`1/negativez) { get; set; } | Получает или задает данные для -Z (передней) грани |
-| [PositiveX](../../aspose.threed.render/cubefacedata`1/positivex) { get; set; } | Получает или задает данные для +X(правого) лица |
-| [PositiveY](../../aspose.threed.render/cubefacedata`1/positivey) { get; set; } | Получает или задает данные для грани +Y(Top) |
-| [PositiveZ](../../aspose.threed.render/cubefacedata`1/positivez) { get; set; } | Получает или задает данные для +Z (задняя) сторона |
-| [Right](../../aspose.threed.render/cubefacedata`1/right) { get; set; } | Получает или задает данные для +X(правого) лица |
-| [Top](../../aspose.threed.render/cubefacedata`1/top) { get; set; } | Получает или задает данные для грани +Y(Top) |
+| [Left](../../aspose.threed.render/cubefacedata`1/left) { get; set; } | Получает или задает данные для +X(Left) face |
+| [NegativeX](../../aspose.threed.render/cubefacedata`1/negativex) { get; set; } | Получает или задает данные для +X(Left) face |
+| [NegativeY](../../aspose.threed.render/cubefacedata`1/negativey) { get; set; } | Получает или задает данные для -Y(Bottom) face |
+| [NegativeZ](../../aspose.threed.render/cubefacedata`1/negativez) { get; set; } | Получает или задает данные для -Z(Передняя) face |
+| [PositiveX](../../aspose.threed.render/cubefacedata`1/positivex) { get; set; } | Получает или задает данные для +X(Right) face |
+| [PositiveY](../../aspose.threed.render/cubefacedata`1/positivey) { get; set; } | Получает или задает данные для +Y(Top) face |
+| [PositiveZ](../../aspose.threed.render/cubefacedata`1/positivez) { get; set; } | Получает или задает данные для +Z(Назад) face |
+| [Right](../../aspose.threed.render/cubefacedata`1/right) { get; set; } | Получает или задает данные для +X(Right) face |
+| [Top](../../aspose.threed.render/cubefacedata`1/top) { get; set; } | Получает или задает данные для +Y(Top) face |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: TransformedCurve
 second_title: Справочник по Aspose.3D для .NET API
-description: ATransformedCurve./transformedcurveзадает положение кривой с помощью матрицы преобразования. Это позволяет выполнять преобразование внутриTrimmedCurve./trimmedcurveилиCompositeCurve./compositecurve.
+description: АTransformedCurve./transformedcurve дает кривой размещение с помощью матрицы преобразования. Это позволяет выполнять преобразование внутриTrimmedCurve./trimmedcurve или жеCompositeCurve./compositecurve .
 type: docs
 weight: 720
 url: /ru/net/aspose.threed.entities/transformedcurve/
 ---
 ## TransformedCurve class
 
-A[`TransformedCurve`](../transformedcurve)задает положение кривой с помощью матрицы преобразования. Это позволяет выполнять преобразование внутри[`TrimmedCurve`](../trimmedcurve)или[`CompositeCurve`](../compositecurve).
+А[`TransformedCurve`](../transformedcurve) дает кривой размещение с помощью матрицы преобразования. Это позволяет выполнять преобразование внутри[`TrimmedCurve`](../trimmedcurve) или же[`CompositeCurve`](../compositecurve) .
 
 ```csharp
 public class TransformedCurve : Curve
@@ -25,15 +25,15 @@ public class TransformedCurve : Curve
 
 | Имя | Описание |
 | --- | --- |
-| [BasisCurve](../../aspose.threed.entities/transformedcurve/basiscurve) { get; set; } | Базисная кривая. |
+| [BasisCurve](../../aspose.threed.entities/transformedcurve/basiscurve) { get; set; } | Базовая кривая. |
 | [Color](../../aspose.threed.entities/curve/color) { get; set; } | Получает или задает цвет линии, значение по умолчанию — белый (1, 1, 1) |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
-| [TransformMatrix](../../aspose.threed.entities/transformedcurve/transformmatrix) { get; set; } | Матрица преобразования. |
+| [TransformMatrix](../../aspose.threed.entities/transformedcurve/transformmatrix) { get; set; } | Матрица трансформации. |
 
 ## Методы
 
@@ -41,10 +41,10 @@ public class TransformedCurve : Curve
 | --- | --- |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| override [GetEntityRendererKey](../../aspose.threed.entities/curve/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| override [GetEntityRendererKey](../../aspose.threed.entities/curve/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ### Смотрите также

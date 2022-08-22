@@ -1,14 +1,14 @@
 ---
 title: FieldOfView
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает поле просмотра значение по умолчанию равно 45 измеряется в градусах.
+description: Получает или задает поле зрения значение по умолчанию  45 измеряется в градусах.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.formats/html5saveoptions/fieldofview/
 ---
 ## Html5SaveOptions.FieldOfView property
 
-Получает или задает поле просмотра, значение по умолчанию равно 45, измеряется в градусах.
+Получает или задает поле зрения, значение по умолчанию — 45, измеряется в градусах.
 
 ```csharp
 public double FieldOfView { get; set; }

@@ -37,9 +37,9 @@ public static Matrix4 Translate(double tx, double ty, double tz)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tx | Double | X 坐标偏移 |
-| ty | Double | Y 坐标偏移 |
-| tz | Double | Z 坐标偏移量 |
+| tx | Double | X坐标偏移 |
+| ty | Double | Y坐标偏移 |
+| tz | Double | Z坐标偏移 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: VertexElementHole
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementHoleaspose.threed.entities/vertexelementhole.
+description: Инициализирует новый экземплярVertexElementHoleaspose.threed.entities/vertexelementhole класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementhole/vertexelementhole/
 ---
 ## VertexElementHole constructor
 
-Инициализирует новый экземпляр класса[`VertexElementHole`](../../vertexelementhole).
+Инициализирует новый экземпляр[`VertexElementHole`](../../vertexelementhole) класс.
 
 ```csharp
 public VertexElementHole()

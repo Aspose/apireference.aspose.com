@@ -3,7 +3,7 @@ title: ShaderSource
 second_title: Справочник по Aspose.3D для .NET API
 description: Исходный код шейдера
 type: docs
-weight: 2150
+weight: 2160
 url: /ru/net/aspose.threed.render/shadersource/
 ---
 ## ShaderSource class

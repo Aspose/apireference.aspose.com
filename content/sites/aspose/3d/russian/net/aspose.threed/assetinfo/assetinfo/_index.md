@@ -1,14 +1,14 @@
 ---
 title: AssetInfo
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаAssetInfoaspose.threed/assetinfo.
+description: Инициализирует новый экземплярAssetInfoaspose.threed/assetinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed/assetinfo/assetinfo/
 ---
 ## AssetInfo() {#constructor}
 
-Инициализирует новый экземпляр класса[`AssetInfo`](../../assetinfo).
+Инициализирует новый экземпляр[`AssetInfo`](../../assetinfo) класс.
 
 ```csharp
 public AssetInfo()
@@ -24,7 +24,7 @@ public AssetInfo()
 
 ## AssetInfo(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`AssetInfo`](../../assetinfo).
+Инициализирует новый экземпляр[`AssetInfo`](../../assetinfo) класс.
 
 ```csharp
 public AssetInfo(string name)
@@ -32,7 +32,7 @@ public AssetInfo(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя | String | Имя |
+| name | String | Имя |
 
 ### Смотрите также
 

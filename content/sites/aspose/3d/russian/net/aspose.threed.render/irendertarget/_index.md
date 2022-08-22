@@ -1,14 +1,14 @@
 ---
 title: IRenderTarget
 second_title: Справочник по Aspose.3D для .NET API
-description: Базовый интерфейс цели рендеринга
+description: Базовый интерфейс рендера target
 type: docs
-weight: 1880
+weight: 1890
 url: /ru/net/aspose.threed.render/irendertarget/
 ---
 ## IRenderTarget interface
 
-Базовый интерфейс цели рендеринга
+Базовый интерфейс рендера target
 
 ```csharp
 public interface IRenderTarget : IDisposable

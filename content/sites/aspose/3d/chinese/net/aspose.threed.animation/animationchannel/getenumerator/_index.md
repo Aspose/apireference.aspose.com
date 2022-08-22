@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.3D for .NET API 参考
-description: 获取枚举器以遍历此通道内的所有关键帧序列
+description: 获取一个枚举器以遍历此通道内的所有关键帧序列
 type: docs
 weight: 60
 url: /zh/net/aspose.threed.animation/animationchannel/getenumerator/
 ---
 ## AnimationChannel.GetEnumerator method
 
-获取枚举器以遍历此通道内的所有关键帧序列
+获取一个枚举器以遍历此通道内的所有关键帧序列
 
 ```csharp
 public IEnumerator<KeyframeSequence> GetEnumerator()

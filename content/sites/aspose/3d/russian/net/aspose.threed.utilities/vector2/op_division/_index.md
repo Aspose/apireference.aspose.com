@@ -16,7 +16,7 @@ public static Vector2 operator /(Vector2 lhs, double rhs)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lhs | Vector2 | Значение слева. |
+| lhs | Vector2 | Значение левой стороны. |
 | rhs | Double | Значение правой стороны. |
 
 ### Возвращаемое значение

@@ -1,14 +1,14 @@
 ---
 title: FVector4
 second_title: Aspose.3D for .NET API 参考
-description: 初始化FVector4aspose.threed.utilities/fvector4的新实例
+description: 初始化FVector4aspose.threed.utilities/fvector4.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/fvector4/fvector4/
 ---
 ## FVector4(float, float, float, float) {#constructor_4}
 
-初始化[`FVector4`](../../fvector4)的新实例。
+初始化[`FVector4`](../../fvector4).
 
 ```csharp
 public FVector4(float x, float y, float z, float w)
@@ -24,7 +24,7 @@ public FVector4(float x, float y, float z, float w)
 
 ## FVector4(float, float, float) {#constructor_3}
 
-初始化[`FVector4`](../../fvector4)的新实例。
+初始化[`FVector4`](../../fvector4).
 
 ```csharp
 public FVector4(float x, float y, float z)
@@ -40,7 +40,7 @@ public FVector4(float x, float y, float z)
 
 ## FVector4(Color) {#constructor_5}
 
-初始化[`FVector4`](../../fvector4)的新实例。
+初始化[`FVector4`](../../fvector4).
 
 ```csharp
 public FVector4(Color color)
@@ -56,7 +56,7 @@ public FVector4(Color color)
 
 ## FVector4(Vector4) {#constructor_2}
 
-初始化[`FVector4`](../../fvector4)的新实例。
+初始化[`FVector4`](../../fvector4).
 
 ```csharp
 public FVector4(Vector4 vec)
@@ -73,7 +73,7 @@ public FVector4(Vector4 vec)
 
 ## FVector4(Vector3) {#constructor}
 
-初始化[`FVector4`](../../fvector4)的新实例。
+初始化[`FVector4`](../../fvector4).
 
 ```csharp
 public FVector4(Vector3 vec)
@@ -90,7 +90,7 @@ public FVector4(Vector3 vec)
 
 ## FVector4(Vector3, float) {#constructor_1}
 
-初始化[`FVector4`](../../fvector4)的新实例。
+初始化[`FVector4`](../../fvector4).
 
 ```csharp
 public FVector4(Vector3 vec, float w)

@@ -1,14 +1,14 @@
 ---
 title: Mipmap
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает режим фильтра для MIP-карты.
+description: Получает или задает режим фильтра для mipmap.
 type: docs
 weight: 50
 url: /ru/net/aspose.threed.render/itextureunit/mipmap/
 ---
 ## ITextureUnit.Mipmap property
 
-Получает или задает режим фильтра для MIP-карты.
+Получает или задает режим фильтра для mipmap.
 
 ```csharp
 public TextureFilter Mipmap { get; set; }

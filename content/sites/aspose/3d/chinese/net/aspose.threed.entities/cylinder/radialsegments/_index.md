@@ -16,7 +16,7 @@ public int RadialSegments { get; set; }
 
 ### 适当的价值
 
-径向线段。
+径向段。
 
 ### 也可以看看
 

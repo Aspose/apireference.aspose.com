@@ -3,7 +3,7 @@ title: IOUtils
 second_title: Справочник по Aspose.3D для .NET API
 description: Утилиты для записи матрицы/вектора в двоичный модуль записи
 type: docs
-weight: 2540
+weight: 2530
 url: /ru/net/aspose.threed.utilities/ioutils/
 ---
 ## IOUtils class
@@ -18,14 +18,14 @@ public static class IOUtils
 
 | Имя | Описание |
 | --- | --- |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write)(this BinaryWriter, FMatrix4) | Записать матрицу в модуль записи двоичных файлов |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_1)(this BinaryWriter, FVector2) | Записать вектор в модуль записи двоичных файлов |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_2)(this BinaryWriter, FVector3) | Записать вектор в модуль записи двоичных файлов |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_3)(this BinaryWriter, FVector4) | Записать вектор в модуль записи двоичных файлов |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_4)(this BinaryWriter, Matrix4) | Записать матрицу в модуль записи двоичных файлов |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_5)(this BinaryWriter, Vector2) | Записать вектор в модуль записи двоичных файлов |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_6)(this BinaryWriter, Vector3) | Записать вектор в модуль записи двоичных файлов |
-| static [Write](../../aspose.threed.utilities/ioutils/write#write_7)(this BinaryWriter, Vector4) | Записать вектор в модуль записи двоичных файлов |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write)(this BinaryWriter, FMatrix4) | Записать матрицу в бинарный писатель |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_1)(this BinaryWriter, FVector2) | Записать вектор в двоичный модуль записи |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_2)(this BinaryWriter, FVector3) | Записать вектор в двоичный модуль записи |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_3)(this BinaryWriter, FVector4) | Записать вектор в двоичный модуль записи |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_4)(this BinaryWriter, Matrix4) | Записать матрицу в бинарный писатель |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_5)(this BinaryWriter, Vector2) | Записать вектор в двоичный модуль записи |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_6)(this BinaryWriter, Vector3) | Записать вектор в двоичный модуль записи |
+| static [Write](../../aspose.threed.utilities/ioutils/write#write_7)(this BinaryWriter, Vector4) | Записать вектор в двоичный модуль записи |
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-用于调试的该节点的字符串表示。
+用于调试的此节点的字符串表示形式。
 
 ### 也可以看看
 

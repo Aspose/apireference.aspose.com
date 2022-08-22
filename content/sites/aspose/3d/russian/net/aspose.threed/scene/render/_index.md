@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Справочник по Aspose.3D для .NET API
-description: Рендеринг сцены во внешний файл с точки зрения данной камеры. Выходной размер по умолчанию  1024x768 а выходной формат  png
+description: Рендеринг сцены во внешний файл с точки зрения данной камеры. Размер вывода по умолчанию  1024x768 а формат вывода  png
 type: docs
 weight: 150
 url: /ru/net/aspose.threed/scene/render/
 ---
 ## Render(Camera, string) {#render_2}
 
-Рендеринг сцены во внешний файл с точки зрения данной камеры. Выходной размер по умолчанию — 1024x768, а выходной формат — png
+Рендеринг сцены во внешний файл с точки зрения данной камеры. Размер вывода по умолчанию — 1024x768, а формат вывода — png
 
 ```csharp
 public void Render(Camera camera, string fileName)
@@ -16,8 +16,8 @@ public void Render(Camera camera, string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| camera | Camera | С точки зрения какой камеры выполнять рендеринг сцена |
-| fileName | String | Имя выходного файла |
+| camera | Camera | С точки зрения какой камеры рендерить сцену |
+| fileName | String | Имя файла выходного файла |
 
 ### Смотрите также
 
@@ -39,9 +39,9 @@ public void Render(Camera camera, string fileName, Size size, ImageFormat format
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | camera | Camera | С точки зрения какой камеры рендерить сцену |
-| fileName | String | Имя выходного файла |
-| size | Size | Размер конечного изображения |
-| format | ImageFormat | формат изображения выходного файла |
+| fileName | String | Имя файла выходного файла |
+| size | Size | Размер конечного визуализированного изображения |
+| format | ImageFormat | Формат изображения выходного файла |
 
 ### Смотрите также
 
@@ -64,10 +64,10 @@ public void Render(Camera camera, string fileName, Size size, ImageFormat format
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | camera | Camera | С точки зрения какой камеры рендерить сцену |
-| fileName | String | Имя выходного файла |
-| size | Size | Размер конечного изображения |
-| format | ImageFormat | формат изображения выходного файла |
-| options | ImageRenderOptions | Возможность настройки некоторых внутренних параметров. |
+| fileName | String | Имя файла выходного файла |
+| size | Size | Размер конечного визуализированного изображения |
+| format | ImageFormat | Формат изображения выходного файла |
+| options | ImageRenderOptions | Возможность настроить некоторые внутренние параметры. |
 
 ### Смотрите также
 
@@ -113,7 +113,7 @@ public void Render(Camera camera, Bitmap bitmap, ImageRenderOptions options)
 | --- | --- | --- |
 | camera | Camera | С точки зрения какой камеры рендерить сцену |
 | bitmap | Bitmap | Цель визуализированного результата |
-| options | ImageRenderOptions | Возможность настройки некоторых внутренних параметров. |
+| options | ImageRenderOptions | Возможность настроить некоторые внутренние параметры. |
 
 ### Смотрите также
 

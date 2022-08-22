@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置在 y 轴对齐的框的高度
+description: 获取或设置在y轴对齐的盒子的高度
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.entities/box/height/
 ---
 ## Box.Height property
 
-获取或设置在 y 轴对齐的框的高度。
+获取或设置在y轴对齐的盒子的高度。
 
 ```csharp
 public double Height { get; set; }
@@ -16,7 +16,7 @@ public double Height { get; set; }
 
 ### 适当的价值
 
-y轴对齐的高度。
+在 y 轴上对齐的高度。
 
 ### 也可以看看
 

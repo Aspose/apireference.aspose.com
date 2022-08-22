@@ -3,7 +3,7 @@ title: Vector3
 second_title: Справочник по Aspose.3D для .NET API
 description: Вектор с тремя компонентами.
 type: docs
-weight: 2650
+weight: 2640
 url: /ru/net/aspose.threed.utilities/vector3/
 ---
 ## Vector3 structure
@@ -18,11 +18,11 @@ public struct Vector3 : IComparable<Vector3>
 
 | Имя | Описание |
 | --- | --- |
-| [Vector3](vector3#constructor_4)(Color) | Инициализирует новый экземпляр структуры[`Vector3`](../vector3). |
-| [Vector3](vector3#constructor_2)(double) | Инициализирует новый экземпляр структуры[`Vector3`](../vector3). |
-| [Vector3](vector3#constructor)(FVector3) | Инициализирует новый экземпляр структуры[`Vector3`](../vector3). |
-| [Vector3](vector3#constructor_1)(Vector4) | Инициализирует новый экземпляр структуры[`Vector3`](../vector3). |
-| [Vector3](vector3#constructor_3)(double, double, double) | Инициализирует новый экземпляр структуры[`Vector3`](../vector3). |
+| [Vector3](vector3#constructor_4)(Color) | Инициализирует новый экземпляр[`Vector3`](../vector3) структура. |
+| [Vector3](vector3#constructor_2)(double) | Инициализирует новый экземпляр[`Vector3`](../vector3) структура. |
+| [Vector3](vector3#constructor)(FVector3) | Инициализирует новый экземпляр[`Vector3`](../vector3) структура. |
+| [Vector3](vector3#constructor_1)(Vector4) | Инициализирует новый экземпляр[`Vector3`](../vector3) структура. |
+| [Vector3](vector3#constructor_3)(double, double, double) | Инициализирует новый экземпляр[`Vector3`](../vector3) структура. |
 
 ## Характеристики
 
@@ -38,15 +38,15 @@ public struct Vector3 : IComparable<Vector3>
 | [AngleBetween](../../aspose.threed.utilities/vector3/anglebetween#anglebetween)(Vector3) | Вычислить внутренний угол между двумя направлениями Два направления могут быть ненормализованными векторами |
 | [AngleBetween](../../aspose.threed.utilities/vector3/anglebetween#anglebetween_1)(Vector3, Vector3) | Вычислить внутренний угол между двумя направлениями Два направления могут быть ненормализованными векторами |
 | [CompareTo](../../aspose.threed.utilities/vector3/compareto)(Vector3) | Сравнить текущий вектор с другим экземпляром. |
-| [Cos](../../aspose.threed.utilities/vector3/cos)() | Вычисляет косинус каждой компоненты |
+| [Cos](../../aspose.threed.utilities/vector3/cos)() | Вычисляет косинус для каждого компонента |
 | [Cross](../../aspose.threed.utilities/vector3/cross)(Vector3) | Перекрестное произведение двух векторов |
 | [Dot](../../aspose.threed.utilities/vector3/dot)(Vector3) | Получает скалярное произведение двух векторов |
 | override [Equals](../../aspose.threed.utilities/vector3/equals)(object) | Проверить, равны ли два вектора3 |
 | override [GetHashCode](../../aspose.threed.utilities/vector3/gethashcode)() | Получает хэш-код Vector3 |
 | [Normalize](../../aspose.threed.utilities/vector3/normalize)() | Нормализует этот экземпляр. |
-| [Set](../../aspose.threed.utilities/vector3/set)(double, double, double) | Устанавливает компонент x/y/z одним вызовом. |
-| [Sin](../../aspose.threed.utilities/vector3/sin)() | Вычисляет синус каждой составляющей |
-| override [ToString](../../aspose.threed.utilities/vector3/tostring)() | ВозвращаетString, который представляет текущий[`Vector3`](../vector3). |
+| [Set](../../aspose.threed.utilities/vector3/set)(double, double, double) | Устанавливает компонент x/y/z за один вызов. |
+| [Sin](../../aspose.threed.utilities/vector3/sin)() | Вычисляет синус для каждого компонента |
+| override [ToString](../../aspose.threed.utilities/vector3/tostring)() | ВозвращаетStringкоторый представляет текущий[`Vector3`](../vector3) . |
 | [operator +](../../aspose.threed.utilities/vector3/op_addition) | Перегрузка оператора для + |
 | [operator /](../../aspose.threed.utilities/vector3/op_division) | Перегрузка оператора для / |
 | [operator ==](../../aspose.threed.utilities/vector3/op_equality) | Оператор равенства для Vector3 |

@@ -1,14 +1,14 @@
 ---
 title: SetWeight
 second_title: Справочник по Aspose.3D для .NET API
-description: Устанавливает вес контрольной точки указанной индексом
+description: Устанавливает вес для контрольной точки указанной index
 type: docs
 weight: 80
 url: /ru/net/aspose.threed.deformers/bone/setweight/
 ---
 ## Bone.SetWeight method
 
-Устанавливает вес контрольной точки, указанной индексом
+Устанавливает вес для контрольной точки, указанной index
 
 ```csharp
 public void SetWeight(int index, double weight)
@@ -16,8 +16,8 @@ public void SetWeight(int index, double weight)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Control индекс точки |
-| вес | Double | Новый вес |
+| index | Int32 | Индекс контрольной точки |
+| weight | Double | Новый вес |
 
 ### Смотрите также
 

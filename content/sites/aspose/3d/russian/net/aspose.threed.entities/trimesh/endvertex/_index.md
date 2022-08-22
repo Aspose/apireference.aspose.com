@@ -1,14 +1,14 @@
 ---
 title: EndVertex
 second_title: Справочник по Aspose.3D для .NET API
-description: Конец добавления вершины
+description: Завершить добавление вершины
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.entities/trimesh/endvertex/
 ---
 ## TriMesh.EndVertex method
 
-Конец добавления вершины
+Завершить добавление вершины
 
 ```csharp
 public void EndVertex()

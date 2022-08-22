@@ -1,14 +1,14 @@
 ---
 title: SemanticAttribute
 second_title: Aspose.3D for .NET API 参考
-description: 允许用户使用自己的结构来静态声明VertexDeclaration./vertexdeclaration
+description: 允许用户使用自己的结构进行静态声明VertexDeclaration./vertexdeclaration
 type: docs
-weight: 2620
+weight: 2610
 url: /zh/net/aspose.threed.utilities/semanticattribute/
 ---
 ## SemanticAttribute class
 
-允许用户使用自己的结构来静态声明[`VertexDeclaration`](../vertexdeclaration)
+允许用户使用自己的结构进行静态声明[`VertexDeclaration`](../vertexdeclaration)
 
 ```csharp
 [AttributeUsage(AttributeTargets.Field)]
@@ -19,15 +19,15 @@ public sealed class SemanticAttribute : Attribute
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SemanticAttribute](semanticattribute#constructor)(VertexFieldSemantic) | 初始化[`SemanticAttribute`](../semanticattribute) |
-| [SemanticAttribute](semanticattribute#constructor_1)(VertexFieldSemantic, string) | 初始化[`SemanticAttribute`](../semanticattribute) |
+| [SemanticAttribute](semanticattribute#constructor)(VertexFieldSemantic) | 初始化一个[`SemanticAttribute`](../semanticattribute) |
+| [SemanticAttribute](semanticattribute#constructor_1)(VertexFieldSemantic, string) | 初始化一个[`SemanticAttribute`](../semanticattribute) |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Alias](../../aspose.threed.utilities/semanticattribute/alias) { get; } | 顶点字段的别名 |
-| [Semantic](../../aspose.threed.utilities/semanticattribute/semantic) { get; } | 顶点字段的语义 |
+| [Semantic](../../aspose.threed.utilities/semanticattribute/semantic) { get; } | 顶点域的语义 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: TextureSlot
 second_title: Aspose.3D for .NET API 参考
-description: Material./material中的纹理槽可以通过材质实例枚举
+description: 中的纹理槽Material./material 可以通过材质实例枚举.
 type: docs
-weight: 2390
+weight: 2380
 url: /zh/net/aspose.threed.shading/textureslot/
 ---
 ## TextureSlot class
 
-[`Material`](../material)中的纹理槽，可以通过材质实例枚举。
+中的纹理槽[`Material`](../material) 可以通过材质实例枚举.
 
 ```csharp
 public class TextureSlot
@@ -18,7 +18,7 @@ public class TextureSlot
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SlotName](../../aspose.threed.shading/textureslot/slotname) { get; } | 插槽名称，指示此纹理将绑定到的位置。 |
+| [SlotName](../../aspose.threed.shading/textureslot/slotname) { get; } | 指示此纹理将绑定到何处的插槽名称。 |
 | [Texture](../../aspose.threed.shading/textureslot/texture) { get; } | 将绑定到材质的纹理。 |
 
 ### 也可以看看

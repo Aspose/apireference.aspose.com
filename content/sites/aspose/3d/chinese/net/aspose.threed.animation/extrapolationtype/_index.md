@@ -18,8 +18,8 @@ public enum ExtrapolationType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Constant | `0` | 值将保持与上一个值相同的值 |
-| Gradient | `1` | 值将在时间上保持相同的斜率 |
+| Constant | `0` | 值将保持与最后一个值相同的值 |
+| Gradient | `1` | 值将在 time 之前保持相同的斜率 |
 | Cycle | `2` | 重复。 |
 | CycleRelative | `3` | 根据最后一个值重复上一个模式 |
 | Oscillate | `4` | 镜像重复。 |

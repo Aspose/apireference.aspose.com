@@ -18,9 +18,9 @@ public virtual void PrepareRenderQueue(Renderer renderer, IRenderQueue queue, No
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | renderer | Renderer | Текущий экземпляр рендерера |
-| queue | IRenderQueue | Очередь рендеринга используется для управления задачами рендеринга |
+| queue | IRenderQueue | Очередь рендеринга, используемая для управления задачами рендеринга |
 | node | Node | Текущий узел |
-| entity | Entity | Объект, который необходимо визуализировать |
+| entity | Entity | Объект, который необходимо отобразить |
 
 ### Смотрите также
 

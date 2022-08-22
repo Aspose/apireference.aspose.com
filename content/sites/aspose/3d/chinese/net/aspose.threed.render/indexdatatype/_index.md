@@ -1,14 +1,14 @@
 ---
 title: IndexDataType
 second_title: Aspose.3D for .NET API 参考
-description: IIndexBuffer./iindexbuffer
+description: 中元素的数据类型IIndexBuffer./iindexbuffer
 type: docs
-weight: 1960
+weight: 1970
 url: /zh/net/aspose.threed.render/indexdatatype/
 ---
 ## IndexDataType enumeration
 
-[`IIndexBuffer`](../iindexbuffer)
+中元素的数据类型[`IIndexBuffer`](../iindexbuffer)
 
 ```csharp
 public enum IndexDataType
@@ -18,8 +18,8 @@ public enum IndexDataType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Int32 | `0` | 索引缓冲区的元素是 32bit int |
-| Int16 | `1` | 索引缓冲区的元素是 16bit int |
+| Int32 | `0` | 索引缓冲区的元素是 32 位 int |
+| Int16 | `1` | 索引缓冲区的元素是 16 位 int |
 
 ### 也可以看看
 

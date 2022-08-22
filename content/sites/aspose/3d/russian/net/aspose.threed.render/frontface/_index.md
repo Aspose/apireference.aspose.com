@@ -3,7 +3,7 @@ title: FrontFace
 second_title: Справочник по Aspose.3D для .NET API
 description: Определить передние и задние многоугольники
 type: docs
-weight: 1800
+weight: 1810
 url: /ru/net/aspose.threed.render/frontface/
 ---
 ## FrontFace enumeration
@@ -19,7 +19,7 @@ public enum FrontFace
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Clockwise | `0` | По часовой стрелке лицевая сторона |
-| CounterClockwise | `1` | Против часовой стрелки лицевой стороной |
+| CounterClockwise | `1` | Порядок против часовой стрелки - лицевая сторона |
 
 ### Смотрите также
 

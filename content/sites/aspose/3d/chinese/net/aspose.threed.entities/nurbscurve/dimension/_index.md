@@ -16,7 +16,7 @@ public CurveDimension Dimension { get; set; }
 
 ### 评论
 
-对于TwoDimensional曲线，控制点中的z分量未使用。
+对于一个TwoDimensional曲线，控制点中的z分量未使用。
 
 ### 也可以看看
 

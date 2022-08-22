@@ -1,14 +1,14 @@
 ---
 title: GetBoundingBox
 second_title: Справочник по Aspose.3D для .NET API
-description: Вычислить ограничивающую рамку узла
+description: Вычислить ограничивающую рамку node
 type: docs
 weight: 190
 url: /ru/net/aspose.threed/node/getboundingbox/
 ---
 ## Node.GetBoundingBox method
 
-Вычислить ограничивающую рамку узла
+Вычислить ограничивающую рамку node
 
 ```csharp
 public BoundingBox GetBoundingBox()

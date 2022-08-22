@@ -1,14 +1,14 @@
 ---
 title: KeepBuiltinGlobalSettings
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает следует ли сохранять встроенные свойства в GlobalSettings которые имеют замену собственного свойства вAssetInfoaspose.threed/assetinfo. Установите для этого параметра значение true если вы хотите получить полные свойства в GlobalSettings Значение по умолчанию - false
+description: Получает или задает следует ли сохранять встроенные свойства в GlobalSettings которые имеют замену собственного свойства вAssetInfoaspose.threed/assetinfo . Установите для этого параметра значение true если вы хотите использовать полные свойства в GlobalSettings Значение по умолчанию  false
 type: docs
 weight: 20
 url: /ru/net/aspose.threed.formats/fbxloadoptions/keepbuiltinglobalsettings/
 ---
 ## FbxLoadOptions.KeepBuiltinGlobalSettings property
 
-Получает или задает, следует ли сохранять встроенные свойства в GlobalSettings, которые имеют замену собственного свойства в[`AssetInfo`](../../../aspose.threed/assetinfo). Установите для этого параметра значение true, если вы хотите получить полные свойства в GlobalSettings Значение по умолчанию - false
+Получает или задает, следует ли сохранять встроенные свойства в GlobalSettings, которые имеют замену собственного свойства в[`AssetInfo`](../../../aspose.threed/assetinfo) . Установите для этого параметра значение true, если вы хотите использовать полные свойства в GlobalSettings Значение по умолчанию — false
 
 ```csharp
 public bool KeepBuiltinGlobalSettings { get; set; }

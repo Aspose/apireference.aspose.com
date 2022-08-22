@@ -1,14 +1,14 @@
 ---
 title: ShaderTechnique
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаShaderTechniqueaspose.threed.shading/shadertechnique.
+description: Инициализирует новый экземплярShaderTechniqueaspose.threed.shading/shadertechnique класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.shading/shadertechnique/shadertechnique/
 ---
 ## ShaderTechnique constructor
 
-Инициализирует новый экземпляр класса[`ShaderTechnique`](../../shadertechnique).
+Инициализирует новый экземпляр[`ShaderTechnique`](../../shadertechnique) класс.
 
 ```csharp
 public ShaderTechnique()

@@ -3,7 +3,7 @@ title: NodeVisitor
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1470
+weight: 1480
 url: /net/aspose.threed/nodevisitor/
 ---
 ## NodeVisitor delegate

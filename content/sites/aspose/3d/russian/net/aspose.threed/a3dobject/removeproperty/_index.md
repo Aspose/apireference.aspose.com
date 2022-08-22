@@ -20,7 +20,7 @@ public bool RemoveProperty(Property property)
 
 ### Возвращаемое значение
 
-true, если свойство успешно удален
+true, если свойство успешно удалено
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ true, если свойство успешно удален
 
 ## RemoveProperty(string) {#removeproperty_1}
 
-Удалить указанное свойство, идентифицированное по имени
+Удалить указанное свойство с именем name
 
 ```csharp
 public bool RemoveProperty(string property)

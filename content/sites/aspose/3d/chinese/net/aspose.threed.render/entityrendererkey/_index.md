@@ -1,14 +1,14 @@
 ---
 title: EntityRendererKey
 second_title: Aspose.3D for .NET API 参考
-description: 注册实体渲染器的键
+description: 注册实体渲染器的key
 type: docs
-weight: 1790
+weight: 1800
 url: /zh/net/aspose.threed.render/entityrendererkey/
 ---
 ## EntityRendererKey class
 
-注册实体渲染器的键
+注册实体渲染器的key
 
 ```csharp
 public sealed class EntityRendererKey
@@ -18,13 +18,13 @@ public sealed class EntityRendererKey
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EntityRendererKey](entityrendererkey)(string) | 的构造函数 [`EntityRendererKey`](../entityrendererkey) |
+| [EntityRendererKey](entityrendererkey)(string) | 的构造函数[`EntityRendererKey`](../entityrendererkey) |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.threed.render/entityrendererkey/tostring)() | 获取字符串的表示形式 [`EntityRendererKey`](../entityrendererkey) |
+| override [ToString](../../aspose.threed.render/entityrendererkey/tostring)() | 获取字符串的表示形式[`EntityRendererKey`](../entityrendererkey) |
 
 ### 也可以看看
 

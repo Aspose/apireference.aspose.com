@@ -1,14 +1,14 @@
 ---
 title: BlendFactor
 second_title: Справочник по Aspose.3D для .NET API
-description: Коэффициент смешивания задает арифметику пикселей.
+description: Коэффициент смешивания определяет арифметику пикселей.
 type: docs
-weight: 1690
+weight: 1700
 url: /ru/net/aspose.threed.render/blendfactor/
 ---
 ## BlendFactor enumeration
 
-Коэффициент смешивания задает арифметику пикселей.
+Коэффициент смешивания определяет арифметику пикселей.
 
 ```csharp
 public enum BlendFactor
@@ -20,18 +20,18 @@ public enum BlendFactor
 | --- | --- | --- |
 | Zero | `0` | Коэффициент смешивания равен vec4(0) |
 | One | `1` | Коэффициент смешивания равен vec4(1) |
-| SrcColor | `2` | Коэффициент смешивания равен src.rgba |
-| OneMinusSrcColor | `3` | Коэффициент смешивания равен vec4(1) - src.rgba |
-| DstColor | `4` | Коэффициент смешивания равен dst.rgba |
-| OneMinusDstColor | `5` | Коэффициент смешивания равен vec4(1) - dst.rgba |
-| SrcAlpha | `6` | Коэффициент смешивания равен vec4(src.a) |
+| SrcColor | `2` | Фактор смешивания: src.rgba |
+| OneMinusSrcColor | `3` | Фактор смешивания vec4(1) - src.rgba |
+| DstColor | `4` | Фактор смешивания: dst.rgba |
+| OneMinusDstColor | `5` | Коэффициент наложения vec4(1) - dst.rgba |
+| SrcAlpha | `6` | Фактор смешивания vec4(src.a) |
 | OneMinusSrcAlpha | `7` | Коэффициент смешивания равен vec4(1 - src.a) |
 | DstAlpha | `8` | Коэффициент смешивания равен vec4(dst.a) |
-| OneMinusDstAlpha | `9` | Фактор смешивания равен vec4(1 - dst.a) |
-| ConstantColor | `10` | Коэффициент смешивания равен c, где c указано в[`BlendColor`](../renderstate/blendcolor) |
-| OneMinusConstantColor | `11` | Коэффициент смешивания равен vec4(1) - c, где c указано в[`BlendColor`](../renderstate/blendcolor) |
-| ConstantAlpha | `12` | Коэффициент смешивания равен vec4(ca), где c указывается в[`BlendColor`](../renderstate/blendcolor) |
-| OneMinusConstantAlpha | `13` | Коэффициент смешивания равен vec4(1 - ca), где c указывается в[`BlendColor`](../renderstate/blendcolor) |
+| OneMinusDstAlpha | `9` | Коэффициент смешивания равен vec4(1 - dst.a) |
+| ConstantColor | `10` | Коэффициент смешивания равен c, где c указывается в[`BlendColor`](../renderstate/blendcolor) |
+| OneMinusConstantColor | `11` | Фактор смешивания равен vec4(1) - c, где c указывается в[`BlendColor`](../renderstate/blendcolor) |
+| ConstantAlpha | `12` | Фактор смешивания равен vec4(ca), где c указывается в[`BlendColor`](../renderstate/blendcolor) |
+| OneMinusConstantAlpha | `13` | Фактор смешивания равен vec4(1 - ca), где c указывается в[`BlendColor`](../renderstate/blendcolor) |
 | SrcAlphaSaturate | `14` | Коэффициент смешивания min(src.a, 1 - dst.a) |
 
 ### Смотрите также

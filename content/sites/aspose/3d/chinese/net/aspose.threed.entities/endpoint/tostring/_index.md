@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 返回当前端点的字符串表示
+description: 返回当前端点的字符串表示形式
 type: docs
 weight: 70
 url: /zh/net/aspose.threed.entities/endpoint/tostring/
 ---
 ## EndPoint.ToString method
 
-返回当前端点的字符串表示。
+返回当前端点的字符串表示形式。
 
 ```csharp
 public override string ToString()

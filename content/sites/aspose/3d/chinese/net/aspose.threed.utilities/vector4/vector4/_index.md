@@ -1,14 +1,14 @@
 ---
 title: Vector4
 second_title: Aspose.3D for .NET API 参考
-description: 初始化Vector4aspose.threed.utilities/vector4结构的新实例
+description: 初始化Vector4aspose.threed.utilities/vector4 struct.
 type: docs
 weight: 10
 url: /zh/net/aspose.threed.utilities/vector4/vector4/
 ---
 ## Vector4(Color) {#constructor_5}
 
-初始化[`Vector4`](../../vector4)结构的新实例。
+初始化[`Vector4`](../../vector4) struct.
 
 ```csharp
 public Vector4(Color color)
@@ -28,7 +28,7 @@ public Vector4(Color color)
 
 ## Vector4(Vector3, double) {#constructor_2}
 
-初始化[`Vector4`](../../vector4)结构的新实例。
+初始化[`Vector4`](../../vector4) struct.
 
 ```csharp
 public Vector4(Vector3 vec, double w)
@@ -36,7 +36,7 @@ public Vector4(Vector3 vec, double w)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| vec | Vector3 | Vec. |
+| vec | Vector3 | 向量。 |
 | w | Double | 宽度。 |
 
 ### 也可以看看
@@ -50,7 +50,7 @@ public Vector4(Vector3 vec, double w)
 
 ## Vector4(Vector3) {#constructor_1}
 
-初始化[`Vector4`](../../vector4)结构的新实例。
+初始化[`Vector4`](../../vector4) struct.
 
 ```csharp
 public Vector4(Vector3 vec)
@@ -58,7 +58,7 @@ public Vector4(Vector3 vec)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| vec | Vector3 | Vec. |
+| vec | Vector3 | 向量。 |
 
 ### 也可以看看
 
@@ -71,7 +71,7 @@ public Vector4(Vector3 vec)
 
 ## Vector4(FVector4) {#constructor}
 
-初始化[`Vector4`](../../vector4)结构的新实例。
+初始化[`Vector4`](../../vector4) struct.
 
 ```csharp
 public Vector4(FVector4 vec)
@@ -79,7 +79,7 @@ public Vector4(FVector4 vec)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| vec | FVector4 | Vec. |
+| vec | FVector4 | 向量。 |
 
 ### 也可以看看
 
@@ -92,7 +92,7 @@ public Vector4(FVector4 vec)
 
 ## Vector4(double, double, double) {#constructor_3}
 
-初始化[`Vector4`](../../vector4)结构的新实例。
+初始化[`Vector4`](../../vector4) struct.
 
 ```csharp
 public Vector4(double x, double y, double z)
@@ -114,7 +114,7 @@ public Vector4(double x, double y, double z)
 
 ## Vector4(double, double, double, double) {#constructor_4}
 
-初始化[`Vector4`](../../vector4)结构的新实例。
+初始化[`Vector4`](../../vector4) struct.
 
 ```csharp
 public Vector4(double x, double y, double z, double w)

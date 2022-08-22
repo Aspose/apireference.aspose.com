@@ -1,14 +1,14 @@
 ---
 title: FileName
 second_title: Aspose.3D for .NET API 参考
-description: 导出/导入场景的文件名 这是可选的但在序列化外部资产如 OBJ 的材料时很有用
+description: 导出/导入场景的文件名 这是可选的但在序列化外部资产如 OBJ 的材质时很有用
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.formats/ioconfig/filename/
 ---
 ## IOConfig.FileName property
 
-导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材料）时很有用。
+导出/导入场景的文件名。 这是可选的，但在序列化外部资产（如 OBJ 的材质）时很有用。
 
 ```csharp
 public string FileName { get; set; }

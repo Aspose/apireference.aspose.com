@@ -1,14 +1,14 @@
 ---
 title: Node
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает узел. Узел кости  это кость к которой прикреплен скинSkinDeformeraspose.threed.deformers/skindeformerбудет использовать узел кости чтобы влиять на смещение контрольных точек. К узлу кости обычно прикрепляетсяSkeletonaspose.threed.entities/skeleton но это не обязательно. ПрикрепленSkeletonaspose.threed.entities/skeletonобычно используется программным обеспечением DCC для показа скелета пользователю.
+description: Получает или задает узел. Костный узел  это кость к которой прикреплена кожаSkinDeformeraspose.threed.deformers/skindeformer будет использовать узел кости чтобы повлиять на смещение контрольных точек. Узел кости обычно имеетSkeletonaspose.threed.entities/skeletonприлагается но не обязательно. ПрикрепленSkeletonaspose.threed.entities/skeleton обычно используется программным обеспечением DCC чтобы показать скелет пользователю.
 type: docs
 weight: 40
 url: /ru/net/aspose.threed.deformers/bone/node/
 ---
 ## Bone.Node property
 
-Получает или задает узел. Узел кости — это кость, к которой прикреплен скин,[`SkinDeformer`](../../skindeformer)будет использовать узел кости, чтобы влиять на смещение контрольных точек. К узлу кости обычно прикрепляется[`Skeleton`](../../../aspose.threed.entities/skeleton), но это не обязательно. Прикреплен[`Skeleton`](../../../aspose.threed.entities/skeleton)обычно используется программным обеспечением DCC для показа скелета пользователю.
+Получает или задает узел. Костный узел – это кость, к которой прикреплена кожа,[`SkinDeformer`](../../skindeformer) будет использовать узел кости, чтобы повлиять на смещение контрольных точек. Узел кости обычно имеет[`Skeleton`](../../../aspose.threed.entities/skeleton)прилагается, но не обязательно. Прикреплен[`Skeleton`](../../../aspose.threed.entities/skeleton) обычно используется программным обеспечением DCC, чтобы показать скелет пользователю.
 
 ```csharp
 public Node Node { get; set; }

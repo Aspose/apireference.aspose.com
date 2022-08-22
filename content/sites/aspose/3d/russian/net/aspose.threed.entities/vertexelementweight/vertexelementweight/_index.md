@@ -1,14 +1,14 @@
 ---
 title: VertexElementWeight
 second_title: Справочник по Aspose.3D для .NET API
-description: Инициализирует новый экземпляр классаVertexElementWeightaspose.threed.entities/vertexelementweight.
+description: Инициализирует новый экземплярVertexElementWeightaspose.threed.entities/vertexelementweight класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.entities/vertexelementweight/vertexelementweight/
 ---
 ## VertexElementWeight constructor
 
-Инициализирует новый экземпляр класса[`VertexElementWeight`](../../vertexelementweight).
+Инициализирует новый экземпляр[`VertexElementWeight`](../../vertexelementweight) класс.
 
 ```csharp
 public VertexElementWeight()

@@ -16,8 +16,8 @@ public double AngleBetween(Vector3 dir, Vector3 up)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dir | Vector3 | 与 |
-| up | Vector3 | 两个方向共享平面的向上向量 |
+| dir | Vector3 | 比较的方向向量 |
+| up | Vector3 | 两个方向共享平面的上向量 |
 
 ### 返回值
 
@@ -41,7 +41,7 @@ public double AngleBetween(Vector3 dir)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dir | Vector3 | 要与 |
+| dir | Vector3 | 比较的方向向量 |
 
 ### 返回值
 

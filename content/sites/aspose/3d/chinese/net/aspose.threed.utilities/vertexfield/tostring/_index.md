@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.3D for .NET API 参考
-description: 获取字符串表示 VertexFieldaspose.threed.utilities/vertexfield
+description: 获取字符串表示VertexFieldaspose.threed.utilities/vertexfield
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.utilities/vertexfield/tostring/
 ---
 ## VertexField.ToString method
 
-获取字符串表示 [`VertexField`](../../vertexfield)
+获取字符串表示[`VertexField`](../../vertexfield)
 
 ```csharp
 public override string ToString()

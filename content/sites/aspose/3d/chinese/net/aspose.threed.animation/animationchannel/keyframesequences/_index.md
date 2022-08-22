@@ -1,14 +1,14 @@
 ---
 title: KeyframeSequences
 second_title: Aspose.3D for .NET API 参考
-description: 获取该频道内的所有关键帧序列
+description: 获取该通道内的所有关键帧序列
 type: docs
 weight: 30
 url: /zh/net/aspose.threed.animation/animationchannel/keyframesequences/
 ---
 ## AnimationChannel.KeyframeSequences property
 
-获取该频道内的所有关键帧序列
+获取该通道内的所有关键帧序列
 
 ```csharp
 public IList<KeyframeSequence> KeyframeSequences { get; }

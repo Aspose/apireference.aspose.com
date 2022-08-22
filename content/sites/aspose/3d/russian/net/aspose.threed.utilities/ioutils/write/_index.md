@@ -1,14 +1,14 @@
 ---
 title: Write
 second_title: Справочник по Aspose.3D для .NET API
-description: Записать матрицу в модуль записи двоичных файлов
+description: Записать матрицу в бинарный писатель
 type: docs
 weight: 10
 url: /ru/net/aspose.threed.utilities/ioutils/write/
 ---
 ## Write(this BinaryWriter, Matrix4) {#write_4}
 
-Записать матрицу в модуль записи двоичных файлов
+Записать матрицу в бинарный писатель
 
 ```csharp
 public static void Write(this BinaryWriter writer, Matrix4 mat)
@@ -16,7 +16,7 @@ public static void Write(this BinaryWriter writer, Matrix4 mat)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| writer | BinaryWriter | Целевой модуль записи двоичных файлов |
+| writer | BinaryWriter | Целевой двоичный модуль записи |
 | mat | Matrix4 | Матрица для записи |
 
 ### Смотрите также
@@ -30,7 +30,7 @@ public static void Write(this BinaryWriter writer, Matrix4 mat)
 
 ## Write(this BinaryWriter, FMatrix4) {#write}
 
-Записать матрицу в модуль записи двоичных файлов
+Записать матрицу в бинарный писатель
 
 ```csharp
 public static void Write(this BinaryWriter writer, FMatrix4 mat)
@@ -38,7 +38,7 @@ public static void Write(this BinaryWriter writer, FMatrix4 mat)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| writer | BinaryWriter | Целевой модуль записи двоичных файлов |
+| writer | BinaryWriter | Целевой двоичный модуль записи |
 | mat | FMatrix4 | Матрица для записи |
 
 ### Смотрите также
@@ -52,7 +52,7 @@ public static void Write(this BinaryWriter writer, FMatrix4 mat)
 
 ## Write(this BinaryWriter, FVector2) {#write_1}
 
-Записать вектор в модуль записи двоичных файлов
+Записать вектор в двоичный модуль записи
 
 ```csharp
 public static void Write(this BinaryWriter writer, FVector2 v)
@@ -60,7 +60,7 @@ public static void Write(this BinaryWriter writer, FVector2 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| writer | BinaryWriter | Целевой модуль записи двоичных файлов |
+| writer | BinaryWriter | Целевой двоичный модуль записи |
 | v | FVector2 | Вектор для записи |
 
 ### Смотрите также
@@ -74,7 +74,7 @@ public static void Write(this BinaryWriter writer, FVector2 v)
 
 ## Write(this BinaryWriter, FVector3) {#write_2}
 
-Записать вектор в модуль записи двоичных файлов
+Записать вектор в двоичный модуль записи
 
 ```csharp
 public static void Write(this BinaryWriter writer, FVector3 v)
@@ -82,7 +82,7 @@ public static void Write(this BinaryWriter writer, FVector3 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| writer | BinaryWriter | Целевой модуль записи двоичных файлов |
+| writer | BinaryWriter | Целевой двоичный модуль записи |
 | v | FVector3 | Вектор для записи |
 
 ### Смотрите также
@@ -96,7 +96,7 @@ public static void Write(this BinaryWriter writer, FVector3 v)
 
 ## Write(this BinaryWriter, FVector4) {#write_3}
 
-Записать вектор в модуль записи двоичных файлов
+Записать вектор в двоичный модуль записи
 
 ```csharp
 public static void Write(this BinaryWriter writer, FVector4 v)
@@ -104,7 +104,7 @@ public static void Write(this BinaryWriter writer, FVector4 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| writer | BinaryWriter | Целевой модуль записи двоичных файлов |
+| writer | BinaryWriter | Целевой двоичный модуль записи |
 | v | FVector4 | Вектор для записи |
 
 ### Смотрите также
@@ -118,7 +118,7 @@ public static void Write(this BinaryWriter writer, FVector4 v)
 
 ## Write(this BinaryWriter, Vector2) {#write_5}
 
-Записать вектор в модуль записи двоичных файлов
+Записать вектор в двоичный модуль записи
 
 ```csharp
 public static void Write(this BinaryWriter writer, Vector2 v)
@@ -126,7 +126,7 @@ public static void Write(this BinaryWriter writer, Vector2 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| writer | BinaryWriter | Целевой модуль записи двоичных файлов |
+| writer | BinaryWriter | Целевой двоичный модуль записи |
 | v | Vector2 | Вектор для записи |
 
 ### Смотрите также
@@ -140,7 +140,7 @@ public static void Write(this BinaryWriter writer, Vector2 v)
 
 ## Write(this BinaryWriter, Vector3) {#write_6}
 
-Записать вектор в модуль записи двоичных файлов
+Записать вектор в двоичный модуль записи
 
 ```csharp
 public static void Write(this BinaryWriter writer, Vector3 v)
@@ -148,7 +148,7 @@ public static void Write(this BinaryWriter writer, Vector3 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| writer | BinaryWriter | Целевой модуль записи двоичных файлов |
+| writer | BinaryWriter | Целевой двоичный модуль записи |
 | v | Vector3 | Вектор для записи |
 
 ### Смотрите также
@@ -162,7 +162,7 @@ public static void Write(this BinaryWriter writer, Vector3 v)
 
 ## Write(this BinaryWriter, Vector4) {#write_7}
 
-Записать вектор в модуль записи двоичных файлов
+Записать вектор в двоичный модуль записи
 
 ```csharp
 public static void Write(this BinaryWriter writer, Vector4 v)
@@ -170,7 +170,7 @@ public static void Write(this BinaryWriter writer, Vector4 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| writer | BinaryWriter | Целевой модуль записи двоичных файлов |
+| writer | BinaryWriter | Целевой двоичный модуль записи |
 | v | Vector4 | Вектор для записи |
 
 ### Смотрите также

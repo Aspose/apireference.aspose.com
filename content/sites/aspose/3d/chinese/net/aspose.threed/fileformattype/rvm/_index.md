@@ -1,14 +1,14 @@
 ---
 title: Rvm
 second_title: Aspose.3D for .NET API 参考
-description: AVEVA 工厂设计管理系统模型
+description: AVEVA 工厂设计管理系统模型.
 type: docs
 weight: 150
 url: /zh/net/aspose.threed/fileformattype/rvm/
 ---
 ## FileFormatType.Rvm field
 
-AVEVA 工厂设计管理系统模型。
+AVEVA 工厂设计管理系统模型.
 
 ```csharp
 public static readonly FileFormatType Rvm;

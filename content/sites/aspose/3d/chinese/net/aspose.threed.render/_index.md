@@ -12,48 +12,48 @@ url: /zh/net/aspose.threed.render/
 
 | 班级 | 描述 |
 | --- | --- |
-| [DescriptorSetUpdater](./descriptorsetupdater) | 此类允许在链操作中更新[`IDescriptorSet`](../aspose.threed.render/idescriptorset)。 |
+| [DescriptorSetUpdater](./descriptorsetupdater) | 这个类允许更新[`IDescriptorSet`](../aspose.threed.render/idescriptorset)在链式操作中。 |
 | [DriverException](./driverexception) | 内部渲染驱动程序引发的异常。 |
-| [EntityRenderer](./entityrenderer) | 子类这个以实现不同类型实体的渲染。 |
-| [EntityRendererKey](./entityrendererkey) | 注册实体渲染器的键 |
+| [EntityRenderer](./entityrenderer) | 将其子类化以实现不同类型实体的渲染。 |
+| [EntityRendererKey](./entityrendererkey) | 注册实体渲染器的key |
 | [GLSLSource](./glslsource) | GLSL 中着色器的源代码 |
-| [InitializationException](./initializationexception) | 渲染管道初始化异常 |
+| [InitializationException](./initializationexception) | 渲染管道初始化中的异常 |
 | [PostProcessing](./postprocessing) | 后期处理效果 |
 | [PushConstant](./pushconstant) | 通过推送常量向着色器提供数据的实用程序。 |
 | [Renderer](./renderer) | 关于渲染器的上下文。 |
-| [RendererVariableManager](./renderervariablemanager) | 此类管理渲染中使用的变量 |
+| [RendererVariableManager](./renderervariablemanager) | 这个类管理渲染中使用的变量 |
 | [RenderFactory](./renderfactory) | RenderFactory 创建渲染管道中表示的所有资源。 |
 | [RenderParameters](./renderparameters) | 描述渲染目标的参数 |
-| [RenderResource](./renderresource) | 所有渲染资源的抽象类 所有渲染资源都会在渲染器释放时被释放。 [`Mesh`](../aspose.threed.entities/mesh)/[`Texture`](../aspose.threed.shading/texture)等类将具有相应的 RenderResource |
+| [RenderResource](./renderresource) | 所有渲染资源的抽象类 所有渲染资源会在渲染器释放时被释放 类如[`Mesh`](../aspose.threed.entities/mesh)/[`Texture`](../aspose.threed.shading/texture)会有对应的RenderResource |
 | [RenderState](./renderstate) | 用于构建管道的渲染状态 对渲染状态所做的更改不会影响创建的管道实例。 |
 | [ShaderException](./shaderexception) | 着色器相关异常 |
 | [ShaderProgram](./shaderprogram) | 着色器程序 |
-| [ShaderSet](./shaderset) | 每种材质的着色程序 |
-| [ShaderSource](./shadersource) | 着色器源代码 |
+| [ShaderSet](./shaderset) | 每种材质的着色器程序 |
+| [ShaderSource](./shadersource) | shader 的源代码 |
 | [ShaderVariable](./shadervariable) | 着色器变量 |
 | [SPIRVSource](./spirvsource) | SPIR-V 格式的编译着色器。 |
 | [StencilState](./stencilstate) | 每个面的模板状态。 |
 | [TextureData](./texturedata) | 此类包含纹理的原始数据和格式定义。 |
-| [Viewport](./viewport) | A[`IRenderTarget`](../aspose.threed.render/irendertarget)包含至少一个用于渲染场景的视口。 |
-| [WindowHandle](./windowhandle) | 封装了不同平台的窗口句柄。 |
+| [Viewport](./viewport) | 一个[`IRenderTarget`](../aspose.threed.render/irendertarget)包含至少一个用于渲染场景的视口。 |
+| [WindowHandle](./windowhandle) | 封装不同平台的窗口句柄 |
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
 | [IBuffer](./ibuffer) | 渲染中使用的所有托管缓冲区的基本接口 |
-| [ICommandList](./icommandlist) | 对将发送到 GPU 进行渲染的命令序列进行编码。 |
+| [ICommandList](./icommandlist) | 对将发送到 GPU 以进行渲染的命令序列进行编码。 |
 | [IDescriptorSet](./idescriptorset) | 描述符集描述了可用于绑定到渲染管道的不同资源，如缓冲区、纹理 |
-| [IIndexBuffer](./iindexbuffer) | 索引缓冲区描述了渲染管道中使用的几何图形。 |
+| [IIndexBuffer](./iindexbuffer) | 索引缓冲区描述了渲染管线中使用的几何图形。 |
 | [IPipeline](./ipipeline) | 在 GPU 端绘制的预烘焙操作序列。 |
 | [IRenderQueue](./irenderqueue) | 实体渲染器使用此队列来管理渲染任务。 |
-| [IRenderTarget](./irendertarget) | 渲染目标的基本接口 |
+| [IRenderTarget](./irendertarget) | 渲染目标的基础接口 |
 | [IRenderTexture](./irendertexture) | 渲染纹理接口 |
-| [IRenderWindow](./irenderwindow) | IRenderWindow 表示操作系统创建的支持渲染的原生窗口。 |
+| [IRenderWindow](./irenderwindow) | IRenderWindow 表示支持渲染的操作系统创建的原生窗口。 |
 | [ITexture1D](./itexture1d) | 1D 纹理 |
 | [ITexture2D](./itexture2d) | 2D 纹理 |
 | [ITextureCubemap](./itexturecubemap) | 立方体贴图纹理 |
-| [ITextureUnit](./itextureunit) | [`ITextureUnit`](../aspose.threed.render/itextureunit)表示内存中的纹理，在 GPU 和 CPU 之间共享并且可以被着色器采样， 其中[`Texture`](../aspose.threed.shading/texture)仅表示对外部文件的引用。 更多细节可以找到 https://en.wikipedia.org/wiki/Texture_mapping_unit |
-| [IVertexBuffer](./ivertexbuffer) | 顶点缓冲区保存将发送到渲染管道的多边形顶点数据 |
+| [ITextureUnit](./itextureunit) | [`ITextureUnit`](../aspose.threed.render/itextureunit)表示内存中的纹理，在 GPU 和 CPU 之间共享，可以被着色器采样， 其中[`Texture`](../aspose.threed.shading/texture)仅代表对外部文件的引用。 更多详细信息可以找到 https://en.wikipedia.org/wiki/Texture_mapping_unit |
+| [IVertexBuffer](./ivertexbuffer) | 顶点缓冲区保存将发送到渲染管线的多边形顶点数据 |
 ## 枚举
 
 | 枚举 | 描述 |
@@ -61,18 +61,18 @@ url: /zh/net/aspose.threed.render/
 | [BlendFactor](./blendfactor) | 混合因子指定像素算术。 |
 | [CompareFunction](./comparefunction) | 深度/模板测试中使用的比较函数。 |
 | [CubeFace](./cubeface) | 立方体贴图纹理的每个面 |
-| [CullFaceMode](./cullfacemode) | 什么面剔除 |
+| [CullFaceMode](./cullfacemode) | 剔除什么面 |
 | [DrawOperation](./drawoperation) | 要渲染的原始类型 |
 | [EntityRendererFeatures](./entityrendererfeatures) | 实体渲染器将提供的额外功能 |
 | [FrontFace](./frontface) | 定义正面和背面多边形 |
-| [IndexDataType](./indexdatatype) | [`IIndexBuffer`](../aspose.threed.render/iindexbuffer) |
+| [IndexDataType](./indexdatatype) | 中元素的数据类型[`IIndexBuffer`](../aspose.threed.render/iindexbuffer) |
 | [PixelFormat](./pixelformat) | 纹理单元中使用的像素格式。 |
 | [PolygonMode](./polygonmode) | 多边形光栅化模式 |
 | [PresetShaders](./presetshaders) | 这定义了渲染器使用的预设内部着色器。 |
-| [RenderQueueGroupId](./renderqueuegroupid) | 渲染队列的组 ID |
+| [RenderQueueGroupId](./renderqueuegroupid) | 渲染队列的组id |
 | [RenderStage](./renderstage) | 渲染阶段 |
 | [ShaderStage](./shaderstage) | 着色器阶段 |
 | [StencilAction](./stencilaction) | 模板测试操作 |
-| [TextureType](./texturetype) | [`ITextureUnit`](../aspose.threed.render/itextureunit) |
+| [TextureType](./texturetype) | 的类型[`ITextureUnit`](../aspose.threed.render/itextureunit) |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.3D.dll -->

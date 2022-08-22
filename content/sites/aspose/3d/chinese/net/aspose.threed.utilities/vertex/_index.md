@@ -1,14 +1,14 @@
 ---
 title: Vertex
 second_title: Aspose.3D for .NET API 参考
-description: 顶点引用用于访问TriMesh../aspose.threed.entities/trimesh中的原始顶点
+description: 顶点引用用于访问原始顶点TriMesh../aspose.threed.entities/trimesh.
 type: docs
-weight: 2670
+weight: 2660
 url: /zh/net/aspose.threed.utilities/vertex/
 ---
 ## Vertex class
 
-顶点引用，用于访问[`TriMesh`](../../aspose.threed.entities/trimesh)中的原始顶点。
+顶点引用，用于访问原始顶点[`TriMesh`](../../aspose.threed.entities/trimesh).
 
 ```csharp
 public abstract class Vertex : IComparable<Vertex>

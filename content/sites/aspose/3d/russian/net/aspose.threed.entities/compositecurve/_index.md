@@ -1,14 +1,14 @@
 ---
 title: CompositeCurve
 second_title: Справочник по Aspose.3D для .NET API
-description: ACompositeCurve./compositecurveсостоит из нескольких сегментов кривой.
+description: АCompositeCurve./compositecurve состоит из нескольких сегментов кривой.
 type: docs
 weight: 270
 url: /ru/net/aspose.threed.entities/compositecurve/
 ---
 ## CompositeCurve class
 
-A[`CompositeCurve`](../compositecurve)состоит из нескольких сегментов кривой.
+А[`CompositeCurve`](../compositecurve) состоит из нескольких сегментов кривой.
 
 ```csharp
 public class CompositeCurve : Curve
@@ -27,8 +27,8 @@ public class CompositeCurve : Curve
 | [Color](../../aspose.threed.entities/curve/color) { get; set; } | Получает или задает цвет линии, значение по умолчанию — белый (1, 1, 1) |
 | [Excluded](../../aspose.threed/entity/excluded) { get; set; } | Получает или задает, следует ли исключить этот объект при экспорте. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Получает или задает имя. |
-| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или устанавливает первый родительский узел, если установлен первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
-| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для создания экземпляров геометрии |
+| [ParentNode](../../aspose.threed/entity/parentnode) { get; set; } | Получает или задает первый родительский узел, если задан первый родительский узел, этот объект будет отсоединен от других родительских узлов. |
+| [ParentNodes](../../aspose.threed/entity/parentnodes) { get; } | Получает все родительские узлы, сущность может быть присоединена к нескольким родительским узлам для экземпляра геометрии |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Получает коллекцию всех свойств. |
 | [Scene](../../aspose.threed/sceneobject/scene) { get; } | Получает сцену, которой принадлежит этот объект |
 | [Segments](../../aspose.threed.entities/compositecurve/segments) { get; } | Сегменты кривой. |
@@ -37,13 +37,13 @@ public class CompositeCurve : Curve
 
 | Имя | Описание |
 | --- | --- |
-| [AddSegment](../../aspose.threed.entities/compositecurve/addsegment)(Curve, bool) | The |
+| [AddSegment](../../aspose.threed.entities/compositecurve/addsegment)(Curve, bool) |  |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Находит свойство. Это может быть динамическое свойство (созданное CreateDynamicProperty/SetProperty) или родное свойство (идентифицированное по имени) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox)() | Получает ограничивающую рамку текущего объекта в его системе координат объектного пространства. |
-| override [GetEntityRendererKey](../../aspose.threed.entities/curve/getentityrendererkey)() | Получает ключ рендерера сущности, зарегистрированного в рендерере |
+| override [GetEntityRendererKey](../../aspose.threed.entities/curve/getentityrendererkey)() | Получает ключ средства визуализации объектов, зарегистрированного в средстве визуализации |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Получить значение указанного свойства |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Удаляет динамическое свойство. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство, идентифицированное по имени |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Удалить указанное свойство с именем name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Устанавливает значение указанного свойства |
 
 ## Другие члены

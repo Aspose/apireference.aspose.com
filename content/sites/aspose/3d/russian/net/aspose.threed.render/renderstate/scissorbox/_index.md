@@ -1,14 +1,14 @@
 ---
 title: ScissorBox
 second_title: Справочник по Aspose.3D для .NET API
-description: Получает или задает ножницы
+description: Получает или задает коробку с ножницами
 type: docs
 weight: 120
 url: /ru/net/aspose.threed.render/renderstate/scissorbox/
 ---
 ## RenderState.ScissorBox property
 
-Получает или задает ножницы
+Получает или задает коробку с ножницами
 
 ```csharp
 public Rectangle ScissorBox { get; set; }

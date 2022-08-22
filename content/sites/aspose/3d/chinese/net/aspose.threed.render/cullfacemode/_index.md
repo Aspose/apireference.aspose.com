@@ -1,14 +1,14 @@
 ---
 title: CullFaceMode
 second_title: Aspose.3D for .NET API 参考
-description: 什么面剔除
+description: 剔除什么面
 type: docs
-weight: 1730
+weight: 1740
 url: /zh/net/aspose.threed.render/cullfacemode/
 ---
 ## CullFaceMode enumeration
 
-什么面剔除
+剔除什么面
 
 ```csharp
 public enum CullFaceMode
@@ -19,7 +19,7 @@ public enum CullFaceMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Back | `1` | 只剔除背面 |
-| Front | `2` | 仅剔除正面 |
+| Front | `2` | 只剔除正面 |
 | Both | `3` | 背面/正面都被剔除，不影响线/点渲染。 |
 
 ### 也可以看看

@@ -45,7 +45,7 @@ public FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11
 
 ## FMatrix4(Matrix4) {#constructor_1}
 
-Инициализировать экземпляр[`FMatrix4`](../../fmatrix4)из[`Matrix4`](../../matrix4)экземпляр.
+Инициализировать экземпляр[`FMatrix4`](../../fmatrix4) из[`Matrix4`](../../matrix4) экземпляр.
 
 ```csharp
 public FMatrix4(Matrix4 mat)
@@ -75,9 +75,9 @@ public FMatrix4(FVector4 r0, FVector4 r1, FVector4 r2, FVector4 r3)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | r0 | FVector4 | R0. |
-| r1 | FVector4 | R1. |
-| r2 | FVector4 | R2. |
-| r3 | FVector4 | R3. |
+| r1 | FVector4 | Р1. |
+| r2 | FVector4 | Р2. |
+| r3 | FVector4 | Р3. |
 
 ### Смотрите также
 

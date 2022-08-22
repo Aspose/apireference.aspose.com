@@ -17,7 +17,7 @@ public void SetProperty(string property, object value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | property | String | Имя свойства |
-| value | Object | Значение свойства |
+| value | Object | Стоимость недвижимости |
 
 ### Смотрите также
 

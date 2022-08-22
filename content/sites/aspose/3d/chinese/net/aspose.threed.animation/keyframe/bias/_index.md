@@ -1,14 +1,14 @@
 ---
 title: Bias
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置 TCB 样条中使用的偏差
+description: 获取或设置 TCB spline 中使用的偏差
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.animation/keyframe/bias/
 ---
 ## KeyFrame.Bias property
 
-获取或设置 TCB 样条中使用的偏差
+获取或设置 TCB spline 中使用的偏差
 
 ```csharp
 public float Bias { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: KeepBuiltinGlobalSettings
 second_title: Aspose.3D for .NET API 参考
-description: 获取或设置是否保留 GlobalSettings 中的内置属性这些属性在AssetInfoaspose.threed/assetinfo中有本地属性替换 如果您想要 GlobalSettings 中的完整属性请将其设置为 true
+description: 获取或设置是否保留 GlobalSettings 中具有本机属性替换的内置属性AssetInfoaspose.threed/assetinfo. 如果您想要 GlobalSettings 中的完整属性请将其设置为 true_ 默认值为 false
 type: docs
 weight: 20
 url: /zh/net/aspose.threed.formats/fbxloadoptions/keepbuiltinglobalsettings/
 ---
 ## FbxLoadOptions.KeepBuiltinGlobalSettings property
 
-获取或设置是否保留 GlobalSettings 中的内置属性，这些属性在[`AssetInfo`](../../../aspose.threed/assetinfo)中有本地属性替换。 如果您想要 GlobalSettings 中的完整属性，请将其设置为 true
+获取或设置是否保留 GlobalSettings 中具有本机属性替换的内置属性[`AssetInfo`](../../../aspose.threed/assetinfo). 如果您想要 GlobalSettings 中的完整属性，请将其设置为 true_ 默认值为 false
 
 ```csharp
 public bool KeepBuiltinGlobalSettings { get; set; }

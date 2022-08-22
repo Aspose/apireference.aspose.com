@@ -1,14 +1,14 @@
 ---
 title: CreateElementUV
 second_title: Aspose.3D for .NET API 参考
-description: 创建具有给定纹理映射类型的VertexElementUVaspose.threed.entities/vertexelementuv
+description: 创建一个VertexElementUVaspose.threed.entities/vertexelementuv具有给定的纹理映射类型
 type: docs
 weight: 100
 url: /zh/net/aspose.threed.entities/geometry/createelementuv/
 ---
 ## CreateElementUV(TextureMapping) {#createelementuv}
 
-创建具有给定纹理映射类型的[`VertexElementUV`](../../vertexelementuv)。
+创建一个[`VertexElementUV`](../../vertexelementuv)具有给定的纹理映射类型。
 
 ```csharp
 public VertexElementUV CreateElementUV(TextureMapping uvMapping)
@@ -16,11 +16,11 @@ public VertexElementUV CreateElementUV(TextureMapping uvMapping)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| uvMapping | TextureMapping | 要创建的纹理映射类型 |
+| uvMapping | TextureMapping | 要创建哪种纹理映射类型 |
 
 ### 返回值
 
-创建的元素 uv
+创建元素 uv
 
 ### 也可以看看
 
@@ -34,7 +34,7 @@ public VertexElementUV CreateElementUV(TextureMapping uvMapping)
 
 ## CreateElementUV(TextureMapping, MappingMode, ReferenceMode) {#createelementuv_1}
 
-创建具有给定纹理映射类型的[`VertexElementUV`](../../vertexelementuv)。
+创建一个[`VertexElementUV`](../../vertexelementuv)具有给定的纹理映射类型。
 
 ```csharp
 public VertexElementUV CreateElementUV(TextureMapping uvMapping, MappingMode mappingMode, 
@@ -43,7 +43,7 @@ public VertexElementUV CreateElementUV(TextureMapping uvMapping, MappingMode map
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| uvMapping | TextureMapping | 创建哪种纹理映射类型 |
+| uvMapping | TextureMapping | 要创建哪种纹理映射类型 |
 | mappingMode | MappingMode | 默认映射模式 |
 | referenceMode | ReferenceMode | 默认参考模式 |
 
