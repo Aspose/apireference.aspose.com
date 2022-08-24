@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Aspose.Gis namespace fournit des classes pour générer convertir et modifier des données SIG.
+description: Aspose.Gis namespace fournit des classes pour générer convertir et modifier des données GIS.
 type: docs
 weight: 10
 url: /fr/net/aspose.gis/
 ---
-`Aspose.Gis` namespace fournit des classes pour générer, convertir et modifier des données SIG.
+`Aspose.Gis` namespace fournit des classes pour générer, convertir et modifier des données GIS.
 
 ## Des classes
 
@@ -18,7 +18,7 @@ url: /fr/net/aspose.gis/
 | [DatabaseDriver](./databasedriver) | Un pilote pour un format spécifique basé sur une base de données. |
 | [DatabaseDriverOptions](./databasedriveroptions) | Options pour un[`DatabaseDriver`](../aspose.gis/databasedriver) . |
 | [Dataset](./dataset) | Un jeu de données est la collection de[`VectorLayer`](../aspose.gis/vectorlayer) instances. |
-| [Driver](./driver) | Une classe de base pour les pilotes vers les données SIG. |
+| [Driver](./driver) | Une classe de base pour les pilotes vers les données GIS. |
 | [DriverOptions](./driveroptions) | Options pour un[`Driver`](../aspose.gis/driver) . |
 | [Drivers](./drivers) | Pilotes pour tous les formats pris en charge. |
 | [Extent](./extent) | Une boîte englobante spatiale à deux dimensions. |
@@ -29,7 +29,7 @@ url: /fr/net/aspose.gis/
 | [FeatureStyle](./featurestyle) | La classe racine abstraite de la hiérarchie des styles d'objets. |
 | [FileDriver](./filedriver) | Un pilote pour un format de fichier spécifique. |
 | [GeoConvert](./geoconvert) | Convertit les coordonnées vers/depuis les différents formats. |
-| [GisException](./gisexception) | L'exception levée lorsqu'une erreur se produit lors du traitement des données SIG. |
+| [GisException](./gisexception) | L'exception levée lorsqu'une erreur se produit lors du traitement des données GIS. |
 | [License](./license) | Fournit des méthodes pour autoriser le composant. |
 | [Metered](./metered) | Fournit des méthodes pour définir la clé mesurée. |
 | [NumericFormat](./numericformat) | [`NumericFormat`](../aspose.gis/numericformat) sont utilisés pour formater les types numériques courants dans le texte. |

@@ -1,14 +1,14 @@
 ---
 title: GisException
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Lexception levée lorsquune erreur se produit lors du traitement des données SIG.
+description: Lexception levée lorsquune erreur se produit lors du traitement des données GIS.
 type: docs
 weight: 1140
 url: /fr/net/aspose.gis/gisexception/
 ---
 ## GisException class
 
-L'exception levée lorsqu'une erreur se produit lors du traitement des données SIG.
+L'exception levée lorsqu'une erreur se produit lors du traitement des données GIS.
 
 ```csharp
 public class GisException : Exception

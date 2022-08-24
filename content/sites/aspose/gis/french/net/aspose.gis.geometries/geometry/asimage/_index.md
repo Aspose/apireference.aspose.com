@@ -29,7 +29,7 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | --- | --- |
 | ArgumentNullException | N'importe quel argument`null`. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [GisException](../../../aspose.gis/gisexception) | Une erreur lors du traitement ou de la lecture des données SIG. |
+| [GisException](../../../aspose.gis/gisexception) | Une erreur lors du traitement ou de la lecture des données GIS. |
 | ArgumentException | L'unité de largeur ou de hauteur est!:Unit.MapUnits . |
 | ArgumentOutOfRangeException | La largeur ou la hauteur est négative ou nulle. |
 
@@ -68,7 +68,7 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | --- | --- |
 | ArgumentNullException | N'importe quel argument`null`. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [GisException](../../../aspose.gis/gisexception) | Une erreur lors du traitement ou de la lecture des données SIG. |
+| [GisException](../../../aspose.gis/gisexception) | Une erreur lors du traitement ou de la lecture des données GIS. |
 | ArgumentException | L'unité de largeur ou de hauteur est!:Unit.MapUnits . |
 | ArgumentOutOfRangeException | La largeur ou la hauteur est négative ou nulle. |
 
@@ -109,7 +109,7 @@ L'image en flux
 | --- | --- |
 | ArgumentNullException | N'importe quel argument`null`. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [GisException](../../../aspose.gis/gisexception) | Une erreur lors du traitement ou de la lecture des données SIG. |
+| [GisException](../../../aspose.gis/gisexception) | Une erreur lors du traitement ou de la lecture des données GIS. |
 | ArgumentException | L'unité de largeur ou de hauteur est!:Unit.MapUnits . |
 | ArgumentOutOfRangeException | La largeur ou la hauteur est négative ou nulle. |
 

@@ -47,7 +47,7 @@ public void Render(AbstractPath outputPath, Renderer renderer)
 | --- | --- |
 | ArgumentNullException | N'importe quel argument`null`. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [GisException](../../../aspose.gis/gisexception) | Une erreur lors du traitement ou de la lecture des données SIG. |
+| [GisException](../../../aspose.gis/gisexception) | Une erreur lors du traitement ou de la lecture des données GIS. |
 
 ### Voir également
 

@@ -12,7 +12,7 @@ is_root: true
 
 | Espace de noms | La description |
 | --- | --- |
-| [Aspose.Gis](./aspose.gis) | `Aspose.Gis` namespace fournit des classes pour générer, convertir et modifier des données SIG. |
+| [Aspose.Gis](./aspose.gis) | `Aspose.Gis` namespace fournit des classes pour générer, convertir et modifier des données GIS. |
 | [Aspose.Gis.Formats.Csv](./aspose.gis.formats.csv) | `Aspose.Gis.Formats.Csv` l'espace de noms fournit des classes pour travailler avec le format CSV. |
 | [Aspose.Gis.Formats.EsriAscii](./aspose.gis.formats.esriascii) | `Aspose.Gis.Formats.EsriAscii` l'espace de noms fournit des classes pour travailler avec le format EsriAscii. |
 | [Aspose.Gis.Formats.FileGdb](./aspose.gis.formats.filegdb) | `Aspose.Gis.Formats.FileGdb`namespace fournit des classes pour travailler avec le format ESRI File Geodatabase. |

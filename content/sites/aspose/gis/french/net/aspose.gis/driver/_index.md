@@ -1,14 +1,14 @@
 ---
 title: Driver
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Une classe de base pour les pilotes vers les données SIG.
+description: Une classe de base pour les pilotes vers les données GIS.
 type: docs
 weight: 80
 url: /fr/net/aspose.gis/driver/
 ---
 ## Driver class
 
-Une classe de base pour les pilotes vers les données SIG.
+Une classe de base pour les pilotes vers les données GIS.
 
 ```csharp
 public abstract class Driver
