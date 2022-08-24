@@ -1,14 +1,14 @@
 ---
 title: SvgRenderer
 second_title: Справочник по Aspose.GIS for .NET API
-description: ARenderer../aspose.gis.rendering/rendererкоторый рендеритMap../aspose.gis.rendering/mapв файл SVG.
+description: АRenderer../aspose.gis.rendering/renderer что делаетMap../aspose.gis.rendering/map в файл SVG.
 type: docs
-weight: 1480
+weight: 1490
 url: /ru/net/aspose.gis.rendering.formats.svg/svgrenderer/
 ---
 ## SvgRenderer class
 
-A[`Renderer`](../../aspose.gis.rendering/renderer)который рендерит[`Map`](../../aspose.gis.rendering/map)в файл SVG.
+А[`Renderer`](../../aspose.gis.rendering/renderer) что делает[`Map`](../../aspose.gis.rendering/map) в файл SVG.
 
 ```csharp
 public class SvgRenderer : Renderer
@@ -18,8 +18,8 @@ public class SvgRenderer : Renderer
 
 | Имя | Описание |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render)(Map, AbstractPath) | Отображает карту. |
-| [Render](../../aspose.gis.rendering/renderer/render)(Map, string) | Отображает карту. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, AbstractPath) | Визуализирует карту. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, string) | Визуализирует карту. |
 
 ### Смотрите также
 

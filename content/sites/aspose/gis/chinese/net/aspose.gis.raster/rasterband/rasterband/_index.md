@@ -1,14 +1,14 @@
 ---
 title: RasterBand
 second_title: Aspose.GIS for .NET API 参考
-description: 创建RasterBandaspose.gis.raster/rasterband的实例
+description: 创建一个实例RasterBandaspose.gis.raster/rasterband.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.raster/rasterband/rasterband/
 ---
 ## RasterBand constructor
 
-创建[`RasterBand`](../../rasterband)的实例。
+创建一个实例[`RasterBand`](../../rasterband).
 
 ```csharp
 public RasterBand(BandTypes dataType)

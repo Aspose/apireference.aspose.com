@@ -1,14 +1,14 @@
 ---
 title: EditLayer
 second_title: Aspose.GIS for .NET API 参考
-description: 打开图层进行编辑
+description: 打开一个图层进行编辑
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.shapefile/shapefiledriver/editlayer/
 ---
 ## EditLayer(AbstractPath, DriverOptions) {#editlayer}
 
-打开图层进行编辑。
+打开一个图层进行编辑。
 
 ```csharp
 public override VectorLayer EditLayer(AbstractPath path, DriverOptions options = null)
@@ -16,20 +16,20 @@ public override VectorLayer EditLayer(AbstractPath path, DriverOptions options =
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | AbstractPath | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../../aspose.gis/gisexception) | 从文件中读取特征时出错。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../../aspose.gis/gisexception) | 从文件中读取功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -45,7 +45,7 @@ public override VectorLayer EditLayer(AbstractPath path, DriverOptions options =
 
 ## EditLayer(string, ShapefileOptions) {#editlayer_3}
 
-打开图层进行编辑。
+打开一个图层进行编辑。
 
 ```csharp
 public VectorLayer EditLayer(string path, ShapefileOptions options = null)
@@ -53,12 +53,12 @@ public VectorLayer EditLayer(string path, ShapefileOptions options = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
-| options | ShapefileOptions | 驱动程序特定选项。 |
+| path | String | 文件的路径。 |
+| options | ShapefileOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 也可以看看
 
@@ -72,7 +72,7 @@ public VectorLayer EditLayer(string path, ShapefileOptions options = null)
 
 ## EditLayer(AbstractPath, ShapefileOptions) {#editlayer_1}
 
-打开图层进行编辑。
+打开一个图层进行编辑。
 
 ```csharp
 public VectorLayer EditLayer(AbstractPath path, ShapefileOptions options = null)
@@ -80,12 +80,12 @@ public VectorLayer EditLayer(AbstractPath path, ShapefileOptions options = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
-| options | ShapefileOptions | 驱动程序特定选项。 |
+| path | AbstractPath | 文件的路径。 |
+| options | ShapefileOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 也可以看看
 

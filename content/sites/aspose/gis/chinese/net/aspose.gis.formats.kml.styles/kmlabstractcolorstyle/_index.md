@@ -24,8 +24,8 @@ public class KmlAbstractColorStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | 指定图形元素的颜色。默认值White。 |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | 指定图形元素的颜色模式。默认值:正常。 |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | 指定图形元素的颜色。默认值White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | 指定图形元素的颜色模式。默认值：正常。 |
 
 ### 也可以看看
 

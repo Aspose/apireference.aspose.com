@@ -1,14 +1,14 @@
 ---
 title: Rounding
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает модель точности округления. В соответствии с моделью точности округления значащим является только ограниченное количество цифр.
+description: Возвращает модель точности округления. В соответствии с моделью точности округления имеет значение только ограниченное число цифр.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis/precisionmodel/rounding/
 ---
 ## PrecisionModel.Rounding method
 
-Возвращает модель точности округления. В соответствии с моделью точности округления значащим является только ограниченное количество цифр.
+Возвращает модель точности округления. В соответствии с моделью точности округления имеет значение только ограниченное число цифр.
 
 ```csharp
 public static PrecisionModel Rounding(int significantDigits)
@@ -30,7 +30,7 @@ public static PrecisionModel Rounding(int significantDigits)
 
 ### Примечания
 
-При применении к координате используется следующий код для уменьшения точности:
+При применении к координате для уменьшения точности используется следующий код:
 
 ```csharp
 double rounded = Math.Round(value, significantDigits);

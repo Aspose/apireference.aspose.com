@@ -1,14 +1,14 @@
 ---
 title: LabelingRule
 second_title: Aspose.GIS for .NET API 参考
-description: RuleBasedLabeling./rulebasedlabeling的用户定义规则
+description: 用户定义的规则RuleBasedLabeling./rulebasedlabeling.
 type: docs
-weight: 1520
+weight: 1530
 url: /zh/net/aspose.gis.rendering.labelings/labelingrule/
 ---
 ## LabelingRule class
 
-[`RuleBasedLabeling`](../rulebasedlabeling)的用户定义规则。
+用户定义的规则[`RuleBasedLabeling`](../rulebasedlabeling).
 
 ```csharp
 public class LabelingRule
@@ -20,15 +20,15 @@ public class LabelingRule
 | --- | --- |
 | [Filter](../../aspose.gis.rendering.labelings/labelingrule/filter) { get; } | 确定“过滤规则”是否应将标签应用于特征。 如果返回`true`使用标签；否则，将跳过功能。 |
 | [IsElseRule](../../aspose.gis.rendering.labelings/labelingrule/iselserule) { get; } | 获取指示此规则是否为“else-rule”的值。 |
-| [IsFilterRule](../../aspose.gis.rendering.labelings/labelingrule/isfilterrule) { get; } | 获取指示此规则是否为“过滤规则”的值。 |
-| [Labeling](../../aspose.gis.rendering.labelings/labelingrule/labeling) { get; } | 应用于特征的标签。 |
+| [IsFilterRule](../../aspose.gis.rendering.labelings/labelingrule/isfilterrule) { get; } | 获取一个值，指示此规则是否为“过滤规则”。 |
+| [Labeling](../../aspose.gis.rendering.labelings/labelingrule/labeling) { get; } | 应用到特征的标签。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [CreateElseRule](../../aspose.gis.rendering.labelings/labelingrule/createelserule)(Labeling) | 创建新规则，只要它不匹配任何过滤器规则，就会将标签应用于要素。 |
-| static [CreateFilterRule](../../aspose.gis.rendering.labelings/labelingrule/createfilterrule)(Func&lt;Feature, bool&gt;, Labeling) | 创建新规则，只要它通过过滤器就将标签应用于特征。 |
+| static [CreateElseRule](../../aspose.gis.rendering.labelings/labelingrule/createelserule)(Labeling) | 创建新规则，在要素不匹配任何过滤器规则时将标签应用于要素。 |
+| static [CreateFilterRule](../../aspose.gis.rendering.labelings/labelingrule/createfilterrule)(Func&lt;Feature, bool&gt;, Labeling) | 创建一个新规则，当它通过过滤器时将标签应用于特征。 |
 
 ### 也可以看看
 

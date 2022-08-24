@@ -1,14 +1,14 @@
 ---
 title: EqualsNoData
 second_title: Справочник по Aspose.GIS for .NET API
-description: Проверяет представляет ли значение фон или нет данных в указанной полосе.
+description: Проверяет представляет ли значение фон или нет данных в указанном диапазоне.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.raster/irastervalues/equalsnodata/
 ---
 ## IRasterValues.EqualsNoData method
 
-Проверяет, представляет ли значение фон или «нет данных» в указанной полосе.
+Проверяет, представляет ли значение фон или «нет данных» в указанном диапазоне.
 
 ```csharp
 public bool EqualsNoData(int bandIndex = 0)
@@ -16,11 +16,11 @@ public bool EqualsNoData(int bandIndex = 0)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bandIndex | Int32 | Индекс полосы. Нумерация начинается с 0. |
+| bandIndex | Int32 | Индекс группы. Нумерация начинается с 0. |
 
 ### Возвращаемое значение
 
-Возвращает «истину», если представляет фон или «нет данных».
+Возвратите 'true', если представляет фон или 'нет данных'.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: BandColor
 second_title: Aspose.GIS for .NET API 参考
-description: 关联波段值和指定波段索引的颜色分量 min 和 max 之间的波段值将被线性插值
+description: 关联波段值和指定波段索引的颜色分量 最小值和最大值之间的波段值将被线性插值
 type: docs
-weight: 1390
+weight: 1400
 url: /zh/net/aspose.gis.rendering.colorizers/bandcolor/
 ---
 ## BandColor class
 
-关联波段值和指定波段索引的颜色分量。 min 和 max 之间的波段值将被线性插值。
+关联波段值和指定波段索引的颜色分量。 最小值和最大值之间的波段值将被线性插值。
 
 ```csharp
 public class BandColor

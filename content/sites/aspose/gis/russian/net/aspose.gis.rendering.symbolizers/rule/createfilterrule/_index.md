@@ -27,7 +27,7 @@ public static Rule CreateFilterRule(Func<Feature, bool> filter, VectorSymbolizer
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Фильтр`null`. |
+| ArgumentNullException | Фильтр есть`null`. |
 
 ### Смотрите также
 

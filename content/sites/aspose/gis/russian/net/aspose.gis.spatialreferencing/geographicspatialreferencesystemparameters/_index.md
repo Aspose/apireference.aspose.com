@@ -1,14 +1,14 @@
 ---
 title: GeographicSpatialReferenceSystemParameters
 second_title: Справочник по Aspose.GIS for .NET API
-description: Параметры для создания географической SRS. Параметры имеют разумные значения по умолчанию поэтому вам придется назначить только некоторые из них. Если вы присвоитеnullлюбому параметру будет использоваться значение по умолчанию.
+description: Параметры для создания географической SRS. Параметры имеют разумные значения по умолчанию поэтому вам придется назначить только некоторые из них. Если вы назначитеnull для любого параметра будет использоваться значение по умолчанию.
 type: docs
-weight: 2030
+weight: 2040
 url: /ru/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/
 ---
 ## GeographicSpatialReferenceSystemParameters class
 
-Параметры для создания географической SRS. Параметры имеют разумные значения по умолчанию, поэтому вам придется назначить только некоторые из них. Если вы присвоите`null`любому параметру, будет использоваться значение по умолчанию.
+Параметры для создания географической SRS. Параметры имеют разумные значения по умолчанию, поэтому вам придется назначить только некоторые из них. Если вы назначите`null` для любого параметра будет использоваться значение по умолчанию.
 
 ```csharp
 public class GeographicSpatialReferenceSystemParameters
@@ -24,13 +24,13 @@ public class GeographicSpatialReferenceSystemParameters
 
 | Имя | Описание |
 | --- | --- |
-| [AngularUnit](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/angularunit) { get; set; } | Единицы, используемые в этой SRS. Значение по умолчанию:[`Degree`](../unit/degree). |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder) { get; set; } | Порядок осей. По умолчанию используетсяLongitudeLatitude. |
-| [Datum](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum) { get; set; } | Датам географической СКИ. Значение по умолчанию:[`Wgs84`](../geographicdatum/wgs84). |
+| [AngularUnit](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/angularunit) { get; set; } | Единицы, которые будут использоваться в этой SRS. По умолчанию[`Degree`](../unit/degree) . |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder) { get; set; } | Порядок осей. По умолчаниюLongitudeLatitude . |
+| [Datum](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum) { get; set; } | Датам географической SRS. По умолчанию[`Wgs84`](../geographicdatum/wgs84) . |
 | [LatitudeAxis](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/latitudeaxis) { get; set; } | Ось, описывающая широту. По умолчанию ось с северным направлением. |
 | [LongitudeAxis](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/longitudeaxis) { get; set; } | Ось, описывающая долготу. По умолчанию используется ось с восточным направлением. |
 | [Name](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/name) { get; set; } | Название географической СГД. По умолчанию "Безымянный". |
-| [PrimeMeridian](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/primemeridian) { get; set; } | Нулевой меридиан этой СКИ. Значение по умолчанию:[`Greenwich`](../primemeridian/greenwich). |
+| [PrimeMeridian](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/primemeridian) { get; set; } | Начальный меридиан этого SRS. По умолчанию[`Greenwich`](../primemeridian/greenwich) . |
 
 ### Смотрите также
 

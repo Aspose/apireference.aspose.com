@@ -1,14 +1,14 @@
 ---
 title: CanRemoveLayers
 second_title: Aspose.GIS for .NET API 参考
-description: 获取一个值该值指示此数据集是否可以移除矢量图层
+description: 获取表示此数据集是否可以移除矢量图层的值
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/dataset/canremovelayers/
 ---
 ## Dataset.CanRemoveLayers property
 
-获取一个值，该值指示此数据集是否可以移除矢量图层。
+获取表示此数据集是否可以移除矢量图层的值。
 
 ```csharp
 public virtual bool CanRemoveLayers { get; }
@@ -16,7 +16,7 @@ public virtual bool CanRemoveLayers { get; }
 
 ### 适当的价值
 
-`true`，如果这个数据集可以去除矢量图层；否则，`false`。
+`true` ，如果这个数据集可以去除矢量图层；否则，`false`.
 
 ### 也可以看看
 

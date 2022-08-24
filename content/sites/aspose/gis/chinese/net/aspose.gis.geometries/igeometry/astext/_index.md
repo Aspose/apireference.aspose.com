@@ -16,11 +16,11 @@ public string AsText()
 
 ### 返回值
 
-此几何图形的众所周知的文本表示。
+此几何图形的知名文本表示。
 
 ### 评论
 
-此方法的输出位于IsoWKT 变体中。
+此方法的输出在Iso WKT 变体。
 
 ### 也可以看看
 
@@ -40,18 +40,18 @@ public string AsText(WktVariant variant)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| variant | WktVariant | 要使用的众所周知的文本变体。 |
+| variant | WktVariant | 使用的知名文本变体。 |
 
 ### 返回值
 
-此几何图形的众所周知的文本表示。
+此几何图形的知名文本表示。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 请求的 WKT 变体不支持几何。 以下几何图形仅受IsoWKT 变体支持: &lt;ul&gt;&lt;li&gt;[`CircularString`](../../circularstring)&lt;/li&gt;&lt;li&gt;[`CompoundCurve`](../../compoundcurve)&lt;/li&gt;&lt;li&gt;[`CurvePolygon`](../../curvepolygon)&lt;/li&gt;&lt;li&gt;[`MultiCurve`](../../multicurve)&lt;/li&gt;&lt;li&gt;[`MultiSurface`](../../multisurface)&lt;/li&gt;&lt;/ul&gt; 任何 WKT 变体都支持所有其他几何。 |
-| ArgumentOutOfRangeException | *variant*不是有效的[`WktVariant`](../../wktvariant)。 |
+| NotSupportedException | 请求的 WKT 变体不支持几何图形。 仅由以下几何图形支持IsoWKT 变种： [`CircularString`](../../circularstring)[`CompoundCurve`](../../compoundcurve)[`CurvePolygon`](../../curvepolygon)[`MultiCurve`](../../multicurve)[`MultiSurface`](../../multisurface) 任何 WKT 变体都支持所有其他几何图形。 |
+| ArgumentOutOfRangeException | *variant*不是有效的[`WktVariant`](../../wktvariant). |
 
 ### 也可以看看
 
@@ -72,19 +72,19 @@ public string AsText(WktVariant variant, NumericFormat format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| variant | WktVariant | 要使用的众所周知的文本变体。 |
-| format | NumericFormat | 转换为字符串的坐标格式。请参阅[`NumericFormat`](../../../aspose.gis/numericformat)以获取它。 |
+| variant | WktVariant | 使用的知名文本变体。 |
+| format | NumericFormat | 转换为字符串的坐标格式。见[`NumericFormat`](../../../aspose.gis/numericformat)为拿到它，为实现它。 |
 
 ### 返回值
 
-此几何图形的众所周知的文本表示。
+此几何图形的知名文本表示。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 几何无法在请求的 WKT 变体中表示。目前，当 HasCurveGeometryof geometry 是`true`并且 WKT 变体是时会发生这种情况 SimpleFeatureAccessOutdated。 |
-| ArgumentOutOfRangeException | *variant*不是有效的[`WktVariant`](../../wktvariant)。 |
+| NotSupportedException | 几何图形无法在请求的 WKT 变体中表示。目前这发生在when [`HasCurveGeometry`](../hascurvegeometry)几何学是`true`和 WKT 变体是 SimpleFeatureAccessOutdated. |
+| ArgumentOutOfRangeException | *variant*不是有效的[`WktVariant`](../../wktvariant). |
 
 ### 也可以看看
 

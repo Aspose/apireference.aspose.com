@@ -1,14 +1,14 @@
 ---
 title: WhereSet
 second_title: Aspose.GIS for .NET API 参考
-description: 选择具有属性集的特征
+description: 选择具有属性集的要素
 type: docs
 weight: 130
 url: /zh/net/aspose.gis/featuressequence/whereset/
 ---
 ## FeaturesSequence.WhereSet method
 
-选择具有属性集的特征。
+选择具有属性集的要素。
 
 ```csharp
 public virtual FeaturesSequence WhereSet(string attributeName)
@@ -20,7 +20,7 @@ public virtual FeaturesSequence WhereSet(string attributeName)
 
 ### 返回值
 
-具有设置属性值的特征。
+具有设定属性值的特征。
 
 ### 例外
 

@@ -16,18 +16,18 @@ public VectorLayer CreateLayer(string path, OsmXmlOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
-| options | OsmXmlOptions | 驱动程序特定选项。 |
+| path | String | 文件的路径。 |
+| options | OsmXmlOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 层已经存在。 |
+| InvalidOperationException | 该图层已存在。 |
 
 ### 也可以看看
 
@@ -50,19 +50,19 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | AbstractPath | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 层已经存在。 |
+| InvalidOperationException | 该图层已存在。 |
 
 ### 也可以看看
 
@@ -87,19 +87,19 @@ public VectorLayer CreateLayer(string path, OsmXmlOptions options,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
-| options | OsmXmlOptions | 驱动程序特定选项。 |
+| path | String | 文件的路径。 |
+| options | OsmXmlOptions | 特定于驱动程序的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 层已经存在。 |
+| InvalidOperationException | 该图层已存在。 |
 | NotSupportedException | 驱动程序不支持空间参考系统。 |
 
 ### 也可以看看

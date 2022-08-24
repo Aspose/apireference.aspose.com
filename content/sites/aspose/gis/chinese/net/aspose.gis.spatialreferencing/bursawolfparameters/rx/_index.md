@@ -1,14 +1,14 @@
 ---
 title: Rx
 second_title: Aspose.GIS for .NET API 参考
-description: Rx 以秒为单位
+description: 以秒为单位的 Rx
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.spatialreferencing/bursawolfparameters/rx/
 ---
 ## BursaWolfParameters.Rx property
 
-Rx 以秒为单位。
+以秒为单位的 Rx。
 
 ```csharp
 public double Rx { get; }

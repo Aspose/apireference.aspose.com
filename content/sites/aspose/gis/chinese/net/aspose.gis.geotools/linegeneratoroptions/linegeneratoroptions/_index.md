@@ -1,39 +1,18 @@
 ---
 title: LineGeneratorOptions
 second_title: Aspose.GIS for .NET API 参考
-description: 默认创建一个带有初始化字段的实例
+description: 默认构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geotools/linegeneratoroptions/linegeneratoroptions/
 ---
-## LineGeneratorOptions() {#constructor}
+## LineGeneratorOptions constructor
 
-默认创建一个带有初始化字段的实例。
+默认构造函数。
 
 ```csharp
 public LineGeneratorOptions()
 ```
-
-### 也可以看看
-
-* class [LineGeneratorOptions](../../linegeneratoroptions)
-* 命名空间 [Aspose.Gis.GeoTools](../../linegeneratoroptions)
-* 部件 [Aspose.GIS](../../../)
-
----
-
-## LineGeneratorOptions(int, int) {#constructor_1}
-
-创建一个实例。
-
-```csharp
-public LineGeneratorOptions(int count, int seed = -1)
-```
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| count | Int32 | 要创建的行数。 |
-| seed | Int32 | 用于计算伪随机数序列的种子值的数字。 |
 
 ### 也可以看看
 

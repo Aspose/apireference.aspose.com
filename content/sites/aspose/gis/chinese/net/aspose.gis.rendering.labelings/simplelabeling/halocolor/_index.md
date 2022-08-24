@@ -1,14 +1,14 @@
 ---
 title: HaloColor
 second_title: Aspose.GIS for .NET API 参考
-description: 文本周围光环笔划的颜色
+description: 文本周围的光晕笔划的颜色
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/halocolor/
 ---
 ## SimpleLabeling.HaloColor property
 
-文本周围光环（笔划）的颜色。
+文本周围的光晕（笔划）的颜色。
 
 ```csharp
 public Color HaloColor { get; set; }

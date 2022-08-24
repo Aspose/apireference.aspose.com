@@ -1,14 +1,14 @@
 ---
 title: RasterRect
 second_title: Aspose.GIS for .NET API 参考
-description: 创建RasterRectaspose.gis.raster/rasterrect的实例
+description: 创建一个实例RasterRectaspose.gis.raster/rasterrect.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.raster/rasterrect/rasterrect/
 ---
 ## RasterRect constructor
 
-创建[`RasterRect`](../../rasterrect)的实例。
+创建一个实例[`RasterRect`](../../rasterrect).
 
 ```csharp
 public RasterRect(int x, int y, int width, int height)
@@ -17,7 +17,7 @@ public RasterRect(int x, int y, int width, int height)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Int32 | 左上角（起始列）的 x 坐标。编号从 0 开始。 |
-| y | Int32 | 左上角的 y 坐标（起始行）。编号从 0 开始。 |
+| y | Int32 | 左上角（起始行）的 y 坐标。编号从 0 开始。 |
 | width | Int32 | 宽度值（列数）。 |
 | height | Int32 | 高度值（行数）。 |
 

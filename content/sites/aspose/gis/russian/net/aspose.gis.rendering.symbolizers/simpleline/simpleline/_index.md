@@ -24,7 +24,7 @@ public SimpleLine()
 
 ## SimpleLine(SimpleLine) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SimpleLine`](../../simpleline).
+Инициализирует новый экземпляр[`SimpleLine`](../../simpleline) класс.
 
 ```csharp
 public SimpleLine(SimpleLine other)
@@ -32,13 +32,13 @@ public SimpleLine(SimpleLine other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | SimpleLine | Другой[`SimpleLine`](../../simpleline)для копирования данных из . |
+| other | SimpleLine | Другой[`SimpleLine`](../../simpleline) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

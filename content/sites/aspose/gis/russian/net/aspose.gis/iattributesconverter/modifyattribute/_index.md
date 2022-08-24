@@ -1,14 +1,14 @@
 ---
 title: ModifyAttribute
 second_title: Справочник по Aspose.GIS for .NET API
-description: НастраиваетFeatureAttributeaspose.gis/featureattributeкак необходимо для целевого слоя.
+description: РегулируетFeatureAttributeaspose.gis/featureattribute по мере необходимости для целевого слоя.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/iattributesconverter/modifyattribute/
 ---
 ## IAttributesConverter.ModifyAttribute method
 
-Настраивает[`FeatureAttribute`](../../featureattribute)как необходимо для целевого слоя.
+Регулирует[`FeatureAttribute`](../../featureattribute) по мере необходимости для целевого слоя.
 
 ```csharp
 public void ModifyAttribute(FeatureAttribute attribute, AttributesConverterActions actions)
@@ -17,7 +17,7 @@ public void ModifyAttribute(FeatureAttribute attribute, AttributesConverterActio
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | attribute | FeatureAttribute | Копия атрибута исходного слоя. |
-| actions | AttributesConverterActions | Указывает необязательные действия с атрибутами целевого слоя. Например, позволяет исключить наш атрибут. |
+| actions | AttributesConverterActions | Задает необязательные действия с атрибутами целевого слоя. Например, позволяет исключить наш атрибут. |
 
 ### Смотрите также
 

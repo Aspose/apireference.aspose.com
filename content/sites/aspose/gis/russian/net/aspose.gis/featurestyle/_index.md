@@ -1,14 +1,14 @@
 ---
 title: FeatureStyle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Абстрактный корневой класс иерархии стилей объектов.
+description: Абстрактный корневой класс иерархии стилей пространственных объектов.
 type: docs
 weight: 150
 url: /ru/net/aspose.gis/featurestyle/
 ---
 ## FeatureStyle class
 
-Абстрактный корневой класс иерархии стилей объектов.
+Абстрактный корневой класс иерархии стилей пространственных объектов.
 
 ```csharp
 public abstract class FeatureStyle : IFeatureStyle

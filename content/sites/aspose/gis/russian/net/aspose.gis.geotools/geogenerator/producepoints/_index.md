@@ -16,18 +16,18 @@ public static IEnumerable<IGeometry> ProducePoints(Extent rect, PointGeneratorOp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Extent | Заданная область (см.[`Extent`](../../../aspose.gis/extent) ). |
-| options | PointGeneratorOptions | Параметры создания точки (см.[`PointGeneratorOptions`](../../pointgeneratoroptions) ) . |
+| rect | Extent | указанная площадь (см.[`Степень`](../../../aspose.gis/extent)). |
+| options | PointGeneratorOptions | Параметры создания точки (см.[`Параметры генератора точек`](../../pointgeneratoroptions)). |
 
 ### Возвращаемое значение
 
-Массив точек (см. перечисление[`IGeometry`](../../../aspose.gis.geometries/igeometry) ) .
+Массив точек (см. перечисление[`ИГеометрия`](../../../aspose.gis.geometries/igeometry)).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Количество точек должно быть больше единицы. |
+| ArgumentOutOfRangeException | Количество баллов должно быть больше одного. |
 | NullReferenceException | Экстент должен иметь значение (не быть NULL). |
 
 ### Смотрите также

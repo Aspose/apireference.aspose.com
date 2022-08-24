@@ -1,14 +1,14 @@
 ---
 title: VectorMapLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Слой внутриMap./mapкоторый представляет данные векторного слоя.
+description: Слой внутриMap./map который представляет данные векторного слоя.
 type: docs
-weight: 1890
+weight: 1900
 url: /ru/net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class
 
-Слой внутри[`Map`](../map)который представляет данные векторного слоя.
+Слой внутри[`Map`](../map) который представляет данные векторного слоя.
 
 ```csharp
 public class VectorMapLayer : MapLayer
@@ -29,7 +29,7 @@ public class VectorMapLayer : MapLayer
 
 | Имя | Описание |
 | --- | --- |
-| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence) { get; } | Последовательность объектов, представленная этим` VectorMapLayer` . |
+| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence) { get; } | Последовательность функций, представленная этим`ВекторКартаСлой` . |
 | [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling) { get; set; } | Задает параметры деформации слоя карты. |
 | [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | Непрозрачность слоя. |
 | [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer) { get; set; } | Символизатор, используемый для визуализации объектов слоя. |
@@ -41,7 +41,7 @@ public class VectorMapLayer : MapLayer
 | override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose)() | Удаляет ресурсы. |
 | [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld)(AbstractPath, SldImportOptions) | Импортирует стиль из файла описателя стилизованного слоя, расположенного по указанному пути. |
 | [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld_1)(string, SldImportOptions) | Импортирует стиль из файла описателя стилизованного слоя, расположенного по указанному пути. |
-| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring)(string, SldImportOptions) | Импортирует стиль из указанной строки Styled Layer Descriptor. |
+| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring)(string, SldImportOptions) | Импортирует стиль из указанной строки описателя стилизованного слоя. |
 
 ### Смотрите также
 

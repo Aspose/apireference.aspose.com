@@ -1,14 +1,14 @@
 ---
 title: XyzConnection
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создать новый экземплярXyzConnectionaspose.gis.formats.xyztile/xyzconnection.
+description: Создать новый экземплярXyzConnectionaspose.gis.formats.xyztile/xyzconnection .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.formats.xyztile/xyzconnection/xyzconnection/
 ---
 ## XyzConnection constructor
 
-Создать новый экземпляр[`XyzConnection`](../../xyzconnection).
+Создать новый экземпляр[`XyzConnection`](../../xyzconnection) .
 
 ```csharp
 public XyzConnection(string urlTemplate)

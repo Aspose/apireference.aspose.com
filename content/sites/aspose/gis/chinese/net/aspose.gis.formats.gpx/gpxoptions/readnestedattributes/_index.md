@@ -1,14 +1,14 @@
 ---
 title: ReadNestedAttributes
 second_title: Aspose.GIS for .NET API 参考
-description: 确定 GPX 点例如trkpt和rtept是否包含内部属性以及是否应读取默认为false
+description: 确定 GPX 点例如trkpt和rtept是否包含内部属性以及是否应读取默认为false.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.gpx/gpxoptions/readnestedattributes/
 ---
 ## GpxOptions.ReadNestedAttributes property
 
-确定 GPX 点（例如“trkpt”和“rtept”）是否包含内部属性以及是否应读取。默认为`false`。
+确定 GPX 点（例如“trkpt”和“rtept”）是否包含内部属性以及是否应读取。默认为`false`.
 
 ```csharp
 public bool ReadNestedAttributes { get; set; }

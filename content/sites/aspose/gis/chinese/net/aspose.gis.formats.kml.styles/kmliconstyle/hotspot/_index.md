@@ -1,14 +1,14 @@
 ---
 title: HotSpot
 second_title: Aspose.GIS for .NET API 参考
-description: 指定图标上参考点的位置该参考点锚定到地标中指定的点 默认值为null表示未命中热点
+description: 指定图标上参考点的位置该参考点锚定到地标中指定的点 默认值为null表示错过了热点
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.kml.styles/kmliconstyle/hotspot/
 ---
 ## KmlIconStyle.HotSpot property
 
-指定图标上参考点的位置，该参考点锚定到地标中指定的点。 默认值为`null`表示未命中热点。
+指定图标上参考点的位置，该参考点锚定到地标中指定的点。 默认值为`null`表示错过了热点。
 
 ```csharp
 public KmlCoordinate HotSpot { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Dimension
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает топологическую размерность этогоGeometryaspose.gis.geometries/geometry. Если размерность неизвестна например для пустой GEOMETRYCOLLECTION возвращаетсяPoint.
+description: Получает топологическую размерность этогоGeometryaspose.gis.geometries/geometry . Если размер неизвестен например для пустой коллекции GEOMETRYCOLLECTIONPoint возвращается.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.geometries/geometry/dimension/
 ---
 ## Geometry.Dimension property
 
-Получает топологическую размерность этого[`Geometry`](../../geometry). Если размерность неизвестна (например, для пустой GEOMETRYCOLLECTION), возвращаетсяPoint.
+Получает топологическую размерность этого[`Geometry`](../../geometry) . Если размер неизвестен (например, для пустой коллекции GEOMETRYCOLLECTION)Point возвращается.
 
 ```csharp
 public abstract GeometryDimension Dimension { get; }

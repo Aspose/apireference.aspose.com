@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает перечислитель перебирающий правила.
+description: Возвращает перечислитель который перебирает правила.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/getenumerator/
 ---
 ## RuleBasedSymbolizer.GetEnumerator method
 
-Возвращает перечислитель, перебирающий правила.
+Возвращает перечислитель, который перебирает правила.
 
 ```csharp
 public IEnumerator<Rule> GetEnumerator()

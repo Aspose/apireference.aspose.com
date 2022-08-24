@@ -3,7 +3,7 @@ title: LabelPlacement
 second_title: Aspose.GIS for .NET API 参考
 description: 标签放置指定标签相对于要素几何的放置方式
 type: docs
-weight: 1500
+weight: 1510
 url: /zh/net/aspose.gis.rendering.labelings/labelplacement/
 ---
 ## LabelPlacement class

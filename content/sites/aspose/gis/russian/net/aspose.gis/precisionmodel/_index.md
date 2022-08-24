@@ -1,14 +1,14 @@
 ---
 title: PrecisionModel
 second_title: Справочник по Aspose.GIS for .NET API
-description: PrecisionModel./precisionmodelуказывает количество значащих цифр в координате.
+description: PrecisionModel./precisionmodel указывает количество значащих цифр в координате.
 type: docs
-weight: 1200
+weight: 1210
 url: /ru/net/aspose.gis/precisionmodel/
 ---
 ## PrecisionModel class
 
-[`PrecisionModel`](../precisionmodel)указывает количество значащих цифр в координате.
+[`PrecisionModel`](../precisionmodel) указывает количество значащих цифр в координате.
 
 ```csharp
 public abstract class PrecisionModel : IEquatable<PrecisionModel>
@@ -18,25 +18,25 @@ public abstract class PrecisionModel : IEquatable<PrecisionModel>
 
 | Имя | Описание |
 | --- | --- |
-| static [Exact](../../aspose.gis/precisionmodel/exact) { get; } | Возвращает точную модель точности. В соответствии с моделью точной точности все цифры в двойном значении являются значащими. |
+| static [Exact](../../aspose.gis/precisionmodel/exact) { get; } | Возвращает модель точной точности. В соответствии с моделью точной точности все цифры в двойном значении являются значащими. |
 | [IsExact](../../aspose.gis/precisionmodel/isexact) { get; } | Получает значение, указывающее, является ли эта модель точности точной. |
 | [IsRounding](../../aspose.gis/precisionmodel/isrounding) { get; } | Получает значение, указывающее, округляется ли эта модель точности. |
-| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits) { get; } | Получает количество значащих цифр в точной модели при округлении. |
+| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits) { get; } | Получает количество значащих цифр в модели точности, если она округляется. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [Rounding](../../aspose.gis/precisionmodel/rounding)(int) | Возвращает модель точности округления. В соответствии с моделью точности округления значащим является только ограниченное количество цифр. |
+| static [Rounding](../../aspose.gis/precisionmodel/rounding)(int) | Возвращает модель точности округления. В соответствии с моделью точности округления имеет значение только ограниченное число цифр. |
 | override [Equals](../../aspose.gis/precisionmodel/equals#equals_1)(object) | Указывает, равен ли текущий объект другому объекту того же типа. |
 | [Equals](../../aspose.gis/precisionmodel/equals#equals)(PrecisionModel) | Указывает, равен ли текущий объект другому объекту того же типа. |
-| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode)() | Служит хэш-функцией по умолчанию. |
+| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode)() | Служит хеш-функцией по умолчанию. |
 | [operator ==](../../aspose.gis/precisionmodel/op_equality) | Реализует оператор ==. |
 | [operator !=](../../aspose.gis/precisionmodel/op_inequality) | Реализует оператор !=. |
 
 ### Примечания
 
-Существует два типа PrecisionModel: &lt;ul&gt;&lt;li&gt; Точное[`PrecisionModel`](../precisionmodel)(все цифры значащие);&lt;/li&gt;&lt;li&gt;Округленное[`PrecisionModel`](../precisionmodel)(некоторое количество цифры являются значащими).&lt;/li&gt;&lt;/ul&gt; A[`PrecisionModel`](../precisionmodel)может быть установлено в[`VectorLayer`](../vectorlayer)via[`DriverOptions`](../driveroptions) для округления координат при записи или чтении геометрии.
+Существует два типа PrecisionModel:  Точный[`PrecisionModel`](../precisionmodel) (все цифры значащие); Закругленный[`PrecisionModel`](../precisionmodel) (некоторое количество цифр является значимым). А[`PrecisionModel`](../precisionmodel) можно установить на[`VectorLayer`](../vectorlayer) с помощью[`DriverOptions`](../driveroptions) для округления координат при записи или чтении геометрии.
 
 ### Смотрите также
 

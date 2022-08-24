@@ -1,7 +1,7 @@
 ---
 title: IsElseRule
 second_title: Aspose.GIS for .NET API 参考
-description: 获取指示此规则是否为else-rule的值
+description: 获取指示此规则是否为elserule的值
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.labelings/labelingrule/iselserule/
@@ -16,7 +16,7 @@ public bool IsElseRule { get; }
 
 ### 评论
 
-"Else-rule" 如果特征不匹配任何过滤规则，则将标签应用于特征。
+如果特征不匹配任何过滤规则，则“Else-rule”将标签应用于特征。
 
 ### 也可以看看
 

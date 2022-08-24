@@ -3,7 +3,7 @@ title: ILineString
 second_title: Справочник по Aspose.GIS for .NET API
 description: Многовершинная кривая с линейной интерполяцией между точками.
 type: docs
-weight: 910
+weight: 920
 url: /ru/net/aspose.gis.geometries/ilinestring/
 ---
 ## ILineString interface

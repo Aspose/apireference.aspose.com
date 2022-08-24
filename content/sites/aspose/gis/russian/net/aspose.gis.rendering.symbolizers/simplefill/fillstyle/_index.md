@@ -1,14 +1,14 @@
 ---
 title: FillStyle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает стиль заливки.
+description: Определяет стиль заливки.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering.symbolizers/simplefill/fillstyle/
 ---
 ## SimpleFill.FillStyle property
 
-Задает стиль заливки.
+Определяет стиль заливки.
 
 ```csharp
 public FillStyle FillStyle { get; set; }

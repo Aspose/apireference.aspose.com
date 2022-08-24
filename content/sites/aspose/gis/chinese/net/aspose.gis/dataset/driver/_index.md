@@ -1,14 +1,14 @@
 ---
 title: Driver
 second_title: Aspose.GIS for .NET API 参考
-description: 获取实例化此数据集的Driveraspose.gis/dataset/driver
+description: 获取Driveraspose.gis/dataset/driver实例化了这个数据集
 type: docs
 weight: 50
 url: /zh/net/aspose.gis/dataset/driver/
 ---
 ## Dataset.Driver property
 
-获取实例化此数据集的`Driver`。
+获取`Driver`实例化了这个数据集。
 
 ```csharp
 public abstract Driver Driver { get; }

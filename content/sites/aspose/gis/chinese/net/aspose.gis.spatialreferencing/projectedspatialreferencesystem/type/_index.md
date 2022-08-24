@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.GIS for .NET API 参考
-description: 返回Projected
+description: 返回Projected.
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/type/
 ---
 ## ProjectedSpatialReferenceSystem.Type property
 
-返回Projected。
+返回Projected.
 
 ```csharp
 public SpatialReferenceSystemType Type { get; }

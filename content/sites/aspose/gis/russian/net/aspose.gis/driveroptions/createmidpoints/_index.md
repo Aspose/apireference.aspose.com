@@ -1,14 +1,14 @@
 ---
 title: CreateMidpoints
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет добавлять ли новую точку посередине к каждому сегменту геометрии. По умолчаниюfalse.
+description: Определяет добавлять ли новую точку посередине к каждому сегменту геометрии. По умолчаниюfalse .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis/driveroptions/createmidpoints/
 ---
 ## DriverOptions.CreateMidpoints property
 
-Определяет, добавлять ли новую точку посередине к каждому сегменту геометрии. По умолчанию`false`.
+Определяет, добавлять ли новую точку посередине к каждому сегменту геометрии. По умолчанию`false` .
 
 ```csharp
 public bool CreateMidpoints { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MarkerLine
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаMarkerLineaspose.gis.rendering.symbolizers/markerline.
+description: Инициализирует новый экземплярMarkerLineaspose.gis.rendering.symbolizers/markerline класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.symbolizers/markerline/markerline/
 ---
 ## MarkerLine() {#constructor}
 
-Инициализирует новый экземпляр класса[`MarkerLine`](../../markerline).
+Инициализирует новый экземпляр[`MarkerLine`](../../markerline) класс.
 
 ```csharp
 public MarkerLine()
@@ -24,7 +24,7 @@ public MarkerLine()
 
 ## MarkerLine(MarkerLine) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`MarkerLine`](../../markerline).
+Инициализирует новый экземпляр[`MarkerLine`](../../markerline) класс.
 
 ```csharp
 public MarkerLine(MarkerLine other)
@@ -32,13 +32,13 @@ public MarkerLine(MarkerLine other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | MarkerLine | Другой[`MarkerLine`](../../markerline)для копирования данных из . |
+| other | MarkerLine | Другой[`MarkerLine`](../../markerline) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

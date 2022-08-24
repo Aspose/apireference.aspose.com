@@ -1,42 +1,18 @@
 ---
 title: PolygonGeneratorOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создать экземпляр с полями инициализации по умолчанию.
+description: Конструктор по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geotools/polygongeneratoroptions/polygongeneratoroptions/
 ---
-## PolygonGeneratorOptions() {#constructor}
+## PolygonGeneratorOptions constructor
 
-Создать экземпляр с полями инициализации по умолчанию.
+Конструктор по умолчанию.
 
 ```csharp
 public PolygonGeneratorOptions()
 ```
-
-### Смотрите также
-
-* class [PolygonGeneratorOptions](../../polygongeneratoroptions)
-* пространство имен [Aspose.Gis.GeoTools](../../polygongeneratoroptions)
-* сборка [Aspose.GIS](../../../)
-
----
-
-## PolygonGeneratorOptions(int, int, int, int) {#constructor_1}
-
-Создать экземпляр.
-
-```csharp
-public PolygonGeneratorOptions(int count, int minimumPolygonPoints, int maximumPolygonPoints, 
-    int seed = -1)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| count | Int32 | Количество создаваемых полигонов. |
-| minimumPolygonPoints | Int32 | Минимальная длина сгенерированного полигона. |
-| maximumPolygonPoints | Int32 | Максимальная длина сгенерированного полигона. |
-| seed | Int32 | Число, используемое для вычисления начального значения для последовательности псевдослучайных чисел. |
 
 ### Смотрите также
 

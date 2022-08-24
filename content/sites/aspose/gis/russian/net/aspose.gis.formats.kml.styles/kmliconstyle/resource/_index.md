@@ -1,14 +1,14 @@
 ---
 title: Resource
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает расположение ресурса. Значение по умолчаниюnullозначает что значок отсутствует.
+description: Указывает расположение ресурса. Значение по умолчаниюnull означает что значок пропущен.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.formats.kml.styles/kmliconstyle/resource/
 ---
 ## KmlIconStyle.Resource property
 
-Указывает расположение ресурса. Значение по умолчанию:`null`означает, что значок отсутствует.
+Указывает расположение ресурса. Значение по умолчанию`null` означает, что значок пропущен.
 
 ```csharp
 public KmlIconResource Resource { get; set; }

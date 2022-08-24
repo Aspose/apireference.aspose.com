@@ -1,14 +1,14 @@
 ---
 title: HasPrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращаетfalse поскольку вертикальный SRS не имеет нулевого меридиана.
+description: Возвращаетfalse  поскольку вертикальный SRS не имеет нулевого меридиана.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/hasprimemeridian/
 ---
 ## VerticalSpatialReferenceSystem.HasPrimeMeridian property
 
-Возвращает`false`, поскольку вертикальный SRS не имеет нулевого меридиана.
+Возвращает`false` , поскольку вертикальный SRS не имеет нулевого меридиана.
 
 ```csharp
 public override bool HasPrimeMeridian { get; }

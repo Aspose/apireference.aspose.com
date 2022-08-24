@@ -1,14 +1,14 @@
 ---
 title: SetValueNull
 second_title: Справочник по Aspose.GIS for .NET API
-description: Устанавливает значение атрибута в null .
+description: Устанавливает значение атрибута внулевой .
 type: docs
 weight: 110
 url: /ru/net/aspose.gis/feature/setvaluenull/
 ---
 ## Feature.SetValueNull method
 
-Устанавливает значение атрибута в` null` .
+Устанавливает значение атрибута в`нулевой` .
 
 ```csharp
 public void SetValueNull(string attributeName)
@@ -25,7 +25,7 @@ public void SetValueNull(string attributeName)
 | InvalidOperationException | Атрибут не заблокирован. |
 | InvalidOperationException | Значение этого атрибута не может быть нулевым. |
 | ArgumentException | Атрибут с таким именем не существует в этом слое. |
-| ArgumentNullException | Имя атрибута:`null`. |
+| ArgumentNullException | Имя атрибута`null`. |
 
 ### Смотрите также
 

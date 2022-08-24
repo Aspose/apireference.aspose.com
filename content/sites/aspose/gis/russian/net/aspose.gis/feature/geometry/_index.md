@@ -1,14 +1,14 @@
 ---
 title: Geometry
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает геометрию объекта. Не может бытьnull используйтеNullaspose.gis.geometries/geometry/nullдля указания отсутствующей геометрии.
+description: Получает или задает геометрию объекта. Не может бытьnull  использоватьNullaspose.gis.geometries/geometry/null для указания отсутствующей геометрии.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/feature/geometry/
 ---
 ## Feature.Geometry property
 
-Получает или задает геометрию объекта. Не может быть`null`, используйте[`Null`](../../../aspose.gis.geometries/geometry/null)для указания отсутствующей геометрии.
+Получает или задает геометрию объекта. Не может быть`null` , использовать[`Null`](../../../aspose.gis.geometries/geometry/null) для указания отсутствующей геометрии.
 
 ```csharp
 public IGeometry Geometry { get; set; }
@@ -18,7 +18,7 @@ public IGeometry Geometry { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Значение равно`null`. |
+| ArgumentNullException | Значение`null`. |
 
 ### Смотрите также
 

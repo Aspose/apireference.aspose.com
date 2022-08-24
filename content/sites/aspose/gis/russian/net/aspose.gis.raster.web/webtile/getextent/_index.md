@@ -1,14 +1,14 @@
 ---
 title: GetExtent
 second_title: Справочник по Aspose.GIS for .NET API
-description: Представляет пространственный экстент этого слоя.
+description: Представляет пространственную протяженность этого слоя.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.raster.web/webtile/getextent/
 ---
 ## WebTile.GetExtent method
 
-Представляет пространственный экстент этого слоя.
+Представляет пространственную протяженность этого слоя.
 
 ```csharp
 public abstract Extent GetExtent()
@@ -16,7 +16,7 @@ public abstract Extent GetExtent()
 
 ### Возвращаемое значение
 
-Пространственный экстент этого слоя.
+Пространственная протяженность этого слоя.
 
 ### Смотрите также
 

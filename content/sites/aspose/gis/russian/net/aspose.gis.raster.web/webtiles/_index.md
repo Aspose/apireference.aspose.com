@@ -1,9 +1,9 @@
 ---
 title: WebTiles
 second_title: Справочник по Aspose.GIS for .NET API
-description: Предоставляет доступ к веб-плиткам.
+description: Предоставляет доступ к вебплиткам.
 type: docs
-weight: 1340
+weight: 1350
 url: /ru/net/aspose.gis.raster.web/webtiles/
 ---
 ## WebTiles class

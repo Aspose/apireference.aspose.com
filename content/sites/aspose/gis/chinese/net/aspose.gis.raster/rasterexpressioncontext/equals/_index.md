@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.GIS for .NET API 参考
-description: 表示当前对象是否等于另一个同类型的对象
+description: 指示当前对象是否等于另一个相同类型的对象
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.raster/rasterexpressioncontext/equals/
 ---
 ## Equals(RasterExpressionContext) {#equals}
 
-表示当前对象是否等于另一个同类型的对象。
+指示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public bool Equals(RasterExpressionContext other)
@@ -20,7 +20,7 @@ public bool Equals(RasterExpressionContext other)
 
 ### 返回值
 
-如果当前对象等于 &lt;paramref name="other"&gt;other&lt;/paramref&gt; 参数，则为 true；否则为假。
+如果当前对象等于*other*范围;否则为假。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public bool Equals(RasterExpressionContext other)
 
 ## Equals(object) {#equals_1}
 
-表示此实例与指定对象是否相等。
+指示此实例和指定对象是否相等。
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 与当前实例进行比较的对象。 |
+| obj | Object | 要与当前实例进行比较的对象。 |
 
 ### 返回值
 
-true 如果 &lt;paramref name="obj"&gt;obj&lt;/paramref&gt; 和这个实例是相同的类型并且代表相同的值；否则为假。
+如果为真*obj*并且这个实例是相同的类型并且代表相同的值；否则为假。
 
 ### 也可以看看
 

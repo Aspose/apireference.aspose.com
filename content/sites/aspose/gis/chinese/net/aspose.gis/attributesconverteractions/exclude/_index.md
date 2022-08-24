@@ -1,14 +1,14 @@
 ---
 title: Exclude
 second_title: Aspose.GIS for .NET API 参考
-description: 设置true以从目标层中排除属性初始值为false
+description: 套true从目标图层中排除属性初始值为false.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/attributesconverteractions/exclude/
 ---
 ## AttributesConverterActions.Exclude property
 
-设置`true`以从目标层中排除属性。初始值为`false`。
+套`true`从目标图层中排除属性。初始值为`false`.
 
 ```csharp
 public bool Exclude { get; set; }

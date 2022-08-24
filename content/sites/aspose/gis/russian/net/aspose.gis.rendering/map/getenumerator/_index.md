@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает перечислитель перебирающий слои карты.
+description: Возвращает перечислитель который перебирает слои на карте.
 type: docs
 weight: 130
 url: /ru/net/aspose.gis.rendering/map/getenumerator/
 ---
 ## Map.GetEnumerator method
 
-Возвращает перечислитель, перебирающий слои карты.
+Возвращает перечислитель, который перебирает слои на карте.
 
 ```csharp
 public IEnumerator<MapLayer> GetEnumerator()

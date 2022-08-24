@@ -1,14 +1,14 @@
 ---
 title: Points
 second_title: Aspose.GIS for .NET API 参考
-description: 返回 测量 的新实例它表示以点为单位的长度
+description: 返回一个新的实例测量表示以点为单位的长度
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.rendering/measurement/points/
 ---
 ## Measurement.Points method
 
-返回` 测量` 的新实例，它表示以点为单位的长度。
+返回一个新的实例`测量`表示以点为单位的长度。
 
 ```csharp
 public static Measurement Points(double value)
@@ -20,7 +20,7 @@ public static Measurement Points(double value)
 
 ### 返回值
 
-` 测量` 类的新实例。
+的新实例`测量`班级。
 
 ### 也可以看看
 

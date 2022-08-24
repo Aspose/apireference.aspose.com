@@ -1,14 +1,14 @@
 ---
 title: MultiCurve
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化MultiCurveaspose.gis.geometries/multicurve类的新实例
+description: 初始化MultiCurveaspose.gis.geometries/multicurve类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/multicurve/multicurve/
 ---
 ## MultiCurve constructor
 
-初始化[`MultiCurve`](../../multicurve)类的新实例。
+初始化[`MultiCurve`](../../multicurve)类.
 
 ```csharp
 public MultiCurve()

@@ -24,7 +24,7 @@ public SimpleLine()
 
 ## SimpleLine(SimpleLine) {#constructor_1}
 
-初始化[`SimpleLine`](../../simpleline)类的新实例。
+初始化[`SimpleLine`](../../simpleline)类.
 
 ```csharp
 public SimpleLine(SimpleLine other)
@@ -32,13 +32,13 @@ public SimpleLine(SimpleLine other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleLine | 另一个[`SimpleLine`](../../simpleline)复制数据. |
+| other | SimpleLine | 另一个[`SimpleLine`](../../simpleline)从中复制数据。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ public virtual FeaturesSequence WhereNotNull(string attributeName)
 
 ### 返回值
 
-属性值不等于 null 的特征。
+属性值不等于 null 的要素。
 
 ### 例外
 

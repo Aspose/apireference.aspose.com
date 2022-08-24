@@ -1,14 +1,14 @@
 ---
 title: Unit
 second_title: Aspose.GIS for .NET API 参考
-description: 度量单位
+description: 测量单位
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.rendering/measurement/unit/
 ---
 ## Measurement.Unit property
 
-度量单位。
+测量单位。
 
 ```csharp
 public Unit Unit { get; }

@@ -1,14 +1,14 @@
 ---
 title: HasPrimeMeridian
 second_title: Aspose.GIS for .NET API 参考
-description: 返回true因为地理 SRS 总是有本初子午线
+description: 返回true  因为地理 SRS 总是有本初子午线.
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/hasprimemeridian/
 ---
 ## GeographicSpatialReferenceSystem.HasPrimeMeridian property
 
-返回`true`，因为地理 SRS 总是有本初子午线。
+返回`true` , 因为地理 SRS 总是有本初子午线.
 
 ```csharp
 public bool HasPrimeMeridian { get; }

@@ -1,14 +1,14 @@
 ---
 title: Instance
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает экземпляр NullColorizer .
+description: Получает экземплярNullColorizer .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.colorizers/nullcolorizer/instance/
 ---
 ## NullColorizer.Instance property
 
-Получает экземпляр` NullColorizer` .
+Получает экземпляр`NullColorizer` .
 
 ```csharp
 public static NullColorizer Instance { get; }

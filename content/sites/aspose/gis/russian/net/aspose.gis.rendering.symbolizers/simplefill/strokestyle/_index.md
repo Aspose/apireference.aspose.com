@@ -1,14 +1,14 @@
 ---
 title: StrokeStyle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет способ рисования линий символов.
+description: Указывает как должны быть нарисованы линии символов.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.rendering.symbolizers/simplefill/strokestyle/
 ---
 ## SimpleFill.StrokeStyle property
 
-Определяет способ рисования линий символов.
+Указывает, как должны быть нарисованы линии символов.
 
 ```csharp
 public StrokeStyle StrokeStyle { get; set; }

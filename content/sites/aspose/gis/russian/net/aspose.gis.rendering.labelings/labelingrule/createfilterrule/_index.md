@@ -17,7 +17,7 @@ public static LabelingRule CreateFilterRule(Func<Feature, bool> filter, Labeling
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filter | Func`2 | Определяет, когда следует использовать маркировку. |
-| labeling | Labeling | Применяемая маркировка. |
+| labeling | Labeling | Маркировка для применения. |
 
 ### Возвращаемое значение
 
@@ -27,7 +27,7 @@ public static LabelingRule CreateFilterRule(Func<Feature, bool> filter, Labeling
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Фильтр`null`. |
+| ArgumentNullException | Фильтр есть`null`. |
 
 ### Смотрите также
 

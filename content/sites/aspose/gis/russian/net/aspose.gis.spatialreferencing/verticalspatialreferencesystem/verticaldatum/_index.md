@@ -1,14 +1,14 @@
 ---
 title: VerticalDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Датум который используется в этом SRS.
+description: Datum который используется в этом SRS.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/verticaldatum/
 ---
 ## VerticalSpatialReferenceSystem.VerticalDatum property
 
-Датум, который используется в этом SRS.
+Datum, который используется в этом SRS.
 
 ```csharp
 public VerticalDatum VerticalDatum { get; }

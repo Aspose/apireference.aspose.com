@@ -1,14 +1,14 @@
 ---
 title: ReportAllNodes
 second_title: Справочник по Aspose.GIS for .NET API
-description: Сообщать обо всех узлах как о функциях даже если у них нет значимых тегов.
+description: Сообщать обо всех узлах как о функциях даже если у них нет важных тегов.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.osmxml/osmxmloptions/reportallnodes/
 ---
 ## OsmXmlOptions.ReportAllNodes property
 
-Сообщать обо всех узлах как о функциях, даже если у них нет значимых тегов.
+Сообщать обо всех узлах как о функциях, даже если у них нет важных тегов.
 
 ```csharp
 public bool ReportAllNodes { get; set; }

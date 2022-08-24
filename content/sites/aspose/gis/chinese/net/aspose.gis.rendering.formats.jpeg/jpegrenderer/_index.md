@@ -1,14 +1,14 @@
 ---
 title: JpegRenderer
 second_title: Aspose.GIS for .NET API 参考
-description: ARenderer../aspose.gis.rendering/renderer渲染Map../aspose.gis.rendering/map转换成 JPEG 文件
+description: 一个Renderer../aspose.gis.rendering/renderer呈现Map../aspose.gis.rendering/map成JPEG文件.
 type: docs
-weight: 1460
+weight: 1470
 url: /zh/net/aspose.gis.rendering.formats.jpeg/jpegrenderer/
 ---
 ## JpegRenderer class
 
-A[`Renderer`](../../aspose.gis.rendering/renderer)渲染[`Map`](../../aspose.gis.rendering/map)转换成 JPEG 文件。
+一个[`Renderer`](../../aspose.gis.rendering/renderer)呈现[`Map`](../../aspose.gis.rendering/map)成JPEG文件.
 
 ```csharp
 public class JpegRenderer : Renderer

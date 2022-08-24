@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.GeoTiff
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Formats.GeoTiff 命名空间提供了使用 GeoTiff 格式的类
+description: Aspose.Gis.Formats.GeoTiff命名空间提供了使用 GeoTiff 格式的类
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.formats.geotiff/
 ---
-` Aspose.Gis.Formats.GeoTiff` 命名空间提供了使用 GeoTiff 格式的类。
+`Aspose.Gis.Formats.GeoTiff`命名空间提供了使用 GeoTiff 格式的类。
 
 ## 课程
 

@@ -1,14 +1,14 @@
 ---
 title: MOrigin
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает начало координат M. Если установленоnullиспользуется значение по умолчанию.
+description: Получает или задает начало координат М. Если установленоnull используется значение по умолчанию.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/
 ---
 ## FileGdbCoordinatePrecisionGrid.MOrigin property
 
-Получает или задает начало координат M. Если установлено`null`используется значение по умолчанию.
+Получает или задает начало координат М. Если установлено`null` используется значение по умолчанию.
 
 ```csharp
 public double? MOrigin { get; set; }

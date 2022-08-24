@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по Aspose.GIS for .NET API
-description: ВозвратVertical.
+description: ВозвратVertical .
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/type/
 ---
 ## VerticalSpatialReferenceSystem.Type property
 
-ВозвратVertical.
+ВозвратVertical .
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }

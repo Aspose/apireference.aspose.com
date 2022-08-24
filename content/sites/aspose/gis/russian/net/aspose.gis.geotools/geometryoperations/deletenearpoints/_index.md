@@ -17,7 +17,7 @@ public static IGeometry DeleteNearPoints(IGeometry geometry, NearPointsCleanerOp
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | geometry | IGeometry | Геометрия для удаления ближайших точек. |
-| options | NearPointsCleanerOptions | Опции для удаления ближайших точек. |
+| options | NearPointsCleanerOptions | Варианты удаления ближайших точек. |
 
 ### Возвращаемое значение
 

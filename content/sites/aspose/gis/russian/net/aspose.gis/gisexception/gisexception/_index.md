@@ -1,14 +1,14 @@
 ---
 title: GisException
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаGisExceptionaspose.gis/gisexception.
+description: Инициализирует новый экземплярGisExceptionaspose.gis/gisexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/gisexception/gisexception/
 ---
 ## GisException() {#constructor}
 
-Инициализирует новый экземпляр класса[`GisException`](../../gisexception).
+Инициализирует новый экземпляр[`GisException`](../../gisexception) класс.
 
 ```csharp
 public GisException()
@@ -24,7 +24,7 @@ public GisException()
 
 ## GisException(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`GisException`](../../gisexception).
+Инициализирует новый экземпляр[`GisException`](../../gisexception) класс.
 
 ```csharp
 public GisException(string message)
@@ -44,7 +44,7 @@ public GisException(string message)
 
 ## GisException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`GisException`](../../gisexception).
+Инициализирует новый экземпляр[`GisException`](../../gisexception) класс.
 
 ```csharp
 public GisException(string message, Exception inner)
@@ -53,7 +53,7 @@ public GisException(string message, Exception inner)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | message | String | Сообщение, описывающее ошибку. |
-| inner | Exception | Исключение, являющееся причиной текущего исключения. |
+| inner | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 

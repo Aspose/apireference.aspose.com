@@ -1,14 +1,14 @@
 ---
 title: Dataset
 second_title: Aspose.GIS for .NET API 参考
-description: 数据集是VectorLayer./vectorlayer实例的集合
+description: 数据集是VectorLayer./vectorlayer实例.
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/dataset/
 ---
 ## Dataset class
 
-数据集是[`VectorLayer`](../vectorlayer)实例的集合。
+数据集是[`VectorLayer`](../vectorlayer)实例.
 
 ```csharp
 public abstract class Dataset : IDisposable
@@ -18,19 +18,19 @@ public abstract class Dataset : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [CanCreateLayers](../../aspose.gis/dataset/cancreatelayers) { get; } | 获取一个值，该值指示此数据集是否可以创建矢量图层。 |
-| virtual [CanRemoveLayers](../../aspose.gis/dataset/canremovelayers) { get; } | 获取一个值，该值指示此数据集是否可以移除矢量图层。 |
-| abstract [Driver](../../aspose.gis/dataset/driver) { get; } | 获取实例化此数据集的[`Driver`](./driver)。 |
+| virtual [CanCreateLayers](../../aspose.gis/dataset/cancreatelayers) { get; } | 获取表示此数据集是否可以创建矢量图层的值。 |
+| virtual [CanRemoveLayers](../../aspose.gis/dataset/canremovelayers) { get; } | 获取表示此数据集是否可以移除矢量图层的值。 |
+| abstract [Driver](../../aspose.gis/dataset/driver) { get; } | 获取[`Driver`](./driver)实例化了这个数据集。 |
 | abstract [LayersCount](../../aspose.gis/dataset/layerscount) { get; } | 获取此数据集中的层数。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Create](../../aspose.gis/dataset/create#create)(AbstractPath, FileDriver) | 创建数据集。 |
-| static [Create](../../aspose.gis/dataset/create#create_2)(string, FileDriver) | 创建数据集。 |
-| static [Create](../../aspose.gis/dataset/create#create_1)(AbstractPath, FileDriver, DriverOptions) | 创建数据集。 |
-| static [Create](../../aspose.gis/dataset/create#create_3)(string, FileDriver, DriverOptions) | 创建数据集。 |
+| static [Create](../../aspose.gis/dataset/create#create)(AbstractPath, FileDriver) | 创建一个数据集。 |
+| static [Create](../../aspose.gis/dataset/create#create_2)(string, FileDriver) | 创建一个数据集。 |
+| static [Create](../../aspose.gis/dataset/create#create_1)(AbstractPath, FileDriver, DriverOptions) | 创建一个数据集。 |
+| static [Create](../../aspose.gis/dataset/create#create_3)(string, FileDriver, DriverOptions) | 创建一个数据集。 |
 | static [Open](../../aspose.gis/dataset/open#open)(AbstractPath, FileDriver) | 打开数据集。 |
 | static [Open](../../aspose.gis/dataset/open#open_2)(IDbConnection, DatabaseDriver) | 打开数据集。 |
 | static [Open](../../aspose.gis/dataset/open#open_3)(string, FileDriver) | 打开数据集。 |
@@ -39,13 +39,13 @@ public abstract class Dataset : IDisposable
 | virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer)() | 创建一个新的矢量图层并将其打开以进行附加。 |
 | virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_2)(SpatialReferenceSystem) | 创建一个新的矢量图层并将其打开以进行附加。 |
 | virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_1)(DriverOptions, SpatialReferenceSystem) | 创建一个新的矢量图层并将其打开以进行附加。 |
-| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_4)(string, SpatialReferenceSystem) | 创建具有指定名称的新矢量图层并将其打开以进行附加。 |
-| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_3)(string, DriverOptions, SpatialReferenceSystem) | 创建具有指定名称的新矢量图层并将其打开以进行附加。 |
-| [Dispose](../../aspose.gis/dataset/dispose)() | 释放[`Dataset`](../dataset)使用的资源。 |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_4)(string, SpatialReferenceSystem) | 创建一个具有指定名称的新矢量图层并打开它以进行附加。 |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_3)(string, DriverOptions, SpatialReferenceSystem) | 创建一个具有指定名称的新矢量图层并打开它以进行附加。 |
+| [Dispose](../../aspose.gis/dataset/dispose)() | 释放所使用的资源[`Dataset`](../dataset). |
 | abstract [EditLayer](../../aspose.gis/dataset/editlayer)(string, DriverOptions, SpatialReferenceSystem) | 打开具有指定名称的图层进行编辑。 |
 | abstract [GetLayerName](../../aspose.gis/dataset/getlayername)(int) | 获取指定索引处的图层名称。 |
 | abstract [OpenLayer](../../aspose.gis/dataset/openlayer)(string, DriverOptions) | 打开指定名称的图层进行读取。 |
-| abstract [OpenLayerAt](../../aspose.gis/dataset/openlayerat)(int, DriverOptions) | 在指定索引处打开图层进行读取。 |
+| abstract [OpenLayerAt](../../aspose.gis/dataset/openlayerat)(int, DriverOptions) | 在指定索引处打开图层以供读取。 |
 | virtual [RemoveLayer](../../aspose.gis/dataset/removelayer)(string) | 移除指定名称的矢量图层。 |
 | virtual [RemoveLayerAt](../../aspose.gis/dataset/removelayerat)(int) | 删除指定索引处的矢量图层。 |
 

@@ -1,14 +1,14 @@
 ---
 title: TargetExtent
 second_title: Aspose.GIS for .NET API 参考
-description: 指定要扭曲的栅格图层的边界 如果设置为null则在变形期间计算范围以包括栅格中的所有像元
+description: 指定要扭曲的栅格图层的边界 如果设置为null范围在变形期间计算以包括来自 raster. 的所有像元
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.raster/warpoptions/targetextent/
 ---
 ## WarpOptions.TargetExtent property
 
-指定要扭曲的栅格图层的边界。 如果设置为`null`，则在变形期间计算范围以包括栅格中的所有像元。
+指定要扭曲的栅格图层的边界。 如果设置为`null`，范围在变形期间计算以包括来自 raster. 的所有像元
 
 ```csharp
 public Extent TargetExtent { get; set; }

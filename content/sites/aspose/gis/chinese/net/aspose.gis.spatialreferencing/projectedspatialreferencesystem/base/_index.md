@@ -1,14 +1,14 @@
 ---
 title: Base
 second_title: Aspose.GIS for .NET API 参考
-description: 地理 SRS 应用Projection以获取此 SRS
+description: 地理 SRS 到哪个Projectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection已申请获得此 SRS.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/base/
 ---
 ## ProjectedSpatialReferenceSystem.Base property
 
-地理 SRS 应用Projection以获取此 SRS。
+地理 SRS 到哪个[`Projection`](../projection)已申请获得此 SRS.
 
 ```csharp
 public abstract GeographicSpatialReferenceSystem Base { get; }

@@ -3,7 +3,7 @@ title: SpatialReferenceSystemTransformation
 second_title: Справочник по Aspose.GIS for .NET API
 description: Преобразование пространственной системы отсчета преобразует геометрию из исходной системы пространственной привязки в целевую систему пространственной привязки.
 type: docs
-weight: 2150
+weight: 2160
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/
 ---
 ## SpatialReferenceSystemTransformation class

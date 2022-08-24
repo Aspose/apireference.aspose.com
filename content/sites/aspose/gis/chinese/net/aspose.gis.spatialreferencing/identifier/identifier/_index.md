@@ -16,14 +16,14 @@ public Identifier(string authorityName, string authorityUniqueIdentifier)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| authorityName | String | [`AuthorityName`](../authorityname)。 |
-| authorityUniqueIdentifier | String | [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier)。 |
+| authorityName | String | [`AuthorityName`](../authorityname). |
+| authorityUniqueIdentifier | String | [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier). |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *authorityName*或*authorityUniqueIdentifier*是`null`. |
+| ArgumentNullException | *authorityName*或者*authorityUniqueIdentifier*是`null`. |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ProjectionMethodName
 second_title: Справочник по Aspose.GIS for .NET API
-description: Имя метода проецирования. Значение по умолчанию отсутствует и вы ДОЛЖНЫ установить для этого параметра значение notnull поскольку спроецированный SRS без имени проекции бесполезен.
+description: Имя метода проецирования. Нет значения по умолчанию и вы ДОЛЖНЫ установить этот параметр на неnull значение поскольку проекция SRS без имени проекции бесполезна.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname/
 ---
 ## ProjectedSpatialReferenceSystemParameters.ProjectionMethodName property
 
-Имя метода проецирования. Значение по умолчанию отсутствует, и вы ДОЛЖНЫ установить для этого параметра значение not`null`, поскольку спроецированный SRS без имени проекции бесполезен.
+Имя метода проецирования. Нет значения по умолчанию, и вы ДОЛЖНЫ установить этот параметр на не`null` значение, поскольку проекция SRS без имени проекции бесполезна.
 
 ```csharp
 public string ProjectionMethodName { get; set; }

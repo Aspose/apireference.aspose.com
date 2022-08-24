@@ -3,7 +3,7 @@ title: ICurvePolygon
 second_title: Aspose.GIS for .NET API 参考
 description: 一个平面由 1 个外部边界和 0 个或多个内部边界定义
 type: docs
-weight: 880
+weight: 890
 url: /zh/net/aspose.gis.geometries/icurvepolygon/
 ---
 ## ICurvePolygon interface
@@ -19,7 +19,7 @@ public interface ICurvePolygon : IEquatable<ICurvePolygon>, ISurface
 | 姓名 | 描述 |
 | --- | --- |
 | [ExteriorRing](../../aspose.gis.geometries/icurvepolygon/exteriorring) { get; } | 获取外环。 |
-| [InteriorRingsCount](../../aspose.gis.geometries/icurvepolygon/interiorringscount) { get; } | 获取内部环的数量。 |
+| [InteriorRingsCount](../../aspose.gis.geometries/icurvepolygon/interiorringscount) { get; } | 获取内环数。 |
 
 ## 方法
 

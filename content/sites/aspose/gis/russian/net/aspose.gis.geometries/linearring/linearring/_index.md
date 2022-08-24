@@ -1,14 +1,14 @@
 ---
 title: LinearRing
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаLinearRingaspose.gis.geometries/linearring.
+description: Инициализирует новый экземплярLinearRingaspose.gis.geometries/linearring класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/linearring/linearring/
 ---
 ## LinearRing() {#constructor}
 
-Инициализирует новый экземпляр класса[`LinearRing`](../../linearring).
+Инициализирует новый экземпляр[`LinearRing`](../../linearring) класс.
 
 ```csharp
 public LinearRing()
@@ -24,7 +24,7 @@ public LinearRing()
 
 ## LinearRing(ILineString) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LinearRing`](../../linearring).
+Инициализирует новый экземпляр[`LinearRing`](../../linearring) класс.
 
 ```csharp
 public LinearRing(ILineString other)
@@ -38,7 +38,7 @@ public LinearRing(ILineString other)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 
@@ -51,7 +51,7 @@ public LinearRing(ILineString other)
 
 ## LinearRing(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`LinearRing`](../../linearring).
+Инициализирует новый экземпляр[`LinearRing`](../../linearring) класс.
 
 ```csharp
 public LinearRing(IEnumerable<IPoint> collection)
@@ -59,13 +59,13 @@ public LinearRing(IEnumerable<IPoint> collection)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| коллекция | IEnumerable`1 | Коллекция очков. |
+| collection | IEnumerable`1 | Сбор очков. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

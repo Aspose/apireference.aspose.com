@@ -17,21 +17,21 @@ public static CompoundSpatialReferenceSystem CreateCompound(string name,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя нового SRS. |
-| head | SpatialReferenceSystem | Головка SRS новой SRS. |
+| name | String | Название новой SRS. |
+| head | SpatialReferenceSystem | Головка СГД новой СГД. |
 | tail | SpatialReferenceSystem | Хвост SRS нового SRS. |
-| identifier | Identifier | Идентификатор, который будет прикреплен к SRS. Присоединение идентификатора не изменит другие параметры SRS. Вы должны обеспечить согласованность идентификатора и параметров SRS. |
+| identifier | Identifier | Идентификатор, который будет прикреплен к SRS. Добавление идентификатора не изменит другие параметры SRS. Вы сами должны обеспечить согласованность идентификатора и параметров SRS. |
 
 ### Возвращаемое значение
 
-Новая составная SRS.
+Новый компаунд SRS.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Любой аргумент, кроме*identifier*is`null`. |
-| InvalidOperationException | *head*или*tail*сами являются составными SRS. |
+| ArgumentNullException | Любой аргумент, кроме*identifier* является`null` . |
+| InvalidOperationException | *head* или же*tail* сами являются составными SRS. |
 
 ### Смотрите также
 

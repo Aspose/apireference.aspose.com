@@ -1,14 +1,14 @@
 ---
 title: IsSimple
 second_title: Aspose.GIS for .NET API 参考
-description: 获取一个值该值指示此实例从 SFA 的角度来看是否简单
+description: 获取一个值该值指示从 SFA 的角度来看此实例是否简单
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.geometries/geometry/issimple/
 ---
 ## Geometry.IsSimple property
 
-获取一个值，该值指示此实例从 SFA 的角度来看是否简单。
+获取一个值，该值指示从 SFA 的角度来看此实例是否简单。
 
 ```csharp
 public bool IsSimple { get; }

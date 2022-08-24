@@ -1,14 +1,14 @@
 ---
 title: GeometryDimension
 second_title: Aspose.GIS for .NET API 参考
-description: Geometry的拓扑维度
+description: 拓扑维度Geometry./geometry.
 type: docs
-weight: 830
+weight: 840
 url: /zh/net/aspose.gis.geometries/geometrydimension/
 ---
 ## GeometryDimension enumeration
 
-Geometry的拓扑维度。
+拓扑维度[`Geometry`](../geometry).
 
 ```csharp
 public enum GeometryDimension

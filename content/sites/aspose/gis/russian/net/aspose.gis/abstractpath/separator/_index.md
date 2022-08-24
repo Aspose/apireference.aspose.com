@@ -1,14 +1,14 @@
 ---
 title: Separator
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает символ-разделитель используемый для разделения уровней каталогов строкиLocationaspose.gis/abstractpath/location.
+description: Получает символразделитель используемый для разделения уровней каталоговLocationaspose.gis/abstractpath/location нить.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis/abstractpath/separator/
 ---
 ## AbstractPath.Separator property
 
-Получает символ-разделитель, используемый для разделения уровней каталогов строки[`Location`](../location).
+Получает символ-разделитель, используемый для разделения уровней каталогов[`Location`](../location) нить.
 
 ```csharp
 public abstract char Separator { get; }
@@ -16,11 +16,11 @@ public abstract char Separator { get; }
 
 ### Стоимость имущества
 
-Символ-разделитель, используемый для разделения уровней каталогов строки[`Location`](../location).
+Символ-разделитель, используемый для разделения уровней каталогов[`Location`](../location) нить.
 
 ### Примечания
 
-Обычно это равно прямой '/' или обратной косой черте '\\'.
+Обычно это равно прямой «/» или обратной косой черте «\\».
 
 ### Смотрите также
 

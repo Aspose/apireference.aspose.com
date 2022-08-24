@@ -1,14 +1,14 @@
 ---
 title: Meter
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получить единицу представляющую метры.
+description: Получите Unit который представляет метры.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/unit/meter/
 ---
 ## Unit.Meter property
 
-Получить единицу, представляющую метры.
+Получите Unit, который представляет метры.
 
 ```csharp
 public static Unit Meter { get; }

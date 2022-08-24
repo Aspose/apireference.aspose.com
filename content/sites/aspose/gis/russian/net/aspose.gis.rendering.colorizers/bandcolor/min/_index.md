@@ -1,14 +1,14 @@
 ---
 title: Min
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает минимальное значение.
+description: Задает минимальное значение.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering.colorizers/bandcolor/min/
 ---
 ## BandColor.Min property
 
-Указывает минимальное значение.
+Задает минимальное значение.
 
 ```csharp
 public double Min { get; set; }

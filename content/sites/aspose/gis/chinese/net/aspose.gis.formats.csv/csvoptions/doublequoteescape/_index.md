@@ -1,14 +1,14 @@
 ---
 title: DoubleQuoteEscape
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置用作双引号的转义字母的字符 默认为 
+description: 获取或设置用作双引号的转义字母的字符 默认为
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.formats.csv/csvoptions/doublequoteescape/
 ---
 ## CsvOptions.DoubleQuoteEscape property
 
-获取或设置用作双引号的转义字母的字符。 默认为 '"'。
+获取或设置用作双引号的转义字母的字符。 默认为'"'。
 
 ```csharp
 public char DoubleQuoteEscape { get; set; }

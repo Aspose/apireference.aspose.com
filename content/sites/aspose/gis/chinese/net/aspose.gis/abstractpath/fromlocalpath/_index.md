@@ -1,14 +1,14 @@
 ---
 title: FromLocalPath
 second_title: Aspose.GIS for .NET API 参考
-description: 创建一个AbstractPathaspose.gis/abstractpath表示本地文件系统上的位置
+description: 创建一个AbstractPathaspose.gis/abstractpath表示本地文件系统上的一个位置
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/abstractpath/fromlocalpath/
 ---
 ## AbstractPath.FromLocalPath method
 
-创建一个[`AbstractPath`](../../abstractpath)表示本地文件系统上的位置。
+创建一个[`AbstractPath`](../../abstractpath)表示本地文件系统上的一个位置。
 
 ```csharp
 public static AbstractPath FromLocalPath(string path)
@@ -16,17 +16,17 @@ public static AbstractPath FromLocalPath(string path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 本地文件系统上的路径，例如` "C:\\file.shp"` 或` "D:\\directory\\"` 。 |
+| path | String | 本地文件系统上的路径，例如`"C:\\file.shp"`或者`"D:\\目录\\"`. |
 
 ### 返回值
 
-一个[`AbstractPath`](../../abstractpath)表示由定义的位置小路*path*.。
+一个[`AbstractPath`](../../abstractpath)表示由*path*.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

@@ -26,7 +26,7 @@ public int IndexOf(string name)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Имя атрибута:`null`. |
+| ArgumentNullException | Имя атрибута`null`. |
 
 ### Смотрите также
 

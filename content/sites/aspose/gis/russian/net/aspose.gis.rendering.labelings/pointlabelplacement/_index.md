@@ -1,14 +1,14 @@
 ---
 title: PointLabelPlacement
 second_title: Справочник по Aspose.GIS for .NET API
-description: Размещение меток точек размещает метки рядом с центрами геометрии.
+description: Размещение меток точек помещает метки рядом с центрами геометрии.
 type: docs
-weight: 1570
+weight: 1580
 url: /ru/net/aspose.gis.rendering.labelings/pointlabelplacement/
 ---
 ## PointLabelPlacement class
 
-Размещение меток точек размещает метки рядом с центрами геометрии.
+Размещение меток точек помещает метки рядом с центрами геометрии.
 
 ```csharp
 public class PointLabelPlacement : LabelPlacement
@@ -26,10 +26,10 @@ public class PointLabelPlacement : LabelPlacement
 | Имя | Описание |
 | --- | --- |
 | [HorizontalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontalanchorpoint) { get; set; } | Указывает, какая сторона метки будет выровнена по горизонтали с точкой. |
-| [HorizontalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset) { get; set; } | Определяет горизонтальное смещение от местоположения точки до точки привязки меток. |
+| [HorizontalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset) { get; set; } | Задает горизонтальное смещение от точки до точки привязки метки. |
 | [Rotation](../../aspose.gis.rendering.labelings/pointlabelplacement/rotation) { get; set; } | Задает поворот метки в градусах. |
 | [VerticalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/verticalanchorpoint) { get; set; } | Указывает, какая сторона метки будет выровнена по вертикали с точкой. |
-| [VerticalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/verticaloffset) { get; set; } | Определяет вертикальное смещение от местоположения точки до точки привязки меток. |
+| [VerticalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/verticaloffset) { get; set; } | Задает смещение по вертикали от местоположения точки до точки привязки меток. |
 
 ## Методы
 

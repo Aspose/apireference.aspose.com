@@ -17,22 +17,22 @@ public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum da
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя SRS. |
+| name | String | Название СРС. |
 | datum | LocalDatum | Datum для использования в SRS. |
 | unit | Unit | Единица, используемая в SRS. |
-| оси | ICollection`1 | Оси для использования в SRS. Должен быть непустым |
-| identifier | Identifier | Идентификатор, который будет прикреплен к SRS. Присоединение идентификатора не изменит другие параметры SRS. Вы должны обеспечить согласованность идентификатора и параметров SRS. |
+| axises | ICollection`1 | Оси для использования в SRS. Должен быть не пустым |
+| identifier | Identifier | Идентификатор, который будет прикреплен к SRS. Добавление идентификатора не изменит другие параметры SRS. Вы сами должны обеспечить согласованность идентификатора и параметров SRS. |
 
 ### Возвращаемое значение
 
-Новая локальная SRS.
+Новая местная СГД.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | *axis*пусто. |
-| ArgumentNullException | Любой аргумент, кроме*identifier*равен нулю. |
+| InvalidOperationException | *axises* пустой. |
+| ArgumentNullException | Любой аргумент, кроме*identifier* нулевой. |
 
 ### Смотрите также
 

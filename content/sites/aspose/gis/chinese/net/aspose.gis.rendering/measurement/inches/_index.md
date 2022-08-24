@@ -1,14 +1,14 @@
 ---
 title: Inches
 second_title: Aspose.GIS for .NET API 参考
-description: 返回 测量 的新实例以英寸为单位
+description: 返回一个新的实例测量表示以英寸为单位的长度
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering/measurement/inches/
 ---
 ## Measurement.Inches method
 
-返回` 测量` 的新实例，以英寸为单位。
+返回一个新的实例`测量`表示以英寸为单位的长度。
 
 ```csharp
 public static Measurement Inches(double value)
@@ -20,7 +20,7 @@ public static Measurement Inches(double value)
 
 ### 返回值
 
-` 测量` 类的新实例。
+的新实例`测量`班级。
 
 ### 也可以看看
 

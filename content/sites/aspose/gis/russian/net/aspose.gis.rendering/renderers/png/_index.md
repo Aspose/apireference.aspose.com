@@ -1,14 +1,14 @@
 ---
 title: Png
 second_title: Справочник по Aspose.GIS for .NET API
-description: Модуль рендеринга выполняющий рендеринг в формате PNG.
+description: Средство визуализации которое выполняет рендеринг в формате PNG.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.rendering/renderers/png/
 ---
 ## Renderers.Png property
 
-Модуль рендеринга, выполняющий рендеринг в формате PNG.
+Средство визуализации, которое выполняет рендеринг в формате PNG.
 
 ```csharp
 public static PngRenderer Png { get; }

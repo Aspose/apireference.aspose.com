@@ -1,14 +1,14 @@
 ---
 title: ListDirectory
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает пути расположенные внутри этого AbstractPath  если это каталог.
+description: Возвращает пути расположенные внутри этогоАннотацияПуть  если это каталог.
 type: docs
 weight: 110
 url: /ru/net/aspose.gis/abstractpath/listdirectory/
 ---
 ## AbstractPath.ListDirectory method
 
-Возвращает пути, расположенные внутри этого` AbstractPath` , если это каталог.
+Возвращает пути, расположенные внутри этого`АннотацияПуть` , если это каталог.
 
 ```csharp
 public abstract IEnumerable<AbstractPath> ListDirectory()
@@ -16,7 +16,7 @@ public abstract IEnumerable<AbstractPath> ListDirectory()
 
 ### Возвращаемое значение
 
-Пути, расположенные внутри этого` AbstractPath` .
+Пути, расположенные внутри этого`АннотацияПуть` .
 
 ### Смотрите также
 

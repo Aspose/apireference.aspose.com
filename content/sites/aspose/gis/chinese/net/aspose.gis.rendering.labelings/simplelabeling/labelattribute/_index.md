@@ -1,14 +1,14 @@
 ---
 title: LabelAttribute
 second_title: Aspose.GIS for .NET API 参考
-description: 用作标签源的属性名称如果设置LabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpression则忽略 LabelAttributeaspose.gis.rendering.labelings/simplelabeling/labelattribute或LabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpression必须在渲染前设置 InvalidOperationException否则抛出
+description: 用作标签源的属性名称忽略如果LabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpression已设置 要么LabelAttributeaspose.gis.rendering.labelings/simplelabeling/labelattribute或者LabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpression必须在渲染前设置 InvalidOperationException否则抛出
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/labelattribute/
 ---
 ## SimpleLabeling.LabelAttribute property
 
-用作标签源的属性名称。如果设置[`LabelExpression`](../labelexpression)则忽略。 `LabelAttribute`或[`LabelExpression`](../labelexpression)必须在渲染前设置； InvalidOperationException否则抛出。
+用作标签源的属性名称。忽略如果[`LabelExpression`](../labelexpression)已设置。 要么`LabelAttribute`或者[`LabelExpression`](../labelexpression)必须在渲染前设置； InvalidOperationException否则抛出。
 
 ```csharp
 public string LabelAttribute { get; set; }

@@ -16,7 +16,7 @@ public bool EqualsNoData(int bandIndex = 0)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| bandIndex | Int32 | 波段的索引。编号从 0 开始。 |
+| bandIndex | Int32 | 乐队的索引。编号从 0 开始。 |
 
 ### 返回值
 

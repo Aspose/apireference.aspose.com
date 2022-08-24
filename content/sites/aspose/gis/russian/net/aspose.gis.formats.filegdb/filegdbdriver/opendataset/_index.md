@@ -17,7 +17,7 @@ public Dataset OpenDataset(string path, FileGdbOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к набору данных. |
-| options | FileGdbOptions | Опции драйвера. |
+| options | FileGdbOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -28,10 +28,10 @@ public Dataset OpenDataset(string path, FileGdbOptions options)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../../aspose.gis/gisexception) | Ошибка чтения слоя из набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
 
 ### Смотрите также
 
@@ -54,7 +54,7 @@ public override Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к набору данных. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -65,10 +65,10 @@ public override Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../../aspose.gis/gisexception) | Ошибка чтения слоя из набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
 
 ### Смотрите также
 
@@ -92,7 +92,7 @@ public Dataset OpenDataset(AbstractPath path, FileGdbOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к набору данных. |
-| options | FileGdbOptions | Опции драйвера. |
+| options | FileGdbOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -103,10 +103,10 @@ public Dataset OpenDataset(AbstractPath path, FileGdbOptions options)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../../aspose.gis/gisexception) | Ошибка чтения слоя из набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
 
 ### Смотрите также
 

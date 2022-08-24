@@ -1,14 +1,14 @@
 ---
 title: TextColor
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет цвет текста переднего плана. Значение по умолчаниюBlack.
+description: Определяет цвет переднего плана текста. Значение по умолчаниюBlack .
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor/
 ---
 ## KmlBalloonStyle.TextColor property
 
-Определяет цвет текста переднего плана. Значение по умолчанию:Black.
+Определяет цвет переднего плана текста. Значение по умолчаниюBlack .
 
 ```csharp
 public Color TextColor { get; set; }

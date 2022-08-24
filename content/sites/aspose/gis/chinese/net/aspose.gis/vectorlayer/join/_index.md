@@ -1,14 +1,14 @@
 ---
 title: Join
 second_title: Aspose.GIS for .NET API 参考
-description: 将图层连接到当前图层
+description: 将一个图层加入当前图层
 type: docs
 weight: 120
 url: /zh/net/aspose.gis/vectorlayer/join/
 ---
 ## VectorLayer.Join method
 
-将图层连接到当前图层。
+将一个图层加入当前图层。
 
 ```csharp
 public VectorLayer Join(VectorLayer layer, JoinOptions options)
@@ -21,7 +21,7 @@ public VectorLayer Join(VectorLayer layer, JoinOptions options)
 
 ### 返回值
 
-作为连接两个层的结果的新层。
+一个新层作为连接两个层的结果。
 
 ### 例外
 

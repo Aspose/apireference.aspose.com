@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Справочник по Aspose.GIS for .NET API
-description: SpatialReferenceSystemaspose.gis.spatialreferencing/spatialreferencesystemсвязанный с этим экстентом. Может бытьnullеслиSpatialReferenceSystemaspose.gis/extent/spatialreferencesystemнеизвестно. ИспользуйтеGetTransformedaspose.gis/extent/gettransformed для преобразования экстента между разностной пространственной привязкой системы.
+description: SpatialReferenceSystemaspose.gis.spatialreferencing/spatialreferencesystem связанный с этим экстентом. Может бытьnull еслиSpatialReferenceSystemaspose.gis/extent/spatialreferencesystemнеизвестно. ИспользоватьGetTransformedaspose.gis/extent/gettransformed для преобразования экстента между разностными системами пространственной привязки.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis/extent/spatialreferencesystem/
 ---
 ## Extent.SpatialReferenceSystem property
 
-[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)связанный с этим экстентом. Может быть`null`если`SpatialReferenceSystem`неизвестно. Используйте[`GetTransformed`](../gettransformed): для преобразования экстента между разностной пространственной привязкой системы.
+[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) связанный с этим экстентом. Может быть`null` если`SpatialReferenceSystem`неизвестно. Использовать[`GetTransformed`](../gettransformed) для преобразования экстента между разностными системами пространственной привязки.
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }

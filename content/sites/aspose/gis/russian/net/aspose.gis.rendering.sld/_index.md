@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Rendering.Sld
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Aspose.Gis.Rendering.SldПространство имен предоставляет классы для настройки импорта SLD.
+description: Aspose.Gis.Rendering.Sld namespace предоставляет классы для настройки импорта SLD.
 type: docs
 weight: 310
 url: /ru/net/aspose.gis.rendering.sld/
 ---
-` Aspose.Gis.Rendering.Sld`Пространство имен предоставляет классы для настройки импорта SLD.
+`Aspose.Gis.Rendering.Sld` namespace предоставляет классы для настройки импорта SLD.
 
 ## Классы
 

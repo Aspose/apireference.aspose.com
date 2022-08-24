@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает начальную строку координата y.
+description: Получает начальную строку координата Y.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.raster/rasterrect/y/
 ---
 ## RasterRect.Y property
 
-Получает начальную строку (координата y).
+Получает начальную строку (координата Y).
 
 ```csharp
 public int Y { get; }

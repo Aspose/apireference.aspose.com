@@ -3,7 +3,7 @@ title: GeometryGenerator
 second_title: Aspose.GIS for .NET API 参考
 description: 装饰符号器以在渲染前修改要素的几何形状
 type: docs
-weight: 1700
+weight: 1710
 url: /zh/net/aspose.gis.rendering.symbolizers/geometrygenerator/
 ---
 ## GeometryGenerator class
@@ -24,8 +24,8 @@ public class GeometryGenerator : VectorSymbolizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Expression](../../aspose.gis.rendering.symbolizers/geometrygenerator/expression) { get; set; } | 提供一种将要素几何替换为为符号器修改的几何的方法。 默认为`null`（按原样使用要素几何）。 |
-| [Symbolizer](../../aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer) { get; set; } | 指定符号器以应用于修改后的几何体。 默认为`NullVectorSymbolizer`。 |
+| [Expression](../../aspose.gis.rendering.symbolizers/geometrygenerator/expression) { get; set; } | 提供一种将要素几何替换为为符号器修改的几何图形的方法。 默认为`null`（按原样使用要素几何）. |
+| [Symbolizer](../../aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer) { get; set; } | 指定符号器以应用于修改后的几何图形。 默认为`NullVectorSymbolizer`. |
 
 ### 也可以看看
 

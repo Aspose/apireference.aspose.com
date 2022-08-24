@@ -1,14 +1,14 @@
 ---
 title: AsVertical
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает этот SRS преобразованный вVerticalSpatialReferenceSystemaspose.gis.spatialreferencing/verticalspatialreferencesystem. ИспользуйтеTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
+description: Возвращает этот SRS преобразованный вVerticalSpatialReferenceSystemaspose.gis.spatialreferencing/verticalspatialreferencesystem . ИспользоватьTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/asvertical/
 ---
 ## SpatialReferenceSystem.AsVertical property
 
-Возвращает этот SRS, преобразованный в[`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem). Используйте[`Type`](../type), чтобы узнать, возможно ли преобразование.
+Возвращает этот SRS, преобразованный в[`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem) . Использовать[`Type`](../type) чтобы узнать, возможно ли преобразование.
 
 ```csharp
 public virtual VerticalSpatialReferenceSystem AsVertical { get; }

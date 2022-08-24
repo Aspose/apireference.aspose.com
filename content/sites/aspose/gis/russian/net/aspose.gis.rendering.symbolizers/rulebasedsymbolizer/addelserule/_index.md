@@ -16,13 +16,13 @@ public void AddElseRule(VectorSymbolizer symbolizer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| символизатор | VectorSymbolizer | Символизатор. |
+| symbolizer | VectorSymbolizer | Символизатор. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

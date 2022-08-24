@@ -3,7 +3,7 @@ title: PointLabelPlacement
 second_title: Aspose.GIS for .NET API 参考
 description: 点标签放置将标签放置在几何中心附近
 type: docs
-weight: 1570
+weight: 1580
 url: /zh/net/aspose.gis.rendering.labelings/pointlabelplacement/
 ---
 ## PointLabelPlacement class

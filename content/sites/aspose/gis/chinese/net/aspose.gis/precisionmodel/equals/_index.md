@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.GIS for .NET API 参考
-description: 表示当前对象是否等于另一个同类型的对象
+description: 指示当前对象是否等于另一个相同类型的对象
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/precisionmodel/equals/
 ---
 ## Equals(object) {#equals_1}
 
-表示当前对象是否等于另一个同类型的对象。
+指示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public override bool Equals(object other)
@@ -20,7 +20,7 @@ public override bool Equals(object other)
 
 ### 返回值
 
-如果当前对象等于*other*参数，则为 true；否则为假。
+如果当前对象等于*other*范围;否则为假。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public override bool Equals(object other)
 
 ## Equals(PrecisionModel) {#equals}
 
-表示当前对象是否等于另一个同类型的对象。
+指示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public bool Equals(PrecisionModel other)
@@ -44,7 +44,7 @@ public bool Equals(PrecisionModel other)
 
 ### 返回值
 
-如果当前对象等于*other*参数，则为 true；否则为假。
+如果当前对象等于*other*范围;否则为假。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.GIS for .NET API 参考
-description: 此复合 SRS 的类型可以是Geographicif 这个复合 SRS 是地理和垂直 SRS 的组合或者Projectedif 这个复合 SRS 是投影和垂直 SRS 的组合
+description: 此复合 SRS 的类型可Geographicif 这个复合 SRS 是地理和垂直 SRS 的组合或者Projectedif 这个复合 SRS 是投影和垂直 SRS 的组合
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/type/
 ---
 ## CompoundSpatialReferenceSystem.Type property
 
-此复合 SRS 的类型。可以是Geographicif 这个复合 SRS 是地理和垂直 SRS 的组合，或者Projectedif 这个复合 SRS 是投影和垂直 SRS 的组合。
+此复合 SRS 的类型。可Geographicif 这个复合 SRS 是地理和垂直 SRS 的组合，或者Projectedif 这个复合 SRS 是投影和垂直 SRS 的组合。
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }

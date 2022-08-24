@@ -1,14 +1,14 @@
 ---
 title: AngularUnit
 second_title: Справочник по Aspose.GIS for .NET API
-description: Единица используемая для угловых размеров в этом SRS.
+description: Единица используемая для угловых размеров в этой SRS.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/angularunit/
 ---
 ## GeographicSpatialReferenceSystem.AngularUnit property
 
-Единица, используемая для угловых размеров в этом SRS.
+Единица, используемая для угловых размеров в этой SRS.
 
 ```csharp
 public abstract Unit AngularUnit { get; }

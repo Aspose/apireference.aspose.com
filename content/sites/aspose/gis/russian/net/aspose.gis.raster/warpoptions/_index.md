@@ -1,14 +1,14 @@
 ---
 title: WarpOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Варианты деформации растра.
+description: Параметры деформации растра.
 type: docs
-weight: 1320
+weight: 1330
 url: /ru/net/aspose.gis.raster/warpoptions/
 ---
 ## WarpOptions class
 
-Варианты деформации растра.
+Параметры деформации растра.
 
 ```csharp
 public class WarpOptions
@@ -24,12 +24,12 @@ public class WarpOptions
 
 | Имя | Описание |
 | --- | --- |
-| [CellHeight](../../aspose.gis.raster/warpoptions/cellheight) { get; set; } | Указывает новую высоту растровой ячейки (в целевых единицах с географической привязкой). Если установлено значение 0,[`CellHeight`](./cellheight)автоматически вычисляется. Значение по умолчанию — «0». |
-| [CellWidth](../../aspose.gis.raster/warpoptions/cellwidth) { get; set; } | Указывает новую ширину растровой ячейки (в целевых единицах с географической привязкой). Если установлено значение 0,[`CellWidth`](./cellwidth)автоматически вычисляется. Значение по умолчанию — «0». |
-| [DefaultSpatialReferenceSystem](../../aspose.gis.raster/warpoptions/defaultspatialreferencesystem) { get; set; } | Задает значение исходной пространственной привязки, если оно отсутствует. |
-| [Height](../../aspose.gis.raster/warpoptions/height) { get; set; } | Задает высоту выходного растра в пикселях и столбцах. Если установлено значение 0, высота вычисляется автоматически. Значение по умолчанию — «0». |
-| [TargetExtent](../../aspose.gis.raster/warpoptions/targetextent) { get; set; } | Указывает границы растрового слоя для деформации. Если установлено значение`null`, экстент вычисляется во время деформации, чтобы включить все ячейки растра. |
-| [TargetSpatialReferenceSystem](../../aspose.gis.raster/warpoptions/targetspatialreferencesystem) { get; set; } | Указывает целевую пространственную привязку. Если установлено значение`null`, используется стандартная или исходная пространственная привязка. |
+| [CellHeight](../../aspose.gis.raster/warpoptions/cellheight) { get; set; } | Определяет новую высоту растровой ячейки (в целевых единицах с географической привязкой). Если установлено значение 0,[`CellHeight`](./cellheight) вычисляется автоматически. Значение по умолчанию — «0». |
+| [CellWidth](../../aspose.gis.raster/warpoptions/cellwidth) { get; set; } | Определяет новую ширину растровой ячейки (в целевых единицах с географической привязкой). Если установлено значение 0,[`CellWidth`](./cellwidth) вычисляется автоматически. Значение по умолчанию — «0». |
+| [DefaultSpatialReferenceSystem](../../aspose.gis.raster/warpoptions/defaultspatialreferencesystem) { get; set; } | Указывает значение исходной пространственной привязки, если она отсутствует. |
+| [Height](../../aspose.gis.raster/warpoptions/height) { get; set; } | Определяет высоту выходного растра в пикселях и столбцах. Если установлено значение 0, высота вычисляется автоматически. Значение по умолчанию — «0». |
+| [TargetExtent](../../aspose.gis.raster/warpoptions/targetextent) { get; set; } | Указывает границы растрового слоя для деформации. Если установлено значение`null` , экстент рассчитывается во время деформации, чтобы включить все ячейки растра. |
+| [TargetSpatialReferenceSystem](../../aspose.gis.raster/warpoptions/targetspatialreferencesystem) { get; set; } | Указывает целевую пространственную привязку. Если установлено значение`null` , используется стандартная или исходная пространственная привязка. |
 | [Width](../../aspose.gis.raster/warpoptions/width) { get; set; } | Определяет ширину выходного растра в пикселях и столбцах. Если установлено значение 0, ширина вычисляется автоматически. Значение по умолчанию — «0». |
 
 ### Смотрите также

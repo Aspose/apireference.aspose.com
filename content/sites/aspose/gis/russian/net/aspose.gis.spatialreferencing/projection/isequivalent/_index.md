@@ -1,14 +1,14 @@
 ---
 title: IsEquivalent
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет эквивалентность двух проекций. Эквивалентные проекции отображают долготу широту в x y в таким же образом.
+description: Определяет эквивалентность двух проекций. Эквивалентные проекции сопоставляются долгота широта с x y таким же образом.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.spatialreferencing/projection/isequivalent/
 ---
 ## Projection.IsEquivalent method
 
-Определяет эквивалентность двух проекций. Эквивалентные проекции отображают (долготу, широту) в (x, y) в таким же образом.
+Определяет эквивалентность двух проекций. Эквивалентные проекции сопоставляются (долгота, широта) с (x, y) таким же образом.
 
 ```csharp
 public bool IsEquivalent(Projection other)
@@ -20,7 +20,7 @@ public bool IsEquivalent(Projection other)
 
 ### Возвращаемое значение
 
-`true`если проекции эквивалентны,`false`в противном случае.
+`true` если проекции эквивалентны,`false` в противном случае.
 
 ### Смотрите также
 

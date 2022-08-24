@@ -3,7 +3,7 @@ title: VectorSymbolizer
 second_title: Справочник по Aspose.GIS for .NET API
 description: Абстрактный корневой класс для символизаторов отображающих векторные объекты.
 type: docs
-weight: 1860
+weight: 1870
 url: /ru/net/aspose.gis.rendering.symbolizers/vectorsymbolizer/
 ---
 ## VectorSymbolizer class
@@ -18,7 +18,7 @@ public abstract class VectorSymbolizer
 
 | Имя | Описание |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.symbolizers/vectorsymbolizer/null) { get; } | [`NullVectorSymbolizer`](../nullvectorsymbolizer)ничего не рисует и эффективно пропускает рендеринг геометрии, к которой он применяется. |
+| static [Null](../../aspose.gis.rendering.symbolizers/vectorsymbolizer/null) { get; } | [`NullVectorSymbolizer`](../nullvectorsymbolizer) ничего не рисует и эффективно пропускает рендеринг геометрии, к которой он применяется. |
 
 ### Смотрите также
 

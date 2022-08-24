@@ -16,7 +16,7 @@ public static NumericFormat RoundTrip { get; }
 
 ### 评论
 
-内部代码通过:coordinate.ToString("R", CultureInfo. InvariantCulture) 决定。
+内部代码通过：coordinate.ToString("R", CultureInfo.InvariantCulture) decision. 为 WKT 生成数字字符串
 
 ### 也可以看看
 

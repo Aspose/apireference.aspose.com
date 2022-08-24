@@ -1,14 +1,14 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters
 second_title: Справочник по Aspose.GIS for .NET API
-description: Параметры для создания геоцентрической SRS. Параметры имеют разумные значения по умолчанию поэтому вам придется назначить только некоторые из них. Если вы присвоитеnullлюбому параметру будет использоваться значение по умолчанию.
+description: Параметры для создания геоцентрической SRS. Параметры имеют разумные значения по умолчанию поэтому вам придется назначить только некоторые из них. Если вы назначитеnull для любого параметра будет использоваться значение по умолчанию.
 type: docs
-weight: 1990
+weight: 2000
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/
 ---
 ## GeocentricSpatialReferenceSystemParameters class
 
-Параметры для создания геоцентрической SRS. Параметры имеют разумные значения по умолчанию, поэтому вам придется назначить только некоторые из них. Если вы присвоите`null`любому параметру, будет использоваться значение по умолчанию.
+Параметры для создания геоцентрической SRS. Параметры имеют разумные значения по умолчанию, поэтому вам придется назначить только некоторые из них. Если вы назначите`null` для любого параметра будет использоваться значение по умолчанию.
 
 ```csharp
 public class GeocentricSpatialReferenceSystemParameters
@@ -24,14 +24,14 @@ public class GeocentricSpatialReferenceSystemParameters
 
 | Имя | Описание |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder) { get; set; } | Порядок осей. По умолчанию используетсяXYZ. |
-| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum) { get; set; } | База геоцентрической СКР. Значение по умолчанию:[`Wgs84`](../geographicdatum/wgs84). |
-| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit) { get; set; } | Единицы, используемые в этой SRS. По умолчанию используется[`Meter`](../unit/meter). |
-| [Name](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name) { get; set; } | Название геоцентрической СКИ. По умолчанию "Безымянный". |
-| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian) { get; set; } | Нулевой меридиан этой СКИ. Значение по умолчанию:[`Greenwich`](../primemeridian/greenwich). |
-| [XAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis) { get; set; } | Ось геоцентрической SRS, описывающая измерение 'X' (ось, указывающая на нулевой меридиан). |
-| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis) { get; set; } | Ось геоцентрической SRS, описывающая размерность 'Y' (ось, указывающая влево или вправо от оси X в экваториальной плоскости). По умолчанию используется ось сEastdirection. |
-| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis) { get; set; } | Ось геоцентрической SRS, описывающая размерность 'Z' (ось, указывающая на северный или южный полюс). По умолчанию используется ось сNorthdirection. |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder) { get; set; } | Порядок осей. По умолчаниюXYZ . |
+| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum) { get; set; } | Датам геоцентрической SRS. По умолчанию[`Wgs84`](../geographicdatum/wgs84) . |
+| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit) { get; set; } | Единицы, которые будут использоваться в этой SRS. По умолчанию[`Meter`](../unit/meter) . |
+| [Name](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name) { get; set; } | Название геоцентрической СИС. По умолчанию "Безымянный". |
+| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian) { get; set; } | Начальный меридиан этого SRS. По умолчанию[`Greenwich`](../primemeridian/greenwich) . |
+| [XAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis) { get; set; } | Ось геоцентрической SRS, описывающая измерение «X» (ось, указывающая на нулевой меридиан). |
+| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis) { get; set; } | Ось геоцентрической SRS, описывающая измерение Y (ось, указывающая влево или вправо от оси X в экваториальной плоскости). По умолчанию используется ось сEast направление. |
+| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis) { get; set; } | Ось геоцентрической SRS, описывающая измерение «Z» (ось, указывающая на северный или южный полюс). По умолчанию используется ось сNorth направление. |
 
 ### Смотрите также
 

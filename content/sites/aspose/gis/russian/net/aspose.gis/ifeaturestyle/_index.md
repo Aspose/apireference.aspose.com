@@ -3,7 +3,7 @@ title: IFeatureStyle
 second_title: Справочник по Aspose.GIS for .NET API
 description: Корневой класс интерфейса иерархии стилей объектов.
 type: docs
-weight: 1150
+weight: 1160
 url: /ru/net/aspose.gis/ifeaturestyle/
 ---
 ## IFeatureStyle interface

@@ -11,38 +11,38 @@ is_root: true
 
 | 命名空间 | 描述 |
 | --- | --- |
-| [Aspose.Gis](./aspose.gis) | ` Aspose.Gis` 命名空间提供用于生成、转换和修改 GIS 数据的类。 |
-| [Aspose.Gis.Formats.Csv](./aspose.gis.formats.csv) | ` Aspose.Gis.Formats.Csv` 命名空间提供了使用 CSV 格式的类。 |
-| [Aspose.Gis.Formats.EsriAscii](./aspose.gis.formats.esriascii) | ` Aspose.Gis.Formats.EsriAscii` 命名空间提供了使用 EsriAscii 格式的类。 |
-| [Aspose.Gis.Formats.FileGdb](./aspose.gis.formats.filegdb) | ` Aspose.Gis.Formats.FileGdb` 命名空间提供了使用 ESRI 文件地理数据库格式的类。 |
-| [Aspose.Gis.Formats.GeoJson](./aspose.gis.formats.geojson) | ` Aspose.Gis.Formats.GeoJson` 命名空间提供了使用 GeoJSON 格式的类。 |
-| [Aspose.Gis.Formats.GeoTiff](./aspose.gis.formats.geotiff) | ` Aspose.Gis.Formats.GeoTiff` 命名空间提供了使用 GeoTiff 格式的类。 |
-| [Aspose.Gis.Formats.Gml](./aspose.gis.formats.gml) | ` Aspose.Gis.Formats.Gml` 命名空间提供了使用 GML 格式的类。 |
-| [Aspose.Gis.Formats.Gpx](./aspose.gis.formats.gpx) | ` Aspose.Gis.Formats.Gpx` 命名空间提供了使用 GPX 格式的类。 |
-| [Aspose.Gis.Formats.Kml](./aspose.gis.formats.kml) | ` Aspose.Gis.Formats.Kml` 命名空间提供了使用 KML 格式的类。 |
-| [Aspose.Gis.Formats.Kml.Styles](./aspose.gis.formats.kml.styles) | ` Aspose.Gis.Formats.Kml.Styles` 命名空间提供了用于处理 KML 样式的类。 |
-| [Aspose.Gis.Formats.MapInfoInterchange](./aspose.gis.formats.mapinfointerchange) | ` Aspose.Gis.Formats.MapInfoInterchange` 命名空间提供了使用 MapInfo 交换格式的类。 |
-| [Aspose.Gis.Formats.MapInfoTab](./aspose.gis.formats.mapinfotab) | ` Aspose.Gis.Formats.MapInfoTab` 命名空间提供了使用 MapInfo Tab 格式的类。 |
-| [Aspose.Gis.Formats.OsmXml](./aspose.gis.formats.osmxml) | ` Aspose.Gis.Formats.OsmXml` 命名空间提供了使用 OSM XML 格式的类。 |
-| [Aspose.Gis.Formats.PostGis](./aspose.gis.formats.postgis) | ` Aspose.Gis.Formats.PostGis` 命名空间提供了使用 PostGIS 数据库的类。 |
-| [Aspose.Gis.Formats.Shapefile](./aspose.gis.formats.shapefile) | ` Aspose.Gis.Formats.Shapefile` 命名空间提供了使用 Shapefile 格式的类。 |
-| [Aspose.Gis.Formats.SqlServer](./aspose.gis.formats.sqlserver) | ` Aspose.Gis.Formats.SqlServer` 命名空间提供了使用 SQL Server 的类。 |
-| [Aspose.Gis.Formats.TopoJson](./aspose.gis.formats.topojson) | ` Aspose.Gis.Formats.TopoJson` 命名空间提供了使用 TopoJSON 格式的类。 |
-| [Aspose.Gis.Formats.XyzTile](./aspose.gis.formats.xyztile) | ` Aspose.Gis.Formats.XyzTile` 命名空间提供了使用 XyzTile 格式的类。 |
-| [Aspose.Gis.Geometries](./aspose.gis.geometries) | ` Aspose.Gis.Geometries` 命名空间包含表示几何数据的类。 |
-| [Aspose.Gis.GeoTools](./aspose.gis.geotools) | ` Aspose.Gis.GeoTools` 命名空间包含代表地理工具的类。 |
-| [Aspose.Gis.Raster](./aspose.gis.raster) | ` Aspose.Gis.Raster` 命名空间提供了用于处理栅格格式的类。 |
-| [Aspose.Gis.Raster.Web](./aspose.gis.raster.web) | ` Aspose.Gis.Raster.Web` 命名空间提供了用于处理 Web 变形的类。 |
-| [Aspose.Gis.Relationship.Joins](./aspose.gis.relationship.joins) | ` Aspose.Gis.Relationship.Joins` 命名空间提供了用于连接层的类。 |
-| [Aspose.Gis.Rendering](./aspose.gis.rendering) | ` Aspose.Gis.Rendering` 命名空间提供了用于渲染地图的类。 |
-| [Aspose.Gis.Rendering.Colorizers](./aspose.gis.rendering.colorizers) | ` Aspose.Gis.Rendering.Colorizers` 命名空间提供了用于配置渲染栅格单元的类。 |
-| [Aspose.Gis.Rendering.Formats.Bmp](./aspose.gis.rendering.formats.bmp) | ` Aspose.Gis.Formats.Bmp` 命名空间提供了用于处理 BMP 格式的类。 |
-| [Aspose.Gis.Rendering.Formats.Jpeg](./aspose.gis.rendering.formats.jpeg) | ` Aspose.Gis.Formats.Jpeg` 命名空间提供了使用 JPEG 格式的类。 |
-| [Aspose.Gis.Rendering.Formats.Png](./aspose.gis.rendering.formats.png) | ` Aspose.Gis.Formats.Png` 命名空间提供了使用 PNG 格式的类。 |
-| [Aspose.Gis.Rendering.Formats.Svg](./aspose.gis.rendering.formats.svg) | ` Aspose.Gis.Formats.Svg` 命名空间提供了使用 SVG 格式的类。 |
-| [Aspose.Gis.Rendering.Labelings](./aspose.gis.rendering.labelings) | ` Aspose.Gis.Rendering.Labelings` 命名空间提供用于配置矢量特征标注的类。 |
-| [Aspose.Gis.Rendering.Sld](./aspose.gis.rendering.sld) | ` Aspose.Gis.Rendering.Sld` 命名空间提供用于配置 SLD 导入的类。 |
-| [Aspose.Gis.Rendering.Symbolizers](./aspose.gis.rendering.symbolizers) | ` Aspose.Gis.Rendering.Symbolizers` 命名空间提供了用于配置渲染矢量特征的类。 |
-| [Aspose.Gis.SpatialReferencing](./aspose.gis.spatialreferencing) | ` Aspose.Gis.SpatialReferencing` 命名空间提供了用于处理空间参考（坐标参考系统）的类。 |
+| [Aspose.Gis](./aspose.gis) | `Aspose.Gis`命名空间提供用于生成、转换和修改 GIS 数据的类。 |
+| [Aspose.Gis.Formats.Csv](./aspose.gis.formats.csv) | `Aspose.Gis.Formats.Csv`命名空间提供了使用 CSV 格式的类。 |
+| [Aspose.Gis.Formats.EsriAscii](./aspose.gis.formats.esriascii) | `Aspose.Gis.Formats.EsriAscii`命名空间提供了使用 EsriAscii 格式的类。 |
+| [Aspose.Gis.Formats.FileGdb](./aspose.gis.formats.filegdb) | `Aspose.Gis.Formats.FileGdb`命名空间提供了使用 ESRI 文件地理数据库格式的类。 |
+| [Aspose.Gis.Formats.GeoJson](./aspose.gis.formats.geojson) | `Aspose.Gis.Formats.GeoJson`命名空间提供了使用 GeoJSON 格式的类。 |
+| [Aspose.Gis.Formats.GeoTiff](./aspose.gis.formats.geotiff) | `Aspose.Gis.Formats.GeoTiff`命名空间提供了使用 GeoTiff 格式的类。 |
+| [Aspose.Gis.Formats.Gml](./aspose.gis.formats.gml) | `Aspose.Gis.Formats.Gml`命名空间提供了使用 GML 格式的类。 |
+| [Aspose.Gis.Formats.Gpx](./aspose.gis.formats.gpx) | `Aspose.Gis.Formats.Gpx`命名空间提供了使用 GPX 格式的类。 |
+| [Aspose.Gis.Formats.Kml](./aspose.gis.formats.kml) | `Aspose.Gis.Formats.Kml`命名空间提供了使用 KML 格式的类。 |
+| [Aspose.Gis.Formats.Kml.Styles](./aspose.gis.formats.kml.styles) | `Aspose.Gis.Formats.Kml.Styles`命名空间提供了使用 KML 样式的类。 |
+| [Aspose.Gis.Formats.MapInfoInterchange](./aspose.gis.formats.mapinfointerchange) | `Aspose.Gis.Formats.MapInfoInterchange`命名空间提供使用 MapInfo 交换格式的类。 |
+| [Aspose.Gis.Formats.MapInfoTab](./aspose.gis.formats.mapinfotab) | `Aspose.Gis.Formats.MapInfoTab`命名空间提供了使用 MapInfo 选项卡格式的类。 |
+| [Aspose.Gis.Formats.OsmXml](./aspose.gis.formats.osmxml) | `Aspose.Gis.Formats.OsmXml`命名空间提供了使用 OSM XML 格式的类。 |
+| [Aspose.Gis.Formats.PostGis](./aspose.gis.formats.postgis) | `Aspose.Gis.Formats.PostGis`命名空间提供了使用 PostGIS 数据库的类。 |
+| [Aspose.Gis.Formats.Shapefile](./aspose.gis.formats.shapefile) | `Aspose.Gis.Formats.Shapefile`命名空间提供了使用 Shapefile 格式的类。 |
+| [Aspose.Gis.Formats.SqlServer](./aspose.gis.formats.sqlserver) | `Aspose.Gis.Formats.SqlServer`命名空间提供使用 SQL Server 的类。 |
+| [Aspose.Gis.Formats.TopoJson](./aspose.gis.formats.topojson) | `Aspose.Gis.Formats.TopoJson`命名空间提供了使用 TopoJSON 格式的类。 |
+| [Aspose.Gis.Formats.XyzTile](./aspose.gis.formats.xyztile) | `Aspose.Gis.Formats.XyzTile`命名空间提供了使用 XyzTile 格式的类。 |
+| [Aspose.Gis.Geometries](./aspose.gis.geometries) | `Aspose.Gis.几何`命名空间包含表示几何数据的类。 |
+| [Aspose.Gis.GeoTools](./aspose.gis.geotools) | `Aspose.Gis.GeoTools`命名空间包含代表地理工具的类。 |
+| [Aspose.Gis.Raster](./aspose.gis.raster) | `Aspose.Gis.Raster`命名空间提供了用于处理栅格格式的类。 |
+| [Aspose.Gis.Raster.Web](./aspose.gis.raster.web) | `Aspose.Gis.Raster.Web`命名空间提供了用于处理 web 变形的类。 |
+| [Aspose.Gis.Relationship.Joins](./aspose.gis.relationship.joins) | `Aspose.Gis.Relationship.Joins`命名空间提供了用于连接层的类。 |
+| [Aspose.Gis.Rendering](./aspose.gis.rendering) | `Aspose.Gis.Rendering`命名空间提供用于渲染地图的类。 |
+| [Aspose.Gis.Rendering.Colorizers](./aspose.gis.rendering.colorizers) | `Aspose.Gis.Rendering.Colorizers`命名空间提供了用于配置渲染栅格单元的类。 |
+| [Aspose.Gis.Rendering.Formats.Bmp](./aspose.gis.rendering.formats.bmp) | `Aspose.Gis.Formats.Bmp`命名空间提供了使用 BMP 格式的类。 |
+| [Aspose.Gis.Rendering.Formats.Jpeg](./aspose.gis.rendering.formats.jpeg) | `Aspose.Gis.Formats.Jpeg`命名空间提供了使用 JPEG 格式的类。 |
+| [Aspose.Gis.Rendering.Formats.Png](./aspose.gis.rendering.formats.png) | `Aspose.Gis.Formats.Png`命名空间提供了使用 PNG 格式的类。 |
+| [Aspose.Gis.Rendering.Formats.Svg](./aspose.gis.rendering.formats.svg) | `Aspose.Gis.Formats.Svg`命名空间提供了使用 SVG 格式的类。 |
+| [Aspose.Gis.Rendering.Labelings](./aspose.gis.rendering.labelings) | `Aspose.Gis.Rendering.Labelings`命名空间提供用于配置矢量特征标注的类。 |
+| [Aspose.Gis.Rendering.Sld](./aspose.gis.rendering.sld) | `Aspose.Gis.Rendering.Sld`命名空间提供用于配置 SLD 导入的类。 |
+| [Aspose.Gis.Rendering.Symbolizers](./aspose.gis.rendering.symbolizers) | `Aspose.Gis.Rendering.Symbolizers`命名空间提供了用于配置渲染矢量特征的类。 |
+| [Aspose.Gis.SpatialReferencing](./aspose.gis.spatialreferencing) | `Aspose.Gis.SpatialReferencing`命名空间提供用于处理空间参考（坐标参考系统）的类。 |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->

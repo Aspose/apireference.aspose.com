@@ -1,14 +1,14 @@
 ---
 title: Head
 second_title: Aspose.GIS for .NET API 参考
-description: 第一个底层 SRS
+description: 第一个底层 SRS.
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/head/
 ---
 ## CompoundSpatialReferenceSystem.Head property
 
-第一个底层 SRS。
+第一个底层 SRS.
 
 ```csharp
 public SpatialReferenceSystem Head { get; }

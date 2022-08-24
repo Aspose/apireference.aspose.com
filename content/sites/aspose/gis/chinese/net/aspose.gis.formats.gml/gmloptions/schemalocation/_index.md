@@ -1,14 +1,14 @@
 ---
 title: SchemaLocation
 second_title: Aspose.GIS for .NET API 参考
-description: 以空格分隔的 URI 对列表每对中的第一个 URI 是命名空间的 URI第二个 URI 是命名空间的 XML 模式的路径 如果设置为nullGmlDriveraspose.gis.formats.gml/gmldriver将尝试从文档的根元素读取 schemaLocation . 默认为null
+description: 以空格分隔的 URI 对列表每对中的第一个 URI 是命名空间的 URI第二个 URI 是命名空间的 XML 模式的路径 如果设置为nullGmlDriveraspose.gis.formats.gml/gmldriver将尝试从文档的根元素中读取 schemaLocation 默认为null.
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.gml/gmloptions/schemalocation/
 ---
 ## GmlOptions.SchemaLocation property
 
-以空格分隔的 URI 对列表。每对中的第一个 URI 是命名空间的 URI，第二个 URI 是命名空间的 XML 模式的路径。 如果设置为`null`,[`GmlDriver`](../../gmldriver)将尝试从文档的根元素读取 schemaLocation . 默认为`null`。
+以空格分隔的 URI 对列表。每对中的第一个 URI 是命名空间的 URI，第二个 URI 是命名空间的 XML 模式的路径。 如果设置为`null`,[`GmlDriver`](../../gmldriver)将尝试从文档的根元素中读取 schemaLocation。 默认为`null`.
 
 ```csharp
 public string SchemaLocation { get; set; }
@@ -16,11 +16,11 @@ public string SchemaLocation { get; set; }
 
 ### 评论
 
-Aspose.GIS 使用 GML 文件的 XML 模式来创建[`FeatureAttributeCollection`](../../../aspose.gis/featureattributecollection)。默认情况下，模式位置是从 schemaLocation 属性中提取 的。如果没有这样的属性或者它指向无效的位置， Aspose.GIS 将无法读取 GML 文件。在这种情况下 - 设置此选项，以便 Aspose.GIS 可以加载模式。
+Aspose.GIS 使用 GML 文件的 XML 模式来创建[`FeatureAttributeCollection`](../../../aspose.gis/featureattributecollection).默认情况下，模式位置是从 schemaLocation 属性中提取的 。如果没有这样的属性或者它指向无效的位置， Aspose.GIS 将无法读取 GML 文件。在这种情况下 - 设置此选项，以便 Aspose.GIS 可以加载 schema.
 
 ### 例子
 
-"http://site.com/namespace http://site.com/schema.xsd"
+“http://site.com/namespace http://site.com/schema.xsd”
 
 ### 也可以看看
 

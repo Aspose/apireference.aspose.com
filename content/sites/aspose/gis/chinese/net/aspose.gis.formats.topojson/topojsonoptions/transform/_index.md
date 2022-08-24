@@ -16,7 +16,7 @@ public TopoJsonTransform Transform { get; set; }
 
 ### 评论
 
-这是写入选项 - 它不影响读取。 此选项与[`QuantizationNumber`](../quantizationnumber)互斥 - 这两个选项中只有一个不能是`null`。 如果不是`null`- 输出 TopoJSON 坐标是量化的，并且弧是使用指定的 变换对象进行增量编码的。 有关转换对象的更多详细信息，请参阅 TopoJSON 规范。 默认为`null`。
+这是写选项——它不影响读。 这个选项是互斥的[`QuantizationNumber`](../quantizationnumber) 这两个选项中只有一个不能`null`. 如果不是这样`null` 输出 TopoJSON 坐标被量化，弧线使用指定的 变换对象进行增量编码。 有关变换对象的更多详细信息，请参阅 TopoJSON 规范。 默认为`null`.
 
 ### 也可以看看
 

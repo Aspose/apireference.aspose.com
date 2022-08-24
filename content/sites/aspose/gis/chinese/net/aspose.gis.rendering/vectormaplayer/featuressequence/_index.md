@@ -1,14 +1,14 @@
 ---
 title: FeaturesSequence
 second_title: Aspose.GIS for .NET API 参考
-description: 这个 VectorMapLayer 表示的特征序列
+description: 这个表示的特征序列矢量图层.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering/vectormaplayer/featuressequence/
 ---
 ## VectorMapLayer.FeaturesSequence property
 
-这个` VectorMapLayer` 表示的特征序列。
+这个表示的特征序列`矢量图层`.
 
 ```csharp
 public FeaturesSequence FeaturesSequence { get; }

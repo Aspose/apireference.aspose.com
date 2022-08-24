@@ -17,7 +17,7 @@ public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс слоя, который нужно открыть. |
-| options | DriverOptions | Открыть опции. |
+| options | DriverOptions | Открытые варианты. |
 
 ### Возвращаемое значение
 
@@ -28,10 +28,10 @@ public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого набора данных. |
-| ArgumentOutOfRangeException | Индекс вне диапазона |
-| ArgumentException | Параметры объект имеет неверный тип для этого набора данных. |
+| ArgumentOutOfRangeException | Индекс вне допустимого диапазона |
+| ArgumentException | Объект параметров имеет неверный тип для этого набора данных. |
 | [GisException](../../gisexception) | Ошибка чтения объекта из слоя. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 

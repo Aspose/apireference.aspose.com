@@ -3,7 +3,7 @@ title: Seed
 second_title: Aspose.GIS for .NET API 参考
 description: 用于计算伪随机数序列的种子值的数字
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.gis.geotools/pointgeneratoroptions/seed/
 ---
 ## PointGeneratorOptions.Seed property

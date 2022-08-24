@@ -1,14 +1,14 @@
 ---
 title: RasterExpressionContext
 second_title: Aspose.GIS for .NET API 参考
-description: 创建RasterExpressionContextaspose.gis.raster/rasterexpressioncontext
+description: 创建一个实例RasterExpressionContextaspose.gis.raster/rasterexpressioncontext
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.raster/rasterexpressioncontext/rasterexpressioncontext/
 ---
 ## RasterExpressionContext constructor
 
-创建[`RasterExpressionContext`](../../rasterexpressioncontext)
+创建一个实例[`RasterExpressionContext`](../../rasterexpressioncontext)
 
 ```csharp
 public RasterExpressionContext(int cellX, int cellY)
@@ -16,7 +16,7 @@ public RasterExpressionContext(int cellX, int cellY)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cellX的实例 | Int32 | 列值（x 坐标）。 |
+| cellX | Int32 | 列值（x 坐标）。 |
 | cellY | Int32 | 行值（y 坐标）。 |
 
 ### 也可以看看

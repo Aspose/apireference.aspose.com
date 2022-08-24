@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет коэффициент масштабирования применяемый к метке. Значение по умолчанию  1.
+description: Определяет масштабный коэффициент применяемый к этикетке. Значение по умолчанию  1.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.kml.styles/kmllabelstyle/scale/
 ---
 ## KmlLabelStyle.Scale property
 
-Определяет коэффициент масштабирования, применяемый к метке. Значение по умолчанию — «1».
+Определяет масштабный коэффициент, применяемый к этикетке. Значение по умолчанию — «1».
 
 ```csharp
 public double Scale { get; set; }

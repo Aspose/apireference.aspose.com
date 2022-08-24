@@ -1,14 +1,14 @@
 ---
 title: IsValueNull
 second_title: Aspose.GIS for .NET API 参考
-description: 确定指定属性是否已显式设置为 null 值
+description: 确定指定属性是否已显式设置为无效的值.
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/feature/isvaluenull/
 ---
 ## Feature.IsValueNull method
 
-确定指定属性是否已显式设置为` null` 值。
+确定指定属性是否已显式设置为`无效的`值.
 
 ```csharp
 public bool IsValueNull(string attributeName)
@@ -20,15 +20,15 @@ public bool IsValueNull(string attributeName)
 
 ### 返回值
 
-`true`如果属性值为` null` ;否则，`false`。
+`true`如果属性值为`无效的`;否则，`false`.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 属性未锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 | ArgumentException | 此层中不存在具有此名称的属性。 |
-| ArgumentNullException | 属性名称为` null` 。 |
+| ArgumentNullException | 属性名称是`无效的`. |
 
 ### 也可以看看
 

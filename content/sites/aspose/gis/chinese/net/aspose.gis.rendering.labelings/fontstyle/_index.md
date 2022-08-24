@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.GIS for .NET API 参考
 description: 指定要应用于文本的样式
 type: docs
-weight: 1490
+weight: 1500
 url: /zh/net/aspose.gis.rendering.labelings/fontstyle/
 ---
 ## FontStyle enumeration
@@ -20,9 +20,9 @@ public enum FontStyle
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Regular | `0` | 常规文本。 |
-| Bold | `1` | 粗体文本。 |
-| Italic | `2` | 斜体文本。 |
-| Underline | `4` | 带下划线的文本。 |
+| Bold | `1` | 粗体文字。 |
+| Italic | `2` | 斜体文字。 |
+| Underline | `4` | 带下划线的文字。 |
 | Strikeout | `8` | 中间有一条线的文本。 |
 
 ### 也可以看看

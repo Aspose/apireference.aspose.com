@@ -1,14 +1,14 @@
 ---
 title: ToLinearGeometry
 second_title: Aspose.GIS for .NET API 参考
-description: 使用默认 公差 获取此几何图形的近似或等效非曲线版本
+description: 使用默认值获取此几何图形的近似或等效非曲线版本宽容.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/isurface/tolineargeometry/
 ---
 ## ToLinearGeometry() {#tolineargeometry}
 
-使用默认` 公差` 获取此几何图形的近似或等效非曲线版本。
+使用默认值获取此几何图形的近似或等效非曲线版本`宽容`.
 
 ```csharp
 public IPolygon ToLinearGeometry()
@@ -16,13 +16,13 @@ public IPolygon ToLinearGeometry()
 
 ### 返回值
 
-A[`IPolygon`](../../ipolygon)近似或等效于这个` ISurface` 。 这相当于[`ToLinearGeometry`](../tolineargeometry)with default` 容差` 。默认` 容差` s 值取决于此几何的SpatialReferenceSystem &lt;ul&gt;&lt;li&gt; 对于预计 SRS 公差为 0.001 米（以 SRS 为单位）&lt;/li&gt;&lt;li&gt; 对于地理 SRS 公差为` 1e-5` 度（以 SRS 为单位）&lt;/li&gt;&lt;li&gt; 对于未知的 SRS 公差为` 1e-5` &lt;/li&gt;&lt;/ ul&gt; 有关应用什么转换的更多详细信息，请参阅[`ToLinearGeometry`](../tolineargeometry)规范。
+一个[`IPolygon`](../../ipolygon)近似或等价于这个`表面`. 这相当于[`ToLinearGeometry`](../tolineargeometry)with 默认`宽容`.默认`宽容` 值取决于[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)这个几何的 ： 对于预计的 SRS 公差为 0.001 米（以 SRS 为单位）对于地理 SRS 容差为`1e-5`度（以 SRS 为单位）对于未知的 SRS 公差是`1e-5` 有关应用哪些转换的更多详细信息，请参阅[`ToLinearGeometry`](../tolineargeometry)规格.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 此几何结构无效，因此该操作不能完全的。 |
+| InvalidOperationException | 这个几何图形无效，操作无法完成。 |
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ A[`IPolygon`](../../ipolygon)近似或等效于这个` ISurface` 。 这相当�
 
 ## ToLinearGeometry(double) {#tolineargeometry_1}
 
-使用指定的` 容差` 获取此几何图形的近似或等效非曲线版本。
+使用指定的获取此几何图形的近似或等效非曲线版本`宽容`.
 
 ```csharp
 public IPolygon ToLinearGeometry(double tolerance)
@@ -43,18 +43,18 @@ public IPolygon ToLinearGeometry(double tolerance)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tolerance | Double | ` 容差` 使用。结果保证小于` 公差` 远离 弯曲几何，除非线性化几何所需的点数超过每象限最大值， 当前等于 10000 点。 |
+| tolerance | Double | 的`宽容`使用。结果保证小于`宽容`远离 弯曲几何，除非线性化几何所需的点数超过每象限最大值， 当前等于10000点。 |
 
 ### 返回值
 
-A[`IPolygon`](../../ipolygon)近似或等效于这个` ISurface` : &lt;ul&gt; 如果这个对象是[`IPolygon`](../../ipolygon)本身的结果等价于这个对象 如果这个对象不是[`IPolygon`](../../ipolygon)它是线性化的和[`IPolygon`](../../ipolygon)被创建 &lt;/ul&gt;
+一个[`IPolygon`](../../ipolygon)近似或等价于这个`表面`:  如果这个对象是[`IPolygon`](../../ipolygon)本身结果等价于这个对象 如果这个对象不是[`IPolygon`](../../ipolygon)它是线性化的并且[`IPolygon`](../../ipolygon)已创建
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | ` 容差` 小于或等于` 0` 。 |
-| InvalidOperationException | 此几何结构无效，因此该操作不能完全的。 |
+| ArgumentOutOfRangeException | `宽容`小于或等于`0`. |
+| InvalidOperationException | 这个几何图形无效，操作无法完成。 |
 
 ### 也可以看看
 

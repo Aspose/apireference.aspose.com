@@ -1,14 +1,14 @@
 ---
 title: Icon
 second_title: Aspose.GIS for .NET API 参考
-description: 指定如何绘制点地标的图标 使用null表示缺少样式 默认值为null
+description: 指定如何绘制点地标的图标 使用null表示缺少样式 默认值为null.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/icon/
 ---
 ## KmlFeatureStyle.Icon property
 
-指定如何绘制点地标的图标。 使用`null`表示缺少样式。 默认值为`null`。
+指定如何绘制点地标的图标。 使用`null`表示缺少样式。 默认值为`null`.
 
 ```csharp
 public KmlIconStyle Icon { get; set; }

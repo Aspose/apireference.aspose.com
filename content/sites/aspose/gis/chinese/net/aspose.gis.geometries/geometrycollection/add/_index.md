@@ -22,9 +22,9 @@ public void Add(IGeometry geometry)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 集合不接受这种类型的几何。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这个几何和[`SpatialReferenceSystem`](../spatialreferencesystem)的参数都不是 `null`并且彼此不相等。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 该集合不接受这种类型的几何图形。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这种几何形状和[`SpatialReferenceSystem`](../spatialreferencesystem)论点都是 not `null`并且不等于彼此。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: HorizontalDisplacement
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает смещение по горизонтали для маркеров в четной горизонтальной строке.
+description: Указывает горизонтальное смещение для маркеров в четной горизонтальной линии.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement/
 ---
 ## MarkerPatternFill.HorizontalDisplacement property
 
-Задает смещение по горизонтали для маркеров в четной горизонтальной строке.
+Указывает горизонтальное смещение для маркеров в четной горизонтальной линии.
 
 ```csharp
 public Measurement HorizontalDisplacement { get; set; }

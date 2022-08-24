@@ -1,14 +1,14 @@
 ---
 title: ImportSldFromString
 second_title: Справочник по Aspose.GIS for .NET API
-description: Импортирует стиль из указанной строки Styled Layer Descriptor.
+description: Импортирует стиль из указанной строки описателя стилизованного слоя.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.rendering/vectormaplayer/importsldfromstring/
 ---
 ## VectorMapLayer.ImportSldFromString method
 
-Импортирует стиль из указанной строки Styled Layer Descriptor.
+Импортирует стиль из указанной строки описателя стилизованного слоя.
 
 ```csharp
 public void ImportSldFromString(string sld, SldImportOptions options = null)
@@ -23,13 +23,13 @@ public void ImportSldFromString(string sld, SldImportOptions options = null)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | XmlException | Произошла ошибка при синтаксическом анализе XML. |
 | FormatException | В XML не найден стиль SLD. |
 
 ### Примечания
 
-Этот метод перезаписывает значение свойства[`Symbolizer`](../symbolizer).
+Этот метод перезаписывает значение[`Symbolizer`](../symbolizer) свойство.
 
 ### Смотрите также
 

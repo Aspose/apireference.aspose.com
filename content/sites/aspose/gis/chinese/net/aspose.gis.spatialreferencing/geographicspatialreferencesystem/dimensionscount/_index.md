@@ -1,14 +1,14 @@
 ---
 title: DimensionsCount
 second_title: Aspose.GIS for .NET API 参考
-description: 返回此 SRS 中的维度计数对于地理 SRS这可以是 二 - 如果这是单个地理 SRS 三 - 如果这是复合 SRS它由单维二维地理 SRS 和垂直 SRS 组成则添加第三维
+description: 返回此 SRS 中的维度计数对于地理 SRS这可以是 二  如果这是单个地理 SRS 三  如果这是复合 SRS它由单二维地理 SRS 和垂直 SRS 组成增加了三维
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/dimensionscount/
 ---
 ## GeographicSpatialReferenceSystem.DimensionsCount property
 
-返回此 SRS 中的维度计数。对于地理 SRS，这可以是: 二 - 如果这是单个地理 SRS。 三 - 如果这是复合 SRS，它由单维、二维、地理 SRS 和垂直 SRS 组成，则添加第三维。
+返回此 SRS 中的维度计数。对于地理 SRS，这可以是： 二 - 如果这是单个地理 SRS。 三 - 如果这是复合 SRS，它由单、二维、地理 SRS 和垂直 SRS 组成，增加了三维。
 
 ```csharp
 public abstract int DimensionsCount { get; }

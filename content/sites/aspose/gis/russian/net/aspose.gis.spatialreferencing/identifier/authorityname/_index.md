@@ -1,14 +1,14 @@
 ---
 title: AuthorityName
 second_title: Справочник по Aspose.GIS for .NET API
-description: Имя органа выдавшегоAuthorityUniqueIdentifieraspose.gis.spatialreferencing/identifier/authorityuniqueidentifier.
+description: Имя органа давшегоAuthorityUniqueIdentifieraspose.gis.spatialreferencing/identifier/authorityuniqueidentifier .
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/identifier/authorityname/
 ---
 ## Identifier.AuthorityName property
 
-Имя органа, выдавшего[`AuthorityUniqueIdentifier`](../authorityuniqueidentifier).
+Имя органа, давшего[`AuthorityUniqueIdentifier`](../authorityuniqueidentifier) .
 
 ```csharp
 public string AuthorityName { get; }

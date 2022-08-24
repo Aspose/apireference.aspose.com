@@ -1,14 +1,14 @@
 ---
 title: Base
 second_title: Aspose.GIS for .NET API 参考
-description: 基础地理 SRS应用投影的 SRS 您必须将此属性设置为非null值才能创建有效的 SRS 此属性没有任何默认值
+description: 基本地理 SRS应用投影的 SRS 您必须将此属性设置为 notnull值以创建有效的 SRS 此属性没有任何默认值
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base/
 ---
 ## ProjectedSpatialReferenceSystemParameters.Base property
 
-基础地理 SRS（应用投影的 SRS）。 您必须将此属性设置为非`null`值才能创建有效的 SRS， 此属性没有任何默认值。
+基本地理 SRS（应用投影的 SRS）。 您必须将此属性设置为 not`null`值以创建有效的 SRS， 此属性没有任何默认值。
 
 ```csharp
 public GeographicSpatialReferenceSystem Base { get; set; }

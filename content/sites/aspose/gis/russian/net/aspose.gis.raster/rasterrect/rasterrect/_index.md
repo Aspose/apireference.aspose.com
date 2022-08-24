@@ -1,14 +1,14 @@
 ---
 title: RasterRect
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создать экземплярRasterRectaspose.gis.raster/rasterrect.
+description: Создать экземплярRasterRectaspose.gis.raster/rasterrect .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.raster/rasterrect/rasterrect/
 ---
 ## RasterRect constructor
 
-Создать экземпляр[`RasterRect`](../../rasterrect).
+Создать экземпляр[`RasterRect`](../../rasterrect) .
 
 ```csharp
 public RasterRect(int x, int y, int width, int height)
@@ -16,7 +16,7 @@ public RasterRect(int x, int y, int width, int height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Int32 | X-координата верхнего левого угла (начальный столбец). Нумерация начинается с 0. |
+| x | Int32 | Координата x левого верхнего угла (начальный столбец). Нумерация начинается с 0. |
 | y | Int32 | Y-координата левого верхнего угла (начальная строка). Нумерация начинается с 0. |
 | width | Int32 | Значение ширины (количество столбцов). |
 | height | Int32 | Значение высоты (количество строк). |

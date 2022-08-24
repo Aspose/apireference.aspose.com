@@ -1,14 +1,14 @@
 ---
 title: AddCurve
 second_title: Aspose.GIS for .NET API 参考
-description: 在这个CompoundCurveaspose.gis.geometries/compoundcurve的末尾添加一条曲线
+description: 在它的末尾添加一条曲线CompoundCurveaspose.gis.geometries/compoundcurve.
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.geometries/compoundcurve/addcurve/
 ---
 ## CompoundCurve.AddCurve method
 
-在这个[`CompoundCurve`](../../compoundcurve)的末尾添加一条曲线。
+在它的末尾添加一条曲线[`CompoundCurve`](../../compoundcurve).
 
 ```csharp
 public void AddCurve(ICurve curve)
@@ -22,8 +22,8 @@ public void AddCurve(ICurve curve)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | &lt;ul&gt;&lt;li&gt; 参数类型为[`CompoundCurve`](../../compoundcurve)&lt;/ li&gt;&lt;li&gt; 参数为空 &lt;/li&gt;&lt;li&gt;[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)和 [`SpatialReferenceSystem`](../spatialreferencesystem)的参数都不是`null` 并且彼此不相等&lt;/li&gt;&lt;/ul &gt; |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 参数类型是[`CompoundCurve`](../../compoundcurve)参数为空[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这个几何和 [`SpatialReferenceSystem`](../spatialreferencesystem)论点都不是`null` 和不相等 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ValidateGeometriesOnWrite
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет следует ли проверять геометрию при ее добавлении в слой. Если установлено значениеtrueIsValidaspose.gis.geometries/geometry/isvalidвызывается для каждого геометрия когда она добавляется к слою и если проверка не пройдена IsValidaspose.gis.geometries/geometry/isvalidisfalseTВыбрасываетсяAspose.Gis.GisException.
+description: Определяет следует ли проверять геометрию при добавлении в слой. Если установлено значениеtrue IsValidaspose.gis.geometries/geometry/isvalidвызывается для геометрии each  когда она добавляется к слою и если проверка не пройдена IsValidaspose.gis.geometries/geometry/isvalid являетсяfalse GisExceptionaspose.gis/gisexception брошен.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis/driveroptions/validategeometriesonwrite/
 ---
 ## DriverOptions.ValidateGeometriesOnWrite property
 
-Определяет, следует ли проверять геометрию при ее добавлении в слой. Если установлено значение`true`,[`IsValid`](../../../aspose.gis.geometries/geometry/isvalid)вызывается для каждого геометрия, когда она добавляется к слою, и если проверка не пройдена ([`IsValid`](../../../aspose.gis.geometries/geometry/isvalid)is`false`),TВыбрасывается:Aspose.Gis.GisException.
+Определяет, следует ли проверять геометрию при добавлении в слой. Если установлено значение`true` ,[`IsValid`](../../../aspose.gis.geometries/geometry/isvalid)вызывается для геометрии each , когда она добавляется к слою, и если проверка не пройдена ([`IsValid`](../../../aspose.gis.geometries/geometry/isvalid) является`false` ),[`GisException`](../../gisexception) брошен.
 
 ```csharp
 public bool ValidateGeometriesOnWrite { get; set; }

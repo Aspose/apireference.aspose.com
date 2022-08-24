@@ -16,8 +16,8 @@ public static bool operator ==(Point a, Point b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Point | Экземпляр A. |
-| b | Point | Экземпляр B. |
+| a | Point | Экземпляр А. |
+| b | Point | Экземпляр Б. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: MarkerPatternFill
 second_title: Справочник по Aspose.GIS for .NET API
-description: Символизатор заполнения шаблона маркера.
+description: Символ заполнения шаблона маркера.
 type: docs
-weight: 1750
+weight: 1760
 url: /ru/net/aspose.gis.rendering.symbolizers/markerpatternfill/
 ---
 ## MarkerPatternFill class
 
-Символизатор заполнения шаблона маркера.
+Символ заполнения шаблона маркера.
 
 ```csharp
 public class MarkerPatternFill : VectorSymbolizer
@@ -18,19 +18,19 @@ public class MarkerPatternFill : VectorSymbolizer
 
 | Имя | Описание |
 | --- | --- |
-| [MarkerPatternFill](markerpatternfill#constructor)() | Инициализирует новый экземпляр класса[`MarkerPatternFill`](../markerpatternfill). |
-| [MarkerPatternFill](markerpatternfill#constructor_1)(MarkerPatternFill) | Инициализирует новый экземпляр класса[`MarkerPatternFill`](../markerpatternfill). |
+| [MarkerPatternFill](markerpatternfill#constructor)() | Инициализирует новый экземпляр[`MarkerPatternFill`](../markerpatternfill) класс. |
+| [MarkerPatternFill](markerpatternfill#constructor_1)(MarkerPatternFill) | Инициализирует новый экземпляр[`MarkerPatternFill`](../markerpatternfill) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerpatternfill/featurebasedconfiguration) { get; set; } | Обратный вызов, который используется для настройки этого символизатора перед визуализацией функции. |
-| [HorizontalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement) { get; set; } | Задает смещение по горизонтали для маркеров в четной горизонтальной строке. |
+| [HorizontalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement) { get; set; } | Указывает горизонтальное смещение для маркеров в четной горизонтальной линии. |
 | [HorizontalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterval) { get; set; } | Задает горизонтальный интервал между маркерами. |
-| [Marker](../../aspose.gis.rendering.symbolizers/markerpatternfill/marker) { get; set; } | Задает символизатор маркера для заливки. |
+| [Marker](../../aspose.gis.rendering.symbolizers/markerpatternfill/marker) { get; set; } | Указывает символизатор маркера для заполнения. |
 | [VerticalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement) { get; set; } | Определяет вертикальное смещение для маркеров в четной вертикальной линии. |
-| [VerticalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval) { get; set; } | Указывает интервал по вертикали между маркерами. |
+| [VerticalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval) { get; set; } | Задает вертикальный интервал между маркерами. |
 
 ### Смотрите также
 

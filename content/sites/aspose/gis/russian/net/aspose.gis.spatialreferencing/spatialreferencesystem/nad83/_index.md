@@ -1,14 +1,14 @@
 ---
 title: Nad83
 second_title: Справочник по Aspose.GIS for .NET API
-description: NAD 83 EPSG4269 система пространственной отсчета.
+description: Система пространственной привязки NAD 83 EPSG4269.
 type: docs
 weight: 280
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/nad83/
 ---
 ## SpatialReferenceSystem.Nad83 property
 
-NAD 83 (EPSG:4269) система пространственной отсчета.
+Система пространственной привязки NAD 83 (EPSG:4269).
 
 ```csharp
 public static GeographicSpatialReferenceSystem Nad83 { get; }

@@ -1,14 +1,14 @@
 ---
 title: HasCurveGeometry
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает значение указывающее является ли эта геометрия кривой не линейной или содержит ее.
+description: Получает значение указывающее является ли эта геометрия кривой нелинейной или содержит ее.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.geometries/curvepolygon/hascurvegeometry/
 ---
 ## CurvePolygon.HasCurveGeometry property
 
-Получает значение, указывающее, является ли эта геометрия кривой (не линейной) или содержит ее.
+Получает значение, указывающее, является ли эта геометрия кривой (нелинейной) или содержит ее.
 
 ```csharp
 public override bool HasCurveGeometry { get; }
@@ -16,7 +16,7 @@ public override bool HasCurveGeometry { get; }
 
 ### Стоимость имущества
 
-`false`если эта геометрия и все содержащиеся в ней геометрии линейны; в противном случае`true`.
+`false` если эта геометрия и все содержащиеся в ней геометрии линейны; в противном случае,`true` .
 
 ### Смотрите также
 

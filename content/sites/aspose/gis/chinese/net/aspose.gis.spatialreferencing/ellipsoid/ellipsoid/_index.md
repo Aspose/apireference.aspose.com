@@ -18,9 +18,9 @@ public Ellipsoid(string name, double semiMajorAxis, double inverseFlattening,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 椭球的名称。 |
-| semiMajorAxis | Double | 椭球半长轴。 |
+| semiMajorAxis | Double | 椭球的半长轴。 |
 | inverseFlattening | Double | 椭球的逆展平。应为 0 以创建球体。 |
-| identifier | Identifier | 椭球标识符。 |
+| identifier | Identifier | 椭球的标识符。 |
 
 ### 也可以看看
 

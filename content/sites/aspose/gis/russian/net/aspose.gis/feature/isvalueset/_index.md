@@ -20,7 +20,7 @@ public bool IsValueSet(string attributeName)
 
 ### Возвращаемое значение
 
-`true`если установлено значение для указанного атрибута; в противном случае`false`.
+`true` если установлено значение для указанного атрибута; в противном случае,`false` .
 
 ### Исключения
 
@@ -28,7 +28,7 @@ public bool IsValueSet(string attributeName)
 | --- | --- |
 | InvalidOperationException | Атрибут не заблокирован. |
 | ArgumentException | Атрибут с таким именем не существует в этом слое. |
-| ArgumentNullException | Имя атрибута:`null`. |
+| ArgumentNullException | Имя атрибута`null`. |
 
 ### Смотрите также
 

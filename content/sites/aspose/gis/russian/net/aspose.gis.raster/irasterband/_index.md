@@ -1,14 +1,14 @@
 ---
 title: IRasterBand
 second_title: Справочник по Aspose.GIS for .NET API
-description: Содержит метаданные о канале растра.
+description: Содержит метаданные о растровой полосе.
 type: docs
-weight: 1220
+weight: 1230
 url: /ru/net/aspose.gis.raster/irasterband/
 ---
 ## IRasterBand interface
 
-Содержит метаданные о канале растра.
+Содержит метаданные о растровой полосе.
 
 ```csharp
 public interface IRasterBand

@@ -1,14 +1,14 @@
 ---
 title: LoadSchemasFromInternet
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет разрешено ли Aspose.GIS загружать схему XML из Интернета. Если установлено значениеfalse схемы с абсолютными URI которые не начинаются с file// не будут загружены. По умолчаниюfalse.
+description: Определяет разрешено ли Aspose.GIS загружать схему XML из Интернета. Если установлено значениеfalse  схемы с абсолютными URI которые не начинаются с file// не будут загружены. Значение по умолчаниюfalse .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.gml/gmloptions/loadschemasfrominternet/
 ---
 ## GmlOptions.LoadSchemasFromInternet property
 
-Определяет, разрешено ли Aspose.GIS загружать схему XML из Интернета. Если установлено значение`false`, схемы с абсолютными URI, которые не начинаются с 'file://', не будут загружены. По умолчанию:`false`.
+Определяет, разрешено ли Aspose.GIS загружать схему XML из Интернета. Если установлено значение`false` , схемы с абсолютными URI, которые не начинаются с 'file://', не будут загружены. Значение по умолчанию:`false` .
 
 ```csharp
 public bool LoadSchemasFromInternet { get; set; }
@@ -16,7 +16,7 @@ public bool LoadSchemasFromInternet { get; set; }
 
 ### Примечания
 
-Aspose.GIS использует XML-схему файла GML для создания[`FeatureAttributeCollection`](../../../aspose.gis/featureattributecollection). Файлы XML-схемы могут распространяться вместе с файлами GML или размещаться в Интернете. В первом случае вам необходимо установить для этой опции значение`true`, чтобы разрешить Aspose.GIS загружать XML-схему.
+Aspose.GIS использует XML-схему файла GML для создания[`FeatureAttributeCollection`](../../../aspose.gis/featureattributecollection) . Файлы схемы XML могут распространяться вместе с файлами GML или могут находиться в Интернете.`true` разрешить Aspose.GIS загружать XML-схему.
 
 ### Смотрите также
 

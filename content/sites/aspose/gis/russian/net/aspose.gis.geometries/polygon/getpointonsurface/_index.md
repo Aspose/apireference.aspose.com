@@ -22,7 +22,7 @@ public override IPoint GetPointOnSurface()
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | Polygon недействителен, поэтому операция не может быть завершена. |
+| InvalidOperationException | Многоугольник недействителен, так что операция не может быть завершена. |
 
 ### Смотрите также
 

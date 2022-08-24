@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Справочник по Aspose.GIS for .NET API
-description: Клонировать объекты один в другой.
+description: Клонировать объекты друг в друга.
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.gis.geotools/polygongeneratoroptions/clone/
 ---
 ## PolygonGeneratorOptions.Clone method
 
-Клонировать объекты один в другой.
+Клонировать объекты друг в друга.
 
 ```csharp
 public PolygonGeneratorOptions Clone()
@@ -16,7 +16,7 @@ public PolygonGeneratorOptions Clone()
 
 ### Возвращаемое значение
 
-Клонировать объекты один в другой[`PolygonGeneratorOptions`](../../polygongeneratoroptions).
+Клонировать объект друг в друга[`PolygonGeneratorOptions`](../../polygongeneratoroptions).
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: Axis
 second_title: Справочник по Aspose.GIS for .NET API
 description: Ось описывает одно измерение SRS.
 type: docs
-weight: 1920
+weight: 1930
 url: /ru/net/aspose.gis.spatialreferencing/axis/
 ---
 ## Axis class
@@ -27,8 +27,8 @@ public class Axis
 | [Direction](../../aspose.gis.spatialreferencing/axis/direction) { get; } | Направление этой оси. |
 | [IsEastWestAxis](../../aspose.gis.spatialreferencing/axis/iseastwestaxis) { get; } | Определяет, является ли направление оси восток или запад. |
 | [IsNorthSouthAxis](../../aspose.gis.spatialreferencing/axis/isnorthsouthaxis) { get; } | Определяет, является ли направление оси северным или южным. |
-| [IsOtherAxis](../../aspose.gis.spatialreferencing/axis/isotheraxis) { get; } | Определяет, является ли направление этой оси другим. |
-| [IsUpDownAxis](../../aspose.gis.spatialreferencing/axis/isupdownaxis) { get; } | Определяет направление оси вверх или вниз. |
+| [IsOtherAxis](../../aspose.gis.spatialreferencing/axis/isotheraxis) { get; } | Определяет, является ли это направление оси другим. |
+| [IsUpDownAxis](../../aspose.gis.spatialreferencing/axis/isupdownaxis) { get; } | Определяет, является ли направление оси вверх или вниз. |
 | [Name](../../aspose.gis.spatialreferencing/axis/name) { get; } | Имя этой оси. |
 
 ### Смотрите также

@@ -22,11 +22,11 @@ public void CopyValues(Feature inputFeature)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Атрибут с таким именем не существует в этом слое. |
 | InvalidOperationException | Атрибут не заблокирован. |
-| InvalidOperationException | Входное значение равно null, и атрибут в этой функции не может быть null. |
-| [GisException](../../gisexception) | Атрибут имеет одинаковое имя, но разные типы данных в объектах. |
+| InvalidOperationException | Входное значение равно null, и атрибут в этой функции не может быть нулевым. |
+| [GisException](../../gisexception) | Атрибут имеет одинаковое имя, но разные типы данных в функциях. |
 
 ### Примечания
 

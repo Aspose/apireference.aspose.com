@@ -8,7 +8,7 @@ url: /ru/net/aspose.gis.spatialreferencing/localspatialreferencesystem/hasgeogra
 ---
 ## LocalSpatialReferenceSystem.HasGeographicDatum property
 
-Возвращает`false`, так как Local SRS не имеет географических данных.
+Возвращает`false` так как Local SRS не имеет географических данных.
 
 ```csharp
 public override bool HasGeographicDatum { get; }

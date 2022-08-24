@@ -1,14 +1,14 @@
 ---
 title: KmlLabelStyle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает способ отображения метки в географическом представлении.
+description: Определяет способ отображения метки в географическом представлении.
 type: docs
 weight: 460
 url: /ru/net/aspose.gis.formats.kml.styles/kmllabelstyle/
 ---
 ## KmlLabelStyle class
 
-Указывает способ отображения метки в географическом представлении.
+Определяет способ отображения метки в географическом представлении.
 
 ```csharp
 public class KmlLabelStyle : KmlAbstractColorStyle
@@ -24,9 +24,9 @@ public class KmlLabelStyle : KmlAbstractColorStyle
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Задает цвет графического элемента. Значение по умолчаниюWhite. |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Определяет цветовой режим графического элемента. Значение по умолчанию:обычное. |
-| [Scale](../../aspose.gis.formats.kml.styles/kmllabelstyle/scale) { get; set; } | Определяет коэффициент масштабирования, применяемый к метке. Значение по умолчанию — «1». |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Определяет цвет графического элемента. Значение по умолчаниюWhite . |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Определяет цветовой режим графического элемента. Значение по умолчанию: обычное. |
+| [Scale](../../aspose.gis.formats.kml.styles/kmllabelstyle/scale) { get; set; } | Определяет масштабный коэффициент, применяемый к этикетке. Значение по умолчанию — «1». |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: MetersOnEarth
 second_title: Aspose.GIS for .NET API 参考
-description: 返回 测量 的新实例它表示地球上的长度以米为单位
+description: 返回一个新的实例测量表示地球上以米为单位的长度
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.rendering/measurement/metersonearth/
 ---
 ## Measurement.MetersOnEarth method
 
-返回` 测量` 的新实例，它表示地球上的长度（以米为单位）。
+返回一个新的实例`测量`表示地球上以米为单位的长度。
 
 ```csharp
 public static Measurement MetersOnEarth(double value)
@@ -20,7 +20,7 @@ public static Measurement MetersOnEarth(double value)
 
 ### 返回值
 
-` 测量` 类的新实例。
+的新实例`测量`班级。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: JoinOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Варианты соединения слоев.
+description: Параметры объединения слоев.
 type: docs
-weight: 1370
+weight: 1380
 url: /ru/net/aspose.gis.relationship.joins/joinoptions/
 ---
 ## JoinOptions class
 
-Варианты соединения слоев.
+Параметры объединения слоев.
 
 ```csharp
 public class JoinOptions
@@ -26,9 +26,9 @@ public class JoinOptions
 | --- | --- |
 | [ConditionComparer](../../aspose.gis.relationship.joins/joinoptions/conditioncomparer) { get; set; } | Определяет, как объекты двух слоев связаны в запросе, указывая логику, которая будет использоваться при сравнении значений объектов. |
 | [JoinAttributeName](../../aspose.gis.relationship.joins/joinoptions/joinattributename) { get; set; } | Указывает имя атрибута присоединяемого слоя, значение которого будет использоваться в[`ConditionComparer`](./conditioncomparer). |
-| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames) { get; set; } | Задает список имен атрибутов, которые необходимо объединить. Если он равен`null`или пуст, все атрибуты присоединяемого слоя будут объединены. |
+| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames) { get; set; } | Задает список имен атрибутов, которые необходимо объединить. Если это`null` или пусто, будут объединены все атрибуты присоединяемого слоя. |
 | [JoinedAttributesPrefix](../../aspose.gis.relationship.joins/joinoptions/joinedattributesprefix) { get; set; } | Задает строку префикса для имен объединенных атрибутов. По умолчанию "присоединился_". |
-| [TargetAttributeName](../../aspose.gis.relationship.joins/joinoptions/targetattributename) { get; set; } | Задает имя атрибута основного слоя, значение которого будет использоваться в[`ConditionComparer`](./conditioncomparer). |
+| [TargetAttributeName](../../aspose.gis.relationship.joins/joinoptions/targetattributename) { get; set; } | Указывает имя атрибута основного слоя, значение которого будет использоваться в[`ConditionComparer`](./conditioncomparer). |
 
 ### Смотрите также
 

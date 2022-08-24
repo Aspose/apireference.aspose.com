@@ -16,11 +16,11 @@ public bool HasCustomDefaultValue { get; }
 
 ### 适当的价值
 
-` true` 如果此实例具有自定义默认值；否则，` false` 。
+`真的`如果此实例具有自定义默认值；否则，`错误的`.
 
 ### 评论
 
-除非Object)被调用，该属性的值为` false` 。
+除非Object)被调用，这个属性的值是`错误的`.
 
 ### 也可以看看
 

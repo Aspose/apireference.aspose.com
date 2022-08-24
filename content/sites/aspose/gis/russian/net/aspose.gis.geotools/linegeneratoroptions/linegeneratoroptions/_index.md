@@ -1,39 +1,18 @@
 ---
 title: LineGeneratorOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создать экземпляр с полями инициализации по умолчанию.
+description: Конструктор по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geotools/linegeneratoroptions/linegeneratoroptions/
 ---
-## LineGeneratorOptions() {#constructor}
+## LineGeneratorOptions constructor
 
-Создать экземпляр с полями инициализации по умолчанию.
+Конструктор по умолчанию.
 
 ```csharp
 public LineGeneratorOptions()
 ```
-
-### Смотрите также
-
-* class [LineGeneratorOptions](../../linegeneratoroptions)
-* пространство имен [Aspose.Gis.GeoTools](../../linegeneratoroptions)
-* сборка [Aspose.GIS](../../../)
-
----
-
-## LineGeneratorOptions(int, int) {#constructor_1}
-
-Создать экземпляр.
-
-```csharp
-public LineGeneratorOptions(int count, int seed = -1)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| count | Int32 | Количество строк для создания. |
-| seed | Int32 | Число, используемое для вычисления начального значения для последовательности псевдослучайных чисел. |
 
 ### Смотрите также
 

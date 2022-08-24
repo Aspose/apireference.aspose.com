@@ -1,14 +1,14 @@
 ---
 title: GrowX
 second_title: Aspose.GIS for .NET API 参考
-description: 沿 X 轴扩展此范围使其包含指定值
+description: 沿 X 轴扩展此范围使其包含指定的值
 type: docs
 weight: 170
 url: /zh/net/aspose.gis/extent/growx/
 ---
 ## Extent.GrowX method
 
-沿 X 轴扩展此范围，使其包含指定值。
+沿 X 轴扩展此范围，使其包含指定的值。
 
 ```csharp
 public void GrowX(double value)

@@ -21,24 +21,24 @@ public T GetValue<T>(string attributeName)
 
 ### 返回值
 
-属性值。
+属性的值。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 | ArgumentException | 此层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 | InvalidOperationException | 未为此功能设置此属性的值。 |
-| InvalidCastException | 请求的类型未实现IConvertible。 |
-| InvalidCastException | 属性的值为`null`，但请求的类型是值类型。 |
-| FormatException | 转换失败，因为值格式不正确。 |
-| OverflowException | 转换因溢出而失败。 |
+| InvalidCastException | 请求的类型未实现IConvertible. |
+| InvalidCastException | 该属性的值为`null`，但请求的类型是值类型。 |
+| FormatException | 转换失败，因为值的格式不正确。 |
+| OverflowException | 由于溢出，转换失败。 |
 
 ### 评论
 
-此方法自动将值转换为泛型类型参数中请求的类型。 &lt;br /&gt; 如果图层不要求其特征具有为图层定义的所有属性的值，则 此方法可能会失败，并显示InvalidOperationException请求缺失值时。 使用此类层时，请考虑使用[`GetValueOrDefault`](../getvalueordefault)。
+此方法自动将值转换为泛型类型参数中请求的类型。  如果图层不要求其特征具有为图层定义的所有属性的值， 此方法可能会失败InvalidOperationException当请求缺失值时。 使用此类图层时，请考虑使用[`GetValueOrDefault`](../getvalueordefault).
 
 ### 也可以看看
 
@@ -62,20 +62,20 @@ public object GetValue(string attributeName)
 
 ### 返回值
 
-属性值。
+属性的值。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 | ArgumentException | 此层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 | InvalidOperationException | 未为此功能设置此属性的值。 |
 
 ### 评论
 
-如果图层不要求其特征具有为图层定义的所有属性的值， this请求缺失值时，方法可能会因InvalidOperationException而失败。 使用此类层时，请考虑使用[`GetValueOrDefault`](../getvalueordefault)。
+如果图层不要求其特征具有为图层定义的所有属性的值， 此方法可能会失败InvalidOperationException当请求缺失值时。 使用此类图层时，请考虑使用[`GetValueOrDefault`](../getvalueordefault).
 
 ### 也可以看看
 

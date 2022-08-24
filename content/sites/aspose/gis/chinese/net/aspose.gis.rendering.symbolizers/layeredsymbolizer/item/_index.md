@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.GIS for .NET API 参考
-description: 获取指定索引处的符号
+description: 获取指定索引处的符号器
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/item/
 ---
 ## LayeredSymbolizer indexer
 
-获取指定索引处的符号。
+获取指定索引处的符号器。
 
 ```csharp
 public VectorSymbolizer this[int index] { get; }

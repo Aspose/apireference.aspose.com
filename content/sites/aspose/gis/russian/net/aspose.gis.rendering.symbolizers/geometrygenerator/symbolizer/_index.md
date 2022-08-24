@@ -1,14 +1,14 @@
 ---
 title: Symbolizer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает символизатор для применения к измененной геометрии. По умолчаниюNullVectorSymbolizer.
+description: Указывает символизатор для применения к измененной геометрии. Значение по умолчаниюNullVectorSymbolizer .
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer/
 ---
 ## GeometryGenerator.Symbolizer property
 
-Указывает символизатор для применения к измененной геометрии. По умолчанию:`NullVectorSymbolizer`.
+Указывает символизатор для применения к измененной геометрии. Значение по умолчанию:`NullVectorSymbolizer` .
 
 ```csharp
 public VectorSymbolizer Symbolizer { get; set; }

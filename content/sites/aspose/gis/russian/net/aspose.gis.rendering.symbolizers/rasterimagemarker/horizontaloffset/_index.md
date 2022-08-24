@@ -1,14 +1,14 @@
 ---
 title: HorizontalOffset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет горизонтальное смещение от местоположения точки до точки привязки формы.
+description: Задает горизонтальное смещение от точки до точки привязки фигуры.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.rendering.symbolizers/rasterimagemarker/horizontaloffset/
 ---
 ## RasterImageMarker.HorizontalOffset property
 
-Определяет горизонтальное смещение от местоположения точки до точки привязки формы.
+Задает горизонтальное смещение от точки до точки привязки фигуры.
 
 ```csharp
 public Measurement HorizontalOffset { get; set; }

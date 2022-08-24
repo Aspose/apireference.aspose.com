@@ -20,7 +20,7 @@ public enum KmlItemIconStates
 | --- | --- | --- |
 | None | `0` | 未定义（无）。 |
 | Open | `1` | 打开文件夹。 |
-| Closed | `2` | 已关闭文件夹。 |
+| Closed | `2` | 关闭的文件夹。 |
 | Error | `3` | 获取错误。 |
 | Fetching0 | `4` | 获取状态 0。 |
 | Fetching1 | `5` | 获取状态 1。 |

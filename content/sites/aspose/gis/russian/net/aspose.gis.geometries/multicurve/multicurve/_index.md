@@ -1,14 +1,14 @@
 ---
 title: MultiCurve
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаMultiCurveaspose.gis.geometries/multicurve.
+description: Инициализирует новый экземплярMultiCurveaspose.gis.geometries/multicurve класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/multicurve/multicurve/
 ---
 ## MultiCurve constructor
 
-Инициализирует новый экземпляр класса[`MultiCurve`](../../multicurve).
+Инициализирует новый экземпляр[`MultiCurve`](../../multicurve) класс.
 
 ```csharp
 public MultiCurve()

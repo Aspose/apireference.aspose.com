@@ -20,15 +20,15 @@ public bool IsValueSet(string attributeName)
 
 ### 返回值
 
-`true`如果设置了指定属性的值；否则，`false`。
+`true`如果设置了指定属性的值；否则，`false`.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 属性未锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 | ArgumentException | 此层中不存在具有此名称的属性。 |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 
 ### 也可以看看
 

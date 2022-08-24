@@ -16,8 +16,8 @@ public static bool operator ==(GeometryCollection a, GeometryCollection b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | GeometryCollection | Экземпляр A. |
-| b | GeometryCollection | Экземпляр B. |
+| a | GeometryCollection | Экземпляр А. |
+| b | GeometryCollection | Экземпляр Б. |
 
 ### Возвращаемое значение
 

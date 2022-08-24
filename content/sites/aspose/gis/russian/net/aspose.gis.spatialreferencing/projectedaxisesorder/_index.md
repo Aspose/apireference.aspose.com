@@ -3,7 +3,7 @@ title: ProjectedAxisesOrder
 second_title: Справочник по Aspose.GIS for .NET API
 description: Представляет порядок осей в географической SRS.
 type: docs
-weight: 2100
+weight: 2110
 url: /ru/net/aspose.gis.spatialreferencing/projectedaxisesorder/
 ---
 ## ProjectedAxisesOrder enumeration
@@ -18,7 +18,7 @@ public enum ProjectedAxisesOrder
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Invalid | `-1` | Проекция SRS недействительна и порядок осей не может быть определен. |
+| Invalid | `-1` | Спроецированная SRS недействительна, и порядок осей не может быть определен. |
 | XY | `0` | Порядок (X, Y). (X горизонтально (восток, запад), Y вертикально (север, юг)). |
 | YX | `1` | Порядок (Y, X). (X — горизонтальная ось (восток, запад), Y — вертикальная ось (север, юг)). |
 

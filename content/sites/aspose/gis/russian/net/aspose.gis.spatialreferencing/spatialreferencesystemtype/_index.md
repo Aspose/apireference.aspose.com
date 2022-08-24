@@ -3,7 +3,7 @@ title: SpatialReferenceSystemType
 second_title: Справочник по Aspose.GIS for .NET API
 description: Представляет тип системы пространственной привязки.
 type: docs
-weight: 2160
+weight: 2170
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystemtype/
 ---
 ## SpatialReferenceSystemType enumeration
@@ -18,12 +18,12 @@ public enum SpatialReferenceSystemType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Unknown | `0` | Значение по умолчанию. Может возвращаться из[`Type`](../spatialreferencesystem/type)если это составная SRS с недопустимой комбинацией базовых SRS. См.[`IsCompound`](../spatialreferencesystem/iscompound). |
-| Geographic | `1` | Географические SRS основаны на угловой долготе и угловой широте. Географическая SRS может быть преобразована в[`GeographicSpatialReferenceSystem`](../geographicspatialreferencesystem) через[`AsGeographic`](../spatialreferencesystem/asgeographic)метод. |
-| Geocentric | `2` | Геоцентрическая СКР представляет собой трехмерную декартову СКР с началом в центре Земли. Geocentric SRS можно преобразовать в[`GeocentricSpatialReferenceSystem`](../geocentricspatialreferencesystem) через[`AsGeocentric`](../spatialreferencesystem/asgeocentric)метод. |
-| Projected | `3` | Спроецированная SRS основана на линейном X и линейном Y. Это результат применения проекции наГеографияСГД. Projected SRS можно преобразовать в[`ProjectedSpatialReferenceSystem`](../projectedspatialreferencesystem) через[`AsProjected`](../spatialreferencesystem/asprojected)метод. |
-| Vertical | `4` | Вертикальная SRS описывает линейную координату высоты. Вертикальная SRS может быть преобразована в[`VerticalSpatialReferenceSystem`](../verticalspatialreferencesystem) через[`AsVertical`](../spatialreferencesystem/asvertical)метод. |
-| Local | `5` | Локальная СКИ связывает координаты с одним объектом, другим с Землей. Local SRS можно преобразовать в[`LocalSpatialReferenceSystem`](../localspatialreferencesystem) через[`AsLocal`](../spatialreferencesystem/aslocal)метод. |
+| Unknown | `0` | Значение по умолчанию. Может быть возвращено из[`Type`](../spatialreferencesystem/type) если это составная SRS с недопустимой комбинацией базовых SRS . Видеть[`IsCompound`](../spatialreferencesystem/iscompound) . |
+| Geographic | `1` | Географическая SRS основана на угловой долготе и угловой широте. Географическая SRS может быть преобразована в[`GeographicSpatialReferenceSystem`](../geographicspatialreferencesystem) через[`AsGeographic`](../spatialreferencesystem/asgeographic) метод. |
+| Geocentric | `2` | Геоцентрическая SRS представляет собой трехмерную декартову SRS с началом в центре Земли. Геоцентрическая SRS может быть преобразована в[`GeocentricSpatialReferenceSystem`](../geocentricspatialreferencesystem) через[`AsGeocentric`](../spatialreferencesystem/asgeocentric) метод. |
+| Projected | `3` | Прогнозируемый SRS основан на линейном X и линейном Y. Это результат применения проекции наGeographic SRS. Прогнозируемая SRS может быть преобразована в[`ProjectedSpatialReferenceSystem`](../projectedspatialreferencesystem) через[`AsProjected`](../spatialreferencesystem/asprojected) метод. |
+| Vertical | `4` | Вертикальная SRS описывает линейную координату высоты. Вертикальная SRS может быть преобразована в[`VerticalSpatialReferenceSystem`](../verticalspatialreferencesystem) через[`AsVertical`](../spatialreferencesystem/asvertical) метод. |
+| Local | `5` | Локальная SRS связывает координаты с одним объектом, другим с Землей. Локальная SRS может быть преобразована в[`LocalSpatialReferenceSystem`](../localspatialreferencesystem) через[`AsLocal`](../spatialreferencesystem/aslocal) метод. |
 
 ### Смотрите также
 

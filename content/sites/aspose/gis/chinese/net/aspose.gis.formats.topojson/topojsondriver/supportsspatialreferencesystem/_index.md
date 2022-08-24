@@ -24,7 +24,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### 评论
 
-对于 TopoJSON，唯一支持的空间参考系统是 'null'，因为没有办法在 TopoJSON 文件中存储 空间参考系统信息，并且 TopoJSON 规范没有指定 是 TopoJSON 文件中几何的空间参考系统。
+对于 TopoJSON，唯一支持的空间参考系统是 'null'，因为无法在 TopoJSON 文件中存储 空间参考系统信息，而且 TopoJSON 规范没有指定什么 是 TopoJSON 文件中几何的空间参考系统。
 
 ### 也可以看看
 

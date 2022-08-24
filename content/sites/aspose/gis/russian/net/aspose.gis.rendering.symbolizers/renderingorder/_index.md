@@ -3,7 +3,7 @@ title: RenderingOrder
 second_title: Справочник по Aspose.GIS for .NET API
 description: Определяет порядок рендеринга.
 type: docs
-weight: 1800
+weight: 1810
 url: /ru/net/aspose.gis.rendering.symbolizers/renderingorder/
 ---
 ## RenderingOrder enumeration
@@ -18,7 +18,7 @@ public enum RenderingOrder
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| ByFeatures | `0` | Визуализировать объект со всеми символизаторами, затем перейти к следующему объекту. |
+| ByFeatures | `0` | Визуализируйте элемент со всеми символизаторами, затем перейдите к следующему элементу. |
 | ByLayers | `1` | Визуализируйте все объекты с помощью символизатора, затем перейдите к следующему символизатору. |
 
 ### Смотрите также

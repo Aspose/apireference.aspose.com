@@ -20,19 +20,19 @@ public bool Covers(IGeometry other)
 
 ### Возвращаемое значение
 
-`true`если эта геометрия "пространственно покрывает" другую геометрию.`false`иначе.
+`true` если эта геометрия «пространственно покрывает» другую геометрию.`false` иначе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Одна из геометрий недействительна, поэтому операция не может быть завершена. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Примечания
 
-Этот метод проверяет, покрывает ли одна геометрия другую с точки зрения матрицы пересечения DE-9IM. Одна геометрия покрывает другую, если геометрия содержит все точки другой геометрии. Этот метод похож на[`SpatiallyContains`](../spatiallycontains), но возвращает`true`чаще, поскольку не различает внутренние и граничные точки. Итак, если геометрия A лежит на границе геометрии B,[`SpatiallyContains`](../spatiallycontains)возвращает`false`, а этот метод возвращает`true`.&lt;cr /&gt; Этот метод эквивалентен:
+Этот метод проверяет, покрывает ли одна геометрия другую с точки зрения матрицы пересечения DE-9IM. Одна геометрия покрывает другую, если геометрия содержит все точки другой геометрии. Этот метод похож на[`SpatiallyContains`](../spatiallycontains) , но возвращается`true` чаще , так как он не различает внутренние и граничные точки. Итак, если геометрия A лежит на границе геометрии B,[`SpatiallyContains`](../spatiallycontains) возвращается`false` , пока этот метод возвращает`true`. Этот метод эквивалентен:
 
 ```csharp
 this.Relate(other, "T*****FF*") || this.Relate(other, "*T****FF*") || this.Relate(other, "***T**FF*) || this.Relate(other, "***T*FF*");

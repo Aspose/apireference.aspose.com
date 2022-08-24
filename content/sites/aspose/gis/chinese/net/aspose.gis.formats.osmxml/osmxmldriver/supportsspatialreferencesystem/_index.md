@@ -20,11 +20,11 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### 返回值
 
-布尔值，表示驱动程序是否支持指定的空间参考系统。
+布尔值，指示驱动程序是否支持指定的空间参考系统。
 
 ### 评论
 
-对于 OSM XML，唯一支持的空间参考系统是 WGS84。
+对于 OSM XML，唯一支持的空间参考系统是 WGS84.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: AsImage
 second_title: Справочник по Aspose.GIS for .NET API
-description: Экспортируйте эту геометрию в представление изображения.
+description: Экспорт этой геометрии в представление изображения.
 type: docs
 weight: 110
 url: /ru/net/aspose.gis.geometries/igeometry/asimage/
 ---
 ## AsImage(AbstractPath, Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage_1}
 
-Экспортируйте эту геометрию в представление изображения.
+Экспорт этой геометрии в представление изображения.
 
 ```csharp
 public void AsImage(AbstractPath outputPath, Measurement width, Measurement height, 
@@ -20,7 +20,7 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | outputPath | AbstractPath | Путь к выходному изображению. |
 | width | Measurement | Ширина карты. |
 | height | Measurement | Высота карты. |
-| renderer | Renderer | Используемый рендерер. |
+| renderer | Renderer | Рендерер для использования. |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
 
 ### Исключения
@@ -28,9 +28,9 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Любой аргумент`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 | [GisException](../../../aspose.gis/gisexception) | Ошибка при обработке или чтении данных ГИС. |
-| ArgumentException | Единицей ширины или высоты является!:SpatialReferencing.Unit.MapUnits. |
+| ArgumentException | Единица ширины или высоты!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Ширина или высота отрицательны или равны нулю. |
 
 ### Смотрите также
@@ -47,7 +47,7 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 
 ## AsImage(string, Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage_2}
 
-Экспортируйте эту геометрию в представление изображения.
+Экспорт этой геометрии в представление изображения.
 
 ```csharp
 public void AsImage(string outputPath, Measurement width, Measurement height, Renderer renderer, 
@@ -59,7 +59,7 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | outputPath | String | Путь к выходному изображению. |
 | width | Measurement | Ширина карты. |
 | height | Measurement | Высота карты. |
-| renderer | Renderer | Используемый рендерер. |
+| renderer | Renderer | Рендерер для использования. |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
 
 ### Исключения
@@ -67,9 +67,9 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Любой аргумент`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 | [GisException](../../../aspose.gis/gisexception) | Ошибка при обработке или чтении данных ГИС. |
-| ArgumentException | Единицей ширины или высоты является!:SpatialReferencing.Unit.MapUnits. |
+| ArgumentException | Единица ширины или высоты!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Ширина или высота отрицательны или равны нулю. |
 
 ### Смотрите также
@@ -85,7 +85,7 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 
 ## AsImage(Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage}
 
-Экспортируйте эту геометрию в представление изображения.
+Экспорт этой геометрии в представление изображения.
 
 ```csharp
 public Stream AsImage(Measurement width, Measurement height, Renderer renderer, 
@@ -96,21 +96,21 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 | --- | --- | --- |
 | width | Measurement | Ширина карты. |
 | height | Measurement | Высота карты. |
-| renderer | Renderer | Используемый рендерер. |
+| renderer | Renderer | Рендерер для использования. |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
 
 ### Возвращаемое значение
 
-Изображение в виде потока
+Изображение как поток
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Любой аргумент`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 | [GisException](../../../aspose.gis/gisexception) | Ошибка при обработке или чтении данных ГИС. |
-| ArgumentException | Единицей ширины или высоты является!:SpatialReferencing.Unit.MapUnits. |
+| ArgumentException | Единица ширины или высоты!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Ширина или высота отрицательны или равны нулю. |
 
 ### Смотрите также

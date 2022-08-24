@@ -1,14 +1,14 @@
 ---
 title: JoinAttributeNames
 second_title: Aspose.GIS for .NET API 参考
-description: 指定要连接的属性名称列表 如果为null或为空则连接层的所有属性都将被连接
+description: 指定要连接的属性名称列表 如果是null或为空将连接图层的所有属性
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.relationship.joins/joinoptions/joinattributenames/
 ---
 ## JoinOptions.JoinAttributeNames property
 
-指定要连接的属性名称列表。 如果为`null`或为空，则连接层的所有属性都将被连接。
+指定要连接的属性名称列表。 如果是`null`或为空，将连接图层的所有属性。
 
 ```csharp
 public List<string> JoinAttributeNames { get; set; }

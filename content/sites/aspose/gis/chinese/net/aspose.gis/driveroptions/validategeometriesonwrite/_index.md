@@ -1,14 +1,14 @@
 ---
 title: ValidateGeometriesOnWrite
 second_title: Aspose.GIS for .NET API 参考
-description: 确定在将几何图形添加到图层时是否应对其进行验证 如果设置为trueIsValidaspose.gis.geometries/geometry/isvalid会为每个 调用几何体添加到图层时如果验证失败IsValidaspose.gis.geometries/geometry/isvalidisfalseGisExceptionaspose.gis/gisexception被抛出
+description: 确定在将几何图形添加到图层时是否应对其进行验证 如果设置为trueIsValidaspose.gis.geometries/geometry/isvalid在将 each 几何图形添加到图层时以及如果验证失败IsValidaspose.gis.geometries/geometry/isvalid是falseGisExceptionaspose.gis/gisexception被抛出
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/driveroptions/validategeometriesonwrite/
 ---
 ## DriverOptions.ValidateGeometriesOnWrite property
 
-确定在将几何图形添加到图层时是否应对其进行验证。 如果设置为`true`，[`IsValid`](../../../aspose.gis.geometries/geometry/isvalid)会为每个 调用几何体添加到图层时，如果验证失败（[`IsValid`](../../../aspose.gis.geometries/geometry/isvalid)is`false`），[`GisException`](../../gisexception)被抛出。
+确定在将几何图形添加到图层时是否应对其进行验证。 如果设置为`true`,[`IsValid`](../../../aspose.gis.geometries/geometry/isvalid)在将 each 几何图形添加到图层时以及如果验证失败（[`IsValid`](../../../aspose.gis.geometries/geometry/isvalid)是`false`),[`GisException`](../../gisexception)被抛出。
 
 ```csharp
 public bool ValidateGeometriesOnWrite { get; set; }

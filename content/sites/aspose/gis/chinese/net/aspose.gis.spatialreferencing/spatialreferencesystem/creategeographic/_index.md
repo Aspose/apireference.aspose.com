@@ -22,7 +22,7 @@ public static GeographicSpatialReferenceSystem CreateGeographic(
 
 ### 返回值
 
-新地理 SRS。
+新的地理 SRS。
 
 ### 也可以看看
 

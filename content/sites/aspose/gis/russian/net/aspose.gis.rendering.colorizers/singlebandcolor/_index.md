@@ -3,7 +3,7 @@ title: SingleBandColor
 second_title: Справочник по Aspose.GIS for .NET API
 description: Одноканальный колоризатор определяет серый компонент для растра.
 type: docs
-weight: 1430
+weight: 1440
 url: /ru/net/aspose.gis.rendering.colorizers/singlebandcolor/
 ---
 ## SingleBandColor class

@@ -16,19 +16,19 @@ public static IEnumerable<IGeometry> ProducePoints(Extent rect, PointGeneratorOp
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Extent | 指定区域（见[`Extent`](../../../aspose.gis/extent) ）。 |
-| options | PointGeneratorOptions | 点创建选项（参见[`PointGeneratorOptions`](../../pointgeneratoroptions) ） . |
+| rect | Extent | 指定区域（见[`程度`](../../../aspose.gis/extent)）。 |
+| options | PointGeneratorOptions | 点创建选项（请参阅[`点生成器选项`](../../pointgeneratoroptions)）。 |
 
 ### 返回值
 
-点数组（参见IGeometry 的枚举） .
+点数组（见枚举[`几何学`](../../../aspose.gis.geometries/igeometry)）。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentOutOfRangeException | 点数必须大于 1。 |
-| NullReferenceException | Extent 必须有一个值（不是 NULL）。 |
+| NullReferenceException | 范围必须有一个值（不是 NULL）。 |
 
 ### 也可以看看
 

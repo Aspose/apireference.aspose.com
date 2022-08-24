@@ -1,14 +1,14 @@
 ---
 title: GeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: ВыдаетInvalidOperationException так как вертикальная SRS не имеет географической точки отсчета.
+description: ВыбрасываетInvalidOperationException  так как вертикальная SRS не имеет географической системы отсчета.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/geographicdatum/
 ---
 ## VerticalSpatialReferenceSystem.GeographicDatum property
 
-ВыдаетInvalidOperationException, так как вертикальная SRS не имеет географической точки отсчета.
+ВыбрасываетInvalidOperationException , так как вертикальная SRS не имеет географической системы отсчета.
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }

@@ -16,7 +16,7 @@ public bool EnsureValidCoordinatesRange { get; set; }
 
 ### 评论
 
-这是一个创建选项，不影响读取。 如果设置为`true`将在尝试写入值 超出有效范围的坐标时引发异常。如果设置为`false`这样的坐标将被静默写入。 有效范围由[`CoordinatePrecisionGrid`](../coordinateprecisiongrid)定义。请参阅[`CoordinatePrecisionGrid`](../coordinateprecisiongrid) 文档以了解如何从坐标精度网格确定有效范围。 默认为`false`。
+这是一个创建选项，不影响阅读。 如果设置为`true`尝试写入 values 超出有效范围的坐标时将引发异常。如果设置为`false`这样的坐标将被静默写入。 有效范围定义为[`CoordinatePrecisionGrid`](../coordinateprecisiongrid).参考[`CoordinatePrecisionGrid`](../coordinateprecisiongrid) 文档以了解如何从坐标精度网格确定有效范围。 默认为`false`.
 
 ### 也可以看看
 

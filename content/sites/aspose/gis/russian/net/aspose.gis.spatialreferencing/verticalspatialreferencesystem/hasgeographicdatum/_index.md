@@ -1,14 +1,14 @@
 ---
 title: HasGeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращаетfalse так как вертикальная SRS не имеет географической точки отсчета.
+description: Возвращаетfalse  так как вертикальная SRS не имеет географической системы отсчета.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/hasgeographicdatum/
 ---
 ## VerticalSpatialReferenceSystem.HasGeographicDatum property
 
-Возвращает`false`, так как вертикальная SRS не имеет географической точки отсчета.
+Возвращает`false` , так как вертикальная SRS не имеет географической системы отсчета.
 
 ```csharp
 public override bool HasGeographicDatum { get; }

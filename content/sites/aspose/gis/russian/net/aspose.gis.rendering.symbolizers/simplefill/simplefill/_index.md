@@ -24,7 +24,7 @@ public SimpleFill()
 
 ## SimpleFill(SimpleFill) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SimpleFill`](../../simplefill).
+Инициализирует новый экземпляр[`SimpleFill`](../../simplefill) класс.
 
 ```csharp
 public SimpleFill(SimpleFill other)
@@ -32,13 +32,13 @@ public SimpleFill(SimpleFill other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | SimpleFill | Другой[`SimpleFill`](../../simplefill)для копирования данных из . |
+| other | SimpleFill | Другой[`SimpleFill`](../../simplefill) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

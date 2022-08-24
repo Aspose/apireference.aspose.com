@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает SpatialReferenceSystem этого экземпляра. Это свойство может бытьnull если SpatialReferenceSystem не установлено. Присвоение новой SpatialReferenceSystem не приведет к преобразованию координат изменится только ссылка.
+description: Получает SpatialReferenceSystem этого экземпляра. Это свойство может бытьnull  если SpatialReferenceSystem не задан. Назначение новой SpatialReferenceSystem не приведет к преобразованию координат изменится только привязка.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.geometries/compoundcurve/spatialreferencesystem/
 ---
 ## CompoundCurve.SpatialReferenceSystem property
 
-Получает SpatialReferenceSystem этого экземпляра. Это свойство может быть`null`, если SpatialReferenceSystem не установлено. Присвоение новой SpatialReferenceSystem не приведет к преобразованию координат, изменится только ссылка.
+Получает SpatialReferenceSystem этого экземпляра. Это свойство может быть`null` , если SpatialReferenceSystem не задан. Назначение новой SpatialReferenceSystem не приведет к преобразованию координат, изменится только привязка.
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }

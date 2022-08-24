@@ -22,7 +22,7 @@ public void Remove(string name)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | InvalidOperationException | Коллекция заблокирована. |
 
 ### Смотрите также

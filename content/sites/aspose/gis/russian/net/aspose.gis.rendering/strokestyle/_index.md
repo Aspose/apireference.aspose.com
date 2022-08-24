@@ -1,14 +1,14 @@
 ---
 title: StrokeStyle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает стиль обводки.
+description: Определяет стиль обводки.
 type: docs
-weight: 1690
+weight: 1700
 url: /ru/net/aspose.gis.rendering/strokestyle/
 ---
 ## StrokeStyle enumeration
 
-Задает стиль обводки.
+Определяет стиль обводки.
 
 ```csharp
 public enum StrokeStyle
@@ -20,10 +20,10 @@ public enum StrokeStyle
 | --- | --- | --- |
 | Solid | `0` | Определяет прямую линию. |
 | None | `1` | Указывает, что линия не должна быть нарисована. |
-| Dash | `2` | Указывает пунктирную линию. |
-| Dot | `3` | Задает пунктирную линию. |
-| DashDot | `4` | Задает альтернативные точки и тире. |
-| DashDotDot | `5` | Указывает штрихпунктирную линию. |
+| Dash | `2` | Задает пунктирную линию. |
+| Dot | `3` | Указывает пунктирную линию. |
+| DashDot | `4` | Задает чередующиеся точки и тире. |
+| DashDotDot | `5` | Определяет штрихпунктирную линию. |
 | Custom | `6` | Пользовательская штриховая линия. |
 
 ### Смотрите также

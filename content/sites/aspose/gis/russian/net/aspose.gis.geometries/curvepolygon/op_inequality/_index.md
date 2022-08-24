@@ -16,8 +16,8 @@ public static bool operator !=(CurvePolygon a, CurvePolygon b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | CurvePolygon | Экземпляр A. |
-| b | CurvePolygon | Экземпляр B. |
+| a | CurvePolygon | Экземпляр А. |
+| b | CurvePolygon | Экземпляр Б. |
 
 ### Возвращаемое значение
 

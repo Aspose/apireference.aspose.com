@@ -1,14 +1,14 @@
 ---
 title: IPolygon
 second_title: Aspose.GIS for .NET API 参考
-description: AICurvePolygon./icurvepolygon其边界由线性环定义
+description: 一个ICurvePolygon./icurvepolygon其边界由线性环定义
 type: docs
-weight: 990
+weight: 1000
 url: /zh/net/aspose.gis.geometries/ipolygon/
 ---
 ## IPolygon interface
 
-A[`ICurvePolygon`](../icurvepolygon)其边界由线性环定义。
+一个[`ICurvePolygon`](../icurvepolygon)其边界由线性环定义。
 
 ```csharp
 public interface IPolygon : ICurvePolygon, IEquatable<IPolygon>

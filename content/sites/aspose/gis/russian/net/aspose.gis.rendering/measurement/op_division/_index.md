@@ -21,7 +21,7 @@ public static Measurement operator /(Measurement measurement, double factor)
 
 ### Возвращаемое значение
 
-Измерение с[`Value`](../value)деленное на коэффициент.
+Измерение с[`Value`](../value) разделить на коэффициент.
 
 ### Смотрите также
 

@@ -16,8 +16,8 @@ public static bool operator !=(Polygon a, Polygon b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Polygon | Экземпляр A. |
-| b | Polygon | Экземпляр B. |
+| a | Polygon | Экземпляр А. |
+| b | Polygon | Экземпляр Б. |
 
 ### Возвращаемое значение
 

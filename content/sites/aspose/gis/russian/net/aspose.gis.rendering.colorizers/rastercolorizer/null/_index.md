@@ -1,14 +1,14 @@
 ---
 title: Null
 second_title: Справочник по Aspose.GIS for .NET API
-description: NullColorizeraspose.gis.rendering.colorizers/nullcolorizerничего не рисует и эффективно пропускает рендеринг ячеек к которым он применяется.
+description: NullColorizeraspose.gis.rendering.colorizers/nullcolorizer ничего не рисует и эффективно пропускает рендеринг ячеек к которым он применяется.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.colorizers/rastercolorizer/null/
 ---
 ## RasterColorizer.Null property
 
-[`NullColorizer`](../../nullcolorizer)ничего не рисует и эффективно пропускает рендеринг ячеек, к которым он применяется.
+[`NullColorizer`](../../nullcolorizer) ничего не рисует и эффективно пропускает рендеринг ячеек, к которым он применяется.
 
 ```csharp
 public static NullColorizer Null { get; }

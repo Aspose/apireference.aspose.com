@@ -1,14 +1,14 @@
 ---
 title: IsEquivalent
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет эквивалентен ли этот SRS другим SRS..
+description: Определяет эквивалентен ли этот SRS другим SRS. .
 type: docs
 weight: 150
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/isequivalent/
 ---
 ## CompoundSpatialReferenceSystem.IsEquivalent method
 
-Определяет, эквивалентен ли этот SRS другим SRS..
+Определяет, эквивалентен ли этот SRS другим SRS. .
 
 ```csharp
 public override bool IsEquivalent(SpatialReferenceSystem other)
@@ -16,7 +16,7 @@ public override bool IsEquivalent(SpatialReferenceSystem other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | SpatialReferenceSystem | Другие SRS. |
+| other | SpatialReferenceSystem | Другие СРС. |
 
 ### Возвращаемое значение
 

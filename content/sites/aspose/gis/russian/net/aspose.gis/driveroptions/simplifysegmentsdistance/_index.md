@@ -1,14 +1,14 @@
 ---
 title: SimplifySegmentsDistance
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет расстояние дляSimplifySegmentsaspose.gis/driveroptions/simplifysegments. По умолчанию0.
+description: Определяет расстояние дляSimplifySegmentsaspose.gis/driveroptions/simplifysegments . По умолчанию0 .
 type: docs
 weight: 80
 url: /ru/net/aspose.gis/driveroptions/simplifysegmentsdistance/
 ---
 ## DriverOptions.SimplifySegmentsDistance property
 
-Определяет расстояние для[`SimplifySegments`](../simplifysegments). По умолчанию`0`.
+Определяет расстояние для[`SimplifySegments`](../simplifysegments) . По умолчанию`0` .
 
 ```csharp
 public double SimplifySegmentsDistance { get; set; }
@@ -16,7 +16,7 @@ public double SimplifySegmentsDistance { get; set; }
 
 ### Примечания
 
-Не влияет, если[`SimplifySegments`](../simplifysegments)неверно.
+Не влияет, если[`SimplifySegments`](../simplifysegments) неверно.
 
 ### Смотрите также
 

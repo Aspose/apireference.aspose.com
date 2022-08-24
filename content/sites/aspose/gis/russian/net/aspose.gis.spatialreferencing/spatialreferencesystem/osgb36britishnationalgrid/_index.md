@@ -1,14 +1,14 @@
 ---
 title: Osgb36BritishNationalGrid
 second_title: Справочник по Aspose.GIS for .NET API
-description: Система пространственной привязки OSGB 36 / British National Grid EPSG27700.
+description: Система пространственной привязки OSGB 36 / British National Grid EPSG 27700.
 type: docs
 weight: 300
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/osgb36britishnationalgrid/
 ---
 ## SpatialReferenceSystem.Osgb36BritishNationalGrid property
 
-Система пространственной привязки OSGB 36 / British National Grid (EPSG:27700).
+Система пространственной привязки OSGB 36 / British National Grid (EPSG: 27700).
 
 ```csharp
 public static ProjectedSpatialReferenceSystem Osgb36BritishNationalGrid { get; }

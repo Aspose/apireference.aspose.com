@@ -1,14 +1,14 @@
 ---
 title: Instance
 second_title: Aspose.GIS for .NET API 参考
-description: 获取 NullColorizer 的实例
+description: 获取一个实例NullColorizer.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.colorizers/nullcolorizer/instance/
 ---
 ## NullColorizer.Instance property
 
-获取` NullColorizer` 的实例。
+获取一个实例`NullColorizer`.
 
 ```csharp
 public static NullColorizer Instance { get; }

@@ -16,7 +16,7 @@ public Polygon ToPolygon()
 
 ### 返回值
 
-一个矩形[`Polygon`](../../../aspose.gis.geometries/polygon)那代表这个程度。对于无效范围 返回一个空多边形。
+一个矩形[`Polygon`](../../../aspose.gis.geometries/polygon)代表这个程度。对于无效范围 ，将返回一个空多边形。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает систему пространственной привязки растра. Может бытьnullесли неизвестно.
+description: Получает систему пространственной привязки растра. Может бытьnull если неизвестно.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.raster/rasterlayer/spatialreferencesystem/
 ---
 ## RasterLayer.SpatialReferenceSystem property
 
-Получает систему пространственной привязки растра. Может быть`null`если неизвестно.
+Получает систему пространственной привязки растра. Может быть`null` если неизвестно.
 
 ```csharp
 public abstract SpatialReferenceSystem SpatialReferenceSystem { get; }

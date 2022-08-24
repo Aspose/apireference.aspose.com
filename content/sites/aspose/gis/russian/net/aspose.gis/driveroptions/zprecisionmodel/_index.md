@@ -1,14 +1,14 @@
 ---
 title: ZPrecisionModel
 second_title: Справочник по Aspose.GIS for .NET API
-description: APrecisionModelaspose.gis/precisionmodelкоторый будет применен к координате Z при добавлении геометрии кVectorLayeraspose.gis/vectorlayerили когда они читаются изVectorLayeraspose.gis/vectorlayer. Значение по умолчаниюExactaspose.gis/precisionmodel/exact.
+description: АPrecisionModelaspose.gis/precisionmodel который будет применен к координате Z при добавлении геометрии вVectorLayeraspose.gis/vectorlayer или когда они читаются изVectorLayeraspose.gis/vectorlayer . Значение по умолчаниюExactaspose.gis/precisionmodel/exact .
 type: docs
 weight: 120
 url: /ru/net/aspose.gis/driveroptions/zprecisionmodel/
 ---
 ## DriverOptions.ZPrecisionModel property
 
-A[`PrecisionModel`](../../precisionmodel)который будет применен к координате Z при добавлении геометрии к[`VectorLayer`](../../vectorlayer)или когда они читаются из[`VectorLayer`](../../vectorlayer). Значение по умолчанию:[`Exact`](../../precisionmodel/exact).
+А[`PrecisionModel`](../../precisionmodel) который будет применен к координате Z при добавлении геометрии в[`VectorLayer`](../../vectorlayer) или когда они читаются из[`VectorLayer`](../../vectorlayer) . Значение по умолчанию:[`Exact`](../../precisionmodel/exact) .
 
 ```csharp
 public PrecisionModel ZPrecisionModel { get; set; }

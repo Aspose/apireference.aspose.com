@@ -1,14 +1,14 @@
 ---
 title: GetExtent
 second_title: Aspose.GIS for .NET API 参考
-description: 表示该层的空间范围
+description: 呈现该层的空间范围
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.raster.web/webtile/getextent/
 ---
 ## WebTile.GetExtent method
 
-表示该层的空间范围。
+呈现该层的空间范围。
 
 ```csharp
 public abstract Extent GetExtent()

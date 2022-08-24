@@ -1,14 +1,14 @@
 ---
 title: HasPrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: Составной SRS имеет нулевой меридиан если любой из лежащих в его основе SRS имеет нулевой меридиан.
+description: Составной SRS имеет нулевой меридиан если какойлибо из базовых SRS имеет нулевой меридиан.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/hasprimemeridian/
 ---
 ## CompoundSpatialReferenceSystem.HasPrimeMeridian property
 
-Составной SRS имеет нулевой меридиан, если любой из лежащих в его основе SRS имеет нулевой меридиан.
+Составной SRS имеет нулевой меридиан, если какой-либо из базовых SRS имеет нулевой меридиан.
 
 ```csharp
 public override bool HasPrimeMeridian { get; }

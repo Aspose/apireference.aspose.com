@@ -1,14 +1,14 @@
 ---
 title: WriteBoundingBoxes
 second_title: Aspose.GIS for .NET API 参考
-description: 确定是否应包含 GeoJSON 对象的几何坐标范围信息 如果设置为true则在将每个几何图形非空添加到图层时会为其生成一个成员bbox 默认值为false
+description: 确定是否应包含 GeoJSON 对象的几何坐标范围信息 如果设置为true每个几何图形非空在添加到图层时都会生成一个成员bbox 默认值为false.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.geojson/geojsonoptions/writeboundingboxes/
 ---
 ## GeoJsonOptions.WriteBoundingBoxes property
 
-确定是否应包含 GeoJSON 对象的几何坐标范围信息。 如果设置为`true`，则在将每个几何图形（非空）添加到图层时会为其生成一个成员“bbox”。 默认值为`false`。
+确定是否应包含 GeoJSON 对象的几何坐标范围信息。 如果设置为`true`，每个几何图形（非空）在添加到图层时都会生成一个成员“bbox”。 默认值为`false`.
 
 ```csharp
 public bool WriteBoundingBoxes { get; set; }

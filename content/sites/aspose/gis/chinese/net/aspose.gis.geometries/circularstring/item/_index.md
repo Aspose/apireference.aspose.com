@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置指定索引处的IPointaspose.gis.geometries/ipoint
+description: 获取或设置IPointaspose.gis.geometries/ipoint在指定的索引处
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.geometries/circularstring/item/
 ---
 ## CircularString indexer
 
-获取或设置指定索引处的[`IPoint`](../../ipoint)。
+获取或设置[`IPoint`](../../ipoint)在指定的索引处。
 
 ```csharp
 public IPoint this[int index] { get; set; }
@@ -16,20 +16,20 @@ public IPoint this[int index] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 适当的价值
 
-[`IPoint`](../../ipoint)。
+的[`IPoint`](../../ipoint).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentOutOfRangeException | 索引超出范围。 |
-| ArgumentNullException | 值为`null`。 |
+| ArgumentNullException | 值为`null`. |
 | ArgumentException | 点为空。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这个几何和[`SpatialReferenceSystem`](../spatialreferencesystem)的参数都不是`null` 并且彼此不相等。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这种几何形状和[`SpatialReferenceSystem`](../spatialreferencesystem)论点都不是`null` 和不相等。 |
 
 ### 也可以看看
 

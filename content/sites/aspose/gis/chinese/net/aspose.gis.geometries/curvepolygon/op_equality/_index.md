@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Aspose.GIS for .NET API 参考
-description: 实现运算符 
+description: 实现运算符 .
 type: docs
 weight: 180
 url: /zh/net/aspose.gis.geometries/curvepolygon/op_equality/
 ---
 ## CurvePolygon Equality operator
 
-实现运算符 ==。
+实现运算符 ==.
 
 ```csharp
 public static bool operator ==(CurvePolygon a, CurvePolygon b)

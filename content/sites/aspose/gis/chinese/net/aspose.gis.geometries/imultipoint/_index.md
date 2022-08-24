@@ -1,14 +1,14 @@
 ---
 title: IMultiPoint
 second_title: Aspose.GIS for .NET API 参考
-description: AIMultiPoint./imultipoint是一维IGeometryCollection./igeometrycollection 其元素是IPoint./ipoints
+description: 一个IMultiPoint./imultipoint是一维的IGeometryCollection./igeometrycollection 的元素是IPoint./ipoints.
 type: docs
-weight: 950
+weight: 960
 url: /zh/net/aspose.gis.geometries/imultipoint/
 ---
 ## IMultiPoint interface
 
-A[`IMultiPoint`](../imultipoint)是一维[`IGeometryCollection`](../igeometrycollection) 其元素是[`IPoint`](../ipoint)s。
+一个[`IMultiPoint`](../imultipoint)是一维的[`IGeometryCollection`](../igeometrycollection) 的元素是[`IPoint`](../ipoint)s.
 
 ```csharp
 public interface IMultiPoint : IGeometryCollection

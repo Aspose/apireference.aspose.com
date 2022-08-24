@@ -1,14 +1,14 @@
 ---
 title: MapLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: A MapLayer  это базовый класс для слоев внутриMap./map.
+description: АСлой карты является базовым классом для слоев внутриMap./map.
 type: docs
-weight: 1620
+weight: 1630
 url: /ru/net/aspose.gis.rendering/maplayer/
 ---
 ## MapLayer class
 
-A` MapLayer` — это базовый класс для слоев внутри[`Map`](../map).
+А`Слой карты` является базовым классом для слоев внутри[`Map`](../map).
 
 ```csharp
 public abstract class MapLayer : IDisposable
@@ -24,7 +24,7 @@ public abstract class MapLayer : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose)() | Удаляет ресурсы. |
+| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose)() | Распоряжается ресурсами. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Bmp
 second_title: Справочник по Aspose.GIS for .NET API
-description: Средство рендеринга которое выполняет рендеринг в формате BMP.
+description: Средство визуализации которое выполняет рендеринг в формате BMP.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering/renderers/bmp/
 ---
 ## Renderers.Bmp property
 
-Средство рендеринга, которое выполняет рендеринг в формате BMP.
+Средство визуализации, которое выполняет рендеринг в формате BMP.
 
 ```csharp
 public static BmpRenderer Bmp { get; }

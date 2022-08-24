@@ -1,14 +1,14 @@
 ---
 title: MOrigin
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置M坐标原点如果设置为null则使用默认值
+description: 获取或设置M坐标原点如果设置为null使用默认值
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/
 ---
 ## FileGdbCoordinatePrecisionGrid.MOrigin property
 
-获取或设置M坐标原点。如果设置为`null`则使用默认值。
+获取或设置M坐标原点。如果设置为`null`使用默认值。
 
 ```csharp
 public double? MOrigin { get; set; }
@@ -16,7 +16,7 @@ public double? MOrigin { get; set; }
 
 ### 评论
 
-默认值为 -1e5。
+默认值为 -1e5.
 
 ### 也可以看看
 

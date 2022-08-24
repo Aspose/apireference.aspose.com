@@ -18,7 +18,7 @@ public class XyzConnection
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XyzConnection](xyzconnection)(string) | 创建[`XyzConnection`](../xyzconnection)的新实例。 |
+| [XyzConnection](xyzconnection)(string) | 创建一个新的实例[`XyzConnection`](../xyzconnection). |
 
 ## 特性
 

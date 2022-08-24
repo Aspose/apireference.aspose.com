@@ -1,14 +1,14 @@
 ---
 title: SimpleLabeling
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化SimpleLabelingaspose.gis.rendering.labelings/simplelabeling类的新实例
+description: 初始化SimpleLabelingaspose.gis.rendering.labelings/simplelabeling类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/simplelabeling/
 ---
 ## SimpleLabeling() {#constructor}
 
-初始化[`SimpleLabeling`](../../simplelabeling)类的新实例。
+初始化[`SimpleLabeling`](../../simplelabeling)类.
 
 ```csharp
 public SimpleLabeling()
@@ -24,7 +24,7 @@ public SimpleLabeling()
 
 ## SimpleLabeling(string) {#constructor_2}
 
-初始化[`SimpleLabeling`](../../simplelabeling)类的新实例。
+初始化[`SimpleLabeling`](../../simplelabeling)类.
 
 ```csharp
 public SimpleLabeling(string labelAttribute)
@@ -44,7 +44,7 @@ public SimpleLabeling(string labelAttribute)
 
 ## SimpleLabeling(SimpleLabeling) {#constructor_1}
 
-初始化[`SimpleLabeling`](../../simplelabeling)类的新实例。
+初始化[`SimpleLabeling`](../../simplelabeling)类.
 
 ```csharp
 public SimpleLabeling(SimpleLabeling other)
@@ -52,13 +52,13 @@ public SimpleLabeling(SimpleLabeling other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleLabeling | 另一个[`SimpleLabeling`](../../simplelabeling)复制数据. |
+| other | SimpleLabeling | 另一个[`SimpleLabeling`](../../simplelabeling)从中复制数据。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

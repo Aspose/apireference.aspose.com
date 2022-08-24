@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.GIS for .NET API 参考
-description: 获取符号器的数量
+description: 获取符号的数量
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/count/
 ---
 ## LayeredSymbolizer.Count property
 
-获取符号器的数量。
+获取符号的数量。
 
 ```csharp
 public int Count { get; }
@@ -16,7 +16,7 @@ public int Count { get; }
 
 ### 返回值
 
-符号的数量。
+符号器的数量。
 
 ### 也可以看看
 

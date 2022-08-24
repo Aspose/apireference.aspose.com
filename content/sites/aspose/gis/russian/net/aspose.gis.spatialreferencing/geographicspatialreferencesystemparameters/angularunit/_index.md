@@ -1,14 +1,14 @@
 ---
 title: AngularUnit
 second_title: Справочник по Aspose.GIS for .NET API
-description: Единицы используемые в этой SRS. Значение по умолчаниюDegreeaspose.gis.spatialreferencing/unit/degree.
+description: Единицы которые будут использоваться в этой SRS. По умолчаниюDegreeaspose.gis.spatialreferencing/unit/degree .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/angularunit/
 ---
 ## GeographicSpatialReferenceSystemParameters.AngularUnit property
 
-Единицы, используемые в этой SRS. Значение по умолчанию:[`Degree`](../../unit/degree).
+Единицы, которые будут использоваться в этой SRS. По умолчанию[`Degree`](../../unit/degree) .
 
 ```csharp
 public Unit AngularUnit { get; set; }

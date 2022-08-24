@@ -1,14 +1,14 @@
 ---
 title: Jpeg
 second_title: Aspose.GIS for .NET API 参考
-description: 渲染为 JPEG 格式的渲染器
+description: 渲染成 JPEG 格式的渲染器
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering/renderers/jpeg/
 ---
 ## Renderers.Jpeg property
 
-渲染为 JPEG 格式的渲染器。
+渲染成 JPEG 格式的渲染器。
 
 ```csharp
 public static JpegRenderer Jpeg { get; }

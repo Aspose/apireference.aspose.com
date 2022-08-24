@@ -1,14 +1,14 @@
 ---
 title: Reverse
 second_title: Aspose.GIS for .NET API 参考
-description: 反转此LineStringaspose.gis.geometries/linestring中的点顺序
+description: 颠倒此点的顺序LineStringaspose.gis.geometries/linestring.
 type: docs
 weight: 160
 url: /zh/net/aspose.gis.geometries/linestring/reverse/
 ---
 ## LineString.Reverse method
 
-反转此[`LineString`](../../linestring)中的点顺序。
+颠倒此点的顺序[`LineString`](../../linestring).
 
 ```csharp
 public override void Reverse()

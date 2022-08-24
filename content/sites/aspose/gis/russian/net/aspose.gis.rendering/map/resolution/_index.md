@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Справочник по Aspose.GIS for .NET API
-description: Разрешение которое будет использоваться для визуализации этой карты и преобразования междуMeasurementaspose.gis.rendering/measurement. По умолчанию 96.
+description: Разрешение которое будет использоваться для рендеринга этой карты и преобразования междуMeasurementaspose.gis.rendering/measurement . По умолчанию 96.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.rendering/map/resolution/
 ---
 ## Map.Resolution property
 
-Разрешение, которое будет использоваться для визуализации этой карты и преобразования между[`Measurement`](../../measurement). По умолчанию 96.
+Разрешение, которое будет использоваться для рендеринга этой карты и преобразования между[`Measurement`](../../measurement) . По умолчанию 96.
 
 ```csharp
 public double Resolution { get; set; }

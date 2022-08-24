@@ -1,14 +1,14 @@
 ---
 title: FromStream
 second_title: Справочник по Aspose.GIS for .NET API
-description: СоздаетAbstractPathaspose.gis/abstractpathизStream.
+description: СоздаетAbstractPathaspose.gis/abstractpath изStream .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis/abstractpath/fromstream/
 ---
 ## AbstractPath.FromStream method
 
-Создает[`AbstractPath`](../../abstractpath)изStream.
+Создает[`AbstractPath`](../../abstractpath) изStream .
 
 ```csharp
 public static AbstractPath FromStream(Stream stream)
@@ -16,15 +16,15 @@ public static AbstractPath FromStream(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток для создания[`AbstractPath`](../../abstractpath)из.` Aspose.GIS` не распоряжается потоком. |
+| stream | Stream | Поток для создания[`AbstractPath`](../../abstractpath) из.`Aspose.ГИС` не распоряжается потоком. |
 
 ### Возвращаемое значение
 
-Экземпляр[`AbstractPath`](../../abstractpath)с указаннымStreamкак его содержимое.
+Экземпляр[`AbstractPath`](../../abstractpath) с указаннымStream как его содержимое.
 
 ### Примечания
 
-Этот метод полезен для передачи потока данных в однофайловом формате (например, GeoJSON или KML) к методам, которые ожидают[`AbstractPath`](../../abstractpath).
+Этот метод полезен для передачи потока данных в формате одного файла (например, GeoJSON или KML) в методы, которые ожидают[`AbstractPath`](../../abstractpath) .
 
 ### Смотрите также
 

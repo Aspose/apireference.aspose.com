@@ -1,14 +1,14 @@
 ---
 title: NumericFormat
 second_title: Aspose.GIS for .NET API 参考
-description: NumericFormat./numericformat用于格式化文本中的常见数字类型
+description: NumericFormat./numericformat用于格式化文本中常见的数字类型
 type: docs
-weight: 1180
+weight: 1190
 url: /zh/net/aspose.gis/numericformat/
 ---
 ## NumericFormat class
 
-[`NumericFormat`](../numericformat)用于格式化文本中的常见数字类型。
+[`NumericFormat`](../numericformat)用于格式化文本中常见的数字类型。
 
 ```csharp
 public abstract class NumericFormat
@@ -24,12 +24,12 @@ public abstract class NumericFormat
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Flat](../../aspose.gis/numericformat/flat)(int) | 将数字转换为不带科学计数法的定点文本。 |
-| static [General](../../aspose.gis/numericformat/general)(int) | 将数字转换为更紧凑的定点或科学计数法， 取决于数字的类型以及是否为精度说明符存在。推荐使用。 |
+| static [Flat](../../aspose.gis/numericformat/flat)(int) | 将数字转换为不带科学记数法的定点文本。 |
+| static [General](../../aspose.gis/numericformat/general)(int) | 将数字转换为更紧凑的定点或科学记数法， 取决于数字的类型以及是否存在精度说明符。推荐使用。 |
 
 ### 评论
 
-[`NumericFormat`](../numericformat)共有三种类型 &lt;ul&gt;&lt;li&gt;一般 - 定点或科学记数法。一些数字很重要。 &lt;/li&gt;&lt;li&gt;RoundTrip - 定点或科学记数法。最大位数是重要的。 &lt;/li&gt;&lt;li&gt;Flat - 定点表示法。一些数字很重要。 &lt;/li&gt;&lt;/ul&gt; A[`NumericFormat`](../numericformat)可以设置为IGeometry通过AsText 以便在将几何转换为其众所周知的文本 (WKT) 表示时指定数字格式。
+共有三种类型[`NumericFormat`](../numericformat): 一般 - 定点或科学记数法。一些数字很重要。 RoundTrip - 定点或科学记数法。最大位数是重要的。 Flat - 定点符号。一些数字很重要。 一个[`NumericFormat`](../numericformat)可以设置为[`IGeometry`](../../aspose.gis.geometries/igeometry)通过[`AsText`](../../aspose.gis.geometries/igeometry/astext) 以便在将几何图形转换为其众所周知的文本 (WKT) 表示时指定数字格式。
 
 ### 也可以看看
 

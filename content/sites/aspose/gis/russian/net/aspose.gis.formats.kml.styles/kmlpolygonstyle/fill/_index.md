@@ -8,7 +8,7 @@ url: /ru/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/fill/
 ---
 ## KmlPolygonStyle.Fill property
 
-Указывает, заполнять ли полигон. Значение по умолчанию:`true`.
+Указывает, заполнять ли полигон. Значение по умолчанию`true`.
 
 ```csharp
 public bool Fill { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ReportAllWays
 second_title: Справочник по Aspose.GIS for .NET API
-description: Сообщать обо всех путях как о функциях даже если они не имеют значимых тегов или узлов.
+description: Отмечать все пути как функции даже если они не имеют важных тегов или узлов.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.osmxml/osmxmloptions/reportallways/
 ---
 ## OsmXmlOptions.ReportAllWays property
 
-Сообщать обо всех путях как о функциях, даже если они не имеют значимых тегов или узлов.
+Отмечать все пути как функции, даже если они не имеют важных тегов или узлов.
 
 ```csharp
 public bool ReportAllWays { get; set; }

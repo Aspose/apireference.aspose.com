@@ -17,7 +17,7 @@ public static bool TryCreateFromEpsg(int epsg, out SpatialReferenceSystem value)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | epsg | Int32 | 空间参考系统的 EPSG 代码。 |
-| value | SpatialReferenceSystem& | 当此方法返回`true`时，包含具有指定 EPSG 代码的 SRS；否则， 包含`null`。 |
+| value | SpatialReferenceSystem& | 当这个方法返回时`true` , 包含一个带有指定 EPSG 代码的 SRS；否则， 包含`null`. |
 
 ### 返回值
 
@@ -25,6 +25,7 @@ public static bool TryCreateFromEpsg(int epsg, out SpatialReferenceSystem value)
 
 ### 也可以看看
 
+* method [CreateFromEpsg](../createfromepsg)
 * class [SpatialReferenceSystem](../../spatialreferencesystem)
 * 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem)
 * 部件 [Aspose.GIS](../../../)

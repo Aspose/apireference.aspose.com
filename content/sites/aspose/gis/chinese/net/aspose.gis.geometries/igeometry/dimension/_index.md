@@ -1,14 +1,14 @@
 ---
 title: Dimension
 second_title: Aspose.GIS for .NET API 参考
-description: 获取此Geometry的拓扑维度 如果维度未知例如对于空的 GEOMETRYCOLLECTIONPoint返回
+description: 获取这个的拓扑维度IGeometryaspose.gis.geometries/igeometry . 如果维度未知例如对于空的 GEOMETRYCOLLECTIONPoint被退回
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/igeometry/dimension/
 ---
 ## IGeometry.Dimension property
 
-获取此Geometry的拓扑维度。 如果维度未知（例如对于空的 GEOMETRYCOLLECTION）Point返回。
+获取这个的拓扑维度[`IGeometry`](../../igeometry) . 如果维度未知（例如对于空的 GEOMETRYCOLLECTION）Point被退回。
 
 ```csharp
 public GeometryDimension Dimension { get; }

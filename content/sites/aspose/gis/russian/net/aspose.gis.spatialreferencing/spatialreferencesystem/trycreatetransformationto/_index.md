@@ -1,14 +1,14 @@
 ---
 title: TryCreateTransformationTo
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает преобразование из этой SpatialReferenceSystem в другую SpatialReferenceSystem .
+description: Создает преобразование из этогоSpatialReferenceSystem другомуSpatialReferenceSystem .
 type: docs
 weight: 230
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatetransformationto/
 ---
 ## SpatialReferenceSystem.TryCreateTransformationTo method
 
-Создает преобразование из этой` SpatialReferenceSystem` в другую` SpatialReferenceSystem` .
+Создает преобразование из этого`SpatialReferenceSystem` другому`SpatialReferenceSystem` .
 
 ```csharp
 public bool TryCreateTransformationTo(SpatialReferenceSystem targetSrs, 
@@ -17,14 +17,14 @@ public bool TryCreateTransformationTo(SpatialReferenceSystem targetSrs,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | Другое` SpatialReferenceSystem` . |
-| value | SpatialReferenceSystemTransformation& | Когда этот метод возвращает`true`, содержит преобразование; в противном случае содержит`null`. |
+| targetSrs | SpatialReferenceSystem | Другая`SpatialReferenceSystem`. |
+| value | SpatialReferenceSystemTransformation& | Когда этот метод возвращает`true` , содержит преобразование; в противном случае содержит`null` . |
 
 ### Возвращаемое значение
 
-Преобразование из этой` SpatialReferenceSystem` в другую` SpatialReferenceSystem` .
+Трансформация из этого`SpatialReferenceSystem` другому`SpatialReferenceSystem`.
 
-`true`если трансформация создана успешно;`false`иначе.
+`true` если преобразование было создано успешно;`false` в противном случае.
 
 ### Смотрите также
 

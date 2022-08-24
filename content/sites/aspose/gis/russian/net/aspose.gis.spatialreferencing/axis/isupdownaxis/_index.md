@@ -1,14 +1,14 @@
 ---
 title: IsUpDownAxis
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет направление оси вверх или вниз.
+description: Определяет является ли направление оси вверх или вниз.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.spatialreferencing/axis/isupdownaxis/
 ---
 ## Axis.IsUpDownAxis property
 
-Определяет направление оси вверх или вниз.
+Определяет, является ли направление оси вверх или вниз.
 
 ```csharp
 public bool IsUpDownAxis { get; }

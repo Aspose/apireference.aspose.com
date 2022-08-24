@@ -16,8 +16,8 @@ public static bool IsEquivalent(Ellipsoid ellipsoid1, Ellipsoid ellipsoid2)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| ellipsoid1 | Ellipsoid | 第一个椭圆体。 |
-| ellipsoid2 | Ellipsoid | 第二个椭圆体。 |
+| ellipsoid1 | Ellipsoid | 第一个椭球体。 |
+| ellipsoid2 | Ellipsoid | 第二个椭球。 |
 
 ### 返回值
 

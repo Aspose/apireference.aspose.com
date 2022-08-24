@@ -16,8 +16,8 @@ public static bool TryParsePointText(string text, out IPoint point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 包含要转换的坐标的字符串。 字符串应包含坐标纬度和经度。 坐标应该用空格、逗号或分号分隔。 |
-| point | IPoint& | 当此方法返回时，如果转换成功，则包含具有解析坐标的 IPoint 对象，如果转换失败，则为 null。 |
+| text | String | 包含要转换的坐标的字符串。 字符串应包含坐标纬度和经度。 坐标应以空格、逗号或分号分隔。 |
+| point | IPoint& | 当此方法返回时，如果转换成功，则包含具有解析坐标的 IPoint 对象，如果转换失败，则返回 null。 |
 
 ### 返回值
 
@@ -25,7 +25,7 @@ public static bool TryParsePointText(string text, out IPoint point)
 
 ### 评论
 
-示例:“80° 151°”、“74°50.82'、172°08.21'”、“80°;151° ”、“2CMB”、“2CMB6682893142”、“2C MB 66828 93142”、“WMAQ12405535”。
+示例：“80° 151°”、“74°50.82'、172°08.21'”、“80°;151°”、“2CMB”、“2CMB6682893142”、“2C MB 66828 93142”、“WMAQ12405535”。
 
 ### 也可以看看
 

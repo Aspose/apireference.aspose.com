@@ -1,14 +1,14 @@
 ---
 title: CellWidth
 second_title: Aspose.GIS for .NET API 参考
-description: 指定光栅单元的新宽度以目标地理参考单位 如果该值设置为 0则自动计算CellWidthaspose.gis.raster/warpoptions/cellwidth默认值为0
+description: 指定光栅单元的新宽度以目标地理参考单位 如果该值设置为 0则CellWidthaspose.gis.raster/warpoptions/cellwidth是自动计算的默认值为0
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.raster/warpoptions/cellwidth/
 ---
 ## WarpOptions.CellWidth property
 
-指定光栅单元的新宽度（以目标地理参考单位）。 如果该值设置为 0，则自动计算`CellWidth`。默认值为“0”。
+指定光栅单元的新宽度（以目标地理参考单位）。 如果该值设置为 0，则`CellWidth`是自动计算的。默认值为“0”。
 
 ```csharp
 public double CellWidth { get; set; }
@@ -16,7 +16,7 @@ public double CellWidth { get; set; }
 
 ### 评论
 
-如果单元格宽度设置为 0，则该值将取自原始单元格宽度或计算自[`Width`](../width)。 注意`CellWidth`不能与[`Width`](../width)一起使用.
+如果单元格宽度设置为 0，则该值将取自原始单元格宽度或计算[`Width`](../width). 请注意`CellWidth`不能与[`Width`](../width).
 
 ### 也可以看看
 

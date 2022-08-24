@@ -16,7 +16,7 @@ public virtual void RemoveLayerAt(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 层索引 |
+| index | Int32 | 图层索引 |
 
 ### 例外
 

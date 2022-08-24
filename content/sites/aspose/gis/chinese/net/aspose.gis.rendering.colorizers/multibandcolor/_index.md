@@ -1,14 +1,14 @@
 ---
 title: MultiBandColor
 second_title: Aspose.GIS for .NET API 参考
-description: Multiband colorizer 指定光栅的红色绿色和蓝色分量
+description: 多波段着色器为光栅指定红色绿色和蓝色分量
 type: docs
-weight: 1400
+weight: 1410
 url: /zh/net/aspose.gis.rendering.colorizers/multibandcolor/
 ---
 ## MultiBandColor class
 
-Multiband colorizer 指定光栅的红色、绿色和蓝色分量。
+多波段着色器为光栅指定红色、绿色和蓝色分量。
 
 ```csharp
 public class MultiBandColor : RasterColorizer

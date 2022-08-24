@@ -24,7 +24,7 @@ public class AttributesConverterActions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Exclude](../../aspose.gis/attributesconverteractions/exclude) { get; set; } | 设置`true`以从目标层中排除属性。初始值为`false`。 |
+| [Exclude](../../aspose.gis/attributesconverteractions/exclude) { get; set; } | 套`true`从目标图层中排除属性。初始值为`false`. |
 
 ### 也可以看看
 

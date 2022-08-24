@@ -23,8 +23,8 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任何参数都是`null`。 |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| ArgumentNullException | 任何论据都是`null`. |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 | [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
 
@@ -54,7 +54,7 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 | [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
 
@@ -86,10 +86,10 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 | [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
-| NotSupportedException | *options*中指定的空间参考系统*destinationDriver*不支持。 |
+| NotSupportedException | 指定的空间参考系统*options*不支持*destinationDriver*. |
 
 ### 也可以看看
 
@@ -120,10 +120,10 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 | [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
-| NotSupportedException | *options*中指定的空间参考系统*destinationDriver*不支持。 |
+| NotSupportedException | 指定的空间参考系统*options*不支持*destinationDriver*. |
 
 ### 也可以看看
 

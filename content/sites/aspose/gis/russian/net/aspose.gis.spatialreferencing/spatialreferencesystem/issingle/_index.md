@@ -1,14 +1,14 @@
 ---
 title: IsSingle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает является ли этот SRS одиночным не объединением двух SRS.
+description: Возвращает является ли эта SRS одиночной не объединением двух SRS.
 type: docs
 weight: 140
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/issingle/
 ---
 ## SpatialReferenceSystem.IsSingle property
 
-Возвращает, является ли этот SRS одиночным (не объединением двух SRS).
+Возвращает, является ли эта SRS одиночной (не объединением двух SRS).
 
 ```csharp
 public bool IsSingle { get; }

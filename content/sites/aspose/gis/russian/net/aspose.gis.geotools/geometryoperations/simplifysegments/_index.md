@@ -17,7 +17,7 @@ public static IGeometry SimplifySegments(IGeometry geometry, SimplifySegmentsOpt
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | geometry | IGeometry | Геометрия для удаления лишней точки |
-| options | SimplifySegmentsOptions | Опции для удаление лишней точки |
+| options | SimplifySegmentsOptions | Варианты удаления лишней точки |
 
 ### Возвращаемое значение
 

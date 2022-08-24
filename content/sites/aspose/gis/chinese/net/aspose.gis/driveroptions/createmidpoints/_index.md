@@ -1,14 +1,14 @@
 ---
 title: CreateMidpoints
 second_title: Aspose.GIS for .NET API 参考
-description: 确定是否在每个几何段的中间添加一个新点默认为false
+description: 确定是否在每个几何段的中间添加一个新点默认为false.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/driveroptions/createmidpoints/
 ---
 ## DriverOptions.CreateMidpoints property
 
-确定是否在每个几何段的中间添加一个新点。默认为`false`。
+确定是否在每个几何段的中间添加一个新点。默认为`false`.
 
 ```csharp
 public bool CreateMidpoints { get; set; }

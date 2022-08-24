@@ -1,14 +1,14 @@
 ---
 title: SimpleMarker
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化SimpleMarkeraspose.gis.rendering.symbolizers/simplemarker类的新实例
+description: 初始化SimpleMarkeraspose.gis.rendering.symbolizers/simplemarker类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/simplemarker/
 ---
 ## SimpleMarker() {#constructor}
 
-初始化[`SimpleMarker`](../../simplemarker)类的新实例。
+初始化[`SimpleMarker`](../../simplemarker)类.
 
 ```csharp
 public SimpleMarker()
@@ -24,7 +24,7 @@ public SimpleMarker()
 
 ## SimpleMarker(SimpleMarker) {#constructor_1}
 
-初始化[`SimpleMarker`](../../simplemarker)类的新实例。
+初始化[`SimpleMarker`](../../simplemarker)类.
 
 ```csharp
 public SimpleMarker(SimpleMarker other)
@@ -32,13 +32,13 @@ public SimpleMarker(SimpleMarker other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleMarker | 另一个[`SimpleMarker`](../../simplemarker)复制数据. |
+| other | SimpleMarker | 另一个[`SimpleMarker`](../../simplemarker)从中复制数据。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

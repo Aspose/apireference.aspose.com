@@ -1,14 +1,14 @@
 ---
 title: Reverse
 second_title: Справочник по Aspose.GIS for .NET API
-description: Обратный порядок точек в этомLineStringaspose.gis.geometries/linestring.
+description: Обратный порядок точек в этомLineStringaspose.gis.geometries/linestring .
 type: docs
 weight: 160
 url: /ru/net/aspose.gis.geometries/linestring/reverse/
 ---
 ## LineString.Reverse method
 
-Обратный порядок точек в этом[`LineString`](../../linestring).
+Обратный порядок точек в этом[`LineString`](../../linestring) .
 
 ```csharp
 public override void Reverse()

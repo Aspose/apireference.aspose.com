@@ -1,14 +1,14 @@
 ---
 title: Touches
 second_title: Aspose.GIS for .NET API 参考
-description: 确定此几何体是否与指定的几何体接触
+description: 确定此几何图形和指定几何图形是否接触
 type: docs
 weight: 420
 url: /zh/net/aspose.gis.geometries/geometry/touches/
 ---
 ## Geometry.Touches method
 
-确定此几何体是否与指定的几何体接触。
+确定此几何图形和指定几何图形是否接触。
 
 ```csharp
 public bool Touches(IGeometry other)
@@ -20,19 +20,19 @@ public bool Touches(IGeometry other)
 
 ### 返回值
 
-`true`如果这个几何体“空间接触”另一个几何体。`false`否则。
+`true`如果这个几何“空间接触”另一个几何。`false`否则。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 评论
 
-此方法根据 DE-9IM 相交矩阵测试几何是否相互接触。 如果两个几何图形至少有一个共同的边界点，但没有内部点，则它们会相互接触。 即:两个[`LineString`](../../linestring)如果共享一个端点，但不共享一个段，则相互接触， 两个多边形如果共享部分外环或内环，则它们相互接触，但它们的内部不重叠。&lt;cr /&gt; 该方法等价于: 有关 DE-9IM 和“空间接触”关系的更多详细信息，请参阅 OpenGIS 简单功能规范。
+该方法根据DE-9IM相交矩阵测试几何是否相互接触。 如果两个几何至少有一个共同的边界点，但没有内部点，则它们相互接触。 即：两个[`LineString`](../../linestring)如果它们共享一个端点但不共享一个线段，则它们相互接触， 两个多边形如果它们共享外环或内环的一部分，但它们的内部不重叠，则它们相互接触。 这个方法等价于： 有关 DE-9IM 和“空间接触”关系的更多详细信息，请参阅 OpenGIS 简单功能规范。
 
 ```csharp
 this.Relate(other, "FT*******") || this.Relate(other, "F**T*****") || this.Relate(other, "F***T****");

@@ -1,14 +1,14 @@
 ---
 title: GetValuesDump
 second_title: Aspose.GIS for .NET API 参考
-description: 将指定块中的值作为一维数组读取
+description: 将指定块中的值读取为一维数组
 type: docs
 weight: 180
 url: /zh/net/aspose.gis.raster/rasterlayer/getvaluesdump/
 ---
 ## RasterLayer.GetValuesDump method
 
-将指定块中的值作为一维数组读取。
+将指定块中的值读取为一维数组。
 
 ```csharp
 public IRasterValues[] GetValuesDump(RasterRect rect)
@@ -20,7 +20,7 @@ public IRasterValues[] GetValuesDump(RasterRect rect)
 
 ### 返回值
 
-值的转储。
+价值转储。
 
 ### 也可以看看
 

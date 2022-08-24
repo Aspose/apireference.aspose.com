@@ -1,7 +1,7 @@
 ---
 title: XyzTilesDriver
 second_title: Справочник по Aspose.GIS for .NET API
-description: Драйвер для мозаичных веб-карт XYZ.
+description: Драйвер для мозаичных вебкарт XYZ.
 type: docs
 weight: 680
 url: /ru/net/aspose.gis.formats.xyztile/xyztilesdriver/
@@ -24,7 +24,7 @@ public class XyzTilesDriver : Driver
 
 | Имя | Описание |
 | --- | --- |
-| [OpenLayer](../../aspose.gis.formats.xyztile/xyztilesdriver/openlayer)(XyzConnection) | Открывает набор тайлов. |
+| [OpenLayer](../../aspose.gis.formats.xyztile/xyztilesdriver/openlayer)(XyzConnection) | Открывает набор плиток. |
 
 ### Смотрите также
 

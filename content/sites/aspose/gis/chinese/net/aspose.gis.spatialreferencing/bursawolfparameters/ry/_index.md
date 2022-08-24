@@ -1,14 +1,14 @@
 ---
 title: Ry
 second_title: Aspose.GIS for .NET API 参考
-description: Ry 以秒为单位
+description: 在几秒钟内完成
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.spatialreferencing/bursawolfparameters/ry/
 ---
 ## BursaWolfParameters.Ry property
 
-Ry 以秒为单位。
+在几秒钟内完成。
 
 ```csharp
 public double Ry { get; }

@@ -1,14 +1,14 @@
 ---
 title: Drivers
 second_title: Справочник по Aspose.GIS for .NET API
-description: Драйвера для всех поддерживаемых форматов.
+description: Драйверы для всех поддерживаемых форматов.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis/drivers/
 ---
 ## Drivers class
 
-Драйвера для всех поддерживаемых форматов.
+Драйверы для всех поддерживаемых форматов.
 
 ```csharp
 public static class Drivers
@@ -27,13 +27,13 @@ public static class Drivers
 | static [Gpx](../../aspose.gis/drivers/gpx) { get; } | Драйвер для формата GPX. |
 | static [Kml](../../aspose.gis/drivers/kml) { get; } | Драйвер для формата KML. |
 | static [MapInfoInterchange](../../aspose.gis/drivers/mapinfointerchange) { get; } | Драйвер для формата обмена MapInfo. |
-| static [MapInfoTab](../../aspose.gis/drivers/mapinfotab) { get; } | Драйвер для формата вкладок MapInfo. |
+| static [MapInfoTab](../../aspose.gis/drivers/mapinfotab) { get; } | Драйвер для формата вкладки MapInfo. |
 | static [OsmXml](../../aspose.gis/drivers/osmxml) { get; } | Драйвер для формата OSM XML. |
 | static [PostGis](../../aspose.gis/drivers/postgis) { get; } | Драйвер для базы данных PostGIS. |
 | static [Shapefile](../../aspose.gis/drivers/shapefile) { get; } | Драйвер для формата Shapefile. |
 | static [SqlServer](../../aspose.gis/drivers/sqlserver) { get; } | Драйвер для базы данных SQL Server. |
 | static [TopoJson](../../aspose.gis/drivers/topojson) { get; } | Драйвер для формата TopoJSON. |
-| static [XyzTiles](../../aspose.gis/drivers/xyztiles) { get; } | Драйвер для мозаичной веб-карты, такой как OpenStreetMaps, Google Maps и т. д. |
+| static [XyzTiles](../../aspose.gis/drivers/xyztiles) { get; } | Драйвер для тайловой веб-карты, такой как OpenStreetMaps, Google Maps и т. д. |
 
 ### Смотрите также
 

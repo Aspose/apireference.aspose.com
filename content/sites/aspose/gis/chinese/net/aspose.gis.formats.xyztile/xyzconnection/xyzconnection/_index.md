@@ -1,14 +1,14 @@
 ---
 title: XyzConnection
 second_title: Aspose.GIS for .NET API 参考
-description: 创建XyzConnectionaspose.gis.formats.xyztile/xyzconnection的新实例
+description: 创建一个新的实例XyzConnectionaspose.gis.formats.xyztile/xyzconnection.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.xyztile/xyzconnection/xyzconnection/
 ---
 ## XyzConnection constructor
 
-创建[`XyzConnection`](../../xyzconnection)的新实例。
+创建一个新的实例[`XyzConnection`](../../xyzconnection).
 
 ```csharp
 public XyzConnection(string urlTemplate)

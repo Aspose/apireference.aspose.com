@@ -1,14 +1,14 @@
 ---
 title: FeatureAttribute
 second_title: Aspose.GIS for .NET API 参考
-description: Feature./feature的属性
+description: 一个属性Feature./feature.
 type: docs
 weight: 130
 url: /zh/net/aspose.gis/featureattribute/
 ---
 ## FeatureAttribute class
 
-[`Feature`](../feature)的属性。
+一个属性[`Feature`](../feature).
 
 ```csharp
 public class FeatureAttribute
@@ -18,8 +18,8 @@ public class FeatureAttribute
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FeatureAttribute](featureattribute#constructor)(string, AttributeDataType) | 初始化[`FeatureAttribute`](../featureattribute)类的新实例。 |
-| [FeatureAttribute](featureattribute#constructor_1)(string, AttributeDataType, bool) | 初始化[`FeatureAttribute`](../featureattribute)类的新实例。 |
+| [FeatureAttribute](featureattribute#constructor)(string, AttributeDataType) | 初始化[`FeatureAttribute`](../featureattribute)类. |
+| [FeatureAttribute](featureattribute#constructor_1)(string, AttributeDataType, bool) | 初始化[`FeatureAttribute`](../featureattribute)类. |
 
 ## 特性
 
@@ -33,14 +33,14 @@ public class FeatureAttribute
 | [IsLocked](../../aspose.gis/featureattribute/islocked) { get; } | 获取一个值，该值指示该属性是否被锁定。 |
 | [Name](../../aspose.gis/featureattribute/name) { get; set; } | 获取属性的名称。 |
 | [Precision](../../aspose.gis/featureattribute/precision) { get; set; } | 获取或设置要存储的最大十进制位数。 |
-| [Width](../../aspose.gis/featureattribute/width) { get; set; } | 获取或设置属性字符表示的最大允许宽度。 |
+| [Width](../../aspose.gis/featureattribute/width) { get; set; } | 获取或设置属性的字符表示的最大允许宽度。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Lock](../../aspose.gis/featureattribute/lock)() | 锁定此属性。 |
-| override [ToString](../../aspose.gis/featureattribute/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../aspose.gis/featureattribute/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

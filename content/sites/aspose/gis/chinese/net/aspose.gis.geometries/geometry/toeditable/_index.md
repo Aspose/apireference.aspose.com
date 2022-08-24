@@ -37,7 +37,7 @@ public T ToEditable<T>()
 
 | 范围 | 描述 |
 | --- | --- |
-| T | 要获取的几何图形的类型。必须是Geometry类的继承者。 |
+| T | 要获取的几何图形的类型。必须是继承人[`Geometry`](../../geometry)类. |
 
 ### 返回值
 
@@ -47,7 +47,7 @@ public T ToEditable<T>()
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidCastException | 无法将此几何的可编辑副本转换为类型 &lt;typeparamref name ="T" /&gt;。 |
+| InvalidCastException | 无法将此几何图形的可编辑副本转换为类型*T*. |
 
 ### 也可以看看
 

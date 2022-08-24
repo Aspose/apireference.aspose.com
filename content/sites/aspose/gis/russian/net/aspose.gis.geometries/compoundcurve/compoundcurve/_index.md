@@ -1,14 +1,14 @@
 ---
 title: CompoundCurve
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаCompoundCurveaspose.gis.geometries/compoundcurve.
+description: Инициализирует новый экземплярCompoundCurveaspose.gis.geometries/compoundcurve класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/compoundcurve/compoundcurve/
 ---
 ## CompoundCurve() {#constructor}
 
-Инициализирует новый экземпляр класса[`CompoundCurve`](../../compoundcurve).
+Инициализирует новый экземпляр[`CompoundCurve`](../../compoundcurve) класс.
 
 ```csharp
 public CompoundCurve()
@@ -24,7 +24,7 @@ public CompoundCurve()
 
 ## CompoundCurve(IEnumerable&lt;ICurve&gt;) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`CompoundCurve`](../../compoundcurve).
+Инициализирует новый экземпляр[`CompoundCurve`](../../compoundcurve) класс.
 
 ```csharp
 public CompoundCurve(IEnumerable<ICurve> curves)
@@ -38,7 +38,7 @@ public CompoundCurve(IEnumerable<ICurve> curves)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент или любой из его элементов:`null`. |
+| ArgumentNullException | Аргумент или любой из его элементов`null`. |
 | ArgumentException | Существуют как минимум две ненулевые системы пространственной привязки, которые не равны друг другу. |
 
 ### Смотрите также
@@ -52,7 +52,7 @@ public CompoundCurve(IEnumerable<ICurve> curves)
 
 ## CompoundCurve(ICompoundCurve) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`CompoundCurve`](../../compoundcurve).
+Инициализирует новый экземпляр[`CompoundCurve`](../../compoundcurve) класс.
 
 ```csharp
 public CompoundCurve(ICompoundCurve other)
@@ -66,7 +66,7 @@ public CompoundCurve(ICompoundCurve other)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

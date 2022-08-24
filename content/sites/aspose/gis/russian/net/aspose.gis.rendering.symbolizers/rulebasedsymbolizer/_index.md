@@ -1,14 +1,14 @@
 ---
 title: RuleBasedSymbolizer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Применяет символизатор к геометрическим элементам в соответствии с определенными пользователем правилами.
+description: Применяет символизатор к геометрии объектов в соответствии с определенными пользователем правилами.
 type: docs
-weight: 1820
+weight: 1830
 url: /ru/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
 ---
 ## RuleBasedSymbolizer class
 
-Применяет символизатор к геометрическим элементам в соответствии с определенными пользователем правилами.
+Применяет символизатор к геометрии объектов в соответствии с определенными пользователем правилами.
 
 ```csharp
 public class RuleBasedSymbolizer : VectorSymbolizer, IReadOnlyList<Rule>
@@ -32,9 +32,9 @@ public class RuleBasedSymbolizer : VectorSymbolizer, IReadOnlyList<Rule>
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add#add)(Rule) | Добавляет правило. |
-| [Add](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add#add_1)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | Добавляет новый[`Rule`](../rule). |
+| [Add](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add#add_1)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | Добавляет новый[`Rule`](../rule) . |
 | [AddElseRule](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/addelserule)(VectorSymbolizer) | Добавляет символизатор, который будет применяться к объектам, которые не соответствуют ни одному правилу фильтрации. |
-| [GetEnumerator](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/getenumerator)() | Возвращает перечислитель, перебирающий правила. |
+| [GetEnumerator](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/getenumerator)() | Возвращает перечислитель, который перебирает правила. |
 
 ### Смотрите также
 

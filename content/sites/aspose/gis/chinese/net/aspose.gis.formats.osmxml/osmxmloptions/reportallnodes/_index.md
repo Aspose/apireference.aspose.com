@@ -1,14 +1,14 @@
 ---
 title: ReportAllNodes
 second_title: Aspose.GIS for .NET API 参考
-description: 将所有节点报告为特征即使它们没有任何重要标签
+description: 将所有节点报告为特征即使它们没有任何重要的标签
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.osmxml/osmxmloptions/reportallnodes/
 ---
 ## OsmXmlOptions.ReportAllNodes property
 
-将所有节点报告为特征，即使它们没有任何重要标签。
+将所有节点报告为特征，即使它们没有任何重要的标签。
 
 ```csharp
 public bool ReportAllNodes { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: IsCompound
 second_title: Aspose.GIS for .NET API 参考
-description: 返回true
+description: 返回true.
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/iscompound/
 ---
 ## CompoundSpatialReferenceSystem.IsCompound property
 
-返回`true`。
+返回`true`.
 
 ```csharp
 public override bool IsCompound { get; }

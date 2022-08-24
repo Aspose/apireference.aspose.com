@@ -1,14 +1,14 @@
 ---
 title: Instance
 second_title: Aspose.GIS for .NET API 参考
-description: 获取 NullSymbolizer 的实例
+description: 获取一个实例空符号器.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance/
 ---
 ## NullVectorSymbolizer.Instance property
 
-获取` NullSymbolizer` 的实例。
+获取一个实例`空符号器`.
 
 ```csharp
 public static NullVectorSymbolizer Instance { get; }

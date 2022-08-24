@@ -1,14 +1,14 @@
 ---
 title: Labeling
 second_title: Aspose.GIS for .NET API 参考
-description: 指定地图层的扭曲选项
+description: 指定地图图层的扭曲选项
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering/vectormaplayer/labeling/
 ---
 ## VectorMapLayer.Labeling property
 
-指定地图层的扭曲选项。
+指定地图图层的扭曲选项。
 
 ```csharp
 public Labeling Labeling { get; set; }

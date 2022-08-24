@@ -3,7 +3,7 @@ title: AxisDirection
 second_title: Aspose.GIS for .NET API 参考
 description: 轴方向定义轴指向的方向
 type: docs
-weight: 1930
+weight: 1940
 url: /zh/net/aspose.gis.spatialreferencing/axisdirection/
 ---
 ## AxisDirection enumeration
@@ -19,9 +19,9 @@ public enum AxisDirection
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Invalid | `0` | 默认值。 |
-| North | `1` | 指向北方的轴。 |
-| South | `2` | 指向南方的轴。 |
-| East | `3` | 指向东方的轴。 |
+| North | `1` | 轴指向北方。 |
+| South | `2` | 轴指向南方。 |
+| East | `3` | 轴指向东方。 |
 | West | `4` | 轴指向西。 |
 | Up | `5` | 轴向上。 |
 | Down | `6` | 轴指向下方。 |

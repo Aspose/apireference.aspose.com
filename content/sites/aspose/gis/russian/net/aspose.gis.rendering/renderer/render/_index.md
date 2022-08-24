@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Справочник по Aspose.GIS for .NET API
-description: Отображает карту.
+description: Визуализирует карту.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering/renderer/render/
 ---
 ## Render(Map, string) {#render_1}
 
-Отображает карту.
+Визуализирует карту.
 
 ```csharp
 public void Render(Map map, string outputPath)
@@ -23,8 +23,8 @@ public void Render(Map map, string outputPath)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Любой аргумент равен`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Любой аргумент`null`. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -37,7 +37,7 @@ public void Render(Map map, string outputPath)
 
 ## Render(Map, AbstractPath) {#render}
 
-Отображает карту.
+Визуализирует карту.
 
 ```csharp
 public void Render(Map map, AbstractPath outputPath)
@@ -52,8 +52,8 @@ public void Render(Map map, AbstractPath outputPath)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Любой аргумент равен`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Любой аргумент`null`. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 

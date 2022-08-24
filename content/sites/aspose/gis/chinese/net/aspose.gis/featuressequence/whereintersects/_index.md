@@ -1,14 +1,14 @@
 ---
 title: WhereIntersects
 second_title: Aspose.GIS for .NET API 参考
-description: 根据其他特征序列中所有几何图形的联合过滤特征
+description: 根据其他特征序列中所有几何的联合过滤特征
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/featuressequence/whereintersects/
 ---
 ## WhereIntersects(FeaturesSequence) {#whereintersects_1}
 
-根据其他特征序列中所有几何图形的联合过滤特征。
+根据其他特征序列中所有几何的联合过滤特征。
 
 ```csharp
 public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
@@ -20,7 +20,7 @@ public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
 
 ### 返回值
 
-与其他特征序列中所有几何图形的并集相交的特征。
+与其他特征序列中所有几何的并集相交的特征。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
 
 ## WhereIntersects(IGeometry) {#whereintersects_2}
 
-根据提供的几何体过滤特征。
+根据提供的几何过滤特征。
 
 ```csharp
 public virtual FeaturesSequence WhereIntersects(IGeometry geometry)

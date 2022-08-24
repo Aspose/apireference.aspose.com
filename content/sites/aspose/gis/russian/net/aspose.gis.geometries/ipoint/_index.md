@@ -3,7 +3,7 @@ title: IPoint
 second_title: Справочник по Aspose.GIS for .NET API
 description: Одно место в координатном пространстве.
 type: docs
-weight: 980
+weight: 990
 url: /ru/net/aspose.gis.geometries/ipoint/
 ---
 ## IPoint interface

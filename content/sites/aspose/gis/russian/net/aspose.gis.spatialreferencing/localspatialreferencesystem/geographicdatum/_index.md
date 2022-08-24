@@ -1,14 +1,14 @@
 ---
 title: GeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: ВыдаетInvalidOperationException так как Local SRS не имеет географических данных.
+description: ВыбрасываетInvalidOperationException так как Local SRS не имеет географических данных.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/localspatialreferencesystem/geographicdatum/
 ---
 ## LocalSpatialReferenceSystem.GeographicDatum property
 
-ВыдаетInvalidOperationException, так как Local SRS не имеет географических данных.
+ВыбрасываетInvalidOperationException так как Local SRS не имеет географических данных.
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }

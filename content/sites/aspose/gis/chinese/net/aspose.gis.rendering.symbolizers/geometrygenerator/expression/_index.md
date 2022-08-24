@@ -1,14 +1,14 @@
 ---
 title: Expression
 second_title: Aspose.GIS for .NET API 参考
-description: 提供一种将要素几何替换为为符号器修改的几何的方法 默认为null按原样使用要素几何
+description: 提供一种将要素几何替换为为符号器修改的几何图形的方法 默认为null按原样使用要素几何.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering.symbolizers/geometrygenerator/expression/
 ---
 ## GeometryGenerator.Expression property
 
-提供一种将要素几何替换为为符号器修改的几何的方法。 默认为`null`（按原样使用要素几何）。
+提供一种将要素几何替换为为符号器修改的几何图形的方法。 默认为`null`（按原样使用要素几何）.
 
 ```csharp
 public Func<Feature, IGeometry> Expression { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: HasGeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Составные SRS имеют географическую датум если любая из лежащих в основе SRS имеет географическую датум.
+description: Составные SRS имеют географическую датум если какаялибо из базовых SRS имеет географическую датум.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/hasgeographicdatum/
 ---
 ## CompoundSpatialReferenceSystem.HasGeographicDatum property
 
-Составные SRS имеют географическую датум, если любая из лежащих в основе SRS имеет географическую датум.
+Составные SRS имеют географическую датум, если какая-либо из базовых SRS имеет географическую датум.
 
 ```csharp
 public override bool HasGeographicDatum { get; }

@@ -1,14 +1,14 @@
 ---
 title: SetEmpty
 second_title: Aspose.GIS for .NET API 参考
-description: 使Geometryaspose.gis.geometries/geometry为空
+description: 做这个Geometryaspose.gis.geometries/geometry空的.
 type: docs
 weight: 200
 url: /zh/net/aspose.gis.geometries/geometrycollection/setempty/
 ---
 ## GeometryCollection.SetEmpty method
 
-使[`Geometry`](../../geometry)为空。
+做这个[`Geometry`](../../geometry)空的.
 
 ```csharp
 public override void SetEmpty()

@@ -1,14 +1,14 @@
 ---
 title: CopyAttributes
 second_title: Aspose.GIS for .NET API 参考
-description: 复制其他VectorLayeraspose.gis/vectorlayer的属性到这个
+description: 复制其他属性VectorLayeraspose.gis/vectorlayer到这个.
 type: docs
 weight: 100
 url: /zh/net/aspose.gis/vectorlayer/copyattributes/
 ---
 ## CopyAttributes(FeaturesSequence) {#copyattributes}
 
-复制其他[`VectorLayer`](../../vectorlayer)的属性到这个。
+复制其他属性[`VectorLayer`](../../vectorlayer)到这个.
 
 ```csharp
 public void CopyAttributes(FeaturesSequence featuresSequence)
@@ -22,7 +22,7 @@ public void CopyAttributes(FeaturesSequence featuresSequence)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 输入层是`null`。 |
+| ArgumentNullException | 输入层是`null`. |
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public void CopyAttributes(FeaturesSequence featuresSequence)
 
 ## CopyAttributes(FeaturesSequence, IAttributesConverter) {#copyattributes_1}
 
-复制其他[`VectorLayer`](../../vectorlayer)的属性到这个。
+复制其他属性[`VectorLayer`](../../vectorlayer)到这个.
 
 ```csharp
 public void CopyAttributes(FeaturesSequence featuresSequence, IAttributesConverter converter)
@@ -44,13 +44,13 @@ public void CopyAttributes(FeaturesSequence featuresSequence, IAttributesConvert
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | 要从中复制属性的特征序列。 |
-| converter | IAttributesConverter | 自定义[`IAttributesConverter`](../../iattributesconverter)的实例，它将逐个处理属性。 |
+| converter | IAttributesConverter | 自定义实例[`IAttributesConverter`](../../iattributesconverter)这将一一处理属性。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 输入层是`null`。 |
+| ArgumentNullException | 输入层是`null`. |
 
 ### 也可以看看
 

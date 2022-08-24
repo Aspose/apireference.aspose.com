@@ -3,7 +3,7 @@ title: IRasterCellSize
 second_title: Справочник по Aspose.GIS for .NET API
 description: Описывает размер масштаб и поворот растровой ячейки на карте.
 type: docs
-weight: 1230
+weight: 1240
 url: /ru/net/aspose.gis.raster/irastercellsize/
 ---
 ## IRasterCellSize interface
@@ -19,9 +19,9 @@ public interface IRasterCellSize
 | Имя | Описание |
 | --- | --- |
 | [Height](../../aspose.gis.raster/irastercellsize/height) { get; } | Получает высоту ячейки или пикселя, всегда положительную. |
-| [ScaleX](../../aspose.gis.raster/irastercellsize/scalex) { get; } | Получает x-компонент ячейки или ширину в пикселях (x-масштаб). |
-| [ScaleY](../../aspose.gis.raster/irastercellsize/scaley) { get; } | Получает y-компонент высоты ячейки или пикселя (y-масштаб), обычно отрицательный. |
-| [SkewX](../../aspose.gis.raster/irastercellsize/skewx) { get; } | Получает x-компонент ячейки или высоту пикселя (x-skew). |
+| [ScaleX](../../aspose.gis.raster/irastercellsize/scalex) { get; } | Получает x-компонент ширины ячейки или пикселя (x-масштаб). |
+| [ScaleY](../../aspose.gis.raster/irastercellsize/scaley) { get; } | Получает y-компонент ячейки или высоту пикселя (y-масштаб), обычно отрицательный. |
+| [SkewX](../../aspose.gis.raster/irastercellsize/skewx) { get; } | Получает x-компонент ячейки или высоту в пикселях (x-skew). |
 | [SkewY](../../aspose.gis.raster/irastercellsize/skewy) { get; } | Получает y-компонент ширины ячейки или пикселя (y-перекос). |
 | [Width](../../aspose.gis.raster/irastercellsize/width) { get; } | Получает ширину ячейки или пикселя, всегда положительную. |
 

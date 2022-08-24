@@ -16,12 +16,12 @@ public static IEnumerable<ILineString> ProduceLines(Extent rect, LineGeneratorOp
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Extent | 指定区域（见[`Extent`](../../../aspose.gis/extent) ) |
-| options | LineGeneratorOptions | 线创建选项（参见[`LineGeneratorOptions`](../../linegeneratoroptions) ) |
+| rect | Extent | 指定区域（见[`程度`](../../../aspose.gis/extent)) |
+| options | LineGeneratorOptions | 线创建选项（请参阅[`LineGeneratorOptions`](../../linegeneratoroptions)) |
 
 ### 返回值
 
-行数组（参见枚举[`ILineString`](../../../aspose.gis.geometries/ilinestring) )
+行数组（见枚举[`线串`](../../../aspose.gis.geometries/ilinestring))
 
 ### 例外
 

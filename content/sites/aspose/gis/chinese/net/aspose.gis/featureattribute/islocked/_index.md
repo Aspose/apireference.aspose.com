@@ -16,7 +16,7 @@ public bool IsLocked { get; }
 
 ### 适当的价值
 
-`true`如果该属性被锁定；否则，`false`。
+`true`如果该属性被锁定；否则，`false`.
 
 ### 也可以看看
 

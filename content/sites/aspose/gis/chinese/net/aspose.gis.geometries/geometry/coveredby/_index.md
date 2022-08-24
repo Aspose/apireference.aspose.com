@@ -20,19 +20,19 @@ public bool CoveredBy(IGeometry other)
 
 ### 返回值
 
-`true`如果这个几何体被另一个几何体“空间覆盖”。`false`否则。
+`true`如果这个几何图形被另一个几何图形“空间覆盖”。`false`否则。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 评论
 
-此方法根据 DE-9IM 相交矩阵测试一个几何体是否被另一个几何体覆盖。&lt; cr /&gt; 这个方法等价于:
+此方法根据 DE-9IM 交集矩阵测试一个几何是否被另一个几何覆盖。 这个方法等价于：
 
 ```csharp
 other.Covers(this);
@@ -40,6 +40,7 @@ other.Covers(this);
 
 ### 也可以看看
 
+* method [SpatiallyContains](../../igeometry/spatiallycontains)
 * method [Covers](../../igeometry/covers)
 * interface [IGeometry](../../igeometry)
 * class [Geometry](../../geometry)

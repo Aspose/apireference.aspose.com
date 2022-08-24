@@ -1,14 +1,14 @@
 ---
 title: CreateLocal
 second_title: Aspose.GIS for .NET API 参考
-description: 创建本地 SRS
+description: 创建本地 SRS.
 type: docs
 weight: 370
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/createlocal/
 ---
 ## SpatialReferenceSystem.CreateLocal method
 
-创建本地 SRS。
+创建本地 SRS.
 
 ```csharp
 public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum datum, Unit unit, 
@@ -31,8 +31,8 @@ public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum da
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | *axises*为空。 |
-| ArgumentNullException | 任何参数，除了*identifier*为空。 |
+| InvalidOperationException | *axises*是空的。 |
+| ArgumentNullException | 任何参数，除了*identifier*一片空白。 |
 
 ### 也可以看看
 

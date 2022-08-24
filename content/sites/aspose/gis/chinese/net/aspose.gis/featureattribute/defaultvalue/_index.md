@@ -19,11 +19,11 @@ public object DefaultValue { get; set; }
 | 例外 | （健康）状况 |
 | --- | --- |
 | InvalidOperationException | 属性被锁定。 |
-| InvalidOperationException | 该属性不允许` null` 值。 |
+| InvalidOperationException | 该属性不允许`无效的`价值观。 |
 
 ### 评论
 
-当属性不允许` null` 值。 对于允许` null` 值的属性（[`CanBeNull`](../canbenull)==` true` ),`DefaultValue`is` null` 除非明确更改。
+这是表示缺失信息的值，当属性不允许`无效的`value. 对于允许的属性`无效的`值（[`CanBeNull`](../canbenull) ==`真的`),`DefaultValue`是`无效的`除非明确更改。
 
 ### 也可以看看
 

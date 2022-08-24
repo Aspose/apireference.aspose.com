@@ -1,14 +1,14 @@
 ---
 title: HorizontalOffset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает горизонтальное смещение от точки до визуализируемой формы.
+description: Определяет горизонтальное смещение от местоположения точки до визуализируемой формы.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.rendering.symbolizers/simplefill/horizontaloffset/
 ---
 ## SimpleFill.HorizontalOffset property
 
-Задает горизонтальное смещение от точки до визуализируемой формы.
+Определяет горизонтальное смещение от местоположения точки до визуализируемой формы.
 
 ```csharp
 public Measurement HorizontalOffset { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: AsInteger
 second_title: Справочник по Aspose.GIS for .NET API
-description: Преобразует указанные данные диапазона в значениеint.
+description: Преобразует данные указанного диапазона вint значение.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.raster/irastervalues/asinteger/
 ---
 ## IRasterValues.AsInteger method
 
-Преобразует указанные данные диапазона в значение`int`.
+Преобразует данные указанного диапазона в`int` значение.
 
 ```csharp
 public int AsInteger(int bandIndex = 0)
@@ -16,7 +16,7 @@ public int AsInteger(int bandIndex = 0)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bandIndex | Int32 | Индекс полосы. Нумерация начинается с 0. |
+| bandIndex | Int32 | Индекс группы. Нумерация начинается с 0. |
 
 ### Возвращаемое значение
 

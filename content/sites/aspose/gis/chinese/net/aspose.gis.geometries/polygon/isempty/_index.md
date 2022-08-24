@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Aspose.GIS for .NET API 参考
-description: 获取一个值该值指示此实例是否为空
+description: 获取一个指示此实例是否为空的值
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geometries/polygon/isempty/
 ---
 ## Polygon.IsEmpty property
 
-获取一个值，该值指示此实例是否为空。
+获取一个指示此实例是否为空的值。
 
 ```csharp
 public override bool IsEmpty { get; }
@@ -16,7 +16,7 @@ public override bool IsEmpty { get; }
 
 ### 适当的价值
 
-`true`如果此实例为空；否则，`false`。
+`true`如果此实例为空；否则，`false`.
 
 ### 也可以看看
 

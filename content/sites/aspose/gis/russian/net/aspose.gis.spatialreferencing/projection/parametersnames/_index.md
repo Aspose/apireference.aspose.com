@@ -1,14 +1,14 @@
 ---
 title: ParametersNames
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает перечисляемый набор имен параметров заданных этой проекции
+description: Получает перечисляемый набор имен параметров заданных для этой проекции
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/projection/parametersnames/
 ---
 ## Projection.ParametersNames property
 
-Получает перечисляемый набор имен параметров, заданных этой проекции
+Получает перечисляемый набор имен параметров, заданных для этой проекции
 
 ```csharp
 public IList<string> ParametersNames { get; }

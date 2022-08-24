@@ -3,7 +3,7 @@ title: IAttributesConverter
 second_title: Aspose.GIS for .NET API 参考
 description: 图层属性的自定义转换器
 type: docs
-weight: 1140
+weight: 1150
 url: /zh/net/aspose.gis/iattributesconverter/
 ---
 ## IAttributesConverter interface
@@ -18,7 +18,7 @@ public interface IAttributesConverter
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute)(FeatureAttribute, AttributesConverterActions) | 根据目标图层的需要调整[`FeatureAttribute`](../featureattribute)。 |
+| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute)(FeatureAttribute, AttributesConverterActions) | 调整一个[`FeatureAttribute`](../featureattribute)根据目标层的需要。 |
 
 ### 也可以看看
 

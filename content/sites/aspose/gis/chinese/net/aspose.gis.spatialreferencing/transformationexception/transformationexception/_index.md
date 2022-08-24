@@ -32,7 +32,7 @@ public TransformationException(string message)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 错误消息。 |
+| message | String | 错误信息。 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public TransformationException(string message, Exception inner)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 错误消息。 |
+| message | String | 错误信息。 |
 | inner | Exception | 内部异常 |
 
 ### 也可以看看

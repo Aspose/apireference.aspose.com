@@ -1,14 +1,14 @@
 ---
 title: RasterMapLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Слой внутриMap./mapкоторый представляет данные растрового слоя.
+description: Слой внутриMap./map который представляет данные растрового слоя.
 type: docs
-weight: 1640
+weight: 1650
 url: /ru/net/aspose.gis.rendering/rastermaplayer/
 ---
 ## RasterMapLayer class
 
-Слой внутри[`Map`](../map)который представляет данные растрового слоя.
+Слой внутри[`Map`](../map) который представляет данные растрового слоя.
 
 ```csharp
 public class RasterMapLayer : MapLayer
@@ -24,7 +24,7 @@ public class RasterMapLayer : MapLayer
 
 | Имя | Описание |
 | --- | --- |
-| [Colorizer](../../aspose.gis.rendering/rastermaplayer/colorizer) { get; set; } | Колоризатор, используемый для рендеринга ячеек растра. |
+| [Colorizer](../../aspose.gis.rendering/rastermaplayer/colorizer) { get; set; } | Colorizer для рендеринга ячеек растра. |
 | [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | Непрозрачность слоя. |
 | [Resampling](../../aspose.gis.rendering/rastermaplayer/resampling) { get; set; } | Задает параметры деформации слоя на карте. |
 
@@ -32,7 +32,7 @@ public class RasterMapLayer : MapLayer
 
 | Имя | Описание |
 | --- | --- |
-| override [Dispose](../../aspose.gis.rendering/rastermaplayer/dispose)() | Удаляет ресурсы. |
+| override [Dispose](../../aspose.gis.rendering/rastermaplayer/dispose)() | Распоряжается ресурсами. |
 
 ### Смотрите также
 

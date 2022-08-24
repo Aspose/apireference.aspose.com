@@ -1,14 +1,14 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters
 second_title: Aspose.GIS for .NET API 参考
-description: 创建地心 SRS 的参数 参数具有合理的默认值因此您只需分配其中的一些 如果将null分配给任何参数将使用默认值
+description: 创建地心 SRS 的参数 参数具有合理的默认值因此您只需分配其中的一些 如果您分配null对于任何参数将使用默认值
 type: docs
-weight: 1990
+weight: 2000
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/
 ---
 ## GeocentricSpatialReferenceSystemParameters class
 
-创建地心 SRS 的参数。 参数具有合理的默认值，因此您只需分配其中的一些。 如果将`null`分配给任何参数，将使用默认值。
+创建地心 SRS 的参数。 参数具有合理的默认值，因此您只需分配其中的一些。 如果您分配`null`对于任何参数，将使用默认值。
 
 ```csharp
 public class GeocentricSpatialReferenceSystemParameters
@@ -24,14 +24,14 @@ public class GeocentricSpatialReferenceSystemParameters
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder) { get; set; } | 轴的顺序。默认为XYZ。 |
-| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum) { get; set; } | 地心 SRS 基准面。默认为[`Wgs84`](../geographicdatum/wgs84)。 |
-| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit) { get; set; } | 在此 SRS 中使用的单位。默认为[`Meter`](../unit/meter)。 |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder) { get; set; } | 轴的顺序。默认为XYZ. |
+| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum) { get; set; } | 地心 SRS 基准面。默认为[`Wgs84`](../geographicdatum/wgs84). |
+| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit) { get; set; } | 在此 SRS 中使用的单位。默认为[`Meter`](../unit/meter). |
 | [Name](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name) { get; set; } | 地心 SRS 的名称。默认为“未命名”。 |
-| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian) { get; set; } | 此 SRS 的本初子午线。默认为[`Greenwich`](../primemeridian/greenwich)。 |
+| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian) { get; set; } | 此 SRS 的本初子午线。默认为[`Greenwich`](../primemeridian/greenwich). |
 | [XAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis) { get; set; } | 描述“X”维度的地心 SRS 轴（指向本初子午线的轴）。 |
-| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis) { get; set; } | 描述“Y”维度的地心 SRS 轴（指向赤道平面上 X 轴左侧或右侧的轴）。 默认为带有East方向的轴。 |
-| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis) { get; set; } | 描述“Z”维度的地心 SRS 轴（指向北极或南极的轴）。 默认为带有North方向的轴。 |
+| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis) { get; set; } | 描述“Y”维度的地心 SRS 轴（指向赤道平面上 X 轴左侧或右侧的轴）。 默认为轴East方向. |
+| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis) { get; set; } | 描述“Z”维度的地心 SRS 轴（指向北极或南极的轴）。 默认为轴North方向. |
 
 ### 也可以看看
 

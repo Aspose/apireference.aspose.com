@@ -1,14 +1,14 @@
 ---
 title: HorizontalOffset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет горизонтальное смещение от местоположения точки до точки привязки меток.
+description: Задает горизонтальное смещение от точки до точки привязки метки.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset/
 ---
 ## PointLabelPlacement.HorizontalOffset property
 
-Определяет горизонтальное смещение от местоположения точки до точки привязки меток.
+Задает горизонтальное смещение от точки до точки привязки метки.
 
 ```csharp
 public Measurement HorizontalOffset { get; set; }

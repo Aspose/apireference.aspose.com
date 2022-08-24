@@ -1,14 +1,14 @@
 ---
 title: HasGeographicDatum
 second_title: Aspose.GIS for .NET API 参考
-description: 如果任何基础 SRS 具有地理基准面则复合 SRS 具有地理基准面
+description: 如果任何基础 SRS 具有地理基准则复合 SRS 具有地理基准
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/hasgeographicdatum/
 ---
 ## CompoundSpatialReferenceSystem.HasGeographicDatum property
 
-如果任何基础 SRS 具有地理基准面，则复合 SRS 具有地理基准面。
+如果任何基础 SRS 具有地理基准，则复合 SRS 具有地理基准。
 
 ```csharp
 public override bool HasGeographicDatum { get; }

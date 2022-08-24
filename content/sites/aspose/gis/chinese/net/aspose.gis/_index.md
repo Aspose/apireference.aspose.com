@@ -1,49 +1,49 @@
 ---
 title: Aspose.Gis
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis 命名空间提供用于生成转换和修改 GIS 数据的类
+description: Aspose.Gis命名空间提供用于生成转换和修改 GIS 数据的类
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/
 ---
-` Aspose.Gis` 命名空间提供用于生成、转换和修改 GIS 数据的类。
+`Aspose.Gis`命名空间提供用于生成、转换和修改 GIS 数据的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [AbstractPath](./abstractpath) | 一个 `抽象路径` 是在类似于文件系统的环境中指定唯一位置的类的基类， 例如本地文件系统、远程文件存储或 ZIP 存档等。 |
+| [AbstractPath](./abstractpath) | 一个`抽象路径`是在类似于文件系统的环境中指定唯一位置的类的基类， 如本地文件系统、远程文件存储或 ZIP 存档等。 |
 | [AttributesConverterActions](./attributesconverteractions) | 具有目标层属性的可选操作。 |
-| [ConversionOptions](./conversionoptions) | 用于在格式之间转换数据的选项。 |
+| [ConversionOptions](./conversionoptions) | 在格式之间转换数据的选项。 |
 | [DatabaseDriver](./databasedriver) | 基于特定数据库格式的驱动程序。 |
-| [DatabaseDriverOptions](./databasedriveroptions) | [`DatabaseDriver`](../aspose.gis/databasedriver)的选项。 |
-| [Dataset](./dataset) | 数据集是[`VectorLayer`](../aspose.gis/vectorlayer)实例的集合。 |
+| [DatabaseDriverOptions](./databasedriveroptions) | 选项[`DatabaseDriver`](../aspose.gis/databasedriver). |
+| [Dataset](./dataset) | 数据集是[`VectorLayer`](../aspose.gis/vectorlayer)实例. |
 | [Driver](./driver) | GIS 数据驱动程序的基类。 |
-| [DriverOptions](./driveroptions) | [`Driver`](../aspose.gis/driver)的选项。 |
+| [DriverOptions](./driveroptions) | 选项[`Driver`](../aspose.gis/driver). |
 | [Drivers](./drivers) | 所有支持格式的驱动程序。 |
-| [Extent](./extent) | 二维空间边界框。 |
+| [Extent](./extent) | 一个二维空间边界框。 |
 | [Feature](./feature) | 由几何和用户定义属性组成的地理特征。 |
-| [FeatureAttribute](./featureattribute) | [`Feature`](../aspose.gis/feature)的属性。 |
-| [FeatureAttributeCollection](./featureattributecollection) | A[`FeatureAttributeCollection`](../aspose.gis/featureattributecollection)定义可用于Feature的属性。 |
-| [FeaturesSequence](./featuressequence) | [`FeaturesSequence`](../aspose.gis/featuressequence)表示一组向量特征。 |
+| [FeatureAttribute](./featureattribute) | 一个属性[`Feature`](../aspose.gis/feature). |
+| [FeatureAttributeCollection](./featureattributecollection) | 一个[`FeatureAttributeCollection`](../aspose.gis/featureattributecollection)定义哪些属性可用于[`Feature`](../aspose.gis/feature). |
+| [FeaturesSequence](./featuressequence) | [`FeaturesSequence`](../aspose.gis/featuressequence)表示一组矢量特征。 |
 | [FeatureStyle](./featurestyle) | 特征样式层次结构的抽象根类。 |
 | [FileDriver](./filedriver) | 基于特定文件格式的驱动程序。 |
 | [GeoConvert](./geoconvert) | 在不同格式之间转换坐标。 |
 | [GisException](./gisexception) | GIS数据处理过程中发生错误时抛出的异常。 |
 | [License](./license) | 提供许可组件的方法。 |
 | [Metered](./metered) | 提供设置计量键的方法。 |
-| [NumericFormat](./numericformat) | [`NumericFormat`](../aspose.gis/numericformat)用于格式化文本中的常见数字类型。 |
-| [PrecisionModel](./precisionmodel) | [`PrecisionModel`](../aspose.gis/precisionmodel)指定坐标中有效数字的数量。 |
+| [NumericFormat](./numericformat) | [`NumericFormat`](../aspose.gis/numericformat)用于格式化文本中常见的数字类型。 |
+| [PrecisionModel](./precisionmodel) | [`PrecisionModel`](../aspose.gis/precisionmodel)指定坐标中的有效数字的数量。 |
 | [RasterDriver](./rasterdriver) | 基于特定光栅格式的驱动程序。 |
-| [RasterDriverOptions](./rasterdriveroptions) | [`RasterDriver`](../aspose.gis/rasterdriver)的选项。 |
-| [SavingOptions](./savingoptions) | 将[`FeaturesSequence`](../aspose.gis/featuressequence)保存到文件的选项。 |
+| [RasterDriverOptions](./rasterdriveroptions) | 选项[`RasterDriver`](../aspose.gis/rasterdriver). |
+| [SavingOptions](./savingoptions) | 保存选项[`FeaturesSequence`](../aspose.gis/featuressequence)归档. |
 | [VectorLayer](./vectorlayer) | 表示矢量图层。 矢量图层是地理特征的集合，存储在文件中。 |
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
 | [IAttributesConverter](./iattributesconverter) | 图层属性的自定义转换器。 |
-| [IFeatureStyle](./ifeaturestyle) | 特征样式层次结构的接口根类。 |
+| [IFeatureStyle](./ifeaturestyle) | 要素样式层次结构的接口根类。 |
 ## 枚举
 
 | 枚举 | 描述 |

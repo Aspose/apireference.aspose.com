@@ -20,13 +20,13 @@ public Dataset OpenDataset(string path)
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets)）。 |
@@ -54,13 +54,13 @@ public Dataset OpenDataset(AbstractPath path)
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets)）。 |
@@ -86,18 +86,18 @@ public Dataset OpenDataset(string path, DriverOptions options)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets)）。 |
@@ -123,18 +123,18 @@ public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets)）。 |

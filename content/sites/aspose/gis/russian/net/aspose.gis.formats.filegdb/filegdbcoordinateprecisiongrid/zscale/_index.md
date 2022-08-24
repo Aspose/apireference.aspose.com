@@ -1,14 +1,14 @@
 ---
 title: ZScale
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает масштаб координаты Z. Если установленоnullиспользуется значение по умолчанию.
+description: Получает или задает масштаб координаты Z. Если установленоnull используется значение по умолчанию.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.ZScale property
 
-Получает или задает масштаб координаты Z. Если установлено`null`используется значение по умолчанию.
+Получает или задает масштаб координаты Z. Если установлено`null` используется значение по умолчанию.
 
 ```csharp
 public double? ZScale { get; set; }
@@ -22,7 +22,7 @@ public double? ZScale { get; set; }
 
 ### Примечания
 
-Значение по умолчанию:` ZScale = 1 / ZTolerance * 10` .
+Значение по умолчанию:`ZМасштаб = 1 / ZДопуск * 10` .
 
 ### Смотрите также
 

@@ -22,8 +22,8 @@ public void AddRange(IEnumerable<IGeometry> geometries)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 集合不接受这种类型的几何。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 该集合不接受这种类型的几何图形。 |
 
 ### 也可以看看
 

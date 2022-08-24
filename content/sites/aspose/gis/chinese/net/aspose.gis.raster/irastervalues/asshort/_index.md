@@ -1,14 +1,14 @@
 ---
 title: AsShort
 second_title: Aspose.GIS for .NET API 参考
-description: 将指定波段数据转换为short值
+description: 将指定波段数据转换为short值.
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.raster/irastervalues/asshort/
 ---
 ## IRasterValues.AsShort method
 
-将指定波段数据转换为`short`值。
+将指定波段数据转换为`short`值.
 
 ```csharp
 public short AsShort(int bandIndex = 0)
@@ -16,7 +16,7 @@ public short AsShort(int bandIndex = 0)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| bandIndex | Int32 | 波段的索引。编号从 0 开始。 |
+| bandIndex | Int32 | 乐队的索引。编号从 0 开始。 |
 
 ### 返回值
 

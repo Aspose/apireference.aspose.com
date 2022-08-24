@@ -1,7 +1,7 @@
 ---
 title: M
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает m-координату.
+description: Получает mкоординату.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/ipoint/m/

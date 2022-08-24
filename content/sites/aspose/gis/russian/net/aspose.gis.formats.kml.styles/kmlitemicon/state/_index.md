@@ -1,14 +1,14 @@
 ---
 title: State
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет текущее состояние NetworkLink или папки. Значение по умолчаниюNone.
+description: Указывает текущее состояние NetworkLink или папки. Значение по умолчаниюNone .
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.kml.styles/kmlitemicon/state/
 ---
 ## KmlItemIcon.State property
 
-Определяет текущее состояние NetworkLink или папки. Значение по умолчанию:None.
+Указывает текущее состояние NetworkLink или папки. Значение по умолчанию:None .
 
 ```csharp
 public KmlItemIconStates State { get; set; }

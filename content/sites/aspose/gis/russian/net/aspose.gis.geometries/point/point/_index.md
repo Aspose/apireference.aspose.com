@@ -1,14 +1,14 @@
 ---
 title: Point
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаPointaspose.gis.geometries/point.
+description: Инициализирует новый экземплярPointaspose.gis.geometries/point класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/point/point/
 ---
 ## Point() {#constructor}
 
-Инициализирует новый экземпляр класса[`Point`](../../point).
+Инициализирует новый экземпляр[`Point`](../../point) класс.
 
 ```csharp
 public Point()
@@ -24,7 +24,7 @@ public Point()
 
 ## Point(double, double) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Point`](../../point).
+Инициализирует новый экземпляр[`Point`](../../point) класс.
 
 ```csharp
 public Point(double x, double y)
@@ -45,7 +45,7 @@ public Point(double x, double y)
 
 ## Point(double, double, double) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`Point`](../../point).
+Инициализирует новый экземпляр[`Point`](../../point) класс.
 
 ```csharp
 public Point(double x, double y, double z)
@@ -67,7 +67,7 @@ public Point(double x, double y, double z)
 
 ## Point(double, double, double, double) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`Point`](../../point).
+Инициализирует новый экземпляр[`Point`](../../point) класс.
 
 ```csharp
 public Point(double x, double y, double z, double m)
@@ -78,7 +78,7 @@ public Point(double x, double y, double z, double m)
 | x | Double | Значение координаты X. |
 | y | Double | Значение координаты Y. |
 | z | Double | Значение координаты Z. |
-| m | Double | Значение координаты M. |
+| m | Double | Значение координаты М. |
 
 ### Смотрите также
 
@@ -90,7 +90,7 @@ public Point(double x, double y, double z, double m)
 
 ## Point(IPoint) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Point`](../../point).
+Инициализирует новый экземпляр[`Point`](../../point) класс.
 
 ```csharp
 public Point(IPoint other)
@@ -98,13 +98,13 @@ public Point(IPoint other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | IPoint | Другой[`IPoint`](../../ipoint)для копирования данных. |
+| other | IPoint | Другой[`IPoint`](../../ipoint) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

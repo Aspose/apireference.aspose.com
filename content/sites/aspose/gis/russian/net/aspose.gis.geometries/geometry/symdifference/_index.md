@@ -1,14 +1,14 @@
 ---
 title: SymDifference
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает симметричную разность между этой геометрией и указанной геометрией.
+description: Строит симметричную разность между этой геометрией и заданной геометрией.
 type: docs
 weight: 380
 url: /ru/net/aspose.gis.geometries/geometry/symdifference/
 ---
 ## Geometry.SymDifference method
 
-Создает симметричную разность между этой геометрией и указанной геометрией.
+Строит симметричную разность между этой геометрией и заданной геометрией.
 
 ```csharp
 public IGeometry SymDifference(IGeometry other)
@@ -26,9 +26,9 @@ public IGeometry SymDifference(IGeometry other)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *other*is`null`. |
+| ArgumentNullException | *other* является`null`. |
 | ArgumentException | Одна из геометрий недействительна, поэтому операция не может быть завершена. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Смотрите также
 

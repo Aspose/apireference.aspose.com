@@ -1,14 +1,14 @@
 ---
 title: PointFormats
 second_title: Справочник по Aspose.GIS for .NET API
-description: PointFormats./pointformatsиспользуются для преобразования координат в текст.
+description: PointFormats./pointformats используются для преобразования координат в текст.
 type: docs
-weight: 1190
+weight: 1200
 url: /ru/net/aspose.gis/pointformats/
 ---
 ## PointFormats enumeration
 
-[`PointFormats`](../pointformats)используются для преобразования координат в текст.
+[`PointFormats`](../pointformats) используются для преобразования координат в текст.
 
 ```csharp
 public enum PointFormats
@@ -19,11 +19,11 @@ public enum PointFormats
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | DecimalDegrees | `0` | Формат десятичных градусов (DD). |
-| DegreeMinutesSeconds | `1` | Градусы Минуты Секунды (DMS) формат. |
-| DegreeDecimalMinutes | `2` | Формат градусных десятичных минут (DDM). |
+| DegreeMinutesSeconds | `1` | Формат Градусы Минуты Секунды (DMS). |
+| DegreeDecimalMinutes | `2` | Формат десятичных минут градусов (DDM). |
 | GeoRef | `3` | Всемирная географическая справочная система. |
-| Mgrs | `4` | Система координат военной сетки с датумом WGS 84. |
-| Usng | `5` | Национальная сеть США с датумом WGS 84. |
+| Mgrs | `4` | Военная референсная система с координатной сеткой WGS 84. |
+| Usng | `5` | Национальная сетка США с датумом WGS 84. |
 
 ### Смотрите также
 

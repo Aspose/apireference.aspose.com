@@ -1,14 +1,14 @@
 ---
 title: Driver
 second_title: Aspose.GIS for .NET API 参考
-description: 获取实例化该层的Driveraspose.gis.raster/rasterlayer/driver
+description: 获取Driveraspose.gis.raster/rasterlayer/driver实例化了这一层
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.raster/rasterlayer/driver/
 ---
 ## RasterLayer.Driver property
 
-获取实例化该层的`Driver`。
+获取`Driver`实例化了这一层。
 
 ```csharp
 public abstract Driver Driver { get; }

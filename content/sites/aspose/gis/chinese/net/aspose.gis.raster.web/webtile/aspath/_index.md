@@ -16,7 +16,7 @@ public abstract string AsPath()
 
 ### 返回值
 
-网址或文件路径
+文件的 URL 或路径
 
 ### 也可以看看
 

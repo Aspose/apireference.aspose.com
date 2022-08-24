@@ -18,27 +18,27 @@ public class Feature
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Geometry](../../aspose.gis/feature/geometry) { get; set; } | 获取或设置要素的几何形状。 不能为`null`，使用[`Null`](../../aspose.gis.geometries/geometry/null)表示缺失的几何。 |
+| [Geometry](../../aspose.gis/feature/geometry) { get; set; } | 获取或设置要素的几何图形。 不能`null`， 利用[`Null`](../../aspose.gis.geometries/geometry/null)表示缺少几何图形。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CopyValues](../../aspose.gis/feature/copyvalues)(Feature) | 从另一个特征复制属性值。 |
+| [CopyValues](../../aspose.gis/feature/copyvalues)(Feature) | 复制另一个特征的属性值。 |
 | [GetValue](../../aspose.gis/feature/getvalue#getvalue)(string) | 获取属性的值。 |
 | [GetValue&lt;T&gt;](../../aspose.gis/feature/getvalue#getvalue_1)(string) | 获取属性的值。 |
-| [GetValueOrDefault](../../aspose.gis/feature/getvalueordefault#getvalueordefault)(string, object) | 获取属性的值，或者[`DefaultValue`](../featureattribute/defaultvalue)如果该值未设置或` 空` 。 |
-| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault#getvalueordefault_1)(string) | 获取属性的值，或者[`DefaultValue`](../featureattribute/defaultvalue)如果该值未设置或` 空` 。 |
-| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault#getvalueordefault_2)(string, object) | 获取属性的值，或者[`DefaultValue`](../featureattribute/defaultvalue)如果该值未设置或` 空` 。 |
+| [GetValueOrDefault](../../aspose.gis/feature/getvalueordefault#getvalueordefault)(string, object) | 获取属性的值，或[`DefaultValue`](../featureattribute/defaultvalue)如果该值未设置或`无效的`. |
+| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault#getvalueordefault_1)(string) | 获取属性的值，或[`DefaultValue`](../featureattribute/defaultvalue)如果该值未设置或`无效的`. |
+| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault#getvalueordefault_2)(string, object) | 获取属性的值，或[`DefaultValue`](../featureattribute/defaultvalue)如果该值未设置或`无效的`. |
 | [GetValues](../../aspose.gis/feature/getvalues)(object[], object) | 返回数组中所有属性的值。 |
-| [GetValuesDump](../../aspose.gis/feature/getvaluesdump)(object) | 返回数组中所有属性的值。 考虑使用[`GetValues`](./getvalues)方法来避免额外的内存分配。 |
-| [GetValuesList&lt;T&gt;](../../aspose.gis/feature/getvalueslist)(string, string) | 获取属性序列的值作为列表。 |
-| [IsValueNull](../../aspose.gis/feature/isvaluenull)(string) | 确定指定属性是否已显式设置为` null` 值。 |
+| [GetValuesDump](../../aspose.gis/feature/getvaluesdump)(object) | 返回数组中所有属性的值。 考虑使用[`GetValues`](./getvalues)避免额外内存分配的方法。 |
+| [GetValuesList&lt;T&gt;](../../aspose.gis/feature/getvalueslist)(string, string) | 以列表形式获取属性序列的值。 |
+| [IsValueNull](../../aspose.gis/feature/isvaluenull)(string) | 确定指定属性是否已显式设置为`无效的`值. |
 | [IsValueSet](../../aspose.gis/feature/isvalueset)(string) | 检查是否在此功能中设置了属性值。 |
 | [SetValue&lt;T&gt;](../../aspose.gis/feature/setvalue)(string, T) | 设置属性的新值。 |
-| [SetValueNull](../../aspose.gis/feature/setvaluenull)(string) | 将属性值设置为` null` 。 |
-| [SetValues](../../aspose.gis/feature/setvalues)(object[]) | 为所有属性设置新值。 还可以考虑使用[`CopyValues`](./copyvalues)方法来简化一次调用中的设置值。 |
-| [UnsetValue](../../aspose.gis/feature/unsetvalue)(string) | 从此特征中移除属性值。 |
+| [SetValueNull](../../aspose.gis/feature/setvaluenull)(string) | 将属性的值设置为`无效的`. |
+| [SetValues](../../aspose.gis/feature/setvalues)(object[]) | 为所有属性设置新值。 也考虑使用[`CopyValues`](./copyvalues)在一次调用中简化设置值的方法。 |
+| [UnsetValue](../../aspose.gis/feature/unsetvalue)(string) | 移除此特征的属性值。 |
 
 ### 也可以看看
 

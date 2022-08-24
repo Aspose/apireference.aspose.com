@@ -1,14 +1,14 @@
 ---
 title: IsClosed
 second_title: Aspose.GIS for .NET API 参考
-description: 获取曲线是否闭合的值 如果曲线的起点等于终点则曲线是闭合的
+description: 获取曲线是否闭合的值 如果曲线的起点等于终点则曲线闭合
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/icurve/isclosed/
 ---
 ## ICurve.IsClosed property
 
-获取曲线是否闭合的值。 如果曲线的起点等于终点，则曲线是闭合的。
+获取曲线是否闭合的值。 如果曲线的起点等于终点，则曲线闭合。
 
 ```csharp
 public bool IsClosed { get; }

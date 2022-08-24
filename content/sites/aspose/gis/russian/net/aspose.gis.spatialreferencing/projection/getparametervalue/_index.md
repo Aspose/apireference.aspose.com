@@ -17,7 +17,7 @@ public double GetParameterValue(string name, ParameterType type = ParameterType.
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя параметра. |
-| type | ParameterType | Тип параметра. Определяет коэффициент единицы измерения, который будет отменен: если типLinearthen[`LinearParametersUnit`](../linearparametersunit)будет отменен, и результат будет в метрах. если типAngularthen[`AngularParametersUnit`](../angularparametersunit)будет быть deapplied и результат будет в радианах. если типOtherзначение параметра будет возвращено "как есть". |
+| type | ParameterType | Тип параметра. Определяет коэффициент единицы измерения, который будет отменен: , если типLinear тогда[`LinearParametersUnit`](../linearparametersunit) будет отменено, и результат будет в метрах. , если типAngular тогда[`AngularParametersUnit`](../angularparametersunit) будет отменено, и результат будет в радианах. , если типOtherзначение параметра будет возвращено «как есть». |
 
 ### Возвращаемое значение
 
@@ -28,7 +28,7 @@ public double GetParameterValue(string name, ParameterType type = ParameterType.
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Аргумент нулевой. |
-| InvalidOperationException | Нет параметра с таким именем. |
+| InvalidOperationException | Параметра с таким названием нет. |
 
 ### Смотрите также
 

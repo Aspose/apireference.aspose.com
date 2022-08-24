@@ -1,14 +1,14 @@
 ---
 title: GetFileNameWithoutExtension
 second_title: Aspose.GIS for .NET API 参考
-description: 返回此AbstractPathaspose.gis/abstractpath的文件名不带扩展名
+description: 返回此文件的文件名AbstractPathaspose.gis/abstractpath没有扩展名.
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/abstractpath/getfilenamewithoutextension/
 ---
 ## AbstractPath.GetFileNameWithoutExtension method
 
-返回此[`AbstractPath`](../../abstractpath)的文件名，不带扩展名。
+返回此文件的文件名[`AbstractPath`](../../abstractpath)没有扩展名.
 
 ```csharp
 public string GetFileNameWithoutExtension()
@@ -16,11 +16,11 @@ public string GetFileNameWithoutExtension()
 
 ### 返回值
 
-[`GetFileName`](../getfilename)返回的字符串减去最后一个句点及其后面的所有字符。
+返回的字符串[`GetFileName`](../getfilename)减去最后一个句点及其后面的所有字符。
 
 ### 例子
 
-对于` AbstractPath`[`Location`](../location)等于` "/directory/file.txt"` 和[`Separator`](../separator)等于` '/'` ，此方法返回` "文件"` 。
+对于一个`抽象路径`和[`Location`](../location)等于`“/目录/文件.txt”` 和[`Separator`](../separator)等于`/'` 这个方法返回`“文件”`.
 
 ### 也可以看看
 

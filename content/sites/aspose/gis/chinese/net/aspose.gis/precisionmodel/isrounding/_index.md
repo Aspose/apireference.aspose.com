@@ -1,14 +1,14 @@
 ---
 title: IsRounding
 second_title: Aspose.GIS for .NET API 参考
-description: 获取一个值该值指示此精度模型是否为四舍五入
+description: 获取一个值该值指示此精度模型是否为舍入
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/precisionmodel/isrounding/
 ---
 ## PrecisionModel.IsRounding property
 
-获取一个值，该值指示此精度模型是否为四舍五入。
+获取一个值，该值指示此精度模型是否为舍入。
 
 ```csharp
 public bool IsRounding { get; }
@@ -16,7 +16,7 @@ public bool IsRounding { get; }
 
 ### 适当的价值
 
-`true`如果这个精度模型是四舍五入的；`false`否则。
+`true`如果这个精度模型是四舍五入；`false`否则。
 
 ### 也可以看看
 

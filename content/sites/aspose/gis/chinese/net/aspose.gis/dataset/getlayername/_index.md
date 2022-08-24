@@ -20,7 +20,7 @@ public abstract string GetLayerName(int index)
 
 ### 返回值
 
-图层的名称。
+层的名称。
 
 ### 例外
 

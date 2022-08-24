@@ -1,14 +1,14 @@
 ---
 title: IsOtherAxis
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет является ли направление этой оси другим.
+description: Определяет является ли это направление оси другим.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.spatialreferencing/axis/isotheraxis/
 ---
 ## Axis.IsOtherAxis property
 
-Определяет, является ли направление этой оси другим.
+Определяет, является ли это направление оси другим.
 
 ```csharp
 public bool IsOtherAxis { get; }

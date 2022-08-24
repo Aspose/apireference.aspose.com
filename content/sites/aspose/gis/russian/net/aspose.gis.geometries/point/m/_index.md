@@ -1,7 +1,7 @@
 ---
 title: M
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает значение m-координаты.
+description: Получает или задает значение mкоординаты.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.geometries/point/m/
@@ -18,7 +18,7 @@ public double M { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | Геометрия не имеет координаты M. |
+| InvalidOperationException | Геометрия не имеет координаты М. |
 
 ### Смотрите также
 

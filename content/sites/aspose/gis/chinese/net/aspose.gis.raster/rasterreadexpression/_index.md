@@ -1,14 +1,14 @@
 ---
 title: RasterReadExpression
 second_title: Aspose.GIS for .NET API 参考
-description: 代表一个委托是读表达式
+description: 代表一个委托它正在阅读表达式
 type: docs
-weight: 1290
+weight: 1300
 url: /zh/net/aspose.gis.raster/rasterreadexpression/
 ---
 ## RasterReadExpression delegate
 
-代表一个委托，是读表达式。
+代表一个委托，它正在阅读表达式。
 
 ```csharp
 public delegate void RasterReadExpression(RasterExpressionContext context, 

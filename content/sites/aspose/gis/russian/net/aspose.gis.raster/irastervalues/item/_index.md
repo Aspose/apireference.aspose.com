@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает значение полосы как типdouble.
+description: Получает значение диапазона в видеdouble тип.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.raster/irastervalues/item/
 ---
 ## IRasterValues indexer
 
-Получает значение полосы как тип`double`.
+Получает значение диапазона в виде`double` тип.
 
 ```csharp
 public double this[int bandIndex] { get; }
@@ -16,7 +16,7 @@ public double this[int bandIndex] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| bandIndex | Индекс полосы. Нумерация начинается с 0. |
+| bandIndex | Индекс группы. Нумерация начинается с 0. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,7 @@ public double this[int bandIndex] { get; }
 
 ### Примечания
 
-Если тип бэндаRawBitsрекомендуется использовать[`AsRawBits`](../asrawbits)метод, чтобы избежать исключений.
+Если тип полосыRawBits рассмотреть возможность использования[`AsRawBits`](../asrawbits) способ избежать исключений.
 
 ### Смотрите также
 

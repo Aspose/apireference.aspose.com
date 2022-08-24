@@ -1,14 +1,14 @@
 ---
 title: HasM
 second_title: Aspose.GIS for .NET API 参考
-description: 获取该实例是否有M坐标的值
+description: 获取一个值表示这个实例是否有M坐标
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geometries/polygon/hasm/
 ---
 ## Polygon.HasM property
 
-获取该实例是否有M坐标的值。
+获取一个值，表示这个实例是否有M坐标。
 
 ```csharp
 public override bool HasM { get; set; }
@@ -16,7 +16,7 @@ public override bool HasM { get; set; }
 
 ### 适当的价值
 
-`true`如果这个实例有M坐标；否则，`false`。
+`true`如果这个实例有 M 坐标；否则，`false`.
 
 ### 也可以看看
 

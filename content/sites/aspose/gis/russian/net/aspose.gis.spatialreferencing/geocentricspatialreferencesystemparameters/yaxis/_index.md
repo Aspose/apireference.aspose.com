@@ -1,14 +1,14 @@
 ---
 title: YAxis
 second_title: Справочник по Aspose.GIS for .NET API
-description: Ось геоцентрической SRS описывающая размерность Y ось указывающая влево или вправо от оси X в экваториальной плоскости. По умолчанию используется ось сEastdirection.
+description: Ось геоцентрической SRS описывающая измерение Y ось указывающая влево или вправо от оси X в экваториальной плоскости. По умолчанию используется ось сEast направление.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis/
 ---
 ## GeocentricSpatialReferenceSystemParameters.YAxis property
 
-Ось геоцентрической SRS, описывающая размерность 'Y' (ось, указывающая влево или вправо от оси X в экваториальной плоскости). По умолчанию используется ось сEastdirection.
+Ось геоцентрической SRS, описывающая измерение Y (ось, указывающая влево или вправо от оси X в экваториальной плоскости). По умолчанию используется ось сEast направление.
 
 ```csharp
 public Axis YAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis YAxis { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Направление оси неWestилиEast. |
+| ArgumentException | Направление оси неWest или жеEast . |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.gis.formats.gpx/gpxoptions/nestedattributeseparator/
 ---
 ## GpxOptions.NestedAttributeSeparator property
 
-Строка для разделения имени вложенного атрибута и его индексов. По умолчанию используется двойное подчеркивание «__».
+Строка для разделения имени вложенного атрибута и его индексов. По умолчанию используется двойное подчеркивание "__".
 
 ```csharp
 public string NestedAttributeSeparator { get; }

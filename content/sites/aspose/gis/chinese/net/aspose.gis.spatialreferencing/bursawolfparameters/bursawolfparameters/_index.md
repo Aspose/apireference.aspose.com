@@ -1,14 +1,14 @@
 ---
 title: BursaWolfParameters
 second_title: Aspose.GIS for .NET API 参考
-description: 创建BursaWolfParametersaspose.gis.spatialreferencing/bursawolfparameters的新实例
+description: 创建新的实例BursaWolfParametersaspose.gis.spatialreferencing/bursawolfparameters.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/bursawolfparameters/bursawolfparameters/
 ---
 ## BursaWolfParameters(double, double, double) {#constructor}
 
-创建[`BursaWolfParameters`](../../bursawolfparameters)的新实例。
+创建新的实例[`BursaWolfParameters`](../../bursawolfparameters).
 
 ```csharp
 public BursaWolfParameters(double dx, double dy, double dz)
@@ -17,7 +17,7 @@ public BursaWolfParameters(double dx, double dy, double dz)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | dx | Double | Dx 以米为单位。 |
-| dy | Double | Dy 以米为单位。 |
+| dy | Double | 以米为单位。 |
 | dz | Double | Dz 以米为单位。 |
 
 ### 也可以看看
@@ -30,7 +30,7 @@ public BursaWolfParameters(double dx, double dy, double dz)
 
 ## BursaWolfParameters(double, double, double, double, double, double, double) {#constructor_1}
 
-创建[`BursaWolfParameters`](../../bursawolfparameters)的新实例。
+创建新的实例[`BursaWolfParameters`](../../bursawolfparameters).
 
 ```csharp
 public BursaWolfParameters(double dx, double dy, double dz, double rx, double ry, double rz, 
@@ -40,10 +40,10 @@ public BursaWolfParameters(double dx, double dy, double dz, double rx, double ry
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | dx | Double | Dx 以米为单位。 |
-| dy | Double | Dy 以米为单位。 |
+| dy | Double | 以米为单位。 |
 | dz | Double | Dz 以米为单位。 |
-| rx | Double | Rx 以秒为单位。 |
-| ry | Double | Ry 以秒为单位。 |
+| rx | Double | 以秒为单位的 Rx。 |
+| ry | Double | 在几秒钟内完成。 |
 | rz | Double | Rz 以秒为单位。 |
 | scale | Double | 以百万分之几为单位进行缩放。 |
 

@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает количество атрибутов вFeatureaspose.gis/feature.
+description: Получает количество атрибутов вFeatureaspose.gis/feature .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/featureattributecollection/count/
 ---
 ## FeatureAttributeCollection.Count property
 
-Получает количество атрибутов в[`Feature`](../../feature).
+Получает количество атрибутов в[`Feature`](../../feature) .
 
 ```csharp
 public int Count { get; }
@@ -16,7 +16,7 @@ public int Count { get; }
 
 ### Стоимость имущества
 
-Количество атрибутов в[`Feature`](../../feature).
+Количество атрибутов в[`Feature`](../../feature) .
 
 ### Смотрите также
 

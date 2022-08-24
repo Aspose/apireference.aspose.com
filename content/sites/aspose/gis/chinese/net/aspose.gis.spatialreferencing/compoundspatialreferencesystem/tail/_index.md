@@ -1,14 +1,14 @@
 ---
 title: Tail
 second_title: Aspose.GIS for .NET API 参考
-description: 第二个底层 SRS
+description: 第二个底层 SRS.
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/tail/
 ---
 ## CompoundSpatialReferenceSystem.Tail property
 
-第二个底层 SRS。
+第二个底层 SRS.
 
 ```csharp
 public SpatialReferenceSystem Tail { get; }

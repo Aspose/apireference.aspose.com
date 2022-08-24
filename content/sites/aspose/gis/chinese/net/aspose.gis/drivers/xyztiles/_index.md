@@ -1,14 +1,14 @@
 ---
 title: XyzTiles
 second_title: Aspose.GIS for .NET API 参考
-description: 平铺网络地图的驱动程序如 OpenStreetMaps谷歌地图等
+description: 平铺网络地图的驱动程序如 OpenStreetMapsGoogle 地图等
 type: docs
 weight: 160
 url: /zh/net/aspose.gis/drivers/xyztiles/
 ---
 ## Drivers.XyzTiles property
 
-平铺网络地图的驱动程序，如 OpenStreetMaps、谷歌地图等
+平铺网络地图的驱动程序，如 OpenStreetMaps、Google 地图等。
 
 ```csharp
 public static XyzTilesDriver XyzTiles { get; }

@@ -17,21 +17,21 @@ public Dataset OpenDataset(string path, FileGdbOptions options)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
-| options | FileGdbOptions | 驱动程序特定选项。 |
+| options | FileGdbOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`Dataset`](../../../aspose.gis/dataset)的一个实例。
+一个实例[`Dataset`](../../../aspose.gis/dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../../aspose.gis/gisexception) | 从数据集中读取图层时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集（参见[`CanOpenDatasets`](../canopendatasets)）。 |
+| NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets)）。 |
 
 ### 也可以看看
 
@@ -54,21 +54,21 @@ public override Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`Dataset`](../../../aspose.gis/dataset)的一个实例。
+一个实例[`Dataset`](../../../aspose.gis/dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../../aspose.gis/gisexception) | 从数据集中读取图层时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集（参见[`CanOpenDatasets`](../canopendatasets)）。 |
+| NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets)）。 |
 
 ### 也可以看看
 
@@ -92,21 +92,21 @@ public Dataset OpenDataset(AbstractPath path, FileGdbOptions options)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| options | FileGdbOptions | 驱动程序特定选项。 |
+| options | FileGdbOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`Dataset`](../../../aspose.gis/dataset)的一个实例。
+一个实例[`Dataset`](../../../aspose.gis/dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../../aspose.gis/gisexception) | 从数据集中读取图层时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集（参见[`CanOpenDatasets`](../canopendatasets)）。 |
+| NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets)）。 |
 
 ### 也可以看看
 

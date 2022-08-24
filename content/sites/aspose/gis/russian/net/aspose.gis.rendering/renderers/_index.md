@@ -3,7 +3,7 @@ title: Renderers
 second_title: Справочник по Aspose.GIS for .NET API
 description: Рендереры для всех поддерживаемых форматов.
 type: docs
-weight: 1670
+weight: 1680
 url: /ru/net/aspose.gis.rendering/renderers/
 ---
 ## Renderers class
@@ -18,10 +18,10 @@ public static class Renderers
 
 | Имя | Описание |
 | --- | --- |
-| static [Bmp](../../aspose.gis.rendering/renderers/bmp) { get; } | Средство рендеринга, которое выполняет рендеринг в формате BMP. |
-| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg) { get; } | Модуль рендеринга, который выполняет рендеринг в формате JPEG. |
-| static [Png](../../aspose.gis.rendering/renderers/png) { get; } | Модуль рендеринга, выполняющий рендеринг в формате PNG. |
-| static [Svg](../../aspose.gis.rendering/renderers/svg) { get; } | Модуль рендеринга, который выполняет рендеринг в формате SVG. |
+| static [Bmp](../../aspose.gis.rendering/renderers/bmp) { get; } | Средство визуализации, которое выполняет рендеринг в формате BMP. |
+| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg) { get; } | Средство визуализации, которое выполняет рендеринг в формате JPEG. |
+| static [Png](../../aspose.gis.rendering/renderers/png) { get; } | Средство визуализации, которое выполняет рендеринг в формате PNG. |
+| static [Svg](../../aspose.gis.rendering/renderers/svg) { get; } | Средство визуализации, которое выполняет рендеринг в формате SVG. |
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: EpsgCode
 second_title: Справочник по Aspose.GIS for .NET API
-description: Если этот идентификатор объекта является идентификатором EPSG - вернуть его код. В противном случае - вернуть -1.
+description: Если этот идентификатор объекта является идентификатором EPSG  вернуть его код. В противном случае  вернуть 1.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.spatialreferencing/identifiableobject/epsgcode/

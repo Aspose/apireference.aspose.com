@@ -1,14 +1,14 @@
 ---
 title: AddCurve
 second_title: Справочник по Aspose.GIS for .NET API
-description: Добавляет кривую в конец этогоCompoundCurveaspose.gis.geometries/compoundcurve.
+description: Добавляет кривую в конец этогоCompoundCurveaspose.gis.geometries/compoundcurve .
 type: docs
 weight: 120
 url: /ru/net/aspose.gis.geometries/compoundcurve/addcurve/
 ---
 ## CompoundCurve.AddCurve method
 
-Добавляет кривую в конец этого[`CompoundCurve`](../../compoundcurve).
+Добавляет кривую в конец этого[`CompoundCurve`](../../compoundcurve) .
 
 ```csharp
 public void AddCurve(ICurve curve)
@@ -16,14 +16,14 @@ public void AddCurve(ICurve curve)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| curve | ICurve | Кривая для добавления. |
+| curve | ICurve | Кривой добавить. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | &lt;ul&gt;&lt;li&gt; Тип аргументов:[`CompoundCurve`](../../compoundcurve)&lt;/ li&gt;&lt;li&gt; Аргумент пуст &lt;/li&gt;&lt;li&gt;[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)этой геометрии и [`SpatialReferenceSystem`](../spatialreferencesystem)аргумента не являются`null` и не равны друг другу &lt;/li&gt;&lt;/ul &gt; |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | Тип аргументов[`CompoundCurve`](../../compoundcurve) Аргумент пуст[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) этой геометрии и [`SpatialReferenceSystem`](../spatialreferencesystem) аргумента оба не`null` и не равны друг другу |
 
 ### Смотрите также
 

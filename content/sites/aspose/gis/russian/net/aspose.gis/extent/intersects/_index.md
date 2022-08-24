@@ -16,18 +16,18 @@ public bool Intersects(Extent extent)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| extent | Extent | Другой экстент. |
+| extent | Extent | Другая степень. |
 
 ### Возвращаемое значение
 
-Значение, указывающее, пересекается ли данный экстент с аргументом.
+Значение, указывающее, пересекается ли этот экстент с аргументом.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)этого экстента и аргумента не являются`null`и не равны друг другу. |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem) в этой степени и аргумент оба не`null` и не равны друг другу. |
 
 ### Смотрите также
 
@@ -47,18 +47,18 @@ public bool Intersects(IGeometry geometry)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| geometry | IGeometry | Геометрия для проверки пересечения |
+| geometry | IGeometry | Геометрия для проверки на пересечение |
 
 ### Возвращаемое значение
 
-Значение, указывающее пересекается ли эта степень с аргументом.
+Значение, указывающее, пересекается ли этот экстент с аргументом.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)этого экстента и аргумента не являются`null`и не равны друг другу. |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem) в этой степени и аргумент оба не`null` и не равны друг другу. |
 
 ### Смотрите также
 

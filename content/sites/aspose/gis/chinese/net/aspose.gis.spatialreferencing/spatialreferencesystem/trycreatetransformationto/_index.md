@@ -1,14 +1,14 @@
 ---
 title: TryCreateTransformationTo
 second_title: Aspose.GIS for .NET API 参考
-description: 从此创建转换 空间参考系统 给另一个 空间参考系统.
+description: 从这里创建转换空间参考系统给另一个空间参考系统.
 type: docs
 weight: 230
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatetransformationto/
 ---
 ## SpatialReferenceSystem.TryCreateTransformationTo method
 
-从此创建转换 `空间参考系统` 给另一个 `空间参考系统`.
+从这里创建转换`空间参考系统`给另一个`空间参考系统`.
 
 ```csharp
 public bool TryCreateTransformationTo(SpatialReferenceSystem targetSrs, 
@@ -17,14 +17,14 @@ public bool TryCreateTransformationTo(SpatialReferenceSystem targetSrs,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | 其他 `空间参考系统`. |
-| value | SpatialReferenceSystemTransformation& | 当此方法返回时 `true`, 包含转换； 否则，包含 `null`. |
+| targetSrs | SpatialReferenceSystem | 其他`空间参考系统`. |
+| value | SpatialReferenceSystemTransformation& | 当这个方法返回时`true` , 包含一个变换；否则，包含`null`. |
 
 ### 返回值
 
-从此转变 `空间参考系统` 给另一个 `空间参考系统`.
+从此转变`空间参考系统`给另一个`空间参考系统`.
 
-`true` 如果转换创建成功; `false` 否则。
+`true`如果转换创建成功；`false`否则。
 
 ### 也可以看看
 

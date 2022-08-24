@@ -1,14 +1,14 @@
 ---
 title: Ry
 second_title: Справочник по Aspose.GIS for .NET API
-description: Ry в секундах.
+description: Рай за секунды.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.spatialreferencing/bursawolfparameters/ry/
 ---
 ## BursaWolfParameters.Ry property
 
-Ry в секундах.
+Рай за секунды.
 
 ```csharp
 public double Ry { get; }

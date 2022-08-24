@@ -1,14 +1,14 @@
 ---
 title: Marker
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает символизатор маркера вдоль линии.
+description: Задает символ маркера вдоль линии.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering.symbolizers/markerline/marker/
 ---
 ## MarkerLine.Marker property
 
-Задает символизатор маркера вдоль линии.
+Задает символ маркера вдоль линии.
 
 ```csharp
 public VectorSymbolizer Marker { get; set; }

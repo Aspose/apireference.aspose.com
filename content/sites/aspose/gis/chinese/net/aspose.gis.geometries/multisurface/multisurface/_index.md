@@ -1,14 +1,14 @@
 ---
 title: MultiSurface
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化MultiSurfaceaspose.gis.geometries/multisurface类的新实例
+description: 初始化MultiSurfaceaspose.gis.geometries/multisurface类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/multisurface/multisurface/
 ---
 ## MultiSurface constructor
 
-初始化[`MultiSurface`](../../multisurface)类的新实例。
+初始化[`MultiSurface`](../../multisurface)类.
 
 ```csharp
 public MultiSurface()

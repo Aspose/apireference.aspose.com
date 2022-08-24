@@ -3,7 +3,7 @@ title: SpatialReferenceSystemMode
 second_title: Aspose.GIS for .NET API 参考
 description: 指定在数据库 中写入空间参考系统 SRS 的模式如果它是未知的 SRS
 type: docs
-weight: 1910
+weight: 1920
 url: /zh/net/aspose.gis/spatialreferencesystemmode/
 ---
 ## SpatialReferenceSystemMode enumeration
@@ -18,9 +18,9 @@ public enum SpatialReferenceSystemMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| ThrowException | `0` | 如果它是数据库的未知 SRS，则抛出异常。 |
+| ThrowException | `0` | 如果它是数据库的未知 SRS，则引发异常。 |
 | WriteInSystemTable | `1` | 如果它是数据库的未知 SRS，则在系统表中写入 SRS 信息。 |
-| SetupToZero | `2` | 将几何图形的 SRID 设置为“零”，如果它是数据库的未知 SRS。 |
+| SetupToZero | `2` | 如果它是数据库的未知 SRS，则将几何的 SRID 设置为“零”。 |
 
 ### 也可以看看
 

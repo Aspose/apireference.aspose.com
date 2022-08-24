@@ -1,14 +1,14 @@
 ---
 title: ProjectionMethodIdentifier
 second_title: Aspose.GIS for .NET API 参考
-description: 投影方法的标识符没有默认值如果要将标识符附加到投影可以将此参数设置为 notnullvalue 如果您这样做 - 由您来确保一致的投影方法 名称中的标识符设置此属性时投影方法名称不会更改
+description: 投影方法的标识符没有默认值您可以将此参数设置为 notnull值 如果要将标识符附加到投影如果您这样做  由您来确保标识符在一致的投影方法 名称中设置此属性时投影方法名称不会更改
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier/
 ---
 ## ProjectedSpatialReferenceSystemParameters.ProjectionMethodIdentifier property
 
-投影方法的标识符。没有默认值，如果要将标识符附加到投影，可以将此参数设置为 not`null`value, 。如果您这样做 - 由您来确保一致的投影方法 名称中的标识符（设置此属性时投影方法名称不会更改）。
+投影方法的标识符。没有默认值，您可以将此参数设置为 not`null`值， 如果要将标识符附加到投影。如果您这样做 - 由您来确保标识符在一致的投影方法 名称中（设置此属性时投影方法名称不会更改）。
 
 ```csharp
 public Identifier ProjectionMethodIdentifier { get; set; }

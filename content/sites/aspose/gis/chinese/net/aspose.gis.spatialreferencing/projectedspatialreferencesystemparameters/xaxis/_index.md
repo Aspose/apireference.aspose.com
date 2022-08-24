@@ -1,14 +1,14 @@
 ---
 title: XAxis
 second_title: Aspose.GIS for .NET API 参考
-description: 描述 X水平维度的轴默认为向东的轴
+description: 描述 X水平尺寸的轴默认为向东的轴
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/
 ---
 ## ProjectedSpatialReferenceSystemParameters.XAxis property
 
-描述 X（水平）维度的轴。默认为向东的轴。
+描述 X（水平）尺寸的轴。默认为向东的轴。
 
 ```csharp
 public Axis XAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis XAxis { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 如果轴方向不是从设置器抛出East或West。 |
+| ArgumentException | 如果轴方向不是从 setter 抛出East或者West. |
 
 ### 也可以看看
 

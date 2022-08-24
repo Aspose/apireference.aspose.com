@@ -1,14 +1,14 @@
 ---
 title: FeatureAttribute
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化FeatureAttributeaspose.gis/featureattribute类的新实例
+description: 初始化FeatureAttributeaspose.gis/featureattribute类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/featureattribute/featureattribute/
 ---
 ## FeatureAttribute(string, AttributeDataType) {#constructor}
 
-初始化[`FeatureAttribute`](../../featureattribute)类的新实例。
+初始化[`FeatureAttribute`](../../featureattribute)类.
 
 ```csharp
 public FeatureAttribute(string name, AttributeDataType dataType)
@@ -30,7 +30,7 @@ public FeatureAttribute(string name, AttributeDataType dataType)
 
 ## FeatureAttribute(string, AttributeDataType, bool) {#constructor_1}
 
-初始化[`FeatureAttribute`](../../featureattribute)类的新实例。
+初始化[`FeatureAttribute`](../../featureattribute)类.
 
 ```csharp
 public FeatureAttribute(string name, AttributeDataType dataType, bool canBeNull)
@@ -40,13 +40,13 @@ public FeatureAttribute(string name, AttributeDataType dataType, bool canBeNull)
 | --- | --- | --- |
 | name | String | 属性的名称。 |
 | dataType | AttributeDataType | 属性的数据类型。 |
-| canBeNull | Boolean | `true`如果此实例可以为空；否则，`false`。 |
+| canBeNull | Boolean | `true`如果这个实例可以为空；否则，`false`. |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 
 ### 也可以看看
 

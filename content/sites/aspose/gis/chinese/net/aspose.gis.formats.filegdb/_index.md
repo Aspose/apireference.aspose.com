@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.FileGdb
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Formats.FileGdb 命名空间提供了使用 ESRI 文件地理数据库格式的类
+description: Aspose.Gis.Formats.FileGdb命名空间提供了使用 ESRI 文件地理数据库格式的类
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.filegdb/
 ---
-` Aspose.Gis.Formats.FileGdb` 命名空间提供了使用 ESRI 文件地理数据库格式的类。
+`Aspose.Gis.Formats.FileGdb`命名空间提供了使用 ESRI 文件地理数据库格式的类。
 
 ## 课程
 

@@ -1,14 +1,14 @@
 ---
 title: ColumnWkt
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置包含用于表示几何的众所周知的文本的列名 默认为null
+description: 获取或设置列的名称其中包含用于表示几何的众所周知的文本 默认为null.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.csv/csvoptions/columnwkt/
 ---
 ## CsvOptions.ColumnWkt property
 
-获取或设置包含用于表示几何的众所周知的文本的列名。 默认为`null`。
+获取或设置列的名称，其中包含用于表示几何的众所周知的文本。 默认为`null`.
 
 ```csharp
 public string ColumnWkt { get; set; }
@@ -16,7 +16,7 @@ public string ColumnWkt { get; set; }
 
 ### 评论
 
-如果列值为`null`或 &lt;see langword="empty string" /&gt; 不会创建基于 Well-Known Text 的几何图形。
+如果列值为`null`或者`empty string`不会创建基于知名文本的几何图形。
 
 ### 也可以看看
 

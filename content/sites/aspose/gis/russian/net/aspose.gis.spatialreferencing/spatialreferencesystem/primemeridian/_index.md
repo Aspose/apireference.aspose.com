@@ -1,14 +1,14 @@
 ---
 title: PrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает нулевой меридиан этого SRS.
+description: Возвращает нулевой меридиан этой SRS.
 type: docs
 weight: 160
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/primemeridian/
 ---
 ## SpatialReferenceSystem.PrimeMeridian property
 
-Возвращает нулевой меридиан этого SRS.
+Возвращает нулевой меридиан этой SRS.
 
 ```csharp
 public abstract PrimeMeridian PrimeMeridian { get; }

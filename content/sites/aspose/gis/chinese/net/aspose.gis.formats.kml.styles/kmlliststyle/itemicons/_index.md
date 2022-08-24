@@ -1,14 +1,14 @@
 ---
 title: ItemIcons
 second_title: Aspose.GIS for .NET API 参考
-description: 列表视图中使用的图标反映文件夹或链接提取的状态 默认值为null表示图标为无
+description: 列表视图中使用的图标反映文件夹或链接提取的状态 默认值为null表示图标没有
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.kml.styles/kmlliststyle/itemicons/
 ---
 ## KmlListStyle.ItemIcons property
 
-列表视图中使用的图标，反映文件夹或链接提取的状态。 默认值为`null`表示图标为无。
+列表视图中使用的图标，反映文件夹或链接提取的状态。 默认值为`null`表示图标没有。
 
 ```csharp
 public IReadOnlyList<KmlItemIcon> ItemIcons { get; set; }

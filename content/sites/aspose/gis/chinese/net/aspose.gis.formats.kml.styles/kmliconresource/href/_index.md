@@ -1,14 +1,14 @@
 ---
 title: Href
 second_title: Aspose.GIS for .NET API 参考
-description: 将资源位置指定为 URL 默认值为null表示 href 为无
+description: 将资源位置指定为 URL 默认值为null表示href是无
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.kml.styles/kmliconresource/href/
 ---
 ## KmlIconResource.Href property
 
-将资源位置指定为 URL。 默认值为`null`表示 href 为无。
+将资源位置指定为 URL。 默认值为`null`表示href是无。
 
 ```csharp
 public string Href { get; set; }

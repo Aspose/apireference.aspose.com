@@ -3,7 +3,7 @@ title: GeometryType
 second_title: Справочник по Aspose.GIS for .NET API
 description: Тип геометрии в слое.
 type: docs
-weight: 840
+weight: 850
 url: /ru/net/aspose.gis.geometries/geometrytype/
 ---
 ## GeometryType enumeration
@@ -20,19 +20,19 @@ public enum GeometryType
 | --- | --- | --- |
 | Null | `0` | Тип геометрии не задан. |
 | Mixed | `1` | Тип геометрии смешанный. |
-| Point | `2` | Геометрия представляет собой[`IPoint`](../ipoint). |
-| LineString | `3` | Геометрия представляет собой[`ILineString`](../ilinestring). |
-| LinearRing | `4` | Геометрия представляет собой[`ILinearRing`](../ilinearring). |
-| CircularString | `5` | Геометрия представляет собой[`ICircularString`](../icircularstring). |
-| CompoundCurve | `6` | Геометрия представляет собой[`ICompoundCurve`](../icompoundcurve). |
-| CurvePolygon | `7` | Геометрия представляет собой[`ICurvePolygon`](../icurvepolygon). |
-| Polygon | `8` | Геометрия представляет собой[`IPolygon`](../ipolygon). |
-| MultiPoint | `9` | Геометрия представляет собой[`IMultiPoint`](../imultipoint). |
-| MultiCurve | `10` | Геометрия представляет собой[`IMultiCurve`](../imulticurve). |
-| MultiLineString | `11` | Геометрия представляет собой[`IMultiLineString`](../imultilinestring). |
-| MultiSurface | `12` | Геометрия представляет собой[`IMultiSurface`](../imultisurface). |
-| MultiPolygon | `13` | Геометрия представляет собой[`IMultiPolygon`](../imultipolygon). |
-| GeometryCollection | `14` | Геометрия представляет собой[`IGeometryCollection`](../igeometrycollection). |
+| Point | `2` | Геометрия[`IPoint`](../ipoint) . |
+| LineString | `3` | Геометрия[`ILineString`](../ilinestring) . |
+| LinearRing | `4` | Геометрия[`ILinearRing`](../ilinearring) . |
+| CircularString | `5` | Геометрия[`ICircularString`](../icircularstring) . |
+| CompoundCurve | `6` | Геометрия[`ICompoundCurve`](../icompoundcurve) . |
+| CurvePolygon | `7` | Геометрия[`ICurvePolygon`](../icurvepolygon) . |
+| Polygon | `8` | Геометрия[`IPolygon`](../ipolygon) . |
+| MultiPoint | `9` | Геометрия[`IMultiPoint`](../imultipoint) . |
+| MultiCurve | `10` | Геометрия[`IMultiCurve`](../imulticurve) . |
+| MultiLineString | `11` | Геометрия[`IMultiLineString`](../imultilinestring) . |
+| MultiSurface | `12` | Геометрия[`IMultiSurface`](../imultisurface) . |
+| MultiPolygon | `13` | Геометрия[`IMultiPolygon`](../imultipolygon) . |
+| GeometryCollection | `14` | Геометрия[`IGeometryCollection`](../igeometrycollection) . |
 
 ### Смотрите также
 

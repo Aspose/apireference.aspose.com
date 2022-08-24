@@ -25,9 +25,9 @@ public class KmlCoordinate
 | Имя | Описание |
 | --- | --- |
 | [X](../../aspose.gis.formats.kml.styles/kmlcoordinate/x) { get; set; } | Компонент X точки. Значение по умолчанию — 0,5. |
-| [XUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/xunits) { get; set; } | Единицы, в которых указано значение X. Значение по умолчанию:Fraction. |
+| [XUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/xunits) { get; set; } | Единицы, в которых указано значение X. Значение по умолчаниюFraction . |
 | [Y](../../aspose.gis.formats.kml.styles/kmlcoordinate/y) { get; set; } | Компонент Y точки. Значение по умолчанию — 0,5. |
-| [YUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/yunits) { get; set; } | Единицы, в которых указано значение Y. Значение по умолчанию:Fraction. |
+| [YUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/yunits) { get; set; } | Единицы, в которых указано значение Y. Значение по умолчаниюFraction. |
 
 ### Смотрите также
 

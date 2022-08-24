@@ -1,14 +1,14 @@
 ---
 title: VerticalInterval
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает интервал по вертикали между маркерами.
+description: Задает вертикальный интервал между маркерами.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval/
 ---
 ## MarkerPatternFill.VerticalInterval property
 
-Указывает интервал по вертикали между маркерами.
+Задает вертикальный интервал между маркерами.
 
 ```csharp
 public Measurement VerticalInterval { get; set; }

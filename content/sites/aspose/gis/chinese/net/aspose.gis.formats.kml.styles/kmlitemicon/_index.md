@@ -24,9 +24,9 @@ public class KmlItemIcon
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Href](../../aspose.gis.formats.kml.styles/kmlitemicon/href) { get; set; } | 将资源位置指定为 URL。 默认值为`null`表示 href 为无。 |
-| [State](../../aspose.gis.formats.kml.styles/kmlitemicon/state) { get; set; } | 指定 NetworkLink 或文件夹的当前状态。 默认值为None。 |
-| [SubState](../../aspose.gis.formats.kml.styles/kmlitemicon/substate) { get; set; } | 指定 NetworkLink 或文件夹的附加状态。 默认值为None。 |
+| [Href](../../aspose.gis.formats.kml.styles/kmlitemicon/href) { get; set; } | 将资源位置指定为 URL。 默认值为`null`表示href是无。 |
+| [State](../../aspose.gis.formats.kml.styles/kmlitemicon/state) { get; set; } | 指定 NetworkLink 或 Folder 的当前状态。 默认值为None. |
+| [SubState](../../aspose.gis.formats.kml.styles/kmlitemicon/substate) { get; set; } | 指定 NetworkLink 或 Folder 的附加状态。 默认值为None. |
 
 ### 也可以看看
 

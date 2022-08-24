@@ -16,19 +16,19 @@ public static IEnumerable<ILineString> ProduceLines(Extent rect, LineGeneratorOp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Extent | Заданная область (см.[`Extent`](../../../aspose.gis/extent) ) |
-| options | LineGeneratorOptions | Опции создания линии (см.[`LineGeneratorOptions`](../../linegeneratoroptions) ) |
+| rect | Extent | указанная площадь (см.[`Степень`](../../../aspose.gis/extent)) |
+| options | LineGeneratorOptions | Варианты создания линии (см.[`LineGeneratorOptions`](../../linegeneratoroptions)) |
 
 ### Возвращаемое значение
 
-Массив линий (см. перечисление[`ILineString`](../../../aspose.gis.geometries/ilinestring) )
+Массив строк (см. перечисление[`ILineString`](../../../aspose.gis.geometries/ilinestring))
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentOutOfRangeException | Количество строк должно быть больше одной. |
-| NullReferenceException | Экстент должен иметь значение (не NULL) |
+| NullReferenceException | Экстент должен иметь значение (не быть NULL) |
 
 ### Смотрите также
 

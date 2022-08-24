@@ -18,11 +18,11 @@ public string ObjectIdFieldName { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 值不是有效的字段名称。有效的字段名称必须: &lt;ul&gt;&lt;li&gt;不能为`null`且不能为空&lt;/li&gt;&lt;li&gt;以拉丁字母或下划线开头&lt;/li&gt; &lt;li&gt;仅包含拉丁字母、数字或下划线&lt;/li&gt;&lt;/ul&gt; |
+| ArgumentException | 值不是有效的字段名称。有效的字段名称必须： 不是`null`并且不为空以拉丁字母或下划线开头仅包含拉丁字母、数字或下划线 |
 
 ### 评论
 
-这是一个创建选项，不影响读取。 定义对象 ID 字段（列）的名称。 默认为“OBJECTID”。 如果[`Attributes`](../../../aspose.gis/vectorlayer/attributes)中的任何属性的名称等于该属性的值，则 该属性被重命名.
+这是一个创建选项，不影响读取。 定义对象 ID 字段（列）的名称。 默认为“OBJECTID”。 如果有任何属性[`Attributes`](../../../aspose.gis/vectorlayer/attributes)名称等于此属性的值，然后 此属性被重命名。
 
 ### 也可以看看
 

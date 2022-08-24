@@ -1,14 +1,14 @@
 ---
 title: SavingOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Варианты сохраненияFeaturesSequence./featuressequenceв файл.
+description: Варианты сохраненияFeaturesSequence./featuressequence в файл.
 type: docs
-weight: 1900
+weight: 1910
 url: /ru/net/aspose.gis/savingoptions/
 ---
 ## SavingOptions class
 
-Варианты сохранения[`FeaturesSequence`](../featuressequence)в файл.
+Варианты сохранения[`FeaturesSequence`](../featuressequence) в файл.
 
 ```csharp
 public class SavingOptions
@@ -24,7 +24,7 @@ public class SavingOptions
 
 | Имя | Описание |
 | --- | --- |
-| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter) { get; set; } | Пользовательский преобразователь атрибутов. Если не`null`, он вызывается для каждого атрибута исходного слоя и, как ожидается, изменит его при необходимости. |
+| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter) { get; set; } | Пользовательский преобразователь атрибутов. Если нет`null` , он вызывается для каждого атрибута исходного слоя и, как ожидается, изменит его при необходимости. |
 | [DriverOptions](../../aspose.gis/savingoptions/driveroptions) { get; set; } | Специфичные для драйвера параметры выходного слоя. |
 | [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem) { get; set; } | Специфичные для драйвера параметры выходного слоя. |
 

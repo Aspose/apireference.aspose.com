@@ -3,7 +3,7 @@ title: RasterStatistics
 second_title: Справочник по Aspose.GIS for .NET API
 description: Статистика для любого растрового слоя.
 type: docs
-weight: 1310
+weight: 1320
 url: /ru/net/aspose.gis.raster/rasterstatistics/
 ---
 ## RasterStatistics class
@@ -20,7 +20,7 @@ public class RasterStatistics
 | --- | --- |
 | [Count](../../aspose.gis.raster/rasterstatistics/count) { get; } | Количество ячеек или пикселей, учитываемых для сводной статистики. |
 | [Max](../../aspose.gis.raster/rasterstatistics/max) { get; } | Максимальное значение подсчитанных ячеек или значений пикселей. |
-| [Mean](../../aspose.gis.raster/rasterstatistics/mean) { get; } | Среднее арифметическое всех подсчитанных значений ячеек или пикселей. |
+| [Mean](../../aspose.gis.raster/rasterstatistics/mean) { get; } | Среднее арифметическое всех подсчитанных ячеек или значений пикселей. |
 | [Min](../../aspose.gis.raster/rasterstatistics/min) { get; } | Минимальное значение подсчитанных ячеек или значений пикселей. |
 | [Sum](../../aspose.gis.raster/rasterstatistics/sum) { get; } | Сумма всех подсчитанных ячеек или значений пикселей. |
 
@@ -28,7 +28,7 @@ public class RasterStatistics
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterstatistics/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis.raster/rasterstatistics/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

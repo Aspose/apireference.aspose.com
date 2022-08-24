@@ -1,14 +1,14 @@
 ---
 title: op_Inequality
 second_title: Aspose.GIS for .NET API 参考
-description: 实现运算符 
+description: 实现运算符 .
 type: docs
 weight: 190
 url: /zh/net/aspose.gis.geometries/curvepolygon/op_inequality/
 ---
 ## CurvePolygon Inequality operator
 
-实现运算符 !=。
+实现运算符 !=.
 
 ```csharp
 public static bool operator !=(CurvePolygon a, CurvePolygon b)

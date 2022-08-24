@@ -16,7 +16,7 @@ public override Dataset OpenDataset(IDbConnection connection)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| connection | IDbConnection | Открыто соединение с базой данных. |
+| connection | IDbConnection | Открытое соединение с базой данных. |
 
 ### Возвращаемое значение
 
@@ -28,7 +28,7 @@ public override Dataset OpenDataset(IDbConnection connection)
 | --- | --- |
 | ArgumentNullException | Соединение`null`. |
 | [GisException](../../../aspose.gis/gisexception) | Ошибка чтения набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: WkbVariant
 second_title: Справочник по Aspose.GIS for .NET API
-description: Вариант общеизвестного двоичного файла
+description: Вариант известного двоичного файла
 type: docs
-weight: 1110
+weight: 1120
 url: /ru/net/aspose.gis.geometries/wkbvariant/
 ---
 ## WkbVariant enumeration
 
-Вариант общеизвестного двоичного файла
+Вариант известного двоичного файла
 
 ```csharp
 public enum WkbVariant
@@ -19,7 +19,7 @@ public enum WkbVariant
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | SimpleFeatureAccessOutdated | `0` | Общеизвестный двоичный файл, совместимый со спецификацией Simple Feature Access, версия 1.1. |
-| Iso | `1` | Известный двоичный файл, совместимый со стандартом ISO "SQL Multimedia and application packages - Part 3:Spatial" и Спецификация Simple Feature Access, версия 1.2 . |
+| Iso | `1` | Общеизвестный двоичный файл, соответствующий стандарту ISO «SQL Multimedia and application packages — Part 3: Spatial» и Спецификация Simple Feature Access, версия 1.2. |
 | ExtendedPostGis | `2` | Расширенный общеизвестный двоичный вариант, разработанный PostGIS, который экспортирует идентификатор пространственной системы отсчета (код EPSG). |
 
 ### Смотрите также

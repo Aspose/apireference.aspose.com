@@ -3,7 +3,7 @@ title: AxisDirection
 second_title: Справочник по Aspose.GIS for .NET API
 description: Направление оси определяет направление на которое указывает ось.
 type: docs
-weight: 1930
+weight: 1940
 url: /ru/net/aspose.gis.spatialreferencing/axisdirection/
 ---
 ## AxisDirection enumeration
@@ -25,7 +25,7 @@ public enum AxisDirection
 | West | `4` | Ось указывает на запад. |
 | Up | `5` | Ось направлена вверх. |
 | Down | `6` | Ось направлена вниз. |
-| Other | `7` | Ось указывает в другом направлении. Это может быть ось «X» в геоцентрической СКИ (она указывает на нулевой меридиан). |
+| Other | `7` | Ось указывает в другом направлении. Это может быть ось «X» в геоцентрической SRS (она указывает на нулевой меридиан). |
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: Url
 second_title: Справочник по Aspose.GIS for .NET API
-description: Шаблон URL-адреса.
+description: Шаблон URLадреса.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.xyztile/xyzconnection/url/

@@ -3,7 +3,7 @@ title: LocalDatum
 second_title: Справочник по Aspose.GIS for .NET API
 description: Указывает метод используемый для измерений в локальной системе пространственной привязки.
 type: docs
-weight: 2060
+weight: 2070
 url: /ru/net/aspose.gis.spatialreferencing/localdatum/
 ---
 ## LocalDatum class
@@ -33,7 +33,7 @@ public class LocalDatum : IdentifiableObject
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

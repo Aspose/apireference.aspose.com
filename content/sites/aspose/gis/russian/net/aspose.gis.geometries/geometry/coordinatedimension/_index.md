@@ -1,14 +1,14 @@
 ---
 title: CoordinateDimension
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает количество координатных измерений для этогоGeometryaspose.gis.geometries/geometry.
+description: Получает количество координатных измерений для этогоGeometryaspose.gis.geometries/geometry .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/geometry/coordinatedimension/
 ---
 ## Geometry.CoordinateDimension property
 
-Получает количество координатных измерений для этого[`Geometry`](../../geometry).
+Получает количество координатных измерений для этого[`Geometry`](../../geometry) .
 
 ```csharp
 public int CoordinateDimension { get; }

@@ -1,14 +1,14 @@
 ---
 title: ParameterType
 second_title: Aspose.GIS for .NET API 参考
-description: 确定Projection./projection中的参数类型
+description: 确定参数的类型Projection./projection.
 type: docs
-weight: 2080
+weight: 2090
 url: /zh/net/aspose.gis.spatialreferencing/parametertype/
 ---
 ## ParameterType enumeration
 
-确定[`Projection`](../projection)中的参数类型。
+确定参数的类型[`Projection`](../projection).
 
 ```csharp
 public enum ParameterType

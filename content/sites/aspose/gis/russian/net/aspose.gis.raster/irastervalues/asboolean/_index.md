@@ -1,14 +1,14 @@
 ---
 title: AsBoolean
 second_title: Справочник по Aspose.GIS for .NET API
-description: Преобразует указанные данные диапазона в значениеbool.
+description: Преобразует данные указанного диапазона вbool значение.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.raster/irastervalues/asboolean/
 ---
 ## IRasterValues.AsBoolean method
 
-Преобразует указанные данные диапазона в значение`bool`.
+Преобразует данные указанного диапазона в`bool` значение.
 
 ```csharp
 public bool AsBoolean(int bandIndex = 0)
@@ -16,7 +16,7 @@ public bool AsBoolean(int bandIndex = 0)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bandIndex | Int32 | Индекс полосы. Нумерация начинается с 0. |
+| bandIndex | Int32 | Индекс группы. Нумерация начинается с 0. |
 
 ### Возвращаемое значение
 

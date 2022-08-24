@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по Aspose.GIS for .NET API
-description: СоздаетVectorMapLayeraspose.gis.rendering/vectormaplayerс символизатором по умолчанию и добавляет его на карту. Слои отображаются в порядке добавления.
+description: СоздаетVectorMapLayeraspose.gis.rendering/vectormaplayer с символизатором по умолчанию и добавляет его на карту. Слои рендерятся в порядке добавления.
 type: docs
 weight: 110
 url: /ru/net/aspose.gis.rendering/map/add/
 ---
 ## Add(VectorLayer, bool) {#add_7}
 
-Создает[`VectorMapLayer`](../../vectormaplayer)с символизатором по умолчанию и добавляет его на карту. Слои отображаются в порядке добавления.
+Создает[`VectorMapLayer`](../../vectormaplayer) с символизатором по умолчанию и добавляет его на карту. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(VectorLayer layer, bool keepOpen = false)
@@ -17,13 +17,13 @@ public void Add(VectorLayer layer, bool keepOpen = false)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer). |
-| keepOpen | Boolean | `true`чтобы оставить векторный слой открытым после[`Map`](../../map)объект утилизируется; `false`для удаления слоя. |
+| keepOpen | Boolean | `true` оставить векторный слой открытым после[`Map`](../../map) объект удален; `false` чтобы удалить слой. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень`null`. |
+| ArgumentNullException | Слой`null`. |
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public void Add(VectorLayer layer, bool keepOpen = false)
 
 ## Add(VectorLayer, VectorSymbolizer, bool) {#add_6}
 
-Создает и добавляет на карту[`VectorMapLayer`](../../vectormaplayer). Слои отображаются в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = false)
@@ -46,13 +46,13 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = 
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer). |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
-| keepOpen | Boolean | `true`чтобы оставить векторный слой открытым после[`Map`](../../map)объект утилизируется; `false`для удаления слоя. |
+| keepOpen | Boolean | `true` оставить векторный слой открытым после[`Map`](../../map) объект удален; `false` чтобы удалить слой. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень`null`. |
+| ArgumentNullException | Слой`null`. |
 
 ### Смотрите также
 
@@ -66,7 +66,7 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = 
 
 ## Add(VectorLayer, VectorSymbolizer, Labeling, bool) {#add_5}
 
-Создает и добавляет на карту[`VectorMapLayer`](../../vectormaplayer). Слои отображаются в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labeling, 
@@ -77,14 +77,14 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labelin
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer). |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
-| labeling | Labeling | Надписи, используемые для надписывания объектов в слое. Если`null`, по умолчанию будет использоваться[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling). |
-| keepOpen | Boolean | `true`чтобы оставить слой открытым после[`Map`](../../map)объект удален; в противном случае`false`. |
+| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , дефолт[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) будет использоваться. |
+| keepOpen | Boolean | `true` оставить слой открытым после[`Map`](../../map) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень`null`. |
+| ArgumentNullException | Слой`null`. |
 
 ### Смотрите также
 
@@ -99,7 +99,7 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labelin
 
 ## Add(FeaturesSequence) {#add}
 
-Создает и добавляет на карту[`VectorMapLayer`](../../vectormaplayer). Слои отображаются в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence)
@@ -107,13 +107,13 @@ public void Add(FeaturesSequence featuresSequence)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Последовательность объектов для представления с помощью[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Последовательность функций:`null`. |
+| ArgumentNullException | Последовательность функций`null`. |
 
 ### Смотрите также
 
@@ -126,7 +126,7 @@ public void Add(FeaturesSequence featuresSequence)
 
 ## Add(FeaturesSequence, VectorSymbolizer) {#add_1}
 
-Создает и добавляет на карту[`VectorMapLayer`](../../vectormaplayer). Слои отображаются в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
@@ -134,14 +134,14 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Последовательность объектов для представления с помощью[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer). |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Последовательность функций:`null`. |
+| ArgumentNullException | Последовательность функций`null`. |
 
 ### Смотрите также
 
@@ -155,7 +155,7 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
 
 ## Add(FeaturesSequence, VectorSymbolizer, Labeling) {#add_2}
 
-Создает и добавляет на карту[`VectorMapLayer`](../../vectormaplayer). Слои отображаются в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, Labeling labeling)
@@ -163,15 +163,15 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Последовательность объектов для представления с помощью[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer). |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. |
-| labeling | Labeling | Надписи, используемые для надписывания объектов в слое. Если`null`,[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling)будет использоваться. |
+| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` ,[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) будет использоваться. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Последовательность функций:`null`. |
+| ArgumentNullException | Последовательность функций`null`. |
 
 ### Смотрите также
 
@@ -186,7 +186,7 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, 
 
 ## Add(MapLayer) {#add_4}
 
-Добавляет слой на карту. Слои отображаются в порядке добавления.
+Добавляет слой на карту. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(MapLayer mapLayer)
@@ -200,7 +200,7 @@ public void Add(MapLayer mapLayer)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 
@@ -213,7 +213,7 @@ public void Add(MapLayer mapLayer)
 
 ## Add(RasterLayer, RasterColorizer, bool) {#add_3}
 
-Создает[`RasterMapLayer`](../../rastermaplayer)с колоризатором по умолчанию и добавляет его на карту.
+Создает[`RasterMapLayer`](../../rastermaplayer) с колоризатором по умолчанию и добавляет его на карту.
 
 ```csharp
 public void Add(RasterLayer layer, RasterColorizer colorizer = null, bool keepOpen = false)
@@ -222,14 +222,14 @@ public void Add(RasterLayer layer, RasterColorizer colorizer = null, bool keepOp
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | layer | RasterLayer | Векторный слой для представления[`RasterLayer`](../../../aspose.gis.raster/rasterlayer). |
-| colorizer | RasterColorizer | Колоризатор, используемый для рендеринга. Если`null`, используется раскрашиватель по умолчанию. |
-| keepOpen | Boolean | `true`чтобы оставить растровый слой открытым после[`Map`](../../map)объект утилизируется; `false`для удаления слоя. |
+| colorizer | RasterColorizer | Colorizer для использования для рендеринга. Если`null`, используется колоризатор по умолчанию. |
+| keepOpen | Boolean | `true` оставить растровый слой открытым после[`Map`](../../map) объект удален; `false` чтобы удалить слой. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень`null`. |
+| ArgumentNullException | Слой`null`. |
 
 ### Смотрите также
 

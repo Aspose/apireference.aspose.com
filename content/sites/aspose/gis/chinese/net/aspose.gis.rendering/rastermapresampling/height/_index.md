@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.GIS for .NET API 参考
-description: 以像素和列为单位指定地图上的光栅高度 如果该值设置为 0则自动计算高度默认值为0
+description: 以像素和列为单位指定地图上的栅格高度 如果该值设置为 0则会自动计算高度默认值为0
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering/rastermapresampling/height/
 ---
 ## RasterMapResampling.Height property
 
-以像素和列为单位指定地图上的光栅高度。 如果该值设置为 0，则自动计算高度。默认值为“0”。
+以像素和列为单位指定地图上的栅格高度。 如果该值设置为 0，则会自动计算高度。默认值为“0”。
 
 ```csharp
 public int Height { get; set; }

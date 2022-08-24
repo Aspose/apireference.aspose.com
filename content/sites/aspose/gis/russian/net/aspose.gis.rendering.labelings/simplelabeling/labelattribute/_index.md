@@ -1,14 +1,14 @@
 ---
 title: LabelAttribute
 second_title: Справочник по Aspose.GIS for .NET API
-description: Имя атрибута для использования в качестве источника меток. Игнорируется если установленоLabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpression. ЛибоLabelAttributeaspose.gis.rendering.labelings/simplelabeling/labelattributeлибоLabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpressionдолжен быть установлен перед рендерингом InvalidOperationExceptionв противном случае выбрасывается.
+description: Имя атрибута для использования в качестве источника меток. Игнорируется еслиLabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpression установлен. ЛибоLabelAttributeaspose.gis.rendering.labelings/simplelabeling/labelattribute или жеLabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpression необходимо установить перед рендерингом InvalidOperationException иначе бросается.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.rendering.labelings/simplelabeling/labelattribute/
 ---
 ## SimpleLabeling.LabelAttribute property
 
-Имя атрибута для использования в качестве источника меток. Игнорируется, если установлено[`LabelExpression`](../labelexpression). Либо`LabelAttribute`либо[`LabelExpression`](../labelexpression)должен быть установлен перед рендерингом; InvalidOperationExceptionв противном случае выбрасывается.
+Имя атрибута для использования в качестве источника меток. Игнорируется, если[`LabelExpression`](../labelexpression) установлен. Либо`LabelAttribute` или же[`LabelExpression`](../labelexpression) необходимо установить перед рендерингом; InvalidOperationException иначе бросается.
 
 ```csharp
 public string LabelAttribute { get; set; }

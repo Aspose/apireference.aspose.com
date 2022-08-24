@@ -1,14 +1,14 @@
 ---
 title: XmlResolver
 second_title: Справочник по Aspose.GIS for .NET API
-description: AXmlResolveraspose.gis.formats.gml/gmloptions/xmlresolverиспользуется для разрешения внешних ресурсов. По умолчанию используетсяXmlUrlResolver.
+description: АXmlResolveraspose.gis.formats.gml/gmloptions/xmlresolver используется для разрешения внешних ресурсов. По умолчаниюXmlUrlResolver .
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.formats.gml/gmloptions/xmlresolver/
 ---
 ## GmlOptions.XmlResolver property
 
-A`XmlResolver`используется для разрешения внешних ресурсов. По умолчанию используетсяXmlUrlResolver.
+А`XmlResolver` используется для разрешения внешних ресурсов. По умолчаниюXmlUrlResolver .
 
 ```csharp
 public XmlResolver XmlResolver { get; set; }

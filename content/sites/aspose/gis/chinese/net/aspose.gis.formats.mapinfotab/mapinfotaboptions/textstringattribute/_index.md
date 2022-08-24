@@ -16,7 +16,7 @@ public string TextStringAttribute { get; set; }
 
 ### 评论
 
-MapInfo 选项卡格式指定“文本”类型的图形对象。 'Text' 图形对象表示地图上的标签。我们将“文本”图形对象导出为 a[`Feature`](../../../aspose.gis/feature)和[`Polygon`](../../../aspose.gis.geometries/polygon)geometry这限制了标签。 标签文本导出为[`FeatureAttribute`](../../../aspose.gis/featureattribute)。 此属性指定用于导出标签文本的属性名称。 默认值为` "textstring"` 。
+MapInfo 选项卡格式指定“文本”类型的图形对象。 “文本”图形对象表示地图上的标签。我们将“文本”图形对象导出为 a[`Feature`](../../../aspose.gis/feature)和[`Polygon`](../../../aspose.gis.geometries/polygon)限制标签的几何图形。标签的 文本导出为[`FeatureAttribute`](../../../aspose.gis/featureattribute). 此属性指定用于导出标签文本的属性名称。 默认值为`“文本字符串”`.
 
 ### 也可以看看
 

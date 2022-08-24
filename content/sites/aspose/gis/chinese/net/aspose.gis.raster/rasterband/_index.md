@@ -3,7 +3,7 @@ title: RasterBand
 second_title: Aspose.GIS for .NET API 参考
 description: 包含有关栅格波段的数据
 type: docs
-weight: 1250
+weight: 1260
 url: /zh/net/aspose.gis.raster/rasterband/
 ---
 ## RasterBand class
@@ -18,7 +18,7 @@ public class RasterBand : IRasterBand
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RasterBand](rasterband)(BandTypes) | 创建[`RasterBand`](../rasterband)的实例。 |
+| [RasterBand](rasterband)(BandTypes) | 创建一个实例[`RasterBand`](../rasterband). |
 
 ## 特性
 
@@ -30,7 +30,7 @@ public class RasterBand : IRasterBand
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterband/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../aspose.gis.raster/rasterband/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

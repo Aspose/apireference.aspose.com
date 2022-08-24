@@ -3,7 +3,7 @@ title: ICircularString
 second_title: Aspose.GIS for .NET API 参考
 description: 多顶点曲线点之间有圆形插值
 type: docs
-weight: 850
+weight: 860
 url: /zh/net/aspose.gis.geometries/icircularstring/
 ---
 ## ICircularString interface
@@ -22,7 +22,7 @@ public interface ICircularString : ICurve, IEquatable<ICircularString>, IReadOnl
 
 ### 评论
 
-` CircularString` 由一个或多个圆弧段首尾相连。 前三个点定义了第一段。第一个点是弧的起点。 第二点是弧上除起点或终点之外的任何中间点。 第三点是弧的终点。后续弧仅由它们的中间点和终点定义， 因为起点隐含地定义为前一段的终点。
+的`圆串`由一个或多个首尾相连的圆弧段组成。 前三个点定义了第一段。第一个点是弧的起点。 第二个点是弧上除起点或终点之外的任何中间点。 第三点是弧的终点。后续弧仅由它们的中间点和终点定义， 作为起点隐含定义为前一段的终点。
 
 ### 也可以看看
 

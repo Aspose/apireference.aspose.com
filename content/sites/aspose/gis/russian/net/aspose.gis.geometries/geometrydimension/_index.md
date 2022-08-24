@@ -1,14 +1,14 @@
 ---
 title: GeometryDimension
 second_title: Справочник по Aspose.GIS for .NET API
-description: Топологическая размерность aGeometry./geometry.
+description: Топологическая размерностьGeometry./geometry .
 type: docs
-weight: 830
+weight: 840
 url: /ru/net/aspose.gis.geometries/geometrydimension/
 ---
 ## GeometryDimension enumeration
 
-Топологическая размерность a[`Geometry`](../geometry).
+Топологическая размерность[`Geometry`](../geometry) .
 
 ```csharp
 public enum GeometryDimension
@@ -18,7 +18,7 @@ public enum GeometryDimension
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Point | `0` | 0-мерная (точка). |
+| Point | `0` | 0-мерное (точка). |
 | Line | `1` | 1-мерный (линия). |
 | Surface | `2` | 2-мерный (поверхность). |
 

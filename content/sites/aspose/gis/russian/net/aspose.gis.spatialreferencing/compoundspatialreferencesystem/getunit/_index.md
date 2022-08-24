@@ -1,14 +1,14 @@
 ---
 title: GetUnit
 second_title: Справочник по Aspose.GIS for .NET API
-description: GetUnitaspose.gis.spatialreferencing/unitизмерения.
+description: ПолучитьUnitaspose.gis.spatialreferencing/unitразмера.
 type: docs
 weight: 140
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/getunit/
 ---
 ## CompoundSpatialReferenceSystem.GetUnit method
 
-Get[`Unit`](../../unit)измерения.
+Получить[`Unit`](../../unit)размера.
 
 ```csharp
 public override Unit GetUnit(int dimension)
@@ -16,7 +16,7 @@ public override Unit GetUnit(int dimension)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dimension | Int32 | Номер измерения. |
+| dimension | Int32 | Количество измерений. |
 
 ### Возвращаемое значение
 
@@ -26,7 +26,7 @@ public override Unit GetUnit(int dimension)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension*меньше 0 или больше или равно[`DimensionsCount`](../dimensionscount) |
+| ArgumentOutOfRangeException | *dimension* меньше 0 или больше или равно[`DimensionsCount`](../dimensionscount) |
 
 ### Смотрите также
 

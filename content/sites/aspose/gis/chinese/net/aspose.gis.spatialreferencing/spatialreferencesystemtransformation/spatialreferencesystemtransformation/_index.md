@@ -17,8 +17,8 @@ public SpatialReferenceSystemTransformation(SpatialReferenceSystem sourceSrs,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourceSrs | SpatialReferenceSystem | SourceSpatialReferenceSystem。 |
-| targetSrs | SpatialReferenceSystem | 目标SpatialReferenceSystem。 |
+| sourceSrs | SpatialReferenceSystem | 资源[`SpatialReferenceSystem`](../../spatialreferencesystem). |
+| targetSrs | SpatialReferenceSystem | 目标[`SpatialReferenceSystem`](../../spatialreferencesystem). |
 
 ### 例外
 

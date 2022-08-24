@@ -1,14 +1,14 @@
 ---
 title: VerticalAnchor
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает сторону которая должна быть выровнена по вертикали.
+description: Указывает сторону для выравнивания по вертикали.
 type: docs
-weight: 1870
+weight: 1880
 url: /ru/net/aspose.gis.rendering.symbolizers/verticalanchor/
 ---
 ## VerticalAnchor enumeration
 
-Указывает сторону, которая должна быть выровнена по вертикали.
+Указывает сторону для выравнивания по вертикали.
 
 ```csharp
 public enum VerticalAnchor

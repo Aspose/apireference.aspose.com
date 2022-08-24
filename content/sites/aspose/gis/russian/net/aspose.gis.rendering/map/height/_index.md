@@ -18,7 +18,7 @@ public Measurement Height { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | [`Unit`](../../measurement/unit)значенияMapUnitsилиMetersOnEarth. |
+| ArgumentException | [`Unit`](../../measurement/unit) значенияMapUnits или жеMetersOnEarth . |
 | ArgumentOutOfRangeException | Значение отрицательное или нулевое. |
 
 ### Смотрите также

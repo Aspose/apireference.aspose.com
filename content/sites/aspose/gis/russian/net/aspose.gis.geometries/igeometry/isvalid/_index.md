@@ -1,14 +1,14 @@
 ---
 title: IsValid
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает значение указывающее допустим ли этот экземпляр.
+description: Получает значение указывающее является ли этот экземпляр допустимым.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.geometries/igeometry/isvalid/
 ---
 ## IGeometry.IsValid property
 
-Получает значение, указывающее, допустим ли этот экземпляр.
+Получает значение, указывающее, является ли этот экземпляр допустимым.
 
 ```csharp
 public bool IsValid { get; }

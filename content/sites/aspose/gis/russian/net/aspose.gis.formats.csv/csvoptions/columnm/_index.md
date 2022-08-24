@@ -1,14 +1,14 @@
 ---
 title: ColumnM
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает имя столбца содержащего значение координаты M. По умолчаниюnull.
+description: Получает или задает имя столбца содержащего значение координаты M. Значение по умолчаниюnull .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.csv/csvoptions/columnm/
 ---
 ## CsvOptions.ColumnM property
 
-Получает или задает имя столбца, содержащего значение координаты M. По умолчанию:`null`.
+Получает или задает имя столбца, содержащего значение координаты M. Значение по умолчанию:`null` .
 
 ```csharp
 public string ColumnM { get; set; }
@@ -16,7 +16,7 @@ public string ColumnM { get; set; }
 
 ### Примечания
 
-Если значение столбца равно`null`или &lt;see langword="empty string" /&gt; он будет исключен из геометрии.
+Если значение столбца`null` или же`empty string` он будет исключен из геометрии.
 
 ### Смотрите также
 

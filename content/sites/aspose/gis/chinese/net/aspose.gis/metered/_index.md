@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.GIS for .NET API 参考
 description: 提供设置计量键的方法
 type: docs
-weight: 1170
+weight: 1180
 url: /zh/net/aspose.gis/metered/
 ---
 ## Metered class
@@ -18,14 +18,14 @@ public class Metered
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit)() | 获取消费信用 |
+| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit)() | 获取消费额度 |
 | static [GetConsumptionQuantity](../../aspose.gis/metered/getconsumptionquantity)() | 获取消费文件大小 |
 | static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey)() | 删除以前设置的许可证 |
-| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey)(string, string) | 设置计量公钥和私钥 |
+| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey)(string, string) | 设置计量的公钥和私钥 |
 
 ### 例子
 
-在本例中，将尝试设置计量公钥和私钥
+在此示例中，将尝试设置计量的公钥和私钥
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: DoubleQuoteEscape
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает символ который используется в качестве управляющей буквы для двойных кавычек. По умолчанию .
+description: Получает или задает символ который используется в качестве управляющей буквы для двойных кавычек. Значение по умолчанию .
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.formats.csv/csvoptions/doublequoteescape/
 ---
 ## CsvOptions.DoubleQuoteEscape property
 
-Получает или задает символ, который используется в качестве управляющей буквы для двойных кавычек. По умолчанию '"'.
+Получает или задает символ, который используется в качестве управляющей буквы для двойных кавычек. Значение по умолчанию: '"'.
 
 ```csharp
 public char DoubleQuoteEscape { get; set; }

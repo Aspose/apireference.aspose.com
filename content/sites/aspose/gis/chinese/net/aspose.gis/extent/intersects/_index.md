@@ -16,18 +16,18 @@ public bool Intersects(Extent extent)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| extent | Extent | 另一个范围。 |
+| extent | Extent | 另一个程度。 |
 
 ### 返回值
 
-值，表示此范围是否与参数相交。
+值，指示此范围是否与参数相交。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这个范围和参数都不是`null`并且不相等。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这种程度和论点都不是`null`并且不等于彼此。 |
 
 ### 也可以看看
 
@@ -47,18 +47,18 @@ public bool Intersects(IGeometry geometry)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| geometry | IGeometry | 用于测试相交的几何 |
+| geometry | IGeometry | 用于测试相交的几何图形 |
 
 ### 返回值
 
-值，表示这个范围是否与论点相交。
+值，指示此范围是否与参数相交。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这个范围和参数都不是`null`并且不相等。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这种程度和论点都不是`null`并且不等于彼此。 |
 
 ### 也可以看看
 

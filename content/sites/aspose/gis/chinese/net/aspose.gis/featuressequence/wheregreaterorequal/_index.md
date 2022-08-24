@@ -18,11 +18,11 @@ public virtual FeaturesSequence WhereGreaterOrEqual<T>(string attributeName, T v
 | --- | --- |
 | T | 要比较的值的类型。 |
 | attributeName | 要过滤的属性。 |
-| value | 要比较的值。 |
+| value | 比较的价值。 |
 
 ### 返回值
 
-属性值大于或等于提供值的特征。
+属性值大于或等于提供值的要素。
 
 ### 例外
 

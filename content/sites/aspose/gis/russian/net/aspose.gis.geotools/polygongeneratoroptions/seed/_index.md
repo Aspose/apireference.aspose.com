@@ -3,7 +3,7 @@ title: Seed
 second_title: Справочник по Aspose.GIS for .NET API
 description: Число используемое для вычисления начального значения для последовательности псевдослучайных чисел.
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.gis.geotools/polygongeneratoroptions/seed/
 ---
 ## PolygonGeneratorOptions.Seed property

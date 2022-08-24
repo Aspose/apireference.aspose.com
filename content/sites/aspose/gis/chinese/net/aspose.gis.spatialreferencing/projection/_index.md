@@ -3,7 +3,7 @@ title: Projection
 second_title: Aspose.GIS for .NET API 参考
 description: 表示带参数的投影方法将经度纬度转换为xy
 type: docs
-weight: 2130
+weight: 2140
 url: /zh/net/aspose.gis.spatialreferencing/projection/
 ---
 ## Projection class
@@ -19,7 +19,7 @@ public class Projection : IdentifiableObject
 | 姓名 | 描述 |
 | --- | --- |
 | [AngularParametersUnit](../../aspose.gis.spatialreferencing/projection/angularparametersunit) { get; } | 用于角度参数的单位。 |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | 如果此对象标识符是 EPSG 标识符 - 返回其代码。否则 - 返回 -1。 |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | 如果此对象标识符是 EPSG 标识符 - 返回其代码。否则 - 返回 -1. |
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | 此可识别对象的标识符。 |
 | [LinearParametersUnit](../../aspose.gis.spatialreferencing/projection/linearparametersunit) { get; } | 用于线性参数的单位。 |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | 此对象的名称。 |
@@ -29,10 +29,10 @@ public class Projection : IdentifiableObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetParameterValue](../../aspose.gis.spatialreferencing/projection/getparametervalue)(string, ParameterType) | 获取具有此投影指定名称的参数。 |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/projection/isequivalent)(Projection) | 确定两个投影是等价的。等效投影以 相同的方式将（经度，纬度）映射到（x，y）。 |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | 返回代表当前对象的字符串。 |
-| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue)(string, ParameterType) | 获取具有此投影指定名称的参数。如果没有这样的参数 - 返回`null`。 |
+| [GetParameterValue](../../aspose.gis.spatialreferencing/projection/getparametervalue)(string, ParameterType) | 获取此投影的指定名称的参数。 |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/projection/isequivalent)(Projection) | 确定两个投影是等价的。等效投影将（经度，纬度）映射到（x，y）以 相同的方式。 |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | 返回表示当前对象的字符串。 |
+| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue)(string, ParameterType) | 获取此投影的指定名称的参数。如果没有这样的参数 - 返回`null`. |
 
 ### 也可以看看
 

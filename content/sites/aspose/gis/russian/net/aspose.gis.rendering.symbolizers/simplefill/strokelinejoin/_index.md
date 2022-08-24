@@ -1,14 +1,14 @@
 ---
 title: StrokeLineJoin
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет способ отображения линий на пересечении сегментов линий.
+description: Определяет способ отображения линий на пересечении линейных сегментов.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.rendering.symbolizers/simplefill/strokelinejoin/
 ---
 ## SimpleFill.StrokeLineJoin property
 
-Определяет способ отображения линий на пересечении сегментов линий.
+Определяет способ отображения линий на пересечении линейных сегментов.
 
 ```csharp
 public LineJoin StrokeLineJoin { get; set; }

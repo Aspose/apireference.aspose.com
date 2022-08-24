@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает строку представляющую текущий объект.
+description: Возвращает строку которая представляет текущий объект.
 type: docs
 weight: 200
 url: /ru/net/aspose.gis.raster/rasterlayer/tostring/
 ---
 ## RasterLayer.ToString method
 
-Возвращает строку, представляющую текущий объект.
+Возвращает строку, которая представляет текущий объект.
 
 ```csharp
 public override string ToString()

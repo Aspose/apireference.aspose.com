@@ -1,14 +1,14 @@
 ---
 title: AngularUnit
 second_title: Aspose.GIS for .NET API 参考
-description: 单位用于角度尺寸在此 SRS 中
+description: 单位用于角度尺寸在此 SRS.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/angularunit/
 ---
 ## GeographicSpatialReferenceSystem.AngularUnit property
 
-单位，用于角度尺寸，在此 SRS 中。
+单位，用于角度尺寸，在此 SRS.
 
 ```csharp
 public abstract Unit AngularUnit { get; }

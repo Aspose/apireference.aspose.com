@@ -3,7 +3,7 @@ title: GeocentricAxisesOrder
 second_title: Справочник по Aspose.GIS for .NET API
 description: Представляет порядок осей в геоцентрической SRS.
 type: docs
-weight: 1970
+weight: 1980
 url: /ru/net/aspose.gis.spatialreferencing/geocentricaxisesorder/
 ---
 ## GeocentricAxisesOrder enumeration

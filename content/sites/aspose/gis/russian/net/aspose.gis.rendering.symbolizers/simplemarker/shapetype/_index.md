@@ -1,14 +1,14 @@
 ---
 title: ShapeType
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает форму маркера.
+description: Определяет форму маркера.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.rendering.symbolizers/simplemarker/shapetype/
 ---
 ## SimpleMarker.ShapeType property
 
-Задает форму маркера.
+Определяет форму маркера.
 
 ```csharp
 public MarkerShapeType ShapeType { get; set; }

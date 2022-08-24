@@ -21,16 +21,16 @@ public abstract VectorLayer OpenLayer(string name, DriverOptions options = null)
 
 ### 返回值
 
-图层打开以供读取。
+图层打开以供阅读。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 指定名称的层不存在；&lt;cr /&gt; 选项对象此数据集的类型不正确。 |
+| ArgumentException | 指定名称的图层不存在； 选项对象对此数据集的类型不正确。 |
 | ArgumentException | 选项对象对此数据集的类型不正确。 |
-| ArgumentNullException | 名称是`null`。 |
-| [GisException](../../gisexception) | 从图层读取特征时出错。 |
+| ArgumentNullException | 名字是`null`. |
+| [GisException](../../gisexception) | 从图层读取要素时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看

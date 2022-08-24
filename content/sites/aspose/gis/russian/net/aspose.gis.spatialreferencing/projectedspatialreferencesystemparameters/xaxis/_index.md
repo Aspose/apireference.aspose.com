@@ -1,14 +1,14 @@
 ---
 title: XAxis
 second_title: Справочник по Aspose.GIS for .NET API
-description: Ось описывающая X горизонтальное измерение. По умолчанию используется ось с восточным направлением.
+description: Ось описывающая размер X горизонтальный. По умолчанию используется ось с восточным направлением.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/
 ---
 ## ProjectedSpatialReferenceSystemParameters.XAxis property
 
-Ось, описывающая X (горизонтальное) измерение. По умолчанию используется ось с восточным направлением.
+Ось, описывающая размер X (горизонтальный). По умолчанию используется ось с восточным направлением.
 
 ```csharp
 public Axis XAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis XAxis { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Выброшено из установщика, если направление оси не равноEastилиWest. |
+| ArgumentException | Выбрасывается из сеттера, если направление оси не заданоEast или жеWest . |
 
 ### Смотрите также
 

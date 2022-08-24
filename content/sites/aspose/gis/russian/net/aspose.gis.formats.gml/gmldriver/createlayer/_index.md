@@ -17,7 +17,7 @@ public VectorLayer CreateLayer(string path, GmlOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | GmlOptions | Опции драйвера. |
+| options | GmlOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -51,7 +51,7 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета. |
 
 ### Возвращаемое значение
@@ -88,7 +88,7 @@ public VectorLayer CreateLayer(string path, GmlOptions options,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | GmlOptions | Опции драйвера. |
+| options | GmlOptions | Параметры, зависящие от драйвера. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета. |
 
 ### Возвращаемое значение

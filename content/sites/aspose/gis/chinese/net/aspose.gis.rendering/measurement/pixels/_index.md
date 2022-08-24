@@ -1,14 +1,14 @@
 ---
 title: Pixels
 second_title: Aspose.GIS for .NET API 参考
-description: 返回 Measurement 的新实例表示长度以像素为单位
+description: 返回一个新的实例测量表示以像素为单位的长度
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering/measurement/pixels/
 ---
 ## Measurement.Pixels method
 
-返回` Measurement` 的新实例，表示长度（以像素为单位）。
+返回一个新的实例`测量`表示以像素为单位的长度。
 
 ```csharp
 public static Measurement Pixels(double value)
@@ -20,7 +20,7 @@ public static Measurement Pixels(double value)
 
 ### 返回值
 
-` 测量` 类的新实例。
+的新实例`测量`班级。
 
 ### 也可以看看
 

@@ -26,9 +26,9 @@ public VectorLayer OpenLayer(string path)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также
@@ -60,9 +60,9 @@ public VectorLayer OpenLayer(AbstractPath path)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также
@@ -86,7 +86,7 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -97,9 +97,9 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также
@@ -123,7 +123,7 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -134,9 +134,9 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также

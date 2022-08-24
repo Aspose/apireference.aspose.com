@@ -17,14 +17,14 @@ public RasterMapLayer(RasterLayer layer, RasterColorizer colorizer = null, bool 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | layer | RasterLayer | 栅格图层。 |
-| colorizer | RasterColorizer | 用于渲染层的符号器。如果`null`，将使用默认着色器。 |
-| keepOpen | Boolean | `true`之后让图层保持打开状态[`VectorMapLayer`](../../vectormaplayer) 对象被处置； 否则， `false`。 |
+| colorizer | RasterColorizer | 用于渲染图层的符号器。如果`null`，将使用默认着色器。 |
+| keepOpen | Boolean | `true`之后让图层保持打开状态[`VectorMapLayer`](../../vectormaplayer)对象被处置；否则，`false`. |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 层是`null`。 |
+| ArgumentNullException | 层是`null`. |
 
 ### 也可以看看
 

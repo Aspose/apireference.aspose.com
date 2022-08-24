@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Aspose.GIS for .NET API 参考
-description: 实现运算符
+description: 实现  运算符
 type: docs
 weight: 230
 url: /zh/net/aspose.gis/extent/op_equality/
 ---
 ## Extent Equality operator
 
-实现“==”运算符。
+实现 '==' 运算符。
 
 ```csharp
 public static bool operator ==(Extent left, Extent right)
@@ -16,12 +16,12 @@ public static bool operator ==(Extent left, Extent right)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Extent | 第一个参数。 |
-| right | Extent | 第二个参数。 |
+| left | Extent | 第一个论点。 |
+| right | Extent | 第二个论点。 |
 
 ### 返回值
 
-表示参数是否相等的值。
+指示参数是否相等的值。
 
 ### 也可以看看
 

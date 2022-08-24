@@ -3,7 +3,7 @@ title: BandTypes
 second_title: Aspose.GIS for .NET API 参考
 description: 栅格波段的类型
 type: docs
-weight: 1210
+weight: 1220
 url: /zh/net/aspose.gis.raster/bandtypes/
 ---
 ## BandTypes enumeration
@@ -18,18 +18,18 @@ public enum BandTypes
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| RawBits | `0` | 未知波段类型。有关值，请参见[`AsRawBits`](../irastervalues/asrawbits)。 |
-| Bit | `1` | 1 位。它被称为Boolean。 |
-| SByte | `2` | 8 位有符号整数。它被称为SByte。 |
-| Byte | `3` | 8 位无符号整数。它被称为Byte。 |
-| Short | `4` | 16 位有符号整数。它被称为Int16。 |
-| UShort | `5` | 16 位无符号整数。它被称为UInt16。 |
-| Integer | `6` | 32 位整数。它被称为Int32。 |
-| UInteger | `7` | 32 位无符号整数。它被称为UInt32。 |
-| Long | `8` | 64 位整数。它被称为Int64。 |
-| ULong | `9` | 64 位无符号整数。它被称为UInt64。 |
-| Float | `10` | 64 位浮点数。漂浮。它被称为Single。 |
-| Double | `11` | 64 位浮点数。它被称为Double。 |
+| RawBits | `0` | 未知的波段类型。看[`AsRawBits`](../irastervalues/asrawbits)为价值观。 |
+| Bit | `1` | 1 位。它被称为Boolean. |
+| SByte | `2` | 位有符号整数。它被称为SByte. |
+| Byte | `3` | 位无符号整数。它被称为Byte. |
+| Short | `4` | 16 位有符号整数。它被称为Int16. |
+| UShort | `5` | 16 位无符号整数。它被称为UInt16. |
+| Integer | `6` | 32 位整数。它被称为Int32. |
+| UInteger | `7` | 32 位无符号整数。它被称为UInt32. |
+| Long | `8` | 64 位整数。它被称为Int64. |
+| ULong | `9` | 64 位无符号整数。它被称为UInt64. |
+| Float | `10` | 64 位浮点数。漂浮。它被称为Single. |
+| Double | `11` | 64 位浮点数。它被称为Double. |
 
 ### 也可以看看
 

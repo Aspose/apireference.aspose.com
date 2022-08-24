@@ -3,7 +3,7 @@ title: GeometryOperations
 second_title: Aspose.GIS for .NET API 参考
 description: 几何操作类为几何提供额外的地理处理算法
 type: docs
-weight: 710
+weight: 720
 url: /zh/net/aspose.gis.geotools/geometryoperations/
 ---
 ## GeometryOperations class
@@ -18,15 +18,15 @@ public static class GeometryOperations
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [CloseLinearRing](../../aspose.gis.geotools/geometryoperations/closelinearring)(IGeometry) | 如果需要，关闭环中的几何段。 |
+| static [CloseLinearRing](../../aspose.gis.geotools/geometryoperations/closelinearring)(IGeometry) | 如果需要，关闭环中的几何线段。 |
 | static [CreateMidpoints](../../aspose.gis.geotools/geometryoperations/createmidpoints)(IGeometry) | 通过在每个段的中间添加一个新点来创建中点。 |
-| static [DeleteNearPoints](../../aspose.gis.geotools/geometryoperations/deletenearpoints)(IGeometry, NearPointsCleanerOptions) | 删除距离太近的点。 |
+| static [DeleteNearPoints](../../aspose.gis.geotools/geometryoperations/deletenearpoints)(IGeometry, NearPointsCleanerOptions) | 删除彼此太近的点。 |
 | static [OrderGeometryCollection](../../aspose.gis.geotools/geometryoperations/ordergeometrycollection)(IGeometry) | 按类型排序几何集合到四个集合（点、线、多边形和其他类型） |
-| static [SimplifySegments](../../aspose.gis.geotools/geometryoperations/simplifysegments)(IGeometry, SimplifySegmentsOptions) | 删除位于同一段的点。 |
+| static [SimplifySegments](../../aspose.gis.geotools/geometryoperations/simplifysegments)(IGeometry, SimplifySegmentsOptions) | 删除位于同一段上的点。 |
 
 ### 评论
 
-其他算法可以在Gis的方法中找到。几何。几何
+其他算法你可以在方法中找到[`Geometry`](../../aspose.gis.geometries/geometry)
 
 ### 也可以看看
 

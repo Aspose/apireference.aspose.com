@@ -1,14 +1,14 @@
 ---
 title: TargetSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API 参考
-description: 指定目标空间参考 如果设置为null则使用默认或源空间参考
+description: 指定目标空间参考 如果设置为null使用默认或源空间参考
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.raster/warpoptions/targetspatialreferencesystem/
 ---
 ## WarpOptions.TargetSpatialReferenceSystem property
 
-指定目标空间参考。 如果设置为`null`，则使用默认或源空间参考。
+指定目标空间参考。 如果设置为`null`，使用默认或源空间参考。
 
 ```csharp
 public SpatialReferenceSystem TargetSpatialReferenceSystem { get; set; }

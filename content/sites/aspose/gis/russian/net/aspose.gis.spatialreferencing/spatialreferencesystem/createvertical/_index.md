@@ -18,11 +18,11 @@ public static VerticalSpatialReferenceSystem CreateVertical(string name,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя SRS. Если`null`. |
+| name | String | Название СРС. Если`null` . |
 | verticalDatum | VerticalDatum | Datum для использования в SRS. |
-| verticalUnit | Unit | Единица, используемая в SRS. Если`null`,[`Meter`](../../unit/meter)будет использоваться. |
-| verticalAxis | Axis | Ось с направлением "вверх" или "вниз", для использования в SRS. Если`null`, будет использоваться ось с направлением вверх. |
-| identifier | Identifier | Идентификатор, который будет прикреплен к SRS. Присоединение идентификатора не изменит другие параметры SRS. Вы должны обеспечить согласованность идентификатора и параметров SRS. |
+| verticalUnit | Unit | Единица, используемая в SRS. Если`null` ,[`Meter`](../../unit/meter) будет использоваться. |
+| verticalAxis | Axis | Ось с направлением "вверх" или "вниз", для использования в SRS. Если`null` , будет использоваться ось с направлением вверх. |
+| identifier | Identifier | Идентификатор, который будет прикреплен к SRS. Добавление идентификатора не изменит другие параметры SRS. Вы сами должны обеспечить согласованность идентификатора и параметров SRS. |
 
 ### Возвращаемое значение
 
@@ -32,7 +32,7 @@ public static VerticalSpatialReferenceSystem CreateVertical(string name,
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | *verticalAxis*направление не вверх или вниз. |
+| InvalidOperationException | *verticalAxis* направление не вверх или вниз. |
 | ArgumentNullException | Некоторые из обязательных параметров имеют значение null. |
 
 ### Смотрите также

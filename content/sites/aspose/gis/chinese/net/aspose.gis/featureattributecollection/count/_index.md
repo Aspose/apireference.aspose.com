@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.GIS for .NET API 参考
-description: 获取Featureaspose.gis/feature中的属性数量
+description: 获取一个属性的个数Featureaspose.gis/feature.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/featureattributecollection/count/
 ---
 ## FeatureAttributeCollection.Count property
 
-获取[`Feature`](../../feature)中的属性数量。
+获取一个属性的个数[`Feature`](../../feature).
 
 ```csharp
 public int Count { get; }
@@ -16,7 +16,7 @@ public int Count { get; }
 
 ### 适当的价值
 
-[`Feature`](../../feature)中的属性数量.
+一个属性的个数[`Feature`](../../feature).
 
 ### 也可以看看
 

@@ -20,19 +20,19 @@ public bool Crosses(IGeometry other)
 
 ### Возвращаемое значение
 
-`true`если эта геометрия "пространственно пересекает" другую геометрию.`false`иначе.
+`true` если эта геометрия «пространственно пересекает» другую геометрию.`false` иначе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Одна из геометрий недействительна, поэтому операция не может быть завершена. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Примечания
 
-Этот метод проверяет, являются ли геометрии пересечениями с точки зрения матрицы пересечения DE-9IM. Две геометрии пересекаются, если они имеют некоторые, но не все внутренние точки, общие и размерность пересечения меньше, чем размерность хотя бы одной из геометрий. То есть:два[`LineString`](../../linestring)s пересекаются, если они образуют букву «X», LineString и[`Polygon`](../../polygon) cross, если LineString проходит внутри полигона. См. Спецификацию простых функций OpenGIS для получения более подробной информации о DE-9IM и отношении «пространственных пересечений».
+Этот метод проверяет, являются ли геометрии пересечениями с точки зрения матрицы пересечения DE-9IM. геометрии. То есть: два[`LineString`](../../linestring) s крест, если они образуют букву «X», LineString и[`Polygon`](../../polygon) cross, если LineString проходит внутри полигона. См. спецификацию простых функций OpenGIS для получения более подробной информации о DE-9IM и отношении «пространственно пересекает».
 
 ### Смотрите также
 

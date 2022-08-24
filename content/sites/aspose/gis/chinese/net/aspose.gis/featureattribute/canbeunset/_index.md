@@ -16,7 +16,7 @@ public bool CanBeUnset { get; set; }
 
 ### 适当的价值
 
-`true`如果可以取消设置此实例；否则，`false`。
+`true`如果可以取消设置此实例；否则，`false`.
 
 ### 例外
 

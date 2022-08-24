@@ -1,14 +1,14 @@
 ---
 title: SavingOptions
 second_title: Aspose.GIS for .NET API 参考
-description: 将FeaturesSequence./featuressequence保存到文件的选项
+description: 保存选项FeaturesSequence./featuressequence归档.
 type: docs
-weight: 1900
+weight: 1910
 url: /zh/net/aspose.gis/savingoptions/
 ---
 ## SavingOptions class
 
-将[`FeaturesSequence`](../featuressequence)保存到文件的选项。
+保存选项[`FeaturesSequence`](../featuressequence)归档.
 
 ```csharp
 public class SavingOptions
@@ -24,7 +24,7 @@ public class SavingOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter) { get; set; } | 属性的自定义转换器。 如果不是`null`，则为源层的每个属性调用它，并在必要时对其进行更改。 |
+| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter) { get; set; } | 属性的自定义转换器。 如果不是`null`，为源层的每个属性调用它，并在必要时对其进行更改。 |
 | [DriverOptions](../../aspose.gis/savingoptions/driveroptions) { get; set; } | 输出层的驱动程序特定选项。 |
 | [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem) { get; set; } | 输出层的驱动程序特定选项。 |
 

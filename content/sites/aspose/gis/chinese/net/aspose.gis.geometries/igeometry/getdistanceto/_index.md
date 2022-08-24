@@ -1,14 +1,14 @@
 ---
 title: GetDistanceTo
 second_title: Aspose.GIS for .NET API 参考
-description: 计算此几何图形与指定几何图形之间的最小距离
+description: 计算此几何与指定几何之间的最小距离
 type: docs
 weight: 230
 url: /zh/net/aspose.gis.geometries/igeometry/getdistanceto/
 ---
 ## IGeometry.GetDistanceTo method
 
-计算此几何图形与指定几何图形之间的最小距离。
+计算此几何与指定几何之间的最小距离。
 
 ```csharp
 public double GetDistanceTo(IGeometry other)
@@ -16,18 +16,18 @@ public double GetDistanceTo(IGeometry other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | IGeometry | 要查找距离的几何图形。 |
+| other | IGeometry | 寻找距离的几何图形。 |
 
 ### 返回值
 
-如果两个几何都不是[`IsEmpty`](../isempty)- 距离在几何的最近点之间。 如果至少有一个几何为空，则返回 -1。
+如果两个几何都不是[`IsEmpty`](../isempty) 几何图形的最近点之间的距离。 如果至少一个几何图形为空，则返回 -1。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 也可以看看
 

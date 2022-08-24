@@ -1,14 +1,14 @@
 ---
 title: AddPoint
 second_title: Справочник по Aspose.GIS for .NET API
-description: Добавляет точку в конец циклической строки.
+description: Добавляет точку в конец кольцевой строки.
 type: docs
 weight: 120
 url: /ru/net/aspose.gis.geometries/circularstring/addpoint/
 ---
 ## AddPoint(IPoint) {#addpoint}
 
-Добавляет точку в конец циклической строки.
+Добавляет точку в конец кольцевой строки.
 
 ```csharp
 public void AddPoint(IPoint point)
@@ -16,15 +16,15 @@ public void AddPoint(IPoint point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | IPoint | Добавляемая точка. |
+| point | IPoint | Пункт, который нужно добавить. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | Аргумент пуст (его[`IsEmpty`](../../igeometry/isempty)is`true`). |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)этого геометрия и[`SpatialReferenceSystem`](../spatialreferencesystem)аргумента не являются`null` и не равны друг другу . |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | Аргумент пуст (его[`IsEmpty`](../../igeometry/isempty) является`true` ). |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) этой геометрии и[`SpatialReferenceSystem`](../spatialreferencesystem) аргумента оба не`null` и не равны друг другу. |
 
 ### Смотрите также
 
@@ -37,7 +37,7 @@ public void AddPoint(IPoint point)
 
 ## AddPoint(double, double) {#addpoint_1}
 
-Добавляет точку в конец циклической строки.
+Добавляет точку в конец кольцевой строки.
 
 ```csharp
 public void AddPoint(double x, double y)
@@ -58,7 +58,7 @@ public void AddPoint(double x, double y)
 
 ## AddPoint(double, double, double) {#addpoint_2}
 
-Добавляет точку в конец циклической строки.
+Добавляет точку в конец кольцевой строки.
 
 ```csharp
 public void AddPoint(double x, double y, double z)
@@ -80,7 +80,7 @@ public void AddPoint(double x, double y, double z)
 
 ## AddPoint(double, double, double, double) {#addpoint_3}
 
-Добавляет точку в конец циклической строки.
+Добавляет точку в конец кольцевой строки.
 
 ```csharp
 public void AddPoint(double x, double y, double z, double m)
@@ -91,7 +91,7 @@ public void AddPoint(double x, double y, double z, double m)
 | x | Double | Значение координаты X. |
 | y | Double | Значение координаты Y. |
 | z | Double | Значение координаты Z. |
-| m | Double | Значение координаты M. |
+| m | Double | Значение координаты М. |
 
 ### Смотрите также
 

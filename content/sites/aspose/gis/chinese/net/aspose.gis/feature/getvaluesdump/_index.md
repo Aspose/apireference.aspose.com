@@ -1,14 +1,14 @@
 ---
 title: GetValuesDump
 second_title: Aspose.GIS for .NET API 参考
-description: 返回数组中所有属性的值 考虑使用GetValuesaspose.gis/feature/getvalues方法来避免额外的内存分配
+description: 返回数组中所有属性的值 考虑使用GetValuesaspose.gis/feature/getvalues避免额外内存分配的方法
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/feature/getvaluesdump/
 ---
 ## Feature.GetValuesDump method
 
-返回数组中所有属性的值。 考虑使用[`GetValues`](../getvalues)方法来避免额外的内存分配。
+返回数组中所有属性的值。 考虑使用[`GetValues`](../getvalues)避免额外内存分配的方法。
 
 ```csharp
 public object[] GetValuesDump(object defaultValue = null)
@@ -16,7 +16,7 @@ public object[] GetValuesDump(object defaultValue = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| defaultValue | Object | 属性值缺失（未设置）时返回的值。默认值为`null`。 考虑使用 'DBNull.Value' 来分隔 'unset' 和 '`null`' 值。 |
+| defaultValue | Object | 属性值缺失（未设置）时返回的值。默认值为`null`. 考虑使用 'DBNull.Value' 用于分隔 'unset' 和 '`null`值. |
 
 ### 返回值
 
@@ -26,12 +26,12 @@ public object[] GetValuesDump(object defaultValue = null)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| InvalidOperationException | 属性未锁定。 |
+| ArgumentNullException | 论据是`null`. |
+| InvalidOperationException | 该属性未锁定。 |
 
 ### 评论
 
-特征的值属性被复制到作为参数传递的值数组中。 对于未设置值的属性，返回指定的 'unsetValue' 参数。
+将要素的值属性复制到作为参数传递的值数组中。 对于未设置值的属性，返回指定的“未设置值”参数。
 
 ### 也可以看看
 

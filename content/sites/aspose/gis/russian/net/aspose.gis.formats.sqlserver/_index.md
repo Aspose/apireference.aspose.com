@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.SqlServer
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Пространство имен Aspose.Gis.Formats.SqlServer предоставляет классы для работы с SQL Server.
+description: Aspose.Gis.Formats.SqlServernamespace предоставляет классы для работы с SQL Server.
 type: docs
 weight: 160
 url: /ru/net/aspose.gis.formats.sqlserver/
 ---
-` Пространство имен Aspose.Gis.Formats.SqlServer` предоставляет классы для работы с SQL Server.
+`Aspose.Gis.Formats.SqlServer`namespace предоставляет классы для работы с SQL Server.
 
 ## Классы
 

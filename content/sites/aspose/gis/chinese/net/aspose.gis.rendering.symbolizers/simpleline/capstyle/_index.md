@@ -1,14 +1,14 @@
 ---
 title: CapStyle
 second_title: Aspose.GIS for .NET API 参考
-description: 指定如何在末端呈现线条
+description: 指定如何在其末端呈现线条
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering.symbolizers/simpleline/capstyle/
 ---
 ## SimpleLine.CapStyle property
 
-指定如何在末端呈现线条。
+指定如何在其末端呈现线条。
 
 ```csharp
 public CapStyle CapStyle { get; set; }

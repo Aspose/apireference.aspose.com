@@ -1,14 +1,14 @@
 ---
 title: CircularString
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаCircularStringaspose.gis.geometries/circularstring.
+description: Инициализирует новый экземплярCircularStringaspose.gis.geometries/circularstring класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/circularstring/circularstring/
 ---
 ## CircularString() {#constructor}
 
-Инициализирует новый экземпляр класса[`CircularString`](../../circularstring).
+Инициализирует новый экземпляр[`CircularString`](../../circularstring) класс.
 
 ```csharp
 public CircularString()
@@ -24,7 +24,7 @@ public CircularString()
 
 ## CircularString(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`CircularString`](../../circularstring).
+Инициализирует новый экземпляр[`CircularString`](../../circularstring) класс.
 
 ```csharp
 public CircularString(IEnumerable<IPoint> collection)
@@ -32,14 +32,14 @@ public CircularString(IEnumerable<IPoint> collection)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| коллекция | IEnumerable`1 | Коллекция очков. |
+| collection | IEnumerable`1 | Сбор очков. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| InvalidOperationException | Любая точка пуста (ее[`IsEmpty`](../../igeometry/isempty)is`правда`). |
+| ArgumentNullException | Аргумент`null`. |
+| InvalidOperationException | Любая точка пуста (ее[`IsEmpty`](../../igeometry/isempty) является`true`). |
 
 ### Смотрите также
 
@@ -52,7 +52,7 @@ public CircularString(IEnumerable<IPoint> collection)
 
 ## CircularString(ICircularString) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`CircularString`](../../circularstring).
+Инициализирует новый экземпляр[`CircularString`](../../circularstring) класс.
 
 ```csharp
 public CircularString(ICircularString other)
@@ -66,7 +66,7 @@ public CircularString(ICircularString other)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.GIS for .NET API 参考
 description: 提供许可组件的方法
 type: docs
-weight: 1160
+weight: 1170
 url: /zh/net/aspose.gis/license/
 ---
 ## License class
@@ -29,7 +29,7 @@ public class License
 
 ### 例子
 
-在本例中，将尝试查找名为 MyLicense.lic 的许可证文件在包含 组件的文件夹中 在包含调用程序集的文件夹中 在入口程序集的文件夹中，然后在调用程序集的嵌入资源中。
+在此示例中，将尝试在包含 组件的文件夹中，在包含调用程序集的文件夹中， 在条目程序集的文件夹中，然后在调用程序集的嵌入式资源。
 
 ```csharp
 [C#]

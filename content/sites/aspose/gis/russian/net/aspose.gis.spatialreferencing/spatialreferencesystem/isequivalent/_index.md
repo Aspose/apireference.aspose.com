@@ -1,14 +1,14 @@
 ---
 title: IsEquivalent
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет эквивалентен ли этот SRS другим SRS..
+description: Определяет эквивалентен ли этот SRS другим SRS. .
 type: docs
 weight: 220
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/isequivalent/
 ---
 ## IsEquivalent(SpatialReferenceSystem)
 
-Определяет, эквивалентен ли этот SRS другим SRS..
+Определяет, эквивалентен ли этот SRS другим SRS. .
 
 ```csharp
 public virtual bool IsEquivalent(SpatialReferenceSystem other)
@@ -16,7 +16,7 @@ public virtual bool IsEquivalent(SpatialReferenceSystem other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | SpatialReferenceSystem | Другие SRS. |
+| other | SpatialReferenceSystem | Другие СРС. |
 
 ### Возвращаемое значение
 
@@ -32,7 +32,7 @@ public virtual bool IsEquivalent(SpatialReferenceSystem other)
 
 ## IsEquivalent(SpatialReferenceSystem, SpatialReferenceSystem)
 
-Определяет эквивалентность двух SRS. Те же координаты эквивалентных SRS совпадают с тем же местом на Земле. Некоторые параметры эквивалентных SRS могут отличаться, например[`Name`](../../identifiableobject/name).
+Определяет эквивалентность двух SRS. Одни и те же координаты эквивалентных SRS совпадают с одним и тем же местом на Земле. Некоторые параметры эквивалентных SRS могут отличаться, например[`Name`](../../identifiableobject/name) .
 
 ```csharp
 public static bool IsEquivalent(SpatialReferenceSystem srs1, SpatialReferenceSystem srs2)
@@ -40,8 +40,8 @@ public static bool IsEquivalent(SpatialReferenceSystem srs1, SpatialReferenceSys
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srs1 | SpatialReferenceSystem | Первый SRS. |
-| srs2 | SpatialReferenceSystem | Второй SRS. |
+| srs1 | SpatialReferenceSystem | Первая СРС. |
+| srs2 | SpatialReferenceSystem | Второй СРС. |
 
 ### Возвращаемое значение
 

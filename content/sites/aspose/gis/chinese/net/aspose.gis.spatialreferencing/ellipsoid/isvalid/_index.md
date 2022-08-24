@@ -1,14 +1,14 @@
 ---
 title: IsValid
 second_title: Aspose.GIS for .NET API 参考
-description: 检测椭球是否有效其半长轴大于 0 且反向展平为正或等于 0
+description: 检测椭球是否有效其半长轴大于 0反展平为正或等于 0
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.spatialreferencing/ellipsoid/isvalid/
 ---
 ## Ellipsoid.IsValid property
 
-检测椭球是否有效:其半长轴大于 0 且反向展平为正或等于 0。
+检测椭球是否有效：其半长轴大于 0，反展平为正或等于 0。
 
 ```csharp
 public bool IsValid { get; }

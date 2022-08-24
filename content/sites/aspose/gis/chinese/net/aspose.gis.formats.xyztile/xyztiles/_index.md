@@ -1,14 +1,14 @@
 ---
 title: XyzTiles
 second_title: Aspose.GIS for .NET API 参考
-description: XyzTiles 提供对XyzTile对象的访问
+description: 一个 XyzTiles 提供访问XyzTile对象.
 type: docs
 weight: 670
 url: /zh/net/aspose.gis.formats.xyztile/xyztiles/
 ---
 ## XyzTiles class
 
-XyzTiles 提供对XyzTile对象的访问。
+一个 XyzTiles 提供访问XyzTile对象.
 
 ```csharp
 public sealed class XyzTiles : WebTiles
@@ -18,7 +18,7 @@ public sealed class XyzTiles : WebTiles
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XyzTiles](xyztiles)(XyzConnection) | 创建[`XyzTiles`](../xyztiles)的实例。 |
+| [XyzTiles](xyztiles)(XyzConnection) | 创建一个实例[`XyzTiles`](../xyztiles). |
 
 ## 方法
 

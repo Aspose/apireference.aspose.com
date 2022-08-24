@@ -24,7 +24,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### Примечания
 
-Для GeoJSON единственной поддерживаемой системой пространственной привязки является WGS84.
+Для GeoJSON единственная поддерживаемая система пространственной привязки — WGS84.
 
 ### Смотрите также
 

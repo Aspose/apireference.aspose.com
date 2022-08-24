@@ -1,14 +1,14 @@
 ---
 title: FeatureAttribute
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаFeatureAttributeaspose.gis/featureattribute.
+description: Инициализирует новый экземплярFeatureAttributeaspose.gis/featureattribute класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/featureattribute/featureattribute/
 ---
 ## FeatureAttribute(string, AttributeDataType) {#constructor}
 
-Инициализирует новый экземпляр класса[`FeatureAttribute`](../../featureattribute).
+Инициализирует новый экземпляр[`FeatureAttribute`](../../featureattribute) класс.
 
 ```csharp
 public FeatureAttribute(string name, AttributeDataType dataType)
@@ -30,7 +30,7 @@ public FeatureAttribute(string name, AttributeDataType dataType)
 
 ## FeatureAttribute(string, AttributeDataType, bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FeatureAttribute`](../../featureattribute).
+Инициализирует новый экземпляр[`FeatureAttribute`](../../featureattribute) класс.
 
 ```csharp
 public FeatureAttribute(string name, AttributeDataType dataType, bool canBeNull)
@@ -40,13 +40,13 @@ public FeatureAttribute(string name, AttributeDataType dataType, bool canBeNull)
 | --- | --- | --- |
 | name | String | Имя атрибута. |
 | dataType | AttributeDataType | Тип данных атрибута. |
-| canBeNull | Boolean | `true`если этот экземпляр может быть нулевым; в противном случае`false`. |
+| canBeNull | Boolean | `true` если этот экземпляр может быть нулевым; в противном случае,`false`. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Имя атрибута:`null`. |
+| ArgumentNullException | Имя атрибута`null`. |
 
 ### Смотрите также
 

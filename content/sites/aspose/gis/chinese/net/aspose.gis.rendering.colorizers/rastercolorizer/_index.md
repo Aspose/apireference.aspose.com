@@ -3,7 +3,7 @@ title: RasterColorizer
 second_title: Aspose.GIS for .NET API 参考
 description: 渲染光栅的着色器的抽象根类
 type: docs
-weight: 1420
+weight: 1430
 url: /zh/net/aspose.gis.rendering.colorizers/rastercolorizer/
 ---
 ## RasterColorizer class
@@ -18,7 +18,7 @@ public abstract class RasterColorizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null) { get; } | [`NullColorizer`](../nullcolorizer)不绘制任何内容并有效地跳过它所应用的单元格的渲染。 |
+| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null) { get; } | 的[`NullColorizer`](../nullcolorizer)不绘制任何内容并有效地跳过它所应用的单元格的渲染。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: HasPrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает имеет ли эта SRS нулевой меридиан. Это верно для любой географической проектируемой и геоцентрической СКИ.
+description: Возвращает имеет ли эта SRS нулевой меридиан. Это верно для каждой географической прогнозируемой и геоцентрической SRS.
 type: docs
 weight: 120
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/hasprimemeridian/
 ---
 ## SpatialReferenceSystem.HasPrimeMeridian property
 
-Возвращает, имеет ли эта SRS нулевой меридиан. Это верно для любой географической, проектируемой и геоцентрической СКИ.
+Возвращает, имеет ли эта SRS нулевой меридиан. Это верно для каждой географической, прогнозируемой и геоцентрической SRS.
 
 ```csharp
 public abstract bool HasPrimeMeridian { get; }

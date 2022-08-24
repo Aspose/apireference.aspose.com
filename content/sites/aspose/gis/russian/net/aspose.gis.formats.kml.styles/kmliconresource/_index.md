@@ -24,7 +24,7 @@ public class KmlIconResource
 
 | Имя | Описание |
 | --- | --- |
-| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href) { get; set; } | Указывает расположение ресурса в виде URL-адреса. Значение по умолчанию:`null`означает, что href отсутствует. |
+| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href) { get; set; } | Указывает расположение ресурса в виде URL-адреса. Значение по умолчанию:`null` означает, что href отсутствует. |
 
 ### Смотрите также
 

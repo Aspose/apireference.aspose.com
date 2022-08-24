@@ -32,13 +32,13 @@ public LineLabelPlacement(LineLabelPlacement other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | LineLabelPlacement | Другой[`LineLabelPlacement`](../../linelabelplacement)для копирования данных. |
+| other | LineLabelPlacement | Другой[`LineLabelPlacement`](../../linelabelplacement) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

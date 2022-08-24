@@ -22,7 +22,7 @@ public override IPoint GetPointOnSurface()
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 弯曲多边形无效，操作无法完成。 |
+| InvalidOperationException | 弯曲多边形无效，无法完成操作。 |
 
 ### 也可以看看
 

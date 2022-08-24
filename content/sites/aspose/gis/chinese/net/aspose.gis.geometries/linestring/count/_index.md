@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.GIS for .NET API 参考
-description: 获取LineStringaspose.gis.geometries/linestring中的点数
+description: 获取点数LineStringaspose.gis.geometries/linestring.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/linestring/count/
 ---
 ## LineString.Count property
 
-获取[`LineString`](../../linestring)中的点数。
+获取点数[`LineString`](../../linestring).
 
 ```csharp
 public int Count { get; }

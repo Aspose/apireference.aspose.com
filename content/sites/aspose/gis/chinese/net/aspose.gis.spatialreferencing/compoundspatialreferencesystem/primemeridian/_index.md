@@ -1,14 +1,14 @@
 ---
 title: PrimeMeridian
 second_title: Aspose.GIS for .NET API 参考
-description: 返回此 SRS 的本初子午线 如果Headaspose.gis.spatialreferencing/compoundspatialreferencesystem/head和Tail都有质数经络 - 返回头部的本初子午线
+description: 返回此 SRS 的本初子午线 如果两者都有Headaspose.gis.spatialreferencing/compoundspatialreferencesystem/head和Tailaspose.gis.spatialreferencing/compoundspatialreferencesystem/tail有本初子午线  返回头部的本初子午线
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/primemeridian/
 ---
 ## CompoundSpatialReferenceSystem.PrimeMeridian property
 
-返回此 SRS 的本初子午线。 如果[`Head`](../head)和Tail都有质数经络 - 返回头部的本初子午线。
+返回此 SRS 的本初子午线。 如果两者都有[`Head`](../head)和[`Tail`](../tail)有本初子午线 - 返回头部的本初子午线。
 
 ```csharp
 public override PrimeMeridian PrimeMeridian { get; }

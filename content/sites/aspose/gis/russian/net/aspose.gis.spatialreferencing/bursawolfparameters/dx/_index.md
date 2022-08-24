@@ -1,14 +1,14 @@
 ---
 title: Dx
 second_title: Справочник по Aspose.GIS for .NET API
-description: Dx в метрах.
+description: Дх в метрах.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/bursawolfparameters/dx/
 ---
 ## BursaWolfParameters.Dx property
 
-Dx в метрах.
+Дх в метрах.
 
 ```csharp
 public double Dx { get; }

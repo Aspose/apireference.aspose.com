@@ -1,14 +1,14 @@
 ---
 title: Fill
 second_title: Aspose.GIS for .NET API 参考
-description: 指定是否填充多边形默认值为true
+description: 指定是否填充多边形默认值为true.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/fill/
 ---
 ## KmlPolygonStyle.Fill property
 
-指定是否填充多边形。默认值为`true`。
+指定是否填充多边形。默认值为`true`.
 
 ```csharp
 public bool Fill { get; set; }

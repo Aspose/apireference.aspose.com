@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.GIS for .NET API
-description: Вычислить ширину пикселя.
+description: Вычислите ширину пикселя.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.raster/rastercellsize/width/
 ---
 ## RasterCellSize.Width property
 
-Вычислить ширину пикселя.
+Вычислите ширину пикселя.
 
 ```csharp
 public double Width { get; }

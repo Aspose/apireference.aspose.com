@@ -1,14 +1,14 @@
 ---
 title: GeographicDatum
 second_title: Aspose.GIS for .NET API 参考
-description: 地理基准将经度和纬度与地球上的特定位置联系起来
+description: 地理基准将经度和纬度与地球上的特定地点联系起来
 type: docs
-weight: 2010
+weight: 2020
 url: /zh/net/aspose.gis.spatialreferencing/geographicdatum/
 ---
 ## GeographicDatum class
 
-地理基准将经度和纬度与地球上的特定位置联系起来。
+地理基准将经度和纬度与地球上的特定地点联系起来。
 
 ```csharp
 public class GeographicDatum : IdentifiableObject
@@ -29,8 +29,8 @@ public class GeographicDatum : IdentifiableObject
 | static [Osgb36](../../aspose.gis.spatialreferencing/geographicdatum/osgb36) { get; } | OSGB 1936 基准。 |
 | static [Wgs72](../../aspose.gis.spatialreferencing/geographicdatum/wgs72) { get; } | WGS 72 基准。 |
 | static [Wgs84](../../aspose.gis.spatialreferencing/geographicdatum/wgs84) { get; } | WGS 84 基准。 |
-| [Ellipsoid](../../aspose.gis.spatialreferencing/geographicdatum/ellipsoid) { get; } | 椭球体，在此基准中用于近似地球。 |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | 如果此对象标识符是 EPSG 标识符 - 返回其代码。否则 - 返回 -1。 |
+| [Ellipsoid](../../aspose.gis.spatialreferencing/geographicdatum/ellipsoid) { get; } | 椭球体，在此基准面中用于近似地球。 |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | 如果此对象标识符是 EPSG 标识符 - 返回其代码。否则 - 返回 -1. |
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | 此可识别对象的标识符。 |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | 此对象的名称。 |
 | [ToWgs84Parameters](../../aspose.gis.spatialreferencing/geographicdatum/towgs84parameters) { get; } | BursaWolfParamters 可用于将此基准中的坐标转换为 WGS84 基准中的坐标。 |
@@ -39,9 +39,9 @@ public class GeographicDatum : IdentifiableObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent)(GeographicDatum) | 确定两个基准是否等价。 等效基准的相同坐标匹配地球上的相同位置。 等效基准的某些参数可以不同，例如[`Name`](../identifiableobject/name)。 |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | 返回代表当前对象的字符串。 |
-| static [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent)(GeographicDatum, GeographicDatum) | 确定两个基准是否等价。 等效基准的相同坐标匹配地球上的相同位置。 等效基准的某些参数可以不同，例如[`Name`](../identifiableobject/name)。 |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent)(GeographicDatum) | 确定两个基准是否等价。 等价基准的相同坐标匹配地球上的同一地点。 等价基准的某些参数可以不同，例如[`Name`](../identifiableobject/name). |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | 返回表示当前对象的字符串。 |
+| static [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent)(GeographicDatum, GeographicDatum) | 确定两个基准是否等价。 等价基准的相同坐标匹配地球上的同一地点。 等价基准的某些参数可以不同，例如[`Name`](../identifiableobject/name). |
 
 ### 也可以看看
 

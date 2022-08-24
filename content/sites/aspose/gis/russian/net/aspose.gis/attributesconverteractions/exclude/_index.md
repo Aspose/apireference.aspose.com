@@ -1,14 +1,14 @@
 ---
 title: Exclude
 second_title: Справочник по Aspose.GIS for .NET API
-description: Устанавливаетtrueдля исключения атрибута из целевого слоя. Начальное значениеfalse.
+description: Наборыtrue чтобы исключить атрибут из целевого слоя. Начальное значениеfalse .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis/attributesconverteractions/exclude/
 ---
 ## AttributesConverterActions.Exclude property
 
-Устанавливает`true`для исключения атрибута из целевого слоя. Начальное значение:`false`.
+Наборы`true` чтобы исключить атрибут из целевого слоя. Начальное значение`false` .
 
 ```csharp
 public bool Exclude { get; set; }

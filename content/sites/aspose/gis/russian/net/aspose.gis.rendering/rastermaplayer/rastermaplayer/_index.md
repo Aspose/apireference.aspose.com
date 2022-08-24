@@ -17,14 +17,14 @@ public RasterMapLayer(RasterLayer layer, RasterColorizer colorizer = null, bool 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | layer | RasterLayer | Растровый слой. |
-| colorizer | RasterColorizer | Символизатор, используемый для рендеринга слоя. Если`null`, будет использоваться колоризатор по умолчанию. |
-| keepOpen | Boolean | `true`чтобы оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer)объект удален; в противном случае`false`. |
+| colorizer | RasterColorizer | Символизатор, используемый для визуализации слоя. Если`null`, будет использоваться колоризатор по умолчанию. |
+| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень`null`. |
+| ArgumentNullException | Слой`null`. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Alignment
 second_title: Aspose.GIS for .NET API 参考
-description: 指定标签如何与线性路径对齐默认为Parallel
+description: 指定标签如何与线性路径对齐默认为Parallel.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering.labelings/linelabelplacement/alignment/
 ---
 ## LineLabelPlacement.Alignment property
 
-指定标签如何与线性路径对齐。默认为Parallel。
+指定标签如何与线性路径对齐。默认为Parallel.
 
 ```csharp
 public LineLabelAlignment Alignment { get; set; }

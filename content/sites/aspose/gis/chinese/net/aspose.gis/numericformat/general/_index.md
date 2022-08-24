@@ -1,14 +1,14 @@
 ---
 title: General
 second_title: Aspose.GIS for .NET API 参考
-description: 将数字转换为更紧凑的定点或科学计数法 取决于数字的类型以及是否为精度说明符存在推荐使用
+description: 将数字转换为更紧凑的定点或科学记数法 取决于数字的类型以及是否存在精度说明符推荐使用
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/numericformat/general/
 ---
 ## NumericFormat.General method
 
-将数字转换为更紧凑的定点或科学计数法， 取决于数字的类型以及是否为精度说明符存在。推荐使用。
+将数字转换为更紧凑的定点或科学记数法， 取决于数字的类型以及是否存在精度说明符。推荐使用。
 
 ```csharp
 public static NumericFormat General(int precision = 0)
@@ -16,7 +16,7 @@ public static NumericFormat General(int precision = 0)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| precision | Int32 | 精度定义了可以出现在结果字符串中的有效数字的最大数量。 如果精度为零，则使用值“15”。最大可用精度为“17”。 |
+| precision | Int32 | 精度定义了可以出现在结果字符串中的有效数字的最大数量。 如果精度为零，则使用值“15”。最大可用精度为“17”. |
 
 ### 返回值
 
@@ -26,11 +26,11 @@ public static NumericFormat General(int precision = 0)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | 有效位数小于 0 或大于 17。 |
+| ArgumentOutOfRangeException | 有效位数小于 0 或大于 17. |
 
 ### 评论
 
-内部代码通过:coordinate.ToString("G", CultureInfo.不变文化）。
+内部代码通过：coordinate.ToString("G", CultureInfo.InvariantCulture). 为 WKT 生成数字字符串
 
 ### 也可以看看
 

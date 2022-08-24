@@ -1,14 +1,14 @@
 ---
 title: IsExact
 second_title: Aspose.GIS for .NET API 参考
-description: 获取指示此精度模型是否精确的值
+description: 获取一个值该值指示此精度模型是否精确
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/precisionmodel/isexact/
 ---
 ## PrecisionModel.IsExact property
 
-获取指示此精度模型是否精确的值。
+获取一个值，该值指示此精度模型是否精确。
 
 ```csharp
 public bool IsExact { get; }
@@ -16,7 +16,7 @@ public bool IsExact { get; }
 
 ### 适当的价值
 
-`true`如果这个精度模型是精确的；`false`否则。
+`true`如果这个精度模型是准确的；`false`否则。
 
 ### 也可以看看
 

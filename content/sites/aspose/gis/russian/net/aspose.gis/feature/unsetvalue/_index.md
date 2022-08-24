@@ -25,7 +25,7 @@ public void UnsetValue(string attributeName)
 | InvalidOperationException | Атрибут не заблокирован. |
 | InvalidOperationException | Значение этого атрибута не может быть отменено. |
 | ArgumentException | Атрибут с таким именем не существует в этом слое. |
-| ArgumentNullException | Имя атрибута:`null`. |
+| ArgumentNullException | Имя атрибута`null`. |
 
 ### Смотрите также
 

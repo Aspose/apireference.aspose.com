@@ -1,14 +1,14 @@
 ---
 title: ColumnZ
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置包含Z坐标值的列名 默认为null
+description: 获取或设置包含 Z 坐标值的列名 默认为null.
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.formats.csv/csvoptions/columnz/
 ---
 ## CsvOptions.ColumnZ property
 
-获取或设置包含Z坐标值的列名。 默认为`null`。
+获取或设置包含 Z 坐标值的列名。 默认为`null`.
 
 ```csharp
 public string ColumnZ { get; set; }
@@ -16,7 +16,7 @@ public string ColumnZ { get; set; }
 
 ### 评论
 
-如果列值为`null`或 &lt;see langword="empty string" /&gt; 它将被排除在几何之外。
+如果列值为`null`或者`empty string`它将被排除在几何之外。
 
 ### 也可以看看
 

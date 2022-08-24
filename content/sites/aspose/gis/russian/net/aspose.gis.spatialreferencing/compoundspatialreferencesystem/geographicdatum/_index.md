@@ -1,14 +1,14 @@
 ---
 title: GeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает географические данные этой SRS. Если обаHeadaspose.gis.spatialreferencing/compoundspatialreferencesystem/headиTailaspose.gis.spatialreferencing/compoundspatialreferencesystem/tailимеют географические датум - вернуть географические данные головы.
+description: Возвращает географические данные этой SRS. Если обаHeadaspose.gis.spatialreferencing/compoundspatialreferencesystem/head а такжеTailaspose.gis.spatialreferencing/compoundspatialreferencesystem/tail иметь географические данные  вернуть географические данные головы.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/geographicdatum/
 ---
 ## CompoundSpatialReferenceSystem.GeographicDatum property
 
-Возвращает географические данные этой SRS. Если оба[`Head`](../head)и[`Tail`](../tail)имеют географические датум - вернуть географические данные головы.
+Возвращает географические данные этой SRS. Если оба[`Head`](../head) а также[`Tail`](../tail) иметь географические данные - вернуть географические данные головы.
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }

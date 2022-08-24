@@ -1,14 +1,14 @@
 ---
 title: ILinearRing
 second_title: Aspose.GIS for .NET API 参考
-description: 多顶点环
+description: 一个多顶点环
 type: docs
-weight: 920
+weight: 930
 url: /zh/net/aspose.gis.geometries/ilinearring/
 ---
 ## ILinearRing interface
 
-多顶点环。
+一个多顶点环。
 
 ```csharp
 public interface ILinearRing : ILineString

@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Справочник по Aspose.GIS for .NET API
-description: Цвет фона карты. По умолчанию используетсяTransparent.
+description: Цвет фона карты. По умолчаниюTransparent .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.rendering/map/backgroundcolor/
 ---
 ## Map.BackgroundColor property
 
-Цвет фона карты. По умолчанию используетсяTransparent.
+Цвет фона карты. По умолчаниюTransparent .
 
 ```csharp
 public Color BackgroundColor { get; set; }

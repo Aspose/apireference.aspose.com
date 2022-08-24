@@ -1,14 +1,14 @@
 ---
 title: VerticalUnit
 second_title: Справочник по Aspose.GIS for .NET API
-description: Блок который используется в этой SRS.
+description: Единица используемая в этом SRS.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/verticalunit/
 ---
 ## VerticalSpatialReferenceSystem.VerticalUnit property
 
-Блок, который используется в этой SRS.
+Единица, используемая в этом SRS.
 
 ```csharp
 public Unit VerticalUnit { get; }

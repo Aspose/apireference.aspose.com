@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.GIS for .NET API 参考
-description: 如果VectorLayeraspose.gis/vectorlayer的P支持则向图层添加新功能Aspose.Gis.VectorLayer.Driver
+description: 向图层添加新功能如果受支持VectorLayeraspose.gis/vectorlayersDriveraspose.gis/vectorlayer/driver.
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/vectorlayer/add/
 ---
 ## Add(Feature) {#add}
 
-如果[`VectorLayer`](../../vectorlayer)的P支持，则向图层添加新功能:Aspose.Gis.VectorLayer.Driver。
+向图层添加新功能（如果受支持）[`VectorLayer`](../../vectorlayer)s[`Driver`](../driver).
 
 ```csharp
 public void Add(Feature feature)
@@ -22,7 +22,7 @@ public void Add(Feature feature)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 如果层是只读的，则抛出 。 |
+| InvalidOperationException | 如果图层是只读的，则抛出。 |
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public void Add(Feature feature)
 
 ## Add(Feature, IFeatureStyle) {#add_1}
 
-如果[`VectorLayer`](../../vectorlayer)的支持，则向图层添加具有指定样式的新功能[`Driver`](../driver)。
+将具有指定样式的新功能添加到图层（如果受支持）[`VectorLayer`](../../vectorlayer)s[`Driver`](../driver).
 
 ```csharp
 public virtual void Add(Feature feature, IFeatureStyle style)
@@ -44,15 +44,15 @@ public virtual void Add(Feature feature, IFeatureStyle style)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | feature | Feature | 要添加的功能。 |
-| style | IFeatureStyle | 特征样式。使用`null`表示缺少样式。 |
+| style | IFeatureStyle | 特征样式。利用`null`表示缺少样式。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
 | InvalidOperationException | 如果图层不支持样式或图层是只读的，则抛出。 |
-| InvalidOperationException | 如果可编辑图层不支持样式，则抛出 。 |
-| ArgumentException | 如果样式与驱动程序类型不匹配，则抛出 。 |
+| InvalidOperationException | 如果可编辑图层不支持样式，则抛出。 |
+| ArgumentException | 如果样式与驱动程序类型不匹配，则抛出。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Reverse
 second_title: Aspose.GIS for .NET API 参考
-description: 反转这个CompoundCurveaspose.gis.geometries/compoundcurve那就是 - 曲线的反向顺序以及该复合曲线内的每条曲线
+description: 反转这个CompoundCurveaspose.gis.geometries/compoundcurve.也就是说  曲线的逆序以及该复合曲线内的每条曲线
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.geometries/compoundcurve/reverse/
 ---
 ## CompoundCurve.Reverse method
 
-反转这个[`CompoundCurve`](../../compoundcurve)。那就是 - 曲线的反向顺序以及该复合曲线内的每条曲线。
+反转这个[`CompoundCurve`](../../compoundcurve).也就是说 - 曲线的逆序以及该复合曲线内的每条曲线。
 
 ```csharp
 public override void Reverse()

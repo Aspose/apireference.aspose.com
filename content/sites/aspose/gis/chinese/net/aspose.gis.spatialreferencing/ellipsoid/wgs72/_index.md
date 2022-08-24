@@ -1,14 +1,14 @@
 ---
 title: Wgs72
 second_title: Aspose.GIS for .NET API 参考
-description: WGS 72 椭球体
+description: WGS 72 椭球体.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/ellipsoid/wgs72/
 ---
 ## Ellipsoid.Wgs72 property
 
-WGS 72 椭球体。
+WGS 72 椭球体.
 
 ```csharp
 public static Ellipsoid Wgs72 { get; }

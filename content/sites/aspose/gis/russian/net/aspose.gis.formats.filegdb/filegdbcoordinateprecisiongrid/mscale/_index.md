@@ -1,14 +1,14 @@
 ---
 title: MScale
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает масштаб координаты M. Если установленоnullиспользуется значение по умолчанию.
+description: Получает или задает масштаб Мкоординаты. Если установленоnull используется значение по умолчанию.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.MScale property
 
-Получает или задает масштаб координаты M. Если установлено`null`используется значение по умолчанию.
+Получает или задает масштаб М-координаты. Если установлено`null` используется значение по умолчанию.
 
 ```csharp
 public double? MScale { get; set; }
@@ -22,7 +22,7 @@ public double? MScale { get; set; }
 
 ### Примечания
 
-Значение по умолчанию:` MScale = 1 / MTolerance * 10` .
+Значение по умолчанию:`MScale = 1 / MTTolerance * 10` .
 
 ### Смотрите также
 

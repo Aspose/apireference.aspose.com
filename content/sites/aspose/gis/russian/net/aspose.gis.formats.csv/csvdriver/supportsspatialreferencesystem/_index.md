@@ -24,7 +24,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### Примечания
 
-Для CSV единственной поддерживаемой системой пространственной привязки является WGS84.
+Для CSV поддерживается только система пространственной привязки WGS84.
 
 ### Смотрите также
 

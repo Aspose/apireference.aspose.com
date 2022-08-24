@@ -1,14 +1,14 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters
 second_title: Справочник по Aspose.GIS for .NET API
-description: Параметры для создания проекции SRS. Некоторые параметры имеют значения по умолчанию. Некоторые параметры имеют разумные значения по умолчанию поэтому вам не нужно назначать только их. Если вы присвоитеnullэтим параметрам будет использоваться значение по умолчанию. ProjectionMethodName./projectedspatialreferencesystemparameters/projectionmethodnameиBase./projectedspatialreferencesystemparameters/baseне имеют значения по умолчанию - вы должны присвоить этим свойствам некоторые значения отличные отnull.
+description: Параметры для создания проекции SRS. Некоторые параметры имеют значения по умолчанию. Некоторые параметры имеют разумные значения по умолчанию поэтому вам не нужно назначать только их. Если вы назначаетеnull для этих параметров будет использоваться значение по умолчанию. ProjectionMethodName./projectedspatialreferencesystemparameters/projectionmethodname а такжеBase./projectedspatialreferencesystemparameters/base не имеют значений по умолчанию  вам нужно назначить некоторые неnull значение этого свойства.
 type: docs
-weight: 2120
+weight: 2130
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters class
 
-Параметры для создания проекции SRS. Некоторые параметры имеют значения по умолчанию. Некоторые параметры имеют разумные значения по умолчанию, поэтому вам не нужно назначать только их. Если вы присвоите`null`этим параметрам, будет использоваться значение по умолчанию. [`ProjectionMethodName`](./projectionmethodname)и[`Base`](./base)не имеют значения по умолчанию - вы должны присвоить этим свойствам некоторые значения, отличные от`null`.
+Параметры для создания проекции SRS. Некоторые параметры имеют значения по умолчанию. Некоторые параметры имеют разумные значения по умолчанию, поэтому вам не нужно назначать только их. Если вы назначаете`null` для этих параметров будет использоваться значение по умолчанию. [`ProjectionMethodName`](./projectionmethodname) а также[`Base`](./base) не имеют значений по умолчанию - вам нужно назначить некоторые не`null` значение этого свойства.
 
 ```csharp
 public class ProjectedSpatialReferenceSystemParameters
@@ -24,14 +24,14 @@ public class ProjectedSpatialReferenceSystemParameters
 
 | Имя | Описание |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder) { get; set; } | Порядок осей. По умолчанию используетсяXY. |
-| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base) { get; set; } | Базовая географическая SRS (SRS, к которой применяется проекция). Вы ДОЛЖНЫ установить для этого свойства значение not`null`, чтобы создать действительный SRS, это свойство не имеет значения по умолчанию. |
-| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit) { get; set; } | Единицы, используемые в этой SRS. Значение по умолчанию:[`Meter`](../unit/meter). |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder) { get; set; } | Порядок осей. По умолчаниюXY . |
+| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base) { get; set; } | Базовая географическая SRS (SRS, к которой применяется проекция). Вы ДОЛЖНЫ установить для этого свойства значение not`null` значение для создания действительной SRS, это свойство не имеет значения по умолчанию. |
+| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit) { get; set; } | Единицы, которые будут использоваться в этой SRS. По умолчанию[`Meter`](../unit/meter) . |
 | [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name) { get; set; } | Имя проектируемого SRS. По умолчанию "Безымянный". |
-| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier) { get; set; } | Идентификатор метода проецирования. Значение по умолчанию отсутствует, вы можете установить для этого параметра значение not`null`value, если хотите прикрепить идентификатор к проекции. Если вы это сделаете, вы должны убедиться, что идентификатор в последовательном методе проекции имя (имя метода проекции не изменится, когда вы установите это свойство). |
-| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname) { get; set; } | Имя метода проецирования. Значение по умолчанию отсутствует, и вы ДОЛЖНЫ установить для этого параметра значение not`null`, поскольку спроецированный SRS без имени проекции бесполезен. |
-| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis) { get; set; } | Ось, описывающая X (горизонтальное) измерение. По умолчанию используется ось с восточным направлением. |
-| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis) { get; set; } | Ось, описывающая Y (вертикальное) измерение. По умолчанию используется ось с северным направлением. |
+| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier) { get; set; } | Идентификатор метода проецирования. Значение по умолчанию отсутствует, вы можете установить этот параметр не`null` value, если вы хотите прикрепить идентификатор к проекции. Если вы это сделаете, вы должны убедиться, что идентификатор в проекции согласован с именем method (имя метода проекции не изменится, когда вы установите это свойство). |
+| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname) { get; set; } | Имя метода проецирования. Нет значения по умолчанию, и вы ДОЛЖНЫ установить этот параметр на не`null` значение, поскольку проекция SRS без имени проекции бесполезна. |
+| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis) { get; set; } | Ось, описывающая размер X (горизонтальный). По умолчанию используется ось с восточным направлением. |
+| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis) { get; set; } | Ось, описывающая размер Y (вертикальный). По умолчанию используется ось с северным направлением. |
 
 ## Методы
 

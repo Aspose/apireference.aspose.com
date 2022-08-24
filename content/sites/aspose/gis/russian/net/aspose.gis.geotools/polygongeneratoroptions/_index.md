@@ -1,14 +1,14 @@
 ---
 title: PolygonGeneratorOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Варианты создания линий на поверхности или области.
+description: Варианты линий производства на поверхности или площади.
 type: docs
-weight: 750
+weight: 760
 url: /ru/net/aspose.gis.geotools/polygongeneratoroptions/
 ---
 ## PolygonGeneratorOptions class
 
-Варианты создания линий на поверхности или области.
+Варианты линий производства на поверхности или площади.
 
 ```csharp
 public class PolygonGeneratorOptions
@@ -18,24 +18,24 @@ public class PolygonGeneratorOptions
 
 | Имя | Описание |
 | --- | --- |
-| [PolygonGeneratorOptions](polygongeneratoroptions#constructor)() | Создать экземпляр с полями инициализации по умолчанию. |
-| [PolygonGeneratorOptions](polygongeneratoroptions#constructor_1)(int, int, int, int) | Создать экземпляр. |
+| [PolygonGeneratorOptions](polygongeneratoroptions)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.gis.geotools/polygongeneratoroptions/count) { get; set; } | Количество создаваемых полигонов. |
-| [MaximumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints) { get; set; } | Максимальная длина генерируемого полигона. |
+| [MaximumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints) { get; set; } | Максимальная длина сгенерированного полигона. |
 | [MinimumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints) { get; set; } | Минимальная длина генерируемого полигона. |
+| [Place](../../aspose.gis.geotools/polygongeneratoroptions/place) { get; set; } | Режим размещения в сгенерированных ячейках. |
 | [Seed](../../aspose.gis.geotools/polygongeneratoroptions/seed) { get; set; } | Число, используемое для вычисления начального значения для последовательности псевдослучайных чисел. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/polygongeneratoroptions/clone)() | Клонировать объекты один в другой. |
-| override [ToString](../../aspose.gis.geotools/polygongeneratoroptions/tostring)() | Возвращает строку, представляющую текущий объект. |
+| [Clone](../../aspose.gis.geotools/polygongeneratoroptions/clone)() | Клонировать объекты друг в друга. |
+| override [ToString](../../aspose.gis.geotools/polygongeneratoroptions/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

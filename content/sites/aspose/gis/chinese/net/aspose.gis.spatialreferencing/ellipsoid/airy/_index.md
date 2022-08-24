@@ -1,14 +1,14 @@
 ---
 title: Airy
 second_title: Aspose.GIS for .NET API 参考
-description: 艾里椭球体
+description: 艾里椭球体.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/ellipsoid/airy/
 ---
 ## Ellipsoid.Airy property
 
-艾里椭球体。
+艾里椭球体.
 
 ```csharp
 public static Ellipsoid Airy { get; }

@@ -1,14 +1,14 @@
 ---
 title: ZPrecisionModel
 second_title: Aspose.GIS for .NET API 参考
-description: APrecisionModelaspose.gis/precisionmodel将应用于 Z 坐标 当几何添加到VectorLayeraspose.gis/vectorlayer或从VectorLayeraspose.gis/vectorlayer读取它们时 默认值为Exactaspose.gis/precisionmodel/exact
+description: 一个PrecisionModelaspose.gis/precisionmodel当几何图形添加到VectorLayeraspose.gis/vectorlayer或者当它们从VectorLayeraspose.gis/vectorlayer. 默认值为Exactaspose.gis/precisionmodel/exact.
 type: docs
 weight: 120
 url: /zh/net/aspose.gis/driveroptions/zprecisionmodel/
 ---
 ## DriverOptions.ZPrecisionModel property
 
-A[`PrecisionModel`](../../precisionmodel)将应用于 Z 坐标 当几何添加到[`VectorLayer`](../../vectorlayer)或从[`VectorLayer`](../../vectorlayer)读取它们时。 默认值为[`Exact`](../../precisionmodel/exact)。
+一个[`PrecisionModel`](../../precisionmodel)当几何图形添加到[`VectorLayer`](../../vectorlayer)或者当它们从[`VectorLayer`](../../vectorlayer). 默认值为[`Exact`](../../precisionmodel/exact).
 
 ```csharp
 public PrecisionModel ZPrecisionModel { get; set; }

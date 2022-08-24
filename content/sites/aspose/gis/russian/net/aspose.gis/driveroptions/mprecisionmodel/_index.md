@@ -1,14 +1,14 @@
 ---
 title: MPrecisionModel
 second_title: Справочник по Aspose.GIS for .NET API
-description: APrecisionModelaspose.gis/precisionmodelкоторый будет применен к координате M при добавлении геометрии кVectorLayeraspose.gis/vectorlayerили когда они читаются изVectorLayeraspose.gis/vectorlayer. Значение по умолчаниюExactaspose.gis/precisionmodel/exact.
+description: АPrecisionModelaspose.gis/precisionmodel который будет применен к координате M при добавлении геометрий вVectorLayeraspose.gis/vectorlayer или когда они читаются изVectorLayeraspose.gis/vectorlayer . Значение по умолчаниюExactaspose.gis/precisionmodel/exact .
 type: docs
 weight: 60
 url: /ru/net/aspose.gis/driveroptions/mprecisionmodel/
 ---
 ## DriverOptions.MPrecisionModel property
 
-A[`PrecisionModel`](../../precisionmodel)который будет применен к координате M при добавлении геометрии к[`VectorLayer`](../../vectorlayer)или когда они читаются из[`VectorLayer`](../../vectorlayer). Значение по умолчанию:[`Exact`](../../precisionmodel/exact).
+А[`PrecisionModel`](../../precisionmodel) который будет применен к координате M при добавлении геометрий в[`VectorLayer`](../../vectorlayer) или когда они читаются из[`VectorLayer`](../../vectorlayer) . Значение по умолчанию:[`Exact`](../../precisionmodel/exact) .
 
 ```csharp
 public PrecisionModel MPrecisionModel { get; set; }

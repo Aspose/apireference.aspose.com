@@ -1,14 +1,14 @@
 ---
 title: PrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: PrimeMeridian представляет меридиан долгота которого равна 0.
+description: PrimeMeridian представляет меридиан долгота которого определена как 0.
 type: docs
-weight: 2090
+weight: 2100
 url: /ru/net/aspose.gis.spatialreferencing/primemeridian/
 ---
 ## PrimeMeridian class
 
-PrimeMeridian представляет меридиан, долгота которого равна 0.
+PrimeMeridian представляет меридиан, долгота которого определена как 0.
 
 ```csharp
 public class PrimeMeridian : IdentifiableObject
@@ -34,7 +34,7 @@ public class PrimeMeridian : IdentifiableObject
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

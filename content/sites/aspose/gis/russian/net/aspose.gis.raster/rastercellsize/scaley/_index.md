@@ -1,7 +1,7 @@
 ---
 title: ScaleY
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает y-компонент высоты пикселя y-масштаб обычно отрицательный.
+description: Получает или задает yкомпонент высоты пикселя yмасштаб обычно отрицательный.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.raster/rastercellsize/scaley/

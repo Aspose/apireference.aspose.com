@@ -1,14 +1,14 @@
 ---
 title: Projection
 second_title: Справочник по Aspose.GIS for .NET API
-description: Проекция примененная кBaseaspose.gis.spatialreferencing/projectedspatialreferencesystem/baseдля получения этой SRS.
+description: Проекция примененная кBaseaspose.gis.spatialreferencing/projectedspatialreferencesystem/base чтобы получить этот SRS.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/projection/
 ---
 ## ProjectedSpatialReferenceSystem.Projection property
 
-Проекция, примененная к[`Base`](../base)для получения этой SRS.
+Проекция, примененная к[`Base`](../base) чтобы получить этот SRS.
 
 ```csharp
 public abstract Projection Projection { get; }

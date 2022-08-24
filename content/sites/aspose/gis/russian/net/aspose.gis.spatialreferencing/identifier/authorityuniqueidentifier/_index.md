@@ -1,14 +1,14 @@
 ---
 title: AuthorityUniqueIdentifier
 second_title: Справочник по Aspose.GIS for .NET API
-description: Уникальный способ представления объекта в пределахAuthorityNameaspose.gis.spatialreferencing/identifier/authorityname.
+description: Уникальный способ представления объекта вAuthorityNameaspose.gis.spatialreferencing/identifier/authorityname .
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier/
 ---
 ## Identifier.AuthorityUniqueIdentifier property
 
-Уникальный способ представления объекта в пределах[`AuthorityName`](../authorityname).
+Уникальный способ представления объекта в[`AuthorityName`](../authorityname) .
 
 ```csharp
 public string AuthorityUniqueIdentifier { get; }

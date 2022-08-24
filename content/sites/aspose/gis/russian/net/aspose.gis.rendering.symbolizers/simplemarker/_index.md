@@ -1,14 +1,14 @@
 ---
 title: SimpleMarker
 second_title: Справочник по Aspose.GIS for .NET API
-description: Простой точечный символизатор.
+description: Простой символ точки.
 type: docs
-weight: 1850
+weight: 1860
 url: /ru/net/aspose.gis.rendering.symbolizers/simplemarker/
 ---
 ## SimpleMarker class
 
-Простой точечный символизатор.
+Простой символ точки.
 
 ```csharp
 public class SimpleMarker : VectorSymbolizer
@@ -18,8 +18,8 @@ public class SimpleMarker : VectorSymbolizer
 
 | Имя | Описание |
 | --- | --- |
-| [SimpleMarker](simplemarker#constructor)() | Инициализирует новый экземпляр класса[`SimpleMarker`](../simplemarker). |
-| [SimpleMarker](simplemarker#constructor_1)(SimpleMarker) | Инициализирует новый экземпляр класса[`SimpleMarker`](../simplemarker). |
+| [SimpleMarker](simplemarker#constructor)() | Инициализирует новый экземпляр[`SimpleMarker`](../simplemarker) класс. |
+| [SimpleMarker](simplemarker#constructor_1)(SimpleMarker) | Инициализирует новый экземпляр[`SimpleMarker`](../simplemarker) класс. |
 
 ## Характеристики
 
@@ -28,18 +28,18 @@ public class SimpleMarker : VectorSymbolizer
 | [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simplemarker/featurebasedconfiguration) { get; set; } | Обратный вызов, который используется для настройки этого символизатора перед визуализацией функции. |
 | [FillColor](../../aspose.gis.rendering.symbolizers/simplemarker/fillcolor) { get; set; } | Задает цвет и прозрачность заливки. |
 | [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/horizontalanchorpoint) { get; set; } | Указывает, какая сторона формы маркера будет выровнена по горизонтали с точкой. |
-| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/horizontaloffset) { get; set; } | Определяет горизонтальное смещение от местоположения точки до точки привязки формы. |
-| [Rotation](../../aspose.gis.rendering.symbolizers/simplemarker/rotation) { get; set; } | Задает поворот символа относительно его центральной точки в десятичных градусах. Положительные значения указывают на вращение по часовой стрелке, отрицательные значения указывают на вращение против часовой стрелки. |
-| [ShapeType](../../aspose.gis.rendering.symbolizers/simplemarker/shapetype) { get; set; } | Задает форму маркера. |
-| [Size](../../aspose.gis.rendering.symbolizers/simplemarker/size) { get; set; } | Определяет размер маркера. |
+| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/horizontaloffset) { get; set; } | Задает горизонтальное смещение от точки до точки привязки фигуры. |
+| [Rotation](../../aspose.gis.rendering.symbolizers/simplemarker/rotation) { get; set; } | Определяет поворот символа относительно его центральной точки в десятичных градусах. Положительные значения указывают на вращение по часовой стрелке, отрицательные значения указывают на вращение против часовой стрелки. |
+| [ShapeType](../../aspose.gis.rendering.symbolizers/simplemarker/shapetype) { get; set; } | Определяет форму маркера. |
+| [Size](../../aspose.gis.rendering.symbolizers/simplemarker/size) { get; set; } | Задает размер маркера. |
 | [StrokeColor](../../aspose.gis.rendering.symbolizers/simplemarker/strokecolor) { get; set; } | Определяет цвет и прозрачность линии. |
 | [StrokeDashOffset](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashoffset) { get; set; } | Определяет расстояние от начала линии до начала штрихового узора. |
 | [StrokeDashPattern](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashpattern) { get; set; } | Задает массив расстояний, определяющий длину чередующихся дефисов и пробелов в пунктирных линиях. |
-| [StrokeLineJoin](../../aspose.gis.rendering.symbolizers/simplemarker/strokelinejoin) { get; set; } | Определяет способ отображения линий на пересечении сегментов линий. |
-| [StrokeStyle](../../aspose.gis.rendering.symbolizers/simplemarker/strokestyle) { get; set; } | Определяет способ рисования линий символов. |
-| [StrokeWidth](../../aspose.gis.rendering.symbolizers/simplemarker/strokewidth) { get; set; } | Задает ширину линии. |
+| [StrokeLineJoin](../../aspose.gis.rendering.symbolizers/simplemarker/strokelinejoin) { get; set; } | Определяет способ отображения линий на пересечении линейных сегментов. |
+| [StrokeStyle](../../aspose.gis.rendering.symbolizers/simplemarker/strokestyle) { get; set; } | Указывает, как должны быть нарисованы линии символов. |
+| [StrokeWidth](../../aspose.gis.rendering.symbolizers/simplemarker/strokewidth) { get; set; } | Определяет ширину линии. |
 | [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/verticalanchorpoint) { get; set; } | Указывает, какая сторона формы маркера будет выровнена по вертикали с точкой. |
-| [VerticalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/verticaloffset) { get; set; } | Определяет вертикальное смещение от местоположения точки до точки привязки формы. |
+| [VerticalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/verticaloffset) { get; set; } | Задает смещение по вертикали от местоположения точки до точки привязки формы. |
 
 ## Методы
 

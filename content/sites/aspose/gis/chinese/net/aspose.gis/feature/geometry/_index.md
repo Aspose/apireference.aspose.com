@@ -1,14 +1,14 @@
 ---
 title: Geometry
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置要素的几何形状 不能为null使用Nullaspose.gis.geometries/geometry/null表示缺失的几何
+description: 获取或设置要素的几何图形 不能null 利用Nullaspose.gis.geometries/geometry/null表示缺少几何图形
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/feature/geometry/
 ---
 ## Feature.Geometry property
 
-获取或设置要素的几何形状。 不能为`null`，使用[`Null`](../../../aspose.gis.geometries/geometry/null)表示缺失的几何。
+获取或设置要素的几何图形。 不能`null`， 利用[`Null`](../../../aspose.gis.geometries/geometry/null)表示缺少几何图形。
 
 ```csharp
 public IGeometry Geometry { get; set; }
@@ -18,7 +18,7 @@ public IGeometry Geometry { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 值为`null`。 |
+| ArgumentNullException | 值为`null`. |
 
 ### 也可以看看
 

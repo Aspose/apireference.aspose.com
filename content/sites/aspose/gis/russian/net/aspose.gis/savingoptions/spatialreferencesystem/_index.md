@@ -16,7 +16,7 @@ public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 
 ### Примечания
 
-Если не указано`SpatialReferenceSystem`используется последовательность входных объектов.
+Если не указано`SpatialReferenceSystem` используется последовательность входных признаков.
 
 ### Смотрите также
 

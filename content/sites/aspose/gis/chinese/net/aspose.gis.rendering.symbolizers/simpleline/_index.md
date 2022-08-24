@@ -3,7 +3,7 @@ title: SimpleLine
 second_title: Aspose.GIS for .NET API 参考
 description: 简单线符号
 type: docs
-weight: 1840
+weight: 1850
 url: /zh/net/aspose.gis.rendering.symbolizers/simpleline/
 ---
 ## SimpleLine class
@@ -19,21 +19,21 @@ public class SimpleLine : VectorSymbolizer
 | 姓名 | 描述 |
 | --- | --- |
 | [SimpleLine](simpleline#constructor)() | 创建新实例。 |
-| [SimpleLine](simpleline#constructor_1)(SimpleLine) | 初始化[`SimpleLine`](../simpleline)类的新实例。 |
+| [SimpleLine](simpleline#constructor_1)(SimpleLine) | 初始化[`SimpleLine`](../simpleline)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CapStyle](../../aspose.gis.rendering.symbolizers/simpleline/capstyle) { get; set; } | 指定如何在末端呈现线条。 |
+| [CapStyle](../../aspose.gis.rendering.symbolizers/simpleline/capstyle) { get; set; } | 指定如何在其末端呈现线条。 |
 | [Color](../../aspose.gis.rendering.symbolizers/simpleline/color) { get; set; } | 指定赋予线条的颜色和透明度。 |
 | [DashOffset](../../aspose.gis.rendering.symbolizers/simpleline/dashoffset) { get; set; } | 指定从线的起点到虚线图案的起点的距离。 |
-| [DashPattern](../../aspose.gis.rendering.symbolizers/simpleline/dashpattern) { get; set; } | 指定一个距离数组，该数组以虚线指定交替的破折号和空格 的长度。 |
+| [DashPattern](../../aspose.gis.rendering.symbolizers/simpleline/dashpattern) { get; set; } | 指定一个距离数组，以虚线指定交替短划线和空格的长度 。 |
 | [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simpleline/featurebasedconfiguration) { get; set; } | 用于在渲染特征之前配置此符号器的回调。 |
 | [LineJoin](../../aspose.gis.rendering.symbolizers/simpleline/linejoin) { get; set; } | 确定线段的交点处如何渲染线。 |
-| [Offset](../../aspose.gis.rendering.symbolizers/simpleline/offset) { get; set; } | 指定与原始行的偏移量。 对于正距离，偏移量将位于输入线的左侧（相对于线方向）。 对于负距离，它将位于右侧。 |
+| [Offset](../../aspose.gis.rendering.symbolizers/simpleline/offset) { get; set; } | 指定与原始线的偏移量。 对于正距离，偏移量将在输入线的左侧（相对于线方向）。 对于负距离，它将在右侧。 |
 | [Style](../../aspose.gis.rendering.symbolizers/simpleline/style) { get; set; } | 指定应如何绘制符号线。 |
-| [Width](../../aspose.gis.rendering.symbolizers/simpleline/width) { get; set; } | 指定线的宽度。 |
+| [Width](../../aspose.gis.rendering.symbolizers/simpleline/width) { get; set; } | 指定线条的宽度。 |
 
 ## 方法
 

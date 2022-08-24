@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.GIS for .NET API 参考
-description: 获取CircularStringaspose.gis.geometries/circularstring中的点数
+description: 获取点数CircularStringaspose.gis.geometries/circularstring.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/circularstring/count/
 ---
 ## CircularString.Count property
 
-获取[`CircularString`](../../circularstring)中的点数。
+获取点数[`CircularString`](../../circularstring).
 
 ```csharp
 public int Count { get; }

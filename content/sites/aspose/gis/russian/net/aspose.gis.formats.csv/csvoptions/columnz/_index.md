@@ -1,14 +1,14 @@
 ---
 title: ColumnZ
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает имя столбца содержащего значение координаты Z. По умолчаниюnull.
+description: Получает или задает имя столбца содержащего значение координаты Z. Значение по умолчаниюnull .
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.formats.csv/csvoptions/columnz/
 ---
 ## CsvOptions.ColumnZ property
 
-Получает или задает имя столбца, содержащего значение координаты Z. По умолчанию:`null`.
+Получает или задает имя столбца, содержащего значение координаты Z. Значение по умолчанию:`null` .
 
 ```csharp
 public string ColumnZ { get; set; }
@@ -16,7 +16,7 @@ public string ColumnZ { get; set; }
 
 ### Примечания
 
-Если значение столбца равно`null`или &lt;see langword="empty string" /&gt; он будет исключен из геометрии.
+Если значение столбца`null` или же`empty string` он будет исключен из геометрии.
 
 ### Смотрите также
 

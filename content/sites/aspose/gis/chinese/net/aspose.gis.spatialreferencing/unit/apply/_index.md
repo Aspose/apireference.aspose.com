@@ -20,7 +20,7 @@ public double Apply(double value)
 
 ### 返回值
 
-值，转换为此单位。
+值，转换为该单位。
 
 ### 也可以看看
 

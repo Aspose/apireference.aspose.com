@@ -22,7 +22,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 
@@ -44,13 +44,13 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | 特征序列。 |
-| symbolizer | VectorSymbolizer | 用于渲染层的符号器。如果`null`，将使用默认符号。 |
+| symbolizer | VectorSymbolizer | 用于渲染图层的符号器。如果`null`，将使用默认符号。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 
@@ -74,14 +74,14 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | 特征序列。 |
-| symbolizer | VectorSymbolizer | 用于渲染层的符号器。如果`null`，将使用默认符号。 |
-| labeling | Labeling | 用于标记图层中的特征的标签。如果`null`，默认[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling)将被使用。 |
+| symbolizer | VectorSymbolizer | 用于渲染图层的符号器。如果`null`，将使用默认符号。 |
+| labeling | Labeling | 用于标记图层中的特征的标签。如果`null`， 默认[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling)将被使用。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 
@@ -104,14 +104,14 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | VectorLayer | 向量层。 |
-| keepOpen | Boolean | `true`在之后保持图层打开[`VectorMapLayer`](../../vectormaplayer)对象被处理；否则，`false`。 |
+| layer | VectorLayer | 矢量图层。 |
+| keepOpen | Boolean | `true`之后让图层保持打开状态[`VectorMapLayer`](../../vectormaplayer)对象被处置；否则，`false`. |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 层是`null`。 |
+| ArgumentNullException | 层是`null`. |
 
 ### 也可以看看
 
@@ -132,15 +132,15 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | VectorLayer | 向量层。 |
-| symbolizer | VectorSymbolizer | 用于渲染层的符号器。如果`null`，将使用默认符号。 |
-| keepOpen | Boolean | `true`在之后保持图层打开[`VectorMapLayer`](../../vectormaplayer)对象被处理；否则，`false`。 |
+| layer | VectorLayer | 矢量图层。 |
+| symbolizer | VectorSymbolizer | 用于渲染图层的符号器。如果`null`，将使用默认符号。 |
+| keepOpen | Boolean | `true`之后让图层保持打开状态[`VectorMapLayer`](../../vectormaplayer)对象被处置；否则，`false`. |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 层是`null`。 |
+| ArgumentNullException | 层是`null`. |
 
 ### 也可以看看
 
@@ -163,16 +163,16 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | VectorLayer | 向量层。 |
+| layer | VectorLayer | 矢量图层。 |
 | symbolizer | VectorSymbolizer | 用于渲染层的符号器。如果`null`，将使用默认符号。 |
-| labeling | Labeling | 用于标记层中特征的标签。如果`null`，默认[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling)将被使用。 |
-| keepOpen | Boolean | `true`在VectorMapLayer对象被释放；否则，`false`。 |
+| labeling | Labeling | 用于标记图层中的特征的标签。如果`null`， 默认[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling)将被使用。 |
+| keepOpen | Boolean | `true`之后让图层保持打开状态[`VectorMapLayer`](../../vectormaplayer)对象被处置；否则，`false`. |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 层是`null`。 |
+| ArgumentNullException | 层是`null`. |
 
 ### 也可以看看
 

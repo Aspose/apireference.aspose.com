@@ -16,19 +16,19 @@ public static IEnumerable<IPolygon> ProducePolygons(Extent rect, PolygonGenerato
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Extent | Заданная область (см.[`Extent`](../../../aspose.gis/extent) ) |
-| options | PolygonGeneratorOptions | Параметры создания полигона (см.[`PolygonGeneratorOptions`](../../polygongeneratoroptions) ) |
+| rect | Extent | указанная площадь (см.[`Степень`](../../../aspose.gis/extent)) |
+| options | PolygonGeneratorOptions | Параметры создания полигона (см.[`PolygonGeneratorOptions`](../../polygongeneratoroptions)) |
 
 ### Возвращаемое значение
 
-Массив полигонов (см. перечисление[`IPolygon`](../../../aspose.gis.geometries/ipolygon) )
+Массив полигонов (см. перечисление[`IPполигон`](../../../aspose.gis.geometries/ipolygon))
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Количество полигонов должно быть больше единицы. |
-| NullReferenceException | Extent должен иметь значение (не быть NULL) |
+| ArgumentOutOfRangeException | Количество полигонов должно быть больше одного. |
+| NullReferenceException | Экстент должен иметь значение (не быть NULL) |
 | ArgumentException | Минимальная и максимальная длина должны быть не равны и больше 0 |
 | ArgumentException | Максимальная длина должна быть больше минимальной |
 

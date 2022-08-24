@@ -1,14 +1,14 @@
 ---
 title: PngRenderer
 second_title: Aspose.GIS for .NET API 参考
-description: ARenderer../aspose.gis.rendering/renderer渲染Map../aspose.gis.rendering/map到 PNG 文件中
+description: 一个Renderer../aspose.gis.rendering/renderer呈现Map../aspose.gis.rendering/map成PNG文件.
 type: docs
-weight: 1470
+weight: 1480
 url: /zh/net/aspose.gis.rendering.formats.png/pngrenderer/
 ---
 ## PngRenderer class
 
-A[`Renderer`](../../aspose.gis.rendering/renderer)渲染[`Map`](../../aspose.gis.rendering/map)到 PNG 文件中。
+一个[`Renderer`](../../aspose.gis.rendering/renderer)呈现[`Map`](../../aspose.gis.rendering/map)成PNG文件.
 
 ```csharp
 public class PngRenderer : Renderer

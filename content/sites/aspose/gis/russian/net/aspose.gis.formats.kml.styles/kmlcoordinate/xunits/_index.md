@@ -1,14 +1,14 @@
 ---
 title: XUnits
 second_title: Справочник по Aspose.GIS for .NET API
-description: Единицы в которых указано значение X. Значение по умолчаниюFraction.
+description: Единицы в которых указано значение X. Значение по умолчаниюFraction .
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.kml.styles/kmlcoordinate/xunits/
 ---
 ## KmlCoordinate.XUnits property
 
-Единицы, в которых указано значение X. Значение по умолчанию:Fraction.
+Единицы, в которых указано значение X. Значение по умолчаниюFraction .
 
 ```csharp
 public KmlUnits XUnits { get; set; }

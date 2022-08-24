@@ -1,14 +1,14 @@
 ---
 title: ReplaceAt
 second_title: Справочник по Aspose.GIS for .NET API
-description: ЗаменитьFeatureaspose.gis/featureпо указанному индексу.
+description: ЗаменитьFeatureaspose.gis/feature по указанному индексу.
 type: docs
 weight: 150
 url: /ru/net/aspose.gis/vectorlayer/replaceat/
 ---
 ## VectorLayer.ReplaceAt method
 
-Заменить[`Feature`](../../feature)по указанному индексу.
+Заменить[`Feature`](../../feature) по указанному индексу.
 
 ```csharp
 public virtual void ReplaceAt(int index, Feature feature)
@@ -17,15 +17,15 @@ public virtual void ReplaceAt(int index, Feature feature)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс функции. |
-| feature | Feature | Устанавливаемая функция. |
+| feature | Feature | Функция, которую необходимо установить. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | выдается, если слой недоступен для редактирования. |
+| InvalidOperationException | выбрасывается, если слой недоступен для редактирования. |
 | ArgumentOutOfRangeException | Индекс вне допустимого диапазона. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 

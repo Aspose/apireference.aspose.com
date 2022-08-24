@@ -1,14 +1,14 @@
 ---
 title: CreateElseRule
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новое правило которое применяет метку к объекту всякий раз когда он не соответствует ни одному правилу фильтра.
+description: Создает новое правило которое применяет метку к объекту всякий раз когда он не соответствует ни одному правилу фильтрации.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.labelings/labelingrule/createelserule/
 ---
 ## LabelingRule.CreateElseRule method
 
-Создает новое правило, которое применяет метку к объекту всякий раз, когда он не соответствует ни одному правилу фильтра.
+Создает новое правило, которое применяет метку к объекту всякий раз, когда он не соответствует ни одному правилу фильтрации.
 
 ```csharp
 public static LabelingRule CreateElseRule(Labeling labeling)
@@ -16,7 +16,7 @@ public static LabelingRule CreateElseRule(Labeling labeling)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| labeling | Labeling | Применяемая маркировка. |
+| labeling | Labeling | Маркировка для применения. |
 
 ### Возвращаемое значение
 

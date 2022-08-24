@@ -1,14 +1,14 @@
 ---
 title: ICurve
 second_title: Справочник по Aspose.GIS for .NET API
-description: AICurve./icurveпредставляет собой последовательность точек.
+description: АICurve./icurve представляет собой последовательность точек.
 type: docs
-weight: 870
+weight: 880
 url: /ru/net/aspose.gis.geometries/icurve/
 ---
 ## ICurve interface
 
-A[`ICurve`](../icurve)представляет собой последовательность точек.
+А[`ICurve`](../icurve) представляет собой последовательность точек.
 
 ```csharp
 public interface ICurve : IGeometry
@@ -27,8 +27,8 @@ public interface ICurve : IGeometry
 | Имя | Описание |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/icurve/toeditable)() | Получает редактируемую копию этой геометрии. |
-| [ToLinearGeometry](../../aspose.gis.geometries/icurve/tolineargeometry#tolineargeometry)() | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя допуск по умолчанию . |
-| [ToLinearGeometry](../../aspose.gis.geometries/icurve/tolineargeometry#tolineargeometry_1)(double) | Получает приблизительную или эквивалентную некривую версию этой геометрии с использованием указанного допуска . |
+| [ToLinearGeometry](../../aspose.gis.geometries/icurve/tolineargeometry#tolineargeometry)() | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя значение по умолчанию.`толерантность` . |
+| [ToLinearGeometry](../../aspose.gis.geometries/icurve/tolineargeometry#tolineargeometry_1)(double) | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя указанный`толерантность` . |
 
 ### Смотрите также
 

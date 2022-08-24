@@ -16,14 +16,14 @@ public void AddInteriorRing(ILinearRing ring)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ring | ILinearRing | Добавляемое кольцо. |
+| ring | ILinearRing | Кольцо добавить. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)этой геометрии и[`SpatialReferenceSystem`](../spatialreferencesystem)аргумента не являются `null`и не равны друг другу. |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) этой геометрии и[`SpatialReferenceSystem`](../spatialreferencesystem) аргумента оба не `null` и не равны друг другу. |
 
 ### Смотрите также
 

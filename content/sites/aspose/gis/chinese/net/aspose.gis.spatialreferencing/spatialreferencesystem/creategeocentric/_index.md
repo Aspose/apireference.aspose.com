@@ -22,7 +22,7 @@ public static GeocentricSpatialReferenceSystem CreateGeocentric(
 
 ### 返回值
 
-新地心 SRS。
+新的地心 SRS。
 
 ### 也可以看看
 

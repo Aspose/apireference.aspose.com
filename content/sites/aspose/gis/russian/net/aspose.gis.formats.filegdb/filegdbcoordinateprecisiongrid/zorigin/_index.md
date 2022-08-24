@@ -1,14 +1,14 @@
 ---
 title: ZOrigin
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает начало координат Z. Если установленоnullиспользуется значение по умолчанию.
+description: Получает или задает начало координаты Z. Если установленоnull используется значение по умолчанию.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/
 ---
 ## FileGdbCoordinatePrecisionGrid.ZOrigin property
 
-Получает или задает начало координат Z. Если установлено`null`используется значение по умолчанию.
+Получает или задает начало координаты Z. Если установлено`null` используется значение по умолчанию.
 
 ```csharp
 public double? ZOrigin { get; set; }

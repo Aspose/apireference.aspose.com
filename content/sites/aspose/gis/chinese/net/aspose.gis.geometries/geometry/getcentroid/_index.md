@@ -1,14 +1,14 @@
 ---
 title: GetCentroid
 second_title: Aspose.GIS for .NET API 参考
-description: 计算该几何的质心
+description: 计算此几何的质心
 type: docs
 weight: 220
 url: /zh/net/aspose.gis.geometries/geometry/getcentroid/
 ---
 ## Geometry.GetCentroid method
 
-计算该几何的质心。
+计算此几何的质心。
 
 ```csharp
 public IPoint GetCentroid()
@@ -16,7 +16,7 @@ public IPoint GetCentroid()
 
 ### 返回值
 
-此几何图形的质心。如果此几何为空，则返回一个空点。 质心等于该几何中最高维度几何的质心 （例如，如果几何中同时包含点和线，则只有线对质心有贡献）。
+此几何图形的质心。如果此几何为空，则返回一个空点。 质心等于此几何中最高维度几何的质心 （例如，如果几何中包含点和线，则只有线对质心有贡献）。
 
 ### 也可以看看
 

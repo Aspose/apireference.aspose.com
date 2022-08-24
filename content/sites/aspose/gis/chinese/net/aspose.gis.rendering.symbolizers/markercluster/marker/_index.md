@@ -1,14 +1,14 @@
 ---
 title: Marker
 second_title: Aspose.GIS for .NET API 参考
-description: 指定集群中心的标记符号
+description: 指定聚类中心的标记符号器
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/markercluster/marker/
 ---
 ## MarkerCluster.Marker property
 
-指定集群中心的标记符号。
+指定聚类中心的标记符号器。
 
 ```csharp
 public VectorSymbolizer Marker { get; set; }

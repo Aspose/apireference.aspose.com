@@ -1,14 +1,14 @@
 ---
 title: Validate
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определите действителен ли этот SRS. См.Validateaspose.gis.spatialreferencing/spatialreferencesystem/validateдля описания достоверности.
+description: Определите действительна ли эта SRS. ВидетьValidateaspose.gis.spatialreferencing/spatialreferencesystem/validate для описания действительности.
 type: docs
 weight: 120
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/validate/
 ---
 ## GeocentricSpatialReferenceSystem.Validate method
 
-Определите, действителен ли этот SRS. См.[`Validate`](../../spatialreferencesystem/validate)для описания достоверности.
+Определите, действительна ли эта SRS. Видеть[`Validate`](../../spatialreferencesystem/validate) для описания действительности.
 
 ```csharp
 public override bool Validate(out string errorMessage)
@@ -20,7 +20,7 @@ public override bool Validate(out string errorMessage)
 
 ### Возвращаемое значение
 
-Если эта SRS действительна -`true`, иначе -`false`.
+Если эта SRS действительна -`true` , в противном случае -`false`.
 
 ### Смотрите также
 

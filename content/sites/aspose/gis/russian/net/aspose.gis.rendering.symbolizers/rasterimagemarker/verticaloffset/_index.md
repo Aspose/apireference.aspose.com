@@ -1,14 +1,14 @@
 ---
 title: VerticalOffset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет вертикальное смещение от местоположения точки до точки привязки формы.
+description: Задает смещение по вертикали от местоположения точки до точки привязки формы.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset/
 ---
 ## RasterImageMarker.VerticalOffset property
 
-Определяет вертикальное смещение от местоположения точки до точки привязки формы.
+Задает смещение по вертикали от местоположения точки до точки привязки формы.
 
 ```csharp
 public Measurement VerticalOffset { get; set; }

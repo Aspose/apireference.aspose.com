@@ -1,14 +1,14 @@
 ---
 title: IsValid
 second_title: Aspose.GIS for .NET API 参考
-description: 确定此Extentaspose.gis/extent是否有效
+description: 确定这是否Extentaspose.gis/extent是有效的
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/extent/isvalid/
 ---
 ## Extent.IsValid property
 
-确定此[`Extent`](../../extent)是否有效。
+确定这是否[`Extent`](../../extent)是有效的。
 
 ```csharp
 public bool IsValid { get; }
@@ -16,7 +16,7 @@ public bool IsValid { get; }
 
 ### 评论
 
-有效范围具有非负[`Width`](../width)和[`Height`](../height)。此外， 它的所有值都不是` NaN` 和有限的。
+有效范围具有非负数[`Width`](../width)和[`Height`](../height).此外， 它的所有值都不是`钠`和有限的.
 
 ### 也可以看看
 

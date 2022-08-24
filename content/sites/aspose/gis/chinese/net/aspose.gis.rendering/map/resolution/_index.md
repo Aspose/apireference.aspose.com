@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Aspose.GIS for .NET API 参考
-description: 用于渲染此地图并在Measurementaspose.gis.rendering/measurement之间转换的分辨率默认为 96
+description: 用于渲染此地图并在两者之间转换的分辨率Measurementaspose.gis.rendering/measurement.默认为 96
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.rendering/map/resolution/
 ---
 ## Map.Resolution property
 
-用于渲染此地图并在[`Measurement`](../../measurement)之间转换的分辨率。默认为 96。
+用于渲染此地图并在两者之间转换的分辨率[`Measurement`](../../measurement).默认为 96。
 
 ```csharp
 public double Resolution { get; set; }
@@ -18,7 +18,7 @@ public double Resolution { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | 参数为负数或等于 0。 |
+| ArgumentOutOfRangeException | 参数为负数或等于 0. |
 
 ### 也可以看看
 

@@ -24,7 +24,7 @@ public class KmlIconResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href) { get; set; } | 将资源位置指定为 URL。 默认值为`null`表示 href 为无。 |
+| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href) { get; set; } | 将资源位置指定为 URL。 默认值为`null`表示href是无。 |
 
 ### 也可以看看
 

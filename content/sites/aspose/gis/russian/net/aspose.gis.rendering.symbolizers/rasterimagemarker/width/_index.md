@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает ширину маркера.
+description: Определяет ширину маркера.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.rendering.symbolizers/rasterimagemarker/width/
 ---
 ## RasterImageMarker.Width property
 
-Задает ширину маркера.
+Определяет ширину маркера.
 
 ```csharp
 public Measurement Width { get; set; }

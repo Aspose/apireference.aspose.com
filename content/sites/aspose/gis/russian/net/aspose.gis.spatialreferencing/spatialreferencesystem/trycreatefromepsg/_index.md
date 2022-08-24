@@ -17,11 +17,11 @@ public static bool TryCreateFromEpsg(int epsg, out SpatialReferenceSystem value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | epsg | Int32 | Код EPSG системы пространственной отсчета. |
-| value | SpatialReferenceSystem& | Когда этот метод возвращает`true`, содержит SRS с указанным кодом EPSG; в противном случае содержит`null`. |
+| value | SpatialReferenceSystem& | Когда этот метод возвращает`true` , содержит SRS с указанным кодом EPSG; в противном случае содержит`null` . |
 
 ### Возвращаемое значение
 
-`true`если известен указанный код EPSG и создана SRS;`false`иначе.
+`true` известен ли указанный код EPSG и создана SRS;`false` в противном случае.
 
 ### Смотрите также
 

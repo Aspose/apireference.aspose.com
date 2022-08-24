@@ -24,7 +24,7 @@ public class AttributesConverterActions
 
 | Имя | Описание |
 | --- | --- |
-| [Exclude](../../aspose.gis/attributesconverteractions/exclude) { get; set; } | Устанавливает`true`для исключения атрибута из целевого слоя. Начальное значение:`false`. |
+| [Exclude](../../aspose.gis/attributesconverteractions/exclude) { get; set; } | Наборы`true` чтобы исключить атрибут из целевого слоя. Начальное значение`false` . |
 
 ### Смотрите также
 

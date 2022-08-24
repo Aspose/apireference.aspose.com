@@ -22,7 +22,7 @@ public void Remove(string name)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 | InvalidOperationException | 集合被锁定。 |
 
 ### 也可以看看
@@ -43,7 +43,7 @@ public void Remove(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 属性索引。 |
+| index | Int32 | 属性的索引。 |
 
 ### 例外
 

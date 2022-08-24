@@ -1,14 +1,14 @@
 ---
 title: AsByte
 second_title: Aspose.GIS for .NET API 参考
-description: 将指定波段数据转换为byte值
+description: 将指定波段数据转换为byte值.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.raster/irastervalues/asbyte/
 ---
 ## IRasterValues.AsByte method
 
-将指定波段数据转换为`byte`值。
+将指定波段数据转换为`byte`值.
 
 ```csharp
 public byte AsByte(int bandIndex = 0)
@@ -16,7 +16,7 @@ public byte AsByte(int bandIndex = 0)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| bandIndex | Int32 | 波段的索引。编号从 0 开始。 |
+| bandIndex | Int32 | 乐队的索引。编号从 0 开始。 |
 
 ### 返回值
 

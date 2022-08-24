@@ -1,14 +1,14 @@
 ---
 title: GetArea
 second_title: Aspose.GIS for .NET API 参考
-description: 计算此几何的面积
+description: 计算此几何图形的面积
 type: docs
 weight: 200
 url: /zh/net/aspose.gis.geometries/geometry/getarea/
 ---
 ## Geometry.GetArea method
 
-计算此几何的面积。
+计算此几何图形的面积。
 
 ```csharp
 public double GetArea()
@@ -16,7 +16,7 @@ public double GetArea()
 
 ### 返回值
 
-这个几何图形的面积。 如果此几何为[`GeometryCollection`](../../geometrycollection)，则此几何的元素面积之和。
+此几何图形的面积。 此几何图形元素的面积总和，如果此几何图形是[`GeometryCollection`](../../geometrycollection).
 
 ### 也可以看看
 

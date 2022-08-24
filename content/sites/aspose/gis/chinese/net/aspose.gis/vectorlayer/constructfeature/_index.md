@@ -1,14 +1,14 @@
 ---
 title: ConstructFeature
 second_title: Aspose.GIS for .NET API 参考
-description: 创建但不添加到图层具有与该图层的属性集合匹配的属性的新要素 为要素设置数据后使用Addaspose.gis/vectorlayer/add将要素添加到图层
+description: 创建但不添加到图层具有与该图层的属性集合匹配的属性的新要素 为要素设置数据后使用Addaspose.gis/vectorlayer/add将特征添加到图层
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/vectorlayer/constructfeature/
 ---
 ## VectorLayer.ConstructFeature method
 
-创建（但不添加到图层）具有与该图层的属性集合匹配的属性的新要素。 为要素设置数据后，使用[`Add`](../add)将要素添加到图层。
+创建（但不添加到图层）具有与该图层的属性集合匹配的属性的新要素。 为要素设置数据后，使用[`Add`](../add)将特征添加到图层。
 
 ```csharp
 public Feature ConstructFeature()
@@ -16,11 +16,11 @@ public Feature ConstructFeature()
 
 ### 返回值
 
-新功能。
+一个新功能。
 
 ### 评论
 
-在调用此方法后不允许更改[`Attributes`](../attributes)。
+更改为[`Attributes`](../attributes)调用此方法后不允许。
 
 ### 也可以看看
 

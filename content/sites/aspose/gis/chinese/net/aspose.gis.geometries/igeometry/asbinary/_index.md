@@ -20,7 +20,7 @@ public byte[] AsBinary()
 
 ### 评论
 
-此方法的输出位于IsoWKB 变体中。
+此方法的输出在IsoWKB 变体。
 
 ### 也可以看看
 
@@ -40,7 +40,7 @@ public byte[] AsBinary(WkbVariant variant)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| variant | WkbVariant | 要使用的众所周知的二进制变体。 |
+| variant | WkbVariant | 使用众所周知的二进制变体。 |
 
 ### 返回值
 
@@ -50,8 +50,8 @@ public byte[] AsBinary(WkbVariant variant)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 几何无法在请求的 WKB 变体中表示。目前，当 HasCurveGeometryof geometry 是`true`并且 WKB 变体是 时会发生这种情况 SimpleFeatureAccessOutdated。 |
-| ArgumentOutOfRangeException | *variant*不是有效的[`WkbVariant`](../../wkbvariant)。 |
+| NotSupportedException | 几何图形无法在请求的 WKB 变体中表示。目前这种情况发生在 [`HasCurveGeometry`](../hascurvegeometry)几何学是`true`和 WKB 变体是 SimpleFeatureAccessOutdated. |
+| ArgumentOutOfRangeException | *variant*不是有效的[`WkbVariant`](../../wkbvariant). |
 
 ### 也可以看看
 

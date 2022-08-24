@@ -1,14 +1,14 @@
 ---
 title: Flat
 second_title: Справочник по Aspose.GIS for .NET API
-description: Преобразует число в текст с фиксированной точкой без научного представления.
+description: Преобразует число в текст с фиксированной точкой без экспоненциальной записи.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis/numericformat/flat/
 ---
 ## NumericFormat.Flat method
 
-Преобразует число в текст с фиксированной точкой без научного представления.
+Преобразует число в текст с фиксированной точкой без экспоненциальной записи.
 
 ```csharp
 public static NumericFormat Flat(int significantDigits)
@@ -16,7 +16,7 @@ public static NumericFormat Flat(int significantDigits)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| significantDigits | Int32 | Количество значащих цифр. Максимально доступная точность равна "308" |
+| significantDigits | Int32 | Количество значащих цифр. Максимально доступная точность — «308». |
 
 ### Возвращаемое значение
 
@@ -30,7 +30,7 @@ public static NumericFormat Flat(int significantDigits)
 
 ### Примечания
 
-Внутренний код генерирует числовые строки для WKT через:координату.ToString("0.##. .", CultureInfo.InvariantCulture) решение.
+Внутренний код генерирует числовые строки для WKT с помощью: координаты.ToString("0.##..", CultureInfo.InvariantCulture) решения.
 
 ### Смотрите также
 

@@ -21,13 +21,13 @@ public static Dataset Open(string path, FileDriver driver)
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
@@ -55,13 +55,13 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
@@ -87,18 +87,18 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
@@ -124,18 +124,18 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
@@ -165,14 +165,14 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 
 ### 返回值
 
-[`Dataset`](../../dataset)的一个实例。
+一个实例[`Dataset`](../../dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
 | [GisException](../../gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 

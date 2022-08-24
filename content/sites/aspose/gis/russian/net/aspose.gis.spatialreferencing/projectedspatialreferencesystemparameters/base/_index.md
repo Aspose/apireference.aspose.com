@@ -1,14 +1,14 @@
 ---
 title: Base
 second_title: Справочник по Aspose.GIS for .NET API
-description: Базовая географическая SRS SRS к которой применяется проекция. Вы ДОЛЖНЫ установить для этого свойства значение notnull чтобы создать действительный SRS это свойство не имеет значения по умолчанию.
+description: Базовая географическая SRS SRS к которой применяется проекция. Вы ДОЛЖНЫ установить для этого свойства значение notnull значение для создания действительной SRS это свойство не имеет значения по умолчанию.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base/
 ---
 ## ProjectedSpatialReferenceSystemParameters.Base property
 
-Базовая географическая SRS (SRS, к которой применяется проекция). Вы ДОЛЖНЫ установить для этого свойства значение not`null`, чтобы создать действительный SRS, это свойство не имеет значения по умолчанию.
+Базовая географическая SRS (SRS, к которой применяется проекция). Вы ДОЛЖНЫ установить для этого свойства значение not`null` значение для создания действительной SRS, это свойство не имеет значения по умолчанию.
 
 ```csharp
 public GeographicSpatialReferenceSystem Base { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RasterBand
 second_title: Справочник по Aspose.GIS for .NET API
-description: Содержит данные о канале растра.
+description: Содержит данные о растре Band.
 type: docs
-weight: 1250
+weight: 1260
 url: /ru/net/aspose.gis.raster/rasterband/
 ---
 ## RasterBand class
 
-Содержит данные о канале растра.
+Содержит данные о растре Band.
 
 ```csharp
 public class RasterBand : IRasterBand
@@ -18,7 +18,7 @@ public class RasterBand : IRasterBand
 
 | Имя | Описание |
 | --- | --- |
-| [RasterBand](rasterband)(BandTypes) | Создать экземпляр[`RasterBand`](../rasterband). |
+| [RasterBand](rasterband)(BandTypes) | Создать экземпляр[`RasterBand`](../rasterband) . |
 
 ## Характеристики
 
@@ -30,7 +30,7 @@ public class RasterBand : IRasterBand
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterband/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis.raster/rasterband/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

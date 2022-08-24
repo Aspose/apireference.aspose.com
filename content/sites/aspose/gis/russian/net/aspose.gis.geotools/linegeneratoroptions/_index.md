@@ -1,14 +1,14 @@
 ---
 title: LineGeneratorOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Варианты создания линий на поверхности или области.
+description: Варианты линий производства на поверхности или площади.
 type: docs
-weight: 720
+weight: 730
 url: /ru/net/aspose.gis.geotools/linegeneratoroptions/
 ---
 ## LineGeneratorOptions class
 
-Варианты создания линий на поверхности или области.
+Варианты линий производства на поверхности или площади.
 
 ```csharp
 public class LineGeneratorOptions
@@ -18,22 +18,22 @@ public class LineGeneratorOptions
 
 | Имя | Описание |
 | --- | --- |
-| [LineGeneratorOptions](linegeneratoroptions#constructor)() | Создать экземпляр с полями инициализации по умолчанию. |
-| [LineGeneratorOptions](linegeneratoroptions#constructor_1)(int, int) | Создать экземпляр. |
+| [LineGeneratorOptions](linegeneratoroptions)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.gis.geotools/linegeneratoroptions/count) { get; set; } | Количество строк для создания. |
+| [Place](../../aspose.gis.geotools/linegeneratoroptions/place) { get; set; } | Режим размещения в сгенерированных ячейках. |
 | [Seed](../../aspose.gis.geotools/linegeneratoroptions/seed) { get; set; } | Число, используемое для вычисления начального значения для последовательности псевдослучайных чисел. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/linegeneratoroptions/clone)() | Клонировать объекты один в другой. |
-| override [ToString](../../aspose.gis.geotools/linegeneratoroptions/tostring)() | Возвращает строку, представляющую текущий объект. |
+| [Clone](../../aspose.gis.geotools/linegeneratoroptions/clone)() | Клонировать объекты друг в друга. |
+| override [ToString](../../aspose.gis.geotools/linegeneratoroptions/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

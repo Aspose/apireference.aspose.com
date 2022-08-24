@@ -1,7 +1,7 @@
 ---
 title: UpperLeftX
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает x-координату левого верхнего угла растра.
+description: Получает xкоординату левого верхнего угла растра.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.raster/rasterlayer/upperleftx/

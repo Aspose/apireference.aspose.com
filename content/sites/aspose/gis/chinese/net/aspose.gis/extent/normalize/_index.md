@@ -1,14 +1,14 @@
 ---
 title: Normalize
 second_title: Aspose.GIS for .NET API 参考
-description: 交换XMinaspose.gis/extent/xmin与XMaxaspose.gis/extent/xmax如果Widthaspose.gis/extent/width是负数并且 YMinaspose.gis/extent/ymin和YMaxaspose.gis/extent/ymax如果Heightaspose.gis/extent/height为负数
+description: 交换XMinaspose.gis/extent/xmin和XMaxaspose.gis/extent/xmax如果Widthaspose.gis/extent/width是负数并且 YMinaspose.gis/extent/ymin和YMaxaspose.gis/extent/ymax如果Heightaspose.gis/extent/height是负数
 type: docs
 weight: 200
 url: /zh/net/aspose.gis/extent/normalize/
 ---
 ## Extent.Normalize method
 
-交换[`XMin`](../xmin)与[`XMax`](../xmax)如果[`Width`](../width)是负数并且 [`YMin`](../ymin)和[`YMax`](../ymax)如果[`Height`](../height)为负数。
+交换[`XMin`](../xmin)和[`XMax`](../xmax)如果[`Width`](../width)是负数并且 [`YMin`](../ymin)和[`YMax`](../ymax)如果[`Height`](../height)是负数。
 
 ```csharp
 public void Normalize()

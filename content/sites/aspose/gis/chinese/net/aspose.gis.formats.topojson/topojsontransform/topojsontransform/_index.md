@@ -1,14 +1,14 @@
 ---
 title: TopoJsonTransform
 second_title: Aspose.GIS for .NET API 参考
-description: 创建TopoJsonTransformaspose.gis.formats.topojson/topojsontransform的新实例
+description: 创建新的实例TopoJsonTransformaspose.gis.formats.topojson/topojsontransform.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.topojson/topojsontransform/topojsontransform/
 ---
 ## TopoJsonTransform constructor
 
-创建[`TopoJsonTransform`](../../topojsontransform)的新实例。
+创建新的实例[`TopoJsonTransform`](../../topojsontransform).
 
 ```csharp
 public TopoJsonTransform(double xTranslate, double yTranslate, double xScale, double yScale)
@@ -25,7 +25,7 @@ public TopoJsonTransform(double xTranslate, double yTranslate, double xScale, do
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 其中一个比例等于 0。 |
+| ArgumentException | 其中一个刻度等于 0。 |
 
 ### 也可以看看
 

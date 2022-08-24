@@ -3,7 +3,7 @@ title: SingleBandColor
 second_title: Aspose.GIS for .NET API 参考
 description: 单波段着色器指定光栅的灰色分量
 type: docs
-weight: 1430
+weight: 1440
 url: /zh/net/aspose.gis.rendering.colorizers/singlebandcolor/
 ---
 ## SingleBandColor class

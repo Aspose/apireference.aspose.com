@@ -16,11 +16,11 @@ public string AsText()
 
 ### 返回值
 
-此几何图形的众所周知的文本表示。
+此几何图形的知名文本表示。
 
 ### 评论
 
-此方法的输出位于IsoWKT 变体. 默认数字格式为[`General`](../../../aspose.gis/numericformat/general)（精度为“0”）。
+这个方法的输出在IsoWKT 变体. 默认数字格式为[`General`](../../../aspose.gis/numericformat/general)（精度为“0”）.
 
 ### 也可以看看
 
@@ -40,22 +40,22 @@ public string AsText(WktVariant variant)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| variant | WktVariant | 要使用的众所周知的文本变体。 |
+| variant | WktVariant | 使用的知名文本变体。 |
 
 ### 返回值
 
-此几何图形的众所周知的文本表示。
+此几何图形的知名文本表示。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 几何无法在请求的 WKT 变体中表示。目前这种情况发生在 [`HasCurveGeometry`](../hascurvegeometry)of geometry 是`true`并且 WKT 变体是 SimpleFeatureAccessOutdated。 |
-| ArgumentOutOfRangeException | *variant*不是有效的[`WktVariant`](../../wktvariant)。 |
+| NotSupportedException | 几何图形无法在请求的 WKT 变体中表示。目前这发生在when [`HasCurveGeometry`](../hascurvegeometry)几何学是`true`和 WKT 变体是 SimpleFeatureAccessOutdated. |
+| ArgumentOutOfRangeException | *variant*不是有效的[`WktVariant`](../../wktvariant). |
 
 ### 评论
 
-默认数字格式为[`General`](../../../aspose.gis/numericformat/general)（精度为“0”）。
+默认数字格式是[`General`](../../../aspose.gis/numericformat/general)（精度为“0”）.
 
 ### 也可以看看
 
@@ -76,19 +76,19 @@ public string AsText(WktVariant variant, NumericFormat format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| variant | WktVariant | 要使用的众所周知的文本变体。 |
-| format | NumericFormat | 转换为字符串的坐标格式。请参阅[`NumericFormat`](../../../aspose.gis/numericformat)以获取它。 |
+| variant | WktVariant | 使用的知名文本变体。 |
+| format | NumericFormat | 转换为字符串的坐标格式。见[`NumericFormat`](../../../aspose.gis/numericformat)为拿到它，为实现它。 |
 
 ### 返回值
 
-此几何图形的众所周知的文本表示。
+此几何图形的知名文本表示。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 几何无法在请求的 WKT 变体中表示。目前这种情况发生在 [`HasCurveGeometry`](../hascurvegeometry)of geometry 是`true`并且 WKT 变体是 SimpleFeatureAccessOutdated。 |
-| ArgumentOutOfRangeException | *variant*不是有效的[`WktVariant`](../../wktvariant)。 |
+| NotSupportedException | 几何图形无法在请求的 WKT 变体中表示。目前这发生在when [`HasCurveGeometry`](../hascurvegeometry)几何学是`true`和 WKT 变体是 SimpleFeatureAccessOutdated. |
+| ArgumentOutOfRangeException | *variant*不是有效的[`WktVariant`](../../wktvariant). |
 
 ### 也可以看看
 

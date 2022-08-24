@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по Aspose.GIS for .NET API
-description: Добавляет новыйLabelingRuleaspose.gis.rendering.labelings/labelingrule.
+description: Добавляет новыйLabelingRuleaspose.gis.rendering.labelings/labelingrule .
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering.labelings/rulebasedlabeling/add/
 ---
 ## Add(Func&lt;Feature, bool&gt;, Labeling) {#add_1}
 
-Добавляет новый[`LabelingRule`](../../labelingrule).
+Добавляет новый[`LabelingRule`](../../labelingrule) .
 
 ```csharp
 public void Add(Func<Feature, bool> filter, Labeling labeling)
@@ -17,7 +17,7 @@ public void Add(Func<Feature, bool> filter, Labeling labeling)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filter | Func`2 | Определяет, когда маркировка должна применяться к объекту. |
-| labeling | Labeling | Метка, применяемая к объекту, когда*filter*возвращает true. |
+| labeling | Labeling | Маркировка, применяемая к функции, когда*filter* возвращает истину. |
 
 ### Смотрите также
 
@@ -39,13 +39,13 @@ public void Add(LabelingRule rule)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rule | LabelingRule | Правило для добавления. |
+| rule | LabelingRule | Правило добавить. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

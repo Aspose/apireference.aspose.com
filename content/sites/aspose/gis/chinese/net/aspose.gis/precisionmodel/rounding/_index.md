@@ -26,11 +26,11 @@ public static PrecisionModel Rounding(int significantDigits)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | 有效位数小于 0 或大于 15。 |
+| ArgumentOutOfRangeException | 有效位数小于 0 或大于 15. |
 
 ### 评论
 
-当应用于坐标时，以下代码用于降低精度:
+应用于坐标时，使用以下代码降低精度：
 
 ```csharp
 double rounded = Math.Round(value, significantDigits);

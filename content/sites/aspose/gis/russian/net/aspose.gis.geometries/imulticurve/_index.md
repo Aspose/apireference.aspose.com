@@ -1,14 +1,14 @@
 ---
 title: IMultiCurve
 second_title: Справочник по Aspose.GIS for .NET API
-description: AMultiCurve./multicurveявляется одномернымGeometryCollection./geometrycollection элементами которой являютсяCurve./curves.
+description: АMultiCurve./multicurve является одномернымGeometryCollection./geometrycollection  элементы которогоCurve./curve с.
 type: docs
-weight: 930
+weight: 940
 url: /ru/net/aspose.gis.geometries/imulticurve/
 ---
 ## IMultiCurve interface
 
-A[`MultiCurve`](../multicurve)является одномерным[`GeometryCollection`](../geometrycollection) элементами которой являются[`Curve`](../curve)s.
+А[`MultiCurve`](../multicurve) является одномерным[`GeometryCollection`](../geometrycollection) , элементы которого[`Curve`](../curve) с.
 
 ```csharp
 public interface IMultiCurve : IGeometryCollection
@@ -19,8 +19,8 @@ public interface IMultiCurve : IGeometryCollection
 | Имя | Описание |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/imulticurve/toeditable)() | Получает редактируемую копию этой геометрии. |
-| [ToLinearGeometry](../../aspose.gis.geometries/imulticurve/tolineargeometry#tolineargeometry)() | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя допуск по умолчанию . |
-| [ToLinearGeometry](../../aspose.gis.geometries/imulticurve/tolineargeometry#tolineargeometry_1)(double) | Получает приблизительную или эквивалентную некривую версию этой геометрии с использованием указанного допуска . |
+| [ToLinearGeometry](../../aspose.gis.geometries/imulticurve/tolineargeometry#tolineargeometry)() | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя значение по умолчанию.`толерантность` . |
+| [ToLinearGeometry](../../aspose.gis.geometries/imulticurve/tolineargeometry#tolineargeometry_1)(double) | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя указанный`толерантность` . |
 
 ### Смотрите также
 

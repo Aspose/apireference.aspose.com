@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Справочник по Aspose.GIS for .NET API
-description: Освобождает ресурсы используемыеRasterLayeraspose.gis.raster/rasterlayer.
+description: Освобождает ресурсы используемыеRasterLayeraspose.gis.raster/rasterlayer .
 type: docs
 weight: 120
 url: /ru/net/aspose.gis.raster/rasterlayer/dispose/
 ---
 ## RasterLayer.Dispose method
 
-Освобождает ресурсы, используемые[`RasterLayer`](../../rasterlayer).
+Освобождает ресурсы, используемые[`RasterLayer`](../../rasterlayer) .
 
 ```csharp
 public void Dispose()

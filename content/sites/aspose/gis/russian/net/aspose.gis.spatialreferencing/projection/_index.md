@@ -3,7 +3,7 @@ title: Projection
 second_title: Справочник по Aspose.GIS for .NET API
 description: Представляет метод проекции с параметрами который преобразует долготу широту в x y.
 type: docs
-weight: 2130
+weight: 2140
 url: /ru/net/aspose.gis.spatialreferencing/projection/
 ---
 ## Projection class
@@ -23,16 +23,16 @@ public class Projection : IdentifiableObject
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Идентификатор этого идентифицируемого объекта. |
 | [LinearParametersUnit](../../aspose.gis.spatialreferencing/projection/linearparametersunit) { get; } | Единица, используемая для линейных параметров. |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Имя этого объекта. |
-| [ParametersNames](../../aspose.gis.spatialreferencing/projection/parametersnames) { get; } | Получает перечисляемый набор имен параметров, заданных этой проекции |
+| [ParametersNames](../../aspose.gis.spatialreferencing/projection/parametersnames) { get; } | Получает перечисляемый набор имен параметров, заданных для этой проекции |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [GetParameterValue](../../aspose.gis.spatialreferencing/projection/getparametervalue)(string, ParameterType) | Получает параметр с указанным именем этой проекции. |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/projection/isequivalent)(Projection) | Определяет эквивалентность двух проекций. Эквивалентные проекции отображают (долготу, широту) в (x, y) в таким же образом. |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, представляющую текущий объект. |
-| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue)(string, ParameterType) | Получает параметр с указанным именем этой проекции. Если такого параметра нет - возвращает`null`. |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/projection/isequivalent)(Projection) | Определяет эквивалентность двух проекций. Эквивалентные проекции сопоставляются (долгота, широта) с (x, y) таким же образом. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, которая представляет текущий объект. |
+| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue)(string, ParameterType) | Получает параметр с указанным именем этой проекции. Если такого параметра нет - возвращает`null` . |
 
 ### Смотрите также
 

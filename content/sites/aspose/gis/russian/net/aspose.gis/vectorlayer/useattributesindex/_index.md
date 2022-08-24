@@ -1,14 +1,14 @@
 ---
 title: UseAttributesIndex
 second_title: Справочник по Aspose.GIS for .NET API
-description: Загружает индекс атрибута для ускорения фильтрации по значению атрибута в методах фильтрации таких какWhereGreateraspose.gis/featuressequence/wheregreater. Если индекс не существует сначала создает его. ИспользуйтеforceRebuildдля принудительного восстановления индекса.
+description: Загружает индекс атрибута для ускорения фильтрации по значению атрибута в таких методах фильтрации какWhereGreateraspose.gis/featuressequence/wheregreater. Если индекс не существует сначала создает его. ИспользоватьforceRebuild для принудительного восстановления индекса.
 type: docs
 weight: 160
 url: /ru/net/aspose.gis/vectorlayer/useattributesindex/
 ---
 ## UseAttributesIndex(string, string, bool) {#useattributesindex_1}
 
-Загружает индекс атрибута для ускорения фильтрации по значению атрибута в методах фильтрации, таких как[`WhereGreater`](../../featuressequence/wheregreater). Если индекс не существует, сначала создает его. Используйте*forceRebuild*для принудительного восстановления индекса.
+Загружает индекс атрибута для ускорения фильтрации по значению атрибута в таких методах фильтрации, как[`WhereGreater`](../../featuressequence/wheregreater). Если индекс не существует, сначала создает его. Использовать*forceRebuild* для принудительного восстановления индекса.
 
 ```csharp
 public void UseAttributesIndex(string indexPath, string attributeName, bool forceRebuild = false)
@@ -24,11 +24,11 @@ public void UseAttributesIndex(string indexPath, string attributeName, bool forc
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Атрибут с таким именем не существует в слое. |
-| IOException | Произошла ошибка ввода-вывода. |
-| InvalidOperationException | Индекс указанного атрибута, уже загруженного для этого слоя. |
-| [GisException](../../gisexception) | Файл существует и не является файлом индекса атрибутов, созданным Aspose.GIS. |
+| IOException | Произошла ошибка ввода/вывода. |
+| InvalidOperationException | Индекс указанного атрибута уже загружен для этого слоя. |
+| [GisException](../../gisexception) | Файл существует, и это не файл индекса атрибутов, созданный Aspose.GIS. |
 
 ### Смотрите также
 
@@ -40,7 +40,7 @@ public void UseAttributesIndex(string indexPath, string attributeName, bool forc
 
 ## UseAttributesIndex(AbstractPath, string, bool) {#useattributesindex}
 
-Загружает индекс атрибута для ускорения фильтрации по значению атрибута в методах фильтрации, таких как[`WhereGreater`](../../featuressequence/wheregreater). Если индекс не существует, сначала создает его. Используйте*forceRebuild*для принудительного восстановления индекса.
+Загружает индекс атрибута для ускорения фильтрации по значению атрибута в таких методах фильтрации, как[`WhereGreater`](../../featuressequence/wheregreater). Если индекс не существует, сначала создает его. Использовать*forceRebuild* для принудительного восстановления индекса.
 
 ```csharp
 public virtual void UseAttributesIndex(AbstractPath indexPath, string attributeName, 
@@ -57,11 +57,11 @@ public virtual void UseAttributesIndex(AbstractPath indexPath, string attributeN
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Атрибут с таким именем не существует в слое. |
-| IOException | Произошла ошибка ввода-вывода. |
-| InvalidOperationException | Индекс указанного атрибута, уже загруженного для этого слоя. |
-| [GisException](../../gisexception) | Файл существует и не является файлом индекса атрибутов, созданным Aspose.GIS. |
+| IOException | Произошла ошибка ввода/вывода. |
+| InvalidOperationException | Индекс указанного атрибута уже загружен для этого слоя. |
+| [GisException](../../gisexception) | Файл существует, и это не файл индекса атрибутов, созданный Aspose.GIS. |
 
 ### Смотрите также
 

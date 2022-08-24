@@ -16,8 +16,8 @@ public void GetValuesOnExpression(RasterRect rect, RasterReadExpression expressi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RasterRect | Блок ячеек растра, где считываются значения. |
-| expression | RasterReadExpression | Обеспечивает способ обработки значения диапазона. |
+| rect | RasterRect | Блок ячеек растра, в который считываются значения. |
+| expression | RasterReadExpression | Предоставляет способ обработки значения диапазона. |
 
 ### Смотрите также
 

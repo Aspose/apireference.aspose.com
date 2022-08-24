@@ -1,14 +1,14 @@
 ---
 title: HasGeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет имеет ли эта SRS географическую датум. Это верно для любой географической проектируемой и геоцентрической СКИ.
+description: Определяет имеет ли эта SRS географическую датум. Это верно для каждой географической прогнозируемой и геоцентрической SRS.
 type: docs
 weight: 110
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/hasgeographicdatum/
 ---
 ## SpatialReferenceSystem.HasGeographicDatum property
 
-Определяет, имеет ли эта SRS географическую датум. Это верно для любой географической, проектируемой и геоцентрической СКИ.
+Определяет, имеет ли эта SRS географическую датум. Это верно для каждой географической, прогнозируемой и геоцентрической SRS.
 
 ```csharp
 public abstract bool HasGeographicDatum { get; }

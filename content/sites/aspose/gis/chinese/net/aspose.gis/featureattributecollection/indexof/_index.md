@@ -26,7 +26,7 @@ public int IndexOf(string name)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 
 ### 也可以看看
 

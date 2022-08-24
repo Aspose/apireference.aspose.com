@@ -22,7 +22,7 @@ public ILinearRing ExteriorRing { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)of this参数的几何和[`SpatialReferenceSystem`](../spatialreferencesystem)都不是`null` 并且彼此不相等. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这种几何形状和[`SpatialReferenceSystem`](../spatialreferencesystem)论点都不是`null` 和不相等。 |
 
 ### 也可以看看
 

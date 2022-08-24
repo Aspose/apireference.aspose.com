@@ -16,7 +16,7 @@ public virtual VectorLayer CreateLayer()
 
 ### 返回值
 
-A[`VectorLayer`](../../vectorlayer)为写入而打开。
+一个[`VectorLayer`](../../vectorlayer)开放写作。
 
 ### 也可以看看
 
@@ -37,11 +37,11 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | 新层的空间参考系统。 |
+| spatialReferenceSystem | SpatialReferenceSystem | 新图层的空间参考系统。 |
 
 ### 返回值
 
-A[`VectorLayer`](../../vectorlayer)为写入而打开。
+一个[`VectorLayer`](../../vectorlayer)开放写作。
 
 ### 也可以看看
 
@@ -65,11 +65,11 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | options | DriverOptions | 打开选项。 |
-| spatialReferenceSystem | SpatialReferenceSystem | 新层的空间参考系统。 |
+| spatialReferenceSystem | SpatialReferenceSystem | 新图层的空间参考系统。 |
 
 ### 返回值
 
-A[`VectorLayer`](../../vectorlayer)为写入而打开。
+一个[`VectorLayer`](../../vectorlayer)开放写作。
 
 ### 例外
 
@@ -92,7 +92,7 @@ A[`VectorLayer`](../../vectorlayer)为写入而打开。
 
 ## CreateLayer(string, SpatialReferenceSystem) {#createlayer_4}
 
-创建具有指定名称的新矢量图层并将其打开以进行附加。
+创建一个具有指定名称的新矢量图层并打开它以进行附加。
 
 ```csharp
 public virtual VectorLayer CreateLayer(string name, 
@@ -102,11 +102,11 @@ public virtual VectorLayer CreateLayer(string name,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 层的名称。 |
-| spatialReferenceSystem | SpatialReferenceSystem | 新层的空间参考系统。 |
+| spatialReferenceSystem | SpatialReferenceSystem | 新图层的空间参考系统。 |
 
 ### 返回值
 
-A[`VectorLayer`](../../vectorlayer)为写入而打开。
+一个[`VectorLayer`](../../vectorlayer)开放写作。
 
 ### 例外
 
@@ -128,7 +128,7 @@ A[`VectorLayer`](../../vectorlayer)为写入而打开。
 
 ## CreateLayer(string, DriverOptions, SpatialReferenceSystem) {#createlayer_3}
 
-创建具有指定名称的新矢量图层并将其打开以进行附加。
+创建一个具有指定名称的新矢量图层并打开它以进行附加。
 
 ```csharp
 public virtual VectorLayer CreateLayer(string name, DriverOptions options, 
@@ -139,11 +139,11 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 | --- | --- | --- |
 | name | String | 层的名称。 |
 | options | DriverOptions | 打开选项。 |
-| spatialReferenceSystem | SpatialReferenceSystem | 新层的空间参考系统。 |
+| spatialReferenceSystem | SpatialReferenceSystem | 新图层的空间参考系统。 |
 
 ### 返回值
 
-A[`VectorLayer`](../../vectorlayer)为写入而打开。
+一个[`VectorLayer`](../../vectorlayer)开放写作。
 
 ### 例外
 

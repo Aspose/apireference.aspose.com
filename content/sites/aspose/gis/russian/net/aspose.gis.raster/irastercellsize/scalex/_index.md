@@ -1,14 +1,14 @@
 ---
 title: ScaleX
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает x-компонент ячейки или ширину в пикселях x-масштаб.
+description: Получает xкомпонент ширины ячейки или пикселя xмасштаб.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.raster/irastercellsize/scalex/
 ---
 ## IRasterCellSize.ScaleX property
 
-Получает x-компонент ячейки или ширину в пикселях (x-масштаб).
+Получает x-компонент ширины ячейки или пикселя (x-масштаб).
 
 ```csharp
 public double ScaleX { get; }

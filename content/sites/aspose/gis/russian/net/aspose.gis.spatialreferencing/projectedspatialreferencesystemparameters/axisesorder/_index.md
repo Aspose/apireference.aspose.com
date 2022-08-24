@@ -1,14 +1,14 @@
 ---
 title: AxisesOrder
 second_title: Справочник по Aspose.GIS for .NET API
-description: Порядок осей. По умолчанию используетсяXY.
+description: Порядок осей. По умолчаниюXY .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder/
 ---
 ## ProjectedSpatialReferenceSystemParameters.AxisesOrder property
 
-Порядок осей. По умолчанию используетсяXY.
+Порядок осей. По умолчаниюXY .
 
 ```csharp
 public ProjectedAxisesOrder AxisesOrder { get; set; }
@@ -18,7 +18,7 @@ public ProjectedAxisesOrder AxisesOrder { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Выбрасывается в установщик, когда аргумент не является допустимым членом перечисления. |
+| ArgumentException | Брошен в установщик, когда аргумент не является допустимым членом перечисления. |
 
 ### Смотрите также
 

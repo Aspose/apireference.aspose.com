@@ -1,14 +1,14 @@
 ---
 title: GeometryType
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает тип геометрии слоя.
+description: Получает тип геометрии для слоя.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis/vectorlayer/geometrytype/
 ---
 ## VectorLayer.GeometryType property
 
-Получает тип геометрии слоя.
+Получает тип геометрии для слоя.
 
 ```csharp
 public abstract GeometryType GeometryType { get; }

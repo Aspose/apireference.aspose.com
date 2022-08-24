@@ -17,15 +17,15 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | destinationPath | String | Путь к выходному слою. |
-| destinationDriver | FileDriver | Драйвер формата выходного слоя. |
+| destinationDriver | FileDriver | Драйвер формата для выходного слоя. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Любой аргумент равен`null`. |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Любой аргумент`null`. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 | [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
 
 ### Смотрите также
@@ -48,14 +48,14 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | destinationPath | AbstractPath | Путь к выходному слою. |
-| destinationDriver | FileDriver | Драйвер формата выходного слоя. |
+| destinationDriver | FileDriver | Драйвер формата для выходного слоя. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 | [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
 
 ### Смотрите также
@@ -79,17 +79,17 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | destinationPath | String | Путь к выходному слою. |
-| destinationDriver | FileDriver | Драйвер формата выходного слоя. |
-| options | SavingOptions | Параметры процедуры сохранения. |
+| destinationDriver | FileDriver | Драйвер формата для выходного слоя. |
+| options | SavingOptions | Варианты процедуры сохранения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 | [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
-| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*destinationDriver*. |
+| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*destinationDriver* . |
 
 ### Смотрите также
 
@@ -113,17 +113,17 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | destinationPath | AbstractPath | Путь к выходному слою. |
-| destinationDriver | FileDriver | Драйвер формата выходного слоя. |
-| options | SavingOptions | Параметры процедуры сохранения. |
+| destinationDriver | FileDriver | Драйвер формата для выходного слоя. |
+| options | SavingOptions | Варианты процедуры сохранения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 | [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
-| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*destinationDriver*. |
+| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*destinationDriver* . |
 
 ### Смотрите также
 

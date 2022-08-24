@@ -1,14 +1,14 @@
 ---
 title: Location
 second_title: Aspose.GIS for .NET API 参考
-description: 获取此 AbstractPath 位置的字符串表示形式
+description: 获取此位置的字符串表示抽象路径.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/abstractpath/location/
 ---
 ## AbstractPath.Location property
 
-获取此` AbstractPath` 位置的字符串表示形式。
+获取此位置的字符串表示`抽象路径`.
 
 ```csharp
 public abstract string Location { get; }
@@ -16,7 +16,7 @@ public abstract string Location { get; }
 
 ### 评论
 
-任意两个[`AbstractPath`](../../abstractpath)等于`Location`指向同一个文件或目录。 字符串表示必须使用[`Separator`](../separator)来分隔目录级别。 &lt;cr /&gt; 例如，对于本地文件系统，位置是文件系统路径， 对于 Azure blob，它可以是 blob 容器中 blob 的路径。
+任意两个[`AbstractPath`](../../abstractpath) 等于`Location`s指向同一个文件或目录。 字符串表示必须使用[`Separator`](../separator)分隔目录级别。 例如，对于本地文件系统，位置是文件系统路径， 对于 Azure blob，它可以是 blob 容器中 blob 的路径。
 
 ### 也可以看看
 

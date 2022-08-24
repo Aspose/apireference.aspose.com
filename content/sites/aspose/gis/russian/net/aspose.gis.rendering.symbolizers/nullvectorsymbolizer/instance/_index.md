@@ -1,14 +1,14 @@
 ---
 title: Instance
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает экземпляр NullSymbolizer .
+description: Получает экземплярNullSymbolizer .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance/
 ---
 ## NullVectorSymbolizer.Instance property
 
-Получает экземпляр` NullSymbolizer` .
+Получает экземпляр`NullSymbolizer` .
 
 ```csharp
 public static NullVectorSymbolizer Instance { get; }

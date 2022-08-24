@@ -1,14 +1,14 @@
 ---
 title: MapUnits
 second_title: Aspose.GIS for .NET API 参考
-description: 返回 Measurement 的新实例它表示地图空间参考单位中的长度
+description: 返回一个新的实例测量表示地图空间参考单位中的长度
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering/measurement/mapunits/
 ---
 ## Measurement.MapUnits method
 
-返回` Measurement` 的新实例，它表示地图空间参考单位中的长度。
+返回一个新的实例`测量`表示地图空间参考单位中的长度。
 
 ```csharp
 public static Measurement MapUnits(double value)
@@ -16,11 +16,11 @@ public static Measurement MapUnits(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 单位数。 |
+| value | Double | 单位数量。 |
 
 ### 返回值
 
-` 测量` 类的新实例。
+的新实例`测量`班级。
 
 ### 也可以看看
 

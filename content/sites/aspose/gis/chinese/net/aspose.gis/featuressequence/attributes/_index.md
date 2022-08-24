@@ -1,14 +1,14 @@
 ---
 title: Attributes
 second_title: Aspose.GIS for .NET API 参考
-description: 获取此VectorLayeraspose.gis/vectorlayer中特征的自定义属性集合
+description: 获取此功能的自定义属性集合VectorLayeraspose.gis/vectorlayer.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/featuressequence/attributes/
 ---
 ## FeaturesSequence.Attributes property
 
-获取此[`VectorLayer`](../../vectorlayer)中特征的自定义属性集合。
+获取此功能的自定义属性集合[`VectorLayer`](../../vectorlayer).
 
 ```csharp
 public abstract FeatureAttributeCollection Attributes { get; }
@@ -16,7 +16,7 @@ public abstract FeatureAttributeCollection Attributes { get; }
 
 ### 适当的价值
 
-属性集合。
+属性的集合。
 
 ### 也可以看看
 

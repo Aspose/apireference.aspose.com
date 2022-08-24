@@ -3,7 +3,7 @@ title: StrokeStyle
 second_title: Aspose.GIS for .NET API 参考
 description: 指定笔触样式
 type: docs
-weight: 1690
+weight: 1700
 url: /zh/net/aspose.gis.rendering/strokestyle/
 ---
 ## StrokeStyle enumeration

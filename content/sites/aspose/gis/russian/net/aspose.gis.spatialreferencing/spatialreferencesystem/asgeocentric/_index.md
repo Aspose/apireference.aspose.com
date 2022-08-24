@@ -1,14 +1,14 @@
 ---
 title: AsGeocentric
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает этот SRS преобразованный вGeocentricSpatialReferenceSystemaspose.gis.spatialreferencing/geocentricspatialreferencesystem. ИспользуйтеTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
+description: Возвращает этот SRS преобразованный вGeocentricSpatialReferenceSystemaspose.gis.spatialreferencing/geocentricspatialreferencesystem . ИспользоватьTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/asgeocentric/
 ---
 ## SpatialReferenceSystem.AsGeocentric property
 
-Возвращает этот SRS, преобразованный в[`GeocentricSpatialReferenceSystem`](../../geocentricspatialreferencesystem). Используйте[`Type`](../type), чтобы узнать, возможно ли преобразование.
+Возвращает этот SRS, преобразованный в[`GeocentricSpatialReferenceSystem`](../../geocentricspatialreferencesystem) . Использовать[`Type`](../type) чтобы узнать, возможно ли преобразование.
 
 ```csharp
 public virtual GeocentricSpatialReferenceSystem AsGeocentric { get; }

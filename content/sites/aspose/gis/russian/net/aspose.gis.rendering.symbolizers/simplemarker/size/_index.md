@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет размер маркера.
+description: Задает размер маркера.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.rendering.symbolizers/simplemarker/size/
 ---
 ## SimpleMarker.Size property
 
-Определяет размер маркера.
+Задает размер маркера.
 
 ```csharp
 public Measurement Size { get; set; }

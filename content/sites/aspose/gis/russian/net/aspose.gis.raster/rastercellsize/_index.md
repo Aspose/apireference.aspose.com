@@ -3,7 +3,7 @@ title: RasterCellSize
 second_title: Справочник по Aspose.GIS for .NET API
 description: Описывает размер масштаб и поворот растровой ячейки на карте.
 type: docs
-weight: 1260
+weight: 1270
 url: /ru/net/aspose.gis.raster/rastercellsize/
 ---
 ## RasterCellSize class
@@ -24,18 +24,18 @@ public class RasterCellSize : IRasterCellSize
 
 | Имя | Описание |
 | --- | --- |
-| [Height](../../aspose.gis.raster/rastercellsize/height) { get; } | Вычислить высоту в пикселях. |
-| [ScaleX](../../aspose.gis.raster/rastercellsize/scalex) { get; set; } | Получает или задает x-компонент ширины пикселя (x-масштаб). |
+| [Height](../../aspose.gis.raster/rastercellsize/height) { get; } | Вычислите высоту пикселя. |
+| [ScaleX](../../aspose.gis.raster/rastercellsize/scalex) { get; set; } | Получает или задает x-компонент ширины в пикселях (x-масштаб). |
 | [ScaleY](../../aspose.gis.raster/rastercellsize/scaley) { get; set; } | Получает или задает y-компонент высоты пикселя (y-масштаб), обычно отрицательный. |
 | [SkewX](../../aspose.gis.raster/rastercellsize/skewx) { get; set; } | Получает или задает x-компонент высоты пикселя (x-skew). |
-| [SkewY](../../aspose.gis.raster/rastercellsize/skewy) { get; set; } | Получает или задает y-компонент ширины пикселя (y-skew). |
-| [Width](../../aspose.gis.raster/rastercellsize/width) { get; } | Вычислить ширину пикселя. |
+| [SkewY](../../aspose.gis.raster/rastercellsize/skewy) { get; set; } | Получает или задает y-компонент ширины в пикселях (y-skew). |
+| [Width](../../aspose.gis.raster/rastercellsize/width) { get; } | Вычислите ширину пикселя. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rastercellsize/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis.raster/rastercellsize/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

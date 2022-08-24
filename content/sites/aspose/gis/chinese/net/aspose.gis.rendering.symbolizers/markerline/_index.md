@@ -3,7 +3,7 @@ title: MarkerLine
 second_title: Aspose.GIS for .NET API 参考
 description: 标记线符号
 type: docs
-weight: 1740
+weight: 1750
 url: /zh/net/aspose.gis.rendering.symbolizers/markerline/
 ---
 ## MarkerLine class
@@ -18,8 +18,8 @@ public class MarkerLine : VectorSymbolizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MarkerLine](markerline#constructor)() | 初始化[`MarkerLine`](../markerline)类的新实例。 |
-| [MarkerLine](markerline#constructor_1)(MarkerLine) | 初始化[`MarkerLine`](../markerline)类的新实例。 |
+| [MarkerLine](markerline#constructor)() | 初始化[`MarkerLine`](../markerline)类. |
+| [MarkerLine](markerline#constructor_1)(MarkerLine) | 初始化[`MarkerLine`](../markerline)类. |
 
 ## 特性
 
@@ -27,8 +27,8 @@ public class MarkerLine : VectorSymbolizer
 | --- | --- |
 | [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerline/featurebasedconfiguration) { get; set; } | 用于在渲染特征之前配置此符号器的回调。 |
 | [Interval](../../aspose.gis.rendering.symbolizers/markerline/interval) { get; set; } | 指定沿线的标记之间的间隔。 |
-| [Marker](../../aspose.gis.rendering.symbolizers/markerline/marker) { get; set; } | 指定沿线的标记符号。 |
-| [Offset](../../aspose.gis.rendering.symbolizers/markerline/offset) { get; set; } | 指定与原始行的偏移量。 对于正距离，偏移量将位于输入线的左侧（相对于线方向）。 对于负距离，它将位于右侧。 |
+| [Marker](../../aspose.gis.rendering.symbolizers/markerline/marker) { get; set; } | 指定沿线的标记符号器。 |
+| [Offset](../../aspose.gis.rendering.symbolizers/markerline/offset) { get; set; } | 指定与原始线的偏移量。 对于正距离，偏移量将在输入线的左侧（相对于线方向）。 对于负距离，它将在右侧。 |
 | [OffsetAlongLine](../../aspose.gis.rendering.symbolizers/markerline/offsetalongline) { get; set; } | 指定第一个标记沿线的偏移量。 |
 | [RotateMarkers](../../aspose.gis.rendering.symbolizers/markerline/rotatemarkers) { get; set; } | 指定标记是否应沿线旋转。 |
 

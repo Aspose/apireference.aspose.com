@@ -1,14 +1,14 @@
 ---
 title: GetValuesDump
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает значения для всех атрибутов в массиве. Рассмотрите возможность использованияGetValuesaspose.gis/feature/getvaluesметода чтобы избежать дополнительного выделения памяти.
+description: Возвращает значения для всех атрибутов в массиве. Рассмотрите возможность использованияGetValuesaspose.gis/feature/getvaluesспособ избежать дополнительного выделения памяти.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis/feature/getvaluesdump/
 ---
 ## Feature.GetValuesDump method
 
-Возвращает значения для всех атрибутов в массиве. Рассмотрите возможность использования[`GetValues`](../getvalues)метода, чтобы избежать дополнительного выделения памяти.
+Возвращает значения для всех атрибутов в массиве. Рассмотрите возможность использования[`GetValues`](../getvalues)способ избежать дополнительного выделения памяти.
 
 ```csharp
 public object[] GetValuesDump(object defaultValue = null)
@@ -16,7 +16,7 @@ public object[] GetValuesDump(object defaultValue = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| defaultValue | Object | Возвращаемое значение, если значение атрибута отсутствует (не установлено). Значение по умолчанию:`null`. Рассмотрите возможность использования 'DBNull.Value' для разделения значений 'unset' и '`null`'. |
+| defaultValue | Object | Возвращаемое значение, если значение атрибута отсутствует (не задано). Значение по умолчанию`null`. Рассмотрите возможность использования 'DBNull.Value» для разделения «не установлено» и «`null` значения. |
 
 ### Возвращаемое значение
 
@@ -26,7 +26,7 @@ public object[] GetValuesDump(object defaultValue = null)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | InvalidOperationException | Атрибут не заблокирован. |
 
 ### Примечания

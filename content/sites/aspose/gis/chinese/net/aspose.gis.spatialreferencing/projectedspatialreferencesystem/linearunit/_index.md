@@ -1,14 +1,14 @@
 ---
 title: LinearUnit
 second_title: Aspose.GIS for .NET API 参考
-description: 单位用于此 SRS 中的线性尺寸和Projection的线性参数.
+description: 单位用于此 SRS 中的线性尺寸和线性参数Projectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection.
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/linearunit/
 ---
 ## ProjectedSpatialReferenceSystem.LinearUnit property
 
-单位，用于此 SRS 中的线性尺寸和Projection的线性参数.
+单位，用于此 SRS 中的线性尺寸和线性参数[`Projection`](../projection).
 
 ```csharp
 public abstract Unit LinearUnit { get; }

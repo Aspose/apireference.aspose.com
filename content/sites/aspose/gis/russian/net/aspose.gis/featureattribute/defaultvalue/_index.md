@@ -1,14 +1,14 @@
 ---
 title: DefaultValue
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает значение атрибута указывающего на отсутствующие данные.
+description: Получает или задает значение атрибута указывающее на отсутствующие данные.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis/featureattribute/defaultvalue/
 ---
 ## FeatureAttribute.DefaultValue property
 
-Получает или задает значение атрибута, указывающего на отсутствующие данные.
+Получает или задает значение атрибута, указывающее на отсутствующие данные.
 
 ```csharp
 public object DefaultValue { get; set; }
@@ -19,11 +19,11 @@ public object DefaultValue { get; set; }
 | исключение | условие |
 | --- | --- |
 | InvalidOperationException | Атрибут заблокирован. |
-| InvalidOperationException | Атрибут не допускает значений` null` . |
+| InvalidOperationException | Атрибут не позволяет`нулевой` ценности. |
 
 ### Примечания
 
-Это значение, представляющее недостающую часть информации, когда атрибут не допускает` null` значение. Для атрибутов, которые разрешают` null` значения ([`CanBeNull`](../canbenull)==` true` ),`DefaultValue`is` null` , если явно не изменено.
+Это значение, представляющее отсутствующую часть информации, когда атрибут не позволяет`нулевой` value. Для атрибутов, которые позволяют`нулевой` ценности ([`CanBeNull`](../canbenull) ==`истинный` ),`DefaultValue` является`нулевой` если явно не изменено.
 
 ### Смотрите также
 

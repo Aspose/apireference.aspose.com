@@ -3,7 +3,7 @@ title: IPoint
 second_title: Aspose.GIS for .NET API 参考
 description: 坐标空间中的单个位置
 type: docs
-weight: 980
+weight: 990
 url: /zh/net/aspose.gis.geometries/ipoint/
 ---
 ## IPoint interface

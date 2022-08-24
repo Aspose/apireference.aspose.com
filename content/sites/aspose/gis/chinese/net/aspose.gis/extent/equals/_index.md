@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.GIS for .NET API 参考
-description: 表示当前对象是否等于另一个同类型的对象
+description: 指示当前对象是否等于另一个相同类型的对象
 type: docs
 weight: 130
 url: /zh/net/aspose.gis/extent/equals/
 ---
 ## Equals(Extent) {#equals}
 
-表示当前对象是否等于另一个同类型的对象。
+指示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public bool Equals(Extent other)
@@ -20,7 +20,7 @@ public bool Equals(Extent other)
 
 ### 返回值
 
-`true`如果当前对象等于*other*参数；否则，`false`。
+`true`如果当前对象等于*other*范围;否则，`false`.
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public bool Equals(Extent other)
 
 ## Equals(object) {#equals_1}
 
-判断指定对象是否等于当前对象。
+确定指定对象是否等于当前对象。
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 与当前对象比较的对象。 |
+| obj | Object | 要与当前对象进行比较的对象。 |
 
 ### 返回值
 
-`true`如果指定对象等于当前对象；否则，`false`。
+`true`如果指定对象等于当前对象；否则，`false`.
 
 ### 也可以看看
 

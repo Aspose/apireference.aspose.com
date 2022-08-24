@@ -1,7 +1,7 @@
 ---
 title: SkewY
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает y-компонент ширины ячейки или пикселя y-перекос.
+description: Получает yкомпонент ширины ячейки или пикселя yперекос.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.raster/irastercellsize/skewy/

@@ -1,14 +1,14 @@
 ---
 title: CreateTransformationTo
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает преобразование из этой SpatialReferenceSystem в другую SpatialReferenceSystem .
+description: Создает преобразование из этогоSpatialReferenceSystem другомуSpatialReferenceSystem .
 type: docs
 weight: 180
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/createtransformationto/
 ---
 ## SpatialReferenceSystem.CreateTransformationTo method
 
-Создает преобразование из этой` SpatialReferenceSystem` в другую` SpatialReferenceSystem` .
+Создает преобразование из этого`SpatialReferenceSystem` другому`SpatialReferenceSystem` .
 
 ```csharp
 public SpatialReferenceSystemTransformation CreateTransformationTo(SpatialReferenceSystem targetSrs)
@@ -16,18 +16,18 @@ public SpatialReferenceSystemTransformation CreateTransformationTo(SpatialRefere
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | Другое` SpatialReferenceSystem` . |
+| targetSrs | SpatialReferenceSystem | Другая`SpatialReferenceSystem`. |
 
 ### Возвращаемое значение
 
-Преобразование из этой` SpatialReferenceSystem` в другую` SpatialReferenceSystem` .
+Трансформация из этого`SpatialReferenceSystem` другому`SpatialReferenceSystem`.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| NotSupportedException | Преобразование между этим` SpatialReferenceSystem` и аргумент не поддерживается. Это может произойти, потому что одна из проекций не поддерживается, или одна из систем[`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem)или [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem). |
-| [TransformationException](../../transformationexception) | Не удалось создать преобразование из-за неверных параметров внутри` SpatialReferenceSystem` . |
+| NotSupportedException | Трансформация между этим`SpatialReferenceSystem` и аргумент не поддерживается. Это может произойти из-за того, что одна из проекций не поддерживается, или одна из систем[`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem) или [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem) . |
+| [TransformationException](../../transformationexception) | Не удалось создать преобразование из-за неверных параметров внутри`SpatialReferenceSystem` . |
 
 ### Смотрите также
 

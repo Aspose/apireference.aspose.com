@@ -1,14 +1,14 @@
 ---
 title: ReadNestedAttributes
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет содержат ли точки GPX такие как trkpt и rtept внутренние атрибуты и должны ли они быть прочитаны. По умолчаниюfalse.
+description: Определяет содержат ли точки GPX такие как trkpt и rtept внутренние атрибуты и следует ли их читать. По умолчаниюfalse .
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.formats.gpx/gpxoptions/readnestedattributes/
 ---
 ## GpxOptions.ReadNestedAttributes property
 
-Определяет, содержат ли точки GPX, такие как 'trkpt' и 'rtept', внутренние атрибуты и должны ли они быть прочитаны. По умолчанию`false`.
+Определяет, содержат ли точки GPX, такие как «trkpt» и «rtept», внутренние атрибуты и следует ли их читать. По умолчанию`false` .
 
 ```csharp
 public bool ReadNestedAttributes { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Attributes
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает набор пользовательских атрибутов для объектов в этомVectorLayeraspose.gis/vectorlayer.
+description: Получает коллекцию настраиваемых атрибутов для объектов в этомVectorLayeraspose.gis/vectorlayer .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/featuressequence/attributes/
 ---
 ## FeaturesSequence.Attributes property
 
-Получает набор пользовательских атрибутов для объектов в этом[`VectorLayer`](../../vectorlayer).
+Получает коллекцию настраиваемых атрибутов для объектов в этом[`VectorLayer`](../../vectorlayer) .
 
 ```csharp
 public abstract FeatureAttributeCollection Attributes { get; }

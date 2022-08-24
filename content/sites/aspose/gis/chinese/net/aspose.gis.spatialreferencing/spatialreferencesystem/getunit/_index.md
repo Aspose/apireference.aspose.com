@@ -1,14 +1,14 @@
 ---
 title: GetUnit
 second_title: Aspose.GIS for .NET API 参考
-description: 获取Unitaspose.gis.spatialreferencing/unit维度
+description: 获取Unitaspose.gis.spatialreferencing/unit尺寸.
 type: docs
 weight: 210
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/getunit/
 ---
 ## SpatialReferenceSystem.GetUnit method
 
-获取[`Unit`](../../unit)维度。
+获取[`Unit`](../../unit)尺寸.
 
 ```csharp
 public abstract Unit GetUnit(int dimension)
@@ -26,7 +26,7 @@ public abstract Unit GetUnit(int dimension)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension*小于 0 或大于或等于DimensionsCount |
+| ArgumentOutOfRangeException | *dimension*小于 0 或大于或等于[`DimensionsCount`](../dimensionscount) |
 
 ### 也可以看看
 

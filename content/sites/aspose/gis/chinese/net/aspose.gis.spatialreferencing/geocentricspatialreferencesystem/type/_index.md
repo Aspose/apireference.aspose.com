@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.GIS for .NET API 参考
-description: 返回Geocentric
+description: 返回Geocentric.
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/type/
 ---
 ## GeocentricSpatialReferenceSystem.Type property
 
-返回Geocentric。
+返回Geocentric.
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }

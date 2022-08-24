@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置指定索引处的FeatureAttributeaspose.gis/featureattribute
+description: 获取或设置FeatureAttributeaspose.gis/featureattribute在指定的索引处
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/featureattributecollection/item/
 ---
 ## FeatureAttributeCollection indexer (1 of 2)
 
-获取或设置指定索引处的[`FeatureAttribute`](../../featureattribute)。
+获取或设置[`FeatureAttribute`](../../featureattribute)在指定的索引处。
 
 ```csharp
 public FeatureAttribute this[int index] { get; set; }
@@ -40,7 +40,7 @@ public FeatureAttribute this[int index] { get; set; }
 
 ## FeatureAttributeCollection indexer (2 of 2)
 
-获取或设置具有指定名称的[`FeatureAttribute`](../../featureattribute)。
+获取或设置[`FeatureAttribute`](../../featureattribute)具有指定的名称。
 
 ```csharp
 public FeatureAttribute this[string name] { get; }
@@ -52,13 +52,13 @@ public FeatureAttribute this[string name] { get; }
 
 ### 返回值
 
-具有指定名称的属性，或者`null`如果未找到。
+具有指定名称的属性，或`null`如果没有找到。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 
 ### 也可以看看
 

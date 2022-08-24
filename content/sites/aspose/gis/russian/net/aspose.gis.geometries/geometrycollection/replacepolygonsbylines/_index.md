@@ -16,7 +16,7 @@ public IGeometryCollection ReplacePolygonsByLines()
 
 ### Возвращаемое значение
 
-Геометрия, не имеющая полигональной геометрии. Применяются следующие преобразования: &lt;ul&gt;&lt;li&gt;Polygonлинеаризованы (преобразованы вLineStrings)&lt;/li&gt;&lt;li&gt;MultiPolygons являются присоединился кMultiLineStrings&lt;/li&gt;&lt;/ul&gt;
+Геометрия, не имеющая полигональной геометрии. Применяются следующие преобразования: Polygon s линеаризованы (преобразованы вLineStringс)MultiPolygon присоединяются кMultiLineStringс
 
 ### Исключения
 

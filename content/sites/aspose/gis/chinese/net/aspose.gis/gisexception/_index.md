@@ -3,7 +3,7 @@ title: GisException
 second_title: Aspose.GIS for .NET API 参考
 description: GIS数据处理过程中发生错误时抛出的异常
 type: docs
-weight: 1130
+weight: 1140
 url: /zh/net/aspose.gis/gisexception/
 ---
 ## GisException class
@@ -18,9 +18,9 @@ public class GisException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GisException](gisexception#constructor)() | 初始化[`GisException`](../gisexception)类的新实例。 |
-| [GisException](gisexception#constructor_1)(string) | 初始化[`GisException`](../gisexception)类的新实例。 |
-| [GisException](gisexception#constructor_2)(string, Exception) | 初始化[`GisException`](../gisexception)类的新实例。 |
+| [GisException](gisexception#constructor)() | 初始化[`GisException`](../gisexception)类. |
+| [GisException](gisexception#constructor_1)(string) | 初始化[`GisException`](../gisexception)类. |
+| [GisException](gisexception#constructor_2)(string, Exception) | 初始化[`GisException`](../gisexception)类. |
 
 ### 也可以看看
 

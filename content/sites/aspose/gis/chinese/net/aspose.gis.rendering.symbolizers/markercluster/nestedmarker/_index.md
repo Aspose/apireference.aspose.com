@@ -1,14 +1,14 @@
 ---
 title: NestedMarker
 second_title: Aspose.GIS for .NET API 参考
-description: 指定嵌套聚类点的标记符号默认值为Nullaspose.gis.rendering.symbolizers/vectorsymbolizer/null
+description: 指定嵌套聚类点的标记符号器默认是Nullaspose.gis.rendering.symbolizers/vectorsymbolizer/null.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.symbolizers/markercluster/nestedmarker/
 ---
 ## MarkerCluster.NestedMarker property
 
-指定嵌套聚类点的标记符号。默认值为[`Null`](../../vectorsymbolizer/null)。
+指定嵌套聚类点的标记符号器。默认是[`Null`](../../vectorsymbolizer/null).
 
 ```csharp
 public VectorSymbolizer NestedMarker { get; set; }

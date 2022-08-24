@@ -1,14 +1,14 @@
 ---
 title: IsValueNull
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет был ли указанный атрибут явно установлен в значение null .
+description: Определяет был ли указанный атрибут явно установлен внулевой значение.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis/feature/isvaluenull/
 ---
 ## Feature.IsValueNull method
 
-Определяет, был ли указанный атрибут явно установлен в значение` null` .
+Определяет, был ли указанный атрибут явно установлен в`нулевой` значение.
 
 ```csharp
 public bool IsValueNull(string attributeName)
@@ -20,7 +20,7 @@ public bool IsValueNull(string attributeName)
 
 ### Возвращаемое значение
 
-`true`если значение атрибута равно` null` ; в противном случае`false`.
+`true` если значение атрибута`нулевой` ; в противном случае,`false` .
 
 ### Исключения
 
@@ -28,7 +28,7 @@ public bool IsValueNull(string attributeName)
 | --- | --- |
 | InvalidOperationException | Атрибут не заблокирован. |
 | ArgumentException | Атрибут с таким именем не существует в этом слое. |
-| ArgumentNullException | Имя атрибута:` null` . |
+| ArgumentNullException | Имя атрибута`нулевой`. |
 
 ### Смотрите также
 

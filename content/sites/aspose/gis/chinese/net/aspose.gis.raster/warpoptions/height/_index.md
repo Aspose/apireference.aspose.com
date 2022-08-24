@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.GIS for .NET API 参考
-description: 以像素和列为单位指定输出光栅高度 如果该值设置为 0则自动计算高度默认值为0
+description: 以像素和列为单位指定输出栅格高度 如果该值设置为 0则会自动计算高度默认值为0
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.raster/warpoptions/height/
 ---
 ## WarpOptions.Height property
 
-以像素和列为单位指定输出光栅高度。 如果该值设置为 0，则自动计算高度。默认值为“0”。
+以像素和列为单位指定输出栅格高度。 如果该值设置为 0，则会自动计算高度。默认值为“0”。
 
 ```csharp
 public int Height { get; set; }
@@ -16,7 +16,7 @@ public int Height { get; set; }
 
 ### 评论
 
-如果高度设置为 0，则该值将从原始高度获取或计算[`CellHeight`](../cellheight)。 注意`Height`不能与:P:Aspose.Gis.Raster.WarpOptions.CellHeight一起使用.
+如果高度设置为 0，该值将取自原始高度或计算[`CellHeight`](../cellheight). 请注意`Height`不能与[`CellHeight`](../cellheight).
 
 ### 也可以看看
 

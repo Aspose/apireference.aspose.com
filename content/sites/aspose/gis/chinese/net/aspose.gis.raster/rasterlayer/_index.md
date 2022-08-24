@@ -3,7 +3,7 @@ title: RasterLayer
 second_title: Aspose.GIS for .NET API 参考
 description: 表示栅格图层
 type: docs
-weight: 1280
+weight: 1290
 url: /zh/net/aspose.gis.raster/rasterlayer/
 ---
 ## RasterLayer class
@@ -21,10 +21,10 @@ public abstract class RasterLayer : IDisposable
 | abstract [BandCount](../../aspose.gis.raster/rasterlayer/bandcount) { get; } | 获取栅格图层中的波段数。 |
 | [Bounds](../../aspose.gis.raster/rasterlayer/bounds) { get; } | 获取栅格边界。 |
 | abstract [CellSize](../../aspose.gis.raster/rasterlayer/cellsize) { get; } | 获取栅格的像元或像素大小。 |
-| abstract [Driver](../../aspose.gis.raster/rasterlayer/driver) { get; } | 获取实例化该层的[`Driver`](./driver)。 |
-| abstract [Height](../../aspose.gis.raster/rasterlayer/height) { get; } | 获取光栅的高度（以像素为单位）。它也被称为行数。 |
+| abstract [Driver](../../aspose.gis.raster/rasterlayer/driver) { get; } | 获取[`Driver`](./driver)实例化了这一层。 |
+| abstract [Height](../../aspose.gis.raster/rasterlayer/height) { get; } | 获取栅格的高度（以像素为单位）。它也被称为行数。 |
 | abstract [NoDataValues](../../aspose.gis.raster/rasterlayer/nodatavalues) { get; } | 获取表示栅格背景或“无数据”的值。 |
-| abstract [SpatialReferenceSystem](../../aspose.gis.raster/rasterlayer/spatialreferencesystem) { get; } | 获取栅格的空间参考系统。 可以是`null`如果它是未知的。 |
+| abstract [SpatialReferenceSystem](../../aspose.gis.raster/rasterlayer/spatialreferencesystem) { get; } | 获取栅格的空间参考系统。 可以`null`如果它是未知的。 |
 | abstract [UpperLeftX](../../aspose.gis.raster/rasterlayer/upperleftx) { get; } | 获取栅格左上角的 x 坐标。 |
 | abstract [UpperLeftY](../../aspose.gis.raster/rasterlayer/upperlefty) { get; } | 获取栅格左上角的 y 坐标。 |
 | abstract [Width](../../aspose.gis.raster/rasterlayer/width) { get; } | 获取栅格的宽度（以像素为单位）。它也被称为列数。 |
@@ -34,16 +34,16 @@ public abstract class RasterLayer : IDisposable
 | 姓名 | 描述 |
 | --- | --- |
 | [Crop](../../aspose.gis.raster/rasterlayer/crop)(IGeometry) | 使用形状形式裁剪栅格图层。 |
-| [Dispose](../../aspose.gis.raster/rasterlayer/dispose)() | 释放[`RasterLayer`](../rasterlayer)使用的资源。 |
+| [Dispose](../../aspose.gis.raster/rasterlayer/dispose)() | 释放所使用的资源[`RasterLayer`](../rasterlayer). |
 | abstract [GetBand](../../aspose.gis.raster/rasterlayer/getband)(int) | 获取指定索引的波段。 |
-| virtual [GetExtent](../../aspose.gis.raster/rasterlayer/getextent)() | 计算该层的空间范围。 |
+| virtual [GetExtent](../../aspose.gis.raster/rasterlayer/getextent)() | 计算该图层的空间范围。 |
 | [GetSpatialPoint](../../aspose.gis.raster/rasterlayer/getspatialpoint)(int, int) | 将指定的列和行转换为空间坐标。 |
-| [GetStatistics](../../aspose.gis.raster/rasterlayer/getstatistics)(int, bool) | 计算由计数、总和、平均值、最小值、最大值组成的汇总统计数据。 |
+| [GetStatistics](../../aspose.gis.raster/rasterlayer/getstatistics)(int, bool) | 计算由计数、总和、平均值、最小值、最大值组成的汇总统计量。 |
 | [GetValues](../../aspose.gis.raster/rasterlayer/getvalues)(int, int) | 读取指定单元格中的值。 |
-| [GetValuesDump](../../aspose.gis.raster/rasterlayer/getvaluesdump)(RasterRect) | 将指定块中的值作为一维数组读取。 |
+| [GetValuesDump](../../aspose.gis.raster/rasterlayer/getvaluesdump)(RasterRect) | 将指定块中的值读取为一维数组。 |
 | [GetValuesOnExpression](../../aspose.gis.raster/rasterlayer/getvaluesonexpression)(RasterRect, RasterReadExpression) | 读取并处理表达式中的波段值。 |
-| override [ToString](../../aspose.gis.raster/rasterlayer/tostring)() | 返回代表当前对象的字符串。 |
-| [Warp](../../aspose.gis.raster/rasterlayer/warp)(WarpOptions) | 将栅格图层扭曲到另一个。 |
+| override [ToString](../../aspose.gis.raster/rasterlayer/tostring)() | 返回表示当前对象的字符串。 |
+| [Warp](../../aspose.gis.raster/rasterlayer/warp)(WarpOptions) | 将栅格图层扭曲到另一个图层。 |
 
 ### 也可以看看
 

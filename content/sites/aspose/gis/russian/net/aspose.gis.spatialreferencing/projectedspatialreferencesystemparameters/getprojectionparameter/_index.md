@@ -26,8 +26,8 @@ public double GetProjectionParameter(string parameterName)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Имя параметра равно null. |
-| InvalidOperationException | Параметр с таким именем не задан. |
+| ArgumentNullException | Имя параметра пустое. |
+| InvalidOperationException | Параметр с таким названием не задан. |
 
 ### Смотрите также
 

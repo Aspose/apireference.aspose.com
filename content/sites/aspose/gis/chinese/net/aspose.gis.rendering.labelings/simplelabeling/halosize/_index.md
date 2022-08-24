@@ -1,14 +1,14 @@
 ---
 title: HaloSize
 second_title: Aspose.GIS for .NET API 参考
-description: 文本周围的光晕笔划的大小
+description: 文本周围的光环笔划的大小
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/halosize/
 ---
 ## SimpleLabeling.HaloSize property
 
-文本周围的光晕（笔划）的大小。
+文本周围的光环（笔划）的大小。
 
 ```csharp
 public Measurement HaloSize { get; set; }

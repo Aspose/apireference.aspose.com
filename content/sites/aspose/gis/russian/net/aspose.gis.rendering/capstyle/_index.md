@@ -3,7 +3,7 @@ title: CapStyle
 second_title: Справочник по Aspose.GIS for .NET API
 description: Указывает как линии отображаются на концах.
 type: docs
-weight: 1380
+weight: 1390
 url: /ru/net/aspose.gis.rendering/capstyle/
 ---
 ## CapStyle enumeration

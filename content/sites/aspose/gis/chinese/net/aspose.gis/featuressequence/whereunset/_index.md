@@ -20,7 +20,7 @@ public virtual FeaturesSequence WhereUnset(string attributeName)
 
 ### 返回值
 
-未设置属性值的特征。
+具有未设置属性值的要素。
 
 ### 也可以看看
 

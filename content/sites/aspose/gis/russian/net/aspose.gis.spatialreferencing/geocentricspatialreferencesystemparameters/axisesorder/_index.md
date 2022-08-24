@@ -1,14 +1,14 @@
 ---
 title: AxisesOrder
 second_title: Справочник по Aspose.GIS for .NET API
-description: Порядок осей. По умолчанию используетсяXYZ.
+description: Порядок осей. По умолчаниюXYZ .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder/
 ---
 ## GeocentricSpatialReferenceSystemParameters.AxisesOrder property
 
-Порядок осей. По умолчанию используетсяXYZ.
+Порядок осей. По умолчаниюXYZ .
 
 ```csharp
 public GeocentricAxisesOrder AxisesOrder { get; set; }
@@ -18,7 +18,7 @@ public GeocentricAxisesOrder AxisesOrder { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Выбрасывается в установщик, когда аргумент не является допустимым членом перечисления. |
+| ArgumentException | Брошен в установщик, когда аргумент не является допустимым членом перечисления. |
 
 ### Смотрите также
 

@@ -17,7 +17,7 @@ public static VectorLayer Open(string path, FileDriver driver)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
+| driver | FileDriver | Драйвер для использования. |
 
 ### Возвращаемое значение
 
@@ -28,9 +28,9 @@ public static VectorLayer Open(string path, FileDriver driver)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -52,7 +52,7 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
+| driver | FileDriver | Драйвер для использования. |
 
 ### Возвращаемое значение
 
@@ -63,9 +63,9 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -88,8 +88,8 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
-| options | DriverOptions | Опции драйвера. |
+| driver | FileDriver | Драйвер для использования. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -100,9 +100,9 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -125,8 +125,8 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptio
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
-| options | DriverOptions | Опции драйвера. |
+| driver | FileDriver | Драйвер для использования. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -137,9 +137,9 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptio
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 

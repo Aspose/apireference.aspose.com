@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.GIS for .NET API 参考
-description: 返回代表当前对象的字符串
+description: 返回表示当前对象的字符串
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/identifiableobject/tostring/
 ---
 ## IdentifiableObject.ToString method
 
-返回代表当前对象的字符串。
+返回表示当前对象的字符串。
 
 ```csharp
 public override string ToString()

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.GIS for .NET API 参考
-description: 获取带值作为double类型
+description: 获取波段值作为double类型.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.raster/irastervalues/item/
 ---
 ## IRasterValues indexer
 
-获取带值作为`double`类型。
+获取波段值作为`double`类型.
 
 ```csharp
 public double this[int bandIndex] { get; }
@@ -16,7 +16,7 @@ public double this[int bandIndex] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| bandIndex | 波段的索引。编号从 0 开始。 |
+| bandIndex | 乐队的索引。编号从 0 开始。 |
 
 ### 返回值
 
@@ -24,7 +24,7 @@ public double this[int bandIndex] { get; }
 
 ### 评论
 
-如果波段类型为RawBits考虑使用[`AsRawBits`](../asrawbits)方法来避免异常。
+如果波段类型是RawBits考虑使用[`AsRawBits`](../asrawbits)避免异常的方法。
 
 ### 也可以看看
 

@@ -3,12 +3,12 @@ title: NullVectorSymbolizer
 second_title: Справочник по Aspose.GIS for .NET API
 description: NullSymbolizer ничего не рисует и эффективно пропускает рендеринг геометрии к которой он применяется.
 type: docs
-weight: 1780
+weight: 1790
 url: /ru/net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/
 ---
 ## NullVectorSymbolizer class
 
-NullSymbolizer ничего не рисует и эффективно пропускает рендеринг геометрии, к которой он применяется.
+`NullSymbolizer` ничего не рисует и эффективно пропускает рендеринг геометрии, к которой он применяется.
 
 ```csharp
 public class NullVectorSymbolizer : VectorSymbolizer
@@ -18,7 +18,7 @@ public class NullVectorSymbolizer : VectorSymbolizer
 
 | Имя | Описание |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance) { get; } | Получает экземпляр` NullSymbolizer` . |
+| static [Instance](../../aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance) { get; } | Получает экземпляр`NullSymbolizer` . |
 
 ### Смотрите также
 

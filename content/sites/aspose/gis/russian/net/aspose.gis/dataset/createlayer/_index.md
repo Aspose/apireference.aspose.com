@@ -16,7 +16,7 @@ public virtual VectorLayer CreateLayer()
 
 ### Возвращаемое значение
 
-A[`VectorLayer`](../../vectorlayer)открыт для записи.
+А[`VectorLayer`](../../vectorlayer) открыт для записи.
 
 ### Смотрите также
 
@@ -41,7 +41,7 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 ### Возвращаемое значение
 
-A[`VectorLayer`](../../vectorlayer)открыт для записи.
+А[`VectorLayer`](../../vectorlayer) открыт для записи.
 
 ### Смотрите также
 
@@ -64,12 +64,12 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | DriverOptions | Открыть опции. |
+| options | DriverOptions | Открытые варианты. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета нового слоя. |
 
 ### Возвращаемое значение
 
-A[`VectorLayer`](../../vectorlayer)открыт для записи.
+А[`VectorLayer`](../../vectorlayer) открыт для записи.
 
 ### Исключения
 
@@ -106,7 +106,7 @@ public virtual VectorLayer CreateLayer(string name,
 
 ### Возвращаемое значение
 
-A[`VectorLayer`](../../vectorlayer)открыт для записи.
+А[`VectorLayer`](../../vectorlayer) открыт для записи.
 
 ### Исключения
 
@@ -138,12 +138,12 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя слоя. |
-| options | DriverOptions | Открыть опции. |
+| options | DriverOptions | Открытые варианты. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета нового слоя. |
 
 ### Возвращаемое значение
 
-A[`VectorLayer`](../../vectorlayer)открыт для записи.
+А[`VectorLayer`](../../vectorlayer) открыт для записи.
 
 ### Исключения
 

@@ -1,14 +1,14 @@
 ---
 title: ToWgs84Parameters
 second_title: Справочник по Aspose.GIS for .NET API
-description: BursaWolfПараметры которые можно использовать для преобразования координат в этой системе координат в координаты системы координат WGS84.
+description: Параметры BursaWolf которые можно использовать для преобразования координат в этой системе координат в координаты системы координат WGS84.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.spatialreferencing/geographicdatum/towgs84parameters/
 ---
 ## GeographicDatum.ToWgs84Parameters property
 
-BursaWolfПараметры, которые можно использовать для преобразования координат в этой системе координат в координаты системы координат WGS84.
+Параметры BursaWolf, которые можно использовать для преобразования координат в этой системе координат в координаты системы координат WGS84.
 
 ```csharp
 public BursaWolfParameters ToWgs84Parameters { get; }

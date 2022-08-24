@@ -16,7 +16,7 @@ public virtual int Count { get; }
 
 ### 适当的价值
 
-该层中的特征数量。
+这一层的特征数。
 
 ### 例外
 

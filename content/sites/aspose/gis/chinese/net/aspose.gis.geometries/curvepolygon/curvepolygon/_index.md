@@ -1,14 +1,14 @@
 ---
 title: CurvePolygon
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化CurvePolygonaspose.gis.geometries/curvepolygon类的新实例
+description: 初始化CurvePolygonaspose.gis.geometries/curvepolygon类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/curvepolygon/curvepolygon/
 ---
 ## CurvePolygon() {#constructor}
 
-初始化[`CurvePolygon`](../../curvepolygon)类的新实例。
+初始化[`CurvePolygon`](../../curvepolygon)类.
 
 ```csharp
 public CurvePolygon()
@@ -24,7 +24,7 @@ public CurvePolygon()
 
 ## CurvePolygon(ICurve) {#constructor_1}
 
-初始化[`CurvePolygon`](../../curvepolygon)类的新实例。
+初始化[`CurvePolygon`](../../curvepolygon)类.
 
 ```csharp
 public CurvePolygon(ICurve exteriorRing)
@@ -38,7 +38,7 @@ public CurvePolygon(ICurve exteriorRing)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 
@@ -51,7 +51,7 @@ public CurvePolygon(ICurve exteriorRing)
 
 ## CurvePolygon(ICurve, IEnumerable&lt;ICurve&gt;) {#constructor_2}
 
-初始化[`CurvePolygon`](../../curvepolygon)类的新实例。
+初始化[`CurvePolygon`](../../curvepolygon)类.
 
 ```csharp
 public CurvePolygon(ICurve exteriorRing, IEnumerable<ICurve> interiorRings)
@@ -66,7 +66,7 @@ public CurvePolygon(ICurve exteriorRing, IEnumerable<ICurve> interiorRings)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

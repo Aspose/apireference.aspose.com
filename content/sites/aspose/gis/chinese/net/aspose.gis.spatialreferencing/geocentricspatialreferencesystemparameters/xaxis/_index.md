@@ -18,7 +18,7 @@ public Axis XAxis { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 轴方向不是Other. |
+| ArgumentException | 轴方向不Other. |
 
 ### 也可以看看
 

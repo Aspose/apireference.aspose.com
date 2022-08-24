@@ -1,14 +1,14 @@
 ---
 title: MapLayer
 second_title: Aspose.GIS for .NET API 参考
-description: A MapLayer 是Map./map内层的基类.
+description: 一个地图层是内部层的基类Map./map.
 type: docs
-weight: 1620
+weight: 1630
 url: /zh/net/aspose.gis.rendering/maplayer/
 ---
 ## MapLayer class
 
-A` MapLayer` 是[`Map`](../map)内层的基类.
+一个`地图层`是内部层的基类[`Map`](../map).
 
 ```csharp
 public abstract class MapLayer : IDisposable
@@ -24,7 +24,7 @@ public abstract class MapLayer : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose)() | 释放资源。 |
+| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose)() | 处置资源。 |
 
 ### 也可以看看
 

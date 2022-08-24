@@ -1,14 +1,14 @@
 ---
 title: GeometryExpression
 second_title: Aspose.GIS for .NET API 参考
-description: 提供一种将要素几何替换为经过修改以进行标注的几何图形的方法 这个回调在FeatureBasedConfigurationaspose.gis.rendering.labelings/simplelabeling/featurebasedconfiguration之后首先被调用 默认为null按原样使用要素几何
+description: 提供一种将要素几何替换为为标注而修改的几何图形的方法 此回调在之后的第一个调用FeatureBasedConfigurationaspose.gis.rendering.labelings/simplelabeling/featurebasedconfiguration. 默认为null按原样使用要素几何.
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/geometryexpression/
 ---
 ## SimpleLabeling.GeometryExpression property
 
-提供一种将要素几何替换为经过修改以进行标注的几何图形的方法。 这个回调在[`FeatureBasedConfiguration`](../featurebasedconfiguration)之后首先被调用。 默认为`null`（按原样使用要素几何）。
+提供一种将要素几何替换为为标注而修改的几何图形的方法。 此回调在之后的第一个调用[`FeatureBasedConfiguration`](../featurebasedconfiguration). 默认为`null`（按原样使用要素几何）.
 
 ```csharp
 public Func<Feature, IGeometry> GeometryExpression { get; set; }

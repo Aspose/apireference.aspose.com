@@ -16,7 +16,7 @@ public double GetLength()
 
 ### 返回值
 
-这个几何的长度。 周长，如果这是[`Polygon`](../../polygon)。 如果此几何是[`GeometryCollection`](../../geometrycollection)，则此几何的元素长度之和。
+这个几何的长度。 周长，如果这是一个[`Polygon`](../../polygon). 如果这个几何是一个几何元素的长度总和[`GeometryCollection`](../../geometrycollection).
 
 ### 也可以看看
 

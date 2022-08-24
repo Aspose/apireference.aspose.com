@@ -1,14 +1,14 @@
 ---
 title: NearestTo
 second_title: Aspose.GIS for .NET API 参考
-description: 获取离所提供坐标最近的要素
+description: 获取与提供的坐标最近的要素
 type: docs
 weight: 130
 url: /zh/net/aspose.gis/vectorlayer/nearestto/
 ---
 ## NearestTo(double, double) {#nearestto_1}
 
-获取离所提供坐标最近的要素。
+获取与提供的坐标最近的要素。
 
 ```csharp
 public Feature NearestTo(double x, double y)
@@ -16,12 +16,12 @@ public Feature NearestTo(double x, double y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | X 坐标。 |
+| x | Double | X 的坐标。 |
 | y | Double | Y 坐标。 |
 
 ### 返回值
 
-与所提供坐标最近的要素。
+与提供的坐标最近的要素。
 
 ### 也可以看看
 
@@ -34,7 +34,7 @@ public Feature NearestTo(double x, double y)
 
 ## NearestTo(IPoint) {#nearestto}
 
-获取离所提供点最近的特征。
+获取离所提供点最近的要素。
 
 ```csharp
 public Feature NearestTo(IPoint point)
@@ -42,17 +42,17 @@ public Feature NearestTo(IPoint point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | IPoint | 点。 |
+| point | IPoint | 重点。 |
 
 ### 返回值
 
-离所提供点最近的特征。
+离所提供点最近的要素。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 点是`null`。 |
+| ArgumentNullException | 点是`null`. |
 | ArgumentException | 点为空或无效。 |
 
 ### 也可以看看

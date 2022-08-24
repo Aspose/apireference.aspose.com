@@ -1,14 +1,14 @@
 ---
 title: Null
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает экземплярNullLabelingaspose.gis.rendering.labelings/nulllabeling.
+description: Получает экземплярNullLabelingaspose.gis.rendering.labelings/nulllabeling .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.labelings/labeling/null/
 ---
 ## Labeling.Null property
 
-Получает экземпляр[`NullLabeling`](../../nulllabeling).
+Получает экземпляр[`NullLabeling`](../../nulllabeling) .
 
 ```csharp
 public static NullLabeling Null { get; }

@@ -16,18 +16,18 @@ public RasterLayer Crop(IGeometry geometry)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| geometry | IGeometry | Geometry 表示形状形式。 |
+| geometry | IGeometry | 几何表示形状形式。 |
 
 ### 返回值
 
-裁剪后的栅格图层。如果没有找到交叉点，则返回`null`。
+裁剪的栅格图层。如果没有找到交叉点返回`null`.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数不能为空。参数名称:几何。 |
-| NotSupportedException | 参数不能与多边形或曲面不同。参数名称:几何。 |
+| ArgumentNullException | 参数不能为空。参数名称：几何。 |
+| NotSupportedException | 参数不能与多边形或曲面不同。参数名称：几何。 |
 | InvalidOperationException | 原始图层不能是另一个 CropRasterLayer。 |
 | [GisException](../../../aspose.gis/gisexception) | 裁剪图层时出错。 |
 

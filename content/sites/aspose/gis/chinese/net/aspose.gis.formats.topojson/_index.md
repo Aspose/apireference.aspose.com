@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.TopoJson
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Formats.TopoJson 命名空间提供了使用 TopoJSON 格式的类
+description: Aspose.Gis.Formats.TopoJson命名空间提供了使用 TopoJSON 格式的类
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.formats.topojson/
 ---
-` Aspose.Gis.Formats.TopoJson` 命名空间提供了使用 TopoJSON 格式的类。
+`Aspose.Gis.Formats.TopoJson`命名空间提供了使用 TopoJSON 格式的类。
 
 ## 课程
 

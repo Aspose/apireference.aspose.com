@@ -21,7 +21,7 @@ public static class GeoConvert
 | static [AsPointText](../../aspose.gis/geoconvert/aspointtext#aspointtext)(IPoint, PointFormats) | Возвращает рассчитанную позицию в виде строки в указанном формате. |
 | static [AsPointText](../../aspose.gis/geoconvert/aspointtext#aspointtext_1)(double, double, PointFormats) | Возвращает рассчитанную позицию в виде строки в указанном формате. |
 | static [ParsePointText](../../aspose.gis/geoconvert/parsepointtext)(string) | Преобразует строку, содержащую координаты, в объект IPoint. |
-| static [TryParsePointText](../../aspose.gis/geoconvert/tryparsepointtext)(string, out IPoint) | Преобразует строку, содержащую координаты, в объект IPoint. Возвращаемое значение указывает, было ли преобразование успешным или неудачным. |
+| static [TryParsePointText](../../aspose.gis/geoconvert/tryparsepointtext)(string, out IPoint) | Преобразует строку, содержащую координаты, в объект IPoint. Возвращаемое значение указывает, успешно ли выполнено преобразование. |
 
 ### Смотрите также
 

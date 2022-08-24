@@ -8,7 +8,7 @@ url: /ru/net/aspose.gis.raster/rasterlayer/nodatavalues/
 ---
 ## RasterLayer.NoDataValues property
 
-Получает значения, представляющие фон или «нет данных» растра.
+Получает значения, представляющие фон или "нет данных" растра.
 
 ```csharp
 public abstract IRasterValues NoDataValues { get; }

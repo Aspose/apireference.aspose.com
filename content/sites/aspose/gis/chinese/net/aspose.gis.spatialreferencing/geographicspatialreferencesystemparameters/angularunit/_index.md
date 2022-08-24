@@ -1,14 +1,14 @@
 ---
 title: AngularUnit
 second_title: Aspose.GIS for .NET API 参考
-description: 在此 SRS 中使用的单位默认为Degreeaspose.gis.spatialreferencing/unit/degree
+description: 在此 SRS 中使用的单位默认为Degreeaspose.gis.spatialreferencing/unit/degree.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/angularunit/
 ---
 ## GeographicSpatialReferenceSystemParameters.AngularUnit property
 
-在此 SRS 中使用的单位。默认为[`Degree`](../../unit/degree)。
+在此 SRS 中使用的单位。默认为[`Degree`](../../unit/degree).
 
 ```csharp
 public Unit AngularUnit { get; set; }

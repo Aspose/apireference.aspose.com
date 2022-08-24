@@ -17,16 +17,16 @@ public GeographicDatum(string name, Ellipsoid ellipsoid,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя этого элемента данных. |
-| эллипсоид | Ellipsoid | Эллипсоид этой системы отсчета. Не может быть нулевым. |
-| toWgs84Parameters | BursaWolfParameters | Параметры, которые могут быть заданы формуле bursa wolf для преобразования координат в этой системе координат в координаты системы WGS84. Если этот датум близок к WGS84 и преобразование не требуется, передайте параметры bursa wolf со всеми значениями, установленными на 0. Если значение null, ToWgs84 будет установлено на[`IsNull`](../../bursawolfparameters/isnull)параметры. |
+| name | String | Имя этого датума. |
+| ellipsoid | Ellipsoid | Эллипсоид этого датума. Не может быть нулевым. |
+| toWgs84Parameters | BursaWolfParameters | Параметры, которые можно указать в формуле bursa wolf, чтобы преобразовать координаты в этой системе отсчета в координаты в системе отсчета WGS84. null, для ToWgs84 будет установлено значение[`IsNull`](../../bursawolfparameters/isnull) параметры. |
 | identifier | Identifier | Идентификатор этого элемента данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ellipsoidравно null. |
+| ArgumentNullException | ellipsoid нулевой. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IsLocked
 second_title: Aspose.GIS for .NET API 参考
-description: 获取一个值该值指示该属性集合是否被锁定
+description: 获取一个值指示此属性集合是否被锁定
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/featureattributecollection/islocked/
 ---
 ## FeatureAttributeCollection.IsLocked property
 
-获取一个值，该值指示该属性集合是否被锁定。
+获取一个值，指示此属性集合是否被锁定。
 
 ```csharp
 public bool IsLocked { get; }
@@ -16,7 +16,7 @@ public bool IsLocked { get; }
 
 ### 适当的价值
 
-`true`如果此属性集合被锁定；否则，`false`。
+`true`如果这个属性集合被锁定；否则，`false`.
 
 ### 也可以看看
 

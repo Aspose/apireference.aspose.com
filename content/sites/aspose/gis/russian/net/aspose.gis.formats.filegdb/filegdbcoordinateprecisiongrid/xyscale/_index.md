@@ -1,14 +1,14 @@
 ---
 title: XYScale
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает масштаб координат X и Y. Если установленоnullиспользуется значение по умолчанию.
+description: Получает или задает масштаб координат X и Y. Если установленоnull используется значение по умолчанию.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.XYScale property
 
-Получает или задает масштаб координат X и Y. Если установлено`null`используется значение по умолчанию.
+Получает или задает масштаб координат X и Y. Если установлено`null` используется значение по умолчанию.
 
 ```csharp
 public double? XYScale { get; set; }
@@ -22,7 +22,7 @@ public double? XYScale { get; set; }
 
 ### Примечания
 
-Значение по умолчанию:` 1e9` для[`VectorLayer`](../../../aspose.gis/vectorlayer)с географическим[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) и` XYScale = 1 / XYTolerance * 10` для[`VectorLayer`](../../../aspose.gis/vectorlayer)с спроецировано[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem).
+Значение по умолчанию:`1e9` за[`VectorLayer`](../../../aspose.gis/vectorlayer) с географическим[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) и`Масштаб XY = 1 / Допуск XY * 10` за[`VectorLayer`](../../../aspose.gis/vectorlayer) с проекцией [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) .
 
 ### Смотрите также
 

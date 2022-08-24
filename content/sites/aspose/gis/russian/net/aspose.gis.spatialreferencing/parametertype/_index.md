@@ -1,14 +1,14 @@
 ---
 title: ParameterType
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет тип параметра вProjection./projection.
+description: Определяет тип параметра вProjection./projection .
 type: docs
-weight: 2080
+weight: 2090
 url: /ru/net/aspose.gis.spatialreferencing/parametertype/
 ---
 ## ParameterType enumeration
 
-Определяет тип параметра в[`Projection`](../projection).
+Определяет тип параметра в[`Projection`](../projection) .
 
 ```csharp
 public enum ParameterType

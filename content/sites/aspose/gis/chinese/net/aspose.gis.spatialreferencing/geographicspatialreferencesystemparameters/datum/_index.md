@@ -1,14 +1,14 @@
 ---
 title: Datum
 second_title: Aspose.GIS for .NET API 参考
-description: 地理 SRS 的基准默认为Wgs84aspose.gis.spatialreferencing/geographicdatum/wgs84
+description: 地理 SRS 的基准默认为Wgs84aspose.gis.spatialreferencing/geographicdatum/wgs84.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum/
 ---
 ## GeographicSpatialReferenceSystemParameters.Datum property
 
-地理 SRS 的基准。默认为[`Wgs84`](../../geographicdatum/wgs84)。
+地理 SRS 的基准。默认为[`Wgs84`](../../geographicdatum/wgs84).
 
 ```csharp
 public GeographicDatum Datum { get; set; }

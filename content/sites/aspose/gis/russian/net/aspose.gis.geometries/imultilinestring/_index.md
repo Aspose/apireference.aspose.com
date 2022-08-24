@@ -1,14 +1,14 @@
 ---
 title: IMultiLineString
 second_title: Справочник по Aspose.GIS for .NET API
-description: AMultiLineString./multilinestringявляется одномернымGeometryCollection./geometrycollection элементами которого являютсяLineString./linestrings.
+description: АMultiLineString./multilinestring является одномернымGeometryCollection./geometrycollection  элементы которогоLineString./linestring с.
 type: docs
-weight: 940
+weight: 950
 url: /ru/net/aspose.gis.geometries/imultilinestring/
 ---
 ## IMultiLineString interface
 
-A[`MultiLineString`](../multilinestring)является одномерным[`GeometryCollection`](../geometrycollection) элементами которого являются[`LineString`](../linestring)s.
+А[`MultiLineString`](../multilinestring) является одномерным[`GeometryCollection`](../geometrycollection) , элементы которого[`LineString`](../linestring) с.
 
 ```csharp
 public interface IMultiLineString : IMultiCurve

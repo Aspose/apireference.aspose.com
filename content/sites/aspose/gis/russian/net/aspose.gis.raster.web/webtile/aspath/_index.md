@@ -1,7 +1,7 @@
 ---
 title: AsPath
 second_title: Справочник по Aspose.GIS for .NET API
-description: Представляет содержимое плитки в виде URL-адреса или пути к файлу.
+description: Представляет содержимое плитки в виде URLадреса или пути к файлу.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.raster.web/webtile/aspath/

@@ -3,7 +3,7 @@ title: MarkerShapeType
 second_title: Справочник по Aspose.GIS for .NET API
 description: Тип формы маркера.
 type: docs
-weight: 1760
+weight: 1770
 url: /ru/net/aspose.gis.rendering.symbolizers/markershapetype/
 ---
 ## MarkerShapeType enumeration
@@ -23,7 +23,7 @@ public enum MarkerShapeType
 | Square | `2` | Квадратная форма. |
 | Star | `3` | Форма звезды. |
 | Cross | `4` | Форма креста. |
-| X | `5` | Форма буквы «X». |
+| X | `5` | Форма буквы «Х». |
 
 ### Смотрите также
 

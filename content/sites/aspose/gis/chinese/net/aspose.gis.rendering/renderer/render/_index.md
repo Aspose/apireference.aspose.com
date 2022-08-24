@@ -16,14 +16,14 @@ public void Render(Map map, string outputPath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| map | Map | 映射到渲染。 |
+| map | Map | 要渲染的地图。 |
 | outputPath | String | 输出文件的路径。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任何参数都是`null`。 |
+| ArgumentNullException | 任何论据都是`null`. |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -45,14 +45,14 @@ public void Render(Map map, AbstractPath outputPath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| map | Map | 映射到渲染。 |
+| map | Map | 要渲染的地图。 |
 | outputPath | AbstractPath | 输出文件的路径。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任何参数都是`null`。 |
+| ArgumentNullException | 任何论据都是`null`. |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看

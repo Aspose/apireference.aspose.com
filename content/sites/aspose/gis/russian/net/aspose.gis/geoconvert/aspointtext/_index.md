@@ -16,8 +16,8 @@ public static string AsPointText(double latitude, double longitude, PointFormats
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| широта | Double | Широта позиции. |
-| долгота | Double | Долгота положения. |
+| latitude | Double | Широта положения. |
+| longitude | Double | Долгота положения. |
 | format | PointFormats | Формат результата. |
 
 ### Возвращаемое значение

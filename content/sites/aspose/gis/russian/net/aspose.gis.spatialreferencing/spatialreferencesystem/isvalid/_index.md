@@ -1,14 +1,14 @@
 ---
 title: IsValid
 second_title: Справочник по Aspose.GIS for .NET API
-description: То же что иValidateaspose.gis.spatialreferencing/spatialreferencesystem/validate но не возвращает сообщение об ошибке .
+description: То же что иValidateaspose.gis.spatialreferencing/spatialreferencesystem/validate  но не возвращать сообщение об ошибке.
 type: docs
 weight: 150
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/isvalid/
 ---
 ## SpatialReferenceSystem.IsValid property
 
-То же, что и[`Validate`](../validate), но не возвращает сообщение об ошибке .
+То же, что и[`Validate`](../validate) , но не возвращать сообщение об ошибке.
 
 ```csharp
 public bool IsValid { get; }
@@ -16,7 +16,7 @@ public bool IsValid { get; }
 
 ### Возвращаемое значение
 
-`true`если SRS действителен,`false`в противном случае.
+`true` если SRS действителен,`false` в противном случае.
 
 ### Смотрите также
 

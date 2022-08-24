@@ -1,14 +1,14 @@
 ---
 title: IsEquivalent
 second_title: Aspose.GIS for .NET API 参考
-description: 检测此 SRS 是否与其他 SRS 等效
+description: 检测此 SRS 是否等同于其他 SRS.
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/isequivalent/
 ---
 ## CompoundSpatialReferenceSystem.IsEquivalent method
 
-检测此 SRS 是否与其他 SRS 等效。。
+检测此 SRS 是否等同于其他 SRS。.
 
 ```csharp
 public override bool IsEquivalent(SpatialReferenceSystem other)
@@ -20,7 +20,7 @@ public override bool IsEquivalent(SpatialReferenceSystem other)
 
 ### 返回值
 
-bool 值，表示此 SRS 是否与其他 SRS 等价。
+bool 值，表示该 SRS 是否与其他 SRS 等价。
 
 ### 也可以看看
 

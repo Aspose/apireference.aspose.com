@@ -1,14 +1,14 @@
 ---
 title: Symbolizer
 second_title: Aspose.GIS for .NET API 参考
-description: 指定符号器以应用于修改后的几何体 默认为NullVectorSymbolizer
+description: 指定符号器以应用于修改后的几何图形 默认为NullVectorSymbolizer.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer/
 ---
 ## GeometryGenerator.Symbolizer property
 
-指定符号器以应用于修改后的几何体。 默认为`NullVectorSymbolizer`。
+指定符号器以应用于修改后的几何图形。 默认为`NullVectorSymbolizer`.
 
 ```csharp
 public VectorSymbolizer Symbolizer { get; set; }

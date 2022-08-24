@@ -22,7 +22,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 
@@ -44,13 +44,13 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | Последовательность признаков. |
-| symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга слоя. Если`null`, будет использоваться символизатор по умолчанию. |
+| symbolizer | VectorSymbolizer | Символизатор, используемый для визуализации слоя. Если`null`, будет использоваться символизатор по умолчанию. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 
@@ -74,14 +74,14 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | Последовательность признаков. |
-| symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга слоя. Если`null`, будет использоваться символизатор по умолчанию. |
-| labeling | Labeling | Надписи, используемые для надписывания объектов в слое. Если`null`, по умолчанию будет использоваться[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling). |
+| symbolizer | VectorSymbolizer | Символизатор, используемый для визуализации слоя. Если`null`, будет использоваться символизатор по умолчанию. |
+| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , дефолт[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) будет использоваться. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 
@@ -105,13 +105,13 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой. |
-| keepOpen | Boolean | `true`чтобы оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer)объект удален; в противном случае`false`. |
+| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень`null`. |
+| ArgumentNullException | Слой`null`. |
 
 ### Смотрите также
 
@@ -133,14 +133,14 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой. |
-| symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга слоя. Если`null`, будет использоваться символизатор по умолчанию. |
-| keepOpen | Boolean | `true`чтобы оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer)объект удален; в противном случае`false`. |
+| symbolizer | VectorSymbolizer | Символизатор, используемый для визуализации слоя. Если`null`, будет использоваться символизатор по умолчанию. |
+| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень`null`. |
+| ArgumentNullException | Слой`null`. |
 
 ### Смотрите также
 
@@ -164,15 +164,15 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой. |
-| symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга слоя. Если`null`, будет использоваться символизатор по умолчанию. |
-| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null`, по умолчанию будет использоваться[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling). |
-| keepOpen | Boolean | `true`чтобы оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer)объект удален; в противном случае`false`. |
+| symbolizer | VectorSymbolizer | Символизатор для рендеринга слоя. Если`null` будет использоваться символизатор по умолчанию. |
+| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , дефолт[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) будет использоваться. |
+| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень`null`. |
+| ArgumentNullException | Слой`null`. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: AsFloat
 second_title: Aspose.GIS for .NET API 参考
-description: 将指定波段数据转换为float值
+description: 将指定波段数据转换为float值.
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.raster/irastervalues/asfloat/
 ---
 ## IRasterValues.AsFloat method
 
-将指定波段数据转换为`float`值。
+将指定波段数据转换为`float`值.
 
 ```csharp
 public float AsFloat(int bandIndex = 0)
@@ -16,7 +16,7 @@ public float AsFloat(int bandIndex = 0)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| bandIndex | Int32 | 波段的索引。编号从 0 开始。 |
+| bandIndex | Int32 | 乐队的索引。编号从 0 开始。 |
 
 ### 返回值
 

@@ -3,7 +3,7 @@ title: ILinearRing
 second_title: Справочник по Aspose.GIS for .NET API
 description: Многовершинное кольцо.
 type: docs
-weight: 920
+weight: 930
 url: /ru/net/aspose.gis.geometries/ilinearring/
 ---
 ## ILinearRing interface

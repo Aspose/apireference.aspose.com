@@ -1,14 +1,14 @@
 ---
 title: RasterImageMarker
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаRasterImageMarkeraspose.gis.rendering.symbolizers/rasterimagemarker.
+description: Инициализирует новый экземплярRasterImageMarkeraspose.gis.rendering.symbolizers/rasterimagemarker учебный класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.symbolizers/rasterimagemarker/rasterimagemarker/
 ---
 ## RasterImageMarker(string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`RasterImageMarker`](../../rasterimagemarker).
+Инициализирует новый экземпляр[`RasterImageMarker`](../../rasterimagemarker) учебный класс.
 
 ```csharp
 public RasterImageMarker(string imagePath)
@@ -28,7 +28,7 @@ public RasterImageMarker(string imagePath)
 
 ## RasterImageMarker(AbstractPath) {#constructor}
 
-Инициализирует новый экземпляр класса[`RasterImageMarker`](../../rasterimagemarker).
+Инициализирует новый экземпляр[`RasterImageMarker`](../../rasterimagemarker) учебный класс.
 
 ```csharp
 public RasterImageMarker(AbstractPath imagePath)
@@ -49,7 +49,7 @@ public RasterImageMarker(AbstractPath imagePath)
 
 ## RasterImageMarker(RasterImageMarker) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`RasterImageMarker`](../../rasterimagemarker).
+Инициализирует новый экземпляр[`RasterImageMarker`](../../rasterimagemarker) учебный класс.
 
 ```csharp
 public RasterImageMarker(RasterImageMarker other)
@@ -57,13 +57,13 @@ public RasterImageMarker(RasterImageMarker other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | RasterImageMarker | Другой[`RasterImageMarker`](../../rasterimagemarker)для копирования данных. |
+| other | RasterImageMarker | Другой[`RasterImageMarker`](../../rasterimagemarker) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

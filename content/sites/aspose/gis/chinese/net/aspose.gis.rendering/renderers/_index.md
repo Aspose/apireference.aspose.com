@@ -3,7 +3,7 @@ title: Renderers
 second_title: Aspose.GIS for .NET API 参考
 description: 所有支持格式的渲染器
 type: docs
-weight: 1670
+weight: 1680
 url: /zh/net/aspose.gis.rendering/renderers/
 ---
 ## Renderers class
@@ -19,7 +19,7 @@ public static class Renderers
 | 姓名 | 描述 |
 | --- | --- |
 | static [Bmp](../../aspose.gis.rendering/renderers/bmp) { get; } | 渲染成 BMP 格式的渲染器。 |
-| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg) { get; } | 渲染为 JPEG 格式的渲染器。 |
+| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg) { get; } | 渲染成 JPEG 格式的渲染器。 |
 | static [Png](../../aspose.gis.rendering/renderers/png) { get; } | 渲染成 PNG 格式的渲染器。 |
 | static [Svg](../../aspose.gis.rendering/renderers/svg) { get; } | 渲染成 SVG 格式的渲染器。 |
 

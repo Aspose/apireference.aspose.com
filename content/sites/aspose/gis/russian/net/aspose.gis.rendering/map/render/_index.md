@@ -17,7 +17,7 @@ public void Render(string outputPath, Renderer renderer)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputPath | String | Путь к выходному файлу. |
-| renderer | Renderer | Используемый рендерер. |
+| renderer | Renderer | Рендерер для использования. |
 
 ### Смотрите также
 
@@ -39,14 +39,14 @@ public void Render(AbstractPath outputPath, Renderer renderer)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputPath | AbstractPath | Путь к выходному файлу. |
-| renderer | Renderer | Используемый рендерер. |
+| renderer | Renderer | Рендерер для использования. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Любой аргумент`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 | [GisException](../../../aspose.gis/gisexception) | Ошибка при обработке или чтении данных ГИС. |
 
 ### Смотрите также

@@ -8,7 +8,7 @@ url: /ru/net/aspose.gis/dataset/driver/
 ---
 ## Dataset.Driver property
 
-Получает`Driver`, который создал этот набор данных.
+Получает`Driver` который создал этот набор данных.
 
 ```csharp
 public abstract Driver Driver { get; }

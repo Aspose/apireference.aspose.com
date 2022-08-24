@@ -1,14 +1,14 @@
 ---
 title: CloseLinearRing
 second_title: Aspose.GIS for .NET API 参考
-description: 确定是否关闭每个几何图形中未闭合的LinearRing默认为false
+description: 确定是否关闭未关闭的LinearRing在每个几何中默认为false.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/driveroptions/closelinearring/
 ---
 ## DriverOptions.CloseLinearRing property
 
-确定是否关闭每个几何图形中未闭合的LinearRing。默认为`false`。
+确定是否关闭未关闭的LinearRing在每个几何中。默认为`false`.
 
 ```csharp
 public bool CloseLinearRing { get; set; }

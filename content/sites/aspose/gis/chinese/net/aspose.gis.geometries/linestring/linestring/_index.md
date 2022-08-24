@@ -1,14 +1,14 @@
 ---
 title: LineString
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化LineStringaspose.gis.geometries/linestring类的新实例
+description: 初始化LineStringaspose.gis.geometries/linestring类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/linestring/linestring/
 ---
 ## LineString() {#constructor}
 
-初始化[`LineString`](../../linestring)类的新实例。
+初始化[`LineString`](../../linestring)类.
 
 ```csharp
 public LineString()
@@ -24,7 +24,7 @@ public LineString()
 
 ## LineString(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-初始化[`LineString`](../../linestring)类的新实例。
+初始化[`LineString`](../../linestring)类.
 
 ```csharp
 public LineString(IEnumerable<IPoint> collection)
@@ -38,8 +38,8 @@ public LineString(IEnumerable<IPoint> collection)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 任何点都是空的（它的[`IsEmpty`](../../igeometry/isempty)是`true`)。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 任何一点都是空的（它的[`IsEmpty`](../../igeometry/isempty)是`true`）。 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public LineString(IEnumerable<IPoint> collection)
 
 ## LineString(ILineString) {#constructor_1}
 
-初始化[`LineString`](../../linestring)类的新实例。
+初始化[`LineString`](../../linestring)类.
 
 ```csharp
 public LineString(ILineString other)
@@ -66,7 +66,7 @@ public LineString(ILineString other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

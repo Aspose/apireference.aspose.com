@@ -1,14 +1,14 @@
 ---
 title: SimpleLabeling
 second_title: Aspose.GIS for .NET API 参考
-description: 一个简单的标签将标签放置在每个特征上
+description: 一个简单的标签会在每个特征上放置标签
 type: docs
-weight: 1590
+weight: 1600
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/
 ---
 ## SimpleLabeling class
 
-一个简单的标签将标签放置在每个特征上。
+一个简单的标签会在每个特征上放置标签。
 
 ```csharp
 public class SimpleLabeling : Labeling
@@ -18,9 +18,9 @@ public class SimpleLabeling : Labeling
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SimpleLabeling](simplelabeling#constructor)() | 初始化[`SimpleLabeling`](../simplelabeling)类的新实例。 |
-| [SimpleLabeling](simplelabeling#constructor_1)(SimpleLabeling) | 初始化[`SimpleLabeling`](../simplelabeling)类的新实例。 |
-| [SimpleLabeling](simplelabeling#constructor_2)(string) | 初始化[`SimpleLabeling`](../simplelabeling)类的新实例。 |
+| [SimpleLabeling](simplelabeling#constructor)() | 初始化[`SimpleLabeling`](../simplelabeling)类. |
+| [SimpleLabeling](simplelabeling#constructor_1)(SimpleLabeling) | 初始化[`SimpleLabeling`](../simplelabeling)类. |
+| [SimpleLabeling](simplelabeling#constructor_2)(string) | 初始化[`SimpleLabeling`](../simplelabeling)类. |
 
 ## 特性
 
@@ -28,17 +28,17 @@ public class SimpleLabeling : Labeling
 | --- | --- |
 | [FeatureBasedConfiguration](../../aspose.gis.rendering.labelings/simplelabeling/featurebasedconfiguration) { get; set; } | 用于在处理功能之前配置此标签的回调。 |
 | [FontColor](../../aspose.gis.rendering.labelings/simplelabeling/fontcolor) { get; set; } | 确定文本的颜色。 |
-| [FontFamily](../../aspose.gis.rendering.labelings/simplelabeling/fontfamily) { get; set; } | 用于渲染文本的字体系列。默认值为系统相关值。 |
+| [FontFamily](../../aspose.gis.rendering.labelings/simplelabeling/fontfamily) { get; set; } | 用于呈现文本的字体系列。默认值是系统相关值。 |
 | [FontSize](../../aspose.gis.rendering.labelings/simplelabeling/fontsize) { get; set; } | 文本大小。 |
 | [FontStyle](../../aspose.gis.rendering.labelings/simplelabeling/fontstyle) { get; set; } | 应用于文本的样式。 |
-| [GeometryExpression](../../aspose.gis.rendering.labelings/simplelabeling/geometryexpression) { get; set; } | 提供一种将要素几何替换为经过修改以进行标注的几何图形的方法。 这个回调在[`FeatureBasedConfiguration`](./featurebasedconfiguration)之后首先被调用。 默认为`null`（按原样使用要素几何）。 |
-| [HaloColor](../../aspose.gis.rendering.labelings/simplelabeling/halocolor) { get; set; } | 文本周围光环（笔划）的颜色。 |
-| [HaloSize](../../aspose.gis.rendering.labelings/simplelabeling/halosize) { get; set; } | 文本周围的光晕（笔划）的大小。 |
-| [LabelAttribute](../../aspose.gis.rendering.labelings/simplelabeling/labelattribute) { get; set; } | 用作标签源的属性名称。如果设置[`LabelExpression`](./labelexpression)则忽略。 [`LabelAttribute`](./labelattribute)或[`LabelExpression`](./labelexpression)必须在渲染前设置； InvalidOperationException否则抛出。 |
-| [LabelExpression](../../aspose.gis.rendering.labelings/simplelabeling/labelexpression) { get; set; } | 提供自定义和格式化标签文本的方法。如果设置，覆盖[`LabelAttribute`](./labelattribute)。 [`LabelAttribute`](./labelattribute)或[`LabelExpression`](./labelexpression)必须在渲染前设置； InvalidOperationException否则抛出。 |
-| [MultipartMode](../../aspose.gis.rendering.labelings/simplelabeling/multipartmode) { get; set; } | 指定多部分几何图形的渲染行为。默认为All。 |
+| [GeometryExpression](../../aspose.gis.rendering.labelings/simplelabeling/geometryexpression) { get; set; } | 提供一种将要素几何替换为为标注而修改的几何图形的方法。 此回调在之后的第一个调用[`FeatureBasedConfiguration`](./featurebasedconfiguration). 默认为`null`（按原样使用要素几何）. |
+| [HaloColor](../../aspose.gis.rendering.labelings/simplelabeling/halocolor) { get; set; } | 文本周围的光晕（笔划）的颜色。 |
+| [HaloSize](../../aspose.gis.rendering.labelings/simplelabeling/halosize) { get; set; } | 文本周围的光环（笔划）的大小。 |
+| [LabelAttribute](../../aspose.gis.rendering.labelings/simplelabeling/labelattribute) { get; set; } | 用作标签源的属性名称。忽略如果[`LabelExpression`](./labelexpression)已设置。 要么[`LabelAttribute`](./labelattribute)或者[`LabelExpression`](./labelexpression)必须在渲染前设置； InvalidOperationException否则抛出。 |
+| [LabelExpression](../../aspose.gis.rendering.labelings/simplelabeling/labelexpression) { get; set; } | 提供一种自定义和格式化标签文本的方法。如果设置，覆盖[`LabelAttribute`](./labelattribute). 要么[`LabelAttribute`](./labelattribute)或者[`LabelExpression`](./labelexpression)必须在渲染前设置； InvalidOperationException否则抛出。 |
+| [MultipartMode](../../aspose.gis.rendering.labelings/simplelabeling/multipartmode) { get; set; } | 指定多部分几何的渲染行为。默认为All. |
 | [Placement](../../aspose.gis.rendering.labelings/simplelabeling/placement) { get; set; } | 标签放置指定标签相对于要素几何的放置方式。 |
-| [Priority](../../aspose.gis.rendering.labelings/simplelabeling/priority) { get; set; } | 表示此标签的优先级，以防它与另一个标签重叠。不呈现具有较低优先级的标签。 默认为 1000。 |
+| [Priority](../../aspose.gis.rendering.labelings/simplelabeling/priority) { get; set; } | 指示此标签的优先级，以防它与另一个标签重叠。不渲染优先级较低的标签。 默认为 1000。 |
 
 ## 方法
 

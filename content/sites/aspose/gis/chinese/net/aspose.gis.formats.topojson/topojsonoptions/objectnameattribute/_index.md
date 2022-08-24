@@ -16,7 +16,7 @@ public string ObjectNameAttribute { get; set; }
 
 ### 评论
 
-TopoJSON 可以包含任意数量的命名对象。每个这样的对象都可以包含 多个特征。有关命名对象的更多详细信息，请参阅 TopoJSON 规范。 读取 TopoJSON 时，此属性指定什么属性应反映包含特征的对象的名称。 编写 TopoJSON 时，此属性指定应使用什么属性对对象中的特征进行分组。 默认为“topojson_object_name”。
+TopoJSON 可以包含任意数量的命名对象。每个这样的对象都可以包含 多个特征。有关命名对象的更多详细信息，请参阅 TopoJSON 规范。 读取 TopoJSON 时，此属性指定什么属性应反映包含要素的对象的名称。 编写 TopoJSON 时，此属性指定应使用什么属性对要素进行分组在对象中。 默认为“topojson_object_name”。
 
 ### 也可以看看
 

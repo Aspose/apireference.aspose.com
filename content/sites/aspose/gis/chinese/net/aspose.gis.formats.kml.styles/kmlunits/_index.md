@@ -20,7 +20,7 @@ public enum KmlUnits
 | --- | --- | --- |
 | Pixels | `0` | 以像素为单位表示 x 值。 |
 | Fraction | `1` | 表示 x 值是图标的一部分。 |
-| InsetPixels | `2` | 表示图标右边缘的缩进。 |
+| InsetPixels | `2` | 表示从图标右边缘缩进。 |
 
 ### 也可以看看
 

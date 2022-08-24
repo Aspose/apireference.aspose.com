@@ -18,7 +18,7 @@ public Axis LatitudeAxis { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Выброшено из установщика, если направление оси не равноNorthилиSouth. |
+| ArgumentException | Выбрасывается из сеттера, если направление оси не заданоNorth или жеSouth . |
 
 ### Смотрите также
 

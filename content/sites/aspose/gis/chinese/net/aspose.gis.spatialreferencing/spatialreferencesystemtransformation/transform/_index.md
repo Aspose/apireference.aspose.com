@@ -16,7 +16,7 @@ public Geometry Transform(IGeometry geometry)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| geometry | IGeometry | 要变换的几何。 |
+| geometry | IGeometry | 要转换的几何图形。 |
 
 ### 返回值
 
@@ -26,9 +26,9 @@ public Geometry Transform(IGeometry geometry)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 几何是`null`。 |
-| ArgumentException | 几何[`SpatialReferenceSystem`](../../../aspose.gis.geometries/igeometry/spatialreferencesystem)是不`null`并且不等于 Source |
-| [TransformationException](../../transformationexception) | 转换失败。 |
+| ArgumentNullException | 几何是`null`. |
+| ArgumentException | 几何[`SpatialReferenceSystem`](../../../aspose.gis.geometries/igeometry/spatialreferencesystem)不是`null`并不等同于 [`Source`](../source) |
+| [TransformationException](../../transformationexception) | 转型失败。 |
 
 ### 也可以看看
 

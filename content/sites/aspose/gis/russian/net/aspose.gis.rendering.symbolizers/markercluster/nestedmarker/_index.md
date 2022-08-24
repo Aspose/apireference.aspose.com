@@ -1,14 +1,14 @@
 ---
 title: NestedMarker
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает символизатор маркера для вложенных точек кластера. Значение по умолчаниюNullaspose.gis.rendering.symbolizers/vectorsymbolizer/null.
+description: Задает символизатор маркера для вложенных точек кластера. По умолчаниюNullaspose.gis.rendering.symbolizers/vectorsymbolizer/null.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering.symbolizers/markercluster/nestedmarker/
 ---
 ## MarkerCluster.NestedMarker property
 
-Задает символизатор маркера для вложенных точек кластера. Значение по умолчанию:[`Null`](../../vectorsymbolizer/null).
+Задает символизатор маркера для вложенных точек кластера. По умолчанию[`Null`](../../vectorsymbolizer/null).
 
 ```csharp
 public VectorSymbolizer NestedMarker { get; set; }

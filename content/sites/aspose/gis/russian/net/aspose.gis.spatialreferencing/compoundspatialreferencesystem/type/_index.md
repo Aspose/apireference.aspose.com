@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по Aspose.GIS for .NET API
-description: Тип этого соединения SRS. Может бытьGeographicif эта составная SRS является комбинацией географической и вертикальной SRS илиProjectedif этот составной SRS представляет собой комбинацию проекционного и вертикального SRS.
+description: Тип данного соединения SRS. Может бытьGeographicif эта составная SRS представляет собой комбинацию географической и вертикальной SRS илиProjected if эта составная SRS представляет собой комбинацию проекционной и вертикальной SRS.
 type: docs
 weight: 120
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/type/
 ---
 ## CompoundSpatialReferenceSystem.Type property
 
-Тип этого соединения SRS. Может бытьGeographicif эта составная SRS является комбинацией географической и вертикальной SRS, илиProjectedif этот составной SRS представляет собой комбинацию проекционного и вертикального SRS.
+Тип данного соединения SRS. Может бытьGeographicif эта составная SRS представляет собой комбинацию географической и вертикальной SRS, илиProjected if эта составная SRS представляет собой комбинацию проекционной и вертикальной SRS.
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }

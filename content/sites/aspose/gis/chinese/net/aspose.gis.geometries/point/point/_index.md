@@ -1,14 +1,14 @@
 ---
 title: Point
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化Pointaspose.gis.geometries/point类的新实例
+description: 初始化Pointaspose.gis.geometries/point类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/point/point/
 ---
 ## Point() {#constructor}
 
-初始化[`Point`](../../point)类的新实例。
+初始化[`Point`](../../point)类.
 
 ```csharp
 public Point()
@@ -24,7 +24,7 @@ public Point()
 
 ## Point(double, double) {#constructor_2}
 
-初始化[`Point`](../../point)类的新实例。
+初始化[`Point`](../../point)类.
 
 ```csharp
 public Point(double x, double y)
@@ -32,8 +32,8 @@ public Point(double x, double y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | X 坐标值。 |
-| y | Double | Y 坐标值。 |
+| x | Double | X 坐标的值。 |
+| y | Double | Y 坐标的值。 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public Point(double x, double y)
 
 ## Point(double, double, double) {#constructor_3}
 
-初始化[`Point`](../../point)类的新实例。
+初始化[`Point`](../../point)类.
 
 ```csharp
 public Point(double x, double y, double z)
@@ -53,9 +53,9 @@ public Point(double x, double y, double z)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | X 坐标值。 |
-| y | Double | Y 坐标值。 |
-| z | Double | Z 坐标值。 |
+| x | Double | X 坐标的值。 |
+| y | Double | Y 坐标的值。 |
+| z | Double | Z 坐标的值。 |
 
 ### 也可以看看
 
@@ -67,7 +67,7 @@ public Point(double x, double y, double z)
 
 ## Point(double, double, double, double) {#constructor_4}
 
-初始化[`Point`](../../point)类的新实例。
+初始化[`Point`](../../point)类.
 
 ```csharp
 public Point(double x, double y, double z, double m)
@@ -75,10 +75,10 @@ public Point(double x, double y, double z, double m)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | X 坐标值。 |
-| y | Double | Y 坐标值。 |
-| z | Double | Z 坐标值。 |
-| m | Double | M 坐标值。 |
+| x | Double | X 坐标的值。 |
+| y | Double | Y 坐标的值。 |
+| z | Double | Z 坐标的值。 |
+| m | Double | M 坐标的值。 |
 
 ### 也可以看看
 
@@ -90,7 +90,7 @@ public Point(double x, double y, double z, double m)
 
 ## Point(IPoint) {#constructor_1}
 
-初始化[`Point`](../../point)类的新实例。
+初始化[`Point`](../../point)类.
 
 ```csharp
 public Point(IPoint other)
@@ -104,7 +104,7 @@ public Point(IPoint other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

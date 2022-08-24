@@ -1,14 +1,14 @@
 ---
 title: Ellipsoid
 second_title: Справочник по Aspose.GIS for .NET API
-description: Эллипсоид представляет собой эллипсоид приближающийся к Земле.
+description: Эллипсоид представляет собой эллипсоид который приближается к Земле.
 type: docs
-weight: 1960
+weight: 1970
 url: /ru/net/aspose.gis.spatialreferencing/ellipsoid/
 ---
 ## Ellipsoid class
 
-Эллипсоид представляет собой эллипсоид, приближающийся к Земле.
+Эллипсоид представляет собой эллипсоид, который приближается к Земле.
 
 ```csharp
 public class Ellipsoid : IdentifiableObject
@@ -24,15 +24,15 @@ public class Ellipsoid : IdentifiableObject
 
 | Имя | Описание |
 | --- | --- |
-| static [Airy](../../aspose.gis.spatialreferencing/ellipsoid/airy) { get; } | Воздушный эллипсоид. |
-| static [Grs80](../../aspose.gis.spatialreferencing/ellipsoid/grs80) { get; } | GRS 1980 Эллипсоид. |
+| static [Airy](../../aspose.gis.spatialreferencing/ellipsoid/airy) { get; } | Эллипсоид Эйри. |
+| static [Grs80](../../aspose.gis.spatialreferencing/ellipsoid/grs80) { get; } | Эллипсоид GRS 1980 года. |
 | static [Wgs72](../../aspose.gis.spatialreferencing/ellipsoid/wgs72) { get; } | Эллипсоид WGS 72. |
 | static [Wgs84](../../aspose.gis.spatialreferencing/ellipsoid/wgs84) { get; } | Эллипсоид WGS 84. |
 | [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | Если этот идентификатор объекта является идентификатором EPSG - вернуть его код. В противном случае - вернуть -1. |
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Идентификатор этого идентифицируемого объекта. |
 | [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening) { get; } | Обратное уплощение эллипсоида. 0, если это сфера. |
 | [IsSphere](../../aspose.gis.spatialreferencing/ellipsoid/issphere) { get; } | Определяет, является ли этот эллипсоид сферой. |
-| [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid) { get; } | Определяет, является ли эллипсоид действительным:его большая полуось больше 0, а обратное сглаживание положительно или равно 0. |
+| [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid) { get; } | Определяет, является ли эллипсоид действительным: его большая полуось больше 0, а обратное сглаживание положительно или равно 0. |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Имя этого объекта. |
 | [SemiMajorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semimajoraxis) { get; } | Большая полуось эллипсоида. |
 | [SemiMinorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semiminoraxis) { get; } | Малая полуось эллипсоида. Равен большой полуоси, если это сфера. |
@@ -41,9 +41,9 @@ public class Ellipsoid : IdentifiableObject
 
 | Имя | Описание |
 | --- | --- |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent)(Ellipsoid) | Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное уплощение. |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, представляющую текущий объект. |
-| static [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent)(Ellipsoid, Ellipsoid) | Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное уплощение. |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent)(Ellipsoid) | Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное сглаживание. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, которая представляет текущий объект. |
+| static [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent)(Ellipsoid, Ellipsoid) | Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное сглаживание. |
 
 ### Смотрите также
 

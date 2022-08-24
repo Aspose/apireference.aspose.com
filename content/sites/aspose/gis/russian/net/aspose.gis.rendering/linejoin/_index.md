@@ -3,7 +3,7 @@ title: LineJoin
 second_title: Справочник по Aspose.GIS for .NET API
 description: Определяет способ отображения линий на пересечениях сегментов линий.
 type: docs
-weight: 1600
+weight: 1610
 url: /ru/net/aspose.gis.rendering/linejoin/
 ---
 ## LineJoin enumeration
@@ -19,7 +19,7 @@ public enum LineJoin
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Miter | `0` | Острый угол. |
-| Round | `1` | Скругленный угол. |
+| Round | `1` | Закругленный угол. |
 | Bevel | `2` | Диагональный угол. |
 
 ### Смотрите также

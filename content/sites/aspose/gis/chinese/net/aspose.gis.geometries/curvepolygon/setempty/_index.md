@@ -1,14 +1,14 @@
 ---
 title: SetEmpty
 second_title: Aspose.GIS for .NET API 参考
-description: 使Geometryaspose.gis.geometries/geometry为空
+description: 做这个Geometryaspose.gis.geometries/geometry空的.
 type: docs
 weight: 160
 url: /zh/net/aspose.gis.geometries/curvepolygon/setempty/
 ---
 ## CurvePolygon.SetEmpty method
 
-使[`Geometry`](../../geometry)为空。
+做这个[`Geometry`](../../geometry)空的.
 
 ```csharp
 public override void SetEmpty()

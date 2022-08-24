@@ -1,14 +1,14 @@
 ---
 title: LinearUnit
 second_title: Справочник по Aspose.GIS for .NET API
-description: Единица которая используется для линейных размеров в этой SRS и для линейных параметровProjectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection.
+description: Единица которая используется для линейных размеров в этой СГД и для линейных параметровProjectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection .
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/linearunit/
 ---
 ## ProjectedSpatialReferenceSystem.LinearUnit property
 
-Единица, которая используется для линейных размеров в этой SRS и для линейных параметров[`Projection`](../projection).
+Единица, которая используется для линейных размеров в этой СГД и для линейных параметров[`Projection`](../projection) .
 
 ```csharp
 public abstract Unit LinearUnit { get; }

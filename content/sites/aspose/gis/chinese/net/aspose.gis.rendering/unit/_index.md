@@ -1,14 +1,14 @@
 ---
 title: Unit
 second_title: Aspose.GIS for .NET API 参考
-description: 度量单位
+description: 测量单位
 type: docs
-weight: 1880
+weight: 1890
 url: /zh/net/aspose.gis.rendering/unit/
 ---
 ## Unit enumeration
 
-度量单位。
+测量单位。
 
 ```csharp
 public enum Unit
@@ -23,7 +23,7 @@ public enum Unit
 | Millimeters | `2` | 指定毫米。 |
 | Inches | `3` | 指定英寸。一英寸是25.4毫米。 |
 | MapUnits | `4` | 指定空间参考特定的地图单位。 |
-| MetersOnEarth | `5` | 以实际米为单位指定地球上的长度，无论[`SpatialReferenceSystem`](../map/spatialreferencesystem)是什么。 |
+| MetersOnEarth | `5` | 指定地球上实际米的长度，无论是什么[`SpatialReferenceSystem`](../map/spatialreferencesystem). |
 
 ### 也可以看看
 

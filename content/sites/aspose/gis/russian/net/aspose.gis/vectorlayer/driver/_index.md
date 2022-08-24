@@ -8,7 +8,7 @@ url: /ru/net/aspose.gis/vectorlayer/driver/
 ---
 ## VectorLayer.Driver property
 
-Получает`Driver`, который создал этот слой.
+Получает`Driver` который создал этот слой.
 
 ```csharp
 public abstract Driver Driver { get; }

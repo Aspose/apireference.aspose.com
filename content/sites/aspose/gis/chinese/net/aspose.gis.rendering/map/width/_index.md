@@ -18,7 +18,7 @@ public Measurement Width { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | [`Unit`](../../measurement/unit)的值为MapUnits或MetersOnEarth。 |
+| ArgumentException | [`Unit`](../../measurement/unit)的价值是MapUnits或者MetersOnEarth. |
 | ArgumentOutOfRangeException | 值为负数或零。 |
 
 ### 也可以看看

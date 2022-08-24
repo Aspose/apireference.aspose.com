@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.GIS for .NET API
-description: ПолучаетFeatureaspose.gis/featureпо указанному индексу.
+description: ПолучаетFeatureaspose.gis/feature по указанному индексу.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis/vectorlayer/item/
 ---
 ## VectorLayer indexer
 
-Получает[`Feature`](../../feature)по указанному индексу.
+Получает[`Feature`](../../feature) по указанному индексу.
 
 ```csharp
 public virtual Feature this[int index] { get; }
@@ -20,7 +20,7 @@ public virtual Feature this[int index] { get; }
 
 ### Стоимость имущества
 
-The[`Feature`](../../feature).
+[`Feature`](../../feature) .
 
 ### Исключения
 
@@ -28,8 +28,8 @@ The[`Feature`](../../feature).
 | --- | --- |
 | InvalidOperationException | выбрасывается, если слой открыт только для записи. |
 | ArgumentOutOfRangeException | Индекс вне допустимого диапазона. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 

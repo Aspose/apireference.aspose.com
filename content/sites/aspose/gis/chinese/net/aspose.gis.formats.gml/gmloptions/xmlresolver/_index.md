@@ -1,14 +1,14 @@
 ---
 title: XmlResolver
 second_title: Aspose.GIS for .NET API 参考
-description: AXmlResolveraspose.gis.formats.gml/gmloptions/xmlresolver用于解析外部资源默认为XmlUrlResolver
+description: 一个XmlResolveraspose.gis.formats.gml/gmloptions/xmlresolver用于解析外部资源默认为XmlUrlResolver.
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.formats.gml/gmloptions/xmlresolver/
 ---
 ## GmlOptions.XmlResolver property
 
-A`XmlResolver`用于解析外部资源。默认为XmlUrlResolver。
+一个`XmlResolver`用于解析外部资源。默认为XmlUrlResolver.
 
 ```csharp
 public XmlResolver XmlResolver { get; set; }
