@@ -51,7 +51,18 @@ defaultContentLang = 'en'
     languageCode = "zh"
     flag = "flag-cn"
     weight = 12
-
+  [languages.fr]
+    contentDir = 'content/sites/aspose/psd/french'
+    languageName = "Français"
+    languageCode = "fr"
+    flag = "flag-fr"
+    weight = 13
+  [languages.es]
+    contentDir = 'content/sites/aspose/psd/spanish'
+    languageName = "Español"
+    languageCode = "es"
+    flag = "flag-es"
+    weight = 14
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
