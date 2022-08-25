@@ -1,7 +1,7 @@
 ---
 title: Stream
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets the memory stream.
 type: docs
 weight: 20
 url: /net/aspose.tex.io/outputmemoryterminal/stream/

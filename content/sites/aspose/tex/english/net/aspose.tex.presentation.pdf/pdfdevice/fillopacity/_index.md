@@ -1,7 +1,7 @@
 ---
 title: FillOpacity
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the current fill opacity.
 type: docs
 weight: 40
 url: /net/aspose.tex.presentation.pdf/pdfdevice/fillopacity/

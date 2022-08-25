@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Disposes the instance.
 type: docs
 weight: 20
 url: /net/aspose.tex.io/outputzipdirectory/dispose/

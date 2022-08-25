@@ -1,7 +1,7 @@
 ---
 title: RasterizeIncludedGraphics
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the flag that allows to rasterize PS/EPS and/or XPS/OXPS included graphics.
 type: docs
 weight: 20
 url: /net/aspose.tex.presentation/saveoptions/rasterizeincludedgraphics/

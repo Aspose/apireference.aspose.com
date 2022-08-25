@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionDetails
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Initializes a new instance of the PdfEncryptionDetailsCore class.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation.pdf/pdfencryptiondetails/pdfencryptiondetails/

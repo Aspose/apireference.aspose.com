@@ -1,7 +1,7 @@
 ---
 title: IOutputTerminal
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Interface for abstract output terminal.
 type: docs
 weight: 110
 url: /net/aspose.tex.io/ioutputterminal/

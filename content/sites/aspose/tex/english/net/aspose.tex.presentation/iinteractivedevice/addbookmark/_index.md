@@ -1,7 +1,7 @@
 ---
 title: AddBookmark
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Adds the bookmark identified by the name.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation/iinteractivedevice/addbookmark/

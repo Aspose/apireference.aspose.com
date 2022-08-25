@@ -1,7 +1,7 @@
 ---
 title: BuildVersionInfo
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: This class provides information about current product build.
 type: docs
 weight: 10
 url: /net/aspose.tex/buildversioninfo/

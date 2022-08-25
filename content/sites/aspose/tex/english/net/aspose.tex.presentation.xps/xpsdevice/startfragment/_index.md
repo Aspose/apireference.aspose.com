@@ -1,7 +1,7 @@
 ---
 title: StartFragment
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Starts a fragment to rasterize.
 type: docs
 weight: 240
 url: /net/aspose.tex.presentation.xps/xpsdevice/startfragment/

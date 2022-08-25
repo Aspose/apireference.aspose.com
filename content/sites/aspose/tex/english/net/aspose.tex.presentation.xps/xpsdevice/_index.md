@@ -1,9 +1,9 @@
 ---
 title: XpsDevice
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Implements the interface for outputting text and graphic content to XPS document.
 type: docs
-weight: 420
+weight: 440
 url: /net/aspose.tex.presentation.xps/xpsdevice/
 ---
 ## XpsDevice class
@@ -18,8 +18,8 @@ public class XpsDevice : Device, IFragmentRasterizer, IInteractiveDevice
 
 | Name | Description |
 | --- | --- |
-| [XpsDevice](xpsdevice)() | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
-| [XpsDevice](xpsdevice)(Stream) | Creates new instance. The output file will be written to specified stream. |
+| [XpsDevice](xpsdevice#constructor)() | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
+| [XpsDevice](xpsdevice#constructor_1)(Stream) | Creates new instance. The output file will be written to specified stream. |
 
 ## Properties
 

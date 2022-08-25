@@ -1,12 +1,12 @@
 ---
 title: XpsDevice
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation.xps/xpsdevice/xpsdevice/
 ---
-## XpsDevice constructor (1 of 2)
+## XpsDevice() {#constructor}
 
 Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
 
@@ -22,7 +22,7 @@ public XpsDevice()
 
 ---
 
-## XpsDevice constructor (2 of 2)
+## XpsDevice(Stream) {#constructor_1}
 
 Creates new instance. The output file will be written to specified stream.
 

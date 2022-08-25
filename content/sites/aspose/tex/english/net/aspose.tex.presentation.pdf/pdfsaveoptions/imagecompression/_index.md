@@ -1,7 +1,7 @@
 ---
 title: ImageCompression
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Specifies compression type to be used for all images in the document. Default is Auto.
 type: docs
 weight: 30
 url: /net/aspose.tex.presentation.pdf/pdfsaveoptions/imagecompression/

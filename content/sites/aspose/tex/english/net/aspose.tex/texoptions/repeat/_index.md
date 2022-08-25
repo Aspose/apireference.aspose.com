@@ -1,7 +1,7 @@
 ---
 title: Repeat
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the flag that indicates whether it is necessary to run the TeX job twice in case for example there are references in input TeX files. In general this behavior is useful when the engine collects some data along the typesetting process and stores it in an auxilliary file all at the first run. And at the second run the engine somehow uses that data.
 type: docs
 weight: 90
 url: /net/aspose.tex/texoptions/repeat/

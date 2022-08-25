@@ -1,9 +1,9 @@
 ---
 title: GlyphData
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Container class for glyph data required for precise typesetting of a text string.
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.tex.presentation/glyphdata/
 ---
 ## GlyphData class
@@ -18,7 +18,7 @@ public class GlyphData
 
 | Name | Description |
 | --- | --- |
-| [GlyphData](glyphdata)() | The default constructor. |
+| [GlyphData](glyphdata)() | Creates new instance. |
 
 ## Properties
 

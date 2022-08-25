@@ -1,7 +1,7 @@
 ---
 title: AddHyperlink
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Set the hyperlink with a URI as its target.
 type: docs
 weight: 100
 url: /net/aspose.tex.presentation.pdf/pdfdevice/addhyperlink/

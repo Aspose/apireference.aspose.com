@@ -1,7 +1,7 @@
 ---
 title: Create
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates a copy of this device.
 type: docs
 weight: 100
 url: /net/aspose.tex.presentation/device/create/

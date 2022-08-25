@@ -1,7 +1,7 @@
 ---
 title: SetClip
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Sets the current clip path.
 type: docs
 weight: 200
 url: /net/aspose.tex.presentation.svg/svgdevice/setclip/

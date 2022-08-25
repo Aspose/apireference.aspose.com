@@ -1,7 +1,7 @@
 ---
 title: SaveOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets options used for rendering into destination format XPS PDF image etc.. Default value is the set of default options for rendering to XPS.
 type: docs
 weight: 110
 url: /net/aspose.tex/texoptions/saveoptions/

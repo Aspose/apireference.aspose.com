@@ -1,9 +1,9 @@
 ---
 title: Interaction
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Represents increasing amounts of user interaction.
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.tex/interaction/
 ---
 ## Interaction enumeration

@@ -1,7 +1,7 @@
 ---
 title: Init
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Initializes device.
 type: docs
 weight: 190
 url: /net/aspose.tex.presentation.svg/svgdevice/init/

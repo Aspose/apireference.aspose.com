@@ -1,7 +1,7 @@
 ---
 title: ImageDevice
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation.image/imagedevice/imagedevice/

@@ -1,7 +1,7 @@
 ---
 title: PngMathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Math formula PNG rendering options.
 type: docs
 weight: 50
 url: /net/aspose.tex.features/pngmathrendereroptions/

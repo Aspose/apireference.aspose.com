@@ -1,7 +1,7 @@
 ---
 title: IInputTerminal
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Interface for abstract input terminal.
 type: docs
 weight: 90
 url: /net/aspose.tex.io/iinputterminal/

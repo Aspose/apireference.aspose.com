@@ -1,7 +1,7 @@
 ---
 title: IInputWorkingDirectory
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Interface of generalized input working directory.
 type: docs
 weight: 100
 url: /net/aspose.tex.io/iinputworkingdirectory/

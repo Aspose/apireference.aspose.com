@@ -1,9 +1,9 @@
 ---
 title: OutputFileTerminal
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Implements a terminal whose output is to be written to a file in some working directory.
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.tex.io/outputfileterminal/
 ---
 ## OutputFileTerminal class

@@ -1,7 +1,7 @@
 ---
 title: CreateFormat
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Runs TeX engine in INITEX mode to create a format file .fmt.
 type: docs
 weight: 30
 url: /net/aspose.tex/texjob/createformat/

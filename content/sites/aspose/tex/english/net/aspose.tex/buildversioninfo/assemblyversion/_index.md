@@ -1,7 +1,7 @@
 ---
 title: AssemblyVersion
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Assembly Version
 type: docs
 weight: 20
 url: /net/aspose.tex/buildversioninfo/assemblyversion/

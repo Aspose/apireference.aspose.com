@@ -1,12 +1,12 @@
 ---
 title: PdfDevice
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice constructor (1 of 2)
+## PdfDevice() {#constructor}
 
 Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
 
@@ -22,7 +22,7 @@ public PdfDevice()
 
 ---
 
-## PdfDevice constructor (2 of 2)
+## PdfDevice(Stream) {#constructor_1}
 
 Creates new instance. The output file will be written to specified stream.
 

@@ -1,9 +1,9 @@
 ---
 title: TeXJob
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Implements features of a TeX job.
 type: docs
-weight: 470
+weight: 490
 url: /net/aspose.tex/texjob/
 ---
 ## TeXJob class
@@ -18,9 +18,9 @@ public class TeXJob
 
 | Name | Description |
 | --- | --- |
-| [TeXJob](texjob)(Device, TeXOptions) | Creates a TeX job for running the engine in production mode to typeset a TeX document. The engine will prompt the file name as soon as it starts. Thus this run is supposed to be interactive. |
-| [TeXJob](texjob)(Stream, Device, TeXOptions) | Creates a TeX job for running the engine in production mode to typeset a TeX file. |
-| [TeXJob](texjob)(string, Device, TeXOptions) | Creates a TeX job for running the engine in production mode to typeset a TeX file. |
+| [TeXJob](texjob#constructor)(Device, TeXOptions) | Creates a TeX job for running the engine in production mode to typeset a TeX document. The engine will prompt the file name as soon as it starts. Thus this run is supposed to be interactive. |
+| [TeXJob](texjob#constructor_1)(Stream, Device, TeXOptions) | Creates a TeX job for running the engine in production mode to typeset a TeX file. |
+| [TeXJob](texjob#constructor_2)(string, Device, TeXOptions) | Creates a TeX job for running the engine in production mode to typeset a TeX file. |
 
 ## Methods
 

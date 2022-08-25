@@ -1,7 +1,7 @@
 ---
 title: Fill
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the current fill.
 type: docs
 weight: 30
 url: /net/aspose.tex.presentation.pdf/pdfdevice/fill/

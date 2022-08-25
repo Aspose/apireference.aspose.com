@@ -1,9 +1,9 @@
 ---
 title: TeXConfig
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Class providing available TeX configurations.
 type: docs
-weight: 450
+weight: 470
 url: /net/aspose.tex/texconfig/
 ---
 ## TeXConfig class

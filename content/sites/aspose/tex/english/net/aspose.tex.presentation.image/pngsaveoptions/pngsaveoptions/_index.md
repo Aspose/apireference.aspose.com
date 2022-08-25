@@ -1,14 +1,14 @@
 ---
 title: PngSaveOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates new instance of options.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation.image/pngsaveoptions/pngsaveoptions/
 ---
 ## PngSaveOptions constructor
 
-The default constructor.
+Creates new instance of options.
 
 ```csharp
 public PngSaveOptions()

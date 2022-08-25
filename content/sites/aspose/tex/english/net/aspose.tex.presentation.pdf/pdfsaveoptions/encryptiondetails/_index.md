@@ -1,7 +1,7 @@
 ---
 title: EncryptionDetails
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets or sets a encryption details. If not set then no encryption will be performed.
 type: docs
 weight: 20
 url: /net/aspose.tex.presentation.pdf/pdfsaveoptions/encryptiondetails/

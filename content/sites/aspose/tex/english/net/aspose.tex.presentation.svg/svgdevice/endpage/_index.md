@@ -1,7 +1,7 @@
 ---
 title: EndPage
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Finalizes a page.
 type: docs
 weight: 170
 url: /net/aspose.tex.presentation.svg/svgdevice/endpage/

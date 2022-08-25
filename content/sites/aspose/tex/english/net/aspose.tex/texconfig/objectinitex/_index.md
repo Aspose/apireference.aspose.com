@@ -1,7 +1,7 @@
 ---
 title: ObjectIniTeX
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets the configuration of ObjectTeX engine extension with no format preloaded i.e. in INITEX mode. Supposed to be used for format preparation.
 type: docs
 weight: 10
 url: /net/aspose.tex/texconfig/objectinitex/

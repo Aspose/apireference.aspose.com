@@ -1,7 +1,7 @@
 ---
 title: MathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Math formula common rendering options.
 type: docs
 weight: 30
 url: /net/aspose.tex.features/mathrendereroptions/

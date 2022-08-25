@@ -1,7 +1,7 @@
 ---
 title: GetFile
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Returns the stream to read from or to write to.
 type: docs
 weight: 10
 url: /net/aspose.tex.io/iinputworkingdirectory/getfile/

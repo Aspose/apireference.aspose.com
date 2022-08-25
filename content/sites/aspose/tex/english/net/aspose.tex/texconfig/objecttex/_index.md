@@ -1,7 +1,7 @@
 ---
 title: ObjectTeX
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets the configuration of ObjectTeX engine extension with provided format preloaded.
 type: docs
 weight: 30
 url: /net/aspose.tex/texconfig/objecttex/

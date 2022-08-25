@@ -1,7 +1,7 @@
 ---
 title: DestinationName
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets destination name output file name or device description.
 type: docs
 weight: 20
 url: /net/aspose.tex.presentation.pdf/pdfdevice/destinationname/

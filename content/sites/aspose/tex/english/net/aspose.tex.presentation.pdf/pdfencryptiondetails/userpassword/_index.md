@@ -1,7 +1,7 @@
 ---
 title: UserPassword
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets or sets the User password.
 type: docs
 weight: 50
 url: /net/aspose.tex.presentation.pdf/pdfencryptiondetails/userpassword/

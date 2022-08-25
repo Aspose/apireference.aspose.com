@@ -1,7 +1,7 @@
 ---
 title: GetOutputFile
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Returns the stream to write to.
 type: docs
 weight: 30
 url: /net/aspose.tex.io/outputfilesystemdirectory/getoutputfile/
