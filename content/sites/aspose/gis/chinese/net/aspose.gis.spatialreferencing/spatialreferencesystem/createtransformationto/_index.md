@@ -1,14 +1,14 @@
 ---
 title: CreateTransformationTo
 second_title: Aspose.GIS for .NET API 参考
-description: 从此创建转换 空间参考系统 给另一个 空间参考系统.
+description: 从这里创建转换空间参考系统给另一个空间参考系统.
 type: docs
 weight: 180
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/createtransformationto/
 ---
 ## SpatialReferenceSystem.CreateTransformationTo method
 
-从此创建转换 `空间参考系统` 给另一个 `空间参考系统`.
+从这里创建转换`空间参考系统`给另一个`空间参考系统`.
 
 ```csharp
 public SpatialReferenceSystemTransformation CreateTransformationTo(SpatialReferenceSystem targetSrs)
@@ -16,18 +16,18 @@ public SpatialReferenceSystemTransformation CreateTransformationTo(SpatialRefere
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | 其他 `空间参考系统`. |
+| targetSrs | SpatialReferenceSystem | 其他`空间参考系统`. |
 
 ### 返回值
 
-从此转变 `空间参考系统` 给另一个 `空间参考系统`.
+从此转变`空间参考系统`给另一个`空间参考系统`.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 这之间的转换 `空间参考系统` 并且不支持参数。 这可能会发生，因为其中一个投影不受支持，或者其中一个系统不支持 [`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem) 或者 [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem). |
-| [TransformationException](../../transformationexception) | 由于内部参数错误，无法创建转换 `空间参考系统`. |
+| NotSupportedException | 这之间的转换`空间参考系统`并且不支持参数。 这可能发生，因为其中一个投影不受支持，或者其中一个系统是[`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem)or [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem). |
+| [TransformationException](../../transformationexception) | 由于内部参数错误，无法创建转换`空间参考系统`. |
 
 ### 也可以看看
 

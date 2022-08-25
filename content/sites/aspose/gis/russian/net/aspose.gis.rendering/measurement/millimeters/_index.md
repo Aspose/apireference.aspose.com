@@ -1,14 +1,14 @@
 ---
 title: Millimeters
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает новый экземпляр Measurement  представляющий длину в миллиметрах.
+description: Возвращает новый экземплярИзмерение который представляет длину в миллиметрах.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.rendering/measurement/millimeters/
 ---
 ## Measurement.Millimeters method
 
-Возвращает новый экземпляр` Measurement` , представляющий длину в миллиметрах.
+Возвращает новый экземпляр`Измерение` который представляет длину в миллиметрах.
 
 ```csharp
 public static Measurement Millimeters(double value)
@@ -20,7 +20,7 @@ public static Measurement Millimeters(double value)
 
 ### Возвращаемое значение
 
-Новый экземпляр класса` Измерение` .
+Новый экземпляр`Измерение` учебный класс.
 
 ### Смотрите также
 

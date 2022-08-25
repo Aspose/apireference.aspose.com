@@ -1,14 +1,14 @@
 ---
 title: RemoveAt
 second_title: Справочник по Aspose.GIS for .NET API
-description: УдалитьFeatureaspose.gis/featureпо указанному индексу.
+description: УдалитьFeatureaspose.gis/feature по указанному индексу.
 type: docs
 weight: 140
 url: /ru/net/aspose.gis/vectorlayer/removeat/
 ---
 ## VectorLayer.RemoveAt method
 
-Удалить[`Feature`](../../feature)по указанному индексу.
+Удалить[`Feature`](../../feature) по указанному индексу.
 
 ```csharp
 public virtual void RemoveAt(int index)
@@ -22,9 +22,9 @@ public virtual void RemoveAt(int index)
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | выдается, если слой недоступен для редактирования. |
+| InvalidOperationException | выбрасывается, если слой недоступен для редактирования. |
 | ArgumentOutOfRangeException | Индекс вне допустимого диапазона. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 

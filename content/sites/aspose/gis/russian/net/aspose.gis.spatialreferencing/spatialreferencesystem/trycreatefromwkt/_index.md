@@ -1,14 +1,14 @@
 ---
 title: TryCreateFromWkt
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новую SpatialReferenceSystem на основе строки WKT общеизвестный текст.
+description: Создает новыйSpatialReferenceSystem на основе строки WKT общеизвестный текст.
 type: docs
 weight: 410
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatefromwkt/
 ---
 ## SpatialReferenceSystem.TryCreateFromWkt method
 
-Создает новую` SpatialReferenceSystem` на основе строки WKT (общеизвестный текст).
+Создает новый`SpatialReferenceSystem` на основе строки WKT (общеизвестный текст).
 
 ```csharp
 public static bool TryCreateFromWkt(string wkt, out SpatialReferenceSystem value)
@@ -16,12 +16,12 @@ public static bool TryCreateFromWkt(string wkt, out SpatialReferenceSystem value
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| wkt | String | Строка WKT. |
-| value | SpatialReferenceSystem& | Когда этот метод возвращает`true`, содержит SRS, созданный из WKT; в противном случае содержит`null`. |
+| wkt | String | Строка ВКТ. |
+| value | SpatialReferenceSystem& | Когда этот метод возвращает`true` , содержит SRS, созданный из WKT; в противном случае содержит`null` . |
 
 ### Возвращаемое значение
 
-`true`если SRS успешно создана;`false`иначе.
+`true` если SRS успешно создана;`false` в противном случае.
 
 ### Смотрите также
 

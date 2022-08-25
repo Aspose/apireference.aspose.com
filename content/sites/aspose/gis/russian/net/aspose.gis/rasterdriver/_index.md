@@ -3,7 +3,7 @@ title: RasterDriver
 second_title: Справочник по Aspose.GIS for .NET API
 description: Драйвер для определенного растрового формата.
 type: docs
-weight: 1350
+weight: 1360
 url: /ru/net/aspose.gis/rasterdriver/
 ---
 ## RasterDriver class

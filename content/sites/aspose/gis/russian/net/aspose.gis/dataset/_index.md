@@ -1,14 +1,14 @@
 ---
 title: Dataset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Набор данных представляет собой набор экземпляровVectorLayer./vectorlayer.
+description: Набор данных  это наборVectorLayer./vectorlayer экземпляры.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis/dataset/
 ---
 ## Dataset class
 
-Набор данных представляет собой набор экземпляров[`VectorLayer`](../vectorlayer).
+Набор данных — это набор[`VectorLayer`](../vectorlayer) экземпляры.
 
 ```csharp
 public abstract class Dataset : IDisposable
@@ -20,7 +20,7 @@ public abstract class Dataset : IDisposable
 | --- | --- |
 | virtual [CanCreateLayers](../../aspose.gis/dataset/cancreatelayers) { get; } | Получает значение, указывающее, может ли этот набор данных создавать векторные слои. |
 | virtual [CanRemoveLayers](../../aspose.gis/dataset/canremovelayers) { get; } | Получает значение, указывающее, может ли этот набор данных удалять векторные слои. |
-| abstract [Driver](../../aspose.gis/dataset/driver) { get; } | Получает[`Driver`](./driver), который создал этот набор данных. |
+| abstract [Driver](../../aspose.gis/dataset/driver) { get; } | Получает[`Driver`](./driver) который создал этот набор данных. |
 | abstract [LayersCount](../../aspose.gis/dataset/layerscount) { get; } | Получает количество слоев в этом наборе данных. |
 
 ## Методы
@@ -41,7 +41,7 @@ public abstract class Dataset : IDisposable
 | virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_1)(DriverOptions, SpatialReferenceSystem) | Создает новый векторный слой и открывает его для добавления. |
 | virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_4)(string, SpatialReferenceSystem) | Создает новый векторный слой с указанным именем и открывает его для добавления. |
 | virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_3)(string, DriverOptions, SpatialReferenceSystem) | Создает новый векторный слой с указанным именем и открывает его для добавления. |
-| [Dispose](../../aspose.gis/dataset/dispose)() | Освобождает ресурсы, используемые[`Dataset`](../dataset). |
+| [Dispose](../../aspose.gis/dataset/dispose)() | Освобождает ресурсы, используемые[`Dataset`](../dataset) . |
 | abstract [EditLayer](../../aspose.gis/dataset/editlayer)(string, DriverOptions, SpatialReferenceSystem) | Открывает слой с указанным именем для редактирования. |
 | abstract [GetLayerName](../../aspose.gis/dataset/getlayername)(int) | Получает имя слоя по указанному индексу. |
 | abstract [OpenLayer](../../aspose.gis/dataset/openlayer)(string, DriverOptions) | Открывает для чтения слой с указанным именем. |

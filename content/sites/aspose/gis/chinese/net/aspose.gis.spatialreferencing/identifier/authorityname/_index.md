@@ -1,14 +1,14 @@
 ---
 title: AuthorityName
 second_title: Aspose.GIS for .NET API 参考
-description: 权威名称它给出了AuthorityUniqueIdentifieraspose.gis.spatialreferencing/identifier/authorityuniqueidentifier
+description: 一个权威的名字它给出了一个AuthorityUniqueIdentifieraspose.gis.spatialreferencing/identifier/authorityuniqueidentifier.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/identifier/authorityname/
 ---
 ## Identifier.AuthorityName property
 
-权威名称，它给出了[`AuthorityUniqueIdentifier`](../authorityuniqueidentifier)。
+一个权威的名字，它给出了一个[`AuthorityUniqueIdentifier`](../authorityuniqueidentifier).
 
 ```csharp
 public string AuthorityName { get; }
@@ -16,7 +16,7 @@ public string AuthorityName { get; }
 
 ### 例子
 
-EPSG
+每股收益
 
 ### 也可以看看
 

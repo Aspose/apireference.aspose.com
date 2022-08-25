@@ -1,14 +1,14 @@
 ---
 title: AsProjected
 second_title: Справочник по Aspose.GIS for .NET API
-description: Верните это.
+description: Вернуть это.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/asprojected/
 ---
 ## ProjectedSpatialReferenceSystem.AsProjected property
 
-Верните это.
+Вернуть это.
 
 ```csharp
 public ProjectedSpatialReferenceSystem AsProjected { get; }

@@ -1,14 +1,14 @@
 ---
 title: WritePolygonsAsLines
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет разрешено ли преобразование полигона или мультиполигона в строку. По умолчаниюfalse.
+description: Определяет разрешено ли преобразование полигона или мультиполигона в линию. По умолчаниюfalse .
 type: docs
 weight: 100
 url: /ru/net/aspose.gis/driveroptions/writepolygonsaslines/
 ---
 ## DriverOptions.WritePolygonsAsLines property
 
-Определяет, разрешено ли преобразование полигона или мультиполигона в строку. По умолчанию`false`.
+Определяет, разрешено ли преобразование полигона или мультиполигона в линию. По умолчанию`false` .
 
 ```csharp
 public bool WritePolygonsAsLines { get; set; }

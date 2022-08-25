@@ -1,14 +1,14 @@
 ---
 title: LoadInternetResources
 second_title: Aspose.GIS for .NET API 参考
-description: 确定是否允许 Aspose.GIS 从 Internet 加载源 如果设置为false则不会加载具有不以file//开头的绝对 URI 的模式 默认为false
+description: 确定是否允许 Aspose.GIS 从 Internet 加载源 如果设置为false具有不以file//开头的绝对 URI 的架构将不会被加载 默认为false.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering.sld/sldimportoptions/loadinternetresources/
 ---
 ## SldImportOptions.LoadInternetResources property
 
-确定是否允许 Aspose.GIS 从 Internet 加载源。 如果设置为`false`，则不会加载具有不以“file://”开头的绝对 URI 的模式。 默认为`false`。
+确定是否允许 Aspose.GIS 从 Internet 加载源。 如果设置为`false`，具有不以“file://”开头的绝对 URI 的架构将不会被加载。 默认为`false`.
 
 ```csharp
 public bool LoadInternetResources { get; set; }

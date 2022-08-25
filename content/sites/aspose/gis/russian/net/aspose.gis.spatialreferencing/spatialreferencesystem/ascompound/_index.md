@@ -1,14 +1,14 @@
 ---
 title: AsCompound
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает этот SRS преобразованный вCompoundSpatialReferenceSystemaspose.gis.spatialreferencing/compoundspatialreferencesystem. ИспользуйтеIsCompoundaspose.gis.spatialreferencing/spatialreferencesystem/iscompound чтобы узнать возможно ли преобразование.
+description: Возвращает этот SRS преобразованный вCompoundSpatialReferenceSystemaspose.gis.spatialreferencing/compoundspatialreferencesystem . ИспользоватьIsCompoundaspose.gis.spatialreferencing/spatialreferencesystem/iscompound чтобы узнать возможно ли преобразование.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/ascompound/
 ---
 ## SpatialReferenceSystem.AsCompound property
 
-Возвращает этот SRS, преобразованный в[`CompoundSpatialReferenceSystem`](../../compoundspatialreferencesystem). Используйте[`IsCompound`](../iscompound), чтобы узнать, возможно ли преобразование.
+Возвращает этот SRS, преобразованный в[`CompoundSpatialReferenceSystem`](../../compoundspatialreferencesystem) . Использовать[`IsCompound`](../iscompound) чтобы узнать, возможно ли преобразование.
 
 ```csharp
 public virtual CompoundSpatialReferenceSystem AsCompound { get; }

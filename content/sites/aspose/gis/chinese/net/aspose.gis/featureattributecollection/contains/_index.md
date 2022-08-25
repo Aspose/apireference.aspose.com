@@ -20,13 +20,13 @@ public bool Contains(string name)
 
 ### 返回值
 
-`true`如果属性集合包含具有指定名称的属性；否则，`false`。
+`true`如果属性集合包含具有指定名称的属性；否则，`false`.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

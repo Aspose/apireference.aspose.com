@@ -1,14 +1,14 @@
 ---
 title: HasGeographicDatum
 second_title: Aspose.GIS for .NET API 参考
-description: 返回true因为地心 SRS 总是有地理基准
+description: 返回true  因为地心 SRS 总是有地理基准
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/hasgeographicdatum/
 ---
 ## GeocentricSpatialReferenceSystem.HasGeographicDatum property
 
-返回`true`，因为地心 SRS 总是有地理基准。
+返回`true` , 因为地心 SRS 总是有地理基准。
 
 ```csharp
 public override bool HasGeographicDatum { get; }

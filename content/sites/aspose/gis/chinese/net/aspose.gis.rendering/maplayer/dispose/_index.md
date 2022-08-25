@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.GIS for .NET API 参考
-description: 释放资源
+description: 处置资源
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering/maplayer/dispose/
 ---
 ## MapLayer.Dispose method
 
-释放资源。
+处置资源。
 
 ```csharp
 public abstract void Dispose()

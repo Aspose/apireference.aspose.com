@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает перечислитель который перебирает коллекцию.
+description: Возвращает перечислитель который выполняет итерацию по коллекции.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis/featuressequence/getenumerator/
 ---
 ## FeaturesSequence.GetEnumerator method
 
-Возвращает перечислитель, который перебирает коллекцию.
+Возвращает перечислитель, который выполняет итерацию по коллекции.
 
 ```csharp
 public abstract IEnumerator<Feature> GetEnumerator()
@@ -22,7 +22,7 @@ public abstract IEnumerator<Feature> GetEnumerator()
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | выбрасывается, если операция не поддерживается уровнем. |
+| InvalidOperationException | выбрасывается, если операция не поддерживается слоем. |
 
 ### Смотрите также
 

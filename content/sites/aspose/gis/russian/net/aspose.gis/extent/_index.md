@@ -28,8 +28,8 @@ public class Extent : IEquatable<Extent>
 | --- | --- |
 | [Center](../../aspose.gis/extent/center) { get; } | Центр экстента. |
 | [Height](../../aspose.gis/extent/height) { get; } | Высота экстента. |
-| [IsValid](../../aspose.gis/extent/isvalid) { get; } | Определяет, является ли это[`Extent`](../extent)допустимым. |
-| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem)связанный с этим экстентом. Может быть`null`если[`SpatialReferenceSystem`](./spatialreferencesystem)неизвестно. Используйте[`GetTransformed`](./gettransformed): для преобразования экстента между разностной пространственной привязкой системы. |
+| [IsValid](../../aspose.gis/extent/isvalid) { get; } | Определяет, является ли это[`Extent`](../extent) действителен. |
+| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) связанный с этим экстентом. Может быть`null` если[`SpatialReferenceSystem`](./spatialreferencesystem)неизвестно. Использовать[`GetTransformed`](./gettransformed) для преобразования экстента между разностными системами пространственной привязки. |
 | [Width](../../aspose.gis/extent/width) { get; } | Ширина экстента. |
 | [XMax](../../aspose.gis/extent/xmax) { get; set; } | Максимальное значение координаты X. |
 | [XMin](../../aspose.gis/extent/xmin) { get; set; } | Минимальное значение координаты X. |
@@ -46,17 +46,17 @@ public class Extent : IEquatable<Extent>
 | [Contains](../../aspose.gis/extent/contains#contains_2)(double, double) | Определяет, содержит ли этот экстент координату, определенную аргументами. |
 | [Equals](../../aspose.gis/extent/equals#equals)(Extent) | Указывает, равен ли текущий объект другому объекту того же типа. |
 | override [Equals](../../aspose.gis/extent/equals#equals_1)(object) | Определяет, равен ли указанный объект текущему объекту. |
-| override [GetHashCode](../../aspose.gis/extent/gethashcode)() | Служит хэш-функцией по умолчанию. |
-| [GetTransformed](../../aspose.gis/extent/gettransformed)(SpatialReferenceSystem) | Возвращает новый экстент в указанной[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem), который содержит этот экстент. |
+| override [GetHashCode](../../aspose.gis/extent/gethashcode)() | Служит хеш-функцией по умолчанию. |
+| [GetTransformed](../../aspose.gis/extent/gettransformed)(SpatialReferenceSystem) | Возвращает новый экстент в указанном[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) который содержит этот экстент. |
 | [Grow](../../aspose.gis/extent/grow#grow)(Extent) | Увеличивает этот экстент, чтобы он включал аргумент. |
-| [Grow](../../aspose.gis/extent/grow#grow_1)(double, double) | Увеличивает экстент таким образом, чтобы он включал указанную точку. |
+| [Grow](../../aspose.gis/extent/grow#grow_1)(double, double) | Увеличивает этот экстент, чтобы он включал указанную точку. |
 | [GrowX](../../aspose.gis/extent/growx)(double) | Увеличивает этот экстент вдоль оси X, чтобы он включал указанное значение. |
-| [GrowY](../../aspose.gis/extent/growy)(double) | Увеличивает этот экстент вдоль оси Y, чтобы он включал указанное значение. |
+| [GrowY](../../aspose.gis/extent/growy)(double) | Увеличивает этот экстент по оси Y, чтобы он включал указанное значение. |
 | [Intersects](../../aspose.gis/extent/intersects#intersects)(Extent) | Определяет, пересекается ли этот экстент с аргументом. |
 | [Intersects](../../aspose.gis/extent/intersects#intersects_1)(IGeometry) | Определяет, пересекается ли этот экстент с аргументом. |
-| [Normalize](../../aspose.gis/extent/normalize)() | Обмен[`XMin`](./xmin)с[`XMax`](./xmax)if[`Width`](./width)является отрицательным и [`YMin`](./ymin)с[`YMax`](./ymax)если[`Height`](./height)имеет отрицательное значение. |
-| [ToPolygon](../../aspose.gis/extent/topolygon)() | Преобразует этот экстент в представляющий его прямоугольный многоугольник. |
-| override [ToString](../../aspose.gis/extent/tostring)() | Возвращает строку, представляющую текущий объект. |
+| [Normalize](../../aspose.gis/extent/normalize)() | Свопы[`XMin`](./xmin) с[`XMax`](./xmax) если[`Width`](./width) отрицательно и [`YMin`](./ymin) с[`YMax`](./ymax) если[`Height`](./height) отрицательно. |
+| [ToPolygon](../../aspose.gis/extent/topolygon)() | Преобразует экстент в прямоугольный многоугольник, представляющий его. |
+| override [ToString](../../aspose.gis/extent/tostring)() | Возвращает строку, которая представляет текущий объект. |
 | [operator ==](../../aspose.gis/extent/op_equality) | Реализует оператор '=='. |
 | [operator !=](../../aspose.gis/extent/op_inequality) | Реализует оператор '!='. |
 

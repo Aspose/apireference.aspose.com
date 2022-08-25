@@ -1,14 +1,14 @@
 ---
 title: CurvePolygon
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаCurvePolygonaspose.gis.geometries/curvepolygon.
+description: Инициализирует новый экземплярCurvePolygonaspose.gis.geometries/curvepolygon класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/curvepolygon/curvepolygon/
 ---
 ## CurvePolygon() {#constructor}
 
-Инициализирует новый экземпляр класса[`CurvePolygon`](../../curvepolygon).
+Инициализирует новый экземпляр[`CurvePolygon`](../../curvepolygon) класс.
 
 ```csharp
 public CurvePolygon()
@@ -24,7 +24,7 @@ public CurvePolygon()
 
 ## CurvePolygon(ICurve) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`CurvePolygon`](../../curvepolygon).
+Инициализирует новый экземпляр[`CurvePolygon`](../../curvepolygon) класс.
 
 ```csharp
 public CurvePolygon(ICurve exteriorRing)
@@ -38,7 +38,7 @@ public CurvePolygon(ICurve exteriorRing)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 
@@ -51,7 +51,7 @@ public CurvePolygon(ICurve exteriorRing)
 
 ## CurvePolygon(ICurve, IEnumerable&lt;ICurve&gt;) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`CurvePolygon`](../../curvepolygon).
+Инициализирует новый экземпляр[`CurvePolygon`](../../curvepolygon) класс.
 
 ```csharp
 public CurvePolygon(ICurve exteriorRing, IEnumerable<ICurve> interiorRings)
@@ -60,13 +60,13 @@ public CurvePolygon(ICurve exteriorRing, IEnumerable<ICurve> interiorRings)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | exteriorRing | ICurve | Внешнее кольцо. |
-| interiorRings | IEnumerable`1 | Внутренние кольца. |
+| interiorRings | IEnumerable`1 | Внутреннее кольцо. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IMultiCurve
 second_title: Aspose.GIS for .NET API 参考
-description: AMultiCurve./multicurve是一维GeometryCollection./geometrycollection 其元素是Curve./curves
+description: 一个MultiCurve./multicurve是一维的GeometryCollection./geometrycollection 的元素是Curve./curves.
 type: docs
-weight: 930
+weight: 940
 url: /zh/net/aspose.gis.geometries/imulticurve/
 ---
 ## IMultiCurve interface
 
-A[`MultiCurve`](../multicurve)是一维[`GeometryCollection`](../geometrycollection) 其元素是[`Curve`](../curve)s。
+一个[`MultiCurve`](../multicurve)是一维的[`GeometryCollection`](../geometrycollection) 的元素是[`Curve`](../curve)s.
 
 ```csharp
 public interface IMultiCurve : IGeometryCollection
@@ -19,8 +19,8 @@ public interface IMultiCurve : IGeometryCollection
 | 姓名 | 描述 |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/imulticurve/toeditable)() | 获取此几何图形的可编辑副本。 |
-| [ToLinearGeometry](../../aspose.gis.geometries/imulticurve/tolineargeometry#tolineargeometry)() | 使用默认` 公差` 获取此几何图形的近似或等效非曲线版本。 |
-| [ToLinearGeometry](../../aspose.gis.geometries/imulticurve/tolineargeometry#tolineargeometry_1)(double) | 使用指定的` 容差` 获取此几何图形的近似或等效非曲线版本。 |
+| [ToLinearGeometry](../../aspose.gis.geometries/imulticurve/tolineargeometry#tolineargeometry)() | 使用默认值获取此几何图形的近似或等效非曲线版本`宽容`. |
+| [ToLinearGeometry](../../aspose.gis.geometries/imulticurve/tolineargeometry#tolineargeometry_1)(double) | 使用指定的获取此几何图形的近似或等效非曲线版本`宽容`. |
 
 ### 也可以看看
 

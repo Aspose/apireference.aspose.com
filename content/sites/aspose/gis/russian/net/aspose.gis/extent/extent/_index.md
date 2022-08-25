@@ -32,7 +32,7 @@ public Extent(SpatialReferenceSystem srs)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)связанный с этим экстентом. Может быть`null`, чтобы указать, что SRS неизвестен. |
+| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) связанный с этим экстентом. Может быть`null` чтобы указать, что SRS неизвестен. |
 
 ### Смотрите также
 
@@ -53,11 +53,11 @@ public Extent(double xMin, double yMin, double xMax, double yMax, SpatialReferen
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xMin | Double | Минимальное значение X. |
+| xMin | Double | Минимальное значение Х. |
 | yMin | Double | Минимальное значение Y. |
 | xMax | Double | Максимальное значение X. |
 | yMax | Double | Максимальное значение Y. |
-| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)связанный с этим экстентом. Может быть`null`, чтобы указать, что SRS неизвестен. |
+| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) связанный с этим экстентом. Может быть`null` чтобы указать, что SRS неизвестен. |
 
 ### Смотрите также
 

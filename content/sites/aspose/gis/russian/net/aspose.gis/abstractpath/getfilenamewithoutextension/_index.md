@@ -1,14 +1,14 @@
 ---
 title: GetFileNameWithoutExtension
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает имя файла этогоAbstractPathaspose.gis/abstractpathбез расширения.
+description: Возвращает имя файла этогоAbstractPathaspose.gis/abstractpath без расширения.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis/abstractpath/getfilenamewithoutextension/
 ---
 ## AbstractPath.GetFileNameWithoutExtension method
 
-Возвращает имя файла этого[`AbstractPath`](../../abstractpath)без расширения.
+Возвращает имя файла этого[`AbstractPath`](../../abstractpath) без расширения.
 
 ```csharp
 public string GetFileNameWithoutExtension()
@@ -16,11 +16,11 @@ public string GetFileNameWithoutExtension()
 
 ### Возвращаемое значение
 
-Строка, возвращаемая[`GetFileName`](../getfilename)минус последняя точка и все символы, следующие за ней.
+Строка, возвращенная[`GetFileName`](../getfilename) минус последняя точка и все символы, следующие за ней.
 
 ### Примеры
 
-Для` AbstractPath` с[`Location`](../location)равно` "/directory/file.txt"` и[`Separator`](../separator)равно` '/'` , этот метод возвращает` "файл"` .
+Для`АннотацияПуть` с[`Location`](../location) равно`"/каталог/файл.txt"` и[`Separator`](../separator) равно`/'` , этот метод возвращает`"файл"` .
 
 ### Смотрите также
 

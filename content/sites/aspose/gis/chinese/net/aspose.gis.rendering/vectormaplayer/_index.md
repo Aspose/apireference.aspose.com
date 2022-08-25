@@ -1,14 +1,14 @@
 ---
 title: VectorMapLayer
 second_title: Aspose.GIS for .NET API 参考
-description: Map./map内的一个层表示矢量图层数据
+description: 里面有一层Map./map表示矢量图层数据
 type: docs
-weight: 1890
+weight: 1900
 url: /zh/net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class
 
-[`Map`](../map)内的一个层，表示矢量图层数据。
+里面有一层[`Map`](../map)表示矢量图层数据。
 
 ```csharp
 public class VectorMapLayer : MapLayer
@@ -29,8 +29,8 @@ public class VectorMapLayer : MapLayer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence) { get; } | 这个` VectorMapLayer` 表示的特征序列。 |
-| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling) { get; set; } | 指定地图层的扭曲选项。 |
+| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence) { get; } | 这个表示的特征序列`矢量图层`. |
+| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling) { get; set; } | 指定地图图层的扭曲选项。 |
 | [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | 图层的不透明度。 |
 | [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer) { get; set; } | 用于渲染图层特征的符号器。 |
 
@@ -38,9 +38,9 @@ public class VectorMapLayer : MapLayer
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose)() | 释放资源。 |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld)(AbstractPath, SldImportOptions) | 从位于指定路径的样式化层描述符文件导入样式。 |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld_1)(string, SldImportOptions) | 从位于指定路径的样式化层描述符文件导入样式。 |
+| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose)() | 处理资源。 |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld)(AbstractPath, SldImportOptions) | 从位于指定路径的样式化图层描述符文件导入样式。 |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld_1)(string, SldImportOptions) | 从位于指定路径的样式化图层描述符文件导入样式。 |
 | [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring)(string, SldImportOptions) | 从指定的样式层描述符字符串导入样式。 |
 
 ### 也可以看看

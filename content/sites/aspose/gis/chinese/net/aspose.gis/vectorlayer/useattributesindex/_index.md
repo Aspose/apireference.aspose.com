@@ -1,14 +1,14 @@
 ---
 title: UseAttributesIndex
 second_title: Aspose.GIS for .NET API 参考
-description: 加载属性索引以加速过滤方法中的属性值过滤例如WhereGreateraspose.gis/featuressequence/wheregreater 如果索引不存在首先创建它使用forceRebuild强制重新创建索引
+description: 加载属性索引以加快过滤方法中的属性值过滤例如WhereGreateraspose.gis/featuressequence/wheregreater. 如果索引不存在首先创建它利用forceRebuild强制索引重新创建.
 type: docs
 weight: 160
 url: /zh/net/aspose.gis/vectorlayer/useattributesindex/
 ---
 ## UseAttributesIndex(string, string, bool) {#useattributesindex_1}
 
-加载属性索引以加速过滤方法中的属性值过滤，例如[`WhereGreater`](../../featuressequence/wheregreater)。 如果索引不存在，首先创建它。使用*forceRebuild*强制重新创建索引。
+加载属性索引以加快过滤方法中的属性值过滤，例如[`WhereGreater`](../../featuressequence/wheregreater). 如果索引不存在，首先创建它。利用*forceRebuild*强制索引重新创建.
 
 ```csharp
 public void UseAttributesIndex(string indexPath, string attributeName, bool forceRebuild = false)
@@ -24,10 +24,10 @@ public void UseAttributesIndex(string indexPath, string attributeName, bool forc
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 | ArgumentException | 图层中不存在具有此类名称的属性。 |
 | IOException | 发生 I/O 错误。 |
-| InvalidOperationException | 已为此层加载的指定属性的索引。 |
+| InvalidOperationException | 已为此图层加载的指定属性的索引。 |
 | [GisException](../../gisexception) | 文件存在且不是 Aspose.GIS 创建的属性索引文件。 |
 
 ### 也可以看看
@@ -40,7 +40,7 @@ public void UseAttributesIndex(string indexPath, string attributeName, bool forc
 
 ## UseAttributesIndex(AbstractPath, string, bool) {#useattributesindex}
 
-加载属性索引以加速过滤方法中的属性值过滤，例如[`WhereGreater`](../../featuressequence/wheregreater)。 如果索引不存在，首先创建它。使用*forceRebuild*强制重新创建索引。
+加载属性索引以加快过滤方法中的属性值过滤，例如[`WhereGreater`](../../featuressequence/wheregreater). 如果索引不存在，首先创建它。利用*forceRebuild*强制索引重新创建.
 
 ```csharp
 public virtual void UseAttributesIndex(AbstractPath indexPath, string attributeName, 
@@ -57,10 +57,10 @@ public virtual void UseAttributesIndex(AbstractPath indexPath, string attributeN
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 | ArgumentException | 图层中不存在具有此类名称的属性。 |
 | IOException | 发生 I/O 错误。 |
-| InvalidOperationException | 已为此层加载的指定属性的索引。 |
+| InvalidOperationException | 已为此图层加载的指定属性的索引。 |
 | [GisException](../../gisexception) | 文件存在且不是 Aspose.GIS 创建的属性索引文件。 |
 
 ### 也可以看看

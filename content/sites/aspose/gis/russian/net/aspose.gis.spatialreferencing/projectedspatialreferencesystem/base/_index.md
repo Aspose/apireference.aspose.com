@@ -1,14 +1,14 @@
 ---
 title: Base
 second_title: Справочник по Aspose.GIS for .NET API
-description: Географический SRS к которомуProjectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projectionбыл применен для получения этого SRS.
+description: Географическая СГД к которойProjectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection был применен для получения этого SRS.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/base/
 ---
 ## ProjectedSpatialReferenceSystem.Base property
 
-Географический SRS, к которому[`Projection`](../projection)был применен для получения этого SRS.
+Географическая СГД, к которой[`Projection`](../projection) был применен для получения этого SRS.
 
 ```csharp
 public abstract GeographicSpatialReferenceSystem Base { get; }

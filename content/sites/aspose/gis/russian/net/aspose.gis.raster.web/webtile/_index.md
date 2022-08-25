@@ -1,14 +1,14 @@
 ---
 title: WebTile
 second_title: Справочник по Aspose.GIS for .NET API
-description: Абстрактная веб-модель плитки.
+description: Абстрактная модель вебплитки.
 type: docs
-weight: 1330
+weight: 1340
 url: /ru/net/aspose.gis.raster.web/webtile/
 ---
 ## WebTile class
 
-Абстрактная веб-модель плитки.
+Абстрактная модель веб-плитки.
 
 ```csharp
 public abstract class WebTile
@@ -18,8 +18,8 @@ public abstract class WebTile
 
 | Имя | Описание |
 | --- | --- |
-| abstract [CellX](../../aspose.gis.raster.web/webtile/cellx) { get; } | X-столбец тайла. |
-| abstract [CellY](../../aspose.gis.raster.web/webtile/celly) { get; } | Y-ряд тайла. |
+| abstract [CellX](../../aspose.gis.raster.web/webtile/cellx) { get; } | X-столбец плитки. |
+| abstract [CellY](../../aspose.gis.raster.web/webtile/celly) { get; } | Y-ряд плитки. |
 
 ## Методы
 
@@ -27,7 +27,7 @@ public abstract class WebTile
 | --- | --- |
 | abstract [AsPath](../../aspose.gis.raster.web/webtile/aspath)() | Представляет содержимое плитки в виде URL-адреса или пути к файлу. |
 | abstract [AsRaster](../../aspose.gis.raster.web/webtile/asraster)() | Представляет содержимое тайла как растровый слой. |
-| abstract [GetExtent](../../aspose.gis.raster.web/webtile/getextent)() | Представляет пространственный экстент этого слоя. |
+| abstract [GetExtent](../../aspose.gis.raster.web/webtile/getextent)() | Представляет пространственную протяженность этого слоя. |
 
 ### Смотрите также
 

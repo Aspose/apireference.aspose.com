@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.Gml
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Aspose.Gis.Formats.GmlПространство имен предоставляет классы для работы с форматом GML.
+description: Aspose.Gis.Formats.Gml namespace предоставляет классы для работы с форматом GML.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.formats.gml/
 ---
-` Aspose.Gis.Formats.Gml`Пространство имен предоставляет классы для работы с форматом GML.
+`Aspose.Gis.Formats.Gml` namespace предоставляет классы для работы с форматом GML.
 
 ## Классы
 

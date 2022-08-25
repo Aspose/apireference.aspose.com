@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.GIS for .NET API 参考
-description: 在指定索引处获取IGeometryaspose.gis.geometries/igeometry
+description: 得到一个IGeometryaspose.gis.geometries/igeometry在指定的索引处
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/igeometrycollection/item/
 ---
 ## IGeometryCollection indexer
 
-在指定索引处获取[`IGeometry`](../../igeometry)。
+得到一个[`IGeometry`](../../igeometry)在指定的索引处。
 
 ```csharp
 public IGeometry this[int index] { get; }
@@ -16,11 +16,11 @@ public IGeometry this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 适当的价值
 
-IGeometry。
+的[`IGeometry`](../../igeometry).
 
 ### 例外
 

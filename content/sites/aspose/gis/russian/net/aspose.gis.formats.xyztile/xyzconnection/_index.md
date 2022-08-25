@@ -18,7 +18,7 @@ public class XyzConnection
 
 | Имя | Описание |
 | --- | --- |
-| [XyzConnection](xyzconnection)(string) | Создать новый экземпляр[`XyzConnection`](../xyzconnection). |
+| [XyzConnection](xyzconnection)(string) | Создать новый экземпляр[`XyzConnection`](../xyzconnection) . |
 
 ## Характеристики
 

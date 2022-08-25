@@ -1,14 +1,14 @@
 ---
 title: DefaultSpatialReferenceSystem
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает значение исходной пространственной привязки если оно отсутствует.
+description: Указывает значение исходной пространственной привязки если она отсутствует.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.raster/warpoptions/defaultspatialreferencesystem/
 ---
 ## WarpOptions.DefaultSpatialReferenceSystem property
 
-Задает значение исходной пространственной привязки, если оно отсутствует.
+Указывает значение исходной пространственной привязки, если она отсутствует.
 
 ```csharp
 public SpatialReferenceSystem DefaultSpatialReferenceSystem { get; set; }

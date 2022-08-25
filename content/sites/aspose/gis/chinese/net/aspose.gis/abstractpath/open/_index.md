@@ -1,14 +1,14 @@
 ---
 title: Open
 second_title: Aspose.GIS for .NET API 参考
-description: 打开这个 抽象路径 作为一个文件
+description: 打开这个抽象路径作为文件.
 type: docs
 weight: 120
 url: /zh/net/aspose.gis/abstractpath/open/
 ---
 ## AbstractPath.Open method
 
-打开这个 `抽象路径` 作为一个文件。
+打开这个`抽象路径`作为文件.
 
 ```csharp
 public abstract Stream Open(FileAccess access)
@@ -16,15 +16,15 @@ public abstract Stream Open(FileAccess access)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| access | FileAccess | 指定可以在 Stream. |
+| access | FileAccess | 指定可以在Stream. |
 
 ### 返回值
 
-一个 Stream 以指定的方式打开 FileAccess.
+一个Stream以指定的方式打开FileAccess.
 
 ### 评论
 
-如果 *access* 有国旗 Write 设置，并且文件不存在， 继承者必须创建它。  一个 `抽象路径` 可以多次打开 `Aspose.GIS`. 这是读取文件所必需的 独立地与多个流。 您不应该缓存结果，而是返回新的 Stream 每次 调用此方法。
+如果*access*有国旗Write设置，并且文件不存在， 继承者必须创建它。 一个`抽象路径`可以多次打开`Aspose.GIS`.这是使用多个流独立读取 file 所必需的。您不应该缓存结果，而是返回新的Stream每次 调用这个方法。
 
 ### 也可以看看
 

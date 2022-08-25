@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Справочник по Aspose.GIS for .NET API
-description: Клонировать объекты один в другой.
+description: Клонировать объекты друг в друга.
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.gis.geotools/pointgeneratoroptions/clone/
 ---
 ## PointGeneratorOptions.Clone method
 
-Клонировать объекты один в другой.
+Клонировать объекты друг в друга.
 
 ```csharp
 public PointGeneratorOptions Clone()
@@ -16,7 +16,7 @@ public PointGeneratorOptions Clone()
 
 ### Возвращаемое значение
 
-Клонировать объекты один в другой[`PointGeneratorOptions`](../../pointgeneratoroptions).
+Клонировать объект друг в друга[`PointGeneratorOptions`](../../pointgeneratoroptions).
 
 ### Смотрите также
 

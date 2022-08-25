@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.GeoJson
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Aspose.Gis.Formats.GeoJson пространство имен предоставляет классы для работы с форматом GeoJSON.
+description: Aspose.Gis.Formats.GeoJson namespace предоставляет классы для работы с форматом GeoJSON.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.formats.geojson/
 ---
-` Aspose.Gis.Formats.GeoJson` пространство имен предоставляет классы для работы с форматом GeoJSON.
+`Aspose.Gis.Formats.GeoJson` namespace предоставляет классы для работы с форматом GeoJSON.
 
 ## Классы
 

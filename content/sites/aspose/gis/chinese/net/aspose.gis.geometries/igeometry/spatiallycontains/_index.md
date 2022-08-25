@@ -26,13 +26,13 @@ public bool SpatiallyContains(IGeometry other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数为`无效的`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 评论
 
-此方法根据 DE-9IM 交集矩阵测试一个几何图形是否包含另一个几何图形。&lt;cr / &gt; 该方法等价于:
+此方法根据 DE-9IM 交集矩阵测试一个几何图形是否包含另一个几何图形。 这个方法等价于：
 
 ```csharp
 other.Within(this);

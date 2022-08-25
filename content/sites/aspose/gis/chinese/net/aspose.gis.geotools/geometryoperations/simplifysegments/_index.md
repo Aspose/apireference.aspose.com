@@ -1,14 +1,14 @@
 ---
 title: SimplifySegments
 second_title: Aspose.GIS for .NET API 参考
-description: 删除位于同一段的点
+description: 删除位于同一段上的点
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.geotools/geometryoperations/simplifysegments/
 ---
 ## GeometryOperations.SimplifySegments method
 
-删除位于同一段的点。
+删除位于同一段上的点。
 
 ```csharp
 public static IGeometry SimplifySegments(IGeometry geometry, SimplifySegmentsOptions options)
@@ -17,7 +17,7 @@ public static IGeometry SimplifySegments(IGeometry geometry, SimplifySegmentsOpt
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | geometry | IGeometry | 删除额外点的几何 |
-| options | SimplifySegmentsOptions | 选项删除额外点 |
+| options | SimplifySegmentsOptions | 删除加分的选项 |
 
 ### 返回值
 

@@ -16,18 +16,18 @@ public void Grow(Extent extent)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| extent | Extent | 其他范围。 |
+| extent | Extent | 其他程度。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这个范围和参数都不是`null`并且不相等。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这种程度和论点都不是`null`并且不等于彼此。 |
 
 ### 评论
 
-If[`SpatialReferenceSystem`](../spatialreferencesystem)of this SRS 是`null`然后用参数的 SRS 更新它。
+如果[`SpatialReferenceSystem`](../spatialreferencesystem)这个 SRS 是`null`然后用参数的 SRS 更新它。
 
 ### 也可以看看
 
@@ -39,7 +39,7 @@ If[`SpatialReferenceSystem`](../spatialreferencesystem)of this SRS 是`null`然�
 
 ## Grow(double, double) {#grow_1}
 
-扩大此范围，使其包含指定点。
+扩大此范围，使其包含指定的点。
 
 ```csharp
 public void Grow(double x, double y)

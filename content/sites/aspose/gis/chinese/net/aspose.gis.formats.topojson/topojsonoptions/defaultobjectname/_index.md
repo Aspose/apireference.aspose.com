@@ -16,7 +16,7 @@ public string DefaultObjectName { get; set; }
 
 ### 评论
 
-这是写入选项 - 它不影响读取。 TopoJSON 可以包含任意数量的命名对象。每个这样的对象都可以包含 多个特征。为了指定在哪个对象中放置您的功能，请使用 [`ObjectNameAttribute`](../objectnameattribute)属性。 如果属性名称为[`ObjectNameAttribute`](../objectnameattribute)为`null`或未设置 一些特性，这个特性被添加到名称为`DefaultObjectName`的对象中。 如果名称为[`ObjectNameAttribute`](../objectnameattribute)的属性在Attributes中不存在 集合，所有特征都放入名为[`ObjectNameAttribute`](../objectnameattribute)的对象中。 默认值为“未命名”。
+这是写入选项 - 它不影响读取。 TopoJSON 可以包含任意数量的命名对象。每个这样的对象都可以包含 多个特征。为了指定将您的功能放在哪个对象中，请使用 [`ObjectNameAttribute`](../objectnameattribute) property. 如果属性具有名称[`ObjectNameAttribute`](../objectnameattribute)是`null`或取消设置 for 某些功能，此功能将添加到具有名称的对象中`DefaultObjectName`. 如果属性具有名称[`ObjectNameAttribute`](../objectnameattribute)不存在于[`Attributes`](../../../aspose.gis/vectorlayer/attributes) 集合，所有特征都放入对象中，并带有名称[`ObjectNameAttribute`](../objectnameattribute). 默认值为“未命名”。
 
 ### 也可以看看
 

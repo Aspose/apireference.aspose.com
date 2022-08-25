@@ -3,7 +3,7 @@ title: WktVariant
 second_title: Справочник по Aspose.GIS for .NET API
 description: Вариант общеизвестного текста
 type: docs
-weight: 1120
+weight: 1130
 url: /ru/net/aspose.gis.geometries/wktvariant/
 ---
 ## WktVariant enumeration
@@ -19,7 +19,7 @@ public enum WktVariant
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | SimpleFeatureAccessOutdated | `0` | Общеизвестный текст, соответствующий спецификации Simple Feature Access, версия 1.1. |
-| Iso | `1` | Общеизвестный текст, соответствующий стандарту ISO "SQL Мультимедиа и пакеты приложений - Часть 3:Пространственные" и Спецификация Simple Feature Access, версия 1.2 . |
+| Iso | `1` | Общеизвестный текст, соответствующий стандарту ISO «SQL Multimedia and application packages — Part 3: Spatial» и Спецификация Simple Feature Access, версия 1.2. |
 | ExtendedPostGis | `2` | Вариант расширенного общеизвестного текста, разработанный PostGIS, который экспортирует идентификатор пространственной системы отсчета (код EPSG). |
 
 ### Смотрите также

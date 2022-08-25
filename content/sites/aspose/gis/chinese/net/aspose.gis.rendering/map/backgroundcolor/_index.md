@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.GIS for .NET API 参考
-description: 地图的背景颜色默认为Transparent
+description: 地图的背景颜色默认为Transparent.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering/map/backgroundcolor/
 ---
 ## Map.BackgroundColor property
 
-地图的背景颜色。默认为Transparent。
+地图的背景颜色。默认为Transparent.
 
 ```csharp
 public Color BackgroundColor { get; set; }

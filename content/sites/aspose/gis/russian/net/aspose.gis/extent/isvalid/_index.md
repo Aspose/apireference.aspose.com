@@ -1,14 +1,14 @@
 ---
 title: IsValid
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет является ли этоExtentaspose.gis/extentдопустимым.
+description: Определяет является ли этоExtentaspose.gis/extent действителен.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis/extent/isvalid/
 ---
 ## Extent.IsValid property
 
-Определяет, является ли это[`Extent`](../../extent)допустимым.
+Определяет, является ли это[`Extent`](../../extent) действителен.
 
 ```csharp
 public bool IsValid { get; }
@@ -16,7 +16,7 @@ public bool IsValid { get; }
 
 ### Примечания
 
-Допустимый экстент имеет неотрицательное значение[`Width`](../width)и[`Height`](../height). Кроме того, все его значения не являются` NaN` и конечными.
+Допустимый экстент имеет неотрицательные[`Width`](../width) а также[`Height`](../height) . Кроме того, все его значения не`NaN` и конечное.
 
 ### Смотрите также
 

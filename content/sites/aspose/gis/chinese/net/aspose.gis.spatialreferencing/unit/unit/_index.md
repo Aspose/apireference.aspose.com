@@ -17,7 +17,7 @@ public Unit(string name, double factor, Identifier identifier = null)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 单位名称。 |
-| factor | Double | 以米为单位的系数，如果这是长度单位，或弧度，如果这是角度单位。 |
+| factor | Double | 以米为单位，如果这是长度单位，或弧度，如果这是角度单位。 |
 | identifier | Identifier | 单位标识符。 |
 
 ### 也可以看看

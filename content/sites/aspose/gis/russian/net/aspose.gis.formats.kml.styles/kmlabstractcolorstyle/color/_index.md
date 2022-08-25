@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает цвет графического элемента. Значение по умолчаниюWhite.
+description: Определяет цвет графического элемента. Значение по умолчаниюWhite .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/
 ---
 ## KmlAbstractColorStyle.Color property
 
-Задает цвет графического элемента. Значение по умолчаниюWhite.
+Определяет цвет графического элемента. Значение по умолчаниюWhite .
 
 ```csharp
 public Color Color { get; set; }

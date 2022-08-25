@@ -18,7 +18,7 @@ public enum KmlColorModes
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Normal | `0` | 指定单一颜色值。 |
+| Normal | `0` | 指定单个颜色值。 |
 | Random | `1` | 指定使用随机颜色值。 |
 
 ### 也可以看看

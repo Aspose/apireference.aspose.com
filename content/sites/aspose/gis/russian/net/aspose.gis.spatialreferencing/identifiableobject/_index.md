@@ -3,7 +3,7 @@ title: IdentifiableObject
 second_title: Справочник по Aspose.GIS for .NET API
 description: Представляет объект который может иметь код и имя EPSG.
 type: docs
-weight: 2040
+weight: 2050
 url: /ru/net/aspose.gis.spatialreferencing/identifiableobject/
 ---
 ## IdentifiableObject class
@@ -26,7 +26,7 @@ public class IdentifiableObject
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

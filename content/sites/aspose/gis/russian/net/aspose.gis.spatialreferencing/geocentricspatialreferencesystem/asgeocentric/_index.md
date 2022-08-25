@@ -1,14 +1,14 @@
 ---
 title: AsGeocentric
 second_title: Справочник по Aspose.GIS for .NET API
-description: Верните это.
+description: Вернуть это.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/asgeocentric/
 ---
 ## GeocentricSpatialReferenceSystem.AsGeocentric property
 
-Верните это.
+Вернуть это.
 
 ```csharp
 public override GeocentricSpatialReferenceSystem AsGeocentric { get; }

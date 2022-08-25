@@ -1,14 +1,14 @@
 ---
 title: MaximumPolygonPoints
 second_title: Справочник по Aspose.GIS for .NET API
-description: Максимальная длина генерируемого полигона.
+description: Максимальная длина сгенерированного полигона.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints/
 ---
 ## PolygonGeneratorOptions.MaximumPolygonPoints property
 
-Максимальная длина генерируемого полигона.
+Максимальная длина сгенерированного полигона.
 
 ```csharp
 public int MaximumPolygonPoints { get; set; }

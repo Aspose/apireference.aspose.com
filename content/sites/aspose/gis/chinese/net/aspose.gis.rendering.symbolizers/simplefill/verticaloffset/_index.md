@@ -1,14 +1,14 @@
 ---
 title: VerticalOffset
 second_title: Aspose.GIS for .NET API 参考
-description: 指定从多边形位置到渲染形状的垂直偏移
+description: 指定从多边形位置到渲染形状的垂直偏移量
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/verticaloffset/
 ---
 ## SimpleFill.VerticalOffset property
 
-指定从多边形位置到渲染形状的垂直偏移。
+指定从多边形位置到渲染形状的垂直偏移量。
 
 ```csharp
 public Measurement VerticalOffset { get; set; }

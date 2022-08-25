@@ -1,14 +1,14 @@
 ---
 title: Null
 second_title: Aspose.GIS for .NET API 参考
-description: NullVectorSymbolizeraspose.gis.rendering.symbolizers/nullvectorsymbolizer不绘制任何内容并有效地跳过渲染它所应用的几何图形
+description: 的NullVectorSymbolizeraspose.gis.rendering.symbolizers/nullvectorsymbolizer不绘制任何内容并有效地跳过对其应用的几何图形的渲染
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/vectorsymbolizer/null/
 ---
 ## VectorSymbolizer.Null property
 
-[`NullVectorSymbolizer`](../../nullvectorsymbolizer)不绘制任何内容并有效地跳过渲染它所应用的几何图形。
+的[`NullVectorSymbolizer`](../../nullvectorsymbolizer)不绘制任何内容并有效地跳过对其应用的几何图形的渲染。
 
 ```csharp
 public static NullVectorSymbolizer Null { get; }

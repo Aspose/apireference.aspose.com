@@ -3,7 +3,7 @@ title: RasterColorizer
 second_title: Справочник по Aspose.GIS for .NET API
 description: Абстрактный корневой класс для колоризатора отображающего растр.
 type: docs
-weight: 1420
+weight: 1430
 url: /ru/net/aspose.gis.rendering.colorizers/rastercolorizer/
 ---
 ## RasterColorizer class
@@ -18,7 +18,7 @@ public abstract class RasterColorizer
 
 | Имя | Описание |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null) { get; } | [`NullColorizer`](../nullcolorizer)ничего не рисует и эффективно пропускает рендеринг ячеек, к которым он применяется. |
+| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null) { get; } | [`NullColorizer`](../nullcolorizer) ничего не рисует и эффективно пропускает рендеринг ячеек, к которым он применяется. |
 
 ### Смотрите также
 

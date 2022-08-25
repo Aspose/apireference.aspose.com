@@ -1,14 +1,14 @@
 ---
 title: AsBinary
 second_title: Справочник по Aspose.GIS for .NET API
-description: Преобразует эту геометрию в ее известное двоичное представление.
+description: Преобразует эту геометрию в ее общеизвестное двоичное представление.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.geometries/igeometry/asbinary/
 ---
 ## AsBinary() {#asbinary}
 
-Преобразует эту геометрию в ее известное двоичное представление.
+Преобразует эту геометрию в ее общеизвестное двоичное представление.
 
 ```csharp
 public byte[] AsBinary()
@@ -16,11 +16,11 @@ public byte[] AsBinary()
 
 ### Возвращаемое значение
 
-Хорошо известно Двоичное представление этой геометрии.
+Хорошо известное двоичное представление этой геометрии.
 
 ### Примечания
 
-Вывод этого метода находится вIsoWKB вариант.
+Вывод этого метода находится вIso Вариант ВКБ.
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ public byte[] AsBinary()
 
 ## AsBinary(WkbVariant) {#asbinary_1}
 
-Преобразует эту геометрию в ее известное двоичное представление.
+Преобразует эту геометрию в ее общеизвестное двоичное представление.
 
 ```csharp
 public byte[] AsBinary(WkbVariant variant)
@@ -40,18 +40,18 @@ public byte[] AsBinary(WkbVariant variant)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| variant | WkbVariant | Известный двоичный вариант для использования. |
+| variant | WkbVariant | Хорошо известный двоичный вариант для использования. |
 
 ### Возвращаемое значение
 
-Хорошо известно Двоичное представление этой геометрии.
+Хорошо известное двоичное представление этой геометрии.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| NotSupportedException | Геометрия не может быть представлена в запрошенном варианте WKB. В настоящее время это происходит, когда [`HasCurveGeometry`](../hascurvegeometry)геометрии`true`и вариант WKB SimpleFeatureAccessOutdated. |
-| ArgumentOutOfRangeException | *variant*не является допустимым[`WkbVariant`](../../wkbvariant). |
+| NotSupportedException | Геометрия не может быть представлена в запрошенном варианте WKB. В настоящее время это происходит, когда [`HasCurveGeometry`](../hascurvegeometry) геометрии`true` и вариант WKB is SimpleFeatureAccessOutdated . |
+| ArgumentOutOfRangeException | *variant* не является действительным[`WkbVariant`](../../wkbvariant). |
 
 ### Смотрите также
 

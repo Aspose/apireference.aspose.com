@@ -16,7 +16,7 @@ public override bool CanOpenDatasets { get; }
 
 ### 适当的价值
 
-`true`，如果此驱动程序可以打开数据集；否则，`false`。
+`true` ，如果此驱动程序可以打开数据集；否则，`false`.
 
 ### 也可以看看
 

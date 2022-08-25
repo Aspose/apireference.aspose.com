@@ -24,9 +24,9 @@ public class KmlListStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlliststyle/backgroundcolor) { get; set; } | 指定图形元素的背景颜色。默认值为White。 |
-| [ItemIcons](../../aspose.gis.formats.kml.styles/kmlliststyle/itemicons) { get; set; } | 列表视图中使用的图标，反映文件夹或链接提取的状态。 默认值为`null`表示图标为无。 |
-| [ItemType](../../aspose.gis.formats.kml.styles/kmlliststyle/itemtype) { get; set; } | 指定 kml:Folder 及其内容如何在列表视图中显示为项目。 默认值为Check。 |
+| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlliststyle/backgroundcolor) { get; set; } | 指定图形元素的背景颜色。默认值为White. |
+| [ItemIcons](../../aspose.gis.formats.kml.styles/kmlliststyle/itemicons) { get; set; } | 列表视图中使用的图标，反映文件夹或链接提取的状态。 默认值为`null`表示图标没有。 |
+| [ItemType](../../aspose.gis.formats.kml.styles/kmlliststyle/itemtype) { get; set; } | 指定 kml:Folder 及其内容如何在列表视图中显示为项目。 默认值为Check. |
 | [MaxSnippetLines](../../aspose.gis.formats.kml.styles/kmlliststyle/maxsnippetlines) { get; set; } | 指定要在列表视图中显示的最大行数。默认值为“2”。 |
 
 ### 也可以看看

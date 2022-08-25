@@ -1,7 +1,7 @@
 ---
 title: SkewX
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置像素高度的 x 分量x-skew
+description: 获取或设置像素高度的 x 分量xskew
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.raster/rastercellsize/skewx/

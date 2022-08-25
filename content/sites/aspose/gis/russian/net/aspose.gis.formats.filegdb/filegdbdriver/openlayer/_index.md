@@ -17,7 +17,7 @@ public VectorLayer OpenLayer(string path, FileGdbOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | FileGdbOptions | Опции драйвера. |
+| options | FileGdbOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -44,7 +44,7 @@ public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -72,7 +72,7 @@ public VectorLayer OpenLayer(AbstractPath path, FileGdbOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | FileGdbOptions | Опции драйвера. |
+| options | FileGdbOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 

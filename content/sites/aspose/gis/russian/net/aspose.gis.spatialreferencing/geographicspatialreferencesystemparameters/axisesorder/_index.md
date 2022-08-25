@@ -1,14 +1,14 @@
 ---
 title: AxisesOrder
 second_title: Справочник по Aspose.GIS for .NET API
-description: Порядок осей. По умолчанию используетсяLongitudeLatitude.
+description: Порядок осей. По умолчаниюLongitudeLatitude .
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder/
 ---
 ## GeographicSpatialReferenceSystemParameters.AxisesOrder property
 
-Порядок осей. По умолчанию используетсяLongitudeLatitude.
+Порядок осей. По умолчаниюLongitudeLatitude .
 
 ```csharp
 public GeographicAxisesOrder AxisesOrder { get; set; }
@@ -18,7 +18,7 @@ public GeographicAxisesOrder AxisesOrder { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Выбрасывается в установщик, когда аргумент не является допустимым членом перечисления. |
+| ArgumentException | Брошен в установщик, когда аргумент не является допустимым членом перечисления. |
 
 ### Смотрите также
 

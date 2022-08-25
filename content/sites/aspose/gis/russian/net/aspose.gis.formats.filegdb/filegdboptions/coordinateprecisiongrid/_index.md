@@ -1,14 +1,14 @@
 ---
 title: CoordinatePrecisionGrid
 second_title: Справочник по Aspose.GIS for .NET API
-description: Сетка точности координат для использования в новом слое.
+description: Точная координатная сетка для использования в новом слое.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.filegdb/filegdboptions/coordinateprecisiongrid/
 ---
 ## FileGdbOptions.CoordinatePrecisionGrid property
 
-Сетка точности координат для использования в новом слое.
+Точная координатная сетка для использования в новом слое.
 
 ```csharp
 public FileGdbCoordinatePrecisionGrid CoordinatePrecisionGrid { get; set; }
@@ -16,7 +16,7 @@ public FileGdbCoordinatePrecisionGrid CoordinatePrecisionGrid { get; set; }
 
 ### Примечания
 
-Это опция создания и не влияет на чтение. Сетка точности координат определяет действительный домен и разрешение координат в FileGDB. Когда для этого свойства установлено значение`null`используются значения по умолчанию. Обратитесь к[`FileGdbCoordinatePrecisionGrid`](../../filegdbcoordinateprecisiongrid)документации для более подробной информации о координатных точных сетках.
+Это параметр создания, и он не влияет на чтение. Сетка точности координат определяет действительный домен и разрешение координат в FileGDB. Когда для этого свойства установлено значение`null` используются значения по умолчанию. См.[`FileGdbCoordinatePrecisionGrid`](../../filegdbcoordinateprecisiongrid) документация для более подробной информации о координатных высокоточных сетках.
 
 ### Смотрите также
 

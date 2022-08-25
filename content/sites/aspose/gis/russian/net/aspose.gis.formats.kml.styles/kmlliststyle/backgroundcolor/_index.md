@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет цвет фона графического элемента. Значение по умолчаниюWhite.
+description: Определяет цвет фона графического элемента. Значение по умолчаниюWhite .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.kml.styles/kmlliststyle/backgroundcolor/
 ---
 ## KmlListStyle.BackgroundColor property
 
-Определяет цвет фона графического элемента. Значение по умолчанию:White.
+Определяет цвет фона графического элемента. Значение по умолчаниюWhite .
 
 ```csharp
 public Color BackgroundColor { get; set; }

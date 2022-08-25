@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.GIS for .NET API 参考
-description: 以百万分之一为单位进行缩放
+description: 以百万分之几为单位进行缩放
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.spatialreferencing/bursawolfparameters/scale/
 ---
 ## BursaWolfParameters.Scale property
 
-以百万分之一为单位进行缩放。
+以百万分之几为单位进行缩放。
 
 ```csharp
 public double Scale { get; }

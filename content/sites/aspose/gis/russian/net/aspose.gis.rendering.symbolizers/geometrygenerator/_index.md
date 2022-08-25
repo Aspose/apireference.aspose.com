@@ -1,14 +1,14 @@
 ---
 title: GeometryGenerator
 second_title: Справочник по Aspose.GIS for .NET API
-description: Украсьте символизатор чтобы изменить геометрию объекта перед визуализацией.
+description: Украсьте символизатор чтобы изменить геометрию объекта перед рендерингом.
 type: docs
-weight: 1700
+weight: 1710
 url: /ru/net/aspose.gis.rendering.symbolizers/geometrygenerator/
 ---
 ## GeometryGenerator class
 
-Украсьте символизатор, чтобы изменить геометрию объекта перед визуализацией.
+Украсьте символизатор, чтобы изменить геометрию объекта перед рендерингом.
 
 ```csharp
 public class GeometryGenerator : VectorSymbolizer
@@ -24,8 +24,8 @@ public class GeometryGenerator : VectorSymbolizer
 
 | Имя | Описание |
 | --- | --- |
-| [Expression](../../aspose.gis.rendering.symbolizers/geometrygenerator/expression) { get; set; } | Обеспечивает способ замены геометрии объекта на геометрию, модифицированную для символизатора. Значение по умолчанию:`null`(использовать геометрию объектов как есть). |
-| [Symbolizer](../../aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer) { get; set; } | Указывает символизатор для применения к измененной геометрии. По умолчанию:`NullVectorSymbolizer`. |
+| [Expression](../../aspose.gis.rendering.symbolizers/geometrygenerator/expression) { get; set; } | Позволяет заменить геометрию объекта на геометрию, модифицированную для символизатора. Значение по умолчанию:`null` (использовать геометрию объекта как есть). |
+| [Symbolizer](../../aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer) { get; set; } | Указывает символизатор для применения к измененной геометрии. Значение по умолчанию:`NullVectorSymbolizer` . |
 
 ### Смотрите также
 

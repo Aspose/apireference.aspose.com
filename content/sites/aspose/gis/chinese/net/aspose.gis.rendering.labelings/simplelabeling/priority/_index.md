@@ -1,14 +1,14 @@
 ---
 title: Priority
 second_title: Aspose.GIS for .NET API 参考
-description: 表示此标签的优先级以防它与另一个标签重叠不呈现具有较低优先级的标签 默认为 1000
+description: 指示此标签的优先级以防它与另一个标签重叠不渲染优先级较低的标签 默认为 1000
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/priority/
 ---
 ## SimpleLabeling.Priority property
 
-表示此标签的优先级，以防它与另一个标签重叠。不呈现具有较低优先级的标签。 默认为 1000。
+指示此标签的优先级，以防它与另一个标签重叠。不渲染优先级较低的标签。 默认为 1000。
 
 ```csharp
 public int Priority { get; set; }

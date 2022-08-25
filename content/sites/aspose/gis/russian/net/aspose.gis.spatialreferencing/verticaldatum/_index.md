@@ -3,7 +3,7 @@ title: VerticalDatum
 second_title: Справочник по Aspose.GIS for .NET API
 description: Указывает метод используемый для вертикальных измерений.
 type: docs
-weight: 2190
+weight: 2200
 url: /ru/net/aspose.gis.spatialreferencing/verticaldatum/
 ---
 ## VerticalDatum class
@@ -33,7 +33,7 @@ public class VerticalDatum : IdentifiableObject
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Rendering.Symbolizers
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Rendering.Symbolizers 命名空间提供了用于配置渲染矢量特征的类
+description: Aspose.Gis.Rendering.Symbolizers命名空间提供了用于配置渲染矢量特征的类
 type: docs
 weight: 320
 url: /zh/net/aspose.gis.rendering.symbolizers/
 ---
-` Aspose.Gis.Rendering.Symbolizers` 命名空间提供了用于配置渲染矢量特征的类。
+`Aspose.Gis.Rendering.Symbolizers`命名空间提供了用于配置渲染矢量特征的类。
 
 ## 课程
 
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.rendering.symbolizers/
 | --- | --- |
 | [GeometryGenerator](./geometrygenerator) | 装饰符号器以在渲染前修改要素的几何形状。 |
 | [LayeredSymbolizer](./layeredsymbolizer) | 渲染其他几个符号的符号。 |
-| [MarkerCluster](./markercluster) | 标记簇符号。 |
+| [MarkerCluster](./markercluster) | 标记簇符号器。 |
 | [MarkerLine](./markerline) | 标记线符号。 |
 | [MarkerPatternFill](./markerpatternfill) | 标记图案填充符号。 |
 | [MixedGeometrySymbolizer](./mixedgeometrysymbolizer) | 根据几何类型对要素几何应用正确的符号。 |
-| [NullVectorSymbolizer](./nullvectorsymbolizer) | ` NullSymbolizer` 不绘制任何内容并有效地跳过渲染它所应用的几何图形。 |
+| [NullVectorSymbolizer](./nullvectorsymbolizer) | 的`空符号器`不绘制任何内容并有效地跳过对其应用的几何图形的渲染。 |
 | [RasterImageMarker](./rasterimagemarker) | 此符号器渲染提供的光栅图像。 |
-| [Rule](./rule) | [`RuleBasedSymbolizer`](../aspose.gis.rendering.symbolizers/rulebasedsymbolizer)的用户定义规则。 |
-| [RuleBasedSymbolizer](./rulebasedsymbolizer) | 根据用户定义的规则将符号器应用于特征几何。 |
-| [SimpleFill](./simplefill) | 简单多边形符号。 |
+| [Rule](./rule) | 用户定义的规则[`RuleBasedSymbolizer`](../aspose.gis.rendering.symbolizers/rulebasedsymbolizer). |
+| [RuleBasedSymbolizer](./rulebasedsymbolizer) | 根据用户定义的规则将符号器应用于几何特征。 |
+| [SimpleFill](./simplefill) | 简单的多边形符号。 |
 | [SimpleLine](./simpleline) | 简单线符号。 |
-| [SimpleMarker](./simplemarker) | 简单点符号。 |
+| [SimpleMarker](./simplemarker) | 简单点符号器。 |
 | [VectorSymbolizer](./vectorsymbolizer) | 渲染矢量特征的符号的抽象根类。 |
 ## 枚举
 

@@ -1,14 +1,14 @@
 ---
 title: Delete
 second_title: Aspose.GIS for .NET API 参考
-description: 删除该路径指向的文件
+description: 删除此路径指向的文件
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/abstractpath/delete/
 ---
 ## AbstractPath.Delete method
 
-删除该路径指向的文件。
+删除此路径指向的文件。
 
 ```csharp
 public abstract void Delete()

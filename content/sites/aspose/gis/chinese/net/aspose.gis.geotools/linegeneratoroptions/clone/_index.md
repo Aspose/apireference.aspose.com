@@ -3,7 +3,7 @@ title: Clone
 second_title: Aspose.GIS for .NET API 参考
 description: 相互克隆对象
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.gis.geotools/linegeneratoroptions/clone/
 ---
 ## LineGeneratorOptions.Clone method
@@ -16,7 +16,7 @@ public LineGeneratorOptions Clone()
 
 ### 返回值
 
-相互克隆对象[`LineGeneratorOptions`](../../linegeneratoroptions)。
+相互克隆对象[`LineGeneratorOptions`](../../linegeneratoroptions).
 
 ### 也可以看看
 

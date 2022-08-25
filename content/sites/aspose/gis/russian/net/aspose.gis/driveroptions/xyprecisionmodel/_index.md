@@ -1,14 +1,14 @@
 ---
 title: XYPrecisionModel
 second_title: Справочник по Aspose.GIS for .NET API
-description: APrecisionModelaspose.gis/precisionmodelкоторый будет применяться к координатам X и Y когда геометрия добавляются вVectorLayeraspose.gis/vectorlayerили когда они считываются изVectorLayeraspose.gis/vectorlayer. Значение по умолчаниюExactaspose.gis/precisionmodel/exact.
+description: АPrecisionModelaspose.gis/precisionmodelкоторый будет применяться к координатам X и Y при добавлении геометрии вVectorLayeraspose.gis/vectorlayer или когда они читаются изVectorLayeraspose.gis/vectorlayer . Значение по умолчаниюExactaspose.gis/precisionmodel/exact .
 type: docs
 weight: 110
 url: /ru/net/aspose.gis/driveroptions/xyprecisionmodel/
 ---
 ## DriverOptions.XYPrecisionModel property
 
-A[`PrecisionModel`](../../precisionmodel)который будет применяться к координатам X и Y когда геометрия добавляются в[`VectorLayer`](../../vectorlayer)или когда они считываются из[`VectorLayer`](../../vectorlayer). Значение по умолчанию:[`Exact`](../../precisionmodel/exact).
+А[`PrecisionModel`](../../precisionmodel)который будет применяться к координатам X и Y при добавлении геометрии в[`VectorLayer`](../../vectorlayer) или когда они читаются из[`VectorLayer`](../../vectorlayer) . Значение по умолчанию:[`Exact`](../../precisionmodel/exact) .
 
 ```csharp
 public PrecisionModel XYPrecisionModel { get; set; }

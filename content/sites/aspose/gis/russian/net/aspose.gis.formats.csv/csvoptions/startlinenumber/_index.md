@@ -1,14 +1,14 @@
 ---
 title: StartLineNumber
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает отсчитываемый от нуля номер строки которая будет первой при чтении данных. По умолчанию 0.
+description: Получает или задает отсчитываемый от нуля номер строки которая будет первой при чтении данных. Значение по умолчанию 0.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.formats.csv/csvoptions/startlinenumber/
 ---
 ## CsvOptions.StartLineNumber property
 
-Получает или задает отсчитываемый от нуля номер строки, которая будет первой при чтении данных. По умолчанию 0.
+Получает или задает отсчитываемый от нуля номер строки, которая будет первой при чтении данных. Значение по умолчанию: 0.
 
 ```csharp
 public int StartLineNumber { get; set; }

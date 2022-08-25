@@ -1,14 +1,14 @@
 ---
 title: SimplifySegmentsOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Опции дляSimplifySegments./geometryoperations/simplifysegments.
+description: Параметры дляSimplifySegments./geometryoperations/simplifysegments .
 type: docs
-weight: 760
+weight: 770
 url: /ru/net/aspose.gis.geotools/simplifysegmentsoptions/
 ---
 ## SimplifySegmentsOptions class
 
-Опции для[`SimplifySegments`](../geometryoperations/simplifysegments).
+Параметры для[`SimplifySegments`](../geometryoperations/simplifysegments) .
 
 ```csharp
 public class SimplifySegmentsOptions
@@ -19,13 +19,13 @@ public class SimplifySegmentsOptions
 | Имя | Описание |
 | --- | --- |
 | [SimplifySegmentsOptions](simplifysegmentsoptions#constructor)() | Создать экземпляр с полями инициализации по умолчанию. |
-| [SimplifySegmentsOptions](simplifysegmentsoptions#constructor_1)(SimplifySegmentsOptions) | Создать копию экземпляра[`SimplifySegmentsOptions`](../simplifysegmentsoptions). |
+| [SimplifySegmentsOptions](simplifysegmentsoptions#constructor_1)(SimplifySegmentsOptions) | Создать копию экземпляра[`SimplifySegmentsOptions`](../simplifysegmentsoptions) . |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Distance](../../aspose.gis.geotools/simplifysegmentsoptions/distance) { get; set; } | Параметром для проверки является точка рядом с отрезком. Значение по умолчанию:0. |
+| [Distance](../../aspose.gis.geotools/simplifysegmentsoptions/distance) { get; set; } | Параметром для проверки является точка рядом с отрезком. Значение по умолчанию: 0. . |
 
 ## Методы
 

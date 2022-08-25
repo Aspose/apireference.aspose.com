@@ -1,14 +1,14 @@
 ---
 title: WebMercator
 second_title: Aspose.GIS for .NET API 参考
-description: Web Mercator EPSG3857 空间参考系统
+description: Web 墨卡托 EPSG3857 空间参考系统
 type: docs
 weight: 310
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/webmercator/
 ---
 ## SpatialReferenceSystem.WebMercator property
 
-Web Mercator (EPSG:3857) 空间参考系统。
+Web 墨卡托 (EPSG:3857) 空间参考系统。
 
 ```csharp
 public static ProjectedSpatialReferenceSystem WebMercator { get; }

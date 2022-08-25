@@ -1,14 +1,14 @@
 ---
 title: TargetAttributeName
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает имя атрибута основного слоя значение которого будет использоваться вConditionCompareraspose.gis.relationship.joins/joinoptions/conditioncomparer.
+description: Указывает имя атрибута основного слоя значение которого будет использоваться вConditionCompareraspose.gis.relationship.joins/joinoptions/conditioncomparer.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.relationship.joins/joinoptions/targetattributename/
 ---
 ## JoinOptions.TargetAttributeName property
 
-Задает имя атрибута основного слоя, значение которого будет использоваться в[`ConditionComparer`](../conditioncomparer).
+Указывает имя атрибута основного слоя, значение которого будет использоваться в[`ConditionComparer`](../conditioncomparer).
 
 ```csharp
 public string TargetAttributeName { get; set; }

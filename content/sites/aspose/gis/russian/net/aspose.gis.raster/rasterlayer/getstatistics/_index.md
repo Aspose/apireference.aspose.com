@@ -1,14 +1,14 @@
 ---
 title: GetStatistics
 second_title: Справочник по Aspose.GIS for .NET API
-description: Вычислить сводную статистику состоящую из количества суммы среднего мин. макс.
+description: Вычислить сводную статистику состоящую из количества суммы среднего минимума максимума.
 type: docs
 weight: 160
 url: /ru/net/aspose.gis.raster/rasterlayer/getstatistics/
 ---
 ## RasterLayer.GetStatistics method
 
-Вычислить сводную статистику, состоящую из количества, суммы, среднего, мин., макс.
+Вычислить сводную статистику, состоящую из количества, суммы, среднего, минимума, максимума.
 
 ```csharp
 public RasterStatistics GetStatistics(int bandIndex = 0, bool excludeNodataValue = true)
@@ -16,7 +16,7 @@ public RasterStatistics GetStatistics(int bandIndex = 0, bool excludeNodataValue
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bandIndex | Int32 | Индекс полосы. Нумерация начинается с 0. |
+| bandIndex | Int32 | Индекс группы. Нумерация начинается с 0. |
 | excludeNodataValue | Boolean | Позволяет исключить значения 'nodata'. Если для excludeNodataValue задано значение false, учитываются все пиксели. |
 
 ### Возвращаемое значение

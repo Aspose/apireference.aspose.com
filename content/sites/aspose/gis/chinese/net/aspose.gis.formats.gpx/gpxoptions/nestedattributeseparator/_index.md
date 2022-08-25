@@ -1,14 +1,14 @@
 ---
 title: NestedAttributeSeparator
 second_title: Aspose.GIS for .NET API 参考
-description: 用于分隔嵌套属性名称及其索引的字符串默认为双下划线__
+description: 用于分隔嵌套属性名称及其索引的字符串默认为双下划线__.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.gpx/gpxoptions/nestedattributeseparator/
 ---
 ## GpxOptions.NestedAttributeSeparator property
 
-用于分隔嵌套属性名称及其索引的字符串。默认为双下划线“__”。
+用于分隔嵌套属性名称及其索引的字符串。默认为双下划线“__”.
 
 ```csharp
 public string NestedAttributeSeparator { get; }

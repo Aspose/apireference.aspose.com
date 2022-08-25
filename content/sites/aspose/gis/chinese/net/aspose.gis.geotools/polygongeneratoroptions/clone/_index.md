@@ -3,7 +3,7 @@ title: Clone
 second_title: Aspose.GIS for .NET API 参考
 description: 相互克隆对象
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.gis.geotools/polygongeneratoroptions/clone/
 ---
 ## PolygonGeneratorOptions.Clone method
@@ -16,7 +16,7 @@ public PolygonGeneratorOptions Clone()
 
 ### 返回值
 
-相互克隆对象[`PolygonGeneratorOptions`](../../polygongeneratoroptions)。
+相互克隆对象[`PolygonGeneratorOptions`](../../polygongeneratoroptions).
 
 ### 也可以看看
 

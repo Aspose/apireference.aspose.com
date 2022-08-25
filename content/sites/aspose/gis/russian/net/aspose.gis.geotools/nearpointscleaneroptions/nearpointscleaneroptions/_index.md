@@ -24,7 +24,7 @@ public NearPointsCleanerOptions()
 
 ## NearPointsCleanerOptions(NearPointsCleanerOptions) {#constructor_1}
 
-Создать копию экземпляра[`NearPointsCleanerOptions`](../../nearpointscleaneroptions).
+Создать копию экземпляра[`NearPointsCleanerOptions`](../../nearpointscleaneroptions) .
 
 ```csharp
 public NearPointsCleanerOptions(NearPointsCleanerOptions source)

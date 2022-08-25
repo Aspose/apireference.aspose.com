@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.GIS for .NET API 参考
-description: 获取指定索引处的ICurveaspose.gis.geometries/icurve
+description: 获取ICurveaspose.gis.geometries/icurve在指定的索引处
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/icompoundcurve/item/
 ---
 ## ICompoundCurve indexer
 
-获取指定索引处的[`ICurve`](../../icurve)。
+获取[`ICurve`](../../icurve)在指定的索引处。
 
 ```csharp
 public ICurve this[int index] { get; }
@@ -16,11 +16,11 @@ public ICurve this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 适当的价值
 
-[`ICurve`](../../icurve)。
+的[`ICurve`](../../icurve).
 
 ### 也可以看看
 

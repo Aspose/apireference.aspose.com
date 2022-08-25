@@ -3,7 +3,7 @@ title: GeoGenerator
 second_title: Справочник по Aspose.GIS for .NET API
 description: Генератор случайных точек линий и многоугольников на заданных плоскостях.
 type: docs
-weight: 700
+weight: 710
 url: /ru/net/aspose.gis.geotools/geogenerator/
 ---
 ## GeoGenerator class

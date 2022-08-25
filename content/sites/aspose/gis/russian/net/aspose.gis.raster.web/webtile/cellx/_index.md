@@ -1,14 +1,14 @@
 ---
 title: CellX
 second_title: Справочник по Aspose.GIS for .NET API
-description: X-столбец тайла.
+description: Xстолбец плитки.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.raster.web/webtile/cellx/
 ---
 ## WebTile.CellX property
 
-X-столбец тайла.
+X-столбец плитки.
 
 ```csharp
 public abstract int CellX { get; }

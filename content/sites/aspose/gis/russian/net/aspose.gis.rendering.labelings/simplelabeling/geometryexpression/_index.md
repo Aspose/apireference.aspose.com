@@ -1,14 +1,14 @@
 ---
 title: GeometryExpression
 second_title: Справочник по Aspose.GIS for .NET API
-description: Позволяет заменить геометрию объекта на геометрию измененную для маркировки. Этот обратный вызов вызывается первым послеFeatureBasedConfigurationaspose.gis.rendering.labelings/simplelabeling/featurebasedconfiguration. Значение по умолчаниюnullиспользовать геометрию объектов как есть.
+description: Предоставляет способ замены геометрии объекта на геометрию измененную для маркировки. Этот обратный вызов вызывается первым послеFeatureBasedConfigurationaspose.gis.rendering.labelings/simplelabeling/featurebasedconfiguration . По умолчаниюnull использовать геометрию объекта как есть.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.rendering.labelings/simplelabeling/geometryexpression/
 ---
 ## SimpleLabeling.GeometryExpression property
 
-Позволяет заменить геометрию объекта на геометрию, измененную для маркировки. Этот обратный вызов вызывается первым после[`FeatureBasedConfiguration`](../featurebasedconfiguration). Значение по умолчанию:`null`(использовать геометрию объектов как есть).
+Предоставляет способ замены геометрии объекта на геометрию, измененную для маркировки. Этот обратный вызов вызывается первым после[`FeatureBasedConfiguration`](../featurebasedconfiguration) . По умолчанию`null` (использовать геометрию объекта как есть).
 
 ```csharp
 public Func<Feature, IGeometry> GeometryExpression { get; set; }

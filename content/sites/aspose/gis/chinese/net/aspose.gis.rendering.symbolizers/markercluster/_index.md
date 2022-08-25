@@ -1,14 +1,14 @@
 ---
 title: MarkerCluster
 second_title: Aspose.GIS for .NET API 参考
-description: 标记簇符号
+description: 标记簇符号器
 type: docs
-weight: 1730
+weight: 1740
 url: /zh/net/aspose.gis.rendering.symbolizers/markercluster/
 ---
 ## MarkerCluster class
 
-标记簇符号。
+标记簇符号器。
 
 ```csharp
 public class MarkerCluster : VectorSymbolizer
@@ -18,16 +18,16 @@ public class MarkerCluster : VectorSymbolizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MarkerCluster](markercluster#constructor_1)(MarkerCluster) | 初始化[`MarkerCluster`](../markercluster)类的新实例。 |
-| [MarkerCluster](markercluster#constructor)(Measurement) | 初始化[`MarkerCluster`](../markercluster)类的新实例。 |
+| [MarkerCluster](markercluster#constructor_1)(MarkerCluster) | 初始化[`MarkerCluster`](../markercluster)类. |
+| [MarkerCluster](markercluster#constructor)(Measurement) | 初始化[`MarkerCluster`](../markercluster)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [FeaturesBasedConfiguration](../../aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration) { get; set; } | 用于在渲染集群中心之前配置此符号器的回调。 |
-| [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker) { get; set; } | 指定集群中心的标记符号。 |
-| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker) { get; set; } | 指定嵌套聚类点的标记符号。默认值为[`Null`](../vectorsymbolizer/null)。 |
+| [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker) { get; set; } | 指定聚类中心的标记符号器。 |
+| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker) { get; set; } | 指定嵌套聚类点的标记符号器。默认是[`Null`](../vectorsymbolizer/null). |
 
 ### 也可以看看
 

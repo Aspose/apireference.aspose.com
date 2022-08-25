@@ -17,7 +17,7 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | RasterDriverOptions | Опции драйвера. |
+| options | RasterDriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -28,8 +28,8 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также
@@ -54,7 +54,7 @@ public RasterLayer OpenLayer(string path, EsriAsciiOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | EsriAsciiOptions | Опции драйвера. |
+| options | EsriAsciiOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -81,7 +81,7 @@ public RasterLayer OpenLayer(AbstractPath path, EsriAsciiOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | EsriAsciiOptions | Опции драйвера. |
+| options | EsriAsciiOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 

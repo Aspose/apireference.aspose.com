@@ -1,14 +1,14 @@
 ---
 title: SubState
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает дополнительное состояние NetworkLink или папки. Значение по умолчаниюNone.
+description: Указывает дополнительное состояние NetworkLink или Folder. Значение по умолчаниюNone .
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.formats.kml.styles/kmlitemicon/substate/
 ---
 ## KmlItemIcon.SubState property
 
-Указывает дополнительное состояние NetworkLink или папки. Значение по умолчанию:None.
+Указывает дополнительное состояние NetworkLink или Folder. Значение по умолчанию:None .
 
 ```csharp
 public KmlItemIconStates SubState { get; set; }

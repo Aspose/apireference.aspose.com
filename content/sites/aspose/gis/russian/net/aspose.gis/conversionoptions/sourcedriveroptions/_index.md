@@ -1,14 +1,14 @@
 ---
 title: SourceDriverOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Опции драйвера для исходного слоя.
+description: Параметры исходного слоя зависящие от драйвера.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis/conversionoptions/sourcedriveroptions/
 ---
 ## ConversionOptions.SourceDriverOptions property
 
-Опции драйвера для исходного слоя.
+Параметры исходного слоя, зависящие от драйвера.
 
 ```csharp
 public DriverOptions SourceDriverOptions { get; set; }

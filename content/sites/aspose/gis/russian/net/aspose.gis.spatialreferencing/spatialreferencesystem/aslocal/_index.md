@@ -1,14 +1,14 @@
 ---
 title: AsLocal
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает этот SRS преобразованный вLocalSpatialReferenceSystemaspose.gis.spatialreferencing/localspatialreferencesystem. ИспользуйтеTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
+description: Возвращает этот SRS преобразованный вLocalSpatialReferenceSystemaspose.gis.spatialreferencing/localspatialreferencesystem . ИспользоватьTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/aslocal/
 ---
 ## SpatialReferenceSystem.AsLocal property
 
-Возвращает этот SRS, преобразованный в[`LocalSpatialReferenceSystem`](../../localspatialreferencesystem). Используйте[`Type`](../type), чтобы узнать, возможно ли преобразование.
+Возвращает этот SRS, преобразованный в[`LocalSpatialReferenceSystem`](../../localspatialreferencesystem) . Использовать[`Type`](../type) чтобы узнать, возможно ли преобразование.
 
 ```csharp
 public virtual LocalSpatialReferenceSystem AsLocal { get; }

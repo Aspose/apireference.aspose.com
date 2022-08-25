@@ -1,14 +1,14 @@
 ---
 title: Separator
 second_title: Aspose.GIS for .NET API 参考
-description: 获取用于分隔Locationaspose.gis/abstractpath/location字符串的目录级别的分隔符
+description: 获取用于分隔目录级别的分隔符Locationaspose.gis/abstractpath/location细绳
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/abstractpath/separator/
 ---
 ## AbstractPath.Separator property
 
-获取用于分隔[`Location`](../location)字符串的目录级别的分隔符。
+获取用于分隔目录级别的分隔符[`Location`](../location)细绳。
 
 ```csharp
 public abstract char Separator { get; }
@@ -16,11 +16,11 @@ public abstract char Separator { get; }
 
 ### 适当的价值
 
-用于分隔[`Location`](../location)字符串的目录级别的分隔符。
+用于分隔目录级别的分隔符[`Location`](../location)细绳。
 
 ### 评论
 
-通常这等于正斜杠 '/' 或反斜杠 '\\'。
+通常这等于正向 '/' 或反斜杠 '\\'。
 
 ### 也可以看看
 

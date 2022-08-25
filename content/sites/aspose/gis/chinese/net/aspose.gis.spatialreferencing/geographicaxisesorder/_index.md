@@ -3,7 +3,7 @@ title: GeographicAxisesOrder
 second_title: Aspose.GIS for .NET API 参考
 description: 表示地理 SRS 中的轴顺序
 type: docs
-weight: 2000
+weight: 2010
 url: /zh/net/aspose.gis.spatialreferencing/geographicaxisesorder/
 ---
 ## GeographicAxisesOrder enumeration
@@ -19,7 +19,7 @@ public enum GeographicAxisesOrder
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Invalid | `-1` | 地理 SRS 无效，无法确定轴顺序。 |
-| LongitudeLatitude | `0` | 顺序为（经度，纬度）。 |
+| LongitudeLatitude | `0` | 顺序是（经度，纬度）。 |
 | LatitudeLongitude | `1` | 顺序是（纬度，经度）。 |
 
 ### 也可以看看

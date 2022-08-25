@@ -1,14 +1,14 @@
 ---
 title: ModifyAttribute
 second_title: Aspose.GIS for .NET API 参考
-description: 根据目标图层的需要调整FeatureAttributeaspose.gis/featureattribute
+description: 调整一个FeatureAttributeaspose.gis/featureattribute根据目标层的需要
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/iattributesconverter/modifyattribute/
 ---
 ## IAttributesConverter.ModifyAttribute method
 
-根据目标图层的需要调整[`FeatureAttribute`](../../featureattribute)。
+调整一个[`FeatureAttribute`](../../featureattribute)根据目标层的需要。
 
 ```csharp
 public void ModifyAttribute(FeatureAttribute attribute, AttributesConverterActions actions)
@@ -16,8 +16,8 @@ public void ModifyAttribute(FeatureAttribute attribute, AttributesConverterActio
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| attribute | FeatureAttribute | 源层属性的副本。 |
-| actions | AttributesConverterActions | 指定具有目标层属性的可选操作。 例如，允许我们排除我们的属性。 |
+| attribute | FeatureAttribute | 源图层属性的副本。 |
+| actions | AttributesConverterActions | 使用目标层的属性指定可选操作。 例如，允许我们排除我们的属性。 |
 
 ### 也可以看看
 

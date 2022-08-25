@@ -16,7 +16,7 @@ public abstract SpatialReferenceSystem SpatialReferenceSystem { get; }
 
 ### 适当的价值
 
-空间参考系统。可以是`null`如果它是未知的。
+空间参考系统。可`null`如果它是未知的。
 
 ### 也可以看看
 

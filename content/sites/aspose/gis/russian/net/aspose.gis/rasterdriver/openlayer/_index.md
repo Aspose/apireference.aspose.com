@@ -17,7 +17,7 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | RasterDriverOptions | Опции драйвера. |
+| options | RasterDriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -28,8 +28,8 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также
@@ -63,8 +63,8 @@ public RasterLayer OpenLayer(string path)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также
@@ -96,8 +96,8 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также
@@ -121,7 +121,7 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | RasterDriverOptions | Опции драйвера. |
+| options | RasterDriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -132,8 +132,8 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: SimplifySegments
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет удаляются ли точки лежащие на одном сегменте в каждой геометрии. По умолчаниюfalse.
+description: Определяет удаляются ли точки лежащие на одном и том же сегменте в каждой геометрии. По умолчаниюfalse .
 type: docs
 weight: 70
 url: /ru/net/aspose.gis/driveroptions/simplifysegments/
 ---
 ## DriverOptions.SimplifySegments property
 
-Определяет, удаляются ли точки, лежащие на одном сегменте в каждой геометрии. По умолчанию`false`.
+Определяет, удаляются ли точки, лежащие на одном и том же сегменте в каждой геометрии. По умолчанию`false` .
 
 ```csharp
 public bool SimplifySegments { get; set; }

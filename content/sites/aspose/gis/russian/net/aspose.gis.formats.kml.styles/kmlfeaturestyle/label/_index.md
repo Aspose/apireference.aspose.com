@@ -1,14 +1,14 @@
 ---
 title: Label
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает как отрисовываются метки объекта. Используйтеnullдля указания отсутствующего стиля. Значение по умолчаниюnull.
+description: Указывает как отрисовываются метки объекта. Использованиеnull для указания отсутствующего стиля. Значение по умолчаниюnull .
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/label/
 ---
 ## KmlFeatureStyle.Label property
 
-Указывает, как отрисовываются метки объекта. Используйте`null`для указания отсутствующего стиля. Значение по умолчанию:`null`.
+Указывает, как отрисовываются метки объекта. Использование`null` для указания отсутствующего стиля. Значение по умолчанию:`null` .
 
 ```csharp
 public KmlLabelStyle Label { get; set; }

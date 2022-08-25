@@ -1,14 +1,14 @@
 ---
 title: AlphaBand
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет альфа-компонент нашего растра.
+description: Определяет альфакомпонент для нашего растра.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.rendering.colorizers/multibandcolor/alphaband/
 ---
 ## MultiBandColor.AlphaBand property
 
-Определяет альфа-компонент нашего растра.
+Определяет альфа-компонент для нашего растра.
 
 ```csharp
 public BandColor AlphaBand { get; set; }

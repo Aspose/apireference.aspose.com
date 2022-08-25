@@ -21,7 +21,7 @@ public enum AttributeDataType
 | Integer | `0` | 32 位整数。 |
 | Long | `1` | 64 位整数。 |
 | Guid | `2` | 全局唯一标识符 (GUID)。 |
-| Boolean | `3` | 布尔值（真/假）。 |
+| Boolean | `3` | 布尔（真/假）值。 |
 | Double | `4` | 双精度实数。 |
 | Date | `5` | 日期值。 |
 | Time | `6` | 时间值。 |

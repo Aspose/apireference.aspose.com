@@ -1,14 +1,14 @@
 ---
 title: AxisesOrder
 second_title: Aspose.GIS for .NET API 参考
-description: 此 SRS 中的轴顺序 如果此 SRS 无效且轴方向错误则返回Invalid
+description: 此 SRS 中的轴顺序 如果此 SRS 无效且轴方向错误Invalid被退回
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/axisesorder/
 ---
 ## ProjectedSpatialReferenceSystem.AxisesOrder property
 
-此 SRS 中的轴顺序。 如果此 SRS 无效且轴方向错误，则返回Invalid。
+此 SRS 中的轴顺序。 如果此 SRS 无效且轴方向错误，Invalid被退回。
 
 ```csharp
 public abstract ProjectedAxisesOrder AxisesOrder { get; }

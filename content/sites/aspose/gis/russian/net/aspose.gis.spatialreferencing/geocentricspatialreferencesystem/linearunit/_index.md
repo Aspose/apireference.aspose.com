@@ -1,14 +1,14 @@
 ---
 title: LinearUnit
 second_title: Справочник по Aspose.GIS for .NET API
-description: Блок используемый в этом SRS.
+description: Единица используемая в этой SRS.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/linearunit/
 ---
 ## GeocentricSpatialReferenceSystem.LinearUnit property
 
-Блок, используемый в этом SRS.
+Единица, используемая в этой SRS.
 
 ```csharp
 public Unit LinearUnit { get; }

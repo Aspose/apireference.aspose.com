@@ -1,14 +1,14 @@
 ---
 title: Projection
 second_title: Aspose.GIS for .NET API 参考
-description: 投影应用于Base以获取此 SRS
+description: 投影应用于Baseaspose.gis.spatialreferencing/projectedspatialreferencesystem/base得到这个 SRS.
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/projection/
 ---
 ## ProjectedSpatialReferenceSystem.Projection property
 
-投影，应用于Base以获取此 SRS。
+投影，应用于[`Base`](../base)得到这个 SRS.
 
 ```csharp
 public abstract Projection Projection { get; }

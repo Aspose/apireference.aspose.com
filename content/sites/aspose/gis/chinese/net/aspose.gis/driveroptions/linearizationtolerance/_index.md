@@ -16,11 +16,11 @@ public double LinearizationTolerance { get; set; }
 
 ### 适当的价值
 
-传递给Double)在添加几何之前。
+传递给的容差[`ToLinearGeometry`](../../../aspose.gis.geometries/geometry/tolineargeometry)在添加几何之前。
 
 ### 评论
 
-这是一个创建选项 - 它不影响打开。 如果驱动程序不支持非线性几何，它们会自动线性化。 此属性指定Double)方法的参数，用于 用于线性化。
+这是一个创建选项 - 它不影响打开。 如果驱动程序不支持非线性几何图形，它们会自动线性化。 此属性指定一个参数[`ToLinearGeometry`](../../../aspose.gis.geometries/geometry/tolineargeometry)用于线性化的方法 。
 
 ### 也可以看看
 

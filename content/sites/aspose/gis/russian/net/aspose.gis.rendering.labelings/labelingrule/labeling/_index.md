@@ -1,14 +1,14 @@
 ---
 title: Labeling
 second_title: Справочник по Aspose.GIS for .NET API
-description: Маркировка применяемая к объекту.
+description: Маркировка применяемая к функции.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.rendering.labelings/labelingrule/labeling/
 ---
 ## LabelingRule.Labeling property
 
-Маркировка, применяемая к объекту.
+Маркировка, применяемая к функции.
 
 ```csharp
 public Labeling Labeling { get; }

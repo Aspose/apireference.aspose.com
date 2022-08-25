@@ -1,14 +1,14 @@
 ---
 title: RuleBasedLabeling
 second_title: Aspose.GIS for .NET API 参考
-description: 根据用户定义的规则对特征应用标签
+description: 根据用户定义的规则对要素应用标签
 type: docs
-weight: 1580
+weight: 1590
 url: /zh/net/aspose.gis.rendering.labelings/rulebasedlabeling/
 ---
 ## RuleBasedLabeling class
 
-根据用户定义的规则对特征应用标签。
+根据用户定义的规则对要素应用标签。
 
 ```csharp
 public class RuleBasedLabeling : Labeling, IReadOnlyList<LabelingRule>
@@ -32,8 +32,8 @@ public class RuleBasedLabeling : Labeling, IReadOnlyList<LabelingRule>
 | 姓名 | 描述 |
 | --- | --- |
 | [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add#add)(LabelingRule) | 添加规则。 |
-| [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add#add_1)(Func&lt;Feature, bool&gt;, Labeling) | 添加新的[`LabelingRule`](../labelingrule)。 |
-| [AddElseRule](../../aspose.gis.rendering.labelings/rulebasedlabeling/addelserule)(Labeling) | 添加将应用于不匹配任何过滤规则的特征的标签。 |
+| [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add#add_1)(Func&lt;Feature, bool&gt;, Labeling) | 添加新的[`LabelingRule`](../labelingrule). |
+| [AddElseRule](../../aspose.gis.rendering.labelings/rulebasedlabeling/addelserule)(Labeling) | 添加将应用于与任何过滤规则不匹配的特征的标签。 |
 | [GetEnumerator](../../aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator)() | 返回一个遍历规则的枚举器。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: MultiPoint
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаMultiPointaspose.gis.geometries/multipoint.
+description: Инициализирует новый экземплярMultiPointaspose.gis.geometries/multipoint класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/multipoint/multipoint/
 ---
 ## MultiPoint constructor
 
-Инициализирует новый экземпляр класса[`MultiPoint`](../../multipoint).
+Инициализирует новый экземпляр[`MultiPoint`](../../multipoint) класс.
 
 ```csharp
 public MultiPoint()

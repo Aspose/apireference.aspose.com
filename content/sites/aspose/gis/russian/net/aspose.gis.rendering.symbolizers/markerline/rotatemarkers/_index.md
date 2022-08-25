@@ -1,14 +1,14 @@
 ---
 title: RotateMarkers
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает следует ли вращать маркеры вдоль линии.
+description: Указывает следует ли поворачивать маркеры вдоль линии.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.rendering.symbolizers/markerline/rotatemarkers/
 ---
 ## MarkerLine.RotateMarkers property
 
-Указывает, следует ли вращать маркеры вдоль линии.
+Указывает, следует ли поворачивать маркеры вдоль линии.
 
 ```csharp
 public bool RotateMarkers { get; set; }

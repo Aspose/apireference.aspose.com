@@ -16,12 +16,12 @@ public static Measurement operator *(Measurement measurement, double factor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| measurement | Measurement | 测量乘法。 |
-| factor | Double | 要划分的因子。 |
+| measurement | Measurement | 测量乘以。 |
+| factor | Double | 要划分的因素。 |
 
 ### 返回值
 
-使用[`Value`](../value)乘以因子的测量值。
+测量与[`Value`](../value)乘以系数。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: NullColorizer
 second_title: Справочник по Aspose.GIS for .NET API
-description: NullColorizer ничего не рисует и эффективно пропускает рендеринг растровой ячейки к которой он применяется.
+description: NullColorizer ничего не рисует и фактически пропускает рендеринг растровой ячейки к которой он применяется.
 type: docs
-weight: 1410
+weight: 1420
 url: /ru/net/aspose.gis.rendering.colorizers/nullcolorizer/
 ---
 ## NullColorizer class
 
-NullColorizer ничего не рисует и эффективно пропускает рендеринг растровой ячейки, к которой он применяется.
+`NullColorizer` ничего не рисует и фактически пропускает рендеринг растровой ячейки, к которой он применяется.
 
 ```csharp
 public class NullColorizer : RasterColorizer
@@ -18,7 +18,7 @@ public class NullColorizer : RasterColorizer
 
 | Имя | Описание |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance) { get; } | Получает экземпляр` NullColorizer` . |
+| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance) { get; } | Получает экземпляр`NullColorizer` . |
 
 ### Смотрите также
 

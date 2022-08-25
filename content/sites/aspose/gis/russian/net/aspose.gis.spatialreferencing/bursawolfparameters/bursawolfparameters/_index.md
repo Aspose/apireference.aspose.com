@@ -1,14 +1,14 @@
 ---
 title: BursaWolfParameters
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новый экземплярBursaWolfParametersaspose.gis.spatialreferencing/bursawolfparameters.
+description: Создает новый экземплярBursaWolfParametersaspose.gis.spatialreferencing/bursawolfparameters .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.spatialreferencing/bursawolfparameters/bursawolfparameters/
 ---
 ## BursaWolfParameters(double, double, double) {#constructor}
 
-Создает новый экземпляр[`BursaWolfParameters`](../../bursawolfparameters).
+Создает новый экземпляр[`BursaWolfParameters`](../../bursawolfparameters) .
 
 ```csharp
 public BursaWolfParameters(double dx, double dy, double dz)
@@ -16,9 +16,9 @@ public BursaWolfParameters(double dx, double dy, double dz)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dx | Double | Dx в метрах. |
-| dy | Double | Dy в метрах. |
-| dz | Double | Dz в метрах. |
+| dx | Double | Дх в метрах. |
+| dy | Double | Ды в метрах. |
+| dz | Double | Дз в метрах. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public BursaWolfParameters(double dx, double dy, double dz)
 
 ## BursaWolfParameters(double, double, double, double, double, double, double) {#constructor_1}
 
-Создает новый экземпляр[`BursaWolfParameters`](../../bursawolfparameters).
+Создает новый экземпляр[`BursaWolfParameters`](../../bursawolfparameters) .
 
 ```csharp
 public BursaWolfParameters(double dx, double dy, double dz, double rx, double ry, double rz, 
@@ -39,13 +39,13 @@ public BursaWolfParameters(double dx, double dy, double dz, double rx, double ry
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dx | Double | Dx в метрах. |
-| dy | Double | Dy в метрах. |
-| dz | Double | Dz в метрах. |
+| dx | Double | Дх в метрах. |
+| dy | Double | Ды в метрах. |
+| dz | Double | Дз в метрах. |
 | rx | Double | Rx в секундах. |
-| ry | Double | Ry в секундах. |
+| ry | Double | Рай за секунды. |
 | rz | Double | Rz в секундах. |
-| scale | Double | Масштаб в частях на миллион. |
+| scale | Double | Шкала в частях на миллион. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ICompoundCurve
 second_title: Aspose.GIS for .NET API 参考
-description: 表示一系列连续曲线的曲线相邻曲线在其端点处连接
+description: 表示连续曲线序列的曲线相邻曲线在其端点处连接
 type: docs
-weight: 860
+weight: 870
 url: /zh/net/aspose.gis.geometries/icompoundcurve/
 ---
 ## ICompoundCurve interface
 
-表示一系列连续曲线的曲线，相邻曲线在其端点处连接。
+表示连续曲线序列的曲线，相邻曲线在其端点处连接。
 
 ```csharp
 public interface ICompoundCurve : ICurve, IEnumerable<ICurve>, IEquatable<ICompoundCurve>
@@ -18,8 +18,8 @@ public interface ICompoundCurve : ICurve, IEnumerable<ICurve>, IEquatable<ICompo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.gis.geometries/icompoundcurve/count) { get; } | 获取[`ICompoundCurve`](../icompoundcurve)中的曲线数。 |
-| [Item](../../aspose.gis.geometries/icompoundcurve/item) { get; } | 获取指定索引处的[`ICurve`](../icurve)。 |
+| [Count](../../aspose.gis.geometries/icompoundcurve/count) { get; } | 获取曲线的数量[`ICompoundCurve`](../icompoundcurve). |
+| [Item](../../aspose.gis.geometries/icompoundcurve/item) { get; } | 获取[`ICurve`](../icurve)在指定的索引处。 |
 
 ## 方法
 

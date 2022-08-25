@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.GIS for .NET API
-description: ПолучаетIGeometryaspose.gis.geometries/igeometryпо указанному индексу.
+description: ПолучаетIGeometryaspose.gis.geometries/igeometry по указанному индексу.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.geometries/igeometrycollection/item/
 ---
 ## IGeometryCollection indexer
 
-Получает[`IGeometry`](../../igeometry)по указанному индексу.
+Получает[`IGeometry`](../../igeometry) по указанному индексу.
 
 ```csharp
 public IGeometry this[int index] { get; }
@@ -20,7 +20,7 @@ public IGeometry this[int index] { get; }
 
 ### Стоимость имущества
 
-The[`IGeometry`](../../igeometry).
+[`IGeometry`](../../igeometry) .
 
 ### Исключения
 

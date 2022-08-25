@@ -1,14 +1,14 @@
 ---
 title: PrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: ВыдаетInvalidOperationException так как Local SRS не имеет нулевого меридиана.
+description: ВыбрасываетInvalidOperationException  так как местный SRS не имеет нулевого меридиана.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.spatialreferencing/localspatialreferencesystem/primemeridian/
 ---
 ## LocalSpatialReferenceSystem.PrimeMeridian property
 
-ВыдаетInvalidOperationException, так как Local SRS не имеет нулевого меридиана.
+ВыбрасываетInvalidOperationException , так как местный SRS не имеет нулевого меридиана.
 
 ```csharp
 public override PrimeMeridian PrimeMeridian { get; }

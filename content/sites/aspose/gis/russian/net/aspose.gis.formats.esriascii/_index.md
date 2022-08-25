@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.EsriAscii
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Aspose.Gis.Formats.EsriAsciiПространство имен предоставляет классы для работы с форматом EsriAscii.
+description: Aspose.Gis.Formats.EsriAscii namespace предоставляет классы для работы с форматом EsriAscii.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.esriascii/
 ---
-` Aspose.Gis.Formats.EsriAscii`Пространство имен предоставляет классы для работы с форматом EsriAscii.
+`Aspose.Gis.Formats.EsriAscii` namespace предоставляет классы для работы с форматом EsriAscii.
 
 ## Классы
 

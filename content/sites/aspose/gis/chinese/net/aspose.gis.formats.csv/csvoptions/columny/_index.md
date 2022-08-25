@@ -1,14 +1,14 @@
 ---
 title: ColumnY
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置包含 Y 坐标值的列名 默认为null
+description: 获取或设置包含 Y 坐标值的列名 默认为null.
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.csv/csvoptions/columny/
 ---
 ## CsvOptions.ColumnY property
 
-获取或设置包含 Y 坐标值的列名。 默认为`null`。
+获取或设置包含 Y 坐标值的列名。 默认为`null`.
 
 ```csharp
 public string ColumnY { get; set; }
@@ -16,7 +16,7 @@ public string ColumnY { get; set; }
 
 ### 评论
 
-如果列值为`null`或 &lt;see langword="empty string" /&gt; 将不会创建点几何图形。
+如果列值为`null`或者`empty string`不会创建点几何图形。
 
 ### 也可以看看
 

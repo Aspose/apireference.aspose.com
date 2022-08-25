@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API 参考
-description: 获取此实例的 SpatialReferenceSystem 如果 SpatialReferenceSystem 未知此属性可以是null
+description: 获取该实例的SpatialReferenceSystem 该属性可以是null 如果 SpatialReferenceSystem 未知
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.geometries/igeometry/spatialreferencesystem/
 ---
 ## IGeometry.SpatialReferenceSystem property
 
-获取此实例的 SpatialReferenceSystem。 如果 SpatialReferenceSystem 未知，此属性可以是`null`。
+获取该实例的SpatialReferenceSystem。 该属性可以是`null` ，如果 SpatialReferenceSystem 未知。
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; }

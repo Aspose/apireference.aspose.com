@@ -1,14 +1,14 @@
 ---
 title: Ellipsoid
 second_title: Справочник по Aspose.GIS for .NET API
-description: Эллипсоид используемый в этой системе отсчета для аппроксимации Земли.
+description: Эллипсоид используемый в этой системе координат для аппроксимации Земли.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.spatialreferencing/geographicdatum/ellipsoid/
 ---
 ## GeographicDatum.Ellipsoid property
 
-Эллипсоид, используемый в этой системе отсчета для аппроксимации Земли.
+Эллипсоид, используемый в этой системе координат для аппроксимации Земли.
 
 ```csharp
 public Ellipsoid Ellipsoid { get; }

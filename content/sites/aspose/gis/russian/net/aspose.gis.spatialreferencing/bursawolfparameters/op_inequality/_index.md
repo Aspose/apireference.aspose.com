@@ -16,8 +16,8 @@ public static bool operator !=(BursaWolfParameters a, BursaWolfParameters b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | BursaWolfParameters | Экземпляр A. |
-| b | BursaWolfParameters | Экземпляр B. |
+| a | BursaWolfParameters | Экземпляр А. |
+| b | BursaWolfParameters | Экземпляр Б. |
 
 ### Возвращаемое значение
 

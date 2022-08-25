@@ -1,14 +1,14 @@
 ---
 title: RasterBand
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создать экземплярRasterBandaspose.gis.raster/rasterband.
+description: Создать экземплярRasterBandaspose.gis.raster/rasterband .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.raster/rasterband/rasterband/
 ---
 ## RasterBand constructor
 
-Создать экземпляр[`RasterBand`](../../rasterband).
+Создать экземпляр[`RasterBand`](../../rasterband) .
 
 ```csharp
 public RasterBand(BandTypes dataType)

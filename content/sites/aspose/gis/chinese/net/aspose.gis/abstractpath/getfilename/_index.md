@@ -1,14 +1,14 @@
 ---
 title: GetFileName
 second_title: Aspose.GIS for .NET API 参考
-description: 返回此AbstractPathaspose.gis/abstractpath的文件名和扩展名
+description: 返回此文件的文件名和扩展名AbstractPathaspose.gis/abstractpath.
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/abstractpath/getfilename/
 ---
 ## AbstractPath.GetFileName method
 
-返回此[`AbstractPath`](../../abstractpath)的文件名和扩展名。
+返回此文件的文件名和扩展名[`AbstractPath`](../../abstractpath).
 
 ```csharp
 public string GetFileName()
@@ -16,11 +16,11 @@ public string GetFileName()
 
 ### 返回值
 
-最后一个Separator之后的字符如果[`Location`](../location)中的字符。 最后一个字符是[`Separator`](../separator)字符，则返回一个空字符串。如果[`Location`](../location)中没有 [`Separator`](../separator)字符，则[`Location`](../location)本身 被返回。
+最后一个之后的字符[`Separator`](../separator)中的人物[`Location`](../location).如果 the 最后一个字符是[`Separator`](../separator)字符，返回一个空字符串。如果没有 [`Separator`](../separator)中的字符[`Location`](../location)， 这[`Location`](../location)返回本身 。
 
 ### 例子
 
-对于` AbstractPath`[`Location`](../location)等于` "/directory/file.txt"` 和[`Separator`](../separator)等于` '/'` ，此方法返回` "file.txt"` 。
+对于一个`抽象路径`和[`Location`](../location)等于`“/目录/文件.txt”` 和[`Separator`](../separator)等于`/'` 这个方法返回`“文件.txt”`.
 
 ### 也可以看看
 

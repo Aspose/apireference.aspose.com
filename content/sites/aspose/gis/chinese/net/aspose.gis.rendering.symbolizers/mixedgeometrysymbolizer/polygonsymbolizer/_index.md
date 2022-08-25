@@ -1,14 +1,14 @@
 ---
 title: PolygonSymbolizer
 second_title: Aspose.GIS for .NET API 参考
-description: 指定用于图层中多边形几何的符号器
+description: 指定用于图层中的多边形几何图形的符号器
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer/
 ---
 ## MixedGeometrySymbolizer.PolygonSymbolizer property
 
-指定用于图层中多边形几何的符号器。
+指定用于图层中的多边形几何图形的符号器。
 
 ```csharp
 public VectorSymbolizer PolygonSymbolizer { get; set; }

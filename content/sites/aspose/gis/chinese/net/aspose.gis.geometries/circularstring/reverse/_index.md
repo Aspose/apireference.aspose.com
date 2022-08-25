@@ -1,14 +1,14 @@
 ---
 title: Reverse
 second_title: Aspose.GIS for .NET API 参考
-description: 反转此CircularStringaspose.gis.geometries/circularstring中的点顺序
+description: 颠倒此点的顺序CircularStringaspose.gis.geometries/circularstring.
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.geometries/circularstring/reverse/
 ---
 ## CircularString.Reverse method
 
-反转此[`CircularString`](../../circularstring)中的点顺序。
+颠倒此点的顺序[`CircularString`](../../circularstring).
 
 ```csharp
 public override void Reverse()

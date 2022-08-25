@@ -24,9 +24,9 @@ public class KmlItemIcon
 
 | Имя | Описание |
 | --- | --- |
-| [Href](../../aspose.gis.formats.kml.styles/kmlitemicon/href) { get; set; } | Указывает расположение ресурса в виде URL-адреса. Значение по умолчанию:`null`означает, что href отсутствует. |
-| [State](../../aspose.gis.formats.kml.styles/kmlitemicon/state) { get; set; } | Определяет текущее состояние NetworkLink или папки. Значение по умолчанию:None. |
-| [SubState](../../aspose.gis.formats.kml.styles/kmlitemicon/substate) { get; set; } | Указывает дополнительное состояние NetworkLink или папки. Значение по умолчанию:None. |
+| [Href](../../aspose.gis.formats.kml.styles/kmlitemicon/href) { get; set; } | Указывает расположение ресурса в виде URL-адреса. Значение по умолчанию:`null` означает, что href отсутствует. |
+| [State](../../aspose.gis.formats.kml.styles/kmlitemicon/state) { get; set; } | Указывает текущее состояние NetworkLink или папки. Значение по умолчанию:None . |
+| [SubState](../../aspose.gis.formats.kml.styles/kmlitemicon/substate) { get; set; } | Указывает дополнительное состояние NetworkLink или Folder. Значение по умолчанию:None . |
 
 ### Смотрите также
 

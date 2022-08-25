@@ -17,7 +17,7 @@ public static VectorLayer Create(string path, FileDriver driver)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
+| driver | FileDriver | Драйвер для использования. |
 
 ### Возвращаемое значение
 
@@ -27,10 +27,10 @@ public static VectorLayer Create(string path, FileDriver driver)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -52,8 +52,8 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
-| options | DriverOptions | Опции драйвера. |
+| driver | FileDriver | Драйвер для использования. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -63,10 +63,10 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -89,7 +89,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
+| driver | FileDriver | Драйвер для использования. |
 
 ### Возвращаемое значение
 
@@ -99,10 +99,10 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -125,8 +125,8 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
-| options | DriverOptions | Опции драйвера. |
+| driver | FileDriver | Драйвер для использования. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -136,10 +136,10 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -164,7 +164,7 @@ public static VectorLayer Create(string path, FileDriver driver,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
+| driver | FileDriver | Драйвер для использования. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета. |
 
 ### Возвращаемое значение
@@ -175,10 +175,10 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Используйте[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem)чтобы проверить, поддерживается ли система пространственной привязки. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
 
 ### Смотрите также
 
@@ -202,7 +202,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
+| driver | FileDriver | Драйвер для использования. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета. |
 
 ### Возвращаемое значение
@@ -213,10 +213,10 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Используйте[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem)чтобы проверить, поддерживается ли система пространственной привязки. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
 
 ### Смотрите также
 
@@ -241,8 +241,8 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
-| options | DriverOptions | Опции драйвера. |
+| driver | FileDriver | Драйвер для использования. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета. |
 
 ### Возвращаемое значение
@@ -253,11 +253,11 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Используйте[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem)чтобы проверить, поддерживается ли система пространственной привязки. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
 
 ### Смотрите также
 
@@ -282,8 +282,8 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| driver | FileDriver | Используемый драйвер. |
-| options | DriverOptions | Опции драйвера. |
+| driver | FileDriver | Драйвер для использования. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета. |
 
 ### Возвращаемое значение
@@ -294,11 +294,11 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Используйте[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem)чтобы проверить, поддерживается ли система пространственной привязки. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
 
 ### Смотрите также
 

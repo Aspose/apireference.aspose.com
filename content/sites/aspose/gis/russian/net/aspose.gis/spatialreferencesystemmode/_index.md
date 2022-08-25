@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystemMode
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает режим записи пространственной системы отсчета SRS в базу данных если это неизвестная SRS.
+description: Задает режим записи пространственной системы отсчета SRS в базу данных  если это неизвестная SRS.
 type: docs
-weight: 1910
+weight: 1920
 url: /ru/net/aspose.gis/spatialreferencesystemmode/
 ---
 ## SpatialReferenceSystemMode enumeration
 
-Задает режим записи пространственной системы отсчета (SRS) в базу данных если это неизвестная SRS.
+Задает режим записи пространственной системы отсчета (SRS) в базу данных , если это неизвестная SRS.
 
 ```csharp
 public enum SpatialReferenceSystemMode
@@ -18,8 +18,8 @@ public enum SpatialReferenceSystemMode
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| ThrowException | `0` | Генерировать исключения, если это неизвестная SRS для базы данных. |
-| WriteInSystemTable | `1` | Записать информацию SRS в системную таблицу, если это неизвестная SRS для базы данных. |
+| ThrowException | `0` | Генерируйте исключения, если это неизвестная служба SRS для базы данных. |
+| WriteInSystemTable | `1` | Запишите информацию SRS в системную таблицу, если это неизвестная SRS для базы данных. |
 | SetupToZero | `2` | Установите SRID геометрии на «ноль», если это неизвестная SRS для базы данных. |
 
 ### Смотрите также

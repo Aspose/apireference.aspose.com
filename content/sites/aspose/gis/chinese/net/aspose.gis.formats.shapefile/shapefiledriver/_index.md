@@ -27,25 +27,25 @@ public class ShapefileDriver : FileDriver
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath) | 创建数据集。 |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string) | 创建数据集。 |
-| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath, DriverOptions) | 创建数据集。 |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string, DriverOptions) | 创建数据集。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, DriverOptions) | 创建图层并将其打开以进行附加。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string) | 创建一个数据集。 |
+| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath, DriverOptions) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string, DriverOptions) | 创建一个数据集。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, DriverOptions) | 创建图层并打开它以进行附加。 |
 | [CreateLayer](../../aspose.gis.formats.shapefile/shapefiledriver/createlayer#createlayer_3)(AbstractPath, ShapefileOptions) | 创建一个图层并打开它以添加新功能。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions) | 创建图层并将其打开以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions) | 创建图层并打开它以进行附加。 |
 | [CreateLayer](../../aspose.gis.formats.shapefile/shapefiledriver/createlayer#createlayer_9)(string, ShapefileOptions) | 创建一个图层并打开它以添加新功能。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
 | override [CreateLayer](../../aspose.gis.formats.shapefile/shapefiledriver/createlayer#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | 创建一个图层并打开它以添加新功能。 |
 | [CreateLayer](../../aspose.gis.formats.shapefile/shapefiledriver/createlayer#createlayer_4)(AbstractPath, ShapefileOptions, SpatialReferenceSystem) | 创建一个图层并打开它以添加新功能。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
-| override [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer#editlayer)(AbstractPath, DriverOptions) | 打开图层进行编辑。 |
-| [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer#editlayer_1)(AbstractPath, ShapefileOptions) | 打开图层进行编辑。 |
-| [EditLayer](../../aspose.gis/filedriver/editlayer)(string, DriverOptions) | 打开图层进行编辑。 |
-| [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer#editlayer_3)(string, ShapefileOptions) | 打开图层进行编辑。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
+| override [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer#editlayer)(AbstractPath, DriverOptions) | 打开一个图层进行编辑。 |
+| [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer#editlayer_1)(AbstractPath, ShapefileOptions) | 打开一个图层进行编辑。 |
+| [EditLayer](../../aspose.gis/filedriver/editlayer)(string, DriverOptions) | 打开一个图层进行编辑。 |
+| [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer#editlayer_3)(string, ShapefileOptions) | 打开一个图层进行编辑。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset)(AbstractPath) | 打开数据集。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset)(string) | 打开数据集。 |
 | virtual [OpenDataset](../../aspose.gis/filedriver/opendataset)(AbstractPath, DriverOptions) | 打开数据集。 |

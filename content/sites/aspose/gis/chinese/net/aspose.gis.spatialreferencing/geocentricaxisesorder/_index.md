@@ -3,7 +3,7 @@ title: GeocentricAxisesOrder
 second_title: Aspose.GIS for .NET API 参考
 description: 表示地心 SRS 中的轴顺序
 type: docs
-weight: 1970
+weight: 1980
 url: /zh/net/aspose.gis.spatialreferencing/geocentricaxisesorder/
 ---
 ## GeocentricAxisesOrder enumeration
@@ -20,7 +20,7 @@ public enum GeocentricAxisesOrder
 | --- | --- | --- |
 | Invalid | `-1` | 地心 SRS 无效，无法确定轴顺序。 |
 | XYZ | `0` | 顺序是 X、Y、Z。 |
-| XZY | `1` | 顺序为 X、Z、Y。 |
+| XZY | `1` | 顺序是 X、Z、Y。 |
 | YXZ | `2` | 顺序为 Y、X、Z。 |
 | YZX | `3` | 顺序是 Y、Z、X。 |
 | ZXY | `4` | 顺序为 Z、X、Y。 |

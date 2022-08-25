@@ -22,7 +22,7 @@ public ILinearRing ExteriorRing { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)этого геометрия и[`SpatialReferenceSystem`](../spatialreferencesystem)аргумента не являются`null` и не равны друг другу . |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) этой геометрии и[`SpatialReferenceSystem`](../spatialreferencesystem) аргумента оба не`null` и не равны друг другу. |
 
 ### Смотрите также
 

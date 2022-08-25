@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/
 ---
 ## KmlAbstractColorStyle.ColorMode property
 
-指定图形元素的颜色模式。默认值:正常。
+指定图形元素的颜色模式。默认值：正常。
 
 ```csharp
 public KmlColorModes ColorMode { get; set; }

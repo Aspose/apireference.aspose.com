@@ -20,19 +20,19 @@ public bool Disjoint(IGeometry other)
 
 ### Возвращаемое значение
 
-`true`если эта геометрия "пространственно не пересекается" с другой геометрией.`false`иначе.
+`true` если эта геометрия «пространственно не пересекается» с другой геометрией.`false` иначе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Одна из геометрий недействительна, поэтому операция не может быть завершена. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Примечания
 
-Этот метод проверяет, не пересекаются ли геометрии с точки зрения матрицы пересечения DE-9IM. По сути, он проверяет, что две геометрии не имеют общих точек.&lt;cr /&gt; Этот метод эквивалентен: Дополнительные сведения о DE-9IM см. в Спецификации простых функций OpenGIS.
+Этот метод проверяет, не пересекаются ли геометрии с точки зрения матрицы пересечения DE-9IM. По сути, он проверяет, что две геометрии не имеют общих точек. Этот метод эквивалентен: Дополнительные сведения о DE-9IM см. в Спецификации простых функций OpenGIS.
 
 ```csharp
 this.Relate(other, "FF*FF****");

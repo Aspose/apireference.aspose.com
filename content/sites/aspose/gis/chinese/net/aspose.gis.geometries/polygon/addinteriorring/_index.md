@@ -1,14 +1,14 @@
 ---
 title: AddInteriorRing
 second_title: Aspose.GIS for .NET API 参考
-description: 添加内环
+description: 添加一个内环
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.geometries/polygon/addinteriorring/
 ---
 ## Polygon.AddInteriorRing method
 
-添加内环。
+添加一个内环。
 
 ```csharp
 public void AddInteriorRing(ILinearRing ring)
@@ -16,14 +16,14 @@ public void AddInteriorRing(ILinearRing ring)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| ring | ILinearRing | 要添加的环。 |
+| ring | ILinearRing | 要添加的戒指。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这个几何和[`SpatialReferenceSystem`](../spatialreferencesystem)的参数都不是 `null`并且彼此不相等。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这种几何形状和[`SpatialReferenceSystem`](../spatialreferencesystem)论点都是 not `null`并且不等于彼此。 |
 
 ### 也可以看看
 

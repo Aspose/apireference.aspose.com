@@ -16,9 +16,9 @@ public VerticalDatum(string name, int datumType, Identifier identifier = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | имя базы. |
-| datumType | Int32 | целое число, представляющее тип датума. |
-| identifier | Identifier | идентификатор базы. |
+| name | String | имя датума. |
+| datumType | Int32 | целое число, представляющее тип данных. |
+| identifier | Identifier | идентификатор данных. |
 
 ### Смотрите также
 

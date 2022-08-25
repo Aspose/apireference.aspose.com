@@ -16,7 +16,7 @@ public bool IsClockwise()
 
 ### 返回值
 
-`true`如果顺时针；否则`false`。
+`true`如果顺时针；否则`false`.
 
 ### 也可以看看
 

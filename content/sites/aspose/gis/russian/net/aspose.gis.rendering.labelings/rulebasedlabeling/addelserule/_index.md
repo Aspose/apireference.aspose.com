@@ -1,14 +1,14 @@
 ---
 title: AddElseRule
 second_title: Справочник по Aspose.GIS for .NET API
-description: Добавляет метку которая будет применяться к функциям не соответствующим ни одному правилу фильтрации.
+description: Добавляет метку которая будет применяться к функциям которые не соответствуют ни одному правилу фильтрации.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.rendering.labelings/rulebasedlabeling/addelserule/
 ---
 ## RuleBasedLabeling.AddElseRule method
 
-Добавляет метку, которая будет применяться к функциям, не соответствующим ни одному правилу фильтрации.
+Добавляет метку, которая будет применяться к функциям, которые не соответствуют ни одному правилу фильтрации.
 
 ```csharp
 public void AddElseRule(Labeling labeling)
@@ -22,7 +22,7 @@ public void AddElseRule(Labeling labeling)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

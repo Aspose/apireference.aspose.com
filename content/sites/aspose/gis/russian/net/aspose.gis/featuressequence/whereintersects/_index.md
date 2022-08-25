@@ -1,14 +1,14 @@
 ---
 title: WhereIntersects
 second_title: Справочник по Aspose.GIS for .NET API
-description: Фильтрация объектов на основе объединения всех геометрий в другой последовательности объектов.
+description: Фильтрует объекты на основе объединения всех геометрий в другой последовательности объектов.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis/featuressequence/whereintersects/
 ---
 ## WhereIntersects(FeaturesSequence) {#whereintersects_1}
 
-Фильтрация объектов на основе объединения всех геометрий в другой последовательности объектов.
+Фильтрует объекты на основе объединения всех геометрий в другой последовательности объектов.
 
 ```csharp
 public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
@@ -40,11 +40,11 @@ public virtual FeaturesSequence WhereIntersects(IGeometry geometry)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| геометрия | IGeometry | Геометрия фильтра. |
+| geometry | IGeometry | Геометрия фильтра. |
 
 ### Возвращаемое значение
 
-Элементы, которые пересекаются с заданной геометрией.
+Элементы, которые пересекаются с предоставленной геометрией.
 
 ### Смотрите также
 
@@ -57,7 +57,7 @@ public virtual FeaturesSequence WhereIntersects(IGeometry geometry)
 
 ## WhereIntersects(Extent) {#whereintersects}
 
-Фильтрует объекты по экстенту.
+Фильтрует объекты на основе экстента.
 
 ```csharp
 public virtual FeaturesSequence WhereIntersects(Extent extent)
@@ -65,11 +65,11 @@ public virtual FeaturesSequence WhereIntersects(Extent extent)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| extent | Extent | Экстент фильтра. |
+| extent | Extent | Степень фильтра. |
 
 ### Возвращаемое значение
 
-Элементы, которые пересекаются с заданной геометрией.
+Элементы, которые пересекаются с предоставленной геометрией.
 
 ### Смотрите также
 

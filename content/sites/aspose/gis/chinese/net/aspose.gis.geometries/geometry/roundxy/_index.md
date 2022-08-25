@@ -22,7 +22,7 @@ public void RoundXY(int digits)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | *digits*小于 0 或大于 15。 |
+| ArgumentOutOfRangeException | *digits*小于 0 或大于 15. |
 
 ### 也可以看看
 

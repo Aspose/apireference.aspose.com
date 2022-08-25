@@ -18,8 +18,8 @@ public static class GeoConvert
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [AsPointText](../../aspose.gis/geoconvert/aspointtext#aspointtext)(IPoint, PointFormats) | 以指定格式将计算的位置作为字符串返回。 |
-| static [AsPointText](../../aspose.gis/geoconvert/aspointtext#aspointtext_1)(double, double, PointFormats) | 以指定格式将计算的位置作为字符串返回。 |
+| static [AsPointText](../../aspose.gis/geoconvert/aspointtext#aspointtext)(IPoint, PointFormats) | 将计算出的位置作为指定格式的字符串返回。 |
+| static [AsPointText](../../aspose.gis/geoconvert/aspointtext#aspointtext_1)(double, double, PointFormats) | 将计算出的位置作为指定格式的字符串返回。 |
 | static [ParsePointText](../../aspose.gis/geoconvert/parsepointtext)(string) | 将包含坐标的字符串转换为 IPoint 对象。 |
 | static [TryParsePointText](../../aspose.gis/geoconvert/tryparsepointtext)(string, out IPoint) | 将包含坐标的字符串转换为 IPoint 对象。返回值指示转换是成功还是失败。 |
 

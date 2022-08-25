@@ -16,20 +16,20 @@ public void ImportSldFromString(string sld, SldImportOptions options = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sld | String | 样式层描述符。 |
+| sld | String | 样式化层描述符。 |
 | options | SldImportOptions | 导入选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 | XmlException | 解析 XML 时出错。 |
-| FormatException | 在 XML 中找不到 SLD 样式。 |
+| FormatException | 在 XML 中未找到 SLD 样式。 |
 
 ### 评论
 
-此方法覆盖[`Symbolizer`](../symbolizer)属性的值。
+此方法覆盖[`Symbolizer`](../symbolizer)属性.
 
 ### 也可以看看
 

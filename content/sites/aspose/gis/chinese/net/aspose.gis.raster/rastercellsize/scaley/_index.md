@@ -1,14 +1,14 @@
 ---
 title: ScaleY
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置像素高度的 y 分量y 比例通常为负数
+description: 获取或设置像素高度的 y 分量y 比例通常为负值
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.raster/rastercellsize/scaley/
 ---
 ## RasterCellSize.ScaleY property
 
-获取或设置像素高度的 y 分量（y 比例），通常为负数。
+获取或设置像素高度的 y 分量（y 比例），通常为负值。
 
 ```csharp
 public double ScaleY { get; set; }

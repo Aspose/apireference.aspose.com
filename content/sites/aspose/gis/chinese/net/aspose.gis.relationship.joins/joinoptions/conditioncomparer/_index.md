@@ -16,7 +16,7 @@ public IEqualityComparer<object> ConditionComparer { get; set; }
 
 ### 评论
 
-默认判断两个对象是否相等:
+默认判断两个对象是否相等：
 
 ```csharp
 EqualityComparer<object>.Default;  

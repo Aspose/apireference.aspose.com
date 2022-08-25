@@ -1,14 +1,14 @@
 ---
 title: DeleteNearPoints
 second_title: Aspose.GIS for .NET API 参考
-description: 确定是否删除每个几何图形中的近点默认为false
+description: 确定是否删除每个几何图形中的近点默认为false.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/driveroptions/deletenearpoints/
 ---
 ## DriverOptions.DeleteNearPoints property
 
-确定是否删除每个几何图形中的近点。默认为`false`。
+确定是否删除每个几何图形中的近点。默认为`false`.
 
 ```csharp
 public bool DeleteNearPoints { get; set; }

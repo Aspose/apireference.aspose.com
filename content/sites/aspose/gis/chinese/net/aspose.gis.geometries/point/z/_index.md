@@ -18,7 +18,7 @@ public double Z { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 几何体没有 Z 坐标。 |
+| InvalidOperationException | 几何图形没有 Z 坐标。 |
 
 ### 也可以看看
 

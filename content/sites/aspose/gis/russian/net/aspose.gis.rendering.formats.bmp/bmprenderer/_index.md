@@ -1,14 +1,14 @@
 ---
 title: BmpRenderer
 second_title: Справочник по Aspose.GIS for .NET API
-description: ARenderer../aspose.gis.rendering/rendererкоторый рендеритMap../aspose.gis.rendering/mapв файл BMP.
+description: АRenderer../aspose.gis.rendering/renderer что делаетMap../aspose.gis.rendering/map в файл BMP.
 type: docs
-weight: 1450
+weight: 1460
 url: /ru/net/aspose.gis.rendering.formats.bmp/bmprenderer/
 ---
 ## BmpRenderer class
 
-A[`Renderer`](../../aspose.gis.rendering/renderer)который рендерит[`Map`](../../aspose.gis.rendering/map)в файл BMP.
+А[`Renderer`](../../aspose.gis.rendering/renderer) что делает[`Map`](../../aspose.gis.rendering/map) в файл BMP.
 
 ```csharp
 public class BmpRenderer : Renderer
@@ -18,8 +18,8 @@ public class BmpRenderer : Renderer
 
 | Имя | Описание |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render)(Map, AbstractPath) | Отображает карту. |
-| [Render](../../aspose.gis.rendering/renderer/render)(Map, string) | Отображает карту. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, AbstractPath) | Визуализирует карту. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, string) | Визуализирует карту. |
 
 ### Смотрите также
 

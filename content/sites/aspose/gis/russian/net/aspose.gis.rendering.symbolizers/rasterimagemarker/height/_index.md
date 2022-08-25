@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает высоту маркера.
+description: Определяет высоту маркера.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.rendering.symbolizers/rasterimagemarker/height/
 ---
 ## RasterImageMarker.Height property
 
-Задает высоту маркера.
+Определяет высоту маркера.
 
 ```csharp
 public Measurement Height { get; set; }

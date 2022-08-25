@@ -1,14 +1,14 @@
 ---
 title: AsCompound
 second_title: Справочник по Aspose.GIS for .NET API
-description: Верните это.
+description: Вернуть это.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/ascompound/
 ---
 ## CompoundSpatialReferenceSystem.AsCompound property
 
-Верните это.
+Вернуть это.
 
 ```csharp
 public override CompoundSpatialReferenceSystem AsCompound { get; }

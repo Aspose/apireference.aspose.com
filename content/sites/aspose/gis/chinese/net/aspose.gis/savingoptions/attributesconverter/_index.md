@@ -1,14 +1,14 @@
 ---
 title: AttributesConverter
 second_title: Aspose.GIS for .NET API 参考
-description: 属性的自定义转换器 如果不是null则为源层的每个属性调用它并在必要时对其进行更改
+description: 属性的自定义转换器 如果不是null为源层的每个属性调用它并在必要时对其进行更改
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/savingoptions/attributesconverter/
 ---
 ## SavingOptions.AttributesConverter property
 
-属性的自定义转换器。 如果不是`null`，则为源层的每个属性调用它，并在必要时对其进行更改。
+属性的自定义转换器。 如果不是`null`，为源层的每个属性调用它，并在必要时对其进行更改。
 
 ```csharp
 public IAttributesConverter AttributesConverter { get; set; }
@@ -16,7 +16,7 @@ public IAttributesConverter AttributesConverter { get; set; }
 
 ### 评论
 
-属性名称和数据类型无法更改。
+属性名称和数据类型不能更改。
 
 ### 也可以看看
 

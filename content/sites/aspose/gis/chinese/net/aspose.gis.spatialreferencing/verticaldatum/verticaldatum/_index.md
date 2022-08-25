@@ -18,7 +18,7 @@ public VerticalDatum(string name, int datumType, Identifier identifier = null)
 | --- | --- | --- |
 | name | String | 基准名称。 |
 | datumType | Int32 | 整数，表示基准类型。 |
-| identifier | Identifier | 数据标识符。 |
+| identifier | Identifier | 基准的标识符。 |
 
 ### 也可以看看
 

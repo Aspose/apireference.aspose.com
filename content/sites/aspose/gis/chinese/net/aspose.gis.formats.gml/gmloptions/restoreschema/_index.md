@@ -1,14 +1,14 @@
 ---
 title: RestoreSchema
 second_title: Aspose.GIS for .NET API 参考
-description: 确定是否允许 Aspose.GIS 解析 Gml 文件中缺少或无法加载 XML 模式的属性 如果设置为trueAspose.GIS 阅读器不需要存在 XML 模式 默认为false
+description: 确定是否允许 Aspose.GIS 解析 Gml 文件中缺少或无法加载 XML 模式的属性 如果设置为true Aspose.GIS 阅读器不需要存在 XML Schema. 默认为false.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.gml/gmloptions/restoreschema/
 ---
 ## GmlOptions.RestoreSchema property
 
-确定是否允许 Aspose.GIS 解析 Gml 文件中缺少或无法加载 XML 模式的属性。 如果设置为`true`，Aspose.GIS 阅读器不需要存在 XML 模式。 默认为`false`。
+确定是否允许 Aspose.GIS 解析 Gml 文件中缺少或无法加载 XML 模式的属性。 如果设置为`true` Aspose.GIS 阅读器不需要存在 XML Schema. 默认为`false`.
 
 ```csharp
 public bool RestoreSchema { get; set; }
@@ -16,7 +16,7 @@ public bool RestoreSchema { get; set; }
 
 ### 评论
 
-驱动程序尝试自动解析要素类及其相关属性 通过扫描文件并寻找“已知”对象以确定组织。 虽然这种方法容易出错，但它的优点是适用于 GML 文件，即使关联的 XML 模式已丢失或无法从 Internet 加载时也是 。
+驱动程序尝试通过扫描文件并查找“已知”对象来自动解析要素类及其相关属性 XML 架构已丢失或无法从 Internet 加载。
 
 ### 也可以看看
 

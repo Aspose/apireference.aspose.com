@@ -1,14 +1,14 @@
 ---
 title: Dimension
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает топологическую размерность этогоGeometryaspose.gis.geometries/geometry.
+description: Получает топологическую размерность этогоGeometryaspose.gis.geometries/geometry .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/curve/dimension/
 ---
 ## Curve.Dimension property
 
-Получает топологическую размерность этого[`Geometry`](../../geometry).
+Получает топологическую размерность этого[`Geometry`](../../geometry) .
 
 ```csharp
 public GeometryDimension Dimension { get; }

@@ -1,14 +1,14 @@
 ---
 title: Label
 second_title: Aspose.GIS for .NET API 参考
-description: 指定如何绘制特征标签 使用null表示缺少样式 默认值为null
+description: 指定如何绘制要素的标签 使用null表示缺少样式 默认值为null.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/label/
 ---
 ## KmlFeatureStyle.Label property
 
-指定如何绘制特征标签。 使用`null`表示缺少样式。 默认值为`null`。
+指定如何绘制要素的标签。 使用`null`表示缺少样式。 默认值为`null`.
 
 ```csharp
 public KmlLabelStyle Label { get; set; }

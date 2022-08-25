@@ -16,7 +16,7 @@ public override bool CanOpenLayers { get; }
 
 ### 适当的价值
 
-`true`，如果此驱动程序可以打开栅格图层；否则，`false`。
+`true` , 如果此驱动程序可以打开栅格图层；否则，`false`.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: InverseFlattening
 second_title: Aspose.GIS for .NET API 参考
-description: 椭圆体的逆展平如果这是一个球体则为 0
+description: 椭球的逆展平如果这是一个球体则为 0
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/ellipsoid/inverseflattening/
 ---
 ## Ellipsoid.InverseFlattening property
 
-椭圆体的逆展平。如果这是一个球体，则为 0。
+椭球的逆展平。如果这是一个球体，则为 0。
 
 ```csharp
 public double InverseFlattening { get; }

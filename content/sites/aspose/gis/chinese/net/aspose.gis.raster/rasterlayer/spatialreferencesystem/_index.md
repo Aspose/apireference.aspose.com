@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API 参考
-description: 获取栅格的空间参考系统 可以是null如果它是未知的
+description: 获取栅格的空间参考系统 可以null如果它是未知的
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.raster/rasterlayer/spatialreferencesystem/
 ---
 ## RasterLayer.SpatialReferenceSystem property
 
-获取栅格的空间参考系统。 可以是`null`如果它是未知的。
+获取栅格的空间参考系统。 可以`null`如果它是未知的。
 
 ```csharp
 public abstract SpatialReferenceSystem SpatialReferenceSystem { get; }

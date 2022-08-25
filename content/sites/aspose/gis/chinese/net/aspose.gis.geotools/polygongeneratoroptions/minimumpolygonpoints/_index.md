@@ -1,14 +1,14 @@
 ---
 title: MinimumPolygonPoints
 second_title: Aspose.GIS for .NET API 参考
-description: 生成多边形的最小长度
+description: 生成的多边形的最小长度
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints/
 ---
 ## PolygonGeneratorOptions.MinimumPolygonPoints property
 
-生成多边形的最小长度。
+生成的多边形的最小长度。
 
 ```csharp
 public int MinimumPolygonPoints { get; set; }

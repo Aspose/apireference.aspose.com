@@ -1,14 +1,14 @@
 ---
 title: OpenLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Открывает набор тайлов.
+description: Открывает набор плиток.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.xyztile/xyztilesdriver/openlayer/
 ---
 ## XyzTilesDriver.OpenLayer method
 
-Открывает набор тайлов.
+Открывает набор плиток.
 
 ```csharp
 public XyzTiles OpenLayer(XyzConnection connection)

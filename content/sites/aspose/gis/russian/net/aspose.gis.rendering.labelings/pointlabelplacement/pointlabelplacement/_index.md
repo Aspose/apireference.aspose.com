@@ -32,13 +32,13 @@ public PointLabelPlacement(PointLabelPlacement other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | PointLabelPlacement | Другой[`PointLabelPlacement`](../../pointlabelplacement)для копирования данных. |
+| other | PointLabelPlacement | Другой[`PointLabelPlacement`](../../pointlabelplacement) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

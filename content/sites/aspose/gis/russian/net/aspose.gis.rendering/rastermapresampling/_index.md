@@ -3,7 +3,7 @@ title: RasterMapResampling
 second_title: Справочник по Aspose.GIS for .NET API
 description: Этот класс описывает как передискретизировать растровый слой при рендеринге карты.
 type: docs
-weight: 1650
+weight: 1660
 url: /ru/net/aspose.gis.rendering/rastermapresampling/
 ---
 ## RasterMapResampling class
@@ -24,8 +24,8 @@ public class RasterMapResampling
 
 | Имя | Описание |
 | --- | --- |
-| [Height](../../aspose.gis.rendering/rastermapresampling/height) { get; set; } | Задает высоту растра на карте в пикселях и столбцах. Если установлено значение 0, высота вычисляется автоматически. Значение по умолчанию — «0». |
-| [Width](../../aspose.gis.rendering/rastermapresampling/width) { get; set; } | Задает ширину растра на карте в пикселях и столбцах. Если установлено значение 0, ширина вычисляется автоматически. Значение по умолчанию — «0». |
+| [Height](../../aspose.gis.rendering/rastermapresampling/height) { get; set; } | Определяет высоту растра на карте в пикселях и столбцах. Если установлено значение 0, высота вычисляется автоматически. Значение по умолчанию — «0». |
+| [Width](../../aspose.gis.rendering/rastermapresampling/width) { get; set; } | Определяет ширину растра на карте в пикселях и столбцах. Если установлено значение 0, ширина вычисляется автоматически. Значение по умолчанию — «0». |
 
 ### Смотрите также
 

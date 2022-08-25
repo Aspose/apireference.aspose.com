@@ -16,7 +16,7 @@ public virtual bool IsClosed { get; }
 
 ### 适当的价值
 
-`true`如果此实例已关闭；否则，`false`。
+`true`如果此实例已关闭；否则，`false`.
 
 ### 也可以看看
 

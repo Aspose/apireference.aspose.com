@@ -1,14 +1,14 @@
 ---
 title: Normalize
 second_title: Справочник по Aspose.GIS for .NET API
-description: ОбменXMinaspose.gis/extent/xminсXMaxaspose.gis/extent/xmaxifWidthaspose.gis/extent/widthявляется отрицательным и YMinaspose.gis/extent/yminсYMaxaspose.gis/extent/ymaxеслиHeightaspose.gis/extent/heightимеет отрицательное значение.
+description: СвопыXMinaspose.gis/extent/xmin сXMaxaspose.gis/extent/xmax еслиWidthaspose.gis/extent/width отрицательно и YMinaspose.gis/extent/ymin сYMaxaspose.gis/extent/ymax еслиHeightaspose.gis/extent/height отрицательно.
 type: docs
 weight: 200
 url: /ru/net/aspose.gis/extent/normalize/
 ---
 ## Extent.Normalize method
 
-Обмен[`XMin`](../xmin)с[`XMax`](../xmax)if[`Width`](../width)является отрицательным и [`YMin`](../ymin)с[`YMax`](../ymax)если[`Height`](../height)имеет отрицательное значение.
+Свопы[`XMin`](../xmin) с[`XMax`](../xmax) если[`Width`](../width) отрицательно и [`YMin`](../ymin) с[`YMax`](../ymax) если[`Height`](../height) отрицательно.
 
 ```csharp
 public void Normalize()

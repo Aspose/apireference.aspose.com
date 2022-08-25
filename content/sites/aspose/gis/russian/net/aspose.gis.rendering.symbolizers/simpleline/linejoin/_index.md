@@ -1,14 +1,14 @@
 ---
 title: LineJoin
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет способ отображения линий на пересечении сегментов линий.
+description: Определяет способ отображения линий на пересечении линейных сегментов.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.rendering.symbolizers/simpleline/linejoin/
 ---
 ## SimpleLine.LineJoin property
 
-Определяет способ отображения линий на пересечении сегментов линий.
+Определяет способ отображения линий на пересечении линейных сегментов.
 
 ```csharp
 public LineJoin LineJoin { get; set; }

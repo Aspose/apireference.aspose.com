@@ -3,7 +3,7 @@ title: LabelPlacement
 second_title: Справочник по Aspose.GIS for .NET API
 description: Размещение меток указывает как метки размещаются относительно геометрии объекта.
 type: docs
-weight: 1500
+weight: 1510
 url: /ru/net/aspose.gis.rendering.labelings/labelplacement/
 ---
 ## LabelPlacement class

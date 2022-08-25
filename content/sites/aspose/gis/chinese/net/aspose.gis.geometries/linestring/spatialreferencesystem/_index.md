@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API 参考
-description: 获取此实例的 SpatialReferenceSystem 如果未设置 SpatialReferenceSystem则此属性可以是null 分配新的 SpatialReferenceSystem 不会执行任何坐标转换只会更改参考
+description: 获取该实例的SpatialReferenceSystem 该属性可以是null如果未设置SpatialReferenceSystem 分配新的SpatialReferenceSystem不会进行任何坐标变换只会改变参考
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.geometries/linestring/spatialreferencesystem/
 ---
 ## LineString.SpatialReferenceSystem property
 
-获取此实例的 SpatialReferenceSystem。 如果未设置 SpatialReferenceSystem，则此属性可以是`null`。 分配新的 SpatialReferenceSystem 不会执行任何坐标转换，只会更改参考。
+获取该实例的SpatialReferenceSystem。 该属性可以是`null`，如果未设置SpatialReferenceSystem。 分配新的SpatialReferenceSystem不会进行任何坐标变换，只会改变参考。
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }

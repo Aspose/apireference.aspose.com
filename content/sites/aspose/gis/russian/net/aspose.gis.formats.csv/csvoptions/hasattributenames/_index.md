@@ -1,14 +1,14 @@
 ---
 title: HasAttributeNames
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет существует ли строка заголовка с именами атрибутов. По умолчаниюtrue.
+description: Определяет существует ли строка заголовка с именами атрибутов. Значение по умолчаниюtrue .
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.formats.csv/csvoptions/hasattributenames/
 ---
 ## CsvOptions.HasAttributeNames property
 
-Определяет, существует ли строка заголовка с именами атрибутов. По умолчанию:`true`.
+Определяет, существует ли строка заголовка с именами атрибутов. Значение по умолчанию:`true` .
 
 ```csharp
 public bool HasAttributeNames { get; set; }
@@ -16,7 +16,7 @@ public bool HasAttributeNames { get; set; }
 
 ### Примечания
 
-В случае`true`a[`Attributes`](../../../aspose.gis/vectorlayer/attributes)будет назван в соответствии со строкой заголовка. В противном случае он будет называться:` field_1, field_2 и т.д.`
+В случае`true` а[`Attributes`](../../../aspose.gis/vectorlayer/attributes) будет назван в соответствии со строкой заголовка. В противном случае он будет назван как:`поле_1, поле_2 и т. д.`
 
 ### Смотрите также
 

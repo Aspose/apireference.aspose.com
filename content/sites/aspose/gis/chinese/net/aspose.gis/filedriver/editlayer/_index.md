@@ -1,14 +1,14 @@
 ---
 title: EditLayer
 second_title: Aspose.GIS for .NET API 参考
-description: 打开图层进行编辑
+description: 打开一个图层进行编辑
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/filedriver/editlayer/
 ---
 ## EditLayer(string, DriverOptions) {#editlayer_1}
 
-打开图层进行编辑。
+打开一个图层进行编辑。
 
 ```csharp
 public VectorLayer EditLayer(string path, DriverOptions options = null)
@@ -16,20 +16,20 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | String | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 从文件中读取特征时出错。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 从文件中读取功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -44,7 +44,7 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 
 ## EditLayer(AbstractPath, DriverOptions) {#editlayer}
 
-打开图层进行编辑。
+打开一个图层进行编辑。
 
 ```csharp
 public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = null)
@@ -52,26 +52,26 @@ public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | AbstractPath | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 从文件中读取特征时出错。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 从文件中读取功能时出错。 |
 | NotSupportedException | 驱动程序无法编辑图层。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 评论
 
-驱动程序创建一个包含所有功能的内层。但是我们可以选择使用磁盘空间而不是 RAM。 有一些驱动程序可以更优化地使用资源（请参阅特定的驱动程序文档）。 如果它可以创建和打开图层，驱动程序也可以编辑图层。
+驱动程序创建一个包含所有功能的内层。但是我们可以选择使用磁盘空间而不是 RAM。 有驱动程序可以更优化地使用资源（请参阅特定的驱动程序文档）。 如果驱动程序可以创建和打开图层，则它还可以编辑图层。
 
 ### 也可以看看
 

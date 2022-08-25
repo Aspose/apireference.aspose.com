@@ -24,7 +24,7 @@ public SimplifySegmentsOptions()
 
 ## SimplifySegmentsOptions(SimplifySegmentsOptions) {#constructor_1}
 
-Создать копию экземпляра[`SimplifySegmentsOptions`](../../simplifysegmentsoptions).
+Создать копию экземпляра[`SimplifySegmentsOptions`](../../simplifysegmentsoptions) .
 
 ```csharp
 public SimplifySegmentsOptions(SimplifySegmentsOptions source)

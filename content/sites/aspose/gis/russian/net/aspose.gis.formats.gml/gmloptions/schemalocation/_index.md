@@ -1,14 +1,14 @@
 ---
 title: SchemaLocation
 second_title: Справочник по Aspose.GIS for .NET API
-description: Список пар URI разделенных пробелами. Первый URI в каждой паре  это URI пространства имен второй URI  это путь к XML-схеме пространства имен. Если установлено значениеnullGmlDriveraspose.gis.formats.gml/gmldriverпопытается прочитать schemaLocation из корневого элемента документа . По умолчаниюnull.
+description: Список пар URI разделенных пробелами. Первый URI в каждой паре  это URI пространства имен второй URI  это путь к XMLсхеме пространства имен. Если установлено значениеnull GmlDriveraspose.gis.formats.gml/gmldriver попытается прочитать schemaLocation из корневого элемента документа. Значение по умолчаниюnull .
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.formats.gml/gmloptions/schemalocation/
 ---
 ## GmlOptions.SchemaLocation property
 
-Список пар URI, разделенных пробелами. Первый URI в каждой паре — это URI пространства имен, второй URI — это путь к XML-схеме пространства имен. Если установлено значение`null`,[`GmlDriver`](../../gmldriver)попытается прочитать schemaLocation из корневого элемента документа . По умолчанию:`null`.
+Список пар URI, разделенных пробелами. Первый URI в каждой паре — это URI пространства имен, второй URI — это путь к XML-схеме пространства имен. Если установлено значение`null` ,[`GmlDriver`](../../gmldriver) попытается прочитать schemaLocation из корневого элемента документа. Значение по умолчанию:`null` .
 
 ```csharp
 public string SchemaLocation { get; set; }
@@ -16,11 +16,11 @@ public string SchemaLocation { get; set; }
 
 ### Примечания
 
-Aspose.GIS использует XML-схему файла GML для создания[`FeatureAttributeCollection`](../../../aspose.gis/featureattributecollection). По умолчанию местоположение схемы извлекается из атрибута schemaLocation. Если такого атрибута нет или он указывает на недопустимое местоположение, Aspose.GIS не сможет прочитать файл GML. В этом случае установите этот параметр, чтобы Aspose.GIS мог загрузить схему.
+Aspose.GIS использует XML-схему файла GML для создания[`FeatureAttributeCollection`](../../../aspose.gis/featureattributecollection) . По умолчанию расположение схемы извлекается из атрибута schemaLocation. Если такого атрибута нет или он указывает на недопустимое местоположение, Aspose.GIS не сможет прочитать файл GML. В этом случае установите эту опцию, чтобы Aspose.GIS мог загрузить схему.
 
 ### Примеры
 
-"http://site.com/namespace http://site.com/schema.xsd"
+"http://site.com/пространство имен http://site.com/schema.xsd"
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: JoinAttributeNames
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает список имен атрибутов которые необходимо объединить. Если он равенnullили пуст все атрибуты присоединяемого слоя будут объединены.
+description: Задает список имен атрибутов которые необходимо объединить. Если этоnull или пусто будут объединены все атрибуты присоединяемого слоя.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.relationship.joins/joinoptions/joinattributenames/
 ---
 ## JoinOptions.JoinAttributeNames property
 
-Задает список имен атрибутов, которые необходимо объединить. Если он равен`null`или пуст, все атрибуты присоединяемого слоя будут объединены.
+Задает список имен атрибутов, которые необходимо объединить. Если это`null` или пусто, будут объединены все атрибуты присоединяемого слоя.
 
 ```csharp
 public List<string> JoinAttributeNames { get; set; }

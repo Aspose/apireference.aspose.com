@@ -16,7 +16,7 @@ public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 
 ### 评论
 
-如果未指定`SpatialReferenceSystem`则使用输入特征序列。
+如果没有指定`SpatialReferenceSystem`使用输入特征序列。
 
 ### 也可以看看
 

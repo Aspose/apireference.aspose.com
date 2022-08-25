@@ -16,8 +16,8 @@ public static bool operator ==(Identifier a, Identifier b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Identifier | Экземпляр A. |
-| b | Identifier | Экземпляр B. |
+| a | Identifier | Экземпляр А. |
+| b | Identifier | Экземпляр Б. |
 
 ### Возвращаемое значение
 

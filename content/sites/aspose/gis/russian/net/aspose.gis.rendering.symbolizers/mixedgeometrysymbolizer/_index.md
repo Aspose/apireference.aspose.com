@@ -3,7 +3,7 @@ title: MixedGeometrySymbolizer
 second_title: Справочник по Aspose.GIS for .NET API
 description: Применяет правильный символизатор к геометрии объекта в соответствии с его типом геометрии.
 type: docs
-weight: 1770
+weight: 1780
 url: /ru/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/
 ---
 ## MixedGeometrySymbolizer class
@@ -25,12 +25,12 @@ public class MixedGeometrySymbolizer : VectorSymbolizer
 | Имя | Описание |
 | --- | --- |
 | [LineSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbolizer) { get; set; } | Задает символ, используемый для геометрии линий в слое. |
-| [PointSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer) { get; set; } | Задает символ, используемый для геометрии точек в слое. |
-| [PolygonSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer) { get; set; } | Указывает символизатор, который будет использоваться для полигональной геометрии в слое. |
+| [PointSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer) { get; set; } | Задает символ, используемый для точечной геометрии в слое. |
+| [PolygonSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer) { get; set; } | Определяет символизатор для полигональной геометрии в слое. |
 
 ### Примечания
 
-Это полезно для слоев типа Смешанная геометрия или для слоев, содержащих коллекции геометрии.
+Это полезно для слоев типа Смешанная геометрия или для слоев, содержащих наборы геометрии.
 
 ### Смотрите также
 

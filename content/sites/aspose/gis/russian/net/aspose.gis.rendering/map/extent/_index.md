@@ -1,14 +1,14 @@
 ---
 title: Extent
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает границы карты для рендеринга. Если установлено значениеnull экстент вычисляется во время рендеринга чтобы включить все геометрии во всех слоях.
+description: Указывает границы карты для визуализации. Если установлено значениеnull  экстент вычисляется во время рендеринга чтобы включить всю геометрию во всех слоях.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering/map/extent/
 ---
 ## Map.Extent property
 
-Указывает границы карты для рендеринга. Если установлено значение`null`, экстент вычисляется во время рендеринга, чтобы включить все геометрии во всех слоях.
+Указывает границы карты для визуализации. Если установлено значение`null` , экстент вычисляется во время рендеринга, чтобы включить всю геометрию во всех слоях.
 
 ```csharp
 public Extent Extent { get; set; }
@@ -18,11 +18,11 @@ public Extent Extent { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | &lt;ul&gt;&lt;li&gt;[`IsValid`](../../../aspose.gis/extent/isvalid)is`false`.&lt;/li&gt;&lt;li&gt;[`Width`](../../../aspose.gis/extent/width)меньше или равно нулю.&lt;/li&gt;&lt;li &gt;[`Height`](../../../aspose.gis/extent/height)меньше или равно нулю.&lt;/li&gt;&lt;li&gt;[`SpatialReferenceSystem`](../../../aspose.gis/extent/spatialreferencesystem)is`null`.&lt;/li&gt;&lt;/ul&gt; |
+| ArgumentException | [`IsValid`](../../../aspose.gis/extent/isvalid) является`false`.[`Width`](../../../aspose.gis/extent/width) меньше или равно нулю.[`Height`](../../../aspose.gis/extent/height) меньше или равно нулю.[`SpatialReferenceSystem`](../../../aspose.gis/extent/spatialreferencesystem) является`null`. |
 
 ### Примечания
 
-Если система пространственной привязки экстента не соответствует системе пространственной привязки карты, экстент трансформируется в целевую систему пространственной привязки во время рендеринга.
+Если система пространственной привязки экстента не равна системе пространственной привязки карты, экстент трансформируется в целевую систему пространственной привязки во время рендеринга.
 
 ### Смотрите также
 

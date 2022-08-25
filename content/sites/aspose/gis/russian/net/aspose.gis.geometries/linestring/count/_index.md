@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает количество точек вLineStringaspose.gis.geometries/linestring.
+description: Получает количество точек вLineStringaspose.gis.geometries/linestring .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.geometries/linestring/count/
 ---
 ## LineString.Count property
 
-Получает количество точек в[`LineString`](../../linestring).
+Получает количество точек в[`LineString`](../../linestring) .
 
 ```csharp
 public int Count { get; }

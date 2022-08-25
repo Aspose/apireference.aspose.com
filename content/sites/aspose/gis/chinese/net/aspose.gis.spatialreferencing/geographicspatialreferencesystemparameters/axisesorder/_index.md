@@ -1,14 +1,14 @@
 ---
 title: AxisesOrder
 second_title: Aspose.GIS for .NET API 参考
-description: 轴的顺序默认为LongitudeLatitude
+description: 轴的顺序默认为LongitudeLatitude.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder/
 ---
 ## GeographicSpatialReferenceSystemParameters.AxisesOrder property
 
-轴的顺序。默认为LongitudeLatitude。
+轴的顺序。默认为LongitudeLatitude.
 
 ```csharp
 public GeographicAxisesOrder AxisesOrder { get; set; }

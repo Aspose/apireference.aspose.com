@@ -16,7 +16,7 @@ public PrimeMeridian(string name, double longitude, Identifier identifier = null
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 本本初子午线的名称。 |
+| name | String | 这条本初子午线的名称。 |
 | longitude | Double | 本初子午线相对于格林威治的经度，以度为单位。 |
 | identifier | Identifier | 本初子午线的标识符。 |
 

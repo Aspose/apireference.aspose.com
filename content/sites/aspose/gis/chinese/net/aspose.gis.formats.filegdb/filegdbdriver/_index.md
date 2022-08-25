@@ -27,25 +27,25 @@ public sealed class FileGdbDriver : FileDriver
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath) | 创建数据集。 |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string) | 创建数据集。 |
-| override [CreateDataset](../../aspose.gis.formats.filegdb/filegdbdriver/createdataset#createdataset_1)(AbstractPath, DriverOptions) | 创建数据集。 |
-| [CreateDataset](../../aspose.gis.formats.filegdb/filegdbdriver/createdataset#createdataset_2)(AbstractPath, FileGdbOptions) | 创建数据集。 |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string, DriverOptions) | 创建数据集。 |
-| [CreateDataset](../../aspose.gis.formats.filegdb/filegdbdriver/createdataset#createdataset_5)(string, FileGdbOptions) | 创建数据集。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, DriverOptions) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions) | 创建图层并将其打开以进行附加。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string) | 创建一个数据集。 |
+| override [CreateDataset](../../aspose.gis.formats.filegdb/filegdbdriver/createdataset#createdataset_1)(AbstractPath, DriverOptions) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis.formats.filegdb/filegdbdriver/createdataset#createdataset_2)(AbstractPath, FileGdbOptions) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string, DriverOptions) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis.formats.filegdb/filegdbdriver/createdataset#createdataset_5)(string, FileGdbOptions) | 创建一个数据集。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, DriverOptions) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions) | 创建图层并打开它以进行附加。 |
 | [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer#createlayer_8)(string, FileGdbOptions) | 创建一个图层并打开它以添加新功能。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
-| override [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | 创建一个图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer#createlayer_3)(AbstractPath, FileGdbOptions, SpatialReferenceSystem) | 创建一个图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer#createlayer_9)(string, FileGdbOptions, SpatialReferenceSystem) | 创建一个图层并将其打开以进行附加。 |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer)(AbstractPath, DriverOptions) | 打开图层进行编辑。 |
-| [EditLayer](../../aspose.gis/filedriver/editlayer)(string, DriverOptions) | 打开图层进行编辑。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
+| override [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | 创建一个图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer#createlayer_3)(AbstractPath, FileGdbOptions, SpatialReferenceSystem) | 创建一个图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer#createlayer_9)(string, FileGdbOptions, SpatialReferenceSystem) | 创建一个图层并打开它以进行附加。 |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer)(AbstractPath, DriverOptions) | 打开一个图层进行编辑。 |
+| [EditLayer](../../aspose.gis/filedriver/editlayer)(string, DriverOptions) | 打开一个图层进行编辑。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset)(AbstractPath) | 打开数据集。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset)(string) | 打开数据集。 |
 | override [OpenDataset](../../aspose.gis.formats.filegdb/filegdbdriver/opendataset#opendataset_1)(AbstractPath, DriverOptions) | 打开数据集。 |

@@ -3,7 +3,7 @@ title: VectorSymbolizer
 second_title: Aspose.GIS for .NET API 参考
 description: 渲染矢量特征的符号的抽象根类
 type: docs
-weight: 1860
+weight: 1870
 url: /zh/net/aspose.gis.rendering.symbolizers/vectorsymbolizer/
 ---
 ## VectorSymbolizer class
@@ -18,7 +18,7 @@ public abstract class VectorSymbolizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.symbolizers/vectorsymbolizer/null) { get; } | [`NullVectorSymbolizer`](../nullvectorsymbolizer)不绘制任何内容并有效地跳过渲染它所应用的几何图形。 |
+| static [Null](../../aspose.gis.rendering.symbolizers/vectorsymbolizer/null) { get; } | 的[`NullVectorSymbolizer`](../nullvectorsymbolizer)不绘制任何内容并有效地跳过对其应用的几何图形的渲染。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: AngularUnit
 second_title: Справочник по Aspose.GIS for .NET API
-description: Единица которая используется для угловых значений в этой SRS и для угловых параметровProjectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection. Соответствует угловой единицеBaseaspose.gis.spatialreferencing/projectedspatialreferencesystem/base.
+description: Единица которая используется для угловых значений в этой SRS и для угловых параметровProjectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection . Соответствует угловой единицеBaseaspose.gis.spatialreferencing/projectedspatialreferencesystem/base .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/angularunit/
 ---
 ## ProjectedSpatialReferenceSystem.AngularUnit property
 
-Единица, которая используется для угловых значений в этой SRS и для угловых параметров[`Projection`](../projection). Соответствует угловой единице[`Base`](../base).
+Единица, которая используется для угловых значений в этой SRS и для угловых параметров[`Projection`](../projection) . Соответствует угловой единице[`Base`](../base) .
 
 ```csharp
 public abstract Unit AngularUnit { get; }

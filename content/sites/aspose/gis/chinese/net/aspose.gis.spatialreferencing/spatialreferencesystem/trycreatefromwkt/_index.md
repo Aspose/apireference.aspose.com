@@ -1,14 +1,14 @@
 ---
 title: TryCreateFromWkt
 second_title: Aspose.GIS for .NET API 参考
-description: 基于 WKT众所周知的文本字符串创建一个新的 SpatialReferenceSystem 
+description: 创建一个新的空间参考系统基于 WKT知名文本字符串.
 type: docs
 weight: 410
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatefromwkt/
 ---
 ## SpatialReferenceSystem.TryCreateFromWkt method
 
-基于 WKT（众所周知的文本）字符串创建一个新的` SpatialReferenceSystem` 。
+创建一个新的`空间参考系统`基于 WKT（知名文本）字符串.
 
 ```csharp
 public static bool TryCreateFromWkt(string wkt, out SpatialReferenceSystem value)
@@ -17,14 +17,15 @@ public static bool TryCreateFromWkt(string wkt, out SpatialReferenceSystem value
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | wkt | String | WKT 字符串。 |
-| value | SpatialReferenceSystem& | 当此方法返回`true`时，包含从 WKT 创建的 SRS；否则， 包含`null`。 |
+| value | SpatialReferenceSystem& | 当这个方法返回时`true`，包含从 WKT 创建的 SRS；否则， 包含`null`. |
 
 ### 返回值
 
-`true`如果 SRS 已成功创建；`false`否则。
+`true`是否成功创建了 SRS；`false`否则。
 
 ### 也可以看看
 
+* method [CreateFromWkt](../createfromwkt)
 * class [SpatialReferenceSystem](../../spatialreferencesystem)
 * 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem)
 * 部件 [Aspose.GIS](../../../)

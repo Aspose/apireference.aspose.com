@@ -3,7 +3,7 @@ title: PointFormats
 second_title: Aspose.GIS for .NET API 参考
 description: PointFormats./pointformats用于转换文本中的坐标
 type: docs
-weight: 1190
+weight: 1200
 url: /zh/net/aspose.gis/pointformats/
 ---
 ## PointFormats enumeration
@@ -21,7 +21,7 @@ public enum PointFormats
 | DecimalDegrees | `0` | 十进制度 (DD) 格式。 |
 | DegreeMinutesSeconds | `1` | 度分秒 (DMS) 格式。 |
 | DegreeDecimalMinutes | `2` | 度十进制分 (DDM) 格式。 |
-| GeoRef | `3` | 世界地理参考系统。 |
+| GeoRef | `3` | 世界地理参考系统. |
 | Mgrs | `4` | 具有 WGS 84 基准的军用网格参考系统。 |
 | Usng | `5` | 具有 WGS 84 基准的美国国家电网。 |
 

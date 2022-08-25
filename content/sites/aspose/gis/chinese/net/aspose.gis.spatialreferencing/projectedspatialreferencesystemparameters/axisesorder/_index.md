@@ -1,14 +1,14 @@
 ---
 title: AxisesOrder
 second_title: Aspose.GIS for .NET API 参考
-description: 轴的顺序默认为XY
+description: 轴的顺序默认为XY.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder/
 ---
 ## ProjectedSpatialReferenceSystemParameters.AxisesOrder property
 
-轴的顺序。默认为XY。
+轴的顺序。默认为XY.
 
 ```csharp
 public ProjectedAxisesOrder AxisesOrder { get; set; }

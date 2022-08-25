@@ -1,14 +1,14 @@
 ---
 title: IPolygon
 second_title: Справочник по Aspose.GIS for .NET API
-description: AICurvePolygon./icurvepolygonграницы которого определяются линейными кольцами.
+description: АICurvePolygon./icurvepolygon чьи границы определяются линейными кольцами.
 type: docs
-weight: 990
+weight: 1000
 url: /ru/net/aspose.gis.geometries/ipolygon/
 ---
 ## IPolygon interface
 
-A[`ICurvePolygon`](../icurvepolygon)границы которого определяются линейными кольцами.
+А[`ICurvePolygon`](../icurvepolygon) чьи границы определяются линейными кольцами.
 
 ```csharp
 public interface IPolygon : ICurvePolygon, IEquatable<IPolygon>

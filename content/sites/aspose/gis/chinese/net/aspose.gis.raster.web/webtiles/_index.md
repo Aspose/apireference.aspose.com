@@ -3,7 +3,7 @@ title: WebTiles
 second_title: Aspose.GIS for .NET API 参考
 description: 提供对 Web 磁贴的访问
 type: docs
-weight: 1340
+weight: 1350
 url: /zh/net/aspose.gis.raster.web/webtiles/
 ---
 ## WebTiles class

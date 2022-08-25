@@ -16,7 +16,7 @@ public static IGeometry FromBinary(byte[] wkb)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| wkb | Byte[] | Хорошо известно Двоичное представление геометрии. |
+| wkb | Byte[] | Хорошо известное двоичное представление геометрии. |
 
 ### Возвращаемое значение
 
@@ -49,7 +49,7 @@ public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialRef
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| wkb | Byte[] | Хорошо известно Двоичное представление геометрии. |
+| wkb | Byte[] | Хорошо известное двоичное представление геометрии. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета, которая будет назначена геометрии. |
 
 ### Возвращаемое значение
@@ -66,7 +66,7 @@ public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialRef
 
 ### Примечания
 
-Если после геометрии есть лишние байты, генерируется исключениеFormatException.
+Если после геометрии есть лишние байтыFormatException выдается исключение.
 
 ### Смотрите также
 

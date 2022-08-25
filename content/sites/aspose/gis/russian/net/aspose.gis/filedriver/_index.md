@@ -1,14 +1,14 @@
 ---
 title: FileDriver
 second_title: Справочник по Aspose.GIS for .NET API
-description: Драйвер для определенного формата файлов.
+description: Драйвер для определенного формата файла.
 type: docs
 weight: 170
 url: /ru/net/aspose.gis/filedriver/
 ---
 ## FileDriver class
 
-Драйвер для определенного формата файлов.
+Драйвер для определенного формата файла.
 
 ```csharp
 public abstract class FileDriver : Driver

@@ -1,14 +1,14 @@
 ---
 title: XyzTiles
 second_title: Справочник по Aspose.GIS for .NET API
-description: Драйвер для мозаичной веб-карты такой как OpenStreetMaps Google Maps и т. д.
+description: Драйвер для тайловой вебкарты такой как OpenStreetMaps Google Maps и т. д.
 type: docs
 weight: 160
 url: /ru/net/aspose.gis/drivers/xyztiles/
 ---
 ## Drivers.XyzTiles property
 
-Драйвер для мозаичной веб-карты, такой как OpenStreetMaps, Google Maps и т. д.
+Драйвер для тайловой веб-карты, такой как OpenStreetMaps, Google Maps и т. д.
 
 ```csharp
 public static XyzTilesDriver XyzTiles { get; }

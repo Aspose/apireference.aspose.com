@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.GIS for .NET API 参考
-description: 获取ICompoundCurveaspose.gis.geometries/icompoundcurve中的曲线数
+description: 获取曲线的数量ICompoundCurveaspose.gis.geometries/icompoundcurve.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/compoundcurve/count/
 ---
 ## CompoundCurve.Count property
 
-获取[`ICompoundCurve`](../../icompoundcurve)中的曲线数。
+获取曲线的数量[`ICompoundCurve`](../../icompoundcurve).
 
 ```csharp
 public int Count { get; }

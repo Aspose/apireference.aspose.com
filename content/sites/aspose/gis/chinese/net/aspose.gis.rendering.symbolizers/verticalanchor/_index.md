@@ -3,7 +3,7 @@ title: VerticalAnchor
 second_title: Aspose.GIS for .NET API 参考
 description: 指定要垂直对齐的边
 type: docs
-weight: 1870
+weight: 1880
 url: /zh/net/aspose.gis.rendering.symbolizers/verticalanchor/
 ---
 ## VerticalAnchor enumeration
@@ -18,9 +18,9 @@ public enum VerticalAnchor
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Center | `0` | 指定中心对齐。 |
-| Top | `1` | 指定顶部对齐。 |
-| Bottom | `2` | 指定底边对齐 |
+| Center | `0` | 指定中心将对齐。 |
+| Top | `1` | 指定将对齐顶边。 |
+| Bottom | `2` | 指定底边将对齐 |
 
 ### 也可以看看
 

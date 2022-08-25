@@ -23,13 +23,13 @@ public void ImportSld(string path, SldImportOptions options = null)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | XmlException | Произошла ошибка при синтаксическом анализе XML. |
 | FormatException | В XML не найден стиль SLD. |
 
 ### Примечания
 
-Этот метод перезаписывает значение свойства[`Symbolizer`](../symbolizer).
+Этот метод перезаписывает значение[`Symbolizer`](../symbolizer) свойство.
 
 ### Смотрите также
 
@@ -57,13 +57,13 @@ public void ImportSld(AbstractPath path, SldImportOptions options = null)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | XmlException | Произошла ошибка при синтаксическом анализе XML. |
 | FormatException | В XML не найден стиль SLD. |
 
 ### Примечания
 
-Этот метод перезаписывает значение свойства[`Symbolizer`](../symbolizer).
+Этот метод перезаписывает значение[`Symbolizer`](../symbolizer) свойство.
 
 ### Смотрите также
 

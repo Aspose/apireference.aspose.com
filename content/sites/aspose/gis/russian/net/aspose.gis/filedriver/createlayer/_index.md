@@ -26,9 +26,9 @@ public VectorLayer CreateLayer(string path)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
 
 ### Смотрите также
@@ -60,9 +60,9 @@ public VectorLayer CreateLayer(AbstractPath path)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
 
 ### Смотрите также
@@ -86,7 +86,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -96,10 +96,10 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
 
 ### Смотрите также
@@ -123,7 +123,7 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -133,10 +133,10 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
 | NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
 
 ### Смотрите также
@@ -171,10 +171,10 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Используйте[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)чтобы проверить, поддерживается ли система пространственной привязки. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
 
 ### Смотрите также
 
@@ -207,10 +207,10 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Используйте[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)чтобы проверить, поддерживается ли система пространственной привязки. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
 
 ### Смотрите также
 
@@ -235,7 +235,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета. |
 
 ### Возвращаемое значение
@@ -246,11 +246,11 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Используйте[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)чтобы проверить, поддерживается ли система пространственной привязки. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
 | NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
 
 ### Смотрите также
@@ -276,7 +276,7 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета. |
 
 ### Возвращаемое значение
@@ -287,11 +287,11 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи объекта в файл. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Используйте[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)чтобы проверить, поддерживается ли система пространственной привязки. |
+| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
 | NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
 
 ### Смотрите также

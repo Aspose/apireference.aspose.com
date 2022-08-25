@@ -24,7 +24,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### Примечания
 
-Для GPX единственной поддерживаемой системой пространственной привязки является WGS84.
+Для GPX поддерживается только система пространственной привязки WGS84.
 
 ### Смотрите также
 

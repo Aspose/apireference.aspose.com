@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает строку представляющую текущий объект.
+description: Возвращает строку которая представляет текущий объект.
 type: docs
 weight: 120
 url: /ru/net/aspose.gis/featureattribute/tostring/
 ---
 ## FeatureAttribute.ToString method
 
-Возвращает строку, представляющую текущий объект.
+Возвращает строку, которая представляет текущий объект.
 
 ```csharp
 public override string ToString()

@@ -16,7 +16,7 @@ public IGeometry SymDifference(IGeometry other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | IGeometry | 用于计算对称差的几何。 |
+| other | IGeometry | 用于计算对称差异的几何。 |
 
 ### 返回值
 
@@ -26,9 +26,9 @@ public IGeometry SymDifference(IGeometry other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *other*是`null`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | *other*是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 也可以看看
 

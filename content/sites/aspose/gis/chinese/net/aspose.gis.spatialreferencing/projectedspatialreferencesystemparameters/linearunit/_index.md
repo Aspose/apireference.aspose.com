@@ -1,14 +1,14 @@
 ---
 title: LinearUnit
 second_title: Aspose.GIS for .NET API 参考
-description: 在此 SRS 中使用的单位默认为Meteraspose.gis.spatialreferencing/unit/meter
+description: 在此 SRS 中使用的单位默认为Meteraspose.gis.spatialreferencing/unit/meter.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit/
 ---
 ## ProjectedSpatialReferenceSystemParameters.LinearUnit property
 
-在此 SRS 中使用的单位。默认为[`Meter`](../../unit/meter)。
+在此 SRS 中使用的单位。默认为[`Meter`](../../unit/meter).
 
 ```csharp
 public Unit LinearUnit { get; set; }

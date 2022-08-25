@@ -16,13 +16,13 @@ public void AddElseRule(VectorSymbolizer symbolizer)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| symbolizer | VectorSymbolizer | 符号化器。 |
+| symbolizer | VectorSymbolizer | 象征者。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

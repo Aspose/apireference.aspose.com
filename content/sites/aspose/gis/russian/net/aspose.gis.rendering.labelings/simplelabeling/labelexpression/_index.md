@@ -1,14 +1,14 @@
 ---
 title: LabelExpression
 second_title: Справочник по Aspose.GIS for .NET API
-description: Позволяет настраивать и форматировать текст метки. Если установлено переопределяетLabelAttributeaspose.gis.rendering.labelings/simplelabeling/labelattribute. ЛибоLabelAttributeaspose.gis.rendering.labelings/simplelabeling/labelattributeлибоLabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpressionдолжен быть установлен перед рендерингом InvalidOperationExceptionв противном случае выбрасывается.
+description: Позволяет настраивать и форматировать текст метки. Если установлено переопределяетLabelAttributeaspose.gis.rendering.labelings/simplelabeling/labelattribute . ЛибоLabelAttributeaspose.gis.rendering.labelings/simplelabeling/labelattribute или жеLabelExpressionaspose.gis.rendering.labelings/simplelabeling/labelexpression необходимо установить перед рендерингом InvalidOperationException иначе бросается.
 type: docs
 weight: 110
 url: /ru/net/aspose.gis.rendering.labelings/simplelabeling/labelexpression/
 ---
 ## SimpleLabeling.LabelExpression property
 
-Позволяет настраивать и форматировать текст метки. Если установлено, переопределяет[`LabelAttribute`](../labelattribute). Либо[`LabelAttribute`](../labelattribute)либо`LabelExpression`должен быть установлен перед рендерингом; InvalidOperationExceptionв противном случае выбрасывается.
+Позволяет настраивать и форматировать текст метки. Если установлено, переопределяет[`LabelAttribute`](../labelattribute) . Либо[`LabelAttribute`](../labelattribute) или же`LabelExpression` необходимо установить перед рендерингом; InvalidOperationException иначе бросается.
 
 ```csharp
 public Func<Feature, string> LabelExpression { get; set; }

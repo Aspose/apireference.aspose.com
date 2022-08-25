@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Aspose.GIS for .NET API 参考
-description: 获取表示此实例是否为空的值表示空点集
+description: 获取一个值表示此实例是否为空表示空点集
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.geometries/igeometry/isempty/
 ---
 ## IGeometry.IsEmpty property
 
-获取表示此实例是否为空的值（表示空点集）。
+获取一个值，表示此实例是否为空（表示空点集）。
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,7 +16,7 @@ public bool IsEmpty { get; }
 
 ### 适当的价值
 
-`true`如果此实例为空；否则，`false`。
+`true`如果此实例为空；否则，`false`.
 
 ### 也可以看看
 

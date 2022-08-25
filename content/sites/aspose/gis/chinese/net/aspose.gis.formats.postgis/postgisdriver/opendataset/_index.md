@@ -20,13 +20,13 @@ public override Dataset OpenDataset(IDbConnection connection)
 
 ### 返回值
 
-[`Dataset`](../../../aspose.gis/dataset)的一个实例。
+一个实例[`Dataset`](../../../aspose.gis/dataset).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 连接是`null`。 |
+| ArgumentNullException | 连接是`null`. |
 | [GisException](../../../aspose.gis/gisexception) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 

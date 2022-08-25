@@ -1,14 +1,14 @@
 ---
 title: VerticalDisplacement
 second_title: Aspose.GIS for .NET API 参考
-description: 指定偶数垂直线中标记的垂直偏移量
+description: 指定偶数垂直线中标记的垂直偏移
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement/
 ---
 ## MarkerPatternFill.VerticalDisplacement property
 
-指定偶数垂直线中标记的垂直偏移量。
+指定偶数垂直线中标记的垂直偏移。
 
 ```csharp
 public Measurement VerticalDisplacement { get; set; }

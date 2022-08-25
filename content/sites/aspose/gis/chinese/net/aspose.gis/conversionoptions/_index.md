@@ -1,14 +1,14 @@
 ---
 title: ConversionOptions
 second_title: Aspose.GIS for .NET API 参考
-description: 用于在格式之间转换数据的选项
+description: 在格式之间转换数据的选项
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/conversionoptions/
 ---
 ## ConversionOptions class
 
-用于在格式之间转换数据的选项。
+在格式之间转换数据的选项。
 
 ```csharp
 public class ConversionOptions
@@ -24,7 +24,7 @@ public class ConversionOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AttributesConverter](../../aspose.gis/conversionoptions/attributesconverter) { get; set; } | 属性的自定义转换器。它允许我们重命名或排除目标属性。 如果不是`null`，则为源层的每个属性调用它，并在必要时对其进行更改。 |
+| [AttributesConverter](../../aspose.gis/conversionoptions/attributesconverter) { get; set; } | 属性的自定义转换器。它允许我们重命名或排除目标属性。 如果没有`null`，为源层的每个属性调用它，并在必要时对其进行更改。 |
 | [DestinationDriverOptions](../../aspose.gis/conversionoptions/destinationdriveroptions) { get; set; } | 目标层的驱动程序特定选项。 |
 | [DestinationSpatialReferenceSystem](../../aspose.gis/conversionoptions/destinationspatialreferencesystem) { get; set; } | 分配给目标层的空间参考系统。 |
 | [SourceDriverOptions](../../aspose.gis/conversionoptions/sourcedriveroptions) { get; set; } | 源层的驱动程序特定选项。 |

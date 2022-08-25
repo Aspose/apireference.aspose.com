@@ -1,14 +1,14 @@
 ---
 title: BursaWolfParameters
 second_title: Справочник по Aspose.GIS for .NET API
-description: Класс содержащий параметры формулы Бурсы-Вольфа для преобразования в другую датум.
+description: Класс содержащий параметры формулы БурсыВольфа для преобразования в другие данные.
 type: docs
-weight: 1940
+weight: 1950
 url: /ru/net/aspose.gis.spatialreferencing/bursawolfparameters/
 ---
 ## BursaWolfParameters class
 
-Класс, содержащий параметры формулы Бурсы-Вольфа для преобразования в другую датум.
+Класс, содержащий параметры формулы Бурсы-Вольфа для преобразования в другие данные.
 
 ```csharp
 public class BursaWolfParameters : IEquatable<BursaWolfParameters>
@@ -18,22 +18,22 @@ public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 
 | Имя | Описание |
 | --- | --- |
-| [BursaWolfParameters](bursawolfparameters#constructor)(double, double, double) | Создает новый экземпляр[`BursaWolfParameters`](../bursawolfparameters). |
-| [BursaWolfParameters](bursawolfparameters#constructor_1)(double, double, double, double, double, double, double) | Создает новый экземпляр[`BursaWolfParameters`](../bursawolfparameters). |
+| [BursaWolfParameters](bursawolfparameters#constructor)(double, double, double) | Создает новый экземпляр[`BursaWolfParameters`](../bursawolfparameters) . |
+| [BursaWolfParameters](bursawolfparameters#constructor_1)(double, double, double, double, double, double, double) | Создает новый экземпляр[`BursaWolfParameters`](../bursawolfparameters) . |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | static [Null](../../aspose.gis.spatialreferencing/bursawolfparameters/null) { get; } | Специальное значение, указывающее, что параметры неизвестны. |
-| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx) { get; } | Dx в метрах. |
-| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy) { get; } | Dy в метрах. |
-| [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz) { get; } | Dz в метрах. |
-| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull) { get; } | Определить, является ли этот экземпляр[`Null`](./null). |
+| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx) { get; } | Дх в метрах. |
+| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy) { get; } | Ды в метрах. |
+| [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz) { get; } | Дз в метрах. |
+| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull) { get; } | Определить, является ли этот экземпляр[`Null`](./null) . |
 | [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx) { get; } | Rx в секундах. |
-| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry) { get; } | Ry в секундах. |
+| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry) { get; } | Рай за секунды. |
 | [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz) { get; } | Rz в секундах. |
-| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale) { get; } | Масштаб в частях на миллион. |
+| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale) { get; } | Шкала в частях на миллион. |
 
 ## Методы
 
@@ -41,7 +41,7 @@ public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 | --- | --- |
 | [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals#equals)(BursaWolfParameters) | Указывает, равен ли текущий объект другому объекту того же типа. |
 | override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals#equals_1)(object) | Определяет, равен ли указанный объект текущему объекту. |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode)() | Служит хэш-функцией по умолчанию. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode)() | Служит хеш-функцией по умолчанию. |
 | [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality) | Реализует оператор ==. |
 | [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality) | Реализует оператор !=. |
 

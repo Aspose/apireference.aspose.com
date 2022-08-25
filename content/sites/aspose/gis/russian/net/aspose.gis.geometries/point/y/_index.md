@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает значение координаты y.
+description: Получает или задает значение координаты Y.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.geometries/point/y/
 ---
 ## Point.Y property
 
-Получает или задает значение координаты y.
+Получает или задает значение координаты Y.
 
 ```csharp
 public double Y { get; set; }

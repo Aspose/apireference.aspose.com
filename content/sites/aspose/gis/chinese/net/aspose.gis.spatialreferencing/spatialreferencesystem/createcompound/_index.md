@@ -1,14 +1,14 @@
 ---
 title: CreateCompound
 second_title: Aspose.GIS for .NET API 参考
-description: 创建复合 SRS
+description: 创建复合 SRS.
 type: docs
 weight: 340
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/createcompound/
 ---
 ## SpatialReferenceSystem.CreateCompound method
 
-创建复合 SRS。
+创建复合 SRS.
 
 ```csharp
 public static CompoundSpatialReferenceSystem CreateCompound(string name, 
@@ -18,7 +18,7 @@ public static CompoundSpatialReferenceSystem CreateCompound(string name,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 新 SRS 的名称。 |
-| head | SpatialReferenceSystem | 新 SRS 的头 SRS。 |
+| head | SpatialReferenceSystem | 新 SRS 的主管 SRS。 |
 | tail | SpatialReferenceSystem | 新 SRS 的尾部 SRS。 |
 | identifier | Identifier | 标识符，将附加到 SRS。附加标识符不会修改其他 SRS 参数。 由您来确保标识符和 SRS 参数的一致性。 |
 
@@ -30,8 +30,8 @@ public static CompoundSpatialReferenceSystem CreateCompound(string name,
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 除*identifier*以外的任何参数都是`null`。 |
-| InvalidOperationException | *head*或*tail*本身就是复合 SRS。 |
+| ArgumentNullException | 任何参数，除了*identifier*是`null`. |
+| InvalidOperationException | *head*或者*tail*是复合 SRS 本身。 |
 
 ### 也可以看看
 

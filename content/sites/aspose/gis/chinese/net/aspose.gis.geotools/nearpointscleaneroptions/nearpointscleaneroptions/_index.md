@@ -24,7 +24,7 @@ public NearPointsCleanerOptions()
 
 ## NearPointsCleanerOptions(NearPointsCleanerOptions) {#constructor_1}
 
-创建实例副本[`NearPointsCleanerOptions`](../../nearpointscleaneroptions)。
+创建实例副本[`NearPointsCleanerOptions`](../../nearpointscleaneroptions).
 
 ```csharp
 public NearPointsCleanerOptions(NearPointsCleanerOptions source)

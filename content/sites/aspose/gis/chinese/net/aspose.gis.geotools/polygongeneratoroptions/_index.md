@@ -3,7 +3,7 @@ title: PolygonGeneratorOptions
 second_title: Aspose.GIS for .NET API 参考
 description: 在表面或区域上生成线的选项
 type: docs
-weight: 750
+weight: 760
 url: /zh/net/aspose.gis.geotools/polygongeneratoroptions/
 ---
 ## PolygonGeneratorOptions class
@@ -18,8 +18,7 @@ public class PolygonGeneratorOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PolygonGeneratorOptions](polygongeneratoroptions#constructor)() | 默认创建一个带有初始化字段的实例。 |
-| [PolygonGeneratorOptions](polygongeneratoroptions#constructor_1)(int, int, int, int) | 创建一个实例。 |
+| [PolygonGeneratorOptions](polygongeneratoroptions)() | 默认构造函数。 |
 
 ## 特性
 
@@ -27,7 +26,8 @@ public class PolygonGeneratorOptions
 | --- | --- |
 | [Count](../../aspose.gis.geotools/polygongeneratoroptions/count) { get; set; } | 要创建的多边形数量。 |
 | [MaximumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints) { get; set; } | 生成多边形的最大长度。 |
-| [MinimumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints) { get; set; } | 生成多边形的最小长度。 |
+| [MinimumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints) { get; set; } | 生成的多边形的最小长度。 |
+| [Place](../../aspose.gis.geotools/polygongeneratoroptions/place) { get; set; } | 在生成的单元格中放置模式。 |
 | [Seed](../../aspose.gis.geotools/polygongeneratoroptions/seed) { get; set; } | 用于计算伪随机数序列的种子值的数字。 |
 
 ## 方法
@@ -35,7 +35,7 @@ public class PolygonGeneratorOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [Clone](../../aspose.gis.geotools/polygongeneratoroptions/clone)() | 相互克隆对象。 |
-| override [ToString](../../aspose.gis.geotools/polygongeneratoroptions/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../aspose.gis.geotools/polygongeneratoroptions/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

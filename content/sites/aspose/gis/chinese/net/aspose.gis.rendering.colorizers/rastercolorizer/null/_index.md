@@ -1,14 +1,14 @@
 ---
 title: Null
 second_title: Aspose.GIS for .NET API 参考
-description: NullColorizeraspose.gis.rendering.colorizers/nullcolorizer不绘制任何内容并有效地跳过它所应用的单元格的渲染
+description: 的NullColorizeraspose.gis.rendering.colorizers/nullcolorizer不绘制任何内容并有效地跳过它所应用的单元格的渲染
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.colorizers/rastercolorizer/null/
 ---
 ## RasterColorizer.Null property
 
-[`NullColorizer`](../../nullcolorizer)不绘制任何内容并有效地跳过它所应用的单元格的渲染。
+的[`NullColorizer`](../../nullcolorizer)不绘制任何内容并有效地跳过它所应用的单元格的渲染。
 
 ```csharp
 public static NullColorizer Null { get; }

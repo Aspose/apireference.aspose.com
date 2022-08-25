@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.OsmXml
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Aspose.Gis.Formats.OsmXml пространство имен предоставляет классы для работы с форматом OSM XML.
+description: Aspose.Gis.Formats.OsmXml пространство имен предоставляет классы для работы с форматом XML OSM.
 type: docs
 weight: 130
 url: /ru/net/aspose.gis.formats.osmxml/
 ---
-` Aspose.Gis.Formats.OsmXml` пространство имен предоставляет классы для работы с форматом OSM XML.
+`Aspose.Gis.Formats.OsmXml` пространство имен предоставляет классы для работы с форматом XML OSM.
 
 ## Классы
 

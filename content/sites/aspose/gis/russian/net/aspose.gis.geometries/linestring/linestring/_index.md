@@ -1,14 +1,14 @@
 ---
 title: LineString
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаLineStringaspose.gis.geometries/linestring.
+description: Инициализирует новый экземплярLineStringaspose.gis.geometries/linestring класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/linestring/linestring/
 ---
 ## LineString() {#constructor}
 
-Инициализирует новый экземпляр класса[`LineString`](../../linestring).
+Инициализирует новый экземпляр[`LineString`](../../linestring) класс.
 
 ```csharp
 public LineString()
@@ -24,7 +24,7 @@ public LineString()
 
 ## LineString(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`LineString`](../../linestring).
+Инициализирует новый экземпляр[`LineString`](../../linestring) класс.
 
 ```csharp
 public LineString(IEnumerable<IPoint> collection)
@@ -32,14 +32,14 @@ public LineString(IEnumerable<IPoint> collection)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| коллекция | IEnumerable`1 | Коллекция очков. |
+| collection | IEnumerable`1 | Сбор очков. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | Любая точка пуста (ее[`IsEmpty`](../../igeometry/isempty)is`правда`). |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | Любая точка пуста (ее[`IsEmpty`](../../igeometry/isempty) является`true`). |
 
 ### Смотрите также
 
@@ -52,7 +52,7 @@ public LineString(IEnumerable<IPoint> collection)
 
 ## LineString(ILineString) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LineString`](../../linestring).
+Инициализирует новый экземпляр[`LineString`](../../linestring) класс.
 
 ```csharp
 public LineString(ILineString other)
@@ -66,7 +66,7 @@ public LineString(ILineString other)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

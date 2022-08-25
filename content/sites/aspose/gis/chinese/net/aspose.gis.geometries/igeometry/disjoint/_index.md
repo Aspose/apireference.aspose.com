@@ -20,19 +20,19 @@ public bool Disjoint(IGeometry other)
 
 ### 返回值
 
-`true`如果此几何与另一个几何“空间不相交”。`false`否则。
+`true`如果这个几何图形与另一个几何图形“空间上不相交”。`false`否则。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 评论
 
-该方法根据 DE-9IM 交集矩阵测试几何是否不相交。 基本上是测试两个几何没有共同点。&lt;cr /&gt; 这个方法等价于: 有关 DE-9IM 的更多详细信息，请参阅 OpenGIS 简单功能规范。
+这个方法测试几何是否在DE-9IM相交矩阵方面不相交。 基本上，它测试两个几何没有共同点。 这个方法等价于： 有关 DE-9IM 的更多详细信息，请参阅 OpenGIS 简单功能规范。
 
 ```csharp
 this.Relate(other, "FF*FF****");
@@ -40,6 +40,7 @@ this.Relate(other, "FF*FF****");
 
 ### 也可以看看
 
+* method [Intersects](../intersects)
 * interface [IGeometry](../../igeometry)
 * 命名空间 [Aspose.Gis.Geometries](../../igeometry)
 * 部件 [Aspose.GIS](../../../)

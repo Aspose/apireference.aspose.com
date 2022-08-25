@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.Gml
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Formats.Gml 命名空间提供了使用 GML 格式的类
+description: Aspose.Gis.Formats.Gml命名空间提供了使用 GML 格式的类
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.formats.gml/
 ---
-` Aspose.Gis.Formats.Gml` 命名空间提供了使用 GML 格式的类。
+`Aspose.Gis.Formats.Gml`命名空间提供了使用 GML 格式的类。
 
 ## 课程
 

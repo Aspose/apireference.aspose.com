@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.GIS for .NET API 参考
-description: 返回代表当前对象的字符串
+description: 返回表示当前对象的字符串
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.gis.geotools/polygongeneratoroptions/tostring/
 ---
 ## PolygonGeneratorOptions.ToString method
 
-返回代表当前对象的字符串。
+返回表示当前对象的字符串。
 
 ```csharp
 public override string ToString()

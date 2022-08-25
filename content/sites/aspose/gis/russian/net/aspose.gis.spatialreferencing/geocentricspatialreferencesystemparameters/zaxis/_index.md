@@ -1,14 +1,14 @@
 ---
 title: ZAxis
 second_title: Справочник по Aspose.GIS for .NET API
-description: Ось геоцентрической SRS описывающая размерность Z ось указывающая на северный или южный полюс. По умолчанию используется ось сNorthdirection.
+description: Ось геоцентрической SRS описывающая измерение Z ось указывающая на северный или южный полюс. По умолчанию используется ось сNorth направление.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis/
 ---
 ## GeocentricSpatialReferenceSystemParameters.ZAxis property
 
-Ось геоцентрической SRS, описывающая размерность 'Z' (ось, указывающая на северный или южный полюс). По умолчанию используется ось сNorthdirection.
+Ось геоцентрической SRS, описывающая измерение «Z» (ось, указывающая на северный или южный полюс). По умолчанию используется ось сNorth направление.
 
 ```csharp
 public Axis ZAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis ZAxis { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Направление оси неNorthилиSouth. |
+| ArgumentException | Направление оси неNorth или жеSouth . |
 
 ### Смотрите также
 

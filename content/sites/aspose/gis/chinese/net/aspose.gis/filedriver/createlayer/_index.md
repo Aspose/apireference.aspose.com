@@ -1,14 +1,14 @@
 ---
 title: CreateLayer
 second_title: Aspose.GIS for .NET API 参考
-description: 创建图层并将其打开以进行附加
+description: 创建图层并打开它以进行附加
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/filedriver/createlayer/
 ---
 ## CreateLayer(string) {#createlayer_4}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public VectorLayer CreateLayer(string path)
@@ -16,20 +16,20 @@ public VectorLayer CreateLayer(string path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
+| path | String | 文件的路径。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（参见[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
 
 ### 也可以看看
 
@@ -42,7 +42,7 @@ public VectorLayer CreateLayer(string path)
 
 ## CreateLayer(AbstractPath) {#createlayer}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path)
@@ -50,20 +50,20 @@ public VectorLayer CreateLayer(AbstractPath path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
+| path | AbstractPath | 文件的路径。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（参见[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
 
 ### 也可以看看
 
@@ -77,7 +77,7 @@ public VectorLayer CreateLayer(AbstractPath path)
 
 ## CreateLayer(string, DriverOptions) {#createlayer_5}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public VectorLayer CreateLayer(string path, DriverOptions options)
@@ -85,22 +85,22 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | String | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（参见[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
 
 ### 也可以看看
 
@@ -114,7 +114,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 
 ## CreateLayer(AbstractPath, DriverOptions) {#createlayer_1}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
@@ -122,22 +122,22 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | AbstractPath | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（参见[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
 
 ### 也可以看看
 
@@ -152,7 +152,7 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 
 ## CreateLayer(string, SpatialReferenceSystem) {#createlayer_7}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialReferenceSystem)
@@ -160,21 +160,21 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
+| path | String | 文件的路径。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用SpatialReferenceSystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)检查是否支持空间参考系统。 |
 
 ### 也可以看看
 
@@ -188,7 +188,7 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 
 ## CreateLayer(AbstractPath, SpatialReferenceSystem) {#createlayer_3}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatialReferenceSystem)
@@ -196,21 +196,21 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
+| path | AbstractPath | 文件的路径。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用SpatialReferenceSystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)检查是否支持空间参考系统。 |
 
 ### 也可以看看
 
@@ -225,7 +225,7 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 
 ## CreateLayer(string, DriverOptions, SpatialReferenceSystem) {#createlayer_6}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public VectorLayer CreateLayer(string path, DriverOptions options, 
@@ -234,24 +234,24 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | String | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用SpatialReferenceSystem)检查是否支持空间参考系统。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（参见[`CanCreateLayers`](../cancreatelayers))。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
 
 ### 也可以看看
 
@@ -266,7 +266,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -275,24 +275,24 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | AbstractPath | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用SpatialReferenceSystem)检查是否支持空间参考系统。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（参见[`CanCreateLayers`](../cancreatelayers))。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
 
 ### 也可以看看
 

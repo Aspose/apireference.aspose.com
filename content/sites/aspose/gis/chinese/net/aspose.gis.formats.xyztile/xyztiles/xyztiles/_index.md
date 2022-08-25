@@ -1,14 +1,14 @@
 ---
 title: XyzTiles
 second_title: Aspose.GIS for .NET API 参考
-description: 创建XyzTilesaspose.gis.formats.xyztile/xyztiles的实例
+description: 创建一个实例XyzTilesaspose.gis.formats.xyztile/xyztiles.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.xyztile/xyztiles/xyztiles/
 ---
 ## XyzTiles constructor
 
-创建[`XyzTiles`](../../xyztiles)的实例。
+创建一个实例[`XyzTiles`](../../xyztiles).
 
 ```csharp
 public XyzTiles(XyzConnection connection)
@@ -16,7 +16,7 @@ public XyzTiles(XyzConnection connection)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| connection | XyzConnection | 包含网络选项的连接。 |
+| connection | XyzConnection | 包含 Web 选项的连接。 |
 
 ### 也可以看看
 

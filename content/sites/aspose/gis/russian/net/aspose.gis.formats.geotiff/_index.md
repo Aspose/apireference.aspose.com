@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.GeoTiff
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Aspose.Gis.Formats.GeoTiffПространство имен предоставляет классы для работы с форматом GeoTiff.
+description: Aspose.Gis.Formats.GeoTiff namespace предоставляет классы для работы с форматом GeoTiff.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.formats.geotiff/
 ---
-` Aspose.Gis.Formats.GeoTiff`Пространство имен предоставляет классы для работы с форматом GeoTiff.
+`Aspose.Gis.Formats.GeoTiff` namespace предоставляет классы для работы с форматом GeoTiff.
 
 ## Классы
 

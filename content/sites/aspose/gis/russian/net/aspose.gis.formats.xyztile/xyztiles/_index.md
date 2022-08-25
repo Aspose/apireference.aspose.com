@@ -1,14 +1,14 @@
 ---
 title: XyzTiles
 second_title: Справочник по Aspose.GIS for .NET API
-description: XyzTiles обеспечивают доступ к объектамXyzTile.
+description: XyzTiles обеспечивают доступ кXyzTile объекты.
 type: docs
 weight: 670
 url: /ru/net/aspose.gis.formats.xyztile/xyztiles/
 ---
 ## XyzTiles class
 
-XyzTiles обеспечивают доступ к объектамXyzTile.
+XyzTiles обеспечивают доступ кXyzTile объекты.
 
 ```csharp
 public sealed class XyzTiles : WebTiles
@@ -18,7 +18,7 @@ public sealed class XyzTiles : WebTiles
 
 | Имя | Описание |
 | --- | --- |
-| [XyzTiles](xyztiles)(XyzConnection) | Создать экземпляр[`XyzTiles`](../xyztiles). |
+| [XyzTiles](xyztiles)(XyzConnection) | Создать экземпляр[`XyzTiles`](../xyztiles) . |
 
 ## Методы
 

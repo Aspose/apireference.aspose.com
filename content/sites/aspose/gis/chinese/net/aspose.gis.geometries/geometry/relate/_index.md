@@ -1,7 +1,7 @@
 ---
 title: Relate
 second_title: Aspose.GIS for .NET API 参考
-description: 确定此几何与指定几何的 DE-9IM 交集矩阵是否与提供的模式匹配
+description: 确定此几何与指定几何的 DE9IM 交集矩阵是否与提供的模式匹配
 type: docs
 weight: 300
 url: /zh/net/aspose.gis.geometries/geometry/relate/
@@ -17,7 +17,7 @@ public bool Relate(IGeometry other, string intersectionPatternMatrix)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | other | IGeometry | 几何。 |
-| intersectionPatternMatrix | String | 匹配的模式。 这应该是一个长度等于 9 的字符串。 字符串的每个字符代表一个交集的预期维度: &lt;ul&gt;&lt;li&gt;字符 0 - 几何内部之间。&lt;/li&gt;&lt;li&gt;字符 1 - 该几何内部和另一个几何边界之间。&lt;/li&gt;&lt;li&gt;字符 2 - 这个几何内部和另一个几何外部之间.&lt;/li&gt;&lt;li&gt;字符 3 - 在此几何图形的边界和另一个几何图形的内部之间。&lt;/li&gt;&lt;li&gt;字符 4 - 在几何图形的边界之间。&lt;/li&gt;&lt;li&gt;字符 5 - 在边界之间&lt;/li&gt;&lt;li&gt;字符 6 - 在此几何体的外部和另一个几何体的内部之间。&lt;/li&gt;&lt;li&gt;字符 7 - 在此几何体的外部和另一个几何体的边界之间.&lt;/li&gt;&lt;li&gt;字符 8 - 在几何图形的外部之间。&lt;/li&gt;&lt;/ul&gt; 每个字符的可能值是: &lt;ul&gt;&lt; li&gt;* - 任意值；&lt;/li&gt;&lt;li&gt;F - 没有交集；&lt;/li&gt;&lt;li&gt;T - 任何交叉点；&lt;/li&gt;&lt;li&gt;0 - 点交叉点（例如共享点）；&lt;/li&gt;&lt;li&gt;1 - 线交叉点（例如共享线段）；&lt;/li&gt;&lt;li&gt;2 - 面积相交（例如多边形的共享部分）；&lt;/li&gt;&lt;/ul&gt; 例如，相交模式“F0*******”表示几何之间不应该有相交内部 和几何边界之间的交集必须是一个点。 有关交叉矩阵模式的更多详细信息，请参阅 OpenGIS 简单功能规范。 |
+| intersectionPatternMatrix | String | 匹配的模式。 这应该是一个长度等于 9 的字符串。 字符串的每个字符代表一个交集的预期尺寸： 字符 0 - 几何内部之间。字符 1 - 在这个几何图形的内部和另一个几何图形的边界之间。字符 2 - 在这个几何的内部和另一个几何的外部之间。字符 3 - 在这个几何图形的边界和另一个几何图形的内部之间。字符 4 - 几何边界之间。字符 5 - 在这个几何图形的边界和另一个几何图形的外部之间。字符 6 - 在这个几何的外部和另一个几何的内部之间。字符 7 - 在这个几何图形的外部和另一个几何图形的边界之间。字符 8 - 在几何图形的外部之间。 每个字符的可能值是： * - 任何值；F——没有交叉点；T - 任何交叉点；0 - 点交叉点（例如共享点）；1 - 线交点（例如共享线段）；2 - 区域交叉点（例如多边形的共享部分）； 例如，相交模式“F0*******”表示几何内部不应该有交集模式. |
 
 ### 返回值
 
@@ -27,17 +27,17 @@ public bool Relate(IGeometry other, string intersectionPatternMatrix)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *other*是`null`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | *other*是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 评论
 
-此方法构建 DE-9IM 交集矩阵并将其与模式 匹配有关 DE-9IM 交叉矩阵的更多详细信息，请参阅 OpenGIS 简单功能规范。
+此方法构建 DE-9IM 交集矩阵并将其与模式匹配 有关 DE-9IM 交集矩阵的更多详细信息，请参阅 OpenGIS 简单特征规范。
 
 ### 例子
 
-以下代码: &lt;cr /&gt; 将检测几何形状在空间上是否相等。
+以下代码：  将检测几何在空间上是否相等。
 
 ```csharp
 geometry.Relate(other, "T*F**FFF*");

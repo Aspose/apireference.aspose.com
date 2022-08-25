@@ -1,14 +1,14 @@
 ---
 title: FeaturesSequence
 second_title: Справочник по Aspose.GIS for .NET API
-description: Последовательность объектов представленная этим VectorMapLayer .
+description: Последовательность функций представленная этимВекторКартаСлой .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.rendering/vectormaplayer/featuressequence/
 ---
 ## VectorMapLayer.FeaturesSequence property
 
-Последовательность объектов, представленная этим` VectorMapLayer` .
+Последовательность функций, представленная этим`ВекторКартаСлой` .
 
 ```csharp
 public FeaturesSequence FeaturesSequence { get; }

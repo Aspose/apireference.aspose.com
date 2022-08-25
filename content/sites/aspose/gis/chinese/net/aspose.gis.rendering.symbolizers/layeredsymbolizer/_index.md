@@ -3,7 +3,7 @@ title: LayeredSymbolizer
 second_title: Aspose.GIS for .NET API 参考
 description: 渲染其他几个符号的符号
 type: docs
-weight: 1720
+weight: 1730
 url: /zh/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/
 ---
 ## LayeredSymbolizer class
@@ -25,9 +25,9 @@ public class LayeredSymbolizer : VectorSymbolizer, IReadOnlyList<VectorSymbolize
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/count) { get; } | 获取符号器的数量。 |
-| [Item](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/item) { get; } | 获取指定索引处的符号。 |
-| [RenderingOrder](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/renderingorder) { get; set; } | 确定渲染顺序。 &lt;ul&gt;&lt;li&gt;ByFeatures- 渲染特征的所有符号，然后继续下一个功能。 &lt;/li&gt;&lt;li&gt;ByLayers- 使用符号器渲染所有特征，然后继续下一个符号器。 &lt;/li&gt;&lt;/ul&gt; |
+| [Count](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/count) { get; } | 获取符号的数量。 |
+| [Item](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/item) { get; } | 获取指定索引处的符号器。 |
+| [RenderingOrder](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/renderingorder) { get; set; } | 确定渲染顺序。 ByFeatures - 渲染该要素的所有符号，然后继续下一个要素。ByLayers - 使用符号器渲染所有要素，然后继续下一个符号器。 |
 
 ## 方法
 

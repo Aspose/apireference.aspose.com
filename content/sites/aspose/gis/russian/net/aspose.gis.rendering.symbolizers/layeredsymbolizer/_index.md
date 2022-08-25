@@ -3,7 +3,7 @@ title: LayeredSymbolizer
 second_title: Справочник по Aspose.GIS for .NET API
 description: Символизатор отображающий несколько других символизаторов.
 type: docs
-weight: 1720
+weight: 1730
 url: /ru/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/
 ---
 ## LayeredSymbolizer class
@@ -27,14 +27,14 @@ public class LayeredSymbolizer : VectorSymbolizer, IReadOnlyList<VectorSymbolize
 | --- | --- |
 | [Count](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/count) { get; } | Получает количество символизаторов. |
 | [Item](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/item) { get; } | Получает символизатор по указанному индексу. |
-| [RenderingOrder](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/renderingorder) { get; set; } | Определяет порядок рендеринга. &lt;ul&gt;&lt;li&gt;ByFeatures- визуализировать все символы для объекта, затем перейти к следующей функции. &lt;/li&gt;&lt;li&gt;ByLayers- визуализировать все объекты с помощью символизатора, затем перейти к следующему символизатору. &lt;/li&gt;&lt;/ul&gt; |
+| [RenderingOrder](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/renderingorder) { get; set; } | Определяет порядок рендеринга. ByFeatures - визуализировать все символизаторы для объекта, затем перейти к следующему объекту.ByLayers - визуализировать все объекты с помощью символизатора, затем перейти к следующему символизатору. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/add)(VectorSymbolizer) | Добавляет указанный символизатор. |
-| [GetEnumerator](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| [GetEnumerator](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 
 ### Смотрите также
 

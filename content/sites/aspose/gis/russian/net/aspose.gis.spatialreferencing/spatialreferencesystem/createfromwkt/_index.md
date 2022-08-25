@@ -1,14 +1,14 @@
 ---
 title: CreateFromWkt
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новую SpatialReferenceSystem на основе строки WKT общеизвестный текст.
+description: Создает новыйSpatialReferenceSystem на основе строки WKT общеизвестный текст.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/createfromwkt/
 ---
 ## SpatialReferenceSystem.CreateFromWkt method
 
-Создает новую` SpatialReferenceSystem` на основе строки WKT (общеизвестный текст).
+Создает новый`SpatialReferenceSystem` на основе строки WKT (общеизвестный текст).
 
 ```csharp
 public static SpatialReferenceSystem CreateFromWkt(string wkt)
@@ -16,17 +16,17 @@ public static SpatialReferenceSystem CreateFromWkt(string wkt)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| wkt | String | Строка WKT. |
+| wkt | String | Строка ВКТ. |
 
 ### Возвращаемое значение
 
-Новый` SpatialReferenceSystem` .
+Новый`SpatialReferenceSystem` .
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null` . |
 | FormatException | Иерархия значений wkt, их порядок или типы неверны. |
 | NotSupportedException | Корневой элемент WKT не поддерживается (например, FITTED_CS). |
 

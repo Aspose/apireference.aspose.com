@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по Aspose.GIS for .NET API
-description: Добавляет новый объект в слой если поддерживаетсяVectorLayeraspose.gis/vectorlayersDriveraspose.gis/vectorlayer/driver.
+description: Добавляет в слой новый объект если поддерживаетсяVectorLayeraspose.gis/vectorlayer сDriveraspose.gis/vectorlayer/driver .
 type: docs
 weight: 80
 url: /ru/net/aspose.gis/vectorlayer/add/
 ---
 ## Add(Feature) {#add}
 
-Добавляет новый объект в слой, если поддерживается[`VectorLayer`](../../vectorlayer)'s[`Driver`](../driver).
+Добавляет в слой новый объект, если поддерживается[`VectorLayer`](../../vectorlayer) с[`Driver`](../driver) .
 
 ```csharp
 public void Add(Feature feature)
@@ -16,13 +16,13 @@ public void Add(Feature feature)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| feature | Feature | Добавляемая функция. |
+| feature | Feature | Функция для добавления. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | выдается, если слой доступен только для чтения. |
+| InvalidOperationException | выбрасывается, если слой доступен только для чтения. |
 
 ### Смотрите также
 
@@ -35,7 +35,7 @@ public void Add(Feature feature)
 
 ## Add(Feature, IFeatureStyle) {#add_1}
 
-Добавляет в слой новый объект с указанным стилем, если поддерживается[`VectorLayer`](../../vectorlayer)'s[`Driver`](../driver).
+Добавляет в слой новый объект с указанным стилем, если поддерживается[`VectorLayer`](../../vectorlayer) с[`Driver`](../driver) .
 
 ```csharp
 public virtual void Add(Feature feature, IFeatureStyle style)
@@ -43,16 +43,16 @@ public virtual void Add(Feature feature, IFeatureStyle style)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| feature | Feature | Добавляемая функция. |
-| style | IFeatureStyle | Стиль объекта. Используйте`null`для указания отсутствующего стиля. |
+| feature | Feature | Функция для добавления. |
+| style | IFeatureStyle | Художественный стиль. Использовать`null` чтобы указать отсутствующий стиль. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | выдается, если слой не поддерживает стили или слой доступен только для чтения. |
-| InvalidOperationException | выдается, если редактируемые слои не поддерживают стили. |
-| ArgumentException | выдается, если стиль не соответствует типу драйвера. |
+| InvalidOperationException | вызывается, если слой не поддерживает стили или слой доступен только для чтения. |
+| InvalidOperationException | выбрасывается, если редактируемые слои не поддерживают стили. |
+| ArgumentException | выбрасывается, если стиль не соответствует типу драйвера. |
 
 ### Смотрите также
 

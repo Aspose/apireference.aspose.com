@@ -16,15 +16,15 @@ public virtual AbstractPath WithExtension(string newExtension)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newExtension | String | 新扩展。 |
+| newExtension | String | 一个新的扩展。 |
 
 ### 返回值
 
-一个新的[`AbstractPath`](../../abstractpath)，指向同一目录中的文件，但有一个新的扩展名。
+一个新的[`AbstractPath`](../../abstractpath) ，它指向同一目录中的文件，但具有新的扩展名.
 
 ### 评论
 
-通常，继承者不应覆盖此方法。默认实现替换 扩展并调用[`WithLocation`](../withlocation)。
+通常，继承者不应覆盖此方法。默认实现替代 扩展和调用[`WithLocation`](../withlocation).
 
 ### 也可以看看
 

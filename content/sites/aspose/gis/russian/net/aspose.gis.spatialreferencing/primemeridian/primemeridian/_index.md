@@ -16,7 +16,7 @@ public PrimeMeridian(string name, double longitude, Identifier identifier = null
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя этого нулевого меридиана. |
+| name | String | Название этого нулевого меридиана. |
 | longitude | Double | Долгота нулевого меридиана относительно Гринвича в градусах. |
 | identifier | Identifier | Идентификатор нулевого меридиана. |
 

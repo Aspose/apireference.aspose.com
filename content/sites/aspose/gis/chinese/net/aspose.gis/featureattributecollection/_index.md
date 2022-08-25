@@ -1,14 +1,14 @@
 ---
 title: FeatureAttributeCollection
 second_title: Aspose.GIS for .NET API 参考
-description: AFeatureAttributeCollection./featureattributecollection定义可用于Feature的属性
+description: 一个FeatureAttributeCollection./featureattributecollection定义哪些属性可用于Feature./feature.
 type: docs
 weight: 140
 url: /zh/net/aspose.gis/featureattributecollection/
 ---
 ## FeatureAttributeCollection class
 
-A[`FeatureAttributeCollection`](../featureattributecollection)定义可用于Feature的属性。
+一个[`FeatureAttributeCollection`](../featureattributecollection)定义哪些属性可用于[`Feature`](../feature).
 
 ```csharp
 public sealed class FeatureAttributeCollection : IEnumerable<FeatureAttribute>
@@ -18,16 +18,16 @@ public sealed class FeatureAttributeCollection : IEnumerable<FeatureAttribute>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.gis/featureattributecollection/count) { get; } | 获取[`Feature`](../feature)中的属性数量。 |
-| [IsLocked](../../aspose.gis/featureattributecollection/islocked) { get; } | 获取一个值，该值指示该属性集合是否被锁定。 |
-| [Item](../../aspose.gis/featureattributecollection/item) { get; set; } | 获取或设置指定索引处的[`FeatureAttribute`](../featureattribute)。 |
-| [Item](../../aspose.gis/featureattributecollection/item) { get; } | 获取或设置具有指定名称的[`FeatureAttribute`](../featureattribute)。 |
+| [Count](../../aspose.gis/featureattributecollection/count) { get; } | 获取一个属性的个数[`Feature`](../feature). |
+| [IsLocked](../../aspose.gis/featureattributecollection/islocked) { get; } | 获取一个值，指示此属性集合是否被锁定。 |
+| [Item](../../aspose.gis/featureattributecollection/item) { get; set; } | 获取或设置[`FeatureAttribute`](../featureattribute)在指定的索引处。 |
+| [Item](../../aspose.gis/featureattributecollection/item) { get; } | 获取或设置[`FeatureAttribute`](../featureattribute)具有指定的名称。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.gis/featureattributecollection/add)(FeatureAttribute) | 将属性添加到集合中。 |
+| [Add](../../aspose.gis/featureattributecollection/add)(FeatureAttribute) | 向集合中添加一个属性。 |
 | [Contains](../../aspose.gis/featureattributecollection/contains)(string) | 确定属性集合是否包含具有指定名称的属性。 |
 | [GetEnumerator](../../aspose.gis/featureattributecollection/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | [IndexOf](../../aspose.gis/featureattributecollection/indexof)(string) | 搜索属性并返回其从零开始的索引。 |

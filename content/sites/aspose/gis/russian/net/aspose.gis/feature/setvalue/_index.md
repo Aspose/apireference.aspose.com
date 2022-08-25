@@ -24,12 +24,12 @@ public void SetValue<T>(string attributeName, T value)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Имя атрибута:`null`. |
+| ArgumentNullException | Имя атрибута`null`. |
 | ArgumentException | Атрибут с таким именем не существует в этом слое. |
 | InvalidOperationException | Атрибут не заблокирован. |
-| InvalidCastException | Тип значения не реализуетIConvertible. |
-| FormatException | Преобразование завершилось неудачно, поскольку значение имеет неверный формат. |
-| OverflowException | Ошибка преобразования из-за переполнения. |
+| InvalidCastException | Тип значения не реализуетсяIConvertible. |
+| FormatException | Не удалось выполнить преобразование, поскольку значение имеет неверный формат. |
+| OverflowException | Преобразование не выполнено из-за переполнения. |
 
 ### Примечания
 

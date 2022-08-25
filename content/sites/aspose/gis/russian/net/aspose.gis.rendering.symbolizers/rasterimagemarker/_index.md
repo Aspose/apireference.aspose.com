@@ -1,14 +1,14 @@
 ---
 title: RasterImageMarker
 second_title: Справочник по Aspose.GIS for .NET API
-description: Этот символизатор отображает предоставленное растровое изображение.
+description: Этот символизатор визуализирует предоставленное растровое изображение.
 type: docs
-weight: 1790
+weight: 1800
 url: /ru/net/aspose.gis.rendering.symbolizers/rasterimagemarker/
 ---
 ## RasterImageMarker class
 
-Этот символизатор отображает предоставленное растровое изображение.
+Этот символизатор визуализирует предоставленное растровое изображение.
 
 ```csharp
 public class RasterImageMarker : VectorSymbolizer
@@ -18,23 +18,23 @@ public class RasterImageMarker : VectorSymbolizer
 
 | Имя | Описание |
 | --- | --- |
-| [RasterImageMarker](rasterimagemarker#constructor)(AbstractPath) | Инициализирует новый экземпляр класса[`RasterImageMarker`](../rasterimagemarker). |
-| [RasterImageMarker](rasterimagemarker#constructor_1)(RasterImageMarker) | Инициализирует новый экземпляр класса[`RasterImageMarker`](../rasterimagemarker). |
-| [RasterImageMarker](rasterimagemarker#constructor_2)(string) | Инициализирует новый экземпляр класса[`RasterImageMarker`](../rasterimagemarker). |
+| [RasterImageMarker](rasterimagemarker#constructor)(AbstractPath) | Инициализирует новый экземпляр[`RasterImageMarker`](../rasterimagemarker) учебный класс. |
+| [RasterImageMarker](rasterimagemarker#constructor_1)(RasterImageMarker) | Инициализирует новый экземпляр[`RasterImageMarker`](../rasterimagemarker) учебный класс. |
+| [RasterImageMarker](rasterimagemarker#constructor_2)(string) | Инициализирует новый экземпляр[`RasterImageMarker`](../rasterimagemarker) учебный класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/rasterimagemarker/featurebasedconfiguration) { get; set; } | Обратный вызов, который используется для настройки этого символизатора перед визуализацией функции. |
-| [Height](../../aspose.gis.rendering.symbolizers/rasterimagemarker/height) { get; set; } | Задает высоту маркера. |
+| [Height](../../aspose.gis.rendering.symbolizers/rasterimagemarker/height) { get; set; } | Определяет высоту маркера. |
 | [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontalanchorpoint) { get; set; } | указывает, какая сторона формы маркера будет выровнена по горизонтали с точкой. |
-| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontaloffset) { get; set; } | Определяет горизонтальное смещение от местоположения точки до точки привязки формы. |
+| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontaloffset) { get; set; } | Задает горизонтальное смещение от точки до точки привязки фигуры. |
 | [Opacity](../../aspose.gis.rendering.symbolizers/rasterimagemarker/opacity) { get; set; } | Непрозрачность слоя. Значение по умолчанию — 1,0. |
-| [Rotation](../../aspose.gis.rendering.symbolizers/rasterimagemarker/rotation) { get; set; } | Задает поворот символа относительно его центральной точки в десятичных градусах. Положительные значения указывают на вращение по часовой стрелке, отрицательные значения указывают на вращение против часовой стрелки. |
+| [Rotation](../../aspose.gis.rendering.symbolizers/rasterimagemarker/rotation) { get; set; } | Определяет поворот символа относительно его центральной точки в десятичных градусах. Положительные значения указывают на вращение по часовой стрелке, отрицательные значения указывают на вращение против часовой стрелки. |
 | [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticalanchorpoint) { get; set; } | Указывает, какая сторона формы маркера будет выровнена по вертикали с точкой. |
-| [VerticalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset) { get; set; } | Определяет вертикальное смещение от местоположения точки до точки привязки формы. |
-| [Width](../../aspose.gis.rendering.symbolizers/rasterimagemarker/width) { get; set; } | Задает ширину маркера. |
+| [VerticalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset) { get; set; } | Задает смещение по вертикали от местоположения точки до точки привязки формы. |
+| [Width](../../aspose.gis.rendering.symbolizers/rasterimagemarker/width) { get; set; } | Определяет ширину маркера. |
 
 ## Методы
 

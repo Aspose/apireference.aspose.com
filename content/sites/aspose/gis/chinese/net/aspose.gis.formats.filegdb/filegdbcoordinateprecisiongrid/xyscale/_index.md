@@ -1,14 +1,14 @@
 ---
 title: XYScale
 second_title: Aspose.GIS for .NET API 参考
-description: 获取或设置 X 和 Y 坐标的比例如果设置为null则使用默认值
+description: 获取或设置 X 和 Y 坐标的比例如果设置为null使用默认值
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.XYScale property
 
-获取或设置 X 和 Y 坐标的比例。如果设置为`null`则使用默认值。
+获取或设置 X 和 Y 坐标的比例。如果设置为`null`使用默认值。
 
 ```csharp
 public double? XYScale { get; set; }
@@ -18,11 +18,11 @@ public double? XYScale { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | 参数不是正数。 |
+| ArgumentOutOfRangeException | 论据不积极。 |
 
 ### 评论
 
-默认值为` 1e9` 对于[`VectorLayer`](../../../aspose.gis/vectorlayer)与地理SpatialReferenceSystem 和` XYScale = 1 / XYTolerance * 10` 用于[`VectorLayer`](../../../aspose.gis/vectorlayer)与 投影SpatialReferenceSystem。
+默认值为`1e9`为了[`VectorLayer`](../../../aspose.gis/vectorlayer)与地理[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) 和`XYScale = 1 / XYTolerance * 10`为了[`VectorLayer`](../../../aspose.gis/vectorlayer)with 预计[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem).
 
 ### 也可以看看
 

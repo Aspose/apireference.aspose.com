@@ -1,14 +1,14 @@
 ---
 title: Renderer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Базовый класс для средств визуализации.
+description: Базовый класс для визуализаторов.
 type: docs
-weight: 1660
+weight: 1670
 url: /ru/net/aspose.gis.rendering/renderer/
 ---
 ## Renderer class
 
-Базовый класс для средств визуализации.
+Базовый класс для визуализаторов.
 
 ```csharp
 public abstract class Renderer
@@ -18,8 +18,8 @@ public abstract class Renderer
 
 | Имя | Описание |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render#render)(Map, AbstractPath) | Отображает карту. |
-| [Render](../../aspose.gis.rendering/renderer/render#render_1)(Map, string) | Отображает карту. |
+| [Render](../../aspose.gis.rendering/renderer/render#render)(Map, AbstractPath) | Визуализирует карту. |
+| [Render](../../aspose.gis.rendering/renderer/render#render_1)(Map, string) | Визуализирует карту. |
 
 ### Смотрите также
 

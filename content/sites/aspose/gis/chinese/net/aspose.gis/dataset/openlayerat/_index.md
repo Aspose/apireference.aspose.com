@@ -1,14 +1,14 @@
 ---
 title: OpenLayerAt
 second_title: Aspose.GIS for .NET API 参考
-description: 在指定索引处打开图层进行读取
+description: 在指定索引处打开图层以供读取
 type: docs
 weight: 120
 url: /zh/net/aspose.gis/dataset/openlayerat/
 ---
 ## Dataset.OpenLayerAt method
 
-在指定索引处打开图层进行读取。
+在指定索引处打开图层以供读取。
 
 ```csharp
 public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
@@ -21,7 +21,7 @@ public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 
 ### 返回值
 
-图层打开以供读取。
+图层打开以供阅读。
 
 ### 例外
 
@@ -30,7 +30,7 @@ public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 | ArgumentException | 选项对象对此数据集的类型不正确。 |
 | ArgumentOutOfRangeException | 索引超出范围 |
 | ArgumentException | 选项对象对此数据集的类型不正确。 |
-| [GisException](../../gisexception) | 从图层读取特征时出错。 |
+| [GisException](../../gisexception) | 从图层读取要素时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看

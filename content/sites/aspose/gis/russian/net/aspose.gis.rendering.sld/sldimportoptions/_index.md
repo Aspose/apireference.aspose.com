@@ -3,7 +3,7 @@ title: SldImportOptions
 second_title: Справочник по Aspose.GIS for .NET API
 description: Параметры для импорта файла дескриптора стилизованного слоя Sld.
 type: docs
-weight: 1680
+weight: 1690
 url: /ru/net/aspose.gis.rendering.sld/sldimportoptions/
 ---
 ## SldImportOptions class
@@ -24,7 +24,7 @@ public class SldImportOptions
 
 | Имя | Описание |
 | --- | --- |
-| [LoadInternetResources](../../aspose.gis.rendering.sld/sldimportoptions/loadinternetresources) { get; set; } | Определяет, разрешено ли Aspose.GIS загружать источники из Интернета. Если установлено значение`false`, схемы с абсолютными URI, которые не начинаются с 'file://', не будут загружены. По умолчанию:`false`. |
+| [LoadInternetResources](../../aspose.gis.rendering.sld/sldimportoptions/loadinternetresources) { get; set; } | Определяет, разрешено ли Aspose.GIS загружать источники из Интернета. Если установлено значение`false` , схемы с абсолютными URI, которые не начинаются с 'file://', не будут загружены. Значение по умолчанию:`false` . |
 
 ### Смотрите также
 

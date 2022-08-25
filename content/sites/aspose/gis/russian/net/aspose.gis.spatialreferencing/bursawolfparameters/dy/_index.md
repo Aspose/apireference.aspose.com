@@ -1,14 +1,14 @@
 ---
 title: Dy
 second_title: Справочник по Aspose.GIS for .NET API
-description: Dy в метрах.
+description: Ды в метрах.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.spatialreferencing/bursawolfparameters/dy/
 ---
 ## BursaWolfParameters.Dy property
 
-Dy в метрах.
+Ды в метрах.
 
 ```csharp
 public double Dy { get; }

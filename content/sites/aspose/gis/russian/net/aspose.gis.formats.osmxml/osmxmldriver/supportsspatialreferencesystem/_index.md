@@ -24,7 +24,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### Примечания
 
-Для OSM XML единственной поддерживаемой системой пространственной привязки является WGS84.
+Для OSM XML единственная поддерживаемая система пространственной привязки — WGS84.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: CapStyle
 second_title: Aspose.GIS for .NET API 参考
-description: 指定如何在末端呈现线条
+description: 指定如何在其末端呈现线条
 type: docs
-weight: 1380
+weight: 1390
 url: /zh/net/aspose.gis.rendering/capstyle/
 ---
 ## CapStyle enumeration
 
-指定如何在末端呈现线条。
+指定如何在其末端呈现线条。
 
 ```csharp
 public enum CapStyle
@@ -19,7 +19,7 @@ public enum CapStyle
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Butt | `0` | 锋利的方形边缘。 |
-| Round | `1` | 圆角边缘。 |
+| Round | `1` | 圆形边缘。 |
 | Square | `2` | 略微拉长的方形边缘。 |
 
 ### 也可以看看

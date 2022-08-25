@@ -1,14 +1,14 @@
 ---
 title: PrimeMeridian
 second_title: Aspose.GIS for .NET API 参考
-description: 此 SRS 的本初子午线默认为Greenwichaspose.gis.spatialreferencing/primemeridian/greenwich
+description: 此 SRS 的本初子午线默认为Greenwichaspose.gis.spatialreferencing/primemeridian/greenwich.
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian/
 ---
 ## GeocentricSpatialReferenceSystemParameters.PrimeMeridian property
 
-此 SRS 的本初子午线。默认为[`Greenwich`](../../primemeridian/greenwich)。
+此 SRS 的本初子午线。默认为[`Greenwich`](../../primemeridian/greenwich).
 
 ```csharp
 public PrimeMeridian PrimeMeridian { get; set; }

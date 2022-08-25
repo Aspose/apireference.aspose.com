@@ -1,14 +1,14 @@
 ---
 title: CircularString
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化CircularStringaspose.gis.geometries/circularstring类的新实例
+description: 初始化CircularStringaspose.gis.geometries/circularstring类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/circularstring/circularstring/
 ---
 ## CircularString() {#constructor}
 
-初始化[`CircularString`](../../circularstring)类的新实例。
+初始化[`CircularString`](../../circularstring)类.
 
 ```csharp
 public CircularString()
@@ -24,7 +24,7 @@ public CircularString()
 
 ## CircularString(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-初始化[`CircularString`](../../circularstring)类的新实例。
+初始化[`CircularString`](../../circularstring)类.
 
 ```csharp
 public CircularString(IEnumerable<IPoint> collection)
@@ -38,8 +38,8 @@ public CircularString(IEnumerable<IPoint> collection)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| InvalidOperationException | 任何点都是空的（它的[`IsEmpty`](../../igeometry/isempty)是`true`)。 |
+| ArgumentNullException | 论据是`null`. |
+| InvalidOperationException | 任何一点都是空的（它的[`IsEmpty`](../../igeometry/isempty)是`true`）。 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public CircularString(IEnumerable<IPoint> collection)
 
 ## CircularString(ICircularString) {#constructor_1}
 
-初始化[`CircularString`](../../circularstring)类的新实例。
+初始化[`CircularString`](../../circularstring)类.
 
 ```csharp
 public CircularString(ICircularString other)
@@ -66,7 +66,7 @@ public CircularString(ICircularString other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

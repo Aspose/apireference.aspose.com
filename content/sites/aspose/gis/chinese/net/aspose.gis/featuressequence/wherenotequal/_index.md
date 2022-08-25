@@ -18,11 +18,11 @@ public virtual FeaturesSequence WhereNotEqual<T>(string attributeName, T value)
 | --- | --- |
 | T | 要比较的值的类型。 |
 | attributeName | 要过滤的属性。 |
-| value | 要比较的值。 |
+| value | 比较的价值。 |
 
 ### 返回值
 
-属性值不等于提供值的特征。
+属性值不等于提供值的要素。
 
 ### 例外
 

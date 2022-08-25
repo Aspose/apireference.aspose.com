@@ -22,7 +22,7 @@ public string Name { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 | InvalidOperationException | 属性被锁定。 |
 
 ### 也可以看看

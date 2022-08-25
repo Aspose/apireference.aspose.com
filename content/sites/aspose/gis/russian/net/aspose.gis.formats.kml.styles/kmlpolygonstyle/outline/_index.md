@@ -1,14 +1,14 @@
 ---
 title: Outline
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает обводить ли многоугольник контуром. Значение по умолчаниюtrue.
+description: Указывает следует ли обводить полигон. Значение по умолчаниюtrue.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/outline/
 ---
 ## KmlPolygonStyle.Outline property
 
-Указывает, обводить ли многоугольник контуром. Значение по умолчанию:`true`.
+Указывает, следует ли обводить полигон. Значение по умолчанию`true`.
 
 ```csharp
 public bool Outline { get; set; }

@@ -22,7 +22,7 @@ public void RoundM(int digits)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | *digits*меньше 0 или больше 15. |
+| ArgumentOutOfRangeException | *digits* меньше 0 или больше 15. |
 
 ### Смотрите также
 

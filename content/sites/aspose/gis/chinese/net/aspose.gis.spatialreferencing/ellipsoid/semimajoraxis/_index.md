@@ -1,14 +1,14 @@
 ---
 title: SemiMajorAxis
 second_title: Aspose.GIS for .NET API 参考
-description: 椭球半长轴
+description: 椭球的半长轴
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/ellipsoid/semimajoraxis/
 ---
 ## Ellipsoid.SemiMajorAxis property
 
-椭球半长轴。
+椭球的半长轴。
 
 ```csharp
 public double SemiMajorAxis { get; }

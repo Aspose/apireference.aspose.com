@@ -1,14 +1,14 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters
 second_title: Aspose.GIS for .NET API 参考
-description: 用于创建投影 SRS 的参数一些参数有默认值 一些参数有合理的默认值所以你不必只分配它们 如果将null分配给这些参数将使用默认值 ProjectionMethodName和Base没有默认值 - 您必须为此属性分配一些非null值
+description: 创建投影 SRS 的参数有些参数有默认值 有些参数有合理的默认值所以你不必只分配它们 如果你分配null对于这些参数将使用默认值 ProjectionMethodName./projectedspatialreferencesystemparameters/projectionmethodname和Base./projectedspatialreferencesystemparameters/base没有默认值  你必须分配一些非null此属性的值
 type: docs
-weight: 2120
+weight: 2130
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters class
 
-用于创建投影 SRS 的参数。一些参数有默认值。 一些参数有合理的默认值，所以你不必只分配它们。 如果将`null`分配给这些参数，将使用默认值。 ProjectionMethodName和Base没有默认值 - 您必须为此属性分配一些非`null`值。
+创建投影 SRS 的参数。有些参数有默认值。 有些参数有合理的默认值，所以你不必只分配它们。 如果你分配`null`对于这些参数，将使用默认值。 [`ProjectionMethodName`](./projectionmethodname)和[`Base`](./base)没有默认值 - 你必须分配一些非`null`此属性的值。
 
 ```csharp
 public class ProjectedSpatialReferenceSystemParameters
@@ -24,14 +24,14 @@ public class ProjectedSpatialReferenceSystemParameters
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder) { get; set; } | 轴的顺序。默认为XY。 |
-| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base) { get; set; } | 基础地理 SRS（应用投影的 SRS）。 您必须将此属性设置为非`null`值才能创建有效的 SRS， 此属性没有任何默认值。 |
-| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit) { get; set; } | 在此 SRS 中使用的单位。默认为[`Meter`](../unit/meter)。 |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder) { get; set; } | 轴的顺序。默认为XY. |
+| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base) { get; set; } | 基本地理 SRS（应用投影的 SRS）。 您必须将此属性设置为 not`null`值以创建有效的 SRS， 此属性没有任何默认值。 |
+| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit) { get; set; } | 在此 SRS 中使用的单位。默认为[`Meter`](../unit/meter). |
 | [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name) { get; set; } | 预计 SRS 的名称。默认为“未命名”。 |
-| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier) { get; set; } | 投影方法的标识符。没有默认值，如果要将标识符附加到投影，可以将此参数设置为 not`null`value, 。如果您这样做 - 由您来确保一致的投影方法 名称中的标识符（设置此属性时投影方法名称不会更改）。 |
-| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname) { get; set; } | 投影方法的名称。没有默认值，您必须将此参数设置为 not`null`value，因为 没有投影名称的投影 SRS 是无用的。 |
-| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis) { get; set; } | 描述 X（水平）维度的轴。默认为向东的轴。 |
-| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis) { get; set; } | 描述 Y（垂直）维度的轴。默认为北向轴。 |
+| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier) { get; set; } | 投影方法的标识符。没有默认值，您可以将此参数设置为 not`null`值， 如果要将标识符附加到投影。如果您这样做 - 由您来确保标识符在一致的投影方法 名称中（设置此属性时投影方法名称不会更改）。 |
+| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname) { get; set; } | 投影方法的名称。没有默认值，您必须将此参数设置为 not`null`值，因为 没有投影名称的投影SRS是没用的。 |
+| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis) { get; set; } | 描述 X（水平）尺寸的轴。默认为向东的轴。 |
+| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis) { get; set; } | 描述 Y（垂直）尺寸的轴。默认为北向轴。 |
 
 ## 方法
 

@@ -22,9 +22,9 @@ public void Add(IGeometry geometry)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Коллекция не принимает геометрии этого типа. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)этой геометрии и[`SpatialReferenceSystem`](../spatialreferencesystem)аргумента не являются `null`и не равны друг другу. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) этой геометрии и[`SpatialReferenceSystem`](../spatialreferencesystem) аргумента оба не `null` и не равны друг другу. |
 
 ### Смотрите также
 

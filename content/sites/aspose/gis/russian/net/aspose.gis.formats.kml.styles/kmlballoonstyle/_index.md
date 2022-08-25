@@ -1,14 +1,14 @@
 ---
 title: KmlBalloonStyle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет способ отображения всплывающей подсказки описания.
+description: Указывает как отображается всплывающая подсказка с описанием.
 type: docs
 weight: 360
 url: /ru/net/aspose.gis.formats.kml.styles/kmlballoonstyle/
 ---
 ## KmlBalloonStyle class
 
-Определяет способ отображения всплывающей подсказки описания.
+Указывает, как отображается всплывающая подсказка с описанием.
 
 ```csharp
 public class KmlBalloonStyle
@@ -24,10 +24,10 @@ public class KmlBalloonStyle
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/backgroundcolor) { get; set; } | Определяет цвет фона графического элемента. Значение по умолчанию:White. |
-| [DisplayMode](../../aspose.gis.formats.kml.styles/kmlballoonstyle/displaymode) { get; set; } | Управляет отображением или скрытием всплывающей подсказки. Значение по умолчанию:Show |
-| [Text](../../aspose.gis.formats.kml.styles/kmlballoonstyle/text) { get; set; } | Задает текст, отображаемый во всплывающей подсказке. Значение по умолчанию:`null`. |
-| [TextColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor) { get; set; } | Определяет цвет текста переднего плана. Значение по умолчанию:Black. |
+| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/backgroundcolor) { get; set; } | Определяет цвет фона графического элемента. Значение по умолчаниюWhite . |
+| [DisplayMode](../../aspose.gis.formats.kml.styles/kmlballoonstyle/displaymode) { get; set; } | Определяет, отображается ли всплывающая подсказка или скрывается. Значение по умолчаниюShow |
+| [Text](../../aspose.gis.formats.kml.styles/kmlballoonstyle/text) { get; set; } | Задает текст, отображаемый во всплывающей подсказке. Значение по умолчанию`null` . |
+| [TextColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor) { get; set; } | Определяет цвет переднего плана текста. Значение по умолчаниюBlack . |
 
 ### Смотрите также
 

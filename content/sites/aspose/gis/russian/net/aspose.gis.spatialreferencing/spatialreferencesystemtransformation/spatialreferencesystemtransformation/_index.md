@@ -17,15 +17,15 @@ public SpatialReferenceSystemTransformation(SpatialReferenceSystem sourceSrs,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceSrs | SpatialReferenceSystem | Источник[`SpatialReferenceSystem`](../../spatialreferencesystem). |
-| targetSrs | SpatialReferenceSystem | Target[`SpatialReferenceSystem`](../../spatialreferencesystem). |
+| sourceSrs | SpatialReferenceSystem | Источник[`SpatialReferenceSystem`](../../spatialreferencesystem) . |
+| targetSrs | SpatialReferenceSystem | Цель[`SpatialReferenceSystem`](../../spatialreferencesystem) . |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | NotSupportedException | Преобразование между заданными системами пространственной привязки не поддерживается. |
-| [TransformationException](../../transformationexception) | Не удалось создать преобразование из-за неправильных параметров внутри SRS. |
+| [TransformationException](../../transformationexception) | Не удалось создать преобразование из-за неверных параметров внутри SRS. |
 
 ### Смотрите также
 

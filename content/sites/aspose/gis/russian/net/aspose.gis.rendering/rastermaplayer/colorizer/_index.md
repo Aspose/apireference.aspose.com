@@ -1,14 +1,14 @@
 ---
 title: Colorizer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Колоризатор используемый для рендеринга ячеек растра.
+description: Colorizer для рендеринга ячеек растра.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.rendering/rastermaplayer/colorizer/
 ---
 ## RasterMapLayer.Colorizer property
 
-Колоризатор, используемый для рендеринга ячеек растра.
+Colorizer для рендеринга ячеек растра.
 
 ```csharp
 public RasterColorizer Colorizer { get; set; }

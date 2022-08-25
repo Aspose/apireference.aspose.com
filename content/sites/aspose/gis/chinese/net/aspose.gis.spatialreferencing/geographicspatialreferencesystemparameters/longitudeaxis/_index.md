@@ -1,14 +1,14 @@
 ---
 title: LongitudeAxis
 second_title: Aspose.GIS for .NET API 参考
-description: 描述经度的轴默认为向东的轴
+description: 描述经度的轴默认为东向轴
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/longitudeaxis/
 ---
 ## GeographicSpatialReferenceSystemParameters.LongitudeAxis property
 
-描述经度的轴。默认为向东的轴。
+描述经度的轴。默认为东向轴。
 
 ```csharp
 public Axis LongitudeAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis LongitudeAxis { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 如果轴方向不是从设置器抛出East或West。 |
+| ArgumentException | 如果轴方向不是从 setter 抛出East或者West. |
 
 ### 也可以看看
 

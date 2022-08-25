@@ -1,14 +1,14 @@
 ---
 title: IMultiPolygon
 second_title: Справочник по Aspose.GIS for .NET API
-description: AIMultiPolygon./imultipolygonявляется одномерным IGeometryCollection./igeometrycollectionэлементами которого являютсяIPolygon./ipolygons.
+description: АIMultiPolygon./imultipolygon является одномерным IGeometryCollection./igeometrycollection чьи элементыIPolygon./ipolygon с.
 type: docs
-weight: 960
+weight: 970
 url: /ru/net/aspose.gis.geometries/imultipolygon/
 ---
 ## IMultiPolygon interface
 
-A[`IMultiPolygon`](../imultipolygon)является одномерным [`IGeometryCollection`](../igeometrycollection)элементами которого являются[`IPolygon`](../ipolygon)s.
+А[`IMultiPolygon`](../imultipolygon) является одномерным [`IGeometryCollection`](../igeometrycollection) чьи элементы[`IPolygon`](../ipolygon) с.
 
 ```csharp
 public interface IMultiPolygon : IMultiSurface

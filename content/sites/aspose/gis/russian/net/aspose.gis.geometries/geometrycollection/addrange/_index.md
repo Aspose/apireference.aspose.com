@@ -1,14 +1,14 @@
 ---
 title: AddRange
 second_title: Справочник по Aspose.GIS for .NET API
-description: Добавляет указанные геометрии в коллекцию.
+description: Добавляет указанную геометрию в коллекцию.
 type: docs
 weight: 120
 url: /ru/net/aspose.gis.geometries/geometrycollection/addrange/
 ---
 ## GeometryCollection.AddRange method
 
-Добавляет указанные геометрии в коллекцию.
+Добавляет указанную геометрию в коллекцию.
 
 ```csharp
 public void AddRange(IEnumerable<IGeometry> geometries)
@@ -22,7 +22,7 @@ public void AddRange(IEnumerable<IGeometry> geometries)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Коллекция не принимает геометрии этого типа. |
 
 ### Смотрите также

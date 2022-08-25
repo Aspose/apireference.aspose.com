@@ -1,14 +1,14 @@
 ---
 title: CompoundCurve
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化CompoundCurveaspose.gis.geometries/compoundcurve类的新实例
+description: 初始化CompoundCurveaspose.gis.geometries/compoundcurve类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/compoundcurve/compoundcurve/
 ---
 ## CompoundCurve() {#constructor}
 
-初始化[`CompoundCurve`](../../compoundcurve)类的新实例。
+初始化[`CompoundCurve`](../../compoundcurve)类.
 
 ```csharp
 public CompoundCurve()
@@ -24,7 +24,7 @@ public CompoundCurve()
 
 ## CompoundCurve(IEnumerable&lt;ICurve&gt;) {#constructor_2}
 
-初始化[`CompoundCurve`](../../compoundcurve)类的新实例。
+初始化[`CompoundCurve`](../../compoundcurve)类.
 
 ```csharp
 public CompoundCurve(IEnumerable<ICurve> curves)
@@ -32,13 +32,13 @@ public CompoundCurve(IEnumerable<ICurve> curves)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| curves | IEnumerable`1 | 曲线集合。 |
+| curves | IEnumerable`1 | 曲线的集合。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数或其任何元素是`null`。 |
+| ArgumentNullException | 论点或其任何要素是`null`. |
 | ArgumentException | 至少有两个不相等的非空空间参考系统。 |
 
 ### 也可以看看
@@ -52,7 +52,7 @@ public CompoundCurve(IEnumerable<ICurve> curves)
 
 ## CompoundCurve(ICompoundCurve) {#constructor_1}
 
-初始化[`CompoundCurve`](../../compoundcurve)类的新实例。
+初始化[`CompoundCurve`](../../compoundcurve)类.
 
 ```csharp
 public CompoundCurve(ICompoundCurve other)
@@ -66,7 +66,7 @@ public CompoundCurve(ICompoundCurve other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

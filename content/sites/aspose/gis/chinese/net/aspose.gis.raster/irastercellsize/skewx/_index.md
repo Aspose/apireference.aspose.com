@@ -1,14 +1,14 @@
 ---
 title: SkewX
 second_title: Aspose.GIS for .NET API 参考
-description: 获取单元格的 x 分量或像素高度x 倾斜
+description: 获取单元格的 x 分量或像素高度 xskew
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.raster/irastercellsize/skewx/
 ---
 ## IRasterCellSize.SkewX property
 
-获取单元格的 x 分量或像素高度（x 倾斜）。
+获取单元格的 x 分量或像素高度 (x-skew)。
 
 ```csharp
 public double SkewX { get; }

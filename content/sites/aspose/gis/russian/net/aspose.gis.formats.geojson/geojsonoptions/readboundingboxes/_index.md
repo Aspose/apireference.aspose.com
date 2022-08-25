@@ -1,14 +1,14 @@
 ---
 title: ReadBoundingBoxes
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет должны ли ограничивающие рамки bbox считываться как атрибуты с именем bbox_0 bbox_1 и т. д. По умолчанию значениеfalse. СтрокаNestedPropertiesSeparatoraspose.gis.formats.geojson/geojsonoptions/nestedpropertiesseparatorиспользуется в именах bbox_0 bbox_1...
+description: Определяет должны ли ограничивающие рамки bbox считываться как атрибуты с именем bbox_0 bbox_1 и т. д. Значение по умолчаниюfalse . NestedPropertiesSeparatoraspose.gis.formats.geojson/geojsonoptions/nestedpropertiesseparator строка используется в bbox_0 bbox_1.. именах.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.geojson/geojsonoptions/readboundingboxes/
 ---
 ## GeoJsonOptions.ReadBoundingBoxes property
 
-Определяет, должны ли ограничивающие рамки ('bbox') считываться как атрибуты с именем 'bbox_0', 'bbox_1' и т. д. По умолчанию значение`false`. Строка[`NestedPropertiesSeparator`](../nestedpropertiesseparator)используется в именах bbox_0, bbox_1,...
+Определяет, должны ли ограничивающие рамки («bbox») считываться как атрибуты с именем «bbox_0», «bbox_1» и т. д. Значение по умолчанию:`false` . [`NestedPropertiesSeparator`](../nestedpropertiesseparator) строка используется в bbox_0, bbox_1,.. именах.
 
 ```csharp
 public bool ReadBoundingBoxes { get; set; }

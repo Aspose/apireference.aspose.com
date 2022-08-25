@@ -1,14 +1,14 @@
 ---
 title: CopyAttributes
 second_title: Справочник по Aspose.GIS for .NET API
-description: Копирует атрибуты другогоVectorLayeraspose.gis/vectorlayerв этот.
+description: Копирует атрибуты другихVectorLayeraspose.gis/vectorlayer к этому.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis/vectorlayer/copyattributes/
 ---
 ## CopyAttributes(FeaturesSequence) {#copyattributes}
 
-Копирует атрибуты другого[`VectorLayer`](../../vectorlayer)в этот.
+Копирует атрибуты других[`VectorLayer`](../../vectorlayer) к этому.
 
 ```csharp
 public void CopyAttributes(FeaturesSequence featuresSequence)
@@ -22,7 +22,7 @@ public void CopyAttributes(FeaturesSequence featuresSequence)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Входной слой:`null`. |
+| ArgumentNullException | Входной слой`null`. |
 
 ### Смотрите также
 
@@ -35,7 +35,7 @@ public void CopyAttributes(FeaturesSequence featuresSequence)
 
 ## CopyAttributes(FeaturesSequence, IAttributesConverter) {#copyattributes_1}
 
-Копирует атрибуты другого[`VectorLayer`](../../vectorlayer)в этот.
+Копирует атрибуты других[`VectorLayer`](../../vectorlayer) к этому.
 
 ```csharp
 public void CopyAttributes(FeaturesSequence featuresSequence, IAttributesConverter converter)
@@ -44,13 +44,13 @@ public void CopyAttributes(FeaturesSequence featuresSequence, IAttributesConvert
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | Последовательность объектов, из которой копируются атрибуты. |
-| converter | IAttributesConverter | Экземпляр пользовательского[`IAttributesConverter`](../../iattributesconverter), который будет обрабатывать атрибуты один за другим. |
+| converter | IAttributesConverter | Экземпляр пользовательского[`IAttributesConverter`](../../iattributesconverter) который будет обрабатывать атрибуты один за другим. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Входной слой:`null`. |
+| ArgumentNullException | Входной слой`null`. |
 
 ### Смотрите также
 

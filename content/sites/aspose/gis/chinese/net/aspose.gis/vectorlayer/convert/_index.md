@@ -17,16 +17,16 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | 要转换的层的路径。 |
+| sourcePath | String | 将被转换的图层的路径。 |
 | sourceDriver | FileDriver | 源层的格式驱动程序。 |
-| destinationPath | String | 将作为转换结果创建的图层的路径。 |
+| destinationPath | String | 由于转换而创建的图层的路径。 |
 | destinationDriver | FileDriver | 目标层的格式驱动程序。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任一路径为`null`。 |
+| ArgumentNullException | 任何一条路径都是`null`. |
 
 ### 也可以看看
 
@@ -48,16 +48,16 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | AbstractPath | 要转换的层的路径。 |
+| sourcePath | AbstractPath | 将被转换的图层的路径。 |
 | sourceDriver | FileDriver | 源层的格式驱动程序。 |
-| destinationPath | AbstractPath | 将作为转换结果创建的图层的路径。 |
+| destinationPath | AbstractPath | 由于转换而创建的图层的路径。 |
 | destinationDriver | FileDriver | 目标层的格式驱动程序。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任一路径为`null`。 |
+| ArgumentNullException | 任何一条路径都是`null`. |
 
 ### 也可以看看
 
@@ -80,9 +80,9 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | 要转换的层的路径。 |
+| sourcePath | String | 将被转换的图层的路径。 |
 | sourceDriver | FileDriver | 源层的格式驱动程序。 |
-| destinationPath | String | 将作为转换结果创建的图层的路径。 |
+| destinationPath | String | 由于转换而创建的图层的路径。 |
 | destinationDriver | FileDriver | 目标层的格式驱动程序。 |
 | options | ConversionOptions | 转换过程的选项。 |
 
@@ -90,12 +90,12 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任一路径为`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| ArgumentNullException | 任何一条路径都是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | *options*中指定的空间参考系统不受支持*destinationDriver*.。 |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 将要素几何从源空间参考系统转换为目标空间参考系统失败。 |
+| NotSupportedException | 指定的空间参考系统*options*不支持*destinationDriver*. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
 
 ### 也可以看看
 
@@ -118,9 +118,9 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | AbstractPath | 要转换的层的路径。 |
+| sourcePath | AbstractPath | 将被转换的图层的路径。 |
 | sourceDriver | FileDriver | 源层的格式驱动程序。 |
-| destinationPath | AbstractPath | 将作为转换结果创建的图层的路径。 |
+| destinationPath | AbstractPath | 由于转换而创建的图层的路径。 |
 | destinationDriver | FileDriver | 目标层的格式驱动程序。 |
 | options | ConversionOptions | 转换过程的选项。 |
 
@@ -128,12 +128,12 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任一路径为`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| ArgumentNullException | 任何一条路径都是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | *options*中指定的空间参考系统不受支持*destinationDriver*。 |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 将要素几何从源空间参考系统转换为目标空间参考系统失败。 |
+| NotSupportedException | 指定的空间参考系统*options*不支持*destinationDriver*. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
 
 ### 也可以看看
 

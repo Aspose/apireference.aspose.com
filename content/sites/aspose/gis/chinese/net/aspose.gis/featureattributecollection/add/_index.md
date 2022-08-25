@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.GIS for .NET API 参考
-description: 将属性添加到集合中
+description: 向集合中添加一个属性
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/featureattributecollection/add/
 ---
 ## FeatureAttributeCollection.Add method
 
-将属性添加到集合中。
+向集合中添加一个属性。
 
 ```csharp
 public void Add(FeatureAttribute attribute)
@@ -22,7 +22,7 @@ public void Add(FeatureAttribute attribute)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 属性是`null`。 |
+| ArgumentNullException | 属性是`null`. |
 | InvalidOperationException | 集合被锁定。 |
 | ArgumentException | 集合中已存在同名属性。 |
 

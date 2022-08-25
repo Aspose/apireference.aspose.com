@@ -1,14 +1,14 @@
 ---
 title: MarkerLine
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化MarkerLineaspose.gis.rendering.symbolizers/markerline类的新实例
+description: 初始化MarkerLineaspose.gis.rendering.symbolizers/markerline类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/markerline/markerline/
 ---
 ## MarkerLine() {#constructor}
 
-初始化[`MarkerLine`](../../markerline)类的新实例。
+初始化[`MarkerLine`](../../markerline)类.
 
 ```csharp
 public MarkerLine()
@@ -24,7 +24,7 @@ public MarkerLine()
 
 ## MarkerLine(MarkerLine) {#constructor_1}
 
-初始化[`MarkerLine`](../../markerline)类的新实例。
+初始化[`MarkerLine`](../../markerline)类.
 
 ```csharp
 public MarkerLine(MarkerLine other)
@@ -32,13 +32,13 @@ public MarkerLine(MarkerLine other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | MarkerLine | 另一个[`MarkerLine`](../../markerline)复制数据. |
+| other | MarkerLine | 另一个[`MarkerLine`](../../markerline)从中复制数据。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

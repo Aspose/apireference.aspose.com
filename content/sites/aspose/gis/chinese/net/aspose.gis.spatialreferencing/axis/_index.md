@@ -3,7 +3,7 @@ title: Axis
 second_title: Aspose.GIS for .NET API 参考
 description: 轴描述 SRS 的一维
 type: docs
-weight: 1920
+weight: 1930
 url: /zh/net/aspose.gis.spatialreferencing/axis/
 ---
 ## Axis class

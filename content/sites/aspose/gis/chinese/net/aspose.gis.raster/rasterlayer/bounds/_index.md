@@ -16,7 +16,7 @@ public RasterRect Bounds { get; }
 
 ### 返回值
 
-光栅边界。
+栅格边界。
 
 ### 也可以看看
 

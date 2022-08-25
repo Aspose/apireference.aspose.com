@@ -16,7 +16,7 @@ public static IGeometry FromText(string wkt)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| wkt | String | Хорошо известно Текстовое представление геометрии. |
+| wkt | String | Общеизвестное текстовое представление геометрии. |
 
 ### Возвращаемое значение
 
@@ -49,7 +49,7 @@ public static IGeometry FromText(string wkt, SpatialReferenceSystem spatialRefer
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| wkt | String | Хорошо известно Текстовое представление геометрии. |
+| wkt | String | Общеизвестное текстовое представление геометрии. |
 | spatialReferenceSystem | SpatialReferenceSystem | Пространственная система отсчета, которая будет назначена геометрии. |
 
 ### Возвращаемое значение

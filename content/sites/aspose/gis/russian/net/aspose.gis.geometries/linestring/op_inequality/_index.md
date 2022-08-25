@@ -16,8 +16,8 @@ public static bool operator !=(LineString a, LineString b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | LineString | Экземпляр A. |
-| b | LineString | Экземпляр B. |
+| a | LineString | Экземпляр А. |
+| b | LineString | Экземпляр Б. |
 
 ### Возвращаемое значение
 

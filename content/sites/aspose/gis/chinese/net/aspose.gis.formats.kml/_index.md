@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.Kml
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Formats.Kml 命名空间提供了使用 KML 格式的类
+description: Aspose.Gis.Formats.Kml命名空间提供了使用 KML 格式的类
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.formats.kml/
 ---
-` Aspose.Gis.Formats.Kml` 命名空间提供了使用 KML 格式的类。
+`Aspose.Gis.Formats.Kml`命名空间提供了使用 KML 格式的类。
 
 ## 课程
 

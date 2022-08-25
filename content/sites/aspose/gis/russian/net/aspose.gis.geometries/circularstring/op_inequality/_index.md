@@ -16,8 +16,8 @@ public static bool operator !=(CircularString a, CircularString b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | CircularString | Экземпляр A. |
-| b | CircularString | Экземпляр B. |
+| a | CircularString | Экземпляр А. |
+| b | CircularString | Экземпляр Б. |
 
 ### Возвращаемое значение
 

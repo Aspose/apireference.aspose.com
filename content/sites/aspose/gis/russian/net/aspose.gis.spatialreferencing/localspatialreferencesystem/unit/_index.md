@@ -1,14 +1,14 @@
 ---
 title: Unit
 second_title: Справочник по Aspose.GIS for .NET API
-description: Единица этого SRS.
+description: Единица этой SRS.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.spatialreferencing/localspatialreferencesystem/unit/
 ---
 ## LocalSpatialReferenceSystem.Unit property
 
-Единица этого SRS.
+Единица этой SRS.
 
 ```csharp
 public Unit Unit { get; }

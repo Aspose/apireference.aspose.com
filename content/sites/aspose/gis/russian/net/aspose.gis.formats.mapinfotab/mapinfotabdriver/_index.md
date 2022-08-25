@@ -1,14 +1,14 @@
 ---
 title: MapInfoTabDriver
 second_title: Справочник по Aspose.GIS for .NET API
-description: Драйвер для формата вкладок MapInfo.
+description: Драйвер для формата вкладки MapInfo.
 type: docs
 weight: 530
 url: /ru/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/
 ---
 ## MapInfoTabDriver class
 
-Драйвер для формата вкладок MapInfo.
+Драйвер для формата вкладки MapInfo.
 
 ```csharp
 public sealed class MapInfoTabDriver : FileDriver

@@ -3,7 +3,7 @@ title: SimpleLabeling
 second_title: Справочник по Aspose.GIS for .NET API
 description: Простая маркировка помещает метку на каждую функцию.
 type: docs
-weight: 1590
+weight: 1600
 url: /ru/net/aspose.gis.rendering.labelings/simplelabeling/
 ---
 ## SimpleLabeling class
@@ -18,9 +18,9 @@ public class SimpleLabeling : Labeling
 
 | Имя | Описание |
 | --- | --- |
-| [SimpleLabeling](simplelabeling#constructor)() | Инициализирует новый экземпляр класса[`SimpleLabeling`](../simplelabeling). |
-| [SimpleLabeling](simplelabeling#constructor_1)(SimpleLabeling) | Инициализирует новый экземпляр класса[`SimpleLabeling`](../simplelabeling). |
-| [SimpleLabeling](simplelabeling#constructor_2)(string) | Инициализирует новый экземпляр класса[`SimpleLabeling`](../simplelabeling). |
+| [SimpleLabeling](simplelabeling#constructor)() | Инициализирует новый экземпляр[`SimpleLabeling`](../simplelabeling) класс. |
+| [SimpleLabeling](simplelabeling#constructor_1)(SimpleLabeling) | Инициализирует новый экземпляр[`SimpleLabeling`](../simplelabeling) класс. |
+| [SimpleLabeling](simplelabeling#constructor_2)(string) | Инициализирует новый экземпляр[`SimpleLabeling`](../simplelabeling) класс. |
 
 ## Характеристики
 
@@ -31,12 +31,12 @@ public class SimpleLabeling : Labeling
 | [FontFamily](../../aspose.gis.rendering.labelings/simplelabeling/fontfamily) { get; set; } | Семейство шрифтов для отображения текста. Значение по умолчанию зависит от системы. |
 | [FontSize](../../aspose.gis.rendering.labelings/simplelabeling/fontsize) { get; set; } | Размер текста. |
 | [FontStyle](../../aspose.gis.rendering.labelings/simplelabeling/fontstyle) { get; set; } | Стиль для применения к тексту. |
-| [GeometryExpression](../../aspose.gis.rendering.labelings/simplelabeling/geometryexpression) { get; set; } | Позволяет заменить геометрию объекта на геометрию, измененную для маркировки. Этот обратный вызов вызывается первым после[`FeatureBasedConfiguration`](./featurebasedconfiguration). Значение по умолчанию:`null`(использовать геометрию объектов как есть). |
+| [GeometryExpression](../../aspose.gis.rendering.labelings/simplelabeling/geometryexpression) { get; set; } | Предоставляет способ замены геометрии объекта на геометрию, измененную для маркировки. Этот обратный вызов вызывается первым после[`FeatureBasedConfiguration`](./featurebasedconfiguration) . По умолчанию`null` (использовать геометрию объекта как есть). |
 | [HaloColor](../../aspose.gis.rendering.labelings/simplelabeling/halocolor) { get; set; } | Цвет ореола (обводки) вокруг текста. |
 | [HaloSize](../../aspose.gis.rendering.labelings/simplelabeling/halosize) { get; set; } | Размер ореола (обводки) вокруг текста. |
-| [LabelAttribute](../../aspose.gis.rendering.labelings/simplelabeling/labelattribute) { get; set; } | Имя атрибута для использования в качестве источника меток. Игнорируется, если установлено[`LabelExpression`](./labelexpression). Либо[`LabelAttribute`](./labelattribute)либо[`LabelExpression`](./labelexpression)должен быть установлен перед рендерингом; InvalidOperationExceptionв противном случае выбрасывается. |
-| [LabelExpression](../../aspose.gis.rendering.labelings/simplelabeling/labelexpression) { get; set; } | Позволяет настраивать и форматировать текст метки. Если установлено, переопределяет[`LabelAttribute`](./labelattribute). Либо[`LabelAttribute`](./labelattribute)либо[`LabelExpression`](./labelexpression)должен быть установлен перед рендерингом; InvalidOperationExceptionв противном случае выбрасывается. |
-| [MultipartMode](../../aspose.gis.rendering.labelings/simplelabeling/multipartmode) { get; set; } | Определяет поведение рендеринга для составных геометрий. Значение по умолчанию:All. |
+| [LabelAttribute](../../aspose.gis.rendering.labelings/simplelabeling/labelattribute) { get; set; } | Имя атрибута для использования в качестве источника меток. Игнорируется, если[`LabelExpression`](./labelexpression) установлен. Либо[`LabelAttribute`](./labelattribute) или же[`LabelExpression`](./labelexpression) необходимо установить перед рендерингом; InvalidOperationException иначе бросается. |
+| [LabelExpression](../../aspose.gis.rendering.labelings/simplelabeling/labelexpression) { get; set; } | Позволяет настраивать и форматировать текст метки. Если установлено, переопределяет[`LabelAttribute`](./labelattribute) . Либо[`LabelAttribute`](./labelattribute) или же[`LabelExpression`](./labelexpression) необходимо установить перед рендерингом; InvalidOperationException иначе бросается. |
+| [MultipartMode](../../aspose.gis.rendering.labelings/simplelabeling/multipartmode) { get; set; } | Определяет поведение рендеринга для составных геометрий. По умолчаниюAll . |
 | [Placement](../../aspose.gis.rendering.labelings/simplelabeling/placement) { get; set; } | Размещение меток указывает, как метки размещаются относительно геометрии объекта. |
 | [Priority](../../aspose.gis.rendering.labelings/simplelabeling/priority) { get; set; } | Указывает приоритет данной метки в случае, если она перекрывается с другой меткой. Метка с более низким приоритетом не отображается. По умолчанию 1000. |
 

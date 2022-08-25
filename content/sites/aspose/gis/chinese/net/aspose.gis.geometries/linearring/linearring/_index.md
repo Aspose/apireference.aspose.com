@@ -1,14 +1,14 @@
 ---
 title: LinearRing
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化LinearRingaspose.gis.geometries/linearring类的新实例
+description: 初始化LinearRingaspose.gis.geometries/linearring类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/linearring/linearring/
 ---
 ## LinearRing() {#constructor}
 
-初始化[`LinearRing`](../../linearring)类的新实例。
+初始化[`LinearRing`](../../linearring)类.
 
 ```csharp
 public LinearRing()
@@ -24,7 +24,7 @@ public LinearRing()
 
 ## LinearRing(ILineString) {#constructor_1}
 
-初始化[`LinearRing`](../../linearring)类的新实例。
+初始化[`LinearRing`](../../linearring)类.
 
 ```csharp
 public LinearRing(ILineString other)
@@ -38,7 +38,7 @@ public LinearRing(ILineString other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 
@@ -51,7 +51,7 @@ public LinearRing(ILineString other)
 
 ## LinearRing(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-初始化[`LinearRing`](../../linearring)类的新实例。
+初始化[`LinearRing`](../../linearring)类.
 
 ```csharp
 public LinearRing(IEnumerable<IPoint> collection)
@@ -65,7 +65,7 @@ public LinearRing(IEnumerable<IPoint> collection)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

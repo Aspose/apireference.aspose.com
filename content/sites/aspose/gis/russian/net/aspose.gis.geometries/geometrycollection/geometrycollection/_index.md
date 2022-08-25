@@ -1,14 +1,14 @@
 ---
 title: GeometryCollection
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаGeometryCollectionaspose.gis.geometries/geometrycollection.
+description: Инициализирует новый экземплярGeometryCollectionaspose.gis.geometries/geometrycollection класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/geometrycollection/geometrycollection/
 ---
 ## GeometryCollection constructor
 
-Инициализирует новый экземпляр класса[`GeometryCollection`](../../geometrycollection).
+Инициализирует новый экземпляр[`GeometryCollection`](../../geometrycollection) класс.
 
 ```csharp
 public GeometryCollection()

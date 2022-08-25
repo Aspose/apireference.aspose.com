@@ -1,14 +1,14 @@
 ---
 title: FromLocalPath
 second_title: Справочник по Aspose.GIS for .NET API
-description: СоздаетAbstractPathaspose.gis/abstractpath который представляет расположение в локальной файловой системе.
+description: СоздаетAbstractPathaspose.gis/abstractpath который представляет местоположение в локальной файловой системе.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/abstractpath/fromlocalpath/
 ---
 ## AbstractPath.FromLocalPath method
 
-Создает[`AbstractPath`](../../abstractpath), который представляет расположение в локальной файловой системе.
+Создает[`AbstractPath`](../../abstractpath) который представляет местоположение в локальной файловой системе.
 
 ```csharp
 public static AbstractPath FromLocalPath(string path)
@@ -16,17 +16,17 @@ public static AbstractPath FromLocalPath(string path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | String | Путь в локальной файловой системе, например` "C:\\file.shp"` или` "D:\\каталог\\"` . |
+| path | String | Путь в локальной файловой системе, например`"C:\\file.shp"` или же`"D:\\каталог\\"`. |
 
 ### Возвращаемое значение
 
-Объект[`AbstractPath`](../../abstractpath), представляющий местоположение, определенное*дорожка*.
+Ан[`AbstractPath`](../../abstractpath) который представляет местоположение, определенное*path* .
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

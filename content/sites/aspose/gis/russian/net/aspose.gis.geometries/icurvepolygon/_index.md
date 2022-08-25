@@ -3,7 +3,7 @@ title: ICurvePolygon
 second_title: Справочник по Aspose.GIS for .NET API
 description: Плоская поверхность определяемая 1 внешней границей и 0 или более внутренними границами.
 type: docs
-weight: 880
+weight: 890
 url: /ru/net/aspose.gis.geometries/icurvepolygon/
 ---
 ## ICurvePolygon interface

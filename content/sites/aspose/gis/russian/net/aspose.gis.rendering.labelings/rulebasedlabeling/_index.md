@@ -1,14 +1,14 @@
 ---
 title: RuleBasedLabeling
 second_title: Справочник по Aspose.GIS for .NET API
-description: Применяет маркировку к объекту в соответствии с правилами определенными пользователем.
+description: Применяет маркировку к объекту в соответствии с определенными пользователем правилами.
 type: docs
-weight: 1580
+weight: 1590
 url: /ru/net/aspose.gis.rendering.labelings/rulebasedlabeling/
 ---
 ## RuleBasedLabeling class
 
-Применяет маркировку к объекту в соответствии с правилами, определенными пользователем.
+Применяет маркировку к объекту в соответствии с определенными пользователем правилами.
 
 ```csharp
 public class RuleBasedLabeling : Labeling, IReadOnlyList<LabelingRule>
@@ -32,9 +32,9 @@ public class RuleBasedLabeling : Labeling, IReadOnlyList<LabelingRule>
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add#add)(LabelingRule) | Добавляет правило. |
-| [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add#add_1)(Func&lt;Feature, bool&gt;, Labeling) | Добавляет новый[`LabelingRule`](../labelingrule). |
-| [AddElseRule](../../aspose.gis.rendering.labelings/rulebasedlabeling/addelserule)(Labeling) | Добавляет метку, которая будет применяться к функциям, не соответствующим ни одному правилу фильтрации. |
-| [GetEnumerator](../../aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator)() | Возвращает перечислитель, перебирающий правила. |
+| [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add#add_1)(Func&lt;Feature, bool&gt;, Labeling) | Добавляет новый[`LabelingRule`](../labelingrule) . |
+| [AddElseRule](../../aspose.gis.rendering.labelings/rulebasedlabeling/addelserule)(Labeling) | Добавляет метку, которая будет применяться к функциям, которые не соответствуют ни одному правилу фильтрации. |
+| [GetEnumerator](../../aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator)() | Возвращает перечислитель, который перебирает правила. |
 
 ### Смотрите также
 

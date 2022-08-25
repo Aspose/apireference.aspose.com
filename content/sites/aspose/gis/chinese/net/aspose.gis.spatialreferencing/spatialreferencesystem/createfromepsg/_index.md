@@ -26,11 +26,12 @@ public static SpatialReferenceSystem CreateFromEpsg(int epsg)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | 参数不是正数。 |
+| ArgumentOutOfRangeException | 论据不积极。 |
 | NotSupportedException | 指定的 EPSG 代码未知。 |
 
 ### 也可以看看
 
+* method [TryCreateFromEpsg](../trycreatefromepsg)
 * class [SpatialReferenceSystem](../../spatialreferencesystem)
 * 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem)
 * 部件 [Aspose.GIS](../../../)

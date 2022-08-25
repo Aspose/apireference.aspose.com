@@ -1,14 +1,14 @@
 ---
 title: Etrs89LambertAzimuthalEqualArea
 second_title: Справочник по Aspose.GIS for .NET API
-description: ETRS 89 / ETRS Lambert Azimuthal Equal Area EPSG3035 система пространственной привязки.
+description: Система пространственной привязки ETRS 89 / ETRS Lambert Azimuthal Equal Area EPSG3035.
 type: docs
 weight: 260
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/etrs89lambertazimuthalequalarea/
 ---
 ## SpatialReferenceSystem.Etrs89LambertAzimuthalEqualArea property
 
-ETRS 89 / ETRS Lambert Azimuthal Equal Area (EPSG:3035) система пространственной привязки.
+Система пространственной привязки ETRS 89 / ETRS Lambert Azimuthal Equal Area (EPSG:3035).
 
 ```csharp
 public static ProjectedSpatialReferenceSystem Etrs89LambertAzimuthalEqualArea { get; }

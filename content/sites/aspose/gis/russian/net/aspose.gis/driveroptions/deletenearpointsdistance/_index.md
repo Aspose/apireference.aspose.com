@@ -1,14 +1,14 @@
 ---
 title: DeleteNearPointsDistance
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет расстояние дляDeleteNearPointsaspose.gis/driveroptions/deletenearpoints. По умолчанию0.
+description: Определяет расстояние дляDeleteNearPointsaspose.gis/driveroptions/deletenearpoints . По умолчанию0 .
 type: docs
 weight: 40
 url: /ru/net/aspose.gis/driveroptions/deletenearpointsdistance/
 ---
 ## DriverOptions.DeleteNearPointsDistance property
 
-Определяет расстояние для[`DeleteNearPoints`](../deletenearpoints). По умолчанию`0`.
+Определяет расстояние для[`DeleteNearPoints`](../deletenearpoints) . По умолчанию`0` .
 
 ```csharp
 public double DeleteNearPointsDistance { get; set; }
@@ -16,7 +16,7 @@ public double DeleteNearPointsDistance { get; set; }
 
 ### Примечания
 
-Не влияет, если[`DeleteNearPoints`](../deletenearpoints)неверно.
+Не влияет, если[`DeleteNearPoints`](../deletenearpoints) неверно.
 
 ### Смотрите также
 

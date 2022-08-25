@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает SpatialReferenceSystem этого экземпляра. Это свойство может бытьnull если SpatialReferenceSystem неизвестна.
+description: Получает SpatialReferenceSystem этого экземпляра. Это свойство может бытьnull  если SpatialReferenceSystem неизвестна.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.geometries/igeometry/spatialreferencesystem/
 ---
 ## IGeometry.SpatialReferenceSystem property
 
-Получает SpatialReferenceSystem этого экземпляра. Это свойство может быть`null`, если SpatialReferenceSystem неизвестна.
+Получает SpatialReferenceSystem этого экземпляра. Это свойство может быть`null` , если SpatialReferenceSystem неизвестна.
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; }

@@ -1,14 +1,14 @@
 ---
 title: TopoJsonTransform
 second_title: Справочник по Aspose.GIS for .NET API
-description: Объект преобразования который можно использовать для квантования координат при записи файла TopoJSON.
+description: Объект преобразования который можно использовать для квантизации координат при записи файла TopoJSON.
 type: docs
 weight: 650
 url: /ru/net/aspose.gis.formats.topojson/topojsontransform/
 ---
 ## TopoJsonTransform class
 
-Объект преобразования, который можно использовать для квантования координат при записи файла TopoJSON.
+Объект преобразования, который можно использовать для квантизации координат при записи файла TopoJSON.
 
 ```csharp
 public class TopoJsonTransform
@@ -18,16 +18,16 @@ public class TopoJsonTransform
 
 | Имя | Описание |
 | --- | --- |
-| [TopoJsonTransform](topojsontransform)(double, double, double, double) | Создать новый экземпляр[`TopoJsonTransform`](../topojsontransform). |
+| [TopoJsonTransform](topojsontransform)(double, double, double, double) | Создать новый экземпляр[`TopoJsonTransform`](../topojsontransform) . |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [XScale](../../aspose.gis.formats.topojson/topojsontransform/xscale) { get; set; } | Масштаб для применения к координате X. |
-| [XTranslate](../../aspose.gis.formats.topojson/topojsontransform/xtranslate) { get; set; } | Переведите, чтобы применить к координате X. |
+| [XTranslate](../../aspose.gis.formats.topojson/topojsontransform/xtranslate) { get; set; } | Перевести для применения к координате X. |
 | [YScale](../../aspose.gis.formats.topojson/topojsontransform/yscale) { get; set; } | Масштаб для применения к координате Y. |
-| [YTranslate](../../aspose.gis.formats.topojson/topojsontransform/ytranslate) { get; set; } | Переведите, чтобы применить к координате Y. |
+| [YTranslate](../../aspose.gis.formats.topojson/topojsontransform/ytranslate) { get; set; } | Перевести для применения к координате Y. |
 
 ### Примечания
 

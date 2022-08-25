@@ -1,14 +1,14 @@
 ---
 title: Wgs84
 second_title: Aspose.GIS for .NET API 参考
-description: WGS 84 椭球体
+description: WGS 84 椭球体.
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.spatialreferencing/ellipsoid/wgs84/
 ---
 ## Ellipsoid.Wgs84 property
 
-WGS 84 椭球体。
+WGS 84 椭球体.
 
 ```csharp
 public static Ellipsoid Wgs84 { get; }

@@ -3,7 +3,7 @@ title: JoinOptions
 second_title: Aspose.GIS for .NET API 参考
 description: 图层连接选项
 type: docs
-weight: 1370
+weight: 1380
 url: /zh/net/aspose.gis.relationship.joins/joinoptions/
 ---
 ## JoinOptions class
@@ -25,10 +25,10 @@ public class JoinOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [ConditionComparer](../../aspose.gis.relationship.joins/joinoptions/conditioncomparer) { get; set; } | 通过指定用于比较特征值的逻辑，定义查询中两层特征的关联方式。 |
-| [JoinAttributeName](../../aspose.gis.relationship.joins/joinoptions/joinattributename) { get; set; } | 指定连接层的属性名称，其值将用于[`ConditionComparer`](./conditioncomparer)。 |
-| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames) { get; set; } | 指定要连接的属性名称列表。 如果为`null`或为空，则连接层的所有属性都将被连接。 |
+| [JoinAttributeName](../../aspose.gis.relationship.joins/joinoptions/joinattributename) { get; set; } | 指定连接层的属性名称，其值将用于[`ConditionComparer`](./conditioncomparer). |
+| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames) { get; set; } | 指定要连接的属性名称列表。 如果是`null`或为空，将连接图层的所有属性。 |
 | [JoinedAttributesPrefix](../../aspose.gis.relationship.joins/joinoptions/joinedattributesprefix) { get; set; } | 指定连接属性名称的前缀字符串。默认为“joined_”。 |
-| [TargetAttributeName](../../aspose.gis.relationship.joins/joinoptions/targetattributename) { get; set; } | 指定主层的属性名称，其值将用于[`ConditionComparer`](./conditioncomparer)。 |
+| [TargetAttributeName](../../aspose.gis.relationship.joins/joinoptions/targetattributename) { get; set; } | 指定主层的属性名称，该值将用于[`ConditionComparer`](./conditioncomparer). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Radian
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получить единицу представляющую радианы.
+description: Получить единицу измерения представляющую радианы.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.spatialreferencing/unit/radian/
 ---
 ## Unit.Radian property
 
-Получить единицу, представляющую радианы.
+Получить единицу измерения, представляющую радианы.
 
 ```csharp
 public static Unit Radian { get; }

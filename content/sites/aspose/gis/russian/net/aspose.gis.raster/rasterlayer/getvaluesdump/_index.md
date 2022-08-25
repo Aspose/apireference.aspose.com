@@ -20,7 +20,7 @@ public IRasterValues[] GetValuesDump(RasterRect rect)
 
 ### Возвращаемое значение
 
-Дамп значений.
+Свалка ценностей.
 
 ### Смотрите также
 

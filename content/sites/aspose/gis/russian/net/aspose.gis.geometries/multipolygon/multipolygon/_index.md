@@ -1,14 +1,14 @@
 ---
 title: MultiPolygon
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаMultiPolygonaspose.gis.geometries/multipolygon.
+description: Инициализирует новый экземплярMultiPolygonaspose.gis.geometries/multipolygon класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/multipolygon/multipolygon/
 ---
 ## MultiPolygon constructor
 
-Инициализирует новый экземпляр класса[`MultiPolygon`](../../multipolygon).
+Инициализирует новый экземпляр[`MultiPolygon`](../../multipolygon) класс.
 
 ```csharp
 public MultiPolygon()

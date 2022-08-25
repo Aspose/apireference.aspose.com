@@ -1,14 +1,14 @@
 ---
 title: Dimension
 second_title: Aspose.GIS for .NET API 参考
-description: 获取此Geometry的拓扑维度 如果集合为空则返回Point
+description: 获取这个的拓扑维度Geometryaspose.gis.geometries/geometry. 如果集合为空Point被退回
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/geometrycollection/dimension/
 ---
 ## GeometryCollection.Dimension property
 
-获取此Geometry的拓扑维度。 如果集合为空，则返回Point。
+获取这个的拓扑维度[`Geometry`](../../geometry). 如果集合为空，Point被退回。
 
 ```csharp
 public override GeometryDimension Dimension { get; }

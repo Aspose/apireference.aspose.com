@@ -8,7 +8,7 @@ url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparam
 ---
 ## GeocentricSpatialReferenceSystemParameters.XAxis property
 
-Ось геоцентрической SRS, описывающая измерение 'X' (ось, указывающая на нулевой меридиан).
+Ось геоцентрической SRS, описывающая измерение «X» (ось, указывающая на нулевой меридиан).
 
 ```csharp
 public Axis XAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis XAxis { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Направление оси не равноOther. |
+| ArgumentException | Направление оси неOther . |
 
 ### Смотрите также
 

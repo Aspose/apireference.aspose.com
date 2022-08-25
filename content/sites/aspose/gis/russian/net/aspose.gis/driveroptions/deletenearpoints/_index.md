@@ -1,14 +1,14 @@
 ---
 title: DeleteNearPoints
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет удалять ли ближайшие точки в каждой геометрии. По умолчаниюfalse.
+description: Определяет удалять ли ближайшие точки в каждой геометрии. По умолчаниюfalse .
 type: docs
 weight: 30
 url: /ru/net/aspose.gis/driveroptions/deletenearpoints/
 ---
 ## DriverOptions.DeleteNearPoints property
 
-Определяет, удалять ли ближайшие точки в каждой геометрии. По умолчанию`false`.
+Определяет, удалять ли ближайшие точки в каждой геометрии. По умолчанию`false` .
 
 ```csharp
 public bool DeleteNearPoints { get; set; }

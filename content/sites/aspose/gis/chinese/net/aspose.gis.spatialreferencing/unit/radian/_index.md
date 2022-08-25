@@ -1,14 +1,14 @@
 ---
 title: Radian
 second_title: Aspose.GIS for .NET API 参考
-description: 获取表示弧度的单位
+description: 获取代表弧度的单位
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/unit/radian/
 ---
 ## Unit.Radian property
 
-获取表示弧度的单位。
+获取代表弧度的单位。
 
 ```csharp
 public static Unit Radian { get; }

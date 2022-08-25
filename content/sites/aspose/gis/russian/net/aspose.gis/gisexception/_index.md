@@ -3,7 +3,7 @@ title: GisException
 second_title: Справочник по Aspose.GIS for .NET API
 description: Исключение возникающее при возникновении ошибки при обработке данных ГИС.
 type: docs
-weight: 1130
+weight: 1140
 url: /ru/net/aspose.gis/gisexception/
 ---
 ## GisException class
@@ -18,9 +18,9 @@ public class GisException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [GisException](gisexception#constructor)() | Инициализирует новый экземпляр класса[`GisException`](../gisexception). |
-| [GisException](gisexception#constructor_1)(string) | Инициализирует новый экземпляр класса[`GisException`](../gisexception). |
-| [GisException](gisexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса[`GisException`](../gisexception). |
+| [GisException](gisexception#constructor)() | Инициализирует новый экземпляр[`GisException`](../gisexception) класс. |
+| [GisException](gisexception#constructor_1)(string) | Инициализирует новый экземпляр[`GisException`](../gisexception) класс. |
+| [GisException](gisexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр[`GisException`](../gisexception) класс. |
 
 ### Смотрите также
 

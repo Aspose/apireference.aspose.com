@@ -17,7 +17,7 @@ public Measurement(double value, Unit unit)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | value | Double | 表示测量长度的数字。 |
-| unit | Unit | 测量单位。 |
+| unit | Unit | 一种计量单位。 |
 
 ### 也可以看看
 

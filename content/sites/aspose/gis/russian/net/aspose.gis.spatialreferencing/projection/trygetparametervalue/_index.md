@@ -1,14 +1,14 @@
 ---
 title: TryGetParameterValue
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает параметр с указанным именем этой проекции. Если такого параметра нет - возвращаетnull.
+description: Получает параметр с указанным именем этой проекции. Если такого параметра нет  возвращаетnull .
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.spatialreferencing/projection/trygetparametervalue/
 ---
 ## Projection.TryGetParameterValue method
 
-Получает параметр с указанным именем этой проекции. Если такого параметра нет - возвращает`null`.
+Получает параметр с указанным именем этой проекции. Если такого параметра нет - возвращает`null` .
 
 ```csharp
 public double? TryGetParameterValue(string name, ParameterType type = ParameterType.Other)
@@ -17,11 +17,11 @@ public double? TryGetParameterValue(string name, ParameterType type = ParameterT
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя параметра. |
-| type | ParameterType | Тип параметра. Определяет коэффициент единицы измерения, который будет отменен: если типLinearthen[`LinearParametersUnit`](../linearparametersunit)будет отменен, и результат будет в метрах. если типAngularthen[`AngularParametersUnit`](../angularparametersunit)будет быть deapplied и результат будет в радианах. если типOtherзначение параметра будет возвращено "как есть". |
+| type | ParameterType | Тип параметра. Определяет коэффициент единицы измерения, который будет отменен: , если типLinear тогда[`LinearParametersUnit`](../linearparametersunit) будет отменено, и результат будет в метрах. , если типAngular тогда[`AngularParametersUnit`](../angularparametersunit) будет отменено, и результат будет в радианах. , если типOtherзначение параметра будет возвращено «как есть». |
 
 ### Возвращаемое значение
 
-Параметр с указанным именем или`null`если его нет.
+Параметр с указанным именем или`null` если его нет.
 
 ### Исключения
 

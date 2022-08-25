@@ -1,14 +1,14 @@
 ---
 title: IsValid
 second_title: Aspose.GIS for .NET API 参考
-description: 与String相同但不返回错误消息.
+description: 同Validateaspose.gis.spatialreferencing/spatialreferencesystem/validate但不返回错误信息
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/isvalid/
 ---
 ## SpatialReferenceSystem.IsValid property
 
-与String@)相同，但不返回错误消息.
+同[`Validate`](../validate)，但不返回错误信息。
 
 ```csharp
 public bool IsValid { get; }
@@ -16,7 +16,7 @@ public bool IsValid { get; }
 
 ### 返回值
 
-`true`如果 SRS 有效，则`false`否则。
+`true`如果 SRS 有效，`false`否则。
 
 ### 也可以看看
 

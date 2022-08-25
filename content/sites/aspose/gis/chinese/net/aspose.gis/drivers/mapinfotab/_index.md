@@ -1,14 +1,14 @@
 ---
 title: MapInfoTab
 second_title: Aspose.GIS for .NET API 参考
-description: MapInfo Tab 格式的驱动程序
+description: MapInfo 选项卡格式的驱动程序
 type: docs
 weight: 100
 url: /zh/net/aspose.gis/drivers/mapinfotab/
 ---
 ## Drivers.MapInfoTab property
 
-MapInfo Tab 格式的驱动程序。
+MapInfo 选项卡格式的驱动程序。
 
 ```csharp
 public static MapInfoTabDriver MapInfoTab { get; }

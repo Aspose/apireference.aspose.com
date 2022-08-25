@@ -1,14 +1,14 @@
 ---
 title: AsProjected
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает этот SRS преобразованный вProjectedSpatialReferenceSystemaspose.gis.spatialreferencing/projectedspatialreferencesystem. ИспользуйтеTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
+description: Возвращает этот SRS преобразованный вProjectedSpatialReferenceSystemaspose.gis.spatialreferencing/projectedspatialreferencesystem . ИспользоватьTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/asprojected/
 ---
 ## SpatialReferenceSystem.AsProjected property
 
-Возвращает этот SRS, преобразованный в[`ProjectedSpatialReferenceSystem`](../../projectedspatialreferencesystem). Используйте[`Type`](../type), чтобы узнать, возможно ли преобразование.
+Возвращает этот SRS, преобразованный в[`ProjectedSpatialReferenceSystem`](../../projectedspatialreferencesystem) . Использовать[`Type`](../type) чтобы узнать, возможно ли преобразование.
 
 ```csharp
 public virtual ProjectedSpatialReferenceSystem AsProjected { get; }

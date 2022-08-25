@@ -1,14 +1,14 @@
 ---
 title: AuthorityUniqueIdentifier
 second_title: Aspose.GIS for .NET API 参考
-description: 在AuthorityNameaspose.gis.spatialreferencing/identifier/authorityname中表示对象的独特方式
+description: 表示对象的独特方式AuthorityNameaspose.gis.spatialreferencing/identifier/authorityname.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier/
 ---
 ## Identifier.AuthorityUniqueIdentifier property
 
-在[`AuthorityName`](../authorityname)中表示对象的独特方式。
+表示对象的独特方式[`AuthorityName`](../authorityname).
 
 ```csharp
 public string AuthorityUniqueIdentifier { get; }

@@ -1,14 +1,14 @@
 ---
 title: CreateFromRectangle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новый FileGdbCoordinatePrecisionGrid такой что все значения внутри прямоугольника могут быть представлены.
+description: Создает новыйFileGdbCoordinatePrecisionGrid так что все значения внутри прямоугольника могут быть представлены.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/
 ---
 ## FileGdbCoordinatePrecisionGrid.CreateFromRectangle method
 
-Создает новый` FileGdbCoordinatePrecisionGrid` такой, что все значения внутри прямоугольника могут быть представлены.
+Создает новый`FileGdbCoordinatePrecisionGrid` так что все значения внутри прямоугольника могут быть представлены.
 
 ```csharp
 public static FileGdbCoordinatePrecisionGrid CreateFromRectangle(IPoint p1, IPoint p2)
@@ -17,18 +17,18 @@ public static FileGdbCoordinatePrecisionGrid CreateFromRectangle(IPoint p1, IPoi
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | p1 | IPoint | Один угол прямоугольника. |
-| p2 | IPoint | Противоположный угол прямоугольника. Должен иметь те же размеры, что и*p1*. |
+| p2 | IPoint | Противоположный угол прямоугольника. Должен иметь такие же размеры, как*p1*. |
 
 ### Возвращаемое значение
 
-` FileGdbCoordinatePrecisionGrid` такие, что все значения внутри прямоугольника могут быть представлены . Значения вне прямоугольника не могут быть представлены, поэтому все координаты, которые будут записаны в слой FileGDB , должны быть внутри прямоугольника.
+`FileGdbCoordinatePrecisionGrid` таким образом, что все значения внутри прямоугольника могут быть представлены. Значения вне прямоугольника не могут быть представлены, поэтому все координаты, которые будут записаны в FileGDB layer , должны быть внутри прямоугольника.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | *p1*и*p2*не образуют допустимый непустой прямоугольник: &lt;ul&gt;&lt;li&gt;*p1*или*p2*пусто. &lt;/li&gt;&lt;li&gt;Флаги 'HasZ' для*p1*не равны флагу 'HasZ' для*p2*&lt;/li&gt;&lt;li&gt;Флаги 'HasM' of*p1*не равно флагу 'HasM' для*p2*&lt;/li&gt;&lt;li&gt;координата 'X'*p1*равна равно 'X' координате*p2*&lt;/li&gt;&lt;li&gt;'Y' координате*p1*равно 'Y' координате*p2*&lt;/li&gt;&lt;li&gt;Координата 'Z'*p1*равна координате 'Z'*p2*&lt;/li&gt;&lt;li&gt;' Координата M'*p1*равна координате 'M'*p2*&lt;/li&gt;&lt;li&gt; Любая координатаNaNили бесконечность. &lt;/li&gt;&lt;/ul&gt; |
+| ArgumentNullException | Аргумент`null` . |
+| ArgumentException | *p1* а также*p2* не формировать допустимый непустой прямоугольник: *p1* или же*p2* пустой. Флаги HasZ*p1* не равно флагу 'HasZ'*p2* Флаги HasM*p1* не равно флагу 'HasM'*p2* X' координата*p1* равен координате 'X'*p2* Y' координата*p1* равно координате 'Y'*p2* Z' координата*p1*равно координате 'Z'*p2* M' координата*p1* равно 'M' координате*p2* Любая координатаNaN или бесконечность. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: NearPointsCleanerOptions
 second_title: Aspose.GIS for .NET API 参考
-description: 用于删除彼此太近的点的选项
+description: 删除彼此太近的点的选项
 type: docs
-weight: 730
+weight: 740
 url: /zh/net/aspose.gis.geotools/nearpointscleaneroptions/
 ---
 ## NearPointsCleanerOptions class
 
-用于删除彼此太近的点的选项。
+删除彼此太近的点的选项。
 
 ```csharp
 public class NearPointsCleanerOptions
@@ -19,13 +19,13 @@ public class NearPointsCleanerOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [NearPointsCleanerOptions](nearpointscleaneroptions#constructor)() | 默认创建一个带有初始化字段的实例。 |
-| [NearPointsCleanerOptions](nearpointscleaneroptions#constructor_1)(NearPointsCleanerOptions) | 创建实例副本[`NearPointsCleanerOptions`](../nearpointscleaneroptions)。 |
+| [NearPointsCleanerOptions](nearpointscleaneroptions#constructor_1)(NearPointsCleanerOptions) | 创建实例副本[`NearPointsCleanerOptions`](../nearpointscleaneroptions). |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Distance](../../aspose.gis.geotools/nearpointscleaneroptions/distance) { get; set; } | 检查参数是点靠近另一个点。默认值为 0。 |
+| [Distance](../../aspose.gis.geotools/nearpointscleaneroptions/distance) { get; set; } | 检查参数是点靠近另一个点。默认值为 0. |
 
 ## 方法
 

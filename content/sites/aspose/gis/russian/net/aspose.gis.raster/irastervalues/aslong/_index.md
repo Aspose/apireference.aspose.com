@@ -1,14 +1,14 @@
 ---
 title: AsLong
 second_title: Справочник по Aspose.GIS for .NET API
-description: Преобразует указанные данные диапазона в значениеlong.
+description: Преобразует данные указанного диапазона вlong значение.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.raster/irastervalues/aslong/
 ---
 ## IRasterValues.AsLong method
 
-Преобразует указанные данные диапазона в значение`long`.
+Преобразует данные указанного диапазона в`long` значение.
 
 ```csharp
 public long AsLong(int bandIndex = 0)
@@ -16,7 +16,7 @@ public long AsLong(int bandIndex = 0)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bandIndex | Int32 | Индекс полосы. Нумерация начинается с 0. |
+| bandIndex | Int32 | Индекс группы. Нумерация начинается с 0. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: TransformationException
 second_title: Aspose.GIS for .NET API 参考
-description: 在坐标变换过程中或变换创建过程中发生错误时抛出变换异常
+description: 坐标变换过程中或创建变换过程中发生错误时抛出变换异常
 type: docs
-weight: 2170
+weight: 2180
 url: /zh/net/aspose.gis.spatialreferencing/transformationexception/
 ---
 ## TransformationException class
 
-在坐标变换过程中或变换创建过程中发生错误时抛出变换异常。
+坐标变换过程中或创建变换过程中发生错误时抛出变换异常。
 
 ```csharp
 public class TransformationException : Exception

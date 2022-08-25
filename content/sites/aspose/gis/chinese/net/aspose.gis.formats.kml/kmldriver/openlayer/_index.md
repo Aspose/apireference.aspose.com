@@ -16,12 +16,12 @@ public VectorLayer OpenLayer(string path, KmlOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
-| options | KmlOptions | 驱动程序特定选项。 |
+| path | String | 文件的路径。 |
+| options | KmlOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 也可以看看
 
@@ -43,12 +43,12 @@ public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| path | AbstractPath | 文件的路径。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 也可以看看
 
@@ -71,12 +71,12 @@ public VectorLayer OpenLayer(AbstractPath path, KmlOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
-| options | KmlOptions | 驱动程序特定选项。 |
+| path | AbstractPath | 文件的路径。 |
+| options | KmlOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
-[`VectorLayer`](../../../aspose.gis/vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### 也可以看看
 

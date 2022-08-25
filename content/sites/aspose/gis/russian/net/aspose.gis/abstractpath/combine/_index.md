@@ -1,14 +1,14 @@
 ---
 title: Combine
 second_title: Справочник по Aspose.GIS for .NET API
-description: Объединяет этоAbstractPathaspose.gis/abstractpathс указанными компонентами пути.
+description: Объединяет этоAbstractPathaspose.gis/abstractpath с указанными компонентами пути.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis/abstractpath/combine/
 ---
 ## AbstractPath.Combine method
 
-Объединяет это[`AbstractPath`](../../abstractpath)с указанными компонентами пути.
+Объединяет это[`AbstractPath`](../../abstractpath) с указанными компонентами пути.
 
 ```csharp
 public virtual AbstractPath Combine(string location)
@@ -20,11 +20,11 @@ public virtual AbstractPath Combine(string location)
 
 ### Возвращаемое значение
 
-Новый[`AbstractPath`](../../abstractpath)указывающий на[`Location`](../location)это комбинация местоположений этого[`AbstractPath`](../../abstractpath)и аргумента.
+Новый[`AbstractPath`](../../abstractpath) указывая на[`Location`](../location) это комбинация местоположений этого[`AbstractPath`](../../abstractpath)и аргумент.
 
 ### Примечания
 
-Обычно этот метод не должен переопределяться наследником. Реализация по умолчанию объединяет это[`Location`](../location)с аргументом и вызывает[`WithLocation`](../withlocation) метод с объединенной строкой в качестве аргумента.&lt;cr /&gt; Результат комбинации определяется следующим образом: &lt;ul&gt;&lt;li&gt;Если аргумент начинается с[`Separator`](../separator), результат комбинации равен аргументу;&lt;/li&gt;&lt;li&gt;В противном случае, если[`Location`](../location)заканчивается[`Separator`](../separator), результат комбинации равен`+` ;&lt;/li&gt;&lt;li&gt; В противном случае результат равен`++` &lt;/li&gt;&lt;/ul&gt;
+Обычно этот метод не должен переопределяться наследником. Реализация по умолчанию объединяет это[`Location`](../location) с аргументом и вызывает[`WithLocation`](../withlocation) с объединенной строкой в качестве аргумента. Результат комбинации определяется следующим образом:  Если аргумент начинается с[`Separator`](../separator), результат комбинации равен аргументу; В противном случае, если[`Location`](../location) заканчивается с[`Separator`](../separator) , результат комбинации равен` +`; В противном случае результат равен` + +`
 
 ### Смотрите также
 

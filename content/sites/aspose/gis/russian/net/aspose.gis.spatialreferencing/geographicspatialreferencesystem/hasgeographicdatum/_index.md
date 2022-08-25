@@ -1,14 +1,14 @@
 ---
 title: HasGeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращаетtrue так как географические SRS всегда имеют нулевой меридиан.
+description: Возвращаетtrue  так как географические СКИ всегда имеют нулевой меридиан.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/hasgeographicdatum/
 ---
 ## GeographicSpatialReferenceSystem.HasGeographicDatum property
 
-Возвращает`true`, так как географические SRS всегда имеют нулевой меридиан.
+Возвращает`true` , так как географические СКИ всегда имеют нулевой меридиан.
 
 ```csharp
 public bool HasGeographicDatum { get; }

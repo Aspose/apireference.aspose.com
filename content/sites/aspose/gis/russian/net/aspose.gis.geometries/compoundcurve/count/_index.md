@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает количество кривых вICompoundCurveaspose.gis.geometries/icompoundcurve.
+description: Получает количество кривых вICompoundCurveaspose.gis.geometries/icompoundcurve .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.geometries/compoundcurve/count/
 ---
 ## CompoundCurve.Count property
 
-Получает количество кривых в[`ICompoundCurve`](../../icompoundcurve).
+Получает количество кривых в[`ICompoundCurve`](../../icompoundcurve) .
 
 ```csharp
 public int Count { get; }

@@ -1,14 +1,14 @@
 ---
 title: Inches
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает новый экземпляр Измерение  который представляет длину в дюймах.
+description: Возвращает новый экземплярИзмерение который представляет длину в дюймах.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.rendering/measurement/inches/
 ---
 ## Measurement.Inches method
 
-Возвращает новый экземпляр` Измерение` , который представляет длину в дюймах.
+Возвращает новый экземпляр`Измерение` который представляет длину в дюймах.
 
 ```csharp
 public static Measurement Inches(double value)
@@ -20,7 +20,7 @@ public static Measurement Inches(double value)
 
 ### Возвращаемое значение
 
-Новый экземпляр класса` Измерение` .
+Новый экземпляр`Измерение` учебный класс.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IMultiPoint
 second_title: Справочник по Aspose.GIS for .NET API
-description: AIMultiPoint./imultipointявляется одномернымIGeometryCollection./igeometrycollection элементами которого являютсяIPoint./ipoints.
+description: АIMultiPoint./imultipoint является одномернымIGeometryCollection./igeometrycollection  элементы которогоIPoint./ipoint с.
 type: docs
-weight: 950
+weight: 960
 url: /ru/net/aspose.gis.geometries/imultipoint/
 ---
 ## IMultiPoint interface
 
-A[`IMultiPoint`](../imultipoint)является одномерным[`IGeometryCollection`](../igeometrycollection) элементами которого являются[`IPoint`](../ipoint)s.
+А[`IMultiPoint`](../imultipoint) является одномерным[`IGeometryCollection`](../igeometrycollection) , элементы которого[`IPoint`](../ipoint) с.
 
 ```csharp
 public interface IMultiPoint : IGeometryCollection

@@ -1,14 +1,14 @@
 ---
 title: NullVectorSymbolizer
 second_title: Aspose.GIS for .NET API 参考
-description:  NullSymbolizer 不绘制任何内容并有效地跳过渲染它所应用的几何图形
+description: 的空符号器不绘制任何内容并有效地跳过对其应用的几何图形的渲染
 type: docs
-weight: 1780
+weight: 1790
 url: /zh/net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/
 ---
 ## NullVectorSymbolizer class
 
-` NullSymbolizer` 不绘制任何内容并有效地跳过渲染它所应用的几何图形。
+的`空符号器`不绘制任何内容并有效地跳过对其应用的几何图形的渲染。
 
 ```csharp
 public class NullVectorSymbolizer : VectorSymbolizer
@@ -18,7 +18,7 @@ public class NullVectorSymbolizer : VectorSymbolizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance) { get; } | 获取` NullSymbolizer` 的实例。 |
+| static [Instance](../../aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance) { get; } | 获取一个实例`空符号器`. |
 
 ### 也可以看看
 

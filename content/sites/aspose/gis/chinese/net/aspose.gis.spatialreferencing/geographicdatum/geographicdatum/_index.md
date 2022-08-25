@@ -18,15 +18,15 @@ public GeographicDatum(string name, Ellipsoid ellipsoid,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 此数据的名称。 |
-| ellipsoid | Ellipsoid | 该基准面的椭圆体。不能为空。 |
-| toWgs84Parameters | BursaWolfParameters | 参数，可以给布尔萨狼公式，以将该基准中的坐标转换为WGS84基准中的坐标。 如果该数据接近 WGS84 并且不需要转换，则传递布尔萨狼参数，所有值都设置为 0。 如果为空，ToWgs84 将设置为[`IsNull`](../../bursawolfparameters/isnull)参数。 |
-| identifier | Identifier | 该数据的标识符。 |
+| ellipsoid | Ellipsoid | 该基准面的椭球体。不能为空。 |
+| toWgs84Parameters | BursaWolfParameters | 参数，可提供给 bursa wolf 公式，用于将此基准中的坐标转换为 WGS84 基准中的坐标。 如果此基准接近 WGS84 并且不需要转换，则传递 bursa wolf 参数，所有值都设置为 0。 如果null，ToWgs84 将被设置为[`IsNull`](../../bursawolfparameters/isnull)参数. |
+| identifier | Identifier | 此数据的标识符。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | ellipsoid为空。 |
+| ArgumentNullException | ellipsoid一片空白。 |
 
 ### 也可以看看
 

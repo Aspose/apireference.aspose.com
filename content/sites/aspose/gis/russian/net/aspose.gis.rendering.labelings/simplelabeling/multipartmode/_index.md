@@ -1,14 +1,14 @@
 ---
 title: MultipartMode
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет поведение рендеринга для составных геометрий. Значение по умолчаниюAll.
+description: Определяет поведение рендеринга для составных геометрий. По умолчаниюAll .
 type: docs
 weight: 120
 url: /ru/net/aspose.gis.rendering.labelings/simplelabeling/multipartmode/
 ---
 ## SimpleLabeling.MultipartMode property
 
-Определяет поведение рендеринга для составных геометрий. Значение по умолчанию:All.
+Определяет поведение рендеринга для составных геометрий. По умолчаниюAll .
 
 ```csharp
 public MultipartMode MultipartMode { get; set; }

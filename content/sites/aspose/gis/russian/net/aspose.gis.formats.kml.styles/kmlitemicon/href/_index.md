@@ -1,14 +1,14 @@
 ---
 title: Href
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает расположение ресурса в виде URL-адреса. Значение по умолчаниюnullозначает что href отсутствует.
+description: Указывает расположение ресурса в виде URLадреса. Значение по умолчаниюnull означает что href отсутствует.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.formats.kml.styles/kmlitemicon/href/
 ---
 ## KmlItemIcon.Href property
 
-Указывает расположение ресурса в виде URL-адреса. Значение по умолчанию:`null`означает, что href отсутствует.
+Указывает расположение ресурса в виде URL-адреса. Значение по умолчанию:`null` означает, что href отсутствует.
 
 ```csharp
 public string Href { get; set; }

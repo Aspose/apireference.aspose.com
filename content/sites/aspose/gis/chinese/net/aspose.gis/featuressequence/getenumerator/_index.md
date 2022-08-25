@@ -22,7 +22,7 @@ public abstract IEnumerator<Feature> GetEnumerator()
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 如果层不支持该操作，则抛出 。 |
+| InvalidOperationException | 如果该层不支持该操作，则抛出该操作。 |
 
 ### 也可以看看
 

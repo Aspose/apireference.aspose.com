@@ -1,14 +1,14 @@
 ---
 title: Distance
 second_title: Справочник по Aspose.GIS for .NET API
-description: Параметром для проверки является точка рядом с отрезком. Значение по умолчанию0.
+description: Параметром для проверки является точка рядом с отрезком. Значение по умолчанию 0. .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.geotools/simplifysegmentsoptions/distance/
 ---
 ## SimplifySegmentsOptions.Distance property
 
-Параметром для проверки является точка рядом с отрезком. Значение по умолчанию:0.
+Параметром для проверки является точка рядом с отрезком. Значение по умолчанию: 0. .
 
 ```csharp
 public double Distance { get; set; }

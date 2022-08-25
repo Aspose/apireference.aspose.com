@@ -3,7 +3,7 @@ title: RasterRect
 second_title: Справочник по Aspose.GIS for .NET API
 description: Блок растровых ячеек.
 type: docs
-weight: 1300
+weight: 1310
 url: /ru/net/aspose.gis.raster/rasterrect/
 ---
 ## RasterRect class
@@ -18,7 +18,7 @@ public class RasterRect
 
 | Имя | Описание |
 | --- | --- |
-| [RasterRect](rasterrect)(int, int, int, int) | Создать экземпляр[`RasterRect`](../rasterrect). |
+| [RasterRect](rasterrect)(int, int, int, int) | Создать экземпляр[`RasterRect`](../rasterrect) . |
 
 ## Характеристики
 
@@ -27,13 +27,13 @@ public class RasterRect
 | [Height](../../aspose.gis.raster/rasterrect/height) { get; } | Получает высоту (количество строк). |
 | [Width](../../aspose.gis.raster/rasterrect/width) { get; } | Получает ширину (количество столбцов). |
 | [X](../../aspose.gis.raster/rasterrect/x) { get; } | Получает начальный столбец (координата x). |
-| [Y](../../aspose.gis.raster/rasterrect/y) { get; } | Получает начальную строку (координата y). |
+| [Y](../../aspose.gis.raster/rasterrect/y) { get; } | Получает начальную строку (координата Y). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterrect/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis.raster/rasterrect/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

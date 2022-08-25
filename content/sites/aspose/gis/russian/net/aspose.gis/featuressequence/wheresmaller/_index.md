@@ -1,14 +1,14 @@
 ---
 title: WhereSmaller
 second_title: Справочник по Aspose.GIS for .NET API
-description: Выбирает объекты со значением атрибута меньше заданного значения.
+description: Выбирает объекты со значением атрибута меньше предоставленного значения.
 type: docs
 weight: 140
 url: /ru/net/aspose.gis/featuressequence/wheresmaller/
 ---
 ## FeaturesSequence.WhereSmaller&lt;T&gt; method
 
-Выбирает объекты со значением атрибута меньше заданного значения.
+Выбирает объекты со значением атрибута меньше предоставленного значения.
 
 ```csharp
 public virtual FeaturesSequence WhereSmaller<T>(string attributeName, T value)

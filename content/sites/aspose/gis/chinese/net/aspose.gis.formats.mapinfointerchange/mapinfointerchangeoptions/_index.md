@@ -24,19 +24,19 @@ public class MapInfoInterchangeOptions : DriverOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring) { get; set; } | 确定是否关闭每个几何图形中未闭合的LinearRing。默认为`false`。 |
-| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints) { get; set; } | 确定是否在每个几何段的中间添加一个新点。默认为`false`。 |
-| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints) { get; set; } | 确定是否删除每个几何图形中的近点。默认为`false`。 |
-| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance) { get; set; } | 确定[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints)的距离。默认为`0`。 |
+| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring) { get; set; } | 确定是否关闭未关闭的LinearRing在每个几何中。默认为`false`. |
+| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints) { get; set; } | 确定是否在每个几何段的中间添加一个新点。默认为`false`. |
+| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints) { get; set; } | 确定是否删除每个几何图形中的近点。默认为`false`. |
+| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance) { get; set; } | 确定距离[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints).默认为`0`. |
 | [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | 用于线性化曲线几何形状的公差。 |
-| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel)将应用于 M 坐标 当几何添加到[`VectorLayer`](../../aspose.gis/vectorlayer)或从[`VectorLayer`](../../aspose.gis/vectorlayer)读取它们时。 默认值为[`Exact`](../../aspose.gis/precisionmodel/exact)。 |
-| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments) { get; set; } | 确定是否删除位于每个几何图形中同一段上的点。默认为`false`。 |
-| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance) { get; set; } | 确定[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments)的距离。默认为`0`。 |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | 一个[`PrecisionModel`](../../aspose.gis/precisionmodel)将几何添加到[`VectorLayer`](../../aspose.gis/vectorlayer)或者当它们从[`VectorLayer`](../../aspose.gis/vectorlayer). 默认值为[`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments) { get; set; } | 确定是否删除位于每个几何图形中同一段上的点。默认为`false`. |
+| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance) { get; set; } | 确定距离[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments).默认为`0`. |
 | [TextStringAttribute](../../aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions/textstringattribute) { get; set; } | 指定表示“文本”图形对象的文本的属性名称。 |
-| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | 确定在将几何图形添加到图层时是否应对其进行验证。 如果设置为`true`，[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)会为每个 调用几何体添加到图层时，如果验证失败（[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)is`false`），[`GisException`](../../aspose.gis/gisexception)被抛出。 |
-| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines) { get; set; } | 确定是否允许将多边形或多多边形转换为线串。默认为`false`。 |
-| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel)将应用于 X 和 Y 坐标 当几何图形添加到[`VectorLayer`](../../aspose.gis/vectorlayer)或从[`VectorLayer`](../../aspose.gis/vectorlayer)读取它们时。 默认值为[`Exact`](../../aspose.gis/precisionmodel/exact)。 |
-| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel)将应用于 Z 坐标 当几何添加到[`VectorLayer`](../../aspose.gis/vectorlayer)或从[`VectorLayer`](../../aspose.gis/vectorlayer)读取它们时。 默认值为[`Exact`](../../aspose.gis/precisionmodel/exact)。 |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | 确定在将几何图形添加到图层时是否应对其进行验证。 如果设置为`true`,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)在将 each 几何图形添加到图层时以及如果验证失败（[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)是`false`),[`GisException`](../../aspose.gis/gisexception)被抛出。 |
+| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines) { get; set; } | 确定是否允许将多边形或多多边形转换为线串。默认为`false`. |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | 一个[`PrecisionModel`](../../aspose.gis/precisionmodel)将几何添加到[`VectorLayer`](../../aspose.gis/vectorlayer)或者当它们从[`VectorLayer`](../../aspose.gis/vectorlayer). 默认值为[`Exact`](../../aspose.gis/precisionmodel/exact). |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | 一个[`PrecisionModel`](../../aspose.gis/precisionmodel)当几何图形添加到[`VectorLayer`](../../aspose.gis/vectorlayer)或者当它们从[`VectorLayer`](../../aspose.gis/vectorlayer). 默认值为[`Exact`](../../aspose.gis/precisionmodel/exact). |
 
 ### 也可以看看
 

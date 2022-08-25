@@ -3,7 +3,7 @@ title: RasterRect
 second_title: Aspose.GIS for .NET API 参考
 description: 光栅单元块
 type: docs
-weight: 1300
+weight: 1310
 url: /zh/net/aspose.gis.raster/rasterrect/
 ---
 ## RasterRect class
@@ -18,7 +18,7 @@ public class RasterRect
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RasterRect](rasterrect)(int, int, int, int) | 创建[`RasterRect`](../rasterrect)的实例。 |
+| [RasterRect](rasterrect)(int, int, int, int) | 创建一个实例[`RasterRect`](../rasterrect). |
 
 ## 特性
 
@@ -33,7 +33,7 @@ public class RasterRect
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterrect/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../aspose.gis.raster/rasterrect/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

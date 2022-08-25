@@ -1,14 +1,14 @@
 ---
 title: UnsetValue
 second_title: Aspose.GIS for .NET API 参考
-description: 从此特征中移除属性值
+description: 移除此特征的属性值
 type: docs
 weight: 130
 url: /zh/net/aspose.gis/feature/unsetvalue/
 ---
 ## Feature.UnsetValue method
 
-从此特征中移除属性值。
+移除此特征的属性值。
 
 ```csharp
 public void UnsetValue(string attributeName)
@@ -22,10 +22,10 @@ public void UnsetValue(string attributeName)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 属性未锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 | InvalidOperationException | 此属性的值不能取消。 |
 | ArgumentException | 此层中不存在具有此名称的属性。 |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 
 ### 也可以看看
 

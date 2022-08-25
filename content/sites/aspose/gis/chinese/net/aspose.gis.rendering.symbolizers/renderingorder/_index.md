@@ -3,7 +3,7 @@ title: RenderingOrder
 second_title: Aspose.GIS for .NET API 参考
 description: 确定渲染顺序
 type: docs
-weight: 1800
+weight: 1810
 url: /zh/net/aspose.gis.rendering.symbolizers/renderingorder/
 ---
 ## RenderingOrder enumeration
@@ -18,7 +18,7 @@ public enum RenderingOrder
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| ByFeatures | `0` | 使用所有符号渲染特征，然后继续下一个特征。 |
+| ByFeatures | `0` | 使用所有符号渲染要素，然后继续下一个要素。 |
 | ByLayers | `1` | 使用符号器渲染所有要素，然后继续将要素绘制到下一个符号器。 |
 
 ### 也可以看看

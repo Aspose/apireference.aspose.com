@@ -1,14 +1,14 @@
 ---
 title: HasGeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает истину так как проекция SRS всегда имеет нулевой меридиан.
+description: Возвращает значение true так как проекция SRS всегда имеет нулевой меридиан.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasgeographicdatum/
 ---
 ## ProjectedSpatialReferenceSystem.HasGeographicDatum property
 
-Возвращает истину, так как проекция SRS всегда имеет нулевой меридиан.
+Возвращает значение true, так как проекция SRS всегда имеет нулевой меридиан.
 
 ```csharp
 public bool HasGeographicDatum { get; }

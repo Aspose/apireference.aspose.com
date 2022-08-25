@@ -24,7 +24,7 @@ public abstract bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### 评论
 
-如果不支持空间参考系统，则将其传递给SpatialReferenceSystem)方法, aNotSupportedException将被抛出。
+如果不支持空间参考系统，则将其传递给[`CreateLayer`](../createlayer)方法， aNotSupportedException将被抛出。
 
 ### 也可以看看
 

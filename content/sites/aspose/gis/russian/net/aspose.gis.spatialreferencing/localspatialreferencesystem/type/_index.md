@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по Aspose.GIS for .NET API
-description: ВозвратLocal.
+description: ВозвратLocal .
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.spatialreferencing/localspatialreferencesystem/type/
 ---
 ## LocalSpatialReferenceSystem.Type property
 
-ВозвратLocal.
+ВозвратLocal .
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }

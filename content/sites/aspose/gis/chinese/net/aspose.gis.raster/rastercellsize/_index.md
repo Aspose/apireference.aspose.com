@@ -3,7 +3,7 @@ title: RasterCellSize
 second_title: Aspose.GIS for .NET API 参考
 description: 描述地图上栅格单元的大小比例和旋转
 type: docs
-weight: 1260
+weight: 1270
 url: /zh/net/aspose.gis.raster/rastercellsize/
 ---
 ## RasterCellSize class
@@ -26,16 +26,16 @@ public class RasterCellSize : IRasterCellSize
 | --- | --- |
 | [Height](../../aspose.gis.raster/rastercellsize/height) { get; } | 计算像素高度。 |
 | [ScaleX](../../aspose.gis.raster/rastercellsize/scalex) { get; set; } | 获取或设置像素宽度的 x 分量（x 比例）。 |
-| [ScaleY](../../aspose.gis.raster/rastercellsize/scaley) { get; set; } | 获取或设置像素高度的 y 分量（y 比例），通常为负数。 |
+| [ScaleY](../../aspose.gis.raster/rastercellsize/scaley) { get; set; } | 获取或设置像素高度的 y 分量（y 比例），通常为负值。 |
 | [SkewX](../../aspose.gis.raster/rastercellsize/skewx) { get; set; } | 获取或设置像素高度的 x 分量（x-skew）。 |
-| [SkewY](../../aspose.gis.raster/rastercellsize/skewy) { get; set; } | 获取或设置像素宽度的 y 分量（y 倾斜）。 |
+| [SkewY](../../aspose.gis.raster/rastercellsize/skewy) { get; set; } | 获取或设置像素宽度的 y 分量（y-skew）。 |
 | [Width](../../aspose.gis.raster/rastercellsize/width) { get; } | 计算像素宽度。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rastercellsize/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../aspose.gis.raster/rastercellsize/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

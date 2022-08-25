@@ -1,14 +1,14 @@
 ---
 title: NestedPropertiesSeparator
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает строку используемую для разделения компонентов вложенных атрибутов. По умолчанию _.
+description: Получает или задает строку используемую для разделения компонентов вложенных атрибутов. Значение по умолчанию _.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.gml/gmloptions/nestedpropertiesseparator/
 ---
 ## GmlOptions.NestedPropertiesSeparator property
 
-Получает или задает строку, используемую для разделения компонентов вложенных атрибутов. По умолчанию "_".
+Получает или задает строку, используемую для разделения компонентов вложенных атрибутов. Значение по умолчанию: "_".
 
 ```csharp
 public string NestedPropertiesSeparator { get; set; }

@@ -3,7 +3,7 @@ title: HorizontalAnchor
 second_title: Aspose.GIS for .NET API 参考
 description: 指定要水平对齐的边
 type: docs
-weight: 1710
+weight: 1720
 url: /zh/net/aspose.gis.rendering.symbolizers/horizontalanchor/
 ---
 ## HorizontalAnchor enumeration
@@ -18,9 +18,9 @@ public enum HorizontalAnchor
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Center | `0` | 指定中心对齐。 |
+| Center | `0` | 指定中心将对齐。 |
 | Left | `1` | 指定左侧对齐。 |
-| Right | `2` | 指定右侧对齐。 |
+| Right | `2` | 指定右侧将对齐。 |
 
 ### 也可以看看
 

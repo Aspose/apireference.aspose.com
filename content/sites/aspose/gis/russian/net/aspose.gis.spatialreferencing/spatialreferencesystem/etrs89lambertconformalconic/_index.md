@@ -1,14 +1,14 @@
 ---
 title: Etrs89LambertConformalConic
 second_title: Справочник по Aspose.GIS for .NET API
-description: ETRS 89 / Lambert Conformal Conic EPSG3034 пространственная система отсчета.
+description: Система пространственной привязки ETRS 89 / Lambert Conformal Conic EPSG3034.
 type: docs
 weight: 270
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/etrs89lambertconformalconic/
 ---
 ## SpatialReferenceSystem.Etrs89LambertConformalConic property
 
-ETRS 89 / Lambert Conformal Conic (EPSG:3034) пространственная система отсчета.
+Система пространственной привязки ETRS 89 / Lambert Conformal Conic (EPSG:3034).
 
 ```csharp
 public static ProjectedSpatialReferenceSystem Etrs89LambertConformalConic { get; }

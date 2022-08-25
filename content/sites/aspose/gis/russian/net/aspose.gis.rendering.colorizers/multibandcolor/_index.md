@@ -3,7 +3,7 @@ title: MultiBandColor
 second_title: Справочник по Aspose.GIS for .NET API
 description: Многоканальный колоризатор определяет красный зеленый и синий компоненты для растра.
 type: docs
-weight: 1400
+weight: 1410
 url: /ru/net/aspose.gis.rendering.colorizers/multibandcolor/
 ---
 ## MultiBandColor class
@@ -24,7 +24,7 @@ public class MultiBandColor : RasterColorizer
 
 | Имя | Описание |
 | --- | --- |
-| [AlphaBand](../../aspose.gis.rendering.colorizers/multibandcolor/alphaband) { get; set; } | Определяет альфа-компонент нашего растра. |
+| [AlphaBand](../../aspose.gis.rendering.colorizers/multibandcolor/alphaband) { get; set; } | Определяет альфа-компонент для нашего растра. |
 | [BlueBand](../../aspose.gis.rendering.colorizers/multibandcolor/blueband) { get; set; } | Определяет синий компонент для нашего растра. |
 | [GreenBand](../../aspose.gis.rendering.colorizers/multibandcolor/greenband) { get; set; } | Определяет зеленый компонент для нашего растра. |
 | [RedBand](../../aspose.gis.rendering.colorizers/multibandcolor/redband) { get; set; } | Определяет красный компонент для нашего растра. |

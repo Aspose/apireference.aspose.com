@@ -19,7 +19,7 @@ public IEnumerable<Measurement> StrokeDashPattern { get; set; }
 | исключение | условие |
 | --- | --- |
 | ArgumentOutOfRangeException | Любое значение в массиве меньше или равно нулю. |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null` . |
 
 ### Смотрите также
 

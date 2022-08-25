@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.GIS for .NET API
-description: Масштаб в частях на миллион.
+description: Шкала в частях на миллион.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.spatialreferencing/bursawolfparameters/scale/
 ---
 ## BursaWolfParameters.Scale property
 
-Масштаб в частях на миллион.
+Шкала в частях на миллион.
 
 ```csharp
 public double Scale { get; }

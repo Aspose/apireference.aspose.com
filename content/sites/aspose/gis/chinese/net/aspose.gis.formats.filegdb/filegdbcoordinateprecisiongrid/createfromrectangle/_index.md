@@ -1,14 +1,14 @@
 ---
 title: CreateFromRectangle
 second_title: Aspose.GIS for .NET API 参考
-description: 创建新的 FileGdbCoordinatePrecisionGrid 使得矩形内的所有值都是可表示的
+description: 创建新的FileGdbCoordinatePrecisionGrid这样一个矩形内的所有值都是可表示的
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/
 ---
 ## FileGdbCoordinatePrecisionGrid.CreateFromRectangle method
 
-创建新的` FileGdbCoordinatePrecisionGrid` 使得矩形内的所有值都是可表示的。
+创建新的`FileGdbCoordinatePrecisionGrid`这样一个矩形内的所有值都是可表示的。
 
 ```csharp
 public static FileGdbCoordinatePrecisionGrid CreateFromRectangle(IPoint p1, IPoint p2)
@@ -17,18 +17,18 @@ public static FileGdbCoordinatePrecisionGrid CreateFromRectangle(IPoint p1, IPoi
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | p1 | IPoint | 矩形的一个角。 |
-| p2 | IPoint | 矩形的对角。必须具有与*p1*相同的尺寸。 |
+| p2 | IPoint | 矩形的对角。尺寸必须与*p1*. |
 
 ### 返回值
 
-` FileGdbCoordinatePrecisionGrid` 使得矩形内的所有值都是可表示的. 矩形外的值是不可表示的，因此将写入 FileGDB 层 的所有坐标都必须在矩形内。
+的`FileGdbCoordinatePrecisionGrid`这样一个矩形内的所有值都是可表示的。 矩形外的值是不可表示的，因此将写入 FileGDB layer 的所有坐标都必须在矩形内。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | *p1*和*p2*不形成有效的非空矩形 &lt;ul&gt;&lt;li&gt;*p1*或*p2*为空。 &lt;/li&gt;&lt;li&gt;*p1*的'HasZ' 标志不等于*p2*的'HasZ' 标志 &lt;/li&gt;&lt;li&gt;'HasM' 标志*p1*不等于*p2*的 'HasM' 标志 &lt;/li&gt;&lt;li&gt;*p1*的'X' 坐标是等于*p2*的'X'坐标 &lt;/li&gt;&lt;li&gt;*p1*的'Y'坐标等于*p2*的'Y'坐标&lt;/li&gt;&lt;li&gt;*p1*的'Z'坐标等于*p2*的'Z'坐标 &lt;/li&gt;&lt;li&gt;'*p1*的 M' 坐标等于*p2*的 'M' 坐标 &lt;/li&gt;&lt;li&gt; 任意坐标为NaN或无穷大。 &lt;/li&gt;&lt;/ul&gt; |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | *p1*和*p2*不要形成有效的非空矩形： *p1*或者*p2*是空的。 HasZ 的标志*p1*不等于 'HasZ' 标志*p2*HasM' 的标志*p1*不等于 'HasM' 标志*p2*X' 坐标*p1*等于 'X' 坐标*p2*Y'坐标*p1*等于'Y'坐标*p2*Z'坐标*p1*等于'Z'坐标*p2*M'坐标*p1*等于'M'坐标*p2*任何坐标是NaN或无穷大。 |
 
 ### 也可以看看
 

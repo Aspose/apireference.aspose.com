@@ -18,7 +18,7 @@ public abstract PrimeMeridian PrimeMeridian { get; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 此 SRS 没有本初子午线。HasPrimeMeridian |
+| InvalidOperationException | 这个 SRS 没有本初子午线。[`HasPrimeMeridian`](../hasprimemeridian) |
 
 ### 也可以看看
 

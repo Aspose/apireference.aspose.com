@@ -1,14 +1,14 @@
 ---
 title: FromBinary
 second_title: Aspose.GIS for .NET API 参考
-description: 从其众所周知的二进制表示创建几何
+description: 从其众所周知的二进制表示创建几何图形
 type: docs
 weight: 460
 url: /zh/net/aspose.gis.geometries/geometry/frombinary/
 ---
 ## FromBinary(byte[]) {#frombinary}
 
-从其众所周知的二进制表示创建几何。
+从其众所周知的二进制表示创建几何图形。
 
 ```csharp
 public static IGeometry FromBinary(byte[] wkb)
@@ -16,7 +16,7 @@ public static IGeometry FromBinary(byte[] wkb)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| wkb | Byte[] | 几何图形的众所周知的二进制表示。 |
+| wkb | Byte[] | 众所周知的几何图形的二进制表示。 |
 
 ### 返回值
 
@@ -27,7 +27,7 @@ public static IGeometry FromBinary(byte[] wkb)
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 参数为空。 |
-| NotSupportedException | 参数表示几何类型不受支持。 |
+| NotSupportedException | 参数表示类型不受支持的几何图形。 |
 | FormatException | 参数不是有效的知名二进制文件。 |
 
 ### 也可以看看
@@ -41,7 +41,7 @@ public static IGeometry FromBinary(byte[] wkb)
 
 ## FromBinary(byte[], SpatialReferenceSystem) {#frombinary_1}
 
-从其众所周知的二进制表示创建几何。
+从其众所周知的二进制表示创建几何图形。
 
 ```csharp
 public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialReferenceSystem)
@@ -49,7 +49,7 @@ public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialRef
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| wkb | Byte[] | 几何图形的众所周知的二进制表示。 |
+| wkb | Byte[] | 众所周知的几何图形的二进制表示。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 分配给几何的空间参考系统。 |
 
 ### 返回值
@@ -61,12 +61,12 @@ public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialRef
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 参数为空。 |
-| NotSupportedException | 参数表示几何类型不受支持。 |
+| NotSupportedException | 参数表示类型不受支持的几何图形。 |
 | FormatException | 参数不是有效的知名二进制文件。 |
 
 ### 评论
 
-如果几何后有额外的字节，则抛出FormatException异常。
+如果几何 a 后面有多余的字节FormatException抛出异常。
 
 ### 也可以看看
 

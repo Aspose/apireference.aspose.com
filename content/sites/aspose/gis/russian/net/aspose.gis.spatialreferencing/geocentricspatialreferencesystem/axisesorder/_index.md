@@ -1,14 +1,14 @@
 ---
 title: AxisesOrder
 second_title: Справочник по Aspose.GIS for .NET API
-description: Порядок осей в этом SRS. Если эта SRS недействительна и имеет неправильные направления осейInvalidвозвращается.
+description: Порядок осей в этой SRS. Если эта SRS недействительна и имеет неправильное направление осейInvalid возвращается.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/axisesorder/
 ---
 ## GeocentricSpatialReferenceSystem.AxisesOrder property
 
-Порядок осей в этом SRS. Если эта SRS недействительна и имеет неправильные направления осей,Invalidвозвращается.
+Порядок осей в этой SRS. Если эта SRS недействительна и имеет неправильное направление осей,Invalid возвращается.
 
 ```csharp
 public GeocentricAxisesOrder AxisesOrder { get; }

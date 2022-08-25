@@ -1,14 +1,14 @@
 ---
 title: AsGeographic
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает этот SRS преобразованный вGeographicSpatialReferenceSystemaspose.gis.spatialreferencing/geographicspatialreferencesystem. ИспользуйтеTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
+description: Возвращает этот SRS преобразованный вGeographicSpatialReferenceSystemaspose.gis.spatialreferencing/geographicspatialreferencesystem . ИспользоватьTypeaspose.gis.spatialreferencing/spatialreferencesystem/type чтобы узнать возможно ли преобразование.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/asgeographic/
 ---
 ## SpatialReferenceSystem.AsGeographic property
 
-Возвращает этот SRS, преобразованный в[`GeographicSpatialReferenceSystem`](../../geographicspatialreferencesystem). Используйте[`Type`](../type), чтобы узнать, возможно ли преобразование.
+Возвращает этот SRS, преобразованный в[`GeographicSpatialReferenceSystem`](../../geographicspatialreferencesystem) . Использовать[`Type`](../type) чтобы узнать, возможно ли преобразование.
 
 ```csharp
 public virtual GeographicSpatialReferenceSystem AsGeographic { get; }

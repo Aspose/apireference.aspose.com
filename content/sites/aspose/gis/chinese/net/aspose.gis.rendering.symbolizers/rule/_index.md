@@ -1,14 +1,14 @@
 ---
 title: Rule
 second_title: Aspose.GIS for .NET API 参考
-description: RuleBasedSymbolizer./rulebasedsymbolizer的用户定义规则
+description: 用户定义的规则RuleBasedSymbolizer./rulebasedsymbolizer.
 type: docs
-weight: 1810
+weight: 1820
 url: /zh/net/aspose.gis.rendering.symbolizers/rule/
 ---
 ## Rule class
 
-[`RuleBasedSymbolizer`](../rulebasedsymbolizer)的用户定义规则。
+用户定义的规则[`RuleBasedSymbolizer`](../rulebasedsymbolizer).
 
 ```csharp
 public class Rule
@@ -20,15 +20,15 @@ public class Rule
 | --- | --- |
 | [Filter](../../aspose.gis.rendering.symbolizers/rule/filter) { get; } | 确定“过滤规则”是否应将符号器应用于特征。 如果返回`true`使用符号；否则，将跳过功能。 |
 | [IsElseRule](../../aspose.gis.rendering.symbolizers/rule/iselserule) { get; } | 获取指示此规则是否为“else-rule”的值。 |
-| [IsFilterRule](../../aspose.gis.rendering.symbolizers/rule/isfilterrule) { get; } | 获取指示此规则是否为“过滤规则”的值。 |
-| [Symbolizer](../../aspose.gis.rendering.symbolizers/rule/symbolizer) { get; } | 应用到特征的符号。 |
+| [IsFilterRule](../../aspose.gis.rendering.symbolizers/rule/isfilterrule) { get; } | 获取一个值，指示此规则是否为“过滤规则”。 |
+| [Symbolizer](../../aspose.gis.rendering.symbolizers/rule/symbolizer) { get; } | 应用于特征的符号器。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [CreateElseRule](../../aspose.gis.rendering.symbolizers/rule/createelserule)(VectorSymbolizer) | 创建一个新规则，只要它不匹配任何过滤器规则，就会将符号器应用于特征。 |
-| static [CreateFilterRule](../../aspose.gis.rendering.symbolizers/rule/createfilterrule)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | 创建新规则，在通过过滤器时将符号器应用于要素。 |
+| static [CreateElseRule](../../aspose.gis.rendering.symbolizers/rule/createelserule)(VectorSymbolizer) | 创建一个新规则，只要它不匹配任何过滤器规则，就将符号器应用于要素。 |
+| static [CreateFilterRule](../../aspose.gis.rendering.symbolizers/rule/createfilterrule)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | 创建一个新规则，在通过过滤器时将符号器应用于要素。 |
 
 ### 也可以看看
 

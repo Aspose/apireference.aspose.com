@@ -26,10 +26,10 @@ public Dataset OpenDataset(string path)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../gisexception) | Ошибка чтения набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
 
 ### Смотрите также
 
@@ -60,10 +60,10 @@ public Dataset OpenDataset(AbstractPath path)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../gisexception) | Ошибка чтения набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
 
 ### Смотрите также
 
@@ -86,7 +86,7 @@ public Dataset OpenDataset(string path, DriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к набору данных. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -97,10 +97,10 @@ public Dataset OpenDataset(string path, DriverOptions options)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../gisexception) | Ошибка чтения набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
 
 ### Смотрите также
 
@@ -123,7 +123,7 @@ public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к набору данных. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -134,10 +134,10 @@ public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../gisexception) | Ошибка чтения набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: Renderer
 second_title: Aspose.GIS for .NET API 参考
 description: 渲染器的基类
 type: docs
-weight: 1660
+weight: 1670
 url: /zh/net/aspose.gis.rendering/renderer/
 ---
 ## Renderer class

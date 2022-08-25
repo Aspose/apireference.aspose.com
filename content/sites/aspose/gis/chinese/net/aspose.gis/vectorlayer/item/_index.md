@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.GIS for .NET API 参考
-description: 获取指定索引处的Featureaspose.gis/feature
+description: 获取Featureaspose.gis/feature在指定的索引处
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/vectorlayer/item/
 ---
 ## VectorLayer indexer
 
-获取指定索引处的[`Feature`](../../feature)。
+获取[`Feature`](../../feature)在指定的索引处。
 
 ```csharp
 public virtual Feature this[int index] { get; }
@@ -20,15 +20,15 @@ public virtual Feature this[int index] { get; }
 
 ### 适当的价值
 
-[`Feature`](../../feature)。
+的[`Feature`](../../feature).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 如果层以只写方式打开，则抛出 。 |
+| InvalidOperationException | 如果层以只写方式打开，则抛出。 |
 | ArgumentOutOfRangeException | 索引超出范围。 |
-| [GisException](../../gisexception) | 从文件中读取特征时出错。 |
+| [GisException](../../gisexception) | 从文件中读取功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看

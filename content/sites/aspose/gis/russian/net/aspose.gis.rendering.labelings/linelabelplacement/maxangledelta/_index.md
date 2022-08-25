@@ -1,14 +1,14 @@
 ---
 title: MaxAngleDelta
 second_title: Справочник по Aspose.GIS for .NET API
-description: При использовании сCurvedустанавливает максимальный угол в градусах между двумя последующие символы в изогнутой этикетке. По умолчанию 25.
+description: При использовании сCurved устанавливает максимальный угол в градусах между двумя последующими символами в изогнутой этикетке. По умолчанию 25.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.rendering.labelings/linelabelplacement/maxangledelta/
 ---
 ## LineLabelPlacement.MaxAngleDelta property
 
-При использовании сCurvedустанавливает максимальный угол в градусах между двумя последующие символы в изогнутой этикетке. По умолчанию 25.
+При использовании сCurved устанавливает максимальный угол в градусах между двумя последующими символами в изогнутой этикетке. По умолчанию 25.
 
 ```csharp
 public double MaxAngleDelta { get; set; }

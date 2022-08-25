@@ -16,7 +16,7 @@ public bool Intersects(Extent extent)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| extent | Extent | 范围。 |
+| extent | Extent | 程度。 |
 
 ### 返回值
 
@@ -26,10 +26,11 @@ public bool Intersects(Extent extent)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 
+* method [Intersects](../../../aspose.gis/extent/intersects)
 * class [Extent](../../../aspose.gis/extent)
 * class [Geometry](../../geometry)
 * 命名空间 [Aspose.Gis.Geometries](../../geometry)
@@ -57,13 +58,13 @@ public bool Intersects(IGeometry other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 评论
 
-这个方法等价于: 这是[`Disjoint`](../../igeometry/disjoint)的否定。请参阅[`Disjoint`](../../igeometry/disjoint)了解更多详情。
+这个方法等价于： 这是对的否定[`Disjoint`](../../igeometry/disjoint).看[`Disjoint`](../../igeometry/disjoint)了解更多详情。
 
 ```csharp
 !this.Disjoint(other);

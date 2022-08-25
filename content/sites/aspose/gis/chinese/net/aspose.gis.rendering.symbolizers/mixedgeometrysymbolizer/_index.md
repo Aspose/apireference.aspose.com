@@ -3,7 +3,7 @@ title: MixedGeometrySymbolizer
 second_title: Aspose.GIS for .NET API 参考
 description: 根据几何类型对要素几何应用正确的符号
 type: docs
-weight: 1770
+weight: 1780
 url: /zh/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/
 ---
 ## MixedGeometrySymbolizer class
@@ -24,9 +24,9 @@ public class MixedGeometrySymbolizer : VectorSymbolizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LineSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbolizer) { get; set; } | 指定用于图层中线几何的符号器。 |
+| [LineSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbolizer) { get; set; } | 指定用于图层中的线几何图形的符号器。 |
 | [PointSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer) { get; set; } | 指定用于图层中点几何图形的符号器。 |
-| [PolygonSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer) { get; set; } | 指定用于图层中多边形几何的符号器。 |
+| [PolygonSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer) { get; set; } | 指定用于图层中的多边形几何图形的符号器。 |
 
 ### 评论
 

@@ -1,14 +1,14 @@
 ---
 title: Polygon
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаPolygonaspose.gis.geometries/polygon.
+description: Инициализирует новый экземплярPolygonaspose.gis.geometries/polygon класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/polygon/polygon/
 ---
 ## Polygon() {#constructor}
 
-Инициализирует новый экземпляр класса[`Polygon`](../../polygon).
+Инициализирует новый экземпляр[`Polygon`](../../polygon) класс.
 
 ```csharp
 public Polygon()
@@ -24,7 +24,7 @@ public Polygon()
 
 ## Polygon(ILinearRing) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Polygon`](../../polygon).
+Инициализирует новый экземпляр[`Polygon`](../../polygon) класс.
 
 ```csharp
 public Polygon(ILinearRing exteriorRing)
@@ -38,7 +38,7 @@ public Polygon(ILinearRing exteriorRing)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 
@@ -51,7 +51,7 @@ public Polygon(ILinearRing exteriorRing)
 
 ## Polygon(ILinearRing, IEnumerable&lt;ILinearRing&gt;) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Polygon`](../../polygon).
+Инициализирует новый экземпляр[`Polygon`](../../polygon) класс.
 
 ```csharp
 public Polygon(ILinearRing exteriorRing, IEnumerable<ILinearRing> interiorRings)
@@ -60,13 +60,13 @@ public Polygon(ILinearRing exteriorRing, IEnumerable<ILinearRing> interiorRings)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | exteriorRing | ILinearRing | Внешнее кольцо. |
-| interiorRings | IEnumerable`1 | Внутренние кольца. |
+| interiorRings | IEnumerable`1 | Внутреннее кольцо. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

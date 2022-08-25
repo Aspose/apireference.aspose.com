@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает тип этой SRS см.SpatialReferenceSystemTypeaspose.gis.spatialreferencing/spatialreferencesystemtype.
+description: Получает тип этой SRS см.SpatialReferenceSystemTypeaspose.gis.spatialreferencing/spatialreferencesystemtype .
 type: docs
 weight: 170
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/type/
 ---
 ## SpatialReferenceSystem.Type property
 
-Получает тип этой SRS, см.[`SpatialReferenceSystemType`](../../spatialreferencesystemtype).
+Получает тип этой SRS, см.[`SpatialReferenceSystemType`](../../spatialreferencesystemtype) .
 
 ```csharp
 public abstract SpatialReferenceSystemType Type { get; }

@@ -1,14 +1,14 @@
 ---
 title: ImportSld
 second_title: Aspose.GIS for .NET API 参考
-description: 从位于指定路径的样式化层描述符文件导入样式
+description: 从位于指定路径的样式化图层描述符文件导入样式
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering/vectormaplayer/importsld/
 ---
 ## ImportSld(string, SldImportOptions) {#importsld_1}
 
-从位于指定路径的样式化层描述符文件导入样式。
+从位于指定路径的样式化图层描述符文件导入样式。
 
 ```csharp
 public void ImportSld(string path, SldImportOptions options = null)
@@ -16,20 +16,20 @@ public void ImportSld(string path, SldImportOptions options = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 样式化层描述符文件的路径。 |
+| path | String | 样式化图层描述符文件的路径。 |
 | options | SldImportOptions | 导入选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 | XmlException | 解析 XML 时出错。 |
-| FormatException | 在 XML 中找不到 SLD 样式。 |
+| FormatException | 在 XML 中未找到 SLD 样式。 |
 
 ### 评论
 
-此方法覆盖[`Symbolizer`](../symbolizer)属性的值。
+此方法覆盖[`Symbolizer`](../symbolizer)属性.
 
 ### 也可以看看
 
@@ -42,7 +42,7 @@ public void ImportSld(string path, SldImportOptions options = null)
 
 ## ImportSld(AbstractPath, SldImportOptions) {#importsld}
 
-从位于指定路径的样式化层描述符文件导入样式。
+从位于指定路径的样式化图层描述符文件导入样式。
 
 ```csharp
 public void ImportSld(AbstractPath path, SldImportOptions options = null)
@@ -50,20 +50,20 @@ public void ImportSld(AbstractPath path, SldImportOptions options = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 样式化层描述符文件的路径。 |
+| path | AbstractPath | 样式化图层描述符文件的路径。 |
 | options | SldImportOptions | 导入选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 | XmlException | 解析 XML 时出错。 |
-| FormatException | 在 XML 中找不到 SLD 样式。 |
+| FormatException | 在 XML 中未找到 SLD 样式。 |
 
 ### 评论
 
-此方法覆盖[`Symbolizer`](../symbolizer)属性的值。
+此方法覆盖[`Symbolizer`](../symbolizer)属性.
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public static IGeometry CreateMidpoints(IGeometry geometry)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| geometry | IGeometry | 用于处理的几何图形。 |
+| geometry | IGeometry | 用于处理的几何形状。 |
 
 ### 返回值
 

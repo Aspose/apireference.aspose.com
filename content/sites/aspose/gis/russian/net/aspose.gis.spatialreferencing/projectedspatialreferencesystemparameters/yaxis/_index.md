@@ -1,14 +1,14 @@
 ---
 title: YAxis
 second_title: Справочник по Aspose.GIS for .NET API
-description: Ось описывающая Y вертикальное измерение. По умолчанию используется ось с северным направлением.
+description: Ось описывающая размер Y вертикальный. По умолчанию используется ось с северным направлением.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/
 ---
 ## ProjectedSpatialReferenceSystemParameters.YAxis property
 
-Ось, описывающая Y (вертикальное) измерение. По умолчанию используется ось с северным направлением.
+Ось, описывающая размер Y (вертикальный). По умолчанию используется ось с северным направлением.
 
 ```csharp
 public Axis YAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis YAxis { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Выброшено из установщика, если направление оси не равноNorthилиSouth. |
+| ArgumentException | Выбрасывается из сеттера, если направление оси не заданоNorth или жеSouth . |
 
 ### Смотрите также
 

@@ -17,7 +17,7 @@ public static Dataset Create(string path, FileDriver driver)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к набору данных. |
-| driver | FileDriver | Используемый драйвер. |
+| driver | FileDriver | Драйвер для использования. |
 
 ### Возвращаемое значение
 
@@ -28,10 +28,10 @@ public static Dataset Create(string path, FileDriver driver)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../gisexception) | Ошибка при создании набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных. |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
@@ -54,7 +54,7 @@ public static Dataset Create(AbstractPath path, FileDriver driver)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к набору данных. |
-| driver | FileDriver | Используемый драйвер. |
+| driver | FileDriver | Драйвер для использования. |
 
 ### Возвращаемое значение
 
@@ -65,10 +65,10 @@ public static Dataset Create(AbstractPath path, FileDriver driver)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../gisexception) | Ошибка при создании набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных. |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
@@ -92,8 +92,8 @@ public static Dataset Create(string path, FileDriver driver, DriverOptions optio
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к набору данных. |
-| driver | FileDriver | Используемый драйвер. |
-| options | DriverOptions | Опции драйвера. |
+| driver | FileDriver | Драйвер для использования. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -104,10 +104,10 @@ public static Dataset Create(string path, FileDriver driver, DriverOptions optio
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../gisexception) | Ошибка при создании набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных. |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
@@ -131,8 +131,8 @@ public static Dataset Create(AbstractPath path, FileDriver driver, DriverOptions
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к набору данных. |
-| driver | FileDriver | Используемый драйвер. |
-| options | DriverOptions | Опции драйвера. |
+| driver | FileDriver | Драйвер для использования. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -143,10 +143,10 @@ public static Dataset Create(AbstractPath path, FileDriver driver, DriverOptions
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
+| ArgumentNullException | Путь`null`. |
 | [GisException](../../gisexception) | Ошибка при создании набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Драйвер не может открывать наборы данных. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Драйвер не может открыть наборы данных. |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также

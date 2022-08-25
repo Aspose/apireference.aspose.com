@@ -3,7 +3,7 @@ title: LineJoin
 second_title: Aspose.GIS for .NET API 参考
 description: 确定线段的交点处如何渲染线
 type: docs
-weight: 1600
+weight: 1610
 url: /zh/net/aspose.gis.rendering/linejoin/
 ---
 ## LineJoin enumeration
@@ -20,7 +20,7 @@ public enum LineJoin
 | --- | --- | --- |
 | Miter | `0` | 尖角。 |
 | Round | `1` | 圆角。 |
-| Bevel | `2` | 斜角。 |
+| Bevel | `2` | 对角线角。 |
 
 ### 也可以看看
 

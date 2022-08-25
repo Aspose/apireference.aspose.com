@@ -21,7 +21,7 @@ public IEnumerable<WebTile> GetTiles(int zoom, Extent extent)
 
 ### 返回值
 
-网络图块。
+网络磁贴。
 
 ### 也可以看看
 

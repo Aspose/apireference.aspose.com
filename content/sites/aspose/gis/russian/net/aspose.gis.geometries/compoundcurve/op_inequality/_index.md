@@ -16,8 +16,8 @@ public static bool operator !=(CompoundCurve a, CompoundCurve b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | CompoundCurve | Экземпляр A. |
-| b | CompoundCurve | Экземпляр B. |
+| a | CompoundCurve | Экземпляр А. |
+| b | CompoundCurve | Экземпляр Б. |
 
 ### Возвращаемое значение
 

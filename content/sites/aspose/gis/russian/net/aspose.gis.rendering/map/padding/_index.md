@@ -18,7 +18,7 @@ public Measurement Padding { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Отрицательное значение. |
+| ArgumentOutOfRangeException | Значение отрицательное. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Marker
 second_title: Aspose.GIS for .NET API 参考
-description: 指定沿线的标记符号
+description: 指定沿线的标记符号器
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.symbolizers/markerline/marker/
 ---
 ## MarkerLine.Marker property
 
-指定沿线的标记符号。
+指定沿线的标记符号器。
 
 ```csharp
 public VectorSymbolizer Marker { get; set; }

@@ -3,7 +3,7 @@ title: ILineString
 second_title: Aspose.GIS for .NET API 参考
 description: 点之间具有线性插值的多顶点曲线
 type: docs
-weight: 910
+weight: 920
 url: /zh/net/aspose.gis.geometries/ilinestring/
 ---
 ## ILineString interface

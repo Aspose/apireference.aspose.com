@@ -1,7 +1,7 @@
 ---
 title: AddProjectionParameter
 second_title: Справочник по Aspose.GIS for .NET API
-description: Добавляет параметр проекции к этому SRS. Если параметр с таким именем уже был добавлен - обновите его.
+description: Добавляет параметр проекции к этому SRS. Если параметр с таким именем уже был добавлен  обновите его.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter/
@@ -17,13 +17,13 @@ public void AddProjectionParameter(string parameterName, double value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | parameterName | String | Имя параметра проекции. |
-| value | Double | Значение параметра. Единица значения должна быть в[`LinearUnit`](../linearunit) или[`AngularUnit`](../../geographicspatialreferencesystem/angularunit)of[`Base`](../base). |
+| value | Double | Значение параметра. Единица стоимости должна быть в[`LinearUnit`](../linearunit) или[`AngularUnit`](../../geographicspatialreferencesystem/angularunit) из[`Base`](../base) . |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *parameterName*имеет значение null. |
+| ArgumentNullException | *parameterName* нулевой. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: MultiLineString
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаMultiLineStringaspose.gis.geometries/multilinestring.
+description: Инициализирует новый экземплярMultiLineStringaspose.gis.geometries/multilinestring класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/multilinestring/multilinestring/
 ---
 ## MultiLineString constructor
 
-Инициализирует новый экземпляр класса[`MultiLineString`](../../multilinestring).
+Инициализирует новый экземпляр[`MultiLineString`](../../multilinestring) класс.
 
 ```csharp
 public MultiLineString()

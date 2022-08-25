@@ -1,14 +1,14 @@
 ---
 title: FeatureAttribute
 second_title: Справочник по Aspose.GIS for .NET API
-description: АтрибутFeature./feature.
+description: АтрибутFeature./feature .
 type: docs
 weight: 130
 url: /ru/net/aspose.gis/featureattribute/
 ---
 ## FeatureAttribute class
 
-Атрибут[`Feature`](../feature).
+Атрибут[`Feature`](../feature) .
 
 ```csharp
 public class FeatureAttribute
@@ -18,8 +18,8 @@ public class FeatureAttribute
 
 | Имя | Описание |
 | --- | --- |
-| [FeatureAttribute](featureattribute#constructor)(string, AttributeDataType) | Инициализирует новый экземпляр класса[`FeatureAttribute`](../featureattribute). |
-| [FeatureAttribute](featureattribute#constructor_1)(string, AttributeDataType, bool) | Инициализирует новый экземпляр класса[`FeatureAttribute`](../featureattribute). |
+| [FeatureAttribute](featureattribute#constructor)(string, AttributeDataType) | Инициализирует новый экземпляр[`FeatureAttribute`](../featureattribute) класс. |
+| [FeatureAttribute](featureattribute#constructor_1)(string, AttributeDataType, bool) | Инициализирует новый экземпляр[`FeatureAttribute`](../featureattribute) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public class FeatureAttribute
 | [CanBeNull](../../aspose.gis/featureattribute/canbenull) { get; set; } | Получает значение, указывающее, может ли этот экземпляр быть нулевым. |
 | [CanBeUnset](../../aspose.gis/featureattribute/canbeunset) { get; set; } | Получает или задает значение, указывающее, можно ли опустить значение для этого атрибута. |
 | [DataType](../../aspose.gis/featureattribute/datatype) { get; set; } | Получает тип данных атрибута. |
-| [DefaultValue](../../aspose.gis/featureattribute/defaultvalue) { get; set; } | Получает или задает значение атрибута, указывающего на отсутствующие данные. |
+| [DefaultValue](../../aspose.gis/featureattribute/defaultvalue) { get; set; } | Получает или задает значение атрибута, указывающее на отсутствующие данные. |
 | [HasCustomDefaultValue](../../aspose.gis/featureattribute/hascustomdefaultvalue) { get; } | Получает значение, указывающее, было ли предопределенное значение по умолчанию для этого атрибута переопределено пользовательским значением. |
 | [IsLocked](../../aspose.gis/featureattribute/islocked) { get; } | Получает значение, указывающее, заблокирован ли этот атрибут. |
 | [Name](../../aspose.gis/featureattribute/name) { get; set; } | Получает имя атрибута. |
@@ -40,7 +40,7 @@ public class FeatureAttribute
 | Имя | Описание |
 | --- | --- |
 | [Lock](../../aspose.gis/featureattribute/lock)() | Блокирует этот атрибут. |
-| override [ToString](../../aspose.gis/featureattribute/tostring)() | Возвращает строку, представляющую текущий объект. |
+| override [ToString](../../aspose.gis/featureattribute/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

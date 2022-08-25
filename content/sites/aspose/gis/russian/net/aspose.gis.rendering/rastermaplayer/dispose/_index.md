@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Справочник по Aspose.GIS for .NET API
-description: Удаляет ресурсы.
+description: Распоряжается ресурсами.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering/rastermaplayer/dispose/
 ---
 ## RasterMapLayer.Dispose method
 
-Удаляет ресурсы.
+Распоряжается ресурсами.
 
 ```csharp
 public override void Dispose()

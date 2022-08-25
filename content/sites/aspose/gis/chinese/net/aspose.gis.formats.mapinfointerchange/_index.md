@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.MapInfoInterchange
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Formats.MapInfoInterchange 命名空间提供了使用 MapInfo 交换格式的类
+description: Aspose.Gis.Formats.MapInfoInterchange命名空间提供使用 MapInfo 交换格式的类
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.formats.mapinfointerchange/
 ---
-` Aspose.Gis.Formats.MapInfoInterchange` 命名空间提供了使用 MapInfo 交换格式的类。
+`Aspose.Gis.Formats.MapInfoInterchange`命名空间提供使用 MapInfo 交换格式的类。
 
 ## 课程
 

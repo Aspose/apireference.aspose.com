@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Справочник по Aspose.GIS for .NET API
-description: SpatialReferenceSystemaspose.gis.rendering/map/spatialreferencesystemкарты.
+description: SpatialReferenceSystemaspose.gis.rendering/map/spatialreferencesystem карты.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.rendering/map/spatialreferencesystem/
 ---
 ## Map.SpatialReferenceSystem property
 
-`SpatialReferenceSystem`карты.
+`SpatialReferenceSystem` карты.
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
@@ -18,8 +18,8 @@ public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | Значение неProjectedилиGeographic. |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | Значение неProjected или жеGeographic . |
 
 ### Смотрите также
 

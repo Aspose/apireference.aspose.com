@@ -1,14 +1,14 @@
 ---
 title: ReportCommonAttributes
 second_title: Справочник по Aspose.GIS for .NET API
-description: Отчет об общих атрибутах OSMvisible version changeset timestamp user и uid. Общие атрибуты будут представлены как атрибуты функций с префиксом osm_ например osm_user osm_timestamp и т. д.
+description: Отчет об общих атрибутах OSM visible version changeset timestamp user и uid. Общие атрибуты будут представлены как атрибуты функций с префиксом osm_ например osm_user osm_timestamp и т. д.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.formats.osmxml/osmxmloptions/reportcommonattributes/
 ---
 ## OsmXmlOptions.ReportCommonAttributes property
 
-Отчет об общих атрибутах OSM:visible, version, changeset, timestamp, user и uid. Общие атрибуты будут представлены как атрибуты функций с префиксом "osm_", например, osm_user, osm_timestamp и т. д.
+Отчет об общих атрибутах OSM: visible, version, changeset, timestamp, user и uid. Общие атрибуты будут представлены как атрибуты функций с префиксом «osm_», например, osm_user, osm_timestamp и т. д.
 
 ```csharp
 public bool ReportCommonAttributes { get; set; }

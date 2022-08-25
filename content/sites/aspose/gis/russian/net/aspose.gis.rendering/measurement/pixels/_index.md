@@ -1,14 +1,14 @@
 ---
 title: Pixels
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает новый экземпляр Measurement  который представляет длину в пикселях.
+description: Возвращает новый экземплярИзмерение который представляет длину в пикселях.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.rendering/measurement/pixels/
 ---
 ## Measurement.Pixels method
 
-Возвращает новый экземпляр` Measurement` , который представляет длину в пикселях.
+Возвращает новый экземпляр`Измерение` который представляет длину в пикселях.
 
 ```csharp
 public static Measurement Pixels(double value)
@@ -20,7 +20,7 @@ public static Measurement Pixels(double value)
 
 ### Возвращаемое значение
 
-Новый экземпляр класса` Измерение` .
+Новый экземпляр`Измерение` учебный класс.
 
 ### Смотрите также
 

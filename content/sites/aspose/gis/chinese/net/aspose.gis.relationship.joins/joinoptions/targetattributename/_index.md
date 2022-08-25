@@ -1,14 +1,14 @@
 ---
 title: TargetAttributeName
 second_title: Aspose.GIS for .NET API 参考
-description: 指定主层的属性名称其值将用于ConditionCompareraspose.gis.relationship.joins/joinoptions/conditioncomparer
+description: 指定主层的属性名称该值将用于ConditionCompareraspose.gis.relationship.joins/joinoptions/conditioncomparer.
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.relationship.joins/joinoptions/targetattributename/
 ---
 ## JoinOptions.TargetAttributeName property
 
-指定主层的属性名称，其值将用于[`ConditionComparer`](../conditioncomparer)。
+指定主层的属性名称，该值将用于[`ConditionComparer`](../conditioncomparer).
 
 ```csharp
 public string TargetAttributeName { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: StrokeWidth
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает ширину линии.
+description: Определяет ширину линии.
 type: docs
 weight: 140
 url: /ru/net/aspose.gis.rendering.symbolizers/simplemarker/strokewidth/
 ---
 ## SimpleMarker.StrokeWidth property
 
-Задает ширину линии.
+Определяет ширину линии.
 
 ```csharp
 public Measurement StrokeWidth { get; set; }

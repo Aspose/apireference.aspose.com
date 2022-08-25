@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem与此范围相关联 可以是null如果SpatialReferenceSystemaspose.gis/extent/spatialreferencesystem未知 使用SpatialReferenceSystem 以在差异空间参考之间转换范围系统
+description: SpatialReferenceSystemaspose.gis.spatialreferencing/spatialreferencesystem与这个extent关联 可以null如果SpatialReferenceSystemaspose.gis/extent/spatialreferencesystem是未知的 使用GetTransformedaspose.gis/extent/gettransformed 为了在不同的空间参考系统之间转换范围
 type: docs
 weight: 50
 url: /zh/net/aspose.gis/extent/spatialreferencesystem/
 ---
 ## Extent.SpatialReferenceSystem property
 
-SpatialReferenceSystem与此范围相关联。 可以是`null`如果`SpatialReferenceSystem`未知。 使用SpatialReferenceSystem) 以在差异空间参考之间转换范围系统。
+[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)与这个extent关联。 可以`null`如果`SpatialReferenceSystem`是未知的。 使用[`GetTransformed`](../gettransformed) 为了在不同的空间参考系统之间转换范围。
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }

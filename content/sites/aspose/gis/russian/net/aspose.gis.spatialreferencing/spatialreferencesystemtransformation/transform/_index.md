@@ -16,7 +16,7 @@ public Geometry Transform(IGeometry geometry)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| geometry | IGeometry | Геометрия для преобразования. |
+| geometry | IGeometry | Геометрия для трансформации. |
 
 ### Возвращаемое значение
 
@@ -26,9 +26,9 @@ public Geometry Transform(IGeometry geometry)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Геометрия`null`. |
-| ArgumentException | Geometries[`SpatialReferenceSystem`](../../../aspose.gis.geometries/igeometry/spatialreferencesystem)is not`null`и не эквивалентен [`Source`](../source) |
-| [TransformationException](../../transformationexception) | Преобразование не выполнено. |
+| ArgumentNullException | Геометрия`null` . |
+| ArgumentException | Геометрии[`SpatialReferenceSystem`](../../../aspose.gis.geometries/igeometry/spatialreferencesystem) не является`null` и не эквивалентно [`Source`](../source) |
+| [TransformationException](../../transformationexception) | Преобразование не удалось. |
 
 ### Смотрите также
 

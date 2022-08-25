@@ -3,7 +3,7 @@ title: SldImportOptions
 second_title: Aspose.GIS for .NET API 参考
 description: 样式图层描述符文件 Sld 的导入选项
 type: docs
-weight: 1680
+weight: 1690
 url: /zh/net/aspose.gis.rendering.sld/sldimportoptions/
 ---
 ## SldImportOptions class
@@ -24,7 +24,7 @@ public class SldImportOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadInternetResources](../../aspose.gis.rendering.sld/sldimportoptions/loadinternetresources) { get; set; } | 确定是否允许 Aspose.GIS 从 Internet 加载源。 如果设置为`false`，则不会加载具有不以“file://”开头的绝对 URI 的模式。 默认为`false`。 |
+| [LoadInternetResources](../../aspose.gis.rendering.sld/sldimportoptions/loadinternetresources) { get; set; } | 确定是否允许 Aspose.GIS 从 Internet 加载源。 如果设置为`false`，具有不以“file://”开头的绝对 URI 的架构将不会被加载。 默认为`false`. |
 
 ### 也可以看看
 

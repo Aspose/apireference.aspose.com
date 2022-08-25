@@ -1,14 +1,14 @@
 ---
 title: Extent
 second_title: Aspose.GIS for .NET API 参考
-description: 二维空间边界框
+description: 一个二维空间边界框
 type: docs
 weight: 110
 url: /zh/net/aspose.gis/extent/
 ---
 ## Extent class
 
-二维空间边界框。
+一个二维空间边界框。
 
 ```csharp
 public class Extent : IEquatable<Extent>
@@ -28,8 +28,8 @@ public class Extent : IEquatable<Extent>
 | --- | --- |
 | [Center](../../aspose.gis/extent/center) { get; } | 范围的中心。 |
 | [Height](../../aspose.gis/extent/height) { get; } | 范围的高度。 |
-| [IsValid](../../aspose.gis/extent/isvalid) { get; } | 确定此[`Extent`](../extent)是否有效。 |
-| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem) { get; set; } | SpatialReferenceSystem与此范围相关联。 可以是`null`如果[`SpatialReferenceSystem`](./spatialreferencesystem)未知。 使用SpatialReferenceSystem) 以在差异空间参考之间转换范围系统。 |
+| [IsValid](../../aspose.gis/extent/isvalid) { get; } | 确定这是否[`Extent`](../extent)是有效的。 |
+| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem)与这个extent关联。 可以`null`如果[`SpatialReferenceSystem`](./spatialreferencesystem)是未知的。 使用[`GetTransformed`](./gettransformed) 为了在不同的空间参考系统之间转换范围。 |
 | [Width](../../aspose.gis/extent/width) { get; } | 范围的宽度。 |
 | [XMax](../../aspose.gis/extent/xmax) { get; set; } | X 坐标的最大值。 |
 | [XMin](../../aspose.gis/extent/xmin) { get; set; } | X 坐标的最小值。 |
@@ -44,20 +44,20 @@ public class Extent : IEquatable<Extent>
 | [Contains](../../aspose.gis/extent/contains#contains)(Extent) | 确定此范围是否包含参数。 |
 | [Contains](../../aspose.gis/extent/contains#contains_1)(IGeometry) | 确定此范围是否包含参数。 |
 | [Contains](../../aspose.gis/extent/contains#contains_2)(double, double) | 确定此范围是否包含由参数定义的坐标。 |
-| [Equals](../../aspose.gis/extent/equals#equals)(Extent) | 表示当前对象是否等于另一个同类型的对象。 |
-| override [Equals](../../aspose.gis/extent/equals#equals_1)(object) | 判断指定对象是否等于当前对象。 |
+| [Equals](../../aspose.gis/extent/equals#equals)(Extent) | 指示当前对象是否等于另一个相同类型的对象。 |
+| override [Equals](../../aspose.gis/extent/equals#equals_1)(object) | 确定指定对象是否等于当前对象。 |
 | override [GetHashCode](../../aspose.gis/extent/gethashcode)() | 用作默认哈希函数。 |
-| [GetTransformed](../../aspose.gis/extent/gettransformed)(SpatialReferenceSystem) | 在包含此范围的指定SpatialReferenceSystem中返回新范围。 |
+| [GetTransformed](../../aspose.gis/extent/gettransformed)(SpatialReferenceSystem) | 返回指定范围内的新范围[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem)包含此范围。 |
 | [Grow](../../aspose.gis/extent/grow#grow)(Extent) | 扩大这个范围，因此它包含参数。 |
-| [Grow](../../aspose.gis/extent/grow#grow_1)(double, double) | 扩大此范围，使其包含指定点。 |
-| [GrowX](../../aspose.gis/extent/growx)(double) | 沿 X 轴扩展此范围，使其包含指定值。 |
+| [Grow](../../aspose.gis/extent/grow#grow_1)(double, double) | 扩大此范围，使其包含指定的点。 |
+| [GrowX](../../aspose.gis/extent/growx)(double) | 沿 X 轴扩展此范围，使其包含指定的值。 |
 | [GrowY](../../aspose.gis/extent/growy)(double) | 沿 Y 轴扩大此范围，使其包含指定值。 |
 | [Intersects](../../aspose.gis/extent/intersects#intersects)(Extent) | 确定此范围是否与参数相交。 |
 | [Intersects](../../aspose.gis/extent/intersects#intersects_1)(IGeometry) | 确定此范围是否与参数相交。 |
-| [Normalize](../../aspose.gis/extent/normalize)() | 交换[`XMin`](./xmin)与[`XMax`](./xmax)如果[`Width`](./width)是负数并且 [`YMin`](./ymin)和[`YMax`](./ymax)如果[`Height`](./height)为负数。 |
+| [Normalize](../../aspose.gis/extent/normalize)() | 交换[`XMin`](./xmin)和[`XMax`](./xmax)如果[`Width`](./width)是负数并且 [`YMin`](./ymin)和[`YMax`](./ymax)如果[`Height`](./height)是负数。 |
 | [ToPolygon](../../aspose.gis/extent/topolygon)() | 将此范围转换为代表它的矩形多边形。 |
-| override [ToString](../../aspose.gis/extent/tostring)() | 返回代表当前对象的字符串。 |
-| [operator ==](../../aspose.gis/extent/op_equality) | 实现“==”运算符。 |
+| override [ToString](../../aspose.gis/extent/tostring)() | 返回表示当前对象的字符串。 |
+| [operator ==](../../aspose.gis/extent/op_equality) | 实现 '==' 运算符。 |
 | [operator !=](../../aspose.gis/extent/op_inequality) | 实现 '!=' 运算符。 |
 
 ### 也可以看看

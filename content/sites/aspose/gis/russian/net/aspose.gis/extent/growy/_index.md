@@ -1,14 +1,14 @@
 ---
 title: GrowY
 second_title: Справочник по Aspose.GIS for .NET API
-description: Увеличивает этот экстент вдоль оси Y чтобы он включал указанное значение.
+description: Увеличивает этот экстент по оси Y чтобы он включал указанное значение.
 type: docs
 weight: 180
 url: /ru/net/aspose.gis/extent/growy/
 ---
 ## Extent.GrowY method
 
-Увеличивает этот экстент вдоль оси Y, чтобы он включал указанное значение.
+Увеличивает этот экстент по оси Y, чтобы он включал указанное значение.
 
 ```csharp
 public void GrowY(double value)

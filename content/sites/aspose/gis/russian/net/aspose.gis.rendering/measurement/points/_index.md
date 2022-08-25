@@ -1,14 +1,14 @@
 ---
 title: Points
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает новый экземпляр Измерение  который представляет длину в пунктах.
+description: Возвращает новый экземплярИзмерение который представляет длину в пунктах.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.rendering/measurement/points/
 ---
 ## Measurement.Points method
 
-Возвращает новый экземпляр` Измерение` , который представляет длину в пунктах.
+Возвращает новый экземпляр`Измерение` который представляет длину в пунктах.
 
 ```csharp
 public static Measurement Points(double value)
@@ -20,7 +20,7 @@ public static Measurement Points(double value)
 
 ### Возвращаемое значение
 
-Новый экземпляр класса` Измерение` .
+Новый экземпляр`Измерение` учебный класс.
 
 ### Смотрите также
 

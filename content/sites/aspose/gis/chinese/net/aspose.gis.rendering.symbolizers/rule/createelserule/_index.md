@@ -1,14 +1,14 @@
 ---
 title: CreateElseRule
 second_title: Aspose.GIS for .NET API 参考
-description: 创建一个新规则只要它不匹配任何过滤器规则就会将符号器应用于特征
+description: 创建一个新规则只要它不匹配任何过滤器规则就将符号器应用于要素
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/rule/createelserule/
 ---
 ## Rule.CreateElseRule method
 
-创建一个新规则，只要它不匹配任何过滤器规则，就会将符号器应用于特征。
+创建一个新规则，只要它不匹配任何过滤器规则，就将符号器应用于要素。
 
 ```csharp
 public static Rule CreateElseRule(VectorSymbolizer symbolizer)
@@ -16,7 +16,7 @@ public static Rule CreateElseRule(VectorSymbolizer symbolizer)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| symbolizer | VectorSymbolizer | 要应用的符号器。 |
+| symbolizer | VectorSymbolizer | 要应用的符号。 |
 
 ### 返回值
 

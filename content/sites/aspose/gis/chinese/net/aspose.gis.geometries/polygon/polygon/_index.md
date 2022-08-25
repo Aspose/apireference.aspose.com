@@ -1,14 +1,14 @@
 ---
 title: Polygon
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化Polygonaspose.gis.geometries/polygon类的新实例
+description: 初始化Polygonaspose.gis.geometries/polygon类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/polygon/polygon/
 ---
 ## Polygon() {#constructor}
 
-初始化[`Polygon`](../../polygon)类的新实例。
+初始化[`Polygon`](../../polygon)类.
 
 ```csharp
 public Polygon()
@@ -24,7 +24,7 @@ public Polygon()
 
 ## Polygon(ILinearRing) {#constructor_1}
 
-初始化[`Polygon`](../../polygon)类的新实例。
+初始化[`Polygon`](../../polygon)类.
 
 ```csharp
 public Polygon(ILinearRing exteriorRing)
@@ -38,7 +38,7 @@ public Polygon(ILinearRing exteriorRing)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 
@@ -51,7 +51,7 @@ public Polygon(ILinearRing exteriorRing)
 
 ## Polygon(ILinearRing, IEnumerable&lt;ILinearRing&gt;) {#constructor_2}
 
-初始化[`Polygon`](../../polygon)类的新实例。
+初始化[`Polygon`](../../polygon)类.
 
 ```csharp
 public Polygon(ILinearRing exteriorRing, IEnumerable<ILinearRing> interiorRings)
@@ -66,7 +66,7 @@ public Polygon(ILinearRing exteriorRing, IEnumerable<ILinearRing> interiorRings)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

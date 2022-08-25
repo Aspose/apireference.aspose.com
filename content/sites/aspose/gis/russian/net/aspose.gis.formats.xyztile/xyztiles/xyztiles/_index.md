@@ -1,14 +1,14 @@
 ---
 title: XyzTiles
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создать экземплярXyzTilesaspose.gis.formats.xyztile/xyztiles.
+description: Создать экземплярXyzTilesaspose.gis.formats.xyztile/xyztiles .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.formats.xyztile/xyztiles/xyztiles/
 ---
 ## XyzTiles constructor
 
-Создать экземпляр[`XyzTiles`](../../xyztiles).
+Создать экземпляр[`XyzTiles`](../../xyztiles) .
 
 ```csharp
 public XyzTiles(XyzConnection connection)

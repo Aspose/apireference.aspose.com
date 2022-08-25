@@ -24,8 +24,8 @@ public class KmlLineStyle : KmlAbstractColorStyle
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Задает цвет графического элемента. Значение по умолчаниюWhite. |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Определяет цветовой режим графического элемента. Значение по умолчанию:обычное. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Определяет цвет графического элемента. Значение по умолчаниюWhite . |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Определяет цветовой режим графического элемента. Значение по умолчанию: обычное. |
 | [Width](../../aspose.gis.formats.kml.styles/kmllinestyle/width) { get; set; } | Ширина линии в пикселях. Значение по умолчанию — «1». |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: IMultiLineString
 second_title: Aspose.GIS for .NET API 参考
-description: AMultiLineString./multilinestring是一维GeometryCollection./geometrycollection 其元素是LineString./linestrings
+description: 一个MultiLineString./multilinestring是一维的GeometryCollection./geometrycollection 的元素是LineString./linestrings.
 type: docs
-weight: 940
+weight: 950
 url: /zh/net/aspose.gis.geometries/imultilinestring/
 ---
 ## IMultiLineString interface
 
-A[`MultiLineString`](../multilinestring)是一维[`GeometryCollection`](../geometrycollection) 其元素是[`LineString`](../linestring)s。
+一个[`MultiLineString`](../multilinestring)是一维的[`GeometryCollection`](../geometrycollection) 的元素是[`LineString`](../linestring)s.
 
 ```csharp
 public interface IMultiLineString : IMultiCurve

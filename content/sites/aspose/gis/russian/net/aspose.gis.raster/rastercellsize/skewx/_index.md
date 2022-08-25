@@ -1,7 +1,7 @@
 ---
 title: SkewX
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает x-компонент высоты пикселя x-skew.
+description: Получает или задает xкомпонент высоты пикселя xskew.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.raster/rastercellsize/skewx/

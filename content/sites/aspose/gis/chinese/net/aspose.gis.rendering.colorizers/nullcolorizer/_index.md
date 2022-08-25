@@ -1,14 +1,14 @@
 ---
 title: NullColorizer
 second_title: Aspose.GIS for .NET API 参考
-description:  NullColorizer 不绘制任何内容并有效地跳过渲染它所应用的栅格单元
+description: 的NullColorizer不绘制任何内容并有效地跳过渲染它应用到的栅格单元
 type: docs
-weight: 1410
+weight: 1420
 url: /zh/net/aspose.gis.rendering.colorizers/nullcolorizer/
 ---
 ## NullColorizer class
 
-` NullColorizer` 不绘制任何内容并有效地跳过渲染它所应用的栅格单元。
+的`NullColorizer`不绘制任何内容并有效地跳过渲染它应用到的栅格单元。
 
 ```csharp
 public class NullColorizer : RasterColorizer
@@ -18,7 +18,7 @@ public class NullColorizer : RasterColorizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance) { get; } | 获取` NullColorizer` 的实例。 |
+| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance) { get; } | 获取一个实例`NullColorizer`. |
 
 ### 也可以看看
 

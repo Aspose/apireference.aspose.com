@@ -84,7 +84,7 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
 | sourceDriver | FileDriver | Драйвер формата для исходного слоя. |
 | destinationPath | String | Путь к слою, который будет создан в результате преобразования. |
 | destinationDriver | FileDriver | Драйвер формата для целевого слоя. |
-| options | ConversionOptions | Параметры процедуры преобразования. |
+| options | ConversionOptions | Варианты процедуры конвертации. |
 
 ### Исключения
 
@@ -92,10 +92,10 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
 | --- | --- |
 | ArgumentNullException | Любой из путей`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*драйверназначения*. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Преобразование геометрии объектов из исходной системы пространственной привязки в целевая система пространственной привязки не удалась. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
 
 ### Смотрите также
 
@@ -122,7 +122,7 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
 | sourceDriver | FileDriver | Драйвер формата для исходного слоя. |
 | destinationPath | AbstractPath | Путь к слою, который будет создан в результате преобразования. |
 | destinationDriver | FileDriver | Драйвер формата для целевого слоя. |
-| options | ConversionOptions | Параметры процедуры преобразования. |
+| options | ConversionOptions | Варианты процедуры конвертации. |
 
 ### Исключения
 
@@ -130,10 +130,10 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
 | --- | --- |
 | ArgumentNullException | Любой из путей`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка чтения или записи объекта в/из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
-| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*драйверназначения*. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Преобразование геометрии объектов из исходной системы пространственной привязки в целевая система пространственной привязки не удалась. |
+| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
+| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
 
 ### Смотрите также
 

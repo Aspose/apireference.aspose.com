@@ -3,7 +3,7 @@ title: NearPointsCleanerOptions
 second_title: Справочник по Aspose.GIS for .NET API
 description: Варианты удаления точек находящихся слишком близко друг к другу.
 type: docs
-weight: 730
+weight: 740
 url: /ru/net/aspose.gis.geotools/nearpointscleaneroptions/
 ---
 ## NearPointsCleanerOptions class
@@ -19,13 +19,13 @@ public class NearPointsCleanerOptions
 | Имя | Описание |
 | --- | --- |
 | [NearPointsCleanerOptions](nearpointscleaneroptions#constructor)() | Создать экземпляр с полями инициализации по умолчанию. |
-| [NearPointsCleanerOptions](nearpointscleaneroptions#constructor_1)(NearPointsCleanerOptions) | Создать копию экземпляра[`NearPointsCleanerOptions`](../nearpointscleaneroptions). |
+| [NearPointsCleanerOptions](nearpointscleaneroptions#constructor_1)(NearPointsCleanerOptions) | Создать копию экземпляра[`NearPointsCleanerOptions`](../nearpointscleaneroptions) . |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Distance](../../aspose.gis.geotools/nearpointscleaneroptions/distance) { get; set; } | Параметром для проверки является точка рядом с другой точкой. Значение по умолчанию:0. |
+| [Distance](../../aspose.gis.geotools/nearpointscleaneroptions/distance) { get; set; } | Параметр для проверки - точка рядом с другой точкой. Значение по умолчанию: 0. . |
 
 ## Методы
 

@@ -16,8 +16,8 @@ public abstract VectorLayer OpenLayer(string name, DriverOptions options = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя открываемого слоя. |
-| options | DriverOptions | Открыть опции. |
+| name | String | Имя слоя, который нужно открыть. |
+| options | DriverOptions | Открытые варианты. |
 
 ### Возвращаемое значение
 
@@ -27,11 +27,11 @@ public abstract VectorLayer OpenLayer(string name, DriverOptions options = null)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Слой с указанным именем не существует;&lt;cr /&gt; Объект параметров имеет неправильный тип для этого набора данных. |
-| ArgumentException | Объект Options имеет неверный тип для этого набора данных. |
+| ArgumentException | Слой с указанным именем не существует; Объект параметров имеет неверный тип для этого набора данных. |
+| ArgumentException | Объект параметров имеет неверный тип для этого набора данных. |
 | ArgumentNullException | Имя`null`. |
 | [GisException](../../gisexception) | Ошибка чтения объекта из слоя. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 

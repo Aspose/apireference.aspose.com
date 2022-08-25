@@ -1,14 +1,14 @@
 ---
 title: KmlPolygonStyle
 second_title: Aspose.GIS for .NET API 参考
-description: 指定多边形的绘制样式 包括多边形和 kmlPolygon 或 LineString 的拉伸部分
+description: 指定多边形的绘图样式 包括多边形和 kmlPolygon 或 LineString 的拉伸部分
 type: docs
 weight: 490
 url: /zh/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/
 ---
 ## KmlPolygonStyle class
 
-指定多边形的绘制样式， 包括多边形和 kml:Polygon 或 LineString 的拉伸部分。
+指定多边形的绘图样式， 包括多边形和 kml:Polygon 或 LineString 的拉伸部分。
 
 ```csharp
 public class KmlPolygonStyle : KmlAbstractColorStyle
@@ -24,10 +24,10 @@ public class KmlPolygonStyle : KmlAbstractColorStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | 指定图形元素的颜色。默认值White。 |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | 指定图形元素的颜色模式。默认值:正常。 |
-| [Fill](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/fill) { get; set; } | 指定是否填充多边形。默认值为`true`。 |
-| [Outline](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/outline) { get; set; } | 指定是否勾勒多边形。默认值为`true`。 |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | 指定图形元素的颜色。默认值White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | 指定图形元素的颜色模式。默认值：正常。 |
+| [Fill](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/fill) { get; set; } | 指定是否填充多边形。默认值为`true`. |
+| [Outline](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/outline) { get; set; } | 指定是否勾勒多边形。默认值为`true`. |
 
 ### 也可以看看
 

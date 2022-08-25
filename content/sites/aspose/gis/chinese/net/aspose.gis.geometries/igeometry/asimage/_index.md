@@ -19,18 +19,18 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | --- | --- | --- |
 | outputPath | AbstractPath | 输出图像的路径。 |
 | width | Measurement | 地图的宽度。 |
-| height | Measurement | 地图高度。 |
-| renderer | Renderer | 使用的渲染器。 |
-| symbolizer | VectorSymbolizer | 用于渲染的符号器。如果`null`，则使用默认符号。 |
+| height | Measurement | 地图的高度。 |
+| renderer | Renderer | 要使用的渲染器。 |
+| symbolizer | VectorSymbolizer | 用于渲染的符号器。如果`null`使用默认符号。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任何参数`null`。 |
+| ArgumentNullException | 任何论点`null`. |
 | IOException | 发生 I/O 错误。 |
 | [GisException](../../../aspose.gis/gisexception) | 处理或读取 GIS 数据时出错。 |
-| ArgumentException | 宽度或高度单位为!:SpatialReferencing.Unit.MapUnits。 |
+| ArgumentException | 宽度或高度的单位是!:SpatialReferencing.Unit.MapUnits. |
 | ArgumentOutOfRangeException | 宽度或高度为负数或零。 |
 
 ### 也可以看看
@@ -58,18 +58,18 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | --- | --- | --- |
 | outputPath | String | 输出图像的路径。 |
 | width | Measurement | 地图的宽度。 |
-| height | Measurement | 地图高度。 |
-| renderer | Renderer | 使用的渲染器。 |
-| symbolizer | VectorSymbolizer | 用于渲染的符号器。如果`null`，则使用默认符号。 |
+| height | Measurement | 地图的高度。 |
+| renderer | Renderer | 要使用的渲染器。 |
+| symbolizer | VectorSymbolizer | 用于渲染的符号器。如果`null`使用默认符号。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任何参数`null`。 |
+| ArgumentNullException | 任何论点`null`. |
 | IOException | 发生 I/O 错误。 |
 | [GisException](../../../aspose.gis/gisexception) | 处理或读取 GIS 数据时出错。 |
-| ArgumentException | 宽度或高度单位为!:SpatialReferencing.Unit.MapUnits。 |
+| ArgumentException | 宽度或高度的单位是!:SpatialReferencing.Unit.MapUnits. |
 | ArgumentOutOfRangeException | 宽度或高度为负数或零。 |
 
 ### 也可以看看
@@ -95,9 +95,9 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | width | Measurement | 地图的宽度。 |
-| height | Measurement | 地图高度。 |
-| renderer | Renderer | 使用的渲染器。 |
-| symbolizer | VectorSymbolizer | 用于渲染的符号器。如果`null`，则使用默认符号。 |
+| height | Measurement | 地图的高度。 |
+| renderer | Renderer | 要使用的渲染器。 |
+| symbolizer | VectorSymbolizer | 用于渲染的符号器。如果`null`使用默认符号。 |
 
 ### 返回值
 
@@ -107,10 +107,10 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任何参数`null`。 |
+| ArgumentNullException | 任何论点`null`. |
 | IOException | 发生 I/O 错误。 |
 | [GisException](../../../aspose.gis/gisexception) | 处理或读取 GIS 数据时出错。 |
-| ArgumentException | 宽度或高度单位为!:SpatialReferencing.Unit.MapUnits。 |
+| ArgumentException | 宽度或高度的单位是!:SpatialReferencing.Unit.MapUnits. |
 | ArgumentOutOfRangeException | 宽度或高度为负数或零。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: Distance
 second_title: Aspose.GIS for .NET API 参考
-description: 检查参数是线段附近的点默认值为 0
+description: 检查参数是线段附近的点默认值为 0.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geotools/simplifysegmentsoptions/distance/
 ---
 ## SimplifySegmentsOptions.Distance property
 
-检查参数是线段附近的点。默认值为 0。
+检查参数是线段附近的点。默认值为 0.
 
 ```csharp
 public double Distance { get; set; }

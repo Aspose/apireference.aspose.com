@@ -17,7 +17,7 @@ public int GetValues(object[] values, object defaultValue = null)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | values | Object[] | 要将属性值复制到其中的数组。 |
-| defaultValue | Object | 属性值缺失（未设置）时返回的值。默认值为`null`。 考虑使用 'DBNull.Value' 来分隔 'unset' 和 '`null`' 值。 |
+| defaultValue | Object | 属性值缺失（未设置）时返回的值。默认值为`null`. 考虑使用 'DBNull.Value' 用于分隔 'unset' 和 '`null`值. |
 
 ### 返回值
 
@@ -27,12 +27,12 @@ public int GetValues(object[] values, object defaultValue = null)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| InvalidOperationException | 属性未锁定。 |
+| ArgumentNullException | 论据是`null`. |
+| InvalidOperationException | 该属性未锁定。 |
 
 ### 评论
 
-特征的值属性被复制到作为参数传递的值数组中。 对于未设置值的属性，返回指定的 'unsetValue' 参数。 &lt;br /&gt; values 数组的长度不需要与特征中的属性个数相匹配。 如果数组长度大于属性个数，则将所有属性值复制到数组中； 如果小于，则仅将数组长度个数的属性值复制到数组中， 从序数为 0 的属性值开始。
+将要素的值属性复制到作为参数传递的值数组中。 对于未设置值的属性，返回指定的“未设置值”参数。  values数组的长度不需要与特征中的属性个数匹配。 如果数组长度大于属性个数，则将所有属性值复制到数组中； 如果小于，仅将属性值的数组长度数复制到数组中， 从序号为 0. 的属性值开始
 
 ### 也可以看看
 

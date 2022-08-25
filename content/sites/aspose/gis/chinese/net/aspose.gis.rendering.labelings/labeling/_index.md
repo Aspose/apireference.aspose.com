@@ -3,7 +3,7 @@ title: Labeling
 second_title: Aspose.GIS for .NET API 参考
 description: 标签的抽象根类描述如何在特征上放置标签的类
 type: docs
-weight: 1510
+weight: 1520
 url: /zh/net/aspose.gis.rendering.labelings/labeling/
 ---
 ## Labeling class
@@ -18,7 +18,7 @@ public abstract class Labeling
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.labelings/labeling/null) { get; } | 获取[`NullLabeling`](../nulllabeling)的实例。 |
+| static [Null](../../aspose.gis.rendering.labelings/labeling/null) { get; } | 获取一个实例[`NullLabeling`](../nulllabeling). |
 
 ### 也可以看看
 

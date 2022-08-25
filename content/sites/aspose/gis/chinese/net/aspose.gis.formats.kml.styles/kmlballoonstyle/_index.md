@@ -1,14 +1,14 @@
 ---
 title: KmlBalloonStyle
 second_title: Aspose.GIS for .NET API 参考
-description: 指定描述气球的绘制方式
+description: 指定如何绘制描述气球
 type: docs
 weight: 360
 url: /zh/net/aspose.gis.formats.kml.styles/kmlballoonstyle/
 ---
 ## KmlBalloonStyle class
 
-指定描述气球的绘制方式。
+指定如何绘制描述气球。
 
 ```csharp
 public class KmlBalloonStyle
@@ -24,10 +24,10 @@ public class KmlBalloonStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/backgroundcolor) { get; set; } | 指定图形元素的背景颜色。默认值为White。 |
+| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/backgroundcolor) { get; set; } | 指定图形元素的背景颜色。默认值为White. |
 | [DisplayMode](../../aspose.gis.formats.kml.styles/kmlballoonstyle/displaymode) { get; set; } | 控制气球是显示还是隐藏。默认值为Show |
-| [Text](../../aspose.gis.formats.kml.styles/kmlballoonstyle/text) { get; set; } | 指定气球中显示的文本。默认值为`null`。 |
-| [TextColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor) { get; set; } | 指定文本的前景色。默认值为Black。 |
+| [Text](../../aspose.gis.formats.kml.styles/kmlballoonstyle/text) { get; set; } | 指定气球中显示的文本。默认值为`null`. |
+| [TextColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor) { get; set; } | 指定文本的前景色。默认值为Black. |
 
 ### 也可以看看
 

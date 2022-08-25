@@ -17,18 +17,18 @@ public IGeometry GetBuffer(double distance, int quadrantSegments = 30)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | distance | Double | 缓冲区宽度。 |
-| quadrantSegments | Int32 | 用于近似 90 度曲率的段数。 这个数字越大，产生的曲线越接近。 默认值为 30。 |
+| quadrantSegments | Int32 | 用于近似 90 度曲率的线段数。 此数字越大，生成的曲线越接近。 默认值为 30。 |
 
 ### 返回值
 
-表示其中所有点的几何图形到 这个几何的指定距离。 结果的类型是[`Null`](../null),[`IPolygon`](../../ipolygon)或[`IMultiPolygon`](../../imultipolygon)。
+一个几何图形，表示距 此几何图形指定距离内的所有点。 结果的类型是[`Null`](../null),[`IPolygon`](../../ipolygon)或者[`IMultiPolygon`](../../imultipolygon).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 此几何无效，操作无法完成. |
-| ArgumentOutOfRangeException | 象限段小于或等于 0。 |
+| InvalidOperationException | 此几何图形无效，无法完成操作。 |
+| ArgumentOutOfRangeException | 象限段小于或等于 0. |
 
 ### 也可以看看
 

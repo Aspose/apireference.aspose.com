@@ -1,14 +1,14 @@
 ---
 title: UseSpatialIndex
 second_title: Aspose.GIS for .NET API 参考
-description: 加载空间索引以加速过滤方法中的属性值过滤例如WhereIntersectsaspose.gis/featuressequence/whereintersects 和NearestToaspose.gis/vectorlayer/nearestto 如果索引不存在首先创建它使用forceRebuild强制重新创建索引
+description: 加载空间索引以加快过滤方法中的属性值过滤例如WhereIntersectsaspose.gis/featuressequence/whereintersects 和NearestToaspose.gis/vectorlayer/nearestto. 如果索引不存在首先创建它利用forceRebuild强制索引重新创建.
 type: docs
 weight: 170
 url: /zh/net/aspose.gis/vectorlayer/usespatialindex/
 ---
 ## UseSpatialIndex(string, bool) {#usespatialindex_1}
 
-加载空间索引以加速过滤方法中的属性值过滤，例如[`WhereIntersects`](../../featuressequence/whereintersects) 和[`NearestTo`](../nearestto)。 如果索引不存在，首先创建它。使用*forceRebuild*强制重新创建索引。
+加载空间索引以加快过滤方法中的属性值过滤，例如[`WhereIntersects`](../../featuressequence/whereintersects) 和[`NearestTo`](../nearestto). 如果索引不存在，首先创建它。利用*forceRebuild*强制索引重新创建.
 
 ```csharp
 public void UseSpatialIndex(string indexPath, bool forceRebuild = false)
@@ -23,7 +23,7 @@ public void UseSpatialIndex(string indexPath, bool forceRebuild = false)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentNullException | 路径是`null`. |
 | IOException | 发生 I/O 错误。 |
 | InvalidOperationException | 已为此图层加载空间索引。 |
 | [GisException](../../gisexception) | 文件存在且不是 Aspose.GIS 创建的空间索引文件。 |
@@ -38,7 +38,7 @@ public void UseSpatialIndex(string indexPath, bool forceRebuild = false)
 
 ## UseSpatialIndex(AbstractPath, bool) {#usespatialindex}
 
-加载空间索引以加速过滤方法中的属性值过滤，例如[`WhereIntersects`](../../featuressequence/whereintersects) 和[`NearestTo`](../nearestto)。 如果索引不存在，首先创建它。使用*forceRebuild*强制重新创建索引。
+加载空间索引以加快过滤方法中的属性值过滤，例如[`WhereIntersects`](../../featuressequence/whereintersects) 和[`NearestTo`](../nearestto). 如果索引不存在，首先创建它。利用*forceRebuild*强制索引重新创建.
 
 ```csharp
 public virtual void UseSpatialIndex(AbstractPath indexPath, bool forceRebuild = false)
@@ -53,7 +53,7 @@ public virtual void UseSpatialIndex(AbstractPath indexPath, bool forceRebuild = 
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
+| ArgumentNullException | 路径是`null`. |
 | IOException | 发生 I/O 错误。 |
 | InvalidOperationException | 已为此图层加载空间索引。 |
 | [GisException](../../gisexception) | 文件存在且不是 Aspose.GIS 创建的空间索引文件。 |

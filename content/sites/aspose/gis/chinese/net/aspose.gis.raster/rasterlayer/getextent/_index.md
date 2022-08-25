@@ -1,14 +1,14 @@
 ---
 title: GetExtent
 second_title: Aspose.GIS for .NET API 参考
-description: 计算该层的空间范围
+description: 计算该图层的空间范围
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.raster/rasterlayer/getextent/
 ---
 ## RasterLayer.GetExtent method
 
-计算该层的空间范围。
+计算该图层的空间范围。
 
 ```csharp
 public virtual Extent GetExtent()

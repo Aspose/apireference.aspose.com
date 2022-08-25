@@ -16,7 +16,7 @@ public IGeometry GetConvexHull()
 
 ### 返回值
 
-表示该几何图形的凸包的几何图形。 如果这个几何没有点，那么结果是[`Null`](../null)。 如果这个几何图形只有一个点，那么结果就是这个点。 如果这个几何图形只有两个点，那么结果是[`ILineString`](../../ilinestring)与点。 如果此几何图形具有三个或更多点，则结果为[`ILinearRing`](../../ilinearring)表示围绕所有点的凸 外壳几何点。
+表示此几何图形的凸包的几何图形。 如果此几何图形没有点，则结果为[`Null`](../null). 如果这个几何只有一个点，那么结果就是这个点。 如果这个几何只有两个点，那么结果是[`ILineString`](../../ilinestring)与 points. 如果此几何图形具有三个或更多点，则结果是[`ILinearRing`](../../ilinearring)表示围绕所有几何点的凸 外壳。
 
 ### 也可以看看
 

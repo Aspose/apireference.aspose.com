@@ -1,31 +1,31 @@
 ---
 title: Aspose.Gis.Raster
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Aspose.Gis.RasterПространство имен предоставляет классы для работы с растровыми форматами.
+description: Aspose.Gis.Raster namespace предоставляет классы для работы с растровыми форматами.
 type: docs
 weight: 210
 url: /ru/net/aspose.gis.raster/
 ---
-` Aspose.Gis.Raster`Пространство имен предоставляет классы для работы с растровыми форматами.
+`Aspose.Gis.Raster` namespace предоставляет классы для работы с растровыми форматами.
 
 ## Классы
 
 | Учебный класс | Описание |
 | --- | --- |
-| [RasterBand](./rasterband) | Содержит данные о канале растра. |
+| [RasterBand](./rasterband) | Содержит данные о растре Band. |
 | [RasterCellSize](./rastercellsize) | Описывает размер, масштаб и поворот растровой ячейки на карте. |
 | [RasterLayer](./rasterlayer) | Представляет растровый слой. |
-| [RasterReadExpression](./rasterreadexpression) | Представляет делегат, который читает выражение. |
+| [RasterReadExpression](./rasterreadexpression) | Представляет делегат, который считывает выражение. |
 | [RasterRect](./rasterrect) | Блок растровых ячеек. |
 | [RasterStatistics](./rasterstatistics) | Статистика для любого растрового слоя. |
-| [WarpOptions](./warpoptions) | Варианты деформации растра. |
+| [WarpOptions](./warpoptions) | Параметры деформации растра. |
 ## Интерфейсы
 
 | Интерфейс | Описание |
 | --- | --- |
-| [IRasterBand](./irasterband) | Содержит метаданные о канале растра. |
+| [IRasterBand](./irasterband) | Содержит метаданные о растровой полосе. |
 | [IRasterCellSize](./irastercellsize) | Описывает размер, масштаб и поворот растровой ячейки на карте. |
-| [IRasterValues](./irastervalues) | Предоставляет доступ к значениям каналов растра. |
+| [IRasterValues](./irastervalues) | Предоставляет доступ к значениям растровых каналов. |
 ## перечисление
 
 | перечисление | Описание |

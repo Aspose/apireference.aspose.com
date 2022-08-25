@@ -17,7 +17,7 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -28,9 +28,9 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -53,7 +53,7 @@ public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -64,14 +64,14 @@ public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = 
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../gisexception) | Ошибка чтения объекта из файла. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
 | NotSupportedException | Драйвер не может редактировать слои. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Примечания
 
-Драйвер создает внутренний слой со всеми функциями. Но у нас есть возможность использовать дисковое пространство вместо оперативной памяти. Есть драйвера для более оптимального использования ресурсов (см. документацию по конкретному драйверу). Также драйвер может редактировать слой Если он может создавать и открывать слои.
+Драйвер создает внутренний слой со всеми функциями. Но у нас есть возможность использовать дисковое пространство вместо оперативной памяти. Существуют драйверы для более оптимального использования ресурсов (см. документацию конкретного драйвера). Также драйвер может редактировать слой, если он может создавать и открывать слои.
 
 ### Смотрите также
 

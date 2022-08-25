@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает количество точек вCircularStringaspose.gis.geometries/circularstring.
+description: Получает количество точек вCircularStringaspose.gis.geometries/circularstring .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.geometries/circularstring/count/
 ---
 ## CircularString.Count property
 
-Получает количество точек в[`CircularString`](../../circularstring).
+Получает количество точек в[`CircularString`](../../circularstring) .
 
 ```csharp
 public int Count { get; }

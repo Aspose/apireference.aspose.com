@@ -3,7 +3,7 @@ title: LineLabelAlignment
 second_title: Справочник по Aspose.GIS for .NET API
 description: Указывает как метка выравнивается по линии.
 type: docs
-weight: 1530
+weight: 1540
 url: /ru/net/aspose.gis.rendering.labelings/linelabelalignment/
 ---
 ## LineLabelAlignment enumeration
@@ -18,7 +18,7 @@ public enum LineLabelAlignment
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Horizontal | `0` | Нет выравнивания. Этикетка горизонтальная. |
+| Horizontal | `0` | Нет выравнивания. Метка горизонтальная. |
 | Parallel | `1` | Метка параллельна линии. |
 | Curved | `2` | Метка повторяет форму линии. |
 

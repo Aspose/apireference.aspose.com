@@ -1,14 +1,14 @@
 ---
 title: RasterReadExpression
 second_title: Справочник по Aspose.GIS for .NET API
-description: Представляет делегат который читает выражение.
+description: Представляет делегат который считывает выражение.
 type: docs
-weight: 1290
+weight: 1300
 url: /ru/net/aspose.gis.raster/rasterreadexpression/
 ---
 ## RasterReadExpression delegate
 
-Представляет делегат, который читает выражение.
+Представляет делегат, который считывает выражение.
 
 ```csharp
 public delegate void RasterReadExpression(RasterExpressionContext context, 
@@ -18,7 +18,7 @@ public delegate void RasterReadExpression(RasterExpressionContext context,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | context | RasterExpressionContext | Контекст значения. |
-| rasterValues | IRasterValues | Считанные значения. |
+| rasterValues | IRasterValues | Прочитанные значения. |
 
 ### Смотрите также
 

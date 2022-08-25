@@ -1,14 +1,14 @@
 ---
 title: VerticalUnit
 second_title: Aspose.GIS for .NET API 参考
-description: 此 SRS 中使用的单位
+description: 在此 SRS 中使用的单位
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/verticalunit/
 ---
 ## VerticalSpatialReferenceSystem.VerticalUnit property
 
-此 SRS 中使用的单位。
+在此 SRS 中使用的单位。
 
 ```csharp
 public Unit VerticalUnit { get; }

@@ -1,14 +1,14 @@
 ---
 title: GeometryOperations
 second_title: Справочник по Aspose.GIS for .NET API
-description: Класс операций с геометрией предоставляет дополнительные алгоритмы геообработки для геометрии.
+description: Класс операций с геометрией предоставляет дополнительные алгоритмы геообработки для геометрий.
 type: docs
-weight: 710
+weight: 720
 url: /ru/net/aspose.gis.geotools/geometryoperations/
 ---
 ## GeometryOperations class
 
-Класс операций с геометрией предоставляет дополнительные алгоритмы геообработки для геометрии.
+Класс операций с геометрией предоставляет дополнительные алгоритмы геообработки для геометрий.
 
 ```csharp
 public static class GeometryOperations
@@ -26,7 +26,7 @@ public static class GeometryOperations
 
 ### Примечания
 
-Другие алгоритмы вы можете найти в методахГеометрия
+Другие алгоритмы вы можете найти в методах[`Geometry`](../../aspose.gis.geometries/geometry)
 
 ### Смотрите также
 

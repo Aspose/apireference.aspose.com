@@ -1,14 +1,14 @@
 ---
 title: IsNull
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определить является ли этот экземплярNullaspose.gis.spatialreferencing/bursawolfparameters/null.
+description: Определить является ли этот экземплярNullaspose.gis.spatialreferencing/bursawolfparameters/null .
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.spatialreferencing/bursawolfparameters/isnull/
 ---
 ## BursaWolfParameters.IsNull property
 
-Определить, является ли этот экземпляр[`Null`](../null).
+Определить, является ли этот экземпляр[`Null`](../null) .
 
 ```csharp
 public bool IsNull { get; }

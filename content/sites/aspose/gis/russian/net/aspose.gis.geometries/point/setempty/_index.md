@@ -1,14 +1,14 @@
 ---
 title: SetEmpty
 second_title: Справочник по Aspose.GIS for .NET API
-description: Делает этоGeometryaspose.gis.geometries/geometryпустым.
+description: Делает этоGeometryaspose.gis.geometries/geometry пустой.
 type: docs
 weight: 140
 url: /ru/net/aspose.gis.geometries/point/setempty/
 ---
 ## Point.SetEmpty method
 
-Делает это[`Geometry`](../../geometry)пустым.
+Делает это[`Geometry`](../../geometry) пустой.
 
 ```csharp
 public override void SetEmpty()

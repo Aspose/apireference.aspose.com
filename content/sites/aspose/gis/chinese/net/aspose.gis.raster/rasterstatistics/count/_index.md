@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.GIS for .NET API 参考
-description: 为汇总统计计数的单元格或像素数
+description: 为汇总统计计算的单元格或像素数
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.raster/rasterstatistics/count/
 ---
 ## RasterStatistics.Count property
 
-为汇总统计计数的单元格或像素数。
+为汇总统计计算的单元格或像素数。
 
 ```csharp
 public double? Count { get; }

@@ -1,14 +1,14 @@
 ---
 title: IMultiSurface
 second_title: Aspose.GIS for .NET API 参考
-description: AIMultiPolygon./imultipolygon是一维IGeometryCollection./igeometrycollection其元素为ISurface./isurfaces
+description: 一个IMultiPolygon./imultipolygon是一维的IGeometryCollection./igeometrycollection其元素是ISurface./isurfaces.
 type: docs
-weight: 970
+weight: 980
 url: /zh/net/aspose.gis.geometries/imultisurface/
 ---
 ## IMultiSurface interface
 
-A[`IMultiPolygon`](../imultipolygon)是一维[`IGeometryCollection`](../igeometrycollection)其元素为[`ISurface`](../isurface)s。
+一个[`IMultiPolygon`](../imultipolygon)是一维的[`IGeometryCollection`](../igeometrycollection)其元素是[`ISurface`](../isurface)s.
 
 ```csharp
 public interface IMultiSurface : IGeometryCollection
@@ -19,8 +19,8 @@ public interface IMultiSurface : IGeometryCollection
 | 姓名 | 描述 |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/imultisurface/toeditable)() | 获取此几何图形的可编辑副本。 |
-| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry#tolineargeometry)() | 使用默认` 公差` 获取此几何图形的近似或等效非曲线版本。 |
-| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry#tolineargeometry_1)(double) | 使用指定的` 容差` 获取此几何图形的近似或等效非曲线版本。 |
+| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry#tolineargeometry)() | 使用默认值获取此几何图形的近似或等效非曲线版本`宽容`. |
+| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry#tolineargeometry_1)(double) | 使用指定的获取此几何图形的近似或等效非曲线版本`宽容`. |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: RuleBasedSymbolizer
 second_title: Aspose.GIS for .NET API 参考
-description: 根据用户定义的规则将符号器应用于特征几何
+description: 根据用户定义的规则将符号器应用于几何特征
 type: docs
-weight: 1820
+weight: 1830
 url: /zh/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
 ---
 ## RuleBasedSymbolizer class
 
-根据用户定义的规则将符号器应用于特征几何。
+根据用户定义的规则将符号器应用于几何特征。
 
 ```csharp
 public class RuleBasedSymbolizer : VectorSymbolizer, IReadOnlyList<Rule>
@@ -32,7 +32,7 @@ public class RuleBasedSymbolizer : VectorSymbolizer, IReadOnlyList<Rule>
 | 姓名 | 描述 |
 | --- | --- |
 | [Add](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add#add)(Rule) | 添加规则。 |
-| [Add](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add#add_1)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | 添加新的[`Rule`](../rule)。 |
+| [Add](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add#add_1)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | 添加新的[`Rule`](../rule). |
 | [AddElseRule](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/addelserule)(VectorSymbolizer) | 添加一个符号器，该符号器将应用于与任何过滤规则不匹配的要素。 |
 | [GetEnumerator](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/getenumerator)() | 返回一个遍历规则的枚举器。 |
 

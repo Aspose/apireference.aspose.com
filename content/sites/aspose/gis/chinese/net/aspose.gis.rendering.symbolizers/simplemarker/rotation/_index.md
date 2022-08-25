@@ -1,14 +1,14 @@
 ---
 title: Rotation
 second_title: Aspose.GIS for .NET API 参考
-description: 指定符号围绕其中心点的旋转以十进制度数为单位 正值表示顺时针方向旋转负值表示逆时针方向旋转
+description: 指定符号围绕其中心点的旋转以十进制度为单位 正值表示顺时针方向旋转负值表示逆时针方向旋转
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/rotation/
 ---
 ## SimpleMarker.Rotation property
 
-指定符号围绕其中心点的旋转，以十进制度数为单位。 正值表示顺时针方向旋转，负值表示逆时针方向旋转。
+指定符号围绕其中心点的旋转，以十进制度为单位。 正值表示顺时针方向旋转，负值表示逆时针方向旋转。
 
 ```csharp
 public double Rotation { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TopoJsonTransform
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создать новый экземплярTopoJsonTransformaspose.gis.formats.topojson/topojsontransform.
+description: Создать новый экземплярTopoJsonTransformaspose.gis.formats.topojson/topojsontransform .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.formats.topojson/topojsontransform/topojsontransform/
 ---
 ## TopoJsonTransform constructor
 
-Создать новый экземпляр[`TopoJsonTransform`](../../topojsontransform).
+Создать новый экземпляр[`TopoJsonTransform`](../../topojsontransform) .
 
 ```csharp
 public TopoJsonTransform(double xTranslate, double yTranslate, double xScale, double yScale)
@@ -16,16 +16,16 @@ public TopoJsonTransform(double xTranslate, double yTranslate, double xScale, do
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xTranslate | Double | Переместите, чтобы применить к координате X. |
-| yTranslate | Double | Перевести для применения к координате Y. |
-| xScale | Double | Масштаб, применяемый к координате X. |
+| xTranslate | Double | Переведите, чтобы применить к координате X. |
+| yTranslate | Double | Переведите, чтобы применить к координате Y. |
+| xScale | Double | Масштаб для применения к координате X. |
 | yScale | Double | Масштаб для применения к координате Y. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Один из масштабов равен 0. |
+| ArgumentException | Одна из шкал равна 0. |
 
 ### Смотрите также
 

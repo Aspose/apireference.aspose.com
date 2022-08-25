@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.GIS for .NET API 参考
-description: 获取此 SRS 的类型请参见SpatialReferenceSystemType
+description: 获取此 SRS 的类型请参阅SpatialReferenceSystemTypeaspose.gis.spatialreferencing/spatialreferencesystemtype.
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/type/
 ---
 ## SpatialReferenceSystem.Type property
 
-获取此 SRS 的类型，请参见SpatialReferenceSystemType。
+获取此 SRS 的类型，请参阅[`SpatialReferenceSystemType`](../../spatialreferencesystemtype).
 
 ```csharp
 public abstract SpatialReferenceSystemType Type { get; }

@@ -1,14 +1,14 @@
 ---
 title: MapInfoTabDriver
 second_title: Aspose.GIS for .NET API 参考
-description: MapInfo Tab 格式的驱动程序
+description: MapInfo 选项卡格式的驱动程序
 type: docs
 weight: 530
 url: /zh/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/
 ---
 ## MapInfoTabDriver class
 
-MapInfo Tab 格式的驱动程序。
+MapInfo 选项卡格式的驱动程序。
 
 ```csharp
 public sealed class MapInfoTabDriver : FileDriver
@@ -27,23 +27,23 @@ public sealed class MapInfoTabDriver : FileDriver
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath) | 创建数据集。 |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string) | 创建数据集。 |
-| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath, DriverOptions) | 创建数据集。 |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string, DriverOptions) | 创建数据集。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, DriverOptions) | 创建图层并将其打开以进行附加。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string) | 创建一个数据集。 |
+| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath, DriverOptions) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string, DriverOptions) | 创建一个数据集。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, DriverOptions) | 创建图层并打开它以进行附加。 |
 | [CreateLayer](../../aspose.gis.formats.mapinfotab/mapinfotabdriver/createlayer#createlayer_3)(AbstractPath, MapInfoTabOptions) | 创建一个图层并打开它以添加新功能。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions) | 创建图层并将其打开以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions) | 创建图层并打开它以进行附加。 |
 | [CreateLayer](../../aspose.gis.formats.mapinfotab/mapinfotabdriver/createlayer#createlayer_9)(string, MapInfoTabOptions) | 创建一个图层并打开它以添加新功能。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
 | override [CreateLayer](../../aspose.gis.formats.mapinfotab/mapinfotabdriver/createlayer#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | 创建一个图层并打开它以添加新功能。 |
 | [CreateLayer](../../aspose.gis.formats.mapinfotab/mapinfotabdriver/createlayer#createlayer_4)(AbstractPath, MapInfoTabOptions, SpatialReferenceSystem) | 创建一个图层并打开它以添加新功能。 |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并将其打开以进行附加。 |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer)(AbstractPath, DriverOptions) | 打开图层进行编辑。 |
-| [EditLayer](../../aspose.gis/filedriver/editlayer)(string, DriverOptions) | 打开图层进行编辑。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并打开它以进行附加。 |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer)(AbstractPath, DriverOptions) | 打开一个图层进行编辑。 |
+| [EditLayer](../../aspose.gis/filedriver/editlayer)(string, DriverOptions) | 打开一个图层进行编辑。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset)(AbstractPath) | 打开数据集。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset)(string) | 打开数据集。 |
 | virtual [OpenDataset](../../aspose.gis/filedriver/opendataset)(AbstractPath, DriverOptions) | 打开数据集。 |

@@ -1,14 +1,14 @@
 ---
 title: FeatureAttributeCollection
 second_title: Справочник по Aspose.GIS for .NET API
-description: AFeatureAttributeCollection./featureattributecollectionопределяет какие атрибуты доступны дляFeature./feature.
+description: АFeatureAttributeCollection./featureattributecollection определяет какие атрибуты доступны дляFeature./feature .
 type: docs
 weight: 140
 url: /ru/net/aspose.gis/featureattributecollection/
 ---
 ## FeatureAttributeCollection class
 
-A[`FeatureAttributeCollection`](../featureattributecollection)определяет, какие атрибуты доступны для[`Feature`](../feature).
+А[`FeatureAttributeCollection`](../featureattributecollection) определяет, какие атрибуты доступны для[`Feature`](../feature) .
 
 ```csharp
 public sealed class FeatureAttributeCollection : IEnumerable<FeatureAttribute>
@@ -18,10 +18,10 @@ public sealed class FeatureAttributeCollection : IEnumerable<FeatureAttribute>
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.gis/featureattributecollection/count) { get; } | Получает количество атрибутов в[`Feature`](../feature). |
+| [Count](../../aspose.gis/featureattributecollection/count) { get; } | Получает количество атрибутов в[`Feature`](../feature) . |
 | [IsLocked](../../aspose.gis/featureattributecollection/islocked) { get; } | Получает значение, указывающее, заблокирована ли эта коллекция атрибутов. |
-| [Item](../../aspose.gis/featureattributecollection/item) { get; set; } | Получает или задает[`FeatureAttribute`](../featureattribute)по указанному индексу. |
-| [Item](../../aspose.gis/featureattributecollection/item) { get; } | Получает или задает[`FeatureAttribute`](../featureattribute)с указанным именем. |
+| [Item](../../aspose.gis/featureattributecollection/item) { get; set; } | Получает или задает[`FeatureAttribute`](../featureattribute) по указанному индексу. |
+| [Item](../../aspose.gis/featureattributecollection/item) { get; } | Получает или задает[`FeatureAttribute`](../featureattribute) с указанным именем. |
 
 ## Методы
 
@@ -29,7 +29,7 @@ public sealed class FeatureAttributeCollection : IEnumerable<FeatureAttribute>
 | --- | --- |
 | [Add](../../aspose.gis/featureattributecollection/add)(FeatureAttribute) | Добавляет атрибут в коллекцию. |
 | [Contains](../../aspose.gis/featureattributecollection/contains)(string) | Определяет, содержит ли коллекция атрибутов атрибут с указанным именем. |
-| [GetEnumerator](../../aspose.gis/featureattributecollection/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| [GetEnumerator](../../aspose.gis/featureattributecollection/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 | [IndexOf](../../aspose.gis/featureattributecollection/indexof)(string) | Ищет атрибут и возвращает его индекс, начинающийся с нуля. |
 | [Lock](../../aspose.gis/featureattributecollection/lock)() | Блокирует эту коллекцию атрибутов, чтобы предотвратить дальнейшие изменения. |
 | [Remove](../../aspose.gis/featureattributecollection/remove#remove)(int) | Удаляет атрибут из коллекции. |

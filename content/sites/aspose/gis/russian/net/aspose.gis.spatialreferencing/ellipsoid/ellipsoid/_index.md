@@ -17,9 +17,9 @@ public Ellipsoid(string name, double semiMajorAxis, double inverseFlattening,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя эллипсоида. |
+| name | String | Название эллипсоида. |
 | semiMajorAxis | Double | Большая полуось эллипсоида. |
-| inverseFlattening | Double | Обратное сплющивание эллипсоида. Должно быть 0 для создания сфероида. |
+| inverseFlattening | Double | Обратное уплощение эллипсоида. Должно быть 0 для создания сфероида. |
 | identifier | Identifier | Идентификатор эллипсоида. |
 
 ### Смотрите также

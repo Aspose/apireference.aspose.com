@@ -1,14 +1,14 @@
 ---
 title: WhereSmallerOrEqual
 second_title: Aspose.GIS for .NET API 参考
-description: 选择属性值小于或等于提供值的特征
+description: 选择属性值小于或等于提供值的要素
 type: docs
 weight: 150
 url: /zh/net/aspose.gis/featuressequence/wheresmallerorequal/
 ---
 ## FeaturesSequence.WhereSmallerOrEqual&lt;T&gt; method
 
-选择属性值小于或等于提供值的特征。
+选择属性值小于或等于提供值的要素。
 
 ```csharp
 public virtual FeaturesSequence WhereSmallerOrEqual<T>(string attributeName, T value)
@@ -18,11 +18,11 @@ public virtual FeaturesSequence WhereSmallerOrEqual<T>(string attributeName, T v
 | --- | --- |
 | T | 要比较的值的类型。 |
 | attributeName | 要过滤的属性。 |
-| value | 要比较的值。 |
+| value | 比较的价值。 |
 
 ### 返回值
 
-属性值小于或等于提供值的特征。
+属性值小于或等于提供值的要素。
 
 ### 例外
 

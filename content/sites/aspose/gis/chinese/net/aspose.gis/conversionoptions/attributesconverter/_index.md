@@ -1,14 +1,14 @@
 ---
 title: AttributesConverter
 second_title: Aspose.GIS for .NET API 参考
-description: 属性的自定义转换器它允许我们重命名或排除目标属性 如果不是null则为源层的每个属性调用它并在必要时对其进行更改
+description: 属性的自定义转换器它允许我们重命名或排除目标属性 如果没有null为源层的每个属性调用它并在必要时对其进行更改
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/conversionoptions/attributesconverter/
 ---
 ## ConversionOptions.AttributesConverter property
 
-属性的自定义转换器。它允许我们重命名或排除目标属性。 如果不是`null`，则为源层的每个属性调用它，并在必要时对其进行更改。
+属性的自定义转换器。它允许我们重命名或排除目标属性。 如果没有`null`，为源层的每个属性调用它，并在必要时对其进行更改。
 
 ```csharp
 public IAttributesConverter AttributesConverter { get; set; }

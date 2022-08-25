@@ -1,14 +1,14 @@
 ---
 title: IsNull
 second_title: Aspose.GIS for .NET API 参考
-description: 判断此实例是否为Nullaspose.gis.spatialreferencing/bursawolfparameters/null
+description: 判断这个实例是否是Nullaspose.gis.spatialreferencing/bursawolfparameters/null.
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/bursawolfparameters/isnull/
 ---
 ## BursaWolfParameters.IsNull property
 
-判断此实例是否为[`Null`](../null)。
+判断这个实例是否是[`Null`](../null).
 
 ```csharp
 public bool IsNull { get; }

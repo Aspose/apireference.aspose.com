@@ -1,14 +1,14 @@
 ---
 title: IsFilterRule
 second_title: Aspose.GIS for .NET API 参考
-description: 获取指示此规则是否为过滤规则的值
+description: 获取一个值指示此规则是否为过滤规则
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.rendering.labelings/labelingrule/isfilterrule/
 ---
 ## LabelingRule.IsFilterRule property
 
-获取指示此规则是否为“过滤规则”的值。
+获取一个值，指示此规则是否为“过滤规则”。
 
 ```csharp
 public bool IsFilterRule { get; }
@@ -16,7 +16,7 @@ public bool IsFilterRule { get; }
 
 ### 评论
 
-"filter-rule" 如果Filter为特征返回`true`。
+"filter-rule" 将标签应用于特征，如果[`Filter`](../filter)返回`true`对于功能.
 
 ### 也可以看看
 

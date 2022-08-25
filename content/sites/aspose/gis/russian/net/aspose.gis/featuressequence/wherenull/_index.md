@@ -1,14 +1,14 @@
 ---
 title: WhereNull
 second_title: Справочник по Aspose.GIS for .NET API
-description: Выбирает объекты с нулевым атрибутом.
+description: Выбирает объекты с атрибутом равным нулю.
 type: docs
 weight: 120
 url: /ru/net/aspose.gis/featuressequence/wherenull/
 ---
 ## FeaturesSequence.WhereNull method
 
-Выбирает объекты с нулевым атрибутом.
+Выбирает объекты с атрибутом, равным нулю.
 
 ```csharp
 public virtual FeaturesSequence WhereNull(string attributeName)

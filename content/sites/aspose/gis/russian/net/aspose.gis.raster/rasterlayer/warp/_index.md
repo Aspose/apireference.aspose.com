@@ -16,7 +16,7 @@ public RasterLayer Warp(WarpOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | WarpOptions | Опции для процедуры перепроецирования. |
+| options | WarpOptions | Варианты процедуры перепроецирования. |
 
 ### Возвращаемое значение
 
@@ -26,7 +26,7 @@ public RasterLayer Warp(WarpOptions options)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент не может быть нулевым. Имя параметра:опции. |
+| ArgumentNullException | Аргумент не может быть нулевым. Имя параметра: опции. |
 | ArgumentException | Неизвестная исходная система пространственной привязки. |
 | InvalidOperationException | Исходный слой не может быть другим WarpRasterLayer. |
 

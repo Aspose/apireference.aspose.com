@@ -1,14 +1,14 @@
 ---
 title: DimensionsCount
 second_title: Справочник по Aspose.GIS for .NET API
-description: Количество измерений. Для составной SRS это сумма количества измерений базовой SRS.
+description: Количество измерений. Для составного SRS это сумма количества измерений базовой SRS.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/dimensionscount/
 ---
 ## CompoundSpatialReferenceSystem.DimensionsCount property
 
-Количество измерений. Для составной SRS это сумма количества измерений базовой SRS.
+Количество измерений. Для составного SRS это сумма количества измерений базовой SRS.
 
 ```csharp
 public override int DimensionsCount { get; }

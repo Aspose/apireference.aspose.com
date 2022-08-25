@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.GIS for .NET API
-description: Вычислить высоту в пикселях.
+description: Вычислите высоту пикселя.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.raster/rastercellsize/height/
 ---
 ## RasterCellSize.Height property
 
-Вычислить высоту в пикселях.
+Вычислите высоту пикселя.
 
 ```csharp
 public double Height { get; }

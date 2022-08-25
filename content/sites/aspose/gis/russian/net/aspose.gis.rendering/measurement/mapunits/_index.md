@@ -1,14 +1,14 @@
 ---
 title: MapUnits
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает новый экземпляр Measurement  который представляет длину в единицах пространственной привязки карты.
+description: Возвращает новый экземплярИзмерение который представляет длину в единицах пространственной привязки карты.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering/measurement/mapunits/
 ---
 ## Measurement.MapUnits method
 
-Возвращает новый экземпляр` Measurement` , который представляет длину в единицах пространственной привязки карты.
+Возвращает новый экземпляр`Измерение` который представляет длину в единицах пространственной привязки карты.
 
 ```csharp
 public static Measurement MapUnits(double value)
@@ -20,7 +20,7 @@ public static Measurement MapUnits(double value)
 
 ### Возвращаемое значение
 
-Новый экземпляр класса` Измерение` .
+Новый экземпляр`Измерение` учебный класс.
 
 ### Смотрите также
 

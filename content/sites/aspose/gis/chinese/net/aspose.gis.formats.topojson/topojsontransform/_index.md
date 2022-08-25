@@ -18,7 +18,7 @@ public class TopoJsonTransform
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TopoJsonTransform](topojsontransform)(double, double, double, double) | 创建[`TopoJsonTransform`](../topojsontransform)的新实例。 |
+| [TopoJsonTransform](topojsontransform)(double, double, double, double) | 创建新的实例[`TopoJsonTransform`](../topojsontransform). |
 
 ## 特性
 

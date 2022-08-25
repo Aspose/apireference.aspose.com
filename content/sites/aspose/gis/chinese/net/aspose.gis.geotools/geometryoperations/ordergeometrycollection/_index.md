@@ -16,11 +16,11 @@ public static IGeometry OrderGeometryCollection(IGeometry geometry)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| geometry | IGeometry | 订单几何集合 |
+| geometry | IGeometry | 订单的几何集合 |
 
 ### 返回值
 
-集合包含四个集合（点、线、多边形和其他类型）
+该集合包含四个集合（点、线、多边形和其他类型）
 
 ### 也可以看看
 

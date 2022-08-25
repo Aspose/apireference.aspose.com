@@ -1,14 +1,14 @@
 ---
 title: AbstractPath
 second_title: Справочник по Aspose.GIS for .NET API
-description: An AbstractPath  это базовый класс для классов определяющих уникальное местоположение в среде аналогичной файловая система например локальная файловая система удаленное хранилище файлов или ZIP-архив среди прочего.
+description: АнАннотацияПуть является базовым классом для классов указывающих уникальное местоположение в среде похожей на файловую систему  например на локальную файловую систему удаленное файловое хранилище или ZIPархив и т. д.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/abstractpath/
 ---
 ## AbstractPath class
 
-An` AbstractPath` — это базовый класс для классов, определяющих уникальное местоположение в среде, аналогичной файловая система, например, локальная файловая система, удаленное хранилище файлов или ZIP-архив, среди прочего.
+Ан`АннотацияПуть` является базовым классом для классов, указывающих уникальное местоположение в среде, похожей на файловую систему, , например, на локальную файловую систему, удаленное файловое хранилище или ZIP-архив и т. д.
 
 ```csharp
 public abstract class AbstractPath
@@ -18,28 +18,28 @@ public abstract class AbstractPath
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Location](../../aspose.gis/abstractpath/location) { get; } | Получает строковое представление расположения этого` AbstractPath` . |
-| abstract [Separator](../../aspose.gis/abstractpath/separator) { get; } | Получает символ-разделитель, используемый для разделения уровней каталогов строки[`Location`](./location). |
+| abstract [Location](../../aspose.gis/abstractpath/location) { get; } | Получает строковое представление местоположения этого`АннотацияПуть` . |
+| abstract [Separator](../../aspose.gis/abstractpath/separator) { get; } | Получает символ-разделитель, используемый для разделения уровней каталогов[`Location`](./location) нить. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath)(string) | Создает[`AbstractPath`](../abstractpath), который представляет расположение в локальной файловой системе. |
-| static [FromStream](../../aspose.gis/abstractpath/fromstream)(Stream) | Создает[`AbstractPath`](../abstractpath)изStream. |
-| virtual [Combine](../../aspose.gis/abstractpath/combine)(string) | Объединяет это[`AbstractPath`](../abstractpath)с указанными компонентами пути. |
+| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath)(string) | Создает[`AbstractPath`](../abstractpath) который представляет местоположение в локальной файловой системе. |
+| static [FromStream](../../aspose.gis/abstractpath/fromstream)(Stream) | Создает[`AbstractPath`](../abstractpath) изStream . |
+| virtual [Combine](../../aspose.gis/abstractpath/combine)(string) | Объединяет это[`AbstractPath`](../abstractpath) с указанными компонентами пути. |
 | abstract [Delete](../../aspose.gis/abstractpath/delete)() | Удаляет файл, на который указывает этот путь. |
-| [GetExtension](../../aspose.gis/abstractpath/getextension)() | Возвращает расширение этого[`AbstractPath`](../abstractpath). |
-| [GetFileName](../../aspose.gis/abstractpath/getfilename)() | Возвращает имя файла и расширение этого[`AbstractPath`](../abstractpath). |
-| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension)() | Возвращает имя файла этого[`AbstractPath`](../abstractpath)без расширения. |
+| [GetExtension](../../aspose.gis/abstractpath/getextension)() | Возвращает расширение этого[`AbstractPath`](../abstractpath) . |
+| [GetFileName](../../aspose.gis/abstractpath/getfilename)() | Возвращает имя файла и расширение этого[`AbstractPath`](../abstractpath) . |
+| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension)() | Возвращает имя файла этого[`AbstractPath`](../abstractpath) без расширения. |
 | abstract [IsFile](../../aspose.gis/abstractpath/isfile)() | Получает значение, указывающее, указывает ли этот путь на существующий файл, который можно открыть для чтения. |
-| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory)() | Возвращает пути, расположенные внутри этого` AbstractPath` , если это каталог. |
-| abstract [Open](../../aspose.gis/abstractpath/open)(FileAccess) | Открывает этот` AbstractPath` в виде файла. |
-| virtual [WithExtension](../../aspose.gis/abstractpath/withextension)(string) | Возвращает новый[`AbstractPath`](../abstractpath)с расширением файла, измененным на указанное значение. |
+| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory)() | Возвращает пути, расположенные внутри этого`АннотацияПуть` , если это каталог. |
+| abstract [Open](../../aspose.gis/abstractpath/open)(FileAccess) | Открывает это`АннотацияПуть`в виде файла. |
+| virtual [WithExtension](../../aspose.gis/abstractpath/withextension)(string) | Возвращает новый[`AbstractPath`](../abstractpath) с расширением файла, измененным на указанное значение. |
 
 ### Примечания
 
-An` AbstractPath` может указывать расположение в локальной файловой системе, расположение в удаленной файловой системе или во внешнем хранилище, таком как хранилище BLOB-объектов Azure, и т. д. Расположение может указывать на существующие или не существующие файловые объекты, каталогоподобные объекты или иметь любое другое значение, подходящее для среды, к которой оно принадлежит.&lt;br /&gt; Например, наследник` AbstractPath` , представляющий расположение в локальной файловой системе, может указывать на существующий файл, каталог или на место в файловой системе, которое еще не было создано.&lt;cr /&gt; Чтобы сделать новое хранилище, подобное файловой системе, доступным для` Aspose.GIS` , нужно наследовать этот класс и реализовать его абстрактные методы.
+Ан`АннотацияПуть` может указать расположение в локальной файловой системе, расположение в удаленной файловой системе или во внешнем хранилище, таком как хранилище BLOB-объектов Azure, и т. д. Расположение может указывать на существующие или не существующие объекты, подобные файлам, объекты, подобные каталогам, или иметь любое другое значение, подходящее для среды, к которой оно принадлежит. Например,`АннотацияПуть` Наследник, который представляет расположение в локальной файловой системе, может указывать на существующий файл , каталог или место в файловой системе, которое еще не было создано. Чтобы сделать новое хранилище, подобное файловой системе, доступным для`Aspose.ГИС` нужно наследовать этот class и реализовать его абстрактные методы.
 
 ### Смотрите также
 

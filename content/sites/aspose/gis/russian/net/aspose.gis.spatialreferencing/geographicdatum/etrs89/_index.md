@@ -1,14 +1,14 @@
 ---
 title: Etrs89
 second_title: Справочник по Aspose.GIS for .NET API
-description: Данные ETRS 89.
+description: Датам ETRS 89.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/geographicdatum/etrs89/
 ---
 ## GeographicDatum.Etrs89 property
 
-Данные ETRS 89.
+Датам ETRS 89.
 
 ```csharp
 public static GeographicDatum Etrs89 { get; }

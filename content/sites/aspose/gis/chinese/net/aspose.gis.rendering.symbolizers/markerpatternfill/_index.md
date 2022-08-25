@@ -3,7 +3,7 @@ title: MarkerPatternFill
 second_title: Aspose.GIS for .NET API 参考
 description: 标记图案填充符号
 type: docs
-weight: 1750
+weight: 1760
 url: /zh/net/aspose.gis.rendering.symbolizers/markerpatternfill/
 ---
 ## MarkerPatternFill class
@@ -18,8 +18,8 @@ public class MarkerPatternFill : VectorSymbolizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MarkerPatternFill](markerpatternfill#constructor)() | 初始化[`MarkerPatternFill`](../markerpatternfill)类的新实例。 |
-| [MarkerPatternFill](markerpatternfill#constructor_1)(MarkerPatternFill) | 初始化[`MarkerPatternFill`](../markerpatternfill)类的新实例。 |
+| [MarkerPatternFill](markerpatternfill#constructor)() | 初始化[`MarkerPatternFill`](../markerpatternfill)类. |
+| [MarkerPatternFill](markerpatternfill#constructor_1)(MarkerPatternFill) | 初始化[`MarkerPatternFill`](../markerpatternfill)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public class MarkerPatternFill : VectorSymbolizer
 | [HorizontalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement) { get; set; } | 指定偶数水平线中标记的水平偏移。 |
 | [HorizontalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterval) { get; set; } | 指定标记之间的水平间隔。 |
 | [Marker](../../aspose.gis.rendering.symbolizers/markerpatternfill/marker) { get; set; } | 指定用于填充的标记符号。 |
-| [VerticalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement) { get; set; } | 指定偶数垂直线中标记的垂直偏移量。 |
+| [VerticalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement) { get; set; } | 指定偶数垂直线中标记的垂直偏移。 |
 | [VerticalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval) { get; set; } | 指定标记之间的垂直间隔。 |
 
 ### 也可以看看

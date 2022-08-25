@@ -24,8 +24,8 @@ public class KmlLineStyle : KmlAbstractColorStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | 指定图形元素的颜色。默认值White。 |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | 指定图形元素的颜色模式。默认值:正常。 |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | 指定图形元素的颜色。默认值White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | 指定图形元素的颜色模式。默认值：正常。 |
 | [Width](../../aspose.gis.formats.kml.styles/kmllinestyle/width) { get; set; } | 线的宽度，以像素为单位。默认值为“1”。 |
 
 ### 也可以看看

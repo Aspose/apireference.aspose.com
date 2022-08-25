@@ -1,14 +1,14 @@
 ---
 title: Open
 second_title: Aspose.GIS for .NET API 参考
-description: 打开图层进行读取
+description: 打开图层进行阅读
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/vectorlayer/open/
 ---
 ## Open(string, FileDriver) {#open_2}
 
-打开图层进行读取。
+打开图层进行阅读。
 
 ```csharp
 public static VectorLayer Open(string path, FileDriver driver)
@@ -16,7 +16,7 @@ public static VectorLayer Open(string path, FileDriver driver)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
+| path | String | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
@@ -27,9 +27,9 @@ public static VectorLayer Open(string path, FileDriver driver)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 从文件中读取特征时出错。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 从文件中读取功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -43,7 +43,7 @@ public static VectorLayer Open(string path, FileDriver driver)
 
 ## Open(AbstractPath, FileDriver) {#open}
 
-打开图层进行读取。
+打开图层进行阅读。
 
 ```csharp
 public static VectorLayer Open(AbstractPath path, FileDriver driver)
@@ -51,7 +51,7 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
+| path | AbstractPath | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
@@ -62,9 +62,9 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 从文件中读取特征时出错。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 从文件中读取功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -79,7 +79,7 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 
 ## Open(string, FileDriver, DriverOptions) {#open_3}
 
-打开图层进行读取。
+打开图层进行阅读。
 
 ```csharp
 public static VectorLayer Open(string path, FileDriver driver, DriverOptions options)
@@ -87,9 +87,9 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
+| path | String | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
@@ -99,9 +99,9 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 从文件中读取特征时出错。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 从文件中读取功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -116,7 +116,7 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 
 ## Open(AbstractPath, FileDriver, DriverOptions) {#open_1}
 
-打开图层进行读取。
+打开图层进行阅读。
 
 ```csharp
 public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptions options)
@@ -124,9 +124,9 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptio
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
+| path | AbstractPath | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
@@ -136,9 +136,9 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptio
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 从文件中读取特征时出错。 |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 从文件中读取功能时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看

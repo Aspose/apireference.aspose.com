@@ -1,14 +1,14 @@
 ---
 title: RasterExpressionContext
 second_title: Справочник по Aspose.GIS for .NET API
-description: Этот класс описывает значение контекста при чтении растра бэнда.
+description: Этот класс описывает контекст значения когда он считывает растровый канал.
 type: docs
-weight: 1270
+weight: 1280
 url: /ru/net/aspose.gis.raster/rasterexpressioncontext/
 ---
 ## RasterExpressionContext structure
 
-Этот класс описывает значение контекста при чтении растра бэнда.
+Этот класс описывает контекст значения, когда он считывает растровый канал.
 
 ```csharp
 public struct RasterExpressionContext : IEquatable<RasterExpressionContext>

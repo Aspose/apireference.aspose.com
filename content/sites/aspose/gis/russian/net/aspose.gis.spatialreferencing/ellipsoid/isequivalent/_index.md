@@ -1,14 +1,14 @@
 ---
 title: IsEquivalent
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B то они имеют одинаковую большую полуось и обратное уплощение.
+description: Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B то они имеют одинаковую большую полуось и обратное сглаживание.
 type: docs
 weight: 110
 url: /ru/net/aspose.gis.spatialreferencing/ellipsoid/isequivalent/
 ---
 ## IsEquivalent(Ellipsoid, Ellipsoid)
 
-Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное уплощение.
+Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное сглаживание.
 
 ```csharp
 public static bool IsEquivalent(Ellipsoid ellipsoid1, Ellipsoid ellipsoid2)
@@ -17,7 +17,7 @@ public static bool IsEquivalent(Ellipsoid ellipsoid1, Ellipsoid ellipsoid2)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | ellipsoid1 | Ellipsoid | Первый эллипсоид. |
-| эллипсоид2 | Ellipsoid | Второй эллипсоид. |
+| ellipsoid2 | Ellipsoid | Второй эллипсоид. |
 
 ### Возвращаемое значение
 
@@ -33,7 +33,7 @@ public static bool IsEquivalent(Ellipsoid ellipsoid1, Ellipsoid ellipsoid2)
 
 ## IsEquivalent(Ellipsoid)
 
-Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное уплощение.
+Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное сглаживание.
 
 ```csharp
 public bool IsEquivalent(Ellipsoid other)

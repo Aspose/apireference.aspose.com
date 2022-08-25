@@ -1,14 +1,14 @@
 ---
 title: ISurface
 second_title: Справочник по Aspose.GIS for .NET API
-description: AISurface./isurface двумерный геометрический объект.
+description: АISurface./isurface представляет собой двумерный геометрический объект.
 type: docs
-weight: 1000
+weight: 1010
 url: /ru/net/aspose.gis.geometries/isurface/
 ---
 ## ISurface interface
 
-A[`ISurface`](../isurface)— двумерный геометрический объект.
+А[`ISurface`](../isurface) представляет собой двумерный геометрический объект.
 
 ```csharp
 public interface ISurface : IGeometry
@@ -20,8 +20,8 @@ public interface ISurface : IGeometry
 | --- | --- |
 | [GetPointOnSurface](../../aspose.gis.geometries/isurface/getpointonsurface)() | Находит точку, которая гарантированно находится на этой поверхности. |
 | [ToEditable](../../aspose.gis.geometries/isurface/toeditable)() | Получает редактируемую копию этой геометрии. |
-| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry#tolineargeometry)() | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя допуск по умолчанию . |
-| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry#tolineargeometry_1)(double) | Получает приблизительную или эквивалентную некривую версию этой геометрии с использованием указанного допуска . |
+| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry#tolineargeometry)() | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя значение по умолчанию.`толерантность` . |
+| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry#tolineargeometry_1)(double) | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя указанный`толерантность` . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Distance
 second_title: Справочник по Aspose.GIS for .NET API
-description: Параметром для проверки является точка рядом с другой точкой. Значение по умолчанию0.
+description: Параметр для проверки  точка рядом с другой точкой. Значение по умолчанию 0. .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.geotools/nearpointscleaneroptions/distance/
 ---
 ## NearPointsCleanerOptions.Distance property
 
-Параметром для проверки является точка рядом с другой точкой. Значение по умолчанию:0.
+Параметр для проверки - точка рядом с другой точкой. Значение по умолчанию: 0. .
 
 ```csharp
 public double Distance { get; set; }

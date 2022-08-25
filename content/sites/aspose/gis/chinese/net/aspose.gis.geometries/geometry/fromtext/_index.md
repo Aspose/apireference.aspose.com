@@ -1,14 +1,14 @@
 ---
 title: FromText
 second_title: Aspose.GIS for .NET API 参考
-description: 从其众所周知的文本表示创建几何
+description: 从其众所周知的文本表示创建几何图形
 type: docs
 weight: 470
 url: /zh/net/aspose.gis.geometries/geometry/fromtext/
 ---
 ## FromText(string) {#fromtext}
 
-从其众所周知的文本表示创建几何。
+从其众所周知的文本表示创建几何图形。
 
 ```csharp
 public static IGeometry FromText(string wkt)
@@ -27,7 +27,7 @@ public static IGeometry FromText(string wkt)
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 参数为空。 |
-| NotSupportedException | 参数表示几何类型不受支持。 |
+| NotSupportedException | 参数表示类型不受支持的几何图形。 |
 | FormatException | 参数不是有效的知名文本。 |
 
 ### 也可以看看
@@ -41,7 +41,7 @@ public static IGeometry FromText(string wkt)
 
 ## FromText(string, SpatialReferenceSystem) {#fromtext_1}
 
-从其众所周知的文本表示创建几何。
+从其众所周知的文本表示创建几何图形。
 
 ```csharp
 public static IGeometry FromText(string wkt, SpatialReferenceSystem spatialReferenceSystem)
@@ -61,7 +61,7 @@ public static IGeometry FromText(string wkt, SpatialReferenceSystem spatialRefer
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 参数为空。 |
-| NotSupportedException | 参数表示几何类型不受支持。 |
+| NotSupportedException | 参数表示类型不受支持的几何图形。 |
 | FormatException | 参数不是有效的知名文本。 |
 
 ### 也可以看看

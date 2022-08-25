@@ -18,7 +18,7 @@ public abstract GeographicDatum GeographicDatum { get; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 此 SRS 没有地理基准。HasGeographicDatum |
+| InvalidOperationException | 此 SRS 没有地理基准。[`HasGeographicDatum`](../hasgeographicdatum) |
 
 ### 也可以看看
 

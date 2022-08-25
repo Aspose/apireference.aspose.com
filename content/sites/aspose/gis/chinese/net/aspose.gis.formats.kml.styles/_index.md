@@ -1,28 +1,28 @@
 ---
 title: Aspose.Gis.Formats.Kml.Styles
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Formats.Kml.Styles 命名空间提供了用于处理 KML 样式的类
+description: Aspose.Gis.Formats.Kml.Styles命名空间提供了使用 KML 样式的类
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.formats.kml.styles/
 ---
-` Aspose.Gis.Formats.Kml.Styles` 命名空间提供了用于处理 KML 样式的类。
+`Aspose.Gis.Formats.Kml.Styles`命名空间提供了使用 KML 样式的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
 | [KmlAbstractColorStyle](./kmlabstractcolorstyle) | 提供用于指定派生自它的样式类型的颜色和颜色模式的元素。 |
-| [KmlBalloonStyle](./kmlballoonstyle) | 指定描述气球的绘制方式。 |
+| [KmlBalloonStyle](./kmlballoonstyle) | 指定如何绘制描述气球。 |
 | [KmlCoordinate](./kmlcoordinate) | 指定图像坐标系。 |
-| [KmlFeatureStyle](./kmlfeaturestyle) | 样式会影响几何图形的呈现方式。 这些样式在文档部分中编码，并且每个样式都有一个唯一标识符。 这些在 kml 规范中被称为“共享样式”。 |
+| [KmlFeatureStyle](./kmlfeaturestyle) | 样式会影响几何图形的呈现方式。 样式在文档部分进行编码，并且每个样式都有一个唯一标识符。 这些在 kml 规范中称为“共享样式”。 |
 | [KmlIconResource](./kmliconresource) | 指定图标资源位置 |
-| [KmlIconStyle](./kmliconstyle) | 指定如何在地球浏览器的列表和地理视图中绘制 kml:Placemarks 和 kml:PhotoOverlay 的图标与 kml:Point 几何图形 。 |
+| [KmlIconStyle](./kmliconstyle) | 指定 kml:Placemarks 和 kml:PhotoOverlay 的图标如何在地球浏览器的列表和地理视图中绘制 。 |
 | [KmlItemIcon](./kmlitemicon) | 指定列表中的图标资源位置。 |
-| [KmlLabelStyle](./kmllabelstyle) | 指定标签在地理视图中的绘制方式。 |
+| [KmlLabelStyle](./kmllabelstyle) | 指定如何在地理视图中绘制标签。 |
 | [KmlLineStyle](./kmllinestyle) | 指定如何在地理视图中绘制 kml:AbstractFeatureGroup 的名称。 |
 | [KmlListStyle](./kmlliststyle) | 指定功能在列表视图中的显示方式。 |
-| [KmlPolygonStyle](./kmlpolygonstyle) | 指定多边形的绘制样式， 包括多边形和 kml:Polygon 或 LineString 的拉伸部分。 |
+| [KmlPolygonStyle](./kmlpolygonstyle) | 指定多边形的绘图样式， 包括多边形和 kml:Polygon 或 LineString 的拉伸部分。 |
 ## 枚举
 
 | 枚举 | 描述 |

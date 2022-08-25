@@ -1,7 +1,7 @@
 ---
 title: ExportToWkt
 second_title: Aspose.GIS for .NET API 参考
-description: 将此 SRS 的表示形式返回为 WKT 字符串 结果 WKT 字符串将匹配 OGC 01-009 规范通常命名为WKT1
+description: 将此 SRS 的表示形式返回为 WKT 字符串 结果 WKT 字符串将匹配 OGC 01009 规范通常命名为WKT1
 type: docs
 weight: 190
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/exporttowkt/
@@ -22,7 +22,7 @@ public string ExportToWkt()
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 此 SRS 表示将包含NaN，PositiveInfinity或NegativeInfinity。 |
+| InvalidOperationException | 这个 SRS 表示将包含NaN,PositiveInfinity或者NegativeInfinity. |
 
 ### 也可以看看
 

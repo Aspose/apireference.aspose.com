@@ -1,14 +1,14 @@
 ---
 title: SymbolToReplaceInvalidChars
 second_title: Aspose.GIS for .NET API 参考
-description: 确定在读取时将使用哪个符号替换无效字符 如果值为 0则跳过替换默认值为 0 字符
+description: 确定读取时将使用哪个符号替换无效字符 如果值为0则跳过替换默认值为 0 char.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.kml/kmloptions/symboltoreplaceinvalidchars/
 ---
 ## KmlOptions.SymbolToReplaceInvalidChars property
 
-确定在读取时将使用哪个符号替换无效字符。 如果值为 '\0'，则跳过替换。默认值为 '\0' 字符。
+确定读取时将使用哪个符号替换无效字符。 如果值为“\0”，则跳过替换。默认值为 '\0' char.
 
 ```csharp
 public char SymbolToReplaceInvalidChars { get; set; }

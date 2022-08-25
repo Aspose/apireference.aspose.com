@@ -1,14 +1,14 @@
 ---
 title: AsByte
 second_title: Справочник по Aspose.GIS for .NET API
-description: Преобразует указанные данные диапазона в значениеbyte.
+description: Преобразует данные указанного диапазона вbyte значение.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.raster/irastervalues/asbyte/
 ---
 ## IRasterValues.AsByte method
 
-Преобразует указанные данные диапазона в значение`byte`.
+Преобразует данные указанного диапазона в`byte` значение.
 
 ```csharp
 public byte AsByte(int bandIndex = 0)
@@ -16,7 +16,7 @@ public byte AsByte(int bandIndex = 0)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bandIndex | Int32 | Индекс полосы. Нумерация начинается с 0. |
+| bandIndex | Int32 | Индекс группы. Нумерация начинается с 0. |
 
 ### Возвращаемое значение
 

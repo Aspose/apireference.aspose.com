@@ -20,15 +20,15 @@ public IGeometry Union(IGeometry other)
 
 ### Возвращаемое значение
 
-Геометрия, представляющая объединение этой геометрии и аргумента. Результирующая геометрия содержит набор точек, которые присутствуют в этой геометрии или в аргументе.
+Геометрия, представляющая объединение этой геометрии и аргумента. Результирующая геометрия содержит набор точек, присутствующих в этой геометрии или в аргументе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *other*is`null`. |
+| ArgumentNullException | *other* является`null`. |
 | ArgumentException | Одна из геометрий недействительна, поэтому операция не может быть завершена. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Смотрите также
 

@@ -20,19 +20,19 @@ public bool SpatiallyContains(IGeometry other)
 
 ### Возвращаемое значение
 
-`true`если эта геометрия "пространственно содержит" другую геометрию.`false`иначе.
+`true`если эта геометрия «пространственно содержит» другую геометрию.`false` иначе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент`нулевой`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Одна из геометрий недействительна, поэтому операция не может быть завершена. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Примечания
 
-Этот метод проверяет, содержит ли одна геометрия другую с точки зрения матрицы пересечения DE-9IM.&lt;cr / &gt; Этот метод эквивалентен:
+Этот метод проверяет, содержит ли одна геометрия другую с точки зрения матрицы пересечения DE-9IM. Этот метод эквивалентен:
 
 ```csharp
 other.Within(this);

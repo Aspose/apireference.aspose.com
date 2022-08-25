@@ -1,14 +1,14 @@
 ---
 title: JpegRenderer
 second_title: Справочник по Aspose.GIS for .NET API
-description: ARenderer../aspose.gis.rendering/rendererкоторый рендеритMap../aspose.gis.rendering/mapв файл JPEG.
+description: АRenderer../aspose.gis.rendering/renderer что делаетMap../aspose.gis.rendering/map в файл JPEG.
 type: docs
-weight: 1460
+weight: 1470
 url: /ru/net/aspose.gis.rendering.formats.jpeg/jpegrenderer/
 ---
 ## JpegRenderer class
 
-A[`Renderer`](../../aspose.gis.rendering/renderer)который рендерит[`Map`](../../aspose.gis.rendering/map)в файл JPEG.
+А[`Renderer`](../../aspose.gis.rendering/renderer) что делает[`Map`](../../aspose.gis.rendering/map) в файл JPEG.
 
 ```csharp
 public class JpegRenderer : Renderer
@@ -18,8 +18,8 @@ public class JpegRenderer : Renderer
 
 | Имя | Описание |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render)(Map, AbstractPath) | Отображает карту. |
-| [Render](../../aspose.gis.rendering/renderer/render)(Map, string) | Отображает карту. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, AbstractPath) | Визуализирует карту. |
+| [Render](../../aspose.gis.rendering/renderer/render)(Map, string) | Визуализирует карту. |
 
 ### Смотрите также
 

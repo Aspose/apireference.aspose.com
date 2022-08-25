@@ -16,7 +16,7 @@ public bool Contains(double x, double y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | X 坐标。 |
+| x | Double | X 的坐标。 |
 | y | Double | Y 坐标。 |
 
 ### 返回值
@@ -25,7 +25,7 @@ public bool Contains(double x, double y)
 
 ### 评论
 
-位于此[`Extent`](../../extent)边界上的坐标为 被认为包含在这个[`Extent`](../../extent)中。
+位于此边界上的坐标[`Extent`](../../extent)are 被认为包含于此[`Extent`](../../extent).
 
 ### 也可以看看
 
@@ -45,22 +45,22 @@ public bool Contains(Extent extent)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| extent | Extent | 另一个范围。 |
+| extent | Extent | 另一个程度。 |
 
 ### 返回值
 
-值，表示这个extent是否包含参数。
+值，指示此范围是否包含参数。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这个范围和参数都不是`null`并且不相等。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这种程度和论点都不是`null`并且不等于彼此。 |
 
 ### 评论
 
-位于此[`Extent`](../../extent)边界上的坐标为 被认为包含在这个[`Extent`](../../extent)中。出于这个原因，相等的范围被认为是 以包含彼此。
+位于此边界上的坐标[`Extent`](../../extent)are 被认为包含于此[`Extent`](../../extent) .出于这个原因，相等的范围被认为 相互包含。
 
 ### 也可以看看
 
@@ -84,18 +84,18 @@ public bool Contains(IGeometry geometry)
 
 ### 返回值
 
-值，表示这个extent是否包含参数。
+值，指示此范围是否包含参数。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这个范围和参数都不是`null`并且不相等。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)这种程度和论点都不是`null`并且不等于彼此。 |
 
 ### 评论
 
-位于此[`Extent`](../../extent)边界上的坐标为 被认为包含在这个[`Extent`](../../extent)中。
+位于此边界上的坐标[`Extent`](../../extent)are 被认为包含于此[`Extent`](../../extent).
 
 ### 也可以看看
 

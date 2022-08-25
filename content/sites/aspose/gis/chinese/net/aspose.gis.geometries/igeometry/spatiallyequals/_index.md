@@ -26,13 +26,13 @@ public bool SpatiallyEquals(IGeometry other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 评论
 
-此方法根据 DE-9IM 交集矩阵测试相等性。它不依赖于顺序 组件（例如多边形内环的顺序）、Z 和 M 值。基本上，它测试 两个几何图形在二维空间上投影时是否占据相同的“空间”。&lt;cr /&gt; 这个方法等价于 有关 DE-9IM 的更多详细信息，请参阅 OpenGIS 简单功能规范。
+此方法根据 DE-9IM 交集矩阵测试相等性。它不依赖于组件的 order （例如多边形内环的顺序）、Z 和 M 值。基本上，它测试 当投影到二维空间时，两个几何图形占据相同的“空间”。 这个方法等价于： 有关 DE-9IM 的更多详细信息，请参阅 OpenGIS 简单功能规范。
 
 ```csharp
 this.Relate(other, "T*F**FFF*");

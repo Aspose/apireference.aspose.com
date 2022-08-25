@@ -1,14 +1,14 @@
 ---
 title: MetersOnEarth
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает новый экземпляр Измерение  который представляет длину в метрах на Земле.
+description: Возвращает новый экземплярИзмерение что представляет длину в метрах на Земле.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.rendering/measurement/metersonearth/
 ---
 ## Measurement.MetersOnEarth method
 
-Возвращает новый экземпляр` Измерение` , который представляет длину в метрах на Земле.
+Возвращает новый экземпляр`Измерение` что представляет длину в метрах на Земле.
 
 ```csharp
 public static Measurement MetersOnEarth(double value)
@@ -20,7 +20,7 @@ public static Measurement MetersOnEarth(double value)
 
 ### Возвращаемое значение
 
-Новый экземпляр класса` Измерение` .
+Новый экземпляр`Измерение` учебный класс.
 
 ### Смотрите также
 

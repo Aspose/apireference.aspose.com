@@ -20,13 +20,13 @@ public XyzTiles OpenLayer(XyzConnection connection)
 
 ### 返回值
 
-[`XyzTiles`](../../xyztiles)的一个实例。
+一个实例[`XyzTiles`](../../xyztiles).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 连接是`null`。 |
+| ArgumentNullException | 连接是`null`. |
 
 ### 也可以看看
 

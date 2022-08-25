@@ -3,7 +3,7 @@ title: Unit
 second_title: Aspose.GIS for .NET API 参考
 description: 表示测量单位
 type: docs
-weight: 2180
+weight: 2190
 url: /zh/net/aspose.gis.spatialreferencing/unit/
 ---
 ## Unit class
@@ -26,8 +26,8 @@ public class Unit : IdentifiableObject
 | --- | --- |
 | static [Degree](../../aspose.gis.spatialreferencing/unit/degree) { get; } | 获取表示度数的单位。 |
 | static [Meter](../../aspose.gis.spatialreferencing/unit/meter) { get; } | 获取代表米的单位。 |
-| static [Radian](../../aspose.gis.spatialreferencing/unit/radian) { get; } | 获取表示弧度的单位。 |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | 如果此对象标识符是 EPSG 标识符 - 返回其代码。否则 - 返回 -1。 |
+| static [Radian](../../aspose.gis.spatialreferencing/unit/radian) { get; } | 获取代表弧度的单位。 |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | 如果此对象标识符是 EPSG 标识符 - 返回其代码。否则 - 返回 -1. |
 | [Factor](../../aspose.gis.spatialreferencing/unit/factor) { get; } | 以米为单位的因子，如果这是长度单位，则以弧度为单位，如果这是角度单位。 |
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | 此可识别对象的标识符。 |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | 此对象的名称。 |
@@ -37,8 +37,8 @@ public class Unit : IdentifiableObject
 | 姓名 | 描述 |
 | --- | --- |
 | [Apply](../../aspose.gis.spatialreferencing/unit/apply)(double) | 将参数转换为单位，由该实例描述。 |
-| [Deapply](../../aspose.gis.spatialreferencing/unit/deapply)(double) | 将本实例描述的单位参数转换为弧度或米。 |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | 返回代表当前对象的字符串。 |
+| [Deapply](../../aspose.gis.spatialreferencing/unit/deapply)(double) | 将本例描述的单位参数转换为弧度或米。 |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

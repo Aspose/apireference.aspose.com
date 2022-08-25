@@ -17,11 +17,11 @@ public static Measurement operator *(Measurement measurement, double factor)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | measurement | Measurement | Измерение для умножения. |
-| factor | Double | Коэффициент для деления. |
+| factor | Double | Фактор для деления. |
 
 ### Возвращаемое значение
 
-Измерение с[`Value`](../value)умножается на коэффициент.
+Измерение с[`Value`](../value) умножить на коэффициент.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: AsGeocentric
 second_title: Aspose.GIS for .NET API 参考
-description: 返回此 SRS 转换为GeocentricSpatialReferenceSystem 使用Type来确定是否可以进行转换
+description: 返回此 SRS 转换为GeocentricSpatialReferenceSystemaspose.gis.spatialreferencing/geocentricspatialreferencesystem. 使用Typeaspose.gis.spatialreferencing/spatialreferencesystem/type找出是否可以转换
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/asgeocentric/
 ---
 ## SpatialReferenceSystem.AsGeocentric property
 
-返回此 SRS 转换为GeocentricSpatialReferenceSystem。 使用Type来确定是否可以进行转换。
+返回此 SRS 转换为[`GeocentricSpatialReferenceSystem`](../../geocentricspatialreferencesystem). 使用[`Type`](../type)找出是否可以转换。
 
 ```csharp
 public virtual GeocentricSpatialReferenceSystem AsGeocentric { get; }
@@ -18,7 +18,7 @@ public virtual GeocentricSpatialReferenceSystem AsGeocentric { get; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 无法进行转换。 |
+| InvalidOperationException | 无法转换。 |
 
 ### 也可以看看
 

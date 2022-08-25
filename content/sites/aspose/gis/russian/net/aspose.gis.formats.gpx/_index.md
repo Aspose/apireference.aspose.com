@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.Gpx
 second_title: Справочник по Aspose.GIS for .NET API
-description:  Aspose.Gis.Formats.GpxПространство имен предоставляет классы для работы с форматом GPX.
+description: Aspose.Gis.Formats.Gpx namespace предоставляет классы для работы с форматом GPX.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis.formats.gpx/
 ---
-` Aspose.Gis.Formats.Gpx`Пространство имен предоставляет классы для работы с форматом GPX.
+`Aspose.Gis.Formats.Gpx` namespace предоставляет классы для работы с форматом GPX.
 
 ## Классы
 

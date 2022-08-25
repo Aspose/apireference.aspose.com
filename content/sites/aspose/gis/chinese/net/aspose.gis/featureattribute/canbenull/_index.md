@@ -16,7 +16,7 @@ public bool CanBeNull { get; set; }
 
 ### 适当的价值
 
-`true`如果此实例可以为空；否则，`false`。
+`true`如果这个实例可以为空；否则，`false`.
 
 ### 例外
 

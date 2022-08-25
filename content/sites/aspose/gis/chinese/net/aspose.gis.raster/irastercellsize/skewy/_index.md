@@ -1,14 +1,14 @@
 ---
 title: SkewY
 second_title: Aspose.GIS for .NET API 参考
-description: 获取单元格的 y 分量或像素宽度y 倾斜
+description: 获取单元格或像素宽度的 y 分量y 倾斜
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.raster/irastercellsize/skewy/
 ---
 ## IRasterCellSize.SkewY property
 
-获取单元格的 y 分量或像素宽度（y 倾斜）。
+获取单元格或像素宽度的 y 分量（y 倾斜）。
 
 ```csharp
 public double SkewY { get; }

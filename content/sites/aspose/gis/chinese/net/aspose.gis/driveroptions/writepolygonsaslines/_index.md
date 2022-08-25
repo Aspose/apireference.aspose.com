@@ -1,14 +1,14 @@
 ---
 title: WritePolygonsAsLines
 second_title: Aspose.GIS for .NET API 参考
-description: 确定是否允许将多边形或多多边形转换为线串默认为false
+description: 确定是否允许将多边形或多多边形转换为线串默认为false.
 type: docs
 weight: 100
 url: /zh/net/aspose.gis/driveroptions/writepolygonsaslines/
 ---
 ## DriverOptions.WritePolygonsAsLines property
 
-确定是否允许将多边形或多多边形转换为线串。默认为`false`。
+确定是否允许将多边形或多多边形转换为线串。默认为`false`.
 
 ```csharp
 public bool WritePolygonsAsLines { get; set; }

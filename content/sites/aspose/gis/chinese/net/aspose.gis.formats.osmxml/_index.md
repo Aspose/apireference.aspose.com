@@ -1,12 +1,12 @@
 ---
 title: Aspose.Gis.Formats.OsmXml
 second_title: Aspose.GIS for .NET API 参考
-description:  Aspose.Gis.Formats.OsmXml 命名空间提供了使用 OSM XML 格式的类
+description: Aspose.Gis.Formats.OsmXml命名空间提供了使用 OSM XML 格式的类
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.formats.osmxml/
 ---
-` Aspose.Gis.Formats.OsmXml` 命名空间提供了使用 OSM XML 格式的类。
+`Aspose.Gis.Formats.OsmXml`命名空间提供了使用 OSM XML 格式的类。
 
 ## 课程
 

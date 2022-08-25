@@ -16,7 +16,7 @@ public override bool HasM { get; set; }
 
 ### 适当的价值
 
-`true`如果此实例具有 M 坐标；否则，`false`。
+`true`如果这个实例有一个 M 坐标；否则，`false`.
 
 ### 也可以看看
 

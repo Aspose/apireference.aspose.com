@@ -20,14 +20,14 @@ public double GetDistanceTo(IGeometry other)
 
 ### Возвращаемое значение
 
-Если обе геометрии не[`IsEmpty`](../isempty)- расстояние между ближайшими точками геометрии. Если хотя бы одна геометрия пуста, возвращается -1.
+Если обе геометрии не[`IsEmpty`](../isempty) - расстояние между ближайшими точками геометрий. Если хотя бы одна геометрия пуста, возвращается -1.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Смотрите также
 

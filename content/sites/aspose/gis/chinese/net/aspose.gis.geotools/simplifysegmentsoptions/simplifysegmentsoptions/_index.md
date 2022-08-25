@@ -24,7 +24,7 @@ public SimplifySegmentsOptions()
 
 ## SimplifySegmentsOptions(SimplifySegmentsOptions) {#constructor_1}
 
-创建实例副本[`SimplifySegmentsOptions`](../../simplifysegmentsoptions)。
+创建实例副本[`SimplifySegmentsOptions`](../../simplifysegmentsoptions).
 
 ```csharp
 public SimplifySegmentsOptions(SimplifySegmentsOptions source)

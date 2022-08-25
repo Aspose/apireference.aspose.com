@@ -1,14 +1,14 @@
 ---
 title: StrokeWidth
 second_title: Aspose.GIS for .NET API 参考
-description: 指定线的宽度
+description: 指定线条的宽度
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/strokewidth/
 ---
 ## SimpleMarker.StrokeWidth property
 
-指定线的宽度。
+指定线条的宽度。
 
 ```csharp
 public Measurement StrokeWidth { get; set; }

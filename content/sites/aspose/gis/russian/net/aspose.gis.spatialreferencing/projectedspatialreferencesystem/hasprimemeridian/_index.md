@@ -1,14 +1,14 @@
 ---
 title: HasPrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает истину так как проекция SRS всегда имеет нулевой меридиан.
+description: Возвращает значение true так как проекция SRS всегда имеет нулевой меридиан.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasprimemeridian/
 ---
 ## ProjectedSpatialReferenceSystem.HasPrimeMeridian property
 
-Возвращает истину, так как проекция SRS всегда имеет нулевой меридиан.
+Возвращает значение true, так как проекция SRS всегда имеет нулевой меридиан.
 
 ```csharp
 public bool HasPrimeMeridian { get; }

@@ -3,7 +3,7 @@ title: GeographicAxisesOrder
 second_title: Справочник по Aspose.GIS for .NET API
 description: Представляет порядок осей в географической SRS.
 type: docs
-weight: 2000
+weight: 2010
 url: /ru/net/aspose.gis.spatialreferencing/geographicaxisesorder/
 ---
 ## GeographicAxisesOrder enumeration

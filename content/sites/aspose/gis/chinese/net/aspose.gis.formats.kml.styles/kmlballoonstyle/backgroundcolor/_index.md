@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.GIS for .NET API 参考
-description: 指定图形元素的背景颜色默认值为White
+description: 指定图形元素的背景颜色默认值为White.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.kml.styles/kmlballoonstyle/backgroundcolor/
 ---
 ## KmlBalloonStyle.BackgroundColor property
 
-指定图形元素的背景颜色。默认值为White。
+指定图形元素的背景颜色。默认值为White.
 
 ```csharp
 public Color BackgroundColor { get; set; }

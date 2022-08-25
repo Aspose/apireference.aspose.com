@@ -1,14 +1,14 @@
 ---
 title: Rule
 second_title: Справочник по Aspose.GIS for .NET API
-description: Пользовательское правило дляRuleBasedSymbolizer./rulebasedsymbolizer.
+description: Определенное пользователем правило дляRuleBasedSymbolizer./rulebasedsymbolizer .
 type: docs
-weight: 1810
+weight: 1820
 url: /ru/net/aspose.gis.rendering.symbolizers/rule/
 ---
 ## Rule class
 
-Пользовательское правило для[`RuleBasedSymbolizer`](../rulebasedsymbolizer).
+Определенное пользователем правило для[`RuleBasedSymbolizer`](../rulebasedsymbolizer) .
 
 ```csharp
 public class Rule
@@ -18,16 +18,16 @@ public class Rule
 
 | Имя | Описание |
 | --- | --- |
-| [Filter](../../aspose.gis.rendering.symbolizers/rule/filter) { get; } | Определяет, должно ли "правило фильтра" применять символизатор к объекту. Если возвращает`true`используется символизатор; в противном случае функция пропускается. |
+| [Filter](../../aspose.gis.rendering.symbolizers/rule/filter) { get; } | Определяет, должно ли «правило фильтра» применять символизатор к объекту. Если возвращается`true` используется символизатор; в противном случае функция пропускается. |
 | [IsElseRule](../../aspose.gis.rendering.symbolizers/rule/iselserule) { get; } | Получает значение, указывающее, является ли это правило "другим правилом". |
-| [IsFilterRule](../../aspose.gis.rendering.symbolizers/rule/isfilterrule) { get; } | Получает значение, указывающее, является ли это правило "правилом фильтра". |
-| [Symbolizer](../../aspose.gis.rendering.symbolizers/rule/symbolizer) { get; } | Символизатор для применения к объекту. |
+| [IsFilterRule](../../aspose.gis.rendering.symbolizers/rule/isfilterrule) { get; } | Получает значение, указывающее, является ли данное правило правилом-фильтром. |
+| [Symbolizer](../../aspose.gis.rendering.symbolizers/rule/symbolizer) { get; } | Символизатор для применения к функции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [CreateElseRule](../../aspose.gis.rendering.symbolizers/rule/createelserule)(VectorSymbolizer) | Создает новое правило, которое применяет символизатор к объекту всякий раз, когда он не соответствует ни одному правилу фильтра. |
+| static [CreateElseRule](../../aspose.gis.rendering.symbolizers/rule/createelserule)(VectorSymbolizer) | Создает новое правило, которое применяет символизатор к объекту всякий раз, когда он не соответствует ни одному правилу фильтрации. |
 | static [CreateFilterRule](../../aspose.gis.rendering.symbolizers/rule/createfilterrule)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | Создает новое правило, которое применяет символизатор к объекту всякий раз, когда он проходит фильтр. |
 
 ### Смотрите также

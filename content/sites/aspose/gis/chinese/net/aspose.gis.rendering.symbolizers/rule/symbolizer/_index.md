@@ -1,14 +1,14 @@
 ---
 title: Symbolizer
 second_title: Aspose.GIS for .NET API 参考
-description: 应用到特征的符号
+description: 应用于特征的符号器
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering.symbolizers/rule/symbolizer/
 ---
 ## Rule.Symbolizer property
 
-应用到特征的符号。
+应用于特征的符号器。
 
 ```csharp
 public VectorSymbolizer Symbolizer { get; }

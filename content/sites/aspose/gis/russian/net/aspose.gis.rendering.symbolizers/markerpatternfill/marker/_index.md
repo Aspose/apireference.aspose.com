@@ -1,14 +1,14 @@
 ---
 title: Marker
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает символизатор маркера для заливки.
+description: Указывает символизатор маркера для заполнения.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.rendering.symbolizers/markerpatternfill/marker/
 ---
 ## MarkerPatternFill.Marker property
 
-Задает символизатор маркера для заливки.
+Указывает символизатор маркера для заполнения.
 
 ```csharp
 public VectorSymbolizer Marker { get; set; }

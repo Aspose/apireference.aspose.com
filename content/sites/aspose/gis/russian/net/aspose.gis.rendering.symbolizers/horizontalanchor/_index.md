@@ -3,7 +3,7 @@ title: HorizontalAnchor
 second_title: Справочник по Aspose.GIS for .NET API
 description: Указывает сторону для выравнивания по горизонтали.
 type: docs
-weight: 1710
+weight: 1720
 url: /ru/net/aspose.gis.rendering.symbolizers/horizontalanchor/
 ---
 ## HorizontalAnchor enumeration

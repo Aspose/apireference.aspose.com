@@ -22,7 +22,7 @@ public string Name { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Имя атрибута:`null`. |
+| ArgumentNullException | Имя атрибута`null`. |
 | InvalidOperationException | Атрибут заблокирован. |
 
 ### Смотрите также

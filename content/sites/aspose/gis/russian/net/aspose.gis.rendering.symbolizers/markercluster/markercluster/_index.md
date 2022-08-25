@@ -1,14 +1,14 @@
 ---
 title: MarkerCluster
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаMarkerClusteraspose.gis.rendering.symbolizers/markercluster.
+description: Инициализирует новый экземплярMarkerClusteraspose.gis.rendering.symbolizers/markercluster класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.symbolizers/markercluster/markercluster/
 ---
 ## MarkerCluster(Measurement) {#constructor}
 
-Инициализирует новый экземпляр класса[`MarkerCluster`](../../markercluster).
+Инициализирует новый экземпляр[`MarkerCluster`](../../markercluster) класс.
 
 ```csharp
 public MarkerCluster(Measurement distance)
@@ -16,7 +16,7 @@ public MarkerCluster(Measurement distance)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| distance | Measurement | Указывает расстояние, на котором собираются ближайшие точки. |
+| distance | Measurement | Указывает расстояние, которое собирает ближайшие точки. |
 
 ### Исключения
 
@@ -35,7 +35,7 @@ public MarkerCluster(Measurement distance)
 
 ## MarkerCluster(MarkerCluster) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`MarkerCluster`](../../markercluster).
+Инициализирует новый экземпляр[`MarkerCluster`](../../markercluster) класс.
 
 ```csharp
 public MarkerCluster(MarkerCluster other)
@@ -43,13 +43,13 @@ public MarkerCluster(MarkerCluster other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | MarkerCluster | Другой[`MarkerCluster`](../../markercluster)для копирования данных из . |
+| other | MarkerCluster | Другой[`MarkerCluster`](../../markercluster) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

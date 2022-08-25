@@ -1,14 +1,14 @@
 ---
 title: NullLabeling
 second_title: Справочник по Aspose.GIS for .NET API
-description: NullLabeling./nulllabelingпропускает маркировку геометрии к которой он применяется.
+description: NullLabeling./nulllabeling пропускает маркировку геометрии к которой он применяется.
 type: docs
-weight: 1560
+weight: 1570
 url: /ru/net/aspose.gis.rendering.labelings/nulllabeling/
 ---
 ## NullLabeling class
 
-[`NullLabeling`](../nulllabeling)пропускает маркировку геометрии, к которой он применяется.
+[`NullLabeling`](../nulllabeling) пропускает маркировку геометрии, к которой он применяется.
 
 ```csharp
 public class NullLabeling : Labeling
@@ -18,7 +18,7 @@ public class NullLabeling : Labeling
 
 | Имя | Описание |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.labelings/nulllabeling/instance) { get; } | Получает экземпляр[`NullLabeling`](../nulllabeling). |
+| static [Instance](../../aspose.gis.rendering.labelings/nulllabeling/instance) { get; } | Получает экземпляр[`NullLabeling`](../nulllabeling) . |
 
 ### Смотрите также
 

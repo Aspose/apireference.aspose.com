@@ -1,14 +1,14 @@
 ---
 title: Validate
 second_title: Aspose.GIS for .NET API 参考
-description: 确定此 SRS 是否有效有关有效性说明请参见String
+description: 确定此 SRS 是否有效看Validateaspose.gis.spatialreferencing/spatialreferencesystem/validate有效性说明
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/validate/
 ---
 ## VerticalSpatialReferenceSystem.Validate method
 
-确定此 SRS 是否有效。有关有效性说明，请参见String@)。
+确定此 SRS 是否有效。看[`Validate`](../../spatialreferencesystem/validate)有效性说明。
 
 ```csharp
 public override bool Validate(out string errorMessage)
@@ -16,11 +16,11 @@ public override bool Validate(out string errorMessage)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| errorMessage | String& | 无效说明（如果结果为`false`） |
+| errorMessage | String& | 无效的描述（如果结果是`false`) |
 
 ### 返回值
 
-如果此 SRS 有效 -`true`，否则 -`false`。
+如果此 SRS 有效 -`true` ， 否则 -`false`.
 
 ### 也可以看看
 

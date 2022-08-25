@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.GIS for .NET API 参考
-description: 添加新的LabelingRuleaspose.gis.rendering.labelings/labelingrule
+description: 添加新的LabelingRuleaspose.gis.rendering.labelings/labelingrule.
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.labelings/rulebasedlabeling/add/
 ---
 ## Add(Func&lt;Feature, bool&gt;, Labeling) {#add_1}
 
-添加新的[`LabelingRule`](../../labelingrule)。
+添加新的[`LabelingRule`](../../labelingrule).
 
 ```csharp
 public void Add(Func<Feature, bool> filter, Labeling labeling)
@@ -16,8 +16,8 @@ public void Add(Func<Feature, bool> filter, Labeling labeling)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filter | Func`2 | 确定何时应将标签应用于特征。 |
-| labeling | Labeling | 标签在*filter*返回 true 时应用于功能。 |
+| filter | Func`2 | 确定何时应将标签应用于要素。 |
+| labeling | Labeling | 标记应用到特征时*filter*返回真。 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public void Add(LabelingRule rule)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

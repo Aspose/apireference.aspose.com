@@ -1,14 +1,14 @@
 ---
 title: PointGeneratorOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Опции from производят точки на поверхности или области.
+description: Варианты создания точек на поверхности или площади.
 type: docs
-weight: 740
+weight: 750
 url: /ru/net/aspose.gis.geotools/pointgeneratoroptions/
 ---
 ## PointGeneratorOptions class
 
-Опции from производят точки на поверхности или области.
+Варианты создания точек на поверхности или площади.
 
 ```csharp
 public class PointGeneratorOptions
@@ -18,22 +18,22 @@ public class PointGeneratorOptions
 
 | Имя | Описание |
 | --- | --- |
-| [PointGeneratorOptions](pointgeneratoroptions#constructor)() | Создать экземпляр с полями инициализации по умолчанию. |
-| [PointGeneratorOptions](pointgeneratoroptions#constructor_1)(int, int) | Создать экземпляр. |
+| [PointGeneratorOptions](pointgeneratoroptions)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.gis.geotools/pointgeneratoroptions/count) { get; set; } | Количество точек для создания. |
+| [Place](../../aspose.gis.geotools/pointgeneratoroptions/place) { get; set; } | Режим размещения в сгенерированных ячейках. |
 | [Seed](../../aspose.gis.geotools/pointgeneratoroptions/seed) { get; set; } | Число, используемое для вычисления начального значения для последовательности псевдослучайных чисел. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/pointgeneratoroptions/clone)() | Клонировать объекты один в другой. |
-| override [ToString](../../aspose.gis.geotools/pointgeneratoroptions/tostring)() | Возвращает строку, представляющую текущий объект. |
+| [Clone](../../aspose.gis.geotools/pointgeneratoroptions/clone)() | Клонировать объекты друг в друга. |
+| override [ToString](../../aspose.gis.geotools/pointgeneratoroptions/tostring)() | Возвращает строку, которая представляет текущий объект. |
 
 ### Смотрите также
 

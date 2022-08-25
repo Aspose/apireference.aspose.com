@@ -1,14 +1,14 @@
 ---
 title: InteriorRingsCount
 second_title: Aspose.GIS for .NET API 参考
-description: 获取内部环的数量
+description: 获取内环数
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/icurvepolygon/interiorringscount/
 ---
 ## ICurvePolygon.InteriorRingsCount property
 
-获取内部环的数量。
+获取内环数。
 
 ```csharp
 public int InteriorRingsCount { get; }

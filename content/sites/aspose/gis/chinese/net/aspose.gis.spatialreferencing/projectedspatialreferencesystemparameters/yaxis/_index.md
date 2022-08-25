@@ -1,14 +1,14 @@
 ---
 title: YAxis
 second_title: Aspose.GIS for .NET API 参考
-description: 描述 Y垂直维度的轴默认为北向轴
+description: 描述 Y垂直尺寸的轴默认为北向轴
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/
 ---
 ## ProjectedSpatialReferenceSystemParameters.YAxis property
 
-描述 Y（垂直）维度的轴。默认为北向轴。
+描述 Y（垂直）尺寸的轴。默认为北向轴。
 
 ```csharp
 public Axis YAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis YAxis { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 如果轴方向不是从设置器抛出North或South。 |
+| ArgumentException | 如果轴方向不是从 setter 抛出North或者South. |
 
 ### 也可以看看
 

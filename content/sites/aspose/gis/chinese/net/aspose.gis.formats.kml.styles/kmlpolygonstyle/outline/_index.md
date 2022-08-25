@@ -1,14 +1,14 @@
 ---
 title: Outline
 second_title: Aspose.GIS for .NET API 参考
-description: 指定是否勾勒多边形默认值为true
+description: 指定是否勾勒多边形默认值为true.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/outline/
 ---
 ## KmlPolygonStyle.Outline property
 
-指定是否勾勒多边形。默认值为`true`。
+指定是否勾勒多边形。默认值为`true`.
 
 ```csharp
 public bool Outline { get; set; }

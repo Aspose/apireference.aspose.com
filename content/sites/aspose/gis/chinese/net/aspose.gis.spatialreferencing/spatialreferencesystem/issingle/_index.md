@@ -16,7 +16,7 @@ public bool IsSingle { get; }
 
 ### 评论
 
-在 WKT 中，这是除 COMPD_CS 之外的任何坐标系。
+在 WKT 中，这是任何坐标系，除了 COMPD_CS.
 
 ### 也可以看看
 

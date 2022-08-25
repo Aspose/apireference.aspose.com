@@ -1,14 +1,14 @@
 ---
 title: TransformationException
 second_title: Справочник по Aspose.GIS for .NET API
-description: Исключение преобразования выдается когда возникает ошибка во время преобразования координаты или при создании преобразования.
+description: Исключение преобразования возникает когда возникает ошибка во время преобразования координат или во время создания преобразования.
 type: docs
-weight: 2170
+weight: 2180
 url: /ru/net/aspose.gis.spatialreferencing/transformationexception/
 ---
 ## TransformationException class
 
-Исключение преобразования выдается, когда возникает ошибка во время преобразования координаты или при создании преобразования.
+Исключение преобразования возникает, когда возникает ошибка во время преобразования координат или во время создания преобразования.
 
 ```csharp
 public class TransformationException : Exception

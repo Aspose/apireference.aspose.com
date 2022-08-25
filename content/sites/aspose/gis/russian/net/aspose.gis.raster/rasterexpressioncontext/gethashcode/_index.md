@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает хэш-код для этого экземпляра.
+description: Возвращает хэшкод для этого экземпляра.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.raster/rasterexpressioncontext/gethashcode/
@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-32-разрядное целое число со знаком, которое является хэш-кодом для данного экземпляра.
+32-битное целое число со знаком, которое является хэш-кодом для этого экземпляра.
 
 ### Смотрите также
 

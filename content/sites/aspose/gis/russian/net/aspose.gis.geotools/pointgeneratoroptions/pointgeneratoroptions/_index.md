@@ -1,39 +1,18 @@
 ---
 title: PointGeneratorOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создать экземпляр с полями инициализации по умолчанию.
+description: Конструктор по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geotools/pointgeneratoroptions/pointgeneratoroptions/
 ---
-## PointGeneratorOptions() {#constructor}
+## PointGeneratorOptions constructor
 
-Создать экземпляр с полями инициализации по умолчанию.
+Конструктор по умолчанию.
 
 ```csharp
 public PointGeneratorOptions()
 ```
-
-### Смотрите также
-
-* class [PointGeneratorOptions](../../pointgeneratoroptions)
-* пространство имен [Aspose.Gis.GeoTools](../../pointgeneratoroptions)
-* сборка [Aspose.GIS](../../../)
-
----
-
-## PointGeneratorOptions(int, int) {#constructor_1}
-
-Создать экземпляр.
-
-```csharp
-public PointGeneratorOptions(int count, int seed = -1)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| count | Int32 | Количество создаваемых точек. |
-| seed | Int32 | Число, используемое для вычисления начального значения для последовательности псевдослучайных чисел. |
 
 ### Смотрите также
 

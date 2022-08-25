@@ -16,17 +16,17 @@ public bool Intersects(Extent extent)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| extent | Extent | Экстент. |
+| extent | Extent | Степень. |
 
 ### Возвращаемое значение
 
-`true`если эта геометрия пересекает экстент;`false`иначе.
+`true` если эта геометрия пересекает экстент;`false` иначе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 
@@ -52,19 +52,19 @@ public bool Intersects(IGeometry other)
 
 ### Возвращаемое значение
 
-`true`если эта геометрия "пространственно пересекает" другую геометрию.`false`иначе.
+`true` если эта геометрия «пространственно пересекает» другую геометрию.`false` иначе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Одна из геометрий недействительна, поэтому операция не может быть завершена. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Примечания
 
-Этот метод эквивалентен: Это отрицание[`Disjoint`](../disjoint). См.[`Disjoint`](../disjoint)для более подробной информации.
+Этот метод эквивалентен: Это отрицание[`Disjoint`](../disjoint) . Видеть[`Disjoint`](../disjoint) для более подробной информации.
 
 ```csharp
 !this.Disjoint(other);

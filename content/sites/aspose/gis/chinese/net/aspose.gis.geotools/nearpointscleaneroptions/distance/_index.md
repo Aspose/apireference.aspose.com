@@ -1,14 +1,14 @@
 ---
 title: Distance
 second_title: Aspose.GIS for .NET API 参考
-description: 检查参数是点靠近另一个点默认值为 0
+description: 检查参数是点靠近另一个点默认值为 0.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geotools/nearpointscleaneroptions/distance/
 ---
 ## NearPointsCleanerOptions.Distance property
 
-检查参数是点靠近另一个点。默认值为 0。
+检查参数是点靠近另一个点。默认值为 0.
 
 ```csharp
 public double Distance { get; set; }

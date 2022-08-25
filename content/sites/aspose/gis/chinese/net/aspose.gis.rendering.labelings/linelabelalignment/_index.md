@@ -1,14 +1,14 @@
 ---
 title: LineLabelAlignment
 second_title: Aspose.GIS for .NET API 参考
-description: 指定标签如何与行对齐
+description: 指定标签如何与线对齐
 type: docs
-weight: 1530
+weight: 1540
 url: /zh/net/aspose.gis.rendering.labelings/linelabelalignment/
 ---
 ## LineLabelAlignment enumeration
 
-指定标签如何与行对齐。
+指定标签如何与线对齐。
 
 ```csharp
 public enum LineLabelAlignment

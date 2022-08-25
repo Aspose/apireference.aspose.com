@@ -1,14 +1,14 @@
 ---
 title: ExportToWkt
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает представление этого SRS в виде строки WKT. Результирующая строка WKT будет соответствовать спецификации OGC 01-009 обычно называемой WKT1.
+description: Возвращает представление этой SRS в виде строки WKT. Результирующая строка WKT будет соответствовать спецификации OGC 01009 обычно именуемой WKT1.
 type: docs
 weight: 190
 url: /ru/net/aspose.gis.spatialreferencing/spatialreferencesystem/exporttowkt/
 ---
 ## SpatialReferenceSystem.ExportToWkt method
 
-Возвращает представление этого SRS в виде строки WKT. Результирующая строка WKT будет соответствовать спецификации OGC 01-009, обычно называемой "WKT1".
+Возвращает представление этой SRS в виде строки WKT. Результирующая строка WKT будет соответствовать спецификации OGC 01-009, обычно именуемой "WKT1".
 
 ```csharp
 public string ExportToWkt()
@@ -22,7 +22,7 @@ WKT представление этой SRS.
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | Это представление SRS будет содержатьNaN,PositiveInfinityилиNegativeInfinity. |
+| InvalidOperationException | Это представление SRS будет содержатьNaN ,PositiveInfinity или жеNegativeInfinity . |
 
 ### Смотрите также
 

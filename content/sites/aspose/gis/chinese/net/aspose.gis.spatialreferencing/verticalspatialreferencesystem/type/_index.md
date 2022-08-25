@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.GIS for .NET API 参考
-description: 返回Vertical
+description: 返回Vertical.
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/type/
 ---
 ## VerticalSpatialReferenceSystem.Type property
 
-返回Vertical。
+返回Vertical.
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }

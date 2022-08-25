@@ -1,14 +1,14 @@
 ---
 title: BandColor
 second_title: Справочник по Aspose.GIS for .NET API
-description: Связывает значения каналов и компонент цвета для указанного индекса каналов. Значения диапазона между min и max будут интерполированы линейно.
+description: Связывает значения полосы и компонент цвета для указанного индекса полосы. Значения полосы между минимумом и максимумом будут интерполированы линейно.
 type: docs
-weight: 1390
+weight: 1400
 url: /ru/net/aspose.gis.rendering.colorizers/bandcolor/
 ---
 ## BandColor class
 
-Связывает значения каналов и компонент цвета для указанного индекса каналов. Значения диапазона между min и max будут интерполированы линейно.
+Связывает значения полосы и компонент цвета для указанного индекса полосы. Значения полосы между минимумом и максимумом будут интерполированы линейно.
 
 ```csharp
 public class BandColor
@@ -24,9 +24,9 @@ public class BandColor
 
 | Имя | Описание |
 | --- | --- |
-| [BandIndex](../../aspose.gis.rendering.colorizers/bandcolor/bandindex) { get; set; } | Задает индекс полосы. Нумерация начинается с 0. |
+| [BandIndex](../../aspose.gis.rendering.colorizers/bandcolor/bandindex) { get; set; } | Определяет индекс полосы. Нумерация начинается с 0. |
 | [Max](../../aspose.gis.rendering.colorizers/bandcolor/max) { get; set; } | Указывает максимальное значение. |
-| [Min](../../aspose.gis.rendering.colorizers/bandcolor/min) { get; set; } | Указывает минимальное значение. |
+| [Min](../../aspose.gis.rendering.colorizers/bandcolor/min) { get; set; } | Задает минимальное значение. |
 
 ### Смотрите также
 

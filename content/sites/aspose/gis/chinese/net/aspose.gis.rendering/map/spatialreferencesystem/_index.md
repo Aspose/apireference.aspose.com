@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystemaspose.gis.rendering/map/spatialreferencesystem地图
+description: SpatialReferenceSystemaspose.gis.rendering/map/spatialreferencesystem的地图
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.rendering/map/spatialreferencesystem/
 ---
 ## Map.SpatialReferenceSystem property
 
-`SpatialReferenceSystem`地图。
+`SpatialReferenceSystem`的地图。
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
@@ -18,8 +18,8 @@ public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 值不是Projected或Geographic。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 值不是Projected或者Geographic. |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Jpeg
 second_title: Справочник по Aspose.GIS for .NET API
-description: Модуль рендеринга который выполняет рендеринг в формате JPEG.
+description: Средство визуализации которое выполняет рендеринг в формате JPEG.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.rendering/renderers/jpeg/
 ---
 ## Renderers.Jpeg property
 
-Модуль рендеринга, который выполняет рендеринг в формате JPEG.
+Средство визуализации, которое выполняет рендеринг в формате JPEG.
 
 ```csharp
 public static JpegRenderer Jpeg { get; }

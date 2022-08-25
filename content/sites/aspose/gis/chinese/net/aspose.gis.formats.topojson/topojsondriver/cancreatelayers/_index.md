@@ -16,7 +16,7 @@ public override bool CanCreateLayers { get; }
 
 ### 适当的价值
 
-`true`，如果此驱动程序可以创建矢量图层；否则，`false`。
+`true` ，如果这个驱动程序可以创建矢量图层；否则，`false`.
 
 ### 也可以看看
 

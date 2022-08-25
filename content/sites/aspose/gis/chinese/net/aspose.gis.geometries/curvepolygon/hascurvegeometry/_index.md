@@ -1,14 +1,14 @@
 ---
 title: HasCurveGeometry
 second_title: Aspose.GIS for .NET API 参考
-description: 获取一个值该值指示此几何图形是还是包含曲线非线性几何图形
+description: 获取一个值该值指示此几何图形是否是或包含曲线非线性几何图形
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geometries/curvepolygon/hascurvegeometry/
 ---
 ## CurvePolygon.HasCurveGeometry property
 
-获取一个值，该值指示此几何图形是还是包含曲线（非线性）几何图形。
+获取一个值，该值指示此几何图形是否是或包含曲线（非线性）几何图形。
 
 ```csharp
 public override bool HasCurveGeometry { get; }
@@ -16,7 +16,7 @@ public override bool HasCurveGeometry { get; }
 
 ### 适当的价值
 
-`false`如果此几何图形及其包含的所有几何图形都是线性的；否则，`true`。
+`false`如果此几何及其包含的所有几何都是线性的；否则，`true`.
 
 ### 也可以看看
 

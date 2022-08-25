@@ -1,14 +1,14 @@
 ---
 title: Overlaps
 second_title: Aspose.GIS for .NET API 参考
-description: 确定此几何是否与指定几何重叠
+description: 确定此几何图形是否与指定几何图形重叠
 type: docs
 weight: 290
 url: /zh/net/aspose.gis.geometries/geometry/overlaps/
 ---
 ## Geometry.Overlaps method
 
-确定此几何是否与指定几何重叠。
+确定此几何图形是否与指定几何图形重叠。
 
 ```csharp
 public bool Overlaps(IGeometry other)
@@ -20,19 +20,19 @@ public bool Overlaps(IGeometry other)
 
 ### 返回值
 
-`true`如果这个几何“空间重叠”另一个几何。`false`否则。
+`true`如果这个几何图形是“空间重叠”另一个几何图形。`false`否则。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 其中一个几何图形无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何不等价。 您可以使用SpatialReferenceSystemTransformation将几何图形转换为相同的空间 参考系统。 |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 其中一个几何图形无效，操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)几何图形不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)为了将几何图形转换为相同的 spatial 参考系统。 |
 
 ### 评论
 
-此方法根据 DE-9IM 交集矩阵测试几何是否重叠。 两个几何重叠，如果它们有一些但不是所有的内部点是共同的，并且几何的交集 与几何本身具有相同的维度。&lt;cr /&gt; 对于两个Point几何或两个Surface几何这个 方法等价于: 对于两个Line几何，此方法是相当于: 对于两个不相等的几何[`Dimension`](../../igeometry/dimension)此方法总是返回`错误的`。 有关 DE-9IM 和“空间重叠”关系的更多详细信息，请参阅 OpenGIS 简单功能规范。
+此方法根据 DE-9IM 相交矩阵测试几何是否重叠。 两个几何重叠，如果它们有一些但不是所有的内部点共有，并且几何的交集 与几何本身具有相同的维度。 两个Point几何或两个Surface几何 this 方法等价于： 两个Line几何这个方法等价于： 对于两个不相等的几何[`Dimension`](../../igeometry/dimension)这个方法总是返回`false`. 有关 DE-9IM 和“空间重叠”关系的更多详细信息，请参阅 OpenGIS 简单功能规范。
 
 ```csharp
 this.Relate(other, "T*T***T**");

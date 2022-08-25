@@ -32,7 +32,7 @@ public Extent(SpatialReferenceSystem srs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srs | SpatialReferenceSystem | SpatialReferenceSystem与此范围相关联。 可以是`null`表示 SRS 未知。 |
+| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)与这个extent关联。 可以`null`表示 SRS 未知。 |
 
 ### 也可以看看
 
@@ -57,7 +57,7 @@ public Extent(double xMin, double yMin, double xMax, double yMax, SpatialReferen
 | yMin | Double | 最小 Y 值。 |
 | xMax | Double | 最大 X 值。 |
 | yMax | Double | 最大 Y 值。 |
-| srs | SpatialReferenceSystem | SpatialReferenceSystem与此范围相关联。 可以是`null`表示 SRS 未知。 |
+| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)与这个extent关联。 可以`null`表示 SRS 未知。 |
 
 ### 也可以看看
 

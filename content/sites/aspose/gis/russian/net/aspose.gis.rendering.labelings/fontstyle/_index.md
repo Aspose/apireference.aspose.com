@@ -1,14 +1,14 @@
 ---
 title: FontStyle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает стиль применяемый к тексту.
+description: Определяет стиль который будет применен к тексту.
 type: docs
-weight: 1490
+weight: 1500
 url: /ru/net/aspose.gis.rendering.labelings/fontstyle/
 ---
 ## FontStyle enumeration
 
-Задает стиль, применяемый к тексту.
+Определяет стиль, который будет применен к тексту.
 
 ```csharp
 [Flags]

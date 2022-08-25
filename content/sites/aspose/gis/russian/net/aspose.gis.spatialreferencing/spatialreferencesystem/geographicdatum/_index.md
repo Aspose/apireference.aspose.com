@@ -18,7 +18,7 @@ public abstract GeographicDatum GeographicDatum { get; }
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | Этот SRS не имеет географической точки отсчета.[`HasGeographicDatum`](../hasgeographicdatum) |
+| InvalidOperationException | Эта SRS не имеет географической точки отсчета.[`HasGeographicDatum`](../hasgeographicdatum) |
 
 ### Смотрите также
 

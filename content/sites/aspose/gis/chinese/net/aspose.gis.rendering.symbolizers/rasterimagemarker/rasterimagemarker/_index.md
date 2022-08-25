@@ -1,14 +1,14 @@
 ---
 title: RasterImageMarker
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化RasterImageMarkeraspose.gis.rendering.symbolizers/rasterimagemarker类的新实例
+description: 初始化一个新的实例RasterImageMarkeraspose.gis.rendering.symbolizers/rasterimagemarker班级
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/rasterimagemarker/
 ---
 ## RasterImageMarker(string) {#constructor_2}
 
-初始化[`RasterImageMarker`](../../rasterimagemarker)类的新实例。
+初始化一个新的实例[`RasterImageMarker`](../../rasterimagemarker)班级。
 
 ```csharp
 public RasterImageMarker(string imagePath)
@@ -16,7 +16,7 @@ public RasterImageMarker(string imagePath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imagePath | String | 文件路径。 |
+| imagePath | String | 文件的路径。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public RasterImageMarker(string imagePath)
 
 ## RasterImageMarker(AbstractPath) {#constructor}
 
-初始化[`RasterImageMarker`](../../rasterimagemarker)类的新实例。
+初始化一个新的实例[`RasterImageMarker`](../../rasterimagemarker)班级。
 
 ```csharp
 public RasterImageMarker(AbstractPath imagePath)
@@ -36,7 +36,7 @@ public RasterImageMarker(AbstractPath imagePath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imagePath | AbstractPath | 文件路径。 |
+| imagePath | AbstractPath | 文件的路径。 |
 
 ### 也可以看看
 
@@ -49,7 +49,7 @@ public RasterImageMarker(AbstractPath imagePath)
 
 ## RasterImageMarker(RasterImageMarker) {#constructor_1}
 
-初始化[`RasterImageMarker`](../../rasterimagemarker)类的新实例。
+初始化一个新的实例[`RasterImageMarker`](../../rasterimagemarker)班级。
 
 ```csharp
 public RasterImageMarker(RasterImageMarker other)
@@ -63,7 +63,7 @@ public RasterImageMarker(RasterImageMarker other)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

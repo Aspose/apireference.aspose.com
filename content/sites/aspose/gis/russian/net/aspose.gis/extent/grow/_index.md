@@ -16,18 +16,18 @@ public void Grow(Extent extent)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| extent | Extent | Другой экстент. |
+| extent | Extent | Другая степень. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)этого экстента и аргумента не являются`null`и не равны друг другу. |
+| ArgumentNullException | Аргумент`null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem) в этой степени и аргумент оба не`null` и не равны друг другу. |
 
 ### Примечания
 
-Если[`SpatialReferenceSystem`](../spatialreferencesystem)этого SRS равен`null`, затем он обновляется с помощью SRS аргумента.
+Если[`SpatialReferenceSystem`](../spatialreferencesystem) этой СГД является`null` затем он обновляется с помощью SRS аргумента.
 
 ### Смотрите также
 
@@ -39,7 +39,7 @@ public void Grow(Extent extent)
 
 ## Grow(double, double) {#grow_1}
 
-Увеличивает экстент таким образом, чтобы он включал указанную точку.
+Увеличивает этот экстент, чтобы он включал указанную точку.
 
 ```csharp
 public void Grow(double x, double y)

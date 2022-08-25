@@ -27,13 +27,13 @@ public static class Drivers
 | static [Gpx](../../aspose.gis/drivers/gpx) { get; } | GPX 格式的驱动程序。 |
 | static [Kml](../../aspose.gis/drivers/kml) { get; } | KML 格式的驱动程序。 |
 | static [MapInfoInterchange](../../aspose.gis/drivers/mapinfointerchange) { get; } | MapInfo 交换格式的驱动程序。 |
-| static [MapInfoTab](../../aspose.gis/drivers/mapinfotab) { get; } | MapInfo Tab 格式的驱动程序。 |
+| static [MapInfoTab](../../aspose.gis/drivers/mapinfotab) { get; } | MapInfo 选项卡格式的驱动程序。 |
 | static [OsmXml](../../aspose.gis/drivers/osmxml) { get; } | OSM XML 格式的驱动程序。 |
 | static [PostGis](../../aspose.gis/drivers/postgis) { get; } | PostGIS 数据库的驱动程序。 |
 | static [Shapefile](../../aspose.gis/drivers/shapefile) { get; } | Shapefile 格式的驱动程序。 |
 | static [SqlServer](../../aspose.gis/drivers/sqlserver) { get; } | SQL Server 数据库的驱动程序。 |
 | static [TopoJson](../../aspose.gis/drivers/topojson) { get; } | TopoJSON 格式的驱动程序。 |
-| static [XyzTiles](../../aspose.gis/drivers/xyztiles) { get; } | 平铺网络地图的驱动程序，如 OpenStreetMaps、谷歌地图等 |
+| static [XyzTiles](../../aspose.gis/drivers/xyztiles) { get; } | 平铺网络地图的驱动程序，如 OpenStreetMaps、Google 地图等。 |
 
 ### 也可以看看
 

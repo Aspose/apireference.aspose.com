@@ -1,14 +1,14 @@
 ---
 title: ScaleY
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает y-компонент высоты ячейки или пикселя y-масштаб обычно отрицательный.
+description: Получает yкомпонент ячейки или высоту пикселя yмасштаб обычно отрицательный.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.raster/irastercellsize/scaley/
 ---
 ## IRasterCellSize.ScaleY property
 
-Получает y-компонент высоты ячейки или пикселя (y-масштаб), обычно отрицательный.
+Получает y-компонент ячейки или высоту пикселя (y-масштаб), обычно отрицательный.
 
 ```csharp
 public double ScaleY { get; }

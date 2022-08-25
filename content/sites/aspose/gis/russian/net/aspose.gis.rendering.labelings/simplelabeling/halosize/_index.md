@@ -18,7 +18,7 @@ public Measurement HaloSize { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Отрицательное значение. |
+| ArgumentException | Значение отрицательное. |
 
 ### Смотрите также
 

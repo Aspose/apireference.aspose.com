@@ -1,14 +1,14 @@
 ---
 title: GetTransformed
 second_title: Aspose.GIS for .NET API 参考
-description: 在包含此范围的指定SpatialReferenceSystem中返回新范围
+description: 返回指定范围内的新范围SpatialReferenceSystemaspose.gis.spatialreferencing/spatialreferencesystem包含此范围
 type: docs
 weight: 150
 url: /zh/net/aspose.gis/extent/gettransformed/
 ---
 ## Extent.GetTransformed method
 
-在包含此范围的指定SpatialReferenceSystem中返回新范围。
+返回指定范围内的新范围[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)包含此范围。
 
 ```csharp
 public Extent GetTransformed(SpatialReferenceSystem targetSrs)
@@ -16,7 +16,7 @@ public Extent GetTransformed(SpatialReferenceSystem targetSrs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | SpatialReferenceSystem转换为。 |
+| targetSrs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem)转变为。 |
 
 ### 返回值
 
@@ -26,10 +26,10 @@ public Extent GetTransformed(SpatialReferenceSystem targetSrs)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 | NotSupportedException | 不支持转换为提供的 SRS。 |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 转换失败。 |
-| InvalidOperationException | [`SpatialReferenceSystem`](../spatialreferencesystem)这个范围是`null`. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | 转型失败。 |
+| InvalidOperationException | [`SpatialReferenceSystem`](../spatialreferencesystem)这种程度是`null`. |
 
 ### 也可以看看
 

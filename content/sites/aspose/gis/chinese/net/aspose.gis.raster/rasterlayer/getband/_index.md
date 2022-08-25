@@ -24,7 +24,7 @@ public abstract IRasterBand GetBand(int index = 0)
 
 ### 评论
 
-如果栅格不包含任何波段，则会引发错误。
+如果 raster 不包含任何波段，则会引发错误。
 
 ### 也可以看看
 

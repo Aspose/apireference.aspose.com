@@ -3,7 +3,7 @@ title: PrimeMeridian
 second_title: Aspose.GIS for .NET API 参考
 description: PrimeMeridian 表示经度定义为 0 的子午线
 type: docs
-weight: 2090
+weight: 2100
 url: /zh/net/aspose.gis.spatialreferencing/primemeridian/
 ---
 ## PrimeMeridian class
@@ -24,8 +24,8 @@ public class PrimeMeridian : IdentifiableObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Greenwich](../../aspose.gis.spatialreferencing/primemeridian/greenwich) { get; } | 格林威治子午线。 |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | 如果此对象标识符是 EPSG 标识符 - 返回其代码。否则 - 返回 -1。 |
+| static [Greenwich](../../aspose.gis.spatialreferencing/primemeridian/greenwich) { get; } | 格林威治子午线. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | 如果此对象标识符是 EPSG 标识符 - 返回其代码。否则 - 返回 -1. |
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | 此可识别对象的标识符。 |
 | [Longitude](../../aspose.gis.spatialreferencing/primemeridian/longitude) { get; } | 从格林威治子午线到本初子午线的距离，以度为单位。 |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | 此对象的名称。 |
@@ -34,7 +34,7 @@ public class PrimeMeridian : IdentifiableObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

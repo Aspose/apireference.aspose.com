@@ -3,7 +3,7 @@ title: IRasterBand
 second_title: Aspose.GIS for .NET API 参考
 description: 包含有关栅格波段的元数据
 type: docs
-weight: 1220
+weight: 1230
 url: /zh/net/aspose.gis.raster/irasterband/
 ---
 ## IRasterBand interface

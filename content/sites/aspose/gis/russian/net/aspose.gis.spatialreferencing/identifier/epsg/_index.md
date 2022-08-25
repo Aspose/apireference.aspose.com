@@ -1,14 +1,14 @@
 ---
 title: Epsg
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новый идентификатор который представляет идентификатор EPSG с кодомepsgCode.
+description: Создает новый идентификатор который представляет идентификатор EPSG с кодомepsgCode .
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/identifier/epsg/
 ---
 ## Identifier.Epsg method
 
-Создает новый идентификатор, который представляет идентификатор EPSG с кодом*epsgCode*.
+Создает новый идентификатор, который представляет идентификатор EPSG с кодом*epsgCode* .
 
 ```csharp
 public static Identifier Epsg(int epsgCode)
@@ -16,11 +16,11 @@ public static Identifier Epsg(int epsgCode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| epsgCode | Int32 | Код EPSG. |
+| epsgCode | Int32 | EPSG-код. |
 
 ### Возвращаемое значение
 
-Новый идентификатор с[`AuthorityName`](../authorityname)"EPSG" и[`AuthorityUniqueIdentifier`](../authorityuniqueidentifier)*epsgCode*. Если*epsgCode*меньше 0 - вернуть`null`;
+Новый идентификатор с[`AuthorityName`](../authorityname) "ЭПСГ" и[`AuthorityUniqueIdentifier`](../authorityuniqueidentifier)*epsgCode* . Если*epsgCode* меньше 0 - возврат`null` ;
 
 ### Смотрите также
 

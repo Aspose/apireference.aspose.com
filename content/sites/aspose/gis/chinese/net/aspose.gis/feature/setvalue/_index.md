@@ -24,12 +24,12 @@ public void SetValue<T>(string attributeName, T value)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`。 |
+| ArgumentNullException | 属性名称是`null`. |
 | ArgumentException | 此层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未锁定。 |
-| InvalidCastException | 值的类型没有实现IConvertible。 |
-| FormatException | 转换失败，因为值格式不正确。 |
-| OverflowException | 转换因溢出而失败。 |
+| InvalidOperationException | 该属性未锁定。 |
+| InvalidCastException | 值的类型未实现IConvertible. |
+| FormatException | 转换失败，因为值的格式不正确。 |
+| OverflowException | 由于溢出，转换失败。 |
 
 ### 评论
 

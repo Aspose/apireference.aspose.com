@@ -3,7 +3,7 @@ title: IAttributesConverter
 second_title: Справочник по Aspose.GIS for .NET API
 description: Пользовательский преобразователь атрибутов слоя.
 type: docs
-weight: 1140
+weight: 1150
 url: /ru/net/aspose.gis/iattributesconverter/
 ---
 ## IAttributesConverter interface
@@ -18,7 +18,7 @@ public interface IAttributesConverter
 
 | Имя | Описание |
 | --- | --- |
-| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute)(FeatureAttribute, AttributesConverterActions) | Настраивает[`FeatureAttribute`](../featureattribute)как необходимо для целевого слоя. |
+| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute)(FeatureAttribute, AttributesConverterActions) | Регулирует[`FeatureAttribute`](../featureattribute) по мере необходимости для целевого слоя. |
 
 ### Смотрите также
 

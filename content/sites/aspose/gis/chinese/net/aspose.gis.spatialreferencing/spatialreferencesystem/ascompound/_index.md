@@ -1,14 +1,14 @@
 ---
 title: AsCompound
 second_title: Aspose.GIS for .NET API 参考
-description: 返回此 SRS 转换为CompoundSpatialReferenceSystem 使用IsCompound来确定是否可以进行转换
+description: 返回此 SRS 转换为CompoundSpatialReferenceSystemaspose.gis.spatialreferencing/compoundspatialreferencesystem. 使用IsCompoundaspose.gis.spatialreferencing/spatialreferencesystem/iscompound找出是否可以转换
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/ascompound/
 ---
 ## SpatialReferenceSystem.AsCompound property
 
-返回此 SRS 转换为CompoundSpatialReferenceSystem。 使用IsCompound来确定是否可以进行转换。
+返回此 SRS 转换为[`CompoundSpatialReferenceSystem`](../../compoundspatialreferencesystem). 使用[`IsCompound`](../iscompound)找出是否可以转换。
 
 ```csharp
 public virtual CompoundSpatialReferenceSystem AsCompound { get; }
@@ -18,7 +18,7 @@ public virtual CompoundSpatialReferenceSystem AsCompound { get; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 无法进行转换。 |
+| InvalidOperationException | 无法转换。 |
 
 ### 也可以看看
 

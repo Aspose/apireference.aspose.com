@@ -1,14 +1,14 @@
 ---
 title: AngularUnit
 second_title: Aspose.GIS for .NET API 参考
-description: 单位用于此 SRS 中的角度值和Projectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection的角度参数. 匹配Base的角度单位
+description: 单位用于此 SRS 中的角度值和角度参数Projectionaspose.gis.spatialreferencing/projectedspatialreferencesystem/projection. 匹配角度单位Baseaspose.gis.spatialreferencing/projectedspatialreferencesystem/base.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/angularunit/
 ---
 ## ProjectedSpatialReferenceSystem.AngularUnit property
 
-单位，用于此 SRS 中的角度值和[`Projection`](../projection)的角度参数. 匹配Base的角度单位。
+单位，用于此 SRS 中的角度值和角度参数[`Projection`](../projection). 匹配角度单位[`Base`](../base).
 
 ```csharp
 public abstract Unit AngularUnit { get; }

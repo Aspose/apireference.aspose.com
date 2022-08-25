@@ -3,7 +3,7 @@ title: SpatialReferenceSystemType
 second_title: Aspose.GIS for .NET API 参考
 description: 表示空间参考系统的类型
 type: docs
-weight: 2160
+weight: 2170
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystemtype/
 ---
 ## SpatialReferenceSystemType enumeration
@@ -18,12 +18,12 @@ public enum SpatialReferenceSystemType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Unknown | `0` | 默认值。 可以从[`Type`](../spatialreferencesystem/type)返回，如果这是一个复合 SRS，其中 基础 SRS 的组合无效。请参阅IsCompound。 |
-| Geographic | `1` | 地理 SRS 基于角经度和角纬度。 地理 SRS 可以通过[`GeographicSpatialReferenceSystem`](../geographicspatialreferencesystem)通过 [`AsGeographic`](../spatialreferencesystem/asgeographic) 方法。 |
-| Geocentric | `2` | 地心 SRS 是三维笛卡尔 SRS，原点位于地球中心。 Geocentric SRS 可以转换为[`GeocentricSpatialReferenceSystem`](../geocentricspatialreferencesystem) 通过 [`AsGeocentric`](../spatialreferencesystem/asgeocentric)方法。 |
-| Projected | `3` | 投影 SRS 基于线性 X 和线性 Y。它是在上应用投影的结果GeographicSRS。 投影 SRS 可以通过[`ProjectedSpatialReferenceSystem`](../projectedspatialreferencesystem) 转换为[`AsProjected`](../spatialreferencesystem/asprojected)方法。 |
-| Vertical | `4` | Vertical SRS 描述线性高度坐标。 垂直 SRS 可以通过[`VerticalSpatialReferenceSystem`](../verticalspatialreferencesystem) 转换为[`AsVertical`](../spatialreferencesystem/asvertical) 方法。 |
-| Local | `5` | 本地 SRS 将坐标与某个对象相关联，其他对象是地球。 本地 SRS 可以通过[`LocalSpatialReferenceSystem`](../localspatialreferencesystem) 转换为[`AsLocal`](../spatialreferencesystem/aslocal) 方法。 |
+| Unknown | `0` | 默认值。 可以从[`Type`](../spatialreferencesystem/type)如果这是一个复合 SRS，其中 基础 SRS 的组合无效。看[`IsCompound`](../spatialreferencesystem/iscompound). |
+| Geographic | `1` | 地理 SRS 是基于角经度和角纬度的。 地理 SRS 可以转换为[`GeographicSpatialReferenceSystem`](../geographicspatialreferencesystem) 通过[`AsGeographic`](../spatialreferencesystem/asgeographic)方法. |
+| Geocentric | `2` | 地心 SRS 是三维笛卡尔 SRS，原点位于地球中心。 地心 SRS 可以转换为[`GeocentricSpatialReferenceSystem`](../geocentricspatialreferencesystem) 通过[`AsGeocentric`](../spatialreferencesystem/asgeocentric)方法. |
+| Projected | `3` | 投影 SRS 基于线性 X 和线性 Y。它是在 a 上应用投影的结果GeographicSRS. 投影的 SRS 可以转换为[`ProjectedSpatialReferenceSystem`](../projectedspatialreferencesystem) 通过[`AsProjected`](../spatialreferencesystem/asprojected)方法. |
+| Vertical | `4` | Vertical SRS 描述线性高度坐标。 Vertical SRS 可以转换为[`VerticalSpatialReferenceSystem`](../verticalspatialreferencesystem) 通过[`AsVertical`](../spatialreferencesystem/asvertical)方法. |
+| Local | `5` | 本地 SRS 将坐标与某个对象相关联，其他对象与地球相关。 本地 SRS 可以转换为[`LocalSpatialReferenceSystem`](../localspatialreferencesystem) 通过[`AsLocal`](../spatialreferencesystem/aslocal)方法. |
 
 ### 也可以看看
 

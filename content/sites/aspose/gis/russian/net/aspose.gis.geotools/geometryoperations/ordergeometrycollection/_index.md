@@ -16,7 +16,7 @@ public static IGeometry OrderGeometryCollection(IGeometry geometry)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| geometry | IGeometry | Коллекция геометрии для заказа |
+| geometry | IGeometry | Коллекция геометрии на заказ |
 
 ### Возвращаемое значение
 

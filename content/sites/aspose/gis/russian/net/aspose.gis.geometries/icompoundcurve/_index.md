@@ -3,7 +3,7 @@ title: ICompoundCurve
 second_title: Справочник по Aspose.GIS for .NET API
 description: Кривая представляющая собой последовательность смежных кривых так что соседние кривые соединяются в своих конечных точках.
 type: docs
-weight: 860
+weight: 870
 url: /ru/net/aspose.gis.geometries/icompoundcurve/
 ---
 ## ICompoundCurve interface
@@ -18,8 +18,8 @@ public interface ICompoundCurve : ICurve, IEnumerable<ICurve>, IEquatable<ICompo
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.gis.geometries/icompoundcurve/count) { get; } | Получает количество кривых в[`ICompoundCurve`](../icompoundcurve). |
-| [Item](../../aspose.gis.geometries/icompoundcurve/item) { get; } | Получает[`ICurve`](../icurve)по указанному индексу. |
+| [Count](../../aspose.gis.geometries/icompoundcurve/count) { get; } | Получает количество кривых в[`ICompoundCurve`](../icompoundcurve) . |
+| [Item](../../aspose.gis.geometries/icompoundcurve/item) { get; } | Получает[`ICurve`](../icurve) по указанному индексу. |
 
 ## Методы
 

@@ -32,7 +32,7 @@ public LayeredSymbolizer(RenderingOrder renderingOrder)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| renderingOrder | RenderingOrder | 确定渲染顺序。 &lt;ul&gt;&lt;li&gt;ByFeatures- 使用所有符号渲染特征，然后继续到下一个功能。 &lt;/li&gt;&lt;li&gt;ByLayers- 使用符号器渲染所有要素，然后继续将要素绘制到下一个符号。 &lt;/li&gt;&lt;/ul&gt; |
+| renderingOrder | RenderingOrder | 确定渲染顺序。 ByFeatures - 使用所有符号渲染特征，然后继续下一个特征。ByLayers - 使用符号器渲染所有要素，然后继续将要素绘制到下一个符号器。 |
 
 ### 也可以看看
 

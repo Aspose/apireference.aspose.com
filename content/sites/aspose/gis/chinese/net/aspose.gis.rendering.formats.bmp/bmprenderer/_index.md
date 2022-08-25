@@ -1,14 +1,14 @@
 ---
 title: BmpRenderer
 second_title: Aspose.GIS for .NET API 参考
-description: ARenderer../aspose.gis.rendering/renderer渲染Map../aspose.gis.rendering/map到 BMP 文件中
+description: 一个Renderer../aspose.gis.rendering/renderer呈现Map../aspose.gis.rendering/map进入 BMP 文件
 type: docs
-weight: 1450
+weight: 1460
 url: /zh/net/aspose.gis.rendering.formats.bmp/bmprenderer/
 ---
 ## BmpRenderer class
 
-A[`Renderer`](../../aspose.gis.rendering/renderer)渲染[`Map`](../../aspose.gis.rendering/map)到 BMP 文件中。
+一个[`Renderer`](../../aspose.gis.rendering/renderer)呈现[`Map`](../../aspose.gis.rendering/map)进入 BMP 文件。
 
 ```csharp
 public class BmpRenderer : Renderer

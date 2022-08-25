@@ -1,14 +1,14 @@
 ---
 title: HasGeographicDatum
 second_title: Aspose.GIS for .NET API 参考
-description: 返回false因为垂直 SRS 没有地理基准
+description: 返回false 因为垂直 SRS 没有地理基准
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/hasgeographicdatum/
 ---
 ## VerticalSpatialReferenceSystem.HasGeographicDatum property
 
-返回`false`，因为垂直 SRS 没有地理基准。
+返回`false` ，因为垂直 SRS 没有地理基准。
 
 ```csharp
 public override bool HasGeographicDatum { get; }

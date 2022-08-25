@@ -1,14 +1,14 @@
 ---
 title: DisplayMode
 second_title: Справочник по Aspose.GIS for .NET API
-description: Управляет отображением или скрытием всплывающей подсказки. Значение по умолчаниюShow
+description: Определяет отображается ли всплывающая подсказка или скрывается. Значение по умолчаниюShow
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.formats.kml.styles/kmlballoonstyle/displaymode/
 ---
 ## KmlBalloonStyle.DisplayMode property
 
-Управляет отображением или скрытием всплывающей подсказки. Значение по умолчанию:Show
+Определяет, отображается ли всплывающая подсказка или скрывается. Значение по умолчаниюShow
 
 ```csharp
 public KmlDisplayModes DisplayMode { get; set; }

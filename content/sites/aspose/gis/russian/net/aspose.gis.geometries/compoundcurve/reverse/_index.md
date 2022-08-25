@@ -1,14 +1,14 @@
 ---
 title: Reverse
 second_title: Справочник по Aspose.GIS for .NET API
-description: Отменяет этоCompoundCurveaspose.gis.geometries/compoundcurve. То есть - обратный порядок кривых и каждая кривая внутри этой составной кривой.
+description: Отменяет этоCompoundCurveaspose.gis.geometries/compoundcurve . То есть  обратный порядок кривых и каждой кривой внутри этой составной кривой.
 type: docs
 weight: 170
 url: /ru/net/aspose.gis.geometries/compoundcurve/reverse/
 ---
 ## CompoundCurve.Reverse method
 
-Отменяет это[`CompoundCurve`](../../compoundcurve). То есть - обратный порядок кривых и каждая кривая внутри этой составной кривой.
+Отменяет это[`CompoundCurve`](../../compoundcurve) . То есть - обратный порядок кривых и каждой кривой внутри этой составной кривой.
 
 ```csharp
 public override void Reverse()

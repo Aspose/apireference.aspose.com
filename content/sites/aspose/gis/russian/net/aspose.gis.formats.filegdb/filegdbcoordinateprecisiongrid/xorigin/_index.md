@@ -1,14 +1,14 @@
 ---
 title: XOrigin
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает начало координат X. Если установленоnullиспользуется значение по умолчанию.
+description: Получает или задает начало координаты X. Если установленоnull используется значение по умолчанию.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/
 ---
 ## FileGdbCoordinatePrecisionGrid.XOrigin property
 
-Получает или задает начало координат X. Если установлено`null`используется значение по умолчанию.
+Получает или задает начало координаты X. Если установлено`null` используется значение по умолчанию.
 
 ```csharp
 public double? XOrigin { get; set; }
@@ -16,7 +16,7 @@ public double? XOrigin { get; set; }
 
 ### Примечания
 
-Значение по умолчанию -400 для[`VectorLayer`](../../../aspose.gis/vectorlayer)с географическим[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) и -2147483647 для[`VectorLayer`](../../../aspose.gis/vectorlayer)с прогнозируемым[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem).
+Значение по умолчанию -400 для[`VectorLayer`](../../../aspose.gis/vectorlayer) с географическим[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) и -2147483647 для[`VectorLayer`](../../../aspose.gis/vectorlayer) с прогнозируемым[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem) .
 
 ### Смотрите также
 

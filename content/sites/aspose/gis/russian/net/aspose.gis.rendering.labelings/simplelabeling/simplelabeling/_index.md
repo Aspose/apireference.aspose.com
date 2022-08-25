@@ -1,14 +1,14 @@
 ---
 title: SimpleLabeling
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаSimpleLabelingaspose.gis.rendering.labelings/simplelabeling.
+description: Инициализирует новый экземплярSimpleLabelingaspose.gis.rendering.labelings/simplelabeling класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.labelings/simplelabeling/simplelabeling/
 ---
 ## SimpleLabeling() {#constructor}
 
-Инициализирует новый экземпляр класса[`SimpleLabeling`](../../simplelabeling).
+Инициализирует новый экземпляр[`SimpleLabeling`](../../simplelabeling) класс.
 
 ```csharp
 public SimpleLabeling()
@@ -24,7 +24,7 @@ public SimpleLabeling()
 
 ## SimpleLabeling(string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`SimpleLabeling`](../../simplelabeling).
+Инициализирует новый экземпляр[`SimpleLabeling`](../../simplelabeling) класс.
 
 ```csharp
 public SimpleLabeling(string labelAttribute)
@@ -44,7 +44,7 @@ public SimpleLabeling(string labelAttribute)
 
 ## SimpleLabeling(SimpleLabeling) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SimpleLabeling`](../../simplelabeling).
+Инициализирует новый экземпляр[`SimpleLabeling`](../../simplelabeling) класс.
 
 ```csharp
 public SimpleLabeling(SimpleLabeling other)
@@ -52,13 +52,13 @@ public SimpleLabeling(SimpleLabeling other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | SimpleLabeling | Другой[`SimpleLabeling`](../../simplelabeling)для копирования данных из . |
+| other | SimpleLabeling | Другой[`SimpleLabeling`](../../simplelabeling) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

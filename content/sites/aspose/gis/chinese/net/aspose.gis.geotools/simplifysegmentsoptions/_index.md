@@ -1,14 +1,14 @@
 ---
 title: SimplifySegmentsOptions
 second_title: Aspose.GIS for .NET API 参考
-description: SimplifySegmentsOptions
+description: 选项SimplifySegments./geometryoperations/simplifysegments.
 type: docs
-weight: 760
+weight: 770
 url: /zh/net/aspose.gis.geotools/simplifysegmentsoptions/
 ---
 ## SimplifySegmentsOptions class
 
-SimplifySegmentsOptions）。
+选项[`SimplifySegments`](../geometryoperations/simplifysegments).
 
 ```csharp
 public class SimplifySegmentsOptions
@@ -19,13 +19,13 @@ public class SimplifySegmentsOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [SimplifySegmentsOptions](simplifysegmentsoptions#constructor)() | 默认创建一个带有初始化字段的实例。 |
-| [SimplifySegmentsOptions](simplifysegmentsoptions#constructor_1)(SimplifySegmentsOptions) | 创建实例副本[`SimplifySegmentsOptions`](../simplifysegmentsoptions)。 |
+| [SimplifySegmentsOptions](simplifysegmentsoptions#constructor_1)(SimplifySegmentsOptions) | 创建实例副本[`SimplifySegmentsOptions`](../simplifysegmentsoptions). |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Distance](../../aspose.gis.geotools/simplifysegmentsoptions/distance) { get; set; } | 检查参数是线段附近的点。默认值为 0。 |
+| [Distance](../../aspose.gis.geotools/simplifysegmentsoptions/distance) { get; set; } | 检查参数是线段附近的点。默认值为 0. |
 
 ## 方法
 

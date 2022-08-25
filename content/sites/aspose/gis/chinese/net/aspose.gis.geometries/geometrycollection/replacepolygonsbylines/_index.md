@@ -1,14 +1,14 @@
 ---
 title: ReplacePolygonsByLines
 second_title: Aspose.GIS for .NET API 参考
-description: 获取表示为此几何图形的线的多边形
+description: 获取表示为此几何的线的多边形
 type: docs
 weight: 190
 url: /zh/net/aspose.gis.geometries/geometrycollection/replacepolygonsbylines/
 ---
 ## GeometryCollection.ReplacePolygonsByLines method
 
-获取表示为此几何图形的线的多边形。
+获取表示为此几何的线的多边形。
 
 ```csharp
 public IGeometryCollection ReplacePolygonsByLines()
@@ -16,7 +16,7 @@ public IGeometryCollection ReplacePolygonsByLines()
 
 ### 返回值
 
-几何，没有多边形几何。应用以下变换: &lt;ul&gt;&lt;li&gt;Polygons 被线性化 （变换进入LineStrings)&lt;/li&gt;&lt;li&gt;MultiPolygons 是加入MultiLineStrings&lt;/li&gt;&lt;/ul&gt;
+没有多边形几何的几何。应用以下变换： Polygon 被线性化 （转化为LineStrings)MultiPolygon s 加入MultiLineStrings
 
 ### 例外
 

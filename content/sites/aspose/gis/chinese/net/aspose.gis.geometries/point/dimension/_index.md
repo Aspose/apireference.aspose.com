@@ -1,14 +1,14 @@
 ---
 title: Dimension
 second_title: Aspose.GIS for .NET API 参考
-description: 获取此Geometry的拓扑维度
+description: 获取这个的拓扑维度Geometryaspose.gis.geometries/geometry.
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/point/dimension/
 ---
 ## Point.Dimension property
 
-获取此Geometry的拓扑维度。
+获取这个的拓扑维度[`Geometry`](../../geometry).
 
 ```csharp
 public override GeometryDimension Dimension { get; }

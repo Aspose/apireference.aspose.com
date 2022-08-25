@@ -1,14 +1,14 @@
 ---
 title: GetFileName
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возвращает имя файла и расширение этогоAbstractPathaspose.gis/abstractpath.
+description: Возвращает имя файла и расширение этогоAbstractPathaspose.gis/abstractpath .
 type: docs
 weight: 80
 url: /ru/net/aspose.gis/abstractpath/getfilename/
 ---
 ## AbstractPath.GetFileName method
 
-Возвращает имя файла и расширение этого[`AbstractPath`](../../abstractpath).
+Возвращает имя файла и расширение этого[`AbstractPath`](../../abstractpath) .
 
 ```csharp
 public string GetFileName()
@@ -16,11 +16,11 @@ public string GetFileName()
 
 ### Возвращаемое значение
 
-Символы после последнего[`Separator`](../separator)символ в[`Location`](../location). Если последним символом является символ[`Separator`](../separator), возвращается пустая строка. Если в[`Location`](../location)нет символов [`Separator`](../separator),[`Location`](../location)сам возвращается.
+Символы после последнего[`Separator`](../separator) характер в[`Location`](../location) . Если последний символ является[`Separator`](../separator) символ, возвращается пустая строка. Если нет [`Separator`](../separator) персонажи в[`Location`](../location) ,[`Location`](../location) возвращается сам .
 
 ### Примеры
 
-Для` AbstractPath` с[`Location`](../location)равно` "/directory/file.txt"` и[`Separator`](../separator)равно` '/'` , этот метод возвращает` "файл.txt"` .
+Для`АннотацияПуть` с[`Location`](../location) равно`"/каталог/файл.txt"` и[`Separator`](../separator) равно`/'` , этот метод возвращает`"файл.txt"` .
 
 ### Смотрите также
 

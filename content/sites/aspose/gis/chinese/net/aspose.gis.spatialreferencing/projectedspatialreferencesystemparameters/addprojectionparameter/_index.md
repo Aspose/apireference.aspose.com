@@ -1,7 +1,7 @@
 ---
 title: AddProjectionParameter
 second_title: Aspose.GIS for .NET API 参考
-description: 将投影参数添加到此 SRS如果已添加具有此类名称的参数 - 更新它
+description: 将投影参数添加到此 SRS如果已添加具有此类名称的参数  更新它
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter/
@@ -17,13 +17,13 @@ public void AddProjectionParameter(string parameterName, double value)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | parameterName | String | 投影参数的名称。 |
-| value | Double | 参数值。价值单位应为LinearUnit 或AngularUnit的Base。 |
+| value | Double | 参数值。价值单位应该在[`LinearUnit`](../linearunit) 或[`AngularUnit`](../../geographicspatialreferencesystem/angularunit)的[`Base`](../base). |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *parameterName*为空。 |
+| ArgumentNullException | *parameterName*一片空白。 |
 
 ### 也可以看看
 

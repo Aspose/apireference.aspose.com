@@ -1,14 +1,14 @@
 ---
 title: JoinAttributeName
 second_title: Aspose.GIS for .NET API 参考
-description: 指定连接层的属性名称其值将用于ConditionCompareraspose.gis.relationship.joins/joinoptions/conditioncomparer
+description: 指定连接层的属性名称其值将用于ConditionCompareraspose.gis.relationship.joins/joinoptions/conditioncomparer.
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.relationship.joins/joinoptions/joinattributename/
 ---
 ## JoinOptions.JoinAttributeName property
 
-指定连接层的属性名称，其值将用于[`ConditionComparer`](../conditioncomparer)。
+指定连接层的属性名称，其值将用于[`ConditionComparer`](../conditioncomparer).
 
 ```csharp
 public string JoinAttributeName { get; set; }

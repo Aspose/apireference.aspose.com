@@ -1,14 +1,14 @@
 ---
 title: MultipartMode
 second_title: Aspose.GIS for .NET API 参考
-description: 指定如何为包含多部分几何的特征呈现标签
+description: 指定如何为包含多部分几何的要素呈现标签
 type: docs
-weight: 1550
+weight: 1560
 url: /zh/net/aspose.gis.rendering.labelings/multipartmode/
 ---
 ## MultipartMode enumeration
 
-指定如何为包含多部分几何的特征呈现标签。
+指定如何为包含多部分几何的要素呈现标签。
 
 ```csharp
 public enum MultipartMode
@@ -18,9 +18,9 @@ public enum MultipartMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| All | `0` | 只要零件附近有空间，就在几何的每个部分附近放置一个标签。 |
+| All | `0` | 在几何的每个部分附近放置一个标签，只要该部分附近有空间。 |
 | Any | `1` | 为整个几何图形放置一个标签。 |
-| Largest | `2` | 只要有标签空间，就为几何的最大部分放置标签。 |
+| Largest | `2` | 只要有标签空间，就为几何图形的最大部分放置标签。 |
 
 ### 也可以看看
 

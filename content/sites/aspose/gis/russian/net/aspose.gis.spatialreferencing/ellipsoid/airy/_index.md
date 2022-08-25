@@ -1,14 +1,14 @@
 ---
 title: Airy
 second_title: Справочник по Aspose.GIS for .NET API
-description: Воздушный эллипсоид.
+description: Эллипсоид Эйри.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis.spatialreferencing/ellipsoid/airy/
 ---
 ## Ellipsoid.Airy property
 
-Воздушный эллипсоид.
+Эллипсоид Эйри.
 
 ```csharp
 public static Ellipsoid Airy { get; }

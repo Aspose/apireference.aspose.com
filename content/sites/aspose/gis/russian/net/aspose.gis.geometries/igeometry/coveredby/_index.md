@@ -20,19 +20,19 @@ public bool CoveredBy(IGeometry other)
 
 ### Возвращаемое значение
 
-`true`если эта геометрия "пространственно покрыта" другой геометрией.`false`иначе.
+`true`если эта геометрия «пространственно покрыта» другой геометрией.`false` иначе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент`нуль`. |
+| ArgumentNullException | Аргумент`null`. |
 | ArgumentException | Одна из геометрий недействительна, поэтому операция не может быть завершена. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem)геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation)для преобразования геометрии в одну и ту же пространственную систему отсчета. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem) геометрий не эквивалентны. Вы можете использовать[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) для преобразования геометрии в одну и ту же систему отсчета пространственного . |
 
 ### Примечания
 
-Этот метод проверяет, покрывается ли одна геометрия другой с точки зрения матрицы пересечения DE-9IM.&lt; cr /&gt; Этот метод эквивалентен:
+Этот метод проверяет, покрывается ли одна геометрия другой с точки зрения матрицы пересечения DE-9IM. Этот метод эквивалентен:
 
 ```csharp
 other.Covers(this);

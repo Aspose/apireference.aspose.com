@@ -1,14 +1,14 @@
 ---
 title: SimpleMarker
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаSimpleMarkeraspose.gis.rendering.symbolizers/simplemarker.
+description: Инициализирует новый экземплярSimpleMarkeraspose.gis.rendering.symbolizers/simplemarker класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.symbolizers/simplemarker/simplemarker/
 ---
 ## SimpleMarker() {#constructor}
 
-Инициализирует новый экземпляр класса[`SimpleMarker`](../../simplemarker).
+Инициализирует новый экземпляр[`SimpleMarker`](../../simplemarker) класс.
 
 ```csharp
 public SimpleMarker()
@@ -24,7 +24,7 @@ public SimpleMarker()
 
 ## SimpleMarker(SimpleMarker) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SimpleMarker`](../../simplemarker).
+Инициализирует новый экземпляр[`SimpleMarker`](../../simplemarker) класс.
 
 ```csharp
 public SimpleMarker(SimpleMarker other)
@@ -32,13 +32,13 @@ public SimpleMarker(SimpleMarker other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | SimpleMarker | Другой[`SimpleMarker`](../../simplemarker)для копирования данных из . |
+| other | SimpleMarker | Другой[`SimpleMarker`](../../simplemarker) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

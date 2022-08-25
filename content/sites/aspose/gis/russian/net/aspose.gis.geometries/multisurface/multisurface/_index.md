@@ -1,14 +1,14 @@
 ---
 title: MultiSurface
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаMultiSurfaceaspose.gis.geometries/multisurface.
+description: Инициализирует новый экземплярMultiSurfaceaspose.gis.geometries/multisurface класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.geometries/multisurface/multisurface/
 ---
 ## MultiSurface constructor
 
-Инициализирует новый экземпляр класса[`MultiSurface`](../../multisurface).
+Инициализирует новый экземпляр[`MultiSurface`](../../multisurface) класс.
 
 ```csharp
 public MultiSurface()

@@ -1,14 +1,14 @@
 ---
 title: SvgRenderer
 second_title: Aspose.GIS for .NET API 参考
-description: ARenderer../aspose.gis.rendering/renderer渲染Map../aspose.gis.rendering/map到 SVG 文件中
+description: 一个Renderer../aspose.gis.rendering/renderer呈现Map../aspose.gis.rendering/map到 SVG 文件中
 type: docs
-weight: 1480
+weight: 1490
 url: /zh/net/aspose.gis.rendering.formats.svg/svgrenderer/
 ---
 ## SvgRenderer class
 
-A[`Renderer`](../../aspose.gis.rendering/renderer)渲染[`Map`](../../aspose.gis.rendering/map)到 SVG 文件中。
+一个[`Renderer`](../../aspose.gis.rendering/renderer)呈现[`Map`](../../aspose.gis.rendering/map)到 SVG 文件中。
 
 ```csharp
 public class SvgRenderer : Renderer

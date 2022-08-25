@@ -1,14 +1,14 @@
 ---
 title: PrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: Возврат нулевого меридиана этого SRS. Если обаHeadaspose.gis.spatialreferencing/compoundspatialreferencesystem/headиTailaspose.gis.spatialreferencing/compoundspatialreferencesystem/tailимеют простое число меридиан - обратный нулевой меридиан головы.
+description: Вернуть нулевой меридиан этой SRS. Если обаHeadaspose.gis.spatialreferencing/compoundspatialreferencesystem/head а такжеTailaspose.gis.spatialreferencing/compoundspatialreferencesystem/tail Иметь нулевой меридиан  вернуть нулевой меридиан головы.
 type: docs
 weight: 100
 url: /ru/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/primemeridian/
 ---
 ## CompoundSpatialReferenceSystem.PrimeMeridian property
 
-Возврат нулевого меридиана этого SRS. Если оба[`Head`](../head)и[`Tail`](../tail)имеют простое число меридиан - обратный нулевой меридиан головы.
+Вернуть нулевой меридиан этой SRS. Если оба[`Head`](../head) а также[`Tail`](../tail) Иметь нулевой меридиан - вернуть нулевой меридиан головы.
 
 ```csharp
 public override PrimeMeridian PrimeMeridian { get; }

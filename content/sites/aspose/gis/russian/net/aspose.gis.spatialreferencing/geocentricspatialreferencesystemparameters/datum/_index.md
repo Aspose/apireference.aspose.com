@@ -1,14 +1,14 @@
 ---
 title: Datum
 second_title: Справочник по Aspose.GIS for .NET API
-description: База геоцентрической СКР. Значение по умолчаниюWgs84aspose.gis.spatialreferencing/geographicdatum/wgs84.
+description: Датам геоцентрической SRS. По умолчаниюWgs84aspose.gis.spatialreferencing/geographicdatum/wgs84 .
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum/
 ---
 ## GeocentricSpatialReferenceSystemParameters.Datum property
 
-База геоцентрической СКР. Значение по умолчанию:[`Wgs84`](../../geographicdatum/wgs84).
+Датам геоцентрической SRS. По умолчанию[`Wgs84`](../../geographicdatum/wgs84) .
 
 ```csharp
 public GeographicDatum Datum { get; set; }

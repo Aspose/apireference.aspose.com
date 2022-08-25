@@ -16,8 +16,8 @@ public static bool operator !=(PrecisionModel a, PrecisionModel b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | PrecisionModel | Экземпляр A. |
-| b | PrecisionModel | Экземпляр B. |
+| a | PrecisionModel | Экземпляр А. |
+| b | PrecisionModel | Экземпляр Б. |
 
 ### Возвращаемое значение
 

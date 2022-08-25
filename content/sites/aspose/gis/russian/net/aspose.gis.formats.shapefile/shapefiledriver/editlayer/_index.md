@@ -17,7 +17,7 @@ public override VectorLayer EditLayer(AbstractPath path, DriverOptions options =
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | DriverOptions | Опции драйвера. |
+| options | DriverOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -28,9 +28,9 @@ public override VectorLayer EditLayer(AbstractPath path, DriverOptions options =
 | исключение | условие |
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| ArgumentNullException | Путь:`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Ошибка чтения объекта из файла. |
-| IOException | Произошла ошибка ввода-вывода. |
+| ArgumentNullException | Путь`null`. |
+| [GisException](../../../aspose.gis/gisexception) | Ошибка чтения функции из файла. |
+| IOException | Произошла ошибка ввода/вывода. |
 
 ### Смотрите также
 
@@ -54,7 +54,7 @@ public VectorLayer EditLayer(string path, ShapefileOptions options = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к файлу. |
-| options | ShapefileOptions | Опции драйвера. |
+| options | ShapefileOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 
@@ -81,7 +81,7 @@ public VectorLayer EditLayer(AbstractPath path, ShapefileOptions options = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | AbstractPath | Путь к файлу. |
-| options | ShapefileOptions | Опции драйвера. |
+| options | ShapefileOptions | Параметры, зависящие от драйвера. |
 
 ### Возвращаемое значение
 

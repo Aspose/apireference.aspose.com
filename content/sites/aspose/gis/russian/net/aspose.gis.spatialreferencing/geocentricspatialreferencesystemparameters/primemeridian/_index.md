@@ -1,14 +1,14 @@
 ---
 title: PrimeMeridian
 second_title: Справочник по Aspose.GIS for .NET API
-description: Нулевой меридиан этой СКИ. Значение по умолчаниюGreenwichaspose.gis.spatialreferencing/primemeridian/greenwich.
+description: Начальный меридиан этого SRS. По умолчаниюGreenwichaspose.gis.spatialreferencing/primemeridian/greenwich .
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian/
 ---
 ## GeocentricSpatialReferenceSystemParameters.PrimeMeridian property
 
-Нулевой меридиан этой СКИ. Значение по умолчанию:[`Greenwich`](../../primemeridian/greenwich).
+Начальный меридиан этого SRS. По умолчанию[`Greenwich`](../../primemeridian/greenwich) .
 
 ```csharp
 public PrimeMeridian PrimeMeridian { get; set; }

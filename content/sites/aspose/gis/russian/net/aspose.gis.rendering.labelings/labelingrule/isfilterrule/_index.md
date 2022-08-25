@@ -1,14 +1,14 @@
 ---
 title: IsFilterRule
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает значение указывающее является ли это правило правилом фильтра.
+description: Получает значение указывающее является ли данное правило правиломфильтром.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.rendering.labelings/labelingrule/isfilterrule/
 ---
 ## LabelingRule.IsFilterRule property
 
-Получает значение, указывающее, является ли это правило "правилом фильтра".
+Получает значение, указывающее, является ли данное правило правилом-фильтром.
 
 ```csharp
 public bool IsFilterRule { get; }
@@ -16,7 +16,7 @@ public bool IsFilterRule { get; }
 
 ### Примечания
 
-"правило фильтра" применяет метку к объекту, если[`Filter`](../filter)возвращает`true`для функции.
+«правило фильтра» применяет метку к объекту, если[`Filter`](../filter) возвращается`true` для функции.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: RasterMapResampling
 second_title: Aspose.GIS for .NET API 参考
-description: 此类描述了如何在渲染地图时重新采样栅格图层
+description: 此类描述如何在渲染地图时重新采样栅格图层
 type: docs
-weight: 1650
+weight: 1660
 url: /zh/net/aspose.gis.rendering/rastermapresampling/
 ---
 ## RasterMapResampling class
 
-此类描述了如何在渲染地图时重新采样栅格图层。
+此类描述如何在渲染地图时重新采样栅格图层。
 
 ```csharp
 public class RasterMapResampling
@@ -24,8 +24,8 @@ public class RasterMapResampling
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Height](../../aspose.gis.rendering/rastermapresampling/height) { get; set; } | 以像素和列为单位指定地图上的光栅高度。 如果该值设置为 0，则自动计算高度。默认值为“0”。 |
-| [Width](../../aspose.gis.rendering/rastermapresampling/width) { get; set; } | 以像素和列为单位指定地图上的光栅宽度。 如果该值设置为 0，则自动计算宽度。默认值为“0”。 |
+| [Height](../../aspose.gis.rendering/rastermapresampling/height) { get; set; } | 以像素和列为单位指定地图上的栅格高度。 如果该值设置为 0，则会自动计算高度。默认值为“0”。 |
+| [Width](../../aspose.gis.rendering/rastermapresampling/width) { get; set; } | 以像素和列为单位指定地图上的栅格宽度。 如果该值设置为 0，则会自动计算宽度。默认值为“0”。 |
 
 ### 也可以看看
 

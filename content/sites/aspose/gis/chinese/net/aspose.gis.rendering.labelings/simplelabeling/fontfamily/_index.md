@@ -1,14 +1,14 @@
 ---
 title: FontFamily
 second_title: Aspose.GIS for .NET API 参考
-description: 用于渲染文本的字体系列默认值为系统相关值
+description: 用于呈现文本的字体系列默认值是系统相关值
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/fontfamily/
 ---
 ## SimpleLabeling.FontFamily property
 
-用于渲染文本的字体系列。默认值为系统相关值。
+用于呈现文本的字体系列。默认值是系统相关值。
 
 ```csharp
 public string FontFamily { get; set; }
@@ -18,7 +18,7 @@ public string FontFamily { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

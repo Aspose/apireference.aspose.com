@@ -1,14 +1,14 @@
 ---
 title: Svg
 second_title: Справочник по Aspose.GIS for .NET API
-description: Модуль рендеринга который выполняет рендеринг в формате SVG.
+description: Средство визуализации которое выполняет рендеринг в формате SVG.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering/renderers/svg/
 ---
 ## Renderers.Svg property
 
-Модуль рендеринга, который выполняет рендеринг в формате SVG.
+Средство визуализации, которое выполняет рендеринг в формате SVG.
 
 ```csharp
 public static SvgRenderer Svg { get; }

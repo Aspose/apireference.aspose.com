@@ -1,14 +1,14 @@
 ---
 title: CellY
 second_title: Aspose.GIS for .NET API 参考
-description: 瓦片的 Y 行
+description: 瓷砖的 Y 行
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.raster.web/webtile/celly/
 ---
 ## WebTile.CellY property
 
-瓦片的 Y 行。
+瓷砖的 Y 行。
 
 ```csharp
 public abstract int CellY { get; }

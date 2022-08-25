@@ -1,14 +1,14 @@
 ---
 title: LocalDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Датум описывающий метод измерений.
+description: Datum описывающий метод измерений.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.spatialreferencing/localspatialreferencesystem/localdatum/
 ---
 ## LocalSpatialReferenceSystem.LocalDatum property
 
-Датум, описывающий метод измерений.
+Datum, описывающий метод измерений.
 
 ```csharp
 public LocalDatum LocalDatum { get; }

@@ -1,14 +1,14 @@
 ---
 title: MarkerCluster
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化MarkerClusteraspose.gis.rendering.symbolizers/markercluster类的新实例
+description: 初始化MarkerClusteraspose.gis.rendering.symbolizers/markercluster类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/markercluster/markercluster/
 ---
 ## MarkerCluster(Measurement) {#constructor}
 
-初始化[`MarkerCluster`](../../markercluster)类的新实例。
+初始化[`MarkerCluster`](../../markercluster)类.
 
 ```csharp
 public MarkerCluster(Measurement distance)
@@ -35,7 +35,7 @@ public MarkerCluster(Measurement distance)
 
 ## MarkerCluster(MarkerCluster) {#constructor_1}
 
-初始化[`MarkerCluster`](../../markercluster)类的新实例。
+初始化[`MarkerCluster`](../../markercluster)类.
 
 ```csharp
 public MarkerCluster(MarkerCluster other)
@@ -43,13 +43,13 @@ public MarkerCluster(MarkerCluster other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | MarkerCluster | 另一个[`MarkerCluster`](../../markercluster)复制数据. |
+| other | MarkerCluster | 另一个[`MarkerCluster`](../../markercluster)从中复制数据。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

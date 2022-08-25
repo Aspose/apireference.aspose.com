@@ -1,14 +1,14 @@
 ---
 title: Instance
 second_title: Aspose.GIS for .NET API 参考
-description: 获取NullLabelingaspose.gis.rendering.labelings/nulllabeling的实例
+description: 获取一个实例NullLabelingaspose.gis.rendering.labelings/nulllabeling.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.labelings/nulllabeling/instance/
 ---
 ## NullLabeling.Instance property
 
-获取[`NullLabeling`](../../nulllabeling)的实例。
+获取一个实例[`NullLabeling`](../../nulllabeling).
 
 ```csharp
 public static NullLabeling Instance { get; }

@@ -1,14 +1,14 @@
 ---
 title: Map
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новый экземпляр класса Map .
+description: Создает новый экземпляркарта класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering/map/map/
 ---
 ## Map constructor
 
-Создает новый экземпляр класса` Map` .
+Создает новый экземпляр`карта` класс.
 
 ```csharp
 public Map(Measurement width, Measurement height)
@@ -23,7 +23,7 @@ public Map(Measurement width, Measurement height)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Единицей ширины или высоты являетсяMapUnits. |
+| ArgumentException | Единица ширины или высотыMapUnits . |
 | ArgumentOutOfRangeException | Ширина или высота отрицательны или равны нулю. |
 
 ### Смотрите также

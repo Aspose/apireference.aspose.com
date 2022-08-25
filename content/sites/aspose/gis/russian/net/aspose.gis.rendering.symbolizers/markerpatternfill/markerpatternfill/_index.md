@@ -1,14 +1,14 @@
 ---
 title: MarkerPatternFill
 second_title: Справочник по Aspose.GIS for .NET API
-description: Инициализирует новый экземпляр классаMarkerPatternFillaspose.gis.rendering.symbolizers/markerpatternfill.
+description: Инициализирует новый экземплярMarkerPatternFillaspose.gis.rendering.symbolizers/markerpatternfill класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering.symbolizers/markerpatternfill/markerpatternfill/
 ---
 ## MarkerPatternFill() {#constructor}
 
-Инициализирует новый экземпляр класса[`MarkerPatternFill`](../../markerpatternfill).
+Инициализирует новый экземпляр[`MarkerPatternFill`](../../markerpatternfill) класс.
 
 ```csharp
 public MarkerPatternFill()
@@ -24,7 +24,7 @@ public MarkerPatternFill()
 
 ## MarkerPatternFill(MarkerPatternFill) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`MarkerPatternFill`](../../markerpatternfill).
+Инициализирует новый экземпляр[`MarkerPatternFill`](../../markerpatternfill) класс.
 
 ```csharp
 public MarkerPatternFill(MarkerPatternFill other)
@@ -32,13 +32,13 @@ public MarkerPatternFill(MarkerPatternFill other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | MarkerPatternFill | Другой[`MarkerPatternFill`](../../markerpatternfill)для копирования данных из . |
+| other | MarkerPatternFill | Другой[`MarkerPatternFill`](../../markerpatternfill) для копирования данных. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргумент:`null`. |
+| ArgumentNullException | Аргумент`null`. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IMultiSurface
 second_title: Справочник по Aspose.GIS for .NET API
-description: AIMultiPolygon./imultipolygonявляется одномернымIGeometryCollection./igeometrycollectionэлементами которого являютсяISurface./isurfaces.
+description: АIMultiPolygon./imultipolygon является одномернымIGeometryCollection./igeometrycollection чьи элементыISurface./isurface с.
 type: docs
-weight: 970
+weight: 980
 url: /ru/net/aspose.gis.geometries/imultisurface/
 ---
 ## IMultiSurface interface
 
-A[`IMultiPolygon`](../imultipolygon)является одномерным[`IGeometryCollection`](../igeometrycollection)элементами которого являются[`ISurface`](../isurface)s.
+А[`IMultiPolygon`](../imultipolygon) является одномерным[`IGeometryCollection`](../igeometrycollection) чьи элементы[`ISurface`](../isurface) с.
 
 ```csharp
 public interface IMultiSurface : IGeometryCollection
@@ -19,8 +19,8 @@ public interface IMultiSurface : IGeometryCollection
 | Имя | Описание |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/imultisurface/toeditable)() | Получает редактируемую копию этой геометрии. |
-| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry#tolineargeometry)() | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя допуск по умолчанию . |
-| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry#tolineargeometry_1)(double) | Получает приблизительную или эквивалентную некривую версию этой геометрии с использованием указанного допуска . |
+| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry#tolineargeometry)() | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя значение по умолчанию.`толерантность` . |
+| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry#tolineargeometry_1)(double) | Получает приблизительную или эквивалентную некривую версию этой геометрии, используя указанный`толерантность` . |
 
 ### Смотрите также
 

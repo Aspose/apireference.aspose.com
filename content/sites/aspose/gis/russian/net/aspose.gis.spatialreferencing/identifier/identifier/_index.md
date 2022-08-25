@@ -16,14 +16,14 @@ public Identifier(string authorityName, string authorityUniqueIdentifier)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| authorityName | String | [`AuthorityName`](../authorityname). |
-| authorityUniqueIdentifier | String | [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier). |
+| authorityName | String | [`AuthorityName`](../authorityname) . |
+| authorityUniqueIdentifier | String | [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier) . |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *authorityName* или же *authorityUniqueIdentifier* является `null`. |
+| ArgumentNullException | *authorityName* или же*authorityUniqueIdentifier* является`null` . |
 
 ### Смотрите также
 

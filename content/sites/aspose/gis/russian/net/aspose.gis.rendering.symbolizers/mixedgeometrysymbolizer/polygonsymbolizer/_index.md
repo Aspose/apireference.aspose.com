@@ -1,14 +1,14 @@
 ---
 title: PolygonSymbolizer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Указывает символизатор который будет использоваться для полигональной геометрии в слое.
+description: Определяет символизатор для полигональной геометрии в слое.
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer/
 ---
 ## MixedGeometrySymbolizer.PolygonSymbolizer property
 
-Указывает символизатор, который будет использоваться для полигональной геометрии в слое.
+Определяет символизатор для полигональной геометрии в слое.
 
 ```csharp
 public VectorSymbolizer PolygonSymbolizer { get; set; }

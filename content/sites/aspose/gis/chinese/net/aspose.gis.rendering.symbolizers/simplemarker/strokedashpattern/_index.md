@@ -1,14 +1,14 @@
 ---
 title: StrokeDashPattern
 second_title: Aspose.GIS for .NET API 参考
-description: 指定一个距离数组该数组以虚线指定交替的破折号和空格 的长度
+description: 指定一个距离数组以虚线指定交替短划线和空格的长度 
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/strokedashpattern/
 ---
 ## SimpleMarker.StrokeDashPattern property
 
-指定一个距离数组，该数组以虚线指定交替的破折号和空格 的长度。
+指定一个距离数组，以虚线指定交替短划线和空格的长度 。
 
 ```csharp
 public IEnumerable<Measurement> StrokeDashPattern { get; set; }
@@ -19,7 +19,7 @@ public IEnumerable<Measurement> StrokeDashPattern { get; set; }
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentOutOfRangeException | 数组中的任何值都小于或等于零。 |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

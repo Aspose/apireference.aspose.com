@@ -3,7 +3,7 @@ title: Metered
 second_title: Справочник по Aspose.GIS for .NET API
 description: Предоставляет методы для установки измеренного ключа.
 type: docs
-weight: 1170
+weight: 1180
 url: /ru/net/aspose.gis/metered/
 ---
 ## Metered class
@@ -18,14 +18,14 @@ public class Metered
 
 | Имя | Описание |
 | --- | --- |
-| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit)() | Получает кредит потребления |
+| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit)() | Получает потребительский кредит |
 | static [GetConsumptionQuantity](../../aspose.gis/metered/getconsumptionquantity)() | Получает размер файла потребления |
 | static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey)() | Удаляет ранее установленную лицензию |
-| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey)(string, string) | Устанавливает измеренный открытый и закрытый ключ |
+| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey)(string, string) | Устанавливает лимитированный открытый и закрытый ключ |
 
 ### Примеры
 
-В этом примере будет предпринята попытка установить дозированные открытый и закрытый ключ
+В этом примере будет предпринята попытка установить лимитированный открытый и закрытый ключ
 
 ```csharp
 [C#]

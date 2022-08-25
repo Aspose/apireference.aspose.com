@@ -1,14 +1,14 @@
 ---
 title: IsEquivalent
 second_title: Aspose.GIS for .NET API 参考
-description: 确定两个投影是等价的等效投影以 相同的方式将经度纬度映射到xy
+description: 确定两个投影是等价的等效投影将经度纬度映射到xy以 相同的方式
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.spatialreferencing/projection/isequivalent/
 ---
 ## Projection.IsEquivalent method
 
-确定两个投影是等价的。等效投影以 相同的方式将（经度，纬度）映射到（x，y）。
+确定两个投影是等价的。等效投影将（经度，纬度）映射到（x，y）以 相同的方式。
 
 ```csharp
 public bool IsEquivalent(Projection other)
@@ -20,7 +20,7 @@ public bool IsEquivalent(Projection other)
 
 ### 返回值
 
-`true`如果投影是等价的，则`false`否则。
+`true`如果投影是等价的，`false`否则。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ReportCommonAttributes
 second_title: Aspose.GIS for .NET API 参考
-description: 报告常见的 OSM 属性可见版本变更集时间戳用户和 uid 通用属性将被报告为带有osm_前缀的特征属性例如osm_userosm_timestamp等
+description: 报告常见的 OSM 属性可见版本变更集时间戳用户和 uid 常见属性将报告为带有osm_前缀的特征属性例如 osm_userosm_timestamp 等
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.osmxml/osmxmloptions/reportcommonattributes/
 ---
 ## OsmXmlOptions.ReportCommonAttributes property
 
-报告常见的 OSM 属性:可见、版本、变更集、时间戳、用户和 uid。 通用属性将被报告为带有“osm_”前缀的特征属性，例如osm_user、osm_timestamp等。
+报告常见的 OSM 属性：可见、版本、变更集、时间戳、用户和 uid。 常见属性将报告为带有“osm_”前缀的特征属性，例如 osm_user、osm_timestamp 等。
 
 ```csharp
 public bool ReportCommonAttributes { get; set; }

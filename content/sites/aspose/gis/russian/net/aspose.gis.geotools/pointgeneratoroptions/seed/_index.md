@@ -3,7 +3,7 @@ title: Seed
 second_title: Справочник по Aspose.GIS for .NET API
 description: Число используемое для вычисления начального значения для последовательности псевдослучайных чисел.
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.gis.geotools/pointgeneratoroptions/seed/
 ---
 ## PointGeneratorOptions.Seed property

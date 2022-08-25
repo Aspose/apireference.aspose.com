@@ -1,14 +1,14 @@
 ---
 title: LineLabelPlacement
 second_title: Справочник по Aspose.GIS for .NET API
-description: Размещение меток линии размещает метки вдоль линии.
+description: Размещение метки линии размещает метки вдоль линии.
 type: docs
-weight: 1540
+weight: 1550
 url: /ru/net/aspose.gis.rendering.labelings/linelabelplacement/
 ---
 ## LineLabelPlacement class
 
-Размещение меток линии размещает метки вдоль линии.
+Размещение метки линии размещает метки вдоль линии.
 
 ```csharp
 public class LineLabelPlacement : LabelPlacement
@@ -25,9 +25,9 @@ public class LineLabelPlacement : LabelPlacement
 
 | Имя | Описание |
 | --- | --- |
-| [Alignment](../../aspose.gis.rendering.labelings/linelabelplacement/alignment) { get; set; } | Указывает, как метка выравнивается с линейным путем. По умолчанию используетсяParallel. |
-| [MaxAngleDelta](../../aspose.gis.rendering.labelings/linelabelplacement/maxangledelta) { get; set; } | При использовании сCurvedустанавливает максимальный угол в градусах между двумя последующие символы в изогнутой этикетке. По умолчанию 25. |
-| [Offset](../../aspose.gis.rendering.labelings/linelabelplacement/offset) { get; set; } | Смещение от линейного пути. Положительные значения смещаются влево от строки, отрицательные — вправо. По умолчанию 0. |
+| [Alignment](../../aspose.gis.rendering.labelings/linelabelplacement/alignment) { get; set; } | Указывает, как метка выравнивается по линейному пути. По умолчаниюParallel . |
+| [MaxAngleDelta](../../aspose.gis.rendering.labelings/linelabelplacement/maxangledelta) { get; set; } | При использовании сCurved устанавливает максимальный угол в градусах между двумя последующими символами в изогнутой этикетке. По умолчанию 25. |
+| [Offset](../../aspose.gis.rendering.labelings/linelabelplacement/offset) { get; set; } | Смещение от линейного пути. Положительные значения смещаются влево от линии, отрицательные — вправо. По умолчанию 0. |
 
 ## Методы
 

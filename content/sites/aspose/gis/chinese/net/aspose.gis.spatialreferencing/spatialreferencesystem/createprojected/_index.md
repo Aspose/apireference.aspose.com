@@ -28,7 +28,7 @@ public static ProjectedSpatialReferenceSystem CreateProjected(
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 参数中的基本 SRS 是`null`。 参数中的投影方法是`null`。 |
+| InvalidOperationException | 参数中的基本 SRS 是`null`. 参数中的投影方法是`null`. |
 
 ### 也可以看看
 

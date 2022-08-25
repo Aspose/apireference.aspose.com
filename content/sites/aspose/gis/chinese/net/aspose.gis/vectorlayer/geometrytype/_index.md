@@ -1,14 +1,14 @@
 ---
 title: GeometryType
 second_title: Aspose.GIS for .NET API 参考
-description: 获取层的几何类型
+description: 获取图层的几何类型
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/vectorlayer/geometrytype/
 ---
 ## VectorLayer.GeometryType property
 
-获取层的几何类型。
+获取图层的几何类型。
 
 ```csharp
 public abstract GeometryType GeometryType { get; }

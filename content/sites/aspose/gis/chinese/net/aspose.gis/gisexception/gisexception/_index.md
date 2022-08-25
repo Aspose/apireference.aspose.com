@@ -1,14 +1,14 @@
 ---
 title: GisException
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化GisExceptionaspose.gis/gisexception类的新实例
+description: 初始化GisExceptionaspose.gis/gisexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/gisexception/gisexception/
 ---
 ## GisException() {#constructor}
 
-初始化[`GisException`](../../gisexception)类的新实例。
+初始化[`GisException`](../../gisexception)类.
 
 ```csharp
 public GisException()
@@ -24,7 +24,7 @@ public GisException()
 
 ## GisException(string) {#constructor_1}
 
-初始化[`GisException`](../../gisexception)类的新实例。
+初始化[`GisException`](../../gisexception)类.
 
 ```csharp
 public GisException(string message)
@@ -44,7 +44,7 @@ public GisException(string message)
 
 ## GisException(string, Exception) {#constructor_2}
 
-初始化[`GisException`](../../gisexception)类的新实例。
+初始化[`GisException`](../../gisexception)类.
 
 ```csharp
 public GisException(string message, Exception inner)

@@ -18,7 +18,7 @@ public Axis LatitudeAxis { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 如果轴方向不是从设置器抛出North或South。 |
+| ArgumentException | 如果轴方向不是从 setter 抛出North或者South. |
 
 ### 也可以看看
 

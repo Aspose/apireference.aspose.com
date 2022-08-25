@@ -24,23 +24,23 @@ public sealed class FileGdbCoordinatePrecisionGrid
 
 | Имя | Описание |
 | --- | --- |
-| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin) { get; set; } | Получает или задает начало координат M. Если установлено`null`используется значение по умолчанию. |
-| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale) { get; set; } | Получает или задает масштаб координаты M. Если установлено`null`используется значение по умолчанию. |
-| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin) { get; set; } | Получает или задает начало координат X. Если установлено`null`используется значение по умолчанию. |
-| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale) { get; set; } | Получает или задает масштаб координат X и Y. Если установлено`null`используется значение по умолчанию. |
-| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin) { get; set; } | Получает или задает начало координат Y. Если установлено`null`используется значение по умолчанию. |
-| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin) { get; set; } | Получает или задает начало координат Z. Если установлено`null`используется значение по умолчанию. |
-| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale) { get; set; } | Получает или задает масштаб координаты Z. Если установлено`null`используется значение по умолчанию. |
+| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin) { get; set; } | Получает или задает начало координат М. Если установлено`null` используется значение по умолчанию. |
+| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale) { get; set; } | Получает или задает масштаб М-координаты. Если установлено`null` используется значение по умолчанию. |
+| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin) { get; set; } | Получает или задает начало координаты X. Если установлено`null` используется значение по умолчанию. |
+| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale) { get; set; } | Получает или задает масштаб координат X и Y. Если установлено`null` используется значение по умолчанию. |
+| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin) { get; set; } | Получает или задает начало координаты Y. Если установлено`null` используется значение по умолчанию. |
+| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin) { get; set; } | Получает или задает начало координаты Z. Если установлено`null` используется значение по умолчанию. |
+| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale) { get; set; } | Получает или задает масштаб координаты Z. Если установлено`null` используется значение по умолчанию. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle)(IPoint, IPoint) | Создает новый` FileGdbCoordinatePrecisionGrid` такой, что все значения внутри прямоугольника могут быть представлены. |
+| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle)(IPoint, IPoint) | Создает новый`FileGdbCoordinatePrecisionGrid` так что все значения внутри прямоугольника могут быть представлены. |
 
 ### Примечания
 
-Сетка точности координат определяет действительный домен и разрешение координат в слое FileGDB. Начало определяет Путь к точной координатной сетке в пространстве. Масштаб определяет разрешение (чем больше масштаб , тем точнее записываются значения). Точная сетка задает допустимый диапазон значений координат: Каждая координата в[`VectorLayer`](../../aspose.gis/vectorlayer)должно быть в пределах этого диапазона. Координаты вне диапазона позже могут вызвать ошибки чтения и будут неправильно обработаны ArcGIS. Если вы не укажете никаких свойств (оставьте их`null`), будут использоваться значения по умолчанию. Значения по умолчанию зависят от[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem)[`VectorLayer`](../../aspose.gis/vectorlayer). Для географических[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem)значения по умолчанию: Для прогнозируемых[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem)значения по умолчанию: где` XYTolerance` ,` ZTolerance` и` MTolerance` являются значениями из[`FileGdbOptions`](../filegdboptions).
+Сетка точности координат определяет действительный домен и разрешение координат в слое FileGDB. Начало определяет путь к сетке точности координат в пространстве. Масштаб определяет разрешение (чем больше масштаб , тем точнее записываются значения). Точность сетки указывает допустимый диапазон значений координат: Каждая координата в[`VectorLayer`](../../aspose.gis/vectorlayer) должны находиться в этом диапазоне. Координаты, выходящие за пределы диапазона, могут позже вызвать ошибки чтения и будут неправильно обработаны ArcGIS. Если вы не укажете какие-либо свойства (сохраните их`null` ) будут использоваться значения по умолчанию. Значения по умолчанию зависят от[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) принадлежащий[`VectorLayer`](../../aspose.gis/vectorlayer) . Для географических[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) значения по умолчанию: Для проекции[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) значения по умолчанию: где`XYДопуск` ,`ZДопуск` а также`МТтолерантность` значения из[`FileGdbOptions`](../filegdboptions) .
 
 ```csharp
 XMin = XOrigin

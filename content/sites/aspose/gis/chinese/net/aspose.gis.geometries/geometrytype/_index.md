@@ -1,14 +1,14 @@
 ---
 title: GeometryType
 second_title: Aspose.GIS for .NET API 参考
-description: 层中几何的类型
+description: 图层中几何的类型
 type: docs
-weight: 840
+weight: 850
 url: /zh/net/aspose.gis.geometries/geometrytype/
 ---
 ## GeometryType enumeration
 
-层中几何的类型。
+图层中几何的类型。
 
 ```csharp
 public enum GeometryType
@@ -20,19 +20,19 @@ public enum GeometryType
 | --- | --- | --- |
 | Null | `0` | 几何类型未设置。 |
 | Mixed | `1` | 几何类型是混合的。 |
-| Point | `2` | 几何是[`IPoint`](../ipoint)。 |
-| LineString | `3` | 几何是[`ILineString`](../ilinestring)。 |
-| LinearRing | `4` | 几何是[`ILinearRing`](../ilinearring)。 |
-| CircularString | `5` | 几何是ICCircularString。 |
-| CompoundCurve | `6` | 几何是[`ICompoundCurve`](../icompoundcurve)。 |
-| CurvePolygon | `7` | 几何是[`ICurvePolygon`](../icurvepolygon)。 |
-| Polygon | `8` | 几何是[`IPolygon`](../ipolygon)。 |
-| MultiPoint | `9` | 几何是[`IMultiPoint`](../imultipoint)。 |
-| MultiCurve | `10` | 几何是[`IMultiCurve`](../imulticurve)。 |
-| MultiLineString | `11` | 几何是[`IMultiLineString`](../imultilinestring)。 |
-| MultiSurface | `12` | 几何是[`IMultiSurface`](../imultisurface)。 |
-| MultiPolygon | `13` | 几何是[`IMultiPolygon`](../imultipolygon)。 |
-| GeometryCollection | `14` | 几何是[`IGeometryCollection`](../igeometrycollection)。 |
+| Point | `2` | 几何是一个[`IPoint`](../ipoint). |
+| LineString | `3` | 几何是一个[`ILineString`](../ilinestring). |
+| LinearRing | `4` | 几何是一个[`ILinearRing`](../ilinearring). |
+| CircularString | `5` | 几何是一个[`ICircularString`](../icircularstring). |
+| CompoundCurve | `6` | 几何是一个[`ICompoundCurve`](../icompoundcurve). |
+| CurvePolygon | `7` | 几何是一个[`ICurvePolygon`](../icurvepolygon). |
+| Polygon | `8` | 几何是一个[`IPolygon`](../ipolygon). |
+| MultiPoint | `9` | 几何是一个[`IMultiPoint`](../imultipoint). |
+| MultiCurve | `10` | 几何是一个[`IMultiCurve`](../imulticurve). |
+| MultiLineString | `11` | 几何是一个[`IMultiLineString`](../imultilinestring). |
+| MultiSurface | `12` | 几何是一个[`IMultiSurface`](../imultisurface). |
+| MultiPolygon | `13` | 几何是一个[`IMultiPolygon`](../imultipolygon). |
+| GeometryCollection | `14` | 几何是一个[`IGeometryCollection`](../igeometrycollection). |
 
 ### 也可以看看
 

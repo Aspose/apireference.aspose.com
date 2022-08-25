@@ -1,14 +1,14 @@
 ---
 title: SkewY
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает y-компонент ширины пикселя y-skew.
+description: Получает или задает yкомпонент ширины в пикселях yskew.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.raster/rastercellsize/skewy/
 ---
 ## RasterCellSize.SkewY property
 
-Получает или задает y-компонент ширины пикселя (y-skew).
+Получает или задает y-компонент ширины в пикселях (y-skew).
 
 ```csharp
 public double SkewY { get; set; }

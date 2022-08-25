@@ -1,14 +1,14 @@
 ---
 title: GeometryCollection
 second_title: Aspose.GIS for .NET API 参考
-description: 初始化GeometryCollection类的新实例
+description: 初始化GeometryCollectionaspose.gis.geometries/geometrycollection类.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/geometrycollection/geometrycollection/
 ---
 ## GeometryCollection constructor
 
-初始化GeometryCollection类的新实例。
+初始化[`GeometryCollection`](../../geometrycollection)类.
 
 ```csharp
 public GeometryCollection()

@@ -3,7 +3,7 @@ title: MarkerCluster
 second_title: Справочник по Aspose.GIS for .NET API
 description: Символизатор кластера маркеров.
 type: docs
-weight: 1730
+weight: 1740
 url: /ru/net/aspose.gis.rendering.symbolizers/markercluster/
 ---
 ## MarkerCluster class
@@ -18,16 +18,16 @@ public class MarkerCluster : VectorSymbolizer
 
 | Имя | Описание |
 | --- | --- |
-| [MarkerCluster](markercluster#constructor_1)(MarkerCluster) | Инициализирует новый экземпляр класса[`MarkerCluster`](../markercluster). |
-| [MarkerCluster](markercluster#constructor)(Measurement) | Инициализирует новый экземпляр класса[`MarkerCluster`](../markercluster). |
+| [MarkerCluster](markercluster#constructor_1)(MarkerCluster) | Инициализирует новый экземпляр[`MarkerCluster`](../markercluster) класс. |
+| [MarkerCluster](markercluster#constructor)(Measurement) | Инициализирует новый экземпляр[`MarkerCluster`](../markercluster) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [FeaturesBasedConfiguration](../../aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration) { get; set; } | Обратный вызов, который используется для настройки этого символизатора перед рендерингом центра кластера. |
+| [FeaturesBasedConfiguration](../../aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration) { get; set; } | Обратный вызов, который используется для настройки этого символизатора перед визуализацией центра кластера. |
 | [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker) { get; set; } | Указывает символизатор маркера в центре кластера. |
-| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker) { get; set; } | Задает символизатор маркера для вложенных точек кластера. Значение по умолчанию:[`Null`](../vectorsymbolizer/null). |
+| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker) { get; set; } | Задает символизатор маркера для вложенных точек кластера. По умолчанию[`Null`](../vectorsymbolizer/null). |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ColumnX
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает или задает имя столбца содержащего значение координаты X. По умолчаниюnull.
+description: Получает или задает имя столбца содержащего значение координаты X. Значение по умолчаниюnull .
 type: docs
 weight: 40
 url: /ru/net/aspose.gis.formats.csv/csvoptions/columnx/
 ---
 ## CsvOptions.ColumnX property
 
-Получает или задает имя столбца, содержащего значение координаты X. По умолчанию:`null`.
+Получает или задает имя столбца, содержащего значение координаты X. Значение по умолчанию:`null` .
 
 ```csharp
 public string ColumnX { get; set; }
@@ -16,7 +16,7 @@ public string ColumnX { get; set; }
 
 ### Примечания
 
-Если значение столбца равно`null`или &lt;see langword="empty string" /&gt; геометрия Point не будет создана.
+Если значение столбца`null` или же`empty string` геометрия точек не будет создана.
 
 ### Смотрите также
 

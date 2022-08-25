@@ -22,9 +22,9 @@ public void AddPoint(IPoint point)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
-| ArgumentException | 参数为空（其IsEmpty是`true`)。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这个参数的几何和[`SpatialReferenceSystem`](../spatialreferencesystem)都不是`null` 并且彼此不相等. |
+| ArgumentNullException | 论据是`null`. |
+| ArgumentException | 参数为空（其[`IsEmpty`](../../igeometry/isempty)是`true`). |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem)这种几何形状和[`SpatialReferenceSystem`](../spatialreferencesystem)论点都不是`null` 和不相等。 |
 
 ### 也可以看看
 
@@ -45,8 +45,8 @@ public void AddPoint(double x, double y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | X 坐标值。 |
-| y | Double | Y 坐标值。 |
+| x | Double | X 坐标的值。 |
+| y | Double | Y 坐标的值。 |
 
 ### 也可以看看
 
@@ -66,9 +66,9 @@ public void AddPoint(double x, double y, double z)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | X 坐标值。 |
-| y | Double | Y 坐标值。 |
-| z | Double | Z 坐标值。 |
+| x | Double | X 坐标的值。 |
+| y | Double | Y 坐标的值。 |
+| z | Double | Z 坐标的值。 |
 
 ### 也可以看看
 
@@ -88,10 +88,10 @@ public void AddPoint(double x, double y, double z, double m)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | X 坐标值。 |
-| y | Double | Y 坐标值。 |
-| z | Double | Z 坐标值。 |
-| m | Double | M 坐标值。 |
+| x | Double | X 坐标的值。 |
+| y | Double | Y 坐标的值。 |
+| z | Double | Z 坐标的值。 |
+| m | Double | M 坐标的值。 |
 
 ### 也可以看看
 

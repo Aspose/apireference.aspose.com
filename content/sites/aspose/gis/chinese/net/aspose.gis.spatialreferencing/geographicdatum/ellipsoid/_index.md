@@ -1,14 +1,14 @@
 ---
 title: Ellipsoid
 second_title: Aspose.GIS for .NET API 参考
-description: 椭球体在此基准中用于近似地球
+description: 椭球体在此基准面中用于近似地球
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.spatialreferencing/geographicdatum/ellipsoid/
 ---
 ## GeographicDatum.Ellipsoid property
 
-椭球体，在此基准中用于近似地球。
+椭球体，在此基准面中用于近似地球。
 
 ```csharp
 public Ellipsoid Ellipsoid { get; }

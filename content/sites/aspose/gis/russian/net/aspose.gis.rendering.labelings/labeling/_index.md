@@ -1,14 +1,14 @@
 ---
 title: Labeling
 second_title: Справочник по Aspose.GIS for .NET API
-description: Абстрактный корневой класс для маркировки классы описывающие как размещать метки на функциях.
+description: Абстрактный корневой класс для надписей классов которые описывают как размещать подписи на объектах.
 type: docs
-weight: 1510
+weight: 1520
 url: /ru/net/aspose.gis.rendering.labelings/labeling/
 ---
 ## Labeling class
 
-Абстрактный корневой класс для маркировки, классы, описывающие, как размещать метки на функциях.
+Абстрактный корневой класс для надписей, классов, которые описывают, как размещать подписи на объектах.
 
 ```csharp
 public abstract class Labeling
@@ -18,7 +18,7 @@ public abstract class Labeling
 
 | Имя | Описание |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.labelings/labeling/null) { get; } | Получает экземпляр[`NullLabeling`](../nulllabeling). |
+| static [Null](../../aspose.gis.rendering.labelings/labeling/null) { get; } | Получает экземпляр[`NullLabeling`](../nulllabeling) . |
 
 ### Смотрите также
 

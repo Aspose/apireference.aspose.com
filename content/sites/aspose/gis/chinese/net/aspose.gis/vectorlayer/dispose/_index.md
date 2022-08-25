@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.GIS for .NET API 参考
-description: 释放VectorLayeraspose.gis/vectorlayer使用的资源
+description: 释放所使用的资源VectorLayeraspose.gis/vectorlayer.
 type: docs
 weight: 110
 url: /zh/net/aspose.gis/vectorlayer/dispose/
 ---
 ## VectorLayer.Dispose method
 
-释放[`VectorLayer`](../../vectorlayer)使用的资源。
+释放所使用的资源[`VectorLayer`](../../vectorlayer).
 
 ```csharp
 public void Dispose()

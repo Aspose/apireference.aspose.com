@@ -1,14 +1,14 @@
 ---
 title: DatumType
 second_title: Aspose.GIS for .NET API 参考
-description: 整数表示使用过的方法
+description: 一个整数表示已经使用的方法
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/verticaldatum/datumtype/
 ---
 ## VerticalDatum.DatumType property
 
-整数，表示使用过的方法。
+一个整数，表示已经使用的方法。
 
 ```csharp
 public int DatumType { get; }

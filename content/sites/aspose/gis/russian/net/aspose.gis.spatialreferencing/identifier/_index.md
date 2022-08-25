@@ -1,14 +1,14 @@
 ---
 title: Identifier
 second_title: Справочник по Aspose.GIS for .NET API
-description: Представляет идентификатор - ссылку на внешнее описание объекта. Если вы создаете SRS из WKTIdentifier./identifierсоответствует ключевому слову AUTHORITY.
+description: Представляет идентификатор  ссылку на внешнее описание объекта. Если вы создаете SRS из WKTIdentifier./identifier соответствует ключевому слову AUTHORITY.
 type: docs
-weight: 2050
+weight: 2060
 url: /ru/net/aspose.gis.spatialreferencing/identifier/
 ---
 ## Identifier class
 
-Представляет идентификатор - ссылку на внешнее описание объекта. Если вы создаете SRS из WKT,[`Identifier`](../identifier)соответствует ключевому слову "AUTHORITY".
+Представляет идентификатор - ссылку на внешнее описание объекта. Если вы создаете SRS из WKT,[`Identifier`](../identifier) соответствует ключевому слову "AUTHORITY".
 
 ```csharp
 public class Identifier : IEquatable<Identifier>
@@ -24,18 +24,18 @@ public class Identifier : IEquatable<Identifier>
 
 | Имя | Описание |
 | --- | --- |
-| [AuthorityName](../../aspose.gis.spatialreferencing/identifier/authorityname) { get; } | Имя органа, выдавшего[`AuthorityUniqueIdentifier`](./authorityuniqueidentifier). |
-| [AuthorityUniqueIdentifier](../../aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier) { get; } | Уникальный способ представления объекта в пределах[`AuthorityName`](./authorityname). |
+| [AuthorityName](../../aspose.gis.spatialreferencing/identifier/authorityname) { get; } | Имя органа, давшего[`AuthorityUniqueIdentifier`](./authorityuniqueidentifier) . |
+| [AuthorityUniqueIdentifier](../../aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier) { get; } | Уникальный способ представления объекта в[`AuthorityName`](./authorityname) . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [Epsg](../../aspose.gis.spatialreferencing/identifier/epsg)(int) | Создает новый идентификатор, который представляет идентификатор EPSG с кодом*epsgCode*. |
+| static [Epsg](../../aspose.gis.spatialreferencing/identifier/epsg)(int) | Создает новый идентификатор, который представляет идентификатор EPSG с кодом*epsgCode* . |
 | [Equals](../../aspose.gis.spatialreferencing/identifier/equals#equals)(Identifier) | Указывает, равен ли текущий объект другому объекту того же типа. |
 | override [Equals](../../aspose.gis.spatialreferencing/identifier/equals#equals_1)(object) | Определяет, равен ли указанный объект текущему объекту. |
-| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode)() | Если этот объект представляет действительный идентификатор EPSG (например, имя органа власти "EPSG" и уникальный идентификатор органа власти целочисленный) - вернуть его. В противном случае - вернуть -1. |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode)() | Служит хэш-функцией по умолчанию. |
+| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode)() | Если этот объект представляет действительный идентификатор EPSG (например, имя органа власти "EPSG" и уникальный идентификатор органа власти целое число), - вернуть его. В противном случае - вернуть -1. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode)() | Служит хеш-функцией по умолчанию. |
 | [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality) | Реализует оператор ==. |
 | [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality) | Реализует оператор !=. |
 

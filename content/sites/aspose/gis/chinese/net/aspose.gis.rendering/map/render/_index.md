@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Aspose.GIS for .NET API 参考
-description: 将映射渲染到文件中
+description: 将地图渲染到文件中
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.rendering/map/render/
 ---
 ## Render(string, Renderer) {#render_1}
 
-将映射渲染到文件中。
+将地图渲染到文件中。
 
 ```csharp
 public void Render(string outputPath, Renderer renderer)
@@ -17,7 +17,7 @@ public void Render(string outputPath, Renderer renderer)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputPath | String | 输出文件的路径。 |
-| renderer | Renderer | 使用的渲染器。 |
+| renderer | Renderer | 要使用的渲染器。 |
 
 ### 也可以看看
 
@@ -30,7 +30,7 @@ public void Render(string outputPath, Renderer renderer)
 
 ## Render(AbstractPath, Renderer) {#render}
 
-将映射渲染到文件中。
+将地图渲染到文件中。
 
 ```csharp
 public void Render(AbstractPath outputPath, Renderer renderer)
@@ -39,13 +39,13 @@ public void Render(AbstractPath outputPath, Renderer renderer)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputPath | AbstractPath | 输出文件的路径。 |
-| renderer | Renderer | 使用的渲染器。 |
+| renderer | Renderer | 要使用的渲染器。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 任何参数`null`。 |
+| ArgumentNullException | 任何论点`null`. |
 | IOException | 发生 I/O 错误。 |
 | [GisException](../../../aspose.gis/gisexception) | 处理或读取 GIS 数据时出错。 |
 

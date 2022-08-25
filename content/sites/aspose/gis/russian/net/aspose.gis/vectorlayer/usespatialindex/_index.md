@@ -1,14 +1,14 @@
 ---
 title: UseSpatialIndex
 second_title: Справочник по Aspose.GIS for .NET API
-description: Загружает пространственный индекс для ускорения фильтрации по значению атрибута в методах фильтрации таких какWhereIntersectsaspose.gis/featuressequence/whereintersects иNearestToaspose.gis/vectorlayer/nearestto. Если индекс не существует сначала создает его. ИспользуйтеforceRebuildдля принудительного восстановления индекса.
+description: Загружает пространственный индекс для ускорения фильтрации по значению атрибута в таких методах фильтрации какWhereIntersectsaspose.gis/featuressequence/whereintersects иNearestToaspose.gis/vectorlayer/nearestto. Если индекс не существует сначала создает его. ИспользоватьforceRebuild для принудительного восстановления индекса.
 type: docs
 weight: 170
 url: /ru/net/aspose.gis/vectorlayer/usespatialindex/
 ---
 ## UseSpatialIndex(string, bool) {#usespatialindex_1}
 
-Загружает пространственный индекс для ускорения фильтрации по значению атрибута в методах фильтрации, таких как[`WhereIntersects`](../../featuressequence/whereintersects) и[`NearestTo`](../nearestto). Если индекс не существует, сначала создает его. Используйте*forceRebuild*для принудительного восстановления индекса.
+Загружает пространственный индекс для ускорения фильтрации по значению атрибута в таких методах фильтрации, как[`WhereIntersects`](../../featuressequence/whereintersects) и[`NearestTo`](../nearestto). Если индекс не существует, сначала создает его. Использовать*forceRebuild* для принудительного восстановления индекса.
 
 ```csharp
 public void UseSpatialIndex(string indexPath, bool forceRebuild = false)
@@ -24,9 +24,9 @@ public void UseSpatialIndex(string indexPath, bool forceRebuild = false)
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 | InvalidOperationException | Для этого слоя уже загружен пространственный индекс. |
-| [GisException](../../gisexception) | Файл существует и не является файлом пространственного индекса, созданным Aspose.GIS. |
+| [GisException](../../gisexception) | Файл существует, и это не файл пространственного индекса, созданный Aspose.GIS. |
 
 ### Смотрите также
 
@@ -38,7 +38,7 @@ public void UseSpatialIndex(string indexPath, bool forceRebuild = false)
 
 ## UseSpatialIndex(AbstractPath, bool) {#usespatialindex}
 
-Загружает пространственный индекс для ускорения фильтрации по значению атрибута в методах фильтрации, таких как[`WhereIntersects`](../../featuressequence/whereintersects) и[`NearestTo`](../nearestto). Если индекс не существует, сначала создает его. Используйте*forceRebuild*для принудительного восстановления индекса.
+Загружает пространственный индекс для ускорения фильтрации по значению атрибута в таких методах фильтрации, как[`WhereIntersects`](../../featuressequence/whereintersects) и[`NearestTo`](../nearestto). Если индекс не существует, сначала создает его. Использовать*forceRebuild* для принудительного восстановления индекса.
 
 ```csharp
 public virtual void UseSpatialIndex(AbstractPath indexPath, bool forceRebuild = false)
@@ -54,9 +54,9 @@ public virtual void UseSpatialIndex(AbstractPath indexPath, bool forceRebuild = 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| IOException | Произошла ошибка ввода-вывода. |
+| IOException | Произошла ошибка ввода/вывода. |
 | InvalidOperationException | Для этого слоя уже загружен пространственный индекс. |
-| [GisException](../../gisexception) | Файл существует и не является файлом пространственного индекса, созданным Aspose.GIS. |
+| [GisException](../../gisexception) | Файл существует, и это не файл пространственного индекса, созданный Aspose.GIS. |
 
 ### Смотрите также
 

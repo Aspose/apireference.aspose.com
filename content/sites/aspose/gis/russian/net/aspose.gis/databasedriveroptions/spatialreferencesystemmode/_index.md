@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystemMode
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет как следует обрабатывать SRS неизвестных геометрий для базы данных при их добавлении в слой. Значение по умолчаниюThrowException.
+description: Определяет как следует обрабатывать SRS неизвестных геометрий для базы данных при их добавлении в слой. Значение по умолчаниюThrowException .
 type: docs
 weight: 10
 url: /ru/net/aspose.gis/databasedriveroptions/spatialreferencesystemmode/
 ---
 ## DatabaseDriverOptions.SpatialReferenceSystemMode property
 
-Определяет, как следует обрабатывать SRS неизвестных геометрий для базы данных при их добавлении в слой. Значение по умолчанию:ThrowException.
+Определяет, как следует обрабатывать SRS неизвестных геометрий для базы данных при их добавлении в слой. Значение по умолчанию:ThrowException .
 
 ```csharp
 public SpatialReferenceSystemMode SpatialReferenceSystemMode { get; set; }

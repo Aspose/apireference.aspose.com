@@ -1,14 +1,14 @@
 ---
 title: IsEquivalent
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет эквивалентность двух данных. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными напримерNameaspose.gis.spatialreferencing/identifiableobject/name.
+description: Определяет эквивалентность двух датумов. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными напримерNameaspose.gis.spatialreferencing/identifiableobject/name .
 type: docs
 weight: 90
 url: /ru/net/aspose.gis.spatialreferencing/geographicdatum/isequivalent/
 ---
 ## IsEquivalent(GeographicDatum, GeographicDatum)
 
-Определяет эквивалентность двух данных. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными, например[`Name`](../../identifiableobject/name).
+Определяет эквивалентность двух датумов. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными, например[`Name`](../../identifiableobject/name) .
 
 ```csharp
 public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
@@ -16,12 +16,12 @@ public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| datum1 | GeographicDatum | Первая точка отсчета. |
-| datum2 | GeographicDatum | Второе значение. |
+| datum1 | GeographicDatum | Первое данное. |
+| datum2 | GeographicDatum | Вторая дата. |
 
 ### Возвращаемое значение
 
-логическое значение, указывающее, эквивалентны ли два элемента данных.
+логическое значение, указывающее, эквивалентны ли два данных.
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
 
 ## IsEquivalent(GeographicDatum)
 
-Определяет эквивалентность двух данных. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными, например[`Name`](../../identifiableobject/name).
+Определяет эквивалентность двух датумов. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными, например[`Name`](../../identifiableobject/name) .
 
 ```csharp
 public bool IsEquivalent(GeographicDatum other)
@@ -45,7 +45,7 @@ public bool IsEquivalent(GeographicDatum other)
 
 ### Возвращаемое значение
 
-логическое значение, указывающее, эквивалентны ли два элемента данных.
+логическое значение, указывающее, эквивалентны ли два данных.
 
 ### Смотрите также
 

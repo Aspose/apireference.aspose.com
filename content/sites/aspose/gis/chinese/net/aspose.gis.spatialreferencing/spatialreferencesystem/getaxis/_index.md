@@ -1,14 +1,14 @@
 ---
 title: GetAxis
 second_title: Aspose.GIS for .NET API 参考
-description: 获取描述维度的Axisaspose.gis.spatialreferencing/axis
+description: 获取Axisaspose.gis.spatialreferencing/axis描述维度.
 type: docs
 weight: 200
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/getaxis/
 ---
 ## SpatialReferenceSystem.GetAxis method
 
-获取描述维度的[`Axis`](../../axis)。
+获取[`Axis`](../../axis)描述维度.
 
 ```csharp
 public abstract Axis GetAxis(int dimension)
@@ -26,7 +26,7 @@ public abstract Axis GetAxis(int dimension)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension*小于 0 或大于或等于DimensionsCount |
+| ArgumentOutOfRangeException | *dimension*小于 0 或大于或等于[`DimensionsCount`](../dimensionscount) |
 
 ### 也可以看看
 

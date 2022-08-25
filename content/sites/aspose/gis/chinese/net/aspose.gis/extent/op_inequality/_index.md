@@ -16,8 +16,8 @@ public static bool operator !=(Extent left, Extent right)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Extent | 第一个参数。 |
-| right | Extent | 第二个参数。 |
+| left | Extent | 第一个论点。 |
+| right | Extent | 第二个论点。 |
 
 ### 返回值
 

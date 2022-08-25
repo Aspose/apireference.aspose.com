@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystemMode
 second_title: Aspose.GIS for .NET API 参考
-description: 确定在将未知几何图形添加到图层时应如何处理数据库的未知几何图形 SRS 默认值为ThrowException
+description: 确定在将未知几何图形添加到图层时应如何处理数据库的 SRS 默认值为ThrowException.
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/databasedriveroptions/spatialreferencesystemmode/
 ---
 ## DatabaseDriverOptions.SpatialReferenceSystemMode property
 
-确定在将未知几何图形添加到图层时应如何处理数据库的未知几何图形 SRS。 默认值为ThrowException。
+确定在将未知几何图形添加到图层时应如何处理数据库的 SRS。 默认值为ThrowException.
 
 ```csharp
 public SpatialReferenceSystemMode SpatialReferenceSystemMode { get; set; }

@@ -24,7 +24,7 @@ public SimpleFill()
 
 ## SimpleFill(SimpleFill) {#constructor_1}
 
-初始化[`SimpleFill`](../../simplefill)类的新实例。
+初始化[`SimpleFill`](../../simplefill)类.
 
 ```csharp
 public SimpleFill(SimpleFill other)
@@ -32,13 +32,13 @@ public SimpleFill(SimpleFill other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleFill | 另一个[`SimpleFill`](../../simplefill)从中复制数据. |
+| other | SimpleFill | 另一个[`SimpleFill`](../../simplefill)从中复制数据。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

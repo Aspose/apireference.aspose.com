@@ -1,14 +1,14 @@
 ---
 title: Dz
 second_title: Справочник по Aspose.GIS for .NET API
-description: Dz в метрах.
+description: Дз в метрах.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.spatialreferencing/bursawolfparameters/dz/
 ---
 ## BursaWolfParameters.Dz property
 
-Dz в метрах.
+Дз в метрах.
 
 ```csharp
 public double Dz { get; }

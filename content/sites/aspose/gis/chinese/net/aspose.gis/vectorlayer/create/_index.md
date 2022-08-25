@@ -16,7 +16,7 @@ public static VectorLayer Create(string path, FileDriver driver)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
+| path | String | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
@@ -27,9 +27,9 @@ public static VectorLayer Create(string path, FileDriver driver)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -51,9 +51,9 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
+| path | String | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
@@ -63,9 +63,9 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -88,7 +88,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
+| path | AbstractPath | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
@@ -99,9 +99,9 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -124,9 +124,9 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
+| path | AbstractPath | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 
 ### 返回值
 
@@ -136,9 +136,9 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将特征写入文件时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 将功能写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
 
 ### 也可以看看
@@ -154,7 +154,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 ## Create(string, FileDriver, SpatialReferenceSystem) {#create_7}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public static VectorLayer Create(string path, FileDriver driver, 
@@ -163,22 +163,22 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
+| path | String | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用SpatialReferenceSystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem)检查是否支持空间参考系统。 |
 
 ### 也可以看看
 
@@ -192,7 +192,7 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 ## Create(AbstractPath, FileDriver, SpatialReferenceSystem) {#create_3}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public static VectorLayer Create(AbstractPath path, FileDriver driver, 
@@ -201,22 +201,22 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
+| path | AbstractPath | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用SpatialReferenceSystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem)检查是否支持空间参考系统。 |
 
 ### 也可以看看
 
@@ -231,7 +231,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 
 ## Create(string, FileDriver, DriverOptions, SpatialReferenceSystem) {#create_6}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public static VectorLayer Create(string path, FileDriver driver, DriverOptions options, 
@@ -240,24 +240,24 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件路径。 |
+| path | String | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用SpatialReferenceSystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem)检查是否支持空间参考系统。 |
 
 ### 也可以看看
 
@@ -272,7 +272,7 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 ## Create(AbstractPath, FileDriver, DriverOptions, SpatialReferenceSystem) {#create_2}
 
-创建图层并将其打开以进行附加。
+创建图层并打开它以进行附加。
 
 ```csharp
 public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOptions options, 
@@ -281,24 +281,24 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | AbstractPath | 文件路径。 |
+| path | AbstractPath | 文件的路径。 |
 | driver | FileDriver | 要使用的驱动程序。 |
-| options | DriverOptions | 驱动程序特定选项。 |
+| options | DriverOptions | 特定于驱动程序的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-[`VectorLayer`](../../vectorlayer)的一个实例。
+一个实例[`VectorLayer`](../../vectorlayer).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`。 |
-| ArgumentException | 该驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 在文件中读取或写入特征时出错。 |
+| ArgumentNullException | 路径是`null`. |
+| ArgumentException | 此驱动程序的选项对象类型不正确。 |
+| [GisException](../../gisexception) | 在文件中读取或写入功能时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用SpatialReferenceSystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem)检查是否支持空间参考系统。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PrimeMeridian
 second_title: Aspose.GIS for .NET API 参考
-description: 抛出InvalidOperationException因为垂直 SRS 没有本初子午线
+description: 抛出InvalidOperationException 因为垂直 SRS 没有本初子午线
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/primemeridian/
 ---
 ## VerticalSpatialReferenceSystem.PrimeMeridian property
 
-抛出InvalidOperationException，因为垂直 SRS 没有本初子午线。
+抛出InvalidOperationException ，因为垂直 SRS 没有本初子午线。
 
 ```csharp
 public override PrimeMeridian PrimeMeridian { get; }

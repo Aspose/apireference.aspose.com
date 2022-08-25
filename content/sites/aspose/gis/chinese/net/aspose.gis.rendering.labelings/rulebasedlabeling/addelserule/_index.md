@@ -1,14 +1,14 @@
 ---
 title: AddElseRule
 second_title: Aspose.GIS for .NET API 参考
-description: 添加将应用于不匹配任何过滤规则的特征的标签
+description: 添加将应用于与任何过滤规则不匹配的特征的标签
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.rendering.labelings/rulebasedlabeling/addelserule/
 ---
 ## RuleBasedLabeling.AddElseRule method
 
-添加将应用于不匹配任何过滤规则的特征的标签。
+添加将应用于与任何过滤规则不匹配的特征的标签。
 
 ```csharp
 public void AddElseRule(Labeling labeling)
@@ -22,7 +22,7 @@ public void AddElseRule(Labeling labeling)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`。 |
+| ArgumentNullException | 论据是`null`. |
 
 ### 也可以看看
 

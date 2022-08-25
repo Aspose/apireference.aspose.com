@@ -1,14 +1,14 @@
 ---
 title: PointSymbolizer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Задает символ используемый для геометрии точек в слое.
+description: Задает символ используемый для точечной геометрии в слое.
 type: docs
 weight: 30
 url: /ru/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer/
 ---
 ## MixedGeometrySymbolizer.PointSymbolizer property
 
-Задает символ, используемый для геометрии точек в слое.
+Задает символ, используемый для точечной геометрии в слое.
 
 ```csharp
 public VectorSymbolizer PointSymbolizer { get; set; }

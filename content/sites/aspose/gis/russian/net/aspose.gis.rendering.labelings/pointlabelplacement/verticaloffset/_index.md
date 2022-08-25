@@ -1,14 +1,14 @@
 ---
 title: VerticalOffset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет вертикальное смещение от местоположения точки до точки привязки меток.
+description: Задает смещение по вертикали от местоположения точки до точки привязки меток.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis.rendering.labelings/pointlabelplacement/verticaloffset/
 ---
 ## PointLabelPlacement.VerticalOffset property
 
-Определяет вертикальное смещение от местоположения точки до точки привязки меток.
+Задает смещение по вертикали от местоположения точки до точки привязки меток.
 
 ```csharp
 public Measurement VerticalOffset { get; set; }

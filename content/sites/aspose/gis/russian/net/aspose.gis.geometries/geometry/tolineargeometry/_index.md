@@ -1,14 +1,14 @@
 ---
 title: ToLinearGeometry
 second_title: Справочник по Aspose.GIS for .NET API
-description: Получает приблизительную или эквивалентную некривую версию этой геометрии используя допуск по умолчанию .
+description: Получает приблизительную или эквивалентную некривую версию этой геометрии используя значение по умолчанию.толерантность .
 type: docs
 weight: 400
 url: /ru/net/aspose.gis.geometries/geometry/tolineargeometry/
 ---
 ## ToLinearGeometry() {#tolineargeometry}
 
-Получает приблизительную или эквивалентную некривую версию этой геометрии, используя допуск по умолчанию .
+Получает приблизительную или эквивалентную некривую версию этой геометрии, используя значение по умолчанию.`толерантность` .
 
 ```csharp
 public IGeometry ToLinearGeometry()
@@ -16,13 +16,13 @@ public IGeometry ToLinearGeometry()
 
 ### Возвращаемое значение
 
-Геометрия, не имеющая кривых геометрий. Это эквивалент[`ToLinearGeometry`](../../igeometry/tolineargeometry)с по умолчанию` допуска` . По умолчанию` допуск` определяется[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) этой геометрии: &lt;ul&gt;&lt;li&gt; Для проектируемого SRS Допуск составляет 0,001 метра (в единицах SRS) &lt;/li&gt;&lt;li&gt; Для географического SRS Допуск составляет` 1e-5` градусов (в единицах SRS) &lt;/li&gt;&lt;li&gt; Для неизвестного SRS Допуск составляет` 1e-5` &lt;/li&gt;&lt;/ ul&gt; Подробнее о применяемых преобразованиях см. в спецификации[`ToLinearGeometry`](../../igeometry/tolineargeometry).
+Геометрия без кривых. Это эквивалент[`ToLinearGeometry`](../../igeometry/tolineargeometry) с по умолчанию`толерантность` . По умолчанию`толерантность` определяется[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) этой геометрии:  Для проектируемого SRS Допуск составляет 0,001 метра (в единицах SRS) Для географического SRS допуск равен`1е-5` градусы (в единицах SRS) Для неизвестного SRS Допуск равен`1е-5` Подробнее о применяемых преобразованиях см.[`ToLinearGeometry`](../../igeometry/tolineargeometry) спецификация.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | Эта геометрия недействительна таким образом, что операция не может быть завершенный. |
+| InvalidOperationException | Эта геометрия недействительна, поэтому операция не может быть завершена. |
 
 ### Смотрите также
 
@@ -35,7 +35,7 @@ public IGeometry ToLinearGeometry()
 
 ## ToLinearGeometry(double) {#tolineargeometry_1}
 
-Получает приблизительную или эквивалентную некривую версию этой геометрии с использованием указанного допуска .
+Получает приблизительную или эквивалентную некривую версию этой геометрии, используя указанный`толерантность` .
 
 ```csharp
 public IGeometry ToLinearGeometry(double tolerance)
@@ -43,18 +43,18 @@ public IGeometry ToLinearGeometry(double tolerance)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| допуск | Double | Допуск использовать. Результат гарантированно будет меньше` допуска` вдали от криволинейной геометрии, если только количество точек, необходимых для линеаризации геометрии, не превышает максимум на квадрант что в настоящее время равно 10000 точек. |
+| tolerance | Double | `толерантность`использовать. Результат гарантированно будет меньше`толерантность` вдали от изогнутой геометрии , если только количество точек, необходимых для линеаризации геометрии, не превышает максимальное для каждого квадранта, которое в настоящее время равно 10000 точек. |
 
 ### Возвращаемое значение
 
-Геометрия, не имеющая кривых геометрий. Применяются следующие преобразования: &lt;ul&gt;&lt;li&gt;CircularStringлинеаризуются (преобразуются вLineStrings с указанным*tolerance*) &lt;/li&gt;&lt;li&gt;CompoundCurves объединяются в` LineString` s &lt;/li&gt;&lt;li&gt;CurvePolygons преобразуются вPolygons &lt;/li&gt;&lt;li&gt;MultiCurves преобразуются вMultiLineStrings &lt;/li&gt;&lt;li&gt;MultiSurfaces преобразуются вMultiPolygons &lt;/li&gt;&lt;/ul&gt; В результате[`HasCurveGeometry`](../../igeometry/hascurvegeometry)выходной геометрии:`false`.
+Геометрия без кривых. Применяются следующие преобразования: CircularString s линеаризованы (преобразованы вLineString с указанным*tolerance* )CompoundCurve присоединяются к`LineString` сCurvePolygon s превращаются вPolygon сMultiCurve s превращаются вMultiLineString сMultiSurface s превращаются вMultiPolygon с В результате[`HasCurveGeometry`](../../igeometry/hascurvegeometry) выходной геометрии`false` .
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | ` допуск` меньше или равно` 0` . |
-| InvalidOperationException | Эта геометрия недействительна таким образом, что операция не может быть завершенный. |
+| ArgumentOutOfRangeException | `толерантность` меньше или равно`0` . |
+| InvalidOperationException | Эта геометрия недействительна, поэтому операция не может быть завершена. |
 
 ### Смотрите также
 

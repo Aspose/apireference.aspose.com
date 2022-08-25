@@ -1,14 +1,14 @@
 ---
 title: KmlPolygonStyle
 second_title: Справочник по Aspose.GIS for .NET API
-description: Определяет стиль рисования для многоугольника включая многоугольник и вытянутую часть kmlPolygon или LineString.
+description: Указывает стиль рисования для многоугольника включая многоугольник и вытянутую часть kmlPolygon или LineString.
 type: docs
 weight: 490
 url: /ru/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/
 ---
 ## KmlPolygonStyle class
 
-Определяет стиль рисования для многоугольника, включая многоугольник и вытянутую часть kml:Polygon или LineString.
+Указывает стиль рисования для многоугольника, включая многоугольник и вытянутую часть kml:Polygon или LineString.
 
 ```csharp
 public class KmlPolygonStyle : KmlAbstractColorStyle
@@ -24,10 +24,10 @@ public class KmlPolygonStyle : KmlAbstractColorStyle
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Задает цвет графического элемента. Значение по умолчаниюWhite. |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Определяет цветовой режим графического элемента. Значение по умолчанию:обычное. |
-| [Fill](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/fill) { get; set; } | Указывает, заполнять ли полигон. Значение по умолчанию:`true`. |
-| [Outline](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/outline) { get; set; } | Указывает, обводить ли многоугольник контуром. Значение по умолчанию:`true`. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color) { get; set; } | Определяет цвет графического элемента. Значение по умолчаниюWhite . |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode) { get; set; } | Определяет цветовой режим графического элемента. Значение по умолчанию: обычное. |
+| [Fill](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/fill) { get; set; } | Указывает, заполнять ли полигон. Значение по умолчанию`true`. |
+| [Outline](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/outline) { get; set; } | Указывает, следует ли обводить полигон. Значение по умолчанию`true`. |
 
 ### Смотрите также
 

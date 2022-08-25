@@ -16,11 +16,11 @@ public bool IsNull(int bandIndex = 0)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| bandIndex | Int32 | 波段的索引。编号从 0 开始。 |
+| bandIndex | Int32 | 乐队的索引。编号从 0 开始。 |
 
 ### 返回值
 
-如果不存在则返回 'false'。
+如果不存在，则返回“假”。
 
 ### 也可以看看
 

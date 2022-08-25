@@ -8,7 +8,7 @@ url: /ru/net/aspose.gis.formats.kml.styles/kmlcoordinate/yunits/
 ---
 ## KmlCoordinate.YUnits property
 
-Единицы, в которых указано значение Y. Значение по умолчанию:Fraction.
+Единицы, в которых указано значение Y. Значение по умолчаниюFraction.
 
 ```csharp
 public KmlUnits YUnits { get; set; }
