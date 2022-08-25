@@ -1,9 +1,9 @@
 ---
 title: SvgSaveOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Class representing options of saving to SVG.
 type: docs
-weight: 410
+weight: 430
 url: /net/aspose.tex.presentation.svg/svgsaveoptions/
 ---
 ## SvgSaveOptions class
@@ -18,7 +18,7 @@ public class SvgSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [SvgSaveOptions](svgsaveoptions)() | The default constructor. |
+| [SvgSaveOptions](svgsaveoptions)() | Creates new instance of options. |
 
 ## Properties
 

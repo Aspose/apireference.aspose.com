@@ -1,7 +1,7 @@
 ---
 title: FillPath
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Fill a path.
 type: docs
 weight: 170
 url: /net/aspose.tex.presentation.image/imagedevice/fillpath/

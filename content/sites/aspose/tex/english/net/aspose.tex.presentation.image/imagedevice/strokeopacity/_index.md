@@ -1,7 +1,7 @@
 ---
 title: StrokeOpacity
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the current stroke opacity.
 type: docs
 weight: 90
 url: /net/aspose.tex.presentation.image/imagedevice/strokeopacity/

@@ -1,7 +1,7 @@
 ---
 title: ShowTerminal
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: The flag that controls terminal output. If
 type: docs
 weight: 70
 url: /net/aspose.tex.features/mathrendereroptions/showterminal/

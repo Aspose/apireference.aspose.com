@@ -1,7 +1,7 @@
 ---
 title: GetOutputFile
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Returns the stream to write to.
 type: docs
 weight: 50
 url: /net/aspose.tex.io/outputzipdirectory/getoutputfile/
@@ -19,7 +19,7 @@ public Stream GetOutputFile(string fileName, out string fullName)
 | fileName | String | The file name. |
 | fullName | String& | The full file name. |
 
-## Return Value
+### Return Value
 
 The stream.
 

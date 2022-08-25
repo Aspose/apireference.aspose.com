@@ -1,7 +1,7 @@
 ---
 title: IgnoreMissingPackages
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the flag that instructs the engine whether to halt on missing package read attempt or ignore it.
 type: docs
 weight: 30
 url: /net/aspose.tex/texoptions/ignoremissingpackages/

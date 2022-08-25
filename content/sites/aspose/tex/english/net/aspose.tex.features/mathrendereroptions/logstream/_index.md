@@ -1,7 +1,7 @@
 ---
 title: LogStream
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/set the stream to write log output to.
 type: docs
 weight: 40
 url: /net/aspose.tex.features/mathrendereroptions/logstream/

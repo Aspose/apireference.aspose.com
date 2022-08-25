@@ -1,7 +1,7 @@
 ---
 title: InputWorkingDirectory
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets input working directory.
 type: docs
 weight: 40
 url: /net/aspose.tex/texoptions/inputworkingdirectory/

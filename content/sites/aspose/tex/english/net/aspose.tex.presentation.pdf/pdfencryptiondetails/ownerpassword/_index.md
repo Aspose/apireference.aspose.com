@@ -1,7 +1,7 @@
 ---
 title: OwnerPassword
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets or sets the Owner password.
 type: docs
 weight: 30
 url: /net/aspose.tex.presentation.pdf/pdfencryptiondetails/ownerpassword/
@@ -14,7 +14,7 @@ Gets or sets the Owner password.
 public string OwnerPassword { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The owner password.
 

@@ -1,7 +1,7 @@
 ---
 title: EndFragment
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Ends a fragment to rasterize.
 type: docs
 weight: 160
 url: /net/aspose.tex.presentation.xps/xpsdevice/endfragment/

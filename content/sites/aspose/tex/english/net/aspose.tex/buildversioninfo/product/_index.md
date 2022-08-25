@@ -1,7 +1,7 @@
 ---
 title: Product
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Product Name
 type: docs
 weight: 40
 url: /net/aspose.tex/buildversioninfo/product/

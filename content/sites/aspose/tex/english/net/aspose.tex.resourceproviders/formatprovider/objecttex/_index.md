@@ -1,7 +1,7 @@
 ---
 title: ObjectTeX
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Default format provider for ObjectTeX engine extension.
 type: docs
 weight: 30
 url: /net/aspose.tex.resourceproviders/formatprovider/objecttex/

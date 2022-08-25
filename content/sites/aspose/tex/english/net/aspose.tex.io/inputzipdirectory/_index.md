@@ -1,7 +1,7 @@
 ---
 title: InputZipDirectory
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Implements the method for getting a file stream to write to when working directory is a ZIP archive.
 type: docs
 weight: 150
 url: /net/aspose.tex.io/inputzipdirectory/

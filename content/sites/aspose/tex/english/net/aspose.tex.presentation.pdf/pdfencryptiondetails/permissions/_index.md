@@ -1,7 +1,7 @@
 ---
 title: Permissions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets or sets the permissions.
 type: docs
 weight: 40
 url: /net/aspose.tex.presentation.pdf/pdfencryptiondetails/permissions/
@@ -14,7 +14,7 @@ Gets or sets the permissions.
 public int Permissions { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The permissions.
 

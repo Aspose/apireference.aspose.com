@@ -1,9 +1,9 @@
 ---
 title: PageNumbers
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the array of numbers of pages to convert.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.tex.presentation.image/imagesaveoptions/pagenumbers/
 ---
 ## ImageSaveOptions.PageNumbers property

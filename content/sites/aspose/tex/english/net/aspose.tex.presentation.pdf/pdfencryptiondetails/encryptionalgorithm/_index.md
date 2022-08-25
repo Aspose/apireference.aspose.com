@@ -1,7 +1,7 @@
 ---
 title: EncryptionAlgorithm
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets or sets the encryption mode.
 type: docs
 weight: 20
 url: /net/aspose.tex.presentation.pdf/pdfencryptiondetails/encryptionalgorithm/
@@ -14,7 +14,7 @@ Gets or sets the encryption mode.
 public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The encryption algorithm.
 

@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Disposes this device instance. Finalizes this device instance graphics state i.e. switches APS composing context to the ApsCanvas of the level higher then this devices graphics state ApsCanvas.
 type: docs
 weight: 120
 url: /net/aspose.tex.presentation.svg/svgdevice/dispose/

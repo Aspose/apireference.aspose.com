@@ -1,9 +1,9 @@
 ---
 title: InterpolationMode
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the interpolation mode.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.tex.presentation.image/imagesaveoptions/interpolationmode/
 ---
 ## ImageSaveOptions.InterpolationMode property

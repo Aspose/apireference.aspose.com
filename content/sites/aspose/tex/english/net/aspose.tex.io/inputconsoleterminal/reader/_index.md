@@ -1,7 +1,7 @@
 ---
 title: Reader
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets the console as a terminal input source.
 type: docs
 weight: 20
 url: /net/aspose.tex.io/inputconsoleterminal/reader/

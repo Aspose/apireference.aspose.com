@@ -1,7 +1,7 @@
 ---
 title: Reader
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets the reader for the input terminal.
 type: docs
 weight: 10
 url: /net/aspose.tex.io/iinputterminal/reader/

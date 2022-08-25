@@ -1,14 +1,14 @@
 ---
 title: GlyphData
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates new instance.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation/glyphdata/glyphdata/
 ---
 ## GlyphData constructor
 
-The default constructor.
+Creates new instance.
 
 ```csharp
 public GlyphData()

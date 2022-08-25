@@ -1,7 +1,7 @@
 ---
 title: TerminalOut
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the output terminal writer.
 type: docs
 weight: 130
 url: /net/aspose.tex/texoptions/terminalout/

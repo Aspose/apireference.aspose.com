@@ -1,7 +1,7 @@
 ---
 title: FileVersion
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: File Version
 type: docs
 weight: 30
 url: /net/aspose.tex/buildversioninfo/fileversion/

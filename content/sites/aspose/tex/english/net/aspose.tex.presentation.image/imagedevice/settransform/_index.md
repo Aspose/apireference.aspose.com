@@ -1,7 +1,7 @@
 ---
 title: SetTransform
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Sets the current coordinate space transformation.
 type: docs
 weight: 200
 url: /net/aspose.tex.presentation.image/imagedevice/settransform/

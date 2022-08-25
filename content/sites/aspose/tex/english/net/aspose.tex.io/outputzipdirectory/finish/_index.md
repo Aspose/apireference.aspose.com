@@ -1,7 +1,7 @@
 ---
 title: Finish
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Finalizes ZIP archive.
 type: docs
 weight: 30
 url: /net/aspose.tex.io/outputzipdirectory/finish/

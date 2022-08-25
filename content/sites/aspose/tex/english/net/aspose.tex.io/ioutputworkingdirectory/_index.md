@@ -1,7 +1,7 @@
 ---
 title: IOutputWorkingDirectory
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Interface of generalized output working directory.
 type: docs
 weight: 120
 url: /net/aspose.tex.io/ioutputworkingdirectory/

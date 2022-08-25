@@ -1,9 +1,9 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Basic class representing options of saving to PDF.
 type: docs
-weight: 290
+weight: 310
 url: /net/aspose.tex.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class
@@ -24,6 +24,7 @@ public abstract class ImageSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
+| [DeviceWritesImages](../../aspose.tex.presentation.image/imagesaveoptions/devicewritesimages) { get; set; } | Gets/sets the flag that determines whether the image device will write output images. Set it to |
 | [InterpolationMode](../../aspose.tex.presentation.image/imagesaveoptions/interpolationmode) { get; set; } | Gets/sets the interpolation mode. |
 | [PageNumbers](../../aspose.tex.presentation.image/imagesaveoptions/pagenumbers) { get; set; } | Gets/sets the array of numbers of pages to convert. |
 | [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | Gets/sets the flag that allows to rasterize math formulas. |

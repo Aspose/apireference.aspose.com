@@ -1,7 +1,7 @@
 ---
 title: VOffset
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets vertical offset.
 type: docs
 weight: 50
 url: /net/aspose.tex.presentation/glyphdata/voffset/

@@ -1,7 +1,7 @@
 ---
 title: DrawPath
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Draws a path.
 type: docs
 weight: 120
 url: /net/aspose.tex.presentation/device/drawpath/

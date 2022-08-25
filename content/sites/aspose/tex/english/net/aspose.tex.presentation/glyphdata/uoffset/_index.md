@@ -1,7 +1,7 @@
 ---
 title: UOffset
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets horizontal offset.
 type: docs
 weight: 40
 url: /net/aspose.tex.presentation/glyphdata/uoffset/

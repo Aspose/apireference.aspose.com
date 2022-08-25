@@ -1,7 +1,7 @@
 ---
 title: ObjectLaTeX
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: LaTeX format provider for ObjectTeX engine extension.
 type: docs
 weight: 20
 url: /net/aspose.tex.resourceproviders/formatprovider/objectlatex/

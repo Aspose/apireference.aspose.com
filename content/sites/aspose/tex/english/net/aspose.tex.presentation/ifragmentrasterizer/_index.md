@@ -1,9 +1,9 @@
 ---
 title: IFragmentRasterizer
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Interface that allows to rasterize TeX fragments.
 type: docs
-weight: 250
+weight: 270
 url: /net/aspose.tex.presentation/ifragmentrasterizer/
 ---
 ## IFragmentRasterizer interface

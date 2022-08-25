@@ -1,9 +1,9 @@
 ---
 title: PdfDevice
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Implements the interface for outputting text and graphic content to PDF document.
 type: docs
-weight: 330
+weight: 350
 url: /net/aspose.tex.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class
@@ -18,8 +18,8 @@ public class PdfDevice : Device, IFragmentRasterizer, IInteractiveDevice
 
 | Name | Description |
 | --- | --- |
-| [PdfDevice](pdfdevice)() | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
-| [PdfDevice](pdfdevice)(Stream) | Creates new instance. The output file will be written to specified stream. |
+| [PdfDevice](pdfdevice#constructor)() | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
+| [PdfDevice](pdfdevice#constructor_1)(Stream) | Creates new instance. The output file will be written to specified stream. |
 
 ## Properties
 

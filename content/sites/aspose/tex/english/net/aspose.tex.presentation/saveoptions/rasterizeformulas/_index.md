@@ -1,7 +1,7 @@
 ---
 title: RasterizeFormulas
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the flag that allows to rasterize math formulas.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation/saveoptions/rasterizeformulas/
