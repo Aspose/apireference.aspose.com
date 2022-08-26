@@ -1,0 +1,50 @@
+---
+title: GpxOptions
+second_title: Aspose.GIS för .NET API Referens
+description: Drivrutinsspecifika alternativ för GPXformat.
+type: docs
+weight: 320
+url: /sv/net/aspose.gis.formats.gpx/gpxoptions/
+---
+## GpxOptions class
+
+Drivrutinsspecifika alternativ för GPX-format.
+
+```csharp
+public class GpxOptions : DriverOptions
+```
+
+## Konstruktörer
+
+| namn | Beskrivning |
+| --- | --- |
+| [GpxOptions](gpxoptions)() | Skapa ny instans. |
+
+## Egenskaper
+
+| namn | Beskrivning |
+| --- | --- |
+| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring) { get; set; } | Bestämmer om stänga en ostängdLinearRing i varje geometri. Standard till`false` . |
+| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints) { get; set; } | Bestämmer om lägga till en ny punkt i mitten till varje segment av geometri. Standard till`false` . |
+| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints) { get; set; } | Bestämmer om radera nära punkter i varje geometri. Standard till`false` . |
+| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance) { get; set; } | Bestämmer avstånd för[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints) . Standard till`0` . |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | En tolerans att använda för att linjärisera kurvgeometrier. |
+| [MAttribute](../../aspose.gis.formats.gpx/gpxoptions/mattribute) { get; set; } | Bestämmer vilket GPX-attribut som kommer att exporteras som 'M'-koordinat för waypoints, ruttpunkter och spårpunkter. Beteendet är detsamma som[`ZAttribute`](./zattribute) , har som standard`null` . |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel) som kommer att tillämpas på M coordinate när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact) . |
+| [NestedAttributeSeparator](../../aspose.gis.formats.gpx/gpxoptions/nestedattributeseparator) { get; } | En sträng för att separera kapslade attributnamn och dess index. Standard för att dubbelt understreck "__". |
+| [ReadNestedAttributes](../../aspose.gis.formats.gpx/gpxoptions/readnestedattributes) { get; set; } | Bestämmer om GPX-punkter, såsom 'trkpt' och 'rtept', innehåller inre attribut och om de ska läsas. Standard till`false` . |
+| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments) { get; set; } | Bestämmer om raderingspunkter som ligger på samma segment i varje geometri. Standard till`false` . |
+| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance) { get; set; } | Bestämmer avstånd för[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments) . Standard till`0` . |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Bestämmer om geometrier ska valideras när de läggs till i lagret. Om satt till`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)anropas för each geometri när den läggs till i lagret och om valideringen misslyckas ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) är`false` ),[`GisException`](../../aspose.gis/gisexception) kastas. |
+| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines) { get; set; } | Bestämmer om transformation av polygon eller multipolygon till linjesträng är tillåten. Standard till`false` . |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel)som kommer att tillämpas på X- och Y-koordinater när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact) . |
+| [ZAttribute](../../aspose.gis.formats.gpx/gpxoptions/zattribute) { get; set; } | Bestämmer vilket GPX-attribut som kommer att exporteras som 'Z'-koordinat för waypoints, ruttpunkter och spårpunkter. Om`null` - inget attribut kommer att exporteras som 'Z'-koordinat. Default är "ele". Möjliga värden är namn på alla GPX XML-attribut som kan representeras som dubbla (t.ex. "hastighet", "magvar", "geoidheight" etc. ) |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel) som kommer att tillämpas på Z coordinate när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact) . |
+
+### Se även
+
+* class [DriverOptions](../../aspose.gis/driveroptions)
+* namnutrymme [Aspose.Gis.Formats.Gpx](../../aspose.gis.formats.gpx)
+* hopsättning [Aspose.GIS](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->

@@ -1,0 +1,50 @@
+---
+title: GpxOptions
+second_title: Aspose.GIS for .NET API Referansı
+description: GPX formatı için sürücüye özel seçenekler.
+type: docs
+weight: 320
+url: /tr/net/aspose.gis.formats.gpx/gpxoptions/
+---
+## GpxOptions class
+
+GPX formatı için sürücüye özel seçenekler.
+
+```csharp
+public class GpxOptions : DriverOptions
+```
+
+## yapıcılar
+
+| İsim | Tanım |
+| --- | --- |
+| [GpxOptions](gpxoptions)() | Yeni örnek oluştur. |
+
+## Özellikleri
+
+| İsim | Tanım |
+| --- | --- |
+| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring) { get; set; } | Kapatılmamış birLinearRing her geometride Varsayılan`false` . |
+| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints) { get; set; } | Her geometri parçasının ortasına yeni bir nokta eklenip eklenmeyeceğini belirler. Varsayılan`false` . |
+| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints) { get; set; } | Her geometrideki yakın noktaların silinip silinmeyeceğini belirler. Varsayılan`false` . |
+| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance) { get; set; } | için mesafeyi belirler[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints) . Varsayılan`0` . |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | Eğri geometrilerini doğrusallaştırmak için kullanılacak bir tolerans. |
+| [MAttribute](../../aspose.gis.formats.gpx/gpxoptions/mattribute) { get; set; } | Yol noktalarının, rota noktalarının ve iz noktalarının 'M' koordinatı olarak hangi GPX özniteliğinin dışa aktarılacağını belirler. Davranış,[`ZAttribute`](./zattribute) , varsayılan olarak`null` . |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel) geometriler eklendiğinde M koordinat öğesine uygulanacak[`VectorLayer`](../../aspose.gis/vectorlayer) ya da oradan okunduklarında[`VectorLayer`](../../aspose.gis/vectorlayer) . Varsayılan değer[`Exact`](../../aspose.gis/precisionmodel/exact) . |
+| [NestedAttributeSeparator](../../aspose.gis.formats.gpx/gpxoptions/nestedattributeseparator) { get; } | İç içe öznitelik adını ve dizinlerini ayırmak için bir dize. Varsayılan olarak çift alt çizgi "__". |
+| [ReadNestedAttributes](../../aspose.gis.formats.gpx/gpxoptions/readnestedattributes) { get; set; } | 'trkpt' ve 'rtept' gibi GPX noktalarının iç öznitelikler içerip içermediğini ve okunması gerekip gerekmediğini belirler. Varsayılan`false` . |
+| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments) { get; set; } | Her geometride aynı segment üzerinde bulunan noktaların silinip silinmeyeceğini belirler. Varsayılan`false` . |
+| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance) { get; set; } | için mesafeyi belirler[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments) . Varsayılan`0` . |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Katmana eklendiklerinde geometrilerin doğrulanıp doğrulanmayacağını belirler. olarak ayarlanırsa`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)katmana eklendiğinde ve doğrulama başarısız olursa her geometrisi için çağrılır ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) dır-dir`false` ),[`GisException`](../../aspose.gis/gisexception) atılır. |
+| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines) { get; set; } | Çokgenin veya çok çokgenin çizgi dizisine dönüştürülmesine izin verilip verilmediğini belirler. Varsayılan`false` . |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel)geometriler eklendiğinde X ve Y koordinatlarına uygulanacak[`VectorLayer`](../../aspose.gis/vectorlayer) ya da oradan okunduklarında[`VectorLayer`](../../aspose.gis/vectorlayer) . Varsayılan değer[`Exact`](../../aspose.gis/precisionmodel/exact) . |
+| [ZAttribute](../../aspose.gis.formats.gpx/gpxoptions/zattribute) { get; set; } | Hangi GPX özniteliğinin ara noktaların, rota noktalarının ve iz noktalarının 'Z' koordinatı olarak dışa aktarılacağını belirler. `null` - hiçbir öznitelik 'Z' koordinatı olarak dışa aktarılmaz. Varsayılan olarak "ele"dir. Olası değerler, double olarak gösterilebilen tüm GPX XML özniteliklerinin adlarıdır (örn. "speed", "magvar", "geoidheight" vb.). ) |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel) geometriler eklendiğinde Z koordinat öğesine uygulanacak[`VectorLayer`](../../aspose.gis/vectorlayer) ya da oradan okunduklarında[`VectorLayer`](../../aspose.gis/vectorlayer) . Varsayılan değer[`Exact`](../../aspose.gis/precisionmodel/exact) . |
+
+### Ayrıca bakınız
+
+* class [DriverOptions](../../aspose.gis/driveroptions)
+* ad alanı [Aspose.Gis.Formats.Gpx](../../aspose.gis.formats.gpx)
+* toplantı [Aspose.GIS](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
