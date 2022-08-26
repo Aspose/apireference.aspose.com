@@ -6,7 +6,7 @@ type: docs
 weight: 100
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/rotate/
 ---
-## PreprocessingFilter.Rotate method
+## Rotate(float) {#rotate}
 
 Rotate original image.
 
@@ -17,6 +17,31 @@ public static PreprocessingFilter Rotate(float angle)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | angle | Single | Angle of rotation.From -360 to 360 |
+
+### Return Value
+
+RotateFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Rotate(float, Rectangle) {#rotate_1}
+
+Rotate a part of the image.
+
+```csharp
+public static PreprocessingFilter Rotate(float angle, Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| angle | Single | Angle of rotation.From -360 to 360 |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

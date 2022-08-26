@@ -6,13 +6,37 @@ type: docs
 weight: 20
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/autodenoising/
 ---
-## PreprocessingFilter.AutoDenoising method
+## AutoDenoising() {#autodenoising}
 
 Enables the use of an additional neural network to improve the image - reduce noise. Useful for images with scan artifacts, distortion, spots, flares, gradients, foreign elements.
 
 ```csharp
 public static PreprocessingFilter AutoDenoising()
 ```
+
+### Return Value
+
+AutoDenoisingFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## AutoDenoising(Rectangle) {#autodenoising_1}
+
+Enables the use of an additional neural network to improve the image part - reduce noise. Useful for images with scan artifacts, distortion, spots, flares, gradients, foreign elements.
+
+```csharp
+public static PreprocessingFilter AutoDenoising(Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

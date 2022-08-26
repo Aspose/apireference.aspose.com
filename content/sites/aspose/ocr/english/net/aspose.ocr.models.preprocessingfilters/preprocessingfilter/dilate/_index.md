@@ -6,13 +6,37 @@ type: docs
 weight: 60
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/dilate/
 ---
-## PreprocessingFilter.Dilate method
+## Dilate() {#dilate}
 
 Dilation adds pixels to the boundaries of objects in an image.
 
 ```csharp
 public static PreprocessingFilter Dilate()
 ```
+
+### Return Value
+
+DilateFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Dilate(Rectangle) {#dilate_1}
+
+Dilation adds pixels to the boundaries of objects in a part of the image.
+
+```csharp
+public static PreprocessingFilter Dilate(Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

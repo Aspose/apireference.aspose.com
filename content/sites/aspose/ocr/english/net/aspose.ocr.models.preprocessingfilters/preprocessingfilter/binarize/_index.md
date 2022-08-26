@@ -6,13 +6,37 @@ type: docs
 weight: 40
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/binarize/
 ---
-## PreprocessingFilter.Binarize method
+## Binarize() {#binarize}
 
 Converts an image to black-and-white image. Binary images are images whose pixels have only two possible intensity values. They are normally displayed as black and white. Numerically, the two values are often 0 for black, and 255 for white. Binary images are produced by auto thresholding an image.
 
 ```csharp
 public static PreprocessingFilter Binarize()
 ```
+
+### Return Value
+
+BinarizeFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Binarize(Rectangle) {#binarize_1}
+
+Converts a part of the image to black-and-white image. Binary images are images whose pixels have only two possible intensity values. They are normally displayed as black and white. Numerically, the two values are often 0 for black, and 255 for white. Binary images are produced by auto thresholding an image.
+
+```csharp
+public static PreprocessingFilter Binarize(Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

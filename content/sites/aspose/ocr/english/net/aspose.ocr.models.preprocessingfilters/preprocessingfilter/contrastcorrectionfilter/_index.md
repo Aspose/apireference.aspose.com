@@ -6,13 +6,37 @@ type: docs
 weight: 50
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/contrastcorrectionfilter/
 ---
-## PreprocessingFilter.ContrastCorrectionFilter method
+## ContrastCorrectionFilter() {#contrastcorrectionfilter}
 
 Contrast correction filter.
 
 ```csharp
 public static PreprocessingFilter ContrastCorrectionFilter()
 ```
+
+### Return Value
+
+ContrastCorrectionFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## ContrastCorrectionFilter(Rectangle) {#contrastcorrectionfilter_1}
+
+Contrast correction filter for the part of the image.
+
+```csharp
+public static PreprocessingFilter ContrastCorrectionFilter(Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

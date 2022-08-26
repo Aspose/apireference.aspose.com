@@ -6,13 +6,37 @@ type: docs
 weight: 30
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/autoskew/
 ---
-## PreprocessingFilter.AutoSkew method
+## AutoSkew() {#autoskew}
 
 Enables the automatic image skew correction.
 
 ```csharp
 public static PreprocessingFilter AutoSkew()
 ```
+
+### Return Value
+
+AutoSkewFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## AutoSkew(Rectangle) {#autoskew_1}
+
+Enables the automatic image part skew correction.
+
+```csharp
+public static PreprocessingFilter AutoSkew(Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

@@ -6,7 +6,7 @@ type: docs
 weight: 120
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/threshold/
 ---
-## PreprocessingFilter.Threshold method
+## Threshold(int) {#threshold}
 
 Create a binary image based on setting a threshold value on the pixel intensity of the original image.
 
@@ -17,6 +17,31 @@ public static PreprocessingFilter Threshold(int value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | Int32 | The max value. |
+
+### Return Value
+
+BinarizeFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Threshold(int, Rectangle) {#threshold_1}
+
+Create a binary part of the image based on setting a threshold value on the pixel intensity of the original image part.
+
+```csharp
+public static PreprocessingFilter Threshold(int value, Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Int32 | The max value. |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

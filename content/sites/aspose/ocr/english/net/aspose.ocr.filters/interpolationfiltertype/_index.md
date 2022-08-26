@@ -3,7 +3,7 @@ title: InterpolationFilterType
 second_title: Aspose.OCR for .NET API Reference
 description: Interpolations used for scale images.
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.ocr.filters/interpolationfiltertype/
 ---
 ## InterpolationFilterType enumeration
