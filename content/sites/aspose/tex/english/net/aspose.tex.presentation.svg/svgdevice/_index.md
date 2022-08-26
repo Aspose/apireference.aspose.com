@@ -1,9 +1,9 @@
 ---
 title: SvgDevice
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Implements the interface for outputting text and graphic content to PDF document.
 type: docs
-weight: 400
+weight: 420
 url: /net/aspose.tex.presentation.svg/svgdevice/
 ---
 ## SvgDevice class

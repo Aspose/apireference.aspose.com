@@ -1,7 +1,7 @@
 ---
 title: DateTime
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets a certain value for date/time primitives like year month day and time.
 type: docs
 weight: 20
 url: /net/aspose.tex/texoptions/datetime/

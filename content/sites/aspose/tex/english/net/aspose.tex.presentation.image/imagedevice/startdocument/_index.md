@@ -1,7 +1,7 @@
 ---
 title: StartDocument
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Starts the whole document.
 type: docs
 weight: 220
 url: /net/aspose.tex.presentation.image/imagedevice/startdocument/

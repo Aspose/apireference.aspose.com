@@ -1,7 +1,7 @@
 ---
 title: Writer
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets the writer for the output terminal.
 type: docs
 weight: 10
 url: /net/aspose.tex.io/ioutputterminal/writer/

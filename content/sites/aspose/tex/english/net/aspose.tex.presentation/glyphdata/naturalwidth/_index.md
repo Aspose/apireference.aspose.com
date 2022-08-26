@@ -1,7 +1,7 @@
 ---
 title: NaturalWidth
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets glyph width defined by font.
 type: docs
 weight: 30
 url: /net/aspose.tex.presentation/glyphdata/naturalwidth/

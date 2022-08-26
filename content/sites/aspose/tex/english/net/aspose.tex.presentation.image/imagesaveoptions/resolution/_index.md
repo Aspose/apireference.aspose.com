@@ -1,9 +1,9 @@
 ---
 title: Resolution
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the image resolution.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.tex.presentation.image/imagesaveoptions/resolution/
 ---
 ## ImageSaveOptions.Resolution property

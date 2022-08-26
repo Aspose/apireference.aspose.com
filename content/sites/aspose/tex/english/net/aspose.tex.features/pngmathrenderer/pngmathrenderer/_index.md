@@ -1,14 +1,14 @@
 ---
 title: PngMathRenderer
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates a new instance.
 type: docs
 weight: 10
 url: /net/aspose.tex.features/pngmathrenderer/pngmathrenderer/
 ---
 ## PngMathRenderer constructor
 
-The default constructor.
+Creates a new instance.
 
 ```csharp
 public PngMathRenderer()

@@ -1,7 +1,7 @@
 ---
 title: ShowImage
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Shows a raster image.
 type: docs
 weight: 220
 url: /net/aspose.tex.presentation.svg/svgdevice/showimage/

@@ -1,9 +1,9 @@
 ---
 title: SmoothingMode
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the smoothing mode.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.tex.presentation.image/imagesaveoptions/smoothingmode/
 ---
 ## ImageSaveOptions.SmoothingMode property

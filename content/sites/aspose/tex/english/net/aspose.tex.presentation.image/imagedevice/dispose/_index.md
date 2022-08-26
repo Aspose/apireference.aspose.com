@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Disposes this device instance. Finalizes this device instance graphics state i.e. switches composing context to the level higher then this devices graphics state.
 type: docs
 weight: 120
 url: /net/aspose.tex.presentation.image/imagedevice/dispose/

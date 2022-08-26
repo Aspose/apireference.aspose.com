@@ -1,9 +1,9 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Class representing options of saving to PDF.
 type: docs
-weight: 370
+weight: 390
 url: /net/aspose.tex.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -18,7 +18,7 @@ public class PdfSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions)() | The default constructor. |
+| [PdfSaveOptions](pdfsaveoptions)() | Creates new instance of options. |
 
 ## Properties
 

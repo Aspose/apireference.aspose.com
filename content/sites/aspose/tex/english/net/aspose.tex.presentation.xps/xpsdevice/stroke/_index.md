@@ -1,7 +1,7 @@
 ---
 title: Stroke
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the current stroke.
 type: docs
 weight: 70
 url: /net/aspose.tex.presentation.xps/xpsdevice/stroke/

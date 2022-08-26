@@ -1,14 +1,14 @@
 ---
 title: BmpSaveOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates new instance of options.
 type: docs
 weight: 10
 url: /net/aspose.tex.presentation.image/bmpsaveoptions/bmpsaveoptions/
 ---
 ## BmpSaveOptions constructor
 
-The default constructor.
+Creates new instance of options.
 
 ```csharp
 public BmpSaveOptions()

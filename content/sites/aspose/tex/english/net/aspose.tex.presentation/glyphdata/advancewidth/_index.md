@@ -1,7 +1,7 @@
 ---
 title: AdvanceWidth
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets glyph width taking into account kerns.
 type: docs
 weight: 20
 url: /net/aspose.tex.presentation/glyphdata/advancewidth/

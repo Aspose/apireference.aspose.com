@@ -1,7 +1,7 @@
 ---
 title: GetFile
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Returns the stream to read from.
 type: docs
 weight: 40
 url: /net/aspose.tex.io/outputzipdirectory/getfile/
@@ -20,7 +20,7 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | fullName | String& | The full file name. |
 | searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories. |
 
-## Return Value
+### Return Value
 
 The stream.
 

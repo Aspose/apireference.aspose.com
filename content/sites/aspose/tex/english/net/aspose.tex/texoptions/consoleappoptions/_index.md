@@ -1,7 +1,7 @@
 ---
 title: ConsoleAppOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Returns options for use in console application.
 type: docs
 weight: 10
 url: /net/aspose.tex/texoptions/consoleappoptions/
@@ -18,7 +18,7 @@ public static TeXOptions ConsoleAppOptions(TeXConfig config)
 | --- | --- | --- |
 | config | TeXConfig | A TeX config. |
 
-## Return Value
+### Return Value
 
 TeX options.
 

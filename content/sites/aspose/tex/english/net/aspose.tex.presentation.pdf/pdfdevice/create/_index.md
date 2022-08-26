@@ -1,7 +1,7 @@
 ---
 title: Create
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Creates a copy of this device.
 type: docs
 weight: 110
 url: /net/aspose.tex.presentation.pdf/pdfdevice/create/
@@ -14,7 +14,7 @@ Creates a copy of this device.
 public override Device Create()
 ```
 
-## Return Value
+### Return Value
 
 Copy of this device.
 

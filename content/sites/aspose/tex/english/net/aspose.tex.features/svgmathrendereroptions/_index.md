@@ -1,7 +1,7 @@
 ---
 title: SvgMathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Math formula SVG rendering options.
 type: docs
 weight: 70
 url: /net/aspose.tex.features/svgmathrendereroptions/

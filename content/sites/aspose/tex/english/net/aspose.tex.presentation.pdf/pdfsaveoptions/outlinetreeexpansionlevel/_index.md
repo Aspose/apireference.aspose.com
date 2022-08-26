@@ -1,7 +1,7 @@
 ---
 title: OutlineTreeExpansionLevel
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Specifies up to what level the document outline should be expanded when the PDF file is viewed. 1  only the first level outline items are shown 2  only the first and second level outline items are shown and so on. Default is 1.
 type: docs
 weight: 50
 url: /net/aspose.tex.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel/

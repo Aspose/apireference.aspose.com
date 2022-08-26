@@ -1,9 +1,9 @@
 ---
 title: TeXOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: TeX file processing options class.
 type: docs
-weight: 480
+weight: 500
 url: /net/aspose.tex/texoptions/
 ---
 ## TeXOptions class

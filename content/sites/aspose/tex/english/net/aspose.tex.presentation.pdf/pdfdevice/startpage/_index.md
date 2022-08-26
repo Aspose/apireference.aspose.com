@@ -1,7 +1,7 @@
 ---
 title: StartPage
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Starts a new page.
 type: docs
 weight: 250
 url: /net/aspose.tex.presentation.pdf/pdfdevice/startpage/

@@ -1,7 +1,7 @@
 ---
 title: WriteFile
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Finalizes the log e.g. writes it to file.
 type: docs
 weight: 40
 url: /net/aspose.tex.io/outputfileterminal/writefile/

@@ -1,7 +1,7 @@
 ---
 title: Run
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Runs TeX job.
 type: docs
 weight: 20
 url: /net/aspose.tex/texjob/run/

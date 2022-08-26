@@ -1,9 +1,9 @@
 ---
 title: PdfTextCompression
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Specifies a type of compression applied to all contents in the PDF file except images.
 type: docs
-weight: 380
+weight: 400
 url: /net/aspose.tex.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration
@@ -14,7 +14,7 @@ Specifies a type of compression applied to all contents in the PDF file except i
 public enum PdfTextCompression
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

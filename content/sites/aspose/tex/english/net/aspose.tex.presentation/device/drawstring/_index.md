@@ -1,7 +1,7 @@
 ---
 title: DrawString
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Draws a text string.
 type: docs
 weight: 130
 url: /net/aspose.tex.presentation/device/drawstring/

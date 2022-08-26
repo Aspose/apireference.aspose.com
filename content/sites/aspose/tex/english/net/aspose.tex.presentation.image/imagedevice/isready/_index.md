@@ -1,7 +1,7 @@
 ---
 title: IsReady
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Shows if device is ready for output.
 type: docs
 weight: 50
 url: /net/aspose.tex.presentation.image/imagedevice/isready/

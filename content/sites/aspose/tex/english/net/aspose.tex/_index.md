@@ -14,6 +14,7 @@ The **Aspose.TeX** is a root namespace for all classes of Aspose.TeX library whi
 | --- | --- |
 | [BuildVersionInfo](./buildversioninfo) | This class provides information about current product build. |
 | [License](./license) | Provides methods to license the component. |
+| [Metered](./metered) | Provides methods to set metered key. |
 | [TeXConfig](./texconfig) | Class providing available TeX configurations. |
 | [TeXExtension](./texextension) | Class defining constants to choose a TeX engine extension from. |
 | [TeXJob](./texjob) | Implements features of a TeX job. |

@@ -1,7 +1,7 @@
 ---
 title: FileName
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the file name.
 type: docs
 weight: 10
 url: /net/aspose.tex.io/ifileterminal/filename/

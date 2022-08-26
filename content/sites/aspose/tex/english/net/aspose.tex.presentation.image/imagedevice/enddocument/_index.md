@@ -1,7 +1,7 @@
 ---
 title: EndDocument
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Finalizes the whole document.
 type: docs
 weight: 150
 url: /net/aspose.tex.presentation.image/imagedevice/enddocument/

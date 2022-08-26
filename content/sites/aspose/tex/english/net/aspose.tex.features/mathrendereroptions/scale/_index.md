@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/set the scale. 1000 means 100 1200 means 120 etc.
 type: docs
 weight: 60
 url: /net/aspose.tex.features/mathrendereroptions/scale/

@@ -1,7 +1,7 @@
 ---
 title: BuildVersionInfo
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: This class provides information about current product build.
 type: docs
 weight: 10
 url: /net/aspose.tex/buildversioninfo/
@@ -19,6 +19,14 @@ public sealed class BuildVersionInfo
 | Name | Description |
 | --- | --- |
 | [BuildVersionInfo](buildversioninfo)() | The default constructor. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [AssemblyVersion](../../aspose.tex/buildversioninfo/assemblyversion) | Assembly Version |
+| const [FileVersion](../../aspose.tex/buildversioninfo/fileversion) | File Version |
+| const [Product](../../aspose.tex/buildversioninfo/product) | Product Name |
 
 ### See Also
 

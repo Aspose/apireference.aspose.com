@@ -1,9 +1,9 @@
 ---
 title: XpsSaveOptions
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Class representing options of saving to XPS.
 type: docs
-weight: 430
+weight: 450
 url: /net/aspose.tex.presentation.xps/xpssaveoptions/
 ---
 ## XpsSaveOptions class
@@ -18,7 +18,7 @@ public class XpsSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [XpsSaveOptions](xpssaveoptions)() | The default constructor. |
+| [XpsSaveOptions](xpssaveoptions)() | Creates new instance of options. |
 
 ## Properties
 

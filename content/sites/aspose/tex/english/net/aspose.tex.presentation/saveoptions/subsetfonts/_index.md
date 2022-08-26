@@ -1,7 +1,7 @@
 ---
 title: SubsetFonts
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the flag indicating whether to subset fonts in output file or not.
 type: docs
 weight: 30
 url: /net/aspose.tex.presentation/saveoptions/subsetfonts/

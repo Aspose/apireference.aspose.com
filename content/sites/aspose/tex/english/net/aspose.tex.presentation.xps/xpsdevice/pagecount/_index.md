@@ -1,7 +1,7 @@
 ---
 title: PageCount
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets the number of pages.
 type: docs
 weight: 60
 url: /net/aspose.tex.presentation.xps/xpsdevice/pagecount/
