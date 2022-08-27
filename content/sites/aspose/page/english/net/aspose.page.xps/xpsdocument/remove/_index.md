@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Removes an element from the active page.
 type: docs
 weight: 460
 url: /net/aspose.page.xps/xpsdocument/remove/

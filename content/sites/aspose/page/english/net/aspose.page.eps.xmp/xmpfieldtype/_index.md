@@ -1,9 +1,9 @@
 ---
 title: XmpFieldType
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: This enum represents types of a XMP field.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.page.eps.xmp/xmpfieldtype/
 ---
 ## XmpFieldType enumeration

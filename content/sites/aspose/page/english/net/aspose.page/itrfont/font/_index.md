@@ -1,9 +1,9 @@
 ---
 title: Font
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns DrFont corresponding to this font.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.page/itrfont/font/
 ---
 ## ITrFont.Font property
@@ -11,7 +11,7 @@ url: /net/aspose.page/itrfont/font/
 Returns DrFont corresponding to this font.
 
 ```csharp
-public #=zI$6lwBipHtINnDly_KEr$jSAu0qt Font { get; }
+public #=zKP1ItU_3ssiKOuuAGVYS8Ss_$m2a Font { get; }
 ```
 
 ### See Also

@@ -1,7 +1,7 @@
 ---
 title: FillRule
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the value specifying how the intersecting areas of geometric shapes are combined to form a region.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpspathgeometry/fillrule/

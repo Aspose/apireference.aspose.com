@@ -1,7 +1,7 @@
 ---
 title: AddOutlineEntry
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds an outline entry to the document.
 type: docs
 weight: 130
 url: /net/aspose.page.xps/xpsdocument/addoutlineentry/

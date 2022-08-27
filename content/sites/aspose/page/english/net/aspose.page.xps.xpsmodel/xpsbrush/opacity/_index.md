@@ -1,7 +1,7 @@
 ---
 title: Opacity
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets value defining the uniform transparency of the brush fill.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsbrush/opacity/

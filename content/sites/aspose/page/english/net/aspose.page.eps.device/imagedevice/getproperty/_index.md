@@ -1,9 +1,9 @@
 ---
 title: GetProperty
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of string property.
 type: docs
-weight: 260
+weight: 250
 url: /net/aspose.page.eps.device/imagedevice/getproperty/
 ---
 ## ImageDevice.GetProperty method

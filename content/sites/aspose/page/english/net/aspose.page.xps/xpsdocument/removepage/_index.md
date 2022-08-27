@@ -1,7 +1,7 @@
 ---
 title: RemovePage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Removes a page from the document.
 type: docs
 weight: 490
 url: /net/aspose.page.xps/xpsdocument/removepage/

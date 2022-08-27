@@ -1,12 +1,12 @@
 ---
 title: AddOutline
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds an outline item with the last object as its target.
 type: docs
 weight: 120
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/addoutline/
 ---
-## PdfDevice.AddOutline method (1 of 2)
+## AddOutline(int, string) {#addoutline}
 
 Adds an outline item with the last object as its target.
 
@@ -27,7 +27,7 @@ public virtual void AddOutline(int outlineLevel, string description)
 
 ---
 
-## PdfDevice.AddOutline method (2 of 2)
+## AddOutline(PointF, int, string) {#addoutline_1}
 
 Adds an outline item with the origin point as its target.
 

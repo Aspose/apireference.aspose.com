@@ -1,12 +1,12 @@
 ---
 title: XmpValue
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Constructor for string value.
 type: docs
 weight: 10
 url: /net/aspose.page.eps.xmp/xmpvalue/xmpvalue/
 ---
-## XmpValue constructor (1 of 5)
+## XmpValue(string) {#constructor_4}
 
 Constructor for string value.
 
@@ -26,7 +26,7 @@ public XmpValue(string value)
 
 ---
 
-## XmpValue constructor (2 of 5)
+## XmpValue(int) {#constructor_2}
 
 Consructor for integer value.
 
@@ -46,7 +46,7 @@ public XmpValue(int value)
 
 ---
 
-## XmpValue constructor (3 of 5)
+## XmpValue(double) {#constructor_1}
 
 Constructor for floating point Value.
 
@@ -66,7 +66,7 @@ public XmpValue(double value)
 
 ---
 
-## XmpValue constructor (4 of 5)
+## XmpValue(DateTime) {#constructor_3}
 
 Constructor for date time value.
 
@@ -86,7 +86,7 @@ public XmpValue(DateTime value)
 
 ---
 
-## XmpValue constructor (5 of 5)
+## XmpValue(XmpValue[]) {#constructor}
 
 Constructor for array value.
 

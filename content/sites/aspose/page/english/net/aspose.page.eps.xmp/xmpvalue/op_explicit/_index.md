@@ -1,12 +1,12 @@
 ---
 title: op_Explicit
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Converts XmpValue to array.
 type: docs
 weight: 240
 url: /net/aspose.page.eps.xmp/xmpvalue/op_explicit/
 ---
-## XmpValue Explicit operator (1 of 5)
+## explicit operator {#op_explicit}
 
 Converts XmpValue to array.
 
@@ -30,7 +30,7 @@ XmlValue.
 
 ---
 
-## XmpValue Explicit operator (2 of 5)
+## explicit operator {#op_explicit_3}
 
 Converts XmpValue into array.
 
@@ -54,7 +54,7 @@ XmlValue.
 
 ---
 
-## XmpValue Explicit operator (3 of 5)
+## explicit operator {#op_explicit_4}
 
 Converts XmpValue into string.
 
@@ -78,7 +78,7 @@ XmlValue.
 
 ---
 
-## XmpValue Explicit operator (4 of 5)
+## explicit operator {#op_explicit_1}
 
 Converts XmpValue to named value.
 
@@ -102,7 +102,7 @@ XmlValue.
 
 ---
 
-## XmpValue Explicit operator (5 of 5)
+## explicit operator {#op_explicit_2}
 
 Converts XmlValue to named collection value.
 

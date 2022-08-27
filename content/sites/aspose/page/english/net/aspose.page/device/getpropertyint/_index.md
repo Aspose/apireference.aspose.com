@@ -1,7 +1,7 @@
 ---
 title: GetPropertyInt
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of integer property.
 type: docs
 weight: 390
 url: /net/aspose.page/device/getpropertyint/

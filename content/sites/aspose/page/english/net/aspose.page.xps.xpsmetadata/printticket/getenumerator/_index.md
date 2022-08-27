@@ -1,26 +1,25 @@
 ---
 title: GetEnumerator
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the print ticket item names enumerator.
 type: docs
-weight: 30
+weight: 10
 url: /net/aspose.page.xps.xpsmetadata/printticket/getenumerator/
 ---
 ## PrintTicket.GetEnumerator method
 
-Implementation of IEnumerable interface.
+Returns the print ticket item names enumerator.
 
 ```csharp
-public IEnumerator<IPrintTicketItem> GetEnumerator()
+public IEnumerator<string> GetEnumerator()
 ```
 
 ### Return Value
 
-Returns enumerator for the list.
+The enumerator.
 
 ### See Also
 
-* interface [IPrintTicketItem](../../iprintticketitem)
 * class [PrintTicket](../../printticket)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../printticket)
 * assembly [Aspose.Page](../../../)

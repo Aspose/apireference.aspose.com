@@ -1,7 +1,7 @@
 ---
 title: right
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Right margin.
 type: docs
 weight: 40
 url: /net/aspose.page/margins/right/

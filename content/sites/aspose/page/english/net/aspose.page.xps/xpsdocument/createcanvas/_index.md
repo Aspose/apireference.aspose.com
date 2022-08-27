@@ -1,7 +1,7 @@
 ---
 title: CreateCanvas
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new canvas.
 type: docs
 weight: 170
 url: /net/aspose.page.xps/xpsdocument/createcanvas/

@@ -1,9 +1,9 @@
 ---
 title: GetPropertyDouble
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of double property.
 type: docs
-weight: 280
+weight: 270
 url: /net/aspose.page.eps.device/imagedevice/getpropertydouble/
 ---
 ## ImageDevice.GetPropertyDouble method

@@ -1,7 +1,7 @@
 ---
 title: Stroke
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the stroke for drawing paths.
 type: docs
 weight: 110
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/stroke/

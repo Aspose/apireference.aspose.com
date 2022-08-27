@@ -1,7 +1,7 @@
 ---
 title: Create
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new instance of the device based on this device instance. Writes this device graphics state i.e. creates ApsCanvas instances with corresponding RenderTransform and Clip properties.
 type: docs
 weight: 150
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/create/

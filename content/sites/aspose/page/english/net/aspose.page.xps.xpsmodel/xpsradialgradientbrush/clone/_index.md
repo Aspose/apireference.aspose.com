@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clones this radial graduent brush.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/clone/

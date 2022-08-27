@@ -1,7 +1,7 @@
 ---
 title: Resolution
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the image resolution.
 type: docs
 weight: 20
 url: /net/aspose.page.eps.device/imagesaveoptions/resolution/

@@ -1,7 +1,7 @@
 ---
 title: EncodingTable
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the name of the encoding.
 type: docs
 weight: 30
 url: /net/aspose.page/itrfont/encodingtable/

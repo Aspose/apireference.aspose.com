@@ -1,9 +1,9 @@
 ---
 title: Shear
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Shears the current transformation matrix. Calls writeTransformTransform.
 type: docs
-weight: 440
+weight: 430
 url: /net/aspose.page.eps.device/imagedevice/shear/
 ---
 ## ImageDevice.Shear method

@@ -1,9 +1,9 @@
 ---
 title: XpsGradientBrush
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating common features of LinerGradientBrush and RadialGradientBrush elements.
 type: docs
-weight: 1000
+weight: 3040
 url: /net/aspose.page.xps.xpsmodel/xpsgradientbrush/
 ---
 ## XpsGradientBrush class

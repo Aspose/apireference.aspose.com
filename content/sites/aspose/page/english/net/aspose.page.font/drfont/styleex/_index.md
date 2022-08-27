@@ -1,7 +1,7 @@
 ---
 title: StyleEx
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: This property contains additional information about fonts style
 type: docs
 weight: 170
 url: /net/aspose.page.font/drfont/styleex/

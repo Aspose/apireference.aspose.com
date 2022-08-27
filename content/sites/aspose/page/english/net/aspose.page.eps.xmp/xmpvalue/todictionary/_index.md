@@ -1,7 +1,7 @@
 ---
 title: ToDictionary
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns dictionary which contains named values.
 type: docs
 weight: 140
 url: /net/aspose.page.eps.xmp/xmpvalue/todictionary/

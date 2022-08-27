@@ -1,7 +1,7 @@
 ---
 title: Data
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the geometry of the path.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpspath/data/

@@ -1,12 +1,12 @@
 ---
 title: GetPropertyInt
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets integer property value.
 type: docs
 weight: 70
 url: /net/aspose.page/userproperties/getpropertyint/
 ---
-## UserProperties.GetPropertyInt method (1 of 2)
+## GetPropertyInt(string) {#getpropertyint}
 
 Gets integer property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.GetPropertyInt method (2 of 2)
+## GetPropertyInt(string, int) {#getpropertyint_1}
 
 Gets integer property value. If requested property is absent, returns provided default value.
 

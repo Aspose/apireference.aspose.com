@@ -1,7 +1,7 @@
 ---
 title: InsertPath
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Inserts a new path to this canvass child list at index position.
 type: docs
 weight: 100
 url: /net/aspose.page.xps.xpsmodel/xpscanvas/insertpath/

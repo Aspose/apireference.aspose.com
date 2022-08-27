@@ -1,7 +1,7 @@
 ---
 title: DrawOval
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws an oval.
 type: docs
 weight: 230
 url: /net/aspose.page/device/drawoval/

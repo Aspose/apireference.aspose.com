@@ -1,7 +1,7 @@
 ---
 title: Insert
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Inserts an element to this canvass child list at index position.
 type: docs
 weight: 70
 url: /net/aspose.page.xps.xpsmodel/xpscanvas/insert/

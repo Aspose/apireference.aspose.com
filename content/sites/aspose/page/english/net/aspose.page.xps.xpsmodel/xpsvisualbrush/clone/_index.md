@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clones this visual brush.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpsvisualbrush/clone/

@@ -1,7 +1,7 @@
 ---
 title: Rotate
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies a clockwise rotation about the origin to the current transformation matrix.
 type: docs
 weight: 270
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/rotate/

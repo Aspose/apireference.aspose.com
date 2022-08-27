@@ -1,9 +1,9 @@
 ---
 title: GetOutline
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns an outline of glyph in specified location.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.page/itrfont/getoutline/
 ---
 ## ITrFont.GetOutline method

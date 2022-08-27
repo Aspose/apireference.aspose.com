@@ -1,12 +1,12 @@
 ---
 title: OpenPage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Starts a new page with the specifies title.
 type: docs
 weight: 230
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/openpage/
 ---
-## PdfDevice.OpenPage method (1 of 2)
+## OpenPage(string) {#openpage_1}
 
 Starts a new page with the specifies title.
 
@@ -30,7 +30,7 @@ public virtual bool OpenPage(string title)
 
 ---
 
-## PdfDevice.OpenPage method (2 of 2)
+## OpenPage(float, float) {#openpage}
 
 Starts a new page with the specified width and height.
 

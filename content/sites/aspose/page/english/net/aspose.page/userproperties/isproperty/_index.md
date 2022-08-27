@@ -1,12 +1,12 @@
 ---
 title: IsProperty
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets boolean property value.
 type: docs
 weight: 120
 url: /net/aspose.page/userproperties/isproperty/
 ---
-## UserProperties.IsProperty method (1 of 2)
+## IsProperty(string) {#isproperty}
 
 Gets boolean property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.IsProperty method (2 of 2)
+## IsProperty(string, bool) {#isproperty_1}
 
 Gets boolean property value. If requested property is absent, returns provided default value.
 

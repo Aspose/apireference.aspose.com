@@ -1,12 +1,12 @@
 ---
 title: CreatePathGeometry
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new path geometry.
 type: docs
 weight: 290
 url: /net/aspose.page.xps/xpsdocument/createpathgeometry/
 ---
-## XpsDocument.CreatePathGeometry method (1 of 3)
+## CreatePathGeometry() {#createpathgeometry}
 
 Creates a new path geometry.
 
@@ -27,7 +27,7 @@ New path geometry.
 
 ---
 
-## XpsDocument.CreatePathGeometry method (2 of 3)
+## CreatePathGeometry(List&lt;XpsPathFigure&gt;) {#createpathgeometry_1}
 
 Creates a new path geometry with specified list of path figures.
 
@@ -53,7 +53,7 @@ New path geometry.
 
 ---
 
-## XpsDocument.CreatePathGeometry method (3 of 3)
+## CreatePathGeometry(string) {#createpathgeometry_2}
 
 Creates a new path geometry specified with abbreviated form.
 

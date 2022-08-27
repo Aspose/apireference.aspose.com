@@ -1,7 +1,7 @@
 ---
 title: GetPropertyDouble
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of double property.
 type: docs
 weight: 380
 url: /net/aspose.page/device/getpropertydouble/

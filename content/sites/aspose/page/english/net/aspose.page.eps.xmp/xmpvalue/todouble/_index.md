@@ -1,7 +1,7 @@
 ---
 title: ToDouble
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Converts to double.
 type: docs
 weight: 150
 url: /net/aspose.page.eps.xmp/xmpvalue/todouble/

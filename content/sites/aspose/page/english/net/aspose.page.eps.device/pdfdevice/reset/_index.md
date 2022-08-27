@@ -1,9 +1,9 @@
 ---
 title: Reset
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: If page device parameters will be set this method allows to return writing stream back the begining of page.
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.page.eps.device/pdfdevice/reset/
 ---
 ## PdfDevice.Reset method

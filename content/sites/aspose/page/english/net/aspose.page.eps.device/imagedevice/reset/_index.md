@@ -1,9 +1,9 @@
 ---
 title: Reset
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Reset the device to initial state for a page.
 type: docs
-weight: 390
+weight: 380
 url: /net/aspose.page.eps.device/imagedevice/reset/
 ---
 ## ImageDevice.Reset method

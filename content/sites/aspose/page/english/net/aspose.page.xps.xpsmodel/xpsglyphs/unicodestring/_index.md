@@ -1,7 +1,7 @@
 ---
 title: UnicodeString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the string of text rendered by the Glyphs element. The text is specified as Unicode code points.
 type: docs
 weight: 90
 url: /net/aspose.page.xps.xpsmodel/xpsglyphs/unicodestring/

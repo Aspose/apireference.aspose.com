@@ -1,9 +1,9 @@
 ---
 title: LoadOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Basic class for document loading options.
 type: docs
-weight: 250
+weight: 270
 url: /net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class

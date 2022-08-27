@@ -1,7 +1,7 @@
 ---
 title: CopyTo
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Copies elements of the collection into array.
 type: docs
 weight: 160
 url: /net/aspose.page.eps.xmp/xmpmetadata/copyto/

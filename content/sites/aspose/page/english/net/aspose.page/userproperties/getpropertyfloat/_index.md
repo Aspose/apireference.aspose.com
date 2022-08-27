@@ -1,12 +1,12 @@
 ---
 title: GetPropertyFloat
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets float property value.
 type: docs
 weight: 60
 url: /net/aspose.page/userproperties/getpropertyfloat/
 ---
-## UserProperties.GetPropertyFloat method (1 of 2)
+## GetPropertyFloat(string) {#getpropertyfloat}
 
 Gets float property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.GetPropertyFloat method (2 of 2)
+## GetPropertyFloat(string, float) {#getpropertyfloat_1}
 
 Gets float property value. If requested property is absent, returns provided default value.
 

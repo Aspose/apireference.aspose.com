@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds a content element Canvas Path or Glyphs
 type: docs
 weight: 90
 url: /net/aspose.page.xps/xpsdocument/add/

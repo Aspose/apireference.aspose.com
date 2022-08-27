@@ -1,9 +1,9 @@
 ---
 title: FIT_TO_PAGE
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Fit content to page property key.
 type: docs
-weight: 560
+weight: 550
 url: /net/aspose.page.eps.device/imagedevice/fit_to_page/
 ---
 ## ImageDevice.FIT_TO_PAGE field

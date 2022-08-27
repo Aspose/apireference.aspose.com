@@ -1,9 +1,9 @@
 ---
 title: UpdatePageParameters
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Updates page parameters from other multipaged device.
 type: docs
-weight: 490
+weight: 480
 url: /net/aspose.page.eps.device/imagedevice/updatepageparameters/
 ---
 ## ImageDevice.UpdatePageParameters method

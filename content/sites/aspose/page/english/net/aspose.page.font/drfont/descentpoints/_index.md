@@ -1,7 +1,7 @@
 ---
 title: DescentPoints
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the cell descent in points.
 type: docs
 weight: 60
 url: /net/aspose.page.font/drfont/descentpoints/

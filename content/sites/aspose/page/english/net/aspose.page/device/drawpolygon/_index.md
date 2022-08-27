@@ -1,12 +1,12 @@
 ---
 title: DrawPolygon
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a polygon.
 type: docs
 weight: 240
 url: /net/aspose.page/device/drawpolygon/
 ---
-## Device.DrawPolygon method (1 of 2)
+## DrawPolygon(int[], int[], int) {#drawpolygon_1}
 
 Draws a polygon.
 
@@ -28,7 +28,7 @@ public virtual void DrawPolygon(int[] xPoints, int[] yPoints, int nPoints)
 
 ---
 
-## Device.DrawPolygon method (2 of 2)
+## DrawPolygon(double[], double[], int) {#drawpolygon}
 
 Draws a poligone.
 

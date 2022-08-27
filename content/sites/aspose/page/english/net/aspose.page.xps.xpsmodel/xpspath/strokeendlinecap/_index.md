@@ -1,7 +1,7 @@
 ---
 title: StrokeEndLineCap
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the value defining the shape of the end of the last dash in a stroke.
 type: docs
 weight: 70
 url: /net/aspose.page.xps.xpsmodel/xpspath/strokeendlinecap/

@@ -1,7 +1,7 @@
 ---
 title: IsSideways
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the value indicating that a glyph is turned on its side with the origin being defined as the top center of the unturned glyph.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.xpsmodel/xpsglyphs/issideways/

@@ -1,12 +1,12 @@
 ---
 title: FillPolygon
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Fills a poligone.
 type: docs
 weight: 330
 url: /net/aspose.page/device/fillpolygon/
 ---
-## Device.FillPolygon method (1 of 2)
+## FillPolygon(int[], int[], int) {#fillpolygon_1}
 
 Fills a poligone.
 
@@ -28,7 +28,7 @@ public virtual void FillPolygon(int[] xPoints, int[] yPoints, int nPoints)
 
 ---
 
-## Device.FillPolygon method (2 of 2)
+## FillPolygon(double[], double[], int) {#fillpolygon}
 
 Fills a poligone.
 

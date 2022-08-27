@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the name of device type.
 type: docs
 weight: 540
 url: /net/aspose.page/device/tostring/

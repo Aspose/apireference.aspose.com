@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clones this canvas.
 type: docs
 weight: 60
 url: /net/aspose.page.xps.xpsmodel/xpscanvas/clone/

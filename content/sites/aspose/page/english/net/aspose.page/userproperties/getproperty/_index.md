@@ -1,12 +1,12 @@
 ---
 title: GetProperty
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets string property value.
 type: docs
 weight: 30
 url: /net/aspose.page/userproperties/getproperty/
 ---
-## UserProperties.GetProperty method (1 of 2)
+## GetProperty(string) {#getproperty}
 
 Gets string property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.GetProperty method (2 of 2)
+## GetProperty(string, string) {#getproperty_1}
 
 Gets string property value. If requested property is absent, returns provided default value.
 

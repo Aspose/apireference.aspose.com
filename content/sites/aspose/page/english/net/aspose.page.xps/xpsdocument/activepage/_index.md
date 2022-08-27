@@ -1,7 +1,7 @@
 ---
 title: ActivePage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the active page number within the active document.
 type: docs
 weight: 30
 url: /net/aspose.page.xps/xpsdocument/activepage/

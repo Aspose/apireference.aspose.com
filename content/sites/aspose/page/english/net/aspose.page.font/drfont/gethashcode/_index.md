@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns a hash code for this instance.
 type: docs
 weight: 210
 url: /net/aspose.page.font/drfont/gethashcode/

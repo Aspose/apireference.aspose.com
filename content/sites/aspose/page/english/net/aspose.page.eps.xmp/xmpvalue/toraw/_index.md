@@ -1,7 +1,7 @@
 ---
 title: ToRaw
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Raw XML code for unknown/unsupported values.
 type: docs
 weight: 200
 url: /net/aspose.page.eps.xmp/xmpvalue/toraw/

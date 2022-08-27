@@ -1,9 +1,9 @@
 ---
 title: XpsSpreadMethod
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Valid values of gradient brushes SpreadMethod property.
 type: docs
-weight: 1260
+weight: 3300
 url: /net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

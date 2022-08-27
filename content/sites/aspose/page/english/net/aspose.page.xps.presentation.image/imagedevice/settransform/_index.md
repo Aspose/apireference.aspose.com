@@ -1,7 +1,7 @@
 ---
 title: SetTransform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Sets the current transformation matrix.
 type: docs
 weight: 300
 url: /net/aspose.page.xps.presentation.image/imagedevice/settransform/

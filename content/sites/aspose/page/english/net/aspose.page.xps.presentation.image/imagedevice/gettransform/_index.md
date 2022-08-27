@@ -1,7 +1,7 @@
 ---
 title: GetTransform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the current transformation matrix.
 type: docs
 weight: 210
 url: /net/aspose.page.xps.presentation.image/imagedevice/gettransform/

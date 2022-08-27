@@ -1,12 +1,12 @@
 ---
 title: GetPropertyRectangle
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets rectangle property value.
 type: docs
 weight: 90
 url: /net/aspose.page/userproperties/getpropertyrectangle/
 ---
-## UserProperties.GetPropertyRectangle method (1 of 2)
+## GetPropertyRectangle(string) {#getpropertyrectangle}
 
 Gets rectangle property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.GetPropertyRectangle method (2 of 2)
+## GetPropertyRectangle(string, RectangleF) {#getpropertyrectangle_1}
 
 Gets rectangle property value. If requested property is absent, returns provided default value.
 

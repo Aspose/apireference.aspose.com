@@ -1,7 +1,7 @@
 ---
 title: GetCharWidthPoints
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns width of the character points.
 type: docs
 weight: 200
 url: /net/aspose.page.font/drfont/getcharwidthpoints/

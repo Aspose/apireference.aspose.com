@@ -1,7 +1,7 @@
 ---
 title: Style
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets style of this font.
 type: docs
 weight: 160
 url: /net/aspose.page.font/drfont/style/

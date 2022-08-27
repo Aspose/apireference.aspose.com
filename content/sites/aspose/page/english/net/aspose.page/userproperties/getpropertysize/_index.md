@@ -1,12 +1,12 @@
 ---
 title: GetPropertySize
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets size property value.
 type: docs
 weight: 100
 url: /net/aspose.page/userproperties/getpropertysize/
 ---
-## UserProperties.GetPropertySize method (1 of 2)
+## GetPropertySize(string) {#getpropertysize}
 
 Gets size property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.GetPropertySize method (2 of 2)
+## GetPropertySize(string, Size) {#getpropertysize_1}
 
 Gets size property value. If requested property is absent, returns provided default value.
 

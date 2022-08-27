@@ -1,9 +1,9 @@
 ---
 title: GetPropertyColor
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of color property.
 type: docs
-weight: 270
+weight: 260
 url: /net/aspose.page.eps.device/imagedevice/getpropertycolor/
 ---
 ## ImageDevice.GetPropertyColor method

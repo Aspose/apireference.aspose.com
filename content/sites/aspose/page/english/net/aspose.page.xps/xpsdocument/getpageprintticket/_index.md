@@ -1,7 +1,7 @@
 ---
 title: GetPagePrintTicket
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the print ticket of the page indexed by pageIndex in the document indexed by documentIndex.
 type: docs
 weight: 380
 url: /net/aspose.page.xps/xpsdocument/getpageprintticket/

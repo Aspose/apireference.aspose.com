@@ -1,12 +1,12 @@
 ---
 title: AddArrayItem
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds value into an array. The value will be added at the end of the array.
 type: docs
 weight: 110
 url: /net/aspose.page.eps.xmp/xmpmetadata/addarrayitem/
 ---
-## XmpMetadata.AddArrayItem method (1 of 2)
+## AddArrayItem(string, XmpValue) {#addarrayitem}
 
 Adds value into an array. The value will be added at the end of the array.
 
@@ -28,7 +28,7 @@ public void AddArrayItem(string arrayKey, XmpValue value)
 
 ---
 
-## XmpMetadata.AddArrayItem method (2 of 2)
+## AddArrayItem(string, int, XmpValue) {#addarrayitem_1}
 
 Adds value into an array by specified index.
 

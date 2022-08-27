@@ -1,7 +1,7 @@
 ---
 title: PageCount
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the number of pages in the active document.
 type: docs
 weight: 70
 url: /net/aspose.page.xps/xpsdocument/pagecount/

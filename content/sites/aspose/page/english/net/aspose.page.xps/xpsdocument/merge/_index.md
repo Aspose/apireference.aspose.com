@@ -1,12 +1,12 @@
 ---
 title: Merge
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Merging XPS documents to PDF using the Deviceaspose.page/device instance.
 type: docs
 weight: 450
 url: /net/aspose.page.xps/xpsdocument/merge/
 ---
-## XpsDocument.Merge method (1 of 2)
+## Merge(string[], Device, SaveOptions) {#merge}
 
 Merging XPS documents to PDF using the [`Device`](../../../aspose.page/device) instance.
 
@@ -30,7 +30,7 @@ public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 
 ---
 
-## XpsDocument.Merge method (2 of 2)
+## Merge(string[], Stream) {#merge_1}
 
 Merging several XPS files to one XPS document.
 

@@ -1,9 +1,9 @@
 ---
 title: Size
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies a size of the page.
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.page.eps.device/imagedevice/size/
 ---
 ## ImageDevice.Size property

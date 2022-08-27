@@ -1,7 +1,7 @@
 ---
 title: GradientOrigin
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the origin point of the radial gradient.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/gradientorigin/

@@ -1,7 +1,7 @@
 ---
 title: IsDirectRGB
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Indicates whether device uses direct RGB mode that is RGB.
 type: docs
 weight: 90
 url: /net/aspose.page.eps.device/imagedevice/isdirectrgb/

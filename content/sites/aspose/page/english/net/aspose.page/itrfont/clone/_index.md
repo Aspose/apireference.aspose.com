@@ -1,9 +1,9 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clones the font.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.page/itrfont/clone/
 ---
 ## ITrFont.Clone method

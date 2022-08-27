@@ -1,7 +1,7 @@
 ---
 title: Visual
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets a Path Glyphs or Canvas element used to draw the brushs source content.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsvisualbrush/visual/

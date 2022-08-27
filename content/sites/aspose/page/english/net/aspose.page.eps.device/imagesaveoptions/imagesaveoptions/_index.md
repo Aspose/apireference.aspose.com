@@ -1,12 +1,12 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes a new instance of the ImageSaveOptionsaspose.page.eps.device/imagesaveoptions class with default values for flags SuppressErrors true and Debug false.
 type: docs
 weight: 10
 url: /net/aspose.page.eps.device/imagesaveoptions/imagesaveoptions/
 ---
-## ImageSaveOptions constructor (1 of 2)
+## ImageSaveOptions() {#constructor}
 
 Initializes a new instance of the [`ImageSaveOptions`](../../imagesaveoptions) class with default values for flags !:SuppressErrors (true) and !:Debug (false).
 
@@ -22,7 +22,7 @@ public ImageSaveOptions()
 
 ---
 
-## ImageSaveOptions constructor (2 of 2)
+## ImageSaveOptions(bool) {#constructor_1}
 
 Initializes a new instance of the [`ImageSaveOptions`](../../imagesaveoptions) with default value for flag !:Debug (false).
 

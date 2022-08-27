@@ -1,7 +1,7 @@
 ---
 title: InsertPath
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Inserts a new path to the active page at index position.
 type: docs
 weight: 440
 url: /net/aspose.page.xps/xpsdocument/insertpath/

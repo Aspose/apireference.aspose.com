@@ -1,14 +1,14 @@
 ---
 title: JobPrintTicket
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The class that incapsulates a joblevel print ticket.
 type: docs
-weight: 590
+weight: 1500
 url: /net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class
 
-Class incapsulating features of a job-level print ticket
+The class that incapsulates a job-level print ticket.
 
 ```csharp
 public sealed class JobPrintTicket : PrintTicket
@@ -18,14 +18,15 @@ public sealed class JobPrintTicket : PrintTicket
 
 | Name | Description |
 | --- | --- |
-| [JobPrintTicket](jobprintticket)(params IPrintTicketItem[]) | Creates job-level print ticket instance. |
+| [JobPrintTicket](jobprintticket)(params IJobPrintTicketItem[]) | Creates a job-level print ticket instance. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/printticket/add)(params IPrintTicketItem[]) | Adds list of items to the end of print ticket items list. Each one can be [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Implementation of IEnumerable interface. |
+| [Add](../../aspose.page.xps.xpsmetadata/jobprintticket/add)(params IJobPrintTicketItem[]) | Adds an array of items to the end of this PrintTicket item list. Each one may be a [`Feature`](../feature), an [`Option`](../option) or a [`Property`](../property) instance. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Returns the print ticket item names enumerator. |
+| [Remove](../../aspose.page.xps.xpsmetadata/printticket/remove)(params string[]) | Removes an item from this PrintTicket item list. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: IsBold
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value indicating whether this instance is bold.
 type: docs
 weight: 80
 url: /net/aspose.page.font/drfont/isbold/

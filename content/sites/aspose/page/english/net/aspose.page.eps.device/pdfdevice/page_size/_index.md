@@ -1,9 +1,9 @@
 ---
 title: PAGE_SIZE
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Page size property key.
 type: docs
-weight: 450
+weight: 440
 url: /net/aspose.page.eps.device/pdfdevice/page_size/
 ---
 ## PdfDevice.PAGE_SIZE field

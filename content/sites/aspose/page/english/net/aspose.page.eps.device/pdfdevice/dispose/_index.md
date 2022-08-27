@@ -1,9 +1,9 @@
 ---
 title: Dispose
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Disposes the graphics context. If on creation restoreOnDispose was true writeGraphicsRestore will be called.
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.page.eps.device/pdfdevice/dispose/
 ---
 ## PdfDevice.Dispose method

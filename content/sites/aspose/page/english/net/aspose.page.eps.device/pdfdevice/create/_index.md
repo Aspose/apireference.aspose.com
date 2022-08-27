@@ -1,9 +1,9 @@
 ---
 title: Create
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a copy of this device.
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.page.eps.device/pdfdevice/create/
 ---
 ## PdfDevice.Create method

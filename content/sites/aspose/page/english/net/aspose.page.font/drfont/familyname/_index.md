@@ -1,7 +1,7 @@
 ---
 title: FamilyName
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets name of this font.
 type: docs
 weight: 70
 url: /net/aspose.page.font/drfont/familyname/

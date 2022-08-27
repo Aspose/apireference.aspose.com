@@ -1,12 +1,12 @@
 ---
 title: FetchDrFont
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Fetches DrFontaspose.page.font/drfont by font family name size and style.
 type: docs
 weight: 20
 url: /net/aspose.page/externalfontcache/fetchdrfont/
 ---
-## ExternalFontCache.FetchDrFont method (1 of 2)
+## FetchDrFont(string, float, FontStyle)
 
 Fetches [`DrFont`](../../../aspose.page.font/drfont) by font family name, size and style.
 
@@ -33,7 +33,7 @@ Returns DrFont
 
 ---
 
-## ExternalFontCache.FetchDrFont method (2 of 2)
+## FetchDrFont(string, float, FontStyle, string)
 
 Fetches [`DrFont`](../../../aspose.page.font/drfont) by font family name, size, style and alternative font family name.
 

@@ -1,7 +1,7 @@
 ---
 title: OutputStream
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies or returns an output stream.
 type: docs
 weight: 40
 url: /net/aspose.page.eps.device/pdfdevice/outputstream/

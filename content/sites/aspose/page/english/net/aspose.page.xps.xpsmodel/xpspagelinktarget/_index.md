@@ -1,9 +1,9 @@
 ---
 title: XpsPageLinkTarget
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating the page hyperlink target.
 type: docs
-weight: 1140
+weight: 3180
 url: /net/aspose.page.xps.xpsmodel/xpspagelinktarget/
 ---
 ## XpsPageLinkTarget class

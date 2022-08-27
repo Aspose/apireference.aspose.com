@@ -1,7 +1,7 @@
 ---
 title: ImageCompression
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies compression type to be used for all images in the document. Default is Auto.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.presentation.pdf/pdfsaveoptions/imagecompression/

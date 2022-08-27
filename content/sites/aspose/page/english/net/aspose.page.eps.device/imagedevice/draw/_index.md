@@ -1,9 +1,9 @@
 ---
 title: Draw
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a path.
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.page.eps.device/imagedevice/draw/
 ---
 ## ImageDevice.Draw method

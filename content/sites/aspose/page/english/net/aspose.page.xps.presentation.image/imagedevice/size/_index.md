@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the device media size.
 type: docs
 weight: 110
 url: /net/aspose.page.xps.presentation.image/imagedevice/size/

@@ -1,7 +1,7 @@
 ---
 title: OpacityMask
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies current opacity mask.
 type: docs
 weight: 90
 url: /net/aspose.page/device/opacitymask/

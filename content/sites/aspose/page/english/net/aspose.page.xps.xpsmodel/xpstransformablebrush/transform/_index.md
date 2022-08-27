@@ -1,7 +1,7 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the matrix transformation applied to the coordinate space of the brush. The Transform property is concatenated with the current effective render transform to yield an effective render transform local to the brush. The viewport for the brush is transformed using the local effective render transform.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpstransformablebrush/transform/

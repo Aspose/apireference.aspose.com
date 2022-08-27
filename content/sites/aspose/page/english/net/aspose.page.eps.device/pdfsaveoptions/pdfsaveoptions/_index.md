@@ -1,12 +1,12 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes a new instance of the PdfSaveOptionsaspose.page.eps.device/pdfsaveoptions class with default values for flags SuppressErrors true and Debug false.
 type: docs
 weight: 10
 url: /net/aspose.page.eps.device/pdfsaveoptions/pdfsaveoptions/
 ---
-## PdfSaveOptions constructor (1 of 2)
+## PdfSaveOptions() {#constructor}
 
 Initializes a new instance of the [`PdfSaveOptions`](../../pdfsaveoptions) class with default values for flags !:SuppressErrors (true) and !:Debug (false).
 
@@ -22,7 +22,7 @@ public PdfSaveOptions()
 
 ---
 
-## PdfSaveOptions constructor (2 of 2)
+## PdfSaveOptions(bool) {#constructor_1}
 
 Initializes a new instance of the [`PdfSaveOptions`](../../pdfsaveoptions) class with default values for flag !:Debug (false).
 

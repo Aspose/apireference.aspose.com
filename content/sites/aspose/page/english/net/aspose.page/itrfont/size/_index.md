@@ -1,9 +1,9 @@
 ---
 title: Size
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns font size.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.page/itrfont/size/
 ---
 ## ITrFont.Size property

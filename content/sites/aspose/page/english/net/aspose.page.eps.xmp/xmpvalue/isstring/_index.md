@@ -1,7 +1,7 @@
 ---
 title: IsString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns true if value is string.
 type: docs
 weight: 100
 url: /net/aspose.page.eps.xmp/xmpvalue/isstring/

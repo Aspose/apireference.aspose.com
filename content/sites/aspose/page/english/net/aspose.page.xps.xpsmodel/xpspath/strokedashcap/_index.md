@@ -1,7 +1,7 @@
 ---
 title: StrokeDashCap
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the value specifying how the ends of each dash are drawn.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.xpsmodel/xpspath/strokedashcap/

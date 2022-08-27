@@ -1,12 +1,12 @@
 ---
 title: GetPropertyDouble
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets double property value.
 type: docs
 weight: 50
 url: /net/aspose.page/userproperties/getpropertydouble/
 ---
-## UserProperties.GetPropertyDouble method (1 of 2)
+## GetPropertyDouble(string) {#getpropertydouble}
 
 Gets double property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.GetPropertyDouble method (2 of 2)
+## GetPropertyDouble(string, double) {#getpropertydouble_1}
 
 Gets double property value. If requested property is absent, returns provided default value.
 

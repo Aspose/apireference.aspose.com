@@ -1,9 +1,9 @@
 ---
 title: Fill
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Fills a path.
 type: docs
-weight: 250
+weight: 240
 url: /net/aspose.page.eps.device/imagedevice/fill/
 ---
 ## ImageDevice.Fill method

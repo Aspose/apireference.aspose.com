@@ -1,7 +1,7 @@
 ---
 title: ToStructure
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns XMP value as structure set of fields.
 type: docs
 weight: 230
 url: /net/aspose.page.eps.xmp/xmpvalue/tostructure/

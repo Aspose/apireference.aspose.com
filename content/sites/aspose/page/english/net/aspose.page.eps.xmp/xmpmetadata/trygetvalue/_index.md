@@ -1,7 +1,7 @@
 ---
 title: TryGetValue
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Tries to find key in the dictionary and retreives value if found.
 type: docs
 weight: 240
 url: /net/aspose.page.eps.xmp/xmpmetadata/trygetvalue/

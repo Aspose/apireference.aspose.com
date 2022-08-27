@@ -1,7 +1,7 @@
 ---
 title: StrokeMiterLimit
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the ratio between the maximum miter length and half of the stroke thickness. This value is significant only if the StrokeLineJoin attribute specifies Miter.
 type: docs
 weight: 90
 url: /net/aspose.page.xps.xpsmodel/xpspath/strokemiterlimit/

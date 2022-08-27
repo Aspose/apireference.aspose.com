@@ -1,7 +1,7 @@
 ---
 title: set
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies margins values.
 type: docs
 weight: 80
 url: /net/aspose.page/margins/set/

@@ -1,9 +1,9 @@
 ---
 title: XpsArrayT
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating common XPS model array object features.
 type: docs
-weight: 850
+weight: 2890
 url: /net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

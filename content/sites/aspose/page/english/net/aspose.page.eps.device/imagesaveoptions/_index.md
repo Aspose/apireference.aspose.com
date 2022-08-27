@@ -1,7 +1,7 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: This class contains options necessary for managing image saving process.
 type: docs
 weight: 50
 url: /net/aspose.page.eps.device/imagesaveoptions/
@@ -18,8 +18,8 @@ public class ImageSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions)() | Initializes a new instance of the [`ImageSaveOptions`](../imagesaveoptions) class with default values for flags !:SuppressErrors (true) and !:Debug (false). |
-| [ImageSaveOptions](imagesaveoptions)(bool) | Initializes a new instance of the [`ImageSaveOptions`](../imagesaveoptions) with default value for flag !:Debug (false). |
+| [ImageSaveOptions](imagesaveoptions#constructor)() | Initializes a new instance of the [`ImageSaveOptions`](../imagesaveoptions) class with default values for flags !:SuppressErrors (true) and !:Debug (false). |
+| [ImageSaveOptions](imagesaveoptions#constructor_1)(bool) | Initializes a new instance of the [`ImageSaveOptions`](../imagesaveoptions) with default value for flag !:Debug (false). |
 
 ## Properties
 

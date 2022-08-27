@@ -1,9 +1,9 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Transforms the current transformation matrix. Calls writeTransformTransform.
 type: docs
-weight: 470
+weight: 460
 url: /net/aspose.page.eps.device/imagedevice/transform/
 ---
 ## ImageDevice.Transform method

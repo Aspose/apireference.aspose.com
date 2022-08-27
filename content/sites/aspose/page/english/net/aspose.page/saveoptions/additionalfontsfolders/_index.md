@@ -1,7 +1,7 @@
 ---
 title: AdditionalFontsFolders
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs.
 type: docs
 weight: 20
 url: /net/aspose.page/saveoptions/additionalfontsfolders/

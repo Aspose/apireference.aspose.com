@@ -1,26 +1,51 @@
 ---
 title: Property
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmetadata/property/property/
 ---
-## Property constructor
+## Property(string, Property, params IPropertyItem[]) {#constructor}
 
-Creates common print ticket property instance.
+Creates a new instance.
 
 ```csharp
-public Property(string name, params IPropertyItem[] items)
+public Property(string name, Property property, params IPropertyItem[] items)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Property name. |
-| items | IPropertyItem[] | Array of [`IPropertyItem`](../../ipropertyitem) objects. Each one must be a [`Property`](../../property) or [`Value`](../../value) object. |
+| name | String | A property name. |
+| property | Property | A mandatory [`Property`](../../property) instance. |
+| items | IPropertyItem[] | An arbitrary array of [`IPropertyItem`](../../ipropertyitem) instances. Each one must be a [`Property`](../../property) or a [`Value`](../../value) instance. |
 
 ### See Also
 
+* interface [IPropertyItem](../../ipropertyitem)
+* class [Property](../../property)
+* namespace [Aspose.Page.XPS.XpsMetadata](../../property)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## Property(string, Value, params IPropertyItem[]) {#constructor_1}
+
+Creates a new instance.
+
+```csharp
+public Property(string name, Value value, params IPropertyItem[] items)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | String | A property name. |
+| value | Value | A mandatory [`Value`](../../value) instance. |
+| items | IPropertyItem[] | An arbitrary array of [`IPropertyItem`](../../ipropertyitem) instances. Each one must be a [`Property`](../../property) or a [`Value`](../../value) instance. |
+
+### See Also
+
+* class [Value](../../value)
 * interface [IPropertyItem](../../ipropertyitem)
 * class [Property](../../property)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../property)

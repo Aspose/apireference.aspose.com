@@ -1,12 +1,12 @@
 ---
 title: OpenPage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Makes necessary preparation of the device before page rendering.
 type: docs
 weight: 40
 url: /net/aspose.page/imultipagedevice/openpage/
 ---
-## IMultiPageDevice.OpenPage method (1 of 2)
+## OpenPage(string) {#openpage_1}
 
 Makes necessary preparation of the device before page rendering.
 
@@ -30,7 +30,7 @@ True if page is from requested range, otherwise false. Used in devices that can 
 
 ---
 
-## IMultiPageDevice.OpenPage method (2 of 2)
+## OpenPage(float, float) {#openpage}
 
 Makes necessary preparation of the device before each page rendering.
 

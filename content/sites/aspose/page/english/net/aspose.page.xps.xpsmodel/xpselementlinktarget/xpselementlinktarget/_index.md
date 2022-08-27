@@ -1,12 +1,12 @@
 ---
 title: XpsElementLinkTarget
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates the new instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpselementlinktarget/xpselementlinktarget/
 ---
-## XpsElementLinkTarget constructor (1 of 4)
+## XpsElementLinkTarget(XpsPage) {#constructor_2}
 
 Creates the new instance.
 
@@ -27,7 +27,7 @@ public XpsElementLinkTarget(XpsPage targetPage)
 
 ---
 
-## XpsElementLinkTarget constructor (2 of 4)
+## XpsElementLinkTarget(XpsCanvas) {#constructor}
 
 Creates the new instance.
 
@@ -48,7 +48,7 @@ public XpsElementLinkTarget(XpsCanvas targetCanvas)
 
 ---
 
-## XpsElementLinkTarget constructor (3 of 4)
+## XpsElementLinkTarget(XpsPath) {#constructor_3}
 
 Creates the new instance.
 
@@ -69,7 +69,7 @@ public XpsElementLinkTarget(XpsPath targetPath)
 
 ---
 
-## XpsElementLinkTarget constructor (4 of 4)
+## XpsElementLinkTarget(XpsGlyphs) {#constructor_1}
 
 Creates the new instance.
 

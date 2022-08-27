@@ -1,9 +1,9 @@
 ---
 title: PdfEncryptionDetails
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Contains details for a pdf encryption.
 type: docs
-weight: 340
+weight: 360
 url: /net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class

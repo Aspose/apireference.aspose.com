@@ -1,12 +1,12 @@
 ---
 title: UserProperties
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes an empty instance of UserProperties class.
 type: docs
 weight: 10
 url: /net/aspose.page/userproperties/userproperties/
 ---
-## UserProperties constructor (1 of 3)
+## UserProperties() {#constructor}
 
 Initializes an empty instance of UserProperties class.
 
@@ -22,7 +22,7 @@ public UserProperties()
 
 ---
 
-## UserProperties constructor (2 of 3)
+## UserProperties(Dictionary&lt;string, object&gt;) {#constructor_1}
 
 Initializes an of UserProperties class with default values.
 
@@ -42,7 +42,7 @@ public UserProperties(Dictionary<string, object> defaults)
 
 ---
 
-## UserProperties constructor (3 of 3)
+## UserProperties(Dictionary&lt;string, object&gt;, Dictionary&lt;string, object&gt;) {#constructor_2}
 
 Constructs UserProperties with a defaults and altDefaults table, which are searched in that order.
 

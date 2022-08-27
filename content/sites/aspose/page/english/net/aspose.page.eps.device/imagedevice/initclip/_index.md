@@ -1,9 +1,9 @@
 ---
 title: InitClip
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes a clip of the device.
 type: docs
-weight: 340
+weight: 330
 url: /net/aspose.page.eps.device/imagedevice/initclip/
 ---
 ## ImageDevice.InitClip method

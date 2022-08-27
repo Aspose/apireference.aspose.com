@@ -1,7 +1,7 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Multiplies the current transformation matrix by the specified Matrix.
 type: docs
 weight: 340
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/transform/

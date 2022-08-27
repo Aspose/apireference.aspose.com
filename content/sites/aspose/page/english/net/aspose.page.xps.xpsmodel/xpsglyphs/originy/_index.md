@@ -1,7 +1,7 @@
 ---
 title: OriginY
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the y coordinate of the first glyph in the run in units of the effective coordinate space.
 type: docs
 weight: 70
 url: /net/aspose.page.xps.xpsmodel/xpsglyphs/originy/

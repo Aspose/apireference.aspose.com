@@ -1,12 +1,12 @@
 ---
 title: Equals
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Determines whether the specified Object is equal to this instance.
 type: docs
 weight: 90
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/equals/
 ---
-## XpsMatrix.Equals method (1 of 2)
+## Equals(object)
 
 Determines whether the specified Object is equal to this instance.
 
@@ -30,7 +30,7 @@ public override bool Equals(object obj)
 
 ---
 
-## XpsMatrix.Equals method (2 of 2)
+## Equals(XpsMatrix, XpsMatrix)
 
 The actual implementation.
 

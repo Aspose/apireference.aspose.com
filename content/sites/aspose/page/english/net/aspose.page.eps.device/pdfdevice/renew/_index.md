@@ -1,9 +1,9 @@
 ---
 title: ReNew
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Reset device to initial state for whole document. Used for reseting output stream.
 type: docs
-weight: 200
+weight: 190
 url: /net/aspose.page.eps.device/pdfdevice/renew/
 ---
 ## PdfDevice.ReNew method

@@ -1,7 +1,7 @@
 ---
 title: CharTM
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies current characters transform.
 type: docs
 weight: 30
 url: /net/aspose.page/device/chartm/

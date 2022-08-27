@@ -1,7 +1,7 @@
 ---
 title: Properties
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Device properties including metadata.
 type: docs
 weight: 110
 url: /net/aspose.page/device/properties/

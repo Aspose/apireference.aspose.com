@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Calculates hashcode for this margins object.
 type: docs
 weight: 70
 url: /net/aspose.page/margins/gethashcode/

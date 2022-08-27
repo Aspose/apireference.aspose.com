@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Saves XPS document to XPS file located at the path.
 type: docs
 weight: 510
 url: /net/aspose.page.xps/xpsdocument/save/
 ---
-## XpsDocument.Save method (1 of 3)
+## Save(string) {#save_2}
 
 Saves XPS document to XPS file located at the *path*.
 
@@ -26,7 +26,7 @@ public void Save(string path)
 
 ---
 
-## XpsDocument.Save method (2 of 3)
+## Save(Stream) {#save_1}
 
 Saves XPS document to stream.
 
@@ -46,7 +46,7 @@ public void Save(Stream stream)
 
 ---
 
-## XpsDocument.Save method (3 of 3)
+## Save(Device, SaveOptions) {#save}
 
 Saves the document using the [`Device`](../../../aspose.page/device) instance.
 

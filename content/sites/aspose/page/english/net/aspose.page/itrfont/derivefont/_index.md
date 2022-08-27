@@ -1,12 +1,12 @@
 ---
 title: DeriveFont
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates equivalent of this font with new size.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.page/itrfont/derivefont/
 ---
-## ITrFont.DeriveFont method (1 of 4)
+## DeriveFont(float) {#derivefont}
 
 Creates equivalent of this font with new size.
 
@@ -30,7 +30,7 @@ A new font.
 
 ---
 
-## ITrFont.DeriveFont method (2 of 4)
+## DeriveFont(FontStyle) {#derivefont_3}
 
 Creates equivalent of this font with new style.
 
@@ -54,7 +54,7 @@ A new font.
 
 ---
 
-## ITrFont.DeriveFont method (3 of 4)
+## DeriveFont(float, FontStyle) {#derivefont_1}
 
 Creates equivalent of this font with new size and style.
 
@@ -79,7 +79,7 @@ A new font.
 
 ---
 
-## ITrFont.DeriveFont method (4 of 4)
+## DeriveFont(Matrix) {#derivefont_2}
 
 f character Creates equivalent of this font with new transform.
 

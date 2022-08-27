@@ -1,7 +1,7 @@
 ---
 title: CharCode
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns char code of the glyph.
 type: docs
 weight: 20
 url: /net/aspose.page/iglyph/charcode/

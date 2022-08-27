@@ -1,9 +1,9 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Basic class for XPSasimage saving options.
 type: docs
-weight: 280
+weight: 300
 url: /net/aspose.page.xps.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class

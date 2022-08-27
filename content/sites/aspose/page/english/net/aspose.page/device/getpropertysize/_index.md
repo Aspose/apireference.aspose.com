@@ -1,7 +1,7 @@
 ---
 title: GetPropertySize
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of size property.
 type: docs
 weight: 420
 url: /net/aspose.page/device/getpropertysize/

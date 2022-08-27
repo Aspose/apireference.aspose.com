@@ -1,7 +1,7 @@
 ---
 title: CharStrings
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns mapping between character name and glyph.
 type: docs
 weight: 10
 url: /net/aspose.page/itrfont/charstrings/

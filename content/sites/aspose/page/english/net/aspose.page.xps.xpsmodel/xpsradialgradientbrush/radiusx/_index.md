@@ -1,7 +1,7 @@
 ---
 title: RadiusX
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the radius in the x dimension of the ellipse which defines the radial gradient.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusx/

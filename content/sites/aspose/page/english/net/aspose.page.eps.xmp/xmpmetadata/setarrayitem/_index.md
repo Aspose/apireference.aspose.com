@@ -1,7 +1,7 @@
 ---
 title: SetArrayItem
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Sets value in an array. Previous value will be replaced with new one.
 type: docs
 weight: 220
 url: /net/aspose.page.eps.xmp/xmpmetadata/setarrayitem/

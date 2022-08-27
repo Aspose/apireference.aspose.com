@@ -1,12 +1,12 @@
 ---
 title: GetPropertyStringArray
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets string array property value.
 type: docs
 weight: 110
 url: /net/aspose.page/userproperties/getpropertystringarray/
 ---
-## UserProperties.GetPropertyStringArray method (1 of 2)
+## GetPropertyStringArray(string) {#getpropertystringarray}
 
 Gets string array property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.GetPropertyStringArray method (2 of 2)
+## GetPropertyStringArray(string, string[]) {#getpropertystringarray_1}
 
 Gets string array property value. If requested property is absent, returns provided default value.
 

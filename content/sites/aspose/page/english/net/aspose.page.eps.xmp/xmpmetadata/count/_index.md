@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets count of elements in the collection.
 type: docs
 weight: 10
 url: /net/aspose.page.eps.xmp/xmpmetadata/count/

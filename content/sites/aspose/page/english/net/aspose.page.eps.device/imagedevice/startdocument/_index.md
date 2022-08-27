@@ -1,9 +1,9 @@
 ---
 title: StartDocument
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Makes necessary preparation of device before start rendering of document.
 type: docs
-weight: 450
+weight: 440
 url: /net/aspose.page.eps.device/imagedevice/startdocument/
 ---
 ## ImageDevice.StartDocument method

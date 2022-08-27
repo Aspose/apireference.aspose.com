@@ -1,7 +1,7 @@
 ---
 title: Font
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the current font.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.presentation.image/imagedevice/font/

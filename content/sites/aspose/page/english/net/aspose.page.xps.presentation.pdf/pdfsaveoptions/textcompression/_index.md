@@ -1,7 +1,7 @@
 ---
 title: TextCompression
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies compression type to be used for all content streams except images. Default is Flate.
 type: docs
 weight: 70
 url: /net/aspose.page.xps.presentation.pdf/pdfsaveoptions/textcompression/

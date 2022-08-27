@@ -1,7 +1,7 @@
 ---
 title: GetTextWidthLis
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the text width lis.
 type: docs
 weight: 230
 url: /net/aspose.page.font/drfont/gettextwidthlis/

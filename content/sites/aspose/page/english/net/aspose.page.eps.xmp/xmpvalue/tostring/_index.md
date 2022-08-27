@@ -1,12 +1,12 @@
 ---
 title: ToString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns string representation of XmpValue.
 type: docs
 weight: 210
 url: /net/aspose.page.eps.xmp/xmpvalue/tostring/
 ---
-## XmpValue.ToString method (1 of 2)
+## ToString() {#tostring}
 
 Returns string representation of XmpValue.
 
@@ -26,7 +26,7 @@ String representation.
 
 ---
 
-## XmpValue.ToString method (2 of 2)
+## ToString(IFormatProvider) {#tostring_1}
 
 Returns string representation.
 

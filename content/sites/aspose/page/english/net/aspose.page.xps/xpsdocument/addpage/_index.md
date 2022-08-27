@@ -1,12 +1,12 @@
 ---
 title: AddPage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds an empty page to the document with default page size.
 type: docs
 weight: 140
 url: /net/aspose.page.xps/xpsdocument/addpage/
 ---
-## XpsDocument.AddPage method (1 of 3)
+## AddPage(bool) {#addpage_1}
 
 Adds an empty page to the document with default page size.
 
@@ -31,7 +31,7 @@ Added page.
 
 ---
 
-## XpsDocument.AddPage method (2 of 3)
+## AddPage(float, float, bool) {#addpage_2}
 
 Adds an empty page to the document with specified *width* and *height*.
 
@@ -58,7 +58,7 @@ Added page.
 
 ---
 
-## XpsDocument.AddPage method (3 of 3)
+## AddPage(XpsPage, bool) {#addpage}
 
 Adds a page to the document.
 

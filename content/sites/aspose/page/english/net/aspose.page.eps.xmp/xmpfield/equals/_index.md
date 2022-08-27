@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Indicates whether this instance and a specified object are equal.
 type: docs
 weight: 100
 url: /net/aspose.page.eps.xmp/xmpfield/equals/

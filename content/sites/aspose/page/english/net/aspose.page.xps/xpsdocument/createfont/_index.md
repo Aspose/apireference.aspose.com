@@ -1,12 +1,12 @@
 ---
 title: CreateFont
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new TrueType font resource.
 type: docs
 weight: 190
 url: /net/aspose.page.xps/xpsdocument/createfont/
 ---
-## XpsDocument.CreateFont method (1 of 2)
+## CreateFont(string, FontStyle) {#createfont_1}
 
 Creates a new TrueType font resource.
 
@@ -32,7 +32,7 @@ New TrueType font resource.
 
 ---
 
-## XpsDocument.CreateFont method (2 of 2)
+## CreateFont(Stream) {#createfont}
 
 Creates a new TrueType font resource out of stream.
 

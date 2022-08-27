@@ -1,21 +1,22 @@
 ---
 title: IFeatureItem
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The base interface for classes that may be Print Schema Feature./feature items.
 type: docs
-weight: 500
+weight: 860
 url: /net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface
 
-Basic interface for classes that can be a print ticket feature item.
+The base interface for classes that may be Print Schema [`Feature`](../feature) items.
 
 ```csharp
-public interface IFeatureItem
+public interface IFeatureItem : IPrintTicketElementChild
 ```
 
 ### See Also
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * assembly [Aspose.Page](../../)
 

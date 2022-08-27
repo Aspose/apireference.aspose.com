@@ -1,7 +1,7 @@
 ---
 title: DrawArc
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws an arc.
 type: docs
 weight: 200
 url: /net/aspose.page/device/drawarc/

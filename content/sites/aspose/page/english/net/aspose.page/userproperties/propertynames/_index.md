@@ -1,7 +1,7 @@
 ---
 title: PropertyNames
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns properties names.
 type: docs
 weight: 130
 url: /net/aspose.page/userproperties/propertynames/

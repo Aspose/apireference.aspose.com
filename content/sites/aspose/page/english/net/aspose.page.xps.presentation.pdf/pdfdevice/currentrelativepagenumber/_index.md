@@ -1,7 +1,7 @@
 ---
 title: CurrentRelativePageNumber
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the number of the current page within the current partititon.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/currentrelativepagenumber/

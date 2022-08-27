@@ -1,7 +1,7 @@
 ---
 title: Keys
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets collection of metadata keys.
 type: docs
 weight: 60
 url: /net/aspose.page.eps.xmp/xmpmetadata/keys/

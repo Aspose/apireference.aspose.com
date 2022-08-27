@@ -1,9 +1,9 @@
 ---
 title: ORIENTATION
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Orientation property key.
 type: docs
-weight: 430
+weight: 420
 url: /net/aspose.page.eps.device/pdfdevice/orientation/
 ---
 ## PdfDevice.ORIENTATION field

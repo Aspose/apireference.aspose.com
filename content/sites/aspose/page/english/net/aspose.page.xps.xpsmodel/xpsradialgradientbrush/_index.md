@@ -1,9 +1,9 @@
 ---
 title: XpsRadialGradientBrush
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating RadialGradientBrush property element features. This element is used to specify a radial gradient brush.
 type: docs
-weight: 1230
+weight: 3270
 url: /net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

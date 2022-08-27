@@ -1,7 +1,7 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies the affine transformation represented by this Matrix to a specified rectangle.
 type: docs
 weight: 180
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/transform/

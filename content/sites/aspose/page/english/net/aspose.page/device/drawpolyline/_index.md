@@ -1,12 +1,12 @@
 ---
 title: DrawPolyline
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a polyline.
 type: docs
 weight: 250
 url: /net/aspose.page/device/drawpolyline/
 ---
-## Device.DrawPolyline method (1 of 2)
+## DrawPolyline(int[], int[], int) {#drawpolyline_1}
 
 Draws a polyline.
 
@@ -28,7 +28,7 @@ public virtual void DrawPolyline(int[] xPoints, int[] yPoints, int nPoints)
 
 ---
 
-## Device.DrawPolyline method (2 of 2)
+## DrawPolyline(double[], double[], int) {#drawpolyline}
 
 Draws a polyline.
 

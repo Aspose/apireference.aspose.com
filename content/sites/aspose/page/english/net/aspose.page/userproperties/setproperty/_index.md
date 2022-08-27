@@ -1,12 +1,12 @@
 ---
 title: SetProperty
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Sets string property value.
 type: docs
 weight: 140
 url: /net/aspose.page/userproperties/setproperty/
 ---
-## UserProperties.SetProperty method (1 of 19)
+## SetProperty(string, string) {#setproperty_8}
 
 Sets string property value.
 
@@ -31,7 +31,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (2 of 19)
+## SetProperty(string, string[]) {#setproperty_9}
 
 Sets string array property value.
 
@@ -56,7 +56,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (3 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, string[]) {#setproperty_8}
 
 Sets string array property value in specified properties table.
 
@@ -82,7 +82,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (4 of 19)
+## SetProperty(string, Color) {#setproperty_5}
 
 Sets color property value.
 
@@ -107,7 +107,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (5 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, Color) {#setproperty_5}
 
 Sets color property value in specified properties table.
 
@@ -133,7 +133,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (6 of 19)
+## SetProperty(string, Rectangle) {#setproperty_6}
 
 Sets rectangle property value.
 
@@ -158,7 +158,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (7 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, Rectangle) {#setproperty_6}
 
 Sets rectangle property value in specified properties table.
 
@@ -184,7 +184,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (8 of 19)
+## SetProperty(string, Margins) {#setproperty}
 
 Sets margins property value.
 
@@ -210,7 +210,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (9 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, Margins) {#setproperty}
 
 Sets margins property value in specified properties table.
 
@@ -237,7 +237,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (10 of 19)
+## SetProperty(string, Size) {#setproperty_7}
 
 Sets size property value.
 
@@ -262,7 +262,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (11 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, Size) {#setproperty_7}
 
 Sets size property value in specified properties table.
 
@@ -288,7 +288,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (12 of 19)
+## SetProperty(string, int) {#setproperty_3}
 
 Sets integer property value.
 
@@ -313,7 +313,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (13 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, int) {#setproperty_3}
 
 Sets integer property value in specified properties table.
 
@@ -339,7 +339,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (14 of 19)
+## SetProperty(string, double) {#setproperty_2}
 
 Sets double property value.
 
@@ -364,7 +364,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (15 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, double) {#setproperty_2}
 
 Sets double property value in specified properties table.
 
@@ -390,7 +390,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (16 of 19)
+## SetProperty(string, float) {#setproperty_4}
 
 Sets float property value.
 
@@ -415,7 +415,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (17 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, float) {#setproperty_4}
 
 Sets float property value in specified properties table.
 
@@ -441,7 +441,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (18 of 19)
+## SetProperty(string, bool) {#setproperty_1}
 
 Sets boolean property value.
 
@@ -466,7 +466,7 @@ A property.
 
 ---
 
-## UserProperties.SetProperty method (19 of 19)
+## SetProperty(Dictionary&lt;string, object&gt;, string, bool) {#setproperty_1}
 
 Sets boolean property value in specified properties table.
 

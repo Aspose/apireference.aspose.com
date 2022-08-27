@@ -1,7 +1,7 @@
 ---
 title: GetNamespaceUriByPrefix
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns namespace URI by prefix.
 type: docs
 weight: 180
 url: /net/aspose.page.eps.xmp/xmpmetadata/getnamespaceuribyprefix/

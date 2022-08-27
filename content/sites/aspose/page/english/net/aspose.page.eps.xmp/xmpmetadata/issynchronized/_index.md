@@ -1,7 +1,7 @@
 ---
 title: IsSynchronized
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Checks if collection is synchronized.
 type: docs
 weight: 40
 url: /net/aspose.page.eps.xmp/xmpmetadata/issynchronized/

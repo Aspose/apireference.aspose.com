@@ -1,23 +1,23 @@
 ---
 title: Option
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new PrintTicket option instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmetadata/option/option/
 ---
-## Option constructor (1 of 2)
+## Option(string, params IOptionItem[]) {#constructor_2}
 
-Creates common print ticket feature instance.
+Creates a new PrintTicket option instance.
 
 ```csharp
-public Option(string name, params IOptionItem[] properties)
+public Option(string name, params IOptionItem[] items)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Arbitrary option name. |
-| properties | IOptionItem[] | Array of [`IOptionItem`](../../ioptionitem) objects. Each one must be a [`ScoredProperty`](../../scoredproperty) or [`Property`](../../property) object. |
+| name | String | An arbitrary option name. |
+| items | IOptionItem[] | An arbitrary array of [`IOptionItem`](../../ioptionitem) instances. Each one must be a [`ScoredProperty`](../../scoredproperty) or a [`Property`](../../property) instance. |
 
 ### See Also
 
@@ -28,21 +28,41 @@ public Option(string name, params IOptionItem[] properties)
 
 ---
 
-## Option constructor (2 of 2)
+## Option(params IOptionItem[]) {#constructor}
 
-Creates common print ticket feature instance.
+Creates a new PrintTicket option instance.
 
 ```csharp
-public Option(params IOptionItem[] properties)
+public Option(params IOptionItem[] items)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| properties | IOptionItem[] | Array of [`IOptionItem`](../../ioptionitem) objects. Each one must be a [`ScoredProperty`](../../scoredproperty) or [`Property`](../../property) object. |
+| items | IOptionItem[] | An arbitrary array of [`IOptionItem`](../../ioptionitem) instances. Each one must be a [`ScoredProperty`](../../scoredproperty) or a [`Property`](../../property) instance. |
 
 ### See Also
 
 * interface [IOptionItem](../../ioptionitem)
+* class [Option](../../option)
+* namespace [Aspose.Page.XPS.XpsMetadata](../../option)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## Option(Option) {#constructor_1}
+
+Creates a clone option instance.
+
+```csharp
+public Option(Option option)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| option | Option | An option instance to clone. |
+
+### See Also
+
 * class [Option](../../option)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../option)
 * assembly [Aspose.Page](../../../)

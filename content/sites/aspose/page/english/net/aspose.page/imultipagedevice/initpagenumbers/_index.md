@@ -1,7 +1,7 @@
 ---
 title: InitPageNumbers
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes numbers of pages to output.
 type: docs
 weight: 30
 url: /net/aspose.page/imultipagedevice/initpagenumbers/

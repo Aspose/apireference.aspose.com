@@ -1,12 +1,12 @@
 ---
 title: SetHyperlinkTarget
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Sets the hyperlink with an external URI as its target.
 type: docs
 weight: 300
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/sethyperlinktarget/
 ---
-## PdfDevice.SetHyperlinkTarget method (1 of 2)
+## SetHyperlinkTarget(string) {#sethyperlinktarget_1}
 
 Sets the hyperlink with an external URI as its target.
 
@@ -26,7 +26,7 @@ public virtual void SetHyperlinkTarget(string targetUri)
 
 ---
 
-## PdfDevice.SetHyperlinkTarget method (2 of 2)
+## SetHyperlinkTarget(int) {#sethyperlinktarget}
 
 Sets the hyperlink with a page number as its target.
 

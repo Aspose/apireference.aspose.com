@@ -1,7 +1,7 @@
 ---
 title: TileMode
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets value specifying how tiling is performed in the filled geometry.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpstilingbrush/tilemode/

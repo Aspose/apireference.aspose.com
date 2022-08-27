@@ -1,9 +1,9 @@
 ---
 title: Dispose
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Disposes the device.
 type: docs
-weight: 200
+weight: 190
 url: /net/aspose.page.eps.device/imagedevice/dispose/
 ---
 ## ImageDevice.Dispose method

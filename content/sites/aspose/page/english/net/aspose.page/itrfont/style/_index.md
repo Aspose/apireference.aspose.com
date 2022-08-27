@@ -1,9 +1,9 @@
 ---
 title: Style
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns font style.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.page/itrfont/style/
 ---
 ## ITrFont.Style property

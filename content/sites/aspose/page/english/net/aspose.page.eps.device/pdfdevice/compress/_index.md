@@ -1,9 +1,9 @@
 ---
 title: COMPRESS
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Compress property key.
 type: docs
-weight: 360
+weight: 350
 url: /net/aspose.page.eps.device/pdfdevice/compress/
 ---
 ## PdfDevice.COMPRESS field

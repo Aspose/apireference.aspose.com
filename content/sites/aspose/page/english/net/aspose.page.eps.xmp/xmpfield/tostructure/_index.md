@@ -1,7 +1,7 @@
 ---
 title: ToStructure
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets value as a structure.
 type: docs
 weight: 130
 url: /net/aspose.page.eps.xmp/xmpfield/tostructure/

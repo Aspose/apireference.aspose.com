@@ -1,7 +1,7 @@
 ---
 title: StyleSimulations
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the value specifying a style simulation.
 type: docs
 weight: 80
 url: /net/aspose.page.xps.xpsmodel/xpsglyphs/stylesimulations/

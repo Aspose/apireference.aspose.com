@@ -1,7 +1,7 @@
 ---
 title: IsEmpty
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value indicating whether this instance is empty.
 type: docs
 weight: 40
 url: /net/aspose.page.eps.xmp/xmpfield/isempty/

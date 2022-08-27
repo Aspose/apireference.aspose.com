@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the string representation of this XpsMatrixaspose.page.xps.xpsmodel/xpsmatrix instance.
 type: docs
 weight: 170
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/tostring/

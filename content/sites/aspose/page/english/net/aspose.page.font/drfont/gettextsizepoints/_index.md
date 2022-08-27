@@ -1,7 +1,7 @@
 ---
 title: GetTextSizePoints
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns measurement text box of the text in points.
 type: docs
 weight: 220
 url: /net/aspose.page.font/drfont/gettextsizepoints/

@@ -1,12 +1,12 @@
 ---
 title: InsertGlyphs
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Inserts new glyphs to the active page at index position.
 type: docs
 weight: 420
 url: /net/aspose.page.xps/xpsdocument/insertglyphs/
 ---
-## XpsDocument.InsertGlyphs method (1 of 2)
+## InsertGlyphs(int, string, float, FontStyle, float, float, string) {#insertglyphs_1}
 
 Inserts new glyphs to the active page at *index* position.
 
@@ -38,7 +38,7 @@ Inserted glyphs.
 
 ---
 
-## XpsDocument.InsertGlyphs method (2 of 2)
+## InsertGlyphs(int, XpsFont, float, float, float, string) {#insertglyphs}
 
 Inserts new glyphs to the active page at *index* position.
 

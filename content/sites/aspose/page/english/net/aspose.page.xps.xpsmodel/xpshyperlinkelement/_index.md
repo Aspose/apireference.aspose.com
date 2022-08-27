@@ -1,9 +1,9 @@
 ---
 title: XpsHyperlinkElement
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Incapsulates common features of XPS elements that can be a hyperlink.
 type: docs
-weight: 1020
+weight: 3060
 url: /net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

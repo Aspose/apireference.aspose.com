@@ -1,7 +1,7 @@
 ---
 title: WriteComment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Writes a comment.
 type: docs
 weight: 570
 url: /net/aspose.page/device/writecomment/

@@ -1,7 +1,7 @@
 ---
 title: M21
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the M21 element.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/m21/

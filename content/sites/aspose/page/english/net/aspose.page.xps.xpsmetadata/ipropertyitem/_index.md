@@ -1,21 +1,22 @@
 ---
 title: IPropertyItem
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The base interface for classes that may be a PrintTicket Property./property items.
 type: docs
-weight: 530
+weight: 920
 url: /net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface
 
-Basic interface for classes that can be a print ticket property item.
+The base interface for classes that may be a PrintTicket [`Property`](../property) items.
 
 ```csharp
-public interface IPropertyItem
+public interface IPropertyItem : IPrintTicketElementChild
 ```
 
 ### See Also
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * assembly [Aspose.Page](../../)
 

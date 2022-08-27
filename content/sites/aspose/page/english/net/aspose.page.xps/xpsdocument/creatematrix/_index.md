@@ -1,7 +1,7 @@
 ---
 title: CreateMatrix
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new affine transformation matrix.
 type: docs
 weight: 260
 url: /net/aspose.page.xps/xpsdocument/creatematrix/

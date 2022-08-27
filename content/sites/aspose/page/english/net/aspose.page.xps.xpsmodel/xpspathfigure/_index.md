@@ -1,9 +1,9 @@
 ---
 title: XpsPathFigure
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating PathFigure element features. This element is composed of a set of one or more line or curve segments.
 type: docs
-weight: 1160
+weight: 3200
 url: /net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

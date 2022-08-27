@@ -1,7 +1,7 @@
 ---
 title: AddPath
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds a new path to the active page.
 type: docs
 weight: 150
 url: /net/aspose.page.xps/xpsdocument/addpath/

@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Disposes the device.
 type: docs
 weight: 180
 url: /net/aspose.page/device/dispose/

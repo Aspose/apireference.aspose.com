@@ -1,12 +1,12 @@
 ---
 title: Rotate
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies clockwise rotation by angle to this Matrix in order specified by matrixOrder.
 type: docs
 weight: 130
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/rotate/
 ---
-## XpsMatrix.Rotate method (1 of 2)
+## Rotate(float, MatrixOrder) {#rotate_1}
 
 Applies clockwise rotation by *angle* to this Matrix in order specified by *matrixOrder*.
 
@@ -27,7 +27,7 @@ public void Rotate(float angle, MatrixOrder matrixOrder)
 
 ---
 
-## XpsMatrix.Rotate method (2 of 2)
+## Rotate(float) {#rotate}
 
 Applies clockwise rotation by *angle* to this Matrix in default (Prepend) order.
 

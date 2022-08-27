@@ -1,7 +1,7 @@
 ---
 title: VERSION
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Current device version.
 type: docs
 weight: 580
 url: /net/aspose.page/device/version/

@@ -1,9 +1,9 @@
 ---
 title: XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating PolyQuadraticBezierSegment element features. This element describes a set of quadratic Bézier curves from the previous point in the path figure through a set of vertices using specified control points.
 type: docs
-weight: 1220
+weight: 3260
 url: /net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

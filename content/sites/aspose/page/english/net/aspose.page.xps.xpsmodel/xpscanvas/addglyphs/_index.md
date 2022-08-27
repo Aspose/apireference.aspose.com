@@ -1,7 +1,7 @@
 ---
 title: AddGlyphs
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds new glyphs to this canvass child list.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.xpsmodel/xpscanvas/addglyphs/

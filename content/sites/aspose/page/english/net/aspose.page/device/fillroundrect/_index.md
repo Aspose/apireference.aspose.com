@@ -1,7 +1,7 @@
 ---
 title: FillRoundRect
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Fills a round rectangle.
 type: docs
 weight: 350
 url: /net/aspose.page/device/fillroundrect/

@@ -1,9 +1,9 @@
 ---
 title: SetTransform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies the current transform. Since most output formats do not implement this functionality the inverse transform of the currentTransform is calculated and multiplied by the transform to be set.The result is then forwarded by a call to writeTransformTransform.
 type: docs
-weight: 250
+weight: 240
 url: /net/aspose.page.eps.device/pdfdevice/settransform/
 ---
 ## PdfDevice.SetTransform method

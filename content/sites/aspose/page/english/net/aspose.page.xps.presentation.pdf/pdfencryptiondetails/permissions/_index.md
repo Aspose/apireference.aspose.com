@@ -1,7 +1,7 @@
 ---
 title: Permissions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets or sets the permissions.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/permissions/

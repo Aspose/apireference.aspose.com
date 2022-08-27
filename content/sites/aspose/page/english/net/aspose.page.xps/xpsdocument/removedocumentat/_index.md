@@ -1,7 +1,7 @@
 ---
 title: RemoveDocumentAt
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Removes a document at index position.
 type: docs
 weight: 480
 url: /net/aspose.page.xps/xpsdocument/removedocumentat/

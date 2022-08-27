@@ -1,7 +1,7 @@
 ---
 title: Empty
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets an Empty xmp field.
 type: docs
 weight: 10
 url: /net/aspose.page.eps.xmp/xmpfield/empty/

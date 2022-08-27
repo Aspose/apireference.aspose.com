@@ -1,14 +1,14 @@
 ---
 title: ParameterInit
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmetadata/parameterinit/parameterinit/
 ---
 ## ParameterInit constructor
 
-Creates print ticket parameter initialize instance.
+Creates a new instance.
 
 ```csharp
 public ParameterInit(string name, Value value)
@@ -16,8 +16,8 @@ public ParameterInit(string name, Value value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Parameter name. |
-| value | Value | Parameter value. |
+| name | String | A parameter name. |
+| value | Value | A parameter value. |
 
 ### See Also
 

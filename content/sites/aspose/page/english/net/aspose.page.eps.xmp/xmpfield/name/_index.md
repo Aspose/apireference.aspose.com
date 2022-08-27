@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the name.
 type: docs
 weight: 60
 url: /net/aspose.page.eps.xmp/xmpfield/name/

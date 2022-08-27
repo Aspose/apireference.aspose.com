@@ -1,7 +1,7 @@
 ---
 title: AscentLis
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Cell ascent of this font lis. This is a vertical distance from cell top to cell baseline.
 type: docs
 weight: 10
 url: /net/aspose.page.font/drfont/ascentlis/

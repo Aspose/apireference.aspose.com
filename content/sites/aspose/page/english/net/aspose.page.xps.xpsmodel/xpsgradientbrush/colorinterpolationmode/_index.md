@@ -1,7 +1,7 @@
 ---
 title: ColorInterpolationMode
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets value specifying the gamma function for color interpolation. The gamma adjustment should not be applied to the alpha component if specified.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode/

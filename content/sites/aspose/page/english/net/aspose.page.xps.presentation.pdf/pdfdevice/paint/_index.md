@@ -1,7 +1,7 @@
 ---
 title: Paint
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the brush for filling paths.
 type: docs
 weight: 80
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/paint/

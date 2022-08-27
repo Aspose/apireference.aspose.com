@@ -1,7 +1,7 @@
 ---
 title: IsDouble
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns true if value is floating point value.
 type: docs
 weight: 40
 url: /net/aspose.page.eps.xmp/xmpvalue/isdouble/

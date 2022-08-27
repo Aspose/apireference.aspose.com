@@ -1,7 +1,7 @@
 ---
 title: Device
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes Deviceaspose.page/device with a size of a page.
 type: docs
 weight: 10
 url: /net/aspose.page/device/device/

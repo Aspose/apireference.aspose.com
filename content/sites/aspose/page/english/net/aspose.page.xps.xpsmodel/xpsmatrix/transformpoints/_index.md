@@ -1,12 +1,12 @@
 ---
 title: TransformPoints
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies the affine transformation represented by this Matrix to a specified part of array of points.
 type: docs
 weight: 200
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/transformpoints/
 ---
-## XpsMatrix.TransformPoints method (1 of 2)
+## TransformPoints(PointF[], int, int) {#transformpoints_1}
 
 Applies the affine transformation represented by this Matrix to a specified part of array of points.
 
@@ -28,7 +28,7 @@ public void TransformPoints(PointF[] points, int startIndex, int numberOfPoints)
 
 ---
 
-## XpsMatrix.TransformPoints method (2 of 2)
+## TransformPoints(PointF[]) {#transformpoints}
 
 Applies the affine transformation represented by this Matrix to a specified array of points.
 

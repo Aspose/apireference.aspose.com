@@ -1,7 +1,7 @@
 ---
 title: GetTransform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets current transform.
 type: docs
 weight: 430
 url: /net/aspose.page/device/gettransform/

@@ -1,9 +1,9 @@
 ---
 title: EMBED_FONTS
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Embed font in document property key.
 type: docs
-weight: 530
+weight: 520
 url: /net/aspose.page.eps.device/imagedevice/embed_fonts/
 ---
 ## ImageDevice.EMBED_FONTS field

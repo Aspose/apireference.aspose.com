@@ -1,7 +1,7 @@
 ---
 title: TextRenderingMode
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies current text rendering mode.
 type: docs
 weight: 150
 url: /net/aspose.page/device/textrenderingmode/

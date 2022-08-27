@@ -1,12 +1,12 @@
 ---
 title: SaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes a new instance of the SaveOptionsaspose.page/saveoptions class with default values for flags SuppressErrors true and Debugaspose.page/saveoptions/debug false.
 type: docs
 weight: 10
 url: /net/aspose.page/saveoptions/saveoptions/
 ---
-## SaveOptions constructor (1 of 2)
+## SaveOptions() {#constructor}
 
 Initializes a new instance of the [`SaveOptions`](../../saveoptions) class with default values for flags !:SuppressErrors (true) and [`Debug`](../debug) (false).
 
@@ -22,7 +22,7 @@ public SaveOptions()
 
 ---
 
-## SaveOptions constructor (2 of 2)
+## SaveOptions(bool) {#constructor_1}
 
 Initializes a new instance of the [`SaveOptions`](../../saveoptions) class with default value for flag [`Debug`](../debug) (false).
 

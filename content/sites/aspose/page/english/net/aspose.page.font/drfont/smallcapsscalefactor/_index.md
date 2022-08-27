@@ -1,7 +1,7 @@
 ---
 title: SmallCapsScaleFactor
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the SmallCaps scale factor.
 type: docs
 weight: 150
 url: /net/aspose.page.font/drfont/smallcapsscalefactor/

@@ -1,7 +1,7 @@
 ---
 title: IsClosed
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the value indicating whether the path figure is closed.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpspathfigure/isclosed/

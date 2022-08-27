@@ -1,7 +1,7 @@
 ---
 title: Offset
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the gradient offset. The offset indicates a point along the progression of the gradient at which a color is specified. Colors between gradient offsets in the progression are interpolated.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpsgradientstop/offset/

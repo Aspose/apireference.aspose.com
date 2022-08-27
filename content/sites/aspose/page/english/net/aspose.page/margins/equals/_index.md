@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Compares this margins with other.
 type: docs
 weight: 60
 url: /net/aspose.page/margins/equals/

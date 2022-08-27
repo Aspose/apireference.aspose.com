@@ -1,9 +1,9 @@
 ---
 title: GetCharWidth
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns a width of character.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.page/itrfont/getcharwidth/
 ---
 ## ITrFont.GetCharWidth method

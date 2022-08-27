@@ -1,7 +1,7 @@
 ---
 title: CreatePath
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new path.
 type: docs
 weight: 270
 url: /net/aspose.page.xps/xpsdocument/createpath/

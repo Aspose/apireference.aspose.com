@@ -1,7 +1,7 @@
 ---
 title: Font
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns font resource for the TrueType font used to typeset elements text.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.xpsmodel/xpsglyphs/font/

@@ -1,36 +1,49 @@
 ---
 title: ScoredProperty
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The class that implements a common PrintTicket
 type: docs
-weight: 760
+weight: 2790
 url: /net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class
 
-Class implementing print ticket scored property.
+The class that implements a common PrintTicket
 
 ```csharp
-public class ScoredProperty : IEnumerable<IScoredPropertyItem>, IOptionItem, IScoredPropertyItem
+ScoredProperty
+```
+
+. The base class for all schema-defined scored properties. A
+
+```csharp
+ScoredProperty
+```
+
+element declares a property that is intrinsic to an [`Option`](../option) definition. Such properties should be compared when evaluating how closely a requested [`Option`](../option) matches a device-supported [`Option`](../option). https://docs.microsoft.com/en-us/windows/win32/printdocs/scoredproperty
+
+```csharp
+public class ScoredProperty : CompositePrintTicketElement, IOptionItem, IScoredPropertyItem
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [ScoredProperty](scoredproperty)(string, params IScoredPropertyItem[]) | Creates print ticket scored property instance. |
+| [ScoredProperty](scoredproperty#constructor)(string, ParameterRef) | Creates a new instance. |
+| [ScoredProperty](scoredproperty#constructor_1)(string, Value, params IScoredPropertyItem[]) | Creates a new instance. |
 
-## Methods
+## Properties
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/scoredproperty/getenumerator)() | Implementation of IEnumerable interface. |
-| override [ToString](../../aspose.page.xps.xpsmetadata/scoredproperty/tostring)() | Returns the string representation. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Gets the element name. |
 
 ### See Also
 
-* interface [IScoredPropertyItem](../iscoredpropertyitem)
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IOptionItem](../ioptionitem)
+* interface [IScoredPropertyItem](../iscoredpropertyitem)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * assembly [Aspose.Page](../../)
 

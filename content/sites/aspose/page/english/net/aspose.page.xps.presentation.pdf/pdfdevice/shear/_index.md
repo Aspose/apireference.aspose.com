@@ -1,7 +1,7 @@
 ---
 title: Shear
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies the specified shear vector to the current transformation matrix.
 type: docs
 weight: 320
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/shear/

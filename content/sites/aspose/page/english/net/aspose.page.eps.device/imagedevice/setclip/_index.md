@@ -1,9 +1,9 @@
 ---
 title: SetClip
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clips shape.
 type: docs
-weight: 420
+weight: 410
 url: /net/aspose.page.eps.device/imagedevice/setclip/
 ---
 ## ImageDevice.SetClip method

@@ -1,7 +1,7 @@
 ---
 title: SaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Options for managing rendering process.
 type: docs
 weight: 120
 url: /net/aspose.page/device/saveoptions/

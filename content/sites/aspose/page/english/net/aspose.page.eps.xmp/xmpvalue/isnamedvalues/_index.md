@@ -1,7 +1,7 @@
 ---
 title: IsNamedValues
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns true is XmpValue represents named values.
 type: docs
 weight: 80
 url: /net/aspose.page.eps.xmp/xmpvalue/isnamedvalues/

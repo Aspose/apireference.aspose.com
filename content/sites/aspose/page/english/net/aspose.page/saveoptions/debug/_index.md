@@ -1,7 +1,7 @@
 ---
 title: Debug
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies whether debug information must be printed to standard output stream or not.
 type: docs
 weight: 30
 url: /net/aspose.page/saveoptions/debug/

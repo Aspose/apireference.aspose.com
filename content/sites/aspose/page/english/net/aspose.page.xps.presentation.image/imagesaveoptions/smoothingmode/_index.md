@@ -1,7 +1,7 @@
 ---
 title: SmoothingMode
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the smoothing mode.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode/

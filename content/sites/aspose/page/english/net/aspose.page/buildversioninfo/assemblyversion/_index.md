@@ -1,7 +1,7 @@
 ---
 title: AssemblyVersion
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Assembly Version
 type: docs
 weight: 20
 url: /net/aspose.page/buildversioninfo/assemblyversion/

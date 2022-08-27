@@ -1,7 +1,7 @@
 ---
 title: Fill
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the brush used to paint the geometry specified by the Data property of the path.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpspath/fill/

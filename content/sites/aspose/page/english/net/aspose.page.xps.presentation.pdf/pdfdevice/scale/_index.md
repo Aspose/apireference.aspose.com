@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies the specified scale vector to the current transformation matrix.
 type: docs
 weight: 280
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/scale/

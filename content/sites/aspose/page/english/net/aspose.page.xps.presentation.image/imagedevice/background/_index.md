@@ -1,7 +1,7 @@
 ---
 title: Background
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the background color.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.presentation.image/imagedevice/background/

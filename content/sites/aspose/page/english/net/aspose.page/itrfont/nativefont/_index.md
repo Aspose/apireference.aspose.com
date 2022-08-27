@@ -1,9 +1,9 @@
 ---
 title: NativeFont
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns System.Drawing.Font corresponding to this font.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.page/itrfont/nativefont/
 ---
 ## ITrFont.NativeFont property

@@ -1,27 +1,22 @@
 ---
 title: IPrintTicketItem
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The base interface for classes that may be PrintTicket./printticket root element items. It is also the base interface for interfaces that define a scoping prefix.
 type: docs
-weight: 520
+weight: 910
 url: /net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface
 
-Basic interface for classes that can be a print ticket item.
+The base interface for classes that may be [`PrintTicket`](../printticket) root element items. It is also the base interface for interfaces that define a scoping prefix.
 
 ```csharp
-public interface IPrintTicketItem
+public interface IPrintTicketItem : IPrintTicketElementChild
 ```
-
-## Properties
-
-| Name | Description |
-| --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/iprintticketitem/name) { get; } | Returns item name. |
 
 ### See Also
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * assembly [Aspose.Page](../../)
 

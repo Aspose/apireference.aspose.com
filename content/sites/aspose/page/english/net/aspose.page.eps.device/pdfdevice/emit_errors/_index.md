@@ -1,9 +1,9 @@
 ---
 title: EMIT_ERRORS
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Emit errors property value.
 type: docs
-weight: 390
+weight: 380
 url: /net/aspose.page.eps.device/pdfdevice/emit_errors/
 ---
 ## PdfDevice.EMIT_ERRORS field

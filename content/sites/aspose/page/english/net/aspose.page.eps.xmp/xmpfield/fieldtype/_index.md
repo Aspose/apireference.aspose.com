@@ -1,7 +1,7 @@
 ---
 title: FieldType
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the type of the field.
 type: docs
 weight: 30
 url: /net/aspose.page.eps.xmp/xmpfield/fieldtype/

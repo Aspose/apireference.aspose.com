@@ -1,7 +1,7 @@
 ---
 title: CurrentPageNumber
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the absolute number of the current page within the document.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.presentation.image/imagedevice/currentpagenumber/

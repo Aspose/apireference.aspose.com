@@ -1,7 +1,7 @@
 ---
 title: SetVisual
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Sets visual as Visual element of visual brush.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.xpsmodel/xpsvisualbrush/setvisual/

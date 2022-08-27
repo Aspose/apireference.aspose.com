@@ -1,9 +1,9 @@
 ---
 title: ToString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the name of device type.
 type: docs
-weight: 280
+weight: 270
 url: /net/aspose.page.eps.device/pdfdevice/tostring/
 ---
 ## PdfDevice.ToString method

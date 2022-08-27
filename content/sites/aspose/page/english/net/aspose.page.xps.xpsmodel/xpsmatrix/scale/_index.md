@@ -1,12 +1,12 @@
 ---
 title: Scale
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies the specified scale vector scaleX and scaleY to this Matrix in order specified by matrixOrder.
 type: docs
 weight: 150
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/scale/
 ---
-## XpsMatrix.Scale method (1 of 2)
+## Scale(float, float, MatrixOrder) {#scale_1}
 
 Applies the specified scale vector (scaleX and scaleY) to this Matrix in order specified by *matrixOrder*.
 
@@ -28,7 +28,7 @@ public void Scale(float scaleX, float scaleY, MatrixOrder matrixOrder)
 
 ---
 
-## XpsMatrix.Scale method (2 of 2)
+## Scale(float, float) {#scale}
 
 Applies the specified scale vector (scaleX and scaleY) to this Matrix in default (Prepend) order.
 

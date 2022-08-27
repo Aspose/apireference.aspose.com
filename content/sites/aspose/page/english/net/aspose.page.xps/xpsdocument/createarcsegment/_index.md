@@ -1,7 +1,7 @@
 ---
 title: CreateArcSegment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new elliptical arc segment.
 type: docs
 weight: 160
 url: /net/aspose.page.xps/xpsdocument/createarcsegment/

@@ -1,7 +1,7 @@
 ---
 title: op_Equality
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Implements the operator .
 type: docs
 weight: 140
 url: /net/aspose.page.eps.xmp/xmpfield/op_equality/

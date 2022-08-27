@@ -1,7 +1,7 @@
 ---
 title: RenderTransform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the affine transformation matrix establishing a new coordinate frame for all attributes of the element and for all child elements if any.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.xpsmodel/xpscontentelement/rendertransform/

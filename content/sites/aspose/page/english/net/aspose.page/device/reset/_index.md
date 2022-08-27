@@ -1,7 +1,7 @@
 ---
 title: Reset
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Reset the device to initial state for a page.
 type: docs
 weight: 470
 url: /net/aspose.page/device/reset/

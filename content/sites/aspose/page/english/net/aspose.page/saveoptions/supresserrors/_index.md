@@ -1,7 +1,7 @@
 ---
 title: SupressErrors
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies whether errors must be suppressed or not. If true suppressed errors are added to Exceptionsaspose.page/saveoptions/exceptions list. If false the first error will terminate the program.
 type: docs
 weight: 60
 url: /net/aspose.page/saveoptions/supresserrors/

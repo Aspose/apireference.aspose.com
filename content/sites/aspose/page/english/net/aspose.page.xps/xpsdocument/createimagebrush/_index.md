@@ -1,12 +1,12 @@
 ---
 title: CreateImageBrush
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new image brush.
 type: docs
 weight: 240
 url: /net/aspose.page.xps/xpsdocument/createimagebrush/
 ---
-## XpsDocument.CreateImageBrush method (1 of 2)
+## CreateImageBrush(XpsImage, RectangleF, RectangleF) {#createimagebrush}
 
 Creates a new image brush.
 
@@ -34,7 +34,7 @@ New image brush.
 
 ---
 
-## XpsDocument.CreateImageBrush method (2 of 2)
+## CreateImageBrush(string, RectangleF, RectangleF) {#createimagebrush_1}
 
 Creates a new image brush.
 
