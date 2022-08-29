@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 气泡数组的名称不参与显示或生成元素
+description: 气泡数组的名称不参与 element 的显示或生成
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/name/
 ---
 ## BubbleArrayConfig.Name property
 
-气泡数组的名称。不参与显示或生成元素
+气泡数组的名称。不参与 element 的显示或生成
 
 ```csharp
 public override string Name { get; set; }

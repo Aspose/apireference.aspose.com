@@ -1,14 +1,14 @@
 ---
 title: ChoiceBoxConfig
 second_title: Aspose.OMR for .NET API 参考
-description: 选择框是一个基本元素表示具有一定数量答案的单个问题
+description: 选择框是一个基本元素表示具有固定数量答案的单个问题
 type: docs
 weight: 100
 url: /zh/net/aspose.omr.generation.config.elements/choiceboxconfig/
 ---
 ## ChoiceBoxConfig class
 
-选择框是一个基本元素，表示具有一定数量答案的单个问题。
+选择框是一个基本元素，表示具有固定数量答案的单个问题。
 
 ```csharp
 public class ChoiceBoxConfig : BaseConfig
@@ -25,12 +25,12 @@ public class ChoiceBoxConfig : BaseConfig
 | 姓名 | 描述 |
 | --- | --- |
 | [AnswersString](../../aspose.omr.generation.config.elements/choiceboxconfig/answersstring) { get; set; } | 获取或设置 ChoiceBox 元素的答案字符串 |
-| [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation.config.elements/choiceboxconfig/fontsize) { get; set; } | 文本字体大小 |
-| [FontStyle](../../aspose.omr.generation.config.elements/choiceboxconfig/fontstyle) { get; set; } | 文本的样式 |
-| override [Name](../../aspose.omr.generation.config.elements/choiceboxconfig/name) { get; set; } | 选择框的名称。对于显示值[`QuestionText`](./questiontext) |
+| [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | text 的字体系列 |
+| [FontSize](../../aspose.omr.generation.config.elements/choiceboxconfig/fontsize) { get; set; } | 文字字体大小 |
+| [FontStyle](../../aspose.omr.generation.config.elements/choiceboxconfig/fontstyle) { get; set; } | 文字的样式 |
+| override [Name](../../aspose.omr.generation.config.elements/choiceboxconfig/name) { get; set; } | 选择框的名称。用于显示值[`QuestionText`](./questiontext) |
 | [QuestionText](../../aspose.omr.generation.config.elements/choiceboxconfig/questiontext) { get; set; } | 获取或设置 ChoiceBox 元素的问题文本 |
-| [TextAlignment](../../aspose.omr.generation.config.elements/choiceboxconfig/textalignment) { get; set; } | 文本对齐，指示文本应该在页面上绘制的位置 |
+| [TextAlignment](../../aspose.omr.generation.config.elements/choiceboxconfig/textalignment) { get; set; } | 文本对齐，指示应该在页面上绘制文本的位置 |
 | override [Type](../../aspose.omr.generation.config.elements/choiceboxconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
 
 ### 也可以看看

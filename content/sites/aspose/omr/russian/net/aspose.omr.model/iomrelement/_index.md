@@ -1,14 +1,14 @@
 ---
 title: IOmrElement
 second_title: Справочник по Aspose.OMR для .NET API
-description: Интерфейс элементов OMR
+description: Интерфейс для элементов OMR
 type: docs
-weight: 630
+weight: 650
 url: /ru/net/aspose.omr.model/iomrelement/
 ---
 ## IOmrElement interface
 
-Интерфейс элементов OMR
+Интерфейс для элементов OMR
 
 ```csharp
 public interface IOmrElement
@@ -26,7 +26,7 @@ public interface IOmrElement
 | Имя | Описание |
 | --- | --- |
 | [GetAnswer](../../aspose.omr.model/iomrelement/getanswer)() | Формирует строку с результатом распознавания |
-| [GetCsv](../../aspose.omr.model/iomrelement/getcsv)() | Формирует ответы в виде строки значений, разделенных запятыми |
+| [GetCsv](../../aspose.omr.model/iomrelement/getcsv)() | Формирует ответы как значения, разделенные запятыми string |
 
 ### Смотрите также
 

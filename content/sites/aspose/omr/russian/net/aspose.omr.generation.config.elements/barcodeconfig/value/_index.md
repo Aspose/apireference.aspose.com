@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Справочник по Aspose.OMR для .NET API
-description: Значение штрих-кода для кодирования
+description: Значение штрихкода для кодирования
 type: docs
 weight: 90
 url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/value/

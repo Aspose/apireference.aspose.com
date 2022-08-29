@@ -1,14 +1,14 @@
 ---
 title: FontStyle
 second_title: Aspose.OMR for .NET API 参考
-description: 文本的样式
+description: 文字的样式
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle/
 ---
 ## CheckBoxConfig.FontStyle property
 
-文本的样式
+文字的样式
 
 ```csharp
 public FontStyle FontStyle { get; set; }

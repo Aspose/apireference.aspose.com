@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 网格名称用作识别标识符
+description: 网格名称在识别 中用作标识符
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/name/
 ---
 ## CompositeGridConfig.Name property
 
-网格名称。用作识别标识符
+网格名称。在识别 中用作标识符
 
 ```csharp
 public override string Name { get; set; }

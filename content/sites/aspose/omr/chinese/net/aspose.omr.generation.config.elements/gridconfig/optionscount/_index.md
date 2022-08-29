@@ -3,7 +3,7 @@ title: OptionsCount
 second_title: Aspose.OMR for .NET API 参考
 description: 每个选项框中的答案选项数量即自上而下网格中的行
 type: docs
-weight: 90
+weight: 110
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/optionscount/
 ---
 ## GridConfig.OptionsCount property

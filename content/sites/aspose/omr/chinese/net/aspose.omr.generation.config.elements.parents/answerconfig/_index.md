@@ -1,14 +1,14 @@
 ---
 title: AnswerConfig
 second_title: Aspose.OMR for .NET API 参考
-description: 表示答案元素 可以用作子级VerticalChoiceBoxConfig./verticalchoiceboxconfig
+description: 代表答案元素 可以用作子元素VerticalChoiceBoxConfig./verticalchoiceboxconfig
 type: docs
 weight: 210
 url: /zh/net/aspose.omr.generation.config.elements.parents/answerconfig/
 ---
 ## AnswerConfig class
 
-表示答案元素。 可以用作子级[`VerticalChoiceBoxConfig`](../verticalchoiceboxconfig)
+代表答案元素。 可以用作子元素[`VerticalChoiceBoxConfig`](../verticalchoiceboxconfig)
 
 ```csharp
 public class AnswerConfig : ParentConfig

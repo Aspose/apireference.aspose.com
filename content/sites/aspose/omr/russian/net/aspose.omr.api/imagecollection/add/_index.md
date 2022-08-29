@@ -16,8 +16,8 @@ public void Add(string imageName, MemoryStream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageName | String | Имя образа, используемого вИмя |
-| stream | MemoryStream | Содержимое файла изображения в виде Stream |
+| imageName | String | Название изображения, используемого в[`Name`](../../../aspose.omr.generation.config.elements/imageconfig/name) |
+| stream | MemoryStream | Содержимое файла изображения в виде потока |
 
 ### Смотрите также
 

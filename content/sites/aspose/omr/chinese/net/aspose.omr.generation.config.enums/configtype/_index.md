@@ -3,7 +3,7 @@ title: ConfigType
 second_title: Aspose.OMR for .NET API 参考
 description: Omr 元素的类型
 type: docs
-weight: 430
+weight: 440
 url: /zh/net/aspose.omr.generation.config.enums/configtype/
 ---
 ## ConfigType enumeration

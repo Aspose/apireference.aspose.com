@@ -3,15 +3,15 @@ title: VerticalMargin
 second_title: Aspose.OMR for .NET API 参考
 description: 行间距
 type: docs
-weight: 150
+weight: 140
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/verticalmargin/
 ---
-## GridConfig.VerticalMargin field
+## GridConfig.VerticalMargin property
 
 行间距
 
 ```csharp
-public int VerticalMargin;
+public int VerticalMargin { get; set; }
 ```
 
 ### 也可以看看

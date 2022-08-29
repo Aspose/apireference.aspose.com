@@ -1,14 +1,14 @@
 ---
 title: TemplateProcessor
 second_title: Aspose.OMR for .NET API 参考
-description: 处理模板和图像的类  此类的每个实例都使用单个 OMR 模板 它能够识别构造函数中指定的模板的图像
+description: 处理模板和图像的类  此类的每个实例都使用一个 OMR 模板 它能够识别构造函数中指定的模板的图像
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.api/templateprocessor/
 ---
 ## TemplateProcessor class
 
-处理模板和图像的类。  此类的每个实例都使用单个 OMR 模板。 它能够识别构造函数中指定的模板的图像。
+处理模板和图像的类。  此类的每个实例都使用一个 OMR 模板。 它能够识别构造函数中指定的模板的图像。
 
 ```csharp
 public class TemplateProcessor
@@ -19,7 +19,7 @@ public class TemplateProcessor
 | 姓名 | 描述 |
 | --- | --- |
 | [Recalculate](../../aspose.omr.api/templateprocessor/recalculate)(RecognitionResult, int) | 使用微调参数更新识别结果。 |
-| [RecognizeFolder](../../aspose.omr.api/templateprocessor/recognizefolder)(string, int) | 识别文件夹 |
+| [RecognizeFolder](../../aspose.omr.api/templateprocessor/recognizefolder)(string, int) | 识别文件夹中的图像 |
 | [RecognizeImage](../../aspose.omr.api/templateprocessor/recognizeimage#recognizeimage)(MemoryStream, int) | 从内存流中识别图像 |
 | [RecognizeImage](../../aspose.omr.api/templateprocessor/recognizeimage#recognizeimage_1)(string, int) | 识别图像 |
 | [RecognizeMultiPageTemplate](../../aspose.omr.api/templateprocessor/recognizemultipagetemplate)(string[], int) | 识别多页模板 |

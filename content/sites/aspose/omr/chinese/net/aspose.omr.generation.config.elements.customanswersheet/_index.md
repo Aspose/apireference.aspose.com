@@ -12,7 +12,7 @@ url: /zh/net/aspose.omr.generation.config.elements.customanswersheet/
 
 | 班级 | 描述 |
 | --- | --- |
-| [BubbleArrayConfig](./bubblearrayconfig) | 将可能的答案显示为每个圆圈（气泡）内的选项。 只能在[`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
+| [BubbleArrayConfig](./bubblearrayconfig) | 将可能的答案显示为每个圆圈（气泡）内的选项。 只能在里面使用[`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
 | [CustomAnswerSheetConfig](./customanswersheetconfig) | 重复自定义行。描述自定义行使用 -[`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
 | [CustomRowConfig](./customrowconfig) | CustomRow 的描述。与[`CustomAnswerSheetConfig`](../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig) |
 

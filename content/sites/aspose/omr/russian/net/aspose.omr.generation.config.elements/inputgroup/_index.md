@@ -1,14 +1,14 @@
 ---
 title: InputGroup
 second_title: Справочник по Aspose.OMR для .NET API
-description: Группирующий элемент. Состоит из двух дочерних элементов Content. Рисуется в пропорциях 13 и 23.
+description: Группирующий элемент. Состоит из двух дочерних элементов Content. Нарисовано в пропорциях 13 и 23.
 type: docs
 weight: 200
 url: /ru/net/aspose.omr.generation.config.elements/inputgroup/
 ---
 ## InputGroup class
 
-Группирующий элемент. Состоит из двух дочерних элементов Content. Рисуется в пропорциях 1\3 и 2\3.
+Группирующий элемент. Состоит из двух дочерних элементов Content. Нарисовано в пропорциях 1\3 и 2\3.
 
 ```csharp
 public class InputGroup : ParentConfig
@@ -27,9 +27,9 @@ public class InputGroup : ParentConfig
 | [BorderColor](../../aspose.omr.generation.config.elements/inputgroup/bordercolor) { get; set; } | Цвет рамки |
 | [BorderSize](../../aspose.omr.generation.config.elements/inputgroup/bordersize) { get; set; } | Размер линии границы |
 | override [Children](../../aspose.omr.generation.config.elements/inputgroup/children) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
-| [InputBorder](../../aspose.omr.generation.config.elements/inputgroup/inputborder) { get; set; } | Тип нарисованной границы |
-| [LabelBorder](../../aspose.omr.generation.config.elements/inputgroup/labelborder) { get; set; } | Тип нарисованной границы |
-| override [Name](../../aspose.omr.generation.config.elements/inputgroup/name) { get; set; } | Имя элемента группировки |
+| [InputBorder](../../aspose.omr.generation.config.elements/inputgroup/inputborder) { get; set; } | Тип нарисованной рамки |
+| [LabelBorder](../../aspose.omr.generation.config.elements/inputgroup/labelborder) { get; set; } | Тип нарисованной рамки |
+| override [Name](../../aspose.omr.generation.config.elements/inputgroup/name) { get; set; } | Имя группирующего элемента |
 | override [Type](../../aspose.omr.generation.config.elements/inputgroup/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: AnswersValues
 second_title: Справочник по Aspose.OMR для .NET API
-description: Каждое значение представляет собой символ внутри пузырька. Должен иметь тот же счетчик что иAnswersCountaspose.omr.generation.config.elements/answersheetconfig/answerscount Примерnew string A B C D Примерновая строка 1 2 3 4
+description: Каждое значение представляет собой символ внутри пузырька. Должен иметь тот же счет что иAnswersCountaspose.omr.generation.config.elements/answersheetconfig/answerscount Пример новая строка A B C D Пример новая строка 1 2 3 4
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation.config.elements/answersheetconfig/answersvalues/
 ---
 ## AnswerSheetConfig.AnswersValues property
 
-Каждое значение представляет собой символ внутри пузырька. Должен иметь тот же счетчик, что и[`AnswersCount`](../answerscount) Пример:new string[] {"A", "B", "C", "D"} Пример:новая строка[] {"1", "2", "3", "4"}
+Каждое значение представляет собой символ внутри пузырька. Должен иметь тот же счет, что и[`AnswersCount`](../answerscount) Пример: новая строка[] {"A", "B", "C", "D"} Пример: новая строка[] {"1", "2", "3", "4"}
 
 ```csharp
 public string[] AnswersValues { get; set; }

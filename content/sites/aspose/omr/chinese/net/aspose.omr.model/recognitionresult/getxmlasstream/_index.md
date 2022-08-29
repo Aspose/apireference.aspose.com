@@ -16,11 +16,11 @@ public MemoryStream GetXmlAsStream(Encoding encoding)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | Encoding with我们编码 XML 字符串 |
+| encoding | Encoding | 我们对 XML 字符串进行编码的编码 |
 
 ### 返回值
 
-识别结果为带有 XML
+识别结果为带有 XML 的 MemoryStream
 
 ### 也可以看看
 

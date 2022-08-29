@@ -1,14 +1,14 @@
 ---
 title: VerticalMargin
 second_title: Справочник по Aspose.OMR для .NET API
-description: Отступ между строками
+description: Поле между строками
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/verticalmargin/
 ---
 ## CompositeGridConfig.VerticalMargin field
 
-Отступ между строками
+Поле между строками
 
 ```csharp
 public int VerticalMargin;

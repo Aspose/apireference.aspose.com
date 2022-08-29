@@ -1,14 +1,14 @@
 ---
 title: PageName
 second_title: Справочник по Aspose.OMR для .NET API
-description: Получает или устанавливает имя страницы
+description: Получает или задает имя страницы
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.model/recognitionresult/pagename/
 ---
 ## RecognitionResult.PageName property
 
-Получает или устанавливает имя страницы
+Получает или задает имя страницы
 
 ```csharp
 public string PageName { get; set; }

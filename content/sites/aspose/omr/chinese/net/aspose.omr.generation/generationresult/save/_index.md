@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.OMR for .NET API 参考
-description: 将模板图像和模板保存到指定文件夹
+description: 保存模板图片和模板到指定文件夹
 type: docs
 weight: 70
 url: /zh/net/aspose.omr.generation/generationresult/save/
 ---
 ## GenerationResult.Save method
 
-将模板图像和模板保存到指定文件夹
+保存模板图片和模板到指定文件夹
 
 ```csharp
 public void Save(string folder, string name)
@@ -16,7 +16,7 @@ public void Save(string folder, string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| folder | String | 目的地文件夹 |
+| folder | String | 目标文件夹 |
 | name | String | 模板名称 |
 
 ### 也可以看看

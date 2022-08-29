@@ -3,7 +3,7 @@ title: YPosition
 second_title: Aspose.OMR for .NET API 参考
 description: 页面上的网格 Y 位置覆盖对齐方式
 type: docs
-weight: 130
+weight: 160
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/yposition/
 ---
 ## GridConfig.YPosition property

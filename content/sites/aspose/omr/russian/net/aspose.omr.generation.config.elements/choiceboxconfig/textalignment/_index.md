@@ -1,14 +1,14 @@
 ---
 title: TextAlignment
 second_title: Справочник по Aspose.OMR для .NET API
-description: Выравнивание текста указывающее где текст должен быть отрисован на странице
+description: Выравнивание текста указывающее где должен быть отрисован текст на странице
 type: docs
 weight: 80
 url: /ru/net/aspose.omr.generation.config.elements/choiceboxconfig/textalignment/
 ---
 ## ChoiceBoxConfig.TextAlignment property
 
-Выравнивание текста, указывающее, где текст должен быть отрисован на странице
+Выравнивание текста, указывающее, где должен быть отрисован текст на странице
 
 ```csharp
 public AlignmentEnum TextAlignment { get; set; }

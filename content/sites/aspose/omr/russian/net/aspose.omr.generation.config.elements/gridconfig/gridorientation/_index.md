@@ -1,14 +1,14 @@
 ---
 title: GridOrientation
 second_title: Справочник по Aspose.OMR для .NET API
-description: Ориентация сеткигоризонтальная или вертикальная. Указывает как должны располагаться дочерние элементы
+description: Ориентация сетки горизонтальная или вертикальная. Указывает как должны располагаться дочерние элементы
 type: docs
-weight: 40
+weight: 60
 url: /ru/net/aspose.omr.generation.config.elements/gridconfig/gridorientation/
 ---
 ## GridConfig.GridOrientation property
 
-Ориентация сетки:горизонтальная или вертикальная. Указывает, как должны располагаться дочерние элементы
+Ориентация сетки: горизонтальная или вертикальная. Указывает, как должны располагаться дочерние элементы
 
 ```csharp
 public Orientation GridOrientation { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: VerticalMargin
 second_title: Справочник по Aspose.OMR для .NET API
-description: Вертикальное поле листа ответов. Задайте в пикселях.
+description: Вертикальное поле листа ответов. Установить в пикселях.
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.omr.generation.config.elements/answersheetconfig/verticalmargin/
 ---
 ## AnswerSheetConfig.VerticalMargin property
 
-Вертикальное поле листа ответов. Задайте в пикселях.
+Вертикальное поле листа ответов. Установить в пикселях.
 
 ```csharp
 public int VerticalMargin { get; set; }

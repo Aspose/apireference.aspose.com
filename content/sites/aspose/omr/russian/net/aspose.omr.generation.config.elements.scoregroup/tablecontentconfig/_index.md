@@ -24,14 +24,14 @@ public class TableContentConfig : ContentConfig
 
 | Имя | Описание |
 | --- | --- |
-| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Выравнивание строки содержимого внутри родителя |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Выравнивание строки содержимого внутри parent |
 | [Column](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/column) { get; set; } | Позиция столбца в таблице. первый столбец - '1' |
 | [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Тип отображения текста. |
-| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | Стиль текста |
 | override [Name](../../aspose.omr.generation.config.elements/contentconfig/name) { get; set; } | Значение содержимого |
-| [Row](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row) { get; set; } | Позиция строки в таблице первая строка - '1' |
+| [Row](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row) { get; set; } | Позиция строки в таблице первая строка — '1' |
 | override [Type](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

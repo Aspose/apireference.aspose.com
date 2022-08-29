@@ -1,16 +1,16 @@
 ---
 title: CorrectionControl
 second_title: Справочник по Aspose.OMR для .NET API
-description: Пользовательский элемент управления который позволяет распознавать изображения и исправлять и калибровать параметры распознавания
+description: Пользовательский элемент управления позволяющий распознавать изображения а также исправлять и калибровать параметры распознавания
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.correctionui/correctioncontrol/
 ---
 ## CorrectionControl class
 
-Пользовательский элемент управления, который позволяет распознавать изображения и исправлять и калибровать параметры распознавания
+Пользовательский элемент управления, позволяющий распознавать изображения, а также исправлять и калибровать параметры распознавания
 
-CorrectionControl
+Контроль коррекции
 
 ```csharp
 public class CorrectionControl : UserControl, IComponentConnector
@@ -22,7 +22,7 @@ public class CorrectionControl : UserControl, IComponentConnector
 | --- | --- |
 | [ExportResults](../../aspose.omr.correctionui/correctioncontrol/exportresults)(string) | Экспорт результатов распознавания для изображения |
 | [Initialize](../../aspose.omr.correctionui/correctioncontrol/initialize)() | Инициализировать элемент управления |
-| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent)() | InitializeComponent |
+| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent)() | ИнициализироватьКомпонент |
 | [LoadAndDisplayImage](../../aspose.omr.correctionui/correctioncontrol/loadanddisplayimage)(string) | Загрузить и отобразить изображение для распознавания |
 | [RecognizeImage](../../aspose.omr.correctionui/correctioncontrol/recognizeimage)() | Распознать изображение |
 

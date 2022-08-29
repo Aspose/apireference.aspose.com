@@ -1,14 +1,14 @@
 ---
 title: Row
 second_title: Справочник по Aspose.OMR для .NET API
-description: Позиция строки в таблице первая строка - 1
+description: Позиция строки в таблице первая строка  1
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row/
 ---
 ## TableContentConfig.Row property
 
-Позиция строки в таблице первая строка - '1'
+Позиция строки в таблице первая строка — '1'
 
 ```csharp
 public int Row { get; set; }

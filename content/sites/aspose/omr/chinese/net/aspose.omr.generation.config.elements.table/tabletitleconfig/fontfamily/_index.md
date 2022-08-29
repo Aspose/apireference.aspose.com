@@ -1,14 +1,14 @@
 ---
 title: FontFamily
 second_title: Aspose.OMR for .NET API 参考
-description: 文本的字体系列
+description: text 的字体系列
 type: docs
 weight: 90
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily/
 ---
 ## TableTitleConfig.FontFamily field
 
-文本的字体系列
+text 的字体系列
 
 ```csharp
 public string FontFamily;

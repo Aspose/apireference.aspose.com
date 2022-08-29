@@ -1,14 +1,14 @@
 ---
 title: VerticalChoiceBoxConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: VerticalChoiceBox состоит из элементаAnswerConfig./answerconfig который содержит короткий ответ иContentConfig../aspose.omr.generation.config.elements/contentconfigэлементы подробно описывающие вариант ответа. Он также может содержать элементWriteInConfig../aspose.omr.generation.config.elements/writeinconfig в котором пользователь может ввести свой собственный ответ.
+description: VerticalChoiceBox состоит изAnswerConfig./answerconfig элемент содержащий краткий ответ иContentConfig../aspose.omr.generation.config.elements/contentconfig элементы подробно описывающие вариант ответа. Также может содержатьWriteInConfig../aspose.omr.generation.config.elements/writeinconfig элемент в который пользователь может ввести свой ответ.
 type: docs
 weight: 270
 url: /ru/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/
 ---
 ## VerticalChoiceBoxConfig class
 
-VerticalChoiceBox состоит из элемента[`AnswerConfig`](../answerconfig), который содержит короткий ответ и[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig)элементы, подробно описывающие вариант ответа. Он также может содержать элемент[`WriteInConfig`](../../aspose.omr.generation.config.elements/writeinconfig), в котором пользователь может ввести свой собственный ответ.
+VerticalChoiceBox состоит из[`AnswerConfig`](../answerconfig) элемент, содержащий краткий ответ и[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) элементы, подробно описывающие вариант ответа. Также может содержать[`WriteInConfig`](../../aspose.omr.generation.config.elements/writeinconfig) элемент, в который пользователь может ввести свой ответ.
 
 ```csharp
 public class VerticalChoiceBoxConfig : ParentConfig
@@ -26,7 +26,7 @@ public class VerticalChoiceBoxConfig : ParentConfig
 | --- | --- |
 | override [Children](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/children) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
 | override [Name](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/name) { get; set; } | Значение вопроса |
-| [Threshold](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold) { get; set; } | Процент пикселей, после которых пузырьки считаются отмеченными |
+| [Threshold](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold) { get; set; } | Процент пикселей, после которых пузырьки считаются помеченными |
 | [TopPadding](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/toppadding) { get; set; } | Количество пикселей. Может использоваться для добавления дополнительного пространства над элементом. Или удалите существующее пространство, установив отрицательное значение (например, -40) |
 | override [Type](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 

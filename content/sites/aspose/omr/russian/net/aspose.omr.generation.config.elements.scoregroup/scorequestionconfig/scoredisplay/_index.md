@@ -1,14 +1,14 @@
 ---
 title: ScoreDisplay
 second_title: Справочник по Aspose.OMR для .NET API
-description: Описать поведение отображения значения счета.
+description: Описать поведение отображения значения оценки.
 type: docs
 weight: 80
 url: /ru/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/scoredisplay/
 ---
 ## ScoreQuestionConfig.ScoreDisplay property
 
-Описать поведение отображения значения счета.
+Описать поведение отображения значения оценки.
 
 ```csharp
 public ScoreDisplay ScoreDisplay { get; set; }

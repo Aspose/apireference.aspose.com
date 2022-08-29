@@ -1,14 +1,14 @@
 ---
 title: TopPadding
 second_title: Aspose.OMR for .NET API 参考
-description: 像素数量可用于在元素上方添加额外空间 或通过设置负值例如 -40删除现有空间
+description: 像素数量可用于在元素上方添加额外空间 或者通过设置负值例如40来删除现有空间
 type: docs
 weight: 50
 url: /zh/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/toppadding/
 ---
 ## VerticalChoiceBoxConfig.TopPadding property
 
-像素数量。可用于在元素上方添加额外空间。 或通过设置负值（例如 -40）删除现有空间
+像素数量。可用于在元素上方添加额外空间。 或者通过设置负值（例如-40）来删除现有空间
 
 ```csharp
 public int TopPadding { get; set; }

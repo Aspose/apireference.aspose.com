@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Справочник по Aspose.OMR для .NET API
 description: Стили шрифта
 type: docs
-weight: 550
+weight: 570
 url: /ru/net/aspose.omr.generation/fontstyle/
 ---
 ## FontStyle enumeration

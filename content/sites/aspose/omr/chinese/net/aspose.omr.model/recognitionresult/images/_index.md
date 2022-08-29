@@ -1,14 +1,14 @@
 ---
 title: Images
 second_title: Aspose.OMR for .NET API 参考
-description: 获取或设置写入字段图像列表
+description: 获取或设置写入图像列表
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.model/recognitionresult/images/
 ---
 ## RecognitionResult.Images property
 
-获取或设置写入字段图像列表
+获取或设置写入图像列表
 
 ```csharp
 public List<Bitmap> Images { get; set; }

@@ -26,10 +26,10 @@ public class BlockConfig : ParentConfig
 | --- | --- |
 | [BorderColor](../../aspose.omr.generation.config.elements.parents/blockconfig/bordercolor) { get; set; } | Цвет рамки |
 | [BorderSize](../../aspose.omr.generation.config.elements.parents/blockconfig/bordersize) { get; set; } | Размер линии границы |
-| [BorderType](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertype) { get; set; } | Тип нарисованной границы |
+| [BorderType](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertype) { get; set; } | Тип нарисованной рамки |
 | override [Children](../../aspose.omr.generation.config.elements.parents/blockconfig/children) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
-| [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column) { get; set; } | При размещении в многоколоночном контейнере - представляет позицию в родительском |
-| [IsClipped](../../aspose.omr.generation.config.elements.parents/blockconfig/isclipped) { get; set; } | Если true блок, и все его содержимое будет обрезано как картинка при распознавании |
+| [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column) { get; set; } | При размещении в контейнере с несколькими столбцами - представляет позицию в parent |
+| [IsClipped](../../aspose.omr.generation.config.elements.parents/blockconfig/isclipped) { get; set; } | Если true, блок и все его содержимое будут обрезаны как картинка при распознавании |
 | override [Name](../../aspose.omr.generation.config.elements.parents/blockconfig/name) { get; set; } | Имя элемента блока |
 | override [Type](../../aspose.omr.generation.config.elements.parents/blockconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 

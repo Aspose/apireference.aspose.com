@@ -24,14 +24,15 @@ public class CheckBoxConfig : ParentConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize) { get; set; } | 每个选项的矩形大小（子） |
+| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize) { get; set; } | 每个选项的矩形大小（儿童） |
+| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype) { get; set; } | 气泡的类型 |
 | override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
-| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily) { get; set; } | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize) { get; set; } | 文本字体大小 |
-| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle) { get; set; } | 文本的样式 |
-| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename) { get; set; } | 在模板中控制复选框名称的显示 |
-| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name) { get; set; } | 复选框名称。默认显示在第一个复选框之前。可以通过[`HideName`](./hidename) |
-| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation) { get; set; } | 控制子元素的位置。 目前只支持横向。 |
+| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily) { get; set; } | text 的字体系列 |
+| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize) { get; set; } | 文字字体大小 |
+| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle) { get; set; } | 文字的样式 |
+| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename) { get; set; } | 控制在模板中显示复选框名称 |
+| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name) { get; set; } | 复选框的名称。默认显示在第一个复选框之前。可以隐藏[`HideName`](./hidename) |
+| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation) { get; set; } | 子元素的控制位置. 目前只支持水平. |
 | [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold) { get; set; } | 自定义识别标记。 默认设置为 3%。 如果填充了 3% 的区域，复选框将被视为已标记。 可以自定义为任何其他阈值。 不影响全局阈值 |
 | override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
 

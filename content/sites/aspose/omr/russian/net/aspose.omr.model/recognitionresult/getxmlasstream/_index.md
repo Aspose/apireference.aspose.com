@@ -1,14 +1,14 @@
 ---
 title: GetXmlAsStream
 second_title: Справочник по Aspose.OMR для .NET API
-description: Формируем строку XML с результатами распознавания в виде MemoryStream
+description: Строка XML формы с результатами распознавания как MemoryStream
 type: docs
 weight: 110
 url: /ru/net/aspose.omr.model/recognitionresult/getxmlasstream/
 ---
 ## RecognitionResult.GetXmlAsStream method
 
-Формируем строку XML с результатами распознавания в виде MemoryStream
+Строка XML формы с результатами распознавания как MemoryStream
 
 ```csharp
 public MemoryStream GetXmlAsStream(Encoding encoding)
@@ -16,7 +16,7 @@ public MemoryStream GetXmlAsStream(Encoding encoding)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| encoding | Encoding | Кодирование с которую мы кодируем строку XML |
+| encoding | Encoding | Кодировка, с помощью которой мы кодируем строку XML |
 
 ### Возвращаемое значение
 

@@ -24,11 +24,11 @@ public class TextConfig : BaseConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontFamily](../../aspose.omr.generation.config.elements/textconfig/fontfamily) { get; set; } | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation.config.elements/textconfig/fontsize) { get; set; } | 文本字体大小 |
-| [FontStyle](../../aspose.omr.generation.config.elements/textconfig/fontstyle) { get; set; } | 文本的样式 |
-| override [Name](../../aspose.omr.generation.config.elements/textconfig/name) { get; set; } | 需要显示的文本 |
-| [TextAlignment](../../aspose.omr.generation.config.elements/textconfig/textalignment) { get; set; } | 文本对齐，指示文本应该在页面上绘制的位置 |
+| [FontFamily](../../aspose.omr.generation.config.elements/textconfig/fontfamily) { get; set; } | text 的字体系列 |
+| [FontSize](../../aspose.omr.generation.config.elements/textconfig/fontsize) { get; set; } | 文字字体大小 |
+| [FontStyle](../../aspose.omr.generation.config.elements/textconfig/fontstyle) { get; set; } | 文字的样式 |
+| override [Name](../../aspose.omr.generation.config.elements/textconfig/name) { get; set; } | 需要显示的文字 |
+| [TextAlignment](../../aspose.omr.generation.config.elements/textconfig/textalignment) { get; set; } | 文本对齐，指示应该在页面上绘制文本的位置 |
 | override [Type](../../aspose.omr.generation.config.elements/textconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 触发器名称
+description: 触发器的名称
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.omr.generation.config.elements/customtriggerconfig/name/
 ---
 ## CustomTriggerConfig.Name property
 
-触发器名称。
+触发器的名称。
 
 ```csharp
 public override string Name { get; set; }

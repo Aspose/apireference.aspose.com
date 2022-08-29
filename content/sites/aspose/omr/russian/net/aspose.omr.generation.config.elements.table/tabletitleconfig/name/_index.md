@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: Текстовое значение заголовка
+description: Текстовое значение title
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation.config.elements.table/tabletitleconfig/name/
 ---
 ## TableTitleConfig.Name property
 
-Текстовое значение заголовка
+Текстовое значение title
 
 ```csharp
 public override string Name { get; set; }

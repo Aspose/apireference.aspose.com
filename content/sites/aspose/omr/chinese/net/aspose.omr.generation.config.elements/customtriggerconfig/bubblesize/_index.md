@@ -1,14 +1,14 @@
 ---
 title: BubbleSize
 second_title: Aspose.OMR for .NET API 参考
-description: 气泡大小
+description: 气泡的大小
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.omr.generation.config.elements/customtriggerconfig/bubblesize/
 ---
 ## CustomTriggerConfig.BubbleSize field
 
-气泡大小
+气泡的大小
 
 ```csharp
 public BubbleSize BubbleSize;

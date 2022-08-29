@@ -3,7 +3,7 @@ title: BubbleSize
 second_title: Справочник по Aspose.OMR для .NET API
 description: Размер пузыря
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.omr.generation.config.elements/customtriggerconfig/bubblesize/
 ---
 ## CustomTriggerConfig.BubbleSize field

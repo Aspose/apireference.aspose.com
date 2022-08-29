@@ -1,14 +1,14 @@
 ---
 title: VerticalChoiceBoxConfig
 second_title: Aspose.OMR for .NET API 参考
-description: VerticalChoiceBox 由AnswerConfig./answerconfig元素组成该元素包含一个简短的响应和ContentConfig../aspose.omr.generation.config.elements/contentconfig详细描述响应选项的元素 它还可以包含WriteInConfig../aspose.omr.generation.config.elements/writeinconfig元素用户可以在其中输入自己的答案
+description: VerticalChoiceBox 由一个AnswerConfig./answerconfig包含简短响应的元素和ContentConfig../aspose.omr.generation.config.elements/contentconfig详细描述响应选项的元素 它也可以包含一个WriteInConfig../aspose.omr.generation.config.elements/writeinconfig用户可以在其中输入自己的答案的元素
 type: docs
 weight: 270
 url: /zh/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/
 ---
 ## VerticalChoiceBoxConfig class
 
-VerticalChoiceBox 由[`AnswerConfig`](../answerconfig)元素组成，该元素包含一个简短的响应和[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig)详细描述响应选项的元素。 它还可以包含[`WriteInConfig`](../../aspose.omr.generation.config.elements/writeinconfig)元素，用户可以在其中输入自己的答案。
+VerticalChoiceBox 由一个[`AnswerConfig`](../answerconfig)包含简短响应的元素和[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig)详细描述响应选项的元素。 它也可以包含一个[`WriteInConfig`](../../aspose.omr.generation.config.elements/writeinconfig)用户可以在其中输入自己的答案的元素。
 
 ```csharp
 public class VerticalChoiceBoxConfig : ParentConfig
@@ -26,8 +26,8 @@ public class VerticalChoiceBoxConfig : ParentConfig
 | --- | --- |
 | override [Children](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
 | override [Name](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/name) { get; set; } | 问题值 |
-| [Threshold](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold) { get; set; } | 气泡被视为标记后的像素百分比 |
-| [TopPadding](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/toppadding) { get; set; } | 像素数量。可用于在元素上方添加额外空间。 或通过设置负值（例如 -40）删除现有空间 |
+| [Threshold](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold) { get; set; } | 气泡被标记后的像素百分比 |
+| [TopPadding](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/toppadding) { get; set; } | 像素数量。可用于在元素上方添加额外空间。 或者通过设置负值（例如-40）来删除现有空间 |
 | override [Type](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
 
 ### 也可以看看

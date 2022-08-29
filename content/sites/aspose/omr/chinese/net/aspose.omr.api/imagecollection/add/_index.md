@@ -16,7 +16,7 @@ public void Add(string imageName, MemoryStream stream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageName | String | ImageConfig中使用的图像名称。Name |
+| imageName | String | 使用的图像名称[`Name`](../../../aspose.omr.generation.config.elements/imageconfig/name) |
 | stream | MemoryStream | 图像文件的内容为 Stream |
 
 ### 也可以看看

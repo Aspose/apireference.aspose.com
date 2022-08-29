@@ -1,14 +1,14 @@
 ---
 title: BlockTopPadding
 second_title: Aspose.OMR for .NET API 参考
-description: 块之间的像素数量
+description: 要放置在块的顶部边框之后的像素数量
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding/
 ---
 ## ContainerConfig.BlockTopPadding property
 
-块之间的像素数量。
+要放置在块的顶部边框之后的像素数量。
 
 ```csharp
 public int BlockTopPadding { get; set; }

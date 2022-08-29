@@ -1,14 +1,14 @@
 ---
 title: Path
 second_title: Справочник по Aspose.OMR для .NET API
-description: Путь к картинке. Заполняется с использованиемNameaspose.omr.generation.config.elements/imageconfig/nameиImagesPathsaspose.omr.generation/globalpagesettings/imagespaths
+description: Путь к картинке. Заполнено с использованиемNameaspose.omr.generation.config.elements/imageconfig/name а такжеImagesPathsaspose.omr.generation/globalpagesettings/imagespaths
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.generation.config.elements/imageconfig/path/
 ---
 ## ImageConfig.Path property
 
-Путь к картинке. Заполняется с использованием[`Name`](../name)и[`ImagesPaths`](../../../aspose.omr.generation/globalpagesettings/imagespaths)
+Путь к картинке. Заполнено с использованием[`Name`](../name) а также[`ImagesPaths`](../../../aspose.omr.generation/globalpagesettings/imagespaths)
 
 ```csharp
 public string Path { get; set; }

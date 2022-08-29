@@ -1,14 +1,14 @@
 ---
 title: BorderType
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип нарисованной границы
+description: Тип нарисованной рамки
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.generation.config.elements.parents/blockconfig/bordertype/
 ---
 ## BlockConfig.BorderType property
 
-Тип нарисованной границы
+Тип нарисованной рамки
 
 ```csharp
 public BorderType BorderType { get; set; }

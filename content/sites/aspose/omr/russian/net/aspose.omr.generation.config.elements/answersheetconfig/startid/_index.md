@@ -3,7 +3,7 @@ title: StartId
 second_title: Справочник по Aspose.OMR для .NET API
 description: Начальный индекс нумерации вопросов
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.omr.generation.config.elements/answersheetconfig/startid/
 ---
 ## AnswerSheetConfig.StartId property

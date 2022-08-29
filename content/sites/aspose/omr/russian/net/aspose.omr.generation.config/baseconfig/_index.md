@@ -18,8 +18,8 @@ public abstract class BaseConfig
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | Имя элемента omr. Может использоваться в разных случаях на основе элемента |
-| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | Тип элемента omr. Не имеет значения по умолчанию. Должен быть переопределен. |
+| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | Имя элемента omr. Может использоваться в разных случаях на основе element |
+| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | Тип элемента omr. Не имеет значения по умолчанию. Необходимо переопределить. |
 
 ### Смотрите также
 

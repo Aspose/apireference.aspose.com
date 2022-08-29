@@ -1,14 +1,14 @@
 ---
 title: BorderSize
 second_title: Aspose.OMR for .NET API 参考
-description: 边框大小
+description: 边框的大小
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize/
 ---
 ## TableTitleConfig.BorderSize field
 
-边框大小
+边框的大小
 
 ```csharp
 public int BorderSize;

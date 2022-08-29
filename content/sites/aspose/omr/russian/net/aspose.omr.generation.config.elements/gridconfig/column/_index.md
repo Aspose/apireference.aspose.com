@@ -1,14 +1,14 @@
 ---
 title: Column
 second_title: Справочник по Aspose.OMR для .NET API
-description: Когда элемент рисуется в многоколоночном родительском элементе - представляет позицию.
+description: Когда элемент рисуется в многостолбцовом родительском элементе  представляет позицию.
 type: docs
-weight: 20
+weight: 40
 url: /ru/net/aspose.omr.generation.config.elements/gridconfig/column/
 ---
 ## GridConfig.Column property
 
-Когда элемент рисуется в многоколоночном родительском элементе - представляет позицию.
+Когда элемент рисуется в многостолбцовом родительском элементе - представляет позицию.
 
 ```csharp
 public int Column { get; set; }

@@ -3,7 +3,7 @@ title: Name
 second_title: Справочник по Aspose.OMR для .NET API
 description: Имя триггера.
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.omr.generation.config.elements/customtriggerconfig/name/
 ---
 ## CustomTriggerConfig.Name property

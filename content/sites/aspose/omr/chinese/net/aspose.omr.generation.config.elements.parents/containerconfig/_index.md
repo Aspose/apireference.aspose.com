@@ -24,14 +24,14 @@ public class ContainerConfig : ParentConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BlockBottomMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin) { get; set; } | 块之间的像素数量。 |
-| [BlockRightMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin) { get; set; } | 块之间的像素数量。 |
-| [BlockTopPadding](../../aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding) { get; set; } | 块之间的像素数量。 |
+| [BlockBottomMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin) { get; set; } | 要放置在块下方的像素数量。 |
+| [BlockRightMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin) { get; set; } | 要放置在右侧块之间的像素量 |
+| [BlockTopPadding](../../aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding) { get; set; } | 要放置在块的顶部边框之后的像素数量。 |
 | override [Children](../../aspose.omr.generation.config.elements.parents/containerconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
-| [ColumnsCount](../../aspose.omr.generation.config.elements.parents/containerconfig/columnscount) { get; set; } | 容器内的列数。在相等的列上划分。 [`Proportions`](./proportions) |
+| [ColumnsCount](../../aspose.omr.generation.config.elements.parents/containerconfig/columnscount) { get; set; } | 容器内的列数。在相等的列上划分。 的过时版本[`Proportions`](./proportions) |
 | [ContainerType](../../aspose.omr.generation.config.elements.parents/containerconfig/containertype) { get; set; } | 容器类型 |
 | override [Name](../../aspose.omr.generation.config.elements.parents/containerconfig/name) { get; set; } | 容器元素的名称 |
-| [Proportions](../../aspose.omr.generation.config.elements.parents/containerconfig/proportions) { get; set; } | 按自定义比例除以其中的每一列 ColumnsCount |
+| [Proportions](../../aspose.omr.generation.config.elements.parents/containerconfig/proportions) { get; set; } | 按自定义比例划分其中的每一列 较新版本[`ColumnsCount`](./columnscount) |
 | override [Type](../../aspose.omr.generation.config.elements.parents/containerconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
 
 ### 也可以看看

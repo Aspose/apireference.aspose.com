@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Справочник по Aspose.OMR для .NET API
 description: Результат распознавания изображения. Содержит все элементы OMR с подробной информацией о распознавании и методами экспорта результатов.
 type: docs
-weight: 640
+weight: 660
 url: /ru/net/aspose.omr.model/recognitionresult/
 ---
 ## RecognitionResult class
@@ -19,24 +19,24 @@ public class RecognitionResult
 | Имя | Описание |
 | --- | --- |
 | [ImagePath](../../aspose.omr.model/recognitionresult/imagepath) { get; set; } | Получает или задает путь к обрабатываемому изображению |
-| [Images](../../aspose.omr.model/recognitionresult/images) { get; set; } | Получает или задает список изображений для записи в поле |
+| [Images](../../aspose.omr.model/recognitionresult/images) { get; set; } | Получает или задает список записываемых изображений |
 | [OmrElements](../../aspose.omr.model/recognitionresult/omrelements) { get; set; } | Получает или задает список элементов OMR на странице |
-| [PageName](../../aspose.omr.model/recognitionresult/pagename) { get; set; } | Получает или устанавливает имя страницы |
+| [PageName](../../aspose.omr.model/recognitionresult/pagename) { get; set; } | Получает или задает имя страницы |
 | [TemplateName](../../aspose.omr.model/recognitionresult/templatename) { get; set; } | Получает или задает шаблон OMR |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv#getcsv_1)() | Сформировать CSV-строку с результатами распознавания |
-| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv#getcsv)(Encoding) | Сформировать строку CSV с результатами распознавания в виде MemoryStream |
-| [GetCsvAsStream](../../aspose.omr.model/recognitionresult/getcsvasstream)(Encoding) | Сформировать строку CSV с результатами распознавания в виде MemoryStream |
-| [GetJson](../../aspose.omr.model/recognitionresult/getjson#getjson_1)() | Формируем строку JSON с результатами распознавания |
-| [GetJson](../../aspose.omr.model/recognitionresult/getjson#getjson)(Encoding) | Формируем строку JSON с результатами распознавания в виде MemoryStream |
-| [GetJsonAsStream](../../aspose.omr.model/recognitionresult/getjsonasstream)(Encoding) | Формируем строку JSON с результатами распознавания в виде MemoryStream |
-| [GetXml](../../aspose.omr.model/recognitionresult/getxml#getxml_1)() | Форма XML-строки с результатами распознавания |
-| [GetXml](../../aspose.omr.model/recognitionresult/getxml#getxml)(Encoding) | Формируем строку XML с результатами распознавания в виде MemoryStream |
-| [GetXmlAsStream](../../aspose.omr.model/recognitionresult/getxmlasstream)(Encoding) | Формируем строку XML с результатами распознавания в виде MemoryStream |
+| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv#getcsv_1)() | Строка формы CSV с результатами распознавания |
+| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv#getcsv)(Encoding) | Строка CSV формы с результатами распознавания как MemoryStream |
+| [GetCsvAsStream](../../aspose.omr.model/recognitionresult/getcsvasstream)(Encoding) | Строка CSV формы с результатами распознавания как MemoryStream |
+| [GetJson](../../aspose.omr.model/recognitionresult/getjson#getjson_1)() | Строка формы JSON с результатами распознавания |
+| [GetJson](../../aspose.omr.model/recognitionresult/getjson#getjson)(Encoding) | Формируем строку JSON с результатами распознавания как MemoryStream |
+| [GetJsonAsStream](../../aspose.omr.model/recognitionresult/getjsonasstream)(Encoding) | Формируем строку JSON с результатами распознавания как MemoryStream |
+| [GetXml](../../aspose.omr.model/recognitionresult/getxml#getxml_1)() | Строка XML формы с результатами распознавания |
+| [GetXml](../../aspose.omr.model/recognitionresult/getxml#getxml)(Encoding) | Строка XML формы с результатами распознавания как MemoryStream |
+| [GetXmlAsStream](../../aspose.omr.model/recognitionresult/getxmlasstream)(Encoding) | Строка XML формы с результатами распознавания как MemoryStream |
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public byte[] GetCsv(Encoding encoding)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | Encoding with我们编码 CSV 字符串 |
+| encoding | Encoding | 编码 CSV 字符串的编码 |
 
 ### 返回值
 
@@ -32,7 +32,7 @@ public byte[] GetCsv(Encoding encoding)
 
 ## GetCsv() {#getcsv_1}
 
-形成带有识别结果的 CSV 字符串
+带有识别结果的表格 CSV 字符串
 
 ```csharp
 public string GetCsv()
@@ -40,7 +40,7 @@ public string GetCsv()
 
 ### 返回值
 
-识别结果为 CSV 字符串
+将结果识别为 CSV 字符串
 
 ### 也可以看看
 

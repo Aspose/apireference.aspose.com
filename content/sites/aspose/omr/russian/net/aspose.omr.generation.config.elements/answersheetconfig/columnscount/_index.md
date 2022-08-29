@@ -3,7 +3,7 @@ title: ColumnsCount
 second_title: Справочник по Aspose.OMR для .NET API
 description: Устанавливает количество отображаемых столбцов.
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.omr.generation.config.elements/answersheetconfig/columnscount/
 ---
 ## AnswerSheetConfig.ColumnsCount property

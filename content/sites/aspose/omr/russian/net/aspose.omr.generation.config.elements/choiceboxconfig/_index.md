@@ -1,14 +1,14 @@
 ---
 title: ChoiceBoxConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Поле выбора - это базовый элемент который представляет собой один вопрос с заданным количеством ответов.
+description: Поле выбора  это базовый элемент который представляет собой один вопрос с заданным количеством ответов.
 type: docs
 weight: 100
 url: /ru/net/aspose.omr.generation.config.elements/choiceboxconfig/
 ---
 ## ChoiceBoxConfig class
 
-Поле выбора - это базовый элемент, который представляет собой один вопрос с заданным количеством ответов.
+Поле выбора — это базовый элемент, который представляет собой один вопрос с заданным количеством ответов.
 
 ```csharp
 public class ChoiceBoxConfig : BaseConfig
@@ -24,13 +24,13 @@ public class ChoiceBoxConfig : BaseConfig
 
 | Имя | Описание |
 | --- | --- |
-| [AnswersString](../../aspose.omr.generation.config.elements/choiceboxconfig/answersstring) { get; set; } | Получает или задает строки ответов для элемента ChoiceBox |
-| [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements/choiceboxconfig/fontsize) { get; set; } | Размер шрифта текста |
+| [AnswersString](../../aspose.omr.generation.config.elements/choiceboxconfig/answersstring) { get; set; } | Получает или задает строки ответов для ChoiceBox element |
+| [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements/choiceboxconfig/fontsize) { get; set; } | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements/choiceboxconfig/fontstyle) { get; set; } | Стиль текста |
-| override [Name](../../aspose.omr.generation.config.elements/choiceboxconfig/name) { get; set; } | имя поля выбора. Для отображаемого значения[`QuestionText`](./questiontext) |
-| [QuestionText](../../aspose.omr.generation.config.elements/choiceboxconfig/questiontext) { get; set; } | Получает или задает текст вопроса для элемента ChoiceBox |
-| [TextAlignment](../../aspose.omr.generation.config.elements/choiceboxconfig/textalignment) { get; set; } | Выравнивание текста, указывающее, где текст должен быть отрисован на странице |
+| override [Name](../../aspose.omr.generation.config.elements/choiceboxconfig/name) { get; set; } | имя окна выбора. Для отображаемого значения[`QuestionText`](./questiontext) |
+| [QuestionText](../../aspose.omr.generation.config.elements/choiceboxconfig/questiontext) { get; set; } | Получает или задает текст вопроса для ChoiceBox element |
+| [TextAlignment](../../aspose.omr.generation.config.elements/choiceboxconfig/textalignment) { get; set; } | Выравнивание текста, указывающее, где должен быть отрисован текст на странице |
 | override [Type](../../aspose.omr.generation.config.elements/choiceboxconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

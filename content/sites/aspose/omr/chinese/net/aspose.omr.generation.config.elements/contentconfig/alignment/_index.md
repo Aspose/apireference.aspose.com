@@ -1,14 +1,14 @@
 ---
 title: Alignment
 second_title: Aspose.OMR for .NET API 参考
-description: 父目录内的内容字符串对齐
+description: parent 中内容字符串的对齐方式
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements/contentconfig/alignment/
 ---
 ## ContentConfig.Alignment property
 
-父目录内的内容字符串对齐
+parent 中内容字符串的对齐方式
 
 ```csharp
 public AlignmentEnum Alignment { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: Column
 second_title: Справочник по Aspose.OMR для .NET API
-description: Позиция столбца в таблице. первый столбец - 1
+description: Позиция столбца в таблице. первый столбец  1
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/column/

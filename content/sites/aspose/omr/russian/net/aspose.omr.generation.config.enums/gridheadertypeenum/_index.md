@@ -3,7 +3,7 @@ title: GridHeaderTypeEnum
 second_title: Справочник по Aspose.OMR для .NET API
 description: Тип заголовка сетки
 type: docs
-weight: 460
+weight: 470
 url: /ru/net/aspose.omr.generation.config.enums/gridheadertypeenum/
 ---
 ## GridHeaderTypeEnum enumeration

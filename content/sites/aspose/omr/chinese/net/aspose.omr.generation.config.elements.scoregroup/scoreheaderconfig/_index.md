@@ -1,14 +1,14 @@
 ---
 title: ScoreHeaderConfig
 second_title: Aspose.OMR for .NET API 参考
-description: ScoreGroupConfig./scoregroupconfig中的列将存储每个答案的点数 如果不存在 - 该列将不会被绘制
+description: 中的列ScoreGroupConfig./scoregroupconfig这将为每个答案存储点数 如果不存在  将不会绘制该列
 type: docs
 weight: 300
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/
 ---
 ## ScoreHeaderConfig class
 
-[`ScoreGroupConfig`](../scoregroupconfig)中的列将存储每个答案的点数。 如果不存在 - 该列将不会被绘制。
+中的列[`ScoreGroupConfig`](../scoregroupconfig)这将为每个答案存储点数。 如果不存在 - 将不会绘制该列。
 
 ```csharp
 public class ScoreHeaderConfig : ContentConfig
@@ -24,14 +24,14 @@ public class ScoreHeaderConfig : ContentConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | 父目录内的内容字符串对齐 |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | parent 中内容字符串的对齐方式 |
 | [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | 文本显示类型。 |
-| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | 文本字体大小 |
-| [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | 文本的样式 |
-| [HeaderType](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/headertype) { get; set; } | 标头类型 |
-| override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/name) { get; set; } | 列标题标题 |
-| [Score](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/score) { get; set; } | 得分修正 |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | text 的字体系列 |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | 文字字体大小 |
+| [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | 文字的样式 |
+| [HeaderType](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/headertype) { get; set; } | 标头的类型 |
+| override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/name) { get; set; } | 列标题的标题 |
+| [Score](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/score) { get; set; } | 分数修改器 |
 | override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
 
 ### 也可以看看

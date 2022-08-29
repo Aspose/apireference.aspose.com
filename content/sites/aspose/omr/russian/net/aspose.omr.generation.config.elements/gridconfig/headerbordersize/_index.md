@@ -1,14 +1,14 @@
 ---
 title: HeaderBorderSize
 second_title: Справочник по Aspose.OMR для .NET API
-description: Размер рамки квадрата
+description: Размер квадратной границы
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.omr.generation.config.elements/gridconfig/headerbordersize/
 ---
 ## GridConfig.HeaderBorderSize property
 
-Размер рамки квадрата
+Размер квадратной границы
 
 ```csharp
 public int HeaderBorderSize { get; set; }

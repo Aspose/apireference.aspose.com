@@ -3,7 +3,7 @@ title: HeaderBorderColor
 second_title: Aspose.OMR for .NET API 参考
 description: 方形边框颜色
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/headerbordercolor/
 ---
 ## CompositeGridConfig.HeaderBorderColor property

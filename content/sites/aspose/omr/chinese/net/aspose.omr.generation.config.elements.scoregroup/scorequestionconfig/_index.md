@@ -1,14 +1,14 @@
 ---
 title: ScoreQuestionConfig
 second_title: Aspose.OMR for .NET API 参考
-description: 表示 ScoreQuestion 元素
+description: 代表 ScoreQuestion 元素
 type: docs
 weight: 310
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/
 ---
 ## ScoreQuestionConfig class
 
-表示 ScoreQuestion 元素
+代表 ScoreQuestion 元素
 
 ```csharp
 public class ScoreQuestionConfig : ParentConfig
@@ -25,9 +25,9 @@ public class ScoreQuestionConfig : ParentConfig
 | 姓名 | 描述 |
 | --- | --- |
 | override [Children](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
-| [FontFamily](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontfamily) { get; set; } | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontsize) { get; set; } | 文本字体大小 |
-| [FontStyle](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontstyle) { get; set; } | 文本的样式 |
+| [FontFamily](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontfamily) { get; set; } | text 的字体系列 |
+| [FontSize](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontsize) { get; set; } | 文字字体大小 |
+| [FontStyle](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontstyle) { get; set; } | 文字的样式 |
 | override [Name](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/name) { get; set; } | RepeatRows 元素的名称 |
 | [Proportions](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/proportions) { get; set; } | 里面每一列的宽度比 |
 | [ScoreDisplay](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/scoredisplay) { get; set; } | 描述分数值的显示行为。 |

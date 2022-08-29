@@ -1,14 +1,14 @@
 ---
 title: ContentType
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип отображения содержимого
+description: Тип отображаемого контента
 type: docs
-weight: 450
+weight: 460
 url: /ru/net/aspose.omr.generation.config.enums/contenttype/
 ---
 ## ContentType enumeration
 
-Тип отображения содержимого
+Тип отображаемого контента
 
 ```csharp
 public enum ContentType
@@ -18,8 +18,8 @@ public enum ContentType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Normal | `0` | Значение по умолчанию. Нарисуйте текст как есть. |
-| Cells | `1` | Рисовать ячейки. Каждый символ внутри строки заключен в прямоугольник (ячейку) |
+| Normal | `0` | Значение по умолчанию. Нарисовать текст как есть. |
+| Cells | `1` | Нарисовать ячейки. Каждый символ внутри строки заключен в прямоугольник (ячейку) |
 
 ### Смотрите также
 

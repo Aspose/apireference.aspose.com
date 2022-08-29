@@ -12,8 +12,8 @@ url: /zh/net/aspose.omr.generation.config.elements.table/
 
 | 班级 | 描述 |
 | --- | --- |
-| [QuestionConfig](./questionconfig) | 代表问题元素。常用于[`TableConfig`](../aspose.omr.generation.config.elements.table/tableconfig)作为行。 |
-| [TableAnswerConfig](./tableanswerconfig) | [`TableHeaderConfig`](../aspose.omr.generation.config.elements.table/tableheaderconfig)的元素。表示列标题。 |
+| [QuestionConfig](./questionconfig) | 表示问题元素。常用于[`TableConfig`](../aspose.omr.generation.config.elements.table/tableconfig)作为行。 |
+| [TableAnswerConfig](./tableanswerconfig) | 元素[`TableHeaderConfig`](../aspose.omr.generation.config.elements.table/tableheaderconfig).表示列标题。 |
 | [TableConfig](./tableconfig) | 表示表格元素。 |
 | [TableHeaderConfig](./tableheaderconfig) | 表示 TableHeader 元素 |
 | [TableTitleConfig](./tabletitleconfig) | 表示 TableTitle 元素。 显示标题。与[`TableConfig`](../aspose.omr.generation.config.elements.table/tableconfig) |

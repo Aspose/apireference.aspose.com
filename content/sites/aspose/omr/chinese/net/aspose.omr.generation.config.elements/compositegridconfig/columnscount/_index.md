@@ -1,14 +1,14 @@
 ---
 title: ColumnsCount
 second_title: Aspose.OMR for .NET API 参考
-description: 网格内的列数每列代表结果值中的单个符号 数量必须等于ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow列数量
+description: 网格内的列数每列代表结果中的单个符号 value Amount 必须等于ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow列数
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/columnscount/
 ---
 ## CompositeGridConfig.ColumnsCount property
 
-网格内的列数。每列代表结果值中的单个符号 数量必须等于[`ExtraRow`](../extrarow)列数量
+网格内的列数。每列代表结果中的单个符号 value Amount 必须等于[`ExtraRow`](../extrarow)列数
 
 ```csharp
 public int ColumnsCount { get; set; }

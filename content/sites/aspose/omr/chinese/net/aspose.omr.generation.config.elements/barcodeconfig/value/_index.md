@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.OMR for .NET API 参考
-description: 要编码的条码值
+description: 要编码的条形码值
 type: docs
 weight: 90
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/value/
 ---
 ## BarcodeConfig.Value property
 
-要编码的条码值
+要编码的条形码值
 
 ```csharp
 public string Value { get; set; }

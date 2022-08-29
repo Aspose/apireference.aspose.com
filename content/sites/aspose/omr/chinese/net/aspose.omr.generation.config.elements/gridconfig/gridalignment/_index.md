@@ -1,14 +1,14 @@
 ---
 title: GridAlignment
 second_title: Aspose.OMR for .NET API 参考
-description: 网格对齐指示网格应在页面上绘制的位置
+description: 网格对齐指示应该在页面上绘制网格的位置
 type: docs
-weight: 30
+weight: 50
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/gridalignment/
 ---
 ## GridConfig.GridAlignment property
 
-网格对齐，指示网格应在页面上绘制的位置
+网格对齐，指示应该在页面上绘制网格的位置
 
 ```csharp
 public AlignmentEnum GridAlignment { get; set; }

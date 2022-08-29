@@ -1,14 +1,14 @@
 ---
 title: TableTitleConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Представляет элемент TableTitle. Показать заголовок. Используется сTableConfig./tableconfig
+description: Представляет элемент TableTitle. Отображает заголовок. Используется сTableConfig./tableconfig
 type: docs
 weight: 370
 url: /ru/net/aspose.omr.generation.config.elements.table/tabletitleconfig/
 ---
 ## TableTitleConfig class
 
-Представляет элемент TableTitle. Показать заголовок. Используется с[`TableConfig`](../tableconfig)
+Представляет элемент TableTitle. Отображает заголовок. Используется с[`TableConfig`](../tableconfig)
 
 ```csharp
 public class TableTitleConfig : BaseConfig
@@ -24,20 +24,20 @@ public class TableTitleConfig : BaseConfig
 
 | Имя | Описание |
 | --- | --- |
-| override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name) { get; set; } | Текстовое значение заголовка |
+| override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name) { get; set; } | Текстовое значение title |
 | override [Type](../../aspose.omr.generation.config.elements.table/tabletitleconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor) | Цвет фона заголовка таблицы |
-| [BorderColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor) | Цвет рамки |
-| [BorderSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize) | Размер границы |
+| [BackgroundColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor) | Цвет фона таблицы title |
+| [BorderColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor) | Цвет границы |
+| [BorderSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize) | Размер рамки |
 | [BorderType](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype) | Тип границы |
 | [Color](../../aspose.omr.generation.config.elements.table/tabletitleconfig/color) | Цвет текста |
-| [FontFamily](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily) | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize) | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily) | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize) | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontstyle) | Стиль текста |
 
 ### Смотрите также

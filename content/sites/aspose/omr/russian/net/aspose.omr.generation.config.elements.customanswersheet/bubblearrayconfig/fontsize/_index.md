@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Справочник по Aspose.OMR для .NET API
-description: Размер шрифта текста
+description: Размер текста font
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontsize/
 ---
 ## BubbleArrayConfig.FontSize property
 
-Размер шрифта текста
+Размер текста font
 
 ```csharp
 public int FontSize { get; set; }

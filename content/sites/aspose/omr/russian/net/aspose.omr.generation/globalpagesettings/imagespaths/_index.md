@@ -1,14 +1,14 @@
 ---
 title: ImagesPaths
 second_title: Справочник по Aspose.OMR для .NET API
-description: Полные пути к образам используемым при генерации
+description: Полные пути к образам используемым в Generation
 type: docs
 weight: 70
 url: /ru/net/aspose.omr.generation/globalpagesettings/imagespaths/
 ---
 ## GlobalPageSettings.ImagesPaths field
 
-Полные пути к образам, используемым при генерации
+Полные пути к образам, используемым в Generation
 
 ```csharp
 public string[] ImagesPaths;

@@ -3,7 +3,7 @@ title: GlobalPageSettings
 second_title: Справочник по Aspose.OMR для .NET API
 description: Глобальные настройки применимые ко всем элементам страницы.
 type: docs
-weight: 570
+weight: 590
 url: /ru/net/aspose.omr.generation/globalpagesettings/
 ---
 ## GlobalPageSettings class
@@ -26,14 +26,14 @@ public class GlobalPageSettings
 | --- | --- |
 | [BubbleColor](../../aspose.omr.generation/globalpagesettings/bubblecolor) | Цвет пузырьков |
 | [BubbleSize](../../aspose.omr.generation/globalpagesettings/bubblesize) | Размер пузырей |
-| [FontFamily](../../aspose.omr.generation/globalpagesettings/fontfamily) | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation/globalpagesettings/fontfamily) | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | Размер текста font |
 | [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | Стиль текста |
-| [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | Полные пути к образам, используемым при генерации |
+| [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | Полные пути к образам, используемым в Generation |
 | [Orientation](../../aspose.omr.generation/globalpagesettings/orientation) | Ориентация страницы |
 | [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | Левое поле страницы в пикселях |
-| [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | Правое поле страницы в пикселях |
-| [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | Формат бумаги |
+| [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | Правое поле страницы на пикселях |
+| [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | Размер бумаги |
 
 ### Смотрите также
 

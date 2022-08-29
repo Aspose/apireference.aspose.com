@@ -1,14 +1,14 @@
 ---
 title: GetImages
 second_title: Aspose.OMR for .NET API 参考
-description: 从GenerationResultaspose.omr.generation/generationresult作为 MemoryStream 获取 .png 文件
+description: 从GenerationResultaspose.omr.generation/generationresult作为 MemoryStream.
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation/memorygenerationresult/getimages/
 ---
 ## MemoryGenerationResult.GetImages method
 
-从[`GenerationResult`](../../generationresult)作为 MemoryStream 获取 .png 文件。
+从[`GenerationResult`](../../generationresult)作为 MemoryStream.
 
 ```csharp
 public IEnumerable<MemoryStream> GetImages()

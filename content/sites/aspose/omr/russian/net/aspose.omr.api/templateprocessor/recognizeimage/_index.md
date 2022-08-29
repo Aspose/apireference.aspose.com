@@ -16,7 +16,7 @@ public RecognitionResult RecognizeImage(string imagePath, int recognitionThresho
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imagePath | String | Путь к распознаваемому изображению |
+| imagePath | String | Путь к изображению для распознавания |
 | recognitionThreshold | Int32 | (Необязательно) Порог распознавания в диапазоне (0..100). Только элементы, заполненные выше порога, будут считаться заполненными. |
 
 ### Возвращаемое значение
@@ -34,7 +34,7 @@ public RecognitionResult RecognizeImage(string imagePath, int recognitionThresho
 
 ## RecognizeImage(MemoryStream, int) {#recognizeimage}
 
-Распознавание изображения из потока памяти
+Распознавание изображения из памяти stream
 
 ```csharp
 public RecognitionResult RecognizeImage(MemoryStream stream, int recognitionThreshold = -100)

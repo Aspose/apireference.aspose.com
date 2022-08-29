@@ -1,14 +1,14 @@
 ---
 title: InitializeComponent
 second_title: Справочник по Aspose.OMR для .NET API
-description: InitializeComponent
+description: ИнициализироватьКомпонент
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.correctionui/correctioncontrol/initializecomponent/
 ---
 ## CorrectionControl.InitializeComponent method
 
-InitializeComponent
+ИнициализироватьКомпонент
 
 ```csharp
 public void InitializeComponent()

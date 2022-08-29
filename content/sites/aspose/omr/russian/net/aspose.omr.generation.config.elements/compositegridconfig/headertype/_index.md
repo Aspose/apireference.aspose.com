@@ -1,14 +1,14 @@
 ---
 title: HeaderType
 second_title: Справочник по Aspose.OMR для .NET API
-description: Указывает какой тип элемента рисовать в начале сетки
+description: Указывает какой тип элемента рисовать в начале grid
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/headertype/
 ---
 ## CompositeGridConfig.HeaderType property
 
-Указывает, какой тип элемента рисовать в начале сетки
+Указывает, какой тип элемента рисовать в начале grid
 
 ```csharp
 public GridHeaderTypeEnum HeaderType { get; set; }

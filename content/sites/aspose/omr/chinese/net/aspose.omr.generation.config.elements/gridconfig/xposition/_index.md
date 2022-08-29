@@ -3,7 +3,7 @@ title: XPosition
 second_title: Aspose.OMR for .NET API 参考
 description: 页面上的网格 X 位置覆盖对齐方式
 type: docs
-weight: 120
+weight: 150
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/xposition/
 ---
 ## GridConfig.XPosition property

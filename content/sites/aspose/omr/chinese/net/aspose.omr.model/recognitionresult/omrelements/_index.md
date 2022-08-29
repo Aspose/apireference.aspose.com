@@ -1,14 +1,14 @@
 ---
 title: OmrElements
 second_title: Aspose.OMR for .NET API 参考
-description: 获取或设置页面上的OMR元素列表
+description: 获取或设置页面上的 OMR 元素列表
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.model/recognitionresult/omrelements/
 ---
 ## RecognitionResult.OmrElements property
 
-获取或设置页面上的OMR元素列表
+获取或设置页面上的 OMR 元素列表
 
 ```csharp
 public List<IOmrElement> OmrElements { get; set; }

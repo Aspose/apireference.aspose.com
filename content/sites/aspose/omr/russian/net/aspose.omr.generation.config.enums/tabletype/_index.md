@@ -3,7 +3,7 @@ title: TableType
 second_title: Справочник по Aspose.OMR для .NET API
 description: Тип таблицы
 type: docs
-weight: 510
+weight: 530
 url: /ru/net/aspose.omr.generation.config.enums/tabletype/
 ---
 ## TableType enumeration
@@ -20,7 +20,7 @@ public enum TableType
 | --- | --- | --- |
 | None | `0` | Простая таблица |
 | Striped | `1` | Полосатый стол |
-| EqualCells | `2` | Все столбцы имеют одинаковую ширину |
+| EqualCells | `2` | Каждый столбец имеет одинаковую ширину |
 
 ### Смотрите также
 

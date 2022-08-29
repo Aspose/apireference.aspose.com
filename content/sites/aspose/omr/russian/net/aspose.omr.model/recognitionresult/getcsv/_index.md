@@ -1,14 +1,14 @@
 ---
 title: GetCsv
 second_title: Справочник по Aspose.OMR для .NET API
-description: Сформировать строку CSV с результатами распознавания в виде MemoryStream
+description: Строка CSV формы с результатами распознавания как MemoryStream
 type: docs
 weight: 60
 url: /ru/net/aspose.omr.model/recognitionresult/getcsv/
 ---
 ## GetCsv(Encoding) {#getcsv}
 
-Сформировать строку CSV с результатами распознавания в виде MemoryStream
+Строка CSV формы с результатами распознавания как MemoryStream
 
 ```csharp
 public byte[] GetCsv(Encoding encoding)
@@ -16,7 +16,7 @@ public byte[] GetCsv(Encoding encoding)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| encoding | Encoding | Кодирование с которую мы кодируем CSV строку |
+| encoding | Encoding | Кодировка, с помощью которой мы кодируем строку CSV |
 
 ### Возвращаемое значение
 
@@ -32,7 +32,7 @@ public byte[] GetCsv(Encoding encoding)
 
 ## GetCsv() {#getcsv_1}
 
-Сформировать CSV-строку с результатами распознавания
+Строка формы CSV с результатами распознавания
 
 ```csharp
 public string GetCsv()
@@ -40,7 +40,7 @@ public string GetCsv()
 
 ### Возвращаемое значение
 
-Результаты распознавания в виде CSV-строки
+Результаты распознавания в виде строки CSV
 
 ### Смотрите также
 

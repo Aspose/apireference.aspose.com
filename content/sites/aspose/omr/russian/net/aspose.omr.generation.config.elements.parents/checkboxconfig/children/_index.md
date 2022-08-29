@@ -3,7 +3,7 @@ title: Children
 second_title: Справочник по Aspose.OMR для .NET API
 description: Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже.
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.omr.generation.config.elements.parents/checkboxconfig/children/
 ---
 ## CheckBoxConfig.Children property

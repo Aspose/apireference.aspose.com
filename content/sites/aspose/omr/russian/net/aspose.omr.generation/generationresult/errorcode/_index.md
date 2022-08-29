@@ -1,14 +1,14 @@
 ---
 title: ErrorCode
 second_title: Справочник по Aspose.OMR для .NET API
-description: Получает или задает код ошибки. Равно 0 если ошибок не было.
+description: Получает или задает код ошибки. Равен 0 если ошибок не возникло.
 type: docs
 weight: 10
 url: /ru/net/aspose.omr.generation/generationresult/errorcode/
 ---
 ## GenerationResult.ErrorCode property
 
-Получает или задает код ошибки. Равно 0, если ошибок не было.
+Получает или задает код ошибки. Равен 0, если ошибок не возникло.
 
 ```csharp
 public int ErrorCode { get; set; }

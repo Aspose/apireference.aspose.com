@@ -1,14 +1,14 @@
 ---
 title: XPosition
 second_title: Справочник по Aspose.OMR для .NET API
-description: Положение сетки X на странице переопределяет выравнивание
+description: Позиция сетки X на странице переопределяет выравнивание
 type: docs
 weight: 70
 url: /ru/net/aspose.omr.generation.config.elements/imageconfig/xposition/
 ---
 ## ImageConfig.XPosition property
 
-Положение сетки X на странице, переопределяет выравнивание
+Позиция сетки X на странице, переопределяет выравнивание
 
 ```csharp
 public int XPosition { get; set; }

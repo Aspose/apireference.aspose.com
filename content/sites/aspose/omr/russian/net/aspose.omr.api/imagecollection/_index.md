@@ -1,14 +1,14 @@
 ---
 title: ImageCollection
 second_title: Справочник по Aspose.OMR для .NET API
-description: Коллекция изображений которые можно использовать для генерации шаблонов. напримерGenerateTemplate./omrengine/generatetemplate Может быть полезным когда ваши изображения не находятся в файловой системе.
+description: Коллекция изображений которые можно использовать для создания шаблона. напримерGenerateTemplate./omrengine/generatetemplate Может быть полезно когда ваши изображения не находятся в файловой системе.
 type: docs
 weight: 10
 url: /ru/net/aspose.omr.api/imagecollection/
 ---
 ## ImageCollection class
 
-Коллекция изображений, которые можно использовать для генерации шаблонов. например,[`GenerateTemplate`](../omrengine/generatetemplate) Может быть полезным, когда ваши изображения не находятся в файловой системе.
+Коллекция изображений, которые можно использовать для создания шаблона. например[`GenerateTemplate`](../omrengine/generatetemplate) Может быть полезно, когда ваши изображения не находятся в файловой системе.
 
 ```csharp
 public class ImageCollection

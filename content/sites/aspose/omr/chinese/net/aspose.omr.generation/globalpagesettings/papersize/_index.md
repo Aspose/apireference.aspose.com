@@ -1,14 +1,14 @@
 ---
 title: PaperSize
 second_title: Aspose.OMR for .NET API 参考
-description: 纸张大小
+description: 纸张尺寸
 type: docs
 weight: 110
 url: /zh/net/aspose.omr.generation/globalpagesettings/papersize/
 ---
 ## GlobalPageSettings.PaperSize field
 
-纸张大小
+纸张尺寸
 
 ```csharp
 public PaperSize PaperSize;

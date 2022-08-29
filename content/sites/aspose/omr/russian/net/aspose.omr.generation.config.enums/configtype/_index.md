@@ -1,14 +1,14 @@
 ---
 title: ConfigType
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип элемента Omr
+description: Тип элемента OMR
 type: docs
-weight: 430
+weight: 440
 url: /ru/net/aspose.omr.generation.config.enums/configtype/
 ---
 ## ConfigType enumeration
 
-Тип элемента Omr
+Тип элемента OMR
 
 ```csharp
 public enum ConfigType

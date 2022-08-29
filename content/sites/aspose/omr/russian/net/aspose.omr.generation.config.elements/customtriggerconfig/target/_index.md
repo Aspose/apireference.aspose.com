@@ -3,7 +3,7 @@ title: Target
 second_title: Справочник по Aspose.OMR для .NET API
 description: Имя целевого элемента. Поведение зависит отTriggerTypeaspose.omr.generation.config.elements/customtriggerconfig/triggertype
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.omr.generation.config.elements/customtriggerconfig/target/
 ---
 ## CustomTriggerConfig.Target property

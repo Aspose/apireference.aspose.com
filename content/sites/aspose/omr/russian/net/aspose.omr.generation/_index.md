@@ -14,7 +14,7 @@ url: /ru/net/aspose.omr.generation/
 | --- | --- |
 | [GenerationResult](./generationresult) | Результат генерации шаблона. Содержит изображение шаблона и шаблон (json, описывающий расположение элементов на изображении). |
 | [GlobalPageSettings](./globalpagesettings) | Глобальные настройки, применимые ко всем элементам страницы. |
-| [MemoryGenerationResult](./memorygenerationresult) | [`GenerationResult`](../aspose.omr.generation/generationresult)оболочка. Позволяет сохранить результат как MemoryStream |
+| [MemoryGenerationResult](./memorygenerationresult) | [`GenerationResult`](../aspose.omr.generation/generationresult) обертка. Позволяет сохранить результат как MemoryStream |
 ## перечисление
 
 | перечисление | Описание |

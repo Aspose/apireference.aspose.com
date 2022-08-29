@@ -1,7 +1,7 @@
 ---
 title: BarcodeQRVersion
 second_title: Справочник по Aspose.OMR для .NET API
-description: QR-версия QR-кода
+description: QRверсия QRкода
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/barcodeqrversion/
@@ -16,6 +16,7 @@ public QRVersion BarcodeQRVersion { get; set; }
 
 ### Смотрите также
 
+* enum [QRVersion](../../../aspose.omr.generation.config.enums/qrversion)
 * class [BarcodeConfig](../../barcodeconfig)
 * пространство имен [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
 * сборка [Aspose.OMR](../../../)

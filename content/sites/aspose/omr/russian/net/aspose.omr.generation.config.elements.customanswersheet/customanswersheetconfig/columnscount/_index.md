@@ -1,14 +1,14 @@
 ---
 title: ColumnsCount
 second_title: Справочник по Aspose.OMR для .NET API
-description: Количество столбцов разделов для группировки строк
+description: Количество столбцов разделов для группировки rows
 type: docs
 weight: 70
 url: /ru/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/columnscount/
 ---
 ## CustomAnswerSheetConfig.ColumnsCount property
 
-Количество столбцов (разделов) для группировки строк
+Количество столбцов (разделов) для группировки rows
 
 ```csharp
 public int ColumnsCount { get; set; }

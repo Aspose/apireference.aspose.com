@@ -1,14 +1,14 @@
 ---
 title: PageConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Представляет элемент страницы. По одному на странице. Должен быть помещен внутриTemplateConfig../aspose.omr.generation.config/templateconfig
+description: Представляет элемент страницы. Один на страницу. Должен быть размещен внутриTemplateConfig../aspose.omr.generation.config/templateconfig
 type: docs
 weight: 250
 url: /ru/net/aspose.omr.generation.config.elements.parents/pageconfig/
 ---
 ## PageConfig class
 
-Представляет элемент страницы. По одному на странице. Должен быть помещен внутри[`TemplateConfig`](../../aspose.omr.generation.config/templateconfig)
+Представляет элемент страницы. Один на страницу. Должен быть размещен внутри[`TemplateConfig`](../../aspose.omr.generation.config/templateconfig)
 
 ```csharp
 public class PageConfig : ParentConfig

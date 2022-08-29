@@ -1,14 +1,14 @@
 ---
 title: ColumnsCount
 second_title: Справочник по Aspose.OMR для .NET API
-description: Количество столбцов внутри контейнера. Разбиты на равные столбцы. Устаревшая версияProportionsaspose.omr.generation.config.elements.parents/containerconfig/proportions
+description: Количество столбцов внутри контейнера. Разделено на равные столбцы. Устаревшая версияProportionsaspose.omr.generation.config.elements.parents/containerconfig/proportions
 type: docs
 weight: 60
 url: /ru/net/aspose.omr.generation.config.elements.parents/containerconfig/columnscount/
 ---
 ## ContainerConfig.ColumnsCount property
 
-Количество столбцов внутри контейнера. Разбиты на равные столбцы. Устаревшая версия[`Proportions`](../proportions)
+Количество столбцов внутри контейнера. Разделено на равные столбцы. Устаревшая версия[`Proportions`](../proportions)
 
 ```csharp
 public int ColumnsCount { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MemoryGenerationResult
 second_title: Справочник по Aspose.OMR для .NET API
-description: GenerationResult./generationresultоболочка. Позволяет сохранить результат как MemoryStream
+description: GenerationResult./generationresult обертка. Позволяет сохранить результат как MemoryStream
 type: docs
-weight: 580
+weight: 600
 url: /ru/net/aspose.omr.generation/memorygenerationresult/
 ---
 ## MemoryGenerationResult class
 
-[`GenerationResult`](../generationresult)оболочка. Позволяет сохранить результат как MemoryStream
+[`GenerationResult`](../generationresult) обертка. Позволяет сохранить результат как MemoryStream
 
 ```csharp
 public class MemoryGenerationResult
@@ -24,9 +24,9 @@ public class MemoryGenerationResult
 
 | Имя | Описание |
 | --- | --- |
-| [GetImages](../../aspose.omr.generation/memorygenerationresult/getimages)() | Получить файлы .png из[`GenerationResult`](../generationresult)как MemoryStream. |
-| [GetOmr](../../aspose.omr.generation/memorygenerationresult/getomr)(Encoding) | Получить содержимое файла .omr из[`GenerationResult`](../generationresult)as MemoryStream. По умолчанию текст закодирован в кодировке UTF8. |
-| [GetPDF](../../aspose.omr.generation/memorygenerationresult/getpdf)() | Получить файлы .pdf из[`GenerationResult`](../generationresult)как MemoryStream. |
+| [GetImages](../../aspose.omr.generation/memorygenerationresult/getimages)() | Получите файлы .png из[`GenerationResult`](../generationresult) как MemoryStream. |
+| [GetOmr](../../aspose.omr.generation/memorygenerationresult/getomr)(Encoding) | Получить содержимое файла .omr из[`GenerationResult`](../generationresult) как MemoryStream. По умолчанию текст закодирован в кодировке UTF8. |
+| [GetPDF](../../aspose.omr.generation/memorygenerationresult/getpdf)() | Получите файлы .pdf из[`GenerationResult`](../generationresult) как MemoryStream. |
 
 ### Смотрите также
 

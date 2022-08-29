@@ -1,14 +1,14 @@
 ---
 title: Proportions
 second_title: Справочник по Aspose.OMR для .NET API
-description: Отношение ширины каждого столбца внутри него
+description: Отношение ширины каждого столбца внутри it
 type: docs
 weight: 90
 url: /ru/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/proportions/
 ---
 ## CustomAnswerSheetConfig.Proportions property
 
-Отношение ширины каждого столбца внутри него
+Отношение ширины каждого столбца внутри it
 
 ```csharp
 public List<int> Proportions { get; set; }

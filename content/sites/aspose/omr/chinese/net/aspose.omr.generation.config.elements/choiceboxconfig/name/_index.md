@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 选择框的名称对于显示值QuestionTextaspose.omr.generation.config.elements/choiceboxconfig/questiontext
+description: 选择框的名称用于显示值QuestionTextaspose.omr.generation.config.elements/choiceboxconfig/questiontext
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.generation.config.elements/choiceboxconfig/name/
 ---
 ## ChoiceBoxConfig.Name property
 
-选择框的名称。对于显示值[`QuestionText`](../questiontext)
+选择框的名称。用于显示值[`QuestionText`](../questiontext)
 
 ```csharp
 public override string Name { get; set; }

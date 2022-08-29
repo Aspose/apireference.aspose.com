@@ -1,14 +1,14 @@
 ---
 title: ScoreGroupType
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип счетной группы
+description: Тип группы баллов
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype/
 ---
 ## ScoreGroupConfig.ScoreGroupType property
 
-Тип счетной группы
+Тип группы баллов
 
 ```csharp
 public ScoreGroupType ScoreGroupType { get; set; }

@@ -16,7 +16,7 @@ public byte[] GetJson(Encoding encoding)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | Encoding with我们对 JSON 字符串进行编码 |
+| encoding | Encoding | 我们对 JSON 字符串进行编码的编码 |
 
 ### 返回值
 
@@ -32,7 +32,7 @@ public byte[] GetJson(Encoding encoding)
 
 ## GetJson() {#getjson_1}
 
-形成带有识别结果的 JSON 字符串
+形成识别结果的 JSON 字符串
 
 ```csharp
 public string GetJson()

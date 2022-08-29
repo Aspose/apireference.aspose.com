@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.OMR for .NET API 参考
-description: X 坐标为跳过
+description: X 坐标将 skip 的值设置为 1
 type: docs
 weight: 100
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/x/
 ---
 ## BarcodeConfig.X property
 
-X 坐标。为跳过
+X 坐标。将 skip 的值设置为 -1
 
 ```csharp
 public int X { get; set; }

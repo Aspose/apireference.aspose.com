@@ -12,9 +12,9 @@ url: /ru/net/aspose.omr.generation.config.elements.scoregroup/
 
 | Учебный класс | Описание |
 | --- | --- |
-| [ScoreAnswerConfig](./scoreanswerconfig) | Ответ с подсчетом очков |
-| [ScoreGroupConfig](./scoregroupconfig) | Группировка родителя. Таблица на основе баллов. |
-| [ScoreHeaderConfig](./scoreheaderconfig) | Столбец в[`ScoreGroupConfig`](../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig)в котором будет храниться количество баллов за каждый ответ. Если отсутствует - этот столбец не рисуется. |
+| [ScoreAnswerConfig](./scoreanswerconfig) | Ответ с выставленным значением |
+| [ScoreGroupConfig](./scoregroupconfig) | Группировка родителя. Таблица на основе очков. |
+| [ScoreHeaderConfig](./scoreheaderconfig) | Столбец в[`ScoreGroupConfig`](../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig) в котором будет храниться количество баллов за каждый ответ. Если отсутствует - этот столбец не будет отображаться. |
 | [ScoreQuestionConfig](./scorequestionconfig) | Представляет элемент ScoreQuestion |
 | [TableContentConfig](./tablecontentconfig) | Текст внутри структуры таблицы |
 

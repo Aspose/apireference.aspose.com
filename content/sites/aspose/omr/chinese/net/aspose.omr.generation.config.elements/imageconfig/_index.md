@@ -26,9 +26,9 @@ public class ImageConfig : BaseConfig
 | --- | --- |
 | [Height](../../aspose.omr.generation.config.elements/imageconfig/height) { get; set; } | 图像高度 |
 | override [Name](../../aspose.omr.generation.config.elements/imageconfig/name) { get; set; } | 图片名称。必需的。 |
-| [Path](../../aspose.omr.generation.config.elements/imageconfig/path) { get; set; } | 图片路径。 填充使用 [`Name`](./name) 和 [`ImagesPaths`](../../aspose.omr.generation/globalpagesettings/imagespaths) |
+| [Path](../../aspose.omr.generation.config.elements/imageconfig/path) { get; set; } | 图片路径。填充使用[`Name`](./name)和[`ImagesPaths`](../../aspose.omr.generation/globalpagesettings/imagespaths) |
 | override [Type](../../aspose.omr.generation.config.elements/imageconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
-| [Width](../../aspose.omr.generation.config.elements/imageconfig/width) { get; set; } | 图像宽度 |
+| [Width](../../aspose.omr.generation.config.elements/imageconfig/width) { get; set; } | 图像的宽度 |
 | [XPosition](../../aspose.omr.generation.config.elements/imageconfig/xposition) { get; set; } | 页面上的网格 X 位置，覆盖对齐方式 |
 | [YPosition](../../aspose.omr.generation.config.elements/imageconfig/yposition) { get; set; } | 页面上的网格 Y 位置，覆盖对齐方式 |
 

@@ -1,14 +1,14 @@
 ---
 title: Column
 second_title: Aspose.OMR for .NET API 参考
-description: 当放置在多列容器中时 - 表示在父级中的位置
+description: 当放置在多列容器中时  表示在 parent 中的位置
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.generation.config.elements.parents/blockconfig/column/
 ---
 ## BlockConfig.Column property
 
-当放置在多列容器中时 - 表示在父级中的位置
+当放置在多列容器中时 - 表示在 parent 中的位置
 
 ```csharp
 public int Column { get; set; }

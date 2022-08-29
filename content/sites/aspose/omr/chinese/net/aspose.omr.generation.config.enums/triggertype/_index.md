@@ -3,7 +3,7 @@ title: TriggerType
 second_title: Aspose.OMR for .NET API 参考
 description: 触发器类型描述触发行为
 type: docs
-weight: 520
+weight: 540
 url: /zh/net/aspose.omr.generation.config.enums/triggertype/
 ---
 ## TriggerType enumeration

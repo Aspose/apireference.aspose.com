@@ -3,7 +3,7 @@ title: Type
 second_title: Справочник по Aspose.OMR для .NET API
 description: Тип элемента omr. Обязательное поле для сериализации JSON.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.omr.generation.config.elements.parents/checkboxconfig/type/
 ---
 ## CheckBoxConfig.Type property

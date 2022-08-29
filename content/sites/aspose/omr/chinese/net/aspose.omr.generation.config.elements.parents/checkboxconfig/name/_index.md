@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 复选框名称默认显示在第一个复选框之前可以通过HideNameaspose.omr.generation.config.elements.parents/checkboxconfig/hidename
+description: 复选框的名称默认显示在第一个复选框之前可以隐藏HideNameaspose.omr.generation.config.elements.parents/checkboxconfig/hidename
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/name/
 ---
 ## CheckBoxConfig.Name property
 
-复选框名称。默认显示在第一个复选框之前。可以通过[`HideName`](../hidename)
+复选框的名称。默认显示在第一个复选框之前。可以隐藏[`HideName`](../hidename)
 
 ```csharp
 public override string Name { get; set; }

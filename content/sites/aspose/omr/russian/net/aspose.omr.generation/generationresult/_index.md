@@ -3,7 +3,7 @@ title: GenerationResult
 second_title: Справочник по Aspose.OMR для .NET API
 description: Результат генерации шаблона. Содержит изображение шаблона и шаблон json описывающий расположение элементов на изображении.
 type: docs
-weight: 560
+weight: 580
 url: /ru/net/aspose.omr.generation/generationresult/
 ---
 ## GenerationResult class
@@ -18,17 +18,17 @@ public class GenerationResult
 
 | Имя | Описание |
 | --- | --- |
-| [ErrorCode](../../aspose.omr.generation/generationresult/errorcode) { get; set; } | Получает или задает код ошибки. Равно 0, если ошибок не было. |
-| [ErrorMessage](../../aspose.omr.generation/generationresult/errormessage) { get; set; } | Получает или задает сообщение, описывающее ошибку. Пусто, если ошибок не было. |
-| [Template](../../aspose.omr.generation/generationresult/template) { get; set; } | Получает или задает строку шаблона JSON |
+| [ErrorCode](../../aspose.omr.generation/generationresult/errorcode) { get; set; } | Получает или задает код ошибки. Равен 0, если ошибок не возникло. |
+| [ErrorMessage](../../aspose.omr.generation/generationresult/errormessage) { get; set; } | Получает или задает сообщение с описанием ошибки. Пусто, если ошибок не возникло. |
+| [Template](../../aspose.omr.generation/generationresult/template) { get; set; } | Получает или задает шаблон JSON string |
 | [TemplateImage](../../aspose.omr.generation/generationresult/templateimage) { get; set; } | Получает или задает сгенерированное изображение шаблона |
-| [Warnings](../../aspose.omr.generation/generationresult/warnings) { get; set; } | Получает или задает список предупреждающих сообщений, описывающих некритические ошибки, возникшие при генерации |
+| [Warnings](../../aspose.omr.generation/generationresult/warnings) { get; set; } | Получает или задает список предупреждающих сообщений, описывающих некритические ошибки, появившиеся во время генерации |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Save](../../aspose.omr.generation/generationresult/save)(string, string) | Сохранить шаблонные изображения и шаблон в указанную папку |
+| [Save](../../aspose.omr.generation/generationresult/save)(string, string) | Сохранить изображения шаблона и шаблон в указанную папку |
 | [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | Сохранить изображения шаблона и шаблон в указанную папку Изображение шаблона сохранено в формате pdf |
 
 ## Поля

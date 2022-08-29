@@ -1,14 +1,14 @@
 ---
 title: BlockBottomMargin
 second_title: Aspose.OMR for .NET API 参考
-description: 块之间的像素数量
+description: 要放置在块下方的像素数量
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin/
 ---
 ## ContainerConfig.BlockBottomMargin property
 
-块之间的像素数量。
+要放置在块下方的像素数量。
 
 ```csharp
 public int BlockBottomMargin { get; set; }

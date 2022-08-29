@@ -1,7 +1,7 @@
 ---
 title: Align
 second_title: Справочник по Aspose.OMR для .NET API
-description: Выравнивание штрих-кода на странице
+description: Выравнивание штрихкода на странице
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/align/

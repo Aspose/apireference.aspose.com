@@ -1,14 +1,14 @@
 ---
 title: QuestionConfig
 second_title: Aspose.OMR for .NET API 参考
-description: 代表问题元素常用于TableConfig./tableconfig作为行
+description: 表示问题元素常用于TableConfig./tableconfig作为行
 type: docs
 weight: 330
 url: /zh/net/aspose.omr.generation.config.elements.table/questionconfig/
 ---
 ## QuestionConfig class
 
-代表问题元素。常用于[`TableConfig`](../tableconfig)作为行。
+表示问题元素。常用于[`TableConfig`](../tableconfig)作为行。
 
 ```csharp
 public class QuestionConfig : BaseConfig

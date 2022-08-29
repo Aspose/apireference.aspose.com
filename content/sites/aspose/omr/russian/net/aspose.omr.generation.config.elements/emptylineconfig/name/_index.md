@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: Имя пропуска пустой строки - не рисуется и не участвует в распознавании
+description: Имя пропуска пустой строки  не рисуется и не участвует в распознавании
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation.config.elements/emptylineconfig/name/

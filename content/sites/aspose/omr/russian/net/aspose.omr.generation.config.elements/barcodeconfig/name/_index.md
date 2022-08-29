@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: Имя штрих-кода. Для значенияValueaspose.omr.generation.config.elements/barcodeconfig/value
+description: Имя штрихкода. По стоимостиValueaspose.omr.generation.config.elements/barcodeconfig/value
 type: docs
 weight: 70
 url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/name/
 ---
 ## BarcodeConfig.Name property
 
-Имя штрих-кода. Для значения[`Value`](../value)
+Имя штрих-кода. По стоимости[`Value`](../value)
 
 ```csharp
 public override string Name { get; set; }

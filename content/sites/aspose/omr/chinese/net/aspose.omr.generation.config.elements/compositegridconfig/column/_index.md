@@ -1,14 +1,14 @@
 ---
 title: Column
 second_title: Aspose.OMR for .NET API 参考
-description: 当元素在多列父级中绘制时 - 表示位置
+description: 在多列父元素中绘制元素时  表示位置
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/column/
 ---
 ## CompositeGridConfig.Column property
 
-当元素在多列父级中绘制时 - 表示位置。
+在多列父元素中绘制元素时 - 表示位置。
 
 ```csharp
 public int Column { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ImagesPaths
 second_title: Aspose.OMR for .NET API 参考
-description: 生成时使用的图像的完整路径
+description: 生成中使用的图像的完整路径
 type: docs
 weight: 70
 url: /zh/net/aspose.omr.generation/globalpagesettings/imagespaths/
 ---
 ## GlobalPageSettings.ImagesPaths field
 
-生成时使用的图像的完整路径
+生成中使用的图像的完整路径
 
 ```csharp
 public string[] ImagesPaths;

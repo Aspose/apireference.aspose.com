@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Справочник по Aspose.OMR для .NET API
 description: Стиль текста
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle/
 ---
 ## CheckBoxConfig.FontStyle property

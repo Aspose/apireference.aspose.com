@@ -1,14 +1,14 @@
 ---
 title: ScoreGroupType
 second_title: Aspose.OMR for .NET API 参考
-description: 评分组类型
+description: 分数组类型
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype/
 ---
 ## ScoreGroupConfig.ScoreGroupType property
 
-评分组类型
+分数组类型
 
 ```csharp
 public ScoreGroupType ScoreGroupType { get; set; }

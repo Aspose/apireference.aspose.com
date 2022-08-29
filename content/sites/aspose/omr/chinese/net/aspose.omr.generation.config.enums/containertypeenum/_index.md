@@ -1,14 +1,14 @@
 ---
 title: ContainerTypeEnum
 second_title: Aspose.OMR for .NET API 参考
-description: ContainerConfig的类型
+description: 类型ContainerConfig../aspose.omr.generation.config.elements.parents/containerconfig
 type: docs
-weight: 440
+weight: 450
 url: /zh/net/aspose.omr.generation.config.enums/containertypeenum/
 ---
 ## ContainerTypeEnum enumeration
 
-ContainerConfig的类型
+类型[`ContainerConfig`](../../aspose.omr.generation.config.elements.parents/containerconfig)
 
 ```csharp
 public enum ContainerTypeEnum

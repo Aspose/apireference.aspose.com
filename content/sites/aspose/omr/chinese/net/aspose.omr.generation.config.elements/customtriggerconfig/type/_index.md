@@ -3,7 +3,7 @@ title: Type
 second_title: Aspose.OMR for .NET API 参考
 description: omr 元素的类型 JSON 序列化的必填字段
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.omr.generation.config.elements/customtriggerconfig/type/
 ---
 ## CustomTriggerConfig.Type property

@@ -1,14 +1,14 @@
 ---
 title: Values
 second_title: Справочник по Aspose.OMR для .NET API
-description: Набор строк описывающих возможные символы в каждом столбце. Значения столбца помещаются вExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow
+description: Набор строк описывающих возможные символы в каждом столбце. Значения специфичные для столбца помещаются вExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/values/
 ---
 ## CompositeGridConfig.Values property
 
-Набор строк, описывающих возможные символы в каждом столбце. Значения столбца помещаются в[`ExtraRow`](../extrarow)
+Набор строк, описывающих возможные символы в каждом столбце. Значения, специфичные для столбца, помещаются в[`ExtraRow`](../extrarow)
 
 ```csharp
 public List<string> Values { get; set; }

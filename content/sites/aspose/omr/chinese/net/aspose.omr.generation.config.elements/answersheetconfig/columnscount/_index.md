@@ -3,7 +3,7 @@ title: ColumnsCount
 second_title: Aspose.OMR for .NET API 参考
 description: 设置要绘制的列数
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/columnscount/
 ---
 ## AnswerSheetConfig.ColumnsCount property

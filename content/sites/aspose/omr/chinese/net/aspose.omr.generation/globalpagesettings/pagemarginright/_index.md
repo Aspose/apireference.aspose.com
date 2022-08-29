@@ -1,14 +1,14 @@
 ---
 title: PageMarginRight
 second_title: Aspose.OMR for .NET API 参考
-description: 页面右边距像素
+description: 像素上页面的右边距
 type: docs
 weight: 100
 url: /zh/net/aspose.omr.generation/globalpagesettings/pagemarginright/
 ---
 ## GlobalPageSettings.PageMarginRight field
 
-页面右边距像素
+像素上页面的右边距
 
 ```csharp
 public int PageMarginRight;

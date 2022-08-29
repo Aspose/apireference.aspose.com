@@ -1,14 +1,14 @@
 ---
 title: InitializeComponent
 second_title: Aspose.OMR for .NET API 参考
-description: InitializeComponent
+description: 初始化组件
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.correctionui/correctioncontrol/initializecomponent/
 ---
 ## CorrectionControl.InitializeComponent method
 
-InitializeComponent
+初始化组件
 
 ```csharp
 public void InitializeComponent()

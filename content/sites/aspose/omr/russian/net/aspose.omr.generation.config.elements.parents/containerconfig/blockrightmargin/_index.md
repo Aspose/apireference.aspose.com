@@ -1,14 +1,14 @@
 ---
 title: BlockRightMargin
 second_title: Справочник по Aspose.OMR для .NET API
-description: Количество пикселей которое должно быть размещено между блоками.
+description: Количество пикселей которое должно быть размещено между блоками с правой стороны
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin/
 ---
 ## ContainerConfig.BlockRightMargin property
 
-Количество пикселей, которое должно быть размещено между блоками.
+Количество пикселей, которое должно быть размещено между блоками с правой стороны
 
 ```csharp
 public int BlockRightMargin { get; set; }

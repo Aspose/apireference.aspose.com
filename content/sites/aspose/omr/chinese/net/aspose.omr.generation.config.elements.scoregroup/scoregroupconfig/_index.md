@@ -1,14 +1,14 @@
 ---
 title: ScoreGroupConfig
 second_title: Aspose.OMR for .NET API 参考
-description: 分组父级基于分数的表格
+description: 分组父级基于分数的表.
 type: docs
 weight: 290
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/
 ---
 ## ScoreGroupConfig class
 
-分组父级。基于分数的表格。
+分组父级。基于分数的表.
 
 ```csharp
 public class ScoreGroupConfig : ParentConfig
@@ -26,7 +26,7 @@ public class ScoreGroupConfig : ParentConfig
 | --- | --- |
 | override [Children](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
 | override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/name) { get; set; } | RepeatRows 元素的名称 |
-| [ScoreGroupType](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype) { get; set; } | 评分组类型 |
+| [ScoreGroupType](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype) { get; set; } | 分数组类型 |
 | override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
 
 ### 也可以看看

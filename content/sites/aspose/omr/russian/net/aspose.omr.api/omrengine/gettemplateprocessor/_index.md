@@ -1,14 +1,14 @@
 ---
 title: GetTemplateProcessor
 second_title: Справочник по Aspose.OMR для .NET API
-description: Создает экземплярTemplateProcessoraspose.omr.api/templateprocessor позволяющий работать с указанным шаблоном.
+description: СоздаетTemplateProcessoraspose.omr.api/templateprocessor экземпляр позволяющий работать с указанным шаблоном.
 type: docs
 weight: 60
 url: /ru/net/aspose.omr.api/omrengine/gettemplateprocessor/
 ---
 ## GetTemplateProcessor(MemoryStream, Encoding) {#gettemplateprocessor}
 
-Создает экземпляр[`TemplateProcessor`](../../templateprocessor), позволяющий работать с указанным шаблоном.
+Создает[`TemplateProcessor`](../../templateprocessor) экземпляр, позволяющий работать с указанным шаблоном.
 
 ```csharp
 public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Encoding textEncoding)
@@ -17,11 +17,11 @@ public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Enco
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | templateContent | MemoryStream | Поток памяти с текстовым содержимым шаблона |
-| textEncoding | Encoding | Template кодировка содержимого |
+| textEncoding | Encoding | Кодировка содержимого шаблона |
 
 ### Возвращаемое значение
 
-[`TemplateProcessor`](../../templateprocessor)экземпляр
+[`TemplateProcessor`](../../templateprocessor) пример
 
 ### Смотрите также
 
@@ -34,7 +34,7 @@ public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Enco
 
 ## GetTemplateProcessor(string) {#gettemplateprocessor_1}
 
-Создает экземпляр[`TemplateProcessor`](../../templateprocessor), позволяющий работать с указанным шаблоном.
+Создает[`TemplateProcessor`](../../templateprocessor) экземпляр, позволяющий работать с указанным шаблоном.
 
 ```csharp
 public TemplateProcessor GetTemplateProcessor(string templatePath)
@@ -46,7 +46,7 @@ public TemplateProcessor GetTemplateProcessor(string templatePath)
 
 ### Возвращаемое значение
 
-[`TemplateProcessor`](../../templateprocessor)экземпляр
+[`TemplateProcessor`](../../templateprocessor) пример
 
 ### Смотрите также
 

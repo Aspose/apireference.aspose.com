@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: Название картинки. Необходимый.
+description: Название изображения. Требуется.
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation.config.elements/imageconfig/name/
 ---
 ## ImageConfig.Name property
 
-Название картинки. Необходимый.
+Название изображения. Требуется.
 
 ```csharp
 public override string Name { get; set; }

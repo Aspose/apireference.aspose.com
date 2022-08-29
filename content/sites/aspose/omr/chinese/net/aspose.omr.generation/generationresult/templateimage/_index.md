@@ -1,14 +1,14 @@
 ---
 title: TemplateImage
 second_title: Aspose.OMR for .NET API 参考
-description: 获取或设置生成的模板图像
+description: 获取或设置生成的模板图片
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation/generationresult/templateimage/
 ---
 ## GenerationResult.TemplateImage property
 
-获取或设置生成的模板图像
+获取或设置生成的模板图片
 
 ```csharp
 public Bitmap TemplateImage { get; set; }

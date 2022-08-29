@@ -3,7 +3,7 @@ title: BorderType
 second_title: Справочник по Aspose.OMR для .NET API
 description: Тип границы
 type: docs
-weight: 410
+weight: 420
 url: /ru/net/aspose.omr.generation.config.enums/bordertype/
 ---
 ## BorderType enumeration

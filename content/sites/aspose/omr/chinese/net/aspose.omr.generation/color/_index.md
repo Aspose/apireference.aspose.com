@@ -18,19 +18,19 @@ public enum Color
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Aqua | `0` | 水色 |
+| Aqua | `0` | 水蓝色 |
 | Aquamarine | `1` | 海蓝宝石色 |
 | Black | `2` | 黑色 |
 | Blue | `3` | 蓝色 |
-| BlueViolet | `4` | 蓝色紫罗兰色 |
+| BlueViolet | `4` | 蓝紫颜色 |
 | Crimson | `5` | 深红色 |
 | DarkBlue | `6` | 深蓝色 |
 | DarkGreen | `7` | 深绿色 |
 | DarkOrange | `8` | 深橙色 |
-| DarkSalmon | `9` | DarkSalmon 颜色 |
+| DarkSalmon | `9` | 深鲑鱼色 |
 | Fuchsia | `10` | 紫红色 |
-| Indigo | `11` | 靛蓝色 |
-| Lime | `12` | 石灰色 |
+| Indigo | `11` | 靛蓝颜色 |
+| Lime | `12` | 青柠色 |
 | Red | `13` | 红色 |
 | Teal | `14` | 蓝绿色 |
 | White | `15` | 白色 |

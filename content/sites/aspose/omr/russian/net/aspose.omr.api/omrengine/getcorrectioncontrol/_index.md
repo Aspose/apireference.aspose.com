@@ -1,14 +1,14 @@
 ---
 title: GetCorrectionControl
 second_title: Справочник по Aspose.OMR для .NET API
-description: Создает экземплярCorrectionControlaspose.omr.correctionui/correctioncontrol позволяющий работать с OMR API с помощью графического интерфейса. ПринимаетTemplateProcessoraspose.omr.api/templateprocessorв качестве параметра и работает только с изображениями созданными с использованием указанного шаблона
+description: СоздаетCorrectionControlaspose.omr.correctionui/correctioncontrol экземпляр который позволяет работать с OMR API с помощью GUI. TakesTemplateProcessoraspose.omr.api/templateprocessor в качестве параметра и работает только с изображениями созданными с использованием указанного template
 type: docs
 weight: 50
 url: /ru/net/aspose.omr.api/omrengine/getcorrectioncontrol/
 ---
 ## OmrEngine.GetCorrectionControl method
 
-Создает экземпляр[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol), позволяющий работать с OMR API с помощью графического интерфейса. Принимает[`TemplateProcessor`](../../templateprocessor)в качестве параметра и работает только с изображениями, созданными с использованием указанного шаблона
+Создает[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol) экземпляр, который позволяет работать с OMR API с помощью GUI. Takes[`TemplateProcessor`](../../templateprocessor) в качестве параметра и работает только с изображениями, созданными с использованием указанного template
 
 ```csharp
 public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
@@ -20,7 +20,7 @@ public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
 
 ### Возвращаемое значение
 
-Экземпляр[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol)
+[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol) пример
 
 ### Смотрите также
 

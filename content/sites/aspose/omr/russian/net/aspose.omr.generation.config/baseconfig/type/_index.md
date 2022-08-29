@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип элемента omr. Не имеет значения по умолчанию. Должен быть переопределен.
+description: Тип элемента omr. Не имеет значения по умолчанию. Необходимо переопределить.
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation.config/baseconfig/type/
 ---
 ## BaseConfig.Type property
 
-Тип элемента omr. Не имеет значения по умолчанию. Должен быть переопределен.
+Тип элемента omr. Не имеет значения по умолчанию. Необходимо переопределить.
 
 ```csharp
 public abstract ConfigType Type { get; set; }

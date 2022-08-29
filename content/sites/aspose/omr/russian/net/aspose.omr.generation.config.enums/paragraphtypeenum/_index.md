@@ -3,7 +3,7 @@ title: ParagraphTypeEnum
 second_title: Справочник по Aspose.OMR для .NET API
 description: ТипParagraphConfig../aspose.omr.generation.config.elements.parents/paragraphconfig
 type: docs
-weight: 470
+weight: 480
 url: /ru/net/aspose.omr.generation.config.enums/paragraphtypeenum/
 ---
 ## ParagraphTypeEnum enumeration
@@ -18,8 +18,9 @@ public enum ParagraphTypeEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Normal | `0` | Абзац без лишнего элемента |
-| Multiple | `1` | Абзац с дополнительным элементом, например изображение |
+| Normal | `0` | Элементы выравнивания абзаца по вертикали |
+| Multiple | `1` | Абзац постараюсь обернуть многими[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) около одного[`ImageConfig`](../../aspose.omr.generation.config.elements/imageconfig) ДубликатImageWrap Используется как устаревшая поддержка |
+| ImageWrap | `2` | Абзац постараюсь обернуть многими[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) около одного[`ImageConfig`](../../aspose.omr.generation.config.elements/imageconfig) |
 
 ### Смотрите также
 

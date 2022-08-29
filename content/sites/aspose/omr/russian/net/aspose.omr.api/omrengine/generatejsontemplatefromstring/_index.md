@@ -17,9 +17,9 @@ public GenerationResult GenerateJSONTemplateFromString(string jsonString,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| jsonString | String | Разметка JSON |
+| jsonString | String | JSON-разметка |
 | settings | GlobalPageSettings | глобальные настройки, используемые при генерации всех шаблонов |
-| userImages | ImageCollection | Collection изображений, которые можно использовать для создания шаблонов. Разрешить использовать образы из MemoryStream вместо файловой системы |
+| userImages | ImageCollection | Коллекция изображений, которые можно использовать для создания шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
 
 ### Возвращаемое значение
 
