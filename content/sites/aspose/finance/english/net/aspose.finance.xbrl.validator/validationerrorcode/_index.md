@@ -85,6 +85,9 @@ public enum ValidationErrorCode
 | InlineNonFractionIllegalProperties | `64` | Inline nonFraction has illegal Properties. |
 | InlineNonFractionTermNegative | `65` | Inline nonFraction has Term Negative. |
 | InlineTupleIllegalChildElement | `66` | Inline tuple has illegal element. |
+| InlineContinuationNoId | `67` | The ix:continuation element MUST have an id attribute.. |
+| InlineContinuationIllegalAncestor | `68` | The ix:continuation element MUST NOT be a descendant of an ix:hidden element. |
+| InlineExcludeIllegalAncestor | `69` | The ix:exclude element MUST be a descendant of at least one ix:continuation, ix:footnote or ix:nonNumeric element. |
 
 ### See Also
 
