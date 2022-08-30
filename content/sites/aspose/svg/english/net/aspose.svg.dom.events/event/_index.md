@@ -3,7 +3,7 @@ title: Event
 second_title: Aspose.SVG for .NET API Reference
 description: The Event./event is used to provide contextual information about an event to the handler processing the event.
 type: docs
-weight: 930
+weight: 920
 url: /net/aspose.svg.dom.events/event/
 ---
 ## Event class

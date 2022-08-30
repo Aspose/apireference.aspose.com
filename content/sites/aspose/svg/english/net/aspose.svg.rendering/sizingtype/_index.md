@@ -3,7 +3,7 @@ title: SizingType
 second_title: Aspose.SVG for .NET API Reference
 description: Represents the enumeration of page sizing types.
 type: docs
-weight: 2960
+weight: 2970
 url: /net/aspose.svg.rendering/sizingtype/
 ---
 ## SizingType enumeration

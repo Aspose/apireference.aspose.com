@@ -3,7 +3,7 @@ title: FontsSettings
 second_title: Aspose.SVG for .NET API Reference
 description: Represents fonts handling settings.
 type: docs
-weight: 1890
+weight: 1900
 url: /net/aspose.svg/fontssettings/
 ---
 ## FontsSettings class

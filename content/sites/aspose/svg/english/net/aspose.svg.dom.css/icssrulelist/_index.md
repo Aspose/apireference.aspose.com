@@ -3,7 +3,7 @@ title: ICSSRuleList
 second_title: Aspose.SVG for .NET API Reference
 description: The CSSRuleList interface provides the abstraction of an ordered collection of CSS rules.
 type: docs
-weight: 640
+weight: 630
 url: /net/aspose.svg.dom.css/icssrulelist/
 ---
 ## ICSSRuleList interface

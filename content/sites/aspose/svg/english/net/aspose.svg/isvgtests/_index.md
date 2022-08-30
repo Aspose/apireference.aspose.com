@@ -3,7 +3,7 @@ title: ISVGTests
 second_title: Aspose.SVG for .NET API Reference
 description: Interface SVGTests defines an interface which applies to all elements which have attributes requiredFeatures requiredExtensions and systemLanguage.
 type: docs
-weight: 2020
+weight: 2030
 url: /net/aspose.svg/isvgtests/
 ---
 ## ISVGTests interface

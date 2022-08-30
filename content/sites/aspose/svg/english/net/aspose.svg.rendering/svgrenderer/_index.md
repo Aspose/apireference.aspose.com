@@ -3,7 +3,7 @@ title: SvgRenderer
 second_title: Aspose.SVG for .NET API Reference
 description: Represents SVG document renderer.
 type: docs
-weight: 2970
+weight: 2980
 url: /net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class

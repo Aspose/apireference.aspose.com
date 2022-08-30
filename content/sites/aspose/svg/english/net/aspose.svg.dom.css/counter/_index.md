@@ -3,7 +3,7 @@ title: Counter
 second_title: Aspose.SVG for .NET API Reference
 description: The Counter interface is used to represent any counter or counters function value. This interface reflects the values in the underlying style property.
 type: docs
-weight: 520
+weight: 510
 url: /net/aspose.svg.dom.css/counter/
 ---
 ## Counter class

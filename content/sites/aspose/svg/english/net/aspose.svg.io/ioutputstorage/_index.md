@@ -3,7 +3,7 @@ title: IOutputStorage
 second_title: Aspose.SVG for .NET API Reference
 description: Provides the creation and management of output streams OutputStream./outputstream.
 type: docs
-weight: 1950
+weight: 1960
 url: /net/aspose.svg.io/ioutputstorage/
 ---
 ## IOutputStorage interface

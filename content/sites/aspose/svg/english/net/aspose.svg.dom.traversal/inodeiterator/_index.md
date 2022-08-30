@@ -3,7 +3,7 @@ title: INodeIterator
 second_title: Aspose.SVG for .NET API Reference
 description: Iterators are used to step through a set of nodes e.g. the set of nodes in a NodeList the document subtree governed by a particular Node the results of a query or any other set of nodes. The set of nodes to be iterated is determined by the implementation of the NodeIterator. DOM Level 2 specifies a single NodeIterator implementation for document-order traversal of a document subtree. Instances of these iterators are created by calling DocumentTraversal .createNodeIterator.
 type: docs
-weight: 1260
+weight: 1250
 url: /net/aspose.svg.dom.traversal/inodeiterator/
 ---
 ## INodeIterator interface

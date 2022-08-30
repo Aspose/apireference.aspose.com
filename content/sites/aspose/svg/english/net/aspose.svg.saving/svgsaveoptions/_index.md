@@ -3,7 +3,7 @@ title: SVGSaveOptions
 second_title: Aspose.SVG for .NET API Reference
 description: Represents SVG save options.
 type: docs
-weight: 3610
+weight: 3620
 url: /net/aspose.svg.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class

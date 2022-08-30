@@ -3,7 +3,7 @@ title: SVGMaskElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGMaskElement interface corresponds to the mask element.
 type: docs
-weight: 3290
+weight: 3300
 url: /net/aspose.svg/svgmaskelement/
 ---
 ## SVGMaskElement class

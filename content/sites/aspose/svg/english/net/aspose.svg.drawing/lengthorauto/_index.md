@@ -3,7 +3,7 @@ title: LengthOrAuto
 second_title: Aspose.SVG for .NET API Reference
 description: Represents a container for storage length or auto units..
 type: docs
-weight: 1520
+weight: 1530
 url: /net/aspose.svg.drawing/lengthorauto/
 ---
 ## LengthOrAuto class

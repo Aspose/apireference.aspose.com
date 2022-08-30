@@ -3,7 +3,7 @@ title: HttpMethod
 second_title: Aspose.SVG for .NET API Reference
 description: Represents utility class for retrieving and comparing standard HTTP methods.
 type: docs
-weight: 2250
+weight: 2260
 url: /net/aspose.svg.net/httpmethod/
 ---
 ## HttpMethod class

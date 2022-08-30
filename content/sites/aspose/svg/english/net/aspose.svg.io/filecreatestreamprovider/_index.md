@@ -3,7 +3,7 @@ title: FileCreateStreamProvider
 second_title: Aspose.SVG for .NET API Reference
 description: Represents FileStream implementation for providing streams to the rendering devices.
 type: docs
-weight: 1900
+weight: 1910
 url: /net/aspose.svg.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class

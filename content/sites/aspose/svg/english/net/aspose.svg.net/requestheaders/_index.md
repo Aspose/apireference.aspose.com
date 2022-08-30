@@ -3,7 +3,7 @@ title: RequestHeaders
 second_title: Aspose.SVG for .NET API Reference
 description: Contains protocol headers associated with a request.
 type: docs
-weight: 2370
+weight: 2380
 url: /net/aspose.svg.net/requestheaders/
 ---
 ## RequestHeaders class

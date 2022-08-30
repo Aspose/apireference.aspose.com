@@ -3,7 +3,7 @@ title: SVGFEDiffuseLightingElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGFEDiffuseLightingElement interface corresponds to the feDiffuseLighting element.
 type: docs
-weight: 1690
+weight: 1700
 url: /net/aspose.svg.filters/svgfediffuselightingelement/
 ---
 ## SVGFEDiffuseLightingElement class

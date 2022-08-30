@@ -3,7 +3,7 @@ title: MultipartContent
 second_title: Aspose.SVG for .NET API Reference
 description: Represents a multipart/ content.
 type: docs
-weight: 2350
+weight: 2360
 url: /net/aspose.svg.net/multipartcontent/
 ---
 ## MultipartContent class

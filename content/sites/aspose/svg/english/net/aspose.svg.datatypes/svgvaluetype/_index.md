@@ -3,7 +3,7 @@ title: SVGValueType
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGValueType type is used to represent an base SVG value type.
 type: docs
-weight: 350
+weight: 340
 url: /net/aspose.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class

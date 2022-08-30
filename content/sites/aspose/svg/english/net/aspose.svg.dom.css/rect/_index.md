@@ -3,7 +3,7 @@ title: Rect
 second_title: Aspose.SVG for .NET API Reference
 description: The Rect interface is used to represent any rect value. This interface reflects the values in the underlying style property. Hence modifications made to the CSSPrimitiveValue objects modify the style property.
 type: docs
-weight: 790
+weight: 780
 url: /net/aspose.svg.dom.css/rect/
 ---
 ## Rect class

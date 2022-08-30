@@ -3,7 +3,7 @@ title: Accessors
 second_title: Aspose.SVG for .NET API Reference
 description: Represents the enumeration of member accessors that is defined by the W3C.
 type: docs
-weight: 370
+weight: 360
 url: /net/aspose.svg.dom.attributes/accessors/
 ---
 ## Accessors enumeration

@@ -3,7 +3,7 @@ title: Length
 second_title: Aspose.SVG for .NET API Reference
 description: Represents a length measurement unit.
 type: docs
-weight: 1510
+weight: 1520
 url: /net/aspose.svg.drawing/length/
 ---
 ## Length class

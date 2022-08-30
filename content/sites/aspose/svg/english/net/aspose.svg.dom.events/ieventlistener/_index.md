@@ -3,7 +3,7 @@ title: IEventListener
 second_title: Aspose.SVG for .NET API Reference
 description: The IEventListener./ieventlistener interface is the primary method for handling events. Users implement the IEventListener./ieventlistener interface and register their listener on an EventTarget../aspose.svg.dom/eventtarget using the AddEventListener../aspose.svg.dom/eventtarget/addeventlistener method. The users should also remove their IEventListener./ieventlistener from its EventTarget../aspose.svg.dom/eventtarget after they have completed using the listener.
 type: docs
-weight: 960
+weight: 950
 url: /net/aspose.svg.dom.events/ieventlistener/
 ---
 ## IEventListener interface
