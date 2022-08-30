@@ -1,14 +1,14 @@
 ---
 title: CurrentRelativePageNumber
 second_title: Aspose.Page for .NET API 参考
-description: 返回当前分区中当前页的相对编号
+description: 返回当前分区内当前页的相对编号
 type: docs
 weight: 40
 url: /zh/net/aspose.page.xps.presentation.image/imagedevice/currentrelativepagenumber/
 ---
 ## ImageDevice.CurrentRelativePageNumber property
 
-返回当前分区中当前页的相对编号。
+返回当前分区内当前页的相对编号。
 
 ```csharp
 public virtual int CurrentRelativePageNumber { get; }

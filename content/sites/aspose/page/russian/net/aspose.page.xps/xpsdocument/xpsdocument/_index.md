@@ -24,7 +24,7 @@ public XpsDocument()
 
 ## XpsDocument(string) {#constructor_2}
 
-Открывает существующий документ XPS, расположенный по адресу*path*.
+Открывает существующий документ XPS, расположенный в*path* .
 
 ```csharp
 public XpsDocument(string path)
@@ -32,7 +32,7 @@ public XpsDocument(string path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| путь | String | Расположение документа. |
+| path | String | Расположение документа. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public XpsDocument(string path)
 
 ## XpsDocument(string, LoadOptions) {#constructor_3}
 
-Открывает существующий документ, расположенный по адресу*path*как документ XPS.
+Открывает существующий документ, расположенный в*path* как документ XPS.
 
 ```csharp
 public XpsDocument(string path, LoadOptions options)
@@ -52,8 +52,8 @@ public XpsDocument(string path, LoadOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| путь | String | Расположение документа. |
-| options | LoadOptions | Параметры загрузки документа. |
+| path | String | Расположение документа. |
+| options | LoadOptions | Варианты загрузки документов. |
 
 ### Смотрите также
 
@@ -66,7 +66,7 @@ public XpsDocument(string path, LoadOptions options)
 
 ## XpsDocument(Stream, LoadOptions) {#constructor_1}
 
-Загружает существующий документ, хранящийся в*stream*как документ XPS.
+Загружает существующий документ, хранящийся в*stream* как документ XPS.
 
 ```csharp
 public XpsDocument(Stream stream, LoadOptions options)
@@ -75,7 +75,7 @@ public XpsDocument(Stream stream, LoadOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток документов. |
-| options | LoadOptions | Параметры загрузки документа. |
+| options | LoadOptions | Варианты загрузки документов. |
 
 ### Смотрите также
 

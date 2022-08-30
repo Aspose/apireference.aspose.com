@@ -1,14 +1,14 @@
 ---
 title: JpegSaveOptions
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс для опций сохранения XPS-as-JPEG.
+description: Класс для параметров сохранения XPSкакJPEG.
 type: docs
-weight: 290
+weight: 310
 url: /ru/net/aspose.page.xps.presentation.image/jpegsaveoptions/
 ---
 ## JpegSaveOptions class
 
-Класс для опций сохранения XPS-as-JPEG.
+Класс для параметров сохранения XPS-как-JPEG.
 
 ```csharp
 public class JpegSaveOptions : ImageSaveOptions
@@ -18,22 +18,22 @@ public class JpegSaveOptions : ImageSaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [JpegSaveOptions](jpegsaveoptions)() | Создает новый экземпляр параметров. |
+| [JpegSaveOptions](jpegsaveoptions)() | Создает новый экземпляр options. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Указывает дополнительные папки, в которых конвертер должен найти шрифты для входного документа. Папка по умолчанию - стандартная папка шрифтов, в которой ОС находит шрифты для внутренних нужд. |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Указывает дополнительные папки, в которых конвертер должен найти шрифты для входного документа. Папка по умолчанию — стандартная папка шрифтов, в которой ОС находит шрифты для внутренних нужд. |
 | virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | Указывает, должна ли отладочная информация выводиться в стандартный поток вывода или нет. |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Возвращает список подавленных ошибок преобразования. Если!:SuppressErrorsистинно. |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Возвращает список подавленных ошибок преобразования.!:SuppressErrors верно. |
 | [InterpolationMode](../../aspose.page.xps.presentation.image/imagesaveoptions/interpolationmode) { get; set; } | Получает/устанавливает режим интерполяции. |
-| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | Категория "Качество" указывает уровень сжатия изображения. Доступные значения:от 0 до 100. Чем меньше указанное число, тем выше степень сжатия и, следовательно, ниже качество изображения. Значение 0 приводит к самому низкому качеству изображения, а 100 — к самому высокому. |
+| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | Категория «Качество» указывает уровень сжатия изображения. Доступные значения от 0 до 100. Чем меньше указанное число, тем выше степень сжатия и, следовательно, ниже качество изображения. Значение 0 приводит к изображению самого низкого качества, а 100 — к самому высокому. |
 | [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers) { get; set; } | Получает/задает массив номеров страниц для преобразования. |
 | [Resolution](../../aspose.page.xps.presentation.image/imagesaveoptions/resolution) { get; set; } | Получает/устанавливает разрешение изображения. |
 | [SmoothingMode](../../aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode) { get; set; } | Получает/устанавливает режим сглаживания. |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Указывает, должны ли ошибки подавляться или нет. Если true, в список[`Exceptions`](../../aspose.page/saveoptions/exceptions)добавляются подавленные ошибки. Если false, первая ошибка завершит программу. |
-| [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint) { get; set; } | Получает/устанавливает подсказку рендеринга текста. |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Указывает, должны ли подавляться ошибки. Если истинные подавленные ошибки добавляются[`Exceptions`](../../aspose.page/saveoptions/exceptions) list. Если false, первая ошибка приведет к завершению программы. |
+| [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint) { get; set; } | Возвращает/задает подсказку для рендеринга текста. |
 
 ### Смотрите также
 

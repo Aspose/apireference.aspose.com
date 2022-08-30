@@ -3,7 +3,7 @@ title: ReNew
 second_title: Aspose.Page for .NET API 参考
 description: 将设备重置为整个文档的初始状态
 type: docs
-weight: 380
+weight: 370
 url: /zh/net/aspose.page.eps.device/imagedevice/renew/
 ---
 ## ImageDevice.ReNew method

@@ -1,14 +1,14 @@
 ---
 title: PdfTextCompression
 second_title: Справочник по Aspose.Page для .NET API
-description: Указывает тип сжатия применяемый ко всему содержимому файла PDF кроме изображений.
+description: Определяет тип сжатия применяемый ко всему содержимому файла PDF кроме изображений.
 type: docs
-weight: 370
+weight: 390
 url: /ru/net/aspose.page.xps.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration
 
-Указывает тип сжатия, применяемый ко всему содержимому файла PDF, кроме изображений.
+Определяет тип сжатия, применяемый ко всему содержимому файла PDF, кроме изображений.
 
 ```csharp
 public enum PdfTextCompression
@@ -19,9 +19,9 @@ public enum PdfTextCompression
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | None | `0` | Нет типа сжатия |
-| Rle | `1` | Rle тип сжатия |
-| Lzw | `2` | Тип сжатия Lzw |
-| Flate | `3` | Плоский тип сжатия |
+| Rle | `1` | Тип сжатия Rle |
+| Lzw | `2` | Тип сжатия LZW |
+| Flate | `3` | Тип плоского сжатия |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: Fill
 second_title: Aspose.Page for .NET API 参考
 description: 填充路径
 type: docs
-weight: 150
+weight: 140
 url: /zh/net/aspose.page.eps.device/pdfdevice/fill/
 ---
 ## PdfDevice.Fill method
@@ -16,7 +16,7 @@ public override void Fill(GraphicsPath s)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| s | GraphicsPath | 要填充的路径。 |
+| s | GraphicsPath | 一条待填的路。 |
 
 ### 也可以看看
 

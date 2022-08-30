@@ -1,14 +1,14 @@
 ---
 title: IsLicensed
 second_title: Справочник по Aspose.Page для .NET API
-description: Указывает лицензирован ли данный экземпляр библиотеки Aspose.Page.
+description: Указывает лицензирован ли этот экземпляр библиотеки Aspose.Page.
 type: docs
 weight: 70
 url: /ru/net/aspose.page/device/islicensed/
 ---
 ## Device.IsLicensed property
 
-Указывает, лицензирован ли данный экземпляр библиотеки Aspose.Page.
+Указывает, лицензирован ли этот экземпляр библиотеки Aspose.Page.
 
 ```csharp
 public bool IsLicensed { get; }

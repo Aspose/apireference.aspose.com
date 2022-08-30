@@ -16,7 +16,7 @@ public override void DrawString(string str, double x, double y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| str | String | Текст для рисования. |
+| str | String | Текст, который нужно нарисовать. |
 | x | Double | Координата x позиции строки. |
 | y | Double | Y-координата позиции строки. |
 

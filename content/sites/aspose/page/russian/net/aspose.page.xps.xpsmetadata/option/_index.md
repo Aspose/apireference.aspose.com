@@ -1,37 +1,46 @@
 ---
 title: Option
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс реализующий опцию печати билета.
+description: Класс реализующий общий PrintTicket . Базовый класс для всех опций определенных схемой. Элемент Option содержит всеProperty./property и ScoredProperty./scoredproperty элементы связанные с этой опцией. https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 600
+weight: 1590
 url: /ru/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class
 
-Класс, реализующий опцию печати билета.
+Класс, реализующий общий PrintTicket . Базовый класс для всех опций, определенных схемой. Элемент Option содержит все[`Property`](../property) и [`ScoredProperty`](../scoredproperty) элементы, связанные с этой опцией. https://docs.microsoft.com/en-us/windows/win32/printdocs/option
 
 ```csharp
-public class Option : IEnumerable<IOptionItem>, IFeatureItem
+Option
+```
+
+```csharp
+public class Option : CompositePrintTicketElement, IFeatureItem
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [Option](option#constructor)(params IOptionItem[]) | Создает общий экземпляр функции печати билетов. |
-| [Option](option#constructor_1)(string, params IOptionItem[]) | Создает общий экземпляр функции печати билетов. |
+| [Option](option#constructor)(params IOptionItem[]) | Создает новый экземпляр опции PrintTicket. |
+| [Option](option#constructor_1)(Option) | Создает экземпляр варианта клонирования. |
+| [Option](option#constructor_2)(string, params IOptionItem[]) | Создает новый экземпляр опции PrintTicket. |
+
+## Характеристики
+
+| Имя | Описание |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Получает имя элемента. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Добавляет список свойств в конец списка свойств опции. Каждое из них должно быть[`ScoredProperty`](../scoredproperty)или[`Property`](../property)объект. |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/option/getenumerator)() | Реализация интерфейсаIEnumerable. |
-| override [ToString](../../aspose.page.xps.xpsmetadata/option/tostring)() | Возвращает строковое представление. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Добавляет список элементов в конец списка элементов этой опции. Каждый должен быть[`ScoredProperty`](../scoredproperty) или же[`Property`](../property) экземпляр. |
 
 ### Смотрите также
 
-* interface [IOptionItem](../ioptionitem)
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IFeatureItem](../ifeatureitem)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * сборка [Aspose.Page](../../)

@@ -1,14 +1,14 @@
 ---
 title: NumberOfPages
 second_title: Aspose.Page for .NET API 参考
-description: 返回结果 PDF 文档的页数
+description: 返回生成的 PDF 文档的页数
 type: docs
 weight: 20
 url: /zh/net/aspose.page.eps/psdocument/numberofpages/
 ---
 ## PsDocument.NumberOfPages property
 
-返回结果 PDF 文档的页数。
+返回生成的 PDF 文档的页数。
 
 ```csharp
 public int NumberOfPages { get; }

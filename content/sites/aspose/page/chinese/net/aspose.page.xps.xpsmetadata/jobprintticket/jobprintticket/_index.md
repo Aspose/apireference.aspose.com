@@ -11,16 +11,16 @@ url: /zh/net/aspose.page.xps.xpsmetadata/jobprintticket/jobprintticket/
 创建作业级打印票实例。
 
 ```csharp
-public JobPrintTicket(params IPrintTicketItem[] items)
+public JobPrintTicket(params IJobPrintTicketItem[] items)
 ```
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| items | IPrintTicketItem[] | 任意数组[`IPrintTicketItem`](../../iprintticketitem)对象。 每一个都可以是[`Feature`](../../feature),[`ParameterInit`](../../parameterinit)或[`Property`](../../property)对象。 |
+| items | IJobPrintTicketItem[] | 任意数组[`IJobPrintTicketItem`](../../ijobprintticketitem) instance. 每一个都可以是一个[`Feature`](../../feature)， 一个[`ParameterInit`](../../parameterinit)或一个[`Property`](../../property)实例。 |
 
 ### 也可以看看
 
-* interface [IPrintTicketItem](../../iprintticketitem)
+* interface [IJobPrintTicketItem](../../ijobprintticketitem)
 * class [JobPrintTicket](../../jobprintticket)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../jobprintticket)
 * 部件 [Aspose.Page](../../../)

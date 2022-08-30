@@ -1,14 +1,14 @@
 ---
 title: TextRenderingHint
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает/устанавливает подсказку рендеринга текста.
+description: Возвращает/задает подсказку для рендеринга текста.
 type: docs
 weight: 60
 url: /ru/net/aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint/
 ---
 ## ImageSaveOptions.TextRenderingHint property
 
-Получает/устанавливает подсказку рендеринга текста.
+Возвращает/задает подсказку для рендеринга текста.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }

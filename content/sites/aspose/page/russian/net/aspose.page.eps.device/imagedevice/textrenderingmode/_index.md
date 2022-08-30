@@ -3,7 +3,7 @@ title: TextRenderingMode
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает или указывает текущий режим рендеринга текста.
 type: docs
-weight: 160
+weight: 150
 url: /ru/net/aspose.page.eps.device/imagedevice/textrenderingmode/
 ---
 ## ImageDevice.TextRenderingMode property

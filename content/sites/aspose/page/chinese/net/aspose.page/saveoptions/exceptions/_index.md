@@ -1,14 +1,14 @@
 ---
 title: Exceptions
 second_title: Aspose.Page for .NET API 参考
-description: 如果SuppressErrors为真则返回抑制的转换错误列表
+description: 返回抑制的转换错误列表 如果SuppressErrors是真的
 type: docs
 weight: 40
 url: /zh/net/aspose.page/saveoptions/exceptions/
 ---
 ## SaveOptions.Exceptions property
 
-如果!:SuppressErrors为真，则返回抑制的转换错误列表。
+返回抑制的转换错误列表 如果!:SuppressErrors是真的。
 
 ```csharp
 public virtual IList<Exception> Exceptions { get; }

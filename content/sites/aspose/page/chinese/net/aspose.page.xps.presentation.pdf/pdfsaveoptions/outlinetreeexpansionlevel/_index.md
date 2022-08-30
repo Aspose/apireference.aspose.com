@@ -1,14 +1,14 @@
 ---
 title: OutlineTreeExpansionLevel
 second_title: Aspose.Page for .NET API 参考
-description: 指定查看 PDF 文件时文档大纲应展开到什么级别 1 - 仅显示第一级大纲项 2 - 仅显示第一级和第二级大纲项 等等 默认为 1
+description: 指定查看 PDF 文件时文档大纲应展开到哪一级 1  仅显示第一级大纲项目 2  仅显示第一级和第二级大纲项目 依此类推 默认为 1.
 type: docs
 weight: 40
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel/
 ---
 ## PdfSaveOptions.OutlineTreeExpansionLevel property
 
-指定查看 PDF 文件时文档大纲应展开到什么级别。 1 - 仅显示第一级大纲项， 2 - 仅显示第一级和第二级大纲项， 等等。 默认为 1。
+指定查看 PDF 文件时文档大纲应展开到哪一级。 1 - 仅显示第一级大纲项目， 2 - 仅显示第一级和第二级大纲项目， 依此类推。 默认为 1.
 
 ```csharp
 public int OutlineTreeExpansionLevel { get; set; }

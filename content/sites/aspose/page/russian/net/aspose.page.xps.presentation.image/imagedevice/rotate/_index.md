@@ -16,7 +16,7 @@ public override void Rotate(double theta)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| theta | Double | Угол поворота в радианах. |
+| theta | Double | Угол поворота, в радианах. |
 
 ### Смотрите также
 

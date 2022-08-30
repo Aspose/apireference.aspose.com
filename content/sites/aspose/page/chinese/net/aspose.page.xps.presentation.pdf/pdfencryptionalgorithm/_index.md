@@ -1,14 +1,14 @@
 ---
 title: PdfEncryptionAlgorithm
 second_title: Aspose.Page for .NET API 参考
-description: 加密模式枚举描述使用算法和密钥长度 这个枚举被扩展以便能够进一步增加功能 这个枚举实现了Base-to-Core模式
+description: 加密模式枚举描述使用算法和密钥长度 这个枚举被扩展以便能够进一步增加功能 这个枚举实现BasetoCore模式
 type: docs
-weight: 330
+weight: 350
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration
 
-加密模式枚举。描述使用算法和密钥长度。 这个枚举被扩展以便能够进一步增加功能。 这个枚举实现了“Base-to-Core”模式。
+加密模式枚举。描述使用算法和密钥长度。 这个枚举被扩展以便能够进一步增加功能。 这个枚举实现“Base-to-Core”模式。
 
 ```csharp
 public enum PdfEncryptionAlgorithm

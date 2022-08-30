@@ -20,7 +20,7 @@ public virtual int GetPropertyInt(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public virtual int GetPropertyInt(string key, int def)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 

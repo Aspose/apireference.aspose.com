@@ -1,14 +1,14 @@
 ---
 title: XpsPath
 second_title: Aspose.Page for .NET API 参考
-description: 封装路径元素特征的类 此元素是将矢量图形和图像添加到固定页面的唯一方法 它定义了要在页面上呈现的单个矢量图形
+description: 封装Path 元素特征的类 该元素是将矢量图形和图像添加到固定页面的唯一手段 它定义要在页面上呈现的单个矢量图形
 type: docs
-weight: 1150
+weight: 3190
 url: /zh/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class
 
-封装路径元素特征的类。 此元素是将矢量图形和图像添加到固定页面的唯一方法。 它定义了要在页面上呈现的单个矢量图形。
+封装Path 元素特征的类。 该元素是将矢量图形和图像添加到固定页面的唯一手段。 它定义要在页面上呈现的单个矢量图形。
 
 ```csharp
 public sealed class XpsPath : XpsContentElement
@@ -21,28 +21,28 @@ public sealed class XpsPath : XpsContentElement
 | [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | 返回/设置限制元素渲染区域的路径几何实例。 |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | 返回子元素的数量。 |
 | [Data](../../aspose.page.xps.xpsmodel/xpspath/data) { get; set; } | 返回/设置路径的几何形状。 |
-| [Fill](../../aspose.page.xps.xpsmodel/xpspath/fill) { get; set; } | 返回/设置用于绘制由路径的 Data 属性指定 几何图形的画笔。 |
+| [Fill](../../aspose.page.xps.xpsmodel/xpspath/fill) { get; set; } | 返回/设置用于绘制几何图形的画笔 由路径的Data属性指定 |
 | [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | 返回/设置超链接目标对象。 |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引*i*提供对元素子元素的访问。 |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引提供对元素子项的访问*i*. |
 | [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | 返回/设置定义元素统一透明度的值。 |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | 返回/设置指定 alpha 值掩码 的画笔，它以与 Opacity 属性相同的方式应用于元素， 但允许元素的不同区域使用不同的 alpha 值。 |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | 返回/设置画笔指定 alpha 值 的遮罩，该遮罩以与不透明度属性 相同的方式应用于元素，但允许元素的不同区域使用不同的 alpha 值。 |
 | [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | 返回/设置仿射变换矩阵，为元素的所有属性和所有子元素（如果有）建立一个新的坐标系 。 |
-| [Stroke](../../aspose.page.xps.xpsmodel/xpspath/stroke) { get; set; } | 返回/设置用于绘制笔划的画笔。 |
+| [Stroke](../../aspose.page.xps.xpsmodel/xpspath/stroke) { get; set; } | 返回/设置用于绘制笔触的画笔。 |
 | [StrokeDashArray](../../aspose.page.xps.xpsmodel/xpspath/strokedasharray) { get; set; } | 返回/设置指定轮廓笔划的虚线和间隙长度的数组。 |
 | [StrokeDashCap](../../aspose.page.xps.xpsmodel/xpspath/strokedashcap) { get; set; } | 返回/设置指定如何绘制每个破折号末端的值。 |
-| [StrokeDashOffset](../../aspose.page.xps.xpsmodel/xpspath/strokedashoffset) { get; set; } | 返回/设置重复破折号数组模式的起点。 如果省略此值，则虚线数组与笔划的原点对齐。 |
+| [StrokeDashOffset](../../aspose.page.xps.xpsmodel/xpspath/strokedashoffset) { get; set; } | 返回/设置重复虚线数组图案的起点。 如果省略此值，虚线数组与笔划的原点对齐。 |
 | [StrokeEndLineCap](../../aspose.page.xps.xpsmodel/xpspath/strokeendlinecap) { get; set; } | 返回/设置定义笔划中最后一个破折号末端形状的值。 |
-| [StrokeLineJoin](../../aspose.page.xps.xpsmodel/xpspath/strokelinejoin) { get; set; } | 返回/设置定义笔画中第一个破折号开头形状的值。 |
-| [StrokeMiterLimit](../../aspose.page.xps.xpsmodel/xpspath/strokemiterlimit) { get; set; } | 返回/设置最大斜接长度与笔划粗细的一半之间的比率。 仅当` StrokeLineJoin` 属性指定` Miter` 时，此值才有意义. |
-| [StrokeStartLineCap](../../aspose.page.xps.xpsmodel/xpspath/strokestartlinecap) { get; set; } | 返回/设置定义笔画中第一个破折号开头形状的值。 |
-| [StrokeThickness](../../aspose.page.xps.xpsmodel/xpspath/strokethickness) { get; set; } | 返回/设置笔画的粗细，单位为 有效坐标空间（包括路径的渲染变换）。 笔触绘制在由 Path 元素的 Data 属性指定的几何图形的边界顶部 。一半的 StrokeThickness 将 延伸到 Data 属性指定的几何之外，另一半 延伸到几何内部。 |
+| [StrokeLineJoin](../../aspose.page.xps.xpsmodel/xpspath/strokelinejoin) { get; set; } | 返回/设置定义笔划中第一个破折号开头形状的值。 |
+| [StrokeMiterLimit](../../aspose.page.xps.xpsmodel/xpspath/strokemiterlimit) { get; set; } | 返回/设置最大斜接长度与笔划厚度一半之间的比率。 此值仅在以下情况下才有意义`StrokeLineJoin`属性指定`斜接`. |
+| [StrokeStartLineCap](../../aspose.page.xps.xpsmodel/xpspath/strokestartlinecap) { get; set; } | 返回/设置定义笔划中第一个破折号开头形状的值。 |
+| [StrokeThickness](../../aspose.page.xps.xpsmodel/xpspath/strokethickness) { get; set; } | 返回/设置笔画的粗细，单位为 有效坐标空间（包括路径的渲染变换）。 笔画绘制在由Path 元素的Data 属性指定的 几何图形的边界之上。一半的 StrokeThickness 延伸 在 Data 属性指定的几何之外，另一半 延伸到几何内部。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Clone](../../aspose.page.xps.xpsmodel/xpspath/clone)() | 克隆此路径。 |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | IEnumerable接口的实现。 |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | 执行IEnumerable接口. |
 
 ### 也可以看看
 

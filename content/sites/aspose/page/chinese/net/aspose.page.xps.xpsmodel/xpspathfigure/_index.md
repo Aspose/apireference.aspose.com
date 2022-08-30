@@ -1,14 +1,14 @@
 ---
 title: XpsPathFigure
 second_title: Aspose.Page for .NET API 参考
-description: 封装 PathFigure 元素特征的类 该元素由一组或多条直线或曲线段组成
+description: 封装 PathFigure 元素特征的类 此元素由一组或多条直线或曲线段组成
 type: docs
-weight: 1160
+weight: 3200
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class
 
-封装 PathFigure 元素特征的类。 该元素由一组或多条直线或曲线段组成。
+封装 PathFigure 元素特征的类。 此元素由一组或多条直线或曲线段组成。
 
 ```csharp
 public class XpsPathFigure : XpsArray<XpsPathSegment>
@@ -20,7 +20,7 @@ public class XpsPathFigure : XpsArray<XpsPathSegment>
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpsarray`1/count) { get; } |  |
 | [IsClosed](../../aspose.page.xps.xpsmodel/xpspathfigure/isclosed) { get; set; } | 返回/设置路径图是否闭合的值。 |
-| [IsFilled](../../aspose.page.xps.xpsmodel/xpspathfigure/isfilled) { get; set; } | 返回/设置指示路径图形是否用于计算 包含路径几何的区域的值。 |
+| [IsFilled](../../aspose.page.xps.xpsmodel/xpspathfigure/isfilled) { get; set; } | 返回/设置指示路径图是否用于计算的值 包含路径几何的区域。 |
 | [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } |  |
 | [Segments](../../aspose.page.xps.xpsmodel/xpspathfigure/segments) { get; } | 返回子路径段列表。 |
 | [StartPoint](../../aspose.page.xps.xpsmodel/xpspathfigure/startpoint) { get; set; } | 返回/设置路径图第一段的起点。 |

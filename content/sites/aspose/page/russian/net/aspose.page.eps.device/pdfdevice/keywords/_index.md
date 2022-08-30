@@ -3,12 +3,12 @@ title: KEYWORDS
 second_title: Справочник по Aspose.Page для .NET API
 description: Значение свойства Ключевые слова.
 type: docs
-weight: 420
+weight: 410
 url: /ru/net/aspose.page.eps.device/pdfdevice/keywords/
 ---
 ## PdfDevice.KEYWORDS field
 
-Значение свойства "Ключевые слова".
+Значение свойства «Ключевые слова».
 
 ```csharp
 public static readonly string KEYWORDS;

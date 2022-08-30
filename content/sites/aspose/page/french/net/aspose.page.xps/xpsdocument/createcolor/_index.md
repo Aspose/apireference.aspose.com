@@ -1,0 +1,195 @@
+---
+title: CreateColor
+second_title: Aspose.Page pour la référence de l'API .NET
+description: Crée une nouvelle couleur.
+type: docs
+weight: 180
+url: /fr/net/aspose.page.xps/xpsdocument/createcolor/
+---
+## CreateColor(Color) {#createcolor_5}
+
+Crée une nouvelle couleur.
+
+```csharp
+public XpsColor CreateColor(Color color)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| color | Color | Une instance de couleur native pour la couleur RVB. |
+
+### Return_Value
+
+Nouvelle couleur.
+
+### Voir également
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
+* class [XpsDocument](../../xpsdocument)
+* espace de noms [Aspose.Page.XPS](../../xpsdocument)
+* Assemblée [Aspose.Page](../../../)
+
+---
+
+## CreateColor(int, int, int, int) {#createcolor_2}
+
+Crée une nouvelle couleur dans l'espace colorimétrique sRGB.
+
+```csharp
+public XpsColor CreateColor(int a, int r, int g, int b)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| a | Int32 | La composante de couleur alpha. |
+| r | Int32 | La composante de couleur rouge. |
+| g | Int32 | La composante de couleur verte. |
+| b | Int32 | La composante de couleur bleue. |
+
+### Return_Value
+
+Nouvelle couleur.
+
+### Voir également
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
+* class [XpsDocument](../../xpsdocument)
+* espace de noms [Aspose.Page.XPS](../../xpsdocument)
+* Assemblée [Aspose.Page](../../../)
+
+---
+
+## CreateColor(int, int, int) {#createcolor_1}
+
+Crée une nouvelle couleur dans l'espace colorimétrique sRGB.
+
+```csharp
+public XpsColor CreateColor(int r, int g, int b)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| r | Int32 | La composante de couleur rouge. |
+| g | Int32 | La composante de couleur verte. |
+| b | Int32 | La composante de couleur bleue. |
+
+### Return_Value
+
+Nouvelle couleur.
+
+### Voir également
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
+* class [XpsDocument](../../xpsdocument)
+* espace de noms [Aspose.Page.XPS](../../xpsdocument)
+* Assemblée [Aspose.Page](../../../)
+
+---
+
+## CreateColor(float, float, float, float) {#createcolor_4}
+
+Crée une nouvelle couleur dans l'espace colorimétrique scRGB.
+
+```csharp
+public XpsColor CreateColor(float a, float r, float g, float b)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| a | Single | La composante de couleur alpha. |
+| r | Single | La composante de couleur rouge. |
+| g | Single | La composante de couleur verte. |
+| b | Single | La composante de couleur bleue. |
+
+### Return_Value
+
+Nouvelle couleur.
+
+### Voir également
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
+* class [XpsDocument](../../xpsdocument)
+* espace de noms [Aspose.Page.XPS](../../xpsdocument)
+* Assemblée [Aspose.Page](../../../)
+
+---
+
+## CreateColor(float, float, float) {#createcolor_3}
+
+Crée une nouvelle couleur dans l'espace colorimétrique scRGB.
+
+```csharp
+public XpsColor CreateColor(float r, float g, float b)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| r | Single | La composante de couleur rouge. |
+| g | Single | La composante de couleur verte. |
+| b | Single | La composante de couleur bleue. |
+
+### Return_Value
+
+Nouvelle couleur.
+
+### Voir également
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
+* class [XpsDocument](../../xpsdocument)
+* espace de noms [Aspose.Page.XPS](../../xpsdocument)
+* Assemblée [Aspose.Page](../../../)
+
+---
+
+## CreateColor(string, params float[]) {#createcolor_6}
+
+Crée une nouvelle couleur dans l'espace colorimétrique basé sur ICC.
+
+```csharp
+public XpsColor CreateColor(string path, params float[] components)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| path | String | Chemin d'accès au profil ICC. |
+| components | Single[] | Composants de couleur. |
+
+### Return_Value
+
+Nouvelle couleur.
+
+### Voir également
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
+* class [XpsDocument](../../xpsdocument)
+* espace de noms [Aspose.Page.XPS](../../xpsdocument)
+* Assemblée [Aspose.Page](../../../)
+
+---
+
+## CreateColor(XpsIccProfile, params float[]) {#createcolor}
+
+Crée une nouvelle couleur dans l'espace colorimétrique basé sur ICC.
+
+```csharp
+public XpsColor CreateColor(XpsIccProfile iccProfile, params float[] components)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| iccProfile | XpsIccProfile | La ressource de profil ICC. |
+| components | Single[] | Composants de couleur. |
+
+### Return_Value
+
+Nouvelle couleur.
+
+### Voir également
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
+* class [XpsIccProfile](../../../aspose.page.xps.xpsmodel/xpsiccprofile)
+* class [XpsDocument](../../xpsdocument)
+* espace de noms [Aspose.Page.XPS](../../xpsdocument)
+* Assemblée [Aspose.Page](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->

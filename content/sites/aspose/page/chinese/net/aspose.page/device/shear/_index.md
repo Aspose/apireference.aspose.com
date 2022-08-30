@@ -1,14 +1,14 @@
 ---
 title: Shear
 second_title: Aspose.Page for .NET API 参考
-description: 剪切当前变换矩阵调用 writeTransformTransform
+description: 剪切当前变换矩阵调用 writeTransformTransform.
 type: docs
 weight: 520
 url: /zh/net/aspose.page/device/shear/
 ---
 ## Device.Shear method
 
-剪切当前变换矩阵。调用 writeTransform(Transform)。
+剪切当前变换矩阵。调用 writeTransform(Transform).
 
 ```csharp
 public virtual void Shear(double shx, double shy)
@@ -17,7 +17,7 @@ public virtual void Shear(double shx, double shy)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | shx | Double | X 轴上的剪切。 |
-| shy | Double | Y 轴上的剪切。 |
+| shy | Double | 轴上的剪切。 |
 
 ### 也可以看看
 

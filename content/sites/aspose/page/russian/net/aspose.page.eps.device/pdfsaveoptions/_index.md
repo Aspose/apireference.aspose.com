@@ -18,18 +18,18 @@ public class PdfSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions#constructor)() | Инициализирует новый экземпляр класса[`PdfSaveOptions`](../pdfsaveoptions)со значениями по умолчанию для флагов!:SuppressErrors(true) и!:Debug(false). |
-| [PdfSaveOptions](pdfsaveoptions#constructor_1)(bool) | Инициализирует новый экземпляр класса[`PdfSaveOptions`](../pdfsaveoptions)со значениями по умолчанию для флага!:Отладка(ложь). |
+| [PdfSaveOptions](pdfsaveoptions#constructor)() | Инициализирует новый экземпляр[`PdfSaveOptions`](../pdfsaveoptions) класс со значениями по умолчанию для флагов!:SuppressErrors (правда) и!:Debug (ложь). |
+| [PdfSaveOptions](pdfsaveoptions#constructor_1)(bool) | Инициализирует новый экземпляр[`PdfSaveOptions`](../pdfsaveoptions) класс со значениями по умолчанию для флага!:Debug (ложь). |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Указывает дополнительные папки, в которых конвертер должен найти шрифты для входного документа. Папка по умолчанию - стандартная папка шрифтов, в которой ОС находит шрифты для внутренних нужд. |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Указывает дополнительные папки, в которых конвертер должен найти шрифты для входного документа. Папка по умолчанию — стандартная папка шрифтов, в которой ОС находит шрифты для внутренних нужд. |
 | virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | Указывает, должна ли отладочная информация выводиться в стандартный поток вывода или нет. |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Возвращает список подавленных ошибок преобразования. Если!:SuppressErrorsистинно. |
-| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | Категория "Качество" указывает уровень сжатия изображения. Доступные значения:от 0 до 100. Чем меньше указанное число, тем выше степень сжатия и, следовательно, ниже качество изображения. Значение 0 приводит к самому низкому качеству изображения, а 100 — к самому высокому. |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Указывает, должны ли ошибки подавляться или нет. Если true, в список[`Exceptions`](../../aspose.page/saveoptions/exceptions)добавляются подавленные ошибки. Если false, первая ошибка завершит программу. |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Возвращает список подавленных ошибок преобразования.!:SuppressErrors верно. |
+| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | Категория «Качество» указывает уровень сжатия изображения. Доступные значения от 0 до 100. Чем меньше указанное число, тем выше степень сжатия и, следовательно, ниже качество изображения. Значение 0 приводит к изображению самого низкого качества, а 100 — к самому высокому. |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Указывает, должны ли подавляться ошибки. Если истинные подавленные ошибки добавляются[`Exceptions`](../../aspose.page/saveoptions/exceptions) list. Если false, первая ошибка приведет к завершению программы. |
 
 ### Смотрите также
 

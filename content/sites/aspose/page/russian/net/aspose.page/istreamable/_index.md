@@ -3,7 +3,7 @@ title: IStreamable
 second_title: Справочник по Aspose.Page для .NET API
 description: Этот интерфейс используется для устройств которые отображают документ в поток.
 type: docs
-weight: 180
+weight: 190
 url: /ru/net/aspose.page/istreamable/
 ---
 ## IStreamable interface
@@ -18,7 +18,7 @@ public interface IStreamable
 
 | Имя | Описание |
 | --- | --- |
-| [OutputStream](../../aspose.page/istreamable/outputstream) { get; set; } | Получает или задает выходной поток. |
+| [OutputStream](../../aspose.page/istreamable/outputstream) { get; set; } | Получает или указывает выходной поток. |
 
 ### Смотрите также
 

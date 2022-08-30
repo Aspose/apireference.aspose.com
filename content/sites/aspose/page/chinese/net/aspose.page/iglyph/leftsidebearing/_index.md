@@ -1,14 +1,14 @@
 ---
 title: LeftSideBearing
 second_title: Aspose.Page for .NET API 参考
-description: 返回字形的左侧方位
+description: 返回字形的左侧方位角
 type: docs
 weight: 30
 url: /zh/net/aspose.page/iglyph/leftsidebearing/
 ---
 ## IGlyph.LeftSideBearing property
 
-返回字形的左侧方位。
+返回字形的左侧方位角。
 
 ```csharp
 public float LeftSideBearing { get; }

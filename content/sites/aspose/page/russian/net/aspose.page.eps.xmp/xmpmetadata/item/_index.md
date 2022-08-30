@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает или задает данные из метаданных.
+description: Получает или устанавливает данные из метаданных.
 type: docs
 weight: 50
 url: /ru/net/aspose.page.eps.xmp/xmpmetadata/item/
 ---
 ## XmpMetadata indexer
 
-Получает или задает данные из метаданных.
+Получает или устанавливает данные из метаданных.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
@@ -16,7 +16,7 @@ public XmpValue this[string key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Имя ключа. |
+| key | Ключевое имя. |
 
 ### Возвращаемое значение
 

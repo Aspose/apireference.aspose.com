@@ -1,14 +1,14 @@
 ---
 title: DrawOval
 second_title: Aspose.Page for .NET API 参考
-description: 绘制一个椭圆
+description: 画一个椭圆
 type: docs
 weight: 230
 url: /zh/net/aspose.page/device/drawoval/
 ---
 ## Device.DrawOval method
 
-绘制一个椭圆。
+画一个椭圆。
 
 ```csharp
 public virtual void DrawOval(double x, double y, double width, double height)

@@ -1,14 +1,14 @@
 ---
 title: InsertPath
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет новый путь к активной странице в позицииindex.
+description: Вставляет новый путь к активной странице вindex позиция.
 type: docs
 weight: 440
 url: /ru/net/aspose.page.xps/xpsdocument/insertpath/
 ---
 ## XpsDocument.InsertPath method
 
-Вставляет новый путь к активной странице в позиции*index*.
+Вставляет новый путь к активной странице в*index* позиция.
 
 ```csharp
 public XpsPath InsertPath(int index, XpsPathGeometry data)
@@ -16,7 +16,7 @@ public XpsPath InsertPath(int index, XpsPathGeometry data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую следует вставить новый путь. |
+| index | Int32 | Позиция, в которой должен быть вставлен новый путь. |
 | data | XpsPathGeometry | Геометрия пути. |
 
 ### Возвращаемое значение

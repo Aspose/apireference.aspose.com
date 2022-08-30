@@ -1,14 +1,14 @@
 ---
 title: GetPropertySize
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает значение свойства размера.
+description: Получает значение свойства size.
 type: docs
 weight: 420
 url: /ru/net/aspose.page/device/getpropertysize/
 ---
 ## Device.GetPropertySize method
 
-Получает значение свойства размера.
+Получает значение свойства size.
 
 ```csharp
 public Size GetPropertySize(string key)
@@ -20,7 +20,7 @@ public Size GetPropertySize(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

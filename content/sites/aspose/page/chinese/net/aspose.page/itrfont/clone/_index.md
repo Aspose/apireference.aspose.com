@@ -3,7 +3,7 @@ title: Clone
 second_title: Aspose.Page for .NET API 参考
 description: 克隆字体
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.page/itrfont/clone/
 ---
 ## ITrFont.Clone method
@@ -16,7 +16,7 @@ public ITrFont Clone()
 
 ### 返回值
 
-新字体。
+一种新字体。
 
 ### 也可以看看
 

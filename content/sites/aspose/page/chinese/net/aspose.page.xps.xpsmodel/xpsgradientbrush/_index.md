@@ -1,14 +1,14 @@
 ---
 title: XpsGradientBrush
 second_title: Aspose.Page for .NET API 参考
-description: 类封装了 LinerGradientBrush 和 RadialGradientBrush 元素的共同特征
+description: 类封装了LinerGradientBrush 和RadialGradientBrush 元素的共同特征
 type: docs
-weight: 1000
+weight: 3040
 url: /zh/net/aspose.page.xps.xpsmodel/xpsgradientbrush/
 ---
 ## XpsGradientBrush class
 
-类封装了 LinerGradientBrush 和 RadialGradientBrush 元素的共同特征。
+类封装了LinerGradientBrush 和RadialGradientBrush 元素的共同特征。
 
 ```csharp
 public abstract class XpsGradientBrush : XpsTransformableBrush
@@ -18,11 +18,11 @@ public abstract class XpsGradientBrush : XpsTransformableBrush
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode) { get; set; } | 返回/设置指定颜色插值的伽马函数的值。 gamma 调整 不应应用于 alpha 分量（如果指定）。 |
+| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode) { get; set; } | 返回/设置指定颜色插值的伽马函数的值。伽玛调整 不应应用于 alpha 分量（如果指定）。 |
 | [GradientStops](../../aspose.page.xps.xpsmodel/xpsgradientbrush/gradientstops) { get; set; } | 返回/设置包含渐变的渐变停止点列表。 |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | 返回/设置定义画笔填充的统一透明度的值。 |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | 返回/设置定义画笔填充均匀透明度的值。 |
 | [SpreadMethod](../../aspose.page.xps.xpsmodel/xpsgradientbrush/spreadmethod) { get; set; } | 返回/设置描述画笔应如何填充主区域之外的内容区域的值， 初始渐变区域。 |
-| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform) { get; set; } | 返回/设置应用于画笔坐标空间的矩阵变换。 Transform 属性与当前有效的渲染变换 连接，以产生画笔本地的有效渲染变换。画笔的视口 使用本地有效渲染变换进行变换。 |
+| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform) { get; set; } | 返回/设置应用于画笔坐标空间的矩阵变换。 Transform 属性与当前有效的渲染 transform 连接，以产生画笔本地的有效渲染变换。 Brush 的视口使用本地有效渲染变换进行变换。 |
 
 ### 也可以看看
 

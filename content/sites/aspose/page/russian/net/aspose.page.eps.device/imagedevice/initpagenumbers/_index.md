@@ -3,7 +3,7 @@ title: InitPageNumbers
 second_title: Справочник по Aspose.Page для .NET API
 description: Инициализирует количество страниц для вывода.
 type: docs
-weight: 350
+weight: 340
 url: /ru/net/aspose.page.eps.device/imagedevice/initpagenumbers/
 ---
 ## ImageDevice.InitPageNumbers method

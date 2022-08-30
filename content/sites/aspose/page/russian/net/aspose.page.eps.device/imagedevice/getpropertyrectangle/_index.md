@@ -3,7 +3,7 @@ title: GetPropertyRectangle
 second_title: Справочник по Aspose.Page для .NET API
 description: Получает значение свойства прямоугольника.
 type: docs
-weight: 310
+weight: 300
 url: /ru/net/aspose.page.eps.device/imagedevice/getpropertyrectangle/
 ---
 ## ImageDevice.GetPropertyRectangle method
@@ -20,7 +20,7 @@ public RectangleF GetPropertyRectangle(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

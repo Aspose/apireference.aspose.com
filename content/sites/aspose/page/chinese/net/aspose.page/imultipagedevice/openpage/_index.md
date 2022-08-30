@@ -40,12 +40,12 @@ public bool OpenPage(float width, float height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Single | 页面宽度。 |
-| height | Single | 页面高度。 |
+| width | Single | 页面的宽度。 |
+| height | Single | 页面的高度。 |
 
 ### 返回值
 
-如果打开的页面的编号在所选页码范围内，则返回 true，否则返回 false。
+如果打开的页面的编号在选定的页码范围内，则返回 true，否则返回 false。
 
 ### 也可以看看
 

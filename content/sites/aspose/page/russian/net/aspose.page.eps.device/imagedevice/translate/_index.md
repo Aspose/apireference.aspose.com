@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Справочник по Aspose.Page для .NET API
-description: Переводит текущую матрицу преобразования. Вызывает writeTransformпреобразование.
+description: Переводит текущую матрицу преобразования. Вызывает writeTransformTransform.
 type: docs
-weight: 480
+weight: 470
 url: /ru/net/aspose.page.eps.device/imagedevice/translate/
 ---
 ## ImageDevice.Translate method
 
-Переводит текущую матрицу преобразования. Вызывает writeTransform(преобразование).
+Переводит текущую матрицу преобразования. Вызывает writeTransform(Transform).
 
 ```csharp
 public override void Translate(double x, double y)

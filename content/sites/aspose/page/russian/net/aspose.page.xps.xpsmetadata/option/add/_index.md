@@ -1,22 +1,22 @@
 ---
 title: Add
 second_title: Справочник по Aspose.Page для .NET API
-description: Добавляет список свойств в конец списка свойств опции. Каждое из них должно бытьScoredPropertyaspose.page.xps.xpsmetadata/scoredpropertyилиPropertyaspose.page.xps.xpsmetadata/propertyобъект.
+description: Добавляет список элементов в конец списка элементов этой опции. Каждый должен бытьScoredPropertyaspose.page.xps.xpsmetadata/scoredproperty или жеPropertyaspose.page.xps.xpsmetadata/property экземпляр.
 type: docs
 weight: 20
 url: /ru/net/aspose.page.xps.xpsmetadata/option/add/
 ---
 ## Option.Add method
 
-Добавляет список свойств в конец списка свойств опции. Каждое из них должно быть[`ScoredProperty`](../../scoredproperty)или[`Property`](../../property)объект.
+Добавляет список элементов в конец списка элементов этой опции. Каждый должен быть[`ScoredProperty`](../../scoredproperty) или же[`Property`](../../property) экземпляр.
 
 ```csharp
-public void Add(params IOptionItem[] properties)
+public void Add(params IOptionItem[] items)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| properties | IOptionItem[] | Список свойств для добавления. |
+| items | IOptionItem[] | Список элементов для добавления. |
 
 ### Смотрите также
 

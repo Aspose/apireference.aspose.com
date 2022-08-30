@@ -1,14 +1,14 @@
 ---
 title: SaveOptions
 second_title: Aspose.Page for .NET API 参考
-description: 使用默认值 初始化SaveOptionsaspose.page/saveoptions类的新实例SuppressErrorstrue 和Debugaspose.page/saveoptions/debugfalse
+description: 初始化SaveOptionsaspose.page/saveoptions标志的默认值 的类SuppressErrors真实和Debugaspose.page/saveoptions/debug假.
 type: docs
 weight: 10
 url: /zh/net/aspose.page/saveoptions/saveoptions/
 ---
 ## SaveOptions() {#constructor}
 
-使用默认值 初始化[`SaveOptions`](../../saveoptions)类的新实例!:SuppressErrors(true) 和[`Debug`](../debug)(false)。
+初始化[`SaveOptions`](../../saveoptions)标志的默认值 的类!:SuppressErrors（真实）和[`Debug`](../debug)（假）.
 
 ```csharp
 public SaveOptions()
@@ -24,7 +24,7 @@ public SaveOptions()
 
 ## SaveOptions(bool) {#constructor_1}
 
-初始化一个新的实例[`SaveOptions`](../../saveoptions)具有标志默认值的类[`Debug`](../debug)(false)。
+初始化[`SaveOptions`](../../saveoptions)具有标志默认值的类[`Debug`](../debug)（假）.
 
 ```csharp
 public SaveOptions(bool supressErrors)
@@ -32,7 +32,7 @@ public SaveOptions(bool supressErrors)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| supressErrors | Boolean | 指定是否必须抑制错误。 如果真正的抑制错误被添加到[`Exceptions`](../exceptions)列表。 |
+| supressErrors | Boolean | 指定是否必须抑制错误。 如果将真正抑制的错误添加到[`Exceptions`](../exceptions)列表。 |
 
 ### 也可以看看
 

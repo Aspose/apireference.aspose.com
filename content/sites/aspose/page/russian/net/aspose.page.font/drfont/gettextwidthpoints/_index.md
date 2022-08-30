@@ -16,7 +16,7 @@ public float GetTextWidthPoints(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст для вычисления. |
+| text | String | Текст для расчета. |
 
 ### Возвращаемое значение
 
@@ -40,7 +40,7 @@ public float GetTextWidthPoints(string text, int startIndex, int charCount)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст для вычисления. |
+| text | String | Текст для расчета. |
 | startIndex | Int32 | Начальный индекс. |
 | charCount | Int32 | Количество символов. |
 

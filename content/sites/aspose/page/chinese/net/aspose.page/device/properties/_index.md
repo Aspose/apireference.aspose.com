@@ -1,14 +1,14 @@
 ---
 title: Properties
 second_title: Aspose.Page for .NET API 参考
-description: 设备属性包括元数据
+description: 包括元数据的设备属性
 type: docs
 weight: 110
 url: /zh/net/aspose.page/device/properties/
 ---
 ## Device.Properties property
 
-设备属性，包括元数据。
+包括元数据的设备属性。
 
 ```csharp
 public Dictionary<string, object> Properties { get; set; }

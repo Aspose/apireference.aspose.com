@@ -3,7 +3,7 @@ title: GetOutline
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает контур глифа в указанном месте.
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.page/itrfont/getoutline/
 ---
 ## ITrFont.GetOutline method
@@ -16,13 +16,13 @@ public GraphicsPath GetOutline(char charValue, float x, float y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| charValue | Char | Символ. |
+| charValue | Char | Персонаж. |
 | x | Single | X координата местоположения персонажа. |
-| y | Single | Координата Y расположения персонажа. |
+| y | Single | Координата Y местоположения персонажа. |
 
 ### Возвращаемое значение
 
-Контур глифа.
+Набросок глифа.
 
 ### Смотрите также
 

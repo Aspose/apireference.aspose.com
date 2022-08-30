@@ -20,7 +20,7 @@ public virtual Size GetPropertySize(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public virtual Size GetPropertySize(string key, Size def)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 

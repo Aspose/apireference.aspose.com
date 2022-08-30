@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Справочник по Aspose.Page для .NET API
-description: Конечный цвет градиента.
+description: Цвет остановки градиента.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmodel/xpsgradientstop/color/
 ---
 ## XpsGradientStop.Color property
 
-Конечный цвет градиента.
+Цвет остановки градиента.
 
 ```csharp
 public XpsColor Color { get; }

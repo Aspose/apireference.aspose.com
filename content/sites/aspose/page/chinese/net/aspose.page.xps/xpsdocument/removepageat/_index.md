@@ -1,14 +1,14 @@
 ---
 title: RemovePageAt
 second_title: Aspose.Page for .NET API 参考
-description: 从文档中删除index位置的页面
+description: 从文档中删除一页index位置.
 type: docs
 weight: 500
 url: /zh/net/aspose.page.xps/xpsdocument/removepageat/
 ---
 ## XpsDocument.RemovePageAt method
 
-从文档中删除*index*位置的页面。
+从文档中删除一页*index*位置.
 
 ```csharp
 public XpsPage RemovePageAt(int index)

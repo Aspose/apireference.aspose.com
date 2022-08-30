@@ -1,14 +1,14 @@
 ---
 title: StrokeThickness
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置笔画的粗细单位为 有效坐标空间包括路径的渲染变换 笔触绘制在由 Path 元素的 Data 属性指定的几何图形的边界顶部 一半的 StrokeThickness 将 延伸到 Data 属性指定的几何之外另一半 延伸到几何内部
+description: 返回/设置笔画的粗细单位为 有效坐标空间包括路径的渲染变换 笔画绘制在由Path 元素的Data 属性指定的 几何图形的边界之上一半的 StrokeThickness 延伸 在 Data 属性指定的几何之外另一半 延伸到几何内部
 type: docs
 weight: 110
 url: /zh/net/aspose.page.xps.xpsmodel/xpspath/strokethickness/
 ---
 ## XpsPath.StrokeThickness property
 
-返回/设置笔画的粗细，单位为 有效坐标空间（包括路径的渲染变换）。 笔触绘制在由 Path 元素的 Data 属性指定的几何图形的边界顶部 。一半的 StrokeThickness 将 延伸到 Data 属性指定的几何之外，另一半 延伸到几何内部。
+返回/设置笔画的粗细，单位为 有效坐标空间（包括路径的渲染变换）。 笔画绘制在由Path 元素的Data 属性指定的 几何图形的边界之上。一半的 StrokeThickness 延伸 在 Data 属性指定的几何之外，另一半 延伸到几何内部。
 
 ```csharp
 public float StrokeThickness { get; set; }

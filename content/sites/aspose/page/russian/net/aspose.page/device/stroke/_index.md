@@ -1,14 +1,14 @@
 ---
 title: Stroke
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает или указывает текущий штрих.
+description: Возвращает или указывает текущий ход.
 type: docs
 weight: 140
 url: /ru/net/aspose.page/device/stroke/
 ---
 ## Device.Stroke property
 
-Возвращает или указывает текущий штрих.
+Возвращает или указывает текущий ход.
 
 ```csharp
 public virtual Pen Stroke { get; set; }

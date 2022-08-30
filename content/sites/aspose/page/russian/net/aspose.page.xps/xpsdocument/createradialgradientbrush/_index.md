@@ -1,14 +1,14 @@
 ---
 title: CreateRadialGradientBrush
 second_title: Справочник по Aspose.Page для .NET API
-description: Создает новую кисть с радиальным градиентом.
+description: Создает новую кисть радиального градиента.
 type: docs
 weight: 330
 url: /ru/net/aspose.page.xps/xpsdocument/createradialgradientbrush/
 ---
 ## CreateRadialGradientBrush(List&lt;XpsGradientStop&gt;, PointF, PointF, float, float) {#createradialgradientbrush}
 
-Создает новую кисть с радиальным градиентом.
+Создает новую кисть радиального градиента.
 
 ```csharp
 public XpsRadialGradientBrush CreateRadialGradientBrush(List<XpsGradientStop> gradientStops, 
@@ -19,7 +19,7 @@ public XpsRadialGradientBrush CreateRadialGradientBrush(List<XpsGradientStop> gr
 | --- | --- | --- |
 | gradientStops | List`1 | Список остановок градиента. |
 | center | PointF | Центральная точка радиального градиента (то есть центр эллипса). |
-| gradientOrigin | PointF | Начальная точка радиального градиента. |
+| gradientOrigin | PointF | Исходная точка радиального градиента. |
 | radiusX | Single | Радиус в измерении x эллипса, который определяет радиальный градиент. |
 | radiusY | Single | Радиус в измерении y эллипса, который определяет радиальный градиент. |
 
@@ -39,7 +39,7 @@ public XpsRadialGradientBrush CreateRadialGradientBrush(List<XpsGradientStop> gr
 
 ## CreateRadialGradientBrush(PointF, PointF, float, float) {#createradialgradientbrush_1}
 
-Создает новую кисть с радиальным градиентом.
+Создает новую кисть радиального градиента.
 
 ```csharp
 public XpsRadialGradientBrush CreateRadialGradientBrush(PointF center, PointF gradientOrigin, 
@@ -49,7 +49,7 @@ public XpsRadialGradientBrush CreateRadialGradientBrush(PointF center, PointF gr
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | center | PointF | Центральная точка радиального градиента (то есть центр эллипса). |
-| gradientOrigin | PointF | Начальная точка радиального градиента. |
+| gradientOrigin | PointF | Исходная точка радиального градиента. |
 | radiusX | Single | Радиус в измерении x эллипса, который определяет радиальный градиент. |
 | radiusY | Single | Радиус в измерении y эллипса, который определяет радиальный градиент. |
 

@@ -1,14 +1,14 @@
 ---
 title: PngSaveOptions
 second_title: Справочник по Aspose.Page для .NET API
-description: Создает новый экземпляр параметров.
+description: Создает новый экземпляр options.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.presentation.image/pngsaveoptions/pngsaveoptions/
 ---
 ## PngSaveOptions constructor
 
-Создает новый экземпляр параметров.
+Создает новый экземпляр options.
 
 ```csharp
 public PngSaveOptions()

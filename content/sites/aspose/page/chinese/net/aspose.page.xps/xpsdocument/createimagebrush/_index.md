@@ -16,13 +16,13 @@ public XpsImageBrush CreateImageBrush(XpsImage image, RectangleF viewbox, Rectan
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | XpsImage | 图像资源。 |
+| image | XpsImage | 图片资源。 |
 | viewbox | RectangleF | 画笔源内容的位置和尺寸。 |
-| viewport | RectangleF | 主画笔的包含坐标空间中的区域 被（可能重复地）应用于填充区域的区域应用画笔 |
+| viewport | RectangleF | 主要画笔 瓷砖的包含坐标空间中的区域（可能重复）应用以填充应用画笔的区域 |
 
 ### 返回值
 
-新图像画笔。
+新的图像画笔。
 
 ### 也可以看看
 
@@ -46,11 +46,11 @@ public XpsImageBrush CreateImageBrush(string imagePath, RectangleF viewbox, Rect
 | --- | --- | --- |
 | imagePath | String | 要用作画笔平铺的图像的路径。 |
 | viewbox | RectangleF | 画笔源内容的位置和尺寸。 |
-| viewport | RectangleF | 主画笔的包含坐标空间中的区域 被（可能重复地）应用于填充区域的区域应用画笔 |
+| viewport | RectangleF | 主要画笔 瓷砖的包含坐标空间中的区域（可能重复）应用以填充应用画笔的区域 |
 
 ### 返回值
 
-新图像画笔。
+新的图像画笔。
 
 ### 也可以看看
 

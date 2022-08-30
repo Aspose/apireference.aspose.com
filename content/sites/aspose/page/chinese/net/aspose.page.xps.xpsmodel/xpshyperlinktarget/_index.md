@@ -3,7 +3,7 @@ title: XpsHyperlinkTarget
 second_title: Aspose.Page for .NET API 参考
 description: 超链接目标的基类
 type: docs
-weight: 1030
+weight: 3070
 url: /zh/net/aspose.page.xps.xpsmodel/xpshyperlinktarget/
 ---
 ## XpsHyperlinkTarget class

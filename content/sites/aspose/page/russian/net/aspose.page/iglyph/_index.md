@@ -3,7 +3,7 @@ title: IGlyph
 second_title: Справочник по Aspose.Page для .NET API
 description: Этот интерфейс дает доступ к основным параметрам глифов.
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/aspose.page/iglyph/
 ---
 ## IGlyph interface

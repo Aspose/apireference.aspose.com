@@ -1,21 +1,22 @@
 ---
 title: IFeatureItem
 second_title: Справочник по Aspose.Page для .NET API
-description: Базовый интерфейс для классов которые могут быть элементом функции печати билета.
+description: Базовый интерфейс для классов которые могут быть схемой печати.Feature./feature предметы.
 type: docs
-weight: 500
+weight: 860
 url: /ru/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface
 
-Базовый интерфейс для классов, которые могут быть элементом функции печати билета.
+Базовый интерфейс для классов, которые могут быть схемой печати.[`Feature`](../feature) предметы.
 
 ```csharp
-public interface IFeatureItem
+public interface IFeatureItem : IPrintTicketElementChild
 ```
 
 ### Смотрите также
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * сборка [Aspose.Page](../../)
 

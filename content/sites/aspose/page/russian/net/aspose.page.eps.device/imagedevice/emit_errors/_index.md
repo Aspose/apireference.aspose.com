@@ -3,7 +3,7 @@ title: EMIT_ERRORS
 second_title: Справочник по Aspose.Page для .NET API
 description: Значение свойства Выдавать ошибки.
 type: docs
-weight: 540
+weight: 530
 url: /ru/net/aspose.page.eps.device/imagedevice/emit_errors/
 ---
 ## ImageDevice.EMIT_ERRORS field

@@ -3,7 +3,7 @@ title: IStreamable
 second_title: Aspose.Page for .NET API 参考
 description: 此接口用于将文档呈现为流的设备
 type: docs
-weight: 180
+weight: 190
 url: /zh/net/aspose.page/istreamable/
 ---
 ## IStreamable interface

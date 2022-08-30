@@ -1,14 +1,14 @@
 ---
 title: TotalPageCount
 second_title: Aspose.Page for .NET API 参考
-description: 返回 XPS 文档内所有文档的总页数
+description: 返回 XPS 文档中所有文档的总页数
 type: docs
 weight: 80
 url: /zh/net/aspose.page.xps/xpsdocument/totalpagecount/
 ---
 ## XpsDocument.TotalPageCount property
 
-返回 XPS 文档内所有文档的总页数。
+返回 XPS 文档中所有文档的总页数。
 
 ```csharp
 public int TotalPageCount { get; }

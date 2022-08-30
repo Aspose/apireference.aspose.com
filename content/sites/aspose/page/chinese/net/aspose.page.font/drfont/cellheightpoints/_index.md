@@ -1,14 +1,14 @@
 ---
 title: CellHeightPoints
 second_title: Aspose.Page for .NET API 参考
-description: AscentPointsaspose.page.font/drfont/ascentpointsDescentPoints
+description: 的快捷方式AscentPointsaspose.page.font/drfont/ascentpointsDescentPointsaspose.page.font/drfont/descentpoints.
 type: docs
 weight: 40
 url: /zh/net/aspose.page.font/drfont/cellheightpoints/
 ---
 ## DrFont.CellHeightPoints property
 
-[`AscentPoints`](../ascentpoints)+DescentPoints。
+的快捷方式[`AscentPoints`](../ascentpoints)+[`DescentPoints`](../descentpoints).
 
 ```csharp
 public float CellHeightPoints { get; }

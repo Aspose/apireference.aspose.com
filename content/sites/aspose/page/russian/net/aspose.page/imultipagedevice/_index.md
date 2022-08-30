@@ -3,7 +3,7 @@ title: IMultiPageDevice
 second_title: Справочник по Aspose.Page для .NET API
 description: Этот интерфейс содержит методы для управления многостраничным устройством.
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.page/imultipagedevice/
 ---
 ## IMultiPageDevice interface

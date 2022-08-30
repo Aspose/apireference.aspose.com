@@ -3,7 +3,7 @@ title: XpsLoadOptions
 second_title: Aspose.Page for .NET API 参考
 description: XPS 文档加载选项
 type: docs
-weight: 400
+weight: 420
 url: /zh/net/aspose.page.xps/xpsloadoptions/
 ---
 ## XpsLoadOptions class

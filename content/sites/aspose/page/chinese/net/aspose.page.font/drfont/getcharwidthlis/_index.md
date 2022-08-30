@@ -1,14 +1,14 @@
 ---
 title: GetCharWidthLis
 second_title: Aspose.Page for .NET API 参考
-description: 获取字符宽度 lis
+description: 获取字符宽度 lis.
 type: docs
 weight: 190
 url: /zh/net/aspose.page.font/drfont/getcharwidthlis/
 ---
 ## DrFont.GetCharWidthLis method
 
-获取字符宽度 lis。
+获取字符宽度 lis.
 
 ```csharp
 public int GetCharWidthLis(char c)

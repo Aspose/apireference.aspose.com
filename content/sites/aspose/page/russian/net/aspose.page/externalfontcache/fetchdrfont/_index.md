@@ -1,14 +1,14 @@
 ---
 title: FetchDrFont
 second_title: Справочник по Aspose.Page для .NET API
-description: ВыборкаDrFontaspose.page.font/drfontпо имени семейства шрифтов размеру и стилю.
+description: выборкиDrFontaspose.page.font/drfont по названию семейства шрифтов размеру и стилю.
 type: docs
 weight: 20
 url: /ru/net/aspose.page/externalfontcache/fetchdrfont/
 ---
 ## FetchDrFont(string, float, FontStyle)
 
-Выборка[`DrFont`](../../../aspose.page.font/drfont)по имени семейства шрифтов, размеру и стилю.
+выборки[`DrFont`](../../../aspose.page.font/drfont) по названию семейства шрифтов, размеру и стилю.
 
 ```csharp
 public static DrFont FetchDrFont(string familyName, float sizePoints, FontStyle style)
@@ -35,7 +35,7 @@ public static DrFont FetchDrFont(string familyName, float sizePoints, FontStyle 
 
 ## FetchDrFont(string, float, FontStyle, string)
 
-Извлекает[`DrFont`](../../../aspose.page.font/drfont)по имени семейства шрифтов, размеру, стилю и альтернативному имени семейства шрифтов.
+выборки[`DrFont`](../../../aspose.page.font/drfont) по имени семейства шрифтов, размеру, стилю и альтернативному имени семейства шрифтов.
 
 ```csharp
 public DrFont FetchDrFont(string familyName, float sizePoints, FontStyle style, 
@@ -47,7 +47,7 @@ public DrFont FetchDrFont(string familyName, float sizePoints, FontStyle style,
 | familyName | String | Название семейства шрифтов. |
 | sizePoints | Single | Размер шрифта в пунктах (один пункт равен 1/72 дюйма). |
 | style | FontStyle | Стиль шрифта. |
-| altFamilyName | String | Альтернативное имя семейства шрифтов. |
+| altFamilyName | String | Альтернативное название семейства шрифтов. |
 
 ### Возвращаемое значение
 

@@ -16,7 +16,7 @@ public abstract Color ToColor()
 
 ### Возвращаемое значение
 
-Colorструктура
+Color структура
 
 ### Смотрите также
 

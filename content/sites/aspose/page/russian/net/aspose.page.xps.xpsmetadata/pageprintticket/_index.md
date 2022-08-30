@@ -1,14 +1,14 @@
 ---
 title: PagePrintTicket
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий функции билета печати на уровне страницы
+description: Класс который инкапсулирует билет печати на уровне страницы.
 type: docs
-weight: 660
+weight: 2360
 url: /ru/net/aspose.page.xps.xpsmetadata/pageprintticket/
 ---
 ## PagePrintTicket class
 
-Класс, инкапсулирующий функции билета печати на уровне страницы
+Класс, который инкапсулирует билет печати на уровне страницы.
 
 ```csharp
 public sealed class PagePrintTicket : PrintTicket
@@ -18,14 +18,15 @@ public sealed class PagePrintTicket : PrintTicket
 
 | Имя | Описание |
 | --- | --- |
-| [PagePrintTicket](pageprintticket)(params IPrintTicketItem[]) | Создает экземпляр билета печати на уровне страницы. |
+| [PagePrintTicket](pageprintticket)(params IPagePrintTicketItem[]) | Создает экземпляр билета печати на уровне страницы. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/printticket/add)(params IPrintTicketItem[]) | Добавляет список элементов в конец списка элементов печатного билета. Каждый может быть[`Feature`](../feature),[`Option`](../option)или[`Property`](../property)object. |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Реализация интерфейсаIEnumerable. |
+| [Add](../../aspose.page.xps.xpsmetadata/pageprintticket/add)(params IPagePrintTicketItem[]) | Добавляет массив элементов в конец этого списка элементов PrintTicket. Каждый из них может быть[`Feature`](../feature) , ан[`Option`](../option) или[`Property`](../property) экземпляр. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Возвращает перечислитель имен элементов заявки на печать. |
+| [Remove](../../aspose.page.xps.xpsmetadata/printticket/remove)(params string[]) | Удаляет элемент из этого списка элементов PrintTicket. |
 
 ### Смотрите также
 

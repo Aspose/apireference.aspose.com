@@ -1,14 +1,14 @@
 ---
 title: XpsElement
 second_title: Aspose.Page for .NET API 参考
-description: 封装常见 XPS 元素特性的类
+description: 封装常见 XPS 元素特征的类
 type: docs
-weight: 930
+weight: 2970
 url: /zh/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class
 
-封装常见 XPS 元素特性的类。
+封装常见 XPS 元素特征的类。
 
 ```csharp
 public abstract class XpsElement : XpsObject, IEnumerable<XpsContentElement>
@@ -19,13 +19,13 @@ public abstract class XpsElement : XpsObject, IEnumerable<XpsContentElement>
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | 返回子元素的数量。 |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引*i*提供对元素子元素的访问。 |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引提供对元素子项的访问*i*. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | IEnumerable接口的实现。 |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | 执行IEnumerable接口. |
 
 ### 也可以看看
 

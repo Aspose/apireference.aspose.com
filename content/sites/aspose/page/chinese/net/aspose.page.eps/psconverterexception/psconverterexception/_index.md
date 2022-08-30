@@ -1,14 +1,14 @@
 ---
 title: PsConverterException
 second_title: Aspose.Page for .NET API 参考
-description: 初始化PsConverterExceptionaspose.page.eps/psconverterexception类的新实例
+description: 初始化PsConverterExceptionaspose.page.eps/psconverterexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.page.eps/psconverterexception/psconverterexception/
 ---
 ## PsConverterException constructor
 
-初始化[`PsConverterException`](../../psconverterexception)类的新实例。
+初始化[`PsConverterException`](../../psconverterexception)类.
 
 ```csharp
 public PsConverterException(string errorStr)

@@ -19,7 +19,7 @@ public XpsVisualBrush CreateVisualBrush(XpsContentElement element, RectangleF vi
 | --- | --- | --- |
 | element | XpsContentElement | 视觉属性和视觉画笔的 XPS 元素（画布、路径或字形）。 |
 | viewbox | RectangleF | 画笔源内容的位置和尺寸。 |
-| viewport | RectangleF | 主画笔的包含坐标空间中的区域 被（可能重复地）应用于填充区域的区域应用画笔 |
+| viewport | RectangleF | 主要画笔 瓷砖的包含坐标空间中的区域（可能重复）应用以填充应用画笔的区域 |
 
 ### 返回值
 

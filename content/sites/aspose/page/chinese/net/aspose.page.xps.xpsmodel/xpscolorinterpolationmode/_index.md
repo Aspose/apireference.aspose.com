@@ -3,7 +3,7 @@ title: XpsColorInterpolationMode
 second_title: Aspose.Page for .NET API 参考
 description: 渐变画笔的 ColorInterpolationMode 属性的有效值
 type: docs
-weight: 890
+weight: 2930
 url: /zh/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

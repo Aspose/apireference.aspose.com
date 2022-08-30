@@ -1,14 +1,14 @@
 ---
 title: DrawImage
 second_title: Aspose.Page for .NET API 参考
-description: 绘制具有指定变换和背景的图像
+description: 使用指定的变换和背景绘制图像
 type: docs
 weight: 210
 url: /zh/net/aspose.page/device/drawimage/
 ---
 ## Device.DrawImage method
 
-绘制具有指定变换和背景的图像。
+使用指定的变换和背景绘制图像。
 
 ```csharp
 public virtual void DrawImage(Bitmap image, Matrix transform, Color bkg)
@@ -17,7 +17,7 @@ public virtual void DrawImage(Bitmap image, Matrix transform, Color bkg)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | image | Bitmap | 要绘制的图像。 |
-| transform | Matrix | 一个变换。 |
+| transform | Matrix | 一个转变。 |
 | bkg | Color | 背景颜色。 |
 
 ### 也可以看看

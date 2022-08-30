@@ -16,7 +16,7 @@ public virtual IEnumerator<string> PropertyNames()
 
 ### 返回值
 
-属性名称枚举器。
+属性名称的枚举器。
 
 ### 也可以看看
 

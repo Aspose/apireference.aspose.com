@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Aspose.Page for .NET API 参考
-description: 转换当前变换矩阵调用 writeTransformTransform
+description: 平移当前变换矩阵调用 writeTransformTransform.
 type: docs
-weight: 480
+weight: 470
 url: /zh/net/aspose.page.eps.device/imagedevice/translate/
 ---
 ## ImageDevice.Translate method
 
-转换当前变换矩阵。调用 writeTransform(Transform)。
+平移当前变换矩阵。调用 writeTransform(Transform).
 
 ```csharp
 public override void Translate(double x, double y)

@@ -1,26 +1,25 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.Page для .NET API
-description: Реализация интерфейсаIEnumerable.
+description: Возвращает перечислитель имен элементов заявки на печать.
 type: docs
-weight: 30
+weight: 10
 url: /ru/net/aspose.page.xps.xpsmetadata/printticket/getenumerator/
 ---
 ## PrintTicket.GetEnumerator method
 
-Реализация интерфейсаIEnumerable.
+Возвращает перечислитель имен элементов заявки на печать.
 
 ```csharp
-public IEnumerator<IPrintTicketItem> GetEnumerator()
+public IEnumerator<string> GetEnumerator()
 ```
 
 ### Возвращаемое значение
 
-Возвращает перечислитель для списка.
+Перечислитель.
 
 ### Смотрите также
 
-* interface [IPrintTicketItem](../../iprintticketitem)
 * class [PrintTicket](../../printticket)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../printticket)
 * сборка [Aspose.Page](../../../)

@@ -3,7 +3,7 @@ title: XpsExternalLinkTarget
 second_title: Aspose.Page for .NET API 参考
 description: 封装外部超链接目标的类
 type: docs
-weight: 950
+weight: 2990
 url: /zh/net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class

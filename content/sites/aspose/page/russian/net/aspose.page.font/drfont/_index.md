@@ -1,14 +1,14 @@
 ---
 title: DrFont
 second_title: Справочник по Aspose.Page для .NET API
-description: Использовать этот класс вместо шрифта GDI
+description: Используйте этот класс вместо GDI Font
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.page.font/drfont/
 ---
 ## DrFont class
 
-Использовать этот класс вместо шрифта GDI+
+Используйте этот класс вместо GDI+ Font
 
 ```csharp
 public class DrFont
@@ -18,21 +18,21 @@ public class DrFont
 
 | Имя | Описание |
 | --- | --- |
-| [AscentLis](../../aspose.page.font/drfont/ascentlis) { get; } | Восхождение ячеек этого шрифта (lis). Это расстояние по вертикали от верха ячейки до базовой линии ячейки. |
+| [AscentLis](../../aspose.page.font/drfont/ascentlis) { get; } | Подъем ячейки этого шрифта (lis). Это расстояние по вертикали от верха ячейки до базовой линии ячейки. |
 | [AscentPoints](../../aspose.page.font/drfont/ascentpoints) { get; } | Возвращает подъем ячейки в пунктах. |
-| [CellHeightLis](../../aspose.page.font/drfont/cellheightlis) { get; } | Возвращает высоту ячейки этого шрифта (lis). Это ярлык для[`AscentLis`](./ascentlis)+[`DescentLis`](./descentlis). |
-| [CellHeightPoints](../../aspose.page.font/drfont/cellheightpoints) { get; } | Ярлык для[`AscentPoints`](./ascentpoints)+[`DescentPoints`](./descentpoints). |
-| [DescentLis](../../aspose.page.font/drfont/descentlis) { get; } | Ячеечный спуск этого шрифта (lis). Это расстояние по вертикали от низа ячейки до базовой линии ячейки. |
+| [CellHeightLis](../../aspose.page.font/drfont/cellheightlis) { get; } | Возвращает высоту ячейки этого шрифта (lis). Это ярлык для[`AscentLis`](./ascentlis) +[`DescentLis`](./descentlis) . |
+| [CellHeightPoints](../../aspose.page.font/drfont/cellheightpoints) { get; } | Ярлык для[`AscentPoints`](./ascentpoints) +[`DescentPoints`](./descentpoints) . |
+| [DescentLis](../../aspose.page.font/drfont/descentlis) { get; } | Спуск ячейки этого шрифта (lis). Это расстояние по вертикали от низа ячейки до базовой линии ячейки. |
 | [DescentPoints](../../aspose.page.font/drfont/descentpoints) { get; } | Возвращает спуск ячейки в пунктах. |
 | [FamilyName](../../aspose.page.font/drfont/familyname) { get; } | Получает имя этого шрифта. |
-| [IsBold](../../aspose.page.font/drfont/isbold) { get; } | Получает значение, указывающее, выделен ли этот экземпляр полужирным шрифтом. |
+| [IsBold](../../aspose.page.font/drfont/isbold) { get; } | Получает значение, указывающее, выделен ли данный экземпляр полужирным шрифтом. |
 | [IsItalic](../../aspose.page.font/drfont/isitalic) { get; } | Получает значение, указывающее, выделен ли данный экземпляр курсивом. |
-| [LeadingLis](../../aspose.page.font/drfont/leadinglis) { get; } | Возвращает интерлиньяж данного шрифта (lis). Это ярлык для[`LineSpacingLis`](./linespacinglis)-[`CellHeightLis`](./cellheightlis). |
-| [LeadingPoints](../../aspose.page.font/drfont/leadingpoints) { get; } | Возвращает интерлиньяж данного шрифта (lis). Это ярлык для[`LineSpacingLis`](./linespacinglis)-[`CellHeightLis`](./cellheightlis). |
-| [LineSpacingLis](../../aspose.page.font/drfont/linespacinglis) { get; } | Возвращает интервал между ячейками этого шрифта (lis). Это расстояние по вертикали между базовыми линиями двух глифов. |
-| [LineSpacingPoints](../../aspose.page.font/drfont/linespacingpoints) { get; } | Возвращает интервал между ячейками этого шрифта (в пунктах). Это расстояние по вертикали между базовыми линиями двух глифов. |
+| [LeadingLis](../../aspose.page.font/drfont/leadinglis) { get; } | Возвращает интерлиньяж этого шрифта (lis). Это ярлык для[`LineSpacingLis`](./linespacinglis) -[`CellHeightLis`](./cellheightlis) . |
+| [LeadingPoints](../../aspose.page.font/drfont/leadingpoints) { get; } | Возвращает интерлиньяж этого шрифта (lis). Это ярлык для[`LineSpacingLis`](./linespacinglis) -[`CellHeightLis`](./cellheightlis) . |
+| [LineSpacingLis](../../aspose.page.font/drfont/linespacinglis) { get; } | Возвращает расстояние между ячейками этого шрифта (lis). Это расстояние по вертикали между базовыми линиями двух глифов. |
+| [LineSpacingPoints](../../aspose.page.font/drfont/linespacingpoints) { get; } | Возвращает расстояние между ячейками этого шрифта (в пунктах). Это расстояние по вертикали между базовыми линиями двух глифов. |
 | [SizePoints](../../aspose.page.font/drfont/sizepoints) { get; set; } | Получает размер этого шрифта (в пунктах). |
-| [SmallCapsScaleFactor](../../aspose.page.font/drfont/smallcapsscalefactor) { get; } | Получает коэффициент масштабирования SmallCaps. |
+| [SmallCapsScaleFactor](../../aspose.page.font/drfont/smallcapsscalefactor) { get; } | Получает масштабный коэффициент SmallCaps. |
 | [Style](../../aspose.page.font/drfont/style) { get; } | Получает стиль этого шрифта. |
 | [StyleEx](../../aspose.page.font/drfont/styleex) { get; set; } | Это свойство содержит дополнительную информацию о стиле шрифта |
 
@@ -40,16 +40,16 @@ public class DrFont
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.page.font/drfont/equals)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
+| override [Equals](../../aspose.page.font/drfont/equals)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
 | [GetCharWidthLis](../../aspose.page.font/drfont/getcharwidthlis)(char) | Получает ширину символа lis. |
 | [GetCharWidthPoints](../../aspose.page.font/drfont/getcharwidthpoints)(char) | Возвращает ширину символа (в пунктах). |
-| override [GetHashCode](../../aspose.page.font/drfont/gethashcode)() | Возвращает хэш-код для данного экземпляра. |
-| [GetTextSizePoints](../../aspose.page.font/drfont/gettextsizepoints)(string) | Возвращает размер текстового поля текста в пунктах. |
+| override [GetHashCode](../../aspose.page.font/drfont/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
+| [GetTextSizePoints](../../aspose.page.font/drfont/gettextsizepoints)(string) | Возвращает текстовое поле измерения текста в пунктах. |
 | [GetTextWidthLis](../../aspose.page.font/drfont/gettextwidthlis)(string) | Получает ширину текста lis. |
 | [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints#gettextwidthpoints)(string) | Получает точки ширины текста. |
 | [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints#gettextwidthpoints_1)(string, int, int) | Получает точки ширины текста. |
 | [Replace](../../aspose.page.font/drfont/replace)(DrFont) | Заменить содержимое шрифта |
-| static [IsPoorlyRenderedByGdiPlus](../../aspose.page.font/drfont/ispoorlyrenderedbygdiplus)(string) | Возвращает True для шрифта "Microsoft Sans Serif". Этот плохо отображается GDI+. См. Test286 и Gemini-6959. |
+| static [IsPoorlyRenderedByGdiPlus](../../aspose.page.font/drfont/ispoorlyrenderedbygdiplus)(string) | Возвращает True для шрифта Microsoft Sans Serif. Этот плохо отображается GDI+. См. Test286 и Gemini-6959. |
 
 ### Смотрите также
 

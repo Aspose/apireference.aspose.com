@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.Page для .NET API
-description: Предоставляет доступ к элементу массива по индексуi.
+description: Предоставляет доступ к элементу массива по индексуi .
 type: docs
 weight: 20
 url: /ru/net/aspose.page.xps.xpsmodel/xpsarray-1/item/
 ---
 ## XpsArray&lt;T&gt; indexer
 
-Предоставляет доступ к элементу массива по индексу*i*.
+Предоставляет доступ к элементу массива по индексу*i* .
 
 ```csharp
 public T this[int i] { get; }
@@ -20,7 +20,7 @@ public T this[int i] { get; }
 
 ### Возвращаемое значение
 
-Элемент в позиции*i*.
+Элемент в*i* должность.
 
 ### Смотрите также
 

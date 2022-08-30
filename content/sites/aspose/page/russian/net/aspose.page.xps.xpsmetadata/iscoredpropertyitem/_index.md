@@ -1,21 +1,22 @@
 ---
 title: IScoredPropertyItem
 second_title: Справочник по Aspose.Page для .NET API
-description: Базовый интерфейс для классов которые могут быть элементом свойства оцениваемого билетом печати.
+description: Базовый интерфейс для классов которые могут быть PrintTicketScoredProperty./scoredproperty предметы.
 type: docs
-weight: 540
+weight: 930
 url: /ru/net/aspose.page.xps.xpsmetadata/iscoredpropertyitem/
 ---
 ## IScoredPropertyItem interface
 
-Базовый интерфейс для классов, которые могут быть элементом свойства, оцениваемого билетом печати.
+Базовый интерфейс для классов, которые могут быть PrintTicket[`ScoredProperty`](../scoredproperty) предметы.
 
 ```csharp
-public interface IScoredPropertyItem
+public interface IScoredPropertyItem : IPrintTicketElementChild
 ```
 
 ### Смотрите также
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * сборка [Aspose.Page](../../)
 

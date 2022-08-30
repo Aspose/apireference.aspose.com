@@ -1,14 +1,14 @@
 ---
 title: Stroke
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает или указывает текущий штрих.
+description: Возвращает или указывает текущий ход.
 type: docs
-weight: 150
+weight: 140
 url: /ru/net/aspose.page.eps.device/imagedevice/stroke/
 ---
 ## ImageDevice.Stroke property
 
-Возвращает или указывает текущий штрих.
+Возвращает или указывает текущий ход.
 
 ```csharp
 public override Pen Stroke { get; set; }

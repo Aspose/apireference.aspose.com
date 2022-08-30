@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Aspose.Page for .NET API 参考
-description: 在 Z 轴上旋转当前变换调用 writeTransformTransform 以正角度 theta 旋转将正 x 轴 上的点向正 y 轴旋转
+description: 在 Z 轴上旋转当前变换调用 writeTransformTransform. 旋转正角度 theta 将正 x 轴 上的点向正 y 轴旋转
 type: docs
-weight: 220
+weight: 210
 url: /zh/net/aspose.page.eps.device/pdfdevice/rotate/
 ---
 ## PdfDevice.Rotate method
 
-在 Z 轴上旋转当前变换。调用 writeTransform(Transform)。 以正角度 theta 旋转将正 x 轴 上的点向正 y 轴旋转。
+在 Z 轴上旋转当前变换。调用 writeTransform(Transform). 旋转正角度 theta 将正 x 轴 上的点向正 y 轴旋转。
 
 ```csharp
 public override void Rotate(double theta)
@@ -16,7 +16,7 @@ public override void Rotate(double theta)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| theta | Double | 要旋转的弧度 |
+| theta | Double | 旋转的弧度 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.Page для .NET API
-description: Предоставляет доступ к дочерним элементам по индексуi.
+description: Предоставляет доступ к дочерним элементам по индексуi .
 type: docs
 weight: 20
 url: /ru/net/aspose.page.xps.xpsmodel/xpselement/item/
 ---
 ## XpsElement indexer
 
-Предоставляет доступ к дочерним элементам по индексу*i*.
+Предоставляет доступ к дочерним элементам по индексу*i* .
 
 ```csharp
 public XpsContentElement this[int i] { get; }
@@ -20,7 +20,7 @@ public XpsContentElement this[int i] { get; }
 
 ### Возвращаемое значение
 
-Дочерний элемент в позиции*i*.
+Дочерний элемент в*i* должность.
 
 ### Смотрите также
 

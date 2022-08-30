@@ -1,14 +1,14 @@
 ---
 title: RemoveSegmentAt
 second_title: Справочник по Aspose.Page для .NET API
-description: Удаляет сегмент пути из списка дочерних сегментов последней фигуры пути в позицииindex.
+description: Удаляет сегмент пути из списка дочерних сегментов последней фигуры пути вindex позиция.
 type: docs
 weight: 80
 url: /ru/net/aspose.page.xps.xpsmodel/xpspathgeometry/removesegmentat/
 ---
 ## XpsPathGeometry.RemoveSegmentAt method
 
-Удаляет сегмент пути из списка дочерних сегментов последней фигуры пути в позиции*index*.
+Удаляет сегмент пути из списка дочерних сегментов последней фигуры пути в*index* позиция.
 
 ```csharp
 public XpsPathSegment RemoveSegmentAt(int index)
@@ -16,7 +16,7 @@ public XpsPathSegment RemoveSegmentAt(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которой следует удалить сегмент пути. |
+| index | Int32 | Позиция, в которой сегмент пути должен быть удален. |
 
 ### Возвращаемое значение
 

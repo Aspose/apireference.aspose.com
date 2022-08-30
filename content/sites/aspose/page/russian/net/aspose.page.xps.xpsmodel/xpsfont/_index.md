@@ -3,7 +3,7 @@ title: XpsFont
 second_title: Справочник по Aspose.Page для .NET API
 description: Класс инкапсулирующий ресурс шрифта TrueType.
 type: docs
-weight: 980
+weight: 3020
 url: /ru/net/aspose.page.xps.xpsmodel/xpsfont/
 ---
 ## XpsFont class

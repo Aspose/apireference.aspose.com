@@ -17,7 +17,7 @@ public void AddOutlineEntry(string description, int outlineLevel, XpsHyperlinkTa
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | description | String | Описание записи. |
-| outlineLevel | Int32 | Уровень структуры. |
+| outlineLevel | Int32 | Уровень контура. |
 | target | XpsHyperlinkTarget | Цель входа. |
 
 ### Смотрите также

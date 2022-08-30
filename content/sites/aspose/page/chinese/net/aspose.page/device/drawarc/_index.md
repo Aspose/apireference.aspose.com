@@ -1,14 +1,14 @@
 ---
 title: DrawArc
 second_title: Aspose.Page for .NET API 参考
-description: 绘制圆弧
+description: 绘制弧线
 type: docs
 weight: 200
 url: /zh/net/aspose.page/device/drawarc/
 ---
 ## Device.DrawArc method
 
-绘制圆弧。
+绘制弧线。
 
 ```csharp
 public virtual void DrawArc(double x, double y, double width, double height, double startAngle, 

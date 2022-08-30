@@ -3,7 +3,7 @@ title: InitClip
 second_title: Aspose.Page for .NET API 参考
 description: 初始化设备的剪辑
 type: docs
-weight: 340
+weight: 330
 url: /zh/net/aspose.page.eps.device/imagedevice/initclip/
 ---
 ## ImageDevice.InitClip method

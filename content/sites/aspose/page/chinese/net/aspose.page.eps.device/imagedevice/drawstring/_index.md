@@ -1,14 +1,14 @@
 ---
 title: DrawString
 second_title: Aspose.Page for .NET API 参考
-description: 在给定点绘制字符串
+description: 在给定点绘制一个字符串
 type: docs
-weight: 230
+weight: 220
 url: /zh/net/aspose.page.eps.device/imagedevice/drawstring/
 ---
 ## ImageDevice.DrawString method
 
-在给定点绘制字符串。
+在给定点绘制一个字符串。
 
 ```csharp
 public override void DrawString(string str, double x, double y)

@@ -24,7 +24,7 @@ public UserProperties()
 
 ## UserProperties(Dictionary&lt;string, object&gt;) {#constructor_1}
 
-用默认值初始化 UserProperties 类。
+使用默认值初始化 UserProperties 类。
 
 ```csharp
 public UserProperties(Dictionary<string, object> defaults)

@@ -1,14 +1,14 @@
 ---
 title: IsLargeArc
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置确定弧线是否使用 180 或更大的扫描绘制的值
+description: 返回/设置确定弧是否以 180 或更大的扫掠来绘制的值
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmodel/xpsarcsegment/islargearc/
 ---
 ## XpsArcSegment.IsLargeArc property
 
-返回/设置确定弧线是否使用 180 或更大的扫描绘制的值。
+返回/设置确定弧是否以 180 或更大的扫掠来绘制的值。
 
 ```csharp
 public bool IsLargeArc { get; set; }

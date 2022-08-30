@@ -3,7 +3,7 @@ title: EMIT_ERRORS
 second_title: Aspose.Page for .NET API 参考
 description: 发出错误属性值
 type: docs
-weight: 390
+weight: 380
 url: /zh/net/aspose.page.eps.device/pdfdevice/emit_errors/
 ---
 ## PdfDevice.EMIT_ERRORS field

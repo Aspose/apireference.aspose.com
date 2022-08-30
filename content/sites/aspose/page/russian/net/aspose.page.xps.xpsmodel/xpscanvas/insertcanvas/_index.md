@@ -1,14 +1,14 @@
 ---
 title: InsertCanvas
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет новый холст в дочерний список этого холста в позицииindex.
+description: Вставляет новый холст в дочерний список этого холста вindex позиция.
 type: docs
 weight: 80
 url: /ru/net/aspose.page.xps.xpsmodel/xpscanvas/insertcanvas/
 ---
 ## XpsCanvas.InsertCanvas method
 
-Вставляет новый холст в дочерний список этого холста в позиции*index*.
+Вставляет новый холст в дочерний список этого холста в*index* позиция.
 
 ```csharp
 public XpsCanvas InsertCanvas(int index)
@@ -16,7 +16,7 @@ public XpsCanvas InsertCanvas(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую следует вставить новый холст. |
+| index | Int32 | Позиция, в которой должен быть вставлен новый холст. |
 
 ### Возвращаемое значение
 

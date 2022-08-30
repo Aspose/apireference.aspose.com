@@ -1,14 +1,14 @@
 ---
 title: Paint
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает/устанавливает кисть для заполнения контуров.
+description: Получает/задает кисть для заливки контуров.
 type: docs
 weight: 80
 url: /ru/net/aspose.page.xps.presentation.image/imagedevice/paint/
 ---
 ## ImageDevice.Paint property
 
-Получает/устанавливает кисть для заполнения контуров.
+Получает/задает кисть для заливки контуров.
 
 ```csharp
 public override Brush Paint { get; set; }

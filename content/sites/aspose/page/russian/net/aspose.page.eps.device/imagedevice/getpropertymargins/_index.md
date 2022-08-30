@@ -3,7 +3,7 @@ title: GetPropertyMargins
 second_title: Справочник по Aspose.Page для .NET API
 description: Получает значение свойства полей.
 type: docs
-weight: 300
+weight: 290
 url: /ru/net/aspose.page.eps.device/imagedevice/getpropertymargins/
 ---
 ## ImageDevice.GetPropertyMargins method
@@ -20,7 +20,7 @@ public Margins GetPropertyMargins(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: RemoveSegmentAt
 second_title: Aspose.Page for .NET API 参考
-description: 从 最后一个路径图index位置的子段列表中删除一个路径段
+description: 从 的最后一个路径图的子段列表中删除一个路径段index位置.
 type: docs
 weight: 80
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathgeometry/removesegmentat/
 ---
 ## XpsPathGeometry.RemoveSegmentAt method
 
-从 最后一个路径图*index*位置的子段列表中删除一个路径段。
+从 的最后一个路径图的子段列表中删除一个路径段*index*位置.
 
 ```csharp
 public XpsPathSegment RemoveSegmentAt(int index)
@@ -16,11 +16,11 @@ public XpsPathSegment RemoveSegmentAt(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 应该删除路径段的位置。 |
+| index | Int32 | 应删除路径段的位置。 |
 
 ### 返回值
 
-删除路径段。
+删除了路径段。
 
 ### 也可以看看
 

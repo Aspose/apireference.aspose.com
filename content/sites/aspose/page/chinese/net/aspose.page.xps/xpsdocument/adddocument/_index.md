@@ -16,7 +16,7 @@ public void AddDocument(bool activate = true)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| activate | Boolean | 指示是否选择添加的文档为活动的标志。 |
+| activate | Boolean | 指示是否将添加的文档选择为活动的标志。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public void AddDocument(bool activate = true)
 
 ## AddDocument(float, float, bool) {#adddocument_1}
 
-添加具有首页尺寸 *width*和*height*的空文档.
+添加具有第一页尺寸的空文档 *width*和*height*.
 
 ```csharp
 public void AddDocument(float width, float height, bool activate = true)
@@ -38,7 +38,7 @@ public void AddDocument(float width, float height, bool activate = true)
 | --- | --- | --- |
 | width | Single | 第一页的宽度。 |
 | height | Single | 第一页的高度。 |
-| activate | Boolean | 指示是否选择添加的文档为活动的标志。 |
+| activate | Boolean | 指示是否将添加的文档选择为活动的标志。 |
 
 ### 也可以看看
 

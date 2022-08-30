@@ -1,14 +1,14 @@
 ---
 title: InsertDocument
 second_title: Aspose.Page for .NET API 参考
-description: 在index位置插入具有默认页面大小 的空文档
+description: 在默认页面大小 处插入一个空文档index位置.
 type: docs
 weight: 410
 url: /zh/net/aspose.page.xps/xpsdocument/insertdocument/
 ---
 ## InsertDocument(int, bool) {#insertdocument}
 
-在*index*位置插入具有默认页面大小 的空文档。
+在默认页面大小 处插入一个空文档*index*位置.
 
 ```csharp
 public void InsertDocument(int index, bool activate = true)
@@ -16,8 +16,8 @@ public void InsertDocument(int index, bool activate = true)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 应该插入文档的位置。 |
-| activate | Boolean | 指示是否选择插入的文档为活动的标志。 |
+| index | Int32 | 应插入文档的位置。 |
+| activate | Boolean | 指示是否将插入的文档选择为活动的标志。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void InsertDocument(int index, bool activate = true)
 
 ## InsertDocument(int, float, float, bool) {#insertdocument_1}
 
-插入具有首页尺寸 *width*和*height*的空文档在*index*位置。
+插入具有第一页尺寸的空文档 *width*和*height*在*index*位置.
 
 ```csharp
 public void InsertDocument(int index, float width, float height, bool activate = true)
@@ -37,10 +37,10 @@ public void InsertDocument(int index, float width, float height, bool activate =
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 应该插入文档的位置。 |
+| index | Int32 | 应插入文档的位置。 |
 | width | Single | 第一页的宽度。 |
 | height | Single | 第一页的高度。 |
-| activate | Boolean | 指示是否选择插入的文档为活动的标志。 |
+| activate | Boolean | 指示是否将插入的文档选择为活动的标志。 |
 
 ### 也可以看看
 

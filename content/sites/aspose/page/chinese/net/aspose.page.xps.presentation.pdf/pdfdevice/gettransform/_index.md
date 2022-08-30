@@ -16,7 +16,7 @@ public override Matrix GetTransform()
 
 ### 返回值
 
-当前变换矩阵。
+当前的变换矩阵。
 
 ### 也可以看看
 

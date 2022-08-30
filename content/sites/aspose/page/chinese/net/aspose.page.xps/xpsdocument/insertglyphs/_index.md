@@ -1,14 +1,14 @@
 ---
 title: InsertGlyphs
 second_title: Aspose.Page for .NET API 参考
-description: 在index位置将新字形插入活动页面
+description: 在活动页面中插入新字形index位置.
 type: docs
 weight: 420
 url: /zh/net/aspose.page.xps/xpsdocument/insertglyphs/
 ---
 ## InsertGlyphs(int, string, float, FontStyle, float, float, string) {#insertglyphs_1}
 
-在*index*位置将新字形插入活动页面。
+在活动页面中插入新字形*index*位置.
 
 ```csharp
 public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, FontStyle fontStyle, 
@@ -27,7 +27,7 @@ public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, Font
 
 ### 返回值
 
-插入的字形。
+插入字形。
 
 ### 也可以看看
 
@@ -40,7 +40,7 @@ public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, Font
 
 ## InsertGlyphs(int, XpsFont, float, float, float, string) {#insertglyphs}
 
-在*index*位置将新字形插入活动页面。
+在活动页面中插入新字形*index*位置.
 
 ```csharp
 public XpsGlyphs InsertGlyphs(int index, XpsFont font, float fontSize, float originX, 
@@ -58,7 +58,7 @@ public XpsGlyphs InsertGlyphs(int index, XpsFont font, float fontSize, float ori
 
 ### 返回值
 
-插入的字形。
+插入字形。
 
 ### 也可以看看
 

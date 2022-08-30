@@ -1,14 +1,14 @@
 ---
 title: Merge
 second_title: Справочник по Aspose.Page для .NET API
-description: Объединение документов XPS в PDF с использованием экземпляраDeviceaspose.page/device.
+description: Объединение документов XPS в PDF с помощьюDeviceaspose.page/device экземпляр.
 type: docs
 weight: 450
 url: /ru/net/aspose.page.xps/xpsdocument/merge/
 ---
 ## Merge(string[], Device, SaveOptions) {#merge}
 
-Объединение документов XPS в PDF с использованием экземпляра[`Device`](../../../aspose.page/device).
+Объединение документов XPS в PDF с помощью[`Device`](../../../aspose.page/device) экземпляр.
 
 ```csharp
 public void Merge(string[] filesForMerge, Device device, SaveOptions options)
@@ -17,8 +17,8 @@ public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filesForMerge | String[] | XPS-файлы для объединения с этим документом на устройстве вывода. |
-| device | Device | Экземпляр[`Device`](../../../aspose.page/device). |
-| options | SaveOptions | Параметры сохранения документа. |
+| device | Device | [`Device`](../../../aspose.page/device) пример. |
+| options | SaveOptions | Варианты сохранения документа. |
 
 ### Смотрите также
 
@@ -40,7 +40,7 @@ public void Merge(string[] filesForMerge, Stream outStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filesForMerge | String[] | XPS файлы для объединения с этим документом. |
+| filesForMerge | String[] | XPS-файлы для слияния с этим документом. |
 | stream | Stream | Выходной поток, в котором сохраняются объединенные документы XPS. |
 
 ### Смотрите также

@@ -16,7 +16,7 @@ public virtual void Transform(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Transform для применения. |
+| transform | Matrix | Преобразование, которое необходимо применить. |
 
 ### Смотрите также
 

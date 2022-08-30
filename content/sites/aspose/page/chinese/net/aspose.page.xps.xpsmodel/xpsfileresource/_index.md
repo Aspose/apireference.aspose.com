@@ -3,7 +3,7 @@ title: XpsFileResource
 second_title: Aspose.Page for .NET API 参考
 description: 封装所有文件资源的共同特征的类
 type: docs
-weight: 960
+weight: 3000
 url: /zh/net/aspose.page.xps.xpsmodel/xpsfileresource/
 ---
 ## XpsFileResource class

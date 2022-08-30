@@ -1,14 +1,14 @@
 ---
 title: IsLicensed
 second_title: Aspose.Page for .NET API 参考
-description: 指示此 Aspose.Page 库实例是否已获得许可
+description: 表示此 Aspose.Page 库实例是否已获得许可
 type: docs
 weight: 70
 url: /zh/net/aspose.page/device/islicensed/
 ---
 ## Device.IsLicensed property
 
-指示此 Aspose.Page 库实例是否已获得许可。
+表示此 Aspose.Page 库实例是否已获得许可。
 
 ```csharp
 public bool IsLicensed { get; }

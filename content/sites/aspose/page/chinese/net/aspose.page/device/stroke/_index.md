@@ -1,14 +1,14 @@
 ---
 title: Stroke
 second_title: Aspose.Page for .NET API 参考
-description: 返回或指定当前笔画
+description: 返回或指定当前笔划
 type: docs
 weight: 140
 url: /zh/net/aspose.page/device/stroke/
 ---
 ## Device.Stroke property
 
-返回或指定当前笔画。
+返回或指定当前笔划。
 
 ```csharp
 public virtual Pen Stroke { get; set; }

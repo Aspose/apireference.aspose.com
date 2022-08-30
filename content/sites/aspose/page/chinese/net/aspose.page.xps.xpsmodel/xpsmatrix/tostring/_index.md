@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.Page for .NET API 参考
-description: 返回此XpsMatrixaspose.page.xps.xpsmodel/xpsmatrix实例的字符串表示形式
+description: 返回 this 的字符串表示XpsMatrixaspose.page.xps.xpsmodel/xpsmatrix实例.
 type: docs
 weight: 170
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/tostring/
 ---
 ## XpsMatrix.ToString method
 
-返回此[`XpsMatrix`](../../xpsmatrix)实例的字符串表示形式。
+返回 this 的字符串表示[`XpsMatrix`](../../xpsmatrix)实例.
 
 ```csharp
 public override string ToString()

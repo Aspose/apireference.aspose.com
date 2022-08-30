@@ -1,14 +1,14 @@
 ---
 title: CellHeightLis
 second_title: Aspose.Page for .NET API 参考
-description: 返回此字体 lis 的单元格高度 这是AscentLisaspose.page.font/drfont/ascentlisDescentLisaspose.page.font/drfont/descentlis的快捷方式.
+description: 返回此字体 lis 的单元格高度 这是AscentLisaspose.page.font/drfont/ascentlisDescentLisaspose.page.font/drfont/descentlis.
 type: docs
 weight: 30
 url: /zh/net/aspose.page.font/drfont/cellheightlis/
 ---
 ## DrFont.CellHeightLis property
 
-返回此字体 (lis) 的单元格高度。 这是[`AscentLis`](../ascentlis)+[`DescentLis`](../descentlis)的快捷方式.
+返回此字体 (lis) 的单元格高度。 这是[`AscentLis`](../ascentlis)+[`DescentLis`](../descentlis).
 
 ```csharp
 public int CellHeightLis { get; }

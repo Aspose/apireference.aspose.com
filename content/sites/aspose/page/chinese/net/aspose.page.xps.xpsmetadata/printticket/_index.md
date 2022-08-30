@@ -1,35 +1,36 @@
 ---
 title: PrintTicket
 second_title: Aspose.Page for .NET API 参考
-description: 封装任何级别打印票的通用特征的基本类
+description: 实现任何范围的通用 PrintTicket 的类 作业级文档级和页面级打印票的基类 Aelement 是 PrintTicket 文档的根元素 A元素包含输出作业所需的所有作业格式信息 https//docs.microsoft.com/enus/windows/win32/printdocs/printticket
 type: docs
-weight: 700
+weight: 2730
 url: /zh/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class
 
-封装任何级别打印票的通用特征的基本类
+实现任何范围的通用 PrintTicket 的类。 作业级、文档级和页面级打印票的基类。 Aelement 是 PrintTicket 文档的根元素。 A元素包含输出作业所需的所有作业格式信息。 https://docs.microsoft.com/en-us/windows/win32/printdocs/printticket
 
 ```csharp
-public abstract class PrintTicket : IEnumerable<IPrintTicketItem>
+PrintTicket
 ```
 
-## 构造函数
+```csharp
+PrintTicket
+```
 
-| 姓名 | 描述 |
-| --- | --- |
-| [PrintTicket](printticket)(params IPrintTicketItem[]) | 创建打印票实例。 |
+```csharp
+public abstract class PrintTicket : IEnumerable<string>
+```
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/printticket/add)(params IPrintTicketItem[]) | 将项目列表添加到打印票项目列表的末尾。 每一个都可以是[`Feature`](../feature),[`Option`](../option)或[`Property`](../property)对象。 |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | IEnumerable接口的实现。 |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | 返回打印票项目名称枚举器。 |
+| [Remove](../../aspose.page.xps.xpsmetadata/printticket/remove)(params string[]) | 从此 PrintTicket 项目列表中删除项目。 |
 
 ### 也可以看看
 
-* interface [IPrintTicketItem](../iprintticketitem)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * 部件 [Aspose.Page](../../)
 

@@ -3,7 +3,7 @@ title: OpenPage
 second_title: Справочник по Aspose.Page для .NET API
 description: Выполняет необходимую подготовку устройства перед рендерингом страницы.
 type: docs
-weight: 190
+weight: 180
 url: /ru/net/aspose.page.eps.device/pdfdevice/openpage/
 ---
 ## OpenPage(string) {#openpage_1}
@@ -16,11 +16,11 @@ public virtual bool OpenPage(string title)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | String | Заголовок страницы. |
+| title | String | Название страницы. |
 
 ### Возвращаемое значение
 
-Всегда верно.
+Всегда правда.
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public virtual bool OpenPage(float width, float height)
 
 ### Возвращаемое значение
 
-Всегда верно.
+Всегда правда.
 
 ### Смотрите также
 

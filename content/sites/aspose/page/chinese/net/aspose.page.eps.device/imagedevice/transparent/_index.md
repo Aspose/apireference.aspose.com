@@ -3,7 +3,7 @@ title: TRANSPARENT
 second_title: Aspose.Page for .NET API 参考
 description: 透明属性键
 type: docs
-weight: 610
+weight: 600
 url: /zh/net/aspose.page.eps.device/imagedevice/transparent/
 ---
 ## ImageDevice.TRANSPARENT field

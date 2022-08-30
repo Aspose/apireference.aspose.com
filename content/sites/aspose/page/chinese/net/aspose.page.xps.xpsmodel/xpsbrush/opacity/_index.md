@@ -1,14 +1,14 @@
 ---
 title: Opacity
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置定义画笔填充的统一透明度的值
+description: 返回/设置定义画笔填充均匀透明度的值
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmodel/xpsbrush/opacity/
 ---
 ## XpsBrush.Opacity property
 
-返回/设置定义画笔填充的统一透明度的值。
+返回/设置定义画笔填充均匀透明度的值。
 
 ```csharp
 public float Opacity { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SetDocumentPrintTicket
 second_title: Справочник по Aspose.Page для .NET API
-description: СвязываетprintTicketс документом проиндексированнымdocumentIndex.
+description: СвязываетprintTicket к документу проиндексированномуdocumentIndex .
 type: docs
 weight: 540
 url: /ru/net/aspose.page.xps/xpsdocument/setdocumentprintticket/
 ---
 ## XpsDocument.SetDocumentPrintTicket method
 
-Связывает*printTicket*с документом, проиндексированным*documentIndex*.
+Связывает*printTicket* к документу, проиндексированному*documentIndex* .
 
 ```csharp
 public void SetDocumentPrintTicket(int documentIndex, DocumentPrintTicket printTicket)
@@ -17,7 +17,7 @@ public void SetDocumentPrintTicket(int documentIndex, DocumentPrintTicket printT
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | documentIndex | Int32 | Индекс документа, с которым связывается билет на печать. |
-| printTicket | DocumentPrintTicket | Билет печати для ссылки. |
+| printTicket | DocumentPrintTicket | Распечатать билет по ссылке. |
 
 ### Смотрите также
 

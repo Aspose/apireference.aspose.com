@@ -20,7 +20,7 @@ public XpsPathSegment RemoveSegment(XpsPathSegment segment)
 
 ### 返回值
 
-删除路径段。
+删除了路径段。
 
 ### 也可以看看
 

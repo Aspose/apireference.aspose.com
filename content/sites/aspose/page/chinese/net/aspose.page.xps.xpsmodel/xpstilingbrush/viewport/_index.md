@@ -1,14 +1,14 @@
 ---
 title: Viewport
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置第一个画笔块的位置和尺寸后续瓦片相对于该瓦片定位为 由瓦片模式指定
+description: 返回/设置第一个画笔块的位置和尺寸后续瓦片相对于该瓦片定位 由瓦片模式指定
 type: docs
 weight: 30
 url: /zh/net/aspose.page.xps.xpsmodel/xpstilingbrush/viewport/
 ---
 ## XpsTilingBrush.Viewport property
 
-返回/设置第一个画笔块的位置和尺寸。后续瓦片相对于该瓦片定位为 ，由瓦片模式指定。
+返回/设置第一个画笔块的位置和尺寸。后续瓦片相对于该瓦片定位 ，由瓦片模式指定。
 
 ```csharp
 public RectangleF Viewport { get; set; }

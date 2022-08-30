@@ -1,14 +1,14 @@
 ---
 title: Insert
 second_title: Aspose.Page for .NET API 参考
-description: 在index位置插入一个元素到此画布的子列表中
+description: 在此画布的子列表中插入一个元素index位置.
 type: docs
 weight: 70
 url: /zh/net/aspose.page.xps.xpsmodel/xpscanvas/insert/
 ---
 ## XpsCanvas.Insert&lt;T&gt; method
 
-在*index*位置插入一个元素到此画布的子列表中。
+在此画布的子列表中插入一个元素*index*位置.
 
 ```csharp
 public T Insert<T>(int index, T element)
@@ -18,12 +18,12 @@ public T Insert<T>(int index, T element)
 | 范围 | 描述 |
 | --- | --- |
 | T | 要添加的元素的类型。 |
-| index | 应该插入元素的位置。 |
+| index | 应插入元素的位置。 |
 | element | 要插入的元素。 |
 
 ### 返回值
 
-插入的元素。
+插入元素。
 
 ### 也可以看看
 

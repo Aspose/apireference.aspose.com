@@ -20,7 +20,7 @@ public Margins GetPropertyMargins(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

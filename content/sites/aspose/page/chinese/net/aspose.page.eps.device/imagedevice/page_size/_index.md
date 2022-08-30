@@ -3,7 +3,7 @@ title: PAGE_SIZE
 second_title: Aspose.Page for .NET API 参考
 description: 页面大小属性键
 type: docs
-weight: 590
+weight: 580
 url: /zh/net/aspose.page.eps.device/imagedevice/page_size/
 ---
 ## ImageDevice.PAGE_SIZE field

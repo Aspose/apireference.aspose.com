@@ -3,7 +3,7 @@ title: OpenPage
 second_title: Aspose.Page for .NET API 参考
 description: 在页面渲染之前对设备进行必要的准备
 type: docs
-weight: 190
+weight: 180
 url: /zh/net/aspose.page.eps.device/pdfdevice/openpage/
 ---
 ## OpenPage(string) {#openpage_1}
@@ -20,7 +20,7 @@ public virtual bool OpenPage(string title)
 
 ### 返回值
 
-总是正确的。
+永远是真的。
 
 ### 也可以看看
 
@@ -40,12 +40,12 @@ public virtual bool OpenPage(float width, float height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Single | 页面宽度。 |
-| height | Single | 页面高度。 |
+| width | Single | 页面的宽度。 |
+| height | Single | 页面的高度。 |
 
 ### 返回值
 
-总是正确的。
+永远是真的。
 
 ### 也可以看看
 

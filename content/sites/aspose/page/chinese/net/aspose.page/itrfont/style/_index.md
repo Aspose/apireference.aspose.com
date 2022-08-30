@@ -3,7 +3,7 @@ title: Style
 second_title: Aspose.Page for .NET API 参考
 description: 返回字体样式
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.page/itrfont/style/
 ---
 ## ITrFont.Style property

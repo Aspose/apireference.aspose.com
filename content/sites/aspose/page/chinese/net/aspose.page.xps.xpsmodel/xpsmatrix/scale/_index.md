@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.Page for .NET API 参考
-description: 按matrixOrder指定的顺序 将指定的缩放向量scaleX 和 scaleY应用于此矩阵
+description: 按指定的 order 将指定的比例向量scaleX 和 scaleY应用于此矩阵matrixOrder.
 type: docs
 weight: 150
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/scale/
 ---
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-按*matrixOrder*指定的顺序 将指定的缩放向量（scaleX 和 scaleY）应用于此矩阵。
+按指定的 order 将指定的比例向量（scaleX 和 scaleY）应用于此矩阵*matrixOrder*.
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder matrixOrder)
@@ -16,9 +16,9 @@ public void Scale(float scaleX, float scaleY, MatrixOrder matrixOrder)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| scaleX | Single | 比例尺 X. |
-| scaleY | Single | 比例尺 Y . |
-| matrixOrder | MatrixOrder | 顺序。 |
+| scaleX | Single | 规模 X。 |
+| scaleY | Single | 尺度 Y。 |
+| matrixOrder | MatrixOrder | 命令。 |
 
 ### 也可以看看
 
@@ -38,8 +38,8 @@ public void Scale(float scaleX, float scaleY)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| scaleX | Single | 比例 x。 |
-| scaleY | Single | 比例 y。 |
+| scaleX | Single | 尺度 x。 |
+| scaleY | Single | 尺度 y。 |
 
 ### 也可以看看
 

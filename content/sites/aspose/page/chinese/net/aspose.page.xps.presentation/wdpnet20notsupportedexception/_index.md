@@ -1,14 +1,14 @@
 ---
 title: WdpNet20NotSupportedException
 second_title: Aspose.Page for .NET API 参考
-description: 在 .NET 2.0 的库版本中转换包含 WDP 图像的 XPS 文档时引发的异常
+description: 每当包含 WDP 图像的 XPS 文档在 .NET 2.0 的库版本中转换时引发的异常
 type: docs
-weight: 380
+weight: 400
 url: /zh/net/aspose.page.xps.presentation/wdpnet20notsupportedexception/
 ---
 ## WdpNet20NotSupportedException class
 
-在 .NET 2.0 的库版本中转换包含 WDP 图像的 XPS 文档时引发的异常。
+每当包含 WDP 图像的 XPS 文档在 .NET 2.0 的库版本中转换时引发的异常。
 
 ```csharp
 public class WdpNet20NotSupportedException : ApplicationException

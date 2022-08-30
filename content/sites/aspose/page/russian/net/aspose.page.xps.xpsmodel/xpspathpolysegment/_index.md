@@ -1,14 +1,14 @@
 ---
 title: XpsPathPolySegment
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий общие черты элементов PolyLineSegment PolyBézierSegment и PolyQuadraticBézierSegment.
+description: Класс инкапсулирующий общие функции элементов PolyLineSegment PolyBézierSegment и PolyQuadraticBézierSegment.
 type: docs
-weight: 1180
+weight: 3220
 url: /ru/net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class
 
-Класс, инкапсулирующий общие черты элементов PolyLineSegment, PolyBézierSegment и PolyQuadraticBézierSegment.
+Класс, инкапсулирующий общие функции элементов PolyLineSegment, PolyBézierSegment и PolyQuadraticBézierSegment.
 
 ```csharp
 public abstract class XpsPathPolySegment : XpsPathSegment
@@ -18,7 +18,7 @@ public abstract class XpsPathPolySegment : XpsPathSegment
 
 | Имя | Описание |
 | --- | --- |
-| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/устанавливает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/задает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
 
 ### Смотрите также
 

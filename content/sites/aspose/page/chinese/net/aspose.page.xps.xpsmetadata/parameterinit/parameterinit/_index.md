@@ -1,14 +1,14 @@
 ---
 title: ParameterInit
 second_title: Aspose.Page for .NET API 参考
-description: 创建打印票参数初始化实例
+description: 创建一个新实例
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmetadata/parameterinit/parameterinit/
 ---
 ## ParameterInit constructor
 
-创建打印票参数初始化实例。
+创建一个新实例。
 
 ```csharp
 public ParameterInit(string name, Value value)
@@ -17,7 +17,7 @@ public ParameterInit(string name, Value value)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 参数名称。 |
-| value | Value | 参数值。 |
+| value | Value | 一个参数值。 |
 
 ### 也可以看看
 

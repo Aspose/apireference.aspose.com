@@ -16,7 +16,7 @@ public override Color ToColor()
 
 ### Возвращаемое значение
 
-System.Drawing.Color структура.
+Система.Рисунок.Цвет структура.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Stroke
 second_title: Aspose.Page for .NET API 参考
-description: 返回或指定当前笔画
+description: 返回或指定当前笔划
 type: docs
-weight: 150
+weight: 140
 url: /zh/net/aspose.page.eps.device/imagedevice/stroke/
 ---
 ## ImageDevice.Stroke property
 
-返回或指定当前笔画。
+返回或指定当前笔划。
 
 ```csharp
 public override Pen Stroke { get; set; }

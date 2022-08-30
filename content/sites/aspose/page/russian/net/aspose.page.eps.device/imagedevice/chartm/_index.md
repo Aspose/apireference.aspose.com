@@ -1,14 +1,14 @@
 ---
 title: CharTM
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает или указывает текущее преобразование символов.
+description: Возвращает или задает преобразование текущих символов.
 type: docs
 weight: 30
 url: /ru/net/aspose.page.eps.device/imagedevice/chartm/
 ---
 ## ImageDevice.CharTM property
 
-Возвращает или указывает текущее преобразование символов.
+Возвращает или задает преобразование текущих символов.
 
 ```csharp
 public override Matrix CharTM { get; set; }

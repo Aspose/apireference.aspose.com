@@ -1,14 +1,14 @@
 ---
 title: ClosePartition
 second_title: Справочник по Aspose.Page для .NET API
-description: Выполнен раздел документов.
+description: Выполнен раздел документа.
 type: docs
 weight: 140
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfdevice/closepartition/
 ---
 ## PdfDevice.ClosePartition method
 
-Выполнен раздел документов.
+Выполнен раздел документа.
 
 ```csharp
 public virtual void ClosePartition()

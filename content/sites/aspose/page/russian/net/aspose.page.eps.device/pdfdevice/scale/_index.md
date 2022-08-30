@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.Page для .NET API
-description: Масштабирует текущую матрицу преобразования. Вызывает writeTransformпреобразование.
+description: Масштабирует текущую матрицу преобразования. Вызывает writeTransformTransform.
 type: docs
-weight: 230
+weight: 220
 url: /ru/net/aspose.page.eps.device/pdfdevice/scale/
 ---
 ## PdfDevice.Scale method
 
-Масштабирует текущую матрицу преобразования. Вызывает writeTransform(преобразование).
+Масштабирует текущую матрицу преобразования. Вызывает writeTransform(Transform).
 
 ```csharp
 public override void Scale(double sx, double sy)
@@ -16,8 +16,8 @@ public override void Scale(double sx, double sy)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sx | Double | Масштаб по оси X. |
-| sy | Double | Масштаб по оси Y. |
+| sx | Double | Шкала по оси X. |
+| sy | Double | Шкала по оси Y. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: CreateImage
 second_title: Aspose.Page for .NET API 参考
-description: 从位于imagePath的图像文件中创建一个新的图像资源
+description: 从位于imagePath.
 type: docs
 weight: 230
 url: /zh/net/aspose.page.xps/xpsdocument/createimage/
 ---
 ## CreateImage(string) {#createimage_1}
 
-从位于*imagePath*的图像文件中创建一个新的图像资源。
+从位于*imagePath*.
 
 ```csharp
 public XpsImage CreateImage(string imagePath)
@@ -20,7 +20,7 @@ public XpsImage CreateImage(string imagePath)
 
 ### 返回值
 
-新图像资源。
+新的图像资源。
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public XpsImage CreateImage(string imagePath)
 
 ## CreateImage(Stream) {#createimage}
 
-从*stream*创建一个新的图像资源。
+创建一个新的图像资源*stream*.
 
 ```csharp
 public XpsImage CreateImage(Stream stream)
@@ -45,7 +45,7 @@ public XpsImage CreateImage(Stream stream)
 
 ### 返回值
 
-新图像资源。
+新的图像资源。
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: SetTransform
 second_title: Справочник по Aspose.Page для .NET API
 description: Определяет текущее преобразование.
 type: docs
-weight: 430
+weight: 420
 url: /ru/net/aspose.page.eps.device/imagedevice/settransform/
 ---
 ## ImageDevice.SetTransform method

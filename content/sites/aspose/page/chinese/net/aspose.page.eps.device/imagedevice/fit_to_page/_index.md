@@ -3,7 +3,7 @@ title: FIT_TO_PAGE
 second_title: Aspose.Page for .NET API 参考
 description: 使内容适合页面属性键
 type: docs
-weight: 560
+weight: 550
 url: /zh/net/aspose.page.eps.device/imagedevice/fit_to_page/
 ---
 ## ImageDevice.FIT_TO_PAGE field

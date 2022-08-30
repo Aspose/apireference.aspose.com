@@ -1,14 +1,14 @@
 ---
 title: StrokeLineJoin
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置定义笔画中第一个破折号开头形状的值
+description: 返回/设置定义笔划中第一个破折号开头形状的值
 type: docs
 weight: 80
 url: /zh/net/aspose.page.xps.xpsmodel/xpspath/strokelinejoin/
 ---
 ## XpsPath.StrokeLineJoin property
 
-返回/设置定义笔画中第一个破折号开头形状的值。
+返回/设置定义笔划中第一个破折号开头形状的值。
 
 ```csharp
 public XpsLineJoin StrokeLineJoin { get; set; }

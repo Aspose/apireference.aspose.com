@@ -16,7 +16,7 @@ public string FamilyName { get; }
 
 ### 适当的价值
 
-家族名称。
+家族的名字。
 
 ### 也可以看看
 

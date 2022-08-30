@@ -3,7 +3,7 @@ title: Draw
 second_title: Aspose.Page for .NET API 参考
 description: 绘制路径
 type: docs
-weight: 110
+weight: 100
 url: /zh/net/aspose.page.eps.device/pdfdevice/draw/
 ---
 ## PdfDevice.Draw method

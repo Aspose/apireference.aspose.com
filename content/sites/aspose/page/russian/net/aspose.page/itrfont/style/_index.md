@@ -3,7 +3,7 @@ title: Style
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает стиль шрифта.
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.page/itrfont/style/
 ---
 ## ITrFont.Style property

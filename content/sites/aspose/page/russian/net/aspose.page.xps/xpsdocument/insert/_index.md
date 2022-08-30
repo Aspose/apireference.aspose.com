@@ -1,14 +1,14 @@
 ---
 title: Insert
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет элемент холст контур или глифы на активную страницу в позицииindex.
+description: Вставляет элемент холст контур или глифы на активную страницу вindex позиция.
 type: docs
 weight: 390
 url: /ru/net/aspose.page.xps/xpsdocument/insert/
 ---
 ## XpsDocument.Insert&lt;T&gt; method
 
-Вставляет элемент (холст, контур или глифы) на активную страницу в позиции*index*.
+Вставляет элемент (холст, контур или глифы) на активную страницу в*index* позиция.
 
 ```csharp
 public T Insert<T>(int index, T element)
@@ -18,7 +18,7 @@ public T Insert<T>(int index, T element)
 | Параметр | Описание |
 | --- | --- |
 | T | Тип элемента. |
-| index | Позиция, в которую следует вставить элемент. |
+| index | Положение, при котором*element* следует вставить. |
 | element | Вставляемый элемент. |
 
 ### Возвращаемое значение

@@ -1,14 +1,14 @@
 ---
 title: Stroke
 second_title: Aspose.Page for .NET API 参考
-description: 获取/设置绘制路径的描边
+description: 获取/设置绘制路径的笔触
 type: docs
 weight: 110
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfdevice/stroke/
 ---
 ## PdfDevice.Stroke property
 
-获取/设置绘制路径的描边。
+获取/设置绘制路径的笔触。
 
 ```csharp
 public override Pen Stroke { get; set; }

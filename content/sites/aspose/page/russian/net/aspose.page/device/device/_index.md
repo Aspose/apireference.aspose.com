@@ -1,14 +1,14 @@
 ---
 title: Device
 second_title: Справочник по Aspose.Page для .NET API
-description: ИнициализируетDeviceaspose.page/deviceразмером страницы.
+description: ИнициализируетDeviceaspose.page/device размером со страницу.
 type: docs
 weight: 10
 url: /ru/net/aspose.page/device/device/
 ---
 ## Device constructor
 
-Инициализирует[`Device`](../../device)размером страницы.
+Инициализирует[`Device`](../../device) размером со страницу.
 
 ```csharp
 public Device(Size pageSize)

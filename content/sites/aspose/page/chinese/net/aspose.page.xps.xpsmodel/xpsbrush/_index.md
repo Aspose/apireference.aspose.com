@@ -3,7 +3,7 @@ title: XpsBrush
 second_title: Aspose.Page for .NET API 参考
 description: 封装所有画笔元素的共同特征的类
 type: docs
-weight: 860
+weight: 2900
 url: /zh/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class
@@ -18,7 +18,7 @@ public abstract class XpsBrush : XpsObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | 返回/设置定义画笔填充的统一透明度的值。 |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | 返回/设置定义画笔填充均匀透明度的值。 |
 
 ### 也可以看看
 

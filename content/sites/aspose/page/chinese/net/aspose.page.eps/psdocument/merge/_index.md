@@ -1,14 +1,14 @@
 ---
 title: Merge
 second_title: Aspose.Page for .NET API 参考
-description: 将 PS/EPS 文件合并到设备
+description: 将 PS/EPS 文件合并到设备中
 type: docs
 weight: 40
 url: /zh/net/aspose.page.eps/psdocument/merge/
 ---
 ## PsDocument.Merge method
 
-将 PS/EPS 文件合并到设备。
+将 PS/EPS 文件合并到设备中。
 
 ```csharp
 public void Merge(string[] filesForMerge, Device device, SaveOptions options)
@@ -16,8 +16,8 @@ public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filesForMerge | String[] | PS/EPS 文件，用于将此文件合并到输出设备。 |
-| device | Device | 输出设备。 |
+| filesForMerge | String[] | 用于将此文件合并到输出设备的 PS/EPS 文件。 |
+| device | Device | 一种输出设备。 |
 | options | SaveOptions | 包含指定转换期间抛出的错误输出的标志。 |
 
 ### 也可以看看

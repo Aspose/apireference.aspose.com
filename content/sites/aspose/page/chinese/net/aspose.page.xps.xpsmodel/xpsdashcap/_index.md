@@ -3,7 +3,7 @@ title: XpsDashCap
 second_title: Aspose.Page for .NET API 参考
 description: Path 元素的 StrokeDashCap 属性的有效值
 type: docs
-weight: 910
+weight: 2950
 url: /zh/net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration
@@ -18,9 +18,9 @@ public enum XpsDashCap
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Flat | `0` | 扁平短划线帽。 |
-| Round | `1` | 粗划线帽。 |
-| Square | `2` | 方形破折号。 |
+| Flat | `0` | 平破折号帽。 |
+| Round | `1` | 粗线帽。 |
+| Square | `2` | 方划线帽。 |
 | Triangle | `3` | 三角破折号帽。 |
 
 ### 也可以看看

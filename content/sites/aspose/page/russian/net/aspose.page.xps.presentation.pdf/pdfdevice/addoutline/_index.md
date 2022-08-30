@@ -29,7 +29,7 @@ public virtual void AddOutline(int outlineLevel, string description)
 
 ## AddOutline(PointF, int, string) {#addoutline_1}
 
-Добавляет элемент контура с исходной точкой в качестве цели.
+Добавляет элемент схемы с исходной точкой в качестве цели.
 
 ```csharp
 public virtual void AddOutline(PointF origin, int outlineLevel, string description)
@@ -37,8 +37,8 @@ public virtual void AddOutline(PointF origin, int outlineLevel, string descripti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| origin | PointF | Целевой источник. |
-| outlineLevel | Int32 | Уровень структуры. |
+| origin | PointF | Целевое происхождение. |
+| outlineLevel | Int32 | Уровень контура. |
 | description | String | Описание предмета. |
 
 ### Смотрите также

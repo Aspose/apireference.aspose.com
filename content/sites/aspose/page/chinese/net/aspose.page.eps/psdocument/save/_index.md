@@ -16,7 +16,7 @@ public override void Save(Device device, SaveOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| device | Device | 输出设备。 |
+| device | Device | 一种输出设备。 |
 | options | SaveOptions | 包含指定转换期间抛出的错误输出的标志。 |
 
 ### 也可以看看
@@ -31,7 +31,7 @@ public override void Save(Device device, SaveOptions options)
 
 ## Save(Stream) {#save_1}
 
-保存给定[`PsDocument`](../../psdocument)为 EPS 文件。此方法仅在更新 XMP 元数据后使用。 它使用更新的现有元数据或在调用 GetMetadata 方法时创建的新元数据保存初始 EPS 文件。 在最后一种情况下，添加了所有必要的 PostScript 代码和 EPS 注释。
+保存给定[`PsDocument`](../../psdocument)作为EPS文件。此方法仅在更新 XMP 元数据后使用。 它使用更新的现有元数据或在调用 GetMetadata 方法时创建的新元数据保存初始 EPS 文件。 在最后一种情况下，添加所有必要的 PostScript 代码和 EPS 注释。
 
 ```csharp
 public void Save(Stream epsStream)

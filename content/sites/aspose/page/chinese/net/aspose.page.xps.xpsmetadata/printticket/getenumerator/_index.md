@@ -1,26 +1,25 @@
 ---
 title: GetEnumerator
 second_title: Aspose.Page for .NET API 参考
-description: IEnumerable接口的实现
+description: 返回打印票项目名称枚举器
 type: docs
-weight: 30
+weight: 10
 url: /zh/net/aspose.page.xps.xpsmetadata/printticket/getenumerator/
 ---
 ## PrintTicket.GetEnumerator method
 
-IEnumerable接口的实现。
+返回打印票项目名称枚举器。
 
 ```csharp
-public IEnumerator<IPrintTicketItem> GetEnumerator()
+public IEnumerator<string> GetEnumerator()
 ```
 
 ### 返回值
 
-返回列表的枚举数。
+枚举器。
 
 ### 也可以看看
 
-* interface [IPrintTicketItem](../../iprintticketitem)
 * class [PrintTicket](../../printticket)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../printticket)
 * 部件 [Aspose.Page](../../../)

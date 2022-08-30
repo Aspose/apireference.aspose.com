@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API 参考
-description: 将此 Matrix 表示的仿射变换应用于指定的矩形
+description: 将此矩阵表示的仿射变换应用于指定的矩形
 type: docs
 weight: 180
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/transform/
 ---
 ## XpsMatrix.Transform method
 
-将此 Matrix 表示的仿射变换应用于指定的矩形。
+将此矩阵表示的仿射变换应用于指定的矩形。
 
 ```csharp
 public RectangleF Transform(RectangleF rect)
@@ -20,7 +20,7 @@ public RectangleF Transform(RectangleF rect)
 
 ### 返回值
 
-变换矩形
+变换的矩形
 
 ### 也可以看看
 

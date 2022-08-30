@@ -20,7 +20,7 @@ public XpsGlyphs AddGlyphs(string fontFamily, float fontSize, FontStyle fontStyl
 | fontFamily | String | Семейство шрифтов. |
 | fontSize | Single | Размер шрифта. |
 | fontStyle | FontStyle | Стиль шрифта. |
-| originX | Single | Начальная координата X глифов. |
+| originX | Single | Координата X начала координат глифов. |
 | originY | Single | Координата T начала координат глифов. |
 | unicodeString | String | Строка для печати. |
 

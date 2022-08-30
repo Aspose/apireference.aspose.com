@@ -3,7 +3,7 @@ title: TITLE
 second_title: Aspose.Page for .NET API 参考
 description: 标题属性值
 type: docs
-weight: 470
+weight: 460
 url: /zh/net/aspose.page.eps.device/pdfdevice/title/
 ---
 ## PdfDevice.TITLE field

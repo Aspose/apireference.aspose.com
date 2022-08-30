@@ -3,7 +3,7 @@ title: PAGE_MARGINS
 second_title: Aspose.Page for .NET API 参考
 description: 页边距属性键
 type: docs
-weight: 440
+weight: 430
 url: /zh/net/aspose.page.eps.device/pdfdevice/page_margins/
 ---
 ## PdfDevice.PAGE_MARGINS field

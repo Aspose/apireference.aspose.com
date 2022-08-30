@@ -1,14 +1,14 @@
 ---
 title: XpsPolyLineSegment
 second_title: Aspose.Page for .NET API 参考
-description: 封装 PolyLineSegment 元素特征的类 该元素描述了包含任意数量的单个顶点的多边形图形
+description: 封装 PolyLineSegment 元素特征的类 此元素描述包含任意数量的单个顶点的多边形图
 type: docs
-weight: 1210
+weight: 3250
 url: /zh/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class
 
-封装 PolyLineSegment 元素特征的类。 该元素描述了包含任意数量的单个顶点的多边形图形。
+封装 PolyLineSegment 元素特征的类。 此元素描述包含任意数量的单个顶点的多边形图。
 
 ```csharp
 public class XpsPolyLineSegment : XpsPathPolySegment
@@ -18,7 +18,7 @@ public class XpsPolyLineSegment : XpsPathPolySegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | 返回/设置指定是否绘制该路径段的笔划的值。 |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | 返回/设置指定是否绘制此段路径的笔划的值。 |
 
 ## 方法
 

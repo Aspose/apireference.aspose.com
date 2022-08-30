@@ -1,14 +1,14 @@
 ---
 title: CreateLinearGradientBrush
 second_title: Справочник по Aspose.Page для .NET API
-description: Создает новую кисть с линейным градиентом.
+description: Создает новую кисть линейного градиента.
 type: docs
 weight: 250
 url: /ru/net/aspose.page.xps/xpsdocument/createlineargradientbrush/
 ---
 ## CreateLinearGradientBrush(List&lt;XpsGradientStop&gt;, PointF, PointF) {#createlineargradientbrush}
 
-Создает новую кисть с линейным градиентом.
+Создает новую кисть линейного градиента.
 
 ```csharp
 public XpsLinearGradientBrush CreateLinearGradientBrush(List<XpsGradientStop> gradientStops, 
@@ -37,7 +37,7 @@ public XpsLinearGradientBrush CreateLinearGradientBrush(List<XpsGradientStop> gr
 
 ## CreateLinearGradientBrush(PointF, PointF) {#createlineargradientbrush_1}
 
-Создает новую кисть с линейным градиентом.
+Создает новую кисть линейного градиента.
 
 ```csharp
 public XpsLinearGradientBrush CreateLinearGradientBrush(PointF startPoint, PointF endPoint)

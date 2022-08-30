@@ -20,7 +20,7 @@ public RectangleF GetPropertyRectangle(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

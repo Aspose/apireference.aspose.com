@@ -8,7 +8,7 @@ url: /zh/net/aspose.page.xps.presentation.image/imagedevice/result/
 ---
 ## ImageDevice.Result property
 
-返回生成的图像字节数组。 第一个维度用于内部文档 第二个维度用于内部文档中的页面。
+返回生成的图像字节数组。 第一个维度用于内部文档 ，第二个维度用于内部文档中的页面。
 
 ```csharp
 public byte[][][] Result { get; }

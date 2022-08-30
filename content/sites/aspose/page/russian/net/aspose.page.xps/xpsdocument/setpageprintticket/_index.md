@@ -1,14 +1,14 @@
 ---
 title: SetPagePrintTicket
 second_title: Справочник по Aspose.Page для .NET API
-description: СвязываетprintTicketсо страницей проиндексированнойpageIndex в документе индексируетсяdocumentIndex.
+description: СвязываетprintTicket на страницу проиндексированнуюpageIndex в документе проиндексированномdocumentIndex .
 type: docs
 weight: 550
 url: /ru/net/aspose.page.xps/xpsdocument/setpageprintticket/
 ---
 ## XpsDocument.SetPagePrintTicket method
 
-Связывает*printTicket*со страницей, проиндексированной*pageIndex* в документе индексируется*documentIndex*.
+Связывает*printTicket* на страницу, проиндексированную*pageIndex* в документе, проиндексированном*documentIndex* .
 
 ```csharp
 public void SetPagePrintTicket(int documentIndex, int pageIndex, PagePrintTicket printTicket)
@@ -16,9 +16,9 @@ public void SetPagePrintTicket(int documentIndex, int pageIndex, PagePrintTicket
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| documentIndex | Int32 | Индекс документа. |
+| documentIndex | Int32 | Указатель документа. |
 | pageIndex | Int32 | Индекс страницы, на которую необходимо связать билет печати. |
-| printTicket | PagePrintTicket | Билет печати для ссылки. |
+| printTicket | PagePrintTicket | Распечатать билет по ссылке. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API 参考
-description: 返回字体转换
+description: 返回字体变换
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.page/itrfont/transform/
 ---
 ## ITrFont.Transform property
 
-返回字体转换。
+返回字体变换。
 
 ```csharp
 public Matrix Transform { get; }

@@ -3,7 +3,7 @@ title: StartDocument
 second_title: Aspose.Page for .NET API 参考
 description: 在开始渲染文档之前对设备进行必要的准备
 type: docs
-weight: 450
+weight: 440
 url: /zh/net/aspose.page.eps.device/imagedevice/startdocument/
 ---
 ## ImageDevice.StartDocument method

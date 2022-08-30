@@ -1,14 +1,14 @@
 ---
 title: FillPolygon
 second_title: Aspose.Page for .NET API 参考
-description: 填充一个poligone
+description: 填充一个 poligone.
 type: docs
 weight: 330
 url: /zh/net/aspose.page/device/fillpolygon/
 ---
 ## FillPolygon(int[], int[], int) {#fillpolygon_1}
 
-填充一个poligone。
+填充一个 poligone.
 
 ```csharp
 public virtual void FillPolygon(int[] xPoints, int[] yPoints, int nPoints)
@@ -30,7 +30,7 @@ public virtual void FillPolygon(int[] xPoints, int[] yPoints, int nPoints)
 
 ## FillPolygon(double[], double[], int) {#fillpolygon}
 
-填充一个poligone。
+填充一个 poligone.
 
 ```csharp
 public virtual void FillPolygon(double[] xPoints, double[] yPoints, int nPoints)

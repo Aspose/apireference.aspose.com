@@ -3,7 +3,7 @@ title: XmpMetadata
 second_title: Aspose.Page for .NET API 参考
 description: 提供对 XMP 元数据流的访问
 type: docs
-weight: 120
+weight: 130
 url: /zh/net/aspose.page.eps.xmp/xmpmetadata/
 ---
 ## XmpMetadata class
@@ -19,8 +19,8 @@ public sealed class XmpMetadata : IDictionary<string, XmpValue>
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.page.eps.xmp/xmpmetadata/count) { get; } | 获取集合中元素的计数。 |
-| [IsFixedSize](../../aspose.page.eps.xmp/xmpmetadata/isfixedsize) { get; } | 检查colleciton是否有固定大小。 |
-| [IsReadOnly](../../aspose.page.eps.xmp/xmpmetadata/isreadonly) { get; } | 检查集合是否为只读。 |
+| [IsFixedSize](../../aspose.page.eps.xmp/xmpmetadata/isfixedsize) { get; } | 检查colleciton 是否有固定大小。 |
+| [IsReadOnly](../../aspose.page.eps.xmp/xmpmetadata/isreadonly) { get; } | 检查集合是否是只读的。 |
 | [IsSynchronized](../../aspose.page.eps.xmp/xmpmetadata/issynchronized) { get; } | 检查收集是否同步。 |
 | [Item](../../aspose.page.eps.xmp/xmpmetadata/item) { get; set; } | 从元数据中获取或设置数据。 |
 | [Keys](../../aspose.page.eps.xmp/xmpmetadata/keys) { get; } | 获取元数据键的集合。 |
@@ -46,8 +46,8 @@ public sealed class XmpMetadata : IDictionary<string, XmpValue>
 | [GetEnumerator](../../aspose.page.eps.xmp/xmpmetadata/getenumerator)() | 返回字典枚举器。 |
 | [GetNamespaceUriByPrefix](../../aspose.page.eps.xmp/xmpmetadata/getnamespaceuribyprefix)(string) | 按前缀返回命名空间 URI。 |
 | [GetPrefixByNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/getprefixbynamespaceuri)(string) | 按命名空间 URI 返回前缀。 |
-| [RegisterNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/registernamespaceuri#registernamespaceuri)(string, string) | 注册命名空间 URI。 |
-| [RegisterNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/registernamespaceuri#registernamespaceuri_1)(string, string, string) | 注册命名空间 URI。 |
+| [RegisterNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/registernamespaceuri#registernamespaceuri)(string, string) | 注册命名空间 URI. |
+| [RegisterNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/registernamespaceuri#registernamespaceuri_1)(string, string, string) | 注册命名空间 URI. |
 | [Remove](../../aspose.page.eps.xmp/xmpmetadata/remove#remove)(KeyValuePair&lt;string, XmpValue&gt;) | 从集合中删除键/值对。 |
 | [Remove](../../aspose.page.eps.xmp/xmpmetadata/remove#remove_1)(string) | 从元数据中删除条目。 |
 | [SetArrayItem](../../aspose.page.eps.xmp/xmpmetadata/setarrayitem)(string, int, XmpValue) | 在数组中设置值。以前的值将被新的值替换。 |

@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.Page for .NET API 参考
-description: 从活动页面中移除一个元素
+description: 从活动页面中删除一个元素
 type: docs
 weight: 460
 url: /zh/net/aspose.page.xps/xpsdocument/remove/
 ---
 ## XpsDocument.Remove&lt;T&gt; method
 
-从活动页面中移除一个元素。
+从活动页面中删除一个元素。
 
 ```csharp
 public T Remove<T>(T element)
@@ -22,7 +22,7 @@ public T Remove<T>(T element)
 
 ### 返回值
 
-已移除元素。
+移除元素。
 
 ### 也可以看看
 

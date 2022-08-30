@@ -3,7 +3,7 @@ title: VERSION5
 second_title: Aspose.Page for .NET API 参考
 description: Adobe Acrobat Reader 版本属性值
 type: docs
-weight: 500
+weight: 490
 url: /zh/net/aspose.page.eps.device/pdfdevice/version5/
 ---
 ## PdfDevice.VERSION5 field

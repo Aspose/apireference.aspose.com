@@ -3,7 +3,7 @@ title: XpsObject
 second_title: Aspose.Page for .NET API 参考
 description: 封装常见 XPS 模型对象特征的类
 type: docs
-weight: 1120
+weight: 3160
 url: /zh/net/aspose.page.xps.xpsmodel/xpsobject/
 ---
 ## XpsObject class

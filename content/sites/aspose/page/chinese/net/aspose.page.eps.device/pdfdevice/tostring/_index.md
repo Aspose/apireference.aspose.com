@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.Page for .NET API 参考
 description: 返回设备类型的名称
 type: docs
-weight: 280
+weight: 270
 url: /zh/net/aspose.page.eps.device/pdfdevice/tostring/
 ---
 ## PdfDevice.ToString method
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-类型名称。
+键入名称。
 
 ### 也可以看看
 

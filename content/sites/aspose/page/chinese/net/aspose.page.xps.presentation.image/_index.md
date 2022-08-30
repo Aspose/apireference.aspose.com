@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page for .NET API 参考
-description: Aspose.Page.Xps.Presentation.Image 命名空间提供了用于渲染 XPS 的类文档到图像
+description: 的 Aspose.Page.Xps.Presentation.Image命名空间提供用于将 XPS 文档呈现为图像的类
 type: docs
 weight: 80
 url: /zh/net/aspose.page.xps.presentation.image/
 ---
-**Aspose.Page.Xps.Presentation.Image** 命名空间提供了用于渲染 XPS 的类文档到图像。
+的 **Aspose.Page.Xps.Presentation.Image**命名空间提供用于将 XPS 文档呈现为图像的类。
 
 ## 课程
 

@@ -1,14 +1,14 @@
 ---
 title: InsertGlyphs
 second_title: Aspose.Page for .NET API 参考
-description: 将新字形插入到此画布的子列表index位置
+description: 在此画布的子列表中插入新字形index位置.
 type: docs
 weight: 90
 url: /zh/net/aspose.page.xps.xpsmodel/xpscanvas/insertglyphs/
 ---
 ## XpsCanvas.InsertGlyphs method
 
-将新字形插入到此画布的子列表*index*位置。
+在此画布的子列表中插入新字形*index*位置.
 
 ```csharp
 public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, FontStyle fontStyle, 
@@ -27,7 +27,7 @@ public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, Font
 
 ### 返回值
 
-添加字形。
+添加了字形。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SupressErrors
 second_title: Aspose.Page for .NET API 参考
-description: 指定是否必须抑制错误 如果真正的抑制错误被添加到Exceptionsaspose.page/saveoptions/exceptions列表 如果为假第一个错误将终止程序
+description: 指定是否必须抑制错误 如果将真正抑制的错误添加到Exceptionsaspose.page/saveoptions/exceptionslist. 如果为假第一个错误将终止程序
 type: docs
 weight: 60
 url: /zh/net/aspose.page/saveoptions/supresserrors/
 ---
 ## SaveOptions.SupressErrors property
 
-指定是否必须抑制错误。 如果真正的抑制错误被添加到[`Exceptions`](../exceptions)列表。 如果为假，第一个错误将终止程序。
+指定是否必须抑制错误。 如果将真正抑制的错误添加到[`Exceptions`](../exceptions)list. 如果为假，第一个错误将终止程序。
 
 ```csharp
 public virtual bool SupressErrors { get; set; }

@@ -3,7 +3,7 @@ title: StartDocument
 second_title: Справочник по Aspose.Page для .NET API
 description: Выполняет необходимую подготовку устройства перед началом рендеринга документа.
 type: docs
-weight: 450
+weight: 440
 url: /ru/net/aspose.page.eps.device/imagedevice/startdocument/
 ---
 ## ImageDevice.StartDocument method

@@ -1,14 +1,14 @@
 ---
 title: SetVisual
 second_title: Aspose.Page for .NET API 参考
-description: 设置visual为视觉画笔的视觉元素
+description: 套visual作为视觉画笔的视觉元素
 type: docs
 weight: 30
 url: /zh/net/aspose.page.xps.xpsmodel/xpsvisualbrush/setvisual/
 ---
 ## XpsVisualBrush.SetVisual method
 
-设置*visual*为视觉画笔的视觉元素。
+套*visual*作为视觉画笔的视觉元素。
 
 ```csharp
 public void SetVisual(XpsContentElement visual)

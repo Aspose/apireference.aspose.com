@@ -1,14 +1,14 @@
 ---
 title: HyperlinkTarget
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает целевой объект гиперссылки.
+description: Возвращает/задает целевой объект гиперссылки.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget/
 ---
 ## XpsHyperlinkElement.HyperlinkTarget property
 
-Возвращает/устанавливает целевой объект гиперссылки.
+Возвращает/задает целевой объект гиперссылки.
 
 ```csharp
 public XpsHyperlinkTarget HyperlinkTarget { get; set; }

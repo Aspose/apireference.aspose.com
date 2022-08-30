@@ -1,14 +1,14 @@
 ---
 title: IsFilled
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置指示路径图形是否用于计算 包含路径几何的区域的值
+description: 返回/设置指示路径图是否用于计算的值 包含路径几何的区域
 type: docs
 weight: 20
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathfigure/isfilled/
 ---
 ## XpsPathFigure.IsFilled property
 
-返回/设置指示路径图形是否用于计算 包含路径几何的区域的值。
+返回/设置指示路径图是否用于计算的值 包含路径几何的区域。
 
 ```csharp
 public bool IsFilled { get; set; }

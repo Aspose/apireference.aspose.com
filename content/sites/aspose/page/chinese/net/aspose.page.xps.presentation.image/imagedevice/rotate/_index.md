@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Aspose.Page for .NET API 参考
-description: 将围绕原点的顺时针旋转应用于当前变换矩阵
+description: 对当前变换矩阵应用绕原点的顺时针旋转
 type: docs
 weight: 270
 url: /zh/net/aspose.page.xps.presentation.image/imagedevice/rotate/
 ---
 ## ImageDevice.Rotate method
 
-将围绕原点的顺时针旋转应用于当前变换矩阵。
+对当前变换矩阵应用绕原点的顺时针旋转。
 
 ```csharp
 public override void Rotate(double theta)
@@ -16,7 +16,7 @@ public override void Rotate(double theta)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| theta | Double | 旋转角度，以弧度为单位。 |
+| theta | Double | 旋转的角度，以弧度为单位。 |
 
 ### 也可以看看
 

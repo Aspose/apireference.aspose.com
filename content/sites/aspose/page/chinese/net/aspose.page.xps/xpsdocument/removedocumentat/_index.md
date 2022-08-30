@@ -1,14 +1,14 @@
 ---
 title: RemoveDocumentAt
 second_title: Aspose.Page for .NET API 参考
-description: 删除index位置的文档
+description: 删除一个文档index位置.
 type: docs
 weight: 480
 url: /zh/net/aspose.page.xps/xpsdocument/removedocumentat/
 ---
 ## XpsDocument.RemoveDocumentAt method
 
-删除*index*位置的文档。
+删除一个文档*index*位置.
 
 ```csharp
 public void RemoveDocumentAt(int index)
@@ -16,7 +16,7 @@ public void RemoveDocumentAt(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 应该删除文档的位置。 |
+| index | Int32 | 应删除文档的位置。 |
 
 ### 也可以看看
 

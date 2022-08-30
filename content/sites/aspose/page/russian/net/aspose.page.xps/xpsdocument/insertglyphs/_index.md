@@ -1,14 +1,14 @@
 ---
 title: InsertGlyphs
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет новые глифы на активную страницу в позицииindex.
+description: Вставляет новые глифы на активную страницу по адресуindex позиция.
 type: docs
 weight: 420
 url: /ru/net/aspose.page.xps/xpsdocument/insertglyphs/
 ---
 ## InsertGlyphs(int, string, float, FontStyle, float, float, string) {#insertglyphs_1}
 
-Вставляет новые глифы на активную страницу в позиции*index*.
+Вставляет новые глифы на активную страницу по адресу*index* позиция.
 
 ```csharp
 public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, FontStyle fontStyle, 
@@ -17,17 +17,17 @@ public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, Font
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую должны быть вставлены новые глифы. |
+| index | Int32 | Позиция, в которой должны быть вставлены новые глифы. |
 | fontFamily | String | Семейство шрифтов. |
 | fontSize | Single | Размер шрифта. |
 | fontStyle | FontStyle | Стиль шрифта. |
-| originX | Single | Начальная координата X глифов. |
-| originY | Single | Начальная координата Y глифов. |
+| originX | Single | Координата X начала координат глифов. |
+| originY | Single | Координата Y начала координат глифов. |
 | unicodeString | String | Строка для печати. |
 
 ### Возвращаемое значение
 
-Вставлены глифы.
+Вставленные глифы.
 
 ### Смотрите также
 
@@ -40,7 +40,7 @@ public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, Font
 
 ## InsertGlyphs(int, XpsFont, float, float, float, string) {#insertglyphs}
 
-Вставляет новые глифы на активную страницу в позиции*index*.
+Вставляет новые глифы на активную страницу по адресу*index* позиция.
 
 ```csharp
 public XpsGlyphs InsertGlyphs(int index, XpsFont font, float fontSize, float originX, 
@@ -49,16 +49,16 @@ public XpsGlyphs InsertGlyphs(int index, XpsFont font, float fontSize, float ori
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую должны быть вставлены новые глифы. |
+| index | Int32 | Позиция, в которой должны быть вставлены новые глифы. |
 | font | XpsFont | Ресурс шрифта. |
 | fontSize | Single | Размер шрифта. |
-| originX | Single | Начальная координата X глифов. |
-| originY | Single | Начальная координата Y глифов. |
+| originX | Single | Координата X начала координат глифов. |
+| originY | Single | Координата Y начала координат глифов. |
 | unicodeString | String | Строка для печати. |
 
 ### Возвращаемое значение
 
-Вставлены глифы.
+Вставленные глифы.
 
 ### Смотрите также
 

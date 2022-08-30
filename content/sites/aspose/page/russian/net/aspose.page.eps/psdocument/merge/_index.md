@@ -17,7 +17,7 @@ public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filesForMerge | String[] | Файлы PS/EPS для объединения с этим файлом в устройство вывода. |
-| device | Device | Устройство вывода. |
+| device | Device | Выходное устройство. |
 | options | SaveOptions | Содержит флаги, определяющие вывод ошибок, возникших во время преобразования. |
 
 ### Смотрите также

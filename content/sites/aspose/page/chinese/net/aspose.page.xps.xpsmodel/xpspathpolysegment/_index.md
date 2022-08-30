@@ -3,7 +3,7 @@ title: XpsPathPolySegment
 second_title: Aspose.Page for .NET API 参考
 description: 类封装了 PolyLineSegmentPolyBézierSegment 和 PolyQuadraticBézierSegment 元素的共同特征
 type: docs
-weight: 1180
+weight: 3220
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class
@@ -18,7 +18,7 @@ public abstract class XpsPathPolySegment : XpsPathSegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | 返回/设置指定是否绘制该路径段的笔划的值。 |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | 返回/设置指定是否绘制此段路径的笔划的值。 |
 
 ### 也可以看看
 

@@ -22,7 +22,7 @@ public void SelectActiveDocument(int documentNumber)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Вызывается, когда *documentNumber*выходит за пределы. |
+| ArgumentException | Выброшено, когда *documentNumber* находится за пределами. |
 
 ### Смотрите также
 

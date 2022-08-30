@@ -3,7 +3,7 @@ title: GetProperty
 second_title: Справочник по Aspose.Page для .NET API
 description: Получает значение строкового свойства.
 type: docs
-weight: 260
+weight: 250
 url: /ru/net/aspose.page.eps.device/imagedevice/getproperty/
 ---
 ## ImageDevice.GetProperty method
@@ -20,7 +20,7 @@ public string GetProperty(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

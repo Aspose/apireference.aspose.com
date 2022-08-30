@@ -1,14 +1,14 @@
 ---
 title: TryGetValue
 second_title: Справочник по Aspose.Page для .NET API
-description: Пытается найти ключ в словаре и возвращает значение если оно найдено.
+description: Пытается найти ключ в словаре и извлекает значение если оно найдено.
 type: docs
 weight: 240
 url: /ru/net/aspose.page.eps.xmp/xmpmetadata/trygetvalue/
 ---
 ## XmpMetadata.TryGetValue method
 
-Пытается найти ключ в словаре и возвращает значение, если оно найдено.
+Пытается найти ключ в словаре и извлекает значение, если оно найдено.
 
 ```csharp
 public bool TryGetValue(string key, out XmpValue value)

@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.Page for .NET API 参考
-description: 将项目列表添加到特征项目列表的末尾 每一个都必须是Featureaspose.page.xps.xpsmetadata/featureOptionaspose.page.xps.xpsmetadata/option或Propertyaspose.page.xps.xpsmetadata/property对象
+description: 将项目列表添加到此功能项目列表的末尾 每一个都必须是一个Featureaspose.page.xps.xpsmetadata/feature 一个Optionaspose.page.xps.xpsmetadata/option或一个Propertyaspose.page.xps.xpsmetadata/property实例.
 type: docs
-weight: 30
+weight: 20
 url: /zh/net/aspose.page.xps.xpsmetadata/feature/add/
 ---
 ## Feature.Add method
 
-将项目列表添加到特征项目列表的末尾。 每一个都必须是[`Feature`](../../feature),[`Option`](../../option)或[`Property`](../../property)对象。
+将项目列表添加到此功能项目列表的末尾。 每一个都必须是一个[`Feature`](../../feature)， 一个[`Option`](../../option)或一个[`Property`](../../property)实例.
 
 ```csharp
 public void Add(params IFeatureItem[] items)

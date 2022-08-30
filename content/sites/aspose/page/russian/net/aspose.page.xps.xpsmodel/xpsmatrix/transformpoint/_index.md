@@ -16,7 +16,7 @@ public PointF TransformPoint(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | Точка. |
+| point | PointF | Смысл. |
 
 ### Возвращаемое значение
 

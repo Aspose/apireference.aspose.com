@@ -1,14 +1,14 @@
 ---
 title: FillRule
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置指定几何 形状的相交区域如何组合以形成区域的值
+description: 返回/设置指定几何形状的相交区域如何组合成区域的值
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathgeometry/fillrule/
 ---
 ## XpsPathGeometry.FillRule property
 
-返回/设置指定几何 形状的相交区域如何组合以形成区域的值。
+返回/设置指定几何形状的相交区域如何组合成区域的值。
 
 ```csharp
 public XpsFillRule FillRule { get; set; }

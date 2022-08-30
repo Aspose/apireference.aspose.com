@@ -16,7 +16,7 @@ public XpsPolyLineSegment Clone()
 
 ### 返回值
 
-克隆此多边形。
+克隆这个多边形。
 
 ### 也可以看看
 

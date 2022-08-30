@@ -1,14 +1,14 @@
 ---
 title: RadiusY
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置定义径向渐变的椭圆的 y 维半径
+description: 返回/设置定义径向梯度的椭圆的 y 维半径
 type: docs
 weight: 40
 url: /zh/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusy/
 ---
 ## XpsRadialGradientBrush.RadiusY property
 
-返回/设置定义径向渐变的椭圆的 y 维半径。
+返回/设置定义径向梯度的椭圆的 y 维半径。
 
 ```csharp
 public float RadiusY { get; set; }

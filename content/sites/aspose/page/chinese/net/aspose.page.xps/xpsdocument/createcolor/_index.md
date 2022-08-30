@@ -16,11 +16,11 @@ public XpsColor CreateColor(Color color)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | RGB 颜色的原生颜色实例。 |
+| color | Color | RGB 颜色的本机颜色实例。 |
 
 ### 返回值
 
-新颜色。
+新的颜色。
 
 ### 也可以看看
 
@@ -48,7 +48,7 @@ public XpsColor CreateColor(int a, int r, int g, int b)
 
 ### 返回值
 
-新颜色。
+新的颜色。
 
 ### 也可以看看
 
@@ -75,7 +75,7 @@ public XpsColor CreateColor(int r, int g, int b)
 
 ### 返回值
 
-新颜色。
+新的颜色。
 
 ### 也可以看看
 
@@ -103,7 +103,7 @@ public XpsColor CreateColor(float a, float r, float g, float b)
 
 ### 返回值
 
-新颜色。
+新的颜色。
 
 ### 也可以看看
 
@@ -130,7 +130,7 @@ public XpsColor CreateColor(float r, float g, float b)
 
 ### 返回值
 
-新颜色。
+新的颜色。
 
 ### 也可以看看
 
@@ -156,7 +156,7 @@ public XpsColor CreateColor(string path, params float[] components)
 
 ### 返回值
 
-新颜色。
+新的颜色。
 
 ### 也可以看看
 
@@ -182,7 +182,7 @@ public XpsColor CreateColor(XpsIccProfile iccProfile, params float[] components)
 
 ### 返回值
 
-新颜色。
+新的颜色。
 
 ### 也可以看看
 

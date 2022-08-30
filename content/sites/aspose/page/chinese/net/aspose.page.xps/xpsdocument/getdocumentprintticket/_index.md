@@ -1,14 +1,14 @@
 ---
 title: GetDocumentPrintTicket
 second_title: Aspose.Page for .NET API 参考
-description: 返回由documentIndex索引的文档的打印票
+description: 返回由索引的文档的打印票documentIndex.
 type: docs
 weight: 370
 url: /zh/net/aspose.page.xps/xpsdocument/getdocumentprintticket/
 ---
 ## XpsDocument.GetDocumentPrintTicket method
 
-返回由*documentIndex*索引的文档的打印票。
+返回由索引的文档的打印票*documentIndex*.
 
 ```csharp
 public DocumentPrintTicket GetDocumentPrintTicket(int documentIndex)
@@ -20,7 +20,7 @@ public DocumentPrintTicket GetDocumentPrintTicket(int documentIndex)
 
 ### 返回值
 
-文档的打印票。
+文件的打印票。
 
 ### 也可以看看
 

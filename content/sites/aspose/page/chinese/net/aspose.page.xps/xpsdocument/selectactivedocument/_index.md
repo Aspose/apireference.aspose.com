@@ -16,13 +16,13 @@ public void SelectActiveDocument(int documentNumber)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| documentNumber | Int32 | 文档编号。 |
+| documentNumber | Int32 | 一个文件编号。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 当 *documentNumber*越界时抛出。 |
+| ArgumentException | 时抛出*documentNumber*超出范围。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.Page for .NET API 参考
-description: 处置设备
+description: 处理设备
 type: docs
 weight: 180
 url: /zh/net/aspose.page/device/dispose/
 ---
 ## Device.Dispose method
 
-处置设备。
+处理设备。
 
 ```csharp
 public virtual void Dispose()

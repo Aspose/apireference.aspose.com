@@ -3,7 +3,7 @@ title: TextRenderingMode
 second_title: Aspose.Page for .NET API 参考
 description: 此枚举包含文本呈现模式的可能值
 type: docs
-weight: 230
+weight: 250
 url: /zh/net/aspose.page/textrenderingmode/
 ---
 ## TextRenderingMode enumeration
@@ -18,8 +18,8 @@ public enum TextRenderingMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Fill | `0` | 填写一个文本。 |
-| Stroke | `1` | 描边文本。 |
+| Fill | `0` | 填写一段文字。 |
+| Stroke | `1` | 描边一段文字。 |
 | FillAndStroke | `2` | 填充和描边文本。 |
 | No | `3` | 既不填充也不描边文本。 |
 

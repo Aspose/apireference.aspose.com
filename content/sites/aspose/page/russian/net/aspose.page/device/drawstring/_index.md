@@ -16,9 +16,9 @@ public virtual void DrawString(string str, double x, double y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| str | String | Строка для рисования. |
+| str | String | Строка, которую нужно нарисовать. |
 | x | Double | X координата точки. |
-| y | Double | Y координата точки. |
+| y | Double | Координата Y точки. |
 
 ### Смотрите также
 

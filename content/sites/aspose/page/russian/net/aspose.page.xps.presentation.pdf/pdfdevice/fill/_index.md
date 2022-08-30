@@ -16,7 +16,7 @@ public override void Fill(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | Путь для заполнения. |
+| path | GraphicsPath | Путь к заполнению. |
 
 ### Смотрите также
 

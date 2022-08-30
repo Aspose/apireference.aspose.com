@@ -3,7 +3,7 @@ title: UpdatePageParameters
 second_title: Aspose.Page for .NET API 参考
 description: 从其他多页设备更新页面参数
 type: docs
-weight: 310
+weight: 300
 url: /zh/net/aspose.page.eps.device/pdfdevice/updatepageparameters/
 ---
 ## PdfDevice.UpdatePageParameters method

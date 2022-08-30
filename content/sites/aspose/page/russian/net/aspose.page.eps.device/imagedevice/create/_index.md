@@ -3,7 +3,7 @@ title: Create
 second_title: Справочник по Aspose.Page для .NET API
 description: Создает копию этого устройства.
 type: docs
-weight: 190
+weight: 180
 url: /ru/net/aspose.page.eps.device/imagedevice/create/
 ---
 ## ImageDevice.Create method

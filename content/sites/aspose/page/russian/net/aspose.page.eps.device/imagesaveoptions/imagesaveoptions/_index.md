@@ -1,14 +1,14 @@
 ---
 title: ImageSaveOptions
 second_title: Справочник по Aspose.Page для .NET API
-description: Инициализирует новый экземпляр классаImageSaveOptionsaspose.page.eps.device/imagesaveoptionsсо значениями по умолчанию для флаговSuppressErrorstrue иDebugfalse.
+description: Инициализирует новый экземплярImageSaveOptionsaspose.page.eps.device/imagesaveoptions класс со значениями по умолчанию для флаговSuppressErrors правда иDebug ложь.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.eps.device/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageSaveOptions`](../../imagesaveoptions)со значениями по умолчанию для флагов!:SuppressErrors(true) и!:Debug(false).
+Инициализирует новый экземпляр[`ImageSaveOptions`](../../imagesaveoptions) класс со значениями по умолчанию для флагов!:SuppressErrors (правда) и!:Debug (ложь).
 
 ```csharp
 public ImageSaveOptions()
@@ -24,7 +24,7 @@ public ImageSaveOptions()
 
 ## ImageSaveOptions(bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`ImageSaveOptions`](../../imagesaveoptions)со значением по умолчанию для флага!:Debug(false).
+Инициализирует новый экземпляр[`ImageSaveOptions`](../../imagesaveoptions) with значение по умолчанию для флага!:Debug (ложь).
 
 ```csharp
 public ImageSaveOptions(bool supressErrors)
@@ -32,7 +32,7 @@ public ImageSaveOptions(bool supressErrors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| supressErrors | Boolean | Указывает, должны ли быть подавлены ошибки. Если true, в список!:Exceptionsдобавляются подавленные ошибки. |
+| supressErrors | Boolean | Указывает, должны ли подавляться ошибки. Если истинные подавленные ошибки добавляются!:Exceptions список. |
 
 ### Смотрите также
 

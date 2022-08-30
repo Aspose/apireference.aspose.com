@@ -16,7 +16,7 @@ public virtual void Transform(Matrix transform)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| transform | Matrix | Transform 被应用。 |
+| transform | Matrix | 要应用的变换。 |
 
 ### 也可以看看
 

@@ -16,11 +16,11 @@ public Size GetPropertySize(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 
 ### 返回值
 
-属性值。
+财产价值。
 
 ### 也可以看看
 

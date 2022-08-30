@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Aspose.Page for .NET API 参考
-description: 按angle顺时针旋转此矩阵按顺序 由指定matrixOrder.
+description: 应用顺时针旋转angle到这个矩阵的 order 指定的matrixOrder.
 type: docs
 weight: 130
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/rotate/
 ---
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-按*angle*顺时针旋转此矩阵，按顺序 由指定*matrixOrder*.
+应用顺时针旋转*angle*到这个矩阵的 order 指定的*matrixOrder*.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder matrixOrder)
@@ -17,7 +17,7 @@ public void Rotate(float angle, MatrixOrder matrixOrder)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | angle | Single | 角度。 |
-| matrixOrder | MatrixOrder | 顺序。 |
+| matrixOrder | MatrixOrder | 命令。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Rotate(float angle, MatrixOrder matrixOrder)
 
 ## Rotate(float) {#rotate}
 
-按默认（前置）顺序将*angle*顺时针旋转应用于此矩阵。
+应用顺时针旋转*angle*以默认（前置）顺序到此矩阵。
 
 ```csharp
 public void Rotate(float angle)

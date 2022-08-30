@@ -16,7 +16,7 @@ public int GetTextWidthLis(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст для вычисления. |
+| text | String | Текст для расчета. |
 
 ### Возвращаемое значение
 

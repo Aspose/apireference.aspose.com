@@ -1,14 +1,14 @@
 ---
 title: IsItalic
 second_title: Aspose.Page for .NET API 参考
-description: 获取指示此实例是否为斜体的值
+description: 获取一个值该值指示此实例是否为斜体
 type: docs
 weight: 90
 url: /zh/net/aspose.page.font/drfont/isitalic/
 ---
 ## DrFont.IsItalic property
 
-获取指示此实例是否为斜体的值。
+获取一个值，该值指示此实例是否为斜体。
 
 ```csharp
 public bool IsItalic { get; }
@@ -16,7 +16,7 @@ public bool IsItalic { get; }
 
 ### 适当的价值
 
-` true` 如果此实例为斜体；否则，` false` 。
+`真的`如果这个实例是斜体；否则，`错误的`.
 
 ### 也可以看看
 

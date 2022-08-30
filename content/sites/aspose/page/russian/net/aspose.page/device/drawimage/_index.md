@@ -1,14 +1,14 @@
 ---
 title: DrawImage
 second_title: Справочник по Aspose.Page для .NET API
-description: Рисует изображение с заданным преобразованием и фоном.
+description: Рисует изображение с назначенным преобразованием и фоном.
 type: docs
 weight: 210
 url: /ru/net/aspose.page/device/drawimage/
 ---
 ## Device.DrawImage method
 
-Рисует изображение с заданным преобразованием и фоном.
+Рисует изображение с назначенным преобразованием и фоном.
 
 ```csharp
 public virtual void DrawImage(Bitmap image, Matrix transform, Color bkg)
@@ -16,7 +16,7 @@ public virtual void DrawImage(Bitmap image, Matrix transform, Color bkg)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Bitmap | Изображение для рисования. |
+| image | Bitmap | Изображение, которое нужно нарисовать. |
 | transform | Matrix | Преобразование. |
 | bkg | Color | Цвет фона. |
 

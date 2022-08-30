@@ -1,14 +1,14 @@
 ---
 title: RemovePageAt
 second_title: Справочник по Aspose.Page для .NET API
-description: Удаляет страницу из документа в позицииindex.
+description: Удаляет страницу из документа вindex позиция.
 type: docs
 weight: 500
 url: /ru/net/aspose.page.xps/xpsdocument/removepageat/
 ---
 ## XpsDocument.RemovePageAt method
 
-Удаляет страницу из документа в позиции*index*.
+Удаляет страницу из документа в*index* позиция.
 
 ```csharp
 public XpsPage RemovePageAt(int index)

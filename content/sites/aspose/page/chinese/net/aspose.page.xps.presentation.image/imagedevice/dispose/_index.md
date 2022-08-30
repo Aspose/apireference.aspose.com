@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.Page for .NET API 参考
-description: 释放此设备实例最终确定此设备实例图形状态 即将 APS 组合上下文切换到比此 设备更高级别的ApsCanvas图形状态ApsCanvas
+description: 释放此设备实例最终确定此设备实例图形状态 即将 APS 组合上下文切换到ApsCanvas高于 this 设备的图形状态的级别ApsCanvas.
 type: docs
 weight: 160
 url: /zh/net/aspose.page.xps.presentation.image/imagedevice/dispose/
 ---
 ## ImageDevice.Dispose method
 
-释放此设备实例。最终确定此设备实例图形状态， 即将 APS 组合上下文切换到比此 设备更高级别的ApsCanvas图形状态ApsCanvas。
+释放此设备实例。最终确定此设备实例图形状态， 即将 APS 组合上下文切换到ApsCanvas高于 this 设备的图形状态的级别ApsCanvas.
 
 ```csharp
 public override void Dispose()

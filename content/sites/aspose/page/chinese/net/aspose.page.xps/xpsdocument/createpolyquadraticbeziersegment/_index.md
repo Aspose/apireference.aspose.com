@@ -1,14 +1,14 @@
 ---
 title: CreatePolyQuadraticBezierSegment
 second_title: Aspose.Page for .NET API 参考
-description: 使用指定的控制点从路径图中的前一个点通过一组 顶点创建一组新的二次贝塞尔曲线
+description: 使用指定的控制点从路径图中的前一个点通过顶点集 创建一组新的二次贝塞尔曲线
 type: docs
 weight: 320
 url: /zh/net/aspose.page.xps/xpsdocument/createpolyquadraticbeziersegment/
 ---
 ## XpsDocument.CreatePolyQuadraticBezierSegment method
 
-使用指定的控制点从路径图中的前一个点通过一组 顶点创建一组新的二次贝塞尔曲线。
+使用指定的控制点从路径图中的前一个点通过顶点集 创建一组新的二次贝塞尔曲线。
 
 ```csharp
 public XpsPolyQuadraticBezierSegment CreatePolyQuadraticBezierSegment(PointF[] points, 
@@ -18,7 +18,7 @@ public XpsPolyQuadraticBezierSegment CreatePolyQuadraticBezierSegment(PointF[] p
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | points | PointF[] | 多个二次贝塞尔线段的控制点。 |
-| isStroked | Boolean | 指定是否绘制此段路径的笔划。 |
+| isStroked | Boolean | 指定是否绘制此路径段的笔画。 |
 
 ### 返回值
 

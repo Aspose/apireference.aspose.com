@@ -1,14 +1,14 @@
 ---
 title: RemoveDocumentAt
 second_title: Справочник по Aspose.Page для .NET API
-description: Удаляет документ в позицииindex.
+description: Удаляет документ вindex позиция.
 type: docs
 weight: 480
 url: /ru/net/aspose.page.xps/xpsdocument/removedocumentat/
 ---
 ## XpsDocument.RemoveDocumentAt method
 
-Удаляет документ в позиции*index*.
+Удаляет документ в*index* позиция.
 
 ```csharp
 public void RemoveDocumentAt(int index)

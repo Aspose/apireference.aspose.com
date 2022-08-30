@@ -3,7 +3,7 @@ title: InitClip
 second_title: Справочник по Aspose.Page для .NET API
 description: Инициализирует клип устройства.
 type: docs
-weight: 170
+weight: 160
 url: /ru/net/aspose.page.eps.device/pdfdevice/initclip/
 ---
 ## PdfDevice.InitClip method

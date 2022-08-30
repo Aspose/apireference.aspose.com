@@ -3,7 +3,7 @@ title: SUBJECT
 second_title: Справочник по Aspose.Page для .NET API
 description: Значение свойства Тема.
 type: docs
-weight: 460
+weight: 450
 url: /ru/net/aspose.page.eps.device/pdfdevice/subject/
 ---
 ## PdfDevice.SUBJECT field

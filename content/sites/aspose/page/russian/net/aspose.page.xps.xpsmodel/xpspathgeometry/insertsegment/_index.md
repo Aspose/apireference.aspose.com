@@ -1,14 +1,14 @@
 ---
 title: InsertSegment
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет сегмент пути в список дочерних сегментов последней фигуры пути в позицииindex.
+description: Вставляет сегмент пути в список дочерних сегментов последней фигуры пути вindex позиция.
 type: docs
 weight: 60
 url: /ru/net/aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment/
 ---
 ## XpsPathGeometry.InsertSegment method
 
-Вставляет сегмент пути в список дочерних сегментов последней фигуры пути в позиции*index*.
+Вставляет сегмент пути в список дочерних сегментов последней фигуры пути в*index* позиция.
 
 ```csharp
 public XpsPathSegment InsertSegment(int index, XpsPathSegment segment)

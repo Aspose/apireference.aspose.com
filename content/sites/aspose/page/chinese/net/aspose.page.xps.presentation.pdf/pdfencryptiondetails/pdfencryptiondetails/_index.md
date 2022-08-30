@@ -1,14 +1,14 @@
 ---
 title: PdfEncryptionDetails
 second_title: Aspose.Page for .NET API 参考
-description: 初始化PdfEncryptionDetailsCore类的新实例
+description: 初始化PdfEncryptionDetailsCore类.
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails constructor
 
-初始化PdfEncryptionDetailsCore类的新实例。
+初始化PdfEncryptionDetailsCore类.
 
 ```csharp
 public PdfEncryptionDetails(string userPassword, string ownerPassword, int permissions, 

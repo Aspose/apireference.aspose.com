@@ -3,7 +3,7 @@ title: PRODUCER
 second_title: Aspose.Page for .NET API 参考
 description: 生产者属性值
 type: docs
-weight: 600
+weight: 590
 url: /zh/net/aspose.page.eps.device/imagedevice/producer/
 ---
 ## ImageDevice.PRODUCER field

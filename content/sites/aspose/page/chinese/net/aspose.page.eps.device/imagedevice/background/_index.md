@@ -3,7 +3,7 @@ title: BACKGROUND
 second_title: Aspose.Page for .NET API 参考
 description: 背景属性键
 type: docs
-weight: 510
+weight: 500
 url: /zh/net/aspose.page.eps.device/imagedevice/background/
 ---
 ## ImageDevice.BACKGROUND field

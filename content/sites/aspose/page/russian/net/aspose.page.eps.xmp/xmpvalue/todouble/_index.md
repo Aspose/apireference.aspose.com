@@ -1,14 +1,14 @@
 ---
 title: ToDouble
 second_title: Справочник по Aspose.Page для .NET API
-description: Преобразует в двойной.
+description: Преобразуется в двойное.
 type: docs
 weight: 150
 url: /ru/net/aspose.page.eps.xmp/xmpvalue/todouble/
 ---
 ## XmpValue.ToDouble method
 
-Преобразует в двойной.
+Преобразуется в двойное.
 
 ```csharp
 public double ToDouble()

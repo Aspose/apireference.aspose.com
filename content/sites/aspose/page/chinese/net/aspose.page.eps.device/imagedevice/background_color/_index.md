@@ -3,7 +3,7 @@ title: BACKGROUND_COLOR
 second_title: Aspose.Page for .NET API 参考
 description: 背景颜色属性键
 type: docs
-weight: 520
+weight: 510
 url: /zh/net/aspose.page.eps.device/imagedevice/background_color/
 ---
 ## ImageDevice.BACKGROUND_COLOR field

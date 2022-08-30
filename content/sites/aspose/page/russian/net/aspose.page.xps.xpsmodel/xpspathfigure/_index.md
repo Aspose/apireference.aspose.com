@@ -3,7 +3,7 @@ title: XpsPathFigure
 second_title: Справочник по Aspose.Page для .NET API
 description: Класс инкапсулирующий функции элемента PathFigure. Этот элемент состоит из набора одного или нескольких сегментов линии или кривой.
 type: docs
-weight: 1160
+weight: 3200
 url: /ru/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class
@@ -19,8 +19,8 @@ public class XpsPathFigure : XpsArray<XpsPathSegment>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpsarray`1/count) { get; } |  |
-| [IsClosed](../../aspose.page.xps.xpsmodel/xpspathfigure/isclosed) { get; set; } | Возвращает/устанавливает значение, указывающее, замкнута ли фигура пути. |
-| [IsFilled](../../aspose.page.xps.xpsmodel/xpspathfigure/isfilled) { get; set; } | Возвращает/устанавливает значение, указывающее, используется ли фигура пути при вычислении области содержащей геометрию пути. |
+| [IsClosed](../../aspose.page.xps.xpsmodel/xpspathfigure/isclosed) { get; set; } | Возвращает/задает значение, указывающее, закрыта ли фигура пути. |
+| [IsFilled](../../aspose.page.xps.xpsmodel/xpspathfigure/isfilled) { get; set; } | Возвращает/устанавливает значение, указывающее, используется ли фигура пути в вычислении области содержащей геометрию пути. |
 | [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } |  |
 | [Segments](../../aspose.page.xps.xpsmodel/xpspathfigure/segments) { get; } | Возвращает список дочерних сегментов пути. |
 | [StartPoint](../../aspose.page.xps.xpsmodel/xpspathfigure/startpoint) { get; set; } | Возвращает/устанавливает начальную точку для первого сегмента фигуры пути. |

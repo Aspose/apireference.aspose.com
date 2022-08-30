@@ -16,7 +16,7 @@ public XpsPage AddPage(bool activate = true)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| activate | Boolean | 指示是否选择添加页面为活动的标志。 |
+| activate | Boolean | 指示是否将添加的页面选择为活动的标志。 |
 
 ### 返回值
 
@@ -33,7 +33,7 @@ public XpsPage AddPage(bool activate = true)
 
 ## AddPage(float, float, bool) {#addpage_2}
 
-将一个空页面添加到具有指定 *width*和*height*的文档.
+将一个空页面添加到具有指定 的文档中*width*和*height*.
 
 ```csharp
 public XpsPage AddPage(float width, float height, bool activate = true)
@@ -43,7 +43,7 @@ public XpsPage AddPage(float width, float height, bool activate = true)
 | --- | --- | --- |
 | width | Single | 新页面的宽度。 |
 | height | Single | 新页面的高度。 |
-| activate | Boolean | 指示是否选择添加页面为活动的标志。 |
+| activate | Boolean | 指示是否将添加的页面选择为活动的标志。 |
 
 ### 返回值
 
@@ -69,7 +69,7 @@ public XpsPage AddPage(XpsPage page, bool activate = true)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | XpsPage | 要添加的页面。 |
-| activate | Boolean | 指示是否选择添加页面为活动的标志。 |
+| activate | Boolean | 指示是否将添加的页面选择为活动的标志。 |
 
 ### 返回值
 

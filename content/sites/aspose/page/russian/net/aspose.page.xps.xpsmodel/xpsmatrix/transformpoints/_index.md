@@ -18,7 +18,7 @@ public void TransformPoints(PointF[] points, int startIndex, int numberOfPoints)
 | --- | --- | --- |
 | points | PointF[] | Точки. |
 | startIndex | Int32 | Начальный индекс. |
-| numberOfPoints | Int32 | Количество точек. |
+| numberOfPoints | Int32 | Количество баллов. |
 
 ### Смотрите также
 

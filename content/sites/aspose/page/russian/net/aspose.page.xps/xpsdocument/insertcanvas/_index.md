@@ -1,14 +1,14 @@
 ---
 title: InsertCanvas
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет новый холст на активную страницу в позицииindex.
+description: Вставляет новый холст на активную страницу вindex позиция.
 type: docs
 weight: 400
 url: /ru/net/aspose.page.xps/xpsdocument/insertcanvas/
 ---
 ## XpsDocument.InsertCanvas method
 
-Вставляет новый холст на активную страницу в позиции*index*.
+Вставляет новый холст на активную страницу в*index* позиция.
 
 ```csharp
 public XpsCanvas InsertCanvas(int index)
@@ -16,7 +16,7 @@ public XpsCanvas InsertCanvas(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую следует вставить новый холст. |
+| index | Int32 | Позиция, в которой должен быть вставлен новый холст. |
 
 ### Возвращаемое значение
 

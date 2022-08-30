@@ -1,14 +1,14 @@
 ---
 title: IccProfile
 second_title: Aspose.Page for .NET API 参考
-description: 返回颜色所基于的 ICC 配置文件资源
+description: 返回颜色基于的 ICC 配置文件资源
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/iccprofile/
 ---
 ## XpsIccBasedColor.IccProfile property
 
-返回颜色所基于的 ICC 配置文件资源。
+返回颜色基于的 ICC 配置文件资源。
 
 ```csharp
 public XpsIccProfile IccProfile { get; }

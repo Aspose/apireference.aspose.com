@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.Page for .NET API 参考
-description: 通过索引i提供对元素子元素的访问
+description: 通过索引提供对元素子项的访问i.
 type: docs
 weight: 20
 url: /zh/net/aspose.page.xps.xpsmodel/xpselement/item/
 ---
 ## XpsElement indexer
 
-通过索引*i*提供对元素子元素的访问。
+通过索引提供对元素子项的访问*i*.
 
 ```csharp
 public XpsContentElement this[int i] { get; }
@@ -20,7 +20,7 @@ public XpsContentElement this[int i] { get; }
 
 ### 返回值
 
-*i*位置的子元素。
+子元素在*i*位置。
 
 ### 也可以看看
 

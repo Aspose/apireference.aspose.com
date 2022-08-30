@@ -1,14 +1,14 @@
 ---
 title: Reset
 second_title: Справочник по Aspose.Page для .NET API
-description: Сбрасывает эту матрицу в единичную матрицу.
+description: Сбрасывает эту матрицу в идентификационную матрицу.
 type: docs
 weight: 120
 url: /ru/net/aspose.page.xps.xpsmodel/xpsmatrix/reset/
 ---
 ## XpsMatrix.Reset method
 
-Сбрасывает эту матрицу в единичную матрицу.
+Сбрасывает эту матрицу в идентификационную матрицу.
 
 ```csharp
 public void Reset()

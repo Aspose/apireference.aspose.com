@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.Page для .NET API
-description: Применяет указанный вектор масштаба к текущей матрице преобразования.
+description: Применяет указанный вектор масштабирования к текущей матрице преобразования.
 type: docs
 weight: 280
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfdevice/scale/
 ---
 ## PdfDevice.Scale method
 
-Применяет указанный вектор масштаба к текущей матрице преобразования.
+Применяет указанный вектор масштабирования к текущей матрице преобразования.
 
 ```csharp
 public override void Scale(double x, double y)

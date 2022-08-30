@@ -3,7 +3,7 @@ title: IsProperty
 second_title: Справочник по Aspose.Page для .NET API
 description: Получает значение логического свойства.
 type: docs
-weight: 360
+weight: 350
 url: /ru/net/aspose.page.eps.device/imagedevice/isproperty/
 ---
 ## ImageDevice.IsProperty method
@@ -20,7 +20,7 @@ public bool IsProperty(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

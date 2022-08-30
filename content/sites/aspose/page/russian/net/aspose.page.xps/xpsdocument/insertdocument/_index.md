@@ -1,14 +1,14 @@
 ---
 title: InsertDocument
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет пустой документ с размером страницы по умолчанию в позициюindex.
+description: Вставляет пустой документ с размером страницы по умолчанию вindex позиция.
 type: docs
 weight: 410
 url: /ru/net/aspose.page.xps/xpsdocument/insertdocument/
 ---
 ## InsertDocument(int, bool) {#insertdocument}
 
-Вставляет пустой документ с размером страницы по умолчанию в позицию*index*.
+Вставляет пустой документ с размером страницы по умолчанию в*index* позиция.
 
 ```csharp
 public void InsertDocument(int index, bool activate = true)
@@ -29,7 +29,7 @@ public void InsertDocument(int index, bool activate = true)
 
 ## InsertDocument(int, float, float, bool) {#insertdocument_1}
 
-Вставляет пустой документ с размерами первой страницы *ширина*и*высота*at*index*position.
+Вставляет пустой документ с размерами первой страницы *width* а также*height* в*index* позиция.
 
 ```csharp
 public void InsertDocument(int index, float width, float height, bool activate = true)

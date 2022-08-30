@@ -1,14 +1,14 @@
 ---
 title: CellHeightLis
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает высоту ячейки этого шрифта lis. Это ярлык дляAscentLisaspose.page.font/drfont/ascentlisDescentLisaspose.page.font/drfont/descentlis.
+description: Возвращает высоту ячейки этого шрифта lis. Это ярлык дляAscentLisaspose.page.font/drfont/ascentlis DescentLisaspose.page.font/drfont/descentlis .
 type: docs
 weight: 30
 url: /ru/net/aspose.page.font/drfont/cellheightlis/
 ---
 ## DrFont.CellHeightLis property
 
-Возвращает высоту ячейки этого шрифта (lis). Это ярлык для[`AscentLis`](../ascentlis)+[`DescentLis`](../descentlis).
+Возвращает высоту ячейки этого шрифта (lis). Это ярлык для[`AscentLis`](../ascentlis) +[`DescentLis`](../descentlis) .
 
 ```csharp
 public int CellHeightLis { get; }

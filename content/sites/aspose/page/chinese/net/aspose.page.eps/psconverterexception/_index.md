@@ -1,14 +1,14 @@
 ---
 title: PsConverterException
 second_title: Aspose.Page for .NET API 参考
-description: 此类包含有关将 PS 文件转换为 PDF 文档时引发 错误的信息
+description: 此类包含有关 PS 文件转换为 PDF 文档时 引发的错误的信息
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.page.eps/psconverterexception/
 ---
 ## PsConverterException class
 
-此类包含有关将 PS 文件转换为 PDF 文档时引发 错误的信息。
+此类包含有关 PS 文件转换为 PDF 文档时 引发的错误的信息。
 
 ```csharp
 public class PsConverterException : Exception
@@ -18,7 +18,7 @@ public class PsConverterException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PsConverterException](psconverterexception)(string) | 初始化[`PsConverterException`](../psconverterexception)类的新实例。 |
+| [PsConverterException](psconverterexception)(string) | 初始化[`PsConverterException`](../psconverterexception)类. |
 
 ### 也可以看看
 

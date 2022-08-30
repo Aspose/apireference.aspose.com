@@ -16,8 +16,8 @@ public XpsPathFigure CreatePathFigure(PointF startPoint, bool isClosed = false)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| startPoint | PointF | 路径图第一段的起点。 |
-| isClosed | Boolean | 指定路径是否关闭。如果设置为true，则画笔画 “闭合”，即路径图的最后一段中的最后一个点与StartPoint中指定的点 相连属性，否则笔画绘制为“开放”，并且 最后一个点不连接到起点。仅当路径图是 用于指定笔划的 {Path} 元素时才适用。 |
+| startPoint | PointF | 路径图的第一段的起点。 |
+| isClosed | Boolean | 指定路径是否关闭。如果设置为true，则笔画绘制 “闭合”，即路径图的最后一段中的最后一个点与StartPoint属性中指定的 点相连，否则笔画绘制“开放”和 最后一个点未连接到起点。仅当路径图 is 用于指定笔划的 {Path} 元素中时才适用。 |
 
 ### 返回值
 
@@ -43,9 +43,9 @@ public XpsPathFigure CreatePathFigure(PointF startPoint, List<XpsPathSegment> se
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| startPoint | PointF | 路径图第一段的起点。 |
+| startPoint | PointF | 路径图的第一段的起点。 |
 | segments | List`1 | 路径段列表。 |
-| isClosed | Boolean | 指定路径是否关闭。如果设置为true，则画笔画 “闭合”，即路径图的最后一段中的最后一个点与StartPoint中指定的点 相连属性，否则笔画绘制为“开放”，并且 最后一个点不连接到起点。仅当路径图是 用于指定笔划的 {Path} 元素时才适用。 |
+| isClosed | Boolean | 指定路径是否关闭。如果设置为true，则笔画绘制 “闭合”，即路径图的最后一段中的最后一个点与StartPoint属性中指定的 点相连，否则笔画绘制“开放”和 最后一个点未连接到起点。仅当路径图 is 用于指定笔划的 {Path} 元素中时才适用。 |
 
 ### 返回值
 

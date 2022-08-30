@@ -3,7 +3,7 @@ title: XpsImage
 second_title: Aspose.Page for .NET API 参考
 description: 封装图像资源的类
 type: docs
-weight: 1060
+weight: 3100
 url: /zh/net/aspose.page.xps.xpsmodel/xpsimage/
 ---
 ## XpsImage class

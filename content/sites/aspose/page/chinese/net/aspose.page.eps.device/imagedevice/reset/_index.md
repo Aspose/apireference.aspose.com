@@ -3,7 +3,7 @@ title: Reset
 second_title: Aspose.Page for .NET API 参考
 description: 将设备重置为页面的初始状态
 type: docs
-weight: 390
+weight: 380
 url: /zh/net/aspose.page.eps.device/imagedevice/reset/
 ---
 ## ImageDevice.Reset method

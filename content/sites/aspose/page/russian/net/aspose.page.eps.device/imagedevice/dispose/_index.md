@@ -3,7 +3,7 @@ title: Dispose
 second_title: Справочник по Aspose.Page для .NET API
 description: Удаляет устройство.
 type: docs
-weight: 200
+weight: 190
 url: /ru/net/aspose.page.eps.device/imagedevice/dispose/
 ---
 ## ImageDevice.Dispose method

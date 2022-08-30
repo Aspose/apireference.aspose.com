@@ -1,14 +1,14 @@
 ---
 title: SetPagePrintTicket
 second_title: Aspose.Page for .NET API 参考
-description: 将printTicket链接到文档中由pageIndex 索引的页面由documentIndex索引
+description: 链接printTicket到索引的页面pageIndex 在被索引的文档中documentIndex.
 type: docs
 weight: 550
 url: /zh/net/aspose.page.xps/xpsdocument/setpageprintticket/
 ---
 ## XpsDocument.SetPagePrintTicket method
 
-将*printTicket*链接到文档中由*pageIndex* 索引的页面由*documentIndex*索引。
+链接*printTicket*到索引的页面*pageIndex* 在被索引的文档中*documentIndex*.
 
 ```csharp
 public void SetPagePrintTicket(int documentIndex, int pageIndex, PagePrintTicket printTicket)
@@ -17,7 +17,7 @@ public void SetPagePrintTicket(int documentIndex, int pageIndex, PagePrintTicket
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | documentIndex | Int32 | 文档的索引。 |
-| pageIndex | Int32 | 打印票链接到的页面索引。 |
+| pageIndex | Int32 | 将打印票链接到的页面索引。 |
 | printTicket | PagePrintTicket | 要链接的打印票。 |
 
 ### 也可以看看

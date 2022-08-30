@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置应用于画笔坐标空间的矩阵变换 Transform 属性与当前有效的渲染变换 连接以产生画笔本地的有效渲染变换画笔的视口 使用本地有效渲染变换进行变换
+description: 返回/设置应用于画笔坐标空间的矩阵变换 Transform 属性与当前有效的渲染 transform 连接以产生画笔本地的有效渲染变换 Brush 的视口使用本地有效渲染变换进行变换
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmodel/xpstransformablebrush/transform/
 ---
 ## XpsTransformableBrush.Transform property
 
-返回/设置应用于画笔坐标空间的矩阵变换。 Transform 属性与当前有效的渲染变换 连接，以产生画笔本地的有效渲染变换。画笔的视口 使用本地有效渲染变换进行变换。
+返回/设置应用于画笔坐标空间的矩阵变换。 Transform 属性与当前有效的渲染 transform 连接，以产生画笔本地的有效渲染变换。 Brush 的视口使用本地有效渲染变换进行变换。
 
 ```csharp
 public XpsMatrix Transform { get; set; }

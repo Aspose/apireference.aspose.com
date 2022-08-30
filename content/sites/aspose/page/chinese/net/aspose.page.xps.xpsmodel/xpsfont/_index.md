@@ -3,7 +3,7 @@ title: XpsFont
 second_title: Aspose.Page for .NET API 参考
 description: 封装 TrueType 字体资源的类
 type: docs
-weight: 980
+weight: 3020
 url: /zh/net/aspose.page.xps.xpsmodel/xpsfont/
 ---
 ## XpsFont class

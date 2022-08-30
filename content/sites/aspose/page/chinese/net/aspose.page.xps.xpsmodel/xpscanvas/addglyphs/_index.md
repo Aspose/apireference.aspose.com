@@ -26,7 +26,7 @@ public XpsGlyphs AddGlyphs(string fontFamily, float fontSize, FontStyle fontStyl
 
 ### 返回值
 
-添加字形。
+添加了字形。
 
 ### 也可以看看
 

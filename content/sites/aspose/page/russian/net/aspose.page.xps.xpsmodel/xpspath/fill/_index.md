@@ -1,14 +1,14 @@
 ---
 title: Fill
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/задает кисть используемую для рисования геометрии указанной свойством Data пути.
+description: Возвращает/задает кисть используемую для рисования геометрии заданной свойством Data пути.
 type: docs
 weight: 20
 url: /ru/net/aspose.page.xps.xpsmodel/xpspath/fill/
 ---
 ## XpsPath.Fill property
 
-Возвращает/задает кисть, используемую для рисования геометрии, указанной свойством Data пути.
+Возвращает/задает кисть, используемую для рисования геометрии, заданной свойством Data пути.
 
 ```csharp
 public XpsBrush Fill { get; set; }

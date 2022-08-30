@@ -3,7 +3,7 @@ title: XmpFieldType
 second_title: Справочник по Aspose.Page для .NET API
 description: Это перечисление представляет типы поля XMP.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.page.eps.xmp/xmpfieldtype/
 ---
 ## XmpFieldType enumeration
@@ -19,7 +19,7 @@ public enum XmpFieldType
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Struct | `0` | Этот тип представляет структуру. |
-| Array | `1` | Этот тип представляет собой массив. |
+| Array | `1` | Этот тип представляет массив. |
 | Property | `2` | Этот тип представляет свойство. |
 | Packet | `3` | Этот тип представляет пакет. |
 | Unknown | `4` | Это поле представляет неизвестный тип. |

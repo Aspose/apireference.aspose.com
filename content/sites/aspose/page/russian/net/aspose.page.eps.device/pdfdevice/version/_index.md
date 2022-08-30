@@ -3,7 +3,7 @@ title: VERSION
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Версия.
 type: docs
-weight: 490
+weight: 480
 url: /ru/net/aspose.page.eps.device/pdfdevice/version/
 ---
 ## PdfDevice.VERSION field

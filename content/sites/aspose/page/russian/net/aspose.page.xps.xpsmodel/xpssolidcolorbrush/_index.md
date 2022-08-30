@@ -1,14 +1,14 @@
 ---
 title: XpsSolidColorBrush
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий функции элемента свойства SolidColorBrush. Этот элемент используется для заливки определенных геометрических областей сплошным цветом.
+description: Класс инкапсулирующий функции элемента свойств SolidColorBrush. Этот элемент используется для заливки определенных геометрических областей сплошным цветом.
 type: docs
-weight: 1250
+weight: 3290
 url: /ru/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class
 
-Класс, инкапсулирующий функции элемента свойства SolidColorBrush. Этот элемент используется для заливки определенных геометрических областей сплошным цветом.
+Класс, инкапсулирующий функции элемента свойств SolidColorBrush. Этот элемент используется для заливки определенных геометрических областей сплошным цветом.
 
 ```csharp
 public sealed class XpsSolidColorBrush : XpsBrush
@@ -19,7 +19,7 @@ public sealed class XpsSolidColorBrush : XpsBrush
 | Имя | Описание |
 | --- | --- |
 | [Color](../../aspose.page.xps.xpsmodel/xpssolidcolorbrush/color) { get; set; } | Возвращает/устанавливает цвет для заполненных элементов. |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Возвращает/устанавливает значение, определяющее равномерную прозрачность заливки кистью. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Возвращает/задает значение, определяющее равномерную прозрачность заливки кистью. |
 
 ## Методы
 

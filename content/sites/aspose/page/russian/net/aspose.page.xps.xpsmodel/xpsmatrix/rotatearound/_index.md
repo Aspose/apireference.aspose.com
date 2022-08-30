@@ -1,14 +1,14 @@
 ---
 title: RotateAround
 second_title: Справочник по Aspose.Page для .NET API
-description: Применяет вращение по часовой стрелке науголвокруг осиpivot к этой матрице в порядок указанныйmatrixOrder.
+description: Применяет вращение по часовой стрелке наangle вокругpivot в эту матрицу в порядке указанномmatrixOrder .
 type: docs
 weight: 140
 url: /ru/net/aspose.page.xps.xpsmodel/xpsmatrix/rotatearound/
 ---
 ## RotateAround(float, PointF, MatrixOrder) {#rotatearound_1}
 
-Применяет вращение по часовой стрелке на*угол*вокруг оси*pivot* к этой матрице в порядок, указанный*matrixOrder*.
+Применяет вращение по часовой стрелке на*angle* вокруг*pivot* в эту матрицу в порядке, указанном*matrixOrder* .
 
 ```csharp
 public void RotateAround(float angle, PointF pivot, MatrixOrder matrixOrder)
@@ -17,8 +17,8 @@ public void RotateAround(float angle, PointF pivot, MatrixOrder matrixOrder)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | angle | Single | Угол. |
-| pivot | PointF | Точка вращения. |
-| matrixOrder | MatrixOrder | Порядок. |
+| pivot | PointF | Точка опоры. |
+| matrixOrder | MatrixOrder | Приказ. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public void RotateAround(float angle, PointF pivot, MatrixOrder matrixOrder)
 
 ## RotateAround(float, PointF) {#rotatearound}
 
-Применяет вращение по часовой стрелке на*угол*вокруг оси*pivot* к этой матрице в порядок по умолчанию (Prepend).
+Применяет вращение по часовой стрелке на*angle* вокруг*pivot* в эту матрицу в порядке по умолчанию (в начале).
 
 ```csharp
 public void RotateAround(float angle, PointF pivot)
@@ -39,7 +39,7 @@ public void RotateAround(float angle, PointF pivot)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | angle | Single | Угол. |
-| pivot | PointF | Точка вращения. |
+| pivot | PointF | Точка опоры. |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: ReNew
 second_title: Справочник по Aspose.Page для .NET API
 description: Сброс устройства в исходное состояние для всего документа. Используется для сброса выходного потока.
 type: docs
-weight: 200
+weight: 190
 url: /ru/net/aspose.page.eps.device/pdfdevice/renew/
 ---
 ## PdfDevice.ReNew method

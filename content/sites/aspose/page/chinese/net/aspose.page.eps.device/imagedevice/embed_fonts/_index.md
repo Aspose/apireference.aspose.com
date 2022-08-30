@@ -3,7 +3,7 @@ title: EMBED_FONTS
 second_title: Aspose.Page for .NET API 参考
 description: 在文档中嵌入字体属性键
 type: docs
-weight: 530
+weight: 520
 url: /zh/net/aspose.page.eps.device/imagedevice/embed_fonts/
 ---
 ## ImageDevice.EMBED_FONTS field

@@ -1,14 +1,14 @@
 ---
 title: PdfDevice
 second_title: Aspose.Page for .NET API 参考
-description: 使用输出流初始化PdfDeviceaspose.page.eps.device/pdfdevice的新实例
+description: 初始化的新实例PdfDeviceaspose.page.eps.device/pdfdevice带输出流.
 type: docs
 weight: 10
 url: /zh/net/aspose.page.eps.device/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(Stream) {#constructor}
 
-使用输出流初始化[`PdfDevice`](../../pdfdevice)的新实例。
+初始化的新实例[`PdfDevice`](../../pdfdevice)带输出流.
 
 ```csharp
 public PdfDevice(Stream ros)
@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-使用输出流和指定的页面大小初始化[`PdfDevice`](../../pdfdevice)的新实例。
+初始化的新实例[`PdfDevice`](../../pdfdevice)带有输出流和指定的页面大小。
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

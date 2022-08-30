@@ -1,14 +1,14 @@
 ---
 title: AdditionalFontsFolders
 second_title: Aspose.Page for .NET API 参考
-description: 指定转换器应在其中找到输入文档字体的其他文件夹 默认文件夹是标准字体文件夹操作系统在其中查找内部需要的字体
+description: 指定转换器应在其中查找输入文档字体的其他文件夹 默认文件夹是标准字体文件夹操作系统在其中查找内部需要的字体
 type: docs
 weight: 20
 url: /zh/net/aspose.page/saveoptions/additionalfontsfolders/
 ---
 ## SaveOptions.AdditionalFontsFolders property
 
-指定转换器应在其中找到输入文档字体的其他文件夹。 默认文件夹是标准字体文件夹，操作系统在其中查找内部需要的字体。
+指定转换器应在其中查找输入文档字体的其他文件夹。 默认文件夹是标准字体文件夹，操作系统在其中查找内部需要的字体。
 
 ```csharp
 public string[] AdditionalFontsFolders { get; set; }

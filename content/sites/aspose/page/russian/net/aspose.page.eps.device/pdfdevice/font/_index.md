@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: Справочник по Aspose.Page для .NET API
-description: Указывает текущий шрифт.
+description: Определяет текущий шрифт.
 type: docs
 weight: 30
 url: /ru/net/aspose.page.eps.device/pdfdevice/font/
 ---
 ## PdfDevice.Font property
 
-Указывает текущий шрифт.
+Определяет текущий шрифт.
 
 ```csharp
 public override ITrFont Font { set; }

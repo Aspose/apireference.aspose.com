@@ -3,7 +3,7 @@ title: EMIT_WARNINGS
 second_title: Aspose.Page for .NET API 参考
 description: 发出警告属性值
 type: docs
-weight: 550
+weight: 540
 url: /zh/net/aspose.page.eps.device/imagedevice/emit_warnings/
 ---
 ## ImageDevice.EMIT_WARNINGS field

@@ -3,7 +3,7 @@ title: XpsPage
 second_title: Aspose.Page for .NET API 参考
 description: 封装 FixedPage 元素特性的类 此元素包含页面的内容是 FixedPage 部分的根元素
 type: docs
-weight: 1130
+weight: 3170
 url: /zh/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class
@@ -20,16 +20,16 @@ public sealed class XpsPage : XpsElement
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | 返回子元素的数量。 |
 | [Height](../../aspose.page.xps.xpsmodel/xpspage/height) { get; set; } | 返回/设置页面高度，以实数表示 以有效坐标空间为单位。 |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引*i*提供对元素子元素的访问。 |
-| [Width](../../aspose.page.xps.xpsmodel/xpspage/width) { get; set; } | 返回/设置页面宽度，以 有效坐标空间单位的实数表示。 |
-| [XmlLang](../../aspose.page.xps.xpsmodel/xpspage/xmllang) { get; set; } | 返回/设置指定用于 当前元素和任何子元素或后代元素的默认语言的值。 |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引提供对元素子项的访问*i*. |
+| [Width](../../aspose.page.xps.xpsmodel/xpspage/width) { get; set; } | 返回/设置页面宽度，以有效坐标空间的 单位表示。 |
+| [XmlLang](../../aspose.page.xps.xpsmodel/xpspage/xmllang) { get; set; } | 返回/设置值，指定用于 当前元素和任何子元素或后代元素的默认语言。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Clone](../../aspose.page.xps.xpsmodel/xpspage/clone)() | 克隆此页面。 |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | IEnumerable接口的实现。 |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | 执行IEnumerable接口. |
 
 ### 也可以看看
 

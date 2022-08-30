@@ -1,14 +1,14 @@
 ---
 title: InsertPage
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет в документ пустую страницу с размером страницы по умолчанию в позицииindex.
+description: Вставляет пустую страницу в документ с размером страницы по умолчанию вindex позиция.
 type: docs
 weight: 430
 url: /ru/net/aspose.page.xps/xpsdocument/insertpage/
 ---
 ## InsertPage(int, bool) {#insertpage_1}
 
-Вставляет в документ пустую страницу с размером страницы по умолчанию в позиции*index*.
+Вставляет пустую страницу в документ с размером страницы по умолчанию в*index* позиция.
 
 ```csharp
 public XpsPage InsertPage(int index, bool activate = true)
@@ -16,7 +16,7 @@ public XpsPage InsertPage(int index, bool activate = true)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую следует вставить страницу. |
+| index | Int32 | Позиция, в которую должна быть вставлена страница. |
 | activate | Boolean | Флаг, указывающий, следует ли выбирать вставленную страницу как активную. |
 
 ### Возвращаемое значение
@@ -34,7 +34,7 @@ public XpsPage InsertPage(int index, bool activate = true)
 
 ## InsertPage(int, float, float, bool) {#insertpage_2}
 
-Вставляет в документ пустую страницу с указанным *width*и*height*at*index*position.
+Вставляет пустую страницу в документ с указанным *width* а также*height* в*index* позиция.
 
 ```csharp
 public XpsPage InsertPage(int index, float width, float height, bool activate = true)
@@ -42,7 +42,7 @@ public XpsPage InsertPage(int index, float width, float height, bool activate = 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую следует вставить страницу. |
+| index | Int32 | Позиция, в которую должна быть вставлена страница. |
 | width | Single | Ширина новой страницы. |
 | height | Single | Высота новой страницы. |
 | activate | Boolean | Флаг, указывающий, следует ли выбирать вставленную страницу как активную. |
@@ -62,7 +62,7 @@ public XpsPage InsertPage(int index, float width, float height, bool activate = 
 
 ## InsertPage(int, XpsPage, bool) {#insertpage}
 
-Вставляет страницу в документ в позиции*index*.
+Вставляет страницу в документ в*index* позиция.
 
 ```csharp
 public XpsPage InsertPage(int index, XpsPage page, bool activate = true)
@@ -70,7 +70,7 @@ public XpsPage InsertPage(int index, XpsPage page, bool activate = true)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую следует добавить страницу. |
+| index | Int32 | Позиция, на которой должна быть добавлена страница. |
 | page | XpsPage | Страница для вставки. |
 | activate | Boolean | Флаг, указывающий, следует ли выбирать вставленную страницу как активную. |
 

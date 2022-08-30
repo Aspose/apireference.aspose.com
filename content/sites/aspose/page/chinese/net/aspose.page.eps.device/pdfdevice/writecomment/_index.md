@@ -3,7 +3,7 @@ title: WriteComment
 second_title: Aspose.Page for .NET API 参考
 description: 写评论
 type: docs
-weight: 320
+weight: 310
 url: /zh/net/aspose.page.eps.device/pdfdevice/writecomment/
 ---
 ## PdfDevice.WriteComment method
@@ -16,7 +16,7 @@ public override void WriteComment(string comment)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| comment | String | 要写入的注释。 |
+| comment | String | 要写的评论。 |
 
 ### 也可以看看
 

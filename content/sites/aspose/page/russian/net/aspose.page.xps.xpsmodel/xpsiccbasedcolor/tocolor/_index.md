@@ -1,14 +1,14 @@
 ---
 title: ToColor
 second_title: Справочник по Aspose.Page для .NET API
-description: Удобный метод для получения собственного представления .NET цвета на основе ICC.
+description: Удобный метод получения собственного представления .NET для цвета на основе ICC.
 type: docs
 weight: 20
 url: /ru/net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/tocolor/
 ---
 ## XpsIccBasedColor.ToColor method
 
-Удобный метод для получения собственного представления .NET цвета на основе ICC.
+Удобный метод получения собственного представления .NET для цвета на основе ICC.
 
 ```csharp
 public override Color ToColor()
@@ -16,7 +16,7 @@ public override Color ToColor()
 
 ### Возвращаемое значение
 
-System.Drawing.Color структура.
+Система.Рисунок.Цвет структура.
 
 ### Смотрите также
 

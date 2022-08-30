@@ -1,14 +1,14 @@
 ---
 title: AscentLis
 second_title: Aspose.Page for .NET API 参考
-description: 此字体的单元格上升 lis 这是从单元格顶部到单元格基线的垂直距离
+description: 此字体的单元格上升lis 这是从单元格顶部到单元格基线的垂直距离
 type: docs
 weight: 10
 url: /zh/net/aspose.page.font/drfont/ascentlis/
 ---
 ## DrFont.AscentLis property
 
-此字体的单元格上升 (lis)。 这是从单元格顶部到单元格基线的垂直距离。
+此字体的单元格上升（lis）。 这是从单元格顶部到单元格基线的垂直距离。
 
 ```csharp
 public int AscentLis { get; }
@@ -16,7 +16,7 @@ public int AscentLis { get; }
 
 ### 评论
 
-此值也称为 **单元基线** 。
+这个值也叫 **细胞基线**.
 
 ### 也可以看看
 

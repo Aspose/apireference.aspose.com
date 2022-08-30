@@ -3,7 +3,7 @@ title: GetPropertyInt
 second_title: Справочник по Aspose.Page для .NET API
 description: Получает значение целочисленного свойства.
 type: docs
-weight: 290
+weight: 280
 url: /ru/net/aspose.page.eps.device/imagedevice/getpropertyint/
 ---
 ## ImageDevice.GetPropertyInt method
@@ -20,7 +20,7 @@ public int GetPropertyInt(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

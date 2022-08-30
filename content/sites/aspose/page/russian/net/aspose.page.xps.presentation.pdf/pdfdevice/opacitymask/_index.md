@@ -1,14 +1,14 @@
 ---
 title: OpacityMask
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает/устанавливает кисть для непрозрачной маски. Маска применяется поверх Paint или Strike.
+description: Получает/устанавливает кисть для маски непрозрачности. Маска применяется поверх Paint или Strike.
 type: docs
 weight: 70
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfdevice/opacitymask/
 ---
 ## PdfDevice.OpacityMask property
 
-Получает/устанавливает кисть для непрозрачной маски. Маска применяется поверх Paint или Strike.
+Получает/устанавливает кисть для маски непрозрачности. Маска применяется поверх Paint или Strike.
 
 ```csharp
 public override Brush OpacityMask { get; set; }

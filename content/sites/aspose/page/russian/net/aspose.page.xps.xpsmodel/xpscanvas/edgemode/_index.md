@@ -1,14 +1,14 @@
 ---
 title: EdgeMode
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает значение управляющее визуализацией краев контуров на холсте.
+description: Возвращает/задает значение управляющее визуализацией краев контуров на холсте.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmodel/xpscanvas/edgemode/
 ---
 ## XpsCanvas.EdgeMode property
 
-Возвращает/устанавливает значение, управляющее визуализацией краев контуров на холсте.
+Возвращает/задает значение, управляющее визуализацией краев контуров на холсте.
 
 ```csharp
 public XpsEdgeMode EdgeMode { get; set; }

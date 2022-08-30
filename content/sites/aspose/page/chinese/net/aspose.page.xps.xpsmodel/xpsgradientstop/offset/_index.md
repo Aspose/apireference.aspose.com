@@ -1,14 +1,14 @@
 ---
 title: Offset
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置渐变偏移偏移量表示沿 渐变过程中指定颜色的点 中渐变偏移之间的颜色被插值
+description: 返回/设置梯度偏移偏移量表示沿 渐变的进程中指定颜色的点渐变偏移 in 之间的颜色被插值
 type: docs
 weight: 20
 url: /zh/net/aspose.page.xps.xpsmodel/xpsgradientstop/offset/
 ---
 ## XpsGradientStop.Offset property
 
-返回/设置渐变偏移。偏移量表示沿 渐变过程中指定颜色的点。 中渐变偏移之间的颜色被插值。
+返回/设置梯度偏移。偏移量表示沿 渐变的进程中指定颜色的点。渐变偏移 in 之间的颜色被插值。
 
 ```csharp
 public float Offset { get; }

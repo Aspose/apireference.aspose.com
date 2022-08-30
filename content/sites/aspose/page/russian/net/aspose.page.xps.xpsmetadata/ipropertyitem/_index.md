@@ -1,21 +1,22 @@
 ---
 title: IPropertyItem
 second_title: Справочник по Aspose.Page для .NET API
-description: Базовый интерфейс для классов которые могут быть элементом свойства билета печати.
+description: Базовый интерфейс для классов которые могут быть PrintTicketProperty./property предметы.
 type: docs
-weight: 530
+weight: 920
 url: /ru/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface
 
-Базовый интерфейс для классов, которые могут быть элементом свойства билета печати.
+Базовый интерфейс для классов, которые могут быть PrintTicket[`Property`](../property) предметы.
 
 ```csharp
-public interface IPropertyItem
+public interface IPropertyItem : IPrintTicketElementChild
 ```
 
 ### Смотрите также
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * сборка [Aspose.Page](../../)
 

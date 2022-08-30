@@ -3,7 +3,7 @@ title: XpsIccBasedColor
 second_title: Справочник по Aspose.Page для .NET API
 description: Инкапсулирует цвет на основе ICC.
 type: docs
-weight: 1040
+weight: 3080
 url: /ru/net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/
 ---
 ## XpsIccBasedColor class
@@ -18,13 +18,13 @@ public sealed class XpsIccBasedColor : XpsColor
 
 | Имя | Описание |
 | --- | --- |
-| [IccProfile](../../aspose.page.xps.xpsmodel/xpsiccbasedcolor/iccprofile) { get; } | Возвращает ресурс профиля ICC, на основе которого цвет. |
+| [IccProfile](../../aspose.page.xps.xpsmodel/xpsiccbasedcolor/iccprofile) { get; } | Возвращает ресурс профиля ICC с цветом, основанным на . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToColor](../../aspose.page.xps.xpsmodel/xpsiccbasedcolor/tocolor)() | Удобный метод для получения собственного представления .NET цвета на основе ICC. |
+| override [ToColor](../../aspose.page.xps.xpsmodel/xpsiccbasedcolor/tocolor)() | Удобный метод получения собственного представления .NET для цвета на основе ICC. |
 
 ### Смотрите также
 

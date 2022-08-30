@@ -17,11 +17,11 @@ public XpsRadialGradientBrush CreateRadialGradientBrush(List<XpsGradientStop> gr
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| gradientStops | List`1 | 渐变停止点列表。 |
+| gradientStops | List`1 | 梯度停止列表。 |
 | center | PointF | 径向渐变的中心点（即椭圆的中心）。 |
 | gradientOrigin | PointF | 径向渐变的原点。 |
 | radiusX | Single | 定义径向梯度的椭圆的 x 维半径。 |
-| radiusY | Single | 定义径向渐变的椭圆的 y 维半径。 |
+| radiusY | Single | 定义径向梯度的椭圆的 y 维度上的半径。 |
 
 ### 返回值
 
@@ -51,7 +51,7 @@ public XpsRadialGradientBrush CreateRadialGradientBrush(PointF center, PointF gr
 | center | PointF | 径向渐变的中心点（即椭圆的中心）。 |
 | gradientOrigin | PointF | 径向渐变的原点。 |
 | radiusX | Single | 定义径向梯度的椭圆的 x 维半径。 |
-| radiusY | Single | 定义径向渐变的椭圆的 y 维半径。 |
+| radiusY | Single | 定义径向梯度的椭圆的 y 维度上的半径。 |
 
 ### 返回值
 

@@ -1,14 +1,14 @@
 ---
 title: PdfDevice
 second_title: Справочник по Aspose.Page для .NET API
-description: Инициализирует новый экземплярPdfDeviceaspose.page.eps.device/pdfdeviceс выходным потоком.
+description: Инициализирует новый экземплярPdfDeviceaspose.page.eps.device/pdfdevice с выходным потоком.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.eps.device/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(Stream) {#constructor}
 
-Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice)с выходным потоком.
+Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) с выходным потоком.
 
 ```csharp
 public PdfDevice(Stream ros)
@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice)с выходным потоком и указанным размером страницы.
+Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) с выходным потоком и указанным размером страницы.
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

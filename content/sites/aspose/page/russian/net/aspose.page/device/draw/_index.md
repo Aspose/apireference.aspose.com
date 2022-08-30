@@ -16,7 +16,7 @@ public virtual void Draw(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | Путь для рисования. |
+| path | GraphicsPath | Путь, который нужно нарисовать. |
 
 ### Смотрите также
 

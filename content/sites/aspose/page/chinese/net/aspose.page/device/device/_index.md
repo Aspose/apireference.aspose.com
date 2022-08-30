@@ -1,14 +1,14 @@
 ---
 title: Device
 second_title: Aspose.Page for .NET API 参考
-description: 使用页面大小初始化Deviceaspose.page/device
+description: 初始化Deviceaspose.page/device一页大小
 type: docs
 weight: 10
 url: /zh/net/aspose.page/device/device/
 ---
 ## Device constructor
 
-使用页面大小初始化[`Device`](../../device)。
+初始化[`Device`](../../device)一页大小。
 
 ```csharp
 public Device(Size pageSize)

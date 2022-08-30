@@ -3,7 +3,7 @@ title: COMPRESS
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Сжать.
 type: docs
-weight: 360
+weight: 350
 url: /ru/net/aspose.page.eps.device/pdfdevice/compress/
 ---
 ## PdfDevice.COMPRESS field

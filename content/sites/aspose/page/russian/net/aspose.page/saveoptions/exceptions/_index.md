@@ -1,14 +1,14 @@
 ---
 title: Exceptions
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает список подавленных ошибок преобразования. ЕслиSuppressErrorsистинно.
+description: Возвращает список подавленных ошибок преобразования.SuppressErrors верно.
 type: docs
 weight: 40
 url: /ru/net/aspose.page/saveoptions/exceptions/
 ---
 ## SaveOptions.Exceptions property
 
-Возвращает список подавленных ошибок преобразования. Если!:SuppressErrorsистинно.
+Возвращает список подавленных ошибок преобразования.!:SuppressErrors верно.
 
 ```csharp
 public virtual IList<Exception> Exceptions { get; }

@@ -3,7 +3,7 @@ title: COMPRESS
 second_title: Aspose.Page for .NET API 参考
 description: 压缩属性键
 type: docs
-weight: 360
+weight: 350
 url: /zh/net/aspose.page.eps.device/pdfdevice/compress/
 ---
 ## PdfDevice.COMPRESS field

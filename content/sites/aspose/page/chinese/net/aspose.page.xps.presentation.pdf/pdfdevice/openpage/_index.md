@@ -1,14 +1,14 @@
 ---
 title: OpenPage
 second_title: Aspose.Page for .NET API 参考
-description: 用指定的标题开始一个新页面
+description: 以指定的标题开始一个新页面
 type: docs
 weight: 230
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfdevice/openpage/
 ---
 ## OpenPage(string) {#openpage_1}
 
-用指定的标题开始一个新页面。
+以指定的标题开始一个新页面。
 
 ```csharp
 public virtual bool OpenPage(string title)
@@ -20,7 +20,7 @@ public virtual bool OpenPage(string title)
 
 ### 返回值
 
-` True` 如果要输出起始页（其编号包含在 PageNumbers 保存选项中） . ` False` ，否则。
+`真的`如果要输出起始页（它的编号包含在 PageNumbers 保存选项中）。 `错误的`， 否则。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public virtual bool OpenPage(string title)
 
 ## OpenPage(float, float) {#openpage}
 
-以指定的宽度和高度开始一个新页面。
+以指定的宽度和高度开始新页面。
 
 ```csharp
 public virtual bool OpenPage(float width, float height)
@@ -40,12 +40,12 @@ public virtual bool OpenPage(float width, float height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Single | 页面宽度。 |
-| height | Single | 页面高度。 |
+| width | Single | 页面的宽度。 |
+| height | Single | 页面的高度。 |
 
 ### 返回值
 
-` True` 如果要输出起始页（其编号包含在 PageNumbers 保存选项中） . ` False` ，否则。
+`真的`如果要输出起始页（它的编号包含在 PageNumbers 保存选项中）。 `错误的`， 否则。
 
 ### 也可以看看
 

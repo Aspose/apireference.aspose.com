@@ -1,26 +1,51 @@
 ---
 title: Property
 second_title: Справочник по Aspose.Page для .NET API
-description: Создает общий экземпляр свойства билета печати.
+description: Создает новый экземпляр.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmetadata/property/property/
 ---
-## Property constructor
+## Property(string, Property, params IPropertyItem[]) {#constructor}
 
-Создает общий экземпляр свойства билета печати.
+Создает новый экземпляр.
 
 ```csharp
-public Property(string name, params IPropertyItem[] items)
+public Property(string name, Property property, params IPropertyItem[] items)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя свойства. |
-| items | IPropertyItem[] | МассивIPPropertyItemобъектов. Каждое из них должно быть[`Property`](../../property)или[`Value`](../../value)объект. |
+| property | Property | Обязательный[`Property`](../../property) пример. |
+| items | IPropertyItem[] | Произвольный массив[`IPropertyItem`](../../ipropertyitem)instances. Каждый должен быть[`Property`](../../property) или[`Value`](../../value) пример. |
 
 ### Смотрите также
 
+* interface [IPropertyItem](../../ipropertyitem)
+* class [Property](../../property)
+* пространство имен [Aspose.Page.XPS.XpsMetadata](../../property)
+* сборка [Aspose.Page](../../../)
+
+---
+
+## Property(string, Value, params IPropertyItem[]) {#constructor_1}
+
+Создает новый экземпляр.
+
+```csharp
+public Property(string name, Value value, params IPropertyItem[] items)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| name | String | Имя свойства. |
+| value | Value | Обязательный[`Value`](../../value) пример. |
+| items | IPropertyItem[] | Произвольный массив[`IPropertyItem`](../../ipropertyitem)instances. Каждый должен быть[`Property`](../../property) или[`Value`](../../value) пример. |
+
+### Смотрите также
+
+* class [Value](../../value)
 * interface [IPropertyItem](../../ipropertyitem)
 * class [Property](../../property)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../property)

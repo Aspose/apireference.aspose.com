@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: Aspose.Page for .NET API 参考
-description: 图像格式
+description: 图像格式.
 type: docs
 weight: 70
 url: /zh/net/aspose.page.eps.device/imagedevice/format/
 ---
 ## ImageDevice.Format property
 
-图像格式。
+图像格式.
 
 ```csharp
 public ImageFormat Format { get; }

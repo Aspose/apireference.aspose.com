@@ -3,7 +3,7 @@ title: WRITE_IMAGES_AS
 second_title: Aspose.Page for .NET API 参考
 description: 图像格式属性键
 type: docs
-weight: 510
+weight: 500
 url: /zh/net/aspose.page.eps.device/pdfdevice/write_images_as/
 ---
 ## PdfDevice.WRITE_IMAGES_AS field

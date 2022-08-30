@@ -1,37 +1,46 @@
 ---
 title: Option
 second_title: Aspose.Page for .NET API 参考
-description: 实现打印票选项的类
+description: 实现普通 PrintTicket 的类. 所有模式定义选项的基类 选项元素包含所有Property./property和 ScoredProperty./scoredproperty与此选项关联的元素 https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 600
+weight: 1590
 url: /zh/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class
 
-实现打印票选项的类。
+实现普通 PrintTicket 的类. 所有模式定义选项的基类。 选项元素包含所有[`Property`](../property)和 [`ScoredProperty`](../scoredproperty)与此选项关联的元素。 https://docs.microsoft.com/en-us/windows/win32/printdocs/option
 
 ```csharp
-public class Option : IEnumerable<IOptionItem>, IFeatureItem
+Option
+```
+
+```csharp
+public class Option : CompositePrintTicketElement, IFeatureItem
 ```
 
 ## 构造函数
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Option](option#constructor)(params IOptionItem[]) | 创建通用打印票功能实例。 |
-| [Option](option#constructor_1)(string, params IOptionItem[]) | 创建通用打印票功能实例。 |
+| [Option](option#constructor)(params IOptionItem[]) | 创建一个新的 PrintTicket 选项实例。 |
+| [Option](option#constructor_1)(Option) | 创建一个克隆选项实例。 |
+| [Option](option#constructor_2)(string, params IOptionItem[]) | 创建一个新的 PrintTicket 选项实例。 |
+
+## 特性
+
+| 姓名 | 描述 |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | 获取元素名称。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | 将属性列表添加到选项属性列表的末尾。 每一个都必须是[`ScoredProperty`](../scoredproperty)或[`Property`](../property)目的。 |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/option/getenumerator)() | IEnumerable接口的实现。 |
-| override [ToString](../../aspose.page.xps.xpsmetadata/option/tostring)() | 返回字符串表示。 |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | 将项目列表添加到此选项的项目列表的末尾。 每一个都必须是一个[`ScoredProperty`](../scoredproperty)或者[`Property`](../property)实例. |
 
 ### 也可以看看
 
-* interface [IOptionItem](../ioptionitem)
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IFeatureItem](../ifeatureitem)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * 部件 [Aspose.Page](../../)

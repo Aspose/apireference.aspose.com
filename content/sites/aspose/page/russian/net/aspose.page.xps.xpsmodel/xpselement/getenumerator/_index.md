@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.Page для .NET API
-description: Реализация интерфейсаIEnumerable.
+description: РеализацияIEnumerable интерфейс.
 type: docs
 weight: 30
 url: /ru/net/aspose.page.xps.xpsmodel/xpselement/getenumerator/
 ---
 ## XpsElement.GetEnumerator method
 
-Реализация интерфейсаIEnumerable.
+РеализацияIEnumerable интерфейс.
 
 ```csharp
 public IEnumerator<XpsContentElement> GetEnumerator()

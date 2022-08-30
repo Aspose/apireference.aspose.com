@@ -1,14 +1,14 @@
 ---
 title: ToRaw
 second_title: Справочник по Aspose.Page для .NET API
-description: Необработанный код XML для неизвестных/неподдерживаемых значений.
+description: Необработанный XMLкод для неизвестных/неподдерживаемых значений.
 type: docs
 weight: 200
 url: /ru/net/aspose.page.eps.xmp/xmpvalue/toraw/
 ---
 ## XmpValue.ToRaw method
 
-Необработанный код XML для неизвестных/неподдерживаемых значений.
+Необработанный XML-код для неизвестных/неподдерживаемых значений.
 
 ```csharp
 public XmlNode ToRaw()
@@ -16,7 +16,7 @@ public XmlNode ToRaw()
 
 ### Возвращаемое значение
 
-XML-узел для этого значения.
+Узел XML для этого значения.
 
 ### Смотрите также
 

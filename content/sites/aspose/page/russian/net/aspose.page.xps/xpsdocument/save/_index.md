@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Справочник по Aspose.Page для .NET API
-description: Сохраняет документ XPS в файл XPS расположенный по адресуpath.
+description: Сохраняет документ XPS в файл XPS расположенный по адресуpath .
 type: docs
 weight: 510
 url: /ru/net/aspose.page.xps/xpsdocument/save/
 ---
 ## Save(string) {#save_2}
 
-Сохраняет документ XPS в файл XPS, расположенный по адресу*path*.
+Сохраняет документ XPS в файл XPS, расположенный по адресу*path* .
 
 ```csharp
 public void Save(string path)
@@ -16,7 +16,7 @@ public void Save(string path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| путь | String | Расположение документа. |
+| path | String | Расположение документа. |
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public void Save(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Потоковый XPS-документ, в который нужно сохранить. |
+| stream | Stream | Потоковый XPS-документ для сохранения. |
 
 ### Смотрите также
 
@@ -48,7 +48,7 @@ public void Save(Stream stream)
 
 ## Save(Device, SaveOptions) {#save}
 
-Сохраняет документ, используя экземпляр[`Device`](../../../aspose.page/device).
+Сохраняет документ, используя[`Device`](../../../aspose.page/device) экземпляр.
 
 ```csharp
 public override void Save(Device device, SaveOptions options)
@@ -56,8 +56,8 @@ public override void Save(Device device, SaveOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | Device | Экземпляр[`Device`](../../../aspose.page/device). |
-| options | SaveOptions | Параметры сохранения документа. |
+| device | Device | [`Device`](../../../aspose.page/device) пример. |
+| options | SaveOptions | Варианты сохранения документа. |
 
 ### Смотрите также
 

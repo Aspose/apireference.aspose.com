@@ -1,14 +1,14 @@
 ---
 title: IsPoorlyRenderedByGdiPlus
 second_title: Aspose.Page for .NET API 参考
-description: 为Microsoft Sans Serif字体返回 True GDI 渲染效果不佳请参阅 Test286 和 Gemini-6959
+description: 为Microsoft Sans Serif字体返回 True GDI 渲染效果不佳请参阅 Test286 和 Gemini6959.
 type: docs
 weight: 260
 url: /zh/net/aspose.page.font/drfont/ispoorlyrenderedbygdiplus/
 ---
 ## DrFont.IsPoorlyRenderedByGdiPlus method
 
-为“Microsoft Sans Serif”字体返回 True。 GDI+ 渲染效果不佳。请参阅 Test286 和 Gemini-6959。
+为“Microsoft Sans Serif”字体返回 True。 GDI+ 渲染效果不佳。请参阅 Test286 和 Gemini-6959.
 
 ```csharp
 public static bool IsPoorlyRenderedByGdiPlus(string fontName)
@@ -16,11 +16,11 @@ public static bool IsPoorlyRenderedByGdiPlus(string fontName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 字体名称。 |
+| fontName | String | 字体的名称。 |
 
 ### 返回值
 
-` true` if [GDI plus 渲染效果不佳] [指定字体名称]；否则，` false` 。
+`真的` if [GDI plus 渲染效果不佳] [指定字体名称]；否则，`错误的`.
 
 ### 也可以看看
 

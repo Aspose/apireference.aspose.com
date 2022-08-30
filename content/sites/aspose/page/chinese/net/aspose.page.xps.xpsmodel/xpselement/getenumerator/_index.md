@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.Page for .NET API 参考
-description: IEnumerable接口的实现
+description: 执行IEnumerable接口.
 type: docs
 weight: 30
 url: /zh/net/aspose.page.xps.xpsmodel/xpselement/getenumerator/
 ---
 ## XpsElement.GetEnumerator method
 
-IEnumerable接口的实现。
+执行IEnumerable接口.
 
 ```csharp
 public IEnumerator<XpsContentElement> GetEnumerator()

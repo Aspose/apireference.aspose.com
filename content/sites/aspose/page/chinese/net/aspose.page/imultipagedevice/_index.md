@@ -3,7 +3,7 @@ title: IMultiPageDevice
 second_title: Aspose.Page for .NET API 参考
 description: 该接口包含操作多页设备的方法
 type: docs
-weight: 170
+weight: 180
 url: /zh/net/aspose.page/imultipagedevice/
 ---
 ## IMultiPageDevice interface

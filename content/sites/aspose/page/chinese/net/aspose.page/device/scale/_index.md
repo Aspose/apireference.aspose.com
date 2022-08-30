@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.Page for .NET API 参考
-description: 缩放当前变换矩阵调用 writeTransformTransform
+description: 缩放当前变换矩阵调用 writeTransformTransform.
 type: docs
 weight: 490
 url: /zh/net/aspose.page/device/scale/
 ---
 ## Device.Scale method
 
-缩放当前变换矩阵。调用 writeTransform(Transform)。
+缩放当前变换矩阵。调用 writeTransform(Transform).
 
 ```csharp
 public virtual void Scale(double x, double y)

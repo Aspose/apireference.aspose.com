@@ -1,14 +1,14 @@
 ---
 title: XpsPathGeometry
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий свойства элементов свойств PathGeometry. Этот элемент содержит набор фигур пути указанных либо с помощью атрибута Figures либо с дочерним элементом PathFigure.
+description: Класс инкапсулирующий функции элемента свойства PathGeometry. Этот элемент содержит набор фигур пути указанных либо с помощью атрибута Figures либо с дочерним элементом PathFigure.
 type: docs
-weight: 1170
+weight: 3210
 url: /ru/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class
 
-Класс, инкапсулирующий свойства элементов свойств PathGeometry. Этот элемент содержит набор фигур пути, указанных либо с помощью атрибута Figures, либо с дочерним элементом PathFigure.
+Класс, инкапсулирующий функции элемента свойства PathGeometry. Этот элемент содержит набор фигур пути, указанных либо с помощью атрибута Figures, либо с дочерним элементом PathFigure.
 
 ```csharp
 public sealed class XpsPathGeometry : XpsArray<XpsPathFigure>
@@ -19,24 +19,24 @@ public sealed class XpsPathGeometry : XpsArray<XpsPathFigure>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpsarray`1/count) { get; } |  |
-| [FillRule](../../aspose.page.xps.xpsmodel/xpspathgeometry/fillrule) { get; set; } | Возвращает/задает значение, указывающее, как пересекающиеся области геометрических фигур объединяются в область. |
+| [FillRule](../../aspose.page.xps.xpsmodel/xpspathgeometry/fillrule) { get; set; } | Возвращает/задает значение, указывающее, как пересекающиеся области геометрических фигур объединяются для формирования области. |
 | [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } |  |
 | [PathFigures](../../aspose.page.xps.xpsmodel/xpspathgeometry/pathfigures) { get; } | Возвращает список фигур дочернего пути. |
-| [Transform](../../aspose.page.xps.xpsmodel/xpspathgeometry/transform) { get; set; } | Возвращает/задает матрицу аффинного преобразования, устанавливающую локальную матричную трансформацию , которая применяется ко всем дочерним и дочерним элементам геометрии пути до того, как она будет используется для заполнения, обрезки или поглаживания. |
+| [Transform](../../aspose.page.xps.xpsmodel/xpspathgeometry/transform) { get; set; } | Возвращает/задает матрицу аффинного преобразования, устанавливающую локальную матрицу трансформации , которая применяется ко всем дочерним и дочерним элементам геометрии контура до того, как она будет использоваться для заполнения, обрезки или обводки. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.page.xps.xpsmodel/xpsarray`1/add)(XpsPathFigure) |  |
-| [AddSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/addsegment)(XpsPathSegment) | Добавляет сегмент пути в список дочерних сегментов последней фигуры паха. |
+| [AddSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/addsegment)(XpsPathSegment) | Добавляет сегмент пути в список дочерних сегментов последней фигуры pah. |
 | [Clone](../../aspose.page.xps.xpsmodel/xpspathgeometry/clone)() | Клонирует эту геометрию пути. |
 | [Insert](../../aspose.page.xps.xpsmodel/xpsarray`1/insert)(int, XpsPathFigure) |  |
-| [InsertSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment)(int, XpsPathSegment) | Вставляет сегмент пути в список дочерних сегментов последней фигуры пути в позиции*index*. |
+| [InsertSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment)(int, XpsPathSegment) | Вставляет сегмент пути в список дочерних сегментов последней фигуры пути в*index* позиция. |
 | [Remove](../../aspose.page.xps.xpsmodel/xpsarray`1/remove)(XpsPathFigure) |  |
 | [RemoveAt](../../aspose.page.xps.xpsmodel/xpsarray`1/removeat)(int) |  |
 | [RemoveSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/removesegment)(XpsPathSegment) | Удаляет сегмент пути из списка дочерних сегментов последней фигуры пути. |
-| [RemoveSegmentAt](../../aspose.page.xps.xpsmodel/xpspathgeometry/removesegmentat)(int) | Удаляет сегмент пути из списка дочерних сегментов последней фигуры пути в позиции*index*. |
+| [RemoveSegmentAt](../../aspose.page.xps.xpsmodel/xpspathgeometry/removesegmentat)(int) | Удаляет сегмент пути из списка дочерних сегментов последней фигуры пути в*index* позиция. |
 
 ### Смотрите также
 

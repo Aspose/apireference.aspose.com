@@ -18,7 +18,7 @@ public void AddOutlineEntry(string description, int outlineLevel, XpsHyperlinkTa
 | --- | --- | --- |
 | description | String | 条目描述。 |
 | outlineLevel | Int32 | 大纲级别。 |
-| target | XpsHyperlinkTarget | 入口目标。 |
+| target | XpsHyperlinkTarget | 进入目标。 |
 
 ### 也可以看看
 

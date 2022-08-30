@@ -1,35 +1,36 @@
 ---
 title: PrintTicket
 second_title: Справочник по Aspose.Page для .NET API
-description: Базовый класс объединяющий общие черты печатного билета любого уровня
+description: Класс который реализует общий PrintTicket любой области. Базовый класс для заданий печати документов и страниц. Aelement является корневым элементом документа PrintTicket. A содержит всю информацию о форматировании задания необходимую для вывода задания. https//docs.microsoft.com/enus/windows/win32/printdocs/printticket
 type: docs
-weight: 700
+weight: 2730
 url: /ru/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class
 
-Базовый класс, объединяющий общие черты печатного билета любого уровня
+Класс, который реализует общий PrintTicket любой области. Базовый класс для заданий печати, документов и страниц. Aelement является корневым элементом документа PrintTicket. A содержит всю информацию о форматировании задания, необходимую для вывода задания. https://docs.microsoft.com/en-us/windows/win32/printdocs/printticket
 
 ```csharp
-public abstract class PrintTicket : IEnumerable<IPrintTicketItem>
+PrintTicket
 ```
 
-## Конструкторы
+```csharp
+PrintTicket
+```
 
-| Имя | Описание |
-| --- | --- |
-| [PrintTicket](printticket)(params IPrintTicketItem[]) | Создает экземпляр билета печати. |
+```csharp
+public abstract class PrintTicket : IEnumerable<string>
+```
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/printticket/add)(params IPrintTicketItem[]) | Добавляет список элементов в конец списка элементов печатного билета. Каждый может быть[`Feature`](../feature),[`Option`](../option)или[`Property`](../property)object. |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Реализация интерфейсаIEnumerable. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Возвращает перечислитель имен элементов заявки на печать. |
+| [Remove](../../aspose.page.xps.xpsmetadata/printticket/remove)(params string[]) | Удаляет элемент из этого списка элементов PrintTicket. |
 
 ### Смотрите также
 
-* interface [IPrintTicketItem](../iprintticketitem)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * сборка [Aspose.Page](../../)
 

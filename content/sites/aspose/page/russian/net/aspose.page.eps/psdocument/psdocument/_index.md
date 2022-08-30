@@ -1,14 +1,14 @@
 ---
 title: PsDocument
 second_title: Справочник по Aspose.Page для .NET API
-description: ИнициализируетPsDocumentaspose.page.eps/psdocumentпотоком файла PS/EPS.
+description: ИнициализируетPsDocumentaspose.page.eps/psdocument с потоком файла PS/EPS.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.eps/psdocument/psdocument/
 ---
 ## PsDocument constructor
 
-Инициализирует[`PsDocument`](../../psdocument)потоком файла PS/EPS.
+Инициализирует[`PsDocument`](../../psdocument) с потоком файла PS/EPS.
 
 ```csharp
 public PsDocument(Stream psStream)

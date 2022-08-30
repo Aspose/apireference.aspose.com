@@ -1,26 +1,26 @@
 ---
 title: DocumentPrintTicket
 second_title: Aspose.Page for .NET API 参考
-description: 创建文档级打印票据实例
+description: 创建一个文档级打印票实例
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmetadata/documentprintticket/documentprintticket/
 ---
 ## DocumentPrintTicket constructor
 
-创建文档级打印票据实例。
+创建一个文档级打印票实例。
 
 ```csharp
-public DocumentPrintTicket(params IPrintTicketItem[] items)
+public DocumentPrintTicket(params IDocumentPrintTicketItem[] items)
 ```
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| items | IPrintTicketItem[] | 任意数组[`IPrintTicketItem`](../../iprintticketitem)对象。 每一个都可以是[`Feature`](../../feature),[`ParameterInit`](../../parameterinit)或[`Property`](../../property)对象。 |
+| items | IDocumentPrintTicketItem[] | 任意数组[`IDocumentPrintTicketItem`](../../idocumentprintticketitem) instance. 每一个都可以是一个[`Feature`](../../feature)， 一个[`ParameterInit`](../../parameterinit)或一个[`Property`](../../property)实例。 |
 
 ### 也可以看看
 
-* interface [IPrintTicketItem](../../iprintticketitem)
+* interface [IDocumentPrintTicketItem](../../idocumentprintticketitem)
 * class [DocumentPrintTicket](../../documentprintticket)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../documentprintticket)
 * 部件 [Aspose.Page](../../../)

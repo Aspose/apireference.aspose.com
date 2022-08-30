@@ -1,22 +1,22 @@
 ---
 title: Add
 second_title: Aspose.Page for .NET API 参考
-description: 将属性列表添加到选项属性列表的末尾 每一个都必须是ScoredPropertyaspose.page.xps.xpsmetadata/scoredproperty或Propertyaspose.page.xps.xpsmetadata/property目的
+description: 将项目列表添加到此选项的项目列表的末尾 每一个都必须是一个ScoredPropertyaspose.page.xps.xpsmetadata/scoredproperty或者Propertyaspose.page.xps.xpsmetadata/property实例.
 type: docs
 weight: 20
 url: /zh/net/aspose.page.xps.xpsmetadata/option/add/
 ---
 ## Option.Add method
 
-将属性列表添加到选项属性列表的末尾。 每一个都必须是[`ScoredProperty`](../../scoredproperty)或[`Property`](../../property)目的。
+将项目列表添加到此选项的项目列表的末尾。 每一个都必须是一个[`ScoredProperty`](../../scoredproperty)或者[`Property`](../../property)实例.
 
 ```csharp
-public void Add(params IOptionItem[] properties)
+public void Add(params IOptionItem[] items)
 ```
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| properties | IOptionItem[] | 要添加的属性列表。 |
+| items | IOptionItem[] | 要添加的项目列表。 |
 
 ### 也可以看看
 

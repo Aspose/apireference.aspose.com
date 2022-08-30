@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.Page for .NET API 参考
-description: 释放实例
+description: 处理实例
 type: docs
 weight: 360
 url: /zh/net/aspose.page.xps/xpsdocument/dispose/
 ---
 ## XpsDocument.Dispose method
 
-释放实例。
+处理实例。
 
 ```csharp
 public void Dispose()

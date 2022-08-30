@@ -3,7 +3,7 @@ title: GetPropertyDouble
 second_title: Справочник по Aspose.Page для .NET API
 description: Получает значение свойства double.
 type: docs
-weight: 280
+weight: 270
 url: /ru/net/aspose.page.eps.device/imagedevice/getpropertydouble/
 ---
 ## ImageDevice.GetPropertyDouble method
@@ -20,7 +20,7 @@ public double GetPropertyDouble(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

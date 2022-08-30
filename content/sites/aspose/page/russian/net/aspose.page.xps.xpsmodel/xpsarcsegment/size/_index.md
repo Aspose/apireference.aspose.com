@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает x и y радиусы эллиптической дуги в виде пары xy.
+description: Возвращает/задает радиус x и y эллиптической дуги в виде пары xy.
 type: docs
 weight: 40
 url: /ru/net/aspose.page.xps.xpsmodel/xpsarcsegment/size/
 ---
 ## XpsArcSegment.Size property
 
-Возвращает/устанавливает x и y радиусы эллиптической дуги в виде пары x,y.
+Возвращает/задает радиус x и y эллиптической дуги в виде пары x,y.
 
 ```csharp
 public SizeF Size { get; set; }

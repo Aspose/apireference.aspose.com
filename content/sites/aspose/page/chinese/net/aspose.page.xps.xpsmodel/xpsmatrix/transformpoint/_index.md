@@ -1,14 +1,14 @@
 ---
 title: TransformPoint
 second_title: Aspose.Page for .NET API 参考
-description: 将此 Matrix 表示的仿射变换应用于指定点
+description: 将此矩阵表示的仿射变换应用于指定点
 type: docs
 weight: 190
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/transformpoint/
 ---
 ## XpsMatrix.TransformPoint method
 
-将此 Matrix 表示的仿射变换应用于指定点。
+将此矩阵表示的仿射变换应用于指定点。
 
 ```csharp
 public PointF TransformPoint(PointF point)
@@ -16,11 +16,11 @@ public PointF TransformPoint(PointF point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | 点。 |
+| point | PointF | 重点。 |
 
 ### 返回值
 
-变换点
+转换点
 
 ### 也可以看看
 

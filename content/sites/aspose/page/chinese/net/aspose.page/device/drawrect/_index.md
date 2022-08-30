@@ -16,8 +16,8 @@ public virtual void DrawRect(double x, double y, double width, double height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | 矩形左上角的X坐标。 |
-| y | Double | 矩形左上角的Y坐标。 |
+| x | Double | 矩形左上角的 X 坐标。 |
+| y | Double | 矩形左上角的 Y 坐标。 |
 | width | Double | 矩形的宽度。 |
 | height | Double | 矩形的高度。 |
 

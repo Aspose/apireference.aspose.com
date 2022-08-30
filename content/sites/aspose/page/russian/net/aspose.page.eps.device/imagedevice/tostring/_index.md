@@ -3,7 +3,7 @@ title: ToString
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает имя типа устройства.
 type: docs
-weight: 460
+weight: 450
 url: /ru/net/aspose.page.eps.device/imagedevice/tostring/
 ---
 ## ImageDevice.ToString method

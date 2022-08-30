@@ -3,7 +3,7 @@ title: WRITE_IMAGES_AS
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Формат изображений.
 type: docs
-weight: 510
+weight: 500
 url: /ru/net/aspose.page.eps.device/pdfdevice/write_images_as/
 ---
 ## PdfDevice.WRITE_IMAGES_AS field

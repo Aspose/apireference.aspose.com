@@ -1,14 +1,14 @@
 ---
 title: TileMode
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает значение указывающее как выполняется тайлинг в заполненной геометрии.
+description: Возвращает/устанавливает значение указывающее как выполняется разбиение на мозаику в заполненной геометрии.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmodel/xpstilingbrush/tilemode/
 ---
 ## XpsTilingBrush.TileMode property
 
-Возвращает/устанавливает значение, указывающее, как выполняется тайлинг в заполненной геометрии.
+Возвращает/устанавливает значение, указывающее, как выполняется разбиение на мозаику в заполненной геометрии.
 
 ```csharp
 public XpsTileMode TileMode { get; set; }

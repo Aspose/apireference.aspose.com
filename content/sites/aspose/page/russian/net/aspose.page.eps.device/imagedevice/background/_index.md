@@ -3,7 +3,7 @@ title: BACKGROUND
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Фон.
 type: docs
-weight: 510
+weight: 500
 url: /ru/net/aspose.page.eps.device/imagedevice/background/
 ---
 ## ImageDevice.BACKGROUND field

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.Page for .NET API 参考
-description: 确定指定的Object是否等于此实例
+description: 判断是否指定Object等于这个实例
 type: docs
 weight: 90
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/equals/
 ---
 ## Equals(object)
 
-确定指定的Object是否等于此实例。
+判断是否指定Object等于这个实例。
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | Object与此实例进行比较。 |
+| obj | Object | 这Object与此实例进行比较。 |
 
 ### 返回值
 
-` true` 如果指定的Object是等于这个实例；否则，` false` 。
+`真的`如果指定Object等于这个实例；否则，`错误的`.
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public static bool Equals(XpsMatrix a, XpsMatrix b)
 
 ### 返回值
 
-[true] 如果矩阵等于
+[true] 如果矩阵相等
 
 ### 也可以看看
 

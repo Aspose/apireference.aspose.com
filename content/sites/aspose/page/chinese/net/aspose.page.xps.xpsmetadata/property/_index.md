@@ -1,17 +1,37 @@
 ---
 title: Property
 second_title: Aspose.Page for .NET API 参考
-description: 实现打印票属性的类
+description: 实现普通 PrintTicket 的类 . 所有模式定义属性的基类 A元素声明设备作业格式或其他相关属性 其名称由其名称属性给出一个Value./value元素用于分配 一个值给. 一个可能很复杂可能包含多个子属性 子属性也表示为元素. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 730
+weight: 2750
 url: /zh/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class
 
-实现打印票属性的类。
+实现普通 PrintTicket 的类 . 所有模式定义属性的基类。 A元素声明设备、作业格式或其他相关属性 ，其名称由其名称属性给出。一个[`Value`](../value)元素用于分配 一个值给. 一个可能很复杂，可能包含多个子属性。 子属性也表示为元素. https://docs.microsoft.com/en-us/windows/win32/printdocs/property
 
 ```csharp
-public class Property : IEnumerable<IPropertyItem>, IFeatureItem, IOptionItem, IPrintTicketItem, 
+Property
+```
+
+```csharp
+Property
+```
+
+```csharp
+Property
+```
+
+```csharp
+Property
+```
+
+```csharp
+Property
+```
+
+```csharp
+public class Property : CompositePrintTicketElement, IFeatureItem, IOptionItem, IPrintTicketItem, 
     IPropertyItem, IScoredPropertyItem
 ```
 
@@ -19,27 +39,22 @@ public class Property : IEnumerable<IPropertyItem>, IFeatureItem, IOptionItem, I
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Property](property)(string, params IPropertyItem[]) | 创建通用打印票属性实例。 |
+| [Property](property#constructor)(string, Property, params IPropertyItem[]) | 创建一个新实例。 |
+| [Property](property#constructor_1)(string, Value, params IPropertyItem[]) | 创建一个新实例。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/property/name) { get; } | 返回属性名称。 |
-
-## 方法
-
-| 姓名 | 描述 |
-| --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/property/getenumerator)() | IEnumerable接口的实现。 |
-| override [ToString](../../aspose.page.xps.xpsmetadata/property/tostring)() | 返回字符串表示。 |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | 获取元素名称。 |
 
 ### 也可以看看
 
-* interface [IPropertyItem](../ipropertyitem)
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IFeatureItem](../ifeatureitem)
 * interface [IOptionItem](../ioptionitem)
 * interface [IPrintTicketItem](../iprintticketitem)
+* interface [IPropertyItem](../ipropertyitem)
 * interface [IScoredPropertyItem](../iscoredpropertyitem)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * 部件 [Aspose.Page](../../)

@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API 参考
-description: 克隆此路径几何
+description: 克隆此路径几何图形
 type: docs
 weight: 50
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathgeometry/clone/
 ---
 ## XpsPathGeometry.Clone method
 
-克隆此路径几何。
+克隆此路径几何图形。
 
 ```csharp
 public XpsPathGeometry Clone()

@@ -1,14 +1,14 @@
 ---
 title: SetVisual
 second_title: Справочник по Aspose.Page для .NET API
-description: Устанавливаетvisualкак визуальный элемент визуальной кисти.
+description: Наборыvisual как визуальный элемент визуальной кисти.
 type: docs
 weight: 30
 url: /ru/net/aspose.page.xps.xpsmodel/xpsvisualbrush/setvisual/
 ---
 ## XpsVisualBrush.SetVisual method
 
-Устанавливает*visual*как визуальный элемент визуальной кисти.
+Наборы*visual* как визуальный элемент визуальной кисти.
 
 ```csharp
 public void SetVisual(XpsContentElement visual)
