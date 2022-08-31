@@ -3,7 +3,7 @@ title: PathBuilder
 second_title: Aspose.SVG for .NET API Reference
 description: The PathBuilder class is responsible for building path segments SVGPathSeg../aspose.svg.paths/svgpathseg from list of the trace points.
 type: docs
-weight: 2140
+weight: 2150
 url: /net/aspose.svg.imagevectorization/pathbuilder/
 ---
 ## PathBuilder class

@@ -3,7 +3,7 @@ title: CSSValue
 second_title: Aspose.SVG for .NET API Reference
 description: Represents a simple or a complex value. A CSSValue object only occurs in a context of a CSS property.
 type: docs
-weight: 500
+weight: 490
 url: /net/aspose.svg.dom.css/cssvalue/
 ---
 ## CSSValue class

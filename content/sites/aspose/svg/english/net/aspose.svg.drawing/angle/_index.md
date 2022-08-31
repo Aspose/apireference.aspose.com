@@ -3,7 +3,7 @@ title: Angle
 second_title: Aspose.SVG for .NET API Reference
 description: The angle data type
 type: docs
-weight: 1380
+weight: 1370
 url: /net/aspose.svg.drawing/angle/
 ---
 ## Angle class

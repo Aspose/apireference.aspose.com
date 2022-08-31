@@ -3,7 +3,7 @@ title: Unit
 second_title: Aspose.SVG for .NET API Reference
 description: Provides the base class for units of measurement.
 type: docs
-weight: 1590
+weight: 1600
 url: /net/aspose.svg.drawing/unit/
 ---
 ## Unit class

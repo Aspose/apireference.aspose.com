@@ -3,7 +3,7 @@ title: Dimension
 second_title: Aspose.SVG for .NET API Reference
 description: Provides the base class for dimensions. The general term dimension refers to a number with a unit attached to it and are denoted by UnitType./unittype.
 type: docs
-weight: 1400
+weight: 1410
 url: /net/aspose.svg.drawing/dimension/
 ---
 ## Dimension class

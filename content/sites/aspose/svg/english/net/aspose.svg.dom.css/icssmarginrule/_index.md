@@ -3,7 +3,7 @@ title: ICSSMarginRule
 second_title: Aspose.SVG for .NET API Reference
 description: The CSSMarginRule interface represents a margin at-rule.
 type: docs
-weight: 600
+weight: 590
 url: /net/aspose.svg.dom.css/icssmarginrule/
 ---
 ## ICSSMarginRule interface

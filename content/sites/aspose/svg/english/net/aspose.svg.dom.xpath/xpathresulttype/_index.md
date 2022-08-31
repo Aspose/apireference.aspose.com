@@ -3,7 +3,7 @@ title: XPathResultType
 second_title: Aspose.SVG for .NET API Reference
 description: An unsigned short indicating what type of result this is. If a specific type is specified then the result will be returned as the corresponding type using XPath type conversions where required and possible.
 type: docs
-weight: 1370
+weight: 1360
 url: /net/aspose.svg.dom.xpath/xpathresulttype/
 ---
 ## XPathResultType enumeration

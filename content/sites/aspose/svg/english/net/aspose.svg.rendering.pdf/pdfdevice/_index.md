@@ -3,7 +3,7 @@ title: PdfDevice
 second_title: Aspose.SVG for .NET API Reference
 description: Represents rendering to a pdf document.
 type: docs
-weight: 2890
+weight: 2900
 url: /net/aspose.svg.rendering.pdf/pdfdevice/
 ---
 ## PdfDevice class

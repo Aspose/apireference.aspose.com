@@ -3,7 +3,7 @@ title: SVGZoomEvent
 second_title: Aspose.SVG for .NET API Reference
 description: The zoom event occurs when the user initiates an action which causes the current view of the SVG document fragment to be rescaled. Event handlers are only recognized on svg elements.
 type: docs
-weight: 1610
+weight: 1620
 url: /net/aspose.svg.events/svgzoomevent/
 ---
 ## SVGZoomEvent class

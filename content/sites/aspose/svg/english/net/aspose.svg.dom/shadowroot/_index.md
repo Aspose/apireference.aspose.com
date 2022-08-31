@@ -3,7 +3,7 @@ title: ShadowRoot
 second_title: Aspose.SVG for .NET API Reference
 description: ShadowRoot is a root node of shadow tree.
 type: docs
-weight: 1190
+weight: 1180
 url: /net/aspose.svg.dom/shadowroot/
 ---
 ## ShadowRoot class

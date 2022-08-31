@@ -3,7 +3,7 @@ title: SVGAnimatedTransformList
 second_title: Aspose.SVG for .NET API Reference
 description: Used for the various attributes which specify a set of transformations such as the transform attribute which is available for many of SVGs elements and which can be animated.
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.svg.datatypes/svganimatedtransformlist/
 ---
 ## SVGAnimatedTransformList class

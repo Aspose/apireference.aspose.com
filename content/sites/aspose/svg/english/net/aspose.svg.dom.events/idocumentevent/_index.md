@@ -3,7 +3,7 @@ title: IDocumentEvent
 second_title: Aspose.SVG for .NET API Reference
 description: The IDocumentEvent./idocumentevent interface provides a mechanism by which the user can create an Event./event of a type supported by the implementation.
 type: docs
-weight: 950
+weight: 940
 url: /net/aspose.svg.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface

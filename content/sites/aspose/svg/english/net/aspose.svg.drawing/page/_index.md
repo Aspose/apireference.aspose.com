@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.SVG for .NET API Reference
 description: Represents a page object is used for configuration output page. The lacuna value for page size is A4210x297mm
 type: docs
-weight: 1550
+weight: 1560
 url: /net/aspose.svg.drawing/page/
 ---
 ## Page class

@@ -3,7 +3,7 @@ title: IParentNode
 second_title: Aspose.SVG for .NET API Reference
 description: Defines the IParentNode./iparentnode interface that is implemented by any possible parents.
 type: docs
-weight: 1110
+weight: 1100
 url: /net/aspose.svg.dom/iparentnode/
 ---
 ## IParentNode interface

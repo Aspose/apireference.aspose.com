@@ -3,7 +3,7 @@ title: ITrueTypeFont
 second_title: Aspose.SVG for .NET API Reference
 description: Declares methods for working with TrueType font.
 type: docs
-weight: 1500
+weight: 1510
 url: /net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
