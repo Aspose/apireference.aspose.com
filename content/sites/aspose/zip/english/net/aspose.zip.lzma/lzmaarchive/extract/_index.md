@@ -78,9 +78,9 @@ public void Extract(FileInfo fileInfo)
 ### Examples
 
 ```csharp
-using (FileStream lzipFile = File.Open(sourceFileName, FileMode.Open))
+using (FileStream lzmaFile = File.Open(sourceFileName, FileMode.Open))
 {
-    using (var archive = new LzipArchive(lzipFile))
+    using (var archive = new LzmaArchive(lzmaFile))
     {
         archive.Extract(new FileInfo("extracted.bin"));
     }
@@ -122,9 +122,9 @@ public void Extract(string path)
 ### Examples
 
 ```csharp
-using (FileStream lzipFile = File.Open(sourceFileName, FileMode.Open))
+using (FileStream lzmaFile = File.Open(sourceFileName, FileMode.Open))
 {
-    using (var archive = new LzipArchive(xzFile))
+    using (var archive = new LzmaArchive(lzmaFile))
     {
         archive.Extract("extracted.bin");
     }
