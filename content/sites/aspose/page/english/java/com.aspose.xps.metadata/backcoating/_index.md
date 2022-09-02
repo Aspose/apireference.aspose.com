@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.BackCoating
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the BackCoating scored property value.
+description: Defines constants for the BackCoating scored property value.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagemediatype.backcoating/
