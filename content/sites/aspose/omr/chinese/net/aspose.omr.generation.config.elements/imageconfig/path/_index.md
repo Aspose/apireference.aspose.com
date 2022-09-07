@@ -1,14 +1,14 @@
 ---
 title: Path
 second_title: Aspose.OMR for .NET API 参考
-description: 图片路径 填充使用 Nameaspose.omr.generation.config.elements/imageconfig/name 和 ImagesPathsaspose.omr.generation/globalpagesettings/imagespaths
+description: 图片路径填充使用Nameaspose.omr.generation.config.elements/imageconfig/name和ImagesPathsaspose.omr.generation/globalpagesettings/imagespaths
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements/imageconfig/path/
 ---
 ## ImageConfig.Path property
 
-图片路径。 填充使用 [`Name`](../name) 和 [`ImagesPaths`](../../../aspose.omr.generation/globalpagesettings/imagespaths)
+图片路径。填充使用[`Name`](../name)和[`ImagesPaths`](../../../aspose.omr.generation/globalpagesettings/imagespaths)
 
 ```csharp
 public string Path { get; set; }

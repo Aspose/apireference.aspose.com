@@ -65,7 +65,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection us
 
 ## GenerateTemplate(string[], GlobalPageSettings, ImageCollection) {#generatetemplate_7}
 
-基于标记行数组创建模板 (.omr) 和模板图像
+基于标记线数组创建模板 (.omr) 和模板图像
 
 ```csharp
 public GenerationResult GenerateTemplate(string[] markupLines, GlobalPageSettings settings, 
@@ -74,7 +74,7 @@ public GenerationResult GenerateTemplate(string[] markupLines, GlobalPageSetting
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| markupLines | String[] | 标记行数组 |
+| markupLines | String[] | 标记线数组 |
 | settings | GlobalPageSettings | 适用于所有页面元素的全局设置 |
 | userImages | ImageCollection | 可用于模板生成的图像集合。允许使用来自 MemoryStream 的图像而不是文件系统 |
 
@@ -95,7 +95,7 @@ public GenerationResult GenerateTemplate(string[] markupLines, GlobalPageSetting
 
 ## GenerateTemplate(string[], ImageCollection) {#generatetemplate_6}
 
-基于标记行数组创建模板 (.omr) 和模板图像
+基于标记线数组创建模板 (.omr) 和模板图像
 
 ```csharp
 public GenerationResult GenerateTemplate(string[] markupLines, ImageCollection userImages = null)
@@ -103,7 +103,7 @@ public GenerationResult GenerateTemplate(string[] markupLines, ImageCollection u
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| markupLines | String[] | 标记行数组 |
+| markupLines | String[] | 标记线数组 |
 | userImages | ImageCollection | 可用于模板生成的图像集合。允许使用来自 MemoryStream 的图像而不是文件系统 |
 
 ### 返回值
@@ -200,7 +200,7 @@ public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths
 
 ## GenerateTemplate(TemplateConfig, GlobalPageSettings, ImageCollection) {#generatetemplate}
 
-基于模板对象创建模板 (.omr) 和模板图像
+基于 Template object 创建模板 (.omr) 和模板图像
 
 ```csharp
 public GenerationResult GenerateTemplate(TemplateConfig config, GlobalPageSettings settings, 
@@ -210,7 +210,7 @@ public GenerationResult GenerateTemplate(TemplateConfig config, GlobalPageSettin
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | config | TemplateConfig | 代表所有元素的模板对象 |
-| settings | GlobalPageSettings | 用于所有模板生成的全局设置 |
+| settings | GlobalPageSettings | 所有模板生成中使用的全局设置 |
 | userImages | ImageCollection | 可用于模板生成的图像集合。允许使用来自 MemoryStream 的图像而不是文件系统 |
 
 ### 返回值

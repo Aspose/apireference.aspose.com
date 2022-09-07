@@ -1,14 +1,14 @@
 ---
 title: QuestionConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Представляет элемент вопроса. Обычно используется вTableConfig./tableconfigв виде строк.
+description: Представляет элемент вопроса. Обычно используется вTableConfig./tableconfig как строки.
 type: docs
 weight: 330
 url: /ru/net/aspose.omr.generation.config.elements.table/questionconfig/
 ---
 ## QuestionConfig class
 
-Представляет элемент вопроса. Обычно используется в[`TableConfig`](../tableconfig)в виде строк.
+Представляет элемент вопроса. Обычно используется в[`TableConfig`](../tableconfig) как строки.
 
 ```csharp
 public class QuestionConfig : BaseConfig

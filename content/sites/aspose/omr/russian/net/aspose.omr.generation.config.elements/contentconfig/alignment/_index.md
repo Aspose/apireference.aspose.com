@@ -1,14 +1,14 @@
 ---
 title: Alignment
 second_title: Справочник по Aspose.OMR для .NET API
-description: Выравнивание строки содержимого внутри родителя
+description: Выравнивание строки содержимого внутри parent
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation.config.elements/contentconfig/alignment/
 ---
 ## ContentConfig.Alignment property
 
-Выравнивание строки содержимого внутри родителя
+Выравнивание строки содержимого внутри parent
 
 ```csharp
 public AlignmentEnum Alignment { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: GetOmr
 second_title: Справочник по Aspose.OMR для .NET API
-description: Получить содержимое файла .omr изGenerationResultaspose.omr.generation/generationresultas MemoryStream. По умолчанию текст закодирован в кодировке UTF8.
+description: Получить содержимое файла .omr изGenerationResultaspose.omr.generation/generationresult как MemoryStream. По умолчанию текст закодирован в кодировке UTF8.
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation/memorygenerationresult/getomr/
 ---
 ## MemoryGenerationResult.GetOmr method
 
-Получить содержимое файла .omr из[`GenerationResult`](../../generationresult)as MemoryStream. По умолчанию текст закодирован в кодировке UTF8.
+Получить содержимое файла .omr из[`GenerationResult`](../../generationresult) как MemoryStream. По умолчанию текст закодирован в кодировке UTF8.
 
 ```csharp
 public MemoryStream GetOmr(Encoding encoding = null)

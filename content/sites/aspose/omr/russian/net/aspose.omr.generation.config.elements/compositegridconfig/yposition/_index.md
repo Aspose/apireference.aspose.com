@@ -3,7 +3,7 @@ title: YPosition
 second_title: Справочник по Aspose.OMR для .NET API
 description: Положение сетки Y на странице переопределяет выравнивание
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/yposition/
 ---
 ## CompositeGridConfig.YPosition property

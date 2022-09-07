@@ -1,14 +1,14 @@
 ---
 title: Score
 second_title: Aspose.OMR for .NET API 参考
-description: 得分量
+description: 分数
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/score/
 ---
 ## ScoreAnswerConfig.Score property
 
-得分量
+分数
 
 ```csharp
 public int Score { get; set; }

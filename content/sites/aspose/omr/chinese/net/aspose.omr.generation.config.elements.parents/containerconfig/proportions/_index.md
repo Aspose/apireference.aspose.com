@@ -1,14 +1,14 @@
 ---
 title: Proportions
 second_title: Aspose.OMR for .NET API 参考
-description: 按自定义比例除以其中的每一列 ColumnsCount
+description: 按自定义比例划分其中的每一列 较新版本ColumnsCountaspose.omr.generation.config.elements.parents/containerconfig/columnscount
 type: docs
 weight: 90
 url: /zh/net/aspose.omr.generation.config.elements.parents/containerconfig/proportions/
 ---
 ## ContainerConfig.Proportions property
 
-按自定义比例除以其中的每一列 ColumnsCount
+按自定义比例划分其中的每一列 较新版本[`ColumnsCount`](../columnscount)
 
 ```csharp
 public List<int> Proportions { get; set; }

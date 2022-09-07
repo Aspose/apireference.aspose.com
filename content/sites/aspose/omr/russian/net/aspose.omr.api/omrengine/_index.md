@@ -1,14 +1,14 @@
 ---
 title: OmrEngine
 second_title: Справочник по Aspose.OMR для .NET API
-description: Движок OMR. Управляет созданием шаблонов и классов обработки изображений и компонентов GUI.
+description: Механизм OMR. Управляет созданием шаблонов и классов обработки изображений и компонентов графического интерфейса.
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.api/omrengine/
 ---
 ## OmrEngine class
 
-Движок OMR. Управляет созданием шаблонов и классов обработки изображений и компонентов GUI.
+Механизм OMR. Управляет созданием шаблонов и классов обработки изображений и компонентов графического интерфейса.
 
 ```csharp
 public class OmrEngine
@@ -24,7 +24,7 @@ public class OmrEngine
 
 | Имя | Описание |
 | --- | --- |
-| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings) | Создает шаблон (.omr) и образ шаблона на основе разметки .json |
+| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings) | Создает шаблон (.omr) и изображение шаблона на основе разметки .json |
 | [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring)(string, GlobalPageSettings, ImageCollection) | Создает шаблон (.omr) и изображение шаблона на основе разметки JSON |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_3)(string) | Создает шаблон (.omr) и изображение шаблона на основе текстовой разметки |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_1)(MemoryStream, ImageCollection) | Создает шаблон (.omr) и образ шаблона на основе MemoryStream |
@@ -33,10 +33,10 @@ public class OmrEngine
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_6)(string[], ImageCollection) | Создает шаблон (.omr) и изображение шаблона на основе массива строк разметки |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection) | Создает шаблон (.omr) и образ шаблона на основе MemoryStream |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Создает шаблон (.omr) и изображение шаблона на основе массива строк разметки |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Создает шаблон (.omr) и образ шаблона на основе объекта Template |
-| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Создает экземпляр[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol), позволяющий работать с OMR API с помощью графического интерфейса. Принимает[`TemplateProcessor`](../templateprocessor)в качестве параметра и работает только с изображениями, созданными с использованием указанного шаблона |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | Создает экземпляр[`TemplateProcessor`](../templateprocessor), позволяющий работать с указанным шаблоном. |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | Создает экземпляр[`TemplateProcessor`](../templateprocessor), позволяющий работать с указанным шаблоном. |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Создает шаблон (.omr) и изображение шаблона на основе Template object |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Создает[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) экземпляр, который позволяет работать с OMR API с помощью GUI. Takes[`TemplateProcessor`](../templateprocessor) в качестве параметра и работает только с изображениями, созданными с использованием указанного template |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | Создает[`TemplateProcessor`](../templateprocessor) экземпляр, позволяющий работать с указанным шаблоном. |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | Создает[`TemplateProcessor`](../templateprocessor) экземпляр, позволяющий работать с указанным шаблоном. |
 
 ### Примеры
 

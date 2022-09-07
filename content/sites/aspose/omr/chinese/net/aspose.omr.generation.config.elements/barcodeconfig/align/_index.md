@@ -1,14 +1,14 @@
 ---
 title: Align
 second_title: Aspose.OMR for .NET API 参考
-description: 页面上的条码对齐
+description: 页面上的条形码对齐方式
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/align/
 ---
 ## BarcodeConfig.Align property
 
-页面上的条码对齐
+页面上的条形码对齐方式
 
 ```csharp
 public AlignmentEnum Align { get; set; }

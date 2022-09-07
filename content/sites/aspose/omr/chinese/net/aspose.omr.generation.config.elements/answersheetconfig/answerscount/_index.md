@@ -1,14 +1,14 @@
 ---
 title: AnswersCount
 second_title: Aspose.OMR for .NET API 参考
-description: 答案表中每个问题的答案选项数
+description: 答题卡中每个问题的答案选项数
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/answerscount/
 ---
 ## AnswerSheetConfig.AnswersCount property
 
-答案表中每个问题的答案选项数。
+答题卡中每个问题的答案选项数。
 
 ```csharp
 public int AnswersCount { get; set; }

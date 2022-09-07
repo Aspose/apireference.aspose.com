@@ -1,7 +1,7 @@
 ---
 title: BarcodeType
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип элемента штрих-кода
+description: Тип элемента штрихкода
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/barcodetype/
@@ -11,11 +11,12 @@ url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/barcodetype/
 Тип элемента штрих-кода
 
 ```csharp
-public     BarcodeType { get; set; }
+public BarcodeType BarcodeType { get; set; }
 ```
 
 ### Смотрите также
 
+* enum [BarcodeType](../../../aspose.omr.generation.config.enums/barcodetype)
 * class [BarcodeConfig](../../barcodeconfig)
 * пространство имен [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
 * сборка [Aspose.OMR](../../../)

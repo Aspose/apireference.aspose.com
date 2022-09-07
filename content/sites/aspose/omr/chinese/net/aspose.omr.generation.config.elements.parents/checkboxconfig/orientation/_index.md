@@ -1,14 +1,14 @@
 ---
 title: Orientation
 second_title: Aspose.OMR for .NET API 参考
-description: 控制子元素的位置 目前只支持横向
+description: 子元素的控制位置. 目前只支持水平.
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/orientation/
 ---
 ## CheckBoxConfig.Orientation property
 
-控制子元素的位置。 目前只支持横向。
+子元素的控制位置. 目前只支持水平.
 
 ```csharp
 public Orientation Orientation { get; set; }

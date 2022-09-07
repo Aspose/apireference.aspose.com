@@ -1,14 +1,14 @@
 ---
 title: BubbleSize
 second_title: Aspose.OMR for .NET API 参考
-description: 每个选项的矩形大小子
+description: 每个选项的矩形大小儿童
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize/
 ---
 ## CheckBoxConfig.BubbleSize property
 
-每个选项的矩形大小（子）
+每个选项的矩形大小（儿童）
 
 ```csharp
 public BubbleSize BubbleSize { get; set; }

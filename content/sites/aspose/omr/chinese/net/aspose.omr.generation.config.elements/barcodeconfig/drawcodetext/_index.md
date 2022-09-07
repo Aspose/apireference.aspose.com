@@ -1,14 +1,14 @@
 ---
 title: DrawCodetext
 second_title: Aspose.OMR for .NET API 参考
-description: 表示是否在条码图像下方绘制文字
+description: 表示是否在条形码图像下方绘制文字
 type: docs
 weight: 50
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/drawcodetext/
 ---
 ## BarcodeConfig.DrawCodetext property
 
-表示是否在条码图像下方绘制文字）
+表示是否在条形码图像下方绘制文字）
 
 ```csharp
 public bool DrawCodetext { get; set; }

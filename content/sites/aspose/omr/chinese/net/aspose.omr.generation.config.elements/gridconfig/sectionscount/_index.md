@@ -3,7 +3,7 @@ title: SectionsCount
 second_title: Aspose.OMR for .NET API 参考
 description: 网格内选择框的数量即自上而下网格中的列
 type: docs
-weight: 100
+weight: 120
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/sectionscount/
 ---
 ## GridConfig.SectionsCount property

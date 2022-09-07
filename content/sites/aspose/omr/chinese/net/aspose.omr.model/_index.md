@@ -12,7 +12,7 @@ url: /zh/net/aspose.omr.model/
 
 | 班级 | 描述 |
 | --- | --- |
-| [RecognitionResult](./recognitionresult) | 图像识别的结果。 包含所有带有详细识别信息和结果导出方法的 OMR 元素。 |
+| [RecognitionResult](./recognitionresult) | 图像识别的结果。 包含所有OMR元素以及详细的识别信息和结果导出方法。 |
 ## 接口
 
 | 界面 | 描述 |

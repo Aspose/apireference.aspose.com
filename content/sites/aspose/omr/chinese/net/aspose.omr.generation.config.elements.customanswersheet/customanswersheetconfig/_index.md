@@ -1,7 +1,7 @@
 ---
 title: CustomAnswerSheetConfig
 second_title: Aspose.OMR for .NET API 参考
-description: 重复自定义行描述自定义行使用 -CustomRowConfig./customrowconfig
+description: 重复自定义行描述自定义行使用 CustomRowConfig./customrowconfig
 type: docs
 weight: 140
 url: /zh/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/
@@ -26,7 +26,7 @@ public class CustomAnswerSheetConfig : ParentConfig
 | --- | --- |
 | [Amount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount) { get; set; } | 总行数 |
 | [BorderColor](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordercolor) { get; set; } | 边框颜色 |
-| [BorderSize](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordersize) { get; set; } | 边界线的大小 |
+| [BorderSize](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordersize) { get; set; } | 边界线大小 |
 | [BorderType](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertype) { get; set; } | 用于分隔列（部分）的绘制边框类型 |
 | override [Children](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
 | [ColumnsCount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/columnscount) { get; set; } | 分组行的列（节）数量 |

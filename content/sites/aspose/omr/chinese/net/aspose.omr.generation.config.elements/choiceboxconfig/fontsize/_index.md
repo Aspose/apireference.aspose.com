@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Aspose.OMR for .NET API 参考
-description: 文本字体大小
+description: 文字字体大小
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements/choiceboxconfig/fontsize/
 ---
 ## ChoiceBoxConfig.FontSize property
 
-文本字体大小
+文字字体大小
 
 ```csharp
 public int FontSize { get; set; }

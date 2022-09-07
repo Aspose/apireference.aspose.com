@@ -1,14 +1,14 @@
 ---
 title: GetCorrectionControl
 second_title: Aspose.OMR for .NET API 参考
-description: 创建CorrectionControlaspose.omr.correctionui/correctioncontrol实例允许使用 GUI 使用 OMR API 采用TemplateProcessoraspose.omr.api/templateprocessor作为参数并且仅适用于使用指定模板创建的图像
+description: 创建CorrectionControlaspose.omr.correctionui/correctioncontrol允许使用 GUI. 使用 OMR API 的实例TemplateProcessoraspose.omr.api/templateprocessor作为参数仅适用于使用指定 template 创建的图像
 type: docs
 weight: 50
 url: /zh/net/aspose.omr.api/omrengine/getcorrectioncontrol/
 ---
 ## OmrEngine.GetCorrectionControl method
 
-创建[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol)实例，允许使用 GUI 使用 OMR API。 采用[`TemplateProcessor`](../../templateprocessor)作为参数，并且仅适用于使用指定模板创建的图像
+创建[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol)允许使用 GUI. 使用 OMR API 的实例[`TemplateProcessor`](../../templateprocessor)作为参数，仅适用于使用指定 template 创建的图像
 
 ```csharp
 public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
@@ -20,7 +20,7 @@ public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
 
 ### 返回值
 
-[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol)实例
+这[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol)实例
 
 ### 也可以看看
 

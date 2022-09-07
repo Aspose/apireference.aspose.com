@@ -1,14 +1,14 @@
 ---
 title: InputBorder
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип нарисованной границы
+description: Тип нарисованной рамки
 type: docs
 weight: 50
 url: /ru/net/aspose.omr.generation.config.elements/inputgroup/inputborder/
 ---
 ## InputGroup.InputBorder property
 
-Тип нарисованной границы
+Тип нарисованной рамки
 
 ```csharp
 public BorderType InputBorder { get; set; }

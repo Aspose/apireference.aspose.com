@@ -1,14 +1,14 @@
 ---
 title: MemoryGenerationResult
 second_title: Aspose.OMR for .NET API 参考
-description: 初始化包装器的实例
+description: 初始化包装器实例
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation/memorygenerationresult/memorygenerationresult/
 ---
 ## MemoryGenerationResult constructor
 
-初始化包装器的实例。
+初始化包装器实例。
 
 ```csharp
 public MemoryGenerationResult(GenerationResult result)

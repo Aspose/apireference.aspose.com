@@ -1,14 +1,14 @@
 ---
 title: PageMarginRight
 second_title: Справочник по Aspose.OMR для .NET API
-description: Правое поле страницы в пикселях
+description: Правое поле страницы на пикселях
 type: docs
 weight: 100
 url: /ru/net/aspose.omr.generation/globalpagesettings/pagemarginright/
 ---
 ## GlobalPageSettings.PageMarginRight field
 
-Правое поле страницы в пикселях
+Правое поле страницы на пикселях
 
 ```csharp
 public int PageMarginRight;

@@ -3,12 +3,12 @@ title: GridOrientation
 second_title: Aspose.OMR for .NET API 参考
 description: 网格方向水平或垂直指示应如何定位子元素
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/gridorientation/
 ---
 ## CompositeGridConfig.GridOrientation property
 
-网格方向:水平或垂直。指示应如何定位子元素
+网格方向：水平或垂直。指示应如何定位子元素
 
 ```csharp
 public Orientation GridOrientation { get; set; }

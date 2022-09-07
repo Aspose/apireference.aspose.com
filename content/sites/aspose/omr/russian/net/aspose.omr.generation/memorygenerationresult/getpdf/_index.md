@@ -1,14 +1,14 @@
 ---
 title: GetPDF
 second_title: Справочник по Aspose.OMR для .NET API
-description: Получить файлы .pdf изGenerationResultaspose.omr.generation/generationresultкак MemoryStream.
+description: Получите файлы .pdf изGenerationResultaspose.omr.generation/generationresult как MemoryStream.
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.generation/memorygenerationresult/getpdf/
 ---
 ## MemoryGenerationResult.GetPDF method
 
-Получить файлы .pdf из[`GenerationResult`](../../generationresult)как MemoryStream.
+Получите файлы .pdf из[`GenerationResult`](../../generationresult) как MemoryStream.
 
 ```csharp
 public IEnumerable<MemoryStream> GetPDF()

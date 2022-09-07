@@ -13,15 +13,15 @@ url: /zh/net/aspose.omr.generation.config.elements/
 | 班级 | 描述 |
 | --- | --- |
 | [AnswerSheetConfig](./answersheetconfig) | 表示 AnswerSheet 元素。 它允许添加按列和行分组的选择框。 如果您想在一个页面上放置很多问题，请使用答题纸，因为它们彼此靠近。 |
-| [BarcodeConfig](./barcodeconfig) | 条码元素。可用于编码值。 使用像素坐标定位在页面上。 |
-| [ChoiceBoxConfig](./choiceboxconfig) | 选择框是一个基本元素，表示具有一定数量答案的单个问题。 |
-| [CompositeGridConfig](./compositegridconfig) | 网格元素。 产生气泡数组。每个填充的气泡代表复合值中的一个符号 所有标记的符号将连接成单个值 |
-| [ContentConfig](./contentconfig) | 表示内容元素。可用作表格中的子元素。 |
+| [BarcodeConfig](./barcodeconfig) | 条码元素。可用于对值进行编码。 使用以像素为单位的坐标定位在页面上。 |
+| [ChoiceBoxConfig](./choiceboxconfig) | 选择框是一个基本元素，表示具有固定数量答案的单个问题。 |
+| [CompositeGridConfig](./compositegridconfig) | 网格元素。 生成气泡数组。每个填充的气泡代表复合值中的一个符号 所有标记的符号将连接成单个值 |
+| [ContentConfig](./contentconfig) | 表示内容元素。可以用作表格中的子元素。 |
 | [CustomTriggerConfig](./customtriggerconfig) | 自定义气泡。填充后可以更改目标元素的行为\值 |
-| [EmptyLineConfig](./emptylineconfig) | 空元素。可用作垂直边距。跳过的高度可以通过属性设置。 |
-| [GridConfig](./gridconfig) | 代表气泡表。 问题标识符和可供选择的多个答案 答案行可以是水平或垂直 |
+| [EmptyLineConfig](./emptylineconfig) | 空元素。可用作垂直边距。跳过的高度可以通过 property. 设置 |
+| [GridConfig](./gridconfig) | 代表气泡表。 问题标识符和选择的多个答案 答案行可以是水平的或垂直的 |
 | [ImageConfig](./imageconfig) | 表示图像元素。 使用提供的路径从文件系统插入 |
-| [InputGroup](./inputgroup) | 分组元素。由两个 Content 子项组成。以 1\3 和 2\3 的比例绘制。 |
+| [InputGroup](./inputgroup) | 分组元素。由两个 Content 子项组成。按比例 1\3 和 2\3. 绘制 |
 | [TextConfig](./textconfig) | 表示文本元素。 用于显示信息。 不参与识别。 |
 | [WriteInConfig](./writeinconfig) | 表示写入元素。 用于手写字段。 识别后剪辑为图片并放置在文件夹中。 |
 

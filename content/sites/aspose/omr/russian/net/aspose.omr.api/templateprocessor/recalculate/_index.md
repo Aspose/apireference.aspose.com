@@ -1,14 +1,14 @@
 ---
 title: Recalculate
 second_title: Справочник по Aspose.OMR для .NET API
-description: Обновляет результат распознавания с помощью тонко настроенных параметров.
+description: Обновляет результат распознавания с использованием точно настроенных параметров.
 type: docs
 weight: 10
 url: /ru/net/aspose.omr.api/templateprocessor/recalculate/
 ---
 ## TemplateProcessor.Recalculate method
 
-Обновляет результат распознавания с помощью тонко настроенных параметров.
+Обновляет результат распознавания с использованием точно настроенных параметров.
 
 ```csharp
 public void Recalculate(RecognitionResult result, int recognitionThreshold = -100)
@@ -16,7 +16,7 @@ public void Recalculate(RecognitionResult result, int recognitionThreshold = -10
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| result | RecognitionResult | Результат распознавания для обновления. |
+| result | RecognitionResult | Результат распознавания обновить. |
 | recognitionThreshold | Int32 | (Необязательно) Порог распознавания в диапазоне (0..100). Только элементы, заполненные выше порога, будут считаться заполненными. |
 
 ### Примечания

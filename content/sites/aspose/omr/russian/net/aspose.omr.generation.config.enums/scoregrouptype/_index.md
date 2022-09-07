@@ -1,14 +1,14 @@
 ---
 title: ScoreGroupType
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип счета Группа. Влияет на рисование элемента группы очков
+description: Тип оценки Группа. Влияет на жеребьевку группы очков element
 type: docs
-weight: 490
+weight: 510
 url: /ru/net/aspose.omr.generation.config.enums/scoregrouptype/
 ---
 ## ScoreGroupType enumeration
 
-Тип счета Группа. Влияет на рисование элемента группы очков
+Тип оценки Группа. Влияет на жеребьевку группы очков element
 
 ```csharp
 public enum ScoreGroupType
@@ -18,7 +18,7 @@ public enum ScoreGroupType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Table | `0` | Расположите каждый вопрос как таблицу, ответ как строку |
+| Table | `0` | Расположите каждый вопрос как таблицу, ответ как row |
 
 ### Смотрите также
 

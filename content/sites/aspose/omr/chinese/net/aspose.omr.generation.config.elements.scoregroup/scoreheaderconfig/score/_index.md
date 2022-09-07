@@ -1,14 +1,14 @@
 ---
 title: Score
 second_title: Aspose.OMR for .NET API 参考
-description: 得分修正
+description: 分数修改器
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/score/
 ---
 ## ScoreHeaderConfig.Score property
 
-得分修正
+分数修改器
 
 ```csharp
 public int Score { get; set; }

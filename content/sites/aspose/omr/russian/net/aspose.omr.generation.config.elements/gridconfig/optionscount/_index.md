@@ -1,14 +1,14 @@
 ---
 title: OptionsCount
 second_title: Справочник по Aspose.OMR для .NET API
-description: Количество вариантов ответа в каждом поле выбора т.е. строк в сетке сверху вниз
+description: Количество вариантов ответа в каждом поле выбора т. е. строк в нисходящей сетке
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/aspose.omr.generation.config.elements/gridconfig/optionscount/
 ---
 ## GridConfig.OptionsCount property
 
-Количество вариантов ответа в каждом поле выбора, т.е. строк в сетке сверху вниз
+Количество вариантов ответа в каждом поле выбора, т. е. строк в нисходящей сетке
 
 ```csharp
 public int OptionsCount { get; set; }

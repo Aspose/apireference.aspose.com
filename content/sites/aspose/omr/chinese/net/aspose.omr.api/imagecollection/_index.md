@@ -1,14 +1,14 @@
 ---
 title: ImageCollection
 second_title: Aspose.OMR for .NET API 参考
-description: 可用于模板生成的图像集合 例如GenerateTemplate./omrengine/generatetemplate 可以当您的图像不在文件系统中时很有用
+description: 可用于模板生成的图像集合 例如GenerateTemplate./omrengine/generatetemplate 当您的图像不在文件系统中时可能很有用
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.api/imagecollection/
 ---
 ## ImageCollection class
 
-可用于模板生成的图像集合。 例如[`GenerateTemplate`](../omrengine/generatetemplate) 可以当您的图像不在文件系统中时很有用。
+可用于模板生成的图像集合。 例如[`GenerateTemplate`](../omrengine/generatetemplate) 当您的图像不在文件系统中时可能很有用。
 
 ```csharp
 public class ImageCollection

@@ -24,11 +24,11 @@ public class TextConfig : BaseConfig
 
 | Имя | Описание |
 | --- | --- |
-| [FontFamily](../../aspose.omr.generation.config.elements/textconfig/fontfamily) { get; set; } | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements/textconfig/fontsize) { get; set; } | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation.config.elements/textconfig/fontfamily) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements/textconfig/fontsize) { get; set; } | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements/textconfig/fontstyle) { get; set; } | Стиль текста |
 | override [Name](../../aspose.omr.generation.config.elements/textconfig/name) { get; set; } | Текст, который необходимо отобразить |
-| [TextAlignment](../../aspose.omr.generation.config.elements/textconfig/textalignment) { get; set; } | Выравнивание текста, указывающее, где текст должен быть отрисован на странице |
+| [TextAlignment](../../aspose.omr.generation.config.elements/textconfig/textalignment) { get; set; } | Выравнивание текста, указывающее, где должен быть отрисован текст на странице |
 | override [Type](../../aspose.omr.generation.config.elements/textconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

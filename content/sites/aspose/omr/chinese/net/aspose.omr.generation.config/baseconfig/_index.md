@@ -18,7 +18,7 @@ public abstract class BaseConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | omr 元素的名称。可根据元素 |
+| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | omr 元素的名称。可以根据element 在不同的情况下使用 |
 | abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | omr 元素的类型。没有默认值。必须被覆盖。 |
 
 ### 也可以看看

@@ -3,7 +3,7 @@ title: Type
 second_title: Aspose.OMR for .NET API 参考
 description: omr 元素的类型 JSON 序列化的必填字段
 type: docs
-weight: 110
+weight: 130
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/type/
 ---
 ## GridConfig.Type property

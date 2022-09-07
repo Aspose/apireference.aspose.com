@@ -1,14 +1,14 @@
 ---
 title: Required
 second_title: Справочник по Aspose.OMR для .NET API
-description: Требуется ли обрезка поля записи
+description: Требуется ли отсечение поля записи
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation.config.elements/writeinconfig/required/
 ---
 ## WriteInConfig.Required property
 
-Требуется ли обрезка поля записи
+Требуется ли отсечение поля записи
 
 ```csharp
 public bool Required { get; set; }

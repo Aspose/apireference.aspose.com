@@ -3,7 +3,7 @@ title: Type
 second_title: Справочник по Aspose.OMR для .NET API
 description: Тип элемента omr. Обязательное поле для сериализации JSON.
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/type/
 ---
 ## CompositeGridConfig.Type property

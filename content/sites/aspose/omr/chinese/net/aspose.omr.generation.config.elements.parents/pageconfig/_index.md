@@ -1,14 +1,14 @@
 ---
 title: PageConfig
 second_title: Aspose.OMR for .NET API 参考
-description: 表示页面元素 每页一个必须放在TemplateConfig../aspose.omr.generation.config/templateconfig
+description: 表示页面元素 每页一个必须放在里面TemplateConfig../aspose.omr.generation.config/templateconfig
 type: docs
 weight: 250
 url: /zh/net/aspose.omr.generation.config.elements.parents/pageconfig/
 ---
 ## PageConfig class
 
-表示页面元素。 每页一个。必须放在[`TemplateConfig`](../../aspose.omr.generation.config/templateconfig)
+表示页面元素。 每页一个。必须放在里面[`TemplateConfig`](../../aspose.omr.generation.config/templateconfig)
 
 ```csharp
 public class PageConfig : ParentConfig

@@ -1,14 +1,14 @@
 ---
 title: OmrEngine
 second_title: Aspose.OMR for .NET API 参考
-description: OMR 引擎 处理模板和图像处理类和 GUI 组件的创建
+description: OMR 引擎 处理模板和图像处理类以及 GUI 组件的创建
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.api/omrengine/
 ---
 ## OmrEngine class
 
-OMR 引擎。 处理模板和图像处理类和 GUI 组件的创建。
+OMR 引擎。 处理模板和图像处理类以及 GUI 组件的创建。
 
 ```csharp
 public class OmrEngine
@@ -30,13 +30,13 @@ public class OmrEngine
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_1)(MemoryStream, ImageCollection) | 基于 MemoryStream 创建模板 (.omr) 和模板图像 |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_4)(string, GlobalPageSettings) | 基于文本标记创建模板 (.omr) 和模板图像 |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_5)(string, string[]) | 基于文本标记创建模板 (.omr) 和模板图像 |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_6)(string[], ImageCollection) | 基于标记行数组创建模板 (.omr) 和模板图像 |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_6)(string[], ImageCollection) | 基于标记线数组创建模板 (.omr) 和模板图像 |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection) | 基于 MemoryStream 创建模板 (.omr) 和模板图像 |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | 基于标记行数组创建模板 (.omr) 和模板图像 |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | 基于模板对象创建模板 (.omr) 和模板图像 |
-| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | 创建[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol)实例，允许使用 GUI 使用 OMR API。 采用[`TemplateProcessor`](../templateprocessor)作为参数，并且仅适用于使用指定模板创建的图像 |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | 创建允许使用指定模板的[`TemplateProcessor`](../templateprocessor)实例。 |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | 创建允许使用指定模板的[`TemplateProcessor`](../templateprocessor)实例。 |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | 基于标记线数组创建模板 (.omr) 和模板图像 |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | 基于 Template object 创建模板 (.omr) 和模板图像 |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | 创建[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol)允许使用 GUI. 使用 OMR API 的实例[`TemplateProcessor`](../templateprocessor)作为参数，仅适用于使用指定 template 创建的图像 |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | 创建[`TemplateProcessor`](../templateprocessor)允许使用指定模板的实例。 |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | 创建[`TemplateProcessor`](../templateprocessor)允许使用指定模板的实例。 |
 
 ### 例子
 

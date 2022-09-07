@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.OMR для .NET API
-description: Целевая высота изображения штрих-кода
+description: Целевая высота штрихкода image
 type: docs
 weight: 60
 url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/height/
 ---
 ## BarcodeConfig.Height property
 
-Целевая высота изображения штрих-кода
+Целевая высота штрих-кода image
 
 ```csharp
 public int Height { get; set; }

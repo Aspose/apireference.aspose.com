@@ -1,14 +1,14 @@
 ---
 title: GetXml
 second_title: Справочник по Aspose.OMR для .NET API
-description: Формируем строку XML с результатами распознавания в виде MemoryStream
+description: Строка XML формы с результатами распознавания как MemoryStream
 type: docs
 weight: 100
 url: /ru/net/aspose.omr.model/recognitionresult/getxml/
 ---
 ## GetXml(Encoding) {#getxml}
 
-Формируем строку XML с результатами распознавания в виде MemoryStream
+Строка XML формы с результатами распознавания как MemoryStream
 
 ```csharp
 public byte[] GetXml(Encoding encoding)
@@ -16,7 +16,7 @@ public byte[] GetXml(Encoding encoding)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| encoding | Encoding | Кодирование с которую мы кодируем строку XML |
+| encoding | Encoding | Кодировка, с помощью которой мы кодируем строку XML |
 
 ### Возвращаемое значение
 
@@ -32,7 +32,7 @@ public byte[] GetXml(Encoding encoding)
 
 ## GetXml() {#getxml_1}
 
-Форма XML-строки с результатами распознавания
+Строка XML формы с результатами распознавания
 
 ```csharp
 public string GetXml()
@@ -40,7 +40,7 @@ public string GetXml()
 
 ### Возвращаемое значение
 
-Результаты распознавания в виде XML-строки
+Результаты распознавания в виде строки XML
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: Column
 second_title: Aspose.OMR for .NET API 参考
-description: 表中的列位置 第一列 - 1
+description: 表中的列位置 第一列  1
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/column/

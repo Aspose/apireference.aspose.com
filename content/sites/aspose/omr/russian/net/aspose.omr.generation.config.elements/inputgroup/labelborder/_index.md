@@ -1,14 +1,14 @@
 ---
 title: LabelBorder
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип нарисованной границы
+description: Тип нарисованной рамки
 type: docs
 weight: 60
 url: /ru/net/aspose.omr.generation.config.elements/inputgroup/labelborder/
 ---
 ## InputGroup.LabelBorder property
 
-Тип нарисованной границы
+Тип нарисованной рамки
 
 ```csharp
 public BorderType LabelBorder { get; set; }

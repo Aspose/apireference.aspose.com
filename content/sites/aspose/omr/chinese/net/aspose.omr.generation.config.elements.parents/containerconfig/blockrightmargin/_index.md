@@ -1,14 +1,14 @@
 ---
 title: BlockRightMargin
 second_title: Aspose.OMR for .NET API 参考
-description: 块之间的像素数量
+description: 要放置在右侧块之间的像素量
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin/
 ---
 ## ContainerConfig.BlockRightMargin property
 
-块之间的像素数量。
+要放置在右侧块之间的像素量
 
 ```csharp
 public int BlockRightMargin { get; set; }

@@ -16,11 +16,11 @@ public MemoryStream GetCsvAsStream(Encoding encoding)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | Encoding with我们编码 CSV 字符串 |
+| encoding | Encoding | 编码 CSV 字符串的编码 |
 
 ### 返回值
 
-识别结果为带有 CSV
+将结果识别为带有 CSV 的 MemoryStream
 
 ### 也可以看看
 

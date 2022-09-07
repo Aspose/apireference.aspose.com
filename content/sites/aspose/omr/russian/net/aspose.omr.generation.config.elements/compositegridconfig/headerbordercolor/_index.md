@@ -3,7 +3,7 @@ title: HeaderBorderColor
 second_title: Справочник по Aspose.OMR для .NET API
 description: Цвет рамки квадрата
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/headerbordercolor/
 ---
 ## CompositeGridConfig.HeaderBorderColor property

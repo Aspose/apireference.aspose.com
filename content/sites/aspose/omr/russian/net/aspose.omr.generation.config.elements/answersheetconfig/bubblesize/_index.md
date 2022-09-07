@@ -3,7 +3,7 @@ title: BubbleSize
 second_title: Справочник по Aspose.OMR для .NET API
 description: Размер пузыря
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.omr.generation.config.elements/answersheetconfig/bubblesize/
 ---
 ## AnswerSheetConfig.BubbleSize field

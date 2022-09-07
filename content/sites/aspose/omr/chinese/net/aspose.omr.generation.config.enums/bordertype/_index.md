@@ -3,7 +3,7 @@ title: BorderType
 second_title: Aspose.OMR for .NET API 参考
 description: 边框类型
 type: docs
-weight: 410
+weight: 420
 url: /zh/net/aspose.omr.generation.config.enums/bordertype/
 ---
 ## BorderType enumeration
@@ -18,9 +18,9 @@ public enum BorderType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 无框架 |
+| None | `0` | 没有取景 |
 | Square | `1` | 方形框架 |
-| Rounded | `2` | 圆角框 |
+| Rounded | `2` | 圆角框架 |
 
 ### 也可以看看
 

@@ -24,10 +24,10 @@ public class ContentConfig : BaseConfig
 
 | Имя | Описание |
 | --- | --- |
-| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Выравнивание строки содержимого внутри родителя |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Выравнивание строки содержимого внутри parent |
 | [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Тип отображения текста. |
-| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | Стиль текста |
 | override [Name](../../aspose.omr.generation.config.elements/contentconfig/name) { get; set; } | Значение содержимого |
 | override [Type](../../aspose.omr.generation.config.elements/contentconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |

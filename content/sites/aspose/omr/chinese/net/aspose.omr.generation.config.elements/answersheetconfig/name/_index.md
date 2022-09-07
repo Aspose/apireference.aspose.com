@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 答题卡名称
+description: 答题纸名称
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/name/
 ---
 ## AnswerSheetConfig.Name property
 
-答题卡名称
+答题纸名称
 
 ```csharp
 public override string Name { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Proportions
 second_title: Справочник по Aspose.OMR для .NET API
-description: Разделить каждый столбец внутри него по произвольному соотношению Более новая версияColumnsCountaspose.omr.generation.config.elements.parents/containerconfig/columnscount
+description: Разделить по пользовательскому коэффициенту каждый столбец внутри него Более новая версияColumnsCountaspose.omr.generation.config.elements.parents/containerconfig/columnscount
 type: docs
 weight: 90
 url: /ru/net/aspose.omr.generation.config.elements.parents/containerconfig/proportions/
 ---
 ## ContainerConfig.Proportions property
 
-Разделить каждый столбец внутри него по произвольному соотношению Более новая версия[`ColumnsCount`](../columnscount)
+Разделить по пользовательскому коэффициенту каждый столбец внутри него Более новая версия[`ColumnsCount`](../columnscount)
 
 ```csharp
 public List<int> Proportions { get; set; }

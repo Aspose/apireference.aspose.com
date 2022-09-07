@@ -3,7 +3,7 @@ title: TemplateConfig
 second_title: Aspose.OMR for .NET API 参考
 description: 包含所有其他 omr 元素的根元素
 type: docs
-weight: 540
+weight: 560
 url: /zh/net/aspose.omr.generation.config/templateconfig/
 ---
 ## TemplateConfig class

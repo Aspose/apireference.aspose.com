@@ -3,7 +3,7 @@ title: BubbleType
 second_title: Справочник по Aspose.OMR для .NET API
 description: Тип пузыря.
 type: docs
-weight: 420
+weight: 430
 url: /ru/net/aspose.omr.generation.config.enums/bubbletype/
 ---
 ## BubbleType enumeration

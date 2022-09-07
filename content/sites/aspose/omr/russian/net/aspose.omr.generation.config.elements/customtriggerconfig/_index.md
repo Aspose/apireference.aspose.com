@@ -1,14 +1,14 @@
 ---
 title: CustomTriggerConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Пользовательский пузырь. При заполнении может измениться поведениезначение целевых элементов
+description: Пользовательский пузырь. При заполнении может измениться поведениезначение целевых elements
 type: docs
 weight: 160
 url: /ru/net/aspose.omr.generation.config.elements/customtriggerconfig/
 ---
 ## CustomTriggerConfig class
 
-Пользовательский пузырь. При заполнении может измениться поведение\значение целевых элементов
+Пользовательский пузырь. При заполнении может измениться поведение\значение целевых elements
 
 ```csharp
 public class CustomTriggerConfig : BaseConfig
@@ -24,6 +24,7 @@ public class CustomTriggerConfig : BaseConfig
 
 | Имя | Описание |
 | --- | --- |
+| [BubbleType](../../aspose.omr.generation.config.elements/customtriggerconfig/bubbletype) { get; set; } | Тип пузыря |
 | override [Name](../../aspose.omr.generation.config.elements/customtriggerconfig/name) { get; set; } | Имя триггера. |
 | [Target](../../aspose.omr.generation.config.elements/customtriggerconfig/target) { get; set; } | Имя целевого элемента. Поведение зависит от[`TriggerType`](./triggertype) |
 | [TriggerType](../../aspose.omr.generation.config.elements/customtriggerconfig/triggertype) { get; set; } | Тип триггера. Описать поведение триггера |

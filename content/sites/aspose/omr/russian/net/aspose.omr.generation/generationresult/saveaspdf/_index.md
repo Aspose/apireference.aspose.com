@@ -17,7 +17,7 @@ public void SaveAsPdf(string folder, string name)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | folder | String | Папка назначения |
-| name | String | Имя шаблона |
+| name | String | Название шаблона |
 
 ### Смотрите также
 

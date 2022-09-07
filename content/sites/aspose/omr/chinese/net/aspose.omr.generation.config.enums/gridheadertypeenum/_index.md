@@ -1,14 +1,14 @@
 ---
 title: GridHeaderTypeEnum
 second_title: Aspose.OMR for .NET API 参考
-description: 网格标题的类型
+description: 网格表头的类型
 type: docs
-weight: 460
+weight: 470
 url: /zh/net/aspose.omr.generation.config.enums/gridheadertypeenum/
 ---
 ## GridHeaderTypeEnum enumeration
 
-网格标题的类型
+网格表头的类型
 
 ```csharp
 public enum GridHeaderTypeEnum

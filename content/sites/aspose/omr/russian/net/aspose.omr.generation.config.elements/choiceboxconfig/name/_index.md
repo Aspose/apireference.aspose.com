@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: имя поля выбора. Для отображаемого значенияQuestionTextaspose.omr.generation.config.elements/choiceboxconfig/questiontext
+description: имя окна выбора. Для отображаемого значенияQuestionTextaspose.omr.generation.config.elements/choiceboxconfig/questiontext
 type: docs
 weight: 60
 url: /ru/net/aspose.omr.generation.config.elements/choiceboxconfig/name/
 ---
 ## ChoiceBoxConfig.Name property
 
-имя поля выбора. Для отображаемого значения[`QuestionText`](../questiontext)
+имя окна выбора. Для отображаемого значения[`QuestionText`](../questiontext)
 
 ```csharp
 public override string Name { get; set; }

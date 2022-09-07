@@ -1,14 +1,14 @@
 ---
 title: HideName
 second_title: Aspose.OMR for .NET API 参考
-description: 在模板中控制复选框名称的显示
+description: 控制在模板中显示复选框名称
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/hidename/
 ---
 ## CheckBoxConfig.HideName property
 
-在模板中控制复选框名称的显示
+控制在模板中显示复选框名称
 
 ```csharp
 public bool HideName { get; set; }

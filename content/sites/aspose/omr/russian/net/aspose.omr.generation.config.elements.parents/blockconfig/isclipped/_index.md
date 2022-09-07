@@ -1,14 +1,14 @@
 ---
 title: IsClipped
 second_title: Справочник по Aspose.OMR для .NET API
-description: Если true блок и все его содержимое будет обрезано как картинка при распознавании
+description: Если true блок и все его содержимое будут обрезаны как картинка при распознавании
 type: docs
 weight: 70
 url: /ru/net/aspose.omr.generation.config.elements.parents/blockconfig/isclipped/
 ---
 ## BlockConfig.IsClipped property
 
-Если true блок, и все его содержимое будет обрезано как картинка при распознавании
+Если true, блок и все его содержимое будут обрезаны как картинка при распознавании
 
 ```csharp
 public bool IsClipped { get; set; }

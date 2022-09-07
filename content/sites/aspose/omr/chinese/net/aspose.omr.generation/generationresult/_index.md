@@ -3,7 +3,7 @@ title: GenerationResult
 second_title: Aspose.OMR for .NET API 参考
 description: 模板生成的结果 包含模板图像和模板描述图像上元素位置的json
 type: docs
-weight: 560
+weight: 580
 url: /zh/net/aspose.omr.generation/generationresult/
 ---
 ## GenerationResult class
@@ -21,14 +21,14 @@ public class GenerationResult
 | [ErrorCode](../../aspose.omr.generation/generationresult/errorcode) { get; set; } | 获取或设置错误代码。如果没有发生错误，则等于 0。 |
 | [ErrorMessage](../../aspose.omr.generation/generationresult/errormessage) { get; set; } | 获取或设置描述错误的消息。如果没有发生错误，则为空。 |
 | [Template](../../aspose.omr.generation/generationresult/template) { get; set; } | 获取或设置模板 JSON 字符串 |
-| [TemplateImage](../../aspose.omr.generation/generationresult/templateimage) { get; set; } | 获取或设置生成的模板图像 |
+| [TemplateImage](../../aspose.omr.generation/generationresult/templateimage) { get; set; } | 获取或设置生成的模板图片 |
 | [Warnings](../../aspose.omr.generation/generationresult/warnings) { get; set; } | 获取或设置描述生成期间出现的非关键故障的警告消息列表 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.omr.generation/generationresult/save)(string, string) | 将模板图像和模板保存到指定文件夹 |
+| [Save](../../aspose.omr.generation/generationresult/save)(string, string) | 保存模板图片和模板到指定文件夹 |
 | [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | 保存模板图片和模板到指定文件夹 模板图片保存为pdf |
 
 ## 字段

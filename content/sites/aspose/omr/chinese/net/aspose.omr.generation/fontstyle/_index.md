@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.OMR for .NET API 参考
 description: 字体样式
 type: docs
-weight: 550
+weight: 570
 url: /zh/net/aspose.omr.generation/fontstyle/
 ---
 ## FontStyle enumeration
@@ -20,10 +20,10 @@ public enum FontStyle
 | --- | --- | --- |
 | undefined | `0` | 值未设置，必须替换 |
 | Regular | `16` | 普通文本 |
-| Bold | `1` | 粗体文本 |
-| Italic | `2` | 斜体文本 |
+| Bold | `1` | 粗体字 |
+| Italic | `2` | 斜体字 |
 | Underline | `4` | 下划线文本 |
-| Strikeout | `8` | 中间有一行的文本 |
+| Strikeout | `8` | 中间有一条线的文本 |
 
 ### 也可以看看
 

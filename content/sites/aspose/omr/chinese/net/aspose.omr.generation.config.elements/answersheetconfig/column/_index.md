@@ -1,14 +1,14 @@
 ---
 title: Column
 second_title: Aspose.OMR for .NET API 参考
-description: 表示在哪一列绘制图纸
+description: 表示在哪一列中绘制 sheet
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/column/
 ---
 ## AnswerSheetConfig.Column property
 
-表示在哪一列绘制图纸
+表示在哪一列中绘制 sheet
 
 ```csharp
 public int Column { get; set; }

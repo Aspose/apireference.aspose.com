@@ -24,7 +24,7 @@ public class TableConfig : ParentConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AnswersCount](../../aspose.omr.generation.config.elements.table/tableconfig/answerscount) { get; set; } | 表中使用的答案（列）数。 必须与 [`AnswerConfig`](../../aspose.omr.generation.config.elements.parents/answerconfig)[`QuestionConfig`](../questionconfig) |
+| [AnswersCount](../../aspose.omr.generation.config.elements.table/tableconfig/answerscount) { get; set; } | 表中使用的答案（列）数。必须与[`AnswerConfig`](../../aspose.omr.generation.config.elements.parents/answerconfig)[`QuestionConfig`](../questionconfig) |
 | override [Children](../../aspose.omr.generation.config.elements.table/tableconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
 | override [Name](../../aspose.omr.generation.config.elements.table/tableconfig/name) { get; set; } | 表元素名称 |
 | [TableType](../../aspose.omr.generation.config.elements.table/tableconfig/tabletype) { get; set; } | 表类型 |

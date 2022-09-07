@@ -1,14 +1,14 @@
 ---
 title: TableAnswerConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: ЭлементTableHeaderConfig./tableheaderconfig. Представлять заголовок столбца.
+description: ЭлементTableHeaderConfig./tableheaderconfig . Представляет заголовок столбца.
 type: docs
 weight: 340
 url: /ru/net/aspose.omr.generation.config.elements.table/tableanswerconfig/
 ---
 ## TableAnswerConfig class
 
-Элемент[`TableHeaderConfig`](../tableheaderconfig). Представлять заголовок столбца.
+Элемент[`TableHeaderConfig`](../tableheaderconfig) . Представляет заголовок столбца.
 
 ```csharp
 public class TableAnswerConfig : BaseConfig

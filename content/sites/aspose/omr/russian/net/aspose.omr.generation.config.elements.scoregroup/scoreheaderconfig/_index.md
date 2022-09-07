@@ -1,14 +1,14 @@
 ---
 title: ScoreHeaderConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Столбец вScoreGroupConfig./scoregroupconfigв котором будет храниться количество баллов за каждый ответ. Если отсутствует - этот столбец не рисуется.
+description: Столбец вScoreGroupConfig./scoregroupconfig в котором будет храниться количество баллов за каждый ответ. Если отсутствует  этот столбец не будет отображаться.
 type: docs
 weight: 300
 url: /ru/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/
 ---
 ## ScoreHeaderConfig class
 
-Столбец в[`ScoreGroupConfig`](../scoregroupconfig)в котором будет храниться количество баллов за каждый ответ. Если отсутствует - этот столбец не рисуется.
+Столбец в[`ScoreGroupConfig`](../scoregroupconfig) в котором будет храниться количество баллов за каждый ответ. Если отсутствует - этот столбец не будет отображаться.
 
 ```csharp
 public class ScoreHeaderConfig : ContentConfig
@@ -24,10 +24,10 @@ public class ScoreHeaderConfig : ContentConfig
 
 | Имя | Описание |
 | --- | --- |
-| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Выравнивание строки содержимого внутри родителя |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Выравнивание строки содержимого внутри parent |
 | [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Тип отображения текста. |
-| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | Стиль текста |
 | [HeaderType](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/headertype) { get; set; } | Тип заголовка |
 | override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/name) { get; set; } | Название заголовка столбца |

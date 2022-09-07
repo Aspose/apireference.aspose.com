@@ -1,14 +1,14 @@
 ---
 title: VerticalMargin
 second_title: Aspose.OMR for .NET API 参考
-description: 答案纸的垂直边距以像素为单位
+description: 答题纸的垂直边距以像素为单位设置
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/verticalmargin/
 ---
 ## AnswerSheetConfig.VerticalMargin property
 
-答案纸的垂直边距。以像素为单位。
+答题纸的垂直边距。以像素为单位设置。
 
 ```csharp
 public int VerticalMargin { get; set; }

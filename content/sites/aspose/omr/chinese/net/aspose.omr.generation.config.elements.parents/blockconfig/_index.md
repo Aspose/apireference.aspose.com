@@ -25,10 +25,10 @@ public class BlockConfig : ParentConfig
 | 姓名 | 描述 |
 | --- | --- |
 | [BorderColor](../../aspose.omr.generation.config.elements.parents/blockconfig/bordercolor) { get; set; } | 边框颜色 |
-| [BorderSize](../../aspose.omr.generation.config.elements.parents/blockconfig/bordersize) { get; set; } | 边界线的大小 |
+| [BorderSize](../../aspose.omr.generation.config.elements.parents/blockconfig/bordersize) { get; set; } | 边界线大小 |
 | [BorderType](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertype) { get; set; } | 绘制边框的类型 |
 | override [Children](../../aspose.omr.generation.config.elements.parents/blockconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
-| [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column) { get; set; } | 当放置在多列容器中时 - 表示在父级中的位置 |
+| [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column) { get; set; } | 当放置在多列容器中时 - 表示在 parent 中的位置 |
 | [IsClipped](../../aspose.omr.generation.config.elements.parents/blockconfig/isclipped) { get; set; } | 如果为真块，识别后所有内容将被剪裁为图片 |
 | override [Name](../../aspose.omr.generation.config.elements.parents/blockconfig/name) { get; set; } | 块元素名称 |
 | override [Type](../../aspose.omr.generation.config.elements.parents/blockconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |

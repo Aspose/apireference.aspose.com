@@ -1,14 +1,14 @@
 ---
 title: GetTemplateProcessor
 second_title: Aspose.OMR for .NET API 参考
-description: 创建允许使用指定模板的TemplateProcessoraspose.omr.api/templateprocessor实例
+description: 创建TemplateProcessoraspose.omr.api/templateprocessor允许使用指定模板的实例
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.api/omrengine/gettemplateprocessor/
 ---
 ## GetTemplateProcessor(MemoryStream, Encoding) {#gettemplateprocessor}
 
-创建允许使用指定模板的[`TemplateProcessor`](../../templateprocessor)实例。
+创建[`TemplateProcessor`](../../templateprocessor)允许使用指定模板的实例。
 
 ```csharp
 public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Encoding textEncoding)
@@ -21,7 +21,7 @@ public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Enco
 
 ### 返回值
 
-[`TemplateProcessor`](../../templateprocessor)实例
+这[`TemplateProcessor`](../../templateprocessor)实例
 
 ### 也可以看看
 
@@ -34,7 +34,7 @@ public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Enco
 
 ## GetTemplateProcessor(string) {#gettemplateprocessor_1}
 
-创建允许使用指定模板的[`TemplateProcessor`](../../templateprocessor)实例。
+创建[`TemplateProcessor`](../../templateprocessor)允许使用指定模板的实例。
 
 ```csharp
 public TemplateProcessor GetTemplateProcessor(string templatePath)
@@ -46,7 +46,7 @@ public TemplateProcessor GetTemplateProcessor(string templatePath)
 
 ### 返回值
 
-[`TemplateProcessor`](../../templateprocessor)实例
+这[`TemplateProcessor`](../../templateprocessor)实例
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BlockTopPadding
 second_title: Справочник по Aspose.OMR для .NET API
-description: Количество пикселей которое должно быть размещено между блоками.
+description: Количество пикселей которое должно быть размещено после верхней границы блока.
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding/
 ---
 ## ContainerConfig.BlockTopPadding property
 
-Количество пикселей, которое должно быть размещено между блоками.
+Количество пикселей, которое должно быть размещено после верхней границы блока.
 
 ```csharp
 public int BlockTopPadding { get; set; }

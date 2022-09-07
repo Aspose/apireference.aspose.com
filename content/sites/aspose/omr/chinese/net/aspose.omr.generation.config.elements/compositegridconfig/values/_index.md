@@ -3,7 +3,7 @@ title: Values
 second_title: Aspose.OMR for .NET API 参考
 description: 将描述每列中可能的符号的字符串集合 列特定值放置在ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/values/
 ---
 ## CompositeGridConfig.Values property

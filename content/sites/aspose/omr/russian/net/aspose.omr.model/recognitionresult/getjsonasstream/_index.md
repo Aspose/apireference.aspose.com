@@ -1,14 +1,14 @@
 ---
 title: GetJsonAsStream
 second_title: Справочник по Aspose.OMR для .NET API
-description: Формируем строку JSON с результатами распознавания в виде MemoryStream
+description: Формируем строку JSON с результатами распознавания как MemoryStream
 type: docs
 weight: 90
 url: /ru/net/aspose.omr.model/recognitionresult/getjsonasstream/
 ---
 ## RecognitionResult.GetJsonAsStream method
 
-Формируем строку JSON с результатами распознавания в виде MemoryStream
+Формируем строку JSON с результатами распознавания как MemoryStream
 
 ```csharp
 public MemoryStream GetJsonAsStream(Encoding encoding)
@@ -16,7 +16,7 @@ public MemoryStream GetJsonAsStream(Encoding encoding)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| encoding | Encoding | Кодирование с который мы кодируем строку JSON |
+| encoding | Encoding | Кодировка, с помощью которой мы кодируем строку JSON |
 
 ### Возвращаемое значение
 

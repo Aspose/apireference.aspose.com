@@ -24,7 +24,8 @@ public class CustomTriggerConfig : BaseConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Name](../../aspose.omr.generation.config.elements/customtriggerconfig/name) { get; set; } | 触发器名称。 |
+| [BubbleType](../../aspose.omr.generation.config.elements/customtriggerconfig/bubbletype) { get; set; } | 气泡的类型 |
+| override [Name](../../aspose.omr.generation.config.elements/customtriggerconfig/name) { get; set; } | 触发器的名称。 |
 | [Target](../../aspose.omr.generation.config.elements/customtriggerconfig/target) { get; set; } | 目标元素的名称。行为取决于[`TriggerType`](./triggertype) |
 | [TriggerType](../../aspose.omr.generation.config.elements/customtriggerconfig/triggertype) { get; set; } | 触发器类型。描述触发行为 |
 | override [Type](../../aspose.omr.generation.config.elements/customtriggerconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
@@ -34,7 +35,7 @@ public class CustomTriggerConfig : BaseConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements/customtriggerconfig/bubblesize) | 气泡大小 |
+| [BubbleSize](../../aspose.omr.generation.config.elements/customtriggerconfig/bubblesize) | 气泡的大小 |
 
 ### 也可以看看
 

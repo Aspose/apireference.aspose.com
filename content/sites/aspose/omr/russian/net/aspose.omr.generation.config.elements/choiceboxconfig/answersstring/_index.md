@@ -1,14 +1,14 @@
 ---
 title: AnswersString
 second_title: Справочник по Aspose.OMR для .NET API
-description: Получает или задает строки ответов для элемента ChoiceBox
+description: Получает или задает строки ответов для ChoiceBox element
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation.config.elements/choiceboxconfig/answersstring/
 ---
 ## ChoiceBoxConfig.AnswersString property
 
-Получает или задает строки ответов для элемента ChoiceBox
+Получает или задает строки ответов для ChoiceBox element
 
 ```csharp
 public string AnswersString { get; set; }

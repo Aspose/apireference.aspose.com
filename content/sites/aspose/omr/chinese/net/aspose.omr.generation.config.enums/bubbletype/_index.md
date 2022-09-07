@@ -3,7 +3,7 @@ title: BubbleType
 second_title: Aspose.OMR for .NET API 参考
 description: 气泡类型
 type: docs
-weight: 420
+weight: 430
 url: /zh/net/aspose.omr.generation.config.enums/bubbletype/
 ---
 ## BubbleType enumeration
@@ -18,8 +18,8 @@ public enum BubbleType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Round | `0` | 圆形气泡 |
-| Square | `1` | 方形气泡 |
+| Round | `0` | 圆形泡泡 |
+| Square | `1` | 方形泡泡 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: GenerateJSONTemplate
 second_title: Справочник по Aspose.OMR для .NET API
-description: Создает шаблон .omr и образ шаблона на основе разметки .json
+description: Создает шаблон .omr и изображение шаблона на основе разметки .json
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.api/omrengine/generatejsontemplate/
 ---
 ## OmrEngine.GenerateJSONTemplate method
 
-Создает шаблон (.omr) и образ шаблона на основе разметки .json
+Создает шаблон (.omr) и изображение шаблона на основе разметки .json
 
 ```csharp
 public GenerationResult GenerateJSONTemplate(string jsonPath, GlobalPageSettings settings = null)
@@ -16,7 +16,7 @@ public GenerationResult GenerateJSONTemplate(string jsonPath, GlobalPageSettings
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| jsonPath | String | путь к файлу *.json с разметкой |
+| jsonPath | String | путь к *.json файлу с разметкой |
 | settings | GlobalPageSettings | глобальные настройки, используемые при генерации всех шаблонов |
 
 ### Возвращаемое значение

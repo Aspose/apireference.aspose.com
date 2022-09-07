@@ -24,14 +24,14 @@ public class ContainerConfig : ParentConfig
 
 | Имя | Описание |
 | --- | --- |
-| [BlockBottomMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin) { get; set; } | Количество пикселей, которое должно быть размещено между блоками. |
-| [BlockRightMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin) { get; set; } | Количество пикселей, которое должно быть размещено между блоками. |
-| [BlockTopPadding](../../aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding) { get; set; } | Количество пикселей, которое должно быть размещено между блоками. |
+| [BlockBottomMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin) { get; set; } | Количество пикселей, которое должно быть размещено под блоками. |
+| [BlockRightMargin](../../aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin) { get; set; } | Количество пикселей, которое должно быть размещено между блоками с правой стороны |
+| [BlockTopPadding](../../aspose.omr.generation.config.elements.parents/containerconfig/blocktoppadding) { get; set; } | Количество пикселей, которое должно быть размещено после верхней границы блока. |
 | override [Children](../../aspose.omr.generation.config.elements.parents/containerconfig/children) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
-| [ColumnsCount](../../aspose.omr.generation.config.elements.parents/containerconfig/columnscount) { get; set; } | Количество столбцов внутри контейнера. Разбиты на равные столбцы. Устаревшая версия[`Proportions`](./proportions) |
+| [ColumnsCount](../../aspose.omr.generation.config.elements.parents/containerconfig/columnscount) { get; set; } | Количество столбцов внутри контейнера. Разделено на равные столбцы. Устаревшая версия[`Proportions`](./proportions) |
 | [ContainerType](../../aspose.omr.generation.config.elements.parents/containerconfig/containertype) { get; set; } | Тип контейнера |
-| override [Name](../../aspose.omr.generation.config.elements.parents/containerconfig/name) { get; set; } | Имя элемента контейнера |
-| [Proportions](../../aspose.omr.generation.config.elements.parents/containerconfig/proportions) { get; set; } | Разделить каждый столбец внутри него по произвольному соотношению Более новая версия[`ColumnsCount`](./columnscount) |
+| override [Name](../../aspose.omr.generation.config.elements.parents/containerconfig/name) { get; set; } | Имя контейнера element |
+| [Proportions](../../aspose.omr.generation.config.elements.parents/containerconfig/proportions) { get; set; } | Разделить по пользовательскому коэффициенту каждый столбец внутри него Более новая версия[`ColumnsCount`](./columnscount) |
 | override [Type](../../aspose.omr.generation.config.elements.parents/containerconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

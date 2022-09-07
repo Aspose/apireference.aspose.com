@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.OMR for .NET API 参考
-description: 文本颜色
+description: 文字的颜色
 type: docs
 weight: 80
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/color/
 ---
 ## TableTitleConfig.Color field
 
-文本颜色
+文字的颜色
 
 ```csharp
 public Color Color;

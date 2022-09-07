@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.OMR for .NET API 参考
 description: 提供许可组件的方法
 type: docs
-weight: 610
+weight: 630
 url: /zh/net/aspose.omr/license/
 ---
 ## License class
@@ -35,7 +35,7 @@ public class License
 
 ### 例子
 
-在本例中，将尝试查找名为 MyLicense.lic 的许可证文件在包含 组件的文件夹中，在包含调用程序集的文件夹中， 在入口程序集的文件夹中，然后在的嵌入资源中调用程序集。
+在此示例中，将尝试在包含 组件的文件夹中、在包含调用程序集的文件夹中、 在条目程序集的文件夹中查找名为 MyLicense.lic 的许可证文件，然后在嵌入的调用程序集的资源.
 
 ```csharp
 [C#]

@@ -1,7 +1,7 @@
 ---
 title: SortWeight
 second_title: Справочник по Aspose.OMR для .NET API
-description: Чем выше значение - последний в элементе csv появится
+description: Чем выше значение  последний в элементе csv появится
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.model/iomrelement/sortweight/

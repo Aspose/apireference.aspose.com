@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: omr 元素的名称可根据元素
+description: omr 元素的名称可以根据element 在不同的情况下使用
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config/baseconfig/name/
 ---
 ## BaseConfig.Name property
 
-omr 元素的名称。可根据元素
+omr 元素的名称。可以根据element 在不同的情况下使用
 
 ```csharp
 public abstract string Name { get; set; }

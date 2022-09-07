@@ -1,7 +1,7 @@
 ---
 title: SortWeight
 second_title: Aspose.OMR for .NET API 参考
-description: 更高的值 - csv 元素中的后者将出现
+description: 更高的值  csv 元素中的后者将出现
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.model/iomrelement/sortweight/

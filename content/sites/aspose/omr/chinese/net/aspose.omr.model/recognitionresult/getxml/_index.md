@@ -16,7 +16,7 @@ public byte[] GetXml(Encoding encoding)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | Encoding with我们对 XML 字符串进行编码 |
+| encoding | Encoding | 我们对 XML 字符串进行编码的编码 |
 
 ### 返回值
 
@@ -32,7 +32,7 @@ public byte[] GetXml(Encoding encoding)
 
 ## GetXml() {#getxml_1}
 
-形成识别结果的 XML 字符串
+带有识别结果的表单 XML 字符串
 
 ```csharp
 public string GetXml()
@@ -40,7 +40,7 @@ public string GetXml()
 
 ### 返回值
 
-识别结果为 XML 字符串
+将结果识别为 XML 字符串
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ParagraphTypeEnum
 second_title: Aspose.OMR for .NET API 参考
-description: ParagraphConfig的类型
+description: 类型ParagraphConfig../aspose.omr.generation.config.elements.parents/paragraphconfig
 type: docs
-weight: 470
+weight: 480
 url: /zh/net/aspose.omr.generation.config.enums/paragraphtypeenum/
 ---
 ## ParagraphTypeEnum enumeration
 
-ParagraphConfig的类型
+类型[`ParagraphConfig`](../../aspose.omr.generation.config.elements.parents/paragraphconfig)
 
 ```csharp
 public enum ParagraphTypeEnum
@@ -18,8 +18,9 @@ public enum ParagraphTypeEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Normal | `0` | 没有额外元素的段落 |
-| Multiple | `1` | 带有额外元素的段落，例如图像 |
+| Normal | `0` | 段落垂直对齐项目 |
+| Multiple | `1` | 段落会尝试换行很多[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig)大约一个[`ImageConfig`](../../aspose.omr.generation.config.elements/imageconfig) 重复ImageWrap 用作旧版支持 |
+| ImageWrap | `2` | 段落会尝试换行很多[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig)大约一个[`ImageConfig`](../../aspose.omr.generation.config.elements/imageconfig) |
 
 ### 也可以看看
 

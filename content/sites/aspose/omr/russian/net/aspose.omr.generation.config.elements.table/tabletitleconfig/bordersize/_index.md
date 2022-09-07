@@ -1,14 +1,14 @@
 ---
 title: BorderSize
 second_title: Справочник по Aspose.OMR для .NET API
-description: Размер границы
+description: Размер рамки
 type: docs
 weight: 60
 url: /ru/net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize/
 ---
 ## TableTitleConfig.BorderSize field
 
-Размер границы
+Размер рамки
 
 ```csharp
 public int BorderSize;

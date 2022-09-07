@@ -1,9 +1,9 @@
 ---
 title: RotationAngle
 second_title: Aspose.OMR for .NET API 参考
-description: 描述 Grid 元素围绕其自身轴的旋转 90 - 将 CompositeGrid 旋转 90 度 -90 - 将 ComopositeGrid 旋转到 -90 度
+description: 描述 Grid 元素围绕其自身轴的旋转 90  将 CompositeGrid 旋转 90 度 90  将 ComopositeGrid 旋转到 90 度
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/rotationangle/
 ---
 ## CompositeGridConfig.RotationAngle property

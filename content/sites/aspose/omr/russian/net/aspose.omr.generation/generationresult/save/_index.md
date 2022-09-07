@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Справочник по Aspose.OMR для .NET API
-description: Сохранить шаблонные изображения и шаблон в указанную папку
+description: Сохранить изображения шаблона и шаблон в указанную папку
 type: docs
 weight: 70
 url: /ru/net/aspose.omr.generation/generationresult/save/
 ---
 ## GenerationResult.Save method
 
-Сохранить шаблонные изображения и шаблон в указанную папку
+Сохранить изображения шаблона и шаблон в указанную папку
 
 ```csharp
 public void Save(string folder, string name)
@@ -16,8 +16,8 @@ public void Save(string folder, string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| folder | String | Destination папка |
-| name | String | Имя шаблона |
+| folder | String | Папка назначения |
+| name | String | Название шаблона |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: BlockBottomMargin
 second_title: Справочник по Aspose.OMR для .NET API
-description: Количество пикселей которое должно быть размещено между блоками.
+description: Количество пикселей которое должно быть размещено под блоками.
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin/
 ---
 ## ContainerConfig.BlockBottomMargin property
 
-Количество пикселей, которое должно быть размещено между блоками.
+Количество пикселей, которое должно быть размещено под блоками.
 
 ```csharp
 public int BlockBottomMargin { get; set; }

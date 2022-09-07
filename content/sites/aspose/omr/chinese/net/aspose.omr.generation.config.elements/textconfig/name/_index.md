@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 需要显示的文本
+description: 需要显示的文字
 type: docs
 weight: 50
 url: /zh/net/aspose.omr.generation.config.elements/textconfig/name/
 ---
 ## TextConfig.Name property
 
-需要显示的文本
+需要显示的文字
 
 ```csharp
 public override string Name { get; set; }

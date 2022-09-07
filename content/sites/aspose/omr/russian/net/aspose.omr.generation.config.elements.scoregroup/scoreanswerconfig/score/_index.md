@@ -1,14 +1,14 @@
 ---
 title: Score
 second_title: Справочник по Aspose.OMR для .NET API
-description: Количество очков
+description: Сумма баллов
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/score/
 ---
 ## ScoreAnswerConfig.Score property
 
-Количество очков
+Сумма баллов
 
 ```csharp
 public int Score { get; set; }

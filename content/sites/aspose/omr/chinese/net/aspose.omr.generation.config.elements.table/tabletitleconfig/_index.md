@@ -24,7 +24,7 @@ public class TableTitleConfig : BaseConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name) { get; set; } | 标题文本值 |
+| override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name) { get; set; } | 标题的文本值 |
 | override [Type](../../aspose.omr.generation.config.elements.table/tabletitleconfig/type) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段。 |
 
 ## 字段
@@ -33,12 +33,12 @@ public class TableTitleConfig : BaseConfig
 | --- | --- |
 | [BackgroundColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor) | 表格标题的背景颜色 |
 | [BorderColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor) | 边框颜色 |
-| [BorderSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize) | 边框大小 |
+| [BorderSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize) | 边框的大小 |
 | [BorderType](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype) | 边框类型 |
-| [Color](../../aspose.omr.generation.config.elements.table/tabletitleconfig/color) | 文本颜色 |
-| [FontFamily](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily) | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize) | 文本字体大小 |
-| [FontStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontstyle) | 文本的样式 |
+| [Color](../../aspose.omr.generation.config.elements.table/tabletitleconfig/color) | 文字的颜色 |
+| [FontFamily](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily) | text 的字体系列 |
+| [FontSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize) | 文字字体大小 |
+| [FontStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontstyle) | 文字的样式 |
 
 ### 也可以看看
 

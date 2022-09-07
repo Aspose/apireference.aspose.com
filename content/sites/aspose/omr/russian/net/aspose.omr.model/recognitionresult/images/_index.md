@@ -1,14 +1,14 @@
 ---
 title: Images
 second_title: Справочник по Aspose.OMR для .NET API
-description: Получает или задает список изображений для записи в поле
+description: Получает или задает список записываемых изображений
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.model/recognitionresult/images/
 ---
 ## RecognitionResult.Images property
 
-Получает или задает список изображений для записи в поле
+Получает или задает список записываемых изображений
 
 ```csharp
 public List<Bitmap> Images { get; set; }

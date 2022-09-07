@@ -3,7 +3,7 @@ title: ScoreGroupType
 second_title: Aspose.OMR for .NET API 参考
 description: 分数组的类型影响分数组元素的绘制
 type: docs
-weight: 490
+weight: 510
 url: /zh/net/aspose.omr.generation.config.enums/scoregrouptype/
 ---
 ## ScoreGroupType enumeration
@@ -18,7 +18,7 @@ public enum ScoreGroupType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Table | `0` | 将每个问题定位为表格，回答为行 |
+| Table | `0` | 将每个问题定位为表格，答案为 row |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Column
 second_title: Справочник по Aspose.OMR для .NET API
-description: Указывает в каком столбце рисовать лист
+description: Указывает в каком столбце рисовать sheet
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.omr.generation.config.elements/answersheetconfig/column/
 ---
 ## AnswerSheetConfig.Column property
 
-Указывает, в каком столбце рисовать лист
+Указывает, в каком столбце рисовать sheet
 
 ```csharp
 public int Column { get; set; }

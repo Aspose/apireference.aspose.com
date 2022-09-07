@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 空行名称跳过 - 不绘制或参与识别
+description: 空行跳过名称不绘制或参与识别
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements/emptylineconfig/name/
 ---
 ## EmptyLineConfig.Name property
 
-空行名称跳过 - 不绘制或参与识别
+空行跳过名称-不绘制或参与识别
 
 ```csharp
 public override string Name { get; set; }

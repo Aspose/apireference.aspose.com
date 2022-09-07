@@ -1,14 +1,14 @@
 ---
 title: AnswersCount
 second_title: Aspose.OMR for .NET API 参考
-description: 表中使用的答案列数 必须与 AnswerConfigaspose.omr.generation.config.elements.parents/answerconfigQuestionConfigaspose.omr.generation.config.elements.table/questionconfig
+description: 表中使用的答案列数必须与AnswerConfigaspose.omr.generation.config.elements.parents/answerconfigQuestionConfigaspose.omr.generation.config.elements.table/questionconfig
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.table/tableconfig/answerscount/
 ---
 ## TableConfig.AnswersCount property
 
-表中使用的答案（列）数。 必须与 [`AnswerConfig`](../../../aspose.omr.generation.config.elements.parents/answerconfig)[`QuestionConfig`](../../questionconfig)
+表中使用的答案（列）数。必须与[`AnswerConfig`](../../../aspose.omr.generation.config.elements.parents/answerconfig)[`QuestionConfig`](../../questionconfig)
 
 ```csharp
 public int AnswersCount { get; set; }

@@ -3,7 +3,7 @@ title: TriggerType
 second_title: Справочник по Aspose.OMR для .NET API
 description: Тип триггера. Описать поведение триггера
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.omr.generation.config.elements/customtriggerconfig/triggertype/
 ---
 ## CustomTriggerConfig.TriggerType property

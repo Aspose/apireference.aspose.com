@@ -32,8 +32,8 @@ public class TableHeaderConfig : ParentConfig
 
 | Имя | Описание |
 | --- | --- |
-| [FontFamily](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontfamily) | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontsize) | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontfamily) | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontsize) | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontstyle) | Стиль текста |
 
 ### Смотрите также

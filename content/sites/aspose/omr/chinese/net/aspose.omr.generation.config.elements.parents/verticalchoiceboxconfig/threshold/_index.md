@@ -1,14 +1,14 @@
 ---
 title: Threshold
 second_title: Aspose.OMR for .NET API 参考
-description: 气泡被视为标记后的像素百分比
+description: 气泡被标记后的像素百分比
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold/
 ---
 ## VerticalChoiceBoxConfig.Threshold property
 
-气泡被视为标记后的像素百分比
+气泡被标记后的像素百分比
 
 ```csharp
 public int Threshold { get; set; }

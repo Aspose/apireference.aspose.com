@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Справочник по Aspose.OMR для .NET API
-description: Размер шрифта текста
+description: Размер текста font
 type: docs
 weight: 100
 url: /ru/net/aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize/
 ---
 ## TableTitleConfig.FontSize field
 
-Размер шрифта текста
+Размер текста font
 
 ```csharp
 public int FontSize;

@@ -1,14 +1,14 @@
 ---
 title: Embedded
 second_title: Справочник по Aspose.OMR для .NET API
-description: Номер лицензии был добавлен как встроенный ресурс.
+description: Номер лицензии добавлен как встроенный ресурс.
 type: docs
 weight: 20
 url: /ru/net/aspose.omr/license/embedded/
 ---
 ## License.Embedded property
 
-Номер лицензии был добавлен как встроенный ресурс.
+Номер лицензии добавлен как встроенный ресурс.
 
 ```csharp
 public bool Embedded { get; set; }

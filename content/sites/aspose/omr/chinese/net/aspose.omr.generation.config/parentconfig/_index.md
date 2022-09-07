@@ -1,14 +1,14 @@
 ---
 title: ParentConfig
 second_title: Aspose.OMR for .NET API 参考
-description: 将元素标记为父元素并允许将其他元素作为子元素的抽象
+description: 将元素标记为父元素并允许其他元素为子元素的抽象
 type: docs
-weight: 530
+weight: 550
 url: /zh/net/aspose.omr.generation.config/parentconfig/
 ---
 ## ParentConfig class
 
-将元素标记为父元素并允许将其他元素作为子元素的抽象
+将元素标记为父元素并允许其他元素为子元素的抽象
 
 ```csharp
 public abstract class ParentConfig : BaseConfig
@@ -19,7 +19,7 @@ public abstract class ParentConfig : BaseConfig
 | 姓名 | 描述 |
 | --- | --- |
 | abstract [Children](../../aspose.omr.generation.config/parentconfig/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
-| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | omr 元素的名称。可根据元素 |
+| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | omr 元素的名称。可以根据element 在不同的情况下使用 |
 | abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | omr 元素的类型。没有默认值。必须被覆盖。 |
 
 ### 也可以看看

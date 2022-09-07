@@ -19,7 +19,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings
 | --- | --- | --- |
 | stream | MemoryStream | Поток, содержащий строки разметки |
 | settings | GlobalPageSettings | Глобальные настройки, применимые ко всем элементам страницы |
-| userImages | ImageCollection | Коллекция изображений, которые можно использовать для генерации шаблонов. Разрешить использовать образы из MemoryStream вместо файловой системы |
+| userImages | ImageCollection | Коллекция изображений, которые можно использовать для создания шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
 
 ### Возвращаемое значение
 
@@ -47,7 +47,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection us
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | MemoryStream | Поток, содержащий строки разметки |
-| userImages | ImageCollection | Коллекция изображений, которые можно использовать для генерации шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
+| userImages | ImageCollection | Коллекция изображений, которые можно использовать для создания шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
 
 ### Возвращаемое значение
 
@@ -104,7 +104,7 @@ public GenerationResult GenerateTemplate(string[] markupLines, ImageCollection u
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | markupLines | String[] | Массив строк разметки |
-| userImages | ImageCollection | Коллекция изображений, которые можно использовать для генерации шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
+| userImages | ImageCollection | Коллекция изображений, которые можно использовать для создания шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
 
 ### Возвращаемое значение
 
@@ -200,7 +200,7 @@ public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths
 
 ## GenerateTemplate(TemplateConfig, GlobalPageSettings, ImageCollection) {#generatetemplate}
 
-Создает шаблон (.omr) и образ шаблона на основе объекта Template
+Создает шаблон (.omr) и изображение шаблона на основе Template object
 
 ```csharp
 public GenerationResult GenerateTemplate(TemplateConfig config, GlobalPageSettings settings, 
@@ -210,8 +210,8 @@ public GenerationResult GenerateTemplate(TemplateConfig config, GlobalPageSettin
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | config | TemplateConfig | Объект шаблона, представляющий все элементы |
-| settings | GlobalPageSettings | глобальные настройки, используемые при создании всех шаблонов |
-| userImages | ImageCollection | Коллекция изображений, которые можно использовать для генерации шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
+| settings | GlobalPageSettings | глобальные настройки, используемые при генерации всех шаблонов |
+| userImages | ImageCollection | Коллекция изображений, которые можно использовать для создания шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
 
 ### Возвращаемое значение
 

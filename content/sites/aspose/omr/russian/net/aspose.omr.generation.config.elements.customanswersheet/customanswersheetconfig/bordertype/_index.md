@@ -1,14 +1,14 @@
 ---
 title: BorderType
 second_title: Справочник по Aspose.OMR для .NET API
-description: Тип нарисованной границы для разделения столбцов разделов
+description: Тип нарисованной границы для разделения столбцовразделов
 type: docs
 weight: 50
 url: /ru/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertype/
 ---
 ## CustomAnswerSheetConfig.BorderType property
 
-Тип нарисованной границы для разделения столбцов (разделов)
+Тип нарисованной границы для разделения столбцов(разделов)
 
 ```csharp
 public BorderType BorderType { get; set; }

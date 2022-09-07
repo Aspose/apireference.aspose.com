@@ -1,14 +1,14 @@
 ---
 title: ScoreGroupConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Группировка родителя. Таблица на основе баллов.
+description: Группировка родителя. Таблица на основе очков.
 type: docs
 weight: 290
 url: /ru/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/
 ---
 ## ScoreGroupConfig class
 
-Группировка родителя. Таблица на основе баллов.
+Группировка родителя. Таблица на основе очков.
 
 ```csharp
 public class ScoreGroupConfig : ParentConfig
@@ -26,7 +26,7 @@ public class ScoreGroupConfig : ParentConfig
 | --- | --- |
 | override [Children](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/children) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
 | override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/name) { get; set; } | Имя элемента RepeatRows |
-| [ScoreGroupType](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype) { get; set; } | Тип счетной группы |
+| [ScoreGroupType](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype) { get; set; } | Тип группы баллов |
 | override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

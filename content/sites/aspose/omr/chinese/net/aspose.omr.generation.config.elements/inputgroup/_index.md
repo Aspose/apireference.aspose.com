@@ -1,14 +1,14 @@
 ---
 title: InputGroup
 second_title: Aspose.OMR for .NET API 参考
-description: 分组元素由两个 Content 子项组成以 13 和 23 的比例绘制
+description: 分组元素由两个 Content 子项组成按比例 13 和 23. 绘制
 type: docs
 weight: 200
 url: /zh/net/aspose.omr.generation.config.elements/inputgroup/
 ---
 ## InputGroup class
 
-分组元素。由两个 Content 子项组成。以 1\3 和 2\3 的比例绘制。
+分组元素。由两个 Content 子项组成。按比例 1\3 和 2\3. 绘制
 
 ```csharp
 public class InputGroup : ParentConfig
@@ -25,7 +25,7 @@ public class InputGroup : ParentConfig
 | 姓名 | 描述 |
 | --- | --- |
 | [BorderColor](../../aspose.omr.generation.config.elements/inputgroup/bordercolor) { get; set; } | 边框颜色 |
-| [BorderSize](../../aspose.omr.generation.config.elements/inputgroup/bordersize) { get; set; } | 边界线的大小 |
+| [BorderSize](../../aspose.omr.generation.config.elements/inputgroup/bordersize) { get; set; } | 边界线大小 |
 | override [Children](../../aspose.omr.generation.config.elements/inputgroup/children) { get; set; } | 子 omr 元素。在大多数情况下，位于父级内部或下方。 |
 | [InputBorder](../../aspose.omr.generation.config.elements/inputgroup/inputborder) { get; set; } | 绘制边框的类型 |
 | [LabelBorder](../../aspose.omr.generation.config.elements/inputgroup/labelborder) { get; set; } | 绘制边框的类型 |

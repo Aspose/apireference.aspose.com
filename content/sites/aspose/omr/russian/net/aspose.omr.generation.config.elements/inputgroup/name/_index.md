@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: Имя элемента группировки
+description: Имя группирующего элемента
 type: docs
 weight: 70
 url: /ru/net/aspose.omr.generation.config.elements/inputgroup/name/
 ---
 ## InputGroup.Name property
 
-Имя элемента группировки
+Имя группирующего элемента
 
 ```csharp
 public override string Name { get; set; }

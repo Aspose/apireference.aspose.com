@@ -1,14 +1,14 @@
 ---
 title: HeaderType
 second_title: Aspose.OMR for .NET API 参考
-description: 标头类型
+description: 标头的类型
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/headertype/
 ---
 ## ScoreHeaderConfig.HeaderType property
 
-标头类型
+标头的类型
 
 ```csharp
 public ScoreHeaderType HeaderType { get; set; }

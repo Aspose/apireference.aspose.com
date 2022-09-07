@@ -3,7 +3,7 @@ title: ParentConfig
 second_title: Справочник по Aspose.OMR для .NET API
 description: Абстракция которая помечает элемент как родительский и позволяет иметь другие элементы в качестве дочерних
 type: docs
-weight: 530
+weight: 550
 url: /ru/net/aspose.omr.generation.config/parentconfig/
 ---
 ## ParentConfig class
@@ -19,8 +19,8 @@ public abstract class ParentConfig : BaseConfig
 | Имя | Описание |
 | --- | --- |
 | abstract [Children](../../aspose.omr.generation.config/parentconfig/children) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
-| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | Имя элемента omr. Может использоваться в разных случаях на основе элемента |
-| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | Тип элемента omr. Не имеет значения по умолчанию. Должен быть переопределен. |
+| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | Имя элемента omr. Может использоваться в разных случаях на основе element |
+| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | Тип элемента omr. Не имеет значения по умолчанию. Необходимо переопределить. |
 
 ### Смотрите также
 

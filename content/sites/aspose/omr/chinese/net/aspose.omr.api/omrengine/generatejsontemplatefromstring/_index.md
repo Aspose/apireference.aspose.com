@@ -19,7 +19,7 @@ public GenerationResult GenerateJSONTemplateFromString(string jsonString,
 | --- | --- | --- |
 | jsonString | String | JSON 标记 |
 | settings | GlobalPageSettings | 所有模板生成中使用的全局设置 |
-| userImages | ImageCollection | 集合可用于模板生成的图像。允许使用来自 MemoryStream 的图像而不是文件系统 |
+| userImages | ImageCollection | 可用于模板生成的图像集合。允许使用来自 MemoryStream 的图像而不是文件系统 |
 
 ### 返回值
 

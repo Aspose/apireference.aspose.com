@@ -1,14 +1,14 @@
 ---
 title: ErrorMessage
 second_title: Справочник по Aspose.OMR для .NET API
-description: Получает или задает сообщение описывающее ошибку. Пусто если ошибок не было.
+description: Получает или задает сообщение с описанием ошибки. Пусто если ошибок не возникло.
 type: docs
 weight: 20
 url: /ru/net/aspose.omr.generation/generationresult/errormessage/
 ---
 ## GenerationResult.ErrorMessage property
 
-Получает или задает сообщение, описывающее ошибку. Пусто, если ошибок не было.
+Получает или задает сообщение с описанием ошибки. Пусто, если ошибок не возникло.
 
 ```csharp
 public string ErrorMessage { get; set; }

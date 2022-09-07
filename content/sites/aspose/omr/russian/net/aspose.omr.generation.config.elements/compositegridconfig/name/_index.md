@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: Имя сетки. Используется как идентификатор при распознавании
+description: Имя сетки. Используется как идентификатор в распознавании
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/name/
 ---
 ## CompositeGridConfig.Name property
 
-Имя сетки. Используется как идентификатор при распознавании
+Имя сетки. Используется как идентификатор в распознавании
 
 ```csharp
 public override string Name { get; set; }

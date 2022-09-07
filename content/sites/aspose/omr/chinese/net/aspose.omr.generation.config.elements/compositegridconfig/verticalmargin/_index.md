@@ -3,7 +3,7 @@ title: VerticalMargin
 second_title: Aspose.OMR for .NET API 参考
 description: 行间距
 type: docs
-weight: 170
+weight: 180
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/verticalmargin/
 ---
 ## CompositeGridConfig.VerticalMargin field

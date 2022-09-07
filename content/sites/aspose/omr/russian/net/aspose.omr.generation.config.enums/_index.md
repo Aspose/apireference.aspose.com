@@ -13,16 +13,18 @@ url: /ru/net/aspose.omr.generation.config.enums/
 | перечисление | Описание |
 | --- | --- |
 | [AlignmentEnum](./alignmentenum) | Тип горизонтального выравнивания относительно своего родителя. Используется во многих элементах. |
+| [BarcodeType](./barcodetype) | Тип штрих-кода, используемый в[`BarcodeConfig`](../aspose.omr.generation.config.elements/barcodeconfig) |
 | [BorderType](./bordertype) | Тип границы |
 | [BubbleType](./bubbletype) | Тип пузыря. |
-| [ConfigType](./configtype) | Тип элемента Omr |
+| [ConfigType](./configtype) | Тип элемента OMR |
 | [ContainerTypeEnum](./containertypeenum) | Тип[`ContainerConfig`](../aspose.omr.generation.config.elements.parents/containerconfig) |
-| [ContentType](./contenttype) | Тип отображения содержимого |
+| [ContentType](./contenttype) | Тип отображаемого контента |
 | [GridHeaderTypeEnum](./gridheadertypeenum) | Тип заголовка сетки |
 | [ParagraphTypeEnum](./paragraphtypeenum) | Тип[`ParagraphConfig`](../aspose.omr.generation.config.elements.parents/paragraphconfig) |
-| [ScoreDisplay](./scoredisplay) | Управление отображением значения очков. |
-| [ScoreGroupType](./scoregrouptype) | Тип счета Группа. Влияет на рисование элемента группы очков |
-| [ScoreHeaderType](./scoreheadertype) | Тип заголовка партитуры. |
+| [QRVersion](./qrversion) | Тип QR, который будет использоваться для[`BarcodeConfig`](../aspose.omr.generation.config.elements/barcodeconfig) Отвечает за максимальное количество байтов, закодированных QR. Если не уверены - используйтеAuto . Библиотека автоматически выберет подходящий размер |
+| [ScoreDisplay](./scoredisplay) | Управление отображением значения счета. |
+| [ScoreGroupType](./scoregrouptype) | Тип оценки Группа. Влияет на жеребьевку группы очков element |
+| [ScoreHeaderType](./scoreheadertype) | Тип заголовка счета. |
 | [TableType](./tabletype) | Тип таблицы |
 | [TriggerType](./triggertype) | Тип триггера. Описать поведение триггера |
 

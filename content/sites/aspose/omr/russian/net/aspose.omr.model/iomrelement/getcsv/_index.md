@@ -1,14 +1,14 @@
 ---
 title: GetCsv
 second_title: Справочник по Aspose.OMR для .NET API
-description: Формирует ответы в виде строки значений разделенных запятыми
+description: Формирует ответы как значения разделенные запятыми string
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.model/iomrelement/getcsv/
 ---
 ## IOmrElement.GetCsv method
 
-Формирует ответы в виде строки значений, разделенных запятыми
+Формирует ответы как значения, разделенные запятыми string
 
 ```csharp
 public string GetCsv()
@@ -16,7 +16,7 @@ public string GetCsv()
 
 ### Возвращаемое значение
 
-Результаты распознавания как строка CSV
+Результат распознавания в виде строки CSV
 
 ### Смотрите также
 

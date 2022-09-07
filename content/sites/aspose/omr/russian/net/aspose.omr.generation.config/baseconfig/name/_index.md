@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: Имя элемента omr. Может использоваться в разных случаях на основе элемента
+description: Имя элемента omr. Может использоваться в разных случаях на основе element
 type: docs
 weight: 10
 url: /ru/net/aspose.omr.generation.config/baseconfig/name/
 ---
 ## BaseConfig.Name property
 
-Имя элемента omr. Может использоваться в разных случаях на основе элемента
+Имя элемента omr. Может использоваться в разных случаях на основе element
 
 ```csharp
 public abstract string Name { get; set; }

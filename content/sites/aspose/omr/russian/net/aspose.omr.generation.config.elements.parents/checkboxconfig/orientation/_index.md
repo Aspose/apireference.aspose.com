@@ -1,14 +1,14 @@
 ---
 title: Orientation
 second_title: Справочник по Aspose.OMR для .NET API
-description: Управление положением дочерних элементов. В настоящее время поддерживаются только горизонтальные.
+description: Управление положением дочерних элементов. В настоящее время поддерживается только горизонтальное положение.
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.omr.generation.config.elements.parents/checkboxconfig/orientation/
 ---
 ## CheckBoxConfig.Orientation property
 
-Управление положением дочерних элементов. В настоящее время поддерживаются только горизонтальные.
+Управление положением дочерних элементов. В настоящее время поддерживается только горизонтальное положение.
 
 ```csharp
 public Orientation Orientation { get; set; }

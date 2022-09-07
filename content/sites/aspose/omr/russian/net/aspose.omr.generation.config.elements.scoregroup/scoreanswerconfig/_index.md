@@ -1,14 +1,14 @@
 ---
 title: ScoreAnswerConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Ответ с подсчетом очков
+description: Ответ с выставленным значением
 type: docs
 weight: 280
 url: /ru/net/aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/
 ---
 ## ScoreAnswerConfig class
 
-Ответ с подсчетом очков
+Ответ с выставленным значением
 
 ```csharp
 public class ScoreAnswerConfig : ContentConfig
@@ -24,13 +24,13 @@ public class ScoreAnswerConfig : ContentConfig
 
 | Имя | Описание |
 | --- | --- |
-| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Выравнивание строки содержимого внутри родителя |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Выравнивание строки содержимого внутри parent |
 | [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Тип отображения текста. |
-| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | Стиль текста |
 | override [Name](../../aspose.omr.generation.config.elements/contentconfig/name) { get; set; } | Значение содержимого |
-| [Score](../../aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/score) { get; set; } | Количество очков |
+| [Score](../../aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/score) { get; set; } | Сумма баллов |
 | override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

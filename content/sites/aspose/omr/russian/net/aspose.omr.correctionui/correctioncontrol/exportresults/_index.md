@@ -16,7 +16,7 @@ public void ExportResults(string exportPath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| exportPath | String | Путь к экспорт |
+| exportPath | String | Путь к экспорту |
 
 ### Смотрите также
 

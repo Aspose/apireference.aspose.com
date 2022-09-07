@@ -1,14 +1,14 @@
 ---
 title: TemplateProcessor
 second_title: Справочник по Aspose.OMR для .NET API
-description: Класс для обработки шаблонов и изображений.  Каждый экземпляр этого класса работает с одним шаблоном OMR. Умеет распознавать изображения шаблона указанного в конструкторе.
+description: Класс для обработки шаблонов и изображений.  Каждый экземпляр этого класса работает с одним шаблоном OMR. Он способен распознавать изображения шаблона указанного в конструкторе.
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.api/templateprocessor/
 ---
 ## TemplateProcessor class
 
-Класс для обработки шаблонов и изображений.  Каждый экземпляр этого класса работает с одним шаблоном OMR. Умеет распознавать изображения шаблона, указанного в конструкторе.
+Класс для обработки шаблонов и изображений.  Каждый экземпляр этого класса работает с одним шаблоном OMR. Он способен распознавать изображения шаблона, указанного в конструкторе.
 
 ```csharp
 public class TemplateProcessor
@@ -18,9 +18,9 @@ public class TemplateProcessor
 
 | Имя | Описание |
 | --- | --- |
-| [Recalculate](../../aspose.omr.api/templateprocessor/recalculate)(RecognitionResult, int) | Обновляет результат распознавания с помощью тонко настроенных параметров. |
+| [Recalculate](../../aspose.omr.api/templateprocessor/recalculate)(RecognitionResult, int) | Обновляет результат распознавания с использованием точно настроенных параметров. |
 | [RecognizeFolder](../../aspose.omr.api/templateprocessor/recognizefolder)(string, int) | Распознает изображения из папки |
-| [RecognizeImage](../../aspose.omr.api/templateprocessor/recognizeimage#recognizeimage)(MemoryStream, int) | Распознавание изображения из потока памяти |
+| [RecognizeImage](../../aspose.omr.api/templateprocessor/recognizeimage#recognizeimage)(MemoryStream, int) | Распознавание изображения из памяти stream |
 | [RecognizeImage](../../aspose.omr.api/templateprocessor/recognizeimage#recognizeimage_1)(string, int) | Распознает изображение |
 | [RecognizeMultiPageTemplate](../../aspose.omr.api/templateprocessor/recognizemultipagetemplate)(string[], int) | Распознает многостраничный шаблон |
 

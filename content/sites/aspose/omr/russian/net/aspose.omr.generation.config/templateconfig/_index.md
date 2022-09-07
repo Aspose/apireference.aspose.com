@@ -3,7 +3,7 @@ title: TemplateConfig
 second_title: Справочник по Aspose.OMR для .NET API
 description: Корневой элемент содержащий все остальные элементы omr
 type: docs
-weight: 540
+weight: 560
 url: /ru/net/aspose.omr.generation.config/templateconfig/
 ---
 ## TemplateConfig class

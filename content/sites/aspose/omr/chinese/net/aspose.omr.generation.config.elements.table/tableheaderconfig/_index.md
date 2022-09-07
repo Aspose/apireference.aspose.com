@@ -32,9 +32,9 @@ public class TableHeaderConfig : ParentConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontFamily](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontfamily) | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontsize) | 文本字体大小 |
-| [FontStyle](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontstyle) | 文本的样式 |
+| [FontFamily](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontfamily) | text 的字体系列 |
+| [FontSize](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontsize) | 文字字体大小 |
+| [FontStyle](../../aspose.omr.generation.config.elements.table/tableheaderconfig/fontstyle) | 文字的样式 |
 
 ### 也可以看看
 

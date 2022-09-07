@@ -1,14 +1,14 @@
 ---
 title: BubbleArrayConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Отображение возможных ответов в виде вариантов каждого внутри круга пузырька. Может использоваться только внутриCustomRowConfig./customrowconfig
+description: Отображение возможных ответов в виде вариантов каждого внутри круга пузырька. Можно использовать только внутриCustomRowConfig./customrowconfig
 type: docs
 weight: 130
 url: /ru/net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/
 ---
 ## BubbleArrayConfig class
 
-Отображение возможных ответов в виде вариантов каждого внутри круга (пузырька). Может использоваться только внутри[`CustomRowConfig`](../customrowconfig)
+Отображение возможных ответов в виде вариантов каждого внутри круга (пузырька). Можно использовать только внутри[`CustomRowConfig`](../customrowconfig)
 
 ```csharp
 public class BubbleArrayConfig : BaseConfig
@@ -24,12 +24,13 @@ public class BubbleArrayConfig : BaseConfig
 
 | Имя | Описание |
 | --- | --- |
-| [AnswersValues](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues) { get; set; } | Каждое значение представляет собой символ внутри пузырька. Должен иметь тот же счетчик, что и!:AnswersCount Пример:новая строка[] {"A", "B", "C", "D"} Пример:новая строка[] {"1", "2", "3", "4"} |
+| [AnswersValues](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues) { get; set; } | Каждое значение представляет собой символ внутри пузырька. Должен иметь тот же счет, что и!:AnswersCount Пример: новая строка[] {"A", "B", "C", "D"} Пример: новая строка[] {"1", "2", "3", "4"} |
 | [BubbleSize](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/bubblesize) { get; set; } | Размер пузыря |
-| [FontFamily](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontfamily) { get; set; } | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontsize) { get; set; } | Размер шрифта текста |
+| [BubbleType](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/bubbletype) { get; set; } | Тип пузыря |
+| [FontFamily](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontfamily) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontsize) { get; set; } | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontstyle) { get; set; } | Стиль текста |
-| override [Name](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/name) { get; set; } | Имя массива пузырьков. Не участвует в отображении или генерации элемента |
+| override [Name](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/name) { get; set; } | Имя массива пузырьков. Не участвует в отображении или генерации element |
 | override [Type](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

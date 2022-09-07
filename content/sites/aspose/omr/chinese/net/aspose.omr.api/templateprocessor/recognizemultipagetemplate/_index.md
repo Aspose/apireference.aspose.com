@@ -17,7 +17,7 @@ public RecognitionResult[] RecognizeMultiPageTemplate(string[] imagePaths,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imagePaths | String[] | 图像的路径识别 |
+| imagePaths | String[] | 要识别的图像的路径 |
 | recognitionThreshold | Int32 | （可选）范围内的识别阈值（0..100）。 只有填充到阈值以上的元素才会被视为已填充。 |
 
 ### 返回值

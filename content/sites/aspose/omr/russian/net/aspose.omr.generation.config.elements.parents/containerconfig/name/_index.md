@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.OMR для .NET API
-description: Имя элемента контейнера
+description: Имя контейнера element
 type: docs
 weight: 80
 url: /ru/net/aspose.omr.generation.config.elements.parents/containerconfig/name/
 ---
 ## ContainerConfig.Name property
 
-Имя элемента контейнера
+Имя контейнера element
 
 ```csharp
 public override string Name { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Справочник по Aspose.OMR для .NET API
-description: Координата Y. Установите значение -1 для пропуска
+description: Координата Y. Установите значение 1 для skip
 type: docs
 weight: 110
 url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/y/
 ---
 ## BarcodeConfig.Y property
 
-Координата Y. Установите значение -1 для пропуска
+Координата Y. Установите значение -1 для skip
 
 ```csharp
 public int Y { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Threshold
 second_title: Справочник по Aspose.OMR для .NET API
-description: Процент пикселей после которых пузырьки считаются отмеченными
+description: Процент пикселей после которых пузырьки считаются помеченными
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold/
 ---
 ## VerticalChoiceBoxConfig.Threshold property
 
-Процент пикселей, после которых пузырьки считаются отмеченными
+Процент пикселей, после которых пузырьки считаются помеченными
 
 ```csharp
 public int Threshold { get; set; }

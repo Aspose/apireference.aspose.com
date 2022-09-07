@@ -1,14 +1,14 @@
 ---
 title: GetJson
 second_title: Справочник по Aspose.OMR для .NET API
-description: Формируем строку JSON с результатами распознавания в виде MemoryStream
+description: Формируем строку JSON с результатами распознавания как MemoryStream
 type: docs
 weight: 80
 url: /ru/net/aspose.omr.model/recognitionresult/getjson/
 ---
 ## GetJson(Encoding) {#getjson}
 
-Формируем строку JSON с результатами распознавания в виде MemoryStream
+Формируем строку JSON с результатами распознавания как MemoryStream
 
 ```csharp
 public byte[] GetJson(Encoding encoding)
@@ -16,7 +16,7 @@ public byte[] GetJson(Encoding encoding)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| encoding | Encoding | Кодирование с которую мы кодируем в строку JSON |
+| encoding | Encoding | Кодировка, с помощью которой мы кодируем строку JSON |
 
 ### Возвращаемое значение
 
@@ -32,7 +32,7 @@ public byte[] GetJson(Encoding encoding)
 
 ## GetJson() {#getjson_1}
 
-Формируем строку JSON с результатами распознавания
+Строка формы JSON с результатами распознавания
 
 ```csharp
 public string GetJson()
@@ -40,7 +40,7 @@ public string GetJson()
 
 ### Возвращаемое значение
 
-Результаты распознавания как строку JSON
+Результаты распознавания в виде строки JSON
 
 ### Смотрите также
 

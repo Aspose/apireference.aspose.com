@@ -3,15 +3,15 @@ title: BubbleSize
 second_title: Справочник по Aspose.OMR для .NET API
 description: Размер пузыря
 type: docs
-weight: 140
+weight: 20
 url: /ru/net/aspose.omr.generation.config.elements/gridconfig/bubblesize/
 ---
-## GridConfig.BubbleSize field
+## GridConfig.BubbleSize property
 
 Размер пузыря
 
 ```csharp
-public BubbleSize BubbleSize;
+public BubbleSize BubbleSize { get; set; }
 ```
 
 ### Смотрите также

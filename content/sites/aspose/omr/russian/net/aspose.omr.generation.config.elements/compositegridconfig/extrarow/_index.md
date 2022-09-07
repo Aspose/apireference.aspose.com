@@ -1,14 +1,14 @@
 ---
 title: ExtraRow
 second_title: Справочник по Aspose.OMR для .NET API
-description: Значения для конкретных столбцов которые будут помещены поверх значений по умолчанию -Valuesaspose.omr.generation.config.elements/compositegridconfig/values. Представлено в виде двумерного массива. Первый - ряд. Второй - колонка. Каждая строка представляет собой текст внутри пузырька. если строка пуста пузырь не будет размещен. Количество столбцов должно быть равноColumnsCountaspose.omr.generation.config.elements/compositegridconfig/columnscount
+description: Значения для конкретных столбцов которые будут помещены поверх значений по умолчанию Valuesaspose.omr.generation.config.elements/compositegridconfig/values. Представлено в виде двумерного массива. Первая  строка. Второй  столбец. Каждая строка представляет собой текст внутри пузырька. если строка равна нулю пузырь не будет размещен. Количество столбцов должно быть равноColumnsCountaspose.omr.generation.config.elements/compositegridconfig/columnscount
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/extrarow/
 ---
 ## CompositeGridConfig.ExtraRow property
 
-Значения для конкретных столбцов, которые будут помещены поверх значений по умолчанию -[`Values`](../values). Представлено в виде двумерного массива. Первый - ряд. Второй - колонка. Каждая строка представляет собой текст внутри пузырька. если строка пуста, пузырь не будет размещен. Количество столбцов должно быть равно[`ColumnsCount`](../columnscount)
+Значения для конкретных столбцов, которые будут помещены поверх значений по умолчанию -[`Values`](../values). Представлено в виде двумерного массива. Первая - строка. Второй - столбец. Каждая строка представляет собой текст внутри пузырька. если строка равна нулю, пузырь не будет размещен. Количество столбцов должно быть равно[`ColumnsCount`](../columnscount)
 
 ```csharp
 public string[][] ExtraRow { get; set; }

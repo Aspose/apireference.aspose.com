@@ -25,12 +25,12 @@ public class ScoreQuestionConfig : ParentConfig
 | Имя | Описание |
 | --- | --- |
 | override [Children](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/children) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
-| [FontFamily](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontfamily) { get; set; } | Семейство шрифтов текста |
-| [FontSize](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontsize) { get; set; } | Размер шрифта текста |
+| [FontFamily](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontfamily) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontsize) { get; set; } | Размер текста font |
 | [FontStyle](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontstyle) { get; set; } | Стиль текста |
 | override [Name](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/name) { get; set; } | Имя элемента RepeatRows |
-| [Proportions](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/proportions) { get; set; } | Отношение ширины каждого столбца внутри него |
-| [ScoreDisplay](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/scoredisplay) { get; set; } | Описать поведение отображения значения счета. |
+| [Proportions](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/proportions) { get; set; } | Отношение ширины каждого столбца внутри it |
+| [ScoreDisplay](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/scoredisplay) { get; set; } | Описать поведение отображения значения оценки. |
 | override [Type](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: FontFamily
 second_title: Aspose.OMR for .NET API 参考
-description: 文本的字体系列
+description: text 的字体系列
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements/choiceboxconfig/fontfamily/
 ---
 ## ChoiceBoxConfig.FontFamily property
 
-文本的字体系列
+text 的字体系列
 
 ```csharp
 public string FontFamily { get; set; }

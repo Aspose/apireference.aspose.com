@@ -1,14 +1,14 @@
 ---
 title: HeaderType
 second_title: Aspose.OMR for .NET API 参考
-description: 表示要在网格开始处绘制什么类型的元素
+description: 表示在网格开始处要绘制什么类型的元素
 type: docs
-weight: 70
+weight: 90
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/headertype/
 ---
 ## GridConfig.HeaderType property
 
-表示要在网格开始处绘制什么类型的元素
+表示在网格开始处要绘制什么类型的元素
 
 ```csharp
 public GridHeaderTypeEnum HeaderType { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ColumnsCount
 second_title: Aspose.OMR for .NET API 参考
-description: 容器内的列数在相等的列上划分 Proportionsaspose.omr.generation.config.elements.parents/containerconfig/proportions
+description: 容器内的列数在相等的列上划分 的过时版本Proportionsaspose.omr.generation.config.elements.parents/containerconfig/proportions
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.generation.config.elements.parents/containerconfig/columnscount/
 ---
 ## ContainerConfig.ColumnsCount property
 
-容器内的列数。在相等的列上划分。 [`Proportions`](../proportions)
+容器内的列数。在相等的列上划分。 的过时版本[`Proportions`](../proportions)
 
 ```csharp
 public int ColumnsCount { get; set; }

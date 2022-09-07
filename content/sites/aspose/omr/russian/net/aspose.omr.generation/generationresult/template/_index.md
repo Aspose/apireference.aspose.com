@@ -1,14 +1,14 @@
 ---
 title: Template
 second_title: Справочник по Aspose.OMR для .NET API
-description: Получает или задает строку шаблона JSON
+description: Получает или задает шаблон JSON string
 type: docs
 weight: 30
 url: /ru/net/aspose.omr.generation/generationresult/template/
 ---
 ## GenerationResult.Template property
 
-Получает или задает строку шаблона JSON
+Получает или задает шаблон JSON string
 
 ```csharp
 public string Template { get; set; }

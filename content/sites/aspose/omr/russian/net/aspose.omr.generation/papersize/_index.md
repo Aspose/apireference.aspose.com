@@ -3,7 +3,7 @@ title: PaperSize
 second_title: Справочник по Aspose.OMR для .NET API
 description: Размер бумаги
 type: docs
-weight: 600
+weight: 620
 url: /ru/net/aspose.omr.generation/papersize/
 ---
 ## PaperSize enumeration
@@ -18,11 +18,11 @@ public enum PaperSize
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Letter | `0` | Размер буквы (2551 x 3295 пикселей) |
+| Letter | `0` | Размер письма (2551 x 3295 пикселей) |
 | A4 | `1` | Размер A4 (2480 x 3508 пикселей) |
 | Legal | `2` | Размер Legal (2551 x 4205 пикселей) |
-| Tabloid | `3` | Tabloid, размер 11" x 17" (3295 x 5102) |
-| p8519 | `4` | Размер 8,5" x 19" (2551 x 5702) |
+| Tabloid | `3` | Таблоид, размер 11 x 17 дюймов (3295 x 5102) |
+| p8519 | `4` | Размер 8,5 x 19 дюймов (2551 x 5702) |
 | p8521 | `5` | Размер 8,5 x 21" (2551 x 6302) |
 
 ### Смотрите также

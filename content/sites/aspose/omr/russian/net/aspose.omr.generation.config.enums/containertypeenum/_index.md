@@ -3,7 +3,7 @@ title: ContainerTypeEnum
 second_title: Справочник по Aspose.OMR для .NET API
 description: ТипContainerConfig../aspose.omr.generation.config.elements.parents/containerconfig
 type: docs
-weight: 440
+weight: 450
 url: /ru/net/aspose.omr.generation.config.enums/containertypeenum/
 ---
 ## ContainerTypeEnum enumeration
@@ -18,7 +18,7 @@ public enum ContainerTypeEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Normal | `0` | Контейнер будет отрисован в соответствии с его позицией |
+| Normal | `0` | Контейнер будет отрисовываться в соответствии с его позицией |
 | Footer | `2` | Контейнер будет отрисовываться в футере - в конце страницы. |
 
 ### Смотрите также

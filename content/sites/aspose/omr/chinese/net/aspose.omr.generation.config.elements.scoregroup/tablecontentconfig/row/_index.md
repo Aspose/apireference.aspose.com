@@ -1,7 +1,7 @@
 ---
 title: Row
 second_title: Aspose.OMR for .NET API 参考
-description: 表中的行位置 第一行 - 1
+description: 表中的行位置 第一行  1
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row/

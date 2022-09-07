@@ -1,14 +1,14 @@
 ---
 title: RecognizeFolder
 second_title: Aspose.OMR for .NET API 参考
-description: 识别文件夹
+description: 识别文件夹中的图像
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.api/templateprocessor/recognizefolder/
 ---
 ## TemplateProcessor.RecognizeFolder method
 
-识别文件夹
+识别文件夹中的图像
 
 ```csharp
 public RecognitionResult[] RecognizeFolder(string folderPath, int recognitionThreshold = -100)
@@ -16,7 +16,7 @@ public RecognitionResult[] RecognizeFolder(string folderPath, int recognitionThr
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| folderPath | String | 文件夹路径要识别的图像位于 |
+| folderPath | String | 要识别的图像所在文件夹的路径 |
 | recognitionThreshold | Int32 | （可选）范围内的识别阈值（0..100）。 只有填充到阈值以上的元素才会被视为已填充。 |
 
 ### 返回值

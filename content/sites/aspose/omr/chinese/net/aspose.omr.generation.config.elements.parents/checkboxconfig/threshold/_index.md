@@ -3,7 +3,7 @@ title: Threshold
 second_title: Aspose.OMR for .NET API 参考
 description: 自定义识别标记 默认设置为 3 如果填充了 3 的区域复选框将被视为已标记 可以自定义为任何其他阈值 不影响全局阈值
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/threshold/
 ---
 ## CheckBoxConfig.Threshold property

@@ -16,7 +16,7 @@ public void LoadAndDisplayImage(string imagePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imagePath | String | Путь к заполненное изображение для распознавания |
+| imagePath | String | Путь к заполненному изображению для распознавания |
 
 ### Смотрите также
 

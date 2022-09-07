@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.OMR for .NET API 参考
-description: Y 坐标为跳过
+description: Y 坐标将 skip 的值设置为 1
 type: docs
 weight: 110
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/y/
 ---
 ## BarcodeConfig.Y property
 
-Y 坐标。为跳过
+Y 坐标。将 skip 的值设置为 -1
 
 ```csharp
 public int Y { get; set; }

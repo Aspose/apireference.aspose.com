@@ -1,14 +1,14 @@
 ---
 title: FontFamily
 second_title: Справочник по Aspose.OMR для .NET API
-description: Семейство шрифтов текста
+description: Семейство шрифтов text
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily/
 ---
 ## CheckBoxConfig.FontFamily property
 
-Семейство шрифтов текста
+Семейство шрифтов text
 
 ```csharp
 public string FontFamily { get; set; }

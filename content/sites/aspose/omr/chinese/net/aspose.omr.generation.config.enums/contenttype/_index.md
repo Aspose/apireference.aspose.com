@@ -3,7 +3,7 @@ title: ContentType
 second_title: Aspose.OMR for .NET API 参考
 description: 内容显示类型
 type: docs
-weight: 450
+weight: 460
 url: /zh/net/aspose.omr.generation.config.enums/contenttype/
 ---
 ## ContentType enumeration
@@ -19,7 +19,7 @@ public enum ContentType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Normal | `0` | 默认值。按原样绘制文本。 |
-| Cells | `1` | 绘制单元格。行内的每个符号都包含在矩形（单元格）中 |
+| Cells | `1` | 绘制单元格。行内的每个符号都包含在矩形（单元格） 中 |
 
 ### 也可以看看
 

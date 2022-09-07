@@ -1,14 +1,14 @@
 ---
 title: ColumnsCount
 second_title: Справочник по Aspose.OMR для .NET API
-description: Количество столбцов внутри сетки. Каждый столбец представляет один символ в результирующем значении Сумма должна быть равнаExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarowколичество столбцов
+description: Количество столбцов внутри сетки. Каждый столбец представляет один символ в результате value Сумма должна быть равнаExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow количество столбцов
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/columnscount/
 ---
 ## CompositeGridConfig.ColumnsCount property
 
-Количество столбцов внутри сетки. Каждый столбец представляет один символ в результирующем значении Сумма должна быть равна[`ExtraRow`](../extrarow)количество столбцов
+Количество столбцов внутри сетки. Каждый столбец представляет один символ в результате value Сумма должна быть равна[`ExtraRow`](../extrarow) количество столбцов
 
 ```csharp
 public int ColumnsCount { get; set; }

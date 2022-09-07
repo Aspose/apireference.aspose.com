@@ -3,7 +3,7 @@ title: Metered
 second_title: Справочник по Aspose.OMR для .NET API
 description: Предоставляет методы для установки измеренного ключа.
 type: docs
-weight: 620
+weight: 640
 url: /ru/net/aspose.omr/metered/
 ---
 ## Metered class
@@ -24,13 +24,13 @@ public class Metered
 
 | Имя | Описание |
 | --- | --- |
-| [SetMeteredKey](../../aspose.omr/metered/setmeteredkey)(string, string) | Устанавливает измеренный открытый и закрытый ключ |
-| static [GetConsumptionCredit](../../aspose.omr/metered/getconsumptioncredit)() | Получает кредит потребления |
+| [SetMeteredKey](../../aspose.omr/metered/setmeteredkey)(string, string) | Устанавливает лимитированный открытый и закрытый ключ |
+| static [GetConsumptionCredit](../../aspose.omr/metered/getconsumptioncredit)() | Получает потребительский кредит |
 | static [GetConsumptionQuantity](../../aspose.omr/metered/getconsumptionquantity)() | Получает размер файла потребления |
 
 ### Примеры
 
-В этом примере будет предпринята попытка установить дозированные открытый и закрытый ключ
+В этом примере будет предпринята попытка установить лимитированный открытый и закрытый ключ
 
 ```csharp
 [C#]

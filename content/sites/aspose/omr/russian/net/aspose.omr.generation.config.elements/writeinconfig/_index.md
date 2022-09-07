@@ -25,7 +25,7 @@ public class WriteInConfig : BaseConfig
 | Имя | Описание |
 | --- | --- |
 | override [Name](../../aspose.omr.generation.config.elements/writeinconfig/name) { get; set; } | Имя области записи и имя изображения при распознавании. |
-| [Required](../../aspose.omr.generation.config.elements/writeinconfig/required) { get; set; } | Требуется ли обрезка поля записи |
+| [Required](../../aspose.omr.generation.config.elements/writeinconfig/required) { get; set; } | Требуется ли отсечение поля записи |
 | override [Type](../../aspose.omr.generation.config.elements/writeinconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также

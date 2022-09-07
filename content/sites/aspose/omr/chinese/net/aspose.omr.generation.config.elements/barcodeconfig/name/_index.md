@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 条码名称对于值Valueaspose.omr.generation.config.elements/barcodeconfig/value
+description: 条形码名称为了价值Valueaspose.omr.generation.config.elements/barcodeconfig/value
 type: docs
 weight: 70
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/name/
 ---
 ## BarcodeConfig.Name property
 
-条码名称。对于值[`Value`](../value)
+条形码名称。为了价值[`Value`](../value)
 
 ```csharp
 public override string Name { get; set; }

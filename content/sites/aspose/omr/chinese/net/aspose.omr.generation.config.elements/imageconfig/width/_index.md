@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.OMR for .NET API 参考
-description: 图像宽度
+description: 图像的宽度
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.generation.config.elements/imageconfig/width/
 ---
 ## ImageConfig.Width property
 
-图像宽度
+图像的宽度
 
 ```csharp
 public int Width { get; set; }

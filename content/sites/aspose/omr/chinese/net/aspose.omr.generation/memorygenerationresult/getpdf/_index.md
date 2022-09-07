@@ -1,14 +1,14 @@
 ---
 title: GetPDF
 second_title: Aspose.OMR for .NET API 参考
-description: 从GenerationResultaspose.omr.generation/generationresult作为 MemoryStream 获取 .pdf 文件
+description: 从GenerationResultaspose.omr.generation/generationresult作为 MemoryStream.
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation/memorygenerationresult/getpdf/
 ---
 ## MemoryGenerationResult.GetPDF method
 
-从[`GenerationResult`](../../generationresult)作为 MemoryStream 获取 .pdf 文件。
+从[`GenerationResult`](../../generationresult)作为 MemoryStream.
 
 ```csharp
 public IEnumerable<MemoryStream> GetPDF()
@@ -16,7 +16,7 @@ public IEnumerable<MemoryStream> GetPDF()
 
 ### 返回值
 
-pdf格式的模板图像
+模板图像为 pdf
 
 ### 也可以看看
 

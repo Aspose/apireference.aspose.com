@@ -10,7 +10,7 @@ url: /zh/net/aspose.omr.correctionui/correctioncontrol/
 
 允许识别图像以及校正和校准识别参数的用户控件
 
-CorrectionControl
+修正控制
 
 ```csharp
 public class CorrectionControl : UserControl, IComponentConnector
@@ -20,10 +20,10 @@ public class CorrectionControl : UserControl, IComponentConnector
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExportResults](../../aspose.omr.correctionui/correctioncontrol/exportresults)(string) | 导出图像识别结果 |
+| [ExportResults](../../aspose.omr.correctionui/correctioncontrol/exportresults)(string) | 导出图像的识别结果 |
 | [Initialize](../../aspose.omr.correctionui/correctioncontrol/initialize)() | 初始化控件 |
-| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent)() | InitializeComponent |
-| [LoadAndDisplayImage](../../aspose.omr.correctionui/correctioncontrol/loadanddisplayimage)(string) | 加载并显示图像以供识别 |
+| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent)() | 初始化组件 |
+| [LoadAndDisplayImage](../../aspose.omr.correctionui/correctioncontrol/loadanddisplayimage)(string) | 加载并显示用于识别的图像 |
 | [RecognizeImage](../../aspose.omr.correctionui/correctioncontrol/recognizeimage)() | 识别图像 |
 
 ### 也可以看看

@@ -3,7 +3,7 @@ title: Children
 second_title: Aspose.OMR for .NET API 参考
 description: 子 omr 元素在大多数情况下位于父级内部或下方
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/children/
 ---
 ## CheckBoxConfig.Children property

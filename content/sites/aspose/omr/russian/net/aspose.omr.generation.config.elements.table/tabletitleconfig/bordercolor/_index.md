@@ -1,14 +1,14 @@
 ---
 title: BorderColor
 second_title: Справочник по Aspose.OMR для .NET API
-description: Цвет рамки
+description: Цвет границы
 type: docs
 weight: 50
 url: /ru/net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor/
 ---
 ## TableTitleConfig.BorderColor field
 
-Цвет рамки
+Цвет границы
 
 ```csharp
 public Color BorderColor;

@@ -1,14 +1,14 @@
 ---
 title: TextAlignment
 second_title: Aspose.OMR for .NET API 参考
-description: 文本对齐指示文本应该在页面上绘制的位置
+description: 文本对齐指示应该在页面上绘制文本的位置
 type: docs
 weight: 80
 url: /zh/net/aspose.omr.generation.config.elements/choiceboxconfig/textalignment/
 ---
 ## ChoiceBoxConfig.TextAlignment property
 
-文本对齐，指示文本应该在页面上绘制的位置
+文本对齐，指示应该在页面上绘制文本的位置
 
 ```csharp
 public AlignmentEnum TextAlignment { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.OMR for .NET API 参考
-description: 标题文本值
+description: 标题的文本值
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/name/
 ---
 ## TableTitleConfig.Name property
 
-标题文本值
+标题的文本值
 
 ```csharp
 public override string Name { get; set; }

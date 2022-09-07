@@ -25,11 +25,11 @@ public class ImageConfig : BaseConfig
 | Имя | Описание |
 | --- | --- |
 | [Height](../../aspose.omr.generation.config.elements/imageconfig/height) { get; set; } | Высота изображения |
-| override [Name](../../aspose.omr.generation.config.elements/imageconfig/name) { get; set; } | Название картинки. Необходимый. |
-| [Path](../../aspose.omr.generation.config.elements/imageconfig/path) { get; set; } | Путь к картинке. Заполняется с использованием[`Name`](./name)и[`ImagesPaths`](../../aspose.omr.generation/globalpagesettings/imagespaths) |
+| override [Name](../../aspose.omr.generation.config.elements/imageconfig/name) { get; set; } | Название изображения. Требуется. |
+| [Path](../../aspose.omr.generation.config.elements/imageconfig/path) { get; set; } | Путь к картинке. Заполнено с использованием[`Name`](./name) а также[`ImagesPaths`](../../aspose.omr.generation/globalpagesettings/imagespaths) |
 | override [Type](../../aspose.omr.generation.config.elements/imageconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 | [Width](../../aspose.omr.generation.config.elements/imageconfig/width) { get; set; } | Ширина изображения |
-| [XPosition](../../aspose.omr.generation.config.elements/imageconfig/xposition) { get; set; } | Положение сетки X на странице, переопределяет выравнивание |
+| [XPosition](../../aspose.omr.generation.config.elements/imageconfig/xposition) { get; set; } | Позиция сетки X на странице, переопределяет выравнивание |
 | [YPosition](../../aspose.omr.generation.config.elements/imageconfig/yposition) { get; set; } | Положение сетки Y на странице, переопределяет выравнивание |
 
 ## Поля

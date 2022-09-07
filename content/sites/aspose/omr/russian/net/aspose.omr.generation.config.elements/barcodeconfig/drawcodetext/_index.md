@@ -1,7 +1,7 @@
 ---
 title: DrawCodetext
 second_title: Справочник по Aspose.OMR для .NET API
-description: Указывает отображать ли текст под изображением штрих-кода
+description: Указывает отображать ли текст под изображением штрихкода
 type: docs
 weight: 50
 url: /ru/net/aspose.omr.generation.config.elements/barcodeconfig/drawcodetext/

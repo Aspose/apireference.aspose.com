@@ -16,6 +16,7 @@ public QRVersion BarcodeQRVersion { get; set; }
 
 ### 也可以看看
 
+* enum [QRVersion](../../../aspose.omr.generation.config.enums/qrversion)
 * class [BarcodeConfig](../../barcodeconfig)
 * 命名空间 [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
 * 部件 [Aspose.OMR](../../../)

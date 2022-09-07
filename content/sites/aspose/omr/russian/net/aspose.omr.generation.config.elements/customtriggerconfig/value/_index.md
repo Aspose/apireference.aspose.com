@@ -3,7 +3,7 @@ title: Value
 second_title: Справочник по Aspose.OMR для .NET API
 description: Значение пользовательского триггера. Использование этого значения зависит отTriggerTypeaspose.omr.generation.config.elements/customtriggerconfig/triggertype
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.omr.generation.config.elements/customtriggerconfig/value/
 ---
 ## CustomTriggerConfig.Value property

@@ -1,14 +1,14 @@
 ---
 title: TableType
 second_title: Aspose.OMR for .NET API 参考
-description: 表类型
+description: 表格类型
 type: docs
-weight: 510
+weight: 530
 url: /zh/net/aspose.omr.generation.config.enums/tabletype/
 ---
 ## TableType enumeration
 
-表类型
+表格类型
 
 ```csharp
 public enum TableType
@@ -19,7 +19,7 @@ public enum TableType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 简单表 |
-| Striped | `1` | 条带表 |
+| Striped | `1` | 条纹表 |
 | EqualCells | `2` | 每列的宽度相等 |
 
 ### 也可以看看

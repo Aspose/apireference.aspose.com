@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Справочник по Aspose.OMR для .NET API
-description: Цвет фона заголовка таблицы
+description: Цвет фона таблицы title
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor/
 ---
 ## TableTitleConfig.BackgroundColor field
 
-Цвет фона заголовка таблицы
+Цвет фона таблицы title
 
 ```csharp
 public Color BackgroundColor;

@@ -3,7 +3,7 @@ title: GlobalPageSettings
 second_title: Aspose.OMR for .NET API 参考
 description: 适用于所有页面元素的全局设置
 type: docs
-weight: 570
+weight: 590
 url: /zh/net/aspose.omr.generation/globalpagesettings/
 ---
 ## GlobalPageSettings class
@@ -24,16 +24,16 @@ public class GlobalPageSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BubbleColor](../../aspose.omr.generation/globalpagesettings/bubblecolor) | 气泡颜色 |
-| [BubbleSize](../../aspose.omr.generation/globalpagesettings/bubblesize) | 气泡大小 |
-| [FontFamily](../../aspose.omr.generation/globalpagesettings/fontfamily) | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | 文本字体大小 |
-| [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | 文本的样式 |
-| [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | 生成时使用的图像的完整路径 |
+| [BubbleColor](../../aspose.omr.generation/globalpagesettings/bubblecolor) | 气泡的颜色 |
+| [BubbleSize](../../aspose.omr.generation/globalpagesettings/bubblesize) | 气泡的大小 |
+| [FontFamily](../../aspose.omr.generation/globalpagesettings/fontfamily) | text 的字体系列 |
+| [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | 文字字体大小 |
+| [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | 文字的样式 |
+| [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | 生成中使用的图像的完整路径 |
 | [Orientation](../../aspose.omr.generation/globalpagesettings/orientation) | 页面方向 |
-| [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | 页面左边距像素 |
-| [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | 页面右边距像素 |
-| [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | 纸张大小 |
+| [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | 像素上的页面左边距 |
+| [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | 像素上页面的右边距 |
+| [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | 纸张尺寸 |
 
 ### 也可以看看
 
